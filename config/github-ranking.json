@@ -1,1 +1,113 @@
-
+{
+  "github": {
+    "owner": "sifted-network",
+    "repo": "sifted-awesome-web3",
+    "branch": "main",
+    "contentPath": "feed-entries",
+    "rankingPath": "data",
+    "top100Path": "top100"
+  },
+  "categories": [
+    {
+      "name": "core-blockchain",
+      "desc": "Base blockchain systems",
+      "topics": [
+        "blockchain",
+        "layer1",
+        "layer2",
+        "consensus",
+        "rollup"
+      ]
+    },
+    {
+      "name": "smart-contracts",
+      "desc": "On-chain programmability",
+      "topics": [
+        "smart-contract",
+        "evm",
+        "solidity",
+        "security"
+      ]
+    },
+    {
+      "name": "defi",
+      "desc": "On-chain financial systems",
+      "topics": [
+        "defi",
+        "dex",
+        "amm",
+        "lending",
+        "stablecoin"
+      ]
+    },
+    {
+      "name": "nft-assets",
+      "desc": "Digital ownership",
+      "topics": [
+        "nft",
+        "erc721",
+        "marketplace",
+        "digital-ownership"
+      ]
+    },
+    {
+      "name": "infrastructure",
+      "desc": "Web3 backend infrastructure",
+      "topics": [
+        "ipfs",
+        "rpc",
+        "indexing",
+        "oracle",
+        "cross-chain"
+      ]
+    },
+    {
+      "name": "identity",
+      "desc": "Wallets and identity systems",
+      "topics": [
+        "wallet",
+        "account-abstraction",
+        "did",
+        "ens"
+      ]
+    },
+    {
+      "name": "dao",
+      "desc": "Governance systems",
+      "topics": [
+        "dao",
+        "governance",
+        "voting",
+        "treasury"
+      ]
+    },
+    {
+      "name": "security",
+      "desc": "Attack and defense",
+      "topics": [
+        "audit",
+        "mev",
+        "exploit",
+        "smart-contract-security"
+      ]
+    },
+    {
+      "name": "scaling",
+      "desc": "Performance scaling",
+      "topics": [
+        "zk-rollup",
+        "optimistic-rollup",
+        "scalability"
+      ]
+    },
+    {
+      "name": "ai-web3",
+      "desc": "AI + blockchain systems",
+      "topics": [
+        "ai-agent",
+        "decentralized-ai",
+        "onchain-ai"
+      ]
+    }
+  ]
+}
