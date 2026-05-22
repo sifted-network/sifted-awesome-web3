@@ -6,13 +6,13 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 223,040 | 13,374 | - | 0 | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | 2024-11-19 |
-| 2 | [ECC](https://github.com/affaan-m/ECC) | 188,475 | 29,170 | JavaScript | 5 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | 2026-05-20 |
-| 3 | [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 112,841 | 10,334 | - | 0 | A collection of various awesome lists for hackers, pentesters and security researchers | 2026-05-07 |
-| 4 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 81,520 | 11,268 | - | 0 | List of Computer Science courses with video lectures. | 2026-05-10 |
+| 1 | [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 223,042 | 13,374 | - | 0 | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | 2024-11-19 |
+| 2 | [ECC](https://github.com/affaan-m/ECC) | 188,477 | 29,170 | JavaScript | 5 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | 2026-05-20 |
+| 3 | [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 112,842 | 10,335 | - | 0 | A collection of various awesome lists for hackers, pentesters and security researchers | 2026-05-07 |
+| 4 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 81,521 | 11,268 | - | 0 | List of Computer Science courses with video lectures. | 2026-05-10 |
 | 5 | [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 77,875 | 16,982 | Python | 0 | A list of useful payloads and bypass for Web Application Security and Pentest/CTF | 2026-04-22 |
 | 6 | [union](https://github.com/unionlabs/union) | 74,041 | 3,891 | Rust | 129 | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. | 2026-05-22 |
-| 7 | [caddy](https://github.com/caddyserver/caddy) | 72,651 | 4,751 | Go | 195 | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | 2026-05-22 |
+| 7 | [caddy](https://github.com/caddyserver/caddy) | 72,652 | 4,751 | Go | 195 | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | 2026-05-22 |
 | 8 | [SecLists](https://github.com/danielmiessler/SecLists) | 71,083 | 25,008 | PHP | 7 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi... | 2026-05-20 |
 | 9 | [gatsby](https://github.com/gatsbyjs/gatsby) | 55,947 | 10,188 | JavaScript | 218 | React-based framework with performance, scalability, and security built in. | 2026-05-20 |
 | 10 | [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | 52,516 | 2,890 | Shell | 395 | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. | 2025-11-11 |
@@ -26,7 +26,7 @@
 | 18 | [nginx](https://github.com/nginx/nginx) | 30,431 | 7,924 | C | 239 | The official NGINX Open Source repository. | 2026-05-22 |
 | 19 | [hosts](https://github.com/StevenBlack/hosts) | 30,407 | 2,412 | Python | 136 | 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories. | 2026-05-20 |
 | 20 | [algo](https://github.com/trailofbits/algo) | 30,238 | 2,360 | Python | 66 | Set up a personal VPN in the cloud | 2026-05-20 |
-| 21 | [nanoclaw](https://github.com/nanocoai/nanoclaw) | 29,263 | 12,853 | TypeScript | 241 | A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct... | 2026-05-20 |
+| 21 | [nanoclaw](https://github.com/nanocoai/nanoclaw) | 29,265 | 12,853 | TypeScript | 241 | A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct... | 2026-05-20 |
 | 22 | [SpringAll](https://github.com/wuyouzhuguli/SpringAll) | 28,982 | 8,130 | Java | 21 | 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc | 2024-05-31 |
 | 23 | [nuclei](https://github.com/projectdiscovery/nuclei) | 28,811 | 3,433 | Go | 92 | Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int... | 2026-05-22 |
 | 24 | [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) | 28,301 | 2,054 | JavaScript | 62 | ⚙️ NGINX config generator on steroids 💉 | 2024-12-14 |
@@ -34,7 +34,7 @@
 | 26 | [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | 27,873 | 6,517 | Shell | 0 | Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and ... | 2026-05-22 |
 | 27 | [authelia](https://github.com/authelia/authelia) | 27,861 | 1,409 | Go | 55 | The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™ | 2026-05-22 |
 | 28 | [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 27,426 | 1,801 | - | 32 | An evolving how-to guide for securing a Linux server. | 2026-03-05 |
-| 29 | [keepassxc](https://github.com/keepassxreboot/keepassxc) | 27,296 | 1,801 | C++ | 766 | KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”. | 2026-05-22 |
+| 29 | [keepassxc](https://github.com/keepassxreboot/keepassxc) | 27,295 | 1,801 | C++ | 766 | KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”. | 2026-05-22 |
 | 30 | [gitleaks](https://github.com/gitleaks/gitleaks) | 27,216 | 2,055 | Go | 249 | Find secrets with Gitleaks 🔑 | 2026-05-21 |
 | 31 | [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27,105 | 12,403 | Solidity | 247 | OpenZeppelin Contracts is a library for secure smart contract development. | 2026-05-22 |
 | 32 | [infisical](https://github.com/Infisical/infisical) | 26,977 | 1,904 | TypeScript | 243 | Infisical is the open-source platform for secrets, certificates, and privileged access management. | 2026-05-22 |
@@ -47,7 +47,7 @@
 | 39 | [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) | 23,233 | 2,664 | - | 1 | Checklist of the most important security countermeasures when designing, testing, and releasing your API | 2026-02-10 |
 | 40 | [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) | 22,405 | 1,461 | - | 7 | Community guide to securing and improving privacy on macOS. | 2026-01-02 |
 | 41 | [eladmin](https://github.com/elunez/eladmin) | 21,924 | 7,366 | Java | 11 | eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由 | 2026-05-09 |
-| 42 | [sops](https://github.com/getsops/sops) | 21,864 | 1,027 | Go | 364 | Simple and flexible tool for managing secrets | 2026-05-18 |
+| 42 | [sops](https://github.com/getsops/sops) | 21,865 | 1,027 | Go | 364 | Simple and flexible tool for managing secrets | 2026-05-18 |
 | 43 | [authentik](https://github.com/goauthentik/authentik) | 21,589 | 1,601 | Python | 808 | The authentication glue you need. | 2026-05-22 |
 | 44 | [mimikatz](https://github.com/gentilkiwi/mimikatz) | 21,578 | 4,120 | C | 154 | A little tool to play with Windows security | 2026-04-17 |
 | 45 | [matomo](https://github.com/matomo-org/matomo) | 21,531 | 2,848 | PHP | 2459 | Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy... | 2026-05-22 |
@@ -57,7 +57,7 @@
 | 49 | [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | 21,066 | 3,676 | JavaScript | 20 | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and ... | 2026-05-19 |
 | 50 | [shardingsphere](https://github.com/apache/shardingsphere) | 20,725 | 6,900 | Java | 309 | Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. | 2026-05-22 |
 | 51 | [Atlas](https://github.com/Atlas-OS/Atlas) | 20,660 | 733 | Batchfile | 3 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. | 2026-05-21 |
-| 52 | [teleport](https://github.com/gravitational/teleport) | 20,359 | 2,064 | Go | 2668 | The easiest, and most secure way to access and protect all of your infrastructure. | 2026-05-22 |
+| 52 | [teleport](https://github.com/gravitational/teleport) | 20,359 | 2,064 | Go | 2667 | The easiest, and most secure way to access and protect all of your infrastructure. | 2026-05-22 |
 | 53 | [chezmoi](https://github.com/twpayne/chezmoi) | 19,860 | 646 | Go | 49 | Manage your dotfiles across multiple diverse machines, securely. | 2026-05-19 |
 | 54 | [RustScan](https://github.com/bee-san/RustScan) | 19,822 | 1,324 | Rust | 34 | 🤖 The Modern Port Scanner 🤖 | 2026-04-30 |
 | 55 | [anubis](https://github.com/TecharoHQ/anubis) | 19,469 | 604 | Go | 242 | Weighs the soul of incoming HTTP requests to stop AI crawlers | 2026-05-19 |
@@ -97,7 +97,7 @@
 | 89 | [crowdsec](https://github.com/crowdsecurity/crowdsec) | 13,406 | 623 | Go | 210 | CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI. | 2026-05-22 |
 | 90 | [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) | 13,389 | 1,779 | Python | 3 | 🐶 A curated list of Web Security materials and resources. | 2026-05-14 |
 | 91 | [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) | 13,251 | 1,601 | YAML | 5 | GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems. | 2026-04-20 |
-| 92 | [juice-shop](https://github.com/juice-shop/juice-shop) | 13,182 | 18,087 | TypeScript | 9 | OWASP Juice Shop: Probably the most modern and sophisticated insecure web application | 2026-05-19 |
+| 92 | [juice-shop](https://github.com/juice-shop/juice-shop) | 13,183 | 18,087 | TypeScript | 9 | OWASP Juice Shop: Probably the most modern and sophisticated insecure web application | 2026-05-19 |
 | 93 | [routersploit](https://github.com/threat9/routersploit) | 13,117 | 2,399 | Python | 86 | Exploitation Framework for Embedded Devices | 2026-05-05 |
 | 94 | [DVWA](https://github.com/digininja/DVWA) | 13,099 | 4,860 | PHP | 1 | Damn Vulnerable Web Application (DVWA) | 2026-05-10 |
 | 95 | [keeweb](https://github.com/keeweb/keeweb) | 12,926 | 1,150 | HTML | 426 | Free cross-platform password manager compatible with KeePass | 2026-05-08 |
