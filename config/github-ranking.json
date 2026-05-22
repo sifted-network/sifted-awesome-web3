@@ -55,9 +55,6 @@
       "desc": "Web3 backend infrastructure",
       "topics": [
         "ipfs",
-        "rpc",
-        "indexing",
-        "oracle",
         "cross-chain"
       ]
     },
