@@ -71,7 +71,7 @@
 | 63 | [celestia-app](https://github.com/celestiaorg/celestia-app) | 411 | 503 | Go | 397 | Celestia consensus node | 2026-05-22 |
 | 64 | [malachite](https://github.com/circlefin/malachite) | 407 | 122 | Rust | 70 | Flexible BFT consensus engine in Rust | 2026-05-22 |
 | 65 | [blockchain_consensus_algorithm](https://github.com/corgi-kx/blockchain_consensus_algorithm) | 398 | 144 | Go | 4 | 代码实现五种区块链共识算法 The code implements five blockchain consensus algorithms | 2019-12-26 |
-| 66 | [hiero-consensus-node](https://github.com/hiero-ledger/hiero-consensus-node) | 391 | 209 | Java | 1407 | Crypto, token, consensus, file, and smart contract services for a Hiero based network | 2026-05-22 |
+| 66 | [hiero-consensus-node](https://github.com/hiero-ledger/hiero-consensus-node) | 391 | 209 | Java | 1406 | Crypto, token, consensus, file, and smart contract services for a Hiero based network | 2026-05-22 |
 | 67 | [llm-consortium](https://github.com/irthomasthomas/llm-consortium) | 386 | 34 | Python | 7 | Parallel Reasoning: llm-consortium orchestrates mulitple LLMs, iteratively refines & achieves consensus. | 2026-05-07 |
 | 68 | [minikv](https://github.com/whispem/minikv) | 383 | 14 | Rust | 0 | A production-ready distributed key-value store with Raft consensus. | 2026-05-17 |
 | 69 | [hbbft](https://github.com/poanetwork/hbbft) | 370 | 91 | Rust | 42 |  An implementation of the paper "Honey Badger of BFT Protocols" in Rust. This is a modular library of consensus. | 2024-01-06 |
