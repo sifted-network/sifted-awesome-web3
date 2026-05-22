@@ -36,20 +36,6 @@
       "proxy": false
     },
     {
-      "id": "messari",
-      "name": "Messari Blog",
-      "url": "https://messari.io/rss",
-      "enabled": true,
-      "proxy": false
-    },
-    {
-      "id": "a16z-crypto",
-      "name": "a16z Crypto",
-      "url": "https://a16zcrypto.com/feed/",
-      "enabled": true,
-      "proxy": false
-    },
-    {
       "id": "ethereum-blog",
       "name": "Ethereum Foundation Blog",
       "url": "https://blog.ethereum.org/feed.xml",
@@ -64,44 +50,9 @@
       "proxy": false
     },
     {
-      "id": "arbitrum-blog",
-      "name": "Arbitrum Blog",
-      "url": "https://arbitrum.io/blog/rss.xml",
-      "enabled": true,
-      "proxy": false
-    },
-    {
-      "id": "optimism-blog",
-      "name": "Optimism Blog",
-      "url": "https://optimism.io/blog/rss.xml",
-      "enabled": true,
-      "proxy": false
-    },
-    {
-      "id": "uniswap-blog",
-      "name": "Uniswap Blog",
-      "url": "https://uniswap.org/blog/rss.xml",
-      "enabled": true,
-      "proxy": false
-    },
-    {
       "id": "defiant",
       "name": "The Defiant",
       "url": "https://thedefiant.io/rss",
-      "enabled": true,
-      "proxy": false
-    },
-    {
-      "id": "nansen-blog",
-      "name": "Nansen Blog",
-      "url": "https://www.nansen.ai/research/feed",
-      "enabled": true,
-      "proxy": false
-    },
-    {
-      "id": "dappradar",
-      "name": "DappRadar Blog",
-      "url": "https://dappradar.com/blog/rss",
       "enabled": true,
       "proxy": false
     }
