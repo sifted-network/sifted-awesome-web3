@@ -6,25 +6,25 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [union](https://github.com/unionlabs/union) | 74,041 | 3,891 | Rust | 129 | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. | 2026-05-22 |
+| 1 | [union](https://github.com/unionlabs/union) | 74,040 | 3,891 | Rust | 129 | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. | 2026-05-22 |
 | 2 | [shardeum](https://github.com/shardeum/shardeum) | 31,430 | 706 | TypeScript | 5 | Shardeum is an EVM based autoscaling blockchain | 2025-09-15 |
 | 3 | [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27,105 | 12,403 | Solidity | 247 | OpenZeppelin Contracts is a library for secure smart contract development. | 2026-05-22 |
-| 4 | [foundry](https://github.com/foundry-rs/foundry) | 10,352 | 2,530 | Rust | 433 | Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. | 2026-05-22 |
-| 5 | [chains](https://github.com/ethereum-lists/chains) | 9,827 | 8,034 | Kotlin | 29 | provides metadata for chains | 2026-05-21 |
+| 4 | [foundry](https://github.com/foundry-rs/foundry) | 10,353 | 2,530 | Rust | 433 | Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. | 2026-05-23 |
+| 5 | [chains](https://github.com/ethereum-lists/chains) | 9,827 | 8,034 | Kotlin | 29 | provides metadata for chains | 2026-05-22 |
 | 6 | [DARC](https://github.com/Project-DARC/DARC) | 9,176 | 6,697 | TypeScript | 1 | Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism. | 2024-09-20 |
-| 7 | [datahaven](https://github.com/datahaven-xyz/datahaven) | 7,963 | 144 | Rust | 0 | An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer | 2026-04-17 |
-| 8 | [PoWFaucet](https://github.com/pk910/PoWFaucet) | 5,508 | 2,046 | TypeScript | 25 | Modularized faucet for EVM chains with different protection methods (Captcha, Mining, IP, Mainnet Balance, Gitcoin Passport and more) | 2026-05-19 |
+| 7 | [datahaven](https://github.com/datahaven-xyz/datahaven) | 7,964 | 144 | Rust | 0 | An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer | 2026-04-17 |
+| 8 | [PoWFaucet](https://github.com/pk910/PoWFaucet) | 5,508 | 2,047 | TypeScript | 25 | Modularized faucet for EVM chains with different protection methods (Captcha, Mining, IP, Mainnet Balance, Gitcoin Passport and more) | 2026-05-19 |
 | 9 | [vyper](https://github.com/vyperlang/vyper) | 5,182 | 898 | Python | 509 | Pythonic Smart Contract Language for the EVM | 2026-05-22 |
-| 10 | [blockscout](https://github.com/blockscout/blockscout) | 4,545 | 3,069 | Elixir | 161 | Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.  | 2026-05-22 |
+| 10 | [blockscout](https://github.com/blockscout/blockscout) | 4,544 | 3,069 | Elixir | 161 | Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.  | 2026-05-22 |
 | 11 | [mythril](https://github.com/ConsenSysDiligence/mythril) | 4,245 | 812 | Python | 115 | Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains. | 2026-04-27 |
-| 12 | [ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) | 4,149 | 3,002 | TypeScript | 0 | The ultimate NextJS Ethereum Dapp Boilerplate which gives you maximum flexibility and speed. Feel free to fork and contribute. Although this repo is called "Ethereum Boilerplate" it works with any EVM... | 2024-06-19 |
+| 12 | [ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) | 4,149 | 3,001 | TypeScript | 0 | The ultimate NextJS Ethereum Dapp Boilerplate which gives you maximum flexibility and speed. Feel free to fork and contribute. Although this repo is called "Ethereum Boilerplate" it works with any EVM... | 2024-06-19 |
 | 13 | [aleth](https://github.com/ethereum/aleth) | 3,971 | 2,151 | C++ | 313 | Aleth – Ethereum C++ client, tools and libraries | 2024-03-05 |
-| 14 | [echidna](https://github.com/crytic/echidna) | 3,134 | 428 | Haskell | 72 | Ethereum smart contract fuzzer | 2026-05-22 |
-| 15 | [remix-project](https://github.com/remix-project-org/remix-project) | 2,978 | 1,358 | TypeScript | 823 | Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions. | 2026-05-22 |
+| 14 | [echidna](https://github.com/crytic/echidna) | 3,135 | 428 | Haskell | 72 | Ethereum smart contract fuzzer | 2026-05-22 |
+| 15 | [remix-project](https://github.com/remix-project-org/remix-project) | 2,979 | 1,358 | TypeScript | 822 | Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions. | 2026-05-22 |
 | 16 | [ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) | 2,755 | 846 | TypeScript | 92 | Ethereum L1 Protocol Stack and EVM in TypeScript | 2026-05-21 |
 | 17 | [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) | 2,587 | 740 | C++ | 313 | FISCO BCOS（发音为/ˈfɪskl bi:ˈkɒz/）是一个稳定、高效、安全的许可区块链平台，已被广泛应用于现实的行业应用。截至目前，已拥有5000多家企事业单位，400多个产业数字化标杆应用，涵盖文化版权、司法服务、政府服务、物联网、金融、智慧社区、房地产建设、社区治理、乡村振兴等领域。FISCO BCOS (pronounced /ˈfɪskl bi:ˈkɒz/) is a stabl... | 2026-05-22 |
 | 18 | [py-evm](https://github.com/ethereum/py-evm) | 2,357 | 693 | Python | 62 | A Python implementation of the Ethereum Virtual Machine | 2025-09-08 |
-| 19 | [remix-ide](https://github.com/remix-project-org/remix-ide) | 2,344 | 967 | - | 15 | Documentation for Remix IDE | 2026-05-20 |
+| 19 | [remix-ide](https://github.com/remix-project-org/remix-ide) | 2,345 | 967 | - | 15 | Documentation for Remix IDE | 2026-05-20 |
 | 20 | [revm](https://github.com/bluealloy/revm) | 2,190 | 1,017 | Rust | 52 | Rust implementation of the Ethereum Virtual Machine. | 2026-05-22 |
 | 21 | [dapptools](https://github.com/dapphub/dapptools) | 2,125 | 323 | Haskell | 145 | Dapp, Seth, Hevm, and more | 2025-02-25 |
 | 22 | [secureum-mind_map](https://github.com/x676f64/secureum-mind_map) | 1,898 | 385 | Shell | 1 | Central Repository for the Epoch 0 coursework and quizzes. Contains all the content, cross-referenced and linked.  | 2023-09-21 |
@@ -34,7 +34,7 @@
 | 26 | [evmos](https://github.com/evmos/evmos) | 1,696 | 909 | Go | 21 | Evmos is the canonical EVM chain on Cosmos. Evmos is the flagship implementation of evmOS, a stack to build forward compatible EVMs | 2026-01-13 |
 | 27 | [iotex-core](https://github.com/iotexproject/iotex-core) | 1,612 | 365 | Go | 162 | Official implementation of IoTeX blockchain protocol in Go. An ultra-efficient EVM blockchain offering 1000 TPS with instant 1-block finality. Perfect for DeFi, DePIN tokenomics, Identities, and any t... | 2026-05-20 |
 | 28 | [cryo](https://github.com/paradigmxyz/cryo) | 1,565 | 182 | Rust | 38 | cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes | 2025-01-08 |
-| 29 | [nethermind](https://github.com/NethermindEth/nethermind) | 1,558 | 701 | C# | 316 | A robust, high-performance execution client for Ethereum node operators. | 2026-05-22 |
+| 29 | [nethermind](https://github.com/NethermindEth/nethermind) | 1,558 | 701 | C# | 316 | A robust, high-performance execution client for Ethereum node operators. | 2026-05-23 |
 | 30 | [heimdall-rs](https://github.com/Jon-Becker/heimdall-rs) | 1,553 | 169 | Rust | 16 | Heimdall is an advanced EVM smart contract toolkit specializing in bytecode analysis and extracting information from unverified contracts. | 2026-05-20 |
 | 31 | [cake_sniper](https://github.com/Supercycled/cake_sniper) | 1,543 | 682 | Go | 0 | EVM frontrunning tool | 2021-07-16 |
 | 32 | [awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) | 1,477 | 215 | - | 5 | A curated list of awesome Ethereum security references | 2024-08-20 |
@@ -53,24 +53,24 @@
 | 45 | [kakarot](https://github.com/kkrt-labs/kakarot) | 1,001 | 316 | Cairo | 33 | Kakarot is a zkEVM written in Cairo, leveraging the STARK proof system. | 2025-01-09 |
 | 46 | [prb-math](https://github.com/PaulRBerg/prb-math) | 1,001 | 143 | Solidity | 21 | Solidity library for advanced fixed-point math | 2026-03-06 |
 | 47 | [evmone](https://github.com/ipsilon/evmone) | 974 | 331 | C++ | 100 | Fast Ethereum Virtual Machine implementation | 2026-05-22 |
-| 48 | [core](https://github.com/alloy-rs/core) | 950 | 258 | Rust | 29 | High-performance, well-tested & documented core libraries for Ethereum, in Rust | 2026-05-15 |
-| 49 | [awesome-list-rpc-nodes-providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers) | 913 | 234 | - | 1150 | A curated list of awesome Node providers and public RPC endpoints for Ethereum, BSC, Gnosis (xDAI), Fantom, Avalanche, KuCoin, Fuse, Harmony, Tezos, IoTeX, Arbitrum, Optimism and more :)  | 2025-08-28 |
+| 48 | [core](https://github.com/alloy-rs/core) | 950 | 258 | Rust | 29 | High-performance, well-tested & documented core libraries for Ethereum, in Rust | 2026-05-22 |
+| 49 | [awesome-list-rpc-nodes-providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers) | 913 | 234 | - | 1151 | A curated list of awesome Node providers and public RPC endpoints for Ethereum, BSC, Gnosis (xDAI), Fantom, Avalanche, KuCoin, Fuse, Harmony, Tezos, IoTeX, Arbitrum, Optimism and more :)  | 2025-08-28 |
 | 50 | [rusty-sando](https://github.com/mouseless0x/rusty-sando) | 874 | 277 | Rust | 0 | Implementation of a competitive v2/v3 multi-meat MEV sandwich bot written using Rust and Huff. | 2023-08-08 |
-| 51 | [mud](https://github.com/latticexyz/mud) | 872 | 222 | TypeScript | 421 | MUD is a framework for building autonomous worlds | 2026-04-10 |
+| 51 | [mud](https://github.com/latticexyz/mud) | 873 | 222 | TypeScript | 421 | MUD is a framework for building autonomous worlds | 2026-04-10 |
 | 52 | [ethersplay](https://github.com/crytic/ethersplay) | 859 | 120 | Python | 7 | EVM dissassembler | 2023-09-04 |
 | 53 | [evm-puzzles](https://github.com/fvictorio/evm-puzzles) | 847 | 165 | JavaScript | 3 | A collection of EVM puzzles | 2023-08-04 |
-| 54 | [checkthechain](https://github.com/checkthechain/checkthechain) | 839 | 98 | Python | 26 | ctc is a tool for collecting and analyzing historical data of Ethereum and other EVM chains | 2023-10-03 |
+| 54 | [checkthechain](https://github.com/checkthechain/checkthechain) | 840 | 98 | Python | 26 | ctc is a tool for collecting and analyzing historical data of Ethereum and other EVM chains | 2023-10-03 |
 | 55 | [evm.codes](https://github.com/duneanalytics/evm.codes) | 820 | 192 | TypeScript | 41 | Source for evm.codes an Ethereum Virtual Machine Opcodes Interactive Reference | 2026-02-05 |
 | 56 | [evm-opcodes](https://github.com/wolflo/evm-opcodes) | 814 | 119 | - | 5 | A quick reference for EVM opcodes | 2024-08-12 |
 | 57 | [web3-ethereum-defi](https://github.com/tradingstrategy-ai/web3-ethereum-defi) | 814 | 182 | Python | 27 | A Python library for trading automation on DeFi, data research and integration. Supporting Uniswap, Aave, Chainlink, USDC and other protocols. | 2026-05-22 |
-| 58 | [Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques) | 796 | 134 | - | 2 | This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contra... | 2025-08-05 |
-| 59 | [Astar](https://github.com/AstarNetwork/Astar) | 777 | 523 | Rust | 9 | The dApp hub for blockchains of the future | 2026-05-22 |
+| 58 | [Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques) | 797 | 135 | - | 2 | This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contra... | 2025-08-05 |
+| 59 | [Astar](https://github.com/AstarNetwork/Astar) | 777 | 524 | Rust | 9 | The dApp hub for blockchains of the future | 2026-05-22 |
 | 60 | [stablecoin-evm](https://github.com/circlefin/stablecoin-evm) | 752 | 542 | TypeScript | 22 | Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains | 2026-04-22 |
 | 61 | [warp](https://github.com/NethermindEth/warp) | 748 | 70 | TypeScript | 59 | Warp - Bringing Solidity to Starknet at warp speed. Warp is a Solidity to Cairo Compiler, this allows teams to write/migrate Solidity to Cairo for easy onboarding into the StarkNet ecosystem. | 2023-08-26 |
 | 62 | [evm-from-scratch](https://github.com/w1nt3r-eth/evm-from-scratch) | 737 | 175 | JavaScript | 3 | Super secret 100% practical EVM course. Please do not share | 2023-04-12 |
 | 63 | [mev-template-rs](https://github.com/degatchi/mev-template-rs) | 727 | 125 | Rust | 0 | Bootstrap your MEV bot strategies with a simple boilerplate to build on top of. | 2026-04-14 |
-| 64 | [chainlist](https://github.com/FrederikBolding/chainlist) | 714 | 241 | TypeScript | 13 | A list of EVM-based chains that also allows you to add chains to your favorite Web3 wallet. An alternative to chainlist.org | 2026-05-22 |
-| 65 | [erpc](https://github.com/erpc/erpc) | 713 | 103 | Go | 17 | eRPC — fault-tolerant evm rpc proxy | 2026-05-20 |
+| 64 | [chainlist](https://github.com/FrederikBolding/chainlist) | 714 | 241 | TypeScript | 13 | A list of EVM-based chains that also allows you to add chains to your favorite Web3 wallet. An alternative to chainlist.org | 2026-05-23 |
+| 65 | [erpc](https://github.com/erpc/erpc) | 713 | 103 | Go | 17 | eRPC — fault-tolerant evm rpc proxy | 2026-05-22 |
 | 66 | [rindexer](https://github.com/joshstevens19/rindexer) | 693 | 95 | Rust | 36 | A no-code or framework to build blazing fast EVM indexers - built in rust. | 2026-05-12 |
 | 67 | [brontes](https://github.com/SorellaLabs/brontes) | 662 | 52 | Rust | 14 | A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection | 2025-07-28 |
 | 68 | [alpha-wallet-ios](https://github.com/AlphaWallet/alpha-wallet-ios) | 629 | 385 | Swift | 318 | An advanced Ethereum/EVM mobile wallet | 2024-07-18 |
@@ -86,8 +86,8 @@
 | 78 | [evmdis](https://github.com/Arachnid/evmdis) | 568 | 76 | Go | 7 | EVM disassembler | 2022-05-09 |
 | 79 | [createx](https://github.com/pcaversaccio/createx) | 557 | 75 | Solidity | 0 | Factory smart contract to make easier and safer usage of the `CREATE` and `CREATE2` EVM opcodes as well as of `CREATE3`-based (i.e. without an initcode factor) contract creations. | 2026-05-22 |
 | 80 | [ethereum-react-native-boilerplate](https://github.com/ethereum-boilerplate/ethereum-react-native-boilerplate) | 548 | 276 | JavaScript | 27 | The ultimate full-stack Ethereum React Native Dapp Boilerplate which gives you maximum flexibility and speed. Feel free to fork and contribute. Although this repo is called "Ethereum Boilerplate" it w... | 2022-09-10 |
-| 81 | [solar](https://github.com/paradigmxyz/solar) | 545 | 98 | Rust | 20 | Blazingly fast, modular and contributor friendly Solidity compiler, written in Rust | 2026-05-22 |
-| 82 | [degenbot](https://github.com/BowTiedDevil/degenbot) | 543 | 188 | Solidity | 7 | Python classes to aid rapid development of Uniswap (V2, V3, V4), Curve V1, Solidly V2, Aave V3 arbitrage & liquidation bots on EVM-compatible blockchains | 2026-05-22 |
+| 81 | [solar](https://github.com/paradigmxyz/solar) | 545 | 98 | Rust | 20 | Blazingly fast, modular and contributor friendly Solidity compiler, written in Rust | 2026-05-23 |
+| 82 | [degenbot](https://github.com/BowTiedDevil/degenbot) | 543 | 189 | Solidity | 7 | Python classes to aid rapid development of Uniswap (V2, V3, V4), Curve V1, Solidly V2, Aave V3 arbitrage & liquidation bots on EVM-compatible blockchains | 2026-05-23 |
 | 83 | [subway-rs](https://github.com/refcell/subway-rs) | 541 | 92 | Rust | 1 | An extensible and practical demonstration of constructing evm-based sandwich attacks built with ethers-rs and Huff language. | 2023-10-04 |
 | 84 | [ethabi](https://github.com/rust-ethereum/ethabi) | 525 | 199 | Rust | 39 | Encode and decode smart contract invocations | 2023-08-16 |
 | 85 | [smart-contract-attack-vectors](https://github.com/harendra-shakya/smart-contract-attack-vectors) | 521 | 114 | - | 0 | A curated list of smart contract attack vectors | 2024-08-23 |
@@ -98,7 +98,7 @@
 | 90 | [acala-evm-dev-docs](https://github.com/AcalaNetwork/acala-evm-dev-docs) | 492 | 1 | - | 0 |  | 2024-11-19 |
 | 91 | [4bytes](https://github.com/ethereum-lists/4bytes) | 491 | 108 | - | 8 | List of 4byte identifiers for EVM smart contract functions | 2024-12-21 |
 | 92 | [gravity-bridge](https://github.com/cosmos/gravity-bridge) | 486 | 184 | TypeScript | 33 | A CosmosSDK application for moving assets on and off of EVM based, POW chains | 2023-01-24 |
-| 93 | [doc.linea](https://github.com/Consensys/doc.linea) | 471 | 556 | CSS | 12 | Linea documentation | 2026-05-21 |
+| 93 | [doc.linea](https://github.com/Consensys/doc.linea) | 471 | 556 | CSS | 12 | Linea documentation | 2026-05-22 |
 | 94 | [huffmate](https://github.com/huff-language/huffmate) | 470 | 56 | Solidity | 6 | A library of modern, hyper-optimized, and extensible Huff contracts with extensive testing and documentation built by Huff maintainers. | 2024-06-24 |
 | 95 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 470 | 52 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2023-12-24 |
 | 96 | [evm-tools](https://github.com/CoinCulture/evm-tools) | 450 | 105 | Go | 5 | Ethereum Virtual Machine tools and guide | 2021-06-26 |
