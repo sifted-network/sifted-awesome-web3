@@ -10,7 +10,7 @@
 | 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,060 | 759 | Rust | 631 | The Stacks blockchain implementation | 2026-05-22 |
 | 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,547 | 333 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
 | 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,027 | 617 | - | 1896 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
-| 5 | [starknetbook](https://github.com/starknet-edu/starknetbook) | 830 | 491 | CSS | 0 | Mastering Starknet. By the Starknet community | 2024-06-20 |
+| 5 | [starknetbook](https://github.com/starknet-edu/starknetbook) | 830 | 490 | CSS | 0 | Mastering Starknet. By the Starknet community | 2024-06-20 |
 | 6 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 824 | 107 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 614 | 58 | JavaScript | 14 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-05-21 |
 | 8 | [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) | 472 | 141 | C | 5 | Open source MAC Telnet client and server for connecting to Mikrotik RouterOS routers and Posix devices using MAC addresses | 2025-09-21 |
@@ -94,7 +94,7 @@
 | 86 | [layer2](https://github.com/vmt/layer2) | 17 | 9 | C | 1 | Toy framework for creating a VPN | 2012-04-23 |
 | 87 | [myfirstlayer2-frontend](https://github.com/lxdao-official/myfirstlayer2-frontend) | 17 | 7 | JavaScript | 10 | MyFirstLayer2 serves as an educational platform geared towards novices eager to explore and engage with Layer2 technologies.  | 2025-05-16 |
 | 88 | [jovay-relayer](https://github.com/jovaynetwork/jovay-relayer) | 17 | 0 | Java | 0 | The core middleware for Jovay L2 Rollup — reliable data aggregation, submission, and proof management between L1 and L2. | 2026-03-30 |
-| 89 | [SuperScalar](https://github.com/8144225309/SuperScalar) | 17 | 2 | C | 7 | Implementation of SuperScalar — Bitcoin Lightning channel factories that onboard N users in one shared UTXO. No soft fork required. | 2026-05-22 |
+| 89 | [SuperScalar](https://github.com/8144225309/SuperScalar) | 17 | 2 | C | 7 | Implementation of SuperScalar — Bitcoin Lightning channel factories that onboard N users in one shared UTXO. No soft fork required. | 2026-05-23 |
 | 90 | [rewritecap](https://github.com/jordan2175/rewritecap) | 16 | 4 | Go | 0 | Tool for rebasing a PCAP file and editing layer2 and layer 3 addresses | 2020-12-30 |
 | 91 | [awesome-base](https://github.com/wbnns/awesome-base) | 16 | 58 | - | 6 | A list of Base ecosystem links including (d)apps, projects and more. Base is an Ethereum L2, incubated by Coinbase. | 2023-08-16 |
 | 92 | [Layer2-Scaling-Solutions](https://github.com/ViktorVL584/Layer2-Scaling-Solutions) | 16 | 0 | - | 0 | An in-depth exploration of Layer 2 scaling solutions like Optimistic Rollups, zk-Rollups, and sidechains. Includes code samples and implementation guides. | 2025-02-12 |
