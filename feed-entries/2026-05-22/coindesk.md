@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-05-22"
 date: "2026-05-22"
 source: "CoinDesk"
-count: 19
+count: 16
 ---
 
 # CoinDesk - 2026-05-22
 
-19 items collected.
+16 items collected.
 
 ---
 
@@ -200,41 +200,5 @@ Ark frequently uses broader digital asset downturns, which tend to pull crypto e
 Bitcoin holds between $76,000 and $78,000 while AI tokens and HYPE surge; derivatives signal calm conditions with volatility selling dominating options markets.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/05/22/crypto-majors-stuck-in-tight-range-as-altcoin-rotation-picks-up-steam)
-
----
-
-## 17. ZachXBT flags $520K Polymarket exploit on Polygon, team says funds are safe
-
-**Author:** Omkar Godbole  
-**Published:** 5/22/2026, 9:39:55 AM  
-**Categories:** Markets, Polymarket, News  
-
-Blockchain investigator ZachXBT has highlighted a suspected security breach involving Polymarket, the world’s largest decentralized prediction market platform.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/22/zachxbt-flags-usd520k-polymarket-exploit-on-polygon-team-says-funds-are-safe)
-
----
-
-## 18. Near Protocol to automate its own growth and its token is skyrocketing
-
-**Author:** Omkar Godbole  
-**Published:** 5/22/2026, 8:52:32 AM  
-**Categories:** Markets, DeFi, News  
-
-Near Protocol will introduce dynamic resharding in June, allowing the blockchain to automatically add shards as demand grows without human intervention.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/22/near-protocol-to-automate-its-own-growth-and-its-token-is-skyrocketing)
-
----
-
-## 19. Polymarket aims for prediction market approval in Japan by 2030
-
-**Author:** Jamie Crawley,AI Boost  
-**Published:** 5/22/2026, 8:34:13 AM  
-**Categories:** Policy, Polymarket, Japan, News  
-
-Mike Eidlin, head of Japan at cryptocurrency exchange Jupiter, is leading Polymarket's efforts, according to reports.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/05/22/polymarket-aims-for-prediction-market-approval-in-japan-by-2030)
 
 ---
