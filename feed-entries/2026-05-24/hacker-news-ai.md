@@ -2,16 +2,40 @@
 title: "Hacker News AI - 2026-05-24"
 date: "2026-05-24"
 source: "Hacker News AI"
-count: 13
+count: 15
 ---
 
 # Hacker News AI - 2026-05-24
 
-13 items collected.
+15 items collected.
 
 ---
 
-## 1. Turned ArXiv into an AI-Agent-Friendly Interface (No Browser Vision Needed)
+## 1. For developers without design skills, how do you leverage AI for front end dev?
+
+**Author:** boundless88  
+**Published:** 5/24/2026, 7:15:00 AM  
+**Categories:** -  
+
+The best tool I've found so far is Open Design, which you can combine with any of the vibe coding tools you've been using for a long time, but it's still hard to collaborate on long term projects that involve multiple parties. I'd like to ask you all, if you're working on a formal complex UI related...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48255197)
+
+---
+
+## 2. The anatomy of AI power in 2026
+
+**Author:** 7moritz7  
+**Published:** 5/24/2026, 7:13:46 AM  
+**Categories:** -  
+
+Article URL: https://wayneresearch.com/research/anatomy-of-ai-power/ Comments URL: https://news.ycombinator.com/item?id=48255193 Points: 1 # Comments: 0
+
+📖 [Read original article](https://wayneresearch.com/research/anatomy-of-ai-power/)
+
+---
+
+## 3. Turned ArXiv into an AI-Agent-Friendly Interface (No Browser Vision Needed)
 
 **Author:** yooibox  
 **Published:** 5/24/2026, 6:33:27 AM  
@@ -23,7 +47,7 @@ Article URL: https://mediause.dev/skills/arxiv Comments URL: https://news.ycombi
 
 ---
 
-## 2. AI Can Do Anything
+## 4. AI Can Do Anything
 
 **Author:** AmDab  
 **Published:** 5/24/2026, 5:17:23 AM  
@@ -35,7 +59,7 @@ Article URL: https://clawdcursor.com Comments URL: https://news.ycombinator.com/
 
 ---
 
-## 3. SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom
+## 5. SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom
 
 **Author:** 1vuio0pswjnm7  
 **Published:** 5/24/2026, 5:07:07 AM  
@@ -47,7 +71,7 @@ Article URL: https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12 Com
 
 ---
 
-## 4. Export chats from 11 AI platforms to PDF or Markdown locally
+## 6. Export chats from 11 AI platforms to PDF or Markdown locally
 
 **Author:** Rocke1001feller  
 **Published:** 5/24/2026, 4:23:45 AM  
@@ -59,7 +83,7 @@ Article URL: https://chromewebstore.google.com/detail/ai-chat-exporter-sharer-p/
 
 ---
 
-## 5. AI as a Design Medium
+## 7. AI as a Design Medium
 
 **Author:** vinhnx  
 **Published:** 5/24/2026, 3:46:29 AM  
@@ -71,7 +95,7 @@ Article URL: https://www.harvarddesignmagazine.org/articles/ai-as-a-design-mediu
 
 ---
 
-## 6. From Vibe Coding to AI-Assisted Engineering: Lessons from Real Projects
+## 8. From Vibe Coding to AI-Assisted Engineering: Lessons from Real Projects
 
 **Author:** Eritsil  
 **Published:** 5/24/2026, 3:13:52 AM  
@@ -83,7 +107,7 @@ Article URL: https://medium.com/@eritonsilva/from-vibe-coding-to-ai-assisted-eng
 
 ---
 
-## 7. Shannon Got AI This Far. Kolmogorov Shows Where It Stops
+## 9. Shannon Got AI This Far. Kolmogorov Shows Where It Stops
 
 **Author:** dnw  
 **Published:** 5/24/2026, 1:58:46 AM  
@@ -95,7 +119,7 @@ Article URL: https://medium.com/@vishalmisra/shannon-got-ai-this-far-kolmogorov-
 
 ---
 
-## 8. A simple AI agent in Java
+## 10. A simple AI agent in Java
 
 **Author:** onesingleblast  
 **Published:** 5/24/2026, 1:35:48 AM  
@@ -107,7 +131,7 @@ Article URL: https://github.com/machineswillrise/jagent Comments URL: https://ne
 
 ---
 
-## 9. Scan any codebase in 3s, then verify what your AI builds
+## 11. Scan any codebase in 3s, then verify what your AI builds
 
 **Author:** stealthyAF  
 **Published:** 5/24/2026, 1:30:26 AM  
@@ -119,7 +143,7 @@ Article URL: https://github.com/anatomia-dev/anatomia Comments URL: https://news
 
 ---
 
-## 10. Joe Rogan accidentally exposed AI in four words [video][12 mins]
+## 12. Joe Rogan accidentally exposed AI in four words [video][12 mins]
 
 **Author:** Bender  
 **Published:** 5/24/2026, 1:25:51 AM  
@@ -131,7 +155,7 @@ Article URL: https://www.youtube.com/watch?v=waFl4uBfXRA Comments URL: https://n
 
 ---
 
-## 11. AI didn't kill your junior pipeline. You did
+## 13. AI didn't kill your junior pipeline. You did
 
 **Author:** MBCook  
 **Published:** 5/24/2026, 1:00:49 AM  
@@ -143,7 +167,7 @@ Article URL: https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you
 
 ---
 
-## 12. Maxtoken: A Unified Framework for Unbounded AI Output
+## 14. Maxtoken: A Unified Framework for Unbounded AI Output
 
 **Author:** choukric  
 **Published:** 5/24/2026, 12:42:31 AM  
@@ -155,7 +179,7 @@ Article URL: https://zenodo.org/records/20360523 Comments URL: https://news.ycom
 
 ---
 
-## 13. The unlikely Vatican-Anthropic relationship that's reshaping AI ethics debate
+## 15. The unlikely Vatican-Anthropic relationship that's reshaping AI ethics debate
 
 **Author:** gnabgib  
 **Published:** 5/24/2026, 12:19:16 AM  
