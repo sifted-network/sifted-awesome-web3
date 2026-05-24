@@ -2,12 +2,12 @@
 title: "量子位 - 2026-05-22"
 date: "2026-05-22"
 source: "量子位"
-count: 4
+count: 5
 ---
 
 # 量子位 - 2026-05-22
 
-4 items collected.
+5 items collected.
 
 ---
 
@@ -56,5 +56,17 @@ DeepSeek Code is Coming
 一个AI统一入口，搞定所有
 
 📖 [Read original article](https://www.qbitai.com/2026/05/422615.html)
+
+---
+
+## 5. 顶流里最快！智谱，你是在「喷」代码吧
+
+**Author:** 十三  
+**Published:** 5/22/2026, 3:05:00 AM  
+**Categories:** 资讯, 首页轮播, Coding, GLM-5.1, 智谱  
+
+400 tokens/s
+
+📖 [Read original article](https://www.qbitai.com/2026/05/422511.html)
 
 ---
