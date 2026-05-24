@@ -1,7 +1,7 @@
 {
   "github": {
     "owner": "sifted-network",
-    "repo": "Sifted-Blog",
+    "repo": "sifted-awesome-web3",
     "branch": "main",
     "contentPath": "feed-entries",
     "rankingPath": "data",
@@ -9,66 +9,94 @@
   },
   "categories": [
     {
-      "name": "Agent Core",
-      "desc": "Core Agent Infrastructure",
+      "name": "core-blockchain",
+      "desc": "Base blockchain systems",
       "topics": [
-        "AI Agents",
-        "Agent Framework",
-        "Multi-Agent",
-        "Agent Orchestration",
-        "Autonomous Agents",
-        "LLM Workflows",
-        "Agent Runtime",
-        "Workflow Engine",
-        "Task Planning",
-        "Reasoning",
-        "Memory"
+        "blockchain",
+        "layer1",
+        "layer2",
+        "consensus",
+        "rollup"
       ]
     },
     {
-      "name": "Coding Agent",
-      "desc": "AI Coding Assistant",
+      "name": "smart-contracts",
+      "desc": "On-chain programmability",
       "topics": [
-        "Coding Agent",
-        "Self-Healing Code"
+        "smart-contract",
+        "evm",
+        "security"
       ]
     },
     {
-      "name": "Computer Use",
-      "desc": "Browser & Computer Automation",
+      "name": "defi",
+      "desc": "On-chain financial systems",
       "topics": [
-        "Browser Automation",
-        "Computer Use",
-        "Desktop Automation"
+        "defi",
+        "dex",
+        "amm",
+        "lending",
+        "stablecoin"
       ]
     },
     {
-      "name": "Knowledge",
-      "desc": "RAG & Knowledge Management",
+      "name": "nft-assets",
+      "desc": "Digital ownership",
       "topics": [
-        "RAG",
-        "Knowledge Base",
-        "Vector Database",
-        "Semantic Search",
-        "Memory System",
-        "Knowledge Graph"
+        "nft",
+        "marketplace",
+        "digital-ownership"
       ]
     },
     {
-      "name": "Inference",
-      "desc": "Inference & Local AI",
+      "name": "infrastructure",
+      "desc": "Web3 backend infrastructure",
       "topics": [
-        "Local LLM",
-        "Inference Engine"
+        "ipfs",
+        "cross-chain"
       ]
     },
     {
-      "name": "Observability",
-      "desc": "LLM Observability & Evaluation",
+      "name": "identity",
+      "desc": "Wallets and identity systems",
       "topics": [
-        "LLM Observability",
-        "AI Evaluation",
-        "AI Safety"
+        "wallet",
+        "account-abstraction",
+        "did",
+        "ens"
+      ]
+    },
+    {
+      "name": "dao",
+      "desc": "Governance systems",
+      "topics": [
+        "dao",
+        "governance",
+        "treasury"
+      ]
+    },
+    {
+      "name": "security",
+      "desc": "Attack and defense",
+      "topics": [
+        "smart-contract-security"
+      ]
+    },
+    {
+      "name": "scaling",
+      "desc": "Performance scaling",
+      "topics": [
+        "zk-rollup",
+        "optimistic-rollup",
+        "scalability"
+      ]
+    },
+    {
+      "name": "ai-web3",
+      "desc": "AI + blockchain systems",
+      "topics": [
+        "decentralized-ai",
+        "onchain-ai"
       ]
     }
   ]
