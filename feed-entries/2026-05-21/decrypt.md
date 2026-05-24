@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-05-21"
 date: "2026-05-21"
 source: "Decrypt"
-count: 19
+count: 18
 ---
 
 # Decrypt - 2026-05-21
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -224,17 +224,5 @@ The shutdown is the latest in a wave of crypto and tech cutbacks driven by weake
 DeFi exploits keep piling up in 2026. Here’s what experts say is behind crypto’s security crisis—and how it can be fixed.
 
 📖 [Read original article](https://decrypt.co/368591/why-defi-keeps-losing-millions-to-exploits)
-
----
-
-## 19. Terraform Accuses Jane Street of Using Insider Telegram Group Ahead of $40B UST-LUNA Collapse
-
-**Author:** Vismaya V  
-**Published:** 5/21/2026, 12:40:49 PM  
-**Categories:** terra-luna-2, terra-luna-classic, Law and Order  
-
-New allegations claim that Jane Street made use of a private backchannel with Terraform insiders before Terra's collapse.
-
-📖 [Read original article](https://decrypt.co/368599/terraform-accuses-jane-street-of-leveraging-secret-telegram-group)
 
 ---
