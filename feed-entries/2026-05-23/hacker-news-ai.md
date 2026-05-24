@@ -2,12 +2,12 @@
 title: "Hacker News AI - 2026-05-23"
 date: "2026-05-23"
 source: "Hacker News AI"
-count: 7
+count: 5
 ---
 
 # Hacker News AI - 2026-05-23
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ Article URL: https://medium.com/open-ai/ai-governance-2026-i-almost-quit-over-th
 Article URL: https://github.com/sabir-gbs/the-polyglot-protocol Comments URL: https://news.ycombinator.com/item?id=48252073 Points: 2 # Comments: 0
 
 📖 [Read original article](https://github.com/sabir-gbs/the-polyglot-protocol)
-
----
-
-## 6. CodeShot – Web screenshots,scraping, and link previews for AI agents
-
-**Author:** edowamba  
-**Published:** 5/23/2026, 9:49:26 PM  
-**Categories:** -  
-
-Article URL: https://drmadmeow.up.railway.app/ Comments URL: https://news.ycombinator.com/item?id=48251888 Points: 4 # Comments: 0
-
-📖 [Read original article](https://drmadmeow.up.railway.app/)
-
----
-
-## 7. Anthropic blames dystopian sci-fi for training AI models to act \"evil\"
-
-**Author:** rbanffy  
-**Published:** 5/23/2026, 9:45:46 PM  
-**Categories:** -  
-
-Article URL: https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/ Comments URL: https://news.ycombinator.com/item?id=48251864 Points: 22 # Comments: 14
-
-📖 [Read original article](https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/)
 
 ---
