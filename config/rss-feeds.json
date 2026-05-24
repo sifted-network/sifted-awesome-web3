@@ -1,79 +1,58 @@
 {
   "feeds": [
     {
-      "id": "openai",
-      "name": "OpenAI Blog",
-      "url": "https://openai.com/blog/rss.xml",
+      "id": "cointelegraph",
+      "name": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
       "enabled": true,
       "proxy": false
     },
     {
-      "id": "deepmind",
-      "name": "Google DeepMind",
-      "url": "https://deepmind.google/blog/rss.xml",
-      "enabled": false,
-      "proxy": false
-    },
-    {
-      "id": "google-ai",
-      "name": "Google AI Blog",
-      "url": "https://research.google/blog/rss/",
-      "enabled": false,
-      "proxy": false
-    },
-    {
-      "id": "huggingface",
-      "name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/rss.xml",
-      "enabled": false,
-      "proxy": false
-    },
-    {
-      "id": "mit-tech-review",
-      "name": "MIT Technology Review AI",
-      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+      "id": "coindesk",
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
       "enabled": true,
       "proxy": false
     },
     {
-      "id": "marktechpost",
-      "name": "MarkTechPost",
-      "url": "https://www.marktechpost.com/feed",
+      "id": "the-block",
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml",
       "enabled": true,
       "proxy": false
     },
     {
-      "id": "arxiv-cs-ai",
-      "name": "arXiv cs.AI",
-      "url": "https://rss.arxiv.org/rss/cs.AI",
+      "id": "decrypt",
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed",
       "enabled": true,
       "proxy": false
     },
     {
-      "id": "arxiv-cs-lg",
-      "name": "arXiv cs.LG",
-      "url": "https://rss.arxiv.org/rss/cs.LG",
+      "id": "bankless",
+      "name": "Bankless",
+      "url": "https://bankless.substack.com/feed",
       "enabled": true,
       "proxy": false
     },
     {
-      "id": "hackernews-ai",
-      "name": "Hacker News AI",
-      "url": "https://hnrss.org/newest?q=AI",
+      "id": "ethereum-blog",
+      "name": "Ethereum Foundation Blog",
+      "url": "https://blog.ethereum.org/feed.xml",
       "enabled": true,
       "proxy": false
     },
     {
-      "id": "jiqizhixin",
-      "name": "机器之心",
-      "url": "https://www.jiqizhixin.com/rss",
-      "enabled": false,
+      "id": "solana-blog",
+      "name": "Solana Blog",
+      "url": "https://solana.com/news/rss.xml",
+      "enabled": true,
       "proxy": false
     },
     {
-      "id": "qbitai",
-      "name": "量子位",
-      "url": "https://www.qbitai.com/feed",
+      "id": "defiant",
+      "name": "The Defiant",
+      "url": "https://thedefiant.io/rss",
       "enabled": true,
       "proxy": false
     }
