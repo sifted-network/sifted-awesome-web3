@@ -2,12 +2,12 @@
 title: "The Block - 2026-05-22"
 date: "2026-05-22"
 source: "The Block"
-count: 17
+count: 15
 ---
 
 # The Block - 2026-05-22
 
-17 items collected.
+15 items collected.
 
 ---
 
@@ -188,29 +188,5 @@ The petitioner said taxing cryptocurrency gains while abolishing taxes on tradit
 Ark Invest bought a total of 139,117 shares of Bullish, worth about $5 million, across three of its ETFs on Thursday.
 
 📖 [Read original article](https://www.theblock.co/post/402302/ark-invest-buys-5-million-bullish?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Ethereum Layer 2 Zero Network to wind down, joining string of protocols shuttering operations
-
-**Author:** Danny Park  
-**Published:** 5/22/2026, 1:57:49 AM  
-**Categories:** Crypto Ecosystems, Layer 1s, Layer 2s and Scaling, Ethereum, Rollups, Zero Network  
-
-Resources will be redirected to focus on growing Zerion's API and wallet service, the team said in a Thursday statement.
-
-📖 [Read original article](https://www.theblock.co/post/402296/zero-network-wind-down?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Galaxy’s Novogratz and BitGo face off in court over $100 million claim: Bloomberg
-
-**Author:** RT Watson  
-**Published:** 5/22/2026, 12:22:44 AM  
-**Categories:** Companies, Legal, Policy, Lawsuits  
-
-In 2022, Galaxy said it was abandoning its acquisition plan due to BitGo's 'failure to deliver ... audited financial statements for 2021.'
-
-📖 [Read original article](https://www.theblock.co/post/402290/galaxys-bitgo-court?utm_source=rss&utm_medium=rss)
 
 ---
