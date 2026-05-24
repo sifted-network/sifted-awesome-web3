@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-05-22"
 date: "2026-05-22"
 source: "CoinDesk"
-count: 20
+count: 19
 ---
 
 # CoinDesk - 2026-05-22
 
-20 items collected.
+19 items collected.
 
 ---
 
@@ -236,17 +236,5 @@ Near Protocol will introduce dynamic resharding in June, allowing the blockchain
 Mike Eidlin, head of Japan at cryptocurrency exchange Jupiter, is leading Polymarket's efforts, according to reports.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/05/22/polymarket-aims-for-prediction-market-approval-in-japan-by-2030)
-
----
-
-## 20. Bitcoin implied volatility drops to 7 month low despite macro risks
-
-**Author:** James Van Straten  
-**Published:** 5/22/2026, 8:24:46 AM  
-**Categories:** Markets, Bitcoin News, Volatility, News  
-
-BTC's implied volatility is a picture of calm even as financial headlines warn of macro risks.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/22/bitcoin-implied-volatility-drops-to-7-month-low-despite-macro-risks)
 
 ---
