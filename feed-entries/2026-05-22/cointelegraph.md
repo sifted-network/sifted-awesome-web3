@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-22"
 date: "2026-05-22"
 source: "Cointelegraph"
-count: 16
+count: 14
 ---
 
 # Cointelegraph - 2026-05-22
 
-16 items collected.
+14 items collected.
 
 ---
 
@@ -176,29 +176,5 @@ XRP Ledger activity surges with 4,300 new wallets created in 24 hours, but stron
 Polymarket is reportedly seeking entry into Japan amid falling trading volumes and rising regulatory scrutiny, targeting approval by 2030.
 
 📖 [Read original article](https://cointelegraph.com/news/polymarket-seeks-japan-entry-global-regulatory-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Polymarket team says user funds safe as exploit losses climb above $600K
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 5/22/2026, 10:19:06 AM  
-**Categories:** Latest News  
-
-Polymarket said user funds and market resolution were safe after a suspected private key compromise tied to top-up operations.
-
-📖 [Read original article](https://cointelegraph.com/news/polymarket-uma-adapter-appears-exploited-520k-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Verus bridge exploiter returns $8.5M after bounty offer
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 5/22/2026, 9:32:03 AM  
-**Categories:** Latest News  
-
-The hacker behind the Verus bridge exploit returned 75% of the stolen funds as part of a recovery deal negotiated with the protocol days after the incident.
-
-📖 [Read original article](https://cointelegraph.com/news/verus-bridge-hacker-returns-85m-eth-28m-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
