@@ -1,0 +1,240 @@
+---
+title: "Cointelegraph - 2026-05-22"
+date: "2026-05-22"
+source: "Cointelegraph"
+count: 19
+---
+
+# Cointelegraph - 2026-05-22
+
+19 items collected.
+
+---
+
+## 1. Bitcoin 'Pizza Day' was 16 years ago, here's how much that BTC is worth today
+
+**Author:** Cointelegraph by Vince Quill  
+**Published:** 5/22/2026, 11:16:38 PM  
+**Categories:** Latest News  
+
+Laszlo Hanyecz's 2010 post, offering 10,000 BTC in exchange for two pizzas delivered to his home, marked the first recorded commercial BTC payment.
+
+📖 [Read original article](https://cointelegraph.com/news/bitcoin-pizza-day-those-10k-btc-worth-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Kevin Warsh sworn in as Fed chair, as traders forecast rate hikes in 2026
+
+**Author:** Cointelegraph by Vince Quill  
+**Published:** 5/22/2026, 10:12:01 PM  
+**Categories:** Latest News  
+
+US President Donald Trump has repeatedly said he wants the Federal Reserve to lower interest rates, but investors forecast no chance of a rate cut in 2026.
+
+📖 [Read original article](https://cointelegraph.com/news/kevin-warsh-sworn-fed-chair-traders-rate-hikes-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH
+
+**Author:** Cointelegraph by Rakesh Upadhyay  
+**Published:** 5/22/2026, 7:33:51 PM  
+**Categories:** Markets  
+
+Bitcoin sold off to $76,000, giving bears an opportunity to reclaim control of the crypto market. Meanwhile, altcoins like HYPE charted new highs.
+
+📖 [Read original article](https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. US House lawmakers launch probe into Kalshi, Polymarket insider trading
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 5/22/2026, 5:20:49 PM  
+**Categories:** Latest News  
+
+Representative James Comer asked CEOs of two major prediction market companies for information on their responses to insider trading after “suspiciously timed trades” related to US military actions against Iran.
+
+📖 [Read original article](https://cointelegraph.com/news/us-house-probe-kalshi-polymarket-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. NEAR protocol leads AI token rally with a 50% pump: Is $5 NEAR price next?
+
+**Author:** Cointelegraph by Nancy Lubale  
+**Published:** 5/22/2026, 5:01:28 PM  
+**Categories:** Markets  
+
+NEAR price surges 50% in a week as AI token momentum, Nvidia optimism and network upgrades fuel bullish sentiment.
+
+📖 [Read original article](https://cointelegraph.com/markets/near-protocol-leads-ai-token-rally-with-a-50-pump-is-5-near-price-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Crypto Biz: Institutions tighten their grip on Bitcoin, AI and prediction markets
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 5/22/2026, 4:02:30 PM  
+**Categories:** Latest News  
+
+Institutional crypto adoption accelerates as Tether expands Bitcoin holdings, miners pivot to AI and Polymarket joins Nasdaq amid $1 billion fund outflows.
+
+📖 [Read original article](https://cointelegraph.com/news/institutional-crypto-adoption-tether-bitcoin-ai-polymarket-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Bitcoin price falls under $77K as Dow Jones hits new all-time highs
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 5/22/2026, 3:40:15 PM  
+**Categories:** Markets  
+
+Bitcoin headed lower as Wall Street trading began with new record highs for the Dow Jones, while traders warned of weak US demand.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-falls-under-77k-as-dow-jones-hits-new-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. NYSE owner ICE to launch oil-linked futures with OKX
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 5/22/2026, 2:42:45 PM  
+**Categories:** Latest News  
+
+ICE and OKX plan to launch oil-linked perpetual futures based on Brent and WTI benchmarks, bringing crypto derivatives further into traditional energy markets under licensing restrictions.
+
+📖 [Read original article](https://cointelegraph.com/news/nyse-owner-ice-oil-perpetual-futures-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Bitcoin miner MARA spent $4.3M on CEO security in 2025 as crypto attacks rise
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 5/22/2026, 2:25:50 PM  
+**Categories:** Latest News  
+
+MARA spent $4.3 million on CEO Fred Thiel’s security in 2025, including vehicle armoring, as crypto wrench attacks increased globally.
+
+📖 [Read original article](https://cointelegraph.com/news/mara-spends-430k-ceo-vehicle-armoring-wrench-attacks-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 10. Space X IPO: 'Bad news' for tech stocks but what about Bitcoin?
+
+**Author:** Cointelegraph by Yashu Gola  
+**Published:** 5/22/2026, 1:54:47 PM  
+**Categories:** Markets  
+
+SpaceX’s IPO could turn the Mag 7 into a Mag 8, with Tesla and SpaceX comprising 25% of the group's Bitcoin balance-sheet exposure.
+
+📖 [Read original article](https://cointelegraph.com/markets/space-x-ipo-bad-news-for-tech-stocks-but-what-about-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 11. DeFi hacks shake institutional confidence as risks outpace yields
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 5/22/2026, 1:51:53 PM  
+**Categories:** Features  
+
+Repeated bridge exploits and shrinking yields are making institutions question whether DeFi’s risks still justify the returns, says Symbiotic’s Putiatin.
+
+📖 [Read original article](https://cointelegraph.com/features/defi-hacks-institutional-confidence-risks-outpace-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 12. THORChain exploit tied to malicious node and GG20 flaw
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 5/22/2026, 1:48:16 PM  
+**Categories:** Latest News  
+
+The $10.7 million THORChain exploit was caused by a GG20 vulnerability, which allowed a malicious node to reconstruct a full private key to one of its vaults.
+
+📖 [Read original article](https://cointelegraph.com/news/thorchains-10m-exploit-mpc-vulnerability-private-key-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 13. XRP adds 4,300 new wallets in 24 hours, but why is price stuck?
+
+**Author:** Cointelegraph by Nancy Lubale  
+**Published:** 5/22/2026, 11:52:25 AM  
+**Categories:** Markets  
+
+XRP Ledger activity surges with 4,300 new wallets created in 24 hours, but strong resistance keeps XRP price capped.
+
+📖 [Read original article](https://cointelegraph.com/markets/xrp-adds-4300-new-wallets-in-24-hours-but-why-is-price-stuck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 14. Polymarket seeks Japan entry despite gambling law hurdles: Report
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 5/22/2026, 10:57:31 AM  
+**Categories:** Latest News  
+
+Polymarket is reportedly seeking entry into Japan amid falling trading volumes and rising regulatory scrutiny, targeting approval by 2030.
+
+📖 [Read original article](https://cointelegraph.com/news/polymarket-seeks-japan-entry-global-regulatory-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 15. Polymarket team says user funds safe as exploit losses climb above $600K
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 5/22/2026, 10:19:06 AM  
+**Categories:** Latest News  
+
+Polymarket said user funds and market resolution were safe after a suspected private key compromise tied to top-up operations.
+
+📖 [Read original article](https://cointelegraph.com/news/polymarket-uma-adapter-appears-exploited-520k-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 16. Verus bridge exploiter returns $8.5M after bounty offer
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 5/22/2026, 9:32:03 AM  
+**Categories:** Latest News  
+
+The hacker behind the Verus bridge exploit returned 75% of the stolen funds as part of a recovery deal negotiated with the protocol days after the incident.
+
+📖 [Read original article](https://cointelegraph.com/news/verus-bridge-hacker-returns-85m-eth-28m-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 17. Bitcoin price record 90-day uptrend 'resembles bull market rally:' New analysis
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 5/22/2026, 8:12:28 AM  
+**Categories:** Markets  
+
+Bitcoin rallied for 90 days after its dip below $60,000, breaking the record for the longest uptrend within a bear market in BTC price history.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-record-90-day-uptrend-resembles-bull-market-rally-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 18. Hamilton ETFs files for leveraged Bitcoin income ETF in Canada
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 5/22/2026, 7:00:00 AM  
+**Categories:** Latest News  
+
+The proposed fund would use covered-call and short-term options strategies designed to generate monthly income alongside Bitcoin exposure through a leveraged structure.
+
+📖 [Read original article](https://cointelegraph.com/news/hamilton-etfs-files-for-leveraged-bitcoin-income-etf-in-canada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 19. UAE-backed DDSC stablecoin processes $30M institutional transaction
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 5/22/2026, 7:00:00 AM  
+**Categories:** Latest News  
+
+The transfer was executed on ADI Chain, a layer-2 blockchain designed for institutional payments, treasury operations and trade settlement.
+
+📖 [Read original article](https://cointelegraph.com/news/uae-backed-ddsc-stablecoin-processes-30m-institutional-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
