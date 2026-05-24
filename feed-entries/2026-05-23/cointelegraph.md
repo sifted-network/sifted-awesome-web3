@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-23"
 date: "2026-05-23"
 source: "Cointelegraph"
-count: 10
+count: 9
 ---
 
 # Cointelegraph - 2026-05-23
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -59,19 +59,7 @@ Binance CEO Richard Teng denied a new WSJ report alleging $850 million in Iran-l
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 5/23/2026, 2:02:22 PM  
-**Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. ECB pushes back on euro stablecoin proposals, citing financial stability risks
+## 5. ECB pushes back on euro stablecoin proposals, citing financial stability risks
 
 **Author:** Cointelegraph by Amin Haqshanas  
 **Published:** 5/23/2026, 10:56:00 AM  
@@ -83,7 +71,7 @@ The ECB warned EU finance ministers that expanding euro stablecoin issuance coul
 
 ---
 
-## 7. SEC approves Nasdaq to list Bitcoin index options on the exchange
+## 6. SEC approves Nasdaq to list Bitcoin index options on the exchange
 
 **Author:** Cointelegraph by Amin Haqshanas  
 **Published:** 5/23/2026, 9:05:53 AM  
@@ -95,7 +83,7 @@ The cash-settled, European-style contracts will trade under the ticker QBTC on P
 
 ---
 
-## 8. $1.26B Bitcoin ETF outflows spark ‘contrarian’ buy signal: Santiment
+## 7. $1.26B Bitcoin ETF outflows spark ‘contrarian’ buy signal: Santiment
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 5/23/2026, 6:55:08 AM  
@@ -107,7 +95,7 @@ Ongoing Bitcoin ETF outflows have historically “correlated with conditions fav
 
 ---
 
-## 9. ‘Not unlikely’ Strategy will sell Bitcoin in 2026: Michael Saylor
+## 8. ‘Not unlikely’ Strategy will sell Bitcoin in 2026: Michael Saylor
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 5/23/2026, 4:24:09 AM  
@@ -119,7 +107,7 @@ Strategy chairman Michael Saylor said the goal is to maximize Strategy’s Bitco
 
 ---
 
-## 10. Ethereum is still a good long-term buy, according data: Analyst
+## 9. Ethereum is still a good long-term buy, according data: Analyst
 
 **Author:** Cointelegraph by Biraajmaan Tamuly  
 **Published:** 5/23/2026, 12:29:18 AM  
