@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-22"
 date: "2026-05-22"
 source: "Cointelegraph"
-count: 19
+count: 16
 ---
 
 # Cointelegraph - 2026-05-22
 
-19 items collected.
+16 items collected.
 
 ---
 
@@ -200,41 +200,5 @@ Polymarket said user funds and market resolution were safe after a suspected pri
 The hacker behind the Verus bridge exploit returned 75% of the stolen funds as part of a recovery deal negotiated with the protocol days after the incident.
 
 📖 [Read original article](https://cointelegraph.com/news/verus-bridge-hacker-returns-85m-eth-28m-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Bitcoin price record 90-day uptrend 'resembles bull market rally:' New analysis
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 5/22/2026, 8:12:28 AM  
-**Categories:** Markets  
-
-Bitcoin rallied for 90 days after its dip below $60,000, breaking the record for the longest uptrend within a bear market in BTC price history.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-record-90-day-uptrend-resembles-bull-market-rally-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Hamilton ETFs files for leveraged Bitcoin income ETF in Canada
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 5/22/2026, 7:00:00 AM  
-**Categories:** Latest News  
-
-The proposed fund would use covered-call and short-term options strategies designed to generate monthly income alongside Bitcoin exposure through a leveraged structure.
-
-📖 [Read original article](https://cointelegraph.com/news/hamilton-etfs-files-for-leveraged-bitcoin-income-etf-in-canada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. UAE-backed DDSC stablecoin processes $30M institutional transaction
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 5/22/2026, 7:00:00 AM  
-**Categories:** Latest News  
-
-The transfer was executed on ADI Chain, a layer-2 blockchain designed for institutional payments, treasury operations and trade settlement.
-
-📖 [Read original article](https://cointelegraph.com/news/uae-backed-ddsc-stablecoin-processes-30m-institutional-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
