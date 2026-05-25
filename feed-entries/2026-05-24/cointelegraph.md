@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-24"
 date: "2026-05-24"
 source: "Cointelegraph"
-count: 10
+count: 9
 ---
 
 # Cointelegraph - 2026-05-24
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -59,19 +59,7 @@ ETH’s bearish chart setup points to a 25% drop toward $1,600, risking over $10
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 5/24/2026, 2:28:00 PM  
-**Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. CFTC officials who questioned prediction markets were suspended: NYT
+## 5. CFTC officials who questioned prediction markets were suspended: NYT
 
 **Author:** Cointelegraph by Amin Haqshanas  
 **Published:** 5/24/2026, 11:45:00 AM  
@@ -83,7 +71,7 @@ A New York Times investigation found that senior CFTC officials who raised conce
 
 ---
 
-## 7. Blockchain researcher defends Ethereum Foundation, says it’s doing ‘exactly’ its job
+## 6. Blockchain researcher defends Ethereum Foundation, says it’s doing ‘exactly’ its job
 
 **Author:** Cointelegraph by Amin Haqshanas  
 **Published:** 5/24/2026, 9:35:00 AM  
@@ -95,7 +83,7 @@ William Mougayar says critics are measuring the Ethereum Foundation by the wrong
 
 ---
 
-## 8. Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?
+## 7. Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 5/24/2026, 9:02:25 AM  
@@ -107,7 +95,7 @@ Rising short-term bond yields and Warsh's hawkish comments in the past are reviv
 
 ---
 
-## 9. StablR Euro and US dollar stablecoins depeg after $2.8M exploit
+## 8. StablR Euro and US dollar stablecoins depeg after $2.8M exploit
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/24/2026, 5:45:00 AM  
@@ -119,7 +107,7 @@ Stablecoin issuer StablR says it has been compromised, with Blockaid suspecting 
 
 ---
 
-## 10. Bitcoin bounces as Trump prepares to announce ‘negotiated’ Iran deal
+## 9. Bitcoin bounces as Trump prepares to announce ‘negotiated’ Iran deal
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/24/2026, 3:20:00 AM  
