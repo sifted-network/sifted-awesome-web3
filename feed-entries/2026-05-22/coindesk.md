@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-05-22"
 date: "2026-05-22"
 source: "CoinDesk"
-count: 15
+count: 12
 ---
 
 # CoinDesk - 2026-05-22
 
-15 items collected.
+12 items collected.
 
 ---
 
@@ -152,41 +152,5 @@ DJT’s bitcoin strategy remains under pressure as the company sits on hundreds 
 Fundstrat’s Tom Lee argues that trillions in new IPO supply from SpaceX, Anthropic, and OpenAI could ultimately be absorbed by underallocated investors.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/05/22/tom-lee-says-trillions-in-tech-ipo-supply-won-t-crash-the-s-and-p-500)
-
----
-
-## 13. OKX and ICE are bringing 'never-expiring' oil futures to 120 million crypto users
-
-**Author:** Olivier Acuna  
-**Published:** 5/22/2026, 12:48:04 PM  
-**Categories:** Finance, NYSE, Oil, Crypto News, News  
-
-The new partnership comes as Hyperliquid’s oli futures contracts that never expire have been a huge success with over $1.6 billion in 24-hour trading volume.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/05/22/okx-and-ice-are-bringing-never-expiring-oil-futures-to-120-million-crypto-users)
-
----
-
-## 14. Bitcoin left behind in the geopolitical melee
-
-**Author:** Omkar Godbole,Olivier Acuna  
-**Published:** 5/22/2026, 11:31:30 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for May 22, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/05/22/bitcoin-left-behind-in-the-geopolitical-melee)
-
----
-
-## 15. Ark Invest buys $12.5 million of Bullish stock in four days
-
-**Author:** Jamie Crawley  
-**Published:** 5/22/2026, 10:45:29 AM  
-**Categories:** Markets, Bullish, News  
-
-Ark frequently uses broader digital asset downturns, which tend to pull crypto equities lower, as an entry point into cryptocurrency companies.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/22/ark-invest-buys-usd12-5-million-of-bullish-stock-in-four-days)
 
 ---
