@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-05-22"
 date: "2026-05-22"
 source: "Decrypt"
-count: 11
+count: 6
 ---
 
 # Decrypt - 2026-05-22
 
-11 items collected.
+6 items collected.
 
 ---
 
@@ -80,65 +80,5 @@ Federal prosecutors charged two men under the 2025 law that criminalizes non-con
 F2Pool co-founder Chun Wang plans a Starship flyby of Mars, before SpaceX attempts to land humans on the surface.
 
 📖 [Read original article](https://decrypt.co/368804/bitcoin-billionaire-spacex-mars)
-
----
-
-## 7. GameStop Seeks to Boost Share Count as eBay Pursuit Continues After Rejection
-
-**Author:** Logan Hitchcock  
-**Published:** 5/22/2026, 6:42:42 PM  
-**Categories:** , Markets  
-
-Gaming retailer GameStop wants to add 1.5 billion shares to its authorized share count as it seeks to maximize financial flexibility.
-
-📖 [Read original article](https://decrypt.co/368796/gamestop-seeks-boost-share-count-ebay-pursuit-continues-after-rejection)
-
----
-
-## 8. Crypto, Banks, Policy Experts Press Congress to Modernize Bank Secrecy Act
-
-**Author:** Vismaya V  
-**Published:** 5/22/2026, 5:22:33 PM  
-**Categories:** , , Business  
-
-A House subcommittee hearing exposed a divide over how far to scale back the 1970-era anti-money laundering law as Trump expands its reach.
-
-📖 [Read original article](https://decrypt.co/368763/crypto-banks-policy-experts-press-congress-to-modernize-bank-secrecy-act)
-
----
-
-## 9. Crypto Is Growing Up—Why Some Everyday Traders Are Moving On
-
-**Author:** André Beganski  
-**Published:** 5/22/2026, 4:54:02 PM  
-**Categories:** , , Long Reads  
-
-Muted volatility, political shifts, and Wall Street dominance are driving increasingly jaded retail traders out of crypto.
-
-📖 [Read original article](https://decrypt.co/368746/crypto-growing-up-why-everyday-traders-moving-on)
-
----
-
-## 10. Trump Media Moves Over $200 Million in Bitcoin as Losses Pile Up: Arkham
-
-**Author:** Logan Hitchcock  
-**Published:** 5/22/2026, 3:56:52 PM  
-**Categories:** , Business  
-
-It's unknown whether Trump Media &#038; Technology Group is selling its Bitcoin, though it has amassed sizable losses on its holdings.
-
-📖 [Read original article](https://decrypt.co/368752/trump-media-moves-over-200-million-bitcoin-losses-arkham)
-
----
-
-## 11. NYSE Parent, OKX Counter Hyperliquid With Regulated Oil Perpetual Futures
-
-**Author:** André Beganski  
-**Published:** 5/22/2026, 3:15:30 PM  
-**Categories:** Business  
-
-OKX debuted perpetual oil futures tied to Intercontinental Exchange’s benchmarks, the latest sign of growing competition for Hyperliquid.
-
-📖 [Read original article](https://decrypt.co/368755/nyse-parent-okx-counter-hyperliquid-regulated-oil-perpetual-futures)
 
 ---
