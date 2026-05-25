@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-05-24"
 date: "2026-05-24"
 source: "Cointelegraph"
-count: 7
+count: 10
 ---
 
 # Cointelegraph - 2026-05-24
 
-7 items collected.
+10 items collected.
 
 ---
 
-## 1. FTX law firm Fenwick & West to pay $54M to victims in settlement
+## 1. Soaring bond prices signal 'structural' shift and Bitcoin 'supercycle': Analyst
+
+**Author:** Cointelegraph by Vince Quill  
+**Published:** 5/24/2026, 10:12:55 PM  
+**Categories:** Latest News  
+
+Fixed-income investors are in a "panic" as government securities, once seen as low-risk, begin to crack, according to BitMEX researcher Shang Wu.
+
+📖 [Read original article](https://cointelegraph.com/news/soaring-bond-prices-structural-shift-bitcoin-supercycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Buterin fires back at Ethereum Foundation critics, recommits to neutrality
+
+**Author:** Cointelegraph by Vince Quill  
+**Published:** 5/24/2026, 8:43:42 PM  
+**Categories:** Latest News  
+
+The Ethereum Foundation holds less than 1% of all ETH in circulation while other protocol foundations typically hold 10-50% of their native token's supply, the founder said.
+
+📖 [Read original article](https://cointelegraph.com/news/buterin-fires-back-ef-critics-neutrality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. FTX law firm Fenwick & West to pay $54M to victims in settlement
 
 **Author:** Cointelegraph by Vince Quill  
 **Published:** 5/24/2026, 6:05:52 PM  
@@ -23,7 +47,7 @@ The law firm agreed to a settlement in February 2026 and is facing a separate $5
 
 ---
 
-## 2. Tom Lee’s Ethereum portfolio down $7.35B as ETH price outlook worsens
+## 4. Tom Lee’s Ethereum portfolio down $7.35B as ETH price outlook worsens
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 5/24/2026, 3:08:08 PM  
@@ -35,10 +59,10 @@ ETH’s bearish chart setup points to a 25% drop toward $1,600, risking over $10
 
 ---
 
-## 3. Here’s what happened in crypto today
+## 5. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
-**Published:** 5/24/2026, 2:02:22 PM  
+**Published:** 5/24/2026, 2:28:00 PM  
 **Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
 
 Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.
@@ -47,7 +71,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 4. CFTC officials who questioned prediction markets were suspended: NYT
+## 6. CFTC officials who questioned prediction markets were suspended: NYT
 
 **Author:** Cointelegraph by Amin Haqshanas  
 **Published:** 5/24/2026, 11:45:00 AM  
@@ -59,7 +83,7 @@ A New York Times investigation found that senior CFTC officials who raised conce
 
 ---
 
-## 5. Blockchain researcher defends Ethereum Foundation, says it’s doing ‘exactly’ its job
+## 7. Blockchain researcher defends Ethereum Foundation, says it’s doing ‘exactly’ its job
 
 **Author:** Cointelegraph by Amin Haqshanas  
 **Published:** 5/24/2026, 9:35:00 AM  
@@ -71,7 +95,7 @@ William Mougayar says critics are measuring the Ethereum Foundation by the wrong
 
 ---
 
-## 6. Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?
+## 8. Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 5/24/2026, 9:02:25 AM  
@@ -83,14 +107,26 @@ Rising short-term bond yields and Warsh's hawkish comments in the past are reviv
 
 ---
 
-## 7. StablR Euro and USD stablecoins depeg amid ongoing $2.8M exploit
+## 9. StablR Euro and US dollar stablecoins depeg after $2.8M exploit
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/24/2026, 5:45:00 AM  
 **Categories:** Latest News  
 
-Blockaid said the suspected cause is a private key compromise of one owner in the minting multisig account.
+Stablecoin issuer StablR says it has been compromised, with Blockaid suspecting the cause is a private key compromise of an owner of a multisig wallet used for minting tokens.
 
 📖 [Read original article](https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 10. Bitcoin bounces as Trump prepares to announce ‘negotiated’ Iran deal
+
+**Author:** Cointelegraph by Martin Young  
+**Published:** 5/24/2026, 3:20:00 AM  
+**Categories:** Latest News  
+
+US President Donald Trump posted on Truth Social that final details of a deal with Iran are currently being discussed, giving crypto markets a lift.
+
+📖 [Read original article](https://cointelegraph.com/news/bitcoin-bounces-as-trump-prepares-to-announce-negotiated-iran-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
