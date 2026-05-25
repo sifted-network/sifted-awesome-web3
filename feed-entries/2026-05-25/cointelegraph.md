@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-05-25"
 date: "2026-05-25"
 source: "Cointelegraph"
-count: 17
+count: 24
 ---
 
 # Cointelegraph - 2026-05-25
 
-17 items collected.
+24 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. UAE-linked ADI Chain gains Ledger support amid stablecoin growth
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 5/25/2026, 6:29:58 PM  
+**Categories:** Latest News  
+
+The integration gives ADI token holders access to Ledger’s self-custody platform as ADI Chain expands its stablecoin and tokenized asset network.
+
+📖 [Read original article](https://cointelegraph.com/news/ledger-integrates-uae-backed-adi-token-as-gulf-blockchain-infrastructure-expands?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Crypto PAC money pours into Texas primary runoffs, as prediction markets favor challengers
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 5/25/2026, 5:57:00 PM  
+**Categories:** Latest News  
+
+The crypto-aligned Protect Progress PAC reported spending another $750,000 on media for a Democratic candidate over Representative Al Green, whom it described as “actively hostile” to digital assets.
+
+📖 [Read original article](https://cointelegraph.com/news/texas-primary-runoffs-crypto-pac-prediction-markets-newcomers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. CoinQuant introduces trading infrastructure for the agent economy
+
+**Author:** Cointelegraph by Advertorial  
+**Published:** 5/25/2026, 3:39:11 PM  
+**Categories:** Press Releases  
+
+CoinQuant, the AI-powered no-code trading platform that has attracted over 15,000 users since launch, today announces its expansion into a unified trading intelligence architecture built for both human traders and autonomous AI agents.
+
+📖 [Read original article](https://cointelegraph.com/press-releases/coinquant-introduces-trading-infrastructure-for-the-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Squid and Safe Labs say third-party module behind $3.2M exploit
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 5/25/2026, 3:26:20 PM  
+**Categories:** Latest News  
+
+A third-party module drained about $3 million from Safe wallets, with Squid attributing the incident to an external Safe module, saying its core systems were unaffected.
+
+📖 [Read original article](https://cointelegraph.com/news/squid-safe-labs-third-party-module-3-2-million-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. ARIQO makes its Bangkok debut at SEABW, drawing industry attention
+
+**Author:** Cointelegraph by Advertorial  
+**Published:** 5/25/2026, 2:35:34 PM  
+**Categories:** Press Releases  
+
+Canton Foundation, Toss, BitGo Among Co-Hosts at Private Event; Token Launch Slated for Second Half of 2026
+
+📖 [Read original article](https://cointelegraph.com/press-releases/ariqo-makes-its-bangkok-debut-at-seabw-drawing-industry-attention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Coinbase CEO’s finance wishlist mirrors company’s product roadmap
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 5/25/2026, 2:28:12 PM  
+**Categories:** Latest News  
+
+Brian Armstrong's wishlist for upgrading global finance aligns with the exchange's push into stocks, prediction markets and stablecoin payments, though some priorities remain aspirational.
+
+📖 [Read original article](https://cointelegraph.com/news/coinbase-ceo-finance-wishlist-mirrors-companys-product-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Ethereum whale opens $100M short as Vitalik Buterin vows to 'sell less ETH'
+
+**Author:** Cointelegraph by Yashu Gola  
+**Published:** 5/25/2026, 2:13:17 PM  
+**Categories:** Markets  
+
+ETH’s rebound toward the whale’s liquidation zone near $2,150 puts its short at risk of over $1 million in potential losses.
+
+📖 [Read original article](https://cointelegraph.com/markets/ethereum-whale-opens-100m-short-as-vitalik-buterin-vows-to-sell-less-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 5/25/2026, 2:02:39 PM  
@@ -23,7 +107,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Paper losses and scrapped ETFs. What Trump Media’s 2,650 BTC transfer really means
+## 9. Paper losses and scrapped ETFs. What Trump Media’s 2,650 BTC transfer really means
 
 **Author:** Cointelegraph by  
 **Published:** 5/25/2026, 1:24:54 PM  
@@ -35,7 +119,7 @@ Digital asset treasuries (DATs) and the broader practice of building corporate B
 
 ---
 
-## 3. Cyannova Capital announces global launch at its first strategic reception in Hong Kong
+## 10. Cyannova Capital announces global launch at its first strategic reception in Hong Kong
 
 **Author:** Cointelegraph by Advertorial  
 **Published:** 5/25/2026, 1:18:12 PM  
@@ -47,7 +131,7 @@ Cyannova Capital (“Cyannova” or the “Company”), a New York-based investm
 
 ---
 
-## 4. Satoshi-era Bitcoin miner transfers $203M in BTC to OTC desks
+## 11. Satoshi-era Bitcoin miner transfers $203M in BTC to OTC desks
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/25/2026, 1:15:59 PM  
@@ -59,7 +143,7 @@ A Satoshi-era Bitcoin miner moved 2,650 BTC worth about $203 million to FalconX 
 
 ---
 
-## 5. Bitcoin risks drop to $72K as demand metric hits 2026 lows
+## 12. Bitcoin risks drop to $72K as demand metric hits 2026 lows
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/25/2026, 12:45:26 PM  
@@ -71,7 +155,7 @@ Bitcoin’s weakening demand failed to absorb increased selling pressure, raisin
 
 ---
 
-## 6. Indonesia blocks Polymarket after bets on president’s exit
+## 13. Indonesia blocks Polymarket after bets on president’s exit
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 5/25/2026, 12:26:40 PM  
@@ -83,7 +167,7 @@ Indonesia blocked Polymarket after users bet on President Prabowo Subianto leavi
 
 ---
 
-## 7. Crypto lobby spending on Republicans far outpaces Democratic support
+## 14. Crypto lobby spending on Republicans far outpaces Democratic support
 
 **Author:** Cointelegraph by Aaron Wood  
 **Published:** 5/25/2026, 12:18:01 PM  
@@ -95,7 +179,7 @@ The crypto lobby has spent tens of millions of dollars more on Republican candid
 
 ---
 
-## 8. BTC price to attack $80K shorts on Iran peace deal: Five things to know in Bitcoin this week
+## 15. BTC price to attack $80K shorts on Iran peace deal: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 5/25/2026, 12:00:02 PM  
@@ -107,7 +191,7 @@ Bitcoin traders predicted a short squeeze to $80,000, but a lack of overall dema
 
 ---
 
-## 9. Influence360 launches as the first AI & data-driven Web3 KOL platform with global KOL coverage and real attribution
+## 16. Influence360 launches as the first AI & data-driven Web3 KOL platform with global KOL coverage and real attribution
 
 **Author:** Cointelegraph by Advertorial  
 **Published:** 5/25/2026, 12:00:00 PM  
@@ -119,7 +203,7 @@ Influence360 today announced the launch of its platform, introducing a new infra
 
 ---
 
-## 10. New York lawsuit tests lost property claim over dormant Bitcoin
+## 17. New York lawsuit tests lost property claim over dormant Bitcoin
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/25/2026, 11:45:59 AM  
@@ -131,7 +215,7 @@ A New York lawsuit seeks ownership of 39,069 dormant Bitcoin wallets, raising qu
 
 ---
 
-## 11. Tether, Georgia plan lari-backed stablecoin GELT under new rules
+## 18. Tether, Georgia plan lari-backed stablecoin GELT under new rules
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 5/25/2026, 11:30:37 AM  
@@ -143,7 +227,7 @@ Georgia’s central bank released stablecoin rules in March covering reserve bac
 
 ---
 
-## 12. Crypto entrepreneur Chun Wang joins SpaceX mission to Mars
+## 19. Crypto entrepreneur Chun Wang joins SpaceX mission to Mars
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 5/25/2026, 7:15:39 AM  
@@ -155,7 +239,7 @@ Chun Wang, who bankrolled and led a SpaceX flight over Earth’s poles, says he 
 
 ---
 
-## 13. Bitcoin ETFs' 6 day loss streak pushes market closer to net outflows for 2026
+## 20. Bitcoin ETFs' 6 day loss streak pushes market closer to net outflows for 2026
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 5/25/2026, 6:58:35 AM  
@@ -167,7 +251,7 @@ Dek: US Bitcoin ETF net inflows have shrunk to $536 million so far in 2026, afte
 
 ---
 
-## 14. ‘TrapDoor’ malware targets crypto dev tools in supply chain attack
+## 21. ‘TrapDoor’ malware targets crypto dev tools in supply chain attack
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/25/2026, 6:25:28 AM  
@@ -179,7 +263,7 @@ Socket says a campaign of malicious packages is aiming to steal crypto and is in
 
 ---
 
-## 15. ‘Developed ecosystem’ based on crypto has sprung up for AI agents: Report
+## 22. ‘Developed ecosystem’ based on crypto has sprung up for AI agents: Report
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 5/25/2026, 5:41:44 AM  
@@ -191,7 +275,7 @@ Stablecoins became the default settlement layer for AI agents as crypto payment 
 
 ---
 
-## 16. Kalshi backs prediction markets lobby group with former Trump official
+## 23. Kalshi backs prediction markets lobby group with former Trump official
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/25/2026, 5:07:32 AM  
@@ -203,7 +287,7 @@ Stablecoins became the default settlement layer for AI agents as crypto payment 
 
 ---
 
-## 17. SEC postpones plan allowing 'innovation exemption' for tokenized stocks: Report
+## 24. SEC postpones plan allowing 'innovation exemption' for tokenized stocks: Report
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 5/25/2026, 3:45:13 AM  
