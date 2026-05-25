@@ -2,16 +2,28 @@
 title: "The Block - 2026-05-24"
 date: "2026-05-24"
 source: "The Block"
-count: 2
+count: 3
 ---
 
 # The Block - 2026-05-24
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Vitalik Buterin says Ethereum Foundation will be a ‘smaller ship,’ sell less ETH amid researcher exodus
+## 1. NYT investigation alleges CFTC purged staff who questioned Trump-tied crypto firms
+
+**Author:** Zack Abrams  
+**Published:** 5/24/2026, 8:42:59 PM  
+**Categories:** People, Policy, Regulation, CFTC, Donald Trump  
+
+Two officials who intervened to help three firms win approvals over staff objections, per the NYT, have since taken jobs at MoonPay and Gemini Titan.
+
+📖 [Read original article](https://www.theblock.co/post/402442/nyt-investigation-alleges-cftc-purged-staff-who-questioned-trump-tied-crypto-firms?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Vitalik Buterin says Ethereum Foundation will be a ‘smaller ship,’ sell less ETH amid researcher exodus
 
 **Author:** Zack Abrams  
 **Published:** 5/24/2026, 6:01:27 PM  
@@ -23,7 +35,7 @@ Buterin said the EF is choosing "longevity over breadth," selling less ETH and f
 
 ---
 
-## 2. StablR’s EURR and USDR depeg after attacker mints $13.5 million in unbacked tokens through multisig exploit
+## 3. StablR’s EURR and USDR depeg after attacker mints $13.5 million in unbacked tokens through multisig exploit
 
 **Author:** Zack Abrams  
 **Published:** 5/24/2026, 3:08:39 PM  
