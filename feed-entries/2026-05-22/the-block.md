@@ -2,12 +2,12 @@
 title: "The Block - 2026-05-22"
 date: "2026-05-22"
 source: "The Block"
-count: 9
+count: 7
 ---
 
 # The Block - 2026-05-22
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ OKX's oil perps contracts will track Intercontinental Exchange's Brent Crude and
 An advocacy group focused on prediction markets has emerged with support from former White House Deputy Chief of Staff Taylor Budowich.
 
 📖 [Read original article](https://www.theblock.co/post/402374/kalshi-prediction-market-advocacy-group-debuts-support-former-trump-aide?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. Binance disputes latest WSJ report on alleged Iran-linked transactions
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 5/22/2026, 2:02:44 PM  
-**Categories:** Companies, Exchanges, Binance, illicit activity, iran-crypto, wall-street-journal  
-
-WSJ reported Iranian financier Babak Zanjani allegedly moved $850 million through Binance, which CEO Richard Teng said was mischaracterized.
-
-📖 [Read original article](https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. House Oversight chair launches probe into insider trading on Kalshi and Polymarket
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 5/22/2026, 1:03:35 PM  
-**Categories:** Legal, People, Policy, Regulation, U.S. Policymaking, Kalshi, polymarket, prediction-markets  
-
-House Oversight Chairman Comer probes insider trading on Kalshi and Polymarket, sending letters to both CEOs with a June 5 document deadline.
-
-📖 [Read original article](https://www.theblock.co/post/402348/house-oversight-chair-launches-probe-into-insider-trading-on-kalshi-and-polymarket?utm_source=rss&utm_medium=rss)
 
 ---
