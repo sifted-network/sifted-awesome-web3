@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-05-22"
 date: "2026-05-22"
 source: "CoinDesk"
-count: 12
+count: 7
 ---
 
 # CoinDesk - 2026-05-22
 
-12 items collected.
+7 items collected.
 
 ---
 
@@ -92,65 +92,5 @@ Rep. James Comer is demanding internal records from the prediction market CEOs, 
 Chalom explains that retail investors have never had the opportunity to access and manage their own digital treasury desk. Until now.
 
 📖 [Read original article](https://www.coindesk.com/opinion/2026/05/22/the-agentic-cfo-in-your-pocket)
-
----
-
-## 8. Live markets: Bitcoin heads lower late Friday as Warsh takes over at Fed
-
-**Author:** Stephen Alpher  
-**Published:** 5/22/2026, 2:24:04 PM  
-**Categories:** Tech, Bitcoin News, Live News, live_news  
-
-Kevin Warsh was sworn in as Fed chairman in a White House ceremony early Friday afternoon.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend)
-
----
-
-## 9. IREN co-founder says AI’s biggest bottleneck is infrastructure, not chips
-
-**Author:** James Van Straten,AI Boost  
-**Published:** 5/22/2026, 1:20:22 PM  
-**Categories:** Markets, Bitcoin News, Mining, Artificial Intelligence, News  
-
-Dan Roberts outlines IREN’s strategy to build a vertically integrated AI platform spanning power, data centers, GPUs and enterprise software.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/22/iren-co-founder-says-ai-s-biggest-bottleneck-is-infrastructure-not-chips)
-
----
-
-## 10. CoinDesk 20 performance update: NEAR surges 19.4% as index trades flat
-
-**Author:** CoinDesk Indices  
-**Published:** 5/22/2026, 1:14:46 PM  
-**Categories:** CoinDesk Indices, CoinDesk Indices, CoinDesk 20, charts, Prices, News  
-
-Internet Computer (ICP), up 4.3% from Thursday, joined NEAR Protocol (NEAR) as a top performer.
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat)
-
----
-
-## 11. Trump Media moved but 'did not sell' $205 million in bitcoin amid rising losses on crypto bets
-
-**Author:** Helene Braun  
-**Published:** 5/22/2026, 1:08:41 PM  
-**Categories:** Markets, Donald Trump, Bitcoin News, News  
-
-DJT’s bitcoin strategy remains under pressure as the company sits on hundreds of millions in unrealized crypto losses and widening quarterly deficits.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/22/trump-media-moves-another-usd205m-in-bitcoin-as-losses-on-crypto-bet-swell-to-usd455m)
-
----
-
-## 12. Tom Lee says trillions in tech IPO supply won't crash the S&P 500
-
-**Author:** James Van Straten,AI Boost  
-**Published:** 5/22/2026, 12:57:37 PM  
-**Categories:** Markets, News  
-
-Fundstrat’s Tom Lee argues that trillions in new IPO supply from SpaceX, Anthropic, and OpenAI could ultimately be absorbed by underallocated investors.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/22/tom-lee-says-trillions-in-tech-ipo-supply-won-t-crash-the-s-and-p-500)
 
 ---
