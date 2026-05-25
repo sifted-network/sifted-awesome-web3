@@ -2,12 +2,12 @@
 title: "The Block - 2026-05-22"
 date: "2026-05-22"
 source: "The Block"
-count: 14
+count: 9
 ---
 
 # The Block - 2026-05-22
 
-14 items collected.
+9 items collected.
 
 ---
 
@@ -116,65 +116,5 @@ WSJ reported Iranian financier Babak Zanjani allegedly moved $850 million throug
 House Oversight Chairman Comer probes insider trading on Kalshi and Polymarket, sending letters to both CEOs with a June 5 document deadline.
 
 📖 [Read original article](https://www.theblock.co/post/402348/house-oversight-chair-launches-probe-into-insider-trading-on-kalshi-and-polymarket?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. ‘No longer a distant place’: F2Pool Co-founder Chun Wang joins SpaceX’s 2-year mission to Mars
-
-**Author:** Danny Park  
-**Published:** 5/22/2026, 9:30:39 AM  
-**Categories:** Companies, Crypto Ecosystems, Infrastructure, Markets, People, Token Projects, Bitcoin, Chun Wang, Elon Musk, f2pool, Mining, spacex  
-
-Wang will board Starship on a two-year mission that will explore outside the Earth-Moon system and conduct a fly-by of Mars.
-
-📖 [Read original article](https://www.theblock.co/post/402332/f2pool-chun-wang-spacex-mars?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Polymarket probes suspected private key compromise of internal top-up wallet on Polygon
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 5/22/2026, 9:02:16 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Infrastructure, Security, Web3, polymarket, prediction, uma-protocol, zachXBT  
-
-Polymarket said findings point to a possible private key compromise tied to an internal top-up wallet on Polygon.
-
-📖 [Read original article](https://www.theblock.co/post/402327/zachxbt-flags-suspected-exploit-involving-polymarkets-uma-adapter-contract-on-polygon?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Verus bridge exploiter returns 4,052 ETH, retains $2.8 million bounty: onchain analyst
-
-**Author:** Brian Danga  
-**Published:** 5/22/2026, 8:29:12 AM  
-**Categories:** Bridges, Crypto Ecosystems, DeFi, Security, Stablecoins, Assets, defi-hack, ethereum-bridges, Exploits, Hacks, Protocols, USDC  
-
-An attacker transferred 4,052.4 ETH worth $8.5 million back to Verus on Friday after the team proposed a bounty framework.
-
-📖 [Read original article](https://www.theblock.co/post/402319/verus-bridge-exploiter-returns-4052-eth?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Polymarket eyes Japan market entry, appoints regional representative: Bloomberg
-
-**Author:** Timmy Shen  
-**Published:** 5/22/2026, 6:35:24 AM  
-**Categories:** Companies, Crypto Ecosystems, Web3, Tokenization  
-
-The prediction markets platform aims to secure regulatory authorization to operate in Japan by 2030, according to Bloomberg.
-
-📖 [Read original article](https://www.theblock.co/post/402309/polymarket-japan-market-entry?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. South Korea to review scrapping crypto tax plan after national petition hits 50,000 signatures
-
-**Author:** Danny Park  
-**Published:** 5/22/2026, 6:06:21 AM  
-**Categories:** International Policymaking, Policy, Regulation, Tax, Asian Parliaments, Asian Regulation, south-korea  
-
-The petitioner said taxing cryptocurrency gains while abolishing taxes on traditional investments is unfair.
-
-📖 [Read original article](https://www.theblock.co/post/402311/south-korea-petition-crypto-tax-plan?utm_source=rss&utm_medium=rss)
 
 ---
