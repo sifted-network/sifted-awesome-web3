@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-05-24"
 date: "2026-05-24"
 source: "CoinDesk"
-count: 4
+count: 5
 ---
 
 # CoinDesk - 2026-05-24
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Crypto and the Fed: State of Crypto
+## 1. Coinbase does not fear competition from Wall Street, says exchange executive
+
+**Author:** Olivier Acuna  
+**Published:** 5/24/2026, 8:00:00 PM  
+**Categories:** Finance, Coinbase, Bitcoin News, Institutional Adoption, News  
+
+A Coinbase executive called on regulators to implement sensible crypto regulation, while announcing the Stand With Crypto event taking place in over 500 locations worldwide.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/05/24/coinbase-does-not-fear-competition-from-wall-street-says-exchange-executive)
+
+---
+
+## 2. Crypto and the Fed: State of Crypto
 
 **Author:** Nikhilesh De  
 **Published:** 5/24/2026, 6:30:00 PM  
@@ -23,7 +35,7 @@ This past week saw incremental, but potentially important steps.
 
 ---
 
-## 2. A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report
+## 3. A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 5/24/2026, 3:00:00 PM  
@@ -35,7 +47,7 @@ Ledn forecasts the bitcoin-backed lending market could grow to $1 trillion withi
 
 ---
 
-## 3. AI is speeding up the quantum threat to crypto, security experts warn
+## 4. AI is speeding up the quantum threat to crypto, security experts warn
 
 **Author:** Margaux Nijkerk  
 **Published:** 5/24/2026, 2:00:00 PM  
@@ -47,7 +59,7 @@ Researchers and builders believe that artificial intelligence may be acceleratin
 
 ---
 
-## 4. Crypto rails are becoming the default payment layer for AI agents, report says
+## 5. Crypto rails are becoming the default payment layer for AI agents, report says
 
 **Author:** Krisztian Sandor  
 **Published:** 5/24/2026, 1:00:00 PM  
