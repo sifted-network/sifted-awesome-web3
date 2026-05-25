@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-24"
 date: "2026-05-24"
 source: "Cointelegraph"
-count: 9
+count: 6
 ---
 
 # Cointelegraph - 2026-05-24
 
-9 items collected.
+6 items collected.
 
 ---
 
@@ -80,41 +80,5 @@ A New York Times investigation found that senior CFTC officials who raised conce
 William Mougayar says critics are measuring the Ethereum Foundation by the wrong standard, claiming it was never meant to pump ETH or court institutions.
 
 📖 [Read original article](https://cointelegraph.com/news/blockchain-researcher-defends-ethereum-foundation-says-its-exactly-doing-its-job?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?
-
-**Author:** Cointelegraph by Yashu Gola  
-**Published:** 5/24/2026, 9:02:25 AM  
-**Categories:** Markets  
-
-Rising short-term bond yields and Warsh's hawkish comments in the past are reviving fears of a December rate hike, which could slam the brakes on Bitcoin's recovery.
-
-📖 [Read original article](https://cointelegraph.com/markets/why-is-bitcoin-falling-despite-pro-crypto-kevin-warsh-becoming-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. StablR Euro and US dollar stablecoins depeg after $2.8M exploit
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 5/24/2026, 5:45:00 AM  
-**Categories:** Latest News  
-
-Stablecoin issuer StablR says it has been compromised, with Blockaid suspecting the cause is a private key compromise of an owner of a multisig wallet used for minting tokens.
-
-📖 [Read original article](https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bitcoin bounces as Trump prepares to announce ‘negotiated’ Iran deal
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 5/24/2026, 3:20:00 AM  
-**Categories:** Latest News  
-
-US President Donald Trump posted on Truth Social that final details of a deal with Iran are currently being discussed, giving crypto markets a lift.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-bounces-as-trump-prepares-to-announce-negotiated-iran-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
