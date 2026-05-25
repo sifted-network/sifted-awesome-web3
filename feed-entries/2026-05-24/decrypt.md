@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-05-24"
 date: "2026-05-24"
 source: "Decrypt"
-count: 2
+count: 3
 ---
 
 # Decrypt - 2026-05-24
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Strategy Now Holds $65 Billion in Bitcoin—These Are Its Biggest BTC Buys
+## 1. Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay
+
+**Author:** Jason Nelson  
+**Published:** 5/24/2026, 9:01:04 PM  
+**Categories:** , , Artificial Intelligence  
+
+MoonPay's new app lets users buy cryptocurrencies, including Bitcoin and Solana, through ChatGPT just by speaking with the chatbot.
+
+📖 [Read original article](https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay)
+
+---
+
+## 2. Strategy Now Holds $65 Billion in Bitcoin—These Are Its Biggest BTC Buys
 
 **Author:** Logan Hitchcock  
 **Published:** 5/24/2026, 6:53:09 PM  
@@ -23,7 +35,7 @@ How did Michael Saylor's firm amass a record stash of Bitcoin? Here's a look bac
 
 ---
 
-## 2. AI Startup Says It Will Pay People $2,000 a Month to Masturbate—Yes, Really
+## 3. AI Startup Says It Will Pay People $2,000 a Month to Masturbate—Yes, Really
 
 **Author:** Jason Nelson  
 **Published:** 5/24/2026, 4:37:04 PM  
