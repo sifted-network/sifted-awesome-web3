@@ -2,12 +2,12 @@
 title: "The Block - 2026-05-22"
 date: "2026-05-22"
 source: "The Block"
-count: 15
+count: 14
 ---
 
 # The Block - 2026-05-22
 
-15 items collected.
+14 items collected.
 
 ---
 
@@ -176,17 +176,5 @@ The prediction markets platform aims to secure regulatory authorization to opera
 The petitioner said taxing cryptocurrency gains while abolishing taxes on traditional investments is unfair.
 
 📖 [Read original article](https://www.theblock.co/post/402311/south-korea-petition-crypto-tax-plan?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Ark Invest buys another $5 million in Bullish shares as stock slides 3%
-
-**Author:** Timmy Shen  
-**Published:** 5/22/2026, 2:37:27 AM  
-**Categories:** Companies, Equities, Exchanges, Finance firms, Markets, Public Equities, ark-invest, cathie-wood, Investment Firms  
-
-Ark Invest bought a total of 139,117 shares of Bullish, worth about $5 million, across three of its ETFs on Thursday.
-
-📖 [Read original article](https://www.theblock.co/post/402302/ark-invest-buys-5-million-bullish?utm_source=rss&utm_medium=rss)
 
 ---
