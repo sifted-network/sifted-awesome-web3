@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-05-22"
 date: "2026-05-22"
 source: "CoinDesk"
-count: 16
+count: 15
 ---
 
 # CoinDesk - 2026-05-22
 
-16 items collected.
+15 items collected.
 
 ---
 
@@ -188,17 +188,5 @@ Your day-ahead look for May 22, 2026
 Ark frequently uses broader digital asset downturns, which tend to pull crypto equities lower, as an entry point into cryptocurrency companies.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/05/22/ark-invest-buys-usd12-5-million-of-bullish-stock-in-four-days)
-
----
-
-## 16. Crypto majors stuck in tight range as altcoin rotation picks up steam
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 5/22/2026, 10:23:48 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin holds between $76,000 and $78,000 while AI tokens and HYPE surge; derivatives signal calm conditions with volatility selling dominating options markets.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/22/crypto-majors-stuck-in-tight-range-as-altcoin-rotation-picks-up-steam)
 
 ---
