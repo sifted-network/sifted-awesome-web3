@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-05-22"
 date: "2026-05-22"
 source: "Decrypt"
-count: 16
+count: 11
 ---
 
 # Decrypt - 2026-05-22
 
-16 items collected.
+11 items collected.
 
 ---
 
@@ -140,65 +140,5 @@ It's unknown whether Trump Media &#038; Technology Group is selling its Bitcoin,
 OKX debuted perpetual oil futures tied to Intercontinental Exchange’s benchmarks, the latest sign of growing competition for Hyperliquid.
 
 📖 [Read original article](https://decrypt.co/368755/nyse-parent-okx-counter-hyperliquid-regulated-oil-perpetual-futures)
-
----
-
-## 12. House Republicans Open Investigation Into Kalshi, Polymarket Over Insider Trading
-
-**Author:** Sander Lutz  
-**Published:** 5/22/2026, 2:37:58 PM  
-**Categories:** Law and Order  
-
-The chair of the powerful House Oversight Committee has requested documents from Polymarket and Kalshi regarding insider trading and war-related markets.
-
-📖 [Read original article](https://decrypt.co/368748/house-republicans-open-investigation-kalshi-polymarket-insider-trades)
-
----
-
-## 13. Morning Minute: Mark Cuban Sells His Bitcoin
-
-**Author:** Tyler Warner  
-**Published:** 5/22/2026, 1:05:45 PM  
-**Categories:** , , Opinion  
-
-The billionaire cited underperformance vs gold and broader disappointment with crypto's breakout apps (or lack thereof) as drivers.
-
-📖 [Read original article](https://decrypt.co/368742/morning-minute-mark-cuban-sells-his-bitcoin)
-
----
-
-## 14. Polymarket Hit By ‘Internal Top-Up’ Wallet Exploit, $700K Drained
-
-**Author:** Vince Dioquino  
-**Published:** 5/22/2026, 12:23:22 PM  
-**Categories:** polygon, DeFi  
-
-User funds remain safe after the incident, the prediction market platform said, with contracts and core infrastructure unaffected.
-
-📖 [Read original article](https://decrypt.co/368740/polymarket-hit-by-internal-top-up-wallet-exploit-700k-drained)
-
----
-
-## 15. NEAR Protocol Jumps 28% on Privacy, AI, and Scaling Upgrades
-
-**Author:** Akash Girimath  
-**Published:** 5/22/2026, 11:30:22 AM  
-**Categories:** near, Markets  
-
-NEAR rallied by 45% this week on a series of upgrades positioning it as a potential settlement layer for AI agents and confidential finance.
-
-📖 [Read original article](https://decrypt.co/368737/near-protocol-jumps-28-on-privacy-ai-and-scaling-upgrades)
-
----
-
-## 16. Polymarket Taps Jupiter Exec to Lead Japan Push: Report
-
-**Author:** Decrypt Agent  
-**Published:** 5/22/2026, 10:29:48 AM  
-**Categories:** polygon, Business  
-
-The prediction market has reportedly appointed a representative in Japan as it aims to secure authorization to operate there by 2030.
-
-📖 [Read original article](https://decrypt.co/368734/polymarket-taps-jupiter-exec-to-lead-japan-push-report)
 
 ---
