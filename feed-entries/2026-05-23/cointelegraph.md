@@ -38,7 +38,7 @@ The price of Bitcoin is about $75,800 at the time of publication, a nearly 40% d
 ## 3. Warsh will cut rates, despite consensus view of rate hikes: Analyst
 
 **Author:** Cointelegraph by Vince Quill  
-**Published:** 5/23/2026, 6:20:14 PM  
+**Published:** 5/23/2026, 6:59:00 PM  
 **Categories:** Latest News  
 
 The current Federal Funds target rate is between 350 and 375 basis points, which traders project to rise by at least 25 basis points in December 2026.
