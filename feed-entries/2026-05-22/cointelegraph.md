@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-22"
 date: "2026-05-22"
 source: "Cointelegraph"
-count: 14
+count: 11
 ---
 
 # Cointelegraph - 2026-05-22
 
-14 items collected.
+11 items collected.
 
 ---
 
@@ -140,41 +140,5 @@ SpaceX’s IPO could turn the Mag 7 into a Mag 8, with Tesla and SpaceX comprisi
 Repeated bridge exploits and shrinking yields are making institutions question whether DeFi’s risks still justify the returns, says Symbiotic’s Putiatin.
 
 📖 [Read original article](https://cointelegraph.com/features/defi-hacks-institutional-confidence-risks-outpace-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. THORChain exploit tied to malicious node and GG20 flaw
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 5/22/2026, 1:48:16 PM  
-**Categories:** Latest News  
-
-The $10.7 million THORChain exploit was caused by a GG20 vulnerability, which allowed a malicious node to reconstruct a full private key to one of its vaults.
-
-📖 [Read original article](https://cointelegraph.com/news/thorchains-10m-exploit-mpc-vulnerability-private-key-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. XRP adds 4,300 new wallets in 24 hours, but why is price stuck?
-
-**Author:** Cointelegraph by Nancy Lubale  
-**Published:** 5/22/2026, 11:52:25 AM  
-**Categories:** Markets  
-
-XRP Ledger activity surges with 4,300 new wallets created in 24 hours, but strong resistance keeps XRP price capped.
-
-📖 [Read original article](https://cointelegraph.com/markets/xrp-adds-4300-new-wallets-in-24-hours-but-why-is-price-stuck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Polymarket seeks Japan entry despite gambling law hurdles: Report
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 5/22/2026, 10:57:31 AM  
-**Categories:** Latest News  
-
-Polymarket is reportedly seeking entry into Japan amid falling trading volumes and rising regulatory scrutiny, targeting approval by 2030.
-
-📖 [Read original article](https://cointelegraph.com/news/polymarket-seeks-japan-entry-global-regulatory-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
