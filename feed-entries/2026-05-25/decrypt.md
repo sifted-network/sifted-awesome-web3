@@ -17,7 +17,7 @@ count: 6
 **Published:** 5/25/2026, 8:06:04 PM  
 **Categories:** , Business  
 
-The Ethereum-buying firm owns 3.8% of the digital asset’s supply.
+The Ethereum-buying firm owns 4.3% of the digital asset’s supply.
 
 📖 [Read original article](https://decrypt.co/368971/tom-lee-iquidity-ethereum-bitmine-russell-index)
 
