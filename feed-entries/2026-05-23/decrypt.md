@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-05-23"
 date: "2026-05-23"
 source: "Decrypt"
-count: 4
+count: 3
 ---
 
 # Decrypt - 2026-05-23
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Bitcoin touched its lowest price in a month overnight following an awful week fo
 Milei's government unveiled a social digital twin to overhaul public policy—announced via a video full of AI slop, grammatical errors, and a deepfake of a minister.
 
 📖 [Read original article](https://decrypt.co/368860/argentina-ai-predict-future)
-
----
-
-## 4. 3 Wacky Hermes Skills You Should Try
-
-**Author:** Jose Antonio Lanz  
-**Published:** 5/23/2026, 1:01:04 PM  
-**Categories:** Artificial Intelligence  
-
-A real astrology engine disguised as a fortune teller. A scammer-punishment machine loaded with the Shrek screenplay. A tool that reads any book and maps every idea to your actual life. These are not normal skills.
-
-📖 [Read original article](https://decrypt.co/368188/3-wacky-hermes-skills-you-should-try)
 
 ---
