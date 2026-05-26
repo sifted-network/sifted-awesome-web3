@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-25"
 date: "2026-05-25"
 source: "Cointelegraph"
-count: 21
+count: 12
 ---
 
 # Cointelegraph - 2026-05-25
 
-21 items collected.
+12 items collected.
 
 ---
 
@@ -152,113 +152,5 @@ Digital asset treasuries (DATs) and the broader practice of building corporate B
 Cyannova Capital (“Cyannova” or the “Company”), a New York-based investment firm, announces its inaugural investment fund, Cyannova Capital, LP, at its private industry reception held in Hong Kong.
 
 📖 [Read original article](https://cointelegraph.com/press-releases/cyannova-capital-announces-global-launch-at-its-first-strategic-reception-in-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Satoshi-era Bitcoin miner transfers $203M in BTC to OTC desks
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 5/25/2026, 1:15:59 PM  
-**Categories:** Latest News  
-
-A Satoshi-era Bitcoin miner moved 2,650 BTC worth about $203 million to FalconX and Cumberland, while retaining 6,000 BTC.
-
-📖 [Read original article](https://cointelegraph.com/news/satoshi-era-bitcoin-miner-moves-203m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Bitcoin risks drop to $72K as demand metric hits 2026 lows
-
-**Author:** Cointelegraph by Nancy Lubale  
-**Published:** 5/25/2026, 12:45:26 PM  
-**Categories:** Markets  
-
-Bitcoin’s weakening demand failed to absorb increased selling pressure, raising risks of a further BTC price drop toward $72,000.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-risks-drop-to-72k-as-demand-metric-hits-2026-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Indonesia blocks Polymarket after bets on president’s exit
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 5/25/2026, 12:26:40 PM  
-**Categories:** Latest News  
-
-Indonesia blocked Polymarket after users bet on President Prabowo Subianto leaving office early, citing gambling concerns and expanding global scrutiny of prediction markets.
-
-📖 [Read original article](https://cointelegraph.com/news/indonesia-blocks-polymarket-bets-presidents-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Crypto lobby spending on Republicans far outpaces Democratic support
-
-**Author:** Cointelegraph by Aaron Wood  
-**Published:** 5/25/2026, 12:18:01 PM  
-**Categories:** Features  
-
-The crypto lobby has spent tens of millions of dollars more on Republican candidates and elections than on Democratic lawmakers.
-
-📖 [Read original article](https://cointelegraph.com/features/crypto-lobby-spending-on-republicans-far-outpaces-democratic-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. BTC price to attack $80K shorts on Iran peace deal: Five things to know in Bitcoin this week
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 5/25/2026, 12:00:02 PM  
-**Categories:** Markets  
-
-Bitcoin traders predicted a short squeeze to $80,000, but a lack of overall demand and the return of leverage sparked warnings of more liquidation events to come.
-
-📖 [Read original article](https://cointelegraph.com/markets/btc-price-tipped-to-attack-80k-shorts-on-iran-peace-deal-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Influence360 launches as the first AI & data-driven Web3 KOL platform with global KOL coverage and real attribution
-
-**Author:** Cointelegraph by Advertorial  
-**Published:** 5/25/2026, 12:00:00 PM  
-**Categories:** Press Releases  
-
-Influence360 today announced the launch of its platform, introducing a new infrastructure layer for Web3 influencer marketing built around trust, data, and global execution.
-
-📖 [Read original article](https://cointelegraph.com/press-releases/influence360-launches-as-the-first-ai-data-driven-web3-kol-platform-with-global-kol-coverage-and-real-attribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. New York lawsuit tests lost property claim over dormant Bitcoin
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 5/25/2026, 11:45:59 AM  
-**Categories:** Latest News  
-
-A New York lawsuit seeks ownership of 39,069 dormant Bitcoin wallets, raising questions over lost crypto, private keys and property law.
-
-📖 [Read original article](https://cointelegraph.com/news/new-york-lawsuit-lost-property-dormant-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Tether, Georgia plan lari-backed stablecoin GELT under new rules
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 5/25/2026, 11:30:37 AM  
-**Categories:** Latest News  
-
-Georgia’s central bank released stablecoin rules in March covering reserve backing, issuer documents and external auditor verification.
-
-📖 [Read original article](https://cointelegraph.com/news/tether-georgia-government-plan-lari-backed-stablecoin-gelt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Crypto entrepreneur Chun Wang joins SpaceX mission to Mars
-
-**Author:** Cointelegraph by Stephen Katte  
-**Published:** 5/25/2026, 7:15:39 AM  
-**Categories:** Latest News  
-
-Chun Wang, who bankrolled and led a SpaceX flight over Earth’s poles, says he will head to Mars on SpaceX’s first manned mission to the red planet.
-
-📖 [Read original article](https://cointelegraph.com/news/chun-wang-spacex-mars-mission-crypto-entrepreneur?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
