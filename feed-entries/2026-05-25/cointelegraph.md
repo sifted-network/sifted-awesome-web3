@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-05-25"
 date: "2026-05-25"
 source: "Cointelegraph"
-count: 24
+count: 26
 ---
 
 # Cointelegraph - 2026-05-25
 
-24 items collected.
+26 items collected.
 
 ---
 
-## 1. UAE-linked ADI Chain gains Ledger support amid stablecoin growth
+## 1. Price predictions 5/25: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ZEC
+
+**Author:** Cointelegraph by Rakesh Upadhyay  
+**Published:** 5/25/2026, 11:34:12 PM  
+**Categories:** Markets  
+
+Bitcoin’s weekend bounce shows strong demand at lower levels, but holding $78,000 may remain a challenge for the bulls.
+
+📖 [Read original article](https://cointelegraph.com/markets/price-predictions-525-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. XRP price trades in ‘value zone’ near $1.40 as whales pull $170M from exchanges
+
+**Author:** Cointelegraph by Nancy Lubale  
+**Published:** 5/25/2026, 8:30:46 PM  
+**Categories:** Markets  
+
+Whales withdrew $170 million in XRP from Binance as the price holds a key $1.35-$1.40 accumulation and support zone.
+
+📖 [Read original article](https://cointelegraph.com/markets/xrp-price-in-value-zone-near-140-as-whales-pull-170m-from-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. UAE-linked ADI Chain gains Ledger support amid stablecoin growth
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 5/25/2026, 6:29:58 PM  
@@ -23,7 +47,7 @@ The integration gives ADI token holders access to Ledger’s self-custody platfo
 
 ---
 
-## 2. Crypto PAC money pours into Texas primary runoffs, as prediction markets favor challengers
+## 4. Crypto PAC money pours into Texas primary runoffs, as prediction markets favor challengers
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 5/25/2026, 5:57:00 PM  
@@ -35,7 +59,7 @@ The crypto-aligned Protect Progress PAC reported spending another $750,000 on me
 
 ---
 
-## 3. CoinQuant introduces trading infrastructure for the agent economy
+## 5. CoinQuant introduces trading infrastructure for the agent economy
 
 **Author:** Cointelegraph by Advertorial  
 **Published:** 5/25/2026, 3:39:11 PM  
@@ -47,7 +71,7 @@ CoinQuant, the AI-powered no-code trading platform that has attracted over 15,00
 
 ---
 
-## 4. Squid and Safe Labs say third-party module behind $3.2M exploit
+## 6. Squid and Safe Labs say third-party module behind $3.2M exploit
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 5/25/2026, 3:26:20 PM  
@@ -59,7 +83,19 @@ A third-party module drained about $3 million from Safe wallets, with Squid attr
 
 ---
 
-## 5. ARIQO makes its Bangkok debut at SEABW, drawing industry attention
+## 7. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Cointelegraph  
+**Published:** 5/25/2026, 3:02:00 PM  
+**Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. ARIQO makes its Bangkok debut at SEABW, drawing industry attention
 
 **Author:** Cointelegraph by Advertorial  
 **Published:** 5/25/2026, 2:35:34 PM  
@@ -71,7 +107,7 @@ Canton Foundation, Toss, BitGo Among Co-Hosts at Private Event; Token Launch Sla
 
 ---
 
-## 6. Coinbase CEO’s finance wishlist mirrors company’s product roadmap
+## 9. Coinbase CEO’s finance wishlist mirrors company’s product roadmap
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/25/2026, 2:28:12 PM  
@@ -83,7 +119,7 @@ Brian Armstrong's wishlist for upgrading global finance aligns with the exchange
 
 ---
 
-## 7. Ethereum whale opens $100M short as Vitalik Buterin vows to 'sell less ETH'
+## 10. Ethereum whale opens $100M short as Vitalik Buterin vows to 'sell less ETH'
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 5/25/2026, 2:13:17 PM  
@@ -95,19 +131,7 @@ ETH’s rebound toward the whale’s liquidation zone near $2,150 puts its short
 
 ---
 
-## 8. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 5/25/2026, 2:02:39 PM  
-**Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Paper losses and scrapped ETFs. What Trump Media’s 2,650 BTC transfer really means
+## 11. Paper losses and scrapped ETFs. What Trump Media’s 2,650 BTC transfer really means
 
 **Author:** Cointelegraph by  
 **Published:** 5/25/2026, 1:24:54 PM  
@@ -119,7 +143,7 @@ Digital asset treasuries (DATs) and the broader practice of building corporate B
 
 ---
 
-## 10. Cyannova Capital announces global launch at its first strategic reception in Hong Kong
+## 12. Cyannova Capital announces global launch at its first strategic reception in Hong Kong
 
 **Author:** Cointelegraph by Advertorial  
 **Published:** 5/25/2026, 1:18:12 PM  
@@ -131,7 +155,7 @@ Cyannova Capital (“Cyannova” or the “Company”), a New York-based investm
 
 ---
 
-## 11. Satoshi-era Bitcoin miner transfers $203M in BTC to OTC desks
+## 13. Satoshi-era Bitcoin miner transfers $203M in BTC to OTC desks
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/25/2026, 1:15:59 PM  
@@ -143,7 +167,7 @@ A Satoshi-era Bitcoin miner moved 2,650 BTC worth about $203 million to FalconX 
 
 ---
 
-## 12. Bitcoin risks drop to $72K as demand metric hits 2026 lows
+## 14. Bitcoin risks drop to $72K as demand metric hits 2026 lows
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/25/2026, 12:45:26 PM  
@@ -155,7 +179,7 @@ Bitcoin’s weakening demand failed to absorb increased selling pressure, raisin
 
 ---
 
-## 13. Indonesia blocks Polymarket after bets on president’s exit
+## 15. Indonesia blocks Polymarket after bets on president’s exit
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 5/25/2026, 12:26:40 PM  
@@ -167,7 +191,7 @@ Indonesia blocked Polymarket after users bet on President Prabowo Subianto leavi
 
 ---
 
-## 14. Crypto lobby spending on Republicans far outpaces Democratic support
+## 16. Crypto lobby spending on Republicans far outpaces Democratic support
 
 **Author:** Cointelegraph by Aaron Wood  
 **Published:** 5/25/2026, 12:18:01 PM  
@@ -179,7 +203,7 @@ The crypto lobby has spent tens of millions of dollars more on Republican candid
 
 ---
 
-## 15. BTC price to attack $80K shorts on Iran peace deal: Five things to know in Bitcoin this week
+## 17. BTC price to attack $80K shorts on Iran peace deal: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 5/25/2026, 12:00:02 PM  
@@ -191,7 +215,7 @@ Bitcoin traders predicted a short squeeze to $80,000, but a lack of overall dema
 
 ---
 
-## 16. Influence360 launches as the first AI & data-driven Web3 KOL platform with global KOL coverage and real attribution
+## 18. Influence360 launches as the first AI & data-driven Web3 KOL platform with global KOL coverage and real attribution
 
 **Author:** Cointelegraph by Advertorial  
 **Published:** 5/25/2026, 12:00:00 PM  
@@ -203,7 +227,7 @@ Influence360 today announced the launch of its platform, introducing a new infra
 
 ---
 
-## 17. New York lawsuit tests lost property claim over dormant Bitcoin
+## 19. New York lawsuit tests lost property claim over dormant Bitcoin
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/25/2026, 11:45:59 AM  
@@ -215,7 +239,7 @@ A New York lawsuit seeks ownership of 39,069 dormant Bitcoin wallets, raising qu
 
 ---
 
-## 18. Tether, Georgia plan lari-backed stablecoin GELT under new rules
+## 20. Tether, Georgia plan lari-backed stablecoin GELT under new rules
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 5/25/2026, 11:30:37 AM  
@@ -227,7 +251,7 @@ Georgia’s central bank released stablecoin rules in March covering reserve bac
 
 ---
 
-## 19. Crypto entrepreneur Chun Wang joins SpaceX mission to Mars
+## 21. Crypto entrepreneur Chun Wang joins SpaceX mission to Mars
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 5/25/2026, 7:15:39 AM  
@@ -239,7 +263,7 @@ Chun Wang, who bankrolled and led a SpaceX flight over Earth’s poles, says he 
 
 ---
 
-## 20. Bitcoin ETFs' 6 day loss streak pushes market closer to net outflows for 2026
+## 22. Bitcoin ETFs' 6 day loss streak pushes market closer to net outflows for 2026
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 5/25/2026, 6:58:35 AM  
@@ -251,7 +275,7 @@ Dek: US Bitcoin ETF net inflows have shrunk to $536 million so far in 2026, afte
 
 ---
 
-## 21. ‘TrapDoor’ malware targets crypto dev tools in supply chain attack
+## 23. ‘TrapDoor’ malware targets crypto dev tools in supply chain attack
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/25/2026, 6:25:28 AM  
@@ -263,7 +287,7 @@ Socket says a campaign of malicious packages is aiming to steal crypto and is in
 
 ---
 
-## 22. ‘Developed ecosystem’ based on crypto has sprung up for AI agents: Report
+## 24. ‘Developed ecosystem’ based on crypto has sprung up for AI agents: Report
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 5/25/2026, 5:41:44 AM  
@@ -275,7 +299,7 @@ Stablecoins became the default settlement layer for AI agents as crypto payment 
 
 ---
 
-## 23. Kalshi backs prediction markets lobby group with former Trump official
+## 25. Kalshi backs prediction markets lobby group with former Trump official
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/25/2026, 5:07:32 AM  
@@ -287,7 +311,7 @@ Stablecoins became the default settlement layer for AI agents as crypto payment 
 
 ---
 
-## 24. SEC postpones plan allowing 'innovation exemption' for tokenized stocks: Report
+## 26. SEC postpones plan allowing 'innovation exemption' for tokenized stocks: Report
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 5/25/2026, 3:45:13 AM  
