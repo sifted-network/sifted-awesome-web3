@@ -7,7 +7,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 824 | 107 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
-| 2 | [mango](https://github.com/MangoNet-Labs/mango) | 276 | 75 | Rust | 1 | Mango Network is a Layer1 blockchain based on the Dpos consensus mechanism and supported by Move to build a transaction-based omni-chain infrastructure network. | 2025-06-21 |
+| 2 | [mango](https://github.com/MangoNet-Labs/mango) | 275 | 75 | Rust | 1 | Mango Network is a Layer1 blockchain based on the Dpos consensus mechanism and supported by Move to build a transaction-based omni-chain infrastructure network. | 2025-06-21 |
 | 3 | [Mavryk-Wallet](https://github.com/MeoMunDep/Mavryk-Wallet) | 149 | 4 | Shell | 0 | Auto  connect wallet, send token, stake, create vault, deposit, earn, borrow, faucet token.  | 2025-09-26 |
 | 4 | [layer1](https://github.com/LNP-BP/layer1) | 67 | 12 | - | 2 | Paper on new bitcoin layer 1 design | 2023-10-04 |
 | 5 | [Web3](https://github.com/nemo-crypto/Web3) | 58 | 21 | - | 0 | Ethers.js、Web3.js、Connectwallet、量化策略、套利、区块链、币安、网格、跟单、撸羊毛、脚本、跨链桥、MPC钱包、铭文、符文、zk、Layer1 (基础公链)、Layer2 (扩容解决方案)、layer3、AI + Web3、DeFi 、GameFi、防夹、滑点、PumpFun、FourMeme、公链、钱包、流动性池子 | 2026-05-13 |
@@ -25,30 +25,30 @@
 | 17 | [Acki-Nacki](https://github.com/MeoMunDep/Acki-Nacki) | 12 | 0 | Shell | 0 | Auto farm, do tasks, update mamaboard, claim frens points, claim boost points. | 2025-12-27 |
 | 18 | [Injective](https://github.com/MeoMunDep/Injective) | 11 | 0 | - | 0 | Auto stake, swap, wrap, supply, withdraw, borrow, repay, add liquidity. [FOR SALE] | 2025-12-23 |
 | 19 | [Layer1](https://github.com/anyashechka/Layer1) | 9 | 0 | - | 0 |  | 2024-06-06 |
-| 20 | [QNet-Blockchain](https://github.com/AIQnetLab/QNet-Blockchain) | 9 | 0 | Rust | 1 | Post-Quantum Decentralized Network | 2026-05-24 |
+| 20 | [QNet-Blockchain](https://github.com/AIQnetLab/QNet-Blockchain) | 9 | 0 | Rust | 1 | Post-Quantum Decentralized Network | 2026-05-26 |
 | 21 | [MegaETH](https://github.com/MeoMunDep/MegaETH) | 9 | 0 | JavaScript | 0 | Auto all. | 2025-06-03 |
 | 22 | [bitcoin-staking](https://github.com/gigi0500/bitcoin-staking) | 8 | 8 | - | 0 | BTC-STAKING, Bitcoin Staking, developed on bitcoin layer1. | 2025-01-22 |
 | 23 | [tinydns](https://github.com/laincloud/tinydns) | 7 | 8 | Go | 0 | Tinydns is a LAIN's layer1 application providing internal DNS resolving service | 2018-02-09 |
-| 24 | [phantasma-ts](https://github.com/phantasma-io-archive/phantasma-ts) | 7 | 13 | JavaScript | 1 | A TypeScript SDK for the Phantasma blockchain | 2024-01-11 |
-| 25 | [hikmalayer-core](https://github.com/bestowerlabs/hikmalayer-core) | 7 | 1 | Rust | 0 | Hikmalayer Core is a hybrid Layer‑1 blockchain prototype that combines Proof‑of‑Stake (validator selection) with Proof‑of‑Work (block finalization). It is developed by Muhammad Ayan Rao director Besto... | 2026-04-15 |
-| 26 | [BluePods](https://github.com/clemsix6/BluePods) | 7 | 0 | Go | 0 | Layer 1 blockchain with object-oriented state, DAG consensus, and execution sharding | 2026-03-09 |
-| 27 | [flexo-mms-layer1-service](https://github.com/Open-MBEE/flexo-mms-layer1-service) | 6 | 3 | Kotlin | 13 |  | 2026-05-11 |
-| 28 | [erbie](https://github.com/erbieio/erbie) | 6 | 4 | Go | 0 | ErbieChain is an efficient Layer1 that aggregates web data and realizes value on Web3. | 2024-08-05 |
-| 29 | [phantasma-ng](https://github.com/phantasma-io-archive/phantasma-ng) | 6 | 15 | C# | 1 | Phantasma Blockchain Source Code | 2024-01-16 |
-| 30 | [Exorde](https://github.com/xplanx/Exorde) | 6 | 0 | - | 0 | Exorde is the web3 protocol that empowers developers to crawl and link all public data on the web. | 2023-05-24 |
-| 31 | [Linea-Guide](https://github.com/farman-haris/Linea-Guide) | 6 | 0 | - | 0 |  | 2024-04-02 |
-| 32 | [safrochain-node](https://github.com/Safrochain-Org/safrochain-node) | 5 | 3 | Go | 0 | Safrochain-node is the core Cosmos SDK-based Layer1 blockchain. | 2026-05-18 |
+| 24 | [safrochain-node](https://github.com/Safrochain-Org/safrochain-node) | 7 | 9 | Go | 10 | Safrochain-node is the core Cosmos SDK-based Layer1 blockchain. | 2026-05-25 |
+| 25 | [phantasma-ts](https://github.com/phantasma-io-archive/phantasma-ts) | 7 | 13 | JavaScript | 1 | A TypeScript SDK for the Phantasma blockchain | 2024-01-11 |
+| 26 | [hikmalayer-core](https://github.com/bestowerlabs/hikmalayer-core) | 7 | 1 | Rust | 0 | Hikmalayer Core is a hybrid Layer‑1 blockchain prototype that combines Proof‑of‑Stake (validator selection) with Proof‑of‑Work (block finalization). It is developed by Muhammad Ayan Rao director Besto... | 2026-04-15 |
+| 27 | [BluePods](https://github.com/clemsix6/BluePods) | 7 | 0 | Go | 0 | Layer 1 blockchain with object-oriented state, DAG consensus, and execution sharding | 2026-03-09 |
+| 28 | [flexo-mms-layer1-service](https://github.com/Open-MBEE/flexo-mms-layer1-service) | 6 | 3 | Kotlin | 13 |  | 2026-05-26 |
+| 29 | [erbie](https://github.com/erbieio/erbie) | 6 | 4 | Go | 0 | ErbieChain is an efficient Layer1 that aggregates web data and realizes value on Web3. | 2024-08-05 |
+| 30 | [phantasma-ng](https://github.com/phantasma-io-archive/phantasma-ng) | 6 | 15 | C# | 1 | Phantasma Blockchain Source Code | 2024-01-16 |
+| 31 | [Exorde](https://github.com/xplanx/Exorde) | 6 | 0 | - | 0 | Exorde is the web3 protocol that empowers developers to crawl and link all public data on the web. | 2023-05-24 |
+| 32 | [Linea-Guide](https://github.com/farman-haris/Linea-Guide) | 6 | 0 | - | 0 |  | 2024-04-02 |
 | 33 | [nexawallet](https://github.com/efeint01/nexawallet) | 5 | 2 | Java | 0 | A rich native android wallet app to store your nexa coins in one place | 2023-11-01 |
 | 34 | [codename-phoenix](https://github.com/CloakProject/codename-phoenix) | 5 | 3 | C++ | 25 | New CloakCoin wallet base, Bitcoin fork 0.21.1 | 2024-01-09 |
 | 35 | [nuklai-js-sdk](https://github.com/Nuklai/nuklai-js-sdk) | 5 | 0 | TypeScript | 8 | The Nuklai SDK provides a modular and comprehensive interface for interacting with the Nuklai blockchain.  | 2025-01-07 |
-| 36 | [howcryptoworksbook-kr](https://github.com/gtg7784/howcryptoworksbook-kr) | 5 | 2 | - | 0 | This is Korean version of https://github.com/lawmaster10/howcryptoworksbook (Fully automated maintained by claude) | 2026-03-15 |
-| 37 | [registry](https://github.com/laincloud/registry) | 4 | 6 | Python | 0 | Registry is for image storage in LAIN | 2018-11-07 |
-| 38 | [vcs_layer1](https://github.com/pumaddd/vcs_layer1) | 4 | 1 | C++ | 0 | sdr for gsm interception - viettel cyber security layer1 | 2020-11-09 |
-| 39 | [BTGS](https://github.com/BTGSCOINDEV/BTGS) | 4 | 2 | C++ | 0 | BITCOIN GOLD "BTGS" | 2026-05-10 |
-| 40 | [aureus-core](https://github.com/sipherapex/aureus-core) | 4 | 1 | C++ | 0 | Initial commit of Aureus Core source code | 2026-04-26 |
-| 41 | [raxion](https://github.com/rodrigooler/raxion) | 4 | 0 | Rust | 19 | RAXION is the first blockchain architecture that transforms intelligence from a service into a sovereign, verifiable state | 2026-05-09 |
+| 36 | [raxion](https://github.com/rodrigooler/raxion) | 5 | 0 | Rust | 19 | RAXION is the first blockchain architecture that transforms intelligence from a service into a sovereign, verifiable state | 2026-05-09 |
+| 37 | [howcryptoworksbook-kr](https://github.com/gtg7784/howcryptoworksbook-kr) | 5 | 2 | - | 0 | This is Korean version of https://github.com/lawmaster10/howcryptoworksbook (Fully automated maintained by claude) | 2026-03-15 |
+| 38 | [registry](https://github.com/laincloud/registry) | 4 | 6 | Python | 0 | Registry is for image storage in LAIN | 2018-11-07 |
+| 39 | [vcs_layer1](https://github.com/pumaddd/vcs_layer1) | 4 | 1 | C++ | 0 | sdr for gsm interception - viettel cyber security layer1 | 2020-11-09 |
+| 40 | [BTGS](https://github.com/BTGSCOINDEV/BTGS) | 4 | 1 | C++ | 0 | BITCOIN GOLD "BTGS" | 2026-05-25 |
+| 41 | [aureus-core](https://github.com/sipherapex/aureus-core) | 4 | 1 | C++ | 0 | Initial commit of Aureus Core source code | 2026-04-26 |
 | 42 | [Algorand-Pak-Fellowship-Training](https://github.com/Graphfied/Algorand-Pak-Fellowship-Training) | 4 | 0 | Python | 0 | A complete guide for Blockchain Development specifically for ALGORAND | 2025-10-18 |
-| 43 | [XRPLEVM](https://github.com/Wizmithaaa/XRPLEVM) | 4 | 1 | JavaScript | 0 | Auto deploy, send, burn, swap, bridge, add liquid pool, mint tokens. [500 STARS TO UNLOCK] | 2026-05-25 |
+| 43 | [XRPLEVM](https://github.com/Wizmithaaa/XRPLEVM) | 4 | 1 | JavaScript | 0 | Auto deploy, send, burn, swap, bridge, add liquid pool, mint tokens. [500 STARS TO UNLOCK] | 2026-05-26 |
 | 44 | [Doma-Testnet](https://github.com/MeoMunDep/Doma-Testnet) | 4 | 0 | Shell | 0 | Auto bridge, faucet, swap tokens.  | 2025-12-20 |
 | 45 | [webrouter](https://github.com/laincloud/webrouter) | 3 | 8 | Python | 0 | A layer 1 application for routing http(s) requests of LAIN's web applications | 2018-02-27 |
 | 46 | [rebellion](https://github.com/laincloud/rebellion) | 3 | 4 | Go | 1 | LAIN's component for collecting logs of LAIN and its applications | 2018-08-22 |
@@ -74,21 +74,21 @@
 | 66 | [NPSharp](https://github.com/icedream/NPSharp) | 2 | 1 | C# | 0 | Library for communication with NTAuthority's Network Platform (Terminal/Layer1) server. | 2015-03-22 |
 | 67 | [concordium-mcp-server](https://github.com/Developerayo/concordium-mcp-server) | 2 | 1 | TypeScript | 1 | Concordium mcp-sever for interacting with the concordium chain | 2025-07-30 |
 | 68 | [Phantasma-UnityPackage](https://github.com/phantasma-io-archive/Phantasma-UnityPackage) | 2 | 4 | C# | 0 | Unity SDK for Phantasma | 2023-04-04 |
-| 69 | [tp5-layer-admin](https://github.com/z1px/tp5-layer-admin) | 2 | 0 | PHP | 0 | 基于thinkphp5.0.10+layer1.0.9-rls后台权限管理系统 | 2017-11-29 |
-| 70 | [Phantasma-Py](https://github.com/phantasma-io-archive/Phantasma-Py) | 2 | 3 | Python | 0 | Phantasma Python SDK | 2023-12-13 |
+| 69 | [Phantasma-Py](https://github.com/phantasma-io-archive/Phantasma-Py) | 2 | 3 | Python | 0 | Phantasma Python SDK | 2023-12-13 |
+| 70 | [tp5-layer-admin](https://github.com/z1px/tp5-layer-admin) | 2 | 0 | PHP | 0 | 基于thinkphp5.0.10+layer1.0.9-rls后台权限管理系统 | 2017-11-29 |
 | 71 | [ferrous](https://github.com/ChronoCoders/ferrous) | 2 | 0 | Rust | 0 | A Rust-built Layer 1 blockchain — RandomX PoW, BIP39 wallets, Shamir recovery, post-quantum roadmap | 2026-05-11 |
 | 72 | [revo](https://github.com/revolutionchain/revo) | 2 | 0 | C++ | 2 | Official Revo Blockchain repository | 2024-01-17 |
 | 73 | [ZionLayerOne](https://github.com/zibtree/ZionLayerOne) | 2 | 0 | Go | 0 | The AI-Native Layer 1 Blockchain | 2026-02-28 |
 | 74 | [vtt](https://github.com/vettor-chain/vtt) | 2 | 0 | Rust | 0 | Layer 1 blockchain for tokenizing real-world assets. DPoS consensus, WASM smart contracts, built-in DEX, cross-chain bridge. | 2026-04-19 |
 | 75 | [aethelred](https://github.com/aethelred-foundation/aethelred) | 2 | 1 | Rust | 0 | Canonical monorepo for the Aethelred protocol, security baselines, and public release provenance. | 2026-05-24 |
 | 76 | [Qylith](https://github.com/bahuang081-svg/Qylith) | 2 | 0 | Rust | 0 | ⚛️ Qylith — The First AI-Native, Quantum-Resistant Layer 1 Blockchain \| FALCON-1024 + ML-KEM-768 + STARK | 2026-05-02 |
-| 77 | [MISAKA-CORE](https://github.com/MISAKA-BTC/MISAKA-CORE) | 2 | 0 | Rust | 0 | MISAKA Network core node: Rust L1 with Narwhal/Bullshark DAG consensus, ML-DSA post-quantum signatures, SMT state commitments, and public testnet tooling. | 2026-05-24 |
+| 77 | [MISAKA-CORE](https://github.com/MISAKA-BTC/MISAKA-CORE) | 2 | 0 | Rust | 0 | MISAKA Network core node: Rust L1 with Narwhal/Bullshark DAG consensus, ML-DSA post-quantum signatures, SMT state commitments, and public testnet tooling. | 2026-05-25 |
 | 78 | [eventify](https://github.com/lbkolev/eventify) | 2 | 0 | Rust | 0 | EVM event pipeline | 2024-03-13 |
 | 79 | [Bitmask-Snap](https://github.com/bitmask-stack/Bitmask-Snap) | 2 | 1 | TypeScript | 0 | Built at ETHDENVER2024, The BitMask <> MetaMask Snap will offer seamless and secure access to the Bitcoin ecosystem for 35 million MetaMask users. This encompasses BTC layer1, the Lightning network, B... | 2024-05-17 |
 | 80 | [layer2-course](https://github.com/Web3Arabs/layer2-course) | 2 | 0 | - | 0 | محتوى الدورة التدريبية مقدمة إلى Layer2 و Rollups في Web3Arabs - الأفضل للمبتدئين للحصول على نظرة عامة حول حلول الطبقة الثانية وتقنيات Rollups للتوسع في Ethereum | 2023-09-18 |
 | 81 | [doc](https://github.com/Amichain/doc) | 2 | 1 | TypeScript | 0 | Amichain documentation - Layer 1 blockchain ecosystem by AMI (Avax Meme Index) team | 2025-06-26 |
 | 82 | [VRAM](https://github.com/MeoMunDep/VRAM) | 2 | 0 | Shell | 0 | Auto swap tokens, create agent, chat with agent. | 2025-11-12 |
-| 83 | [Arxia](https://github.com/Amorpa4063/Arxia) | 2 | 0 | Rust | 0 | Build an offline-first Layer 1 blockchain for LoRa, BLE, SMS, and satellite with CRDT sync and ORV consensus | 2026-05-25 |
+| 83 | [Arxia](https://github.com/Amorpa4063/Arxia) | 2 | 0 | Rust | 0 | Build an offline-first Layer 1 blockchain for LoRa, BLE, SMS, and satellite with CRDT sync and ORV consensus | 2026-05-26 |
 | 84 | [Viri](https://github.com/RockyOmvi/Viri) | 2 | 1 | Go | 9 | Production-grade 3-layer modular L1 blockchain in Go. HotStuff-2 BFT formally verified with TLA+ (34M+ states, Byzantine model). Native AA, dual EVM+WASM, ZK privacy, MEV resistance. BSL 1.1. | 2026-05-18 |
 | 85 | [lvault](https://github.com/laincloud/lvault) | 1 | 5 | CSS | 0 | Secret files configuration system for LAIN. (LAIN VAULT) | 2018-09-26 |
 | 86 | [dsp-layer1-gsm-processing-c6678](https://github.com/tvmanus/dsp-layer1-gsm-processing-c6678) | 1 | 2 | C | 0 | Multicore GSM layer1 singal processing  | 2016-01-13 |
@@ -99,8 +99,8 @@
 | 91 | [layer1](https://github.com/natalymarcela11/layer1) | 1 | 0 | - | 0 |  | 2023-08-23 |
 | 92 | [Validator-List](https://github.com/0xCrazy-crypto/Validator-List) | 1 | 0 | - | 0 | Validator-List of STBL Layer1 | 2025-06-27 |
 | 93 | [Nexus-layer1](https://github.com/wenxpy/Nexus-layer1) | 1 | 0 | - | 0 |  | 2025-07-02 |
-| 94 | [layer1.wtf](https://github.com/L1Beat/layer1.wtf) | 1 | 1 | TypeScript | 0 |  | 2026-02-15 |
-| 95 | [Layer10_assignment](https://github.com/ShubhanshiJ30/Layer10_assignment) | 1 | 0 | Python | 0 |  | 2026-03-06 |
+| 94 | [Layer10_assignment](https://github.com/ShubhanshiJ30/Layer10_assignment) | 1 | 0 | Python | 0 |  | 2026-03-06 |
+| 95 | [layer1.wtf](https://github.com/L1Beat/layer1.wtf) | 1 | 1 | TypeScript | 0 |  | 2026-02-15 |
 | 96 | [layer1.foundation](https://github.com/layer1foundation/layer1.foundation) | 1 | 0 | TypeScript | 0 | NextJS landing page for the Non-Profit Layer 1 Foundation. | 2024-06-25 |
 | 97 | [agents.layer1.cash](https://github.com/toorik2/agents.layer1.cash) | 1 | 1 | CSS | 0 | BCH context site for AI agents — raw markdown for machines, SolidJS SPA for humans | 2026-02-16 |
 | 98 | [ACI_LAYER1_HEALTH_CHECK](https://github.com/yzmar4real/ACI_LAYER1_HEALTH_CHECK) | 1 | 0 | Python | 0 |  Python Code that allows Network Engineers to run through their ACI Infrastructure for Layer 1 availability and compare to a set of interfaces that reflects their tenant computing a health score | 2021-06-21 |
