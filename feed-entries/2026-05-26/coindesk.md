@@ -2,18 +2,102 @@
 title: "CoinDesk - 2026-05-26"
 date: "2026-05-26"
 source: "CoinDesk"
-count: 18
+count: 25
 ---
 
 # CoinDesk - 2026-05-26
 
-18 items collected.
+25 items collected.
 
 ---
 
-## 1. Live markets: bitcoin on sidelines as markets surge on Iran peace hopes
+## 1. Joe Lubin-backed Ethereum treasury firm SharpLink to join the Russel indexes
 
-**Author:** Stephen Alpher  
+**Author:** Krisztian Sandor  
+**Published:** 5/26/2026, 7:03:39 PM  
+**Categories:** Finance, Ethereum News, Digital Asset Treasury, News  
+
+The inclusion could attract fresh passive inflows from index-tracking funds, while the firm's stock tanked 95% from its peak over the past year.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/05/26/joe-lubin-backed-ethereum-treasury-firm-sharplink-to-join-the-russel-indexes)
+
+---
+
+## 2. UK sanctions Huobi and ruble stablecoin issuer in crackdown on Russia crypto networks
+
+**Author:** Francisco Rodrigues  
+**Published:** 5/26/2026, 5:33:35 PM  
+**Categories:** Finance, Regulation, News  
+
+Britain applied banking-style sanctions to crypto exchanges for the first time, requiring U.K. financial firms to freeze funds and trace transactions.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/05/26/uk-sanctions-huobi-and-ruble-stablecoin-issuer-in-crackdown-on-russia-crypto-networks)
+
+---
+
+## 3. Bermuda, the small island nation with huge crypto ambitions
+
+**Author:** Olivier Acuna  
+**Published:** 5/26/2026, 4:23:05 PM  
+**Categories:** Finance, Coinbase, Stablecoins, Circle, News  
+
+The government recently announced it would become the world’s first economy to go fully onchain, a move officials believe will bring its people new opportunities.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/05/26/bermuda-the-small-island-nation-with-huge-crypto-ambitions)
+
+---
+
+## 4. Coinbase’s Base launches AI tool for ChatGPT to manage crypto wallets and DeFi apps
+
+**Author:** Margaux Nijkerk  
+**Published:** 5/26/2026, 4:00:00 PM  
+**Categories:** Tech, Coinbase, Ethereum News, News  
+
+The product, called Base MCP, connects a user’s Base Account to AI clients such as ChatGPT, Claude and Cursor using the Model Context Protocol (MCP), an emerging standard that allows AI systems to securely interface with external tools and applications.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/05/26/coinbase-s-base-launches-ai-tool-for-chatgpt-to-manage-crypto-wallets-and-defi-apps)
+
+---
+
+## 5. XRPL could close its biggest DeFi gap if new AMM amendment passes
+
+**Author:** Shaurya Malwa  
+**Published:** 5/26/2026, 3:34:09 PM  
+**Categories:** Tech, XRP News, News  
+
+A draft proposal filed Tuesday would extend the XRP Ledger's native automated market maker with three swappable curve types, giving liquidity providers more efficient ways to deploy capital and closing one of XRPL DeFi's longest-standing gaps.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/05/26/xrpl-could-close-its-biggest-defi-gap-if-new-amm-amendment-passes)
+
+---
+
+## 6. The Clarity Act won’t lead to adoption without crypto tax reform
+
+**Author:** Robin Singh  
+**Published:** 5/26/2026, 3:19:18 PM  
+**Categories:** Opinion, Regulation, Clarity Act, Opinion  
+
+The legislation is being framed as a turning point for U.S. crypto policy, but there’s a major piece of the puzzle being overlooked, argues Singh.
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/05/26/the-clarity-act-won-t-lead-to-adoption-without-crypto-tax-reform)
+
+---
+
+## 7. TeraWulf jumps 13% on AI data center expansion in Kentucky
+
+**Author:** Krisztian Sandor  
+**Published:** 5/26/2026, 2:48:36 PM  
+**Categories:** Markets, Mining, Artificial Intelligence, News  
+
+The bitcoin miner turned HPC infrastructure developer unveiled plans for a new 1 gigawatt facility in Kentucky aimed at servicing AI workloads.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/05/26/terawulf-jumps-13-on-ai-data-center-expansion-in-kentucky)
+
+---
+
+## 8. Live markets: bitcoin on sidelines as markets surge on Iran peace hopes
+
+**Author:** Stephen Alpher,Olivier Acuna,Helene Braun  
 **Published:** 5/26/2026, 2:43:53 PM  
 **Categories:** Markets, Bitcoin News, Live News, live_news  
 
@@ -23,7 +107,7 @@ Oil prices and bond yields have opened the week sharply lower following Presiden
 
 ---
 
-## 2. Bitmine made its largest ETH purchase this year despite Tom Lee's slowdown suggestion
+## 9. Bitmine made its largest ETH purchase this year despite Tom Lee's slowdown suggestion
 
 **Author:** Krisztian Sandor  
 **Published:** 5/26/2026, 1:27:51 PM  
@@ -35,7 +119,7 @@ The company bought 111,942 ether last week worth $237 million, ramping up purcha
 
 ---
 
-## 3. CoinDesk 20 performance update: SUI drops 1.1%, leading index lower
+## 10. CoinDesk 20 performance update: SUI drops 1.1%, leading index lower
 
 **Author:** CoinDesk Indices  
 **Published:** 5/26/2026, 1:18:17 PM  
@@ -47,7 +131,7 @@ Cronos (CRO), also down 1.1%, joined Sui (SUI) as an underperformer.
 
 ---
 
-## 4. Strive acquires 1,109 bitcoin, raising total holdings to 16,500 coins
+## 11. Strive acquires 1,109 bitcoin, raising total holdings to 16,500 coins
 
 **Author:** James Van Straten  
 **Published:** 5/26/2026, 12:46:02 PM  
@@ -59,7 +143,7 @@ ASST climbs 133% in three months as Strive grows holdings to 16,500 BTC and expl
 
 ---
 
-## 5. Strategy taps cash reserve to retire $1.5 billion in convertible debt
+## 12. Strategy taps cash reserve to retire $1.5 billion in convertible debt
 
 **Author:** James Van Straten  
 **Published:** 5/26/2026, 12:19:46 PM  
@@ -71,7 +155,7 @@ Michael Saylor and team funded the repurchases using cash as it restructures lia
 
 ---
 
-## 6. Spain joins growing list of countries shutting out Polymarket and Kalshi
+## 13. Spain joins growing list of countries shutting out Polymarket and Kalshi
 
 **Author:** Francisco Rodrigues  
 **Published:** 5/26/2026, 12:06:25 PM  
@@ -83,7 +167,7 @@ The platforms were blocked for operating without licenses required by Spanish ga
 
 ---
 
-## 7. Bitcoin demand gauge sinks to worst level since December as spot buying weakens
+## 14. Bitcoin demand gauge sinks to worst level since December as spot buying weakens
 
 **Author:** Shaurya Malwa  
 **Published:** 5/26/2026, 12:03:47 PM  
@@ -95,7 +179,7 @@ CryptoQuant’s 30-day apparent demand indicator is negative, signaling that buy
 
 ---
 
-## 8. StablR freezes USDR and EURR after attacker mints $13.5 million in unbacked tokens
+## 15. StablR freezes USDR and EURR after attacker mints $13.5 million in unbacked tokens
 
 **Author:** Francisco Rodrigues  
 **Published:** 5/26/2026, 11:25:23 AM  
@@ -107,7 +191,7 @@ The breach, linked to a 1-of-3 multisig wallet weakness, allowed attackers to co
 
 ---
 
-## 9. Bitcoin ETFs crushed by billions in outflows as Treasuries stifle interest-rate cut hopes
+## 16. Bitcoin ETFs crushed by billions in outflows as Treasuries stifle interest-rate cut hopes
 
 **Author:** Omkar Godbole  
 **Published:** 5/26/2026, 11:20:16 AM  
@@ -119,7 +203,7 @@ Your day-ahead look for May 26, 2026
 
 ---
 
-## 10. Bitcoin risks another lower high as stocks rally, AI tokens outperform
+## 17. Bitcoin risks another lower high as stocks rally, AI tokens outperform
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 5/26/2026, 10:42:44 AM  
@@ -131,7 +215,7 @@ The bitcoin price chart is forming a potential lower high while ether languishes
 
 ---
 
-## 11. Bitcoin caught between critical onchain support and an options showdown
+## 18. Bitcoin caught between critical onchain support and an options showdown
 
 **Author:** James Van Straten  
 **Published:** 5/26/2026, 9:11:06 AM  
@@ -143,7 +227,7 @@ Heavy supply concentration and large options positioning continue to suppress vo
 
 ---
 
-## 12. XRP Ledger to delete NFT junk and patch key bugs in a new upgrade
+## 19. XRP Ledger to delete NFT junk and patch key bugs in a new upgrade
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 5/26/2026, 9:06:37 AM  
@@ -155,7 +239,7 @@ The XRP Ledger is rolling out the fixCleanup3_1_3 upgrade on Wednesday, to clean
 
 ---
 
-## 13. Hyperliquid takes a swing at Polymarket with macro outcome bets
+## 20. Hyperliquid takes a swing at Polymarket with macro outcome bets
 
 **Author:** Sam Reynolds  
 **Published:** 5/26/2026, 6:44:36 AM  
@@ -167,7 +251,7 @@ The decentralized exchange’s new HIP-4 product lets traders bet on offchain ev
 
 ---
 
-## 14. At $322 billion, the stablecoin market value exceeds the FX reserves of 95 nations
+## 21. At $322 billion, the stablecoin market value exceeds the FX reserves of 95 nations
 
 **Author:** Omkar Godbole  
 **Published:** 5/26/2026, 6:16:35 AM  
@@ -179,7 +263,7 @@ The amount of dollars and other fiat currencies held by users outside traditiona
 
 ---
 
-## 15. Ondo Finance founder Nathan Allman dies unexpectedly
+## 22. Ondo Finance founder Nathan Allman dies unexpectedly
 
 **Author:** CoinDesk  
 **Published:** 5/26/2026, 6:13:58 AM  
@@ -191,7 +275,7 @@ Tokenized real-world assets firm Ondo Finance announced the unexpected death of 
 
 ---
 
-## 16. XRP slips below $1.35 after triangle breakdown puts focus on $1.30 support
+## 23. XRP slips below $1.35 after triangle breakdown puts focus on $1.30 support
 
 **Author:** Shaurya Malwa  
 **Published:** 5/26/2026, 5:08:57 AM  
@@ -203,7 +287,7 @@ XRP lost a key support zone after another failed breakout attempt, with traders 
 
 ---
 
-## 17. HYPE briefly overtakes Dogecoin, privacy tokens slide as US strikes on Iran rattle markets
+## 24. HYPE briefly overtakes Dogecoin, privacy tokens slide as US strikes on Iran rattle markets
 
 **Author:** Shaurya Malwa  
 **Published:** 5/26/2026, 4:57:43 AM  
@@ -215,7 +299,7 @@ ZEC and XMR dropped 5% in a session that saw most major tokens pull back after w
 
 ---
 
-## 18. Bitcoin stalls near $76,500 as muted trading points to macro wait-and-see
+## 25. Bitcoin stalls near $76,500 as muted trading points to macro wait-and-see
 
 **Author:** Sam Reynolds  
 **Published:** 5/26/2026, 4:06:43 AM  
