@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-05-25"
 date: "2026-05-25"
 source: "Decrypt"
-count: 5
+count: 6
 ---
 
 # Decrypt - 2026-05-25
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. Famed iPhone, Sony Hacker Says AI Coding Agents Are a Disaster Waiting to Happen
+## 1. Tom Lee Outlines Liquidity Catalyst for Ethereum Firm BitMine Following Russell Index Update
+
+**Author:** André Beganski  
+**Published:** 5/25/2026, 8:06:04 PM  
+**Categories:** , Business  
+
+The Ethereum-buying firm owns 3.8% of the digital asset’s supply.
+
+📖 [Read original article](https://decrypt.co/368971/tom-lee-iquidity-ethereum-bitmine-russell-index)
+
+---
+
+## 2. Famed iPhone, Sony Hacker Says AI Coding Agents Are a Disaster Waiting to Happen
 
 **Author:** Jose Antonio Lanz  
 **Published:** 5/25/2026, 7:06:04 PM  
@@ -23,7 +35,7 @@ George Hotz spent six months testing agents on real projects and came away convi
 
 ---
 
-## 2. With Central Bank’s Blessing, Georgia Taps Tether for 'Official' Stablecoin
+## 3. With Central Bank’s Blessing, Georgia Taps Tether for 'Official' Stablecoin
 
 **Author:** André Beganski  
 **Published:** 5/25/2026, 6:06:03 PM  
@@ -35,7 +47,7 @@ Tether plans to issue a stablecoin in Georgia with support from the country’s 
 
 ---
 
-## 3. Perplexity Built a Tool That Checks Your Computer for Infected Software—Without Setting Off the Infection
+## 4. Perplexity Built a Tool That Checks Your Computer for Infected Software—Without Setting Off the Infection
 
 **Author:** Jose Antonio Lanz  
 **Published:** 5/25/2026, 5:08:55 PM  
@@ -47,7 +59,7 @@ Bumblebee scans developer machines for compromised packages and AI tool configs.
 
 ---
 
-## 4. Vitalik Buterin Signals Shift to 'Smaller Ship' at Ethereum Foundation Amid Departures
+## 5. Vitalik Buterin Signals Shift to 'Smaller Ship' at Ethereum Foundation Amid Departures
 
 **Author:** André Beganski  
 **Published:** 5/25/2026, 4:01:05 PM  
@@ -59,7 +71,7 @@ Buterin revealed that 90% of his net worth is tied up in Ethereum.
 
 ---
 
-## 5. Pope Leo Releases First AI Encyclical, Calls Data a Common Good and Rejects Moral Neutrality of Tech
+## 6. Pope Leo Releases First AI Encyclical, Calls Data a Common Good and Rejects Moral Neutrality of Tech
 
 **Author:** Jose Antonio Lanz  
 **Published:** 5/25/2026, 3:02:22 PM  
