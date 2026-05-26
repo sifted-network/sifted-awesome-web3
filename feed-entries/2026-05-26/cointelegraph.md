@@ -2,16 +2,136 @@
 title: "Cointelegraph - 2026-05-26"
 date: "2026-05-26"
 source: "Cointelegraph"
-count: 18
+count: 29
 ---
 
 # Cointelegraph - 2026-05-26
 
-18 items collected.
+29 items collected.
 
 ---
 
-## 1. Bitcoin’s big cup-and-handle pattern targets ‘minimum’ $220K BTC price
+## 1. UK authorities sanction HTX crypto exchange over support for Russia
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 5/26/2026, 6:41:07 PM  
+**Categories:** Latest News  
+
+Formerly Huobi Global, the exchange is the latest entity to be named as part of a crackdown on companies “exploited by Russia to circumvent UK sanctions.”
+
+📖 [Read original article](https://cointelegraph.com/news/uk-sanctions-htx-huobi-russia-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. TeraWulf acquires Kentucky AI data center site with planned 1 GW capacity
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 5/26/2026, 6:01:53 PM  
+**Categories:** Latest News  
+
+WULF shares surged on Tuesday after the Bitcoin miner announced its latest move to expand into AI and HPC through a multi-phase buildout through 2030.
+
+📖 [Read original article](https://cointelegraph.com/news/terawulf-kentucky-ai-data-center-1gw-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Spanish authorities block Polymarket and Kalshi over gambling laws
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 5/26/2026, 5:02:00 PM  
+**Categories:** Latest News  
+
+Spain joined a growing list of national authorities restricting or banning prediction market platforms amid concerns over unlicensed gambling activities.
+
+📖 [Read original article](https://cointelegraph.com/news/spain-blocks-polymarket-kalshi-gambling-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bitcoin 'liquidation hunts' control BTC at $77K amid new Iran peace deal doubts
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 5/26/2026, 4:57:58 PM  
+**Categories:** Markets  
+
+Bitcoin failed to copy US stocks' upside after a spike to $78,000 became one of a series of liquidity grabs.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-liquidation-hunts-control-btc-at-77k-amid-new-iran-peace-deal-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. NEAR token price has 'potential to grow 20x,' says Arthur Hayes
+
+**Author:** Cointelegraph by Yashu Gola  
+**Published:** 5/26/2026, 4:42:10 PM  
+**Categories:** Markets  
+
+NEAR is mirroring a 2023–2024 fractal that preceded a 250% rally, hinting at similar upside in 2026 as privacy coin demand grows.
+
+📖 [Read original article](https://cointelegraph.com/markets/near-token-price-has-potential-to-grow-20x-says-arthur-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Cointelegraph  
+**Published:** 5/26/2026, 3:39:04 PM  
+**Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. AI guardrail removals raise questions over limits of open-source model regulation
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 5/26/2026, 3:25:18 PM  
+**Categories:** Latest News  
+
+Financial Times testing found safety controls on open AI models from Meta and Google could be stripped in minutes, raising governance concerns.
+
+📖 [Read original article](https://cointelegraph.com/news/ai-guardrail-removals-raise-questions-over-limits-of-open-source-model-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Strategy buys back $1.5B of debt at discount, cuts outstanding notes to $6.7B
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 5/26/2026, 3:11:32 PM  
+**Categories:** Latest News  
+
+Strategy reduced aggregate convertible notes outstanding to $6.7 billion after repurchasing 2029 notes for $1.38 billion in cash.
+
+📖 [Read original article](https://cointelegraph.com/news/strategy-repurchases-15b-notes-cuts-outstanding-debt-67b-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Grvt adds 3 tokenized yield funds tied to institutional-grade RWAs
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 5/26/2026, 3:00:00 PM  
+**Categories:** Latest News  
+
+Grvt will work with Plume to launch tokenized fixed-income and structured credit products tied to institutional-grade real world assets and onchain yield strategies.
+
+📖 [Read original article](https://cointelegraph.com/news/grvt-taps-plume-for-tokenized-rwa-yield-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 10. RWA market hits $51B as tokenized private credits surges: Bernstein
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 5/26/2026, 2:50:43 PM  
+**Categories:** Latest News  
+
+Bernstein Research data shows the RWA market at $51 billion, with tokenized private credit leading and Figure leading RWA platforms with $18 billion in tokenized assets.
+
+📖 [Read original article](https://cointelegraph.com/news/rwa-market-cap-51-billion-tokenized-private-credit-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 11. Bitcoin’s big cup-and-handle pattern targets ‘minimum’ $220K BTC price
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/26/2026, 2:03:29 PM  
@@ -23,7 +143,7 @@ Bitcoin cup-and-handle chart breakout targets $220,000, but BTC price must first
 
 ---
 
-## 2. Ethereum treasury firms lean on staking as ETF pressure builds: Report
+## 12. Ethereum treasury firms lean on staking as ETF pressure builds: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 5/26/2026, 2:00:00 PM  
@@ -35,7 +155,7 @@ Everstake said staking made up 60% of disclosed revenue among six Ethereum treas
 
 ---
 
-## 3. Bitcoin treasury firms add 603 BTC as Strategy pauses buying
+## 13. Bitcoin treasury firms add 603 BTC as Strategy pauses buying
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/26/2026, 12:24:45 PM  
@@ -47,7 +167,7 @@ Smaller Bitcoin treasury companies bought about $46 million worth of Bitcoin bel
 
 ---
 
-## 4. Binance eyes Philippines return through SEC sandbox partnership
+## 14. Binance eyes Philippines return through SEC sandbox partnership
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 5/26/2026, 12:07:03 PM  
@@ -59,7 +179,7 @@ Binance remains blocked in the Philippines after a 2024 NTC directive tied to SE
 
 ---
 
-## 5. Ex-Hodlnaut CEO charged with fraud over Terra exposure claims
+## 15. Ex-Hodlnaut CEO charged with fraud over Terra exposure claims
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/26/2026, 11:19:03 AM  
@@ -71,7 +191,7 @@ Singapore police charge ex-Hodlnaut CEO Zhu Juntao with six counts of fraud by f
 
 ---
 
-## 6. Crypto funds bleed $1.47B as risk-off sentiment deepens
+## 16. Crypto funds bleed $1.47B as risk-off sentiment deepens
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 5/26/2026, 11:01:46 AM  
@@ -83,7 +203,7 @@ Crypto ETPs logged $1.47 billion of outflows last week as Bitcoin funds led loss
 
 ---
 
-## 7. Ethereum price chart targets $1.8K as total value locked hits 13-month lows
+## 17. Ethereum price chart targets $1.8K as total value locked hits 13-month lows
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/26/2026, 10:33:45 AM  
@@ -95,7 +215,7 @@ Ether price eyes a 14% drop to $1,800 as it trades in a classic bearish pattern 
 
 ---
 
-## 8. Luffa secures strategic investment from GoFintech Quantum at US$220 million valuation, pioneering AI + fintech frontier
+## 18. Luffa secures strategic investment from GoFintech Quantum at US$220 million valuation, pioneering AI + fintech frontier
 
 **Author:** Cointelegraph by Advertorial  
 **Published:** 5/26/2026, 10:30:00 AM  
@@ -107,7 +227,7 @@ Luffa AI, a leading innovator at the intersection of Web3 and Artificial Intelli
 
 ---
 
-## 9. Hyperliquid launches prediction markets for real-world events
+## 19. Hyperliquid launches prediction markets for real-world events
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/26/2026, 10:26:00 AM  
@@ -119,7 +239,7 @@ Hyperliquid launched canonical prediction markets for offchain events, expanding
 
 ---
 
-## 10. AI agents must be treated as untrusted systems: Researchers
+## 20. AI agents must be treated as untrusted systems: Researchers
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 5/26/2026, 7:11:26 AM  
@@ -131,7 +251,19 @@ AI agents are becoming increasingly popular among crypto users, with Circle CEO 
 
 ---
 
-## 11. Scammers make $400K through fake Uniswap ads on Google
+## 21. Liquid launches ChatGPT and Claude trading app with live market execution
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 5/26/2026, 7:00:00 AM  
+**Categories:** Latest News  
+
+Co-Invest lets users fund accounts, analyze positions and execute trades across more than 500 markets without leaving AI chat interfaces.
+
+📖 [Read original article](https://cointelegraph.com/news/liquid-launches-chatgpt-and-claude-trading-app-with-live-market-execution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 22. Scammers make $400K through fake Uniswap ads on Google
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/26/2026, 6:41:30 AM  
@@ -143,7 +275,7 @@ A blockchain analyst has warned that malicious phishing advertisements impersona
 
 ---
 
-## 12. Bitmine’s Tom Lee hints at stock tailwinds after firm considered for Russell 3000
+## 23. Bitmine’s Tom Lee hints at stock tailwinds after firm considered for Russell 3000
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 5/26/2026, 5:48:52 AM  
@@ -155,7 +287,7 @@ Bitmine's Tom Lee says the firm could be considered for the Russell 1000, and it
 
 ---
 
-## 13. Bitcoin in ‘high-risk zone’ as ETF outflows signal institutional exit: Swissblock
+## 24. Bitcoin in ‘high-risk zone’ as ETF outflows signal institutional exit: Swissblock
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/26/2026, 5:11:04 AM  
@@ -167,7 +299,7 @@ This steady drip of ETF outflow continues to add to the supply side without a vi
 
 ---
 
-## 14. Ondo Finance founder Nathan Allman dies aged 32
+## 25. Ondo Finance founder Nathan Allman dies aged 32
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 5/26/2026, 4:45:04 AM  
@@ -179,7 +311,7 @@ Ondo Finance says its founder, Nathan Allman, died unexpectedly, with company pr
 
 ---
 
-## 15. Kelp DAO says rsETH restored 5 weeks after $293M protocol hack
+## 26. Kelp DAO says rsETH restored 5 weeks after $293M protocol hack
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 5/26/2026, 3:14:03 AM  
@@ -191,7 +323,7 @@ Kelp DAO says that sETH mints, redemptions and rewards operations have been runn
 
 ---
 
-## 16. Bitcoin volatility falls to 8-month low: Is a BTC breakout imminent?
+## 27. Bitcoin volatility falls to 8-month low: Is a BTC breakout imminent?
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 5/26/2026, 2:59:45 AM  
@@ -203,7 +335,7 @@ Bitcoin’s 8-month low volatility can’t predict BTC’s price prediction but 
 
 ---
 
-## 17. Bitcoin holds $77K as stocks rally, global tensions cool: Are BTC bulls back?
+## 28. Bitcoin holds $77K as stocks rally, global tensions cool: Are BTC bulls back?
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 5/26/2026, 1:31:39 AM  
@@ -215,7 +347,7 @@ Data suggests that Bitcoin may be gearing up for a rally to $82,000. Will bulls 
 
 ---
 
-## 18. Bitcoin chases range highs despite rising BTC exchange inflows: Is $80K next?
+## 29. Bitcoin chases range highs despite rising BTC exchange inflows: Is $80K next?
 
 **Author:** Cointelegraph by Biraajmaan Tamuly  
 **Published:** 5/26/2026, 12:10:24 AM  
