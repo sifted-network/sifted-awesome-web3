@@ -2,12 +2,12 @@
 title: "The Block - 2026-05-26"
 date: "2026-05-26"
 source: "The Block"
-count: 19
+count: 15
 ---
 
 # The Block - 2026-05-26
 
-19 items collected.
+15 items collected.
 
 ---
 
@@ -188,53 +188,5 @@ Hong Kong moves to license crypto advisers and managers under anti-money launder
 Co-Invest supports crypto, equities, FX, Polymarket positions and pre-IPO secondaries across over 500 markets, according to Liquid.
 
 📖 [Read original article](https://www.theblock.co/post/402496/liquid-launches-co-invest?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. ‘Optimism looks fragile’: Bitcoin wavers as Iran strikes revive geopolitical tensions and analysts warn of range trap
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 5/26/2026, 11:39:42 AM  
-**Categories:** Equities, Market Recap, Market Updates, Markets, Analyst Reports, bear-market, bitfinex, bull-market, Crypto Movers, glassnode, iran israel  
-
-Analysts warn of a range trap as underwater bitcoin buyers build resistance near $79,000 and tensions flare again in the Middle East.
-
-📖 [Read original article](https://www.theblock.co/post/402552/optimism-looks-fragile-bitcoin-wavers-as-iran-strikes-revive-geopolitical-tensions-and-analysts-warn-of-range-trap?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Robinhood clears final regulatory approval for $180M WonderFi deal ahead of expected June 1 close
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 5/26/2026, 10:06:47 AM  
-**Categories:** Companies, Deals, Mergers & Acquisitions, acquisitions, Canada crypto, wonderfi  
-
-Canada's CIRO approved Robinhood's acquisition of WonderFi, clearing the final regulatory hurdle ahead of an expected June 1 close.
-
-📖 [Read original article](https://www.theblock.co/post/402542/robinhood-clears-final-regulatory-approval-wonderfi-deal?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. Bitget launches RWA platform Reality in tokenization push
-
-**Author:** Timmy Shen  
-**Published:** 5/26/2026, 10:00:00 AM  
-**Categories:** Companies, Crypto Ecosystems, Exchanges, Web3, Tokenization  
-
-Bitget said Reality will initially offer tokenized exposure to selected U.S. stocks and ETFs through its broader trading ecosystem.
-
-📖 [Read original article](https://www.theblock.co/post/402518/bitget-launches-reality-rwa?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. Bitwise debuts Canton Network ETP on Deutsche Börse Xetra
-
-**Author:** Brian Danga  
-**Published:** 5/26/2026, 9:47:56 AM  
-**Categories:** Companies, Finance firms, Funds, Market Updates, Markets, Token Projects, bitwise, Canton Coin, Canton Network, etps, Goldman Sachs, Investment Firms  
-
-Bitwise listed a Canton Network ETP on Deutsche Börse Xetra, backing it with CC tokens held in cold storage.
-
-📖 [Read original article](https://www.theblock.co/post/402538/bitwise-debuts-canton-network-etp-on-deutsche-borse-xetra?utm_source=rss&utm_medium=rss)
 
 ---
