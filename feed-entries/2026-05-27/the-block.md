@@ -2,16 +2,64 @@
 title: "The Block - 2026-05-27"
 date: "2026-05-27"
 source: "The Block"
-count: 13
+count: 17
 ---
 
 # The Block - 2026-05-27
 
-13 items collected.
+17 items collected.
 
 ---
 
-## 1. Bitdeer taps former Corsair Gaming and semiconductor exec Michael Potter as CFO
+## 1. Falcon Finance taps Anchorage to issue new GENIUS-compliant payments stablecoin fUSD
+
+**Author:** Daniel Kuhn  
+**Published:** 5/27/2026, 8:00:11 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Deals, Infrastructure, Policy, Regulation, Stablecoins, U.S. Policymaking, OCC  
+
+Falcon said fUSD is meant to act as a “regulated counterpart” to its existing overcollateralized synthetic stablecoin USDf.
+
+📖 [Read original article](https://www.theblock.co/post/402771/falcon-finance-taps-anchorage-to-issue-new-genius-compliant-payments-stablecoin-fusd?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Kraken expands Earn suite with Bitcoin Vault paying yield on BTC holdings
+
+**Author:** Kyle Baird  
+**Published:** 5/27/2026, 4:19:32 PM  
+**Categories:** Companies, Exchanges, The Block  
+
+Bitcoin Vault routes deposits into DeFi lending protocols, including Aave and Morpho, to generate BTC rewards.
+
+📖 [Read original article](https://www.theblock.co/post/402751/kraken-expands-earn-suite-bitcoin-vault-paying-yield-btc-holdings?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Aztec Labs acquires ZKPassport, pledges to keep privacy protocol and iOS mobile app open-source
+
+**Author:** Daniel Kuhn  
+**Published:** 5/27/2026, 4:00:00 PM  
+**Categories:** Crypto Ecosystems, Deals, Infrastructure, Layer 2s and Scaling, Mergers & Acquisitions, Web3, Decentralized Infrastructure, Developer tools, Identity, Private Company Mergers and Acquisitions, Rollups, zkEVM  
+
+The Obsidion team, including co-founders Michael Elliot and Theo Madzou, will join Aztec Labs to continue developing ZKPassport.
+
+📖 [Read original article](https://www.theblock.co/post/402745/aztec-labs-acquires-zkpassport-keep-privacy-protocol-ios-mobile-app-open-source?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Tokenized Pokémon card marketplaces hit record $7.4 million as hype peaks ahead of 30th anniversary
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 5/27/2026, 3:16:02 PM  
+**Categories:** Crypto Ecosystems, Metaverse & NFT, NFT brands, NFT Collections, Web3, Tokenization  
+
+On-chain Pokémon card revenue has surged 337% as 30th-anniversary mania lifts tokenized markets.
+
+📖 [Read original article](https://www.theblock.co/post/402638/tokenized-pokemon-card-marketplaces-record-7-4-million-hype-peaks-30th-anniversary?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Bitdeer taps former Corsair Gaming and semiconductor exec Michael Potter as CFO
 
 **Author:** Kyle Baird  
 **Published:** 5/27/2026, 2:49:38 PM  
@@ -23,7 +71,7 @@ Bitdeer will retain Jianchun Liu as a principal advisor and said the resignation
 
 ---
 
-## 2. Mastercard secures New York State Bitlicense as it continues to expand crypto services
+## 6. Mastercard secures New York State BitLicense as it continues to expand crypto services
 
 **Author:** Daniel Kuhn  
 **Published:** 5/27/2026, 2:00:39 PM  
@@ -35,7 +83,7 @@ New York has now officially granted three Virtual Currency Business Activity Lic
 
 ---
 
-## 3. Robinhood says AI-powered crypto trading coming after launching agentic stock trading beta
+## 7. Robinhood says AI-powered crypto trading coming after launching agentic stock trading beta
 
 **Author:** RT Watson  
 **Published:** 5/27/2026, 1:59:50 PM  
@@ -47,7 +95,7 @@ The popular retail-focused trading platform is kicking off its agentic trading i
 
 ---
 
-## 4. Circle partners with Nium to connect USDC settlement to global payout rails
+## 8. Circle partners with Nium to connect USDC settlement to global payout rails
 
 **Author:** James Hunt  
 **Published:** 5/27/2026, 1:00:00 PM  
@@ -59,7 +107,7 @@ Circle and Nium have partnered to connect stablecoin settlement with global payo
 
 ---
 
-## 5. Security researchers flag ongoing Stake DAO exploit after attacker mints trillions of vsdCRV
+## 9. Security researchers flag ongoing Stake DAO exploit after attacker mints trillions of vsdCRV
 
 **Author:** James Hunt  
 **Published:** 5/27/2026, 11:29:26 AM  
@@ -71,7 +119,7 @@ The attacker minted 5.4 trillion vsdCRV on Arbitrum and is actively swapping tok
 
 ---
 
-## 6. SoFi rolls out SoFiUSD stablecoin to banking app users
+## 10. SoFi rolls out SoFiUSD stablecoin to banking app users
 
 **Author:** Brian Danga  
 **Published:** 5/27/2026, 11:00:00 AM  
@@ -83,7 +131,7 @@ SoFi rolls out bank-issued SoFiUSD stablecoin to 14.7 million members inside its
 
 ---
 
-## 7. Coinbase taps Standard Chartered to expand multi-currency funding rails for institutional clients
+## 11. Coinbase taps Standard Chartered to expand multi-currency funding rails for institutional clients
 
 **Author:** James Hunt  
 **Published:** 5/27/2026, 10:44:55 AM  
@@ -95,7 +143,7 @@ Coinbase also relaunched Direct Deposit for U.S. customers, allowing users to au
 
 ---
 
-## 8. Singapore charges ex-Hodlnaut CEO over allegedly misleading claims tied to Terra collapse, faces up to 20 years in prison
+## 12. Singapore charges ex-Hodlnaut CEO over allegedly misleading claims tied to Terra collapse, faces up to 20 years in prison
 
 **Author:** Timmy Shen  
 **Published:** 5/27/2026, 10:18:45 AM  
@@ -107,7 +155,7 @@ Authorities alleged that the former CEO distributed claims stating that the comp
 
 ---
 
-## 9. Spot bitcoin ETFs continue outflow streak amid $1.3 billion IBIT whale trade
+## 13. Spot bitcoin ETFs continue outflow streak amid $1.3 billion IBIT whale trade
 
 **Author:** Danny Park  
 **Published:** 5/27/2026, 9:47:26 AM  
@@ -119,7 +167,7 @@ Bitcoin ETFs saw $334 million in net outflows on Tuesday, driven by $192 million
 
 ---
 
-## 10. South Korea arrests suspects behind Solana memecoin CatFi in first rugpull case under new law
+## 14. South Korea arrests suspects behind Solana memecoin CatFi in first rugpull case under new law
 
 **Author:** Danny Park  
 **Published:** 5/27/2026, 8:58:37 AM  
@@ -131,7 +179,7 @@ By using fake social media channels, the suspects allegedly lured thousands into
 
 ---
 
-## 11. China’s top court to study judicial rules for crypto amid rise in related cases
+## 15. China’s top court to study judicial rules for crypto amid rise in related cases
 
 **Author:** Timmy Shen  
 **Published:** 5/27/2026, 7:28:37 AM  
@@ -143,7 +191,7 @@ The judge's remark builds on a February joint notice that broadened the country'
 
 ---
 
-## 12. OpenZeppelin founder says he now considers ‘all of DeFi’ unsafe
+## 16. OpenZeppelin founder says he now considers ‘all of DeFi’ unsafe
 
 **Author:** Danny Park  
 **Published:** 5/27/2026, 5:50:54 AM  
@@ -155,7 +203,7 @@ OpenZeppelin's Manuel Aráoz said he has been privately advising friends and fam
 
 ---
 
-## 13. Pro-crypto Menefee unseats Al Green in Texas Democratic primary runoff, supported by Fairshake
+## 17. Pro-crypto Menefee unseats Al Green in Texas Democratic primary runoff, supported by Fairshake
 
 **Author:** Danny Park  
 **Published:** 5/27/2026, 3:12:20 AM  
