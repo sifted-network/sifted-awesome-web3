@@ -2,12 +2,12 @@
 title: "The Block - 2026-05-26"
 date: "2026-05-26"
 source: "The Block"
-count: 7
+count: 3
 ---
 
 # The Block - 2026-05-26
 
-7 items collected.
+3 items collected.
 
 ---
 
@@ -44,53 +44,5 @@ DeFi outflows have deepened five weeks after the KelpDAO breach exposed new infr
 According to data from earlier this month, about $12.2 trillion in investor assets are benchmarked" to the Russell U.S. indexes.
 
 📖 [Read original article](https://www.theblock.co/post/402627/ethereum-solana-treasury-firms-sharplink-forward-join-russell-indexes?utm_source=rss&utm_medium=rss)
-
----
-
-## 4. TD Cowen says crypto bill unlikely to pass this year amid worsening political environment
-
-**Author:** Yogita Khatri  
-**Published:** 5/26/2026, 6:50:01 PM  
-**Categories:** Companies, Finance firms, Policy, Regulation, The Block, U.S. Policymaking, CFTC, Congress, House Agriculture Committee, House Financial Services Committee, Investment Firms, SEC, Senate Agriculture Committee, Senate Banking Committee, Senate Finance Committee, TradFi banks  
-
-The political environment around the Clarity Act is getting worse, TD Cowen says, making it harder for the crypto bill to pass this year.
-
-📖 [Read original article](https://www.theblock.co/post/402649/td-cowen-crypto-bill-worsening-political-environment-trump?utm_source=rss&utm_medium=rss)
-
----
-
-## 5. Crypto industry defends OCC charters for Ripple, Coinbase and others after Sen. Warren calls them unlawful
-
-**Author:** Sarah Wynn  
-**Published:** 5/26/2026, 6:12:47 PM  
-**Categories:** Legal, Policy, Regulation, U.S. Policymaking, 2024 Elections, Congress, OCC, Senate Banking Committee  
-
-The Digital Chamber rejected accusations from Sen. Warren that crypto firms were "improperly" granted national trust charters.
-
-📖 [Read original article](https://www.theblock.co/post/402639/crypto-industry-defends-occ-charters-for-ripple-coinbase-after-warren-calls-unlawful?utm_source=rss&utm_medium=rss)
-
----
-
-## 6. UK sanctions HTX over support of Russia in broad sweep over crypto exchanges
-
-**Author:** Sarah Wynn  
-**Published:** 5/26/2026, 5:51:40 PM  
-**Categories:** Legal, Policy, Regulation, FCA, Sanctions  
-
-The United Kingdom sanctioned a large crypto exchange, accusing it of "supporting the government of Russia."
-
-📖 [Read original article](https://www.theblock.co/post/402591/uk-sanctions-htx-over-support-of-russia-in-broad-sweep-over-crypto-exchanges?utm_source=rss&utm_medium=rss)
-
----
-
-## 7. Coinbase-incubated Base blockchain rolls out MCP gateway to AI interfaces like Claude, ChatGPT
-
-**Author:** Daniel Kuhn  
-**Published:** 5/26/2026, 5:24:30 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Layer 2s and Scaling, Tech, Web3, AI, Base, Coinbase  
-
-With the integration, users will now be able to use natural language prompts to swap tokens, transfer funds, and interact with Base apps.
-
-📖 [Read original article](https://www.theblock.co/post/402631/coinbase-base-mcp-gateway-ai-interfaces-claude-chatgpt?utm_source=rss&utm_medium=rss)
 
 ---
