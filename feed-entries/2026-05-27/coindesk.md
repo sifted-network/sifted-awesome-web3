@@ -11,7 +11,67 @@ count: 25
 
 ---
 
-## 1. Block kicks off Cash App’s phased stablecoin roll out to its nearly 60 million users
+## 1. Wall Street gets new crypto rival after Texas bank completes regulatory pivot
+
+**Author:** Olivier Acuna  
+**Published:** 5/27/2026, 7:09:12 PM  
+**Categories:** Policy, Cryptocurrency, Federal Reserve, banks, News  
+
+By establishing a national charter under the executive branch, United Texas Bank said it intends to enable AI-driven payment rails to intercept global digital dollar volumes.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/05/27/wall-street-gets-new-crypto-rival-after-texas-bank-completes-regulatory-pivot)
+
+---
+
+## 2. Elon Musk could become a top 5 corporate bitcoin holder if Tesla and SpaceX merge
+
+**Author:** Helene Braun  
+**Published:** 5/27/2026, 6:04:08 PM  
+**Categories:** Markets, Elon Musk, SpaceX, News  
+
+CNBC reported Tuesday that Musk is discussing a merger between Tesla and SpaceX that would tie his tech empire closer together and instantly create the world’s fifth-largest corporate bitcoin treasury, worth $3.3 billion.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/05/27/elon-musk-could-become-a-top-5-corporate-bitcoin-holder-if-tesla-and-spacex-merge)
+
+---
+
+## 3. Crypto Long & Short: How the GENIUS Act repriced bitcoin's monetary premium
+
+**Author:** Ravi Tanuku,Jesper Johansen,Francisco Rodrigues  
+**Published:** 5/27/2026, 4:00:20 PM  
+**Categories:** CoinDesk Indices, Institutional Investors, Institutional Adoption, Staking, Crypto Long & Short, CoinDesk Indices, Newsletters, News  
+
+In this week's Crypto Long & Short, Ravi Tanuku on why the GENIUS Act didn't just regulate stablecoins, it repriced Bitcoin's monetary premium. Then, Jesper Johansen on why looped ETH staking no longer needs a lending market.
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/05/27/crypto-long-and-short-how-the-genius-act-repriced-bitcoin-s-monetary-premium)
+
+---
+
+## 4. BIS project finds tokenization could make cross-border payments faster, safer
+
+**Author:** Krisztian Sandor  
+**Published:** 5/27/2026, 3:45:14 PM  
+**Categories:** Finance, Tokenization, News  
+
+Project Agorá, backed by major central banks, will now move toward "real-value" testing to settle tokenized central bank money and bank deposits on blockchain rails.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/05/27/bis-project-finds-tokenization-could-make-cross-border-payments-faster-safer)
+
+---
+
+## 5. Crypto IPOs could create massive $1 trillion market amid tokenization wave, Jefferies says
+
+**Author:** Helene Braun  
+**Published:** 5/27/2026, 3:35:15 PM  
+**Categories:** Markets, IPOs, Tokenization, News  
+
+The Wall Street investment bank expects a wave of crypto and blockchain public listings over the next two years as institutional investors shift their focus from speculative trading to real-world financial infrastructure.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/05/27/crypto-ipos-could-create-massive-usd1-trillion-market-amid-tokenization-wave-jefferies-says)
+
+---
+
+## 6. Block kicks off Cash App’s phased stablecoin roll out to its nearly 60 million users
 
 **Author:** Olivier Acuna  
 **Published:** 5/27/2026, 2:26:20 PM  
@@ -23,7 +83,7 @@ An individual familiar with the matter told CoinDesk the stablecoin feature was 
 
 ---
 
-## 2. A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets
+## 7. A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets
 
 **Author:** Ji Hun Kim  
 **Published:** 5/27/2026, 2:18:59 PM  
@@ -35,7 +95,7 @@ The Clarity Act’s recent markup proved that the momentum for regulation is the
 
 ---
 
-## 3. Robinhood is letting AI trade for you so you don't have to keep checking the markets
+## 8. Robinhood is letting AI trade for you so you don't have to keep checking the markets
 
 **Author:** Helene Braun  
 **Published:** 5/27/2026, 2:12:16 PM  
@@ -47,7 +107,7 @@ Robinhood is bringing hedge fund-style automation to everyday investors by letti
 
 ---
 
-## 4. DTCC plans to bring tokenized assets to Stellar in latest Wall Street blockchain push
+## 9. DTCC plans to bring tokenized assets to Stellar in latest Wall Street blockchain push
 
 **Author:** Krisztian Sandor  
 **Published:** 5/27/2026, 2:03:59 PM  
@@ -59,7 +119,7 @@ The U.S. market infrastructure giant targets connecting tokenized stocks, ETFs a
 
 ---
 
-## 5. Crypto’s biggest exchanges back push for token disclosure standards as industry courts institutional capital
+## 10. Crypto’s biggest exchanges back push for token disclosure standards as industry courts institutional capital
 
 **Author:** Sam Reynolds  
 **Published:** 5/27/2026, 2:00:00 PM  
@@ -71,7 +131,7 @@ More than 40 crypto firms, including rival exchanges Coinbase and Kraken, are ba
 
 ---
 
-## 6. Banca Sella gets green light to provide crypto services to customers in Italian first
+## 11. Banca Sella gets green light to provide crypto services to customers in Italian first
 
 **Author:** Olivier Acuna  
 **Published:** 5/27/2026, 1:43:55 PM  
@@ -83,7 +143,7 @@ The fintech-forward private bank said it is the first Italian lender to get Bank
 
 ---
 
-## 7. Major crypto exchanges increase transfer scrutiny with HTX over UK sanctions
+## 12. Major crypto exchanges increase transfer scrutiny with HTX over UK sanctions
 
 **Author:** Francisco Rodrigues  
 **Published:** 5/27/2026, 1:37:42 PM  
@@ -95,7 +155,7 @@ The UK sanctioned crypto exchange HTX due to alleged ties to Russian sanctions e
 
 ---
 
-## 8. CoinDesk 20 performance update: Internet Computer (ICP) Jumps 9.8%
+## 13. CoinDesk 20 performance update: Internet Computer (ICP) Jumps 9.8%
 
 **Author:** CoinDesk Indices  
 **Published:** 5/27/2026, 1:20:10 PM  
@@ -107,7 +167,7 @@ Stellar (XLM), up 1.7%, joined Internet Computer (ICP) as a top performer.
 
 ---
 
-## 9. Mastercard secures New York BitLicense to support stablecoin and digital payment infrastructure
+## 14. Mastercard secures New York BitLicense to support stablecoin and digital payment infrastructure
 
 **Author:** Helene Braun  
 **Published:** 5/27/2026, 1:15:00 PM  
@@ -119,7 +179,7 @@ The payments giant said the approval supports its push into stablecoins and bloc
 
 ---
 
-## 10. Solana DEX Orca launches new marketplace for tokenized real-world assets
+## 15. Solana DEX Orca launches new marketplace for tokenized real-world assets
 
 **Author:** Margaux Nijkerk  
 **Published:** 5/27/2026, 1:00:00 PM  
@@ -131,19 +191,19 @@ The launch comes as crypto companies increasingly focus on tokenizing traditiona
 
 ---
 
-## 11. Live markets: Bitcoin remains under pressure as Korea's SK Hynix joins Micron in $1 trillion club
+## 16. Live markets: bitcoin sentiment in 'absolute gutter' as price slips below $75,000
 
-**Author:** Stephen Alpher,James Van Straten  
+**Author:** Stephen Alpher,James Van Straten,Helene Braun,Krisztian Sandor  
 **Published:** 5/27/2026, 12:44:24 PM  
 **Categories:** Markets, Bitcoin News, Live News, live_news  
 
-Memory chip stocks are attracting capital and attention as crypto markets settle into apathy.
+Memory chip stocks are attracting capital and attention, with crypto markets settling into apathy.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/05/27/live-markets-bitcoin-remains-under-pressure-as-korea-s-sk-hynix-joins-micron-in-usd1-trillion-club)
 
 ---
 
-## 12. Bitcoin gauge tracking selling pressure moves into 'high-risk' zone as ETF demand slumps
+## 17. Bitcoin gauge tracking selling pressure moves into 'high-risk' zone as ETF demand slumps
 
 **Author:** Shaurya Malwa  
 **Published:** 5/27/2026, 12:25:15 PM  
@@ -155,7 +215,7 @@ U.S. spot bitcoin ETFs have accumulated a net 4,500 BTC since the start of 2026,
 
 ---
 
-## 13. Kraken unveils Bitcoin Vault, expanding yield push for BTC holders
+## 18. Kraken unveils Bitcoin Vault, expanding yield push for BTC holders
 
 **Author:** Will Canny  
 **Published:** 5/27/2026, 12:00:00 PM  
@@ -167,7 +227,7 @@ The new earn product lets users generate BTC-denominated rewards through DeFi st
 
 ---
 
-## 14. Singapore charges former Hodlnaut CEO Zhu Juntao over Terra collapse claims
+## 19. Singapore charges former Hodlnaut CEO Zhu Juntao over Terra collapse claims
 
 **Author:** Francisco Rodrigues  
 **Published:** 5/27/2026, 11:51:19 AM  
@@ -179,7 +239,7 @@ Zhu allegedly directed staff to publish false claims that Hodlnaut had no direct
 
 ---
 
-## 15. Crypto participants once again prefer dollars over bitcoin. USDT, USDC dominance rises.
+## 20. Crypto participants once again prefer dollars over bitcoin. USDT, USDC dominance rises.
 
 **Author:** Omkar Godbole  
 **Published:** 5/27/2026, 11:34:41 AM  
@@ -191,7 +251,7 @@ Your day-ahead look for May 27, 2026
 
 ---
 
-## 16. SoFi brings bank-issued stablecoin to 15 million users in crypto push
+## 21. SoFi brings bank-issued stablecoin to 15 million users in crypto push
 
 **Author:** Helene Braun  
 **Published:** 5/27/2026, 11:00:00 AM  
@@ -203,7 +263,7 @@ The fintech platform says its dollar-backed stablecoin will let members trade, t
 
 ---
 
-## 17. Bitcoin clings to $75,000 support as bear market signals resurface
+## 22. Bitcoin clings to $75,000 support as bear market signals resurface
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 5/27/2026, 10:54:27 AM  
@@ -215,7 +275,7 @@ Bitcoin hovered below Tom Lee's $76,000 bull-market threshold while hyperliquid 
 
 ---
 
-## 18. Crypto exchange HTX rejects U.K. sanction allegations, says it refused ruble stablecoin listing
+## 23. Crypto exchange HTX rejects U.K. sanction allegations, says it refused ruble stablecoin listing
 
 **Author:** Sam Reynolds  
 **Published:** 5/27/2026, 9:58:06 AM  
@@ -227,7 +287,7 @@ U.K. authorities sanctioned HTX, saying there were "reasonable grounds to suspec
 
 ---
 
-## 19. IREN shares jumps on $1.6 billion Dell deal to expand AI cloud business
+## 24. IREN shares jumps on $1.6 billion Dell deal to expand AI cloud business
 
 **Author:** James Van Straten  
 **Published:** 5/27/2026, 9:47:54 AM  
@@ -239,7 +299,7 @@ The Dell agreement will support IREN’s expanding AI cloud business and boost p
 
 ---
 
-## 20. Bitcoin drops to 13th largest asset as capital flees to AI and precious metals
+## 25. Bitcoin drops to 13th largest asset as capital flees to AI and precious metals
 
 **Author:** James Van Straten  
 **Published:** 5/27/2026, 9:12:33 AM  
@@ -248,65 +308,5 @@ The Dell agreement will support IREN’s expanding AI cloud business and boost p
 Bitcoin’s weak 2026 performance has coincided with sharp gains in metals and semiconductor giants, raising concerns that the cryptocurrency could continue losing ground.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/05/27/bitcoin-slips-to-13th-largest-asset-as-ai-semiconductor-booms-accelerate)
-
----
-
-## 21. DeFi isn't safe anymore because AI is becoming 'superhuman' at hacking, security chief warns
-
-**Author:** Sam Reynolds  
-**Published:** 5/27/2026, 8:51:27 AM  
-**Categories:** Tech, DeFi, Artificial Intelligence, News  
-
-As hacks pile up and DeFi TVL falls fast, one of crypto's top security executives says AI coding agents have made smart contracts fatally vulnerable.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/05/27/openzeppelin-ceo-says-ai-makes-defi-unsafe-as-over-usd1-billion-hacked-from-defi-in-last-year)
-
----
-
-## 22. Whale alert: Someone dumped $1.29 billion of BlackRock's bitcoin ETF in a dark pool trade
-
-**Author:** Omkar Godbole  
-**Published:** 5/27/2026, 8:40:44 AM  
-**Categories:** Markets, Bitcoin News, BlackRock, ETFs, News  
-
-The big sale happened amid a broader continued exodus from U.S.-listed spot bitcoin ETFs.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/27/whale-alert-someone-dumped-usd1-29-billion-of-blackrock-s-bitcoin-etf-in-a-dark-pool-trade)
-
----
-
-## 23. Crypto PACs spend $9 million in Texas and score wins in both parties
-
-**Author:** Sam Reynolds  
-**Published:** 5/27/2026, 6:12:49 AM  
-**Categories:** Policy, Regulation, News  
-
-Industry-backed PACs supported Democratic and Republican candidates alike, underscoring digital assets’ growing role as a cross-party electoral force.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/05/27/crypto-pacs-spend-usd9-million-in-texas-and-score-wins-in-both-parties)
-
----
-
-## 24. Bitcoin vs gold: BTC's three-month uptrend has snapped
-
-**Author:** Omkar Godbole  
-**Published:** 5/27/2026, 5:45:01 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-BTC's three-month uptrend against gold has broken down amid strong inflows into gold and precious metals ETFs.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/27/bitcoin-vs-gold-btc-s-three-month-uptrend-has-snapped)
-
----
-
-## 25. XRP steadies near $1.32 as failed breakout keeps focus on narrowing trading range
-
-**Author:** Shaurya Malwa  
-**Published:** 5/27/2026, 5:01:42 AM  
-**Categories:** Markets, News  
-
-XRP stayed trapped inside the same consolidation structure after another rejection near $1.36, with traders watching whether months of compression finally resolve into a larger move.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/27/xrp-steadies-near-usd1-32-as-failed-breakout-keeps-focus-on-narrowing-trading-range)
 
 ---
