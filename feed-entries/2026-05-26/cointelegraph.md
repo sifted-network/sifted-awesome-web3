@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-05-26"
 date: "2026-05-26"
 source: "Cointelegraph"
-count: 29
+count: 30
 ---
 
 # Cointelegraph - 2026-05-26
 
-29 items collected.
+30 items collected.
 
 ---
 
-## 1. UK authorities sanction HTX crypto exchange over support for Russia
+## 1. Bitcoin drops after $78K pop, but ‘value investor’ keeps ‘hoovering up cheap’ BTC
+
+**Author:** Cointelegraph by Antonio Oliveira  
+**Published:** 5/26/2026, 11:57:49 PM  
+**Categories:** Markets  
+
+Bitcoin’s rangebound trading carries on as bears defend $77,000 and bulls hold out near $74,000.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-drops-after-78k-pop-but-value-investor-keeps-hoovering-up-cheap-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. HYPE chases new highs as ETF inflows, institutional adoption accelerate
+
+**Author:** Cointelegraph by Biraajmaan Tamuly  
+**Published:** 5/26/2026, 11:01:43 PM  
+**Categories:** Markets  
+
+HYPE reached new highs above $65 following record ETF inflows, futures participation and trading volumes at Hyperliquid exchange. Is $100 next?
+
+📖 [Read original article](https://cointelegraph.com/markets/hype-price-discovery-next-key-price-levels-to-watch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Crypto advocacy group challenges Senator Warren's claims on OCC charters
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 5/26/2026, 10:21:00 PM  
+**Categories:** Latest News  
+
+After Massachusetts Senator Elizabeth Warren's claimed that the Comptroller may have violated US banking laws by approving crypto companies’ charters, The Digital Chamber urged the regulator to defend the applications.
+
+📖 [Read original article](https://cointelegraph.com/news/digital-chamber-senator-warren-crypto-companies-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bitcoin mining stocks jump as AI infrastructure boom boosts sector outlook
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 5/26/2026, 10:07:21 PM  
+**Categories:** Latest News  
+
+Wall Street’s semiconductor-driven surge is fueling fresh momentum for crypto miners betting their power-heavy infrastructure can support the AI boom.
+
+📖 [Read original article](https://cointelegraph.com/news/bitcoin-mining-stocks-jump-as-ai-infrastructure-boom-boosts-sector-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. UK authorities sanction HTX crypto exchange over support for Russia
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 5/26/2026, 6:41:07 PM  
@@ -23,7 +71,7 @@ Formerly Huobi Global, the exchange is the latest entity to be named as part of 
 
 ---
 
-## 2. TeraWulf acquires Kentucky AI data center site with planned 1 GW capacity
+## 6. TeraWulf acquires Kentucky AI data center site with planned 1 GW capacity
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 5/26/2026, 6:01:53 PM  
@@ -35,7 +83,7 @@ WULF shares surged on Tuesday after the Bitcoin miner announced its latest move 
 
 ---
 
-## 3. Spanish authorities block Polymarket and Kalshi over gambling laws
+## 7. Spanish authorities block Polymarket and Kalshi over gambling laws
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 5/26/2026, 5:02:00 PM  
@@ -47,7 +95,7 @@ Spain joined a growing list of national authorities restricting or banning predi
 
 ---
 
-## 4. Bitcoin 'liquidation hunts' control BTC at $77K amid new Iran peace deal doubts
+## 8. Bitcoin 'liquidation hunts' control BTC at $77K amid new Iran peace deal doubts
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 5/26/2026, 4:57:58 PM  
@@ -59,7 +107,7 @@ Bitcoin failed to copy US stocks' upside after a spike to $78,000 became one of 
 
 ---
 
-## 5. NEAR token price has 'potential to grow 20x,' says Arthur Hayes
+## 9. NEAR token price has 'potential to grow 20x,' says Arthur Hayes
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 5/26/2026, 4:42:10 PM  
@@ -71,10 +119,10 @@ NEAR is mirroring a 2023–2024 fractal that preceded a 250% rally, hinting at s
 
 ---
 
-## 6. Here’s what happened in crypto today
+## 10. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
-**Published:** 5/26/2026, 3:39:04 PM  
+**Published:** 5/26/2026, 3:35:00 PM  
 **Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
 
 Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
@@ -83,7 +131,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 7. AI guardrail removals raise questions over limits of open-source model regulation
+## 11. AI guardrail removals raise questions over limits of open-source model regulation
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/26/2026, 3:25:18 PM  
@@ -95,7 +143,7 @@ Financial Times testing found safety controls on open AI models from Meta and Go
 
 ---
 
-## 8. Strategy buys back $1.5B of debt at discount, cuts outstanding notes to $6.7B
+## 12. Strategy buys back $1.5B of debt at discount, cuts outstanding notes to $6.7B
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/26/2026, 3:11:32 PM  
@@ -107,7 +155,7 @@ Strategy reduced aggregate convertible notes outstanding to $6.7 billion after r
 
 ---
 
-## 9. Grvt adds 3 tokenized yield funds tied to institutional-grade RWAs
+## 13. Grvt adds 3 tokenized yield funds tied to institutional-grade RWAs
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 5/26/2026, 3:00:00 PM  
@@ -119,7 +167,7 @@ Grvt will work with Plume to launch tokenized fixed-income and structured credit
 
 ---
 
-## 10. RWA market hits $51B as tokenized private credits surges: Bernstein
+## 14. RWA market hits $51B as tokenized private credits surges: Bernstein
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 5/26/2026, 2:50:43 PM  
@@ -131,7 +179,7 @@ Bernstein Research data shows the RWA market at $51 billion, with tokenized priv
 
 ---
 
-## 11. Bitcoin’s big cup-and-handle pattern targets ‘minimum’ $220K BTC price
+## 15. Bitcoin’s big cup-and-handle pattern targets ‘minimum’ $220K BTC price
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/26/2026, 2:03:29 PM  
@@ -143,7 +191,7 @@ Bitcoin cup-and-handle chart breakout targets $220,000, but BTC price must first
 
 ---
 
-## 12. Ethereum treasury firms lean on staking as ETF pressure builds: Report
+## 16. Ethereum treasury firms lean on staking as ETF pressure builds: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 5/26/2026, 2:00:00 PM  
@@ -155,7 +203,7 @@ Everstake said staking made up 60% of disclosed revenue among six Ethereum treas
 
 ---
 
-## 13. Bitcoin treasury firms add 603 BTC as Strategy pauses buying
+## 17. Bitcoin treasury firms add 603 BTC as Strategy pauses buying
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/26/2026, 12:24:45 PM  
@@ -167,7 +215,7 @@ Smaller Bitcoin treasury companies bought about $46 million worth of Bitcoin bel
 
 ---
 
-## 14. Binance eyes Philippines return through SEC sandbox partnership
+## 18. Binance eyes Philippines return through SEC sandbox partnership
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 5/26/2026, 12:07:03 PM  
@@ -179,7 +227,7 @@ Binance remains blocked in the Philippines after a 2024 NTC directive tied to SE
 
 ---
 
-## 15. Ex-Hodlnaut CEO charged with fraud over Terra exposure claims
+## 19. Ex-Hodlnaut CEO charged with fraud over Terra exposure claims
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/26/2026, 11:19:03 AM  
@@ -191,7 +239,7 @@ Singapore police charge ex-Hodlnaut CEO Zhu Juntao with six counts of fraud by f
 
 ---
 
-## 16. Crypto funds bleed $1.47B as risk-off sentiment deepens
+## 20. Crypto funds bleed $1.47B as risk-off sentiment deepens
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 5/26/2026, 11:01:46 AM  
@@ -203,7 +251,7 @@ Crypto ETPs logged $1.47 billion of outflows last week as Bitcoin funds led loss
 
 ---
 
-## 17. Ethereum price chart targets $1.8K as total value locked hits 13-month lows
+## 21. Ethereum price chart targets $1.8K as total value locked hits 13-month lows
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/26/2026, 10:33:45 AM  
@@ -215,7 +263,7 @@ Ether price eyes a 14% drop to $1,800 as it trades in a classic bearish pattern 
 
 ---
 
-## 18. Luffa secures strategic investment from GoFintech Quantum at US$220 million valuation, pioneering AI + fintech frontier
+## 22. Luffa secures strategic investment from GoFintech Quantum at US$220 million valuation, pioneering AI + fintech frontier
 
 **Author:** Cointelegraph by Advertorial  
 **Published:** 5/26/2026, 10:30:00 AM  
@@ -227,7 +275,7 @@ Luffa AI, a leading innovator at the intersection of Web3 and Artificial Intelli
 
 ---
 
-## 19. Hyperliquid launches prediction markets for real-world events
+## 23. Hyperliquid launches prediction markets for real-world events
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/26/2026, 10:26:00 AM  
@@ -239,7 +287,7 @@ Hyperliquid launched canonical prediction markets for offchain events, expanding
 
 ---
 
-## 20. AI agents must be treated as untrusted systems: Researchers
+## 24. AI agents must be treated as untrusted systems: Researchers
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 5/26/2026, 7:11:26 AM  
@@ -251,7 +299,19 @@ AI agents are becoming increasingly popular among crypto users, with Circle CEO 
 
 ---
 
-## 21. Liquid launches ChatGPT and Claude trading app with live market execution
+## 25. Strive adds 1,109 Bitcoin as digital credit products gain traction
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 5/26/2026, 7:00:00 AM  
+**Categories:** Latest News  
+
+The company increased its holdings to 16,500 BTC as Bitcoin-linked preferred securities such as SATA and Strategy’s STRC gain traction in emerging “digital credit” markets.
+
+📖 [Read original article](https://cointelegraph.com/news/strive-adds-1109-bitcoin-as-digital-credit-products-gain-traction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 26. Liquid launches ChatGPT and Claude trading app with live market execution
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 5/26/2026, 7:00:00 AM  
@@ -263,7 +323,7 @@ Co-Invest lets users fund accounts, analyze positions and execute trades across 
 
 ---
 
-## 22. Scammers make $400K through fake Uniswap ads on Google
+## 27. Scammers make $400K through fake Uniswap ads on Google
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/26/2026, 6:41:30 AM  
@@ -275,7 +335,7 @@ A blockchain analyst has warned that malicious phishing advertisements impersona
 
 ---
 
-## 23. Bitmine’s Tom Lee hints at stock tailwinds after firm considered for Russell 3000
+## 28. Bitmine’s Tom Lee hints at stock tailwinds after firm considered for Russell 3000
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 5/26/2026, 5:48:52 AM  
@@ -287,7 +347,7 @@ Bitmine's Tom Lee says the firm could be considered for the Russell 1000, and it
 
 ---
 
-## 24. Bitcoin in ‘high-risk zone’ as ETF outflows signal institutional exit: Swissblock
+## 29. Bitcoin in ‘high-risk zone’ as ETF outflows signal institutional exit: Swissblock
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/26/2026, 5:11:04 AM  
@@ -299,7 +359,7 @@ This steady drip of ETF outflow continues to add to the supply side without a vi
 
 ---
 
-## 25. Ondo Finance founder Nathan Allman dies aged 32
+## 30. Ondo Finance founder Nathan Allman dies aged 32
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 5/26/2026, 4:45:04 AM  
@@ -308,53 +368,5 @@ This steady drip of ETF outflow continues to add to the supply side without a vi
 Ondo Finance says its founder, Nathan Allman, died unexpectedly, with company president Ian De Bode to serve as CEO.
 
 📖 [Read original article](https://cointelegraph.com/news/ondo-finance-founder-nathan-allman-passes-away-aged-32?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 26. Kelp DAO says rsETH restored 5 weeks after $293M protocol hack
-
-**Author:** Cointelegraph by Brayden Lindrea  
-**Published:** 5/26/2026, 3:14:03 AM  
-**Categories:** Latest News  
-
-Kelp DAO says that sETH mints, redemptions and rewards operations have been running smoothly since it opened withdrawals for the token earlier this month.
-
-📖 [Read original article](https://cointelegraph.com/news/kelpdao-says-rseth-restored-5-weeks-after-protocol-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 27. Bitcoin volatility falls to 8-month low: Is a BTC breakout imminent?
-
-**Author:** Cointelegraph by Marcel Pechman  
-**Published:** 5/26/2026, 2:59:45 AM  
-**Categories:** Markets  
-
-Bitcoin’s 8-month low volatility can’t predict BTC’s price prediction but derivatives data does suggest that a rally to $82,000 would cause a large short squeeze.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-volatility-falls-to-8-month-low-is-a-btc-breakout-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 28. Bitcoin holds $77K as stocks rally, global tensions cool: Are BTC bulls back?
-
-**Author:** Cointelegraph by Marcel Pechman  
-**Published:** 5/26/2026, 1:31:39 AM  
-**Categories:** Markets  
-
-Data suggests that Bitcoin may be gearing up for a rally to $82,000. Will bulls seize the opportunity?
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-holds-77k-as-stocks-rally-global-tensions-cool-are-btc-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 29. Bitcoin chases range highs despite rising BTC exchange inflows: Is $80K next?
-
-**Author:** Cointelegraph by Biraajmaan Tamuly  
-**Published:** 5/26/2026, 12:10:24 AM  
-**Categories:** Markets  
-
-Bitcoin reclaimed $77,000 despite rising exchange supply and spot BTC ETF outflows. Will bulls push BTC to $80,000 this week?
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-retests-77k-despite-mounting-btc-supply-is-80k-possible-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
