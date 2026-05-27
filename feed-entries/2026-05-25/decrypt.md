@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-05-25"
 date: "2026-05-25"
 source: "Decrypt"
-count: 6
+count: 4
 ---
 
 # Decrypt - 2026-05-25
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ Tether plans to issue a stablecoin in Georgia with support from the country’s 
 Bumblebee scans developer machines for compromised packages and AI tool configs. Its core trick: It never actually runs the code it's looking for.
 
 📖 [Read original article](https://decrypt.co/368944/perplexity-open-source-bumblebee-ai-scanner-mcp-infection-malware)
-
----
-
-## 5. Vitalik Buterin Signals Shift to 'Smaller Ship' at Ethereum Foundation Amid Departures
-
-**Author:** André Beganski  
-**Published:** 5/25/2026, 4:01:05 PM  
-**Categories:** , Coins  
-
-Buterin revealed that 90% of his net worth is tied up in Ethereum.
-
-📖 [Read original article](https://decrypt.co/368934/vitalik-buterin-smaller-ship-ethereum-foundation-departures)
-
----
-
-## 6. Pope Leo Releases First AI Encyclical, Calls Data a Common Good and Rejects Moral Neutrality of Tech
-
-**Author:** Jose Antonio Lanz  
-**Published:** 5/25/2026, 3:02:22 PM  
-**Categories:** Artificial Intelligence  
-
-The 245-paragraph document was presented alongside Anthropic co-founder Christopher Olah, whose company is actively suing the Trump administration over military AI use.
-
-📖 [Read original article](https://decrypt.co/368933/pope-leo-xiv-ai-encyclical-2026)
 
 ---
