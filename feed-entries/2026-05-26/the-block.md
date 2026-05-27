@@ -2,12 +2,12 @@
 title: "The Block - 2026-05-26"
 date: "2026-05-26"
 source: "The Block"
-count: 15
+count: 7
 ---
 
 # The Block - 2026-05-26
 
-15 items collected.
+7 items collected.
 
 ---
 
@@ -92,101 +92,5 @@ The United Kingdom sanctioned a large crypto exchange, accusing it of "supportin
 With the integration, users will now be able to use natural language prompts to swap tokens, transfer funds, and interact with Base apps.
 
 📖 [Read original article](https://www.theblock.co/post/402631/coinbase-base-mcp-gateway-ai-interfaces-claude-chatgpt?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. Solana privacy layer Umbra launches confidential vesting with Streamflow targeting $97B token unlock market
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 5/26/2026, 4:05:02 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Markets, Token Projects, Airdrop, airdrops, Assets, exclusive, Solana, streamflow, Tokens, umbra  
-
-Umbra and Streamflow launch private token vesting on Solana, letting projects distribute tokens confidentially at scale.
-
-📖 [Read original article](https://www.theblock.co/post/402549/solana-privacy-layer-umbra-launches-confidential-vesting-with-streamflow-targeting-97b-token-unlock-market?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. Spain blocks Polymarket, Kalshi for operating without licenses amid widening global crackdown on prediction markets
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 5/26/2026, 3:40:06 PM  
-**Categories:** Companies, International Policymaking, Policy, Kalshi, polymarket, prediction-markets, spain  
-
-Spain blocked Polymarket and Kalshi on May 26, the latest in a growing wave of international crackdowns on prediction markets.
-
-📖 [Read original article](https://www.theblock.co/post/402620/spain-blocks-polymarket-kalshi-for-operating-without-licenses-amid-widening-global-crackdown-on-prediction-markets?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. TeraWulf stock jumps over 12% on news of Kentucky data center site acquisition
-
-**Author:** Daniel Kuhn  
-**Published:** 5/26/2026, 3:35:52 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Deals, Equities, Markets, Public Equities, Web3, AI, Mining Companies, terawulf  
-
-TeraWulf's $21 million in revenue from its HPC business overtook its bitcoin mining segment for the first time in Q1 2026.
-
-📖 [Read original article](https://www.theblock.co/post/402616/terawulf-stock-jumps-12-news-kentucky-data-center-site-acquisition?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Strive leapfrogs Coinbase, Riot with latest $85.4 million bitcoin buy
-
-**Author:** Kyle Baird  
-**Published:** 5/26/2026, 2:58:12 PM  
-**Categories:** Companies, Markets, Public Equities, The Block, bitcoin treasury company, strive  
-
-Vivek Ramaswamy-founded Strive now ranks as the seventh-largest public corporate bitcoin holder, trailing Bullish.
-
-📖 [Read original article](https://www.theblock.co/post/402567/strive-leapfrogs-coinbase-riot-85-4-million-bitcoin-buy?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Tether-focused chain Stable launches USDT institutional yield product
-
-**Author:** RT Watson  
-**Published:** 5/26/2026, 2:42:25 PM  
-**Categories:** Crypto Ecosystems, Stablecoins, Tether  
-
-The USDT-dedicated Layer 1 Stable's new product lets holders earn yield tied to traditional assets like Treasurys and gold.
-
-📖 [Read original article](https://www.theblock.co/post/402582/tether-focused-chain-stable-launches-usdt-institutional-yield-product?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Bitmine capitalizes on Ethereum price drop, buys over 100,000 ETH as 5% supply goal nears
-
-**Author:** RT Watson  
-**Published:** 5/26/2026, 1:44:29 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, Ethereum  
-
-"We view the recent pullback of ETH to below $2,200 as an attractive opportunity," Bitmine Chairman Tom Lee said.
-
-📖 [Read original article](https://www.theblock.co/post/402566/bitmine-capitalizes-on-ethereum-price-drop-buys-over-100000-eth-as-5-supply-goal-nears?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. Hong Kong advances virtual asset advisory and management rulemaking
-
-**Author:** Brian Danga  
-**Published:** 5/26/2026, 1:22:02 PM  
-**Categories:** International Policymaking, Lobbying, Policy, hong kong crypto, hong kong sfc  
-
-Hong Kong moves to license crypto advisers and managers under anti-money laundering rules, with a 2026 legislative target.
-
-📖 [Read original article](https://www.theblock.co/post/402563/hong-kong-advances-virtual-asset-advisory-and-management-rulemaking?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Liquid launches Co-Invest app, bringing AI-powered live trade execution into ChatGPT and Claude
-
-**Author:** Zack Abrams  
-**Published:** 5/26/2026, 1:00:00 PM  
-**Categories:** Crypto Ecosystems, DeFi, franklyn-wang, liquid  
-
-Co-Invest supports crypto, equities, FX, Polymarket positions and pre-IPO secondaries across over 500 markets, according to Liquid.
-
-📖 [Read original article](https://www.theblock.co/post/402496/liquid-launches-co-invest?utm_source=rss&utm_medium=rss)
 
 ---
