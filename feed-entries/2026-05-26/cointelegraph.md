@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-26"
 date: "2026-05-26"
 source: "Cointelegraph"
-count: 30
+count: 24
 ---
 
 # Cointelegraph - 2026-05-26
 
-30 items collected.
+24 items collected.
 
 ---
 
@@ -41,7 +41,7 @@ HYPE reached new highs above $65 following record ETF inflows, futures participa
 **Published:** 5/26/2026, 10:21:00 PM  
 **Categories:** Latest News  
 
-After Massachusetts Senator Elizabeth Warren's claimed that the Comptroller may have violated US banking laws by approving crypto companies’ charters, The Digital Chamber urged the regulator to defend the applications.
+After Massachusetts Senator Elizabeth Warren's claimed that the comptroller may have violated US banking laws by approving crypto companies’ charters, The Digital Chamber urged the regulator to defend the applications.
 
 📖 [Read original article](https://cointelegraph.com/news/digital-chamber-senator-warren-crypto-companies-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
@@ -296,77 +296,5 @@ Hyperliquid launched canonical prediction markets for offchain events, expanding
 AI agents are becoming increasingly popular among crypto users, with Circle CEO Jeremy Allaire predicting that billions of AI agents will be operating within five years.
 
 📖 [Read original article](https://cointelegraph.com/news/google-meta-researchers-ai-agents-untrusted-system-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. Strive adds 1,109 Bitcoin as digital credit products gain traction
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 5/26/2026, 7:00:00 AM  
-**Categories:** Latest News  
-
-The company increased its holdings to 16,500 BTC as Bitcoin-linked preferred securities such as SATA and Strategy’s STRC gain traction in emerging “digital credit” markets.
-
-📖 [Read original article](https://cointelegraph.com/news/strive-adds-1109-bitcoin-as-digital-credit-products-gain-traction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 26. Liquid launches ChatGPT and Claude trading app with live market execution
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 5/26/2026, 7:00:00 AM  
-**Categories:** Latest News  
-
-Co-Invest lets users fund accounts, analyze positions and execute trades across more than 500 markets without leaving AI chat interfaces.
-
-📖 [Read original article](https://cointelegraph.com/news/liquid-launches-chatgpt-and-claude-trading-app-with-live-market-execution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 27. Scammers make $400K through fake Uniswap ads on Google
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 5/26/2026, 6:41:30 AM  
-**Categories:** Latest News  
-
-A blockchain analyst has warned that malicious phishing advertisements impersonating Uniswap have appeared on Google Search, which has netted attackers at least $400,000.
-
-📖 [Read original article](https://cointelegraph.com/news/scammers-make-400k-through-fake-uniswap-ads-on-google?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 28. Bitmine’s Tom Lee hints at stock tailwinds after firm considered for Russell 3000
-
-**Author:** Cointelegraph by Stephen Katte  
-**Published:** 5/26/2026, 5:48:52 AM  
-**Categories:** Latest News  
-
-Bitmine's Tom Lee says the firm could be considered for the Russell 1000, and its stock may get a boost from active and passive fund managers.
-
-📖 [Read original article](https://cointelegraph.com/news/bitmine-russell-1000-inclusion-tom-lee-etf-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 29. Bitcoin in ‘high-risk zone’ as ETF outflows signal institutional exit: Swissblock
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 5/26/2026, 5:11:04 AM  
-**Categories:** Latest News  
-
-This steady drip of ETF outflow continues to add to the supply side without a visible demand offset, said Glassnode.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-slides-into-high-risk-zone-as-etf-outflows-signal-institutional-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 30. Ondo Finance founder Nathan Allman dies aged 32
-
-**Author:** Cointelegraph by Brayden Lindrea  
-**Published:** 5/26/2026, 4:45:04 AM  
-**Categories:** Latest News  
-
-Ondo Finance says its founder, Nathan Allman, died unexpectedly, with company president Ian De Bode to serve as CEO.
-
-📖 [Read original article](https://cointelegraph.com/news/ondo-finance-founder-nathan-allman-passes-away-aged-32?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
