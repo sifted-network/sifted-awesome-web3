@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-26"
 date: "2026-05-26"
 source: "Cointelegraph"
-count: 24
+count: 17
 ---
 
 # Cointelegraph - 2026-05-26
 
-24 items collected.
+17 items collected.
 
 ---
 
@@ -212,89 +212,5 @@ Everstake said staking made up 60% of disclosed revenue among six Ethereum treas
 Smaller Bitcoin treasury companies bought about $46 million worth of Bitcoin below $80,000 last week as the largest corporate holder paused its weekly buys.
 
 📖 [Read original article](https://cointelegraph.com/news/bitcoin-treasuries-add-603-btc-strategy-bitmine-pause-investments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Binance eyes Philippines return through SEC sandbox partnership
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 5/26/2026, 12:07:03 PM  
-**Categories:** Latest News  
-
-Binance remains blocked in the Philippines after a 2024 NTC directive tied to SEC concerns over licensing and registration.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-philippines-return-sec-sandbox-blockshoals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Ex-Hodlnaut CEO charged with fraud over Terra exposure claims
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 5/26/2026, 11:19:03 AM  
-**Categories:** Latest News  
-
-Singapore police charge ex-Hodlnaut CEO Zhu Juntao with six counts of fraud by false representation over allegedly misleading statements on the company’s exposure to the Terra/UST crash.
-
-📖 [Read original article](https://cointelegraph.com/news/hodlnaut-ceo-charged-with-fraud-over-misleading-statements-on-terra-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Crypto funds bleed $1.47B as risk-off sentiment deepens
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 5/26/2026, 11:01:46 AM  
-**Categories:** Latest News  
-
-Crypto ETPs logged $1.47 billion of outflows last week as Bitcoin funds led losses, while nine altcoin ETPs still attracted inflows of more than $1 million.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-etps-147-billion-outflows-risk-off-broadens-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Ethereum price chart targets $1.8K as total value locked hits 13-month lows
-
-**Author:** Cointelegraph by Nancy Lubale  
-**Published:** 5/26/2026, 10:33:45 AM  
-**Categories:** Markets  
-
-Ether price eyes a 14% drop to $1,800 as it trades in a classic bearish pattern amid declining total value locked on the Ethereum network.
-
-📖 [Read original article](https://cointelegraph.com/markets/ethereum-price-chart-targets-18k-as-total-value-locked-hits-13-month-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Luffa secures strategic investment from GoFintech Quantum at US$220 million valuation, pioneering AI + fintech frontier
-
-**Author:** Cointelegraph by Advertorial  
-**Published:** 5/26/2026, 10:30:00 AM  
-**Categories:** Press Releases  
-
-Luffa AI, a leading innovator at the intersection of Web3 and Artificial Intelligence, today announced a strategic equity investment from Hong Kong-listed GoFintech Quantum Innovation Limited (“GoFintech Quantum”, Stock Code: 00290.HK).
-
-📖 [Read original article](https://cointelegraph.com/press-releases/luffa-secures-strategic-investment-from-gofintech-quantum-at-us220-million-valuation-pioneering-ai-fintech-frontier?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. Hyperliquid launches prediction markets for real-world events
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 5/26/2026, 10:26:00 AM  
-**Categories:** Latest News  
-
-Hyperliquid launched canonical prediction markets for offchain events, expanding beyond perps as analysts frame it as an onchain superapp.
-
-📖 [Read original article](https://cointelegraph.com/news/hyperliquid-launches-prediction-markets-offchain-events?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 24. AI agents must be treated as untrusted systems: Researchers
-
-**Author:** Cointelegraph by Stephen Katte  
-**Published:** 5/26/2026, 7:11:26 AM  
-**Categories:** Latest News  
-
-AI agents are becoming increasingly popular among crypto users, with Circle CEO Jeremy Allaire predicting that billions of AI agents will be operating within five years.
-
-📖 [Read original article](https://cointelegraph.com/news/google-meta-researchers-ai-agents-untrusted-system-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
