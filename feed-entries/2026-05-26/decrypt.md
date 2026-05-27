@@ -2,16 +2,64 @@
 title: "Decrypt - 2026-05-26"
 date: "2026-05-26"
 source: "Decrypt"
-count: 15
+count: 19
 ---
 
 # Decrypt - 2026-05-26
 
-15 items collected.
+19 items collected.
 
 ---
 
-## 1. Grand Theft Data: Threat Actors Weaponizing GTA 6 Hype, NordVPN Warns
+## 1. Some Non-Enhanced Athletes Beat Their Juiced Rivals at the 'Steroid Olympics'
+
+**Author:** Jason Nelson  
+**Published:** 5/26/2026, 9:53:25 PM  
+**Categories:** Health  
+
+The inaugural games produced a record-breaking swim, but several non-enhanced athletes still beat the enhanced competitors.
+
+📖 [Read original article](https://decrypt.co/369121/non-enhanced-athletes-beat-juiced-rivals-steroid-olympics)
+
+---
+
+## 2. Someone Just Destroyed $8.2 Million in Bitcoin—Why?
+
+**Author:** André Beganski  
+**Published:** 5/26/2026, 9:19:34 PM  
+**Categories:** , Coins  
+
+Five unknown addresses removed 107 Bitcoin worth $8.2 million from circulation today, sparking intrigue on social media.
+
+📖 [Read original article](https://decrypt.co/369099/someone-burned-8-million-bitcoin-destroyed-why)
+
+---
+
+## 3. This Half-Gigabyte AI Model Runs Local Agents on Your Phone
+
+**Author:** Jose Antonio Lanz  
+**Published:** 5/26/2026, 8:59:20 PM  
+**Categories:** Artificial Intelligence  
+
+OpenBMB's 1B-parameter model brings MCP support and agentic tool use to on-device AI—but it has trouble with logic traps.
+
+📖 [Read original article](https://decrypt.co/369068/openbmb-minicpm5-half-gigabyte-ai-model-local-agents-phone)
+
+---
+
+## 4. Ethereum Firm Sharplink, Solana Treasury Forward Industries Joining Russell 2000, 3000 Indexes
+
+**Author:** Logan Hitchcock  
+**Published:** 5/26/2026, 8:40:44 PM  
+**Categories:** , , Markets  
+
+Crypto treasury firms Sharplink and Forward Industries will both be included in the Russell 2000 and 3000 indexes at the end of June.
+
+📖 [Read original article](https://decrypt.co/369095/ethereum-sharplink-solana-forward-industries-russell-2000-3000)
+
+---
+
+## 5. Grand Theft Data: Threat Actors Weaponizing GTA 6 Hype, NordVPN Warns
 
 **Author:** André Beganski  
 **Published:** 5/26/2026, 7:57:05 PM  
@@ -23,7 +71,7 @@ Cybercriminals are weaponizing the hype surrounding Grand Theft Auto 6, flooding
 
 ---
 
-## 2. Spain Blocks Prediction Markets Kalshi, Polymarket for Potential Gambling Law Violations
+## 6. Spain Blocks Prediction Markets Kalshi, Polymarket for Potential Gambling Law Violations
 
 **Author:** Logan Hitchcock  
 **Published:** 5/26/2026, 7:14:11 PM  
@@ -35,7 +83,7 @@ Spain is the latest country to clamp down on the rising use of prediction market
 
 ---
 
-## 3. AI Chatbots Show Bias Toward Catholicism, Researchers Say
+## 7. AI Chatbots Show Bias Toward Catholicism, Researchers Say
 
 **Author:** Jason Nelson  
 **Published:** 5/26/2026, 6:59:10 PM  
@@ -47,7 +95,7 @@ Researchers find AI models steer users toward Catholicism and away from other re
 
 ---
 
-## 4. TeraWulf Stock Pops as Bitcoin Miner Acquires Kentucky Site to Meet AI Power Demands
+## 8. TeraWulf Stock Pops as Bitcoin Miner Acquires Kentucky Site to Meet AI Power Demands
 
 **Author:** Decrypt Agent  
 **Published:** 5/26/2026, 6:23:18 PM  
@@ -59,7 +107,7 @@ Bitcoin miner TeraWulf’s latest deal adds more than a gigawatt of potential da
 
 ---
 
-## 5. Inaudible Audio Attacks Can Hijack AI Voice Models, Study Finds
+## 9. Inaudible Audio Attacks Can Hijack AI Voice Models, Study Finds
 
 **Author:** Jason Nelson  
 **Published:** 5/26/2026, 6:17:04 PM  
@@ -71,7 +119,7 @@ Researchers were able to embed hidden signals in audio clips that silently comma
 
 ---
 
-## 6. UK Issues Sanctions Against Justin Sun's HTX, Other Crypto Firms Over Alleged Russia Ties
+## 10. UK Issues Sanctions Against Justin Sun's HTX, Other Crypto Firms Over Alleged Russia Ties
 
 **Author:** Sander Lutz  
 **Published:** 5/26/2026, 6:15:34 PM  
@@ -83,7 +131,7 @@ British financial institutions are now barred from doing business with the excha
 
 ---
 
-## 7. Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026
+## 11. Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026
 
 **Author:** Logan Hitchcock  
 **Published:** 5/26/2026, 3:56:26 PM  
@@ -95,7 +143,7 @@ BitMine Immersion Technologies made its largest Ethereum acquisition yet this ye
 
 ---
 
-## 8. Indonesia Blocks Polymarket After Bets on President’s Early Departure
+## 12. Indonesia Blocks Polymarket After Bets on President’s Early Departure
 
 **Author:** Decrypt Agent  
 **Published:** 5/26/2026, 3:33:37 PM  
@@ -107,7 +155,7 @@ The ban came on the heels of markets linked to the early departure of Indonesian
 
 ---
 
-## 9. StepFun's Voice AI Topped Every Benchmark. It Also Hears Your Sighs
+## 13. StepFun's Voice AI Topped Every Benchmark. It Also Hears Your Sighs
 
 **Author:** Jose Antonio Lanz  
 **Published:** 5/26/2026, 3:29:44 PM  
@@ -119,7 +167,7 @@ The Shanghai lab that builds LLMs that punch above their weight just turned that
 
 ---
 
-## 10. China Imposes Travel Limits on AI Workers at Private Firms: Report
+## 14. China Imposes Travel Limits on AI Workers at Private Firms: Report
 
 **Author:** Vince Dioquino  
 **Published:** 5/26/2026, 2:58:31 PM  
@@ -131,7 +179,7 @@ Beijing is reportedly making some private-sector AI workers seek travel approval
 
 ---
 
-## 11. Bitcoin Giant Strategy Slashes Cash Reserves by 61% to Repurchase $1.5 Billion in Debt
+## 15. Bitcoin Giant Strategy Slashes Cash Reserves by 61% to Repurchase $1.5 Billion in Debt
 
 **Author:** André Beganski  
 **Published:** 5/26/2026, 2:35:46 PM  
@@ -143,7 +191,7 @@ Strategy used 61% of its dedicated cash buffer to repurchase $1.5 billion in con
 
 ---
 
-## 12. Crypto Industry Fights Senator Warren's Claim That Coinbase, Ripple Bank Charter Approvals Are Illegal
+## 16. Crypto Industry Fights Senator Warren's Claim That Coinbase, Ripple Bank Charter Approvals Are Illegal
 
 **Author:** Sander Lutz  
 **Published:** 5/26/2026, 2:00:55 PM  
@@ -155,7 +203,7 @@ The Digital Chamber urged the OCC on Tuesday to defend its recent national bank 
 
 ---
 
-## 13. Lucky Trader Rides $341 World Cup Meme Coin Buy to 14,000% Gains
+## 17. Lucky Trader Rides $341 World Cup Meme Coin Buy to 14,000% Gains
 
 **Author:** Ryan Gladwin  
 **Published:** 5/26/2026, 1:10:49 PM  
@@ -167,7 +215,7 @@ The trader still has over $100,000 worth of unrealized gains in the World Cup to
 
 ---
 
-## 14. Morning Minute: Trump Hints That Iran Deal May Be Close, Markets Rebound
+## 18. Morning Minute: Trump Hints That Iran Deal May Be Close, Markets Rebound
 
 **Author:** Tyler Warner  
 **Published:** 5/26/2026, 12:26:49 PM  
@@ -179,7 +227,7 @@ Markets bounced back on Trump's “largely negotiated” U.S.-Iran deal, but fur
 
 ---
 
-## 15. Bitcoin, Ethereum ETFs Shed $112M as Hyperliquid Funds Extend 8-Day Win Streak
+## 19. Bitcoin, Ethereum ETFs Shed $112M as Hyperliquid Funds Extend 8-Day Win Streak
 
 **Author:** Akash Girimath  
 **Published:** 5/26/2026, 11:47:49 AM  
