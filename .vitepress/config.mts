@@ -5,6 +5,7 @@ const vitePressConfigs = {
   title: 'Sifted Web3 News',
   description: 'Daily Web3 News',
   base: '/',
+  
   cleanUrls: true,
   sitemap: {
     hostname: 'https://web3feeds.sifted.network'
