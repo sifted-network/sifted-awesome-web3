@@ -11,7 +11,19 @@ count: 25
 
 ---
 
-## 1. Joe Lubin-backed Ethereum treasury firm SharpLink to join the Russel indexes
+## 1. Trump praises prediction markets, defends CFTC as court cases compound
+
+**Author:** Nikhilesh De  
+**Published:** 5/26/2026, 9:50:04 PM  
+**Categories:** Policy, Donald Trump, Prediction Markets, CFTC, Top Stories, News  
+
+U.S. President Donald Trump said it was "critically important" that the CFTC keep "exclusive authority" over prediction markets, echoing CFTC Chair Michael Selig.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/05/26/trump-praises-prediction-markets-defends-cftc-as-court-cases-compound)
+
+---
+
+## 2. Joe Lubin-backed Ethereum treasury firm SharpLink to join the Russel indexes
 
 **Author:** Krisztian Sandor  
 **Published:** 5/26/2026, 7:03:39 PM  
@@ -23,7 +35,7 @@ The inclusion could attract fresh passive inflows from index-tracking funds, whi
 
 ---
 
-## 2. UK sanctions Huobi and ruble stablecoin issuer in crackdown on Russia crypto networks
+## 3. UK sanctions Huobi and ruble stablecoin issuer in crackdown on Russia crypto networks
 
 **Author:** Francisco Rodrigues  
 **Published:** 5/26/2026, 5:33:35 PM  
@@ -35,7 +47,7 @@ Britain applied banking-style sanctions to crypto exchanges for the first time, 
 
 ---
 
-## 3. Bermuda, the small island nation with huge crypto ambitions
+## 4. Bermuda, the small island nation with huge crypto ambitions
 
 **Author:** Olivier Acuna  
 **Published:** 5/26/2026, 4:23:05 PM  
@@ -47,7 +59,7 @@ The government recently announced it would become the world’s first economy to
 
 ---
 
-## 4. Coinbase’s Base launches AI tool for ChatGPT to manage crypto wallets and DeFi apps
+## 5. Coinbase’s Base launches AI tool for ChatGPT to manage crypto wallets and DeFi apps
 
 **Author:** Margaux Nijkerk  
 **Published:** 5/26/2026, 4:00:00 PM  
@@ -59,7 +71,7 @@ The product, called Base MCP, connects a user’s Base Account to AI clients suc
 
 ---
 
-## 5. XRPL could close its biggest DeFi gap if new AMM amendment passes
+## 6. XRPL could close its biggest DeFi gap if new AMM amendment passes
 
 **Author:** Shaurya Malwa  
 **Published:** 5/26/2026, 3:34:09 PM  
@@ -71,7 +83,7 @@ A draft proposal filed Tuesday would extend the XRP Ledger's native automated ma
 
 ---
 
-## 6. The Clarity Act won’t lead to adoption without crypto tax reform
+## 7. The Clarity Act won’t lead to adoption without crypto tax reform
 
 **Author:** Robin Singh  
 **Published:** 5/26/2026, 3:19:18 PM  
@@ -83,7 +95,7 @@ The legislation is being framed as a turning point for U.S. crypto policy, but t
 
 ---
 
-## 7. TeraWulf jumps 13% on AI data center expansion in Kentucky
+## 8. TeraWulf jumps 13% on AI data center expansion in Kentucky
 
 **Author:** Krisztian Sandor  
 **Published:** 5/26/2026, 2:48:36 PM  
@@ -95,19 +107,19 @@ The bitcoin miner turned HPC infrastructure developer unveiled plans for a new 1
 
 ---
 
-## 8. Live markets: bitcoin on sidelines as markets surge on Iran peace hopes
+## 9. Live markets: bitcoin leads crypto slide even as tech sector closes sharply higher
 
-**Author:** Stephen Alpher,Olivier Acuna,Helene Braun  
+**Author:** Stephen Alpher,Olivier Acuna,Helene Braun,Krisztian Sandor  
 **Published:** 5/26/2026, 2:43:53 PM  
 **Categories:** Markets, Bitcoin News, Live News, live_news  
 
-Oil prices and bond yields have opened the week sharply lower following President Trump's weekend announcement of an imminent Middle East agreement.
+Oil prices and bond yields opened the week sharply lower following President Trump's weekend announcement of an imminent Middle East agreement.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/05/26/live-markets-bitcoin-on-sidelines-as-markets-surge-on-iran-peace-hopes)
 
 ---
 
-## 9. Bitmine made its largest ETH purchase this year despite Tom Lee's slowdown suggestion
+## 10. Bitmine made its largest ETH purchase this year despite Tom Lee's slowdown suggestion
 
 **Author:** Krisztian Sandor  
 **Published:** 5/26/2026, 1:27:51 PM  
@@ -119,7 +131,7 @@ The company bought 111,942 ether last week worth $237 million, ramping up purcha
 
 ---
 
-## 10. CoinDesk 20 performance update: SUI drops 1.1%, leading index lower
+## 11. CoinDesk 20 performance update: SUI drops 1.1%, leading index lower
 
 **Author:** CoinDesk Indices  
 **Published:** 5/26/2026, 1:18:17 PM  
@@ -131,7 +143,7 @@ Cronos (CRO), also down 1.1%, joined Sui (SUI) as an underperformer.
 
 ---
 
-## 11. Strive acquires 1,109 bitcoin, raising total holdings to 16,500 coins
+## 12. Strive acquires 1,109 bitcoin, raising total holdings to 16,500 coins
 
 **Author:** James Van Straten  
 **Published:** 5/26/2026, 12:46:02 PM  
@@ -143,7 +155,7 @@ ASST climbs 133% in three months as Strive grows holdings to 16,500 BTC and expl
 
 ---
 
-## 12. Strategy taps cash reserve to retire $1.5 billion in convertible debt
+## 13. Strategy taps cash reserve to retire $1.5 billion in convertible debt
 
 **Author:** James Van Straten  
 **Published:** 5/26/2026, 12:19:46 PM  
@@ -155,7 +167,7 @@ Michael Saylor and team funded the repurchases using cash as it restructures lia
 
 ---
 
-## 13. Spain joins growing list of countries shutting out Polymarket and Kalshi
+## 14. Spain joins growing list of countries shutting out Polymarket and Kalshi
 
 **Author:** Francisco Rodrigues  
 **Published:** 5/26/2026, 12:06:25 PM  
@@ -167,7 +179,7 @@ The platforms were blocked for operating without licenses required by Spanish ga
 
 ---
 
-## 14. Bitcoin demand gauge sinks to worst level since December as spot buying weakens
+## 15. Bitcoin demand gauge sinks to worst level since December as spot buying weakens
 
 **Author:** Shaurya Malwa  
 **Published:** 5/26/2026, 12:03:47 PM  
@@ -179,7 +191,7 @@ CryptoQuant’s 30-day apparent demand indicator is negative, signaling that buy
 
 ---
 
-## 15. StablR freezes USDR and EURR after attacker mints $13.5 million in unbacked tokens
+## 16. StablR freezes USDR and EURR after attacker mints $13.5 million in unbacked tokens
 
 **Author:** Francisco Rodrigues  
 **Published:** 5/26/2026, 11:25:23 AM  
@@ -191,7 +203,7 @@ The breach, linked to a 1-of-3 multisig wallet weakness, allowed attackers to co
 
 ---
 
-## 16. Bitcoin ETFs crushed by billions in outflows as Treasuries stifle interest-rate cut hopes
+## 17. Bitcoin ETFs crushed by billions in outflows as Treasuries stifle interest-rate cut hopes
 
 **Author:** Omkar Godbole  
 **Published:** 5/26/2026, 11:20:16 AM  
@@ -203,7 +215,7 @@ Your day-ahead look for May 26, 2026
 
 ---
 
-## 17. Bitcoin risks another lower high as stocks rally, AI tokens outperform
+## 18. Bitcoin risks another lower high as stocks rally, AI tokens outperform
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 5/26/2026, 10:42:44 AM  
@@ -215,7 +227,7 @@ The bitcoin price chart is forming a potential lower high while ether languishes
 
 ---
 
-## 18. Bitcoin caught between critical onchain support and an options showdown
+## 19. Bitcoin caught between critical onchain support and an options showdown
 
 **Author:** James Van Straten  
 **Published:** 5/26/2026, 9:11:06 AM  
@@ -227,7 +239,7 @@ Heavy supply concentration and large options positioning continue to suppress vo
 
 ---
 
-## 19. XRP Ledger to delete NFT junk and patch key bugs in a new upgrade
+## 20. XRP Ledger to delete NFT junk and patch key bugs in a new upgrade
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 5/26/2026, 9:06:37 AM  
@@ -239,7 +251,7 @@ The XRP Ledger is rolling out the fixCleanup3_1_3 upgrade on Wednesday, to clean
 
 ---
 
-## 20. Hyperliquid takes a swing at Polymarket with macro outcome bets
+## 21. Hyperliquid takes a swing at Polymarket with macro outcome bets
 
 **Author:** Sam Reynolds  
 **Published:** 5/26/2026, 6:44:36 AM  
@@ -251,7 +263,7 @@ The decentralized exchange’s new HIP-4 product lets traders bet on offchain ev
 
 ---
 
-## 21. At $322 billion, the stablecoin market value exceeds the FX reserves of 95 nations
+## 22. At $322 billion, the stablecoin market value exceeds the FX reserves of 95 nations
 
 **Author:** Omkar Godbole  
 **Published:** 5/26/2026, 6:16:35 AM  
@@ -263,7 +275,7 @@ The amount of dollars and other fiat currencies held by users outside traditiona
 
 ---
 
-## 22. Ondo Finance founder Nathan Allman dies unexpectedly
+## 23. Ondo Finance founder Nathan Allman dies unexpectedly
 
 **Author:** CoinDesk  
 **Published:** 5/26/2026, 6:13:58 AM  
@@ -275,7 +287,7 @@ Tokenized real-world assets firm Ondo Finance announced the unexpected death of 
 
 ---
 
-## 23. XRP slips below $1.35 after triangle breakdown puts focus on $1.30 support
+## 24. XRP slips below $1.35 after triangle breakdown puts focus on $1.30 support
 
 **Author:** Shaurya Malwa  
 **Published:** 5/26/2026, 5:08:57 AM  
@@ -287,7 +299,7 @@ XRP lost a key support zone after another failed breakout attempt, with traders 
 
 ---
 
-## 24. HYPE briefly overtakes Dogecoin, privacy tokens slide as US strikes on Iran rattle markets
+## 25. HYPE briefly overtakes Dogecoin, privacy tokens slide as US strikes on Iran rattle markets
 
 **Author:** Shaurya Malwa  
 **Published:** 5/26/2026, 4:57:43 AM  
@@ -296,17 +308,5 @@ XRP lost a key support zone after another failed breakout attempt, with traders 
 ZEC and XMR dropped 5% in a session that saw most major tokens pull back after weeks of gains, with the move tracking renewed Middle East tension and a rebound in oil prices.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/05/26/hype-briefly-overtakes-dogecoin-privacy-tokens-slide-as-us-strikes-on-iran-rattle-markets)
-
----
-
-## 25. Bitcoin stalls near $76,500 as muted trading points to macro wait-and-see
-
-**Author:** Sam Reynolds  
-**Published:** 5/26/2026, 4:06:43 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Enflux says “the bid is there” but no one is adding size, while Glassnode data shows easing selling pressure alongside weaker market activity.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/26/bitcoin-stalls-near-usd76-500-as-muted-trading-points-to-macro-wait-and-see)
 
 ---
