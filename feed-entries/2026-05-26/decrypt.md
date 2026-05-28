@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-05-26"
 date: "2026-05-26"
 source: "Decrypt"
-count: 13
+count: 5
 ---
 
 # Decrypt - 2026-05-26
 
-13 items collected.
+5 items collected.
 
 ---
 
@@ -68,101 +68,5 @@ Crypto treasury firms Sharplink and Forward Industries will both be included in 
 Cybercriminals are weaponizing the hype surrounding Grand Theft Auto 6, flooding the internet with GTA phishing traps and malware.
 
 📖 [Read original article](https://decrypt.co/369064/grand-theft-data-threat-actors-weaponizing-gta-6-hype-nordvpn-warns)
-
----
-
-## 6. Spain Blocks Prediction Markets Kalshi, Polymarket for Potential Gambling Law Violations
-
-**Author:** Logan Hitchcock  
-**Published:** 5/26/2026, 7:14:11 PM  
-**Categories:** Law and Order  
-
-Spain is the latest country to clamp down on the rising use of prediction market platforms like Polymarket and Kalshi.
-
-📖 [Read original article](https://decrypt.co/369043/spain-blocks-prediction-markets-kalshi-polymarket-potential-violations)
-
----
-
-## 7. AI Chatbots Show Bias Toward Catholicism, Researchers Say
-
-**Author:** Jason Nelson  
-**Published:** 5/26/2026, 6:59:10 PM  
-**Categories:** Artificial Intelligence  
-
-Researchers find AI models steer users toward Catholicism and away from other religions, like Jehovah’s Witnesses.
-
-📖 [Read original article](https://decrypt.co/369045/ai-chatbots-claude-chatgpt-bias-catholicism-pope-leo)
-
----
-
-## 8. TeraWulf Stock Pops as Bitcoin Miner Acquires Kentucky Site to Meet AI Power Demands
-
-**Author:** Decrypt Agent  
-**Published:** 5/26/2026, 6:23:18 PM  
-**Categories:** , Markets  
-
-Bitcoin miner TeraWulf’s latest deal adds more than a gigawatt of potential data center capacity in a region eager for economic investment.
-
-📖 [Read original article](https://decrypt.co/369053/terawulf-bitcoin-miner-kentucky-site-ai-power-demands)
-
----
-
-## 9. Inaudible Audio Attacks Can Hijack AI Voice Models, Study Finds
-
-**Author:** Jason Nelson  
-**Published:** 5/26/2026, 6:17:04 PM  
-**Categories:** Artificial Intelligence  
-
-Researchers were able to embed hidden signals in audio clips that silently commandeer AI model behavior.
-
-📖 [Read original article](https://decrypt.co/369042/inaudible-audio-attacks-hijack-ai-voice-models)
-
----
-
-## 10. UK Issues Sanctions Against Justin Sun's HTX, Other Crypto Firms Over Alleged Russia Ties
-
-**Author:** Sander Lutz  
-**Published:** 5/26/2026, 6:15:34 PM  
-**Categories:** Law and Order  
-
-British financial institutions are now barred from doing business with the exchanges—and may face penalties for interacting with crypto transactions that pass through them.
-
-📖 [Read original article](https://decrypt.co/369047/uk-issues-sanctions-against-justin-sun-htx-crypto-firms-russia-ties)
-
----
-
-## 11. Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026
-
-**Author:** Logan Hitchcock  
-**Published:** 5/26/2026, 3:56:26 PM  
-**Categories:** , Markets  
-
-BitMine Immersion Technologies made its largest Ethereum acquisition yet this year—just weeks after saying it might slow down its ETH buys.
-
-📖 [Read original article](https://decrypt.co/369011/tom-lee-bitmine-makes-biggest-ethereum-buy-2026)
-
----
-
-## 12. Indonesia Blocks Polymarket After Bets on President’s Early Departure
-
-**Author:** Decrypt Agent  
-**Published:** 5/26/2026, 3:33:37 PM  
-**Categories:** polygon, Business  
-
-The ban came on the heels of markets linked to the early departure of Indonesian President Prabowo Subianto.
-
-📖 [Read original article](https://decrypt.co/369020/indonesia-blocks-polymarket-after-bets-on-presidents-early-departure)
-
----
-
-## 13. StepFun's Voice AI Topped Every Benchmark. It Also Hears Your Sighs
-
-**Author:** Jose Antonio Lanz  
-**Published:** 5/26/2026, 3:29:44 PM  
-**Categories:** Artificial Intelligence  
-
-The Shanghai lab that builds LLMs that punch above their weight just turned that same energy on voice—and the results are hard to ignore.
-
-📖 [Read original article](https://decrypt.co/369013/stepfun-stepaudio-voice-ai-tops-benchmarks)
 
 ---
