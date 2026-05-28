@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-27"
 date: "2026-05-27"
 source: "Cointelegraph"
-count: 9
+count: 5
 ---
 
 # Cointelegraph - 2026-05-27
 
-9 items collected.
+5 items collected.
 
 ---
 
@@ -68,53 +68,5 @@ Accredited investors can buy and sell the gold-backed GLDY token through permiss
 While crypto-backed candidates won runoffs in Texas on Tuesday, industry PACs have less of a stake in California races next week.
 
 📖 [Read original article](https://cointelegraph.com/news/crypto-pac-fairshake-texas-primary-backed-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Bitcoin treasury company Nakamoto falls nearly 67% YTD after reverse stock split
-
-**Author:** Cointelegraph by Vince Quill  
-**Published:** 5/27/2026, 7:40:26 PM  
-**Categories:** Latest News  
-
-The company owns 5,058 Bitcoin, ranking it as the 20th largest publicly traded BTC treasury company, according to data from Bitcoin Treasuries.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-treasury-nakamoto-falls-67-reverse-stock-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Ether bears at risk of $2B squeeze as short positions build around $2K
-
-**Author:** Cointelegraph by Biraajmaan Tamuly  
-**Published:** 5/27/2026, 7:17:05 PM  
-**Categories:** Markets  
-
-Ether futures positioning tightened near $2,000 as rising open interest and dense short liquidity increased focus on a possible squeeze above $2,150.
-
-📖 [Read original article](https://cointelegraph.com/markets/ether-bears-risk-115-billion-squeeze-as-shorts-pile-up-at-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Price predictions 5/27: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ZEC, ADA, XMR
-
-**Author:** Cointelegraph by Rakesh Upadhyay  
-**Published:** 5/27/2026, 6:28:39 PM  
-**Categories:** Markets  
-
-Bitcoin briefly lost the $75,000 level after net flows into spot BTC ETFs turned negative. Do technical charts point to a BTC and altcoin recovery?
-
-📖 [Read original article](https://cointelegraph.com/markets/price-predictions-527-btc-eth-bnb-xrp-sol-doge-hype-zec-ada-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Mastercard secures New York BitLicense for crypto operations
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 5/27/2026, 6:05:55 PM  
-**Categories:** Latest News  
-
-The payments giant can now legally conduct digital asset business activity in New York as it deepens its focus on blockchain-based settlement systems.
-
-📖 [Read original article](https://cointelegraph.com/news/mastercard-secures-new-york-bitlicense-for-crypto-operations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
