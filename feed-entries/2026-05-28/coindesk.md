@@ -2,16 +2,112 @@
 title: "CoinDesk - 2026-05-28"
 date: "2026-05-28"
 source: "CoinDesk"
-count: 24
+count: 25
 ---
 
 # CoinDesk - 2026-05-28
 
-24 items collected.
+25 items collected.
 
 ---
 
-## 1. Bitcoin pinned below $73,000 despite potential U.S.-Iran deal news
+## 1. Crypto trading firm FalconX confidentially files with SEC for IPO, hires bankers
+
+**Author:** Will Canny  
+**Published:** 5/28/2026, 7:53:38 PM  
+**Categories:** Finance, IPOs, Cantor Fitzgerald, Exclusive, FalconX, Breaking News, News  
+
+FalconX has hired Cantor and other bankers to advise on a potential IPO and confidentially filed draft paperwork with the SEC, though the listing is not expected until later this year amid volatile market conditions.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/05/28/crypto-trading-firm-falconx-confidentially-files-with-sec-for-ipo-hires-bankers)
+
+---
+
+## 2. Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war
+
+**Author:** Margaux Nijkerk  
+**Published:** 5/28/2026, 7:09:36 PM  
+**Categories:** Tech, Ethereum News, Newsletters, News  
+
+In this week's edition of The Protocol Newsletter, we're diving deep into the institution that has been the main steward for the Ethereum blockchain, and why its been back in the spotlight.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/05/28/why-the-ethereum-foundation-is-suddenly-again-at-the-center-of-crypto-s-culture-war)
+
+---
+
+## 3. Tether's U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals
+
+**Author:** Krisztian Sandor  
+**Published:** 5/28/2026, 6:53:40 PM  
+**Categories:** Finance, Stablecoins, Tether, Anchorage Digital, News  
+
+USAT's market cap jumped above $140 million in April, though it remains well behind Circle's USDC, PayPal's PYUSD and Ripple's RLUSD tokens.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/05/28/tether-s-u-s-focused-stablecoin-grows-over-500-in-a-month-but-still-lags-main-rivals)
+
+---
+
+## 4. Bitwise bets Hyperliquid could power future finance as HYPE ETFs gain traction
+
+**Author:** AI Boost  
+**Published:** 5/28/2026, 6:34:25 PM  
+**Categories:** CoinDesk News, Media Network Interview, Hyperliquid, News  
+
+Bitwise says investor demand for Hyperliquid exposure is surging as new HYPE ETFs launch.
+
+📖 [Read original article](https://www.coindesk.com/coindesk-news/2026/05/28/bitwise-bets-hyperliquid-could-power-future-finance-as-hype-etfs-gain-traction)
+
+---
+
+## 5. Hyperliquid's pre-IPO SpaceX contracts suffers 45% flash crash, liquidating $1.5 million
+
+**Author:** Oliver Knight  
+**Published:** 5/28/2026, 5:28:57 PM  
+**Categories:** Markets, SpaceX, News  
+
+A massive selloff in a SpaceX crypto token wiped out hundreds of retail traders in 30 minutes because the market lacked enough cash to absorb the shock.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/hyperliquid-s-pre-ipo-spacex-contracts-suffers-45-flash-crash-liquidating-usd1-5-million)
+
+---
+
+## 6. UniCredit warns Europe may struggle to contain crypto-bank crisis under MiCA rules
+
+**Author:** Francisco Rodrigues  
+**Published:** 5/28/2026, 4:50:24 PM  
+**Categories:** Finance, Regulation, Stablecoins, News  
+
+EU deposit insurance (up to €100,000) may not absorb stress from large stablecoin reserve accounts, unlike the full protection offered by U.S. regulators.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/05/28/unicredit-warns-europe-may-struggle-to-contain-crypto-bank-crisis-under-mica-rules)
+
+---
+
+## 7. Toddlers learn by falling: Why DeFi's $20 billion TVL drop is just a market stress-test
+
+**Author:** Olivier Acuna  
+**Published:** 5/28/2026, 4:33:56 PM  
+**Categories:** Finance, DeFi, Hack, News  
+
+DeFi Technologies president Andrew Forson says the stablecoin layer is thriving, with more than $150 billion in U.S. Treasuries backing coins like USDT and USDC.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/05/28/toddlers-learn-by-falling-why-defi-s-usd20-billion-tvl-drop-is-just-a-market-stress-test)
+
+---
+
+## 8. Sui blockchain suffers another network outage as transactions grind to a halt
+
+**Author:** Margaux Nijkerk  
+**Published:** 5/28/2026, 4:11:04 PM  
+**Categories:** Tech, Web3, News  
+
+This is the second time this year that the Sui network has suffered an outage.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/05/28/sui-blockchain-suffers-another-network-outage-as-transactions-grind-to-a-halt)
+
+---
+
+## 9. Bitcoin pinned below $73,000 despite potential U.S.-Iran deal news
 
 **Author:** Krisztian Sandor,Helene Braun  
 **Published:** 5/28/2026, 3:10:34 PM  
@@ -23,7 +119,7 @@ U.S. stocks and bonds, and the oil market are reacting positively to yet another
 
 ---
 
-## 2. A blockchain lottery plans to turn crypto gambling fees into Ethereum developer funding
+## 10. A blockchain lottery plans to turn crypto gambling fees into Ethereum developer funding
 
 **Author:** Margaux Nijkerk  
 **Published:** 5/28/2026, 3:00:00 PM  
@@ -35,7 +131,7 @@ Decentralized lottery protocol Megapot is teaming up with Protocol Guild in what
 
 ---
 
-## 3. Crypto Long & Short: Asia’s regulated crypto future
+## 11. Crypto Long & Short: Asia’s regulated crypto future
 
 **Author:** Hassan Ahmed  
 **Published:** 5/28/2026, 3:00:00 PM  
@@ -47,7 +143,7 @@ Asia's adoption of crypto and stablecoins is driving regulated growth in payment
 
 ---
 
-## 4. Disciplined AI agents are the disruptor needed to break the exchange churn model
+## 12. Disciplined AI agents are the disruptor needed to break the exchange churn model
 
 **Author:** Saad Naja  
 **Published:** 5/28/2026, 2:13:09 PM  
@@ -59,7 +155,7 @@ Programmable incentives that allow independent trading agents to earn only when 
 
 ---
 
-## 5. Gemini taps SpaceXAI to build a personalized prediction markets feed
+## 13. Gemini taps SpaceXAI to build a personalized prediction markets feed
 
 **Author:** Will Canny  
 **Published:** 5/28/2026, 2:00:00 PM  
@@ -71,7 +167,7 @@ The new feature integrates SpaceXAI models to deliver real-time market intellige
 
 ---
 
-## 6. 'Debasement trade’ falls out of favor as inflation fears cool, JPMorgan says
+## 14. 'Debasement trade’ falls out of favor as inflation fears cool, JPMorgan says
 
 **Author:** Helene Braun,Will Canny,AI Boost  
 **Published:** 5/28/2026, 1:38:24 PM  
@@ -83,7 +179,7 @@ Investors are abandoning bitcoin and gold, perhaps sensing a coming end to Middl
 
 ---
 
-## 7. Asset manager Grayscale delays IPO plans as crypto listing boom loses steam
+## 15. Asset manager Grayscale delays IPO plans as crypto listing boom loses steam
 
 **Author:** Will Canny  
 **Published:** 5/28/2026, 1:36:11 PM  
@@ -95,7 +191,7 @@ Grayscale’s decision to delay its IPO highlights the growing caution across th
 
 ---
 
-## 8. VanEck launches first U.S. spot BNB ETF on Nasdaq
+## 16. VanEck launches first U.S. spot BNB ETF on Nasdaq
 
 **Author:** Francisco Rodrigues  
 **Published:** 5/28/2026, 1:36:01 PM  
@@ -107,7 +203,7 @@ The ETF offers investors BNB exposure through traditional brokerage accounts wit
 
 ---
 
-## 9. Bit Digital bought $20 million ETH for first time since October before 15% plunge
+## 17. Bit Digital bought $20 million ETH for first time since October before 15% plunge
 
 **Author:** Krisztian Sandor  
 **Published:** 5/28/2026, 1:27:32 PM  
@@ -119,7 +215,7 @@ The firm said it purchased 8,568 ether on May 11 at an average price of $2,334. 
 
 ---
 
-## 10. What's next as hot money cycle has gone from crypto to gold to AI to memory
+## 18. What's next as hot money cycle has gone from crypto to gold to AI to memory
 
 **Author:** James Van Straten  
 **Published:** 5/28/2026, 1:21:14 PM  
@@ -131,7 +227,7 @@ As bitcoin and gold momentum fades, investor flows are increasingly rotating int
 
 ---
 
-## 11. CoinDesk 20 performance update: Stellar (XLM) jumps 10.5% as nearly all assets fall
+## 19. CoinDesk 20 performance update: Stellar (XLM) jumps 10.5% as nearly all assets fall
 
 **Author:** CoinDesk Indices  
 **Published:** 5/28/2026, 1:12:41 PM  
@@ -143,7 +239,7 @@ NEAR Protocol (NEAR) declined 12.2% while Bitcoin Cash (BCH) dropped 12.1%, lead
 
 ---
 
-## 12. VanEck's tokenized fund lands on Euler as DeFi courts Wall Street institutions
+## 20. VanEck's tokenized fund lands on Euler as DeFi courts Wall Street institutions
 
 **Author:** Krisztian Sandor  
 **Published:** 5/28/2026, 11:58:47 AM  
@@ -155,7 +251,7 @@ DeFi protocols are increasingly adapting to host regulated, tokenized assets as 
 
 ---
 
-## 13. U.S.-Iran strikes rattle global markets, send bitcoin to 6-week low
+## 21. U.S.-Iran strikes rattle global markets, send bitcoin to 6-week low
 
 **Author:** Francisco Rodrigues  
 **Published:** 5/28/2026, 11:28:08 AM  
@@ -167,7 +263,7 @@ Your day-ahead look for May 28, 2026
 
 ---
 
-## 14. Samsung units to buy $408 million stake in South Korea’s biggest crypto exchange
+## 22. Samsung units to buy $408 million stake in South Korea’s biggest crypto exchange
 
 **Author:** Jamie Crawley  
 **Published:** 5/28/2026, 10:55:19 AM  
@@ -179,7 +275,7 @@ Samsung Securities is set to take a 2% stake in Dunamu, worth over $200 million,
 
 ---
 
-## 15. Standard Chartered backs $4,000 ether as retail piles into the sub-$2,000 drop
+## 23. Standard Chartered backs $4,000 ether as retail piles into the sub-$2,000 drop
 
 **Author:** Shaurya Malwa  
 **Published:** 5/28/2026, 10:48:26 AM  
@@ -191,7 +287,7 @@ The bank says onchain metrics will pull the price back up, just as Amazon's stoc
 
 ---
 
-## 16. Bitcoin’s famous CME gaps are about to disappear, though three remain unresolved
+## 24. Bitcoin’s famous CME gaps are about to disappear, though three remain unresolved
 
 **Author:** James Van Straten,Oliver Knight  
 **Published:** 5/28/2026, 10:47:22 AM  
@@ -203,7 +299,7 @@ The launch of round-the-clock bitcoin futures trading eliminates the long-standi
 
 ---
 
-## 17. Crypto slides on Hormuz airstrikes as $897 million in long liquidations pile up
+## 25. Crypto slides on Hormuz airstrikes as $897 million in long liquidations pile up
 
 **Author:** Oliver Knight,Shaurya Malwa  
 **Published:** 5/28/2026, 10:44:52 AM  
@@ -212,89 +308,5 @@ The launch of round-the-clock bitcoin futures trading eliminates the long-standi
 BTC dropped to its lowest since April 13 and ETH broke below $2,000 as U.S. airstrikes stoked inflation concerns, wiping out nearly $900 million in leveraged longs.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/crypto-slides-on-hormuz-airstrikes-as-usd897-million-in-long-liquidations-pile-up)
-
----
-
-## 18. White House reviews CFTC prediction-market rule as Trump backs federal control
-
-**Author:** Sam Reynolds  
-**Published:** 5/28/2026, 8:57:26 AM  
-**Categories:** Policy, CFTC, Prediction Markets, Regulation, News  
-
-The proposal could shape how Kalshi, Polymarket, and other event-contract platforms operate as states challenge the CFTC’s authority.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/05/28/white-house-reviews-cftc-prediction-market-rule-as-trump-backs-federal-control)
-
----
-
-## 19. Diverging trends: Ether slides below $2,000 while futures open interest hits record high of 16 million ETH
-
-**Author:** Omkar Godbole  
-**Published:** 5/28/2026, 7:19:35 AM  
-**Categories:** Markets, Ethereum News, News  
-
-Ether drops below $2,000 amid heavy selling pressure, yet futures open interest hits a record high. This divergences suggests aggressive shorting.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/diverging-trends-ether-slides-below-usd2k-while-futures-open-interest-hits-record-high-of-16-million-eth)
-
----
-
-## 20. BlackRock's bitcoin ETF sheds $528 million, the second-largest daily outflow on record
-
-**Author:** Shaurya Malwa  
-**Published:** 5/28/2026, 5:56:12 AM  
-**Categories:** Markets, ETFs, BlackRock, News  
-
-IBIT recorded its second-biggest single-day net outflow since launch on Wednesday, missing a January record by less than half a million dollars, as the Iran-driven sell-off pulled institutional money out of bitcoin.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/blackrock-s-bitcoin-etf-sheds-usd528-million-the-second-largest-daily-outflow-on-record)
-
----
-
-## 21. Bitcoin could be heading much lower, fund manager warns as $150 billion Treasury operation nears
-
-**Author:** Omkar Godbole  
-**Published:** 5/28/2026, 4:55:44 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Fund manager Michael Kramer says a $150 billion liquidity drain from upcoming U.S. Treasury operations could push bitcoin sharply lower.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/bitcoin-could-be-heading-much-lower-fund-manager-warns-as-usd150-billion-treasury-operation-nears)
-
----
-
-## 22. XRP drops 4% below $1.30 as heavy selling breaks key support zone
-
-**Author:** Shaurya Malwa  
-**Published:** 5/28/2026, 4:41:05 AM  
-**Categories:** Markets, News  
-
-XRP lost another major support level after high-volume selling accelerated late in the session, keeping focus on whether the months-long compression structure is now breaking lower.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/xrp-drops-4-below-usd1-30-as-heavy-selling-breaks-key-support-zone)
-
----
-
-## 23. Bitcoin drops below $73,000 as U.S. strikes on Iran spark $1 billion liquidations
-
-**Author:** Shaurya Malwa  
-**Published:** 5/28/2026, 4:25:42 AM  
-**Categories:** Markets, News  
-
-Crypto majors sold off 3% to 4% and nearly $1 billion in leveraged positions were wiped out after U.S. airstrikes on an Iranian military site near the Strait of Hormuz reignited the conflict markets had started to price out.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/bitcoin-drops-below-usd73-000-as-us-strikes-on-iran-spark-usd1-billion-liquidations)
-
----
-
-## 24. U.S. CFTC files request to erase Gemini settlement that it no longer considers fair
-
-**Author:** Jesse Hamilton  
-**Published:** 5/28/2026, 1:12:09 AM  
-**Categories:** Policy, CFTC, Gemini, Winklevoss, News  
-
-The regulator went back to analyze the 2022 case and decided that it wouldn't have been pursued under current management and practices.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/05/27/u-s-cftc-files-request-to-erase-gemini-settlement-that-it-no-longer-considers-fair)
 
 ---
