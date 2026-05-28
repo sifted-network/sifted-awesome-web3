@@ -2,16 +2,112 @@
 title: "The Block - 2026-05-28"
 date: "2026-05-28"
 source: "The Block"
-count: 12
+count: 19
 ---
 
 # The Block - 2026-05-28
 
-12 items collected.
+19 items collected.
 
 ---
 
-## 1. Sequans completes bitcoin treasury unwind, refocuses on IoT semiconductors
+## 1. CryptoQuant says bitcoin whale and dolphin accumulation stalled as demand remains weak
+
+**Author:** Yogita Khatri  
+**Published:** 5/28/2026, 8:03:53 PM  
+**Categories:** Market Updates, Markets, Token Projects, Bitcoin, Crypto Movers, Tokens  
+
+Bitcoin holding structure continues to deteriorate as whale and dolphin BTC balances have stalled, CryptoQuant said.
+
+📖 [Read original article](https://www.theblock.co/post/402954/cryptoquant-bitcoin-whale-dolphin-accumulation-stalled-demand-weak?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. The Digital Chamber ramps up pressure on Congress with call to action to pass Clarity Act
+
+**Author:** Sarah Wynn  
+**Published:** 5/28/2026, 7:35:02 PM  
+**Categories:** Policy, Regulation, U.S. Policymaking, 2024 Elections, Congress, exclusive, House Agriculture Committee, House Financial Services Committee, SEC, Senate Agriculture Committee, Senate Banking Committee  
+
+The Digital Chamber published a website to serve as a central spot for people to write to lawmakers in its latest push to pass a crypto bill.
+
+📖 [Read original article](https://www.theblock.co/post/402948/the-digital-chamber-ramps-up-pressure-on-congress-with-call-to-action-to-pass-clarity-act?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Kalshi’s turn: Prediction markets platform sues Minnesota over law going into effect in August
+
+**Author:** Sarah Wynn  
+**Published:** 5/28/2026, 5:55:31 PM  
+**Categories:** Legal, Policy, Regulation, U.S. Policymaking, CFTC  
+
+Following the CFTC's suit, Kalshi has sued the state of Minnesota after Governor Tim Walz signed a law blocking prediction markets.
+
+📖 [Read original article](https://www.theblock.co/post/402937/kalshis-prediction-markets-sues-minnesota-law-ban?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Tether’s USAT supply grows 540% month-over-month, latest attestation shows
+
+**Author:** Daniel Kuhn  
+**Published:** 5/28/2026, 5:38:59 PM  
+**Categories:** Crypto Ecosystems, Markets, Policy, Regulation, Stablecoins, Tether  
+
+Tether’s USA₮ supply grew six-fold month-over-month to over 140 million tokens, according to Anchorage Digital's latest attestation.
+
+📖 [Read original article](https://www.theblock.co/post/402933/tethers-usat-supply-grows-540-month-over-month-latest-attestation-shows?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Hyperliquid-based prop trading platform Hypernova raises $3 million in pre-seed funding
+
+**Author:** Yogita Khatri  
+**Published:** 5/28/2026, 5:30:02 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Markets, Startups, Token Projects, Venture Capital, exclusive, Seed and Pre-Seed, Smart contracts, Tokens  
+
+Hyperliquid-based prop trading platform Hypernova says it offers "instant payouts" and plans to publicly launch within the next two months.
+
+📖 [Read original article](https://www.theblock.co/post/402923/hyperliquid-prop-trading-platform-hypernova-crypto-funding?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. Grayscale’s Hyperliquid ETF negotiating ‘seed’ investment of roughly $115 million in HYPE tokens
+
+**Author:** RT Watson  
+**Published:** 5/28/2026, 4:22:03 PM  
+**Categories:** Funds, Markets, hype, hyperliquid etf  
+
+Earlier this month, 21Shares and Bitwise Investments became the first firms to launch HYPE-based exchange-traded funds.
+
+📖 [Read original article](https://www.theblock.co/post/402903/grayscale-hyperliquid-etf-negotiating-seed-investment-115-million-hype-tokens?utm_source=rss&utm_medium=rss)
+
+---
+
+## 7. Sui blockchain experiences second ‘stall’ in five months
+
+**Author:** Daniel Kuhn  
+**Published:** 5/28/2026, 3:43:18 PM  
+**Categories:** Crypto Ecosystems, Infrastructure, Layer 1s, Security, Sui  
+
+Sui said the blockchain is experiencing a "network stall," as block explorers show the protocol has not produced a block in nearly 2 hours.
+
+📖 [Read original article](https://www.theblock.co/post/402907/sui-blockchain-experiences-second-stall-in-five-months?utm_source=rss&utm_medium=rss)
+
+---
+
+## 8. VanEck’s tokenized VBILL US Treasury fund can now be used as collateral on Euler
+
+**Author:** Daniel Kuhn  
+**Published:** 5/28/2026, 3:37:48 PM  
+**Categories:** Crypto Ecosystems, DeFi, Web3, Decentralized Infrastructure, Lending, Tokenization  
+
+Securitize launched VanEck's VBILL as a collateral asset in an Euler lending market curated by KPK on Thursday.
+
+📖 [Read original article](https://www.theblock.co/post/402904/vaneck-tokenized-vbill-us-treasury-fund-collateral-euler?utm_source=rss&utm_medium=rss)
+
+---
+
+## 9. Sequans completes bitcoin treasury unwind, refocuses on IoT semiconductors
 
 **Author:** Kyle Baird  
 **Published:** 5/28/2026, 2:48:03 PM  
@@ -23,7 +119,7 @@ Sequans said its remaining 658 BTC are now fully unrestricted after completing a
 
 ---
 
-## 2. JPMorgan says bitcoin and gold ETF outflows point to ‘cooling’ debasement trade amid hopes for Iran-US deal
+## 10. JPMorgan says bitcoin and gold ETF outflows point to ‘cooling’ debasement trade amid hopes for Iran-US deal
 
 **Author:** Yogita Khatri  
 **Published:** 5/28/2026, 2:14:17 PM  
@@ -35,7 +131,7 @@ Both bitcoin and gold ETFs have seen outflows over the past two weeks as the deb
 
 ---
 
-## 3. VanEck debuts first US spot BNB ETF in latest crypto investment product expansion
+## 11. VanEck debuts first US spot BNB ETF in latest crypto investment product expansion
 
 **Author:** James Hunt  
 **Published:** 5/28/2026, 1:23:13 PM  
@@ -47,7 +143,7 @@ VanEck's VBNB joins a growing roster of spot crypto ETFs since the first U.S. Bi
 
 ---
 
-## 4. Standard Chartered compares Ethereum to Amazon during 2001 dot-com bubble burst, says ETH will catch up to internal metrics
+## 12. Standard Chartered compares Ethereum to Amazon during 2001 dot-com bubble burst, says ETH will catch up to internal metrics
 
 **Author:** Yogita Khatri  
 **Published:** 5/28/2026, 12:27:14 PM  
@@ -59,7 +155,7 @@ Standard Chartered Bank has maintained its ether price targets of $4,000 by end-
 
 ---
 
-## 5. Theta and XYO partner on blockchain-based verification layer for AI agents
+## 13. Theta and XYO partner on blockchain-based verification layer for AI agents
 
 **Author:** James Hunt  
 **Published:** 5/28/2026, 12:05:02 PM  
@@ -71,7 +167,7 @@ The DePIN projects have partnered to develop a cryptographic proof infrastructur
 
 ---
 
-## 6. BIS says tokenization can improve wholesale cross-border payments
+## 14. BIS says tokenization can improve wholesale cross-border payments
 
 **Author:** Brian Danga  
 **Published:** 5/28/2026, 10:31:32 AM  
@@ -83,7 +179,7 @@ Project Agorá found tokenization could improve wholesale cross-border payments 
 
 ---
 
-## 7. Samsung units to acquire $408 million stake in Upbit operator Dunamu
+## 15. Samsung units to acquire $408 million stake in Upbit operator Dunamu
 
 **Author:** Danny Park  
 **Published:** 5/28/2026, 9:07:22 AM  
@@ -95,7 +191,7 @@ Major institutions in South Korea are seeking to expand into digital assets in p
 
 ---
 
-## 8. Bit Digital extends $100 million loan facility to WhiteFiber, backed by Ethereum credit line
+## 16. Bit Digital extends $100 million loan facility to WhiteFiber, backed by Ethereum credit line
 
 **Author:** Brian Danga  
 **Published:** 5/28/2026, 8:35:48 AM  
@@ -107,7 +203,7 @@ Bit Digital said advances may be funded through an Ethereum-denominated secured 
 
 ---
 
-## 9. CFTC says it shouldn’t have sued Gemini, joins motion to vacate prior judgment
+## 17. CFTC says it shouldn’t have sued Gemini, joins motion to vacate prior judgment
 
 **Author:** Danny Park  
 **Published:** 5/28/2026, 7:55:24 AM  
@@ -119,7 +215,7 @@ The CFTC joined Gemini in filing a motion for relief from a 2025 consent order s
 
 ---
 
-## 10. Bitcoin falls below $73,000 as BlackRock’s BTC ETF sees second-largest outflows since debut
+## 18. Bitcoin falls below $73,000 as BlackRock’s BTC ETF sees second-largest outflows since debut
 
 **Author:** Timmy Shen  
 **Published:** 5/28/2026, 6:06:40 AM  
@@ -131,7 +227,7 @@ Spot BTC ETFs saw their largest outflows on Wednesday since late January, with I
 
 ---
 
-## 11. US charges Google engineer with using internal search data to pocket $1.2 million on Polymarket
+## 19. US charges Google engineer with using internal search data to pocket $1.2 million on Polymarket
 
 **Author:** Timmy Shen  
 **Published:** 5/28/2026, 3:38:30 AM  
@@ -140,17 +236,5 @@ Spot BTC ETFs saw their largest outflows on Wednesday since late January, with I
 Prosecutors charged Spagnuolo with fraud and money laundering, while the CFTC filed a complaint alleging insider trading violations.
 
 📖 [Read original article](https://www.theblock.co/post/402806/google-engineer-insider-trading-polymarket?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Trump vows to codify ‘future-proof’ digital asset market structure
-
-**Author:** Danny Park  
-**Published:** 5/28/2026, 2:13:41 AM  
-**Categories:** People, Policy, Regulation, U.S. Policymaking, Donald Trump, Senate Banking Committee  
-
-The Clarity Act passed the Senate Banking Committee earlier this month, but analysts have said the legislation faces a complex path forward.
-
-📖 [Read original article](https://www.theblock.co/post/402800/trump-future-proof-digital-asset?utm_source=rss&utm_medium=rss)
 
 ---
