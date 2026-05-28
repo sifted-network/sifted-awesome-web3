@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-05-27"
 date: "2026-05-27"
 source: "Cointelegraph"
-count: 26
+count: 29
 ---
 
 # Cointelegraph - 2026-05-27
 
-26 items collected.
+29 items collected.
 
 ---
 
-## 1. Price predictions 5/27: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ZEC, ADA, XMR
+## 1. Crypto card monthly transaction volume surges 230% from 2025
+
+**Author:** Cointelegraph by Vince Quill  
+**Published:** 5/27/2026, 10:30:59 PM  
+**Categories:** Latest News  
+
+Payment volume on crypto-linked credit and debit cards has been steadily increasing since 2024, reaching about $7.8 billion in cumulative transactions this month.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-card-monthly-volume-surge-230-one-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitcoin miner inflows to Binance soar as BTC struggles to hold uptrend: Is $70K next?
+
+**Author:** Cointelegraph by Biraajmaan Tamuly  
+**Published:** 5/27/2026, 10:04:13 PM  
+**Categories:** Markets  
+
+Weakening spot demand, miner inflows to exchanges and freshly opened shorts put downside pressure on Bitcoin price.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-miner-inflows-rise-to-20k-on-binance-can-btc-hold-its-daily-uptrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Polymarket weighs KYC requirements amid global crackdown on prediction markets
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 5/27/2026, 9:36:00 PM  
+**Categories:** Latest News  
+
+The predictions market operator reportedly explored mandatory user verification requirements, breaking from its policies of allowing traders to access its services using pseudonyms.
+
+📖 [Read original article](https://cointelegraph.com/news/polymarket-kyc-sanctions-insider-trading-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Orca, Streamex roll out secondary trading infrastructure for tokenized securities
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 5/27/2026, 8:51:40 PM  
+**Categories:** Latest News  
+
+Accredited investors can buy and sell the gold-backed GLDY token through permissioned liquidity pools operating on the Solana blockchain.
+
+📖 [Read original article](https://cointelegraph.com/news/orca-and-streamex-launch-secondary-trading-infrastructure-for-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. PACs laud Texas primary wins, look to back more pro-crypto candidates
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 5/27/2026, 8:25:00 PM  
+**Categories:** Latest News  
+
+While crypto-backed candidates won runoffs in Texas on Tuesday, industry PACs have less of a stake in California races next week.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-pac-fairshake-texas-primary-backed-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Bitcoin treasury company Nakamoto falls nearly 67% YTD after reverse stock split
+
+**Author:** Cointelegraph by Vince Quill  
+**Published:** 5/27/2026, 7:40:26 PM  
+**Categories:** Latest News  
+
+The company owns 5,058 Bitcoin, ranking it as the 20th largest publicly traded BTC treasury company, according to data from Bitcoin Treasuries.
+
+📖 [Read original article](https://cointelegraph.com/news/bitcoin-treasury-nakamoto-falls-67-reverse-stock-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Ether bears at risk of $2B squeeze as short positions build around $2K
+
+**Author:** Cointelegraph by Biraajmaan Tamuly  
+**Published:** 5/27/2026, 7:17:05 PM  
+**Categories:** Markets  
+
+Ether futures positioning tightened near $2,000 as rising open interest and dense short liquidity increased focus on a possible squeeze above $2,150.
+
+📖 [Read original article](https://cointelegraph.com/markets/ether-bears-risk-115-billion-squeeze-as-shorts-pile-up-at-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Price predictions 5/27: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ZEC, ADA, XMR
 
 **Author:** Cointelegraph by Rakesh Upadhyay  
 **Published:** 5/27/2026, 6:28:39 PM  
@@ -23,7 +107,7 @@ Bitcoin briefly lost the $75,000 level after net flows into spot BTC ETFs turned
 
 ---
 
-## 2. Mastercard secures New York BitLicense for crypto operations
+## 9. Mastercard secures New York BitLicense for crypto operations
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 5/27/2026, 6:05:55 PM  
@@ -35,7 +119,7 @@ The payments giant can now legally conduct digital asset business activity in Ne
 
 ---
 
-## 3. Prediction markets enter the derivatives era: XBIT DEX opens whitelist for prediction leverage, launching a 35,000 USDC campaign
+## 10. Prediction markets enter the derivatives era: XBIT DEX opens whitelist for prediction leverage, launching a 35,000 USDC campaign
 
 **Author:** Cointelegraph by Advertorial  
 **Published:** 5/27/2026, 4:58:05 PM  
@@ -47,7 +131,7 @@ XBIT DEX takes the lead in introducing leverage to on-chain prediction markets, 
 
 ---
 
-## 4. Bitcoin price threatens $75K loss as US-Iran peace progress sparks new stocks records
+## 11. Bitcoin price threatens $75K loss as US-Iran peace progress sparks new stocks records
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 5/27/2026, 4:47:05 PM  
@@ -59,7 +143,7 @@ Bitcoin disappointed bulls by dropping below $75,000 on Iran peace deal reports 
 
 ---
 
-## 5. BTC Prague 2026: Europe’s leading Bitcoin conference expands its cultural reach
+## 12. BTC Prague 2026: Europe’s leading Bitcoin conference expands its cultural reach
 
 **Author:** Cointelegraph by Advertorial  
 **Published:** 5/27/2026, 4:16:41 PM  
@@ -71,10 +155,10 @@ BTC Prague, Europe’s premier Bitcoin conference, returns to the PVA Expo Pragu
 
 ---
 
-## 6. Here’s what happened in crypto today
+## 13. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
-**Published:** 5/27/2026, 3:29:33 PM  
+**Published:** 5/27/2026, 3:42:00 PM  
 **Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
 
 Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
@@ -83,7 +167,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 7. StakeDAO exploit creates 5.4 trillion vsdCRV but nets only $91K
+## 14. StakeDAO exploit creates 5.4 trillion vsdCRV but nets only $91K
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 5/27/2026, 3:07:29 PM  
@@ -95,7 +179,7 @@ PeckShield said the attacker bridged 43.7 ETH to Ethereum after minting trillion
 
 ---
 
-## 8. HTX denies UK sanctions allegations as new data flags $7.6B Russia-linked flows
+## 15. HTX denies UK sanctions allegations as new data flags $7.6B Russia-linked flows
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/27/2026, 2:57:10 PM  
@@ -107,7 +191,7 @@ UK sanctions Huobi Global S.A., operator of HTX, over alleged role in Russia’s
 
 ---
 
-## 9. Banca Sella gets MiCA clearance for crypto services in Italy
+## 16. Banca Sella gets MiCA clearance for crypto services in Italy
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 5/27/2026, 2:36:37 PM  
@@ -119,7 +203,7 @@ The bank plans to launch digital asset custody, transfer and receipt services in
 
 ---
 
-## 10. Bitcoin price shrugs off $1.3B BlackRock ETF block sale
+## 17. Bitcoin price shrugs off $1.3B BlackRock ETF block sale
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/27/2026, 2:24:37 PM  
@@ -131,7 +215,7 @@ Bitcoin’s price stayed firm despite a massive $1.3 billion block sale executed
 
 ---
 
-## 11. Sold in May and went away? Bitcoin risks another 10% drop as month turns red
+## 18. Sold in May and went away? Bitcoin risks another 10% drop as month turns red
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 5/27/2026, 2:14:29 PM  
@@ -143,7 +227,7 @@ Bitcoin is on track to end May in the red, a historically bearish signal that co
 
 ---
 
-## 12. Aeternum brings the second edition of Unchained Summit to Vietnam on May 28-29
+## 19. Aeternum brings the second edition of Unchained Summit to Vietnam on May 28-29
 
 **Author:** Cointelegraph by Advertorial  
 **Published:** 5/27/2026, 2:11:57 PM  
@@ -155,7 +239,7 @@ Aeternum, organisers of the Unchained Summit series, will host the second editio
 
 ---
 
-## 13. China’s top court to study rules for crypto and AI cases
+## 20. China’s top court to study rules for crypto and AI cases
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/27/2026, 12:58:46 PM  
@@ -167,7 +251,7 @@ China’s Supreme People’s Court plans to study adjudication rules for crypto 
 
 ---
 
-## 14. Crypto-backed candidates win key Texas primary runoffs
+## 21. Crypto-backed candidates win key Texas primary runoffs
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/27/2026, 12:50:00 PM  
@@ -179,7 +263,7 @@ Crypto PACs threw serious money behind a handful of Texas runoffs, helping oust 
 
 ---
 
-## 15. Three key XRP metrics suggest ‘explosive price expansion’ is next
+## 22. Three key XRP metrics suggest ‘explosive price expansion’ is next
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/27/2026, 12:34:23 PM  
@@ -191,7 +275,7 @@ Falling MVRV ratio, high XRP Ledger activity and a bullish wedge pattern signal 
 
 ---
 
-## 16. ETHConf brings Ethereum’s leaders, institutions, and policymakers to New York City on June 8–10
+## 23. ETHConf brings Ethereum’s leaders, institutions, and policymakers to New York City on June 8–10
 
 **Author:** Cointelegraph by Advertorial  
 **Published:** 5/27/2026, 11:45:50 AM  
@@ -203,7 +287,7 @@ ETHConf, produced by ETHGlobal, will bring more than 5,000 attendees, 150+ speak
 
 ---
 
-## 17. Spot HYPE ETFs absorb 1% of market cap in first 10 trading days: Kairos
+## 24. Spot HYPE ETFs absorb 1% of market cap in first 10 trading days: Kairos
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 5/27/2026, 11:19:22 AM  
@@ -215,7 +299,7 @@ Spot HYPE ETFs absorbed 1.04% of Hyperliquid’s market cap in 10 trading days, 
 
 ---
 
-## 18. Bitcoin analysis eyes sharp rebound after BTC collapses below M2 supply 'fair value'
+## 25. Bitcoin analysis eyes sharp rebound after BTC collapses below M2 supply 'fair value'
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 5/27/2026, 11:07:34 AM  
@@ -227,7 +311,7 @@ Bitcoin remained trapped "massively below" its "fair" level, as dictated by glob
 
 ---
 
-## 19. South Korea charges CATFI memecoin operators in first DEX rug-pull case: Report
+## 26. South Korea charges CATFI memecoin operators in first DEX rug-pull case: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/27/2026, 10:45:20 AM  
@@ -239,7 +323,7 @@ South Korean prosecutors reportedly charged a group over the CATFI memecoin rug 
 
 ---
 
-## 20. Ethereum bull David Hoffman explains why he sold his ETH
+## 27. Ethereum bull David Hoffman explains why he sold his ETH
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/27/2026, 7:03:41 AM  
@@ -251,7 +335,7 @@ South Korean prosecutors reportedly charged a group over the CATFI memecoin rug 
 
 ---
 
-## 21. Falcon Finance, SoFi unveil stablecoin products tied to banking infrastructure
+## 28. Falcon Finance, SoFi unveil stablecoin products tied to banking infrastructure
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 5/27/2026, 7:00:00 AM  
@@ -263,7 +347,7 @@ While Falcon’s new fUSD is built for institutional trading and collateral work
 
 ---
 
-## 22. Sharplink, Forward Industries among crypto firms considered for Russell indexes
+## 29. Sharplink, Forward Industries among crypto firms considered for Russell indexes
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 5/27/2026, 6:27:54 AM  
@@ -272,53 +356,5 @@ While Falcon’s new fUSD is built for institutional trading and collateral work
 Bitmine and Galaxy Digital may also be eligible for the Russell 1000, an index tracking the largest 1,000 US companies that includes Nvidia, Microsoft and Apple.
 
 📖 [Read original article](https://cointelegraph.com/news/sharplink-forward-industries-among-crypto-firms-considered-for-russell-indexes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. Bitcoin’s recent drop coincides with $1.3B ‘dark pool’ ETF sale: Analyst
-
-**Author:** Cointelegraph by Brayden Lindrea  
-**Published:** 5/27/2026, 5:54:03 AM  
-**Categories:** Latest News  
-
-Galaxy Digital’s Alex Thorn says a $1.3 billion sale of BlackRock’s Bitcoin ETF was the largest he has seen on a dark pool, or private trading platform.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-fall-coincides-billion-dollar-ibit-sale-dark-pool?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 24. Base launches new tool to connect crypto wallets to AI agents
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 5/27/2026, 4:49:13 AM  
-**Categories:** Latest News  
-
-AI models will be able to transfer funds, swap tokens, check balances and review transaction history with a new tool from Base.
-
-📖 [Read original article](https://cointelegraph.com/news/base-launches-mcp-ttol-to-connect-crypto-wallets-to-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. Tom Lee predicts supercycle amid Bitmine’s largest Ethereum buy in 2026
-
-**Author:** Cointelegraph by Stephen Katte  
-**Published:** 5/27/2026, 3:11:59 AM  
-**Categories:** Latest News  
-
-Bitmine purchased 111,942 Ether last week, its biggest buy so far in 2026, after the token dropped below $2,200.
-
-📖 [Read original article](https://cointelegraph.com/news/bitmine-buys-111k-ethereum-as-tom-lee-predicts-supercycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 26. Trump backs CFTC authority over prediction markets
-
-**Author:** Cointelegraph by Brayden Lindrea  
-**Published:** 5/27/2026, 2:47:05 AM  
-**Categories:** Latest News  
-
-US President Donald Trump says it is “critically important” that the CFTC has sole authority over prediction markets, and took aim at several state officials.
-
-📖 [Read original article](https://cointelegraph.com/news/trump-demands-cftc-maintains-authority-over-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
