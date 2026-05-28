@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-05-27"
 date: "2026-05-27"
 source: "CoinDesk"
-count: 24
+count: 18
 ---
 
 # CoinDesk - 2026-05-27
 
-24 items collected.
+18 items collected.
 
 ---
 
@@ -224,77 +224,5 @@ The launch comes as crypto companies increasingly focus on tokenizing traditiona
 Memory chip stocks are attracting capital and attention, with crypto markets settling into apathy.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/05/27/live-markets-bitcoin-remains-under-pressure-as-korea-s-sk-hynix-joins-micron-in-usd1-trillion-club)
-
----
-
-## 19. Bitcoin gauge tracking selling pressure moves into 'high-risk' zone as ETF demand slumps
-
-**Author:** Shaurya Malwa  
-**Published:** 5/27/2026, 12:25:15 PM  
-**Categories:** Markets, News  
-
-U.S. spot bitcoin ETFs have accumulated a net 4,500 BTC since the start of 2026, with May reversing the buying pattern that built through March and April, per Swissblock data.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/27/bitcoin-etf-accumulation-flattens-to-just-4-500-btc-year-to-date-as-may-flips-to-outflows)
-
----
-
-## 20. Kraken unveils Bitcoin Vault, expanding yield push for BTC holders
-
-**Author:** Will Canny  
-**Published:** 5/27/2026, 12:00:00 PM  
-**Categories:** Tech, Kraken, Bitcoin News, DeFi, Exclusive, News  
-
-The new earn product lets users generate BTC-denominated rewards through DeFi strategies while keeping exposure to bitcoin’s price.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/05/26/kraken-unveils-bitcoin-vault-expanding-yield-push-for-btc-holders)
-
----
-
-## 21. Singapore charges former Hodlnaut CEO Zhu Juntao over Terra collapse claims
-
-**Author:** Francisco Rodrigues  
-**Published:** 5/27/2026, 11:51:19 AM  
-**Categories:** Policy, Fraud, News  
-
-Zhu allegedly directed staff to publish false claims that Hodlnaut had no direct exposure to the TerraUSD collapse on Telegram and in customer emails.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/05/27/singapore-charges-former-hodlnaut-ceo-zhu-juntao-over-terra-collapse-claims)
-
----
-
-## 22. Crypto participants once again prefer dollars over bitcoin. USDT, USDC dominance rises.
-
-**Author:** Omkar Godbole  
-**Published:** 5/27/2026, 11:34:41 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for May 27, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/05/27/traders-once-again-prefer-dollars-over-bitcoin-usdt-usdc-dominance-rises)
-
----
-
-## 23. SoFi brings bank-issued stablecoin to 15 million users in crypto push
-
-**Author:** Helene Braun  
-**Published:** 5/27/2026, 11:00:00 AM  
-**Categories:** Finance, Stablecoins, SoFi, News  
-
-The fintech platform says its dollar-backed stablecoin will let members trade, transfer and eventually earn yield through its banking app.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/05/27/sofi-brings-bank-issued-stablecoin-to-15-million-users-in-crypto-push)
-
----
-
-## 24. Bitcoin clings to $75,000 support as bear market signals resurface
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 5/27/2026, 10:54:27 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin hovered below Tom Lee's $76,000 bull-market threshold while hyperliquid and monero bucked broader crypto weakness.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/27/bitcoin-clings-to-usd75-000-support-as-bear-market-signals-resurface)
 
 ---
