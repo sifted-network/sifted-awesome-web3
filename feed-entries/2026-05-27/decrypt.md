@@ -2,16 +2,76 @@
 title: "Decrypt - 2026-05-27"
 date: "2026-05-27"
 source: "Decrypt"
-count: 13
+count: 18
 ---
 
 # Decrypt - 2026-05-27
 
-13 items collected.
+18 items collected.
 
 ---
 
-## 1. DeepSeek, Xiaomi Just Made Frontier AI 99% Cheaper. American Labs Went the Other Way
+## 1. AI Chatbots Could Quietly Pull Users Away From Reality, Researchers Warn
+
+**Author:** Jason Nelson  
+**Published:** 5/27/2026, 9:09:01 PM  
+**Categories:** Artificial Intelligence  
+
+Researchers warn that prolonged chatbot interactions could distort how some users experience reality and social connection.
+
+📖 [Read original article](https://decrypt.co/369243/ai-psychosis-chatbots-reality-mental-health-research)
+
+---
+
+## 2. Here's How Much Bitcoin Elon Musk Would Control If SpaceX and Tesla Merge
+
+**Author:** Logan Hitchcock  
+**Published:** 5/27/2026, 9:07:10 PM  
+**Categories:** , Markets  
+
+If Tesla and SpaceX merged—as is a reported possibility—then Elon Musk's combined entity would hold billions of dollars' worth of Bitcoin.
+
+📖 [Read original article](https://decrypt.co/369240/how-much-bitcoin-elon-musk-control-spacex-tesla-merge)
+
+---
+
+## 3. Ethereum Traders Grow Increasingly Bearish as ETFs Bleed, ETH Sinks Near $2,000
+
+**Author:** Logan Hitchcock  
+**Published:** 5/27/2026, 8:52:20 PM  
+**Categories:** , Markets  
+
+Predictors on Myriad are losing faith, believing it's more likely that Ethereum dumps to $1,500 before a prospective move up to $3,000.
+
+📖 [Read original article](https://decrypt.co/369218/ethereum-traders-increasingly-bearish-etfs-bleed-eth-sinks-near-2000)
+
+---
+
+## 4. ElevenLabs, Stability AI Drop New AI Music Models—Can They Catch Suno?
+
+**Author:** Jose Antonio Lanz  
+**Published:** 5/27/2026, 8:33:13 PM  
+**Categories:** Artificial Intelligence  
+
+Music v2 brings genre-shifting and section-by-section composition to ElevenLabs. Stable Audio 3.0 ships open weights and six-minute tracks. Is either good enough to dethrone the category leader?
+
+📖 [Read original article](https://decrypt.co/369237/elevenlabs-stability-ai-new-music-models-suno)
+
+---
+
+## 5. Marvel Comics Icon Stan Lee Has Been 'Revived' With AI Tech—Again
+
+**Author:** Jason Nelson  
+**Published:** 5/27/2026, 8:23:37 PM  
+**Categories:** Artificial Intelligence  
+
+ElevenLabs has licensed Stan Lee’s voice and likeness, adding the late Marvel comic creator to a growing market for AI celebrity replicas.
+
+📖 [Read original article](https://decrypt.co/369220/marvel-comics-icon-stan-lee-revived-ai-tech-again)
+
+---
+
+## 6. DeepSeek, Xiaomi Just Made Frontier AI 99% Cheaper. American Labs Went the Other Way
 
 **Author:** Jose Antonio Lanz  
 **Published:** 5/27/2026, 7:31:08 PM  
@@ -23,7 +83,7 @@ Back-to-back price cuts from China's top AI labs have made their models a fracti
 
 ---
 
-## 2. Cash App Now Supports Stablecoins, Despite Bitcoin Maxi Jack Dorsey's 'Gatekeeper' Gripes
+## 7. Cash App Now Supports Stablecoins, Despite Bitcoin Maxi Jack Dorsey's 'Gatekeeper' Gripes
 
 **Author:** André Beganski  
 **Published:** 5/27/2026, 6:49:02 PM  
@@ -35,7 +95,7 @@ Cash App has begun supporting stablecoin transactions on networks including Ethe
 
 ---
 
-## 3. OpenAI Foundation Pledges $250 Million to Help Cushion AI's Economic Disruption
+## 8. OpenAI Foundation Pledges $250 Million to Help Cushion AI's Economic Disruption
 
 **Author:** Decrypt Agent  
 **Published:** 5/27/2026, 5:43:14 PM  
@@ -47,7 +107,7 @@ The philanthropic arm of ChatGPT maker OpenAI will fund research, worker support
 
 ---
 
-## 4. YouTube Makes AI Content Labels More Prominent as Google Pushes Video Remix Tools
+## 9. YouTube Makes AI Content Labels More Prominent as Google Pushes Video Remix Tools
 
 **Author:** Jason Nelson  
 **Published:** 5/27/2026, 5:35:22 PM  
@@ -59,7 +119,7 @@ YouTube says new disclosure tools and automatic AI detection will help viewers m
 
 ---
 
-## 5. SoFi Launches SoFiUSD Stablecoin Across Ethereum and Solana
+## 10. SoFi Launches SoFiUSD Stablecoin Across Ethereum and Solana
 
 **Author:** Decrypt Agent  
 **Published:** 5/27/2026, 5:08:09 PM  
@@ -71,7 +131,7 @@ SoFi is making its SoFiUSD token available to members, marking a milestone in th
 
 ---
 
-## 6. Kraken Now Lets You Earn Yield on Bitcoin Holdings via Lending Vaults
+## 11. Kraken Now Lets You Earn Yield on Bitcoin Holdings via Lending Vaults
 
 **Author:** Logan Hitchcock  
 **Published:** 5/27/2026, 3:42:59 PM  
@@ -83,7 +143,7 @@ Kraken customers can make use of their Bitcoin holdings and generate BTC yield w
 
 ---
 
-## 7. Huawei's New Benchmark Gives AI Agents Months of Your Life—Then Watches Them Fail
+## 12. Huawei's New Benchmark Gives AI Agents Months of Your Life—Then Watches Them Fail
 
 **Author:** Jose Antonio Lanz  
 **Published:** 5/27/2026, 3:22:51 PM  
@@ -95,7 +155,7 @@ Claw-Anything simulates a real digital existence and asks AI assistants to handl
 
 ---
 
-## 8. Mastercard Secures New York BitLicense in Push for Stablecoins, Tokenized Deposits
+## 13. Mastercard Secures New York BitLicense in Push for Stablecoins, Tokenized Deposits
 
 **Author:** André Beganski  
 **Published:** 5/27/2026, 2:58:02 PM  
@@ -107,7 +167,7 @@ Mastercard has secured a highly coveted BitLicense in New York, anchoring its co
 
 ---
 
-## 9. Robinhood Opens Platform to AI Agents for Stock Trading and Credit Card Spending
+## 14. Robinhood Opens Platform to AI Agents for Stock Trading and Credit Card Spending
 
 **Author:** Decrypt Agent  
 **Published:** 5/27/2026, 1:43:18 PM  
@@ -119,7 +179,7 @@ Retail brokerage Robinhood now lets users delegate stock purchases and credit ca
 
 ---
 
-## 10. Solana Meme Coin Surges 6,000% After Creators Arrested Over 'Rug Pull'
+## 15. Solana Meme Coin Surges 6,000% After Creators Arrested Over 'Rug Pull'
 
 **Author:** Ryan Gladwin  
 **Published:** 5/27/2026, 1:09:01 PM  
@@ -131,7 +191,7 @@ The charges against the CatFi creators mark the first time South Korean prosecut
 
 ---
 
-## 11. Morning Minute: Dark Pool Trader Dumps $1.3B in IBIT in Single Clip
+## 16. Morning Minute: Dark Pool Trader Dumps $1.3B in IBIT in Single Clip
 
 **Author:** Tyler Warner  
 **Published:** 5/27/2026, 12:28:30 PM  
@@ -143,7 +203,7 @@ Strategy is paying down its debt instead of buying Bitcoin, and AI tokens are no
 
 ---
 
-## 12. Trump Backs CFTC Over Prediction Markets, Calls State Officials ‘Scum’
+## 17. Trump Backs CFTC Over Prediction Markets, Calls State Officials ‘Scum’
 
 **Author:** Vince Dioquino  
 **Published:** 5/27/2026, 12:16:57 PM  
@@ -155,7 +215,7 @@ Federal oversight gains the president’s backing as states push to bring predic
 
 ---
 
-## 13. $1.3B Worth of BlackRock's IBIT Changes Hands in Dark Pool Sale
+## 18. $1.3B Worth of BlackRock's IBIT Changes Hands in Dark Pool Sale
 
 **Author:** Akash Girimath  
 **Published:** 5/27/2026, 11:13:46 AM  
