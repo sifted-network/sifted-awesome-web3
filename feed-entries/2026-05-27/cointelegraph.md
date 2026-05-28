@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-27"
 date: "2026-05-27"
 source: "Cointelegraph"
-count: 29
+count: 23
 ---
 
 # Cointelegraph - 2026-05-27
 
-29 items collected.
+23 items collected.
 
 ---
 
@@ -191,19 +191,7 @@ UK sanctions Huobi Global S.A., operator of HTX, over alleged role in Russia’s
 
 ---
 
-## 16. Banca Sella gets MiCA clearance for crypto services in Italy
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 5/27/2026, 2:36:37 PM  
-**Categories:** Latest News  
-
-The bank plans to launch digital asset custody, transfer and receipt services in 2026 for selected customer categories.
-
-📖 [Read original article](https://cointelegraph.com/news/italy-banca-sella-mica-crypto-custody-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Bitcoin price shrugs off $1.3B BlackRock ETF block sale
+## 16. Bitcoin price shrugs off $1.3B BlackRock ETF block sale
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/27/2026, 2:24:37 PM  
@@ -215,7 +203,7 @@ Bitcoin’s price stayed firm despite a massive $1.3 billion block sale executed
 
 ---
 
-## 18. Sold in May and went away? Bitcoin risks another 10% drop as month turns red
+## 17. Sold in May and went away? Bitcoin risks another 10% drop as month turns red
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 5/27/2026, 2:14:29 PM  
@@ -227,7 +215,7 @@ Bitcoin is on track to end May in the red, a historically bearish signal that co
 
 ---
 
-## 19. Aeternum brings the second edition of Unchained Summit to Vietnam on May 28-29
+## 18. Aeternum brings the second edition of Unchained Summit to Vietnam on May 28-29
 
 **Author:** Cointelegraph by Advertorial  
 **Published:** 5/27/2026, 2:11:57 PM  
@@ -239,7 +227,7 @@ Aeternum, organisers of the Unchained Summit series, will host the second editio
 
 ---
 
-## 20. China’s top court to study rules for crypto and AI cases
+## 19. China’s top court to study rules for crypto and AI cases
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/27/2026, 12:58:46 PM  
@@ -251,7 +239,7 @@ China’s Supreme People’s Court plans to study adjudication rules for crypto 
 
 ---
 
-## 21. Crypto-backed candidates win key Texas primary runoffs
+## 20. Crypto-backed candidates win key Texas primary runoffs
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/27/2026, 12:50:00 PM  
@@ -263,7 +251,7 @@ Crypto PACs threw serious money behind a handful of Texas runoffs, helping oust 
 
 ---
 
-## 22. Three key XRP metrics suggest ‘explosive price expansion’ is next
+## 21. Three key XRP metrics suggest ‘explosive price expansion’ is next
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/27/2026, 12:34:23 PM  
@@ -275,7 +263,7 @@ Falling MVRV ratio, high XRP Ledger activity and a bullish wedge pattern signal 
 
 ---
 
-## 23. ETHConf brings Ethereum’s leaders, institutions, and policymakers to New York City on June 8–10
+## 22. ETHConf brings Ethereum’s leaders, institutions, and policymakers to New York City on June 8–10
 
 **Author:** Cointelegraph by Advertorial  
 **Published:** 5/27/2026, 11:45:50 AM  
@@ -287,7 +275,7 @@ ETHConf, produced by ETHGlobal, will bring more than 5,000 attendees, 150+ speak
 
 ---
 
-## 24. Spot HYPE ETFs absorb 1% of market cap in first 10 trading days: Kairos
+## 23. Spot HYPE ETFs absorb 1% of market cap in first 10 trading days: Kairos
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 5/27/2026, 11:19:22 AM  
@@ -296,65 +284,5 @@ ETHConf, produced by ETHGlobal, will bring more than 5,000 attendees, 150+ speak
 Spot HYPE ETFs absorbed 1.04% of Hyperliquid’s market cap in 10 trading days, beating Bitcoin and Ether ETF debuts.
 
 📖 [Read original article](https://cointelegraph.com/news/hype-etfs-market-cap-inflows-bitcoin-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. Bitcoin analysis eyes sharp rebound after BTC collapses below M2 supply 'fair value'
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 5/27/2026, 11:07:34 AM  
-**Categories:** Markets  
-
-Bitcoin remained trapped "massively below" its "fair" level, as dictated by global liquidity trends and gold ratio, the latest BTC price analysis says.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-analysis-eyes-sharp-rebound-after-btc-collapses-below-m2-supply-fair-value?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 26. South Korea charges CATFI memecoin operators in first DEX rug-pull case: Report
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 5/27/2026, 10:45:20 AM  
-**Categories:** Latest News  
-
-South Korean prosecutors reportedly charged a group over the CATFI memecoin rug pull, marking the country’s first DEX rug-pull case under crypto law.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korea-first-arrest-memecoin-rug-pull-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 27. Ethereum bull David Hoffman explains why he sold his ETH
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 5/27/2026, 7:03:41 AM  
-**Categories:** Latest News  
-
-“Ethereum got the ETH price it deserves, and I don’t see ETH being rerated as an asset, higher or lower,” says David Hoffman.
-
-📖 [Read original article](https://cointelegraph.com/news/ethereum-evangelist-hoffman-explains-why-he-sold-his-eth-stash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 28. Falcon Finance, SoFi unveil stablecoin products tied to banking infrastructure
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 5/27/2026, 7:00:00 AM  
-**Categories:** Latest News  
-
-While Falcon’s new fUSD is built for institutional trading and collateral workflows, SoFiUSD targets consumer banking users through SoFi’s app.
-
-📖 [Read original article](https://cointelegraph.com/news/anchorage-digital-launches-federally-regulated-stablecoin-with-falcon-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 29. Sharplink, Forward Industries among crypto firms considered for Russell indexes
-
-**Author:** Cointelegraph by Stephen Katte  
-**Published:** 5/27/2026, 6:27:54 AM  
-**Categories:** Latest News  
-
-Bitmine and Galaxy Digital may also be eligible for the Russell 1000, an index tracking the largest 1,000 US companies that includes Nvidia, Microsoft and Apple.
-
-📖 [Read original article](https://cointelegraph.com/news/sharplink-forward-industries-among-crypto-firms-considered-for-russell-indexes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
