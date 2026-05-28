@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-05-28"
 date: "2026-05-28"
 source: "Cointelegraph"
-count: 21
+count: 25
 ---
 
 # Cointelegraph - 2026-05-28
 
-21 items collected.
+25 items collected.
 
 ---
 
-## 1. Argentina bill targets crypto payments to illegal gambling sites
+## 1. Trezor adds native USDt, USDC yield via Morpho integration
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 5/28/2026, 5:28:36 PM  
+**Categories:** Latest News  
+
+The feature lets users earn stablecoin yield directly through Trezor Suite without connecting external wallets or using separate DeFi apps.
+
+📖 [Read original article](https://cointelegraph.com/news/trezor-usdc-usdt-yield-morpho-trezor-suite?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. French company abandons crypto treasury strategy, will liquidate Bitcoin holdings
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 5/28/2026, 5:22:14 PM  
+**Categories:** Latest News  
+
+In the year since Sequans Communications announced that it would adopt a digital asset treasury strategy, the price of Bitcoin fell by more than 30%.
+
+📖 [Read original article](https://cointelegraph.com/news/sequans-crypto-treasury-strategy-liquidate-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. P2P.org launches real-time data stream for Sui and Hyperliquid
+
+**Author:** Cointelegraph by Advertorial  
+**Published:** 5/28/2026, 4:57:03 PM  
+**Categories:** Press Releases  
+
+P2P.org, a blockchain infrastructure provider operating validators across 40+ proof-of-stake networks since 2018, today launched Syncro Data Stream, a real-time blockchain data stream for Sui and Hyperliquid.
+
+📖 [Read original article](https://cointelegraph.com/press-releases/p2porg-launches-real-time-data-stream-for-sui-and-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Argentina bill targets crypto payments to illegal gambling sites
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 5/28/2026, 3:05:21 PM  
@@ -23,7 +59,7 @@ Argentina’s proposed online gambling bill would restrict banks, payment firms 
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 5. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 5/28/2026, 2:54:02 PM  
@@ -35,7 +71,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. ERC-7943 author says institutions can’t play DeFi’s ‘pirate game’
+## 6. ERC-7943 author says institutions can’t play DeFi’s ‘pirate game’
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 5/28/2026, 2:45:44 PM  
@@ -47,7 +83,7 @@ RWA standard ERC-7943 reaches final stage as Ethereum builders rethink how insti
 
 ---
 
-## 4. StanChart says Ethereum price will catch up to bullish internal metrics
+## 7. StanChart says Ethereum price will catch up to bullish internal metrics
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/28/2026, 2:26:25 PM  
@@ -59,7 +95,7 @@ Standard Chartered reaffirms bullish Ether price targets, citing strong network 
 
 ---
 
-## 5. Bitcoin bids farewell to CME futures gaps with $67K still on the radar
+## 8. Bitcoin bids farewell to CME futures gaps with $67K still on the radar
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 5/28/2026, 1:52:26 PM  
@@ -71,7 +107,7 @@ Bitcoin approached the final week of CME futures gaps with several still open, p
 
 ---
 
-## 6. XRP drops to 16-week lows: Can price fall below $1?
+## 9. XRP drops to 16-week lows: Can price fall below $1?
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/28/2026, 1:40:07 PM  
@@ -83,7 +119,7 @@ XRP breaks key support at $1.30 as bearish technical setups and weak investor se
 
 ---
 
-## 7. Aave Labs’ Push gains UK FCA crypto registration
+## 10. Aave Labs’ Push gains UK FCA crypto registration
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/28/2026, 1:28:01 PM  
@@ -95,7 +131,7 @@ Aave Labs’ Push received FCA approval for “certain cryptoasset activities”
 
 ---
 
-## 8. Samsung units take $408M stake in Upbit operator Dunamu: Report
+## 11. Samsung units take $408M stake in Upbit operator Dunamu: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 5/28/2026, 12:50:07 PM  
@@ -107,7 +143,7 @@ Samsung Securities, SDS and Card will buy 4% of Dunamu as Korean firms prepare f
 
 ---
 
-## 9. Ethereum under $2K: ETH whales sell as retail remains bullish
+## 12. Ethereum under $2K: ETH whales sell as retail remains bullish
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 5/28/2026, 12:49:31 PM  
@@ -119,7 +155,7 @@ ETH's price has entered a decisive breakdown stage of its prevailing technical p
 
 ---
 
-## 10. BlackRock Bitcoin ETF sees near-record outflows as BTC dips below $75K
+## 13. BlackRock Bitcoin ETF sees near-record outflows as BTC dips below $75K
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 5/28/2026, 12:22:53 PM  
@@ -131,7 +167,7 @@ US spot Bitcoin ETFs have turned negative year-to-date with $596 million in outf
 
 ---
 
-## 11. Mystery Bitcoin burn destroys 107 BTC worth about $8.5M
+## 14. Mystery Bitcoin burn destroys 107 BTC worth about $8.5M
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/28/2026, 12:09:09 PM  
@@ -143,7 +179,7 @@ An unknown entity burned $8.5 million worth of Bitcoin after 12 years of holding
 
 ---
 
-## 12. Polymarket exec says KYC limited to beta product, not existing platform
+## 15. Polymarket exec says KYC limited to beta product, not existing platform
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 5/28/2026, 10:30:44 AM  
@@ -155,7 +191,7 @@ Polymarket executive Josh Stevens said identity checks apply only to early beta 
 
 ---
 
-## 13. BIS Project Agorá shows tokenized payments can settle in seconds
+## 16. BIS Project Agorá shows tokenized payments can settle in seconds
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/28/2026, 9:48:57 AM  
@@ -167,7 +203,7 @@ The Bank for International Settlements' collaboration with seven central banks a
 
 ---
 
-## 14. Crypto liquidations hit $935M as Bitcoin price dips to $72.6K
+## 17. Crypto liquidations hit $935M as Bitcoin price dips to $72.6K
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/28/2026, 9:44:14 AM  
@@ -179,7 +215,7 @@ Over $935 million was wiped out across the crypto market as traders shifted thei
 
 ---
 
-## 15. Crypto companies have tightened compliance, but gaps remain: Chainalysis
+## 18. Crypto companies have tightened compliance, but gaps remain: Chainalysis
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 5/28/2026, 7:17:05 AM  
@@ -191,7 +227,19 @@ Around 47% of crypto organizations onboarded in 2026 are operating at alerting s
 
 ---
 
-## 16. Crypto markets shed $80B after fresh US strikes on Iran
+## 19. BNB joins US spot ETF market through VanEck’s VBNB launch
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 5/28/2026, 7:00:00 AM  
+**Categories:** Latest News  
+
+The physically backed fund gives US investors exchange-traded exposure to the Binance-linked cryptocurrency through traditional brokerage accounts.
+
+📖 [Read original article](https://cointelegraph.com/news/bnb-enters-us-spot-etf-market-through-vanecks-vbnb-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 20. Crypto markets shed $80B after fresh US strikes on Iran
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/28/2026, 6:54:24 AM  
@@ -203,7 +251,7 @@ The crypto market capitalization has fallen to its lowest level since mid-April 
 
 ---
 
-## 17. CFTC seeks to reverse settlement deal with Gemini
+## 21. CFTC seeks to reverse settlement deal with Gemini
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 5/28/2026, 6:41:24 AM  
@@ -215,7 +263,7 @@ The CFTC claimed that its settled complaint filed under the Biden administration
 
 ---
 
-## 18. Bitcoin funding spike shows longs defending $70K: Will ETF outflows reverse bulls’ efforts?
+## 22. Bitcoin funding spike shows longs defending $70K: Will ETF outflows reverse bulls’ efforts?
 
 **Author:** Cointelegraph by Antonio Oliveira  
 **Published:** 5/28/2026, 5:09:22 AM  
@@ -227,7 +275,7 @@ Bitcoin dropped closer to a critical support level as spot and long futures trad
 
 ---
 
-## 19. US charges Google employee with insider trading bets on Polymarket
+## 23. US charges Google employee with insider trading bets on Polymarket
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 5/28/2026, 4:25:32 AM  
@@ -239,7 +287,7 @@ The Justice Department and the CFTC allege that Google software engineer Michele
 
 ---
 
-## 20. Kraken rolls out Bitcoin vault product for holders to earn yield
+## 24. Kraken rolls out Bitcoin vault product for holders to earn yield
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 5/28/2026, 2:50:41 AM  
@@ -251,7 +299,7 @@ Within the first 10 hours of launch, the Kraken Earn BTC Vault raked in $30 mill
 
 ---
 
-## 21. Bitcoin falls further as BTC miners pivot to AI, pro-crypto legislation stalls
+## 25. Bitcoin falls further as BTC miners pivot to AI, pro-crypto legislation stalls
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 5/28/2026, 1:35:49 AM  
