@@ -2,16 +2,64 @@
 title: "The Block - 2026-05-27"
 date: "2026-05-27"
 source: "The Block"
-count: 17
+count: 19
 ---
 
 # The Block - 2026-05-27
 
-17 items collected.
+19 items collected.
 
 ---
 
-## 1. Falcon Finance taps Anchorage to issue new GENIUS-compliant payments stablecoin fUSD
+## 1. Cash App lets users send USDC stablecoins on chains like Solana and Ethereum
+
+**Author:** RT Watson  
+**Published:** 5/27/2026, 9:07:59 PM  
+**Categories:** Companies  
+
+Cash App users can now transfer on Solana, Ethereum, Polygon and Arbitrum, but executive Miles Suter says the firm is still bitcoin-focused.
+
+📖 [Read original article](https://www.theblock.co/post/402784/cash-app-lets-users-send-usdc-stablecoins-on-chains-like-solana-and-ethereum?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. White House starts review of CFTC’s prediction markets rulemaking as Trump backs agency authority
+
+**Author:** Sarah Wynn  
+**Published:** 5/27/2026, 8:52:43 PM  
+**Categories:** Legal, Policy, Regulation, U.S. Policymaking, 2024 Elections, CFTC, Congress  
+
+The White House is reviewing proposed prediction market rules as President Trump throws his support behind the CFTC.
+
+📖 [Read original article](https://www.theblock.co/post/402786/white-house-starts-review-of-cftcs-prediction-markets-rulemaking-as-trump-backs-agency-authority?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Bitcoin miner-to-AI boom sends stocks soaring as Cipher and Hut 8 hit fresh highs
+
+**Author:** Kyle Baird  
+**Published:** 5/27/2026, 8:47:19 PM  
+**Categories:** Companies, Crypto Infrastructure, Equities, Markets, Public Equities, The Block, AI HPC, bitcoin-miners, Mining Companies  
+
+IREN climbed within 10% of a fresh all-time high after unveiling another major AI infrastructure expansion tied to Dell.
+
+📖 [Read original article](https://www.theblock.co/post/402773/bitcoin-miner-ai-boom-stocks-soaring-cipher-hut-8-fresh-highs?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. TD Cowen says Trump’s CFTC prediction markets post unlikely to change legal fight
+
+**Author:** Yogita Khatri  
+**Published:** 5/27/2026, 8:10:00 PM  
+**Categories:** Companies, Crypto Ecosystems, Finance firms, Legal, Markets, Policy, Regulation, U.S. Policymaking, Web3, CFTC, Congress, Crypto, Investment Firms, Lawsuits, Sanctions  
+
+The future of prediction markets will likely be decided by the Supreme Court, while states still appear to hold the advantage, TD Cowen said.
+
+📖 [Read original article](https://www.theblock.co/post/402775/td-cowen-trump-cftc-prediction-markets-post-legal-fight?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Falcon Finance taps Anchorage to issue new GENIUS-compliant payments stablecoin fUSD
 
 **Author:** Daniel Kuhn  
 **Published:** 5/27/2026, 8:00:11 PM  
@@ -23,7 +71,7 @@ Falcon said fUSD is meant to act as a “regulated counterpart” to its existin
 
 ---
 
-## 2. Kraken expands Earn suite with Bitcoin Vault paying yield on BTC holdings
+## 6. Kraken expands Earn suite with Bitcoin Vault paying yield on BTC holdings
 
 **Author:** Kyle Baird  
 **Published:** 5/27/2026, 4:19:32 PM  
@@ -35,7 +83,7 @@ Bitcoin Vault routes deposits into DeFi lending protocols, including Aave and Mo
 
 ---
 
-## 3. Aztec Labs acquires ZKPassport, pledges to keep privacy protocol and iOS mobile app open-source
+## 7. Aztec Labs acquires ZKPassport, pledges to keep privacy protocol and iOS mobile app open-source
 
 **Author:** Daniel Kuhn  
 **Published:** 5/27/2026, 4:00:00 PM  
@@ -47,7 +95,7 @@ The Obsidion team, including co-founders Michael Elliot and Theo Madzou, will jo
 
 ---
 
-## 4. Tokenized Pokémon card marketplaces hit record $7.4 million as hype peaks ahead of 30th anniversary
+## 8. Tokenized Pokémon card marketplaces hit record $7.4 million as hype peaks ahead of 30th anniversary
 
 **Author:** Ivan Wu and Bryan Samsoedin  
 **Published:** 5/27/2026, 3:16:02 PM  
@@ -59,7 +107,7 @@ On-chain Pokémon card revenue has surged 337% as 30th-anniversary mania lifts t
 
 ---
 
-## 5. Bitdeer taps former Corsair Gaming and semiconductor exec Michael Potter as CFO
+## 9. Bitdeer taps former Corsair Gaming and semiconductor exec Michael Potter as CFO
 
 **Author:** Kyle Baird  
 **Published:** 5/27/2026, 2:49:38 PM  
@@ -71,7 +119,7 @@ Bitdeer will retain Jianchun Liu as a principal advisor and said the resignation
 
 ---
 
-## 6. Mastercard secures New York State BitLicense as it continues to expand crypto services
+## 10. Mastercard secures New York State BitLicense as it continues to expand crypto services
 
 **Author:** Daniel Kuhn  
 **Published:** 5/27/2026, 2:00:39 PM  
@@ -83,7 +131,7 @@ New York has now officially granted three Virtual Currency Business Activity Lic
 
 ---
 
-## 7. Robinhood says AI-powered crypto trading coming after launching agentic stock trading beta
+## 11. Robinhood says AI-powered crypto trading coming after launching agentic stock trading beta
 
 **Author:** RT Watson  
 **Published:** 5/27/2026, 1:59:50 PM  
@@ -95,7 +143,7 @@ The popular retail-focused trading platform is kicking off its agentic trading i
 
 ---
 
-## 8. Circle partners with Nium to connect USDC settlement to global payout rails
+## 12. Circle partners with Nium to connect USDC settlement to global payout rails
 
 **Author:** James Hunt  
 **Published:** 5/27/2026, 1:00:00 PM  
@@ -107,7 +155,7 @@ Circle and Nium have partnered to connect stablecoin settlement with global payo
 
 ---
 
-## 9. Security researchers flag ongoing Stake DAO exploit after attacker mints trillions of vsdCRV
+## 13. Security researchers flag ongoing Stake DAO exploit after attacker mints trillions of vsdCRV
 
 **Author:** James Hunt  
 **Published:** 5/27/2026, 11:29:26 AM  
@@ -119,7 +167,7 @@ The attacker minted 5.4 trillion vsdCRV on Arbitrum and is actively swapping tok
 
 ---
 
-## 10. SoFi rolls out SoFiUSD stablecoin to banking app users
+## 14. SoFi rolls out SoFiUSD stablecoin to banking app users
 
 **Author:** Brian Danga  
 **Published:** 5/27/2026, 11:00:00 AM  
@@ -131,7 +179,7 @@ SoFi rolls out bank-issued SoFiUSD stablecoin to 14.7 million members inside its
 
 ---
 
-## 11. Coinbase taps Standard Chartered to expand multi-currency funding rails for institutional clients
+## 15. Coinbase taps Standard Chartered to expand multi-currency funding rails for institutional clients
 
 **Author:** James Hunt  
 **Published:** 5/27/2026, 10:44:55 AM  
@@ -143,7 +191,7 @@ Coinbase also relaunched Direct Deposit for U.S. customers, allowing users to au
 
 ---
 
-## 12. Singapore charges ex-Hodlnaut CEO over allegedly misleading claims tied to Terra collapse, faces up to 20 years in prison
+## 16. Singapore charges ex-Hodlnaut CEO over allegedly misleading claims tied to Terra collapse, faces up to 20 years in prison
 
 **Author:** Timmy Shen  
 **Published:** 5/27/2026, 10:18:45 AM  
@@ -155,7 +203,7 @@ Authorities alleged that the former CEO distributed claims stating that the comp
 
 ---
 
-## 13. Spot bitcoin ETFs continue outflow streak amid $1.3 billion IBIT whale trade
+## 17. Spot bitcoin ETFs continue outflow streak amid $1.3 billion IBIT whale trade
 
 **Author:** Danny Park  
 **Published:** 5/27/2026, 9:47:26 AM  
@@ -167,7 +215,7 @@ Bitcoin ETFs saw $334 million in net outflows on Tuesday, driven by $192 million
 
 ---
 
-## 14. South Korea arrests suspects behind Solana memecoin CatFi in first rugpull case under new law
+## 18. South Korea arrests suspects behind Solana memecoin CatFi in first rugpull case under new law
 
 **Author:** Danny Park  
 **Published:** 5/27/2026, 8:58:37 AM  
@@ -179,7 +227,7 @@ By using fake social media channels, the suspects allegedly lured thousands into
 
 ---
 
-## 15. China’s top court to study judicial rules for crypto amid rise in related cases
+## 19. China’s top court to study judicial rules for crypto amid rise in related cases
 
 **Author:** Timmy Shen  
 **Published:** 5/27/2026, 7:28:37 AM  
@@ -188,29 +236,5 @@ By using fake social media channels, the suspects allegedly lured thousands into
 The judge's remark builds on a February joint notice that broadened the country's crackdown on crypto-related activities.
 
 📖 [Read original article](https://www.theblock.co/post/402692/china-crypto-judicial-rules?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. OpenZeppelin founder says he now considers ‘all of DeFi’ unsafe
-
-**Author:** Danny Park  
-**Published:** 5/27/2026, 5:50:54 AM  
-**Categories:** Crypto Ecosystems, DeFi, Security, Exploits, Hacks, openzeppelin  
-
-OpenZeppelin's Manuel Aráoz said he has been privately advising friends and family to exit all DeFi positions.
-
-📖 [Read original article](https://www.theblock.co/post/402687/openzeppelin-founder-all-defi-unsafe?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Pro-crypto Menefee unseats Al Green in Texas Democratic primary runoff, supported by Fairshake
-
-**Author:** Danny Park  
-**Published:** 5/27/2026, 3:12:20 AM  
-**Categories:** Lobbying, Policy, U.S. Policymaking, Al Green, Christian Menefee, PACs  
-
-This follows millions of dollars in crypto super PAC spending that backed Menefee and opposed Green, a vocal critic of crypto.
-
-📖 [Read original article](https://www.theblock.co/post/402678/pro-crypto-menefee-unseats-al-green-fairshake?utm_source=rss&utm_medium=rss)
 
 ---
