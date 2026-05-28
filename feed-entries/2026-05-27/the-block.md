@@ -2,12 +2,12 @@
 title: "The Block - 2026-05-27"
 date: "2026-05-27"
 source: "The Block"
-count: 19
+count: 14
 ---
 
 # The Block - 2026-05-27
 
-19 items collected.
+14 items collected.
 
 ---
 
@@ -176,65 +176,5 @@ The attacker minted 5.4 trillion vsdCRV on Arbitrum and is actively swapping tok
 SoFi rolls out bank-issued SoFiUSD stablecoin to 14.7 million members inside its app on Ethereum and Solana.
 
 📖 [Read original article](https://www.theblock.co/post/402361/sofi-rolls-out-sofiusd-stablecoin-to-banking-app-users?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Coinbase taps Standard Chartered to expand multi-currency funding rails for institutional clients
-
-**Author:** James Hunt  
-**Published:** 5/27/2026, 10:44:55 AM  
-**Categories:** Companies, Exchanges, Finance firms, Markets, Coinbase, TradFi banks  
-
-Coinbase also relaunched Direct Deposit for U.S. customers, allowing users to automatically allocate a portion of their paycheck to crypto.
-
-📖 [Read original article](https://www.theblock.co/post/402716/coinbase-standard-chartered-multi-currency-funding-rails?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Singapore charges ex-Hodlnaut CEO over allegedly misleading claims tied to Terra collapse, faces up to 20 years in prison
-
-**Author:** Timmy Shen  
-**Published:** 5/27/2026, 10:18:45 AM  
-**Categories:** Legal, Policy, Crime  
-
-Authorities alleged that the former CEO distributed claims stating that the company had not been impacted by the 2022 collapse of TerraUSD.
-
-📖 [Read original article](https://www.theblock.co/post/402711/singapore-charges-hodlnaut-former-ceo?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Spot bitcoin ETFs continue outflow streak amid $1.3 billion IBIT whale trade
-
-**Author:** Danny Park  
-**Published:** 5/27/2026, 9:47:26 AM  
-**Categories:** Funds, Markets, Token Projects, Bitcoin, Bitcoin ETF  
-
-Bitcoin ETFs saw $334 million in net outflows on Tuesday, driven by $192 million exiting BlackRock's IBIT.
-
-📖 [Read original article](https://www.theblock.co/post/402707/bitcoin-etf-outflows-ibit-whale-trade?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. South Korea arrests suspects behind Solana memecoin CatFi in first rugpull case under new law
-
-**Author:** Danny Park  
-**Published:** 5/27/2026, 8:58:37 AM  
-**Categories:** Crypto Ecosystems, Layer 1s, Legal, Markets, Policy, Token Projects, Crime, Solana, Tokens  
-
-By using fake social media channels, the suspects allegedly lured thousands into buying Solana memecoin CatFi, before abandoning the project.
-
-📖 [Read original article](https://www.theblock.co/post/402697/south-korea-first-rugpull-memecoin?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. China’s top court to study judicial rules for crypto amid rise in related cases
-
-**Author:** Timmy Shen  
-**Published:** 5/27/2026, 7:28:37 AM  
-**Categories:** Policy, Regulation, Asian Regulation, china  
-
-The judge's remark builds on a February joint notice that broadened the country's crackdown on crypto-related activities.
-
-📖 [Read original article](https://www.theblock.co/post/402692/china-crypto-judicial-rules?utm_source=rss&utm_medium=rss)
 
 ---
