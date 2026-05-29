@@ -2,12 +2,12 @@
 title: "The Block - 2026-05-28"
 date: "2026-05-28"
 source: "The Block"
-count: 13
+count: 10
 ---
 
 # The Block - 2026-05-28
 
-13 items collected.
+10 items collected.
 
 ---
 
@@ -128,41 +128,5 @@ Securitize launched VanEck's VBILL as a collateral asset in an Euler lending mar
 Sequans said its remaining 658 BTC are now fully unrestricted after completing all convertible debt redemptions.
 
 📖 [Read original article](https://www.theblock.co/post/402883/sequans-completes-bitcoin-treasury-unwind-refocuses-iot-semiconductors?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. JPMorgan says bitcoin and gold ETF outflows point to ‘cooling’ debasement trade amid hopes for Iran-US deal
-
-**Author:** Yogita Khatri  
-**Published:** 5/28/2026, 2:14:17 PM  
-**Categories:** Companies, Finance firms, Market Updates, Markets, Token Projects, Bitcoin, Investment Firms, JPMorgan, Tokens, TradFi banks  
-
-Both bitcoin and gold ETFs have seen outflows over the past two weeks as the debasement trade cools, according to JPMorgan analysts.
-
-📖 [Read original article](https://www.theblock.co/post/402888/jpmorgan-bitcoin-gold-etf-outflows-cooling-debasement-trade-hopes-iran-us-deal?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. VanEck debuts first US spot BNB ETF in latest crypto investment product expansion
-
-**Author:** James Hunt  
-**Published:** 5/28/2026, 1:23:13 PM  
-**Categories:** Companies, Crypto Ecosystems, Funds, Layer 1s, Markets, Token Projects, BNB, BNB Chain  
-
-VanEck's VBNB joins a growing roster of spot crypto ETFs since the first U.S. Bitcoin products launched in 2024.
-
-📖 [Read original article](https://www.theblock.co/post/402874/vaneck-debuts-first-us-spot-bnb-etf-latest-crypto-investment-product-expansion?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Standard Chartered compares Ethereum to Amazon during 2001 dot-com bubble burst, says ETH will catch up to internal metrics
-
-**Author:** Yogita Khatri  
-**Published:** 5/28/2026, 12:27:14 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Finance firms, Layer 1s, Market Updates, Markets, Token Projects, Web3, Assets, Bitcoin, Crypto, Ethereum, Protocols, Tokenization, Tokens, TradFi banks  
-
-Standard Chartered Bank has maintained its ether price targets of $4,000 by end-2026 and $40,000 by end-2030.
-
-📖 [Read original article](https://www.theblock.co/post/402864/standard-chartered-ethereum-amazon-dot-com-bubble-eth-will-catch-up?utm_source=rss&utm_medium=rss)
 
 ---
