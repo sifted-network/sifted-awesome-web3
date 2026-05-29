@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-05-28"
 date: "2026-05-28"
 source: "CoinDesk"
-count: 25
+count: 19
 ---
 
 # CoinDesk - 2026-05-28
 
-25 items collected.
+19 items collected.
 
 ---
 
@@ -71,7 +71,7 @@ Bitwise says investor demand for Hyperliquid exposure is surging as new HYPE ETF
 
 ---
 
-## 6. Hyperliquid's pre-IPO SpaceX contracts suffers 45% flash crash, liquidating $1.5 million
+## 6. Hyperliquid's pre-IPO SpaceX contracts suffer 45% flash crash, liquidating $1.5 million
 
 **Author:** Oliver Knight  
 **Published:** 5/28/2026, 5:28:57 PM  
@@ -236,77 +236,5 @@ The firm said it purchased 8,568 ether on May 11 at an average price of $2,334. 
 As bitcoin and gold momentum fades, investor flows are increasingly rotating into AI infrastructure, semiconductor and memory-related equities.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/what-s-next-as-hot-money-cycle-has-gone-from-crypto-to-gold-to-ai-to-memory)
-
----
-
-## 20. CoinDesk 20 performance update: Stellar (XLM) jumps 10.5% as nearly all assets fall
-
-**Author:** CoinDesk Indices  
-**Published:** 5/28/2026, 1:12:41 PM  
-**Categories:** CoinDesk Indices, CoinDesk Indices, CoinDesk 20, charts, Prices, News  
-
-NEAR Protocol (NEAR) declined 12.2% while Bitcoin Cash (BCH) dropped 12.1%, leading the index lower.
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/05/28/coindesk-20-performance-update-stellar-xlm-jumps-10-5-as-nearly-all-assets-fall)
-
----
-
-## 21. VanEck's tokenized fund lands on Euler as DeFi courts Wall Street institutions
-
-**Author:** Krisztian Sandor  
-**Published:** 5/28/2026, 11:58:47 AM  
-**Categories:** Finance, Tokenization, DeFi, Exclusive, News  
-
-DeFi protocols are increasingly adapting to host regulated, tokenized assets as tokenization is projected to bring trillions of dollars onchain.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/05/27/vaneck-s-tokenized-fund-lands-on-euler-as-defi-courts-wall-street-institutions)
-
----
-
-## 22. U.S.-Iran strikes rattle global markets, send bitcoin to 6-week low
-
-**Author:** Francisco Rodrigues  
-**Published:** 5/28/2026, 11:28:08 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for May 28, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/05/28/u-s-iran-strikes-rattle-global-markets-send-bitcoin-to-6-week-low)
-
----
-
-## 23. Samsung units to buy $408 million stake in South Korea’s biggest crypto exchange
-
-**Author:** Jamie Crawley  
-**Published:** 5/28/2026, 10:55:19 AM  
-**Categories:** Finance, South Korea, mergers and acquisitions, News  
-
-Samsung Securities is set to take a 2% stake in Dunamu, worth over $200 million, from affiliates of technology conglomerate Kakao.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/05/28/samsung-is-buying-a-usd446-million-stake-in-south-korea-s-biggest-crypto-exchange)
-
----
-
-## 24. Standard Chartered backs $4,000 ether as retail piles into the sub-$2,000 drop
-
-**Author:** Shaurya Malwa  
-**Published:** 5/28/2026, 10:48:26 AM  
-**Categories:** Markets, Ethereum News, Markets, News  
-
-The bank says onchain metrics will pull the price back up, just as Amazon's stock price recovered after 2001. A retail dip-buying frenzy and a record futures short build say the bottom isn't in yet.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/standard-chartered-backs-usd4-000-ether-as-retail-piles-into-the-sub-usd2-000-drop)
-
----
-
-## 25. Bitcoin’s famous CME gaps are about to disappear, though three remain unresolved
-
-**Author:** James Van Straten,Oliver Knight  
-**Published:** 5/28/2026, 10:47:22 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-The launch of round-the-clock bitcoin futures trading eliminates the long-standing CME weekend gap and marks another step toward fully integrated institutional crypto markets.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/bitcoin-s-famous-cme-gaps-are-about-to-disappear-though-three-remain-unresolved)
 
 ---
