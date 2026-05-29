@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-05-29"
 date: "2026-05-29"
 source: "Cointelegraph"
-count: 13
+count: 20
 ---
 
 # Cointelegraph - 2026-05-29
 
-13 items collected.
+20 items collected.
 
 ---
 
-## 1. Why is Stellar's XLM up by over 50% this week?
+## 1. Sui network temporarily stalls again after Thursday's outage
+
+**Author:** Cointelegraph by Vince Quill  
+**Published:** 5/29/2026, 6:46:50 PM  
+**Categories:** Latest News  
+
+The outage was caused by the same network update software bug that disrupted the protocol on Thursday, which resulted in nearly six hours of downtime.
+
+📖 [Read original article](https://cointelegraph.com/news/sui-temporary-stall-several-hours-second-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Coinbase brings global crypto derivatives markets to US institutional clients
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 5/29/2026, 5:56:33 PM  
+**Categories:** Latest News  
+
+The exchange's integration with Deribit gives eligible US institutional investors access to global crypto options and perpetual futures markets.
+
+📖 [Read original article](https://cointelegraph.com/news/coinbase-regulated-access-global-crypto-perpetual-futures-options-us-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Bitcoin plums new six-week lows as analyst eyes BTC price dip 'end' at $72K
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 5/29/2026, 5:03:12 PM  
+**Categories:** Markets  
+
+Bitcoin saw its lowest levels since the middle of April as BTC price action continued ot diverge from thriving US stock markets.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-plums-new-six-week-lows-as-analyst-eyes-btc-price-dip-end-at-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Ex-Celsius CEO files motion to vacate sentence after lawyers withdraw
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 5/29/2026, 4:58:50 PM  
+**Categories:** Latest News  
+
+Former CEO Alex Mashinsky filed documents seeking to vacate his 12-year sentence, which included claims involving FTX and a “hostile takeover” by a former Celsius executive, who was sentenced to time served.
+
+📖 [Read original article](https://cointelegraph.com/news/celsius-alex-mashinsky-motion-vacate-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Ethereum analysts say ‘downside pressure’ remains as $1.8K becomes key
+
+**Author:** Cointelegraph by Nancy Lubale  
+**Published:** 5/29/2026, 3:50:08 PM  
+**Categories:** Markets  
+
+Analysts warn Ether’s downside risks remain elevated as traders closely watch the $1,800 support zone for stability.
+
+📖 [Read original article](https://cointelegraph.com/markets/analysts-say-ethereums-downside-pressure-remains-as-18k-becomes-key?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Cointelegraph  
+**Published:** 5/29/2026, 2:28:38 PM  
+**Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Bitcoin ETFs bleed $2.8B in record nine-day outflow streak
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 5/29/2026, 2:20:32 PM  
+**Categories:** Latest News  
+
+Spot Bitcoin ETFs recorded a nine-day outflow streak totaling $2.84 billion, surpassing an eight-session outflow run in February 2025.
+
+📖 [Read original article](https://cointelegraph.com/news/bitcoin-etfs-longest-outflow-streak-institutional-demand-cools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Why is Stellar's XLM up by over 50% this week?
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 5/29/2026, 1:34:59 PM  
@@ -23,7 +107,7 @@ XLM rallied after US financial giant DTCC announced a partnership with the Stell
 
 ---
 
-## 2. NYSE parent ICE pushes ‘level playing field’ for 24/7 onchain perps
+## 9. NYSE parent ICE pushes ‘level playing field’ for 24/7 onchain perps
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/29/2026, 1:25:20 PM  
@@ -35,7 +119,7 @@ ICE’s CEO said regulators need to create a “level playing field” for launc
 
 ---
 
-## 3. Bitcoin falls out of the global top 10 assets as market cap dips below $1.5T
+## 10. Bitcoin falls out of the global top 10 assets as market cap dips below $1.5T
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/29/2026, 12:09:23 PM  
@@ -47,7 +131,7 @@ Bitcoin’s market cap has dropped below $1.5 trillion, pushing it out of the wo
 
 ---
 
-## 4. Strategy situation ‘out of hand,’ says Arca exec on $15B preferred stock burden
+## 11. Strategy situation ‘out of hand,’ says Arca exec on $15B preferred stock burden
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 5/29/2026, 12:05:09 PM  
@@ -59,7 +143,7 @@ Strategy’s capital structure may be under pressure as Arca’s Jeff Dorman hig
 
 ---
 
-## 5. Texas Bitcoin reserve plans shift from ETF to direct BTC custody
+## 12. Texas Bitcoin reserve plans shift from ETF to direct BTC custody
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/29/2026, 11:39:38 AM  
@@ -71,7 +155,7 @@ Texas is hiring a crypto custodian to move its $10 million Strategic Bitcoin Res
 
 ---
 
-## 6. DxSale drained for $7.3M in BNB Chain liquidity exploit
+## 13. DxSale drained for $7.3M in BNB Chain liquidity exploit
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/29/2026, 10:42:38 AM  
@@ -83,7 +167,7 @@ DxSale was drained for about $7.3 million from BNB Chain liquidity providers, ra
 
 ---
 
-## 7. OKX Ventures, Korea Investment & Securities to buy 19.6% Coinone stake for $106M
+## 14. OKX Ventures, Korea Investment & Securities to buy 19.6% Coinone stake for $106M
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/29/2026, 8:31:00 AM  
@@ -95,7 +179,7 @@ OKX Ventures and KIS to invest $53 million each for a 19.6% stake in Coinone, de
 
 ---
 
-## 8. SEC approves Paxos as ‘blockchain-native’ clearing agency
+## 15. SEC approves Paxos as ‘blockchain-native’ clearing agency
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/29/2026, 5:37:25 AM  
@@ -107,7 +191,7 @@ Paxos says its approval as a blockchain-focused clearing agency represents a “
 
 ---
 
-## 9. Bitcoin’s major holders halt buys as demand slows: CryptoQuant
+## 16. Bitcoin’s major holders halt buys as demand slows: CryptoQuant
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/29/2026, 4:33:46 AM  
@@ -119,7 +203,7 @@ CryptoQuant says that the holding structure for large Bitcoin holders is deterio
 
 ---
 
-## 10. Sui Network back online after ‘crash bug’ causes 6-hour outage
+## 17. Sui Network back online after ‘crash bug’ causes 6-hour outage
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 5/29/2026, 4:08:41 AM  
@@ -131,7 +215,7 @@ The Sui mainnet has resumed after a bug in a network update took it offline for 
 
 ---
 
-## 11. Bitcoin’s trapped under $74K while $9B options expiry looms: Are bears back in control?
+## 18. Bitcoin’s trapped under $74K while $9B options expiry looms: Are bears back in control?
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 5/29/2026, 3:44:40 AM  
@@ -143,7 +227,7 @@ Bears hold the upper hand for Friday's $9 billion options expiry, keeping Bitcoi
 
 ---
 
-## 12. Buy $72K dip, or jump ship: What will Bitcoin bulls do?
+## 19. Buy $72K dip, or jump ship: What will Bitcoin bulls do?
 
 **Author:** Cointelegraph by Antonio Oliveira  
 **Published:** 5/29/2026, 1:10:12 AM  
@@ -155,7 +239,7 @@ Investors selling across spot, futures and ETF markets pushed Bitcoin into its m
 
 ---
 
-## 13. Gemini taps Grok for personalized AI-powered prediction market feeds
+## 20. Gemini taps Grok for personalized AI-powered prediction market feeds
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 5/29/2026, 12:59:09 AM  
