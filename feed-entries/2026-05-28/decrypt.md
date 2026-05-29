@@ -2,16 +2,52 @@
 title: "Decrypt - 2026-05-28"
 date: "2026-05-28"
 source: "Decrypt"
-count: 14
+count: 17
 ---
 
 # Decrypt - 2026-05-28
 
-14 items collected.
+17 items collected.
 
 ---
 
-## 1. Apple iOS 27 Leaks: Siri Is Being Remade to Be More Like ChatGPT
+## 1. Anthropic Nears $1 Trillion Valuation, Topping OpenAI After Fresh $65 Billion Raise
+
+**Author:** Jason Nelson  
+**Published:** 5/28/2026, 8:51:52 PM  
+**Categories:** Artificial Intelligence  
+
+Claude maker Anthropic said annualized revenue surpassed $47 billion as it expands cloud and compute partnerships.
+
+📖 [Read original article](https://decrypt.co/369434/anthropic-nears-1-trillion-valuation-topping-openai-65-billion-raise)
+
+---
+
+## 2. AI Agents Are Learning to Predict What Users Want—Before They Ask for It
+
+**Author:** Jason Nelson  
+**Published:** 5/28/2026, 8:24:53 PM  
+**Categories:** Artificial Intelligence  
+
+Researchers in China built a model that uses an AI’s downtime to prepare for users’ next question before they ask it.
+
+📖 [Read original article](https://decrypt.co/369382/ai-agents-learning-predict-what-users-want-before-ask)
+
+---
+
+## 3. Sui Network Goes Down for Hours, Just Months After the Last Downtime
+
+**Author:** Logan Hitchcock  
+**Published:** 5/28/2026, 8:09:41 PM  
+**Categories:** Technology  
+
+Blockchain network Sui is suffering another period of significant downtime barely five months after the last "network stall."
+
+📖 [Read original article](https://decrypt.co/369414/sui-network-down-hours-months-after-last-downtime)
+
+---
+
+## 4. Apple iOS 27 Leaks: Siri Is Being Remade to Be More Like ChatGPT
 
 **Author:** Jose Antonio Lanz  
 **Published:** 5/28/2026, 7:50:44 PM  
@@ -23,7 +59,7 @@ Rendered illustrations published ahead of WWDC 2026 reveal a dedicated Siri app,
 
 ---
 
-## 2. Kalshi Sues to Stop Minnesota From Enforcing America’s First Prediction Market Ban
+## 5. Kalshi Sues to Stop Minnesota From Enforcing America’s First Prediction Market Ban
 
 **Author:** Sander Lutz  
 **Published:** 5/28/2026, 7:07:33 PM  
@@ -35,7 +71,7 @@ Prediction market giant Kalshi has asked a federal judge to prevent Minnesota fr
 
 ---
 
-## 3. Anthropic's Claude Opus 4.8 Is Here: Better AI Coding, Smarter Safety—Same Huge Price
+## 6. Anthropic's Claude Opus 4.8 Is Here: Better AI Coding, Smarter Safety—Same Huge Price
 
 **Author:** Jose Antonio Lanz  
 **Published:** 5/28/2026, 6:45:39 PM  
@@ -47,7 +83,7 @@ Anthropic's latest flagship AI model Claude Opus 4.8 arrives with sharper reason
 
 ---
 
-## 4. Anthropic's Claude Mythos AI Model Nearing Release After Raising Cybersecurity Alarms
+## 7. Anthropic's Claude Mythos AI Model Nearing Release After Raising Cybersecurity Alarms
 
 **Author:** Jason Nelson  
 **Published:** 5/28/2026, 6:27:39 PM  
@@ -59,7 +95,7 @@ Anthropic signaled that broader access to its controversial Claude Mythos AI mod
 
 ---
 
-## 5. Bitcoin Whales Are Pulling Back as Activity 'Mirrors' 2022 Bear Market: Analysts
+## 8. Bitcoin Whales Are Pulling Back as Activity 'Mirrors' 2022 Bear Market: Analysts
 
 **Author:** Logan Hitchcock  
 **Published:** 5/28/2026, 5:58:54 PM  
@@ -71,7 +107,7 @@ Current Bitcoin whale activity is similar in nature to the last bear market in 2
 
 ---
 
-## 6. What the Clarity Act Means for the Rest of the World
+## 9. What the Clarity Act Means for the Rest of the World
 
 **Author:** Sander Lutz  
 **Published:** 5/28/2026, 5:52:49 PM  
@@ -83,7 +119,7 @@ The Senate’s crypto bill has supporters excited—and opponents concerned—ab
 
 ---
 
-## 7. Google Engineer Charged Over $2.75 Million in Alleged Polymarket Insider Trading Bets
+## 10. Google Engineer Charged Over $2.75 Million in Alleged Polymarket Insider Trading Bets
 
 **Author:** Vince Dioquino  
 **Published:** 5/28/2026, 4:27:22 PM  
@@ -95,7 +131,7 @@ The Google employee case is the second federal prosecution tied to alleged predi
 
 ---
 
-## 8. Standard Chartered Reaffirms $40K Ethereum Price Target Due to DeFi Dominance
+## 11. Standard Chartered Reaffirms $40K Ethereum Price Target Due to DeFi Dominance
 
 **Author:** André Beganski  
 **Published:** 5/28/2026, 3:46:40 PM  
@@ -107,7 +143,7 @@ Analysts compared Ethereum's current position to Amazon following the dot-com bu
 
 ---
 
-## 9. Bitcoin Traders Increasingly Convinced Price Will Fall Below $70K by End of May
+## 12. Bitcoin Traders Increasingly Convinced Price Will Fall Below $70K by End of May
 
 **Author:** Logan Hitchcock  
 **Published:** 5/28/2026, 3:21:43 PM  
@@ -119,7 +155,7 @@ Prediction market odds are rising for Bitcoin to drop below $70,000 in the next 
 
 ---
 
-## 10. This AI Compressed 'All Human Cooking' Into 2 Megabytes
+## 13. This AI Compressed 'All Human Cooking' Into 2 Megabytes
 
 **Author:** Jose Antonio Lanz  
 **Published:** 5/28/2026, 3:07:02 PM  
@@ -131,7 +167,7 @@ A London startup trained an AI on 4.1 million recipes across seven languages—a
 
 ---
 
-## 11. Prediction Market Myriad Launches $100K World Cup Competition
+## 14. Prediction Market Myriad Launches $100K World Cup Competition
 
 **Author:** Decrypt Staff  
 **Published:** 5/28/2026, 2:16:37 PM  
@@ -143,7 +179,7 @@ A prize pool of over $100,000 is available for top traders and makers on predict
 
 ---
 
-## 12. Morning Minute: Crypto Majors Slide on Iran Escalations, ETF Outflows
+## 15. Morning Minute: Crypto Majors Slide on Iran Escalations, ETF Outflows
 
 **Author:** Tyler Warner  
 **Published:** 5/28/2026, 12:32:55 PM  
@@ -155,7 +191,7 @@ Massive ETF outflows just sent crypto sharply lower. Jefferies says the next cry
 
 ---
 
-## 13. Bitcoin Slips Under $73K as Crypto Liquidations Near $1B
+## 16. Bitcoin Slips Under $73K as Crypto Liquidations Near $1B
 
 **Author:** Akash Girimath  
 **Published:** 5/28/2026, 10:39:44 AM  
@@ -167,7 +203,7 @@ The near-$1 billion crypto liquidation spree comes amid rising tensions over the
 
 ---
 
-## 14. CFTC, Gemini File Joint Motion to Reverse $5M Settlement
+## 17. CFTC, Gemini File Joint Motion to Reverse $5M Settlement
 
 **Author:** Decrypt Agent  
 **Published:** 5/28/2026, 9:47:27 AM  
