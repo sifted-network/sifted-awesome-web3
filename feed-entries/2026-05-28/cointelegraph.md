@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-28"
 date: "2026-05-28"
 source: "Cointelegraph"
-count: 23
+count: 17
 ---
 
 # Cointelegraph - 2026-05-28
 
-23 items collected.
+17 items collected.
 
 ---
 
@@ -155,19 +155,7 @@ Argentina’s proposed online gambling bill would restrict banks, payment firms 
 
 ---
 
-## 13. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 5/28/2026, 2:59:00 PM  
-**Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. ERC-7943 author says institutions can’t play DeFi’s ‘pirate game’
+## 13. ERC-7943 author says institutions can’t play DeFi’s ‘pirate game’
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 5/28/2026, 2:45:44 PM  
@@ -179,7 +167,7 @@ RWA standard ERC-7943 reaches final stage as Ethereum builders rethink how insti
 
 ---
 
-## 15. StanChart says Ethereum price will catch up to bullish internal metrics
+## 14. StanChart says Ethereum price will catch up to bullish internal metrics
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/28/2026, 2:26:25 PM  
@@ -191,7 +179,7 @@ Standard Chartered reaffirms bullish Ether price targets, citing strong network 
 
 ---
 
-## 16. Bitcoin bids farewell to CME futures gaps with $67K still on radar
+## 15. Bitcoin bids farewell to CME futures gaps with $67K still on radar
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 5/28/2026, 1:52:26 PM  
@@ -203,7 +191,7 @@ Bitcoin approached the final week of CME futures gaps with several still open, p
 
 ---
 
-## 17. XRP drops to 16-week lows: Can price fall below $1?
+## 16. XRP drops to 16-week lows: Can price fall below $1?
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/28/2026, 1:40:07 PM  
@@ -215,7 +203,7 @@ XRP breaks key support at $1.30 as bearish technical setups and weak investor se
 
 ---
 
-## 18. Aave Labs’ Push gains UK FCA crypto registration
+## 17. Aave Labs’ Push gains UK FCA crypto registration
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/28/2026, 1:28:01 PM  
@@ -224,65 +212,5 @@ XRP breaks key support at $1.30 as bearish technical setups and weak investor se
 Aave Labs’ Push received FCA approval for “certain cryptoasset activities” in the UK, supporting its plans for regulated stablecoin on- and off-ramping.
 
 📖 [Read original article](https://cointelegraph.com/news/aave-labs-push-gains-uk-fca-crypto-registration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Samsung units take $408M stake in Upbit operator Dunamu: Report
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 5/28/2026, 12:50:07 PM  
-**Categories:** Latest News  
-
-Samsung Securities, SDS and Card will buy 4% of Dunamu as Korean firms prepare for tokenized securities and stablecoin frameworks.
-
-📖 [Read original article](https://cointelegraph.com/news/samsung-dunamu-stake-upbit-digital-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Ethereum under $2K: ETH whales sell as retail remains bullish
-
-**Author:** Cointelegraph by Yashu Gola  
-**Published:** 5/28/2026, 12:49:31 PM  
-**Categories:** Markets  
-
-ETH's price has entered a decisive breakdown stage of its prevailing technical pattern, indicating further declines toward $1,750 despite strong retail sentiment.
-
-📖 [Read original article](https://cointelegraph.com/markets/ethereum-under-2k-eth-whales-sell-as-retail-remains-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. BlackRock Bitcoin ETF sees near-record outflows as BTC dips below $75K
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 5/28/2026, 12:22:53 PM  
-**Categories:** Latest News  
-
-US spot Bitcoin ETFs have turned negative year-to-date with $596 million in outflows as IBIT posted near-record withdrawals and Bitcoin fell below $75,000.
-
-📖 [Read original article](https://cointelegraph.com/news/blackrocks-bitcoin-etf-ibit-near-record-outflows-btc-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Mystery Bitcoin burn destroys 107 BTC worth about $8.5M
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 5/28/2026, 12:09:09 PM  
-**Categories:** Latest News  
-
-An unknown entity burned $8.5 million worth of Bitcoin after 12 years of holding, rendering the BTC unspendable, despite its price increasing by 12,700%.
-
-📖 [Read original article](https://cointelegraph.com/news/unknown-sender-burns-107-btc-unexplained-bitcoin-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. Polymarket exec says KYC limited to beta product, not existing platform
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 5/28/2026, 10:30:44 AM  
-**Categories:** Latest News  
-
-Polymarket executive Josh Stevens said identity checks apply only to early beta access and are not being added to Polymarket’s existing platform.
-
-📖 [Read original article](https://cointelegraph.com/news/polymarket-exec-says-kyc-limited-to-beta-product-not-existing-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
