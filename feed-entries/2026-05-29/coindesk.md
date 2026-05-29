@@ -2,16 +2,76 @@
 title: "CoinDesk - 2026-05-29"
 date: "2026-05-29"
 source: "CoinDesk"
-count: 15
+count: 20
 ---
 
 # CoinDesk - 2026-05-29
 
-15 items collected.
+20 items collected.
 
 ---
 
-## 1. What American crypto asset perpetuals mean for the future of crypto
+## 1. ‘The banks will not accept it’: Dimon escalates battle over stablecoin rewards in CLARITY Act debate
+
+**Author:** Helene Braun,AI Boost  
+**Published:** 5/29/2026, 8:03:52 PM  
+**Categories:** Policy, Coinbase, News  
+
+JPMorgan CEO Jamie Dimon criticized Coinbase CEO Brian Armstrong and warned the current CLARITY Act framework could ultimately fail, as banks and crypto firms clash over whether stablecoin issuers should be allowed to offer yield-bearing rewards that resemble bank deposits.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/05/29/the-banks-will-not-accept-it-dimon-escalates-battle-over-stablecoin-rewards-in-clarity-act-debate)
+
+---
+
+## 2. U.S. regulator says 24/7 trading is great for crypto, may not be fit for other sectors
+
+**Author:** Jesse Hamilton  
+**Published:** 5/29/2026, 4:29:42 PM  
+**Categories:** Policy, Regulation, News  
+
+As the CFTC issued landmark approvals for crypto perpetual futures contracts, it explained in a related advisory that round-the-clock activity isn't right for all.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/05/29/u-s-regulator-says-24-7-trading-is-great-for-crypto-may-not-be-fit-for-other-sectors)
+
+---
+
+## 3. Mass deployment of AI agents is a disaster waiting to happen, says CertiK CEO
+
+**Author:** Olivier Acuna  
+**Published:** 5/29/2026, 3:31:07 PM  
+**Categories:** Tech, Artificial Intelligence, News  
+
+Ronghui Gu shares tips on how to isolate AI agents while testing them so they do not have access to critical personal information or digital assets.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/05/29/mass-deployment-of-ai-agents-is-a-disaster-waiting-to-happen-says-certik-ceo)
+
+---
+
+## 4. Clarity Act Risks Regulation Without Oversight, Brookings Fellow Says
+
+**Author:** AI Boost  
+**Published:** 5/29/2026, 3:14:55 PM  
+**Categories:** Policy, Media Network Interview, Clarity Act, CFTC, Regulation, News  
+
+As Congress weighs crypto legislation, Aaron Klein says the CFTC needs more resources, independence and coordination to oversee digital markets.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/05/29/clarity-act-risks-regulation-without-oversight-brookings-fellow-says)
+
+---
+
+## 5. Live markets: Bitcoin shrugs off early decline, but two-month winning streak is in jeopardy
+
+**Author:** Stephen Alpher  
+**Published:** 5/29/2026, 2:50:50 PM  
+**Categories:** Markets, Bitcoin News, Live News, live_news  
+
+A hopeful posting on Iran from President Trump helped erase morning losses.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/05/29/live-markets-bitcoin-slides-further-putting-two-month-winning-streak-in-jeopardy)
+
+---
+
+## 6. What American crypto asset perpetuals mean for the future of crypto
 
 **Author:** Michael S. Selig  
 **Published:** 5/29/2026, 2:00:00 PM  
@@ -23,7 +83,7 @@ For years, one of the most significant crypto asset markets has existed entirely
 
 ---
 
-## 2. U.S. CFTC opens crypto 'perp' door with first approvals at Kalshi, Coinbase
+## 7. U.S. CFTC opens crypto 'perp' door with first approvals at Kalshi, Coinbase
 
 **Author:** Jesse Hamilton  
 **Published:** 5/29/2026, 2:00:00 PM  
@@ -35,7 +95,7 @@ The Commodity Futures Trading Commission has now established a stance on how reg
 
 ---
 
-## 3. CoinDesk 20 performance update: Bittensor (TAO) drops 4%, leading index lower
+## 8. CoinDesk 20 performance update: Bittensor (TAO) drops 4%, leading index lower
 
 **Author:** CoinDesk Indices  
 **Published:** 5/29/2026, 1:15:09 PM  
@@ -47,7 +107,7 @@ Internet Computer (ICP), down 3.8%, was also an underperformer.
 
 ---
 
-## 4. Paxos wins SEC approval to clear U.S. stocks on blockchain
+## 9. Paxos wins SEC approval to clear U.S. stocks on blockchain
 
 **Author:** Olivier Acuna  
 **Published:** 5/29/2026, 12:28:24 PM  
@@ -59,7 +119,7 @@ Paxos new license positions it alongside legacy giants such as DTCC and makes it
 
 ---
 
-## 5. Hyperliquid bigger than NASDAQ, says ICE CEO Jeffrey Sprecher
+## 10. Hyperliquid bigger than NASDAQ, says ICE CEO Jeffrey Sprecher
 
 **Author:** Shaurya Malwa  
 **Published:** 5/29/2026, 12:05:09 PM  
@@ -71,7 +131,7 @@ Sprecher saluted Hyperliquid's team, signaling deeper engagement between Wall St
 
 ---
 
-## 6. Bitcoin underperforms risk assets as record 9th day of ETF outflows signal waning demand
+## 11. Bitcoin underperforms risk assets as record 9th day of ETF outflows signal waning demand
 
 **Author:** Francisco Rodrigues  
 **Published:** 5/29/2026, 11:15:00 AM  
@@ -83,7 +143,7 @@ Your day-ahead look for May 29, 2026
 
 ---
 
-## 7. Bitcoin ETF outflows reach record 9-day streak as investors pull $2.8 billion
+## 12. Bitcoin ETF outflows reach record 9-day streak as investors pull $2.8 billion
 
 **Author:** James Van Straten  
 **Published:** 5/29/2026, 10:38:47 AM  
@@ -95,7 +155,7 @@ The longest run of withdrawals since U.S. spot bitcoin ETFs listed in January 20
 
 ---
 
-## 8. Bitcoin slides to April lows as crypto diverges from record-chasing U.S. equities
+## 13. Bitcoin slides to April lows as crypto diverges from record-chasing U.S. equities
 
 **Author:** Oliver Knight,Saksham Diwan  
 **Published:** 5/29/2026, 10:29:14 AM  
@@ -107,7 +167,7 @@ Bitcoin's failed breakout above $83,000 is looking increasingly like a bear mark
 
 ---
 
-## 9. Kalshi follows CFTC in suing Minnesota over law criminalizing prediction markets
+## 14. Kalshi follows CFTC in suing Minnesota over law criminalizing prediction markets
 
 **Author:** Olivier Acuna  
 **Published:** 5/29/2026, 9:59:39 AM  
@@ -119,7 +179,7 @@ The Governor of Minnesota signed into law a measure that, starting Aug. 1, makes
 
 ---
 
-## 10. Strategy's STRC slips below $99 as Strive captures investor attention
+## 15. Strategy's STRC slips below $99 as Strive captures investor attention
 
 **Author:** James Van Straten  
 **Published:** 5/29/2026, 9:10:49 AM  
@@ -131,7 +191,7 @@ STRC has struggled to maintain its $100 target price, while Strategy's reduced c
 
 ---
 
-## 11. Solana, Sui and Aptos wallet data targeted in TrapDoor package attack
+## 16. Solana, Sui and Aptos wallet data targeted in TrapDoor package attack
 
 **Author:** Shaurya Malwa  
 **Published:** 5/29/2026, 8:19:42 AM  
@@ -143,7 +203,7 @@ The campaign targets crypto, DeFi, AI and security developers with fake tooling 
 
 ---
 
-## 12. OKX Ventures buys $53 million stake in Korea's Coinone exchange
+## 17. OKX Ventures buys $53 million stake in Korea's Coinone exchange
 
 **Author:** Sam Reynolds  
 **Published:** 5/29/2026, 6:07:27 AM  
@@ -155,7 +215,7 @@ The crypto exchange's investment arm and Korea Investment & Securities will each
 
 ---
 
-## 13. XRP rebounds above $1.30 after volume surge, but bears still control the bigger picture
+## 18. XRP rebounds above $1.30 after volume surge, but bears still control the bigger picture
 
 **Author:** Shaurya Malwa  
 **Published:** 5/29/2026, 5:01:02 AM  
@@ -167,7 +227,7 @@ XRP snapped a streak of lower lows on heavy buying, though the token remains stu
 
 ---
 
-## 14. Bitcoin, ether little-changed despite record stocks, falling oil and easing war fears
+## 19. Bitcoin, ether little-changed despite record stocks, falling oil and easing war fears
 
 **Author:** Shaurya Malwa  
 **Published:** 5/29/2026, 4:41:55 AM  
@@ -179,7 +239,7 @@ Global stocks hit records and oil cracked on a tentative US-Iran ceasefire exten
 
 ---
 
-## 15. Bitcoin's record holder supply hides a buyer drought, CryptoQuant says
+## 20. Bitcoin's record holder supply hides a buyer drought, CryptoQuant says
 
 **Author:** Sam Reynolds  
 **Published:** 5/29/2026, 4:23:22 AM  
