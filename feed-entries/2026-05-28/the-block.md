@@ -2,12 +2,12 @@
 title: "The Block - 2026-05-28"
 date: "2026-05-28"
 source: "The Block"
-count: 10
+count: 6
 ---
 
 # The Block - 2026-05-28
 
-10 items collected.
+6 items collected.
 
 ---
 
@@ -80,53 +80,5 @@ Tether’s USA₮ supply grew six-fold month-over-month to over 140 million toke
 Hyperliquid-based prop trading platform Hypernova says it offers "instant payouts" and plans to publicly launch within the next two months.
 
 📖 [Read original article](https://www.theblock.co/post/402923/hyperliquid-prop-trading-platform-hypernova-crypto-funding?utm_source=rss&utm_medium=rss)
-
----
-
-## 7. Grayscale’s Hyperliquid ETF negotiating ‘seed’ investment of roughly $115 million in HYPE tokens
-
-**Author:** RT Watson  
-**Published:** 5/28/2026, 4:22:03 PM  
-**Categories:** Funds, Markets, hype, hyperliquid etf  
-
-Earlier this month, 21Shares and Bitwise Investments became the first firms to launch HYPE-based exchange-traded funds.
-
-📖 [Read original article](https://www.theblock.co/post/402903/grayscale-hyperliquid-etf-negotiating-seed-investment-115-million-hype-tokens?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. Sui blockchain experiences second ‘stall’ in five months
-
-**Author:** Daniel Kuhn  
-**Published:** 5/28/2026, 3:43:18 PM  
-**Categories:** Crypto Ecosystems, Infrastructure, Layer 1s, Security, Sui  
-
-Sui said the blockchain is experiencing a "network stall," as block explorers show the protocol has not produced a block in nearly 2 hours.
-
-📖 [Read original article](https://www.theblock.co/post/402907/sui-blockchain-experiences-second-stall-in-five-months?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. VanEck’s tokenized VBILL US Treasury fund can now be used as collateral on Euler
-
-**Author:** Daniel Kuhn  
-**Published:** 5/28/2026, 3:37:48 PM  
-**Categories:** Crypto Ecosystems, DeFi, Web3, Decentralized Infrastructure, Lending, Tokenization  
-
-Securitize launched VanEck's VBILL as a collateral asset in an Euler lending market curated by KPK on Thursday.
-
-📖 [Read original article](https://www.theblock.co/post/402904/vaneck-tokenized-vbill-us-treasury-fund-collateral-euler?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Sequans completes bitcoin treasury unwind, refocuses on IoT semiconductors
-
-**Author:** Kyle Baird  
-**Published:** 5/28/2026, 2:48:03 PM  
-**Categories:** The Block  
-
-Sequans said its remaining 658 BTC are now fully unrestricted after completing all convertible debt redemptions.
-
-📖 [Read original article](https://www.theblock.co/post/402883/sequans-completes-bitcoin-treasury-unwind-refocuses-iot-semiconductors?utm_source=rss&utm_medium=rss)
 
 ---
