@@ -2,16 +2,112 @@
 title: "Cointelegraph - 2026-05-28"
 date: "2026-05-28"
 source: "Cointelegraph"
-count: 25
+count: 29
 ---
 
 # Cointelegraph - 2026-05-28
 
-25 items collected.
+29 items collected.
 
 ---
 
-## 1. Trezor adds native USDt, USDC yield via Morpho integration
+## 1. Solana open interest drops 30% as altcoins slump: Is $68 SOL next?
+
+**Author:** Cointelegraph by Biraajmaan Tamuly  
+**Published:** 5/28/2026, 10:39:43 PM  
+**Categories:** Markets  
+
+Bulls abandon ship as SOL futures open interest dropped 30% in May. With the price weakening near $80, Solana may be destined for new lows.
+
+📖 [Read original article](https://cointelegraph.com/markets/solana-open-interest-drops-30-as-68-retest-comes-back-into-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Fidelity Digital Assets highlights 'growing evidence' of shift from dollar-based systems
+
+**Author:** Cointelegraph by Vince Quill  
+**Published:** 5/28/2026, 10:32:50 PM  
+**Categories:** Latest News  
+
+The investment firm said nation-states and central banks are increasingly turning to assets like Bitcoin and gold as alternative settlement systems outside of US control.
+
+📖 [Read original article](https://cointelegraph.com/news/fidelity-digital-assets-shift-dollar-based-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Prediction markets legal battles heat up in Minnesota, Rhode Island
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 5/28/2026, 10:06:00 PM  
+**Categories:** Latest News  
+
+Kalshi sued Minnesota while the CFTC filed against Rhode Island as legal wrangling with state-level authorities seems likely headed to the US Supreme Court.
+
+📖 [Read original article](https://cointelegraph.com/news/kalshi-cftc-lawsuit-minnesota-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bit Digital buys $20M worth of Ethereum, expands treasury to 158K ETH
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 5/28/2026, 9:32:40 PM  
+**Categories:** Latest News  
+
+The purchase pushed the Nasdaq-listed company ahead of Coinbase Global to become the fourth-largest public corporate holder of Ether, according to CoinGecko data.
+
+📖 [Read original article](https://cointelegraph.com/news/bit-digital-buys-20m-worth-of-ethereum-expands-treasury-to-158k-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. SEC Commissioner Peirce defends crypto privacy tools against surveillance push
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 5/28/2026, 8:49:32 PM  
+**Categories:** Latest News  
+
+The leader of the regulator's Crypto Task Force said privacy-enhancing technologies can strengthen investor protection and urged regulators not to treat them with suspicion.
+
+📖 [Read original article](https://cointelegraph.com/news/sec-hester-peirce-defends-crypto-privacy-tools-surveillance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Bitcoin enters cooldown phase under $75K as ‘active distribution’ rises
+
+**Author:** Cointelegraph by Biraajmaan Tamuly  
+**Published:** 5/28/2026, 8:42:52 PM  
+**Categories:** Markets  
+
+Bitcoin’s slide toward $73,000 triggered active distribution signals, but lowered realized losses and weak spot volumes point to easing sell pressure.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-enters-cooling-off-phase-under-75k-with-active-distribution-on-the-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Trump claims he can ‘future proof’ crypto regulation with CLARITY Act
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 5/28/2026, 8:35:00 PM  
+**Categories:** Latest News  
+
+The future of a digital asset market structure bill in Congress is still uncertain amid concerns over ethics provisions, with the president, whose crypto ties are under scrutiny, weighing in on social media.
+
+📖 [Read original article](https://cointelegraph.com/news/donald-trump-future-proof-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. France's AMF regulator sets June 30 deadline for MiCA licensing
+
+**Author:** Cointelegraph by Vince Quill  
+**Published:** 5/28/2026, 8:19:52 PM  
+**Categories:** Latest News  
+
+The European Union's Markets in Crypto Assets regulations first took effect in 2024, but gave crypto service providers time to fully comply with the framework.
+
+📖 [Read original article](https://cointelegraph.com/news/france-amf-regulator-june-deadline-mica-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Trezor adds native USDt, USDC yield via Morpho integration
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 5/28/2026, 5:28:36 PM  
@@ -23,7 +119,7 @@ The feature lets users earn stablecoin yield directly through Trezor Suite witho
 
 ---
 
-## 2. French company abandons crypto treasury strategy, will liquidate Bitcoin holdings
+## 10. French company abandons crypto treasury strategy, will liquidate Bitcoin holdings
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 5/28/2026, 5:22:14 PM  
@@ -35,7 +131,7 @@ In the year since Sequans Communications announced that it would adopt a digital
 
 ---
 
-## 3. P2P.org launches real-time data stream for Sui and Hyperliquid
+## 11. P2P.org launches real-time data stream for Sui and Hyperliquid
 
 **Author:** Cointelegraph by Advertorial  
 **Published:** 5/28/2026, 4:57:03 PM  
@@ -47,7 +143,7 @@ P2P.org, a blockchain infrastructure provider operating validators across 40+ pr
 
 ---
 
-## 4. Argentina bill targets crypto payments to illegal gambling sites
+## 12. Argentina bill targets crypto payments to illegal gambling sites
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 5/28/2026, 3:05:21 PM  
@@ -59,10 +155,10 @@ Argentina’s proposed online gambling bill would restrict banks, payment firms 
 
 ---
 
-## 5. Here’s what happened in crypto today
+## 13. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
-**Published:** 5/28/2026, 2:54:02 PM  
+**Published:** 5/28/2026, 2:59:00 PM  
 **Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
 
 Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
@@ -71,7 +167,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 6. ERC-7943 author says institutions can’t play DeFi’s ‘pirate game’
+## 14. ERC-7943 author says institutions can’t play DeFi’s ‘pirate game’
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 5/28/2026, 2:45:44 PM  
@@ -83,7 +179,7 @@ RWA standard ERC-7943 reaches final stage as Ethereum builders rethink how insti
 
 ---
 
-## 7. StanChart says Ethereum price will catch up to bullish internal metrics
+## 15. StanChart says Ethereum price will catch up to bullish internal metrics
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/28/2026, 2:26:25 PM  
@@ -95,7 +191,7 @@ Standard Chartered reaffirms bullish Ether price targets, citing strong network 
 
 ---
 
-## 8. Bitcoin bids farewell to CME futures gaps with $67K still on the radar
+## 16. Bitcoin bids farewell to CME futures gaps with $67K still on the radar
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 5/28/2026, 1:52:26 PM  
@@ -107,7 +203,7 @@ Bitcoin approached the final week of CME futures gaps with several still open, p
 
 ---
 
-## 9. XRP drops to 16-week lows: Can price fall below $1?
+## 17. XRP drops to 16-week lows: Can price fall below $1?
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/28/2026, 1:40:07 PM  
@@ -119,7 +215,7 @@ XRP breaks key support at $1.30 as bearish technical setups and weak investor se
 
 ---
 
-## 10. Aave Labs’ Push gains UK FCA crypto registration
+## 18. Aave Labs’ Push gains UK FCA crypto registration
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/28/2026, 1:28:01 PM  
@@ -131,7 +227,7 @@ Aave Labs’ Push received FCA approval for “certain cryptoasset activities”
 
 ---
 
-## 11. Samsung units take $408M stake in Upbit operator Dunamu: Report
+## 19. Samsung units take $408M stake in Upbit operator Dunamu: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 5/28/2026, 12:50:07 PM  
@@ -143,7 +239,7 @@ Samsung Securities, SDS and Card will buy 4% of Dunamu as Korean firms prepare f
 
 ---
 
-## 12. Ethereum under $2K: ETH whales sell as retail remains bullish
+## 20. Ethereum under $2K: ETH whales sell as retail remains bullish
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 5/28/2026, 12:49:31 PM  
@@ -155,7 +251,7 @@ ETH's price has entered a decisive breakdown stage of its prevailing technical p
 
 ---
 
-## 13. BlackRock Bitcoin ETF sees near-record outflows as BTC dips below $75K
+## 21. BlackRock Bitcoin ETF sees near-record outflows as BTC dips below $75K
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 5/28/2026, 12:22:53 PM  
@@ -167,7 +263,7 @@ US spot Bitcoin ETFs have turned negative year-to-date with $596 million in outf
 
 ---
 
-## 14. Mystery Bitcoin burn destroys 107 BTC worth about $8.5M
+## 22. Mystery Bitcoin burn destroys 107 BTC worth about $8.5M
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/28/2026, 12:09:09 PM  
@@ -179,7 +275,7 @@ An unknown entity burned $8.5 million worth of Bitcoin after 12 years of holding
 
 ---
 
-## 15. Polymarket exec says KYC limited to beta product, not existing platform
+## 23. Polymarket exec says KYC limited to beta product, not existing platform
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 5/28/2026, 10:30:44 AM  
@@ -191,7 +287,7 @@ Polymarket executive Josh Stevens said identity checks apply only to early beta 
 
 ---
 
-## 16. BIS Project Agorá shows tokenized payments can settle in seconds
+## 24. BIS Project Agorá shows tokenized payments can settle in seconds
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/28/2026, 9:48:57 AM  
@@ -203,7 +299,7 @@ The Bank for International Settlements' collaboration with seven central banks a
 
 ---
 
-## 17. Crypto liquidations hit $935M as Bitcoin price dips to $72.6K
+## 25. Crypto liquidations hit $935M as Bitcoin price dips to $72.6K
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/28/2026, 9:44:14 AM  
@@ -215,7 +311,7 @@ Over $935 million was wiped out across the crypto market as traders shifted thei
 
 ---
 
-## 18. Crypto companies have tightened compliance, but gaps remain: Chainalysis
+## 26. Crypto companies have tightened compliance, but gaps remain: Chainalysis
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 5/28/2026, 7:17:05 AM  
@@ -227,7 +323,7 @@ Around 47% of crypto organizations onboarded in 2026 are operating at alerting s
 
 ---
 
-## 19. BNB joins US spot ETF market through VanEck’s VBNB launch
+## 27. BNB joins US spot ETF market through VanEck’s VBNB launch
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 5/28/2026, 7:00:00 AM  
@@ -239,7 +335,7 @@ The physically backed fund gives US investors exchange-traded exposure to the Bi
 
 ---
 
-## 20. Crypto markets shed $80B after fresh US strikes on Iran
+## 28. Crypto markets shed $80B after fresh US strikes on Iran
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/28/2026, 6:54:24 AM  
@@ -251,7 +347,7 @@ The crypto market capitalization has fallen to its lowest level since mid-April 
 
 ---
 
-## 21. CFTC seeks to reverse settlement deal with Gemini
+## 29. CFTC seeks to reverse settlement deal with Gemini
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 5/28/2026, 6:41:24 AM  
@@ -260,53 +356,5 @@ The crypto market capitalization has fallen to its lowest level since mid-April 
 The CFTC claimed that its settled complaint filed under the Biden administration relied heavily on a whistleblower’s allegations that Gemini inflated trading activity to distort user demand.
 
 📖 [Read original article](https://cointelegraph.com/news/cftc-moves-to-reverse-settlement-deal-against-gemini?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Bitcoin funding spike shows longs defending $70K: Will ETF outflows reverse bulls’ efforts?
-
-**Author:** Cointelegraph by Antonio Oliveira  
-**Published:** 5/28/2026, 5:09:22 AM  
-**Categories:** Markets  
-
-Bitcoin dropped closer to a critical support level as spot and long futures traders’ efforts to hold $75,000 failed. Is sub-$70,000 BTC next?
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-funding-spike-shows-longs-defending-75k-will-etf-outflows-reverse-bulls-efforts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. US charges Google employee with insider trading bets on Polymarket
-
-**Author:** Cointelegraph by Stephen Katte  
-**Published:** 5/28/2026, 4:25:32 AM  
-**Categories:** Latest News  
-
-The Justice Department and the CFTC allege that Google software engineer Michele Spagnuolo profited $1.2 million on Polymarket after accessing non-public information at work.
-
-📖 [Read original article](https://cointelegraph.com/news/us-charges-google-employee-with-insider-trading-on-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 24. Kraken rolls out Bitcoin vault product for holders to earn yield
-
-**Author:** Cointelegraph by Brayden Lindrea  
-**Published:** 5/28/2026, 2:50:41 AM  
-**Categories:** Latest News  
-
-Within the first 10 hours of launch, the Kraken Earn BTC Vault raked in $30 million worth of Bitcoin deposits from 4,000 unique wallets.
-
-📖 [Read original article](https://cointelegraph.com/news/kraken-rolls-out-bitcoin-vault-for-holders-to-earn-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. Bitcoin falls further as BTC miners pivot to AI, pro-crypto legislation stalls
-
-**Author:** Cointelegraph by Marcel Pechman  
-**Published:** 5/28/2026, 1:35:49 AM  
-**Categories:** Markets  
-
-Bitcoin’s underperformance of stocks deepened as BTC miners pivoted to AI and pro-crypto regulation in the United States stalled.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-falls-further-as-btc-miners-pivot-to-ai-pro-crypto-legislation-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
