@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-28"
 date: "2026-05-28"
 source: "Cointelegraph"
-count: 17
+count: 10
 ---
 
 # Cointelegraph - 2026-05-28
 
-17 items collected.
+10 items collected.
 
 ---
 
@@ -128,89 +128,5 @@ The feature lets users earn stablecoin yield directly through Trezor Suite witho
 In the year since Sequans Communications announced that it would adopt a digital asset treasury strategy, the price of Bitcoin fell by more than 30%.
 
 📖 [Read original article](https://cointelegraph.com/news/sequans-crypto-treasury-strategy-liquidate-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. P2P.org launches real-time data stream for Sui and Hyperliquid
-
-**Author:** Cointelegraph by Advertorial  
-**Published:** 5/28/2026, 4:57:03 PM  
-**Categories:** Press Releases  
-
-P2P.org, a blockchain infrastructure provider operating validators across 40+ proof-of-stake networks since 2018, today launched Syncro Data Stream, a real-time blockchain data stream for Sui and Hyperliquid.
-
-📖 [Read original article](https://cointelegraph.com/press-releases/p2porg-launches-real-time-data-stream-for-sui-and-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Argentina bill targets crypto payments to illegal gambling sites
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 5/28/2026, 3:05:21 PM  
-**Categories:** Latest News  
-
-Argentina’s proposed online gambling bill would restrict banks, payment firms and crypto providers from serving unauthorized betting platforms.
-
-📖 [Read original article](https://cointelegraph.com/news/argentina-bill-crypto-payments-illegal-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. ERC-7943 author says institutions can’t play DeFi’s ‘pirate game’
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 5/28/2026, 2:45:44 PM  
-**Categories:** Features  
-
-RWA standard ERC-7943 reaches final stage as Ethereum builders rethink how institutional finance move onchain.
-
-📖 [Read original article](https://cointelegraph.com/features/erc-7943-author-institutions-defi-pirate-game?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. StanChart says Ethereum price will catch up to bullish internal metrics
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 5/28/2026, 2:26:25 PM  
-**Categories:** Latest News  
-
-Standard Chartered reaffirms bullish Ether price targets, citing strong network fundamentals even as ETH trades 57% below its 2025 peak and fund flows turn negative.
-
-📖 [Read original article](https://cointelegraph.com/news/standard-chartered-says-ethereums-onchain-metrics-are-improving-eth-price-underperforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitcoin bids farewell to CME futures gaps with $67K still on radar
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 5/28/2026, 1:52:26 PM  
-**Categories:** Markets  
-
-Bitcoin approached the final week of CME futures gaps with several still open, providing potential BTC price targets as low as $67,000.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-bids-farewell-to-cme-gaps-with-67k-still-on-the-radar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. XRP drops to 16-week lows: Can price fall below $1?
-
-**Author:** Cointelegraph by Nancy Lubale  
-**Published:** 5/28/2026, 1:40:07 PM  
-**Categories:** Markets  
-
-XRP breaks key support at $1.30 as bearish technical setups and weak investor sentiment point to a deeper correction toward $0.63.
-
-📖 [Read original article](https://cointelegraph.com/markets/xrp-drops-to-a-16-week-lows-can-price-fall-below-1-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Aave Labs’ Push gains UK FCA crypto registration
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 5/28/2026, 1:28:01 PM  
-**Categories:** Latest News  
-
-Aave Labs’ Push received FCA approval for “certain cryptoasset activities” in the UK, supporting its plans for regulated stablecoin on- and off-ramping.
-
-📖 [Read original article](https://cointelegraph.com/news/aave-labs-push-gains-uk-fca-crypto-registration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
