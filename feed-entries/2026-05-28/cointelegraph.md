@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-28"
 date: "2026-05-28"
 source: "Cointelegraph"
-count: 29
+count: 23
 ---
 
 # Cointelegraph - 2026-05-28
 
-29 items collected.
+23 items collected.
 
 ---
 
@@ -71,7 +71,7 @@ The leader of the regulator's Crypto Task Force said privacy-enhancing technolog
 
 ---
 
-## 6. Bitcoin enters cooldown phase under $75K as ‘active distribution’ rises
+## 6. Bitcoin enters cool-down phase under $75K as ‘active distribution’ rises
 
 **Author:** Cointelegraph by Biraajmaan Tamuly  
 **Published:** 5/28/2026, 8:42:52 PM  
@@ -191,7 +191,7 @@ Standard Chartered reaffirms bullish Ether price targets, citing strong network 
 
 ---
 
-## 16. Bitcoin bids farewell to CME futures gaps with $67K still on the radar
+## 16. Bitcoin bids farewell to CME futures gaps with $67K still on radar
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 5/28/2026, 1:52:26 PM  
@@ -284,77 +284,5 @@ An unknown entity burned $8.5 million worth of Bitcoin after 12 years of holding
 Polymarket executive Josh Stevens said identity checks apply only to early beta access and are not being added to Polymarket’s existing platform.
 
 📖 [Read original article](https://cointelegraph.com/news/polymarket-exec-says-kyc-limited-to-beta-product-not-existing-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 24. BIS Project Agorá shows tokenized payments can settle in seconds
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 5/28/2026, 9:48:57 AM  
-**Categories:** Latest News  
-
-The Bank for International Settlements' collaboration with seven central banks and more than 40 institutions concludes a two-year project with a prototype settling wholesale payments in seconds.
-
-📖 [Read original article](https://cointelegraph.com/news/bis-40-banks-test-tokenized-system-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. Crypto liquidations hit $935M as Bitcoin price dips to $72.6K
-
-**Author:** Cointelegraph by Nancy Lubale  
-**Published:** 5/28/2026, 9:44:14 AM  
-**Categories:** Markets  
-
-Over $935 million was wiped out across the crypto market as traders shifted their focus to $70,000 as the last line of defense for Bitcoin.
-
-📖 [Read original article](https://cointelegraph.com/markets/crypto-liquidations-hit-935m-as-bitcoin-price-dips-to-726k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 26. Crypto companies have tightened compliance, but gaps remain: Chainalysis
-
-**Author:** Cointelegraph by Stephen Katte  
-**Published:** 5/28/2026, 7:17:05 AM  
-**Categories:** Latest News  
-
-Around 47% of crypto organizations onboarded in 2026 are operating at alerting standards that would have ranked among the industry’s strictest five years ago.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-compliance-standards-chainalysis-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 27. BNB joins US spot ETF market through VanEck’s VBNB launch
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 5/28/2026, 7:00:00 AM  
-**Categories:** Latest News  
-
-The physically backed fund gives US investors exchange-traded exposure to the Binance-linked cryptocurrency through traditional brokerage accounts.
-
-📖 [Read original article](https://cointelegraph.com/news/bnb-enters-us-spot-etf-market-through-vanecks-vbnb-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 28. Crypto markets shed $80B after fresh US strikes on Iran
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 5/28/2026, 6:54:24 AM  
-**Categories:** Latest News  
-
-The crypto market capitalization has fallen to its lowest level since mid-April after the US carried out strikes on Iran for the second time in three days amid peace talks.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-markets-tank-80b-as-us-carries-out-fresh-strikes-on-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 29. CFTC seeks to reverse settlement deal with Gemini
-
-**Author:** Cointelegraph by Brayden Lindrea  
-**Published:** 5/28/2026, 6:41:24 AM  
-**Categories:** Latest News  
-
-The CFTC claimed that its settled complaint filed under the Biden administration relied heavily on a whistleblower’s allegations that Gemini inflated trading activity to distort user demand.
-
-📖 [Read original article](https://cointelegraph.com/news/cftc-moves-to-reverse-settlement-deal-against-gemini?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
