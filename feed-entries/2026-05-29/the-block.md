@@ -2,16 +2,52 @@
 title: "The Block - 2026-05-29"
 date: "2026-05-29"
 source: "The Block"
-count: 6
+count: 9
 ---
 
 # The Block - 2026-05-29
 
-6 items collected.
+9 items collected.
 
 ---
 
-## 1. Base launches Azul on mainnet, pushing Coinbase’s Ethereum L2 toward full decentralization
+## 1. Sui blockchain suffers more downtime following Thursday’s six-hour outage
+
+**Author:** Daniel Kuhn  
+**Published:** 5/29/2026, 2:20:38 PM  
+**Categories:** Crypto Ecosystems, Layer 1s, Security  
+
+Sui was offline for 5 hours and 55 minutes on Thursday due to a bug in the blockchain's latest "1.72 release."
+
+📖 [Read original article](https://www.theblock.co/post/403028/sui-blockchain-suffers-more-downtime-following-thursdays-six-hour-outage?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Wintermute extends trading infrastructure into prediction markets
+
+**Author:** Brian Danga  
+**Published:** 5/29/2026, 2:07:28 PM  
+**Categories:** Companies, Crypto Infrastructure, Kalshi, polymarket, prediction-markets  
+
+Wintermute extends trading infrastructure into prediction markets as multibillion-dollar sector draws institutional liquidity providers.
+
+📖 [Read original article](https://www.theblock.co/post/403029/wintermute-extends-trading-infrastructure-into-prediction-markets?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Aave Labs secures dual UK licenses for regulated crypto payments infrastructure through local subsidiary
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 5/29/2026, 10:18:22 AM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Policy, Regulation, The Block, mica  
+
+Aave Labs has obtained FCA cryptoasset registration in the U.K. for its Push subsidiaries, unlocking zero-fee fiat on-ramps.
+
+📖 [Read original article](https://www.theblock.co/post/403014/aave-labs-secures-dual-uk-licenses-for-regulated-crypto-payments-infrastructure-through-local-subsidiary?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Base launches Azul on mainnet, pushing Coinbase’s Ethereum L2 toward full decentralization
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 5/29/2026, 9:31:56 AM  
@@ -23,7 +59,7 @@ Base has deployed its Azul upgrade on mainnet, with multiproofs and a new client
 
 ---
 
-## 2. Ventuals to compensate traders after pre-IPO SpaceX perps plunge 45% on Hyperliquid
+## 5. Ventuals to compensate traders after pre-IPO SpaceX perps plunge 45% on Hyperliquid
 
 **Author:** Brian Danga  
 **Published:** 5/29/2026, 9:12:53 AM  
@@ -35,7 +71,7 @@ Ventuals to compensate traders after faulty oracle data sent SPACEX perps down 4
 
 ---
 
-## 3. ‘First and only’: Paxos secures SEC registration as clearing and settlement agency
+## 6. ‘First and only’: Paxos secures SEC registration as clearing and settlement agency
 
 **Author:** Danny Park  
 **Published:** 5/29/2026, 8:51:59 AM  
@@ -47,7 +83,7 @@ Paxos said it is the first and only blockchain-native firm to be registered as a
 
 ---
 
-## 4. NYSE parent ICE held multiple talks with Hyperliquid to evaluate onchain perps market, CEO says
+## 7. NYSE parent ICE held multiple talks with Hyperliquid to evaluate onchain perps market, CEO says
 
 **Author:** Timmy Shen  
 **Published:** 5/29/2026, 6:27:21 AM  
@@ -59,7 +95,7 @@ Sprecher's comment follows an earlier report that ICE and CME had held conversat
 
 ---
 
-## 5. OKX confirms $53 million investment to acquire 20% stake in Coinone crypto exchange
+## 8. OKX confirms $53 million investment to acquire 20% stake in Coinone crypto exchange
 
 **Author:** Danny Park  
 **Published:** 5/29/2026, 6:00:00 AM  
@@ -71,7 +107,7 @@ This marks the latest move by a global crypto giant to secure a foothold in Sout
 
 ---
 
-## 6. Treasury Secretary Scott Bessent reiterates ‘no CBDC’ commitment under Trump admin
+## 9. Treasury Secretary Scott Bessent reiterates ‘no CBDC’ commitment under Trump admin
 
 **Author:** Danny Park  
 **Published:** 5/29/2026, 2:53:58 AM  
