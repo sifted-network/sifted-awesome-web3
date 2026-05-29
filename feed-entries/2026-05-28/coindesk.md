@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-05-28"
 date: "2026-05-28"
 source: "CoinDesk"
-count: 10
+count: 5
 ---
 
 # CoinDesk - 2026-05-28
 
-10 items collected.
+5 items collected.
 
 ---
 
@@ -68,65 +68,5 @@ USAT's market cap jumped above $140 million in April, though it remains well beh
 Bitwise says investor demand for Hyperliquid exposure is surging as new HYPE ETFs launch.
 
 📖 [Read original article](https://www.coindesk.com/coindesk-news/2026/05/28/bitwise-bets-hyperliquid-could-power-future-finance-as-hype-etfs-gain-traction)
-
----
-
-## 6. Hyperliquid's pre-IPO SpaceX contracts suffer 45% flash crash, liquidating $1.5 million
-
-**Author:** Oliver Knight  
-**Published:** 5/28/2026, 5:28:57 PM  
-**Categories:** Markets, SpaceX, News  
-
-A massive selloff in a SpaceX crypto token wiped out hundreds of retail traders in 30 minutes because the market lacked enough cash to absorb the shock.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/hyperliquid-s-pre-ipo-spacex-contracts-suffers-45-flash-crash-liquidating-usd1-5-million)
-
----
-
-## 7. UniCredit warns Europe may struggle to contain crypto-bank crisis under MiCA rules
-
-**Author:** Francisco Rodrigues  
-**Published:** 5/28/2026, 4:50:24 PM  
-**Categories:** Finance, Regulation, Stablecoins, News  
-
-EU deposit insurance (up to €100,000) may not absorb stress from large stablecoin reserve accounts, unlike the full protection offered by U.S. regulators.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/05/28/unicredit-warns-europe-may-struggle-to-contain-crypto-bank-crisis-under-mica-rules)
-
----
-
-## 8. Toddlers learn by falling: Why DeFi's $20 billion TVL drop is just a market stress-test
-
-**Author:** Olivier Acuna  
-**Published:** 5/28/2026, 4:33:56 PM  
-**Categories:** Finance, DeFi, Hack, News  
-
-DeFi Technologies president Andrew Forson says the stablecoin layer is thriving, with more than $150 billion in U.S. Treasuries backing coins like USDT and USDC.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/05/28/toddlers-learn-by-falling-why-defi-s-usd20-billion-tvl-drop-is-just-a-market-stress-test)
-
----
-
-## 9. Sui blockchain suffers another network outage as transactions grind to a halt
-
-**Author:** Margaux Nijkerk  
-**Published:** 5/28/2026, 4:11:04 PM  
-**Categories:** Tech, Web3, News  
-
-This is the second time this year that the Sui network has suffered an outage.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/05/28/sui-blockchain-suffers-another-network-outage-as-transactions-grind-to-a-halt)
-
----
-
-## 10. Bitcoin pinned below $73,000 despite potential U.S.-Iran deal news
-
-**Author:** Krisztian Sandor,Helene Braun  
-**Published:** 5/28/2026, 3:10:34 PM  
-**Categories:** Markets, Markets, Bitcoin News, News  
-
-U.S. stocks and bonds, and the oil market are reacting positively to yet another purported peace agreement, but crypto markets remain under heavy pressure.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/bitcoin-pinned-below-usd73-000-despite-potential-u-s-iran-deal-news)
 
 ---
