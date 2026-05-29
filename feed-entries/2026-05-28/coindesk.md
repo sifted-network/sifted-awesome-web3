@@ -11,7 +11,19 @@ count: 25
 
 ---
 
-## 1. Crypto trading firm FalconX confidentially files with SEC for IPO, hires bankers
+## 1. Calamos bets protected Bitcoin ETFs can outlast crypto market swings
+
+**Author:** AI Boost  
+**Published:** 5/28/2026, 10:03:42 PM  
+**Categories:** CoinDesk News, Media Network Interview, ETFs, News  
+
+As more than $1 billion exited spot Bitcoin ETFs last week, Calamos says investors are rotating into Bitcoin products with built-in downside protection.
+
+📖 [Read original article](https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings)
+
+---
+
+## 2. Crypto trading firm FalconX confidentially files with SEC for IPO, hires bankers
 
 **Author:** Will Canny  
 **Published:** 5/28/2026, 7:53:38 PM  
@@ -23,7 +35,7 @@ FalconX has hired Cantor and other bankers to advise on a potential IPO and conf
 
 ---
 
-## 2. Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war
+## 3. Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war
 
 **Author:** Margaux Nijkerk  
 **Published:** 5/28/2026, 7:09:36 PM  
@@ -35,7 +47,7 @@ In this week's edition of The Protocol Newsletter, we're diving deep into the in
 
 ---
 
-## 3. Tether's U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals
+## 4. Tether's U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals
 
 **Author:** Krisztian Sandor  
 **Published:** 5/28/2026, 6:53:40 PM  
@@ -47,7 +59,7 @@ USAT's market cap jumped above $140 million in April, though it remains well beh
 
 ---
 
-## 4. Bitwise bets Hyperliquid could power future finance as HYPE ETFs gain traction
+## 5. Bitwise bets Hyperliquid could power future finance as HYPE ETFs gain traction
 
 **Author:** AI Boost  
 **Published:** 5/28/2026, 6:34:25 PM  
@@ -59,7 +71,7 @@ Bitwise says investor demand for Hyperliquid exposure is surging as new HYPE ETF
 
 ---
 
-## 5. Hyperliquid's pre-IPO SpaceX contracts suffers 45% flash crash, liquidating $1.5 million
+## 6. Hyperliquid's pre-IPO SpaceX contracts suffers 45% flash crash, liquidating $1.5 million
 
 **Author:** Oliver Knight  
 **Published:** 5/28/2026, 5:28:57 PM  
@@ -71,7 +83,7 @@ A massive selloff in a SpaceX crypto token wiped out hundreds of retail traders 
 
 ---
 
-## 6. UniCredit warns Europe may struggle to contain crypto-bank crisis under MiCA rules
+## 7. UniCredit warns Europe may struggle to contain crypto-bank crisis under MiCA rules
 
 **Author:** Francisco Rodrigues  
 **Published:** 5/28/2026, 4:50:24 PM  
@@ -83,7 +95,7 @@ EU deposit insurance (up to €100,000) may not absorb stress from large stablec
 
 ---
 
-## 7. Toddlers learn by falling: Why DeFi's $20 billion TVL drop is just a market stress-test
+## 8. Toddlers learn by falling: Why DeFi's $20 billion TVL drop is just a market stress-test
 
 **Author:** Olivier Acuna  
 **Published:** 5/28/2026, 4:33:56 PM  
@@ -95,7 +107,7 @@ DeFi Technologies president Andrew Forson says the stablecoin layer is thriving,
 
 ---
 
-## 8. Sui blockchain suffers another network outage as transactions grind to a halt
+## 9. Sui blockchain suffers another network outage as transactions grind to a halt
 
 **Author:** Margaux Nijkerk  
 **Published:** 5/28/2026, 4:11:04 PM  
@@ -107,7 +119,7 @@ This is the second time this year that the Sui network has suffered an outage.
 
 ---
 
-## 9. Bitcoin pinned below $73,000 despite potential U.S.-Iran deal news
+## 10. Bitcoin pinned below $73,000 despite potential U.S.-Iran deal news
 
 **Author:** Krisztian Sandor,Helene Braun  
 **Published:** 5/28/2026, 3:10:34 PM  
@@ -119,7 +131,7 @@ U.S. stocks and bonds, and the oil market are reacting positively to yet another
 
 ---
 
-## 10. A blockchain lottery plans to turn crypto gambling fees into Ethereum developer funding
+## 11. A blockchain lottery plans to turn crypto gambling fees into Ethereum developer funding
 
 **Author:** Margaux Nijkerk  
 **Published:** 5/28/2026, 3:00:00 PM  
@@ -131,7 +143,7 @@ Decentralized lottery protocol Megapot is teaming up with Protocol Guild in what
 
 ---
 
-## 11. Crypto Long & Short: Asia’s regulated crypto future
+## 12. Crypto Long & Short: Asia’s regulated crypto future
 
 **Author:** Hassan Ahmed  
 **Published:** 5/28/2026, 3:00:00 PM  
@@ -143,7 +155,7 @@ Asia's adoption of crypto and stablecoins is driving regulated growth in payment
 
 ---
 
-## 12. Disciplined AI agents are the disruptor needed to break the exchange churn model
+## 13. Disciplined AI agents are the disruptor needed to break the exchange churn model
 
 **Author:** Saad Naja  
 **Published:** 5/28/2026, 2:13:09 PM  
@@ -155,7 +167,7 @@ Programmable incentives that allow independent trading agents to earn only when 
 
 ---
 
-## 13. Gemini taps SpaceXAI to build a personalized prediction markets feed
+## 14. Gemini taps SpaceXAI to build a personalized prediction markets feed
 
 **Author:** Will Canny  
 **Published:** 5/28/2026, 2:00:00 PM  
@@ -167,7 +179,7 @@ The new feature integrates SpaceXAI models to deliver real-time market intellige
 
 ---
 
-## 14. 'Debasement trade’ falls out of favor as inflation fears cool, JPMorgan says
+## 15. 'Debasement trade’ falls out of favor as inflation fears cool, JPMorgan says
 
 **Author:** Helene Braun,Will Canny,AI Boost  
 **Published:** 5/28/2026, 1:38:24 PM  
@@ -179,7 +191,7 @@ Investors are abandoning bitcoin and gold, perhaps sensing a coming end to Middl
 
 ---
 
-## 15. Asset manager Grayscale delays IPO plans as crypto listing boom loses steam
+## 16. Asset manager Grayscale delays IPO plans as crypto listing boom loses steam
 
 **Author:** Will Canny  
 **Published:** 5/28/2026, 1:36:11 PM  
@@ -191,7 +203,7 @@ Grayscale’s decision to delay its IPO highlights the growing caution across th
 
 ---
 
-## 16. VanEck launches first U.S. spot BNB ETF on Nasdaq
+## 17. VanEck launches first U.S. spot BNB ETF on Nasdaq
 
 **Author:** Francisco Rodrigues  
 **Published:** 5/28/2026, 1:36:01 PM  
@@ -203,7 +215,7 @@ The ETF offers investors BNB exposure through traditional brokerage accounts wit
 
 ---
 
-## 17. Bit Digital bought $20 million ETH for first time since October before 15% plunge
+## 18. Bit Digital bought $20 million ETH for first time since October before 15% plunge
 
 **Author:** Krisztian Sandor  
 **Published:** 5/28/2026, 1:27:32 PM  
@@ -215,7 +227,7 @@ The firm said it purchased 8,568 ether on May 11 at an average price of $2,334. 
 
 ---
 
-## 18. What's next as hot money cycle has gone from crypto to gold to AI to memory
+## 19. What's next as hot money cycle has gone from crypto to gold to AI to memory
 
 **Author:** James Van Straten  
 **Published:** 5/28/2026, 1:21:14 PM  
@@ -227,7 +239,7 @@ As bitcoin and gold momentum fades, investor flows are increasingly rotating int
 
 ---
 
-## 19. CoinDesk 20 performance update: Stellar (XLM) jumps 10.5% as nearly all assets fall
+## 20. CoinDesk 20 performance update: Stellar (XLM) jumps 10.5% as nearly all assets fall
 
 **Author:** CoinDesk Indices  
 **Published:** 5/28/2026, 1:12:41 PM  
@@ -239,7 +251,7 @@ NEAR Protocol (NEAR) declined 12.2% while Bitcoin Cash (BCH) dropped 12.1%, lead
 
 ---
 
-## 20. VanEck's tokenized fund lands on Euler as DeFi courts Wall Street institutions
+## 21. VanEck's tokenized fund lands on Euler as DeFi courts Wall Street institutions
 
 **Author:** Krisztian Sandor  
 **Published:** 5/28/2026, 11:58:47 AM  
@@ -251,7 +263,7 @@ DeFi protocols are increasingly adapting to host regulated, tokenized assets as 
 
 ---
 
-## 21. U.S.-Iran strikes rattle global markets, send bitcoin to 6-week low
+## 22. U.S.-Iran strikes rattle global markets, send bitcoin to 6-week low
 
 **Author:** Francisco Rodrigues  
 **Published:** 5/28/2026, 11:28:08 AM  
@@ -263,7 +275,7 @@ Your day-ahead look for May 28, 2026
 
 ---
 
-## 22. Samsung units to buy $408 million stake in South Korea’s biggest crypto exchange
+## 23. Samsung units to buy $408 million stake in South Korea’s biggest crypto exchange
 
 **Author:** Jamie Crawley  
 **Published:** 5/28/2026, 10:55:19 AM  
@@ -275,7 +287,7 @@ Samsung Securities is set to take a 2% stake in Dunamu, worth over $200 million,
 
 ---
 
-## 23. Standard Chartered backs $4,000 ether as retail piles into the sub-$2,000 drop
+## 24. Standard Chartered backs $4,000 ether as retail piles into the sub-$2,000 drop
 
 **Author:** Shaurya Malwa  
 **Published:** 5/28/2026, 10:48:26 AM  
@@ -287,7 +299,7 @@ The bank says onchain metrics will pull the price back up, just as Amazon's stoc
 
 ---
 
-## 24. Bitcoin’s famous CME gaps are about to disappear, though three remain unresolved
+## 25. Bitcoin’s famous CME gaps are about to disappear, though three remain unresolved
 
 **Author:** James Van Straten,Oliver Knight  
 **Published:** 5/28/2026, 10:47:22 AM  
@@ -296,17 +308,5 @@ The bank says onchain metrics will pull the price back up, just as Amazon's stoc
 The launch of round-the-clock bitcoin futures trading eliminates the long-standing CME weekend gap and marks another step toward fully integrated institutional crypto markets.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/bitcoin-s-famous-cme-gaps-are-about-to-disappear-though-three-remain-unresolved)
-
----
-
-## 25. Crypto slides on Hormuz airstrikes as $897 million in long liquidations pile up
-
-**Author:** Oliver Knight,Shaurya Malwa  
-**Published:** 5/28/2026, 10:44:52 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-BTC dropped to its lowest since April 13 and ETH broke below $2,000 as U.S. airstrikes stoked inflation concerns, wiping out nearly $900 million in leveraged longs.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/crypto-slides-on-hormuz-airstrikes-as-usd897-million-in-long-liquidations-pile-up)
 
 ---
