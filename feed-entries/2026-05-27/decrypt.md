@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-05-27"
 date: "2026-05-27"
 source: "Decrypt"
-count: 15
+count: 10
 ---
 
 # Decrypt - 2026-05-27
 
-15 items collected.
+10 items collected.
 
 ---
 
@@ -128,65 +128,5 @@ YouTube says new disclosure tools and automatic AI detection will help viewers m
 SoFi is making its SoFiUSD token available to members, marking a milestone in the convergence of regulated banking and blockchain.
 
 📖 [Read original article](https://decrypt.co/369187/sofi-launches-sofiusd-stablecoin-ethereum-solana)
-
----
-
-## 11. Kraken Now Lets You Earn Yield on Bitcoin Holdings via Lending Vaults
-
-**Author:** Logan Hitchcock  
-**Published:** 5/27/2026, 3:42:59 PM  
-**Categories:** , Markets  
-
-Kraken customers can make use of their Bitcoin holdings and generate BTC yield without ever leaving the exchange.
-
-📖 [Read original article](https://decrypt.co/369169/kraken-earn-yield-bitcoin-holdings-lending-vaults)
-
----
-
-## 12. Huawei's New Benchmark Gives AI Agents Months of Your Life—Then Watches Them Fail
-
-**Author:** Jose Antonio Lanz  
-**Published:** 5/27/2026, 3:22:51 PM  
-**Categories:** Artificial Intelligence  
-
-Claw-Anything simulates a real digital existence and asks AI assistants to handle it. GPT-5.5, the best model available, scored 34.5%.
-
-📖 [Read original article](https://decrypt.co/369102/huawei-claw-anything-ai-agent-benchmark)
-
----
-
-## 13. Mastercard Secures New York BitLicense in Push for Stablecoins, Tokenized Deposits
-
-**Author:** André Beganski  
-**Published:** 5/27/2026, 2:58:02 PM  
-**Categories:** , , Law and Order  
-
-Mastercard has secured a highly coveted BitLicense in New York, anchoring its compliance-first strategy for stablecoins on Wall Street.
-
-📖 [Read original article](https://decrypt.co/369158/mastercard-secures-new-york-bitlicense-stablecoins-tokenized-deposits)
-
----
-
-## 14. Robinhood Opens Platform to AI Agents for Stock Trading and Credit Card Spending
-
-**Author:** Decrypt Agent  
-**Published:** 5/27/2026, 1:43:18 PM  
-**Categories:** , , Artificial Intelligence  
-
-Retail brokerage Robinhood now lets users delegate stock purchases and credit card transactions to third-party AI systems.
-
-📖 [Read original article](https://decrypt.co/369153/robinhood-opens-platform-ai-agents-stock-trading-credit-card-spending)
-
----
-
-## 15. Solana Meme Coin Surges 6,000% After Creators Arrested Over 'Rug Pull'
-
-**Author:** Ryan Gladwin  
-**Published:** 5/27/2026, 1:09:01 PM  
-**Categories:** , , Coins  
-
-The charges against the CatFi creators mark the first time South Korean prosecutors have applied the new Virtual Asset User Protection Act.
-
-📖 [Read original article](https://decrypt.co/369134/solana-meme-coin-surges-6000-after-creators-arrested-over-rug-pull)
 
 ---
