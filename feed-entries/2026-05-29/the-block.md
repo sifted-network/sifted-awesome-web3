@@ -2,16 +2,64 @@
 title: "The Block - 2026-05-29"
 date: "2026-05-29"
 source: "The Block"
-count: 9
+count: 13
 ---
 
 # The Block - 2026-05-29
 
-9 items collected.
+13 items collected.
 
 ---
 
-## 1. Sui blockchain suffers more downtime following Thursday’s six-hour outage
+## 1. US has seized nearly $1 billion in crypto from Iran, Bessent says
+
+**Author:** Jason Shubnell  
+**Published:** 5/29/2026, 8:03:45 PM  
+**Categories:** Legal, Markets, People, Policy, U.S. Policymaking  
+
+Earlier this year, Treasury Secretary Scott Bessent said the U.S. had seized "nearly $500 million" in Iranian crypto assets.
+
+📖 [Read original article](https://www.theblock.co/post/403075/us-has-seized-nearly-1-billion-in-crypto-from-iran-bessent-says?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. JPMorgan CEO Jamie Dimon blasts Coinbase’s Brian Armstrong, plans to fight Clarity Act
+
+**Author:** RT Watson  
+**Published:** 5/29/2026, 5:52:02 PM  
+**Categories:** Crypto Ecosystems, People, Policy, Clarity Act, jamie-dimon  
+
+Dimon said Coinbase's Armstrong is spending hundreds of millions of dollars trying to get Clarity Act passed.
+
+📖 [Read original article](https://www.theblock.co/post/403049/jpmorgan-ceo-jamie-dimon-blasts-coinbases-brian-armstrong-plans-fight-clarity-act?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Texas appoints CleanSpark exec, bitcoin miner CEO to Strategic Bitcoin Reserve committee
+
+**Author:** Kyle Baird  
+**Published:** 5/29/2026, 3:11:50 PM  
+**Categories:** Policy, The Block, U.S. Policymaking, bitcoin reserve  
+
+Texas is seeking a custodian to transition reserve assets from Blackrock's IBIT into direct bitcoin holdings.
+
+📖 [Read original article](https://www.theblock.co/post/403026/texas-cleanspark-exec-bitcoin-miner-ceo-strategic-bitcoin-reserve-committee?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. CFTC opens door for crypto perpetual future contracts in US as Coinbase, Kalshi move forward
+
+**Author:** Sarah Wynn  
+**Published:** 5/29/2026, 2:45:57 PM  
+**Categories:** Legal, Markets, Policy, Regulation, U.S. Policymaking, CFTC  
+
+The CFTC opened the doors for perpetual futures contracts, giving way for Kalshi and Coinbase to offer those products.
+
+📖 [Read original article](https://www.theblock.co/post/403040/cftc-opens-door-for-crypto-perpetual-future-contracts-in-us-as-coinbase-kalshi-move-forward?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Sui blockchain suffers more downtime following Thursday’s six-hour outage
 
 **Author:** Daniel Kuhn  
 **Published:** 5/29/2026, 2:20:38 PM  
@@ -23,7 +71,7 @@ Sui was offline for 5 hours and 55 minutes on Thursday due to a bug in the block
 
 ---
 
-## 2. Wintermute extends trading infrastructure into prediction markets
+## 6. Wintermute extends trading infrastructure into prediction markets
 
 **Author:** Brian Danga  
 **Published:** 5/29/2026, 2:07:28 PM  
@@ -35,7 +83,7 @@ Wintermute extends trading infrastructure into prediction markets as multibillio
 
 ---
 
-## 3. Aave Labs secures dual UK licenses for regulated crypto payments infrastructure through local subsidiary
+## 7. Aave Labs secures dual UK licenses for regulated crypto payments infrastructure through local subsidiary
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 5/29/2026, 10:18:22 AM  
@@ -47,7 +95,7 @@ Aave Labs has obtained FCA cryptoasset registration in the U.K. for its Push sub
 
 ---
 
-## 4. Base launches Azul on mainnet, pushing Coinbase’s Ethereum L2 toward full decentralization
+## 8. Base launches Azul on mainnet, pushing Coinbase’s Ethereum L2 toward full decentralization
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 5/29/2026, 9:31:56 AM  
@@ -59,7 +107,7 @@ Base has deployed its Azul upgrade on mainnet, with multiproofs and a new client
 
 ---
 
-## 5. Ventuals to compensate traders after pre-IPO SpaceX perps plunge 45% on Hyperliquid
+## 9. Ventuals to compensate traders after pre-IPO SpaceX perps plunge 45% on Hyperliquid
 
 **Author:** Brian Danga  
 **Published:** 5/29/2026, 9:12:53 AM  
@@ -71,7 +119,7 @@ Ventuals to compensate traders after faulty oracle data sent SPACEX perps down 4
 
 ---
 
-## 6. ‘First and only’: Paxos secures SEC registration as clearing and settlement agency
+## 10. ‘First and only’: Paxos secures SEC registration as clearing and settlement agency
 
 **Author:** Danny Park  
 **Published:** 5/29/2026, 8:51:59 AM  
@@ -83,7 +131,7 @@ Paxos said it is the first and only blockchain-native firm to be registered as a
 
 ---
 
-## 7. NYSE parent ICE held multiple talks with Hyperliquid to evaluate onchain perps market, CEO says
+## 11. NYSE parent ICE held multiple talks with Hyperliquid to evaluate onchain perps market, CEO says
 
 **Author:** Timmy Shen  
 **Published:** 5/29/2026, 6:27:21 AM  
@@ -95,7 +143,7 @@ Sprecher's comment follows an earlier report that ICE and CME had held conversat
 
 ---
 
-## 8. OKX confirms $53 million investment to acquire 20% stake in Coinone crypto exchange
+## 12. OKX confirms $53 million investment to acquire 20% stake in Coinone crypto exchange
 
 **Author:** Danny Park  
 **Published:** 5/29/2026, 6:00:00 AM  
@@ -107,7 +155,7 @@ This marks the latest move by a global crypto giant to secure a foothold in Sout
 
 ---
 
-## 9. Treasury Secretary Scott Bessent reiterates ‘no CBDC’ commitment under Trump admin
+## 13. Treasury Secretary Scott Bessent reiterates ‘no CBDC’ commitment under Trump admin
 
 **Author:** Danny Park  
 **Published:** 5/29/2026, 2:53:58 AM  
