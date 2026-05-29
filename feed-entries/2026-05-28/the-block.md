@@ -2,12 +2,12 @@
 title: "The Block - 2026-05-28"
 date: "2026-05-28"
 source: "The Block"
-count: 19
+count: 13
 ---
 
 # The Block - 2026-05-28
 
-19 items collected.
+13 items collected.
 
 ---
 
@@ -164,77 +164,5 @@ VanEck's VBNB joins a growing roster of spot crypto ETFs since the first U.S. Bi
 Standard Chartered Bank has maintained its ether price targets of $4,000 by end-2026 and $40,000 by end-2030.
 
 📖 [Read original article](https://www.theblock.co/post/402864/standard-chartered-ethereum-amazon-dot-com-bubble-eth-will-catch-up?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. Theta and XYO partner on blockchain-based verification layer for AI agents
-
-**Author:** James Hunt  
-**Published:** 5/28/2026, 12:05:02 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Tech, Token Projects, Web3, AI, Decentralized Infrastructure, exclusive  
-
-The DePIN projects have partnered to develop a cryptographic proof infrastructure that will independently verify AI agent workloads.
-
-📖 [Read original article](https://www.theblock.co/post/402855/theta-and-xyo-partner-on-blockchain-based-verification-layer-for-ai-agents?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. BIS says tokenization can improve wholesale cross-border payments
-
-**Author:** Brian Danga  
-**Published:** 5/28/2026, 10:31:32 AM  
-**Categories:** Central Banks, Companies, Crypto Ecosystems, Finance firms, Policy, Web3, bis, BOE, cross-border-payments, Tokenization, TradFi banks  
-
-Project Agorá found tokenization could improve wholesale cross-border payments through atomic settlement across multiple jurisdictions.
-
-📖 [Read original article](https://www.theblock.co/post/402846/bis-says-tokenization-can-improve-wholesale-cross-border-payments?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Samsung units to acquire $408 million stake in Upbit operator Dunamu
-
-**Author:** Danny Park  
-**Published:** 5/28/2026, 9:07:22 AM  
-**Categories:** Asia, Companies, Deals, Exchanges, Mergers & Acquisitions, Private Investments, dunamu, samsung, upbit  
-
-Major institutions in South Korea are seeking to expand into digital assets in preparation for the upcoming regulatory framework for crypto.
-
-📖 [Read original article](https://www.theblock.co/post/402838/samsung-upbit-dunamu?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Bit Digital extends $100 million loan facility to WhiteFiber, backed by Ethereum credit line
-
-**Author:** Brian Danga  
-**Published:** 5/28/2026, 8:35:48 AM  
-**Categories:** Capital Markets, Companies, Deals, Institutional Investors, AI HPC, bit-digital, Debt Financing  
-
-Bit Digital said advances may be funded through an Ethereum-denominated secured credit facility, letting it retain ETH exposure.
-
-📖 [Read original article](https://www.theblock.co/post/402830/bit-digital-100-million-loan-facility-whitefiber?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. CFTC says it shouldn’t have sued Gemini, joins motion to vacate prior judgment
-
-**Author:** Danny Park  
-**Published:** 5/28/2026, 7:55:24 AM  
-**Categories:** Companies, Exchanges, People, Policy, Regulation, CFTC, Gemini  
-
-The CFTC joined Gemini in filing a motion for relief from a 2025 consent order stemming from the agency's previous enforcement action.
-
-📖 [Read original article](https://www.theblock.co/post/402827/cftc-joins-relief-motion-gemini?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. Bitcoin falls below $73,000 as BlackRock’s BTC ETF sees second-largest outflows since debut
-
-**Author:** Timmy Shen  
-**Published:** 5/28/2026, 6:06:40 AM  
-**Categories:** Funds, Markets, Token Projects, Bitcoin, Bitcoin ETF, Ethereum, Solana  
-
-Spot BTC ETFs saw their largest outflows on Wednesday since late January, with IBIT posting its second-biggest daily net outflow on record.
-
-📖 [Read original article](https://www.theblock.co/post/402816/bitcoin-falls-below-73000?utm_source=rss&utm_medium=rss)
 
 ---
