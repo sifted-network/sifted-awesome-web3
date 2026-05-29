@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-05-28"
 date: "2026-05-28"
 source: "CoinDesk"
-count: 19
+count: 10
 ---
 
 # CoinDesk - 2026-05-28
 
-19 items collected.
+10 items collected.
 
 ---
 
@@ -128,113 +128,5 @@ This is the second time this year that the Sui network has suffered an outage.
 U.S. stocks and bonds, and the oil market are reacting positively to yet another purported peace agreement, but crypto markets remain under heavy pressure.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/bitcoin-pinned-below-usd73-000-despite-potential-u-s-iran-deal-news)
-
----
-
-## 11. A blockchain lottery plans to turn crypto gambling fees into Ethereum developer funding
-
-**Author:** Margaux Nijkerk  
-**Published:** 5/28/2026, 3:00:00 PM  
-**Categories:** Tech, Ethereum News, News  
-
-Decentralized lottery protocol Megapot is teaming up with Protocol Guild in what the firms describe as the crypto industry’s first programmable charity lottery.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/05/28/a-blockchain-lottery-plans-to-turn-crypto-gambling-fees-into-ethereum-developer-funding)
-
----
-
-## 12. Crypto Long & Short: Asia’s regulated crypto future
-
-**Author:** Hassan Ahmed  
-**Published:** 5/28/2026, 3:00:00 PM  
-**Categories:** CoinDesk Indices, CoinDesk Indices, Crypto for Advisors, Financial Advisors, News  
-
-Asia's adoption of crypto and stablecoins is driving regulated growth in payments and remittances. Learn how Singapore, Hong Kong, India, and Korea are leading the way.
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/05/27/crypto-long-and-short-asia-s-regulated-crypto-future)
-
----
-
-## 13. Disciplined AI agents are the disruptor needed to break the exchange churn model
-
-**Author:** Saad Naja  
-**Published:** 5/28/2026, 2:13:09 PM  
-**Categories:** Opinion, Artificial Intelligence, Opinion  
-
-Programmable incentives that allow independent trading agents to earn only when portfolios rise will create a fairer market for retail customers, explains Naja.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/05/28/disciplined-ai-agents-are-the-disruptor-needed-to-break-the-exchange-churn-model)
-
----
-
-## 14. Gemini taps SpaceXAI to build a personalized prediction markets feed
-
-**Author:** Will Canny  
-**Published:** 5/28/2026, 2:00:00 PM  
-**Categories:** Tech, Gemini, Prediction Markets, Artificial Intelligence, Exclusive, News  
-
-The new feature integrates SpaceXAI models to deliver real-time market intelligence, personalized signals and portfolio insights directly inside the Gemini app.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/05/28/gemini-rolls-out-ai-powered-command-center-for-prediction-markets)
-
----
-
-## 15. 'Debasement trade’ falls out of favor as inflation fears cool, JPMorgan says
-
-**Author:** Helene Braun,Will Canny,AI Boost  
-**Published:** 5/28/2026, 1:38:24 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-Investors are abandoning bitcoin and gold, perhaps sensing a coming end to Middle East hostilities.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/investors-are-throwing-in-the-towel-on-the-debasement-trade-as-inflation-fears-start-to-cool-jpmorgan-says)
-
----
-
-## 16. Asset manager Grayscale delays IPO plans as crypto listing boom loses steam
-
-**Author:** Will Canny  
-**Published:** 5/28/2026, 1:36:11 PM  
-**Categories:** Finance, Grayscale, Digital Currency Group, IPOs, Exclusive, Breaking News, News  
-
-Grayscale’s decision to delay its IPO highlights the growing caution across the crypto industry as volatile markets and weak investor demand weigh on public listing plans.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/05/28/asset-manager-grayscale-delays-ipo-plans-as-crypto-listing-boom-loses-steam)
-
----
-
-## 17. VanEck launches first U.S. spot BNB ETF on Nasdaq
-
-**Author:** Francisco Rodrigues  
-**Published:** 5/28/2026, 1:36:01 PM  
-**Categories:** Finance, ETFs, News  
-
-The ETF offers investors BNB exposure through traditional brokerage accounts without requiring them to directly buy or store the token.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/05/28/vaneck-launches-first-u-s-spot-bnb-etf-on-nasdaq)
-
----
-
-## 18. Bit Digital bought $20 million ETH for first time since October before 15% plunge
-
-**Author:** Krisztian Sandor  
-**Published:** 5/28/2026, 1:27:32 PM  
-**Categories:** Finance, Ethereum News, Digital Asset Treasury, News  
-
-The firm said it purchased 8,568 ether on May 11 at an average price of $2,334. Since then, ETH broke below $2,000, leaving the firm sitting at a $3 million unrealized loss.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge)
-
----
-
-## 19. What's next as hot money cycle has gone from crypto to gold to AI to memory
-
-**Author:** James Van Straten  
-**Published:** 5/28/2026, 1:21:14 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-As bitcoin and gold momentum fades, investor flows are increasingly rotating into AI infrastructure, semiconductor and memory-related equities.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/28/what-s-next-as-hot-money-cycle-has-gone-from-crypto-to-gold-to-ai-to-memory)
 
 ---
