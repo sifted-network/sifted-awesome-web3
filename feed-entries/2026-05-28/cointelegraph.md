@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-28"
 date: "2026-05-28"
 source: "Cointelegraph"
-count: 10
+count: 7
 ---
 
 # Cointelegraph - 2026-05-28
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ Bitcoin’s slide toward $73,000 triggered active distribution signals, but lowe
 The future of a digital asset market structure bill in Congress is still uncertain amid concerns over ethics provisions, with the president, whose crypto ties are under scrutiny, weighing in on social media.
 
 📖 [Read original article](https://cointelegraph.com/news/donald-trump-future-proof-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. France's AMF regulator sets June 30 deadline for MiCA licensing
-
-**Author:** Cointelegraph by Vince Quill  
-**Published:** 5/28/2026, 8:19:52 PM  
-**Categories:** Latest News  
-
-The European Union's Markets in Crypto Assets regulations first took effect in 2024, but gave crypto service providers time to fully comply with the framework.
-
-📖 [Read original article](https://cointelegraph.com/news/france-amf-regulator-june-deadline-mica-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Trezor adds native USDt, USDC yield via Morpho integration
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 5/28/2026, 5:28:36 PM  
-**Categories:** Latest News  
-
-The feature lets users earn stablecoin yield directly through Trezor Suite without connecting external wallets or using separate DeFi apps.
-
-📖 [Read original article](https://cointelegraph.com/news/trezor-usdc-usdt-yield-morpho-trezor-suite?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. French company abandons crypto treasury strategy, will liquidate Bitcoin holdings
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 5/28/2026, 5:22:14 PM  
-**Categories:** Latest News  
-
-In the year since Sequans Communications announced that it would adopt a digital asset treasury strategy, the price of Bitcoin fell by more than 30%.
-
-📖 [Read original article](https://cointelegraph.com/news/sequans-crypto-treasury-strategy-liquidate-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
