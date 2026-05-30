@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-28"
 date: "2026-05-28"
 source: "Cointelegraph"
-count: 7
+count: 6
 ---
 
 # Cointelegraph - 2026-05-28
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ The leader of the regulator's Crypto Task Force said privacy-enhancing technolog
 Bitcoin’s slide toward $73,000 triggered active distribution signals, but lowered realized losses and weak spot volumes point to easing sell pressure.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-enters-cooling-off-phase-under-75k-with-active-distribution-on-the-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Trump claims he can ‘future proof’ crypto regulation with CLARITY Act
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 5/28/2026, 8:35:00 PM  
-**Categories:** Latest News  
-
-The future of a digital asset market structure bill in Congress is still uncertain amid concerns over ethics provisions, with the president, whose crypto ties are under scrutiny, weighing in on social media.
-
-📖 [Read original article](https://cointelegraph.com/news/donald-trump-future-proof-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
