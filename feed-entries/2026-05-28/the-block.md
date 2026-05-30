@@ -2,12 +2,12 @@
 title: "The Block - 2026-05-28"
 date: "2026-05-28"
 source: "The Block"
-count: 6
+count: 5
 ---
 
 # The Block - 2026-05-28
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ Following the CFTC's suit, Kalshi has sued the state of Minnesota after Governor
 Tether’s USA₮ supply grew six-fold month-over-month to over 140 million tokens, according to Anchorage Digital's latest attestation.
 
 📖 [Read original article](https://www.theblock.co/post/402933/tethers-usat-supply-grows-540-month-over-month-latest-attestation-shows?utm_source=rss&utm_medium=rss)
-
----
-
-## 6. Hyperliquid-based prop trading platform Hypernova raises $3 million in pre-seed funding
-
-**Author:** Yogita Khatri  
-**Published:** 5/28/2026, 5:30:02 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Markets, Startups, Token Projects, Venture Capital, exclusive, Seed and Pre-Seed, Smart contracts, Tokens  
-
-Hyperliquid-based prop trading platform Hypernova says it offers "instant payouts" and plans to publicly launch within the next two months.
-
-📖 [Read original article](https://www.theblock.co/post/402923/hyperliquid-prop-trading-platform-hypernova-crypto-funding?utm_source=rss&utm_medium=rss)
 
 ---
