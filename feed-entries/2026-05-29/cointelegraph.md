@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-05-29"
 date: "2026-05-29"
 source: "Cointelegraph"
-count: 20
+count: 23
 ---
 
 # Cointelegraph - 2026-05-29
 
-20 items collected.
+23 items collected.
 
 ---
 
-## 1. Sui network temporarily stalls again after Thursday's outage
+## 1. Bitcoin dip buyers place $500M in bids as $70K retest looms
+
+**Author:** Cointelegraph by Biraajmaan Tamuly  
+**Published:** 5/29/2026, 10:45:33 PM  
+**Categories:** Markets  
+
+Over $500 million in Bitcoin bids now sit near $70,000, while options traders and futures positions converge around the same level.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-dip-buyers-place-350m-in-bids-as-70k-retest-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. ‘Extraordinarily unusual’ for CFTC to reverse Gemini settlement deal: Ex-chair
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 5/29/2026, 10:28:10 PM  
+**Categories:** Latest News  
+
+As the CFTC and Gemini work together to seek a court's reversal of a 2025 settlement, one of the agency’s former chairs said the public “deserves a better explanation.”
+
+📖 [Read original article](https://cointelegraph.com/news/cftc-reverse-settlement-gemini-unusual-former-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. CFTC backs crypto perpetual contracts, issues advisory on 24/7 trading
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 5/29/2026, 8:52:01 PM  
+**Categories:** Latest News  
+
+The CFTC issued notices affecting platforms seeking to offer cryptocurrency perpetual futures contracts, including a no-action position for Coinbase and approval for Kalshi.
+
+📖 [Read original article](https://cointelegraph.com/news/cftc-crypto-perpetual-contracts-trading-advisory?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Sui network temporarily stalls again after Thursday's outage
 
 **Author:** Cointelegraph by Vince Quill  
 **Published:** 5/29/2026, 6:46:50 PM  
@@ -23,7 +59,7 @@ The outage was caused by the same network update software bug that disrupted the
 
 ---
 
-## 2. Coinbase brings global crypto derivatives markets to US institutional clients
+## 5. Coinbase brings global crypto derivatives markets to US institutional clients
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 5/29/2026, 5:56:33 PM  
@@ -35,7 +71,7 @@ The exchange's integration with Deribit gives eligible US institutional investor
 
 ---
 
-## 3. Bitcoin plums new six-week lows as analyst eyes BTC price dip 'end' at $72K
+## 6. Bitcoin plums new six-week lows as analyst eyes BTC price dip 'end' at $72K
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 5/29/2026, 5:03:12 PM  
@@ -47,7 +83,7 @@ Bitcoin saw its lowest levels since the middle of April as BTC price action cont
 
 ---
 
-## 4. Ex-Celsius CEO files motion to vacate sentence after lawyers withdraw
+## 7. Ex-Celsius CEO files motion to vacate sentence after lawyers withdraw
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 5/29/2026, 4:58:50 PM  
@@ -59,7 +95,7 @@ Former CEO Alex Mashinsky filed documents seeking to vacate his 12-year sentence
 
 ---
 
-## 5. Ethereum analysts say ‘downside pressure’ remains as $1.8K becomes key
+## 8. Ethereum analysts say ‘downside pressure’ remains as $1.8K becomes key
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/29/2026, 3:50:08 PM  
@@ -71,7 +107,7 @@ Analysts warn Ether’s downside risks remain elevated as traders closely watch 
 
 ---
 
-## 6. Here’s what happened in crypto today
+## 9. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 5/29/2026, 2:28:38 PM  
@@ -83,7 +119,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 7. Bitcoin ETFs bleed $2.8B in record nine-day outflow streak
+## 10. Bitcoin ETFs bleed $2.8B in record nine-day outflow streak
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 5/29/2026, 2:20:32 PM  
@@ -95,7 +131,7 @@ Spot Bitcoin ETFs recorded a nine-day outflow streak totaling $2.84 billion, sur
 
 ---
 
-## 8. Why is Stellar's XLM up by over 50% this week?
+## 11. Why is Stellar's XLM up by over 50% this week?
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 5/29/2026, 1:34:59 PM  
@@ -107,7 +143,7 @@ XLM rallied after US financial giant DTCC announced a partnership with the Stell
 
 ---
 
-## 9. NYSE parent ICE pushes ‘level playing field’ for 24/7 onchain perps
+## 12. NYSE parent ICE pushes ‘level playing field’ for 24/7 onchain perps
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/29/2026, 1:25:20 PM  
@@ -119,7 +155,7 @@ ICE’s CEO said regulators need to create a “level playing field” for launc
 
 ---
 
-## 10. Bitcoin falls out of the global top 10 assets as market cap dips below $1.5T
+## 13. Bitcoin falls out of the global top 10 assets as market cap dips below $1.5T
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/29/2026, 12:09:23 PM  
@@ -131,7 +167,7 @@ Bitcoin’s market cap has dropped below $1.5 trillion, pushing it out of the wo
 
 ---
 
-## 11. Strategy situation ‘out of hand,’ says Arca exec on $15B preferred stock burden
+## 14. Strategy situation ‘out of hand,’ says Arca exec on $15B preferred stock burden
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 5/29/2026, 12:05:09 PM  
@@ -143,7 +179,7 @@ Strategy’s capital structure may be under pressure as Arca’s Jeff Dorman hig
 
 ---
 
-## 12. Texas Bitcoin reserve plans shift from ETF to direct BTC custody
+## 15. Texas Bitcoin reserve plans shift from ETF to direct BTC custody
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/29/2026, 11:39:38 AM  
@@ -155,7 +191,7 @@ Texas is hiring a crypto custodian to move its $10 million Strategic Bitcoin Res
 
 ---
 
-## 13. DxSale drained for $7.3M in BNB Chain liquidity exploit
+## 16. DxSale drained for $7.3M in BNB Chain liquidity exploit
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/29/2026, 10:42:38 AM  
@@ -167,7 +203,7 @@ DxSale was drained for about $7.3 million from BNB Chain liquidity providers, ra
 
 ---
 
-## 14. OKX Ventures, Korea Investment & Securities to buy 19.6% Coinone stake for $106M
+## 17. OKX Ventures, Korea Investment & Securities to buy 19.6% Coinone stake for $106M
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/29/2026, 8:31:00 AM  
@@ -179,7 +215,7 @@ OKX Ventures and KIS to invest $53 million each for a 19.6% stake in Coinone, de
 
 ---
 
-## 15. SEC approves Paxos as ‘blockchain-native’ clearing agency
+## 18. SEC approves Paxos as ‘blockchain-native’ clearing agency
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/29/2026, 5:37:25 AM  
@@ -191,7 +227,7 @@ Paxos says its approval as a blockchain-focused clearing agency represents a “
 
 ---
 
-## 16. Bitcoin’s major holders halt buys as demand slows: CryptoQuant
+## 19. Bitcoin’s major holders halt buys as demand slows: CryptoQuant
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/29/2026, 4:33:46 AM  
@@ -203,7 +239,7 @@ CryptoQuant says that the holding structure for large Bitcoin holders is deterio
 
 ---
 
-## 17. Sui Network back online after ‘crash bug’ causes 6-hour outage
+## 20. Sui Network back online after ‘crash bug’ causes 6-hour outage
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 5/29/2026, 4:08:41 AM  
@@ -215,7 +251,7 @@ The Sui mainnet has resumed after a bug in a network update took it offline for 
 
 ---
 
-## 18. Bitcoin’s trapped under $74K while $9B options expiry looms: Are bears back in control?
+## 21. Bitcoin’s trapped under $74K while $9B options expiry looms: Are bears back in control?
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 5/29/2026, 3:44:40 AM  
@@ -227,7 +263,7 @@ Bears hold the upper hand for Friday's $9 billion options expiry, keeping Bitcoi
 
 ---
 
-## 19. Buy $72K dip, or jump ship: What will Bitcoin bulls do?
+## 22. Buy $72K dip, or jump ship: What will Bitcoin bulls do?
 
 **Author:** Cointelegraph by Antonio Oliveira  
 **Published:** 5/29/2026, 1:10:12 AM  
@@ -239,7 +275,7 @@ Investors selling across spot, futures and ETF markets pushed Bitcoin into its m
 
 ---
 
-## 20. Gemini taps Grok for personalized AI-powered prediction market feeds
+## 23. Gemini taps Grok for personalized AI-powered prediction market feeds
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 5/29/2026, 12:59:09 AM  
