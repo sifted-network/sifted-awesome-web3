@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-29"
 date: "2026-05-29"
 source: "Cointelegraph"
-count: 23
+count: 22
 ---
 
 # Cointelegraph - 2026-05-29
 
-23 items collected.
+22 items collected.
 
 ---
 
@@ -107,19 +107,7 @@ Analysts warn Ether’s downside risks remain elevated as traders closely watch 
 
 ---
 
-## 9. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 5/29/2026, 2:28:38 PM  
-**Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Bitcoin ETFs bleed $2.8B in record nine-day outflow streak
+## 9. Bitcoin ETFs bleed $2.8B in record nine-day outflow streak
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 5/29/2026, 2:20:32 PM  
@@ -131,7 +119,7 @@ Spot Bitcoin ETFs recorded a nine-day outflow streak totaling $2.84 billion, sur
 
 ---
 
-## 11. Why is Stellar's XLM up by over 50% this week?
+## 10. Why is Stellar's XLM up by over 50% this week?
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 5/29/2026, 1:34:59 PM  
@@ -143,7 +131,7 @@ XLM rallied after US financial giant DTCC announced a partnership with the Stell
 
 ---
 
-## 12. NYSE parent ICE pushes ‘level playing field’ for 24/7 onchain perps
+## 11. NYSE parent ICE pushes ‘level playing field’ for 24/7 onchain perps
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/29/2026, 1:25:20 PM  
@@ -155,7 +143,7 @@ ICE’s CEO said regulators need to create a “level playing field” for launc
 
 ---
 
-## 13. Bitcoin falls out of the global top 10 assets as market cap dips below $1.5T
+## 12. Bitcoin falls out of the global top 10 assets as market cap dips below $1.5T
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 5/29/2026, 12:09:23 PM  
@@ -167,7 +155,7 @@ Bitcoin’s market cap has dropped below $1.5 trillion, pushing it out of the wo
 
 ---
 
-## 14. Strategy situation ‘out of hand,’ says Arca exec on $15B preferred stock burden
+## 13. Strategy situation ‘out of hand,’ says Arca exec on $15B preferred stock burden
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 5/29/2026, 12:05:09 PM  
@@ -179,7 +167,7 @@ Strategy’s capital structure may be under pressure as Arca’s Jeff Dorman hig
 
 ---
 
-## 15. Texas Bitcoin reserve plans shift from ETF to direct BTC custody
+## 14. Texas Bitcoin reserve plans shift from ETF to direct BTC custody
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/29/2026, 11:39:38 AM  
@@ -191,7 +179,7 @@ Texas is hiring a crypto custodian to move its $10 million Strategic Bitcoin Res
 
 ---
 
-## 16. DxSale drained for $7.3M in BNB Chain liquidity exploit
+## 15. DxSale drained for $7.3M in BNB Chain liquidity exploit
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 5/29/2026, 10:42:38 AM  
@@ -203,7 +191,7 @@ DxSale was drained for about $7.3 million from BNB Chain liquidity providers, ra
 
 ---
 
-## 17. OKX Ventures, Korea Investment & Securities to buy 19.6% Coinone stake for $106M
+## 16. OKX Ventures, Korea Investment & Securities to buy 19.6% Coinone stake for $106M
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 5/29/2026, 8:31:00 AM  
@@ -215,7 +203,7 @@ OKX Ventures and KIS to invest $53 million each for a 19.6% stake in Coinone, de
 
 ---
 
-## 18. SEC approves Paxos as ‘blockchain-native’ clearing agency
+## 17. SEC approves Paxos as ‘blockchain-native’ clearing agency
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/29/2026, 5:37:25 AM  
@@ -227,7 +215,7 @@ Paxos says its approval as a blockchain-focused clearing agency represents a “
 
 ---
 
-## 19. Bitcoin’s major holders halt buys as demand slows: CryptoQuant
+## 18. Bitcoin’s major holders halt buys as demand slows: CryptoQuant
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 5/29/2026, 4:33:46 AM  
@@ -239,7 +227,7 @@ CryptoQuant says that the holding structure for large Bitcoin holders is deterio
 
 ---
 
-## 20. Sui Network back online after ‘crash bug’ causes 6-hour outage
+## 19. Sui Network back online after ‘crash bug’ causes 6-hour outage
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 5/29/2026, 4:08:41 AM  
@@ -251,7 +239,7 @@ The Sui mainnet has resumed after a bug in a network update took it offline for 
 
 ---
 
-## 21. Bitcoin’s trapped under $74K while $9B options expiry looms: Are bears back in control?
+## 20. Bitcoin’s trapped under $74K while $9B options expiry looms: Are bears back in control?
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 5/29/2026, 3:44:40 AM  
@@ -263,7 +251,7 @@ Bears hold the upper hand for Friday's $9 billion options expiry, keeping Bitcoi
 
 ---
 
-## 22. Buy $72K dip, or jump ship: What will Bitcoin bulls do?
+## 21. Buy $72K dip, or jump ship: What will Bitcoin bulls do?
 
 **Author:** Cointelegraph by Antonio Oliveira  
 **Published:** 5/29/2026, 1:10:12 AM  
@@ -275,7 +263,7 @@ Investors selling across spot, futures and ETF markets pushed Bitcoin into its m
 
 ---
 
-## 23. Gemini taps Grok for personalized AI-powered prediction market feeds
+## 22. Gemini taps Grok for personalized AI-powered prediction market feeds
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 5/29/2026, 12:59:09 AM  
