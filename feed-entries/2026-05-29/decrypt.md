@@ -2,16 +2,52 @@
 title: "Decrypt - 2026-05-29"
 date: "2026-05-29"
 source: "Decrypt"
-count: 12
+count: 15
 ---
 
 # Decrypt - 2026-05-29
 
-12 items collected.
+15 items collected.
 
 ---
 
-## 1. Coinbase Becomes First US Exchange Allowed to Offer Global Crypto Perps Trading
+## 1. 'He’s Full of Shit': JP Morgan's Jamie Dimon Takes Aim at Coinbase CEO Over Clarity Act
+
+**Author:** Logan Hitchcock  
+**Published:** 5/29/2026, 9:24:28 PM  
+**Categories:** Business  
+
+Dimon vowed to fight the passage of the crypto market structure bill until the bitter end.
+
+📖 [Read original article](https://decrypt.co/369525/jp-morgan-ceo-jamie-dimon-takes-aim-coinbase-clarity-act)
+
+---
+
+## 2. Treasury Secretary Bessent Says US Has 'Grabbed' $1 Billion in Crypto From Iran
+
+**Author:** André Beganski  
+**Published:** 5/29/2026, 8:40:37 PM  
+**Categories:** , , Law and Order  
+
+Treasury Secretary Scott Bessent said the U.S. has "outright grabbed" roughly $1 billion worth of cryptocurrencies from Iran via seizures.
+
+📖 [Read original article](https://decrypt.co/369522/treasurys-bessent-says-us-grabbed-1-billion-crypto-iran)
+
+---
+
+## 3. Celsius Founder Alex Mashinsky Files to Have 12-Year Crypto Fraud Sentence Vacated
+
+**Author:** Logan Hitchcock  
+**Published:** 5/29/2026, 8:28:18 PM  
+**Categories:** celsius-degree-token, Law and Order  
+
+Celsius founder and former CEO Alex Mashinsky hopes to have his prison sentence vacated, claiming a legal conflict tied to Sam Bankman-Fried.
+
+📖 [Read original article](https://decrypt.co/369520/celsius-founder-mashinsky-files-12-year-crypto-fraud-sentence-vacated)
+
+---
+
+## 4. Coinbase Becomes First US Exchange Allowed to Offer Global Crypto Perps Trading
 
 **Author:** Sander Lutz  
 **Published:** 5/29/2026, 7:41:34 PM  
@@ -23,7 +59,7 @@ Coinbase can offer U.S. customers access to offshore crypto perpetual futures, a
 
 ---
 
-## 2. Lenovo Stock Doubles in May on AI Server Boom—Best Month in 27 Years
+## 5. Lenovo Stock Doubles in May on AI Server Boom—Best Month in 27 Years
 
 **Author:** Jose Antonio Lanz  
 **Published:** 5/29/2026, 7:34:26 PM  
@@ -35,7 +71,7 @@ The world's biggest PC maker surged 109% in May after AI revenue hit 38% of quar
 
 ---
 
-## 3. You Can Now Read the US Constitution via the Bitcoin Blockchain
+## 6. You Can Now Read the US Constitution via the Bitcoin Blockchain
 
 **Author:** Logan Hitchcock  
 **Published:** 5/29/2026, 6:31:11 PM  
@@ -47,7 +83,7 @@ One of America's most important historical documents will forever be inscribed o
 
 ---
 
-## 4. NYSE Parent Isn't 'Freaked Out' by Hyperliquid—It's Learning From the Crypto Perps Giant
+## 7. NYSE Parent Isn't 'Freaked Out' by Hyperliquid—It's Learning From the Crypto Perps Giant
 
 **Author:** Vince Dioquino  
 **Published:** 5/29/2026, 6:14:59 PM  
@@ -59,7 +95,7 @@ Intercontinental Exchange CEO Jeffrey Sprecher said his company and Hyperliquid 
 
 ---
 
-## 5. AI Models Can’t Agree on Basic Facts Most of the Time, Study Shows
+## 8. AI Models Can’t Agree on Basic Facts Most of the Time, Study Shows
 
 **Author:** Jose Antonio Lanz  
 **Published:** 5/29/2026, 5:26:24 PM  
@@ -71,7 +107,7 @@ A new study gave five frontier AI models 1,000 real-world claims to fact-check. 
 
 ---
 
-## 6. Wintermute Is Providing Liquidity on Kalshi and Polymarket, Linking Two Giants
+## 9. Wintermute Is Providing Liquidity on Kalshi and Polymarket, Linking Two Giants
 
 **Author:** André Beganski  
 **Published:** 5/29/2026, 4:20:08 PM  
@@ -83,7 +119,7 @@ Wintermute is providing liquidity on the two biggest prediction markets, linking
 
 ---
 
-## 7. CFTC Approves Bitcoin Perpetual Futures on Prediction Market Kalshi
+## 10. CFTC Approves Bitcoin Perpetual Futures on Prediction Market Kalshi
 
 **Author:** André Beganski  
 **Published:** 5/29/2026, 3:00:50 PM  
@@ -95,7 +131,7 @@ The CFTC issued an order allowing Kalshi to offer perpetual futures in the U.S.,
 
 ---
 
-## 8. Sui Network Goes Down for Second Straight Day as Weekly Token Slide Hits 20%
+## 11. Sui Network Goes Down for Second Straight Day as Weekly Token Slide Hits 20%
 
 **Author:** Logan Hitchcock  
 **Published:** 5/29/2026, 2:42:01 PM  
@@ -107,7 +143,7 @@ The Sui token is among the worst performing top 100 crypto assets of the last we
 
 ---
 
-## 9. Bitcoin ETFs Shed $2.8B in Record-Breaking Nine-Day Streak
+## 12. Bitcoin ETFs Shed $2.8B in Record-Breaking Nine-Day Streak
 
 **Author:** Akash Girimath  
 **Published:** 5/29/2026, 12:39:29 PM  
@@ -119,7 +155,7 @@ Cooling demand for Bitcoin ETFs adds to declining accumulation by whales, unders
 
 ---
 
-## 10. Morning Minute: Hyperliquid Is 'Bigger Than Nasdaq'
+## 13. Morning Minute: Hyperliquid Is 'Bigger Than Nasdaq'
 
 **Author:** Tyler Warner  
 **Published:** 5/29/2026, 12:08:19 PM  
@@ -131,7 +167,7 @@ The man who built the modern NYSE just said Hyperliquid is bigger than Nasdaq. J
 
 ---
 
-## 11. Ukrainian Police Officers Allegedly Kidnapped Crypto Entrepreneurs to Extort Millions
+## 14. Ukrainian Police Officers Allegedly Kidnapped Crypto Entrepreneurs to Extort Millions
 
 **Author:** Vismaya V  
 **Published:** 5/29/2026, 11:59:40 AM  
@@ -143,7 +179,7 @@ Prosecutors say two police colonels organized an extortion ring that allegedly t
 
 ---
 
-## 12. Paxos Secures SEC Registration as Clearing Agency
+## 15. Paxos Secures SEC Registration as Clearing Agency
 
 **Author:** Decrypt Agent  
 **Published:** 5/29/2026, 10:34:30 AM  
