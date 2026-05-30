@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-28"
 date: "2026-05-28"
 source: "Cointelegraph"
-count: 4
+count: 2
 ---
 
 # Cointelegraph - 2026-05-28
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ Bulls abandon ship as SOL futures open interest dropped 30% in May. With the pri
 The investment firm said nation-states and central banks are increasingly turning to assets like Bitcoin and gold as alternative settlement systems outside of US control.
 
 📖 [Read original article](https://cointelegraph.com/news/fidelity-digital-assets-shift-dollar-based-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Prediction markets legal battles heat up in Minnesota, Rhode Island
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 5/28/2026, 10:06:00 PM  
-**Categories:** Latest News  
-
-Kalshi sued Minnesota while the CFTC filed against Rhode Island as legal wrangling with state-level authorities seems likely headed to the US Supreme Court.
-
-📖 [Read original article](https://cointelegraph.com/news/kalshi-cftc-lawsuit-minnesota-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Bit Digital buys $20M worth of Ethereum, expands treasury to 158K ETH
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 5/28/2026, 9:32:40 PM  
-**Categories:** Latest News  
-
-The purchase pushed the Nasdaq-listed company ahead of Coinbase Global to become the fourth-largest public corporate holder of Ether, according to CoinGecko data.
-
-📖 [Read original article](https://cointelegraph.com/news/bit-digital-buys-20m-worth-of-ethereum-expands-treasury-to-158k-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
