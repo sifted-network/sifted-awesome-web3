@@ -2,12 +2,12 @@
 title: "The Block - 2026-05-28"
 date: "2026-05-28"
 source: "The Block"
-count: 5
+count: 3
 ---
 
 # The Block - 2026-05-28
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ Bitcoin holding structure continues to deteriorate as whale and dolphin BTC bala
 The Digital Chamber published a website to serve as a central spot for people to write to lawmakers in its latest push to pass a crypto bill.
 
 📖 [Read original article](https://www.theblock.co/post/402948/the-digital-chamber-ramps-up-pressure-on-congress-with-call-to-action-to-pass-clarity-act?utm_source=rss&utm_medium=rss)
-
----
-
-## 4. Kalshi’s turn: Prediction markets platform sues Minnesota over law going into effect in August
-
-**Author:** Sarah Wynn  
-**Published:** 5/28/2026, 5:55:31 PM  
-**Categories:** Legal, Policy, Regulation, U.S. Policymaking, CFTC  
-
-Following the CFTC's suit, Kalshi has sued the state of Minnesota after Governor Tim Walz signed a law blocking prediction markets.
-
-📖 [Read original article](https://www.theblock.co/post/402937/kalshis-prediction-markets-sues-minnesota-law-ban?utm_source=rss&utm_medium=rss)
-
----
-
-## 5. Tether’s USAT supply grows 540% month-over-month, latest attestation shows
-
-**Author:** Daniel Kuhn  
-**Published:** 5/28/2026, 5:38:59 PM  
-**Categories:** Crypto Ecosystems, Markets, Policy, Regulation, Stablecoins, Tether  
-
-Tether’s USA₮ supply grew six-fold month-over-month to over 140 million tokens, according to Anchorage Digital's latest attestation.
-
-📖 [Read original article](https://www.theblock.co/post/402933/tethers-usat-supply-grows-540-month-over-month-latest-attestation-shows?utm_source=rss&utm_medium=rss)
 
 ---
