@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-05-28"
 date: "2026-05-28"
 source: "CoinDesk"
-count: 5
+count: 3
 ---
 
 # CoinDesk - 2026-05-28
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ FalconX has hired Cantor and other bankers to advise on a potential IPO and conf
 In this week's edition of The Protocol Newsletter, we're diving deep into the institution that has been the main steward for the Ethereum blockchain, and why its been back in the spotlight.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/05/28/why-the-ethereum-foundation-is-suddenly-again-at-the-center-of-crypto-s-culture-war)
-
----
-
-## 4. Tether's U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals
-
-**Author:** Krisztian Sandor  
-**Published:** 5/28/2026, 6:53:40 PM  
-**Categories:** Finance, Stablecoins, Tether, Anchorage Digital, News  
-
-USAT's market cap jumped above $140 million in April, though it remains well behind Circle's USDC, PayPal's PYUSD and Ripple's RLUSD tokens.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/05/28/tether-s-u-s-focused-stablecoin-grows-over-500-in-a-month-but-still-lags-main-rivals)
-
----
-
-## 5. Bitwise bets Hyperliquid could power future finance as HYPE ETFs gain traction
-
-**Author:** AI Boost  
-**Published:** 5/28/2026, 6:34:25 PM  
-**Categories:** CoinDesk News, Media Network Interview, Hyperliquid, News  
-
-Bitwise says investor demand for Hyperliquid exposure is surging as new HYPE ETFs launch.
-
-📖 [Read original article](https://www.coindesk.com/coindesk-news/2026/05/28/bitwise-bets-hyperliquid-could-power-future-finance-as-hype-etfs-gain-traction)
 
 ---
