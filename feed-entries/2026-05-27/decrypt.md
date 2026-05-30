@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-05-27"
 date: "2026-05-27"
 source: "Decrypt"
-count: 7
+count: 6
 ---
 
 # Decrypt - 2026-05-27
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ ElevenLabs has licensed Stan Lee’s voice and likeness, adding the late Marvel 
 Back-to-back price cuts from China's top AI labs have made their models a fraction of the cost of GPT-5.5 and Claude Opus.
 
 📖 [Read original article](https://decrypt.co/369202/deepseek-xiaomi-frontier-ai-cheaper-american-labs-other-way)
-
----
-
-## 7. Cash App Now Supports Stablecoins, Despite Bitcoin Maxi Jack Dorsey's 'Gatekeeper' Gripes
-
-**Author:** André Beganski  
-**Published:** 5/27/2026, 6:49:02 PM  
-**Categories:** , Business  
-
-Cash App has begun supporting stablecoin transactions on networks including Ethereum and Solana, pushing past its Bitcoin-based roots.
-
-📖 [Read original article](https://decrypt.co/369199/cash-app-supports-stablecoins-bitcoin-maxi-jack-dorsey-gatekeeper-gripes)
 
 ---
