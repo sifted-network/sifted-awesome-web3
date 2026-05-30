@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-05-27"
 date: "2026-05-27"
 source: "Decrypt"
-count: 10
+count: 7
 ---
 
 # Decrypt - 2026-05-27
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ Back-to-back price cuts from China's top AI labs have made their models a fracti
 Cash App has begun supporting stablecoin transactions on networks including Ethereum and Solana, pushing past its Bitcoin-based roots.
 
 📖 [Read original article](https://decrypt.co/369199/cash-app-supports-stablecoins-bitcoin-maxi-jack-dorsey-gatekeeper-gripes)
-
----
-
-## 8. OpenAI Foundation Pledges $250 Million to Help Cushion AI's Economic Disruption
-
-**Author:** Decrypt Agent  
-**Published:** 5/27/2026, 5:43:14 PM  
-**Categories:** Artificial Intelligence  
-
-The philanthropic arm of ChatGPT maker OpenAI will fund research, worker support, and new models for sharing the gains from automation.
-
-📖 [Read original article](https://decrypt.co/369195/openai-foundation-pledges-250-million-ai-economic-disruption)
-
----
-
-## 9. YouTube Makes AI Content Labels More Prominent as Google Pushes Video Remix Tools
-
-**Author:** Jason Nelson  
-**Published:** 5/27/2026, 5:35:22 PM  
-**Categories:** Artificial Intelligence  
-
-YouTube says new disclosure tools and automatic AI detection will help viewers more easily identify AI-generated videos.
-
-📖 [Read original article](https://decrypt.co/369190/youtube-ai-content-labels-more-prominent-google-pushes-video-remix-tools)
-
----
-
-## 10. SoFi Launches SoFiUSD Stablecoin Across Ethereum and Solana
-
-**Author:** Decrypt Agent  
-**Published:** 5/27/2026, 5:08:09 PM  
-**Categories:** , , Coins  
-
-SoFi is making its SoFiUSD token available to members, marking a milestone in the convergence of regulated banking and blockchain.
-
-📖 [Read original article](https://decrypt.co/369187/sofi-launches-sofiusd-stablecoin-ethereum-solana)
 
 ---
