@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-28"
 date: "2026-05-28"
 source: "Cointelegraph"
-count: 6
+count: 4
 ---
 
 # Cointelegraph - 2026-05-28
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ Kalshi sued Minnesota while the CFTC filed against Rhode Island as legal wrangli
 The purchase pushed the Nasdaq-listed company ahead of Coinbase Global to become the fourth-largest public corporate holder of Ether, according to CoinGecko data.
 
 📖 [Read original article](https://cointelegraph.com/news/bit-digital-buys-20m-worth-of-ethereum-expands-treasury-to-158k-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. SEC Commissioner Peirce defends crypto privacy tools against surveillance push
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 5/28/2026, 8:49:32 PM  
-**Categories:** Latest News  
-
-The leader of the regulator's Crypto Task Force said privacy-enhancing technologies can strengthen investor protection and urged regulators not to treat them with suspicion.
-
-📖 [Read original article](https://cointelegraph.com/news/sec-hester-peirce-defends-crypto-privacy-tools-surveillance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Bitcoin enters cool-down phase under $75K as ‘active distribution’ rises
-
-**Author:** Cointelegraph by Biraajmaan Tamuly  
-**Published:** 5/28/2026, 8:42:52 PM  
-**Categories:** Markets  
-
-Bitcoin’s slide toward $73,000 triggered active distribution signals, but lowered realized losses and weak spot volumes point to easing sell pressure.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-enters-cooling-off-phase-under-75k-with-active-distribution-on-the-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
