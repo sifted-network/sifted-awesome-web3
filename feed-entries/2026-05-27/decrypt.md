@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-05-27"
 date: "2026-05-27"
 source: "Decrypt"
-count: 6
+count: 5
 ---
 
 # Decrypt - 2026-05-27
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ Music v2 brings genre-shifting and section-by-section composition to ElevenLabs.
 ElevenLabs has licensed Stan Lee’s voice and likeness, adding the late Marvel comic creator to a growing market for AI celebrity replicas.
 
 📖 [Read original article](https://decrypt.co/369220/marvel-comics-icon-stan-lee-revived-ai-tech-again)
-
----
-
-## 6. DeepSeek, Xiaomi Just Made Frontier AI 99% Cheaper. American Labs Went the Other Way
-
-**Author:** Jose Antonio Lanz  
-**Published:** 5/27/2026, 7:31:08 PM  
-**Categories:** Artificial Intelligence  
-
-Back-to-back price cuts from China's top AI labs have made their models a fraction of the cost of GPT-5.5 and Claude Opus.
-
-📖 [Read original article](https://decrypt.co/369202/deepseek-xiaomi-frontier-ai-cheaper-american-labs-other-way)
 
 ---
