@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-29"
 date: "2026-05-29"
 source: "Cointelegraph"
-count: 17
+count: 14
 ---
 
 # Cointelegraph - 2026-05-29
 
-17 items collected.
+14 items collected.
 
 ---
 
@@ -176,41 +176,5 @@ Strategy’s capital structure may be under pressure as Arca’s Jeff Dorman hig
 Texas is hiring a crypto custodian to move its $10 million Strategic Bitcoin Reserve from BlackRock’s IBIT ETF into directly held coins and build full state‑level BTC plumbing.
 
 📖 [Read original article](https://cointelegraph.com/news/texas-plans-shift-bitcoin-reserve-from-etf-to-direct-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. DxSale drained for $7.3M in BNB Chain liquidity exploit
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 5/29/2026, 10:42:38 AM  
-**Categories:** Latest News  
-
-DxSale was drained for about $7.3 million from BNB Chain liquidity providers, raising fresh concerns over old DeFi locker contracts.
-
-📖 [Read original article](https://cointelegraph.com/news/memecoin-platform-dxsale-drained-73m-1400-lps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. OKX Ventures, Korea Investment & Securities to buy 19.6% Coinone stake for $106M
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 5/29/2026, 8:31:00 AM  
-**Categories:** Latest News  
-
-OKX Ventures and KIS to invest $53 million each for a 19.6% stake in Coinone, deepening ties between traditional finance and crypto in South Korea’s tightly regulated market.
-
-📖 [Read original article](https://cointelegraph.com/news/okx-ventures-korea-investment-securities-buy-196-stake-in-coinone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. SEC approves Paxos as ‘blockchain-native’ clearing agency
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 5/29/2026, 5:37:25 AM  
-**Categories:** Latest News  
-
-Paxos says its approval as a blockchain-focused clearing agency represents a “critical piece of financial market infrastructure” as Wall Street becomes more interested in crypto.
-
-📖 [Read original article](https://cointelegraph.com/news/paxos-becomes-first-crypto-firm-to-win-sec-clearing-agency-registration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
