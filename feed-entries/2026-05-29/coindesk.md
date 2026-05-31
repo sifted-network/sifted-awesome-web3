@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-05-29"
 date: "2026-05-29"
 source: "CoinDesk"
-count: 16
+count: 15
 ---
 
 # CoinDesk - 2026-05-29
 
-16 items collected.
+15 items collected.
 
 ---
 
@@ -188,17 +188,5 @@ The Governor of Minnesota signed into law a measure that, starting Aug. 1, makes
 STRC has struggled to maintain its $100 target price, while Strategy's reduced cash reserves and dividend obligations are drawing increased investor attention.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/05/29/strategy-s-strc-slips-below-usd99-as-strive-captures-investor-attention)
-
----
-
-## 16. Solana, Sui and Aptos wallet data targeted in TrapDoor package attack
-
-**Author:** Shaurya Malwa  
-**Published:** 5/29/2026, 8:19:42 AM  
-**Categories:** Tech, Hack, News  
-
-The campaign targets crypto, DeFi, AI and security developers with fake tooling packages to steal wallets, SSH keys, GitHub tokens, cloud credentials and browser data.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/05/29/solana-sui-and-aptos-wallet-data-targeted-in-trapdoor-package-attack)
 
 ---
