@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-29"
 date: "2026-05-29"
 source: "Cointelegraph"
-count: 21
+count: 19
 ---
 
 # Cointelegraph - 2026-05-29
 
-21 items collected.
+19 items collected.
 
 ---
 
@@ -236,29 +236,5 @@ CryptoQuant says that the holding structure for large Bitcoin holders is deterio
 The Sui mainnet has resumed after a bug in a network update took it offline for 5 hours and 55 minutes.
 
 📖 [Read original article](https://cointelegraph.com/news/sui-network-back-online-after-crash-bug-six-hour-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Bitcoin’s trapped under $74K while $9B options expiry looms: Are bears back in control?
-
-**Author:** Cointelegraph by Marcel Pechman  
-**Published:** 5/29/2026, 3:44:40 AM  
-**Categories:** Markets  
-
-Bears hold the upper hand for Friday's $9 billion options expiry, keeping Bitcoin under pressure amid heavy ETF outflows and corporate selling
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoins-trapped-under-74k-while-9b-options-expiry-looms-are-bears-back-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Buy $72K dip, or jump ship: What will Bitcoin bulls do?
-
-**Author:** Cointelegraph by Antonio Oliveira  
-**Published:** 5/29/2026, 1:10:12 AM  
-**Categories:** Markets  
-
-Investors selling across spot, futures and ETF markets pushed Bitcoin into its monthly range lows near $72,000 but data shows retail investors buying the dip and opening longs.
-
-📖 [Read original article](https://cointelegraph.com/markets/buy-the-72k-dip-or-jump-ship-what-will-bitcoin-bulls-do?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
