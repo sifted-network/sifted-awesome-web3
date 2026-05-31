@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-29"
 date: "2026-05-29"
 source: "Cointelegraph"
-count: 19
+count: 17
 ---
 
 # Cointelegraph - 2026-05-29
 
-19 items collected.
+17 items collected.
 
 ---
 
@@ -212,29 +212,5 @@ OKX Ventures and KIS to invest $53 million each for a 19.6% stake in Coinone, de
 Paxos says its approval as a blockchain-focused clearing agency represents a “critical piece of financial market infrastructure” as Wall Street becomes more interested in crypto.
 
 📖 [Read original article](https://cointelegraph.com/news/paxos-becomes-first-crypto-firm-to-win-sec-clearing-agency-registration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Bitcoin’s major holders halt buys as demand slows: CryptoQuant
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 5/29/2026, 4:33:46 AM  
-**Categories:** Latest News  
-
-CryptoQuant says that the holding structure for large Bitcoin holders is deteriorating, a trend that has historically preceded “sustained price weakness.”
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-hodling-structure-weakening-across-major-investor-cohorts-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Sui Network back online after ‘crash bug’ causes 6-hour outage
-
-**Author:** Cointelegraph by Stephen Katte  
-**Published:** 5/29/2026, 4:08:41 AM  
-**Categories:** Latest News  
-
-The Sui mainnet has resumed after a bug in a network update took it offline for 5 hours and 55 minutes.
-
-📖 [Read original article](https://cointelegraph.com/news/sui-network-back-online-after-crash-bug-six-hour-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
