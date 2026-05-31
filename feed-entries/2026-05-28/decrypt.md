@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-05-28"
 date: "2026-05-28"
 source: "Decrypt"
-count: 17
+count: 14
 ---
 
 # Decrypt - 2026-05-28
 
-17 items collected.
+14 items collected.
 
 ---
 
@@ -176,41 +176,5 @@ A London startup trained an AI on 4.1 million recipes across seven languages—a
 A prize pool of over $100,000 is available for top traders and makers on prediction markets linked to FIFA World Cup matches.
 
 📖 [Read original article](https://decrypt.co/369291/prediction-market-myriad-launches-100k-world-cup-competition)
-
----
-
-## 15. Morning Minute: Crypto Majors Slide on Iran Escalations, ETF Outflows
-
-**Author:** Tyler Warner  
-**Published:** 5/28/2026, 12:32:55 PM  
-**Categories:** , , Opinion  
-
-Massive ETF outflows just sent crypto sharply lower. Jefferies says the next crypto IPO wave could create a $1T public market.
-
-📖 [Read original article](https://decrypt.co/369258/morning-minute-crypto-majors-slide-on-iran-escalations-etf-outflows)
-
----
-
-## 16. Bitcoin Slips Under $73K as Crypto Liquidations Near $1B
-
-**Author:** Akash Girimath  
-**Published:** 5/28/2026, 10:39:44 AM  
-**Categories:** , Markets  
-
-The near-$1 billion crypto liquidation spree comes amid rising tensions over the U.S.-Iran conflict and ETF outflows.
-
-📖 [Read original article](https://decrypt.co/369255/bitcoin-slips-under-73k-as-crypto-liquidations-near-1b)
-
----
-
-## 17. CFTC, Gemini File Joint Motion to Reverse $5M Settlement
-
-**Author:** Decrypt Agent  
-**Published:** 5/28/2026, 9:47:27 AM  
-**Categories:** , , Business  
-
-The regulator filed alongside the crypto exchange to undo a 2025 consent order it now says "should not have been filed."
-
-📖 [Read original article](https://decrypt.co/369252/cftc-gemini-file-joint-motion-to-reverse-5m-settlement)
 
 ---
