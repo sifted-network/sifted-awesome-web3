@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-05-29"
 date: "2026-05-29"
 source: "CoinDesk"
-count: 15
+count: 12
 ---
 
 # CoinDesk - 2026-05-29
 
-15 items collected.
+12 items collected.
 
 ---
 
@@ -152,41 +152,5 @@ Your day-ahead look for May 29, 2026
 The longest run of withdrawals since U.S. spot bitcoin ETFs listed in January 2024 comes as bitcoin underperforms high-flying AI and semiconductor stocks.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/05/29/bitcoin-etf-outflows-reach-record-nine-day-streak-as-investors-pull-usd2-8-billion)
-
----
-
-## 13. Bitcoin slides to April lows as crypto diverges from record-chasing U.S. equities
-
-**Author:** Oliver Knight,Saksham Diwan  
-**Published:** 5/29/2026, 10:29:14 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin's failed breakout above $83,000 is looking increasingly like a bear market signal, even as S&P 500 and Nasdaq futures notch gains and approach all-time highs.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/29/bitcoin-slides-to-april-lows-as-crypto-diverges-from-record-chasing-u-s-equities)
-
----
-
-## 14. Kalshi follows CFTC in suing Minnesota over law criminalizing prediction markets
-
-**Author:** Olivier Acuna  
-**Published:** 5/29/2026, 9:59:39 AM  
-**Categories:** Policy, Prediction Markets, CFTC, Kalshi, Regulation, News  
-
-The Governor of Minnesota signed into law a measure that, starting Aug. 1, makes it a crime to advertise and operate prediction market platforms across the state.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/05/29/kalshi-follows-cftc-in-suing-minnesota-over-law-criminalizing-prediction-markets)
-
----
-
-## 15. Strategy's STRC slips below $99 as Strive captures investor attention
-
-**Author:** James Van Straten  
-**Published:** 5/29/2026, 9:10:49 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-STRC has struggled to maintain its $100 target price, while Strategy's reduced cash reserves and dividend obligations are drawing increased investor attention.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/29/strategy-s-strc-slips-below-usd99-as-strive-captures-investor-attention)
 
 ---
