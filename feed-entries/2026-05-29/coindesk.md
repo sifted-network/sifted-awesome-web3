@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-05-29"
 date: "2026-05-29"
 source: "CoinDesk"
-count: 17
+count: 16
 ---
 
 # CoinDesk - 2026-05-29
 
-17 items collected.
+16 items collected.
 
 ---
 
@@ -200,17 +200,5 @@ STRC has struggled to maintain its $100 target price, while Strategy's reduced c
 The campaign targets crypto, DeFi, AI and security developers with fake tooling packages to steal wallets, SSH keys, GitHub tokens, cloud credentials and browser data.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/05/29/solana-sui-and-aptos-wallet-data-targeted-in-trapdoor-package-attack)
-
----
-
-## 17. OKX Ventures buys $53 million stake in Korea's Coinone exchange
-
-**Author:** Sam Reynolds  
-**Published:** 5/29/2026, 6:07:27 AM  
-**Categories:** Markets, mergers and acquisitions, South Korea, News  
-
-The crypto exchange's investment arm and Korea Investment & Securities will each invest 80 billion won ($53 million) as Coinone pushes into stablecoins and tokenized securities.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/29/okx-ventures-buys-usd53-million-stake-in-korea-s-coinone-exchange)
 
 ---
