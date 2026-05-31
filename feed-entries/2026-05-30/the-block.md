@@ -39,7 +39,7 @@ The attacker took USDC, ether, tether and PAYG tokens before laundering a portio
 
 **Author:** Sarah Wynn and RT Watson  
 **Published:** 5/30/2026, 5:56:14 PM  
-**Categories:** Legal, Policy, Regulation, U.S. Policymaking, 2024 Elections, CFTC, Congress, House Agriculture Committee, House Financial Services Committee, SEC, Senate Agriculture Committee, Senate Banking Committee  
+**Categories:** Legal, Policy, Regulation, U.S. Policymaking, 2024 Elections, CFTC, Congress, feature, House Agriculture Committee, House Financial Services Committee, SEC, Senate Agriculture Committee, Senate Banking Committee  
 
 Digital asset legislation is years in the making, but the sector's biggest political champion, President Trump, has become a liability.
 
