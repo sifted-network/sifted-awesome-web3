@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-29"
 date: "2026-05-29"
 source: "Cointelegraph"
-count: 22
+count: 21
 ---
 
 # Cointelegraph - 2026-05-29
 
-22 items collected.
+21 items collected.
 
 ---
 
@@ -260,17 +260,5 @@ Bears hold the upper hand for Friday's $9 billion options expiry, keeping Bitcoi
 Investors selling across spot, futures and ETF markets pushed Bitcoin into its monthly range lows near $72,000 but data shows retail investors buying the dip and opening longs.
 
 📖 [Read original article](https://cointelegraph.com/markets/buy-the-72k-dip-or-jump-ship-what-will-bitcoin-bulls-do?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Gemini taps Grok for personalized AI-powered prediction market feeds
-
-**Author:** Cointelegraph by Brayden Lindrea  
-**Published:** 5/29/2026, 12:59:09 AM  
-**Categories:** Latest News  
-
-Gemini is leaning into AI features for its prediction market, following other crypto exchanges in moving beyond crypto trading amid a market slump.
-
-📖 [Read original article](https://cointelegraph.com/news/gemini-taps-grok-personalized-ai-powered-prediction-market-feeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
