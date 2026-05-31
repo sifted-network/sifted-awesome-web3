@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-05-30"
 date: "2026-05-30"
 source: "Cointelegraph"
-count: 6
+count: 8
 ---
 
 # Cointelegraph - 2026-05-30
 
-6 items collected.
+8 items collected.
 
 ---
 
-## 1. SEC charges Texas man with $12.3M crypto fraud using fake AI trading bots
+## 1. Senator Lummis says China will 'write the rules' of the new financial era if CLARITY fails
+
+**Author:** Cointelegraph by Vince Quill  
+**Published:** 5/30/2026, 8:45:45 PM  
+**Categories:** Latest News  
+
+The Senate Banking Committee voted to advance the CLARITY Act in May, but it must still pass both chambers of Congress before heading to the president's desk.
+
+📖 [Read original article](https://cointelegraph.com/news/senator-lummis-says-china-will-beat-the-us-to-the-punch-if-clarity-is-not-passed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Circle freezes $12.6M of USDC linked to privacy protocol Zama
+
+**Author:** Cointelegraph by Vince Quill  
+**Published:** 5/30/2026, 7:11:15 PM  
+**Categories:** Latest News  
+
+The $12.6 million in USDC was likely frozen in connection with an ongoing but unrelated civil court case, according to onchain sleuth ZachXBT.
+
+📖 [Read original article](https://cointelegraph.com/news/circle-freezes-126m-of-usdc-linked-to-privacy-protocol-zama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. SEC charges Texas man with $12.3M crypto fraud using fake AI trading bots
 
 **Author:** Cointelegraph by Amin Haqshanas  
 **Published:** 5/30/2026, 1:30:00 PM  
@@ -23,7 +47,7 @@ The SEC charged Texas man Nathan Fuller with raising $12.3 million from 150 inve
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 4. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 5/30/2026, 1:20:00 PM  
@@ -35,7 +59,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. Spot Bitcoin ETFs see record 10-day outflow streak, analyst calls it ‘contrarian indicator’
+## 5. Spot Bitcoin ETFs see record 10-day outflow streak, analyst calls it ‘contrarian indicator’
 
 **Author:** Cointelegraph by Amin Haqshanas  
 **Published:** 5/30/2026, 10:50:00 AM  
@@ -47,7 +71,7 @@ Spot Bitcoin ETFs logged a record 10-day outflow streak totaling nearly $3 billi
 
 ---
 
-## 4. Bitcoin treasury space still has fair share of ‘carnival barkers’: BSTR founder
+## 6. Bitcoin treasury space still has fair share of ‘carnival barkers’: BSTR founder
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 5/30/2026, 9:28:16 AM  
@@ -59,7 +83,7 @@ BSTR co-founder Sean Bill says many Bitcoin treasury companies lack the “abili
 
 ---
 
-## 5. US has seized nearly $1 billion in Iranian crypto, Treasury secretary says
+## 7. US has seized nearly $1 billion in Iranian crypto, Treasury secretary says
 
 **Author:** Cointelegraph by Amin Haqshanas  
 **Published:** 5/30/2026, 8:38:16 AM  
@@ -71,7 +95,7 @@ US Treasury Secretary Scott Bessent said the US has seized roughly $1 billion in
 
 ---
 
-## 6. Bitcoin retail sentiment still matters, says Swan Bitcoin CEO
+## 8. Bitcoin retail sentiment still matters, says Swan Bitcoin CEO
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 5/30/2026, 4:57:37 AM  
