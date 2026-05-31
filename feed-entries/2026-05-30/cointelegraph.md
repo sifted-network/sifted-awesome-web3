@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-30"
 date: "2026-05-30"
 source: "Cointelegraph"
-count: 8
+count: 7
 ---
 
 # Cointelegraph - 2026-05-30
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ The SEC charged Texas man Nathan Fuller with raising $12.3 million from 150 inve
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 5/30/2026, 1:20:00 PM  
-**Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Spot Bitcoin ETFs see record 10-day outflow streak, analyst calls it ‘contrarian indicator’
+## 4. Spot Bitcoin ETFs see record 10-day outflow streak, analyst calls it ‘contrarian indicator’
 
 **Author:** Cointelegraph by Amin Haqshanas  
 **Published:** 5/30/2026, 10:50:00 AM  
@@ -71,7 +59,7 @@ Spot Bitcoin ETFs logged a record 10-day outflow streak totaling nearly $3 billi
 
 ---
 
-## 6. Bitcoin treasury space still has fair share of ‘carnival barkers’: BSTR founder
+## 5. Bitcoin treasury space still has fair share of ‘carnival barkers’: BSTR founder
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 5/30/2026, 9:28:16 AM  
@@ -83,7 +71,7 @@ BSTR co-founder Sean Bill says many Bitcoin treasury companies lack the “abili
 
 ---
 
-## 7. US has seized nearly $1 billion in Iranian crypto, Treasury secretary says
+## 6. US has seized nearly $1 billion in Iranian crypto, Treasury secretary says
 
 **Author:** Cointelegraph by Amin Haqshanas  
 **Published:** 5/30/2026, 8:38:16 AM  
@@ -95,7 +83,7 @@ US Treasury Secretary Scott Bessent said the US has seized roughly $1 billion in
 
 ---
 
-## 8. Bitcoin retail sentiment still matters, says Swan Bitcoin CEO
+## 7. Bitcoin retail sentiment still matters, says Swan Bitcoin CEO
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 5/30/2026, 4:57:37 AM  
