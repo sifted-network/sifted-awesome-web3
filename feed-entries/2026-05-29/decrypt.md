@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-05-29"
 date: "2026-05-29"
 source: "Decrypt"
-count: 14
+count: 8
 ---
 
 # Decrypt - 2026-05-29
 
-14 items collected.
+8 items collected.
 
 ---
 
@@ -104,77 +104,5 @@ Intercontinental Exchange CEO Jeffrey Sprecher said his company and Hyperliquid 
 A new study gave five frontier AI models 1,000 real-world claims to fact-check. They disagreed on 67% of them.
 
 📖 [Read original article](https://decrypt.co/369480/ai-models-disagree-fact-checking-two-thirds-study)
-
----
-
-## 9. Wintermute Is Providing Liquidity on Kalshi and Polymarket, Linking Two Giants
-
-**Author:** André Beganski  
-**Published:** 5/29/2026, 4:20:08 PM  
-**Categories:** Business  
-
-Wintermute is providing liquidity on the two biggest prediction markets, linking flows for both firms, according to a source familiar with the matter.
-
-📖 [Read original article](https://decrypt.co/369475/wintermute-liquidity-kalshi-polymarket-prediction-markets)
-
----
-
-## 10. CFTC Approves Bitcoin Perpetual Futures on Prediction Market Kalshi
-
-**Author:** André Beganski  
-**Published:** 5/29/2026, 3:00:50 PM  
-**Categories:** , Business  
-
-The CFTC issued an order allowing Kalshi to offer perpetual futures in the U.S., starting with contracts tied to Bitcoin's price.
-
-📖 [Read original article](https://decrypt.co/369465/cftc-approves-bitcoin-perpetual-futures-kalshi)
-
----
-
-## 11. Sui Network Goes Down for Second Straight Day as Weekly Token Slide Hits 20%
-
-**Author:** Logan Hitchcock  
-**Published:** 5/29/2026, 2:42:01 PM  
-**Categories:** Markets  
-
-The Sui token is among the worst performing top 100 crypto assets of the last week in the wake of back-to-back outages.
-
-📖 [Read original article](https://decrypt.co/369464/sui-network-goes-down-second-straight-day-weekly-token-slide)
-
----
-
-## 12. Bitcoin ETFs Shed $2.8B in Record-Breaking Nine-Day Streak
-
-**Author:** Akash Girimath  
-**Published:** 5/29/2026, 12:39:29 PM  
-**Categories:** , Coins  
-
-Cooling demand for Bitcoin ETFs adds to declining accumulation by whales, underscoring a trying time for the crypto market.
-
-📖 [Read original article](https://decrypt.co/369449/bitcoin-etfs-shed-2-8b-in-record-breaking-nine-day-streak)
-
----
-
-## 13. Morning Minute: Hyperliquid Is 'Bigger Than Nasdaq'
-
-**Author:** Tyler Warner  
-**Published:** 5/29/2026, 12:08:19 PM  
-**Categories:** , , , Opinion  
-
-The man who built the modern NYSE just said Hyperliquid is bigger than Nasdaq. JPMorgan says the debasement trade is unwinding.
-
-📖 [Read original article](https://decrypt.co/369444/morning-minute-hyperliquid-is-bigger-than-nasdaq)
-
----
-
-## 14. Ukrainian Police Officers Allegedly Kidnapped Crypto Entrepreneurs to Extort Millions
-
-**Author:** Vismaya V  
-**Published:** 5/29/2026, 11:59:40 AM  
-**Categories:** , , Law and Order  
-
-Prosecutors say two police colonels organized an extortion ring that allegedly tracked, abducted, and held crypto entrepreneurs at gunpoint.
-
-📖 [Read original article](https://decrypt.co/369443/ukrainian-police-officers-allegedly-kidnapped-crypto-entrepreneurs-to-extort-millions)
 
 ---
