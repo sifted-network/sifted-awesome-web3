@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-06-01"
 date: "2026-06-01"
 source: "CoinDesk"
-count: 22
+count: 25
 ---
 
 # CoinDesk - 2026-06-01
 
-22 items collected.
+25 items collected.
 
 ---
 
-## 1. It's not 2022 anymore: What Strategy's first bitcoin sale can (and can't) tell us about this one
+## 1. Crypto investment firm Keyrock is acquiring bankrupt lender Blockfills
+
+**Author:** Will Canny  
+**Published:** 6/1/2026, 8:48:19 PM  
+**Categories:** Finance, mergers and acquisitions, Keyrock, BlockFills, Exclusive, News  
+
+The Brussels-based digital asset services firm plans to purchase BlockFills months after the Chicago-based company filed for Chapter 11 bankruptcy, if a court approves.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/01/crypto-investment-firm-keyrock-is-acquiring-bankrupt-lender-blockfills)
+
+---
+
+## 2. Crypto funds suffer second-largest outflows of 2026 while XRP and HYPE attract inflows
+
+**Author:** Helene Braun,AI Boost  
+**Published:** 6/1/2026, 5:59:06 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Investors pulled $1.67 billion from digital asset investment products last week, with bitcoin funds posting their largest weekly outflow of the year, according to a recent report from CoinShares.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/01/crypto-funds-suffer-second-largest-outflows-of-2026-while-xrp-and-hype-attract-inflows)
+
+---
+
+## 3. Saylor's Strategy sold bitcoin for the first time since 2022. These firms are still buying
+
+**Author:** Krisztian Sandor  
+**Published:** 6/1/2026, 5:25:55 PM  
+**Categories:** Finance, MicroStrategy, Digital Asset Treasury, News  
+
+With Strategy breaking its accumulation streak and many peers stepping aside, the list of active digital asset treasuries has narrowed considerably.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/01/saylor-s-strategy-sold-bitcoin-for-the-first-time-since-2022-these-firms-are-still-buying)
+
+---
+
+## 4. It's not 2022 anymore: What Strategy's first bitcoin sale can (and can't) tell us about this one
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 6/1/2026, 5:06:34 PM  
@@ -23,7 +59,7 @@ Michael Saylor's Strategy has evolved into a far more complex bitcoin-finance ma
 
 ---
 
-## 2. Ethereum's Vitalik Buterin is rethinking how DeFi handles market crashes
+## 5. Ethereum's Vitalik Buterin is rethinking how DeFi handles market crashes
 
 **Author:** Margaux Nijkerk  
 **Published:** 6/1/2026, 5:01:41 PM  
@@ -35,7 +71,7 @@ In a research post published Monday, Buterin proposed creating index-tracking as
 
 ---
 
-## 3. Michael Saylor breaks silence after Strategy sells $2.5 million in bitcoin
+## 6. Michael Saylor breaks silence after Strategy sells $2.5 million in bitcoin
 
 **Author:** James Van Straten  
 **Published:** 6/1/2026, 4:06:23 PM  
@@ -47,7 +83,7 @@ Michael Saylor says Strategy aims to make STRC the world's best credit instrumen
 
 ---
 
-## 4. Strategy sparks panic with bitcoin sale, but analysts say it was 'immaterial'
+## 7. Strategy sparks panic with bitcoin sale, but analysts say it was 'immaterial'
 
 **Author:** Helene Braun  
 **Published:** 6/1/2026, 3:45:51 PM  
@@ -59,7 +95,7 @@ The move suggests a greater willingness on the part of Michael Saylor and Strate
 
 ---
 
-## 5. Strategy’s bitcoin sale sparks a $14 million betting chaos on Polymarket
+## 8. Strategy’s bitcoin sale sparks a $14 million betting chaos on Polymarket
 
 **Author:** Shaurya Malwa  
 **Published:** 6/1/2026, 2:49:32 PM  
@@ -71,7 +107,7 @@ The 8-K filing by Strategy Monday disclosed sales for the period May 26 to May 3
 
 ---
 
-## 6. Japan's ruling party supports crypto ETF trading, yen-based stablecoins
+## 9. Japan's ruling party supports crypto ETF trading, yen-based stablecoins
 
 **Author:** Jamie Crawley  
 **Published:** 6/1/2026, 1:38:04 PM  
@@ -83,7 +119,7 @@ Japan's ruling Liberal Democratic Party said the country should create a legal f
 
 ---
 
-## 7. CoinDesk 20 performance update: Stellar (XLM) surges 14.1% over weekend
+## 10. CoinDesk 20 performance update: Stellar (XLM) surges 14.1% over weekend
 
 **Author:** CoinDesk Indices  
 **Published:** 6/1/2026, 1:09:37 PM  
@@ -95,7 +131,7 @@ Binance Coin (BNB), up 7.9%, was also a top performer.
 
 ---
 
-## 8. Bitmine slows ether purchase pace, buying $53 million worth last week
+## 11. Bitmine slows ether purchase pace, buying $53 million worth last week
 
 **Author:** Krisztian Sandor  
 **Published:** 6/1/2026, 12:55:27 PM  
@@ -107,7 +143,7 @@ The Ethereum treasury firm cut weekly purchases by more than 75% after the previ
 
 ---
 
-## 9. Live markets: Bitcoin retreats under $72,000 as Strategy unloads BTC for first time in four years
+## 12. Live markets: Bitcoin retreats under $72,000 as Strategy unloads BTC for first time in four years
 
 **Author:** Stephen Alpher,Shaurya Malwa  
 **Published:** 6/1/2026, 12:29:14 PM  
@@ -119,7 +155,7 @@ Crypto markets continue to struggle even as risk markets across the globe surge 
 
 ---
 
-## 10. Michael Saylor's Strategy sold 32 bitcoin for $2.5 million to fund dividend payments
+## 13. Michael Saylor's Strategy sold 32 bitcoin for $2.5 million to fund dividend payments
 
 **Author:** Shaurya Malwa,James Van Straten  
 **Published:** 6/1/2026, 12:07:17 PM  
@@ -131,7 +167,7 @@ The 8-K filing Monday says proceeds from the May 26-31 sale, executed at an aver
 
 ---
 
-## 11. Bitcoin remains under pressure as ETF outflows, higher oil prices weigh on crypto markets
+## 14. Bitcoin remains under pressure as ETF outflows, higher oil prices weigh on crypto markets
 
 **Author:** Francisco Rodrigues  
 **Published:** 6/1/2026, 11:15:00 AM  
@@ -143,7 +179,7 @@ Your day-ahead look for June 1, 2026
 
 ---
 
-## 12. Cardano Summit 2026 canceled after community votes against Foundation funding proposal
+## 15. Cardano Summit 2026 canceled after community votes against Foundation funding proposal
 
 **Author:** Sam Reynolds  
 **Published:** 6/1/2026, 10:46:51 AM  
@@ -155,7 +191,7 @@ The Cardano Foundation's flagship conference was scrapped after a funding propos
 
 ---
 
-## 13. Strategy holds STRC dividend at 11.5% for fourth straight month
+## 16. Strategy holds STRC dividend at 11.5% for fourth straight month
 
 **Author:** James Van Straten  
 **Published:** 6/1/2026, 10:37:27 AM  
@@ -167,7 +203,7 @@ The preferred stock remains near its $100 par value as the company balances yiel
 
 ---
 
-## 14. Bitcoin, ether start June in the red while futures show taste for risk. XLM, HYPE gain
+## 17. Bitcoin, ether start June in the red while futures show taste for risk. XLM, HYPE gain
 
 **Author:** Sheldon Reback,Shaurya Malwa,Saksham Diwan  
 **Published:** 6/1/2026, 10:04:10 AM  
@@ -179,7 +215,7 @@ Bitcoin and ether fell Monday after dropping in May, a month that usually sees t
 
 ---
 
-## 15. Bitcoin and software stocks are breaking up — and history says a major crypto move is coming
+## 18. Bitcoin and software stocks are breaking up — and history says a major crypto move is coming
 
 **Author:** James Van Straten  
 **Published:** 6/1/2026, 10:02:58 AM  
@@ -191,7 +227,7 @@ Bitcoin and software equities have sharply diverged after moving in lockstep for
 
 ---
 
-## 16. U.S. Congress returns as GENIUS comments periods close, jobs report: Crypto Week Ahead
+## 19. U.S. Congress returns as GENIUS comments periods close, jobs report: Crypto Week Ahead
 
 **Author:** Francisco Rodrigues  
 **Published:** 6/1/2026, 8:50:45 AM  
@@ -203,7 +239,7 @@ Your look at what's coming in the week starting June 1.
 
 ---
 
-## 17. Citi predicts the tokenized securities market will grow to $5.5 trillion by 2030
+## 20. Citi predicts the tokenized securities market will grow to $5.5 trillion by 2030
 
 **Author:** Olivier Acuna  
 **Published:** 6/1/2026, 6:57:05 AM  
@@ -215,7 +251,7 @@ Stablecoins alone will generate a demand for up to $1 trillion worth of onchain 
 
 ---
 
-## 18. Whitehat developer unlocks $2 million stuck in a 2016 Ethereum ICO contract for nine years
+## 21. Whitehat developer unlocks $2 million stuck in a 2016 Ethereum ICO contract for nine years
 
 **Author:** Shaurya Malwa  
 **Published:** 6/1/2026, 6:52:38 AM  
@@ -227,7 +263,7 @@ Stablecoins alone will generate a demand for up to $1 trillion worth of onchain 
 
 ---
 
-## 19. XRP drops to $1.32 as sellers overpower exchange outflows
+## 22. XRP drops to $1.32 as sellers overpower exchange outflows
 
 **Author:** Shaurya Malwa  
 **Published:** 6/1/2026, 5:41:31 AM  
@@ -239,7 +275,7 @@ XRP hit a 15-week low before stabilizing, with traders watching whether the late
 
 ---
 
-## 20. Three Sui mainnet halts in 48 hours traced to an upgrade bug by developers
+## 23. Three Sui mainnet halts in 48 hours traced to an upgrade bug by developers
 
 **Author:** Shaurya Malwa  
 **Published:** 6/1/2026, 5:38:50 AM  
@@ -251,7 +287,7 @@ The Sui Foundation's post-mortem published Sunday traces all three outages to in
 
 ---
 
-## 21. Bitcoin extends slide as spot ETF outflows hit a record while Wall Street rips on AI
+## 24. Bitcoin extends slide as spot ETF outflows hit a record while Wall Street rips on AI
 
 **Author:** Shaurya Malwa  
 **Published:** 6/1/2026, 5:11:40 AM  
@@ -263,7 +299,7 @@ U.S. spot bitcoin ETFs lost $2.97 billion across 10 trading days through Friday,
 
 ---
 
-## 22. Aave overhauls listing standards after $230 million rsETH exploit exposed bridge risks
+## 25. Aave overhauls listing standards after $230 million rsETH exploit exposed bridge risks
 
 **Author:** Sam Reynolds  
 **Published:** 6/1/2026, 5:04:17 AM  
