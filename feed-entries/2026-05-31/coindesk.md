@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-05-31"
 date: "2026-05-31"
 source: "CoinDesk"
-count: 5
+count: 7
 ---
 
 # CoinDesk - 2026-05-31
 
-5 items collected.
+7 items collected.
 
 ---
 
-## 1. How the House Financial Services Committee is taking on tokenization: State of Crypto
+## 1. Coinbase makes a major play for India’s booming $3 billion crypto market with local currency launch
+
+**Author:** Omkar Godbole  
+**Published:** 5/31/2026, 11:30:00 PM  
+**Categories:** Markets, Coinbase, Markets, India, News  
+
+Coinbase announces INR rails to make the platform fully accessible to Indian retail traders.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch)
+
+---
+
+## 2. A massive $1.26 billion sale of BlackRock’s IBIT was likely a rapid exit by a large investor
+
+**Author:** Francisco Rodrigues  
+**Published:** 5/31/2026, 7:41:51 PM  
+**Categories:** Markets, Bitcoin News, ETFs, News  
+
+NYDIG, meanwhile, rejected the basis-trade theory, citing the large discount and the lack of an unusual spike in corresponding CME bitcoin futures volume.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/05/31/a-massive-usd1-26-billion-sale-of-blackrock-s-ibit-was-likely-a-rapid-exit-by-a-large-investor)
+
+---
+
+## 3. How the House Financial Services Committee is taking on tokenization: State of Crypto
 
 **Author:** Nikhilesh De  
 **Published:** 5/31/2026, 6:30:00 PM  
@@ -23,7 +47,7 @@ Rep. French Hill, head of the House Financial Services Committee, weighed in on 
 
 ---
 
-## 2. How Stellar became part of DTCC's tokenization push for Wall Street securities onchain
+## 4. How Stellar became part of DTCC's tokenization push for Wall Street securities onchain
 
 **Author:** Krisztian Sandor  
 **Published:** 5/31/2026, 5:00:00 PM  
@@ -35,7 +59,7 @@ Wall Street's clearing giant chose a public blockchain with compliance tools bui
 
 ---
 
-## 3. The institutional edge: moomoo targets Wall Street-grade trading tools for retail crypto investors
+## 5. The institutional edge: moomoo targets Wall Street-grade trading tools for retail crypto investors
 
 **Author:** Will Canny,AI Boost  
 **Published:** 5/31/2026, 3:00:00 PM  
@@ -47,7 +71,7 @@ The brokerage giant says the future of investing won’t be defined by asset acc
 
 ---
 
-## 4. Bitcoin's wild days are over — and Trace Mayer says that's a good thing
+## 6. Bitcoin's wild days are over — and Trace Mayer says that's a good thing
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 5/31/2026, 1:00:00 PM  
@@ -59,7 +83,7 @@ The creator of the Mayer Multiple argues bitcoin’s growing economic substance 
 
 ---
 
-## 5. XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions
+## 7. XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions
 
 **Author:** Shaurya Malwa  
 **Published:** 5/31/2026, 2:30:00 AM  
