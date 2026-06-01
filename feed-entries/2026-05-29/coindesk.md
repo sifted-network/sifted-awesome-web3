@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-05-29"
 date: "2026-05-29"
 source: "CoinDesk"
-count: 12
+count: 10
 ---
 
 # CoinDesk - 2026-05-29
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ Paxos new license positions it alongside legacy giants such as DTCC and makes it
 Sprecher saluted Hyperliquid's team, signaling deeper engagement between Wall Street incumbents and crypto-native rails.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/05/29/ice-ceo-calls-hyperliquid-bigger-than-nasdaq-says-he-s-met-its-founders)
-
----
-
-## 11. Bitcoin underperforms risk assets as record 9th day of ETF outflows signal waning demand
-
-**Author:** Francisco Rodrigues  
-**Published:** 5/29/2026, 11:15:00 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for May 29, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/05/29/bitcoin-underperforms-risk-assets-as-record-9th-day-of-etf-outflows-signal-waning-demand)
-
----
-
-## 12. Bitcoin ETF outflows reach record 9-day streak as investors pull $2.8 billion
-
-**Author:** James Van Straten  
-**Published:** 5/29/2026, 10:38:47 AM  
-**Categories:** Markets, Bitcoin News, ETFs, News  
-
-The longest run of withdrawals since U.S. spot bitcoin ETFs listed in January 2024 comes as bitcoin underperforms high-flying AI and semiconductor stocks.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/05/29/bitcoin-etf-outflows-reach-record-nine-day-streak-as-investors-pull-usd2-8-billion)
 
 ---
