@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-05-31"
 date: "2026-05-31"
 source: "Cointelegraph"
-count: 9
+count: 11
 ---
 
 # Cointelegraph - 2026-05-31
 
-9 items collected.
+11 items collected.
 
 ---
 
-## 1. Kraken ‘plans’ regulated perp contracts as rivals are quick off the blocks
+## 1. US, UK central bankers offer contrary views on stablecoins
+
+**Author:** Cointelegraph by Cointelegraph  
+**Published:** 5/31/2026, 9:11:35 PM  
+**Categories:** Latest News  
+
+Federal Reserve governor Christopher Waller told a conference on Sunday that stablecoins expand the reach of US policy while the Bank of England’s Megan Greene expects their popularity will soon fade.
+
+📖 [Read original article](https://cointelegraph.com/news/us-uk-central-bankers-offer-contrary-views-on-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Strategy's Michael Saylor teases BTC buy with 'working better' tweet
+
+**Author:** Cointelegraph by Cointelegraph  
+**Published:** 5/31/2026, 8:00:12 PM  
+**Categories:** Latest News  
+
+Strategy could be set to announce it has resumed buying Bitcoin after pausing in recent weeks as the biggest crypto looks poised to close out the month down more than 3.5%.
+
+📖 [Read original article](https://cointelegraph.com/news/strategys-michael-saylor-says-working-better-tees-up-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Kraken ‘plans’ regulated perp contracts as rivals are quick off the blocks
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 5/31/2026, 5:40:00 PM  
@@ -23,7 +47,7 @@ In the wake of CFTC approval of perpetual futures contracts tied to the spot pri
 
 ---
 
-## 2. Bitcoin preps 3% May downside, but US PMI data may boost BTC price
+## 4. Bitcoin preps 3% May downside, but US PMI data may boost BTC price
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 5/31/2026, 4:39:40 PM  
@@ -35,10 +59,10 @@ Bitcoin faced ending May lower by around 3%, with the possibility of US PMI data
 
 ---
 
-## 3. Here’s what happened in crypto today
+## 5. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
-**Published:** 5/31/2026, 1:10:00 PM  
+**Published:** 5/31/2026, 2:10:00 PM  
 **Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
 
 Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
@@ -47,7 +71,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 4. Bitcoin price targets $78K as BTC holders defend 'strongest near-term support'
+## 6. Bitcoin price targets $78K as BTC holders defend 'strongest near-term support'
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 5/31/2026, 12:39:47 PM  
@@ -59,7 +83,7 @@ Bitcoin’s bounce from a key holder cost-basis level has improved the case for 
 
 ---
 
-## 5. Vietnam proposes allowing SMEs to use digital assets as loan collateral
+## 7. Vietnam proposes allowing SMEs to use digital assets as loan collateral
 
 **Author:** Cointelegraph by Amin Haqshanas  
 **Published:** 5/31/2026, 10:03:56 AM  
@@ -71,7 +95,7 @@ Vietnam’s Ministry of Finance has proposed letting SMEs use digital assets, vi
 
 ---
 
-## 6. Cosmos-based Gravity Bridge halts bridge after reported $5.4M exploit
+## 8. Cosmos-based Gravity Bridge halts bridge after reported $5.4M exploit
 
 **Author:** Cointelegraph by Amin Haqshanas  
 **Published:** 5/31/2026, 8:57:25 AM  
@@ -83,7 +107,7 @@ Gravity Bridge was drained of roughly $5.4 million in a suspected signing key co
 
 ---
 
-## 7. Bitcoin sentiment reaches most ‘lopsided positive’ ratio for 2026: Santiment
+## 9. Bitcoin sentiment reaches most ‘lopsided positive’ ratio for 2026: Santiment
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 5/31/2026, 6:02:05 AM  
@@ -95,7 +119,7 @@ Crypto sentiment platform Santiment warned that the two biggest spikes in social
 
 ---
 
-## 8. Bitcoin dip buyers curb selling but questionable spot, futures volumes highlight weakness
+## 10. Bitcoin dip buyers curb selling but questionable spot, futures volumes highlight weakness
 
 **Author:** Cointelegraph by Antonio Oliveira  
 **Published:** 5/31/2026, 5:37:27 AM  
@@ -107,7 +131,7 @@ Bitcoin dip buyers are present near range lows, and new leveraged longs opened i
 
 ---
 
-## 9. Bitcoin is at ‘pivotal level’ as $65K downside risk looms: Analyst
+## 11. Bitcoin is at ‘pivotal level’ as $65K downside risk looms: Analyst
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 5/31/2026, 12:58:32 AM  
