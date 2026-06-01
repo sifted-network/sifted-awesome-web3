@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-05-29"
 date: "2026-05-29"
 source: "Decrypt"
-count: 15
+count: 14
 ---
 
 # Decrypt - 2026-05-29
 
-15 items collected.
+14 items collected.
 
 ---
 
@@ -176,17 +176,5 @@ The man who built the modern NYSE just said Hyperliquid is bigger than Nasdaq. J
 Prosecutors say two police colonels organized an extortion ring that allegedly tracked, abducted, and held crypto entrepreneurs at gunpoint.
 
 📖 [Read original article](https://decrypt.co/369443/ukrainian-police-officers-allegedly-kidnapped-crypto-entrepreneurs-to-extort-millions)
-
----
-
-## 15. Paxos Secures SEC Registration as Clearing Agency
-
-**Author:** Decrypt Agent  
-**Published:** 5/29/2026, 10:34:30 AM  
-**Categories:** , , Business  
-
-The approval makes Paxos the “only blockchain-native firm” approved by the SEC to operate as a registered clearing agency in the U.S.
-
-📖 [Read original article](https://decrypt.co/369440/paxos-secures-sec-registration-as-clearing-agency)
 
 ---
