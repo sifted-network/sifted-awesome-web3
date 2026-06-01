@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-06-01"
 date: "2026-06-01"
 source: "Cointelegraph"
-count: 18
+count: 23
 ---
 
 # Cointelegraph - 2026-06-01
 
-18 items collected.
+23 items collected.
 
 ---
 
-## 1. Are Ethereum OGs jumping ship? Here's what the data says
+## 1. Bitcoin volatility is down 56% but analysts still expect up to 20% BTC price move
+
+**Author:** Cointelegraph by Biraajmaan Tamuly  
+**Published:** 6/1/2026, 8:34:46 PM  
+**Categories:** Markets  
+
+Bitcoin’s sharp volatility decline coincides with a 114-day trading range, setting the stage for a potential 10% to 20% price move, but the direction remains uncertain.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-volatility-down-56-as-btc-analysts-eye-10-20-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Japan’s ruling party pushes crypto ETFs, yen-denominated stablecoins
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 6/1/2026, 6:33:41 PM  
+**Categories:** Latest News  
+
+The Parliamentary Association for the Promotion of Blockchain delivered recommendations to Japan’s finance minister on crypto and blockchain.
+
+📖 [Read original article](https://cointelegraph.com/news/japans-ruling-party-crypto-etfs-yen-denominated-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Strategy's BTC sale turns Bitcoin treasury into market stress test
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 6/1/2026, 6:20:40 PM  
+**Categories:** Latest News  
+
+Strategy’s 32 BTC transaction has sparked debate over how investors value Bitcoin treasury companies as capital structure and liquidity considerations evolve.
+
+📖 [Read original article](https://cointelegraph.com/news/strategy-bitcoin-sale-btc-treasury-company-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Are Ethereum OGs jumping ship? Here's what the data says
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 6/1/2026, 3:44:00 PM  
@@ -23,7 +59,7 @@ Long-term whales have cashed out millions of dollars from Ethereum following the
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 5. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/1/2026, 2:46:40 PM  
@@ -35,7 +71,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. Hyperliquid's HYPE breakout puts $100 price target in play
+## 6. Hyperliquid's HYPE breakout puts $100 price target in play
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 6/1/2026, 2:42:09 PM  
@@ -47,7 +83,7 @@ HYPE has entered the breakout stage of its prevailing bull pennant setup with an
 
 ---
 
-## 4. Recovery hopes fade as Kelp DAO hacker launders nearly all $220M in stolen funds
+## 7. Recovery hopes fade as Kelp DAO hacker launders nearly all $220M in stolen funds
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/1/2026, 2:09:52 PM  
@@ -59,7 +95,7 @@ The Kelp DAO exploiter laundered about $220 million worth of remaining stolen fu
 
 ---
 
-## 5. Strategy sells 32 BTC in first Bitcoin sale since 2022; Stock falls on open
+## 8. Strategy sells 32 BTC in first Bitcoin sale since 2022; Stock falls on open
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/1/2026, 1:50:00 PM  
@@ -71,7 +107,7 @@ The world's largest public Bitcoin holder reduced its stash to 843,706 BTC, whil
 
 ---
 
-## 6. Gnosis Pay exploit hits delay module as team pledges refunds
+## 9. Gnosis Pay exploit hits delay module as team pledges refunds
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/1/2026, 1:20:30 PM  
@@ -83,7 +119,7 @@ Gnosis Pay faces an active exploit in its delay module as co‑founder Martin K�
 
 ---
 
-## 7. Crypto meets Wall Street: MEXC unveils 'RealStocks' with 0-fee U.S. equity trading and real dividends
+## 10. Crypto meets Wall Street: MEXC unveils 'RealStocks' with 0-fee U.S. equity trading and real dividends
 
 **Author:** Cointelegraph by Advertorial  
 **Published:** 6/1/2026, 12:40:48 PM  
@@ -95,7 +131,7 @@ MEXC, a leading 0-fee cross-asset trading platform, today announced the official
 
 ---
 
-## 8. Bitcoin ETPs post largest 2026 outflow as crypto funds bleed $1.67B
+## 11. Bitcoin ETPs post largest 2026 outflow as crypto funds bleed $1.67B
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/1/2026, 11:50:13 AM  
@@ -107,7 +143,7 @@ Crypto ETPs see $1.67 billion in outflows as the US dominates selling, Bitcoin f
 
 ---
 
-## 9. Binance adds US stock trading in push beyond crypto
+## 12. Binance adds US stock trading in push beyond crypto
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/1/2026, 11:30:08 AM  
@@ -119,7 +155,7 @@ Binance launched US equities trading for eligible users and plans tokenized stoc
 
 ---
 
-## 10. ECB official says stablecoins risk importing old market flaws
+## 13. ECB official says stablecoins risk importing old market flaws
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/1/2026, 11:21:55 AM  
@@ -131,7 +167,7 @@ ECB board member Isabel Schnabel warned that stablecoins could bring money-marke
 
 ---
 
-## 11. Coinbase launches rupee bank rails in India after FIU nod
+## 14. Coinbase launches rupee bank rails in India after FIU nod
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/1/2026, 9:45:49 AM  
@@ -143,7 +179,7 @@ Coinbase has switched on direct rupee bank transfers in India via IMPS, letting 
 
 ---
 
-## 12. Trump says Iran will ‘work out well’: Five things to know in Bitcoin this week
+## 15. Trump says Iran will ‘work out well’: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/1/2026, 8:56:01 AM  
@@ -155,7 +191,7 @@ Bitcoin price headed below $72,000 on Iran woes as US President Donald Trump tol
 
 ---
 
-## 13. NYDIG suggests $1.3B IBIT sale was whale exiting directional trade
+## 16. NYDIG suggests $1.3B IBIT sale was whale exiting directional trade
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 6/1/2026, 7:09:14 AM  
@@ -167,7 +203,31 @@ NYDIG’s Greg Cipolaro says a sale below market price and giving up millions of
 
 ---
 
-## 14. Sui Foundation says ‘major upgrade’ fixed bugs behind three outages
+## 17. Anchorage rolls out platform to reduce crypto trading counterparty risk
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 6/1/2026, 7:00:00 AM  
+**Categories:** Latest News  
+
+The crypto bank's new CMS platform lets institutions trade on crypto venues while keeping assets in regulated custody and reducing pre-funded accounts.
+
+📖 [Read original article](https://cointelegraph.com/news/anchorage-launches-settlement-network-for-institutional-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 18. Bitwise completes takeover of Superstate's $259M crypto carry fund
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 6/1/2026, 7:00:00 AM  
+**Categories:** Latest News  
+
+The transition gives the asset manager control of a tokenized fund that combines crypto carry trades with Treasury and digital asset exposure.
+
+📖 [Read original article](https://cointelegraph.com/news/bitwise-takes-over-259m-tokenized-crypto-carry-fund-from-superstate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 19. Sui Foundation says ‘major upgrade’ fixed bugs behind three outages
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 6/1/2026, 6:48:04 AM  
@@ -179,7 +239,7 @@ The Sui Network's first two outages were caused by bugs introduced in its 1.72 u
 
 ---
 
-## 15. Crypto exploit losses in May fall 90% over month to $68M: CertiK
+## 20. Crypto exploit losses in May fall 90% over month to $68M: CertiK
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/1/2026, 6:40:42 AM  
@@ -191,7 +251,7 @@ CertiK says May is the third month so far in 2026 to record crypto losses under 
 
 ---
 
-## 16. Cardano Foundation cancels annual conference after failed funding vote
+## 21. Cardano Foundation cancels annual conference after failed funding vote
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 6/1/2026, 6:24:07 AM  
@@ -203,7 +263,7 @@ Cardano Foundation has failed at its second attempt to secure funding from Carda
 
 ---
 
-## 17. Wintermute to bring liquidity to booming prediction markets sector
+## 22. Wintermute to bring liquidity to booming prediction markets sector
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/1/2026, 4:22:38 AM  
@@ -215,7 +275,7 @@ Wintermute said it will provide “two-sided markets across event contracts on l
 
 ---
 
-## 18. White hat hacker recovers $2M from faulty 2016 ICO smart contract
+## 23. White hat hacker recovers $2M from faulty 2016 ICO smart contract
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 6/1/2026, 2:21:56 AM  
