@@ -11,7 +11,7 @@ count: 7
 
 ---
 
-## 1. Senator Lummis says China will 'write the rules' of the new financial era if CLARITY fails
+## 1. Senator Lummis says China will 'write the rules' of new financial era if CLARITY fails
 
 **Author:** Cointelegraph by Vince Quill  
 **Published:** 5/30/2026, 8:45:45 PM  
@@ -47,7 +47,7 @@ The SEC charged Texas man Nathan Fuller with raising $12.3 million from 150 inve
 
 ---
 
-## 4. Spot Bitcoin ETFs see record 10-day outflow streak, analyst calls it ‘contrarian indicator’
+## 4. Spot Bitcoin ETFs see record 10-day outflow streak; analyst calls it ‘contrarian indicator’
 
 **Author:** Cointelegraph by Amin Haqshanas  
 **Published:** 5/30/2026, 10:50:00 AM  
