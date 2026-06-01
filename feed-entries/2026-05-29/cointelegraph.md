@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-29"
 date: "2026-05-29"
 source: "Cointelegraph"
-count: 14
+count: 12
 ---
 
 # Cointelegraph - 2026-05-29
 
-14 items collected.
+12 items collected.
 
 ---
 
@@ -152,29 +152,5 @@ ICE’s CEO said regulators need to create a “level playing field” for launc
 Bitcoin’s market cap has dropped below $1.5 trillion, pushing it out of the world’s top 10 assets amid AI stock and precious metal rallies.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-falls-out-of-the-global-top-10-assets-as-its-market-cap-dips-below-15t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Strategy situation ‘out of hand,’ says Arca exec on $15B preferred stock burden
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 5/29/2026, 12:05:09 PM  
-**Categories:** Latest News  
-
-Strategy’s capital structure may be under pressure as Arca’s Jeff Dorman highlights $15 billion in preferred stock obligations and CEO comments on possible Bitcoin sales.
-
-📖 [Read original article](https://cointelegraph.com/news/strategy-situation-out-of-hand-says-arca-cio-15-billion-prefs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Texas Bitcoin reserve plans shift from ETF to direct BTC custody
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 5/29/2026, 11:39:38 AM  
-**Categories:** Latest News  
-
-Texas is hiring a crypto custodian to move its $10 million Strategic Bitcoin Reserve from BlackRock’s IBIT ETF into directly held coins and build full state‑level BTC plumbing.
-
-📖 [Read original article](https://cointelegraph.com/news/texas-plans-shift-bitcoin-reserve-from-etf-to-direct-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
