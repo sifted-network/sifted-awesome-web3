@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-29"
 date: "2026-05-29"
 source: "Cointelegraph"
-count: 12
+count: 4
 ---
 
 # Cointelegraph - 2026-05-29
 
-12 items collected.
+4 items collected.
 
 ---
 
@@ -56,101 +56,5 @@ The CFTC issued notices affecting platforms seeking to offer cryptocurrency perp
 The outage was caused by the same network update software bug that disrupted the protocol on Thursday, which resulted in nearly six hours of downtime.
 
 📖 [Read original article](https://cointelegraph.com/news/sui-temporary-stall-several-hours-second-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Coinbase brings global crypto derivatives markets to US institutional clients
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 5/29/2026, 5:56:33 PM  
-**Categories:** Latest News  
-
-The exchange's integration with Deribit gives eligible US institutional investors access to global crypto options and perpetual futures markets.
-
-📖 [Read original article](https://cointelegraph.com/news/coinbase-regulated-access-global-crypto-perpetual-futures-options-us-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Bitcoin plums new six-week lows as analyst eyes BTC price dip 'end' at $72K
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 5/29/2026, 5:03:12 PM  
-**Categories:** Markets  
-
-Bitcoin saw its lowest levels since the middle of April as BTC price action continued ot diverge from thriving US stock markets.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-plums-new-six-week-lows-as-analyst-eyes-btc-price-dip-end-at-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Ex-Celsius CEO files motion to vacate sentence after lawyers withdraw
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 5/29/2026, 4:58:50 PM  
-**Categories:** Latest News  
-
-Former CEO Alex Mashinsky filed documents seeking to vacate his 12-year sentence, which included claims involving FTX and a “hostile takeover” by a former Celsius executive, who was sentenced to time served.
-
-📖 [Read original article](https://cointelegraph.com/news/celsius-alex-mashinsky-motion-vacate-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Ethereum analysts say ‘downside pressure’ remains as $1.8K becomes key
-
-**Author:** Cointelegraph by Nancy Lubale  
-**Published:** 5/29/2026, 3:50:08 PM  
-**Categories:** Markets  
-
-Analysts warn Ether’s downside risks remain elevated as traders closely watch the $1,800 support zone for stability.
-
-📖 [Read original article](https://cointelegraph.com/markets/analysts-say-ethereums-downside-pressure-remains-as-18k-becomes-key?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bitcoin ETFs bleed $2.8B in record nine-day outflow streak
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 5/29/2026, 2:20:32 PM  
-**Categories:** Latest News  
-
-Spot Bitcoin ETFs recorded a nine-day outflow streak totaling $2.84 billion, surpassing an eight-session outflow run in February 2025.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-etfs-longest-outflow-streak-institutional-demand-cools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Why is Stellar's XLM up by over 50% this week?
-
-**Author:** Cointelegraph by Yashu Gola  
-**Published:** 5/29/2026, 1:34:59 PM  
-**Categories:** Markets  
-
-XLM rallied after US financial giant DTCC announced a partnership with the Stellar Network, but it still risks a sharp downside in the coming weeks.
-
-📖 [Read original article](https://cointelegraph.com/markets/why-is-stellars-xlm-up-by-over-50-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. NYSE parent ICE pushes ‘level playing field’ for 24/7 onchain perps
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 5/29/2026, 1:25:20 PM  
-**Categories:** Latest News  
-
-ICE’s CEO said regulators need to create a “level playing field” for launching 24/7 onchain perps contracts, which are already trading on exchanges such as Hyperliquid.
-
-📖 [Read original article](https://cointelegraph.com/news/nyse-ice-level-playing-field-247-onchain-perps-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Bitcoin falls out of the global top 10 assets as market cap dips below $1.5T
-
-**Author:** Cointelegraph by Nancy Lubale  
-**Published:** 5/29/2026, 12:09:23 PM  
-**Categories:** Markets  
-
-Bitcoin’s market cap has dropped below $1.5 trillion, pushing it out of the world’s top 10 assets amid AI stock and precious metal rallies.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-falls-out-of-the-global-top-10-assets-as-its-market-cap-dips-below-15t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
