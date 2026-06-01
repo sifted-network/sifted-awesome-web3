@@ -2,16 +2,52 @@
 title: "The Block - 2026-06-01"
 date: "2026-06-01"
 source: "The Block"
-count: 12
+count: 15
 ---
 
 # The Block - 2026-06-01
 
-12 items collected.
+15 items collected.
 
 ---
 
-## 1. Strategy bitcoin sale timing throws wrench into $20 million Polymarket pool
+## 1. Unable to recover from roughly $50 million hack, Radiant Capital is winding down
+
+**Author:** RT Watson  
+**Published:** 6/1/2026, 7:33:31 PM  
+**Categories:** Crypto Ecosystems, DeFi, Security, Exploits, Smart contracts  
+
+Radiant Capital said it hasn't been able to recover a meaningful amount of funds or raise new capital since the 2024 exploit.
+
+📖 [Read original article](https://www.theblock.co/post/403254/unable-to-recover-from-roughly-50-million-hack-radiant-capital-is-winding-down?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. TON revives Gram token brand as Telegram CEO Durov says network is ‘returning to roots’
+
+**Author:** Kyle Baird  
+**Published:** 6/1/2026, 6:32:32 PM  
+**Categories:** Companies, Crypto Ecosystems, Ecosystem Maps, The Block, pavel-durov, telegram, ton  
+
+The Gram rebrand follows network upgrades, fee cuts, and Telegram's push for a larger role in TON governance.
+
+📖 [Read original article](https://www.theblock.co/post/403231/ton-revives-gram-token-brand-telegram-ceo-durov-network-returning-roots?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Grayscale sets 0.29% fee for its Hyperliquid ETF, undercutting Bitwise and 21Shares
+
+**Author:** Sarah Wynn  
+**Published:** 6/1/2026, 6:09:09 PM  
+**Categories:** Companies, Finance firms, Legal, Policy, Regulation, HYPE etf, SEC  
+
+Grayscale is set to launch its own Hyperliquid exchange-traded fund as soon as this week, setting a sponsor fee of 0.29%.
+
+📖 [Read original article](https://www.theblock.co/post/403234/grayscale-sets-0-29-fee-hyperliquid-etf-undercutting-bitwise-21shares?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Strategy bitcoin sale timing throws wrench into $20 million Polymarket pool
 
 **Author:** Kyle Baird  
 **Published:** 6/1/2026, 4:40:18 PM  
@@ -23,7 +59,7 @@ A Polymarket pool asking whether Strategy would sell any of its bitcoin before M
 
 ---
 
-## 2. Bitmine acquires 26,497 ETH as it targets a slower approach to 5% of Ethereum’s total supply
+## 5. Bitmine acquires 26,497 ETH as it targets a slower approach to 5% of Ethereum’s total supply
 
 **Author:** Daniel Kuhn  
 **Published:** 6/1/2026, 2:29:24 PM  
@@ -35,7 +71,7 @@ Bitmine Chairman Tom Lee said the company would reach its 5% acquisition target 
 
 ---
 
-## 3. IREN lands $3.65 billion A-rated financing for Microsoft AI buildout
+## 6. IREN lands $3.65 billion A-rated financing for Microsoft AI buildout
 
 **Author:** Kyle Baird  
 **Published:** 6/1/2026, 2:25:50 PM  
@@ -47,7 +83,7 @@ The debt package helps IREN cover about 96% of the GPU spending needed to fulfil
 
 ---
 
-## 4. Dogecoin gains access to Paxos network used by PayPal and Venmo
+## 7. Dogecoin gains access to Paxos network used by PayPal and Venmo
 
 **Author:** RT Watson  
 **Published:** 6/1/2026, 1:45:21 PM  
@@ -59,7 +95,7 @@ House of Doge struck partnership with Paxos to integrate DOGE across the firm's 
 
 ---
 
-## 5. Bitcoin weakens near $72K as ETF outflows, stalled whale buying and macro uncertainty weigh on prices: analysts
+## 8. Bitcoin weakens near $72K as ETF outflows, stalled whale buying and macro uncertainty weigh on prices: analysts
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/1/2026, 12:49:29 PM  
@@ -71,7 +107,7 @@ Bitcoin fell toward $72,000 as U.S. spot ETFs posted weekly outflows again amid 
 
 ---
 
-## 6. Michael Saylor’s Strategy sells 32 bitcoin for $2.5 million as total holdings drop to 843,706 BTC
+## 9. Michael Saylor’s Strategy sells 32 bitcoin for $2.5 million as total holdings drop to 843,706 BTC
 
 **Author:** James Hunt and Danny Park  
 **Published:** 6/1/2026, 12:09:32 PM  
@@ -83,7 +119,7 @@ Strategy's remaining holdings still account for more than 4% of the 21 million b
 
 ---
 
-## 7. US-based funds drive $1.7B in global crypto ETP outflows as redemption streak extends to three weeks: CoinShares
+## 10. US-based funds drive $1.7B in global crypto ETP outflows as redemption streak extends to three weeks: CoinShares
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/1/2026, 11:50:00 AM  
@@ -95,7 +131,7 @@ Global crypto ETP outflows hit $1.67 billion last week as Bitcoin products recor
 
 ---
 
-## 8. Binance adds over 7,000 US stocks and ETFs for traders outside the United States amid super app push
+## 11. Binance adds over 7,000 US stocks and ETFs for traders outside the United States amid super app push
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/1/2026, 10:48:36 AM  
@@ -107,7 +143,7 @@ Binance launched U.S. stock and ETF trading for non-U.S. users and has plans for
 
 ---
 
-## 9. ‘Gnosis will cover all user losses’ amid exploit related to Gnosis Pay, co-founder Koppelmann says
+## 12. ‘Gnosis will cover all user losses’ amid exploit related to Gnosis Pay, co-founder Koppelmann says
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/1/2026, 10:14:19 AM  
@@ -119,7 +155,7 @@ Gnosis co-founder Martin Koppelmann said all user losses will be covered as cont
 
 ---
 
-## 10. Digital euro is key to counter stablecoin risks, says ECB’s Schnabel
+## 13. Digital euro is key to counter stablecoin risks, says ECB’s Schnabel
 
 **Author:** Timmy Shen  
 **Published:** 6/1/2026, 8:49:18 AM  
@@ -131,7 +167,7 @@ Isabel Schnabel, an ECB board member, said Monday that central banks should resp
 
 ---
 
-## 11. Coinbase launches Indian rupee rails with perps access in expansion push
+## 14. Coinbase launches Indian rupee rails with perps access in expansion push
 
 **Author:** Timmy Shen  
 **Published:** 6/1/2026, 5:11:02 AM  
@@ -143,7 +179,7 @@ The Nasdaq-listed company said it has established INR order books to provide ded
 
 ---
 
-## 12. The Funding: How crypto hedge funds are navigating weak markets
+## 15. The Funding: How crypto hedge funds are navigating weak markets
 
 **Author:** Yogita Khatri  
 **Published:** 6/1/2026, 3:33:52 AM  
