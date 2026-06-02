@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-05-31"
 date: "2026-05-31"
 source: "Cointelegraph"
-count: 7
+count: 3
 ---
 
 # Cointelegraph - 2026-05-31
 
-7 items collected.
+3 items collected.
 
 ---
 
@@ -44,53 +44,5 @@ Strategy may be set to announce it has resumed buying Bitcoin after pausing in r
 In the wake of CFTC approval of perpetual futures contracts tied to the spot price of Bitcoin, Kraken expects to offer those to US institutional clients within "the next month."
 
 📖 [Read original article](https://cointelegraph.com/news/kraken-plans-regulated-perp-contracts-as-rivals-are-quick-off-the-blocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Bitcoin preps 3% May downside, but US PMI data may boost BTC price
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 5/31/2026, 4:39:40 PM  
-**Categories:** Markets  
-
-Bitcoin faced ending May lower by around 3%, with the possibility of US PMI data giving BTC price action a boost next week.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-preps-3-may-downside-as-us-pmi-data-preps-potential-btc-price-boost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Bitcoin price targets $78K as BTC holders defend 'strongest near-term support'
-
-**Author:** Cointelegraph by Yashu Gola  
-**Published:** 5/31/2026, 12:39:47 PM  
-**Categories:** Markets  
-
-Bitcoin’s bounce from a key holder cost-basis level has improved the case for further upside, with historical data pointing to $101,000 as a potential best-case target.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-rebound-targets-78k-as-short-term-holders-defend-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Vietnam proposes allowing SMEs to use digital assets as loan collateral
-
-**Author:** Cointelegraph by Amin Haqshanas  
-**Published:** 5/31/2026, 10:03:56 AM  
-**Categories:** Latest News  
-
-Vietnam’s Ministry of Finance has proposed letting SMEs use digital assets, virtual assets and intellectual property as loan collateral.
-
-📖 [Read original article](https://cointelegraph.com/news/vietnam-proposes-allowing-smes-to-use-digital-assets-as-loan-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Cosmos-based Gravity Bridge halts bridge after reported $5.4M exploit
-
-**Author:** Cointelegraph by Amin Haqshanas  
-**Published:** 5/31/2026, 8:57:25 AM  
-**Categories:** Latest News  
-
-Gravity Bridge was drained of roughly $5.4 million in a suspected signing key compromise, prompting validators to halt the bridge while an investigation is underway.
-
-📖 [Read original article](https://cointelegraph.com/news/cosmos-based-gravity-bridge-halts-bridge-after-reported-54m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
