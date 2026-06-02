@@ -2,16 +2,52 @@
 title: "Decrypt - 2026-06-01"
 date: "2026-06-01"
 source: "Decrypt"
-count: 18
+count: 21
 ---
 
 # Decrypt - 2026-06-01
 
-18 items collected.
+21 items collected.
 
 ---
 
-## 1. Elon Musk's SpaceX Warns $1.75 Billion IPO Investors of Potential Future Share Dilution
+## 1. Nvidia Releases Its Best Open AI Model Yet—But Still Lags Behind China
+
+**Author:** Jose Antonio Lanz  
+**Published:** 6/1/2026, 10:46:04 PM  
+**Categories:** Artificial Intelligence  
+
+Nvidia's Nemotron 3 Ultra tops every American open-weight AI system by a wide margin—but still trails the Chinese-led frontier.
+
+📖 [Read original article](https://decrypt.co/369689/nvidia-open-ai-model-nemotron-3-ultra)
+
+---
+
+## 2. DuckDuckGo Launched Duck AI. Now Their Hit Product is 'No AI'
+
+**Author:** Jose Antonio Lanz  
+**Published:** 6/1/2026, 10:16:04 PM  
+**Categories:** Artificial Intelligence  
+
+As Google buries its search results under AI-generated answers, DuckDuckGo believes a growing number of users just want the old internet back.
+
+📖 [Read original article](https://decrypt.co/369688/duckduckgo-no-ai-google)
+
+---
+
+## 3. TON Price Pumps After Telegram CEO Says Token Will Be Rebranded to Gram
+
+**Author:** Andrew Hayward  
+**Published:** 6/1/2026, 9:32:23 PM  
+**Categories:** , Coins  
+
+Telegram is taking the reins of The Open Network, years after abandoning the project—and it plans to adopt Toncoin's originally planned name.
+
+📖 [Read original article](https://decrypt.co/369660/ton-price-pumps-telegram-ceo-token-rebranded-gram)
+
+---
+
+## 4. Elon Musk's SpaceX Warns $1.75 Billion IPO Investors of Potential Future Share Dilution
 
 **Author:** Jason Nelson  
 **Published:** 6/1/2026, 9:11:23 PM  
@@ -23,7 +59,7 @@ SpaceX's amended IPO filing signals the company may issue substantial new shares
 
 ---
 
-## 2. Trump’s Business Partner Teases Future Meme Coin Plans: 'We’re The Biggest Brand on Earth'
+## 5. Trump’s Business Partner Teases Future Meme Coin Plans: 'We’re The Biggest Brand on Earth'
 
 **Author:** Sander Lutz  
 **Published:** 6/1/2026, 9:02:42 PM  
@@ -35,7 +71,7 @@ Bill Zanker, a longtime Trump associate, will take the top 19 holders of the pre
 
 ---
 
-## 3. Strategy's Bitcoin Sale Timing Throws $50 Million Polymarket Bet Into Dispute
+## 6. Strategy's Bitcoin Sale Timing Throws $50 Million Polymarket Bet Into Dispute
 
 **Author:** Logan Hitchcock  
 **Published:** 6/1/2026, 7:58:54 PM  
@@ -47,7 +83,7 @@ Polymarket users are waiting for a resolution on whether Strategy's Bitcoin sale
 
 ---
 
-## 4. Kalshi Eyes Perpetual Futures for XRP, Solana, Dogecoin—And These Altcoins
+## 7. Kalshi Eyes Perpetual Futures for XRP, Solana, Dogecoin—And These Altcoins
 
 **Author:** André Beganski  
 **Published:** 6/1/2026, 7:33:53 PM  
@@ -59,7 +95,7 @@ Kalshi moved swiftly to lock down an emerging market for perpetual futures in th
 
 ---
 
-## 5. Florida Sues OpenAI, Sam Altman Over ChatGPT Safety Claims
+## 8. Florida Sues OpenAI, Sam Altman Over ChatGPT Safety Claims
 
 **Author:** Jason Nelson  
 **Published:** 6/1/2026, 6:28:33 PM  
@@ -71,7 +107,7 @@ Florida's attorney general seeks damages, restrictions on ChatGPT, and personal 
 
 ---
 
-## 6. Sell Coinbase Before Derivatives Squeeze Crypto Giant, Says Compass Point
+## 9. Sell Coinbase Before Derivatives Squeeze Crypto Giant, Says Compass Point
 
 **Author:** André Beganski  
 **Published:** 6/1/2026, 6:21:10 PM  
@@ -83,7 +119,7 @@ Compass Point analysts reiterated a bearish $140 price target for Coinbase, warn
 
 ---
 
-## 7. Tom Lee's BitMine Buys $52 Million in Ethereum as Strategy Sells Bitcoin
+## 10. Tom Lee's BitMine Buys $52 Million in Ethereum as Strategy Sells Bitcoin
 
 **Author:** Logan Hitchcock  
 **Published:** 6/1/2026, 4:25:25 PM  
@@ -95,7 +131,7 @@ A week after notching its largest purchase of 2026, BitMine was back in the orde
 
 ---
 
-## 8. AI Giant Anthropic Files to Go Public After Nearing $1 Trillion Valuation
+## 11. AI Giant Anthropic Files to Go Public After Nearing $1 Trillion Valuation
 
 **Author:** Jason Nelson  
 **Published:** 6/1/2026, 4:09:11 PM  
@@ -107,7 +143,7 @@ Claude maker Anthropic said Monday that it confidentially filed to launch an IPO
 
 ---
 
-## 9. Strategy Shares Slide Following Bitcoin Sale—Will It Dump More BTC Ahead?
+## 12. Strategy Shares Slide Following Bitcoin Sale—Will It Dump More BTC Ahead?
 
 **Author:** André Beganski  
 **Published:** 6/1/2026, 3:44:04 PM  
@@ -119,7 +155,7 @@ Strategy sold Bitcoin, sparking jitters among investors and raising questions am
 
 ---
 
-## 10. Whitehat Helps Recover $2M in ETH Stuck Since 2016 ICO
+## 13. Whitehat Helps Recover $2M in ETH Stuck Since 2016 ICO
 
 **Author:** Vince Dioquino  
 **Published:** 6/1/2026, 3:32:10 PM  
@@ -131,7 +167,7 @@ A whitehat developer helped return funds from HongCoin's failed 2016 token sale 
 
 ---
 
-## 11. Sui Blames Last Week's Trio of Network Outages on Gas and Validator Bugs
+## 14. Sui Blames Last Week's Trio of Network Outages on Gas and Validator Bugs
 
 **Author:** Decrypt Agent  
 **Published:** 6/1/2026, 3:19:04 PM  
@@ -143,7 +179,7 @@ The Sui blockchain suffered three separate failures in 48 hours due to gas calcu
 
 ---
 
-## 12. Binance Opens Access to 7,000 US Stocks, Prepares Tokenized 'bStocks' Rollout
+## 15. Binance Opens Access to 7,000 US Stocks, Prepares Tokenized 'bStocks' Rollout
 
 **Author:** Vismaya V  
 **Published:** 6/1/2026, 2:33:49 PM  
@@ -155,7 +191,7 @@ Binance opened equities trading and previewed "bStocks," with experts split over
 
 ---
 
-## 13. Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year
+## 16. Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year
 
 **Author:** Logan Hitchcock  
 **Published:** 6/1/2026, 2:24:28 PM  
@@ -167,7 +203,7 @@ Strategy made its first BTC sale since 2022 as Bitcoin ETFs shed billions over t
 
 ---
 
-## 14. Morning Minute: HYPE Soars as CFTC Gives Perps Green Light
+## 17. Morning Minute: HYPE Soars as CFTC Gives Perps Green Light
 
 **Author:** Tyler Warner  
 **Published:** 6/1/2026, 2:02:20 PM  
@@ -179,7 +215,7 @@ Kalshi got the formal approval, but it's Hyperliquid that caught the most buzz w
 
 ---
 
-## 15. Michael Saylor's Bitcoin Treasury Firm Strategy Sells 32 BTC for $2.5M
+## 18. Michael Saylor's Bitcoin Treasury Firm Strategy Sells 32 BTC for $2.5M
 
 **Author:** Stephen Graves,André Beganski  
 **Published:** 6/1/2026, 12:22:16 PM  
@@ -191,7 +227,7 @@ Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face 
 
 ---
 
-## 16. Bitcoin ETF Losses Near $3B Across 10 Days as YTD Flows Turn Negative
+## 19. Bitcoin ETF Losses Near $3B Across 10 Days as YTD Flows Turn Negative
 
 **Author:** Akash Girimath  
 **Published:** 6/1/2026, 11:46:35 AM  
@@ -203,7 +239,7 @@ U.S. spot Bitcoin ETFs extended their outflow streak to 10 days, as crypto marke
 
 ---
 
-## 17. Coinbase Launches Direct Indian Rupee Deposit and Withdrawal Rails
+## 20. Coinbase Launches Direct Indian Rupee Deposit and Withdrawal Rails
 
 **Author:** Decrypt Agent  
 **Published:** 6/1/2026, 11:11:26 AM  
@@ -215,7 +251,7 @@ The U.S. exchange has established direct rupee trading rails for Indian customer
 
 ---
 
-## 18. What Is BChat? The Decentralized Messaging App Built for Privacy
+## 21. What Is BChat? The Decentralized Messaging App Built for Privacy
 
 **Author:** Decrypt Staff  
 **Published:** 6/1/2026, 10:01:04 AM  
