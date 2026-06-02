@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-01"
 date: "2026-06-01"
 source: "The Block"
-count: 15
+count: 14
 ---
 
 # The Block - 2026-06-01
 
-15 items collected.
+14 items collected.
 
 ---
 
@@ -176,17 +176,5 @@ Isabel Schnabel, an ECB board member, said Monday that central banks should resp
 The Nasdaq-listed company said it has established INR order books to provide dedicated liquidity for users in the country.
 
 📖 [Read original article](https://www.theblock.co/post/403135/coinbase-launches-indian-rupee-rails?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. The Funding: How crypto hedge funds are navigating weak markets
-
-**Author:** Yogita Khatri  
-**Published:** 6/1/2026, 3:33:52 AM  
-**Categories:** Crypto Ecosystems, Deals, Funds, Institutional Investors, Market Updates, Markets, Private Investments, Token Projects, Venture Capital, Asset Managers, Bitcoin, Hedge Funds, Strategic Investments, Tokens  
-
-As crypto markets remain weak, fund managers say asset selection, fundamentals, and alpha matter more than ever.
-
-📖 [Read original article](https://www.theblock.co/post/403128/the-funding-how-crypto-hedge-funds-are-navigating-weak-markets?utm_source=rss&utm_medium=rss)
 
 ---
