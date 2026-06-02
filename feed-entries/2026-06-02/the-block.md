@@ -11,7 +11,67 @@ count: 19
 
 ---
 
-## 1. Coinbase investing into stablecoin reserves ETF issued by ProShares
+## 1. Crypto derivatives activity slumps to late-2023 levels, but US perp market opportunity emerges
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 6/2/2026, 7:46:02 PM  
+**Categories:** Companies, Exchanges, Markets, The Block, Binance, OKX, perpetual-futures  
+
+The composition of that volume remains heavily concentrated among a handful of exchanges, with Binance maintaining its dominant share.
+
+📖 [Read original article](https://www.theblock.co/post/403379/crypto-derivatives-activity-slumps-late-2023-levels-us-perp-market-opportunity-emerges?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Bitwise CIO Matt Hougan calls crypto a ‘contrarian bet’
+
+**Author:** Daniel Kuhn  
+**Published:** 6/2/2026, 7:28:40 PM  
+**Categories:** Equities, Markets, People, Analyst Reports  
+
+Growing AI stocks and uncertainty around the Clarity Act have put crypto in a tough spot for institutional investors, Hougan said.
+
+📖 [Read original article](https://www.theblock.co/post/403423/bitwise-cio-matt-hougan-calls-crypto-a-contrarian-bet?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Ethena taps Anchorage for secure offchain collateral in institutional lending push
+
+**Author:** Daniel Kuhn  
+**Published:** 6/2/2026, 6:06:42 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, Finance firms, Stablecoins, Web3, Crypto Banks and Lenders, Decentralized Infrastructure, Lending, Protocols  
+
+Ethena began pivoting toward overcollateralized institutional lending in April as part of a major overhaul of USDe reserves.
+
+📖 [Read original article](https://www.theblock.co/post/403410/ethena-taps-anchorage-secure-offchain-collateral-institutional-lending-push?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Coinbase invests in Ethena via open market purchase of ENA, flags new partnership
+
+**Author:** RT Watson  
+**Published:** 6/2/2026, 5:29:23 PM  
+**Categories:** Companies, Exchanges, Binance, Coinbase, ethena  
+
+Ethena said the two companies have also become partners "to grow onchain finance and savings products."
+
+📖 [Read original article](https://www.theblock.co/post/403403/coinbase-invests-ethena-open-market-purchase-ena-flags-new-partnership?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Sens. Bernie Sanders, Elizabeth Warren push Labor Dept. to scrap proposed rule that brings crypto into 401(k) plans
+
+**Author:** Sarah Wynn  
+**Published:** 6/2/2026, 4:37:57 PM  
+**Categories:** Legal, Policy, Regulation, U.S. Policymaking, Congress, Senate Banking Committee  
+
+Sens. Warren and Sanders are pressing the DOL to strike down a proposed rule that would open up 401(k) retirement plans to crypto.
+
+📖 [Read original article](https://www.theblock.co/post/403394/bernie-sanders-elizabeth-warren-push-labor-department-scrap-rule-crypto-401k?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. Coinbase investing into stablecoin reserves ETF issued by ProShares
 
 **Author:** RT Watson  
 **Published:** 6/2/2026, 2:48:47 PM  
@@ -23,7 +83,7 @@ The fund, called ProShares GENIUS Money Market ETF, has $22 billion in assets un
 
 ---
 
-## 2. Strive adds 2,500 BTC to treasury as Saylor’s Strategy sells
+## 7. Strive adds 2,500 BTC to treasury as Saylor’s Strategy sells
 
 **Author:** Kyle Baird  
 **Published:** 6/2/2026, 2:32:01 PM  
@@ -35,7 +95,7 @@ In an initiation note, Benchmark said the company has "one of the most different
 
 ---
 
-## 3. Standard Chartered says Strategy’s bitcoin sale may mark start of ETH outperformance
+## 8. Standard Chartered says Strategy’s bitcoin sale may mark start of ETH outperformance
 
 **Author:** Yogita Khatri  
 **Published:** 6/2/2026, 1:55:50 PM  
@@ -47,7 +107,7 @@ Standard Chartered said Ethereum DATs have an advantage over bitcoin DATs becaus
 
 ---
 
-## 4. ‘Materially softer demand’: Bitcoin hits two-month low below $69,000 amid institutional outflow streak, fading onchain interest
+## 9. ‘Materially softer demand’: Bitcoin hits two-month low below $69,000 amid institutional outflow streak, fading onchain interest
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/2/2026, 1:48:59 PM  
@@ -59,7 +119,7 @@ Bitcoin fell below $69,000 to a two-month low as ETF outflows hit $3.45 billion 
 
 ---
 
-## 5. Franklin Templeton brings BENJI tokenized fund to MoonPay
+## 10. Franklin Templeton brings BENJI tokenized fund to MoonPay
 
 **Author:** Daniel Kuhn  
 **Published:** 6/2/2026, 1:30:00 PM  
@@ -71,7 +131,7 @@ The partnership will serve as "the foundation for a broader strategic relationsh
 
 ---
 
-## 6. Galaxy Digital opens OTC prediction market trading for institutions, kicks off with $10 million Kalshi trade
+## 11. Galaxy Digital opens OTC prediction market trading for institutions, kicks off with $10 million Kalshi trade
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/2/2026, 1:12:52 PM  
@@ -83,7 +143,7 @@ Galaxy Digital launches institutional OTC prediction markets trading, executing 
 
 ---
 
-## 7. HIVE reports 158% jump in annual revenue to $298 million as bitcoin holdings fall to 150 BTC
+## 12. HIVE reports 158% jump in annual revenue to $298 million as bitcoin holdings fall to 150 BTC
 
 **Author:** James Hunt  
 **Published:** 6/2/2026, 1:06:52 PM  
@@ -95,7 +155,7 @@ The company reduced its bitcoin holdings from 481 BTC to 150 BTC during the last
 
 ---
 
-## 8. Backpack launches securities platform blending traditional and tokenized stock trading
+## 13. Backpack launches securities platform blending traditional and tokenized stock trading
 
 **Author:** Daniel Kuhn  
 **Published:** 6/2/2026, 1:05:02 PM  
@@ -107,7 +167,7 @@ Backpack Securities combines a U.S.-regulated brokerage for traditional equities
 
 ---
 
-## 9. Hamilton Lane’s tokenized HLSCOPE fund launches on Tron, marking first Securitize asset on the network
+## 14. Hamilton Lane’s tokenized HLSCOPE fund launches on Tron, marking first Securitize asset on the network
 
 **Author:** Daniel Kuhn  
 **Published:** 6/2/2026, 1:00:00 PM  
@@ -119,7 +179,7 @@ Hamilton Lane’s tokenized Senior Credit Opportunities Fund will be the first S
 
 ---
 
-## 10. Following token-dumping scandal, Movement seeks new life as a Layer 1
+## 15. Following token-dumping scandal, Movement seeks new life as a Layer 1
 
 **Author:** Daniel Kuhn  
 **Published:** 6/2/2026, 1:00:00 PM  
@@ -131,7 +191,7 @@ Move Industries has partnered with several firms, including Circle, as it relaun
 
 ---
 
-## 11. Veda brings the vault stack behind Kraken DeFi Earn to Privy’s 2,000-plus developer teams
+## 16. Veda brings the vault stack behind Kraken DeFi Earn to Privy’s 2,000-plus developer teams
 
 **Author:** Zack Abrams  
 **Published:** 6/2/2026, 11:05:02 AM  
@@ -143,7 +203,7 @@ The same vault stack powering Kraken DeFi Earn and EtherFi's Liquid will be avai
 
 ---
 
-## 12. MoneyGram debuts MGUSD stablecoin on Stellar for its global payments network
+## 17. MoneyGram debuts MGUSD stablecoin on Stellar for its global payments network
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/2/2026, 10:49:35 AM  
@@ -155,7 +215,7 @@ MoneyGram launched MGUSD, a USD stablecoin on Stellar backed by Bridge and Fireb
 
 ---
 
-## 13. Vitalik Buterin proposes options-based synthetic assets to avoid liquidations and reduce reliance on real-time oracles
+## 18. Vitalik Buterin proposes options-based synthetic assets to avoid liquidations and reduce reliance on real-time oracles
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/2/2026, 10:31:02 AM  
@@ -167,7 +227,7 @@ Buterin proposed options-based synthetic assets that avoid liquidation risk and 
 
 ---
 
-## 14. Polymarket faces backlash over disputed Strategy bitcoin sale market
+## 19. Polymarket faces backlash over disputed Strategy bitcoin sale market
 
 **Author:** Timmy Shen  
 **Published:** 6/2/2026, 10:14:29 AM  
@@ -176,65 +236,5 @@ Buterin proposed options-based synthetic assets that avoid liquidation risk and 
 Polymarket is facing continued backlash from traders who bet on "Yes" in a market asking whether Strategy would sell any bitcoin by May 31.
 
 📖 [Read original article](https://www.theblock.co/post/403312/polymarket-faces-backlash-strategy-bitcoin-sale?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. CME’s 24/7 crypto derivatives market sees $50 million in opening weekend trading
-
-**Author:** Danny Park  
-**Published:** 6/2/2026, 9:06:26 AM  
-**Categories:** Companies, Finance firms, cme-group  
-
-CME Group said that its 24/7 crypto futures and options market saw over 7,200 contracts traded over the first weekend.
-
-📖 [Read original article](https://www.theblock.co/post/403304/cme-groups-crypto-derivatives-50-million?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Mt. Gox moves $739 million worth of bitcoin to two addresses: Arkham
-
-**Author:** Timmy Shen  
-**Published:** 6/2/2026, 6:49:31 AM  
-**Categories:** Companies, Exchanges, Markets, Restructuring, Token Projects, Bitcoin, mt-gox  
-
-Mt. Gox transferred a combined 10,306 BTC to an unmarked address and its hot wallet early Tuesday, according to Arkham.
-
-📖 [Read original article](https://www.theblock.co/post/403296/mt-gox-moves-739-million-btc?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Spot bitcoin ETFs extend negative streak, following $2.4 billion monthly outflows in May
-
-**Author:** Danny Park  
-**Published:** 6/2/2026, 5:47:15 AM  
-**Categories:** Funds, Markets, Token Projects, Bitcoin, Bitcoin ETF  
-
-Dampened hopes for an improved macroeconomic environment have led institutions to move from crypto ETFs to AI stocks, an analyst said.
-
-📖 [Read original article](https://www.theblock.co/post/403292/spot-bitcoin-etfs-extend-negative-streak-may?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. Bitcoin slides toward $70,000 as Strategy’s BTC sale, geopolitical risks weigh on crypto
-
-**Author:** Timmy Shen  
-**Published:** 6/2/2026, 4:05:50 AM  
-**Categories:** Markets, People, Policy, Token Projects, Bitcoin, Donald Trump, Ethereum  
-
-Analysts said the size of Strategy's bitcoin sale was relatively trivial, but sent a bearish signal to the broader market.
-
-📖 [Read original article](https://www.theblock.co/post/403286/bitcoin-slides-geopolitical-risks-strategy-btc-sale?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. Robinhood closes $180 million WonderFi acquisition, entering Canadian crypto market
-
-**Author:** Danny Park  
-**Published:** 6/2/2026, 1:59:49 AM  
-**Categories:** Companies, Deals, Exchanges, Finance firms, Mergers & Acquisitions, Robinhood  
-
-Users of WonderFi's crypto platforms Bitbuy and Coinsquare will be invited to continue on the Robinhood app.
-
-📖 [Read original article](https://www.theblock.co/post/403279/robinhood-closes-wonderfi-acquisition-canada?utm_source=rss&utm_medium=rss)
 
 ---
