@@ -11,7 +11,67 @@ count: 25
 
 ---
 
-## 1. Hyperliquid predicted 80% of oil move before traditional exchanges opened, says expert report
+## 1. Coinbase backs Ethena ahead of savings product launch for exchange's 100 million users
+
+**Author:** Krisztian Sandor  
+**Published:** 6/2/2026, 8:09:53 PM  
+**Categories:** Finance, Coinbase, Stablecoins, DeFi, News  
+
+Coinbase Ventures, the exchange's venture arm, bought Ethena tokens on the open market as the protocol is set to roll out a Coinbase integration next week.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/02/coinbase-backs-ethena-ahead-of-savings-product-launch-for-exchange-s-100-million-users)
+
+---
+
+## 2. Galaxy enters institutional prediction markets with $10 million Arca trade
+
+**Author:** Helene Braun,AI Boost  
+**Published:** 6/2/2026, 7:17:12 PM  
+**Categories:** Markets, Galaxy Digital, Prediction Markets, News  
+
+The digital asset firm launched OTC prediction markets trading for institutions and completed a $10 million trade tied to U.S. crypto legislation with hedge fund Arca.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/02/galaxy-enters-institutional-prediction-markets-with-usd10-million-arca-trade)
+
+---
+
+## 3. Tom Lee predicts ether will hit $250,000 as corporate validators take over network control
+
+**Author:** Olivier Acuna  
+**Published:** 6/2/2026, 6:42:40 PM  
+**Categories:** Markets, Ethereum News, News  
+
+The Bitmine chairman said DeFi and AI could push the Ethereum network's value into the multi-trillion range, making current prices “future optionality at a discount”.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/02/tom-lee-predicts-eth-will-hit-usd250-000-as-corporate-validators-take-over-network-control)
+
+---
+
+## 4. Bitcoin set for 'choppy summer' as capital chases high-flying AI stocks, K33 says
+
+**Author:** Krisztian Sandor  
+**Published:** 6/2/2026, 6:42:37 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+The firm still views bitcoin as undervalued relative to equities, but says investors are rotating into AI stocks as the opportunity cost of missing gains by holding BTC is too high.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/02/bitcoin-set-for-choppy-summer-as-capital-chases-high-flying-ai-stocks-k33-says)
+
+---
+
+## 5. Bitcoin faces an 'identity crisis' and DeFi devs need to stop acting like tech bros
+
+**Author:** Olivier Acuna  
+**Published:** 6/2/2026, 4:15:58 PM  
+**Categories:** Finance, DeFi, Bitcoin News, News  
+
+Solstice Labs CEO Ben Nadareski says developers must act like financial managers to win back institutional trust amid ongoing security exploits.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/02/bitcoin-faces-identity-crisis-as-defi-quietly-builds-its-breakthrough-point)
+
+---
+
+## 6. Hyperliquid predicted 80% of oil move before traditional exchanges opened, says expert report
 
 **Author:** Helene Braun  
 **Published:** 6/2/2026, 4:02:08 PM  
@@ -23,7 +83,7 @@ TD Securities says "perpetual futures" are exploding beyond crypto as platforms 
 
 ---
 
-## 2. Here's how one decentralized cloud provider says private citizens can make money from AI
+## 7. Here's how one decentralized cloud provider says private citizens can make money from AI
 
 **Author:** Olivier Acuna  
 **Published:** 6/2/2026, 3:36:36 PM  
@@ -35,7 +95,7 @@ Titan Network says its crowdsourced computing network has signed tech giants lik
 
 ---
 
-## 3. Gary Vaynerchuk says AI is creating the biggest opportunity ever for entrepreneurs
+## 8. Gary Vaynerchuk says AI is creating the biggest opportunity ever for entrepreneurs
 
 **Author:** AI Boost  
 **Published:** 6/2/2026, 3:24:52 PM  
@@ -47,7 +107,7 @@ AI is reshaping business faster than most leaders realize, and Gary Vaynerchuk a
 
 ---
 
-## 4. Hyperliquid is beating ethereum in trading volume on some days as big money rotates, says FalconX
+## 9. Hyperliquid is beating ethereum in trading volume on some days as big money rotates, says FalconX
 
 **Author:** Helene Braun  
 **Published:** 6/2/2026, 3:11:16 PM  
@@ -59,7 +119,7 @@ Institutional investors are ditching range-bound bitcoin and ether for Hyperliqu
 
 ---
 
-## 5. How to better understand bitcoin’s perpetual identity crisis
+## 10. How to better understand bitcoin’s perpetual identity crisis
 
 **Author:** Steve Bailey  
 **Published:** 6/2/2026, 2:08:52 PM  
@@ -71,7 +131,7 @@ Here, Bailey unpacks the uncertainty surrounding the original cryptocurrency’s
 
 ---
 
-## 6. Franklin Templeton teams up with MoonPay to let big investors swap stablecoins for yields 24/7
+## 11. Franklin Templeton teams up with MoonPay to let big investors swap stablecoins for yields 24/7
 
 **Author:** Helene Braun,AI Boost  
 **Published:** 6/2/2026, 1:30:00 PM  
@@ -83,7 +143,7 @@ The Wall Street giant is integrating its tech platform with MoonPay's infrastruc
 
 ---
 
-## 7. Strategy's bitcoin sale may mark start of ether outperformance, StanChart's Kendrick says
+## 12. Strategy's bitcoin sale may mark start of ether outperformance, StanChart's Kendrick says
 
 **Author:** Krisztian Sandor  
 **Published:** 6/2/2026, 1:14:36 PM  
@@ -95,7 +155,7 @@ ETH could outperform BTC by 40% from current levels as bitcoin treasuries may se
 
 ---
 
-## 8. CoinDesk 20 performance update: Stellar (XLM) falls 8.4%, leading index lower
+## 13. CoinDesk 20 performance update: Stellar (XLM) falls 8.4%, leading index lower
 
 **Author:** CoinDesk Indices  
 **Published:** 6/2/2026, 1:09:14 PM  
@@ -107,7 +167,7 @@ Aave (AAVE), down 3.9% from Monday, was also an underperformer.
 
 ---
 
-## 9. Movement pivots to stablecoin payments as the layer-2 boom loses momentum
+## 14. Movement pivots to stablecoin payments as the layer-2 boom loses momentum
 
 **Author:** Margaux Nijkerk  
 **Published:** 6/2/2026, 1:00:00 PM  
@@ -119,7 +179,7 @@ The team behind Movement said it plans to leverage licensed payment partners alo
 
 ---
 
-## 10. Live markets: bitcoin's plunge continues, putting February $60,000 low back in play
+## 15. Live markets: bitcoin loses $67,000 level in Tuesday plunge, putting February's lows back in play
 
 **Author:** Stephen Alpher,James Van Straten  
 **Published:** 6/2/2026, 12:38:03 PM  
@@ -131,7 +191,7 @@ Google overnight set an $80 billion capital raise, including $10 billion from Be
 
 ---
 
-## 11. Stellar CEO says Clarity Act would help, but tokenization isn't dependent on it
+## 16. Stellar CEO says Clarity Act would help, but tokenization isn't dependent on it
 
 **Author:** AI Boost  
 **Published:** 6/2/2026, 12:35:35 PM  
@@ -143,7 +203,7 @@ DTCC’s decision to connect its tokenized securities platform to Stellar marks 
 
 ---
 
-## 12. Strive added 2,500 bitcoin last week to reach 19,000 BTC as Strategy sold
+## 17. Strive added 2,500 bitcoin last week to reach 19,000 BTC as Strategy sold
 
 **Author:** Shaurya Malwa,James Van Straten  
 **Published:** 6/2/2026, 12:23:38 PM  
@@ -155,7 +215,7 @@ Benchmark's Mark Palmer also initiated coverage of the stock with a Buy rating a
 
 ---
 
-## 13. Bitcoin ETF outflows are noise as Wall Street doubles down on crypto, says analyst
+## 18. Bitcoin ETF outflows are noise as Wall Street doubles down on crypto, says analyst
 
 **Author:** AI Boost  
 **Published:** 6/2/2026, 12:14:58 PM  
@@ -167,7 +227,7 @@ Recent Bitcoin ETF outflows look dramatic in headlines, but Bloomberg Intelligen
 
 ---
 
-## 14. Bitcoin derivatives markets flashing warning signs as price plunges below $70,000
+## 19. Bitcoin derivatives markets flashing warning signs as price plunges below $70,000
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 6/2/2026, 12:12:02 PM  
@@ -179,7 +239,7 @@ Open interest has risen to 773,000 BTC, one of the highest readings on record, w
 
 ---
 
-## 15. Tom Lee calls Strategy's bitcoin sale classic 'bottom behavior'
+## 20. Tom Lee calls Strategy's bitcoin sale classic 'bottom behavior'
 
 **Author:** Olivier Acuna  
 **Published:** 6/2/2026, 12:05:26 PM  
@@ -191,7 +251,7 @@ Bitmine Immersion Technologies chairman said minor sales from key holders and in
 
 ---
 
-## 16. Symbiotic aims to make tokenized assets easier to cash out with new liquidity network
+## 21. Symbiotic aims to make tokenized assets easier to cash out with new liquidity network
 
 **Author:** Krisztian Sandor  
 **Published:** 6/2/2026, 12:00:00 PM  
@@ -203,7 +263,7 @@ Liquid Lane aims to solve a key bottleneck that is holding back growth of tokeni
 
 ---
 
-## 17. Ripple’s dollar stablecoin expands to Turkey through three local platforms
+## 22. Ripple’s dollar stablecoin expands to Turkey through three local platforms
 
 **Author:** Shaurya Malwa  
 **Published:** 6/2/2026, 11:50:35 AM  
@@ -215,7 +275,7 @@ BiLira, Bitexen and Bitlo will make Ripple’s RLUSD stablecoin available to Tur
 
 ---
 
-## 18. Bitcoin's slide may have more to do with AI than Strategy
+## 23. Bitcoin's slide may have more to do with AI than Strategy
 
 **Author:** Francisco Rodrigues,Saksham Diwan  
 **Published:** 6/2/2026, 11:15:00 AM  
@@ -227,7 +287,7 @@ Your day-ahead look for June 2, 2026
 
 ---
 
-## 19. Bitcoin drops toward $69,000 as Saylor sale spooks investors while AI tokens buck the trend
+## 24. Bitcoin drops toward $69,000 as Saylor sale spooks investors while AI tokens buck the trend
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 6/2/2026, 10:00:35 AM  
@@ -239,7 +299,7 @@ The price of bitcoin fell to its lowest since April 7 as Strategy's sale dented 
 
 ---
 
-## 20. MoneyGram launches stablecoin on Stellar, joining rush toward digital dollar payments
+## 25. MoneyGram launches stablecoin on Stellar, joining rush toward digital dollar payments
 
 **Author:** Krisztian Sandor  
 **Published:** 6/2/2026, 9:00:00 AM  
@@ -248,65 +308,5 @@ The price of bitcoin fell to its lowest since April 7 as Strategy's sale dented 
 MGUSD, issued by Stripe's Bridge, will power services across MoneyGram's global network as stablecoins gain traction in cross-border payments.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/06/02/moneygram-launches-stablecoin-on-stellar-joining-rush-toward-digital-dollar-payments)
-
----
-
-## 21. Bitcoin's biggest ETF selloff yet hits $3.4 billion as AI stocks keep climbing
-
-**Author:** Sam Reynolds  
-**Published:** 6/2/2026, 6:47:46 AM  
-**Categories:** Markets, Bitcoin News, MicroStrategy, News  
-
-U.S. spot bitcoin funds bled cash for 11 straight sessions through Monday, the longest redemption streak since their 2024 launch, as risk dollars rotated toward an AI-led equities rally.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/02/bitcoin-s-biggest-etf-selloff-yet-hits-usd3-4-billion-as-ai-stocks-keep-climbing)
-
----
-
-## 22. XRP falls 4% below $1.30 as bitcoin-led market weakness pulls down majors
-
-**Author:** Shaurya Malwa  
-**Published:** 6/2/2026, 6:41:29 AM  
-**Categories:** Markets, News  
-
-XRP hit fresh 15-week lows after losing a key support zone, with exchange outflows failing to offset persistent selling pressure.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/02/xrp-falls-4-below-usd1-30-as-bitcoin-led-market-weakness-pulls-down-majors)
-
----
-
-## 23. Mt. Gox moves 10,422 bitcoin worth $739 million to a new wallet as deadline nears
-
-**Author:** Shaurya Malwa  
-**Published:** 6/2/2026, 6:15:02 AM  
-**Categories:** Markets, News  
-
-The 04:47 UTC Bitcoin block 952,072 transaction moved coins from Mt. Gox cold storage into a freshly generated address, with a smaller 116-bitcoin slice routed to the defunct exchange's hot wallet.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/02/mt-gox-moves-10-422-bitcoin-worth-usd739-million-to-a-new-wallet-as-deadline-nears)
-
----
-
-## 24. Bitcoin drops below $70,000 as stocks pause and Strategy's BTC sale weighs on crypto
-
-**Author:** Shaurya Malwa  
-**Published:** 6/2/2026, 5:09:39 AM  
-**Categories:** Markets, News  
-
-BTC fell 3.8% in 24 hours to below $69,960 , the lowest level in weeks, as Monday's 8-K filing disclosing Strategy's first publicized bitcoin sale continued to weigh.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/02/bitcoin-slide-to-usd70-000-as-stocks-pause-and-strategy-s-btc-sale-weighs-on-crypto)
-
----
-
-## 25. Strategy sold bitcoin in late May, and told the market in June. Here's how Polymarket bettors are fighting over when it counts.
-
-**Author:** Sam Reynolds,AI Boost  
-**Published:** 6/2/2026, 5:00:34 AM  
-**Categories:** Markets, Polymarket, MicroStrategy, News  
-
-A $79 million market hinges not on whether Michael Saylor's firm sold bitcoin, but on whether a sale disclosed June 1 can count toward a deadline that passed May 31.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/02/strategy-sold-bitcoin-in-late-may-and-told-the-market-in-june-here-s-how-polymarket-bettors-are-fighting-over-when-it-counts)
 
 ---
