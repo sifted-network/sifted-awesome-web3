@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-02"
 date: "2026-06-02"
 source: "Cointelegraph"
-count: 29
+count: 23
 ---
 
 # Cointelegraph - 2026-06-02
 
-29 items collected.
+23 items collected.
 
 ---
 
@@ -284,77 +284,5 @@ Mt. Gox moved $739 million in Bitcoin for the first time since March, raising sp
 Bitcoin fell to fresh two-month lows as BTC price weakness accelerated and analysis targeted its 200-day moving average trend line.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-falls-under-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 24. Insurance giant WTW moves into crypto asset recovery with Redefind buy
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 6/2/2026, 7:00:00 AM  
-**Categories:** Latest News  
-
-The global insurance broker acquired crypto insurance platform Redefind and launched a digital asset protection service covering asset tracing and legal recovery costs.
-
-📖 [Read original article](https://cointelegraph.com/news/wtw-acquires-redefind-to-expand-crypto-asset-recovery-insurance-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. Crossmint enables Visa card payments for AI agents and autonomous commerce
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 6/2/2026, 7:00:00 AM  
-**Categories:** Latest News  
-
-The new API lets AI agents make purchases with eligible Visa cards using tokenized credentials and spending controls, expanding payment options for autonomous software.
-
-📖 [Read original article](https://cointelegraph.com/news/crossmint-enables-visa-card-payments-for-ai-agents-and-autonomous-commerce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 26. Robinhood enters Canada after $180 million WonderFi acquisition
-
-**Author:** Cointelegraph by Stephen Katte  
-**Published:** 6/2/2026, 6:55:46 AM  
-**Categories:** Latest News  
-
-Robinhood will enter Canada after its WonderFi acquisition brought local crypto exchanges Bitbuy and Coinsquare under its control.
-
-📖 [Read original article](https://cointelegraph.com/news/robinhood-enters-canada-crypto-market-wonderfi-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 27. Bitcoin falls to 2-month low as divergence from equities widens
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 6/2/2026, 6:11:26 AM  
-**Categories:** Latest News  
-
-Santiment says that “the gap between traditional equities and crypto has become increasingly difficult for traders to ignore.”
-
-📖 [Read original article](https://cointelegraph.com/news/btc-falls-to-70k-but-divergence-from-stocks-is-temporary-say-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 28. Grayscale HYPE ETF ‘likely imminent’ as new update shows competitive fee: Analyst
-
-**Author:** Cointelegraph by Brayden Lindrea  
-**Published:** 6/2/2026, 5:48:37 AM  
-**Categories:** Latest News  
-
-Grayscale proposed a fee of 0.29% on its Hyperliquid ETF, which “slightly undercuts” rivals 21Shares and Bitwise that carry respective fees of 0.3% and 0.34%, says analyst James Seyffart.
-
-📖 [Read original article](https://cointelegraph.com/news/grayscale-hype-etf-likely-imminent-as-new-update-shows-competitive-fee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 29. TON jumps 15% as The Open Network plans rebrand to Gram
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 6/2/2026, 4:53:23 AM  
-**Categories:** Latest News  
-
-Telegram founder Pavel Durov says it is “returning to our roots — and starting a new chapter” by rebranding Toncoin to Gram.
-
-📖 [Read original article](https://cointelegraph.com/news/the-open-network-ton-native-currency-plans-to-rebrand-to-gram?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
