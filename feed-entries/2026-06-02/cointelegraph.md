@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-06-02"
 date: "2026-06-02"
 source: "Cointelegraph"
-count: 27
+count: 29
 ---
 
 # Cointelegraph - 2026-06-02
 
-27 items collected.
+29 items collected.
 
 ---
 
-## 1. Bitcoin’s $224K ‘fair value’ may emerge if sovereign debt fears deepen: Bitwise
+## 1. US lawmakers push back on Labor Department plans to include crypto in 401(k)s
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 6/2/2026, 10:44:19 PM  
+**Categories:** Latest News  
+
+The three members of Congress said the volatility of digital assets and “lack of regulation and safeguards” could put Americans’ retirement savings at risk.
+
+📖 [Read original article](https://cointelegraph.com/news/democrats-labor-department-digital-assets-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. SEC makes digital assets strategic priority through 2030
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 6/2/2026, 10:17:11 PM  
+**Categories:** Latest News  
+
+The regulator’s five-year roadmap calls for clearer crypto rules, support for tokenization and a framework for staking and onchain markets.
+
+📖 [Read original article](https://cointelegraph.com/news/sec-makes-digital-assets-strategic-priority-through-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Crypto correction vaporized $176B in investor funds: Are bears back in control?
+
+**Author:** Cointelegraph by Marcel Pechman  
+**Published:** 6/2/2026, 9:16:33 PM  
+**Categories:** Markets  
+
+Bitcoin and altcoin prices crumbled as BTC lost the $70,000 level. Will investors’ pivot to AI stocks continue to weigh on crypto markets?
+
+📖 [Read original article](https://cointelegraph.com/markets/crypto-correction-vaporized-176b-in-investor-funds-are-bears-back-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Crypto PACs pour $3M into Maryland races as California voters head to polls
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 6/2/2026, 9:06:39 PM  
+**Categories:** Latest News  
+
+An affiliate of a political action committee backed by crypto companies ramped up spending on ads in California ahead of Tuesday’s primaries, but still has millions of dollars at stake in Maryland later this month.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-pacs-maryland-races-media-buys-california-primaries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Coinbase invests in ProShares ETF tailored for stablecoin reserve assets
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 6/2/2026, 8:09:26 PM  
+**Categories:** Latest News  
+
+The exchange has invested an undisclosed amount in ProShares’ Treasury-focused ETF built for the post-GENIUS era as lawmakers debate whether stablecoin issuers can offer yield-bearing products.
+
+📖 [Read original article](https://cointelegraph.com/news/coinbase-invests-proshares-etf-tailored-stablecoin-reserve-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Bitcoin’s $224K ‘fair value’ may emerge if sovereign debt fears deepen: Bitwise
 
 **Author:** Cointelegraph by Biraajmaan Tamuly  
 **Published:** 6/2/2026, 7:28:01 PM  
@@ -23,7 +83,7 @@ A sovereign default-risk model estimates Bitcoin’s fair value at $224,000, as 
 
 ---
 
-## 2. Bitcoin gets new $50K target after BTC price crashes 6% in a day
+## 7. Bitcoin gets new $50K target after BTC price crashes 6% in a day
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/2/2026, 5:54:18 PM  
@@ -35,7 +95,7 @@ Bitcoin price bets saw $50,000 returning after 6% daily BTC price losses liquida
 
 ---
 
-## 3. CFTC chair claims Gemini case was politically motivated, seeks to reverse $5M settlement
+## 8. CFTC chair claims Gemini case was politically motivated, seeks to reverse settlement
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 6/2/2026, 5:39:30 PM  
@@ -47,7 +107,7 @@ The CFTC chair seeks to roll back an enforcement action on the company founded b
 
 ---
 
-## 4. Movement expands stablecoin payments push with access to US, Canada, EU rails
+## 9. Movement expands stablecoin payments push with access to US, Canada, EU rails
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 6/2/2026, 5:26:18 PM  
@@ -59,10 +119,10 @@ The Move-based blockchain network said it gained access to licensed payment infr
 
 ---
 
-## 5. Here’s what happened in crypto today
+## 10. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
-**Published:** 6/2/2026, 3:46:14 PM  
+**Published:** 6/2/2026, 3:55:00 PM  
 **Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
 
 Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
@@ -71,7 +131,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 6. Zama accelerates compliance after court lifts $12.5M USDC freeze
+## 11. Zama accelerates compliance after court lifts $12.5M USDC freeze
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/2/2026, 3:28:08 PM  
@@ -83,7 +143,7 @@ Privacy protocol Zama says it will accelerate compliance measures after a court 
 
 ---
 
-## 7. Georgia targets illegal crypto mining in Mestia crackdown: Report
+## 12. Georgia targets illegal crypto mining in Mestia crackdown: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/2/2026, 3:02:29 PM  
@@ -95,7 +155,7 @@ Georgia will reportedly install electricity meters across Mestia to curb illegal
 
 ---
 
-## 8. Kaiko acquires Amberdata in blockchain data consolidation push
+## 13. Kaiko acquires Amberdata in blockchain data consolidation push
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/2/2026, 2:43:46 PM  
@@ -107,7 +167,7 @@ Kaiko acquired Amberdata to expand its institutional crypto data platform with d
 
 ---
 
-## 9. HIVE Bitcoin holdings drop by 331 BTC in Q1, reports record $298M revenue
+## 14. HIVE Bitcoin holdings drop by 331 BTC in Q1, reports record $298M revenue
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/2/2026, 2:14:02 PM  
@@ -119,7 +179,7 @@ HIVE reduced its Bitcoin holdings to 150 BTC while annual revenue climbed to $29
 
 ---
 
-## 10. How high can NEAR price go in June?
+## 15. How high can NEAR price go in June?
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 6/2/2026, 2:04:12 PM  
@@ -131,7 +191,7 @@ NEAR has rebounded from a key historical support zone, reviving a bullish fracta
 
 ---
 
-## 11. Trader says XRP price setting ‘biggest bear trap’ after June monthly open
+## 16. Trader says XRP price setting ‘biggest bear trap’ after June monthly open
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 6/2/2026, 1:48:46 PM  
@@ -143,7 +203,7 @@ XRP trades below key macro support, but analysts say reclaiming it could trigger
 
 ---
 
-## 12. MoneyGram launches MGUSD stablecoin on Stellar network
+## 17. MoneyGram launches MGUSD stablecoin on Stellar network
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/2/2026, 1:27:47 PM  
@@ -155,7 +215,7 @@ MoneyGram launched MGUSD, a dollar stablecoin on Stellar, as the remittance comp
 
 ---
 
-## 13. EdgeX blames ‘external party’ for token crash as ZachXBT alleges insider manipulation
+## 18. EdgeX blames ‘external party’ for token crash as ZachXBT alleges insider manipulation
 
 **Author:** Cointelegraph by Amin Haqshanas  
 **Published:** 6/2/2026, 12:59:10 PM  
@@ -167,7 +227,7 @@ Onchain investigator ZachXBT claims decentralized exchange edgeX insiders contro
 
 ---
 
-## 14. Capital B seeks $122B funding mandate to buy more Bitcoin
+## 19. Capital B seeks $122B funding mandate to buy more Bitcoin
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/2/2026, 12:35:58 PM  
@@ -179,7 +239,7 @@ Capital B is asking shareholders to approve up to $122 billion in capital-raisin
 
 ---
 
-## 15. Bitcoin back in ‘distribution phase’ as extreme fear grips crypto market
+## 20. Bitcoin back in ‘distribution phase’ as extreme fear grips crypto market
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 6/2/2026, 11:09:56 AM  
@@ -191,7 +251,7 @@ Bitcoin slips below $70,000 as rising losses, exchange inflows and extreme fear 
 
 ---
 
-## 16. Crypto treasury inflows fall to lowest level since 2024
+## 21. Crypto treasury inflows fall to lowest level since 2024
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/2/2026, 11:07:20 AM  
@@ -203,7 +263,7 @@ Bitcoin treasury firms made up nearly all May inflows, but BTC-linked capital fo
 
 ---
 
-## 17. Mt. Gox moves $739M in Bitcoin from cold wallets: Arkham
+## 22. Mt. Gox moves $739M in Bitcoin from cold wallets: Arkham
 
 **Author:** Cointelegraph by Amin Haqshanas  
 **Published:** 6/2/2026, 9:35:48 AM  
@@ -215,7 +275,7 @@ Mt. Gox moved $739 million in Bitcoin for the first time since March, raising sp
 
 ---
 
-## 18. Bitcoin price falls under $70K as crypto markets liquidate $800M
+## 23. Bitcoin price falls under $70K as crypto markets liquidate $800M
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/2/2026, 8:55:20 AM  
@@ -227,7 +287,7 @@ Bitcoin fell to fresh two-month lows as BTC price weakness accelerated and analy
 
 ---
 
-## 19. Insurance giant WTW moves into crypto asset recovery with Redefind buy
+## 24. Insurance giant WTW moves into crypto asset recovery with Redefind buy
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 6/2/2026, 7:00:00 AM  
@@ -239,7 +299,7 @@ The global insurance broker acquired crypto insurance platform Redefind and laun
 
 ---
 
-## 20. Crossmint enables Visa card payments for AI agents and autonomous commerce
+## 25. Crossmint enables Visa card payments for AI agents and autonomous commerce
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 6/2/2026, 7:00:00 AM  
@@ -251,7 +311,7 @@ The new API lets AI agents make purchases with eligible Visa cards using tokeniz
 
 ---
 
-## 21. Robinhood enters Canada after $180 million WonderFi acquisition
+## 26. Robinhood enters Canada after $180 million WonderFi acquisition
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 6/2/2026, 6:55:46 AM  
@@ -263,7 +323,7 @@ Robinhood will enter Canada after its WonderFi acquisition brought local crypto 
 
 ---
 
-## 22. Bitcoin falls to 2-month low as divergence from equities widens
+## 27. Bitcoin falls to 2-month low as divergence from equities widens
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/2/2026, 6:11:26 AM  
@@ -275,7 +335,7 @@ Santiment says that “the gap between traditional equities and crypto has becom
 
 ---
 
-## 23. Grayscale HYPE ETF ‘likely imminent’ as new update shows competitive fee: Analyst
+## 28. Grayscale HYPE ETF ‘likely imminent’ as new update shows competitive fee: Analyst
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 6/2/2026, 5:48:37 AM  
@@ -287,7 +347,7 @@ Grayscale proposed a fee of 0.29% on its Hyperliquid ETF, which “slightly unde
 
 ---
 
-## 24. TON jumps 15% as The Open Network plans rebrand to Gram
+## 29. TON jumps 15% as The Open Network plans rebrand to Gram
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/2/2026, 4:53:23 AM  
@@ -296,41 +356,5 @@ Grayscale proposed a fee of 0.29% on its Hyperliquid ETF, which “slightly unde
 Telegram founder Pavel Durov says it is “returning to our roots — and starting a new chapter” by rebranding Toncoin to Gram.
 
 📖 [Read original article](https://cointelegraph.com/news/the-open-network-ton-native-currency-plans-to-rebrand-to-gram?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. Bitmine buys $52M ETH as Tom Lee says price not yet showing Ethereum’s strength
-
-**Author:** Cointelegraph by Stephen Katte  
-**Published:** 6/2/2026, 4:03:00 AM  
-**Categories:** Latest News  
-
-Bitmine is aiming to hold 5% of the total circulating supply of 120.6 million Ether tokens and is about 90% of the way to its target after its latest purchase.
-
-📖 [Read original article](https://cointelegraph.com/news/bitmine-buys-more-eth-as-tom-lee-says-price-not-yet-showing-ethereums-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 26. Strategy’s Bitcoin sale causes clash for $80M in Polymarket bets
-
-**Author:** Cointelegraph by Brayden Lindrea  
-**Published:** 6/2/2026, 3:44:23 AM  
-**Categories:** Latest News  
-
-A clash has erupted among Polymarket users over the timing and disclosure of a recent Bitcoin sale by Strategy, with more than $80 million traded on the disputed outcome.
-
-📖 [Read original article](https://cointelegraph.com/news/strategys-bitcoin-sale-causes-clash-on-80m-in-polymarket-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 27. DeFi protocol Radiant to wind down after failing to recover from 2024 hack
-
-**Author:** Cointelegraph by Brayden Lindrea  
-**Published:** 6/2/2026, 1:25:15 AM  
-**Categories:** Latest News  
-
-Radiant says its frontend and smart contracts will remain accessible and users will still be able to withdraw, repay, and manage their positions.
-
-📖 [Read original article](https://cointelegraph.com/news/defi-protocol-radiant-to-wind-down-after-failing-to-recover-from-2024-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
