@@ -11,7 +11,43 @@ count: 25
 
 ---
 
-## 1. Crypto Long & Short: What about the American consumer?
+## 1. Bitmine's Ethereum bet nears $9 billion loss as ether falls below $1,800
+
+**Author:** Krisztian Sandor  
+**Published:** 6/3/2026, 8:33:51 PM  
+**Categories:** Markets, Ethereum News, News  
+
+Shares of Tom Lee's Ethereum treasury firm hit their lowest level since the company's crypto pivot as ETH revisits the February lows.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/03/bitmine-s-ethereum-bet-nears-usd9-billion-loss-as-ether-falls-below-usd1-800)
+
+---
+
+## 2. New DeFi entrant widens field of crypto political campaign funds as elections loom
+
+**Author:** Jesse Hamilton  
+**Published:** 6/3/2026, 6:50:05 PM  
+**Categories:** Policy, DeFi, Regulation, Election 2026, News  
+
+The Defend Developers PAC is aiming to contribute to lawmakers who seek to shield crypto developers from legal vulnerabilities.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/06/03/new-defi-entrant-widens-field-of-crypto-political-campaign-funds-as-elections-loom)
+
+---
+
+## 3. Bitcoin isn't crashing because of Saylor, it's losing the momentum trade
+
+**Author:** Helene Braun  
+**Published:** 6/3/2026, 6:48:22 PM  
+**Categories:** Markets, Bitcoin News, MicroStrategy, News  
+
+Bitcoin's recent weakness reflects a broader rotation into AI, IPOs and other momentum trades rather than concerns about Michael Saylor's bitcoin sales, according to Charles Schwab's Jim Ferraioli.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/03/bitcoin-isn-t-crashing-because-of-saylor-it-s-losing-the-momentum-trade)
+
+---
+
+## 4. Crypto Long & Short: What about the American consumer?
 
 **Author:** Alex Tapscott,Aisha Hunt  
 **Published:** 6/3/2026, 4:13:51 PM  
@@ -23,7 +59,7 @@ In this week's Crypto Long & Short, Alex Tapscott on the stalling of the CLARITY
 
 ---
 
-## 2. Every single bank will soon need to hold digital assets, says Zodia CEO Julian Sawyer
+## 5. Every single bank will soon need to hold digital assets, says Zodia CEO Julian Sawyer
 
 **Author:** Olivier Acuna  
 **Published:** 6/3/2026, 3:08:41 PM  
@@ -35,7 +71,7 @@ Sawyer confirmed that Standard Chartered’s full acquisition of the firm is on 
 
 ---
 
-## 3. Rare physical bitcoin worth $1.78 million gets cashed in after 12 years
+## 6. Rare physical bitcoin worth $1.78 million gets cashed in after 12 years
 
 **Author:** Shaurya Malwa  
 **Published:** 6/3/2026, 2:32:32 PM  
@@ -47,7 +83,7 @@ The S1-COIN-25 physical bitcoin, part of Mike Caldwell's 2011-2013 mint, had its
 
 ---
 
-## 4. Bitcoin's dearth of fresh investors matters more than Strategy's sale, Citi says
+## 7. Bitcoin's dearth of fresh investors matters more than Strategy's sale, Citi says
 
 **Author:** Will Canny,AI Boost  
 **Published:** 6/3/2026, 1:29:45 PM  
@@ -59,7 +95,7 @@ Strategy's bitcoin sale may have rattled markets, but the bigger issue is missin
 
 ---
 
-## 5. Bitwise model puts bitcoin fair value at $224,000 as sovereign-default hedge
+## 8. Bitwise model puts bitcoin fair value at $224,000 as sovereign-default hedge
 
 **Author:** Shaurya Malwa  
 **Published:** 6/3/2026, 1:26:02 PM  
@@ -71,7 +107,7 @@ The figure is from a theoretical model proposed by Greg Foss in 2021 that treats
 
 ---
 
-## 6. CoinDesk 20 performance update: Bitcoin Cash (BCH) falls 10.7%, leading index lower
+## 9. CoinDesk 20 performance update: Bitcoin Cash (BCH) falls 10.7%, leading index lower
 
 **Author:** CoinDesk Indices  
 **Published:** 6/3/2026, 1:08:59 PM  
@@ -83,7 +119,7 @@ Binance Coin (BNB), down 3.4% from Tuesday, was also an underperformer.
 
 ---
 
-## 7. Kraken parent Payward plans to offer tokenized IPO access as investors await blockbuster debuts
+## 10. Kraken parent Payward plans to offer tokenized IPO access as investors await blockbuster debuts
 
 **Author:** Krisztian Sandor  
 **Published:** 6/3/2026, 1:02:26 PM  
@@ -95,7 +131,7 @@ Payward aims to give retail investors access to IPO shares at the offering price
 
 ---
 
-## 8. IREN adds 4% premarket as company unveils 800MW Australian AI data center campus
+## 11. IREN adds 4% premarket as company unveils 800MW Australian AI data center campus
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 6/3/2026, 1:01:01 PM  
@@ -107,7 +143,7 @@ The AI infrastructure firm secured a grid connection for a planned South Austral
 
 ---
 
-## 9. Clarity Act survival depends on the U.S. Senate getting a lot of non-crypto work done
+## 12. Clarity Act survival depends on the U.S. Senate getting a lot of non-crypto work done
 
 **Author:** Jesse Hamilton  
 **Published:** 6/3/2026, 1:00:00 PM  
@@ -119,7 +155,7 @@ The dwindling congressional calendar may spur a legislative competition for the 
 
 ---
 
-## 10. Live markets: What's next as bitcoin re-tests February low for third time
+## 13. Live markets: bitcoin hits weakest level since late March as selling continues
 
 **Author:** Stephen Alpher,Krisztian Sandor,Helene Braun  
 **Published:** 6/3/2026, 12:27:15 PM  
@@ -131,7 +167,7 @@ One novel theory floating around social media says it's Iranian sanctions, not S
 
 ---
 
-## 11. Bitcoin hits Power Law level low that historically precedes a rebound
+## 14. Bitcoin hits Power Law level low that historically precedes a rebound
 
 **Author:** James Van Straten  
 **Published:** 6/3/2026, 12:01:45 PM  
@@ -143,7 +179,7 @@ The power law model shows BTC trading at one of its deepest discounts relative t
 
 ---
 
-## 12. Grayscale launches lowest-fee U.S. Hyperliquid ETF as competition heats up around HYPE
+## 15. Grayscale launches lowest-fee U.S. Hyperliquid ETF as competition heats up around HYPE
 
 **Author:** Helene Braun,AI Boost  
 **Published:** 6/3/2026, 12:00:00 PM  
@@ -155,7 +191,7 @@ The Nasdaq-listed fund charges a 0.29% sponsor fee, undercutting rival Hyperliqu
 
 ---
 
-## 13. Payment giants Stripe, Visa, Mastercard said to be among backers of soon-to-debut stablecoin platform
+## 16. Payment giants Stripe, Visa, Mastercard said to be among backers of soon-to-debut stablecoin platform
 
 **Author:** Ian Allison  
 **Published:** 6/3/2026, 11:47:36 AM  
@@ -167,7 +203,7 @@ U.S. crypto exchange Coinbase is also said to be looking into the possibility of
 
 ---
 
-## 14. Crypto PACs go undefeated in June primaries as Fairshake scores bipartisan winning streak
+## 17. Crypto PACs go undefeated in June primaries as Fairshake scores bipartisan winning streak
 
 **Author:** Sam Reynolds  
 **Published:** 6/3/2026, 11:46:59 AM  
@@ -179,7 +215,7 @@ Winners included Democrats Zoe Lofgren, Ted Lieu, Dave Min and Rob Menendez, as 
 
 ---
 
-## 15. Bitcoin momentum gauge hints at recovery. Experts remain cautious.
+## 18. Bitcoin momentum gauge hints at recovery. Experts remain cautious.
 
 **Author:** Omkar Godbole  
 **Published:** 6/3/2026, 11:19:52 AM  
@@ -191,7 +227,7 @@ Your day-ahead look for June 3, 2026
 
 ---
 
-## 16. Bitcoin steadies at $67,000, faces critical juncture after sliding 9.5% in seven days
+## 19. Bitcoin steadies at $67,000, faces critical juncture after sliding 9.5% in seven days
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 6/3/2026, 10:41:23 AM  
@@ -203,7 +239,7 @@ The recovery does little to mask a 9.5% weekly decline as U.S. stocks hit record
 
 ---
 
-## 17. Apparent Zcash outage was a block explorer problem, infrastructure provider says
+## 20. Apparent Zcash outage was a block explorer problem, infrastructure provider says
 
 **Author:** Omkar Godbole  
 **Published:** 6/3/2026, 10:22:36 AM  
@@ -215,7 +251,7 @@ One expert said the issue was mainly with block explorers tracking the onchain a
 
 ---
 
-## 18. UK's financial watchdog cracks down on Premier League crypto partnerships
+## 21. UK's financial watchdog cracks down on Premier League crypto partnerships
 
 **Author:** Jamie Crawley  
 **Published:** 6/3/2026, 10:19:12 AM  
@@ -227,7 +263,7 @@ The FCA said unauthorized firms could be breaching rules on financial promotions
 
 ---
 
-## 19. Trezor says your crypto is safe after Ledger audit exposes a hardware flaw
+## 22. Trezor says your crypto is safe after Ledger audit exposes a hardware flaw
 
 **Author:** Margaux Nijkerk  
 **Published:** 6/3/2026, 10:04:32 AM  
@@ -239,7 +275,7 @@ The flaw affects only one of the wallet's multiple security layers and would req
 
 ---
 
-## 20. DeFi won't win over big banks until it fixes its hacking problem, executives say
+## 23. DeFi won't win over big banks until it fixes its hacking problem, executives say
 
 **Author:** Olivier Acuna  
 **Published:** 6/3/2026, 9:12:54 AM  
@@ -251,7 +287,7 @@ Lenders are particularly interested in blockchain's back-office applications, bu
 
 ---
 
-## 21. Banks' survey says people don't want to rock the boat if stablecoin yield risks lending
+## 24. Banks' survey says people don't want to rock the boat if stablecoin yield risks lending
 
 **Author:** Jesse Hamilton  
 **Published:** 6/3/2026, 9:00:00 AM  
@@ -263,7 +299,7 @@ The American Bankers Association, which lobbies against the crypto sector over t
 
 ---
 
-## 22. Franklin Templeton says Wall Street fears blockchain because it threatens its profits
+## 25. Franklin Templeton says Wall Street fears blockchain because it threatens its profits
 
 **Author:** Olivier Acuna  
 **Published:** 6/3/2026, 7:04:43 AM  
@@ -272,41 +308,5 @@ The American Bankers Association, which lobbies against the crypto sector over t
 Jenny Johnson, Franklin Templeton's CEO, said blockchain and crypto threaten a huge number of business models that exist today in traditional finance.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/06/02/franklin-templeton-says-wall-street-fears-blockchain-because-it-threatens-its-profits)
-
----
-
-## 23. Big tech is 'terrified' of AI agents wiping out ad revenue, says Billions Network CEO
-
-**Author:** Olivier Acuna  
-**Published:** 6/3/2026, 6:51:08 AM  
-**Categories:** Finance, Artificial Intelligence, Google, Cardano, News  
-
-Evin McMullen’s view on AI agents disrupting Google’s and Facebook’s business model was previously shared by Cardano Founder Charles Hoskinson and Cloudflare CSO Stephanie Cohen.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/03/big-tech-is-terrified-of-ai-agents-wiping-out-ad-revenue-says-billions-network-ceo)
-
----
-
-## 24. Prediction market traders bet bitcoin's selloff has further to run
-
-**Author:** Sam Reynolds  
-**Published:** 6/3/2026, 6:23:19 AM  
-**Categories:** Markets, Bitcoin News, Prediction Markets, News  
-
-Markets now imply a 66% chance bitcoin falls below $55,000 and a coin-flip chance of sub-$50,000 prices before year-end.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/03/kalshi-traders-bet-bitcoin-s-selloff-has-further-to-run)
-
----
-
-## 25. Bitcoin's 'fear gauge' surges nearly 20%, its biggest jump since Feb. 5 crash
-
-**Author:** Omkar Godbole  
-**Published:** 6/3/2026, 5:51:26 AM  
-**Categories:** Markets, Bitcoin News, Volatility, News  
-
-The jump signals return of fear after two months of calm market sentiment.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/03/bitcoin-s-fear-gauge-surges-nearly-20-its-biggest-jump-since-feb-5-crash)
 
 ---
