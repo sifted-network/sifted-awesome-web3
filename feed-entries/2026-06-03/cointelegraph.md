@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-06-03"
 date: "2026-06-03"
 source: "Cointelegraph"
-count: 21
+count: 24
 ---
 
 # Cointelegraph - 2026-06-03
 
-21 items collected.
+24 items collected.
 
 ---
 
-## 1. Crypto firms face July 1 EU cutoff as MiCA grace period ends
+## 1. Crypto PAC-supported candidates sweep US state primaries after media buys
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 6/3/2026, 7:21:00 PM  
+**Categories:** Latest News  
+
+Nearly a dozen candidates across three US states won their primaries or will advance to the November election after they were supported by $3.5 million in ads funded by crypto industry-aligned PACs.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-pac-candidates-california-nj-primaries-ads?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Agentic payment activity tops 100M transactions on Base
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 6/3/2026, 5:54:33 PM  
+**Categories:** Latest News  
+
+New data suggests AI-driven payment rails are evolving beyond experimentation as users are making more higher-value transfers.
+
+📖 [Read original article](https://cointelegraph.com/news/agentic-payment-activity-surpasses-100m-transactions-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Bitcoin copying 2022 'almost perfectly' as trader sees key support failing
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 6/3/2026, 4:09:12 PM  
+**Categories:** Markets  
+
+Bitcoin traders warned of a key BTC price support trend line failing as 2022 bear market history continued to repeat.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-copying-2022-almost-perfectly-as-trader-sees-key-support-failing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Crypto firms face July 1 EU cutoff as MiCA grace period ends
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/3/2026, 4:01:06 PM  
@@ -23,7 +59,7 @@ The ESMA says crypto companies without MiCA authorization must stop serving EU c
 
 ---
 
-## 2. Hyperliquid bear turns bullish after losing over $46M shorting HYPE
+## 5. Hyperliquid bear turns bullish after losing over $46M shorting HYPE
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 6/3/2026, 4:00:40 PM  
@@ -35,7 +71,7 @@ The whale is now backing Arthur Hayes’ favored HYPE, ZEC and NEAR plays, signa
 
 ---
 
-## 3. Ethereum drops to 14-week lows: Can ETH price hold $1.8K support?
+## 6. Ethereum drops to 14-week lows: Can ETH price hold $1.8K support?
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 6/3/2026, 3:32:39 PM  
@@ -47,7 +83,7 @@ Ethereum price slides to a 14-week low as weakening demand and persistent ETF ou
 
 ---
 
-## 4. Here’s what happened in crypto today
+## 7. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/3/2026, 3:23:52 PM  
@@ -59,7 +95,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 5. Binance discloses revenue-sharing deal with Alpaca
+## 8. Binance discloses revenue-sharing deal with Alpaca
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/3/2026, 3:05:30 PM  
@@ -71,7 +107,7 @@ A Binance legal document disclosed a revenue-sharing agreement with Alpaca, whic
 
 ---
 
-## 6. Binance to end NFT support on exchange, shift service to wallet
+## 9. Binance to end NFT support on exchange, shift service to wallet
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/3/2026, 2:47:23 PM  
@@ -83,7 +119,7 @@ Binance exchange said it will move NFT support from its exchange to its non-cust
 
 ---
 
-## 7. Kraken parent Payward brings tokenized IPO access to retail investors
+## 10. Kraken parent Payward brings tokenized IPO access to retail investors
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/3/2026, 2:40:50 PM  
@@ -95,7 +131,7 @@ Kraken and xStocks Alliance will let eligible users seek allocations in US IPOs 
 
 ---
 
-## 8. Zcash fixes Orchard bug after emergency network upgrade
+## 11. Zcash fixes Orchard bug after emergency network upgrade
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/3/2026, 2:33:30 PM  
@@ -107,7 +143,7 @@ Zcash Open Development Lab said the network briefly became unstable as miners up
 
 ---
 
-## 9. Trezor says Safe 7 chip flaw found by Ledger does not put funds at risk
+## 12. Trezor says Safe 7 chip flaw found by Ledger does not put funds at risk
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/3/2026, 2:14:04 PM  
@@ -119,7 +155,7 @@ Trezor and Tropic Square disclosed a TROPIC01 chip vulnerability found during a 
 
 ---
 
-## 10. Russian ruble stablecoin A7A5 grows despite Western sanctions: CertiK
+## 13. Russian ruble stablecoin A7A5 grows despite Western sanctions: CertiK
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/3/2026, 2:00:00 PM  
@@ -131,7 +167,7 @@ Russian ruble-backed stablecoin A7A5 processed over $110 billion in transactions
 
 ---
 
-## 11. UK regulator warns Premier League clubs over unauthorized crypto sponsors
+## 14. UK regulator warns Premier League clubs over unauthorized crypto sponsors
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/3/2026, 1:11:29 PM  
@@ -143,7 +179,7 @@ The FCA has urged clubs to rethink deals with unauthorized crypto and trading sp
 
 ---
 
-## 12. Mastercard expands support to USDC, PYUSD, RLUSD stablecoin settlement
+## 15. Mastercard expands support to USDC, PYUSD, RLUSD stablecoin settlement
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/3/2026, 11:48:55 AM  
@@ -155,7 +191,7 @@ The payments giant said USDC, PYUSD, RLUSD and other stablecoins will support ne
 
 ---
 
-## 13. Bitcoin's crash to $65K triggers $1.8B in crypto liquidations
+## 16. Bitcoin's crash to $65K triggers $1.8B in crypto liquidations
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 6/3/2026, 10:48:51 AM  
@@ -167,7 +203,7 @@ Bitcoin's drop to $65,000 triggered over $1.8 billion in crypto liquidations as 
 
 ---
 
-## 14. Bitcoin has hit 'max fear' below $67K as analysis sees BTC price rebound
+## 17. Bitcoin has hit 'max fear' below $67K as analysis sees BTC price rebound
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/3/2026, 10:16:46 AM  
@@ -179,7 +215,7 @@ Bitcoin sparked two-month lows in the Crypto Fear & Greed Index while analysis p
 
 ---
 
-## 15. New York and EU’s finance watchdogs team up to police stablecoins
+## 18. New York and EU’s finance watchdogs team up to police stablecoins
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 6/3/2026, 6:58:05 AM  
@@ -191,7 +227,7 @@ Some of the information that New York and the European Union’s watchdogs will 
 
 ---
 
-## 16. Bitcoin falls below $66K as US and Iran launch new strikes
+## 19. Bitcoin falls below $66K as US and Iran launch new strikes
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/3/2026, 6:18:37 AM  
@@ -203,7 +239,7 @@ Bitcoin saw its largest daily drop since early February on Tuesday as the crypto
 
 ---
 
-## 17. US Treasury issues sanctions on Iran, targets 4 crypto exchanges
+## 20. US Treasury issues sanctions on Iran, targets 4 crypto exchanges
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 6/3/2026, 6:12:44 AM  
@@ -215,7 +251,7 @@ The sanctions come four days after Treasury Secretary Scott Bessent said the US 
 
 ---
 
-## 18. Modern robots impress, but are years away from replacing humans
+## 21. Modern robots impress, but are years away from replacing humans
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 6/3/2026, 5:01:35 AM  
@@ -227,7 +263,7 @@ AI robotics company Figure posted several videos on X throughout May showcasing 
 
 ---
 
-## 19. Crypto turns ‘contrarian bet’ as AI stocks draw investor attention: Bitwise
+## 22. Crypto turns ‘contrarian bet’ as AI stocks draw investor attention: Bitwise
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/3/2026, 4:31:07 AM  
@@ -239,7 +275,7 @@ AI robotics company Figure posted several videos on X throughout May showcasing 
 
 ---
 
-## 20. Cardano’s TapTools to wind down after 5 execs exit
+## 23. Cardano’s TapTools to wind down after 5 execs exit
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 6/3/2026, 2:45:56 AM  
@@ -251,7 +287,7 @@ Despite the planned wind-down, TapTools says it is open to being acquired or tak
 
 ---
 
-## 21. UK Lords warn BoE could regulate pound stablecoins into irrelevance
+## 24. UK Lords warn BoE could regulate pound stablecoins into irrelevance
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/3/2026, 12:01:00 AM  
