@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-01"
 date: "2026-06-01"
 source: "Decrypt"
-count: 21
+count: 17
 ---
 
 # Decrypt - 2026-06-01
 
-21 items collected.
+17 items collected.
 
 ---
 
@@ -212,53 +212,5 @@ Strategy made its first BTC sale since 2022 as Bitcoin ETFs shed billions over t
 Kalshi got the formal approval, but it's Hyperliquid that caught the most buzz with a massive move over the weekend.
 
 📖 [Read original article](https://decrypt.co/369586/morning-minute-hype-soars-cftc-gives-perps-green-light)
-
----
-
-## 18. Michael Saylor's Bitcoin Treasury Firm Strategy Sells 32 BTC for $2.5M
-
-**Author:** Stephen Graves,André Beganski  
-**Published:** 6/1/2026, 12:22:16 PM  
-**Categories:** , Markets  
-
-Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face on its "never sell" stance broke.
-
-📖 [Read original article](https://decrypt.co/369587/michael-saylors-bitcoin-treasury-firm-strategy-sells-32-btc-for-2-5m)
-
----
-
-## 19. Bitcoin ETF Losses Near $3B Across 10 Days as YTD Flows Turn Negative
-
-**Author:** Akash Girimath  
-**Published:** 6/1/2026, 11:46:35 AM  
-**Categories:** , Markets  
-
-U.S. spot Bitcoin ETFs extended their outflow streak to 10 days, as crypto markets contend with multiple simultaneous headwinds.
-
-📖 [Read original article](https://decrypt.co/369583/bitcoin-etf-losses-near-3b-across-10-days-as-ytd-flows-turn-negative)
-
----
-
-## 20. Coinbase Launches Direct Indian Rupee Deposit and Withdrawal Rails
-
-**Author:** Decrypt Agent  
-**Published:** 6/1/2026, 11:11:26 AM  
-**Categories:** , , Business  
-
-The U.S. exchange has established direct rupee trading rails for Indian customers after securing regulatory clearance.
-
-📖 [Read original article](https://decrypt.co/369580/coinbase-launches-direct-indian-rupee-deposit-and-withdrawal-rails)
-
----
-
-## 21. What Is BChat? The Decentralized Messaging App Built for Privacy
-
-**Author:** Decrypt Staff  
-**Published:** 6/1/2026, 10:01:04 AM  
-**Categories:** The Projects  
-
-Built on the Beldex Network, BChat aims to solve the weaknesses of relying solely on end-to-end encryption (E2EE) for private messaging.
-
-📖 [Read original article](https://decrypt.co/resources/what-is-bchat-beldex-decentralized-messaging-app-privacy)
 
 ---
