@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-01"
 date: "2026-06-01"
 source: "Decrypt"
-count: 15
+count: 8
 ---
 
 # Decrypt - 2026-06-01
 
-15 items collected.
+8 items collected.
 
 ---
 
@@ -104,89 +104,5 @@ Kalshi moved swiftly to lock down an emerging market for perpetual futures in th
 Florida's attorney general seeks damages, restrictions on ChatGPT, and personal liability for OpenAI CEO Sam Altman in what the state describes as the first state-led lawsuit against the AI company.
 
 📖 [Read original article](https://decrypt.co/369656/florida-lawsuit-openai-sam-altman-chatgpt-safety)
-
----
-
-## 9. Sell Coinbase Before Derivatives Squeeze Crypto Giant, Says Compass Point
-
-**Author:** André Beganski  
-**Published:** 6/1/2026, 6:21:10 PM  
-**Categories:** , , Business  
-
-Compass Point analysts reiterated a bearish $140 price target for Coinbase, warning of fierce competition in the derivatives space.
-
-📖 [Read original article](https://decrypt.co/369651/sell-coinbase-before-derivatives-squeeze-crypto-giant-compass-point)
-
----
-
-## 10. Tom Lee's BitMine Buys $52 Million in Ethereum as Strategy Sells Bitcoin
-
-**Author:** Logan Hitchcock  
-**Published:** 6/1/2026, 4:25:25 PM  
-**Categories:** , Markets  
-
-A week after notching its largest purchase of 2026, BitMine was back in the order books, accumulating more Ethereum.
-
-📖 [Read original article](https://decrypt.co/369642/tom-lee-bitmine-buys-52-million-ethereum-strategy-sells-bitcoin)
-
----
-
-## 11. AI Giant Anthropic Files to Go Public After Nearing $1 Trillion Valuation
-
-**Author:** Jason Nelson  
-**Published:** 6/1/2026, 4:09:11 PM  
-**Categories:** Business  
-
-Claude maker Anthropic said Monday that it confidentially filed to launch an IPO in the U.S. following another huge funding round.
-
-📖 [Read original article](https://decrypt.co/369641/ai-giant-anthropic-files-go-public-nearing-1-trillion-valuation)
-
----
-
-## 12. Strategy Shares Slide Following Bitcoin Sale—Will It Dump More BTC Ahead?
-
-**Author:** André Beganski  
-**Published:** 6/1/2026, 3:44:04 PM  
-**Categories:** , Business  
-
-Strategy sold Bitcoin, sparking jitters among investors and raising questions among analysts toward the prospect of future sales.
-
-📖 [Read original article](https://decrypt.co/369625/strategy-shares-slide-bitcoin-sale-dump-more-btc)
-
----
-
-## 13. Whitehat Helps Recover $2M in ETH Stuck Since 2016 ICO
-
-**Author:** Vince Dioquino  
-**Published:** 6/1/2026, 3:32:10 PM  
-**Categories:** , DeFi  
-
-A whitehat developer helped return funds from HongCoin's failed 2016 token sale after a bug left investor refunds frozen for nine years.
-
-📖 [Read original article](https://decrypt.co/369623/whitehat-helps-recover-2m-in-eth-stuck-since-2016-ico)
-
----
-
-## 14. Sui Blames Last Week's Trio of Network Outages on Gas and Validator Bugs
-
-**Author:** Decrypt Agent  
-**Published:** 6/1/2026, 3:19:04 PM  
-**Categories:** Technology  
-
-The Sui blockchain suffered three separate failures in 48 hours due to gas calculation bugs and validator synchronization issues.
-
-📖 [Read original article](https://decrypt.co/369622/sui-blames-trio-network-outages-gas-validator-bugs)
-
----
-
-## 15. Binance Opens Access to 7,000 US Stocks, Prepares Tokenized 'bStocks' Rollout
-
-**Author:** Vismaya V  
-**Published:** 6/1/2026, 2:33:49 PM  
-**Categories:** , Business  
-
-Binance opened equities trading and previewed "bStocks," with experts split over whether tokenization unlocks growth or layers on new risk.
-
-📖 [Read original article](https://decrypt.co/369603/binance-opens-access-to-7000-us-stocks-prepares-tokenized-bstocks-rollout)
 
 ---
