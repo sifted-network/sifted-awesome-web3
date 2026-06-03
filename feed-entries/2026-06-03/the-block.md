@@ -2,16 +2,64 @@
 title: "The Block - 2026-06-03"
 date: "2026-06-03"
 source: "The Block"
-count: 18
+count: 19
 ---
 
 # The Block - 2026-06-03
 
-18 items collected.
+19 items collected.
 
 ---
 
-## 1. Solayer rolls out Solana-native onchain perps trading platform Margin Trade mainnet
+## 1. Crypto VC deal count slumps to five-year low as investors grow more selective
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 6/3/2026, 7:42:03 PM  
+**Categories:** Deals, Venture Capital  
+
+Monthly venture deal count in crypto fell to roughly 50 deals in May, a level not seen since before 2021.
+
+📖 [Read original article](https://www.theblock.co/post/403382/crypto-vc-deal-flow-hits-multi-year-low-billion-dollar-rounds-keep-capital-flowing?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. EdgeX offers refunds and launches 200,000 USDC bounty after 71% token flash crash
+
+**Author:** Daniel Kuhn  
+**Published:** 6/3/2026, 4:56:29 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Markets, Security, DEXs, Exploits  
+
+EdgeX says that 174 addresses flooded a PancakeSwap pool with EDGE token sell orders during a period of low liquidity.
+
+📖 [Read original article](https://www.theblock.co/post/403567/edgex-offers-refunds-200000-usdc-bounty-71-token-flash-crash?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Hyperliquid hits record share of global perps market as HIP-3 tops $62 billion monthly volume
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 6/3/2026, 4:56:02 PM  
+**Categories:** Companies, Crypto Ecosystems, Exchanges, Markets, hyperliquid  
+
+Despite the bullish sentiment on HIP-3, Hyperliquid's pure crypto volumes are down significantly year over year.
+
+📖 [Read original article](https://www.theblock.co/post/403384/hyperliquid-record-share-global-perps-market-hip-3-tops-62-billion-monthly-volume?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Bessent backs summer push for Clarity Act, says bitcoin reserve moving at ‘deliberate speed’
+
+**Author:** Sarah Wynn  
+**Published:** 6/3/2026, 4:36:45 PM  
+**Categories:** Legal, Policy, Regulation, U.S. Policymaking, Congress, Senate Finance Committee, Treasury Department  
+
+Treasury Secretary Scott Bessent said the department is moving at a "deliberate speed" to establish a strategic bitcoin reserve.
+
+📖 [Read original article](https://www.theblock.co/post/403563/bessent-backs-summer-push-clarity-act-bitcoin-reserve-moving-deliberate-speed?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Solayer rolls out Solana-native onchain perps trading platform Margin Trade mainnet
 
 **Author:** Daniel Kuhn  
 **Published:** 6/3/2026, 4:00:00 PM  
@@ -23,7 +71,7 @@ Margin Trade enables trading of crypto, commodities, and equities via a single m
 
 ---
 
-## 2. Sen. Lummis says JPMorgan CEO Jamie Dimon hasn’t read Clarity Act, calls remarks ‘distasteful’
+## 6. Sen. Lummis says JPMorgan CEO Jamie Dimon hasn’t read Clarity Act, calls remarks ‘distasteful’
 
 **Author:** RT Watson  
 **Published:** 6/3/2026, 3:37:39 PM  
@@ -35,7 +83,7 @@ Republican Senator Lummis said the JPMorgan CEO "either hasn't read" the Clarity
 
 ---
 
-## 3. Revolut’s US bank to offer stablecoin services alongside FDIC-insured products: Reuters
+## 7. Revolut’s US bank to offer stablecoin services alongside FDIC-insured products: Reuters
 
 **Author:** Daniel Kuhn  
 **Published:** 6/3/2026, 3:02:44 PM  
@@ -47,7 +95,7 @@ Revolut U.S. CEO Cetin Duransoy told Reuters the company plans to offer access t
 
 ---
 
-## 4. Crypto industry launches PAC focused on software developer safeguards as elections near
+## 8. Crypto industry launches PAC focused on software developer safeguards as elections near
 
 **Author:** Sarah Wynn  
 **Published:** 6/3/2026, 2:35:24 PM  
@@ -59,7 +107,7 @@ A new cryptocurrency-focused PAC has emerged, this time with an exclusive focus 
 
 ---
 
-## 5. Tether launching tokenized gold Visa card with XAUT rewards
+## 9. Tether launching tokenized gold Visa card with XAUT rewards
 
 **Author:** RT Watson  
 **Published:** 6/3/2026, 2:27:56 PM  
@@ -71,7 +119,7 @@ The card will operate on the Visa network, enabling users to spend fiat at merch
 
 ---
 
-## 6. IREN plants flag in Australia with its first data center campus to serve Asia-Pacific AI demand
+## 10. IREN plants flag in Australia with its first data center campus to serve Asia-Pacific AI demand
 
 **Author:** Kyle Baird  
 **Published:** 6/3/2026, 2:05:57 PM  
@@ -83,7 +131,7 @@ The announcement comes days after IREN secured $3.65 billion in financing to sup
 
 ---
 
-## 7. Variant raises $222 million fund targeting early stage crypto, AI startups that expand ‘autonomy’
+## 11. Variant raises $222 million fund targeting early stage crypto, AI startups that expand ‘autonomy’
 
 **Author:** Daniel Kuhn  
 **Published:** 6/3/2026, 1:54:21 PM  
@@ -95,7 +143,7 @@ Variant founder Jesse Walden said the firm is targeting firms that expand autono
 
 ---
 
-## 8. House of Lords committee urges UK regulators to ease stablecoin rules that could stifle market growth
+## 12. House of Lords committee urges UK regulators to ease stablecoin rules that could stifle market growth
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/3/2026, 12:47:15 PM  
@@ -107,7 +155,7 @@ A UK House of Lords committee warned that Britain lags the U.S. and the EU on st
 
 ---
 
-## 9. Kraken to offer tokenized US IPO access for global retail investors via xStocks
+## 13. Kraken to offer tokenized US IPO access for global retail investors via xStocks
 
 **Author:** James Hunt  
 **Published:** 6/3/2026, 12:30:00 PM  
@@ -119,7 +167,7 @@ Expected in the coming weeks, customers of Kraken and select xStocks partners ca
 
 ---
 
-## 10. Ledger researchers find flaw in chip used by Trezor Safe 7; Trezor says user funds safe
+## 14. Ledger researchers find flaw in chip used by Trezor Safe 7; Trezor says user funds safe
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/3/2026, 12:25:07 PM  
@@ -131,7 +179,7 @@ Ledger's Donjon team found a laser-based hardware flaw in the TROPIC01 chip used
 
 ---
 
-## 11. Grayscale gets behind the hype, launching its HYPG Hyperliquid ETF on Nasdaq
+## 15. Grayscale gets behind the hype, launching its HYPG Hyperliquid ETF on Nasdaq
 
 **Author:** Sarah Wynn  
 **Published:** 6/3/2026, 12:00:00 PM  
@@ -143,7 +191,7 @@ Grayscale entered the ring with its own Hyperliquid linked ETF, setting a new lo
 
 ---
 
-## 12. DOJ, CFTC probe George Santos over Kalshi trades tied to State of the Union appearance: report
+## 16. DOJ, CFTC probe George Santos over Kalshi trades tied to State of the Union appearance: report
 
 **Author:** Brian Danga  
 **Published:** 6/3/2026, 11:06:31 AM  
@@ -155,7 +203,7 @@ DOJ and CFTC are investigating George Santos after Kalshi flagged trades where h
 
 ---
 
-## 13. Binance winds down centralized NFT service, gives users one month to withdraw assets
+## 17. Binance winds down centralized NFT service, gives users one month to withdraw assets
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/3/2026, 10:52:41 AM  
@@ -167,7 +215,7 @@ Binance is closing its centralized NFT service on July 3, 2026, requiring users 
 
 ---
 
-## 14. UK regulator warns soccer clubs over sponsorship deals with unauthorized crypto firms
+## 18. UK regulator warns soccer clubs over sponsorship deals with unauthorized crypto firms
 
 **Author:** Timmy Shen  
 **Published:** 6/3/2026, 9:39:56 AM  
@@ -179,7 +227,7 @@ The FCA instructed clubs to ensure they understand the source of sponsorship fun
 
 ---
 
-## 15. Mastercard expands stablecoin settlement options with USDC, PYUSD and RLUSD
+## 19. Mastercard expands stablecoin settlement options with USDC, PYUSD and RLUSD
 
 **Author:** Brian Danga  
 **Published:** 6/3/2026, 8:57:56 AM  
@@ -188,41 +236,5 @@ The FCA instructed clubs to ensure they understand the source of sponsorship fun
 Mastercard expanded settlement to USDC, PYUSD, and RLUSD, enabling intraday, weekend, and holiday card settlement across its payments network.
 
 📖 [Read original article](https://www.theblock.co/post/403474/mastercard-expands-stablecoin-settlement-options-with-usdc-pyusd-and-rlusd?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Cardano’s Charles Hoskinson warns of ‘wave of failures’ after TapTools wind-down
-
-**Author:** Brian Danga  
-**Published:** 6/3/2026, 7:49:19 AM  
-**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Infrastructure, Markets, People, Token Projects, Cardano, charles-hoskinson, shut-down  
-
-TapTools is set to wind down after leadership exits as Charles Hoskinson warns of a wave of Cardano ecosystem failures ahead.
-
-📖 [Read original article](https://www.theblock.co/post/403457/taptools-winds-down?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Bitcoin briefly dips below $66,000 as ETF outflows, geopolitical fears weigh on crypto
-
-**Author:** Timmy Shen  
-**Published:** 6/3/2026, 6:04:13 AM  
-**Categories:** Markets, Token Projects, Bitcoin, Ethereum  
-
-Analysts said the market continues to assess geopolitical uncertainty alongside Strategy's recent bitcoin sale.
-
-📖 [Read original article](https://www.theblock.co/post/403454/bitcoin-dips-below-66000?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. Blockchain Association urges Senate to pass Clarity Act with letter from 160 former security officials
-
-**Author:** Timmy Shen  
-**Published:** 6/3/2026, 3:42:54 AM  
-**Categories:** Lobbying, Policy, Regulation, U.S. Policymaking, Congress, Senate Banking Committee  
-
-The Blockchain Association is also set to organize a virtual town hall on Thursday to discuss the legislation.
-
-📖 [Read original article](https://www.theblock.co/post/403450/blockchain-association-letter-senate?utm_source=rss&utm_medium=rss)
 
 ---
