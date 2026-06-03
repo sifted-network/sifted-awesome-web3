@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-01"
 date: "2026-06-01"
 source: "Decrypt"
-count: 17
+count: 15
 ---
 
 # Decrypt - 2026-06-01
 
-17 items collected.
+15 items collected.
 
 ---
 
@@ -188,29 +188,5 @@ The Sui blockchain suffered three separate failures in 48 hours due to gas calcu
 Binance opened equities trading and previewed "bStocks," with experts split over whether tokenization unlocks growth or layers on new risk.
 
 📖 [Read original article](https://decrypt.co/369603/binance-opens-access-to-7000-us-stocks-prepares-tokenized-bstocks-rollout)
-
----
-
-## 16. Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year
-
-**Author:** Logan Hitchcock  
-**Published:** 6/1/2026, 2:24:28 PM  
-**Categories:** , Markets  
-
-Strategy made its first BTC sale since 2022 as Bitcoin ETFs shed billions over the last two weeks, nudging the price down even lower.
-
-📖 [Read original article](https://decrypt.co/369600/bitcoin-2-month-low-strategy-sells-btc-etfs-flip-negative-year)
-
----
-
-## 17. Morning Minute: HYPE Soars as CFTC Gives Perps Green Light
-
-**Author:** Tyler Warner  
-**Published:** 6/1/2026, 2:02:20 PM  
-**Categories:** , Opinion  
-
-Kalshi got the formal approval, but it's Hyperliquid that caught the most buzz with a massive move over the weekend.
-
-📖 [Read original article](https://decrypt.co/369586/morning-minute-hype-soars-cftc-gives-perps-green-light)
 
 ---
