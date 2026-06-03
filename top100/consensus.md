@@ -6,38 +6,38 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [etcd](https://github.com/etcd-io/etcd) | 51,756 | 10,383 | Go | 118 | Distributed reliable key-value store for the most critical data of a distributed system | 2026-06-01 |
-| 2 | [anoma](https://github.com/anoma/anoma) | 33,813 | 4,116 | Elixir | 90 | Reference implementation of Anoma | 2026-05-27 |
-| 3 | [rqlite](https://github.com/rqlite/rqlite) | 17,559 | 788 | Go | 40 | The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort. | 2026-05-29 |
-| 4 | [tikv](https://github.com/tikv/tikv) | 16,701 | 2,284 | Rust | 1312 | Distributed transactional key-value database, originally created to complement TiDB | 2026-06-01 |
-| 5 | [fabric](https://github.com/hyperledger/fabric) | 16,651 | 9,111 | Go | 180 | Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use ... | 2026-05-28 |
-| 6 | [zookeeper](https://github.com/apache/zookeeper) | 12,761 | 7,331 | Java | 0 | Apache ZooKeeper | 2026-05-19 |
-| 7 | [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) | 11,853 | 1,541 | - | 7 | A curated list to learn about distributed systems | 2025-01-10 |
-| 8 | [raft](https://github.com/hashicorp/raft) | 9,022 | 1,068 | Go | 34 | Golang implementation of the Raft consensus protocol | 2026-06-01 |
-| 9 | [translations](https://github.com/oldratlee/translations) | 6,916 | 1,543 | - | 27 | 🐼  Chinese translations for classic software development resources | 2025-03-09 |
-| 10 | [tendermint](https://github.com/tendermint/tendermint) | 5,863 | 2,099 | Go | 0 | ⟁ Tendermint Core (BFT Consensus) in Go | 2026-05-25 |
+| 1 | [etcd](https://github.com/etcd-io/etcd) | 51,762 | 10,383 | Go | 118 | Distributed reliable key-value store for the most critical data of a distributed system | 2026-06-03 |
+| 2 | [anoma](https://github.com/anoma/anoma) | 33,811 | 4,116 | Elixir | 90 | Reference implementation of Anoma | 2026-06-02 |
+| 3 | [rqlite](https://github.com/rqlite/rqlite) | 17,561 | 788 | Go | 39 | The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort. | 2026-06-02 |
+| 4 | [tikv](https://github.com/tikv/tikv) | 16,700 | 2,284 | Rust | 1314 | Distributed transactional key-value database, originally created to complement TiDB | 2026-06-02 |
+| 5 | [fabric](https://github.com/hyperledger/fabric) | 16,654 | 9,110 | Go | 180 | Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use ... | 2026-05-28 |
+| 6 | [zookeeper](https://github.com/apache/zookeeper) | 12,760 | 7,330 | Java | 0 | Apache ZooKeeper | 2026-05-19 |
+| 7 | [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) | 11,856 | 1,541 | - | 7 | A curated list to learn about distributed systems | 2025-01-10 |
+| 8 | [raft](https://github.com/hashicorp/raft) | 9,024 | 1,068 | Go | 34 | Golang implementation of the Raft consensus protocol | 2026-06-01 |
+| 9 | [translations](https://github.com/oldratlee/translations) | 6,917 | 1,542 | - | 27 | 🐼  Chinese translations for classic software development resources | 2025-03-09 |
+| 10 | [tendermint](https://github.com/tendermint/tendermint) | 5,863 | 2,100 | Go | 0 | ⟁ Tendermint Core (BFT Consensus) in Go | 2026-05-25 |
 | 11 | [dragonboat](https://github.com/lni/dragonboat) | 5,310 | 569 | Go | 50 | A feature complete and high performance multi-group Raft library in Go.   | 2025-07-23 |
 | 12 | [quorum](https://github.com/Consensys/quorum) | 4,771 | 1,302 | Go | 66 | A permissioned implementation of Ethereum supporting data privacy | 2026-05-12 |
-| 13 | [braft](https://github.com/baidu/braft) | 4,214 | 921 | C++ | 153 | An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems. | 2024-10-25 |
-| 14 | [consensus-specs](https://github.com/ethereum/consensus-specs) | 3,938 | 1,268 | Python | 45 | Ethereum Proof-of-Stake Consensus Specifications | 2026-06-02 |
-| 15 | [sofa-jraft](https://github.com/sofastack/sofa-jraft) | 3,802 | 1,202 | Java | 49 | A production-grade java implementation of RAFT consensus algorithm. | 2026-04-28 |
+| 13 | [braft](https://github.com/baidu/braft) | 4,213 | 921 | C++ | 153 | An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems. | 2024-10-25 |
+| 14 | [consensus-specs](https://github.com/ethereum/consensus-specs) | 3,938 | 1,268 | Python | 44 | Ethereum Proof-of-Stake Consensus Specifications | 2026-06-03 |
+| 15 | [sofa-jraft](https://github.com/sofastack/sofa-jraft) | 3,803 | 1,200 | Java | 49 | A production-grade java implementation of RAFT consensus algorithm. | 2026-04-28 |
 | 16 | [swarmkit](https://github.com/moby/swarmkit) | 3,613 | 660 | Go | 192 | A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more. | 2026-04-23 |
-| 17 | [lighthouse](https://github.com/sigp/lighthouse) | 3,445 | 1,020 | Rust | 416 | Ethereum consensus client in Rust | 2026-06-02 |
-| 18 | [raft-rs](https://github.com/tikv/raft-rs) | 3,347 | 458 | Rust | 50 | Raft distributed consensus algorithm implemented in Rust. | 2026-05-13 |
-| 19 | [curator](https://github.com/apache/curator) | 3,175 | 1,245 | Java | 120 | Apache Curator | 2026-03-16 |
+| 17 | [lighthouse](https://github.com/sigp/lighthouse) | 3,445 | 1,021 | Rust | 417 | Ethereum consensus client in Rust | 2026-06-02 |
+| 18 | [raft-rs](https://github.com/tikv/raft-rs) | 3,348 | 458 | Rust | 50 | Raft distributed consensus algorithm implemented in Rust. | 2026-05-13 |
+| 19 | [curator](https://github.com/apache/curator) | 3,174 | 1,244 | Java | 120 | Apache Curator | 2026-03-16 |
 | 20 | [awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) | 2,792 | 324 | - | 2 | Collect libraries and packages about blockchain/cryptography in Rust | 2026-05-17 |
-| 21 | [distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list) | 2,633 | 217 | - | 0 | A list of papers about distributed consensus. | 2026-04-27 |
-| 22 | [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) | 2,588 | 743 | C++ | 313 | FISCO BCOS（发音为/ˈfɪskl bi:ˈkɒz/）是一个稳定、高效、安全的许可区块链平台，已被广泛应用于现实的行业应用。截至目前，已拥有5000多家企事业单位，400多个产业数字化标杆应用，涵盖文化版权、司法服务、政府服务、物联网、金融、智慧社区、房地产建设、社区治理、乡村振兴等领域。FISCO BCOS (pronounced /ˈfɪskl bi:ˈkɒz/) is a stabl... | 2026-06-02 |
-| 23 | [raft](https://github.com/goraft/raft) | 2,435 | 478 | Go | 17 | UNMAINTAINED: A Go implementation of the Raft distributed consensus protocol. | 2015-05-09 |
+| 21 | [distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list) | 2,634 | 217 | - | 0 | A list of papers about distributed consensus. | 2026-04-27 |
+| 22 | [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) | 2,589 | 743 | C++ | 313 | FISCO BCOS（发音为/ˈfɪskl bi:ˈkɒz/）是一个稳定、高效、安全的许可区块链平台，已被广泛应用于现实的行业应用。截至目前，已拥有5000多家企事业单位，400多个产业数字化标杆应用，涵盖文化版权、司法服务、政府服务、物联网、金融、智慧社区、房地产建设、社区治理、乡村振兴等领域。FISCO BCOS (pronounced /ˈfɪskl bi:ˈkɒz/) is a stabl... | 2026-06-03 |
+| 23 | [raft](https://github.com/goraft/raft) | 2,435 | 477 | Go | 17 | UNMAINTAINED: A Go implementation of the Raft distributed consensus protocol. | 2015-05-09 |
 | 24 | [atomix](https://github.com/atomix/atomix) | 2,363 | 388 | Go | 14 | A Kubernetes toolkit for building distributed applications using cloud native principles | 2024-06-23 |
 | 25 | [awesome-consensus](https://github.com/dgryski/awesome-consensus) | 2,148 | 209 | - | 0 | Awesome list for Paxos and friends | 2024-05-29 |
-| 26 | [openraft](https://github.com/databendlabs/openraft) | 1,933 | 214 | Rust | 19 | rust raft with improvements | 2026-06-01 |
-| 27 | [xrpl-dev-portal](https://github.com/XRPLF/xrpl-dev-portal) | 1,923 | 1,154 | JavaScript | 219 | Source code for xrpl.org including developer documentation | 2026-06-01 |
+| 26 | [openraft](https://github.com/databendlabs/openraft) | 1,934 | 213 | Rust | 18 | rust raft with improvements | 2026-06-03 |
+| 27 | [xrpl-dev-portal](https://github.com/XRPLF/xrpl-dev-portal) | 1,922 | 1,154 | JavaScript | 220 | Source code for xrpl.org including developer documentation | 2026-06-02 |
 | 28 | [awesome-cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) | 1,769 | 311 | - | 0 | An awesome curated list of Cryptoeconomic research and learning materials | 2024-06-17 |
 | 29 | [paxosstore](https://github.com/Tencent/paxosstore) | 1,716 | 341 | C++ | 14 | PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and... | 2020-07-17 |
-| 30 | [ratis](https://github.com/apache/ratis) | 1,452 | 444 | Java | 0 | Open source Java implementation for Raft consensus protocol. | 2026-06-01 |
+| 30 | [ratis](https://github.com/apache/ratis) | 1,451 | 443 | Java | 0 | Open source Java implementation for Raft consensus protocol. | 2026-06-01 |
 | 31 | [harmony](https://github.com/harmony-one/harmony) | 1,451 | 287 | Go | 77 | The core protocol of harmony | 2026-06-01 |
-| 32 | [lodestar](https://github.com/ChainSafe/lodestar) | 1,413 | 460 | TypeScript | 320 | 🌟 Ethereum Consensus client for the Zig and TypeScript ecosystem | 2026-06-01 |
+| 32 | [lodestar](https://github.com/ChainSafe/lodestar) | 1,413 | 460 | TypeScript | 324 | 🌟 Ethereum Consensus client for the Zig and TypeScript ecosystem | 2026-06-03 |
 | 33 | [summitdb](https://github.com/tidwall/summitdb) | 1,410 | 76 | Go | 12 | In-memory NoSQL database with ACID transactions, Raft consensus, and Redis API | 2022-04-22 |
 | 34 | [cita](https://github.com/citahub/cita) | 1,307 | 207 | Rust | 0 | A high performance blockchain kernel for enterprise users. | 2022-12-10 |
 | 35 | [NuRaft](https://github.com/eBay/NuRaft) | 1,191 | 290 | C++ | 73 | C++ implementation of Raft core logic as a replication library | 2026-05-28 |
@@ -50,19 +50,19 @@
 | 42 | [burrow](https://github.com/hyperledger-archives/burrow) | 1,024 | 335 | Go | 48 | https://wiki.hyperledger.org/display/burrow | 2022-05-12 |
 | 43 | [raft](https://github.com/canonical/raft) | 947 | 134 | C | 0 | Unmaintained C implementation of the Raft consensus protocol | 2024-03-04 |
 | 44 | [go-spacemesh](https://github.com/spacemeshos/go-spacemesh) | 777 | 225 | Go | 221 | Go Implementation of the Spacemesh protocol full node. 💾⏰💪 | 2025-11-20 |
-| 45 | [awesome-substrate](https://github.com/polkadot-developers/awesome-substrate) | 776 | 146 | - | 8 | A curated list of awesome projects and resources related to the Substrate blockchain development framework. | 2024-04-20 |
-| 46 | [teku](https://github.com/Consensys/teku) | 772 | 374 | Java | 245 | 🚀 Open-source Ethereum consensus client written in Java | 2026-06-02 |
+| 45 | [awesome-substrate](https://github.com/polkadot-developers/awesome-substrate) | 775 | 146 | - | 8 | A curated list of awesome projects and resources related to the Substrate blockchain development framework. | 2024-04-20 |
+| 46 | [teku](https://github.com/Consensys/teku) | 772 | 374 | Java | 245 | 🚀 Open-source Ethereum consensus client written in Java | 2026-06-03 |
 | 47 | [CorfuDB](https://github.com/CorfuDB/CorfuDB) | 667 | 122 | Java | 52 | A cluster consistency platform | 2026-05-30 |
 | 48 | [ethermint-archive](https://github.com/cosmos/ethermint-archive) | 658 | 190 | Go | 15 | Ethereum on Tendermint using Cosmos-SDK! | 2020-10-07 |
 | 49 | [mLLMCelltype](https://github.com/cafferychen777/mLLMCelltype) | 641 | 55 | Python | 9 | Cell type annotation for single-cell RNA-seq using multi-LLM consensus | 2026-05-31 |
 | 50 | [copycat](https://github.com/atomix/copycat) | 583 | 152 | Java | 43 | A novel implementation of the Raft consensus algorithm | 2017-07-12 |
 | 51 | [flow-go](https://github.com/onflow/flow-go) | 570 | 210 | Go | 240 | Reference implementation of the Flow network in Go. Layer 1 proof-of-stake protocol built for consumer apps, AI Agents, and DeFi at scale | 2026-06-02 |
-| 52 | [monorepo](https://github.com/commonwarexyz/monorepo) | 567 | 224 | Rust | 385 | Commonware Library Primitives and Examples | 2026-06-02 |
+| 52 | [monorepo](https://github.com/commonwarexyz/monorepo) | 568 | 224 | Rust | 386 | Commonware Library Primitives and Examples | 2026-06-03 |
 | 53 | [hiero-consensus-specifications](https://github.com/hiero-ledger/hiero-consensus-specifications) | 562 | 18 | - | 4 | Canonical specifications for Hiero Consensus Specifications (HCS) — originally written and maintained by Hashgraph Online | 2026-05-07 |
-| 54 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 549 | 47 | Python | 1 | A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus. | 2026-01-22 |
+| 54 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 551 | 47 | Python | 1 | A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus. | 2026-01-22 |
 | 55 | [raft.tla](https://github.com/ongardie/raft.tla) | 513 | 96 | TLA | 8 | TLA+ specification for the Raft consensus algorithm | 2025-02-18 |
-| 56 | [torchft](https://github.com/meta-pytorch/torchft) | 505 | 64 | Python | 33 | Fault tolerance for PyTorch (HSDP, LocalSGD, DiLoCo, Streaming DiLoCo) | 2026-05-30 |
-| 57 | [iroha](https://github.com/hyperledger-iroha/iroha) | 485 | 287 | Rust | 437 | Iroha: A cutting-edge, enterprise-grade decentralized ledger | 2026-06-01 |
+| 56 | [torchft](https://github.com/meta-pytorch/torchft) | 506 | 64 | Python | 33 | Fault tolerance for PyTorch (HSDP, LocalSGD, DiLoCo, Streaming DiLoCo) | 2026-05-30 |
+| 57 | [iroha](https://github.com/hyperledger-iroha/iroha) | 485 | 287 | Rust | 437 | Iroha: A cutting-edge, enterprise-grade decentralized ledger | 2026-06-02 |
 | 58 | [babble](https://github.com/mosaicnetworks/babble) | 482 | 94 | Go | 5 | Distributed Consensus Middleware | 2024-02-27 |
 | 59 | [elle](https://github.com/infinit/elle) | 476 | 42 | C++ | 1 | The Elle coroutine-based asynchronous C++ development framework. | 2023-05-22 |
 | 60 | [little-raft](https://github.com/andreev-io/little-raft) | 447 | 28 | Rust | 5 | The lightest distributed consensus library. Run your own replicated state machine! ❤️ | 2025-03-31 |
@@ -71,7 +71,7 @@
 | 63 | [celestia-app](https://github.com/celestiaorg/celestia-app) | 412 | 501 | Go | 389 | Celestia consensus node | 2026-06-02 |
 | 64 | [malachite](https://github.com/circlefin/malachite) | 408 | 123 | Rust | 70 | Flexible BFT consensus engine in Rust | 2026-05-22 |
 | 65 | [blockchain_consensus_algorithm](https://github.com/corgi-kx/blockchain_consensus_algorithm) | 399 | 144 | Go | 4 | 代码实现五种区块链共识算法 The code implements five blockchain consensus algorithms | 2019-12-26 |
-| 66 | [hiero-consensus-node](https://github.com/hiero-ledger/hiero-consensus-node) | 392 | 209 | Java | 1406 | Crypto, token, consensus, file, and smart contract services for a Hiero based network | 2026-06-02 |
+| 66 | [hiero-consensus-node](https://github.com/hiero-ledger/hiero-consensus-node) | 392 | 209 | Java | 1405 | Crypto, token, consensus, file, and smart contract services for a Hiero based network | 2026-06-03 |
 | 67 | [llm-consortium](https://github.com/irthomasthomas/llm-consortium) | 386 | 34 | Python | 7 | Parallel Reasoning: llm-consortium orchestrates mulitple LLMs, iteratively refines & achieves consensus. | 2026-05-07 |
 | 68 | [minikv](https://github.com/whispem/minikv) | 385 | 14 | Rust | 0 | A production-ready distributed key-value store with Raft consensus. | 2026-05-17 |
 | 69 | [hbbft](https://github.com/poanetwork/hbbft) | 369 | 91 | Rust | 42 |  An implementation of the paper "Honey Badger of BFT Protocols" in Rust. This is a modular library of consensus. | 2024-01-06 |
@@ -87,22 +87,22 @@
 | 79 | [racon](https://github.com/isovic/racon) | 297 | 54 | C++ | 105 | Ultrafast consensus module for raw de novo genome assembly of long uncorrected reads. http://genome.cshlp.org/content/early/2017/01/18/gr.214270.116 Note: This was the original repository which will n... | 2024-05-09 |
 | 80 | [go-opera](https://github.com/Fantom-foundation/go-opera) | 295 | 223 | Go | 22 | Opera blockchain protocol secured by the Lachesis consensus algorithm | 2024-07-11 |
 | 81 | [raftd](https://github.com/goraft/raftd) | 295 | 81 | Go | 4 | A reference implementation for using the go-raft library for distributed consensus. | 2016-02-04 |
-| 82 | [libhotstuff](https://github.com/hot-stuff/libhotstuff) | 289 | 89 | C++ | 7 | A general-purpose BFT state machine replication library with modularity and simplicity, suitable for building hybrid consensus cryptocurrencies. | 2023-06-22 |
+| 82 | [libhotstuff](https://github.com/hot-stuff/libhotstuff) | 289 | 90 | C++ | 7 | A general-purpose BFT state machine replication library with modularity and simplicity, suitable for building hybrid consensus cryptocurrencies. | 2023-06-22 |
 | 83 | [jgroups-raft](https://github.com/jgroups-extras/jgroups-raft) | 285 | 87 | Java | 9 | Implementation of the Raft consensus protocol in JGroups | 2026-06-01 |
 | 84 | [BMPrinciples](https://github.com/OpenBMB/BMPrinciples) | 285 | 20 | - | 1 | A collection of phenomenons observed during the scaling of big foundation models, which may be developed into consensus, principles, or laws in the future | 2023-08-13 |
 | 85 | [DOGS](https://github.com/AIBluefisher/DOGS) | 278 | 12 | JavaScript | 10 | The official implementation of the NeurIPS 2024 paper: DOGS: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction Via Gaussian Consensus | 2026-02-04 |
 | 86 | [heimdall](https://github.com/0xPolygon/heimdall) | 275 | 182 | Go | 0 | ⚠️ Deprecated. Legacy Heimdall implementation for Polygon. See https://github.com/0xPolygon/heimdall-v2 for the active version. | 2025-07-15 |
 | 87 | [mango](https://github.com/MangoNet-Labs/mango) | 275 | 75 | Rust | 1 | Mango Network is a Layer1 blockchain based on the Dpos consensus mechanism and supported by Move to build a transaction-based omni-chain infrastructure network. | 2025-06-21 |
 | 88 | [deep-graph-matching-consensus](https://github.com/rusty1s/deep-graph-matching-consensus) | 273 | 49 | Python | 6 | Implementation of "Deep Graph Matching Consensus" in PyTorch | 2021-09-22 |
-| 89 | [grandine](https://github.com/grandinetech/grandine) | 272 | 81 | Rust | 61 | High performance Ethereum consensus client | 2026-06-01 |
+| 89 | [grandine](https://github.com/grandinetech/grandine) | 272 | 81 | Rust | 60 | High performance Ethereum consensus client | 2026-06-02 |
 | 90 | [cornerstone](https://github.com/datatechnology/cornerstone) | 270 | 58 | C++ | 0 | C++ implementation of raft consensus | 2023-05-12 |
 | 91 | [rafter](https://github.com/andrewjstone/rafter) | 270 | 30 | Erlang | 8 | An Erlang library application which implements the Raft consensus protocol | 2016-07-20 |
 | 92 | [deepconsensus](https://github.com/google/deepconsensus) | 265 | 38 | Python | 0 | DeepConsensus uses gap-aware sequence transformers to correct errors in Pacific Biosciences (PacBio) Circular Consensus Sequencing (CCS) data. | 2026-04-07 |
 | 93 | [OpenEIT](https://github.com/OpenEIT/OpenEIT) | 262 | 74 | Python | 9 | Python based dashboard for real-time Electrical Impedance Tomography including image reconstruction using Back Projection, Graz Consensus and Gauss Newton methods | 2025-07-22 |
 | 94 | [MicroRaft](https://github.com/MicroRaft/MicroRaft) | 261 | 49 | Java | 6 | Feature-complete implementation of the Raft consensus algorithm in Java | 2026-03-26 |
-| 95 | [web3signer](https://github.com/Consensys/web3signer) | 258 | 96 | Java | 39 | Web3Signer is an open-source signing service capable of signing for multiple platforms (Ethereum consensus and execution clients) using private keys stored in an external vault, or encrypted on a disk... | 2026-05-28 |
+| 95 | [web3signer](https://github.com/Consensys/web3signer) | 258 | 96 | Java | 39 | Web3Signer is an open-source signing service capable of signing for multiple platforms (Ethereum consensus and execution clients) using private keys stored in an external vault, or encrypted on a disk... | 2026-06-03 |
 | 96 | [skiff](https://github.com/yldio/skiff) | 247 | 28 | JavaScript | 7 | Raft Consensus for Node.js, backed by LevelDB | 2016-12-12 |
 | 97 | [liferaft](https://github.com/unshiftio/liferaft) | 246 | 41 | JavaScript | 9 | Consensus protocol based on raft, but only for saving lifes and works in node as well as in browers. | 2021-03-23 |
 | 98 | [argue](https://github.com/onevcat/argue) | 241 | 12 | TypeScript | 0 | Harness-agnostic orchestration package for multi-agent consensus workflows | 2026-06-01 |
 | 99 | [racon](https://github.com/lbcb-sci/racon) | 240 | 33 | C++ | 23 | Ultrafast consensus module for raw de novo genome assembly of long uncorrected reads | 2023-12-29 |
-| 100 | [fablo](https://github.com/hyperledger-labs/fablo) | 239 | 116 | Shell | 27 | Fablo is a simple tool to generate the Hyperledger Fabric network and run it on Docker. It's best for local development, CI processes and experimenting with various network configurations. It supports... | 2026-05-28 |
+| 100 | [go-seele](https://github.com/seeleteam/go-seele) | 238 | 100 | Go | 0 | Seele is an open source blockchain project which consists of advanced sharding technology and our innovative anti-asic MPoW consensus algorithm. The ONLY official website is  | 2020-12-09 |
