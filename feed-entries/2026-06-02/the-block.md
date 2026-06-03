@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-02"
 date: "2026-06-02"
 source: "The Block"
-count: 19
+count: 14
 ---
 
 # The Block - 2026-06-02
 
-19 items collected.
+14 items collected.
 
 ---
 
@@ -176,65 +176,5 @@ The company reduced its bitcoin holdings from 481 BTC to 150 BTC during the last
 Backpack Securities combines a U.S.-regulated brokerage for traditional equities ownership with a tokenization platform.
 
 📖 [Read original article](https://www.theblock.co/post/403328/backpack-launches-securities-platform-blending-traditional-and-tokenized-stock-trading?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Hamilton Lane’s tokenized HLSCOPE fund launches on Tron, marking first Securitize asset on the network
-
-**Author:** Daniel Kuhn  
-**Published:** 6/2/2026, 1:00:00 PM  
-**Categories:** The Block  
-
-Hamilton Lane’s tokenized Senior Credit Opportunities Fund will be the first Securitize-issued asset to launch on TRON.
-
-📖 [Read original article](https://www.theblock.co/post/403239/hamilton-lanes-tokenized-hlscope-fund-launches-on-tron-marking-first-securitize-product-issued-on-the-once-maligned-blockchain?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Following token-dumping scandal, Movement seeks new life as a Layer 1
-
-**Author:** Daniel Kuhn  
-**Published:** 6/2/2026, 1:00:00 PM  
-**Categories:** Crypto Ecosystems, Deals, Infrastructure, Layer 1s, Layer 2s and Scaling, Stablecoins, Web3, Rollups, Tokenization  
-
-Move Industries has partnered with several firms, including Circle, as it relaunches Movement as a Layer 1 and refocuses on emerging markets.
-
-📖 [Read original article](https://www.theblock.co/post/403264/movement-seeks-new-life-as-layer-1?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Veda brings the vault stack behind Kraken DeFi Earn to Privy’s 2,000-plus developer teams
-
-**Author:** Zack Abrams  
-**Published:** 6/2/2026, 11:05:02 AM  
-**Categories:** Crypto Ecosystems, DeFi, Infrastructure, exclusive, privy, veda, Wallets  
-
-The same vault stack powering Kraken DeFi Earn and EtherFi's Liquid will be available via a self-serve API for developers building on Privy.
-
-📖 [Read original article](https://www.theblock.co/post/403277/veda-brings-the-vault-stack-behind-kraken-defi-earn-to-privys-2000-plus-developer-teams?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. MoneyGram debuts MGUSD stablecoin on Stellar for its global payments network
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/2/2026, 10:49:35 AM  
-**Categories:** Companies, Crypto Ecosystems, Infrastructure, Stablecoins, moneygram, stellar  
-
-MoneyGram launched MGUSD, a USD stablecoin on Stellar backed by Bridge and Fireblocks, targeting 60M+ customers for cross-border payments.
-
-📖 [Read original article](https://www.theblock.co/post/403320/moneygram-debuts-mgusd-stablecoin-on-stellar-for-its-global-payments-network?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. Vitalik Buterin proposes options-based synthetic assets to avoid liquidations and reduce reliance on real-time oracles
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/2/2026, 10:31:02 AM  
-**Categories:** Crypto Ecosystems, DeFi, People, Vitalik Buterin  
-
-Buterin proposed options-based synthetic assets that avoid liquidation risk and rely on slow oracles instead of real-time price feeds.
-
-📖 [Read original article](https://www.theblock.co/post/403311/vitalik-buterin-proposes-options-based-synthetic-assets-to-avoid-liquidations-and-reduce-reliance-on-real-time-oracles?utm_source=rss&utm_medium=rss)
 
 ---
