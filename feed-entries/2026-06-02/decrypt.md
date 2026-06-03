@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-02"
 date: "2026-06-02"
 source: "Decrypt"
-count: 18
+count: 16
 ---
 
 # Decrypt - 2026-06-02
 
-18 items collected.
+16 items collected.
 
 ---
 
@@ -200,29 +200,5 @@ Crypto-powered cell service Helium Mobile has been acquired by Andrew Yang's Nob
 The defunct exchange still has about 35,000 BTC left to distribute, though the latest transfer does not show a sale.
 
 📖 [Read original article](https://decrypt.co/369714/mt-gox-moves-739m-in-bitcoin-as-repayment-deadline-looms)
-
----
-
-## 17. NEAR, Worldcoin Post Double-Digit Gains as Market Sees $714M in Liquidations
-
-**Author:** Akash Girimath  
-**Published:** 6/2/2026, 12:52:52 PM  
-**Categories:** , internet-computer, near, worldcoin-wld, Markets  
-
-While Bitcoin dipped below $70,000 to trigger a massive liquidation cascade, select altcoins surged on individual ecosystem catalysts.
-
-📖 [Read original article](https://decrypt.co/369708/near-worldcoin-post-double-digit-gains-as-market-sees-714m-in-liquidations)
-
----
-
-## 18. Morning Minute: Saylor Sells Bitcoin for First Time Since 2022
-
-**Author:** Tyler Warner  
-**Published:** 6/2/2026, 12:14:51 PM  
-**Categories:** , Opinion  
-
-Bitcoin fell below $70K on the back of the sales, and a major Polymarket dispute is brewing over whether Strategy indeed sold in May or not.
-
-📖 [Read original article](https://decrypt.co/369709/morning-minute-saylor-sells-bitcoin-for-first-time-since-2022)
 
 ---
