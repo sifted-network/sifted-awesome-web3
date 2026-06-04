@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-06-03"
 date: "2026-06-03"
 source: "CoinDesk"
-count: 25
+count: 22
 ---
 
 # CoinDesk - 2026-06-03
 
-25 items collected.
+22 items collected.
 
 ---
 
-## 1. Bitmine's Ethereum bet nears $9 billion loss as ether falls below $1,800
+## 1. SpaceX targets record $75 billion IPO as bitcoin treasury and liquidity risks draw focus
+
+**Author:** Helene Braun  
+**Published:** 6/3/2026, 10:31:12 PM  
+**Categories:** Markets, SpaceX, Elon Musk, News  
+
+SpaceX's proposed $75 billion IPO would rank among the largest ever, while its $1.29 billion bitcoin holding and the broader wave of megacap listings could reshape capital flows across crypto and technology markets.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/03/spacex-targets-record-usd75-billion-ipo-as-bitcoin-treasury-and-liquidity-risks-draw-focus)
+
+---
+
+## 2. Tom Lee's Bitmine borrows a page from Saylor's playbook to offer 9.5% yield in preferred stocks
+
+**Author:** Krisztian Sandor  
+**Published:** 6/3/2026, 10:18:53 PM  
+**Categories:** Finance, Ethereum News, News  
+
+The largest Ethereum treasury firm is taking a page from Michael Saylor's Strategy to issue preferred shares to tap new sources of funding.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/03/tom-lee-s-bitmine-to-offer-preferred-stock-with-9-5-dividend-seeking-to-raise-usd300-million)
+
+---
+
+## 3. Bitmine's Ethereum bet nears $9 billion loss as ether falls below $1,800
 
 **Author:** Krisztian Sandor  
 **Published:** 6/3/2026, 8:33:51 PM  
@@ -23,7 +47,7 @@ Shares of Tom Lee's Ethereum treasury firm hit their lowest level since the comp
 
 ---
 
-## 2. New DeFi entrant widens field of crypto political campaign funds as elections loom
+## 4. New DeFi entrant widens field of crypto political campaign funds as elections loom
 
 **Author:** Jesse Hamilton  
 **Published:** 6/3/2026, 6:50:05 PM  
@@ -35,7 +59,7 @@ The Defend Developers PAC is aiming to contribute to lawmakers who seek to shiel
 
 ---
 
-## 3. Bitcoin isn't crashing because of Saylor, it's losing the momentum trade
+## 5. Bitcoin isn't crashing because of Saylor, it's losing the momentum trade
 
 **Author:** Helene Braun  
 **Published:** 6/3/2026, 6:48:22 PM  
@@ -47,7 +71,7 @@ Bitcoin's recent weakness reflects a broader rotation into AI, IPOs and other mo
 
 ---
 
-## 4. Crypto Long & Short: What about the American consumer?
+## 6. Crypto Long & Short: What about the American consumer?
 
 **Author:** Alex Tapscott,Aisha Hunt  
 **Published:** 6/3/2026, 4:13:51 PM  
@@ -59,7 +83,7 @@ In this week's Crypto Long & Short, Alex Tapscott on the stalling of the CLARITY
 
 ---
 
-## 5. Every single bank will soon need to hold digital assets, says Zodia CEO Julian Sawyer
+## 7. Every single bank will soon need to hold digital assets, says Zodia CEO Julian Sawyer
 
 **Author:** Olivier Acuna  
 **Published:** 6/3/2026, 3:08:41 PM  
@@ -71,7 +95,7 @@ Sawyer confirmed that Standard Chartered’s full acquisition of the firm is on 
 
 ---
 
-## 6. Rare physical bitcoin worth $1.78 million gets cashed in after 12 years
+## 8. Rare physical bitcoin worth $1.78 million gets cashed in after 12 years
 
 **Author:** Shaurya Malwa  
 **Published:** 6/3/2026, 2:32:32 PM  
@@ -83,7 +107,7 @@ The S1-COIN-25 physical bitcoin, part of Mike Caldwell's 2011-2013 mint, had its
 
 ---
 
-## 7. Bitcoin's dearth of fresh investors matters more than Strategy's sale, Citi says
+## 9. Bitcoin's dearth of fresh investors matters more than Strategy's sale, Citi says
 
 **Author:** Will Canny,AI Boost  
 **Published:** 6/3/2026, 1:29:45 PM  
@@ -95,7 +119,7 @@ Strategy's bitcoin sale may have rattled markets, but the bigger issue is missin
 
 ---
 
-## 8. Bitwise model puts bitcoin fair value at $224,000 as sovereign-default hedge
+## 10. Bitwise model puts bitcoin fair value at $224,000 as sovereign-default hedge
 
 **Author:** Shaurya Malwa  
 **Published:** 6/3/2026, 1:26:02 PM  
@@ -107,7 +131,7 @@ The figure is from a theoretical model proposed by Greg Foss in 2021 that treats
 
 ---
 
-## 9. CoinDesk 20 performance update: Bitcoin Cash (BCH) falls 10.7%, leading index lower
+## 11. CoinDesk 20 performance update: Bitcoin Cash (BCH) falls 10.7%, leading index lower
 
 **Author:** CoinDesk Indices  
 **Published:** 6/3/2026, 1:08:59 PM  
@@ -119,7 +143,7 @@ Binance Coin (BNB), down 3.4% from Tuesday, was also an underperformer.
 
 ---
 
-## 10. Kraken parent Payward plans to offer tokenized IPO access as investors await blockbuster debuts
+## 12. Kraken parent Payward plans to offer tokenized IPO access as investors await blockbuster debuts
 
 **Author:** Krisztian Sandor  
 **Published:** 6/3/2026, 1:02:26 PM  
@@ -131,7 +155,7 @@ Payward aims to give retail investors access to IPO shares at the offering price
 
 ---
 
-## 11. IREN adds 4% premarket as company unveils 800MW Australian AI data center campus
+## 13. IREN adds 4% premarket as company unveils 800MW Australian AI data center campus
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 6/3/2026, 1:01:01 PM  
@@ -143,7 +167,7 @@ The AI infrastructure firm secured a grid connection for a planned South Austral
 
 ---
 
-## 12. Clarity Act survival depends on the U.S. Senate getting a lot of non-crypto work done
+## 14. Clarity Act survival depends on the U.S. Senate getting a lot of non-crypto work done
 
 **Author:** Jesse Hamilton  
 **Published:** 6/3/2026, 1:00:00 PM  
@@ -155,7 +179,7 @@ The dwindling congressional calendar may spur a legislative competition for the 
 
 ---
 
-## 13. Live markets: bitcoin hits weakest level since late March as selling continues
+## 15. Live markets: bitcoin hits weakest level since late March as selling continues
 
 **Author:** Stephen Alpher,Krisztian Sandor,Helene Braun  
 **Published:** 6/3/2026, 12:27:15 PM  
@@ -167,7 +191,7 @@ One novel theory floating around social media says it's Iranian sanctions, not S
 
 ---
 
-## 14. Bitcoin hits Power Law level low that historically precedes a rebound
+## 16. Bitcoin hits Power Law level low that historically precedes a rebound
 
 **Author:** James Van Straten  
 **Published:** 6/3/2026, 12:01:45 PM  
@@ -179,7 +203,7 @@ The power law model shows BTC trading at one of its deepest discounts relative t
 
 ---
 
-## 15. Grayscale launches lowest-fee U.S. Hyperliquid ETF as competition heats up around HYPE
+## 17. Grayscale launches lowest-fee U.S. Hyperliquid ETF as competition heats up around HYPE
 
 **Author:** Helene Braun,AI Boost  
 **Published:** 6/3/2026, 12:00:00 PM  
@@ -191,7 +215,7 @@ The Nasdaq-listed fund charges a 0.29% sponsor fee, undercutting rival Hyperliqu
 
 ---
 
-## 16. Payment giants Stripe, Visa, Mastercard said to be among backers of soon-to-debut stablecoin platform
+## 18. Payment giants Stripe, Visa, Mastercard said to be among backers of soon-to-debut stablecoin platform
 
 **Author:** Ian Allison  
 **Published:** 6/3/2026, 11:47:36 AM  
@@ -203,7 +227,7 @@ U.S. crypto exchange Coinbase is also said to be looking into the possibility of
 
 ---
 
-## 17. Crypto PACs go undefeated in June primaries as Fairshake scores bipartisan winning streak
+## 19. Crypto PACs go undefeated in June primaries as Fairshake scores bipartisan winning streak
 
 **Author:** Sam Reynolds  
 **Published:** 6/3/2026, 11:46:59 AM  
@@ -215,7 +239,7 @@ Winners included Democrats Zoe Lofgren, Ted Lieu, Dave Min and Rob Menendez, as 
 
 ---
 
-## 18. Bitcoin momentum gauge hints at recovery. Experts remain cautious.
+## 20. Bitcoin momentum gauge hints at recovery. Experts remain cautious.
 
 **Author:** Omkar Godbole  
 **Published:** 6/3/2026, 11:19:52 AM  
@@ -227,7 +251,7 @@ Your day-ahead look for June 3, 2026
 
 ---
 
-## 19. Bitcoin steadies at $67,000, faces critical juncture after sliding 9.5% in seven days
+## 21. Bitcoin steadies at $67,000, faces critical juncture after sliding 9.5% in seven days
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 6/3/2026, 10:41:23 AM  
@@ -239,7 +263,7 @@ The recovery does little to mask a 9.5% weekly decline as U.S. stocks hit record
 
 ---
 
-## 20. Apparent Zcash outage was a block explorer problem, infrastructure provider says
+## 22. Apparent Zcash outage was a block explorer problem, infrastructure provider says
 
 **Author:** Omkar Godbole  
 **Published:** 6/3/2026, 10:22:36 AM  
@@ -248,65 +272,5 @@ The recovery does little to mask a 9.5% weekly decline as U.S. stocks hit record
 One expert said the issue was mainly with block explorers tracking the onchain activity.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/06/03/privacy-focused-zcash-blockchain-has-not-produced-a-block-for-four-hours)
-
----
-
-## 21. UK's financial watchdog cracks down on Premier League crypto partnerships
-
-**Author:** Jamie Crawley  
-**Published:** 6/3/2026, 10:19:12 AM  
-**Categories:** Policy, UK, Regulation, News  
-
-The FCA said unauthorized firms could be breaching rules on financial promotions through high-profile sponsorships deals.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/03/uk-s-financial-watchdog-cracks-down-on-premier-league-crypto-partnerships)
-
----
-
-## 22. Trezor says your crypto is safe after Ledger audit exposes a hardware flaw
-
-**Author:** Margaux Nijkerk  
-**Published:** 6/3/2026, 10:04:32 AM  
-**Categories:** Tech, Ledger, News  
-
-The flaw affects only one of the wallet's multiple security layers and would require physical access, specialized equipment and advanced expertise to exploit.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/02/dnp-trezor-says-users-crypto-is-safe-after-ledger-researchers-uncover-chip-flaw)
-
----
-
-## 23. DeFi won't win over big banks until it fixes its hacking problem, executives say
-
-**Author:** Olivier Acuna  
-**Published:** 6/3/2026, 9:12:54 AM  
-**Categories:** Finance, DeFi, Trade Finance, News  
-
-Lenders are particularly interested in blockchain's back-office applications, but security failures are blocking wider adoption.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/02/defi-won-t-win-over-big-banks-until-it-fixes-its-hacking-problem-executives-say)
-
----
-
-## 24. Banks' survey says people don't want to rock the boat if stablecoin yield risks lending
-
-**Author:** Jesse Hamilton  
-**Published:** 6/3/2026, 9:00:00 AM  
-**Categories:** Policy, banks, Regulation, News  
-
-The American Bankers Association, which lobbies against the crypto sector over the Clarity Act's stablecoin section, unveiled its new polling.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/02/banks-survey-says-people-don-t-want-to-rock-the-boat-if-stablecoins-would-risk-lending)
-
----
-
-## 25. Franklin Templeton says Wall Street fears blockchain because it threatens its profits
-
-**Author:** Olivier Acuna  
-**Published:** 6/3/2026, 7:04:43 AM  
-**Categories:** Finance, Bitcoin News, banks, News  
-
-Jenny Johnson, Franklin Templeton's CEO, said blockchain and crypto threaten a huge number of business models that exist today in traditional finance.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/02/franklin-templeton-says-wall-street-fears-blockchain-because-it-threatens-its-profits)
 
 ---
