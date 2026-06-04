@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-06-03"
 date: "2026-06-03"
 source: "Cointelegraph"
-count: 24
+count: 29
 ---
 
 # Cointelegraph - 2026-06-03
 
-24 items collected.
+29 items collected.
 
 ---
 
-## 1. Crypto PAC-supported candidates sweep US state primaries after media buys
+## 1. Israel’s tax authority ‘disappointed’ in voluntary crypto disclosures: Report
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 6/3/2026, 11:00:03 PM  
+**Categories:** Latest News  
+
+After expecting billions of dollars worth of crypto holdings to be reported during a voluntary disclosure period, the country's tax office only saw 58 filers took advantage of the procedure.
+
+📖 [Read original article](https://cointelegraph.com/news/israel-tax-authority-voluntary-crypto-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Wyoming executive order to guide AI data center development
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 6/3/2026, 10:04:10 PM  
+**Categories:** Latest News  
+
+Wyoming Governor Mark Gordon signed an executive order supporting AI data center development as the state seeks to attract advanced computing and technology investment.
+
+📖 [Read original article](https://cointelegraph.com/news/wyoming-issues-executive-order-guide-ai-data-center-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. US Treasury Secretary signals progress on Bitcoin reserve, CLARITY Act
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 6/3/2026, 9:53:00 PM  
+**Categories:** Latest News  
+
+Scott Bessent said that the Treasury Department was “proceeding with all deliberate speed” on Donald Trump’s 2025 executive order to establish a strategic Bitcoin reserve and digital asset stockpile.
+
+📖 [Read original article](https://cointelegraph.com/news/us-treasury-secretary-clarity-act-bitcoin-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Revolut US bank plans stablecoins alongside FDIC-insured accounts: Report
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 6/3/2026, 9:25:48 PM  
+**Categories:** Latest News  
+
+Reuters reported that Revolut plans to integrate stablecoins into its future US bank as more fintech and crypto companies chase federal banking approvals.
+
+📖 [Read original article](https://cointelegraph.com/news/revoluts-planned-us-bank-to-offer-stablecoins-alongside-fdic-insured-accounts-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Price predictions 6/3: BTC, ETH, BNB, XRP, SOL, HYPE, DOGE, ZEC, ADA, XLM
+
+**Author:** Cointelegraph by Rakesh Upadhyay  
+**Published:** 6/3/2026, 9:05:56 PM  
+**Categories:** Markets  
+
+Bitcoin is at risk of a drop below $65,000, but buyers are expected to mount a strong defense as the price nears the crucial $60,000 level.
+
+📖 [Read original article](https://cointelegraph.com/markets/price-predictions-63-btc-eth-bnb-xrp-sol-hype-doge-zec-ada-xlm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Crypto PAC-supported candidates sweep US state primaries after media buys
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 6/3/2026, 7:21:00 PM  
@@ -23,7 +83,7 @@ Nearly a dozen candidates across three US states won their primaries or will adv
 
 ---
 
-## 2. Agentic payment activity tops 100M transactions on Base
+## 7. Agentic payment activity tops 100M transactions on Base
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 6/3/2026, 5:54:33 PM  
@@ -35,7 +95,7 @@ New data suggests AI-driven payment rails are evolving beyond experimentation as
 
 ---
 
-## 3. Bitcoin copying 2022 'almost perfectly' as trader sees key support failing
+## 8. Bitcoin copying 2022 'almost perfectly' as trader sees key support failing
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/3/2026, 4:09:12 PM  
@@ -47,7 +107,7 @@ Bitcoin traders warned of a key BTC price support trend line failing as 2022 bea
 
 ---
 
-## 4. Crypto firms face July 1 EU cutoff as MiCA grace period ends
+## 9. Crypto firms face July 1 EU cutoff as MiCA grace period ends
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/3/2026, 4:01:06 PM  
@@ -59,7 +119,7 @@ The ESMA says crypto companies without MiCA authorization must stop serving EU c
 
 ---
 
-## 5. Hyperliquid bear turns bullish after losing over $46M shorting HYPE
+## 10. Hyperliquid bear turns bullish after losing over $46M shorting HYPE
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 6/3/2026, 4:00:40 PM  
@@ -71,7 +131,7 @@ The whale is now backing Arthur Hayes’ favored HYPE, ZEC and NEAR plays, signa
 
 ---
 
-## 6. Ethereum drops to 14-week lows: Can ETH price hold $1.8K support?
+## 11. Ethereum drops to 14-week lows: Can ETH price hold $1.8K support?
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 6/3/2026, 3:32:39 PM  
@@ -83,10 +143,10 @@ Ethereum price slides to a 14-week low as weakening demand and persistent ETF ou
 
 ---
 
-## 7. Here’s what happened in crypto today
+## 12. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
-**Published:** 6/3/2026, 3:23:52 PM  
+**Published:** 6/3/2026, 3:22:00 PM  
 **Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
 
 Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
@@ -95,7 +155,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 8. Binance discloses revenue-sharing deal with Alpaca
+## 13. Binance discloses revenue-sharing deal with Alpaca
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/3/2026, 3:05:30 PM  
@@ -107,7 +167,7 @@ A Binance legal document disclosed a revenue-sharing agreement with Alpaca, whic
 
 ---
 
-## 9. Binance to end NFT support on exchange, shift service to wallet
+## 14. Binance to end NFT support on exchange, shift service to wallet
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/3/2026, 2:47:23 PM  
@@ -119,7 +179,7 @@ Binance exchange said it will move NFT support from its exchange to its non-cust
 
 ---
 
-## 10. Kraken parent Payward brings tokenized IPO access to retail investors
+## 15. Kraken parent Payward brings tokenized IPO access to retail investors
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/3/2026, 2:40:50 PM  
@@ -131,7 +191,7 @@ Kraken and xStocks Alliance will let eligible users seek allocations in US IPOs 
 
 ---
 
-## 11. Zcash fixes Orchard bug after emergency network upgrade
+## 16. Zcash fixes Orchard bug after emergency network upgrade
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/3/2026, 2:33:30 PM  
@@ -143,7 +203,7 @@ Zcash Open Development Lab said the network briefly became unstable as miners up
 
 ---
 
-## 12. Trezor says Safe 7 chip flaw found by Ledger does not put funds at risk
+## 17. Trezor says Safe 7 chip flaw found by Ledger does not put funds at risk
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/3/2026, 2:14:04 PM  
@@ -155,7 +215,7 @@ Trezor and Tropic Square disclosed a TROPIC01 chip vulnerability found during a 
 
 ---
 
-## 13. Russian ruble stablecoin A7A5 grows despite Western sanctions: CertiK
+## 18. Russian ruble stablecoin A7A5 grows despite Western sanctions: CertiK
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/3/2026, 2:00:00 PM  
@@ -167,7 +227,7 @@ Russian ruble-backed stablecoin A7A5 processed over $110 billion in transactions
 
 ---
 
-## 14. UK regulator warns Premier League clubs over unauthorized crypto sponsors
+## 19. UK regulator warns Premier League clubs over unauthorized crypto sponsors
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/3/2026, 1:11:29 PM  
@@ -179,7 +239,7 @@ The FCA has urged clubs to rethink deals with unauthorized crypto and trading sp
 
 ---
 
-## 15. Mastercard expands support to USDC, PYUSD, RLUSD stablecoin settlement
+## 20. Mastercard expands support to USDC, PYUSD, RLUSD stablecoin settlement
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/3/2026, 11:48:55 AM  
@@ -191,7 +251,7 @@ The payments giant said USDC, PYUSD, RLUSD and other stablecoins will support ne
 
 ---
 
-## 16. Bitcoin's crash to $65K triggers $1.8B in crypto liquidations
+## 21. Bitcoin's crash to $65K triggers $1.8B in crypto liquidations
 
 **Author:** Cointelegraph by Nancy Lubale  
 **Published:** 6/3/2026, 10:48:51 AM  
@@ -203,7 +263,7 @@ Bitcoin's drop to $65,000 triggered over $1.8 billion in crypto liquidations as 
 
 ---
 
-## 17. Bitcoin has hit 'max fear' below $67K as analysis sees BTC price rebound
+## 22. Bitcoin has hit 'max fear' below $67K as analysis sees BTC price rebound
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/3/2026, 10:16:46 AM  
@@ -215,7 +275,7 @@ Bitcoin sparked two-month lows in the Crypto Fear & Greed Index while analysis p
 
 ---
 
-## 18. New York and EU’s finance watchdogs team up to police stablecoins
+## 23. New York and EU’s finance watchdogs team up to police stablecoins
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 6/3/2026, 6:58:05 AM  
@@ -227,7 +287,7 @@ Some of the information that New York and the European Union’s watchdogs will 
 
 ---
 
-## 19. Bitcoin falls below $66K as US and Iran launch new strikes
+## 24. Bitcoin falls below $66K as US and Iran launch new strikes
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/3/2026, 6:18:37 AM  
@@ -239,7 +299,7 @@ Bitcoin saw its largest daily drop since early February on Tuesday as the crypto
 
 ---
 
-## 20. US Treasury issues sanctions on Iran, targets 4 crypto exchanges
+## 25. US Treasury issues sanctions on Iran, targets 4 crypto exchanges
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 6/3/2026, 6:12:44 AM  
@@ -251,7 +311,7 @@ The sanctions come four days after Treasury Secretary Scott Bessent said the US 
 
 ---
 
-## 21. Modern robots impress, but are years away from replacing humans
+## 26. Modern robots impress, but are years away from replacing humans
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 6/3/2026, 5:01:35 AM  
@@ -263,7 +323,7 @@ AI robotics company Figure posted several videos on X throughout May showcasing 
 
 ---
 
-## 22. Crypto turns ‘contrarian bet’ as AI stocks draw investor attention: Bitwise
+## 27. Crypto turns ‘contrarian bet’ as AI stocks draw investor attention: Bitwise
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/3/2026, 4:31:07 AM  
@@ -275,7 +335,7 @@ AI robotics company Figure posted several videos on X throughout May showcasing 
 
 ---
 
-## 23. Cardano’s TapTools to wind down after 5 execs exit
+## 28. Cardano’s TapTools to wind down after 5 execs exit
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 6/3/2026, 2:45:56 AM  
@@ -287,7 +347,7 @@ Despite the planned wind-down, TapTools says it is open to being acquired or tak
 
 ---
 
-## 24. UK Lords warn BoE could regulate pound stablecoins into irrelevance
+## 29. UK Lords warn BoE could regulate pound stablecoins into irrelevance
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/3/2026, 12:01:00 AM  
