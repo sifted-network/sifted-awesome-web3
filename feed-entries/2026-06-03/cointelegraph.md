@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-03"
 date: "2026-06-03"
 source: "Cointelegraph"
-count: 23
+count: 16
 ---
 
 # Cointelegraph - 2026-06-03
 
-23 items collected.
+16 items collected.
 
 ---
 
@@ -143,19 +143,7 @@ Ethereum price slides to a 14-week low as weakening demand and persistent ETF ou
 
 ---
 
-## 12. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 6/3/2026, 3:22:00 PM  
-**Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Binance discloses revenue-sharing deal with Alpaca
+## 12. Binance discloses revenue-sharing deal with Alpaca
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/3/2026, 3:05:30 PM  
@@ -167,7 +155,7 @@ A Binance legal document disclosed a revenue-sharing agreement with Alpaca, whic
 
 ---
 
-## 14. Binance to end NFT support on exchange, shift service to wallet
+## 13. Binance to end NFT support on exchange, shift service to wallet
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/3/2026, 2:47:23 PM  
@@ -179,7 +167,7 @@ Binance exchange said it will move NFT support from its exchange to its non-cust
 
 ---
 
-## 15. Kraken parent Payward brings tokenized IPO access to retail investors
+## 14. Kraken parent Payward brings tokenized IPO access to retail investors
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/3/2026, 2:40:50 PM  
@@ -191,7 +179,7 @@ Kraken and xStocks Alliance will let eligible users seek allocations in US IPOs 
 
 ---
 
-## 16. Zcash fixes Orchard bug after emergency network upgrade
+## 15. Zcash fixes Orchard bug after emergency network upgrade
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/3/2026, 2:33:30 PM  
@@ -203,7 +191,7 @@ Zcash Open Development Lab said the network briefly became unstable as miners up
 
 ---
 
-## 17. Trezor says Safe 7 chip flaw found by Ledger does not put funds at risk
+## 16. Trezor says Safe 7 chip flaw found by Ledger does not put funds at risk
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/3/2026, 2:14:04 PM  
@@ -212,77 +200,5 @@ Zcash Open Development Lab said the network briefly became unstable as miners up
 Trezor and Tropic Square disclosed a TROPIC01 chip vulnerability found during a Ledger Donjon audit, saying the Safe 7 wallet and user funds remain secure.
 
 📖 [Read original article](https://cointelegraph.com/news/trezor-tropic-chip-flaw-ledger-donjon-funds-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Russian ruble stablecoin A7A5 grows despite Western sanctions: CertiK
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/3/2026, 2:00:00 PM  
-**Categories:** Latest News  
-
-Russian ruble-backed stablecoin A7A5 processed over $110 billion in transactions despite Western sanctions, according to CertiK.
-
-📖 [Read original article](https://cointelegraph.com/news/russian-ruble-stablecoin-growing-western-sanctions-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. UK regulator warns Premier League clubs over unauthorized crypto sponsors
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 6/3/2026, 1:11:29 PM  
-**Categories:** Latest News  
-
-The FCA has urged clubs to rethink deals with unauthorized crypto and trading sponsors, warning that fans risk losing all their money and teams face legal and reputational fallout.
-
-📖 [Read original article](https://cointelegraph.com/news/fca-warns-premier-league-clubs-over-crypto-trading-sponsors-targeting-fans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Mastercard expands support to USDC, PYUSD, RLUSD stablecoin settlement
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 6/3/2026, 11:48:55 AM  
-**Categories:** Latest News  
-
-The payments giant said USDC, PYUSD, RLUSD and other stablecoins will support new settlement options across multiple blockchains.
-
-📖 [Read original article](https://cointelegraph.com/news/mastercard-stablecoin-settlement-usdc-pyusd-rlusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Bitcoin's crash to $65K triggers $1.8B in crypto liquidations
-
-**Author:** Cointelegraph by Nancy Lubale  
-**Published:** 6/3/2026, 10:48:51 AM  
-**Categories:** Markets  
-
-Bitcoin's drop to $65,000 triggered over $1.8 billion in crypto liquidations as traders brace for a test of $60,000 as support.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoins-crash-to-65k-triggers-18b-in-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Bitcoin has hit 'max fear' below $67K as analysis sees BTC price rebound
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 6/3/2026, 10:16:46 AM  
-**Categories:** Markets  
-
-Bitcoin sparked two-month lows in the Crypto Fear & Greed Index while analysis predicted a "catch-up" with record highs in stocks.
-
-📖 [Read original article](https://cointelegraph.com/markets/crypto-extreme-fear-worst-in-two-months-as-analysis-sees-bitcoin-price-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. New York and EU’s finance watchdogs team up to police stablecoins
-
-**Author:** Cointelegraph by Stephen Katte  
-**Published:** 6/3/2026, 6:58:05 AM  
-**Categories:** Latest News  
-
-Some of the information that New York and the European Union’s watchdogs will share includes the issued stablecoins, total volume in circulation and the number of holders.
-
-📖 [Read original article](https://cointelegraph.com/news/new-york-eu-regulators-joint-stablecoin-oversight-agreement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
