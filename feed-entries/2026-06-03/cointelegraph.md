@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-03"
 date: "2026-06-03"
 source: "Cointelegraph"
-count: 16
+count: 11
 ---
 
 # Cointelegraph - 2026-06-03
 
-16 items collected.
+11 items collected.
 
 ---
 
@@ -140,65 +140,5 @@ The whale is now backing Arthur Hayes’ favored HYPE, ZEC and NEAR plays, signa
 Ethereum price slides to a 14-week low as weakening demand and persistent ETF outflows put the key $1,800 support at risk.
 
 📖 [Read original article](https://cointelegraph.com/markets/ethereum-drops-to-14-week-lows-can-eth-price-hold-18k-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Binance discloses revenue-sharing deal with Alpaca
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/3/2026, 3:05:30 PM  
-**Categories:** Latest News  
-
-A Binance legal document disclosed a revenue-sharing agreement with Alpaca, which includes sharing 50% of the stock custodian’s order flow revenue with the cryptocurrency exchange.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-partnership-tokenized-stock-custodian-alpaca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Binance to end NFT support on exchange, shift service to wallet
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/3/2026, 2:47:23 PM  
-**Categories:** Latest News  
-
-Binance exchange said it will move NFT support from its exchange to its non-custodial wallet and offered users 30 days to migrate their NFTs.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-exchange-halt-nft-services-binance-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Kraken parent Payward brings tokenized IPO access to retail investors
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 6/3/2026, 2:40:50 PM  
-**Categories:** Latest News  
-
-Kraken and xStocks Alliance will let eligible users seek allocations in US IPOs at the offering price through tokenized shares in coming weeks.
-
-📖 [Read original article](https://cointelegraph.com/news/kraken-payward-tokenized-ipo-access-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Zcash fixes Orchard bug after emergency network upgrade
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 6/3/2026, 2:33:30 PM  
-**Categories:** Latest News  
-
-Zcash Open Development Lab said the network briefly became unstable as miners upgraded, while the Zcash Foundation said there was no evidence of an exploit.
-
-📖 [Read original article](https://cointelegraph.com/news/zcash-orchard-vulnerability-emergency-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Trezor says Safe 7 chip flaw found by Ledger does not put funds at risk
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 6/3/2026, 2:14:04 PM  
-**Categories:** Latest News  
-
-Trezor and Tropic Square disclosed a TROPIC01 chip vulnerability found during a Ledger Donjon audit, saying the Safe 7 wallet and user funds remain secure.
-
-📖 [Read original article](https://cointelegraph.com/news/trezor-tropic-chip-flaw-ledger-donjon-funds-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
