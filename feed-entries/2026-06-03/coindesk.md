@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-03"
 date: "2026-06-03"
 source: "CoinDesk"
-count: 22
+count: 17
 ---
 
 # CoinDesk - 2026-06-03
 
-22 items collected.
+17 items collected.
 
 ---
 
@@ -83,7 +83,7 @@ In this week's Crypto Long & Short, Alex Tapscott on the stalling of the CLARITY
 
 ---
 
-## 7. Every single bank will soon need to hold digital assets, says Zodia CEO Julian Sawyer
+## 7. Every single bank will soon need to hold digital assets, says Zodia Custody CEO Julian Sawyer
 
 **Author:** Olivier Acuna  
 **Published:** 6/3/2026, 3:08:41 PM  
@@ -212,65 +212,5 @@ The power law model shows BTC trading at one of its deepest discounts relative t
 The Nasdaq-listed fund charges a 0.29% sponsor fee, undercutting rival Hyperliquid ETFs from 21Shares and Bitwise.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/03/grayscale-launches-lowest-fee-u-s-hyperliquid-etf-as-competition-heats-up-around-hype)
-
----
-
-## 18. Payment giants Stripe, Visa, Mastercard said to be among backers of soon-to-debut stablecoin platform
-
-**Author:** Ian Allison  
-**Published:** 6/3/2026, 11:47:36 AM  
-**Categories:** Finance, Stablecoins, Coinbase, Exclusive, News  
-
-U.S. crypto exchange Coinbase is also said to be looking into the possibility of participating in the new stablecoin platform.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/03/payment-giants-stripe-visa-mastercard-said-to-be-among-backers-of-soon-to-debut-stablecoin-platform)
-
----
-
-## 19. Crypto PACs go undefeated in June primaries as Fairshake scores bipartisan winning streak
-
-**Author:** Sam Reynolds  
-**Published:** 6/3/2026, 11:46:59 AM  
-**Categories:** Policy, PACs, News  
-
-Winners included Democrats Zoe Lofgren, Ted Lieu, Dave Min and Rob Menendez, as well as Republican Sen. Mike Rounds, with Democrats accounting for 10 of the 11 victories.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/03/fairshake-goes-11-for-11-in-june-primaries-as-crypto-broadens-bipartisan-coalition)
-
----
-
-## 20. Bitcoin momentum gauge hints at recovery. Experts remain cautious.
-
-**Author:** Omkar Godbole  
-**Published:** 6/3/2026, 11:19:52 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for June 3, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/06/03/bitcoin-momentum-gauge-hints-at-recovery-experts-remain-cautious)
-
----
-
-## 21. Bitcoin steadies at $67,000, faces critical juncture after sliding 9.5% in seven days
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 6/3/2026, 10:41:23 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-The recovery does little to mask a 9.5% weekly decline as U.S. stocks hit records highs, AI tokens rally and Coinbase's Ethena deal steals the spotlight.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/03/bitcoin-steadies-at-usd67-000-faces-critical-juncture-after-sliding-9-5-in-seven-days)
-
----
-
-## 22. Apparent Zcash outage was a block explorer problem, infrastructure provider says
-
-**Author:** Omkar Godbole  
-**Published:** 6/3/2026, 10:22:36 AM  
-**Categories:** Tech, Privacy, News  
-
-One expert said the issue was mainly with block explorers tracking the onchain activity.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/03/privacy-focused-zcash-blockchain-has-not-produced-a-block-for-four-hours)
 
 ---
