@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-02"
 date: "2026-06-02"
 source: "Cointelegraph"
-count: 6
+count: 1
 ---
 
 # Cointelegraph - 2026-06-02
 
-6 items collected.
+1 items collected.
 
 ---
 
@@ -20,65 +20,5 @@ count: 6
 The three members of Congress said the volatility of digital assets and “lack of regulation and safeguards” could put Americans’ retirement savings at risk.
 
 📖 [Read original article](https://cointelegraph.com/news/democrats-labor-department-digital-assets-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. SEC makes digital assets strategic priority through 2030
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 6/2/2026, 10:17:11 PM  
-**Categories:** Latest News  
-
-The regulator’s five-year roadmap calls for clearer crypto rules, support for tokenization and a framework for staking and onchain markets.
-
-📖 [Read original article](https://cointelegraph.com/news/sec-makes-digital-assets-strategic-priority-through-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Crypto correction vaporized $176B in investor funds: Are bears back in control?
-
-**Author:** Cointelegraph by Marcel Pechman  
-**Published:** 6/2/2026, 9:16:33 PM  
-**Categories:** Markets  
-
-Bitcoin and altcoin prices crumbled as BTC lost the $70,000 level. Will investors’ pivot to AI stocks continue to weigh on crypto markets?
-
-📖 [Read original article](https://cointelegraph.com/markets/crypto-correction-vaporized-176b-in-investor-funds-are-bears-back-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Crypto PACs pour $3M into Maryland races as California voters head to polls
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 6/2/2026, 9:06:39 PM  
-**Categories:** Latest News  
-
-An affiliate of a political action committee backed by crypto companies ramped up spending on ads in California ahead of Tuesday’s primaries, but still has millions of dollars at stake in Maryland later this month.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-pacs-maryland-races-media-buys-california-primaries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Coinbase invests in ProShares ETF tailored for stablecoin reserve assets
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 6/2/2026, 8:09:26 PM  
-**Categories:** Latest News  
-
-The exchange has invested an undisclosed amount in ProShares’ Treasury-focused ETF built for the post-GENIUS era as lawmakers debate whether stablecoin issuers can offer yield-bearing products.
-
-📖 [Read original article](https://cointelegraph.com/news/coinbase-invests-proshares-etf-tailored-stablecoin-reserve-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Bitcoin’s $224K ‘fair value’ may emerge if sovereign debt fears deepen: Bitwise
-
-**Author:** Cointelegraph by Biraajmaan Tamuly  
-**Published:** 6/2/2026, 7:28:01 PM  
-**Categories:** Markets  
-
-A sovereign default-risk model estimates Bitcoin’s fair value at $224,000, as rising debt risks and bond-market stress could strengthen the asset’s long-term investment case.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoins-224k-fair-value-could-emerge-if-sovereign-debt-fears-deepen-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
