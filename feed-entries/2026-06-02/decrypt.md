@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-02"
 date: "2026-06-02"
 source: "Decrypt"
-count: 13
+count: 12
 ---
 
 # Decrypt - 2026-06-02
 
-13 items collected.
+12 items collected.
 
 ---
 
@@ -152,17 +152,5 @@ Hive mined nearly 2,900 Bitcoin last year and is now racing to build what it cal
 Crypto analysts say investors should look closely at each company's financial situation rather than expecting a cascade of incoming sales.
 
 📖 [Read original article](https://decrypt.co/369732/strategys-bitcoin-sale-not-watershed-for-treasury-firms-analysts-say)
-
----
-
-## 13. Bitcoin Traders Flip Bearish as BTC Falls to Lowest Price in Months
-
-**Author:** Logan Hitchcock  
-**Published:** 6/2/2026, 3:35:54 PM  
-**Categories:** , Markets  
-
-Myriad predictors think it's increasingly likely that Bitcoin's next stop is $55,000 rather than $84,000 as BTC continues its slide.
-
-📖 [Read original article](https://decrypt.co/369728/bitcoin-traders-flip-bearish-btc-lowest-price-months)
 
 ---
