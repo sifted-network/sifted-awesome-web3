@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-02"
 date: "2026-06-02"
 source: "Decrypt"
-count: 16
+count: 13
 ---
 
 # Decrypt - 2026-06-02
 
-16 items collected.
+13 items collected.
 
 ---
 
@@ -164,41 +164,5 @@ Crypto analysts say investors should look closely at each company's financial si
 Myriad predictors think it's increasingly likely that Bitcoin's next stop is $55,000 rather than $84,000 as BTC continues its slide.
 
 📖 [Read original article](https://decrypt.co/369728/bitcoin-traders-flip-bearish-btc-lowest-price-months)
-
----
-
-## 14. Anthropic Expands Access to Claude Mythos After AI Giant Files for IPO
-
-**Author:** Jason Nelson  
-**Published:** 6/2/2026, 3:29:05 PM  
-**Categories:** Artificial Intelligence  
-
-Just a day after the nearly $1 trillion AI giant revealed IPO plans, Anthropic is letting more firms access its powerful Claude Mythos model.
-
-📖 [Read original article](https://decrypt.co/369725/anthropic-expands-access-claude-mythos-ai-giant-files-ipo)
-
----
-
-## 15. Andrew Yang's Noble Acquires Crypto-Fueled Helium Mobile Service
-
-**Author:** Logan Hitchcock  
-**Published:** 6/2/2026, 2:24:57 PM  
-**Categories:** helium, , Business  
-
-Crypto-powered cell service Helium Mobile has been acquired by Andrew Yang's Noble, which will also utilize the underlying Helium network.
-
-📖 [Read original article](https://decrypt.co/369716/andrew-yang-noble-acquires-crypto-fueled-helium-mobile-service)
-
----
-
-## 16. Mt. Gox Moves $739M in Bitcoin as Repayment Deadline Looms
-
-**Author:** Vince Dioquino  
-**Published:** 6/2/2026, 1:25:53 PM  
-**Categories:** , Coins  
-
-The defunct exchange still has about 35,000 BTC left to distribute, though the latest transfer does not show a sale.
-
-📖 [Read original article](https://decrypt.co/369714/mt-gox-moves-739m-in-bitcoin-as-repayment-deadline-looms)
 
 ---
