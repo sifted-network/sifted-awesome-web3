@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-03"
 date: "2026-06-03"
 source: "The Block"
-count: 18
+count: 15
 ---
 
 # The Block - 2026-06-03
 
-18 items collected.
+15 items collected.
 
 ---
 
@@ -188,41 +188,5 @@ Expected in the coming weeks, customers of Kraken and select xStocks partners ca
 Ledger's Donjon team found a laser-based hardware flaw in the TROPIC01 chip used in the Trezor Safe 7, but Trezor says no funds are at risk.
 
 📖 [Read original article](https://www.theblock.co/post/403492/ledger-researchers-find-flaw-in-chip-used-by-trezor-safe-7-trezor-says-user-funds-safe?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Grayscale gets behind the hype, launching its HYPG Hyperliquid ETF on Nasdaq
-
-**Author:** Sarah Wynn  
-**Published:** 6/3/2026, 12:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Finance firms, Legal, Policy, Regulation, hyperliquid etf, SEC  
-
-Grayscale entered the ring with its own Hyperliquid linked ETF, setting a new low for fees as competition intensifies among firms.
-
-📖 [Read original article](https://www.theblock.co/post/403428/grayscale-behind-hype-launching-hypg-hyperliquid-etf-nasdaq?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. DOJ, CFTC probe George Santos over Kalshi trades tied to State of the Union appearance: report
-
-**Author:** Brian Danga  
-**Published:** 6/3/2026, 11:06:31 AM  
-**Categories:** Legal, Policy, congressman, Crime, insider-trading, Kalshi, prediction-markets  
-
-DOJ and CFTC are investigating George Santos after Kalshi flagged trades where he allegedly bet against his own State of the Union attendance.
-
-📖 [Read original article](https://www.theblock.co/post/403486/doj-cftc-probe-george-santos-over-kalshi-trades-tied-to-state-of-the-union-appearance-report?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. Binance winds down centralized NFT service, gives users one month to withdraw assets
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/3/2026, 10:52:41 AM  
-**Categories:** Companies, Exchanges, Markets, Metaverse & NFT, Binance, nfts  
-
-Binance is closing its centralized NFT service on July 3, 2026, requiring users to withdraw transferable NFTs or lose access.
-
-📖 [Read original article](https://www.theblock.co/post/403483/binance-winds-down-centralized-nft-service-gives-users-one-month-to-withdraw-assets?utm_source=rss&utm_medium=rss)
 
 ---
