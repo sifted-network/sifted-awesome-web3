@@ -2,16 +2,28 @@
 title: "The Block - 2026-06-03"
 date: "2026-06-03"
 source: "The Block"
-count: 19
+count: 18
 ---
 
 # The Block - 2026-06-03
 
-19 items collected.
+18 items collected.
 
 ---
 
-## 1. Crypto VC deal count slumps to five-year low as investors grow more selective
+## 1. Hyperliquid’s HYPE overtakes Solana in price as SOL falls to lowest levels since 2023
+
+**Author:** Kyle Baird  
+**Published:** 6/3/2026, 8:57:29 PM  
+**Categories:** Crypto Ecosystems, DeFi, Market Updates, Markets, The Block, Crypto Movers, Derivatives, hype, hyperliquid, sol  
+
+Hyperliquid's market capitalization has climbed to over $16 billion, but still well behind Solana's $42 billion.
+
+📖 [Read original article](https://www.theblock.co/post/403585/hyperliquid-hype-overtakes-solana-price-sol-falls-lowest-since-2023?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Crypto VC deal count slumps to five-year low as investors grow more selective
 
 **Author:** Ivan Wu and Bryan Samsoedin  
 **Published:** 6/3/2026, 7:42:03 PM  
@@ -23,7 +35,7 @@ Monthly venture deal count in crypto fell to roughly 50 deals in May, a level no
 
 ---
 
-## 2. EdgeX offers refunds and launches 200,000 USDC bounty after 71% token flash crash
+## 3. EdgeX offers refunds and launches 200,000 USDC bounty after 71% token flash crash
 
 **Author:** Daniel Kuhn  
 **Published:** 6/3/2026, 4:56:29 PM  
@@ -35,7 +47,7 @@ EdgeX says that 174 addresses flooded a PancakeSwap pool with EDGE token sell or
 
 ---
 
-## 3. Hyperliquid hits record share of global perps market as HIP-3 tops $62 billion monthly volume
+## 4. Hyperliquid hits record share of global perps market as HIP-3 tops $62 billion monthly volume
 
 **Author:** Ivan Wu and Bryan Samsoedin  
 **Published:** 6/3/2026, 4:56:02 PM  
@@ -47,7 +59,7 @@ Despite the bullish sentiment on HIP-3, Hyperliquid's pure crypto volumes are do
 
 ---
 
-## 4. Bessent backs summer push for Clarity Act, says bitcoin reserve moving at ‘deliberate speed’
+## 5. Bessent backs summer push for Clarity Act, says bitcoin reserve moving at ‘deliberate speed’
 
 **Author:** Sarah Wynn  
 **Published:** 6/3/2026, 4:36:45 PM  
@@ -59,7 +71,7 @@ Treasury Secretary Scott Bessent said the department is moving at a "deliberate 
 
 ---
 
-## 5. Solayer rolls out Solana-native onchain perps trading platform Margin Trade mainnet
+## 6. Solayer rolls out Solana-native onchain perps trading platform Margin Trade mainnet
 
 **Author:** Daniel Kuhn  
 **Published:** 6/3/2026, 4:00:00 PM  
@@ -71,7 +83,7 @@ Margin Trade enables trading of crypto, commodities, and equities via a single m
 
 ---
 
-## 6. Sen. Lummis says JPMorgan CEO Jamie Dimon hasn’t read Clarity Act, calls remarks ‘distasteful’
+## 7. Sen. Lummis says JPMorgan CEO Jamie Dimon hasn’t read Clarity Act, calls remarks ‘distasteful’
 
 **Author:** RT Watson  
 **Published:** 6/3/2026, 3:37:39 PM  
@@ -83,7 +95,7 @@ Republican Senator Lummis said the JPMorgan CEO "either hasn't read" the Clarity
 
 ---
 
-## 7. Revolut’s US bank to offer stablecoin services alongside FDIC-insured products: Reuters
+## 8. Revolut’s US bank to offer stablecoin services alongside FDIC-insured products: Reuters
 
 **Author:** Daniel Kuhn  
 **Published:** 6/3/2026, 3:02:44 PM  
@@ -95,7 +107,7 @@ Revolut U.S. CEO Cetin Duransoy told Reuters the company plans to offer access t
 
 ---
 
-## 8. Crypto industry launches PAC focused on software developer safeguards as elections near
+## 9. Crypto industry launches PAC focused on software developer safeguards as elections near
 
 **Author:** Sarah Wynn  
 **Published:** 6/3/2026, 2:35:24 PM  
@@ -107,7 +119,7 @@ A new cryptocurrency-focused PAC has emerged, this time with an exclusive focus 
 
 ---
 
-## 9. Tether launching tokenized gold Visa card with XAUT rewards
+## 10. Tether launching tokenized gold Visa card with XAUT rewards
 
 **Author:** RT Watson  
 **Published:** 6/3/2026, 2:27:56 PM  
@@ -119,7 +131,7 @@ The card will operate on the Visa network, enabling users to spend fiat at merch
 
 ---
 
-## 10. IREN plants flag in Australia with its first data center campus to serve Asia-Pacific AI demand
+## 11. IREN plants flag in Australia with its first data center campus to serve Asia-Pacific AI demand
 
 **Author:** Kyle Baird  
 **Published:** 6/3/2026, 2:05:57 PM  
@@ -131,7 +143,7 @@ The announcement comes days after IREN secured $3.65 billion in financing to sup
 
 ---
 
-## 11. Variant raises $222 million fund targeting early stage crypto, AI startups that expand ‘autonomy’
+## 12. Variant raises $222 million fund targeting early stage crypto, AI startups that expand ‘autonomy’
 
 **Author:** Daniel Kuhn  
 **Published:** 6/3/2026, 1:54:21 PM  
@@ -143,7 +155,7 @@ Variant founder Jesse Walden said the firm is targeting firms that expand autono
 
 ---
 
-## 12. House of Lords committee urges UK regulators to ease stablecoin rules that could stifle market growth
+## 13. House of Lords committee urges UK regulators to ease stablecoin rules that could stifle market growth
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/3/2026, 12:47:15 PM  
@@ -155,7 +167,7 @@ A UK House of Lords committee warned that Britain lags the U.S. and the EU on st
 
 ---
 
-## 13. Kraken to offer tokenized US IPO access for global retail investors via xStocks
+## 14. Kraken to offer tokenized US IPO access for global retail investors via xStocks
 
 **Author:** James Hunt  
 **Published:** 6/3/2026, 12:30:00 PM  
@@ -167,7 +179,7 @@ Expected in the coming weeks, customers of Kraken and select xStocks partners ca
 
 ---
 
-## 14. Ledger researchers find flaw in chip used by Trezor Safe 7; Trezor says user funds safe
+## 15. Ledger researchers find flaw in chip used by Trezor Safe 7; Trezor says user funds safe
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/3/2026, 12:25:07 PM  
@@ -179,7 +191,7 @@ Ledger's Donjon team found a laser-based hardware flaw in the TROPIC01 chip used
 
 ---
 
-## 15. Grayscale gets behind the hype, launching its HYPG Hyperliquid ETF on Nasdaq
+## 16. Grayscale gets behind the hype, launching its HYPG Hyperliquid ETF on Nasdaq
 
 **Author:** Sarah Wynn  
 **Published:** 6/3/2026, 12:00:00 PM  
@@ -191,7 +203,7 @@ Grayscale entered the ring with its own Hyperliquid linked ETF, setting a new lo
 
 ---
 
-## 16. DOJ, CFTC probe George Santos over Kalshi trades tied to State of the Union appearance: report
+## 17. DOJ, CFTC probe George Santos over Kalshi trades tied to State of the Union appearance: report
 
 **Author:** Brian Danga  
 **Published:** 6/3/2026, 11:06:31 AM  
@@ -203,7 +215,7 @@ DOJ and CFTC are investigating George Santos after Kalshi flagged trades where h
 
 ---
 
-## 17. Binance winds down centralized NFT service, gives users one month to withdraw assets
+## 18. Binance winds down centralized NFT service, gives users one month to withdraw assets
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/3/2026, 10:52:41 AM  
@@ -212,29 +224,5 @@ DOJ and CFTC are investigating George Santos after Kalshi flagged trades where h
 Binance is closing its centralized NFT service on July 3, 2026, requiring users to withdraw transferable NFTs or lose access.
 
 📖 [Read original article](https://www.theblock.co/post/403483/binance-winds-down-centralized-nft-service-gives-users-one-month-to-withdraw-assets?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. UK regulator warns soccer clubs over sponsorship deals with unauthorized crypto firms
-
-**Author:** Timmy Shen  
-**Published:** 6/3/2026, 9:39:56 AM  
-**Categories:** International Policymaking, Policy, Regulation, FCA  
-
-The FCA instructed clubs to ensure they understand the source of sponsorship funds and assess financial crime and reputational risks.
-
-📖 [Read original article](https://www.theblock.co/post/403478/uk-fca-warns-soccer-clubs-crypto-sponsorship?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. Mastercard expands stablecoin settlement options with USDC, PYUSD and RLUSD
-
-**Author:** Brian Danga  
-**Published:** 6/3/2026, 8:57:56 AM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Stablecoins, Circle, circle usdc, Fintech, mastercard, paxos stablecoin, Payments, pyusd, USDC  
-
-Mastercard expanded settlement to USDC, PYUSD, and RLUSD, enabling intraday, weekend, and holiday card settlement across its payments network.
-
-📖 [Read original article](https://www.theblock.co/post/403474/mastercard-expands-stablecoin-settlement-options-with-usdc-pyusd-and-rlusd?utm_source=rss&utm_medium=rss)
 
 ---
