@@ -23,13 +23,13 @@ US Comptroller of the Currency Jonathan Gould and New York Representative Gregor
 
 ---
 
-## 2. Bitcoin fell 21% after Strategy’s debt buyback news— Is a Terra Luna-style doom loop next?
+## 2. Bitcoin fell 21% after Strategy’s debt buyback news: Is Terra Luna-style doom loop next?
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 6/4/2026, 8:37:58 PM  
 **Categories:** Markets  
 
-Bitcoin price collapsed as Strategy faced tighter liquidity conditions and paused its BTC buying. Is it time to jump ship, or buy the dip?
+Bitcoin price collapsed as Strategy faced tighter liquidity conditions and paused its BTC buying. Is it time to jump ship or buy the dip?
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-fell-21-after-strategys-debt-buyback-news-is-a-terra-luna-style-doom-loop-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
