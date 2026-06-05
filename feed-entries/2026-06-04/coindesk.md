@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-04"
 date: "2026-06-04"
 source: "CoinDesk"
-count: 19
+count: 12
 ---
 
 # CoinDesk - 2026-06-04
 
-19 items collected.
+12 items collected.
 
 ---
 
@@ -152,89 +152,5 @@ Bitcoin's drop reflects capital rotation into AI, Saylor argues, but the bears h
 Amid the crypto price crash, a handful of tokens have been performing well, but they're tumbling now as Arthur Hayes exits.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/04/live-markets-saylor-speaks-as-bitcoin-plunges-to-usd62-000)
-
----
-
-## 13. Moomoo expands into prediction markets through Kalshi partnership
-
-**Author:** Will Canny,AI Boost  
-**Published:** 6/4/2026, 12:00:00 PM  
-**Categories:** Finance, Moomoo, Kalshi, Exclusive, Prediction Markets, News  
-
-Retail trading platform moomoo has partnered with Kalshi to offer CFTC-regulated event contracts tied to economic data, elections and major sporting events directly within its app.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/04/moomoo-expands-into-prediction-markets-through-kalshi-partnership)
-
----
-
-## 14. Russia sanctions British teenager for alleging A7A5 use in funding Ukraine war
-
-**Author:** Jamie Crawley  
-**Published:** 6/4/2026, 11:51:53 AM  
-**Categories:** Policy, Stablecoins, News  
-
-The A7A5 stablecoin was designed to bypass sanctions imposed on Russia following its invasion of Ukraine in 2022.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/04/russia-sanctions-british-teenager-for-alleging-a7a5-use-in-funding-ukraine-war)
-
----
-
-## 15. Standard Chartered's three 'Ifs' that stand between bitcoin and a market low
-
-**Author:** Omkar Godbole  
-**Published:** 6/4/2026, 11:23:10 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for June 4, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/06/04/standard-chartered-s-three-ifs-that-stand-between-bitcoin-and-a-market-low)
-
----
-
-## 16. JPMorgan warns time is running short for crypto market structure bill
-
-**Author:** Will Canny,AI Boost  
-**Published:** 6/4/2026, 11:10:16 AM  
-**Categories:** Policy, Clarity Act, Market Structure Legislation, JPMorgan, News  
-
-The Clarity Act still faces several legislative hurdles, and disputes over stablecoin yield have emerged as a key sticking point, the bank said.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/04/jpmorgan-warns-time-is-running-short-for-crypto-market-structure-bill)
-
----
-
-## 17. Bitcoin steadies above $60,000 while derivatives send an unambiguous warning
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 6/4/2026, 11:02:18 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-BTC crashed to $61,300 before recovering to $62,500 with $3 billion in liquidations over two days. Traders loaded up on $60,000 puts in anticipation of further declines.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/04/bitcoin-steadies-above-usd60-000-while-derivatives-send-an-unambiguous-warning)
-
----
-
-## 18. This bitcoin metric has marked every bear market bottom, and it's just flashed again
-
-**Author:** James Van Straten  
-**Published:** 6/4/2026, 10:20:29 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-More than half of the bitcoin in circulation is sitting on unrealized losses as the BTC price tests historically significant bear-market support levels.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/04/this-bitcoin-metric-has-marked-every-bear-market-bottom-and-it-s-just-flashed-again)
-
----
-
-## 19. Cardano slumps under 20 cents as Hoskinson says he is 'taking a break' after warning of ecosystem failures
-
-**Author:** Sam Reynolds  
-**Published:** 6/4/2026, 7:59:58 AM  
-**Categories:** Markets, Cardano, News  
-
-Hoskinson's remarks followed a string of setbacks for the ecosystem, including the cancellation of Cardano's flagship conference and the shutdown of a prominent analytics platform.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/04/cardano-slumps-under-20-cents-as-hoskinson-steps-away-after-warning-of-ecosystem-failures)
 
 ---
