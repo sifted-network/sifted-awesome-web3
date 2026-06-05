@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-04"
 date: "2026-06-04"
 source: "The Block"
-count: 15
+count: 11
 ---
 
 # The Block - 2026-06-04
 
-15 items collected.
+11 items collected.
 
 ---
 
@@ -140,53 +140,5 @@ DeFi exploit losses fell 74% from the 2022 peak to $680 million in 2025, accordi
 Coinbase and Better have funded the first Fannie Mae-backed mortgage using bitcoin as collateral, with a nationwide rollout planned soon.
 
 📖 [Read original article](https://www.theblock.co/post/403640/coinbase-better-first-bitcoin-backed-mortgage-nationwide-rollout-soon?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. ‘When the market offers discounts, we lean in’: DDC Enterprise lifts bitcoin holdings to 2,804 BTC
-
-**Author:** Brian Danga  
-**Published:** 6/4/2026, 12:18:55 PM  
-**Categories:** Companies, Market Updates, Markets, Public Equities, Token Projects, Bitcoin, bitcoin treasury company, DDC  
-
-DDC Enterprise added 90 bitcoin, raising its total holdings to 2,804 BTC and reaching 28th among public corporate holders.
-
-📖 [Read original article](https://www.theblock.co/post/403642/when-the-market-offers-discounts-we-lean-in-ddc-enterprise-lifts-bitcoin-holdings-to-2804-btc?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. ‘The power landlords of AI’: Bernstein initiates coverage on bitcoin miners TeraWulf and Cipher Digital, sees ninefold AI revenue by 2030
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/4/2026, 11:51:12 AM  
-**Categories:** Companies, Equities, Markets, Analyst Reports, bernstein, bitcoin-miners, Cipher Digital, Equity Movers, terawulf  
-
-Bernstein initiates TeraWulf and Cipher Digital at Outperform with $36 and $32 price targets, projecting AI revenue to grow ninefold by 2030.
-
-📖 [Read original article](https://www.theblock.co/post/403636/the-power-landlords-of-ai-bernstein-initiates-coverage-on-bitcoin-miners-terawulf-and-cipher-digital-sees-ninefold-ai-revenue-by-2030?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. ‘The low is almost in’: Standard Chartered says bitcoin bottom near after tough week for crypto
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/4/2026, 10:27:10 AM  
-**Categories:** Equities, Market Recap, Market Updates, Markets, Analyst Reports, Crypto Movers, standard-chartered  
-
-Standard Chartered said bitcoin's low is "almost in," citing resilient ETF holdings and likely Strategy buybacks after a painful week for crypto.
-
-📖 [Read original article](https://www.theblock.co/post/403625/the-low-is-almost-in-standard-chartered-says-bitcoin-bottom-near-after-tough-week-for-crypto?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Coinbase launches pre-IPO perpetual futures, starting with SpaceX
-
-**Author:** Yogita Khatri  
-**Published:** 6/4/2026, 10:00:00 AM  
-**Categories:** Companies, Crypto Ecosystems, Exchanges, Markets, Public Equities, Web3, AI, Coinbase, Crypto  
-
-Coinbase has entered the pre-IPO perpetual futures market, starting with a SpaceX contract, offering up to 5x leverage.
-
-📖 [Read original article](https://www.theblock.co/post/403620/coinbase-pre-ipo-perpetual-futures-spacex?utm_source=rss&utm_medium=rss)
 
 ---
