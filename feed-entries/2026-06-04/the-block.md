@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-04"
 date: "2026-06-04"
 source: "The Block"
-count: 11
+count: 4
 ---
 
 # The Block - 2026-06-04
 
-11 items collected.
+4 items collected.
 
 ---
 
@@ -56,89 +56,5 @@ The allocation comes from a mix of ether.fi's liquidity provider base and manage
 JPMorgan analysts said the crypto market structure bill, or Clarity Act, may have only a narrow window for passage this year.
 
 📖 [Read original article](https://www.theblock.co/post/403676/jpmorgan-crypto-bill-narrow-window-passage-this-year?utm_source=rss&utm_medium=rss)
-
----
-
-## 5. Senate Republicans urged financial regulators to rework bank capital rules for digital assets
-
-**Author:** Sarah Wynn  
-**Published:** 6/4/2026, 2:54:53 PM  
-**Categories:** Central Banks, Legal, Policy, Regulation, U.S. Policymaking, Congress, FDIC, Federal Reserve, House Financial Services Committee, OCC, Senate Banking Committee  
-
-A group of Senate Republicans is pressing key financial regulatory agencies to clarify capital standards for digital assets.
-
-📖 [Read original article](https://www.theblock.co/post/403671/senate-republicans-urged-financial-regulators-to-rework-bank-capital-rules-for-digital-assets?utm_source=rss&utm_medium=rss)
-
----
-
-## 6. Travala unveils agentic AI travel protocol with gasless USDC payments on Base
-
-**Author:** Brian Danga  
-**Published:** 6/4/2026, 2:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Infrastructure, Layer 2s and Scaling, Stablecoins, ai-agents, Base, Developer tools, travala, USDC  
-
-Travala introduced an agentic AI travel protocol on Base supporting gasless USDC hotel bookings and AI-assisted payment execution.
-
-📖 [Read original article](https://www.theblock.co/post/402860/travala-debuts-agentic-ai-travel-protocol-with-gasless-usdc-payments-on-base?utm_source=rss&utm_medium=rss)
-
----
-
-## 7. ‘The rally that wasn’t’: Bitcoin slides 14% in one week as ETF outflows, Strategy sale and oil prices hit sentiment
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/4/2026, 1:58:53 PM  
-**Categories:** Equities, Market Recap, Market Updates, Markets, Analyst Reports, bear-market, Crypto Movers  
-
-Bitcoin falls 13% to near $62K as Strategy's BTC sale, $4.2B in ETF outflows and macro headwinds pressure crypto markets.
-
-📖 [Read original article](https://www.theblock.co/post/403659/the-rally-that-wasnt-bitcoin-slides-14-in-one-week-as-etf-outflows-strategy-sale-and-oil-prices-hit-sentiment?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. Visa, Brale test privacy-enabled SBC stablecoin settlement on Canton Network
-
-**Author:** Brian Danga  
-**Published:** 6/4/2026, 1:34:02 PM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Stablecoins, blockchain-payments, Canton Network, Payments, privacy, Tether, USDC, visa  
-
-Visa and Brale initiate a proof of concept testing SBC stablecoin settlement with privacy controls on the Canton Network.
-
-📖 [Read original article](https://www.theblock.co/post/403658/visa-brale-test-privacy-enabled-sbc-stablecoin-settlement-on-canton-network?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. Cosmos Labs acquires block explorer Mintscan, forms Korea subsidiary to expand ecosystem
-
-**Author:** Yogita Khatri  
-**Published:** 6/4/2026, 1:00:00 PM  
-**Categories:** Bridges, Companies, Crypto Ecosystems, Crypto Infrastructure, Deals, DeFi, Infrastructure, Layer 1s, Layer 2s and Scaling, Markets, Mergers & Acquisitions, Startups, Token Projects, Web3, Asia, Assets, Cosmos, Crypto, Decentralized Infrastructure, Developer tools, Interoperability, Protocols, Tokens  
-
-Cosmos Labs has acquired Cosmos block explorer Mintscan and formed a new Korea-based subsidiary, Cosmos Labs Korea.
-
-📖 [Read original article](https://www.theblock.co/post/403652/cosmos-labs-acquires-mintscan-forms-korea-subsidiary?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Immunefi says DeFi is ‘getting safer’ as exploit losses fall 74% from 2022 peak amid AI-driven security arms race
-
-**Author:** Brian Danga  
-**Published:** 6/4/2026, 1:00:00 PM  
-**Categories:** Crypto Ecosystems, DeFi, Security, Web3, Decentralized Infrastructure, defi-attacks, defi-exploits, DEXs, Exploits, Hacks, immunefi, Protocols  
-
-DeFi exploit losses fell 74% from the 2022 peak to $680 million in 2025, according to Immunefi, amid structural security shifts.
-
-📖 [Read original article](https://www.theblock.co/post/403624/immunefi-says-defi-is-getting-safer-as-exploit-losses-fall-74-from-2022-peak-amid-ai-driven-security-arms-race?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Coinbase and Better fund first bitcoin-backed mortgage, plan nationwide rollout soon
-
-**Author:** Yogita Khatri  
-**Published:** 6/4/2026, 12:40:00 PM  
-**Categories:** Companies, Exchanges, Markets, Token Projects, Bitcoin, Coinbase, Tokens, USDC  
-
-Coinbase and Better have funded the first Fannie Mae-backed mortgage using bitcoin as collateral, with a nationwide rollout planned soon.
-
-📖 [Read original article](https://www.theblock.co/post/403640/coinbase-better-first-bitcoin-backed-mortgage-nationwide-rollout-soon?utm_source=rss&utm_medium=rss)
 
 ---
