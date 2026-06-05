@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-03"
 date: "2026-06-03"
 source: "Decrypt"
-count: 18
+count: 15
 ---
 
 # Decrypt - 2026-06-03
 
-18 items collected.
+15 items collected.
 
 ---
 
@@ -188,41 +188,5 @@ With STRC trading under $100, experts are at odds over whether the sale has expo
 A Zcash vulnerability could have allowed double-spending within the network's flagship privacy pool, though no exploitation occurred.
 
 📖 [Read original article](https://decrypt.co/369896/zcash-completes-most-ambitious-network-upgrade-zec-resumes-recent-surge)
-
----
-
-## 16. MoonPay Brings Crypto Transactions to Claude and Codex With MoonAgents Desktop App
-
-**Author:** Jason Nelson  
-**Published:** 6/3/2026, 1:01:03 PM  
-**Categories:** , , Artificial Intelligence  
-
-MoonPay's new desktop app connects AI assistants to crypto wallets and blockchain services through a graphical interface.
-
-📖 [Read original article](https://decrypt.co/369746/moonpay-brings-crypto-transactions-claude-codex-moonagents)
-
----
-
-## 17. Morning Minute: Bitcoin Falls Below $67k as MSTR Plummets
-
-**Author:** Tyler Warner  
-**Published:** 6/3/2026, 12:47:43 PM  
-**Categories:** , Opinion  
-
-The fallout from Saylor’s first Bitcoin sale in years keeps spreading, while Bernie Sanders and Elizabeth Warren want crypto out of your 401(k).
-
-📖 [Read original article](https://decrypt.co/369839/morning-minute-bitcoin-falls-below-67k-as-mstr-plummets)
-
----
-
-## 18. Trezor Reveals Hardware Wallet Vulnerability, But Funds 'Safe'
-
-**Author:** Ryan Gladwin  
-**Published:** 6/3/2026, 12:42:25 PM  
-**Categories:** , , , Technology  
-
-The vulnerability in Trezor's TROPIC01 Secure Element chip was uncovered by an audit carried out by the Ledger Donjon team.
-
-📖 [Read original article](https://decrypt.co/369857/trezor-reveals-hardware-wallet-vulnerability-but-funds-safe)
 
 ---
