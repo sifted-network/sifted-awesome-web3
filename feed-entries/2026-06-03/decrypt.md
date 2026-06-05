@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-03"
 date: "2026-06-03"
 source: "Decrypt"
-count: 20
+count: 18
 ---
 
 # Decrypt - 2026-06-03
 
-20 items collected.
+18 items collected.
 
 ---
 
@@ -224,29 +224,5 @@ The fallout from Saylor’s first Bitcoin sale in years keeps spreading, while B
 The vulnerability in Trezor's TROPIC01 Secure Element chip was uncovered by an audit carried out by the Ledger Donjon team.
 
 📖 [Read original article](https://decrypt.co/369857/trezor-reveals-hardware-wallet-vulnerability-but-funds-safe)
-
----
-
-## 19. George Santos Referred to DOJ, CFTC Over State of the Union Kalshi Trades: Report
-
-**Author:** Vismaya V  
-**Published:** 6/3/2026, 11:49:41 AM  
-**Categories:** Business  
-
-The pardoned ex-congressman allegedly bet against his own State of the Union appearance while publicly hyping it.
-
-📖 [Read original article](https://decrypt.co/369838/george-santos-referred-to-doj-cftc-over-state-of-the-union-kalshi-trades-report)
-
----
-
-## 20. UK Regulator Warns Soccer Clubs Over Unauthorized Crypto Sponsorship Deals
-
-**Author:** Decrypt Agent  
-**Published:** 6/3/2026, 11:11:43 AM  
-**Categories:** , , Business  
-
-The FCA has warned Premier League clubs that partnerships with unlicensed crypto firms could expose fans to unregulated trading platforms.
-
-📖 [Read original article](https://decrypt.co/369835/uk-regulator-warns-soccer-clubs-over-unauthorized-crypto-sponsorship-deals)
 
 ---
