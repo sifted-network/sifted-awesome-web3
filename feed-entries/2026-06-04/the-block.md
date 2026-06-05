@@ -2,16 +2,28 @@
 title: "The Block - 2026-06-04"
 date: "2026-06-04"
 source: "The Block"
-count: 18
+count: 19
 ---
 
 # The Block - 2026-06-04
 
-18 items collected.
+19 items collected.
 
 ---
 
-## 1. Ether.fi allocates $100 million to a Plume RWA vault, giving users access to yield
+## 1. White House crypto adviser Witt defends Clarity Act, calls it ‘pro-law enforcement’ as lawmakers race to pass bill
+
+**Author:** Sarah Wynn  
+**Published:** 6/4/2026, 8:08:40 PM  
+**Categories:** Legal, Policy, Regulation, U.S. Policymaking, 2024 Elections, Congress, Crime, House Agriculture Committee, House Financial Services Committee, Senate Agriculture Committee, Senate Banking Committee  
+
+The White House's top cryptocurrency adviser, Patrick Witt, called the Clarity Act a "pro-enforcement bill," despite pushback.
+
+📖 [Read original article](https://www.theblock.co/post/403693/white-house-crypto-adviser-witt-defends-clarity-act-calls-it-pro-law-enforcement-as-lawmakers-race-to-pass-bill?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Ether.fi allocates $100 million to a Plume RWA vault, giving users access to yield
 
 **Author:** Yogita Khatri  
 **Published:** 6/4/2026, 5:20:03 PM  
@@ -23,7 +35,7 @@ The allocation comes from a mix of ether.fi's liquidity provider base and manage
 
 ---
 
-## 2. Chainalysis says ‘top-tier’ gray market peptide vendors turn to bitcoin and stablecoins
+## 3. Chainalysis says ‘top-tier’ gray market peptide vendors turn to bitcoin and stablecoins
 
 **Author:** Daniel Kuhn  
 **Published:** 6/4/2026, 5:08:46 PM  
@@ -35,7 +47,7 @@ The allocation comes from a mix of ether.fi's liquidity provider base and manage
 
 ---
 
-## 3. JPMorgan says crypto bill may have only a narrow window for passage this year
+## 4. JPMorgan says crypto bill may have only a narrow window for passage this year
 
 **Author:** Yogita Khatri  
 **Published:** 6/4/2026, 3:44:40 PM  
@@ -47,7 +59,7 @@ JPMorgan analysts said the crypto market structure bill, or Clarity Act, may hav
 
 ---
 
-## 4. Senate Republicans urged financial regulators to rework bank capital rules for digital assets
+## 5. Senate Republicans urged financial regulators to rework bank capital rules for digital assets
 
 **Author:** Sarah Wynn  
 **Published:** 6/4/2026, 2:54:53 PM  
@@ -59,7 +71,7 @@ A group of Senate Republicans is pressing key financial regulatory agencies to c
 
 ---
 
-## 5. Travala unveils agentic AI travel protocol with gasless USDC payments on Base
+## 6. Travala unveils agentic AI travel protocol with gasless USDC payments on Base
 
 **Author:** Brian Danga  
 **Published:** 6/4/2026, 2:00:00 PM  
@@ -71,7 +83,7 @@ Travala introduced an agentic AI travel protocol on Base supporting gasless USDC
 
 ---
 
-## 6. ‘The rally that wasn’t’: Bitcoin slides 14% in one week as ETF outflows, Strategy sale and oil prices hit sentiment
+## 7. ‘The rally that wasn’t’: Bitcoin slides 14% in one week as ETF outflows, Strategy sale and oil prices hit sentiment
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/4/2026, 1:58:53 PM  
@@ -83,7 +95,7 @@ Bitcoin falls 13% to near $62K as Strategy's BTC sale, $4.2B in ETF outflows and
 
 ---
 
-## 7. Visa, Brale test privacy-enabled SBC stablecoin settlement on Canton Network
+## 8. Visa, Brale test privacy-enabled SBC stablecoin settlement on Canton Network
 
 **Author:** Brian Danga  
 **Published:** 6/4/2026, 1:34:02 PM  
@@ -95,7 +107,7 @@ Visa and Brale initiate a proof of concept testing SBC stablecoin settlement wit
 
 ---
 
-## 8. Cosmos Labs acquires block explorer Mintscan, forms Korea subsidiary to expand ecosystem
+## 9. Cosmos Labs acquires block explorer Mintscan, forms Korea subsidiary to expand ecosystem
 
 **Author:** Yogita Khatri  
 **Published:** 6/4/2026, 1:00:00 PM  
@@ -107,7 +119,7 @@ Cosmos Labs has acquired Cosmos block explorer Mintscan and formed a new Korea-b
 
 ---
 
-## 9. Immunefi says DeFi is ‘getting safer’ as exploit losses fall 74% from 2022 peak amid AI-driven security arms race
+## 10. Immunefi says DeFi is ‘getting safer’ as exploit losses fall 74% from 2022 peak amid AI-driven security arms race
 
 **Author:** Brian Danga  
 **Published:** 6/4/2026, 1:00:00 PM  
@@ -119,7 +131,7 @@ DeFi exploit losses fell 74% from the 2022 peak to $680 million in 2025, accordi
 
 ---
 
-## 10. Coinbase and Better fund first bitcoin-backed mortgage, plan nationwide rollout soon
+## 11. Coinbase and Better fund first bitcoin-backed mortgage, plan nationwide rollout soon
 
 **Author:** Yogita Khatri  
 **Published:** 6/4/2026, 12:40:00 PM  
@@ -131,7 +143,7 @@ Coinbase and Better have funded the first Fannie Mae-backed mortgage using bitco
 
 ---
 
-## 11. ‘When the market offers discounts, we lean in’: DDC Enterprise lifts bitcoin holdings to 2,804 BTC
+## 12. ‘When the market offers discounts, we lean in’: DDC Enterprise lifts bitcoin holdings to 2,804 BTC
 
 **Author:** Brian Danga  
 **Published:** 6/4/2026, 12:18:55 PM  
@@ -143,7 +155,7 @@ DDC Enterprise added 90 bitcoin, raising its total holdings to 2,804 BTC and rea
 
 ---
 
-## 12. ‘The power landlords of AI’: Bernstein initiates coverage on bitcoin miners TeraWulf and Cipher Digital, sees ninefold AI revenue by 2030
+## 13. ‘The power landlords of AI’: Bernstein initiates coverage on bitcoin miners TeraWulf and Cipher Digital, sees ninefold AI revenue by 2030
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/4/2026, 11:51:12 AM  
@@ -155,7 +167,7 @@ Bernstein initiates TeraWulf and Cipher Digital at Outperform with $36 and $32 p
 
 ---
 
-## 13. ‘The low is almost in’: Standard Chartered says bitcoin bottom near after tough week for crypto
+## 14. ‘The low is almost in’: Standard Chartered says bitcoin bottom near after tough week for crypto
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/4/2026, 10:27:10 AM  
@@ -167,7 +179,7 @@ Standard Chartered said bitcoin's low is "almost in," citing resilient ETF holdi
 
 ---
 
-## 14. Coinbase launches pre-IPO perpetual futures, starting with SpaceX
+## 15. Coinbase launches pre-IPO perpetual futures, starting with SpaceX
 
 **Author:** Yogita Khatri  
 **Published:** 6/4/2026, 10:00:00 AM  
@@ -179,7 +191,7 @@ Coinbase has entered the pre-IPO perpetual futures market, starting with a Space
 
 ---
 
-## 15. Arthur Hayes sells entire HYPE and NEAR positions, citing AI IPOs and US midterms
+## 16. Arthur Hayes sells entire HYPE and NEAR positions, citing AI IPOs and US midterms
 
 **Author:** Danny Park  
 **Published:** 6/4/2026, 9:36:55 AM  
@@ -191,7 +203,7 @@ Hayes faced backlash from social media users after selling the tokens days after
 
 ---
 
-## 16. Coinbase, SpaceX, Meta join DOJ anti-scam operation that froze $3.8 million in crypto
+## 17. Coinbase, SpaceX, Meta join DOJ anti-scam operation that froze $3.8 million in crypto
 
 **Author:** Brian Danga  
 **Published:** 6/4/2026, 8:49:44 AM  
@@ -203,7 +215,7 @@ Private-sector firms joined the DOJ's "Disruption Week," freezing $3.8 million i
 
 ---
 
-## 17. Polymarket’s UMA vote upholds ‘No’ outcome on Strategy bitcoin sale market despite backlash
+## 18. Polymarket’s UMA vote upholds ‘No’ outcome on Strategy bitcoin sale market despite backlash
 
 **Author:** Timmy Shen  
 **Published:** 6/4/2026, 4:21:17 AM  
@@ -215,7 +227,7 @@ The dispute centers on Strategy's disclosure that it sold 32 BTC for roughly $2.
 
 ---
 
-## 18. Bitmine to launch STRC-style preferred stock offering amid $9.2 billion unrealized ETH losses
+## 19. Bitmine to launch STRC-style preferred stock offering amid $9.2 billion unrealized ETH losses
 
 **Author:** Danny Park  
 **Published:** 6/4/2026, 2:38:47 AM  
