@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-03"
 date: "2026-06-03"
 source: "Cointelegraph"
-count: 11
+count: 7
 ---
 
 # Cointelegraph - 2026-06-03
 
-11 items collected.
+7 items collected.
 
 ---
 
@@ -92,53 +92,5 @@ Nearly a dozen candidates across three US states won their primaries or will adv
 New data suggests AI-driven payment rails are evolving beyond experimentation as users are making more higher-value transfers.
 
 📖 [Read original article](https://cointelegraph.com/news/agentic-payment-activity-surpasses-100m-transactions-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Bitcoin copying 2022 'almost perfectly' as trader sees key support failing
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 6/3/2026, 4:09:12 PM  
-**Categories:** Markets  
-
-Bitcoin traders warned of a key BTC price support trend line failing as 2022 bear market history continues to repeat.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-copying-2022-almost-perfectly-as-trader-sees-key-support-failing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Crypto firms face July 1 EU cutoff as MiCA grace period ends
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 6/3/2026, 4:01:06 PM  
-**Categories:** Latest News  
-
-The ESMA says crypto companies without MiCA authorization must stop serving EU clients from July 1, even if their license applications remain under review.
-
-📖 [Read original article](https://cointelegraph.com/news/eu-mica-deadline-looms-for-unlicensed-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Hyperliquid bear turns bullish after losing over $46M shorting HYPE
-
-**Author:** Cointelegraph by Yashu Gola  
-**Published:** 6/3/2026, 4:00:40 PM  
-**Categories:** Markets  
-
-The whale is now backing Arthur Hayes’ favored HYPE, ZEC and NEAR plays, signaling a sharp pivot toward momentum-led crypto bets.
-
-📖 [Read original article](https://cointelegraph.com/markets/hyperliquid-bear-turns-bullish-after-losing-over-46m-betting-on-hype-price-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Ethereum drops to 14-week lows: Can ETH price hold $1.8K support?
-
-**Author:** Cointelegraph by Nancy Lubale  
-**Published:** 6/3/2026, 3:32:39 PM  
-**Categories:** Markets  
-
-Ethereum price slides to a 14-week low as weakening demand and persistent ETF outflows put the key $1,800 support at risk.
-
-📖 [Read original article](https://cointelegraph.com/markets/ethereum-drops-to-14-week-lows-can-eth-price-hold-18k-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
