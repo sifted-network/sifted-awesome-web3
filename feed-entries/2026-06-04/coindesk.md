@@ -143,7 +143,7 @@ Bitcoin's drop reflects capital rotation into AI, Saylor argues, but the bears h
 
 ---
 
-## 12. Live updates: Bitcoin bounces, HYPE falls, NEAR gets demolished as crypto deals with a wipe out
+## 12. Bitcoin bounces, HYPE falls, NEAR gets demolished as crypto deals with a wipe out
 
 **Author:** Stephen Alpher,James Van Straten,Helene Braun,Krisztian Sandor  
 **Published:** 6/4/2026, 12:14:21 PM  
