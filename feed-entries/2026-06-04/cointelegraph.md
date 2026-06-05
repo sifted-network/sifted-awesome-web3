@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-04"
 date: "2026-06-04"
 source: "Cointelegraph"
-count: 23
+count: 19
 ---
 
 # Cointelegraph - 2026-06-04
 
-23 items collected.
+19 items collected.
 
 ---
 
@@ -236,53 +236,5 @@ Maelstrom predicts the WLD token will reach $5 by August, a gain of around 900% 
 The lawmakers are also asking the FTC for information on whether it has plans to take investigative or enforcement action against prediction markets for possible deceptive practices.
 
 📖 [Read original article](https://cointelegraph.com/news/house-democrats-ftc-probe-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. About 67% of banned Anthropic accounts used AI to prep for cyberattacks
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 6/4/2026, 6:59:45 AM  
-**Categories:** Latest News  
-
-AI firm Anthropic mapped a year’s worth of AI-enabled cyber threats, finding that malicious actors are quickly becoming more dangerous with AI.
-
-📖 [Read original article](https://cointelegraph.com/news/67-percent-banned-anthropic-accounts-ai-used-in-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Bitmine eyes dividend-paying preferred shares, echoing Strategy’s playbook
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 6/4/2026, 5:34:46 AM  
-**Categories:** Latest News  
-
-The move comes as Ether prices slumped to a 14-month low below $1,750 on Thursday.
-
-📖 [Read original article](https://cointelegraph.com/news/bitmine-turns-to-dividend-paying-shares-following-strategys-footsteps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Coinbase freezes $3M tied to Southeast Asia crypto fraud networks
-
-**Author:** Cointelegraph by Stephen Katte  
-**Published:** 6/4/2026, 5:14:31 AM  
-**Categories:** Latest News  
-
-Authorities around the world have been heavily targeting scam infrastructure this year, with joint actions involving the US, UAE, China, Austria and Albania.
-
-📖 [Read original article](https://cointelegraph.com/news/tech-fbi-crypto-scam-crackdown-southeast-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. CFTC follows SEC in scrapping ‘no-deny’ policy for settlements
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 6/4/2026, 3:28:54 AM  
-**Categories:** Latest News  
-
-CFTC Chairman Mike Selig says the rescission of its “no-deny” policy means it now has more flexibility when settling enforcement actions.
-
-📖 [Read original article](https://cointelegraph.com/news/cftc-follows-sec-in-scrapping-no-deny-rule-for-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
