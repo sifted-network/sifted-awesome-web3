@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-06-04"
 date: "2026-06-04"
 source: "Cointelegraph"
-count: 19
+count: 23
 ---
 
 # Cointelegraph - 2026-06-04
 
-19 items collected.
+23 items collected.
 
 ---
 
-## 1. Coinbase to launch token-backed mortgage down payments this summer
+## 1. Comptroller says only Democrats pressuring over crypto trust charter
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 6/4/2026, 9:54:37 PM  
+**Categories:** Latest News  
+
+US Comptroller of the Currency Jonathan Gould and New York Representative Gregory Meeks sparred over Donald Trump’s influence on regulators he has nominated as president at a Thursday oversight hearing.
+
+📖 [Read original article](https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitcoin fell 21% after Strategy’s debt buyback news— Is a Terra Luna-style doom loop next?
+
+**Author:** Cointelegraph by Marcel Pechman  
+**Published:** 6/4/2026, 8:37:58 PM  
+**Categories:** Markets  
+
+Bitcoin price collapsed as Strategy faced tighter liquidity conditions and paused its BTC buying. Is it time to jump ship, or buy the dip?
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-fell-21-after-strategys-debt-buyback-news-is-a-terra-luna-style-doom-loop-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Russia targets British 17-year-old for alleging digital assets were skirting sanctions
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 6/4/2026, 8:21:55 PM  
+**Categories:** Latest News  
+
+Political activist Bill Browder, the teenager’s father, said his son was “the first high school student in the world to be sanctioned by an authoritarian regime” over a report on the ruble-pegged stablecoin A7A5.
+
+📖 [Read original article](https://cointelegraph.com/news/russia-sanctions-british-teenager-ruble-stablecoin-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Professional investors dumped 52K BTC worth of ETFs in Q1, filings show
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 6/4/2026, 7:53:33 PM  
+**Categories:** Latest News  
+
+US spot Bitcoin ETF ownership shifted during the market downturn as hedge funds exited positions, while banks and long-term allocators continued building exposure.
+
+📖 [Read original article](https://cointelegraph.com/news/bitcoin-etf-ownership-shifts-hedge-funds-sell-banks-buy-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Coinbase to launch token-backed mortgage down payments this summer
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 6/4/2026, 6:52:00 PM  
@@ -23,7 +71,7 @@ A Coinbase-Better Home & Finance initiative will allow qualified borrowers to us
 
 ---
 
-## 2. Bitcoin bulls' fate rests on $60K support as crypto erases $2T in market cap
+## 6. Bitcoin bulls' fate rests on $60K support as crypto erases $2T in market cap
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/4/2026, 5:30:15 PM  
@@ -35,7 +83,7 @@ Bitcoin continued "incredible" 2022 bear market repeat behavior as sellers kept 
 
 ---
 
-## 3. Bybit joins Western Union’s new USDPT network as stablecoin expands distribution
+## 7. Bybit joins Western Union’s new USDPT network as stablecoin expands distribution
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 6/4/2026, 5:21:27 PM  
@@ -47,10 +95,10 @@ The exchange integration gives Western Union’s dollar-pegged token access to c
 
 ---
 
-## 4. Here’s what happened in crypto today
+## 8. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
-**Published:** 6/4/2026, 2:58:17 PM  
+**Published:** 6/4/2026, 3:02:00 PM  
 **Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
 
 Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
@@ -59,7 +107,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 5. Saylor downplays Bitcoin slide as Strategy faces $11B paper loss
+## 9. Saylor downplays Bitcoin slide as Strategy faces $11B paper loss
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/4/2026, 2:48:44 PM  
@@ -71,7 +119,7 @@ Strategy’s Bitcoin paper loss tops $11 billion as Saylor pointed to ETF outflo
 
 ---
 
-## 6. Apex, Archax join Goldman Sachs tokenized real estate fund project
+## 10. Apex, Archax join Goldman Sachs tokenized real estate fund project
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/4/2026, 1:25:56 PM  
@@ -83,7 +131,7 @@ Apex Group is providing fund services for a tokenized real estate fund using Gol
 
 ---
 
-## 7. Arthur Hayes dumps HYPE, NEAR as he warns of AI IPO wave
+## 11. Arthur Hayes dumps HYPE, NEAR as he warns of AI IPO wave
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/4/2026, 1:04:25 PM  
@@ -95,7 +143,7 @@ Arthur Hayes said he dumped his HYPE and NEAR holdings after warning markets may
 
 ---
 
-## 8. Coinbase launches pre-IPO markets, starting with Elon Musk’s SpaceX
+## 12. Coinbase launches pre-IPO markets, starting with Elon Musk’s SpaceX
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/4/2026, 12:48:03 PM  
@@ -107,7 +155,7 @@ Coinbase launches pre-IPO markets starting with SpaceX, offering non-US users pe
 
 ---
 
-## 9. Bitcoin price just tagged 200-week trend line that defined 2022 bear market
+## 13. Bitcoin price just tagged 200-week trend line that defined 2022 bear market
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/4/2026, 11:46:15 AM  
@@ -119,7 +167,7 @@ Bitcoin brought back the trend line that functioned as resistance in the 2022 be
 
 ---
 
-## 10. FG Nexus offloads additional $17.8M Ether as losses top $100M
+## 14. FG Nexus offloads additional $17.8M Ether as losses top $100M
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/4/2026, 11:41:24 AM  
@@ -131,7 +179,7 @@ FG Nexus offloads another 10,000 ETH, pushing realized and paper losses above $1
 
 ---
 
-## 11. Polymarket users cry foul after Strategy sale market resolves to ‘no’
+## 15. Polymarket users cry foul after Strategy sale market resolves to ‘no’
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/4/2026, 11:27:57 AM  
@@ -143,7 +191,7 @@ A Polymarket contract on whether Strategy sold Bitcoin by May 31 resolved to no 
 
 ---
 
-## 12. Bitcoin ETFs bleed $4.4B as outflow run extends to 13 trading days
+## 16. Bitcoin ETFs bleed $4.4B as outflow run extends to 13 trading days
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/4/2026, 11:11:56 AM  
@@ -155,7 +203,7 @@ US-listed spot Bitcoin ETFs saw $397 million in outflows on Wednesday, extending
 
 ---
 
-## 13. Over $600M in Bitcoin longs liquidated as BTC dips toward $60K
+## 17. Over $600M in Bitcoin longs liquidated as BTC dips toward $60K
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 6/4/2026, 8:19:59 AM  
@@ -167,7 +215,7 @@ Many traders expect Bitcoin to stage a short-term relief bounce toward $70,000, 
 
 ---
 
-## 14. Worldcoin is overlooked bet on AI IPO wave: Maelstrom
+## 18. Worldcoin is overlooked bet on AI IPO wave: Maelstrom
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/4/2026, 7:32:29 AM  
@@ -179,7 +227,7 @@ Maelstrom predicts the WLD token will reach $5 by August, a gain of around 900% 
 
 ---
 
-## 15. US House Democrats call for FTC probe into prediction markets
+## 19. US House Democrats call for FTC probe into prediction markets
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 6/4/2026, 7:12:48 AM  
@@ -191,7 +239,7 @@ The lawmakers are also asking the FTC for information on whether it has plans to
 
 ---
 
-## 16. About 67% of banned Anthropic accounts used AI to prep for cyberattacks
+## 20. About 67% of banned Anthropic accounts used AI to prep for cyberattacks
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/4/2026, 6:59:45 AM  
@@ -203,7 +251,7 @@ AI firm Anthropic mapped a year’s worth of AI-enabled cyber threats, finding t
 
 ---
 
-## 17. Bitmine eyes dividend-paying preferred shares, echoing Strategy’s playbook
+## 21. Bitmine eyes dividend-paying preferred shares, echoing Strategy’s playbook
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/4/2026, 5:34:46 AM  
@@ -215,7 +263,7 @@ The move comes as Ether prices slumped to a 14-month low below $1,750 on Thursda
 
 ---
 
-## 18. Coinbase freezes $3M tied to Southeast Asia crypto fraud networks
+## 22. Coinbase freezes $3M tied to Southeast Asia crypto fraud networks
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 6/4/2026, 5:14:31 AM  
@@ -227,7 +275,7 @@ Authorities around the world have been heavily targeting scam infrastructure thi
 
 ---
 
-## 19. CFTC follows SEC in scrapping ‘no-deny’ policy for settlements
+## 23. CFTC follows SEC in scrapping ‘no-deny’ policy for settlements
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/4/2026, 3:28:54 AM  
