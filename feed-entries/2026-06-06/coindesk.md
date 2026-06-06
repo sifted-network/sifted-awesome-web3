@@ -2,16 +2,64 @@
 title: "CoinDesk - 2026-06-06"
 date: "2026-06-06"
 source: "CoinDesk"
-count: 7
+count: 11
 ---
 
 # CoinDesk - 2026-06-06
 
-7 items collected.
+11 items collected.
 
 ---
 
-## 1. A massive hiring wave reveals trading firms are no longer viewing Polymarket as a niche betting tool
+## 1. Meta is paying creators in Stablecoins. Spending them is someone else's problem
+
+**Author:** Tim Joslyn  
+**Published:** 6/6/2026, 4:30:00 PM  
+**Categories:** Opinion, Stablecoins, Opinion  
+
+Meta’s decision to pay creators in USDC validates stablecoins as a mainstream disbursement tool, Joslyn suggests, but it also exposes the industry’s unresolved problem: moving seamlessly from digital dollars to usable local currency.
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem)
+
+---
+
+## 2. America’s largest banks are building a new digital currency network to stop a massive deposit drain
+
+**Author:** Helene Braun  
+**Published:** 6/6/2026, 3:59:00 PM  
+**Categories:** Finance, Stablecoins, Tokenization, News  
+
+America’s biggest banks are launching tokenized deposits to compete with stablecoins, opening a new front in the race to become the dominant form of cash on blockchain networks.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/06/america-s-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-massive-deposit-drain)
+
+---
+
+## 3. A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin
+
+**Author:** Olivier Acuna  
+**Published:** 6/6/2026, 3:00:00 PM  
+**Categories:** Finance, Ethereum News, Bitcoin News, Exclusive, News  
+
+Sourcing initial capital from his mother to build a $1 billion crypto empire, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin)
+
+---
+
+## 4. Satoshi-era bitcoin at center of $285 billion lawsuit moves after 14 years
+
+**Author:** Shaurya Malwa  
+**Published:** 6/6/2026, 1:30:00 PM  
+**Categories:** Markets, News  
+
+The 1LwWt address received a legal notice from Salomon Brothers via Bitcoin's OP_RETURN field in July 2025 demanding the owner prove ownership by November 5, 2025.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/06/satoshi-era-bitcoin-at-center-of-usd285-billion-lawsuit-moves-after-14-years)
+
+---
+
+## 5. A massive hiring wave reveals trading firms are no longer viewing Polymarket as a niche betting tool
 
 **Author:** Oliver Knight  
 **Published:** 6/6/2026, 1:00:00 PM  
@@ -23,7 +71,7 @@ While rising volume on Polymarket and Kalshi is attracting quantitative firms to
 
 ---
 
-## 2. Michael Saylor’s rallying cry: Bitcoin needs four forces to win
+## 6. Michael Saylor’s rallying cry: Bitcoin needs four forces to win
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 6/6/2026, 1:00:00 PM  
@@ -35,7 +83,7 @@ The Strategy executive chairman argued that four distinct camps each play a vita
 
 ---
 
-## 3. Are retail traders selling their bitcoin to buy the SpaceX IPO?
+## 7. Are retail traders selling their bitcoin to buy the SpaceX IPO?
 
 **Author:** Shaurya Malwa  
 **Published:** 6/6/2026, 9:45:15 AM  
@@ -47,7 +95,7 @@ Exchange flows and stablecoin movements through this week's sell-off show no wal
 
 ---
 
-## 4. Researcher who found Zcash's bug with AI adds Monero to his audit queue
+## 8. Researcher who found Zcash's bug with AI adds Monero to his audit queue
 
 **Author:** Shaurya Malwa  
 **Published:** 6/6/2026, 9:38:00 AM  
@@ -59,7 +107,7 @@ Taylor Hornby, who uncovered the Orchard flaw that sent Zcash down 38%, says oth
 
 ---
 
-## 5. WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it
+## 9. WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it
 
 **Author:** Shaurya Malwa  
 **Published:** 6/6/2026, 8:25:36 AM  
@@ -71,7 +119,7 @@ The BitMEX co-founder and Maelstrom CIO cited a falling chart of SpaceX stock, w
 
 ---
 
-## 6. Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations
+## 10. Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations
 
 **Author:** Shaurya Malwa  
 **Published:** 6/6/2026, 6:40:17 AM  
@@ -83,7 +131,7 @@ Bitcoin fell as low as $59,227 overnight before recovering, steadying after Frid
 
 ---
 
-## 7. Cardano social activity surges as ADA falls under 20 cents to four-year lows
+## 11. Cardano social activity surges as ADA falls under 20 cents to four-year lows
 
 **Author:** Shaurya Malwa  
 **Published:** 6/6/2026, 3:30:00 AM  
