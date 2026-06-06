@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-04"
 date: "2026-06-04"
 source: "Cointelegraph"
-count: 10
+count: 6
 ---
 
 # Cointelegraph - 2026-06-04
 
-10 items collected.
+6 items collected.
 
 ---
 
@@ -80,53 +80,5 @@ A Coinbase-Better Home & Finance initiative will allow qualified borrowers to us
 Bitcoin continued "incredible" 2022 bear market repeat behavior as sellers kept control over BTC price rebound attempts.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-bulls-fate-rests-on-60k-support-as-sellers-remain-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Bybit joins Western Union’s new USDPT network as stablecoin expands distribution
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 6/4/2026, 5:21:27 PM  
-**Categories:** Latest News  
-
-The exchange integration gives Western Union’s dollar-pegged token access to crypto market liquidity as payment providers accelerate their adoption of stablecoins.
-
-📖 [Read original article](https://cointelegraph.com/news/seo-url-bybit-western-union-usdpt-stablecoin-exchange-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Saylor downplays Bitcoin slide as Strategy faces $11B paper loss
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/4/2026, 2:48:44 PM  
-**Categories:** Latest News  
-
-Strategy’s Bitcoin paper loss tops $11 billion as Saylor pointed to ETF outflows and AI infrastructure spending as factors pressuring BTC.
-
-📖 [Read original article](https://cointelegraph.com/news/strategys-unrealized-loss-soars-11b-standard-chartered-bottom-near?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Apex, Archax join Goldman Sachs tokenized real estate fund project
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 6/4/2026, 1:25:56 PM  
-**Categories:** Latest News  
-
-Apex Group is providing fund services for a tokenized real estate fund using Goldman Sachs’ GS DAP platform.
-
-📖 [Read original article](https://cointelegraph.com/news/apex-group-tokenized-real-estate-fund-goldman-sachs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Arthur Hayes dumps HYPE, NEAR as he warns of AI IPO wave
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/4/2026, 1:04:25 PM  
-**Categories:** Latest News  
-
-Arthur Hayes said he dumped his HYPE and NEAR holdings after warning markets may peak before September and AI IPOs could drain liquidity.
-
-📖 [Read original article](https://cointelegraph.com/news/arthur-hayes-dumped-hype-near-holdings-mega-ai-ipos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
