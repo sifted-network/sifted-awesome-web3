@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-04"
 date: "2026-06-04"
 source: "The Block"
-count: 3
+count: 2
 ---
 
 # The Block - 2026-06-04
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ The White House's top cryptocurrency adviser, Patrick Witt, called the Clarity A
 The allocation comes from a mix of ether.fi's liquidity provider base and managed capital from its existing liquid vaults.
 
 📖 [Read original article](https://www.theblock.co/post/403681/ether-fi-allocates-100-million-plume-rwa-vault-yield?utm_source=rss&utm_medium=rss)
-
----
-
-## 3. Chainalysis says ‘top-tier’ gray market peptide vendors turn to bitcoin and stablecoins
-
-**Author:** Daniel Kuhn  
-**Published:** 6/4/2026, 5:08:46 PM  
-**Categories:** Companies, Crypto Ecosystems, Legal, Policy, Stablecoins, Tech, The Block, Web3, Crime, Crypto, Internet  
-
-“To scale, the gray-market peptide trade adopted cryptocurrency as its backbone,” Chainalysis said in a report.
-
-📖 [Read original article](https://www.theblock.co/post/403683/chainalysis-says-top-tier-gray-market-peptide-vendors-turn-to-bitcoin-and-stablecoins?utm_source=rss&utm_medium=rss)
 
 ---
