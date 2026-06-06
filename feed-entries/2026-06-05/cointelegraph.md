@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-06-05"
 date: "2026-06-05"
 source: "Cointelegraph"
-count: 20
+count: 24
 ---
 
 # Cointelegraph - 2026-06-05
 
-20 items collected.
+24 items collected.
 
 ---
 
-## 1. Kraken offers SpaceX IPO access through xStocks
+## 1. ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next?
+
+**Author:** Cointelegraph by Marcel Pechman  
+**Published:** 6/5/2026, 10:18:29 PM  
+**Categories:** Markets  
+
+ETH price crashed below $1,600 as a vulnerability in Zcash emerged and Bitcoin sold off below $60,000 for the first time in months.
+
+📖 [Read original article](https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Travala lets AI agents book hotels with USDC on Base
+
+**Author:** Cointelegraph by Bryan O'Shea  
+**Published:** 6/5/2026, 8:55:27 PM  
+**Categories:** Latest News  
+
+Travala’s new protocol lets AI agents search and book hotels with USDC on Base, but travelers still approve the final payment.
+
+📖 [Read original article](https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Crypto tax proposals weighed ahead of Tuesday House hearing
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 6/5/2026, 8:41:38 PM  
+**Categories:** Latest News  
+
+Among the issues US lawmakers are expected to discuss in a digital asset taxation hearing are “de minimis” reporting exceptions for crypto transactions.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-tax-bills-house-ways-means-hearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing?
+
+**Author:** Cointelegraph by Marcel Pechman  
+**Published:** 6/5/2026, 7:28:53 PM  
+**Categories:** Markets  
+
+Bitcoin bears piled into short positions as BTC price slid to $60,000. Will the $2.6 billion in short leverage lead to an upside squeeze?
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-short-squeeze-brewing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Kraken offers SpaceX IPO access through xStocks
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 6/5/2026, 6:17:50 PM  
@@ -23,7 +71,7 @@ Eligible users in more than 110 markets can register for tokenized SpaceX equity
 
 ---
 
-## 2. Crypto tax in Illinois FY2027 budget is one step away from becoming law
+## 6. Crypto tax in Illinois FY2027 budget is one step away from becoming law
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 6/5/2026, 6:10:59 PM  
@@ -35,7 +83,7 @@ The law, part of a budget plan passed by Illinois lawmakers, would put the burde
 
 ---
 
-## 3. Crypto Biz: Nobody told Saylor ‘never sell’
+## 7. Crypto Biz: Nobody told Saylor ‘never sell’
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 6/5/2026, 5:04:07 PM  
@@ -47,7 +95,7 @@ Strategy’s Bitcoin sale challenged the “never sell” narrative, while JPMor
 
 ---
 
-## 4. Here’s what happened in crypto today
+## 8. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/5/2026, 4:55:50 PM  
@@ -59,7 +107,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 5. Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts
+## 9. Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/5/2026, 4:44:44 PM  
@@ -71,7 +119,7 @@ Pump.fun launched a new bounty platform where users started funding bizarre meme
 
 ---
 
-## 6. Saylor says Bitcoin needs ‘disciplined expansion’ as analysts weigh demand reset
+## 10. Saylor says Bitcoin needs ‘disciplined expansion’ as analysts weigh demand reset
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/5/2026, 4:09:40 PM  
@@ -83,7 +131,7 @@ Michael Saylor’s essay calls for Bitcoin to expand through banks, credit, secu
 
 ---
 
-## 7. Bitcoin teases 'seller exhaustion' as BTC price downside reaches $60.3K
+## 11. Bitcoin teases 'seller exhaustion' as BTC price downside reaches $60.3K
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/5/2026, 3:43:14 PM  
@@ -95,7 +143,7 @@ Bitcoin sellers were losing steam, market analysis said as ongoing BTC price dow
 
 ---
 
-## 8. Visa tests private stablecoin settlement with Brale, Canton
+## 12. Visa tests private stablecoin settlement with Brale, Canton
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/5/2026, 2:45:55 PM  
@@ -107,7 +155,7 @@ Visa is testing private stablecoin settlement on Canton with Brale, exploring wh
 
 ---
 
-## 9. Zcash weighs new shielded pool after counterfeiting flaw
+## 13. Zcash weighs new shielded pool after counterfeiting flaw
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/5/2026, 1:18:41 PM  
@@ -119,7 +167,7 @@ Zcash developers are weighing a new shielded pool and turnstile accounting after
 
 ---
 
-## 10. Bitcoin needs one more thing to happen to spark BTC price 'rally:' Analysis
+## 14. Bitcoin needs one more thing to happen to spark BTC price 'rally:' Analysis
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/5/2026, 1:00:00 PM  
@@ -131,7 +179,7 @@ Bitcoin whales flipped to support a BTC price rebound, but analysis warned that 
 
 ---
 
-## 11. House GOP eyes summer vote on prediction market restrictions for lawmakers
+## 15. House GOP eyes summer vote on prediction market restrictions for lawmakers
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/5/2026, 12:46:44 PM  
@@ -143,7 +191,7 @@ House Republicans plan a summer vote on a congressional stock trading ban and ne
 
 ---
 
-## 12. JPMorgan, Citi-backed Clearing House plans tokenized deposit network in 2027: WSJ
+## 16. JPMorgan, Citi-backed Clearing House plans tokenized deposit network in 2027: WSJ
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/5/2026, 12:39:32 PM  
@@ -155,7 +203,7 @@ Some of the largest banks are reportedly launching a tokenized deposit network i
 
 ---
 
-## 13. How low can Bitcoin price go if $60K support fails?
+## 17. How low can Bitcoin price go if $60K support fails?
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 6/5/2026, 12:24:23 PM  
@@ -167,7 +215,7 @@ Bitcoin’s downside targets cluster near $50,000, but a larger weekly bearish s
 
 ---
 
-## 14. Forward Industries moves $32M in SOL amid $1B paper loss
+## 18. Forward Industries moves $32M in SOL amid $1B paper loss
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/5/2026, 10:59:50 AM  
@@ -179,7 +227,7 @@ Forward Industries moved $31.9 million in SOL to Coinbase Prime as its Solana be
 
 ---
 
-## 15. South Korea police probe Polymarket users over illegal gambling claims: Report
+## 19. South Korea police probe Polymarket users over illegal gambling claims: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/5/2026, 10:47:17 AM  
@@ -191,7 +239,7 @@ South Korean police reportedly launched the country’s first illegal gambling p
 
 ---
 
-## 16. Crypto billionaires bankroll Nigel Farage's pro-crypto party
+## 20. Crypto billionaires bankroll Nigel Farage's pro-crypto party
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/5/2026, 7:02:59 AM  
@@ -203,7 +251,7 @@ Tether-linked billionaire Christopher Harborne and BitMEX co-founder Ben Delo do
 
 ---
 
-## 17. Strategy’s leveraged Bitcoin model has faced its first stress test: Grayscale
+## 21. Strategy’s leveraged Bitcoin model has faced its first stress test: Grayscale
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/5/2026, 7:00:55 AM  
@@ -215,7 +263,7 @@ Tether-linked billionaire Christopher Harborne and BitMEX co-founder Ben Delo do
 
 ---
 
-## 18. Anthropic says self-improving AI may be closer than expected
+## 22. Anthropic says self-improving AI may be closer than expected
 
 **Author:** Cointelegraph by Stephen Katte  
 **Published:** 6/5/2026, 6:03:52 AM  
@@ -227,7 +275,7 @@ Companies have been developing AI very quickly to stay ahead of the market, but 
 
 ---
 
-## 19. ZEC drops 30% as Shielded Labs reveals more about infinite counterfeit bug
+## 23. ZEC drops 30% as Shielded Labs reveals more about infinite counterfeit bug
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/5/2026, 5:09:56 AM  
@@ -239,7 +287,7 @@ ZEC market capitalization fell by almost $3 billion over the past 24 hours follo
 
 ---
 
-## 20. Senate Republicans push finance watchdogs to clarify crypto capital rules
+## 24. Senate Republicans push finance watchdogs to clarify crypto capital rules
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/5/2026, 4:26:57 AM  
