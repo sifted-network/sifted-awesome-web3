@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-03"
 date: "2026-06-03"
 source: "Decrypt"
-count: 7
+count: 5
 ---
 
 # Decrypt - 2026-06-03
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ Researchers found professors preferred AI-generated answers over those written b
 Until now, the only way to run Hermes was through a terminal—or one of several unofficial GUIs the community had cobbled together.
 
 📖 [Read original article](https://decrypt.co/369952/hermes-ai-agent-official-app-terminal)
-
----
-
-## 6. Someone Just Redeemed a 15-Year-Old Physical Bitcoin, Scoring $1.78 Million in BTC
-
-**Author:** Logan Hitchcock  
-**Published:** 6/3/2026, 8:21:13 PM  
-**Categories:** , Markets  
-
-Physical Casascius coins were minted 15 years ago in the early days of Bitcoin—and the BTC held within is worth a whole lot more today.
-
-📖 [Read original article](https://decrypt.co/369947/someone-redeemed-15-year-old-physical-bitcoin-scoring-1-78-million)
-
----
-
-## 7. Perplexity Wants Your Laptop to Do Part of the AI Work—So It Doesn't Have To
-
-**Author:** Jose Antonio Lanz  
-**Published:** 6/3/2026, 7:32:41 PM  
-**Categories:** Artificial Intelligence  
-
-The company's new hybrid inference system routes AI tasks between your device and the cloud automatically. Privacy and cost savings are the pitch—and lower server bills.
-
-📖 [Read original article](https://decrypt.co/369941/perplexity-hybrid-ai-local-cloud-mode)
 
 ---
