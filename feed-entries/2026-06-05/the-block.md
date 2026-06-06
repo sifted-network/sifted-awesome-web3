@@ -2,16 +2,28 @@
 title: "The Block - 2026-06-05"
 date: "2026-06-05"
 source: "The Block"
-count: 15
+count: 16
 ---
 
 # The Block - 2026-06-05
 
-15 items collected.
+16 items collected.
 
 ---
 
-## 1. Next up, taxes: Crypto tax legislation circulated ahead of House Ways and Means Committee hearing next week
+## 1. Hyperliquid treasuries stand alone in profit as legacy crypto DATs bleed billions
+
+**Author:** Kyle Baird  
+**Published:** 6/5/2026, 8:24:27 PM  
+**Categories:** Companies, Crypto Infrastructure, Equities, Markets, Public Equities, The Block, digital asset treasury, Equity Movers, hype, Strategy  
+
+Strategy, Bitmine, and other major treasury firms have seen paper gains evaporate as crypto prices continue sliding.
+
+📖 [Read original article](https://www.theblock.co/post/403855/hype-treasuries-alone-profit-legacy-crypto-dats-bleed-billions?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Next up, taxes: Crypto tax legislation circulated ahead of House Ways and Means Committee hearing next week
 
 **Author:** Sarah Wynn  
 **Published:** 6/5/2026, 4:55:40 PM  
@@ -23,7 +35,7 @@ As cryptocurrency-related bills from regulating stablecoins to the market as a w
 
 ---
 
-## 2. ‘Please stop the FUD’: Zcash treasury company Cypherpunk remains committed to accumulating 5% of ZEC supply
+## 3. ‘Please stop the FUD’: Zcash treasury company Cypherpunk remains committed to accumulating 5% of ZEC supply
 
 **Author:** Yogita Khatri  
 **Published:** 6/5/2026, 4:46:20 PM  
@@ -35,7 +47,7 @@ Shares of Cypherpunk Technologies plunged more than 40% following the disclosure
 
 ---
 
-## 3. Securitize clears SEC registration statement hurdle, sets path to NYSE listing as SECZ
+## 4. Securitize clears SEC registration statement hurdle, sets path to NYSE listing as SECZ
 
 **Author:** Daniel Kuhn  
 **Published:** 6/5/2026, 4:30:52 PM  
@@ -47,7 +59,7 @@ Securitize's SPAC merger is expected to close shortly after a CEPT shareholder v
 
 ---
 
-## 4. Crypto Council for Innovation launches coalition to push for regulatory clarity on vaults
+## 5. Crypto Council for Innovation launches coalition to push for regulatory clarity on vaults
 
 **Author:** Sarah Wynn  
 **Published:** 6/5/2026, 4:05:02 PM  
@@ -59,7 +71,7 @@ A new coalition is forming, focused on crypto vaults, an increasingly popular me
 
 ---
 
-## 5. Strategy’s Saylor says Bitcoin should avoid choosing between ‘purity and adoption’ as BTC extends losses
+## 6. Strategy’s Saylor says Bitcoin should avoid choosing between ‘purity and adoption’ as BTC extends losses
 
 **Author:** Kyle Baird  
 **Published:** 6/5/2026, 3:25:02 PM  
@@ -71,7 +83,7 @@ Strategy Exec Chairman Michael Saylor divided the Bitcoin ecosystem into four ca
 
 ---
 
-## 6. Morgan Stanley lets clients lend bitcoin and other assets for in-kind spot crypto ETF conversions
+## 7. Morgan Stanley lets clients lend bitcoin and other assets for in-kind spot crypto ETF conversions
 
 **Author:** Daniel Kuhn  
 **Published:** 6/5/2026, 3:06:13 PM  
@@ -83,7 +95,7 @@ Morgan Stanley Wealth Management and Galaxy Digital have partnered to let eligib
 
 ---
 
-## 7. Bitcoin, ether ETFs end 13- and 17-day outflow streaks as traders rotate into equity perps ahead of NFP: analysts
+## 8. Bitcoin, ether ETFs end 13- and 17-day outflow streaks as traders rotate into equity perps ahead of NFP: analysts
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/5/2026, 12:45:02 PM  
@@ -95,7 +107,7 @@ Bitcoin ETFs ended a 13-day outflow streak with $3M inflows, and ETH ETFs snappe
 
 ---
 
-## 8. CME CEO Duffy says new perpetual futures could be ‘disaster waiting to happen’
+## 9. CME CEO Duffy says new perpetual futures could be ‘disaster waiting to happen’
 
 **Author:** Brian Danga  
 **Published:** 6/5/2026, 12:03:24 PM  
@@ -107,7 +119,7 @@ CME CEO Terry Duffy warned that U.S.-approved perpetual futures risk retail blow
 
 ---
 
-## 9. Zcash selloff extends past 50% amid bug disclosure as liquidations top $100 million
+## 10. Zcash selloff extends past 50% amid bug disclosure as liquidations top $100 million
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/5/2026, 11:35:03 AM  
@@ -119,7 +131,7 @@ ZEC crashed over 50% to around $310 amid Zcash's Orchard bug disclosure and more
 
 ---
 
-## 10. Hong Kong taps JPMorgan, HSBC for expert group to scale tokenized bonds
+## 11. Hong Kong taps JPMorgan, HSBC for expert group to scale tokenized bonds
 
 **Author:** Timmy Shen  
 **Published:** 6/5/2026, 10:05:44 AM  
@@ -131,7 +143,7 @@ The Hong Kong Monetary Authority announced the formation of an expert group to a
 
 ---
 
-## 11. Grayscale says bitcoin needs other buyers to find a ‘sustainable bottom’ amid Strategy BTC sale
+## 12. Grayscale says bitcoin needs other buyers to find a ‘sustainable bottom’ amid Strategy BTC sale
 
 **Author:** Brian Danga  
 **Published:** 6/5/2026, 9:27:29 AM  
@@ -143,7 +155,7 @@ Grayscale said Strategy's ability to accumulate more bitcoin is limited at the c
 
 ---
 
-## 12. South Korean police investigate local Polymarket users on illegal gambling charges: report
+## 13. South Korean police investigate local Polymarket users on illegal gambling charges: report
 
 **Author:** Danny Park  
 **Published:** 6/5/2026, 8:59:09 AM  
@@ -155,7 +167,7 @@ South Korean Polymarket users could be subject to a fine of up to 10 million Kor
 
 ---
 
-## 13. What Is an XRP ETF? A Complete Guide to XRP Exchange-Traded Funds
+## 14. What Is an XRP ETF? A Complete Guide to XRP Exchange-Traded Funds
 
 **Author:** The Block Research  
 **Published:** 6/5/2026, 6:08:41 AM  
@@ -167,7 +179,7 @@ An XRP ETF is an exchange-traded fund that tracks the price of XRP. These funds 
 
 ---
 
-## 14. Security researcher finds Zcash vulnerability allowing ‘unlimited’ counterfeit minting; ZEC drops 31%
+## 15. Security researcher finds Zcash vulnerability allowing ‘unlimited’ counterfeit minting; ZEC drops 31%
 
 **Author:** Danny Park  
 **Published:** 6/5/2026, 3:16:08 AM  
@@ -179,7 +191,7 @@ The vulnerability was fixed within days, and findings suggest that actual exploi
 
 ---
 
-## 15. JPMorgan, Citi-backed consortium plans to launch tokenized deposit network in early 2027: WSJ
+## 16. JPMorgan, Citi-backed consortium plans to launch tokenized deposit network in early 2027: WSJ
 
 **Author:** Timmy Shen  
 **Published:** 6/5/2026, 2:57:24 AM  
