@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-06-05"
 date: "2026-06-05"
 source: "Decrypt"
-count: 12
+count: 14
 ---
 
 # Decrypt - 2026-06-05
 
-12 items collected.
+14 items collected.
 
 ---
 
-## 1. Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI
+## 1. Zcash Bug Crisis Shows Privacy Cuts Both Ways, Experts Say
+
+**Author:** André Beganski  
+**Published:** 6/5/2026, 8:26:17 PM  
+**Categories:** zcash, Technology  
+
+Fallout from a bug that enabled undetectable Zcash counterfeiting shows that privacy can sometimes present tradeoffs, experts say.
+
+📖 [Read original article](https://decrypt.co/370223/zcash-bug-crisis-shows-privacy-cuts-both-ways-experts-say)
+
+---
+
+## 2. Strategy Shares Fall to 4-Month Low as STRC Dips and Bitcoin Sinks Under $60K
+
+**Author:** André Beganski  
+**Published:** 6/5/2026, 8:02:53 PM  
+**Categories:** , Markets  
+
+Strategy shares tumbled alongside Bitcoin on Friday as the firm's flagship preferred stock also came under pressure.
+
+📖 [Read original article](https://decrypt.co/370229/strategy-shares-fall-4-month-low-strc-dips-bitcoin-sinks-under-60k)
+
+---
+
+## 3. Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI
 
 **Author:** Jose Antonio Lanz  
 **Published:** 6/5/2026, 7:18:56 PM  
@@ -23,7 +47,7 @@ The company behind Claude embedded engineers at the NSA for offensive cyber ops,
 
 ---
 
-## 2. Zcash Crash Just Wiped Billions From the Privacy Coin's Market Cap—Can ZEC Recover?
+## 4. Zcash Crash Just Wiped Billions From the Privacy Coin's Market Cap—Can ZEC Recover?
 
 **Author:** Logan Hitchcock  
 **Published:** 6/5/2026, 6:25:01 PM  
@@ -35,7 +59,7 @@ The price of Zcash cratered following the disclosure of a serious vulnerability 
 
 ---
 
-## 3. Congress Gets 7 New Crypto Tax Bills: Here's What's In Them
+## 5. Congress Gets 7 New Crypto Tax Bills: Here's What's In Them
 
 **Author:** Sander Lutz  
 **Published:** 6/5/2026, 6:13:56 PM  
@@ -47,7 +71,7 @@ The crypto tax bills—the first of their kind to be deliberated by congressiona
 
 ---
 
-## 4. Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend
+## 6. Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend
 
 **Author:** Decrypt Agent  
 **Published:** 6/5/2026, 5:57:29 PM  
@@ -59,7 +83,7 @@ BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own prefer
 
 ---
 
-## 5. Bitcoin Dives Below $60K Following Strong Jobs Data, Zcash Crash Shaking Crypto Confidence
+## 7. Bitcoin Dives Below $60K Following Strong Jobs Data, Zcash Crash Shaking Crypto Confidence
 
 **Author:** Andrew Hayward  
 **Published:** 6/5/2026, 4:15:42 PM  
@@ -71,7 +95,7 @@ Bitcoin has now fallen more than 50% from its October peak, dipping below $60,00
 
 ---
 
-## 6. What Is Strategy (MSTR)? The Bitcoin Treasury Company
+## 8. What Is Strategy (MSTR)? The Bitcoin Treasury Company
 
 **Author:** Logan Hitchcock  
 **Published:** 6/5/2026, 4:15:02 PM  
@@ -83,7 +107,7 @@ Software firm Strategy (formerly MicroStrategy) and its co-founder Michael Saylo
 
 ---
 
-## 7. Government Stablecoin Payments Would Fuel 'Tax Evasion Economy,' Lawmaker Warns
+## 9. Government Stablecoin Payments Would Fuel 'Tax Evasion Economy,' Lawmaker Warns
 
 **Author:** Decrypt Agent  
 **Published:** 6/5/2026, 3:52:15 PM  
@@ -95,7 +119,7 @@ Rep. Brad Sherman warned that allowing government payments in stablecoins would 
 
 ---
 
-## 8. Winklevoss-Backed Zcash Treasury Plunges Nearly 40% on ZEC Privacy Bug Concerns
+## 10. Winklevoss-Backed Zcash Treasury Plunges Nearly 40% on ZEC Privacy Bug Concerns
 
 **Author:** André Beganski  
 **Published:** 6/5/2026, 3:49:08 PM  
@@ -107,7 +131,7 @@ Cypherpunk Technologies shares tumbled to their lowest point since March as jitt
 
 ---
 
-## 9. Hyperliquid Hit by UK FCA Warning as Crypto Perps Face Scrutiny
+## 11. Hyperliquid Hit by UK FCA Warning as Crypto Perps Face Scrutiny
 
 **Author:** Vince Dioquino  
 **Published:** 6/5/2026, 1:10:25 PM  
@@ -119,7 +143,7 @@ The warning from the UK’s Financial Conduct Authority adds pressure to a perps
 
 ---
 
-## 10. Morning Minute: Massive ZCash Exploit Found by Claude, Extent Unknown
+## 12. Morning Minute: Massive ZCash Exploit Found by Claude, Extent Unknown
 
 **Author:** Tyler Warner  
 **Published:** 6/5/2026, 12:49:04 PM  
@@ -131,7 +155,7 @@ The ZCash team hired a hacker to find an exploit in the ZCash protocol, and he e
 
 ---
 
-## 11. Pump.fun's Latest Experiment Is Already Getting Weird
+## 13. Pump.fun's Latest Experiment Is Already Getting Weird
 
 **Author:** Vismaya V  
 **Published:** 6/5/2026, 11:33:50 AM  
@@ -143,7 +167,7 @@ Pump.fun's GO bounty platform already has hundreds of listings following its pit
 
 ---
 
-## 12. ZEC Crashes 38% as Zcash Discloses ‘Critical Counterfeiting Vulnerability’
+## 14. ZEC Crashes 38% as Zcash Discloses ‘Critical Counterfeiting Vulnerability’
 
 **Author:** Akash Girimath  
 **Published:** 6/5/2026, 10:41:59 AM  
