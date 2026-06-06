@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-04"
 date: "2026-06-04"
 source: "The Block"
-count: 4
+count: 3
 ---
 
 # The Block - 2026-06-04
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ The allocation comes from a mix of ether.fi's liquidity provider base and manage
 “To scale, the gray-market peptide trade adopted cryptocurrency as its backbone,” Chainalysis said in a report.
 
 📖 [Read original article](https://www.theblock.co/post/403683/chainalysis-says-top-tier-gray-market-peptide-vendors-turn-to-bitcoin-and-stablecoins?utm_source=rss&utm_medium=rss)
-
----
-
-## 4. JPMorgan says crypto bill may have only a narrow window for passage this year
-
-**Author:** Yogita Khatri  
-**Published:** 6/4/2026, 3:44:40 PM  
-**Categories:** Companies, Finance firms, Markets, Policy, Regulation, U.S. Policymaking, CFTC, Congress, House Agriculture Committee, House Financial Services Committee, Investment Firms, JPMorgan, Senate Agriculture Committee, Senate Banking Committee, Senate Finance Committee, TradFi banks, Treasury Department  
-
-JPMorgan analysts said the crypto market structure bill, or Clarity Act, may have only a narrow window for passage this year.
-
-📖 [Read original article](https://www.theblock.co/post/403676/jpmorgan-crypto-bill-narrow-window-passage-this-year?utm_source=rss&utm_medium=rss)
 
 ---
