@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-05"
 date: "2026-06-05"
 source: "CoinDesk"
-count: 21
+count: 18
 ---
 
 # CoinDesk - 2026-06-05
 
-21 items collected.
+18 items collected.
 
 ---
 
@@ -224,41 +224,5 @@ U.S. spot bitcoin ETFs pulled in a net $3.05 million on Thursday, capping 13 str
 A confluence of factors makes $60,000 as key level to watch for in the near term, according to Deribit.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/05/here-s-what-could-happen-if-bitcoin-breaks-below-usd60-000)
-
----
-
-## 19. Bitcoin in danger of dropping to $60,000, with Zcash bulls turning their backs on ZEC
-
-**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten  
-**Published:** 6/5/2026, 6:18:59 AM  
-**Categories:** Tech, Live News, live_news  
-
-AI bets are recording rapid profit-taking as Broadcom as outlook for AI-chip sales fell short of high expectations, driving down crypto markets.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/05/bitcoin-in-danger-of-dropping-to-usd60-000-with-zcash-bulls-turning-their-backs-on-zec)
-
----
-
-## 20. Bitcoin plunges to near $62,000 as the AI trade unwinds, HYPE falls 14%
-
-**Author:** Shaurya Malwa  
-**Published:** 6/5/2026, 6:08:32 AM  
-**Categories:** Markets, News  
-
-Broadcom's disappointing AI chip outlook pulled the Nasdaq lower for a third session, dragged Asian equities down with it, and took crypto along for the ride.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/05/bitcoin-plunges-to-near-usd62-000-as-the-ai-trade-unwinds-hype-falls-14)
-
----
-
-## 21. Zcash plummets 38% as Shielded Labs reveals a major bug that went undetected for four years
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 6/5/2026, 5:43:07 AM  
-**Categories:** Markets, Privacy, News  
-
-Shielded Labs revealed that the bug could have helped an attacker print unlimited counterfeit tokens. That could have damaged trust in the token's supply and its value.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/05/zcash-plummets-30-as-developer-reveals-a-major-bug-that-went-undetected-for-four-years)
 
 ---
