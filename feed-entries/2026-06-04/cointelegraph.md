@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-04"
 date: "2026-06-04"
 source: "Cointelegraph"
-count: 6
+count: 5
 ---
 
 # Cointelegraph - 2026-06-04
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ US spot Bitcoin ETF ownership shifted during the market downturn as hedge funds 
 A Coinbase-Better Home & Finance initiative will allow qualified borrowers to use Bitcoin and USDC as collateral for home loan down payments.
 
 📖 [Read original article](https://cointelegraph.com/news/coinbase-token-backed-mortgages-fannie-mae-summer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Bitcoin bulls' fate rests on $60K support as crypto erases $2T in market cap
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 6/4/2026, 5:30:15 PM  
-**Categories:** Markets  
-
-Bitcoin continued "incredible" 2022 bear market repeat behavior as sellers kept control over BTC price rebound attempts.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-bulls-fate-rests-on-60k-support-as-sellers-remain-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
