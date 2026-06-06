@@ -75,7 +75,7 @@ A new coalition is forming, focused on crypto vaults, an increasingly popular me
 
 **Author:** Kyle Baird  
 **Published:** 6/5/2026, 3:25:02 PM  
-**Categories:** Markets, People, Public Equities, The Block, zzz - Old categories, bitcoin-price, michael-saylor, Strategy  
+**Categories:** Markets, People, Public Equities, The Block, bitcoin-price, michael-saylor, Strategy  
 
 Strategy Exec Chairman Michael Saylor divided the Bitcoin ecosystem into four camps, saying that each serves a necessary role.
 
