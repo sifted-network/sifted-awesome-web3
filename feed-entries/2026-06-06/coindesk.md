@@ -2,16 +2,76 @@
 title: "CoinDesk - 2026-06-06"
 date: "2026-06-06"
 source: "CoinDesk"
-count: 2
+count: 7
 ---
 
 # CoinDesk - 2026-06-06
 
-2 items collected.
+7 items collected.
 
 ---
 
-## 1. Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations
+## 1. A massive hiring wave reveals trading firms are no longer viewing Polymarket as a niche betting tool
+
+**Author:** Oliver Knight  
+**Published:** 6/6/2026, 1:00:00 PM  
+**Categories:** Finance, Prediction Markets, Crypto Trading, Exclusive, News  
+
+While rising volume on Polymarket and Kalshi is attracting quantitative firms to prediction markets, they aren't focusing on event outcomes; rather, they're exploiting market inefficiencies for profit.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/06/a-massive-hiring-wave-reveals-trading-firms-are-no-longer-viewing-polymarket-as-a-niche-betting-tool)
+
+---
+
+## 2. Michael Saylor’s rallying cry: Bitcoin needs four forces to win
+
+**Author:** James Van Straten,AI Boost  
+**Published:** 6/6/2026, 1:00:00 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+The Strategy executive chairman argued that four distinct camps each play a vital role in bitcoin’s long-term success.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/06/michael-saylor-s-rallying-cry-bitcoin-needs-four-forces-to-win)
+
+---
+
+## 3. Are retail traders selling their bitcoin to buy the SpaceX IPO?
+
+**Author:** Shaurya Malwa  
+**Published:** 6/6/2026, 9:45:15 AM  
+**Categories:** Markets, News  
+
+Exchange flows and stablecoin movements through this week's sell-off show no wall of money leaving crypto for cash. Exchanges such as Robinhood and Coinbase will not publicly reporting their figures until July.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo)
+
+---
+
+## 4. Researcher who found Zcash's bug with AI adds Monero to his audit queue
+
+**Author:** Shaurya Malwa  
+**Published:** 6/6/2026, 9:38:00 AM  
+**Categories:** Tech, News  
+
+Taylor Hornby, who uncovered the Orchard flaw that sent Zcash down 38%, says other privacy coins are on his list too.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/06/06/researcher-who-found-zcash-s-bug-with-ai-adds-monero-to-his-audit-queue)
+
+---
+
+## 5. WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it
+
+**Author:** Shaurya Malwa  
+**Published:** 6/6/2026, 8:25:36 AM  
+**Categories:** Markets, News  
+
+The BitMEX co-founder and Maelstrom CIO cited a falling chart of SpaceX stock, which does not begin trading until June 12, as Worldcoin slid about 10%.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/06/wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it)
+
+---
+
+## 6. Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations
 
 **Author:** Shaurya Malwa  
 **Published:** 6/6/2026, 6:40:17 AM  
@@ -23,7 +83,7 @@ Bitcoin fell as low as $59,227 overnight before recovering, steadying after Frid
 
 ---
 
-## 2. Cardano social activity surges as ADA falls under 20 cents to four-year lows
+## 7. Cardano social activity surges as ADA falls under 20 cents to four-year lows
 
 **Author:** Shaurya Malwa  
 **Published:** 6/6/2026, 3:30:00 AM  
