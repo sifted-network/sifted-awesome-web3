@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-05"
 date: "2026-06-05"
 source: "CoinDesk"
-count: 18
+count: 14
 ---
 
 # CoinDesk - 2026-06-05
 
-18 items collected.
+14 items collected.
 
 ---
 
@@ -176,53 +176,5 @@ Hayes said he would reconsider his stance if his assumptions that an exploit is 
 Your day-ahead look for June 5, 2026
 
 📖 [Read original article](https://www.coindesk.com/daybook-us/2026/06/04/bitcoin-sentiment-hit-peak-bearishness-at-recent-lows-peak-bullishness-near-tops)
-
----
-
-## 15. Crypto's worst week since July 2024 deepens as bitcoin, ether near critical price levels
-
-**Author:** Oliver Knight,Saksham Diwan  
-**Published:** 6/5/2026, 10:39:16 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Crypto is on course for its worst week since July 2024, with the ether price approaching a critical support as a zcash exploit and AI capital rotation pile on the pressure.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/05/crypto-s-worst-week-since-july-2024-deepens-as-bitcoin-ether-near-critical-price-levels)
-
----
-
-## 16. JPMorgan, Bank of America, Citi to start blockchain offensive with shared tokenized network
-
-**Author:** Omkar Godbole  
-**Published:** 6/5/2026, 9:16:29 AM  
-**Categories:** Markets, News  
-
-American's biggest banks plan to introduce a shared tokenized network next year to tackle the potential threat of stablecoins eating into their deposits.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/05/jpmorgan-bank-of-america-and-citi-are-going-on-the-blockchain-offensive-with-a-shared-tokenized-network)
-
----
-
-## 17. U.S. bitcoin, ether ETFs end record multibillion outflow streak
-
-**Author:** Shaurya Malwa  
-**Published:** 6/5/2026, 8:53:30 AM  
-**Categories:** Markets, Bitcoin News, ETFs, News  
-
-U.S. spot bitcoin ETFs pulled in a net $3.05 million on Thursday, capping 13 straight sessions of outflows totaling roughly $4.4 billion. Ether ETFs ended a 17-day outflow streak.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/05/bitcoin-and-ether-etfs-end-record-multi-billion-outflow-streak)
-
----
-
-## 18. Here's what could happen if bitcoin breaks below $60,000
-
-**Author:** Omkar Godbole  
-**Published:** 6/5/2026, 7:52:25 AM  
-**Categories:** Markets, Derivatives, Bitcoin News, Markets, News  
-
-A confluence of factors makes $60,000 as key level to watch for in the near term, according to Deribit.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/05/here-s-what-could-happen-if-bitcoin-breaks-below-usd60-000)
 
 ---
