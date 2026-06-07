@@ -6,7 +6,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) | 475 | 180 | Rust | 175 | A flexible toolkit for building real-time blockchains | 2026-05-29 |
+| 1 | [sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) | 476 | 181 | Rust | 174 | A flexible toolkit for building real-time blockchains | 2026-06-06 |
 | 2 | [zkopru](https://github.com/zkopru-network/zkopru) | 219 | 27 | TypeScript | 68 | Ethereum L2 scaling solution for private transactions using zk-SNARK and optimistic rollup. | 2023-01-24 |
 | 3 | [optimistic-specs](https://github.com/ethereum-optimism/optimistic-specs) | 172 | 40 | Go | 44 | Optimistic: Bedrock, is a protocol that strives to be an extremely simple optimistic rollup that maintains 1:1 compatibility with Ethereum | 2023-08-02 |
 | 4 | [hubble-contracts](https://github.com/thehubbleproject/hubble-contracts) | 137 | 29 | TypeScript | 49 | Hubble optimistic rollup | 2023-02-08 |
@@ -20,8 +20,8 @@
 | 12 | [macula](https://github.com/protolambda/macula) | 29 | 4 | Python | 0 | Experimental python optimistic rollup fraud-proof generation | 2022-08-30 |
 | 13 | [tezos-on-tezos](https://github.com/baking-bad/tezos-on-tezos) | 26 | 2 | Rust | 4 | Michelson VM and Tezos OS rewritten in Rust | 2023-09-26 |
 | 14 | [optimistic-rollup](https://github.com/MitchellTesla/optimistic-rollup) | 18 | 3 | Solidity | 0 | 丰 Solidity smart-contracts for the Celer sidechain on the Ethereum Virtual-Machine  💎  | 2022-01-18 |
-| 15 | [protocol-v2](https://github.com/dev-protocol/protocol-v2) | 18 | 3 | TypeScript | 4 | 🗞️ Dev Protocol for Optimistic Rollups | 2026-05-30 |
-| 16 | [OPinit](https://github.com/initia-labs/OPinit) | 17 | 17 | Go | 0 | Initia optimistic rollup Cosmos SDK modules | 2026-05-29 |
+| 15 | [protocol-v2](https://github.com/dev-protocol/protocol-v2) | 18 | 3 | TypeScript | 4 | 🗞️ Dev Protocol for Optimistic Rollups | 2026-06-02 |
+| 16 | [OPinit](https://github.com/initia-labs/OPinit) | 17 | 17 | Go | 0 | Initia optimistic rollup Cosmos SDK modules | 2026-06-01 |
 | 17 | [Layer2-Scaling-Solutions](https://github.com/ViktorVL584/Layer2-Scaling-Solutions) | 16 | 0 | - | 0 | An in-depth exploration of Layer 2 scaling solutions like Optimistic Rollups, zk-Rollups, and sidechains. Includes code samples and implementation guides. | 2025-02-12 |
 | 18 | [optimistic-L2](https://github.com/nitantchhajed/optimistic-L2) | 16 | 0 | Solidity | 0 | Making L2 chain, Optimistic/zkRollup (fraud proofs/L1-L2 data transfer/challenging/ etc) | 2023-02-14 |
 | 19 | [opti](https://github.com/protolambda/opti) | 13 | 1 | Go | 0 | Minimalist optimistic rollup tech | 2021-08-20 |
