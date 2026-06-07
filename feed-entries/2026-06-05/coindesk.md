@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-05"
 date: "2026-06-05"
 source: "CoinDesk"
-count: 14
+count: 13
 ---
 
 # CoinDesk - 2026-06-05
 
-14 items collected.
+13 items collected.
 
 ---
 
@@ -164,17 +164,5 @@ Zcash plummeted 40% after Shielded Labs revealed a major bug that went undetecte
 Hayes said he would reconsider his stance if his assumptions that an exploit is still possible prove to be incorrect.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/05/arthur-hayes-dumps-zcash-holdings-after-orchard-pool-vulnerability-revealed)
-
----
-
-## 14. Bitcoin sentiment hit peak bearishness at recent lows, peak bullishness near tops
-
-**Author:** Shaurya Malwa  
-**Published:** 6/5/2026, 11:25:49 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for June 5, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/06/04/bitcoin-sentiment-hit-peak-bearishness-at-recent-lows-peak-bullishness-near-tops)
 
 ---
