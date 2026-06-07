@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-05"
 date: "2026-06-05"
 source: "CoinDesk"
-count: 13
+count: 12
 ---
 
 # CoinDesk - 2026-06-05
 
-13 items collected.
+12 items collected.
 
 ---
 
@@ -152,17 +152,5 @@ Liquidations were small relative to the size of the decline, pointing to spot se
 Zcash plummeted 40% after Shielded Labs revealed a major bug that went undetected for 4 years.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/06/05/live-updates-bitcoin-below-usd62-000-ahead-of-jobs-data-as-zcash-bug-rocks-crypto)
-
----
-
-## 13. Arthur Hayes dumps zcash holdings after Orchard Pool vulnerability revealed
-
-**Author:** Olivier Acuna  
-**Published:** 6/5/2026, 11:57:22 AM  
-**Categories:** Markets, Cryptocurrency, Privacy, News  
-
-Hayes said he would reconsider his stance if his assumptions that an exploit is still possible prove to be incorrect.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/05/arthur-hayes-dumps-zcash-holdings-after-orchard-pool-vulnerability-revealed)
 
 ---
