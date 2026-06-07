@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-04"
 date: "2026-06-04"
 source: "Cointelegraph"
-count: 5
+count: 4
 ---
 
 # Cointelegraph - 2026-06-04
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Political activist Bill Browder, the teenager’s father, said his son was “th
 US spot Bitcoin ETF ownership shifted during the market downturn as hedge funds exited positions, while banks and long-term allocators continued building exposure.
 
 📖 [Read original article](https://cointelegraph.com/news/bitcoin-etf-ownership-shifts-hedge-funds-sell-banks-buy-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Coinbase to launch token-backed mortgage down payments this summer
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 6/4/2026, 6:52:00 PM  
-**Categories:** Latest News  
-
-A Coinbase-Better Home & Finance initiative will allow qualified borrowers to use Bitcoin and USDC as collateral for home loan down payments.
-
-📖 [Read original article](https://cointelegraph.com/news/coinbase-token-backed-mortgages-fannie-mae-summer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
