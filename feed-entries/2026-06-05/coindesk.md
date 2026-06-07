@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-05"
 date: "2026-06-05"
 source: "CoinDesk"
-count: 12
+count: 8
 ---
 
 # CoinDesk - 2026-06-05
 
-12 items collected.
+8 items collected.
 
 ---
 
@@ -104,53 +104,5 @@ Several headwinds converged over bitcoin recently as its largest buyer turned se
 XRP lost another 5% after a high-volume breakdown overwhelmed support near $1.20, leaving traders focused on whether the latest washout marks capitulation or the start of a deeper slide.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/05/xrp-falls-toward-usd1-10-as-liquidation-driven-selloff-pushes-token-to-multi-month-lows)
-
----
-
-## 9. CoinDesk 20 performance update: Bitcoin (BTC) price drops 2.8% as index declines
-
-**Author:** CoinDesk Indices  
-**Published:** 6/5/2026, 1:10:39 PM  
-**Categories:** CoinDesk Indices, CoinDesk Indices, CoinDesk 20, charts, Prices, News  
-
-All twenty constituents in the CoinDesk 20 index were trading lower since yesterday.
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/06/05/coindesk-20-performance-update-bitcoin-btc-price-drops-2-8-as-index-declines)
-
----
-
-## 10. U.S. job growth blows past forecasts, setting stage for Fed rate hikes
-
-**Author:** James Van Straten,Krisztian Sandor  
-**Published:** 6/5/2026, 12:57:14 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin is now facing another headwind — the prospect of higher interest rates.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/05/u-s-job-growth-blows-past-forecasts-setting-stage-for-fed-rate-hikes)
-
----
-
-## 11. Bearish zcash bets hit record high as privacy token's price crashes
-
-**Author:** Shaurya Malwa  
-**Published:** 6/5/2026, 12:54:02 PM  
-**Categories:** Markets, Privacy, Markets, News  
-
-Liquidations were small relative to the size of the decline, pointing to spot selling rather than a leverage cascade, while open interest in ZEC futures climbed to a record high in token terms as traders crowded into the slide from the short side.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/05/bearish-zcash-bets-hit-record-high-as-privacy-token-s-price-crashes)
-
----
-
-## 12. Live updates: bitcoin tumbles to $60,000 as blowout jobs data, Zcash bug keeps pressure on crypto
-
-**Author:** Stephen Alpher,Shaurya Malwa,Helene Braun,Krisztian Sandor,James Van Straten  
-**Published:** 6/5/2026, 12:08:26 PM  
-**Categories:** Tech, Bitcoin News, Live News, live_news  
-
-Zcash plummeted 40% after Shielded Labs revealed a major bug that went undetected for 4 years.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/05/live-updates-bitcoin-below-usd62-000-ahead-of-jobs-data-as-zcash-bug-rocks-crypto)
 
 ---
