@@ -7,7 +7,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,571 | 2,275 | Rust | 52 | Taiko Alethia based rollup protocol 🥁  | 2026-06-06 |
-| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,062 | 759 | Rust | 632 | The Stacks blockchain implementation | 2026-06-05 |
+| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,063 | 760 | Rust | 631 | The Stacks blockchain implementation | 2026-06-05 |
 | 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,547 | 331 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
 | 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,026 | 617 | - | 1896 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
 | 5 | [starknetbook](https://github.com/starknet-edu/starknetbook) | 830 | 489 | CSS | 0 | Mastering Starknet. By the Starknet community | 2024-06-20 |
@@ -86,8 +86,8 @@
 | 78 | [acorus](https://github.com/eniac-x-labs/acorus) | 19 | 11 | Go | 0 | All layer2 and dapplink layer3 chain l1->l2->l3, l3->l2->l1 and any chain transfer to any chain transactions indexer,  | 2025-11-29 |
 | 79 | [typhon-spec](https://github.com/pandoracore/typhon-spec) | 19 | 1 | - | 4 | Trustless sidechains for Bitcoin network. Lightning ⚡️ brings thunderbolt 🌩 – Typhon 🐉 brings typhoon🌪 | 2019-02-07 |
 | 80 | [alicenet](https://github.com/alicenet/alicenet) | 18 | 16 | Go | 0 | Official repository for the AliceNet layer2 blockchain | 2026-02-14 |
-| 81 | [layer2](https://github.com/mtth/layer2) | 18 | 1 | C++ | 2 |  | 2016-02-07 |
-| 82 | [arbitrum-claim-send](https://github.com/codeesura/arbitrum-claim-send) | 18 | 16 | JavaScript | 0 | This repo is designed to claim Arbitrum (ARB) tokens from a smart contract and send them to a specified recipient address. | 2023-05-22 |
+| 81 | [arbitrum-claim-send](https://github.com/codeesura/arbitrum-claim-send) | 18 | 16 | JavaScript | 0 | This repo is designed to claim Arbitrum (ARB) tokens from a smart contract and send them to a specified recipient address. | 2023-05-22 |
+| 82 | [layer2](https://github.com/mtth/layer2) | 18 | 1 | C++ | 2 |  | 2016-02-07 |
 | 83 | [stellar-turrets](https://github.com/stellar/stellar-turrets) | 18 | 10 | JavaScript | 0 | Reference implementation of the Stellar Turrets protocol | 2024-08-29 |
 | 84 | [js-layer2lib](https://github.com/layer2lib/js-layer2lib) | 18 | 0 | JavaScript | 0 | A javascript library for building state-channel and Plasma applications | 2018-08-26 |
 | 85 | [SuperScalar](https://github.com/8144225309/SuperScalar) | 18 | 2 | C | 8 | Implementation of SuperScalar — Bitcoin Lightning channel factories that onboard N users in one shared UTXO. No soft fork required. | 2026-06-06 |
