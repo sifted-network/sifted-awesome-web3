@@ -11,7 +11,7 @@ count: 3
 
 ---
 
-## 1. What happens to Bitcoin if the Nasdaq falls further?
+## 1. What happens to Bitcoin if Nasdaq falls further?
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 6/7/2026, 8:52:36 PM  
@@ -35,7 +35,7 @@ Strategy’s top execs took to social media on Sunday to tout its Bitcoin strate
 
 ---
 
-## 3. Bitcoin risks new 'purge' with bear-market losses still $35B below 2022 total
+## 3. Bitcoin risks new purge with bear-market losses still $35B below 2022 total
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/7/2026, 2:29:19 PM  
