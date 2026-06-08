@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-06-07"
 date: "2026-06-07"
 source: "CoinDesk"
-count: 5
+count: 6
 ---
 
 # CoinDesk - 2026-06-07
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. Michael Saylor revives bitcoin-buy speculation as scrutiny over Strategy grows
+## 1. A quick review of the Ways and Means tax bills: State of Crypto
+
+**Author:** Nikhilesh De  
+**Published:** 6/7/2026, 8:27:12 PM  
+**Categories:** Policy, Newsletters, State of Crypto, News  
+
+The House Ways and Means Committee is gearing up for its big tax push.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/06/07/a-quick-review-of-the-ways-and-means-tax-bills-state-of-crypto)
+
+---
+
+## 2. Michael Saylor revives bitcoin-buy speculation as scrutiny over Strategy grows
 
 **Author:** Krisztian Sandor  
 **Published:** 6/7/2026, 5:41:57 PM  
@@ -23,7 +35,7 @@ The firm's executive chairman posted a familiar chart with Strategy's previous B
 
 ---
 
-## 2. Bitcoin near $60,000 today vs February: Institutional sentiment has flipped
+## 3. Bitcoin near $60,000 today vs February: Institutional sentiment has flipped
 
 **Author:** Omkar Godbole  
 **Published:** 6/7/2026, 4:14:08 PM  
@@ -35,7 +47,7 @@ Bitcoin’s return to $60,000 is drawing heavy ETF outflows, marking a sharp rev
 
 ---
 
-## 3. Bitcoin's slide has no single cause. AI, tech IPOs, quantum, Strategy sale all play a role, NYDIG says
+## 4. Bitcoin's slide has no single cause. AI, tech IPOs, quantum, Strategy sale all play a role, NYDIG says
 
 **Author:** Krisztian Sandor  
 **Published:** 6/7/2026, 4:00:00 PM  
@@ -47,7 +59,7 @@ Not one, but several overlapping headwinds are hitting the crypto market at once
 
 ---
 
-## 4. Abra’s Bill Barhydt says Wall Street’s next crypto bet is tokenization
+## 5. Abra’s Bill Barhydt says Wall Street’s next crypto bet is tokenization
 
 **Author:** Will Canny  
 **Published:** 6/7/2026, 3:00:00 PM  
@@ -59,7 +71,7 @@ As Abra prepares for a Nasdaq debut, CEO Bill Barhydt is betting tokenized yield
 
 ---
 
-## 5. Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says
+## 6. Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says
 
 **Author:** Margaux Nijkerk  
 **Published:** 6/7/2026, 1:00:00 PM  
