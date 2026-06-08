@@ -6,11 +6,11 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [fineract](https://github.com/apache/fineract) | 2,223 | 2,540 | Java | 0 | Apache Fineract | 2026-06-06 |
+| 1 | [fineract](https://github.com/apache/fineract) | 2,224 | 2,540 | Java | 0 | Apache Fineract | 2026-06-06 |
 | 2 | [aave-protocol](https://github.com/aave/aave-protocol) | 1,436 | 591 | HTML | 22 | Aave Protocol Version 1.0 - Decentralized Lending Pools | 2024-08-02 |
 | 3 | [MikaLendingBot](https://github.com/BitBotFactory/MikaLendingBot) | 1,156 | 349 | Python | 70 | Automated lending on Cryptocurrency exchanges Poloniex and Bitfinex | 2020-12-02 |
-| 4 | [lending](https://github.com/frappe/lending) | 297 | 263 | Python | 16 | Open Source Lending software | 2026-06-03 |
-| 5 | [hand_detection](https://github.com/molyswu/hand_detection) | 276 | 85 | Python | 6 | using Neural Networks (SSD) on Tensorflow.  This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive ... | 2022-01-11 |
+| 4 | [lending](https://github.com/frappe/lending) | 297 | 263 | Python | 16 | Open Source Lending software | 2026-06-07 |
+| 5 | [hand_detection](https://github.com/molyswu/hand_detection) | 276 | 84 | Python | 6 | using Neural Networks (SSD) on Tensorflow.  This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive ... | 2022-01-11 |
 | 6 | [dharma-smart-wallet](https://github.com/dharma-eng/dharma-smart-wallet) | 268 | 38 | Solidity | 1 | An upgradeable, meta-transaction-enabled smart wallet for earning interest on stablecoins while retaining custody of funds, with an added security backstop provided by Dharma Labs. | 2023-01-04 |
 | 7 | [flash-lending](https://github.com/marbleprotocol/flash-lending) | 250 | 59 | Solidity | 11 | Flash lending smart contracts | 2018-11-18 |
 | 8 | [leihs](https://github.com/leihs/leihs) | 236 | 63 | Ruby | 239 | leihs is an inventory management, procurement and lending system | 2026-06-05 |
@@ -37,7 +37,7 @@
 | 29 | [teller-protocol-v1](https://github.com/teller-protocol/teller-protocol-v1) | 105 | 33 | Solidity | 7 | Teller is a lending and undercollateralized borrowing protocol on the Ethereum blockchain. Teller is the first protocol to allow zero collateral borrowing for greater than one block. | 2026-06-05 |
 | 30 | [morpho-blue-oracles](https://github.com/morpho-org/morpho-blue-oracles) | 105 | 59 | Solidity | 5 | Morpho Blue Oracles | 2026-04-21 |
 | 31 | [LendingClub](https://github.com/jgillick/LendingClub) | 104 | 47 | Python | 12 | A Python API for LendingClub | 2016-04-19 |
-| 32 | [awesome-fintech](https://github.com/jplock/awesome-fintech) | 103 | 35 | - | 19 | Curated list of awesome Fintech startup companies | 2026-04-11 |
+| 32 | [awesome-fintech](https://github.com/jplock/awesome-fintech) | 103 | 37 | - | 19 | Curated list of awesome Fintech startup companies | 2026-04-11 |
 | 33 | [Documentation](https://github.com/ETHLend/Documentation) | 101 | 41 | - | 11 | ETHLend White Paper | 2019-05-07 |
 | 34 | [ctf-lending](https://github.com/MrToph/ctf-lending) | 100 | 15 | Solidity | 0 |  | 2022-12-13 |
 | 35 | [rcn-network](https://github.com/rcnfinance/rcn-network) | 97 | 43 | JavaScript | 1 | RCN​ is a global p2p lending protocol based on smart contracts and blockchain technology | 2023-04-13 |
@@ -53,7 +53,7 @@
 | 45 | [kashi-lending](https://github.com/sushiswap/kashi-lending) | 83 | 54 | - | 4 |  | 2022-10-25 |
 | 46 | [Sovryn-frontend](https://github.com/DistributedCollective/Sovryn-frontend) | 80 | 64 | TypeScript | 0 | Frontend DApp for Sovryn trading and lending platform. | 2026-06-04 |
 | 47 | [bitfinex-auto-lend](https://github.com/mariodian/bitfinex-auto-lend) | 78 | 26 | PHP | 1 | Bitfinex PHP bot for automatic money lending | 2017-04-30 |
-| 48 | [Obfusc8ted](https://github.com/RoseSecurity/Obfusc8ted) | 77 | 5 | - | 0 | You and the AppleLabs' Incident Response Team have been notified of a potential breach to a Human Resources' workstation. According to the Human Resources representative, they did not notice any anoma... | 2021-12-02 |
+| 48 | [Obfusc8ted](https://github.com/RoseSecurity/Obfusc8ted) | 77 | 6 | - | 0 | You and the AppleLabs' Incident Response Team have been notified of a potential breach to a Human Resources' workstation. According to the Human Resources representative, they did not notice any anoma... | 2021-12-02 |
 | 49 | [lending-library](https://github.com/jlord/lending-library) | 75 | 131 | JavaScript | 1 | A fork-and-go repo for creating a tool lending library website. | 2019-06-03 |
 | 50 | [pawnft](https://github.com/Anish-Agnihotri/pawnft) | 75 | 23 | TypeScript | 4 | NFT-collateralized lending primitive, via active auctions. | 2022-01-03 |
 | 51 | [ERC3156-Wrappers](https://github.com/alcueca/ERC3156-Wrappers) | 73 | 23 | Solidity | 0 | ERC3156 wrappers for popular flash lenders | 2023-07-04 |
@@ -76,7 +76,7 @@
 | 68 | [hifi-protocol](https://github.com/hifi-finance/hifi-protocol) | 54 | 8 | - | 0 | The Hifi fixed-rate, fixed-term lending protocol | 2021-08-09 |
 | 69 | [LibraryMan-API](https://github.com/ajaynegi45/LibraryMan-API) | 54 | 53 | Java | 7 | Revolutionize book management with LibraryMan! Easily track stock, borrowers, and due dates, streamlining operations for schools, companies, and libraries worldwide, ensuring efficient and organized b... | 2025-08-07 |
 | 70 | [_v1_.contracts](https://github.com/re-nft/_v1_.contracts) | 53 | 27 | TypeScript | 0 | ReNFT's legacy ERC721 and ERC1155 lending and renting protocol | 2022-08-05 |
-| 71 | [cli](https://github.com/jup-ag/cli) | 52 | 13 | TypeScript | 0 | CLI for interacting with Jupiter's products on Solana: Spot, Perps, Lend, Prediction Markets and more. | 2026-06-02 |
+| 71 | [cli](https://github.com/jup-ag/cli) | 52 | 12 | TypeScript | 0 | CLI for interacting with Jupiter's products on Solana: Spot, Perps, Lend, Prediction Markets and more. | 2026-06-02 |
 | 72 | [lending-protocol-v2](https://github.com/Zharta/lending-protocol-v2) | 51 | 15 | Python | 0 |  | 2026-05-20 |
 | 73 | [ccip-defi-lending](https://github.com/smartcontractkit/ccip-defi-lending) | 48 | 20 | JavaScript | 0 | CCIP Launch Defi Demo | 2023-12-04 |
 | 74 | [LendingClubAutoInvestor](https://github.com/jgillick/LendingClubAutoInvestor) | 47 | 21 | Python | 7 | A simple command line tool that will automatically invest all cash that becomes available | 2016-04-19 |
