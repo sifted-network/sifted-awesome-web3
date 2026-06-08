@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-05"
 date: "2026-06-05"
 source: "The Block"
-count: 11
+count: 8
 ---
 
 # The Block - 2026-06-05
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ Morgan Stanley Wealth Management and Galaxy Digital have partnered to let eligib
 Bitcoin ETFs ended a 13-day outflow streak with $3M inflows, and ETH ETFs snapped a 17-day run ahead of NFP as traders rotate to equity perps.
 
 📖 [Read original article](https://www.theblock.co/post/403805/bitcoin-ether-etfs-end-13-and-17-day-outflow-streaks-as-traders-rotate-into-equity-perps-ahead-of-nfp-analysts?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. CME CEO Duffy says new perpetual futures could be ‘disaster waiting to happen’
-
-**Author:** Brian Danga  
-**Published:** 6/5/2026, 12:03:24 PM  
-**Categories:** Deals, Markets, People, cme, crypto-futures, regulation  
-
-CME CEO Terry Duffy warned that U.S.-approved perpetual futures risk retail blowouts and excessive leverage exposure.
-
-📖 [Read original article](https://www.theblock.co/post/403795/cme-ceo-duffy-says-new-perpetual-futures-could-be-disaster-waiting-to-happen?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Zcash selloff extends past 50% amid bug disclosure as liquidations top $100 million
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/5/2026, 11:35:03 AM  
-**Categories:** Crypto Ecosystems, DeFi, Infrastructure, Layer 1s, Security, Assets, privacy, privacy-coins, Protocols, zcash  
-
-ZEC crashed over 50% to around $310 amid Zcash's Orchard bug disclosure and more than $116 million in 24-hour liquidations.
-
-📖 [Read original article](https://www.theblock.co/post/403791/zcash-selloff-extends-past-50-amid-bug-disclosure-as-liquidations-top-100-million?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Hong Kong taps JPMorgan, HSBC for expert group to scale tokenized bonds
-
-**Author:** Timmy Shen  
-**Published:** 6/5/2026, 10:05:44 AM  
-**Categories:** Central Banks, International Policymaking, Policy, Regulation, Asian Regulation  
-
-The Hong Kong Monetary Authority announced the formation of an expert group to advance the development of tokenized bonds.
-
-📖 [Read original article](https://www.theblock.co/post/403787/hong-kong-expert-group-tokenized-bonds?utm_source=rss&utm_medium=rss)
 
 ---
