@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-05"
 date: "2026-06-05"
 source: "Cointelegraph"
-count: 19
+count: 10
 ---
 
 # Cointelegraph - 2026-06-05
 
-19 items collected.
+10 items collected.
 
 ---
 
@@ -95,19 +95,7 @@ Strategy’s Bitcoin sale challenged the “never sell” narrative, while JPMor
 
 ---
 
-## 8. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 6/5/2026, 4:55:50 PM  
-**Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts
+## 8. Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/5/2026, 4:44:44 PM  
@@ -119,7 +107,7 @@ Pump.fun launched a new bounty platform where users started funding bizarre meme
 
 ---
 
-## 10. Saylor says Bitcoin needs ‘disciplined expansion’ as analysts weigh demand reset
+## 9. Saylor says Bitcoin needs ‘disciplined expansion’ as analysts weigh demand reset
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/5/2026, 4:09:40 PM  
@@ -131,7 +119,7 @@ Michael Saylor’s essay calls for Bitcoin to expand through banks, credit, secu
 
 ---
 
-## 11. Bitcoin teases 'seller exhaustion' as BTC price downside reaches $60.3K
+## 10. Bitcoin teases 'seller exhaustion' as BTC price downside reaches $60.3K
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/5/2026, 3:43:14 PM  
@@ -140,101 +128,5 @@ Michael Saylor’s essay calls for Bitcoin to expand through banks, credit, secu
 Bitcoin sellers were losing steam, market analysis said as ongoing BTC price downside brought the market closer to $60,000.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-approaches-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Visa tests private stablecoin settlement with Brale, Canton
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 6/5/2026, 2:45:55 PM  
-**Categories:** Latest News  
-
-Visa is testing private stablecoin settlement on Canton with Brale, exploring whether institutions can use blockchain without exposing sensitive transaction data.
-
-📖 [Read original article](https://cointelegraph.com/news/visa-tests-private-stablecoin-settlement-as-institutions-push-blockchain-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Zcash weighs new shielded pool after counterfeiting flaw
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 6/5/2026, 1:18:41 PM  
-**Categories:** Latest News  
-
-Zcash developers are weighing a new shielded pool and turnstile accounting after the Orchard bug raised supply verification questions.
-
-📖 [Read original article](https://cointelegraph.com/news/zcash-new-shielded-pool-orchard-counterfeiting-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Bitcoin needs one more thing to happen to spark BTC price 'rally:' Analysis
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 6/5/2026, 1:00:00 PM  
-**Categories:** Markets  
-
-Bitcoin whales flipped to support a BTC price rebound, but analysis warned that the Coinbase and Kimchi Premium still needed to return.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-needs-one-more-thing-to-happen-to-spark-btc-price-rally-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. House GOP eyes summer vote on prediction market restrictions for lawmakers
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 6/5/2026, 12:46:44 PM  
-**Categories:** Latest News  
-
-House Republicans plan a summer vote on a congressional stock trading ban and new restrictions on lawmakers’ prediction market activity.
-
-📖 [Read original article](https://cointelegraph.com/news/house-gop-summer-vote-ban-lawmakers-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. JPMorgan, Citi-backed Clearing House plans tokenized deposit network in 2027: WSJ
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/5/2026, 12:39:32 PM  
-**Categories:** Latest News  
-
-Some of the largest banks are reportedly launching a tokenized deposit network in early 2027 in response to growing competition from stablecoin companies entering TradFi.
-
-📖 [Read original article](https://cointelegraph.com/news/jpmorgan-citi-bank-of-america-launch-tokenized-deposit-system-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. How low can Bitcoin price go if $60K support fails?
-
-**Author:** Cointelegraph by Yashu Gola  
-**Published:** 6/5/2026, 12:24:23 PM  
-**Categories:** Markets  
-
-Bitcoin’s downside targets cluster near $50,000, but a larger weekly bearish setup puts a deeper correction toward $33,000 on the radar.
-
-📖 [Read original article](https://cointelegraph.com/markets/how-low-can-bitcoin-price-go-if-60k-support-fails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Forward Industries moves $32M in SOL amid $1B paper loss
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 6/5/2026, 10:59:50 AM  
-**Categories:** Latest News  
-
-Forward Industries moved $31.9 million in SOL to Coinbase Prime as its Solana bet sits over 70% underwater, underscoring growing strain on corporate crypto treasuries.
-
-📖 [Read original article](https://cointelegraph.com/news/forward-industries-moves-319m-in-sol-to-coinbase-prime-amid-113b-paper-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. South Korea police probe Polymarket users over illegal gambling claims: Report
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/5/2026, 10:47:17 AM  
-**Categories:** Latest News  
-
-South Korean police reportedly launched the country’s first illegal gambling probe into local Polymarket users amid election-betting scrutiny.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korean-authorities-first-illegal-gambling-probe-polymarket-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
