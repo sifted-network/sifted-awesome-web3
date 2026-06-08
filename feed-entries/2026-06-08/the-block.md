@@ -2,16 +2,64 @@
 title: "The Block - 2026-06-08"
 date: "2026-06-08"
 source: "The Block"
-count: 11
+count: 15
 ---
 
 # The Block - 2026-06-08
 
-11 items collected.
+15 items collected.
 
 ---
 
-## 1. Former FTX CEO Sam Bankman-Fried officially files for a presidential pardon from Trump
+## 1. Citrini says Hyperliquid’s legitimate cash flow, token buyback strategy make for ‘compelling’ investment
+
+**Author:** RT Watson  
+**Published:** 6/8/2026, 6:21:14 PM  
+**Categories:** Markets, Token Projects  
+
+"By some measures, Hyperliquid repurchases have accounted for nearly half of all token-buyback activity across" crypto in 2025, said Citrini.
+
+📖 [Read original article](https://www.theblock.co/post/404024/citrini-hyperliquid-legitimate-cash-flow-token-buyback-compelling-investment?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Coinbase strategist says institutions aren’t panicking about bitcoin, ‘love it even more’ at lower prices
+
+**Author:** Kyle Baird  
+**Published:** 6/8/2026, 5:52:18 PM  
+**Categories:** Companies, Exchanges, Markets, The Block, Coinbase  
+
+Family offices and sovereign wealth funds continue accumulating bitcoin despite the recent selloff, according to Coinbase's John D'Agostino.
+
+📖 [Read original article](https://www.theblock.co/post/404019/coinbase-strategist-institutions-arent-panicking-bitcoin-love-more-lower-prices?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Strategy shareholders approve semi-monthly dividends for STRC preferred stock
+
+**Author:** RT Watson  
+**Published:** 6/8/2026, 3:41:38 PM  
+**Categories:** Companies, Markets, STRC  
+
+"Paying dividends on STRC twice a month is designed to stabilize price, dampen cyclicality, drive liquidity, and grow demand for STRC," Strategy's CEO said.
+
+📖 [Read original article](https://www.theblock.co/post/404010/strategy-shareholders-approve-semi-monthly-dividends-strc-preferred-stock?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. TON Strategy’s May staking haul tops 3.3 million TON as network upgrades take effect
+
+**Author:** Kyle Baird  
+**Published:** 6/8/2026, 2:48:41 PM  
+**Categories:** Companies, Markets, the open network, ton  
+
+TON Strategy made approximately $5.6 million in staking rewards for May and is staking nearly all of its over 227 million tokens.
+
+📖 [Read original article](https://www.theblock.co/post/403992/ton-strategy-may-staking-3-3-million-network-upgrades-effect?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Former FTX CEO Sam Bankman-Fried officially files for a presidential pardon from Trump
 
 **Author:** Sarah Wynn  
 **Published:** 6/8/2026, 2:45:34 PM  
@@ -23,7 +71,7 @@ Sam Bankman-Fried is pressing ahead with his bid for a presidential pardon, even
 
 ---
 
-## 2. Bitmine adds 127,000 ether, bringing treasury to 5.54 million ETH as Tom Lee calls crypto selloff ‘superficial’
+## 6. Bitmine adds 127,000 ether, bringing treasury to 5.54 million ETH as Tom Lee calls crypto selloff ‘superficial’
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/8/2026, 1:52:01 PM  
@@ -35,7 +83,7 @@ Bitmine purchased 126,971 ETH for about $207M, lifting its treasury to 5.54M tok
 
 ---
 
-## 3. MetaMask debuts Agent Wallet giving AI bots self-custody access to Ethereum
+## 7. MetaMask debuts Agent Wallet giving AI bots self-custody access to Ethereum
 
 **Author:** Daniel Kuhn  
 **Published:** 6/8/2026, 1:00:00 PM  
@@ -47,7 +95,7 @@ Consensys-backed MetaMask is rolling out a non-custodial wallet for AI agents fo
 
 ---
 
-## 4. Coinbase, Ripple among over 200 crypto organizations urging Senate Clarity Act vote
+## 8. Coinbase, Ripple among over 200 crypto organizations urging Senate Clarity Act vote
 
 **Author:** Brian Danga  
 **Published:** 6/8/2026, 12:34:47 PM  
@@ -59,7 +107,7 @@ More than 200 organizations, including Coinbase and Ripple, urged Senate leaders
 
 ---
 
-## 5. Michael Saylor’s Strategy buys another 1,550 bitcoin for $101 million after small sale as total holdings rise to 845,256 BTC
+## 9. Michael Saylor’s Strategy buys another 1,550 bitcoin for $101 million after small sale as total holdings rise to 845,256 BTC
 
 **Author:** James Hunt  
 **Published:** 6/8/2026, 12:05:44 PM  
@@ -71,7 +119,7 @@ Strategy's total holdings account for more than 4% of the 21 million bitcoin sup
 
 ---
 
-## 6. UK FCA proposes allowing authorized funds to allocate up to 10% to crypto ETNs
+## 10. UK FCA proposes allowing authorized funds to allocate up to 10% to crypto ETNs
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/8/2026, 11:48:32 AM  
@@ -83,7 +131,7 @@ The FCA proposed allowing authorized UK funds to hold up to 10% in crypto ETNs, 
 
 ---
 
-## 7. Bernstein says bitcoin’s ‘boring cycle’ doesn’t undermine store-of-value thesis despite $2.6B ETF outflows in 2026
+## 11. Bernstein says bitcoin’s ‘boring cycle’ doesn’t undermine store-of-value thesis despite $2.6B ETF outflows in 2026
 
 **Author:** Brian Danga  
 **Published:** 6/8/2026, 10:37:41 AM  
@@ -95,7 +143,7 @@ Bernstein analysts said bitcoin’s “boring cycle” and $2.6 billion worth of
 
 ---
 
-## 8. Spot bitcoin ETFs log $1.7 billion in weekly outflows, largest since February 2025
+## 12. Spot bitcoin ETFs log $1.7 billion in weekly outflows, largest since February 2025
 
 **Author:** Danny Park  
 **Published:** 6/8/2026, 9:17:58 AM  
@@ -107,7 +155,7 @@ The outflows were primarily driven by macroeconomic headlines, especially the st
 
 ---
 
-## 9. ZEC rebounds 42% as ZODL founder details two-step emergency upgrade
+## 13. ZEC rebounds 42% as ZODL founder details two-step emergency upgrade
 
 **Author:** Timmy Shen  
 **Published:** 6/8/2026, 6:52:09 AM  
@@ -119,7 +167,7 @@ Josh Swihart, founder of ZODL, provided details on how the Zcash team resolved a
 
 ---
 
-## 10. Bitcoin reclaims $63,000 in ‘oversold relief rally’; South Korea’s KOSPI plunges 8%
+## 14. Bitcoin reclaims $63,000 in ‘oversold relief rally’; South Korea’s KOSPI plunges 8%
 
 **Author:** Danny Park  
 **Published:** 6/8/2026, 3:07:41 AM  
@@ -131,7 +179,7 @@ Presto's Min Jung told The Block that KOSPI's crash may have had some impact on 
 
 ---
 
-## 11. What Is Crypto Market Structure? A Guide to How Crypto Markets Work
+## 15. What Is Crypto Market Structure? A Guide to How Crypto Markets Work
 
 **Author:** The Block Research  
 **Published:** 6/8/2026, 2:05:08 AM  
