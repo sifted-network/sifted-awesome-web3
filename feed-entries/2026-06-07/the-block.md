@@ -2,16 +2,28 @@
 title: "The Block - 2026-06-07"
 date: "2026-06-07"
 source: "The Block"
-count: 3
+count: 4
 ---
 
 # The Block - 2026-06-07
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. JPMorgan says Strategy may need to rebuild dollar reserves to restore confidence
+## 1. NY judge stays lawsuit seeking ownership of nearly 40,000 bitcoin wallets, sets July hearing on proposed amicus brief
+
+**Author:** Zack Abrams  
+**Published:** 6/7/2026, 8:59:02 PM  
+**Categories:** Legal, Policy, Court Hearings, Lawsuits, Noah-Doe  
+
+The brief, filed by attorney Ian R. Cohen, argues New York's lost-and-found statute cannot be used to claim "lost" assets controlled by private keys.
+
+📖 [Read original article](https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. JPMorgan says Strategy may need to rebuild dollar reserves to restore confidence
 
 **Author:** Yogita Khatri  
 **Published:** 6/7/2026, 5:08:36 PM  
@@ -23,7 +35,7 @@ JPMorgan said crypto's outlook depends on Strategy's dividend plan and the Clari
 
 ---
 
-## 2. Michael Saylor hints at fresh bitcoin buy with ‘add more dots’ post as Strategy sits $11.7 billion underwater
+## 3. Michael Saylor hints at fresh bitcoin buy with ‘add more dots’ post as Strategy sits $11.7 billion underwater
 
 **Author:** Zack Abrams  
 **Published:** 6/7/2026, 3:03:24 PM  
@@ -35,7 +47,7 @@ The post lands a week after Strategy revealed its first bitcoin sale since 2022 
 
 ---
 
-## 3. Bybit follows Kraken in offering tokenized SpaceX IPO access via xStocks
+## 4. Bybit follows Kraken in offering tokenized SpaceX IPO access via xStocks
 
 **Author:** Zack Abrams  
 **Published:** 6/7/2026, 2:05:40 PM  
