@@ -2,18 +2,90 @@
 title: "Decrypt - 2026-06-08"
 date: "2026-06-08"
 source: "Decrypt"
-count: 7
+count: 13
 ---
 
 # Decrypt - 2026-06-08
 
-7 items collected.
+13 items collected.
 
 ---
 
-## 1. Tom Lee's BitMine Buys the Dip Amid 'Superficial' Crypto Selloff, Adding $214M in Ethereum
+## 1. Bitcoin Is 'Boring' AI-Hungry Retail Investors, But Bernstein Still Sees $150K This Year
 
-**Author:** Andrew Hayward  
+**Author:** Decrypt Agent  
+**Published:** 6/8/2026, 7:46:06 PM  
+**Categories:** , Coins  
+
+Bitcoin is down about 50% from its peak, but Wall Street researchers argue the selloff reflects a maturing asset, not a dying one.
+
+📖 [Read original article](https://decrypt.co/370434/bitcoin-boring-ai-hungry-retail-investors-bernstein-150k)
+
+---
+
+## 2. FTX Founder Sam Bankman-Fried Has Formally Filed for a Pardon From President Trump
+
+**Author:** Logan Hitchcock  
+**Published:** 6/8/2026, 6:08:19 PM  
+**Categories:** Law and Order  
+
+President Trump previously ruled out a pardon for Sam Bankman-Fried—but the FTX founder has applied for one anyway.
+
+📖 [Read original article](https://decrypt.co/370424/ftx-founder-sam-bankman-fried-filed-pardon-president-trump)
+
+---
+
+## 3. We Asked 7 AI Agents to Predict the 2026 World Cup: Here's What They Said
+
+**Author:** Jose Antonio Lanz  
+**Published:** 6/8/2026, 6:04:40 PM  
+**Categories:** Artificial Intelligence  
+
+Can AI help predict the winner of the 2026 World Cup? We put seven of the best models to the test.
+
+📖 [Read original article](https://decrypt.co/370338/ai-agents-predict-2026-world-cup)
+
+---
+
+## 4. For Bitcoin Giant Strategy, Cash Is Key to Calming Investors: JPMorgan
+
+**Author:** André Beganski  
+**Published:** 6/8/2026, 5:27:15 PM  
+**Categories:** , Business  
+
+Strategy’s fortunes have long been tied to Bitcoin, but it now appears to rest on the greenback, according to JPMorgan analysts.
+
+📖 [Read original article](https://decrypt.co/370336/bitcoin-giant-strategy-cash-key-calming-investors-jpmorgan)
+
+---
+
+## 5. What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs
+
+**Author:** Jason Nelson,Matt Hussey  
+**Published:** 6/8/2026, 5:13:52 PM  
+**Categories:** zcash, The Coins  
+
+Zcash is a privacy-focused cryptocurrency that enables users to hide key details of transactions by leveraging zk-SNARKs.
+
+📖 [Read original article](https://decrypt.co/resources/zcash)
+
+---
+
+## 6. 'Extremely Bullish': Zcash Rebounds By $2.5 Billion Amid Planned Fix for Supply Conundrum
+
+**Author:** André Beganski  
+**Published:** 6/8/2026, 4:23:53 PM  
+**Categories:** zcash, Coins  
+
+Zcash pared steep losses after the privacy coin's backers introduced an upgrade aimed at restoring faith in the digital asset's supply.
+
+📖 [Read original article](https://decrypt.co/370322/extremely-bullish-zcash-rebounds-planned-fix-supply-conundrum)
+
+---
+
+## 7. Tom Lee's BitMine Buys the Dip Amid 'Superficial' Crypto Selloff, Adding $214M in Ethereum
+
+**Author:** Logan Hitchcock  
 **Published:** 6/8/2026, 3:18:37 PM  
 **Categories:** , , Business  
 
@@ -23,7 +95,7 @@ Leading Ethereum treasury firm BitMine Immersion Technologies bought the dip, ma
 
 ---
 
-## 2. Congress to Discuss Crypto Tax Rules: What to Watch
+## 8. Congress to Discuss Crypto Tax Rules: What to Watch
 
 **Author:** Vince Dioquino  
 **Published:** 6/8/2026, 1:52:16 PM  
@@ -35,7 +107,7 @@ The House Ways and Means committee will review draft crypto tax bills covering s
 
 ---
 
-## 3. Strategy Buys Bitcoin, Pads Cash Reserves Following Biggest Weekly Stock Drop Since 2022
+## 9. Strategy Buys Bitcoin, Pads Cash Reserves Following Biggest Weekly Stock Drop Since 2022
 
 **Author:** André Beganski  
 **Published:** 6/8/2026, 1:46:18 PM  
@@ -47,7 +119,7 @@ Strategy’s stockpile was $10.7 billion underwater as of Monday morning after B
 
 ---
 
-## 4. MetaMask Launches AI Agent Wallet With Built-In Security Controls
+## 10. MetaMask Launches AI Agent Wallet With Built-In Security Controls
 
 **Author:** Jason Nelson  
 **Published:** 6/8/2026, 1:01:03 PM  
@@ -59,7 +131,7 @@ MetaMask's new self-custodial wallet is designed to let AI agents trade across D
 
 ---
 
-## 5. Bitcoin's $63K Reclaim Liquidates $540M in Crypto Shorts, a 7-Week High
+## 11. Bitcoin's $63K Reclaim Liquidates $540M in Crypto Shorts, a 7-Week High
 
 **Author:** Akash Girimath  
 **Published:** 6/8/2026, 12:41:22 PM  
@@ -71,7 +143,7 @@ Experts remain cautious of Bitcoin’s weekend rebound to $63,000, pointing to E
 
 ---
 
-## 6. Morning Minute: Bitcoin Recovers After Fall Below $60k
+## 12. Morning Minute: Bitcoin Recovers After Fall Below $60k
 
 **Author:** Tyler Warner  
 **Published:** 6/8/2026, 12:21:16 PM  
@@ -83,7 +155,7 @@ Crypto rebounded Monday after Friday's selloff, driven by strong jobs data, AI I
 
 ---
 
-## 7. Reform UK's Farage 'Evading' Scrutiny Over Tether Billionaire's $6.7M Gift: Labour
+## 13. Reform UK's Farage 'Evading' Scrutiny Over Tether Billionaire's $6.7M Gift: Labour
 
 **Author:** Vismaya V  
 **Published:** 6/8/2026, 11:35:27 AM  
