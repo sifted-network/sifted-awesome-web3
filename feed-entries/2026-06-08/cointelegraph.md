@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-06-08"
 date: "2026-06-08"
 source: "Cointelegraph"
-count: 13
+count: 16
 ---
 
 # Cointelegraph - 2026-06-08
 
-13 items collected.
+16 items collected.
 
 ---
 
-## 1. Spot Bitcoin ETFs bleed $1.7B as outflow streak hits four weeks
+## 1. 'Best thesis' for Bitcoin accumulation surfaces despite current downside risk: Analyst
+
+**Author:** Cointelegraph by Biraajmaan Tamuly  
+**Published:** 6/8/2026, 6:11:29 PM  
+**Categories:** Markets  
+
+Record-low Bitcoin RSI readings and whale accumulation highlight a generational buying opportunity, even as analysts still expect BTC to fall below $60,000.
+
+📖 [Read original article](https://cointelegraph.com/markets/best-thesis-for-bitcoin-accumulation-surfaces-despite-downside-risk-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitcoin price $60K support not yet safe as more macro headwinds stack up
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 6/8/2026, 3:17:15 PM  
+**Categories:** Markets  
+
+Bitcoin analysis warned that $60,000 may not hold next, as bear-market moves continued and macro hurdles multiplied.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-60k-support-not-yet-safe-as-more-macro-headwinds-stack-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Spot Bitcoin ETFs bleed $1.7B as outflow streak hits four weeks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/8/2026, 2:46:26 PM  
@@ -23,7 +47,7 @@ BlackRock’s IBIT accounted for most of the weekly Bitcoin ETF redemptions, whi
 
 ---
 
-## 2. Bitcoin price eyes $90K as FTX-era BTC bullish divergence flashes again
+## 4. Bitcoin price eyes $90K as FTX-era BTC bullish divergence flashes again
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 6/8/2026, 2:30:28 PM  
@@ -35,7 +59,7 @@ Bitcoin flashes only its second weekly bullish divergence on record, a signal th
 
 ---
 
-## 3. South Korea police raid Bithumb over lawmaker hiring favoritism probe: report
+## 5. South Korea police raid Bithumb over lawmaker hiring favoritism probe: report
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/8/2026, 2:02:36 PM  
@@ -47,7 +71,19 @@ South Korean lawmaker Kim Byung-gi faces probe over alleged nepotism tied to his
 
 ---
 
-## 4. Here’s what happened in crypto today
+## 6. Strategy buys 1,550 Bitcoin after controversial 32 BTC sale
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 6/8/2026, 1:50:00 PM  
+**Categories:** Latest News  
+
+Strategy resumed Bitcoin buying by purchasing 1,550 BTC for $101.3 million, bringing its total holdings to 845,256 BTC after last week’s controversial sale.
+
+📖 [Read original article](https://cointelegraph.com/news/strategy-resumes-bitcoin-purchases-1550-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/8/2026, 1:49:27 PM  
@@ -59,19 +95,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 5. Strategy buys 1,550 Bitcoin after controversial 32 BTC sale
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 6/8/2026, 1:45:48 PM  
-**Categories:** Latest News  
-
-Strategy resumed Bitcoin buying by purchasing 1,550 BTC for $101.3 million, bringing its total holdings to 845,256 BTC after last week’s controversial sale.
-
-📖 [Read original article](https://cointelegraph.com/news/strategy-resumes-bitcoin-purchases-1550-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. White hats rescue $500K in NFTs after Flooring exploit
+## 8. White hats rescue $500K in NFTs after Flooring exploit
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/8/2026, 12:08:18 PM  
@@ -83,7 +107,7 @@ CoinGecko and NFT Price Floor data show NFT market cap has cooled since April, w
 
 ---
 
-## 7. BTC price bottom not due until Q4? Five things to know in Bitcoin this week
+## 9. BTC price bottom not due until Q4? Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/8/2026, 11:40:55 AM  
@@ -95,7 +119,7 @@ Bitcoin traders warned that it should be Q3 at least before the real BTC price b
 
 ---
 
-## 8. Chinese court treats Bitcoin as property in 107 BTC memory theft case
+## 10. Chinese court treats Bitcoin as property in 107 BTC memory theft case
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/8/2026, 11:23:19 AM  
@@ -107,7 +131,7 @@ Man in eastern China who stole 107 Bitcoin using a memorized seed phrase gets 10
 
 ---
 
-## 9. Zcash teams propose Ironwood pool to restore supply verification after Orchard flaw
+## 11. Zcash teams propose Ironwood pool to restore supply verification after Orchard flaw
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/8/2026, 10:02:47 AM  
@@ -119,7 +143,7 @@ Ironwood would close the old Orchard pool to new activity and route funds throug
 
 ---
 
-## 10. Arthur Hayes dumps WLD days after Maelstrom’s AI IPO pitch
+## 12. Arthur Hayes dumps WLD days after Maelstrom’s AI IPO pitch
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/8/2026, 7:02:30 AM  
@@ -131,7 +155,7 @@ Maelstrom’s Arthur Hayes has been on a selling spree recently, offloading posi
 
 ---
 
-## 11. Galaxy drops CLARITY Act odds to 60% as time is running out
+## 13. Galaxy drops CLARITY Act odds to 60% as time is running out
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/8/2026, 7:01:15 AM  
@@ -143,7 +167,19 @@ Galaxy Digital says the Senate has a tight calendar ahead of the November electi
 
 ---
 
-## 12. Tokenization firm Securitize clears key SEC hurdle for NYSE listing
+## 14. Bybit to offer tokenized SpaceX IPO access through xStocks
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 6/8/2026, 7:00:00 AM  
+**Categories:** Latest News  
+
+Eligible Bybit users can subscribe to tokenized SpaceX IPO shares through xStocks, a Kraken-linked framework that brings public market offerings to crypto exchanges.
+
+📖 [Read original article](https://cointelegraph.com/news/bybit-launches-tokenized-ipo-access-through-xstocks-with-spacex-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 15. Tokenization firm Securitize clears key SEC hurdle for NYSE listing
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/8/2026, 4:34:47 AM  
@@ -155,7 +191,7 @@ The firm announced that the US securities regulator has declared its S-4 registr
 
 ---
 
-## 13. Justin Sun’s HTX delists Trump family’s USD1 amid freeze fight
+## 16. Justin Sun’s HTX delists Trump family’s USD1 amid freeze fight
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/8/2026, 3:26:59 AM  
