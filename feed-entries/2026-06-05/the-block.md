@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-05"
 date: "2026-06-05"
 source: "The Block"
-count: 13
+count: 11
 ---
 
 # The Block - 2026-06-05
 
-13 items collected.
+11 items collected.
 
 ---
 
@@ -140,29 +140,5 @@ ZEC crashed over 50% to around $310 amid Zcash's Orchard bug disclosure and more
 The Hong Kong Monetary Authority announced the formation of an expert group to advance the development of tokenized bonds.
 
 📖 [Read original article](https://www.theblock.co/post/403787/hong-kong-expert-group-tokenized-bonds?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Grayscale says bitcoin needs other buyers to find a ‘sustainable bottom’ amid Strategy BTC sale
-
-**Author:** Brian Danga  
-**Published:** 6/5/2026, 9:27:29 AM  
-**Categories:** Companies, Equities, Market Updates, Markets, Public Equities, Token Projects, Analyst Reports, Bitcoin, bitcoin treasury strategy, Strategy  
-
-Grayscale said Strategy's ability to accumulate more bitcoin is limited at the current STRC and MSTR share prices.
-
-📖 [Read original article](https://www.theblock.co/post/403770/grayscale-other-buyers-must-step-in-for-bitcoins-price-to-find-a-sustainable-bottom-after-strategy-btc-sale?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. South Korean police investigate local Polymarket users on illegal gambling charges: report
-
-**Author:** Danny Park  
-**Published:** 6/5/2026, 8:59:09 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Web3, DEXs, polymarket, south-korea  
-
-South Korean Polymarket users could be subject to a fine of up to 10 million Korean won, which is worth around $6,495.
-
-📖 [Read original article](https://www.theblock.co/post/403777/south-korean-police-investigates-local-polymarket-users?utm_source=rss&utm_medium=rss)
 
 ---
