@@ -6,16 +6,16 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,571 | 2,275 | Rust | 52 | Taiko Alethia based rollup protocol 🥁  | 2026-06-06 |
-| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,063 | 760 | Rust | 631 | The Stacks blockchain implementation | 2026-06-05 |
+| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,570 | 2,275 | Rust | 23 | Taiko Alethia based rollup protocol 🥁  | 2026-06-08 |
+| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,063 | 760 | Rust | 632 | The Stacks blockchain implementation | 2026-06-05 |
 | 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,547 | 331 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
 | 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,026 | 617 | - | 1896 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
 | 5 | [starknetbook](https://github.com/starknet-edu/starknetbook) | 830 | 489 | CSS | 0 | Mastering Starknet. By the Starknet community | 2024-06-20 |
-| 6 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 828 | 108 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
+| 6 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 829 | 108 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 615 | 58 | JavaScript | 14 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-06-02 |
 | 8 | [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) | 473 | 141 | C | 5 | Open source MAC Telnet client and server for connecting to Mikrotik RouterOS routers and Posix devices using MAC addresses | 2025-09-21 |
 | 9 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 470 | 51 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2023-12-24 |
-| 10 | [juno](https://github.com/NethermindEth/juno) | 447 | 235 | Go | 30 | Reliable and high performance Starknet full node implementation | 2026-06-06 |
+| 10 | [juno](https://github.com/NethermindEth/juno) | 447 | 235 | Go | 30 | Reliable and high performance Starknet full node implementation | 2026-06-07 |
 | 11 | [db3](https://github.com/dbpunk-labs/db3) | 385 | 43 | Rust | 18 |  a Lightweight, Permanent JSON document database | 2024-07-29 |
 | 12 | [ChainX](https://github.com/chainx-org/ChainX) | 325 | 121 | Rust | 1 | Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM  | 2025-12-18 |
 | 13 | [blockchain-roadmap](https://github.com/itublockchain/blockchain-roadmap) | 283 | 39 | - | 0 | Blockchain öğrenme yolculuğunuz için yol haritası | 2024-10-13 |
