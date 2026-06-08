@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-05"
 date: "2026-06-05"
 source: "CoinDesk"
-count: 8
+count: 7
 ---
 
 # CoinDesk - 2026-06-05
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -92,17 +92,5 @@ The Maryland Democrat says bipartisan crypto legislation is close, but ethics an
 Several headwinds converged over bitcoin recently as its largest buyer turned seller, ETF investors headed for the exits, and rate-hike fears rose.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/05/bitcoin-loses-usd60-000-falls-to-weakest-price-since-october-2024)
-
----
-
-## 8. XRP falls toward $1.10 as liquidation-driven selloff pushes token to multi-month lows
-
-**Author:** Shaurya Malwa  
-**Published:** 6/5/2026, 2:53:06 PM  
-**Categories:** Markets, News  
-
-XRP lost another 5% after a high-volume breakdown overwhelmed support near $1.20, leaving traders focused on whether the latest washout marks capitulation or the start of a deeper slide.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/05/xrp-falls-toward-usd1-10-as-liquidation-driven-selloff-pushes-token-to-multi-month-lows)
 
 ---
