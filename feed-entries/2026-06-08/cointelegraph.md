@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-08"
 date: "2026-06-08"
 source: "Cointelegraph"
-count: 19
+count: 18
 ---
 
 # Cointelegraph - 2026-06-08
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -224,17 +224,5 @@ Eligible Bybit users can subscribe to tokenized SpaceX IPO shares through xStock
 The firm announced that the US securities regulator has declared its S-4 registration statement effective, bringing it closer to a SPAC merger with Cantor Equity Partners II.
 
 📖 [Read original article](https://cointelegraph.com/news/securitize-gets-sec-nod-cantor-merger-nyse-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Justin Sun’s HTX delists Trump family’s USD1 amid freeze fight
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 6/8/2026, 3:26:59 AM  
-**Categories:** Latest News  
-
-HTX said World Liberty froze its addresses and has responded by delisting and suspending the platform’s token.
-
-📖 [Read original article](https://cointelegraph.com/news/justin-suns-htx-delists-trump-familys-usd1-amid-freeze-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
