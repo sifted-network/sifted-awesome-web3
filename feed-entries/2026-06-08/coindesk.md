@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-06-08"
 date: "2026-06-08"
 source: "CoinDesk"
-count: 22
+count: 23
 ---
 
 # CoinDesk - 2026-06-08
 
-22 items collected.
+23 items collected.
 
 ---
 
-## 1. Influential research firm that caused AI stock meltdown lays out Hyperliquid as 'compelling' idea
+## 1. Forehead tattoos and alcohol dares: Inside the dark underbelly of crypto's memecoin craze
+
+**Author:** Shaurya Malwa  
+**Published:** 6/8/2026, 10:58:02 PM  
+**Categories:** Markets, News  
+
+Users are being paid to shave their heads, chug liquor and interview homeless people on camera, raising questions about whether Pump.fun's latest product rewards creativity or exploitation.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/08/forehead-tattoos-and-alcohol-dares-inside-the-dark-underbelly-of-crypto-s-memecoin-craze)
+
+---
+
+## 2. Influential research firm that caused AI stock meltdown lays out Hyperliquid as 'compelling' idea
 
 **Author:** Aoyon Ashraf,Helene Braun  
 **Published:** 6/8/2026, 6:41:04 PM  
@@ -23,7 +35,7 @@ Unlike most crypto, Hyperliquid actually generates cash flow and has a token buy
 
 ---
 
-## 2. Live updates: Bitcoin tops $63,000 as Strategy adds $100 million BTC in latest purchase
+## 3. Live updates: Bitcoin tops $63,000 as Strategy adds $100 million BTC in latest purchase
 
 **Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Krisztian Sandor,Helene Braun  
 **Published:** 6/8/2026, 5:04:38 PM  
@@ -35,7 +47,7 @@ Meanwhile, Strive bought 32 bitcoin, the same number Strategy dumped last week.
 
 ---
 
-## 3. Sam Bankman-Fried officially asks Trump for a presidential pardon
+## 4. Sam Bankman-Fried officially asks Trump for a presidential pardon
 
 **Author:** Helene Braun  
 **Published:** 6/8/2026, 3:41:10 PM  
@@ -47,7 +59,7 @@ The fallen crypto mogul serving a 25-year sentence filed a clemency petition, be
 
 ---
 
-## 4. The startup killer: Ledger CTO says the EU's crushing compliance costs are choking Web3 innovation
+## 5. The startup killer: Ledger CTO says the EU's crushing compliance costs are choking Web3 innovation
 
 **Author:** Olivier Acuna  
 **Published:** 6/8/2026, 3:38:03 PM  
@@ -59,7 +71,7 @@ Industry insiders warn that MiCA's steep financial barriers are choking early-st
 
 ---
 
-## 5. Aave chief defends protocol's 'resilience' after $8.45 billion bank run
+## 6. Aave chief defends protocol's 'resilience' after $8.45 billion bank run
 
 **Author:** Olivier Acuna  
 **Published:** 6/8/2026, 3:17:44 PM  
@@ -71,7 +83,7 @@ The founder of the largest DeFi platform blamed "third-party” entities for dec
 
 ---
 
-## 6. Blame bitcoin's tumble on rising inflation, not Strategy, 10xResearch argues
+## 7. Blame bitcoin's tumble on rising inflation, not Strategy, 10xResearch argues
 
 **Author:** Krisztian Sandor  
 **Published:** 6/8/2026, 2:37:27 PM  
@@ -83,7 +95,7 @@ The main driver behind bitcoin's weakness was ETF selling after red-hot April U.
 
 ---
 
-## 7. CoinDesk 20 performance update: NEAR gains 12.3% as almost all assets trade higher
+## 8. CoinDesk 20 performance update: NEAR gains 12.3% as almost all assets trade higher
 
 **Author:** CoinDesk Indices  
 **Published:** 6/8/2026, 1:12:12 PM  
@@ -95,7 +107,7 @@ Bittensor (TAO), up 12% from Friday, joined NEAR Protocol (NEAR) as a top perfor
 
 ---
 
-## 8. MetaMask launches AI agent wallet with built-in security for crypto trades
+## 9. MetaMask launches AI agent wallet with built-in security for crypto trades
 
 **Author:** Margaux Nijkerk  
 **Published:** 6/8/2026, 1:00:00 PM  
@@ -107,7 +119,7 @@ The launch comes as AI agents increasingly emerge as participants in crypto mark
 
 ---
 
-## 9. Bitmine bought the dip, making its biggest ether purchase in 2026 as prices tanked
+## 10. Bitmine bought the dip, making its biggest ether purchase in 2026 as prices tanked
 
 **Author:** Krisztian Sandor  
 **Published:** 6/8/2026, 12:53:30 PM  
@@ -119,7 +131,7 @@ The company bought 126,971 ETH last week, worth roughly $214 million at current 
 
 ---
 
-## 10. Strategy buys 1,550 bitcoin one week after selling $2.5 million of coins
+## 11. Strategy buys 1,550 bitcoin one week after selling $2.5 million of coins
 
 **Author:** James Van Straten  
 **Published:** 6/8/2026, 12:12:45 PM  
@@ -131,7 +143,7 @@ Strategy adds bitcoin and cash after raising $181 million through stock sales.
 
 ---
 
-## 11. A crucial bitcoin market indicator is signaling that the worst of the crypto crash might be over
+## 12. A crucial bitcoin market indicator is signaling that the worst of the crypto crash might be over
 
 **Author:** Omkar Godbole,James Van Straten  
 **Published:** 6/8/2026, 12:02:21 PM  
@@ -143,7 +155,7 @@ The metric shows bitcoin's market price is getting close to its realized fair va
 
 ---
 
-## 12. Bybit challenges Wall Street with a massive push into tokenized U.S. stock IPOs
+## 13. Bybit challenges Wall Street with a massive push into tokenized U.S. stock IPOs
 
 **Author:** Olivier Acuna  
 **Published:** 6/8/2026, 11:34:57 AM  
@@ -155,7 +167,7 @@ Retail investors can now buy shares at official underwritten prices through the 
 
 ---
 
-## 13. Crypto's recovery remains elusive as SpaceX, Anthropic IPOs loom
+## 14. Crypto's recovery remains elusive as SpaceX, Anthropic IPOs loom
 
 **Author:** Omkar Godbole  
 **Published:** 6/8/2026, 11:24:06 AM  
@@ -167,7 +179,7 @@ Your day-ahead look for June 8, 2026
 
 ---
 
-## 14. Bitcoin holds steady after Sunday's rally, though full-fledged reversal may take longer
+## 15. Bitcoin holds steady after Sunday's rally, though full-fledged reversal may take longer
 
 **Author:** Omkar Godbole,Shaurya Malwa  
 **Published:** 6/8/2026, 11:00:18 AM  
@@ -179,7 +191,7 @@ Bitcoin is holding above $63,000 after rallying on Sunday. The price is now hove
 
 ---
 
-## 15. Gold slips below 200-day moving average offering glimmer of hope for bitcoin bulls
+## 16. Gold slips below 200-day moving average offering glimmer of hope for bitcoin bulls
 
 **Author:** James Van Straten  
 **Published:** 6/8/2026, 9:57:38 AM  
@@ -191,7 +203,7 @@ Gold falls into bear market territory, while a stronger U.S. dollar and rising r
 
 ---
 
-## 16. U.S. inflation, European Central Bank rate decision: Crypto Week Ahead
+## 17. U.S. inflation, European Central Bank rate decision: Crypto Week Ahead
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 6/8/2026, 9:46:21 AM  
@@ -203,7 +215,7 @@ Your look at what's coming in the week starting June 8.
 
 ---
 
-## 17. CME is letting traders bet on bitcoin volatility, not price, and two firms have already placed bets
+## 18. CME is letting traders bet on bitcoin volatility, not price, and two firms have already placed bets
 
 **Author:** Omkar Godbole  
 **Published:** 6/8/2026, 8:19:30 AM  
@@ -215,7 +227,7 @@ Monarq and DV Chain kick off trading in CME's bitcoin volatility index futures.
 
 ---
 
-## 18. Zcash bounces 45% as developers propose new 'Ironwood' upgrade
+## 19. Zcash bounces 45% as developers propose new 'Ironwood' upgrade
 
 **Author:** Shaurya Malwa  
 **Published:** 6/8/2026, 8:10:57 AM  
@@ -227,7 +239,7 @@ The plan would let anyone verify that no counterfeit coins are circulating, addr
 
 ---
 
-## 19. XRP steadies above $1.10 to bounce from four-month lows
+## 20. XRP steadies above $1.10 to bounce from four-month lows
 
 **Author:** Shaurya Malwa  
 **Published:** 6/8/2026, 6:06:55 AM  
@@ -239,7 +251,7 @@ XRP recovered from four-month lows on elevated volume, but the token remains tra
 
 ---
 
-## 20. Bitcoin's rally to $63,700 triggers $504 million losses for short sellers, most since late April
+## 21. Bitcoin's rally to $63,700 triggers $504 million losses for short sellers, most since late April
 
 **Author:** Shaurya Malwa  
 **Published:** 6/8/2026, 5:53:22 AM  
@@ -251,7 +263,7 @@ Traders betting against bitcoin lost $504 million over 24 hours as it bounced fr
 
 ---
 
-## 21. Bitcoin spikes, then dumps, from $63,700 as analysts assess Strategy's next BTC moves
+## 22. Bitcoin spikes, then dumps, from $63,700 as analysts assess Strategy's next BTC moves
 
 **Author:** Omkar Godbole,Shaurya Malwa  
 **Published:** 6/8/2026, 5:08:06 AM  
@@ -263,7 +275,7 @@ BTC, ETH, XRP and others pulled back from their overnight highs as Iran-Israel t
 
 ---
 
-## 22. Bitcoin falls back below $63,000 as Iran-Israel trade strikes and Korean stocks crash
+## 23. Bitcoin falls back below $63,000 as Iran-Israel trade strikes and Korean stocks crash
 
 **Author:** Omkar Godbole  
 **Published:** 6/8/2026, 4:21:53 AM  
