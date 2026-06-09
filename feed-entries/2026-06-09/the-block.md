@@ -2,16 +2,64 @@
 title: "The Block - 2026-06-09"
 date: "2026-06-09"
 source: "The Block"
-count: 11
+count: 15
 ---
 
 # The Block - 2026-06-09
 
-11 items collected.
+15 items collected.
 
 ---
 
-## 1. Backpack US appoints former SEC Acting Chairman Piwowar to board amid push for crypto perps
+## 1. Hyperliquid advocate and Paradigm urge US to revise proposed anti-money laundering rule
+
+**Author:** RT Watson  
+**Published:** 6/9/2026, 6:37:53 PM  
+**Categories:** Companies, Policy, Regulation, U.S. Policymaking, aml, Hyperliquid Policy Center  
+
+The Hyperliquid-backed lobby group and Paradigm seek to prevent rules that would limit decentralized stablecoin usage on public blockchains.
+
+📖 [Read original article](https://www.theblock.co/post/404159/hyperliquid-advocate-paradigm-urge-us-revise-proposed-anti-money-laundering-rule?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Warren calls weakened CFTC a ‘recipe for disaster’ as Congress advances crypto legislation
+
+**Author:** Kyle Baird  
+**Published:** 6/9/2026, 5:48:06 PM  
+**Categories:** Companies, Policy, The Block, U.S. Policymaking, Michael Selig  
+
+Senator Warren requested records related to staff departures, prediction market oversight and internal communications on the Clarity Act.
+
+📖 [Read original article](https://www.theblock.co/post/404147/warren-weakened-cftc-recipe-disaster-congress-advances-crypto-legislation?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. ‘Third leg of the stool:’ House lawmakers set to debate crypto tax bills as questions still loom
+
+**Author:** Sarah Wynn  
+**Published:** 6/9/2026, 4:33:37 PM  
+**Categories:** Central Banks, Legal, Policy, Regulation, Tax, U.S. Policymaking, Congress, feature, IRS  
+
+Lawmakers are set to debate several cryptocurrency tax bills amid growing questions over how tax rules should apply to digital assets.
+
+📖 [Read original article](https://www.theblock.co/post/404146/third-leg-stool-house-lawmakers-to-debate-crypto-tax-bills-questions-still-loom?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. New Aave risk framework proposed following KelpDAO exploit
+
+**Author:** RT Watson  
+**Published:** 6/9/2026, 3:08:35 PM  
+**Categories:** Crypto Ecosystems, DeFi, Governance, The Block, Aave  
+
+Aave founder Stani Kulechov said once the proposal passes the framework will be applied across all markets and assets.
+
+📖 [Read original article](https://www.theblock.co/post/404136/new-aave-risk-framework-proposed-following-kelpdao-exploit?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Backpack US appoints former SEC Acting Chairman Piwowar to board amid push for crypto perps
 
 **Author:** Daniel Kuhn  
 **Published:** 6/9/2026, 1:05:03 PM  
@@ -23,7 +71,7 @@ Michael S. Piwowar was appointed by President Barack Obama and served as an SEC 
 
 ---
 
-## 2. Janus Henderson takes ENA position, eyes regulated investment products tied to Ethena
+## 6. Janus Henderson takes ENA position, eyes regulated investment products tied to Ethena
 
 **Author:** Brian Danga  
 **Published:** 6/9/2026, 1:05:03 PM  
@@ -35,7 +83,7 @@ Janus Henderson took an ENA position and outlined plans for regulated investment
 
 ---
 
-## 3. GSR receives FINRA approval to complete broker-dealer acquisition
+## 7. GSR receives FINRA approval to complete broker-dealer acquisition
 
 **Author:** Daniel Kuhn  
 **Published:** 6/9/2026, 1:00:00 PM  
@@ -47,7 +95,7 @@ GSR first announced it would acquire the Portland-based, SEC-registered broker-d
 
 ---
 
-## 4. Morpho raises $175M in round co-led by Paradigm, a16z crypto and Ribbit Capital to build ‘open credit network’
+## 8. Morpho raises $175M in round co-led by Paradigm, a16z crypto and Ribbit Capital to build ‘open credit network’
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/9/2026, 12:47:12 PM  
@@ -59,7 +107,7 @@ Morpho plans to build an open blockchain-based credit network to connect decentr
 
 ---
 
-## 5. Starknet rolls out ZK privacy layer for ERC20 balances and transfers
+## 9. Starknet rolls out ZK privacy layer for ERC20 balances and transfers
 
 **Author:** Brian Danga  
 **Published:** 6/9/2026, 12:00:00 PM  
@@ -71,7 +119,7 @@ STRK20 went live on Starknet, bringing private ERC20 transfers and balances with
 
 ---
 
-## 6. Zodia Custody secures Luxembourg payment institution license to expand EU stablecoin services
+## 10. Zodia Custody secures Luxembourg payment institution license to expand EU stablecoin services
 
 **Author:** Brian Danga  
 **Published:** 6/9/2026, 10:36:52 AM  
@@ -83,7 +131,7 @@ Zodia Custody secured a Luxembourg payment licence from the CSSF, enabling regul
 
 ---
 
-## 7. ‘Stuck in distribution’: Bitcoin slips below $63,000 as analysts warn rallies are being sold, not bought
+## 11. ‘Stuck in distribution’: Bitcoin slips below $63,000 as analysts warn rallies are being sold, not bought
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/9/2026, 10:13:19 AM  
@@ -95,7 +143,7 @@ Bitcoin dropped below $63,000 as analysts warn of a distribution phase dominatin
 
 ---
 
-## 8. Japan’s SBI Shinsei Bank plans crypto rewards program for depositors this fall: Nikkei
+## 12. Japan’s SBI Shinsei Bank plans crypto rewards program for depositors this fall: Nikkei
 
 **Author:** Timmy Shen  
 **Published:** 6/9/2026, 9:52:51 AM  
@@ -107,7 +155,7 @@ The program is set to grant customers vouchers worth 20% of their deposit intere
 
 ---
 
-## 9. US Bitcoin ETFs log further outflows, though analyst sees signs of easing selling pressure
+## 13. US Bitcoin ETFs log further outflows, though analyst sees signs of easing selling pressure
 
 **Author:** Danny Park  
 **Published:** 6/9/2026, 9:41:34 AM  
@@ -119,7 +167,7 @@ An analyst predicted that selling pressure in Bitcoin ETFs is starting to ease, 
 
 ---
 
-## 10. Zcash finalizes Ironwood upgrade plan, targets July activation
+## 14. Zcash finalizes Ironwood upgrade plan, targets July activation
 
 **Author:** Timmy Shen  
 **Published:** 6/9/2026, 7:14:26 AM  
@@ -131,7 +179,7 @@ The Ironwood upgrade would introduce a new shielded pool and ensure the circulat
 
 ---
 
-## 11. Wallets linked to Humanity Protocol drained for over $32 million, token plunges 89%: onchain analyst
+## 15. Wallets linked to Humanity Protocol drained for over $32 million, token plunges 89%: onchain analyst
 
 **Author:** Danny Park  
 **Published:** 6/9/2026, 1:16:07 AM  
