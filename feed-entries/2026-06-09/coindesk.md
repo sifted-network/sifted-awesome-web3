@@ -2,16 +2,88 @@
 title: "CoinDesk - 2026-06-09"
 date: "2026-06-09"
 source: "CoinDesk"
-count: 16
+count: 22
 ---
 
 # CoinDesk - 2026-06-09
 
-16 items collected.
+22 items collected.
 
 ---
 
-## 1. A16z, Paradigm lead $175 million bet to move global credit markets onchain
+## 1. Securitize CEO says tokenized stocks could unlock a $5 trillion crypto market
+
+**Author:** Margaux Nijkerk  
+**Published:** 6/9/2026, 7:49:28 PM  
+**Categories:** Finance, Ethereum News, Tokenization, News  
+
+At a panel at ETHConf, Carlos Domingo argued that bringing stocks and exchange-traded funds onchain could unlock a market far larger than today's roughly $30 billion tokenized asset sector.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/09/securitize-ceo-says-tokenized-stocks-could-unlock-a-usd5-trillion-crypto-market)
+
+---
+
+## 2. UK financial regulator moves to allow mutual funds 10% exposure to crypto ETNs
+
+**Author:** Jamie Crawley  
+**Published:** 6/9/2026, 3:39:13 PM  
+**Categories:** Policy, UK, News  
+
+The Financial Conduct Authority proposed allowing some investment schemes to add exposure to crypto exchange-traded notes.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/06/09/uk-financial-regulator-moves-to-allow-mutual-funds-10-exposure-to-crypto-etns)
+
+---
+
+## 3. 5 corruption gaps Congress must close in the Clarity Act
+
+**Author:** Scott Greytak  
+**Published:** 6/9/2026, 3:30:00 PM  
+**Categories:** Opinion, Regulation, Clarity Act, Opinion  
+
+The most consequential crypto legislation in the world is moving forward in the U.S. Senate. As written, it leaves the United States exposed to money laundering, sanctions evasion, and conflicts of interest at the highest levels of government, argues Greytak.
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/06/09/5-corruption-gaps-congress-must-close-in-the-clarity-act)
+
+---
+
+## 4. Trad.Fi, W3 target $650 million in onchain private credit using AI evaluation
+
+**Author:** Olivier Acuna  
+**Published:** 6/9/2026, 3:03:26 PM  
+**Categories:** Finance, tokenized credit, News  
+
+Equipment-financing lender Trad.Fi is working with W3 to automate capital workflows and bring real-economy business lending onto public blockchain rails.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/09/trad-fi-w3-target-usd650-million-in-onchain-private-credit-using-ai-evaluation)
+
+---
+
+## 5. Ethena lands Janus Henderson backing as asset manager invests in ENA, eyes USDe distribution
+
+**Author:** Krisztian Sandor  
+**Published:** 6/9/2026, 2:54:59 PM  
+**Categories:** Finance, DeFi, News  
+
+The deal underscores the trend of traditional asset managers backing DeFi infrastructure, following BlackRock's Uniswap and Apollo's Morpho investments.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/09/ethena-lands-janus-henderson-backing-as-asset-manager-invests-in-ena-eyes-usde-distribution)
+
+---
+
+## 6. Come back after the summer, says one analyst on crypto markets
+
+**Author:** James Van Straten  
+**Published:** 6/9/2026, 2:53:50 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Bitcoin's growing divergence from tech stocks raises concerns as AI spending surges, says Quinn Thompson.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/09/come-back-after-the-summer-says-one-analyst-on-crypto-markets)
+
+---
+
+## 7. A16z, Paradigm lead $175 million bet to move global credit markets onchain
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 6/9/2026, 2:07:32 PM  
@@ -23,7 +95,7 @@ Morpho secured $175 million from Paradigm, a16z crypto and Ribbit as the lending
 
 ---
 
-## 2. CoinDesk 20 performance update: AAVE Drops 2.6% as all constituents trade lower
+## 8. CoinDesk 20 performance update: AAVE Drops 2.6% as all constituents trade lower
 
 **Author:** CoinDesk Indices  
 **Published:** 6/9/2026, 1:16:44 PM  
@@ -35,7 +107,7 @@ Uniswap (UNI), down 2.9% from Monday, joined Aave (AAVE) as an underperformer.
 
 ---
 
-## 3. Bitcoin inflows slow sharply in 2026 as investors chase AI, Bernstein says
+## 9. Bitcoin inflows slow sharply in 2026 as investors chase AI, Bernstein says
 
 **Author:** Will Canny,AI Boost  
 **Published:** 6/9/2026, 1:02:48 PM  
@@ -47,7 +119,7 @@ Bernstein said bitcoin's increasingly diversified ownership base supports its lo
 
 ---
 
-## 4. BlackRock warns of energy shock as May CPI is set to show acceleration in inflation
+## 10. BlackRock warns of energy shock as May CPI is set to show acceleration in inflation
 
 **Author:** Omkar Godbole  
 **Published:** 6/9/2026, 12:58:09 PM  
@@ -59,7 +131,7 @@ BlackRock is closely watching Wednesday's CPI as an early test of how U.S.-Iran 
 
 ---
 
-## 5. Live updates: bitcoin drifts back to $62,500, putting damper on hope for two straight up days
+## 11. Live updates: Bitcoin drifts back to $61,000, after two straight up days amid equities selloff
 
 **Author:** Stephen Alpher,Helene Braun  
 **Published:** 6/9/2026, 12:52:07 PM  
@@ -71,7 +143,7 @@ Crypto prices rose on Monday following last week's crash, but the bears still ap
 
 ---
 
-## 6. Wall Street will run entirely on the blockchain by 2030, says Brickken CEO
+## 12. Wall Street will run entirely on the blockchain by 2030, says Brickken CEO
 
 **Author:** Olivier Acuna  
 **Published:** 6/9/2026, 12:08:56 PM  
@@ -83,7 +155,7 @@ Edwin Mata argues that EU regulations are choking local startups, leaving the U.
 
 ---
 
-## 7. Humanity's $36 million exploit tied to compromised laptop hosting a 'multisig' wallet
+## 13. Humanity's $36 million exploit tied to compromised laptop hosting a 'multisig' wallet
 
 **Author:** Shaurya Malwa  
 **Published:** 6/9/2026, 12:02:07 PM  
@@ -95,7 +167,7 @@ The compromised laptop held enough multisig keys to take over the project's brid
 
 ---
 
-## 8. Bitcoin's bounce isn't a bullish revival, with anything from $68,000 to $80,000 seen as a marker
+## 14. Bitcoin's bounce isn't a bullish revival, with anything from $68,000 to $80,000 seen as a marker
 
 **Author:** Omkar Godbole  
 **Published:** 6/9/2026, 11:16:56 AM  
@@ -107,7 +179,7 @@ Your day-ahead look for June 9, 2026
 
 ---
 
-## 9. Strategy's bitcoin purchase fails to stir BTC price
+## 15. Strategy's bitcoin purchase fails to stir BTC price
 
 **Author:** Omkar Godbole,Shaurya Malwa  
 **Published:** 6/9/2026, 10:37:56 AM  
@@ -119,7 +191,7 @@ Bitcoin is little changed despite a new purchase by Strategy as risk-averse inve
 
 ---
 
-## 10. Circle debuts cirBTC on Ethereum to challenge Coinbase in the wrapped bitcoin market
+## 16. Circle debuts cirBTC on Ethereum to challenge Coinbase in the wrapped bitcoin market
 
 **Author:** Jamie Crawley  
 **Published:** 6/9/2026, 10:14:24 AM  
@@ -131,7 +203,7 @@ Circle unveiled cirBTC, a token backed 1:1 by the world's largest cryptocurrency
 
 ---
 
-## 11. USDT's flashing a golden cross and that may be bad news for bitcoin
+## 17. USDT's flashing a golden cross and that may be bad news for bitcoin
 
 **Author:** Omkar Godbole  
 **Published:** 6/9/2026, 9:27:02 AM  
@@ -143,7 +215,7 @@ USDT's dominance rate has flashed a golden crossover in a sign of caution for th
 
 ---
 
-## 12. Coinbase and Cardless unveil credit card backed by stablecoins
+## 18. Coinbase and Cardless unveil credit card backed by stablecoins
 
 **Author:** Ian Allison  
 **Published:** 6/9/2026, 8:04:59 AM  
@@ -155,7 +227,7 @@ The stablecoin-secured card is for situations where a credit card cannot be appr
 
 ---
 
-## 13. Saylor blamed AI for bitcoin crash. Arca has one word for that: Nonsense
+## 19. Saylor blamed AI for bitcoin crash. Arca has one word for that: Nonsense
 
 **Author:** Omkar Godbole  
 **Published:** 6/9/2026, 5:35:39 AM  
@@ -167,7 +239,7 @@ Arca is blaming Strategy's sale of 32 BTC for last week's BTC crash, not AI capi
 
 ---
 
-## 14. Live updates: Bitcoin drops to $62,600 as some traders peg SpaceX's IPO as 'next catalyst'
+## 20. Live updates: Bitcoin drops to $62,600 as some traders peg SpaceX's IPO as 'next catalyst'
 
 **Author:** Shaurya Malwa,Omkar Godbole  
 **Published:** 6/9/2026, 5:17:13 AM  
@@ -179,7 +251,7 @@ Stocks recovered through SpaceX's oversubscribed IPO, an Nvidia and SK Hynix chi
 
 ---
 
-## 15. Chinese mining CEO says Strategy can survive a $30,000 bitcoin without selling
+## 21. Chinese mining CEO says Strategy can survive a $30,000 bitcoin without selling
 
 **Author:** Shaurya Malwa  
 **Published:** 6/9/2026, 4:55:20 AM  
@@ -191,7 +263,7 @@ Jiang Zhuoer of BTC.TOP called the week's selloff speculation overblown, arguing
 
 ---
 
-## 16. Humanity Protocol token crashes more than 80% after a $32 million private-key hack
+## 22. Humanity Protocol token crashes more than 80% after a $32 million private-key hack
 
 **Author:** Shaurya Malwa  
 **Published:** 6/9/2026, 4:54:48 AM  
