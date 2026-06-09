@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-07"
 date: "2026-06-07"
 source: "CoinDesk"
-count: 3
+count: 2
 ---
 
 # CoinDesk - 2026-06-07
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ The House Ways and Means Committee is gearing up for its big tax push.
 The firm's executive chairman posted a familiar chart with Strategy's previous BTC purchases writing "a good time to add more dots."
 
 📖 [Read original article](https://www.coindesk.com/business/2026/06/06/michael-saylor-revives-bitcoin-buy-speculation-as-scrutiny-over-strategy-grows)
-
----
-
-## 3. Bitcoin near $60,000 today vs February: Institutional sentiment has flipped
-
-**Author:** Omkar Godbole  
-**Published:** 6/7/2026, 4:14:08 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin’s return to $60,000 is drawing heavy ETF outflows, marking a sharp reversal from February when institutional selling eased into the dip.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/07/bitcoin-near-usd60-000-today-vs-february-institutional-mood-is-starkly-different)
 
 ---
