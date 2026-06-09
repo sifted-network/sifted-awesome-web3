@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-08"
 date: "2026-06-08"
 source: "CoinDesk"
-count: 23
+count: 20
 ---
 
 # CoinDesk - 2026-06-08
 
-23 items collected.
+20 items collected.
 
 ---
 
@@ -248,41 +248,5 @@ The plan would let anyone verify that no counterfeit coins are circulating, addr
 XRP recovered from four-month lows on elevated volume, but the token remains trapped below key resistance levels even as ETF inflows and exchange outflows continue to build.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/08/xrp-steadies-above-usd1-10-as-oversold-bounce-meets-lingering-bearish-pressure)
-
----
-
-## 21. Bitcoin's rally to $63,700 triggers $504 million losses for short sellers, most since late April
-
-**Author:** Shaurya Malwa  
-**Published:** 6/8/2026, 5:53:22 AM  
-**Categories:** Markets, News  
-
-Traders betting against bitcoin lost $504 million over 24 hours as it bounced from below $60,000, though a fresh Iran-Israel flare-up pulled prices back on Monday.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/08/bitcoin-pump-to-usd63-700-triggers-the-most-short-liquidations-since-late-april)
-
----
-
-## 22. Bitcoin spikes, then dumps, from $63,700 as analysts assess Strategy's next BTC moves
-
-**Author:** Omkar Godbole,Shaurya Malwa  
-**Published:** 6/8/2026, 5:08:06 AM  
-**Categories:** Tech, Live News, live_news  
-
-BTC, ETH, XRP and others pulled back from their overnight highs as Iran-Israel tensions and oil rally triggered risk aversion in Asian stocks.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/08/major-cryptocurrencies-under-pressure-as-oil-jumps-3)
-
----
-
-## 23. Bitcoin falls back below $63,000 as Iran-Israel trade strikes and Korean stocks crash
-
-**Author:** Omkar Godbole  
-**Published:** 6/8/2026, 4:21:53 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-BTC has pulled back from overnight highs as escalating geopolitical tensions weigh over risk sentiment and send oil price higher.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/08/bitcoin-recedes-to-usd63-000-as-iran-israel-trade-strikes-and-korean-stocks-crash)
 
 ---
