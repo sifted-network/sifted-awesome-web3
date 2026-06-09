@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-08"
 date: "2026-06-08"
 source: "CoinDesk"
-count: 20
+count: 9
 ---
 
 # CoinDesk - 2026-06-08
 
-20 items collected.
+9 items collected.
 
 ---
 
@@ -116,137 +116,5 @@ Bittensor (TAO), up 12% from Friday, joined NEAR Protocol (NEAR) as a top perfor
 The launch comes as AI agents increasingly emerge as participants in crypto markets, executing trades and managing capital on behalf of users.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/06/08/metamask-launches-ai-agent-wallet-with-built-in-security-for-crypto-trades)
-
----
-
-## 10. Bitmine bought the dip, making its biggest ether purchase in 2026 as prices tanked
-
-**Author:** Krisztian Sandor  
-**Published:** 6/8/2026, 12:53:30 PM  
-**Categories:** Markets, Ethereum News, Digital Asset Treasury, News  
-
-The company bought 126,971 ETH last week, worth roughly $214 million at current prices, despite chairman Tom Lee's earlier calls to slow purchases.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/07/bitmine-bought-the-dip-making-its-biggest-ether-purchase-in-2026-as-prices-tanked)
-
----
-
-## 11. Strategy buys 1,550 bitcoin one week after selling $2.5 million of coins
-
-**Author:** James Van Straten  
-**Published:** 6/8/2026, 12:12:45 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-Strategy adds bitcoin and cash after raising $181 million through stock sales.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/08/strategy-buys-1-550-bitcoin-boosts-cash-reserves-to-usd1-billion)
-
----
-
-## 12. A crucial bitcoin market indicator is signaling that the worst of the crypto crash might be over
-
-**Author:** Omkar Godbole,James Van Straten  
-**Published:** 6/8/2026, 12:02:21 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-The metric shows bitcoin's market price is getting close to its realized fair value after the recent sell-off.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/08/a-crucial-bitcoin-market-indicator-is-signaling-that-the-worst-of-the-crypto-crash-might-be-over)
-
----
-
-## 13. Bybit challenges Wall Street with a massive push into tokenized U.S. stock IPOs
-
-**Author:** Olivier Acuna  
-**Published:** 6/8/2026, 11:34:57 AM  
-**Categories:** Markets, SpaceX, Elon Musk, IPOs, Tokenization, News  
-
-Retail investors can now buy shares at official underwritten prices through the crypto exchange, bypassing Wall Street’s exclusive pre-IPO clubs.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/08/bybit-launches-tokenized-ipo-service-starting-with-elon-musk-s-spacex)
-
----
-
-## 14. Crypto's recovery remains elusive as SpaceX, Anthropic IPOs loom
-
-**Author:** Omkar Godbole  
-**Published:** 6/8/2026, 11:24:06 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for June 8, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/06/08/crypto-s-recovery-remains-unsecure-as-spacex-anthropic-ipos-loom-stronger-etf-inflows-would-help)
-
----
-
-## 15. Bitcoin holds steady after Sunday's rally, though full-fledged reversal may take longer
-
-**Author:** Omkar Godbole,Shaurya Malwa  
-**Published:** 6/8/2026, 11:00:18 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin is holding above $63,000 after rallying on Sunday. The price is now hovering near a key 200-week moving average that often marks major cycle turning points.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/08/bitcoin-holds-steady-after-sunday-s-rally-though-full-fledged-reversal-may-take-longer)
-
----
-
-## 16. Gold slips below 200-day moving average offering glimmer of hope for bitcoin bulls
-
-**Author:** James Van Straten  
-**Published:** 6/8/2026, 9:57:38 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Gold falls into bear market territory, while a stronger U.S. dollar and rising rate expectations pressure risk assets.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/08/gold-slips-below-200-day-moving-average-offering-glimmer-of-hope-for-bitcoin-bulls)
-
----
-
-## 17. U.S. inflation, European Central Bank rate decision: Crypto Week Ahead
-
-**Author:** Jamie Crawley,AI Boost  
-**Published:** 6/8/2026, 9:46:21 AM  
-**Categories:** Markets, week ahead, News  
-
-Your look at what's coming in the week starting June 8.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/08/u-s-inflation-european-central-bank-rate-decision-crypto-week-ahead)
-
----
-
-## 18. CME is letting traders bet on bitcoin volatility, not price, and two firms have already placed bets
-
-**Author:** Omkar Godbole  
-**Published:** 6/8/2026, 8:19:30 AM  
-**Categories:** Markets, Bitcoin News, Volatility, News  
-
-Monarq and DV Chain kick off trading in CME's bitcoin volatility index futures.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/08/cme-has-a-new-bitcoin-product-monarq-and-dv-chain-made-their-first-bet)
-
----
-
-## 19. Zcash bounces 45% as developers propose new 'Ironwood' upgrade
-
-**Author:** Shaurya Malwa  
-**Published:** 6/8/2026, 8:10:57 AM  
-**Categories:** Markets, News  
-
-The plan would let anyone verify that no counterfeit coins are circulating, addressing the patched bug that triggered last week's crash. ZEC is still down about 22% on the week.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/08/zcash-bounces-45-as-developers-propose-new-ironwood-upgrade)
-
----
-
-## 20. XRP steadies above $1.10 to bounce from four-month lows
-
-**Author:** Shaurya Malwa  
-**Published:** 6/8/2026, 6:06:55 AM  
-**Categories:** Markets, News  
-
-XRP recovered from four-month lows on elevated volume, but the token remains trapped below key resistance levels even as ETF inflows and exchange outflows continue to build.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/08/xrp-steadies-above-usd1-10-as-oversold-bounce-meets-lingering-bearish-pressure)
 
 ---
