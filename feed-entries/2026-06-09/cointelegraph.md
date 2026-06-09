@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-06-09"
 date: "2026-06-09"
 source: "Cointelegraph"
-count: 12
+count: 18
 ---
 
 # Cointelegraph - 2026-06-09
 
-12 items collected.
+18 items collected.
 
 ---
 
-## 1. Privacy push as StarkWare and Sui move toward compliance-ready confidential transfers
+## 1. Bitcoin may act as a ‘canary in the coal mine’ as risk-off pressure spreads: Bitwise
+
+**Author:** Cointelegraph by Biraajmaan Tamuly  
+**Published:** 6/9/2026, 5:48:44 PM  
+**Categories:** Markets  
+
+Bitwise research suggests that Bitcoin is leading a broader risk-off move across markets as global liquidity and stablecoin reserves remain elevated.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-may-act-as-a-canary-in-the-coal-mine-as-risk-off-pressure-spreads-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. BBB refers prediction market Kalshi to state regulators over ad inquiry
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 6/9/2026, 5:26:49 PM  
+**Categories:** Latest News  
+
+A BBB advertising watchdog escalated its review of Kalshi after the prediction market platform declined to participate in an inquiry into influencer disclosure practices.
+
+📖 [Read original article](https://cointelegraph.com/news/bbb-nad-refers-kalshi-state-regulators-advertising-influencer-inquiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Bitcoin price slips toward $62K local lows as bear-market history keeps repeating
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 6/9/2026, 3:05:28 PM  
+**Categories:** Markets  
+
+Bitcoin bear market analysis showed copycat BTC price moves ongoing despite new hopes of a US-Iran peace deal.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-slips-toward-62k-local-lows-as-bear-market-history-keeps-repeating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bitcoin bottom? These four charts hint at BTC price dropping to $50K
+
+**Author:** Cointelegraph by Yashu Gola  
+**Published:** 6/9/2026, 2:33:53 PM  
+**Categories:** Markets  
+
+A $50,000 Bitcoin price target remains in play despite BTC maintaining above $60,000 support for now, as multiple indicators warn the bottom may not be in.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-bottom-these-four-charts-hint-at-btc-price-dropping-to-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Blockchain researchers warn HTX sanctions may blur crypto risk signals
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 6/9/2026, 2:22:11 PM  
+**Categories:** Latest News  
+
+Researchers say broad HTX tainting could freeze legitimate users and make compliance tools less useful for tracing illicit funds.
+
+📖 [Read original article](https://cointelegraph.com/news/blockchain-researchers-htx-sanctions-crypto-risk-signals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Privacy push as StarkWare and Sui move toward compliance-ready confidential transfers
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/9/2026, 2:01:11 PM  
@@ -23,7 +83,7 @@ StarkWare and Sui roll out confidential transfer systems as Zama boosts complian
 
 ---
 
-## 2. MiCA architect says EU should prioritize tokenization over DeFi rules
+## 7. MiCA architect says EU should prioritize tokenization over DeFi rules
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/9/2026, 12:30:52 PM  
@@ -35,7 +95,7 @@ One of MiCA's architects said he sees no need to regulate DeFi as the European C
 
 ---
 
-## 3. Bitcoin 'normal' 4-year cycle puts focus on $53K low before 2028 BTC price high
+## 8. Bitcoin 'normal' 4-year cycle puts focus on $53K low before 2028 BTC price high
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/9/2026, 12:25:03 PM  
@@ -47,7 +107,7 @@ Bitcoin trader said that BTC price was approaching its cycle bottom "window" wit
 
 ---
 
-## 4. Humanity says compromised laptop led to $36M bridge attack
+## 9. Humanity says compromised laptop led to $36M bridge attack
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/9/2026, 12:14:08 PM  
@@ -59,7 +119,7 @@ Humanity Protocol's Terence Kwok said some multisig keys may have been accidenta
 
 ---
 
-## 5. OKX expands X-Perps in Europe with Magnificent 7, gold and oil futures
+## 10. OKX expands X-Perps in Europe with Magnificent 7, gold and oil futures
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/9/2026, 11:52:15 AM  
@@ -71,7 +131,7 @@ OKX rolls out stock-linked expiry futures for European retail traders, expanding
 
 ---
 
-## 6. SBI Shinsei links bank deposits to crypto rewards in Japan: Nikkei
+## 11. SBI Shinsei links bank deposits to crypto rewards in Japan: Nikkei
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/9/2026, 10:32:48 AM  
@@ -83,7 +143,19 @@ SBI will give out vouchers that can be redeemed for Bitcoin, Ether or XRP throug
 
 ---
 
-## 7. Over 200 crypto firms push Senate to pass CLARITY Act
+## 12. Kraken signs FIFA World Cup 2026 partnership ahead of tourney kickoff
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 6/9/2026, 7:00:00 AM  
+**Categories:** Latest News  
+
+The crypto exchange will promote digital asset adoption through fan activations and product experiences at the first 48-team FIFA World Cup.
+
+📖 [Read original article](https://cointelegraph.com/news/kraken-lands-fifa-world-cup-2026-sponsorship-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 13. Over 200 crypto firms push Senate to pass CLARITY Act
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/9/2026, 6:43:36 AM  
@@ -95,7 +167,7 @@ Crypto lobby groups representing hundreds of organizations urged Senate leaders 
 
 ---
 
-## 8. AI agents with crypto could escape and become ‘unstoppable,’ experts warn
+## 14. AI agents with crypto could escape and become ‘unstoppable,’ experts warn
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/9/2026, 6:41:52 AM  
@@ -107,7 +179,7 @@ Autonomous AI and crypto could have “far-reaching consequences for users and t
 
 ---
 
-## 9. Bitcoin rebound highlights discount but $162M bid liquidity points to downside risk
+## 15. Bitcoin rebound highlights discount but $162M bid liquidity points to downside risk
 
 **Author:** Cointelegraph by Biraajmaan Tamuly  
 **Published:** 6/9/2026, 6:15:15 AM  
@@ -119,7 +191,7 @@ Bitcoin's recovery highlights investors' belief that BTC is discounted, but weak
 
 ---
 
-## 10. UK financial regulator floats allowing 10% crypto allocations for retail funds
+## 16. UK financial regulator floats allowing 10% crypto allocations for retail funds
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/9/2026, 4:40:43 AM  
@@ -131,7 +203,7 @@ The Financial Conduct Authority floated the idea of allowing limited exposure to
 
 ---
 
-## 11. Humanity Protocol token falls 85% amid $30M private key exploit
+## 17. Humanity Protocol token falls 85% amid $30M private key exploit
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/9/2026, 3:26:44 AM  
@@ -143,7 +215,7 @@ The compromise of private keys belonging to a member of the Humanity Foundation 
 
 ---
 
-## 12. OpenAI confidentially files to go public in the US
+## 18. OpenAI confidentially files to go public in the US
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/9/2026, 2:02:33 AM  
