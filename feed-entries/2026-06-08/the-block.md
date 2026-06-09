@@ -2,28 +2,52 @@
 title: "The Block - 2026-06-08"
 date: "2026-06-08"
 source: "The Block"
-count: 15
+count: 17
 ---
 
 # The Block - 2026-06-08
 
-15 items collected.
+17 items collected.
 
 ---
 
-## 1. Citrini says Hyperliquid’s legitimate cash flow, token buyback strategy make for ‘compelling’ investment
+## 1. Brazen bitcoin kidnapping and carjacking co-conspirator pleads guilty, faces up to 20 years in prison: DOJ
+
+**Author:** Daniel Kuhn  
+**Published:** 6/8/2026, 9:54:29 PM  
+**Categories:** Legal, Policy, Crime  
+
+Six men from Florida carjacked Sushil and Radhika Chetal's Lamborghini Urus, beat the couple and briefly detained them.
+
+📖 [Read original article](https://www.theblock.co/post/404043/brazen-bitcoin-kidnapping-carjacking-pleads-guilty-faces-20-years-prison-doj?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Crypto has ‘limited utility’ in solving AI’s trust and payment issues, IC3 researchers say
 
 **Author:** RT Watson  
-**Published:** 6/8/2026, 6:21:14 PM  
-**Categories:** Markets, Token Projects  
+**Published:** 6/8/2026, 9:23:31 PM  
+**Categories:** Companies, Crypto Ecosystems, Tech, Web3, AI, File Storage, Internet  
 
-"By some measures, Hyperliquid repurchases have accounted for nearly half of all token-buyback activity across" crypto in 2025, said Citrini.
+The academic researchers attempt to debunk idea that giving AI agents access to crypto wallets has the ability to make them autonomous.
 
-📖 [Read original article](https://www.theblock.co/post/404024/citrini-hyperliquid-legitimate-cash-flow-token-buyback-compelling-investment?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/post/404021/crypto-has-limited-utility-in-solving-ais-trust-and-payment-issues-ic3-researchers-say?utm_source=rss&utm_medium=rss)
 
 ---
 
-## 2. Coinbase strategist says institutions aren’t panicking about bitcoin, ‘love it even more’ at lower prices
+## 3. Tokenized equities reach $5.5 billion market cap, fueled by SpaceX IPO access and exchange expansion
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 6/8/2026, 8:18:53 PM  
+**Categories:** Crypto Ecosystems, Web3, Tokenization  
+
+The growth of the fourth-largest RWA category signals a structural demand trend as crypto users want access to equity markets.
+
+📖 [Read original article](https://www.theblock.co/post/404034/tokenized-equities-5-5-billion-market-cap-fueled-spacex-ipo-exchange-expansion?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Coinbase strategist says institutions aren’t panicking about bitcoin, ‘love it even more’ at lower prices
 
 **Author:** Kyle Baird  
 **Published:** 6/8/2026, 5:52:18 PM  
@@ -35,7 +59,7 @@ Family offices and sovereign wealth funds continue accumulating bitcoin despite 
 
 ---
 
-## 3. Strategy shareholders approve semi-monthly dividends for STRC preferred stock
+## 5. Strategy shareholders approve semi-monthly dividends for STRC preferred stock
 
 **Author:** RT Watson  
 **Published:** 6/8/2026, 3:41:38 PM  
@@ -47,7 +71,7 @@ Family offices and sovereign wealth funds continue accumulating bitcoin despite 
 
 ---
 
-## 4. TON Strategy’s May staking haul tops 3.3 million TON as network upgrades take effect
+## 6. TON Strategy’s May staking haul tops 3.3 million TON as network upgrades take effect
 
 **Author:** Kyle Baird  
 **Published:** 6/8/2026, 2:48:41 PM  
@@ -59,7 +83,7 @@ TON Strategy made approximately $5.6 million in staking rewards for May and is s
 
 ---
 
-## 5. Former FTX CEO Sam Bankman-Fried officially files for a presidential pardon from Trump
+## 7. Former FTX CEO Sam Bankman-Fried officially files for a presidential pardon from Trump
 
 **Author:** Sarah Wynn  
 **Published:** 6/8/2026, 2:45:34 PM  
@@ -71,7 +95,7 @@ Sam Bankman-Fried is pressing ahead with his bid for a presidential pardon, even
 
 ---
 
-## 6. Bitmine adds 127,000 ether, bringing treasury to 5.54 million ETH as Tom Lee calls crypto selloff ‘superficial’
+## 8. Bitmine adds 127,000 ether, bringing treasury to 5.54 million ETH as Tom Lee calls crypto selloff ‘superficial’
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/8/2026, 1:52:01 PM  
@@ -83,7 +107,7 @@ Bitmine purchased 126,971 ETH for about $207M, lifting its treasury to 5.54M tok
 
 ---
 
-## 7. MetaMask debuts Agent Wallet giving AI bots self-custody access to Ethereum
+## 9. MetaMask debuts Agent Wallet giving AI bots self-custody access to Ethereum
 
 **Author:** Daniel Kuhn  
 **Published:** 6/8/2026, 1:00:00 PM  
@@ -95,7 +119,7 @@ Consensys-backed MetaMask is rolling out a non-custodial wallet for AI agents fo
 
 ---
 
-## 8. Coinbase, Ripple among over 200 crypto organizations urging Senate Clarity Act vote
+## 10. Coinbase, Ripple among over 200 crypto organizations urging Senate Clarity Act vote
 
 **Author:** Brian Danga  
 **Published:** 6/8/2026, 12:34:47 PM  
@@ -107,7 +131,7 @@ More than 200 organizations, including Coinbase and Ripple, urged Senate leaders
 
 ---
 
-## 9. Michael Saylor’s Strategy buys another 1,550 bitcoin for $101 million after small sale as total holdings rise to 845,256 BTC
+## 11. Michael Saylor’s Strategy buys another 1,550 bitcoin for $101 million after small sale as total holdings rise to 845,256 BTC
 
 **Author:** James Hunt  
 **Published:** 6/8/2026, 12:05:44 PM  
@@ -119,7 +143,7 @@ Strategy's total holdings account for more than 4% of the 21 million bitcoin sup
 
 ---
 
-## 10. UK FCA proposes allowing authorized funds to allocate up to 10% to crypto ETNs
+## 12. UK FCA proposes allowing authorized funds to allocate up to 10% to crypto ETNs
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/8/2026, 11:48:32 AM  
@@ -131,7 +155,7 @@ The FCA proposed allowing authorized UK funds to hold up to 10% in crypto ETNs, 
 
 ---
 
-## 11. Bernstein says bitcoin’s ‘boring cycle’ doesn’t undermine store-of-value thesis despite $2.6B ETF outflows in 2026
+## 13. Bernstein says bitcoin’s ‘boring cycle’ doesn’t undermine store-of-value thesis despite $2.6B ETF outflows in 2026
 
 **Author:** Brian Danga  
 **Published:** 6/8/2026, 10:37:41 AM  
@@ -143,7 +167,7 @@ Bernstein analysts said bitcoin’s “boring cycle” and $2.6 billion worth of
 
 ---
 
-## 12. Spot bitcoin ETFs log $1.7 billion in weekly outflows, largest since February 2025
+## 14. Spot bitcoin ETFs log $1.7 billion in weekly outflows, largest since February 2025
 
 **Author:** Danny Park  
 **Published:** 6/8/2026, 9:17:58 AM  
@@ -155,7 +179,7 @@ The outflows were primarily driven by macroeconomic headlines, especially the st
 
 ---
 
-## 13. ZEC rebounds 42% as ZODL founder details two-step emergency upgrade
+## 15. ZEC rebounds 42% as ZODL founder details two-step emergency upgrade
 
 **Author:** Timmy Shen  
 **Published:** 6/8/2026, 6:52:09 AM  
@@ -167,7 +191,7 @@ Josh Swihart, founder of ZODL, provided details on how the Zcash team resolved a
 
 ---
 
-## 14. Bitcoin reclaims $63,000 in ‘oversold relief rally’; South Korea’s KOSPI plunges 8%
+## 16. Bitcoin reclaims $63,000 in ‘oversold relief rally’; South Korea’s KOSPI plunges 8%
 
 **Author:** Danny Park  
 **Published:** 6/8/2026, 3:07:41 AM  
@@ -179,7 +203,7 @@ Presto's Min Jung told The Block that KOSPI's crash may have had some impact on 
 
 ---
 
-## 15. What Is Crypto Market Structure? A Guide to How Crypto Markets Work
+## 17. What Is Crypto Market Structure? A Guide to How Crypto Markets Work
 
 **Author:** The Block Research  
 **Published:** 6/8/2026, 2:05:08 AM  
