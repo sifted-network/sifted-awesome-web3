@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-06"
 date: "2026-06-06"
 source: "Decrypt"
-count: 4
+count: 3
 ---
 
 # Decrypt - 2026-06-06
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Researchers say prompt injection attacks could manipulate AI coding agents to ac
 Bitcoin surged in the wake of President Trump's reelection, pushing to new highs deep into 2025. Now it's down more than 50% from that peak.
 
 📖 [Read original article](https://decrypt.co/370235/bitcoin-dumped-gains-since-trump-reelected-then-some)
-
----
-
-## 4. Meet the Guys Still Clinging To the Terra Luna That Do Kwon Abandoned
-
-**Author:** Ryan Gladwin  
-**Published:** 6/6/2026, 2:26:03 PM  
-**Categories:** Long Reads  
-
-Terra Luna Classic was left behind after an epic collapse almost four years ago. But there’s a community of believers who haven’t given up.
-
-📖 [Read original article](https://decrypt.co/370189/meet-guys-still-clinging-terra-luna-do-kwon)
 
 ---
