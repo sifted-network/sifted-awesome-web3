@@ -2,16 +2,112 @@
 title: "Decrypt - 2026-06-10"
 date: "2026-06-10"
 source: "Decrypt"
-count: 10
+count: 18
 ---
 
 # Decrypt - 2026-06-10
 
-10 items collected.
+18 items collected.
 
 ---
 
-## 1. Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High
+## 1. Tether, Nvidia and Amazon Back Humanoid Robotics Firm NEURA in $1.4 Billion Funding Round
+
+**Author:** Decrypt Agent  
+**Published:** 6/10/2026, 7:30:32 PM  
+**Categories:** Artificial Intelligence  
+
+Stablecoin giant Tether led a massive Series C round for German robotics firm NEURA, which will embed crypto payment tools and edge AI.
+
+📖 [Read original article](https://decrypt.co/370691/tether-nvidia-amazon-back-neura-robotics-1-4-billion-funding-round)
+
+---
+
+## 2. The Internet Is Furious at Anthropic After Claude Fable 5 Release
+
+**Author:** Jose Antonio Lanz  
+**Published:** 6/10/2026, 7:17:27 PM  
+**Categories:** Artificial Intelligence  
+
+Token burn, silent censorship, and a mandatory data grab—the biggest Claude release has become Anthropic's messiest.
+
+📖 [Read original article](https://decrypt.co/370688/internet-furious-anthropic-claude-mythos-fable-5)
+
+---
+
+## 3. AI Helped People Spot Fake News—Then Made Them Worse at It: MIT
+
+**Author:** Jason Nelson  
+**Published:** 6/10/2026, 6:40:06 PM  
+**Categories:** Artificial Intelligence  
+
+An MIT study found AI assistants improved misinformation detection in the moment, but appeared to weaken users' ability to spot falsehoods on their own.
+
+📖 [Read original article](https://decrypt.co/370675/ai-helped-people-spot-fake-news-made-them-worse-mit)
+
+---
+
+## 4. Botanix Will Shut Down Bitcoin Layer-2 Network in July, Citing Lack of DeFi Demand
+
+**Author:** André Beganski  
+**Published:** 6/10/2026, 6:11:36 PM  
+**Categories:** , , DeFi  
+
+Botanix asked users to withdraw funds, disclosing plans to wind down its Bitcoin-based layer-2 network in July.
+
+📖 [Read original article](https://decrypt.co/370671/botanix-shut-down-bitcoin-layer-2-network-lack-defi-demand)
+
+---
+
+## 5. Bitcoin Is Getting Closer to the Bottom, But Demand Is Falling: CryptoQuant
+
+**Author:** Logan Hitchcock  
+**Published:** 6/10/2026, 5:47:40 PM  
+**Categories:** , Markets  
+
+Bitcoin's bear market might be nearing an end, analysts said, but individuals and institutions aren't lining up to buy the top crypto asset.
+
+📖 [Read original article](https://decrypt.co/370663/bitcoin-getting-closer-bottom-demand-falling-cryptoquant)
+
+---
+
+## 6. 7 Factors That Actually Matter When Choosing a Crypto Swap Platform
+
+**Author:** Decrypt Staff  
+**Published:** 6/10/2026, 5:01:03 PM  
+**Categories:** , , Coins  
+
+With crypto swaps growing in popularity, the best crypto swap platforms are embracing speed, security, and asset availability.
+
+📖 [Read original article](https://decrypt.co/370527/7-factors-that-actually-matter-when-choosing-a-crypto-swap-platform)
+
+---
+
+## 7. Mastercard Enables AI Agent Payments With Help From Crypto Giants Like Coinbase, Ripple
+
+**Author:** Jason Nelson  
+**Published:** 6/10/2026, 4:50:47 PM  
+**Categories:** ripple, , Artificial Intelligence  
+
+Mastercard's Agent Pay for Machines is designed to let AI buy services and settle transactions using cards, bank accounts, and stablecoins.
+
+📖 [Read original article](https://decrypt.co/370660/mastercard-enables-ai-agent-payments-crypto-giants-coinbase-ripple)
+
+---
+
+## 8. New CFTC Rules on Prediction Markets Would Ban Wagers on Ouster of US Enemies
+
+**Author:** Sander Lutz  
+**Published:** 6/10/2026, 4:06:54 PM  
+**Categories:** Law and Order  
+
+Proposed CFTC rules would forbid markets where an outcome could be impacted by war or assassination, even when conflict isn’t mentioned.
+
+📖 [Read original article](https://decrypt.co/370656/cftc-rules-prediction-markets-ban-wagers-ouster-us-enemies)
+
+---
+
+## 9. Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High
 
 **Author:** André Beganski  
 **Published:** 6/10/2026, 2:46:07 PM  
@@ -23,7 +119,7 @@ The reading likely supports restrictive monetary policy.
 
 ---
 
-## 2. Paradigm, Hyperliquid Policy Center Push Back on GENIUS Act Stablecoin AML Rule
+## 10. Paradigm, Hyperliquid Policy Center Push Back on GENIUS Act Stablecoin AML Rule
 
 **Author:** Vince Dioquino  
 **Published:** 6/10/2026, 2:33:50 PM  
@@ -35,7 +131,7 @@ The groups say issuers, DeFi apps, and validators need clearer limits on who is 
 
 ---
 
-## 3. Fold Shares Jump 162% After Bitcoin Fintech Sells $45 Million in BTC, Wipes Out Debt
+## 11. Fold Shares Jump 162% After Bitcoin Fintech Sells $45 Million in BTC, Wipes Out Debt
 
 **Author:** Decrypt Agent  
 **Published:** 6/10/2026, 2:21:23 PM  
@@ -47,7 +143,7 @@ Publicly traded Fold sold Bitcoin holdings to restructure its balance sheet, fue
 
 ---
 
-## 4. Delaware Advances Bill to Ban ‘Predatory’ Bitcoin ATMs
+## 12. Delaware Advances Bill to Ban ‘Predatory’ Bitcoin ATMs
 
 **Author:** Decrypt Agent  
 **Published:** 6/10/2026, 1:52:31 PM  
@@ -59,7 +155,7 @@ Lawmakers have advanced legislation that would ban all cryptocurrency kiosks sta
 
 ---
 
-## 5. Solana Sponsors the World Series of Poker, Enabling Crypto Entry Fees and Payouts
+## 13. Solana Sponsors the World Series of Poker, Enabling Crypto Entry Fees and Payouts
 
 **Author:** Logan Hitchcock  
 **Published:** 6/10/2026, 1:01:20 PM  
@@ -71,7 +167,7 @@ Players can now enter World Series of Poker tournaments with SOL or stablecoins,
 
 ---
 
-## 6. Myriad Taps Chainlink to Power FIFA World Cup Prediction Markets
+## 14. Myriad Taps Chainlink to Power FIFA World Cup Prediction Markets
 
 **Author:** Decrypt Staff  
 **Published:** 6/10/2026, 1:01:04 PM  
@@ -83,7 +179,7 @@ The integration builds on Myriad’s use of the Chainlink Runtime Environment to
 
 ---
 
-## 7. Morning Minute: Crypto Falls Amidst War Escalation and Mythos Release
+## 15. Morning Minute: Crypto Falls Amidst War Escalation and Mythos Release
 
 **Author:** Tyler Warner  
 **Published:** 6/10/2026, 12:48:57 PM  
@@ -95,7 +191,7 @@ Markets sold off ahead of CPI. Crypto tax bills hit a wall in the House. And Mor
 
 ---
 
-## 8. ‘Intense Capitulation’ Hits Crypto as 8M BTC, Bulk of ETH Supply Sit at Loss
+## 16. ‘Intense Capitulation’ Hits Crypto as 8M BTC, Bulk of ETH Supply Sit at Loss
 
 **Author:** Akash Girimath  
 **Published:** 6/10/2026, 11:26:31 AM  
@@ -107,7 +203,7 @@ Millions of Bitcoin are underwater as experts say the 'scale of market reset' si
 
 ---
 
-## 9. Kalshi Rolls Out New Safeguards After Insider Trading Concerns Hit Prediction Markets
+## 17. Kalshi Rolls Out New Safeguards After Insider Trading Concerns Hit Prediction Markets
 
 **Author:** Vismaya V  
 **Published:** 6/10/2026, 11:05:37 AM  
@@ -119,7 +215,7 @@ Kalshi's new rules force traders to disclose their employers before trading high
 
 ---
 
-## 10. Japan's Largest Banks Plan Joint Stablecoin Launch by March 2027
+## 18. Japan's Largest Banks Plan Joint Stablecoin Launch by March 2027
 
 **Author:** Decrypt Agent  
 **Published:** 6/10/2026, 9:19:08 AM  
