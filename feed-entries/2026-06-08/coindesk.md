@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-08"
 date: "2026-06-08"
 source: "CoinDesk"
-count: 3
+count: 2
 ---
 
 # CoinDesk - 2026-06-08
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Users are being paid to shave their heads, chug liquor and interview homeless pe
 Unlike most crypto, Hyperliquid actually generates cash flow and has a token buyback mechanism, says Citrini Research
 
 📖 [Read original article](https://www.coindesk.com/business/2026/06/08/influential-research-firm-that-caused-ai-stock-meltdown-lays-out-hyperliquid-as-compelling-idea)
-
----
-
-## 3. Live updates: Bitcoin tops $63,000 as Strategy adds $100 million BTC in latest purchase
-
-**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Krisztian Sandor,Helene Braun  
-**Published:** 6/8/2026, 5:04:38 PM  
-**Categories:** Finance, Live News, live_news  
-
-Meanwhile, Strive bought 32 bitcoin, the same number Strategy dumped last week.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/08/live-updates-bitcoin-above-usd63-400-as-strategy-adds-usd100-million-btc-in-latest-purchase)
 
 ---
