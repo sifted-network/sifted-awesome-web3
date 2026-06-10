@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-09"
 date: "2026-06-09"
 source: "CoinDesk"
-count: 18
+count: 10
 ---
 
 # CoinDesk - 2026-06-09
 
-18 items collected.
+10 items collected.
 
 ---
 
@@ -128,101 +128,5 @@ Uniswap (UNI), down 2.9% from Monday, joined Aave (AAVE) as an underperformer.
 Bernstein said bitcoin's increasingly diversified ownership base supports its long-term store-of-value thesis.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/09/bitcoin-inflows-slow-sharply-in-2026-as-investors-chase-ai-bernstein-says)
-
----
-
-## 11. BlackRock warns of energy shock as May CPI is set to show acceleration in inflation
-
-**Author:** Omkar Godbole  
-**Published:** 6/9/2026, 12:58:09 PM  
-**Categories:** Markets, BlackRock, Bitcoin News, News  
-
-BlackRock is closely watching Wednesday's CPI as an early test of how U.S.-Iran tensions are feeding into already elevated prices in the economy.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/09/blackrock-warns-of-energy-shock-as-may-cpi-is-set-to-show-acceleration-in-inflation)
-
----
-
-## 12. Live updates: Bitcoin narrows early losses, returns to $62,000 as Nasdaq bounces to close down 1%
-
-**Author:** Stephen Alpher,Helene Braun  
-**Published:** 6/9/2026, 12:52:07 PM  
-**Categories:** Tech, Bitcoin News, Live News, live_news  
-
-Crypto prices rose on Monday following last week's crash, but the bears still appear to be in control.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/09/live-updates-bitcoin-drifts-back-to-usd62-500-putting-damper-on-hope-for-two-straight-up-days)
-
----
-
-## 13. Wall Street will run entirely on the blockchain by 2030, says Brickken CEO
-
-**Author:** Olivier Acuna  
-**Published:** 6/9/2026, 12:08:56 PM  
-**Categories:** Finance, Tokenization, Real World Assets, News  
-
-Edwin Mata argues that EU regulations are choking local startups, leaving the U.S. and automated AI tools to run the future of tokenized finance.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/09/wall-street-will-be-entirely-onchain-by-2030-brickken-ceo-edwin-mata-says)
-
----
-
-## 14. Humanity's $36 million exploit tied to compromised laptop hosting a 'multisig' wallet
-
-**Author:** Shaurya Malwa  
-**Published:** 6/9/2026, 12:02:07 PM  
-**Categories:** Tech, Hack, Crime, News  
-
-The compromised laptop held enough multisig keys to take over the project's bridges on two chains, a basic security failure for a startup backed by Pantera and Jump Crypto.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/09/humanity-s-usd36-million-exploit-happened-because-a-multisig-wallet-lived-on-one-laptop)
-
----
-
-## 15. Bitcoin's bounce isn't a bullish revival, with anything from $68,000 to $80,000 seen as a marker
-
-**Author:** Omkar Godbole  
-**Published:** 6/9/2026, 11:16:56 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for June 9, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/06/09/bitcoin-s-bounce-isn-t-a-bullish-revival-with-anything-from-usd68-000-to-usd80-000-seen-as-a-marker)
-
----
-
-## 16. Strategy's bitcoin purchase fails to stir BTC price
-
-**Author:** Omkar Godbole,Shaurya Malwa  
-**Published:** 6/9/2026, 10:37:56 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin is little changed despite a new purchase by Strategy as risk-averse investors await U.S. inflation data and next week’s Fed meeting.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/09/strategy-s-bitcoin-purchase-fails-to-stir-btc-price)
-
----
-
-## 17. Circle debuts cirBTC on Ethereum to challenge Coinbase in the wrapped bitcoin market
-
-**Author:** Jamie Crawley  
-**Published:** 6/9/2026, 10:14:24 AM  
-**Categories:** Finance, Circle, Bitcoin News, Ethereum News, News  
-
-Circle unveiled cirBTC, a token backed 1:1 by the world's largest cryptocurrency, to allow traders to use their bitcoin wealth in DeFi protocols.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/09/circle-debuts-cirbtc-on-ethereum-to-challenge-coinbase-in-the-wrapped-bitcoin-market)
-
----
-
-## 18. USDT's flashing a golden cross and that may be bad news for bitcoin
-
-**Author:** Omkar Godbole  
-**Published:** 6/9/2026, 9:27:02 AM  
-**Categories:** Markets, Tether, Technical Analysis, News  
-
-USDT's dominance rate has flashed a golden crossover in a sign of caution for the broader crypto market.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/09/usdt-s-flashing-a-golden-cross-and-that-may-be-bad-news-for-bitcoin)
 
 ---
