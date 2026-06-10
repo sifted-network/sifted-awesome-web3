@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-09"
 date: "2026-06-09"
 source: "The Block"
-count: 15
+count: 12
 ---
 
 # The Block - 2026-06-09
 
-15 items collected.
+12 items collected.
 
 ---
 
@@ -152,41 +152,5 @@ Bitcoin dropped below $63,000 as analysts warn of a distribution phase dominatin
 The program is set to grant customers vouchers worth 20% of their deposit interest payments, redeemable for cryptocurrencies.
 
 📖 [Read original article](https://www.theblock.co/post/404080/japan-sbi-shinsei-bank-plans-crypto-rewards-program?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. US Bitcoin ETFs log further outflows, though analyst sees signs of easing selling pressure
-
-**Author:** Danny Park  
-**Published:** 6/9/2026, 9:41:34 AM  
-**Categories:** Funds, Markets, Token Projects, Bitcoin, Bitcoin ETF  
-
-An analyst predicted that selling pressure in Bitcoin ETFs is starting to ease, pointing out that four funds saw net inflows for the day.
-
-📖 [Read original article](https://www.theblock.co/post/404075/us-bitcoin-etfs-four-week-negative-streak?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. Zcash finalizes Ironwood upgrade plan, targets July activation
-
-**Author:** Timmy Shen  
-**Published:** 6/9/2026, 7:14:26 AM  
-**Categories:** Crypto Ecosystems, DeFi, Markets, Security, Token Projects, Exploits, Protocols, Tokens  
-
-The Ironwood upgrade would introduce a new shielded pool and ensure the circulating ZEC supply remains bounded.
-
-📖 [Read original article](https://www.theblock.co/post/404065/zcash-finalizes-ironwood-upgrade-plan?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Wallets linked to Humanity Protocol drained for over $32 million, token plunges 89%: onchain analyst
-
-**Author:** Danny Park  
-**Published:** 6/9/2026, 1:16:07 AM  
-**Categories:** Crypto Ecosystems, DeFi, Security, Exploits, Hacks  
-
-Out of the stolen amount, $23.7 million has been swapped for Ethereum, while around $7.9 million remains in H tokens.
-
-📖 [Read original article](https://www.theblock.co/post/404053/humanity-protocol-exploit?utm_source=rss&utm_medium=rss)
 
 ---
