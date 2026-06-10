@@ -2,16 +2,148 @@
 title: "The Block - 2026-06-10"
 date: "2026-06-10"
 source: "The Block"
-count: 14
+count: 20
 ---
 
 # The Block - 2026-06-10
 
-14 items collected.
+20 items collected.
 
 ---
 
-## 1. Benchmark says Securitize ‘poised to be a positive outlier,’ sets $16 target as NYSE listing nears
+## 1. Bitcoin takes back seat to stablecoins and tokenization among financial advisors: Bitwise CIO
+
+**Author:** Yogita Khatri  
+**Published:** 6/10/2026, 8:00:26 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Infrastructure, Market Updates, Markets, Stablecoins, Token Projects, Web3, Assets, Avalanche, Bitcoin, Crypto, Ethereum, Solana, Tokenization, Tokens, USDC  
+
+Bitwise CIO Matt Hougan said financial advisors are now showing more interest in stablecoins and tokenization than bitcoin.
+
+📖 [Read original article](https://www.theblock.co/post/404341/bitcoin-stablecoins-tokenization-bitwise-cio-financial-advisors?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Elon Musk’s SpaceX IPO could become bitcoin’s latest headwind
+
+**Author:** RT Watson  
+**Published:** 6/10/2026, 7:10:39 PM  
+**Categories:** Equities, Markets, spacex  
+
+SpaceX setting aside up to 30% of IPO shares for retail investors could prompt investors to exit crypto assets like Bitcoin and Ethereum.
+
+📖 [Read original article](https://www.theblock.co/post/404324/elon-musks-spacex-ipo-could-become-bitcoins-latest-headwind?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Solana infrastructure firm Helius acquires Light Protocol to expand onchain privacy
+
+**Author:** Daniel Kuhn  
+**Published:** 6/10/2026, 6:58:51 PM  
+**Categories:** Crypto Ecosystems, Deals, Infrastructure, Layer 1s, Mergers & Acquisitions, Developer tools, exclusive, Private Company Mergers and Acquisitions, Solana  
+
+The acquisition comes amid a moment of consolidation in the crypto industry and during a resurgent interest in onchain privacy.
+
+📖 [Read original article](https://www.theblock.co/post/403982/solana-infrastructure-firm-helius-acquires-light-protocol-expand-onchain-privacy?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. CryptoQuant sees bitcoin bottom near $53,600 while demand remains ‘deeply unfavorable’
+
+**Author:** Yogita Khatri  
+**Published:** 6/10/2026, 6:11:21 PM  
+**Categories:** Market Updates, Markets, Token Projects, Bitcoin, Tokens  
+
+CryptoQuant sees bitcoin bottom near $53,600, its current realized price and a level that has historically marked bear market bottoms.
+
+📖 [Read original article](https://www.theblock.co/post/404316/cryptoquant-sees-bitcoin-bottom-near-53600-while-demand-remains-deeply-unfavorable?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Raydium DEX says $1.34 million exploit hit retired AMM program, treasury to cover losses
+
+**Author:** Kyle Baird  
+**Published:** 6/10/2026, 5:07:20 PM  
+**Categories:** Crypto Ecosystems, DeFi, Security, The Block, defi-exploit, DEXs, Exploits, raydium  
+
+The exploit drained roughly $1.34 million from five inactive Raydium liquidity pools, and impacted users will be compensated.
+
+📖 [Read original article](https://www.theblock.co/post/404304/raydium-dex-1-34-million-exploit-retired-amm-program-treasury-cover-losses?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. Tether leads up to $1.4 billion round in robotics firm Neura, plans crypto wallet integration
+
+**Author:** RT Watson  
+**Published:** 6/10/2026, 5:05:01 PM  
+**Categories:** Deals, Venture Capital  
+
+Tether will also provide and "deploy" technology within the Neura robotics ecosystem, including a crypto wallet integration.
+
+📖 [Read original article](https://www.theblock.co/post/404303/tether-leads-up-to-1-4-billion-round-in-robotics-firm-neura-plans-crypto-wallet-integration?utm_source=rss&utm_medium=rss)
+
+---
+
+## 7. UK crypto advocates push back on exchange transfer restrictions, say banks are ‘choking off’ adoption
+
+**Author:** Kyle Baird  
+**Published:** 6/10/2026, 4:36:24 PM  
+**Categories:** International Policymaking, Policy, Regulation, stand with crypto, uk crypto regulation  
+
+Industry groups say roughly 40% of UK crypto transactions are blocked or restricted by banks, as they push to ease restrictions.
+
+📖 [Read original article](https://www.theblock.co/post/404273/uk-crypto-advocates-push-back-exchange-transfer-blocks-banks-choking-off-adoption?utm_source=rss&utm_medium=rss)
+
+---
+
+## 8. Mastercard unveils Agent Pay for Machines to support autonomous AI transactions, including stablecoins
+
+**Author:** Daniel Kuhn  
+**Published:** 6/10/2026, 3:34:29 PM  
+**Categories:** Companies, Crypto Ecosystems, Exchanges, Finance firms, The Block, Web3, AI, Coinbase, Fintech, Payments  
+
+Mastercard's Agent Pay for Machines infrastructure will support high-volume, low-value payments by autonomous AI agents.
+
+📖 [Read original article](https://www.theblock.co/post/404288/mastercard-agent-pay-machines-support-autonomous-ai-transactions-stablecoins?utm_source=rss&utm_medium=rss)
+
+---
+
+## 9. Ethereum could become a fully zero-knowledge proof-based protocol in 3 to 5 years, Joe Lubin says
+
+**Author:** Daniel Kuhn  
+**Published:** 6/10/2026, 3:22:54 PM  
+**Categories:** Crypto Ecosystems, Infrastructure, Layer 1s, Layer 2s and Scaling, People, Ethereum, exclusive, Modular, Rollups  
+
+Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.
+
+📖 [Read original article](https://www.theblock.co/post/404185/ethereum-fully-zero-knowledge-proof-based-protocol-3-to-5-years-joe-lubin?utm_source=rss&utm_medium=rss)
+
+---
+
+## 10. MegaETH-based MNX raises $6.4 million pre-seed at $40 million valuation to build AI-focused futures exchange
+
+**Author:** Yogita Khatri  
+**Published:** 6/10/2026, 3:22:54 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Exchanges, Markets, Token Projects, Venture Capital, Web3, AI, Assets, Crypto, Decentralized Infrastructure, DEXs, Seed and Pre-Seed, Tokens  
+
+MNX, a decentralized futures exchange focused on the AI economy, has raised $6.4 million in a pre-seed funding round.
+
+📖 [Read original article](https://www.theblock.co/post/404281/megaeth-mnx-pre-seed-funding-valuation-ai-focused-futures-exchange?utm_source=rss&utm_medium=rss)
+
+---
+
+## 11. Fold discloses $45 million bitcoin sale, pays off collateralized debt in full; shares surge 160%
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 6/10/2026, 3:00:14 PM  
+**Categories:** Companies, Equities, Markets, fold  
+
+Fold Holdings shares surged over 70% as the bitcoin fintech firm paid off its collaterized debt in full through a $45 million bitcoin sale.
+
+📖 [Read original article](https://www.theblock.co/post/404272/fold-discloses-45-million-bitcoin-sale-pays-off-collateralized-debt-in-full-shares-surge-160?utm_source=rss&utm_medium=rss)
+
+---
+
+## 12. Benchmark says Securitize ‘poised to be a positive outlier,’ sets $16 target as NYSE listing nears
 
 **Author:** Brian Danga  
 **Published:** 6/10/2026, 1:49:12 PM  
@@ -23,7 +155,7 @@ Benchmark reiterates Buy on Securitize with $16 target as the company's planned 
 
 ---
 
-## 2. CFTC unveils sweeping rule proposal for fast-growing prediction markets
+## 13. CFTC unveils sweeping rule proposal for fast-growing prediction markets
 
 **Author:** Sarah Wynn  
 **Published:** 6/10/2026, 1:46:24 PM  
@@ -35,7 +167,7 @@ The CFTC proposed new rules for burgeoning prediction markets that delineate wha
 
 ---
 
-## 3. Ripple launches toolkit for agentic payments on XRPL
+## 14. Ripple launches toolkit for agentic payments on XRPL
 
 **Author:** RT Watson  
 **Published:** 6/10/2026, 1:32:08 PM  
@@ -47,7 +179,7 @@ A growing number of companies, including Ripple, want to create payment rails wh
 
 ---
 
-## 4. Curve launches Llamalend v2 first on Optimism supported by 250,000 OP token grant
+## 15. Curve launches Llamalend v2 first on Optimism supported by 250,000 OP token grant
 
 **Author:** Daniel Kuhn  
 **Published:** 6/10/2026, 1:05:02 PM  
@@ -59,7 +191,7 @@ Llamalend v2 now supports markets for multiple collateral and borrow assets beyo
 
 ---
 
-## 5. Pyth launches 24/7 proprietary indices for US equities, oil and metals
+## 16. Pyth launches 24/7 proprietary indices for US equities, oil and metals
 
 **Author:** Daniel Kuhn  
 **Published:** 6/10/2026, 1:00:00 PM  
@@ -71,7 +203,7 @@ Pyth is aggregating data from onchain and offchain sources to provide continuous
 
 ---
 
-## 6. ‘In the shadow of geopolitics and AI’: Bitcoin hovers near cycle lows as ETF outflows and rate fears deepen worst stretch of 2026
+## 17. ‘In the shadow of geopolitics and AI’: Bitcoin hovers near cycle lows as ETF outflows and rate fears deepen worst stretch of 2026
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/10/2026, 12:49:54 PM  
@@ -83,7 +215,7 @@ Bitcoin trades near $61,000 as geopolitics, inflation fears, and ETF outflows we
 
 ---
 
-## 7. More than 50% of bitcoin supply is underwater; prior bottoms followed within weeks, often after a final leg lower: K33
+## 18. More than 50% of bitcoin supply is underwater; prior bottoms followed within weeks, often after a final leg lower: K33
 
 **Author:** James Hunt  
 **Published:** 6/10/2026, 11:15:24 AM  
@@ -95,7 +227,7 @@ Over half of bitcoin's circulating supply is now trading at a loss, a level typi
 
 ---
 
-## 8. New York regulator proposes stablecoin rule to align with federal GENIUS Act, adds reserve limits
+## 19. New York regulator proposes stablecoin rule to align with federal GENIUS Act, adds reserve limits
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/10/2026, 10:38:40 AM  
@@ -107,7 +239,7 @@ The NYDFS has proposed a GENIUS Act-aligned stablecoin rule adding reserve conce
 
 ---
 
-## 9. Bitcoin Layer 2 Botanix to wind down network, urges users to withdraw assets
+## 20. Bitcoin Layer 2 Botanix to wind down network, urges users to withdraw assets
 
 **Author:** Brian Danga  
 **Published:** 6/10/2026, 9:00:38 AM  
@@ -116,65 +248,5 @@ The NYDFS has proposed a GENIUS Act-aligned stablecoin rule adding reserve conce
 Botanix to wind down Bitcoin Layer 2 after four years, citing weak fee revenue and urging users to withdraw assets by July 9.
 
 📖 [Read original article](https://www.theblock.co/post/404216/bitcoin-layer-2-botanix-to-wind-down-network-urges-users-to-withdraw-assets?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Japan’s three megabanks to debut live stablecoin transactions by March 2027
-
-**Author:** Timmy Shen  
-**Published:** 6/10/2026, 7:58:34 AM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Stablecoins, japan, TradFi banks  
-
-MUFG Bank, Mizuho Bank, and SMBC have set up a council to examine operational frameworks and governance for the stablecoin issuance.
-
-📖 [Read original article](https://www.theblock.co/post/404212/japans-three-megabanks-stablecoin-march-2027?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. EU proposes expanded sanctions on Russia-linked crypto platforms
-
-**Author:** Danny Park  
-**Published:** 6/10/2026, 7:05:46 AM  
-**Categories:** International Policymaking, Policy, Regulation, European Commission  
-
-The European Commission may introduce a full ban on crypto services from non-EU countries that host platforms helping Russia evade sanctions.
-
-📖 [Read original article](https://www.theblock.co/post/404207/eu-proposes-russia-crypto-sanction?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Kalshi requires traders to disclose employers to curb insider trading in sensitive markets
-
-**Author:** Timmy Shen  
-**Published:** 6/10/2026, 4:23:44 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Legal, Policy, Web3, Decentralized Infrastructure  
-
-The prediction markets platform also introduced a risk-scoring system and whistleblower tools to ensure market integrity.
-
-📖 [Read original article](https://www.theblock.co/post/404199/kalshi-requires-employer-disclosure?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Washington man gets 5 years for helping $100 million crypto money laundering scheme
-
-**Author:** Danny Park  
-**Published:** 6/10/2026, 1:56:47 AM  
-**Categories:** Legal, Policy, Crime  
-
-Geoffrey K. Auyeung helped overseas fraudsters launder $100 million in scam proceeds through crypto and bank accounts, according to the DOJ.
-
-📖 [Read original article](https://www.theblock.co/post/404194/washington-man-gets-five-years?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. House crypto tax hearing reveals divide over urgency in advancing legislation
-
-**Author:** Sarah Wynn  
-**Published:** 6/10/2026, 12:31:22 AM  
-**Categories:** Legal, Policy, Regulation, Tax, U.S. Policymaking, Congress, IRS, Senate Finance Committee  
-
-A House committee hearing on the taxation of digital assets offered a glimpse into lawmakers' views, highlighting rifts in approaches.
-
-📖 [Read original article](https://www.theblock.co/post/404187/house-crypto-tax-hearing-legislation?utm_source=rss&utm_medium=rss)
 
 ---
