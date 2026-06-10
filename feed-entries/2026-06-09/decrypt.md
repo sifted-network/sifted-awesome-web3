@@ -2,16 +2,64 @@
 title: "Decrypt - 2026-06-09"
 date: "2026-06-09"
 source: "Decrypt"
-count: 9
+count: 13
 ---
 
 # Decrypt - 2026-06-09
 
-9 items collected.
+13 items collected.
 
 ---
 
-## 1. A Quantum Clock Is Ticking for Bitcoin and Crypto—Here's How Stellar Is Preparing
+## 1. Crypto Tax Bills Face Pushback in House Committee Hearing
+
+**Author:** Sander Lutz  
+**Published:** 6/9/2026, 9:44:38 PM  
+**Categories:** Law and Order  
+
+Pro-crypto Democrats questioned staking and mining tax exemptions Tuesday, while party leadership said the bills may need to wait until after the midterms.
+
+📖 [Read original article](https://decrypt.co/370599/crypto-tax-bills-pushback-house-committee)
+
+---
+
+## 2. EU Orders Meta to Open WhatsApp to Rival AI Chatbots—Meta Calls It 'Regulatory Overreach'
+
+**Author:** Jose Antonio Lanz  
+**Published:** 6/9/2026, 8:36:20 PM  
+**Categories:** Artificial Intelligence  
+
+The European Commission has issued interim measures forcing Meta to restore third-party AI access to the WhatsApp Business API within five days.
+
+📖 [Read original article](https://decrypt.co/370580/eu-orders-meta-open-whatsapp-rival-ai-chatbots)
+
+---
+
+## 3. Seattle-Area Man Gets Prison for Laundering Foreign Fraud Funds With Bitcoin, Ethereum
+
+**Author:** Logan Hitchcock  
+**Published:** 6/9/2026, 8:26:11 PM  
+**Categories:** , , Law and Order  
+
+The fraudster took in nearly $100 million from victims before laundering funds via Bitcoin, Ethereum, and stablecoins.
+
+📖 [Read original article](https://decrypt.co/370576/seattle-man-prison-laundering-foreign-fraud-funds-bitcoin-ethereum)
+
+---
+
+## 4. December Trial Date Set for US Soldier Accused of Insider Trading on Polymarket
+
+**Author:** André Beganski  
+**Published:** 6/9/2026, 8:09:50 PM  
+**Categories:** Law and Order  
+
+The insider trading case is the government's first to center on prediction markets.
+
+📖 [Read original article](https://decrypt.co/370571/december-trial-date-us-soldier-insider-trading-polymarket)
+
+---
+
+## 5. A Quantum Clock Is Ticking for Bitcoin and Crypto—Here's How Stellar Is Preparing
 
 **Author:** Decrypt Agent  
 **Published:** 6/9/2026, 7:49:05 PM  
@@ -23,7 +71,7 @@ The Stellar Development Foundation unveiled a three-step roadmap to prepare the 
 
 ---
 
-## 2. AI Malware Worm Adapts to New Targets in Real Time, Cybersecurity Experts Say
+## 6. AI Malware Worm Adapts to New Targets in Real Time, Cybersecurity Experts Say
 
 **Author:** Jason Nelson  
 **Published:** 6/9/2026, 7:03:05 PM  
@@ -35,7 +83,7 @@ Researchers demonstrated an AI-powered worm that adapts to targets, generates at
 
 ---
 
-## 3. Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public
+## 7. Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public
 
 **Author:** Jason Nelson  
 **Published:** 6/9/2026, 6:38:37 PM  
@@ -47,7 +95,7 @@ Anthropic has released a full version of its cybersecurity-centric Claude Mythos
 
 ---
 
-## 4. Kraken Named Official Crypto Exchange of FIFA World Cup 2026
+## 8. Kraken Named Official Crypto Exchange of FIFA World Cup 2026
 
 **Author:** Decrypt Agent  
 **Published:** 6/9/2026, 5:45:13 PM  
@@ -59,7 +107,7 @@ Crypto exchange Kraken is teaming up with FIFA to sponsor the World Cup, with pl
 
 ---
 
-## 5. Crypto Lending Protocol Morpho Raises $175 Million to Aid Wall Street’s DeFi Push
+## 9. Crypto Lending Protocol Morpho Raises $175 Million to Aid Wall Street’s DeFi Push
 
 **Author:** André Beganski  
 **Published:** 6/9/2026, 3:39:33 PM  
@@ -71,7 +119,7 @@ Decentralized lending platform Morpho has secured $175 million in its latest fun
 
 ---
 
-## 6. Elizabeth Warren Demands Answers on CFTC's Crypto and Prediction Market Oversight
+## 10. Elizabeth Warren Demands Answers on CFTC's Crypto and Prediction Market Oversight
 
 **Author:** Vismaya V  
 **Published:** 6/9/2026, 2:51:09 PM  
@@ -83,7 +131,7 @@ The Massachusetts senator highlighted workforce cuts and enforcement changes at 
 
 ---
 
-## 7. This is Bitcoin's Shallowest Bear Market—But is the Bottom In?
+## 11. This is Bitcoin's Shallowest Bear Market—But is the Bottom In?
 
 **Author:** Akash Girimath  
 **Published:** 6/9/2026, 12:06:13 PM  
@@ -95,7 +143,7 @@ Bitcoin is down 50% from its all-time high in the shallowest bear market to date
 
 ---
 
-## 8. Morning Minute: Saylor is Back to Buying
+## 12. Morning Minute: Saylor is Back to Buying
 
 **Author:** Tyler Warner  
 **Published:** 6/9/2026, 11:48:53 AM  
@@ -107,7 +155,7 @@ Saylor answers doubts with a $100M purchase. Citrini just called Hyperliquid a b
 
 ---
 
-## 9. Humanity Protocol Loses $36M After Private Keys 'Compromised,' Token Crashes 73%
+## 13. Humanity Protocol Loses $36M After Private Keys 'Compromised,' Token Crashes 73%
 
 **Author:** Vismaya V  
 **Published:** 6/9/2026, 10:54:37 AM  
