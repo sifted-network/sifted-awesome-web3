@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-08"
 date: "2026-06-08"
 source: "Cointelegraph"
-count: 12
+count: 8
 ---
 
 # Cointelegraph - 2026-06-08
 
-12 items collected.
+8 items collected.
 
 ---
 
@@ -86,7 +86,7 @@ South Korean lawmaker Kim Byung-gi faces probe over alleged nepotism tied to his
 ## 7. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
-**Published:** 6/8/2026, 1:52:00 PM  
+**Published:** 6/8/2026, 1:58:00 PM  
 **Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
 
 Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
@@ -104,53 +104,5 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 Strategy resumed Bitcoin buying by purchasing 1,550 BTC for $101.3 million, bringing its total holdings to 845,256 BTC after last week’s controversial sale.
 
 📖 [Read original article](https://cointelegraph.com/news/strategy-resumes-bitcoin-purchases-1550-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. White hats rescue $500K in NFTs after Flooring exploit
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 6/8/2026, 12:08:18 PM  
-**Categories:** Latest News  
-
-CoinGecko and NFT Price Floor data show NFT market cap has cooled since April, while CryptoPunks and BAYC remain top collections by value.
-
-📖 [Read original article](https://cointelegraph.com/news/yuga-labs-nft-rescue-flooring-protocol-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. BTC price bottom not due until Q4? Five things to know in Bitcoin this week
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 6/8/2026, 11:40:55 AM  
-**Categories:** Markets  
-
-Bitcoin traders warned that it should be Q3 at least before the real BTC price bear market bottom entered.
-
-📖 [Read original article](https://cointelegraph.com/markets/btc-price-bottom-not-due-until-q4-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Chinese court treats Bitcoin as property in 107 BTC memory theft case
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 6/8/2026, 11:23:19 AM  
-**Categories:** Latest News  
-
-Man in eastern China who stole 107 Bitcoin using a memorized seed phrase gets 10 years and nine months behind bars.
-
-📖 [Read original article](https://cointelegraph.com/news/man-who-memorized-wallet-mnemonic-jailed-in-china-for-107-btc-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Zcash teams propose Ironwood pool to restore supply verification after Orchard flaw
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 6/8/2026, 10:02:47 AM  
-**Categories:** Latest News  
-
-Ironwood would close the old Orchard pool to new activity and route funds through a turnstile before they enter a new shielded pool.
-
-📖 [Read original article](https://cointelegraph.com/news/zcash-ironwood-shielded-pool-orchard-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
