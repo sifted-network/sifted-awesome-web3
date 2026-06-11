@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-09"
 date: "2026-06-09"
 source: "Decrypt"
-count: 13
+count: 12
 ---
 
 # Decrypt - 2026-06-09
 
-13 items collected.
+12 items collected.
 
 ---
 
@@ -152,17 +152,5 @@ Bitcoin is down 50% from its all-time high in the shallowest bear market to date
 Saylor answers doubts with a $100M purchase. Citrini just called Hyperliquid a buy. And SBF is formally asking Trump for a pardon.
 
 📖 [Read original article](https://decrypt.co/370492/morning-minute-saylor-is-back-to-buying)
-
----
-
-## 13. Humanity Protocol Loses $36M After Private Keys 'Compromised,' Token Crashes 73%
-
-**Author:** Vismaya V  
-**Published:** 6/9/2026, 10:54:37 AM  
-**Categories:** , DeFi  
-
-The decentralized identity protocol said a compromised employee's laptop let attackers seize its bridges and mint tokens at will.
-
-📖 [Read original article](https://decrypt.co/370485/humanity-protocol-loses-36m-after-private-keys-compromised-token-crashes-73)
 
 ---
