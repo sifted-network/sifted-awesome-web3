@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-10"
 date: "2026-06-10"
 source: "CoinDesk"
-count: 23
+count: 18
 ---
 
 # CoinDesk - 2026-06-10
 
-23 items collected.
+18 items collected.
 
 ---
 
@@ -224,65 +224,5 @@ MUFG, SMBC and Mizuho will establish a council to explore operational frameworks
 XRP holders are capitulating, according to data tracked by Glassnode. That suggests a bottom may be near.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/10/xrp-market-shows-signs-of-capitulation-as-holders-sell-at-loss)
-
----
-
-## 19. Elon Musk's SpaceX IPO is four times oversubscribed. A crypto bet tells a more cautious story
-
-**Author:** Shaurya Malwa  
-**Published:** 6/10/2026, 7:18:44 AM  
-**Categories:** Markets, SpaceX, Hyperliquid, News  
-
-The SPCX perpetual still trades above SpaceX’s $135 offer price, but it has fallen sharply from its May highs as traders mark down the first-day premium.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/10/spacex-s-most-active-pre-ipo-market-has-fallen-27-in-three-weeks)
-
----
-
-## 20. Live updates: bitcoin holding below $62,000 as nervous Nasdaq falls further ahead of SpaceX IPO
-
-**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Helene Braun  
-**Published:** 6/10/2026, 5:47:56 AM  
-**Categories:** Markets, Live News, live_news  
-
-Core inflation rose less than feared in May, but markets have turned lower in afternoon trade.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/10/live-updates-what-next-for-bitcoin-as-it-faces-headwinds-from-fed-rates-to-claude-s-mythos)
-
----
-
-## 21. XRP drops 4.5% as heavy selling breaks another support level
-
-**Author:** Shaurya Malwa  
-**Published:** 6/10/2026, 5:24:42 AM  
-**Categories:** Markets, News  
-
-XRP lost the $1.13 area on elevated volume, leaving traders focused on whether the latest selloff marks a final washout or the start of a deeper move toward $1.00.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/10/xrp-drops-4-5-as-heavy-selling-breaks-another-support-level)
-
----
-
-## 22. Bitcoin and gold fall together as a rate-hike bet hits every hedge
-
-**Author:** Shaurya Malwa  
-**Published:** 6/10/2026, 5:22:06 AM  
-**Categories:** Markets, News  
-
-The relief rally that lifted crypto off last week's lows is unwinding alongside tech stocks and gold, with traders bracing for a US inflation print and a Warsh Fed that may stay hawkish.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/10/bitcoin-and-gold-fall-together-as-a-rate-hike-bet-hits-every-hedge)
-
----
-
-## 23. Bitcoin ETFs are no bigger today than when Trump won the election
-
-**Author:** Omkar Godbole  
-**Published:** 6/10/2026, 5:13:53 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Net assets of U.S.-listed spot ETFs have fallen to levels last seen just after Trump won the election in early November 2024.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/10/bitcoin-etfs-are-no-bigger-today-than-when-trump-won-the-election)
 
 ---
