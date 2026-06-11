@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-10"
 date: "2026-06-10"
 source: "Cointelegraph"
-count: 23
+count: 22
 ---
 
 # Cointelegraph - 2026-06-10
 
-23 items collected.
+22 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ Bitcoin miner profits recently fell to record lows, while Bitcoin struggles to h
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 6/10/2026, 8:13:00 PM  
-**Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. UK crypto advocates launch campaign against banks blocking exchange transfers
+## 3. UK crypto advocates launch campaign against banks blocking exchange transfers
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 6/10/2026, 6:55:00 PM  
@@ -59,7 +47,7 @@ Stand With Crypto UK says banks are restricting access to regulated exchanges ev
 
 ---
 
-## 5. Pending Bank of Japan rate decision may impact Bitcoin price: Should traders prepare?
+## 4. Pending Bank of Japan rate decision may impact Bitcoin price: Should traders prepare?
 
 **Author:** Cointelegraph by Biraajmaan Tamuly  
 **Published:** 6/10/2026, 6:41:15 PM  
@@ -71,7 +59,7 @@ Bitcoin’s average price response to Bank of Japan rate hikes was a 22.5% sell-
 
 ---
 
-## 6. Anchorage backs Treasury’s GENIUS AML rules, seeks secondary-market sanctions clarity
+## 5. Anchorage backs Treasury’s GENIUS AML rules, seeks secondary-market sanctions clarity
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 6/10/2026, 5:20:02 PM  
@@ -83,7 +71,7 @@ A public comment letter argues that regulated stablecoin issuers need clearer co
 
 ---
 
-## 7. Bitcoin rises despite US inflation hitting 3-year high: Where will BTC price go?
+## 6. Bitcoin rises despite US inflation hitting 3-year high: Where will BTC price go?
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 6/10/2026, 3:54:35 PM  
@@ -95,7 +83,7 @@ BTC's rebound shows signs of weakening under a string of technical resistance le
 
 ---
 
-## 8. Onchain gambling keeps rolling with $14B quarter despite crypto slump: TRM Labs
+## 7. Onchain gambling keeps rolling with $14B quarter despite crypto slump: TRM Labs
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/10/2026, 3:00:00 PM  
@@ -107,7 +95,7 @@ TRM Labs said onchain gambling reached $51 billion in 2025, with repeat users an
 
 ---
 
-## 9. AI deepfake election ad in Minnesota raises transparency concerns
+## 8. AI deepfake election ad in Minnesota raises transparency concerns
 
 **Author:** Cointelegraph by Aaron Wood  
 **Published:** 6/10/2026, 3:00:00 PM  
@@ -119,7 +107,7 @@ A deepfake campaign attack ad in the US state of Minnesota has raised questions 
 
 ---
 
-## 10. Tenev says Robinhood won underwriter approval as crypto markets front-run mega IPOs
+## 9. Tenev says Robinhood won underwriter approval as crypto markets front-run mega IPOs
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/10/2026, 2:33:37 PM  
@@ -131,7 +119,7 @@ Robinhood’s new IPO underwriter role comes as SpaceX prepares a record-breakin
 
 ---
 
-## 11. Crypto outflows are sentiment shock, not structural crisis: CoinShares' Butterfill
+## 10. Crypto outflows are sentiment shock, not structural crisis: CoinShares' Butterfill
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/10/2026, 2:08:44 PM  
@@ -143,7 +131,7 @@ CoinShares’ James Butterfill said recent crypto outflows reflect a macro-drive
 
 ---
 
-## 12. Pyth unveils continuous pricing indexes for US stocks and commodities
+## 11. Pyth unveils continuous pricing indexes for US stocks and commodities
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 6/10/2026, 2:00:00 PM  
@@ -155,7 +143,7 @@ Coinbase, Kraken and dYdX are adopting Pyth's new indexes, which provide continu
 
 ---
 
-## 13. Bitcoin price may slide toward $30K as institutions dump 450% of daily BTC supply
+## 12. Bitcoin price may slide toward $30K as institutions dump 450% of daily BTC supply
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 6/10/2026, 1:11:03 PM  
@@ -167,7 +155,7 @@ Bitcoin’s institutional support weakened as ETFs and companies dumped almost 2
 
 ---
 
-## 14. Equipment finance platform Trad.Fi to bring $650M in private credit onchain
+## 13. Equipment finance platform Trad.Fi to bring $650M in private credit onchain
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/10/2026, 12:09:04 PM  
@@ -179,7 +167,7 @@ Trad.Fi plans to bring up to $650 million in equipment-finance credit onchain, t
 
 ---
 
-## 15. Botanix to shut down after 4 years, cites weak demand for Bitcoin DeFi
+## 14. Botanix to shut down after 4 years, cites weak demand for Bitcoin DeFi
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/10/2026, 11:45:36 AM  
@@ -191,7 +179,7 @@ The Spiderchain developer told users to withdraw assets by July 9 after concludi
 
 ---
 
-## 16. EU proposes ban on 11 crypto platforms in Russia sanctions push
+## 15. EU proposes ban on 11 crypto platforms in Russia sanctions push
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/10/2026, 9:46:01 AM  
@@ -203,7 +191,7 @@ The proposed measures would ban transactions on 11 crypto platforms and expand s
 
 ---
 
-## 17. SpaceX IPO nears 4 times oversubscribed, squeezing crypto and tech
+## 16. SpaceX IPO nears 4 times oversubscribed, squeezing crypto and tech
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/10/2026, 7:29:05 AM  
@@ -215,7 +203,7 @@ Tech stocks and crypto are selling off in a “classic pre-mega-IPO liquidity sq
 
 ---
 
-## 18. Chainalysis, South Korean police link up to fight crypto crime
+## 17. Chainalysis, South Korean police link up to fight crypto crime
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 6/10/2026, 7:03:20 AM  
@@ -227,7 +215,7 @@ South Korea's national police has been battling crypto-enabled crimes from DPRK-
 
 ---
 
-## 19. Tether expands robotics push with lead role in NEURA's $1B-plus funding round
+## 18. Tether expands robotics push with lead role in NEURA's $1B-plus funding round
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 6/10/2026, 7:00:00 AM  
@@ -239,7 +227,7 @@ NEURA plans to integrate Tether's wallet and AI technologies into its robotics p
 
 ---
 
-## 20. Blockchain.com launches SpaceX-linked perpetual amid pre-IPO trading boom
+## 19. Blockchain.com launches SpaceX-linked perpetual amid pre-IPO trading boom
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 6/10/2026, 7:00:00 AM  
@@ -251,7 +239,7 @@ The exchange joins Binance, Kraken, Bybit and Coinbase rolling out products tied
 
 ---
 
-## 21. Hyperliquid, Paradigm urge revision of GENIUS money-laundering rule
+## 20. Hyperliquid, Paradigm urge revision of GENIUS money-laundering rule
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/10/2026, 6:40:53 AM  
@@ -263,7 +251,7 @@ The Hyperliquid Policy Center and Paradigm say the Treasury’s money-laundering
 
 ---
 
-## 22. 'Maximal' ban on insider trading would hurt prediction markets, says researcher
+## 21. 'Maximal' ban on insider trading would hurt prediction markets, says researcher
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/10/2026, 5:55:19 AM  
@@ -275,7 +263,7 @@ The Hyperliquid Policy Center and Paradigm say the Treasury’s money-laundering
 
 ---
 
-## 23. Crypto users wary as Anthropic releases Claude Mythos with safeguards
+## 22. Crypto users wary as Anthropic releases Claude Mythos with safeguards
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/10/2026, 4:04:52 AM  
