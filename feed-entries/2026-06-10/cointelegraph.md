@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-10"
 date: "2026-06-10"
 source: "Cointelegraph"
-count: 16
+count: 10
 ---
 
 # Cointelegraph - 2026-06-10
 
-16 items collected.
+10 items collected.
 
 ---
 
@@ -128,77 +128,5 @@ Robinhood’s new IPO underwriter role comes as SpaceX prepares a record-breakin
 CoinShares’ James Butterfill said recent crypto outflows reflect a macro-driven sentiment shock, while other analysts warned Bitcoin’s rebound may remain fragile.
 
 📖 [Read original article](https://cointelegraph.com/news/crypto-outflows-sentiment-shock-structural-crisis-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Pyth unveils continuous pricing indexes for US stocks and commodities
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 6/10/2026, 2:00:00 PM  
-**Categories:** Latest News  
-
-Coinbase, Kraken and dYdX are adopting Pyth's new indexes, which provide continuous pricing for US stocks, gold and oil outside market hours.
-
-📖 [Read original article](https://cointelegraph.com/news/pyth-24-7-pricing-indices-tokenized-stocks-commodities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Bitcoin price may slide toward $30K as institutions dump 450% of daily BTC supply
-
-**Author:** Cointelegraph by Yashu Gola  
-**Published:** 6/10/2026, 1:11:03 PM  
-**Categories:** Markets  
-
-Bitcoin’s institutional support weakened as ETFs and companies dumped almost 2,000 BTC daily and Strategy’s buying lost momentum.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-may-slip-under-30k-as-institutions-dump-450-of-daily-btc-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Equipment finance platform Trad.Fi to bring $650M in private credit onchain
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/10/2026, 12:09:04 PM  
-**Categories:** Latest News  
-
-Trad.Fi plans to bring up to $650 million in equipment-finance credit onchain, targeting a trillion-dollar US market still dominated by paperwork.
-
-📖 [Read original article](https://cointelegraph.com/news/equipment-finance-tradfi-650m-private-credit-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Botanix to shut down after 4 years, cites weak demand for Bitcoin DeFi
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 6/10/2026, 11:45:36 AM  
-**Categories:** Latest News  
-
-The Spiderchain developer told users to withdraw assets by July 9 after concluding demand for Bitcoin-native DeFi was not sufficient to support the network.
-
-📖 [Read original article](https://cointelegraph.com/news/botanix-says-it-didnt-work-as-bitcoin-scaling-platform-shuts-down-sets-withdrawal-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. EU proposes ban on 11 crypto platforms in Russia sanctions push
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 6/10/2026, 9:46:01 AM  
-**Categories:** Latest News  
-
-The proposed measures would ban transactions on 11 crypto platforms and expand sanctions targeting networks accused of helping Russia evade restrictions.
-
-📖 [Read original article](https://cointelegraph.com/news/eu-russia-sanctions-11-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. SpaceX IPO nears 4 times oversubscribed, squeezing crypto and tech
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 6/10/2026, 7:29:05 AM  
-**Categories:** Latest News  
-
-Tech stocks and crypto are selling off in a “classic pre-mega-IPO liquidity squeeze,” say analysts.
-
-📖 [Read original article](https://cointelegraph.com/news/spacex-ipo-nears-four-times-oversubscribed-squeezing-crypto-and-tech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
