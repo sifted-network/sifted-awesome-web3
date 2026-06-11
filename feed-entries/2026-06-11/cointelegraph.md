@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-06-11"
 date: "2026-06-11"
 source: "Cointelegraph"
-count: 14
+count: 20
 ---
 
 # Cointelegraph - 2026-06-11
 
-14 items collected.
+20 items collected.
 
 ---
 
-## 1. Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency
+## 1. ETH futures traders lean into $1.6K range lows: Will Ether lead market recovery?
+
+**Author:** Cointelegraph by Biraajmaan Tamuly  
+**Published:** 6/11/2026, 7:37:41 PM  
+**Categories:** Markets  
+
+ETH traders increased their long positions as Ether price traded near 2026 lows. Will ETH’s rebound eclipse the BTC recovery?
+
+📖 [Read original article](https://cointelegraph.com/markets/ether-bulls-ramp-up-risk-above-16k-can-buyers-regain-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Three signs that XRP price risks falling below $1 in June
+
+**Author:** Cointelegraph by Yashu Gola  
+**Published:** 6/11/2026, 6:29:54 PM  
+**Categories:** Markets  
+
+XRP is forming head-and-shoulders and bear flag setups on its shorter-timeframe chart, both indicating a dip below $1 in the coming days.
+
+📖 [Read original article](https://cointelegraph.com/markets/three-signs-that-xrp-price-risks-falling-below-1-in-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Coinbase eyes World Cup boost as prediction markets surge: Bernstein
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 6/11/2026, 5:57:06 PM  
+**Categories:** Latest News  
+
+Bernstein says the 2026 FIFA World Cup could inject billions into prediction markets, with Coinbase and Robinhood positioned to capture a wave of new users.
+
+📖 [Read original article](https://cointelegraph.com/news/coinbase-world-cup-prediction-market-boost-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. MassPay taps Coinbase to expand stablecoin payouts
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 6/11/2026, 4:00:00 PM  
+**Categories:** Latest News  
+
+MassPay taps Coinbase to add USDC-powered cross-border payouts, betting stablecoin rails will cut costs and speed up settlement for businesses paying globally.
+
+📖 [Read original article](https://cointelegraph.com/news/masspay-coinbase-partner-stablecoin-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/11/2026, 3:01:27 PM  
@@ -23,7 +71,7 @@ Executives from Franklin Templeton and BNP Paribas say tokenized assets and stab
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 6. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/11/2026, 3:01:00 PM  
@@ -35,7 +83,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. Bitcoin tags $63.2K as BTC price action ignores inflation, Iran Hormuz closure
+## 7. Bitcoin tags $63.2K as BTC price action ignores inflation, Iran Hormuz closure
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/11/2026, 1:41:47 PM  
@@ -47,7 +95,7 @@ Bitcoin mostly preserved a recent rebound despite the highest US PPI inflation s
 
 ---
 
-## 4. Digital Asset lands $355M as a16z doubles down on Wall Street blockchain rails
+## 8. Digital Asset lands $355M as a16z doubles down on Wall Street blockchain rails
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/11/2026, 12:59:11 PM  
@@ -59,7 +107,7 @@ Digital Asset raised $355M in an a16z‑led round at a $2B valuation, extending 
 
 ---
 
-## 5. Hungary to reverse crypto trading crackdown after EU scrutiny
+## 9. Hungary to reverse crypto trading crackdown after EU scrutiny
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/11/2026, 12:52:15 PM  
@@ -71,7 +119,7 @@ Hungary’s government said it will unwind crypto trading restrictions that requ
 
 ---
 
-## 6. Japan crypto bill advances with ETF, tax reform path: Report
+## 10. Japan crypto bill advances with ETF, tax reform path: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/11/2026, 12:17:21 PM  
@@ -83,7 +131,7 @@ Japan’s Lower House reportedly passed a bill that would bring crypto under the
 
 ---
 
-## 7. Audiera’s AI token BEAT beats Bitcoin, Ethereum as price surges 1,500% in a month
+## 11. Audiera’s AI token BEAT beats Bitcoin, Ethereum as price surges 1,500% in a month
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 6/11/2026, 12:08:03 PM  
@@ -95,7 +143,7 @@ BEAT has reached its most overbought readings on record, raising the odds of a 3
 
 ---
 
-## 8. AI models led to a ‘vulnerability apocalypse’ in crypto security: Immunefi CEO
+## 12. AI models led to a ‘vulnerability apocalypse’ in crypto security: Immunefi CEO
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/11/2026, 12:01:48 PM  
@@ -107,7 +155,7 @@ The proliferation of new frontier AI models is the main catalyst behind the late
 
 ---
 
-## 9. TradFi advisers want stablecoins, tokenization over Bitcoin: Bitwise
+## 13. TradFi advisers want stablecoins, tokenization over Bitcoin: Bitwise
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/11/2026, 7:01:31 AM  
@@ -119,7 +167,7 @@ Bitwise’s Matt Hougan says it was “pretty hard to engage with advisers on Bi
 
 ---
 
-## 10. AI researcher claims he's already bypassed Anthropic's Fable 5 guardrails
+## 14. AI researcher claims he's already bypassed Anthropic's Fable 5 guardrails
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/11/2026, 7:00:53 AM  
@@ -131,7 +179,31 @@ Bitwise’s Matt Hougan says it was “pretty hard to engage with advisers on Bi
 
 ---
 
-## 11. Teen crypto scammer stole $13M to splurge on private jets, Lambo
+## 15. Bitso brings peso-backed MXNB stablecoin to XRP Ledger via Ripple partnership
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 6/11/2026, 7:00:00 AM  
+**Categories:** Latest News  
+
+The companies are pairing MXNB and RLUSD on the XRP Ledger to support institutional payments between the United States and Mexico as stablecoin adoption grows across Latin America.
+
+📖 [Read original article](https://cointelegraph.com/news/ripple-bitso-bring-mxn-stablecoin-settlement-to-xrp-ledger-for-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 16. Archax introduces real-time yield payments for tokenized securities on Hedera
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 6/11/2026, 7:00:00 AM  
+**Categories:** Latest News  
+
+The UK-regulated digital asset platform said its new system allows interest payments to follow tokenized securities in real time, with payouts distributed continuously in USDC.
+
+📖 [Read original article](https://cointelegraph.com/news/archax-launches-real-time-yield-payments-for-tokenized-securities-on-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 17. Teen crypto scammer stole $13M to splurge on private jets, Lambo
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 6/11/2026, 5:57:24 AM  
@@ -143,7 +215,7 @@ Trenton Richard Johnston was arrested in March during a traffic stop for speedin
 
 ---
 
-## 12. Analysts tip pressure for Bitcoin, gold as US inflation tops 4%
+## 18. Analysts tip pressure for Bitcoin, gold as US inflation tops 4%
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/11/2026, 4:51:52 AM  
@@ -155,7 +227,7 @@ Trenton Richard Johnston was arrested in March during a traffic stop for speedin
 
 ---
 
-## 13. Delaware, New Jersey advance bills banning crypto ATMs
+## 19. Delaware, New Jersey advance bills banning crypto ATMs
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/11/2026, 3:18:43 AM  
@@ -167,7 +239,7 @@ Lawmakers in Delaware and New Jersey have advanced laws that would completely ba
 
 ---
 
-## 14. XRP transaction demand falls 91.5% as traders focus on $0.65 support
+## 20. XRP transaction demand falls 91.5% as traders focus on $0.65 support
 
 **Author:** Cointelegraph by Biraajmaan Tamuly  
 **Published:** 6/11/2026, 12:08:21 AM  
