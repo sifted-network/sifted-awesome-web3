@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-10"
 date: "2026-06-10"
 source: "CoinDesk"
-count: 5
+count: 3
 ---
 
 # CoinDesk - 2026-06-10
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ BlackRock's IBIT and Fidelity's FBTC are attracting the vast majority of new bit
 Stand With Crypto UK is telling its members to file formal complaints with high-street banks over sector-wide transfer bans.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/06/10/over-280-000-uk-crypto-holders-kick-off-campaign-against-banks-blocking-transactions)
-
----
-
-## 4. Crypto Long & Short: Who answers the 3am call when DeFi breaks?
-
-**Author:** Ben Nadareski,Stephen Stonberg  
-**Published:** 6/10/2026, 4:20:10 PM  
-**Categories:** CoinDesk Indices, Institutional Investors, Institutional Adoption, CoinDesk Indices, Crypto Long & Short, Newsletters, News  
-
-In this week's Crypto Long & Short, Ben Nadareski writes that to win over big investors, DeFi builders must act like accountable money managers, not just software developers. Then, Stephen Stonberg says that bitcoin holders can survive crashes and protect their assets by earning income through reins...
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/06/10/crypto-long-and-short-who-answers-the-3am-call-when-defi-breaks)
-
----
-
-## 5. Netomi CEO says $5 trillion AI customer experience market could boost stablecoin demand
-
-**Author:** Olivier Acuna  
-**Published:** 6/10/2026, 4:17:18 PM  
-**Categories:** Finance, Stablecoins, Artificial Intelligence, News  
-
-Puneet Mehta, a former high-level Wall Street engineer and data scientist, said the rapid expansion of AI enterprise software will increase demand for stablecoins and blockchain.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/10/netomi-ceo-says-usd5-trillion-ai-customer-experience-market-could-boost-stablecoin-demand)
 
 ---
