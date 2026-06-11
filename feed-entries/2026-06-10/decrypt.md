@@ -2,16 +2,52 @@
 title: "Decrypt - 2026-06-10"
 date: "2026-06-10"
 source: "Decrypt"
-count: 18
+count: 21
 ---
 
 # Decrypt - 2026-06-10
 
-18 items collected.
+21 items collected.
 
 ---
 
-## 1. Tether, Nvidia and Amazon Back Humanoid Robotics Firm NEURA in $1.4 Billion Funding Round
+## 1. Google's DiffusionGemma AI Hits 1,000 Tokens Per Second—And It's Free
+
+**Author:** Jose Antonio Lanz  
+**Published:** 6/10/2026, 10:01:03 PM  
+**Categories:** Artificial Intelligence  
+
+DiffusionGemma hits 1,000 tokens per second by ditching word-by-word generation entirely. It just doesn't run on most people's machines yet.
+
+📖 [Read original article](https://decrypt.co/370706/google-new-open-model-generates-text-diffusiongemma)
+
+---
+
+## 2. Anthropic CEO Warns AI Is Getting Too Powerful—While Releasing Powerful AI
+
+**Author:** Jason Nelson  
+**Published:** 6/10/2026, 9:31:33 PM  
+**Categories:** Artificial Intelligence  
+
+In a new essay, Dario Amodei called for binding safety rules for frontier models as his company heads toward an IPO.
+
+📖 [Read original article](https://decrypt.co/370704/anthropic-ceo-ai-too-powerful-regulation-cant-wait)
+
+---
+
+## 3. Solana Exchange Raydium Hit With $1.34 Million Exploit as DeFi Attacks Grow
+
+**Author:** Logan Hitchcock  
+**Published:** 6/10/2026, 8:19:35 PM  
+**Categories:** , Technology  
+
+Solana-based decentralized exchange Raydium will repay the funds swiped in the $1.34 million exploit using its treasury.
+
+📖 [Read original article](https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow)
+
+---
+
+## 4. Tether, Nvidia and Amazon Back Humanoid Robotics Firm NEURA in $1.4 Billion Funding Round
 
 **Author:** Decrypt Agent  
 **Published:** 6/10/2026, 7:30:32 PM  
@@ -23,7 +59,7 @@ Stablecoin giant Tether led a massive Series C round for German robotics firm NE
 
 ---
 
-## 2. The Internet Is Furious at Anthropic After Claude Fable 5 Release
+## 5. The Internet Is Furious at Anthropic After Claude Fable 5 Release
 
 **Author:** Jose Antonio Lanz  
 **Published:** 6/10/2026, 7:17:27 PM  
@@ -35,7 +71,7 @@ Token burn, silent censorship, and a mandatory data grab—the biggest Claude re
 
 ---
 
-## 3. AI Helped People Spot Fake News—Then Made Them Worse at It: MIT
+## 6. AI Helped People Spot Fake News—Then Made Them Worse at It: MIT
 
 **Author:** Jason Nelson  
 **Published:** 6/10/2026, 6:40:06 PM  
@@ -47,7 +83,7 @@ An MIT study found AI assistants improved misinformation detection in the moment
 
 ---
 
-## 4. Botanix Will Shut Down Bitcoin Layer-2 Network in July, Citing Lack of DeFi Demand
+## 7. Botanix Will Shut Down Bitcoin Layer-2 Network in July, Citing Lack of DeFi Demand
 
 **Author:** André Beganski  
 **Published:** 6/10/2026, 6:11:36 PM  
@@ -59,7 +95,7 @@ Botanix asked users to withdraw funds, disclosing plans to wind down its Bitcoin
 
 ---
 
-## 5. Bitcoin Is Getting Closer to the Bottom, But Demand Is Falling: CryptoQuant
+## 8. Bitcoin Is Getting Closer to the Bottom, But Demand Is Falling: CryptoQuant
 
 **Author:** Logan Hitchcock  
 **Published:** 6/10/2026, 5:47:40 PM  
@@ -71,7 +107,7 @@ Bitcoin's bear market might be nearing an end, analysts said, but individuals an
 
 ---
 
-## 6. 7 Factors That Actually Matter When Choosing a Crypto Swap Platform
+## 9. 7 Factors That Actually Matter When Choosing a Crypto Swap Platform
 
 **Author:** Decrypt Staff  
 **Published:** 6/10/2026, 5:01:03 PM  
@@ -83,7 +119,7 @@ With crypto swaps growing in popularity, the best crypto swap platforms are embr
 
 ---
 
-## 7. Mastercard Enables AI Agent Payments With Help From Crypto Giants Like Coinbase, Ripple
+## 10. Mastercard Enables AI Agent Payments With Help From Crypto Giants Like Coinbase, Ripple
 
 **Author:** Jason Nelson  
 **Published:** 6/10/2026, 4:50:47 PM  
@@ -95,7 +131,7 @@ Mastercard's Agent Pay for Machines is designed to let AI buy services and settl
 
 ---
 
-## 8. New CFTC Rules on Prediction Markets Would Ban Wagers on Ouster of US Enemies
+## 11. New CFTC Rules on Prediction Markets Would Ban Wagers on Ouster of US Enemies
 
 **Author:** Sander Lutz  
 **Published:** 6/10/2026, 4:06:54 PM  
@@ -107,7 +143,7 @@ Proposed CFTC rules would forbid markets where an outcome could be impacted by w
 
 ---
 
-## 9. Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High
+## 12. Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High
 
 **Author:** André Beganski  
 **Published:** 6/10/2026, 2:46:07 PM  
@@ -119,7 +155,7 @@ The reading likely supports restrictive monetary policy.
 
 ---
 
-## 10. Paradigm, Hyperliquid Policy Center Push Back on GENIUS Act Stablecoin AML Rule
+## 13. Paradigm, Hyperliquid Policy Center Push Back on GENIUS Act Stablecoin AML Rule
 
 **Author:** Vince Dioquino  
 **Published:** 6/10/2026, 2:33:50 PM  
@@ -131,7 +167,7 @@ The groups say issuers, DeFi apps, and validators need clearer limits on who is 
 
 ---
 
-## 11. Fold Shares Jump 162% After Bitcoin Fintech Sells $45 Million in BTC, Wipes Out Debt
+## 14. Fold Shares Jump 162% After Bitcoin Fintech Sells $45 Million in BTC, Wipes Out Debt
 
 **Author:** Decrypt Agent  
 **Published:** 6/10/2026, 2:21:23 PM  
@@ -143,7 +179,7 @@ Publicly traded Fold sold Bitcoin holdings to restructure its balance sheet, fue
 
 ---
 
-## 12. Delaware Advances Bill to Ban ‘Predatory’ Bitcoin ATMs
+## 15. Delaware Advances Bill to Ban ‘Predatory’ Bitcoin ATMs
 
 **Author:** Decrypt Agent  
 **Published:** 6/10/2026, 1:52:31 PM  
@@ -155,7 +191,7 @@ Lawmakers have advanced legislation that would ban all cryptocurrency kiosks sta
 
 ---
 
-## 13. Solana Sponsors the World Series of Poker, Enabling Crypto Entry Fees and Payouts
+## 16. Solana Sponsors the World Series of Poker, Enabling Crypto Entry Fees and Payouts
 
 **Author:** Logan Hitchcock  
 **Published:** 6/10/2026, 1:01:20 PM  
@@ -167,7 +203,7 @@ Players can now enter World Series of Poker tournaments with SOL or stablecoins,
 
 ---
 
-## 14. Myriad Taps Chainlink to Power FIFA World Cup Prediction Markets
+## 17. Myriad Taps Chainlink to Power FIFA World Cup Prediction Markets
 
 **Author:** Decrypt Staff  
 **Published:** 6/10/2026, 1:01:04 PM  
@@ -179,7 +215,7 @@ The integration builds on Myriad’s use of the Chainlink Runtime Environment to
 
 ---
 
-## 15. Morning Minute: Crypto Falls Amidst War Escalation and Mythos Release
+## 18. Morning Minute: Crypto Falls Amidst War Escalation and Mythos Release
 
 **Author:** Tyler Warner  
 **Published:** 6/10/2026, 12:48:57 PM  
@@ -191,7 +227,7 @@ Markets sold off ahead of CPI. Crypto tax bills hit a wall in the House. And Mor
 
 ---
 
-## 16. ‘Intense Capitulation’ Hits Crypto as 8M BTC, Bulk of ETH Supply Sit at Loss
+## 19. ‘Intense Capitulation’ Hits Crypto as 8M BTC, Bulk of ETH Supply Sit at Loss
 
 **Author:** Akash Girimath  
 **Published:** 6/10/2026, 11:26:31 AM  
@@ -203,7 +239,7 @@ Millions of Bitcoin are underwater as experts say the 'scale of market reset' si
 
 ---
 
-## 17. Kalshi Rolls Out New Safeguards After Insider Trading Concerns Hit Prediction Markets
+## 20. Kalshi Rolls Out New Safeguards After Insider Trading Concerns Hit Prediction Markets
 
 **Author:** Vismaya V  
 **Published:** 6/10/2026, 11:05:37 AM  
@@ -215,7 +251,7 @@ Kalshi's new rules force traders to disclose their employers before trading high
 
 ---
 
-## 18. Japan's Largest Banks Plan Joint Stablecoin Launch by March 2027
+## 21. Japan's Largest Banks Plan Joint Stablecoin Launch by March 2027
 
 **Author:** Decrypt Agent  
 **Published:** 6/10/2026, 9:19:08 AM  
