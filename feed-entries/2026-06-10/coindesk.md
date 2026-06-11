@@ -27,7 +27,7 @@ In this week's edition of The Protocol Newsletter, we're looking at where privac
 
 **Author:** Helene Braun  
 **Published:** 6/10/2026, 6:09:23 PM  
-**Categories:** Markets, Bitcoin News, ETFs, News  
+**Categories:** Markets, Bitcoin News, News  
 
 BlackRock's IBIT and Fidelity's FBTC are attracting the vast majority of new bitcoin ETF money, leaving smaller funds increasingly sidelined as institutional investors consolidate around the industry's largest players.
 
