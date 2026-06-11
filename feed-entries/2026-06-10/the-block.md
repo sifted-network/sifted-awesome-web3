@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-10"
 date: "2026-06-10"
 source: "The Block"
-count: 20
+count: 16
 ---
 
 # The Block - 2026-06-10
 
-20 items collected.
+16 items collected.
 
 ---
 
@@ -200,53 +200,5 @@ Llamalend v2 now supports markets for multiple collateral and borrow assets beyo
 Pyth is aggregating data from onchain and offchain sources to provide continuous price discovery for major equities and commodities.
 
 📖 [Read original article](https://www.theblock.co/post/404238/pyth-launches-24-7-proprietary-indices-for-us-equities-oil-and-metals?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. ‘In the shadow of geopolitics and AI’: Bitcoin hovers near cycle lows as ETF outflows and rate fears deepen worst stretch of 2026
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/10/2026, 12:49:54 PM  
-**Categories:** Equities, Market Recap, Market Updates, Markets, Analyst Reports, Crypto Movers  
-
-Bitcoin trades near $61,000 as geopolitics, inflation fears, and ETF outflows weigh on markets amid debate over a possible bottom.
-
-📖 [Read original article](https://www.theblock.co/post/404237/in-the-shadow-of-geopolitics-and-ai-bitcoin-hovers-near-cycle-lows-as-etf-outflows-and-rate-fears-deepen-worst-stretch-of-2026?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. More than 50% of bitcoin supply is underwater; prior bottoms followed within weeks, often after a final leg lower: K33
-
-**Author:** James Hunt  
-**Published:** 6/10/2026, 11:15:24 AM  
-**Categories:** Equities, Markets, Token Projects, Analyst Reports, Bitcoin  
-
-Over half of bitcoin's circulating supply is now trading at a loss, a level typically only reached near major bear market bottoms, per K33.
-
-📖 [Read original article](https://www.theblock.co/post/404229/more-than-half-bitcoin-supply-underwater-bottom-after-final-leg-lower-k33?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. New York regulator proposes stablecoin rule to align with federal GENIUS Act, adds reserve limits
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/10/2026, 10:38:40 AM  
-**Categories:** Crypto Ecosystems, Policy, Stablecoins, U.S. Policymaking, genius-act, new-york-department-of-financial-services, nydfs  
-
-The NYDFS has proposed a GENIUS Act-aligned stablecoin rule adding reserve concentration caps and mandatory risk management programs.
-
-📖 [Read original article](https://www.theblock.co/post/404223/new-york-regulator-proposes-stablecoin-rule-to-align-with-federal-genius-act-adds-reserve-limits?utm_source=rss&utm_medium=rss)
-
----
-
-## 20. Bitcoin Layer 2 Botanix to wind down network, urges users to withdraw assets
-
-**Author:** Brian Danga  
-**Published:** 6/10/2026, 9:00:38 AM  
-**Categories:** Crypto Ecosystems, DeFi, Layer 1s, Layer 2s and Scaling, Assets, Bitcoin, bitcoin layer-2, botanix, botanix labs  
-
-Botanix to wind down Bitcoin Layer 2 after four years, citing weak fee revenue and urging users to withdraw assets by July 9.
-
-📖 [Read original article](https://www.theblock.co/post/404216/bitcoin-layer-2-botanix-to-wind-down-network-urges-users-to-withdraw-assets?utm_source=rss&utm_medium=rss)
 
 ---
