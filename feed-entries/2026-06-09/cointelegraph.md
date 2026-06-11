@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-09"
 date: "2026-06-09"
 source: "Cointelegraph"
-count: 10
+count: 6
 ---
 
 # Cointelegraph - 2026-06-09
 
-10 items collected.
+6 items collected.
 
 ---
 
@@ -80,53 +80,5 @@ Bitcoin bear market analysis showed copycat BTC price moves ongoing despite new 
 A $50,000 Bitcoin price target remains in play despite BTC maintaining above $60,000 support for now, as multiple indicators warn the bottom may not be in.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-bottom-these-four-charts-hint-at-btc-price-dropping-to-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Blockchain researchers warn HTX sanctions may blur crypto risk signals
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 6/9/2026, 2:22:11 PM  
-**Categories:** Latest News  
-
-Researchers say broad HTX tainting could freeze legitimate users and make compliance tools less useful for tracing illicit funds.
-
-📖 [Read original article](https://cointelegraph.com/news/blockchain-researchers-htx-sanctions-crypto-risk-signals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Privacy push as StarkWare and Sui move toward compliance-ready confidential transfers
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 6/9/2026, 2:01:11 PM  
-**Categories:** Latest News  
-
-StarkWare and Sui roll out confidential transfer systems as Zama boosts compliance efforts and Zcash’s Orchard bug highlights risks in shielded privacy models.
-
-📖 [Read original article](https://cointelegraph.com/news/privacy-starkware-sui-move-compliance-confidential-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. MiCA architect says EU should prioritize tokenization over DeFi rules
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/9/2026, 12:30:52 PM  
-**Categories:** Latest News  
-
-One of MiCA's architects said he sees no need to regulate DeFi as the European Commission gathers feedback on the framework's future.
-
-📖 [Read original article](https://cointelegraph.com/news/eu-broader-crypto-market-framework-mica-2-defi-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Bitcoin 'normal' 4-year cycle puts focus on $53K low before 2028 BTC price high
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 6/9/2026, 12:25:03 PM  
-**Categories:** Markets  
-
-Bitcoin trader said that BTC price was approaching its cycle bottom "window" with the $53,000 cycle midpoint a potential buy-in level.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-normal-four-year-cycle-puts-focus-on-53k-low-before-2028-btc-price-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
