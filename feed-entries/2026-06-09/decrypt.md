@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-09"
 date: "2026-06-09"
 source: "Decrypt"
-count: 12
+count: 11
 ---
 
 # Decrypt - 2026-06-09
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ The Massachusetts senator highlighted workforce cuts and enforcement changes at 
 Bitcoin is down 50% from its all-time high in the shallowest bear market to date—but analysts caution that the bottom isn't in yet.
 
 📖 [Read original article](https://decrypt.co/370495/this-is-bitcoins-shallowest-bear-market-but-is-the-bottom-in)
-
----
-
-## 12. Morning Minute: Saylor is Back to Buying
-
-**Author:** Tyler Warner  
-**Published:** 6/9/2026, 11:48:53 AM  
-**Categories:** Opinion  
-
-Saylor answers doubts with a $100M purchase. Citrini just called Hyperliquid a buy. And SBF is formally asking Trump for a pardon.
-
-📖 [Read original article](https://decrypt.co/370492/morning-minute-saylor-is-back-to-buying)
 
 ---
