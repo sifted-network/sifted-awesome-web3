@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-11"
 date: "2026-06-11"
 source: "CoinDesk"
-count: 10
+count: 4
 ---
 
 # CoinDesk - 2026-06-11
 
-10 items collected.
+4 items collected.
 
 ---
 
@@ -56,77 +56,5 @@ Digital asset bank Sygnum says institutional clients want multiple tokenized cas
 Global crypto ETFs saw significant outflows in May, but diversified exposures showed relative resilience; we explore what the data signals for long-term investors.
 
 📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/06/10/crypto-for-advisors-crypto-etfs)
-
----
-
-## 5. U.S. House bill would erect crypto-theft task force across law enforcement agencies
-
-**Author:** Jesse Hamilton  
-**Published:** 6/11/2026, 2:30:00 PM  
-**Categories:** Policy, Regulation, Hack, Fraud, News  
-
-New legislation from a bipartisan duo would set up a multi-agency group under the U.S. attorney general to take a lead on cryptocurrency theft cases.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/10/u-s-house-bill-would-erect-crypto-theft-task-force-across-law-enforcement-agencies)
-
----
-
-## 6. SpaceX stock is coming to Solana on the same day it lists on Nasdaq
-
-**Author:** Margaux Nijkerk  
-**Published:** 6/11/2026, 2:00:00 PM  
-**Categories:** Tech, Solana News, News  
-
-The firms making that possible say eligible shares can also be converted back into tokens, creating a bridge between traditional brokerage accounts and blockchain-based markets.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/10/spacex-stock-is-coming-to-solana-on-the-same-day-it-lists-on-nasdaq)
-
----
-
-## 7. Canton Network developer raises $355 million to bring Wall Street onchain
-
-**Author:** Krisztian Sandor  
-**Published:** 6/11/2026, 1:50:13 PM  
-**Categories:** Finance, Fundraising, Canton, News  
-
-The investment comes as blockchains designed for big banks and institutions are having a moment, with Stripe's Tempo and Circle's Arc raising hundreds of millions of dollars.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/11/canton-network-developer-raises-usd355-million-to-bring-wall-street-onchain)
-
----
-
-## 8. Tether leads $1.4 billion funding round in German robotics company Neura
-
-**Author:** Olivier Acuna  
-**Published:** 6/11/2026, 1:49:27 PM  
-**Categories:** Finance, Tether, Artificial Intelligence, Stablecoins, News  
-
-The investment is part of the stablecoin giant’s expansion into industries outside of crypto.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/11/tether-leads-usd1-4-billion-funding-round-in-german-robotics-company-neura)
-
----
-
-## 9. CoinDesk 20 performance update: Uniswap (UNI) gains 4.5% as all constituents rise
-
-**Author:** CoinDesk Indices  
-**Published:** 6/11/2026, 1:45:50 PM  
-**Categories:** CoinDesk Indices, CoinDesk Indices, CoinDesk 20, charts, Prices, News  
-
-Solana (SOL), up 2.6% from Wednesday, was also a top performer.
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/06/11/coindesk-20-performance-update-uniswap-uni-gains-4-5-as-all-constituents-rise)
-
----
-
-## 10. Citi opens new route into private markets with tokenized share offering
-
-**Author:** Helene Braun,AI Boost  
-**Published:** 6/11/2026, 1:27:12 PM  
-**Categories:** Finance, Tokenization, News  
-
-The bank said it is using blockchain technology to connect investors with private company equity through digital depositary receipts.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/11/citi-opens-new-route-into-private-markets-with-tokenized-share-offering)
 
 ---
