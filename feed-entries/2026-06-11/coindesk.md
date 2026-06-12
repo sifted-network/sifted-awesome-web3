@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-06-11"
 date: "2026-06-11"
 source: "CoinDesk"
-count: 22
+count: 23
 ---
 
 # CoinDesk - 2026-06-11
 
-22 items collected.
+23 items collected.
 
 ---
 
-## 1. Coinbase launches AI agent accounts that can trade and spend on your behalf
+## 1. Elon Musk's SpaceX prices shares at $135, raising $75 billion in largest-ever IPO
+
+**Author:** Helene Braun  
+**Published:** 6/11/2026, 8:12:46 PM  
+**Categories:** Markets, SpaceX, Elon Musk, News  
+
+The company's fully diluted value will be about $1.8 trillion, with the stock set to open for trade on Friday on the Nasdaq.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/11/spacex-prices-shares-at-usd135-in-largest-ipo-ever)
+
+---
+
+## 2. Coinbase launches AI agent accounts that can trade and spend on your behalf
 
 **Author:** Margaux Nijkerk  
 **Published:** 6/11/2026, 5:00:00 PM  
@@ -23,7 +35,7 @@ count: 22
 
 ---
 
-## 2. Banking rails are moving past the 'stablecoin winner' narrative: Sygnum
+## 3. Banking rails are moving past the 'stablecoin winner' narrative: Sygnum
 
 **Author:** Olivier Acuna  
 **Published:** 6/11/2026, 4:37:53 PM  
@@ -35,7 +47,7 @@ Digital asset bank Sygnum says institutional clients want multiple tokenized cas
 
 ---
 
-## 3. Crypto for Advisors: Crypto ETFs
+## 4. Crypto for Advisors: Crypto ETFs
 
 **Author:** Joshua de Vos  
 **Published:** 6/11/2026, 3:00:00 PM  
@@ -47,7 +59,7 @@ Global crypto ETFs saw significant outflows in May, but diversified exposures sh
 
 ---
 
-## 4. U.S. House bill would erect crypto-theft task force across law enforcement agencies
+## 5. U.S. House bill would erect crypto-theft task force across law enforcement agencies
 
 **Author:** Jesse Hamilton  
 **Published:** 6/11/2026, 2:30:00 PM  
@@ -59,7 +71,7 @@ New legislation from a bipartisan duo would set up a multi-agency group under th
 
 ---
 
-## 5. SpaceX stock is coming to Solana on the same day it lists on Nasdaq
+## 6. SpaceX stock is coming to Solana on the same day it lists on Nasdaq
 
 **Author:** Margaux Nijkerk  
 **Published:** 6/11/2026, 2:00:00 PM  
@@ -71,7 +83,7 @@ The firms making that possible say eligible shares can also be converted back in
 
 ---
 
-## 6. Canton Network developer raises $355 million to bring Wall Street onchain
+## 7. Canton Network developer raises $355 million to bring Wall Street onchain
 
 **Author:** Krisztian Sandor  
 **Published:** 6/11/2026, 1:50:13 PM  
@@ -83,7 +95,7 @@ The investment comes as blockchains designed for big banks and institutions are 
 
 ---
 
-## 7. Tether leads $1.4 billion funding round in German robotics company Neura
+## 8. Tether leads $1.4 billion funding round in German robotics company Neura
 
 **Author:** Olivier Acuna  
 **Published:** 6/11/2026, 1:49:27 PM  
@@ -95,7 +107,7 @@ The investment is part of the stablecoin giant’s expansion into industries out
 
 ---
 
-## 8. CoinDesk 20 performance update: Uniswap (UNI) gains 4.5% as all constituents rise
+## 9. CoinDesk 20 performance update: Uniswap (UNI) gains 4.5% as all constituents rise
 
 **Author:** CoinDesk Indices  
 **Published:** 6/11/2026, 1:45:50 PM  
@@ -107,7 +119,7 @@ Solana (SOL), up 2.6% from Wednesday, was also a top performer.
 
 ---
 
-## 9. Citi opens new route into private markets with tokenized share offering
+## 10. Citi opens new route into private markets with tokenized share offering
 
 **Author:** Helene Braun,AI Boost  
 **Published:** 6/11/2026, 1:27:12 PM  
@@ -119,7 +131,7 @@ The bank said it is using blockchain technology to connect investors with privat
 
 ---
 
-## 10. Ondo Finance hires former Invesco ETF chief to build onchain investment products
+## 11. Ondo Finance hires former Invesco ETF chief to build onchain investment products
 
 **Author:** Krisztian Sandor  
 **Published:** 6/11/2026, 12:57:56 PM  
@@ -131,7 +143,7 @@ John Hoffman will spearhead Ondo's expansion from tokenizing individual assets t
 
 ---
 
-## 11. It's not SpaceX. Bitcoin ETF outflows may be an arbitrage story
+## 12. It's not SpaceX. Bitcoin ETF outflows may be an arbitrage story
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 6/11/2026, 12:42:19 PM  
@@ -143,7 +155,7 @@ While some analysts argue investors are selling bitcoin to free up capital for a
 
 ---
 
-## 12. Michael Saylor and Jack Mallers go toe-to-toe over Strategy's bitcoin reporting metrics
+## 13. Michael Saylor and Jack Mallers go toe-to-toe over Strategy's bitcoin reporting metrics
 
 **Author:** James Van Straten  
 **Published:** 6/11/2026, 11:52:57 AM  
@@ -155,7 +167,7 @@ The two bitcoin treasury leaders renewed the debate over Strategy's mNAV and dil
 
 ---
 
-## 13. As SpaceX IPO approaches, Polymarket, Ventuals assign $2 trillion valuation onchain
+## 14. As SpaceX IPO approaches, Polymarket, Ventuals assign $2 trillion valuation onchain
 
 **Author:** Omkar Godbole  
 **Published:** 6/11/2026, 11:23:54 AM  
@@ -167,7 +179,7 @@ Your day-ahead look for June 11, 2026
 
 ---
 
-## 14. Bitcoin advances, holds above key technical level that ether, solana can't break through
+## 15. Bitcoin advances, holds above key technical level that ether, solana can't break through
 
 **Author:** Omkar Godbole,Shaurya Malwa  
 **Published:** 6/11/2026, 10:45:05 AM  
@@ -179,7 +191,7 @@ BTC's dominance rate has risen from last week's low, a sign of renewed capital f
 
 ---
 
-## 15. Japan’s parliament poised to pass sweeping bill to regulate crypto like stocks
+## 16. Japan’s parliament poised to pass sweeping bill to regulate crypto like stocks
 
 **Author:** Olivier Acuna  
 **Published:** 6/11/2026, 10:32:19 AM  
@@ -191,7 +203,7 @@ The new rules, which are expected to come into effect in 2027, aim to foster inn
 
 ---
 
-## 16. BlackRock's income-paying bitcoin ETF nears launch at a fee that undercuts rivals
+## 17. BlackRock's income-paying bitcoin ETF nears launch at a fee that undercuts rivals
 
 **Author:** Shaurya Malwa  
 **Published:** 6/11/2026, 8:59:29 AM  
@@ -203,7 +215,7 @@ The iShares Bitcoin Premium Income ETF makes money by selling call options on Bl
 
 ---
 
-## 17. Philippines' central bank says Binance and its local partner lack licenses to operate
+## 18. Philippines' central bank says Binance and its local partner lack licenses to operate
 
 **Author:** Omkar Godbole  
 **Published:** 6/11/2026, 8:49:47 AM  
@@ -215,7 +227,7 @@ Binance and its local partner do not hold the necessary license required to oper
 
 ---
 
-## 18. Singapore bank DBS to offer tokenized gold to retail customers
+## 19. Singapore bank DBS to offer tokenized gold to retail customers
 
 **Author:** Ian Allison  
 **Published:** 6/11/2026, 8:12:50 AM  
@@ -227,7 +239,7 @@ Each token is backed by one gram of physical gold held by DBS in a dedicated vau
 
 ---
 
-## 19. Live updates: Bitcoin tops $63,000 as Trump teases yet another peace deal with Iran
+## 20. Live updates: Bitcoin tops $63,000 as Trump teases yet another peace deal with Iran
 
 **Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Krisztian Sandor  
 **Published:** 6/11/2026, 5:45:57 AM  
@@ -239,7 +251,7 @@ Fresh U.S. inflation data on Thursday was mixed, and the ECB hiked rates for the
 
 ---
 
-## 20. Corporate bitcoin buying has collapsed from $500 million per day to almost negligible
+## 21. Corporate bitcoin buying has collapsed from $500 million per day to almost negligible
 
 **Author:** Omkar Godbole  
 **Published:** 6/11/2026, 5:16:18 AM  
@@ -251,7 +263,7 @@ ETF outflows have dominated the narrative but corporate bitcoin treasuries have 
 
 ---
 
-## 21. XRP holds above $1.10 as ETF inflows rise, but traders remain cautious
+## 22. XRP holds above $1.10 as ETF inflows rise, but traders remain cautious
 
 **Author:** Shaurya Malwa  
 **Published:** 6/11/2026, 4:50:46 AM  
@@ -263,7 +275,7 @@ XRP bounced from recent lows on a late volume surge, though the token continued 
 
 ---
 
-## 22. Bitcoin has reached a deep bear-market valuation zone. The hard part may come next.
+## 23. Bitcoin has reached a deep bear-market valuation zone. The hard part may come next.
 
 **Author:** Shaurya Malwa  
 **Published:** 6/11/2026, 4:34:35 AM  
