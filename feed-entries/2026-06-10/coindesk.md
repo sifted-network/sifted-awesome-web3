@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-10"
 date: "2026-06-10"
 source: "CoinDesk"
-count: 3
+count: 2
 ---
 
 # CoinDesk - 2026-06-10
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ In this week's edition of The Protocol Newsletter, we're looking at where privac
 BlackRock's IBIT and Fidelity's FBTC are attracting the vast majority of new bitcoin ETF money, leaving smaller funds increasingly sidelined as institutional investors consolidate around the industry's largest players.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/10/blackrock-and-fidelity-are-quietly-turning-bitcoin-etfs-into-a-two-firm-market)
-
----
-
-## 3. Coinbase-backed Stand With Crypto calls on members to campaign against banks blocking digital asset transactions
-
-**Author:** Olivier Acuna  
-**Published:** 6/10/2026, 5:53:09 PM  
-**Categories:** Finance, banks, UK, Coinbase, News  
-
-Stand With Crypto UK is telling its members to file formal complaints with high-street banks over sector-wide transfer bans.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/10/over-280-000-uk-crypto-holders-kick-off-campaign-against-banks-blocking-transactions)
 
 ---
