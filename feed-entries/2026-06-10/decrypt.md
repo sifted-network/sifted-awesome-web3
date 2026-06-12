@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-10"
 date: "2026-06-10"
 source: "Decrypt"
-count: 18
+count: 13
 ---
 
 # Decrypt - 2026-06-10
 
-18 items collected.
+13 items collected.
 
 ---
 
@@ -164,65 +164,5 @@ The reading likely supports restrictive monetary policy.
 The groups say issuers, DeFi apps, and validators need clearer limits on who is responsible once stablecoins change hands.
 
 📖 [Read original article](https://decrypt.co/370645/paradigm-hyperliquid-policy-center-push-back-on-genius-act-stablecoin-aml-rule)
-
----
-
-## 14. Fold Shares Jump 162% After Bitcoin Fintech Sells $45 Million in BTC, Wipes Out Debt
-
-**Author:** Decrypt Agent  
-**Published:** 6/10/2026, 2:21:23 PM  
-**Categories:** , Markets  
-
-Publicly traded Fold sold Bitcoin holdings to restructure its balance sheet, fueling a stock surge on Wednesday morning.
-
-📖 [Read original article](https://decrypt.co/370648/fold-shares-jump-bitcoin-fintech-sells-45-million-btc-wipes-out-debt)
-
----
-
-## 15. Delaware Advances Bill to Ban ‘Predatory’ Bitcoin ATMs
-
-**Author:** Decrypt Agent  
-**Published:** 6/10/2026, 1:52:31 PM  
-**Categories:** , Business  
-
-Lawmakers have advanced legislation that would ban all cryptocurrency kiosks statewide, with physical removal mandated within 90 days.
-
-📖 [Read original article](https://decrypt.co/370638/delaware-advances-bill-to-ban-predatory-bitcoin-atms)
-
----
-
-## 16. Solana Sponsors the World Series of Poker, Enabling Crypto Entry Fees and Payouts
-
-**Author:** Logan Hitchcock  
-**Published:** 6/10/2026, 1:01:20 PM  
-**Categories:** , Business  
-
-Players can now enter World Series of Poker tournaments with SOL or stablecoins, with Solana branding to be prominent at events.
-
-📖 [Read original article](https://decrypt.co/370578/solana-sponsors-world-series-poker-crypto-entry-fees-payouts)
-
----
-
-## 17. Myriad Taps Chainlink to Power FIFA World Cup Prediction Markets
-
-**Author:** Decrypt Staff  
-**Published:** 6/10/2026, 1:01:04 PM  
-**Categories:** , , Our Company  
-
-The integration builds on Myriad’s use of the Chainlink Runtime Environment to power its prediction market infrastructure.
-
-📖 [Read original article](https://decrypt.co/370479/myriad-taps-chainlink-to-power-fifa-world-cup-prediction-markets)
-
----
-
-## 18. Morning Minute: Crypto Falls Amidst War Escalation and Mythos Release
-
-**Author:** Tyler Warner  
-**Published:** 6/10/2026, 12:48:57 PM  
-**Categories:** , , Coins  
-
-Markets sold off ahead of CPI. Crypto tax bills hit a wall in the House. And Morpho closed one of the biggest DeFi rounds in a long time.
-
-📖 [Read original article](https://decrypt.co/370624/morning-minute-crypto-falls-amidst-war-escalation-and-mythos-release)
 
 ---
