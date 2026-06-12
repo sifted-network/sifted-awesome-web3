@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-06-11"
 date: "2026-06-11"
 source: "Cointelegraph"
-count: 20
+count: 23
 ---
 
 # Cointelegraph - 2026-06-11
 
-20 items collected.
+23 items collected.
 
 ---
 
-## 1. ETH futures traders lean into $1.6K range lows: Will Ether lead market recovery?
+## 1. Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?
+
+**Author:** Cointelegraph by Marcel Pechman  
+**Published:** 6/11/2026, 10:58:52 PM  
+**Categories:** Markets  
+
+With $1.9 billion exiting the spot Bitcoin ETFs and tech stocks under pressure, BTC is failing as a hedge and at risk of falling below the $60,000 support.
+
+📖 [Read original article](https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Citi launches blockchain marketplace for private companies shares: Report
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 6/11/2026, 9:24:56 PM  
+**Categories:** Latest News  
+
+The US banking giant's blockchain marketplace will offer tokenized depositary receipts of private company shares amid Wall Street's broad embrace of tokenized assets.
+
+📖 [Read original article](https://cointelegraph.com/news/citi-launches-blockchain-marketplace-private-company-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. ETH futures traders lean into $1.6K range lows: Will Ether lead market recovery?
 
 **Author:** Cointelegraph by Biraajmaan Tamuly  
 **Published:** 6/11/2026, 7:37:41 PM  
@@ -23,7 +47,7 @@ ETH traders increased their long positions as Ether price traded near 2026 lows.
 
 ---
 
-## 2. Three signs that XRP price risks falling below $1 in June
+## 4. Three signs that XRP price risks falling below $1 in June
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 6/11/2026, 6:29:54 PM  
@@ -35,7 +59,7 @@ XRP is forming head-and-shoulders and bear flag setups on its shorter-timeframe 
 
 ---
 
-## 3. Coinbase eyes World Cup boost as prediction markets surge: Bernstein
+## 5. Coinbase eyes World Cup boost as prediction markets surge: Bernstein
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 6/11/2026, 5:57:06 PM  
@@ -47,7 +71,7 @@ Bernstein says the 2026 FIFA World Cup could inject billions into prediction mar
 
 ---
 
-## 4. MassPay taps Coinbase to expand stablecoin payouts
+## 6. MassPay taps Coinbase to expand stablecoin payouts
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/11/2026, 4:00:00 PM  
@@ -59,7 +83,19 @@ MassPay taps Coinbase to add USDC-powered cross-border payouts, betting stableco
 
 ---
 
-## 5. Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency
+## 7. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Cointelegraph  
+**Published:** 6/11/2026, 3:21:00 PM  
+**Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/11/2026, 3:01:27 PM  
@@ -71,19 +107,7 @@ Executives from Franklin Templeton and BNP Paribas say tokenized assets and stab
 
 ---
 
-## 6. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 6/11/2026, 3:01:00 PM  
-**Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Bitcoin tags $63.2K as BTC price action ignores inflation, Iran Hormuz closure
+## 9. Bitcoin tags $63.2K as BTC price action ignores inflation, Iran Hormuz closure
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/11/2026, 1:41:47 PM  
@@ -95,7 +119,7 @@ Bitcoin mostly preserved a recent rebound despite the highest US PPI inflation s
 
 ---
 
-## 8. Digital Asset lands $355M as a16z doubles down on Wall Street blockchain rails
+## 10. Digital Asset lands $355M as a16z doubles down on Wall Street blockchain rails
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/11/2026, 12:59:11 PM  
@@ -107,7 +131,7 @@ Digital Asset raised $355M in an a16z‑led round at a $2B valuation, extending 
 
 ---
 
-## 9. Hungary to reverse crypto trading crackdown after EU scrutiny
+## 11. Hungary to reverse crypto trading crackdown after EU scrutiny
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/11/2026, 12:52:15 PM  
@@ -119,7 +143,7 @@ Hungary’s government said it will unwind crypto trading restrictions that requ
 
 ---
 
-## 10. Japan crypto bill advances with ETF, tax reform path: Report
+## 12. Japan crypto bill advances with ETF, tax reform path: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/11/2026, 12:17:21 PM  
@@ -131,7 +155,7 @@ Japan’s Lower House reportedly passed a bill that would bring crypto under the
 
 ---
 
-## 11. Audiera’s AI token BEAT beats Bitcoin, Ethereum as price surges 1,500% in a month
+## 13. Audiera’s AI token BEAT beats Bitcoin, Ethereum as price surges 1,500% in a month
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 6/11/2026, 12:08:03 PM  
@@ -143,7 +167,7 @@ BEAT has reached its most overbought readings on record, raising the odds of a 3
 
 ---
 
-## 12. AI models led to a ‘vulnerability apocalypse’ in crypto security: Immunefi CEO
+## 14. AI models led to a ‘vulnerability apocalypse’ in crypto security: Immunefi CEO
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/11/2026, 12:01:48 PM  
@@ -155,7 +179,7 @@ The proliferation of new frontier AI models is the main catalyst behind the late
 
 ---
 
-## 13. TradFi advisers want stablecoins, tokenization over Bitcoin: Bitwise
+## 15. TradFi advisers want stablecoins, tokenization over Bitcoin: Bitwise
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/11/2026, 7:01:31 AM  
@@ -167,7 +191,7 @@ Bitwise’s Matt Hougan says it was “pretty hard to engage with advisers on Bi
 
 ---
 
-## 14. AI researcher claims he's already bypassed Anthropic's Fable 5 guardrails
+## 16. AI researcher claims he's already bypassed Anthropic's Fable 5 guardrails
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/11/2026, 7:00:53 AM  
@@ -179,7 +203,19 @@ Bitwise’s Matt Hougan says it was “pretty hard to engage with advisers on Bi
 
 ---
 
-## 15. Bitso brings peso-backed MXNB stablecoin to XRP Ledger via Ripple partnership
+## 17. US lawmakers seek coordinated federal response to crypto theft and scams
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 6/11/2026, 7:00:00 AM  
+**Categories:** Latest News  
+
+The bipartisan bill envisions the Justice Department leading a task force to coordinate crypto theft investigations, support local law enforcement and improve blockchain forensics efforts.
+
+📖 [Read original article](https://cointelegraph.com/news/doj-crypto-theft-task-force-proposed-by-bipartisan-lawmakers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 18. Bitso brings peso-backed MXNB stablecoin to XRP Ledger via Ripple partnership
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 6/11/2026, 7:00:00 AM  
@@ -191,7 +227,7 @@ The companies are pairing MXNB and RLUSD on the XRP Ledger to support institutio
 
 ---
 
-## 16. Archax introduces real-time yield payments for tokenized securities on Hedera
+## 19. Archax introduces real-time yield payments for tokenized securities on Hedera
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 6/11/2026, 7:00:00 AM  
@@ -203,7 +239,7 @@ The UK-regulated digital asset platform said its new system allows interest paym
 
 ---
 
-## 17. Teen crypto scammer stole $13M to splurge on private jets, Lambo
+## 20. Teen crypto scammer stole $13M to splurge on private jets, Lambo
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 6/11/2026, 5:57:24 AM  
@@ -215,7 +251,7 @@ Trenton Richard Johnston was arrested in March during a traffic stop for speedin
 
 ---
 
-## 18. Analysts tip pressure for Bitcoin, gold as US inflation tops 4%
+## 21. Analysts tip pressure for Bitcoin, gold as US inflation tops 4%
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/11/2026, 4:51:52 AM  
@@ -227,7 +263,7 @@ Trenton Richard Johnston was arrested in March during a traffic stop for speedin
 
 ---
 
-## 19. Delaware, New Jersey advance bills banning crypto ATMs
+## 22. Delaware, New Jersey advance bills banning crypto ATMs
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/11/2026, 3:18:43 AM  
@@ -239,7 +275,7 @@ Lawmakers in Delaware and New Jersey have advanced laws that would completely ba
 
 ---
 
-## 20. XRP transaction demand falls 91.5% as traders focus on $0.65 support
+## 23. XRP transaction demand falls 91.5% as traders focus on $0.65 support
 
 **Author:** Cointelegraph by Biraajmaan Tamuly  
 **Published:** 6/11/2026, 12:08:21 AM  
