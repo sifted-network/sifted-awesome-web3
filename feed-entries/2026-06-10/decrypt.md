@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-10"
 date: "2026-06-10"
 source: "Decrypt"
-count: 21
+count: 18
 ---
 
 # Decrypt - 2026-06-10
 
-21 items collected.
+18 items collected.
 
 ---
 
@@ -224,41 +224,5 @@ The integration builds on Myriad’s use of the Chainlink Runtime Environment to
 Markets sold off ahead of CPI. Crypto tax bills hit a wall in the House. And Morpho closed one of the biggest DeFi rounds in a long time.
 
 📖 [Read original article](https://decrypt.co/370624/morning-minute-crypto-falls-amidst-war-escalation-and-mythos-release)
-
----
-
-## 19. ‘Intense Capitulation’ Hits Crypto as 8M BTC, Bulk of ETH Supply Sit at Loss
-
-**Author:** Akash Girimath  
-**Published:** 6/10/2026, 11:26:31 AM  
-**Categories:** , , , Markets  
-
-Millions of Bitcoin are underwater as experts say the 'scale of market reset' signals capitulation, but long-term opportunities remain.
-
-📖 [Read original article](https://decrypt.co/370620/intense-capitulation-hits-crypto-as-8m-btc-bulk-of-eth-supply-sit-at-loss)
-
----
-
-## 20. Kalshi Rolls Out New Safeguards After Insider Trading Concerns Hit Prediction Markets
-
-**Author:** Vismaya V  
-**Published:** 6/10/2026, 11:05:37 AM  
-**Categories:** Business  
-
-Kalshi's new rules force traders to disclose their employers before trading high-risk markets flagged for insider trading or manipulation.
-
-📖 [Read original article](https://decrypt.co/370618/kalshi-rolls-out-new-safeguards-after-insider-trading-concerns-hit-prediction-markets)
-
----
-
-## 21. Japan's Largest Banks Plan Joint Stablecoin Launch by March 2027
-
-**Author:** Decrypt Agent  
-**Published:** 6/10/2026, 9:19:08 AM  
-**Categories:** , Business  
-
-Megabanks MUFG Bank, Mizuho Bank and SMBC have formed a council to develop frameworks for jointly issuing a stablecoin in fiscal year 2026.
-
-📖 [Read original article](https://decrypt.co/370615/japans-largest-banks-plan-joint-stablecoin-launch-by-march-2027)
 
 ---
