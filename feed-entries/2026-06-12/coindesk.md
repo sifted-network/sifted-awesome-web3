@@ -2,16 +2,88 @@
 title: "CoinDesk - 2026-06-12"
 date: "2026-06-12"
 source: "CoinDesk"
-count: 15
+count: 21
 ---
 
 # CoinDesk - 2026-06-12
 
-15 items collected.
+21 items collected.
 
 ---
 
-## 1. FTX's Sam Bankman-Fried loses appeal of criminal conviction on fraud, conspiracy charges
+## 1. Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst
+
+**Author:** Olivier Acuna  
+**Published:** 6/12/2026, 6:09:06 PM  
+**Categories:** Markets, Bitcoin News, Markets, News  
+
+Senior market analyst Geoffrey Kendrick pointed to the SpaceX IPO and a potential U.S.-Iran peace deal as the dual catalysts ending the recent crypto selloff.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst)
+
+---
+
+## 2. VanEck bets BNB’s real-world usage can stand out in a crowded crypto ETF market
+
+**Author:** AI Boost  
+**Published:** 6/12/2026, 4:05:31 PM  
+**Categories:** Markets, Media Network Interview, ETFs, News  
+
+VanEck says BNB’s user activity and revenue generation make it a stronger long-term crypto investment case than many blockchain projects still selling a vision.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/12/vaneck-bets-bnb-s-real-world-usage-can-stand-out-in-a-crowded-crypto-etf-market)
+
+---
+
+## 3. Elon Musk's SpaceX soars 20% in blockbuster Nasdaq debut
+
+**Author:** Helene Braun  
+**Published:** 6/12/2026, 3:55:42 PM  
+**Categories:** Markets, SpaceX, Elon Musk, News  
+
+The stock was trading above $160 in volatile action after last night's IPO at $135.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/12/spacex-opens-at-usdtk-in-blockbuster-nasdaq-debut)
+
+---
+
+## 4. Bloomberg Analyst: Most Bitcoin ETF Investors Have Stayed Put Despite Outflows
+
+**Author:** AI Boost  
+**Published:** 6/12/2026, 3:49:36 PM  
+**Categories:** Markets, News  
+
+Bitcoin ETF investors have pulled billions this year, but the broader crypto ETF market remains more resilient than recent headlines suggest.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/08/bloomberg-analyst-most-bitcoin-etf-investors-have-stayed-put-despite-outflows)
+
+---
+
+## 5. Kalshi’s crypto perpetuals spark debate over whether they’re futures or swaps
+
+**Author:** AI Boost  
+**Published:** 6/12/2026, 3:37:08 PM  
+**Categories:** Policy, Media Network Interview, Kalshi, Prediction Markets, News  
+
+A clash between derivatives veterans is exposing a deeper discussion over how U.S. regulators should classify crypto perpetual contracts.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/06/12/kalshi-s-crypto-perpetuals-spark-debate-over-whether-they-re-futures-or-swaps)
+
+---
+
+## 6. The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up
+
+**Author:** Alex Pruden  
+**Published:** 6/12/2026, 3:31:00 PM  
+**Categories:** Opinion, quantum computing, Opinion  
+
+Pruden argues that to defend against a quantum computer capable of cryptographically relevant operations, we need post-quantum cryptography and regulatory coordination that the industry has been deferring for years.
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/06/12/the-u-s-government-is-betting-usd2-billion-on-quantum-computing-and-the-defense-side-can-t-keep-up)
+
+---
+
+## 7. FTX's Sam Bankman-Fried loses appeal of criminal conviction on fraud, conspiracy charges
 
 **Author:** Nikhilesh De  
 **Published:** 6/12/2026, 2:13:40 PM  
@@ -23,7 +95,7 @@ The onetime FTX CEO did not persuade a panel of judges that his trial was unfair
 
 ---
 
-## 2. XRP sentiment falls to 8-month low, and that has been a buy signal before
+## 8. XRP sentiment falls to 8-month low, and that has been a buy signal before
 
 **Author:** Shaurya Malwa  
 **Published:** 6/12/2026, 2:08:03 PM  
@@ -35,7 +107,7 @@ Santiment's weighted sentiment gauge for XRP just hit its weakest reading since 
 
 ---
 
-## 3. CoinDesk 20 performance update: Ethereum (ETH) falls 1% as index trades lower
+## 9. CoinDesk 20 performance update: Ethereum (ETH) falls 1% as index trades lower
 
 **Author:** CoinDesk Indices  
 **Published:** 6/12/2026, 1:11:26 PM  
@@ -47,7 +119,7 @@ Cronos (CRO), down 1.4% from Thursday, was also an underperformer.
 
 ---
 
-## 4. For crypto, SpaceX's stock market debut could go either way
+## 10. For crypto, SpaceX's stock market debut could go either way
 
 **Author:** Shaurya Malwa,Omkar Godbole  
 **Published:** 6/12/2026, 11:23:25 AM  
@@ -59,7 +131,7 @@ Your day-ahead look for June 12, 2026
 
 ---
 
-## 5. Monero price rockets 33% to $438 amid $120 million onchain laundering maze
+## 11. Monero price rockets 33% to $438 amid $120 million onchain laundering maze
 
 **Author:** Shaurya Malwa  
 **Published:** 6/12/2026, 11:10:51 AM  
@@ -71,7 +143,7 @@ Onchain sleuth ZachXBT traced remaining funds across exchanges, instant swap ser
 
 ---
 
-## 6. While bitcoin holds near $63,000, some data points to pain ahead for bulls
+## 12. While bitcoin holds near $63,000, some data points to pain ahead for bulls
 
 **Author:** Omkar Godbole,Shaurya Malwa  
 **Published:** 6/12/2026, 10:41:24 AM  
@@ -83,7 +155,7 @@ Onchain data shows the bitcoin market price is only just above its realized pric
 
 ---
 
-## 7. Metaplanet buys Siiibo Securities to accelerate bitcoin financial ecosystem plans
+## 13. Metaplanet buys Siiibo Securities to accelerate bitcoin financial ecosystem plans
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 6/12/2026, 10:00:12 AM  
@@ -95,7 +167,7 @@ The approximately $13.1 million acquisition gives Metaplanet a regulated securit
 
 ---
 
-## 8. There's one simple way to tell whether bitcoin has really bottomed. Right now, it hasn't.
+## 14. There's one simple way to tell whether bitcoin has really bottomed. Right now, it hasn't.
 
 **Author:** Omkar Godbole  
 **Published:** 6/12/2026, 7:57:47 AM  
@@ -107,7 +179,7 @@ Bitcoin's weekly RSI contains a critical level that has reliably separated bull 
 
 ---
 
-## 9. BlackRock files to list its bitcoin income ETF, with expected debut next week
+## 15. BlackRock files to list its bitcoin income ETF, with expected debut next week
 
 **Author:** Shaurya Malwa  
 **Published:** 6/12/2026, 7:07:34 AM  
@@ -119,7 +191,7 @@ An 8-A share registration filing, in this case for Nasdaq, is usually one of the
 
 ---
 
-## 10. XRP jumps 3% above $1.14 as institutional buying meets key resistance test
+## 16. XRP jumps 3% above $1.14 as institutional buying meets key resistance test
 
 **Author:** Shaurya Malwa  
 **Published:** 6/12/2026, 6:38:32 AM  
@@ -131,7 +203,7 @@ XRP posted its strongest session in days on a sharp volume surge, though traders
 
 ---
 
-## 11. Live updates: Bitcoin holds $63,000 as SpaceX shares get ready to trade on Nasdaq
+## 17. Live updates: SpaceX rally loses momentum, while bitcoin trades near $64,000
 
 **Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Helene Braun  
 **Published:** 6/12/2026, 6:32:02 AM  
@@ -143,7 +215,7 @@ Crypto firmed across the board following the largest equity listing in history. 
 
 ---
 
-## 12. Former SEC, CFTC Chair Gary Gensler argues that prediction markets don't overrule state regulations
+## 18. Former SEC, CFTC Chair Gary Gensler argues that prediction markets don't overrule state regulations
 
 **Author:** Nikhilesh De  
 **Published:** 6/12/2026, 6:27:20 AM  
@@ -155,7 +227,7 @@ The former regulator joined a number of interest groups in arguing that predicti
 
 ---
 
-## 13. SpaceX's crypto-traded IPO was sharply falling. It now points upward to a $2.4 trillion valuation
+## 19. SpaceX's crypto-traded IPO was sharply falling. It now points upward to a $2.4 trillion valuation
 
 **Author:** Shaurya Malwa  
 **Published:** 6/12/2026, 6:13:44 AM  
@@ -167,7 +239,7 @@ The SPCX perpetual on Hyperliquid has bounced from this week’s lows, while Blo
 
 ---
 
-## 14. The company that makes your TV is taking ads onchain. Arbitrum helped
+## 20. The company that makes your TV is taking ads onchain. Arbitrum helped
 
 **Author:** Omkar Godbole  
 **Published:** 6/12/2026, 5:35:25 AM  
@@ -179,7 +251,7 @@ LG Electronics has built a blockchain-based advertising platform with the help o
 
 ---
 
-## 15. Bitcoin climbs back into the green as Trump signals an end to the Iran war
+## 21. Bitcoin climbs back into the green as Trump signals an end to the Iran war
 
 **Author:** Shaurya Malwa  
 **Published:** 6/12/2026, 5:14:33 AM  
