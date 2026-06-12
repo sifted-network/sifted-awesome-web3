@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-11"
 date: "2026-06-11"
 source: "Cointelegraph"
-count: 18
+count: 13
 ---
 
 # Cointelegraph - 2026-06-11
 
-18 items collected.
+13 items collected.
 
 ---
 
@@ -164,65 +164,5 @@ BEAT has reached its most overbought readings on record, raising the odds of a 3
 The proliferation of new frontier AI models is the main catalyst behind the latest resurgence in DeFi hacks, according to Immunefi CEO Mitchell Amador.
 
 📖 [Read original article](https://cointelegraph.com/news/frontier-ai-models-vulnerability-apocalypse-crypto-security-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. TradFi advisers want stablecoins, tokenization over Bitcoin: Bitwise
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 6/11/2026, 7:01:31 AM  
-**Categories:** Latest News  
-
-Bitwise’s Matt Hougan says it was “pretty hard to engage with advisers on Bitcoin” during recent discussions, who are more interested in stablecoins and tokenization.
-
-📖 [Read original article](https://cointelegraph.com/news/tradfi-advisors-want-stablecoins-tokenization-over-bitcoin-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. AI researcher claims he's already bypassed Anthropic's Fable 5 guardrails
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 6/11/2026, 7:00:53 AM  
-**Categories:** Latest News  
-
-“Pliny the Liberator,” says he has been “cleverly finding the holes in the fence that the thought police missed,” in the newly launched Fable 5.
-
-📖 [Read original article](https://cointelegraph.com/news/researcher-claims-hes-already-jailbroken-anthropics-guardrailed-claude-fable-5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. US lawmakers seek coordinated federal response to crypto theft and scams
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 6/11/2026, 7:00:00 AM  
-**Categories:** Latest News  
-
-The bipartisan bill envisions the Justice Department leading a task force to coordinate crypto theft investigations, support local law enforcement and improve blockchain forensics efforts.
-
-📖 [Read original article](https://cointelegraph.com/news/doj-crypto-theft-task-force-proposed-by-bipartisan-lawmakers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Bitso brings peso-backed MXNB stablecoin to XRP Ledger via Ripple partnership
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 6/11/2026, 7:00:00 AM  
-**Categories:** Latest News  
-
-The companies are pairing MXNB and RLUSD on the XRP Ledger to support institutional payments between the United States and Mexico as stablecoin adoption grows across Latin America.
-
-📖 [Read original article](https://cointelegraph.com/news/ripple-bitso-bring-mxn-stablecoin-settlement-to-xrp-ledger-for-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Archax introduces real-time yield payments for tokenized securities on Hedera
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 6/11/2026, 7:00:00 AM  
-**Categories:** Latest News  
-
-The UK-regulated digital asset platform said its new system allows interest payments to follow tokenized securities in real time, with payouts distributed continuously in USDC.
-
-📖 [Read original article](https://cointelegraph.com/news/archax-launches-real-time-yield-payments-for-tokenized-securities-on-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
