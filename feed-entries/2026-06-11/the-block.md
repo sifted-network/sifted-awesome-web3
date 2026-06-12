@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-11"
 date: "2026-06-11"
 source: "The Block"
-count: 5
+count: 3
 ---
 
 # The Block - 2026-06-11
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ A new report from a boutique consulting firm claims that nearly a third of U.S. 
 LG’s new Arbitrum-based blockchain will serve as a platform for placing, buying, selling, and managing digital ads.
 
 📖 [Read original article](https://www.theblock.co/post/404494/arbitrum-token-jumps-5-news-lg-electronics-building-new-blockchain?utm_source=rss&utm_medium=rss)
-
----
-
-## 4. JPMorgan says debasement trade retreat has ‘accelerated’ for bitcoin
-
-**Author:** Yogita Khatri  
-**Published:** 6/11/2026, 5:54:56 PM  
-**Categories:** Companies, Finance firms, Markets, Token Projects, Bitcoin, exclusive, Investment Firms, JPMorgan, Tokens, TradFi banks  
-
-The retreat from the debasement trade has continued for gold and accelerated for bitcoin in recent weeks, JPMorgan analysts said.
-
-📖 [Read original article](https://www.theblock.co/post/404471/jpmorgan-debasement-trade-retreat-bitcoin-gold?utm_source=rss&utm_medium=rss)
-
----
-
-## 5. Coinbase for Agents sets up dedicated accounts for AI bots to trade and pay for users
-
-**Author:** Daniel Kuhn  
-**Published:** 6/11/2026, 5:11:22 PM  
-**Categories:** Companies, Crypto Ecosystems, Exchanges, Tech, Web3, AI, Coinbase, Decentralized Infrastructure  
-
-AI agents will get access to trade, manage money, and make payments on behalf of Coinbase users via dedicated accounts.
-
-📖 [Read original article](https://www.theblock.co/post/404458/coinbase-agents-dedicated-accounts-ai-bots-trade-pay-users?utm_source=rss&utm_medium=rss)
 
 ---
