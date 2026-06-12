@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-10"
 date: "2026-06-10"
 source: "Cointelegraph"
-count: 10
+count: 7
 ---
 
 # Cointelegraph - 2026-06-10
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ BTC's rebound shows signs of weakening under a string of technical resistance le
 TRM Labs said onchain gambling reached $51 billion in 2025, with repeat users and stablecoin flows helping the sector remain resilient during a broader crypto market pullback.
 
 📖 [Read original article](https://cointelegraph.com/news/onchain-gambling-market-pullback-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. AI deepfake election ad in Minnesota raises transparency concerns
-
-**Author:** Cointelegraph by Aaron Wood  
-**Published:** 6/10/2026, 3:00:00 PM  
-**Categories:** Features  
-
-A deepfake campaign attack ad in the US state of Minnesota has raised questions around the ethics of using AI in political ads and the regulations surround AI use.
-
-📖 [Read original article](https://cointelegraph.com/features/ai-deepfake-election-ad-in-minnesota-raises-transparency-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Tenev says Robinhood won underwriter approval as crypto markets front-run mega IPOs
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 6/10/2026, 2:33:37 PM  
-**Categories:** Latest News  
-
-Robinhood’s new IPO underwriter role comes as SpaceX prepares a record-breaking public offering, with retail brokers and crypto-native derivatives platforms racing to shape price discovery and access.
-
-📖 [Read original article](https://cointelegraph.com/news/robinhood-secures-underwriter-status-crypto-front-mega-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Crypto outflows are sentiment shock, not structural crisis: CoinShares' Butterfill
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 6/10/2026, 2:08:44 PM  
-**Categories:** Latest News  
-
-CoinShares’ James Butterfill said recent crypto outflows reflect a macro-driven sentiment shock, while other analysts warned Bitcoin’s rebound may remain fragile.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-outflows-sentiment-shock-structural-crisis-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
