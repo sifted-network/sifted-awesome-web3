@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-11"
 date: "2026-06-11"
 source: "CoinDesk"
-count: 17
+count: 10
 ---
 
 # CoinDesk - 2026-06-11
 
-17 items collected.
+10 items collected.
 
 ---
 
@@ -128,89 +128,5 @@ Solana (SOL), up 2.6% from Wednesday, was also a top performer.
 The bank said it is using blockchain technology to connect investors with private company equity through digital depositary receipts.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/06/11/citi-opens-new-route-into-private-markets-with-tokenized-share-offering)
-
----
-
-## 11. Ondo Finance hires former Invesco ETF chief to build onchain investment products
-
-**Author:** Krisztian Sandor  
-**Published:** 6/11/2026, 12:57:56 PM  
-**Categories:** Finance, Tokenization, Exclusive, News  
-
-John Hoffman will spearhead Ondo's expansion from tokenizing individual assets to full investment portfolios and strategies.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/10/ondo-finance-hires-former-invesco-etf-chief-to-build-onchain-investment-products)
-
----
-
-## 12. It's not SpaceX. Bitcoin ETF outflows may be an arbitrage story
-
-**Author:** Jamie Crawley,AI Boost  
-**Published:** 6/11/2026, 12:42:19 PM  
-**Categories:** Markets, ETFs, SpaceX, Bitcoin News, News  
-
-While some analysts argue investors are selling bitcoin to free up capital for anticipated IPOs such as SpaceX and Anthropic, Sygnum's Fabian Dori says market data points elsewhere.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/11/bitcoin-etf-outflows-may-be-more-about-arbitrage-unwinds-than-spacex-fomo)
-
----
-
-## 13. Michael Saylor and Jack Mallers go toe-to-toe over Strategy's bitcoin reporting metrics
-
-**Author:** James Van Straten  
-**Published:** 6/11/2026, 11:52:57 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-The two bitcoin treasury leaders renewed the debate over Strategy's mNAV and dilution, with Saylor arguing that equity issuance for cash strengthens, rather than dilutes, shareholders.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/11/michael-saylor-and-jack-mallers-go-toe-to-toe-over-strategy-s-bitcoin-reporting-metrics)
-
----
-
-## 14. As SpaceX IPO approaches, Polymarket, Ventuals assign $2 trillion valuation onchain
-
-**Author:** Omkar Godbole  
-**Published:** 6/11/2026, 11:23:54 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for June 11, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/06/11/as-spacex-ipo-approaches-polymarket-ventuals-assign-usd2-trillion-valuation-onchain)
-
----
-
-## 15. Bitcoin advances, holds above key technical level that ether, solana can't break through
-
-**Author:** Omkar Godbole,Shaurya Malwa  
-**Published:** 6/11/2026, 10:45:05 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-BTC's dominance rate has risen from last week's low, a sign of renewed capital flowing into the largest cryptocurrency as major altcoins struggle.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/11/bitcoin-advances-holds-above-key-technical-level-that-ether-solana-can-t-break-through)
-
----
-
-## 16. Japan’s parliament poised to pass sweeping bill to regulate crypto like stocks
-
-**Author:** Olivier Acuna  
-**Published:** 6/11/2026, 10:32:19 AM  
-**Categories:** Policy, Japan, Cryptocurrency, Regulation, News  
-
-The new rules, which are expected to come into effect in 2027, aim to foster innovation and crypto market growth to meet internal and external demand for digital asset services.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/11/japan-passes-sweeping-bill-regulating-crypto-like-stocks-with-lower-taxes-to-drive-growth)
-
----
-
-## 17. BlackRock's income-paying bitcoin ETF nears launch at a fee that undercuts rivals
-
-**Author:** Shaurya Malwa  
-**Published:** 6/11/2026, 8:59:29 AM  
-**Categories:** Markets, News  
-
-The iShares Bitcoin Premium Income ETF makes money by selling call options on BlackRock's own IBIT.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/11/blackrock-s-income-paying-bitcoin-etf-nears-launch-at-a-fee-that-undercuts-rivals)
 
 ---
