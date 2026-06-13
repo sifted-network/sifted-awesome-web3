@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-10"
 date: "2026-06-10"
 source: "Decrypt"
-count: 3
+count: 2
 ---
 
 # Decrypt - 2026-06-10
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ DiffusionGemma hits 1,000 tokens per second by ditching word-by-word generation 
 In a new essay, Dario Amodei called for binding safety rules for frontier models as his company heads toward an IPO.
 
 📖 [Read original article](https://decrypt.co/370704/anthropic-ceo-ai-too-powerful-regulation-cant-wait)
-
----
-
-## 3. Solana Exchange Raydium Hit With $1.34 Million Exploit as DeFi Attacks Grow
-
-**Author:** Logan Hitchcock  
-**Published:** 6/10/2026, 8:19:35 PM  
-**Categories:** , Technology  
-
-Solana-based decentralized exchange Raydium will repay the funds swiped in the $1.34 million exploit using its treasury.
-
-📖 [Read original article](https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow)
 
 ---
