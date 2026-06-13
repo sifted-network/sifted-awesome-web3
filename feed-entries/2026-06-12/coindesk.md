@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-12"
 date: "2026-06-12"
 source: "CoinDesk"
-count: 18
+count: 11
 ---
 
 # CoinDesk - 2026-06-12
 
-18 items collected.
+11 items collected.
 
 ---
 
@@ -140,89 +140,5 @@ Your day-ahead look for June 12, 2026
 Onchain sleuth ZachXBT traced remaining funds across exchanges, instant swap services and other blockchains. Tether later froze $72 million in USDT linked to the activity.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/12/monero-spiked-to-usd430-as-usd120-million-moved-through-it-then-tether-froze-usd72-million)
-
----
-
-## 12. While bitcoin holds near $63,000, some data points to pain ahead for bulls
-
-**Author:** Omkar Godbole,Shaurya Malwa  
-**Published:** 6/12/2026, 10:41:24 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Onchain data shows the bitcoin market price is only just above its realized price and demand is weakening, especially from ETFs.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/12/while-bitcoin-holds-near-usd63-000-some-data-points-to-pain-ahead-for-bulls)
-
----
-
-## 13. Metaplanet buys Siiibo Securities to accelerate bitcoin financial ecosystem plans
-
-**Author:** James Van Straten,AI Boost  
-**Published:** 6/12/2026, 10:00:12 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-The approximately $13.1 million acquisition gives Metaplanet a regulated securities platform to develop Bitcoin-linked investment products.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/12/metaplanet-buys-siiibo-securities-to-accelerate-bitcoin-financial-ecosystem-plans)
-
----
-
-## 14. There's one simple way to tell whether bitcoin has really bottomed. Right now, it hasn't.
-
-**Author:** Omkar Godbole  
-**Published:** 6/12/2026, 7:57:47 AM  
-**Categories:** Markets, Bitcoin News, Markets, Technical Analysis, News  
-
-Bitcoin's weekly RSI contains a critical level that has reliably separated bull and bear market regimes across multiple cycles. Right now, the indicator has yet to clear that line.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/12/there-s-one-simple-way-to-tell-whether-bitcoin-has-really-bottomed-right-now-it-hasn-t)
-
----
-
-## 15. BlackRock files to list its bitcoin income ETF, with expected debut next week
-
-**Author:** Shaurya Malwa  
-**Published:** 6/12/2026, 7:07:34 AM  
-**Categories:** Markets, ETFs, BlackRock, News  
-
-An 8-A share registration filing, in this case for Nasdaq, is usually one of the last steps before an ETF goes live.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/12/blackrock-files-to-list-its-bitcoin-income-etf-with-expected-debut-next-week)
-
----
-
-## 16. XRP jumps 3% above $1.14 as institutional buying meets key resistance test
-
-**Author:** Shaurya Malwa  
-**Published:** 6/12/2026, 6:38:32 AM  
-**Categories:** Markets, News  
-
-XRP posted its strongest session in days on a sharp volume surge, though traders remain focused on whether the rally can break a longer-term downtrend that still points lower.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/12/xrp-jumps-3-above-usd1-14-as-institutional-buying-meets-key-resistance-test)
-
----
-
-## 17. Live updates: SpaceX rallies nearly 20% in first session, while bitcoin trades shy of $64,000
-
-**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Helene Braun  
-**Published:** 6/12/2026, 6:32:02 AM  
-**Categories:** Tech, Live News, live_news  
-
-Crypto firmed across the board following the largest equity listing in history. The token most tied to Elon Musk traded right in line with the market.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged)
-
----
-
-## 18. Former SEC, CFTC Chair Gary Gensler argues that prediction markets don't overrule state regulations
-
-**Author:** Nikhilesh De  
-**Published:** 6/12/2026, 6:27:20 AM  
-**Categories:** Policy, Prediction Markets, Kalshi, News  
-
-The former regulator joined a number of interest groups in arguing that prediction markets are overstepping their bounds by offering sports-related contracts.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/12/former-sec-cftc-chair-gary-gensler-argues-that-prediction-markets-don-t-overrule-state-regulations)
 
 ---
