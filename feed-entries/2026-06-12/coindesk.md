@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-12"
 date: "2026-06-12"
 source: "CoinDesk"
-count: 21
+count: 18
 ---
 
 # CoinDesk - 2026-06-12
 
-21 items collected.
+18 items collected.
 
 ---
 
@@ -224,41 +224,5 @@ Crypto firmed across the board following the largest equity listing in history. 
 The former regulator joined a number of interest groups in arguing that prediction markets are overstepping their bounds by offering sports-related contracts.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/06/12/former-sec-cftc-chair-gary-gensler-argues-that-prediction-markets-don-t-overrule-state-regulations)
-
----
-
-## 19. SpaceX's crypto-traded IPO was sharply falling. It now points upward to a $2.4 trillion valuation
-
-**Author:** Shaurya Malwa  
-**Published:** 6/12/2026, 6:13:44 AM  
-**Categories:** Markets, News  
-
-The SPCX perpetual on Hyperliquid has bounced from this week’s lows, while Bloomberg says other shadow markets now imply a first-day gain of more than 35%.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/12/spacex-s-crypto-traded-ipo-was-sharply-falling-it-now-points-upward-to-a-usd2-4-trillion-valuation)
-
----
-
-## 20. The company that makes your TV is taking ads onchain. Arbitrum helped
-
-**Author:** Omkar Godbole  
-**Published:** 6/12/2026, 5:35:25 AM  
-**Categories:** Tech, Ethereum News, News  
-
-LG Electronics has built a blockchain-based advertising platform with the help of Arbitrum.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/12/the-company-that-makes-your-tv-is-taking-ads-onchain-arbitrum-helped)
-
----
-
-## 21. Bitcoin climbs back into the green as Trump signals an end to the Iran war
-
-**Author:** Shaurya Malwa  
-**Published:** 6/12/2026, 5:14:33 AM  
-**Categories:** Markets, News  
-
-A de-escalation in the Iran conflict pulled oil lower and sent global stocks higher, lifting crypto out of a wildly volatile seven days.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/12/bitcoin-climbs-back-into-the-green-as-trump-signals-an-end-to-the-iran-war)
 
 ---
