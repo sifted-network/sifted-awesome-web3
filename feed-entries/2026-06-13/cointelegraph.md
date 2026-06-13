@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-06-13"
 date: "2026-06-13"
 source: "Cointelegraph"
-count: 6
+count: 8
 ---
 
 # Cointelegraph - 2026-06-13
 
-6 items collected.
+8 items collected.
 
 ---
 
-## 1. Morpho's $175M raise shows where crypto VC money is flowing
+## 1. Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 6/13/2026, 2:45:43 PM  
+**Categories:** Latest News  
+
+Zcash founder Zooko Wilcox said Anthropic's Mythos AI model found no further "serious bugs" in the privacy protocol following the patching of a previously discovered forgery bug.
+
+📖 [Read original article](https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitcoin sales are necessary for Strategy's digital credit business, Saylor says
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 6/13/2026, 1:58:24 PM  
+**Categories:** Latest News  
+
+Strategy's recent Bitcoin sale appeared to clash with Saylor's "never sell" mantra, but he says the move reflects how the company's digital credit business works.
+
+📖 [Read original article](https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Morpho's $175M raise shows where crypto VC money is flowing
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/13/2026, 11:52:41 AM  
@@ -23,7 +47,7 @@ Morpho’s recent $175 million raise reflects growing investor bets on onchain c
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 4. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/13/2026, 5:47:00 AM  
@@ -35,7 +59,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. ETH futures flash bearish signal, but stakers’ resilience points to underlying strength
+## 5. ETH futures flash bearish signal, but stakers’ resilience points to underlying strength
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 6/13/2026, 3:24:05 AM  
@@ -47,7 +71,7 @@ Demand for ETH leverage remains low, but corporate accumulation and stakers’ d
 
 ---
 
-## 4. Anthropic suspends access to Fable 5, Mythos 5, citing US directive
+## 6. Anthropic suspends access to Fable 5, Mythos 5, citing US directive
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/13/2026, 2:37:40 AM  
@@ -59,7 +83,7 @@ Anthropic has abruptly disabled its flagship AI models after a US government dir
 
 ---
 
-## 5. Major crypto exchanges cancel SpaceX IPO allocations, promising refunds
+## 7. Major crypto exchanges cancel SpaceX IPO allocations, promising refunds
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/13/2026, 2:17:55 AM  
@@ -71,7 +95,7 @@ Elon Musk’s SpaceX completed its landmark IPO on the Nasdaq on Friday, but cry
 
 ---
 
-## 6. Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research
+## 8. Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research
 
 **Author:** Cointelegraph by Biraajmaan Tamuly  
 **Published:** 6/13/2026, 12:51:36 AM  
