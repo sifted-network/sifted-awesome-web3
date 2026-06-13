@@ -2,16 +2,100 @@
 title: "CoinDesk - 2026-06-13"
 date: "2026-06-13"
 source: "CoinDesk"
-count: 7
+count: 14
 ---
 
 # CoinDesk - 2026-06-13
 
-7 items collected.
+14 items collected.
 
 ---
 
-## 1. Saylor to Musk: Thanks to you, 25% of 'Mag8' firms now hold bitcoin
+## 1. Crypto’s next billion-dollar hacker may move at superhuman speed
+
+**Author:** Shaurya Malwa  
+**Published:** 6/13/2026, 6:00:00 PM  
+**Categories:** Tech, Artificial Intelligence, Hack, DeFi, News  
+
+Anthropic’s new Claude Fable 5 puts powerful cyber tools behind safety filters. DeFi, already hit by more than $840 million in hacks this year, is one of the industries with the most to lose if the filters fail.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed)
+
+---
+
+## 2. Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve
+
+**Author:** Shaurya Malwa  
+**Published:** 6/13/2026, 5:00:16 PM  
+**Categories:** Finance, Elon Musk, SpaceX, Bitcoin News, News  
+
+The largest company on public markets now holds bitcoin as a treasury reserve, not as a business model. Its first earnings cycles will test which version of corporate crypto survives a bear market.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve)
+
+---
+
+## 3. Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.
+
+**Author:** John O’Connor  
+**Published:** 6/13/2026, 4:51:00 PM  
+**Categories:** Opinion, Stablecoins, Opinion  
+
+O’Connor argues that crypto’s clearest success story has scaled as money but not as capital.
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash)
+
+---
+
+## 4. Bitcoin rises above $64,000 after Pakistan prime minister says Iran peace deal is near
+
+**Author:** James Van Straten,AI Boost  
+**Published:** 6/13/2026, 4:16:54 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Bitcoin traded above $64,000 on Saturday, supported by its strongest ETF inflows in a month and growing optimism around geopolitical developments.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/13/bitcoin-rises-above-usd64-000-after-pakistan-prime-minister-says-iran-peace-deal-is-near)
+
+---
+
+## 5. Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder
+
+**Author:** Margaux Nijkerk  
+**Published:** 6/13/2026, 4:00:00 PM  
+**Categories:** Finance, Ethereum News, News  
+
+In an interview with CoinDesk, Etherealize cofounder Vivek Raman said Ethereum is currently in a transitional phase where the infrastructure has largely been built, but the scale of adoption has yet to be fully reflected in ETH itself.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder)
+
+---
+
+## 6. Tokenization mirrors the $20 trillion ETF boom as blockchain and AI converge, Ondo exec says
+
+**Author:** Krisztian Sandor  
+**Published:** 6/13/2026, 3:29:00 PM  
+**Categories:** Finance, Tokenization, Artificial Intelligence, News  
+
+Tokenization is laying the groundwork for autonomous investing and real-time portfolio management, Ondo's new head of portfolio products John Hoffman said.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/13/tokenization-mirrors-the-usd20-trillion-etf-boom-as-blockchain-and-ai-converge-ondo-exec-says)
+
+---
+
+## 7. Perpetual futures could become crypto's next ETF moment
+
+**Author:** Helene Braun  
+**Published:** 6/13/2026, 2:00:00 PM  
+**Categories:** Finance, Derivatives, News  
+
+John Palmer, head of derivatives at Kraken, said he expects sophisticated traders to lead adoption of newly approved U.S. perpetual futures, with broader institutional participation likely to follow over time.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/13/perpetual-futures-could-become-crypto-s-next-etf-moment)
+
+---
+
+## 8. Saylor to Musk: Thanks to you, 25% of 'Mag8' firms now hold bitcoin
 
 **Author:** Omkar Godbole  
 **Published:** 6/13/2026, 1:05:40 PM  
@@ -23,7 +107,7 @@ count: 7
 
 ---
 
-## 2. Crypto should adopt the best of centralization, says LMAX CEO
+## 9. Crypto should adopt the best of centralization, says LMAX CEO
 
 **Author:** Will Canny,AI Boost  
 **Published:** 6/13/2026, 1:00:00 PM  
@@ -35,7 +119,7 @@ As digital assets mature the industry should borrow more from traditional market
 
 ---
 
-## 3. Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC
+## 10. Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC
 
 **Author:** Shaurya Malwa  
 **Published:** 6/13/2026, 11:30:00 AM  
@@ -47,7 +131,7 @@ The XRPL AI Starter Kit gives developers tools for agent payments, but early x40
 
 ---
 
-## 4. Top cryptographers can't agree on Bitcoin's biggest quantum question
+## 11. Top cryptographers can't agree on Bitcoin's biggest quantum question
 
 **Author:** Shaurya Malwa  
 **Published:** 6/13/2026, 6:07:00 AM  
@@ -59,7 +143,7 @@ A Coinbase-convened panel says Bitcoin should start preparing for quantum attack
 
 ---
 
-## 5. Anthropic's pre-IPO shares fall as US government shuts down its most powerful AI model
+## 12. Anthropic's pre-IPO shares fall as U.S. government shuts down its most powerful AI model
 
 **Author:** Shaurya Malwa  
 **Published:** 6/13/2026, 6:02:05 AM  
@@ -71,19 +155,19 @@ A jailbreak report prompted Washington to pull Fable 5 and Mythos 5 from all use
 
 ---
 
-## 6. Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue
+## 13. Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue
 
 **Author:** Shaurya Malwa  
 **Published:** 6/13/2026, 5:46:38 AM  
 **Categories:** Markets, News  
 
-A tiny Strategy sale raised a bigger question about Saylor’s never-sell stance, while easing Iran fears and a strong SpaceX debut helped risk assets recover.
+A tiny Strategy sale raised a bigger question about Saylor’s never-sell stance, while easing Iran fears, and a strong SpaceX debut helped risk assets recover.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue)
 
 ---
 
-## 7. SpaceX IPO scramble reveals difference between tokenizing a stock and getting one
+## 14. SpaceX IPO scramble reveals difference between tokenizing a stock and getting one
 
 **Author:** Krisztian Sandor  
 **Published:** 6/13/2026, 5:16:10 AM  
