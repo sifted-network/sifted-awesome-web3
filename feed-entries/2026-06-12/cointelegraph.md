@@ -71,13 +71,13 @@ Polish President Karol Nawrocki vetoed a bill to implement MiCA for the third ti
 
 ---
 
-## 6. KuCoin has not paid $2M award tied to delisted token dispute, investor says
+## 6. Exclusive: KuCoin has not paid $2M award tied to delisted token dispute, investor says
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/12/2026, 1:03:23 PM  
 **Categories:** Latest News  
 
-A Seychelles court said KuCoin can’t treat unwithdrawn tokens as “abandoned,” and awarded a Swiss investor over $2 million. He says the exchange still hasn’t paid and plans to sue again.
+A Seychelles court said KuCoin can’t treat unwithdrawn tokens as “abandoned,” and awarded a Swiss investor over $2 million. He said the exchange still hasn’t paid and plans to sue again.
 
 📖 [Read original article](https://cointelegraph.com/news/kucoin-yet-pay-seychelles-court-order-2m-token-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
