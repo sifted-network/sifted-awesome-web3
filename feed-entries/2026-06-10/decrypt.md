@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-10"
 date: "2026-06-10"
 source: "Decrypt"
-count: 4
+count: 3
 ---
 
 # Decrypt - 2026-06-10
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ In a new essay, Dario Amodei called for binding safety rules for frontier models
 Solana-based decentralized exchange Raydium will repay the funds swiped in the $1.34 million exploit using its treasury.
 
 📖 [Read original article](https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow)
-
----
-
-## 4. Tether, Nvidia and Amazon Back Humanoid Robotics Firm NEURA in $1.4 Billion Funding Round
-
-**Author:** Decrypt Agent  
-**Published:** 6/10/2026, 7:30:32 PM  
-**Categories:** Artificial Intelligence  
-
-Stablecoin giant Tether led a massive Series C round for German robotics firm NEURA, which will embed crypto payment tools and edge AI.
-
-📖 [Read original article](https://decrypt.co/370691/tether-nvidia-amazon-back-neura-robotics-1-4-billion-funding-round)
 
 ---
