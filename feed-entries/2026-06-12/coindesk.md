@@ -203,7 +203,7 @@ XRP posted its strongest session in days on a sharp volume surge, though traders
 
 ---
 
-## 17. Live updates: SpaceX rally loses momentum, while bitcoin trades near $64,000
+## 17. Live updates: SpaceX rallies nearly 20% in first session, while bitcoin trades shy of $64,000
 
 **Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Helene Braun  
 **Published:** 6/12/2026, 6:32:02 AM  
