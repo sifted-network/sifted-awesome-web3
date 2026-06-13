@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-11"
 date: "2026-06-11"
 source: "Cointelegraph"
-count: 10
+count: 7
 ---
 
 # Cointelegraph - 2026-06-11
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ MassPay taps Coinbase to add USDC-powered cross-border payouts, betting stableco
 Executives from Franklin Templeton and BNP Paribas say tokenized assets and stablecoins could improve capital efficiency across Europe as Wall Street expands tokenization efforts.
 
 📖 [Read original article](https://cointelegraph.com/news/liquidity-capital-efficiency-tokenization-adoption-banks-franklin-templeton-bnp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Bitcoin tags $63.2K as BTC price action ignores inflation, Iran Hormuz closure
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 6/11/2026, 1:41:47 PM  
-**Categories:** Markets  
-
-Bitcoin mostly preserved a recent rebound despite the highest US PPI inflation since October 2022 and Iran closing the Strait of Hormuz oil route.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-tags-632k-as-btc-price-action-ignores-new-iran-hormuz-closure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Digital Asset lands $355M as a16z doubles down on Wall Street blockchain rails
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 6/11/2026, 12:59:11 PM  
-**Categories:** Latest News  
-
-Digital Asset raised $355M in an a16z‑led round at a $2B valuation, extending a Wall Street‑backed funding run as banks ramp up pilots on its Canton Network blockchain.
-
-📖 [Read original article](https://cointelegraph.com/news/digital-asset-355m-16z-wall-street-blockchain-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Hungary to reverse crypto trading crackdown after EU scrutiny
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 6/11/2026, 12:52:15 PM  
-**Categories:** Latest News  
-
-Hungary’s government said it will unwind crypto trading restrictions that required approved validation for conversions and exposed users and service providers to criminal liability.
-
-📖 [Read original article](https://cointelegraph.com/news/hungary-decriminalize-crypto-trading-prison-terms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
