@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-11"
 date: "2026-06-11"
 source: "Cointelegraph"
-count: 13
+count: 10
 ---
 
 # Cointelegraph - 2026-06-11
 
-13 items collected.
+10 items collected.
 
 ---
 
@@ -128,41 +128,5 @@ Digital Asset raised $355M in an a16z‑led round at a $2B valuation, extending 
 Hungary’s government said it will unwind crypto trading restrictions that required approved validation for conversions and exposed users and service providers to criminal liability.
 
 📖 [Read original article](https://cointelegraph.com/news/hungary-decriminalize-crypto-trading-prison-terms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Japan crypto bill advances with ETF, tax reform path: Report
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 6/11/2026, 12:17:21 PM  
-**Categories:** Latest News  
-
-Japan’s Lower House reportedly passed a bill that would bring crypto under the country’s financial instruments framework, potentially opening the door to ETFs and lower tax treatment.
-
-📖 [Read original article](https://cointelegraph.com/news/japan-crypto-bill-etf-tax-reform-path?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Audiera’s AI token BEAT beats Bitcoin, Ethereum as price surges 1,500% in a month
-
-**Author:** Cointelegraph by Yashu Gola  
-**Published:** 6/11/2026, 12:08:03 PM  
-**Categories:** Markets  
-
-BEAT has reached its most overbought readings on record, raising the odds of a 35% price decline in the coming days.
-
-📖 [Read original article](https://cointelegraph.com/markets/audieras-ai-token-beat-beats-bitcoin-ethereum-as-price-surges-1500-in-a-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. AI models led to a ‘vulnerability apocalypse’ in crypto security: Immunefi CEO
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/11/2026, 12:01:48 PM  
-**Categories:** Latest News  
-
-The proliferation of new frontier AI models is the main catalyst behind the latest resurgence in DeFi hacks, according to Immunefi CEO Mitchell Amador.
-
-📖 [Read original article](https://cointelegraph.com/news/frontier-ai-models-vulnerability-apocalypse-crypto-security-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
