@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-11"
 date: "2026-06-11"
 source: "Cointelegraph"
-count: 7
+count: 6
 ---
 
 # Cointelegraph - 2026-06-11
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ Bernstein says the 2026 FIFA World Cup could inject billions into prediction mar
 MassPay taps Coinbase to add USDC-powered cross-border payouts, betting stablecoin rails will cut costs and speed up settlement for businesses paying globally.
 
 📖 [Read original article](https://cointelegraph.com/news/masspay-coinbase-partner-stablecoin-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/11/2026, 3:01:27 PM  
-**Categories:** Latest News  
-
-Executives from Franklin Templeton and BNP Paribas say tokenized assets and stablecoins could improve capital efficiency across Europe as Wall Street expands tokenization efforts.
-
-📖 [Read original article](https://cointelegraph.com/news/liquidity-capital-efficiency-tokenization-adoption-banks-franklin-templeton-bnp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
