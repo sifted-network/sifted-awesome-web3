@@ -2,16 +2,28 @@
 title: "The Block - 2026-06-12"
 date: "2026-06-12"
 source: "The Block"
-count: 16
+count: 17
 ---
 
 # The Block - 2026-06-12
 
-16 items collected.
+17 items collected.
 
 ---
 
-## 1. Former SEC Chair Gensler rejects CFTC claim of authority over prediction market sports betting
+## 1. CFTC sues New Mexico in latest bid to assert authority over sports betting markets
+
+**Author:** Sarah Wynn  
+**Published:** 6/12/2026, 8:37:49 PM  
+**Categories:** Legal, Policy, Regulation, CFTC, prediction-markets  
+
+New Mexico is the next state in the CFTC's crosshairs as the fight continues over regulatory jurisdiction over sports betting.
+
+📖 [Read original article](https://www.theblock.co/post/404674/cftc-sues-new-mexico-latest-bid-assert-authority-sports-betting-markets?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Former SEC Chair Gensler rejects CFTC claim of authority over prediction market sports betting
 
 **Author:** Sarah Wynn  
 **Published:** 6/12/2026, 5:49:07 PM  
@@ -23,7 +35,7 @@ Gary Gensler is calling malarkey the claim that the CFTC has jurisdiction over p
 
 ---
 
-## 2. Early Airbnb, DoorDash backer Y Combinator says Clarity Act could bring crypto to ‘every’ portfolio company
+## 3. Early Airbnb, DoorDash backer Y Combinator says Clarity Act could bring crypto to ‘every’ portfolio company
 
 **Author:** RT Watson  
 **Published:** 6/12/2026, 4:51:35 PM  
@@ -35,7 +47,7 @@ Also a backer of companies like Coinbase, OpenAI, Stripe, Reddit, OpenAI and Kal
 
 ---
 
-## 3. Bybit, Binance, Bitget cancel tokenized SpaceX IPO allocations after share shortage
+## 4. Bybit, Binance, Bitget cancel tokenized SpaceX IPO allocations after share shortage
 
 **Author:** Kyle Baird and Daniel Kuhn  
 **Published:** 6/12/2026, 4:12:10 PM  
@@ -47,7 +59,7 @@ All three providers are issuing full refunds and additional compensation to affe
 
 ---
 
-## 4. Appeals court rejects Sam Bankman-Fried’s bid for new trial in FTX fraud case
+## 5. Appeals court rejects Sam Bankman-Fried’s bid for new trial in FTX fraud case
 
 **Author:** Sarah Wynn  
 **Published:** 6/12/2026, 1:47:54 PM  
@@ -59,7 +71,7 @@ Sam Bankman-Fried lost his appeal to overturn his 25-year sentence after accusin
 
 ---
 
-## 5. Exodus, Ondo launch tokenized markets with 200-plus stocks and ETFs on Solana
+## 6. Exodus, Ondo launch tokenized markets with 200-plus stocks and ETFs on Solana
 
 **Author:** Brian Danga  
 **Published:** 6/12/2026, 1:26:25 PM  
@@ -71,7 +83,7 @@ Exodus partnered with Ondo on to launch tokenized trading of 200+ stocks and ETF
 
 ---
 
-## 6. Ethena Labs to allocate $250 million to Securitize’s Tokenized AAA CLO Fund as it deploys on Solana
+## 7. Ethena Labs to allocate $250 million to Securitize’s Tokenized AAA CLO Fund as it deploys on Solana
 
 **Author:** Daniel Kuhn  
 **Published:** 6/12/2026, 1:00:00 PM  
@@ -83,7 +95,7 @@ STAC is one of Securitize’s in-house offerings that provides onchain access to
 
 ---
 
-## 7. US spot Bitcoin ETFs set to hit $2 trillion cumulative trading volume milestone amid mounting outflows
+## 8. US spot Bitcoin ETFs set to hit $2 trillion cumulative trading volume milestone amid mounting outflows
 
 **Author:** James Hunt  
 **Published:** 6/12/2026, 12:52:38 PM  
@@ -95,7 +107,7 @@ BlackRock's IBIT dominates spot Bitcoin exchange-traded funds by trading volume,
 
 ---
 
-## 8. South Korea finance ministry says tokenized stocks are securities, not crypto assets, opening door to taxes: report
+## 9. South Korea finance ministry says tokenized stocks are securities, not crypto assets, opening door to taxes: report
 
 **Author:** Brian Danga  
 **Published:** 6/12/2026, 11:38:22 AM  
@@ -107,7 +119,7 @@ South Korea’s finance ministry said tokenized stocks are securities, opening p
 
 ---
 
-## 9. There is a ‘fundamental clash’ between bitcoin and institutionalization, says BTC circular economy project founder
+## 10. There is a ‘fundamental clash’ between bitcoin and institutionalization, says BTC circular economy project founder
 
 **Author:** Danny Park  
 **Published:** 6/12/2026, 10:30:53 AM  
@@ -119,7 +131,7 @@ Bitcoin Ekasi's Hermann Vivier emphasized that bitcoin's store-of-value narrativ
 
 ---
 
-## 10. Bitwise’s Dragosch sees up to 20% further downside for bitcoin, puts ‘max pain’ scenario at $48,000
+## 11. Bitwise’s Dragosch sees up to 20% further downside for bitcoin, puts ‘max pain’ scenario at $48,000
 
 **Author:** Brian Danga  
 **Published:** 6/12/2026, 10:02:30 AM  
@@ -131,7 +143,7 @@ Bitwise's Dragosch sees up to 20% more bitcoin downside, with the long-term hold
 
 ---
 
-## 11. Metaplanet to acquire Siiibo Securities for $13 million to develop bitcoin-linked yield products
+## 12. Metaplanet to acquire Siiibo Securities for $13 million to develop bitcoin-linked yield products
 
 **Author:** Timmy Shen  
 **Published:** 6/12/2026, 9:39:38 AM  
@@ -143,7 +155,7 @@ Metaplanet CEO Simon Gerovich said the deal is expected to close in July, and th
 
 ---
 
-## 12. AI buildout weighs on bitcoin demand but future gains could reverse trend, Relai CEO says
+## 13. AI buildout weighs on bitcoin demand but future gains could reverse trend, Relai CEO says
 
 **Author:** Timmy Shen  
 **Published:** 6/12/2026, 9:00:55 AM  
@@ -155,7 +167,7 @@ Julian Liniger, CEO of Relai, said the current bitcoin bear market is driven in 
 
 ---
 
-## 13. BlackRock files 8-A for yield-bearing bitcoin ETF; analyst expects launch next week
+## 14. BlackRock files 8-A for yield-bearing bitcoin ETF; analyst expects launch next week
 
 **Author:** Danny Park  
 **Published:** 6/12/2026, 5:39:00 AM  
@@ -167,7 +179,7 @@ Bloomberg Analyst Eric Balchunas said the filing signals an imminent launch, add
 
 ---
 
-## 14. Avalanche Treasury shares fall 38% on Nasdaq debut after $675 million merger
+## 15. Avalanche Treasury shares fall 38% on Nasdaq debut after $675 million merger
 
 **Author:** Timmy Shen  
 **Published:** 6/12/2026, 5:14:10 AM  
@@ -179,7 +191,7 @@ The company intends to accelerate the growth of the Avalanche ecosystem and plan
 
 ---
 
-## 15. SEC’s proposal to scrap key NMS rules a major unlock for tokenized US stocks: analysts
+## 16. SEC’s proposal to scrap key NMS rules a major unlock for tokenized US stocks: analysts
 
 **Author:** Danny Park  
 **Published:** 6/12/2026, 4:15:13 AM  
@@ -191,7 +203,7 @@ Galaxy's Thorn said this would remove barriers that prevented DeFi automated mar
 
 ---
 
-## 16. ‘Anarchistic neobanks’ are bitcoin’s next frontier, says Blockrise CEO
+## 17. ‘Anarchistic neobanks’ are bitcoin’s next frontier, says Blockrise CEO
 
 **Author:** Kyle Baird  
 **Published:** 6/12/2026, 12:01:02 AM  
