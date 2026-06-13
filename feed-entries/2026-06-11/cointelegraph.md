@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-11"
 date: "2026-06-11"
 source: "Cointelegraph"
-count: 6
+count: 4
 ---
 
 # Cointelegraph - 2026-06-11
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ ETH traders increased their long positions as Ether price traded near 2026 lows.
 XRP is forming head-and-shoulders and bear flag setups on its shorter-timeframe chart, both indicating a dip below $1 in the coming days.
 
 📖 [Read original article](https://cointelegraph.com/markets/three-signs-that-xrp-price-risks-falling-below-1-in-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Coinbase eyes World Cup boost as prediction markets surge: Bernstein
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 6/11/2026, 5:57:06 PM  
-**Categories:** Latest News  
-
-Bernstein says the 2026 FIFA World Cup could inject billions into prediction markets, with Coinbase and Robinhood positioned to capture a wave of new users.
-
-📖 [Read original article](https://cointelegraph.com/news/coinbase-world-cup-prediction-market-boost-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. MassPay taps Coinbase to expand stablecoin payouts
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 6/11/2026, 4:00:00 PM  
-**Categories:** Latest News  
-
-MassPay taps Coinbase to add USDC-powered cross-border payouts, betting stablecoin rails will cut costs and speed up settlement for businesses paying globally.
-
-📖 [Read original article](https://cointelegraph.com/news/masspay-coinbase-partner-stablecoin-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
