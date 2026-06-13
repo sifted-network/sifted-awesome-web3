@@ -6,24 +6,24 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [gnark](https://github.com/Consensys/gnark) | 1,718 | 523 | Go | 67 | gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license | 2026-06-10 |
+| 1 | [gnark](https://github.com/Consensys/gnark) | 1,719 | 522 | Go | 65 | gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license | 2026-06-12 |
 | 2 | [starkscan-verifier](https://github.com/starkscan/starkscan-verifier) | 1,264 | 251 | TypeScript | 9 | Verify Cairo contracts on Starkscan in 1 minute. | 2024-06-02 |
-| 3 | [starknet.js](https://github.com/starknet-io/starknet.js) | 1,262 | 828 | TypeScript | 43 | JavaScript library for Starknet | 2026-06-10 |
+| 3 | [starknet.js](https://github.com/starknet-io/starknet.js) | 1,262 | 828 | TypeScript | 43 | JavaScript library for Starknet | 2026-06-12 |
 | 4 | [bazuka](https://github.com/ziesha-network/bazuka) | 1,058 | 451 | Rust | 2 | Rust implementation of Ziesha protocol | 2023-10-12 |
 | 5 | [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) | 913 | 397 | Rust | 23 | OpenZeppelin Contracts written in Cairo for Starknet, a decentralized ZK Rollup | 2026-06-08 |
-| 6 | [sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) | 476 | 183 | Rust | 173 | A flexible toolkit for building real-time blockchains | 2026-06-10 |
+| 6 | [sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) | 475 | 181 | Rust | 173 | A flexible toolkit for building real-time blockchains | 2026-06-12 |
 | 7 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 470 | 51 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2023-12-24 |
 | 8 | [starknet.py](https://github.com/software-mansion/starknet.py) | 276 | 88 | Python | 14 | ✨ 🐍    Python SDK for Starknet. | 2026-06-03 |
-| 9 | [ethernal](https://github.com/tryethernal/ethernal) | 267 | 71 | JavaScript | 4 | Ethernal is a block explorer for EVM-based chains. In a few seconds, spin up a fully-featured explorer for your L1/L2 rollup/testnet. Compatible with Optimism, ZK, Anvil, Hardhat, Geth... | 2026-06-10 |
+| 9 | [ethernal](https://github.com/tryethernal/ethernal) | 267 | 71 | JavaScript | 4 | Ethernal is a block explorer for EVM-based chains. In a few seconds, spin up a fully-featured explorer for your L1/L2 rollup/testnet. Compatible with Optimism, ZK, Anvil, Hardhat, Geth... | 2026-06-12 |
 | 10 | [zkopru](https://github.com/zkopru-network/zkopru) | 219 | 27 | TypeScript | 68 | Ethereum L2 scaling solution for private transactions using zk-SNARK and optimistic rollup. | 2023-01-24 |
 | 11 | [intmax-rollup-cli](https://github.com/InternetMaximalism/intmax-rollup-cli) | 117 | 34 | Rust | 2 | intmax ZK rollup for client side | 2024-02-12 |
 | 12 | [rollup](https://github.com/matter-labs-archive/rollup) | 106 | 21 | Rust | 1 | Matter Labs' ZK Rollup | 2021-01-05 |
 | 13 | [old_identity](https://github.com/lfglabs-dev/old_identity) | 103 | 48 | Cairo | 0 | Contract of the starknet identity base NFT | 2023-10-09 |
-| 14 | [alpen](https://github.com/alpenlabs/alpen) | 102 | 26 | Rust | 2 | Rust implementation of the Alpen protocol | 2026-06-11 |
+| 14 | [alpen](https://github.com/alpenlabs/alpen) | 102 | 26 | Rust | 2 | Rust implementation of the Alpen protocol | 2026-06-12 |
 | 15 | [validity-rollups](https://github.com/john-light/validity-rollups) | 102 | 8 | - | 2 | Validity rollup resources | 2024-08-13 |
 | 16 | [sourceCode-zkSync-era-rollupContract-code-learning](https://github.com/LuozhuZhang/sourceCode-zkSync-era-rollupContract-code-learning) | 101 | 35 | Rust | 0 | source code of zkSync Contract | 2024-02-14 |
 | 17 | [eth-mimblewimble](https://github.com/ethereum934/eth-mimblewimble) | 80 | 10 | Python | 2 | Ethereum 9 3/4's zk-SNARKs circuits and the python library for Mimblewimble on Ethereum | 2022-12-10 |
-| 18 | [kailua](https://github.com/boundless-xyz/kailua) | 70 | 33 | Rust | 0 | The Ultimate ZK Proving Software Suite for Securing OP Rollups | 2026-06-10 |
+| 18 | [kailua](https://github.com/boundless-xyz/kailua) | 70 | 32 | Rust | 0 | The Ultimate ZK Proving Software Suite for Securing OP Rollups | 2026-06-12 |
 | 19 | [Airchain-testnet](https://github.com/0xmoei/Airchain-testnet) | 64 | 52 | - | 1 | Guide on deploying a zk-rollup via Airchain | 2024-07-12 |
 | 20 | [zkos](https://github.com/starkoracles/zkos) | 61 | 8 | Rust | 0 | Cross-zk-rollup aggregation | 2023-02-17 |
 | 21 | [app.starknet.id](https://github.com/lfglabs-dev/app.starknet.id) | 61 | 137 | TypeScript | 25 | Identity Service for Starknet | 2026-04-05 |
@@ -34,13 +34,13 @@
 | 26 | [ZKRollups](https://github.com/AstarNetwork/ZKRollups) | 41 | 14 | TypeScript | 1 | ZK Rollups pallet implementation  | 2022-06-15 |
 | 27 | [simple-zk-rollups](https://github.com/kendricktan/simple-zk-rollups) | 39 | 12 | TypeScript | 0 | Simple zk roll-ups | 2023-01-24 |
 | 28 | [fluidex-backend](https://github.com/fluidex/fluidex-backend) | 39 | 9 | Shell | 17 | Building the first permissionless layer2 orderbook DEX on Ethereum, powered by PLONK zk-rollup | 2022-01-13 |
-| 29 | [zeko](https://github.com/zeko-labs/zeko) | 35 | 13 | OCaml | 2 | Zeko: ZK rollup protocol | 2026-06-08 |
+| 29 | [zeko](https://github.com/zeko-labs/zeko) | 36 | 13 | OCaml | 2 | Zeko: ZK rollup protocol | 2026-06-08 |
 | 30 | [intmax-zkp-core](https://github.com/InternetMaximalism/intmax-zkp-core) | 34 | 9 | Rust | 0 | Plonky2 implementation for intmax ZK rollup | 2023-05-12 |
 | 31 | [mina-zk-rollup](https://github.com/Trivo25/mina-zk-rollup) | 30 | 2 | TypeScript | 22 | A modular zk-Rollup for zero knowledge smart contracts, zkApps, on the Mina blockchain. | 2023-04-16 |
 | 32 | [zk-rollup-module-for-Cosmos-SDK](https://github.com/b-harvest/zk-rollup-module-for-Cosmos-SDK) | 24 | 2 | - | 1 | This repository is for explaining objectives and technical description of how B-Harvest will implement zk-rollup module for Cosmos-SDK | 2020-08-27 |
 | 33 | [liszt](https://github.com/Consensys/liszt) | 22 | 5 | Java | 5 | zk-rollup  | 2023-04-10 |
 | 34 | [Orbis](https://github.com/Orbis-Tertius/Orbis) | 22 | 1 | - | 47 | A general-purpose layer 2 zk-rollup scaling solution for Cardano | 2022-09-28 |
-| 35 | [sync-rollups-protocol](https://github.com/eez-association/sync-rollups-protocol) | 20 | 8 | Solidity | 2 | Smart contracts to manage synchronous rollups in Ethereum using ZK proofs | 2026-06-11 |
+| 35 | [eez-core-protocol](https://github.com/eez-association/eez-core-protocol) | 21 | 8 | Solidity | 4 | Smart contracts to manage synchronous rollups in Ethereum using ZK proofs | 2026-06-12 |
 | 36 | [nacho](https://github.com/berzanorg/nacho) | 20 | 0 | Rust | 0 | Nacho is a zk rollup where you can bridge and swap tokens. | 2024-05-10 |
 | 37 | [solana-zk-proof-example](https://github.com/wkennedy/solana-zk-proof-example) | 19 | 2 | Rust | 2 | A tutorial on creating a Groth16 proof and verifying it on-chain in a Solana | 2024-10-10 |
 | 38 | [zkwasm-mini-rollup](https://github.com/DelphinusLab/zkwasm-mini-rollup) | 18 | 14 | Rust | 0 | A Minimised REST service framework coded in WASM (RUST) and the full service runs in the ZKWASM | 2025-12-24 |
@@ -63,7 +63,7 @@
 | 55 | [taco-parallel-zk-rollup](https://github.com/berzanorg/taco-parallel-zk-rollup) | 7 | 1 | - | 2 | Taco Parallel Zk Rollup Specification | 2024-07-10 |
 | 56 | [chaineye-zk-layer2](https://github.com/the-web3-chain/chaineye-zk-layer2) | 7 | 2 | - | 0 | zk rollup layer2 中文教程， 每周更新 1-3 讲 | 2023-10-20 |
 | 57 | [pm](https://github.com/starknet-io/pm) | 7 | 1 | - | 5 | Official coordination repository for Starknet All Core Devs meetings. Comprehensive meeting notes, agendas, and technical discussions for Starknet protocol development. | 2026-03-12 |
-| 58 | [jmdn](https://github.com/JupiterMetaLabs/jmdn) | 7 | 0 | Go | 1 | JMDT Decentralized Network codebase | 2026-06-10 |
+| 58 | [jmdn](https://github.com/JupiterMetaLabs/jmdn) | 7 | 0 | Go | 1 | JMDT Decentralized Network codebase | 2026-06-12 |
 | 59 | [ethernc](https://github.com/baratwellm2/ethernc) | 6 | 0 | - | 3 | Ethernal is a block explorer for EVM-based chains. In a few seconds, spin up a fully-featured explorer for your L1/L2 rollup/testnet. Compatible with Optimism, ZK, Anvil, Hardhat, Geth... | 2025-10-28 |
 | 60 | [hermez_flutter_sdk](https://github.com/hermeznetwork/hermez_flutter_sdk) | 5 | 11 | Dart | 1 | Flutter Plugin to use the Hermez SDK | 2023-01-20 |
 | 61 | [loopring-pay](https://github.com/nicemarcela/loopring-pay) | 4 | 5 | JavaScript | 3 | Frontend of the zkRollup Payment Protocol of Loopring on Ethereum Mainnet. | 2026-02-22 |
@@ -79,8 +79,8 @@
 | 71 | [Zilch-monorepo](https://github.com/cryptohariseldon/Zilch-monorepo) | 2 | 2 | Rust | 0 | Scripts and Examples to test Zilch ZK-rollups on Solana | 2023-02-24 |
 | 72 | [zkRollup](https://github.com/sjuanati/zkRollup) | 2 | 0 | JavaScript | 0 | zkRollup using zkSync | 2021-02-24 |
 | 73 | [Bull-ZKRollup-L2-PMM-spec](https://github.com/BullProtocol/Bull-ZKRollup-L2-PMM-spec) | 2 | 1 | - | 0 | BullSwap ZK-Rollup L2 Specification | 2021-02-20 |
-| 74 | [zk_rollup](https://github.com/armanfm/zk_rollup) | 2 | 0 | Rust | 0 |  | 2025-10-25 |
-| 75 | [ZK-Rollup](https://github.com/Teja2045/ZK-Rollup) | 2 | 0 | Go | 0 |  | 2024-05-17 |
+| 74 | [ZK-Rollup](https://github.com/Teja2045/ZK-Rollup) | 2 | 0 | Go | 0 |  | 2024-05-17 |
+| 75 | [zk_rollup](https://github.com/armanfm/zk_rollup) | 2 | 0 | Rust | 0 |  | 2025-10-25 |
 | 76 | [zk-Rollup](https://github.com/joris68/zk-Rollup) | 2 | 0 | Python | 1 | Layer 2 Scalability Solution for Ethereum using Zero-Knowledge Proofs | 2025-07-24 |
 | 77 | [l2-scaling-research](https://github.com/Sukoed/l2-scaling-research) | 2 | 2 | Python | 0 | Technical research and comparison of Layer 2 scaling solutions. Focus on optimistic rollups and ZK-proof data availability | 2026-01-19 |
 | 78 | [Drippy](https://github.com/fraykifli/Drippy) | 2 | 1 | - | 0 | A Perpetual Dex for ZK-Rollup | 2023-06-17 |
