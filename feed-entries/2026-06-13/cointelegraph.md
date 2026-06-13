@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-06-13"
 date: "2026-06-13"
 source: "Cointelegraph"
-count: 5
+count: 6
 ---
 
 # Cointelegraph - 2026-06-13
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Morpho's $175M raise shows where crypto VC money is flowing
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 6/13/2026, 11:52:41 AM  
+**Categories:** Latest News  
+
+Morpho’s recent $175 million raise reflects growing investor bets on onchain credit infrastructure as stablecoin adoption expands.
+
+📖 [Read original article](https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/13/2026, 5:47:00 AM  
@@ -23,7 +35,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. ETH futures flash bearish signal, but stakers’ resilience points to underlying strength
+## 3. ETH futures flash bearish signal, but stakers’ resilience points to underlying strength
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 6/13/2026, 3:24:05 AM  
@@ -35,7 +47,7 @@ Demand for ETH leverage remains low, but corporate accumulation and stakers’ d
 
 ---
 
-## 3. Anthropic suspends access to Fable 5, Mythos 5, citing US directive
+## 4. Anthropic suspends access to Fable 5, Mythos 5, citing US directive
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/13/2026, 2:37:40 AM  
@@ -47,7 +59,7 @@ Anthropic has abruptly disabled its flagship AI models after a US government dir
 
 ---
 
-## 4. Major crypto exchanges cancel SpaceX IPO allocations, promising refunds
+## 5. Major crypto exchanges cancel SpaceX IPO allocations, promising refunds
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/13/2026, 2:17:55 AM  
@@ -59,7 +71,7 @@ Elon Musk’s SpaceX completed its landmark IPO on the Nasdaq on Friday, but cry
 
 ---
 
-## 5. Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research
+## 6. Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research
 
 **Author:** Cointelegraph by Biraajmaan Tamuly  
 **Published:** 6/13/2026, 12:51:36 AM  
