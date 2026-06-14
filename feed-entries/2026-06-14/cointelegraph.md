@@ -1,0 +1,48 @@
+---
+title: "Cointelegraph - 2026-06-14"
+date: "2026-06-14"
+source: "Cointelegraph"
+count: 3
+---
+
+# Cointelegraph - 2026-06-14
+
+3 items collected.
+
+---
+
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Cointelegraph  
+**Published:** 6/14/2026, 5:32:00 AM  
+**Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Trump says Iran peace deal to be signed Sunday, contradicting Tehran
+
+**Author:** Cointelegraph by Cointelegraph  
+**Published:** 6/14/2026, 5:07:31 AM  
+**Categories:** Latest News  
+
+Crypto analyst Michaël van de Poppe said a peace deal, which would reopen the Strait of Hormuz, would likely send liquidity back to risk-on assets such as cryptocurrencies.
+
+📖 [Read original article](https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Amazon warning triggered US crackdown on Anthropic AI models: Reports
+
+**Author:** Cointelegraph by Cointelegraph  
+**Published:** 6/14/2026, 3:36:49 AM  
+**Categories:** Latest News  
+
+Calls from Amazon CEO Andy Jassy and other tech firms prompted the Trump administration to suspend foreign access to Anthropic’s Fable 5 and Mythos 5 AI models on Friday.
+
+📖 [Read original article](https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
