@@ -12,12 +12,12 @@
 | 4 | [git-standup](https://github.com/nilbuild/git-standup) | 7,842 | 319 | Shell | 18 | Recall what you or your team did on the last working day | 2025-07-07 |
 | 5 | [didact](https://github.com/pomber/didact) | 6,750 | 547 | JavaScript | 23 | A DIY guide to build your own React | 2026-01-31 |
 | 6 | [why-did-you-update](https://github.com/garbles/why-did-you-update) | 4,930 | 80 | JavaScript | 20 | :boom: Puts your console on blast when React is making unnecessary updates. | 2017-09-23 |
-| 7 | [DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite) | 2,491 | 592 | Python | 0 | Please no pull requests for this repository. Thanks! | 2026-05-23 |
+| 7 | [DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite) | 2,492 | 592 | Python | 0 | Please no pull requests for this repository. Thanks! | 2026-05-23 |
 | 8 | [DiDOM](https://github.com/Imangazaliev/DiDOM) | 2,199 | 200 | PHP | 26 | Simple and fast HTML and XML parser | 2026-01-28 |
 | 9 | [CourseraML](https://github.com/kaleko/CourseraML) | 2,049 | 780 | Jupyter Notebook | 3 | I took Andrew Ng's Machine Learning course on Coursera and did the homework assigments... but, on my own in python because I love jupyter notebooks! | 2018-10-30 |
 | 10 | [did_you_mean](https://github.com/ruby/did_you_mean) | 1,880 | 114 | Ruby | 6 | The gem that has been saving people from typos since 2014 | 2026-03-26 |
 | 11 | [DiDiPrism](https://github.com/didi/DiDiPrism) | 1,743 | 201 | Objective-C | 4 | 小桔棱镜，一款专注移动端操作行为的利器！ A powerful tool (iOS & Android) that focuses on mobile operation behavior! | 2025-05-22 |
-| 12 | [rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) | 1,549 | 18 | - | 10 | 😵 GitHub achievements that did not make the cut. | 2023-08-21 |
+| 12 | [rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) | 1,550 | 18 | - | 10 | 😵 GitHub achievements that did not make the cut. | 2023-08-21 |
 | 13 | [ion](https://github.com/decentralized-identity/ion) | 1,231 | 167 | HTML | 72 | The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin | 2023-08-25 |
 | 14 | [langchain-extract](https://github.com/langchain-ai/langchain-extract) | 1,196 | 123 | Rich Text Format | 22 | 🦜⛏️ Did you say you like data? | 2026-02-10 |
 | 15 | [DiDiCallCar](https://github.com/18601949127/DiDiCallCar) | 1,158 | 385 | Java | 9 | 这是我自己做的一个类似滴滴打车的Android出行项目，主要针对滴滴等出行平台一直饱受质疑的“人车不符”问题，以及当前越发火热的或计划和出海战略，给出行项目增加了下面几个功能：  1. RFID识别验证功能：在司机证件或者车内识别硬件嵌入RFID识别芯片，乘客使用手机读取到芯片信息，并且通过网络发送到出行平台数据库进行验证（我用JNI加了一个C语言的MD5加密算法对识别到的信息进行了加密）。如果不... | 2019-10-31 |
@@ -28,13 +28,13 @@
 | 20 | [my_toy_compiler](https://github.com/lsegal/my_toy_compiler) | 856 | 219 | C++ | 0 | My Toy Compiler. Read about how I did it at the homepage URL | 2024-04-17 |
 | 21 | [gitjk](https://github.com/mapmeld/gitjk) | 823 | 13 | JavaScript | 6 | Undo what you just did in git | 2020-07-17 |
 | 22 | [SnakeFusion](https://github.com/Code-Bullet/SnakeFusion) | 802 | 208 | Processing | 4 | Using the genetic algorithm and neural networks I trained up 5 snakes who will then fuse to become the ultimate snake, this is how I did it | 2020-10-15 |
-| 23 | [obsidian-osint-templates](https://github.com/WebBreacher/obsidian-osint-templates) | 788 | 131 | - | 0 | These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation. The example data in those files should allow you to make some connections (see what I did... | 2024-08-12 |
+| 23 | [obsidian-osint-templates](https://github.com/WebBreacher/obsidian-osint-templates) | 789 | 131 | - | 0 | These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation. The example data in those files should allow you to make some connections (see what I did... | 2024-08-12 |
 | 24 | [AutoDidact](https://github.com/dCaples/AutoDidact) | 689 | 63 | Jupyter Notebook | 5 | Autonomously train research-agent LLMs on custom data using reinforcement learning and self-verification. | 2025-03-22 |
-| 25 | [atproto](https://github.com/MarshalX/atproto) | 653 | 76 | Python | 10 | The AT Protocol (🦋 Bluesky) SDK for Python 🐍 | 2026-06-12 |
+| 25 | [atproto](https://github.com/MarshalX/atproto) | 653 | 76 | Python | 10 | The AT Protocol (🦋 Bluesky) SDK for Python 🐍 | 2026-06-14 |
 | 26 | [Memento](https://github.com/apirrone/Memento) | 651 | 58 | Python | 20 | Memento is a Python app that records everything you do on your computer and lets you go back in time, search, and chat with a LLM (Large Language Model) to find back information about what you did. | 2024-04-23 |
 | 27 | [sonr](https://github.com/sonr-io/sonr) | 643 | 38 | Go | 15 | A Decentralized Identity Network built for the InterChain 🌐 | 2025-12-15 |
 | 28 | [nmap-did-what](https://github.com/hackertarget/nmap-did-what) | 636 | 122 | Python | 5 | Nmap Dashboard Mini Project | 2024-06-12 |
-| 29 | [veramo](https://github.com/decentralized-identity/veramo) | 539 | 136 | TypeScript | 68 | A JavaScript Framework for Verifiable Data | 2026-06-13 |
+| 29 | [veramo](https://github.com/decentralized-identity/veramo) | 540 | 137 | TypeScript | 68 | A JavaScript Framework for Verifiable Data | 2026-06-13 |
 | 30 | [Giveme5W1H](https://github.com/fhamborg/Giveme5W1H) | 533 | 86 | HTML | 28 | Extraction of the journalistic five W and one H questions (5W1H) from news articles: who did what, when, where, why, and how? | 2024-10-25 |
 | 31 | [dida](https://github.com/jamii/dida) | 529 | 17 | Zig | 0 | Differential dataflow for mere mortals | 2022-04-14 |
 | 32 | [DiD](https://github.com/asjadnaqvi/DiD) | 525 | 172 | HTML | 5 | Keeping track of what is going on with the latest DiD innovations. | 2026-01-16 |
@@ -43,24 +43,24 @@
 | 35 | [did](https://github.com/w3c/did) | 475 | 106 | HTML | 16 | W3C Decentralized Identifier Specification | 2026-03-05 |
 | 36 | [DidIStealThis](https://github.com/zymtom/DidIStealThis) | 445 | 0 | Python | 0 | A small script made to idenitfy wether or not code is stolen | 2024-04-05 |
 | 37 | [sidetree](https://github.com/decentralized-identity/sidetree) | 437 | 114 | HTML | 37 | Sidetree Specification and Reference Implementation | 2024-12-12 |
-| 38 | [did](https://github.com/bcallaway11/did) | 403 | 131 | HTML | 6 | Difference in Differences with Multiple Periods, website: https://bcallaway11.github.io/did | 2026-06-10 |
+| 38 | [did](https://github.com/bcallaway11/did) | 403 | 131 | HTML | 6 | Difference in Differences with Multiple Periods, website: https://bcallaway11.github.io/did | 2026-06-13 |
 | 39 | [awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity) | 393 | 80 | - | 2 | An awesome list of self-sovereign identity resources. | 2025-11-11 |
 | 40 | [cJSON](https://github.com/kbranigan/cJSON) | 393 | 228 | C | 6 | I did not write this code, but I like it. | 2019-10-01 |
 | 41 | [faded](https://github.com/theapache64/faded) | 386 | 27 | Kotlin | 2 | ✨ Client did not pay? Add opacity to UI components and decrease it every day until their app completely fades away. | 2021-01-19 |
 | 42 | [googleimagesrestored](https://github.com/fanfare/googleimagesrestored) | 373 | 25 | JavaScript | 0 | This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019. | 2023-09-21 |
-| 43 | [did-jwt](https://github.com/decentralized-identity/did-jwt) | 372 | 75 | TypeScript | 5 | Create and verify DID verifiable JWT's in Javascript | 2026-06-10 |
+| 43 | [did-jwt](https://github.com/decentralized-identity/did-jwt) | 372 | 75 | TypeScript | 5 | Create and verify DID verifiable JWT's in Javascript | 2026-06-13 |
 | 44 | [didact-explain](https://github.com/chinanf-boy/didact-explain) | 367 | 53 | - | 0 | 🇨🇳翻译: 「 Didact 」 DIY React  ❤ 更新 ✔ | 2024-03-21 |
 | 45 | [OSCP-Stuff](https://github.com/tjnull/OSCP-Stuff) | 363 | 75 | PowerShell | 0 | List of Stuff I did to get through the OSCP :D | 2025-12-18 |
 | 46 | [didi](https://github.com/WsmDyj/didi) | 361 | 92 | JavaScript | 6 | 🚕Imitating didi taxi wechat applet, in continuous update, the main business process, data encapsulation and request are realized, and the applet will continue to update... | 2019-01-15 |
 | 47 | [Imitation-DIDI-project](https://github.com/zepang/Imitation-DIDI-project) | 361 | 91 | Vue | 1 | vue练手学习项目 | 2017-06-12 |
-| 48 | [xhs_spider](https://github.com/xhs996/xhs_spider) | 358 | 30 | Python | 3 | 小红书数据采集、小红书Token、小红书Cookie、xsec_token生成、小红书App shield算法、小红书web算法、小红书爬虫、小红书采集、小红书数据、小红书账号、小红书逆向、小红书搜索、小红书笔记、小红书主页、小红书点赞、小红书评论、小红书作品、xsec_token、x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-min... | 2026-06-06 |
+| 48 | [xhs_spider](https://github.com/xhs996/xhs_spider) | 358 | 30 | Python | 3 | 小红书数据采集、小红书Token、小红书Cookie、xsec_token生成、小红书App shield算法、小红书web算法、小红书爬虫、小红书采集、小红书数据、小红书账号、小红书逆向、小红书搜索、小红书笔记、小红书主页、小红书点赞、小红书评论、小红书作品、xsec_token、x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-min... | 2026-06-13 |
 | 49 | [DiDi](https://github.com/DBatUTuebingen/DiDi) | 356 | 11 | C | 1 | Dissecting the Duck's Innards — A DuckDB-based course on the Design and Implementation of Database System Internals | 2026-04-07 |
 | 50 | [Diddy-Kong-Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) | 353 | 39 | C | 1 |  | 2026-05-10 |
 | 51 | [identity](https://github.com/iotaledger/identity) | 350 | 101 | Rust | 91 | Implementation of the Decentralized Identity standards such as DID and Verifiable Credentials by W3C for the IOTA MoveVM.  | 2026-06-12 |
 | 52 | [credo-ts](https://github.com/openwallet-foundation/credo-ts) | 345 | 248 | TypeScript | 247 | Typescript framework for building decentralized identity and verifiable credential solutions | 2026-06-13 |
-| 53 | [SHM-MOD](https://github.com/ITDev93/SHM-MOD) | 323 | 4 | - | 0 | A repo to put the SHM MOD Changelog for the Companion to fetch... DID YOU KNOW? - SHM MOD is maintained by me since August 2020, and Companion was created on June 2021... RIP SHM MOD 2020 - 2025... | 2025-12-28 |
+| 53 | [SHM-MOD](https://github.com/ITDev93/SHM-MOD) | 322 | 4 | - | 0 | A repo to put the SHM MOD Changelog for the Companion to fetch... DID YOU KNOW? - SHM MOD is maintained by me since August 2020, and Companion was created on June 2021... RIP SHM MOD 2020 - 2025... | 2025-12-28 |
 | 54 | [did-method-plc](https://github.com/did-method-plc/did-method-plc) | 321 | 64 | TypeScript | 28 | Public Ledger of Credentials: a cryptographic, strongly-consistent, and recoverable DID method | 2026-02-03 |
-| 55 | [anp](https://github.com/agent-network-protocol/anp) | 321 | 52 | Python | 10 | Our vision is to provide communication capabilities for intelligent agents, allowing them to connect with each other to form a collaborative network of intelligent agents. | 2026-06-10 |
+| 55 | [anp](https://github.com/agent-network-protocol/anp) | 321 | 52 | Python | 10 | Our vision is to provide communication capabilities for intelligent agents, allowing them to connect with each other to form a collaborative network of intelligent agents. | 2026-06-13 |
 | 56 | [didkit](https://github.com/spruceid/didkit) | 319 | 86 | Rust | 46 | A cross-platform toolkit for decentralized identity. | 2025-07-10 |
 | 57 | [better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) | 318 | 8 | Go | 3 | Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI 'http client' to make api reusability simple. | 2026-04-23 |
 | 58 | [how-did-i-get-here](https://github.com/hackclub/how-did-i-get-here) | 303 | 13 | TypeScript | 0 | A tool/website/article by @kognise about how routing on the Internet works. | 2025-11-08 |
@@ -79,7 +79,7 @@
 | 71 | [Some_RPI-Pico_stuff](https://github.com/GitJer/Some_RPI-Pico_stuff) | 235 | 31 | C++ | 2 | Some experiments I did with the Raspberry Pi Pico | 2024-05-08 |
 | 72 | [Programming-Aptitude-Interview-Prep](https://github.com/SAKET-SK/Programming-Aptitude-Interview-Prep) | 234 | 28 | Java | 0 | The exact prep I did for coding rounds; all programming aptitude questions and answers are sourced from the internet for preparation and to understand the logic-building approach. If you wish to contr... | 2026-02-20 |
 | 73 | [did-resolver](https://github.com/decentralized-identity/did-resolver) | 231 | 48 | TypeScript | 4 | Universal did-resolver for javascript environments | 2026-06-08 |
-| 74 | [ethr-did-resolver](https://github.com/decentralized-identity/ethr-did-resolver) | 231 | 82 | TypeScript | 5 | DID resolver for Ethereum Addresses with support for key management | 2026-06-12 |
+| 74 | [ethr-did-resolver](https://github.com/decentralized-identity/ethr-did-resolver) | 231 | 82 | TypeScript | 5 | DID resolver for Ethereum Addresses with support for key management | 2026-06-13 |
 | 75 | [hid-node](https://github.com/hypersign-protocol/hid-node) | 221 | 25 | Go | 2 | A permissionless blockchain network to manage digital identity and access rights | 2026-01-29 |
 | 76 | [Remote-Desktop-Caching-](https://github.com/Viralmaniar/Remote-Desktop-Caching-) | 220 | 56 | Python | 2 | This tool allows one to recover old RDP (mstsc) session information in the form of broken PNG files. These PNG files allows Red Team member to extract juicy information such as LAPS passwords or any s... | 2018-08-04 |
 | 77 | [didyoumean](https://github.com/hisbaan/didyoumean) | 215 | 9 | Rust | 1 | A CLI spelling corrector for when you're unsure | 2026-05-28 |
@@ -96,13 +96,13 @@
 | 88 | [did-demo-server](https://github.com/OmniOneID/did-demo-server) | 196 | 130 | Java | 0 |  | 2026-04-23 |
 | 89 | [did-cli-tool-server](https://github.com/OmniOneID/did-cli-tool-server) | 195 | 117 | Java | 0 | Provide an SDK for generating a server wallet and DID document. | 2025-06-30 |
 | 90 | [a2billing](https://github.com/Star2Billing/a2billing) | 195 | 176 | PHP | 60 | A2Billing is a telecom switch and billing system capable of providing and billing a range of telecom products and services to customers such as calling card products, residential and wholesale VoIP te... | 2023-01-30 |
-| 91 | [did-ca-server](https://github.com/OmniOneID/did-ca-server) | 194 | 125 | Java | 0 | did-ca-backend | 2026-06-09 |
+| 91 | [did-ca-server](https://github.com/OmniOneID/did-ca-server) | 194 | 125 | Java | 0 | did-ca-backend | 2026-06-14 |
 | 92 | [did-fabric-contract](https://github.com/OmniOneID/did-fabric-contract) | 194 | 119 | Go | 0 | Provide resources for developing and managing smart contracts on the Hyperledger Fabric blockchain. | 2025-12-30 |
 | 93 | [pcap-did-what](https://github.com/hackertarget/pcap-did-what) | 194 | 17 | Python | 0 | Analyze pcaps with Zeek and a Grafana Dashboard | 2024-05-24 |
 | 94 | [did-common-sdk-server](https://github.com/OmniOneID/did-common-sdk-server) | 192 | 123 | Java | 0 | did-common-sdk-server | 2025-06-27 |
-| 95 | [did-issuer-server](https://github.com/OmniOneID/did-issuer-server) | 192 | 135 | Java | 0 |  | 2026-06-09 |
+| 95 | [did-issuer-server](https://github.com/OmniOneID/did-issuer-server) | 192 | 135 | Java | 0 |  | 2026-06-14 |
 | 96 | [Advanced-DID](https://github.com/Mixtape-Sessions/Advanced-DID) | 191 | 133 | HTML | 0 | Advanced Differnce-in-Differences Mixtape Track taught by Jonathan Roth | 2025-08-25 |
-| 97 | [did-ta-server](https://github.com/OmniOneID/did-ta-server) | 191 | 122 | Java | 0 |  | 2026-06-09 |
+| 97 | [did-ta-server](https://github.com/OmniOneID/did-ta-server) | 191 | 122 | Java | 0 |  | 2026-06-14 |
 | 98 | [didcomm-messaging](https://github.com/decentralized-identity/didcomm-messaging) | 190 | 60 | JavaScript | 39 |  | 2026-05-07 |
-| 99 | [did-ca-aos](https://github.com/OmniOneID/did-ca-aos) | 188 | 115 | Java | 0 | did-ca-aos | 2026-04-23 |
-| 100 | [did-release](https://github.com/OmniOneID/did-release) | 188 | 110 | - | 0 |  | 2026-03-03 |
+| 99 | [did-release](https://github.com/OmniOneID/did-release) | 188 | 110 | - | 0 |  | 2026-03-03 |
+| 100 | [did-ca-aos](https://github.com/OmniOneID/did-ca-aos) | 188 | 115 | Java | 0 | did-ca-aos | 2026-04-23 |
