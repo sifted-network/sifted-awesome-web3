@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-06-14"
 date: "2026-06-14"
 source: "Cointelegraph"
-count: 5
+count: 6
 ---
 
 # Cointelegraph - 2026-06-14
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp
+## 1. Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 6/14/2026, 1:49:48 PM  
+**Categories:** Latest News  
+
+The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification on Ethereum while the network works toward a longer-term solution.
+
+📖 [Read original article](https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/14/2026, 11:07:34 AM  
@@ -23,7 +35,7 @@ A fake Bithumb email used in the $36 million Humanity Protocol hack points to th
 
 ---
 
-## 2. Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal
+## 3. Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/14/2026, 10:06:04 AM  
@@ -35,7 +47,7 @@ Bitcoin stayed near local highs on a new US-Iran peace deal pledge as analysis s
 
 ---
 
-## 3. Here’s what happened in crypto today
+## 4. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/14/2026, 5:32:00 AM  
@@ -47,7 +59,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 4. Trump says Iran peace deal to be signed Sunday, contradicting Tehran
+## 5. Trump says Iran peace deal to be signed Sunday, contradicting Tehran
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/14/2026, 5:07:31 AM  
@@ -59,7 +71,7 @@ Crypto analyst Michaël van de Poppe said a peace deal, which would reopen the S
 
 ---
 
-## 5. Amazon warning triggered US crackdown on Anthropic AI models: Reports
+## 6. Amazon warning triggered US crackdown on Anthropic AI models: Reports
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/14/2026, 3:36:49 AM  
