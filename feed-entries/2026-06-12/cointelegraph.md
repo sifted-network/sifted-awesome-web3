@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-12"
 date: "2026-06-12"
 source: "Cointelegraph"
-count: 18
+count: 17
 ---
 
 # Cointelegraph - 2026-06-12
 
-18 items collected.
+17 items collected.
 
 ---
 
@@ -212,17 +212,5 @@ LG is building a blockchain focused on buying and selling ads, joining a wave of
 Coinbase for Agents will allow users of the crypto exchange to manage their holdings without "constant manual oversight,” autonomously performing a range of tasks.
 
 📖 [Read original article](https://cointelegraph.com/news/coinbase-launches-tool-letting-ai-agents-make-payments-and-trade-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Avalanche Treasury falls 16% as it debuts on Nasdaq
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 6/12/2026, 4:16:51 AM  
-**Categories:** Latest News  
-
-Avalanche Treasury holds about 15 million of the blockchain’s native token, AVAX, which is trading at a five-year low.
-
-📖 [Read original article](https://cointelegraph.com/news/avalanche-treasury-starts-trading-on-nasdaq-but-shares-fall-16-on-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
