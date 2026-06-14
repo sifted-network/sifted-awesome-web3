@@ -6,7 +6,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) | 475 | 181 | Rust | 173 | A flexible toolkit for building real-time blockchains | 2026-06-12 |
+| 1 | [sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) | 474 | 181 | Rust | 173 | A flexible toolkit for building real-time blockchains | 2026-06-12 |
 | 2 | [zkopru](https://github.com/zkopru-network/zkopru) | 219 | 27 | TypeScript | 68 | Ethereum L2 scaling solution for private transactions using zk-SNARK and optimistic rollup. | 2023-01-24 |
 | 3 | [optimistic-specs](https://github.com/ethereum-optimism/optimistic-specs) | 172 | 40 | Go | 44 | Optimistic: Bedrock, is a protocol that strives to be an extremely simple optimistic rollup that maintains 1:1 compatibility with Ethereum | 2023-08-02 |
 | 4 | [hubble-contracts](https://github.com/thehubbleproject/hubble-contracts) | 137 | 29 | TypeScript | 49 | Hubble optimistic rollup | 2023-02-08 |
