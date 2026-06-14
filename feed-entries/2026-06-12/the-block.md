@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-12"
 date: "2026-06-12"
 source: "The Block"
-count: 16
+count: 15
 ---
 
 # The Block - 2026-06-12
 
-16 items collected.
+15 items collected.
 
 ---
 
@@ -188,17 +188,5 @@ Bloomberg Analyst Eric Balchunas said the filing signals an imminent launch, add
 The company intends to accelerate the growth of the Avalanche ecosystem and plans to acquire over $1 billion worth of AVAX over time.
 
 📖 [Read original article](https://www.theblock.co/post/404523/avalanche-treasury-nasdaq-debut?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. SEC’s proposal to scrap key NMS rules a major unlock for tokenized US stocks: analysts
-
-**Author:** Danny Park  
-**Published:** 6/12/2026, 4:15:13 AM  
-**Categories:** Crypto Ecosystems, DeFi, Policy, Regulation, Web3, SEC, Tokenization  
-
-Galaxy's Thorn said this would remove barriers that prevented DeFi automated market makers from trading tokenized US equities at scale.
-
-📖 [Read original article](https://www.theblock.co/post/404515/sec-proposal-major-unlock-tokenized-stocks?utm_source=rss&utm_medium=rss)
 
 ---
