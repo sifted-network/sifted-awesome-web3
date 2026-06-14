@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-12"
 date: "2026-06-12"
 source: "CoinDesk"
-count: 11
+count: 10
 ---
 
 # CoinDesk - 2026-06-12
 
-11 items collected.
+10 items collected.
 
 ---
 
@@ -128,17 +128,5 @@ Cronos (CRO), down 1.4% from Thursday, was also an underperformer.
 Your day-ahead look for June 12, 2026
 
 📖 [Read original article](https://www.coindesk.com/daybook-us/2026/06/12/for-crypto-spacex-s-stock-market-debut-could-go-either-way)
-
----
-
-## 11. Monero price rockets 33% to $438 amid $120 million onchain laundering maze
-
-**Author:** Shaurya Malwa  
-**Published:** 6/12/2026, 11:10:51 AM  
-**Categories:** Markets, Privacy, Tether, News  
-
-Onchain sleuth ZachXBT traced remaining funds across exchanges, instant swap services and other blockchains. Tether later froze $72 million in USDT linked to the activity.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/12/monero-spiked-to-usd430-as-usd120-million-moved-through-it-then-tether-froze-usd72-million)
 
 ---
