@@ -6,12 +6,12 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [gnark](https://github.com/Consensys/gnark) | 1,719 | 522 | Go | 65 | gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license | 2026-06-12 |
+| 1 | [gnark](https://github.com/Consensys/gnark) | 1,718 | 521 | Go | 65 | gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license | 2026-06-12 |
 | 2 | [starkscan-verifier](https://github.com/starkscan/starkscan-verifier) | 1,264 | 251 | TypeScript | 9 | Verify Cairo contracts on Starkscan in 1 minute. | 2024-06-02 |
 | 3 | [starknet.js](https://github.com/starknet-io/starknet.js) | 1,262 | 828 | TypeScript | 43 | JavaScript library for Starknet | 2026-06-12 |
 | 4 | [bazuka](https://github.com/ziesha-network/bazuka) | 1,058 | 451 | Rust | 2 | Rust implementation of Ziesha protocol | 2023-10-12 |
 | 5 | [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) | 913 | 397 | Rust | 23 | OpenZeppelin Contracts written in Cairo for Starknet, a decentralized ZK Rollup | 2026-06-08 |
-| 6 | [sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) | 475 | 181 | Rust | 173 | A flexible toolkit for building real-time blockchains | 2026-06-12 |
+| 6 | [sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) | 474 | 181 | Rust | 173 | A flexible toolkit for building real-time blockchains | 2026-06-12 |
 | 7 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 470 | 51 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2023-12-24 |
 | 8 | [starknet.py](https://github.com/software-mansion/starknet.py) | 276 | 88 | Python | 14 | ✨ 🐍    Python SDK for Starknet. | 2026-06-03 |
 | 9 | [ethernal](https://github.com/tryethernal/ethernal) | 267 | 71 | JavaScript | 4 | Ethernal is a block explorer for EVM-based chains. In a few seconds, spin up a fully-featured explorer for your L1/L2 rollup/testnet. Compatible with Optimism, ZK, Anvil, Hardhat, Geth... | 2026-06-12 |
@@ -19,7 +19,7 @@
 | 11 | [intmax-rollup-cli](https://github.com/InternetMaximalism/intmax-rollup-cli) | 117 | 34 | Rust | 2 | intmax ZK rollup for client side | 2024-02-12 |
 | 12 | [rollup](https://github.com/matter-labs-archive/rollup) | 106 | 21 | Rust | 1 | Matter Labs' ZK Rollup | 2021-01-05 |
 | 13 | [old_identity](https://github.com/lfglabs-dev/old_identity) | 103 | 48 | Cairo | 0 | Contract of the starknet identity base NFT | 2023-10-09 |
-| 14 | [alpen](https://github.com/alpenlabs/alpen) | 102 | 26 | Rust | 2 | Rust implementation of the Alpen protocol | 2026-06-12 |
+| 14 | [alpen](https://github.com/alpenlabs/alpen) | 102 | 26 | Rust | 2 | Rust implementation of the Alpen protocol | 2026-06-13 |
 | 15 | [validity-rollups](https://github.com/john-light/validity-rollups) | 102 | 8 | - | 2 | Validity rollup resources | 2024-08-13 |
 | 16 | [sourceCode-zkSync-era-rollupContract-code-learning](https://github.com/LuozhuZhang/sourceCode-zkSync-era-rollupContract-code-learning) | 101 | 35 | Rust | 0 | source code of zkSync Contract | 2024-02-14 |
 | 17 | [eth-mimblewimble](https://github.com/ethereum934/eth-mimblewimble) | 80 | 10 | Python | 2 | Ethereum 9 3/4's zk-SNARKs circuits and the python library for Mimblewimble on Ethereum | 2022-12-10 |
