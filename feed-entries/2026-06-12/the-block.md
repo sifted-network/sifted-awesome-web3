@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-12"
 date: "2026-06-12"
 source: "The Block"
-count: 17
+count: 16
 ---
 
 # The Block - 2026-06-12
 
-17 items collected.
+16 items collected.
 
 ---
 
@@ -200,17 +200,5 @@ The company intends to accelerate the growth of the Avalanche ecosystem and plan
 Galaxy's Thorn said this would remove barriers that prevented DeFi automated market makers from trading tokenized US equities at scale.
 
 📖 [Read original article](https://www.theblock.co/post/404515/sec-proposal-major-unlock-tokenized-stocks?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. ‘Anarchistic neobanks’ are bitcoin’s next frontier, says Blockrise CEO
-
-**Author:** Kyle Baird  
-**Published:** 6/12/2026, 12:01:02 AM  
-**Categories:** Companies, Finance firms, The Block, Crypto Banks and Lenders, Fintech, neobanks, Payments, TradFi banks  
-
-Blockrise CEO Jos Lazet sees bitcoin-native institutions evolving into alternatives to banks, in an interview at BTC Prague.
-
-📖 [Read original article](https://www.theblock.co/post/404469/anarchistic-neobanks-bitcoins-next-frontier-says-blockrise-ceo?utm_source=rss&utm_medium=rss)
 
 ---
