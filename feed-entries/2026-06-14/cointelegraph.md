@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-06-14"
 date: "2026-06-14"
 source: "Cointelegraph"
-count: 3
+count: 5
 ---
 
 # Cointelegraph - 2026-06-14
 
-3 items collected.
+5 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 6/14/2026, 11:07:34 AM  
+**Categories:** Latest News  
+
+A fake Bithumb email used in the $36 million Humanity Protocol hack points to the involvement of North Korean threat actors, according to Quantstamp.
+
+📖 [Read original article](https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 6/14/2026, 10:06:04 AM  
+**Categories:** Markets  
+
+Bitcoin stayed near local highs on a new US-Iran peace deal pledge as analysis saw conditions favoring a sustained BTC price rebound.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-nears-65k-as-trump-says-hormuz-will-open-to-all-in-sunday-iran-peace-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/14/2026, 5:32:00 AM  
@@ -23,7 +47,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Trump says Iran peace deal to be signed Sunday, contradicting Tehran
+## 4. Trump says Iran peace deal to be signed Sunday, contradicting Tehran
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/14/2026, 5:07:31 AM  
@@ -35,7 +59,7 @@ Crypto analyst Michaël van de Poppe said a peace deal, which would reopen the S
 
 ---
 
-## 3. Amazon warning triggered US crackdown on Anthropic AI models: Reports
+## 5. Amazon warning triggered US crackdown on Anthropic AI models: Reports
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/14/2026, 3:36:49 AM  
