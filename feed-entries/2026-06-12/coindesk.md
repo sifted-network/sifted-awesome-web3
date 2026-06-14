@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-12"
 date: "2026-06-12"
 source: "CoinDesk"
-count: 10
+count: 7
 ---
 
 # CoinDesk - 2026-06-12
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ Pruden argues that to defend against a quantum computer capable of cryptographic
 The onetime FTX CEO did not persuade a panel of judges that his trial was unfair, the appeals court panel ruled Friday.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges)
-
----
-
-## 8. XRP sentiment falls to 8-month low, and that has been a buy signal before
-
-**Author:** Shaurya Malwa  
-**Published:** 6/12/2026, 2:08:03 PM  
-**Categories:** Markets, XRP News, News  
-
-Santiment's weighted sentiment gauge for XRP just hit its weakest reading since October 2025. The firm notes the token's strongest rebounds have tended to start when the crowd was this checked out.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/12/xrp-sentiment-falls-to-an-eight-month-low-and-that-has-been-a-buy-signal-before)
-
----
-
-## 9. CoinDesk 20 performance update: Ethereum (ETH) falls 1% as index trades lower
-
-**Author:** CoinDesk Indices  
-**Published:** 6/12/2026, 1:11:26 PM  
-**Categories:** CoinDesk Indices, CoinDesk Indices, CoinDesk 20, charts, Prices, News  
-
-Cronos (CRO), down 1.4% from Thursday, was also an underperformer.
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/06/12/coindesk-20-performance-update-ethereum-eth-falls-1-as-index-trades-lower)
-
----
-
-## 10. For crypto, SpaceX's stock market debut could go either way
-
-**Author:** Shaurya Malwa,Omkar Godbole  
-**Published:** 6/12/2026, 11:23:25 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for June 12, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/06/12/for-crypto-spacex-s-stock-market-debut-could-go-either-way)
 
 ---
