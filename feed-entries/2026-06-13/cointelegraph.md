@@ -17,7 +17,7 @@ count: 7
 **Published:** 6/13/2026, 2:45:43 PM  
 **Categories:** Latest News  
 
-Zcash founder Zooko Wilcox said Anthropic's Mythos AI model found no further "serious bugs" in the privacy protocol following the patching of a previously discovered forgery bug.
+Zcash founder Zooko Wilcox said Anthropic's Mythos AI model found no further “serious bugs” in the privacy protocol following the patching of a previously discovered forgery bug.
 
 📖 [Read original article](https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
@@ -29,7 +29,7 @@ Zcash founder Zooko Wilcox said Anthropic's Mythos AI model found no further "se
 **Published:** 6/13/2026, 1:58:24 PM  
 **Categories:** Latest News  
 
-Strategy's recent Bitcoin sale appeared to clash with Saylor's "never sell" mantra, but he says the move reflects how the company's digital credit business works.
+Strategy's recent Bitcoin sale appeared to clash with Saylor's “never sell” mantra, but he says the move reflects how the company's digital credit business works.
 
 📖 [Read original article](https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
