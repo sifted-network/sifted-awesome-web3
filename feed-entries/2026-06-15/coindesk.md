@@ -2,16 +2,124 @@
 title: "CoinDesk - 2026-06-15"
 date: "2026-06-15"
 source: "CoinDesk"
-count: 9
+count: 18
 ---
 
 # CoinDesk - 2026-06-15
 
-9 items collected.
+18 items collected.
 
 ---
 
-## 1. U.S.-Iran deal lifts equities, sends oil lower, while crypto stays wary
+## 1. If America wants to lead in crypto, it must protect the people who build it
+
+**Author:** Kristin Smith  
+**Published:** 6/15/2026, 2:25:00 PM  
+**Categories:** Opinion, Clarity Act, Opinion  
+
+Despite the Clarity Act’s advancement toward the finish line, there’s one provision under threat for builders that can’t be overlooked, argues Smith.
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it)
+
+---
+
+## 2. ‘Crypto spring’ is here, says one analyst after bitcoin's key signals turn bullish
+
+**Author:** Helene Braun  
+**Published:** 6/15/2026, 2:16:45 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Standard Chartered analyst Geoffrey Kendrick's bullish call comes as spot bitcoin exchange-traded fund inflows return, oil prices fall and Coinbase's CEO says bitcoin likely bottomed near $60,000.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/15/crypto-spring-is-here-says-one-analyst-after-bitcoin-s-key-signals-turn-bullish)
+
+---
+
+## 3. Kraken debuts U.S. perpetual futures as crypto derivatives move onshore
+
+**Author:** Helene Braun,AI Boost  
+**Published:** 6/15/2026, 2:07:22 PM  
+**Categories:** Markets, Kraken, News  
+
+Perpetual futures generated more than $60 trillion in volume last year, according to the crypto exchange, largely outside the U.S.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/15/kraken-debuts-u-s-perpetual-futures-as-crypto-derivatives-move-onshore)
+
+---
+
+## 4. Coinbase's Brian Armstrong says bitcoin may have bottomed at $60,000
+
+**Author:** Shaurya Malwa  
+**Published:** 6/15/2026, 1:30:05 PM  
+**Categories:** Markets, Bitcoin News, Coinbase, News  
+
+Armstrong said his instinct is that bitcoin has probably found its floor, pointing to the four-year cycle that has historically marked lows.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/15/coinbase-s-brian-armstrong-says-bitcoin-may-have-bottomed-at-usd60-000)
+
+---
+
+## 5. XRP rockets 8% above $1.20 in first major breakout since June selloff
+
+**Author:** Shaurya Malwa  
+**Published:** 6/15/2026, 1:26:20 PM  
+**Categories:** Markets, News  
+
+Heavy volume pushed XRP through multiple resistance levels, with traders now focused on whether the rally can extend toward $1.30 after weeks of defensive positioning.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/15/xrp-rockets-8-above-usd1-20-in-first-major-breakout-since-june-selloff)
+
+---
+
+## 6. CoinDesk 20 performance update: Bittensor (TAO) surges 31.9%, leading index higher
+
+**Author:** CoinDesk Indices  
+**Published:** 6/15/2026, 1:19:28 PM  
+**Categories:** CoinDesk Indices, CoinDesk Indices, CoinDesk 20, charts, Prices, News  
+
+Near Protocol (NEAR), up 22.2% from Friday, was also a top performer.
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/06/15/coindesk-20-performance-update-bittensor-tao-surges-31-9-leading-index-higher)
+
+---
+
+## 7. Bitmine adds another $136 million of ether after raising $274 million in preferred stock sale
+
+**Author:** Krisztian Sandor  
+**Published:** 6/15/2026, 1:04:51 PM  
+**Categories:** Finance, Ethereum News, Digital Asset Treasury, News  
+
+Tom Lee's Ethereum treasury firm, through the preferred stock sale, is using a financing tool pioneered by Michael Saylor's bitcoin treasury firm Strategy.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/15/bitmine-adds-another-usd136-million-of-ether-after-raising-usd274-million-in-preferred-stock-sale)
+
+---
+
+## 8. Michael Saylor's Strategy acquires another 1,587 bitcoin for $100 million
+
+**Author:** James Van Straten,Shaurya Malwa  
+**Published:** 6/15/2026, 12:06:39 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+The latest purchase was made at an average price of $63,024 per bitcoin.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/15/strategy-deploys-usd100-million-from-usd-reserves-to-acquire-1-587-btc)
+
+---
+
+## 9. Markets cheer U.S.-Iran Breakthrough though Middle East risks, Fed remain in focus
+
+**Author:** James Van Straten  
+**Published:** 6/15/2026, 11:58:56 AM  
+**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
+
+Your day-ahead look for June 15, 2026
+
+📖 [Read original article](https://www.coindesk.com/daybook-us/2026/06/15/markets-cheer-u-s-iran-breakthrough-though-middle-east-risks-fed-remain-in-focus)
+
+---
+
+## 10. U.S.-Iran deal lifts equities, sends oil lower, while crypto stays wary
 
 **Author:** Shaurya Malwa,Saksham Diwan  
 **Published:** 6/15/2026, 11:19:01 AM  
@@ -23,7 +131,7 @@ The peace deal reached over the weekend provided the stimulus many markets had b
 
 ---
 
-## 2. Middle East ceasefire, Fed interest-rate decision: Crypto Week Ahead
+## 11. Middle East ceasefire, Fed interest-rate decision: Crypto Week Ahead
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 6/15/2026, 10:14:49 AM  
@@ -35,7 +143,7 @@ Your look at what's coming in the week starting June 15.
 
 ---
 
-## 3. Trump-linked stablecoin used for bonus payouts at White House UFC contest
+## 12. Trump-linked stablecoin used for bonus payouts at White House UFC contest
 
 **Author:** Shaurya Malwa  
 **Published:** 6/15/2026, 8:09:53 AM  
@@ -47,7 +155,7 @@ UFC Freedom 250 paid fighter bonuses in USD1, the stablecoin issued by the Trump
 
 ---
 
-## 4. Ark Invest bought more than $500 million worth of SpaceX shares on IPO day
+## 13. Ark Invest bought more than $500 million worth of SpaceX shares on IPO day
 
 **Author:** Shaurya Malwa  
 **Published:** 6/15/2026, 7:52:41 AM  
@@ -59,7 +167,7 @@ The purchases were likely funded by selling other positions, data shows. ARK is 
 
 ---
 
-## 5. Bitcoin traders have a reason to watch Tuesday's BOJ rate decision. Yen shorts are at a nine-year high
+## 14. Bitcoin traders have a reason to watch Tuesday's BOJ rate decision. Yen shorts are at a nine-year high
 
 **Author:** Omkar Godbole  
 **Published:** 6/15/2026, 6:41:36 AM  
@@ -71,9 +179,9 @@ A large build-up of speculative short positions in the yen raises the risk of a 
 
 ---
 
-## 6. Live markets: Bitcoin jumps above $66,000 as short squeeze builds on US-Iran deal hopes
+## 15. Live markets: Bitcoin jumps above $67,000 as short squeeze builds on US-Iran deal hopes
 
-**Author:** Shaurya Malwa,James Van Straten  
+**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Krisztian Sandor  
 **Published:** 6/15/2026, 5:19:14 AM  
 **Categories:** Tech, Live News, live_news  
 
@@ -83,7 +191,7 @@ A ceasefire in April collapsed, and U.S. strikes broke a second truce on June 9 
 
 ---
 
-## 7. XRP climbs 4% above $1.18 as traders test next resistance zone
+## 16. XRP climbs 4% above $1.18 as traders test next resistance zone
 
 **Author:** Shaurya Malwa  
 **Published:** 6/15/2026, 4:25:42 AM  
@@ -95,7 +203,7 @@ XRP extended its rebound from recent lows on the strongest buying activity in we
 
 ---
 
-## 8. Bitcoin hits a two-week high above $65,500 as the US-Iran deal sends oil sliding
+## 17. Bitcoin hits a two-week high above $65,500 as the US-Iran deal sends oil sliding
 
 **Author:** Shaurya Malwa  
 **Published:** 6/15/2026, 3:56:27 AM  
@@ -107,7 +215,7 @@ A peace agreement that reopens the Strait of Hormuz pulled the geopolitical prem
 
 ---
 
-## 9. Bitcoin shoots higher on Iran peace deal, with Strait of Hormuz set to open
+## 18. Bitcoin shoots higher on Iran peace deal, with Strait of Hormuz set to open
 
 **Author:** Stephen Alpher  
 **Published:** 6/15/2026, 12:08:10 AM  
