@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-12"
 date: "2026-06-12"
 source: "The Block"
-count: 12
+count: 8
 ---
 
 # The Block - 2026-06-12
 
-12 items collected.
+8 items collected.
 
 ---
 
@@ -104,53 +104,5 @@ STAC is one of Securitize’s in-house offerings that provides onchain access to
 BlackRock's IBIT dominates spot Bitcoin exchange-traded funds by trading volume, with a current 73.7% market share.
 
 📖 [Read original article](https://www.theblock.co/post/404584/bitcoin-etfs-2-trillion-usd-cumulative-trading-volume?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. South Korea finance ministry says tokenized stocks are securities, not crypto assets, opening door to taxes: report
-
-**Author:** Brian Danga  
-**Published:** 6/12/2026, 11:38:22 AM  
-**Categories:** International Policymaking, Policy, Regulation, Tax, Asian Regulation, south korea crypto, tax, tax-authorities, tokenized stock  
-
-South Korea’s finance ministry said tokenized stocks are securities, opening potential taxation as early as H2 2026 if regulators agree.
-
-📖 [Read original article](https://www.theblock.co/post/404580/south-korea-finance-ministry-says-tokenized-stocks-are-securities-not-crypto-assets-opening-door-to-taxes-report?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. There is a ‘fundamental clash’ between bitcoin and institutionalization, says BTC circular economy project founder
-
-**Author:** Danny Park  
-**Published:** 6/12/2026, 10:30:53 AM  
-**Categories:** Markets, Token Projects, Bitcoin  
-
-Bitcoin Ekasi's Hermann Vivier emphasized that bitcoin's store-of-value narrative does not exist without usage as a medium of exchange.
-
-📖 [Read original article](https://www.theblock.co/post/404563/bitcoin-ekasi-btc-prague?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Bitwise’s Dragosch sees up to 20% further downside for bitcoin, puts ‘max pain’ scenario at $48,000
-
-**Author:** Brian Danga  
-**Published:** 6/12/2026, 10:02:30 AM  
-**Categories:** Equities, Market Recap, Market Updates, Markets, Token Projects, Analyst Reports, Bitcoin, bitwise, galaxy  
-
-Bitwise's Dragosch sees up to 20% more bitcoin downside, with the long-term holder cost basis at $48,000 the "max pain" scenario.
-
-📖 [Read original article](https://www.theblock.co/post/404561/bitwise-dragosch-bitcoin-max-pain-48k?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Metaplanet to acquire Siiibo Securities for $13 million to develop bitcoin-linked yield products
-
-**Author:** Timmy Shen  
-**Published:** 6/12/2026, 9:39:38 AM  
-**Categories:** Asia, Companies, Deals, Finance firms, Markets, Mergers & Acquisitions, Token Projects, Bitcoin, Investment Firms, Public Company Mergers and Acquisitions  
-
-Metaplanet CEO Simon Gerovich said the deal is expected to close in July, and the company plans to rename the business Metaplanet Securities.
-
-📖 [Read original article](https://www.theblock.co/post/404564/metaplanet-siiibo-securities-acquisition?utm_source=rss&utm_medium=rss)
 
 ---
