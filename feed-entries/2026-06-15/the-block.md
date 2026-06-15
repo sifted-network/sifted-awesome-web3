@@ -2,16 +2,64 @@
 title: "The Block - 2026-06-15"
 date: "2026-06-15"
 source: "The Block"
-count: 12
+count: 16
 ---
 
 # The Block - 2026-06-15
 
-12 items collected.
+16 items collected.
 
 ---
 
-## 1. IREN enters Europe with acquisition of Spanish AI data center developer Nostrum
+## 1. SpaceX IPO fuels $1.4 billion trading frenzy on Hyperliquid as SPCX perp becomes HIP-3’s biggest market
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 6/15/2026, 8:31:48 PM  
+**Categories:** Crypto Ecosystems, Markets, Public Equities, The Block, Token Projects, Web3, Tokenization, Tokens  
+
+Stock-linked HIP-3 markets have generated more than $18.8 billion in volume so far this month, eclipsing crude oil and Brent perps combined.
+
+📖 [Read original article](https://www.theblock.co/post/404804/spacex-ipo-1-4-billion-trading-frenzy-hyperliquid-spcx-perp-hip-3s-biggest-market?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Bitcoin Policy UK CEO calls Michael Saylor’s STRC investment promotion ‘dishonest’
+
+**Author:** RT Watson  
+**Published:** 6/15/2026, 7:51:14 PM  
+**Categories:** Markets  
+
+"Saylor put out a video talking about his yield with STRC...it was making it out that there is no risk involved," says Ward.
+
+📖 [Read original article](https://www.theblock.co/post/404785/bitcoin-policy-uk-ceo-calls-michael-saylors-strc-investment-promotion-dishonest?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Standard Chartered says Uniswap’s UNI token could surge 40x to $100 by 2030
+
+**Author:** Yogita Khatri  
+**Published:** 6/15/2026, 7:27:10 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Finance firms, Markets, Stablecoins, Token Projects, Web3, Crypto, DEXs, Ethereum, Protocols, Smart contracts, Tokenization, Tokens, Uniswap  
+
+Standard Chartered Bank has initiated coverage of Uniswap and forecasts its UNI token could rise 40x to $100 by the end of 2030.
+
+📖 [Read original article](https://www.theblock.co/post/404809/standard-chartered-uniswap-uni-token-price-100-by-2030?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. ‘There’s room for win-win outcomes’: Largest Solana treasury firm Forward looks to acquire smaller SOL DATs
+
+**Author:** Daniel Kuhn  
+**Published:** 6/15/2026, 5:59:08 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Finance firms, Layer 1s, Mergers & Acquisitions, Investment Firms, Public Company Mergers and Acquisitions, Solana  
+
+Forward Industries is offering to acquire Solana DAT competitors at a premium as their mNAVs slip along with the declining price of SOL.
+
+📖 [Read original article](https://www.theblock.co/post/404792/win-win-outcomes-solana-treasury-forward-acquire-sol-dats?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. IREN enters Europe with acquisition of Spanish AI data center developer Nostrum
 
 **Author:** Kyle Baird  
 **Published:** 6/15/2026, 4:46:17 PM  
@@ -23,7 +71,7 @@ IREN now has AI infrastructure projects in the works across multiple continents 
 
 ---
 
-## 2. Strategy supporters rebut ‘death spiral’ fears as bitcoin price wobbles
+## 6. Strategy supporters rebut ‘death spiral’ fears as bitcoin price wobbles
 
 **Author:** RT Watson  
 **Published:** 6/15/2026, 3:43:51 PM  
@@ -35,7 +83,7 @@ IREN now has AI infrastructure projects in the works across multiple continents 
 
 ---
 
-## 3. Benchmark says SEC’s NMS proposal is the ‘most consequential’ US crypto rule this year
+## 7. Benchmark says SEC’s NMS proposal is the ‘most consequential’ US crypto rule this year
 
 **Author:** Brian Danga  
 **Published:** 6/15/2026, 3:33:59 PM  
@@ -47,7 +95,7 @@ Benchmark said the SEC's proposal last week to rescind Rules 611 and 610(e) is t
 
 ---
 
-## 4. ‘Let’s just put it in an ETF’ is the worst outcome for bitcoin, says Trezor exec
+## 8. ‘Let’s just put it in an ETF’ is the worst outcome for bitcoin, says Trezor exec
 
 **Author:** Kyle Baird  
 **Published:** 6/15/2026, 3:22:37 PM  
@@ -59,7 +107,7 @@ Trezor Chief Commercial Officer Danny Sanders said simplifying self-custody rema
 
 ---
 
-## 5. Kraken launches crypto perps trading in the US on Kraken Pro
+## 9. Kraken launches crypto perps trading in the US on Kraken Pro
 
 **Author:** Daniel Kuhn  
 **Published:** 6/15/2026, 1:50:47 PM  
@@ -71,7 +119,7 @@ Kraken completed its acquisition of the fully CFTC-licensed exchange, clearingho
 
 ---
 
-## 6. Tom Lee sees ‘early stages of crypto spring’ as Bitmine buys another 76,881 ETH
+## 10. Tom Lee sees ‘early stages of crypto spring’ as Bitmine buys another 76,881 ETH
 
 **Author:** Brian Danga  
 **Published:** 6/15/2026, 1:39:54 PM  
@@ -83,7 +131,7 @@ Bitmine boosted ETH holdings to 5.62 million tokens, or 4.66% of supply, as Tom 
 
 ---
 
-## 7. Strive CIO says prolonged bitcoin weakness could drive treasury firm consolidation
+## 11. Strive CIO says prolonged bitcoin weakness could drive treasury firm consolidation
 
 **Author:** James Hunt  
 **Published:** 6/15/2026, 1:25:17 PM  
@@ -95,7 +143,7 @@ Ben Werkman said prolonged bitcoin weakness could increase pressure on treasury 
 
 ---
 
-## 8. Paradigm leads $9 million round in LatAm payments app El Dorado
+## 12. Paradigm leads $9 million round in LatAm payments app El Dorado
 
 **Author:** RT Watson  
 **Published:** 6/15/2026, 1:00:00 PM  
@@ -107,7 +155,7 @@ El Dorado was founded in 2022 by Latin American immigrants with firsthand experi
 
 ---
 
-## 9. ‘Still adding dots’: Michael Saylor’s Strategy buys another 1,587 bitcoin for $100 million as total holdings reach 846,842 BTC
+## 13. ‘Still adding dots’: Michael Saylor’s Strategy buys another 1,587 bitcoin for $100 million as total holdings reach 846,842 BTC
 
 **Author:** James Hunt  
 **Published:** 6/15/2026, 12:06:46 PM  
@@ -119,7 +167,7 @@ Strategy's total holdings account for more than 4% of the 21 million bitcoin sup
 
 ---
 
-## 10. Bernstein says Robinhood could see ‘strong tailwinds’ as World Cup drives record prediction market volumes
+## 14. Bernstein says Robinhood could see ‘strong tailwinds’ as World Cup drives record prediction market volumes
 
 **Author:** Brian Danga  
 **Published:** 6/15/2026, 10:02:47 AM  
@@ -131,7 +179,7 @@ Bernstein projects Robinhood’s prediction market revenue to increase from $150
 
 ---
 
-## 11. Bitcoin tops $65,000 as reports of US-Iran peace deal ease geopolitical fears
+## 15. Bitcoin tops $65,000 as reports of US-Iran peace deal ease geopolitical fears
 
 **Author:** Timmy Shen  
 **Published:** 6/15/2026, 5:55:11 AM  
@@ -143,7 +191,7 @@ The rally reflected improving risk sentiment following reports that the U.S. and
 
 ---
 
-## 12. The Funding: Is the bitcoin bottom in? Crypto funds weigh in
+## 16. The Funding: Is the bitcoin bottom in? Crypto funds weigh in
 
 **Author:** Yogita Khatri  
 **Published:** 6/15/2026, 2:41:59 AM  
