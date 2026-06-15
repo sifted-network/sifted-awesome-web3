@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-12"
 date: "2026-06-12"
 source: "CoinDesk"
-count: 7
+count: 5
 ---
 
 # CoinDesk - 2026-06-12
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ Bitcoin ETF investors have pulled billions this year, but the broader crypto ETF
 A clash between derivatives veterans is exposing a deeper discussion over how U.S. regulators should classify crypto perpetual contracts.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/06/12/kalshi-s-crypto-perpetuals-spark-debate-over-whether-they-re-futures-or-swaps)
-
----
-
-## 6. The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up
-
-**Author:** Alex Pruden  
-**Published:** 6/12/2026, 3:31:00 PM  
-**Categories:** Opinion, quantum computing, Opinion  
-
-Pruden argues that to defend against a quantum computer capable of cryptographically relevant operations, we need post-quantum cryptography and regulatory coordination that the industry has been deferring for years.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/06/12/the-u-s-government-is-betting-usd2-billion-on-quantum-computing-and-the-defense-side-can-t-keep-up)
-
----
-
-## 7. FTX's Sam Bankman-Fried loses appeal of criminal conviction on fraud, conspiracy charges
-
-**Author:** Nikhilesh De  
-**Published:** 6/12/2026, 2:13:40 PM  
-**Categories:** Policy, Sam Bankman-Fried, Breaking News, News  
-
-The onetime FTX CEO did not persuade a panel of judges that his trial was unfair, the appeals court panel ruled Friday.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges)
 
 ---
