@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-06-15"
 date: "2026-06-15"
 source: "CoinDesk"
-count: 18
+count: 19
 ---
 
 # CoinDesk - 2026-06-15
 
-18 items collected.
+19 items collected.
 
 ---
 
-## 1. If America wants to lead in crypto, it must protect the people who build it
+## 1. Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project
+
+**Author:** Krisztian Sandor  
+**Published:** 6/15/2026, 6:14:07 PM  
+**Categories:** Finance, Hyperliquid, News  
+
+Ventuals, one of the teams behind real-world asset perpetuals on Hyperliquid, said it is closing its markets and joining another project in the ecosystem.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/15/hyperliquid-loses-anthropic-openai-markets-as-creator-shuts-down-project)
+
+---
+
+## 2. If America wants to lead in crypto, it must protect the people who build it
 
 **Author:** Kristin Smith  
 **Published:** 6/15/2026, 2:25:00 PM  
@@ -23,7 +35,7 @@ Despite the Clarity Act’s advancement toward the finish line, there’s one pr
 
 ---
 
-## 2. ‘Crypto spring’ is here, says one analyst after bitcoin's key signals turn bullish
+## 3. ‘Crypto spring’ is here, says one analyst after bitcoin's key signals turn bullish
 
 **Author:** Helene Braun  
 **Published:** 6/15/2026, 2:16:45 PM  
@@ -35,7 +47,7 @@ Standard Chartered analyst Geoffrey Kendrick's bullish call comes as spot bitcoi
 
 ---
 
-## 3. Kraken debuts U.S. perpetual futures as crypto derivatives move onshore
+## 4. Kraken debuts U.S. perpetual futures as crypto derivatives move onshore
 
 **Author:** Helene Braun,AI Boost  
 **Published:** 6/15/2026, 2:07:22 PM  
@@ -47,7 +59,7 @@ Perpetual futures generated more than $60 trillion in volume last year, accordin
 
 ---
 
-## 4. Coinbase's Brian Armstrong says bitcoin may have bottomed at $60,000
+## 5. Coinbase's Brian Armstrong says bitcoin may have bottomed at $60,000
 
 **Author:** Shaurya Malwa  
 **Published:** 6/15/2026, 1:30:05 PM  
@@ -59,7 +71,7 @@ Armstrong said his instinct is that bitcoin has probably found its floor, pointi
 
 ---
 
-## 5. XRP rockets 8% above $1.20 in first major breakout since June selloff
+## 6. XRP rockets 8% above $1.20 in first major breakout since June selloff
 
 **Author:** Shaurya Malwa  
 **Published:** 6/15/2026, 1:26:20 PM  
@@ -71,7 +83,7 @@ Heavy volume pushed XRP through multiple resistance levels, with traders now foc
 
 ---
 
-## 6. CoinDesk 20 performance update: Bittensor (TAO) surges 31.9%, leading index higher
+## 7. CoinDesk 20 performance update: Bittensor (TAO) surges 31.9%, leading index higher
 
 **Author:** CoinDesk Indices  
 **Published:** 6/15/2026, 1:19:28 PM  
@@ -83,7 +95,7 @@ Near Protocol (NEAR), up 22.2% from Friday, was also a top performer.
 
 ---
 
-## 7. Bitmine adds another $136 million of ether after raising $274 million in preferred stock sale
+## 8. Bitmine adds another $136 million of ether after raising $274 million in preferred stock sale
 
 **Author:** Krisztian Sandor  
 **Published:** 6/15/2026, 1:04:51 PM  
@@ -95,7 +107,7 @@ Tom Lee's Ethereum treasury firm, through the preferred stock sale, is using a f
 
 ---
 
-## 8. Michael Saylor's Strategy acquires another 1,587 bitcoin for $100 million
+## 9. Michael Saylor's Strategy acquires another 1,587 bitcoin for $100 million
 
 **Author:** James Van Straten,Shaurya Malwa  
 **Published:** 6/15/2026, 12:06:39 PM  
@@ -107,7 +119,7 @@ The latest purchase was made at an average price of $63,024 per bitcoin.
 
 ---
 
-## 9. Markets cheer U.S.-Iran Breakthrough though Middle East risks, Fed remain in focus
+## 10. Markets cheer U.S.-Iran Breakthrough though Middle East risks, Fed remain in focus
 
 **Author:** James Van Straten  
 **Published:** 6/15/2026, 11:58:56 AM  
@@ -119,7 +131,7 @@ Your day-ahead look for June 15, 2026
 
 ---
 
-## 10. U.S.-Iran deal lifts equities, sends oil lower, while crypto stays wary
+## 11. U.S.-Iran deal lifts equities, sends oil lower, while crypto stays wary
 
 **Author:** Shaurya Malwa,Saksham Diwan  
 **Published:** 6/15/2026, 11:19:01 AM  
@@ -131,7 +143,7 @@ The peace deal reached over the weekend provided the stimulus many markets had b
 
 ---
 
-## 11. Middle East ceasefire, Fed interest-rate decision: Crypto Week Ahead
+## 12. Middle East ceasefire, Fed interest-rate decision: Crypto Week Ahead
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 6/15/2026, 10:14:49 AM  
@@ -143,7 +155,7 @@ Your look at what's coming in the week starting June 15.
 
 ---
 
-## 12. Trump-linked stablecoin used for bonus payouts at White House UFC contest
+## 13. Trump-linked stablecoin used for bonus payouts at White House UFC contest
 
 **Author:** Shaurya Malwa  
 **Published:** 6/15/2026, 8:09:53 AM  
@@ -155,7 +167,7 @@ UFC Freedom 250 paid fighter bonuses in USD1, the stablecoin issued by the Trump
 
 ---
 
-## 13. Ark Invest bought more than $500 million worth of SpaceX shares on IPO day
+## 14. Ark Invest bought more than $500 million worth of SpaceX shares on IPO day
 
 **Author:** Shaurya Malwa  
 **Published:** 6/15/2026, 7:52:41 AM  
@@ -167,7 +179,7 @@ The purchases were likely funded by selling other positions, data shows. ARK is 
 
 ---
 
-## 14. Bitcoin traders have a reason to watch Tuesday's BOJ rate decision. Yen shorts are at a nine-year high
+## 15. Bitcoin traders have a reason to watch Tuesday's BOJ rate decision. Yen shorts are at a nine-year high
 
 **Author:** Omkar Godbole  
 **Published:** 6/15/2026, 6:41:36 AM  
@@ -179,19 +191,19 @@ A large build-up of speculative short positions in the yen raises the risk of a 
 
 ---
 
-## 15. Live markets: Bitcoin jumps above $67,000 as short squeeze builds on US-Iran deal hopes
+## 16. Live markets: Bitcoin gives back some gains as SpaceX's post-IPO rally extends to 40%
 
 **Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Krisztian Sandor  
 **Published:** 6/15/2026, 5:19:14 AM  
 **Categories:** Tech, Live News, live_news  
 
-A ceasefire in April collapsed, and U.S. strikes broke a second truce on June 9 with bitcoin giving back the entire move both times.
+Monetary policy may be back in focus, with Kevin Warsh's first policy meeting as Fed chairman coming this week.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes)
 
 ---
 
-## 16. XRP climbs 4% above $1.18 as traders test next resistance zone
+## 17. XRP climbs 4% above $1.18 as traders test next resistance zone
 
 **Author:** Shaurya Malwa  
 **Published:** 6/15/2026, 4:25:42 AM  
@@ -203,7 +215,7 @@ XRP extended its rebound from recent lows on the strongest buying activity in we
 
 ---
 
-## 17. Bitcoin hits a two-week high above $65,500 as the US-Iran deal sends oil sliding
+## 18. Bitcoin hits a two-week high above $65,500 as the US-Iran deal sends oil sliding
 
 **Author:** Shaurya Malwa  
 **Published:** 6/15/2026, 3:56:27 AM  
@@ -215,7 +227,7 @@ A peace agreement that reopens the Strait of Hormuz pulled the geopolitical prem
 
 ---
 
-## 18. Bitcoin shoots higher on Iran peace deal, with Strait of Hormuz set to open
+## 19. Bitcoin shoots higher on Iran peace deal, with Strait of Hormuz set to open
 
 **Author:** Stephen Alpher  
 **Published:** 6/15/2026, 12:08:10 AM  
