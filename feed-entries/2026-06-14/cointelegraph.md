@@ -47,7 +47,7 @@ The SPHINCS- proposal aims to reduce the cost of post-quantum signature verifica
 
 ---
 
-## 4. Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp
+## 4. Humanity Protocol’s $36M loss tied to suspected North Korean hackers: Quantstamp
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/14/2026, 11:07:34 AM  
