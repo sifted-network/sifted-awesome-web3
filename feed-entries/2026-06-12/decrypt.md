@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-12"
 date: "2026-06-12"
 source: "Decrypt"
-count: 16
+count: 14
 ---
 
 # Decrypt - 2026-06-12
 
-16 items collected.
+14 items collected.
 
 ---
 
@@ -176,29 +176,5 @@ Hyperliquid has SpaceX trading at $177 a share. Will we see a 30% pop on open th
 SpaceX’s $75 billion IPO has already drained crypto liquidity, but a strong first-day pop could help rotate profits back, analysts argue.
 
 📖 [Read original article](https://decrypt.co/370886/elon-musks-spacex-ipo-the-bull-and-bear-case-for-bitcoin)
-
----
-
-## 15. Gary Gensler Backs States in Fight Over Prediction Market Regulation
-
-**Author:** Vismaya V  
-**Published:** 6/12/2026, 11:02:05 AM  
-**Categories:** polygon, Business  
-
-The former SEC and CFTC chair says Congress "categorically" did not intend to put sports betting under exclusive federal oversight.
-
-📖 [Read original article](https://decrypt.co/370875/gary-gensler-backs-states-in-fight-over-prediction-market-regulation)
-
----
-
-## 16. LG Electronics Teams With Arbitrum for Blockchain-Based Ad Platform
-
-**Author:** Decrypt Agent  
-**Published:** 6/12/2026, 10:23:39 AM  
-**Categories:** arbitrum, Technology  
-
-The South Korean tech giant built a custom layer-2 network with Arbitrum for an advertising platform set to launch this year.
-
-📖 [Read original article](https://decrypt.co/370866/lg-electronics-teams-with-arbitrum-for-blockchain-based-ad-platform)
 
 ---
