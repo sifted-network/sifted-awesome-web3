@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-12"
 date: "2026-06-12"
 source: "Cointelegraph"
-count: 17
+count: 16
 ---
 
 # Cointelegraph - 2026-06-12
 
-17 items collected.
+16 items collected.
 
 ---
 
@@ -200,17 +200,5 @@ Galaxy’s Alex Thorn says a plan to scrap rules on stock orders and quotes woul
 LG is building a blockchain focused on buying and selling ads, joining a wave of companies launching their own blockchains in recent years.
 
 📖 [Read original article](https://cointelegraph.com/news/lg-arbitrum-launch-blockchain-based-bid-for-679b-ad-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Coinbase launches tool letting AI agents make payments and trade crypto
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 6/12/2026, 4:19:03 AM  
-**Categories:** Latest News  
-
-Coinbase for Agents will allow users of the crypto exchange to manage their holdings without "constant manual oversight,” autonomously performing a range of tasks.
-
-📖 [Read original article](https://cointelegraph.com/news/coinbase-launches-tool-letting-ai-agents-make-payments-and-trade-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
