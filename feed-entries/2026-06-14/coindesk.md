@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-06-14"
 date: "2026-06-14"
 source: "CoinDesk"
-count: 4
+count: 5
 ---
 
 # CoinDesk - 2026-06-14
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Summer of crypto (regs): State of Crypto
+## 1. Bitcoin could crash to $48,000, if this historical pattern is triggered
+
+**Author:** Omkar Godbole  
+**Published:** 6/14/2026, 7:17:30 PM  
+**Categories:** Markets, Bitcoin News, Technical Analysis, News  
+
+A pattern stretching back to bitcoin's earliest days has held through every market cycle. It has yet to be tested in the current one.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/14/bitcoin-could-crash-to-usd48-000-if-this-historical-pattern-is-triggered)
+
+---
+
+## 2. Summer of crypto (regs): State of Crypto
 
 **Author:** Nikhilesh De  
 **Published:** 6/14/2026, 6:30:00 PM  
@@ -23,7 +35,7 @@ Lawmakers are debating taxes, the CFTC put out a prediction market proposal and 
 
 ---
 
-## 2. Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet
+## 3. Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet
 
 **Author:** Margaux Nijkerk  
 **Published:** 6/14/2026, 3:00:00 PM  
@@ -35,7 +47,7 @@ The concept, called Predictive Allocation, will encourage participants to antici
 
 ---
 
-## 3. SEC's big swing to clear tokenization path isn't likely to get resilience of full rule
+## 4. SEC's big swing to clear tokenization path isn't likely to get resilience of full rule
 
 **Author:** Jesse Hamilton  
 **Published:** 6/14/2026, 2:00:00 PM  
@@ -47,7 +59,7 @@ Former SEC lawyers say that using its power to grant tokenization "innovation" e
 
 ---
 
-## 4. Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion
+## 5. Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion
 
 **Author:** Olivier Acuna  
 **Published:** 6/14/2026, 1:00:00 PM  
