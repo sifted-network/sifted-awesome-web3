@@ -25,8 +25,8 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ## 2. StanChart looks for 3 signs of BTC bottom, including Strategy’s Monday news
 
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 6/14/2026, 7:05:46 PM  
+**Author:** Cointelegraph by Robert Lakin  
+**Published:** 6/14/2026, 7:10:00 PM  
 **Categories:** Latest News  
 
 Standard Chartered’s Geoff Kendrick tells clients “winter is over” as the analyst said crypto prices have likely seen the low for the cycle, ahead of Strategy’s Bitcoin purchase update.
