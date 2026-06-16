@@ -6,25 +6,25 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,569 | 2,275 | Rust | 26 | Taiko Alethia based rollup protocol 🥁  | 2026-06-15 |
-| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,062 | 760 | Rust | 629 | The Stacks blockchain implementation | 2026-06-12 |
+| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,568 | 2,274 | Rust | 26 | Taiko Alethia based rollup protocol 🥁  | 2026-06-16 |
+| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,062 | 759 | Rust | 628 | The Stacks blockchain implementation | 2026-06-15 |
 | 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,546 | 332 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
 | 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,025 | 617 | - | 1896 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
 | 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 833 | 107 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 6 | [starknetbook](https://github.com/starknet-edu/starknetbook) | 830 | 489 | CSS | 0 | Mastering Starknet. By the Starknet community | 2024-06-20 |
-| 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 614 | 58 | JavaScript | 14 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-06-08 |
+| 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 614 | 56 | JavaScript | 14 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-06-15 |
 | 8 | [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) | 474 | 141 | C | 5 | Open source MAC Telnet client and server for connecting to Mikrotik RouterOS routers and Posix devices using MAC addresses | 2025-09-21 |
 | 9 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 470 | 51 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2023-12-24 |
-| 10 | [juno](https://github.com/NethermindEth/juno) | 446 | 234 | Go | 29 | Reliable and high performance Starknet full node implementation | 2026-06-14 |
+| 10 | [juno](https://github.com/NethermindEth/juno) | 446 | 234 | Go | 29 | Reliable and high performance Starknet full node implementation | 2026-06-16 |
 | 11 | [db3](https://github.com/dbpunk-labs/db3) | 385 | 43 | Rust | 18 |  a Lightweight, Permanent JSON document database | 2024-07-29 |
 | 12 | [ChainX](https://github.com/chainx-org/ChainX) | 325 | 121 | Rust | 1 | Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM  | 2025-12-18 |
 | 13 | [blockchain-roadmap](https://github.com/itublockchain/blockchain-roadmap) | 283 | 39 | - | 0 | Blockchain öğrenme yolculuğunuz için yol haritası | 2024-10-13 |
 | 14 | [Library-of-Ethereum](https://github.com/arpitingle/Library-of-Ethereum) | 282 | 33 | - | 1 | Curated Collection of Ethereum Ecosystem Resources | 2023-12-26 |
-| 15 | [Blockchain-Developer-roadmap_Chinese](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese) | 251 | 19 | - | 0 | 区块链工程师学习路线 ｜ GitHub Star数第六项目 Develop Roadmap 区块链工程师 部分｜@Web3-Club | 2024-07-04 |
+| 15 | [Blockchain-Developer-roadmap_Chinese](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese) | 252 | 19 | - | 0 | 区块链工程师学习路线 ｜ GitHub Star数第六项目 Develop Roadmap 区块链工程师 部分｜@Web3-Club | 2024-07-04 |
 | 16 | [tutorials](https://github.com/zkSync-Community-Hub/tutorials) | 236 | 62 | TypeScript | 0 | Tutorials submitted by the community to build on zkSync Era | 2025-02-03 |
 | 17 | [contracts](https://github.com/hop-protocol/contracts) | 234 | 84 | TypeScript | 8 | 🐰 Hop Protocol v1 smart contracts | 2025-02-26 |
 | 18 | [zkopru](https://github.com/zkopru-network/zkopru) | 219 | 27 | TypeScript | 68 | Ethereum L2 scaling solution for private transactions using zk-SNARK and optimistic rollup. | 2023-01-24 |
-| 19 | [rooch](https://github.com/rooch-network/rooch) | 188 | 94 | Rust | 217 | VApp Container with Move Language for Bitcoin ecosystem | 2026-06-13 |
+| 19 | [rooch](https://github.com/rooch-network/rooch) | 188 | 94 | Rust | 217 | VApp Container with Move Language for Bitcoin ecosystem | 2026-06-16 |
 | 20 | [EtherGuard-VPN](https://github.com/KusakabeShi/EtherGuard-VPN) | 183 | 18 | Go | 7 | Layer2 version of wireguard with Floyd Warshall implement in go. | 2024-01-12 |
 | 21 | [optimistic-specs](https://github.com/ethereum-optimism/optimistic-specs) | 172 | 40 | Go | 44 | Optimistic: Bedrock, is a protocol that strives to be an extremely simple optimistic rollup that maintains 1:1 compatibility with Ethereum | 2023-08-02 |
 | 22 | [spec](https://github.com/rgb-archive/spec) | 145 | 23 | - | 7 | [OLD!] RGB Protocol specifications for Bitcoin-based digital assets | 2020-01-15 |
@@ -37,15 +37,15 @@
 | 29 | [OB_ReturnCabin](https://github.com/Orbiter-Finance/OB_ReturnCabin) | 92 | 35 | Solidity | 1 | Orbiter Finance smart contracts | 2024-11-05 |
 | 30 | [getmac](https://github.com/GhostofGoes/getmac) | 88 | 28 | Python | 26 | Platform-independent pure-Python module to get a MAC address | 2026-01-04 |
 | 31 | [godwoken](https://github.com/godwokenrises/godwoken) | 85 | 37 | Rust | 1 | Godwoken is an optimistic rollup solution built on Nervos CKB. | 2024-04-11 |
-| 32 | [kleros-v2](https://github.com/kleros/kleros-v2) | 79 | 56 | TypeScript | 103 | Kleros arbitration protocol version 2 | 2026-06-12 |
+| 32 | [kleros-v2](https://github.com/kleros/kleros-v2) | 79 | 56 | TypeScript | 103 | Kleros arbitration protocol version 2 | 2026-06-15 |
 | 33 | [Layer2-Pivoting-Client](https://github.com/rsmudge/Layer2-Pivoting-Client) | 78 | 34 | C | 0 | A simple client to demonstrate Layer-2 pivoting. Compatible with the simpletun.c server written by Davide Brini. | 2014-10-15 |
 | 34 | [layer2](https://github.com/the-web3/layer2) | 75 | 25 | - | 0 | 最全面的 Layer2 资料汇总 | 2024-09-04 |
-| 35 | [Tiramisu](https://github.com/dharma-eng/Tiramisu) | 74 | 3 | TypeScript | 0 | Tiramisu is a "Layer Two" system for scalable token transfers that prioritizes simplicity. | 2023-02-03 |
+| 35 | [Tiramisu](https://github.com/dharma-eng/Tiramisu) | 74 | 2 | TypeScript | 0 | Tiramisu is a "Layer Two" system for scalable token transfers that prioritizes simplicity. | 2023-02-03 |
 | 36 | [entry](https://github.com/laincloud/entry) | 73 | 33 | Go | 0 | Attach to LAIN app container via `lain enter` | 2019-04-25 |
 | 37 | [orbiter-sdk](https://github.com/Orbiter-Finance/orbiter-sdk) | 68 | 45 | TypeScript | 9 | Orbiter-Sdk is a secure and fast Layer2 cross-platform transfer library | 2023-07-10 |
 | 38 | [docker-layer2-icc](https://github.com/brthor/docker-layer2-icc) | 66 | 6 | Python | 0 | Demonstrating that disabling ICC in docker does not block raw packets between containers. | 2018-02-21 |
 | 39 | [axon](https://github.com/axonweb3/axon) | 65 | 40 | Rust | 22 | Axon is a Layer 2 framework of CKB with native cross-chain and interoperability. | 2024-03-24 |
-| 40 | [go-ten](https://github.com/ten-protocol/go-ten) | 65 | 49 | Go | 17 | Official Golang implementation of the TEN protocol | 2026-05-05 |
+| 40 | [go-ten](https://github.com/ten-protocol/go-ten) | 65 | 50 | Go | 17 | Official Golang implementation of the TEN protocol | 2026-06-15 |
 | 41 | [awesome-blockchain-scalability](https://github.com/lucadonnoh/awesome-blockchain-scalability) | 64 | 2 | - | 1 | A curated list of awesome resources about blockchain scalability | 2023-03-28 |
 | 42 | [kinto-core](https://github.com/KintoXYZ/kinto-core) | 63 | 38 | Solidity | 2 | Core Contracts of Kinto | 2025-10-24 |
 | 43 | [cBridge-node](https://github.com/celer-network/cBridge-node) | 60 | 14 | Go | 12 | Celer cBridge relay node implementation in Golang | 2021-11-04 |
@@ -66,7 +66,7 @@
 | 58 | [reddio](https://github.com/reddio-com/reddio) | 34 | 11 | Go | 10 | Parallel EVM layer2 | 2025-07-03 |
 | 59 | [stellar-turrets](https://github.com/kalepail/stellar-turrets) | 34 | 28 | JavaScript | 9 | Reference implementation of the Stellar Turrets protocol | 2022-01-14 |
 | 60 | [XRPLEVM](https://github.com/MeoMunDep/XRPLEVM) | 34 | 1 | JavaScript | 0 | Auto deploy, send, burn, swap, bridge, add liquid pool, mint tokens.  | 2025-09-29 |
-| 61 | [ten-documentation](https://github.com/ten-protocol/ten-documentation) | 32 | 30 | JavaScript | 0 | Ten Documentation provides a comprehensive guide to understanding and integrating TEN | 2026-02-27 |
+| 61 | [ten-documentation](https://github.com/ten-protocol/ten-documentation) | 32 | 31 | JavaScript | 0 | Ten Documentation provides a comprehensive guide to understanding and integrating TEN | 2026-02-27 |
 | 62 | [DISEQ](https://github.com/jonas089/DISEQ) | 31 | 4 | Rust | 6 | distributed sequencer with zk consensus | 2025-04-13 |
 | 63 | [gtp-backend](https://github.com/growthepie/gtp-backend) | 30 | 12 | Python | 0 | The backend powering growthepie, the open analytics platform for the Ethereum ecosystem. It indexes and aggregates onchain data across Ethereum Mainnet, Layer 2s, and leading applications. | 2026-06-10 |
 | 64 | [mina-zk-rollup](https://github.com/Trivo25/mina-zk-rollup) | 30 | 2 | TypeScript | 22 | A modular zk-Rollup for zero knowledge smart contracts, zkApps, on the Mina blockchain. | 2023-04-16 |
@@ -75,7 +75,7 @@
 | 67 | [zxnext_layer2](https://github.com/stefanbylund/zxnext_layer2) | 28 | 6 | C | 0 | C layer 2 graphics API for Spectrum Next | 2022-07-10 |
 | 68 | [gosh](https://github.com/gosh-sh/gosh) | 28 | 6 | Shell | 0 | GOSH — Decentralized Operating System where you build consensus around your idea. GOSH is an advanced scalable multithreaded blockchain, and the first with a Freemium business model, offering powerful... | 2024-08-08 |
 | 69 | [Novaichain](https://github.com/MeoMunDep/Novaichain) | 26 | 0 | Shell | 0 | Auto swap, faucet, connect wallet. | 2025-10-15 |
-| 70 | [sso](https://github.com/laincloud/sso) | 25 | 14 | Go | 3 | Single Sign On with OAuth2 and OpenID Connect, independent of LAIN | 2018-09-12 |
+| 70 | [sso](https://github.com/laincloud/sso) | 25 | 13 | Go | 3 | Single Sign On with OAuth2 and OpenID Connect, independent of LAIN | 2018-09-12 |
 | 71 | [sgn](https://github.com/celer-network/sgn) | 23 | 8 | Go | 0 | Official Go implementation of the Celer State Guardian Network (SGN) | 2023-03-07 |
 | 72 | [wireguard](https://github.com/qinghon/wireguard) | 22 | 1 | C | 0 | wireguard layer2 mode | 2026-01-23 |
 | 73 | [ndxstr-nodejs](https://github.com/OpenAgentsInc/ndxstr-nodejs) | 22 | 2 | JavaScript | 2 | Nostr indexing node proof-of-concept in NodeJS | 2023-01-29 |
@@ -90,7 +90,7 @@
 | 82 | [layer2](https://github.com/mtth/layer2) | 18 | 1 | C++ | 2 |  | 2016-02-07 |
 | 83 | [stellar-turrets](https://github.com/stellar/stellar-turrets) | 18 | 10 | JavaScript | 0 | Reference implementation of the Stellar Turrets protocol | 2024-08-29 |
 | 84 | [js-layer2lib](https://github.com/layer2lib/js-layer2lib) | 18 | 0 | JavaScript | 0 | A javascript library for building state-channel and Plasma applications | 2018-08-26 |
-| 85 | [SuperScalar](https://github.com/8144225309/SuperScalar) | 18 | 2 | C | 8 | Implementation of SuperScalar — Bitcoin Lightning channel factories that onboard N users in one shared UTXO. No soft fork required. | 2026-06-15 |
+| 85 | [SuperScalar](https://github.com/8144225309/SuperScalar) | 18 | 2 | C | 8 | Implementation of SuperScalar — Bitcoin Lightning channel factories that onboard N users in one shared UTXO. No soft fork required. | 2026-06-16 |
 | 86 | [optimistic-rollup](https://github.com/MitchellTesla/optimistic-rollup) | 18 | 3 | Solidity | 0 | 丰 Solidity smart-contracts for the Celer sidechain on the Ethereum Virtual-Machine  💎  | 2022-01-18 |
 | 87 | [layer2](https://github.com/vmt/layer2) | 17 | 9 | C | 1 | Toy framework for creating a VPN | 2012-04-23 |
 | 88 | [myfirstlayer2-frontend](https://github.com/lxdao-official/myfirstlayer2-frontend) | 17 | 7 | JavaScript | 10 | MyFirstLayer2 serves as an educational platform geared towards novices eager to explore and engage with Layer2 technologies.  | 2025-05-16 |
