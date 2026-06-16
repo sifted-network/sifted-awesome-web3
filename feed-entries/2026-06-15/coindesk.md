@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-15"
 date: "2026-06-15"
 source: "CoinDesk"
-count: 8
+count: 5
 ---
 
 # CoinDesk - 2026-06-15
 
-8 items collected.
+5 items collected.
 
 ---
 
@@ -68,41 +68,5 @@ Perpetual futures generated more than $60 trillion in volume last year, accordin
 Armstrong said his instinct is that bitcoin has probably found its floor, pointing to the four-year cycle that has historically marked lows.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/15/coinbase-s-brian-armstrong-says-bitcoin-may-have-bottomed-at-usd60-000)
-
----
-
-## 6. XRP rockets 8% above $1.20 in first major breakout since June selloff
-
-**Author:** Shaurya Malwa  
-**Published:** 6/15/2026, 1:26:20 PM  
-**Categories:** Markets, News  
-
-Heavy volume pushed XRP through multiple resistance levels, with traders now focused on whether the rally can extend toward $1.30 after weeks of defensive positioning.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/15/xrp-rockets-8-above-usd1-20-in-first-major-breakout-since-june-selloff)
-
----
-
-## 7. CoinDesk 20 performance update: Bittensor (TAO) surges 31.9%, leading index higher
-
-**Author:** CoinDesk Indices  
-**Published:** 6/15/2026, 1:19:28 PM  
-**Categories:** CoinDesk Indices, CoinDesk Indices, CoinDesk 20, charts, Prices, News  
-
-Near Protocol (NEAR), up 22.2% from Friday, was also a top performer.
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/06/15/coindesk-20-performance-update-bittensor-tao-surges-31-9-leading-index-higher)
-
----
-
-## 8. Bitmine adds another $136 million of ether after raising $274 million in preferred stock sale
-
-**Author:** Krisztian Sandor  
-**Published:** 6/15/2026, 1:04:51 PM  
-**Categories:** Finance, Ethereum News, Digital Asset Treasury, News  
-
-Tom Lee's Ethereum treasury firm, through the preferred stock sale, is using a financing tool pioneered by Michael Saylor's bitcoin treasury firm Strategy.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/15/bitmine-adds-another-usd136-million-of-ether-after-raising-usd274-million-in-preferred-stock-sale)
 
 ---
