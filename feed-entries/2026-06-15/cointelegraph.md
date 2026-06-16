@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-06-15"
 date: "2026-06-15"
 source: "Cointelegraph"
-count: 15
+count: 19
 ---
 
 # Cointelegraph - 2026-06-15
 
-15 items collected.
+19 items collected.
 
 ---
 
-## 1. CFTC hires SEC crypto task force adviser with blockchain forensics chops
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Cointelegraph  
+**Published:** 6/15/2026, 10:39:18 PM  
+**Categories:** Trump memecoin, Solana memecoin, TRUMP token, Solana, SOL, Nova Labs, SEC, Securities and Exchange Commission, Crypto regulation, TRUMP rally, Bitcoin, Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Trump crypto company's USD1 stablecoins backing UFC event bonuses
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 6/15/2026, 10:10:00 PM  
+**Categories:** Latest News  
+
+A spokesperson for the Democratic National Committee decried the move as “an opportunity to use the power of the presidency to make [Trump] and his family even richer.”
+
+📖 [Read original article](https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Nvidia’s $20 billion debt boom reinforces Bitcoin miners' AI pivot
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 6/15/2026, 8:15:43 PM  
+**Categories:** Latest News  
+
+Nvidia’s planned bond sale reinforces booming AI infrastructure demand, strengthening the case for Bitcoin miners pivoting toward AI data centers.
+
+📖 [Read original article](https://cointelegraph.com/news/nvidia-20-billion-debt-boom-reinforces-bitocin-minings-ai-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. CFTC hires SEC crypto task force adviser with blockchain forensics chops
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 6/15/2026, 7:41:24 PM  
@@ -23,7 +59,7 @@ The CFTC staff appointment came amid the US Congress seeking to overhaul federal
 
 ---
 
-## 2. BitMine boosts ETH holdings closer to $10B as bear market accumulation continues
+## 5. BitMine boosts ETH holdings closer to $10B as bear market accumulation continues
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 6/15/2026, 6:55:11 PM  
@@ -35,7 +71,7 @@ BitMine continued buying Ether through the market downturn, growing its stake to
 
 ---
 
-## 3. Kraken rolls out perpetual futures for US traders through CFTC-regulated venue
+## 6. Kraken rolls out perpetual futures for US traders through CFTC-regulated venue
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 6/15/2026, 6:53:15 PM  
@@ -47,7 +83,7 @@ The offering follows Kraken's acquisition of Bitnomial and comes amid a broader 
 
 ---
 
-## 4. These Bitcoin charts show how BTC price could hit $100K before October
+## 7. These Bitcoin charts show how BTC price could hit $100K before October
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 6/15/2026, 4:18:14 PM  
@@ -59,7 +95,7 @@ Bitcoin’s double-bottom setup, weekly RSI divergence and whale flows put trade
 
 ---
 
-## 5. Bitcoin analysis warns over BTC price rejection as $67K approaches
+## 8. Bitcoin analysis warns over BTC price rejection as $67K approaches
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/15/2026, 3:22:18 PM  
@@ -71,7 +107,7 @@ Bitcoin snatched upside liquidity as the US trading session began, but traders w
 
 ---
 
-## 6. Pudgy Penguins winds down Pudgy Party mobile game
+## 9. Pudgy Penguins winds down Pudgy Party mobile game
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/15/2026, 3:05:14 PM  
@@ -83,7 +119,19 @@ Pudgy Penguins will halt development of Pudgy Party and focus on Pudgy World, as
 
 ---
 
-## 7. Saylor’s Strategy buys 1,587 BTC for $100M, holdings hit 846.8K
+## 10. Bybit expands RWA push with tokenized bond funds from PIMCO, CMBI
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 6/15/2026, 3:00:00 PM  
+**Categories:** Latest News  
+
+The new offering gives eligible users access to tokenized institutional bond funds as demand for blockchain-based real-world assets continues to grow.
+
+📖 [Read original article](https://cointelegraph.com/news/bybit-launches-tokenized-bond-products-from-pimco-and-cmbi-through-rwa-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 11. Saylor’s Strategy buys 1,587 BTC for $100M, holdings hit 846.8K
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/15/2026, 1:52:12 PM  
@@ -95,7 +143,7 @@ Strategy acquired 1,587 Bitcoin for $100 million last week, lifting holdings to 
 
 ---
 
-## 8. Tokenization could push DeFi assets to $2.7T by 2030: Standard Chartered
+## 12. Tokenization could push DeFi assets to $2.7T by 2030: Standard Chartered
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/15/2026, 1:28:24 PM  
@@ -107,7 +155,7 @@ Standard Chartered forecasts assets locked in decentralized finance will reach $
 
 ---
 
-## 9. Can BTC rebound to $69K as oil price plunges? Five things to know in Bitcoin this week
+## 13. Can BTC rebound to $69K as oil price plunges? Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/15/2026, 10:14:39 AM  
@@ -119,7 +167,7 @@ Bitcoin gained bullish short-term BTC price targets with $69,000 on the radar th
 
 ---
 
-## 10. Japan’s Bitbank cracks down on Polymarket-linked transfers
+## 14. Japan’s Bitbank cracks down on Polymarket-linked transfers
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/15/2026, 10:05:29 AM  
@@ -131,7 +179,7 @@ Japanese crypto exchange Bitbank warns users of possible account suspensions for
 
 ---
 
-## 11. Bitcoin nears $66K as Trump says US has peace deal with Iran
+## 15. Bitcoin nears $66K as Trump says US has peace deal with Iran
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/15/2026, 6:47:49 AM  
@@ -143,7 +191,7 @@ US President Donald Trump says the US and Iran have a deal for a “toll-free op
 
 ---
 
-## 12. CFTC sues New Mexico over prediction market jurisdiction
+## 16. CFTC sues New Mexico over prediction market jurisdiction
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/15/2026, 5:54:06 AM  
@@ -155,7 +203,7 @@ New Mexico is the eighth state sued by the CFTC over prediction markets, as Gary
 
 ---
 
-## 13. Aztec Connect’s abandoned smart contract exploited for $2.1M
+## 17. Aztec Connect’s abandoned smart contract exploited for $2.1M
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/15/2026, 5:43:47 AM  
@@ -167,7 +215,7 @@ The Aztec Connect platform was deprecated in March 2023, but the immutable smart
 
 ---
 
-## 14. Bitcoin mining difficulty drops 10% in 11th largest downward adjustment
+## 18. Bitcoin mining difficulty drops 10% in 11th largest downward adjustment
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/15/2026, 4:16:14 AM  
@@ -179,7 +227,7 @@ Bitcoin mining difficulty has undergone its second-largest downward difficulty a
 
 ---
 
-## 15. Bitcoin Covenants Part 1: Exploring New Possibilities for Complex Spending Conditions on the Bitcoin Network
+## 19. Bitcoin Covenants Part 1: Exploring New Possibilities for Complex Spending Conditions on the Bitcoin Network
 
 **Author:** Cointelegraph by Kyrian Alex  
 **Published:** 6/15/2026, 12:00:00 AM  
