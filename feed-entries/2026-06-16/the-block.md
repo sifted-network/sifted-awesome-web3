@@ -2,16 +2,76 @@
 title: "The Block - 2026-06-16"
 date: "2026-06-16"
 source: "The Block"
-count: 18
+count: 19
 ---
 
 # The Block - 2026-06-16
 
-18 items collected.
+19 items collected.
 
 ---
 
-## 1. Coinbase launching tokenized US stocks, backed 1:1, with holders able to receive dividends
+## 1. Bipartisan senators push Treasury to uphold states’ authorities under the GENIUS Act
+
+**Author:** Sarah Wynn  
+**Published:** 6/16/2026, 8:07:23 PM  
+**Categories:** Crypto Ecosystems, Stablecoins, The Block  
+
+A group of bipartisan senators pressed the Treasury Department to preserve states' ability to regulate stablecoins.
+
+📖 [Read original article](https://www.theblock.co/post/405018/bipartisan-senators-push-treasury-uphold-states-authorities-under-genius-act?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Coinbase unveils ‘System Update’ unlocking an AI advisor, global unified liquidity, options trading and more
+
+**Author:** Daniel Kuhn  
+**Published:** 6/16/2026, 7:00:00 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Exchanges, Infrastructure, Web3, AI, Coinbase, Developer tools, Tokenization  
+
+Coinbase's latest System Update includes a new AI-powered advisor and global unified liquidity between its U.S. and international platforms.
+
+📖 [Read original article](https://www.theblock.co/post/405012/coinbase-unveils-system-update-unlocking-an-ai-advisor-global-unified-liquidity-options-trading-and-more?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Pump.fun activity craters 80% in three months, dragging Solana fees lower as traders rotate into perps
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 6/16/2026, 6:26:02 PM  
+**Categories:** Crypto Ecosystems, Layer 1s, Markets, The Block, Token Projects, Web3, Solana, Tokens  
+
+The platform's fall from grace is best reflected in the PUMP token itself, which is down 40% in the last six months alone.
+
+📖 [Read original article](https://www.theblock.co/post/404806/pump-fun-activity-craters-80-three-months-solana-fees-lower-traders-rotate-perps?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Squid adds Ripple’s RLUSD stablecoin for cross-chain swaps
+
+**Author:** Yogita Khatri  
+**Published:** 6/16/2026, 5:40:27 PM  
+**Categories:** Bridges, Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, Infrastructure, Stablecoins, Web3, Assets, Cross-chain Swaps, Crypto, Decentralized Infrastructure, Developer tools, exclusive, Protocols, Tokens  
+
+Cross-chain platform Squid has integrated Ripple's RLUSD stablecoin, allowing users to swap into and out of RLUSD across chains and assets.
+
+📖 [Read original article](https://www.theblock.co/post/405005/squid-ripple-rlusd-stablecoin-cross-chain-swaps?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Bitcoin DeFi demand concentrated in small-but-deep pockets, Rootstock exec says
+
+**Author:** Kyle Baird  
+**Published:** 6/16/2026, 5:19:38 PM  
+**Categories:** Crypto Ecosystems, DeFi, The Block, defi, rootstock  
+
+DeFi liquidity is down, with total value locked dropping from roughly $180 billion to $70 billion in less than a year.
+
+📖 [Read original article](https://www.theblock.co/post/404980/bitcoin-defi-demand-concentrated-small-pockets-rootstock-exec-says?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. Coinbase launching tokenized US stocks, backed 1:1, with holders able to receive dividends
 
 **Author:** RT Watson  
 **Published:** 6/16/2026, 4:02:07 PM  
@@ -23,7 +83,7 @@ Both rivals like Robinhood and Kraken and traditional financial institutions hav
 
 ---
 
-## 2. MANTRA to be acquired by Inveniam, backer that invested $20 million last year
+## 7. MANTRA to be acquired by Inveniam, backer that invested $20 million last year
 
 **Author:** RT Watson  
 **Published:** 6/16/2026, 3:27:34 PM  
@@ -35,7 +95,7 @@ The deal comes after MANTRA’s token suffered a major collapse in 2025 and then
 
 ---
 
-## 3. Forward Solana treasury stock jumps 8% as smaller DATs reject acquisition bids
+## 8. Forward Solana treasury stock jumps 8% as smaller DATs reject acquisition bids
 
 **Author:** Daniel Kuhn  
 **Published:** 6/16/2026, 3:22:31 PM  
@@ -47,7 +107,7 @@ Solana DAT stocks are moving on Tuesday as the largest SOL DAT Forward works to 
 
 ---
 
-## 4. SEC Chair Atkins defends CFTC’s Selig despite questions over agency’s ability to regulate prediction markets
+## 9. SEC Chair Atkins defends CFTC’s Selig despite questions over agency’s ability to regulate prediction markets
 
 **Author:** Sarah Wynn  
 **Published:** 6/16/2026, 2:36:33 PM  
@@ -59,7 +119,7 @@ SEC Chair Paul Atkins came to the defense of CFTC Michael Selig as the derivativ
 
 ---
 
-## 5. Binance may be forced to halt services for EU clients next month: Reuters
+## 10. Binance may be forced to halt services for EU clients next month: Reuters
 
 **Author:** Kyle Baird  
 **Published:** 6/16/2026, 2:19:00 PM  
@@ -71,7 +131,7 @@ The reported setback comes just weeks before the EU's July 1 deadline for crypto
 
 ---
 
-## 6. Ripple buys into Flutterwave Series E at $3.2 billion valuation, backs RLUSD integration
+## 11. Ripple buys into Flutterwave Series E at $3.2 billion valuation, backs RLUSD integration
 
 **Author:** Brian Danga  
 **Published:** 6/16/2026, 1:45:22 PM  
@@ -83,7 +143,7 @@ Ripple backs Flutterwave's $3.2 billion Series E with RLUSD and XRP Ledger integ
 
 ---
 
-## 7. State Street launches GENIUS-compliant money market fund for stablecoin issuers
+## 12. State Street launches GENIUS-compliant money market fund for stablecoin issuers
 
 **Author:** Daniel Kuhn  
 **Published:** 6/16/2026, 1:44:23 PM  
@@ -95,7 +155,7 @@ SSCXX is a Rule 2a-7 government money market fund, a conservative type of fund t
 
 ---
 
-## 8. Bitcoin’s rally and HYPE’s record run mask a market still waiting for real conviction, analysts say
+## 13. Bitcoin’s rally and HYPE’s record run mask a market still waiting for real conviction, analysts say
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/16/2026, 1:36:08 PM  
@@ -107,7 +167,7 @@ Bitcoin held above $66,000 after the Iran truce as HYPE hit a fresh ATH above $7
 
 ---
 
-## 9. Gate CrossEx: An Exchange-Native Answer to the Institutional Capital Fragmentation Problem
+## 14. Gate CrossEx: An Exchange-Native Answer to the Institutional Capital Fragmentation Problem
 
 **Author:** Steven Zheng  
 **Published:** 6/16/2026, 1:24:12 PM  
@@ -119,7 +179,7 @@ For sophisticated crypto desks, the bottleneck has rarely been finding liquidity
 
 ---
 
-## 10. Ledn says bitcoin-backed lending market could reach $1 trillion as securitization attracts institutional capital
+## 15. Ledn says bitcoin-backed lending market could reach $1 trillion as securitization attracts institutional capital
 
 **Author:** James Hunt  
 **Published:** 6/16/2026, 12:47:02 PM  
@@ -131,7 +191,7 @@ The company estimates it has a 30% share of the global consumer bitcoin-backed l
 
 ---
 
-## 11. Robinhood cuts 10% of staff, expects $28 million in restructuring charges
+## 16. Robinhood cuts 10% of staff, expects $28 million in restructuring charges
 
 **Author:** Brian Danga  
 **Published:** 6/16/2026, 12:45:59 PM  
@@ -143,7 +203,7 @@ Robinhood cut 10% of its staff and expects $28 million in restructuring charges 
 
 ---
 
-## 12. BlackRock launches new Bitcoin ETF that generates income using a covered call strategy
+## 17. BlackRock launches new Bitcoin ETF that generates income using a covered call strategy
 
 **Author:** Daniel Kuhn  
 **Published:** 6/16/2026, 12:00:00 PM  
@@ -155,7 +215,7 @@ BITA holds bitcoin and BlackRock’s bitcoin ETF (IBIT) and generates income by 
 
 ---
 
-## 13. Coinbase, AWS enable publishers on CloudFront and WAF to charge AI agents via x402 protocol
+## 18. Coinbase, AWS enable publishers on CloudFront and WAF to charge AI agents via x402 protocol
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/16/2026, 11:40:01 AM  
@@ -167,7 +227,7 @@ Coinbase and AWS are allowing publishers on CloudFront and WAF to charge AI agen
 
 ---
 
-## 14. India files charges against 8 defendants in alleged $20 million Coinbase spoofing scam
+## 19. India files charges against 8 defendants in alleged $20 million Coinbase spoofing scam
 
 **Author:** Brian Danga  
 **Published:** 6/16/2026, 11:05:12 AM  
@@ -176,53 +236,5 @@ Coinbase and AWS are allowing publishers on CloudFront and WAF to charge AI agen
 India's Directorate of Enforcement charged Chirag Tomar and associates over an alleged $20 million Coinbase spoofing scheme.
 
 📖 [Read original article](https://www.theblock.co/post/404872/india-files-charges-against-8-defendants-in-alleged-20-million-coinbase-spoofing-scam?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. ‘That’s the wrong question’: Bitwise CIO reframes bitcoin bottom debate, points to long-term drivers
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/16/2026, 10:13:49 AM  
-**Categories:** Companies, Equities, Market Updates, Markets, Analyst Reports, bitwise, galaxy, nydig, standard-chartered  
-
-Bitwise CIO Matt Hougan said Galaxy, NYDIG, and Standard Chartered disagree on bitcoin's bottom, but all three expect another bull cycle.
-
-📖 [Read original article](https://www.theblock.co/post/404867/thats-the-wrong-question-bitwise-cio-reframes-bitcoin-bottom-debate-points-to-long-term-drivers?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. IMF says Nigeria’s stablecoin adoption is ‘testing the limits’ of monetary and regulatory frameworks
-
-**Author:** Brian Danga  
-**Published:** 6/16/2026, 9:32:29 AM  
-**Categories:** Crypto Ecosystems, International Policymaking, Lobbying, Policy, Regulation, Stablecoins, imf, nigeria, Tether, USDC  
-
-The IMF said stablecoin adoption in Nigeria is testing monetary and regulatory frameworks, while warning of digital dollarization risks.
-
-📖 [Read original article](https://www.theblock.co/post/404862/imf-nigeria-stablecoin-adoption-testing-limits-monetary-regulatory-frameworks?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. French BTC treasury firm Capital B developing STRC-style bitcoin credit instrument
-
-**Author:** Danny Park  
-**Published:** 6/16/2026, 8:45:51 AM  
-**Categories:** Companies, Markets, Token Projects, Bitcoin, Capital B  
-
-Capital B is developing a digital credit instrument similar to Strategy's STRC and Strive's SATA.
-
-📖 [Read original article](https://www.theblock.co/post/404854/french-btc-treasury-firm-capital-b-developing-strc-style-bitcoin-credit-instrument?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. South Korean police arrest 23 individuals in $11 million USDT laundering case: report
-
-**Author:** Danny Park  
-**Published:** 6/16/2026, 8:02:42 AM  
-**Categories:** Crypto Ecosystems, Legal, Policy, Stablecoins, Crime, Tether  
-
-From February 2024 to April 2025, the group allegedly moved $11.1 million in illegal funds by purchasing USDT and trading on exchanges.
-
-📖 [Read original article](https://www.theblock.co/post/404843/south-korea-usdt-laundering-arrest?utm_source=rss&utm_medium=rss)
 
 ---
