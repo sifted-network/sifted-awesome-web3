@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-15"
 date: "2026-06-15"
 source: "Cointelegraph"
-count: 18
+count: 17
 ---
 
 # Cointelegraph - 2026-06-15
 
-18 items collected.
+17 items collected.
 
 ---
 
@@ -212,17 +212,5 @@ New Mexico is the eighth state sued by the CFTC over prediction markets, as Gary
 The Aztec Connect platform was deprecated in March 2023, but the immutable smart contract still held over $2 million in crypto assets.
 
 📖 [Read original article](https://cointelegraph.com/news/aztec-connects-depreciated-smart-contract-exploited-for-2-million?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 18. Bitcoin mining difficulty drops 10% in 11th largest downward adjustment
-
-**Author:** Martin Young  
-**Published:** 6/15/2026, 3:16:14 AM  
-**Categories:** Latest News, Bitcoin Mining, Hashrate  
-
-Bitcoin mining difficulty has undergone its second-largest downward difficulty adjustment this year, following February’s 11% shift.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-mining-difficulty-drops-10-in-11th-largest-downward-adjustment?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
