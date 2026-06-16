@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-06-15"
 date: "2026-06-15"
 source: "Decrypt"
-count: 12
+count: 14
 ---
 
 # Decrypt - 2026-06-15
 
-12 items collected.
+14 items collected.
 
 ---
 
-## 1. Someone Just Lost $1 Million on Polymarket Over Spain World Cup Shocker
+## 1. Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit
+
+**Author:** Jason Nelson  
+**Published:** 6/15/2026, 9:05:00 PM  
+**Categories:** Law and Order  
+
+A federal judge handed Elon Musk his second defeat against OpenAI after finding xAI failed to show OpenAI improperly obtained confidential info.
+
+📖 [Read original article](https://decrypt.co/371253/elon-musk-loses-again-openai-xai-trade-secret-lawsuit)
+
+---
+
+## 2. Pudgy Penguins NFT Game 'Pudgy Party' Shuts Down Less Than a Year After Launch
+
+**Author:** Andrew Hayward  
+**Published:** 6/15/2026, 8:47:53 PM  
+**Categories:** , Gaming  
+
+Pudgy Party, a mobile battle royale game, has closed up shop as the Pudgy Penguins team shifts its focus to its Pudgy World experience.
+
+📖 [Read original article](https://decrypt.co/371197/pudgy-penguins-nft-game-pudgy-party-shuts-down)
+
+---
+
+## 3. Someone Just Lost $1 Million on Polymarket Over Spain World Cup Shocker
 
 **Author:** Jose Antonio Lanz  
 **Published:** 6/15/2026, 8:06:36 PM  
@@ -23,7 +47,7 @@ One trader lost $1 million betting Spain would win. Another bought "No" at 9¢ a
 
 ---
 
-## 2. Rio de Janeiro Built an AI Model That Beat DeepSeek—But Was Based on Someone Else's Work
+## 4. Rio de Janeiro Built an AI Model That Beat DeepSeek—But Was Based on Someone Else's Work
 
 **Author:** Jose Antonio Lanz  
 **Published:** 6/15/2026, 7:43:48 PM  
@@ -35,7 +59,7 @@ Rio de Janeiro released a frontier-class AI model that claimed to beat Alibaba's
 
 ---
 
-## 3. Wall Street Could Boost Uniswap's Token Price Nearly 40x by 2030: Standard Chartered
+## 5. Wall Street Could Boost Uniswap's Token Price Nearly 40x by 2030: Standard Chartered
 
 **Author:** André Beganski  
 **Published:** 6/15/2026, 6:37:57 PM  
@@ -47,7 +71,7 @@ Uniswap’s native token UNI is set to surge nearly fortyfold in the coming year
 
 ---
 
-## 4. Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing
+## 6. Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing
 
 **Author:** Jason Nelson  
 **Published:** 6/15/2026, 5:57:48 PM  
@@ -59,7 +83,7 @@ A class action lawsuit alleges Anthropic overstated the usage limits of its Clau
 
 ---
 
-## 5. Solana Treasury Firm Forward Industries Keeps Trying to Acquire Rivals—But Nobody's Biting
+## 7. Solana Treasury Firm Forward Industries Keeps Trying to Acquire Rivals—But Nobody's Biting
 
 **Author:** Logan Hitchcock  
 **Published:** 6/15/2026, 5:30:29 PM  
@@ -71,7 +95,7 @@ Forward Industries has been unsuccessful on all three recent attempts to combine
 
 ---
 
-## 6. Canadian PM Urges AI Diversification After US Anthropic Block, Decentralized AI Tokens Rally
+## 8. Canadian PM Urges AI Diversification After US Anthropic Block, Decentralized AI Tokens Rally
 
 **Author:** Vince Dioquino  
 **Published:** 6/15/2026, 4:07:35 PM  
@@ -83,7 +107,7 @@ The U.S. move to pull Anthropic's top models offline shows the dangers of leanin
 
 ---
 
-## 7. Bitcoin Giant Strategy Pads Cash Cushion for Second Straight Week, Buys BTC
+## 9. Bitcoin Giant Strategy Pads Cash Cushion for Second Straight Week, Buys BTC
 
 **Author:** André Beganski  
 **Published:** 6/15/2026, 3:29:41 PM  
@@ -95,7 +119,7 @@ Strategy expanded its USD Reserve to $1.1 billion and increased its total Bitcoi
 
 ---
 
-## 8. One Indicted Over Crypto ‘Wrench Attack’ in France
+## 10. One Indicted Over Crypto ‘Wrench Attack’ in France
 
 **Author:** Decrypt Agent  
 **Published:** 6/15/2026, 2:40:46 PM  
@@ -107,7 +131,7 @@ The crypto-related assault reportedly involved attackers posing as police office
 
 ---
 
-## 9. Tom Lee's BitMine Adds $139 Million in Ethereum Ahead of Preferred Share Trading Start
+## 11. Tom Lee's BitMine Adds $139 Million in Ethereum Ahead of Preferred Share Trading Start
 
 **Author:** Logan Hitchcock  
 **Published:** 6/15/2026, 2:36:50 PM  
@@ -119,7 +143,7 @@ BitMine Immersion Technologies expanded its leading Ethereum treasury to more th
 
 ---
 
-## 10. Morning Minute: Standard Chartered Says the Crypto Winter Is Over
+## 12. Morning Minute: Standard Chartered Says the Crypto Winter Is Over
 
 **Author:** Tyler Warner  
 **Published:** 6/15/2026, 1:04:47 PM  
@@ -131,7 +155,7 @@ The three crypto market overhangs of the Iran War, SpaceX IPO and ETF outflows a
 
 ---
 
-## 11. Philippines Issues Stricter Crypto Listing Rules, Bans Privacy Coins
+## 13. Philippines Issues Stricter Crypto Listing Rules, Bans Privacy Coins
 
 **Author:** Vismaya V  
 **Published:** 6/15/2026, 11:27:19 AM  
@@ -143,7 +167,7 @@ The Philippines' central bank has tightened crypto oversight with new rules gove
 
 ---
 
-## 12. Bitcoin Tops $65K on US-Iran Deal, But Traders Remain Skeptical
+## 14. Bitcoin Tops $65K on US-Iran Deal, But Traders Remain Skeptical
 
 **Author:** Akash Girimath  
 **Published:** 6/15/2026, 11:03:14 AM  
