@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-15"
 date: "2026-06-15"
 source: "Cointelegraph"
-count: 10
+count: 7
 ---
 
 # Cointelegraph - 2026-06-15
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ Bitcoin’s double-bottom setup, weekly RSI divergence and whale flows put trade
 Bitcoin snatched upside liquidity as the US trading session began, but traders warned over a failure to preserve BTC price gains.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-analysis-warn-over-btc-price-rejection-as-67k-approaches?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 8. Pudgy Penguins winds down Pudgy Party mobile game
-
-**Author:** Ezra Reguerra  
-**Published:** 6/15/2026, 2:05:14 PM  
-**Categories:** Latest News, NFT, Games, GameFi, Mobile Games  
-
-Pudgy Penguins will halt development of Pudgy Party and focus on Pudgy World, as another Web3 gaming project shuts down after failing to find a sustainable business model.
-
-📖 [Read original article](https://cointelegraph.com/news/pudgy-penguins-winds-down-pudgy-party-mobile-game?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 9. Bybit expands RWA push with tokenized bond funds from PIMCO, CMBI
-
-**Author:** Nate Kostar  
-**Published:** 6/15/2026, 2:00:00 PM  
-**Categories:** Latest News, Bybit, RWA Tokenization, RWA, BlackRock, OKX, JPMorgan Chase  
-
-The new offering gives eligible users access to tokenized institutional bond funds as demand for blockchain-based real-world assets continues to grow.
-
-📖 [Read original article](https://cointelegraph.com/news/bybit-launches-tokenized-bond-products-from-pimco-and-cmbi-through-rwa-platform?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 10. What happens when AI agents start using crypto wallets?
-
-**Author:** Dilip Kumar Patairya  
-**Published:** 6/15/2026, 1:25:22 PM  
-**Categories:** Learn, AI, Wallet  
-
-AI agents could use crypto wallets to monitor portfolios, prepare transactions and make payments, but safeguards will be crucial.
-
-📖 [Read original article](https://cointelegraph.com/learn/ai-agents-crypto-wallets?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
