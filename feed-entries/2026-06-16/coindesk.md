@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-16"
 date: "2026-06-16"
 source: "CoinDesk"
-count: 22
+count: 19
 ---
 
 # CoinDesk - 2026-06-16
 
-22 items collected.
+19 items collected.
 
 ---
 
@@ -59,7 +59,7 @@ A handful of tokens continued their run while bitcoin and the rest of the crypto
 
 ---
 
-## 5. Coinbase intoduces AI advisor, stock options, and pre-IPO markets in finance push
+## 5. Coinbase introduces AI adviser, stock options, and pre-IPO markets in finance push
 
 **Author:** Helene Braun  
 **Published:** 6/16/2026, 7:00:00 PM  
@@ -236,41 +236,5 @@ These options, settled in USDT, let traders hedge risk, speculate on gold prices
 Ether, XRP, Solana and Hyperliquid funds all took in money, but bitcoin's outflow was really just Grayscale's GBTC.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/06/16/live-markets-bitcoin-etfs-bled-cash-monday-while-every-other-crypto-etf-gained)
-
----
-
-## 20. XRP gives back gains after 10% rally as traders take profit near $1.25
-
-**Author:** Shaurya Malwa  
-**Published:** 6/16/2026, 5:16:07 AM  
-**Categories:** Markets, News  
-
-Asian demand and ETF inflows helped push XRP through $1.20, but the token struggled to hold its highs after running into fresh selling near a key resistance zone.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/16/xrp-gives-back-gains-after-10-rally-as-traders-take-profit-near-usd1-25)
-
----
-
-## 21. Profit-taking across bitcoin, ether, solana as traders wait on the Iran signing
-
-**Author:** Shaurya Malwa  
-**Published:** 6/16/2026, 4:48:31 AM  
-**Categories:** Markets, News  
-
-A U.S.-Iran deal pulled oil lower and lifted stocks, but bitcoin's bounce is hesitant. ETF outflows just paused after a record run, and analysts say the market wants the deal signed before pricing it in.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/16/profit-taking-across-bitcoin-ether-solana-as-traders-wait-on-the-iran-signing)
-
----
-
-## 22. Bitcoin rises after Bank of Japan hikes interest rates to a 31-year high
-
-**Author:** Omkar Godbole  
-**Published:** 6/16/2026, 4:30:41 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-The Bank of Japan raised its key interest rate by 25 basis points to 1%, the highest level since 1995.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/16/bitcoin-rises-after-bank-of-japan-hikes-interest-rates-to-a-31-year-high)
 
 ---
