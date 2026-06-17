@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-16"
 date: "2026-06-16"
 source: "The Block"
-count: 14
+count: 7
 ---
 
 # The Block - 2026-06-16
 
-14 items collected.
+7 items collected.
 
 ---
 
@@ -92,89 +92,5 @@ Both rivals like Robinhood and Kraken and traditional financial institutions hav
 The deal comes after MANTRA’s token suffered a major collapse in 2025 and then the company announced a restructure and layoffs.
 
 📖 [Read original article](https://www.theblock.co/post/404964/mantra-to-be-acquired-by-inveniam-backer-that-invested-20-million-last-year?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. Forward Solana treasury stock jumps 8% as smaller DATs reject acquisition bids
-
-**Author:** Daniel Kuhn  
-**Published:** 6/16/2026, 3:22:31 PM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Layer 1s, Investment Firms, Solana  
-
-Solana DAT stocks are moving on Tuesday as the largest SOL DAT Forward works to keep its acquisition bids alive.
-
-📖 [Read original article](https://www.theblock.co/post/404965/forward-solana-treasury-stock-jumps-8-as-smaller-dats-reject-acquisition-bids?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. SEC Chair Atkins defends CFTC’s Selig despite questions over agency’s ability to regulate prediction markets
-
-**Author:** Sarah Wynn  
-**Published:** 6/16/2026, 2:36:33 PM  
-**Categories:** Legal, Policy, Regulation, U.S. Policymaking, CFTC, Congress, SEC  
-
-SEC Chair Paul Atkins came to the defense of CFTC Michael Selig as the derivatives agency digs in its heels on regulating prediction markets.
-
-📖 [Read original article](https://www.theblock.co/post/404956/sec-atkins-defends-cftc-selig-questions-agencys-ability-regulate-prediction-markets?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Binance may be forced to halt services for EU clients next month: Reuters
-
-**Author:** Kyle Baird  
-**Published:** 6/16/2026, 2:19:00 PM  
-**Categories:** Companies, Exchanges, International Policymaking, Policy, The Block, Binance, mica  
-
-The reported setback comes just weeks before the EU's July 1 deadline for crypto firms to obtain MiCA authorization or cease operating.
-
-📖 [Read original article](https://www.theblock.co/post/404947/binance-may-forced-halt-services-eu-clients-next-month-reuters?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Ripple buys into Flutterwave Series E at $3.2 billion valuation, backs RLUSD integration
-
-**Author:** Brian Danga  
-**Published:** 6/16/2026, 1:45:22 PM  
-**Categories:** Companies, Deals, Finance firms, Institutional Investors, Private equity, Private Investments, Venture Capital, africa, Fintech, Payments, Ripple, Series C and beyond, Stablecoins, Strategic Investments  
-
-Ripple backs Flutterwave's $3.2 billion Series E with RLUSD and XRP Ledger integration across 34 African markets through investment.
-
-📖 [Read original article](https://www.theblock.co/post/404942/ripple-flutterwave-series-3-2-billion-valuation-rlusd-integration?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. State Street launches GENIUS-compliant money market fund for stablecoin issuers
-
-**Author:** Daniel Kuhn  
-**Published:** 6/16/2026, 1:44:23 PM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Stablecoins, Investment Firms, TradFi banks  
-
-SSCXX is a Rule 2a-7 government money market fund, a conservative type of fund that invests only in cash and yield-bearing cash equivalents.
-
-📖 [Read original article](https://www.theblock.co/post/404941/state-street-launches-genius-compliant-money-market-fund-for-stablecoin-issuers?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Bitcoin’s rally and HYPE’s record run mask a market still waiting for real conviction, analysts say
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/16/2026, 1:36:08 PM  
-**Categories:** Equities, Market Recap, Market Updates, Markets, Analyst Reports, Crypto Movers, hyperliquid, hyperliquid etf, spot bitcoin ETFs  
-
-Bitcoin held above $66,000 after the Iran truce as HYPE hit a fresh ATH above $76, but Wintermute and Bitfinex flagged thin ETF conviction.
-
-📖 [Read original article](https://www.theblock.co/post/404920/bitcoin-rally-hype-record-run-market-waiting-real-conviction-analysts?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. Gate CrossEx: An Exchange-Native Answer to the Institutional Capital Fragmentation Problem
-
-**Author:** Steven Zheng  
-**Published:** 6/16/2026, 1:24:12 PM  
-**Categories:** Companies, Exchanges, The Block, gate-io  
-
-For sophisticated crypto desks, the bottleneck has rarely been finding liquidity, but rather moving capital fast enough to use it. A fund running active books across the largest CEXs operates multiple separate balance sheets that don’t talk to each other. Every account must be funded to meet worst-c...
-
-📖 [Read original article](https://www.theblock.co/post/404882/gate-crossex-an-exchange-native-answer-to-the-institutional-capital-fragmentation-problem?utm_source=rss&utm_medium=rss)
 
 ---
