@@ -2,16 +2,76 @@
 title: "The Block - 2026-06-17"
 date: "2026-06-17"
 source: "The Block"
-count: 12
+count: 17
 ---
 
 # The Block - 2026-06-17
 
-12 items collected.
+17 items collected.
 
 ---
 
-## 1. Bhutan sends $34.5 million in bitcoin to Binance, holdings fall below 1,750 BTC: Arkham
+## 1. ‘One of the most anti-crypto laws in the US’: Illinois Gov. Pritzker signs 0.2% crypto tax
+
+**Author:** Daniel Kuhn  
+**Published:** 6/17/2026, 6:50:22 PM  
+**Categories:** Policy, U.S. Policymaking, crypto-tax  
+
+Crypto industry lobbyists and representatives are speaking out against the Digital Asset Tax Act passed into law in Illinois on Tuesday.
+
+📖 [Read original article](https://www.theblock.co/post/405146/one-most-anti-crypto-laws-in-us-illinois-gov-pritzker-signs-0-2-crypto-tax?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Polychain and Coinbase-backed Satori Finance DEX winds down citing ‘unfavorable market conditions’
+
+**Author:** Daniel Kuhn  
+**Published:** 6/17/2026, 4:19:48 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Markets, Restructuring, DEXs  
+
+Satori raised $10 million in a May 2022 seed round led by Polychain Capital with participation from Coinbase, Jump and others.
+
+📖 [Read original article](https://www.theblock.co/post/405136/polychain-coinbase-backed-satori-finance-dex-winds-down-unfavorable-market-conditions?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Trump comments fuel dispute over Polymarket’s $120 million ‘permanent’ Iran peace deal market
+
+**Author:** Kyle Baird  
+**Published:** 6/17/2026, 3:48:43 PM  
+**Categories:** Markets, Policy, The Block, U.S. Policymaking, polymarket, prediction-market  
+
+Polymarket traders clash over whether a U.S.-Iran memorandum qualifies as a permanent peace deal.
+
+📖 [Read original article](https://www.theblock.co/post/405117/trump-comments-fuel-dispute-over-polymarkets-120-million-permanent-iran-peace-deal-market?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. ‘Biggest spend of the cycle:’ Fairshake crypto PAC’s pick Barry Moore wins Alabama GOP Senate primary
+
+**Author:** Sarah Wynn  
+**Published:** 6/17/2026, 3:39:40 PM  
+**Categories:** Policy, Regulation, U.S. Policymaking, 2024 Elections, Congress  
+
+Rep. Barry Moore clinched a win in Alabama after being bolstered by millions of dollars from the crypto industry.
+
+📖 [Read original article](https://www.theblock.co/post/405125/biggest-spend-of-the-cycle-fairshake-crypto-pacs-pick-barry-moore-wins-alabama-gop-senate-primary?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. EarnOS launches anti-AI slop app, raises $6 million from 1kx, Circle and Coinbase
+
+**Author:** RT Watson  
+**Published:** 6/17/2026, 2:57:16 PM  
+**Categories:** Companies, Deals, Tech, Venture Capital, EarnOS  
+
+Ero app is designed to help brands verify human internet traffic, reduce wastes caused by bots, and reward "authentic digital behavior," said EarnOS.
+
+📖 [Read original article](https://www.theblock.co/post/405114/earnos-launches-anti-ai-slop-app-raises-6-million-1kx-circle-coinbase?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. Bhutan sends $34.5 million in bitcoin to Binance, holdings fall below 1,750 BTC: Arkham
 
 **Author:** Brian Danga  
 **Published:** 6/17/2026, 2:27:00 PM  
@@ -23,7 +83,7 @@ Bhutan transferred 533 BTC worth $34.5 million to Binance, leaving state-linked 
 
 ---
 
-## 2. Stablecoin infrastructure firm Trace Finance raises $32 million Series A, says valuation grew 10x from seed
+## 7. Stablecoin infrastructure firm Trace Finance raises $32 million Series A, says valuation grew 10x from seed
 
 **Author:** Yogita Khatri  
 **Published:** 6/17/2026, 2:19:00 PM  
@@ -35,7 +95,7 @@ CoinFund led the round, with Coinbase Ventures, Haun Ventures, Jump Capital, Pax
 
 ---
 
-## 3. Limitless CEO says no prediction market platform will dominate, citing perpetual futures precedent
+## 8. Limitless CEO says no prediction market platform will dominate, citing perpetual futures precedent
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/17/2026, 2:11:58 PM  
@@ -47,7 +107,7 @@ Limitless CEO CJ Hetherington tells Bernstein no platform will dominate predicti
 
 ---
 
-## 4. ‘He had his day in court:’ Sens. Lummis and Gallego press Trump not to pardon former FTX CEO Sam Bankman-Fried
+## 9. ‘He had his day in court:’ Sens. Lummis and Gallego press Trump not to pardon former FTX CEO Sam Bankman-Fried
 
 **Author:** Sarah Wynn  
 **Published:** 6/17/2026, 1:10:57 PM  
@@ -59,7 +119,7 @@ Sam Bankman-Fried was found guilty on all seven counts related to defrauding FTX
 
 ---
 
-## 5. Bitcoin holds below $65,000 as Warsh faces first FOMC test and Strategy concerns linger
+## 10. Bitcoin holds below $65,000 as Warsh faces first FOMC test and Strategy concerns linger
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/17/2026, 12:28:15 PM  
@@ -71,7 +131,7 @@ BTC trades below $65K, with the Fed expected to hold rates while inflation sits 
 
 ---
 
-## 6. Benchmark sees Coinbase moving past ‘cyclical crypto brokerage,’ reiterates $270 price target
+## 11. Benchmark sees Coinbase moving past ‘cyclical crypto brokerage,’ reiterates $270 price target
 
 **Author:** Brian Danga  
 **Published:** 6/17/2026, 12:01:53 PM  
@@ -83,7 +143,7 @@ Benchmark reiterated its Buy rating on Coinbase, citing an expansive product rol
 
 ---
 
-## 7. ‘Long-term holders are hodling’: K33 says record supply metric suggests bear market may be nearing an end
+## 12. ‘Long-term holders are hodling’: K33 says record supply metric suggests bear market may be nearing an end
 
 **Author:** James Hunt  
 **Published:** 6/17/2026, 11:17:12 AM  
@@ -95,7 +155,7 @@ K33 said stabilizing conditions and trading activity falling back to yearly lows
 
 ---
 
-## 8. Zama, Morpho and Steakhouse launch first ‘confidential DeFi yield’ vault on Ethereum
+## 13. Zama, Morpho and Steakhouse launch first ‘confidential DeFi yield’ vault on Ethereum
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/17/2026, 10:00:02 AM  
@@ -107,7 +167,7 @@ Zama, Morpho and Steakhouse launch the first confidential DeFi yield vault on Et
 
 ---
 
-## 9. Australia’s High Court backs regulator in Block Earner crypto yield case
+## 14. Australia’s High Court backs regulator in Block Earner crypto yield case
 
 **Author:** Brian Danga  
 **Published:** 6/17/2026, 9:45:20 AM  
@@ -119,7 +179,7 @@ Australia’s High Court unanimously ruled that Block Earner required a financia
 
 ---
 
-## 10. Senate, House reach agreement on housing bill banning CBDC through 2030
+## 15. Senate, House reach agreement on housing bill banning CBDC through 2030
 
 **Author:** Danny Park  
 **Published:** 6/17/2026, 7:08:56 AM  
@@ -131,7 +191,7 @@ US Senate and House leaders have jointly released an updated version of a housin
 
 ---
 
-## 11. US gaming industry groups urge Senate to ban sports prediction markets in crypto bill: report
+## 16. US gaming industry groups urge Senate to ban sports prediction markets in crypto bill: report
 
 **Author:** Timmy Shen  
 **Published:** 6/17/2026, 4:19:57 AM  
@@ -143,7 +203,7 @@ US gaming groups called on Congress to ban sports and casino-style prediction ma
 
 ---
 
-## 12. Trump-backed World Liberty Financial nears OCC approval for federal trust charter: report
+## 17. Trump-backed World Liberty Financial nears OCC approval for federal trust charter: report
 
 **Author:** Danny Park  
 **Published:** 6/17/2026, 2:59:21 AM  
