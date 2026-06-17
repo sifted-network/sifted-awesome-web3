@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-06-16"
 date: "2026-06-16"
 source: "Cointelegraph"
-count: 21
+count: 14
 ---
 
 # Cointelegraph - 2026-06-16
 
-21 items collected.
+14 items collected.
 
 ---
 
-## 1. Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?
+## 1. Bitcoin Covenants Part 2: OP_CHECKTEMPLATEVERIFY
+
+**Author:** Kyrian Alex  
+**Published:** 6/16/2026, 11:00:00 PM  
+**Categories:** Research, Bitcoin Core  
+
+CTV lets a Bitcoin output commit to precisely what the next transaction must look like. This enables trust-minimized vaults, congestion control, and smart contract primitives without pre-signed key management.
+
+📖 [Read original article](https://cointelegraph.com/research/bitcoin-covenants-part-2-op-checktemplateverify?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 2. Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?
 
 **Author:** Marcel Pechman  
 **Published:** 6/16/2026, 10:28:40 PM  
@@ -23,7 +35,7 @@ Despite Bitcoin derivatives data highlight traders’ skepticism even though BTC
 
 ---
 
-## 2. Tokenized asset market tops $43B as institutions accelerate blockchain adoption
+## 3. Tokenized asset market tops $43B as institutions accelerate blockchain adoption
 
 **Author:** Sam Bourgi  
 **Published:** 6/16/2026, 8:55:09 PM  
@@ -35,7 +47,7 @@ Tokenized financial assets have surged 37% in six months as institutions expand 
 
 ---
 
-## 3. Bitcoin metric near ‘low-risk’ zone after holders absorb 125K BTC in June: Time for a rebound?
+## 4. Bitcoin metric near ‘low-risk’ zone after holders absorb 125K BTC in June: Time for a rebound?
 
 **Author:** Biraajmaan Tamuly  
 **Published:** 6/16/2026, 7:54:21 PM  
@@ -47,7 +59,7 @@ Bitcoin’s Sharpe ratio and a 125,000 BTC increase in BTC accumulator demand ma
 
 ---
 
-## 4. Crypto PAC has $12M stake in Senate primary runoff as Alabama voters head to polls
+## 5. Crypto PAC has $12M stake in Senate primary runoff as Alabama voters head to polls
 
 **Author:** Turner Wright  
 **Published:** 6/16/2026, 7:45:47 PM  
@@ -59,7 +71,7 @@ Defend American Jobs reported spending $7.4 million on media to support Republic
 
 ---
 
-## 5. Coinbase lets users transfer stock portfolios as exchange expands beyond crypto
+## 6. Coinbase lets users transfer stock portfolios as exchange expands beyond crypto
 
 **Author:** Sam Bourgi  
 **Published:** 6/16/2026, 7:31:19 PM  
@@ -71,7 +83,7 @@ The crypto exchange is deepening its push into traditional finance by enabling A
 
 ---
 
-## 6. XRP whale wallet withdrawals top 720M as risk-adjusted return data points to opportunity
+## 7. XRP whale wallet withdrawals top 720M as risk-adjusted return data points to opportunity
 
 **Author:** Biraajmaan Tamuly  
 **Published:** 6/16/2026, 6:44:51 PM  
@@ -83,7 +95,7 @@ Whales pulled more than 720 million XRP from exchanges, as various data points c
 
 ---
 
-## 7. State Street launches GENIUS Act-aligned money market fund for stablecoin reserves
+## 8. State Street launches GENIUS Act-aligned money market fund for stablecoin reserves
 
 **Author:** Nate Kostar  
 **Published:** 6/16/2026, 5:28:40 PM  
@@ -95,7 +107,7 @@ The launch comes amid growing competition among financial institutions to manage
 
 ---
 
-## 8. Ripple targets Africa’s booming remittance market with Flutterwave investment
+## 9. Ripple targets Africa’s booming remittance market with Flutterwave investment
 
 **Author:** Sam Bourgi  
 **Published:** 6/16/2026, 5:28:00 PM  
@@ -107,7 +119,7 @@ Ripple’s investment in Flutterwave will bring RLUSD, Ripple Payments and XRPL 
 
 ---
 
-## 9. Why US-regulated Bitcoin perpetuals could change crypto trading
+## 10. Why US-regulated Bitcoin perpetuals could change crypto trading
 
 **Author:** Dilip Kumar Patairya  
 **Published:** 6/16/2026, 5:00:00 PM  
@@ -119,7 +131,7 @@ US-regulated Bitcoin perpetual futures could give retail and institutional trade
 
 ---
 
-## 10. Binance says it considers EU license compliant amid reports of potential rejection
+## 11. Binance says it considers EU license compliant amid reports of potential rejection
 
 **Author:** Turner Wright  
 **Published:** 6/16/2026, 4:26:00 PM  
@@ -131,7 +143,7 @@ Without specifically calling out a report on Binance’s EU license, the crypto 
 
 ---
 
-## 11. Bitcoin stocks divergence returns as BTC dips to $66K while oil drops under $78
+## 12. Bitcoin stocks divergence returns as BTC dips to $66K while oil drops under $78
 
 **Author:** William Suberg  
 **Published:** 6/16/2026, 2:18:19 PM  
@@ -143,7 +155,7 @@ Bitcoin joined oil in heading lower while stocks gained on US-Iran peace momentu
 
 ---
 
-## 12. SpaceX’s debut: A win for crypto price discovery, a fail for tokenized access
+## 13. SpaceX’s debut: A win for crypto price discovery, a fail for tokenized access
 
 **Author:** Christina Comben  
 **Published:** 6/16/2026, 2:00:00 PM  
@@ -155,7 +167,7 @@ SpaceX’s blockbuster debut didn’t just mint a trillionaire; it became a real
 
 ---
 
-## 13. Why a ‘safe’ AI can turn dangerous in the wrong company
+## 14. Why a ‘safe’ AI can turn dangerous in the wrong company
 
 **Author:** Rahul Nambiampurath  
 **Published:** 6/16/2026, 1:58:15 PM  
@@ -164,101 +176,5 @@ SpaceX’s blockbuster debut didn’t just mint a trillionaire; it became a real
 A 15-day AI agent simulation shows why short tests may miss long-term risks shaped by tools, rules and other agents.
 
 📖 [Read original article](https://cointelegraph.com/learn/emergence-world-ai-agent-simulation?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 14. Bitcoin sell-off toward $60K may resume as Japan hikes interest rates
-
-**Author:** Yashu Gola  
-**Published:** 6/16/2026, 12:37:06 PM  
-**Categories:** Markets, Bank of Japan, Bitcoin Analysis, Market Analysis, Markets, BTC Markets, Price Analysis, Interest Rate  
-
-Japan’s highest rates since 1995 are putting global liquidity back in focus as traders anticipate 26%–38% BTC price declines.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-selloff-toward-60k-may-resume-as-japan-hikes-interest-rates?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 15. Robinhood cuts 10% of workforce as Tenev touts business strength
-
-**Author:** Helen Partz  
-**Published:** 6/16/2026, 12:13:55 PM  
-**Categories:** Latest News, Robinhood, Business, Companies  
-
-Robinhood cuts about 10% of staff as CEO Vlad Tenev says business “has never been stronger” despite weak Q1 trading.
-
-📖 [Read original article](https://cointelegraph.com/news/robinhood-cuts-workforce-tenev-strong-business?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 16. Solana treasury firms resist Forward Industries’ consolidation push
-
-**Author:** Ezra Reguerra  
-**Published:** 6/16/2026, 11:22:34 AM  
-**Categories:** Latest News, Solana, Stocks, Shares  
-
-Two Solana treasury firms rejected acquisition proposals from Forward Industries, while a third offer expired without a response.
-
-📖 [Read original article](https://cointelegraph.com/news/solana-treasury-firms-reject-forward-industries-offers?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 17. Bitcoin doesn't need Ethereum-style yield, says Strategy's Michael Saylor
-
-**Author:** Helen Partz  
-**Published:** 6/16/2026, 10:11:18 AM  
-**Categories:** Latest News, Staking, Yields, Stocks, MicroStrategy, Michael Saylor, Volatility  
-
-Michael Saylor says Bitcoin does not need staking or inflation, outlining a five-layer “Digital Asset Stack” that generates returns through credit and equity products built around BTC.
-
-📖 [Read original article](https://cointelegraph.com/news/strategy-saylor-bitcoin-credit-alternative-crypto-yield?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 18. Bitcoin miner IREN enters Europe with Nostrum acquisition as AI pivot accelerates
-
-**Author:** Ezra Reguerra  
-**Published:** 6/16/2026, 8:24:55 AM  
-**Categories:** Latest News, Mining, Europe, Bitcoin Mining  
-
-The acquisition adds about 490 megawatts of secured power in Spain as IREN expands beyond Bitcoin mining and builds its European AI cloud platform.
-
-📖 [Read original article](https://cointelegraph.com/news/iren-nostrum-acquisition-europe-ai-cloud?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 19. Bitcoin recovery rests on US-Iran deal as momentum remains weak
-
-**Author:** Martin Young  
-**Published:** 6/16/2026, 5:46:43 AM  
-**Categories:** Latest News, Iran, US Government, BTC Markets  
-
-LVRG Research director Nick Ruck says Bitcoin could face a “volatile path” if a recently agreed peace deal between the US and Iran breaks down.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-price-momentum-remains-weak-despite-reclaiming-67k-swissblock?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 20. US government watchdog urges FDIC to coordinate on crypto oversight
-
-**Author:** Jesse Coghlan  
-**Published:** 6/16/2026, 4:42:22 AM  
-**Categories:** Latest News, US Government, Cryptocurrency Investment  
-
-The US Government Accountability Office says that regulators, including the FDIC, lack an “ongoing coordination mechanism for addressing blockchain risks.”
-
-📖 [Read original article](https://cointelegraph.com/news/us-government-watchdog-urges-fdic-coordinate-on-crypto-oversight?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 21. Anthropic shutdown makes a strong case for decentralized AI: Grayscale
-
-**Author:** Martin Young  
-**Published:** 6/16/2026, 3:38:49 AM  
-**Categories:** Latest News, AI, US Government, Decentralization  
-
-Grayscale says decentralized AI tokens gained after the US government ordered Anthropic to cut access to its latest AI models, showing user demand for alternatives to centralized AI.
-
-📖 [Read original article](https://cointelegraph.com/news/anthropic-shutdown-makes-a-strong-case-for-decentralized-ai-grayscale?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
