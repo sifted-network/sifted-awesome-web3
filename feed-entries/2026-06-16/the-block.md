@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-16"
 date: "2026-06-16"
 source: "The Block"
-count: 19
+count: 14
 ---
 
 # The Block - 2026-06-16
 
-19 items collected.
+14 items collected.
 
 ---
 
@@ -176,65 +176,5 @@ Bitcoin held above $66,000 after the Iran truce as HYPE hit a fresh ATH above $7
 For sophisticated crypto desks, the bottleneck has rarely been finding liquidity, but rather moving capital fast enough to use it. A fund running active books across the largest CEXs operates multiple separate balance sheets that don’t talk to each other. Every account must be funded to meet worst-c...
 
 📖 [Read original article](https://www.theblock.co/post/404882/gate-crossex-an-exchange-native-answer-to-the-institutional-capital-fragmentation-problem?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Ledn says bitcoin-backed lending market could reach $1 trillion as securitization attracts institutional capital
-
-**Author:** James Hunt  
-**Published:** 6/16/2026, 12:47:02 PM  
-**Categories:** Companies, Crypto Ecosystems, Markets, People, Token Projects, Bitcoin  
-
-The company estimates it has a 30% share of the global consumer bitcoin-backed lending market, originating $1.4 billion in loans in 2025.
-
-📖 [Read original article](https://www.theblock.co/post/404885/ledn-says-bitcoin-backed-lending-market-could-reach-1-trillion-as-securitization-attracts-institutional-capital?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Robinhood cuts 10% of staff, expects $28 million in restructuring charges
-
-**Author:** Brian Danga  
-**Published:** 6/16/2026, 12:45:59 PM  
-**Categories:** Companies, Restructuring, crypto-trading, Layoffs  
-
-Robinhood cut 10% of its staff and expects $28 million in restructuring charges tied to flattening management layers and an efficiency push.
-
-📖 [Read original article](https://www.theblock.co/post/404883/robinhood-cuts-10-of-staff-expects-28-million-in-restructuring-charges?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. BlackRock launches new Bitcoin ETF that generates income using a covered call strategy
-
-**Author:** Daniel Kuhn  
-**Published:** 6/16/2026, 12:00:00 PM  
-**Categories:** Companies, Finance firms, Funds, Markets, The Block, Bitcoin ETF, BlackRock  
-
-BITA holds bitcoin and BlackRock’s bitcoin ETF (IBIT) and generates income by selling call options on up to 35% of those IBIT holdings.
-
-📖 [Read original article](https://www.theblock.co/post/404825/blackrock-launches-new-ishares-bitcoin-premium-income-etf-covered-call-nasdaq?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. Coinbase, AWS enable publishers on CloudFront and WAF to charge AI agents via x402 protocol
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/16/2026, 11:40:01 AM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Exchanges, Layer 2s and Scaling, Stablecoins, Tech, AI agent, aws, Base, Coinbase, USDC, x402  
-
-Coinbase and AWS are allowing publishers on CloudFront and WAF to charge AI agents for content via the x402 protocol.
-
-📖 [Read original article](https://www.theblock.co/post/404877/coinbase-aws-enable-publishers-on-cloudfront-and-waf-to-charge-ai-agents-via-x402-protocol?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. India files charges against 8 defendants in alleged $20 million Coinbase spoofing scam
-
-**Author:** Brian Danga  
-**Published:** 6/16/2026, 11:05:12 AM  
-**Categories:** Companies, Exchanges, Legal, Policy, Anti-Money Laundering, Coinbase, india, indian-police, Lawsuits  
-
-India's Directorate of Enforcement charged Chirag Tomar and associates over an alleged $20 million Coinbase spoofing scheme.
-
-📖 [Read original article](https://www.theblock.co/post/404872/india-files-charges-against-8-defendants-in-alleged-20-million-coinbase-spoofing-scam?utm_source=rss&utm_medium=rss)
 
 ---
