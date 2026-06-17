@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-06-16"
 date: "2026-06-16"
 source: "CoinDesk"
-count: 20
+count: 22
 ---
 
 # CoinDesk - 2026-06-16
 
-20 items collected.
+22 items collected.
 
 ---
 
-## 1. U.S. senators urge Treasury not to leave states out of GENIUS Act stablecoin process
+## 1. Here is why Strategy's dividend-paying crypto stock is crashing to near-historic lows
+
+**Author:** James Van Straten  
+**Published:** 6/16/2026, 9:54:49 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Strategy's bitcoin-backed preferred stock remains well below par value as concerns over dividend coverage and stronger competition from Strive's SATA.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/16/here-is-why-strategy-s-dividend-paying-crypto-stock-is-crashing-to-near-historic-lows)
+
+---
+
+## 2. Bitcoin miners' AI pivot faces $50 billion reality check, says VanEck
+
+**Author:** Helene Braun,AI Boost  
+**Published:** 6/16/2026, 8:58:18 PM  
+**Categories:** Markets, Bitcoin Mining, News  
+
+VanEck says investors are shifting focus from contract announcements to execution risk as miners chase AI revenue.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/16/bitcoin-miners-ai-pivot-faces-usd50-billion-reality-check-says-vaneck)
+
+---
+
+## 3. U.S. senators urge Treasury not to leave states out of GENIUS Act stablecoin process
 
 **Author:** Jesse Hamilton  
 **Published:** 6/16/2026, 8:36:09 PM  
@@ -23,7 +47,7 @@ Senators led by Republican Cynthia Lummis are insisting the Treasury Department 
 
 ---
 
-## 2. Hyperliquid, Uniswap and Worldcoin buck crypto slump as traders chase AI, DeFi trends
+## 4. Hyperliquid, Uniswap and Worldcoin buck crypto slump as traders chase AI, DeFi trends
 
 **Author:** Krisztian Sandor  
 **Published:** 6/16/2026, 8:20:35 PM  
@@ -35,7 +59,7 @@ A handful of tokens continued their run while bitcoin and the rest of the crypto
 
 ---
 
-## 3. Coinbase intoduces AI advisor, stock options, and pre-IPO markets in finance push
+## 5. Coinbase intoduces AI advisor, stock options, and pre-IPO markets in finance push
 
 **Author:** Helene Braun  
 **Published:** 6/16/2026, 7:00:00 PM  
@@ -47,7 +71,7 @@ The crypto exchange is expanding into investing, derivatives and banking service
 
 ---
 
-## 4. Ripple invests in Flutterwave, pushing its stablecoin and XRP Ledger into payments across Africa
+## 6. Ripple invests in Flutterwave, pushing its stablecoin and XRP Ledger into payments across Africa
 
 **Author:** Krisztian Sandor  
 **Published:** 6/16/2026, 3:35:40 PM  
@@ -59,7 +83,7 @@ The deal values Flutterwave at $3.2 billion, and will integrate Ripple's RLUSD a
 
 ---
 
-## 5. Coinbase to join tokenized stock race with onchain shares, dividend payments
+## 7. Coinbase to join tokenized stock race with onchain shares, dividend payments
 
 **Author:** Helene Braun,AI Boost  
 **Published:** 6/16/2026, 3:03:21 PM  
@@ -71,7 +95,7 @@ The crypto exchange said investors will own the shares and receive dividends, un
 
 ---
 
-## 6. Binance says its European regulatory application is compliant despite report of Greek rejection
+## 8. Binance says its European regulatory application is compliant despite report of Greek rejection
 
 **Author:** Ian Allison  
 **Published:** 6/16/2026, 2:55:35 PM  
@@ -83,7 +107,7 @@ An EU crypto license application by the world’s largest crypto exchange is set
 
 ---
 
-## 7. Ethereum’s biggest protocol overhaul in years moves into its final development stage
+## 9. Ethereum’s biggest protocol overhaul in years moves into its final development stage
 
 **Author:** Margaux Nijkerk  
 **Published:** 6/16/2026, 2:48:18 PM  
@@ -95,7 +119,7 @@ Developers are entering the final stretch of work on Glamsterdam, the network's 
 
 ---
 
-## 8. State Street targets stablecoin reserve boom with new money market fund
+## 10. State Street targets stablecoin reserve boom with new money market fund
 
 **Author:** Helene Braun  
 **Published:** 6/16/2026, 2:27:26 PM  
@@ -107,7 +131,7 @@ The asset manager joins BlackRock, Franklin Templeton and others competing to ma
 
 ---
 
-## 9. CoinDesk 20 performance update: Uniswap (UNI) gains 12.9% while index trades lower
+## 11. CoinDesk 20 performance update: Uniswap (UNI) gains 12.9% while index trades lower
 
 **Author:** CoinDesk Indices  
 **Published:** 6/16/2026, 1:15:01 PM  
@@ -119,7 +143,7 @@ Stellar (XLM), up 2.7% from Monday, joined Uniswap (UNI) as a top performer.
 
 ---
 
-## 10. Y Combinator reveals a new AI agent that can build and run an entire business just from a text message
+## 12. Y Combinator reveals a new AI agent that can build and run an entire business just from a text message
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 6/16/2026, 12:55:23 PM  
@@ -131,7 +155,7 @@ Y Combinator's Locus Founder lets users text a business idea via iMessage, SMS, 
 
 ---
 
-## 11. BlackRock's new bitcoin income fund offers cash flow alongside BTC exposure
+## 13. BlackRock's new bitcoin income fund offers cash flow alongside BTC exposure
 
 **Author:** Helene Braun  
 **Published:** 6/16/2026, 12:00:00 PM  
@@ -143,7 +167,7 @@ After IBIT's $49 billion success, BlackRock says clients are increasingly seekin
 
 ---
 
-## 12. Mystery Polymarket trader turned $4 million into $9 million after Spain's shocking World Cup draw
+## 14. Mystery Polymarket trader turned $4 million into $9 million after Spain's shocking World Cup draw
 
 **Author:** Shaurya Malwa  
 **Published:** 6/16/2026, 11:45:37 AM  
@@ -155,7 +179,7 @@ A days-old account turned about $4 million into a $9 million profit betting agai
 
 ---
 
-## 13. BlackRock's new bitcoin ETF lets institutions earn from volatility. There's a catch.
+## 15. BlackRock's new bitcoin ETF lets institutions earn from volatility. There's a catch.
 
 **Author:** Omkar Godbole  
 **Published:** 6/16/2026, 11:21:02 AM  
@@ -167,7 +191,7 @@ Your day-ahead look for June 16, 2026
 
 ---
 
-## 14. Bitcoin buyers add over 250,000 BTC between $59,000 and $67,000 as accumulation returns
+## 16. Bitcoin buyers add over 250,000 BTC between $59,000 and $67,000 as accumulation returns
 
 **Author:** James Van Straten  
 **Published:** 6/16/2026, 10:41:41 AM  
@@ -179,7 +203,7 @@ Glassnode data shows broad-based buying across retail and whale cohorts, with th
 
 ---
 
-## 15. Bitcoin rallies after Japan rate increase with XLM, INJ, UNI advancing
+## 17. Bitcoin rallies after Japan rate increase with XLM, INJ, UNI advancing
 
 **Author:** Omkar Godbole,Shaurya Malwa  
 **Published:** 6/16/2026, 10:29:34 AM  
@@ -191,7 +215,7 @@ Stellar’s XLM, Injective’s INJ and Uniswap’s UNI ranked among the best per
 
 ---
 
-## 16. Tether Gold now has a dedicated options market on Bybit
+## 18. Tether Gold now has a dedicated options market on Bybit
 
 **Author:** Omkar Godbole  
 **Published:** 6/16/2026, 5:52:44 AM  
@@ -203,7 +227,7 @@ These options, settled in USDT, let traders hedge risk, speculate on gold prices
 
 ---
 
-## 17. Live markets: Bitcoin falls below $66,000 as SpaceX rallies on Cursor agreement
+## 19. Live markets: Bitcoin falls below $66,000 as SpaceX rallies on Cursor agreement
 
 **Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Helene Braun,Krisztian Sandor  
 **Published:** 6/16/2026, 5:41:40 AM  
@@ -215,7 +239,7 @@ Ether, XRP, Solana and Hyperliquid funds all took in money, but bitcoin's outflo
 
 ---
 
-## 18. XRP gives back gains after 10% rally as traders take profit near $1.25
+## 20. XRP gives back gains after 10% rally as traders take profit near $1.25
 
 **Author:** Shaurya Malwa  
 **Published:** 6/16/2026, 5:16:07 AM  
@@ -227,7 +251,7 @@ Asian demand and ETF inflows helped push XRP through $1.20, but the token strugg
 
 ---
 
-## 19. Profit-taking across bitcoin, ether, solana as traders wait on the Iran signing
+## 21. Profit-taking across bitcoin, ether, solana as traders wait on the Iran signing
 
 **Author:** Shaurya Malwa  
 **Published:** 6/16/2026, 4:48:31 AM  
@@ -239,7 +263,7 @@ A U.S.-Iran deal pulled oil lower and lifted stocks, but bitcoin's bounce is hes
 
 ---
 
-## 20. Bitcoin rises after Bank of Japan hikes interest rates to a 31-year high
+## 22. Bitcoin rises after Bank of Japan hikes interest rates to a 31-year high
 
 **Author:** Omkar Godbole  
 **Published:** 6/16/2026, 4:30:41 AM  
