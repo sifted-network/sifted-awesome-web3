@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-06-16"
 date: "2026-06-16"
 source: "Decrypt"
-count: 13
+count: 14
 ---
 
 # Decrypt - 2026-06-16
 
-13 items collected.
+14 items collected.
 
 ---
 
-## 1. Crypto Exchange Binance Will Be Rejected for EU Regulatory License: Reuters
+## 1. Alibaba Is Building Qwen-Robot: The Operating System for the Robot Economy
+
+**Author:** Jose Antonio Lanz  
+**Published:** 6/16/2026, 10:32:21 PM  
+**Categories:** Artificial Intelligence  
+
+The Chinese company is doubling down on its "embodied AI" bet.
+
+📖 [Read original article](https://decrypt.co/371357/alibaba-qwen-robot-operating-system-robot-economy)
+
+---
+
+## 2. Crypto Exchange Binance Will Be Rejected for EU Regulatory License: Reuters
 
 **Author:** Logan Hitchcock  
 **Published:** 6/16/2026, 8:25:52 PM  
@@ -23,7 +35,7 @@ Binance said it believes it is compliant as a regulatory deadline in the Europea
 
 ---
 
-## 2. ChatGPT Is Still Huge, But Rival AI Chatbots Are Catching Up Fast
+## 3. ChatGPT Is Still Huge, But Rival AI Chatbots Are Catching Up Fast
 
 **Author:** Jose Antonio Lanz  
 **Published:** 6/16/2026, 7:59:59 PM  
@@ -35,7 +47,7 @@ Sensor Tower's State of AI 2026 report shows ChatGPT's audience share slipping b
 
 ---
 
-## 3. FBI Says It Foiled Drone Attack Plot Targeting White House UFC Event
+## 4. FBI Says It Foiled Drone Attack Plot Targeting White House UFC Event
 
 **Author:** Jason Nelson  
 **Published:** 6/16/2026, 7:47:42 PM  
@@ -47,7 +59,7 @@ Federal prosecutors allege five men planned to use explosive-laden drones and sn
 
 ---
 
-## 4. Coinbase Gears Up to Launch Tokenized Stock Trading, Crypto and Equities Options
+## 5. Coinbase Gears Up to Launch Tokenized Stock Trading, Crypto and Equities Options
 
 **Author:** Logan Hitchcock  
 **Published:** 6/16/2026, 7:00:38 PM  
@@ -59,7 +71,7 @@ Publicly traded crypto exchange Coinbase added to its feature set Tuesday as it 
 
 ---
 
-## 5. Japan Rates Hit Three-Decade High, But No ‘Meaningful Disruption’ to Crypto Market
+## 6. Japan Rates Hit Three-Decade High, But No ‘Meaningful Disruption’ to Crypto Market
 
 **Author:** Vince Dioquino  
 **Published:** 6/16/2026, 6:07:32 PM  
@@ -71,7 +83,7 @@ Japan's central bank lifted rates to a level unseen in decades, a move that once
 
 ---
 
-## 6. SpaceX Shares Hit New High as Elon Musk's Firm Agrees to Acquire AI Startup Cursor for $60 Billion
+## 7. SpaceX Shares Hit New High as Elon Musk's Firm Agrees to Acquire AI Startup Cursor for $60 Billion
 
 **Author:** Jason Nelson  
 **Published:** 6/16/2026, 5:19:40 PM  
@@ -83,7 +95,7 @@ The all-stock deal would make Cursor a wholly owned SpaceX subsidiary and deepen
 
 ---
 
-## 7. 7 Ways Businesses Are Using Crypto Swap APIs
+## 8. 7 Ways Businesses Are Using Crypto Swap APIs
 
 **Author:** Decrypt Staff  
 **Published:** 6/16/2026, 5:02:11 PM  
@@ -95,7 +107,7 @@ Real-world case studies show how the best crypto swap APIs help wallets, aggrega
 
 ---
 
-## 8. Robinhood Trims Headcount by 10% Amid Crypto Revenue Crunch
+## 9. Robinhood Trims Headcount by 10% Amid Crypto Revenue Crunch
 
 **Author:** André Beganski  
 **Published:** 6/16/2026, 3:17:03 PM  
@@ -107,7 +119,7 @@ Robinhood is letting go of 10% of its employees, attempting to streamline operat
 
 ---
 
-## 9. Scale of Stablecoin Adoption in Nigeria Makes Risks 'More Pronounced', Says IMF
+## 10. Scale of Stablecoin Adoption in Nigeria Makes Risks 'More Pronounced', Says IMF
 
 **Author:** Stephen Graves  
 **Published:** 6/16/2026, 1:49:43 PM  
@@ -119,7 +131,7 @@ Efforts to suppress stablecoin use are “likely to be only partly effective,”
 
 ---
 
-## 10. Hyperliquid ETFs Draw In $172M Since Launch as HYPE Hits All-Time High
+## 11. Hyperliquid ETFs Draw In $172M Since Launch as HYPE Hits All-Time High
 
 **Author:** Akash Girimath  
 **Published:** 6/16/2026, 12:32:08 PM  
@@ -131,7 +143,7 @@ U.S. spot Bitcoin ETFs have shed nearly $5.6 billion since Hyperliquid ETFs laun
 
 ---
 
-## 11. Morning Minute: HYPE Soars to ATH as SPCX Takes Off
+## 12. Morning Minute: HYPE Soars to ATH as SPCX Takes Off
 
 **Author:** Tyler Warner  
 **Published:** 6/16/2026, 12:03:38 PM  
@@ -143,7 +155,7 @@ SPCX jumped 20%+ in after hours trading last night with all eyes on its Hyperliq
 
 ---
 
-## 12. BlackRock Debuts BITA Bitcoin ETF, Trading Partial Upside for Double-Digit Yield
+## 13. BlackRock Debuts BITA Bitcoin ETF, Trading Partial Upside for Double-Digit Yield
 
 **Author:** André Beganski  
 **Published:** 6/16/2026, 12:01:04 PM  
@@ -155,7 +167,7 @@ BlackRock launched an ETF that limits Bitcoin gains in exchange for double-digit
 
 ---
 
-## 13. South Korea Charges 23 Over Crypto Laundering Tied to $11M Cambodian Scam Ring
+## 14. South Korea Charges 23 Over Crypto Laundering Tied to $11M Cambodian Scam Ring
 
 **Author:** Vismaya V  
 **Published:** 6/16/2026, 11:42:08 AM  
