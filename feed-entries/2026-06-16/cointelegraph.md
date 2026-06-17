@@ -2,28 +2,16 @@
 title: "Cointelegraph - 2026-06-16"
 date: "2026-06-16"
 source: "Cointelegraph"
-count: 14
+count: 8
 ---
 
 # Cointelegraph - 2026-06-16
 
-14 items collected.
+8 items collected.
 
 ---
 
-## 1. Bitcoin Covenants Part 2: OP_CHECKTEMPLATEVERIFY
-
-**Author:** Kyrian Alex  
-**Published:** 6/16/2026, 11:00:00 PM  
-**Categories:** Research, Bitcoin Core  
-
-CTV lets a Bitcoin output commit to precisely what the next transaction must look like. This enables trust-minimized vaults, congestion control, and smart contract primitives without pre-signed key management.
-
-📖 [Read original article](https://cointelegraph.com/research/bitcoin-covenants-part-2-op-checktemplateverify?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 2. Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?
+## 1. Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?
 
 **Author:** Marcel Pechman  
 **Published:** 6/16/2026, 10:28:40 PM  
@@ -35,7 +23,7 @@ Despite Bitcoin derivatives data highlight traders’ skepticism even though BTC
 
 ---
 
-## 3. Tokenized asset market tops $43B as institutions accelerate blockchain adoption
+## 2. Tokenized asset market tops $43B as institutions accelerate blockchain adoption
 
 **Author:** Sam Bourgi  
 **Published:** 6/16/2026, 8:55:09 PM  
@@ -47,7 +35,7 @@ Tokenized financial assets have surged 37% in six months as institutions expand 
 
 ---
 
-## 4. Bitcoin metric near ‘low-risk’ zone after holders absorb 125K BTC in June: Time for a rebound?
+## 3. Bitcoin metric near ‘low-risk’ zone after holders absorb 125K BTC in June: Time for a rebound?
 
 **Author:** Biraajmaan Tamuly  
 **Published:** 6/16/2026, 7:54:21 PM  
@@ -59,19 +47,19 @@ Bitcoin’s Sharpe ratio and a 125,000 BTC increase in BTC accumulator demand ma
 
 ---
 
-## 5. Crypto PAC has $12M stake in Senate primary runoff as Alabama voters head to polls
+## 4. Crypto PAC has $12M stake in Senate primary runoff as Alabama voters head to polls
 
 **Author:** Turner Wright  
-**Published:** 6/16/2026, 7:45:47 PM  
+**Published:** 6/16/2026, 7:50:00 PM  
 **Categories:** Latest News, Elections, Companies, Politics, United States, Voting  
 
-Defend American Jobs reported spending $7.4 million on media to support Republican Barry Moore ahead of his May 20 Alabama primary, and an additional $4.7 million before Tuesday’s runoffs.
+Defend American Jobs reported spending $7.4 million on media to support Republican Barry Moore ahead of his May 19 Alabama primary, and an additional $4.7 million before Tuesday’s runoffs.
 
 📖 [Read original article](https://cointelegraph.com/news/crypto-pac-fairshake-senate-primary-alabama-voters?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
 
-## 6. Coinbase lets users transfer stock portfolios as exchange expands beyond crypto
+## 5. Coinbase lets users transfer stock portfolios as exchange expands beyond crypto
 
 **Author:** Sam Bourgi  
 **Published:** 6/16/2026, 7:31:19 PM  
@@ -83,7 +71,7 @@ The crypto exchange is deepening its push into traditional finance by enabling A
 
 ---
 
-## 7. XRP whale wallet withdrawals top 720M as risk-adjusted return data points to opportunity
+## 6. XRP whale wallet withdrawals top 720M as risk-adjusted return data points to opportunity
 
 **Author:** Biraajmaan Tamuly  
 **Published:** 6/16/2026, 6:44:51 PM  
@@ -95,7 +83,7 @@ Whales pulled more than 720 million XRP from exchanges, as various data points c
 
 ---
 
-## 8. State Street launches GENIUS Act-aligned money market fund for stablecoin reserves
+## 7. State Street launches GENIUS Act-aligned money market fund for stablecoin reserves
 
 **Author:** Nate Kostar  
 **Published:** 6/16/2026, 5:28:40 PM  
@@ -107,7 +95,7 @@ The launch comes amid growing competition among financial institutions to manage
 
 ---
 
-## 9. Ripple targets Africa’s booming remittance market with Flutterwave investment
+## 8. Ripple targets Africa’s booming remittance market with Flutterwave investment
 
 **Author:** Sam Bourgi  
 **Published:** 6/16/2026, 5:28:00 PM  
@@ -116,65 +104,5 @@ The launch comes amid growing competition among financial institutions to manage
 Ripple’s investment in Flutterwave will bring RLUSD, Ripple Payments and XRPL to one of Africa’s largest fintechs as blockchain remittances gain traction.
 
 📖 [Read original article](https://cointelegraph.com/news/ripple-flutterwave-africa-stablecoin-remittances-investment?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 10. Why US-regulated Bitcoin perpetuals could change crypto trading
-
-**Author:** Dilip Kumar Patairya  
-**Published:** 6/16/2026, 5:00:00 PM  
-**Categories:** Learn, Cryptocurrencies, Bitcoin Regulation, Bitcoin Futures  
-
-US-regulated Bitcoin perpetual futures could give retail and institutional traders new ways to access crypto derivatives.
-
-📖 [Read original article](https://cointelegraph.com/learn/us-regulated-bitcoin-perpetual-futures?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 11. Binance says it considers EU license compliant amid reports of potential rejection
-
-**Author:** Turner Wright  
-**Published:** 6/16/2026, 4:26:00 PM  
-**Categories:** Latest News, Binance, Europe, Cryptocurrencies, MiCA  
-
-Without specifically calling out a report on Binance’s EU license, the crypto exchange warned that any rejection forcing it to delay activities in the region could “weaken liquidity” and present other potential risks.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-response-mica-european-union-license?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 12. Bitcoin stocks divergence returns as BTC dips to $66K while oil drops under $78
-
-**Author:** William Suberg  
-**Published:** 6/16/2026, 2:18:19 PM  
-**Categories:** Markets, Bitcoin Price, Markets, Market Analysis  
-
-Bitcoin joined oil in heading lower while stocks gained on US-Iran peace momentum, with traders seeing a quick end to the BTC price rebound.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-stocks-divergence-returns-as-btc-drops-to-66k-while-nasdaq-adds-3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 13. SpaceX’s debut: A win for crypto price discovery, a fail for tokenized access
-
-**Author:** Christina Comben  
-**Published:** 6/16/2026, 2:00:00 PM  
-**Categories:** Features, Elon Musk, IPO, Cryptocurrency Exchange, RWA, RWA Tokenization, Binance, Bitget  
-
-SpaceX’s blockbuster debut didn’t just mint a trillionaire; it became a real-world stress test for crypto’s promise of democratized market access.
-
-📖 [Read original article](https://cointelegraph.com/features/spacex-ipo-crypto-price-tokenized-stock?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 14. Why a ‘safe’ AI can turn dangerous in the wrong company
-
-**Author:** Rahul Nambiampurath  
-**Published:** 6/16/2026, 1:58:15 PM  
-**Categories:** Learn, AI, Gemini, ChatGPT  
-
-A 15-day AI agent simulation shows why short tests may miss long-term risks shaped by tools, rules and other agents.
-
-📖 [Read original article](https://cointelegraph.com/learn/emergence-world-ai-agent-simulation?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
