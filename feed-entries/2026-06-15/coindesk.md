@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-15"
 date: "2026-06-15"
 source: "CoinDesk"
-count: 5
+count: 3
 ---
 
 # CoinDesk - 2026-06-15
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ Despite the Clarity Act’s advancement toward the finish line, there’s one pr
 Standard Chartered analyst Geoffrey Kendrick's bullish call comes as spot bitcoin exchange-traded fund inflows return, oil prices fall and Coinbase's CEO says bitcoin likely bottomed near $60,000.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/15/crypto-spring-is-here-says-one-analyst-after-bitcoin-s-key-signals-turn-bullish)
-
----
-
-## 4. Kraken debuts U.S. perpetual futures as crypto derivatives move onshore
-
-**Author:** Helene Braun,AI Boost  
-**Published:** 6/15/2026, 2:07:22 PM  
-**Categories:** Markets, Kraken, News  
-
-Perpetual futures generated more than $60 trillion in volume last year, according to the crypto exchange, largely outside the U.S.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/15/kraken-debuts-u-s-perpetual-futures-as-crypto-derivatives-move-onshore)
-
----
-
-## 5. Coinbase's Brian Armstrong says bitcoin may have bottomed at $60,000
-
-**Author:** Shaurya Malwa  
-**Published:** 6/15/2026, 1:30:05 PM  
-**Categories:** Markets, Bitcoin News, Coinbase, News  
-
-Armstrong said his instinct is that bitcoin has probably found its floor, pointing to the four-year cycle that has historically marked lows.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/15/coinbase-s-brian-armstrong-says-bitcoin-may-have-bottomed-at-usd60-000)
 
 ---
