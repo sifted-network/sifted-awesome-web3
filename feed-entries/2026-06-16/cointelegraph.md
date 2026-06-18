@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-16"
 date: "2026-06-16"
 source: "Cointelegraph"
-count: 8
+count: 4
 ---
 
 # Cointelegraph - 2026-06-16
 
-8 items collected.
+4 items collected.
 
 ---
 
@@ -56,53 +56,5 @@ Bitcoin’s Sharpe ratio and a 125,000 BTC increase in BTC accumulator demand ma
 Defend American Jobs reported spending $7.4 million on media to support Republican Barry Moore ahead of his May 19 Alabama primary, and an additional $4.7 million before Tuesday’s runoffs.
 
 📖 [Read original article](https://cointelegraph.com/news/crypto-pac-fairshake-senate-primary-alabama-voters?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 5. Coinbase lets users transfer stock portfolios as exchange expands beyond crypto
-
-**Author:** Sam Bourgi  
-**Published:** 6/16/2026, 7:31:19 PM  
-**Categories:** Latest News, Coinbase, Stocks  
-
-The crypto exchange is deepening its push into traditional finance by enabling ACATS stock transfers and expanding trading products beyond digital assets.
-
-📖 [Read original article](https://cointelegraph.com/news/coinbase-acats-stock-portfolio-transfers-beyond-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 6. XRP whale wallet withdrawals top 720M as risk-adjusted return data points to opportunity
-
-**Author:** Biraajmaan Tamuly  
-**Published:** 6/16/2026, 6:44:51 PM  
-**Categories:** Markets, XRP, Market Analysis, Cryptocurrencies, Cryptocurrency Exchange, Altcoin Watch, Whale, Liquidity, Binance, Markets  
-
-Whales pulled more than 720 million XRP from exchanges, as various data points converge to predict a potential 50% rally.
-
-📖 [Read original article](https://cointelegraph.com/markets/xrp-whale-withdrawals-top-720m-as-risk-adjusted-returns-hints-an-opporunity?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 7. State Street launches GENIUS Act-aligned money market fund for stablecoin reserves
-
-**Author:** Nate Kostar  
-**Published:** 6/16/2026, 5:28:40 PM  
-**Categories:** Latest News, State Street, JPMorgan Chase, Stablecoin, Genius Act, United States, Coinbase  
-
-The launch comes amid growing competition among financial institutions to manage assets backing dollar-pegged stablecoins.
-
-📖 [Read original article](https://cointelegraph.com/news/state-street-launches-genius-act-aligned-money-market-fund-for-stablecoin-reserves?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 8. Ripple targets Africa’s booming remittance market with Flutterwave investment
-
-**Author:** Sam Bourgi  
-**Published:** 6/16/2026, 5:28:00 PM  
-**Categories:** Latest News, Ripple, Payments, Remittances, Stablecoin, Africa  
-
-Ripple’s investment in Flutterwave will bring RLUSD, Ripple Payments and XRPL to one of Africa’s largest fintechs as blockchain remittances gain traction.
-
-📖 [Read original article](https://cointelegraph.com/news/ripple-flutterwave-africa-stablecoin-remittances-investment?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
