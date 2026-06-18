@@ -2,16 +2,64 @@
 title: "Decrypt - 2026-06-17"
 date: "2026-06-17"
 source: "Decrypt"
-count: 14
+count: 18
 ---
 
 # Decrypt - 2026-06-17
 
-14 items collected.
+18 items collected.
 
 ---
 
-## 1. CoinFund, Coinbase Back Stablecoin Payments Startup Trace Finance in $32 Million Raise
+## 1. Psychologists Say Patients Are Bringing AI Into Therapy Sessions: Survey
+
+**Author:** Jason Nelson  
+**Published:** 6/17/2026, 11:36:08 PM  
+**Categories:** Artificial Intelligence  
+
+A new APA survey found that more than a third of psychologists have patients using AI as an additional mental health professional, even as clinicians warn that the technology can reinforce delusions.
+
+📖 [Read original article](https://decrypt.co/371451/psychologists-patients-bringing-ai-therapy-sessions-survey)
+
+---
+
+## 2. Michigan Federal Judge Rules Sports Prediction Markets Are Not Under CFTC Purview
+
+**Author:** Sander Lutz  
+**Published:** 6/17/2026, 10:06:19 PM  
+**Categories:** Law and Order  
+
+The judge said Polymarket is not likely to succeed on the merits of its case against Michigan state regulators.
+
+📖 [Read original article](https://decrypt.co/371486/michigan-federal-judge-sports-prediction-markets-not-under-cftc-purview)
+
+---
+
+## 3. SpaceX Surge Could Be Worth Billions for FTX—Will Creditors Benefit?
+
+**Author:** André Beganski  
+**Published:** 6/17/2026, 9:25:59 PM  
+**Categories:** Business  
+
+Defunct crypto exchange FTX gained exposure to SpaceX in 2022, and the rocket-maker’s post-IPO rally has lifted hopes among creditors.
+
+📖 [Read original article](https://decrypt.co/371474/spacex-surge-worth-billions-ftx-will-creditors-benefit)
+
+---
+
+## 4. Nvidia Built Robots That Train Themselves Using AI Coding Agents
+
+**Author:** Jose Antonio Lanz  
+**Published:** 6/17/2026, 8:16:27 PM  
+**Categories:** Artificial Intelligence  
+
+Nvidia's ENPIRE hands an entire robot fleet to coding agents like Codex and Claude Code, letting them write training code, test it on real hardware, and improve without a human watching.
+
+📖 [Read original article](https://decrypt.co/371456/nvidia-built-robots-train-themselves-ai-coding-agents)
+
+---
+
+## 5. CoinFund, Coinbase Back Stablecoin Payments Startup Trace Finance in $32 Million Raise
 
 **Author:** Decrypt Agent  
 **Published:** 6/17/2026, 7:17:37 PM  
@@ -23,7 +71,7 @@ Stablecoin infrastructure firm Trace Finance said Wednesday that it raised a $32
 
 ---
 
-## 2. Estonia Wants to Give AI Agents Their Own National ID
+## 6. Estonia Wants to Give AI Agents Their Own National ID
 
 **Author:** Jose Antonio Lanz  
 **Published:** 6/17/2026, 6:35:58 PM  
@@ -35,7 +83,7 @@ Prime Minister Kristen Michal backed a proposal to issue AI agents a personal id
 
 ---
 
-## 3. Coinbase-Backed Crypto Perps Exchange Satori Finance Is Shutting Down
+## 7. Coinbase-Backed Crypto Perps Exchange Satori Finance Is Shutting Down
 
 **Author:** Logan Hitchcock  
 **Published:** 6/17/2026, 6:31:52 PM  
@@ -47,7 +95,7 @@ Perps DEX Satori Finance is the latest in a string of crypto firms forced to shu
 
 ---
 
-## 4. Bitcoin Slides as Fed Says It Will 'Deliver Price Stability' Under Kevin Warsh
+## 8. Bitcoin Slides as Fed Says It Will 'Deliver Price Stability' Under Kevin Warsh
 
 **Author:** André Beganski  
 **Published:** 6/17/2026, 6:20:47 PM  
@@ -59,7 +107,7 @@ The first FOMC meeting under new Federal Reserve Chair Kevin Warsh produced the 
 
 ---
 
-## 5. GLAAD Says AI Is Failing LGBTQ Users—And Warns the Risk Is Growing
+## 9. GLAAD Says AI Is Failing LGBTQ Users—And Warns the Risk Is Growing
 
 **Author:** Jason Nelson  
 **Published:** 6/17/2026, 5:43:18 PM  
@@ -71,7 +119,7 @@ GLAAD's report argues AI systems can amplify anti-LGBTQ bias, misinformation, di
 
 ---
 
-## 6. Illinois Set to Begin Taxing Bitcoin, Crypto Transactions as Critics Slam 'Most Punitive' Tax
+## 10. Illinois Set to Begin Taxing Bitcoin, Crypto Transactions as Critics Slam 'Most Punitive' Tax
 
 **Author:** Logan Hitchcock  
 **Published:** 6/17/2026, 5:22:37 PM  
@@ -83,7 +131,7 @@ Critics say the Illinois transaction-level tax could deal severe consequences to
 
 ---
 
-## 7. What Is Hyperliquid? The Decentralized Exchange With Its Own Blockchain
+## 11. What Is Hyperliquid? The Decentralized Exchange With Its Own Blockchain
 
 **Author:** Ryan Gladwin,Jason Nelson  
 **Published:** 6/17/2026, 5:14:03 PM  
@@ -95,7 +143,7 @@ Hyperliquid’s decentralized exchange has rapidly grown to become one of the bi
 
 ---
 
-## 8. Allbirds Stock Pumps Again as Sneaker Firm Completes AI Pivot, Rebranding to Smartbird
+## 12. Allbirds Stock Pumps Again as Sneaker Firm Completes AI Pivot, Rebranding to Smartbird
 
 **Author:** Decrypt Agent  
 **Published:** 6/17/2026, 4:21:30 PM  
@@ -107,7 +155,7 @@ Allbirds, meet Smartbird: The shoe brand has completed its AI pivot, rebranding 
 
 ---
 
-## 9. Florida Man 'Bitcoin Rodney' Pleads Guilty Over $1.8 Billion HyperFund Crypto Fraud
+## 13. Florida Man 'Bitcoin Rodney' Pleads Guilty Over $1.8 Billion HyperFund Crypto Fraud
 
 **Author:** Decrypt Agent  
 **Published:** 6/17/2026, 3:37:41 PM  
@@ -119,7 +167,7 @@ A Miami-based man who went by the name “Bitcoin Rodney” pleaded guilty for h
 
 ---
 
-## 10. 'Rapidly Evolving': Benchmark Analyst Bullish on Coinbase After Stocks, Options Moves
+## 14. 'Rapidly Evolving': Benchmark Analyst Bullish on Coinbase After Stocks, Options Moves
 
 **Author:** Andrew Hayward  
 **Published:** 6/17/2026, 2:47:53 PM  
@@ -131,7 +179,7 @@ Benchmark-StoneX reiterated a $270 price target for COIN—60% higher than Coinb
 
 ---
 
-## 11. Senators Introduce Bipartisan Resolution Opposing SBF Pardon
+## 15. Senators Introduce Bipartisan Resolution Opposing SBF Pardon
 
 **Author:** Decrypt Agent  
 **Published:** 6/17/2026, 12:55:17 PM  
@@ -143,7 +191,7 @@ Senators Gallego and Lummis want the chamber on record that the FTX fraudster sh
 
 ---
 
-## 12. Morning Minute: Coinbase Pushes to Become 'Everything Exchange' With Stocks, Perps, and AI
+## 16. Morning Minute: Coinbase Pushes to Become 'Everything Exchange' With Stocks, Perps, and AI
 
 **Author:** Tyler Warner  
 **Published:** 6/17/2026, 12:18:44 PM  
@@ -155,7 +203,7 @@ The wall between crypto and TradFi continues to break down as Coinbase ushers in
 
 ---
 
-## 13. Uniswap Jumps Double Digits as Standard Chartered Eyes $100 UNI by 2030
+## 17. Uniswap Jumps Double Digits as Standard Chartered Eyes $100 UNI by 2030
 
 **Author:** Decrypt Agent  
 **Published:** 6/17/2026, 10:48:53 AM  
@@ -167,7 +215,7 @@ The DeFi token is up 20% in a day, with a Standard Chartered note and Uniswap's 
 
 ---
 
-## 14. House, Senate Strike Deal on Housing Bill With CBDC Ban Through 2030
+## 18. House, Senate Strike Deal on Housing Bill With CBDC Ban Through 2030
 
 **Author:** Decrypt Agent  
 **Published:** 6/17/2026, 9:34:43 AM  
