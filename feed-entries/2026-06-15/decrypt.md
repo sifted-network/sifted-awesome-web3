@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-15"
 date: "2026-06-15"
 source: "Decrypt"
-count: 9
+count: 5
 ---
 
 # Decrypt - 2026-06-15
 
-9 items collected.
+5 items collected.
 
 ---
 
@@ -68,53 +68,5 @@ Rio de Janeiro released a frontier-class AI model that claimed to beat Alibaba's
 Uniswap’s native token UNI is set to surge nearly fortyfold in the coming years as Wall Street migrates on-chain, Standard Chartered said.
 
 📖 [Read original article](https://decrypt.co/371207/wall-street-boost-uniswap-token-price-40x-2030-standard-chartered)
-
----
-
-## 6. Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing
-
-**Author:** Jason Nelson  
-**Published:** 6/15/2026, 5:57:48 PM  
-**Categories:** Artificial Intelligence  
-
-A class action lawsuit alleges Anthropic overstated the usage limits of its Claude Max subscription plans and misled customers about savings.
-
-📖 [Read original article](https://decrypt.co/371201/anthropic-lawsuit-allegedly-misleading-claude-ai-pricing)
-
----
-
-## 7. Solana Treasury Firm Forward Industries Keeps Trying to Acquire Rivals—But Nobody's Biting
-
-**Author:** Logan Hitchcock  
-**Published:** 6/15/2026, 5:30:29 PM  
-**Categories:** , Markets  
-
-Forward Industries has been unsuccessful on all three recent attempts to combine with rival publicly traded Solana treasury firms.
-
-📖 [Read original article](https://decrypt.co/371198/solana-treasury-firm-forward-industries-trying-acquire-rivals)
-
----
-
-## 8. Canadian PM Urges AI Diversification After US Anthropic Block, Decentralized AI Tokens Rally
-
-**Author:** Vince Dioquino  
-**Published:** 6/15/2026, 4:07:35 PM  
-**Categories:** , near, Artificial Intelligence  
-
-The U.S. move to pull Anthropic's top models offline shows the dangers of leaning on a few AI providers, Carney said.
-
-📖 [Read original article](https://decrypt.co/371159/canadian-pm-urges-ai-diversification-after-us-anthropic-block-decentralized-ai-tokens-rally)
-
----
-
-## 9. Bitcoin Giant Strategy Pads Cash Cushion for Second Straight Week, Buys BTC
-
-**Author:** André Beganski  
-**Published:** 6/15/2026, 3:29:41 PM  
-**Categories:** , Business  
-
-Strategy expanded its USD Reserve to $1.1 billion and increased its total Bitcoin holdings, after dipping into those funds last month.
-
-📖 [Read original article](https://decrypt.co/371176/bitcoin-giant-strategy-pads-cash-cushion-second-week-buys-btc)
 
 ---
