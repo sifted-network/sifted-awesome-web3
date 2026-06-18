@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-17"
 date: "2026-06-17"
 source: "Cointelegraph"
-count: 26
+count: 22
 ---
 
 # Cointelegraph - 2026-06-17
 
-26 items collected.
+22 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ Markets wobbled after mixed comments from President Trump on the Iran peace deal
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 6/17/2026, 9:55:42 PM  
-**Categories:** Latest News, Congress, Politics, Elections, European Union, MiCA, CFTC, Kalshi, Polymarket  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 3. Gaming groups urge Congress to ban prediction markets sports betting in CLARITY Act
+## 2. Gaming groups urge Congress to ban prediction markets sports betting in CLARITY Act
 
 **Author:** Turner Wright  
 **Published:** 6/17/2026, 9:37:01 PM  
@@ -47,7 +35,7 @@ Gambling industry groups want the US Senate to step in to clarify that the Commo
 
 ---
 
-## 4. Crypto-backed GOP candidate wins Alabama Senate runoff with June primaries looming
+## 3. Crypto-backed GOP candidate wins Alabama Senate runoff with June primaries looming
 
 **Author:** Turner Wright  
 **Published:** 6/17/2026, 8:51:29 PM  
@@ -59,7 +47,7 @@ Several more US states are scheduled to hold primaries next week after one Repub
 
 ---
 
-## 5. Bitcoin capitulation ‘twice as weak’ after spot liquidity turns supportive: Glassnode
+## 4. Bitcoin capitulation ‘twice as weak’ after spot liquidity turns supportive: Glassnode
 
 **Author:** Biraajmaan Tamuly  
 **Published:** 6/17/2026, 8:26:13 PM  
@@ -71,7 +59,7 @@ Bitcoin’s realized losses fell by 46% as increasing bid-side liquidity points 
 
 ---
 
-## 6. Bybit lands on Singapore MAS Investor Alert List
+## 5. Bybit lands on Singapore MAS Investor Alert List
 
 **Author:** Sam Bourgi  
 **Published:** 6/17/2026, 8:01:24 PM  
@@ -83,7 +71,7 @@ Crypto exchange Bybit has been added to Singapore’s MAS Investor Alert List, w
 
 ---
 
-## 7. Blockchain.com deepens onchain stock offerings as tokenized equities market grows
+## 6. Blockchain.com deepens onchain stock offerings as tokenized equities market grows
 
 **Author:** Nate Kostar  
 **Published:** 6/17/2026, 7:32:34 PM  
@@ -95,7 +83,7 @@ The rollout in collaboration with Ondo Finance broadens access to tokenized trad
 
 ---
 
-## 8. Altcoin selling tops $266B as capital rotates out of crypto: Is altseason extinct?
+## 7. Altcoin selling tops $266B as capital rotates out of crypto: Is altseason extinct?
 
 **Author:** Biraajmaan Tamuly  
 **Published:** 6/17/2026, 7:23:39 PM  
@@ -107,7 +95,7 @@ Altcoin spot demand fell to its weakest level in six years while the stablecoin 
 
 ---
 
-## 9. Kalshi adds software partner as it looks to boost prediction market surveillance
+## 8. Kalshi adds software partner as it looks to boost prediction market surveillance
 
 **Author:** Nate Kostar  
 **Published:** 6/17/2026, 5:51:40 PM  
@@ -119,7 +107,7 @@ The collaboration comes as US state regulators and the CFTC battle over oversigh
 
 ---
 
-## 10. US lawmakers warn against presidential pardon for Sam Bankman-Fried
+## 9. US lawmakers warn against presidential pardon for Sam Bankman-Fried
 
 **Author:** Turner Wright  
 **Published:** 6/17/2026, 5:29:28 PM  
@@ -131,7 +119,7 @@ The former FTX CEO is currently serving a 25-year sentence after being found gui
 
 ---
 
-## 11. Trace Finance raises $32M for cross-border stablecoin settlement expansion
+## 10. Trace Finance raises $32M for cross-border stablecoin settlement expansion
 
 **Author:** Cointelegraph  
 **Published:** 6/17/2026, 3:00:00 PM  
@@ -143,7 +131,7 @@ The raise comes as stablecoin regulation advances globally and financial firms i
 
 ---
 
-## 12. Bitcoin price sets $64.5K week-to-date low as Strategy selling worries return
+## 11. Bitcoin price sets $64.5K week-to-date low as Strategy selling worries return
 
 **Author:** William Suberg  
 **Published:** 6/17/2026, 2:49:02 PM  
@@ -155,7 +143,7 @@ Bitcoin circled $65,000 after downside BTC price pressure into the FOMC meeting 
 
 ---
 
-## 13. Ready USDC card halts non-EEA service after issuer change, users report
+## 12. Ready USDC card halts non-EEA service after issuer change, users report
 
 **Author:** Helen Partz  
 **Published:** 6/17/2026, 2:08:14 PM  
@@ -167,7 +155,7 @@ Users reported losing access to Ready’s USDC card outside the EEA after a card
 
 ---
 
-## 14. CoinMENA, Standard Chartered partner on UAE payment rails
+## 13. CoinMENA, Standard Chartered partner on UAE payment rails
 
 **Author:** Ezra Reguerra  
 **Published:** 6/17/2026, 1:44:36 PM  
@@ -179,7 +167,7 @@ CoinMENA will use Standard Chartered to strengthen fiat payment rails in the UAE
 
 ---
 
-## 15. Onchain, in court: What happened in crypto legal news this week
+## 14. Onchain, in court: What happened in crypto legal news this week
 
 **Author:** Turner Wright  
 **Published:** 6/17/2026, 1:40:20 PM  
@@ -191,7 +179,7 @@ The Polymarket insider trading case and a retrial of Tornado Cash co-founder Rom
 
 ---
 
-## 16. Inveniam to acquire Mantra after turbulent year marked by OM crash
+## 15. Inveniam to acquire Mantra after turbulent year marked by OM crash
 
 **Author:** Zoltan Vardai  
 **Published:** 6/17/2026, 12:54:40 PM  
@@ -203,7 +191,7 @@ Inveniam announced plans to acquire Mantra, a blockchain project that spent the 
 
 ---
 
-## 17. China pays closer attention to stablecoins as cross-border role expands
+## 16. China pays closer attention to stablecoins as cross-border role expands
 
 **Author:** Ezra Reguerra  
 **Published:** 6/17/2026, 11:02:46 AM  
@@ -215,7 +203,7 @@ A senior PBOC official called for closer monitoring, stronger regulation and int
 
 ---
 
-## 18. Bitcoin is setting up 'meaningful floors' in $60K–$70K range: Analyst
+## 17. Bitcoin is setting up 'meaningful floors' in $60K–$70K range: Analyst
 
 **Author:** Yashu Gola  
 **Published:** 6/17/2026, 11:02:08 AM  
@@ -227,7 +215,7 @@ Bitcoin’s $60,000–$70,000 cost-basis cluster hints at a bottom, but a bearis
 
 ---
 
-## 19. Bitcoin trader warns of 'bearish reaction' to FOMC with $64K now essential
+## 18. Bitcoin trader warns of 'bearish reaction' to FOMC with $64K now essential
 
 **Author:** William Suberg  
 **Published:** 6/17/2026, 10:12:08 AM  
@@ -239,7 +227,7 @@ Bitcoin approached important near-term support on new Fed Chair Kevin Warsh's fi
 
 ---
 
-## 20. Hyperliquid's $10B open interest coincides with growth in equity-linked markets: Talos
+## 19. Hyperliquid's $10B open interest coincides with growth in equity-linked markets: Talos
 
 **Author:** Zoltan Vardai  
 **Published:** 6/17/2026, 10:03:16 AM  
@@ -251,7 +239,7 @@ Hyperliquid’s $10 billion open interest milestone shows growing demand for onc
 
 ---
 
-## 21. BitGo courts crypto firms awaiting MiCA approval amid Binance licensing concerns
+## 20. BitGo courts crypto firms awaiting MiCA approval amid Binance licensing concerns
 
 **Author:** Helen Partz  
 **Published:** 6/17/2026, 9:02:48 AM  
@@ -263,7 +251,7 @@ BitGo launches a MiCA-compliant crypto infrastructure platform in Europe as exch
 
 ---
 
-## 22. Congress reaches deal on housing bill with CBDC ban until 2030
+## 21. Congress reaches deal on housing bill with CBDC ban until 2030
 
 **Author:** Jesse Coghlan  
 **Published:** 6/17/2026, 6:11:33 AM  
@@ -275,7 +263,7 @@ The US could soon temporarily ban a central bank digital currency, as House and 
 
 ---
 
-## 23. Strategy’s STRC falls to $91 as investors flinch at latest BTC buying
+## 22. Strategy’s STRC falls to $91 as investors flinch at latest BTC buying
 
 **Author:** Martin Young  
 **Published:** 6/17/2026, 5:58:33 AM  
@@ -284,41 +272,5 @@ The US could soon temporarily ban a central bank digital currency, as House and 
 “It appears traders are seeing the latest BTC acquisition as an unsustainable path for STRC,” said 10x Research’s Markus Thielen.
 
 📖 [Read original article](https://cointelegraph.com/news/strc-hits-all-time-low-as-latest-btc-purchases-seen-as-unsustainable?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 24. Illinois governor approves crypto transaction tax despite industry uproar
-
-**Author:** Martin Young  
-**Published:** 6/17/2026, 4:49:34 AM  
-**Categories:** Latest News, Taxes, Transactions, Cryptocurrency Exchange  
-
-“There is effectively no comparable state financial transaction tax on stocks, bonds or derivatives anywhere in the country,” said a16z general counsel Miles Jennings.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-advocates-execs-push-back-on-illinois-transaction-tax?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 25. Hyperliquid open interest surges 32% in week: Is $80 HYPE next?
-
-**Author:** Marcel Pechman  
-**Published:** 6/17/2026, 3:19:33 AM  
-**Categories:** Markets, Markets, Cryptocurrencies, DEX, Altcoin Watch, ETF, Stocks, RWA  
-
-Despite mixed HYPE derivatives market signals, Hyperliquid’s explosive TradFi perpetual growth makes a push toward $80 increasingly realistic.
-
-📖 [Read original article](https://cointelegraph.com/markets/hyperliquid-open-interest-gains-32-in-a-week-is-80-hype-next?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 26. Senators urge Treasury to ensure state authority in GENIUS application
-
-**Author:** Jesse Coghlan  
-**Published:** 6/17/2026, 2:21:42 AM  
-**Categories:** Latest News, Genius Act, Law  
-
-A bipartisan group of US senators told the Treasury that its application of stablecoin laws should be done in a way that “preserves and promotes State participation.”
-
-📖 [Read original article](https://cointelegraph.com/news/senators-urge-treasury-ensure-state-authority-in-genius-application?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
