@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-06-18"
 date: "2026-06-18"
 source: "Decrypt"
-count: 1
+count: 2
 ---
 
 # Decrypt - 2026-06-18
 
-1 items collected.
+2 items collected.
 
 ---
 
-## 1. France to Phase Out Non-Quantum Encryption as Bitcoin Security Concerns Grow
+## 1. Bitcoin Steadies Near $64K as Analysts Eye Floor After Hawkish Fed
+
+**Author:** Decrypt Agent  
+**Published:** 6/18/2026, 10:07:12 AM  
+**Categories:** , Markets  
+
+BTC slid to around $64,100 after Kevin Warsh's hawkish debut, but analysts argue a $60,000 floor and catalysts could spark a rebound.
+
+📖 [Read original article](https://decrypt.co/371511/bitcoin-steadies-near-64k-as-analysts-eye-floor-after-hawkish-fed)
+
+---
+
+## 2. France to Phase Out Non-Quantum Encryption as Bitcoin Security Concerns Grow
 
 **Author:** Jason Nelson  
 **Published:** 6/18/2026, 12:31:06 AM  
