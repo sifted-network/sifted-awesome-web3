@@ -2,71 +2,59 @@
 title: "The Block - 2026-06-18"
 date: "2026-06-18"
 source: "The Block"
-count: 5
+count: 4
 ---
 
 # The Block - 2026-06-18
 
-5 items collected.
+4 items collected.
 
 ---
 
-## 1. ‘Bitcoin Rodney’ pleads guilty in $1.8 billion crypto fraud case
+## 1. Strategy’s preferred stock STRC continues to trade under $90 as trading volume jumps
 
-**Author:** Brian Danga  
-**Published:** 6/18/2026, 9:18:55 AM  
-**Categories:** Legal, Policy, Court Hearings, Crime, crypto-fraud, hyperfund, miami  
+**Author:** Daniel Kuhn  
+**Published:** 6/18/2026, 9:30:02 PM  
+**Categories:** Equities, Markets, Public Equities, Analyst Reports, Equity Movers, Strategy  
 
-Rodney Burton pleaded guilty in federal court over his role in HyperFund, a $1.8 billion global cryptocurrency fraud scheme.
+Strategy's preferred STRC stock closed again under $90 for the second consecutive day at $88.59, having drifted as low as $82.50.
 
-📖 [Read original article](https://www.theblock.co/post/405197/bitcoin-rodney-pleads-guilty-in-1-8-billion-crypto-fraud-case?utm_source=rss&utm_medium=rss)
-
----
-
-## 2. Tether winds down aUSDT stablecoin and Alloy platform to sharpen focus
-
-**Author:** Timmy Shen  
-**Published:** 6/18/2026, 7:59:05 AM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Stablecoins, Tether  
-
-Tether said it is winding down the 'Alloy by Tether' platform and discontinuing support for aUSDT, a stablecoin over-collateralized by XAUT.
-
-📖 [Read original article](https://www.theblock.co/post/405190/tether-winds-down-ausdt?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/post/405350/strategys-preferred-stock-strc-continues-trade-under-90-trading-volume-jumps?utm_source=rss&utm_medium=rss)
 
 ---
 
-## 3. Kentucky files lawsuits against prediction market platforms Kalshi and Polymarket
+## 2. CryptoQuant says bitcoin microtransactions now make up 80% of daily transactions
 
-**Author:** Danny Park  
-**Published:** 6/18/2026, 6:37:46 AM  
-**Categories:** Legal, Policy, Lawsuits  
+**Author:** Yogita Khatri  
+**Published:** 6/18/2026, 9:07:49 PM  
+**Categories:** Crypto Ecosystems, Infrastructure, Layer 1s, Markets, Token Projects, Bitcoin, Tokens  
 
-The lawsuits claim prediction market platforms have been offering unlicensed sports gambling in the state while bypassing local regulations.
+Bitcoin transactions below 0.01 BTC now make up about 80% of all daily transactions, up from about 44% in 2023, CryptoQuant said.
 
-📖 [Read original article](https://www.theblock.co/post/405185/kentucky-lawsuit-kalshi-polymarket?utm_source=rss&utm_medium=rss)
-
----
-
-## 4. Ark Invest buys $18 million worth of Coinbase shares, offloads $29 million in Robinhood
-
-**Author:** Timmy Shen  
-**Published:** 6/18/2026, 3:03:18 AM  
-**Categories:** Companies, Equities, Exchanges, Finance firms, Markets, Public Equities, Coinbase, Investment Firms, Robinhood  
-
-The trades came as Coinbase's stock closed down 2.57% at $164.92 on Wednesday, while Robinhood gained 8.78%.
-
-📖 [Read original article](https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/post/405340/cryptoquant-bitcoin-micro-transactions-btc?utm_source=rss&utm_medium=rss)
 
 ---
 
-## 5. CME Group to sue CFTC over approval of perpetual futures, CEO tells CNBC
+## 3. New Texas power grid allocation framework could lift bitcoin miners turned data center operators
 
-**Author:** Danny Park  
-**Published:** 6/18/2026, 1:32:44 AM  
-**Categories:** Companies, Exchanges, Finance firms, Policy, Regulation, CFTC, cme-group  
+**Author:** Kyle Baird  
+**Published:** 6/18/2026, 8:55:11 PM  
+**Categories:** Companies, Crypto Infrastructure, Policy, Cipher Digital, core-scientific, Mining Companies, riot-platforms  
 
-CME Group CEO Duffy said perpetual futures should be classified as swaps under the Dodd-Frank Act, which would form the basis of the lawsuit.
+The Electric Reliability Council of Texas says data centers account for nearly 90% of the 438 GW of large-load demand in the state.
 
-📖 [Read original article](https://www.theblock.co/post/405173/cme-group-to-sue-cftc-ceo-says?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/post/405322/texas-power-grid-allocation-framework-lift-bitcoin-miners-data-center-operators?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Sen. Gillibrand’s son is building a perps exchange that wants dual CFTC, SEC oversight: report
+
+**Author:** Daniel Kuhn  
+**Published:** 6/18/2026, 8:06:11 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Finance firms, Policy, Regulation, CFTC, SEC  
+
+The American Perpetuals Exchange Corporation raised $30 million at a $300 million valuation, Fortune reported on Thursday.
+
+📖 [Read original article](https://www.theblock.co/post/405334/sen-gillibrand-son-building-perps-exchange-dual-cftc-sec-oversight?utm_source=rss&utm_medium=rss)
 
 ---
