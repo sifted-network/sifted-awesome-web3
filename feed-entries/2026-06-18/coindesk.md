@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-18"
 date: "2026-06-18"
 source: "CoinDesk"
-count: 11
+count: 5
 ---
 
 # CoinDesk - 2026-06-18
 
-11 items collected.
+5 items collected.
 
 ---
 
@@ -68,77 +68,5 @@ Bitcoin’s 4-year cycle makes DCA costly. Learn why a cycle-smart strategy is e
 The announcement reflects a crypto's growing recognition that adopting quantum-resistant cryptography could take years, requiring changes not only to user wallets but also to core protocol infrastructure.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/06/18/algorand-unveils-post-quantum-roadmap-to-secure-blockchain-by-2027)
-
----
-
-## 6. CoinDesk 20 performance update: Stellar (XLM) jumps 10% while index declines
-
-**Author:** CoinDesk Indices  
-**Published:** 6/18/2026, 1:13:44 PM  
-**Categories:** CoinDesk Indices, CoinDesk Indices, CoinDesk 20, charts, Prices, News  
-
-Internet Computer (ICP) fell 4.1% and Sui (SUI) dropped 4%, leading the index lower from Wednesday.
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/06/18/coindesk-20-performance-update-stellar-xlm-jumps-10-while-index-declines)
-
----
-
-## 7. Alchemy's AI-driven identity and payment service gains access to Visa network
-
-**Author:** Ian Allison  
-**Published:** 6/18/2026, 1:00:00 PM  
-**Categories:** Finance, Artificial Intelligence, News  
-
-The AgentCard integration with Visa Intelligent Commerce allows AI agents built on models from any provider, including OpenAI or Anthropic, to effect commercial transactions.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/18/alchemy-s-ai-driven-identity-and-payment-service-gains-access-to-visa-network)
-
----
-
-## 8. Hive shares jumps 10% on $220m Canada sovereign AI infrastructure deal
-
-**Author:** James Van Straten  
-**Published:** 6/18/2026, 11:49:41 AM  
-**Categories:** Markets, Bitcoin News, Artificial Intelligence, News  
-
-GPU cloud contract with Bell and Cohere strengthens HIVE's shift from bitcoin mining to high performance AI computing.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/18/hive-shares-jumps-10-on-usd220m-canada-sovereign-ai-infrastructure-deal)
-
----
-
-## 9. The great rotation: Investors desert the Magnificent 7, crypto for AI bottlenecks
-
-**Author:** James Van Straten  
-**Published:** 6/18/2026, 11:37:32 AM  
-**Categories:** Markets, Bitcoin News, Artificial Intelligence, News  
-
-Capital is flowing out of the largest tech companies and bitcoin as investors pile into semiconductors, memory stocks and space-related opportunities.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/18/the-great-rotation-investors-desert-the-magnificent-7-crypto-for-ai-bottlenecks)
-
----
-
-## 10. Bitcoin's nemesis, the Dollar Index, is on the verge of a major breakout
-
-**Author:** Omkar Godbole  
-**Published:** 6/18/2026, 11:10:40 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for June 18, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/06/18/bitcoin-s-nemesis-the-dollar-index-is-on-the-verge-of-a-major-breakout)
-
----
-
-## 11. Aster popped over 10% on radical 'buyback and burn' upgrade. But gains were short-lived
-
-**Author:** Omkar Godbole  
-**Published:** 6/18/2026, 11:02:57 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-ASTER sees two-way volatility as bullish protocol-specific news meets hawkish Fed.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/18/aster-popped-over-10-on-radical-buyback-and-burn-upgrade-but-gains-were-short-lived)
 
 ---
