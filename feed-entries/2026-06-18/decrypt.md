@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-18"
 date: "2026-06-18"
 source: "Decrypt"
-count: 17
+count: 13
 ---
 
 # Decrypt - 2026-06-18
 
-17 items collected.
+13 items collected.
 
 ---
 
@@ -164,53 +164,5 @@ Everyday investors that own Strategy’s STRC have been drawn to double-digit yi
 The proposed rulemaking establishes how U.S. crypto companies will have to screen stablecoin customers after the passage of the GENIUS Act.
 
 📖 [Read original article](https://decrypt.co/371548/jerome-powell-supports-fed-stablecoin-policies-chair-kevin-warsh-abstains)
-
----
-
-## 14. Morning Minute: Crypto Sinks After Hawkish FOMC
-
-**Author:** Tyler Warner  
-**Published:** 6/18/2026, 1:22:09 PM  
-**Categories:** , Opinion  
-
-Bitcoin slid to $64k as rate hike odds soared after Kevin Warsh's first FOMC presser. But was it Warsh or Saylor truly driving the selloff?
-
-📖 [Read original article](https://decrypt.co/371517/morning-minute-crypto-sinks-after-hawkish-fomc)
-
----
-
-## 15. Ireland Tightens Crypto Safeguards in New Financial Crime Action Plan
-
-**Author:** Decrypt Agent  
-**Published:** 6/18/2026, 12:29:13 PM  
-**Categories:** , , Law and Order  
-
-A new National Risk Assessment names crypto-asset misuse among Ireland's top threats, as a 30-point plan tightens checks on crypto funds.
-
-📖 [Read original article](https://decrypt.co/371518/ireland-tightens-crypto-safeguards-in-new-financial-crime-action-plan)
-
----
-
-## 16. CME to Sue CFTC Over Bitcoin Perpetual Futures Approval: CEO
-
-**Author:** Decrypt Agent  
-**Published:** 6/18/2026, 11:20:05 AM  
-**Categories:** , Business  
-
-Outgoing CME chief Terry Duffy says perpetual futures are actually swaps under Dodd-Frank, and that the exchange will file suit Thursday.
-
-📖 [Read original article](https://decrypt.co/371514/cme-to-sue-cftc-over-bitcoin-perpetual-futures-approval-ceo)
-
----
-
-## 17. Bitcoin Steadies Near $64K as Analysts Eye Floor After Hawkish Fed
-
-**Author:** Decrypt Agent  
-**Published:** 6/18/2026, 10:07:12 AM  
-**Categories:** , Markets  
-
-BTC slid to around $64,100 after Kevin Warsh's hawkish debut, but analysts argue a $60,000 floor and catalysts could spark a rebound.
-
-📖 [Read original article](https://decrypt.co/371511/bitcoin-steadies-near-64k-as-analysts-eye-floor-after-hawkish-fed)
 
 ---
