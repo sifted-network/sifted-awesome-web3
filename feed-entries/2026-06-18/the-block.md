@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-18"
 date: "2026-06-18"
 source: "The Block"
-count: 4
+count: 3
 ---
 
 # The Block - 2026-06-18
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Bitcoin transactions below 0.01 BTC now make up about 80% of all daily transacti
 The Electric Reliability Council of Texas says data centers account for nearly 90% of the 438 GW of large-load demand in the state.
 
 📖 [Read original article](https://www.theblock.co/post/405322/texas-power-grid-allocation-framework-lift-bitcoin-miners-data-center-operators?utm_source=rss&utm_medium=rss)
-
----
-
-## 4. Sen. Gillibrand’s son is building a perps exchange that wants dual CFTC, SEC oversight: report
-
-**Author:** Daniel Kuhn  
-**Published:** 6/18/2026, 8:06:11 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Finance firms, Policy, Regulation, CFTC, SEC  
-
-The American Perpetuals Exchange Corporation raised $30 million at a $300 million valuation, Fortune reported on Thursday.
-
-📖 [Read original article](https://www.theblock.co/post/405334/sen-gillibrand-son-building-perps-exchange-dual-cftc-sec-oversight?utm_source=rss&utm_medium=rss)
 
 ---
