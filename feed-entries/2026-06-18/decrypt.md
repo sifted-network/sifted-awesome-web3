@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-18"
 date: "2026-06-18"
 source: "Decrypt"
-count: 13
+count: 7
 ---
 
 # Decrypt - 2026-06-18
 
-13 items collected.
+7 items collected.
 
 ---
 
@@ -92,77 +92,5 @@ Brain is a self-improving memory layer that tracks what Computer did, what worke
 As the MiCA grace period closes, only a fraction of registered firms hold full licenses, setting up the prospect of a wave of consolidation.
 
 📖 [Read original article](https://decrypt.co/371561/europes-crypto-firms-face-squeeze-mica-transition-period-end-looms)
-
----
-
-## 8. HIVE Stock Spikes as Bitcoin Miner Lands $220M AI Infra Deal
-
-**Author:** Jose Antonio Lanz  
-**Published:** 6/18/2026, 7:05:59 PM  
-**Categories:** Business  
-
-The crypto miner has signed a landmark three-year GPU contract with Bell Canada and Cohere—as Canada races to build AI systems it actually owns.
-
-📖 [Read original article](https://decrypt.co/371570/hives-220m-ai-deal-bitcoin-mining)
-
----
-
-## 9. Kentucky Sues Kalshi, Polymarket as Prediction Market Legal Battle Swells
-
-**Author:** Sander Lutz  
-**Published:** 6/18/2026, 6:28:09 PM  
-**Categories:** Law and Order  
-
-Kentucky accused America’s top prediction market platforms of running illegal sports betting operations, joining a growing stack of states.
-
-📖 [Read original article](https://decrypt.co/371564/kentucky-sues-kalshi-polymarket-prediction-market-legal-battle)
-
----
-
-## 10. Why Bitcoin Titan Strategy's STRC Is Falling to New Lows
-
-**Author:** André Beganski  
-**Published:** 6/18/2026, 6:01:42 PM  
-**Categories:** , Business  
-
-Strategy’s flagship preferred stock is facing pressure, but analysts say that's not yet an existential threat for the Bitcoin treasury giant.
-
-📖 [Read original article](https://decrypt.co/371552/why-bitcoin-titan-strategy-strc-falling-new-lows)
-
----
-
-## 11. Bitcoin, Ethereum Traders Grow Even More Bearish as Prices Fall After Fed Decision
-
-**Author:** Logan Hitchcock  
-**Published:** 6/18/2026, 5:23:06 PM  
-**Categories:** , , Markets  
-
-Prediction market traders don't see Bitcoin or Ethereum making their next big moves to higher price targets.
-
-📖 [Read original article](https://decrypt.co/371555/bitcoin-ethereum-traders-grow-bearish-prices-fall-fed)
-
----
-
-## 12. Everyday Savers Bet Big on Bitcoin Giant Strategy's STRC—Now It's Falling
-
-**Author:** André Beganski  
-**Published:** 6/18/2026, 3:48:32 PM  
-**Categories:** , Business  
-
-Everyday investors that own Strategy’s STRC have been drawn to double-digit yields, but the preferred stock’s volatility has shaken some.
-
-📖 [Read original article](https://decrypt.co/371529/everyday-savers-bet-big-bitcoin-giant-strategy-strc-falling)
-
----
-
-## 13. Jerome Powell Supports Fed's New Stablecoin Policies—But Chair Kevin Warsh Abstains
-
-**Author:** Sander Lutz  
-**Published:** 6/18/2026, 3:33:27 PM  
-**Categories:** , Law and Order  
-
-The proposed rulemaking establishes how U.S. crypto companies will have to screen stablecoin customers after the passage of the GENIUS Act.
-
-📖 [Read original article](https://decrypt.co/371548/jerome-powell-supports-fed-stablecoin-policies-chair-kevin-warsh-abstains)
 
 ---
