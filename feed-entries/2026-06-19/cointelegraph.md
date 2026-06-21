@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-19"
 date: "2026-06-19"
 source: "Cointelegraph"
-count: 18
+count: 16
 ---
 
 # Cointelegraph - 2026-06-19
 
-18 items collected.
+16 items collected.
 
 ---
 
@@ -200,29 +200,5 @@ Near-record OP_RETURN usage is driving a surge in low-value Bitcoin transactions
 Goldman Sachs revised its year-end forecast for gold to $4,900, indicating an increase from current levels, but less than previously expected.
 
 📖 [Read original article](https://cointelegraph.com/news/goldman-sachs-cuts-year-end-gold-target-by-500-doubting-rate-cuts?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 17. AllUnity debuts SEKAU, a fully reserved Swedish krona stablecoin
-
-**Author:** Helen Partz  
-**Published:** 6/19/2026, 7:00:00 AM  
-**Categories:** Latest News, Stablecoin, Sweden, MiCA, Europe  
-
-AllUnity launches Swedish krona-backed stablecoin SEKAU with multi-chain support, expanding its stablecoin portfolio regulated under the EU’s MiCA framework.
-
-📖 [Read original article](https://cointelegraph.com/news/allunity-debut-fully-reserved-swedish-krona-stablecoin-sekau?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 18. Franklin Templeton files ETFs that turn stock dividends into Bitcoin exposure
-
-**Author:** Nate Kostar  
-**Published:** 6/19/2026, 6:00:00 AM  
-**Categories:** Latest News, Bitcoin ETF, ETF, BlackRock, Asset Management, United States, Stocks  
-
-The proposed funds would allocate stock dividends to Bitcoin-linked investments, using a dividend reinvestment strategy to build crypto exposure over time.
-
-📖 [Read original article](https://cointelegraph.com/news/franklin-templeton-bitcoin-drip-etfs-reinvest-stock-dividends-btc-exposure?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
