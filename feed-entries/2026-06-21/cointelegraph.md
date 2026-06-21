@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-06-21"
 date: "2026-06-21"
 source: "Cointelegraph"
-count: 6
+count: 8
 ---
 
 # Cointelegraph - 2026-06-21
 
-6 items collected.
+8 items collected.
 
 ---
 
-## 1. Dash eyes Philippines as market for crypto payments
+## 1. Bitcoin tipped for $66K top as trader flags 'suspicious' BTC price gains
+
+**Author:** William Suberg  
+**Published:** 6/21/2026, 2:50:55 PM  
+**Categories:** Markets, Bitcoin Price, Markets, Market Analysis  
+
+Bitcoin pushed for a $64,000 reclaim despite the US-Iran war making a partial comeback and Binance spot sellers keeping up pressure from earlier in the week.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-tipped-for-66k-top-as-trader-flags-suspicious-btc-price-gains?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 2. Bitcoin price may hit $24K if US stock market crashes by 50%, analyst warns
+
+**Author:** Yashu Gola  
+**Published:** 6/21/2026, 2:21:06 PM  
+**Categories:** Markets, Bitcoin Analysis, Markets, BTC Markets, Market Analysis, Price Analysis, Bitcoin ETF, Coinbase, Wall Street  
+
+Bitcoin’s drop to $23,980 remains the worst-case scenario as weaker ETF flows and low US demand show big investors are still cautious.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-may-hit-24k-if-us-stock-market-crashes-by-50-analyst-warns?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 3. Dash eyes Philippines as market for crypto payments
 
 **Author:** Ezra Reguerra  
 **Published:** 6/21/2026, 12:25:12 PM  
@@ -23,7 +47,7 @@ Dash is assessing the Philippines for a crypto payments push as regulators promo
 
 ---
 
-## 2. Bitcoin price is down over 40% since STRC launched: Is Strategy 'fine'?
+## 4. Bitcoin price is down over 40% since STRC launched: Is Strategy 'fine'?
 
 **Author:** Yashu Gola  
 **Published:** 6/21/2026, 10:15:57 AM  
@@ -35,7 +59,7 @@ STRC’s slide below par has emboldened critics, slowed Strategy’s Bitcoin buy
 
 ---
 
-## 3. Japanese corporate pension fund plans 1% crypto allocation: Nikkei
+## 5. Japanese corporate pension fund plans 1% crypto allocation: Nikkei
 
 **Author:** Ezra Reguerra  
 **Published:** 6/21/2026, 8:54:41 AM  
@@ -47,7 +71,7 @@ A Japanese corporate pension fund with about 1,200 participating small and mediu
 
 ---
 
-## 4. Here’s what happened in crypto today
+## 6. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 6/21/2026, 4:36:29 AM  
@@ -59,7 +83,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 5. Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill
+## 7. Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill
 
 **Author:** Cointelegraph  
 **Published:** 6/21/2026, 4:30:00 AM  
@@ -71,7 +95,7 @@ US-listed spot Bitcoin exchange-traded funds saw their biggest 30-day net outflo
 
 ---
 
-## 6. Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M
+## 8. Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M
 
 **Author:** Cointelegraph  
 **Published:** 6/21/2026, 12:04:47 AM  
