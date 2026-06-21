@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-19"
 date: "2026-06-19"
 source: "Cointelegraph"
-count: 20
+count: 18
 ---
 
 # Cointelegraph - 2026-06-19
 
-20 items collected.
+18 items collected.
 
 ---
 
@@ -224,29 +224,5 @@ AllUnity launches Swedish krona-backed stablecoin SEKAU with multi-chain support
 The proposed funds would allocate stock dividends to Bitcoin-linked investments, using a dividend reinvestment strategy to build crypto exposure over time.
 
 📖 [Read original article](https://cointelegraph.com/news/franklin-templeton-bitcoin-drip-etfs-reinvest-stock-dividends-btc-exposure?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 19. Algorand plans ‘broad quantum resilience’ by 2027
-
-**Author:** Jesse Coghlan  
-**Published:** 6/19/2026, 5:51:24 AM  
-**Categories:** Latest News, Algorand, Quantum Computing  
-
-Algorand is planning new accounts and consensus mechanisms designed to be resistant to the cryptography-breaking threat of quantum computers.
-
-📖 [Read original article](https://cointelegraph.com/news/algorand-plans-broad-quantum-resilience-by-2027?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 20. Microsoft warns users of 'Crypto Clipper' malware spread via USB drives
-
-**Author:** Martin Young  
-**Published:** 6/19/2026, 5:33:06 AM  
-**Categories:** Latest News, Malware, Windows, Microsoft  
-
-The malware blends data theft with remote code execution, “turning a financially motivated stealer into a lightweight backdoor,” Microsoft said.
-
-📖 [Read original article](https://cointelegraph.com/news/microsoft-alerts-users-to-crypto-clipper-windows-malware?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
