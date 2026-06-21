@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-06-21"
 date: "2026-06-21"
 source: "CoinDesk"
-count: 2
+count: 3
 ---
 
 # CoinDesk - 2026-06-21
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit
+## 1. Are perps swaps? A quick look at that CME suit: State of Crypto
+
+**Author:** Nikhilesh De  
+**Published:** 6/21/2026, 6:30:00 PM  
+**Categories:** Policy, Newsletters, State of Crypto, News  
+
+CME Group sued the CFTC on Thursday, alleging that the agency was wrong in how it approved Kalshi's first U.S. perpetual futures product.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto)
+
+---
+
+## 2. Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit
 
 **Author:** Shaurya Malwa  
 **Published:** 6/21/2026, 7:12:35 AM  
@@ -23,7 +35,7 @@ Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake tradin
 
 ---
 
-## 2. Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks
+## 3. Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks
 
 **Author:** Shaurya Malwa  
 **Published:** 6/21/2026, 6:46:28 AM  
