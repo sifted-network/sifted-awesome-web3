@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-19"
 date: "2026-06-19"
 source: "Decrypt"
-count: 7
+count: 4
 ---
 
 # Decrypt - 2026-06-19
 
-7 items collected.
+4 items collected.
 
 ---
 
@@ -56,41 +56,5 @@ Many AI users are convinced that OpenAI is quietly running GPT-5.6 inside ChatGP
 Institutions are gobbling up Solana for their balance sheets. These are the top publicly traded treasuries.
 
 📖 [Read original article](https://decrypt.co/339551/5-largest-publicly-traded-solana-treasury-firms)
-
----
-
-## 5. Strive Blames Leverage Liquidations After SATA and Bitcoin Giant Strategy's STRC Plunge
-
-**Author:** Logan Hitchcock  
-**Published:** 6/19/2026, 4:32:20 PM  
-**Categories:** , Markets  
-
-The disastrous day for Bitcoin firms' preferred equity offerings may have been due to unwinding of leveraged positions in STRC and SATA.
-
-📖 [Read original article](https://decrypt.co/371686/strive-blames-leverage-liqidations-sata-bitcoin-giant-strategy-strc-plunge)
-
----
-
-## 6. Amazon Won't Release Sam Altman Film 'Artificial' Following $50 Billion OpenAI Investment
-
-**Author:** Decrypt Agent  
-**Published:** 6/19/2026, 3:06:59 PM  
-**Categories:** Artificial Intelligence  
-
-Amazon is pulling out of "Artificial," a film about Sam Altman's brief ouster from OpenAI, not long after investing $50 billion in the firm.
-
-📖 [Read original article](https://decrypt.co/371682/amazon-wont-release-sam-altman-film-50-billion-openai-investment)
-
----
-
-## 7. Anime Girls Could Steal Your Crypto as Wallpaper Malware Targets Steam Gamers
-
-**Author:** Jason Nelson  
-**Published:** 6/19/2026, 2:39:56 PM  
-**Categories:** , , Gaming  
-
-Researchers found malicious Wallpaper Engine downloads on Steam Workshop distributing infostealers, backdoors, and account-hijacking malware.
-
-📖 [Read original article](https://decrypt.co/371632/anime-girls-steal-crypto-wallpaper-malware-targets-steam-gamers)
 
 ---
