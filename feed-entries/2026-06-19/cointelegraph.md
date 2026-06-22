@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-19"
 date: "2026-06-19"
 source: "Cointelegraph"
-count: 16
+count: 9
 ---
 
 # Cointelegraph - 2026-06-19
 
-16 items collected.
+9 items collected.
 
 ---
 
@@ -29,7 +29,7 @@ The offering from the financial services company will reportedly only include ye
 **Published:** 6/19/2026, 8:57:49 PM  
 **Categories:** Markets, Markets, Market Analysis, Bitcoin Price, Bitcoin Options, Cryptocurrencies, MicroStrategy  
 
-Bitcoin bears hold the upper hand in the upcoming Bitcoin options expiry, a potentially early warning that more BTC downside could unfold.
+Bitcoin bears hold the upper hand in the forthcoming Bitcoin options expiry, a potentially early warning that more BTC downside could unfold.
 
 📖 [Read original article](https://cointelegraph.com/markets/13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
@@ -116,89 +116,5 @@ Aave handled $8.45 billion in withdrawals without freezing funds, but the episod
 Bitcoin price action avoided volatility but failed to bounce from local lows after a hawkish Fed meeting and posturing over Strait of Hormuz control from Iran.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-taps-63k-on-juneteenth-as-july-fed-rate-hike-odds-near-40?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 10. Kalshi in early IPO talks with investment banks: Report
-
-**Author:** Zoltan Vardai  
-**Published:** 6/19/2026, 1:44:34 PM  
-**Categories:** Latest News, IPO, Kalshi, CFTC, Prediction Markets, Polymarket, Law  
-
-The prediction market platform is reportedly exploring a public listing after surpassing $2 billion in annualized revenue as sports contracts face mounting legal scrutiny.
-
-📖 [Read original article](https://cointelegraph.com/news/kalshi-early-ipo-talks-investment-banks-report?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 11. Binance’s MiCA fight raises questions over ECB influence
-
-**Author:** Helen Partz  
-**Published:** 6/19/2026, 1:38:00 PM  
-**Categories:** Latest News, Binance, Policy, ECB, MiCA, Greece, European Union  
-
-Lawyers say MiCA rules do not bar the European Central Bank from communicating with national regulators during the application process, though crypto licensing decisions remain with member states.
-
-📖 [Read original article](https://cointelegraph.com/news/mica-rules-questions-ecb-role-binance-licensing?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 12. Ethereum faces core development funding crisis, former contributor warns
-
-**Author:** Zoltan Vardai  
-**Published:** 6/19/2026, 1:16:19 PM  
-**Categories:** Latest News, Ethereum 2.0, Ethereum Price, Vitalik Buterin, Foundation, Funding, Developers  
-
-The warning comes as the Ethereum Foundation reduces spending, adjusts its treasury strategy and undergoes a wave of leadership departures.
-
-📖 [Read original article](https://cointelegraph.com/news/former-ethereum-foundation-contributor-claims-core-development-funding-crisis?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 13. BlockShoals lawyer clarifies Binance’s regulatory status in the Philippines
-
-**Author:** Ezra Reguerra  
-**Published:** 6/19/2026, 12:15:20 PM  
-**Categories:** Latest News, Philippines, SEC, Central Bank, Binance  
-
-BlockShoals’ head of legal said Binance can provide trading access under the Philippine SEC’s crypto framework, while peso transfers and other central bank-regulated services require a licensed VASP.
-
-📖 [Read original article](https://cointelegraph.com/news/blockshoals-binance-regulatory-status-philippines?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 14. Bitcoin tipped for Q3 'macro bottom' near $50K as major liquidity grab looms
-
-**Author:** William Suberg  
-**Published:** 6/19/2026, 10:44:28 AM  
-**Categories:** Markets, Bitcoin Price, Markets, Market Analysis  
-
-Bitcoin market participants may be left in "complete disbelief" as the market reverses from a liquidity grab without another major leg lower, a trader predicted.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-tipped-for-q3-macro-bottom-near-50k-as-major-liquidity-grab-looms?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 15. Bitcoin activity nears record highs on microtransaction surge
-
-**Author:** Cointelegraph  
-**Published:** 6/19/2026, 9:16:04 AM  
-**Categories:** Latest News, Bitcoin Ordinals, Runes Protocol, Microtransactions, Transactions, Mempool  
-
-Near-record OP_RETURN usage is driving a surge in low-value Bitcoin transactions, pushing Bitcoin network activity close to all-time highs despite muted price action.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-activity-nears-record-highs-on-microtransaction-surge?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 16. Goldman Sachs cuts year-end gold target by $500, doubting rate cuts
-
-**Author:** Felix Ng  
-**Published:** 6/19/2026, 8:05:37 AM  
-**Categories:** Latest News, Gold, Federal Reserve, Interest Rate, Goldman Sachs  
-
-Goldman Sachs revised its year-end forecast for gold to $4,900, indicating an increase from current levels, but less than previously expected.
-
-📖 [Read original article](https://cointelegraph.com/news/goldman-sachs-cuts-year-end-gold-target-by-500-doubting-rate-cuts?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
