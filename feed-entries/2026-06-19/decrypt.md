@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-19"
 date: "2026-06-19"
 source: "Decrypt"
-count: 9
+count: 7
 ---
 
 # Decrypt - 2026-06-19
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ Amazon is pulling out of "Artificial," a film about Sam Altman's brief ouster fr
 Researchers found malicious Wallpaper Engine downloads on Steam Workshop distributing infostealers, backdoors, and account-hijacking malware.
 
 📖 [Read original article](https://decrypt.co/371632/anime-girls-steal-crypto-wallpaper-malware-targets-steam-gamers)
-
----
-
-## 8. Texas Brothers Plead Guilty to $8M Armed Crypto Kidnapping
-
-**Author:** Decrypt Agent  
-**Published:** 6/19/2026, 11:14:40 AM  
-**Categories:** , , Law and Order  
-
-Isiah and Raymond Garcia held a Minnesota family at gunpoint for eight hours and forced the father to transfer over $8 million in crypto.
-
-📖 [Read original article](https://decrypt.co/371665/texas-brothers-plead-guilty-to-8m-armed-crypto-kidnapping)
-
----
-
-## 9. Franklin Templeton Files for ETFs That Funnel Stock Dividends Into Bitcoin
-
-**Author:** Decrypt Agent  
-**Published:** 6/19/2026, 10:01:57 AM  
-**Categories:** , Business  
-
-The asset manager's two proposed "Bitcoin DRIP" funds would hold U.S. stocks and reinvest dividends into Bitcoin, a novel ETF structure.
-
-📖 [Read original article](https://decrypt.co/371656/franklin-templeton-files-for-etfs-that-funnel-stock-dividends-into-bitcoin)
 
 ---
