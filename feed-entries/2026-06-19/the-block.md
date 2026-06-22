@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-19"
 date: "2026-06-19"
 source: "The Block"
-count: 12
+count: 10
 ---
 
 # The Block - 2026-06-19
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ CME Group sued the CFTC on Thursday over the agency's decision to classify perpe
 The prediction markets platform raised $1 billion in a Series F round in May, bringing its valuation to $22 billion.
 
 📖 [Read original article](https://www.theblock.co/post/405369/kalshi-early-ipo-talks?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Morgan Stanley files amendments for ETH and SOL ETFs, revealing lowest fees in market
-
-**Author:** Danny Park  
-**Published:** 6/19/2026, 2:54:48 AM  
-**Categories:** Companies, Finance firms, Funds, Markets, Token Projects, Ethereum, Ethereum ETF, Solana, Solana ETF  
-
-The disclosure of additional amendments typically reflects active communication with the SEC and progress in the launch process.
-
-📖 [Read original article](https://www.theblock.co/post/405362/morgan-stanley-eth-sol-etf-amendments?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Fidelity launches GENIUS-aligned money market fund for stablecoin issuers
-
-**Author:** Danny Park  
-**Published:** 6/19/2026, 1:58:25 AM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Funds, Markets, Stablecoins, Investment Firms  
-
-The fund invests exclusively in eligible reserve assets permitted for stablecoin issuers under the GENIUS Act.
-
-📖 [Read original article](https://www.theblock.co/post/405357/fidelity-stablecoin-money-market-fund?utm_source=rss&utm_medium=rss)
 
 ---
