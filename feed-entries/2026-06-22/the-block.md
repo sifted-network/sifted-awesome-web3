@@ -11,7 +11,67 @@ count: 20
 
 ---
 
-## 1. HIVE stock surges 25% as Ivy League researchers train neural networks on Paraguay GPUs
+## 1. Solana treasury firm Solmate’s largest stakeholder sues board for self-dealing, fiduciary breaches
+
+**Author:** Daniel Kuhn  
+**Published:** 6/22/2026, 8:17:43 PM  
+**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, The Block, Token Projects, Solana  
+
+Board members Ron Sade and Keren Maimon personally bought about 2.298 million SLMT shares at $4.97, diluting shareholders ~20%.
+
+📖 [Read original article](https://www.theblock.co/post/405690/solana-treasury-firm-solmate-largest-stakeholder-sues-board-self-dealing-fiduciary-breaches?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum’s ‘next phase’ of growth
+
+**Author:** RT Watson  
+**Published:** 6/22/2026, 7:39:22 PM  
+**Categories:** Crypto Ecosystems, The Block  
+
+Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine and SharpLink, will focus on institutional adoption.
+
+📖 [Read original article](https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. MoonPay expands into back-office financial operations with AI accounting startup Entendre acquisition
+
+**Author:** Daniel Kuhn  
+**Published:** 6/22/2026, 7:21:18 PM  
+**Categories:** Crypto Ecosystems, Deals, The Block, Web3, AI  
+
+MoonPay has made at least four other acquisitions this year as it works to expand via MoonPay Trade and MoonPay Institutional.
+
+📖 [Read original article](https://www.theblock.co/post/405704/moonpay-expands-back-office-financial-operations-ai-accounting-startup-entendre-acquisition?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Securitize asks court to reject tZERO’s ‘meritless’ tokenization patent allegations
+
+**Author:** Kyle Baird  
+**Published:** 6/22/2026, 6:21:42 PM  
+**Categories:** Companies, Crypto Ecosystems, Policy, Regulation, The Block, Web3, Tokenization  
+
+Securitize alleged that tZERO's actions are "nothing more than the culmination" of shareholder pressure to capitalize on the patents.
+
+📖 [Read original article](https://www.theblock.co/post/405672/securitize-asks-court-reject-tzeros-meritless-tokenization-patent-allegations?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Gate CrossEx: An Exchange-Native Answer to the Institutional Capital Fragmentation Problem
+
+**Author:** Bryan Samsoedin  
+**Published:** 6/22/2026, 5:26:56 PM  
+**Categories:** Companies, Exchanges, Markets, The Block, gate-io  
+
+For sophisticated crypto desks, the bottleneck has rarely been finding liquidity, but rather moving capital fast enough to use it. A fund running active books across the largest CEXs operates multiple separate balance sheets that don’t talk to each other. Every account must be funded to meet worst-c...
+
+📖 [Read original article](https://www.theblock.co/post/404882/gate-crossex-an-exchange-native-answer-to-the-institutional-capital-fragmentation-problem?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. HIVE stock surges 25% as Ivy League researchers train neural networks on Paraguay GPUs
 
 **Author:** Kyle Baird  
 **Published:** 6/22/2026, 4:32:59 PM  
@@ -23,7 +83,7 @@ The research was submitted to NeurIPS, one of AI's leading academic conferences,
 
 ---
 
-## 2. Intercontinental Exchange, OKX expand access to tokenized equities via joint venture co-chaired by former Gov. Cuomo
+## 7. Intercontinental Exchange, OKX expand access to tokenized equities via joint venture co-chaired by former Gov. Cuomo
 
 **Author:** Daniel Kuhn  
 **Published:** 6/22/2026, 3:59:21 PM  
@@ -35,7 +95,7 @@ The new joint venture will enable OKX customers in the U.S. and internationally 
 
 ---
 
-## 3. Crypto industry groups urge Congress to pass tax staking and mining bill unchanged
+## 8. Crypto industry groups urge Congress to pass tax staking and mining bill unchanged
 
 **Author:** Sarah Wynn  
 **Published:** 6/22/2026, 3:14:13 PM  
@@ -47,7 +107,7 @@ Crypto advocacy groups are urging Congress to pass a tax bill, saying the measur
 
 ---
 
-## 4. Bitcoin treasury Strive’s shares jump as company’s holdings near 20,000 BTC
+## 9. Bitcoin treasury Strive’s shares jump as company’s holdings near 20,000 BTC
 
 **Author:** RT Watson  
 **Published:** 6/22/2026, 3:01:10 PM  
@@ -59,7 +119,7 @@ The bitcoin treasury company founded by Vivek Ramaswamy saw its shares jump abou
 
 ---
 
-## 5. Tom Lee says ‘best years for crypto remain ahead’ as Bitmine buys another 52,203 ETH
+## 10. Tom Lee says ‘best years for crypto remain ahead’ as Bitmine buys another 52,203 ETH
 
 **Author:** Brian Danga  
 **Published:** 6/22/2026, 1:31:50 PM  
@@ -71,7 +131,7 @@ Bitmine added 52,203 ETH, lifting holdings to 5.67 million ETH as Tom Lee reiter
 
 ---
 
-## 6. Tokenized RWA market cap rises 40% to top $51 billion as industry races to define equity tokenization model: Bernstein
+## 11. Tokenized RWA market cap rises 40% to top $51 billion as industry races to define equity tokenization model: Bernstein
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/22/2026, 1:27:52 PM  
@@ -83,7 +143,7 @@ Tokenized RWA market cap tops $51 billion as equity tokenization grows 130% and 
 
 ---
 
-## 7. Benchmark reiterates $570 target on Strategy after STRC selloff, says preferred stock is ‘not a stablecoin’
+## 12. Benchmark reiterates $570 target on Strategy after STRC selloff, says preferred stock is ‘not a stablecoin’
 
 **Author:** Brian Danga  
 **Published:** 6/22/2026, 1:12:10 PM  
@@ -95,7 +155,7 @@ Benchmark said STRC's drop below $83 was a leverage flush, not a "depeg," and re
 
 ---
 
-## 8. Crypto trading app Fomo raises $75 million at $550 million valuation in Index Ventures-led Series B
+## 13. Crypto trading app Fomo raises $75 million at $550 million valuation in Index Ventures-led Series B
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/22/2026, 12:46:27 PM  
@@ -107,7 +167,7 @@ Fomo raised a $75 million Series B round at a $550 million valuation led by Inde
 
 ---
 
-## 9. MoneyGram becomes Solana validator, expands blockchain payments strategy
+## 14. MoneyGram becomes Solana validator, expands blockchain payments strategy
 
 **Author:** Yogita Khatri  
 **Published:** 6/22/2026, 12:30:44 PM  
@@ -119,7 +179,7 @@ Solana is now the third blockchain where MoneyGram operates an official validato
 
 ---
 
-## 10. Michael Saylor’s Strategy buys another 520 BTC for $35 million, adds to USD reserve despite STRC slide
+## 15. Michael Saylor’s Strategy buys another 520 BTC for $35 million, adds to USD reserve despite STRC slide
 
 **Author:** James Hunt  
 **Published:** 6/22/2026, 12:07:46 PM  
@@ -131,7 +191,7 @@ Strategy's total holdings account for more than 4% of the 21 million bitcoin sup
 
 ---
 
-## 11. ‘Between supportive and restrictive forces’: Bitcoin stalls near $64,000 as Fed rate-hike risk overshadows Iran ceasefire relief
+## 16. ‘Between supportive and restrictive forces’: Bitcoin stalls near $64,000 as Fed rate-hike risk overshadows Iran ceasefire relief
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/22/2026, 11:26:13 AM  
@@ -143,7 +203,7 @@ Bitcoin holds near $64,000 as six weeks of ETF outflows, and a hawkish Fed overs
 
 ---
 
-## 12. Bank of England drops proposed holding caps for sterling stablecoins, sets £40 billion issuance guardrail
+## 17. Bank of England drops proposed holding caps for sterling stablecoins, sets £40 billion issuance guardrail
 
 **Author:** Brian Danga  
 **Published:** 6/22/2026, 10:46:50 AM  
@@ -155,7 +215,7 @@ The Bank of England proposed a £40 billion systemic stablecoin issuance guardra
 
 ---
 
-## 13. Spot bitcoin ETFs log sixth consecutive week of net outflows; analyst says selling wave is exhausting itself
+## 18. Spot bitcoin ETFs log sixth consecutive week of net outflows; analyst says selling wave is exhausting itself
 
 **Author:** Danny Park  
 **Published:** 6/22/2026, 10:20:57 AM  
@@ -167,7 +227,7 @@ US spot bitcoin ETFs saw $227 million in net outflows last week, extending the n
 
 ---
 
-## 14. Bank of Korea advances CBDC deposit token initiative to test real-world usage: report
+## 19. Bank of Korea advances CBDC deposit token initiative to test real-world usage: report
 
 **Author:** Danny Park  
 **Published:** 6/22/2026, 10:02:46 AM  
@@ -179,7 +239,7 @@ South Korea's CBDC pilot project is entering its second phase, where deposit tok
 
 ---
 
-## 15. Ethereum ‘tax’ debate erupts over proposal to redirect portion of staking rewards to ecosystem funding
+## 20. Ethereum ‘tax’ debate erupts over proposal to redirect portion of staking rewards to ecosystem funding
 
 **Author:** Timmy Shen  
 **Published:** 6/22/2026, 9:49:52 AM  
@@ -188,65 +248,5 @@ South Korea's CBDC pilot project is entering its second phase, where deposit tok
 A post on the Ethereum Research forum proposes letting validators vote to redirect up to 10% of staking rewards to fund public goods.
 
 📖 [Read original article](https://www.theblock.co/post/405525/ethereum-tax-debate?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Bitget enables direct US stock purchases using crypto
-
-**Author:** Brian Danga  
-**Published:** 6/22/2026, 7:06:15 AM  
-**Categories:** Companies, Exchanges, bitget, centralized-crypto-exchanges, stocks and shares  
-
-Bitget launched Stock+, enabling crypto-funded purchases of full and fractional US stocks through regulated brokers.
-
-📖 [Read original article](https://www.theblock.co/post/405507/bitget-us-stock-purchases-crypto?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. How Does Tether Make Money? Understanding the Business Model Behind USDT
-
-**Author:** The Block Research  
-**Published:** 6/22/2026, 7:05:14 AM  
-**Categories:** -  
-
-Tether primarily makes money by earning interest on the reserve assets that back USDT, the world’s largest stablecoin. When USDT is minted, Tether receives dollars or equivalent assets and invests most of those reserves in short-term U.S. Treasury bills and other low-risk instruments. The yield gene...
-
-📖 [Read original article](https://www.theblock.co/learn/405498/how-does-tether-make-money?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. South Korea’s Toss Bank to test blockchain-based financial infrastructure on Solana
-
-**Author:** Danny Park  
-**Published:** 6/22/2026, 6:37:28 AM  
-**Categories:** Crypto Ecosystems, Layer 1s, Solana  
-
-Toss Bank and Solana will work on a proof-of-concept for overseas remittances and payments involving stablecoins.
-
-📖 [Read original article](https://www.theblock.co/post/405505/toss-solana-partnership?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. Japan’s corporate pension fund plans to allocate 1% of assets to crypto: reports
-
-**Author:** Timmy Shen  
-**Published:** 6/22/2026, 5:15:08 AM  
-**Categories:** Companies, Finance firms, Investment Firms  
-
-The National Business Corporate Pension Fund plans to allocate roughly 1% of its assets to crypto, according to Coinpost.
-
-📖 [Read original article](https://www.theblock.co/post/405489/japan-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss)
-
----
-
-## 20. Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds
-
-**Author:** Danny Park  
-**Published:** 6/22/2026, 5:02:27 AM  
-**Categories:** Bridges, Crypto Ecosystems, DeFi, Layer 2s and Scaling, Security, Exploits, Rollups, Taiko  
-
-Onchain security firm Blockaid said the root cause of the exploit could be a flaw in Taiko bridge's source-signal proof validation.
-
-📖 [Read original article](https://www.theblock.co/post/405486/taiko-confirms-exploit?utm_source=rss&utm_medium=rss)
 
 ---
