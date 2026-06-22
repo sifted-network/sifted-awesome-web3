@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-19"
 date: "2026-06-19"
 source: "The Block"
-count: 10
+count: 2
 ---
 
 # The Block - 2026-06-19
 
-10 items collected.
+2 items collected.
 
 ---
 
@@ -32,101 +32,5 @@ count: 10
 Brothers Isiah and Raymond Garcia pleaded guilty to an armed $8 million crypto robbery and kidnapping in Minnesota.
 
 📖 [Read original article](https://www.theblock.co/post/405429/two-texas-brothers-admit-to-8-million-crypto-robbery-after-holding-family-at-gunpoint-face-up-to-20-years-in-prison?utm_source=rss&utm_medium=rss)
-
----
-
-## 3. Base targets June 25 mainnet launch for Beryl upgrade and new B20 token standard
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/19/2026, 10:48:52 AM  
-**Categories:** Crypto Ecosystems, DeFi, Infrastructure, Layer 2s and Scaling, Base, defi, ethereum-layer-2, upgrade  
-
-Base's Beryl upgrade introduces the B20 native token standard, cuts withdrawal delays to 5 days, and activates on mainnet June 25.
-
-📖 [Read original article](https://www.theblock.co/post/405410/base-targets-june-25-mainnet-launch-for-beryl-upgrade-and-new-b20-token-standard?utm_source=rss&utm_medium=rss)
-
----
-
-## 4. ‘Most difficult day in the history of digital credit’: Strive CEO says leverage liquidation drove STRC and SATA selloff
-
-**Author:** Danny Park  
-**Published:** 6/19/2026, 10:32:36 AM  
-**Categories:** Companies, Finance firms, Markets, Token Projects, Bitcoin  
-
-STRC and SATA, designed to trade near a $100 par value, fell significantly on Thursday before partially recovering.
-
-📖 [Read original article](https://www.theblock.co/post/405406/strive-ceo-strc-sata?utm_source=rss&utm_medium=rss)
-
----
-
-## 5. Ethereum could face core development ‘funding crisis’ within nine months, says former EF contributor
-
-**Author:** Brian Danga  
-**Published:** 6/19/2026, 10:11:02 AM  
-**Categories:** Crypto Ecosystems, Layer 1s, People, developer-funding, Ethereum, ethereum-foundation, Vitalik Buterin  
-
-Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.
-
-📖 [Read original article](https://www.theblock.co/post/405404/ethereum-could-face-core-development-funding-crisis-within-nine-months-says-former-ef-contributor?utm_source=rss&utm_medium=rss)
-
----
-
-## 6. Franklin Templeton files for ETFs that reinvest stock dividends into bitcoin
-
-**Author:** Timmy Shen  
-**Published:** 6/19/2026, 9:54:15 AM  
-**Categories:** Companies, Equities, Finance firms, Funds, Markets, Public Equities, Token Projects, Bitcoin, Bitcoin ETF, Investment Firms  
-
-Franklin has filed for two new ETFs that would reinvest stock dividends into BTC, with an expected effective date as early as Sept. 1, 2026.
-
-📖 [Read original article](https://www.theblock.co/post/405402/franklin-templeton-files-for-etfs-that-reinvest-stock-dividends-into-bitcoin?utm_source=rss&utm_medium=rss)
-
----
-
-## 7. What Is the CLARITY Act? The Crypto Market Structure Bill Explained
-
-**Author:** The Block Research  
-**Published:** 6/19/2026, 6:48:02 AM  
-**Categories:** -  
-
-The CLARITY Act, formally the Digital Asset Market Clarity Act, is a proposed U.S. cryptocurrency market structure bill that would establish a federal framework for how digital assets are issued, traded and regulated in the United States. The bill focuses on digital asset regulation, including how c...
-
-📖 [Read original article](https://www.theblock.co/learn/404536/what-is-the-clarity-act?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. What Happens When Bitcoin Reaches 21 Million Supply?
-
-**Author:** The Block Research  
-**Published:** 6/19/2026, 6:36:38 AM  
-**Categories:** -  
-
-Bitcoin has a maximum supply of 21 million coins, a limit written into the network’s code by its creator, Satoshi Nakamoto. Once all 21 million bitcoin have been mined, no new bitcoin will ever be created. Regardless, the network is expected to keep operating much the same as it does today. Instead ...
-
-📖 [Read original article](https://www.theblock.co/learn/405386/what-happens-when-bitcoin-reaches-21-million-supply?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. CFTC, SEC request public comment to clarify definition of ‘swaps’ amid CME lawsuit
-
-**Author:** Danny Park  
-**Published:** 6/19/2026, 5:15:08 AM  
-**Categories:** Policy, Regulation, CFTC, SEC  
-
-CME Group sued the CFTC on Thursday over the agency's decision to classify perpetual futures as futures contracts rather than swaps.
-
-📖 [Read original article](https://www.theblock.co/post/405380/cftc-sec-public-comment-swaps?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Kalshi holds early IPO talks with investment banks: report
-
-**Author:** Timmy Shen  
-**Published:** 6/19/2026, 4:15:32 AM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, Markets, Public Equities  
-
-The prediction markets platform raised $1 billion in a Series F round in May, bringing its valuation to $22 billion.
-
-📖 [Read original article](https://www.theblock.co/post/405369/kalshi-early-ipo-talks?utm_source=rss&utm_medium=rss)
 
 ---
