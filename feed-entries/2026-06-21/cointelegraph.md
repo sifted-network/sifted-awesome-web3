@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-21"
 date: "2026-06-21"
 source: "Cointelegraph"
-count: 8
+count: 7
 ---
 
 # Cointelegraph - 2026-06-21
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -71,19 +71,7 @@ A Japanese corporate pension fund with about 1,200 participating small and mediu
 
 ---
 
-## 6. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 6/21/2026, 4:36:29 AM  
-**Categories:** Latest News, Philippines, SEC, RWA, DeFi, Bot, Japan  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 7. Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill
+## 6. Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill
 
 **Author:** Cointelegraph  
 **Published:** 6/21/2026, 4:30:00 AM  
@@ -95,7 +83,7 @@ US-listed spot Bitcoin exchange-traded funds saw their biggest 30-day net outflo
 
 ---
 
-## 8. Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M
+## 7. Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M
 
 **Author:** Cointelegraph  
 **Published:** 6/21/2026, 12:04:47 AM  
