@@ -2,16 +2,112 @@
 title: "Cointelegraph - 2026-06-22"
 date: "2026-06-22"
 source: "Cointelegraph"
-count: 8
+count: 15
 ---
 
 # Cointelegraph - 2026-06-22
 
-8 items collected.
+15 items collected.
 
 ---
 
-## 1. Bank of England eases stablecoin rules, introduces 40B pound issuance cap
+## 1. Bitcoin price taps $65.5K as Iran deal sees oil drop toward 16-week low
+
+**Author:** William Suberg  
+**Published:** 6/22/2026, 3:48:49 PM  
+**Categories:** Markets, Bitcoin Price, Markets, Market Analysis  
+
+Bitcoin sought a breakout toward a potential BTC price target near $70,000 as Iran news sent oil toward its lowest levels since early March.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-taps-655k-as-iran-deal-sees-oil-drop-toward-16-week-low?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 2. Why Google search can be a crypto wallet risk
+
+**Author:** Dilip Kumar Patairya  
+**Published:** 6/22/2026, 2:30:00 PM  
+**Categories:** Learn, Scams, Mobile Wallet, Google  
+
+Think your wallet is safe? A major crypto risk may start with a Google search and one wrong click.
+
+📖 [Read original article](https://cointelegraph.com/learn/fake-google-ads-crypto-wallet-security?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 3. Enso launches RWA app and trading for over 500 tokenized assets
+
+**Author:** Zoltan Vardai  
+**Published:** 6/22/2026, 2:00:00 PM  
+**Categories:** Latest News, RWA Tokenization, Tokenization, Stocks, Stock Investment, Cryptocurrency Exchange, Europe  
+
+Enso launched access to over 500 tokenized assets and US stocks, citing a growing demand for US equity exposure among European investors.
+
+📖 [Read original article](https://cointelegraph.com/news/enso-launches-rwa-app-trading-500-tokenized-assets?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 4. Here’s what happened in crypto today
+
+**Author:** Cointelegraph  
+**Published:** 6/22/2026, 1:50:31 PM  
+**Categories:** Latest News, DeFi, Bot, Japan, Hacks, Binance, MiCA  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 5. Social trading platform Fomo raises $75M, reaches $550M valuation
+
+**Author:** Zoltan Vardai  
+**Published:** 6/22/2026, 1:42:45 PM  
+**Categories:** Latest News, Cryptocurrency Investment, Venture Capital, Trading, SocialFi, Cryptocurrencies, Apple Pay, Funding  
+
+The Series B round values the social trading and token discovery platform at $550 million as crypto venture funding remains active in 2026.
+
+📖 [Read original article](https://cointelegraph.com/news/fomo-raise-series-b-trading-app-550m-valuation?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 6. Strategy adds $300M to USD Reserve, acquires 520 BTC
+
+**Author:** Helen Partz  
+**Published:** 6/22/2026, 1:27:40 PM  
+**Categories:** Latest News, Dollar, MicroStrategy, Michael Saylor, Bitcoin Price  
+
+Michael Saylor’s Strategy boosted its USD Reserve to $1.4 billion and added 520 Bitcoin, funded through $335.5 million in MSTR share sales.
+
+📖 [Read original article](https://cointelegraph.com/news/strategy-300-million-usd-reserve-acquires-520-btc?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 7. EUR trading accounts for 1% of Binance spot volume, CryptoQuant says
+
+**Author:** Helen Partz  
+**Published:** 6/22/2026, 12:26:58 PM  
+**Categories:** Latest News, Binance, Analysis, Europe, MiCA, Euro  
+
+Euro-denominated trading accounts for around 1% of Binance's spot volume, according to CryptoQuant data, as the exchange faces uncertainty ahead of MiCA's July 1 deadline.
+
+📖 [Read original article](https://cointelegraph.com/news/eur-trades-binance-spot-volume-cryptoquant?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 8. These XRP price charts hint at potential 25% relief rally in July
+
+**Author:** Yashu Gola  
+**Published:** 6/22/2026, 11:39:19 AM  
+**Categories:** Markets, Market Analysis, Analysis, Altcoin Watch, XRP, Markets, Tech Analysis  
+
+An XRP death cross and liquidation signals align for a possible 25% relief rally in the short term, while one analyst eyes a longer-term rebound toward $8.
+
+📖 [Read original article](https://cointelegraph.com/markets/these-xrp-price-charts-hint-at-a-potential-25-relief-rally-in-july?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 9. Bank of England eases stablecoin rules, introduces 40B pound issuance cap
 
 **Author:** Yohan Yun  
 **Published:** 6/22/2026, 11:16:52 AM  
@@ -23,7 +119,7 @@ The Bank of England published draft rules for systemic stablecoins, easing reser
 
 ---
 
-## 2. Q2 2026 emerges as most-hacked quarter on record with 83 incidents
+## 10. Q2 2026 emerges as most-hacked quarter on record with 83 incidents
 
 **Author:** Zoltan Vardai  
 **Published:** 6/22/2026, 10:52:50 AM  
@@ -35,7 +131,7 @@ Crypto hackers stole $755 million across 83 cybersecurity incidents, as cross–
 
 ---
 
-## 3. US dollar strength hits highest since May 2025: Five things to know in Bitcoin this week
+## 11. US dollar strength hits highest since May 2025: Five things to know in Bitcoin this week
 
 **Author:** William Suberg  
 **Published:** 6/22/2026, 10:13:05 AM  
@@ -47,7 +143,7 @@ Bitcoin faced a resurgent US dollar index and macro hurdles as it circled $64,00
 
 ---
 
-## 4. South Korea pushes Travel Rule expansion for smaller crypto transfers
+## 12. South Korea pushes Travel Rule expansion for smaller crypto transfers
 
 **Author:** Helen Partz  
 **Published:** 6/22/2026, 8:58:43 AM  
@@ -59,19 +155,7 @@ South Korea’s FIU is calling for broader crypto transfer reporting rules durin
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 6/22/2026, 6:00:00 AM  
-**Categories:** Latest News, DeFi, Bot, Japan, Hacks  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 6. Morgan Stanley amends Ethereum, Solana ETFs to reveal record cheap fees
+## 13. Morgan Stanley amends Ethereum, Solana ETFs to reveal record cheap fees
 
 **Author:** Jesse Coghlan  
 **Published:** 6/22/2026, 5:40:26 AM  
@@ -83,7 +167,7 @@ ETF analyst Eric Balchunas says Morgan Stanley’s plan to charge 0.14% fees on 
 
 ---
 
-## 7. Taiko urges users to withdraw as bridge exploit drains $1.7M
+## 14. Taiko urges users to withdraw as bridge exploit drains $1.7M
 
 **Author:** Martin Young  
 **Published:** 6/22/2026, 5:31:18 AM  
@@ -95,7 +179,7 @@ Taiko’s bridge and ERC20 Vault on Ethereum suffered a compromise in its chain 
 
 ---
 
-## 8. Secret Network bridge exploited for $4.7M with ‘infinite mint’ bug
+## 15. Secret Network bridge exploited for $4.7M with ‘infinite mint’ bug
 
 **Author:** Martin Young  
 **Published:** 6/22/2026, 3:49:49 AM  
