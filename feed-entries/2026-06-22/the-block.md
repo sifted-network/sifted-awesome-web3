@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-22"
 date: "2026-06-22"
 source: "The Block"
-count: 19
+count: 16
 ---
 
 # The Block - 2026-06-22
 
-19 items collected.
+16 items collected.
 
 ---
 
@@ -200,41 +200,5 @@ Strategy's total holdings account for more than 4% of the 21 million bitcoin sup
 Bitcoin holds near $64,000 as six weeks of ETF outflows, and a hawkish Fed overshadow the U.S.-Iran peace deal.
 
 📖 [Read original article](https://www.theblock.co/post/405557/between-supportive-and-restrictive-forces-bitcoin-stalls-near-64000-as-fed-rate-hike-risk-overshadows-iran-ceasefire-relief?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Bank of England drops proposed holding caps for sterling stablecoins, sets £40 billion issuance guardrail
-
-**Author:** Brian Danga  
-**Published:** 6/22/2026, 10:46:50 AM  
-**Categories:** Central Banks, Policy, Regulation, The Block, BOE  
-
-The Bank of England proposed a £40 billion systemic stablecoin issuance guardrail and revised backing assets, targeting a 2027 launch.
-
-📖 [Read original article](https://www.theblock.co/post/405545/bank-of-england-drops-proposed-individual-holding-caps-for-sterling-stablecoins-sets-40-billion-issuance-guardrail?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. Spot bitcoin ETFs log sixth consecutive week of net outflows; analyst says selling wave is exhausting itself
-
-**Author:** Danny Park  
-**Published:** 6/22/2026, 10:20:57 AM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, The Block, Token Projects, Bitcoin  
-
-US spot bitcoin ETFs saw $227 million in net outflows last week, extending the negative flow streak to six consecutive weeks.
-
-📖 [Read original article](https://www.theblock.co/post/405540/spot-bitcoin-etfs-sixth-consecutive-week-outflow?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. Bank of Korea advances CBDC deposit token initiative to test real-world usage: report
-
-**Author:** Danny Park  
-**Published:** 6/22/2026, 10:02:46 AM  
-**Categories:** Policy, Regulation, The Block, zzz - Old categories  
-
-South Korea's CBDC pilot project is entering its second phase, where deposit tokens will be integrated into existing banking systems.
-
-📖 [Read original article](https://www.theblock.co/post/405529/south-korea-cbdc-second-phase?utm_source=rss&utm_medium=rss)
 
 ---
