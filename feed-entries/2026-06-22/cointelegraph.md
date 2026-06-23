@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-22"
 date: "2026-06-22"
 source: "Cointelegraph"
-count: 18
+count: 9
 ---
 
 # Cointelegraph - 2026-06-22
 
-18 items collected.
+9 items collected.
 
 ---
 
@@ -116,113 +116,5 @@ Think your wallet is safe? A major crypto risk may start with a Google search an
 Enso launched access to over 500 tokenized assets and US stocks, citing a growing demand for US equity exposure among European investors.
 
 📖 [Read original article](https://cointelegraph.com/news/enso-launches-rwa-app-trading-500-tokenized-assets?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 10. Social trading platform Fomo raises $75M, reaches $550M valuation
-
-**Author:** Zoltan Vardai  
-**Published:** 6/22/2026, 1:42:45 PM  
-**Categories:** Latest News, Cryptocurrency Investment, Venture Capital, Trading, SocialFi, Cryptocurrencies, Apple Pay, Funding  
-
-The Series B round values the social trading and token discovery platform at $550 million as crypto venture funding remains active in 2026.
-
-📖 [Read original article](https://cointelegraph.com/news/fomo-raise-series-b-trading-app-550m-valuation?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 11. Strategy adds $300M to USD Reserve, acquires 520 BTC
-
-**Author:** Helen Partz  
-**Published:** 6/22/2026, 1:27:40 PM  
-**Categories:** Latest News, Dollar, MicroStrategy, Michael Saylor, Bitcoin Price  
-
-Michael Saylor’s Strategy boosted its USD Reserve to $1.4 billion and added 520 Bitcoin, funded through $335.5 million in MSTR share sales.
-
-📖 [Read original article](https://cointelegraph.com/news/strategy-300-million-usd-reserve-acquires-520-btc?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 12. EUR trading accounts for 1% of Binance spot volume, CryptoQuant says
-
-**Author:** Helen Partz  
-**Published:** 6/22/2026, 12:26:58 PM  
-**Categories:** Latest News, Binance, Analysis, Europe, MiCA, Euro  
-
-Euro-denominated trading accounts for around 1% of Binance's spot volume, according to CryptoQuant data, as the exchange faces uncertainty ahead of MiCA's July 1 deadline.
-
-📖 [Read original article](https://cointelegraph.com/news/eur-trades-binance-spot-volume-cryptoquant?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 13. These XRP price charts hint at potential 25% relief rally in July
-
-**Author:** Yashu Gola  
-**Published:** 6/22/2026, 11:39:19 AM  
-**Categories:** Markets, Market Analysis, Analysis, Altcoin Watch, XRP, Markets, Tech Analysis  
-
-An XRP death cross and liquidation signals align for a possible 25% relief rally in the short term, while one analyst eyes a longer-term rebound toward $8.
-
-📖 [Read original article](https://cointelegraph.com/markets/these-xrp-price-charts-hint-at-a-potential-25-relief-rally-in-july?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 14. Bank of England eases stablecoin rules, introduces 40B pound issuance cap
-
-**Author:** Yohan Yun  
-**Published:** 6/22/2026, 11:16:52 AM  
-**Categories:** Latest News, Stablecoin, United Kingdom, Bank of England, Central Bank  
-
-The Bank of England published draft rules for systemic stablecoins, easing reserve requirements and replacing holding limits with a temporary 40-billion British pound issuance cap.
-
-📖 [Read original article](https://cointelegraph.com/news/bank-of-england-stablecoin-rules-clears-path-for-2027-launch?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 15. Q2 2026 emerges as most-hacked quarter on record with 83 incidents
-
-**Author:** Zoltan Vardai  
-**Published:** 6/22/2026, 10:52:50 AM  
-**Categories:** Latest News, Hackers, Hacks, Cybersecurity, DeFi, Security  
-
-Crypto hackers stole $755 million across 83 cybersecurity incidents, as cross–chain bridges remained the most costly attack vector of the crypto industry.
-
-📖 [Read original article](https://cointelegraph.com/news/q2-2026-most-hacked-quarter-record-83-incidents?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 16. US dollar strength hits highest since May 2025: Five things to know in Bitcoin this week
-
-**Author:** William Suberg  
-**Published:** 6/22/2026, 10:13:05 AM  
-**Categories:** Markets, Bitcoin Price, Market Analysis, Markets  
-
-Bitcoin faced a resurgent US dollar index and macro hurdles as it circled $64,000, but July seasonality could spark BTC price relief.
-
-📖 [Read original article](https://cointelegraph.com/markets/us-dollar-strength-hits-highest-since-may-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 17. South Korea pushes Travel Rule expansion for smaller crypto transfers
-
-**Author:** Helen Partz  
-**Published:** 6/22/2026, 8:58:43 AM  
-**Categories:** Latest News, South Korea, AML, FATF, Transactions  
-
-South Korea’s FIU is calling for broader crypto transfer reporting rules during FATF talks, citing offshore risks and uneven global AML enforcement.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korea-travel-rule-smaller-crypto-transfers?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 18. MoneyGram joins Solana as validator, expanding role in blockchain infrastructure
-
-**Author:** Nate Kostar  
-**Published:** 6/22/2026, 6:00:00 AM  
-**Categories:** Latest News, MoneyGram, Western Union, Bitso, Remittances  
-
-The remittance giant is staking SOL and processing transaction blocks as stablecoin adoption accelerates across the global remittance industry.
-
-📖 [Read original article](https://cointelegraph.com/news/moneygram-joins-solana-validator-expanding-role-blockchain-infrastructure?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
