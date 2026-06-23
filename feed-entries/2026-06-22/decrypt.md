@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-06-22"
 date: "2026-06-22"
 source: "Decrypt"
-count: 14
+count: 15
 ---
 
 # Decrypt - 2026-06-22
 
-14 items collected.
+15 items collected.
 
 ---
 
-## 1. BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab
+## 1. Comparing Bitcoin Giant Strategy to Terra Luna Is a STRC, Benchmark Says
+
+**Author:** André Beganski  
+**Published:** 6/22/2026, 8:45:46 PM  
+**Categories:** , Business  
+
+The analysts underscored that Strategy's Stretch (STRC) can't technically lose its “peg.”
+
+📖 [Read original article](https://decrypt.co/371814/strategy-bitcoin-strc-terra-luna-benchmark)
+
+---
+
+## 2. BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab
 
 **Author:** Logan Hitchcock  
 **Published:** 6/22/2026, 8:12:31 PM  
@@ -23,7 +35,7 @@ Some of Ethereum's largest holders are coming together to fund a new research an
 
 ---
 
-## 2. Trump Orders Acceleration of Quantum Readiness as Bitcoin Faces Coming Risk
+## 3. Trump Orders Acceleration of Quantum Readiness as Bitcoin Faces Coming Risk
 
 **Author:** Jason Nelson  
 **Published:** 6/22/2026, 7:57:54 PM  
@@ -35,7 +47,7 @@ President Donald Trump signed two executive orders aimed at expanding U.S. quant
 
 ---
 
-## 3. Google Warns AI Consciousness Debate Could Become a Political Battleground
+## 4. Google Warns AI Consciousness Debate Could Become a Political Battleground
 
 **Author:** Jason Nelson  
 **Published:** 6/22/2026, 7:30:44 PM  
@@ -47,7 +59,7 @@ A new paper from Google DeepMind argues that disagreements over whether AI is co
 
 ---
 
-## 4. Crypto Industry Urges Congress to Pass Tax Bill—But Will It Happen This Year?
+## 5. Crypto Industry Urges Congress to Pass Tax Bill—But Will It Happen This Year?
 
 **Author:** Sander Lutz  
 **Published:** 6/22/2026, 6:53:56 PM  
@@ -59,7 +71,7 @@ A bill that would make crypto mining and staking more attractive is a top priori
 
 ---
 
-## 5. Ethereum MEV Bot JaredFromSubway Threatens Legal Action After $7.5 Million Loss
+## 6. Ethereum MEV Bot JaredFromSubway Threatens Legal Action After $7.5 Million Loss
 
 **Author:** André Beganski  
 **Published:** 6/22/2026, 6:12:33 PM  
@@ -71,7 +83,7 @@ The well-known trading bot took a hit this weekend after it fell victim to a ser
 
 ---
 
-## 6. ICE and OKX Are Teaming Up to Bring Tokenized Securities to Wall Street
+## 7. ICE and OKX Are Teaming Up to Bring Tokenized Securities to Wall Street
 
 **Author:** Logan Hitchcock  
 **Published:** 6/22/2026, 6:00:03 PM  
@@ -83,7 +95,7 @@ The pair will focus on advancing tokenization and digital asset infrastructure i
 
 ---
 
-## 7. The Studio Behind 'Ex Machina' Is Now Researching AI With Google
+## 8. The Studio Behind 'Ex Machina' Is Now Researching AI With Google
 
 **Author:** Jason Nelson  
 **Published:** 6/22/2026, 5:29:24 PM  
@@ -95,7 +107,7 @@ Google is investing $75 million in A24 as part of a new AI research initiative f
 
 ---
 
-## 8. Bank of England Eases Stablecoin Rules, Swaps Holding Caps for £40B ‘Guardrail’
+## 9. Bank of England Eases Stablecoin Rules, Swaps Holding Caps for £40B ‘Guardrail’
 
 **Author:** Decrypt Agent  
 **Published:** 6/22/2026, 4:43:17 PM  
@@ -107,7 +119,7 @@ The BoE scrapped individual holding caps for a £40 billion per-coin issuance li
 
 ---
 
-## 9. Ethereum Layer-2 Taiko Warns Users to Withdraw Bridge Funds After Security Breach
+## 10. Ethereum Layer-2 Taiko Warns Users to Withdraw Bridge Funds After Security Breach
 
 **Author:** Jason Nelson  
 **Published:** 6/22/2026, 3:31:03 PM  
@@ -119,7 +131,7 @@ Researchers estimate more than $1.7 million was stolen after attackers allegedly
 
 ---
 
-## 10. Tom Lee’s BitMine Adds $92 Million in Ethereum, Hits 4.7% of Total Supply
+## 11. Tom Lee’s BitMine Adds $92 Million in Ethereum, Hits 4.7% of Total Supply
 
 **Author:** Logan Hitchcock  
 **Published:** 6/22/2026, 3:18:30 PM  
@@ -131,7 +143,7 @@ The leading Ethereum treasury firm inched closer to its goal of accumulating 5% 
 
 ---
 
-## 11. Morning Minute: Bitcoin at $65,000 as Iran Deal Wobbles
+## 12. Morning Minute: Bitcoin at $65,000 as Iran Deal Wobbles
 
 **Author:** Tyler Warner  
 **Published:** 6/22/2026, 3:17:46 PM  
@@ -143,7 +155,7 @@ Macro uncertainty, STRC finding a new low and another $227M in ETF outflows were
 
 ---
 
-## 12. Strategy Pads Cash Reserves to $1.4B After STRC's Stumble
+## 13. Strategy Pads Cash Reserves to $1.4B After STRC's Stumble
 
 **Author:** André Beganski  
 **Published:** 6/22/2026, 2:55:32 PM  
@@ -155,7 +167,7 @@ Michael Saylor’s firm topped up its USD cash reserve to $1.4 billion as it mad
 
 ---
 
-## 13. Bitcoin 'Resilient' After Hawkish Fed, But No 'Return of Demand': Analysts
+## 14. Bitcoin 'Resilient' After Hawkish Fed, But No 'Return of Demand': Analysts
 
 **Author:** Decrypt Agent  
 **Published:** 6/22/2026, 12:12:25 PM  
@@ -167,7 +179,7 @@ With ETF outflows persisting and selling "nearly exhausted," analysts say Bitcoi
 
 ---
 
-## 14. $1.9M in Fake Bets Drove Polymarket Hype: WSJ
+## 15. $1.9M in Fake Bets Drove Polymarket Hype: WSJ
 
 **Author:** Decrypt Agent  
 **Published:** 6/22/2026, 10:53:16 AM  
