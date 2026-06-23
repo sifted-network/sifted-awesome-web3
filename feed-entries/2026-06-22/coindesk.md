@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-22"
 date: "2026-06-22"
 source: "CoinDesk"
-count: 25
+count: 19
 ---
 
 # CoinDesk - 2026-06-22
 
-25 items collected.
+19 items collected.
 
 ---
 
@@ -236,77 +236,5 @@ The U.K. central bank abandons retail holding limits for a 40-billion-pound aggr
 Your look at what's coming in the week starting June 22.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/22/geopolitical-relief-meets-the-warsh-fed-crypto-week-ahead)
-
----
-
-## 20. Taiko halts its Ethereum layer-2 network after a bridge exploit, token dives
-
-**Author:** Shaurya Malwa  
-**Published:** 6/22/2026, 9:23:02 AM  
-**Categories:** Tech, Hack, Crime, Ethereum News, News  
-
-An attacker forged withdrawal proofs to drain about $1.7 million, the same type of flaw behind this year's biggest bridge hacks. Fast containment kept the damage small.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/22/taiko-halts-its-ethereum-layer-2-network-after-a-bridge-exploit-token-dives-10)
-
----
-
-## 21. Bitcoin price may be headed to $54,000, says analyst who forecast October's all-time high
-
-**Author:** Omkar Godbole  
-**Published:** 6/22/2026, 9:19:24 AM  
-**Categories:** Markets, Bitcoin News, Technical Analysis, News  
-
-Doctor Profit, a widely followed crypto analyst, says bitcoin is forming a “bear flag” pattern.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/22/bitcoin-price-may-be-headed-to-usd54-000-says-analyst-who-forecast-october-s-all-time-high)
-
----
-
-## 22. Live markets: Bitcoin gives up morning gains as Nasdaq sheds more than 1%
-
-**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Helene Braun,Krisztian Sandor  
-**Published:** 6/22/2026, 7:34:05 AM  
-**Categories:** Tech, Live News, live_news  
-
-Eased ETF selling and improving risk appetite are being offset by a firmer dollar and cautious institutional flows, leaving bitcoin range-bound, one analyst said.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/22/live-markets-bitcoin-is-stuck-near-usd64-000-as-etf-outflows-reach-a-sixth-week)
-
----
-
-## 23. Bitcoin developers want to fix the 'replace this transaction with a higher fee' button. Here's why
-
-**Author:** Omkar Godbole  
-**Published:** 6/22/2026, 6:19:13 AM  
-**Categories:** Tech, Bitcoin News, News  
-
-A helpful feature of speeding up transactions has become redundant and a "fingerprint" for tracking. Developers now want to do away with it.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/22/bitcoin-developers-want-to-fix-the-replace-this-transaction-with-a-higher-fee-button-here-s-why)
-
----
-
-## 24. Ethereum validators asked to fund projects with up to 10% of staking rewards under new proposal
-
-**Author:** Shaurya Malwa  
-**Published:** 6/22/2026, 5:43:26 AM  
-**Categories:** Tech, Ethereum News, News  
-
-A new governance proposal would let validators redirect part of their staking income toward ecosystem funding, raising questions about coordination, incentives and who gets to decide where the money goes.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/22/ethereum-validators-asked-to-fund-projects-with-up-to-10-of-staking-rewards-under-new-proposal)
-
----
-
-## 25. XRP briefly loses $1.14 support before buyers drive sharp rebound
-
-**Author:** Shaurya Malwa  
-**Published:** 6/22/2026, 5:17:18 AM  
-**Categories:** Markets, News  
-
-Heavy selling pushed XRP to its lowest level of the weekend session, but strong buying quickly erased most of the decline and returned the token to its recent trading range.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/22/xrp-briefly-loses-usd1-14-support-before-buyers-drive-sharp-rebound)
 
 ---
