@@ -2,16 +2,64 @@
 title: "CoinDesk - 2026-06-22"
 date: "2026-06-22"
 source: "CoinDesk"
-count: 22
+count: 25
 ---
 
 # CoinDesk - 2026-06-22
 
-22 items collected.
+25 items collected.
 
 ---
 
-## 1. Strive says digital credit selloff was a liquidation event, not a credit crisis
+## 1. U.S. Senate passes housing bill that carries four-year ban on a Fed CBDC
+
+**Author:** Jesse Hamilton  
+**Published:** 6/22/2026, 11:01:15 PM  
+**Categories:** Policy, CBDC, Regulation, News  
+
+The idea of a U.S. central bank digital currency — though little more than a research topic at the Federal Reserve — may be getting formally blocked.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc)
+
+---
+
+## 2. Securitize and tZERO clash over patents as race to bring Wall Street onchain heats up
+
+**Author:** Krisztian Sandor  
+**Published:** 6/22/2026, 9:08:50 PM  
+**Categories:** Finance, Tokenization, News  
+
+tZERO and Securitize are squaring off over tokenization patents as the market attracts more of Wall Street's attention.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/22/securitize-and-tzero-clash-over-patents-as-race-to-bring-wall-street-onchain-heats-up)
+
+---
+
+## 3. Ric Edelman says crypto’s biggest growth story is happening off the price chart
+
+**Author:** AI Boost  
+**Published:** 6/22/2026, 8:58:40 PM  
+**Categories:** Markets, Media Network Interview, Tokenization, Clarity Act, News  
+
+Crypto prices remain under pressure, but Ric Edelman says institutional adoption and tokenization are accelerating behind the scenes.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/22/ric-edelman-says-crypto-s-biggest-growth-story-is-happening-off-the-price-chart)
+
+---
+
+## 4. 21Shares co-founder warns tokenization hype is outrunning Wall Street reality
+
+**Author:** AI Boost  
+**Published:** 6/22/2026, 8:53:39 PM  
+**Categories:** Markets, Media Network Interview, Tokenization, News  
+
+Tokenization can improve settlement and asset movement, but key pieces of financial infrastructure remain unprepared for institutional-scale adoption.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/22/21shares-co-founder-warns-tokenization-hype-is-outrunning-wall-street-reality)
+
+---
+
+## 5. Strive says digital credit selloff was a liquidation event, not a credit crisis
 
 **Author:** AI Boost  
 **Published:** 6/22/2026, 8:14:02 PM  
@@ -23,7 +71,7 @@ A sharp selloff in digital credit products exposed growing pains in a young mark
 
 ---
 
-## 2. Ether’s biggest corporate holders back new Ethereum research hub
+## 6. Ether’s biggest corporate holders back new Ethereum research hub
 
 **Author:** Krisztian Sandor,Margaux Nijkerk  
 **Published:** 6/22/2026, 7:20:45 PM  
@@ -35,7 +83,7 @@ Ethlabs was formed with support from SharpLink, Bitmine and Consensys CEO Joe Lu
 
 ---
 
-## 3. Ethereum Foundation talent exodus sparks fresh debate over leadership
+## 7. Ethereum Foundation talent exodus sparks fresh debate over leadership
 
 **Author:** Margaux Nijkerk  
 **Published:** 6/22/2026, 4:39:41 PM  
@@ -47,7 +95,7 @@ The Ethereum community is once again debating the future of the foundation after
 
 ---
 
-## 4. Crypto's second U.S. lobbying front — tax policy — sees industry push on mining, staking
+## 8. Crypto's second U.S. lobbying front — tax policy — sees industry push on mining, staking
 
 **Author:** Jesse Hamilton  
 **Published:** 6/22/2026, 3:56:13 PM  
@@ -59,7 +107,7 @@ The crypto sector's leading U.S. advocacy groups asked the U.S. House's tax comm
 
 ---
 
-## 5. Anchorage aims to bring banks onchain with new tokenized deposit platform
+## 9. Anchorage aims to bring banks onchain with new tokenized deposit platform
 
 **Author:** Krisztian Sandor  
 **Published:** 6/22/2026, 3:00:00 PM  
@@ -71,7 +119,7 @@ The crypto bank aims to help financial institutions offer round-the-clock paymen
 
 ---
 
-## 6. MoneyGram joins Solana as validator amid stablecoin payment push
+## 10. MoneyGram joins Solana as validator amid stablecoin payment push
 
 **Author:** Krisztian Sandor  
 **Published:** 6/22/2026, 1:53:16 PM  
@@ -83,7 +131,7 @@ The remittances firm has become a validator on the Solana blockchain, helping pr
 
 ---
 
-## 7. OKX and NYSE partner to bridge tradfi and crypto markets in joint venture led by Andrew Cuomo
+## 11. OKX and NYSE partner to bridge tradfi and crypto markets in joint venture led by Andrew Cuomo
 
 **Author:** Olivier Acuna  
 **Published:** 6/22/2026, 1:40:27 PM  
@@ -95,7 +143,7 @@ The goal is to enable OKX’s 120 million global users to access ICE futures and
 
 ---
 
-## 8. Bitmine added $92 million of ETH, with Tom Lee continuing to believe in 'crypto spring'
+## 12. Bitmine added $92 million of ETH, with Tom Lee continuing to believe in 'crypto spring'
 
 **Author:** Krisztian Sandor  
 **Published:** 6/22/2026, 1:04:44 PM  
@@ -107,7 +155,7 @@ The largest Ethereum treasury firm slowed its buying pace but remains on track t
 
 ---
 
-## 9. Bitcoin mining network becoming more sensitive to price swings, JPMorgan says
+## 13. Bitcoin mining network becoming more sensitive to price swings, JPMorgan says
 
 **Author:** Will Canny,AI Boost  
 **Published:** 6/22/2026, 12:51:16 PM  
@@ -119,7 +167,7 @@ A growing share of miners are operating near breakeven levels, making hashrate a
 
 ---
 
-## 10. Strategy added $35 million in bitcoin, $300 million in cash reserves last week
+## 14. Strategy added $35 million in bitcoin, $300 million in cash reserves last week
 
 **Author:** James Van Straten,Olivier Acuna  
 **Published:** 6/22/2026, 12:39:40 PM  
@@ -131,7 +179,7 @@ The boost to cash reserves is meant to reassure investors about dividend payment
 
 ---
 
-## 11. TradFi fund manager Baillie Gifford introduces Solana, Ethereum tokenized fund with BNY
+## 15. TradFi fund manager Baillie Gifford introduces Solana, Ethereum tokenized fund with BNY
 
 **Author:** Ian Allison  
 **Published:** 6/22/2026, 12:01:03 PM  
@@ -143,7 +191,7 @@ Baillie Gifford Enhanced Yield Fund (BAGEY) is denominated in dollars, and gives
 
 ---
 
-## 12. Bitcoin ETF outflow pain eases just as another headwind gathers strength
+## 16. Bitcoin ETF outflow pain eases just as another headwind gathers strength
 
 **Author:** Omkar Godbole  
 **Published:** 6/22/2026, 11:30:13 AM  
@@ -155,7 +203,7 @@ Your day-ahead look for June 22, 2026
 
 ---
 
-## 13. As bitcoin, altcoin prices gain, derivatives signal skepticism over a sustained rally
+## 17. As bitcoin, altcoin prices gain, derivatives signal skepticism over a sustained rally
 
 **Author:** Omkar Godbole  
 **Published:** 6/22/2026, 11:05:38 AM  
@@ -167,7 +215,7 @@ Analysts noted bitcoin is stuck between key support near $60,000 and resistance 
 
 ---
 
-## 14. Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap
+## 18. Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap
 
 **Author:** Olivier Acuna  
 **Published:** 6/22/2026, 10:48:14 AM  
@@ -179,7 +227,7 @@ The U.K. central bank abandons retail holding limits for a 40-billion-pound aggr
 
 ---
 
-## 15. Geopolitical relief meets the Warsh Fed: Crypto Week Ahead
+## 19. Geopolitical relief meets the Warsh Fed: Crypto Week Ahead
 
 **Author:** Jamie Crawley  
 **Published:** 6/22/2026, 10:22:22 AM  
@@ -191,7 +239,7 @@ Your look at what's coming in the week starting June 22.
 
 ---
 
-## 16. Taiko halts its Ethereum layer-2 network after a bridge exploit, token dives
+## 20. Taiko halts its Ethereum layer-2 network after a bridge exploit, token dives
 
 **Author:** Shaurya Malwa  
 **Published:** 6/22/2026, 9:23:02 AM  
@@ -203,7 +251,7 @@ An attacker forged withdrawal proofs to drain about $1.7 million, the same type 
 
 ---
 
-## 17. Bitcoin price may be headed to $54,000, says analyst who forecast October's all-time high
+## 21. Bitcoin price may be headed to $54,000, says analyst who forecast October's all-time high
 
 **Author:** Omkar Godbole  
 **Published:** 6/22/2026, 9:19:24 AM  
@@ -215,7 +263,7 @@ Doctor Profit, a widely followed crypto analyst, says bitcoin is forming a “be
 
 ---
 
-## 18. Live markets: Bitcoin gives up morning gains as Nasdaq sheds more than 1%
+## 22. Live markets: Bitcoin gives up morning gains as Nasdaq sheds more than 1%
 
 **Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Helene Braun,Krisztian Sandor  
 **Published:** 6/22/2026, 7:34:05 AM  
@@ -227,7 +275,7 @@ Eased ETF selling and improving risk appetite are being offset by a firmer dolla
 
 ---
 
-## 19. Bitcoin developers want to fix the 'replace this transaction with a higher fee' button. Here's why
+## 23. Bitcoin developers want to fix the 'replace this transaction with a higher fee' button. Here's why
 
 **Author:** Omkar Godbole  
 **Published:** 6/22/2026, 6:19:13 AM  
@@ -239,7 +287,7 @@ A helpful feature of speeding up transactions has become redundant and a "finger
 
 ---
 
-## 20. Ethereum validators asked to fund projects with up to 10% of staking rewards under new proposal
+## 24. Ethereum validators asked to fund projects with up to 10% of staking rewards under new proposal
 
 **Author:** Shaurya Malwa  
 **Published:** 6/22/2026, 5:43:26 AM  
@@ -251,7 +299,7 @@ A new governance proposal would let validators redirect part of their staking in
 
 ---
 
-## 21. XRP briefly loses $1.14 support before buyers drive sharp rebound
+## 25. XRP briefly loses $1.14 support before buyers drive sharp rebound
 
 **Author:** Shaurya Malwa  
 **Published:** 6/22/2026, 5:17:18 AM  
@@ -260,17 +308,5 @@ A new governance proposal would let validators redirect part of their staking in
 Heavy selling pushed XRP to its lowest level of the weekend session, but strong buying quickly erased most of the decline and returned the token to its recent trading range.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/22/xrp-briefly-loses-usd1-14-support-before-buyers-drive-sharp-rebound)
-
----
-
-## 22. Bitcoin holds near $64,000 as US-Iran talks progress but crypto sits out the rally
-
-**Author:** Shaurya Malwa  
-**Published:** 6/22/2026, 4:58:49 AM  
-**Categories:** Markets, News  
-
-Asian stocks and tech climbed as the US and Iran agreed a roadmap to a final peace deal, sending oil below $80. Crypto stayed soft, with bitcoin down 2% on the week and the memecoins leading the losses.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/22/bitcoin-holds-near-usd64-000-as-us-iran-talks-progress-but-crypto-sits-out-the-rally)
 
 ---
