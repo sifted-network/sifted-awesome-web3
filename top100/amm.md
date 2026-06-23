@@ -25,8 +25,8 @@
 | 17 | [Ammo.lab](https://github.com/lo-th/Ammo.lab) | 273 | 38 | JavaScript | 2 | Ammo.lab advanced 3d physics worker for three.js | 2021-07-08 |
 | 18 | [whack-a-mole](https://github.com/solidquant/whack-a-mole) | 269 | 90 | Python | 5 | CEX-DEX arbitrage bot written in pure Python | 2024-04-26 |
 | 19 | [raydium_py](https://github.com/AL-THE-BOT-FATHER/raydium_py) | 248 | 84 | Python | 2 | Raydium swap with Python (AMM v4 and CPMM) | 2025-07-19 |
-| 20 | [AMMDS-Docker](https://github.com/QYG2297248353/AMMDS-Docker) | 246 | 8 | - | 2 | Adult Movie MetaData Scraper | 2026-05-09 |
-| 21 | [raydium-cp-swap](https://github.com/raydium-io/raydium-cp-swap) | 243 | 208 | Rust | 2 | Revamped constant product AMM - no Openbook ID requirement, Token22 support | 2026-06-12 |
+| 20 | [AMMDS-Docker](https://github.com/QYG2297248353/AMMDS-Docker) | 245 | 8 | - | 2 | Adult Movie MetaData Scraper | 2026-05-09 |
+| 21 | [raydium-cp-swap](https://github.com/raydium-io/raydium-cp-swap) | 243 | 208 | Rust | 1 | Revamped constant product AMM - no Openbook ID requirement, Token22 support | 2026-06-12 |
 | 22 | [trident](https://github.com/sushiswap/trident) | 233 | 68 | TypeScript | 13 | Rapid AMM Development Framework  | 2023-02-07 |
 | 23 | [Solana-Raydium-Sniper-Bot](https://github.com/cutupdev/Solana-Raydium-Sniper-Bot) | 204 | 62 | Rust | 0 | Solana raydium rust sniper bot - launchlab(launchpad), amm, clmm, cpmm snipe | 2025-08-08 |
 | 24 | [AppleWatchAmmeter](https://github.com/jp3141/AppleWatchAmmeter) | 196 | 3 | - | 2 | Turn your Apple Watch into an ammeter to measure DC currents | 2024-09-15 |
@@ -42,11 +42,11 @@
 | 34 | [raydium-cpi-example](https://github.com/raydium-io/raydium-cpi-example) | 125 | 46 | Rust | 4 | cpi call example for amm, cpswap and clmm program | 2025-06-04 |
 | 35 | [ammer](https://github.com/Aurel300/ammer) | 120 | 15 | Haxe | 21 | Unified FFI for Haxe native extensions | 2023-07-29 |
 | 36 | [ammo.js-demos](https://github.com/schteppe/ammo.js-demos) | 118 | 31 | JavaScript | 2 | Demo application base class and 3D physics demos based on ammo.js. Support for several scenegraphs including Three.js and SceneJS. | 2015-08-31 |
-| 37 | [ammonite-spark](https://github.com/alexarchambault/ammonite-spark) | 117 | 17 | Scala | 24 | Run spark calculations from Ammonite | 2026-06-18 |
+| 37 | [ammonite-spark](https://github.com/alexarchambault/ammonite-spark) | 117 | 17 | Scala | 24 | Run spark calculations from Ammonite | 2026-06-22 |
 | 38 | [contracts](https://github.com/aerodrome-finance/contracts) | 116 | 110 | Solidity | 6 | Aerodrome Finance Smart Contracts | 2025-12-18 |
 | 39 | [jupiter-amm-implementation](https://github.com/jup-ag/jupiter-amm-implementation) | 108 | 71 | Rust | 0 |  | 2026-04-14 |
-| 40 | [solana-sniper-trading-mev-bot](https://github.com/bigmacman1129/solana-sniper-trading-mev-bot) | 105 | 70 | TypeScript | 0 | Solana trading bot for sniping new tokens on Raydium AMM v4 and pump.fun. Features real-time on-chain monitoring, MEV-ready execution (Jito/Warp), safety filters, auto buy/sell, take-profit, and stop-... | 2026-05-17 |
-| 41 | [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk) | 100 | 31 | Rust | 1 | Token creation launching, bonding curve trading, AMM migration, tiered fees, creator fee sharing, vanity keygen, MCP server, Telegram bot & live dashboards | 2026-05-25 |
+| 40 | [solana-sniper-trading-mev-bot](https://github.com/bigmacman1129/solana-sniper-trading-mev-bot) | 107 | 72 | TypeScript | 0 | Solana trading bot for sniping new tokens on Raydium AMM v4 and pump.fun. Features real-time on-chain monitoring, MEV-ready execution (Jito/Warp), safety filters, auto buy/sell, take-profit, and stop-... | 2026-05-17 |
+| 41 | [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk) | 101 | 31 | Rust | 1 | Token creation launching, bonding curve trading, AMM migration, tiered fees, creator fee sharing, vanity keygen, MCP server, Telegram bot & live dashboards | 2026-05-25 |
 | 42 | [amm-arbitrage-toolkit-py](https://github.com/cypherpunk-symposium/amm-arbitrage-toolkit-py) | 99 | 28 | Python | 0 | 👾 my cli tool to get data and arbitrage edges for given tokens and exchanges pools | 2024-10-30 |
 | 43 | [plasma](https://github.com/Ellipsis-Labs/plasma) | 95 | 20 | Rust | 0 | Reference implementation of a sandwich-resistant AMM for the Solana blockchain | 2025-08-29 |
 | 44 | [Algebra](https://github.com/cryptoalgebra/Algebra) | 93 | 60 | TypeScript | 3 | Algebra AMM main repository. Contact us for licenses. | 2026-06-15 |
@@ -75,7 +75,7 @@
 | 67 | [contracts](https://github.com/velodrome-finance/contracts) | 65 | 43 | Solidity | 1 | Velodrome Finance v2 Smart Contracts | 2025-12-18 |
 | 68 | [raydium-pool-keys](https://github.com/snoopy-sol/raydium-pool-keys) | 65 | 11 | Python | 1 | This script will retrieve raydium pool keys based on amm id (aka pair address, pool id). | 2024-03-01 |
 | 69 | [tinyman-contracts-v1](https://github.com/tinymanorg/tinyman-contracts-v1) | 64 | 18 | - | 0 | Tinyman AMM Contracts V1.1 | 2022-01-18 |
-| 70 | [pmm-sim](https://github.com/LimeChain/pmm-sim) | 64 | 24 | Rust | 0 | Simulation environment for Solana's Prop AMMs (SolFi, HumidiFi, Tessera, GoonFi, BisonFi, ..) | 2026-03-04 |
+| 70 | [pmm-sim](https://github.com/LimeChain/pmm-sim) | 64 | 25 | Rust | 0 | Simulation environment for Solana's Prop AMMs (SolFi, HumidiFi, Tessera, GoonFi, BisonFi, ..) | 2026-03-04 |
 | 71 | [zRouter](https://github.com/z-fi/zRouter) | 64 | 1 | Solidity | 1 | multi-amm multi-call router for uniswap / zAMM | 2026-03-30 |
 | 72 | [ammojs-typed](https://github.com/giniedp/ammojs-typed) | 63 | 19 | - | 3 | TypeScript type definitions for ammo.js | 2024-03-17 |
 | 73 | [ammonium](https://github.com/jupyter-scala/ammonium) | 63 | 5 | Scala | 0 | Impatient fork of Ammonite | 2018-07-30 |
