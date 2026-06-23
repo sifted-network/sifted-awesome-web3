@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-22"
 date: "2026-06-22"
 source: "Cointelegraph"
-count: 21
+count: 18
 ---
 
 # Cointelegraph - 2026-06-22
 
-21 items collected.
+18 items collected.
 
 ---
 
@@ -224,41 +224,5 @@ South Korea’s FIU is calling for broader crypto transfer reporting rules durin
 The remittance giant is staking SOL and processing transaction blocks as stablecoin adoption accelerates across the global remittance industry.
 
 📖 [Read original article](https://cointelegraph.com/news/moneygram-joins-solana-validator-expanding-role-blockchain-infrastructure?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 19. Morgan Stanley amends Ethereum, Solana ETFs to reveal record cheap fees
-
-**Author:** Jesse Coghlan  
-**Published:** 6/22/2026, 5:40:26 AM  
-**Categories:** Latest News, ETF, Ethereum ETF, Solana, Morgan Stanley  
-
-ETF analyst Eric Balchunas says Morgan Stanley’s plan to charge 0.14% fees on two upcoming crypto ETFs makes them “the cheapest in [the] US and world.”
-
-📖 [Read original article](https://cointelegraph.com/news/morgan-stanley-amends-ethereum-solana-etfs-to-undercut-rivals-fees?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 20. Taiko urges users to withdraw as bridge exploit drains $1.7M
-
-**Author:** Martin Young  
-**Published:** 6/22/2026, 5:31:18 AM  
-**Categories:** Latest News, Layer2, Hacks, DeFi  
-
-Taiko’s bridge and ERC20 Vault on Ethereum suffered a compromise in its chain state verification mechanism, allowing forged proofs and unauthorized withdrawals.
-
-📖 [Read original article](https://cointelegraph.com/news/taiko-urges-users-to-withdraw-as-bridge-exploit-drains-17m?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 21. Secret Network bridge exploited for $4.7M with ‘infinite mint’ bug
-
-**Author:** Martin Young  
-**Published:** 6/22/2026, 3:49:49 AM  
-**Categories:** Latest News, Hacks, Cybercrime, DeFi  
-
-An exploit of the Secret Network went undiscovered for a week as the hacker moved the loot into Ethereum and then to exchanges.
-
-📖 [Read original article](https://cointelegraph.com/news/secret-network-bridge-exploited-infinite-mint-bug?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
