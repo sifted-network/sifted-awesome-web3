@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-22"
 date: "2026-06-22"
 source: "The Block"
-count: 20
+count: 19
 ---
 
 # The Block - 2026-06-22
 
-20 items collected.
+19 items collected.
 
 ---
 
@@ -236,17 +236,5 @@ US spot bitcoin ETFs saw $227 million in net outflows last week, extending the n
 South Korea's CBDC pilot project is entering its second phase, where deposit tokens will be integrated into existing banking systems.
 
 📖 [Read original article](https://www.theblock.co/post/405529/south-korea-cbdc-second-phase?utm_source=rss&utm_medium=rss)
-
----
-
-## 20. Ethereum ‘tax’ debate erupts over proposal to redirect portion of staking rewards to ecosystem funding
-
-**Author:** Timmy Shen  
-**Published:** 6/22/2026, 9:49:52 AM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, The Block, Token Projects, zzz - Old categories, Ethereum  
-
-A post on the Ethereum Research forum proposes letting validators vote to redirect up to 10% of staking rewards to fund public goods.
-
-📖 [Read original article](https://www.theblock.co/post/405525/ethereum-tax-debate?utm_source=rss&utm_medium=rss)
 
 ---
