@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-23"
 date: "2026-06-23"
 source: "CoinDesk"
-count: 19
+count: 9
 ---
 
 # CoinDesk - 2026-06-23
 
-19 items collected.
+9 items collected.
 
 ---
 
@@ -116,125 +116,5 @@ Before we rush to tokenize U.S. equities, we need compliance systems that unders
 The reduction follows a period of significant upheaval at the organization’s leadership level.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus)
-
----
-
-## 10. Bitcoin may need to plunge 15% or more to mark bottom, according to this long-time indicator
-
-**Author:** James Van Straten  
-**Published:** 6/23/2026, 1:08:31 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-With bitcoin testing its 200 week moving average, on-chain data suggests the $50,000 to $54,000 range could become the next key battleground.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/23/bitcoin-may-need-to-plunge-15-or-more-to-mark-bottom-according-to-this-long-time-indicator)
-
----
-
-## 11. Former Robinhood Crypto COO Tanya Denisova joins stablecoin issuer Agora as head of operations
-
-**Author:** Will Canny,AI Boost  
-**Published:** 6/23/2026, 1:00:00 PM  
-**Categories:** Finance, Robinhood, Exclusive, News  
-
-The former Robinhood Crypto executive will oversee operations as Agora scales its rapidly growing AUSD stablecoin business.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/23/former-robinhood-crypto-coo-tanya-denisova-joins-stablecoin-issuer-agora-as-head-of-operations)
-
----
-
-## 12. In Clarity Act's final weeks, its path through U.S. Senate not getting much clearer
-
-**Author:** Jesse Hamilton  
-**Published:** 6/23/2026, 1:00:00 PM  
-**Categories:** News Analysis, Clarity Act, Regulation, News  
-
-Tough negotiations linger in several difficult arenas, but crypto's Washington lobbyists are flying in allies this week and still hoping for a July vote.
-
-📖 [Read original article](https://www.coindesk.com/news-analysis/2026/06/22/in-clarity-act-s-final-weeks-its-path-through-u-s-senate-not-getting-much-clearer)
-
----
-
-## 13. The ECB digital euro takes step forward after winning key European Parliament vote
-
-**Author:** Olivier Acuna  
-**Published:** 6/23/2026, 12:37:20 PM  
-**Categories:** Policy, Stablecoins, ECB, News  
-
-EU lawmakers backed a legal framework to develop an ECB digital currency by 2029 so the continent can stop relying entirely on U.S. credit card and stablecoin giants.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip)
-
----
-
-## 14. Franklin Templeton closes 250 Digital acquisition deal and sets up new Franklin Crypto division
-
-**Author:** Olivier Acuna  
-**Published:** 6/23/2026, 12:35:57 PM  
-**Categories:** Finance, Institutional Investors, News  
-
-The $1.7 trillion asset manager did not disclose the amount paid for the acquisition of 250 Digital but revealed its plans for a new corporate division exclusively for crypto investments.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/23/franklin-templeton-closes-250-digital-acquisition-deal-and-sets-up-new-franklin-crypto-division)
-
----
-
-## 15. Strategy's STRC slump prompts Terra comparisons that don't hold up, says analyst
-
-**Author:** Shaurya Malwa  
-**Published:** 6/23/2026, 12:14:07 PM  
-**Categories:** Markets, News  
-
-Benchmark's Mark Palmer says the comparison misreads what STRC is — a dividend-paying share backed indirectly by bitcoin, not a peg waiting to break.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/23/strategy-s-strc-slid-below-par-reviving-terra-comparisons-that-don-t-hold-up)
-
----
-
-## 16. Bitcoin volatility looks cheap as $10 billion options settlement nears
-
-**Author:** Omkar Godbole  
-**Published:** 6/23/2026, 11:16:11 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for June 23, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/06/23/bitcoin-volatility-looks-cheap-as-usd10-billion-options-settlement-nears)
-
----
-
-## 17. Crypto market drops as Nasdaq tech selloff spills into digital assets
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 6/23/2026, 10:45:50 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin lost 2.5% to $62,300 and ether fell more than 4% while $717 million in liquidations amplified losses across altcoins.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/23/crypto-market-drops-as-nasdaq-tech-selloff-spills-into-digital-assets)
-
----
-
-## 18. Ripple targets EU, wins preliminary MiCA approval from Luxembourg financial regulator
-
-**Author:** Jamie Crawley  
-**Published:** 6/23/2026, 10:17:19 AM  
-**Categories:** Policy, Ripple, MiCA, Regulation, News  
-
-The license will enable Ripple to offer its stablecoin payment systems to European companies and expand into broader crypto functions.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/23/ripple-targets-eu-wins-preliminary-mica-approval-from-luxembourg-financial-regulator)
-
----
-
-## 19. Hut 8 to pay $2.35 million to settle investor suit over U.S. Bitcoin merger
-
-**Author:** James Van Straten,AI Boost  
-**Published:** 6/23/2026, 9:57:11 AM  
-**Categories:** Markets, Bitcoin Mining, News  
-
-The former bitcoin miner denied any wrongdoing related to its 2023 merger with U.S. Bitcoin Corp.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/23/hut-8-to-pay-usd2-35-million-to-settle-investor-suit-over-u-s-bitcoin-merger)
 
 ---
