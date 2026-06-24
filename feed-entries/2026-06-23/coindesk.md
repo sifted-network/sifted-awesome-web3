@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-06-23"
 date: "2026-06-23"
 source: "CoinDesk"
-count: 23
+count: 25
 ---
 
 # CoinDesk - 2026-06-23
 
-23 items collected.
+25 items collected.
 
 ---
 
-## 1. Meta is developing a prediction market app called ‘Arena’ as sector booms: NYT
+## 1. AI chipmaker Cerebras down 11% after first public earnings report
+
+**Author:** James Van Straten  
+**Published:** 6/23/2026, 10:58:44 PM  
+**Categories:** Markets, Artificial Intelligence, News  
+
+While revenue was up 92% from year-ago levels, the company forecasted a lower core gross margin next quarter.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/23/ai-chipmaker-cerebras-down-11-after-first-public-earnings-report)
+
+---
+
+## 2. Crypto critic Roubini joins tokenization boom with onchain 'Technodollar'
+
+**Author:** Krisztian Sandor  
+**Published:** 6/23/2026, 9:54:10 PM  
+**Categories:** Finance, Tokenization, News  
+
+The economist known as "Dr. Doom" is supporting a tokenized security backed by a Nasdaq-listed ETF he oversees, designed to protect wealth in global crises.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/23/crypto-critic-roubini-joins-tokenization-boom-with-onchain-technodollar)
+
+---
+
+## 3. Meta is developing a prediction market app called ‘Arena’ as sector booms: NYT
 
 **Author:** Helene Braun  
 **Published:** 6/23/2026, 5:54:32 PM  
@@ -23,7 +47,7 @@ The app would let users forecast future events using a points-based system rathe
 
 ---
 
-## 2. BNY sees 'FOMO' driving asset managers into tokenized funds
+## 4. BNY sees 'FOMO' driving asset managers into tokenized funds
 
 **Author:** Helene Braun  
 **Published:** 6/23/2026, 4:34:34 PM  
@@ -35,7 +59,7 @@ Fund issuers are exploring blockchain-based ETFs amid fears of missing an early 
 
 ---
 
-## 3. Chainlink teams up with 47 South Korean, European banks to speed up international money transfers
+## 5. Chainlink teams up with 47 South Korean, European banks to speed up international money transfers
 
 **Author:** Olivier Acuna  
 **Published:** 6/23/2026, 3:40:00 PM  
@@ -47,7 +71,7 @@ The alliance, called Project Pangea, plans to use stablecoins to settle multimil
 
 ---
 
-## 4. Vitalik Buterin says Ethereum Foundation will cut budget 40% in major reset
+## 6. Vitalik Buterin says Ethereum Foundation will cut budget 40% in major reset
 
 **Author:** Margaux Nijkerk  
 **Published:** 6/23/2026, 3:00:00 PM  
@@ -59,7 +83,7 @@ The reduction comes on the same day the EF confirmed a 20% reduction in headcoun
 
 ---
 
-## 5. Bitcoin's recent drop below $60,000 signals Fed, ETF and AI pressures: Deutsche Bank
+## 7. Bitcoin's recent drop below $60,000 signals Fed, ETF and AI pressures: Deutsche Bank
 
 **Author:** Will Canny,AI Boost  
 **Published:** 6/23/2026, 2:54:17 PM  
@@ -71,7 +95,7 @@ Bitcoin's slump to its lowest level since late 2024 reflects a hawkish Federal R
 
 ---
 
-## 6. The SEC delayed tokenizing stocks, and here’s why that’s a relief
+## 8. The SEC delayed tokenizing stocks, and here’s why that’s a relief
 
 **Author:** Dr. Ravishankar Chamarajnagar  
 **Published:** 6/23/2026, 2:01:44 PM  
@@ -83,7 +107,7 @@ Before we rush to tokenize U.S. equities, we need compliance systems that unders
 
 ---
 
-## 7. Ethereum Foundation cuts 20% of staff amid leadership exodus
+## 9. Ethereum Foundation cuts 20% of staff amid leadership exodus
 
 **Author:** Margaux Nijkerk  
 **Published:** 6/23/2026, 1:45:22 PM  
@@ -95,7 +119,7 @@ The reduction follows a period of significant upheaval at the organization’s l
 
 ---
 
-## 8. Bitcoin may need to plunge 15% or more to mark bottom, according to this long-time indicator
+## 10. Bitcoin may need to plunge 15% or more to mark bottom, according to this long-time indicator
 
 **Author:** James Van Straten  
 **Published:** 6/23/2026, 1:08:31 PM  
@@ -107,7 +131,7 @@ With bitcoin testing its 200 week moving average, on-chain data suggests the $50
 
 ---
 
-## 9. Former Robinhood Crypto COO Tanya Denisova joins stablecoin issuer Agora as head of operations
+## 11. Former Robinhood Crypto COO Tanya Denisova joins stablecoin issuer Agora as head of operations
 
 **Author:** Will Canny,AI Boost  
 **Published:** 6/23/2026, 1:00:00 PM  
@@ -119,7 +143,7 @@ The former Robinhood Crypto executive will oversee operations as Agora scales it
 
 ---
 
-## 10. In Clarity Act's final weeks, its path through U.S. Senate not getting much clearer
+## 12. In Clarity Act's final weeks, its path through U.S. Senate not getting much clearer
 
 **Author:** Jesse Hamilton  
 **Published:** 6/23/2026, 1:00:00 PM  
@@ -131,7 +155,7 @@ Tough negotiations linger in several difficult arenas, but crypto's Washington l
 
 ---
 
-## 11. The ECB digital euro takes step forward after winning key European Parliament vote
+## 13. The ECB digital euro takes step forward after winning key European Parliament vote
 
 **Author:** Olivier Acuna  
 **Published:** 6/23/2026, 12:37:20 PM  
@@ -143,7 +167,7 @@ EU lawmakers backed a legal framework to develop an ECB digital currency by 2029
 
 ---
 
-## 12. Franklin Templeton closes 250 Digital acquisition deal and sets up new Franklin Crypto division
+## 14. Franklin Templeton closes 250 Digital acquisition deal and sets up new Franklin Crypto division
 
 **Author:** Olivier Acuna  
 **Published:** 6/23/2026, 12:35:57 PM  
@@ -155,7 +179,7 @@ The $1.7 trillion asset manager did not disclose the amount paid for the acquisi
 
 ---
 
-## 13. Strategy's STRC slump prompts Terra comparisons that don't hold up, says analyst
+## 15. Strategy's STRC slump prompts Terra comparisons that don't hold up, says analyst
 
 **Author:** Shaurya Malwa  
 **Published:** 6/23/2026, 12:14:07 PM  
@@ -167,7 +191,7 @@ Benchmark's Mark Palmer says the comparison misreads what STRC is — a dividend
 
 ---
 
-## 14. Bitcoin volatility looks cheap as $10 billion options settlement nears
+## 16. Bitcoin volatility looks cheap as $10 billion options settlement nears
 
 **Author:** Omkar Godbole  
 **Published:** 6/23/2026, 11:16:11 AM  
@@ -179,7 +203,7 @@ Your day-ahead look for June 23, 2026
 
 ---
 
-## 15. Crypto market drops as Nasdaq tech selloff spills into digital assets
+## 17. Crypto market drops as Nasdaq tech selloff spills into digital assets
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 6/23/2026, 10:45:50 AM  
@@ -191,7 +215,7 @@ Bitcoin lost 2.5% to $62,300 and ether fell more than 4% while $717 million in l
 
 ---
 
-## 16. Ripple targets EU, wins preliminary MiCA approval from Luxembourg financial regulator
+## 18. Ripple targets EU, wins preliminary MiCA approval from Luxembourg financial regulator
 
 **Author:** Jamie Crawley  
 **Published:** 6/23/2026, 10:17:19 AM  
@@ -203,7 +227,7 @@ The license will enable Ripple to offer its stablecoin payment systems to Europe
 
 ---
 
-## 17. Hut 8 to pay $2.35 million to settle investor suit over U.S. Bitcoin merger
+## 19. Hut 8 to pay $2.35 million to settle investor suit over U.S. Bitcoin merger
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 6/23/2026, 9:57:11 AM  
@@ -215,7 +239,7 @@ The former bitcoin miner denied any wrongdoing related to its 2023 merger with U
 
 ---
 
-## 18. Bitcoin price has limited downside, likely near bottom, contrarian indicator suggests
+## 20. Bitcoin price has limited downside, likely near bottom, contrarian indicator suggests
 
 **Author:** Omkar Godbole  
 **Published:** 6/23/2026, 8:24:00 AM  
@@ -227,7 +251,7 @@ The bitcoin price's long-term moving averages are set to flash a bearish signal 
 
 ---
 
-## 19. Live updates: Saylor's Strategy sinks to new 52-week low as bitcoin drops to $62,000
+## 21. Live updates: Saylor's Strategy sinks to new 52-week low as bitcoin drops to $62,000
 
 **Author:** Shaurya Malwa,Omkar Godbole,Helene Braun  
 **Published:** 6/23/2026, 6:30:21 AM  
@@ -239,7 +263,7 @@ Crypto prices are again on the defensive amid a global stock rout set off by a 1
 
 ---
 
-## 20. XRP drifts toward $1.10 support as traders await break from three-week range
+## 22. XRP drifts toward $1.10 support as traders await break from three-week range
 
 **Author:** Shaurya Malwa  
 **Published:** 6/23/2026, 6:27:10 AM  
@@ -251,7 +275,7 @@ Weak volume and fading momentum kept XRP pinned near the bottom of its recent ra
 
 ---
 
-## 21. SpaceX’s $600 billion plunge erased equivalent of nearly half of bitcoin’s market cap in 3 days
+## 23. SpaceX’s $600 billion plunge erased equivalent of nearly half of bitcoin’s market cap in 3 days
 
 **Author:** Shaurya Malwa  
 **Published:** 6/23/2026, 6:23:36 AM  
@@ -263,7 +287,7 @@ The newly public company shed close to half of bitcoin's entire market value in 
 
 ---
 
-## 22. Bitcoin falls under $63,000 as a tech selloff drags risk assets lower
+## 24. Bitcoin falls under $63,000 as a tech selloff drags risk assets lower
 
 **Author:** Shaurya Malwa  
 **Published:** 6/23/2026, 5:24:57 AM  
@@ -275,7 +299,7 @@ A rotation out of this year's best AI and chip stocks sank Asian markets, with S
 
 ---
 
-## 23. Quantum computing is often seen as a risk to bitcoin. Now Trump wants to develop it.
+## 25. Quantum computing is often seen as a risk to bitcoin. Now Trump wants to develop it.
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 6/23/2026, 5:15:16 AM  
