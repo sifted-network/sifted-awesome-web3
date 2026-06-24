@@ -6,16 +6,16 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [sismo-badges](https://github.com/sismo-core/sismo-badges) | 15,911 | 530 | TypeScript | 2 | Contracts of the Sismo Badge Minting Protocol  | 2023-10-03 |
-| 2 | [not-paid](https://github.com/kleampa/not-paid) | 15,590 | 1,036 | JavaScript | 0 | Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away | 2025-04-28 |
+| 1 | [sismo-badges](https://github.com/sismo-core/sismo-badges) | 15,910 | 530 | TypeScript | 2 | Contracts of the Sismo Badge Minting Protocol  | 2023-10-03 |
+| 2 | [not-paid](https://github.com/kleampa/not-paid) | 15,591 | 1,036 | JavaScript | 0 | Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away | 2025-04-28 |
 | 3 | [why-did-you-render](https://github.com/welldone-software/why-did-you-render) | 12,492 | 228 | JavaScript | 31 | why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.) | 2026-04-15 |
 | 4 | [git-standup](https://github.com/nilbuild/git-standup) | 7,844 | 320 | Shell | 18 | Recall what you or your team did on the last working day | 2025-07-07 |
 | 5 | [didact](https://github.com/pomber/didact) | 6,756 | 548 | JavaScript | 23 | A DIY guide to build your own React | 2026-01-31 |
 | 6 | [why-did-you-update](https://github.com/garbles/why-did-you-update) | 4,930 | 80 | JavaScript | 20 | :boom: Puts your console on blast when React is making unnecessary updates. | 2017-09-23 |
-| 7 | [DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite) | 2,505 | 594 | Python | 0 | Please no pull requests for this repository. Thanks! | 2026-06-14 |
+| 7 | [DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite) | 2,504 | 594 | Python | 0 | Please no pull requests for this repository. Thanks! | 2026-06-14 |
 | 8 | [DiDOM](https://github.com/Imangazaliev/DiDOM) | 2,199 | 200 | PHP | 26 | Simple and fast HTML and XML parser | 2026-01-28 |
-| 9 | [CourseraML](https://github.com/kaleko/CourseraML) | 2,050 | 780 | Jupyter Notebook | 3 | I took Andrew Ng's Machine Learning course on Coursera and did the homework assigments... but, on my own in python because I love jupyter notebooks! | 2018-10-30 |
-| 10 | [did_you_mean](https://github.com/ruby/did_you_mean) | 1,880 | 114 | Ruby | 6 | The gem that has been saving people from typos since 2014 | 2026-06-22 |
+| 9 | [CourseraML](https://github.com/kaleko/CourseraML) | 2,051 | 780 | Jupyter Notebook | 3 | I took Andrew Ng's Machine Learning course on Coursera and did the homework assigments... but, on my own in python because I love jupyter notebooks! | 2018-10-30 |
+| 10 | [did_you_mean](https://github.com/ruby/did_you_mean) | 1,880 | 114 | Ruby | 6 | The gem that has been saving people from typos since 2014 | 2026-06-23 |
 | 11 | [DiDiPrism](https://github.com/didi/DiDiPrism) | 1,742 | 201 | Objective-C | 4 | 小桔棱镜，一款专注移动端操作行为的利器！ A powerful tool (iOS & Android) that focuses on mobile operation behavior! | 2025-05-22 |
 | 12 | [rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) | 1,550 | 18 | - | 10 | 😵 GitHub achievements that did not make the cut. | 2023-08-21 |
 | 13 | [ion](https://github.com/decentralized-identity/ion) | 1,230 | 167 | HTML | 72 | The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin | 2023-08-25 |
@@ -31,7 +31,7 @@
 | 23 | [obsidian-osint-templates](https://github.com/WebBreacher/obsidian-osint-templates) | 791 | 132 | - | 0 | These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation. The example data in those files should allow you to make some connections (see what I did... | 2026-06-14 |
 | 24 | [AutoDidact](https://github.com/dCaples/AutoDidact) | 690 | 63 | Jupyter Notebook | 5 | Autonomously train research-agent LLMs on custom data using reinforcement learning and self-verification. | 2025-03-22 |
 | 25 | [atproto](https://github.com/MarshalX/atproto) | 653 | 76 | Python | 11 | The AT Protocol (🦋 Bluesky) SDK for Python 🐍 | 2026-06-19 |
-| 26 | [Memento](https://github.com/apirrone/Memento) | 651 | 59 | Python | 19 | Memento is a Python app that records everything you do on your computer and lets you go back in time, search, and chat with a LLM (Large Language Model) to find back information about what you did. | 2024-04-23 |
+| 26 | [Memento](https://github.com/apirrone/Memento) | 652 | 59 | Python | 19 | Memento is a Python app that records everything you do on your computer and lets you go back in time, search, and chat with a LLM (Large Language Model) to find back information about what you did. | 2024-04-23 |
 | 27 | [sonr](https://github.com/sonr-io/sonr) | 642 | 38 | Go | 15 | A Decentralized Identity Network built for the InterChain 🌐 | 2025-12-15 |
 | 28 | [nmap-did-what](https://github.com/hackertarget/nmap-did-what) | 636 | 122 | Python | 5 | Nmap Dashboard Mini Project | 2024-06-12 |
 | 29 | [veramo](https://github.com/decentralized-identity/veramo) | 540 | 137 | TypeScript | 68 | A JavaScript Framework for Verifiable Data | 2026-06-22 |
@@ -43,8 +43,8 @@
 | 35 | [did](https://github.com/w3c/did) | 475 | 106 | HTML | 16 | W3C Decentralized Identifier Specification | 2026-03-05 |
 | 36 | [DidIStealThis](https://github.com/zymtom/DidIStealThis) | 445 | 0 | Python | 0 | A small script made to idenitfy wether or not code is stolen | 2024-04-05 |
 | 37 | [sidetree](https://github.com/decentralized-identity/sidetree) | 437 | 114 | HTML | 37 | Sidetree Specification and Reference Implementation | 2024-12-12 |
-| 38 | [libgpiod](https://github.com/brgl/libgpiod) | 433 | 131 | C | 9 | NOTE: I did not create the website: libgpiod[dot] com which redirects here. It's likely a phishing attempt! \| This is a mirror of the original repository over at kernel.org. This github page is for di... | 2026-06-22 |
-| 39 | [did](https://github.com/bcallaway11/did) | 405 | 130 | R | 4 | Difference in Differences with Multiple Periods, website: https://bcallaway11.github.io/did | 2026-06-19 |
+| 38 | [libgpiod](https://github.com/brgl/libgpiod) | 434 | 131 | C | 10 | NOTE: I did not create the website: libgpiod[dot] com which redirects here. It's likely a phishing attempt! \| This is a mirror of the original repository over at kernel.org. This github page is for di... | 2026-06-23 |
+| 39 | [did](https://github.com/bcallaway11/did) | 405 | 130 | R | 4 | Difference in Differences with Multiple Periods, website: https://bcallaway11.github.io/did | 2026-06-23 |
 | 40 | [awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity) | 394 | 80 | - | 2 | An awesome list of self-sovereign identity resources. | 2025-11-11 |
 | 41 | [cJSON](https://github.com/kbranigan/cJSON) | 393 | 228 | C | 6 | I did not write this code, but I like it. | 2019-10-01 |
 | 42 | [faded](https://github.com/theapache64/faded) | 386 | 27 | Kotlin | 2 | ✨ Client did not pay? Add opacity to UI components and decrease it every day until their app completely fades away. | 2021-01-19 |
@@ -55,34 +55,34 @@
 | 47 | [didi](https://github.com/WsmDyj/didi) | 361 | 92 | JavaScript | 6 | 🚕Imitating didi taxi wechat applet, in continuous update, the main business process, data encapsulation and request are realized, and the applet will continue to update... | 2019-01-15 |
 | 48 | [Imitation-DIDI-project](https://github.com/zepang/Imitation-DIDI-project) | 361 | 91 | Vue | 1 | vue练手学习项目 | 2017-06-12 |
 | 49 | [DiDi](https://github.com/DBatUTuebingen/DiDi) | 359 | 11 | C | 1 | Dissecting the Duck's Innards — A DuckDB-based course on the Design and Implementation of Database System Internals | 2026-04-07 |
-| 50 | [xhs_spider](https://github.com/xhs996/xhs_spider) | 358 | 29 | Python | 3 | 小红书数据采集、小红书Token、小红书Cookie、xsec_token生成、小红书App shield算法、小红书web算法、小红书爬虫、小红书采集、小红书数据、小红书账号、小红书逆向、小红书搜索、小红书笔记、小红书主页、小红书点赞、小红书评论、小红书作品、xsec_token、x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-min... | 2026-06-13 |
+| 50 | [xhs_spider](https://github.com/xhs996/xhs_spider) | 359 | 29 | Python | 3 | 小红书数据采集、小红书Token、小红书Cookie、xsec_token生成、小红书App shield算法、小红书web算法、小红书爬虫、小红书采集、小红书数据、小红书账号、小红书逆向、小红书搜索、小红书笔记、小红书主页、小红书点赞、小红书评论、小红书作品、xsec_token、x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-min... | 2026-06-13 |
 | 51 | [Diddy-Kong-Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) | 357 | 41 | C | 1 |  | 2026-06-21 |
-| 52 | [identity](https://github.com/iotaledger/identity) | 349 | 101 | Rust | 90 | Implementation of the Decentralized Identity standards such as DID and Verifiable Credentials by W3C for the IOTA MoveVM.  | 2026-06-19 |
-| 53 | [credo-ts](https://github.com/openwallet-foundation/credo-ts) | 346 | 248 | TypeScript | 248 | Typescript framework for building decentralized identity and verifiable credential solutions | 2026-06-22 |
+| 52 | [identity](https://github.com/iotaledger/identity) | 349 | 101 | Rust | 90 | Implementation of the Decentralized Identity standards such as DID and Verifiable Credentials by W3C for the IOTA MoveVM.  | 2026-06-23 |
+| 53 | [credo-ts](https://github.com/openwallet-foundation/credo-ts) | 346 | 248 | TypeScript | 248 | Typescript framework for building decentralized identity and verifiable credential solutions | 2026-06-23 |
 | 54 | [did-method-plc](https://github.com/did-method-plc/did-method-plc) | 323 | 65 | TypeScript | 28 | Public Ledger of Credentials: a cryptographic, strongly-consistent, and recoverable DID method | 2026-02-03 |
 | 55 | [anp](https://github.com/agent-network-protocol/anp) | 323 | 52 | Python | 10 | Our vision is to provide communication capabilities for intelligent agents, allowing them to connect with each other to form a collaborative network of intelligent agents. | 2026-06-13 |
 | 56 | [SHM-MOD](https://github.com/ITDev93/SHM-MOD) | 321 | 4 | - | 0 | A repo to put the SHM MOD Changelog for the Companion to fetch... DID YOU KNOW? - SHM MOD is maintained by me since August 2020, and Companion was created on June 2021... RIP SHM MOD 2020 - 2025... | 2025-12-28 |
 | 57 | [better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) | 318 | 8 | Go | 3 | Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI 'http client' to make api reusability simple. | 2026-04-23 |
 | 58 | [didkit](https://github.com/spruceid/didkit) | 317 | 86 | Rust | 46 | A cross-platform toolkit for decentralized identity. | 2025-07-10 |
 | 59 | [how-did-i-get-here](https://github.com/hackclub/how-did-i-get-here) | 304 | 13 | TypeScript | 0 | A tool/website/article by @kognise about how routing on the Internet works. | 2025-11-08 |
-| 60 | [ethr-did](https://github.com/uport-project/ethr-did) | 296 | 59 | TypeScript | 6 | Create ethr DIDs | 2026-06-22 |
+| 60 | [ethr-did](https://github.com/uport-project/ethr-did) | 297 | 59 | TypeScript | 6 | Create ethr DIDs | 2026-06-22 |
 | 61 | [didiWC](https://github.com/jinlong/didiWC) | 286 | 158 | HTML | 0 | 网络最火的O2O应用，价值100亿美刀的滴滴拉屎APP源码。 | 2015-08-25 |
 | 62 | [Pygame](https://github.com/joaotinti75/Pygame) | 277 | 118 | Jupyter Notebook | 2 | Games that i did using pygame library | 2022-12-16 |
 | 63 | [hand_detection](https://github.com/molyswu/hand_detection) | 277 | 85 | Python | 6 | using Neural Networks (SSD) on Tensorflow.  This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive ... | 2022-01-11 |
 | 64 | [did](https://github.com/psss/did) | 272 | 120 | Python | 60 | What did you do last week, month, year? | 2026-06-22 |
 | 65 | [DID-MDN](https://github.com/hezhangsprinter/DID-MDN) | 269 | 73 | Python | 27 | Density-aware Single Image De-raining using a Multi-stream Dense Network  (CVPR 2018) | 2020-09-30 |
-| 66 | [diff-diff](https://github.com/igerber/diff-diff) | 267 | 39 | Python | 0 | Difference-in-Differences causal inference in Python. Callaway-Sant'Anna, Synthetic DiD, Honest DiD, event studies. sklearn-like API, validated against R. | 2026-06-22 |
+| 66 | [diff-diff](https://github.com/igerber/diff-diff) | 268 | 39 | Python | 1 | Difference-in-Differences causal inference in Python. Callaway-Sant'Anna, Synthetic DiD, Honest DiD, event studies. sklearn-like API, validated against R. | 2026-06-23 |
 | 67 | [house](https://github.com/tree-branch/house) | 264 | 67 | Python | 0 | 爬取贝壳找房，链家，安居客，58同城的房源信息，便于广大未买房子的朋友们尽快成为房奴！！！Crawl the house informations of ke.com, lianjia.com, anjvke.com, 58.com (ganji.com after the update), convenient for the majority of friends who did not bu... | 2024-05-21 |
 | 68 | [didi](https://github.com/QinZhen001/didi) | 251 | 88 | Vue | 0 | :car: mpvue框架仿滴滴出行微信小程序 | 2022-12-08 |
 | 69 | [CatterPlots](https://github.com/Gibbsdavidl/CatterPlots) | 247 | 40 | R | 3 | Did you ever wish you could make scatter plots with cat shaped points?  Now you can! | 2018-03-18 |
 | 70 | [Bad-Robo](https://github.com/jaleelx98/Bad-Robo) | 246 | 31 | - | 10 | 🐙 Get Daily 400-500 Real Followers 👽 [BadRobo] is Best Instagram Bot Available Now with All Features!. Our BOT did not violate any of Instagram's rules, so you don't have to worry about getting ACTI... | 2021-08-26 |
 | 71 | [DIDatepicker](https://github.com/noxt/DIDatepicker) | 239 | 42 | Objective-C | 5 | Yet another datepicker for iOS | 2017-06-18 |
-| 72 | [Some_RPI-Pico_stuff](https://github.com/GitJer/Some_RPI-Pico_stuff) | 235 | 31 | C++ | 2 | Some experiments I did with the Raspberry Pi Pico | 2024-05-08 |
-| 73 | [Programming-Aptitude-Interview-Prep](https://github.com/SAKET-SK/Programming-Aptitude-Interview-Prep) | 235 | 28 | Java | 0 | The exact prep I did for coding rounds; all programming aptitude questions and answers are sourced from the internet for preparation and to understand the logic-building approach. If you wish to contr... | 2026-02-20 |
+| 72 | [Programming-Aptitude-Interview-Prep](https://github.com/SAKET-SK/Programming-Aptitude-Interview-Prep) | 236 | 29 | Java | 0 | The exact prep I did for coding rounds; all programming aptitude questions and answers are sourced from the internet for preparation and to understand the logic-building approach. If you wish to contr... | 2026-02-20 |
+| 73 | [Some_RPI-Pico_stuff](https://github.com/GitJer/Some_RPI-Pico_stuff) | 235 | 31 | C++ | 2 | Some experiments I did with the Raspberry Pi Pico | 2024-05-08 |
 | 74 | [did-resolver](https://github.com/decentralized-identity/did-resolver) | 231 | 48 | TypeScript | 4 | Universal did-resolver for javascript environments | 2026-06-22 |
-| 75 | [ethr-did-resolver](https://github.com/decentralized-identity/ethr-did-resolver) | 231 | 82 | TypeScript | 5 | DID resolver for Ethereum Addresses with support for key management | 2026-06-22 |
+| 75 | [ethr-did-resolver](https://github.com/decentralized-identity/ethr-did-resolver) | 231 | 82 | TypeScript | 5 | DID resolver for Ethereum Addresses with support for key management | 2026-06-23 |
 | 76 | [hid-node](https://github.com/hypersign-protocol/hid-node) | 221 | 25 | Go | 2 | A permissionless blockchain network to manage digital identity and access rights | 2026-01-29 |
-| 77 | [Remote-Desktop-Caching-](https://github.com/Viralmaniar/Remote-Desktop-Caching-) | 219 | 56 | Python | 2 | This tool allows one to recover old RDP (mstsc) session information in the form of broken PNG files. These PNG files allows Red Team member to extract juicy information such as LAPS passwords or any s... | 2018-08-04 |
+| 77 | [Remote-Desktop-Caching-](https://github.com/Viralmaniar/Remote-Desktop-Caching-) | 219 | 57 | Python | 2 | This tool allows one to recover old RDP (mstsc) session information in the form of broken PNG files. These PNG files allows Red Team member to extract juicy information such as LAPS passwords or any s... | 2018-08-04 |
 | 78 | [didyoumean](https://github.com/hisbaan/didyoumean) | 215 | 9 | Rust | 1 | A CLI spelling corrector for when you're unsure | 2026-05-28 |
 | 79 | [MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) | 214 | 54 | Jupyter Notebook | 2 | This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers). | 2025-01-31 |
 | 80 | [CyberSecurity-and-Pentesting-Exam-Resources](https://github.com/cybergeekgyan/CyberSecurity-and-Pentesting-Exam-Resources) | 213 | 49 | - | 4 | Top 5 ethical hacking books to get started? Top 5 practical hacking books? Top 5 cybersecurity books to get started? Did I miss any great books? | 2023-12-20 |
@@ -105,4 +105,4 @@
 | 97 | [Advanced-DID](https://github.com/Mixtape-Sessions/Advanced-DID) | 191 | 133 | HTML | 0 | Advanced Differnce-in-Differences Mixtape Track taught by Jonathan Roth | 2025-08-25 |
 | 98 | [did-ta-server](https://github.com/OmniOneID/did-ta-server) | 191 | 122 | Java | 0 |  | 2026-06-18 |
 | 99 | [didcomm-messaging](https://github.com/decentralized-identity/didcomm-messaging) | 190 | 60 | JavaScript | 39 |  | 2026-05-07 |
-| 100 | [did-release](https://github.com/OmniOneID/did-release) | 188 | 110 | - | 0 |  | 2026-03-03 |
+| 100 | [did-ca-aos](https://github.com/OmniOneID/did-ca-aos) | 188 | 115 | Java | 0 | did-ca-aos | 2026-04-23 |
