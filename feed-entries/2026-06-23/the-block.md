@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-23"
 date: "2026-06-23"
 source: "The Block"
-count: 15
+count: 8
 ---
 
 # The Block - 2026-06-23
 
-15 items collected.
+8 items collected.
 
 ---
 
@@ -104,89 +104,5 @@ A New York man who posed as crypto influencers on Telegram and used false promis
 Bitcoin trades under $63,000 ahead of PCE data Thursday on, which analysts say is the market's next key test.
 
 📖 [Read original article](https://www.theblock.co/post/405831/quarter-end-catalyst-consolidation-bitcoin-below-63000-etf-outflows-10-6-billion-options-expiry?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. Meta’s Zuckerberg wants to build prediction market app like Polymarket and Kalshi: NYT
-
-**Author:** RT Watson  
-**Published:** 6/23/2026, 5:20:55 PM  
-**Categories:** Crypto Ecosystems, DeFi, The Block  
-
-Prediction markets have swelled into a multi-billion-dollar business with users from all around the world betting billions of dollars.
-
-📖 [Read original article](https://www.theblock.co/post/405838/meta-zuckerberg-to-build-prediction-market-app-polymarket-kalshi-nyt?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. DOJ seizes Huione Group cloud computing account used to launder billions in fraud proceeds
-
-**Author:** Daniel Kuhn  
-**Published:** 6/23/2026, 4:58:13 PM  
-**Categories:** Legal, Policy, Regulation, The Block, Anti-Money Laundering, Crime  
-
-Last year, FinCEN designated Huione Group as a primary money laundering concern under the USA Patriot Act.
-
-📖 [Read original article](https://www.theblock.co/post/405834/doj-seizes-huione-group-account-launder-billions?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Goldfinch set to shutter Prime after community vote backs wind-down proposal
-
-**Author:** Kyle Baird  
-**Published:** 6/23/2026, 4:42:58 PM  
-**Categories:** Crypto Ecosystems, DeFi, The Block, Lending  
-
-The protocol facilitated roughly $100 million in loans, but a handful of borrower pools later encountered "serious performance issues."
-
-📖 [Read original article](https://www.theblock.co/post/405825/goldfinch-set-shutter-prime-community-vote-backs-wind-down-proposal?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Tether-backed Oobit brings USDT to nearly 170 million users of Brazil’s PIX payment network
-
-**Author:** RT Watson  
-**Published:** 6/23/2026, 3:29:08 PM  
-**Categories:** Companies, The Block  
-
-Created by Banco Central do Brasil in 2020, PIX is one of the world's most widely-adopted digital payment networks.
-
-📖 [Read original article](https://www.theblock.co/post/405819/tether-backed-oobit-brings-usdt-170-million-users-brazils-pix-payment-network?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Ethereum Foundation cuts 20% of its workforce as new 5-cluster structure takes shape
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/23/2026, 1:47:07 PM  
-**Categories:** Companies, Crypto Ecosystems, The Block  
-
-Ethereum Foundation cut 20% of its workforce, reorganizing into five clusters as part of a long-simmering reorganization.
-
-📖 [Read original article](https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. OKX Europe chief says 80% of crypto exchanges won’t survive MiCA as deadline nears
-
-**Author:** Brian Danga  
-**Published:** 6/23/2026, 1:31:14 PM  
-**Categories:** Companies, Exchanges, Policy, Regulation, The Block, OKX  
-
-OKX Europe CEO Ghoos said 80% of exchanges won't survive MiCA as ESMA forces unlicensed firms to cease EU operations by July 1.
-
-📖 [Read original article](https://www.theblock.co/post/405777/okx-europe-chief-mica-deadline-nears?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Strategy: The Capital Stack Meets a Falling Bitcoin Price
-
-**Author:** The Block Research  
-**Published:** 6/23/2026, 1:24:48 PM  
-**Categories:** Markets, The Block  
-
-Below is a summarized version of The Block Research&#8217;s Strategy: The Capital Stack Meets a Falling Bitcoin Price report. The full PDF version of this report is accessible here. Strategy Inc., formerly MicroStrategy, faces the first real test of its Bitcoin-treasury model. It holds 847,363 BTC a...
-
-📖 [Read original article](https://www.theblock.co/post/405791/strategy-the-capital-stack-meets-a-falling-bitcoin-price?utm_source=rss&utm_medium=rss)
 
 ---
