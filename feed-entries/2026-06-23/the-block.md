@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-23"
 date: "2026-06-23"
 source: "The Block"
-count: 19
+count: 15
 ---
 
 # The Block - 2026-06-23
 
-19 items collected.
+15 items collected.
 
 ---
 
@@ -188,53 +188,5 @@ OKX Europe CEO Ghoos said 80% of exchanges won't survive MiCA as ESMA forces unl
 Below is a summarized version of The Block Research&#8217;s Strategy: The Capital Stack Meets a Falling Bitcoin Price report. The full PDF version of this report is accessible here. Strategy Inc., formerly MicroStrategy, faces the first real test of its Bitcoin-treasury model. It holds 847,363 BTC a...
 
 📖 [Read original article](https://www.theblock.co/post/405791/strategy-the-capital-stack-meets-a-falling-bitcoin-price?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Midas’ mGLOBAL token tracking Fasanara’s alternative debt strategy launches on Aave Horizon
-
-**Author:** Daniel Kuhn  
-**Published:** 6/23/2026, 1:05:07 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, The Block, Aave, exclusive  
-
-Holders will now be able to deposit mGLOBAL tokens on Aave Horizon to borrow USDC while retaining full exposure to the underlying strategy.
-
-📖 [Read original article](https://www.theblock.co/post/405774/midas-mglobal-fasanara-aave-horizon?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. New DeFi Education Fund coalition seeks to harden crypto against cybersecurity threats
-
-**Author:** Sarah Wynn  
-**Published:** 6/23/2026, 1:05:02 PM  
-**Categories:** Crypto Ecosystems, DeFi, Legal, Policy, The Block, U.S. Policymaking, Anti-Money Laundering, Congress, Protocols, Smart contracts  
-
-The DeFi Education Fund launched a cybersecurity coalition as part of an effort to bolster itself against bad actors across the blockchain.
-
-📖 [Read original article](https://www.theblock.co/post/405698/new-defi-education-fund-coalition-seeks-harden-crypto-against-cybersecurity-threats?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. Blockchain data startup Allium raises $40M Series B as institutional interest in onchain analytics grows
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/23/2026, 12:28:13 PM  
-**Categories:** Companies, Crypto Infrastructure, Deals, The Block, Data Providers  
-
-Allium raised a $40 million Series B to expand blockchain data infrastructure for institutional clients, including Visa and the Fed.
-
-📖 [Read original article](https://www.theblock.co/post/405776/blockchain-data-startup-allium-raises-40m-series-b-as-institutional-interest-in-onchain-analytics-grows-fortune?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. THORChain resumes trading five weeks after $10.7 million exploit
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/23/2026, 11:24:28 AM  
-**Categories:** Crypto Ecosystems, Security, The Block, Exploits  
-
-THORChain resumed trading after a 5-week halt following a $10.7 million multichain exploit in May affecting an Asgard vault.
-
-📖 [Read original article](https://www.theblock.co/post/405767/thorchain-resumes-trading-after-exploit?utm_source=rss&utm_medium=rss)
 
 ---
