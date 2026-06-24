@@ -2,16 +2,76 @@
 title: "The Block - 2026-06-23"
 date: "2026-06-23"
 source: "The Block"
-count: 20
+count: 19
 ---
 
 # The Block - 2026-06-23
 
-20 items collected.
+19 items collected.
 
 ---
 
-## 1. Nearly 100 Catholic leaders oppose Clarity Act over weakened safeguards against illicit finance and trafficking
+## 1. Senate Democrats urge Republicans to hold hearings on Trump family crypto ties to Abu Dhabi royalty
+
+**Author:** Sarah Wynn  
+**Published:** 6/23/2026, 9:44:33 PM  
+**Categories:** People, Policy, Regulation, The Block, Donald Trump, Elizabeth Warren  
+
+Top Democrats are calling for congressional hearings into President Donald Trump’s family crypto venture and Abu Dhabi royalty.
+
+📖 [Read original article](https://www.theblock.co/post/405902/senate-democrats-urge-republicans-to-hold-hearings-on-trump-family-crypto-ties-to-abu-dhabi-royalty?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Trump directing ‘government dollars and time’ to quantum security could be a boon for bitcoin
+
+**Author:** Daniel Kuhn  
+**Published:** 6/23/2026, 8:34:06 PM  
+**Categories:** Crypto Ecosystems, Policy, Regulation, The Block, Web3  
+
+Millions of bitcoins with exposed public addresses may be at risk to quantum computers, Project Eleven previously said.
+
+📖 [Read original article](https://www.theblock.co/post/405893/trump-directing-government-dollars-time-quantum-security-could-boon-bitcoin?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. CryptoQuant says Strategy should pause bitcoin purchases and rebuild cash reserves
+
+**Author:** Yogita Khatri  
+**Published:** 6/23/2026, 8:23:16 PM  
+**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, The Block, Token Projects, Bitcoin, Strategy  
+
+Michael Saylor's Strategy should pause bitcoin purchases and focus on rebuilding its cash reserves, said CryptoQuant.
+
+📖 [Read original article](https://www.theblock.co/post/405885/cryptoquant-strategy-should-pause-bitcoin-purchases-rebuild-cash-reserves?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Barry Silbert’s Zcash miner proposes merger, sends Nasdaq stock soaring despite rough month for ZEC
+
+**Author:** RT Watson  
+**Published:** 6/23/2026, 8:14:25 PM  
+**Categories:** Companies, Deals, Markets, Organizations, The Block, Digital Currency Group  
+
+Zcash miner Fortitude Mining, a DCG subsidiary, wants to merge with a small-cap Nasdaq stock, HeartSciences Inc.
+
+📖 [Read original article](https://www.theblock.co/post/405867/barry-silberts-zcash-miner-proposes-merger-nasdaq-stock-soaring-rough-month-zec?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Kentucky becomes latest state sued by CFTC over prediction markets
+
+**Author:** Sarah Wynn  
+**Published:** 6/23/2026, 8:01:29 PM  
+**Categories:** Markets, Policy, Regulation, The Block, CFTC  
+
+Kentucky has become the latest battleground in the fight over prediction markets as the CFTC asserts jurisdiction.
+
+📖 [Read original article](https://www.theblock.co/post/405879/kentucky-becomes-latest-state-sued-by-cftc-over-prediction-markets?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. Nearly 100 Catholic leaders oppose Clarity Act over weakened safeguards against illicit finance and trafficking
 
 **Author:** Sarah Wynn  
 **Published:** 6/23/2026, 7:01:45 PM  
@@ -23,7 +83,7 @@ The Alliance to End Human Trafficking, which is supported by Catholic organizati
 
 ---
 
-## 2. New York man sentenced for $1.4 million crypto fraud scheme using bogus influencer accounts
+## 7. New York man sentenced for $1.4 million crypto fraud scheme using bogus influencer accounts
 
 **Author:** Sarah Wynn  
 **Published:** 6/23/2026, 5:48:51 PM  
@@ -35,7 +95,7 @@ A New York man who posed as crypto influencers on Telegram and used false promis
 
 ---
 
-## 3. ‘Quarter-end catalyst or consolidation?’: Bitcoin below $63,000 amid ETF outflows, $10.6 billion options expiry
+## 8. ‘Quarter-end catalyst or consolidation?’: Bitcoin below $63,000 amid ETF outflows, $10.6 billion options expiry
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/23/2026, 5:26:34 PM  
@@ -47,7 +107,7 @@ Bitcoin trades under $63,000 ahead of PCE data Thursday on, which analysts say i
 
 ---
 
-## 4. Meta’s Zuckerberg wants to build prediction market app like Polymarket and Kalshi: NYT
+## 9. Meta’s Zuckerberg wants to build prediction market app like Polymarket and Kalshi: NYT
 
 **Author:** RT Watson  
 **Published:** 6/23/2026, 5:20:55 PM  
@@ -59,7 +119,7 @@ Prediction markets have swelled into a multi-billion-dollar business with users 
 
 ---
 
-## 5. DOJ seizes Huione Group cloud computing account used to launder billions in fraud proceeds
+## 10. DOJ seizes Huione Group cloud computing account used to launder billions in fraud proceeds
 
 **Author:** Daniel Kuhn  
 **Published:** 6/23/2026, 4:58:13 PM  
@@ -71,7 +131,7 @@ Last year, FinCEN designated Huione Group as a primary money laundering concern 
 
 ---
 
-## 6. Goldfinch set to shutter Prime after community vote backs wind-down proposal
+## 11. Goldfinch set to shutter Prime after community vote backs wind-down proposal
 
 **Author:** Kyle Baird  
 **Published:** 6/23/2026, 4:42:58 PM  
@@ -83,7 +143,7 @@ The protocol facilitated roughly $100 million in loans, but a handful of borrowe
 
 ---
 
-## 7. Tether-backed Oobit brings USDT to nearly 170 million users of Brazil’s PIX payment network
+## 12. Tether-backed Oobit brings USDT to nearly 170 million users of Brazil’s PIX payment network
 
 **Author:** RT Watson  
 **Published:** 6/23/2026, 3:29:08 PM  
@@ -95,7 +155,7 @@ Created by Banco Central do Brasil in 2020, PIX is one of the world's most widel
 
 ---
 
-## 8. Ethereum Foundation cuts 20% of its workforce as new 5-cluster structure takes shape
+## 13. Ethereum Foundation cuts 20% of its workforce as new 5-cluster structure takes shape
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/23/2026, 1:47:07 PM  
@@ -107,7 +167,7 @@ Ethereum Foundation cut 20% of its workforce, reorganizing into five clusters as
 
 ---
 
-## 9. OKX Europe chief says 80% of crypto exchanges won’t survive MiCA as deadline nears
+## 14. OKX Europe chief says 80% of crypto exchanges won’t survive MiCA as deadline nears
 
 **Author:** Brian Danga  
 **Published:** 6/23/2026, 1:31:14 PM  
@@ -119,7 +179,7 @@ OKX Europe CEO Ghoos said 80% of exchanges won't survive MiCA as ESMA forces unl
 
 ---
 
-## 10. Strategy: The Capital Stack Meets a Falling Bitcoin Price
+## 15. Strategy: The Capital Stack Meets a Falling Bitcoin Price
 
 **Author:** The Block Research  
 **Published:** 6/23/2026, 1:24:48 PM  
@@ -131,7 +191,7 @@ Below is a summarized version of The Block Research&#8217;s Strategy: The Capita
 
 ---
 
-## 11. Midas’ mGLOBAL token tracking Fasanara’s alternative debt strategy launches on Aave Horizon
+## 16. Midas’ mGLOBAL token tracking Fasanara’s alternative debt strategy launches on Aave Horizon
 
 **Author:** Daniel Kuhn  
 **Published:** 6/23/2026, 1:05:07 PM  
@@ -143,7 +203,7 @@ Holders will now be able to deposit mGLOBAL tokens on Aave Horizon to borrow USD
 
 ---
 
-## 12. New DeFi Education Fund coalition seeks to harden crypto against cybersecurity threats
+## 17. New DeFi Education Fund coalition seeks to harden crypto against cybersecurity threats
 
 **Author:** Sarah Wynn  
 **Published:** 6/23/2026, 1:05:02 PM  
@@ -155,7 +215,7 @@ The DeFi Education Fund launched a cybersecurity coalition as part of an effort 
 
 ---
 
-## 13. Blockchain data startup Allium raises $40M Series B as institutional interest in onchain analytics grows
+## 18. Blockchain data startup Allium raises $40M Series B as institutional interest in onchain analytics grows
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/23/2026, 12:28:13 PM  
@@ -167,7 +227,7 @@ Allium raised a $40 million Series B to expand blockchain data infrastructure fo
 
 ---
 
-## 14. THORChain resumes trading five weeks after $10.7 million exploit
+## 19. THORChain resumes trading five weeks after $10.7 million exploit
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/23/2026, 11:24:28 AM  
@@ -176,77 +236,5 @@ Allium raised a $40 million Series B to expand blockchain data infrastructure fo
 THORChain resumed trading after a 5-week halt following a $10.7 million multichain exploit in May affecting an Asgard vault.
 
 📖 [Read original article](https://www.theblock.co/post/405767/thorchain-resumes-trading-after-exploit?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Hut 8 agrees to $2.35 million settlement in investor suit tied to US Bitcoin merger
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/23/2026, 10:35:55 AM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Layer 1s, Markets, Policy, Regulation, The Block, Token Projects, Bitcoin, Mining Companies  
-
-Hut 8 agreed to pay $2.35M to settle a securities class action over disclosure claims from its 2023 merger with U.S. Bitcoin Corp.
-
-📖 [Read original article](https://www.theblock.co/post/405760/hut-8-agrees-to-2-35-million-settlement-in-investor-suit-tied-to-us-bitcoin-merger?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. David Bailey’s Nakamoto closes legacy healthcare clinics as bitcoin operating company pivot nears completion
-
-**Author:** Brian Danga  
-**Published:** 6/23/2026, 10:01:32 AM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, The Block, Token Projects, Bitcoin, Strategy  
-
-Nakamoto closed its healthcare clinics on June 19, completing a merger-linked wind-down as it pivots fully to bitcoin operations.
-
-📖 [Read original article](https://www.theblock.co/post/405755/david-baileys-nakamoto-closes-legacy-healthcare-clinics-as-bitcoin-operating-company-pivot-nears-completion?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. US Senate passes housing supply bill featuring CBDC ban in 85-5 vote
-
-**Author:** Danny Park  
-**Published:** 6/23/2026, 5:57:02 AM  
-**Categories:** Policy, Regulation, The Block  
-
-The housing supply bill seeks to ban the issuance of a CBDC or any similar digital asset until the end of 2030.
-
-📖 [Read original article](https://www.theblock.co/post/405746/us-senate-passes-housing-cbdc-bill?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. Trump signs executive orders setting 2031 deadline for post-quantum migration
-
-**Author:** Danny Park  
-**Published:** 6/23/2026, 4:21:46 AM  
-**Categories:** Policy, Regulation, The Block  
-
-One order mandated that all federal high-value assets and systems transition to Post-Quantum Cryptography by the end of 2031.
-
-📖 [Read original article](https://www.theblock.co/post/405737/trump-executive-orders-quantum-computing?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. Ark Invest buys $32 million worth of SpaceX shares as stock plunges 16%
-
-**Author:** Timmy Shen  
-**Published:** 6/23/2026, 3:43:22 AM  
-**Categories:** Companies, The Block  
-
-SPCX fell 16.43% to close at $154.60 on Monday, erasing most of the gains recorded since its June 12 debut.
-
-📖 [Read original article](https://www.theblock.co/post/405730/ark-invest-buys-spacex-shares?utm_source=rss&utm_medium=rss)
-
----
-
-## 20. TurboFlow, aiming to be the ‘Kalshi of APAC,’ raises $6 million seed led by Pantera Capital
-
-**Author:** Yogita Khatri  
-**Published:** 6/23/2026, 12:00:02 AM  
-**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, The Block, Venture Capital, Web3, exclusive, Seed and Pre-Seed  
-
-The platform offers prediction markets and perpetual futures and aims to be a localized alternative to Kalshi and Polymarket for Asian users.
-
-📖 [Read original article](https://www.theblock.co/post/405706/turboflow-funding-crypto-pantera-capital?utm_source=rss&utm_medium=rss)
 
 ---
