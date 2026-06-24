@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-23"
 date: "2026-06-23"
 source: "Cointelegraph"
-count: 23
+count: 15
 ---
 
 # Cointelegraph - 2026-06-23
 
-23 items collected.
+15 items collected.
 
 ---
 
@@ -188,101 +188,5 @@ Kalshi has added India to its list of 55 restricted jurisdictions, months after 
 EU lawmakers backed rules for an offline and online digital euro, with privacy safeguards, holding limits and no interest payments.
 
 📖 [Read original article](https://cointelegraph.com/news/eu-committee-digital-euro-cbdc-bill-key-vote?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 16. Former BIS chief softens stance on stablecoins, backs coexistence with fiat
-
-**Author:** Zoltan Vardai  
-**Published:** 6/23/2026, 12:06:35 PM  
-**Categories:** Latest News, BIS, Stablecoin, Law, Fiat Money, Policy  
-
-Former BIS general manager Agustín Carstens said stablecoins can enhance financial inclusion and innovation but stressed the need for global regulatory frameworks to enable coexistence with fiat money.
-
-📖 [Read original article](https://cointelegraph.com/news/former-bis-chief-softens-stance-stablecoins-coexistence-fiat?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 17. Binance’s Yi He warns of alleged impersonation scam, CoinUp denies ties
-
-**Author:** Helen Partz  
-**Published:** 6/23/2026, 10:30:27 AM  
-**Categories:** Latest News, Binance, Fraud, Scams, Companies  
-
-Binance co-founder Yi He warns of an alleged impersonator referred to as “Zhu Pan” in Chinese-language posts as CoinUp distances itself from the individual.
-
-📖 [Read original article](https://cointelegraph.com/news/binances-yi-he-warns-alleged-scammer-coinup-responds?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 18. Bitcoin gets new $54K warning as BTC price hits 11-day low on Asia tech sell-off
-
-**Author:** William Suberg  
-**Published:** 6/23/2026, 10:23:19 AM  
-**Categories:** Markets, Bitcoin Price, Market Analysis, Markets  
-
-Bitcoin analysis warned of "new lows" as Asia markets dropped as much as 10% and BTC price action dipped below $62,000 for the first time in nearly two weeks.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-gets-new-54k-warning-as-btc-price-hits-11-day-low-on-asia-tech-sell-off?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 19. THORChain resumes trading more than month after $10M exploit
-
-**Author:** Zoltan Vardai  
-**Published:** 6/23/2026, 10:00:24 AM  
-**Categories:** Latest News, THORChain, Hackers, Hacks, Cybersecurity, DeFi  
-
-THORChain resumed all network activity after implementing multiple security upgrades and a vault migration to fix the vulnerabilities that led to the $10.7 million exploit.
-
-📖 [Read original article](https://cointelegraph.com/news/thorchain-resumes-trading-month-10m-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 20. Ripple gains preliminary MiCA license ahead of July 1 EU deadline
-
-**Author:** Helen Partz  
-**Published:** 6/23/2026, 8:47:59 AM  
-**Categories:** Latest News, MiCA, Ripple, Europe, Policy, Luxemburg  
-
-Ripple secures preliminary CASP approval in Luxembourg ahead of July 1 MiCA deadline as companies race for EU crypto licensing.
-
-📖 [Read original article](https://cointelegraph.com/news/ripple-preliminary-casp-mica-license-july-1-deadline?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 21. Opera's MiniPay launches Visa debit card for stablecoin spending
-
-**Author:** Nate Kostar  
-**Published:** 6/23/2026, 6:00:00 AM  
-**Categories:** Latest News, Stablecoin, Africa, Latin America, Ripple, Visa  
-
-The card will allow MiniPay's 16 million users to spend stablecoins through Visa's network as adoption of digital dollars grows across emerging markets.
-
-📖 [Read original article](https://cointelegraph.com/news/operas-minipay-launches-visa-debit-card-for-stablecoin-spending?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 22. Ethereum Foundation sacks 20% of workforce amid strategic restructuring
-
-**Author:** Nate Kostar  
-**Published:** 6/23/2026, 6:00:00 AM  
-**Categories:** Latest News, Vitalik Buterin, Developers, Decentralization  
-
-The Ethereum Foundation fired 54 employees and unveiled a new organizational structure as Vitalik Buterin said the group plans to reduce its budget by roughly 40%.
-
-📖 [Read original article](https://cointelegraph.com/news/ethereum-foundation-cuts-20-of-staff-in-major-organizational-overhaul?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 23. US Senate passes housing bill with CBDC ban until 2030
-
-**Author:** Martin Young  
-**Published:** 6/23/2026, 5:58:20 AM  
-**Categories:** Latest News, CBDC, Federal Reserve, Senate  
-
-The Senate voted 85-5 to pass a major housing affordability bill that includes a ban on the Federal Reserve making a central bank digital currency until 2030.
-
-📖 [Read original article](https://cointelegraph.com/news/senate-passes-housing-bill-that-includes-a-cbdc-ban-through-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
