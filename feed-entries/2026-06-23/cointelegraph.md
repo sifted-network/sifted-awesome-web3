@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-23"
 date: "2026-06-23"
 source: "Cointelegraph"
-count: 27
+count: 23
 ---
 
 # Cointelegraph - 2026-06-23
 
-27 items collected.
+23 items collected.
 
 ---
 
@@ -53,25 +53,13 @@ Burnham brings a dose of optimism to the UK crypto industry, having previously s
 **Published:** 6/23/2026, 9:01:32 PM  
 **Categories:** Latest News, Meta, Prediction Markets, Mark Zuckerberg, Polymarket, Kalshi  
 
-The Meta CEO reportedly plans for the company to launch a prediction market independent of its other apps allowing users to place wagers using a points system rather than money.
+The Meta CEO reportedly plans for the company to launch a prediction market independent of its other apps, allowing users to place wagers using a points system rather than money.
 
 📖 [Read original article](https://cointelegraph.com/news/mark-zuckerberg-meta-prediction-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 6/23/2026, 8:07:02 PM  
-**Categories:** Latest News, CBDC, BIS, Stablecoin, Central Bank, Ethereum 2.0  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 6. Crypto isn't the problem with the US economy, says senator
+## 5. Crypto isn't problem with US economy, Louisiana senator says
 
 **Author:** Turner Wright  
 **Published:** 6/23/2026, 7:49:59 PM  
@@ -83,7 +71,7 @@ Louisiana Senator John Kennedy largely dismissed what he called the “promotion
 
 ---
 
-## 7. Multi-year Bitcoin holder selling falls to 19-month low as halving model flags new market bottom date
+## 6. Multi-year Bitcoin holder selling falls to 19-month low as halving model flags new market bottom date
 
 **Author:** Biraajmaan Tamuly  
 **Published:** 6/23/2026, 7:09:26 PM  
@@ -95,7 +83,7 @@ OG Bitcoin holders' spending dropped to a 19-month low, as market cycle indicato
 
 ---
 
-## 8. Zcash miner Fortitude gets Nasdaq listing via HeartSciences merger
+## 7. Zcash miner Fortitude gets Nasdaq listing via HeartSciences merger
 
 **Author:** Sam Bourgi  
 **Published:** 6/23/2026, 6:05:01 PM  
@@ -107,7 +95,7 @@ The all-stock deal gives Fortitude a Nasdaq listing while HeartSciences retains 
 
 ---
 
-## 9. CFTC chair says perp trading not suitable for all assets it regulates
+## 8. CFTC chair says perp trading not suitable for all assets it regulates
 
 **Author:** Turner Wright  
 **Published:** 6/23/2026, 4:54:38 PM  
@@ -119,7 +107,7 @@ Michael Selig told US cotton producers that the agency’s regulatory approach t
 
 ---
 
-## 10. CBOE weighs converting BTC, ETH continuous futures into perpetual futures: Report
+## 9. CBOE weighs converting BTC, ETH continuous futures into perpetual futures: Report
 
 **Author:** Sam Bourgi  
 **Published:** 6/23/2026, 4:23:56 PM  
@@ -131,7 +119,7 @@ As US regulatory changes accelerate the adoption of crypto perpetual futures and
 
 ---
 
-## 11. Chainlink joins European and Korean bank consortia to develop FX settlement network
+## 10. Chainlink joins European and Korean bank consortia to develop FX settlement network
 
 **Author:** Sam Bourgi  
 **Published:** 6/23/2026, 3:45:00 PM  
@@ -143,7 +131,7 @@ Banks across Europe and South Korea will study whether regulated euro and won st
 
 ---
 
-## 12. Bitcoin teases $62K breakdown as analysis sees Micron earnings volatility next
+## 11. Bitcoin teases $62K breakdown as analysis sees Micron earnings volatility next
 
 **Author:** William Suberg  
 **Published:** 6/23/2026, 3:15:41 PM  
@@ -155,7 +143,7 @@ Bitcoin stayed volatile while bulls tried to preserve support at local lows whil
 
 ---
 
-## 13. Bitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?
+## 12. Bitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?
 
 **Author:** Yashu Gola  
 **Published:** 6/23/2026, 2:38:32 PM  
@@ -167,7 +155,7 @@ SpaceX’s $600 billion wipeout rattles tech markets, putting Bitcoin’s $60,00
 
 ---
 
-## 14. Why tokenized SpaceX shares broke before retail investors could buy them
+## 13. Why tokenized SpaceX shares broke before retail investors could buy them
 
 **Author:** Dilip Kumar Patairya  
 **Published:** 6/23/2026, 2:30:00 PM  
@@ -179,7 +167,7 @@ Tokenized SpaceX shares drew more than $1 billion in demand, but many investors 
 
 ---
 
-## 15. Kalshi adds India to growing list of restricted jurisdictions
+## 14. Kalshi adds India to growing list of restricted jurisdictions
 
 **Author:** Zoltan Vardai  
 **Published:** 6/23/2026, 12:40:13 PM  
@@ -191,7 +179,7 @@ Kalshi has added India to its list of 55 restricted jurisdictions, months after 
 
 ---
 
-## 16. EU committee advances digital euro bill after key vote
+## 15. EU committee advances digital euro bill after key vote
 
 **Author:** Helen Partz  
 **Published:** 6/23/2026, 12:24:54 PM  
@@ -203,7 +191,7 @@ EU lawmakers backed rules for an offline and online digital euro, with privacy s
 
 ---
 
-## 17. Former BIS chief softens stance on stablecoins, backs coexistence with fiat
+## 16. Former BIS chief softens stance on stablecoins, backs coexistence with fiat
 
 **Author:** Zoltan Vardai  
 **Published:** 6/23/2026, 12:06:35 PM  
@@ -215,7 +203,7 @@ Former BIS general manager Agustín Carstens said stablecoins can enhance financ
 
 ---
 
-## 18. Binance’s Yi He warns of alleged impersonation scam, CoinUp denies ties
+## 17. Binance’s Yi He warns of alleged impersonation scam, CoinUp denies ties
 
 **Author:** Helen Partz  
 **Published:** 6/23/2026, 10:30:27 AM  
@@ -227,7 +215,7 @@ Binance co-founder Yi He warns of an alleged impersonator referred to as “Zhu 
 
 ---
 
-## 19. Bitcoin gets new $54K warning as BTC price hits 11-day low on Asia tech sell-off
+## 18. Bitcoin gets new $54K warning as BTC price hits 11-day low on Asia tech sell-off
 
 **Author:** William Suberg  
 **Published:** 6/23/2026, 10:23:19 AM  
@@ -239,7 +227,7 @@ Bitcoin analysis warned of "new lows" as Asia markets dropped as much as 10% and
 
 ---
 
-## 20. THORChain resumes trading more than month after $10M exploit
+## 19. THORChain resumes trading more than month after $10M exploit
 
 **Author:** Zoltan Vardai  
 **Published:** 6/23/2026, 10:00:24 AM  
@@ -251,7 +239,7 @@ THORChain resumed all network activity after implementing multiple security upgr
 
 ---
 
-## 21. Ripple gains preliminary MiCA license ahead of July 1 EU deadline
+## 20. Ripple gains preliminary MiCA license ahead of July 1 EU deadline
 
 **Author:** Helen Partz  
 **Published:** 6/23/2026, 8:47:59 AM  
@@ -263,7 +251,7 @@ Ripple secures preliminary CASP approval in Luxembourg ahead of July 1 MiCA dead
 
 ---
 
-## 22. Opera's MiniPay launches Visa debit card for stablecoin spending
+## 21. Opera's MiniPay launches Visa debit card for stablecoin spending
 
 **Author:** Nate Kostar  
 **Published:** 6/23/2026, 6:00:00 AM  
@@ -275,7 +263,7 @@ The card will allow MiniPay's 16 million users to spend stablecoins through Visa
 
 ---
 
-## 23. Ethereum Foundation sacks 20% of workforce amid strategic restructuring
+## 22. Ethereum Foundation sacks 20% of workforce amid strategic restructuring
 
 **Author:** Nate Kostar  
 **Published:** 6/23/2026, 6:00:00 AM  
@@ -287,7 +275,7 @@ The Ethereum Foundation fired 54 employees and unveiled a new organizational str
 
 ---
 
-## 24. US Senate passes housing bill with CBDC ban until 2030
+## 23. US Senate passes housing bill with CBDC ban until 2030
 
 **Author:** Martin Young  
 **Published:** 6/23/2026, 5:58:20 AM  
@@ -296,41 +284,5 @@ The Ethereum Foundation fired 54 employees and unveiled a new organizational str
 The Senate voted 85-5 to pass a major housing affordability bill that includes a ban on the Federal Reserve making a central bank digital currency until 2030.
 
 📖 [Read original article](https://cointelegraph.com/news/senate-passes-housing-bill-that-includes-a-cbdc-ban-through-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 25. Crypto lobby urges Congress to pass staking and mining tax bill as is
-
-**Author:** Jesse Coghlan  
-**Published:** 6/23/2026, 5:01:13 AM  
-**Categories:** Latest News, Taxes, Staking, Mining  
-
-A trio of crypto lobby groups says a bill allowing staking and mining rewards to be taxed when they’re sold should be passed without further amendments.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-lobby-urges-congress-pass-staking-mining-tax-bill-without-changes?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 26. Trump signs orders for quantum computer, cryptography upgrades
-
-**Author:** Martin Young  
-**Published:** 6/23/2026, 4:57:21 AM  
-**Categories:** Latest News, Donald Trump, Quantum Computing, Cryptography  
-
-“We’re going to be investing in American quantum leadership like never before to stay ahead of the pack,” says US President Donald Trump.
-
-📖 [Read original article](https://cointelegraph.com/news/trump-orders-quantum-computing-push-and-post-quantum-cryptography-upgrade?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 27. Bitmine, Sharplink and Joe Lubin back Ethereum R&D nonprofit
-
-**Author:** Martin Young  
-**Published:** 6/23/2026, 3:21:28 AM  
-**Categories:** Latest News, Tom Lee, Developers, ConsenSys  
-
-Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is ready to absorb” the demand that institutions will place on it with stablecoins, tokenization and AI.
-
-📖 [Read original article](https://cointelegraph.com/news/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
