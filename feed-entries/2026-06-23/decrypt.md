@@ -2,16 +2,64 @@
 title: "Decrypt - 2026-06-23"
 date: "2026-06-23"
 source: "Decrypt"
-count: 8
+count: 12
 ---
 
 # Decrypt - 2026-06-23
 
-8 items collected.
+12 items collected.
 
 ---
 
-## 1. OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model—And Nobody's Shutting It Down
+## 1. Meet Qwable: The Free Local Model That Thinks Like Claude Fable
+
+**Author:** Jose Antonio Lanz  
+**Published:** 6/23/2026, 10:01:12 PM  
+**Categories:** Artificial Intelligence  
+
+Someone fine-tuned Fable 5's reasoning style into a local Qwen model. Then someone else removed its conscience.
+
+📖 [Read original article](https://decrypt.co/371914/meet-qwable-free-local-model-thinks-like-claude-fable)
+
+---
+
+## 2. Trump's Quantum Push Wins Praise, But Experts Warn Bitcoin Isn't Ready
+
+**Author:** Jason Nelson  
+**Published:** 6/23/2026, 9:31:03 PM  
+**Categories:** , Technology  
+
+Industry leaders welcomed President Trump's quantum executive orders, while researchers said the accelerated timelines reflect growing urgency around post-quantum security and cryptocurrency infrastructure.
+
+📖 [Read original article](https://decrypt.co/371916/trump-quantum-praise-experts-warn-bitcoin-not-ready)
+
+---
+
+## 3. Crypto’s Clarity Act Has a New Enemy: Catholic Leaders
+
+**Author:** Sander Lutz  
+**Published:** 6/23/2026, 9:10:54 PM  
+**Categories:** Law and Order  
+
+A group of 82 Catholic leaders warned a key provision of the crypto bill, protecting software developers from prosecution, could enable human trafficking.
+
+📖 [Read original article](https://decrypt.co/371923/crypto-clarity-act-new-enemy-catholic-leaders)
+
+---
+
+## 4. Mark Zuckerberg Wants a Prediction Market Too: NYT
+
+**Author:** André Beganski  
+**Published:** 6/23/2026, 8:13:35 PM  
+**Categories:** Business  
+
+The initiative follows bets on stablecoins and the metaverse.
+
+📖 [Read original article](https://decrypt.co/371911/mark-zuckerberg-meta-prediction-market)
+
+---
+
+## 5. OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model—And Nobody's Shutting It Down
 
 **Author:** Jose Antonio Lanz  
 **Published:** 6/23/2026, 6:59:26 PM  
@@ -23,7 +71,7 @@ GPT-5.5-Cyber tops the CyberGym leaderboard as Anthropic's best models sit offli
 
 ---
 
-## 2. AI Agent Triggers Nuclear Strike After Getting Outmaneuvered in Civilization VI
+## 6. AI Agent Triggers Nuclear Strike After Getting Outmaneuvered in Civilization VI
 
 **Author:** Jason Nelson  
 **Published:** 6/23/2026, 6:33:18 PM  
@@ -35,7 +83,7 @@ A new benchmark designed to test strategic reasoning found an AI-controlled empi
 
 ---
 
-## 3. A New OpenClaw Competitor: ToqanClaw Promises Privacy in AI Agent Race
+## 7. A New OpenClaw Competitor: ToqanClaw Promises Privacy in AI Agent Race
 
 **Author:** Jose Antonio Lanz  
 **Published:** 6/23/2026, 5:06:52 PM  
@@ -47,7 +95,7 @@ Prosus launched ToqanClaw, a no-code AI platform positioned as an European alter
 
 ---
 
-## 4. Bitcoin Tests Two-Week Low at $62K as Tech Stocks Waver on Wall Street
+## 8. Bitcoin Tests Two-Week Low at $62K as Tech Stocks Waver on Wall Street
 
 **Author:** André Beganski  
 **Published:** 6/23/2026, 3:54:07 PM  
@@ -59,7 +107,7 @@ Investors are digesting a hawkish Fed, with risk-off sentiment driving a sell-of
 
 ---
 
-## 5. Ethereum Foundation Cuts 20% of Workforce in 'Leaner' Reorganization
+## 9. Ethereum Foundation Cuts 20% of Workforce in 'Leaner' Reorganization
 
 **Author:** Logan Hitchcock  
 **Published:** 6/23/2026, 3:19:46 PM  
@@ -71,7 +119,7 @@ The non-profit is cutting 54 jobs as it reorganizes into focused "clusters," fol
 
 ---
 
-## 6. Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network
+## 10. Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network
 
 **Author:** Decrypt Agent  
 **Published:** 6/23/2026, 1:40:47 PM  
@@ -83,7 +131,7 @@ Thailand's DSI says a Chinese "grey capital" network used illegal crypto mining 
 
 ---
 
-## 7. Morning Minute: Fomo's $75M Raise Shows Big VCs Are Still Betting on Consumer Crypto
+## 11. Morning Minute: Fomo's $75M Raise Shows Big VCs Are Still Betting on Consumer Crypto
 
 **Author:** Tyler Warner  
 **Published:** 6/23/2026, 12:23:09 PM  
@@ -95,7 +143,7 @@ Crypto majors are selling off as big Tech gets routed; Saylor is hoarding cash; 
 
 ---
 
-## 8. US Senate Passes Housing Bill With Four-Year Fed CBDC Ban
+## 12. US Senate Passes Housing Bill With Four-Year Fed CBDC Ban
 
 **Author:** Decrypt Agent  
 **Published:** 6/23/2026, 10:23:30 AM  
