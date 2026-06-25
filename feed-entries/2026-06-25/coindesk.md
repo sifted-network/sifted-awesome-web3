@@ -2,28 +2,148 @@
 title: "CoinDesk - 2026-06-25"
 date: "2026-06-25"
 source: "CoinDesk"
-count: 17
+count: 25
 ---
 
 # CoinDesk - 2026-06-25
 
-17 items collected.
+25 items collected.
 
 ---
 
-## 1. Kraken sues crypto derivatives firm PowerTrade over 'misappropriated' funds claim
+## 1. Coinbase's Base blockchain resumes after two-hour outage disrupted network
+
+**Author:** Margaux Nijkerk  
+**Published:** 6/25/2026, 6:46:08 PM  
+**Categories:** Tech, Coinbase, News  
+
+The incident temporarily halted transaction processing on one of Ethereum's largest layer-2 networks.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/06/25/coinbase-s-base-blockchain-resumes-after-two-hour-outage-disrupted-network)
+
+---
+
+## 2. Strategy's yield-generating STRC stock is more correlated with BTC than ever
+
+**Author:** Omkar Godbole  
+**Published:** 6/25/2026, 5:48:18 PM  
+**Categories:** Markets, MicroStrategy, News  
+
+The tightening correlation undermines STRC's appeal as a relatively steadier income vehicle.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/strategy-s-yield-generating-strc-stock-is-more-correlated-with-btc-than-ever)
+
+---
+
+## 3. Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation
+
+**Author:** Will Canny  
+**Published:** 6/25/2026, 5:14:19 PM  
+**Categories:** Finance, Kraken, DeFi, Exclusive, Aave, mergers and acquisitions, News  
+
+The DeFi lender is rebuilding after the fallout from April's KelpDAO exploit sparked a multibillion-dollar exodus of deposits despite Aave itself not being hacked.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation)
+
+---
+
+## 4. a16z-backed crypto firm rebrands, shifts focus to solving AI’s global copyright headache
+
+**Author:** Olivier Acuna  
+**Published:** 6/25/2026, 5:06:10 PM  
+**Categories:** Finance, Artificial Intelligence, News  
+
+The startup formerly known as Story Protocol raised $140 million to secure internet rights and is now building an audit layer for data consent, licensing, and provenance for tech firms.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/25/a16z-backed-crypto-firm-rebrands-shifts-focus-to-solving-ai-s-global-copyright-headache)
+
+---
+
+## 5. BlackBerry is making a massive comeback as an 'uncrashable' software layer for AI and robotics
+
+**Author:** Aoyon Ashraf  
+**Published:** 6/25/2026, 4:05:06 PM  
+**Categories:** Markets, Artificial Intelligence, News  
+
+BlackBerry's stock is surging after the company's massive earnings beat and is pivoting into becoming a critical component of the AI and robotics boom.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/blackberry-is-making-a-massive-comeback-as-an-uncrashable-software-layer-for-ai-and-robotics)
+
+---
+
+## 6. Strategy has a 10-month cash runway for dividends, but retail investors are losing faith
+
+**Author:** James Van Straten  
+**Published:** 6/25/2026, 3:45:43 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+STRC was marketed as a low volatility income product designed to trade near $100, and its sharp decline has undermined investor trust.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/michael-saylor-s-broken-promises-have-shattered-strategy-investor-trust-says-tw-prime-ceo)
+
+---
+
+## 7. Quant fund says bitcoin is near a major inflection point as rare onchain signals align
+
+**Author:** Helene Braun  
+**Published:** 6/25/2026, 3:14:01 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Hyperion Decimus' Chris Sullivan said four historically reliable indicators have aligned, leaving bitcoin one move away from confirming a major turning point.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/quant-fund-says-bitcoin-is-near-a-major-inflection-point-as-rare-onchain-signals-align)
+
+---
+
+## 8. Bitcoin tumbles to new multi-year low of $58,000, but a short-squeeze setup emerges
+
+**Author:** Krisztian Sandor,Oliver Knight  
+**Published:** 6/25/2026, 3:03:08 PM  
+**Categories:** Markets, Markets, Bitcoin News, Breaking News, Top Stories, News  
+
+Derivatives markets signal that betting on further slide in prices is getting overcrowded, setting up for a potential snapback.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/bitcoin-plunges-to-new-multi-year-low-of-usd58-000-but-a-short-squeeze-setup-emerges)
+
+---
+
+## 9. Crypto for Advisors: Bitcoin: planning for inheritance
+
+**Author:** Zac Townsend  
+**Published:** 6/25/2026, 3:00:00 PM  
+**Categories:** CoinDesk Indices, Financial Advisors, Crypto for Advisors, CoinDesk Indices, Newsletters, News  
+
+Your bitcoin isn’t just an asset; it’s a future. Ensure your loved ones can access it with a solid inheritance plan for when you're no longer here.
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/06/24/crypto-for-advisors-bitcoin-planning-for-inheritance)
+
+---
+
+## 10. Bitcoin likely to fall another 30% to $44,000 by year-end, prominent BTC miner says
+
+**Author:** Shaurya Malwa  
+**Published:** 6/25/2026, 2:39:55 PM  
+**Categories:** Markets, Bitcoin News, Markets, MicroStrategy, News  
+
+An early miner says Strategy's stock mNAV has fallen to 0.72, near the level that marked the last cycle's turn, and that bitcoin historically bottoms about six months after that signal.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/bitcoin-can-fall-another-30-to-usd44-000-prominent-btc-miner-says)
+
+---
+
+## 11. Kraken sues crypto derivatives firm PowerTrade over 'misappropriated' funds claim
 
 **Author:** Ian Allison  
 **Published:** 6/25/2026, 1:53:28 PM  
 **Categories:** Policy, Kraken, Exclusive, News  
 
-PowerTrade changed Kraken’s positive balance of around $7 million to a $2 million deficit via a series of unauthorized “corrections” related to trades that had expired or settled months earlier, according to a legal filing.
+PowerTrade changed Kraken’s positive balance of more than $6 million to a $2 million deficit via a series of unauthorized “corrections” related to trades that had expired or settled months earlier, according to a legal filing.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/06/25/kraken-sues-crypto-derivatives-firm-powertrade-over-misappropriated-funds-claim)
 
 ---
 
-## 2. CoinDesk 20 performance update: AAVE gains 10.1% as index rises
+## 12. CoinDesk 20 performance update: AAVE gains 10.1% as index rises
 
 **Author:** CoinDesk Indices  
 **Published:** 6/25/2026, 1:15:26 PM  
@@ -35,7 +155,7 @@ Bitcoin Cash (BCH), up 5.8% from Wednesday, joined Aave (AAVE) as a top performe
 
 ---
 
-## 3. Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry
+## 13. Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry
 
 **Author:** Krisztian Sandor  
 **Published:** 6/25/2026, 1:00:00 PM  
@@ -47,7 +167,7 @@ The protocols are building shared liquidity and trading infrastructure for a fut
 
 ---
 
-## 4. Post-prison CZ says time behind bars didn't hurt the billionaire's business after Binance
+## 14. Post-prison CZ says time behind bars didn't hurt the billionaire's business after Binance
 
 **Author:** Jesse Hamilton  
 **Published:** 6/25/2026, 1:00:00 PM  
@@ -59,7 +179,7 @@ The pardoned ex-CEO called prison a character-building "plus" as he's pursued a 
 
 ---
 
-## 5. Circle and Nomura join forces to target a $440 billion daily foreign exchange market in Japan
+## 15. Circle and Nomura join forces to target a $440 billion daily foreign exchange market in Japan
 
 **Author:** Olivier Acuna  
 **Published:** 6/25/2026, 12:29:21 PM  
@@ -71,7 +191,7 @@ The stablecoin giant and the Japanese financial corporation plan to deploy cross
 
 ---
 
-## 6. Bitcoin derivatives signal panic. A weak core PCE reading could trigger snapback.
+## 16. Bitcoin derivatives signal panic. A weak core PCE reading could trigger snapback.
 
 **Author:** Omkar Godbole  
 **Published:** 6/25/2026, 11:31:02 AM  
@@ -83,7 +203,7 @@ Your day-ahead look for June 25, 2026
 
 ---
 
-## 7. CoinEx denies claims it served as $3.84 billion gateway to sanctioned Iranian crypto firms
+## 17. CoinEx denies claims it served as $3.84 billion gateway to sanctioned Iranian crypto firms
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 6/25/2026, 10:56:58 AM  
@@ -95,7 +215,7 @@ Blockchain analysts TRM Labs says CoinEx facilitated more than $3.8 billion in b
 
 ---
 
-## 8. Crypto relief rally fails to shake persistent bearish derivatives signal
+## 18. Crypto relief rally fails to shake persistent bearish derivatives signal
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 6/25/2026, 10:53:24 AM  
@@ -107,7 +227,7 @@ A relief rally tied to recovering U.S. equities lifted BTC and ETH off weekly lo
 
 ---
 
-## 9. Bitcoin supply in loss reaches record high 10.83 million BTC
+## 19. Bitcoin supply in loss reaches record high 10.83 million BTC
 
 **Author:** James Van Straten  
 **Published:** 6/25/2026, 10:28:37 AM  
@@ -119,7 +239,7 @@ Almost 11 million bitcoin are now held at a loss, while long-term holders contro
 
 ---
 
-## 10. Micron delivers blowout earnings, surges 16% and deals crypto bulls a blow
+## 20. Micron delivers blowout earnings, surges 16% and deals crypto bulls a blow
 
 **Author:** James Van Straten  
 **Published:** 6/25/2026, 10:01:54 AM  
@@ -131,7 +251,7 @@ Micron Technology surged after blockbuster earnings and strong guidance, lifting
 
 ---
 
-## 11. Forget max pain theory. Bitcoin is well below the $72,000 magnet going into $10 billion options expiry
+## 21. Forget max pain theory. Bitcoin is well below the $72,000 magnet going into $10 billion options expiry
 
 **Author:** Omkar Godbole  
 **Published:** 6/25/2026, 7:24:59 AM  
@@ -143,19 +263,19 @@ The popular max pain theory isn’t working out as bitcoin trades far from the $
 
 ---
 
-## 12. Live markets: Bitcoin plunges under $59,000 as early bounce fades
+## 22. Live markets: Bitcoin settles in under $60,000
 
 **Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Helene Braun  
 **Published:** 6/25/2026, 6:01:07 AM  
 **Categories:** Tech, Live News, live_news  
 
-A liquidation flush took bitcoin to its lowest since early June before Micron's blowout earnings and SK Hynix's U.S. listing plans steadied the AI trade that crypto had been sliding alongside.
+Strategy's common stock hit a multi-year low, while its STRC preferred stock plunged to a new record low.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/06/25/live-markets-bitcoin-ether-lead-usd1-billion-liquidation-losses-as-ai-trade-keeps-going)
 
 ---
 
-## 13. MemeCore's M token suddenly crashes 80% with no clear trigger
+## 23. MemeCore's M token suddenly crashes 80% with no clear trigger
 
 **Author:** Shaurya Malwa  
 **Published:** 6/25/2026, 5:35:43 AM  
@@ -167,7 +287,7 @@ The token fell from nearly $3 to about $0.50 in hours, wiping out close to $3 bi
 
 ---
 
-## 14. Ripple's RLUSD stablecoin goes live in Japan after regulatory approval
+## 24. Ripple's RLUSD stablecoin goes live in Japan after regulatory approval
 
 **Author:** Shaurya Malwa  
 **Published:** 6/25/2026, 5:02:34 AM  
@@ -179,7 +299,7 @@ Japan's financial regulator cleared the U.S. dollar-backed token as a new catego
 
 ---
 
-## 15. Bitcoin has a new line in the sand. Thursday’s core PCE could stress test it.
+## 25. Bitcoin has a new line in the sand. Thursday’s core PCE could stress test it.
 
 **Author:** Omkar Godbole  
 **Published:** 6/25/2026, 4:53:31 AM  
@@ -188,29 +308,5 @@ Japan's financial regulator cleared the U.S. dollar-backed token as a new catego
 The market has found a new support level and it could be tested following Thursday's U.S. inflation data.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/bitcoin-has-a-new-line-in-the-sand-thursday-s-core-pce-could-stress-test-it)
-
----
-
-## 16. XRP slides 2.8% as weak bounce keeps $1 support in focus
-
-**Author:** Shaurya Malwa  
-**Published:** 6/25/2026, 4:32:00 AM  
-**Categories:** Markets, News  
-
-Sellers broke another support level on heavy volume, while the recovery failed to reclaim the zone that would ease downside pressure.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/xrp-slides-2-8-as-weak-bounce-keeps-usd1-support-in-focus)
-
----
-
-## 17. Bitcoin back above $60,000, ETH, SOL recoup losses as AI stocks stage rebound
-
-**Author:** Shaurya Malwa  
-**Published:** 6/25/2026, 4:29:03 AM  
-**Categories:** Markets, News  
-
-The token fell to about $59,000 before buyers stepped in, but the week's losses are steep across the board. A blowout Micron forecast lifted stocks and oil kept sliding, yet crypto did not follow.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/bitcoin-back-above-usd60-000-eth-sol-recoup-losses-as-ai-stocks-stage-rebound)
 
 ---
