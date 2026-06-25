@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-24"
 date: "2026-06-24"
 source: "Cointelegraph"
-count: 24
+count: 17
 ---
 
 # Cointelegraph - 2026-06-24
 
-24 items collected.
+17 items collected.
 
 ---
 
@@ -212,89 +212,5 @@ Strategy's cash reserves are now enough to pay only 14 months of dividends from 
 Standard Chartered said tokenized assets moving into DeFi could drive deposits into Aave and help the protocol rebuild its position as a dominant onchain lending platform.
 
 📖 [Read original article](https://cointelegraph.com/news/standard-chartered-aave-tokenized-assets-defi-lending?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 18. Strategy's MSTR may plunge 80% if it repeats this dot-com-era fractal
-
-**Author:** Yashu Gola  
-**Published:** 6/24/2026, 10:29:56 AM  
-**Categories:** Markets, MicroStrategy, Michael Saylor, Markets, Market Analysis, Tech Analysis, Stocks  
-
-Strategy’s cash reserve is down 38% as dividend obligations near $1.2 billion, raising dilution risk for MSTR shareholders.
-
-📖 [Read original article](https://cointelegraph.com/markets/strategys-mstr-may-plunge-80-if-it-repeats-this-dot-com-era-fractal?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 19. BTC price four-year trend calls for $76K as analysis says Bitcoin 'not broken'
-
-**Author:** William Suberg  
-**Published:** 6/24/2026, 9:40:13 AM  
-**Categories:** Markets, Bitcoin Price, Markets, Market Analysis  
-
-Bitcoin research said that BTC price action remained in tune with previous cycles as the bear market produces a 20% discount to its four-year "adoption structure" trend line.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-four-year-trend-calls-for-76k-as-analysis-says-btc-price-not-broken?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 20. South Korea adds token securities to capital market overhaul
-
-**Author:** Ezra Reguerra  
-**Published:** 6/24/2026, 8:56:14 AM  
-**Categories:** Latest News, South Korea, Asia, Policy, Tokenization  
-
-South Korea’s Financial Services Commission has placed token securities infrastructure within a wider capital-market modernization plan covering faster settlement, longer trading hours and digital transformation.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korea-token-securities-capital-market-overhaul?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 21. OpenPayd secures MiCA license as stablecoin adoption grows in Europe
-
-**Author:** Helen Partz  
-**Published:** 6/24/2026, 7:17:46 AM  
-**Categories:** Latest News, MiCA, Europe, Stablecoin, Policy  
-
-OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.
-
-📖 [Read original article](https://cointelegraph.com/news/openpayd-mica-license-stablecoin-adoption-europe?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 22. US nears ban on CBDCs until 2030 as housing bill goes to Trump
-
-**Author:** Jesse Coghlan  
-**Published:** 6/24/2026, 6:06:46 AM  
-**Categories:** Latest News, CBDC, Congress, Ban  
-
-The House passed a housing bill with a central bank digital currency ban until 2030, meaning it now just needs US President Donald Trump’s sign-off.
-
-📖 [Read original article](https://cointelegraph.com/news/us-nears-ban-on-cbdcs-until-2030-as-housing-bill-goes-to-trump?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 23. Catholic leaders, US authorities challenge CLARITY Act over illicit activity
-
-**Author:** Martin Young  
-**Published:** 6/24/2026, 6:06:15 AM  
-**Categories:** Latest News, Law, DeFi, KYC, AML  
-
-“Regulatory certainty should not come at the expense of accountability, transparency, victim protection, or public safety,” the law enforcement associations said.
-
-📖 [Read original article](https://cointelegraph.com/news/law-enforcement-and-catholic-groups-warn-clarity-act-facilitates-crypto-crime?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 24. Blockchain.com, KuCoin expand payment rails across emerging markets
-
-**Author:** Nate Kostar  
-**Published:** 6/24/2026, 6:00:00 AM  
-**Categories:** Latest News, Stablecoin, Blockchain.com, KuCoin, Latin America, Africa, Mexico, Brazil  
-
-Blockchain.com launched a Brazil-focused payments platform for businesses, while KuCoin expanded integrations with banking and mobile-money networks across Mexico, Bangladesh and Zambia.
-
-📖 [Read original article](https://cointelegraph.com/news/blockchaincom-kucoin-connect-digital-assets-to-payment-networks-in-emerging-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
