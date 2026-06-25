@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-06-24"
 date: "2026-06-24"
 source: "Cointelegraph"
-count: 24
+count: 29
 ---
 
 # Cointelegraph - 2026-06-24
 
-24 items collected.
+29 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. HYPE down 22% from record highs: Will spot demand revive the uptrend?
+
+**Author:** Biraajmaan Tamuly  
+**Published:** 6/24/2026, 10:08:25 PM  
+**Categories:** Markets, Markets, Price Analysis, Market Analysis, Altcoin Watch, Futures, Cryptocurrency Exchange, Cryptocurrencies, Liquidity  
+
+HYPE price drops near a key support zone where fading selling pressure collides with shrinking futures market activity. Will the altcoin resume its uptrend above $60?
+
+📖 [Read original article](https://cointelegraph.com/markets/hype-down-22-from-record-highs-can-spot-demand-retain-the-uptrend?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 2. FTX exec’s wife scheduled for November trial on campaign finance charges
+
+**Author:** Turner Wright  
+**Published:** 6/24/2026, 9:07:03 PM  
+**Categories:** Latest News, Law, Trial, Crimes, FTX, Cryptocurrency Exchange  
+
+A Manhattan judge ordered that Michelle Bond’s criminal trial start in November after he denied a motion to dismiss the indictment based on claims that prosecutors misled her husband over her charges.
+
+📖 [Read original article](https://cointelegraph.com/news/ftx-exec-wife-november-trial-campaign-finance-charges?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 3. Bitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain?
+
+**Author:** Marcel Pechman  
+**Published:** 6/24/2026, 8:58:28 PM  
+**Categories:** Markets, Markets, Bitcoin Price, Cryptocurrencies, Gold, Federal Reserve, Dollar, MicroStrategy, Market Analysis  
+
+Bitcoin drops toward new 2026 lows as spot BTC ETF outflows and slowing accumulation from Strategy weigh on market sentiment.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-nearly-loses-59k-as-dxy-surges-are-traders-bracing-for-more-pain?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 4. Kalshi sues Illinois officials over prediction markets restrictions
+
+**Author:** Turner Wright  
+**Published:** 6/24/2026, 7:34:48 PM  
+**Categories:** Latest News, Prediction Markets, Kalshi, Law, United States  
+
+The prediction markets company claimed that it would be “irreparably harmed” when an Illinois law signed as part of a budget package goes in effect on July 1.
+
+📖 [Read original article](https://cointelegraph.com/news/kalshi-lawsuit-illinois-prediction-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 5. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 6/24/2026, 7:17:03 PM  
@@ -23,7 +71,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Crypto-backed candidates notch wins in three US state primaries
+## 6. Crypto-backed candidates notch wins in three US state primaries
 
 **Author:** Turner Wright  
 **Published:** 6/24/2026, 5:34:57 PM  
@@ -35,7 +83,7 @@ The crypto-aligned Fairshake PAC and its affiliates spent a combined $8 million 
 
 ---
 
-## 3. Bitcoin falls under $60K, but traders anticipate 15% bounce
+## 7. Bitcoin falls under $60K, but traders anticipate 15% bounce
 
 **Author:** William Suberg  
 **Published:** 6/24/2026, 5:06:46 PM  
@@ -47,7 +95,7 @@ Bitcoin price dropped below $60,000 for the first time in weeks, but data shows 
 
 ---
 
-## 4. Bitcoin crash to $60K opens new $530M demand zone: Will bulls buy in?
+## 8. Bitcoin crash to $60K opens new $530M demand zone: Will bulls buy in?
 
 **Author:** Biraajmaan Tamuly  
 **Published:** 6/24/2026, 4:21:52 PM  
@@ -59,7 +107,7 @@ A $525 million Bitcoin buy wall intersects with a major liquidation zone, creati
 
 ---
 
-## 5. Credit unions managing $25B in assets join stablecoin infrastructure program
+## 9. Credit unions managing $25B in assets join stablecoin infrastructure program
 
 **Author:** Sam Bourgi  
 **Published:** 6/24/2026, 3:49:54 PM  
@@ -71,7 +119,7 @@ A new pilot from Stablecore, Circuit and Curql gives participating US credit uni
 
 ---
 
-## 6. Binance withdraws Greece-filed MiCA application
+## 10. Binance withdraws Greece-filed MiCA application
 
 **Author:** Ezra Reguerra  
 **Published:** 6/24/2026, 3:47:05 PM  
@@ -83,7 +131,7 @@ Binance said it plans to seek authorization in another EU jurisdiction just days
 
 ---
 
-## 7. Trump cancels signing of housing bill with CBDC ban
+## 11. Trump cancels signing of housing bill with CBDC ban
 
 **Author:** Turner Wright  
 **Published:** 6/24/2026, 3:18:07 PM  
@@ -95,7 +143,7 @@ The 21st Century ROAD to Housing Act included a provision that the US Federal Re
 
 ---
 
-## 8. The Impossibility of Perfect Fairness in Transaction Ordering
+## 12. The Impossibility of Perfect Fairness in Transaction Ordering
 
 **Author:** Kyrian Alex  
 **Published:** 6/24/2026, 3:00:00 PM  
@@ -107,7 +155,7 @@ Why perfect fairness cannot hold in asynchronous networks, and how different blo
 
 ---
 
-## 9. How memecoin marketing moved from online speculation to real-world risk
+## 13. How memecoin marketing moved from online speculation to real-world risk
 
 **Author:** Dilip Kumar Patairya  
 **Published:** 6/24/2026, 2:30:00 PM  
@@ -119,7 +167,7 @@ From alcohol dares to head-shaving challenges, memecoin campaigns are turning en
 
 ---
 
-## 10. DeFi TVL drops 39% in 2026 amid market downturn and record hack activity
+## 14. DeFi TVL drops 39% in 2026 amid market downturn and record hack activity
 
 **Author:** Zoltan Vardai  
 **Published:** 6/24/2026, 2:14:39 PM  
@@ -131,7 +179,7 @@ DeFi TVL fell 39% in 2026 as a broader market downturn and fallout from major ex
 
 ---
 
-## 11. SecondFi traces Cardano wallet exploit to address-level issue
+## 15. SecondFi traces Cardano wallet exploit to address-level issue
 
 **Author:** Helen Partz  
 **Published:** 6/24/2026, 12:38:43 PM  
@@ -143,7 +191,7 @@ Cardano wallet SecondFi traced the incident to an address-level issue and secure
 
 ---
 
-## 12. CBOE debuts prediction market with S&P 500 contracts
+## 16. CBOE debuts prediction market with S&P 500 contracts
 
 **Author:** Zoltan Vardai  
 **Published:** 6/24/2026, 12:01:43 PM  
@@ -155,7 +203,7 @@ Cboe launched its first prediction market product tied to the S&P 500 index, cit
 
 ---
 
-## 13. CryptoQuant warns on Strategy's dividend coverage as cash reserve falls 38%
+## 17. CryptoQuant warns on Strategy's dividend coverage as cash reserve falls 38%
 
 **Author:** Zoltan Vardai  
 **Published:** 6/24/2026, 11:34:40 AM  
@@ -167,7 +215,7 @@ Strategy's cash reserves are now enough to pay only 14 months of dividends from 
 
 ---
 
-## 14. Aave positioned to capture tokenized asset growth in DeFi: Standard Chartered
+## 18. Aave positioned to capture tokenized asset growth in DeFi: Standard Chartered
 
 **Author:** Ezra Reguerra  
 **Published:** 6/24/2026, 11:21:01 AM  
@@ -179,7 +227,7 @@ Standard Chartered said tokenized assets moving into DeFi could drive deposits i
 
 ---
 
-## 15. Strategy's MSTR may plunge 80% if it repeats this dot-com-era fractal
+## 19. Strategy's MSTR may plunge 80% if it repeats this dot-com-era fractal
 
 **Author:** Yashu Gola  
 **Published:** 6/24/2026, 10:29:56 AM  
@@ -191,7 +239,7 @@ Strategy’s cash reserve is down 38% as dividend obligations near $1.2 billion,
 
 ---
 
-## 16. BTC price four-year trend calls for $76K as analysis says Bitcoin 'not broken'
+## 20. BTC price four-year trend calls for $76K as analysis says Bitcoin 'not broken'
 
 **Author:** William Suberg  
 **Published:** 6/24/2026, 9:40:13 AM  
@@ -203,7 +251,7 @@ Bitcoin research said that BTC price action remained in tune with previous cycle
 
 ---
 
-## 17. South Korea adds token securities to capital market overhaul
+## 21. South Korea adds token securities to capital market overhaul
 
 **Author:** Ezra Reguerra  
 **Published:** 6/24/2026, 8:56:14 AM  
@@ -215,7 +263,7 @@ South Korea’s Financial Services Commission has placed token securities infras
 
 ---
 
-## 18. OpenPayd secures MiCA license as stablecoin adoption grows in Europe
+## 22. OpenPayd secures MiCA license as stablecoin adoption grows in Europe
 
 **Author:** Helen Partz  
 **Published:** 6/24/2026, 7:17:46 AM  
@@ -227,7 +275,7 @@ OpenPayd, which provides infrastructure to companies including Kraken crypto exc
 
 ---
 
-## 19. US nears ban on CBDCs until 2030 as housing bill goes to Trump
+## 23. US nears ban on CBDCs until 2030 as housing bill goes to Trump
 
 **Author:** Jesse Coghlan  
 **Published:** 6/24/2026, 6:06:46 AM  
@@ -239,7 +287,7 @@ The House passed a housing bill with a central bank digital currency ban until 2
 
 ---
 
-## 20. Catholic leaders, US authorities challenge CLARITY Act over illicit activity
+## 24. Catholic leaders, US authorities challenge CLARITY Act over illicit activity
 
 **Author:** Martin Young  
 **Published:** 6/24/2026, 6:06:15 AM  
@@ -251,7 +299,19 @@ The House passed a housing bill with a central bank digital currency ban until 2
 
 ---
 
-## 21. Sweden's H100 shareholders greenlight acquisition deal to triple Bitcoin holdings
+## 25. Blockchain.com, KuCoin expand payment rails across emerging markets
+
+**Author:** Nate Kostar  
+**Published:** 6/24/2026, 6:00:00 AM  
+**Categories:** Latest News, Stablecoin, Blockchain.com, KuCoin, Latin America, Africa, Mexico, Brazil  
+
+Blockchain.com launched a Brazil-focused payments platform for businesses, while KuCoin expanded integrations with banking and mobile-money networks across Mexico, Bangladesh and Zambia.
+
+📖 [Read original article](https://cointelegraph.com/news/blockchaincom-kucoin-connect-digital-assets-to-payment-networks-in-emerging-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 26. Sweden's H100 shareholders greenlight acquisition deal to triple Bitcoin holdings
 
 **Author:** Nate Kostar  
 **Published:** 6/24/2026, 6:00:00 AM  
@@ -263,7 +323,7 @@ The Swedish health-tech company moved closer to becoming one of Europe's largest
 
 ---
 
-## 22. Senate Dems urge probe into $500M crypto deal between Trumps, UAE
+## 27. Senate Dems urge probe into $500M crypto deal between Trumps, UAE
 
 **Author:** Jesse Coghlan  
 **Published:** 6/24/2026, 4:12:42 AM  
@@ -275,7 +335,7 @@ Democrats want the Senate to hold hearings on the dealings between the Trump adm
 
 ---
 
-## 23. StarkWare introduces 'Private KYC' to address personal data breaches
+## 28. StarkWare introduces 'Private KYC' to address personal data breaches
 
 **Author:** Martin Young  
 **Published:** 6/24/2026, 3:14:04 AM  
@@ -287,7 +347,7 @@ Democrats want the Senate to hold hearings on the dealings between the Trump adm
 
 ---
 
-## 24. CFTC sues Kentucky after state’s prediction market lawsuits
+## 29. CFTC sues Kentucky after state’s prediction market lawsuits
 
 **Author:** Felix Ng  
 **Published:** 6/24/2026, 2:40:41 AM  
