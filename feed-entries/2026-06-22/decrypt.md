@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-22"
 date: "2026-06-22"
 source: "Decrypt"
-count: 11
+count: 6
 ---
 
 # Decrypt - 2026-06-22
 
-11 items collected.
+6 items collected.
 
 ---
 
@@ -80,65 +80,5 @@ A bill that would make crypto mining and staking more attractive is a top priori
 The well-known trading bot took a hit this weekend after it fell victim to a series of transactions that left its logic exposed.
 
 📖 [Read original article](https://decrypt.co/371787/ethereum-mev-bot-jaredfromsubway-legal-action-7-5-million-attack)
-
----
-
-## 7. ICE and OKX Are Teaming Up to Bring Tokenized Securities to Wall Street
-
-**Author:** Logan Hitchcock  
-**Published:** 6/22/2026, 6:00:03 PM  
-**Categories:** Business  
-
-The pair will focus on advancing tokenization and digital asset infrastructure in a joint venture co-chaired by the former governor of New York.
-
-📖 [Read original article](https://decrypt.co/371789/new-york-stock-exchange-ice-okx-crypto-tokenized-securities)
-
----
-
-## 8. The Studio Behind 'Ex Machina' Is Now Researching AI With Google
-
-**Author:** Jason Nelson  
-**Published:** 6/22/2026, 5:29:24 PM  
-**Categories:** Artificial Intelligence  
-
-Google is investing $75 million in A24 as part of a new AI research initiative focused on filmmaking tools.
-
-📖 [Read original article](https://decrypt.co/371788/a24-ex-machina-now-researching-ai-google)
-
----
-
-## 9. Bank of England Eases Stablecoin Rules, Swaps Holding Caps for £40B ‘Guardrail’
-
-**Author:** Decrypt Agent  
-**Published:** 6/22/2026, 4:43:17 PM  
-**Categories:** , Business  
-
-The BoE scrapped individual holding caps for a £40 billion per-coin issuance limit and will let issuers hold more reserves in government debt.
-
-📖 [Read original article](https://decrypt.co/371783/bank-of-england-eases-stablecoin-rules-swaps-holding-caps-for-40b-guardrail)
-
----
-
-## 10. Ethereum Layer-2 Taiko Warns Users to Withdraw Bridge Funds After Security Breach
-
-**Author:** Jason Nelson  
-**Published:** 6/22/2026, 3:31:03 PM  
-**Categories:** , Coins  
-
-Researchers estimate more than $1.7 million was stolen after attackers allegedly exploited Taiko's proof verification process.
-
-📖 [Read original article](https://decrypt.co/371769/ethereum-layer-2-taiko-withdraw-bridge-funds-security-breach)
-
----
-
-## 11. Tom Lee’s BitMine Adds $92 Million in Ethereum, Hits 4.7% of Total Supply
-
-**Author:** Logan Hitchcock  
-**Published:** 6/22/2026, 3:18:30 PM  
-**Categories:** , Markets  
-
-The leading Ethereum treasury firm inched closer to its goal of accumulating 5% of the ETH circulating supply.
-
-📖 [Read original article](https://decrypt.co/371766/tom-lee-bitmine-92-million-ethereum-supply)
 
 ---
