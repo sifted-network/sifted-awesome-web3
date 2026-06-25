@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-22"
 date: "2026-06-22"
 source: "Decrypt"
-count: 6
+count: 5
 ---
 
 # Decrypt - 2026-06-22
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ A new paper from Google DeepMind argues that disagreements over whether AI is co
 A bill that would make crypto mining and staking more attractive is a top priority for industry leaders—and a growing concern for House Democrats.
 
 📖 [Read original article](https://decrypt.co/371804/crypto-industry-urges-congress-pass-tax-bill)
-
----
-
-## 6. Ethereum MEV Bot JaredFromSubway Threatens Legal Action After $7.5 Million Loss
-
-**Author:** André Beganski  
-**Published:** 6/22/2026, 6:12:33 PM  
-**Categories:** DeFi  
-
-The well-known trading bot took a hit this weekend after it fell victim to a series of transactions that left its logic exposed.
-
-📖 [Read original article](https://decrypt.co/371787/ethereum-mev-bot-jaredfromsubway-legal-action-7-5-million-attack)
 
 ---
