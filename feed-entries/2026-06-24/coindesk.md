@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-24"
 date: "2026-06-24"
 source: "CoinDesk"
-count: 25
+count: 18
 ---
 
 # CoinDesk - 2026-06-24
 
-25 items collected.
+18 items collected.
 
 ---
 
@@ -224,89 +224,5 @@ Bitcoin held above $62,500 and ether near $1,665, but sluggish price action and 
 Partner Alex Odagiu will serve as an interim president, pending a search for a new chief executive, while head of YZi Labs Ella Zhang and Matthew Roszak also appointed directors of CEA.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/06/22/yzi-labs-nears-settlement-in-activist-campaign-at-bnb-treasury-firm-cea-industries)
-
----
-
-## 19. Cboe revives S&P 500 binary options, chasing a market popularized by Polymarket, Kalshi
-
-**Author:** Shaurya Malwa  
-**Published:** 6/24/2026, 10:38:48 AM  
-**Categories:** Finance, Prediction Markets, Binary Options, News  
-
-One of the largest U.S. derivatives exchanges is bringing back yes/no bets on the S&P 500 after pulling them a decade ago, moving onto turf that Polymarket and Kalshi turned into one of the internet's fastest-growing corners.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/24/cboe-revives-s-and-p-500-binary-options-chasing-a-market-popularized-by-polymarket-kalshi)
-
----
-
-## 20. The Runes revival: Bitcoin traffic hits a two-year high as transactions blast past 820,000
-
-**Author:** James Van Straten  
-**Published:** 6/24/2026, 9:47:58 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-A surge in Rune protocol activity is pushing Bitcoin transaction counts and fee generation to multi year highs.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/24/the-runes-revival-bitcoin-traffic-hits-a-two-year-high-as-transactions-blast-past-820-000)
-
----
-
-## 21. Michael Saylor should halt Strategy's bitcoin buys, says CryptoQuant
-
-**Author:** Shaurya Malwa  
-**Published:** 6/24/2026, 8:15:18 AM  
-**Categories:** Markets, MicroStrategy, News  
-
-CryptoQuant says the cash cushion behind Strategy's STRC has thinned from seven years of coverage to 14 months, and buying BTC at cycle tops has left the company with a $10.6 billion paper loss.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/24/strategy-should-pause-its-bitcoin-buying-and-rebuild-cash-cryptoquant-says)
-
----
-
-## 22. Trump lands in Senate's crosshairs over $500 million UAE investment in his crypto venture
-
-**Author:** Omkar Godbole  
-**Published:** 6/24/2026, 7:18:21 AM  
-**Categories:** Policy, Trump, News  
-
-Senate Democrats call for hearings into whether a $500 million investment by UAE officials in World Liberty Financial influenced Trump's policy decisions.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/24/trump-lands-in-senate-s-crosshairs-over-usd500-million-uae-investment-in-his-crypto-venture)
-
----
-
-## 23. Bitcoin OGs aren't selling as aggressively as they did above $100,000
-
-**Author:** Omkar Godbole  
-**Published:** 6/24/2026, 6:39:41 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin "OGs" have slashed their selling activity to the lowest levels in nearly two years.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/24/bitcoin-s-og-investors-have-slowed-selling-in-a-bullish-sign-for-the-market)
-
----
-
-## 24. Live markets: Bitcoin claws back some of the losses after Micron beats earnings
-
-**Author:** Shaurya Malwa,Omkar Godbole,Helene Braun,James Van Straten,Krisztian Sandor  
-**Published:** 6/24/2026, 5:13:27 AM  
-**Categories:** Tech, Live News, live_news  
-
-Battered crypto sector gets some relief after Micron beats earnings, bringing back some risk appetite to the market.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/24/live-markets-bitcoin-could-drop-to-usd59-000-in-the-short-term-as-liquidaity-dries-up)
-
----
-
-## 25. Bitcoin drops toward $62,000 as the chip selloff deepens for a second day
-
-**Author:** Shaurya Malwa  
-**Published:** 6/24/2026, 4:33:03 AM  
-**Categories:** Markets, News  
-
-A renewed rout in semiconductor stocks pulled risk assets lower again, and crypto kept sliding. Bitcoin is down 5% on the week, with ether and the memecoins falling harder.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/24/bitcoin-drops-toward-usd62-000-as-the-chip-selloff-deepens-for-a-second-day)
 
 ---
