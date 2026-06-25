@@ -2,16 +2,88 @@
 title: "The Block - 2026-06-25"
 date: "2026-06-25"
 source: "The Block"
-count: 11
+count: 17
 ---
 
 # The Block - 2026-06-25
 
-11 items collected.
+17 items collected.
 
 ---
 
-## 1. Four arrested in Poland over crypto SIM-swap attacks; ZachXBT links ‘Merry’ to case
+## 1. Multicoin predicts HYPE hits $319 by 2028 as Hyperliquid turns into an ‘everything exchange’
+
+**Author:** RT Watson  
+**Published:** 6/25/2026, 6:03:32 PM  
+**Categories:** Equities, Markets, The Block, Analyst Reports  
+
+According to the investment firm, Hyperliquid's user base grew from roughly 300,000 to 923,000 during 2025.
+
+📖 [Read original article](https://www.theblock.co/post/406212/multicoin-hype-hits-319-by-2028-hyperliquid-everything-exchange?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Coinbase-incubated Base suffers mainnet chain stall interrupting block production
+
+**Author:** Daniel Kuhn  
+**Published:** 6/25/2026, 5:10:34 PM  
+**Categories:** Companies, Crypto Ecosystems, Exchanges, Layer 2s and Scaling, Markets, Public Equities, The Block, Base, Coinbase  
+
+Deposits and withdrawals have also been affected, while transactions are delayed or stalled, according to Base's status page.
+
+📖 [Read original article](https://www.theblock.co/post/406213/coinbase-incubated-base-blockchain-suffers-unsafe-head-stall-interrupting-block-production?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Sophon sunsets its Layer 2 blockchain, moves to Base to build consumer apps
+
+**Author:** Yogita Khatri  
+**Published:** 6/25/2026, 5:04:23 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Markets, The Block, Web3, exclusive  
+
+Sophon, which has raised $70 million in total funding, is shutting down its Layer 2 blockchain and moving to Base to build consumer apps.
+
+📖 [Read original article](https://www.theblock.co/post/406194/sophon-sunsets-layer-2-blockchain-moves-to-base-build-consumer-apps?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Bitcoin rout leads Strategy’s STRC to slide 26% below par as MSTR shares hits 16-month low
+
+**Author:** Kyle Baird  
+**Published:** 6/25/2026, 4:50:51 PM  
+**Categories:** Companies, Markets, Public Equities, The Block, Strategy  
+
+For the past year, Strategy has been issuing and tapping preferred securities like STRC to raise capital for additional bitcoin purchases.
+
+📖 [Read original article](https://www.theblock.co/post/406185/bitcoin-rout-strategy-strc-slides-26-below-par-mstr-shares-16-month-low?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Tether-pegged USDT0 stablecoin crosses $100 billion transaction volume milestone
+
+**Author:** Daniel Kuhn  
+**Published:** 6/25/2026, 3:15:00 PM  
+**Categories:** Crypto Ecosystems, Markets, Stablecoins, The Block, Token Projects, Web3, exclusive, Tether  
+
+USDT0, backed 1:1 by tethers, the largest stablecoin by market capitalization, is the third-largest holder of USDT.
+
+📖 [Read original article](https://www.theblock.co/post/405912/tether-pegged-usdt0-stablecoin-crosses-100-billion-transaction-volume-milestone?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. ‘Stablecoin’ Google searches down 54% as supply growth stalls after 2025 boom
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 6/25/2026, 2:36:03 PM  
+**Categories:** Companies, Crypto Ecosystems, Markets, Tech, The Block, Google  
+
+The decline in search volumes this month coincides with aggregate stablecoin supply having reversed its 10-month expansion.
+
+📖 [Read original article](https://www.theblock.co/post/405856/stablecoin-google-searches-down-54-supply-growth-stalls-after-2025-boom?utm_source=rss&utm_medium=rss)
+
+---
+
+## 7. Four arrested in Poland over crypto SIM-swap attacks; ZachXBT links ‘Merry’ to case
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/25/2026, 1:27:42 PM  
@@ -23,7 +95,7 @@ ZachXBT alleges threat actor 'Merry' is among those detained by Polish authoriti
 
 ---
 
-## 2. Spark, Uniswap build stablecoin ‘FX Layer’ seeded with $150 million liquidity migration
+## 8. Spark, Uniswap build stablecoin ‘FX Layer’ seeded with $150 million liquidity migration
 
 **Author:** Daniel Kuhn  
 **Published:** 6/25/2026, 1:00:00 PM  
@@ -35,7 +107,7 @@ Spark is establishing a "liquidity foundation" for the new pool by migrating $15
 
 ---
 
-## 3. ‘Waiting for buyers’: Bitcoin holds fragile $60K floor ahead of $10.6B quarterly expiry
+## 9. ‘Waiting for buyers’: Bitcoin holds fragile $60K floor ahead of $10.6B quarterly expiry
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/25/2026, 12:57:46 PM  
@@ -47,7 +119,7 @@ Bitcoin fell to the low $60,000s ahead of a $10.6B June 26 quarterly expiry as $
 
 ---
 
-## 4. SBI Holdings agrees to acquire Japanese crypto exchange Bitbank in $288.6 million deal
+## 10. SBI Holdings agrees to acquire Japanese crypto exchange Bitbank in $288.6 million deal
 
 **Author:** Brian Danga  
 **Published:** 6/25/2026, 10:52:40 AM  
@@ -59,7 +131,7 @@ SBI Holdings agreed to acquire Bitbank for $288.6 million, with the transaction 
 
 ---
 
-## 5. Half of UK wealth advisors say most clients’ crypto sits outside their oversight as 61% of European peers face firm restrictions: CoinShares
+## 11. Half of UK wealth advisors say most clients’ crypto sits outside their oversight as 61% of European peers face firm restrictions: CoinShares
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/25/2026, 10:14:13 AM  
@@ -71,7 +143,7 @@ CoinShares survey found 52% of UK advisors report most clients' crypto exposure 
 
 ---
 
-## 6. Kraken expands OTC lending through an onchain warehouse facility with Maple
+## 12. Kraken expands OTC lending through an onchain warehouse facility with Maple
 
 **Author:** Daniel Kuhn  
 **Published:** 6/25/2026, 10:00:00 AM  
@@ -83,7 +155,7 @@ Maple’s lenders will provide a revolving line of funding to supply USDC liquid
 
 ---
 
-## 7. Thailand issues arrest warrant for Chinese businessman tied to $28 million illegal crypto mining probe: report
+## 13. Thailand issues arrest warrant for Chinese businessman tied to $28 million illegal crypto mining probe: report
 
 **Author:** Brian Danga  
 **Published:** 6/25/2026, 9:44:00 AM  
@@ -95,7 +167,7 @@ Chinese businessman Wang Yicheng was accused of involvement in illegal crypto mi
 
 ---
 
-## 8. South Korea fines Bithumb for sharing user data overseas without consent
+## 14. South Korea fines Bithumb for sharing user data overseas without consent
 
 **Author:** Danny Park  
 **Published:** 6/25/2026, 7:44:31 AM  
@@ -107,7 +179,7 @@ South Korea ordered Bithumb to pay roughly $136,000 in penalties for violating p
 
 ---
 
-## 9. CoinEx processed $3.8 billion in Iran-linked funds, acting as crypto gateway: TRM Labs
+## 15. CoinEx processed $3.8 billion in Iran-linked funds, acting as crypto gateway: TRM Labs
 
 **Author:** Danny Park  
 **Published:** 6/25/2026, 5:55:29 AM  
@@ -119,7 +191,7 @@ CoinEx has also interacted with terrorist organizations, including the Islamic R
 
 ---
 
-## 10. Ripple launches RLUSD stablecoin in Japan after regulatory approval
+## 16. Ripple launches RLUSD stablecoin in Japan after regulatory approval
 
 **Author:** Timmy Shen  
 **Published:** 6/25/2026, 3:26:12 AM  
@@ -131,7 +203,7 @@ Ripple's RLUSD stablecoin is available through SBI VC Trade for both institution
 
 ---
 
-## 11. Kalshi in talks to raise funds at $40 billion valuation: FT
+## 17. Kalshi in talks to raise funds at $40 billion valuation: FT
 
 **Author:** Danny Park  
 **Published:** 6/25/2026, 2:12:17 AM  
