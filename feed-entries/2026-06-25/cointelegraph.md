@@ -2,16 +2,112 @@
 title: "Cointelegraph - 2026-06-25"
 date: "2026-06-25"
 source: "Cointelegraph"
-count: 6
+count: 13
 ---
 
 # Cointelegraph - 2026-06-25
 
-6 items collected.
+13 items collected.
 
 ---
 
-## 1. Polish crypto exchange Kanga secures MiCA license in Latvia
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph  
+**Published:** 6/25/2026, 1:19:46 PM  
+**Categories:** Latest News, CBDC, BIS, Stablecoin, Central Bank, Donald Trump  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 2. SBI to acquire Bitbank in $289M deal creating Japan's biggest crypto exchange
+
+**Author:** Ezra Reguerra  
+**Published:** 6/25/2026, 1:08:11 PM  
+**Categories:** Latest News, Japan, Asia, Stablecoin, Cryptocurrency Exchange, SBI  
+
+The Japanese financial conglomerate plans to take full control of Bitbank as it expands an ecosystem spanning crypto trading, stablecoins, tokenization and blockchain infrastructure.
+
+📖 [Read original article](https://cointelegraph.com/news/sbi-acquire-bitbank-289-million-deal?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 3. About 60% of World Cup bettors on Polymarket are first-time crypto users
+
+**Author:** Zoltan Vardai  
+**Published:** 6/25/2026, 1:00:00 PM  
+**Categories:** Latest News, Prediction Markets, Sport, Adoption, Kalshi, Polymarket  
+
+Polymarket emerged as an onboarding layer for about 60% of World Cup bettors, who interacted with the blockchain for the first time during their prediction market entry.
+
+📖 [Read original article](https://cointelegraph.com/news/polymarket-first-crypto-touchpoint-world-cup-bettors?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 4. Spark migrates $150M in stablecoin to Uniswap to advance shared liquidity
+
+**Author:** Ezra Reguerra  
+**Published:** 6/25/2026, 1:00:00 PM  
+**Categories:** Latest News, Stablecoin, DeFi, Uniswap, DEX, Liquidity  
+
+Spark deployed approximately $150 million across two Uniswap v4 pools on Ethereum, while its DualPool hook and Shared Liquidity Layer are planned for later phases.
+
+📖 [Read original article](https://cointelegraph.com/news/spark-deploys-150m-stablecoin-liquidity-uniswap-v4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 5. Binance faces EU service limits next week as MiCA rules take effect
+
+**Author:** Helen Partz  
+**Published:** 6/25/2026, 12:21:00 PM  
+**Categories:** Latest News, Binance, MiCA, Cryptocurrency Exchange, European Union  
+
+Binance will limit EU onboarding and services from July 1 under MiCA rules after failing to gain authorization from a member state, while withdrawals remain available for users.
+
+📖 [Read original article](https://cointelegraph.com/news/binance-eu-service-limits-july-1-mica-effect?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 6. Circle, Nomura eye Japan corporate FX with stablecoin settlement: Report
+
+**Author:** Zoltan Vardai  
+**Published:** 6/25/2026, 11:42:52 AM  
+**Categories:** Latest News, FX, Japan, Stablecoin, Circle, Banks, Payments, Law, Adoption  
+
+Circle and Nomura are reportedly partnering to enable stablecoin-based foreign exchange settlement for Japanese companies as the country's regulated blockchain-based financial infrastructure expands.
+
+📖 [Read original article](https://cointelegraph.com/news/circle-nomura-partner-instant-fx-settlement-business?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 7. Iran-linked entities moved $3.8B through CoinEx, TRM says
+
+**Author:** Zoltan Vardai  
+**Published:** 6/25/2026, 9:44:14 AM  
+**Categories:** Latest News, Iran, United States, Sanctions, Cryptocurrency Exchange, Transactions, Investigation  
+
+TRM Labs traced $3.8 billion moved by 60 sanctioned Iranian entities through CoinEx and said that the exchange’s 8% share of illicit transactions was substantially higher than its counterparts.
+
+📖 [Read original article](https://cointelegraph.com/news/iran-entities-moved-38-billion-coinex?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 8. Indonesia sets certification rules for influencers recommending crypto
+
+**Author:** Ezra Reguerra  
+**Published:** 6/25/2026, 8:44:15 AM  
+**Categories:** Latest News, Indonesia, Asia, Policy, Social Media  
+
+Indonesia’s financial regulator will require influencers recommending crypto and other digital assets to hold relevant certifications as regulators worldwide tighten oversight of finfluencers.
+
+📖 [Read original article](https://cointelegraph.com/news/indonesia-certification-rules-influencers-recommending-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 9. Polish crypto exchange Kanga secures MiCA license in Latvia
 
 **Author:** Helen Partz  
 **Published:** 6/25/2026, 8:24:41 AM  
@@ -23,7 +119,7 @@ Poland-founded crypto exchange Kanga has secured a Class 3 MiCA license in Latvi
 
 ---
 
-## 2. US arbitration giant rolls out ‘legal layer’ for agentic commerce
+## 10. US arbitration giant rolls out ‘legal layer’ for agentic commerce
 
 **Author:** Martin Young  
 **Published:** 6/25/2026, 6:26:29 AM  
@@ -35,7 +131,7 @@ As agentic AI transactions increase, “we need to know there’s a clear answer
 
 ---
 
-## 3. House Democrats seek SEC answers on AI investment advisers
+## 11. House Democrats seek SEC answers on AI investment advisers
 
 **Author:** Jesse Coghlan  
 **Published:** 6/25/2026, 5:47:21 AM  
@@ -47,19 +143,7 @@ House Democrats have questioned the SEC over trading platforms offering AI agent
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 6/25/2026, 5:16:56 AM  
-**Categories:** Latest News, CBDC, BIS, Stablecoin, Central Bank, Donald Trump  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 5. Abracadabra takes emergency action as MIM stablecoin depeg worsens
+## 12. Abracadabra takes emergency action as MIM stablecoin depeg worsens
 
 **Author:** Martin Young  
 **Published:** 6/25/2026, 3:22:05 AM  
@@ -71,7 +155,7 @@ The protocol is raising interest rates across all Cauldrons to encourage debt re
 
 ---
 
-## 6. Kalshi seeks funding at $40B valuation, nearly doubling last raise: FT
+## 13. Kalshi seeks funding at $40B valuation, nearly doubling last raise: FT
 
 **Author:** Felix Ng  
 **Published:** 6/25/2026, 2:23:39 AM  
