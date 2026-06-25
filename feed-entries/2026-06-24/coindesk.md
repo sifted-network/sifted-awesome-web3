@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-06-24"
 date: "2026-06-24"
 source: "CoinDesk"
-count: 24
+count: 25
 ---
 
 # CoinDesk - 2026-06-24
 
-24 items collected.
+25 items collected.
 
 ---
 
-## 1. Binance withdraws Greek MiCA bid but vows to remain in Europe
+## 1. Upheaval at the Ethereum Foundation has some of crypto’s biggest names feeling bullish
+
+**Author:** Margaux Nijkerk  
+**Published:** 6/24/2026, 7:52:39 PM  
+**Categories:** Tech, Ethereum News, News  
+
+In this week's edition of The Protocol Newsletter, we're looking at Ethereum's eventful week that started off with the launch of EthLabs, plus the layoffs at the Ethereum Foundation, and what this all means for the network.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish)
+
+---
+
+## 2. Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket
+
+**Author:** Helene Braun  
+**Published:** 6/24/2026, 7:48:23 PM  
+**Categories:** Finance, Prediction Markets, Kalshi, News  
+
+The prediction market operator, which is eyeing a potential public debut in 2027, could close a new funding round in Q3, according to a Financial Times report.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket)
+
+---
+
+## 3. Binance withdraws Greek MiCA bid but vows to remain in Europe
 
 **Author:** Olivier Acuna  
 **Published:** 6/24/2026, 5:18:08 PM  
@@ -23,7 +47,7 @@ The crypto giant must find a home base in the EU by July 1 or regulators will fo
 
 ---
 
-## 2. Bitcoin falls below $60,000 as AI trade continues to draw investor interest and capital
+## 4. Bitcoin falls below $60,000 as AI trade continues to draw investor interest and capital
 
 **Author:** Helene Braun  
 **Published:** 6/24/2026, 4:01:02 PM  
@@ -35,7 +59,7 @@ South Korean memory chip giant on Wednesday filed to raise nearly $30 billion in
 
 ---
 
-## 3. Crypto Long & Short: Infrastructure is the prevailing currency in digital assets
+## 5. Crypto Long & Short: Infrastructure is the prevailing currency in digital assets
 
 **Author:** Caue Teixeira  
 **Published:** 6/24/2026, 4:00:00 PM  
@@ -47,7 +71,7 @@ In this week's Crypto Long & Short, Nonco’s Caue Teixeira makes the case that 
 
 ---
 
-## 4. SecondFi loses $2.4 million in Cardano wallet exploit
+## 6. SecondFi loses $2.4 million in Cardano wallet exploit
 
 **Author:** Oliver Knight  
 **Published:** 6/24/2026, 3:45:42 PM  
@@ -59,7 +83,7 @@ SecondFi was hit by three separate attacks exploiting a flaw in its wallet gener
 
 ---
 
-## 5. Trump's refusal to sign housing bill could delay Congress and imperil Clarity Act
+## 7. Trump's refusal to sign housing bill could delay Congress and imperil Clarity Act
 
 **Author:** Jesse Hamilton  
 **Published:** 6/24/2026, 3:42:51 PM  
@@ -71,7 +95,7 @@ As Congress prepared to celebrate the president's signing of the bipartisan hous
 
 ---
 
-## 6. Ex-FCA policy insider explains the ‘great divide’ in the UK’s crypto ambition
+## 8. Ex-FCA policy insider explains the ‘great divide’ in the UK’s crypto ambition
 
 **Author:** Olivier Acuna  
 **Published:** 6/24/2026, 3:23:07 PM  
@@ -83,7 +107,7 @@ Former FCA policymaker and Hedera Global Policy VP, Isadora Arredondo says there
 
 ---
 
-## 7. Bitcoin just broke below the floor of its famous Rainbow Chart into the ‘BTC is dead’ zone
+## 9. Bitcoin just broke below the floor of its famous Rainbow Chart into the ‘BTC is dead’ zone
 
 **Author:** Olivier Acuna  
 **Published:** 6/24/2026, 2:47:55 PM  
@@ -95,7 +119,7 @@ A 50% drop from recent highs has pushed the asset into a zone historically label
 
 ---
 
-## 8. The banking lobby is wrong about stablecoins and community banks
+## 10. The banking lobby is wrong about stablecoins and community banks
 
 **Author:** Ryne Saxe  
 **Published:** 6/24/2026, 2:47:30 PM  
@@ -107,7 +131,7 @@ Congress should not kneecap one of the clearest advances in payment infrastructu
 
 ---
 
-## 9. Gold, silver and bitcoin tumble as 'debasement' trade unwinds
+## 11. Gold, silver and bitcoin tumble as 'debasement' trade unwinds
 
 **Author:** James Van Straten  
 **Published:** 6/24/2026, 1:48:04 PM  
@@ -119,7 +143,7 @@ Precious metals have fallen sharply from their 2025 highs as markets price in Fe
 
 ---
 
-## 10. Bitcoin could fall to $55,000 before finding a bottom, 10x Research says
+## 12. Bitcoin could fall to $55,000 before finding a bottom, 10x Research says
 
 **Author:** Krisztian Sandor  
 **Published:** 6/24/2026, 1:42:31 PM  
@@ -131,7 +155,7 @@ A strengthening U.S. dollar and the Fed's hawkish turn under new chair Kevin War
 
 ---
 
-## 11. CoinDesk 20 performance update: Aave (AAVE) gains 5.9% as index moves higher
+## 13. CoinDesk 20 performance update: Aave (AAVE) gains 5.9% as index moves higher
 
 **Author:** CoinDesk Indices  
 **Published:** 6/24/2026, 1:19:59 PM  
@@ -143,7 +167,7 @@ Internet Computer (ICP), up 2% from Tuesday, joined Aave (AAVE) as a top perform
 
 ---
 
-## 12. CZ, Binance founder, wants to clear up 'misunderstandings' about who he is
+## 14. CZ, Binance founder, wants to clear up 'misunderstandings' about who he is
 
 **Author:** Nikhilesh De  
 **Published:** 6/24/2026, 1:00:00 PM  
@@ -155,7 +179,7 @@ The former CEO of the world's largest crypto exchange is seeking to redefine him
 
 ---
 
-## 13. Aave could soar to $3,500 by 2030 on DeFi revival, says StanChart
+## 15. Aave could soar to $3,500 by 2030 on DeFi revival, says StanChart
 
 **Author:** Will Canny,AI Boost  
 **Published:** 6/24/2026, 12:48:10 PM  
@@ -167,7 +191,7 @@ Geoff Kendrick said Aave has moved past April's cyberattack-related market disru
 
 ---
 
-## 14. This forgotten coin could surprise everyone before its next halving
+## 16. This forgotten coin could surprise everyone before its next halving
 
 **Author:** Omkar Godbole  
 **Published:** 6/24/2026, 11:36:13 AM  
@@ -179,7 +203,7 @@ Your day-ahead look for June 24, 2026
 
 ---
 
-## 15. Bitcoin clings to $62,500 as bears tighten grip on crypto market
+## 17. Bitcoin clings to $62,500 as bears tighten grip on crypto market
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 6/24/2026, 11:04:37 AM  
@@ -191,7 +215,7 @@ Bitcoin held above $62,500 and ether near $1,665, but sluggish price action and 
 
 ---
 
-## 16. YZi Labs ends proxy war with BNB treasury company CEA Industries
+## 18. YZi Labs ends proxy war with BNB treasury company CEA Industries
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 6/24/2026, 10:47:12 AM  
@@ -203,7 +227,7 @@ Partner Alex Odagiu will serve as an interim president, pending a search for a n
 
 ---
 
-## 17. Cboe revives S&P 500 binary options, chasing a market popularized by Polymarket, Kalshi
+## 19. Cboe revives S&P 500 binary options, chasing a market popularized by Polymarket, Kalshi
 
 **Author:** Shaurya Malwa  
 **Published:** 6/24/2026, 10:38:48 AM  
@@ -215,7 +239,7 @@ One of the largest U.S. derivatives exchanges is bringing back yes/no bets on th
 
 ---
 
-## 18. The Runes revival: Bitcoin traffic hits a two-year high as transactions blast past 820,000
+## 20. The Runes revival: Bitcoin traffic hits a two-year high as transactions blast past 820,000
 
 **Author:** James Van Straten  
 **Published:** 6/24/2026, 9:47:58 AM  
@@ -227,7 +251,7 @@ A surge in Rune protocol activity is pushing Bitcoin transaction counts and fee 
 
 ---
 
-## 19. Michael Saylor should halt Strategy's bitcoin buys, says CryptoQuant
+## 21. Michael Saylor should halt Strategy's bitcoin buys, says CryptoQuant
 
 **Author:** Shaurya Malwa  
 **Published:** 6/24/2026, 8:15:18 AM  
@@ -239,7 +263,7 @@ CryptoQuant says the cash cushion behind Strategy's STRC has thinned from seven 
 
 ---
 
-## 20. Trump lands in Senate's crosshairs over $500 million UAE investment in his crypto venture
+## 22. Trump lands in Senate's crosshairs over $500 million UAE investment in his crypto venture
 
 **Author:** Omkar Godbole  
 **Published:** 6/24/2026, 7:18:21 AM  
@@ -251,7 +275,7 @@ Senate Democrats call for hearings into whether a $500 million investment by UAE
 
 ---
 
-## 21. Bitcoin OGs aren't selling as aggressively as they did above $100,000
+## 23. Bitcoin OGs aren't selling as aggressively as they did above $100,000
 
 **Author:** Omkar Godbole  
 **Published:** 6/24/2026, 6:39:41 AM  
@@ -263,19 +287,19 @@ Bitcoin "OGs" have slashed their selling activity to the lowest levels in nearly
 
 ---
 
-## 22. Live markets: Bitcoin falls back to $59,000 as Strategy's common and preferred stocks tumble
+## 24. Live markets: Bitcoin claws back some of the losses after Micron beats earnings
 
-**Author:** Shaurya Malwa,Omkar Godbole,Helene Braun,James Van Straten  
+**Author:** Shaurya Malwa,Omkar Godbole,Helene Braun,James Van Straten,Krisztian Sandor  
 **Published:** 6/24/2026, 5:13:27 AM  
 **Categories:** Tech, Live News, live_news  
 
-Trading firm Wintermute's options desk puts bitcoin in a $61,242 to $63,563 range for Tuesday, with correlation rising across tokens and no fresh ETF bid in sight.
+Battered crypto sector gets some relief after Micron beats earnings, bringing back some risk appetite to the market.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/06/24/live-markets-bitcoin-could-drop-to-usd59-000-in-the-short-term-as-liquidaity-dries-up)
 
 ---
 
-## 23. Bitcoin drops toward $62,000 as the chip selloff deepens for a second day
+## 25. Bitcoin drops toward $62,000 as the chip selloff deepens for a second day
 
 **Author:** Shaurya Malwa  
 **Published:** 6/24/2026, 4:33:03 AM  
@@ -284,17 +308,5 @@ Trading firm Wintermute's options desk puts bitcoin in a $61,242 to $63,563 rang
 A renewed rout in semiconductor stocks pulled risk assets lower again, and crypto kept sliding. Bitcoin is down 5% on the week, with ether and the memecoins falling harder.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/24/bitcoin-drops-toward-usd62-000-as-the-chip-selloff-deepens-for-a-second-day)
-
----
-
-## 24. Crypto PAC's $5.5 million Congress pick gets Maryland win, more crypto allies advance
-
-**Author:** Jesse Hamilton  
-**Published:** 6/24/2026, 3:00:34 AM  
-**Categories:** Policy, Election 2026, News  
-
-The Fairshake super PAC supported Adrian Boafo in Maryland, plus other candidates in Maryland, New York and Utah as each ran its primary elections.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/23/crypto-pac-s-usd5-5-million-congress-pick-gets-maryland-win-more-crypto-allies-advance)
 
 ---
