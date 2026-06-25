@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-24"
 date: "2026-06-24"
 source: "The Block"
-count: 19
+count: 15
 ---
 
 # The Block - 2026-06-24
 
-19 items collected.
+15 items collected.
 
 ---
 
@@ -188,53 +188,5 @@ Black Lake and Nuva Labs completed the onchain minting of $25 million in mortgag
 Bitcoin sits roughly 50% below its $126,000 peak in October 2025 as 21Shares points to a $100,000 base-case recovery by year-end.
 
 📖 [Read original article](https://www.theblock.co/post/405960/21shares-says-bitcoins-post-halving-price-action-still-looks-familiar-but-sees-recovery-toward-100000-by-year-end?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. SBI Group launches Japan’s first trust bank-backed stablecoin JPYSC
-
-**Author:** Danny Park  
-**Published:** 6/24/2026, 9:39:22 AM  
-**Categories:** Crypto Ecosystems, DeFi, The Block  
-
-JPYSC's availability will be limited to SBI VC Trade accounts, until regulatory and tax treatment of the stablecoin is clarified.
-
-📖 [Read original article](https://www.theblock.co/post/405952/japan-sbi-group-launches-jpysc?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Law enforcement groups warn Clarity Act could hinder crypto crime investigations
-
-**Author:** Timmy Shen  
-**Published:** 6/24/2026, 9:10:44 AM  
-**Categories:** Policy, Regulation, The Block, U.S. Policymaking, Congress  
-
-A provision in the Clarity Act could make it harder for law enforcement to investigate illicit crypto activity, the groups said.
-
-📖 [Read original article](https://www.theblock.co/post/405945/law-enforcement-groups-warn-clarity-act?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. Mark Cuban, Dallas Mavericks face appeal over dismissed Voyager crypto case
-
-**Author:** Brian Danga  
-**Published:** 6/24/2026, 8:43:11 AM  
-**Categories:** Legal, Policy, Regulation, The Block, Lawsuits  
-
-Voyager investors appealed the dismissal of their claims against Mark Cuban and the Dallas Mavericks to the Eleventh Circuit.
-
-📖 [Read original article](https://www.theblock.co/post/405937/mark-cuban-dallas-mavericks-face-appeal-over-dismissed-voyager-crypto-case?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. Cboe launches prediction market suite with binary option contracts on S&P 500
-
-**Author:** Danny Park  
-**Published:** 6/24/2026, 6:37:28 AM  
-**Categories:** Markets, The Block  
-
-The contracts are currently available on Interactive Brokers and are expected to launch on Charles Schwab in the coming months.
-
-📖 [Read original article](https://www.theblock.co/post/405930/cboe-launches-prediction-market-suite?utm_source=rss&utm_medium=rss)
 
 ---
