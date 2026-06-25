@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-24"
 date: "2026-06-24"
 source: "Cointelegraph"
-count: 17
+count: 8
 ---
 
 # Cointelegraph - 2026-06-24
 
-17 items collected.
+8 items collected.
 
 ---
 
@@ -104,113 +104,5 @@ A $525 million Bitcoin buy wall intersects with a major liquidation zone, creati
 A new pilot from Stablecore, Circuit and Curql gives participating US credit unions access to test stablecoin payments and other digital asset services.
 
 📖 [Read original article](https://cointelegraph.com/news/credit-unions-join-stablecoin-infrastructure-program?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 9. Binance withdraws Greece-filed MiCA application
-
-**Author:** Ezra Reguerra  
-**Published:** 6/24/2026, 3:47:05 PM  
-**Categories:** Latest News, Binance, European Union, Europe, MiCA, Policy  
-
-Binance said it plans to seek authorization in another EU jurisdiction just days ahead of the July 1 MiCA deadline, as unlicensed crypto firms are expected to wind down activities in the bloc.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 10. Trump cancels signing of housing bill with CBDC ban
-
-**Author:** Turner Wright  
-**Published:** 6/24/2026, 3:18:07 PM  
-**Categories:** Latest News, Donald Trump, Congress, Law, Politics, CBDC  
-
-The 21st Century ROAD to Housing Act included a provision that the US Federal Reserve was barred from issuing or creating a CBDC until 2030, but exempted certain stablecoins.
-
-📖 [Read original article](https://cointelegraph.com/news/donald-trump-cancels-signing-housing-bill-cbdc-ban?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 11. The Impossibility of Perfect Fairness in Transaction Ordering
-
-**Author:** Kyrian Alex  
-**Published:** 6/24/2026, 3:00:00 PM  
-**Categories:** Research, Transactions  
-
-Why perfect fairness cannot hold in asynchronous networks, and how different blockchains adopt different relaxations to fairness.
-
-📖 [Read original article](https://cointelegraph.com/research/the-impossibility-of-perfect-fairness-in-transaction-ordering?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 12. How memecoin marketing moved from online speculation to real-world risk
-
-**Author:** Dilip Kumar Patairya  
-**Published:** 6/24/2026, 2:30:00 PM  
-**Categories:** Learn, Memecoin, Solana  
-
-From alcohol dares to head-shaving challenges, memecoin campaigns are turning engagement into exploitation.
-
-📖 [Read original article](https://cointelegraph.com/learn/pump-fun-go-bounty-memecoin-risks?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 13. DeFi TVL drops 39% in 2026 amid market downturn and record hack activity
-
-**Author:** Zoltan Vardai  
-**Published:** 6/24/2026, 2:14:39 PM  
-**Categories:** Latest News, DeFi, Cryptocurrencies, Hacks, Cryptocurrency Investment, Cybersecurity, Analysis  
-
-DeFi TVL fell 39% in 2026 as a broader market downturn and fallout from major exploits, including the Kelp DAO hack, weighed on the sector.
-
-📖 [Read original article](https://cointelegraph.com/news/defi-tvl-falls-39-2026-erases-45b-value?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 14. SecondFi traces Cardano wallet exploit to address-level issue
-
-**Author:** Helen Partz  
-**Published:** 6/24/2026, 12:38:43 PM  
-**Categories:** Latest News, Cardano, Wallet, Hacks, Hackers, Private Keys  
-
-Cardano wallet SecondFi traced the incident to an address-level issue and secured 129 million ADA after attackers drained funds from 374 addresses.
-
-📖 [Read original article](https://cointelegraph.com/news/cardano-wallet-secondfi-flaw-16-million-ada-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 15. CBOE debuts prediction market with S&P 500 contracts
-
-**Author:** Zoltan Vardai  
-**Published:** 6/24/2026, 12:01:43 PM  
-**Categories:** Latest News, CBOE, Prediction Markets, Wall Street, Predictions, S&P 500  
-
-Cboe launched its first prediction market product tied to the S&P 500 index, citing a growing investor demand for binary options contracts.
-
-📖 [Read original article](https://cointelegraph.com/news/cboe-debuts-prediction-market-sp-500-contracts?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 16. CryptoQuant warns on Strategy's dividend coverage as cash reserve falls 38%
-
-**Author:** Zoltan Vardai  
-**Published:** 6/24/2026, 11:34:40 AM  
-**Categories:** Latest News, Michael Saylor, MicroStrategy, Bitcoin Adoption, Bitcoin Price, Stocks  
-
-Strategy's cash reserves are now enough to pay only 14 months of dividends from the previous seven-year level. CryptoQuant said the company should pause Bitcoin purchases and rebuild its reserves.
-
-📖 [Read original article](https://cointelegraph.com/news/strategys-dividend-coverage-falls-14-months-cryptoquant?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 17. Aave positioned to capture tokenized asset growth in DeFi: Standard Chartered
-
-**Author:** Ezra Reguerra  
-**Published:** 6/24/2026, 11:21:01 AM  
-**Categories:** Latest News, DeFi, RWA Tokenization, Tokenization, Standard Chartered, Lending, Aave  
-
-Standard Chartered said tokenized assets moving into DeFi could drive deposits into Aave and help the protocol rebuild its position as a dominant onchain lending platform.
-
-📖 [Read original article](https://cointelegraph.com/news/standard-chartered-aave-tokenized-assets-defi-lending?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
