@@ -11,7 +11,31 @@ count: 19
 
 ---
 
-## 1. Pump.fun offers up to $5 million salary for chief legal officer role
+## 1. Bitcoin miners face deepening margin squeeze as revenue falls below production costs
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 6/24/2026, 9:41:02 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Infrastructure, The Block, Mining, Mining Companies  
+
+An estimated 20% of miners are now unprofitable at current prices, and the stress shows up at the network level, too.
+
+📖 [Read original article](https://www.theblock.co/post/405858/bitcoin-miners-face-deepening-margin-squeeze-as-revenue-falls-below-production-costs?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Who gets a direct line to the Fed? Congress weighs risks of Fed ‘skinny accounts’ for crypto and fintech firms
+
+**Author:** Sarah Wynn  
+**Published:** 6/24/2026, 7:30:55 PM  
+**Categories:** Central Banks, Policy, Regulation, The Block, Federal Reserve  
+
+As the Fed considers granting firms access to "skinny" accounts, lawmakers debated how much access those companies should have.
+
+📖 [Read original article](https://www.theblock.co/post/406050/who-gets-direct-line-to-fed-congress-weighs-risks-fed-skinny-accounts-crypto-fintech-firms?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Pump.fun offers up to $5 million salary for chief legal officer role
 
 **Author:** Kyle Baird  
 **Published:** 6/24/2026, 6:42:10 PM  
@@ -23,7 +47,7 @@ The position covers everything from SEC oversight to MiCA rules and U.K. regulat
 
 ---
 
-## 2. Superstate co-founder raises $3.6 million pre-seed for Ground to help fintechs access onchain yield
+## 4. Superstate co-founder raises $3.6 million pre-seed for Ground to help fintechs access onchain yield
 
 **Author:** Yogita Khatri  
 **Published:** 6/24/2026, 6:28:02 PM  
@@ -35,7 +59,7 @@ Ground has raised $3.6 million in a pre-seed funding round co-led by Bain Capita
 
 ---
 
-## 3. a16z CSX-backed Cambrian raises $6 million seed to build blockchain data oracle network
+## 5. a16z CSX-backed Cambrian raises $6 million seed to build blockchain data oracle network
 
 **Author:** Yogita Khatri  
 **Published:** 6/24/2026, 5:00:02 PM  
@@ -47,7 +71,7 @@ Cambrian, a startup building blockchain data infrastructure for institutions and
 
 ---
 
-## 4. Prediction market polls find US voters prefer federal rules over state patchwork
+## 6. Prediction market polls find US voters prefer federal rules over state patchwork
 
 **Author:** Kyle Baird  
 **Published:** 6/24/2026, 4:40:35 PM  
@@ -59,7 +83,7 @@ The CFTC has been locked in a tug-of-war with states over who has the ultimate a
 
 ---
 
-## 5. Binance co-CEO remains ‘committed’ to securing EU license after exchange withdraws Greece bid
+## 7. Binance co-CEO remains ‘committed’ to securing EU license after exchange withdraws Greece bid
 
 **Author:** RT Watson  
 **Published:** 6/24/2026, 4:12:29 PM  
@@ -71,7 +95,7 @@ The world's largest crypto exchange only has one week to secure a license in leg
 
 ---
 
-## 6. Sports-based prediction markets app Onyx Odds raises $20 million in round led by Kraken parent Payward
+## 8. Sports-based prediction markets app Onyx Odds raises $20 million in round led by Kraken parent Payward
 
 **Author:** RT Watson  
 **Published:** 6/24/2026, 3:37:28 PM  
@@ -83,7 +107,7 @@ The app will face stiff competition in the prediction markets space, competing w
 
 ---
 
-## 7. World Cup boom sends Polymarket volume up 300% while Kalshi sets open interest records
+## 9. World Cup boom sends Polymarket volume up 300% while Kalshi sets open interest records
 
 **Author:** Ivan Wu and Bryan Samsoedin  
 **Published:** 6/24/2026, 3:36:02 PM  
@@ -95,7 +119,7 @@ Kalshi's aggregated OI reached a record $1.16 billion last week, the first time 
 
 ---
 
-## 8. Kalshi sues Illinois, Pritzker over state bill implementing prediction markets regulatory regime
+## 10. Kalshi sues Illinois, Pritzker over state bill implementing prediction markets regulatory regime
 
 **Author:** Sarah Wynn  
 **Published:** 6/24/2026, 2:41:19 PM  
@@ -107,7 +131,7 @@ Kalshi is taking the state of Illinois to court over its new law that establishe
 
 ---
 
-## 9. Standard Chartered sees ‘generational wealth’ in potential Aave recovery, predicts 50x upside by 2030
+## 11. Standard Chartered sees ‘generational wealth’ in potential Aave recovery, predicts 50x upside by 2030
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/24/2026, 2:37:51 PM  
@@ -119,7 +143,7 @@ Standard Chartered says Aave could reach $3,500 by end of 2030, a 50x gain based
 
 ---
 
-## 10. Bitcoin ETP outflows push rolling one-year flows negative for first time since 2023: K33
+## 12. Bitcoin ETP outflows push rolling one-year flows negative for first time since 2023: K33
 
 **Author:** James Hunt  
 **Published:** 6/24/2026, 2:04:30 PM  
@@ -131,7 +155,7 @@ Bitcoin ETP holdings are down 8% from their peak, the largest drawdown on record
 
 ---
 
-## 11. Kraken-incubated Ink upgrades to Optimism’s OP Enterprise Fully Managed in multi-year infrastructure deal
+## 13. Kraken-incubated Ink upgrades to Optimism’s OP Enterprise Fully Managed in multi-year infrastructure deal
 
 **Author:** James Hunt  
 **Published:** 6/24/2026, 1:35:01 PM  
@@ -143,7 +167,7 @@ Optimism will run Ink's production infrastructure while the Ink Foundation focus
 
 ---
 
-## 12. Black Lake, Nuva Labs tokenize $25 million in mortgage loans on Provenance in RWA push
+## 14. Black Lake, Nuva Labs tokenize $25 million in mortgage loans on Provenance in RWA push
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/24/2026, 1:00:02 PM  
@@ -155,7 +179,7 @@ Black Lake and Nuva Labs completed the onchain minting of $25 million in mortgag
 
 ---
 
-## 13. 21Shares says bitcoin’s post-halving price action ‘still looks familiar,’ but sees recovery toward $100,000 by year-end
+## 15. 21Shares says bitcoin’s post-halving price action ‘still looks familiar,’ but sees recovery toward $100,000 by year-end
 
 **Author:** Brian Danga  
 **Published:** 6/24/2026, 11:38:27 AM  
@@ -167,7 +191,7 @@ Bitcoin sits roughly 50% below its $126,000 peak in October 2025 as 21Shares poi
 
 ---
 
-## 14. SBI Group launches Japan’s first trust bank-backed stablecoin JPYSC
+## 16. SBI Group launches Japan’s first trust bank-backed stablecoin JPYSC
 
 **Author:** Danny Park  
 **Published:** 6/24/2026, 9:39:22 AM  
@@ -179,7 +203,7 @@ JPYSC's availability will be limited to SBI VC Trade accounts, until regulatory 
 
 ---
 
-## 15. Law enforcement groups warn Clarity Act could hinder crypto crime investigations
+## 17. Law enforcement groups warn Clarity Act could hinder crypto crime investigations
 
 **Author:** Timmy Shen  
 **Published:** 6/24/2026, 9:10:44 AM  
@@ -191,7 +215,7 @@ A provision in the Clarity Act could make it harder for law enforcement to inves
 
 ---
 
-## 16. Mark Cuban, Dallas Mavericks face appeal over dismissed Voyager crypto case
+## 18. Mark Cuban, Dallas Mavericks face appeal over dismissed Voyager crypto case
 
 **Author:** Brian Danga  
 **Published:** 6/24/2026, 8:43:11 AM  
@@ -203,7 +227,7 @@ Voyager investors appealed the dismissal of their claims against Mark Cuban and 
 
 ---
 
-## 17. Cboe launches prediction market suite with binary option contracts on S&P 500
+## 19. Cboe launches prediction market suite with binary option contracts on S&P 500
 
 **Author:** Danny Park  
 **Published:** 6/24/2026, 6:37:28 AM  
@@ -212,29 +236,5 @@ Voyager investors appealed the dismissal of their claims against Mark Cuban and 
 The contracts are currently available on Interactive Brokers and are expected to launch on Charles Schwab in the coming months.
 
 📖 [Read original article](https://www.theblock.co/post/405930/cboe-launches-prediction-market-suite?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. CEA Industries ends proxy fight with YZi Labs, adds Ella Zhang as board director
-
-**Author:** Danny Park  
-**Published:** 6/24/2026, 3:44:25 AM  
-**Categories:** Deals, The Block  
-
-BNB treasury firm CEA Industries has entered a cooperation agreement with YZi Labs, ending months-long governance disputes.
-
-📖 [Read original article](https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. Crypto PAC-backed Adrian Boafo secures victory in Maryland Democratic primary
-
-**Author:** Timmy Shen  
-**Published:** 6/24/2026, 3:18:30 AM  
-**Categories:** Policy, Regulation, The Block  
-
-Boafo received substantial backing from Protect Progress, a super PAC associated with Fairshake, according to FEC filings.
-
-📖 [Read original article](https://www.theblock.co/post/405921/adrian-boafo-wins-maryland-democratic-primary?utm_source=rss&utm_medium=rss)
 
 ---
