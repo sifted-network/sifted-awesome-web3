@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-25"
 date: "2026-06-25"
 source: "CoinDesk"
-count: 25
+count: 20
 ---
 
 # CoinDesk - 2026-06-25
 
-25 items collected.
+20 items collected.
 
 ---
 
@@ -248,65 +248,5 @@ A relief rally tied to recovering U.S. equities lifted BTC and ETH off weekly lo
 Almost 11 million bitcoin are now held at a loss, while long-term holders control a record 14.8 million coins.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/bitcoin-supply-in-loss-reaches-record-high-10-83-million-btc)
-
----
-
-## 21. Micron delivers blowout earnings, surges 16% and deals crypto bulls a blow
-
-**Author:** James Van Straten  
-**Published:** 6/25/2026, 10:01:54 AM  
-**Categories:** Markets, Bitcoin News, Artificial Intelligence, News  
-
-Micron Technology surged after blockbuster earnings and strong guidance, lifting AI memory stocks.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/micron-delivers-blowout-earnings-surges-16-and-deals-crypto-bulls-a-blow)
-
----
-
-## 22. Forget max pain theory. Bitcoin is well below the $72,000 magnet going into $10 billion options expiry
-
-**Author:** Omkar Godbole  
-**Published:** 6/25/2026, 7:24:59 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-The popular max pain theory isn’t working out as bitcoin trades far from the $72K level a day ahead of a $10 billion quarterly options settlement.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/forget-max-pain-bitcoin-is-well-below-the-usd72-000-magnet-ahead-of-usd10-billion-options-expiry)
-
----
-
-## 23. Live markets: Bitcoin settles in under $60,000
-
-**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Helene Braun  
-**Published:** 6/25/2026, 6:01:07 AM  
-**Categories:** Tech, Live News, live_news  
-
-Strategy's common stock hit a multi-year low, while its STRC preferred stock plunged to a new record low.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/25/live-markets-bitcoin-ether-lead-usd1-billion-liquidation-losses-as-ai-trade-keeps-going)
-
----
-
-## 24. MemeCore's M token suddenly crashes 80% with no clear trigger
-
-**Author:** Shaurya Malwa  
-**Published:** 6/25/2026, 5:35:43 AM  
-**Categories:** Markets, News  
-
-The token fell from nearly $3 to about $0.50 in hours, wiping out close to $3 billion in market value, with no exploit or announcement to explain it. Onchain investigator ZachXBT warned in April that M's price had been propped up by insiders.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/memecore-s-m-token-suddenly-crashes-80-with-no-clear-trigger)
-
----
-
-## 25. Ripple's RLUSD stablecoin goes live in Japan after regulatory approval
-
-**Author:** Shaurya Malwa  
-**Published:** 6/25/2026, 5:02:34 AM  
-**Categories:** Markets, News  
-
-Japan's financial regulator cleared the U.S. dollar-backed token as a new category of payment instrument, letting SBI VC Trade offer it to institutions and retail. RLUSD remains small, at about $1.7 billion.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/ripple-s-rlusd-stablecoin-goes-live-in-japan-after-regulatory-approval)
 
 ---
