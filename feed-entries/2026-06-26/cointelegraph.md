@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-06-26"
 date: "2026-06-26"
 source: "Cointelegraph"
-count: 12
+count: 18
 ---
 
 # Cointelegraph - 2026-06-26
 
-12 items collected.
+18 items collected.
 
 ---
 
-## 1. Framework Ventures raises $400M to invest beyond crypto: Report
+## 1. Spain regulator rules out extension for non-MiCA compliant crypto companies
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 6/26/2026, 7:20:33 PM  
+**Categories:** Latest News  
+
+Carlos San Basilio said that “there will be no exceptions ​or extensions” to the MiCA deadline requiring crypto exchanges offering services to EU-based users to be licensed.
+
+📖 [Read original article](https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 6/26/2026, 5:43:33 PM  
+**Categories:** Latest News  
+
+The regulatory agencies are seeking public feedback on cross-margining, collateral and risk management as cryptocurrency derivatives and multi-asset trading continue to expand.
+
+📖 [Read original article](https://cointelegraph.com/news/sec-cftc-portfolio-margin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position
+
+**Author:** Cointelegraph by Yashu Gola  
+**Published:** 6/26/2026, 5:02:33 PM  
+**Categories:** Markets  
+
+Ether’s technical setup points to a potential drop to $1,375, a move that could lift one whale’s unrealized profit to $2.39 million.
+
+📖 [Read original article](https://cointelegraph.com/markets/ethereum-whale-who-shorted-october-2025-crash-returns-with-a-197m-short-eth-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Crypto Biz: The cost of stacking sats
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 6/26/2026, 4:23:34 PM  
+**Categories:** Latest News  
+
+CryptoQuant urged Strategy to pause Bitcoin buying as dividend coverage shrank. Meanwhile, CBOE eyes crypto perpetual futures and Chainlink joins a stablecoin FX project.
+
+📖 [Read original article](https://cointelegraph.com/news/cryptoquant-strategy-bitcoin-cboe-perpetual-futures-chainlink-stablecoin-fx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. US senators push to end CFTC ‘assault’ on state oversight of prediction markets
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 6/26/2026, 4:10:37 PM  
+**Categories:** Latest News  
+
+A group of 17 Democratic senators went after the CFTC’s funding for lawsuits over prediction markets, calling it an “assault” on state authorities.
+
+📖 [Read original article](https://cointelegraph.com/news/us-senators-cftc-assault-state-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 6/26/2026, 3:55:56 PM  
+**Categories:** Markets  
+
+Bitcoin risked turning $60,000 into resistance as BTC price weakness persisted following another tech-driven sell-off in Asian stock markets.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-sees-first-close-below-60k-since-q3-2024-with-tech-stocks-in-deep-bear-market-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Cointelegraph  
+**Published:** 6/26/2026, 2:06:06 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Framework Ventures raises $400M to invest beyond crypto: Report
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/26/2026, 1:58:28 PM  
@@ -23,7 +107,7 @@ Framework Ventures raises $400 million fourth fund as it expands into AI, roboti
 
 ---
 
-## 2. Hyperliquid added to Singapore's Investor Alert List
+## 9. Hyperliquid added to Singapore's Investor Alert List
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/26/2026, 1:11:29 PM  
@@ -35,7 +119,7 @@ Singapore’s financial regulator added Hyperliquid to its Investor Alert List, 
 
 ---
 
-## 3. Australian regulator extends no-action period for crypto licensing
+## 10. Australian regulator extends no-action period for crypto licensing
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/26/2026, 12:14:31 PM  
@@ -47,7 +131,7 @@ Australia’s financial regulator extended temporary enforcement relief for digi
 
 ---
 
-## 4. AscendEX withdrawal complaints mount as ZachXBT questions reserves
+## 11. AscendEX withdrawal complaints mount as ZachXBT questions reserves
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/26/2026, 11:47:02 AM  
@@ -59,7 +143,7 @@ Multiple users reported delayed AscendEX withdrawals after ZachXBT flagged poten
 
 ---
 
-## 5. Bitcoin ETFs post June's biggest daily outflows as BTC falls below $60K
+## 12. Bitcoin ETFs post June's biggest daily outflows as BTC falls below $60K
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/26/2026, 9:36:34 AM  
@@ -71,7 +155,7 @@ US Bitcoin ETFs recorded $696.3 million in outflows as Bitcoin slipped below $60
 
 ---
 
-## 6. Polymarket hit by $2.9M theft, users to be refunded
+## 13. Polymarket hit by $2.9M theft, users to be refunded
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/26/2026, 8:20:37 AM  
@@ -83,19 +167,7 @@ Polymarket said it contained the compromise and removed the affected dependency 
 
 ---
 
-## 7. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 6/26/2026, 6:04:04 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Tether stablecoin flips Ether by market cap as ETH routs to $1.5K
+## 14. Tether stablecoin flips Ether by market cap as ETH routs to $1.5K
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/26/2026, 6:02:01 AM  
@@ -107,7 +179,7 @@ Ether prices are currently back at crucial long-term support levels last visited
 
 ---
 
-## 9. Coinbase's Base resumes block production after 2-hour outage
+## 15. Coinbase's Base resumes block production after 2-hour outage
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/26/2026, 5:10:44 AM  
@@ -119,7 +191,7 @@ Coinbase's blockchain Base says a consensus problem knocked its network offline 
 
 ---
 
-## 10. Sharplink buys ETH after 8-month pause as token hits 2026 low
+## 16. Sharplink buys ETH after 8-month pause as token hits 2026 low
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 6/26/2026, 3:56:08 AM  
@@ -131,7 +203,7 @@ In May, Sharplink CEO Joseph Chalom named three catalysts that could push up the
 
 ---
 
-## 11. StablecoinX bets on Ethena ecosystem with Nasdaq debut
+## 17. StablecoinX bets on Ethena ecosystem with Nasdaq debut
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/26/2026, 3:48:03 AM  
@@ -143,7 +215,7 @@ USDe circulating supply has shrunk by 70% since the October bull market peak, wh
 
 ---
 
-## 12. BitGo cuts 15% of staff to sharpen focus on AI, stablecoins
+## 18. BitGo cuts 15% of staff to sharpen focus on AI, stablecoins
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/26/2026, 12:41:02 AM  
