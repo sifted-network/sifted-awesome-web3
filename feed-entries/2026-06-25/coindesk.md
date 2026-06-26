@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-25"
 date: "2026-06-25"
 source: "CoinDesk"
-count: 20
+count: 13
 ---
 
 # CoinDesk - 2026-06-25
 
-20 items collected.
+13 items collected.
 
 ---
 
@@ -164,89 +164,5 @@ PowerTrade changed Kraken’s positive balance of more than $6 million to a $2 m
 Bitcoin Cash (BCH), up 5.8% from Wednesday, joined Aave (AAVE) as a top performer.
 
 📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/06/25/coindesk-20-performance-update-aave-gains-10-1-as-index-rises)
-
----
-
-## 14. Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry
-
-**Author:** Krisztian Sandor  
-**Published:** 6/25/2026, 1:00:00 PM  
-**Categories:** Finance, DeFi, Stablecoins, News  
-
-The protocols are building shared liquidity and trading infrastructure for a future with hundreds of competing digital currencies on blockchain rails.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry)
-
----
-
-## 15. Post-prison CZ says time behind bars didn't hurt the billionaire's business after Binance
-
-**Author:** Jesse Hamilton  
-**Published:** 6/25/2026, 1:00:00 PM  
-**Categories:** Policy, CZ, Changpeng Zhao, Binance, News  
-
-The pardoned ex-CEO called prison a character-building "plus" as he's pursued a venture-capital career, despite his majority stake in the world's biggest crypto exchange.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/24/post-prison-cz-says-time-behind-bars-didn-t-hurt-the-billionaire-s-business-after-binance)
-
----
-
-## 16. Circle and Nomura join forces to target a $440 billion daily foreign exchange market in Japan
-
-**Author:** Olivier Acuna  
-**Published:** 6/25/2026, 12:29:21 PM  
-**Categories:** Markets, Japan, Circle, Stablecoins, News  
-
-The stablecoin giant and the Japanese financial corporation plan to deploy cross-border foreign exchange settlements as early as next year.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/circle-and-nomura-join-forces-to-target-a-usd750-billion-daily-foreign-exchange-market-in-japan)
-
----
-
-## 17. Bitcoin derivatives signal panic. A weak core PCE reading could trigger snapback.
-
-**Author:** Omkar Godbole  
-**Published:** 6/25/2026, 11:31:02 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for June 25, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/06/25/bitcoin-derivatives-signal-panic-a-weak-core-pce-reading-could-trigger-snapback)
-
----
-
-## 18. CoinEx denies claims it served as $3.84 billion gateway to sanctioned Iranian crypto firms
-
-**Author:** Jamie Crawley,AI Boost  
-**Published:** 6/25/2026, 10:56:58 AM  
-**Categories:** Policy, Iran, News  
-
-Blockchain analysts TRM Labs says CoinEx facilitated more than $3.8 billion in blockchain-traced flows with sanctioned Iranian crypto entities. CoinEx disputes the findings.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/25/coinex-denies-claims-it-served-as-usd3-84-billion-gateway-to-sanctioned-iranian-crypto-firms)
-
----
-
-## 19. Crypto relief rally fails to shake persistent bearish derivatives signal
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 6/25/2026, 10:53:24 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-A relief rally tied to recovering U.S. equities lifted BTC and ETH off weekly lows, but bearish derivatives positioning and negative CVD suggest the rebound may be fragile.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/crypto-relief-rally-fails-to-shake-persistent-bearish-derivatives-signal)
-
----
-
-## 20. Bitcoin supply in loss reaches record high 10.83 million BTC
-
-**Author:** James Van Straten  
-**Published:** 6/25/2026, 10:28:37 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Almost 11 million bitcoin are now held at a loss, while long-term holders control a record 14.8 million coins.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/bitcoin-supply-in-loss-reaches-record-high-10-83-million-btc)
 
 ---
