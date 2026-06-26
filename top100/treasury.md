@@ -17,7 +17,7 @@
 | 9 | [unbounded](https://github.com/w3f/unbounded) | 194 | 11 | - | 5 | Open source, freely available and on-chain funded font. | 2023-04-05 |
 | 10 | [DROP](https://github.com/lakshmiDRIP/DROP) | 139 | 50 | HTML | 849 | Fixed Income Analytics, Portfolio Construction Analytics, Transaction Cost Analytics, Counter Party Analytics, Asset Backed Analytics | 2026-03-01 |
 | 11 | [federal-treasury-api](https://github.com/csvsoundsystem/federal-treasury-api) | 106 | 26 | Python | 22 | The scraper, parser, and database creation scripts for Financial Management Service daily U.S. Treasury statements. | 2018-12-29 |
-| 12 | [us-gov-open-data-mcp](https://github.com/lzinga/us-gov-open-data-mcp) | 103 | 19 | TypeScript | 0 | MCP server + TypeScript SDK for 40+ U.S. government data APIs — 250+ tools. Treasury, FRED, Congress, FDA, CDC, FEC, lobbying, and many more. Works with VS Code Copilot, Claude Desktop, Cursor. | 2026-06-11 |
+| 12 | [us-gov-open-data-mcp](https://github.com/lzinga/us-gov-open-data-mcp) | 103 | 20 | TypeScript | 0 | MCP server + TypeScript SDK for 40+ U.S. government data APIs — 250+ tools. Treasury, FRED, Congress, FDA, CDC, FEC, lobbying, and many more. Works with VS Code Copilot, Claude Desktop, Cursor. | 2026-06-11 |
 | 13 | [conviction-voting-app](https://github.com/1Hive/conviction-voting-app) | 97 | 33 | JavaScript | 12 | Aragon app used to collectively allocate funds from a shared treasury 💧 | 2023-01-24 |
 | 14 | [openleverage-contracts](https://github.com/OpenLeverageDev/openleverage-contracts) | 97 | 41 | JavaScript | 0 | OpenLeverage Smart Contracts, including lending pools, margin trade, treasury, farming pool, DAO-based governance, OLE ERC-20 token, and time-weighted vote escrow xOLE components. | 2024-05-14 |
 | 15 | [issuing-treasury](https://github.com/stripe-samples/issuing-treasury) | 96 | 87 | TypeScript | 1 | Learn the building blocks for working with Stripe Issuing and Treasury APIs. | 2026-05-01 |
@@ -26,14 +26,14 @@
 | 18 | [hydra](https://github.com/GlassEaters/hydra) | 72 | 28 | TypeScript | 12 | Collective account pooling, fan out wallet, dao treasury | 2023-01-13 |
 | 19 | [bitcoin-treasury](https://github.com/block/bitcoin-treasury) | 66 | 20 | TypeScript | 0 |  | 2026-05-08 |
 | 20 | [Treasury](https://github.com/ArcanePlugins/Treasury) | 60 | 15 | Java | 5 | A modern Economy API and more for MC | 2025-10-13 |
-| 21 | [dotNetTreasury](https://github.com/YSGStudyHards/dotNetTreasury) | 58 | 15 | JavaScript | 2 | 【C#，.NET，.NET Core学习基础，.Neter开发者的学习、成长路线】 | 2024-10-10 |
+| 21 | [dotNetTreasury](https://github.com/YSGStudyHards/dotNetTreasury) | 59 | 15 | JavaScript | 2 | 【C#，.NET，.NET Core学习基础，.Neter开发者的学习、成长路线】 | 2024-10-10 |
 | 22 | [mxfactorial](https://github.com/systemaccounting/mxfactorial) | 55 | 26 | Rust | 12 | a payment application intended for deployment by the united states treasury that replaces banking with accounting | 2026-03-16 |
 | 23 | [Multivariate-Analysis--Oil-Price-Prediction-Using-LSTM-GRU-](https://github.com/nikhils10/Multivariate-Analysis--Oil-Price-Prediction-Using-LSTM-GRU-) | 50 | 18 | Jupyter Notebook | 3 | Comparing  Long Term Short Memory (LSTM) & Gated Re-current Unit (GRU) during forecasting of oil price .Exploring multivariate relationships between West Texas Intermediate and S&P 500, Dow Jones Util... | 2022-01-25 |
 | 24 | [modern-treasury-python](https://github.com/Modern-Treasury/modern-treasury-python) | 49 | 5 | Python | 1 | Python library for the Modern Treasury API | 2026-06-17 |
 | 25 | [modern-treasury-node](https://github.com/Modern-Treasury/modern-treasury-node) | 45 | 21 | TypeScript | 2 | Node.js library for the Modern Treasury API. | 2026-06-16 |
 | 26 | [joy-treasury](https://github.com/siriwatknp/joy-treasury) | 41 | 25 | TypeScript | 61 | Design inspiration alive with Joy UI. Copy & paste ready-to-use blocks to your project or clone them with joy-treasury CLI. | 2023-11-03 |
 | 27 | [dao-governance](https://github.com/kenny1st/dao-governance) | 41 | 0 | Solidity | 1 | A decentralized autonomous organization (DAO) governance system that enables token holders to vote on proposals and manage a community-driven treasury. | 2025-02-03 |
-| 28 | [modern-treasury-openapi](https://github.com/Modern-Treasury/modern-treasury-openapi) | 40 | 14 | HTML | 0 | The OpenAPI specification for Modern Treasury's API. | 2026-06-23 |
+| 28 | [modern-treasury-openapi](https://github.com/Modern-Treasury/modern-treasury-openapi) | 40 | 14 | HTML | 0 | The OpenAPI specification for Modern Treasury's API. | 2026-06-25 |
 | 29 | [tea-protocol](https://github.com/teafinance/tea-protocol) | 40 | 15 | JavaScript | 2 | TEA is a token seeking price stability with elastic supply monetary model and governable treasury, derived mechanics from some high yield farming projects such as Yam and SushiSwap, with redesigned fa... | 2024-04-11 |
 | 30 | [108api](https://github.com/Godbyhub/108api) | 37 | 0 | - | 4 | import os, wmi from sys import prefix from attr import validate import discord from discord.ext import commands from discord.ext import commands import discord from discord_buttons_plugin import * imp... | 2022-07-31 |
 | 31 | [TOK](https://github.com/renchunxiao/TOK) | 36 | 8 | - | 0 | Treasury of Knowledge | 2015-11-05 |
@@ -42,16 +42,16 @@
 | 34 | [arc-fintech](https://github.com/circlefin/arc-fintech) | 33 | 31 | TypeScript | 0 | This sample app demonstrates a multi-chain treasury management system with cross-chain interoperability. | 2026-06-18 |
 | 35 | [python-web-scrapping](https://github.com/sallamy2580/python-web-scrapping) | 32 | 3 | Python | 0 | Detailed web scraping tutorials for dummies with financial data crawlers on Reddit WallStreetBets, CME (both options and futures), US Treasury, CFTC, LME, MacroTrends, SHFE and alternative data crawle... | 2022-07-21 |
 | 36 | [data-ust](https://github.com/epogrebnyak/data-ust) | 31 | 13 | Python | 0 | US Treasuries Yield Curve Data | 2022-03-12 |
-| 37 | [bankstatementparser](https://github.com/sebastienrousseau/bankstatementparser) | 31 | 7 | Python | 0 | Parse bank statements — CAMT/ISO 20022, PAIN.001, CSV (EN/DE/FR/ES), OFX/QFX, MT940, PDFs (digital + scanned) — into unified Transactions. Deterministic parsers, LLM/vision fallback, Golden Rule + mul... | 2026-06-24 |
+| 37 | [bankstatementparser](https://github.com/sebastienrousseau/bankstatementparser) | 31 | 6 | Python | 0 | Parse bank statements — CAMT/ISO 20022, PAIN.001, CSV (EN/DE/FR/ES), OFX/QFX, MT940, PDFs (digital + scanned) — into unified Transactions. Deterministic parsers, LLM/vision fallback, Golden Rule + mul... | 2026-06-25 |
 | 38 | [Treasury-Debt-Model](https://github.com/BrookingsInstitution/Treasury-Debt-Model) | 29 | 8 | Python | 1 |  | 2022-08-23 |
 | 39 | [nova-android-app](https://github.com/novasamatech/nova-android-app) | 29 | 9 | Kotlin | 5 | ⚠️ Nova Wallet Android moved to new repository. We have transitioned from open sourcing Nova Wallet code based on the Treasury grant completion to the full open source mode. | 2023-06-05 |
 | 40 | [awesome-dao-treasury-mgmt](https://github.com/castle-finance/awesome-dao-treasury-mgmt) | 27 | 3 | - | 0 | A collection of awesome things related to DAO treasury management | 2022-07-14 |
-| 41 | [fiscal-data](https://github.com/fedspendingtransparency/fiscal-data) | 25 | 9 | JavaScript | 1 | Frontend of FiscalData.Treasury.gov | 2026-06-23 |
+| 41 | [fiscal-data](https://github.com/fedspendingtransparency/fiscal-data) | 25 | 9 | JavaScript | 1 | Frontend of FiscalData.Treasury.gov | 2026-06-26 |
 | 42 | [MultiVault](https://github.com/nikitavorobie/MultiVault) | 25 | 5 | Solidity | 0 | Multi‑vault treasury OS for Base that manages many segmented vaults, roles and policies under a single upgradeable controller. | 2025-12-12 |
 | 43 | [nextjs-mui-layout-starter](https://github.com/mui-treasury/nextjs-mui-layout-starter) | 24 | 1 | JavaScript | 0 | NextJS + @mui-treasury/layout starter project | 2023-01-06 |
 | 44 | [SplitBase](https://github.com/katyailil/SplitBase) | 24 | 4 | Solidity | 0 | Revenue splitting protocol on Base that routes incoming USDC into configurable pools and buckets for teams, investors, partners and treasuries. | 2025-12-14 |
 | 45 | [bitcointreasuries](https://github.com/BuyBitcoinWorldwide/bitcointreasuries) | 23 | 10 | - | 0 | Submit updates for Bitcoin Treasuries page | 2024-04-16 |
-| 46 | [dotreasury](https://github.com/opensquare-network/dotreasury) | 23 | 11 | JavaScript | 12 | doTreasury \| Empower kusama/polkadot treasury with credit building | 2026-06-11 |
+| 46 | [dotreasury](https://github.com/opensquare-network/dotreasury) | 23 | 11 | JavaScript | 12 | doTreasury \| Empower kusama/polkadot treasury with credit building | 2026-06-25 |
 | 47 | [PINT](https://github.com/ChainSafe/PINT) | 22 | 9 | Rust | 25 | A Polkadot ecosystem index for investors. A self sustaining auction treasury for parachains. | 2022-09-09 |
 | 48 | [cra-mui-layout-starter](https://github.com/mui-treasury/cra-mui-layout-starter) | 22 | 4 | TypeScript | 0 | create-react-app + @mui-treasury/layout starter project | 2023-01-05 |
 | 49 | [sample-serverless-digital-asset-payments](https://github.com/aws-samples/sample-serverless-digital-asset-payments) | 22 | 9 | JavaScript | 0 | An open-source, serverless, EVM-compatible design for generating digital asset invoices, tracking payments, and sweeping funds into an offline treasury wallet.  | 2026-06-23 |
@@ -84,7 +84,7 @@
 | 76 | [treasury-data](https://github.com/seanjtaylor/treasury-data) | 13 | 5 | Jupyter Notebook | 0 | Scraper/Parser for Daily Treasury Statements | 2019-04-14 |
 | 77 | [modern-treasury-go](https://github.com/Modern-Treasury/modern-treasury-go) | 13 | 3 | Go | 0 | Go library for the Modern Treasury API | 2026-06-16 |
 | 78 | [node-treasury](https://github.com/camsjams/node-treasury) | 13 | 1 | TypeScript | 0 | Check your caching layer before running your promises | 2023-01-05 |
-| 79 | [SynArc](https://github.com/kellycryptos/SynArc) | 13 | 2 | TypeScript | 0 | SynArc is a Programmable coordination infrastructure for the agentic creator economy on Arc.  Launch Creator DAOs, receive USDC nanopayments, and manage treasuries with governance.  Supports humans an... | 2026-06-23 |
+| 79 | [SynArc](https://github.com/kellycryptos/SynArc) | 13 | 2 | TypeScript | 0 | SynArc is a Programmable coordination infrastructure for the agentic creator economy on Arc.  Launch Creator DAOs, receive USDC nanopayments, and manage treasuries with governance.  Supports humans an... | 2026-06-25 |
 | 80 | [TreasuryCoin](https://github.com/input-output-hk/TreasuryCoin) | 12 | 12 | Scala | 4 | An experimental implementation of a treasury system based on Scorex framework | 2020-01-17 |
 | 81 | [treasury](https://github.com/AirHelp/treasury) | 12 | 3 | Go | 0 | A tool for managing secrets. | 2026-06-22 |
 | 82 | [NFTreasury](https://github.com/yearn/NFTreasury) | 12 | 8 | TypeScript | 0 | NFTreasury is a simple yet powerful treasury management tool, powered by Yearn. | 2023-05-11 |
@@ -99,9 +99,9 @@
 | 91 | [treasure-chest](https://github.com/acm-uiuc/treasure-chest) | 10 | 4 | Python | 13 | A treasury and finance management system for clubs | 2013-03-10 |
 | 92 | [ustfd](https://github.com/groditi/ustfd) | 10 | 2 | R | 0 | API Client for US Treasury Fiscal Data | 2024-01-28 |
 | 93 | [Treasury](https://github.com/rhmodding/Treasury) | 10 | 0 | Kotlin | 1 | A Challenge Train editor for Rhythm Heaven Megamix | 2020-12-07 |
-| 94 | [spread](https://github.com/buttermarkets/spread) | 10 | 0 | Solidity | 0 | Flexible diversification for DAO treasuries | 2022-07-06 |
-| 95 | [pua-treasury](https://github.com/fengdongdongwsn/pua-treasury) | 10 | 1 | - | 0 | pua宝典 | 2022-07-26 |
-| 96 | [item-treasury-database](https://github.com/dt192/item-treasury-database) | 10 | 1 | Lua | 0 | Data files for Galuhad’s Item Treasury Lotro plugin | 2026-06-17 |
+| 94 | [pua-treasury](https://github.com/fengdongdongwsn/pua-treasury) | 10 | 1 | - | 0 | pua宝典 | 2022-07-26 |
+| 95 | [spread](https://github.com/buttermarkets/spread) | 10 | 0 | Solidity | 0 | Flexible diversification for DAO treasuries | 2022-07-06 |
+| 96 | [item-treasury-database](https://github.com/dt192/item-treasury-database) | 10 | 1 | Lua | 0 | Data files for Galuhad’s Item Treasury Lotro plugin | 2026-06-24 |
 | 97 | [Predicting_10Y_Treasury_Yield](https://github.com/KaranGoel1/Predicting_10Y_Treasury_Yield) | 10 | 0 | Python | 0 | Creating a statistical model to predict 10 year treasury yields | 2021-10-27 |
 | 98 | [ExchangeRatesConverter](https://github.com/marcos-dev79/ExchangeRatesConverter) | 10 | 0 | Java | 0 | Exchange Rates Converter using the US Gov Treasury API | 2023-10-24 |
 | 99 | [Locally-weighted-linear-regression-](https://github.com/slydg/Locally-weighted-linear-regression-) | 10 | 2 | Python | 0 | Using Locally weighted linear regression to find out the correlation among M2 CPI and the index of treasury bond in China  | 2018-04-12 |
