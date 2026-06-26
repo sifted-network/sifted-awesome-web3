@@ -11,7 +11,19 @@ count: 25
 
 ---
 
-## 1. Coinbase's Base blockchain resumes after two-hour outage disrupted network
+## 1. Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market
+
+**Author:** Krisztian Sandor  
+**Published:** 6/25/2026, 8:47:24 PM  
+**Categories:** Finance, Stablecoins, Tokenization, News  
+
+The $2.5 trillion asset manager deepens its blockchain push after taking over Superstate's tokenized money market fund as fund manager earlier this year.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market)
+
+---
+
+## 2. Coinbase's Base blockchain resumes after two-hour outage disrupted network
 
 **Author:** Margaux Nijkerk  
 **Published:** 6/25/2026, 6:46:08 PM  
@@ -23,7 +35,7 @@ The incident temporarily halted transaction processing on one of Ethereum's larg
 
 ---
 
-## 2. Strategy's yield-generating STRC stock is more correlated with BTC than ever
+## 3. Strategy's yield-generating STRC stock is more correlated with BTC than ever
 
 **Author:** Omkar Godbole  
 **Published:** 6/25/2026, 5:48:18 PM  
@@ -35,7 +47,7 @@ The tightening correlation undermines STRC's appeal as a relatively steadier inc
 
 ---
 
-## 3. Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation
+## 4. Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation
 
 **Author:** Will Canny  
 **Published:** 6/25/2026, 5:14:19 PM  
@@ -47,7 +59,7 @@ The DeFi lender is rebuilding after the fallout from April's KelpDAO exploit spa
 
 ---
 
-## 4. a16z-backed crypto firm rebrands, shifts focus to solving AI’s global copyright headache
+## 5. a16z-backed crypto firm rebrands, shifts focus to solving AI’s global copyright headache
 
 **Author:** Olivier Acuna  
 **Published:** 6/25/2026, 5:06:10 PM  
@@ -59,7 +71,7 @@ The startup formerly known as Story Protocol raised $140 million to secure inter
 
 ---
 
-## 5. BlackBerry is making a massive comeback as an 'uncrashable' software layer for AI and robotics
+## 6. BlackBerry is making a massive comeback as an 'uncrashable' software layer for AI and robotics
 
 **Author:** Aoyon Ashraf  
 **Published:** 6/25/2026, 4:05:06 PM  
@@ -71,7 +83,7 @@ BlackBerry's stock is surging after the company's massive earnings beat and is p
 
 ---
 
-## 6. Strategy has a 10-month cash runway for dividends, but retail investors are losing faith
+## 7. Strategy has a 10-month cash runway for dividends, but retail investors are losing faith
 
 **Author:** James Van Straten  
 **Published:** 6/25/2026, 3:45:43 PM  
@@ -83,7 +95,7 @@ STRC was marketed as a low volatility income product designed to trade near $100
 
 ---
 
-## 7. Quant fund says bitcoin is near a major inflection point as rare onchain signals align
+## 8. Quant fund says bitcoin is near a major inflection point as rare onchain signals align
 
 **Author:** Helene Braun  
 **Published:** 6/25/2026, 3:14:01 PM  
@@ -95,7 +107,7 @@ Hyperion Decimus' Chris Sullivan said four historically reliable indicators have
 
 ---
 
-## 8. Bitcoin tumbles to new multi-year low of $58,000, but a short-squeeze setup emerges
+## 9. Bitcoin tumbles to new multi-year low of $58,000, but a short-squeeze setup emerges
 
 **Author:** Krisztian Sandor,Oliver Knight  
 **Published:** 6/25/2026, 3:03:08 PM  
@@ -107,7 +119,7 @@ Derivatives markets signal that betting on further slide in prices is getting ov
 
 ---
 
-## 9. Crypto for Advisors: Bitcoin: planning for inheritance
+## 10. Crypto for Advisors: Bitcoin: planning for inheritance
 
 **Author:** Zac Townsend  
 **Published:** 6/25/2026, 3:00:00 PM  
@@ -119,7 +131,7 @@ Your bitcoin isn’t just an asset; it’s a future. Ensure your loved ones can 
 
 ---
 
-## 10. Bitcoin likely to fall another 30% to $44,000 by year-end, prominent BTC miner says
+## 11. Bitcoin likely to fall another 30% to $44,000 by year-end, prominent BTC miner says
 
 **Author:** Shaurya Malwa  
 **Published:** 6/25/2026, 2:39:55 PM  
@@ -131,7 +143,7 @@ An early miner says Strategy's stock mNAV has fallen to 0.72, near the level tha
 
 ---
 
-## 11. Kraken sues crypto derivatives firm PowerTrade over 'misappropriated' funds claim
+## 12. Kraken sues crypto derivatives firm PowerTrade over 'misappropriated' funds claim
 
 **Author:** Ian Allison  
 **Published:** 6/25/2026, 1:53:28 PM  
@@ -143,7 +155,7 @@ PowerTrade changed Kraken’s positive balance of more than $6 million to a $2 m
 
 ---
 
-## 12. CoinDesk 20 performance update: AAVE gains 10.1% as index rises
+## 13. CoinDesk 20 performance update: AAVE gains 10.1% as index rises
 
 **Author:** CoinDesk Indices  
 **Published:** 6/25/2026, 1:15:26 PM  
@@ -155,7 +167,7 @@ Bitcoin Cash (BCH), up 5.8% from Wednesday, joined Aave (AAVE) as a top performe
 
 ---
 
-## 13. Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry
+## 14. Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry
 
 **Author:** Krisztian Sandor  
 **Published:** 6/25/2026, 1:00:00 PM  
@@ -167,7 +179,7 @@ The protocols are building shared liquidity and trading infrastructure for a fut
 
 ---
 
-## 14. Post-prison CZ says time behind bars didn't hurt the billionaire's business after Binance
+## 15. Post-prison CZ says time behind bars didn't hurt the billionaire's business after Binance
 
 **Author:** Jesse Hamilton  
 **Published:** 6/25/2026, 1:00:00 PM  
@@ -179,7 +191,7 @@ The pardoned ex-CEO called prison a character-building "plus" as he's pursued a 
 
 ---
 
-## 15. Circle and Nomura join forces to target a $440 billion daily foreign exchange market in Japan
+## 16. Circle and Nomura join forces to target a $440 billion daily foreign exchange market in Japan
 
 **Author:** Olivier Acuna  
 **Published:** 6/25/2026, 12:29:21 PM  
@@ -191,7 +203,7 @@ The stablecoin giant and the Japanese financial corporation plan to deploy cross
 
 ---
 
-## 16. Bitcoin derivatives signal panic. A weak core PCE reading could trigger snapback.
+## 17. Bitcoin derivatives signal panic. A weak core PCE reading could trigger snapback.
 
 **Author:** Omkar Godbole  
 **Published:** 6/25/2026, 11:31:02 AM  
@@ -203,7 +215,7 @@ Your day-ahead look for June 25, 2026
 
 ---
 
-## 17. CoinEx denies claims it served as $3.84 billion gateway to sanctioned Iranian crypto firms
+## 18. CoinEx denies claims it served as $3.84 billion gateway to sanctioned Iranian crypto firms
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 6/25/2026, 10:56:58 AM  
@@ -215,7 +227,7 @@ Blockchain analysts TRM Labs says CoinEx facilitated more than $3.8 billion in b
 
 ---
 
-## 18. Crypto relief rally fails to shake persistent bearish derivatives signal
+## 19. Crypto relief rally fails to shake persistent bearish derivatives signal
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 6/25/2026, 10:53:24 AM  
@@ -227,7 +239,7 @@ A relief rally tied to recovering U.S. equities lifted BTC and ETH off weekly lo
 
 ---
 
-## 19. Bitcoin supply in loss reaches record high 10.83 million BTC
+## 20. Bitcoin supply in loss reaches record high 10.83 million BTC
 
 **Author:** James Van Straten  
 **Published:** 6/25/2026, 10:28:37 AM  
@@ -239,7 +251,7 @@ Almost 11 million bitcoin are now held at a loss, while long-term holders contro
 
 ---
 
-## 20. Micron delivers blowout earnings, surges 16% and deals crypto bulls a blow
+## 21. Micron delivers blowout earnings, surges 16% and deals crypto bulls a blow
 
 **Author:** James Van Straten  
 **Published:** 6/25/2026, 10:01:54 AM  
@@ -251,7 +263,7 @@ Micron Technology surged after blockbuster earnings and strong guidance, lifting
 
 ---
 
-## 21. Forget max pain theory. Bitcoin is well below the $72,000 magnet going into $10 billion options expiry
+## 22. Forget max pain theory. Bitcoin is well below the $72,000 magnet going into $10 billion options expiry
 
 **Author:** Omkar Godbole  
 **Published:** 6/25/2026, 7:24:59 AM  
@@ -263,7 +275,7 @@ The popular max pain theory isn’t working out as bitcoin trades far from the $
 
 ---
 
-## 22. Live markets: Bitcoin settles in under $60,000
+## 23. Live markets: Bitcoin settles in under $60,000
 
 **Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Helene Braun  
 **Published:** 6/25/2026, 6:01:07 AM  
@@ -275,7 +287,7 @@ Strategy's common stock hit a multi-year low, while its STRC preferred stock plu
 
 ---
 
-## 23. MemeCore's M token suddenly crashes 80% with no clear trigger
+## 24. MemeCore's M token suddenly crashes 80% with no clear trigger
 
 **Author:** Shaurya Malwa  
 **Published:** 6/25/2026, 5:35:43 AM  
@@ -287,7 +299,7 @@ The token fell from nearly $3 to about $0.50 in hours, wiping out close to $3 bi
 
 ---
 
-## 24. Ripple's RLUSD stablecoin goes live in Japan after regulatory approval
+## 25. Ripple's RLUSD stablecoin goes live in Japan after regulatory approval
 
 **Author:** Shaurya Malwa  
 **Published:** 6/25/2026, 5:02:34 AM  
@@ -296,17 +308,5 @@ The token fell from nearly $3 to about $0.50 in hours, wiping out close to $3 bi
 Japan's financial regulator cleared the U.S. dollar-backed token as a new category of payment instrument, letting SBI VC Trade offer it to institutions and retail. RLUSD remains small, at about $1.7 billion.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/ripple-s-rlusd-stablecoin-goes-live-in-japan-after-regulatory-approval)
-
----
-
-## 25. Bitcoin has a new line in the sand. Thursday’s core PCE could stress test it.
-
-**Author:** Omkar Godbole  
-**Published:** 6/25/2026, 4:53:31 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-The market has found a new support level and it could be tested following Thursday's U.S. inflation data.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/bitcoin-has-a-new-line-in-the-sand-thursday-s-core-pce-could-stress-test-it)
 
 ---
