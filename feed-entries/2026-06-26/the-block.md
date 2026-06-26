@@ -2,16 +2,88 @@
 title: "The Block - 2026-06-26"
 date: "2026-06-26"
 source: "The Block"
-count: 12
+count: 18
 ---
 
 # The Block - 2026-06-26
 
-12 items collected.
+18 items collected.
 
 ---
 
-## 1. Ethereum OG wallets finally sell after 8 years, locking in estimated $27M profit after $150M unrealized peak: onchain analysts
+## 1. Solana DAT stocks climb double digits as SOL jumps 9%
+
+**Author:** Daniel Kuhn  
+**Published:** 6/26/2026, 6:34:02 PM  
+**Categories:** Crypto Ecosystems, Layer 1s, Markets, The Block, Token Projects, Solana  
+
+Sol Strategies (STKE) climbed as much as 22% to a high of $1.20 on Friday, outpacing other crypto treasury stocks.
+
+📖 [Read original article](https://www.theblock.co/post/406414/solana-dat-stocks-climb-double-digits-sol-jumps-9?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Base suffers second mainnet stall in two days
+
+**Author:** Daniel Kuhn  
+**Published:** 6/26/2026, 5:50:02 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Layer 2s and Scaling, Markets, Public Equities, The Block, Base, Coinbase  
+
+Base block production resumed as of 16:11 UTC, following an alert to another mainnet chain stall at 15:33 UTC.
+
+📖 [Read original article](https://www.theblock.co/post/406409/base-suffers-second-mainnet-stall-in-two-days?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Tokenization firm Securitize eyes early July NYSE debut with $400 million SPAC deal
+
+**Author:** Kyle Baird  
+**Published:** 6/26/2026, 5:23:01 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Markets, The Block, Web3, Tokenization  
+
+Seeking to debut next week, Securitize will receive roughly $400 million after retaining more than 70% of its SPAC trust.
+
+📖 [Read original article](https://www.theblock.co/post/406396/tokenization-firm-securitize-july-nyse-debut-400-million-spac-deal?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Bipartisan senators call for CFTC investigation into Polymarket after fake bets report
+
+**Author:** Sarah Wynn  
+**Published:** 6/26/2026, 4:46:18 PM  
+**Categories:** Policy, Regulation, The Block, CFTC  
+
+Senators are demanding for the CFTC to investigate Polymarket following reports that it paid creators to stage fake winning bets.
+
+📖 [Read original article](https://www.theblock.co/post/406400/bipartisan-senators-call-cftc-investigation-polymarket-fake-bets?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. DraftKings launches its own prediction markets exchange as consumer volume exceeds $3 billion
+
+**Author:** RT Watson  
+**Published:** 6/26/2026, 4:05:28 PM  
+**Categories:** Companies, The Block  
+
+The company said its prediction markets vertical has generated approximately $3.4 billion in annualized consumer volume.
+
+📖 [Read original article](https://www.theblock.co/post/406375/draftkings-launches-own-prediction-markets-exchange-consumer-volume-exceeds-3-billion?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. Spain says ‘no exceptions or extensions’ for Binance, other crypto firms ahead of MiCA deadline
+
+**Author:** Kyle Baird  
+**Published:** 6/26/2026, 3:01:10 PM  
+**Categories:** Companies, Exchanges, Markets, Policy, Regulation, The Block, Binance, Eurozone Regulation, Kraken  
+
+Industry leaders remain divided over MiCA, with some praising the framework while others warn it could limit customer access to liquidity.
+
+📖 [Read original article](https://www.theblock.co/post/406362/spain-says-no-exceptions-extensions-binance-other-crypto-firms-mica-deadline?utm_source=rss&utm_medium=rss)
+
+---
+
+## 7. Ethereum OG wallets finally sell after 8 years, locking in estimated $27M profit after $150M unrealized peak: onchain analysts
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/26/2026, 1:35:01 PM  
@@ -23,7 +95,7 @@ Four Ethereum OG wallets that held 37,602 ETH since 2018 finally sold after watc
 
 ---
 
-## 2. Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics
+## 8. Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics
 
 **Author:** James Hunt  
 **Published:** 6/26/2026, 12:54:58 PM  
@@ -35,7 +107,7 @@ The firm also promoted Rajiv Patel-O'Connor to general partner as it expands bey
 
 ---
 
-## 3. Bitcoin’s fragile floor cracks as Fed hawks circle and ETF investors keep pulling out: analysts
+## 9. Bitcoin’s fragile floor cracks as Fed hawks circle and ETF investors keep pulling out: analysts
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/26/2026, 12:47:40 PM  
@@ -47,7 +119,7 @@ Bitcoin fell to $58,000 on June 25 as hot PCE data stoked Fed rate fears and spo
 
 ---
 
-## 4. Base delays Beryl hard fork over B20 registry timing issue
+## 10. Base delays Beryl hard fork over B20 registry timing issue
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/26/2026, 10:11:29 AM  
@@ -59,7 +131,7 @@ Base delayed its Beryl mainnet upgrade to June 26 to give the B20 Activation Reg
 
 ---
 
-## 5. Bitcoin ETF Flows Explained: What ETF Inflows and Outflows Mean for Investors
+## 11. Bitcoin ETF Flows Explained: What ETF Inflows and Outflows Mean for Investors
 
 **Author:** Callum Howe  
 **Published:** 6/26/2026, 7:58:35 AM  
@@ -71,7 +143,7 @@ Bitcoin ETF flows refer to the movement of money into and out of bitcoin exchang
 
 ---
 
-## 6. Corporate Bitcoin Treasuries Explained: Why Public Companies Hold Bitcoin
+## 12. Corporate Bitcoin Treasuries Explained: Why Public Companies Hold Bitcoin
 
 **Author:** The Block Research  
 **Published:** 6/26/2026, 7:02:23 AM  
@@ -83,7 +155,7 @@ Public companies hold bitcoin because they view it as a scarce, dollar-denominat
 
 ---
 
-## 7. What Is the GENIUS Act? A Guide to U.S. Stablecoin Law
+## 13. What Is the GENIUS Act? A Guide to U.S. Stablecoin Law
 
 **Author:** The Block Research  
 **Published:** 6/26/2026, 6:19:08 AM  
@@ -95,7 +167,7 @@ The GENIUS Act is the U.S. federal law that creates a regulatory framework for d
 
 ---
 
-## 8. How Pension Funds Invest in Crypto
+## 14. How Pension Funds Invest in Crypto
 
 **Author:** The Block Research  
 **Published:** 6/26/2026, 5:41:52 AM  
@@ -107,7 +179,7 @@ Pension funds are among the world’s largest institutional investors, and in re
 
 ---
 
-## 9. Bitcoin briefly dips below $59,000 as macro pressures drag crypto, Asian equities lower
+## 15. Bitcoin briefly dips below $59,000 as macro pressures drag crypto, Asian equities lower
 
 **Author:** Timmy Shen  
 **Published:** 6/26/2026, 5:00:53 AM  
@@ -119,7 +191,7 @@ Asian equities also fell sharply Friday morning, with South Korea's Kospi losing
 
 ---
 
-## 10. Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst
+## 16. Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst
 
 **Author:** Timmy Shen  
 **Published:** 6/26/2026, 3:55:10 AM  
@@ -131,7 +203,7 @@ The buy came days after a group of former Ethereum Foundation researchers launch
 
 ---
 
-## 11. BitGo cuts 15% of staff to refocus on AI infrastructure and stablecoins
+## 17. BitGo cuts 15% of staff to refocus on AI infrastructure and stablecoins
 
 **Author:** Danny Park  
 **Published:** 6/26/2026, 3:43:49 AM  
@@ -143,7 +215,7 @@ BitGo CEO says the firm will now focus on key areas, including security, trading
 
 ---
 
-## 12. Ark Invest buys more Coinbase, Circle, Bullish, Robinhood shares amid stock declines
+## 18. Ark Invest buys more Coinbase, Circle, Bullish, Robinhood shares amid stock declines
 
 **Author:** Danny Park  
 **Published:** 6/26/2026, 2:01:17 AM  
