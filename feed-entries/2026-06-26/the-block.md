@@ -2,16 +2,64 @@
 title: "The Block - 2026-06-26"
 date: "2026-06-26"
 source: "The Block"
-count: 8
+count: 12
 ---
 
 # The Block - 2026-06-26
 
-8 items collected.
+12 items collected.
 
 ---
 
-## 1. Bitcoin ETF Flows Explained: What ETF Inflows and Outflows Mean for Investors
+## 1. Ethereum OG wallets finally sell after 8 years, locking in estimated $27M profit after $150M unrealized peak: onchain analysts
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 6/26/2026, 1:35:01 PM  
+**Categories:** Crypto Ecosystems, Layer 1s, Markets, The Block, Token Projects, Ethereum  
+
+Four Ethereum OG wallets that held 37,602 ETH since 2018 finally sold after watching $150M in unrealized profit evaporate at peak prices.
+
+📖 [Read original article](https://www.theblock.co/post/406342/ethereum-og-wallets-finally-sell-after-8-years-locking-in-estimated-27m-profit-after-150m-unrealized-peak-onchain-analysts?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics
+
+**Author:** James Hunt  
+**Published:** 6/26/2026, 12:54:58 PM  
+**Categories:** Deals, The Block, Venture Capital, New VC Funds  
+
+The firm also promoted Rajiv Patel-O'Connor to general partner as it expands beyond its traditional crypto focus.
+
+📖 [Read original article](https://www.theblock.co/post/406344/framework-ventures-400-million-fourth-fund-crypto-ai-robotics?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Bitcoin’s fragile floor cracks as Fed hawks circle and ETF investors keep pulling out: analysts
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 6/26/2026, 12:47:40 PM  
+**Categories:** Crypto Ecosystems, Funds, Layer 1s, Markets, The Block, Token Projects, Bitcoin, Bitcoin ETF, Ethereum  
+
+Bitcoin fell to $58,000 on June 25 as hot PCE data stoked Fed rate fears and spot ETF outflows extended to a six-day streak.
+
+📖 [Read original article](https://www.theblock.co/post/406340/bitcoins-fragile-floor-cracks-as-fed-hawks-circle-and-etf-investors-keep-pulling-out-analysts?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Base delays Beryl hard fork over B20 registry timing issue
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 6/26/2026, 10:11:29 AM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Layer 2s and Scaling, Markets, Public Equities, The Block, Base, Coinbase  
+
+Base delayed its Beryl mainnet upgrade to June 26 to give the B20 Activation Registry time to become fully operational.
+
+📖 [Read original article](https://www.theblock.co/post/406336/base-delays-beryl-hard-fork-over-b20-registry-timing-issue?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Bitcoin ETF Flows Explained: What ETF Inflows and Outflows Mean for Investors
 
 **Author:** Callum Howe  
 **Published:** 6/26/2026, 7:58:35 AM  
@@ -23,7 +71,7 @@ Bitcoin ETF flows refer to the movement of money into and out of bitcoin exchang
 
 ---
 
-## 2. Corporate Bitcoin Treasuries Explained: Why Public Companies Hold Bitcoin
+## 6. Corporate Bitcoin Treasuries Explained: Why Public Companies Hold Bitcoin
 
 **Author:** The Block Research  
 **Published:** 6/26/2026, 7:02:23 AM  
@@ -35,7 +83,7 @@ Public companies hold bitcoin because they view it as a scarce, dollar-denominat
 
 ---
 
-## 3. What Is the GENIUS Act? A Guide to U.S. Stablecoin Law
+## 7. What Is the GENIUS Act? A Guide to U.S. Stablecoin Law
 
 **Author:** The Block Research  
 **Published:** 6/26/2026, 6:19:08 AM  
@@ -47,7 +95,7 @@ The GENIUS Act is the U.S. federal law that creates a regulatory framework for d
 
 ---
 
-## 4. How Pension Funds Invest in Crypto
+## 8. How Pension Funds Invest in Crypto
 
 **Author:** The Block Research  
 **Published:** 6/26/2026, 5:41:52 AM  
@@ -59,7 +107,7 @@ Pension funds are among the world’s largest institutional investors, and in re
 
 ---
 
-## 5. Bitcoin briefly dips below $59,000 as macro pressures drag crypto, Asian equities lower
+## 9. Bitcoin briefly dips below $59,000 as macro pressures drag crypto, Asian equities lower
 
 **Author:** Timmy Shen  
 **Published:** 6/26/2026, 5:00:53 AM  
@@ -71,7 +119,7 @@ Asian equities also fell sharply Friday morning, with South Korea's Kospi losing
 
 ---
 
-## 6. Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst
+## 10. Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst
 
 **Author:** Timmy Shen  
 **Published:** 6/26/2026, 3:55:10 AM  
@@ -83,7 +131,7 @@ The buy came days after a group of former Ethereum Foundation researchers launch
 
 ---
 
-## 7. BitGo cuts 15% of staff to refocus on AI infrastructure and stablecoins
+## 11. BitGo cuts 15% of staff to refocus on AI infrastructure and stablecoins
 
 **Author:** Danny Park  
 **Published:** 6/26/2026, 3:43:49 AM  
@@ -95,7 +143,7 @@ BitGo CEO says the firm will now focus on key areas, including security, trading
 
 ---
 
-## 8. Ark Invest buys more Coinbase, Circle, Bullish, Robinhood shares amid stock declines
+## 12. Ark Invest buys more Coinbase, Circle, Bullish, Robinhood shares amid stock declines
 
 **Author:** Danny Park  
 **Published:** 6/26/2026, 2:01:17 AM  
