@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-25"
 date: "2026-06-25"
 source: "Cointelegraph"
-count: 26
+count: 23
 ---
 
 # Cointelegraph - 2026-06-25
 
-26 items collected.
+23 items collected.
 
 ---
 
@@ -59,19 +59,7 @@ Bitcoin’s drop to $58,000 lines up with the power-law model’s cycle lows, ev
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 6/25/2026, 7:32:21 PM  
-**Categories:** Latest News, CBDC, BIS, Stablecoin, Cryptocurrency Exchange, Bithumb, South Korea  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 6. Half of UK wealth advisers say clients' crypto is ‘invisible’ to them: CoinShares survey
+## 5. Half of UK wealth advisers say clients' crypto is ‘invisible’ to them: CoinShares survey
 
 **Author:** Turner Wright  
 **Published:** 6/25/2026, 7:18:03 PM  
@@ -83,7 +71,7 @@ A CoinShares survey found than many EU-based wealth management companies had pol
 
 ---
 
-## 7. Bitcoin drop to $58K brings out bears: Is BTC’s next stop below $50K?
+## 6. Bitcoin drop to $58K brings out bears: Is BTC’s next stop below $50K?
 
 **Author:** Yashu Gola  
 **Published:** 6/25/2026, 6:05:06 PM  
@@ -95,7 +83,7 @@ Bitcoin’s crash to $58,000 confirmed a bear flag breakdown, setting a new pric
 
 ---
 
-## 8. XRP risks drop below $1, but onchain data highlights silver lining
+## 7. XRP risks drop below $1, but onchain data highlights silver lining
 
 **Author:** Biraajmaan Tamuly  
 **Published:** 6/25/2026, 5:11:33 PM  
@@ -107,7 +95,7 @@ XRP’s chance of a daily close below $1 are rising, but whale accumulation and 
 
 ---
 
-## 9. 21shares trims 2026 crypto forecasts despite institutional adoption gains
+## 8. 21shares trims 2026 crypto forecasts despite institutional adoption gains
 
 **Author:** Sam Bourgi  
 **Published:** 6/25/2026, 5:00:58 PM  
@@ -119,7 +107,7 @@ Asset manager 21shares sees crypto infrastructure advancing faster than prices, 
 
 ---
 
-## 10. Kraken, Maple launch onchain warehouse facility for crypto-backed institutional loans
+## 9. Kraken, Maple launch onchain warehouse facility for crypto-backed institutional loans
 
 **Author:** Nate Kostar  
 **Published:** 6/25/2026, 4:41:47 PM  
@@ -131,7 +119,7 @@ Kraken's new facility with Maple brings a traditional warehouse financing model 
 
 ---
 
-## 11. South Korean authorities fine Bithumb $136K over sharing user information overseas
+## 10. South Korean authorities fine Bithumb $136K over sharing user information overseas
 
 **Author:** Turner Wright  
 **Published:** 6/25/2026, 4:13:43 PM  
@@ -143,7 +131,7 @@ The fine comes after an investigation concluded that Bithumb shared information 
 
 ---
 
-## 12. Bitcoin drops to $58K on high US PCE inflation as trader sees 'manipulation'
+## 11. Bitcoin drops to $58K on high US PCE inflation as trader sees 'manipulation'
 
 **Author:** William Suberg  
 **Published:** 6/25/2026, 3:34:45 PM  
@@ -155,7 +143,7 @@ Bitcoin fell to 21-month lows as stock market volatility accompanied three-year 
 
 ---
 
-## 13. Why Wall Street values some crypto firms for AI power, not just crypto
+## 12. Why Wall Street values some crypto firms for AI power, not just crypto
 
 **Author:** Dilip Kumar Patairya  
 **Published:** 6/25/2026, 3:00:00 PM  
@@ -167,7 +155,7 @@ Galaxy Digital’s stock surge points to a new trend: Investors are rewarding so
 
 ---
 
-## 14. Story Protocol rebrands to DATA Foundation in AI pivot
+## 13. Story Protocol rebrands to DATA Foundation in AI pivot
 
 **Author:** Jesse Coghlan  
 **Published:** 6/25/2026, 3:00:00 PM  
@@ -179,7 +167,7 @@ Story Protocol is now the DATA Foundation as it aims to provide licensable data 
 
 ---
 
-## 15. SBI to acquire Bitbank in $289M deal creating Japan's biggest crypto exchange
+## 14. SBI to acquire Bitbank in $289M deal creating Japan's biggest crypto exchange
 
 **Author:** Ezra Reguerra  
 **Published:** 6/25/2026, 1:08:11 PM  
@@ -191,7 +179,7 @@ The Japanese financial conglomerate plans to take full control of Bitbank as it 
 
 ---
 
-## 16. About 60% of World Cup bettors on Polymarket are first-time crypto users
+## 15. About 60% of World Cup bettors on Polymarket are first-time crypto users
 
 **Author:** Zoltan Vardai  
 **Published:** 6/25/2026, 1:00:00 PM  
@@ -203,7 +191,7 @@ Polymarket emerged as an onboarding layer for about 60% of World Cup bettors, wh
 
 ---
 
-## 17. Spark migrates $150M in stablecoin to Uniswap to advance shared liquidity
+## 16. Spark migrates $150M in stablecoin to Uniswap to advance shared liquidity
 
 **Author:** Ezra Reguerra  
 **Published:** 6/25/2026, 1:00:00 PM  
@@ -215,7 +203,7 @@ Spark deployed approximately $150 million across two Uniswap v4 pools on Ethereu
 
 ---
 
-## 18. Binance faces EU service limits next week as MiCA rules take effect
+## 17. Binance faces EU service limits next week as MiCA rules take effect
 
 **Author:** Helen Partz  
 **Published:** 6/25/2026, 12:21:00 PM  
@@ -227,7 +215,7 @@ Binance will limit EU onboarding and services from July 1 under MiCA rules after
 
 ---
 
-## 19. Circle, Nomura eye Japan corporate FX with stablecoin settlement: Report
+## 18. Circle, Nomura eye Japan corporate FX with stablecoin settlement: Report
 
 **Author:** Zoltan Vardai  
 **Published:** 6/25/2026, 11:42:52 AM  
@@ -239,7 +227,7 @@ Circle and Nomura are reportedly partnering to enable stablecoin-based foreign e
 
 ---
 
-## 20. Iran-linked entities moved $3.8B through CoinEx, TRM says
+## 19. Iran-linked entities moved $3.8B through CoinEx, TRM says
 
 **Author:** Zoltan Vardai  
 **Published:** 6/25/2026, 9:44:14 AM  
@@ -251,7 +239,7 @@ TRM Labs traced $3.8 billion moved by 60 sanctioned Iranian entities through Coi
 
 ---
 
-## 21. Indonesia sets certification rules for influencers recommending crypto
+## 20. Indonesia sets certification rules for influencers recommending crypto
 
 **Author:** Ezra Reguerra  
 **Published:** 6/25/2026, 8:44:15 AM  
@@ -263,7 +251,7 @@ Indonesia’s financial regulator will require influencers recommending crypto a
 
 ---
 
-## 22. Polish crypto exchange Kanga secures MiCA license in Latvia
+## 21. Polish crypto exchange Kanga secures MiCA license in Latvia
 
 **Author:** Helen Partz  
 **Published:** 6/25/2026, 8:24:41 AM  
@@ -275,7 +263,7 @@ Poland-founded crypto exchange Kanga has secured a Class 3 MiCA license in Latvi
 
 ---
 
-## 23. US arbitration giant rolls out ‘legal layer’ for agentic commerce
+## 22. US arbitration giant rolls out ‘legal layer’ for agentic commerce
 
 **Author:** Martin Young  
 **Published:** 6/25/2026, 6:26:29 AM  
@@ -287,7 +275,7 @@ As agentic AI transactions increase, “we need to know there’s a clear answer
 
 ---
 
-## 24. House Democrats seek SEC answers on AI investment advisers
+## 23. House Democrats seek SEC answers on AI investment advisers
 
 **Author:** Jesse Coghlan  
 **Published:** 6/25/2026, 5:47:21 AM  
@@ -296,29 +284,5 @@ As agentic AI transactions increase, “we need to know there’s a clear answer
 House Democrats have questioned the SEC over trading platforms offering AI agent advisers making “consequential investment decisions on behalf of retail investors.”
 
 📖 [Read original article](https://cointelegraph.com/news/dems-want-secs-answers-on-ai-investment-advisors?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 25. Abracadabra takes emergency action as MIM stablecoin depeg worsens
-
-**Author:** Martin Young  
-**Published:** 6/25/2026, 3:22:05 AM  
-**Categories:** Latest News, DeFi, Stablecoin, Curve Finance, Yields  
-
-The protocol is raising interest rates across all Cauldrons to encourage debt repayment and reduce supply.
-
-📖 [Read original article](https://cointelegraph.com/news/abracadabra-takes-emergency-measures-as-magic-internet-money-depeg-worsens?utm_source=rss&utm_medium=rss&utm_campaign=rss)
-
----
-
-## 26. Kalshi seeks funding at $40B valuation, nearly doubling last raise: FT
-
-**Author:** Felix Ng  
-**Published:** 6/25/2026, 2:23:39 AM  
-**Categories:** Latest News, Prediction Markets, Kalshi, Funding  
-
-Kalshi is reportedly in talks to raise new capital at a $40 billion valuation, reflecting growing investor confidence in regulated prediction markets.
-
-📖 [Read original article](https://cointelegraph.com/news/kalshi-seeks-funding-at-40b-valuation-nearly-doubling-last-raise-ft?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 ---
