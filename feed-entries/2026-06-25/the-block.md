@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-25"
 date: "2026-06-25"
 source: "The Block"
-count: 11
+count: 8
 ---
 
 # The Block - 2026-06-25
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ For the past year, Strategy has been issuing and tapping preferred securities li
 USDT0, backed 1:1 by tethers, the largest stablecoin by market capitalization, is the third-largest holder of USDT.
 
 📖 [Read original article](https://www.theblock.co/post/405912/tether-pegged-usdt0-stablecoin-crosses-100-billion-transaction-volume-milestone?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. ‘Stablecoin’ Google searches down 54% as supply growth stalls after 2025 boom
-
-**Author:** Ivan Wu and Bryan Samsoedin  
-**Published:** 6/25/2026, 2:36:03 PM  
-**Categories:** Companies, Crypto Ecosystems, Markets, Tech, The Block, Google  
-
-The decline in search volumes this month coincides with aggregate stablecoin supply having reversed its 10-month expansion.
-
-📖 [Read original article](https://www.theblock.co/post/405856/stablecoin-google-searches-down-54-supply-growth-stalls-after-2025-boom?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Four arrested in Poland over crypto SIM-swap attacks; ZachXBT links ‘Merry’ to case
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/25/2026, 1:27:42 PM  
-**Categories:** Crypto Ecosystems, DeFi, Policy, Regulation, The Block  
-
-ZachXBT alleges threat actor 'Merry' is among those detained by Polish authorities in a crypto SIM swap and money laundering investigation.
-
-📖 [Read original article](https://www.theblock.co/post/406159/four-arrested-poland-sim-swap-attacks-crypto-exchanges-zachxbt-social-engineering-threat-merry?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Spark, Uniswap build stablecoin ‘FX Layer’ seeded with $150 million liquidity migration
-
-**Author:** Daniel Kuhn  
-**Published:** 6/25/2026, 1:00:00 PM  
-**Categories:** Crypto Ecosystems, DeFi, The Block, Uniswap  
-
-Spark is establishing a "liquidity foundation" for the new pool by migrating $150 million from its USDS ecosystem to Uniswap v4.
-
-📖 [Read original article](https://www.theblock.co/post/406154/spark-uniswap-build-stablecoin-fx-layer-seeded-with-150-million-liquidity-migration?utm_source=rss&utm_medium=rss)
 
 ---
