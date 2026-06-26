@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-06-25"
 date: "2026-06-25"
 source: "Decrypt"
-count: 10
+count: 12
 ---
 
 # Decrypt - 2026-06-25
 
-10 items collected.
+12 items collected.
 
 ---
 
-## 1. SBI Holdings Says $289 Million Bitbank Deal Will Make It Japan's Largest Crypto Exchange
+## 1. Anthropic Urges Congress to Crack Down on AI Distillation By Chinese Rivals
+
+**Author:** Jason Nelson  
+**Published:** 6/25/2026, 9:13:37 PM  
+**Categories:** Artificial Intelligence  
+
+Anthropic alleged that Alibaba-affiliated operators used nearly 25,000 fraudulent accounts to generate 28.8 million Claude exchanges.
+
+📖 [Read original article](https://decrypt.co/372130/anthropic-urges-congress-crack-down-ai-distillation-chinese-rivals)
+
+---
+
+## 2. Polymarket to Refund Users After Scammers Swipe Millions in Website Exploit
+
+**Author:** Sander Lutz  
+**Published:** 6/25/2026, 9:02:40 PM  
+**Categories:** Business  
+
+Hackers infiltrated Polymarket’s website via a compromised third-party vendor, the company said, swiping millions in crypto from users.
+
+📖 [Read original article](https://decrypt.co/372129/polymarket-refund-users-scammers-swipe-millions-website-exploit)
+
+---
+
+## 3. SBI Holdings Says $289 Million Bitbank Deal Will Make It Japan's Largest Crypto Exchange
 
 **Author:** Decrypt Agent  
 **Published:** 6/25/2026, 7:42:54 PM  
@@ -23,7 +47,7 @@ SBI Holdings has agreed to a nearly $289 million deal to acquire crypto exchange
 
 ---
 
-## 2. Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue
+## 4. Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue
 
 **Author:** Logan Hitchcock  
 **Published:** 6/25/2026, 7:19:05 PM  
@@ -35,7 +59,7 @@ Ethereum layer-2 network Base was down for more than two hours as it ran into an
 
 ---
 
-## 3. Story Protocol Rebrands as Data Network in AI Training Pivot After IP Token Falls 98%
+## 5. Story Protocol Rebrands as Data Network in AI Training Pivot After IP Token Falls 98%
 
 **Author:** Logan Hitchcock  
 **Published:** 6/25/2026, 7:11:36 PM  
@@ -47,7 +71,7 @@ Intellectual property network Story Protocol has shifted its focus to a new oppo
 
 ---
 
-## 4. CoinEx Denies 'Knowledge' of Aiding Sanctioned Iran Crypto Market in $3.8 Billion Disconnect
+## 6. CoinEx Denies 'Knowledge' of Aiding Sanctioned Iran Crypto Market in $3.8 Billion Disconnect
 
 **Author:** André Beganski  
 **Published:** 6/25/2026, 6:49:21 PM  
@@ -59,7 +83,7 @@ TRM Labs said it uncovered over $3.84 billion in crypto flows between CoinEx and
 
 ---
 
-## 5. AI Took Your Job? California Wants to Know
+## 7. AI Took Your Job? California Wants to Know
 
 **Author:** Jason Nelson  
 **Published:** 6/25/2026, 5:36:21 PM  
@@ -71,7 +95,7 @@ California launched the nation's first AI unemployment tracker as policymakers r
 
 ---
 
-## 6. Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%
+## 8. Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%
 
 **Author:** Logan Hitchcock  
 **Published:** 6/25/2026, 4:24:03 PM  
@@ -83,7 +107,7 @@ Bitcoin touched its lowest price in 21 months early Thursday—and prediction ma
 
 ---
 
-## 7. Bitcoin Plummets Lower as Strategy's STRC Dives Further From $100 Mark
+## 9. Bitcoin Plummets Lower as Strategy's STRC Dives Further From $100 Mark
 
 **Author:** André Beganski  
 **Published:** 6/25/2026, 2:11:01 PM  
@@ -95,7 +119,7 @@ The price of Bitcoin rapidly fell to nearly $58,000 after Strategy's STRC prefer
 
 ---
 
-## 8. $47M in Crypto Frozen in Global Infostealer Takedown: Europol
+## 10. $47M in Crypto Frozen in Global Infostealer Takedown: Europol
 
 **Author:** Decrypt Agent  
 **Published:** 6/25/2026, 12:55:10 PM  
@@ -107,7 +131,7 @@ Police disrupted SocGholish, Amadey, and StealC, malware that harvests crypto wa
 
 ---
 
-## 9. Morning Minute: Strategy’s MSTR and STRC Crash to 52-Week Lows
+## 11. Morning Minute: Strategy’s MSTR and STRC Crash to 52-Week Lows
 
 **Author:** Tyler Warner  
 **Published:** 6/25/2026, 12:01:38 PM  
@@ -119,7 +143,7 @@ A massive Micron earnings beat has lifted global markets, pushing crypto higher 
 
 ---
 
-## 10. Kalshi Seeks $40B Valuation Weeks After $1B Raise: FT
+## 12. Kalshi Seeks $40B Valuation Weeks After $1B Raise: FT
 
 **Author:** Decrypt Agent  
 **Published:** 6/25/2026, 10:28:47 AM  
