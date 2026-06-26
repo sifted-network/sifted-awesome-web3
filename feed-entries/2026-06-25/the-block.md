@@ -2,16 +2,52 @@
 title: "The Block - 2026-06-25"
 date: "2026-06-25"
 source: "The Block"
-count: 17
+count: 18
 ---
 
 # The Block - 2026-06-25
 
-17 items collected.
+18 items collected.
 
 ---
 
-## 1. Multicoin predicts HYPE hits $319 by 2028 as Hyperliquid turns into an ‘everything exchange’
+## 1. Aave founder Stani Kulechov says AAVE isn’t for sale ‘at a 70% discount’ following report of Payward bid
+
+**Author:** Daniel Kuhn  
+**Published:** 6/25/2026, 9:34:09 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Exchanges, The Block, Aave, Kraken  
+
+The Aave Will Win proposal redirected 100% of protocol and Aave-branded product revenue to the DAO and AAVE token holders.
+
+📖 [Read original article](https://www.theblock.co/post/406252/aave-stani-kulechov-says-aave-isnt-for-sale-at-70-discount-report-payward-bid?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Senate races to advance crypto legislation in July as housing bill turmoil threatens timeline
+
+**Author:** Sarah Wynn  
+**Published:** 6/25/2026, 8:37:37 PM  
+**Categories:** People, Policy, Regulation, The Block, U.S. Policymaking, Cynthia Lummis, Donald Trump, feature, House Agriculture Committee, House Financial Services Committee, Senate Agriculture Committee, Senate Banking Committee  
+
+A sweeping cryptocurrency bill faces a narrowing path to passage as pressure grows on the Senate to take up the legislation next month.
+
+📖 [Read original article](https://www.theblock.co/post/406231/senate-races-advance-crypto-legislation-housing-bill-turmoil-threatens-timeline?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Trillion-dollar asset manager Invesco looks to plant a flag in tokenized stablecoin reserve sector
+
+**Author:** Daniel Kuhn  
+**Published:** 6/25/2026, 8:11:28 PM  
+**Categories:** Crypto Ecosystems, DeFi, Policy, Regulation, The Block, Web3, Tokenization  
+
+The fund will invest primarily in U.S. Treasuries, repo agreements, and cash equivalents to maintain a stable $1 net asset value.
+
+📖 [Read original article](https://www.theblock.co/post/406239/trillion-dollar-asset-manager-invesco-plant-flag-tokenized-stablecoin-reserve-sector?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Multicoin predicts HYPE hits $319 by 2028 as Hyperliquid turns into an ‘everything exchange’
 
 **Author:** RT Watson  
 **Published:** 6/25/2026, 6:03:32 PM  
@@ -23,7 +59,7 @@ According to the investment firm, Hyperliquid's user base grew from roughly 300,
 
 ---
 
-## 2. Coinbase-incubated Base suffers mainnet chain stall interrupting block production
+## 5. Coinbase-incubated Base suffers mainnet chain stall interrupting block production
 
 **Author:** Daniel Kuhn  
 **Published:** 6/25/2026, 5:10:34 PM  
@@ -35,7 +71,7 @@ Deposits and withdrawals have also been affected, while transactions are delayed
 
 ---
 
-## 3. Sophon sunsets its Layer 2 blockchain, moves to Base to build consumer apps
+## 6. Sophon sunsets its Layer 2 blockchain, moves to Base to build consumer apps
 
 **Author:** Yogita Khatri  
 **Published:** 6/25/2026, 5:04:23 PM  
@@ -47,7 +83,7 @@ Sophon, which has raised $70 million in total funding, is shutting down its Laye
 
 ---
 
-## 4. Bitcoin rout leads Strategy’s STRC to slide 26% below par as MSTR shares hits 16-month low
+## 7. Bitcoin rout leads Strategy’s STRC to slide 26% below par as MSTR shares hits 16-month low
 
 **Author:** Kyle Baird  
 **Published:** 6/25/2026, 4:50:51 PM  
@@ -59,7 +95,7 @@ For the past year, Strategy has been issuing and tapping preferred securities li
 
 ---
 
-## 5. Tether-pegged USDT0 stablecoin crosses $100 billion transaction volume milestone
+## 8. Tether-pegged USDT0 stablecoin crosses $100 billion transaction volume milestone
 
 **Author:** Daniel Kuhn  
 **Published:** 6/25/2026, 3:15:00 PM  
@@ -71,7 +107,7 @@ USDT0, backed 1:1 by tethers, the largest stablecoin by market capitalization, i
 
 ---
 
-## 6. ‘Stablecoin’ Google searches down 54% as supply growth stalls after 2025 boom
+## 9. ‘Stablecoin’ Google searches down 54% as supply growth stalls after 2025 boom
 
 **Author:** Ivan Wu and Bryan Samsoedin  
 **Published:** 6/25/2026, 2:36:03 PM  
@@ -83,7 +119,7 @@ The decline in search volumes this month coincides with aggregate stablecoin sup
 
 ---
 
-## 7. Four arrested in Poland over crypto SIM-swap attacks; ZachXBT links ‘Merry’ to case
+## 10. Four arrested in Poland over crypto SIM-swap attacks; ZachXBT links ‘Merry’ to case
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/25/2026, 1:27:42 PM  
@@ -95,7 +131,7 @@ ZachXBT alleges threat actor 'Merry' is among those detained by Polish authoriti
 
 ---
 
-## 8. Spark, Uniswap build stablecoin ‘FX Layer’ seeded with $150 million liquidity migration
+## 11. Spark, Uniswap build stablecoin ‘FX Layer’ seeded with $150 million liquidity migration
 
 **Author:** Daniel Kuhn  
 **Published:** 6/25/2026, 1:00:00 PM  
@@ -107,7 +143,7 @@ Spark is establishing a "liquidity foundation" for the new pool by migrating $15
 
 ---
 
-## 9. ‘Waiting for buyers’: Bitcoin holds fragile $60K floor ahead of $10.6B quarterly expiry
+## 12. ‘Waiting for buyers’: Bitcoin holds fragile $60K floor ahead of $10.6B quarterly expiry
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/25/2026, 12:57:46 PM  
@@ -119,7 +155,7 @@ Bitcoin fell to the low $60,000s ahead of a $10.6B June 26 quarterly expiry as $
 
 ---
 
-## 10. SBI Holdings agrees to acquire Japanese crypto exchange Bitbank in $288.6 million deal
+## 13. SBI Holdings agrees to acquire Japanese crypto exchange Bitbank in $288.6 million deal
 
 **Author:** Brian Danga  
 **Published:** 6/25/2026, 10:52:40 AM  
@@ -131,7 +167,7 @@ SBI Holdings agreed to acquire Bitbank for $288.6 million, with the transaction 
 
 ---
 
-## 11. Half of UK wealth advisors say most clients’ crypto sits outside their oversight as 61% of European peers face firm restrictions: CoinShares
+## 14. Half of UK wealth advisors say most clients’ crypto sits outside their oversight as 61% of European peers face firm restrictions: CoinShares
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/25/2026, 10:14:13 AM  
@@ -143,7 +179,7 @@ CoinShares survey found 52% of UK advisors report most clients' crypto exposure 
 
 ---
 
-## 12. Kraken expands OTC lending through an onchain warehouse facility with Maple
+## 15. Kraken expands OTC lending through an onchain warehouse facility with Maple
 
 **Author:** Daniel Kuhn  
 **Published:** 6/25/2026, 10:00:00 AM  
@@ -155,7 +191,7 @@ Maple’s lenders will provide a revolving line of funding to supply USDC liquid
 
 ---
 
-## 13. Thailand issues arrest warrant for Chinese businessman tied to $28 million illegal crypto mining probe: report
+## 16. Thailand issues arrest warrant for Chinese businessman tied to $28 million illegal crypto mining probe: report
 
 **Author:** Brian Danga  
 **Published:** 6/25/2026, 9:44:00 AM  
@@ -167,7 +203,7 @@ Chinese businessman Wang Yicheng was accused of involvement in illegal crypto mi
 
 ---
 
-## 14. South Korea fines Bithumb for sharing user data overseas without consent
+## 17. South Korea fines Bithumb for sharing user data overseas without consent
 
 **Author:** Danny Park  
 **Published:** 6/25/2026, 7:44:31 AM  
@@ -179,7 +215,7 @@ South Korea ordered Bithumb to pay roughly $136,000 in penalties for violating p
 
 ---
 
-## 15. CoinEx processed $3.8 billion in Iran-linked funds, acting as crypto gateway: TRM Labs
+## 18. CoinEx processed $3.8 billion in Iran-linked funds, acting as crypto gateway: TRM Labs
 
 **Author:** Danny Park  
 **Published:** 6/25/2026, 5:55:29 AM  
@@ -188,29 +224,5 @@ South Korea ordered Bithumb to pay roughly $136,000 in penalties for violating p
 CoinEx has also interacted with terrorist organizations, including the Islamic Revolutionary Guard Corps, and sanctioned Russian entities.
 
 📖 [Read original article](https://www.theblock.co/post/406073/coinex-iran-trm-labs?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Ripple launches RLUSD stablecoin in Japan after regulatory approval
-
-**Author:** Timmy Shen  
-**Published:** 6/25/2026, 3:26:12 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, The Block  
-
-Ripple's RLUSD stablecoin is available through SBI VC Trade for both institutional and retail users in the country.
-
-📖 [Read original article](https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Kalshi in talks to raise funds at $40 billion valuation: FT
-
-**Author:** Danny Park  
-**Published:** 6/25/2026, 2:12:17 AM  
-**Categories:** Companies, Deals, The Block  
-
-Kalshi's reported valuation reflects the firm's rapid growth, as it reported a $5 billion valuation last October.
-
-📖 [Read original article](https://www.theblock.co/post/406061/kalshi-40-billion-valuation?utm_source=rss&utm_medium=rss)
 
 ---
