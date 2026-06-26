@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-24"
 date: "2026-06-24"
 source: "Decrypt"
-count: 18
+count: 11
 ---
 
 # Decrypt - 2026-06-24
 
-18 items collected.
+11 items collected.
 
 ---
 
@@ -140,89 +140,5 @@ Noman Saleem impersonated crypto influencers on Telegram, luring victims into a 
 As Bitcoin falls below the $60,000 mark, 21Shares said that its prediction that BTC breaks the historical four-year cycle hasn't come true.
 
 📖 [Read original article](https://decrypt.co/371985/bitcoin-hasnt-broken-4-year-cycle-yet-21shares)
-
----
-
-## 12. South Korean Officials Meet With US SEC, Weigh Unified Crypto Rules Amid Local Scandals
-
-**Author:** André Beganski  
-**Published:** 6/24/2026, 4:11:15 PM  
-**Categories:** , , Law and Order  
-
-Following a series of setbacks for South Korea, a delegation from one of Asia's most active crypto markets met with the SEC's task force.
-
-📖 [Read original article](https://decrypt.co/371970/south-korean-officials-meet-us-sec-unified-crypto-rules-scandals)
-
----
-
-## 13. OpenAI Turns Up the Heat With Jalapeño, Its First Custom AI Chip
-
-**Author:** Jason Nelson  
-**Published:** 6/24/2026, 3:42:31 PM  
-**Categories:** Artificial Intelligence  
-
-Built with Broadcom, the LLM-focused accelerator is the first step in OpenAI's effort to design the hardware behind ChatGPT and beyond.
-
-📖 [Read original article](https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip)
-
----
-
-## 14. Trump Cancels Signing of Bipartisan Housing Bill Containing CBDC Ban: 'Of Minor Importance'
-
-**Author:** Sander Lutz  
-**Published:** 6/24/2026, 3:34:50 PM  
-**Categories:** Law and Order  
-
-President Trump said he won’t sign the popular bill until Congress passes a controversial bill restricting voting rights.
-
-📖 [Read original article](https://decrypt.co/371975/trump-cancels-signing-bipartisan-housing-bill-cbdc-ban)
-
----
-
-## 15. Strategy Shares Crash Below $100 as Bitcoin Sinks Towards $60K
-
-**Author:** Andrew Hayward  
-**Published:** 6/24/2026, 2:31:29 PM  
-**Categories:** , Markets  
-
-Bitcoin fell to a two-week low price Wednesday as Strategy shares dove below the $100 mark for the first time since March 2024.
-
-📖 [Read original article](https://decrypt.co/371965/strategy-shares-crash-below-100-bitcoin-sinks-toward-60k)
-
----
-
-## 16. Morning Minute: Meta Is Building a Prediction Market
-
-**Author:** Tyler Warner  
-**Published:** 6/24/2026, 12:25:46 PM  
-**Categories:** , , Opinion  
-
-Arthur Hayes put out a bull case for the CARDS token, and the Clarity Act is facing some surprising opposition from a new group.
-
-📖 [Read original article](https://decrypt.co/371953/morning-minute-meta-is-building-a-prediction-market)
-
----
-
-## 17. DOJ Seizes Huione Infrastructure Linked to Billions in Crypto Laundering
-
-**Author:** Decrypt Agent  
-**Published:** 6/24/2026, 11:49:27 AM  
-**Categories:** , , monero, Law and Order  
-
-The seizure hits a cloud account that powered Huione Guarantee, a Telegram marketplace tied to billions in Southeast Asian scam proceeds.
-
-📖 [Read original article](https://decrypt.co/371950/doj-seizes-huione-infrastructure-linked-to-billions-in-crypto-laundering)
-
----
-
-## 18. Farage Says He Can Spend Tether Billionaire’s $6.7M Gift ‘On Ferraris’ if He Wants
-
-**Author:** Decrypt Agent  
-**Published:** 6/24/2026, 10:28:22 AM  
-**Categories:** Business  
-
-Reform UK leader Nigel Farage called the gift from Christopher Harborne a “private matter” amid a standards investigation.
-
-📖 [Read original article](https://decrypt.co/371948/farage-says-he-can-spend-tether-billionaires-6-7m-gift-on-ferraris-if-he-wants)
 
 ---
