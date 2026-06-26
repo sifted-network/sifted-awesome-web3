@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-23"
 date: "2026-06-23"
 source: "Decrypt"
-count: 10
+count: 7
 ---
 
 # Decrypt - 2026-06-23
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ A new benchmark designed to test strategic reasoning found an AI-controlled empi
 Prosus launched ToqanClaw, a no-code AI platform positioned as an European alternative to AI agents like OpenClaw.
 
 📖 [Read original article](https://decrypt.co/371869/toqanclaw-openclaw-competitor-privacy-gdpr)
-
----
-
-## 8. Bitcoin Tests Two-Week Low at $62K as Tech Stocks Waver on Wall Street
-
-**Author:** André Beganski  
-**Published:** 6/23/2026, 3:54:07 PM  
-**Categories:** , Markets  
-
-Investors are digesting a hawkish Fed, with risk-off sentiment driving a sell-off in AI and crypto
-
-📖 [Read original article](https://decrypt.co/371867/bitcoin-tests-two-week-low-at-62k-as-tech-stocks-waver-on-wall-street)
-
----
-
-## 9. Ethereum Foundation Cuts 20% of Workforce in 'Leaner' Reorganization
-
-**Author:** Logan Hitchcock  
-**Published:** 6/23/2026, 3:19:46 PM  
-**Categories:** Markets  
-
-The non-profit is cutting 54 jobs as it reorganizes into focused "clusters," following a succession of leadership departures.
-
-📖 [Read original article](https://decrypt.co/371864/ethereum-foundation-cuts-20-of-workforce-in-leaner-reorganization)
-
----
-
-## 10. Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network
-
-**Author:** Decrypt Agent  
-**Published:** 6/23/2026, 1:40:47 PM  
-**Categories:** , Law and Order  
-
-Thailand's DSI says a Chinese "grey capital" network used illegal crypto mining and cash mules to launder more than $300 million a year.
-
-📖 [Read original article](https://decrypt.co/371854/thailand-expands-crypto-mining-probe-into-300m-chinese-laundering-network)
 
 ---
