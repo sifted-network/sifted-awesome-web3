@@ -2,16 +2,64 @@
 title: "CoinDesk - 2026-06-26"
 date: "2026-06-26"
 source: "CoinDesk"
-count: 12
+count: 16
 ---
 
 # CoinDesk - 2026-06-26
 
-12 items collected.
+16 items collected.
 
 ---
 
-## 1. CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher
+## 1. Former Ethereum Foundation leader warns of funding gap as governance shifts
+
+**Author:** AI Boost  
+**Published:** 6/26/2026, 6:37:50 PM  
+**Categories:** Markets, Media Network Interview, Ethereum News, News  
+
+A former Ethereum Foundation member says the network must quickly build new funding institutions as the Foundation steps back.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts)
+
+---
+
+## 2. Anti-trafficking group says Clarity Act's Section 604 could weaken accountability
+
+**Author:** AI Boost  
+**Published:** 6/26/2026, 6:24:24 PM  
+**Categories:** Policy, Media Network Interview, News  
+
+An anti-human trafficking advocate said a Clarity Act provision could weaken accountability despite existing criminal laws.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/06/26/anti-trafficking-group-warns-clarity-act-s-section-604-could-weaken-accountability)
+
+---
+
+## 3. Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors
+
+**Author:** AI Boost  
+**Published:** 6/26/2026, 6:04:22 PM  
+**Categories:** CoinDesk News, Media Network Interview, News  
+
+The next phase of AI agents may be less about chat and more about earning, spending and coordinating.
+
+📖 [Read original article](https://www.coindesk.com/coindesk-news/2026/06/26/virtuals-jansen-teng-says-ai-agents-are-evolving-into-autonomous-economic-actors)
+
+---
+
+## 4. Securitize expects to raise $400 million as tokenization firm nears public debut
+
+**Author:** Krisztian Sandor  
+**Published:** 6/26/2026, 3:04:44 PM  
+**Categories:** Finance, Tokenization, News  
+
+The BlackRock-backed tokenization specialist expects to close its SPAC merger next week and start trading on the NYSE, pending shareholder approval.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/26/securitize-expects-to-raise-usd400-million-as-tokenization-firm-nears-public-debut)
+
+---
+
+## 5. CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher
 
 **Author:** CoinDesk Indices  
 **Published:** 6/26/2026, 1:22:16 PM  
@@ -23,7 +71,7 @@ Solana (SOL) gained 4.5%, joining Aave (AAVE) as a top performer.
 
 ---
 
-## 2. Wall Street's IPO revival hasn't reached dot-com euphoria levels, Goldman Sachs says
+## 6. Wall Street's IPO revival hasn't reached dot-com euphoria levels, Goldman Sachs says
 
 **Author:** Will Canny,AI Boost  
 **Published:** 6/26/2026, 12:25:36 PM  
@@ -35,7 +83,7 @@ U.S. IPO issuance has rebounded sharply in 2026, but the bank said the current s
 
 ---
 
-## 3. With crypto ending the first half in the red, bitcoin's solace is it beat Strategy
+## 7. With crypto ending the first half in the red, bitcoin's solace is it beat Strategy
 
 **Author:** Omkar Godbole  
 **Published:** 6/26/2026, 11:36:01 AM  
@@ -47,7 +95,7 @@ Your day-ahead look for June 26, 2026
 
 ---
 
-## 4. Bitcoin bounces from $58,000 as derivatives signal more pain in the pipeline
+## 8. Bitcoin bounces from $58,000 as derivatives signal more pain in the pipeline
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 6/26/2026, 11:03:20 AM  
@@ -59,7 +107,7 @@ BTC touched its lowest level since September 2024 before rebounding to $59,770, 
 
 ---
 
-## 5. All eyes on Strategy's June 30 ex-dividend date and monthly STRC dividend rate reset
+## 9. All eyes on Strategy's June 30 ex-dividend date and monthly STRC dividend rate reset
 
 **Author:** James Van Straten  
 **Published:** 6/26/2026, 10:28:24 AM  
@@ -71,7 +119,7 @@ Investors are watching the preferred stock's ex-dividend date and monthly divide
 
 ---
 
-## 6. Binance tells EU users it will no longer provide services after failing to secure MiCA license
+## 10. Binance tells EU users it will no longer provide services after failing to secure MiCA license
 
 **Author:** Olivier Acuna  
 **Published:** 6/26/2026, 10:19:22 AM  
@@ -83,7 +131,7 @@ A day after withdrawing its MiCA license application in Greece and saying it is 
 
 ---
 
-## 7. Ethereum treasury firm Sharplink buys ether for the first time in eight months
+## 11. Ethereum treasury firm Sharplink buys ether for the first time in eight months
 
 **Author:** Shaurya Malwa  
 **Published:** 6/26/2026, 9:47:07 AM  
@@ -95,7 +143,7 @@ The second-largest corporate ether holder purchased 5,000 ETH worth about $7.85 
 
 ---
 
-## 8. Japanese financial services giant SBI Holdings to buy Bitbank for $289 million
+## 12. Japanese financial services giant SBI Holdings to buy Bitbank for $289 million
 
 **Author:** Jamie Crawley  
 **Published:** 6/26/2026, 8:31:57 AM  
@@ -107,7 +155,7 @@ SBI said the purchase of the crypto exchange is set to close in October.
 
 ---
 
-## 9. Grant Cardone says he will keep buying bitcoin using real estate cash flows
+## 13. Grant Cardone says he will keep buying bitcoin using real estate cash flows
 
 **Author:** Shaurya Malwa  
 **Published:** 6/26/2026, 8:25:44 AM  
@@ -119,7 +167,7 @@ The real estate investor pitched his model as a treasury company backed by cash-
 
 ---
 
-## 10. Too big to fail: Strategy’s $13 billion bitcoin paper loss alone dwarfs hundreds of prominent tokens
+## 14. Too big to fail: Strategy’s $13 billion bitcoin paper loss alone dwarfs hundreds of prominent tokens
 
 **Author:** Omkar Godbole  
 **Published:** 6/26/2026, 6:37:29 AM  
@@ -131,7 +179,7 @@ Strategy’s paper loss exceeds the market caps of hundreds of tokens, highlight
 
 ---
 
-## 11. Ether, XRP and dogecoin lead a broad crypto selloff as tech stocks tumble
+## 15. Ether, XRP and dogecoin lead a broad crypto selloff as tech stocks tumble
 
 **Author:** Shaurya Malwa  
 **Published:** 6/26/2026, 5:41:51 AM  
@@ -143,13 +191,13 @@ Bitcoin slipped near $58,000 before recovering, and CF Benchmarks says the $50,0
 
 ---
 
-## 12. Live markets: Bitcoin falls below $60,000. Kospi, Nikkei sink
+## 16. Live markets: Bitcoin edges higher as U.S. stocks recover from big early losses
 
-**Author:** Omkar Godbole,Shaurya Malwa,James Van Straten,Helene Braun  
+**Author:** Omkar Godbole,Shaurya Malwa,James Van Straten,Helene Braun,Krisztian Sandor  
 **Published:** 6/26/2026, 5:10:37 AM  
 **Categories:** Tech, Bitcoin News, Live News, live_news  
 
-BTC sees a relief bounce as Asian stocks wilt following sharp losses on Wall Street.
+Markets are reassessing the certainty of one or more Fed rate hikes this year.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/06/26/live-markets-bitcoin-rebounds-to-nearly-usd60-000-kospi-nikkei-sink)
 
