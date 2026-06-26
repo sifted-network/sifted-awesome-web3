@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-25"
 date: "2026-06-25"
 source: "Cointelegraph"
-count: 18
+count: 12
 ---
 
 # Cointelegraph - 2026-06-25
 
-18 items collected.
+12 items collected.
 
 ---
 
@@ -152,77 +152,5 @@ Bitcoin fell to 21-month lows as stock market volatility accompanied three-year 
 Galaxy Digital’s stock surge points to a new trend: Investors are rewarding some crypto firms for AI infrastructure, not just digital asset exposure.
 
 📖 [Read original article](https://cointelegraph.com/learn/galaxy-digital-ai-infrastructure-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Story Protocol rebrands to DATA Foundation in AI pivot
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 6/25/2026, 3:00:00 PM  
-**Categories:** Latest News  
-
-Story Protocol is now the DATA Foundation as it aims to provide licensable data to AI firms that have “run out of internet to scrape.”
-
-📖 [Read original article](https://cointelegraph.com/news/story-protocol-pivots-to-ai-with-rebrand-to-data-foundation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. SBI to acquire Bitbank in $289M deal creating Japan's biggest crypto exchange
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 6/25/2026, 1:08:11 PM  
-**Categories:** Latest News  
-
-The Japanese financial conglomerate plans to take full control of Bitbank as it expands an ecosystem spanning crypto trading, stablecoins, tokenization and blockchain infrastructure.
-
-📖 [Read original article](https://cointelegraph.com/news/sbi-acquire-bitbank-289-million-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. About 60% of World Cup bettors on Polymarket are first-time crypto users
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/25/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-Polymarket emerged as an onboarding layer for about 60% of World Cup bettors, who interacted with the blockchain for the first time during their prediction market entry.
-
-📖 [Read original article](https://cointelegraph.com/news/polymarket-first-crypto-touchpoint-world-cup-bettors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Spark migrates $150M in stablecoin to Uniswap to advance shared liquidity
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 6/25/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-Spark deployed approximately $150 million across two Uniswap v4 pools on Ethereum, while its DualPool hook and Shared Liquidity Layer are planned for later phases.
-
-📖 [Read original article](https://cointelegraph.com/news/spark-deploys-150m-stablecoin-liquidity-uniswap-v4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Binance faces EU service limits next week as MiCA rules take effect
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 6/25/2026, 12:21:00 PM  
-**Categories:** Latest News  
-
-Binance will limit EU onboarding and services from July 1 under MiCA rules after failing to gain authorization from a member state, while withdrawals remain available for users.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-eu-service-limits-july-1-mica-effect?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Circle, Nomura eye Japan corporate FX with stablecoin settlement: Report
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/25/2026, 11:42:52 AM  
-**Categories:** Latest News  
-
-Circle and Nomura are reportedly partnering to enable stablecoin-based foreign exchange settlement for Japanese companies as the country's regulated blockchain-based financial infrastructure expands.
-
-📖 [Read original article](https://cointelegraph.com/news/circle-nomura-partner-instant-fx-settlement-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
