@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-25"
 date: "2026-06-25"
 source: "CoinDesk"
-count: 13
+count: 9
 ---
 
 # CoinDesk - 2026-06-25
 
-13 items collected.
+9 items collected.
 
 ---
 
@@ -116,53 +116,5 @@ Hyperion Decimus' Chris Sullivan said four historically reliable indicators have
 Derivatives markets signal that betting on further slide in prices is getting overcrowded, setting up for a potential snapback.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/bitcoin-plunges-to-new-multi-year-low-of-usd58-000-but-a-short-squeeze-setup-emerges)
-
----
-
-## 10. Crypto for Advisors: Bitcoin: planning for inheritance
-
-**Author:** Zac Townsend  
-**Published:** 6/25/2026, 3:00:00 PM  
-**Categories:** CoinDesk Indices, Financial Advisors, Crypto for Advisors, CoinDesk Indices, Newsletters, News  
-
-Your bitcoin isn’t just an asset; it’s a future. Ensure your loved ones can access it with a solid inheritance plan for when you're no longer here.
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/06/24/crypto-for-advisors-bitcoin-planning-for-inheritance)
-
----
-
-## 11. Bitcoin likely to fall another 30% to $44,000 by year-end, prominent BTC miner says
-
-**Author:** Shaurya Malwa  
-**Published:** 6/25/2026, 2:39:55 PM  
-**Categories:** Markets, Bitcoin News, Markets, MicroStrategy, News  
-
-An early miner says Strategy's stock mNAV has fallen to 0.72, near the level that marked the last cycle's turn, and that bitcoin historically bottoms about six months after that signal.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/bitcoin-can-fall-another-30-to-usd44-000-prominent-btc-miner-says)
-
----
-
-## 12. Kraken sues crypto derivatives firm PowerTrade over 'misappropriated' funds claim
-
-**Author:** Ian Allison  
-**Published:** 6/25/2026, 1:53:28 PM  
-**Categories:** Policy, Kraken, Exclusive, News  
-
-PowerTrade changed Kraken’s positive balance of more than $6 million to a $2 million deficit via a series of unauthorized “corrections” related to trades that had expired or settled months earlier, according to a legal filing.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/25/kraken-sues-crypto-derivatives-firm-powertrade-over-misappropriated-funds-claim)
-
----
-
-## 13. CoinDesk 20 performance update: AAVE gains 10.1% as index rises
-
-**Author:** CoinDesk Indices  
-**Published:** 6/25/2026, 1:15:26 PM  
-**Categories:** CoinDesk Indices, CoinDesk Indices, CoinDesk 20, charts, Prices, News  
-
-Bitcoin Cash (BCH), up 5.8% from Wednesday, joined Aave (AAVE) as a top performer.
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/06/25/coindesk-20-performance-update-aave-gains-10-1-as-index-rises)
 
 ---
