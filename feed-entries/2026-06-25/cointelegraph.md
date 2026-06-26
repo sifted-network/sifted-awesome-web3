@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-06-25"
 date: "2026-06-25"
 source: "Cointelegraph"
-count: 22
+count: 26
 ---
 
 # Cointelegraph - 2026-06-25
 
-22 items collected.
+26 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Does Botanix’s failure prove Bitcoiners don’t care about DeFi?
+
+**Author:** Christina Comben  
+**Published:** 6/25/2026, 11:09:10 PM  
+**Categories:** Features, DeFi, Developers, Yields, Lending, Layer2  
+
+The failure of Botanix suggests that Bitcoiners still prefer Ethereum DeFi to Bitcoin L2s. How can Bitcoin L2s change to win hodlers over?
+
+📖 [Read original article](https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 2. Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?
+
+**Author:** Marcel Pechman  
+**Published:** 6/25/2026, 9:02:50 PM  
+**Categories:** Markets, Markets, Market Analysis, Bitcoin Price, Bitcoin ETF, MicroStrategy, Stocks  
+
+Bitcoin’s trek into new 2026 lows continued as spot BTC ETF outflows, a bearish monthly options expiry and Strategy’s unrealized losses widened its gap with AI-connected stock returns.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 3. Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says
+
+**Author:** Nate Kostar  
+**Published:** 6/25/2026, 8:10:41 PM  
+**Categories:** Latest News, MicroStrategy, Bitcoin Price, Michael Saylor, Bitcoin Options, BlackRock  
+
+Anchorage Digital’s latest analysis shows Bitcoin options traders remain defensive as near-term uncertainty persists, though markets are not pricing an extreme downside scenario for Strategy.
+
+📖 [Read original article](https://cointelegraph.com/news/bitcoin-options-traders-hedge-downside-as-uncertainty-lingers-anchorage-says?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 4. Bitcoin may fall lower but BTC power-law frames crash to $58K as ‘normal’
+
+**Author:** Biraajmaan Tamuly  
+**Published:** 6/25/2026, 7:51:35 PM  
+**Categories:** Markets, Bitcoin Price, Bitcoin Analysis, Markets, BTC Markets, Binance, Cryptocurrency Exchange, Cryptocurrencies, Liquidity, Bitcoin Futures  
+
+Bitcoin’s drop to $58,000 lines up with the power-law model’s cycle lows, even though futures market data points to deeper lows for BTC price.
+
+📖 [Read original article](https://cointelegraph.com/markets/key-bitcoin-price-levels-after-btc-power-law-says-58k-is-normal?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+
+---
+
+## 5. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 6/25/2026, 7:32:21 PM  
@@ -23,7 +71,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Half of UK wealth advisers say clients' crypto is ‘invisible’ to them: CoinShares survey
+## 6. Half of UK wealth advisers say clients' crypto is ‘invisible’ to them: CoinShares survey
 
 **Author:** Turner Wright  
 **Published:** 6/25/2026, 7:18:03 PM  
@@ -35,7 +83,7 @@ A CoinShares survey found than many EU-based wealth management companies had pol
 
 ---
 
-## 3. Bitcoin drop to $58K brings out bears: Is BTC’s next stop below $50K?
+## 7. Bitcoin drop to $58K brings out bears: Is BTC’s next stop below $50K?
 
 **Author:** Yashu Gola  
 **Published:** 6/25/2026, 6:05:06 PM  
@@ -47,7 +95,7 @@ Bitcoin’s crash to $58,000 confirmed a bear flag breakdown, setting a new pric
 
 ---
 
-## 4. XRP risks drop below $1, but onchain data highlights silver lining
+## 8. XRP risks drop below $1, but onchain data highlights silver lining
 
 **Author:** Biraajmaan Tamuly  
 **Published:** 6/25/2026, 5:11:33 PM  
@@ -59,7 +107,7 @@ XRP’s chance of a daily close below $1 are rising, but whale accumulation and 
 
 ---
 
-## 5. 21shares trims 2026 crypto forecasts despite institutional adoption gains
+## 9. 21shares trims 2026 crypto forecasts despite institutional adoption gains
 
 **Author:** Sam Bourgi  
 **Published:** 6/25/2026, 5:00:58 PM  
@@ -71,7 +119,7 @@ Asset manager 21shares sees crypto infrastructure advancing faster than prices, 
 
 ---
 
-## 6. Kraken, Maple launch onchain warehouse facility for crypto-backed institutional loans
+## 10. Kraken, Maple launch onchain warehouse facility for crypto-backed institutional loans
 
 **Author:** Nate Kostar  
 **Published:** 6/25/2026, 4:41:47 PM  
@@ -83,7 +131,7 @@ Kraken's new facility with Maple brings a traditional warehouse financing model 
 
 ---
 
-## 7. South Korean authorities fine Bithumb $136K over sharing user information overseas
+## 11. South Korean authorities fine Bithumb $136K over sharing user information overseas
 
 **Author:** Turner Wright  
 **Published:** 6/25/2026, 4:13:43 PM  
@@ -95,7 +143,7 @@ The fine comes after an investigation concluded that Bithumb shared information 
 
 ---
 
-## 8. Bitcoin drops to $58K on high US PCE inflation as trader sees 'manipulation'
+## 12. Bitcoin drops to $58K on high US PCE inflation as trader sees 'manipulation'
 
 **Author:** William Suberg  
 **Published:** 6/25/2026, 3:34:45 PM  
@@ -107,7 +155,7 @@ Bitcoin fell to 21-month lows as stock market volatility accompanied three-year 
 
 ---
 
-## 9. Why Wall Street values some crypto firms for AI power, not just crypto
+## 13. Why Wall Street values some crypto firms for AI power, not just crypto
 
 **Author:** Dilip Kumar Patairya  
 **Published:** 6/25/2026, 3:00:00 PM  
@@ -119,7 +167,7 @@ Galaxy Digital’s stock surge points to a new trend: Investors are rewarding so
 
 ---
 
-## 10. Story Protocol rebrands to DATA Foundation in AI pivot
+## 14. Story Protocol rebrands to DATA Foundation in AI pivot
 
 **Author:** Jesse Coghlan  
 **Published:** 6/25/2026, 3:00:00 PM  
@@ -131,7 +179,7 @@ Story Protocol is now the DATA Foundation as it aims to provide licensable data 
 
 ---
 
-## 11. SBI to acquire Bitbank in $289M deal creating Japan's biggest crypto exchange
+## 15. SBI to acquire Bitbank in $289M deal creating Japan's biggest crypto exchange
 
 **Author:** Ezra Reguerra  
 **Published:** 6/25/2026, 1:08:11 PM  
@@ -143,7 +191,7 @@ The Japanese financial conglomerate plans to take full control of Bitbank as it 
 
 ---
 
-## 12. About 60% of World Cup bettors on Polymarket are first-time crypto users
+## 16. About 60% of World Cup bettors on Polymarket are first-time crypto users
 
 **Author:** Zoltan Vardai  
 **Published:** 6/25/2026, 1:00:00 PM  
@@ -155,7 +203,7 @@ Polymarket emerged as an onboarding layer for about 60% of World Cup bettors, wh
 
 ---
 
-## 13. Spark migrates $150M in stablecoin to Uniswap to advance shared liquidity
+## 17. Spark migrates $150M in stablecoin to Uniswap to advance shared liquidity
 
 **Author:** Ezra Reguerra  
 **Published:** 6/25/2026, 1:00:00 PM  
@@ -167,7 +215,7 @@ Spark deployed approximately $150 million across two Uniswap v4 pools on Ethereu
 
 ---
 
-## 14. Binance faces EU service limits next week as MiCA rules take effect
+## 18. Binance faces EU service limits next week as MiCA rules take effect
 
 **Author:** Helen Partz  
 **Published:** 6/25/2026, 12:21:00 PM  
@@ -179,7 +227,7 @@ Binance will limit EU onboarding and services from July 1 under MiCA rules after
 
 ---
 
-## 15. Circle, Nomura eye Japan corporate FX with stablecoin settlement: Report
+## 19. Circle, Nomura eye Japan corporate FX with stablecoin settlement: Report
 
 **Author:** Zoltan Vardai  
 **Published:** 6/25/2026, 11:42:52 AM  
@@ -191,7 +239,7 @@ Circle and Nomura are reportedly partnering to enable stablecoin-based foreign e
 
 ---
 
-## 16. Iran-linked entities moved $3.8B through CoinEx, TRM says
+## 20. Iran-linked entities moved $3.8B through CoinEx, TRM says
 
 **Author:** Zoltan Vardai  
 **Published:** 6/25/2026, 9:44:14 AM  
@@ -203,7 +251,7 @@ TRM Labs traced $3.8 billion moved by 60 sanctioned Iranian entities through Coi
 
 ---
 
-## 17. Indonesia sets certification rules for influencers recommending crypto
+## 21. Indonesia sets certification rules for influencers recommending crypto
 
 **Author:** Ezra Reguerra  
 **Published:** 6/25/2026, 8:44:15 AM  
@@ -215,7 +263,7 @@ Indonesia’s financial regulator will require influencers recommending crypto a
 
 ---
 
-## 18. Polish crypto exchange Kanga secures MiCA license in Latvia
+## 22. Polish crypto exchange Kanga secures MiCA license in Latvia
 
 **Author:** Helen Partz  
 **Published:** 6/25/2026, 8:24:41 AM  
@@ -227,7 +275,7 @@ Poland-founded crypto exchange Kanga has secured a Class 3 MiCA license in Latvi
 
 ---
 
-## 19. US arbitration giant rolls out ‘legal layer’ for agentic commerce
+## 23. US arbitration giant rolls out ‘legal layer’ for agentic commerce
 
 **Author:** Martin Young  
 **Published:** 6/25/2026, 6:26:29 AM  
@@ -239,7 +287,7 @@ As agentic AI transactions increase, “we need to know there’s a clear answer
 
 ---
 
-## 20. House Democrats seek SEC answers on AI investment advisers
+## 24. House Democrats seek SEC answers on AI investment advisers
 
 **Author:** Jesse Coghlan  
 **Published:** 6/25/2026, 5:47:21 AM  
@@ -251,7 +299,7 @@ House Democrats have questioned the SEC over trading platforms offering AI agent
 
 ---
 
-## 21. Abracadabra takes emergency action as MIM stablecoin depeg worsens
+## 25. Abracadabra takes emergency action as MIM stablecoin depeg worsens
 
 **Author:** Martin Young  
 **Published:** 6/25/2026, 3:22:05 AM  
@@ -263,7 +311,7 @@ The protocol is raising interest rates across all Cauldrons to encourage debt re
 
 ---
 
-## 22. Kalshi seeks funding at $40B valuation, nearly doubling last raise: FT
+## 26. Kalshi seeks funding at $40B valuation, nearly doubling last raise: FT
 
 **Author:** Felix Ng  
 **Published:** 6/25/2026, 2:23:39 AM  
