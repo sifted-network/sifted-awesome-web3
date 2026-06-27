@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-06-27"
 date: "2026-06-27"
 source: "Cointelegraph"
-count: 5
+count: 6
 ---
 
 # Cointelegraph - 2026-06-27
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. EU lawmakers urge assessing DeFi, staking, NFT regulation
+## 1. SecondFi targets two-week recovery after Cardano wallet exploit
+
+**Author:** Cointelegraph by Cointelegraph  
+**Published:** 6/27/2026, 12:00:56 PM  
+**Categories:** Latest News  
+
+SecondFi says it has completed forensic investigations, taken a final balance snapshot and is preparing to return assets.
+
+📖 [Read original article](https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. EU lawmakers urge assessing DeFi, staking, NFT regulation
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/27/2026, 8:21:04 AM  
@@ -23,7 +35,7 @@ The nonbinding report outlines Parliament's vision for future EU crypto regulati
 
 ---
 
-## 2. Securitize expects to raise $400M ahead of public debut
+## 3. Securitize expects to raise $400M ahead of public debut
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/27/2026, 5:35:27 AM  
@@ -35,7 +47,7 @@ Securitize says less than 30% of shareholders in the acquisition firm taking it 
 
 ---
 
-## 3. Here’s what happened in crypto today
+## 4. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/27/2026, 5:30:00 AM  
@@ -47,7 +59,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 4. SOL reclaims $72, but onchain data flags weakening momentum
+## 5. SOL reclaims $72, but onchain data flags weakening momentum
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 6/27/2026, 2:47:59 AM  
@@ -59,7 +71,7 @@ Solana found strength from tokenized stock trading on its network, but a declini
 
 ---
 
-## 5. US senators urge CFTC probe Polymarket over ‘deceptive marketing’
+## 6. US senators urge CFTC probe Polymarket over ‘deceptive marketing’
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/27/2026, 2:16:06 AM  
