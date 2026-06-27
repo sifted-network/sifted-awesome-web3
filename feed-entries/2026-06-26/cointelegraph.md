@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-26"
 date: "2026-06-26"
 source: "Cointelegraph"
-count: 19
+count: 18
 ---
 
 # Cointelegraph - 2026-06-26
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -95,19 +95,7 @@ Bitcoin risked turning $60,000 into resistance as BTC price weakness persisted f
 
 ---
 
-## 8. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 6/26/2026, 2:06:06 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Framework Ventures raises $400M to invest beyond crypto: Report
+## 8. Framework Ventures raises $400M to invest beyond crypto: Report
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/26/2026, 1:58:28 PM  
@@ -119,7 +107,7 @@ Framework Ventures raises $400 million fourth fund as it expands into AI, roboti
 
 ---
 
-## 10. Hyperliquid added to Singapore's Investor Alert List
+## 9. Hyperliquid added to Singapore's Investor Alert List
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/26/2026, 1:11:29 PM  
@@ -131,7 +119,7 @@ Singapore’s financial regulator added Hyperliquid to its Investor Alert List, 
 
 ---
 
-## 11. Australian regulator extends no-action period for crypto licensing
+## 10. Australian regulator extends no-action period for crypto licensing
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/26/2026, 12:14:31 PM  
@@ -143,7 +131,7 @@ Australia’s financial regulator extended temporary enforcement relief for digi
 
 ---
 
-## 12. AscendEX withdrawal complaints mount as ZachXBT questions reserves
+## 11. AscendEX withdrawal complaints mount as ZachXBT questions reserves
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/26/2026, 11:47:02 AM  
@@ -155,7 +143,7 @@ Multiple users reported delayed AscendEX withdrawals after ZachXBT flagged poten
 
 ---
 
-## 13. Bitcoin ETFs post June's biggest daily outflows as BTC falls below $60K
+## 12. Bitcoin ETFs post June's biggest daily outflows as BTC falls below $60K
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/26/2026, 9:36:34 AM  
@@ -167,7 +155,7 @@ US Bitcoin ETFs recorded $696.3 million in outflows as Bitcoin slipped below $60
 
 ---
 
-## 14. Polymarket hit by $2.9M theft, users to be refunded
+## 13. Polymarket hit by $2.9M theft, users to be refunded
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/26/2026, 8:20:37 AM  
@@ -179,7 +167,7 @@ Polymarket said it contained the compromise and removed the affected dependency 
 
 ---
 
-## 15. Tether stablecoin flips Ether by market cap as ETH routs to $1.5K
+## 14. Tether stablecoin flips Ether by market cap as ETH routs to $1.5K
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/26/2026, 6:02:01 AM  
@@ -191,7 +179,7 @@ Ether prices are currently back at crucial long-term support levels last visited
 
 ---
 
-## 16. Coinbase's Base resumes block production after 2-hour outage
+## 15. Coinbase's Base resumes block production after 2-hour outage
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/26/2026, 5:10:44 AM  
@@ -203,7 +191,7 @@ Coinbase's blockchain Base says a consensus problem knocked its network offline 
 
 ---
 
-## 17. Sharplink buys ETH after 8-month pause as token hits 2026 low
+## 16. Sharplink buys ETH after 8-month pause as token hits 2026 low
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 6/26/2026, 3:56:08 AM  
@@ -215,7 +203,7 @@ In May, Sharplink CEO Joseph Chalom named three catalysts that could push up the
 
 ---
 
-## 18. StablecoinX bets on Ethena ecosystem with Nasdaq debut
+## 17. StablecoinX bets on Ethena ecosystem with Nasdaq debut
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/26/2026, 3:48:03 AM  
@@ -227,7 +215,7 @@ USDe circulating supply has shrunk by 70% since the October bull market peak, wh
 
 ---
 
-## 19. BitGo cuts 15% of staff to sharpen focus on AI, stablecoins
+## 18. BitGo cuts 15% of staff to sharpen focus on AI, stablecoins
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/26/2026, 12:41:02 AM  
