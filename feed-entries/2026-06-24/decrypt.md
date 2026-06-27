@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-24"
 date: "2026-06-24"
 source: "Decrypt"
-count: 10
+count: 7
 ---
 
 # Decrypt - 2026-06-24
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ A leaker found new strings inside Claude Code that hint at weekly Fable 5 usage 
 A physicist's formal critique argues Microsoft has not demonstrated the topological qubit behind its Majorana 2 quantum chip.
 
 📖 [Read original article](https://decrypt.co/371998/microsoft-topological-qubit-quantum-claims-challenge)
-
----
-
-## 8. 'Stop Buying Bitcoin': Strategy Needs More Cash Fast, Analyst Says as STRC Hits New Low
-
-**Author:** André Beganski  
-**Published:** 6/24/2026, 6:40:29 PM  
-**Categories:** , Business  
-
-STRC fell even lower Wednesday while MSTR bleeds. CryptoQuant says that Strategy needs to stop buying Bitcoin and start stacking cash.
-
-📖 [Read original article](https://decrypt.co/371995/stop-buying-bitcoin-strategy-needs-more-cash-fast-strc-new-low)
-
----
-
-## 9. Binance Withdraws MiCA License Application in Greece, Leaving EU Users in Limbo
-
-**Author:** Logan Hitchcock  
-**Published:** 6/24/2026, 5:37:52 PM  
-**Categories:** , , Law and Order  
-
-Crypto exchange Binance formally withdrew its MiCA license application in Greece, one week after a report said it would be denied.
-
-📖 [Read original article](https://decrypt.co/371990/binance-withdraws-mica-license-application-greece-eu-users-limbo)
-
----
-
-## 10. Fake Crypto Influencer Gets 15 Months for $1.4M Telegram Staking Fraud
-
-**Author:** Decrypt Agent  
-**Published:** 6/24/2026, 5:18:31 PM  
-**Categories:** , Law and Order  
-
-Noman Saleem impersonated crypto influencers on Telegram, luring victims into a fake staking scheme before vanishing with their funds.
-
-📖 [Read original article](https://decrypt.co/371989/fake-crypto-influencer-gets-15-months-for-1-4m-telegram-staking-fraud)
 
 ---
