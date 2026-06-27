@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-25"
 date: "2026-06-25"
 source: "Cointelegraph"
-count: 10
+count: 7
 ---
 
 # Cointelegraph - 2026-06-25
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ Bitcoin’s crash to $58,000 confirmed a bear flag breakdown, setting a new pric
 XRP’s chance of a daily close below $1 are rising, but whale accumulation and shrinking exchange supply may be a sign that traders are buying.
 
 📖 [Read original article](https://cointelegraph.com/markets/xrp-may-lose-1-but-onchain-data-signals-improving-outlook-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. 21shares trims 2026 crypto forecasts despite institutional adoption gains
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 6/25/2026, 5:00:58 PM  
-**Categories:** Latest News  
-
-Asset manager 21shares sees crypto infrastructure advancing faster than prices, as ETFs, stablecoins and prediction markets mature while several 2026 targets slip.
-
-📖 [Read original article](https://cointelegraph.com/news/21shares-trims-2026-crypto-forecasts-etf-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Kraken, Maple launch onchain warehouse facility for crypto-backed institutional loans
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 6/25/2026, 4:41:47 PM  
-**Categories:** Latest News  
-
-Kraken's new facility with Maple brings a traditional warehouse financing model onchain, allowing the exchange to expand its institutional crypto lending business using blockchain-based structured credit.
-
-📖 [Read original article](https://cointelegraph.com/news/kraken-maple-launch-onchain-warehouse-facility-for-crypto-backed-institutional-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. South Korean authorities fine Bithumb $136K over sharing user information overseas
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 6/25/2026, 4:13:43 PM  
-**Categories:** Latest News  
-
-The fine comes after an investigation concluded that Bithumb shared information with many overseas exchanges in violation of laws intended to protect user data.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korea-investigation-bithumb-user-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
