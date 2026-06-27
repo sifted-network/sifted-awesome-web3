@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-06-26"
 date: "2026-06-26"
 source: "CoinDesk"
-count: 16
+count: 18
 ---
 
 # CoinDesk - 2026-06-26
 
-16 items collected.
+18 items collected.
 
 ---
 
-## 1. Former Ethereum Foundation leader warns of funding gap as governance shifts
+## 1. Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000
+
+**Author:** Krisztian Sandor  
+**Published:** 6/26/2026, 8:15:03 PM  
+**Categories:** Markets, Markets, Aave, DeFi, Solana News, News  
+
+Tokenized stock trading fueled fresh momentum across the Solana ecosystem, while Aave founder hinted at token buybacks coming under new framework.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000)
+
+---
+
+## 2. U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s
+
+**Author:** Jesse Hamilton  
+**Published:** 6/26/2026, 7:38:12 PM  
+**Categories:** Policy, Regulation, News  
+
+Maxine Waters, the ranking Democrat on House Financial Services, asked the chief of the Department of Labor to withdraw its proposal on alternative assets.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s)
+
+---
+
+## 3. Former Ethereum Foundation leader warns of funding gap as governance shifts
 
 **Author:** AI Boost  
 **Published:** 6/26/2026, 6:37:50 PM  
@@ -23,7 +47,7 @@ A former Ethereum Foundation member says the network must quickly build new fund
 
 ---
 
-## 2. Anti-trafficking group says Clarity Act's Section 604 could weaken accountability
+## 4. Anti-trafficking group says Clarity Act's Section 604 could weaken accountability
 
 **Author:** AI Boost  
 **Published:** 6/26/2026, 6:24:24 PM  
@@ -35,7 +59,7 @@ An anti-human trafficking advocate said a Clarity Act provision could weaken acc
 
 ---
 
-## 3. Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors
+## 5. Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors
 
 **Author:** AI Boost  
 **Published:** 6/26/2026, 6:04:22 PM  
@@ -47,7 +71,7 @@ The next phase of AI agents may be less about chat and more about earning, spend
 
 ---
 
-## 4. Securitize expects to raise $400 million as tokenization firm nears public debut
+## 6. Securitize expects to raise $400 million as tokenization firm nears public debut
 
 **Author:** Krisztian Sandor  
 **Published:** 6/26/2026, 3:04:44 PM  
@@ -59,7 +83,7 @@ The BlackRock-backed tokenization specialist expects to close its SPAC merger ne
 
 ---
 
-## 5. CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher
+## 7. CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher
 
 **Author:** CoinDesk Indices  
 **Published:** 6/26/2026, 1:22:16 PM  
@@ -71,7 +95,7 @@ Solana (SOL) gained 4.5%, joining Aave (AAVE) as a top performer.
 
 ---
 
-## 6. Wall Street's IPO revival hasn't reached dot-com euphoria levels, Goldman Sachs says
+## 8. Wall Street's IPO revival hasn't reached dot-com euphoria levels, Goldman Sachs says
 
 **Author:** Will Canny,AI Boost  
 **Published:** 6/26/2026, 12:25:36 PM  
@@ -83,7 +107,7 @@ U.S. IPO issuance has rebounded sharply in 2026, but the bank said the current s
 
 ---
 
-## 7. With crypto ending the first half in the red, bitcoin's solace is it beat Strategy
+## 9. With crypto ending the first half in the red, bitcoin's solace is it beat Strategy
 
 **Author:** Omkar Godbole  
 **Published:** 6/26/2026, 11:36:01 AM  
@@ -95,7 +119,7 @@ Your day-ahead look for June 26, 2026
 
 ---
 
-## 8. Bitcoin bounces from $58,000 as derivatives signal more pain in the pipeline
+## 10. Bitcoin bounces from $58,000 as derivatives signal more pain in the pipeline
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 6/26/2026, 11:03:20 AM  
@@ -107,7 +131,7 @@ BTC touched its lowest level since September 2024 before rebounding to $59,770, 
 
 ---
 
-## 9. All eyes on Strategy's June 30 ex-dividend date and monthly STRC dividend rate reset
+## 11. All eyes on Strategy's June 30 ex-dividend date and monthly STRC dividend rate reset
 
 **Author:** James Van Straten  
 **Published:** 6/26/2026, 10:28:24 AM  
@@ -119,7 +143,7 @@ Investors are watching the preferred stock's ex-dividend date and monthly divide
 
 ---
 
-## 10. Binance tells EU users it will no longer provide services after failing to secure MiCA license
+## 12. Binance tells EU users it will no longer provide services after failing to secure MiCA license
 
 **Author:** Olivier Acuna  
 **Published:** 6/26/2026, 10:19:22 AM  
@@ -131,7 +155,7 @@ A day after withdrawing its MiCA license application in Greece and saying it is 
 
 ---
 
-## 11. Ethereum treasury firm Sharplink buys ether for the first time in eight months
+## 13. Ethereum treasury firm Sharplink buys ether for the first time in eight months
 
 **Author:** Shaurya Malwa  
 **Published:** 6/26/2026, 9:47:07 AM  
@@ -143,7 +167,7 @@ The second-largest corporate ether holder purchased 5,000 ETH worth about $7.85 
 
 ---
 
-## 12. Japanese financial services giant SBI Holdings to buy Bitbank for $289 million
+## 14. Japanese financial services giant SBI Holdings to buy Bitbank for $289 million
 
 **Author:** Jamie Crawley  
 **Published:** 6/26/2026, 8:31:57 AM  
@@ -155,7 +179,7 @@ SBI said the purchase of the crypto exchange is set to close in October.
 
 ---
 
-## 13. Grant Cardone says he will keep buying bitcoin using real estate cash flows
+## 15. Grant Cardone says he will keep buying bitcoin using real estate cash flows
 
 **Author:** Shaurya Malwa  
 **Published:** 6/26/2026, 8:25:44 AM  
@@ -167,7 +191,7 @@ The real estate investor pitched his model as a treasury company backed by cash-
 
 ---
 
-## 14. Too big to fail: Strategy’s $13 billion bitcoin paper loss alone dwarfs hundreds of prominent tokens
+## 16. Too big to fail: Strategy’s $13 billion bitcoin paper loss alone dwarfs hundreds of prominent tokens
 
 **Author:** Omkar Godbole  
 **Published:** 6/26/2026, 6:37:29 AM  
@@ -179,7 +203,7 @@ Strategy’s paper loss exceeds the market caps of hundreds of tokens, highlight
 
 ---
 
-## 15. Ether, XRP and dogecoin lead a broad crypto selloff as tech stocks tumble
+## 17. Ether, XRP and dogecoin lead a broad crypto selloff as tech stocks tumble
 
 **Author:** Shaurya Malwa  
 **Published:** 6/26/2026, 5:41:51 AM  
@@ -191,7 +215,7 @@ Bitcoin slipped near $58,000 before recovering, and CF Benchmarks says the $50,0
 
 ---
 
-## 16. Live markets: Bitcoin edges higher as U.S. stocks recover from big early losses
+## 18. Live markets: Bitcoin edges higher as U.S. stocks recover from big early losses
 
 **Author:** Omkar Godbole,Shaurya Malwa,James Van Straten,Helene Braun,Krisztian Sandor  
 **Published:** 6/26/2026, 5:10:37 AM  
