@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-25"
 date: "2026-06-25"
 source: "Cointelegraph"
-count: 7
+count: 6
 ---
 
 # Cointelegraph - 2026-06-25
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ A CoinShares survey found than many EU-based wealth management companies had pol
 Bitcoin’s crash to $58,000 confirmed a bear flag breakdown, setting a new price target of $54,000 or lower.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-under-60k-activates-multiple-setups-with-54k-btc-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. XRP risks drop below $1, but onchain data highlights silver lining
-
-**Author:** Cointelegraph by Biraajmaan Tamuly  
-**Published:** 6/25/2026, 5:11:33 PM  
-**Categories:** Markets  
-
-XRP’s chance of a daily close below $1 are rising, but whale accumulation and shrinking exchange supply may be a sign that traders are buying.
-
-📖 [Read original article](https://cointelegraph.com/markets/xrp-may-lose-1-but-onchain-data-signals-improving-outlook-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
