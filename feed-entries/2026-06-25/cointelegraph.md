@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-25"
 date: "2026-06-25"
 source: "Cointelegraph"
-count: 6
+count: 4
 ---
 
 # Cointelegraph - 2026-06-25
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ Anchorage Digital’s latest analysis shows Bitcoin options traders remain defen
 Bitcoin’s drop to $58,000 lines up with the power-law model’s cycle lows, even though futures market data points to deeper lows for BTC price.
 
 📖 [Read original article](https://cointelegraph.com/markets/key-bitcoin-price-levels-after-btc-power-law-says-58k-is-normal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Half of UK wealth advisers say clients' crypto is ‘invisible’ to them: CoinShares survey
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 6/25/2026, 7:18:03 PM  
-**Categories:** Latest News  
-
-A CoinShares survey found than many EU-based wealth management companies had policies that restricted investments in digital assets or provided no guidance on the matter.
-
-📖 [Read original article](https://cointelegraph.com/news/uk-wealth-advisors-clients-crypto-invisible-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Bitcoin drop to $58K brings out bears: Is BTC’s next stop below $50K?
-
-**Author:** Cointelegraph by Yashu Gola  
-**Published:** 6/25/2026, 6:05:06 PM  
-**Categories:** Markets  
-
-Bitcoin’s crash to $58,000 confirmed a bear flag breakdown, setting a new price target of $54,000 or lower.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-under-60k-activates-multiple-setups-with-54k-btc-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
