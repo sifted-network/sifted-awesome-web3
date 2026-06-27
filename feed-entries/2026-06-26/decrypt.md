@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-06-26"
 date: "2026-06-26"
 source: "Decrypt"
-count: 11
+count: 12
 ---
 
 # Decrypt - 2026-06-26
 
-11 items collected.
+12 items collected.
 
 ---
 
-## 1. Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks
+## 1. Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut
+
+**Author:** André Beganski  
+**Published:** 6/26/2026, 8:47:44 PM  
+**Categories:** Business  
+
+Securitize expects to begin trading next week under the ticker symbol “SECZ,” following the completion of a merger with a blank-check firm.
+
+📖 [Read original article](https://decrypt.co/372249/wall-street-next-tokenization-test-blackrock-backed-securitize-ipo)
+
+---
+
+## 2. Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks
 
 **Author:** Jose Antonio Lanz  
 **Published:** 6/26/2026, 7:23:37 PM  
@@ -23,7 +35,7 @@ A coalition of 19 organizations—including every major AI lab and Wall Street b
 
 ---
 
-## 2. Senators Demand Answers From CFTC Over Alleged Polymarket Deceptive Advertising
+## 3. Senators Demand Answers From CFTC Over Alleged Polymarket Deceptive Advertising
 
 **Author:** Logan Hitchcock  
 **Published:** 6/26/2026, 7:18:41 PM  
@@ -35,7 +47,7 @@ Senators are seeking answers from the CFTC about recent allegations of deceptive
 
 ---
 
-## 3. OpenAI Rolls Out GPT-5.6—But Only for Some Users Due to Trump Admin
+## 4. OpenAI Rolls Out GPT-5.6—But Only for Some Users Due to Trump Admin
 
 **Author:** Jason Nelson  
 **Published:** 6/26/2026, 7:06:06 PM  
@@ -47,7 +59,7 @@ OpenAI introduced the GPT-5.6 family of AI models on Friday, but only limited us
 
 ---
 
-## 4. Spanish Regulator Says No Extensions for EU Crypto Deadline as Binance Remains Unlicensed
+## 5. Spanish Regulator Says No Extensions for EU Crypto Deadline as Binance Remains Unlicensed
 
 **Author:** Sander Lutz  
 **Published:** 6/26/2026, 6:02:22 PM  
@@ -59,7 +71,7 @@ Crypto firms operating in the European Union will be forced to cease operations 
 
 ---
 
-## 5. This AI Agent Survived 6,000 Hack Attempts—Here’s How
+## 6. This AI Agent Survived 6,000 Hack Attempts—Here’s How
 
 **Author:** Jose Antonio Lanz  
 **Published:** 6/26/2026, 6:01:47 PM  
@@ -71,7 +83,7 @@ Fernando Irarrázaval posted his OpenClaw assistant's inbox to Hacker News and w
 
 ---
 
-## 6. Kalshi Scores FIFA World Cup Spotlight as Prediction Market Trading Surges to Record
+## 7. Kalshi Scores FIFA World Cup Spotlight as Prediction Market Trading Surges to Record
 
 **Author:** André Beganski  
 **Published:** 6/26/2026, 5:35:20 PM  
@@ -83,7 +95,7 @@ As prediction markets notch record trading volumes, Kalshi is ramping up its mar
 
 ---
 
-## 7. Trump Administration Asks OpenAI to Limit GPT-5.6 Rollout: Reports
+## 8. Trump Administration Asks OpenAI to Limit GPT-5.6 Rollout: Reports
 
 **Author:** Jason Nelson  
 **Published:** 6/26/2026, 4:38:33 PM  
@@ -95,7 +107,7 @@ The reported request to OpenAI follows the Trump administration's move to limit 
 
 ---
 
-## 8. Strategy's Saylor Acknowledges 'Volatility Test' as STRC Hits New Low on Bitcoin Weakness
+## 9. Strategy's Saylor Acknowledges 'Volatility Test' as STRC Hits New Low on Bitcoin Weakness
 
 **Author:** André Beganski  
 **Published:** 6/26/2026, 3:33:49 PM  
@@ -107,7 +119,7 @@ Strategy’s flagship preferred stock tumbled again when U.S. markets opened, se
 
 ---
 
-## 9. Bitcoin Tests $59K as ETFs Shed $692M, Options Expiry Looms
+## 10. Bitcoin Tests $59K as ETFs Shed $692M, Options Expiry Looms
 
 **Author:** Decrypt Agent  
 **Published:** 6/26/2026, 1:43:02 PM  
@@ -119,7 +131,7 @@ Bitcoin fell to around $59,400 as $691 million fled spot ETFs, the most since Ma
 
 ---
 
-## 10. Morning Minute: Kraken Eyes 15% Stake in Aave at $385M Valuation
+## 11. Morning Minute: Kraken Eyes 15% Stake in Aave at $385M Valuation
 
 **Author:** Tyler Warner  
 **Published:** 6/26/2026, 12:20:32 PM  
@@ -131,7 +143,7 @@ Bitcoin sinks to a fresh 2026 low as the selloff drags on. Kraken makes a major 
 
 ---
 
-## 11. BitGo Joins Crypto's AI Layoff Wave, Slashing Staff by 15%
+## 12. BitGo Joins Crypto's AI Layoff Wave, Slashing Staff by 15%
 
 **Author:** Decrypt Agent  
 **Published:** 6/26/2026, 10:15:33 AM  
