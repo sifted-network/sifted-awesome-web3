@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-26"
 date: "2026-06-26"
 source: "The Block"
-count: 20
+count: 19
 ---
 
 # The Block - 2026-06-26
 
-20 items collected.
+19 items collected.
 
 ---
 
@@ -236,17 +236,5 @@ The buy came days after a group of former Ethereum Foundation researchers launch
 BitGo CEO says the firm will now focus on key areas, including security, trading, stablecoins, settlement, and AI-powered infrastructure.
 
 📖 [Read original article](https://www.theblock.co/post/406266/bitgo-layoff-ai-infrastructure?utm_source=rss&utm_medium=rss)
-
----
-
-## 20. Ark Invest buys more Coinbase, Circle, Bullish, Robinhood shares amid stock declines
-
-**Author:** Danny Park  
-**Published:** 6/26/2026, 2:01:17 AM  
-**Categories:** Companies, The Block  
-
-The same day, Wood noted that inflation is on its way down, pointing to rising productivity as a key disinflationary force.
-
-📖 [Read original article](https://www.theblock.co/post/406258/ark-invest-coinbase-circle-bullish-robinhood?utm_source=rss&utm_medium=rss)
 
 ---
