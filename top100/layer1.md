@@ -6,9 +6,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 835 | 108 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
+| 1 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 839 | 108 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 2 | [mango](https://github.com/MangoNet-Labs/mango) | 275 | 75 | Rust | 1 | Mango Network is a Layer1 blockchain based on the Dpos consensus mechanism and supported by Move to build a transaction-based omni-chain infrastructure network. | 2025-06-21 |
-| 3 | [Mavryk-Wallet](https://github.com/MeoMunDep/Mavryk-Wallet) | 146 | 6 | Shell | 0 | Auto  connect wallet, send token, stake, create vault, deposit, earn, borrow, faucet token.  | 2025-09-26 |
+| 3 | [Mavryk-Wallet](https://github.com/MeoMunDep/Mavryk-Wallet) | 145 | 6 | Shell | 0 | Auto  connect wallet, send token, stake, create vault, deposit, earn, borrow, faucet token.  | 2025-09-26 |
 | 4 | [layer1](https://github.com/LNP-BP/layer1) | 66 | 12 | - | 2 | Paper on new bitcoin layer 1 design | 2023-10-04 |
 | 5 | [Web3](https://github.com/nemo-crypto/Web3) | 59 | 21 | - | 0 | Ethers.js、Web3.js、Connectwallet、量化策略、套利、区块链、币安、网格、跟单、撸羊毛、脚本、跨链桥、MPC钱包、铭文、符文、zk、Layer1 (基础公链)、Layer2 (扩容解决方案)、layer3、AI + Web3、DeFi 、GameFi、防夹、滑点、PumpFun、FourMeme、公链、钱包、流动性池子 | 2026-05-13 |
 | 6 | [Arxia](https://github.com/ArxiaLayer1/Arxia) | 55 | 6 | Rust | 1 | Offline-first Layer 1 blockchain operating over LoRa, BLE, SMS, and satellite. | 2026-06-18 |
@@ -32,7 +32,7 @@
 | 24 | [phantasma-ts](https://github.com/phantasma-io-archive/phantasma-ts) | 7 | 13 | JavaScript | 1 | A TypeScript SDK for the Phantasma blockchain | 2024-01-11 |
 | 25 | [hikmalayer-core](https://github.com/bestowerlabs/hikmalayer-core) | 7 | 1 | Rust | 0 | Hikmalayer Core is a hybrid Layer‑1 blockchain prototype that combines Proof‑of‑Stake (validator selection) with Proof‑of‑Work (block finalization). It is developed by Muhammad Ayan Rao director Besto... | 2026-04-15 |
 | 26 | [BluePods](https://github.com/clemsix6/BluePods) | 7 | 0 | Go | 0 | Layer 1 blockchain with object-oriented state, DAG consensus, and execution sharding | 2026-06-03 |
-| 27 | [flexo-mms-layer1-service](https://github.com/Open-MBEE/flexo-mms-layer1-service) | 6 | 3 | Kotlin | 13 |  | 2026-06-10 |
+| 27 | [flexo-mms-layer1-service](https://github.com/Open-MBEE/flexo-mms-layer1-service) | 6 | 3 | Kotlin | 14 |  | 2026-06-10 |
 | 28 | [erbie](https://github.com/erbieio/erbie) | 6 | 4 | Go | 1 | ErbieChain is an efficient Layer1 that aggregates web data and realizes value on Web3. | 2026-06-04 |
 | 29 | [phantasma-ng](https://github.com/phantasma-io-archive/phantasma-ng) | 6 | 15 | C# | 1 | Phantasma Blockchain Source Code | 2024-01-16 |
 | 30 | [Exorde](https://github.com/xplanx/Exorde) | 6 | 0 | - | 0 | Exorde is the web3 protocol that empowers developers to crawl and link all public data on the web. | 2023-05-24 |
@@ -57,7 +57,7 @@
 | 49 | [Phantasma-Hub](https://github.com/phantasma-io-archive/Phantasma-Hub) | 3 | 9 | Svelte | 0 | Phantasma Hub is a power full to for Dapp Developers in the PhantasmaChain, that allows users test, vote and do everything they want. | 2024-03-04 |
 | 50 | [ferrous](https://github.com/ChronoCoders/ferrous) | 3 | 0 | Rust | 2 | A Rust-built Layer 1 blockchain with RandomX PoW, BIP39 wallets, Shamir recovery, and post-quantum signatures. | 2026-06-18 |
 | 51 | [SILVR](https://github.com/him-SILVR/SILVR) | 3 | 1 | C | 0 | SILVR \| Custom Layer-1 blockchain in C. SHA-256d PoW. No ICO. No fork. The People's Chain. Chain ID 2026. | 2026-06-09 |
-| 52 | [website](https://github.com/feelyourprotocol/website) | 3 | 0 | Solidity | 0 | Collaborative Ethereum Protocol Explorations | 2026-06-25 |
+| 52 | [website](https://github.com/feelyourprotocol/website) | 3 | 0 | Solidity | 0 | Collaborative Ethereum Protocol Explorations | 2026-06-26 |
 | 53 | [Matrix-Mining](https://github.com/drMurlly/Matrix-Mining) | 3 | 0 | Shell | 0 | Manage multiple MATRIX AI NETWORK mining masternodes on one machine with Docker. | 2024-09-15 |
 | 54 | [Chui](https://github.com/ChuiNetwork/Chui) | 3 | 1 | Rust | 0 | Core Blockchain - consensus and algorithms to run the network. Chui is a hard fork of solana.  | 2024-01-16 |
 | 55 | [aethelred](https://github.com/aethelred-foundation/aethelred) | 3 | 1 | Rust | 0 | Canonical monorepo for the Aethelred protocol, security baselines, and public release provenance. | 2026-06-18 |
