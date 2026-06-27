@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-24"
 date: "2026-06-24"
 source: "Decrypt"
-count: 11
+count: 10
 ---
 
 # Decrypt - 2026-06-24
 
-11 items collected.
+10 items collected.
 
 ---
 
@@ -128,17 +128,5 @@ Crypto exchange Binance formally withdrew its MiCA license application in Greece
 Noman Saleem impersonated crypto influencers on Telegram, luring victims into a fake staking scheme before vanishing with their funds.
 
 📖 [Read original article](https://decrypt.co/371989/fake-crypto-influencer-gets-15-months-for-1-4m-telegram-staking-fraud)
-
----
-
-## 11. Bitcoin Hasn't Broken the 4-Year Cycle Yet, Says 21Shares as BTC Dives Below $60K
-
-**Author:** Logan Hitchcock  
-**Published:** 6/24/2026, 4:59:23 PM  
-**Categories:** , Markets  
-
-As Bitcoin falls below the $60,000 mark, 21Shares said that its prediction that BTC breaks the historical four-year cycle hasn't come true.
-
-📖 [Read original article](https://decrypt.co/371985/bitcoin-hasnt-broken-4-year-cycle-yet-21shares)
 
 ---
