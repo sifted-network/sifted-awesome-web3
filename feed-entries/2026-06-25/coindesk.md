@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-25"
 date: "2026-06-25"
 source: "CoinDesk"
-count: 7
+count: 5
 ---
 
 # CoinDesk - 2026-06-25
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ The DeFi lender is rebuilding after the fallout from April's KelpDAO exploit spa
 The startup formerly known as Story Protocol raised $140 million to secure internet rights and is now building an audit layer for data consent, licensing, and provenance for tech firms.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/06/25/a16z-backed-crypto-firm-rebrands-shifts-focus-to-solving-ai-s-global-copyright-headache)
-
----
-
-## 6. BlackBerry is making a massive comeback as an 'uncrashable' software layer for AI and robotics
-
-**Author:** Aoyon Ashraf  
-**Published:** 6/25/2026, 4:05:06 PM  
-**Categories:** Markets, Artificial Intelligence, News  
-
-BlackBerry's stock is surging after the company's massive earnings beat and is pivoting into becoming a critical component of the AI and robotics boom.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/blackberry-is-making-a-massive-comeback-as-an-uncrashable-software-layer-for-ai-and-robotics)
-
----
-
-## 7. Strategy has a 10-month cash runway for dividends, but retail investors are losing faith
-
-**Author:** James Van Straten  
-**Published:** 6/25/2026, 3:45:43 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-STRC was marketed as a low volatility income product designed to trade near $100, and its sharp decline has undermined investor trust.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/michael-saylor-s-broken-promises-have-shattered-strategy-investor-trust-says-tw-prime-ceo)
 
 ---
