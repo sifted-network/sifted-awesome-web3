@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-25"
 date: "2026-06-25"
 source: "CoinDesk"
-count: 9
+count: 7
 ---
 
 # CoinDesk - 2026-06-25
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ BlackBerry's stock is surging after the company's massive earnings beat and is p
 STRC was marketed as a low volatility income product designed to trade near $100, and its sharp decline has undermined investor trust.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/michael-saylor-s-broken-promises-have-shattered-strategy-investor-trust-says-tw-prime-ceo)
-
----
-
-## 8. Quant fund says bitcoin is near a major inflection point as rare onchain signals align
-
-**Author:** Helene Braun  
-**Published:** 6/25/2026, 3:14:01 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-Hyperion Decimus' Chris Sullivan said four historically reliable indicators have aligned, leaving bitcoin one move away from confirming a major turning point.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/quant-fund-says-bitcoin-is-near-a-major-inflection-point-as-rare-onchain-signals-align)
-
----
-
-## 9. Bitcoin tumbles to new multi-year low of $58,000, but a short-squeeze setup emerges
-
-**Author:** Krisztian Sandor,Oliver Knight  
-**Published:** 6/25/2026, 3:03:08 PM  
-**Categories:** Markets, Markets, Bitcoin News, Breaking News, Top Stories, News  
-
-Derivatives markets signal that betting on further slide in prices is getting overcrowded, setting up for a potential snapback.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/25/bitcoin-plunges-to-new-multi-year-low-of-usd58-000-but-a-short-squeeze-setup-emerges)
 
 ---
