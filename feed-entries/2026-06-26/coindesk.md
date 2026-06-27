@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-26"
 date: "2026-06-26"
 source: "CoinDesk"
-count: 18
+count: 16
 ---
 
 # CoinDesk - 2026-06-26
 
-18 items collected.
+16 items collected.
 
 ---
 
@@ -200,29 +200,5 @@ The real estate investor pitched his model as a treasury company backed by cash-
 Strategy’s paper loss exceeds the market caps of hundreds of tokens, highlighting the extreme concentration of risk in the crypto market right now.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/26/too-big-to-fail-strategy-s-usd13-billion-bitcoin-paper-loss-alone-dwarfs-hundreds-of-prominent-tokens)
-
----
-
-## 17. Ether, XRP and dogecoin lead a broad crypto selloff as tech stocks tumble
-
-**Author:** Shaurya Malwa  
-**Published:** 6/26/2026, 5:41:51 AM  
-**Categories:** Markets, News  
-
-Bitcoin slipped near $58,000 before recovering, and CF Benchmarks says the $50,000 to $60,000 zone is where buyers have always stepped in.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/26/ether-xrp-and-dogecoin-lead-a-broad-crypto-selloff-as-tech-stocks-tumble)
-
----
-
-## 18. Live markets: Bitcoin edges higher as U.S. stocks recover from big early losses
-
-**Author:** Omkar Godbole,Shaurya Malwa,James Van Straten,Helene Braun,Krisztian Sandor  
-**Published:** 6/26/2026, 5:10:37 AM  
-**Categories:** Tech, Bitcoin News, Live News, live_news  
-
-Markets are reassessing the certainty of one or more Fed rate hikes this year.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/26/live-markets-bitcoin-rebounds-to-nearly-usd60-000-kospi-nikkei-sink)
 
 ---
