@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-06-26"
 date: "2026-06-26"
 source: "Cointelegraph"
-count: 18
+count: 19
 ---
 
 # Cointelegraph - 2026-06-26
 
-18 items collected.
+19 items collected.
 
 ---
 
-## 1. Spain regulator rules out extension for non-MiCA compliant crypto companies
+## 1. Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K
+
+**Author:** Cointelegraph by Biraajmaan Tamuly  
+**Published:** 6/26/2026, 10:18:07 PM  
+**Categories:** Markets  
+
+Old Ether wallets moved 37,806 ETH as long-term whale profitability turned negative for the first time since 2019, signaling mixed sentiment among large holders.
+
+📖 [Read original article](https://cointelegraph.com/markets/old-ether-wallets-move-37806-eth-as-whale-conviction-faces-key-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Spain regulator rules out extension for non-MiCA compliant crypto companies
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 6/26/2026, 7:20:33 PM  
@@ -23,7 +35,7 @@ Carlos San Basilio said that “there will be no exceptions ​or extensions” 
 
 ---
 
-## 2. SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives
+## 3. SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 6/26/2026, 5:43:33 PM  
@@ -35,7 +47,7 @@ The regulatory agencies are seeking public feedback on cross-margining, collater
 
 ---
 
-## 3. Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position
+## 4. Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 6/26/2026, 5:02:33 PM  
@@ -47,7 +59,7 @@ Ether’s technical setup points to a potential drop to $1,375, a move that coul
 
 ---
 
-## 4. Crypto Biz: The cost of stacking sats
+## 5. Crypto Biz: The cost of stacking sats
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 6/26/2026, 4:23:34 PM  
@@ -59,7 +71,7 @@ CryptoQuant urged Strategy to pause Bitcoin buying as dividend coverage shrank. 
 
 ---
 
-## 5. US senators push to end CFTC ‘assault’ on state oversight of prediction markets
+## 6. US senators push to end CFTC ‘assault’ on state oversight of prediction markets
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 6/26/2026, 4:10:37 PM  
@@ -71,7 +83,7 @@ A group of 17 Democratic senators went after the CFTC’s funding for lawsuits o
 
 ---
 
-## 6. Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’
+## 7. Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/26/2026, 3:55:56 PM  
@@ -83,7 +95,7 @@ Bitcoin risked turning $60,000 into resistance as BTC price weakness persisted f
 
 ---
 
-## 7. Here’s what happened in crypto today
+## 8. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/26/2026, 2:06:06 PM  
@@ -95,7 +107,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 8. Framework Ventures raises $400M to invest beyond crypto: Report
+## 9. Framework Ventures raises $400M to invest beyond crypto: Report
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/26/2026, 1:58:28 PM  
@@ -107,7 +119,7 @@ Framework Ventures raises $400 million fourth fund as it expands into AI, roboti
 
 ---
 
-## 9. Hyperliquid added to Singapore's Investor Alert List
+## 10. Hyperliquid added to Singapore's Investor Alert List
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/26/2026, 1:11:29 PM  
@@ -119,7 +131,7 @@ Singapore’s financial regulator added Hyperliquid to its Investor Alert List, 
 
 ---
 
-## 10. Australian regulator extends no-action period for crypto licensing
+## 11. Australian regulator extends no-action period for crypto licensing
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/26/2026, 12:14:31 PM  
@@ -131,7 +143,7 @@ Australia’s financial regulator extended temporary enforcement relief for digi
 
 ---
 
-## 11. AscendEX withdrawal complaints mount as ZachXBT questions reserves
+## 12. AscendEX withdrawal complaints mount as ZachXBT questions reserves
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/26/2026, 11:47:02 AM  
@@ -143,7 +155,7 @@ Multiple users reported delayed AscendEX withdrawals after ZachXBT flagged poten
 
 ---
 
-## 12. Bitcoin ETFs post June's biggest daily outflows as BTC falls below $60K
+## 13. Bitcoin ETFs post June's biggest daily outflows as BTC falls below $60K
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/26/2026, 9:36:34 AM  
@@ -155,7 +167,7 @@ US Bitcoin ETFs recorded $696.3 million in outflows as Bitcoin slipped below $60
 
 ---
 
-## 13. Polymarket hit by $2.9M theft, users to be refunded
+## 14. Polymarket hit by $2.9M theft, users to be refunded
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/26/2026, 8:20:37 AM  
@@ -167,7 +179,7 @@ Polymarket said it contained the compromise and removed the affected dependency 
 
 ---
 
-## 14. Tether stablecoin flips Ether by market cap as ETH routs to $1.5K
+## 15. Tether stablecoin flips Ether by market cap as ETH routs to $1.5K
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/26/2026, 6:02:01 AM  
@@ -179,7 +191,7 @@ Ether prices are currently back at crucial long-term support levels last visited
 
 ---
 
-## 15. Coinbase's Base resumes block production after 2-hour outage
+## 16. Coinbase's Base resumes block production after 2-hour outage
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/26/2026, 5:10:44 AM  
@@ -191,7 +203,7 @@ Coinbase's blockchain Base says a consensus problem knocked its network offline 
 
 ---
 
-## 16. Sharplink buys ETH after 8-month pause as token hits 2026 low
+## 17. Sharplink buys ETH after 8-month pause as token hits 2026 low
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 6/26/2026, 3:56:08 AM  
@@ -203,7 +215,7 @@ In May, Sharplink CEO Joseph Chalom named three catalysts that could push up the
 
 ---
 
-## 17. StablecoinX bets on Ethena ecosystem with Nasdaq debut
+## 18. StablecoinX bets on Ethena ecosystem with Nasdaq debut
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/26/2026, 3:48:03 AM  
@@ -215,7 +227,7 @@ USDe circulating supply has shrunk by 70% since the October bull market peak, wh
 
 ---
 
-## 18. BitGo cuts 15% of staff to sharpen focus on AI, stablecoins
+## 19. BitGo cuts 15% of staff to sharpen focus on AI, stablecoins
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/26/2026, 12:41:02 AM  
