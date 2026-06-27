@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-25"
 date: "2026-06-25"
 source: "Cointelegraph"
-count: 12
+count: 10
 ---
 
 # Cointelegraph - 2026-06-25
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ Kraken's new facility with Maple brings a traditional warehouse financing model 
 The fine comes after an investigation concluded that Bithumb shared information with many overseas exchanges in violation of laws intended to protect user data.
 
 📖 [Read original article](https://cointelegraph.com/news/south-korea-investigation-bithumb-user-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Bitcoin drops to $58K on high US PCE inflation as trader sees 'manipulation'
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 6/25/2026, 3:34:45 PM  
-**Categories:** Markets  
-
-Bitcoin fell to 21-month lows as stock market volatility accompanied three-year highs in US PCE inflation, leading to $600 million in hourly crypto liquidations.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-drops-to-58-on-pce-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Why Wall Street values some crypto firms for AI power, not just crypto
-
-**Author:** Cointelegraph by Dilip Kumar Patairya  
-**Published:** 6/25/2026, 3:00:00 PM  
-**Categories:** Learn  
-
-Galaxy Digital’s stock surge points to a new trend: Investors are rewarding some crypto firms for AI infrastructure, not just digital asset exposure.
-
-📖 [Read original article](https://cointelegraph.com/learn/galaxy-digital-ai-infrastructure-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
