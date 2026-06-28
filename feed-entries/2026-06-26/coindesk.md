@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-26"
 date: "2026-06-26"
 source: "CoinDesk"
-count: 15
+count: 14
 ---
 
 # CoinDesk - 2026-06-26
 
-15 items collected.
+14 items collected.
 
 ---
 
@@ -176,17 +176,5 @@ The second-largest corporate ether holder purchased 5,000 ETH worth about $7.85 
 SBI said the purchase of the crypto exchange is set to close in October.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/06/26/japanese-financial-services-giant-sbi-holdings-to-buy-bitbank-for-usd289-million)
-
----
-
-## 15. Grant Cardone says he will keep buying bitcoin using real estate cash flows
-
-**Author:** Shaurya Malwa  
-**Published:** 6/26/2026, 8:25:44 AM  
-**Categories:** Finance, Digital Asset Treasury, Bitcoin News, News  
-
-The real estate investor pitched his model as a treasury company backed by cash-flowing property rather than stock sales, framing the slide in bitcoin as a chance to accumulate.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/26/grant-cardone-says-he-will-keep-buying-bitcoin-using-real-estate-cash-flows)
 
 ---
