@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-26"
 date: "2026-06-26"
 source: "Cointelegraph"
-count: 17
+count: 16
 ---
 
 # Cointelegraph - 2026-06-26
 
-17 items collected.
+16 items collected.
 
 ---
 
@@ -200,17 +200,5 @@ Coinbase's blockchain Base says a consensus problem knocked its network offline 
 In May, Sharplink CEO Joseph Chalom named three catalysts that could push up the price of Ether, some of which have begun to materialize.
 
 📖 [Read original article](https://cointelegraph.com/news/sharplink-buys-eth-after-8-month-pause-as-token-hits-2026-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. StablecoinX bets on Ethena ecosystem with Nasdaq debut
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 6/26/2026, 3:48:03 AM  
-**Categories:** Latest News  
-
-USDe circulating supply has shrunk by 70% since the October bull market peak, when it topped $14 billion.
-
-📖 [Read original article](https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
