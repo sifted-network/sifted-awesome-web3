@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-26"
 date: "2026-06-26"
 source: "CoinDesk"
-count: 16
+count: 15
 ---
 
 # CoinDesk - 2026-06-26
 
-16 items collected.
+15 items collected.
 
 ---
 
@@ -188,17 +188,5 @@ SBI said the purchase of the crypto exchange is set to close in October.
 The real estate investor pitched his model as a treasury company backed by cash-flowing property rather than stock sales, framing the slide in bitcoin as a chance to accumulate.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/06/26/grant-cardone-says-he-will-keep-buying-bitcoin-using-real-estate-cash-flows)
-
----
-
-## 16. Too big to fail: Strategy’s $13 billion bitcoin paper loss alone dwarfs hundreds of prominent tokens
-
-**Author:** Omkar Godbole  
-**Published:** 6/26/2026, 6:37:29 AM  
-**Categories:** Markets, MicroStrategy, Bitcoin News, News  
-
-Strategy’s paper loss exceeds the market caps of hundreds of tokens, highlighting the extreme concentration of risk in the crypto market right now.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/26/too-big-to-fail-strategy-s-usd13-billion-bitcoin-paper-loss-alone-dwarfs-hundreds-of-prominent-tokens)
 
 ---
