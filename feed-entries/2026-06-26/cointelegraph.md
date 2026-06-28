@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-26"
 date: "2026-06-26"
 source: "Cointelegraph"
-count: 18
+count: 17
 ---
 
 # Cointelegraph - 2026-06-26
 
-18 items collected.
+17 items collected.
 
 ---
 
@@ -212,17 +212,5 @@ In May, Sharplink CEO Joseph Chalom named three catalysts that could push up the
 USDe circulating supply has shrunk by 70% since the October bull market peak, when it topped $14 billion.
 
 📖 [Read original article](https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. BitGo cuts 15% of staff to sharpen focus on AI, stablecoins
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 6/26/2026, 12:41:02 AM  
-**Categories:** Latest News  
-
-BitGo co-founder and CEO Mike Belshe says the layoffs are “a one-time action” and the company doesn’t see the need for further staff reductions.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-infrastructure-firm-bitgo-lays-off-15-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
