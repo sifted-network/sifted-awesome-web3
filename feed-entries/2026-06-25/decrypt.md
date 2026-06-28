@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-25"
 date: "2026-06-25"
 source: "Decrypt"
-count: 9
+count: 5
 ---
 
 # Decrypt - 2026-06-25
 
-9 items collected.
+5 items collected.
 
 ---
 
@@ -68,53 +68,5 @@ Ethereum layer-2 network Base was down for more than two hours as it ran into an
 Intellectual property network Story Protocol has shifted its focus to a new opportunity in training data for artificial intelligence.
 
 📖 [Read original article](https://decrypt.co/372107/story-protocol-rebrands-data-network-ai-training-pivot)
-
----
-
-## 6. CoinEx Denies 'Knowledge' of Aiding Sanctioned Iran Crypto Market in $3.8 Billion Disconnect
-
-**Author:** André Beganski  
-**Published:** 6/25/2026, 6:49:21 PM  
-**Categories:** , Law and Order  
-
-TRM Labs said it uncovered over $3.84 billion in crypto flows between CoinEx and a web of more than 60 sanctioned Iranian platforms.
-
-📖 [Read original article](https://decrypt.co/372104/coinex-denies-knowledge-aiding-sanctioned-iran-crypto-market)
-
----
-
-## 7. AI Took Your Job? California Wants to Know
-
-**Author:** Jason Nelson  
-**Published:** 6/25/2026, 5:36:21 PM  
-**Categories:** Artificial Intelligence  
-
-California launched the nation's first AI unemployment tracker as policymakers race to determine whether warnings of an AI-driven jobs shakeup are becoming a reality.
-
-📖 [Read original article](https://decrypt.co/372100/ai-job-loss-california-public-dashboard)
-
----
-
-## 8. Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%
-
-**Author:** Logan Hitchcock  
-**Published:** 6/25/2026, 4:24:03 PM  
-**Categories:** , , Markets  
-
-Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.
-
-📖 [Read original article](https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum)
-
----
-
-## 9. Bitcoin Plummets Lower as Strategy's STRC Dives Further From $100 Mark
-
-**Author:** André Beganski  
-**Published:** 6/25/2026, 2:11:01 PM  
-**Categories:** , , Markets  
-
-The price of Bitcoin rapidly fell to nearly $58,000 after Strategy's STRC preferred shares notched a new low and MSTR fell alongside.
-
-📖 [Read original article](https://decrypt.co/372074/bitcoin-plummets-strategy-strc-dives-further-100)
 
 ---
