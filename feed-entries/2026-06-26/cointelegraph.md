@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-26"
 date: "2026-06-26"
 source: "Cointelegraph"
-count: 16
+count: 14
 ---
 
 # Cointelegraph - 2026-06-26
 
-16 items collected.
+14 items collected.
 
 ---
 
@@ -176,29 +176,5 @@ Polymarket said it contained the compromise and removed the affected dependency 
 Ether prices are currently back at crucial long-term support levels last visited in October 2023 and April 2025.
 
 📖 [Read original article](https://cointelegraph.com/news/tether-stablecoin-flips-ether-by-market-cap-as-eth-routs-to-15k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Coinbase's Base resumes block production after 2-hour outage
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 6/26/2026, 5:10:44 AM  
-**Categories:** Latest News  
-
-Coinbase's blockchain Base says a consensus problem knocked its network offline for around two hours on Thursday before it returned online.
-
-📖 [Read original article](https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Sharplink buys ETH after 8-month pause as token hits 2026 low
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 6/26/2026, 3:56:08 AM  
-**Categories:** Latest News  
-
-In May, Sharplink CEO Joseph Chalom named three catalysts that could push up the price of Ether, some of which have begun to materialize.
-
-📖 [Read original article](https://cointelegraph.com/news/sharplink-buys-eth-after-8-month-pause-as-token-hits-2026-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
