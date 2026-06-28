@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-25"
 date: "2026-06-25"
 source: "Decrypt"
-count: 12
+count: 9
 ---
 
 # Decrypt - 2026-06-25
 
-12 items collected.
+9 items collected.
 
 ---
 
@@ -116,41 +116,5 @@ Bitcoin touched its lowest price in 21 months early Thursday—and prediction ma
 The price of Bitcoin rapidly fell to nearly $58,000 after Strategy's STRC preferred shares notched a new low and MSTR fell alongside.
 
 📖 [Read original article](https://decrypt.co/372074/bitcoin-plummets-strategy-strc-dives-further-100)
-
----
-
-## 10. $47M in Crypto Frozen in Global Infostealer Takedown: Europol
-
-**Author:** Decrypt Agent  
-**Published:** 6/25/2026, 12:55:10 PM  
-**Categories:** , , Law and Order  
-
-Police disrupted SocGholish, Amadey, and StealC, malware that harvests crypto wallets and passwords, freezing €41 million in crypto.
-
-📖 [Read original article](https://decrypt.co/372071/47m-in-crypto-frozen-in-global-infostealer-takedown-europol)
-
----
-
-## 11. Morning Minute: Strategy’s MSTR and STRC Crash to 52-Week Lows
-
-**Author:** Tyler Warner  
-**Published:** 6/25/2026, 12:01:38 PM  
-**Categories:** , Opinion  
-
-A massive Micron earnings beat has lifted global markets, pushing crypto higher after yesterday's nasty sell off took BTC sub-$60k.
-
-📖 [Read original article](https://decrypt.co/372068/morning-minute-strategys-mstr-and-strc-crash-to-52-week-lows)
-
----
-
-## 12. Kalshi Seeks $40B Valuation Weeks After $1B Raise: FT
-
-**Author:** Decrypt Agent  
-**Published:** 6/25/2026, 10:28:47 AM  
-**Categories:** Business  
-
-The prediction market seeks a valuation near double the $22 billion it hit last month, as a federal-state fight over regulation escalates.
-
-📖 [Read original article](https://decrypt.co/372065/kalshi-seeks-40b-valuation-weeks-after-1b-raise-ft)
 
 ---
