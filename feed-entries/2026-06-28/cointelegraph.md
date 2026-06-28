@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-06-28"
 date: "2026-06-28"
 source: "Cointelegraph"
-count: 5
+count: 7
 ---
 
 # Cointelegraph - 2026-06-28
 
-5 items collected.
+7 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Will Bitcoin price recover in July?
+
+**Author:** Cointelegraph by Yashu Gola  
+**Published:** 6/28/2026, 4:12:57 PM  
+**Categories:** Markets  
+
+Bitcoin’s past July gains and heavy short bets point to a rally toward $75,000, but a break below key support keeps the risk of $55,000 in play.
+
+📖 [Read original article](https://cointelegraph.com/markets/will-bitcoin-price-recover-in-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. EU watchdog EBA details big crypto fines as landmark laws bite
+
+**Author:** Cointelegraph by Robert Lakin  
+**Published:** 6/28/2026, 4:10:00 PM  
+**Categories:** Latest News  
+
+The European Banking Authority laid out a proposed penalty framework on Friday that can strip non-compliant significant token issuers of up to 12.5% of their annual revenue.
+
+📖 [Read original article](https://cointelegraph.com/news/eu-watchdog-eba-details-big-crypto-fines-as-landmark-laws-bite?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/28/2026, 1:04:13 PM  
@@ -23,7 +47,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Binance posts over $400M in weekly net outflows as MiCA deadline nears
+## 4. Binance posts over $400M in weekly net outflows as MiCA deadline nears
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/28/2026, 11:51:33 AM  
@@ -35,7 +59,7 @@ Early exchange flow data show no clear signs of a mass migration from Binance ah
 
 ---
 
-## 3. Grayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence
+## 5. Grayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/28/2026, 7:59:28 AM  
@@ -47,7 +71,7 @@ Grayscale's research head Zach Pandl said Strategy should sell $3 billion in Bit
 
 ---
 
-## 4. Base post-mortem reveals sequencer bug behind back-to-back outages
+## 6. Base post-mortem reveals sequencer bug behind back-to-back outages
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/28/2026, 5:14:05 AM  
@@ -59,7 +83,7 @@ A “race condition” after the system was reset prevented the sequencers from 
 
 ---
 
-## 5. Bitcoin unspent transaction outputs signal capitulation underway: analyst
+## 7. Bitcoin unspent transaction outputs signal capitulation underway: analyst
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/28/2026, 2:51:04 AM  
