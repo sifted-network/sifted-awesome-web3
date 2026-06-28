@@ -7,26 +7,26 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [ipfs](https://github.com/ipfs/ipfs) | 23,135 | 1,486 | - | 3 | Peer-to-peer hypermedia protocol | 2025-05-01 |
-| 2 | [kubo](https://github.com/ipfs/kubo) | 17,059 | 3,164 | Go | 818 | An IPFS implementation in Go | 2026-06-25 |
-| 3 | [filestash](https://github.com/mickael-kerjean/filestash) | 14,339 | 988 | Go | 83 | :file_folder: File Management Platform / Universal Data Access Layer (without FUSE) | 2026-06-25 |
-| 4 | [full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) | 14,017 | 3,280 | - | 94 | Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript | 2024-06-12 |
-| 5 | [nerdctl](https://github.com/containerd/nerdctl) | 10,182 | 795 | Go | 313 | contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... | 2026-06-26 |
-| 6 | [Piped](https://github.com/TeamPiped/Piped) | 10,054 | 866 | Vue | 282 | An alternative privacy-friendly YouTube frontend which is efficient by design. | 2026-06-26 |
-| 7 | [berty](https://github.com/berty/berty) | 9,218 | 495 | TypeScript | 74 | Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network | 2026-06-25 |
+| 2 | [kubo](https://github.com/ipfs/kubo) | 17,060 | 3,164 | Go | 818 | An IPFS implementation in Go | 2026-06-25 |
+| 3 | [filestash](https://github.com/mickael-kerjean/filestash) | 14,342 | 989 | Go | 83 | :file_folder: File Management Platform / Universal Data Access Layer (without FUSE) | 2026-06-25 |
+| 4 | [full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) | 14,019 | 3,279 | - | 94 | Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript | 2024-06-12 |
+| 5 | [nerdctl](https://github.com/containerd/nerdctl) | 10,183 | 795 | Go | 312 | contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... | 2026-06-27 |
+| 6 | [Piped](https://github.com/TeamPiped/Piped) | 10,056 | 866 | Vue | 282 | An alternative privacy-friendly YouTube frontend which is efficient by design. | 2026-06-28 |
+| 7 | [berty](https://github.com/berty/berty) | 9,219 | 495 | TypeScript | 74 | Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network | 2026-06-25 |
 | 8 | [orbitdb](https://github.com/orbitdb/orbitdb) | 8,791 | 597 | JavaScript | 15 | Peer-to-Peer Databases for the Decentralized Web | 2026-05-14 |
-| 9 | [js-ipfs](https://github.com/ipfs/js-ipfs) | 7,402 | 1,210 | JavaScript | 0 | IPFS implementation in JavaScript | 2023-05-25 |
-| 10 | [ipfs-desktop](https://github.com/ipfs/ipfs-desktop) | 6,539 | 902 | JavaScript | 112 | An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.  | 2026-06-25 |
-| 11 | [soketi](https://github.com/soketi/soketi) | 5,620 | 359 | TypeScript | 100 | Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣 | 2025-03-03 |
-| 12 | [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) | 4,585 | 547 | JavaScript | 4 | Community list of awesome projects, apps, tools, pinning services and more related to IPFS. | 2025-11-13 |
-| 13 | [fq-book](https://github.com/hoochanlon/fq-book) | 4,235 | 1,199 | Shell | 0 | 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明 | 2026-02-03 |
+| 9 | [js-ipfs](https://github.com/ipfs/js-ipfs) | 7,402 | 1,209 | JavaScript | 0 | IPFS implementation in JavaScript | 2023-05-25 |
+| 10 | [ipfs-desktop](https://github.com/ipfs/ipfs-desktop) | 6,538 | 902 | JavaScript | 112 | An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.  | 2026-06-27 |
+| 11 | [soketi](https://github.com/soketi/soketi) | 5,622 | 359 | TypeScript | 100 | Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣 | 2025-03-03 |
+| 12 | [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) | 4,586 | 547 | JavaScript | 4 | Community list of awesome projects, apps, tools, pinning services and more related to IPFS. | 2025-11-13 |
+| 13 | [fq-book](https://github.com/hoochanlon/fq-book) | 4,237 | 1,198 | Shell | 0 | 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明 | 2026-02-03 |
 | 14 | [embark](https://github.com/embarklabs/embark) | 3,773 | 479 | JavaScript | 69 | Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms | 2024-07-30 |
 | 15 | [awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) | 3,615 | 530 | Go | 8 | ⚡️Curated list of resources for the development and applications of blockchain. | 2024-03-22 |
 | 16 | [graph-node](https://github.com/graphprotocol/graph-node) | 3,142 | 1,057 | Rust | 275 | Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL | 2026-06-26 |
-| 17 | [lotus](https://github.com/filecoin-project/lotus) | 2,989 | 1,368 | Go | 577 | Reference implementation of the Filecoin protocol, written in Go | 2026-06-26 |
-| 18 | [trystero](https://github.com/dmotz/trystero) | 2,613 | 155 | TypeScript | 7 | ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase | 2026-06-11 |
-| 19 | [quiet](https://github.com/TryQuiet/quiet) | 2,612 | 139 | C | 660 | A private, p2p alternative to Slack and Discord built on Tor & IPFS | 2026-06-27 |
+| 17 | [lotus](https://github.com/filecoin-project/lotus) | 2,989 | 1,369 | Go | 577 | Reference implementation of the Filecoin protocol, written in Go | 2026-06-26 |
+| 18 | [trystero](https://github.com/dmotz/trystero) | 2,617 | 155 | TypeScript | 7 | ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase | 2026-06-11 |
+| 19 | [quiet](https://github.com/TryQuiet/quiet) | 2,612 | 139 | C | 659 | A private, p2p alternative to Slack and Discord built on Tor & IPFS | 2026-06-27 |
 | 20 | [js-libp2p](https://github.com/libp2p/js-libp2p) | 2,562 | 537 | TypeScript | 64 | A JavaScript Implementation of libp2p networking stack. | 2026-06-22 |
-| 21 | [Peergos](https://github.com/Peergos/Peergos) | 2,425 | 191 | Java | 95 | A p2p, secure file storage, social network and application protocol | 2026-06-22 |
+| 21 | [Peergos](https://github.com/Peergos/Peergos) | 2,425 | 191 | Java | 95 | A p2p, secure file storage, social network and application protocol | 2026-06-27 |
 | 22 | [wayback](https://github.com/wabarc/wayback) | 2,207 | 85 | Go | 29 | An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr... | 2026-06-21 |
 | 23 | [ipfs-companion](https://github.com/ipfs/ipfs-companion) | 2,156 | 336 | JavaScript | 144 | Browser extension that simplifies access to IPFS resources on the web | 2026-06-27 |
 | 24 | [public-gateway-checker](https://github.com/ipfs/public-gateway-checker) | 2,099 | 382 | TypeScript | 25 | Checks which public gateways are online or not | 2026-06-12 |
@@ -34,7 +34,7 @@
 | 26 | [Planet](https://github.com/Planetable/Planet) | 1,807 | 79 | Swift | 80 | Build and host decentralized blogs and websites on your Mac | 2026-06-11 |
 | 27 | [orbit](https://github.com/orbitdb-archive/orbit) | 1,632 | 114 | - | 64 | A distributed, serverless, peer-to-peer chat application on IPFS | 2021-05-07 |
 | 28 | [ipfs-webui](https://github.com/ipfs/ipfs-webui) | 1,630 | 532 | JavaScript | 131 | A frontend for an IPFS Kubo and IPFS Desktop | 2026-06-21 |
-| 29 | [Maskbook](https://github.com/DimensionDev/Maskbook) | 1,576 | 315 | TypeScript | 3 | The portal to the new, open Internet. ([I:b]) | 2026-06-26 |
+| 29 | [Maskbook](https://github.com/DimensionDev/Maskbook) | 1,576 | 316 | TypeScript | 3 | The portal to the new, open Internet. ([I:b]) | 2026-06-26 |
 | 30 | [ipfs-cluster](https://github.com/ipfs-cluster/ipfs-cluster) | 1,556 | 309 | Go | 105 | Pinset orchestration for IPFS | 2026-06-03 |
 | 31 | [helia](https://github.com/ipfs/helia) | 1,332 | 154 | TypeScript | 40 | An implementation of IPFS in TypeScript | 2026-06-22 |
 | 32 | [vue-ethereum-ipfs](https://github.com/redacademy/vue-ethereum-ipfs) | 1,325 | 88 | JavaScript | 1 | Distributed Application Starter: Vue front-end, Ethereum / IPFS Backend | 2018-03-24 |
@@ -101,8 +101,8 @@
 | 93 | [IPFS-For-Chinese](https://github.com/ChainBook/IPFS-For-Chinese) | 363 | 100 | - | 5 | 中国IPFS内核开发者开放式交流基地，有好的建议可以提proposal，有问题可以提issue，有好的内容分享可以提交patch； | 2019-04-19 |
 | 94 | [ipfs-lite](https://github.com/hsanjuan/ipfs-lite) | 361 | 60 | Go | 3 | IPFS-Lite is an embeddable, lightweight IPFS-network peer for IPLD applications | 2026-04-02 |
 | 95 | [go-cyber](https://github.com/cyberia-to/go-cyber) | 361 | 91 | TypeScript | 84 | 🟢 cybergraph prototype sdk | 2026-06-05 |
-| 96 | [nft-website](https://github.com/protocol/nft-website) | 357 | 95 | Shell | 53 | NFT School: Community education platform for developers in the non-fungible token space. | 2023-04-06 |
+| 96 | [nft-website](https://github.com/protocol/nft-website) | 357 | 94 | Shell | 53 | NFT School: Community education platform for developers in the non-fungible token space. | 2023-04-06 |
 | 97 | [production](https://github.com/dtube/production) | 357 | 5 | HTML | 1 | Production app for D.Tube | 2023-01-09 |
 | 98 | [in-web-browsers](https://github.com/ipfs/in-web-browsers) | 356 | 27 | - | 67 | Tracking the endeavor towards getting web browsers to natively support IPFS and content-addressing | 2025-07-22 |
-| 99 | [gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) | 354 | 63 | Java | 16 | [Archived old experiment] IPFS and libp2p on Mobile, with Gomobile. See https://docs.ipfs.tech/concepts/ipfs-implementations/ instead. | 2026-01-05 |
+| 99 | [gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) | 355 | 63 | Java | 16 | [Archived old experiment] IPFS and libp2p on Mobile, with Gomobile. See https://docs.ipfs.tech/concepts/ipfs-implementations/ instead. | 2026-01-05 |
 | 100 | [go-textile](https://github.com/textileio/go-textile) | 353 | 41 | Go | 66 | [DEPRECATED] Textile is a set of tools and infrastructure for building composable apps and services on the IPFS network | 2020-03-04 |
