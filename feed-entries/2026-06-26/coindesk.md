@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-26"
 date: "2026-06-26"
 source: "CoinDesk"
-count: 14
+count: 11
 ---
 
 # CoinDesk - 2026-06-26
 
-14 items collected.
+11 items collected.
 
 ---
 
@@ -140,41 +140,5 @@ BTC touched its lowest level since September 2024 before rebounding to $59,770, 
 Investors are watching the preferred stock's ex-dividend date and monthly dividend rate reset closely.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/26/all-eyes-on-strategy-s-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-reset)
-
----
-
-## 12. Binance tells EU users it will no longer provide services after failing to secure MiCA license
-
-**Author:** Olivier Acuna  
-**Published:** 6/26/2026, 10:19:22 AM  
-**Categories:** Policy, Binance, MiCA, Regulation, News  
-
-A day after withdrawing its MiCA license application in Greece and saying it is ‘not leaving Europe,’ Binance notified users across the European Union that it will suspend some services.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license)
-
----
-
-## 13. Ethereum treasury firm Sharplink buys ether for the first time in eight months
-
-**Author:** Shaurya Malwa  
-**Published:** 6/26/2026, 9:47:07 AM  
-**Categories:** Markets, Ethereum News, News  
-
-The second-largest corporate ether holder purchased 5,000 ETH worth about $7.85 million on Thursday, its first inflow since October, even as it sits on a paper loss of roughly $1.8 billion.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/26/ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-months)
-
----
-
-## 14. Japanese financial services giant SBI Holdings to buy Bitbank for $289 million
-
-**Author:** Jamie Crawley  
-**Published:** 6/26/2026, 8:31:57 AM  
-**Categories:** Finance, Japan, mergers and acquisitions, News  
-
-SBI said the purchase of the crypto exchange is set to close in October.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/26/japanese-financial-services-giant-sbi-holdings-to-buy-bitbank-for-usd289-million)
 
 ---
