@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-27"
 date: "2026-06-27"
 source: "Cointelegraph"
-count: 10
+count: 9
 ---
 
 # Cointelegraph - 2026-06-27
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ The asset manager argues Bitcoin's fixed supply schedule does not undermine netw
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 6/27/2026, 7:34:45 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss
+## 2. Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss
 
 **Author:** Cointelegraph by Biraajmaan Tamuly  
 **Published:** 6/27/2026, 7:27:44 PM  
@@ -47,7 +35,7 @@ Nearly 50,000 BTC shifted to exchanges at a loss while short-term Bitcoin holder
 
 ---
 
-## 4. DCG-backed Yuma launches fund offering institutional exposure to Bittensor
+## 3. DCG-backed Yuma launches fund offering institutional exposure to Bittensor
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 6/27/2026, 5:59:31 PM  
@@ -59,7 +47,7 @@ The new investment vehicle arrives as asset managers expand TAO offerings and de
 
 ---
 
-## 5. Coinbase, Circle underperform Big Tech as crypto stock slump deepens
+## 4. Coinbase, Circle underperform Big Tech as crypto stock slump deepens
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 6/27/2026, 4:02:38 PM  
@@ -71,7 +59,7 @@ Coinbase and Circle have posted steeper losses than Oracle, Netflix and Salesfor
 
 ---
 
-## 6. SecondFi targets two-week recovery after Cardano wallet exploit
+## 5. SecondFi targets two-week recovery after Cardano wallet exploit
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/27/2026, 12:00:56 PM  
@@ -83,7 +71,7 @@ SecondFi says it has completed forensic investigations, taken a final balance sn
 
 ---
 
-## 7. EU lawmakers urge assessing DeFi, staking, NFT regulation
+## 6. EU lawmakers urge assessing DeFi, staking, NFT regulation
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/27/2026, 8:21:04 AM  
@@ -95,7 +83,7 @@ The nonbinding report outlines Parliament's vision for future EU crypto regulati
 
 ---
 
-## 8. Securitize expects to raise $400M ahead of public debut
+## 7. Securitize expects to raise $400M ahead of public debut
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/27/2026, 5:35:27 AM  
@@ -107,7 +95,7 @@ Securitize says less than 30% of shareholders in the acquisition firm taking it 
 
 ---
 
-## 9. SOL reclaims $72, but onchain data flags weakening momentum
+## 8. SOL reclaims $72, but onchain data flags weakening momentum
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 6/27/2026, 2:47:59 AM  
@@ -119,7 +107,7 @@ Solana found strength from tokenized stock trading on its network, but a declini
 
 ---
 
-## 10. US senators urge CFTC probe Polymarket over ‘deceptive marketing’
+## 9. US senators urge CFTC probe Polymarket over ‘deceptive marketing’
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/27/2026, 2:16:06 AM  
