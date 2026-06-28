@@ -9,7 +9,7 @@
 | 1 | [mui-treasury](https://github.com/siriwatknp/mui-treasury) | 2,445 | 151 | TypeScript | 30 | A collection of ready-to-use components based on Material-UI | 2026-05-22 |
 | 2 | [TransitionTreasury](https://github.com/dianqk/TransitionTreasury) | 2,060 | 154 | Swift | 22 | Easier way to push your viewController. | 2019-08-26 |
 | 3 | [yahoofinancials](https://github.com/JECSand/yahoofinancials) | 965 | 220 | Python | 70 | A powerful financial data module used for pulling data from Yahoo Finance. This module can pull fundamental and technical data for stocks, indexes, currencies, cryptos, ETFs, Mutual Funds, U.S. Treasu... | 2024-02-06 |
-| 4 | [web-scraping](https://github.com/je-suis-tm/web-scraping) | 887 | 189 | Python | 0 | Detailed web scraping tutorials for dummies with financial data crawlers on Reddit WallStreetBets, CME (both options and futures), US Treasury, CFTC, LME, MacroTrends, SHFE and alternative data crawle... | 2022-02-01 |
+| 4 | [web-scraping](https://github.com/je-suis-tm/web-scraping) | 888 | 189 | Python | 0 | Detailed web scraping tutorials for dummies with financial data crawlers on Reddit WallStreetBets, CME (both options and futures), US Treasury, CFTC, LME, MacroTrends, SHFE and alternative data crawle... | 2022-02-01 |
 | 5 | [treasury](https://github.com/luchanos/treasury) | 408 | 59 | - | 1 | Моя личная сокровищница с полезными материалами | 2026-04-10 |
 | 6 | [rateslib](https://github.com/attack68/rateslib) | 347 | 65 | - | 29 | A fixed income library for pricing bonds and bond futures, and derivatives such as interest rate swaps (IRS), cross-currency swaps (XCS) and FX swaps. Contains tools for full curveset construction wit... | 2026-05-20 |
 | 7 | [travel_treasury](https://github.com/davefaliskie/travel_treasury) | 307 | 147 | Dart | 2 | 1ManStartup - Travel Budget Flutter App | 2023-03-21 |
@@ -21,7 +21,7 @@
 | 13 | [conviction-voting-app](https://github.com/1Hive/conviction-voting-app) | 97 | 33 | JavaScript | 12 | Aragon app used to collectively allocate funds from a shared treasury 💧 | 2023-01-24 |
 | 14 | [openleverage-contracts](https://github.com/OpenLeverageDev/openleverage-contracts) | 97 | 41 | JavaScript | 0 | OpenLeverage Smart Contracts, including lending pools, margin trade, treasury, farming pool, DAO-based governance, OLE ERC-20 token, and time-weighted vote escrow xOLE components. | 2024-05-14 |
 | 15 | [issuing-treasury](https://github.com/stripe-samples/issuing-treasury) | 96 | 87 | TypeScript | 1 | Learn the building blocks for working with Stripe Issuing and Treasury APIs. | 2026-05-01 |
-| 16 | [US_Economic_Data_Analysis](https://github.com/ilchen/US_Economic_Data_Analysis) | 86 | 26 | Jupyter Notebook | 0 | Jupyter notebooks for analysis of US federal debt, tax revenues, GDP, budget deficit, evolution of yields on treasury borrowings, treasury yield curves and inflation expectations, unemployment and par... | 2026-06-23 |
+| 16 | [US_Economic_Data_Analysis](https://github.com/ilchen/US_Economic_Data_Analysis) | 86 | 26 | Jupyter Notebook | 0 | Jupyter notebooks for analysis of US federal debt, tax revenues, GDP, budget deficit, evolution of yields on treasury borrowings, treasury yield curves and inflation expectations, unemployment and par... | 2026-06-27 |
 | 17 | [TreasuryFutureTrading](https://github.com/jerryxyx/TreasuryFutureTrading) | 84 | 37 | Jupyter Notebook | 0 | A statistical arbitrage strategy on treasury futures using mean-reversion property and meanwhile insensitive to the yield change | 2018-08-21 |
 | 18 | [hydra](https://github.com/GlassEaters/hydra) | 72 | 28 | TypeScript | 12 | Collective account pooling, fan out wallet, dao treasury | 2023-01-13 |
 | 19 | [bitcoin-treasury](https://github.com/block/bitcoin-treasury) | 66 | 20 | TypeScript | 0 |  | 2026-05-08 |
@@ -70,7 +70,7 @@
 | 62 | [contract-payouts](https://github.com/tact-lang/contract-payouts) | 19 | 3 | HTML | 0 | Simple contract for allowing anyone with a right ticket to withdraw some amount of coins from the treasury | 2023-06-03 |
 | 63 | [sweat-token](https://github.com/SporosDAO/sweat-token) | 18 | 11 | TypeScript | 42 | Sweat Token code and resources - Sweat Equity Vault for DAOs | 2026-02-17 |
 | 64 | [treasure-house](https://github.com/lyronctk/treasure-house) | 18 | 1 | Solidity | 0 | Private treasuries enabled by ECDH and ZKPs | 2023-03-31 |
-| 65 | [instructions](https://github.com/treasurytakehome-rgb/instructions) | 17 | 34 | - | 0 | treasury take home instructions | 2026-06-09 |
+| 65 | [instructions](https://github.com/treasurytakehome-rgb/instructions) | 17 | 36 | - | 0 | treasury take home instructions | 2026-06-09 |
 | 66 | [travel_treasury_landing](https://github.com/davefaliskie/travel_treasury_landing) | 17 | 12 | JavaScript | 0 | Vue.js landing page connected to firebase auth for collecting user signups | 2023-01-10 |
 | 67 | [treasury](https://github.com/alexch/treasury) | 17 | 2 | Ruby | 0 | Repository Pattern for Ruby | 2010-04-15 |
 | 68 | [MMM-NounsTreasury](https://github.com/XppaiCyberr/MMM-NounsTreasury) | 17 | 0 | JavaScript | 0 |  | 2025-03-22 |
@@ -83,8 +83,8 @@
 | 75 | [smaug](https://github.com/chrisguida/smaug) | 15 | 4 | Rust | 18 | `smaug` watches your bitcoin treasury with a meticulous eye | 2026-01-22 |
 | 76 | [treasury-data](https://github.com/seanjtaylor/treasury-data) | 13 | 5 | Jupyter Notebook | 0 | Scraper/Parser for Daily Treasury Statements | 2019-04-14 |
 | 77 | [modern-treasury-go](https://github.com/Modern-Treasury/modern-treasury-go) | 13 | 3 | Go | 0 | Go library for the Modern Treasury API | 2026-06-16 |
-| 78 | [node-treasury](https://github.com/camsjams/node-treasury) | 13 | 1 | TypeScript | 0 | Check your caching layer before running your promises | 2023-01-05 |
-| 79 | [SynArc](https://github.com/kellycryptos/SynArc) | 13 | 2 | TypeScript | 0 | SynArc is a Programmable coordination infrastructure for the agentic creator economy on Arc.  Launch Creator DAOs, receive USDC nanopayments, and manage treasuries with governance.  Supports humans an... | 2026-06-26 |
+| 78 | [SynArc](https://github.com/kellycryptos/SynArc) | 13 | 3 | TypeScript | 0 | SynArc is a governance and treasury platform that enables creators and DAOs to launch transparent organizations, receive USDC funding, and manage treasuries autonomously on Arc. | 2026-06-27 |
+| 79 | [node-treasury](https://github.com/camsjams/node-treasury) | 13 | 1 | TypeScript | 0 | Check your caching layer before running your promises | 2023-01-05 |
 | 80 | [TreasuryCoin](https://github.com/input-output-hk/TreasuryCoin) | 12 | 12 | Scala | 4 | An experimental implementation of a treasury system based on Scorex framework | 2020-01-17 |
 | 81 | [treasury](https://github.com/AirHelp/treasury) | 12 | 3 | Go | 0 | A tool for managing secrets. | 2026-06-22 |
 | 82 | [NFTreasury](https://github.com/yearn/NFTreasury) | 12 | 8 | TypeScript | 0 | NFTreasury is a simple yet powerful treasury management tool, powered by Yearn. | 2023-05-11 |
