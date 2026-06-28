@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-26"
 date: "2026-06-26"
 source: "The Block"
-count: 19
+count: 18
 ---
 
 # The Block - 2026-06-26
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -224,17 +224,5 @@ Asian equities also fell sharply Friday morning, with South Korea's Kospi losing
 The buy came days after a group of former Ethereum Foundation researchers launched Ethlabs, a nonprofit Sharplink helped fund.
 
 📖 [Read original article](https://www.theblock.co/post/406268/sharplink-buys-ethereum-8-months?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. BitGo cuts 15% of staff to refocus on AI infrastructure and stablecoins
-
-**Author:** Danny Park  
-**Published:** 6/26/2026, 3:43:49 AM  
-**Categories:** Companies, The Block  
-
-BitGo CEO says the firm will now focus on key areas, including security, trading, stablecoins, settlement, and AI-powered infrastructure.
-
-📖 [Read original article](https://www.theblock.co/post/406266/bitgo-layoff-ai-infrastructure?utm_source=rss&utm_medium=rss)
 
 ---
