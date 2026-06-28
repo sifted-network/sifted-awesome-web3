@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-26"
 date: "2026-06-26"
 source: "The Block"
-count: 18
+count: 17
 ---
 
 # The Block - 2026-06-26
 
-18 items collected.
+17 items collected.
 
 ---
 
@@ -212,17 +212,5 @@ Pension funds are among the world’s largest institutional investors, and in re
 Asian equities also fell sharply Friday morning, with South Korea's Kospi losing over 8% and triggering a circuit breaker.
 
 📖 [Read original article](https://www.theblock.co/post/406284/bitcoin-slides-below-59000?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst
-
-**Author:** Timmy Shen  
-**Published:** 6/26/2026, 3:55:10 AM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, The Block, Token Projects, Ethereum  
-
-The buy came days after a group of former Ethereum Foundation researchers launched Ethlabs, a nonprofit Sharplink helped fund.
-
-📖 [Read original article](https://www.theblock.co/post/406268/sharplink-buys-ethereum-8-months?utm_source=rss&utm_medium=rss)
 
 ---
