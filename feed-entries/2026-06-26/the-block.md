@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-26"
 date: "2026-06-26"
 source: "The Block"
-count: 11
+count: 4
 ---
 
 # The Block - 2026-06-26
 
-11 items collected.
+4 items collected.
 
 ---
 
@@ -56,89 +56,5 @@ Sol Strategies (STKE) climbed as much as 22% to a high of $1.20 on Friday, outpa
 Base block production resumed as of 16:11 UTC, following an alert to another mainnet chain stall at 15:33 UTC.
 
 📖 [Read original article](https://www.theblock.co/post/406409/base-suffers-second-mainnet-stall-in-two-days?utm_source=rss&utm_medium=rss)
-
----
-
-## 5. Tokenization firm Securitize eyes early July NYSE debut with $400 million SPAC deal
-
-**Author:** Kyle Baird  
-**Published:** 6/26/2026, 5:23:01 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Markets, The Block, Web3, Tokenization  
-
-Seeking to debut next week, Securitize will receive roughly $400 million after retaining more than 70% of its SPAC trust.
-
-📖 [Read original article](https://www.theblock.co/post/406396/tokenization-firm-securitize-july-nyse-debut-400-million-spac-deal?utm_source=rss&utm_medium=rss)
-
----
-
-## 6. Bipartisan senators call for CFTC investigation into Polymarket after fake bets report
-
-**Author:** Sarah Wynn  
-**Published:** 6/26/2026, 4:46:18 PM  
-**Categories:** Policy, Regulation, The Block, CFTC  
-
-Senators are demanding for the CFTC to investigate Polymarket following reports that it paid creators to stage fake winning bets.
-
-📖 [Read original article](https://www.theblock.co/post/406400/bipartisan-senators-call-cftc-investigation-polymarket-fake-bets?utm_source=rss&utm_medium=rss)
-
----
-
-## 7. DraftKings launches its own prediction markets exchange as consumer volume exceeds $3 billion
-
-**Author:** RT Watson  
-**Published:** 6/26/2026, 4:05:28 PM  
-**Categories:** Companies, The Block  
-
-The company said its prediction markets vertical has generated approximately $3.4 billion in annualized consumer volume.
-
-📖 [Read original article](https://www.theblock.co/post/406375/draftkings-launches-own-prediction-markets-exchange-consumer-volume-exceeds-3-billion?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. Spain says ‘no exceptions or extensions’ for Binance, other crypto firms ahead of MiCA deadline
-
-**Author:** Kyle Baird  
-**Published:** 6/26/2026, 3:01:10 PM  
-**Categories:** Companies, Exchanges, Markets, Policy, Regulation, The Block, Binance, Eurozone Regulation, Kraken  
-
-Industry leaders remain divided over MiCA, with some praising the framework while others warn it could limit customer access to liquidity.
-
-📖 [Read original article](https://www.theblock.co/post/406362/spain-says-no-exceptions-extensions-binance-other-crypto-firms-mica-deadline?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. Ethereum OG wallets finally sell after 8 years, locking in estimated $27M profit after $150M unrealized peak: onchain analysts
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/26/2026, 1:35:01 PM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, The Block, Token Projects, Ethereum  
-
-Four Ethereum OG wallets that held 37,602 ETH since 2018 finally sold after watching $150M in unrealized profit evaporate at peak prices.
-
-📖 [Read original article](https://www.theblock.co/post/406342/ethereum-og-wallets-finally-sell-after-8-years-locking-in-estimated-27m-profit-after-150m-unrealized-peak-onchain-analysts?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics
-
-**Author:** James Hunt  
-**Published:** 6/26/2026, 12:54:58 PM  
-**Categories:** Deals, The Block, Venture Capital, New VC Funds  
-
-The firm also promoted Rajiv Patel-O'Connor to general partner as it expands beyond its traditional crypto focus.
-
-📖 [Read original article](https://www.theblock.co/post/406344/framework-ventures-400-million-fourth-fund-crypto-ai-robotics?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Bitcoin’s fragile floor cracks as Fed hawks circle and ETF investors keep pulling out: analysts
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/26/2026, 12:47:40 PM  
-**Categories:** Crypto Ecosystems, Funds, Layer 1s, Markets, The Block, Token Projects, Bitcoin, Bitcoin ETF, Ethereum  
-
-Bitcoin fell to $58,000 on June 25 as hot PCE data stoked Fed rate fears and spot ETF outflows extended to a six-day streak.
-
-📖 [Read original article](https://www.theblock.co/post/406340/bitcoins-fragile-floor-cracks-as-fed-hawks-circle-and-etf-investors-keep-pulling-out-analysts?utm_source=rss&utm_medium=rss)
 
 ---
