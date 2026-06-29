@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-26"
 date: "2026-06-26"
 source: "Cointelegraph"
-count: 14
+count: 11
 ---
 
 # Cointelegraph - 2026-06-26
 
-14 items collected.
+11 items collected.
 
 ---
 
@@ -140,41 +140,5 @@ Australia’s financial regulator extended temporary enforcement relief for digi
 Multiple users reported delayed AscendEX withdrawals after ZachXBT flagged potential liquidity issues and urged the exchange to explain its reserves.
 
 📖 [Read original article](https://cointelegraph.com/news/ascendex-exchange-reportedly-faces-liquidity-issues-claims-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Bitcoin ETFs post June's biggest daily outflows as BTC falls below $60K
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 6/26/2026, 9:36:34 AM  
-**Categories:** Latest News  
-
-US Bitcoin ETFs recorded $696.3 million in outflows as Bitcoin slipped below $60,000, lifting year-to-date losses to $4.6 billion.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-etfs-biggest-outflows-june-btc-below-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Polymarket hit by $2.9M theft, users to be refunded
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/26/2026, 8:20:37 AM  
-**Categories:** Latest News  
-
-Polymarket said it contained the compromise and removed the affected dependency after attackers injected a malicious script into its frontend.
-
-📖 [Read original article](https://cointelegraph.com/news/polymarket-vendor-compromise-drains-29m-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Tether stablecoin flips Ether by market cap as ETH routs to $1.5K
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 6/26/2026, 6:02:01 AM  
-**Categories:** Latest News  
-
-Ether prices are currently back at crucial long-term support levels last visited in October 2023 and April 2025.
-
-📖 [Read original article](https://cointelegraph.com/news/tether-stablecoin-flips-ether-by-market-cap-as-eth-routs-to-15k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
