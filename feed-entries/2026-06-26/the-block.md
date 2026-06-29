@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-26"
 date: "2026-06-26"
 source: "The Block"
-count: 17
+count: 15
 ---
 
 # The Block - 2026-06-26
 
-17 items collected.
+15 items collected.
 
 ---
 
@@ -188,29 +188,5 @@ Public companies hold bitcoin because they view it as a scarce, dollar-denominat
 The GENIUS Act is the U.S. federal law that creates a regulatory framework for dollar-backed stablecoins. Signed into law on July 18, 2025, the law sets rules for who can issue payment stablecoins, what those tokens must be backed by, how holders can redeem them, and which regulators supervise the i...
 
 📖 [Read original article](https://www.theblock.co/learn/406286/what-is-the-genius-act?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. How Pension Funds Invest in Crypto
-
-**Author:** The Block Research  
-**Published:** 6/26/2026, 5:41:52 AM  
-**Categories:** -  
-
-Pension funds are among the world’s largest institutional investors, and in recent years they have started investing in crypto. Pension funds typically invest in crypto through regulated vehicles such as spot bitcoin ETFs, digital asset investment funds, and crypto-related public companies. Because ...
-
-📖 [Read original article](https://www.theblock.co/learn/406288/how-pension-funds-invest-in-crypto?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Bitcoin briefly dips below $59,000 as macro pressures drag crypto, Asian equities lower
-
-**Author:** Timmy Shen  
-**Published:** 6/26/2026, 5:00:53 AM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, The Block, Token Projects, Bitcoin  
-
-Asian equities also fell sharply Friday morning, with South Korea's Kospi losing over 8% and triggering a circuit breaker.
-
-📖 [Read original article](https://www.theblock.co/post/406284/bitcoin-slides-below-59000?utm_source=rss&utm_medium=rss)
 
 ---
