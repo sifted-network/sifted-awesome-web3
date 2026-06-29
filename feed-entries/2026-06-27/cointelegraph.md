@@ -53,13 +53,13 @@ The new investment vehicle arrives as asset managers expand TAO offerings and de
 **Published:** 6/27/2026, 4:02:38 PM  
 **Categories:** Latest News  
 
-Coinbase and Circle have posted steeper losses than Oracle, Netflix and Salesforce, highlighting the widening gap between crypto equities and the broader market.
+Coinbase and Circle have posted steeper losses than Oracle, Netflix or Salesforce, highlighting the widening gap between crypto equities and the broader market.
 
 📖 [Read original article](https://cointelegraph.com/news/crypto-stocks-underperform-tech-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-## 5. SecondFi targets two-week recovery after Cardano wallet exploit
+## 5. SecondFi targets 2-week recovery after Cardano wallet exploit
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/27/2026, 12:00:56 PM  
