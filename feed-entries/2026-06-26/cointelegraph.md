@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-26"
 date: "2026-06-26"
 source: "Cointelegraph"
-count: 11
+count: 5
 ---
 
 # Cointelegraph - 2026-06-26
 
-11 items collected.
+5 items collected.
 
 ---
 
@@ -68,77 +68,5 @@ Ether’s technical setup points to a potential drop to $1,375, a move that coul
 CryptoQuant urged Strategy to pause Bitcoin buying as dividend coverage shrank. Meanwhile, CBOE eyes crypto perpetual futures and Chainlink joins a stablecoin FX project.
 
 📖 [Read original article](https://cointelegraph.com/news/cryptoquant-strategy-bitcoin-cboe-perpetual-futures-chainlink-stablecoin-fx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. US senators push to end CFTC ‘assault’ on state oversight of prediction markets
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 6/26/2026, 4:10:37 PM  
-**Categories:** Latest News  
-
-A group of 17 Democratic senators went after the CFTC’s funding for lawsuits over prediction markets, calling it an “assault” on state authorities.
-
-📖 [Read original article](https://cointelegraph.com/news/us-senators-cftc-assault-state-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 6/26/2026, 3:55:56 PM  
-**Categories:** Markets  
-
-Bitcoin risked turning $60,000 into resistance as BTC price weakness persisted following another tech-driven sell-off in Asian stock markets.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-sees-first-close-below-60k-since-q3-2024-with-tech-stocks-in-deep-bear-market-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Framework Ventures raises $400M to invest beyond crypto: Report
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 6/26/2026, 1:58:28 PM  
-**Categories:** Latest News  
-
-Framework Ventures raises $400 million fourth fund as it expands into AI, robotics and energy while reportedly planning to continue crypto investments.
-
-📖 [Read original article](https://cointelegraph.com/news/framework-ventures-raise-400-million-push-beyond-crypto-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Hyperliquid added to Singapore's Investor Alert List
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/26/2026, 1:11:29 PM  
-**Categories:** Latest News  
-
-Singapore’s financial regulator added Hyperliquid to its Investor Alert List, as a reminder that the decentralized exchange was not licensed in the region.
-
-📖 [Read original article](https://cointelegraph.com/news/hyperliquid-singapore-mas-investor-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Australian regulator extends no-action period for crypto licensing
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 6/26/2026, 12:14:31 PM  
-**Categories:** Latest News  
-
-Australia’s financial regulator extended temporary enforcement relief for digital asset businesses until Sept. 30 as firms transition into the country’s licensing system.
-
-📖 [Read original article](https://cointelegraph.com/news/australia-asic-extends-crypto-licensing-relief-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. AscendEX withdrawal complaints mount as ZachXBT questions reserves
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/26/2026, 11:47:02 AM  
-**Categories:** Latest News  
-
-Multiple users reported delayed AscendEX withdrawals after ZachXBT flagged potential liquidity issues and urged the exchange to explain its reserves.
-
-📖 [Read original article](https://cointelegraph.com/news/ascendex-exchange-reportedly-faces-liquidity-issues-claims-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
