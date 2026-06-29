@@ -6,7 +6,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [gnark](https://github.com/Consensys/gnark) | 1,721 | 524 | Go | 66 | gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license | 2026-06-24 |
+| 1 | [gnark](https://github.com/Consensys/gnark) | 1,720 | 524 | Go | 66 | gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license | 2026-06-29 |
 | 2 | [starkscan-verifier](https://github.com/starkscan/starkscan-verifier) | 1,263 | 251 | TypeScript | 9 | Verify Cairo contracts on Starkscan in 1 minute. | 2024-06-02 |
 | 3 | [starknet.js](https://github.com/starknet-io/starknet.js) | 1,262 | 826 | TypeScript | 33 | JavaScript library for Starknet | 2026-06-24 |
 | 4 | [bazuka](https://github.com/ziesha-network/bazuka) | 1,058 | 451 | Rust | 2 | Rust implementation of Ziesha protocol | 2023-10-12 |
@@ -14,11 +14,11 @@
 | 6 | [sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) | 474 | 184 | Rust | 165 | A flexible toolkit for building real-time blockchains | 2026-06-27 |
 | 7 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 470 | 51 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2023-12-24 |
 | 8 | [starknet.py](https://github.com/software-mansion/starknet.py) | 276 | 88 | Python | 14 | ✨ 🐍    Python SDK for Starknet. | 2026-06-03 |
-| 9 | [ethernal](https://github.com/tryethernal/ethernal) | 269 | 72 | JavaScript | 6 | Ethernal is a block explorer for EVM-based chains. In a few seconds, spin up a fully-featured explorer for your L1/L2 rollup/testnet. Compatible with Optimism, ZK, Anvil, Hardhat, Geth... | 2026-06-27 |
+| 9 | [ethernal](https://github.com/tryethernal/ethernal) | 269 | 72 | JavaScript | 6 | Ethernal is a block explorer for EVM-based chains. In a few seconds, spin up a fully-featured explorer for your L1/L2 rollup/testnet. Compatible with Optimism, ZK, Anvil, Hardhat, Geth... | 2026-06-28 |
 | 10 | [zkopru](https://github.com/zkopru-network/zkopru) | 219 | 27 | TypeScript | 68 | Ethereum L2 scaling solution for private transactions using zk-SNARK and optimistic rollup. | 2023-01-24 |
 | 11 | [intmax-rollup-cli](https://github.com/InternetMaximalism/intmax-rollup-cli) | 117 | 34 | Rust | 2 | intmax ZK rollup for client side | 2024-02-12 |
 | 12 | [rollup](https://github.com/matter-labs-archive/rollup) | 106 | 21 | Rust | 1 | Matter Labs' ZK Rollup | 2021-01-05 |
-| 13 | [alpen](https://github.com/alpenlabs/alpen) | 103 | 26 | Rust | 2 | Rust implementation of the Alpen protocol | 2026-06-26 |
+| 13 | [alpen](https://github.com/alpenlabs/alpen) | 103 | 26 | Rust | 2 | Rust implementation of the Alpen protocol | 2026-06-29 |
 | 14 | [old_identity](https://github.com/lfglabs-dev/old_identity) | 103 | 48 | Cairo | 0 | Contract of the starknet identity base NFT | 2023-10-09 |
 | 15 | [validity-rollups](https://github.com/john-light/validity-rollups) | 102 | 8 | - | 2 | Validity rollup resources | 2024-08-13 |
 | 16 | [sourceCode-zkSync-era-rollupContract-code-learning](https://github.com/LuozhuZhang/sourceCode-zkSync-era-rollupContract-code-learning) | 101 | 35 | Rust | 0 | source code of zkSync Contract | 2024-02-14 |
@@ -39,7 +39,7 @@
 | 31 | [mina-zk-rollup](https://github.com/Trivo25/mina-zk-rollup) | 30 | 2 | TypeScript | 22 | A modular zk-Rollup for zero knowledge smart contracts, zkApps, on the Mina blockchain. | 2023-04-16 |
 | 32 | [zk-rollup-module-for-Cosmos-SDK](https://github.com/b-harvest/zk-rollup-module-for-Cosmos-SDK) | 24 | 2 | - | 1 | This repository is for explaining objectives and technical description of how B-Harvest will implement zk-rollup module for Cosmos-SDK | 2020-08-27 |
 | 33 | [liszt](https://github.com/Consensys/liszt) | 22 | 5 | Java | 5 | zk-rollup  | 2023-04-10 |
-| 34 | [eez-core-protocol](https://github.com/eez-association/eez-core-protocol) | 22 | 9 | Solidity | 4 | Smart contracts to manage synchronous rollups in Ethereum using ZK proofs | 2026-06-26 |
+| 34 | [eez-core-protocol](https://github.com/eez-association/eez-core-protocol) | 22 | 9 | Solidity | 4 | Smart contracts to manage synchronous rollups in Ethereum using ZK proofs | 2026-06-28 |
 | 35 | [Orbis](https://github.com/Orbis-Tertius/Orbis) | 22 | 1 | - | 47 | A general-purpose layer 2 zk-rollup scaling solution for Cardano | 2022-09-28 |
 | 36 | [nacho](https://github.com/berzanorg/nacho) | 20 | 0 | Rust | 0 | Nacho is a zk rollup where you can bridge and swap tokens. | 2024-05-10 |
 | 37 | [solana-zk-proof-example](https://github.com/wkennedy/solana-zk-proof-example) | 19 | 2 | Rust | 2 | A tutorial on creating a Groth16 proof and verifying it on-chain in a Solana | 2024-10-10 |
