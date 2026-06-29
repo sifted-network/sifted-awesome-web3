@@ -6,10 +6,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [fineract](https://github.com/apache/fineract) | 2,273 | 2,571 | Java | 0 | Apache Fineract | 2026-06-27 |
+| 1 | [fineract](https://github.com/apache/fineract) | 2,274 | 2,572 | Java | 0 | Apache Fineract | 2026-06-27 |
 | 2 | [aave-protocol](https://github.com/aave/aave-protocol) | 1,436 | 592 | HTML | 22 | Aave Protocol Version 1.0 - Decentralized Lending Pools | 2024-08-02 |
 | 3 | [MikaLendingBot](https://github.com/BitBotFactory/MikaLendingBot) | 1,157 | 347 | Python | 70 | Automated lending on Cryptocurrency exchanges Poloniex and Bitfinex | 2020-12-02 |
-| 4 | [lending](https://github.com/frappe/lending) | 307 | 274 | Python | 11 | Open Source Lending software | 2026-06-27 |
+| 4 | [lending](https://github.com/frappe/lending) | 307 | 275 | Python | 12 | Open Source Lending software | 2026-06-28 |
 | 5 | [hand_detection](https://github.com/molyswu/hand_detection) | 277 | 85 | Python | 6 | using Neural Networks (SSD) on Tensorflow.  This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive ... | 2022-01-11 |
 | 6 | [dharma-smart-wallet](https://github.com/dharma-eng/dharma-smart-wallet) | 268 | 38 | Solidity | 1 | An upgradeable, meta-transaction-enabled smart wallet for earning interest on stablecoins while retaining custody of funds, with an added security backstop provided by Dharma Labs. | 2023-01-04 |
 | 7 | [flash-lending](https://github.com/marbleprotocol/flash-lending) | 250 | 59 | Solidity | 11 | Flash lending smart contracts | 2018-11-18 |
@@ -33,16 +33,16 @@
 | 25 | [my-web3-projects](https://github.com/microgift/my-web3-projects) | 113 | 3 | Rust | 0 | Blockchain projects(+ smart contract) - DeFi, DEX, NFT(+ pnft, cnt, xnft), minting, staking, raffle/auction, marketplace, launchpad, nft lend/borrow platform, P2E(coinflip, crash, poker) on Solana, EV... | 2025-05-26 |
 | 26 | [circulate](https://github.com/chicago-tool-library/circulate) | 108 | 71 | Ruby | 170 | A lending library management system | 2026-06-24 |
 | 27 | [hifi](https://github.com/hifi-finance/hifi) | 108 | 19 | TypeScript | 23 | Monorepo implementing the Hifi fixed-rate, fixed-term lending protocol | 2025-05-06 |
-| 28 | [morpho-blue-oracles](https://github.com/morpho-org/morpho-blue-oracles) | 107 | 60 | Solidity | 4 | Morpho Blue Oracles | 2026-06-15 |
+| 28 | [morpho-blue-oracles](https://github.com/morpho-org/morpho-blue-oracles) | 108 | 60 | Solidity | 4 | Morpho Blue Oracles | 2026-06-15 |
 | 29 | [teller-protocol-v1](https://github.com/teller-protocol/teller-protocol-v1) | 106 | 33 | Solidity | 7 | Teller is a lending and undercollateralized borrowing protocol on the Ethereum blockchain. Teller is the first protocol to allow zero collateral borrowing for greater than one block. | 2026-06-23 |
 | 30 | [LendingClub](https://github.com/jgillick/LendingClub) | 104 | 47 | Python | 12 | A Python API for LendingClub | 2016-04-19 |
-| 31 | [awesome-fintech](https://github.com/jplock/awesome-fintech) | 104 | 41 | - | 19 | Curated list of awesome Fintech startup companies | 2026-04-11 |
+| 31 | [awesome-fintech](https://github.com/jplock/awesome-fintech) | 104 | 42 | - | 19 | Curated list of awesome Fintech startup companies | 2026-04-11 |
 | 32 | [Documentation](https://github.com/ETHLend/Documentation) | 101 | 41 | - | 11 | ETHLend White Paper | 2019-05-07 |
 | 33 | [ctf-lending](https://github.com/MrToph/ctf-lending) | 100 | 15 | Solidity | 0 |  | 2022-12-13 |
 | 34 | [rcn-network](https://github.com/rcnfinance/rcn-network) | 97 | 43 | JavaScript | 1 | RCN​ is a global p2p lending protocol based on smart contracts and blockchain technology | 2023-04-13 |
 | 35 | [openleverage-contracts](https://github.com/OpenLeverageDev/openleverage-contracts) | 97 | 41 | JavaScript | 0 | OpenLeverage Smart Contracts, including lending pools, margin trade, treasury, farming pool, DAO-based governance, OLE ERC-20 token, and time-weighted vote escrow xOLE components. | 2024-05-14 |
 | 36 | [sui-lending-protocol](https://github.com/scallop-io/sui-lending-protocol) | 93 | 48 | Move | 2 | An over collateralized lending protocol on SUI network | 2026-06-09 |
-| 37 | [generalized-lending-protocol](https://github.com/JetJadeja/generalized-lending-protocol) | 93 | 12 | Solidity | 0 | A modern, simple, optimized lending market written in Solidity | 2022-11-19 |
+| 37 | [generalized-lending-protocol](https://github.com/JetJadeja/generalized-lending-protocol) | 92 | 12 | Solidity | 0 | A modern, simple, optimized lending market written in Solidity | 2022-11-19 |
 | 38 | [micro-finance](https://github.com/MicroPyramid/micro-finance) | 91 | 92 | Python | 0 | Free Micro Finance Software | 2026-01-20 |
 | 39 | [car-damage-detector](https://github.com/louisyuzhe/car-damage-detector) | 90 | 48 | Jupyter Notebook | 5 | Mask R-CNN Model to detect the area of damage on a car. The rationale for such a model is that it can be used by insurance companies for faster processing of claims if users can upload pics and they c... | 2021-01-12 |
 | 40 | [demeter](https://github.com/zelos-alpha/demeter) | 89 | 11 | Python | 0 | Demeter is a blockchain backtesting tool that supports trading types such as swaps, liquidity provider, lending, and options. It is compatible with markets including Uniswap, GMX, Aave, Deribit, and S... | 2026-06-16 |
@@ -69,7 +69,7 @@
 | 61 | [cli](https://github.com/jup-ag/cli) | 58 | 17 | TypeScript | 0 | CLI for interacting with Jupiter's products on Solana: Spot, Perps, Lend, Prediction Markets and more. | 2026-06-02 |
 | 62 | [DeFiPapers](https://github.com/irnb/DeFiPapers) | 57 | 5 | Python | 0 | I'll try to collect all the papers related to DeFi in this repository | 2021-08-06 |
 | 63 | [klend-sdk](https://github.com/Kamino-Finance/klend-sdk) | 56 | 38 | TypeScript | 4 | 🛠️ Kamino Lending TypeScript SDK | 2026-05-05 |
-| 64 | [sui-scallop-sdk](https://github.com/scallop-io/sui-scallop-sdk) | 56 | 15 | TypeScript | 1 | This is the typescript sdk for the scallop lending platform on SUI network | 2026-06-20 |
+| 64 | [sui-scallop-sdk](https://github.com/scallop-io/sui-scallop-sdk) | 56 | 15 | TypeScript | 1 | This is the typescript sdk for the scallop lending platform on SUI network | 2026-06-28 |
 | 65 | [paraspace-core](https://github.com/parallel-finance/paraspace-core) | 56 | 42 | Solidity | 3 | Para-Space NFT Money Market | 2024-08-27 |
 | 66 | [ftx-lending-bot](https://github.com/dwy6626/ftx-lending-bot) | 55 | 25 | Python | 0 | Renew lending amount on FTX | 2022-11-08 |
 | 67 | [n3rp](https://github.com/GrantStenger/n3rp) | 55 | 10 | Jupyter Notebook | 1 | N3RP (the NFT Rental Protocol) allows users to trustlessly rent out their ERC721-based assets. | 2022-09-13 |
