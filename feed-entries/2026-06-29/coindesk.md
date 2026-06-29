@@ -11,7 +11,43 @@ count: 25
 
 ---
 
-## 1. White House to speak with law enforcement groups to push Crypto's Clarity Act
+## 1. Bitcoin lending is entering a new institutional era, according to Silicon Valley Bank
+
+**Author:** Will Canny,AI Boost  
+**Published:** 6/29/2026, 5:57:18 PM  
+**Categories:** Finance, Bitcoin News, Institutional Adoption, Crypto Lending, Silicon Valley Bank, News  
+
+The bank said bitcoin lending has emerged from the 2022 crypto credit collapse with stronger risk controls, growing institutional participation and a path toward lower borrowing costs.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/29/bitcoin-lending-is-entering-a-new-institutional-era-according-to-silicon-valley-bank)
+
+---
+
+## 2. JPMorgan backs U.S. crypto bill but warns of risks in digital asset framework
+
+**Author:** Helene Braun  
+**Published:** 6/29/2026, 5:31:33 PM  
+**Categories:** Policy, Clarity Act, JPMorgan, News  
+
+The bank says Congress should pair regulatory clarity with safeguards as Senate negotiates the Clarity Act.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/06/29/jpmorgan-backs-u-s-crypto-bill-but-warns-repeatedly-of-risks-in-digital-asset-framework)
+
+---
+
+## 3. Private keys, not smart contracts, caused 40% of crypto's $16 billion hack losses. Here's whats being done.
+
+**Author:** Omkar Godbole  
+**Published:** 6/29/2026, 3:45:18 PM  
+**Categories:** Tech, Hack, News  
+
+The industry is moving toward fixing the private key vulnerability issue, just not evenly, Wish Wu, co-founder and CEO of Pharos, said.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/06/29/private-keys-not-smart-contracts-caused-40-of-crypto-s-usd16-billion-hack-losses-here-s-whats-being-done)
+
+---
+
+## 4. White House to speak with law enforcement groups to push Crypto's Clarity Act
 
 **Author:** Jesse Hamilton  
 **Published:** 6/29/2026, 3:23:51 PM  
@@ -23,7 +59,7 @@ Officials from the White House are said to be sitting down with law enforcement 
 
 ---
 
-## 2. J.P. Morgan broadens blockchain settlement network as banks modernize cross-border payments
+## 5. J.P. Morgan broadens blockchain settlement network as banks modernize cross-border payments
 
 **Author:** Helene Braun  
 **Published:** 6/29/2026, 3:23:36 PM  
@@ -35,7 +71,7 @@ The bank added five Asia-Pacific currencies to its Kinexys blockchain platform, 
 
 ---
 
-## 3. Crypto analytics firm Chainalysis proposes standards for blockchain tracing
+## 6. Crypto analytics firm Chainalysis proposes standards for blockchain tracing
 
 **Author:** Nikhilesh De  
 **Published:** 6/29/2026, 3:07:49 PM  
@@ -47,7 +83,7 @@ The blockchain analysis company published a proposed ontology for how investigat
 
 ---
 
-## 4. MiCA July 1 deadline could leave 10 million crypto users searching for a new platform in the EU
+## 7. MiCA's looming deadline could leave 10 million crypto users without a platform in the EU
 
 **Author:** Olivier Acuna  
 **Published:** 6/29/2026, 3:03:53 PM  
@@ -59,7 +95,7 @@ As MiCA takes full effect on July 1, SwissBorg's Alex Fazel told CoinDesk users 
 
 ---
 
-## 5. Ripple wants institutions to borrow against tokenized assets on XRPL
+## 8. Ripple wants institutions to borrow against tokenized assets on XRPL
 
 **Author:** Shaurya Malwa  
 **Published:** 6/29/2026, 3:00:00 PM  
@@ -71,7 +107,7 @@ A proposed XRPL standard would let institutions borrow against tokenized assets,
 
 ---
 
-## 6. Wall Street's BNY expands stablecoin services for institutions, starting with Circle's USDC
+## 9. Wall Street's BNY expands stablecoin services for institutions, starting with Circle's USDC
 
 **Author:** Krisztian Sandor  
 **Published:** 6/29/2026, 2:46:33 PM  
@@ -83,7 +119,7 @@ The world's largest custody bank is adding USDC custody and minting services as 
 
 ---
 
-## 7. Strategy opens door to selling billions of bitcoin under new capital plan. Here's what it means
+## 10. Strategy opens door to selling billions of bitcoin under new capital plan. Here's what it means
 
 **Author:** James Van Straten  
 **Published:** 6/29/2026, 2:11:01 PM  
@@ -95,7 +131,7 @@ The company can now sell bitcoin to fund the USD reserve, support preferred divi
 
 ---
 
-## 8. Ukraine transfers $8.3 million in seized crypto amid potential plans for strategic reserve
+## 11. Ukraine transfers $8.3 million in seized crypto amid potential plans for strategic reserve
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 6/29/2026, 2:03:04 PM  
@@ -107,7 +143,7 @@ The funds were seized during an investigation into an international hacker group
 
 ---
 
-## 9. BlackRock pushes deeper into DeFi with Ethena integration, sending ENA up 8%
+## 12. BlackRock pushes deeper into DeFi with Ethena integration, sending ENA up 8%
 
 **Author:** Krisztian Sandor  
 **Published:** 6/29/2026, 2:02:10 PM  
@@ -119,7 +155,7 @@ The deal adds Ethena's yield-generating token to BlackRock's risk management pla
 
 ---
 
-## 10. Kalshi and Polymarket could become M&A targets as prediction markets consolidate: Bernstein
+## 13. Kalshi and Polymarket could become M&A targets as prediction markets consolidate: Bernstein
 
 **Author:** Will Canny,AI Boost  
 **Published:** 6/29/2026, 12:56:42 PM  
@@ -131,7 +167,7 @@ The broker said operational consolidation is blurring the lines between exchange
 
 ---
 
-## 11. Tom Lee blames crypto weakness on quarter-end 'window dressing' as Bitmine adds another $43 million of ETH
+## 14. Tom Lee blames crypto weakness on quarter-end 'window dressing' as Bitmine adds another $43 million of ETH
 
 **Author:** Krisztian Sandor  
 **Published:** 6/29/2026, 12:51:44 PM  
@@ -143,7 +179,7 @@ Bitmine made its smallest purchase since early May as Lee pointed to investors c
 
 ---
 
-## 12. JPMorgan sees limited institutional demand for perpetual futures
+## 15. JPMorgan sees limited institutional demand for perpetual futures
 
 **Author:** Will Canny,AI Boost  
 **Published:** 6/29/2026, 12:48:14 PM  
@@ -155,7 +191,7 @@ The bank said institutional demand for perpetual futures remains muted, with the
 
 ---
 
-## 13. Saylor's Strategy initiates buybacks and bitcoin monetization program, lifts STRC dividend
+## 16. Saylor's Strategy initiates buybacks and bitcoin monetization program, lifts STRC dividend
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 6/29/2026, 12:13:08 PM  
@@ -167,7 +203,7 @@ Strategy adopted a new capital management framework, authorizing up to $2 billio
 
 ---
 
-## 14. Tether's USDT jumps to 8.5% premium in India after crypto payment crackdown
+## 17. Tether's USDT jumps to 8.5% premium in India after crypto payment crackdown
 
 **Author:** Shaurya Malwa  
 **Published:** 6/29/2026, 12:00:46 PM  
@@ -179,7 +215,7 @@ Raids on crypto payment firms in Bengaluru disrupted the pipeline that feeds dol
 
 ---
 
-## 15. Vitalik Buterin says crypto’s most powerful idea isn't nearly ready for use
+## 18. Vitalik Buterin says crypto’s most powerful idea isn't nearly ready for use
 
 **Author:** Shaurya Malwa  
 **Published:** 6/29/2026, 11:52:27 AM  
@@ -191,7 +227,7 @@ The Ethereum co-founder says indistinguishability obfuscation could one day act 
 
 ---
 
-## 16. Dollar, U.S. Treasury yield market positions may carry glimmer of hope for bitcoin
+## 19. Dollar, U.S. Treasury yield market positions may carry glimmer of hope for bitcoin
 
 **Author:** Omkar Godbole  
 **Published:** 6/29/2026, 11:42:13 AM  
@@ -203,7 +239,7 @@ Your day-ahead look for June 29, 2026
 
 ---
 
-## 17. FundBank becomes IRACE Digital in bid to bridge traditional finance and crypto
+## 20. FundBank becomes IRACE Digital in bid to bridge traditional finance and crypto
 
 **Author:** Will Canny  
 **Published:** 6/29/2026, 11:30:00 AM  
@@ -215,7 +251,7 @@ The institutional banking provider is expanding into digital asset custody, liqu
 
 ---
 
-## 18. Bitcoin hovers below $60,000 as crypto braces for a pivotal week
+## 21. Bitcoin hovers below $60,000 as crypto braces for a pivotal week
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 6/29/2026, 11:03:46 AM  
@@ -227,7 +263,7 @@ BTC added 0.6% to $59,800 to start the week while SOL rose 2%, though derivative
 
 ---
 
-## 19. Europe’s unlicensed crypto firms face ‘wipeout’ as MiCA deadline hits
+## 22. Europe’s unlicensed crypto firms face ‘wipeout’ as MiCA deadline hits
 
 **Author:** Ian Allison  
 **Published:** 6/29/2026, 10:01:23 AM  
@@ -239,7 +275,7 @@ European regulator ESMA called on unauthorized crypto-asset service providers to
 
 ---
 
-## 20. Bitcoin falls into a technical no man’s land as major support levels sit miles away
+## 23. Bitcoin falls into a technical no man’s land as major support levels sit miles away
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 6/29/2026, 9:40:18 AM  
@@ -251,7 +287,7 @@ Bitcoin is trading below key technical and onchain valuation levels, with histor
 
 ---
 
-## 21. New MiCA regime in Europe, U.S. jobs report for June: Crypto Week Ahead
+## 24. New MiCA regime in Europe, U.S. jobs report for June: Crypto Week Ahead
 
 **Author:** Francisco Rodrigues,Jamie Crawley  
 **Published:** 6/29/2026, 9:08:25 AM  
@@ -263,7 +299,7 @@ Your look at what's coming in the week starting June 29.
 
 ---
 
-## 22. BIS warns stablecoins are more like ETFs than actual money, and they're creating FX risk
+## 25. BIS warns stablecoins are more like ETFs than actual money, and they're creating FX risk
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 6/29/2026, 8:51:57 AM  
@@ -272,41 +308,5 @@ Your look at what's coming in the week starting June 29.
 BIS's latest annual report dives into stablecoins and AI trends.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/29/bis-warns-stablecoins-are-more-like-etfs-than-actual-money-and-they-re-creating-fx-risk)
-
----
-
-## 23. Crypto exchange BitMEX loses CEO, CFO and head of growth
-
-**Author:** Ian Allison  
-**Published:** 6/29/2026, 7:03:51 AM  
-**Categories:** Finance, Cryptocurrency, News  
-
-The firm’s global general counsel, Peter Wilkinson, has taken over as CEO from Stephan Lutz.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/29/crypto-exchange-bitmex-removes-ceo-cfo-and-head-of-growth)
-
----
-
-## 24. South Korea’s $518 billion AI chip push shows crypto is still losing the capital race
-
-**Author:** Shaurya Malwa  
-**Published:** 6/29/2026, 6:19:46 AM  
-**Categories:** Markets, News  
-
-Samsung and SK Hynix are pulling a chip-plant buildout forward by a decade to meet AI memory demand. It is the latest and largest sign of the AI capital cycle that has drawn money away from crypto all year.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/29/south-korea-s-usd518-billion-ai-chip-push-shows-crypto-is-still-losing-the-capital-race)
-
----
-
-## 25. Live updates: bitcoin back below $60,000 after brief bounce on Strategy's latest
-
-**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten  
-**Published:** 6/29/2026, 6:03:32 AM  
-**Categories:** Tech, Live News, live_news  
-
-Stocks are about to close out their best quarter since 2020 as crypto continues to get crushed.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/29/bitcoin-dips-to-usd59-700-as-iran-de-escalation-lifts-stocks-but-not-crypto)
 
 ---
