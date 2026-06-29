@@ -83,7 +83,7 @@ The nonbinding report outlines Parliament's vision for future EU crypto regulati
 
 ---
 
-## 7. Securitize expects to raise $400M ahead of public debut
+## 7. Securitize says it expects to raise $400M ahead of public debut
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 6/27/2026, 5:35:27 AM  
