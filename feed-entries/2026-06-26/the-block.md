@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-26"
 date: "2026-06-26"
 source: "The Block"
-count: 15
+count: 11
 ---
 
 # The Block - 2026-06-26
 
-15 items collected.
+11 items collected.
 
 ---
 
@@ -140,53 +140,5 @@ The firm also promoted Rajiv Patel-O'Connor to general partner as it expands bey
 Bitcoin fell to $58,000 on June 25 as hot PCE data stoked Fed rate fears and spot ETF outflows extended to a six-day streak.
 
 📖 [Read original article](https://www.theblock.co/post/406340/bitcoins-fragile-floor-cracks-as-fed-hawks-circle-and-etf-investors-keep-pulling-out-analysts?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Base delays Beryl hard fork over B20 registry timing issue
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/26/2026, 10:11:29 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Layer 2s and Scaling, Markets, Public Equities, The Block, Base, Coinbase  
-
-Base delayed its Beryl mainnet upgrade to June 26 to give the B20 Activation Registry time to become fully operational.
-
-📖 [Read original article](https://www.theblock.co/post/406336/base-delays-beryl-hard-fork-over-b20-registry-timing-issue?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Bitcoin ETF Flows Explained: What ETF Inflows and Outflows Mean for Investors
-
-**Author:** Callum Howe  
-**Published:** 6/26/2026, 7:58:35 AM  
-**Categories:** -  
-
-Bitcoin ETF flows refer to the movement of money into and out of bitcoin exchange-traded funds (ETFs). When investors buy ETF shares, new money enters the fund and creates an inflow. When investors sell shares and capital leaves the fund, an outflow occurs. Because most U.S. spot bitcoin ETFs hold a...
-
-📖 [Read original article](https://www.theblock.co/learn/406279/bitcoin-etf-flows-explained?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. Corporate Bitcoin Treasuries Explained: Why Public Companies Hold Bitcoin
-
-**Author:** The Block Research  
-**Published:** 6/26/2026, 7:02:23 AM  
-**Categories:** -  
-
-Public companies hold bitcoin because they view it as a scarce, dollar-denominated reserve asset that can diversify treasury holdings, preserve purchasing power against inflation, attract investors, and provide exposure to the digital asset economy. The model was pioneered by Strategy (formerly Micr...
-
-📖 [Read original article](https://www.theblock.co/learn/406283/why-public-companies-hold-bitcoin?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. What Is the GENIUS Act? A Guide to U.S. Stablecoin Law
-
-**Author:** The Block Research  
-**Published:** 6/26/2026, 6:19:08 AM  
-**Categories:** -  
-
-The GENIUS Act is the U.S. federal law that creates a regulatory framework for dollar-backed stablecoins. Signed into law on July 18, 2025, the law sets rules for who can issue payment stablecoins, what those tokens must be backed by, how holders can redeem them, and which regulators supervise the i...
-
-📖 [Read original article](https://www.theblock.co/learn/406286/what-is-the-genius-act?utm_source=rss&utm_medium=rss)
 
 ---
