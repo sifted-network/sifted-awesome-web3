@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-28"
 date: "2026-06-28"
 source: "Cointelegraph"
-count: 9
+count: 8
 ---
 
 # Cointelegraph - 2026-06-28
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ BitMine and Joe Lubin back a new non profit called Ethlabs that aims to spur ado
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 6/28/2026, 9:00:00 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. BIS warns stablecoins risk fragmenting global financial system
+## 2. BIS warns stablecoins risk fragmenting global financial system
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 6/28/2026, 6:58:45 PM  
@@ -47,7 +35,7 @@ The Basel-based institution said that private digital tokens fall short of the r
 
 ---
 
-## 4. Will Bitcoin price recover in July?
+## 3. Will Bitcoin price recover in July?
 
 **Author:** Cointelegraph by Yashu Gola  
 **Published:** 6/28/2026, 4:12:57 PM  
@@ -59,7 +47,7 @@ Bitcoin’s past July gains and heavy short bets point to a rally toward $75,000
 
 ---
 
-## 5. EU watchdog EBA details big crypto fines as landmark laws bite
+## 4. EU watchdog EBA details big crypto fines as landmark laws bite
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 6/28/2026, 4:10:00 PM  
@@ -71,7 +59,7 @@ The European Banking Authority laid out a proposed penalty framework on Friday t
 
 ---
 
-## 6. Binance posts over $400M in weekly net outflows as MiCA deadline nears
+## 5. Binance posts over $400M in weekly net outflows as MiCA deadline nears
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/28/2026, 11:51:33 AM  
@@ -83,7 +71,7 @@ Early exchange flow data show no clear signs of a mass migration from Binance ah
 
 ---
 
-## 7. Grayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence
+## 6. Grayscale's Pandl says Strategy should sell $3B Bitcoin to restore confidence
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/28/2026, 7:59:28 AM  
@@ -95,7 +83,7 @@ Grayscale's research head Zach Pandl said Strategy should sell $3 billion in Bit
 
 ---
 
-## 8. Base says sequencer bug caused back-to-back outages
+## 7. Base says sequencer bug caused back-to-back outages
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/28/2026, 5:14:05 AM  
@@ -107,7 +95,7 @@ A “race condition” after the system was reset prevented the sequencers from 
 
 ---
 
-## 9. Bitcoin UXTOs signal capitulation underway: Analyst
+## 8. Bitcoin UXTOs signal capitulation underway: Analyst
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/28/2026, 2:51:04 AM  
