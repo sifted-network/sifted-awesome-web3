@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-27"
 date: "2026-06-27"
 source: "Cointelegraph"
-count: 9
+count: 7
 ---
 
 # Cointelegraph - 2026-06-27
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ The nonbinding report outlines Parliament's vision for future EU crypto regulati
 Securitize says less than 30% of shareholders in the acquisition firm taking it public elected to redeem, giving it an expected $400 million on its upcoming debut.
 
 📖 [Read original article](https://cointelegraph.com/news/securitize-expects-to-raise-400m-ahead-of-public-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. SOL reclaims $72, but onchain data flags weakening momentum
-
-**Author:** Cointelegraph by Marcel Pechman  
-**Published:** 6/27/2026, 2:47:59 AM  
-**Categories:** Markets  
-
-Solana found strength from tokenized stock trading on its network, but a declining TVL and DEX volumes point to fading momentum.
-
-📖 [Read original article](https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. US senators urge CFTC probe Polymarket over ‘deceptive marketing’
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 6/27/2026, 2:16:06 AM  
-**Categories:** Latest News  
-
-Senators John Curtis and Adam Schiff are concerned about the CFTC’s enforcement ability after a “troubling” report on Polymarket’s advertising.
-
-📖 [Read original article](https://cointelegraph.com/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
