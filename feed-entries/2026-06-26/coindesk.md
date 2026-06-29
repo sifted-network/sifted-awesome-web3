@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-26"
 date: "2026-06-26"
 source: "CoinDesk"
-count: 11
+count: 10
 ---
 
 # CoinDesk - 2026-06-26
 
-11 items collected.
+10 items collected.
 
 ---
 
@@ -128,17 +128,5 @@ Your day-ahead look for June 26, 2026
 BTC touched its lowest level since September 2024 before rebounding to $59,770, while ETH slipped further and another $1 billion in futures positions were wiped out.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/26/bitcoin-bounces-from-usd58-000-as-derivatives-signal-more-pain-in-the-pipeline)
-
----
-
-## 11. All eyes on Strategy's June 30 ex-dividend date and monthly STRC dividend rate reset
-
-**Author:** James Van Straten  
-**Published:** 6/26/2026, 10:28:24 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Investors are watching the preferred stock's ex-dividend date and monthly dividend rate reset closely.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/26/all-eyes-on-strategy-s-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-reset)
 
 ---
