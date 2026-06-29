@@ -2,16 +2,76 @@
 title: "The Block - 2026-06-29"
 date: "2026-06-29"
 source: "The Block"
-count: 11
+count: 16
 ---
 
 # The Block - 2026-06-29
 
-11 items collected.
+16 items collected.
 
 ---
 
-## 1. Bitmine lifts Ethereum treasury to 5.7 million ETH through ‘challenging’ weekly slide, joins Russell 1000
+## 1. Arkham launches ranking system for prediction market traders
+
+**Author:** RT Watson  
+**Published:** 6/29/2026, 7:04:02 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, The Block  
+
+The highest Elo-ranked trader, “GardenerCx,” has a win rate of 64.3% over 2,644 bets focused on up/down bitcoin markets.
+
+📖 [Read original article](https://www.theblock.co/post/406604/arkham-launches-ranking-system-for-prediction-market-traders?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. JPMorgan execs draw comparison between yield stablecoins and ‘shadow banking’
+
+**Author:** Daniel Kuhn  
+**Published:** 6/29/2026, 6:37:28 PM  
+**Categories:** Companies, Finance firms, Policy, Regulation, The Block, U.S. Policymaking, Congress, JPMorgan  
+
+JPMorgan execs argued that stablecoin innovation can easily drift into “shadow banking” if yield payments are permitted.
+
+📖 [Read original article](https://www.theblock.co/post/406599/jpmorgan-execs-draw-comparison-between-yield-stablecoins-shadow-banking?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. BNY and Circle expand partnership, adding mint and burn capabilities for USDC
+
+**Author:** Daniel Kuhn  
+**Published:** 6/29/2026, 4:58:42 PM  
+**Categories:** Companies, Crypto Ecosystems, Finance firms, Markets, Stablecoins, The Block, Token Projects, BNY Mellon, USDC  
+
+BNY, the world's largest custodian bank, said it plans to add support for additional stablecoin via its Digital Asset Custody platform.
+
+📖 [Read original article](https://www.theblock.co/post/406581/bny-circle-expand-partnership-adding-mint-burn-capabilities-usdc?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Strategy’s MSTR, STRC shares recover after brutal week as Saylor unveils new buyback plans
+
+**Author:** Kyle Baird  
+**Published:** 6/29/2026, 4:40:09 PM  
+**Categories:** Companies, Markets, Public Equities, The Block, Strategy  
+
+Strategy outlined a new capital framework as bitcoin steadied after last week's sharp MSTR and STRC selloff.
+
+📖 [Read original article](https://www.theblock.co/post/406568/strategy-mstr-strc-shares-recover-after-brutal-week-saylor-unveils-new-buyback-plans?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Binance founder CZ says MiCA application was ‘fully compliant’ and near approval before political forces intervened
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 6/29/2026, 3:33:27 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Exchanges, Markets, People, Policy, Regulation, The Block, Binance, CZ  
+
+Binance founder CZ says the exchange's EU MiCA application was close to approval before unnamed political forces weighed in.
+
+📖 [Read original article](https://www.theblock.co/post/406554/binance-founder-cz-mica-application-fully-compliant-near-approval-political-forces-intervened?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. Bitmine lifts Ethereum treasury to 5.7 million ETH through ‘challenging’ weekly slide, joins Russell 1000
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/29/2026, 2:46:28 PM  
@@ -23,7 +83,7 @@ Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth
 
 ---
 
-## 2. Bernstein says prediction-market infrastructure rush could spark wave of M&A across consumer platforms
+## 7. Bernstein says prediction-market infrastructure rush could spark wave of M&A across consumer platforms
 
 **Author:** Brian Danga  
 **Published:** 6/29/2026, 1:29:48 PM  
@@ -35,7 +95,7 @@ Bernstein said DraftKings' DKeX launch keeps prediction-market revenue in-house 
 
 ---
 
-## 3. BlackRock’s Aladdin platform adds deeper support for Ethena’s stablecoin products
+## 8. BlackRock’s Aladdin platform adds deeper support for Ethena’s stablecoin products
 
 **Author:** RT Watson  
 **Published:** 6/29/2026, 1:00:00 PM  
@@ -47,7 +107,7 @@ The move makes USDe more accessible to investment professionals wishing to take 
 
 ---
 
-## 4. Strategy pauses bitcoin buys, establishes $1B digital credit repurchase program as USD reserve tops $2.5B
+## 9. Strategy pauses bitcoin buys, establishes $1B digital credit repurchase program as USD reserve tops $2.5B
 
 **Author:** James Hunt  
 **Published:** 6/29/2026, 12:45:53 PM  
@@ -59,7 +119,7 @@ Strategy's total holdings remain at 847,363 BTC and account for more than 4% of 
 
 ---
 
-## 5. Bitcoin clings to key support level as weekly US spot ETF outflows hit $1.8B and Fed rate hike bets mount: analysts
+## 10. Bitcoin clings to key support level as weekly US spot ETF outflows hit $1.8B and Fed rate hike bets mount: analysts
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/29/2026, 12:00:13 PM  
@@ -71,7 +131,7 @@ Bitcoin floats near $60K as spot ETF weekly outflows hit $1.79B amid Fed rate hi
 
 ---
 
-## 6. Vitalik Buterin calls obfuscation cryptography’s ‘final boss,’ but says current approaches remain wildly impractical
+## 11. Vitalik Buterin calls obfuscation cryptography’s ‘final boss,’ but says current approaches remain wildly impractical
 
 **Author:** Brian Danga  
 **Published:** 6/29/2026, 10:36:22 AM  
@@ -83,7 +143,7 @@ Vitalik Buterin said obfuscation is cryptography’s “final boss,” citing im
 
 ---
 
-## 7. India’s USDT premium tops 8.5% as crypto remittance crackdown squeezes stablecoin supply: report
+## 12. India’s USDT premium tops 8.5% as crypto remittance crackdown squeezes stablecoin supply: report
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/29/2026, 9:49:21 AM  
@@ -95,7 +155,7 @@ India's USDT premium topped 8.5% after Enforcement Directorate raids on Bengalur
 
 ---
 
-## 8. Galaxy Research cuts Clarity Act 2026 passage odds to 50%, citing Senate calendar concerns
+## 13. Galaxy Research cuts Clarity Act 2026 passage odds to 50%, citing Senate calendar concerns
 
 **Author:** Timmy Shen  
 **Published:** 6/29/2026, 8:41:29 AM  
@@ -107,7 +167,7 @@ Galaxy's Alex Thorn said Senate calendar constraints and a lack of progress in n
 
 ---
 
-## 9. Ethereum zkRollup project Loopring sunsets DEX, citing lack of meaningful adoption
+## 14. Ethereum zkRollup project Loopring sunsets DEX, citing lack of meaningful adoption
 
 **Author:** Danny Park  
 **Published:** 6/29/2026, 7:21:49 AM  
@@ -119,7 +179,7 @@ Loopring plans to return all remaining user funds through a smart contract upgra
 
 ---
 
-## 10. South Korea’s Kiwoom Securities to acquire stake in Bithumb crypto exchange: report
+## 15. South Korea’s Kiwoom Securities to acquire stake in Bithumb crypto exchange: report
 
 **Author:** Danny Park  
 **Published:** 6/29/2026, 2:47:54 AM  
@@ -131,7 +191,7 @@ This is part of a larger wave of South Korean institutions purchasing stakes in 
 
 ---
 
-## 11. The Funding: Why crypto VCs are expanding beyond crypto
+## 16. The Funding: Why crypto VCs are expanding beyond crypto
 
 **Author:** Yogita Khatri  
 **Published:** 6/29/2026, 2:39:48 AM  
