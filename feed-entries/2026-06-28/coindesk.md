@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-06-28"
 date: "2026-06-28"
 source: "CoinDesk"
-count: 5
+count: 6
 ---
 
 # CoinDesk - 2026-06-28
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. Samson Mow says bitcoin bottom is in despite skepticism from analysts
+## 1. CZ wants to make the U.S. the 'capital of crypto': State of Crypto
+
+**Author:** Nikhilesh De  
+**Published:** 6/28/2026, 7:30:00 PM  
+**Categories:** Policy, Newsletters, State of Crypto, News  
+
+The Binance founder shared his views on a variety of topics in an exclusive interview with CoinDesk earlier this month.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/06/28/cz-wants-to-make-the-u-s-the-capital-of-crypto-state-of-crypto)
+
+---
+
+## 2. Samson Mow says bitcoin bottom is in despite skepticism from analysts
 
 **Author:** Olivier Acuna  
 **Published:** 6/28/2026, 3:07:12 PM  
@@ -23,7 +35,7 @@ The bitcoin advocate said his crypto bottom claim is based on the fact that the 
 
 ---
 
-## 2. Michael Saylor teases more bitcoin buying even as Strategy stock continues to fall
+## 3. Michael Saylor teases more bitcoin buying even as Strategy stock continues to fall
 
 **Author:** Olivier Acuna  
 **Published:** 6/28/2026, 3:02:43 PM  
@@ -35,7 +47,7 @@ The crypto bull shrugged off market skepticism by sharing a chart of the company
 
 ---
 
-## 3. SBI's $289 million Bitbank deal is symptomatic of Japan's crypto consolidation: Architect Partners
+## 4. SBI's $289 million Bitbank deal is symptomatic of Japan's crypto consolidation: Architect Partners
 
 **Author:** Will Canny,AI Boost  
 **Published:** 6/28/2026, 3:00:00 PM  
@@ -47,7 +59,7 @@ The investment bank said the purchase of Japanese crypto exchange Bitbank is a b
 
 ---
 
-## 4. Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says
+## 5. Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says
 
 **Author:** Krisztian Sandor  
 **Published:** 6/28/2026, 1:00:00 PM  
@@ -59,7 +71,7 @@ Blockchain is becoming the financial layer for capital-intensive industries rath
 
 ---
 
-## 5. Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss
+## 6. Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss
 
 **Author:** Shaurya Malwa  
 **Published:** 6/28/2026, 7:10:52 AM  
