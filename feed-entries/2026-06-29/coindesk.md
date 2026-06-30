@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-29"
 date: "2026-06-29"
 source: "CoinDesk"
-count: 8
+count: 3
 ---
 
 # CoinDesk - 2026-06-29
 
-8 items collected.
+3 items collected.
 
 ---
 
@@ -44,65 +44,5 @@ The bank said bitcoin lending has emerged from the 2022 crypto credit collapse w
 The bank says Congress should pair regulatory clarity with safeguards as Senate negotiates the Clarity Act.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/06/29/jpmorgan-backs-u-s-crypto-bill-but-warns-repeatedly-of-risks-in-digital-asset-framework)
-
----
-
-## 4. Private keys, not smart contracts, caused 40% of crypto's $16 billion hack losses. Here's whats being done.
-
-**Author:** Omkar Godbole  
-**Published:** 6/29/2026, 3:45:18 PM  
-**Categories:** Tech, Hack, News  
-
-The industry is moving toward fixing the private key vulnerability issue, just not evenly, Wish Wu, co-founder and CEO of Pharos, said.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/29/private-keys-not-smart-contracts-caused-40-of-crypto-s-usd16-billion-hack-losses-here-s-whats-being-done)
-
----
-
-## 5. White House to speak with law enforcement groups to push Crypto's Clarity Act
-
-**Author:** Jesse Hamilton  
-**Published:** 6/29/2026, 3:23:51 PM  
-**Categories:** Policy, White House, Clarity Act, Crime, DeFi, Exclusive, News  
-
-Officials from the White House are said to be sitting down with law enforcement representatives who have objected to illicit-finance portions of the bill.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/29/white-house-to-speak-with-law-enforcement-groups-to-push-crypto-s-clarity-act)
-
----
-
-## 6. JPMorgan broadens blockchain settlement network as banks modernize cross-border payments
-
-**Author:** Helene Braun  
-**Published:** 6/29/2026, 3:23:36 PM  
-**Categories:** Finance, JPMorgan, News  
-
-The bank added five Asia-Pacific currencies to its Kinexys blockchain platform, allowing institutional clients to settle payments and FX around the clock.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/29/j-p-morgan-broadens-blockchain-settlement-network-as-banks-modernize-cross-border-payments)
-
----
-
-## 7. Crypto analytics firm Chainalysis proposes standards for blockchain tracing
-
-**Author:** Nikhilesh De  
-**Published:** 6/29/2026, 3:07:49 PM  
-**Categories:** Policy, News  
-
-The blockchain analysis company published a proposed ontology for how investigators can identify clusters of crypto addresses and link them together.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/29/crypto-analytics-firm-chainalysis-proposes-standards-for-blockchain-tracing)
-
----
-
-## 8. MiCA's looming deadline could leave 10 million crypto users without a platform in the EU
-
-**Author:** Olivier Acuna  
-**Published:** 6/29/2026, 3:03:53 PM  
-**Categories:** Finance, MiCA, Regulation, News  
-
-As MiCA takes full effect on July 1, SwissBorg's Alex Fazel told CoinDesk users should choose platforms built to withstand EU regulators' tightening oversight.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/29/mica-july-1-deadline-could-leave-10-million-crypto-users-searching-for-a-new-platform-in-the-eu)
 
 ---
