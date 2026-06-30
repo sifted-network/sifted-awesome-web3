@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-29"
 date: "2026-06-29"
 source: "The Block"
-count: 16
+count: 10
 ---
 
 # The Block - 2026-06-29
 
-16 items collected.
+10 items collected.
 
 ---
 
@@ -128,77 +128,5 @@ Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth
 Bernstein said DraftKings' DKeX launch keeps prediction-market revenue in-house as consolidation reshapes trading and betting platforms.
 
 📖 [Read original article](https://www.theblock.co/post/406520/bernstein-says-prediction-market-infrastructure-rush-could-spark-wave-of-ma-across-consumer-platforms?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. BlackRock’s Aladdin platform adds deeper support for Ethena’s stablecoin products
-
-**Author:** RT Watson  
-**Published:** 6/29/2026, 1:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Markets, Public Equities, The Block, BlackRock, exclusive  
-
-The move makes USDe more accessible to investment professionals wishing to take advantage of 'digital dollar exposure.'
-
-📖 [Read original article](https://www.theblock.co/post/405670/blackrock-ethena-partnership-usde?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Strategy pauses bitcoin buys, establishes $1B digital credit repurchase program as USD reserve tops $2.5B
-
-**Author:** James Hunt  
-**Published:** 6/29/2026, 12:45:53 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, The Block, Token Projects, Bitcoin, Strategy  
-
-Strategy's total holdings remain at 847,363 BTC and account for more than 4% of the 21 million bitcoin supply cap — worth around $51 billion.
-
-📖 [Read original article](https://www.theblock.co/post/406512/strategy-buys-btc-mstr-strc-collapse-bitcoin-holdings-underwater?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Bitcoin clings to key support level as weekly US spot ETF outflows hit $1.8B and Fed rate hike bets mount: analysts
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/29/2026, 12:00:13 PM  
-**Categories:** Crypto Ecosystems, Funds, Layer 1s, Markets, The Block, Token Projects, Bitcoin, Bitcoin ETF  
-
-Bitcoin floats near $60K as spot ETF weekly outflows hit $1.79B amid Fed rate hike fears and an AI sell-off.
-
-📖 [Read original article](https://www.theblock.co/post/406516/bitcoin-clings-to-key-support-level-as-weekly-us-spot-etf-outflows-hit-1-8b-and-fed-rate-hike-bets-mount-analysts?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. Vitalik Buterin calls obfuscation cryptography’s ‘final boss,’ but says current approaches remain wildly impractical
-
-**Author:** Brian Danga  
-**Published:** 6/29/2026, 10:36:22 AM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Layer 1s, Markets, Metaverse & NFT, People, Policy, The Block, Token Projects, Web3, Crypto, Ethereum, Vitalik Buterin  
-
-Vitalik Buterin said obfuscation is cryptography’s “final boss,” citing impractical iO schemes with “literally galactic” runtimes.
-
-📖 [Read original article](https://www.theblock.co/post/406506/vitalik-buterin-calls-obfuscation-cryptographys-final-boss-but-says-current-approaches-remain-wildly-impractical?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. India’s USDT premium tops 8.5% as crypto remittance crackdown squeezes stablecoin supply: report
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 6/29/2026, 9:49:21 AM  
-**Categories:** Crypto Ecosystems, Markets, Policy, Regulation, Stablecoins, The Block, Token Projects, Tether  
-
-India's USDT premium topped 8.5% after Enforcement Directorate raids on Bengaluru crypto firms reportedly disrupted stablecoin supply.
-
-📖 [Read original article](https://www.theblock.co/post/406502/indias-usdt-premium-tops-8-5-as-crypto-remittance-crackdown-squeezes-stablecoin-supply-report?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Galaxy Research cuts Clarity Act 2026 passage odds to 50%, citing Senate calendar concerns
-
-**Author:** Timmy Shen  
-**Published:** 6/29/2026, 8:41:29 AM  
-**Categories:** Policy, Regulation, The Block  
-
-Galaxy's Alex Thorn said Senate calendar constraints and a lack of progress in negotiations make passage less likely than several weeks ago.
-
-📖 [Read original article](https://www.theblock.co/post/406497/galaxy-cuts-clarity-act-passage-odds-50?utm_source=rss&utm_medium=rss)
 
 ---
