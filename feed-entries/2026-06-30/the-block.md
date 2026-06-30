@@ -2,16 +2,88 @@
 title: "The Block - 2026-06-30"
 date: "2026-06-30"
 source: "The Block"
-count: 10
+count: 16
 ---
 
 # The Block - 2026-06-30
 
-10 items collected.
+16 items collected.
 
 ---
 
-## 1. Sharplink buys 10,000 ETH, repurchases 2.13 million SBET shares in latest buyback
+## 1. Circle shares sink 16% after Open USD reveal, analysts say fears are ‘overblown’
+
+**Author:** Kyle Baird  
+**Published:** 6/30/2026, 7:34:38 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Markets, Stablecoins, The Block, Token Projects, USDC  
+
+William Blair reiterated its Outperform rating on Circle's CRCL stock, calling Tuesday's selloff a buying opportunity.
+
+📖 [Read original article](https://www.theblock.co/post/406758/circle-shares-sink-16-open-usd-reveal-analysts-say-fears-overblown?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. SEC opens ETF rule review following crypto fund surge, prediction markets push
+
+**Author:** Sarah Wynn  
+**Published:** 6/30/2026, 5:19:48 PM  
+**Categories:** Funds, Markets, Policy, Regulation, The Block, Dogecoin ETF, SEC, Solana ETF  
+
+The SEC is taking a fresh look at how a proposed fast-growing new class of ETFs tied to prediction markets should be regulated.
+
+📖 [Read original article](https://www.theblock.co/post/406750/sec-opens-etf-rule-review-following-crypto-fund-surge-prediction-markets-push?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Visa, Stripe, Coinbase and more join Open USD stablecoin that shares reserve revenue
+
+**Author:** Kyle Baird  
+**Published:** 6/30/2026, 2:57:18 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Finance firms, Markets, The Block, Payments  
+
+Expected to launch later this year, Open Standard said businesses will be able to mint and redeem Open USD without fees or volume limits.
+
+📖 [Read original article](https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. OKX AI unveils marketplace for agents to find work and get paid in stablecoins
+
+**Author:** Daniel Kuhn  
+**Published:** 6/30/2026, 2:49:01 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, The Block, Web3, AI, Identity, OKX  
+
+“Think Upwork for Agents with our fintech infrastructure and 150M scale in the background," an OKX rep said.
+
+📖 [Read original article](https://www.theblock.co/post/406704/okx-ai-unveils-marketplace-for-agents-to-find-work-and-get-paid-in-stablecoins?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. New Zcash nonprofit Sovright unveils ZEC wallet recovery tool
+
+**Author:** Daniel Kuhn  
+**Published:** 6/30/2026, 2:44:26 PM  
+**Categories:** Crypto Ecosystems, DeFi, Infrastructure, The Block, exclusive, Wallets  
+
+Argos is a recovery tool for users who had shielded funds stuck on ZEC Wallet Lite, an issue impacting some longtime Zcash supporters.
+
+📖 [Read original article](https://www.theblock.co/post/406731/new-zcash-nonprofit-sovright-unveils-zec-wallet-recovery-tool?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. MetaMask unveils all-in-one Money Account offerings users up to 4% APY on mUSD holdings
+
+**Author:** Daniel Kuhn  
+**Published:** 6/30/2026, 2:00:00 PM  
+**Categories:** Crypto Ecosystems, DeFi, Infrastructure, People, Policy, The Block, Joe Lubin, Wallets  
+
+Consensys tapped Monad as Money Account's “home chain," and will initially use Morpho vaults to generate yield.
+
+📖 [Read original article](https://www.theblock.co/post/406570/metamask-all-in-one-money-account-offerings-users-4-apy-musd-holdings?utm_source=rss&utm_medium=rss)
+
+---
+
+## 7. Sharplink buys 10,000 ETH, repurchases 2.13 million SBET shares in latest buyback
 
 **Author:** Brian Danga  
 **Published:** 6/30/2026, 1:59:18 PM  
@@ -23,7 +95,7 @@ Sharplink bought 10,000 ETH and repurchased 2.13 million SBET shares after compl
 
 ---
 
-## 2. TD Cowen slashes Strategy target to $260 on bitcoin outlook, calls new capital framework ‘constructive’
+## 8. TD Cowen slashes Strategy target to $260 on bitcoin outlook, calls new capital framework ‘constructive’
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/30/2026, 12:31:02 PM  
@@ -35,7 +107,7 @@ TD Cowen cut its Strategy price target to $260 from $400 on a lower bitcoin fore
 
 ---
 
-## 3. StarkWare unveils Starknet post-quantum roadmap, calling it crypto’s ‘strongest’ to date
+## 9. StarkWare unveils Starknet post-quantum roadmap, calling it crypto’s ‘strongest’ to date
 
 **Author:** Brian Danga  
 **Published:** 6/30/2026, 12:30:00 PM  
@@ -47,7 +119,7 @@ StarkWare debuted a three-phase roadmap to make Starknet quantum-ready within mo
 
 ---
 
-## 4. New York Life makes first tokenized move partnering with Centrifuge on high-yield corporate bond strategy
+## 10. New York Life Investment Management makes first tokenized move partnering with Centrifuge on high-yield corporate bond strategy
 
 **Author:** Daniel Kuhn  
 **Published:** 6/30/2026, 12:00:00 PM  
@@ -59,7 +131,7 @@ The tokenized fund will enable eligible investors to access NYLIM’s establishe
 
 ---
 
-## 5. Hollywood director Carl Rinsch sentenced to 30 months for diverting $11 million in TV production funds to stock options, crypto and luxury purchases
+## 11. Hollywood director Carl Rinsch sentenced to 30 months for diverting $11 million in TV production funds to stock options, crypto and luxury purchases
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/30/2026, 10:57:53 AM  
@@ -71,7 +143,7 @@ The tokenized fund will enable eligible investors to access NYLIM’s establishe
 
 ---
 
-## 6. Kalshi hit with 14-day restraining order in Michigan, blocking sports prediction markets in state
+## 12. Kalshi hit with 14-day restraining order in Michigan, blocking sports prediction markets in state
 
 **Author:** Danny Park  
 **Published:** 6/30/2026, 9:23:07 AM  
@@ -83,7 +155,7 @@ Jurisdiction over prediction market platforms is an ongoing dispute between the 
 
 ---
 
-## 7. Benchmark sees over 500% upside in Strategy, reiterates $570 target on new capital framework
+## 13. Benchmark sees over 500% upside in Strategy, reiterates $570 target on new capital framework
 
 **Author:** Brian Danga  
 **Published:** 6/30/2026, 8:57:57 AM  
@@ -95,7 +167,7 @@ Benchmark reiterated its Buy rating and $570 target on Strategy, citing its new 
 
 ---
 
-## 8. Self-exiled Chinese billionaire sentenced to 30 years for fraud involving crypto
+## 14. Self-exiled Chinese billionaire sentenced to 30 years for fraud involving crypto
 
 **Author:** Timmy Shen  
 **Published:** 6/30/2026, 5:46:32 AM  
@@ -107,7 +179,7 @@ Guo was arrested in 2023 for orchestrating a more than $1 billion fraud conspira
 
 ---
 
-## 9. Securitize to debut on NYSE this Thursday after gaining final nod for merger
+## 15. Securitize to debut on NYSE this Thursday after gaining final nod for merger
 
 **Author:** Danny Park  
 **Published:** 6/30/2026, 2:45:02 AM  
@@ -119,7 +191,7 @@ Securitize announced that shareholders of Cantor have greenlit the business comb
 
 ---
 
-## 10. Ark Invest loads up on Coinbase, Circle, Bullish, Robinhood shares as stocks rally higher
+## 16. Ark Invest loads up on Coinbase, Circle, Bullish, Robinhood shares as stocks rally higher
 
 **Author:** Danny Park  
 **Published:** 6/30/2026, 1:35:59 AM  
