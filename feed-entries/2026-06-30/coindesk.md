@@ -2,16 +2,76 @@
 title: "CoinDesk - 2026-06-30"
 date: "2026-06-30"
 source: "CoinDesk"
-count: 17
+count: 22
 ---
 
 # CoinDesk - 2026-06-30
 
-17 items collected.
+22 items collected.
 
 ---
 
-## 1. MetaMask launches Money Account with stablecoin yield and spending in one wallet
+## 1. Why OpenUSD's 'real threat' that tanked Circle stock still faces a steep uphill battle for adoption
+
+**Author:** Krisztian Sandor,Helene Braun  
+**Published:** 6/30/2026, 6:39:06 PM  
+**Categories:** Finance, Circle, Stablecoins, News  
+
+The Stripe- and Coinbase-backed stablecoin consortium can challenge Circle's business model, but analysts say building a network is harder than assembling big-name partners.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/30/why-the-openusd-s-real-threat-that-tanked-circle-stock-still-faces-a-steep-uphill-battle-for-adoption)
+
+---
+
+## 2. SEC giving novel ETFs a rethink as it opens comment period on overhauling U.S. rules
+
+**Author:** Jesse Hamilton  
+**Published:** 6/30/2026, 5:51:57 PM  
+**Categories:** Policy, ETFs, Regulation, News  
+
+Managers of exchange-traded funds, including those in the crypto sector, may see some changes at the Securities and Exchange Commission as it weighs its approach.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/06/30/sec-giving-novel-etfs-a-rethink-as-it-opens-comment-period-on-overhauling-u-s-rules)
+
+---
+
+## 3. Chinese exile once linked to Trump strategist gets 30-year sentence in $1 billion fraud
+
+**Author:** Jesse Hamilton  
+**Published:** 6/30/2026, 4:31:46 PM  
+**Categories:** Policy, Crime, Fraud, News  
+
+The businessman known as Miles Guo, who pushed the fraudulent H-Coin project and had close ties to Steve Bannon, was finally sentenced after his 2024 conviction.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/06/30/chinese-exile-once-linked-to-trump-strategist-gets-30-year-sentence-in-usd1-billion-fraud)
+
+---
+
+## 4. Jefferies warns of crypto market volatility as Clarity Act faces Senate test
+
+**Author:** Will Canny,AI Boost  
+**Published:** 6/30/2026, 2:41:59 PM  
+**Categories:** Policy, Regulation, Clarity Act, News  
+
+The bank said the bill faces major hurdles, with passage boosting institutional crypto adoption and delays prolonging regulatory uncertainty.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/06/30/jefferies-warns-of-crypto-market-volatility-as-clarity-act-faces-senate-test)
+
+---
+
+## 5. Circle slides 13% as Stripe, Coinbase and BlackRock back rival stablecoin network
+
+**Author:** Krisztian Sandor  
+**Published:** 6/30/2026, 2:32:33 PM  
+**Categories:** Finance, News  
+
+Open Standard's Open USD aims to let partners keep reserve income and eliminate minting fees, challenging Circle's USDC.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network)
+
+---
+
+## 6. MetaMask launches Money Account with stablecoin yield and spending in one wallet
 
 **Author:** Margaux Nijkerk  
 **Published:** 6/30/2026, 2:00:00 PM  
@@ -23,7 +83,7 @@ The launch reflects a broader push to make stablecoins more useful beyond tradin
 
 ---
 
-## 2. Tokenized securities need competition, not gatekeepers
+## 7. Tokenized securities need competition, not gatekeepers
 
 **Author:** Patrick McHenry  
 **Published:** 6/30/2026, 1:25:52 PM  
@@ -35,7 +95,7 @@ Innovation thrives when investors have choices. For tokenized securities, Washin
 
 ---
 
-## 3. Nasdaq expands distribution of its market data into blockchain infrastructure
+## 8. Nasdaq expands distribution of its market data into blockchain infrastructure
 
 **Author:** Helene Braun  
 **Published:** 6/30/2026, 1:00:00 PM  
@@ -47,7 +107,7 @@ The exchange operator will offer its TotalView data feed through Pyth's marketpl
 
 ---
 
-## 4. Bitcoin’s quiet $59,000-$60,000 range is starting to look dangerous
+## 9. Bitcoin’s quiet $59,000-$60,000 range is starting to look dangerous
 
 **Author:** Shaurya Malwa  
 **Published:** 6/30/2026, 11:55:34 AM  
@@ -59,7 +119,7 @@ The token has traded in a tight band near $59,000 to $60,000 all week. The patte
 
 ---
 
-## 5. New York Life makes tokenization debut with onchain high-yield bond fund with Centrifuge
+## 10. New York Life's $800 billion asset manager makes tokenization debut with Centrifuge fund
 
 **Author:** Krisztian Sandor  
 **Published:** 6/30/2026, 11:20:30 AM  
@@ -71,7 +131,7 @@ The $807 billion asset manager is bringing a high-yield corporate bond strategy 
 
 ---
 
-## 6. Bitcoin $4.4 billion supply overhang emerges as institutional demand wilts
+## 11. Bitcoin $4.4 billion supply overhang emerges as institutional demand wilts
 
 **Author:** Omkar Godbole  
 **Published:** 6/30/2026, 11:18:34 AM  
@@ -83,7 +143,7 @@ Your day-ahead look for June 30, 2026
 
 ---
 
-## 7. Bitcoin nears 2024 lows as options traders pay up for downside protection
+## 12. Bitcoin nears 2024 lows as options traders pay up for downside protection
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 6/30/2026, 10:48:06 AM  
@@ -95,7 +155,7 @@ Bitcoin and ether slid toward key support price levels. DeFi tokens were hit har
 
 ---
 
-## 8. Strategy heads for 11th losing month in 12 as bitcoin weakness continues
+## 13. Strategy heads for 11th losing month in 12 as bitcoin weakness continues
 
 **Author:** James Van Straten  
 **Published:** 6/30/2026, 10:33:48 AM  
@@ -107,7 +167,7 @@ Strategy (MSTR) shares have lost around 41% of their value in June.
 
 ---
 
-## 9. UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements
+## 14. UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements
 
 **Author:** Jamie Crawley  
 **Published:** 6/30/2026, 10:08:48 AM  
@@ -119,7 +179,7 @@ The Financial Conduct Authority's proposal follows the Bank of England's backtra
 
 ---
 
-## 10. SEC wins $5.5 million default judgment over alleged fake crypto platform NanoBit
+## 15. SEC wins $5.5 million default judgment over alleged fake crypto platform NanoBit
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 6/30/2026, 9:54:50 AM  
@@ -131,7 +191,7 @@ The group built trust via WhatsApp, then misappropriated user funds to Hong Kong
 
 ---
 
-## 11. Bitcoin's correlation with dollar-yen rate hits -0.90, undercutting 'carry trade' theory
+## 16. Bitcoin's correlation with dollar-yen rate hits -0.90, undercutting 'carry trade' theory
 
 **Author:** Omkar Godbole  
 **Published:** 6/30/2026, 7:14:40 AM  
@@ -143,9 +203,9 @@ Bitcoin’s price has shown an unusually strong negative 52-week correlation wit
 
 ---
 
-## 12. Live updates: bitcoin falls back below $59,000 as demand dwindles
+## 17. Live updates: Bitcoin falls back below $59,000, Circle's stock gets crushed
 
-**Author:** Shaurya Malwa,Omkar Godbole  
+**Author:** Shaurya Malwa,Omkar Godbole,Krisztian Sandor  
 **Published:** 6/30/2026, 7:01:09 AM  
 **Categories:** Tech, Live News, live_news  
 
@@ -155,7 +215,7 @@ IBIT alone shed $300 million while smaller funds absorbed some of the outflow. T
 
 ---
 
-## 13. Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe
+## 18. Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe
 
 **Author:** Olivier Acuna  
 **Published:** 6/30/2026, 6:30:00 AM  
@@ -167,7 +227,7 @@ Dubai lawyer Irina Heaver says European founders are flocking to the UAE for fas
 
 ---
 
-## 14. XRP holds $1 support as network activity rises and leverage clears out
+## 19. XRP holds $1 support as network activity rises and leverage clears out
 
 **Author:** Shaurya Malwa  
 **Published:** 6/30/2026, 5:15:17 AM  
@@ -179,7 +239,7 @@ Active addresses jumped 72% in two weeks while open interest fell to its lowest 
 
 ---
 
-## 15. Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market
+## 20. Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market
 
 **Author:** Shaurya Malwa  
 **Published:** 6/30/2026, 5:01:09 AM  
@@ -191,7 +251,7 @@ Bitcoin held below $60,000 as a surging dollar kept crypto pinned. Onchain deman
 
 ---
 
-## 16. Tether trades at 7% to 10% premium in India. Exchanges say it's just supply and demand
+## 21. Tether trades at 7% to 10% premium in India. Exchanges say it's just supply and demand
 
 **Author:** Omkar Godbole  
 **Published:** 6/30/2026, 4:59:04 AM  
@@ -203,7 +263,7 @@ Executives at major platforms CoinDCX and CoinSwitch say the premium reflects a 
 
 ---
 
-## 17. Bitcoin under pressure below $60,000 as Japanese yen hits 40-year low against the U.S. dollar
+## 22. Bitcoin under pressure below $60,000 as Japanese yen hits 40-year low against the U.S. dollar
 
 **Author:** Omkar Godbole  
 **Published:** 6/30/2026, 4:15:44 AM  
