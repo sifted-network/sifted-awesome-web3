@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-29"
 date: "2026-06-29"
 source: "Cointelegraph"
-count: 23
+count: 22
 ---
 
 # Cointelegraph - 2026-06-29
 
-23 items collected.
+22 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ Bitcoin’s loose hold on $60,000 and soft futures markets raise questions about
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 6/29/2026, 9:45:00 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Donald Trump has 10 days to decide on housing bill with CBDC ban
+## 3. Donald Trump has 10 days to decide on housing bill with CBDC ban
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 6/29/2026, 9:34:08 PM  
@@ -59,7 +47,7 @@ House Speaker Mike Johnson transmitted a housing bill with a provision barring t
 
 ---
 
-## 5. Senate leaders push for July passage of CLARITY Act
+## 4. Senate leaders push for July passage of CLARITY Act
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 6/29/2026, 7:59:31 PM  
@@ -71,7 +59,7 @@ Lawmakers in the US Senate are on state work periods until July 13, giving them 
 
 ---
 
-## 6. Bitcoin put-call ratio hits 1-year high: Are bears preparing for drop to $55K?
+## 5. Bitcoin put-call ratio hits 1-year high: Are bears preparing for drop to $55K?
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 6/29/2026, 7:41:04 PM  
@@ -83,7 +71,7 @@ Rising demand for put options and persistent ETF outflows highlight Bitcoin's we
 
 ---
 
-## 7. Bitcoin balances $60K tightrope as US stocks rebound on fresh Iran peace deal hopes
+## 6. Bitcoin balances $60K tightrope as US stocks rebound on fresh Iran peace deal hopes
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/29/2026, 5:44:49 PM  
@@ -95,7 +83,7 @@ Bitcoin faced its own battle for support as US stocks headed higher and analysts
 
 ---
 
-## 8. Coinbase, Kraken and OKX move to swoop up EU users affected by MiCA restrictions
+## 7. Coinbase, Kraken and OKX move to swoop up EU users affected by MiCA restrictions
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 6/29/2026, 5:42:39 PM  
@@ -107,7 +95,7 @@ Several exchanges that have already been authorized by EU regulators are attempt
 
 ---
 
-## 9. BNY adds USDC minting and redemption to institutional custody platform
+## 8. BNY adds USDC minting and redemption to institutional custody platform
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 6/29/2026, 4:10:09 PM  
@@ -119,7 +107,7 @@ The move deepens BNY's partnership with Circle and builds on the bank's role as 
 
 ---
 
-## 10. Can AI drain DeFi? Separating Claude Mythos hype from reality
+## 9. Can AI drain DeFi? Separating Claude Mythos hype from reality
 
 **Author:** Cointelegraph by Dilip Kumar Patairya  
 **Published:** 6/29/2026, 3:00:00 PM  
@@ -131,7 +119,7 @@ Claude Mythos has raised concerns about AI-driven attacks on DeFi protocols. How
 
 ---
 
-## 11. From Bitcoin critics to blockchain believers: The 5 biggest crypto backflips
+## 10. From Bitcoin critics to blockchain believers: The 5 biggest crypto backflips
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 6/29/2026, 1:30:00 PM  
@@ -143,7 +131,7 @@ If you can't beat 'em, join 'em. Here are five crypto skeptics who have reluctan
 
 ---
 
-## 12. Strategy unveils capital framework to preserve Bitcoin exposure, pay dividends
+## 11. Strategy unveils capital framework to preserve Bitcoin exposure, pay dividends
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/29/2026, 1:12:23 PM  
@@ -155,7 +143,7 @@ Michael Saylor’s Strategy unveiled a capital framework allowing Bitcoin sales 
 
 ---
 
-## 13. Breez launches Bitcoin-to-stablecoin payments across more than 30 blockchains
+## 12. Breez launches Bitcoin-to-stablecoin payments across more than 30 blockchains
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 6/29/2026, 1:00:00 PM  
@@ -167,7 +155,7 @@ The new SDK feature lets developers route payments from Bitcoin balances to reci
 
 ---
 
-## 14. Prediction-market operational consolidation could spur M&A wave: Bernstein
+## 13. Prediction-market operational consolidation could spur M&A wave: Bernstein
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/29/2026, 11:21:37 AM  
@@ -179,7 +167,7 @@ Bernstein says platforms are bringing exchange, clearing and brokerage infrastru
 
 ---
 
-## 15. Vitalik Buterin says obfuscation could unlock private onchain crypto voting
+## 14. Vitalik Buterin says obfuscation could unlock private onchain crypto voting
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/29/2026, 10:53:39 AM  
@@ -191,7 +179,7 @@ Vitalik Buterin said indistinguishability obfuscation could eventually support p
 
 ---
 
-## 16. Germany leads MiCA crypto authorization race as Europe’s deadline looms
+## 15. Germany leads MiCA crypto authorization race as Europe’s deadline looms
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/29/2026, 10:48:20 AM  
@@ -203,7 +191,7 @@ MiCA crypto licensing data shows 244 approved companies across EU and EEA jurisd
 
 ---
 
-## 17. BTC price RSI prints key 2026 signal: Five things to know in Bitcoin this week
+## 16. BTC price RSI prints key 2026 signal: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/29/2026, 9:55:20 AM  
@@ -215,7 +203,7 @@ Bitcoin prepped an "interesting" RSI divergence into the Q2 and June candle clos
 
 ---
 
-## 18. Kiwoom eyes Bithumb stake as Korean brokerages push into crypto: Report
+## 17. Kiwoom eyes Bithumb stake as Korean brokerages push into crypto: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/29/2026, 9:40:31 AM  
@@ -227,7 +215,7 @@ Kiwoom Securities is reportedly seeking to acquire a stake in crypto exchange Bi
 
 ---
 
-## 19. Galaxy cuts CLARITY Act odds to 50% as Senate floor time narrows
+## 18. Galaxy cuts CLARITY Act odds to 50% as Senate floor time narrows
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/29/2026, 8:16:47 AM  
@@ -239,7 +227,7 @@ Galaxy cut its 2026 CLARITY Act odds to 50%, warning that Senate floor time is r
 
 ---
 
-## 20. Excessive AI spending risks global financial consequences, BIS warns
+## 19. Excessive AI spending risks global financial consequences, BIS warns
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/29/2026, 5:31:40 AM  
@@ -251,7 +239,7 @@ The AI investment surge is a potential flashpoint for systemic risk, “as finan
 
 ---
 
-## 21. Pioneering zk-rollup Loopring closes DEX, citing lack of adoption
+## 20. Pioneering zk-rollup Loopring closes DEX, citing lack of adoption
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/29/2026, 3:15:38 AM  
@@ -263,7 +251,7 @@ The AI investment surge is a potential flashpoint for systemic risk, “as finan
 
 ---
 
-## 22. Ether treasury Sharplink bought $62.4M ETH last week
+## 21. Ether treasury Sharplink bought $62.4M ETH last week
 
 **Author:** Cointelegraph by Cointelegraph  
 **Published:** 6/29/2026, 2:43:44 AM  
@@ -275,7 +263,7 @@ Sharplink bought nearly 40,000 ETH last week after an eight-month pause, adding 
 
 ---
 
-## 23. Bullish Bitcoin RSI divergence has analysts calling for 2022-style bear market bottom
+## 22. Bullish Bitcoin RSI divergence has analysts calling for 2022-style bear market bottom
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 6/29/2026, 2:32:03 AM  
