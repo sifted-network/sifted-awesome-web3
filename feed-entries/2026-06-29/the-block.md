@@ -2,16 +2,52 @@
 title: "The Block - 2026-06-29"
 date: "2026-06-29"
 source: "The Block"
-count: 16
+count: 18
 ---
 
 # The Block - 2026-06-29
 
-16 items collected.
+18 items collected.
 
 ---
 
-## 1. Arkham launches ranking system for prediction market traders
+## 1. UK sets capital, market abuse rules in landmark crypto framework
+
+**Author:** Brian Danga  
+**Published:** 6/29/2026, 11:01:00 PM  
+**Categories:** Companies, Policy, Regulation, The Block, FCA  
+
+The FCA finalized UK crypto rules covering capital, stablecoins and market abuse ahead of Oct. 2027 implementation.
+
+📖 [Read original article](https://www.theblock.co/post/406546/uk-sets-capital-market-abuse-rules-landmark-crypto-framework?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. TD Cowen says crypto market structure bill passage ‘far from assured’ before midterm election
+
+**Author:** Yogita Khatri  
+**Published:** 6/29/2026, 8:38:52 PM  
+**Categories:** Markets, Policy, Regulation, The Block  
+
+The passage of the crypto market structure bill, or Clarity Act, before the November midterm election is "far from assured," said TD Cowen.
+
+📖 [Read original article](https://www.theblock.co/post/406621/td-cowen-crypto-market-structure-bill-clarity-act?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. SEC wraps up NanoBit crypto fraud case in final judgment, ordering over $5 million in fines
+
+**Author:** Sarah Wynn  
+**Published:** 6/29/2026, 7:51:31 PM  
+**Categories:** Legal, Policy, Regulation, The Block, Crime, SEC  
+
+The SEC resolved its case against NanoBit after alleging the crypto platform lied to investors and stole their money.
+
+📖 [Read original article](https://www.theblock.co/post/406613/sec-wraps-up-nanobit-crypto-fraud-case-final-judgment-ordering-5-million-fines?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Arkham launches ranking system for prediction market traders
 
 **Author:** RT Watson  
 **Published:** 6/29/2026, 7:04:02 PM  
@@ -23,7 +59,7 @@ The highest Elo-ranked trader, “GardenerCx,” has a win rate of 64.3% over 2,
 
 ---
 
-## 2. JPMorgan execs draw comparison between yield stablecoins and ‘shadow banking’
+## 5. JPMorgan execs draw comparison between yield stablecoins and ‘shadow banking’
 
 **Author:** Daniel Kuhn  
 **Published:** 6/29/2026, 6:37:28 PM  
@@ -35,7 +71,7 @@ JPMorgan execs argued that stablecoin innovation can easily drift into “shadow
 
 ---
 
-## 3. BNY and Circle expand partnership, adding mint and burn capabilities for USDC
+## 6. BNY and Circle expand partnership, adding mint and burn capabilities for USDC
 
 **Author:** Daniel Kuhn  
 **Published:** 6/29/2026, 4:58:42 PM  
@@ -47,7 +83,7 @@ BNY, the world's largest custodian bank, said it plans to add support for additi
 
 ---
 
-## 4. Strategy’s MSTR, STRC shares recover after brutal week as Saylor unveils new buyback plans
+## 7. Strategy’s MSTR, STRC shares recover after brutal week as Saylor unveils new buyback plans
 
 **Author:** Kyle Baird  
 **Published:** 6/29/2026, 4:40:09 PM  
@@ -59,7 +95,7 @@ Strategy outlined a new capital framework as bitcoin steadied after last week's 
 
 ---
 
-## 5. Binance founder CZ says MiCA application was ‘fully compliant’ and near approval before political forces intervened
+## 8. Binance founder CZ says MiCA application was ‘fully compliant’ and near approval before political forces intervened
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/29/2026, 3:33:27 PM  
@@ -71,7 +107,7 @@ Binance founder CZ says the exchange's EU MiCA application was close to approval
 
 ---
 
-## 6. Bitmine lifts Ethereum treasury to 5.7 million ETH through ‘challenging’ weekly slide, joins Russell 1000
+## 9. Bitmine lifts Ethereum treasury to 5.7 million ETH through ‘challenging’ weekly slide, joins Russell 1000
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/29/2026, 2:46:28 PM  
@@ -83,7 +119,7 @@ Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth
 
 ---
 
-## 7. Bernstein says prediction-market infrastructure rush could spark wave of M&A across consumer platforms
+## 10. Bernstein says prediction-market infrastructure rush could spark wave of M&A across consumer platforms
 
 **Author:** Brian Danga  
 **Published:** 6/29/2026, 1:29:48 PM  
@@ -95,7 +131,7 @@ Bernstein said DraftKings' DKeX launch keeps prediction-market revenue in-house 
 
 ---
 
-## 8. BlackRock’s Aladdin platform adds deeper support for Ethena’s stablecoin products
+## 11. BlackRock’s Aladdin platform adds deeper support for Ethena’s stablecoin products
 
 **Author:** RT Watson  
 **Published:** 6/29/2026, 1:00:00 PM  
@@ -107,7 +143,7 @@ The move makes USDe more accessible to investment professionals wishing to take 
 
 ---
 
-## 9. Strategy pauses bitcoin buys, establishes $1B digital credit repurchase program as USD reserve tops $2.5B
+## 12. Strategy pauses bitcoin buys, establishes $1B digital credit repurchase program as USD reserve tops $2.5B
 
 **Author:** James Hunt  
 **Published:** 6/29/2026, 12:45:53 PM  
@@ -119,7 +155,7 @@ Strategy's total holdings remain at 847,363 BTC and account for more than 4% of 
 
 ---
 
-## 10. Bitcoin clings to key support level as weekly US spot ETF outflows hit $1.8B and Fed rate hike bets mount: analysts
+## 13. Bitcoin clings to key support level as weekly US spot ETF outflows hit $1.8B and Fed rate hike bets mount: analysts
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/29/2026, 12:00:13 PM  
@@ -131,7 +167,7 @@ Bitcoin floats near $60K as spot ETF weekly outflows hit $1.79B amid Fed rate hi
 
 ---
 
-## 11. Vitalik Buterin calls obfuscation cryptography’s ‘final boss,’ but says current approaches remain wildly impractical
+## 14. Vitalik Buterin calls obfuscation cryptography’s ‘final boss,’ but says current approaches remain wildly impractical
 
 **Author:** Brian Danga  
 **Published:** 6/29/2026, 10:36:22 AM  
@@ -143,7 +179,7 @@ Vitalik Buterin said obfuscation is cryptography’s “final boss,” citing im
 
 ---
 
-## 12. India’s USDT premium tops 8.5% as crypto remittance crackdown squeezes stablecoin supply: report
+## 15. India’s USDT premium tops 8.5% as crypto remittance crackdown squeezes stablecoin supply: report
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 6/29/2026, 9:49:21 AM  
@@ -155,7 +191,7 @@ India's USDT premium topped 8.5% after Enforcement Directorate raids on Bengalur
 
 ---
 
-## 13. Galaxy Research cuts Clarity Act 2026 passage odds to 50%, citing Senate calendar concerns
+## 16. Galaxy Research cuts Clarity Act 2026 passage odds to 50%, citing Senate calendar concerns
 
 **Author:** Timmy Shen  
 **Published:** 6/29/2026, 8:41:29 AM  
@@ -167,7 +203,7 @@ Galaxy's Alex Thorn said Senate calendar constraints and a lack of progress in n
 
 ---
 
-## 14. Ethereum zkRollup project Loopring sunsets DEX, citing lack of meaningful adoption
+## 17. Ethereum zkRollup project Loopring sunsets DEX, citing lack of meaningful adoption
 
 **Author:** Danny Park  
 **Published:** 6/29/2026, 7:21:49 AM  
@@ -179,7 +215,7 @@ Loopring plans to return all remaining user funds through a smart contract upgra
 
 ---
 
-## 15. South Korea’s Kiwoom Securities to acquire stake in Bithumb crypto exchange: report
+## 18. South Korea’s Kiwoom Securities to acquire stake in Bithumb crypto exchange: report
 
 **Author:** Danny Park  
 **Published:** 6/29/2026, 2:47:54 AM  
@@ -188,17 +224,5 @@ Loopring plans to return all remaining user funds through a smart contract upgra
 This is part of a larger wave of South Korean institutions purchasing stakes in local exchanges, amid developing regulatory conditions.
 
 📖 [Read original article](https://www.theblock.co/post/406470/kiwoom-securities-bithumb?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. The Funding: Why crypto VCs are expanding beyond crypto
-
-**Author:** Yogita Khatri  
-**Published:** 6/29/2026, 2:39:48 AM  
-**Categories:** Deals, The Block, Venture Capital, New VC Funds, Strategic Investments  
-
-Major crypto VCs are broadening their investment mandates. Here's what's driving the shift and what it means for the future of crypto VC.
-
-📖 [Read original article](https://www.theblock.co/post/406472/the-funding-why-crypto-vcs-are-expanding-beyond-crypto?utm_source=rss&utm_medium=rss)
 
 ---
