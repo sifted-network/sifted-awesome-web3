@@ -2,12 +2,12 @@
 title: "The Block - 2026-06-29"
 date: "2026-06-29"
 source: "The Block"
-count: 18
+count: 16
 ---
 
 # The Block - 2026-06-29
 
-18 items collected.
+16 items collected.
 
 ---
 
@@ -200,29 +200,5 @@ India's USDT premium topped 8.5% after Enforcement Directorate raids on Bengalur
 Galaxy's Alex Thorn said Senate calendar constraints and a lack of progress in negotiations make passage less likely than several weeks ago.
 
 📖 [Read original article](https://www.theblock.co/post/406497/galaxy-cuts-clarity-act-passage-odds-50?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Ethereum zkRollup project Loopring sunsets DEX, citing lack of meaningful adoption
-
-**Author:** Danny Park  
-**Published:** 6/29/2026, 7:21:49 AM  
-**Categories:** Crypto Ecosystems, DeFi, The Block  
-
-Loopring plans to return all remaining user funds through a smart contract upgrade, without requiring users to cover transaction costs.
-
-📖 [Read original article](https://www.theblock.co/post/406492/loopring-sunsets-dex?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. South Korea’s Kiwoom Securities to acquire stake in Bithumb crypto exchange: report
-
-**Author:** Danny Park  
-**Published:** 6/29/2026, 2:47:54 AM  
-**Categories:** Companies, The Block  
-
-This is part of a larger wave of South Korean institutions purchasing stakes in local exchanges, amid developing regulatory conditions.
-
-📖 [Read original article](https://www.theblock.co/post/406470/kiwoom-securities-bithumb?utm_source=rss&utm_medium=rss)
 
 ---
