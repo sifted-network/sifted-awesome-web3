@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-06-29"
 date: "2026-06-29"
 source: "CoinDesk"
-count: 25
+count: 18
 ---
 
 # CoinDesk - 2026-06-29
 
-25 items collected.
+18 items collected.
 
 ---
 
@@ -224,89 +224,5 @@ Strategy adopted a new capital management framework, authorizing up to $2 billio
 Raids on crypto payment firms in Bengaluru disrupted the pipeline that feeds dollar-pegged USDT to Indian platforms, pushing its local price more than 8.5% above the dollar, roughly double the usual gap.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/29/usdt-jumps-to-8-5-premium-in-india-after-crypto-payment-crackdown)
-
----
-
-## 19. Vitalik Buterin says crypto’s most powerful idea isn't nearly ready for use
-
-**Author:** Shaurya Malwa  
-**Published:** 6/29/2026, 11:52:27 AM  
-**Categories:** Tech, Vitalik Buterin, News  
-
-The Ethereum co-founder says indistinguishability obfuscation could one day act like a “trustless trusted third party,” but today’s versions remain far too slow for real use.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/06/29/vitalik-buterin-says-crypto-s-most-powerful-idea-is-still-nowhere-near-ready)
-
----
-
-## 20. Dollar, U.S. Treasury yield market positions may carry glimmer of hope for bitcoin
-
-**Author:** Omkar Godbole  
-**Published:** 6/29/2026, 11:42:13 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for June 29, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/06/29/dollar-u-s-treasury-yield-market-positions-may-carry-glimmer-of-hope-for-bitcoin)
-
----
-
-## 21. FundBank becomes IRACE Digital in bid to bridge traditional finance and crypto
-
-**Author:** Will Canny  
-**Published:** 6/29/2026, 11:30:00 AM  
-**Categories:** Finance, mergers and acquisitions, Exclusive, Crypto Trading, News  
-
-The institutional banking provider is expanding into digital asset custody, liquidity and execution services as former Zodia Custody Ireland CEO John Cronin takes the helm.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/06/29/fundbank-becomes-irace-digital-in-bid-to-bridge-traditional-finance-and-crypto)
-
----
-
-## 22. Bitcoin hovers below $60,000 as crypto braces for a pivotal week
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 6/29/2026, 11:03:46 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-BTC added 0.6% to $59,800 to start the week while SOL rose 2%, though derivatives data and chart formations point to continued downside risk.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/29/bitcoin-hovers-below-usd60-000-as-crypto-braces-for-a-pivotal-week)
-
----
-
-## 23. Europe’s unlicensed crypto firms face ‘wipeout’ as MiCA deadline hits
-
-**Author:** Ian Allison  
-**Published:** 6/29/2026, 10:01:23 AM  
-**Categories:** Policy, MiCA, Regulation, News  
-
-European regulator ESMA called on unauthorized crypto-asset service providers to wind down their businesses in an orderly manner as the MiCA transitional period ends on July 1.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/29/europe-s-unlicensed-crypto-firms-face-wipeout-as-final-regulatory-deadline-falls)
-
----
-
-## 24. Bitcoin falls into a technical no man’s land as major support levels sit miles away
-
-**Author:** James Van Straten,AI Boost  
-**Published:** 6/29/2026, 9:40:18 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin is trading below key technical and onchain valuation levels, with historical bear market patterns suggesting a potential bottom closer to $45,000.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/29/bitcoin-falls-into-a-technical-no-man-s-land-as-major-support-levels-sit-miles-away)
-
----
-
-## 25. New MiCA regime in Europe, U.S. jobs report for June: Crypto Week Ahead
-
-**Author:** Francisco Rodrigues,Jamie Crawley  
-**Published:** 6/29/2026, 9:08:25 AM  
-**Categories:** Markets, week ahead, News  
-
-Your look at what's coming in the week starting June 29.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/29/new-mica-regime-in-europe-u-s-jobs-report-for-june-crypto-week-ahead)
 
 ---
