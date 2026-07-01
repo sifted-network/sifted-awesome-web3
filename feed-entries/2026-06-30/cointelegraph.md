@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-30"
 date: "2026-06-30"
 source: "Cointelegraph"
-count: 29
+count: 22
 ---
 
 # Cointelegraph - 2026-06-30
 
-29 items collected.
+22 items collected.
 
 ---
 
@@ -47,7 +47,7 @@ The amended complaint, granted by a judge on Tuesday, included allegations that 
 
 ---
 
-## 4. Bitmine Ether buys eclipsed by $345M ETH ETF $345M outflows: Is sub $1.5K next?
+## 4. Bitmine Ether buys eclipsed by $345M ETH ETF outflows: Is sub $1.5K next?
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 6/30/2026, 9:16:47 PM  
@@ -125,7 +125,7 @@ Bitcoin miners have the power sites AI companies need, but turning old mining ca
 **Published:** 6/30/2026, 5:19:17 PM  
 **Categories:** Latest News  
 
-The crypto industry, big tech and gambling interest groups are betting big on politicians in the 2026 primaries and elections, with almost $300 million shelled out so far.
+The crypto industry, Big Tech and gambling interest groups are betting big on politicians in the 2026 primaries and elections, with almost $300 million shelled out so far.
 
 📖 [Read original article](https://cointelegraph.com/news/crypto-companies-spent-2026-us-election-cycle-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
@@ -143,19 +143,7 @@ The majority of businesses surveyed are likely to use stablecoins within the nex
 
 ---
 
-## 12. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 6/30/2026, 3:31:03 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. MetaMask launches stablecoin yield account with card spending
+## 12. MetaMask launches stablecoin yield account with card spending
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/30/2026, 2:00:00 PM  
@@ -167,7 +155,7 @@ MetaMask launches Money Account it says offers up to 4% variable APY on mUSD sta
 
 ---
 
-## 14. OKX launches AI marketplace for autonomous agent economy
+## 13. OKX launches AI marketplace for autonomous agent economy
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/30/2026, 1:39:39 PM  
@@ -179,7 +167,7 @@ OKX launched a beta marketplace for the agentic economy, enabling AI agents to a
 
 ---
 
-## 15. Strategy's new plan divides industry observers even as MSTR, STRC climb
+## 14. Strategy's new plan divides industry observers even as MSTR, STRC climb
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/30/2026, 1:14:47 PM  
@@ -191,7 +179,7 @@ Strategy’s new Bitcoin capital framework draws Wall Street backing from Benchm
 
 ---
 
-## 16. Theo becomes first crypto-native investor in Fidelity tokenized fund
+## 15. Theo becomes first crypto-native investor in Fidelity tokenized fund
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 6/30/2026, 1:00:00 PM  
@@ -203,7 +191,7 @@ The onchain capital markets platform allocated $20 million to Fidelity Internati
 
 ---
 
-## 17. Swan's Cory Klippsten sees record Bitcoin holder supply revealing early bottom
+## 16. Swan's Cory Klippsten sees record Bitcoin holder supply revealing early bottom
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/30/2026, 12:44:21 PM  
@@ -215,7 +203,7 @@ The record Bitcoin supply held by long-term holders may suggest that the crypto 
 
 ---
 
-## 18. StarkWare unveils Starknet quantum roadmap, says industry has no excuse
+## 17. StarkWare unveils Starknet quantum roadmap, says industry has no excuse
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 6/30/2026, 12:30:00 PM  
@@ -227,7 +215,7 @@ The record Bitcoin supply held by long-term holders may suggest that the crypto 
 
 ---
 
-## 19. Spiko links EU regulated T-bill funds to Coinbase stablecoin rails
+## 18. Spiko links EU regulated T-bill funds to Coinbase stablecoin rails
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/30/2026, 12:21:03 PM  
@@ -239,7 +227,7 @@ Spiko integrated Coinbase Payments into two EU regulated UCITS Treasury funds, e
 
 ---
 
-## 20. Solana Company to back Kazakhstan’s $6B crypto megacity ambition
+## 19. Solana Company to back Kazakhstan’s $6B crypto megacity ambition
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 6/30/2026, 11:00:00 AM  
@@ -251,7 +239,7 @@ Nasdaq-listed Solana Company has signed a memorandum of understanding with Kazak
 
 ---
 
-## 21. ESMA MiCA warning puts Binance EU service changes under scrutiny
+## 20. ESMA MiCA warning puts Binance EU service changes under scrutiny
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 6/30/2026, 10:25:48 AM  
@@ -263,7 +251,7 @@ ESMA said EU crypto clients must be served through a MiCA-authorized entity as B
 
 ---
 
-## 22. Michigan judge blocks Kalshi from allowing residents to place sports bets
+## 21. Michigan judge blocks Kalshi from allowing residents to place sports bets
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 6/30/2026, 9:08:26 AM  
@@ -275,7 +263,7 @@ A Michigan Judge has temporarily blocked Kalshi from offering sports betting con
 
 ---
 
-## 23. Celsius-linked Bitcoin miner Ionic Digital seeks Nasdaq direct listing amid AI pivot
+## 22. Celsius-linked Bitcoin miner Ionic Digital seeks Nasdaq direct listing amid AI pivot
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 6/30/2026, 8:16:46 AM  
@@ -284,77 +272,5 @@ A Michigan Judge has temporarily blocked Kalshi from offering sports betting con
 The Celsius-linked Bitcoin miner is seeking a Nasdaq direct listing as it repurposes mining infrastructure for AI and high-performance computing workloads.
 
 📖 [Read original article](https://cointelegraph.com/news/ionic-digital-nasdaq-direct-listing-ai-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 24. Australia’s crypto travel rule is coming into effect: Here’s what's changing
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 6/30/2026, 6:29:02 AM  
-**Categories:** Latest News  
-
-From July, crypto exchanges operating in Australia will prompt for additional information on all outgoing and incoming transfers.
-
-📖 [Read original article](https://cointelegraph.com/news/australias-crypto-travel-rule-takes-effect-on-july-1-whats-changing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. Cathie Wood’s ARK adds $43.5M in crypto stocks amid market dip
-
-**Author:** Cointelegraph by Brayden Lindrea  
-**Published:** 6/30/2026, 5:49:50 AM  
-**Categories:** Latest News  
-
-ARK Invest's biggest crypto stock purchases over the past three trading days were Coinbase and Circle, whose shares have fallen 17% and 27.6%, respectively, over the past month.
-
-📖 [Read original article](https://cointelegraph.com/news/cathie-woods-ark-scoops-up-43m-worth-of-crypto-stocks-amid-market-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 26. Bitmine lifts Ether holdings to 5.7M as it joins Russell 1000
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 6/30/2026, 4:03:33 AM  
-**Categories:** Latest News  
-
-Bitmine purchased about $43 million worth of Ether last week as it entered the Russell 1000 Index, bringing it closer to its goal of owning 5% of ETH’s supply.
-
-📖 [Read original article](https://cointelegraph.com/news/bitmine-lifts-ethereum-holdings-to-57m-as-it-joins-russell-1000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 27. Sovereign funds see Bitcoin discount as entry point: MidChains CEO
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 6/30/2026, 3:53:34 AM  
-**Categories:** Latest News  
-
-It sends “a very clear signal” to other institutions that may be sitting on the sidelines and looking at these larger funds as leaders, said MidChains CEO Basil Al Askari.
-
-📖 [Read original article](https://cointelegraph.com/news/sovereign-funds-see-bitcoin-discount-as-entry-point-midchains-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 28. SEC wins $5.4M judgment in NanoBit crypto fraud case
-
-**Author:** Cointelegraph by Brayden Lindrea  
-**Published:** 6/30/2026, 3:06:34 AM  
-**Categories:** Latest News  
-
-The SEC alleged that NanoBit’s crypto trading platform was fake and that hundreds of thousands of dollars in investor funds were misappropriated.
-
-📖 [Read original article](https://cointelegraph.com/news/sec-wins-54m-judgment-in-nanobit-crypto-fraud-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 29. Singapore's Hyperliquid warning, Indonesia's FinFluencer license: Asia Express
-
-**Author:** Cointelegraph by Andrew Fenton  
-**Published:** 6/30/2026, 1:23:22 AM  
-**Categories:** Features  
-
-Hyperliquid follows Bybit onto Singapore's "naughty" list, Indonesia's new scheme to certify social media influencers promoting crypto: Asia Express.
-
-📖 [Read original article](https://cointelegraph.com/features/singapores-hyperliquid-warning-indonesias-finfluencer-licence-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
