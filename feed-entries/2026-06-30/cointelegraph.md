@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-30"
 date: "2026-06-30"
 source: "Cointelegraph"
-count: 17
+count: 11
 ---
 
 # Cointelegraph - 2026-06-30
 
-17 items collected.
+11 items collected.
 
 ---
 
@@ -140,77 +140,5 @@ The crypto industry, Big Tech and gambling interest groups are betting big on po
 The majority of businesses surveyed are likely to use stablecoins within the next 12 months, while regulatory clarity remained the biggest barrier to wider adoption.
 
 📖 [Read original article](https://cointelegraph.com/news/42-of-businesses-surveyed-use-stablecoins-for-cross-border-payments-cybrid-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. MetaMask launches stablecoin yield account with card spending
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 6/30/2026, 2:00:00 PM  
-**Categories:** Latest News  
-
-MetaMask launches Money Account it says offers up to 4% variable APY on mUSD stablecoin balances and card spending, with DeFi-powered yield via vaults, excluding the UK and sanctioned jurisdictions.
-
-📖 [Read original article](https://cointelegraph.com/news/metamask-money-account-musd-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. OKX launches AI marketplace for autonomous agent economy
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/30/2026, 1:39:39 PM  
-**Categories:** Latest News  
-
-OKX launched a beta marketplace for the agentic economy, enabling AI agents to autonomously find work and collaborate with other agents.
-
-📖 [Read original article](https://cointelegraph.com/news/okx-ai-marketplace-autonomous-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Strategy's new plan divides industry observers even as MSTR, STRC climb
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 6/30/2026, 1:14:47 PM  
-**Categories:** Latest News  
-
-Strategy’s new Bitcoin capital framework draws Wall Street backing from Benchmark with a $570 per share target even as traders question long-term demand risk.
-
-📖 [Read original article](https://cointelegraph.com/news/strategy-new-plan-split-community-mstr-strc-climb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Theo becomes first crypto-native investor in Fidelity tokenized fund
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 6/30/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-The onchain capital markets platform allocated $20 million to Fidelity International's tokenized liquidity fund as tokenized Treasury products continue to attract institutional capital.
-
-📖 [Read original article](https://cointelegraph.com/news/fidelity-tokenized-fund-first-crypto-native-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Swan's Cory Klippsten sees record Bitcoin holder supply revealing early bottom
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/30/2026, 12:44:21 PM  
-**Categories:** Latest News  
-
-The record Bitcoin supply held by long-term holders may suggest that the crypto market bottom will come early, according to Swan’s Cory Klippsten.
-
-📖 [Read original article](https://cointelegraph.com/news/record-bitcoin-holder-supply-early-bottom-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. StarkWare unveils Starknet quantum roadmap, says industry has no excuse
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 6/30/2026, 12:30:00 PM  
-**Categories:** Latest News  
-
-“The crypto industry shouldn’t need wake-up calls from the White House or anyone else,” said StarkWare CEO Eli Ben-Sasson.
-
-📖 [Read original article](https://cointelegraph.com/news/starkware-ceo-blasts-crypto-complacency-in-quantum-threat-elliptic-illusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
