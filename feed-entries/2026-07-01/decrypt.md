@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-07-01"
 date: "2026-07-01"
 source: "Decrypt"
-count: 1
+count: 3
 ---
 
 # Decrypt - 2026-07-01
 
-1 items collected.
+3 items collected.
 
 ---
 
-## 1. Goliath Ventures CEO Pleads Guilty to $250M Crypto Ponzi Scheme
+## 1. Morning Minute: Major New Stablecoin Launch Shakes Incumbents
+
+**Author:** Tyler Warner  
+**Published:** 7/1/2026, 12:31:07 PM  
+**Categories:** , , Opinion  
+
+Open USD takes a shot at USDC and USDT, with backing from heavy hitters including Visa, Mastercard and Google.
+
+📖 [Read original article](https://decrypt.co/372513/morning-minute-major-new-stablecoin-launch-shakes-incumbents)
+
+---
+
+## 2. Taiwan Passes Sweeping Crypto Law With Licensing, Stablecoin Rules
+
+**Author:** Decrypt Agent  
+**Published:** 7/1/2026, 12:00:33 PM  
+**Categories:** , , Business  
+
+The new law puts virtual asset firms under FSC oversight for the first time and sets reserve-and-trust rules for stablecoins.
+
+📖 [Read original article](https://decrypt.co/372505/taiwan-passes-sweeping-crypto-law-with-licensing-stablecoin-rules)
+
+---
+
+## 3. Goliath Ventures CEO Pleads Guilty to $250M Crypto Ponzi Scheme
 
 **Author:** Decrypt Agent  
 **Published:** 7/1/2026, 8:43:31 AM  
