@@ -2,16 +2,64 @@
 title: "CoinDesk - 2026-06-30"
 date: "2026-06-30"
 source: "CoinDesk"
-count: 22
+count: 25
 ---
 
 # CoinDesk - 2026-06-30
 
-22 items collected.
+25 items collected.
 
 ---
 
-## 1. Why OpenUSD's 'real threat' that tanked Circle stock still faces a steep uphill battle for adoption
+## 1. U.S. senators seek to block foreign adversaries from AI technology in new bill
+
+**Author:** Jesse Hamilton  
+**Published:** 6/30/2026, 11:02:46 PM  
+**Categories:** Policy, Regulation, Artificial Intelligence, News  
+
+Senators Tim Scott and Bill Hagerty, who managed to push the crypto GENIUS Act into law, introduced the bill to give the government powers to defend U.S. AI.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/06/30/u-s-senators-seek-to-block-foreign-adversaries-from-ai-technology-in-new-bill)
+
+---
+
+## 2. Trump pocketed more than $1 billion from crypto ties as industry headed toward slump
+
+**Author:** Nikhilesh De,Jesse Hamilton  
+**Published:** 6/30/2026, 10:28:15 PM  
+**Categories:** Policy, Donald Trump, News  
+
+The president has capitalized massively on crypto, according to his 2025 financial disclosure, making it one of his most lucrative business moves.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/06/30/trump-pocketed-more-than-usd1-billion-from-crypto-ties-as-industry-headed-toward-slump)
+
+---
+
+## 3. Phantom doubles down on perpetual futures with hire of Hyperliquid market builders
+
+**Author:** Krisztian Sandor  
+**Published:** 6/30/2026, 9:00:19 PM  
+**Categories:** Finance, News  
+
+The crypto wallet is doubling down on perpetual futures after hiring the builders behind one of Hyperliquid's highest-profile market experiments.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders)
+
+---
+
+## 4. Companies spending the most on AI are growing jobs, Ramp study finds
+
+**Author:** Margaux Nijkerk  
+**Published:** 6/30/2026, 8:21:49 PM  
+**Categories:** Finance, Artificial Intelligence, News  
+
+A new study from Ramp found companies making the biggest investments in AI are expanding their workforces, with heavy adopters increasing headcount by about 10% and entry-level hiring by 12%, challenging fears that generative AI is already causing widespread job losses.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/06/30/companies-spending-the-most-on-ai-are-growing-jobs-ramp-study-finds)
+
+---
+
+## 5. Why OpenUSD's 'real threat' that tanked Circle stock still faces a steep uphill battle for adoption
 
 **Author:** Krisztian Sandor,Helene Braun  
 **Published:** 6/30/2026, 6:39:06 PM  
@@ -23,7 +71,7 @@ The Stripe- and Coinbase-backed stablecoin consortium can challenge Circle's bus
 
 ---
 
-## 2. SEC giving novel ETFs a rethink as it opens comment period on overhauling U.S. rules
+## 6. SEC giving novel ETFs a rethink as it opens comment period on overhauling U.S. rules
 
 **Author:** Jesse Hamilton  
 **Published:** 6/30/2026, 5:51:57 PM  
@@ -35,7 +83,7 @@ Managers of exchange-traded funds, including those in the crypto sector, may see
 
 ---
 
-## 3. Chinese exile once linked to Trump strategist gets 30-year sentence in $1 billion fraud
+## 7. Chinese exile once linked to Trump strategist gets 30-year sentence in $1 billion fraud
 
 **Author:** Jesse Hamilton  
 **Published:** 6/30/2026, 4:31:46 PM  
@@ -47,7 +95,7 @@ The businessman known as Miles Guo, who pushed the fraudulent H-Coin project and
 
 ---
 
-## 4. Jefferies warns of crypto market volatility as Clarity Act faces Senate test
+## 8. Jefferies warns of crypto market volatility as Clarity Act faces Senate test
 
 **Author:** Will Canny,AI Boost  
 **Published:** 6/30/2026, 2:41:59 PM  
@@ -59,7 +107,7 @@ The bank said the bill faces major hurdles, with passage boosting institutional 
 
 ---
 
-## 5. Circle slides 13% as Stripe, Coinbase and BlackRock back rival stablecoin network
+## 9. Circle craters 17% as Stripe, Coinbase and BlackRock back rival stablecoin network
 
 **Author:** Krisztian Sandor  
 **Published:** 6/30/2026, 2:32:33 PM  
@@ -71,7 +119,7 @@ Open Standard's Open USD aims to let partners keep reserve income and eliminate 
 
 ---
 
-## 6. MetaMask launches Money Account with stablecoin yield and spending in one wallet
+## 10. MetaMask launches Money Account with stablecoin yield and spending in one wallet
 
 **Author:** Margaux Nijkerk  
 **Published:** 6/30/2026, 2:00:00 PM  
@@ -83,7 +131,7 @@ The launch reflects a broader push to make stablecoins more useful beyond tradin
 
 ---
 
-## 7. Tokenized securities need competition, not gatekeepers
+## 11. Tokenized securities need competition, not gatekeepers
 
 **Author:** Patrick McHenry  
 **Published:** 6/30/2026, 1:25:52 PM  
@@ -95,7 +143,7 @@ Innovation thrives when investors have choices. For tokenized securities, Washin
 
 ---
 
-## 8. Nasdaq expands distribution of its market data into blockchain infrastructure
+## 12. Nasdaq expands distribution of its market data into blockchain infrastructure
 
 **Author:** Helene Braun  
 **Published:** 6/30/2026, 1:00:00 PM  
@@ -107,7 +155,7 @@ The exchange operator will offer its TotalView data feed through Pyth's marketpl
 
 ---
 
-## 9. Bitcoin’s quiet $59,000-$60,000 range is starting to look dangerous
+## 13. Bitcoin’s quiet $59,000-$60,000 range is starting to look dangerous
 
 **Author:** Shaurya Malwa  
 **Published:** 6/30/2026, 11:55:34 AM  
@@ -119,7 +167,7 @@ The token has traded in a tight band near $59,000 to $60,000 all week. The patte
 
 ---
 
-## 10. New York Life's $800 billion asset manager makes tokenization debut with Centrifuge fund
+## 14. New York Life's $800 billion asset manager makes tokenization debut with Centrifuge fund
 
 **Author:** Krisztian Sandor  
 **Published:** 6/30/2026, 11:20:30 AM  
@@ -131,7 +179,7 @@ The $807 billion asset manager is bringing a high-yield corporate bond strategy 
 
 ---
 
-## 11. Bitcoin $4.4 billion supply overhang emerges as institutional demand wilts
+## 15. Bitcoin $4.4 billion supply overhang emerges as institutional demand wilts
 
 **Author:** Omkar Godbole  
 **Published:** 6/30/2026, 11:18:34 AM  
@@ -143,7 +191,7 @@ Your day-ahead look for June 30, 2026
 
 ---
 
-## 12. Bitcoin nears 2024 lows as options traders pay up for downside protection
+## 16. Bitcoin nears 2024 lows as options traders pay up for downside protection
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 6/30/2026, 10:48:06 AM  
@@ -155,7 +203,7 @@ Bitcoin and ether slid toward key support price levels. DeFi tokens were hit har
 
 ---
 
-## 13. Strategy heads for 11th losing month in 12 as bitcoin weakness continues
+## 17. Strategy heads for 11th losing month in 12 as bitcoin weakness continues
 
 **Author:** James Van Straten  
 **Published:** 6/30/2026, 10:33:48 AM  
@@ -167,7 +215,7 @@ Strategy (MSTR) shares have lost around 41% of their value in June.
 
 ---
 
-## 14. UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements
+## 18. UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements
 
 **Author:** Jamie Crawley  
 **Published:** 6/30/2026, 10:08:48 AM  
@@ -179,7 +227,7 @@ The Financial Conduct Authority's proposal follows the Bank of England's backtra
 
 ---
 
-## 15. SEC wins $5.5 million default judgment over alleged fake crypto platform NanoBit
+## 19. SEC wins $5.5 million default judgment over alleged fake crypto platform NanoBit
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 6/30/2026, 9:54:50 AM  
@@ -191,7 +239,7 @@ The group built trust via WhatsApp, then misappropriated user funds to Hong Kong
 
 ---
 
-## 16. Bitcoin's correlation with dollar-yen rate hits -0.90, undercutting 'carry trade' theory
+## 20. Bitcoin's correlation with dollar-yen rate hits -0.90, undercutting 'carry trade' theory
 
 **Author:** Omkar Godbole  
 **Published:** 6/30/2026, 7:14:40 AM  
@@ -203,7 +251,7 @@ Bitcoin’s price has shown an unusually strong negative 52-week correlation wit
 
 ---
 
-## 17. Live updates: Bitcoin falls back below $59,000, Circle's stock gets crushed
+## 21. Live updates: bitcoin closes out weak quarter; Trump reports over $1 billion in crypto proceeds
 
 **Author:** Shaurya Malwa,Omkar Godbole,Krisztian Sandor  
 **Published:** 6/30/2026, 7:01:09 AM  
@@ -215,7 +263,7 @@ IBIT alone shed $300 million while smaller funds absorbed some of the outflow. T
 
 ---
 
-## 18. Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe
+## 22. Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe
 
 **Author:** Olivier Acuna  
 **Published:** 6/30/2026, 6:30:00 AM  
@@ -227,7 +275,7 @@ Dubai lawyer Irina Heaver says European founders are flocking to the UAE for fas
 
 ---
 
-## 19. XRP holds $1 support as network activity rises and leverage clears out
+## 23. XRP holds $1 support as network activity rises and leverage clears out
 
 **Author:** Shaurya Malwa  
 **Published:** 6/30/2026, 5:15:17 AM  
@@ -239,7 +287,7 @@ Active addresses jumped 72% in two weeks while open interest fell to its lowest 
 
 ---
 
-## 20. Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market
+## 24. Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market
 
 **Author:** Shaurya Malwa  
 **Published:** 6/30/2026, 5:01:09 AM  
@@ -251,7 +299,7 @@ Bitcoin held below $60,000 as a surging dollar kept crypto pinned. Onchain deman
 
 ---
 
-## 21. Tether trades at 7% to 10% premium in India. Exchanges say it's just supply and demand
+## 25. Tether trades at 7% to 10% premium in India. Exchanges say it's just supply and demand
 
 **Author:** Omkar Godbole  
 **Published:** 6/30/2026, 4:59:04 AM  
@@ -260,17 +308,5 @@ Bitcoin held below $60,000 as a surging dollar kept crypto pinned. Onchain deman
 Executives at major platforms CoinDCX and CoinSwitch say the premium reflects a demand-supply imbalance and thin local liquidity.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/06/30/usdt-s-premium-in-india-jumps-to-10-exchanges-say-its-just-supply-and-demand)
-
----
-
-## 22. Bitcoin under pressure below $60,000 as Japanese yen hits 40-year low against the U.S. dollar
-
-**Author:** Omkar Godbole  
-**Published:** 6/30/2026, 4:15:44 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-BTC fell in Asia as the Japanese yen tanked to four-decade lows, lifting the dollar higher across the board.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/30/bitcoin-under-pressure-below-usd60-000-as-japanese-yen-hits-40-year-low-against-the-u-s-dollar)
 
 ---
