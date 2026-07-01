@@ -2,16 +2,88 @@
 title: "CoinDesk - 2026-07-01"
 date: "2026-07-01"
 source: "CoinDesk"
-count: 22
+count: 25
 ---
 
 # CoinDesk - 2026-07-01
 
-22 items collected.
+25 items collected.
 
 ---
 
-## 1. EthLabs launches as Ethereum undergoes its biggest leadership transition in years
+## 1. Robinhood rolls out public blockchain as it expands deeper into crypto
+
+**Author:** Margaux Nijkerk,Krisztian Sandor  
+**Published:** 7/1/2026, 6:25:00 PM  
+**Categories:** Finance, Robinhood, Ethereum News, Tokenization, News  
+
+Robinhood's product push continues to blur the line between crypto and more traditional finance.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/01/robinhood-rolls-out-public-blockchain-as-it-expands-deeper-into-crypto)
+
+---
+
+## 2. Ethereum Foundation lays out use cases for governments, institutions in new policy guide
+
+**Author:** Margaux Nijkerk  
+**Published:** 7/1/2026, 5:52:33 PM  
+**Categories:** Policy, Ethereum News, News  
+
+The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance structures will play a critical role in determining which platforms are suitable for long-term public sect...
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide)
+
+---
+
+## 3. Jefferies warns against buying the dip in Circle as Open USD raises new competition fears
+
+**Author:** Krisztian Sandor  
+**Published:** 7/1/2026, 4:11:50 PM  
+**Categories:** Markets, Circle, Stablecoins, News  
+
+The investment bank said new competition from the Stripe- and Coinbase-backed stablecoin consortium could pressure USDC's growth.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears)
+
+---
+
+## 4. Cantor says bitcoin bear market may be entering final stretch
+
+**Author:** Will Canny,AI Boost  
+**Published:** 7/1/2026, 3:11:46 PM  
+**Categories:** Markets, Cantor Fitzgerald, Digital Asset Treasury, Bitcoin News, News  
+
+The bank said in a note bitcoin's cycle points to a market bottom in the coming months, urging investors to focus on networks with durable value accrual.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/01/cantor-says-bitcoin-bear-market-may-be-entering-final-stretch)
+
+---
+
+## 5. Goliath Ventures CEO pleads guilty in $400 million crypto Ponzi case
+
+**Author:** Francisco Rodrigues  
+**Published:** 7/1/2026, 3:06:22 PM  
+**Categories:** Policy, SEC, News  
+
+Christopher Delgado allegedly used investor funds for a lavish lifestyle, including luxury properties and vehicles, while running a fraudulent scheme from 2023 to 2026.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/01/goliath-ventures-ceo-pleads-guilty-in-usd400-million-crypto-ponzi-case)
+
+---
+
+## 6. Bitcoin breaks above $60,000 after Fed Chair Warsh said inflation risks has come down
+
+**Author:** Helene Braun  
+**Published:** 7/1/2026, 2:36:00 PM  
+**Categories:** Markets, Federal Reserve, Bitcoin News, News  
+
+The Fed chair reiterated the central bank's commitment to its 2% inflation target while signaling artificial intelligence could reshape the economy and monetary policy.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/01/bitcoin-retakes-usd60-000-level-after-fed-chair-warsh-said-inflation-risks-has-come-down)
+
+---
+
+## 7. EthLabs launches as Ethereum undergoes its biggest leadership transition in years
 
 **Author:** Margaux Nijkerk  
 **Published:** 7/1/2026, 2:09:56 PM  
@@ -23,7 +95,7 @@ In this week's edition of The Protocol Newsletter, we’re diving into the creat
 
 ---
 
-## 2. Europe's MiCA rollout sparks debate over who wins under new crypto rules
+## 8. Europe's MiCA rollout sparks debate over who wins under new crypto rules
 
 **Author:** Olivier Acuna  
 **Published:** 7/1/2026, 2:00:24 PM  
@@ -35,7 +107,7 @@ As Europe's crypto rulebook takes full effect, industry leaders agree regulation
 
 ---
 
-## 3. Europe is closing the door on offshore crypto, but it’s leaving the riskiest window open
+## 9. Europe is closing the door on offshore crypto, but it’s leaving the riskiest window open
 
 **Author:** Patrick Gruhn  
 **Published:** 7/1/2026, 2:00:00 PM  
@@ -47,7 +119,7 @@ MiCA was never meant to address the giant crypto derivatives market. That could 
 
 ---
 
-## 4. French banking giant Crédit Agricole rolls out euro stablecoin, EURXT
+## 10. French banking giant Crédit Agricole rolls out euro stablecoin, EURXT
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/1/2026, 1:50:24 PM  
@@ -59,7 +131,7 @@ EURXT debuted with 20 million tokens in circulation, backed 1:1 by euro reserves
 
 ---
 
-## 5. Morpho poised to scale as DeFi infrastructure play, Standard Chartered says
+## 11. Morpho poised to scale as DeFi infrastructure play, Standard Chartered says
 
 **Author:** Will Canny,AI Boost  
 **Published:** 7/1/2026, 1:46:40 PM  
@@ -71,7 +143,7 @@ The bank initiated coverage of Morpho with a $60 end-2030 price target, saying i
 
 ---
 
-## 6. Ethereum gets a new nonprofit focused on institutional adoption
+## 12. Ethereum gets a new nonprofit focused on institutional adoption
 
 **Author:** Margaux Nijkerk  
 **Published:** 7/1/2026, 1:41:44 PM  
@@ -83,7 +155,7 @@ The launch comes as the Ethereum Foundation narrows its focus to stewarding the 
 
 ---
 
-## 7. Citi slashes 12-month bitcoin, ether targets as ETF flows dry up
+## 13. Citi slashes 12-month bitcoin, ether targets as ETF flows dry up
 
 **Author:** Will Canny,AI Boost  
 **Published:** 7/1/2026, 1:39:19 PM  
@@ -95,7 +167,7 @@ The bank cut its 12-month bitcoin and ether price targets after scrapping its ET
 
 ---
 
-## 8. Tokenized Google stock inflated 7,700% in rare DeFi lending exploit
+## 14. Tokenized Google stock inflated 7,700% in rare DeFi lending exploit
 
 **Author:** Shaurya Malwa  
 **Published:** 7/1/2026, 1:32:20 PM  
@@ -107,7 +179,7 @@ An attacker inflated the value of a tokenized Google share used as collateral to
 
 ---
 
-## 9. What's next for Bitcoin and stocks? Analysts see a volatile second half
+## 15. What's next for Bitcoin and stocks? Analysts see a volatile second half
 
 **Author:** Helene Braun  
 **Published:** 7/1/2026, 1:00:00 PM  
@@ -119,7 +191,7 @@ After AI drove equities higher while bitcoin lagged, market watchers expect macr
 
 ---
 
-## 10. Mysterious Solana project World unveiled as fully onchain prediction market
+## 16. Mysterious Solana project World unveiled as fully onchain prediction market
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/1/2026, 1:00:00 PM  
@@ -131,7 +203,7 @@ The platform is now live within the Phantom wallet and at world.xyz, utilizing C
 
 ---
 
-## 11. Bitcoin opens the third quarter in an historical red zone after rare losing first half
+## 17. Bitcoin opens the third quarter in an historical red zone after rare losing first half
 
 **Author:** Shaurya Malwa  
 **Published:** 7/1/2026, 12:30:19 PM  
@@ -143,7 +215,7 @@ Bitcoin fell in both the first and second quarters of 2026, only the third time 
 
 ---
 
-## 12. Europe is rewriting its landmark crypto rulebook MiCA as hard July 1 deadline passes
+## 18. Europe is rewriting its landmark crypto rulebook MiCA as hard July 1 deadline passes
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 7/1/2026, 12:29:17 PM  
@@ -155,7 +227,7 @@ The EU is reviewing whether its landmark crypto regulation MiCA needs updating f
 
 ---
 
-## 13. Ark Invest bought more than $75 million of crypto shares during June bloodbath
+## 19. Ark Invest bought more than $75 million of crypto shares during June bloodbath
 
 **Author:** Jamie Crawley  
 **Published:** 7/1/2026, 11:42:22 AM  
@@ -167,7 +239,7 @@ Ark Invest has a tendency to "buy the dip," loading up on shares in cryptocurren
 
 ---
 
-## 14. XRP, HYPE funds are the bright spots as investors flee bitcoin, ether ETFs
+## 20. XRP, HYPE funds are the bright spots as investors flee bitcoin, ether ETFs
 
 **Author:** Omkar Godbole  
 **Published:** 7/1/2026, 11:15:00 AM  
@@ -179,7 +251,7 @@ Your day-ahead look for July 1, 2026
 
 ---
 
-## 15. Bitcoin options traders load up on $50,000 puts and gold futures flash a death cross
+## 21. Bitcoin options traders load up on $50,000 puts and gold futures flash a death cross
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 7/1/2026, 10:47:34 AM  
@@ -191,7 +263,7 @@ Bitcoin options flows and a record gold OI suggest traders are bracing for furth
 
 ---
 
-## 16. Aave logs biggest network-growth day in nearly 5 years as DeFi interest returns
+## 22. Aave logs biggest network-growth day in nearly 5 years as DeFi interest returns
 
 **Author:** Shaurya Malwa  
 **Published:** 7/1/2026, 10:20:54 AM  
@@ -203,7 +275,7 @@ The lending protocol added 1,806 new wallets in a single day, the most since Oct
 
 ---
 
-## 17. Bitcoin’s 20% June crash looks even deadlier on the charts. Here’s why
+## 23. Bitcoin’s 20% June crash looks even deadlier on the charts. Here’s why
 
 **Author:** Omkar Godbole  
 **Published:** 7/1/2026, 7:42:49 AM  
@@ -215,9 +287,9 @@ Bitcoin dropped by 20% in June, but the monthly chart reveals something far more
 
 ---
 
-## 18. Live markets: bitcoin holding below $59,000 as Fed's Warsh stays silent on rate hike odds
+## 24. Live markets: bitcoin bounces to $60,000 after Warsh comments, economic data
 
-**Author:** Shaurya Malwa,James Van Straten  
+**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Krisztian Sandor,Helene Braun  
 **Published:** 7/1/2026, 7:05:11 AM  
 **Categories:** Tech, Live News, live_news  
 
@@ -227,7 +299,7 @@ Record ETF outflows in June beat the previous worst month by 29% and came on nin
 
 ---
 
-## 19. Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls
+## 25. Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls
 
 **Author:** Shaurya Malwa  
 **Published:** 7/1/2026, 6:54:13 AM  
@@ -236,41 +308,5 @@ Record ETF outflows in June beat the previous worst month by 29% and came on nin
 The government cleared Fable 5 and Mythos 5 on June 30, weeks after a cybersecurity finding triggered an export order that froze access for everyone.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/07/01/anthropic-restores-ai-models-fable-mythos-after-the-u-s-lifts-export-controls)
-
----
-
-## 20. Why Poland is the only EU country where crypto firms can't get a MiCA license
-
-**Author:** Olivier Acuna  
-**Published:** 7/1/2026, 6:30:00 AM  
-**Categories:** Policy, MiCA, Regulation, News  
-
-President Karol Nawrocki refuses to sign a law that gives the regulator power to approve companies, forcing tech founders to look outside their own borders for permission to operate.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/01/why-poland-is-the-only-eu-country-where-crypto-firms-can-t-get-a-mica-license)
-
----
-
-## 21. XRP holds above $1 after leverage flush as network activity improves
-
-**Author:** Shaurya Malwa  
-**Published:** 7/1/2026, 5:30:16 AM  
-**Categories:** Markets, News  
-
-Open interest has collapsed from last year’s highs while active addresses and ETF inflows rise, but XRP still needs to reclaim $1.10 before the chart turns cleaner.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/01/xrp-holds-above-usd1-after-leverage-flush-as-network-activity-improves)
-
----
-
-## 22. Taiwan’s sweeping crypto law raises the bar with licensing, reserve mandates, and tough penalties
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 7/1/2026, 5:04:14 AM  
-**Categories:** Policy, Regulation, News  
-
-Taiwan has passed a sweeping new law to regulate its crypto sector, sending the bill to the President for final approval.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/01/taiwan-s-sweeping-crypto-law-raises-the-bar-with-licensing-reserve-mandates-and-tough-penalties)
 
 ---
