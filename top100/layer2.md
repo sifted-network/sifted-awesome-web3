@@ -6,16 +6,16 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,566 | 2,277 | Rust | 26 | A based rollup protocol for Ethereum🥁  | 2026-06-30 |
-| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,063 | 758 | Rust | 631 | The Stacks blockchain implementation | 2026-06-29 |
+| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,565 | 2,277 | Rust | 26 | A based rollup protocol for Ethereum🥁  | 2026-07-01 |
+| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,063 | 758 | Rust | 630 | The Stacks blockchain implementation | 2026-06-30 |
 | 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,546 | 331 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
-| 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,025 | 615 | - | 1896 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
+| 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,025 | 613 | - | 1896 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
 | 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 839 | 109 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
-| 6 | [starknetbook](https://github.com/starknet-edu/starknetbook) | 831 | 489 | CSS | 0 | Mastering Starknet. By the Starknet community | 2024-06-20 |
+| 6 | [starknetbook](https://github.com/starknet-edu/starknetbook) | 832 | 490 | CSS | 0 | Mastering Starknet. By the Starknet community | 2024-06-20 |
 | 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 614 | 56 | JavaScript | 14 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-06-29 |
 | 8 | [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) | 476 | 139 | C | 7 | Open source MAC Telnet client and server for connecting to Mikrotik RouterOS routers and Posix devices using MAC addresses | 2025-09-21 |
 | 9 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 470 | 51 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2023-12-24 |
-| 10 | [juno](https://github.com/NethermindEth/juno) | 447 | 237 | Go | 38 | Reliable and high performance Starknet full node implementation | 2026-06-30 |
+| 10 | [juno](https://github.com/NethermindEth/juno) | 447 | 237 | Go | 36 | Reliable and high performance Starknet full node implementation | 2026-06-30 |
 | 11 | [db3](https://github.com/dbpunk-labs/db3) | 385 | 44 | Rust | 18 |  a Lightweight, Permanent JSON document database | 2024-07-29 |
 | 12 | [ChainX](https://github.com/chainx-org/ChainX) | 325 | 121 | Rust | 1 | Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM  | 2025-12-18 |
 | 13 | [blockchain-roadmap](https://github.com/itublockchain/blockchain-roadmap) | 283 | 39 | - | 0 | Blockchain öğrenme yolculuğunuz için yol haritası | 2024-10-13 |
@@ -24,7 +24,7 @@
 | 16 | [tutorials](https://github.com/zkSync-Community-Hub/tutorials) | 237 | 62 | TypeScript | 0 | Tutorials submitted by the community to build on zkSync Era | 2025-02-03 |
 | 17 | [contracts](https://github.com/hop-protocol/contracts) | 234 | 85 | TypeScript | 8 | 🐰 Hop Protocol v1 smart contracts | 2025-02-26 |
 | 18 | [zkopru](https://github.com/zkopru-network/zkopru) | 219 | 27 | TypeScript | 68 | Ethereum L2 scaling solution for private transactions using zk-SNARK and optimistic rollup. | 2023-01-24 |
-| 19 | [rooch](https://github.com/rooch-network/rooch) | 188 | 94 | Rust | 217 | VApp Container with Move Language for Bitcoin ecosystem | 2026-06-30 |
+| 19 | [rooch](https://github.com/rooch-network/rooch) | 188 | 94 | Rust | 217 | VApp Container with Move Language for Bitcoin ecosystem | 2026-07-01 |
 | 20 | [EtherGuard-VPN](https://github.com/KusakabeShi/EtherGuard-VPN) | 184 | 19 | Go | 7 | Layer2 version of wireguard with Floyd Warshall implement in go. | 2024-01-12 |
 | 21 | [optimistic-specs](https://github.com/ethereum-optimism/optimistic-specs) | 173 | 40 | Go | 44 | Optimistic: Bedrock, is a protocol that strives to be an extremely simple optimistic rollup that maintains 1:1 compatibility with Ethereum | 2023-08-02 |
 | 22 | [spec](https://github.com/rgb-archive/spec) | 145 | 23 | - | 7 | [OLD!] RGB Protocol specifications for Bitcoin-based digital assets | 2020-01-15 |
@@ -68,7 +68,7 @@
 | 60 | [XRPLEVM](https://github.com/MeoMunDep/XRPLEVM) | 33 | 0 | JavaScript | 0 | Auto deploy, send, burn, swap, bridge, add liquid pool, mint tokens.  | 2025-09-29 |
 | 61 | [ten-documentation](https://github.com/ten-protocol/ten-documentation) | 32 | 30 | JavaScript | 0 | Ten Documentation provides a comprehensive guide to understanding and integrating TEN | 2026-02-27 |
 | 62 | [DISEQ](https://github.com/jonas089/DISEQ) | 31 | 4 | Rust | 6 | distributed sequencer with zk consensus | 2025-04-13 |
-| 63 | [gtp-backend](https://github.com/growthepie/gtp-backend) | 30 | 12 | Python | 0 | The backend powering growthepie, the open analytics platform for the Ethereum ecosystem. It indexes and aggregates onchain data across Ethereum Mainnet, Layer 2s, and leading applications. | 2026-06-29 |
+| 63 | [gtp-backend](https://github.com/growthepie/gtp-backend) | 30 | 12 | Python | 0 | The backend powering growthepie, the open analytics platform for the Ethereum ecosystem. It indexes and aggregates onchain data across Ethereum Mainnet, Layer 2s, and leading applications. | 2026-06-30 |
 | 64 | [mina-zk-rollup](https://github.com/Trivo25/mina-zk-rollup) | 30 | 2 | TypeScript | 22 | A modular zk-Rollup for zero knowledge smart contracts, zkApps, on the Mina blockchain. | 2023-04-16 |
 | 65 | [uniswap-python-swapper](https://github.com/snarflakes/uniswap-python-swapper) | 29 | 11 | Python | 2 | Uniswap v4 Python Token Swapper – Universal Router.  A user-friendly Python script that demonstrates how to execute SWAP_EXACT_IN (Exact Input) swaps on Uniswap v4 Universal Router across various L2 n... | 2025-02-06 |
 | 66 | [chaoschain-launchpad](https://github.com/ChaosChain/chaoschain-launchpad) | 29 | 2 | Go | 44 | A launch pad to spin chaoschain with a given configuration of AI Agents | 2025-04-21 |
@@ -90,7 +90,7 @@
 | 82 | [layer2](https://github.com/mtth/layer2) | 18 | 1 | C++ | 2 |  | 2016-02-07 |
 | 83 | [stellar-turrets](https://github.com/stellar/stellar-turrets) | 18 | 10 | JavaScript | 0 | Reference implementation of the Stellar Turrets protocol | 2024-08-29 |
 | 84 | [js-layer2lib](https://github.com/layer2lib/js-layer2lib) | 18 | 0 | JavaScript | 0 | A javascript library for building state-channel and Plasma applications | 2018-08-26 |
-| 85 | [SuperScalar](https://github.com/8144225309/SuperScalar) | 18 | 2 | C | 8 | Implementation of SuperScalar — Bitcoin Lightning channel factories that onboard N users in one shared UTXO. No soft fork required. | 2026-06-30 |
+| 85 | [SuperScalar](https://github.com/8144225309/SuperScalar) | 18 | 1 | C | 8 | Implementation of SuperScalar — Bitcoin Lightning channel factories that onboard N users in one shared UTXO. No soft fork required. | 2026-07-01 |
 | 86 | [optimistic-rollup](https://github.com/MitchellTesla/optimistic-rollup) | 18 | 3 | Solidity | 0 | 丰 Solidity smart-contracts for the Celer sidechain on the Ethereum Virtual-Machine  💎  | 2022-01-18 |
 | 87 | [layer2](https://github.com/vmt/layer2) | 17 | 9 | C | 1 | Toy framework for creating a VPN | 2012-04-23 |
 | 88 | [myfirstlayer2-frontend](https://github.com/lxdao-official/myfirstlayer2-frontend) | 17 | 7 | JavaScript | 10 | MyFirstLayer2 serves as an educational platform geared towards novices eager to explore and engage with Layer2 technologies.  | 2025-05-16 |
