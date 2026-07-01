@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-06-30"
 date: "2026-06-30"
 source: "Cointelegraph"
-count: 22
+count: 17
 ---
 
 # Cointelegraph - 2026-06-30
 
-22 items collected.
+17 items collected.
 
 ---
 
@@ -212,65 +212,5 @@ The record Bitcoin supply held by long-term holders may suggest that the crypto 
 “The crypto industry shouldn’t need wake-up calls from the White House or anyone else,” said StarkWare CEO Eli Ben-Sasson.
 
 📖 [Read original article](https://cointelegraph.com/news/starkware-ceo-blasts-crypto-complacency-in-quantum-threat-elliptic-illusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Spiko links EU regulated T-bill funds to Coinbase stablecoin rails
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 6/30/2026, 12:21:03 PM  
-**Categories:** Latest News  
-
-Spiko integrated Coinbase Payments into two EU regulated UCITS Treasury funds, enabling USDC and EURC subscriptions and redemption payments through Base.
-
-📖 [Read original article](https://cointelegraph.com/news/spiko-coinbase-stablecoin-payments-treasury-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Solana Company to back Kazakhstan’s $6B crypto megacity ambition
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 6/30/2026, 11:00:00 AM  
-**Categories:** Latest News  
-
-Nasdaq-listed Solana Company has signed a memorandum of understanding with Kazakhstan's Alatau City, which seeks to become a key crypto hub in Central Asia.
-
-📖 [Read original article](https://cointelegraph.com/news/solana-company-to-back-kazakhstans-6b-crypto-megacity-ambition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. ESMA MiCA warning puts Binance EU service changes under scrutiny
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 6/30/2026, 10:25:48 AM  
-**Categories:** Latest News  
-
-ESMA said EU crypto clients must be served through a MiCA-authorized entity as Binance faces questions over its servicing model in the region after the MiCA deadline.
-
-📖 [Read original article](https://cointelegraph.com/news/esma-challenge-binance-serving-certain-eu-users-post-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Michigan judge blocks Kalshi from allowing residents to place sports bets
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 6/30/2026, 9:08:26 AM  
-**Categories:** Latest News  
-
-A Michigan Judge has temporarily blocked Kalshi from offering sports betting contracts to residents, escalating the state-federal fight over prediction markets and gambling laws.
-
-📖 [Read original article](https://cointelegraph.com/news/michigan-judge-blocks-kalshi-sports-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Celsius-linked Bitcoin miner Ionic Digital seeks Nasdaq direct listing amid AI pivot
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 6/30/2026, 8:16:46 AM  
-**Categories:** Latest News  
-
-The Celsius-linked Bitcoin miner is seeking a Nasdaq direct listing as it repurposes mining infrastructure for AI and high-performance computing workloads.
-
-📖 [Read original article](https://cointelegraph.com/news/ionic-digital-nasdaq-direct-listing-ai-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
