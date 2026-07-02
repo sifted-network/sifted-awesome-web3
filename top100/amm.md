@@ -7,15 +7,15 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [seaprotocol](https://github.com/sea-protocol/seaprotocol) | 5,041 | 52 | Move | 2 | Sea protocol is the ultimate DEX base on order-book & AMM on Aptos & Sui.Anybody has the right to trade any asset anywhere, anytime! | 2026-03-02 |
-| 2 | [ammo.js](https://github.com/kripken/ammo.js) | 4,522 | 579 | C++ | 161 | Direct port of the Bullet physics engine to JavaScript using Emscripten | 2026-06-16 |
+| 2 | [ammo.js](https://github.com/kripken/ammo.js) | 4,524 | 579 | C++ | 161 | Direct port of the Bullet physics engine to JavaScript using Emscripten | 2026-06-16 |
 | 3 | [Ammonite](https://github.com/com-lihaoyi/Ammonite) | 2,634 | 368 | Scala | 127 | Scala Scripting | 2026-06-22 |
 | 4 | [amm-arbitrageur](https://github.com/paco0x/amm-arbitrageur) | 1,999 | 820 | Solidity | 20 | An arbitrage bot between Uniswap AMMs | 2022-12-07 |
-| 5 | [uniswap-python](https://github.com/uniswap-python/uniswap-python) | 1,009 | 379 | Python | 58 | 🦄 The unofficial Python client for the Uniswap exchange. | 2026-06-08 |
+| 5 | [uniswap-python](https://github.com/uniswap-python/uniswap-python) | 1,010 | 380 | Python | 58 | 🦄 The unofficial Python client for the Uniswap exchange. | 2026-06-08 |
 | 6 | [osmosis](https://github.com/osmosis-labs/osmosis) | 958 | 695 | Go | 174 | The AMM Laboratory | 2026-06-29 |
-| 7 | [solana-jupiter-bot](https://github.com/ARBProtocol/solana-jupiter-bot) | 789 | 252 | JavaScript | 0 | ARB Protocol \| Automated Arbitrage Bot Using Jupiter | 2024-02-14 |
+| 7 | [solana-jupiter-bot](https://github.com/ARBProtocol/solana-jupiter-bot) | 790 | 252 | JavaScript | 0 | ARB Protocol \| Automated Arbitrage Bot Using Jupiter | 2024-02-14 |
 | 8 | [ammonia](https://github.com/rust-ammonia/ammonia) | 663 | 53 | Rust | 19 | Repair and secure untrusted HTML | 2026-07-01 |
 | 9 | [amms-rs](https://github.com/darkforestry/amms-rs) | 625 | 177 | Rust | 9 | A Rust library to interact with automated market makers across EVM chains. | 2025-10-06 |
-| 10 | [whirlpools](https://github.com/orca-so/whirlpools) | 538 | 337 | TypeScript | 6 | Open source concentrated liquidity AMM contract on Solana | 2026-06-30 |
+| 10 | [whirlpools](https://github.com/orca-so/whirlpools) | 537 | 336 | TypeScript | 6 | Open source concentrated liquidity AMM contract on Solana | 2026-07-01 |
 | 11 | [AmmyUI](https://github.com/AmmyUI/AmmyUI) | 380 | 23 | HTML | 79 | Ammy language repository | 2022-06-22 |
 | 12 | [raydium-amm](https://github.com/raydium-io/raydium-amm) | 358 | 266 | Rust | 0 | Constant product AMM integrated with the OpenBook CLOB  | 2026-06-29 |
 | 13 | [awesome-amm](https://github.com/0xperp/awesome-amm) | 338 | 26 | - | 0 | Collection of AMMs, Orderbooks, and everything in between | 2024-08-06 |
@@ -26,11 +26,11 @@
 | 18 | [whack-a-mole](https://github.com/solidquant/whack-a-mole) | 269 | 90 | Python | 5 | CEX-DEX arbitrage bot written in pure Python | 2024-04-26 |
 | 19 | [raydium_py](https://github.com/AL-THE-BOT-FATHER/raydium_py) | 247 | 84 | Python | 2 | Raydium swap with Python (AMM v4 and CPMM) | 2025-07-19 |
 | 20 | [AMMDS-Docker](https://github.com/QYG2297248353/AMMDS-Docker) | 246 | 8 | - | 2 | Adult Movie MetaData Scraper | 2026-06-27 |
-| 21 | [raydium-cp-swap](https://github.com/raydium-io/raydium-cp-swap) | 244 | 208 | Rust | 1 | Revamped constant product AMM - no Openbook ID requirement, Token22 support | 2026-06-12 |
+| 21 | [raydium-cp-swap](https://github.com/raydium-io/raydium-cp-swap) | 243 | 208 | Rust | 1 | Revamped constant product AMM - no Openbook ID requirement, Token22 support | 2026-06-12 |
 | 22 | [trident](https://github.com/sushiswap/trident) | 233 | 68 | TypeScript | 13 | Rapid AMM Development Framework  | 2023-02-07 |
-| 23 | [Metro_Last_Light_Unlimited_Ammo___Filters](https://github.com/theartistscut1-uig/Metro_Last_Light_Unlimited_Ammo___Filters) | 221 | 0 | Python | 0 | Unlimited ammo, filters, and health for Metro Last Light. Never run out of oxygen, infinite military-grade rounds, and god mode. | 2026-07-01 |
-| 24 | [Doom_Eternal_Unlimited_Ammo___Health](https://github.com/yheun03/Doom_Eternal_Unlimited_Ammo___Health) | 216 | 0 | Python | 0 | Unlimited ammo, health, and armor for Doom Eternal. God mode, infinite BFG, and all weapon mods. Rip and tear effortlessly. | 2026-07-01 |
-| 25 | [Resident_Evil_Village_Infinite_Ammo___Health](https://github.com/milosmrda/Resident_Evil_Village_Infinite_Ammo___Health) | 216 | 0 | Python | 0 | Infinite health, ammo, and Lei (money) for Resident Evil Village. God mode, unlimited guns, and unlock all weapons. | 2026-07-01 |
+| 23 | [Metro_Last_Light_Unlimited_Ammo___Filters](https://github.com/theartistscut1-uig/Metro_Last_Light_Unlimited_Ammo___Filters) | 220 | 0 | Python | 0 | Unlimited ammo, filters, and health for Metro Last Light. Never run out of oxygen, infinite military-grade rounds, and god mode. | 2026-07-01 |
+| 24 | [Doom_Eternal_Unlimited_Ammo___Health](https://github.com/yheun03/Doom_Eternal_Unlimited_Ammo___Health) | 215 | 0 | Python | 0 | Unlimited ammo, health, and armor for Doom Eternal. God mode, infinite BFG, and all weapon mods. Rip and tear effortlessly. | 2026-07-01 |
+| 25 | [Resident_Evil_Village_Infinite_Ammo___Health](https://github.com/milosmrda/Resident_Evil_Village_Infinite_Ammo___Health) | 215 | 0 | Python | 0 | Infinite health, ammo, and Lei (money) for Resident Evil Village. God mode, unlimited guns, and unlock all weapons. | 2026-07-01 |
 | 26 | [Solana-Raydium-Sniper-Bot](https://github.com/cutupdev/Solana-Raydium-Sniper-Bot) | 204 | 62 | Rust | 0 | Solana raydium rust sniper bot - launchlab(launchpad), amm, clmm, cpmm snipe | 2025-08-08 |
 | 27 | [AppleWatchAmmeter](https://github.com/jp3141/AppleWatchAmmeter) | 196 | 3 | - | 2 | Turn your Apple Watch into an ammeter to measure DC currents | 2024-09-15 |
 | 28 | [liquidswap](https://github.com/pontem-network/liquidswap) | 182 | 84 | Move | 5 | AMM core smart contracts | 2024-08-14 |
@@ -42,7 +42,7 @@
 | 34 | [AMMesh](https://github.com/USTC-GCL-F/AMMesh) | 139 | 41 | C++ | 1 | The code of lesson “Digital Geometry Processing” with ACAM frame | 2021-05-29 |
 | 35 | [conditional-tokens-market-makers](https://github.com/gnosis/conditional-tokens-market-makers) | 134 | 56 | JavaScript | 8 |  Automated Market Maker (AMM) smart contracts for Conditional Tokens Markets. | 2023-01-03 |
 | 36 | [rmm-core](https://github.com/primitivefinance/rmm-core) | 131 | 32 | Solidity | 2 | Primitive Replicating Market Maker smart contracts | 2024-07-23 |
-| 37 | [solana-sniper-trading-mev-bot](https://github.com/bigmacman1129/solana-sniper-trading-mev-bot) | 128 | 84 | TypeScript | 0 | Solana trading bot for sniping new tokens on Raydium AMM v4 and pump.fun. Features real-time on-chain monitoring, MEV-ready execution (Jito/Warp), safety filters, auto buy/sell, take-profit, and stop-... | 2026-05-17 |
+| 37 | [solana-sniper-trading-mev-bot](https://github.com/bigmacman1129/solana-sniper-trading-mev-bot) | 129 | 86 | TypeScript | 0 | Solana trading bot for sniping new tokens on Raydium AMM v4 and pump.fun. Features real-time on-chain monitoring, MEV-ready execution (Jito/Warp), safety filters, auto buy/sell, take-profit, and stop-... | 2026-05-17 |
 | 38 | [raydium-cpi-example](https://github.com/raydium-io/raydium-cpi-example) | 125 | 46 | Rust | 4 | cpi call example for amm, cpswap and clmm program | 2025-06-04 |
 | 39 | [ammer](https://github.com/Aurel300/ammer) | 120 | 15 | Haxe | 21 | Unified FFI for Haxe native extensions | 2023-07-29 |
 | 40 | [ammo.js-demos](https://github.com/schteppe/ammo.js-demos) | 118 | 31 | JavaScript | 2 | Demo application base class and 3D physics demos based on ammo.js. Support for several scenegraphs including Three.js and SceneJS. | 2015-08-31 |
@@ -66,10 +66,10 @@
 | 58 | [F18FlightSimulator-ammojs](https://github.com/renjianfeng/F18FlightSimulator-ammojs) | 82 | 25 | TypeScript | 1 | Simulation driving of F18 Fighter Based on babylonjs + ammojs(基于babylonjs+ammojs实现的F18战斗机模拟驾驶) | 2022-04-11 |
 | 59 | [Shitcoin-Raydium-bot](https://github.com/Tronzit-Veca/Shitcoin-Raydium-bot) | 82 | 32 | TypeScript | 0 | This is the memecoin bot connecting with Raydium SDK,: Unwrap Sol, Token creation, Market creation, Pool creation, Buy/Sell, Add/Remove Liquidity | 2024-07-23 |
 | 60 | [UniswapV2](https://github.com/tomwangcn/UniswapV2) | 82 | 0 | Solidity | 0 | This project aims to break down and reimplement the core logic of Uniswap V2, providing a simplified version of an Automated Market Maker (AMM) for educational and experimental purposes. The main cont... | 2025-08-20 |
-| 61 | [yb-core](https://github.com/yield-basis/yb-core) | 81 | 24 | Python | 3 | Autoleverage AMM and leveraged liquidity token | 2026-06-30 |
+| 61 | [yb-core](https://github.com/yield-basis/yb-core) | 81 | 24 | Python | 3 | Autoleverage AMM and leveraged liquidity token | 2026-07-01 |
 | 62 | [premia-contracts](https://github.com/Premian-Labs/premia-contracts) | 80 | 32 | TypeScript | 0 | 💎 Premia - Next-Generation Options AMM 💎 | 2023-09-07 |
-| 63 | [jupiter-amm-interface](https://github.com/jup-ag/jupiter-amm-interface) | 74 | 41 | Rust | 1 |  | 2026-04-29 |
-| 64 | [tricrypto-ng](https://github.com/curvefi/tricrypto-ng) | 74 | 31 | Vyper | 0 | Automatic Market Maker (AMM) for three unpegged assets, written in Vyper. | 2026-03-20 |
+| 63 | [jupiter-amm-interface](https://github.com/jup-ag/jupiter-amm-interface) | 75 | 41 | Rust | 1 |  | 2026-04-29 |
+| 64 | [tricrypto-ng](https://github.com/curvefi/tricrypto-ng) | 75 | 31 | Vyper | 0 | Automatic Market Maker (AMM) for three unpegged assets, written in Vyper. | 2026-03-20 |
 | 65 | [anchor-amm](https://github.com/ironaddicteddog/anchor-amm) | 73 | 24 | Rust | 0 | SPL token-swap (AMM) implemented in Anchor | 2022-03-08 |
 | 66 | [AMM_NRR](https://github.com/yaoyx689/AMM_NRR) | 69 | 10 | C++ | 1 |  | 2022-06-08 |
 | 67 | [mirin](https://github.com/sushiswap/mirin) | 67 | 32 | Solidity | 0 | A Sushi AMM v3 implementation | 2021-06-25 |
@@ -84,12 +84,12 @@
 | 76 | [ammonium](https://github.com/jupyter-scala/ammonium) | 63 | 5 | Scala | 0 | Impatient fork of Ammonite | 2018-07-30 |
 | 77 | [ammo](https://github.com/cyberrumor/ammo) | 62 | 6 | Python | 8 | Almost Manual Mod Organizer - The Definitive CLI Mod Manager for Linux | 2026-04-10 |
 | 78 | [solana-trade](https://github.com/MadgicDev/solana-trade) | 61 | 16 | TypeScript | 0 | Trade on all Solana major DEXs. Perfect for trading bots. Supports Pump.fun, Pump Swap, Raydium (AMM, CLMM, CPMM, Launchpad), Meteora (DAMMv1, DAMMv2, DLMM, Dynamic Bonding Curve), Orca Whirlpools, Mo... | 2025-11-14 |
-| 79 | [solana-swap-arbitrage-bot](https://github.com/pandazz77/solana-swap-arbitrage-bot) | 59 | 16 | Python | 0 | Solana Arbitrage bot between Raydium AMM(Swap) and cex(ccxt) | 2023-05-11 |
-| 80 | [Basin](https://github.com/BeanstalkFarms/Basin) | 59 | 27 | Solidity | 0 | A composable EVM-native decentralized exchange protocol. | 2025-09-22 |
-| 81 | [sudoswap-sol](https://github.com/RohanKapurDEV/sudoswap-sol) | 59 | 6 | Rust | 0 | An implementation of the SudoSwap AMM on Solana | 2022-10-10 |
-| 82 | [BalancerPools_Model](https://github.com/TokenEngineeringCommunity/BalancerPools_Model) | 58 | 29 | Python | 26 | cadCAD model to simulate Balancer AMMs | 2021-12-14 |
-| 83 | [10k_swap-contracts](https://github.com/10k-swap/10k_swap-contracts) | 58 | 22 | Cairo | 0 | A decentralized ZK Rollup AMM written in Cairo for StarkNet. | 2024-02-17 |
-| 84 | [stableswap-ng](https://github.com/curvefi/stableswap-ng) | 57 | 32 | Vyper | 1 | Automatic Market Maker (AMM) for 2 or more pegged assets, written in Vyper. | 2026-06-05 |
+| 79 | [stableswap-ng](https://github.com/curvefi/stableswap-ng) | 59 | 32 | Vyper | 1 | Automatic Market Maker (AMM) for 2 or more pegged assets, written in Vyper. | 2026-06-05 |
+| 80 | [solana-swap-arbitrage-bot](https://github.com/pandazz77/solana-swap-arbitrage-bot) | 59 | 16 | Python | 0 | Solana Arbitrage bot between Raydium AMM(Swap) and cex(ccxt) | 2023-05-11 |
+| 81 | [Basin](https://github.com/BeanstalkFarms/Basin) | 59 | 27 | Solidity | 0 | A composable EVM-native decentralized exchange protocol. | 2025-09-22 |
+| 82 | [sudoswap-sol](https://github.com/RohanKapurDEV/sudoswap-sol) | 59 | 6 | Rust | 0 | An implementation of the SudoSwap AMM on Solana | 2022-10-10 |
+| 83 | [BalancerPools_Model](https://github.com/TokenEngineeringCommunity/BalancerPools_Model) | 58 | 29 | Python | 26 | cadCAD model to simulate Balancer AMMs | 2021-12-14 |
+| 84 | [10k_swap-contracts](https://github.com/10k-swap/10k_swap-contracts) | 58 | 22 | Cairo | 0 | A decentralized ZK Rollup AMM written in Cairo for StarkNet. | 2024-02-17 |
 | 85 | [aux-exchange](https://github.com/aux-exchange/aux-exchange) | 55 | 27 | JavaScript | 19 | https://aux.exchange/ | 2023-03-17 |
 | 86 | [alternate-defi](https://github.com/wellimbharath/alternate-defi) | 54 | 21 | TypeScript | 0 | Simple orderbook view of the amms.  | 2024-08-20 |
 | 87 | [mmm](https://github.com/me-foundation/mmm) | 54 | 12 | TypeScript | 0 | MMM is an open protocol for AMM and collection offers | 2024-11-27 |
