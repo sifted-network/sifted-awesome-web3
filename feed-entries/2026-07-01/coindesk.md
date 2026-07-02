@@ -11,7 +11,19 @@ count: 25
 
 ---
 
-## 1. Robinhood rolls out public blockchain as it expands deeper into crypto
+## 1. Ethereum Institutional launch draws support from across the Ethereum ecosystem
+
+**Author:** Margaux Nijkerk  
+**Published:** 7/1/2026, 9:13:24 PM  
+**Categories:** Tech, Ethereum News, News  
+
+Its launch comes as Ethereum's support ecosystem undergoes a broader evolution, following the debut of EthLabs and amid ongoing efforts by the Ethereum Foundation to respond to community criticism over transparency, communication and its role within the ecosystem.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem)
+
+---
+
+## 2. Robinhood rolls out public blockchain as it expands deeper into crypto
 
 **Author:** Margaux Nijkerk,Krisztian Sandor  
 **Published:** 7/1/2026, 6:25:00 PM  
@@ -23,7 +35,7 @@ Robinhood's product push continues to blur the line between crypto and more trad
 
 ---
 
-## 2. Ethereum Foundation lays out use cases for governments, institutions in new policy guide
+## 3. Ethereum Foundation lays out use cases for governments, institutions in new policy guide
 
 **Author:** Margaux Nijkerk  
 **Published:** 7/1/2026, 5:52:33 PM  
@@ -35,7 +47,7 @@ The Ethereum Foundation said policymakers should distinguish between decentraliz
 
 ---
 
-## 3. Jefferies warns against buying the dip in Circle as Open USD raises new competition fears
+## 4. Jefferies warns against buying the dip in Circle as Open USD raises new competition fears
 
 **Author:** Krisztian Sandor  
 **Published:** 7/1/2026, 4:11:50 PM  
@@ -47,7 +59,7 @@ The investment bank said new competition from the Stripe- and Coinbase-backed st
 
 ---
 
-## 4. Cantor says bitcoin bear market may be entering final stretch
+## 5. Cantor says bitcoin bear market may be entering final stretch
 
 **Author:** Will Canny,AI Boost  
 **Published:** 7/1/2026, 3:11:46 PM  
@@ -59,7 +71,7 @@ The bank said in a note bitcoin's cycle points to a market bottom in the coming 
 
 ---
 
-## 5. Goliath Ventures CEO pleads guilty in $400 million crypto Ponzi case
+## 6. Goliath Ventures CEO pleads guilty in $400 million crypto Ponzi case
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/1/2026, 3:06:22 PM  
@@ -71,7 +83,7 @@ Christopher Delgado allegedly used investor funds for a lavish lifestyle, includ
 
 ---
 
-## 6. Bitcoin breaks above $60,000 after Fed Chair Warsh said inflation risks has come down
+## 7. Bitcoin breaks above $60,000 after Fed Chair Warsh said inflation risks has come down
 
 **Author:** Helene Braun  
 **Published:** 7/1/2026, 2:36:00 PM  
@@ -83,7 +95,7 @@ The Fed chair reiterated the central bank's commitment to its 2% inflation targe
 
 ---
 
-## 7. EthLabs launches as Ethereum undergoes its biggest leadership transition in years
+## 8. EthLabs launches as Ethereum undergoes its biggest leadership transition in years
 
 **Author:** Margaux Nijkerk  
 **Published:** 7/1/2026, 2:09:56 PM  
@@ -95,7 +107,7 @@ In this week's edition of The Protocol Newsletter, we’re diving into the creat
 
 ---
 
-## 8. Europe's MiCA rollout sparks debate over who wins under new crypto rules
+## 9. Europe's MiCA rollout sparks debate over who wins under new crypto rules
 
 **Author:** Olivier Acuna  
 **Published:** 7/1/2026, 2:00:24 PM  
@@ -107,7 +119,7 @@ As Europe's crypto rulebook takes full effect, industry leaders agree regulation
 
 ---
 
-## 9. Europe is closing the door on offshore crypto, but it’s leaving the riskiest window open
+## 10. Europe is closing the door on offshore crypto, but it’s leaving the riskiest window open
 
 **Author:** Patrick Gruhn  
 **Published:** 7/1/2026, 2:00:00 PM  
@@ -119,7 +131,7 @@ MiCA was never meant to address the giant crypto derivatives market. That could 
 
 ---
 
-## 10. French banking giant Crédit Agricole rolls out euro stablecoin, EURXT
+## 11. French banking giant Crédit Agricole rolls out euro stablecoin, EURXT
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/1/2026, 1:50:24 PM  
@@ -131,7 +143,7 @@ EURXT debuted with 20 million tokens in circulation, backed 1:1 by euro reserves
 
 ---
 
-## 11. Morpho poised to scale as DeFi infrastructure play, Standard Chartered says
+## 12. Morpho poised to scale as DeFi infrastructure play, Standard Chartered says
 
 **Author:** Will Canny,AI Boost  
 **Published:** 7/1/2026, 1:46:40 PM  
@@ -143,7 +155,7 @@ The bank initiated coverage of Morpho with a $60 end-2030 price target, saying i
 
 ---
 
-## 12. Ethereum gets a new nonprofit focused on institutional adoption
+## 13. Ethereum gets a new nonprofit focused on institutional adoption
 
 **Author:** Margaux Nijkerk  
 **Published:** 7/1/2026, 1:41:44 PM  
@@ -155,7 +167,7 @@ The launch comes as the Ethereum Foundation narrows its focus to stewarding the 
 
 ---
 
-## 13. Citi slashes 12-month bitcoin, ether targets as ETF flows dry up
+## 14. Citi slashes 12-month bitcoin, ether targets as ETF flows dry up
 
 **Author:** Will Canny,AI Boost  
 **Published:** 7/1/2026, 1:39:19 PM  
@@ -167,7 +179,7 @@ The bank cut its 12-month bitcoin and ether price targets after scrapping its ET
 
 ---
 
-## 14. Tokenized Google stock inflated 7,700% in rare DeFi lending exploit
+## 15. Tokenized Google stock inflated 7,700% in rare DeFi lending exploit
 
 **Author:** Shaurya Malwa  
 **Published:** 7/1/2026, 1:32:20 PM  
@@ -179,7 +191,7 @@ An attacker inflated the value of a tokenized Google share used as collateral to
 
 ---
 
-## 15. What's next for Bitcoin and stocks? Analysts see a volatile second half
+## 16. What's next for Bitcoin and stocks? Analysts see a volatile second half
 
 **Author:** Helene Braun  
 **Published:** 7/1/2026, 1:00:00 PM  
@@ -191,7 +203,7 @@ After AI drove equities higher while bitcoin lagged, market watchers expect macr
 
 ---
 
-## 16. Mysterious Solana project World unveiled as fully onchain prediction market
+## 17. Mysterious Solana project World unveiled as fully onchain prediction market
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/1/2026, 1:00:00 PM  
@@ -203,7 +215,7 @@ The platform is now live within the Phantom wallet and at world.xyz, utilizing C
 
 ---
 
-## 17. Bitcoin opens the third quarter in an historical red zone after rare losing first half
+## 18. Bitcoin opens the third quarter in an historical red zone after rare losing first half
 
 **Author:** Shaurya Malwa  
 **Published:** 7/1/2026, 12:30:19 PM  
@@ -215,7 +227,7 @@ Bitcoin fell in both the first and second quarters of 2026, only the third time 
 
 ---
 
-## 18. Europe is rewriting its landmark crypto rulebook MiCA as hard July 1 deadline passes
+## 19. Europe is rewriting its landmark crypto rulebook MiCA as hard July 1 deadline passes
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 7/1/2026, 12:29:17 PM  
@@ -227,7 +239,7 @@ The EU is reviewing whether its landmark crypto regulation MiCA needs updating f
 
 ---
 
-## 19. Ark Invest bought more than $75 million of crypto shares during June bloodbath
+## 20. Ark Invest bought more than $75 million of crypto shares during June bloodbath
 
 **Author:** Jamie Crawley  
 **Published:** 7/1/2026, 11:42:22 AM  
@@ -239,7 +251,7 @@ Ark Invest has a tendency to "buy the dip," loading up on shares in cryptocurren
 
 ---
 
-## 20. XRP, HYPE funds are the bright spots as investors flee bitcoin, ether ETFs
+## 21. XRP, HYPE funds are the bright spots as investors flee bitcoin, ether ETFs
 
 **Author:** Omkar Godbole  
 **Published:** 7/1/2026, 11:15:00 AM  
@@ -251,7 +263,7 @@ Your day-ahead look for July 1, 2026
 
 ---
 
-## 21. Bitcoin options traders load up on $50,000 puts and gold futures flash a death cross
+## 22. Bitcoin options traders load up on $50,000 puts and gold futures flash a death cross
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 7/1/2026, 10:47:34 AM  
@@ -263,7 +275,7 @@ Bitcoin options flows and a record gold OI suggest traders are bracing for furth
 
 ---
 
-## 22. Aave logs biggest network-growth day in nearly 5 years as DeFi interest returns
+## 23. Aave logs biggest network-growth day in nearly 5 years as DeFi interest returns
 
 **Author:** Shaurya Malwa  
 **Published:** 7/1/2026, 10:20:54 AM  
@@ -275,7 +287,7 @@ The lending protocol added 1,806 new wallets in a single day, the most since Oct
 
 ---
 
-## 23. Bitcoin’s 20% June crash looks even deadlier on the charts. Here’s why
+## 24. Bitcoin’s 20% June crash looks even deadlier on the charts. Here’s why
 
 **Author:** Omkar Godbole  
 **Published:** 7/1/2026, 7:42:49 AM  
@@ -287,7 +299,7 @@ Bitcoin dropped by 20% in June, but the monthly chart reveals something far more
 
 ---
 
-## 24. Live markets: bitcoin bounces to $60,000 after Warsh comments, economic data
+## 25. Live markets: bitcoin bounces to $60,000 after Warsh comments, economic data
 
 **Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Krisztian Sandor,Helene Braun  
 **Published:** 7/1/2026, 7:05:11 AM  
@@ -296,17 +308,5 @@ Bitcoin dropped by 20% in June, but the monthly chart reveals something far more
 Record ETF outflows in June beat the previous worst month by 29% and came on nine consecutive days of redemptions to close the period.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/07/01/live-markets-u-s-spot-bitcoin-etfs-had-their-worst-month-ever-in-june-shedding-usd4-5-billion)
-
----
-
-## 25. Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls
-
-**Author:** Shaurya Malwa  
-**Published:** 7/1/2026, 6:54:13 AM  
-**Categories:** Tech, News  
-
-The government cleared Fable 5 and Mythos 5 on June 30, weeks after a cybersecurity finding triggered an export order that froze access for everyone.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/01/anthropic-restores-ai-models-fable-mythos-after-the-u-s-lifts-export-controls)
 
 ---
