@@ -2,16 +2,76 @@
 title: "The Block - 2026-07-02"
 date: "2026-07-02"
 source: "The Block"
-count: 10
+count: 15
 ---
 
 # The Block - 2026-07-02
 
-10 items collected.
+15 items collected.
 
 ---
 
-## 1. Bitget expands Stock+ platform with US stock options trading
+## 1. JPMorgan says Strategy’s bitcoin sale policy introduced ‘avoidable’ risk into crypto markets
+
+**Author:** Yogita Khatri  
+**Published:** 7/2/2026, 6:52:29 PM  
+**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, The Block, Token Projects, Bitcoin, Strategy  
+
+Strategy introduced "avoidable two-way risk" into crypto markets with its recent bitcoin sale policy, according to JPMorgan analysts.
+
+📖 [Read original article](https://www.theblock.co/post/407071/jpmorgan-strategy-mstr-bitcoin-sale-policy-risk-crypto-markets?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Irish authorities recover another 500 bitcoins from lost Clifton Collins drug stash
+
+**Author:** Kyle Baird  
+**Published:** 7/2/2026, 5:30:59 PM  
+**Categories:** Crypto Ecosystems, Layer 1s, Markets, Policy, Regulation, The Block, Token Projects, Bitcoin  
+
+Onchain data from Arkham Intelligence now shows wallets tagged "Clifton Collins" holding roughly 4,500 BTC.
+
+📖 [Read original article](https://www.theblock.co/post/407062/irish-authorities-recover-another-500-bitcoins-lost-clifton-collins-drug-stash?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Robinhood CEO says future of crypto is in real-world assets, not memecoins
+
+**Author:** RT Watson  
+**Published:** 7/2/2026, 4:05:44 PM  
+**Categories:** Companies, Exchanges, Markets, Public Equities, The Block, Robinhood  
+
+Vlad Tenev spoke to his belief in the merging of TradFi and crypto when asked if digital assets have entered an "enduring" downturn.
+
+📖 [Read original article](https://www.theblock.co/post/407047/robinhood-ceo-says-future-of-crypto-is-in-real-world-assets-not-memecoins?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Humanity Protocol repositions toward enterprise AI after $36 million hack, founder says
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 7/2/2026, 3:46:37 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Security, The Block, Exploits, Hacks  
+
+Humanity Protocol founder Terence Kwok says the project is pivoting to enterprise AI after a $36 million exploit, with fund recovery odds low.
+
+📖 [Read original article](https://www.theblock.co/post/407049/humanity-protocol-repositions-toward-enterprise-ai-after-36-million-hack-founder-says?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Ondo tokenizes BlackRock’s IVV ETF and Micron stock under US custodial model
+
+**Author:** Brian Danga  
+**Published:** 7/2/2026, 1:56:02 PM  
+**Categories:** Companies, Crypto Ecosystems, Finance firms, Markets, Public Equities, The Block, Web3, BlackRock, Tokenization  
+
+Ondo Finance launches tokenized BlackRock IVV ETF and Micron shares under SEC-defined custodial model with Ethereum-based settlement.
+
+📖 [Read original article](https://www.theblock.co/post/407031/ondo-tokenizes-blackrocks-ivv-etf-and-micron-stock-under-us-custodial-model?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. Bitget expands Stock+ platform with US stock options trading
 
 **Author:** Brian Danga  
 **Published:** 7/2/2026, 1:30:00 PM  
@@ -23,7 +83,7 @@ Bitget launched U.S. stock options, adding equity derivatives to its Stock+ plat
 
 ---
 
-## 2. Peter Thiel-backed crypto-friendly Erebor Bank eyes $8 billion valuation as deposits nearly quadruple: Bloomberg
+## 7. Peter Thiel-backed crypto-friendly Erebor Bank eyes $8 billion valuation as deposits nearly quadruple: Bloomberg
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/2/2026, 1:22:49 PM  
@@ -35,7 +95,7 @@ Erebor Bank, backed by Palmer Luckey and Peter Thiel, is in talks to raise fundi
 
 ---
 
-## 3. Anchorage Digital adds Lido support, giving institutions access to wstETH
+## 8. Anchorage Digital adds Lido support, giving institutions access to wstETH
 
 **Author:** RT Watson  
 **Published:** 7/2/2026, 1:00:00 PM  
@@ -47,7 +107,7 @@ Through the integration, institutional clients gain direct access to Lido's wrap
 
 ---
 
-## 4. ‘Accumulation beneath the surface’: Bitcoin rebounds above $61,000 as long-term holders accumulate amid steady ETF outflows
+## 9. ‘Accumulation beneath the surface’: Bitcoin rebounds above $61,000 as long-term holders accumulate amid steady ETF outflows
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/2/2026, 12:58:24 PM  
@@ -59,7 +119,7 @@ Bitcoin reclaims $61,000 as Glassnode and Bitfinex flag long-term holder accumul
 
 ---
 
-## 5. ‘I think we’re nearing the bottom’: Bitwise CIO says Strategy’s STRC selloff is part of bitcoin’s end-of-cycle dynamics
+## 10. ‘I think we’re nearing the bottom’: Bitwise CIO says Strategy’s STRC selloff is part of bitcoin’s end-of-cycle dynamics
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/2/2026, 11:37:25 AM  
@@ -71,7 +131,7 @@ Bitwise CIO Matt Hougan says Strategy's STRC selloff reflects the kind of "end-o
 
 ---
 
-## 6. FBI Director Kash Patel disclosed six-figure Strategy stock purchase months after trade: report
+## 11. FBI Director Kash Patel disclosed six-figure Strategy stock purchase months after trade: report
 
 **Author:** Brian Danga  
 **Published:** 7/2/2026, 10:21:23 AM  
@@ -83,7 +143,7 @@ FBI Director Kash Patel disclosed a six-figure Strategy stock purchase months af
 
 ---
 
-## 7. Metaplanet adds 2,823 bitcoin to holdings in Q2, bringing total to 43,000 BTC
+## 12. Metaplanet adds 2,823 bitcoin to holdings in Q2, bringing total to 43,000 BTC
 
 **Author:** Danny Park  
 **Published:** 7/2/2026, 9:00:34 AM  
@@ -95,7 +155,7 @@ Metaplanet spent $222 million on the bitcoin purchase during the second quarter,
 
 ---
 
-## 8. Avalanche Treasury stock plunges 73% since debut as company’s AVAX holdings lose value
+## 13. Avalanche Treasury stock plunges 73% since debut as company’s AVAX holdings lose value
 
 **Author:** Timmy Shen  
 **Published:** 7/2/2026, 6:28:42 AM  
@@ -107,7 +167,7 @@ At the end of the first quarter, the company's management raised 'substantial do
 
 ---
 
-## 9. Kalshi and Polymarket’s combined volume surges 75% to $45 billion in June amid World Cup fever
+## 14. Kalshi and Polymarket’s combined volume surges 75% to $45 billion in June amid World Cup fever
 
 **Author:** Danny Park  
 **Published:** 7/2/2026, 3:33:21 AM  
@@ -119,7 +179,7 @@ Among the three, Kalshi saw the largest month-over-month increase in volume, gro
 
 ---
 
-## 10. Ark Invest scoops up $18 million in Circle shares as stock dips 41% over past month
+## 15. Ark Invest scoops up $18 million in Circle shares as stock dips 41% over past month
 
 **Author:** Danny Park  
 **Published:** 7/2/2026, 2:20:24 AM  
