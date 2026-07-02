@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-29"
 date: "2026-06-29"
 source: "Decrypt"
-count: 10
+count: 8
 ---
 
 # Decrypt - 2026-06-29
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ The digital asset firm cut its odds of the market structure bill passing this ye
 Ripple outlined how the XRP Ledger Lending Protocol would provide institutions with a novel way to structure loans directly on-chain.
 
 📖 [Read original article](https://decrypt.co/372314/xrp-ledger-missing-layer-draws-closer-lending-credit-features-ripple)
-
----
-
-## 9. California Strikes Deal With Anthropic to Bring Claude AI to State Agencies
-
-**Author:** Decrypt Agent  
-**Published:** 6/29/2026, 4:54:09 PM  
-**Categories:** Artificial Intelligence  
-
-Anthropic’s agreement makes Claude the first AI tool available to all state agencies and local governments, at half price.
-
-📖 [Read original article](https://decrypt.co/372301/california-strikes-deal-anthropic-bring-claude-ai-state-agencies)
-
----
-
-## 10. What Is Strategy (MSTR)? The Bitcoin Treasury Company
-
-**Author:** Logan Hitchcock  
-**Published:** 6/29/2026, 3:54:02 PM  
-**Categories:** , The Landscape  
-
-Software firm Strategy (formerly MicroStrategy) and its co-founder Michael Saylor have become synonymous with Bitcoin. Here’s what you need to know.
-
-📖 [Read original article](https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company)
 
 ---
