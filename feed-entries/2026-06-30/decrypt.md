@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-30"
 date: "2026-06-30"
 source: "Decrypt"
-count: 13
+count: 12
 ---
 
 # Decrypt - 2026-06-30
 
-13 items collected.
+12 items collected.
 
 ---
 
@@ -152,17 +152,5 @@ Michael Saylor's Strategy is rolling out some major changes to how it handles Bi
 The UK regulator has published its final rulebook for crypto firms ahead of a mandatory regime coming into force in late 2027.
 
 📖 [Read original article](https://decrypt.co/372394/fca-finalizes-landmark-crypto-rules-to-make-uk-a-global-hub)
-
----
-
-## 13. '47 Ronin' Director Gets 30 Months for Spending Netflix's $11M on Dogecoin
-
-**Author:** Decrypt Agent  
-**Published:** 6/30/2026, 9:20:00 AM  
-**Categories:** dogecoin, Law and Order  
-
-Carl Rinsch gambled Netflix's $11 million on stock options and Dogecoin, then spent the winnings on luxury cars and watches.
-
-📖 [Read original article](https://decrypt.co/372391/47-ronin-director-gets-30-months-for-spending-netflixs-11m-on-dogecoin)
 
 ---
