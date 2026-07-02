@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-29"
 date: "2026-06-29"
 source: "Decrypt"
-count: 8
+count: 7
 ---
 
 # Decrypt - 2026-06-29
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -92,17 +92,5 @@ BTC kissed $58,800 and bounced. The daily chart is deep in bear territory, and p
 The digital asset firm cut its odds of the market structure bill passing this year to a coin toss, pointing to a shrinking Senate calendar.
 
 📖 [Read original article](https://decrypt.co/372316/galaxy-slashes-clarity-acts-2026-odds-to-50-as-senate-time-runs-short)
-
----
-
-## 8. XRP Ledger's 'Missing Layer' Draws Closer as Developers Test Lending, Credit Features: Ripple
-
-**Author:** André Beganski  
-**Published:** 6/29/2026, 5:45:46 PM  
-**Categories:** , Coins  
-
-Ripple outlined how the XRP Ledger Lending Protocol would provide institutions with a novel way to structure loans directly on-chain.
-
-📖 [Read original article](https://decrypt.co/372314/xrp-ledger-missing-layer-draws-closer-lending-credit-features-ripple)
 
 ---
