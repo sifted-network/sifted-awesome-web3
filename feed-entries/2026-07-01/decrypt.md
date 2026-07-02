@@ -2,16 +2,52 @@
 title: "Decrypt - 2026-07-01"
 date: "2026-07-01"
 source: "Decrypt"
-count: 11
+count: 14
 ---
 
 # Decrypt - 2026-07-01
 
-11 items collected.
+14 items collected.
 
 ---
 
-## 1. UN's First AI Safety Panel Says Scientists Can't Rule Out 'Catastrophic Harm'
+## 1. Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading
+
+**Author:** Logan Hitchcock  
+**Published:** 7/1/2026, 8:56:38 PM  
+**Categories:** , Business  
+
+Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.
+
+📖 [Read original article](https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading)
+
+---
+
+## 2. Venice AI Valued at $1 Billion as Erik Voorhees Makes the Case for Private ChatGPT Rivals
+
+**Author:** Jason Nelson  
+**Published:** 7/1/2026, 8:38:40 PM  
+**Categories:** Artificial Intelligence  
+
+Venice reached a $1 billion valuation as founder Erik Voorhees argued AI companies should protect users' conversations.
+
+📖 [Read original article](https://decrypt.co/372613/venice-ai-valued-1-billion-erik-voorhees-makes-case-private-chatgpt)
+
+---
+
+## 3. LongCat-2.0: The Stealth AI Model That Was Quietly Topping OpenRouter All Along
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/1/2026, 8:18:55 PM  
+**Categories:** Artificial Intelligence  
+
+The 1.6 trillion-parameter mixture-of-experts model spent two months disguised as "Owl Alpha" before Meituan claimed it—and it undercuts GPT-5.5 and Claude Sonnet 5 on price by a wide margin.
+
+📖 [Read original article](https://decrypt.co/372579/longcat-2-0-meituan-ai-stealth-model-openrouter)
+
+---
+
+## 4. UN's First AI Safety Panel Says Scientists Can't Rule Out 'Catastrophic Harm'
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/1/2026, 7:05:50 PM  
@@ -23,7 +59,7 @@ A 40-scientist panel found that AI capabilities are outrunning both scientific u
 
 ---
 
-## 2. Trump-Backed American Bitcoin Hits New Low Price Ahead of Reverse Stock Split
+## 5. Trump-Backed American Bitcoin Hits New Low Price Ahead of Reverse Stock Split
 
 **Author:** Decrypt Agent  
 **Published:** 7/1/2026, 6:53:15 PM  
@@ -35,7 +71,7 @@ Bitcoin mining firm American Bitcoin fell to a new low price Wednesday, one day 
 
 ---
 
-## 3. BitMine, Sharplink and Joe Lubin Accelerate Wall Street Ethereum Push With Nonprofit Launch
+## 6. BitMine, Sharplink and Joe Lubin Accelerate Wall Street Ethereum Push With Nonprofit Launch
 
 **Author:** Sander Lutz  
 **Published:** 7/1/2026, 6:40:40 PM  
@@ -47,7 +83,7 @@ Ethereum Institutional will serve as a point of contact for financial institutio
 
 ---
 
-## 4. CRCL Sell-Off 'Looks Overdone' Say Analysts as Circle CEO Addresses Open USD Threat
+## 7. CRCL Sell-Off 'Looks Overdone' Say Analysts as Circle CEO Addresses Open USD Threat
 
 **Author:** Logan Hitchcock  
 **Published:** 7/1/2026, 5:42:09 PM  
@@ -59,7 +95,7 @@ Analysts don't think the threat of a new stablecoin launch was enough to warrant
 
 ---
 
-## 5. Bitcoin Pops Off 21-Month Low to $60K as Soft Data Eases Rate-Hike Fears
+## 8. Bitcoin Pops Off 21-Month Low to $60K as Soft Data Eases Rate-Hike Fears
 
 **Author:** Decrypt Agent  
 **Published:** 7/1/2026, 4:40:31 PM  
@@ -71,7 +107,7 @@ BTC recovered from local lows to $60,000 after softer U.S. jobs and factory data
 
 ---
 
-## 6. Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending
+## 9. Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending
 
 **Author:** André Beganski  
 **Published:** 7/1/2026, 4:36:39 PM  
@@ -83,7 +119,7 @@ Securitize President Brett Redfearn argues that tokenization will bring crypto's
 
 ---
 
-## 7. Anthropic Bringing Claude Fable 5 Back Online as US Lifts Export Controls
+## 10. Anthropic Bringing Claude Fable 5 Back Online as US Lifts Export Controls
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/1/2026, 4:24:07 PM  
@@ -95,7 +131,7 @@ The Trump administration reversed its shutdown order after weeks of talks, with 
 
 ---
 
-## 8. Forward Industries Shares Spike as Leading Solana Treasury Adds $38 Million in SOL
+## 11. Forward Industries Shares Spike as Leading Solana Treasury Adds $38 Million in SOL
 
 **Author:** Logan Hitchcock  
 **Published:** 7/1/2026, 3:09:05 PM  
@@ -107,7 +143,7 @@ Shares in top Solana treasury firm Forward Industries are jumping Wedesday after
 
 ---
 
-## 9. Morning Minute: Major New Stablecoin Launch Shakes Incumbents
+## 12. Morning Minute: Major New Stablecoin Launch Shakes Incumbents
 
 **Author:** Tyler Warner  
 **Published:** 7/1/2026, 12:31:07 PM  
@@ -119,7 +155,7 @@ Open USD takes a shot at USDC and USDT, with backing from heavy hitters includin
 
 ---
 
-## 10. Taiwan Passes Sweeping Crypto Law With Licensing, Stablecoin Rules
+## 13. Taiwan Passes Sweeping Crypto Law With Licensing, Stablecoin Rules
 
 **Author:** Decrypt Agent  
 **Published:** 7/1/2026, 12:00:33 PM  
@@ -131,7 +167,7 @@ The new law puts virtual asset firms under FSC oversight for the first time and 
 
 ---
 
-## 11. Goliath Ventures CEO Pleads Guilty to $250M Crypto Ponzi Scheme
+## 14. Goliath Ventures CEO Pleads Guilty to $250M Crypto Ponzi Scheme
 
 **Author:** Decrypt Agent  
 **Published:** 7/1/2026, 8:43:31 AM  
