@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-29"
 date: "2026-06-29"
 source: "Decrypt"
-count: 7
+count: 4
 ---
 
 # Decrypt - 2026-06-29
 
-7 items collected.
+4 items collected.
 
 ---
 
@@ -56,41 +56,5 @@ Qihoo 360 unveiled a homegrown vulnerability-hunting AI this week—and Z.ai wen
 The court overturned a 91-year precedent, allowing President Trump to fire key federal regulators whenever he wishes for almost any reason.
 
 📖 [Read original article](https://decrypt.co/372342/supreme-court-trump-fire-sec-cftc-commissioners-crucial-moment-crypto)
-
----
-
-## 5. Meta Unveils New Tech That Uses AI to Translate Brain Activity Into Text—Without Surgery
-
-**Author:** Jason Nelson  
-**Published:** 6/29/2026, 6:47:41 PM  
-**Categories:** Artificial Intelligence  
-
-Meta says its latest Brain2Qwerty system translates brain activity into sentences using non-invasive brain recordings, improving the accuracy of AI-powered neural decoding.
-
-📖 [Read original article](https://decrypt.co/372338/meta-brain2qwerty-ai-brain-activity-text)
-
----
-
-## 6. Bitcoin Is in a Fight at $60K—Here's What the Charts Say
-
-**Author:** Jose Antonio Lanz  
-**Published:** 6/29/2026, 6:40:24 PM  
-**Categories:** , Markets  
-
-BTC kissed $58,800 and bounced. The daily chart is deep in bear territory, and prediction markets are betting on further pain before a rebound.
-
-📖 [Read original article](https://decrypt.co/372321/bitcoin-price-fight-60k-what-the-charts-say)
-
----
-
-## 7. Galaxy Slashes Clarity Act's 2026 Odds to 50% as Senate Time Runs Short
-
-**Author:** Decrypt Agent  
-**Published:** 6/29/2026, 5:47:46 PM  
-**Categories:** , , Business  
-
-The digital asset firm cut its odds of the market structure bill passing this year to a coin toss, pointing to a shrinking Senate calendar.
-
-📖 [Read original article](https://decrypt.co/372316/galaxy-slashes-clarity-acts-2026-odds-to-50-as-senate-time-runs-short)
 
 ---
