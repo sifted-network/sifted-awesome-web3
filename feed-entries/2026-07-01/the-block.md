@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-01"
 date: "2026-07-01"
 source: "The Block"
-count: 10
+count: 5
 ---
 
 # The Block - 2026-07-01
 
-10 items collected.
+5 items collected.
 
 ---
 
@@ -68,65 +68,5 @@ Erik Voorhees' crypto-AI startup Venice has raised $65 million in a Series A fun
 Bitmine, Sharplink and Consensys CEO Joseph Lubin are backing another Ethereum-focused non-profit called the Ethereum Institutional.
 
 📖 [Read original article](https://www.theblock.co/post/406920/neutral-counterpart-bitmine-sharplink-joe-lubin-back-ethereum-institutional-non-profit?utm_source=rss&utm_medium=rss)
-
----
-
-## 6. Forward Industries jumps 17% after expanding Solana treasury to 7.55 million SOL
-
-**Author:** Kyle Baird  
-**Published:** 7/1/2026, 3:53:25 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, The Block, Token Projects, Solana  
-
-Forward Industries holds more SOL than the next three largest publicly traded Solana treasury companies combined.
-
-📖 [Read original article](https://www.theblock.co/post/406903/forward-industries-stock-jumps-expanding-solana-treasury-7-55-million-sol?utm_source=rss&utm_medium=rss)
-
----
-
-## 7. Solana-based prediction market app on Phantom wallet launches
-
-**Author:** RT Watson  
-**Published:** 7/1/2026, 3:34:21 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, Infrastructure, Layer 1s, Markets, The Block, Token Projects, Solana, Wallet Makers, Wallets  
-
-“Prediction markets are one of the most powerful applications you can build on a high-performance blockchain,” said Solana Foundation.
-
-📖 [Read original article](https://www.theblock.co/post/406900/solana-based-prediction-market-app-on-phantom-wallet-launches?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. ‘We are bullish on Morpho’: Standard Chartered sees token at $60 by 2030, outperforming bitcoin and ether
-
-**Author:** Brian Danga  
-**Published:** 7/1/2026, 1:25:39 PM  
-**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, The Block, Token Projects, Web3, Analyst Reports, Crypto  
-
-Standard Chartered forecasts Morpho at $60 by 2030, citing vault growth, TradFi adoption and a projected 37x DeFi expansion.
-
-📖 [Read original article](https://www.theblock.co/post/406888/bullish-on-morpho-standard-chartered-sees-token-at-60-by-2030-outperforming-bitcoin-ether?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. Panther Hollow launches multi-strategy merchant bank focused on compliant RWA and yield strategies
-
-**Author:** Daniel Kuhn  
-**Published:** 7/1/2026, 1:18:25 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, The Block, Web3, exclusive, Tokenization  
-
-Panther is a hybrid merchant bank, fund complex, and incubator focused on Ethereum, Canton, Solana, and StarkNet.
-
-📖 [Read original article](https://www.theblock.co/post/406875/panther-hollow-launches-multi-strategy-merchant-bank-focused-on-compliant-rwa-and-yield-strategies?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Bernstein sees 203% upside for Circle even as new stablecoin rival OUSD debuts
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/1/2026, 1:07:57 PM  
-**Categories:** Companies, Crypto Ecosystems, Markets, Stablecoins, The Block, Token Projects, USDC  
-
-Bernstein reaffirms Outperform on Circle with a $190 target after OUSD's launch sent CRCL stock down over 17%.
-
-📖 [Read original article](https://www.theblock.co/post/406877/bernstein-sees-203-upside-for-circle-even-as-new-stablecoin-rival-ousd-debuts?utm_source=rss&utm_medium=rss)
 
 ---
