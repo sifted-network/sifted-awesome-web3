@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-01"
 date: "2026-07-01"
 source: "CoinDesk"
-count: 20
+count: 9
 ---
 
 # CoinDesk - 2026-07-01
 
-20 items collected.
+9 items collected.
 
 ---
 
@@ -116,137 +116,5 @@ In this week's edition of The Protocol Newsletter, we’re diving into the creat
 As Europe's crypto rulebook takes full effect, industry leaders agree regulation is here to stay, but disagree over whether it protects consumers or favors the biggest firms.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/07/01/europe-s-mica-rollout-sparks-debate-over-who-wins-under-new-crypto-rules)
-
----
-
-## 10. Europe is closing the door on offshore crypto, but it’s leaving the riskiest window open
-
-**Author:** Patrick Gruhn  
-**Published:** 7/1/2026, 2:00:00 PM  
-**Categories:** Opinion, Opinion  
-
-MiCA was never meant to address the giant crypto derivatives market. That could pose a serious problem, says Patrick Gruhn, founder and chief executive of Perpetuals.com.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open)
-
----
-
-## 11. French banking giant Crédit Agricole rolls out euro stablecoin, EURXT
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/1/2026, 1:50:24 PM  
-**Categories:** Finance, banks, Stablecoins, News  
-
-EURXT debuted with 20 million tokens in circulation, backed 1:1 by euro reserves at Caceis Bank, and competes with Circle's EURC and SocGen's EURCV.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/01/french-banking-giant-credit-agricole-rolls-out-euro-stablecoin-eurxt)
-
----
-
-## 12. Morpho poised to scale as DeFi infrastructure play, Standard Chartered says
-
-**Author:** Will Canny,AI Boost  
-**Published:** 7/1/2026, 1:46:40 PM  
-**Categories:** Markets, DeFi, Morpho, Standard chartered, News  
-
-The bank initiated coverage of Morpho with a $60 end-2030 price target, saying its DeFi lending and onchain infrastructure businesses are positioned to benefit from tokenization growth.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/01/morpho-poised-to-scale-as-defi-infrastructure-play-standard-chartered-says)
-
----
-
-## 13. Ethereum gets a new nonprofit focused on institutional adoption
-
-**Author:** Margaux Nijkerk  
-**Published:** 7/1/2026, 1:41:44 PM  
-**Categories:** Tech, Ethereum News, News  
-
-The launch comes as the Ethereum Foundation narrows its focus to stewarding the core protocol, with independent organizations like EthLabs emerging to take on ecosystem functions such as research & development.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/01/ethereum-gets-a-new-nonprofit-focused-on-institutional-adoption)
-
----
-
-## 14. Citi slashes 12-month bitcoin, ether targets as ETF flows dry up
-
-**Author:** Will Canny,AI Boost  
-**Published:** 7/1/2026, 1:39:19 PM  
-**Categories:** Markets, Bitcoin News, Ethereum News, ETFs, News  
-
-The bank cut its 12-month bitcoin and ether price targets after scrapping its ETF inflow forecasts, citing stalled U.S. crypto legislation and weak investor demand.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/01/citi-slashes-12-month-bitcoin-ether-targets-as-etf-flows-dry-up)
-
----
-
-## 15. Tokenized Google stock inflated 7,700% in rare DeFi lending exploit
-
-**Author:** Shaurya Malwa  
-**Published:** 7/1/2026, 1:32:20 PM  
-**Categories:** Tech, News  
-
-An attacker inflated the value of a tokenized Google share used as collateral to about 78 times its real price, then borrowed against it, leaving roughly $403,000 in bad debt.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/01/tokenized-google-stock-inflated-7-700-in-rare-defi-lending-exploit)
-
----
-
-## 16. What's next for Bitcoin and stocks? Analysts see a volatile second half
-
-**Author:** Helene Braun  
-**Published:** 7/1/2026, 1:00:00 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-After AI drove equities higher while bitcoin lagged, market watchers expect macro policy and market structure to take center stage.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/06/30/what-s-next-for-bitcoin-and-stocks-analysts-see-a-volatile-second-half)
-
----
-
-## 17. Mysterious Solana project World unveiled as fully onchain prediction market
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/1/2026, 1:00:00 PM  
-**Categories:** Web3, Prediction Markets, Solana News, Exclusive, News  
-
-The platform is now live within the Phantom wallet and at world.xyz, utilizing Chainlink as its primary oracle infrastructure for market data.
-
-📖 [Read original article](https://www.coindesk.com/web3/2026/07/01/mysterious-solana-project-world-unveiled-as-fully-onchain-prediction-market)
-
----
-
-## 18. Bitcoin opens the third quarter in an historical red zone after rare losing first half
-
-**Author:** Shaurya Malwa  
-**Published:** 7/1/2026, 12:30:19 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin fell in both the first and second quarters of 2026, only the third time it has opened a year that way. In the two earlier instances, 2018 and 2022, the second half brought no rescue.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/01/bitcoin-opens-the-third-quarter-in-a-dangerous-historical-red-zone-after-rare-losing-first-half)
-
----
-
-## 19. Europe is rewriting its landmark crypto rulebook MiCA as hard July 1 deadline passes
-
-**Author:** Jamie Crawley,AI Boost  
-**Published:** 7/1/2026, 12:29:17 PM  
-**Categories:** Policy, MiCA, Stablecoins, News  
-
-The EU is reviewing whether its landmark crypto regulation MiCA needs updating for a market reshaped by stablecoins and tokenization.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/06/30/europe-is-rewriting-its-landmark-crypto-rulebook-mica-as-hard-july-1-deadline-passes)
-
----
-
-## 20. Ark Invest bought more than $75 million of crypto shares during June bloodbath
-
-**Author:** Jamie Crawley  
-**Published:** 7/1/2026, 11:42:22 AM  
-**Categories:** Markets, Circle, Coinbase, Bullish, News  
-
-Ark Invest has a tendency to "buy the dip," loading up on shares in cryptocurrency companies when their prices are depressed.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/01/ark-invest-bought-more-than-usd75-million-of-crypto-shares-during-june-bloodbath)
 
 ---
