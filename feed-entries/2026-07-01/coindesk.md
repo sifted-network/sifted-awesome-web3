@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-01"
 date: "2026-07-01"
 source: "CoinDesk"
-count: 25
+count: 20
 ---
 
 # CoinDesk - 2026-07-01
 
-25 items collected.
+20 items collected.
 
 ---
 
@@ -248,65 +248,5 @@ The EU is reviewing whether its landmark crypto regulation MiCA needs updating f
 Ark Invest has a tendency to "buy the dip," loading up on shares in cryptocurrency companies when their prices are depressed.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/01/ark-invest-bought-more-than-usd75-million-of-crypto-shares-during-june-bloodbath)
-
----
-
-## 21. XRP, HYPE funds are the bright spots as investors flee bitcoin, ether ETFs
-
-**Author:** Omkar Godbole  
-**Published:** 7/1/2026, 11:15:00 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for July 1, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/01/xrp-hype-funds-are-the-bright-spots-as-investors-flee-bitcoin-ether-etfs)
-
----
-
-## 22. Bitcoin options traders load up on $50,000 puts and gold futures flash a death cross
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 7/1/2026, 10:47:34 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin options flows and a record gold OI suggest traders are bracing for further downside rather than a sustained recovery.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/01/bitcoin-options-traders-load-up-on-usd50-000-puts-and-gold-futures-flash-a-death-cross)
-
----
-
-## 23. Aave logs biggest network-growth day in nearly 5 years as DeFi interest returns
-
-**Author:** Shaurya Malwa  
-**Published:** 7/1/2026, 10:20:54 AM  
-**Categories:** Markets, Aave, Crypto Lending, DeFi, News  
-
-The lending protocol added 1,806 new wallets in a single day, the most since October 2021, according to Santiment. The AAVE token has risen about 20% in a week even as the broader market slides.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/01/aave-logs-biggest-network-growth-day-in-nearly-5-years-as-defi-interest-returns)
-
----
-
-## 24. Bitcoin’s 20% June crash looks even deadlier on the charts. Here’s why
-
-**Author:** Omkar Godbole  
-**Published:** 7/1/2026, 7:42:49 AM  
-**Categories:** Markets, Bitcoin News, Technical Analysis, News  
-
-Bitcoin dropped by 20% in June, but the monthly chart reveals something far more concerning.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/01/bitcoin-s-20-june-crash-looks-even-deadlier-on-the-charts-here-s-why)
-
----
-
-## 25. Live markets: bitcoin bounces to $60,000 after Warsh comments, economic data
-
-**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Krisztian Sandor,Helene Braun  
-**Published:** 7/1/2026, 7:05:11 AM  
-**Categories:** Tech, Live News, live_news  
-
-Record ETF outflows in June beat the previous worst month by 29% and came on nine consecutive days of redemptions to close the period.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/01/live-markets-u-s-spot-bitcoin-etfs-had-their-worst-month-ever-in-june-shedding-usd4-5-billion)
 
 ---
