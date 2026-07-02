@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-01"
 date: "2026-07-01"
 source: "The Block"
-count: 19
+count: 17
 ---
 
 # The Block - 2026-07-01
 
-19 items collected.
+17 items collected.
 
 ---
 
@@ -212,29 +212,5 @@ Almost 1,700 investors are suing Binance and founder Changpeng Zhao in a London 
 The suspect allegedly inflated a token's price on overseas platforms before dumping their holdings on a domestic exchange.
 
 📖 [Read original article](https://www.theblock.co/post/406834/south-korea-prosecute-crypto-whale?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. Shanghai court sentences five to prison over $29 million crypto forex scheme
-
-**Author:** Timmy Shen  
-**Published:** 7/1/2026, 7:48:06 AM  
-**Categories:** Policy, Regulation, The Block, Asian Regulation  
-
-In July 2024, Chinese authorities discovered unusual transactions tied to a company that facilitated illegal overseas transfers via crypto.
-
-📖 [Read original article](https://www.theblock.co/post/406827/china-sentences-five-prison-crypto-foreign-exchange?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. Taiwan passes key crypto law, clearing legal uncertainty for digital asset sector
-
-**Author:** Timmy Shen  
-**Published:** 7/1/2026, 4:25:45 AM  
-**Categories:** Crypto Ecosystems, International Policymaking, Policy, Regulation, The Block, Web3, Asia, Asian Parliaments, Asian Regulation  
-
-The law requires crypto platforms to obtain licenses from the Financial Supervisory Commission before operating.
-
-📖 [Read original article](https://www.theblock.co/post/406816/taiwan-passes-crypto-law?utm_source=rss&utm_medium=rss)
 
 ---
