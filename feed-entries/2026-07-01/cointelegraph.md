@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-01"
 date: "2026-07-01"
 source: "Cointelegraph"
-count: 23
+count: 22
 ---
 
 # Cointelegraph - 2026-07-01
 
-23 items collected.
+22 items collected.
 
 ---
 
@@ -59,19 +59,7 @@ Bitcoin found its footing after bulls took steps to reclaim the $60,000 level, b
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Cointelegraph  
-**Published:** 7/1/2026, 8:12:04 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Democrat backed by Ripple co-founder’s PAC wins Colorado primary
+## 5. Democrat backed by Ripple co-founder’s PAC wins Colorado primary
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/1/2026, 7:30:08 PM  
@@ -83,7 +71,7 @@ Colorado’s Democratic and Republican primaries finished on Tuesday, with at le
 
 ---
 
-## 7. Bitcoin bear market ‘dead’ after first TD9 reversal signal since July 2022 fires
+## 6. Bitcoin bear market ‘dead’ after first TD9 reversal signal since July 2022 fires
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/1/2026, 6:59:27 PM  
@@ -95,7 +83,7 @@ Bitcoin bear-market bottom signs appear as the TD9 indicator mirrors the final s
 
 ---
 
-## 8. Crypto ATM bans, restrictions now in effect in Tennessee and Georgia
+## 7. Crypto ATM bans, restrictions now in effect in Tennessee and Georgia
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/1/2026, 5:06:32 PM  
@@ -107,7 +95,7 @@ Crypto ATMs are fast disappearing in the US as Tennessee’s ban goes into effec
 
 ---
 
-## 9. Anchorage Digital brings off-exchange settlement to Binance
+## 8. Anchorage Digital brings off-exchange settlement to Binance
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/1/2026, 4:55:48 PM  
@@ -119,7 +107,7 @@ The integration addresses one of the biggest obstacles keeping institutional cap
 
 ---
 
-## 10. Bitcoin price returns to $60K as US dollar strength rejects weekly high
+## 9. Bitcoin price returns to $60K as US dollar strength rejects weekly high
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/1/2026, 4:47:01 PM  
@@ -131,7 +119,7 @@ Bitcoin started July with a bang, rallying above $60,000 as traders predict a re
 
 ---
 
-## 11. Ethereum backers launch nonprofit to lead institutional adoption efforts
+## 10. Ethereum backers launch nonprofit to lead institutional adoption efforts
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/1/2026, 4:39:28 PM  
@@ -143,7 +131,7 @@ Backed by Joe Lubin, BitMine and SharpLink, the independent organization will se
 
 ---
 
-## 12. French banking giant Crédit Agricole launches EURXT euro stablecoin
+## 11. French banking giant Crédit Agricole launches EURXT euro stablecoin
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/1/2026, 2:24:19 PM  
@@ -155,7 +143,7 @@ Crédit Agricole’s CACEIS launches a euro-pegged stablecoin on Ethereum with 2
 
 ---
 
-## 13. Bank of Korea governor outlines tokenized bond vision, unified ledger plan
+## 12. Bank of Korea governor outlines tokenized bond vision, unified ledger plan
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/1/2026, 1:36:13 PM  
@@ -167,7 +155,7 @@ The Bank of Korea’s governor praised tokenized government bonds for easing the
 
 ---
 
-## 14. Circle CEO touts USDC's network advantage as OUSD emerges
+## 13. Circle CEO touts USDC's network advantage as OUSD emerges
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/1/2026, 12:38:05 PM  
@@ -179,7 +167,7 @@ Bernstein said OUSD could become the strongest new challenger to the Circle-Teth
 
 ---
 
-## 15. Last-minute MiCA approvals mark end of EU transition period
+## 14. Last-minute MiCA approvals mark end of EU transition period
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/1/2026, 12:17:54 PM  
@@ -191,7 +179,7 @@ A final wave of MiCA approvals expanded Europe's roster of licensed crypto firms
 
 ---
 
-## 16. Crypto enters Q3 with thinner liquidity but less leverage after Q2 reset: Talos
+## 15. Crypto enters Q3 with thinner liquidity but less leverage after Q2 reset: Talos
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/1/2026, 10:59:41 AM  
@@ -203,7 +191,7 @@ Bitcoin and Ether open interest fell sharply after $8.35 billion in long liquida
 
 ---
 
-## 17. Bitcoin ETFs lose record $4.5B in June, eclipsing Strategy's $1.25B raise
+## 16. Bitcoin ETFs lose record $4.5B in June, eclipsing Strategy's $1.25B raise
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/1/2026, 9:22:09 AM  
@@ -215,7 +203,7 @@ US spot Bitcoin ETFs logged a record $4.5 billion in June outflows, pushing year
 
 ---
 
-## 18. Former Goliath Ventures CEO pleads guilty in $400M crypto Ponzi case
+## 17. Former Goliath Ventures CEO pleads guilty in $400M crypto Ponzi case
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/1/2026, 8:20:49 AM  
@@ -227,7 +215,7 @@ Former Goliath Ventures CEO Christopher Delgado pleaded guilty to fraud and mone
 
 ---
 
-## 19. Taiwan’s legislature passes crypto, stablecoin regulations
+## 18. Taiwan’s legislature passes crypto, stablecoin regulations
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/1/2026, 6:15:48 AM  
@@ -239,7 +227,7 @@ Taiwan’s legislative branch has passed the nation’s first crypto and stablec
 
 ---
 
-## 20. Anthropic to bring back Fable 5 as US lifts export controls
+## 19. Anthropic to bring back Fable 5 as US lifts export controls
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/1/2026, 6:14:32 AM  
@@ -251,7 +239,7 @@ Claude Fable 5 will be redeployed with a new set of classifiers designed to iden
 
 ---
 
-## 21. Trump earned more from crypto than real estate in 2025, filings show
+## 20. Trump earned more from crypto than real estate in 2025, filings show
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/1/2026, 4:01:09 AM  
@@ -263,7 +251,7 @@ Memecoin sales and royalties made the most money for Trump last year, more than 
 
 ---
 
-## 22. Director of ‘47 Ronin’ who gambled Netflix funds on crypto gets 30 months
+## 21. Director of ‘47 Ronin’ who gambled Netflix funds on crypto gets 30 months
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/1/2026, 3:47:30 AM  
@@ -275,7 +263,7 @@ Carl Rinsch will serve two and a half years in prison for taking money meant for
 
 ---
 
-## 23. UK crypto investors sue Binance, Changpeng Zhao for $200M
+## 22. UK crypto investors sue Binance, Changpeng Zhao for $200M
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/1/2026, 2:30:07 AM  
