@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-01"
 date: "2026-07-01"
 source: "The Block"
-count: 20
+count: 19
 ---
 
 # The Block - 2026-07-01
 
-20 items collected.
+19 items collected.
 
 ---
 
@@ -236,17 +236,5 @@ In July 2024, Chinese authorities discovered unusual transactions tied to a comp
 The law requires crypto platforms to obtain licenses from the Financial Supervisory Commission before operating.
 
 📖 [Read original article](https://www.theblock.co/post/406816/taiwan-passes-crypto-law?utm_source=rss&utm_medium=rss)
-
----
-
-## 20. Spot bitcoin ETFs record worst month since debut, shedding $4.5 billion in June
-
-**Author:** Danny Park  
-**Published:** 7/1/2026, 3:56:52 AM  
-**Categories:** Crypto Ecosystems, Funds, Layer 1s, Markets, The Block, Token Projects, Bitcoin, Bitcoin ETF  
-
-Analysts cited capital rotation amid macroeconomic uncertainty and SpaceX's historic IPO as the main drivers of the significant outflows.
-
-📖 [Read original article](https://www.theblock.co/post/406802/bitcoin-etf-worst-month-yet?utm_source=rss&utm_medium=rss)
 
 ---
