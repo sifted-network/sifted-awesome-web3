@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-02"
 date: "2026-07-02"
 source: "Cointelegraph"
-count: 23
+count: 16
 ---
 
 # Cointelegraph - 2026-07-02
 
-23 items collected.
+16 items collected.
 
 ---
 
@@ -200,89 +200,5 @@ Yield-bearing stablecoin supply fell 15% in Q2 as sUSDe and sUSDS contracted, wh
 OFAC added 134 crypto wallet addresses linked to ISIS-K to its sanctions list, including 131 Tron addresses that received more than $1.4 million in crypto donations, according to Chainalysis.
 
 📖 [Read original article](https://cointelegraph.com/news/ofac-134-isis-k-crypto-wallets-tether-freezes-131?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Taiko reopens bridge after $1.7M exploit, says users made whole
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/2/2026, 9:28:21 AM  
-**Categories:** Latest News  
-
-Taiko restored bridge transfers after replenishing asset backing and completing security fixes following an 11-day network disruption.
-
-📖 [Read original article](https://cointelegraph.com/news/taiko-reopens-bridge-1-7m-exploit-users-made-whole?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Metaplanet buys 2,823 BTC, surpasses 43,000 in Bitcoin holdings
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/2/2026, 8:55:47 AM  
-**Categories:** Latest News  
-
-Metaplanet bought 2,823 Bitcoin during the second quarter, reducing its average acquisition cost to $106,500 per BTC, and reported $10.9 million in revenue from its income generation strategy.
-
-📖 [Read original article](https://cointelegraph.com/news/metaplanet-buys-2823-btc-surpasses-43000-bitcoin-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. OpenAI weighs 5% stake for US government amid Trump talks: FT
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/2/2026, 8:26:02 AM  
-**Categories:** Latest News  
-
-OpenAI has reportedly discussed giving the US government a 5% equity stake in early Trump administration talks as Washington tightens AI model oversight.
-
-📖 [Read original article](https://cointelegraph.com/news/openai-5-percent-stake-us-government-trump-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Robinhood links with dYdX Labs to launch new DEX Arcus
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 7/2/2026, 6:05:02 AM  
-**Categories:** Latest News  
-
-The crypto protocol dYdX has rebranded as Arcus and is joining Robinhood’s new blockchain to bring perpetual and tokenized stock trading.
-
-📖 [Read original article](https://cointelegraph.com/news/robinhood-links-with-dydx-labs-to-launch-new-dex-arcus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. France to strengthen response as crypto wrench attacks hit 77
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 7/2/2026, 5:22:40 AM  
-**Categories:** Latest News  
-
-French Interior Minister Laurent Nuñez promised a “more ambitious” three-part plan to reinforce security measures for the crypto sector.
-
-📖 [Read original article](https://cointelegraph.com/news/french-wrench-attacks-rise-to-77-as-government-promises-more-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Dubai crypto market hits 50 licensed firms after new VARA approval
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/2/2026, 4:00:00 AM  
-**Categories:** Latest News  
-
-Dubai’s VARA has licensed its 50th crypto firm, though only 39 VASPs were fully operational at the end of 2025 as the emirate’s regulated market continues to expand.
-
-📖 [Read original article](https://cointelegraph.com/news/dubai-crypto-market-50-licensed-firms-vara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. Analyst warns BTC could drop further after worst June since 2022
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 7/2/2026, 3:42:24 AM  
-**Categories:** Latest News  
-
-The June close above realized price but below the 200-week moving average “signals the bear bottom is still ahead per prior cycles,” one analyst said.
-
-📖 [Read original article](https://cointelegraph.com/news/renowned-analyst-predicts-btc-drop-to-52k-after-worst-june-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
