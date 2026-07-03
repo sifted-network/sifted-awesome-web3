@@ -2,16 +2,112 @@
 title: "Cointelegraph - 2026-07-02"
 date: "2026-07-02"
 source: "Cointelegraph"
-count: 18
+count: 25
 ---
 
 # Cointelegraph - 2026-07-02
 
-18 items collected.
+25 items collected.
 
 ---
 
-## 1. The biggest blockchain upgrades still to come in 2026
+## 1. Is Bitcoin heading for $65K? Sharplink buys $16M ETH: Market Moves
+
+**Author:** Cointelegraph by Ciaran Lyons  
+**Published:** 7/2/2026, 11:17:47 PM  
+**Categories:** Features  
+
+Analysts are divided on Bitcoin's next move, but there's some hope at last. Meanwhile, SharpLink has resumed buying Ether after an eight-week pause, and other market news.
+
+📖 [Read original article](https://cointelegraph.com/features/is-bitcoin-heading-for-65k-sharplink-buys-16m-eth-market-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Ripple co-founder backs venture launched by US senator's son: Report
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/2/2026, 10:01:25 PM  
+**Categories:** Latest News  
+
+While engaged in negotiations over ethics in a crypto market structure bill in Congress, Senator Kirsten Gillibrand said she had “no involvement” in her son’s derivatives exchange, backed by at least one industry figure.
+
+📖 [Read original article](https://cointelegraph.com/news/ripple-chris-larsen-senator-gillibrand-son-venture-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. IMF says tokenization could transform settlement and financial stability
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/2/2026, 7:17:32 PM  
+**Categories:** Latest News  
+
+The global lender says blockchain-based finance could streamline markets but warns that fragmented standards and regulations may create new systemic risks.
+
+📖 [Read original article](https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Here’s what happened in crypto today
+
+**Author:** Cointelegraph  
+**Published:** 7/2/2026, 7:15:44 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Russia on track for digital ruble rollout on Sept. 1: Central bank governor
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/2/2026, 7:04:55 PM  
+**Categories:** Latest News  
+
+EU authorities already preemptively sanctioned Russia’s digital ruble in 2025 as part of measures in response to the country’s war against Ukraine.
+
+📖 [Read original article](https://cointelegraph.com/news/russia-digital-ruble-rollout-september-central-bank-governor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Bitcoin price taps new July high above $62K on weak US jobs data
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/2/2026, 5:41:26 PM  
+**Categories:** Markets  
+
+Bitcoin took daily gains to nearly 4% on the second day of "green July" as US labor-market signals supported an easing inflation policy from the Federal Reserve.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-returns-to-62k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. FBI director discloses Strategy holdings months after deadline: Report
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/2/2026, 5:04:32 PM  
+**Categories:** Latest News  
+
+Strategy is a registered US government contractor, though Kash Patel claimed that “no current conflict exists” with his $100,001 and $250,000 worth of the company’s stock that he reported late.
+
+📖 [Read original article](https://cointelegraph.com/news/fbi-director-kash-patel-strategy-bitcoin-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Ondo expands tokenized equities with onchain shareholder voting
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/2/2026, 4:25:01 PM  
+**Categories:** Latest News  
+
+Ondo's latest partnership adds shareholder governance to tokenized stocks as competition in blockchain-based equity offerings accelerates.
+
+📖 [Read original article](https://cointelegraph.com/news/ondo-tokenized-stocks-shareholder-voting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. The biggest blockchain upgrades still to come in 2026
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 7/2/2026, 1:30:00 PM  
@@ -23,7 +119,7 @@ From Ethereum’s Glamsterdam to Solana’s Alpenglow, 2026’s most important d
 
 ---
 
-## 2. UK payments blueprint outlines tokenized payments for ‘multi-money ecosystem’
+## 10. UK payments blueprint outlines tokenized payments for ‘multi-money ecosystem’
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/2/2026, 1:04:23 PM  
@@ -35,7 +131,7 @@ UK regulators published an update to a national retail payments blueprint, calli
 
 ---
 
-## 3. Aave brings V3 lending and GHO stablecoin to Monad
+## 11. Aave brings V3 lending and GHO stablecoin to Monad
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/2/2026, 1:00:00 PM  
@@ -47,19 +143,7 @@ Aave launched its V3 lending protocol on Monad with 12 supported assets as the n
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/2/2026, 12:34:45 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Standard Chartered, Circle bring USDC minting onto banking rails
+## 12. Standard Chartered, Circle bring USDC minting onto banking rails
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/2/2026, 11:41:44 AM  
@@ -71,7 +155,7 @@ Standard Chartered and Circle launch bank-led USDC minting and redemption for in
 
 ---
 
-## 6. Solana Foundation launches framework for protocol-level governance
+## 13. Solana Foundation launches framework for protocol-level governance
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/2/2026, 10:59:43 AM  
@@ -83,7 +167,7 @@ The Solana Foundation launched a framework for protocol-level governance, enabli
 
 ---
 
-## 7. SBI Crypto shuts Bitcoin mining pool after 5-year run
+## 14. SBI Crypto shuts Bitcoin mining pool after 5-year run
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/2/2026, 10:37:14 AM  
@@ -95,7 +179,7 @@ SBI Crypto will shut down its Bitcoin mining pool on July 31 after more than fiv
 
 ---
 
-## 8. Yield-bearing stablecoin slowdown ends 3-year run for crypto-native products
+## 15. Yield-bearing stablecoin slowdown ends 3-year run for crypto-native products
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/2/2026, 10:23:33 AM  
@@ -107,7 +191,7 @@ Yield-bearing stablecoin supply fell 15% in Q2 as sUSDe and sUSDS contracted, wh
 
 ---
 
-## 9. OFAC sanctions 134 ISIS-K crypto wallet addresses as Tether freezes funds
+## 16. OFAC sanctions 134 ISIS-K crypto wallet addresses as Tether freezes funds
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/2/2026, 10:23:29 AM  
@@ -119,7 +203,7 @@ OFAC added 134 crypto wallet addresses linked to ISIS-K to its sanctions list, i
 
 ---
 
-## 10. Taiko reopens bridge after $1.7M exploit, says users made whole
+## 17. Taiko reopens bridge after $1.7M exploit, says users made whole
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/2/2026, 9:28:21 AM  
@@ -131,7 +215,7 @@ Taiko restored bridge transfers after replenishing asset backing and completing 
 
 ---
 
-## 11. Metaplanet buys 2,823 BTC, surpasses 43,000 in Bitcoin holdings
+## 18. Metaplanet buys 2,823 BTC, surpasses 43,000 in Bitcoin holdings
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/2/2026, 8:55:47 AM  
@@ -143,7 +227,7 @@ Metaplanet bought 2,823 Bitcoin during the second quarter, reducing its average 
 
 ---
 
-## 12. OpenAI weighs 5% stake for US government amid Trump talks: FT
+## 19. OpenAI weighs 5% stake for US government amid Trump talks: FT
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/2/2026, 8:26:02 AM  
@@ -155,7 +239,7 @@ OpenAI has reportedly discussed giving the US government a 5% equity stake in ea
 
 ---
 
-## 13. Robinhood links with dYdX Labs to launch new DEX Arcus
+## 20. Robinhood links with dYdX Labs to launch new DEX Arcus
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/2/2026, 6:05:02 AM  
@@ -167,7 +251,7 @@ The crypto protocol dYdX has rebranded as Arcus and is joining Robinhood’s new
 
 ---
 
-## 14. France to strengthen response as crypto wrench attacks hit 77
+## 21. France to strengthen response as crypto wrench attacks hit 77
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/2/2026, 5:22:40 AM  
@@ -179,7 +263,7 @@ French Interior Minister Laurent Nuñez promised a “more ambitious” three-pa
 
 ---
 
-## 15. Dubai crypto market hits 50 licensed firms after new VARA approval
+## 22. Dubai crypto market hits 50 licensed firms after new VARA approval
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/2/2026, 4:00:00 AM  
@@ -191,7 +275,7 @@ Dubai’s VARA has licensed its 50th crypto firm, though only 39 VASPs were full
 
 ---
 
-## 16. Analyst warns BTC could drop further after worst June since 2022
+## 23. Analyst warns BTC could drop further after worst June since 2022
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/2/2026, 3:42:24 AM  
@@ -203,7 +287,7 @@ The June close above realized price but below the 200-week moving average “sig
 
 ---
 
-## 17. Venice AI becomes unicorn after $65M Series A as AI privacy concerns grow
+## 24. Venice AI becomes unicorn after $65M Series A as AI privacy concerns grow
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/2/2026, 3:31:39 AM  
@@ -215,7 +299,7 @@ The funding round is Venice AI’s first external capital raise since it launche
 
 ---
 
-## 18. Trumps’ American Bitcoin sinks 8.4% ahead of reverse stock split to stay listed
+## 25. Trumps’ American Bitcoin sinks 8.4% ahead of reverse stock split to stay listed
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/2/2026, 2:38:34 AM  
