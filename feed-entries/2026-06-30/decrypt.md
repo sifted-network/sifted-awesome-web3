@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-30"
 date: "2026-06-30"
 source: "Decrypt"
-count: 9
+count: 8
 ---
 
 # Decrypt - 2026-06-30
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ Ethereum treasury firm Sharplink purchased around $16 million worth of ETH last 
 Prosecutors asked a Rotterdam court to wind up the unlicensed exchange, which has locked some 30,000 customers out of their crypto.
 
 📖 [Read original article](https://decrypt.co/372433/dutch-prosecutors-seek-to-bankrupt-crypto-platform-knaken-after-funds-frozen)
-
----
-
-## 9. TD Cowen Slashes Strategy Price Target, Citing Ongoing Bitcoin Weakness
-
-**Author:** André Beganski  
-**Published:** 6/30/2026, 3:05:41 PM  
-**Categories:** , Markets  
-
-Strategy's stock price started sliding again on Tuesday, one day after breaking a nine-day losing streak.
-
-📖 [Read original article](https://decrypt.co/372422/td-cowen-slashes-strategy-price-target-bitcoin-weakness)
 
 ---
