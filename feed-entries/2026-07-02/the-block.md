@@ -2,16 +2,52 @@
 title: "The Block - 2026-07-02"
 date: "2026-07-02"
 source: "The Block"
-count: 15
+count: 18
 ---
 
 # The Block - 2026-07-02
 
-15 items collected.
+18 items collected.
 
 ---
 
-## 1. JPMorgan says Strategy’s bitcoin sale policy introduced ‘avoidable’ risk into crypto markets
+## 1. Securitize becomes first to debut shares on NYSE and onchain, but it won’t be the last
+
+**Author:** Daniel Kuhn  
+**Published:** 7/2/2026, 8:10:16 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Markets, Policy, Regulation, The Block, Web3, SEC, Security Tokens, Tokenization  
+
+President Brett Redfearn said the firm is in discussions to tokenize other IPOs "definitely ... within the next year.”
+
+📖 [Read original article](https://www.theblock.co/post/407104/securitize-first-debut-shares-nyse-onchain-but-wont-be-last?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. eToro leads $12.5 million round in onchain perps exchange Extended
+
+**Author:** RT Watson  
+**Published:** 7/2/2026, 7:23:16 PM  
+**Categories:** Crypto Ecosystems, Deals, The Block  
+
+"The partnership will focus on expanding access to global financial markets through next-generation on-chain infrastructure," eToro said.
+
+📖 [Read original article](https://www.theblock.co/post/407093/etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. CFTC’s Selig says Illinois lawmakers ‘decided they know better’ on crypto tax
+
+**Author:** Sarah Wynn  
+**Published:** 7/2/2026, 7:12:45 PM  
+**Categories:** Policy, Regulation, The Block, CFTC  
+
+CFTC Chair Michael Selig sharply criticized Illinois' decision to pass a law that puts into place a 0.2% tax on crypto transactions.
+
+📖 [Read original article](https://www.theblock.co/post/407094/cftcs-selig-says-illinois-lawmakers-decided-they-know-better-on-crypto-tax?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. JPMorgan says Strategy’s bitcoin sale policy introduced ‘avoidable’ risk into crypto markets
 
 **Author:** Yogita Khatri  
 **Published:** 7/2/2026, 6:52:29 PM  
@@ -23,7 +59,7 @@ Strategy introduced "avoidable two-way risk" into crypto markets with its recent
 
 ---
 
-## 2. Irish authorities recover another 500 bitcoins from lost Clifton Collins drug stash
+## 5. Irish authorities recover another 500 bitcoins from lost Clifton Collins drug stash
 
 **Author:** Kyle Baird  
 **Published:** 7/2/2026, 5:30:59 PM  
@@ -35,7 +71,7 @@ Onchain data from Arkham Intelligence now shows wallets tagged "Clifton Collins"
 
 ---
 
-## 3. Robinhood CEO says future of crypto is in real-world assets, not memecoins
+## 6. Robinhood CEO says future of crypto is in real-world assets, not memecoins
 
 **Author:** RT Watson  
 **Published:** 7/2/2026, 4:05:44 PM  
@@ -47,7 +83,7 @@ Vlad Tenev spoke to his belief in the merging of TradFi and crypto when asked if
 
 ---
 
-## 4. Humanity Protocol repositions toward enterprise AI after $36 million hack, founder says
+## 7. Humanity Protocol repositions toward enterprise AI after $36 million hack, founder says
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/2/2026, 3:46:37 PM  
@@ -59,7 +95,7 @@ Humanity Protocol founder Terence Kwok says the project is pivoting to enterpris
 
 ---
 
-## 5. Ondo tokenizes BlackRock’s IVV ETF and Micron stock under US custodial model
+## 8. Ondo tokenizes BlackRock’s IVV ETF and Micron stock under US custodial model
 
 **Author:** Brian Danga  
 **Published:** 7/2/2026, 1:56:02 PM  
@@ -71,7 +107,7 @@ Ondo Finance launches tokenized BlackRock IVV ETF and Micron shares under SEC-de
 
 ---
 
-## 6. Bitget expands Stock+ platform with US stock options trading
+## 9. Bitget expands Stock+ platform with US stock options trading
 
 **Author:** Brian Danga  
 **Published:** 7/2/2026, 1:30:00 PM  
@@ -83,7 +119,7 @@ Bitget launched U.S. stock options, adding equity derivatives to its Stock+ plat
 
 ---
 
-## 7. Peter Thiel-backed crypto-friendly Erebor Bank eyes $8 billion valuation as deposits nearly quadruple: Bloomberg
+## 10. Peter Thiel-backed crypto-friendly Erebor Bank eyes $8 billion valuation as deposits nearly quadruple: Bloomberg
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/2/2026, 1:22:49 PM  
@@ -95,7 +131,7 @@ Erebor Bank, backed by Palmer Luckey and Peter Thiel, is in talks to raise fundi
 
 ---
 
-## 8. Anchorage Digital adds Lido support, giving institutions access to wstETH
+## 11. Anchorage Digital adds Lido support, giving institutions access to wstETH
 
 **Author:** RT Watson  
 **Published:** 7/2/2026, 1:00:00 PM  
@@ -107,7 +143,7 @@ Through the integration, institutional clients gain direct access to Lido's wrap
 
 ---
 
-## 9. ‘Accumulation beneath the surface’: Bitcoin rebounds above $61,000 as long-term holders accumulate amid steady ETF outflows
+## 12. ‘Accumulation beneath the surface’: Bitcoin rebounds above $61,000 as long-term holders accumulate amid steady ETF outflows
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/2/2026, 12:58:24 PM  
@@ -119,7 +155,7 @@ Bitcoin reclaims $61,000 as Glassnode and Bitfinex flag long-term holder accumul
 
 ---
 
-## 10. ‘I think we’re nearing the bottom’: Bitwise CIO says Strategy’s STRC selloff is part of bitcoin’s end-of-cycle dynamics
+## 13. ‘I think we’re nearing the bottom’: Bitwise CIO says Strategy’s STRC selloff is part of bitcoin’s end-of-cycle dynamics
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/2/2026, 11:37:25 AM  
@@ -131,7 +167,7 @@ Bitwise CIO Matt Hougan says Strategy's STRC selloff reflects the kind of "end-o
 
 ---
 
-## 11. FBI Director Kash Patel disclosed six-figure Strategy stock purchase months after trade: report
+## 14. FBI Director Kash Patel disclosed six-figure Strategy stock purchase months after trade: report
 
 **Author:** Brian Danga  
 **Published:** 7/2/2026, 10:21:23 AM  
@@ -143,7 +179,7 @@ FBI Director Kash Patel disclosed a six-figure Strategy stock purchase months af
 
 ---
 
-## 12. Metaplanet adds 2,823 bitcoin to holdings in Q2, bringing total to 43,000 BTC
+## 15. Metaplanet adds 2,823 bitcoin to holdings in Q2, bringing total to 43,000 BTC
 
 **Author:** Danny Park  
 **Published:** 7/2/2026, 9:00:34 AM  
@@ -155,7 +191,7 @@ Metaplanet spent $222 million on the bitcoin purchase during the second quarter,
 
 ---
 
-## 13. Avalanche Treasury stock plunges 73% since debut as company’s AVAX holdings lose value
+## 16. Avalanche Treasury stock plunges 73% since debut as company’s AVAX holdings lose value
 
 **Author:** Timmy Shen  
 **Published:** 7/2/2026, 6:28:42 AM  
@@ -167,7 +203,7 @@ At the end of the first quarter, the company's management raised 'substantial do
 
 ---
 
-## 14. Kalshi and Polymarket’s combined volume surges 75% to $45 billion in June amid World Cup fever
+## 17. Kalshi and Polymarket’s combined volume surges 75% to $45 billion in June amid World Cup fever
 
 **Author:** Danny Park  
 **Published:** 7/2/2026, 3:33:21 AM  
@@ -179,7 +215,7 @@ Among the three, Kalshi saw the largest month-over-month increase in volume, gro
 
 ---
 
-## 15. Ark Invest scoops up $18 million in Circle shares as stock dips 41% over past month
+## 18. Ark Invest scoops up $18 million in Circle shares as stock dips 41% over past month
 
 **Author:** Danny Park  
 **Published:** 7/2/2026, 2:20:24 AM  
