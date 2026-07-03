@@ -2,16 +2,88 @@
 title: "CoinDesk - 2026-07-02"
 date: "2026-07-02"
 source: "CoinDesk"
-count: 16
+count: 22
 ---
 
 # CoinDesk - 2026-07-02
 
-16 items collected.
+22 items collected.
 
 ---
 
-## 1. JPMorgan says Strategy's bitcoin sales policy adds 'two-way risk' to crypto markets
+## 1. Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut
+
+**Author:** Krisztian Sandor  
+**Published:** 7/2/2026, 7:00:03 PM  
+**Categories:** Finance, Tokenization, News  
+
+The newly-public company's shares are the largest issuer-sponsored tokenized stock at launch, aiming to make a point against rival third-party stock token issuers.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut)
+
+---
+
+## 2. EToro invests in onchain derivatives platform Extended as brokers race into DeFi
+
+**Author:** Krisztian Sandor  
+**Published:** 7/2/2026, 5:00:00 PM  
+**Categories:** Finance, Derivatives, DeFi, Fundraising, News  
+
+The broker plans to bring perpetual futures into Zengo wallet and expand DeFi products to its core platform as rivals like Robinhood expand onchain offerings.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/02/etoro-invests-in-onchain-derivatives-platform-extended-as-brokers-race-into-defi)
+
+---
+
+## 3. Bitwise says STRC selloff signals crypto cycle nearing a bottom, not Strategy’s breaking point
+
+**Author:** Will Canny,AI Boost  
+**Published:** 7/2/2026, 4:51:36 PM  
+**Categories:** Markets, MicroStrategy, Bitcoin News, Bitwise, News  
+
+Bitwise said STRC's volatility reflects a late-cycle leverage unwind, with institutions poised to replace Strategy as bitcoin's biggest buyer.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/02/bitwise-says-strc-selloff-signals-crypto-cycle-nearing-a-bottom-not-strategy-s-breaking-point)
+
+---
+
+## 4. US Treasury sanctions over 100 ISIS-K crypto addresses that moved over $1.4 million
+
+**Author:** Francisco Rodrigues,AI Boost  
+**Published:** 7/2/2026, 2:49:05 PM  
+**Categories:** Policy, Crypto News, News  
+
+ISIS-K allegedly used its media wing to solicit donations via Tron, Monero, and Bitcoin, highlighting stablecoin issuers' growing role in sanctions enforcement.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/02/us-treasury-sanctions-over-100-isis-k-crypto-addresses-in-latest-enforcement-action)
+
+---
+
+## 5. SBI Crypto to shut down mining pool that holds roughly 2% of Bitcoin's hashrate
+
+**Author:** Francisco Rodrigues  
+**Published:** 7/2/2026, 2:44:55 PM  
+**Categories:** Finance, Bitcoin Mining, News  
+
+Miners must redirect their hashrate before the July 31 cutoff, as the pool will stop accepting contributions after that date.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/02/sbi-crypto-to-shut-down-mining-pool-that-holds-roughly-2-of-bitcoin-s-hashrate)
+
+---
+
+## 6. Ondo Finance debuts SEC-aligned tokenized stock model with BlackRock ETF, Micron shares
+
+**Author:** Krisztian Sandor  
+**Published:** 7/2/2026, 2:16:02 PM  
+**Categories:** Finance, Tokenization, News  
+
+Broadridge and transfer agent Oasis Pro underpin a new structure that keeps tokenized securities within existing U.S. market rules, based on the SEC's third-party custodial model.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/01/ondo-finance-debuts-sec-aligned-tokenized-stock-model-with-blackrock-etf-micron-shares)
+
+---
+
+## 7. JPMorgan says Strategy's bitcoin sales policy adds 'two-way risk' to crypto markets
 
 **Author:** Will Canny  
 **Published:** 7/2/2026, 1:11:22 PM  
@@ -23,7 +95,7 @@ The bank said Strategy's bitcoin sales policy adds avoidable market uncertainty 
 
 ---
 
-## 2. U.S. payroll growth slowed sharply in June, with only 57,000 jobs added
+## 8. U.S. payroll growth slowed sharply in June, with only 57,000 jobs added
 
 **Author:** Stephen Alpher,Helene Braun  
 **Published:** 7/2/2026, 12:37:50 PM  
@@ -35,7 +107,7 @@ This morning's data could slow market expectations for a Fed rate hike as soon a
 
 ---
 
-## 3. A struggling Nasdaq-listed company that tried to copy Saylor's Bitcoin playbook is completely dumping crypto for AI
+## 9. A struggling Nasdaq-listed company that tried to copy Saylor's Bitcoin playbook is completely dumping crypto for AI
 
 **Author:** Shaurya Malwa  
 **Published:** 7/2/2026, 12:10:15 PM  
@@ -47,7 +119,7 @@ The Nasdaq-listed Korean media company once lined up $1 billion in financing to 
 
 ---
 
-## 4. Three years after MiCA became law, Europe's crypto framework is undergoing a rethink
+## 10. Three years after MiCA became law, Europe's crypto framework is undergoing a rethink
 
 **Author:** Ian Allison  
 **Published:** 7/2/2026, 11:55:03 AM  
@@ -59,7 +131,7 @@ Europe’s MiCA regime is now up for review, known colloquially as “MiCA 2.0,�
 
 ---
 
-## 5. Warsh's comments set the stage for U.S. jobs data to ignite bitcoin, gold rally
+## 11. Warsh's comments set the stage for U.S. jobs data to ignite bitcoin, gold rally
 
 **Author:** Omkar Godbole  
 **Published:** 7/2/2026, 11:47:06 AM  
@@ -71,7 +143,7 @@ Your day-ahead look for July 2, 2026
 
 ---
 
-## 6. Smaller tokens lead as bitcoin, sol rally in 'first real bounce of the selloff'
+## 12. Smaller tokens lead as bitcoin, sol rally in 'first real bounce of the selloff'
 
 **Author:** Omkar Godbole  
 **Published:** 7/2/2026, 11:27:36 AM  
@@ -83,7 +155,7 @@ Bitcoin and major cryptocurrencies rebounded on dovish Federal Reserve signals, 
 
 ---
 
-## 7. Bitcoin rises 4% to above $61,000 as inflation fears soften
+## 13. Bitcoin rises 4% to above $61,000 as inflation fears soften
 
 **Author:** Shaurya Malwa  
 **Published:** 7/2/2026, 10:30:42 AM  
@@ -95,7 +167,7 @@ Bitcoin rose after Fed Chair Kevin Warsh said inflation risks had eased. A 7.9% 
 
 ---
 
-## 8. ChatGPT developer OpenAI said to discuss offering U.S. government a 5% stake: FT
+## 14. ChatGPT developer OpenAI said to discuss offering U.S. government a 5% stake: FT
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 7/2/2026, 10:06:22 AM  
@@ -107,9 +179,9 @@ The proposal aims to give the American public a financial stake in AI while easi
 
 ---
 
-## 9. Live markets: bitcoin rises above $61,000 as U.S. jobs data for June disappoints
+## 15. Live updates: Bitcoin holds above $61,000 as momentum stocks plunge to start quarter
 
-**Author:** Omkar Godbole,Shaurya Malwa  
+**Author:** Omkar Godbole,Shaurya Malwa,Helene Braun  
 **Published:** 7/2/2026, 9:42:41 AM  
 **Categories:** Tech, Bitcoin News, Japan, Live News, live_news  
 
@@ -119,7 +191,7 @@ The proposal aims to give the American public a financial stake in AI while easi
 
 ---
 
-## 10. Metaplanet buys another $170 million of bitcoin expanding treasury to 43,000 BTC
+## 16. Metaplanet buys another $170 million of bitcoin expanding treasury to 43,000 BTC
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 7/2/2026, 8:57:20 AM  
@@ -131,7 +203,7 @@ The Japanese firm, now the world's third largest publicly traded bitcoin holder,
 
 ---
 
-## 11. Taiko fully restores cross-chain bridge just 10 days after a $1.7 million hack
+## 17. Taiko fully restores cross-chain bridge just 10 days after a $1.7 million hack
 
 **Author:** Omkar Godbole  
 **Published:** 7/2/2026, 8:35:28 AM  
@@ -143,7 +215,7 @@ The protocol completed a multi-stage recovery that included an independent secur
 
 ---
 
-## 12. Solana launches onchain governance and sets entry fee at 100,000 SOL staked
+## 18. Solana launches onchain governance and sets entry fee at 100,000 SOL staked
 
 **Author:** Shaurya Malwa  
 **Published:** 7/2/2026, 7:15:21 AM  
@@ -155,7 +227,7 @@ Validators and the people who stake with them can now formally signal where the 
 
 ---
 
-## 13. XRP edges higher as whale activity rises while retail traders stay cautious
+## 19. XRP edges higher as whale activity rises while retail traders stay cautious
 
 **Author:** Shaurya Malwa  
 **Published:** 7/2/2026, 6:20:31 AM  
@@ -167,7 +239,7 @@ New wallet creation hit a three-month high and large-holder activity strengthene
 
 ---
 
-## 14. Bitcoin's long-term holders have returned to accumulation
+## 20. Bitcoin's long-term holders have returned to accumulation
 
 **Author:** Omkar Godbole  
 **Published:** 7/2/2026, 6:17:16 AM  
@@ -179,7 +251,7 @@ Long-term holding wallets have shifted to net accumulation from net distribution
 
 ---
 
-## 15. FBI Director Kash Patel caught sleeping on required disclosure of six-figure MSTR investment: Report
+## 21. FBI Director Kash Patel caught sleeping on required disclosure of six-figure MSTR investment: Report
 
 **Author:** Omkar Godbole  
 **Published:** 7/2/2026, 5:24:18 AM  
@@ -191,7 +263,7 @@ Patel loaded up on BTC-holder MSTR shares but failed to file a timely disclosure
 
 ---
 
-## 16. Ether, solana, dogecoin in the green after Warsh comments push bitcoin above $60,000
+## 22. Ether, solana, dogecoin in the green after Warsh comments push bitcoin above $60,000
 
 **Author:** Shaurya Malwa  
 **Published:** 7/2/2026, 5:22:54 AM  
