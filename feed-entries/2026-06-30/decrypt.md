@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-30"
 date: "2026-06-30"
 source: "Decrypt"
-count: 8
+count: 4
 ---
 
 # Decrypt - 2026-06-30
 
-8 items collected.
+4 items collected.
 
 ---
 
@@ -56,53 +56,5 @@ Anthropic's new mid-tier model Claude Sonnet 5 arrives as Fable and Mythos sit b
 The tokenized NYLIM Anemoy U.S. High Yield Corporate Bond Segregated Portfolio is launching in collaboration with Centrifuge.
 
 📖 [Read original article](https://decrypt.co/372457/new-york-life-investment-management-first-tokenized-bond-fund)
-
----
-
-## 5. Kalshi Sports Markets Banned in Michigan as Temporary Blackout Takes Effect
-
-**Author:** Sander Lutz  
-**Published:** 6/30/2026, 8:30:15 PM  
-**Categories:** Law and Order  
-
-A Michigan judge granted a restraining order preventing the prediction market from offering sports-related wagers for the next 14 days.
-
-📖 [Read original article](https://decrypt.co/372454/kalshi-sports-markets-banned-michigan-temporary-blackout)
-
----
-
-## 6. Circle Stock Dives as Coinbase, BlackRock and Visa Back Open USD Stablecoin
-
-**Author:** Decrypt Agent  
-**Published:** 6/30/2026, 5:38:12 PM  
-**Categories:** Coins  
-
-The forthcoming Open USD has more than 100 major supporters onboard, including Coinbase—a key backer of Circle’s USDC.
-
-📖 [Read original article](https://decrypt.co/372429/circle-stock-dives-coinbase-blackrock-visa-open-usd-stablecoin)
-
----
-
-## 7. Sharplink Buys Ethereum for First Time in 2026—With ETH Down 68% From Peak
-
-**Author:** Logan Hitchcock  
-**Published:** 6/30/2026, 3:54:01 PM  
-**Categories:** , Business  
-
-Ethereum treasury firm Sharplink purchased around $16 million worth of ETH last week, marking its first crypto buy since last year.
-
-📖 [Read original article](https://decrypt.co/372432/harplink-buys-ethereum-first-time-2026-eth-down)
-
----
-
-## 8. Dutch Prosecutors Seek to Bankrupt Crypto Platform Knaken After Funds Frozen
-
-**Author:** Decrypt Agent  
-**Published:** 6/30/2026, 3:50:32 PM  
-**Categories:** , , Law and Order  
-
-Prosecutors asked a Rotterdam court to wind up the unlicensed exchange, which has locked some 30,000 customers out of their crypto.
-
-📖 [Read original article](https://decrypt.co/372433/dutch-prosecutors-seek-to-bankrupt-crypto-platform-knaken-after-funds-frozen)
 
 ---
