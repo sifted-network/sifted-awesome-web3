@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-02"
 date: "2026-07-02"
 source: "CoinDesk"
-count: 20
+count: 14
 ---
 
 # CoinDesk - 2026-07-02
 
-20 items collected.
+14 items collected.
 
 ---
 
@@ -176,77 +176,5 @@ Bitcoin rose after Fed Chair Kevin Warsh said inflation risks had eased. A 7.9% 
 The proposal aims to give the American public a financial stake in AI while easing political scrutiny of the industry.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/07/02/openai-reported-to-discuss-offering-u-s-government-a-5-stake)
-
----
-
-## 15. Live updates: Bitcoin holds above $61,000 as momentum stocks plunge to start quarter
-
-**Author:** Omkar Godbole,Shaurya Malwa,Helene Braun  
-**Published:** 7/2/2026, 9:42:41 AM  
-**Categories:** Tech, Bitcoin News, Japan, Live News, live_news  
-
-
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/02/live-markets-bitcoin-holds-above-usd60-000-as-yen-jumps-on-intervention-fears)
-
----
-
-## 16. Metaplanet buys another $170 million of bitcoin expanding treasury to 43,000 BTC
-
-**Author:** James Van Straten,AI Boost  
-**Published:** 7/2/2026, 8:57:20 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-The Japanese firm, now the world's third largest publicly traded bitcoin holder, reported stronger Bitcoin Income Generation revenue.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/02/metaplanet-buys-another-usd170-million-of-bitcoin-expanding-treasury-to-43-000-btc)
-
----
-
-## 17. Taiko fully restores cross-chain bridge just 10 days after a $1.7 million hack
-
-**Author:** Omkar Godbole  
-**Published:** 7/2/2026, 8:35:28 AM  
-**Categories:** Markets, Markets, Hack, News  
-
-The protocol completed a multi-stage recovery that included an independent security review. The TAIKO token has surged as much as 136% in recent trading.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/02/taiko-s-bridge-is-back-online-after-usd1-7-million-hack-and-its-token-is-up-a-staggering-136)
-
----
-
-## 18. Solana launches onchain governance and sets entry fee at 100,000 SOL staked
-
-**Author:** Shaurya Malwa  
-**Published:** 7/2/2026, 7:15:21 AM  
-**Categories:** Markets, Solana News, News  
-
-Validators and the people who stake with them can now formally signal where the network should go through a new system called Solana Governance Proposals. Any validator with 100,000 SOL behind it can open one, and stakers can overrule how their validator votes.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals)
-
----
-
-## 19. XRP edges higher as whale activity rises while retail traders stay cautious
-
-**Author:** Shaurya Malwa  
-**Published:** 7/2/2026, 6:20:31 AM  
-**Categories:** Markets, News  
-
-New wallet creation hit a three-month high and large-holder activity strengthened, but XRP still needs to reclaim $1.10 before the recovery looks convincing.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/02/xrp-edges-higher-as-whale-activity-rises-while-retail-traders-stay-cautious)
-
----
-
-## 20. Bitcoin's long-term holders have returned to accumulation
-
-**Author:** Omkar Godbole  
-**Published:** 7/2/2026, 6:17:16 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Long-term holding wallets have shifted to net accumulation from net distribution, according to Glassnode.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/02/bitcoin-long-term-holders-have-returned-to-accumulation)
 
 ---
