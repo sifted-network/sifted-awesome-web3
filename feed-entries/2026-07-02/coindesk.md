@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-02"
 date: "2026-07-02"
 source: "CoinDesk"
-count: 22
+count: 20
 ---
 
 # CoinDesk - 2026-07-02
 
-22 items collected.
+20 items collected.
 
 ---
 
@@ -248,29 +248,5 @@ New wallet creation hit a three-month high and large-holder activity strengthene
 Long-term holding wallets have shifted to net accumulation from net distribution, according to Glassnode.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/02/bitcoin-long-term-holders-have-returned-to-accumulation)
-
----
-
-## 21. FBI Director Kash Patel caught sleeping on required disclosure of six-figure MSTR investment: Report
-
-**Author:** Omkar Godbole  
-**Published:** 7/2/2026, 5:24:18 AM  
-**Categories:** Policy, MicroStrategy, News  
-
-Patel loaded up on BTC-holder MSTR shares but failed to file a timely disclosure, according to a report by nonpartisan news outlet NOTUS.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/02/fbi-director-kash-patel-caught-sleeping-on-required-disclosure-of-six-figure-mstr-investment)
-
----
-
-## 22. Ether, solana, dogecoin in the green after Warsh comments push bitcoin above $60,000
-
-**Author:** Shaurya Malwa  
-**Published:** 7/2/2026, 5:22:54 AM  
-**Categories:** Markets, News  
-
-Bitcoin climbed back above $60,000 for the first time in over a week after Fed Chair Kevin Warsh said inflation risks had come down. Solana led the majors, up about 16% on the week, while a semiconductor selloff hit Asian markets and dented the AI trade that has pulled capital from crypto all quarte...
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/02/ether-solana-dogecoin-in-the-green-after-warsh-comments-push-bitcoin-above-usd60-000)
 
 ---
