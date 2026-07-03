@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-06-30"
 date: "2026-06-30"
 source: "Decrypt"
-count: 12
+count: 9
 ---
 
 # Decrypt - 2026-06-30
 
-12 items collected.
+9 items collected.
 
 ---
 
@@ -116,41 +116,5 @@ Prosecutors asked a Rotterdam court to wind up the unlicensed exchange, which ha
 Strategy's stock price started sliding again on Tuesday, one day after breaking a nine-day losing streak.
 
 📖 [Read original article](https://decrypt.co/372422/td-cowen-slashes-strategy-price-target-bitcoin-weakness)
-
----
-
-## 10. Crypto Wallet MetaMask Launches Yield-Paying Money Account on Monad
-
-**Author:** Jason Nelson  
-**Published:** 6/30/2026, 2:01:03 PM  
-**Categories:** , DeFi  
-
-MetaMask is packaging stablecoin yield, payments, and trading into a single self-custody account as crypto firms compete to make digital dollars more useful.
-
-📖 [Read original article](https://decrypt.co/372298/crypto-wallet-metamask-yield-paying-money-accounts-monad)
-
----
-
-## 11. Morning Minute: A Change of Strategy
-
-**Author:** Tyler Warner  
-**Published:** 6/30/2026, 12:13:27 PM  
-**Categories:** , Opinion  
-
-Michael Saylor's Strategy is rolling out some major changes to how it handles Bitcoin going forward. And so far, the market likes it.
-
-📖 [Read original article](https://decrypt.co/372411/morning-minute-a-change-of-strategy)
-
----
-
-## 12. FCA Finalizes Landmark Crypto Rules to Make UK a 'Global Hub'
-
-**Author:** Decrypt Agent  
-**Published:** 6/30/2026, 10:58:51 AM  
-**Categories:** , , Business  
-
-The UK regulator has published its final rulebook for crypto firms ahead of a mandatory regime coming into force in late 2027.
-
-📖 [Read original article](https://decrypt.co/372394/fca-finalizes-landmark-crypto-rules-to-make-uk-a-global-hub)
 
 ---
