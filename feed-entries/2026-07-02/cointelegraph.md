@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-02"
 date: "2026-07-02"
 source: "Cointelegraph"
-count: 25
+count: 23
 ---
 
 # Cointelegraph - 2026-07-02
 
-25 items collected.
+23 items collected.
 
 ---
 
@@ -284,29 +284,5 @@ Dubai’s VARA has licensed its 50th crypto firm, though only 39 VASPs were full
 The June close above realized price but below the 200-week moving average “signals the bear bottom is still ahead per prior cycles,” one analyst said.
 
 📖 [Read original article](https://cointelegraph.com/news/renowned-analyst-predicts-btc-drop-to-52k-after-worst-june-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 24. Venice AI becomes unicorn after $65M Series A as AI privacy concerns grow
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/2/2026, 3:31:39 AM  
-**Categories:** Latest News  
-
-The funding round is Venice AI’s first external capital raise since it launched in May 2024.
-
-📖 [Read original article](https://cointelegraph.com/news/venice-ai-becomes-a-unicorn-as-ai-privacy-concerns-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. Trumps’ American Bitcoin sinks 8.4% ahead of reverse stock split to stay listed
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 7/2/2026, 2:38:34 AM  
-**Categories:** Latest News  
-
-The Trump sons' American Bitcoin hit a low on Wednesday ahead of the company’s reverse stock split, which aims to buoy shares and keep it on the Nasdaq.
-
-📖 [Read original article](https://cointelegraph.com/news/trumps-american-bitcoin-sinks-ahead-of-reverse-stock-split-to-stay-listed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
