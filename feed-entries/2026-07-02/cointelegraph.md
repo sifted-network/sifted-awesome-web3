@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-02"
 date: "2026-07-02"
 source: "Cointelegraph"
-count: 16
+count: 9
 ---
 
 # Cointelegraph - 2026-07-02
 
-16 items collected.
+9 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ The global lender says blockchain-based finance could streamline markets but war
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/2/2026, 7:15:44 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Russia on track for digital ruble rollout on Sept. 1: Central bank governor
+## 4. Russia on track for digital ruble rollout on Sept. 1: Central bank governor
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/2/2026, 7:04:55 PM  
@@ -71,7 +59,7 @@ EU authorities already preemptively sanctioned Russia’s digital ruble in 2025 
 
 ---
 
-## 6. Bitcoin price taps new July high above $62K on weak US jobs data
+## 5. Bitcoin price taps new July high above $62K on weak US jobs data
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/2/2026, 5:41:26 PM  
@@ -83,7 +71,7 @@ Bitcoin took daily gains to nearly 4% on the second day of "green July" as US la
 
 ---
 
-## 7. FBI director discloses Strategy holdings months after deadline: Report
+## 6. FBI director discloses Strategy holdings months after deadline: Report
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/2/2026, 5:04:32 PM  
@@ -95,7 +83,7 @@ Strategy is a registered US government contractor, though Kash Patel claimed tha
 
 ---
 
-## 8. Ondo expands tokenized equities with onchain shareholder voting
+## 7. Ondo expands tokenized equities with onchain shareholder voting
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/2/2026, 4:25:01 PM  
@@ -107,7 +95,7 @@ Ondo's latest partnership adds shareholder governance to tokenized stocks as com
 
 ---
 
-## 9. The biggest blockchain upgrades still to come in 2026
+## 8. The biggest blockchain upgrades still to come in 2026
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 7/2/2026, 1:30:00 PM  
@@ -119,7 +107,7 @@ From Ethereum’s Glamsterdam to Solana’s Alpenglow, 2026’s most important d
 
 ---
 
-## 10. UK payments blueprint outlines tokenized payments for ‘multi-money ecosystem’
+## 9. UK payments blueprint outlines tokenized payments for ‘multi-money ecosystem’
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/2/2026, 1:04:23 PM  
@@ -128,77 +116,5 @@ From Ethereum’s Glamsterdam to Solana’s Alpenglow, 2026’s most important d
 UK regulators published an update to a national retail payments blueprint, calling for infrastructure support for tokenization and interoperability with new forms of digital money.
 
 📖 [Read original article](https://cointelegraph.com/news/uk-payment-blueprint-tokenized-payments-multi-money-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Aave brings V3 lending and GHO stablecoin to Monad
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/2/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-Aave launched its V3 lending protocol on Monad with 12 supported assets as the network commits $15 million in first-year incentives to build liquidity and adoption.
-
-📖 [Read original article](https://cointelegraph.com/news/aave-v3-lending-gho-stablecoin-monad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Standard Chartered, Circle bring USDC minting onto banking rails
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/2/2026, 11:41:44 AM  
-**Categories:** Latest News  
-
-Standard Chartered and Circle launch bank-led USDC minting and redemption for institutions, starting in Dubai’s DIFC with planned global expansion.
-
-📖 [Read original article](https://cointelegraph.com/news/standard-chartered-circle-usdc-minting-banking-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Solana Foundation launches framework for protocol-level governance
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/2/2026, 10:59:43 AM  
-**Categories:** Latest News  
-
-The Solana Foundation launched a framework for protocol-level governance, enabling validators with at least 100,000 delegated SOL to publish new proposals.
-
-📖 [Read original article](https://cointelegraph.com/news/solana-foundation-framework-protocol-governance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. SBI Crypto shuts Bitcoin mining pool after 5-year run
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/2/2026, 10:37:14 AM  
-**Categories:** Latest News  
-
-SBI Crypto will shut down its Bitcoin mining pool on July 31 after more than five years, ranking 12th globally with about 2.2% of hashrate share.
-
-📖 [Read original article](https://cointelegraph.com/news/sbi-bitcoin-mining-pool-shutdown-five-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Yield-bearing stablecoin slowdown ends 3-year run for crypto-native products
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/2/2026, 10:23:33 AM  
-**Categories:** Latest News  
-
-Yield-bearing stablecoin supply fell 15% in Q2 as sUSDe and sUSDS contracted, while Treasury-backed products including BUIDL, USYC and USDY continued to grow.
-
-📖 [Read original article](https://cointelegraph.com/news/yield-bearing-stablecoins-lose-3-5-billion-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. OFAC sanctions 134 ISIS-K crypto wallet addresses as Tether freezes funds
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/2/2026, 10:23:29 AM  
-**Categories:** Latest News  
-
-OFAC added 134 crypto wallet addresses linked to ISIS-K to its sanctions list, including 131 Tron addresses that received more than $1.4 million in crypto donations, according to Chainalysis.
-
-📖 [Read original article](https://cointelegraph.com/news/ofac-134-isis-k-crypto-wallets-tether-freezes-131?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
