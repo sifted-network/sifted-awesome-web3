@@ -2,16 +2,88 @@
 title: "Cointelegraph - 2026-07-03"
 date: "2026-07-03"
 source: "Cointelegraph"
-count: 14
+count: 21
 ---
 
 # Cointelegraph - 2026-07-03
 
-14 items collected.
+21 items collected.
 
 ---
 
-## 1. Upbit says it only expressed interest in future OUSD participation
+## 1. Donald Trump says ‘nothing wrong’ with $1.4B crypto windfall while in office
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/3/2026, 4:57:26 PM  
+**Categories:** Latest News  
+
+The US President disclosed earning more than $1 billion from crypto ventures amid discussions of a digital asset market structure bill in Congress and legislation to ban CBDCs awaiting his desk.
+
+📖 [Read original article](https://cointelegraph.com/news/donald-trump-crypto-investments-president-profit-office?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. ESMA warns many prediction market event contracts already face EU retail ban
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/3/2026, 4:54:20 PM  
+**Categories:** Latest News  
+
+The European regulator said companies cannot circumvent EU financial rules by marketing binary-style products as event contracts rather than derivatives.
+
+📖 [Read original article](https://cointelegraph.com/news/esma-warns-many-prediction-market-contracts-may-be-prohibited-eu-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Crypto Biz: Bitcoin maximalism meets the realities of capital markets
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/3/2026, 4:03:41 PM  
+**Categories:** Latest News  
+
+Strategy authorizes Bitcoin sales, Open USD takes on USDT and USDC, Fidelity defends Bitcoin security and crypto ramps up political spending for 2026.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-biz-bitcoin-maximalism-meets-capital-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bitcoin price tags $62.3K nine-day high after global stocks hit historic record
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/3/2026, 3:11:30 PM  
+**Categories:** Markets  
+
+Bitcoin set new highs for July after the Dow Jones and global stocks market cap set new all-time highs before the US Independence Day holiday.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-tags-623k-nine-day-high-after-global-stocks-hit-historic-record?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Here’s what happened in crypto today
+
+**Author:** Cointelegraph  
+**Published:** 7/3/2026, 2:20:46 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. EU crypto rulebook faces enforcement challenge as MiCA transition ends
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 7/3/2026, 1:59:16 PM  
+**Categories:** Latest News  
+
+Lawyers and industry executives expect EU regulators to enforce MiCA differently as unauthorized crypto companies are required to wind down operations.
+
+📖 [Read original article](https://cointelegraph.com/news/eu-crypto-rulebook-enforcement-challenge-mica-transition-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Upbit says it only expressed interest in future OUSD participation
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/3/2026, 1:19:49 PM  
@@ -23,7 +95,19 @@ Upbit said it only expressed interest in potentially joining the OpenStandard ec
 
 ---
 
-## 2. StanChart joins ESMA's first MiCA register update since deadline
+## 8. Belgian police arrest suspected phishing gang leader tied to $572K theft
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 7/3/2026, 12:43:47 PM  
+**Categories:** Latest News  
+
+Belgian authorities say a European phishing gang stole over $572,000 from victims before laundering the proceeds through cryptocurrency.
+
+📖 [Read original article](https://cointelegraph.com/news/belgian-police-arrest-phishing-gang-leader-572k-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. StanChart joins ESMA's first MiCA register update since deadline
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/3/2026, 12:02:41 PM  
@@ -35,7 +119,7 @@ ESMA publishes its first post-deadline MiCA register update, adding 37 crypto-as
 
 ---
 
-## 3. Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues
+## 10. Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/3/2026, 11:34:04 AM  
@@ -47,7 +131,7 @@ Bitcoin supply dynamics pointed toward the end of the 2026 bear market after the
 
 ---
 
-## 4. Zcash’s Ironwood upgrade faces possible delay over infrastructure readiness
+## 11. Zcash’s Ironwood upgrade faces possible delay over infrastructure readiness
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/3/2026, 11:21:30 AM  
@@ -59,7 +143,7 @@ Shielded Labs said exchanges, mining pools and wallets may need more time to com
 
 ---
 
-## 5. Defendant files to dismiss New York lawsuit seeking ownership of 39,069 Bitcoin wallets
+## 12. Defendant files to dismiss New York lawsuit seeking ownership of 39,069 Bitcoin wallets
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/3/2026, 11:10:24 AM  
@@ -71,7 +155,7 @@ A defendant who owns one of the dormant Bitcoin wallets filed to dismiss the New
 
 ---
 
-## 6. India's central bank revives push to isolate banks from crypto: Report
+## 13. India's central bank revives push to isolate banks from crypto: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/3/2026, 9:26:00 AM  
@@ -83,7 +167,7 @@ The Indian central bank reportedly urged lawmakers to keep banks insulated from 
 
 ---
 
-## 7. Irish authorities seize another 500 Bitcoin, bringing 2026 total to 1,500 BTC
+## 14. Irish authorities seize another 500 Bitcoin, bringing 2026 total to 1,500 BTC
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/3/2026, 8:47:45 AM  
@@ -95,7 +179,7 @@ Irish authorities recovered 500 Bitcoin in criminal proceeds, bringing the total
 
 ---
 
-## 8. US spot Bitcoin ETFs top $200M in daily inflows for first time since May
+## 15. US spot Bitcoin ETFs top $200M in daily inflows for first time since May
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/3/2026, 7:56:40 AM  
@@ -107,7 +191,7 @@ US spot Bitcoin ETFs post $221.7 million inflows, the strongest daily intake sin
 
 ---
 
-## 9. Teen ‘Scattered Spider’ suspect extradited to US over $8M crypto ransom
+## 16. Teen ‘Scattered Spider’ suspect extradited to US over $8M crypto ransom
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/3/2026, 6:18:20 AM  
@@ -119,7 +203,7 @@ Peter Stokes, 19, has been charged in the US for allegedly taking part in a hack
 
 ---
 
-## 10. AI agent development hasn’t accelerated as expected, Zuckerberg says
+## 17. AI agent development hasn’t accelerated as expected, Zuckerberg says
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/3/2026, 6:07:10 AM  
@@ -131,7 +215,7 @@ Mark Zuckerberg’s comments came on the same day that Meta expanded its Meta Bu
 
 ---
 
-## 11. US dominates Polymarket political bets despite geoblock: Report
+## 18. US dominates Polymarket political bets despite geoblock: Report
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/3/2026, 3:38:37 AM  
@@ -143,7 +227,7 @@ New data from Allium suggests that US users are bypassing geoblocks to bet on ma
 
 ---
 
-## 12. Strategy will be ‘less important’ in Bitcoin after STRC incident: Bitwise
+## 19. Strategy will be ‘less important’ in Bitcoin after STRC incident: Bitwise
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/3/2026, 3:12:04 AM  
@@ -155,7 +239,7 @@ Bitwise’s Matt Hougan said Strategy's STRC offer of high yields and low volati
 
 ---
 
-## 13. Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche
+## 20. Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/3/2026, 2:35:34 AM  
@@ -167,7 +251,7 @@ Securitize has issued tokenized versions of its shares on Solana and Avalanche, 
 
 ---
 
-## 14. Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom?
+## 21. Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom?
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 7/3/2026, 12:01:01 AM  
