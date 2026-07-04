@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-07-04"
 date: "2026-07-04"
 source: "Cointelegraph"
-count: 4
+count: 6
 ---
 
 # Cointelegraph - 2026-07-04
 
-4 items collected.
+6 items collected.
 
 ---
 
-## 1. Bitcoin profit and loss ratio falls to 43-month low
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph  
+**Published:** 7/4/2026, 12:04:07 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Revolut to delist USDT in August, citing regulatory and risk concerns
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 7/4/2026, 11:25:34 AM  
+**Categories:** Latest News  
+
+Revolut notified some customers it will delist USDT after Aug. 31, with remaining holdings automatically converted into users’ base currency.
+
+📖 [Read original article](https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 7/4/2026, 8:31:02 AM  
+**Categories:** Latest News  
+
+Tim Draper denies moving Bitcoin after blockchain analysts linked him to a wallet that transferred 1,000 BTC to Coinbase Prime.
+
+📖 [Read original article](https://cointelegraph.com/news/tim-draper-denies-moving-bitcoin-250k-btc-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bitcoin profit and loss ratio falls to 43-month low
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/4/2026, 5:05:19 AM  
@@ -23,19 +59,7 @@ Bitwise chief investment officer Matt Hougan said the bottom is “closer than e
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/4/2026, 5:02:44 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. US law enforcement group drops opposition to CLARITY Act: Report
+## 5. US law enforcement group drops opposition to CLARITY Act: Report
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/4/2026, 4:59:17 AM  
@@ -47,7 +71,7 @@ The Major County Sheriffs of America said it still wants the CLARITY Act amended
 
 ---
 
-## 4. Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying
+## 6. Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying
 
 **Author:** Cointelegraph  
 **Published:** 7/4/2026, 3:54:18 AM  
