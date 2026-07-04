@@ -25,7 +25,7 @@ Did Claude Fable 5 get dumber? Two benchmarks, two wildly different conclusionsâ
 
 ## 2. Senator Gillibrand Seeks to Ban Trump, Elected Officials From Launching Meme Coins
 
-**Author:** Andrew Hayward  
+**Author:** Logan Hitchcock  
 **Published:** 7/3/2026, 9:03:33 PM  
 **Categories:** official-trump, , Law and Order  
 
