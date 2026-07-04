@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-07-04"
 date: "2026-07-04"
 source: "Cointelegraph"
-count: 6
+count: 8
 ---
 
 # Cointelegraph - 2026-07-04
 
-6 items collected.
+8 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Kalshi hits record June trading volume as World Cup fuels prediction markets
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/4/2026, 4:47:27 PM  
+**Categories:** Latest News  
+
+DefiLlama data shows Kalshi posted a record month for trading volume as the expanded FIFA World Cup boosted prediction market activity.
+
+📖 [Read original article](https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/4/2026, 1:09:16 PM  
+**Categories:** Markets  
+
+Bitcoin price strength could "break" the entire downtrend if the reversal pattern completed, John Bollinger suggested in light of the BTC rebound.
+
+📖 [Read original article](https://cointelegraph.com/markets/bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/4/2026, 12:04:07 PM  
@@ -23,7 +47,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Revolut to delist USDT in August, citing regulatory and risk concerns
+## 4. Revolut to delist USDT in August, citing regulatory and risk concerns
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/4/2026, 11:25:34 AM  
@@ -35,7 +59,7 @@ Revolut notified some customers it will delist USDT after Aug. 31, with remainin
 
 ---
 
-## 3. Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction
+## 5. Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/4/2026, 8:31:02 AM  
@@ -47,7 +71,7 @@ Tim Draper denies moving Bitcoin after blockchain analysts linked him to a walle
 
 ---
 
-## 4. Bitcoin profit and loss ratio falls to 43-month low
+## 6. Bitcoin profit and loss ratio falls to 43-month low
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/4/2026, 5:05:19 AM  
@@ -59,7 +83,7 @@ Bitwise chief investment officer Matt Hougan said the bottom is “closer than e
 
 ---
 
-## 5. US law enforcement group drops opposition to CLARITY Act: Report
+## 7. US law enforcement group drops opposition to CLARITY Act: Report
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/4/2026, 4:59:17 AM  
@@ -71,7 +95,7 @@ The Major County Sheriffs of America said it still wants the CLARITY Act amended
 
 ---
 
-## 6. Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying
+## 8. Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying
 
 **Author:** Cointelegraph  
 **Published:** 7/4/2026, 3:54:18 AM  
