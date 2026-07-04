@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-03"
 date: "2026-07-03"
 source: "Cointelegraph"
-count: 23
+count: 22
 ---
 
 # Cointelegraph - 2026-07-03
 
-23 items collected.
+22 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ Rising interest in Solana-network memecoins and prediction markets was followed 
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/3/2026, 7:51:18 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. US senator calls for ban on elected officials issuing memecoins
+## 2. US senator calls for ban on elected officials issuing memecoins
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/3/2026, 7:26:21 PM  
@@ -47,7 +35,7 @@ The restriction proposed by Senator Kirsten Gillibrand would bar members of Cong
 
 ---
 
-## 4. Donald Trump says ‘nothing wrong’ with $1.4B crypto windfall while in office
+## 3. Donald Trump says ‘nothing wrong’ with $1.4B crypto windfall while in office
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/3/2026, 4:57:26 PM  
@@ -59,7 +47,7 @@ The US President disclosed earning more than $1 billion from crypto ventures ami
 
 ---
 
-## 5. ESMA warns many prediction market event contracts already face EU retail ban
+## 4. ESMA warns many prediction market event contracts already face EU retail ban
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/3/2026, 4:54:20 PM  
@@ -71,7 +59,7 @@ The European regulator said companies cannot circumvent EU financial rules by ma
 
 ---
 
-## 6. Crypto Biz: Bitcoin maximalism meets the realities of capital markets
+## 5. Crypto Biz: Bitcoin maximalism meets the realities of capital markets
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/3/2026, 4:03:41 PM  
@@ -83,7 +71,7 @@ Strategy authorizes Bitcoin sales, Open USD takes on USDT and USDC, Fidelity def
 
 ---
 
-## 7. Bitcoin price tags $62.3K nine-day high after global stocks hit historic record
+## 6. Bitcoin price tags $62.3K nine-day high after global stocks hit historic record
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/3/2026, 3:11:30 PM  
@@ -95,7 +83,7 @@ Bitcoin set new highs for July after the Dow Jones and global stocks market cap 
 
 ---
 
-## 8. EU crypto rulebook faces enforcement challenge as MiCA transition ends
+## 7. EU crypto rulebook faces enforcement challenge as MiCA transition ends
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/3/2026, 1:59:16 PM  
@@ -107,7 +95,7 @@ Lawyers and industry executives expect EU regulators to enforce MiCA differently
 
 ---
 
-## 9. Upbit says it only expressed interest in future OUSD participation
+## 8. Upbit says it only expressed interest in future OUSD participation
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/3/2026, 1:19:49 PM  
@@ -119,7 +107,7 @@ Upbit said it only expressed interest in potentially joining the OpenStandard ec
 
 ---
 
-## 10. Belgian police arrest suspected phishing gang leader tied to $572K theft
+## 9. Belgian police arrest suspected phishing gang leader tied to $572K theft
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/3/2026, 12:43:47 PM  
@@ -131,7 +119,7 @@ Belgian authorities say a European phishing gang stole over $572,000 from victim
 
 ---
 
-## 11. StanChart joins ESMA's first MiCA register update since deadline
+## 10. StanChart joins ESMA's first MiCA register update since deadline
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/3/2026, 12:02:41 PM  
@@ -143,7 +131,7 @@ ESMA publishes its first post-deadline MiCA register update, adding 37 crypto-as
 
 ---
 
-## 12. Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues
+## 11. Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/3/2026, 11:34:04 AM  
@@ -155,7 +143,7 @@ Bitcoin supply dynamics pointed toward the end of the 2026 bear market after the
 
 ---
 
-## 13. Zcash’s Ironwood upgrade faces possible delay over infrastructure readiness
+## 12. Zcash’s Ironwood upgrade faces possible delay over infrastructure readiness
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/3/2026, 11:21:30 AM  
@@ -167,7 +155,7 @@ Shielded Labs said exchanges, mining pools and wallets may need more time to com
 
 ---
 
-## 14. Defendant files to dismiss New York lawsuit seeking ownership of 39,069 Bitcoin wallets
+## 13. Defendant files to dismiss New York lawsuit seeking ownership of 39,069 Bitcoin wallets
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/3/2026, 11:10:24 AM  
@@ -179,7 +167,7 @@ A defendant who owns one of the dormant Bitcoin wallets filed to dismiss the New
 
 ---
 
-## 15. India's central bank revives push to isolate banks from crypto: Report
+## 14. India's central bank revives push to isolate banks from crypto: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/3/2026, 9:26:00 AM  
@@ -191,7 +179,7 @@ The Indian central bank reportedly urged lawmakers to keep banks insulated from 
 
 ---
 
-## 16. Irish authorities seize another 500 Bitcoin, bringing 2026 total to 1,500 BTC
+## 15. Irish authorities seize another 500 Bitcoin, bringing 2026 total to 1,500 BTC
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/3/2026, 8:47:45 AM  
@@ -203,7 +191,7 @@ Irish authorities recovered 500 Bitcoin in criminal proceeds, bringing the total
 
 ---
 
-## 17. US spot Bitcoin ETFs top $200M in daily inflows for first time since May
+## 16. US spot Bitcoin ETFs top $200M in daily inflows for first time since May
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/3/2026, 7:56:40 AM  
@@ -215,7 +203,7 @@ US spot Bitcoin ETFs post $221.7 million inflows, the strongest daily intake sin
 
 ---
 
-## 18. Teen ‘Scattered Spider’ suspect extradited to US over $8M crypto ransom
+## 17. Teen ‘Scattered Spider’ suspect extradited to US over $8M crypto ransom
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/3/2026, 6:18:20 AM  
@@ -227,7 +215,7 @@ Peter Stokes, 19, has been charged in the US for allegedly taking part in a hack
 
 ---
 
-## 19. AI agent development hasn’t accelerated as expected, Zuckerberg says
+## 18. AI agent development hasn’t accelerated as expected, Zuckerberg says
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/3/2026, 6:07:10 AM  
@@ -239,7 +227,7 @@ Mark Zuckerberg’s comments came on the same day that Meta expanded its Meta Bu
 
 ---
 
-## 20. US dominates Polymarket political bets despite geoblock: Report
+## 19. US dominates Polymarket political bets despite geoblock: Report
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/3/2026, 3:38:37 AM  
@@ -251,7 +239,7 @@ New data from Allium suggests that US users are bypassing geoblocks to bet on ma
 
 ---
 
-## 21. Strategy will be ‘less important’ in Bitcoin after STRC incident: Bitwise
+## 20. Strategy will be ‘less important’ in Bitcoin after STRC incident: Bitwise
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/3/2026, 3:12:04 AM  
@@ -263,7 +251,7 @@ Bitwise’s Matt Hougan said Strategy's STRC offer of high yields and low volati
 
 ---
 
-## 22. Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche
+## 21. Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/3/2026, 2:35:34 AM  
@@ -275,7 +263,7 @@ Securitize has issued tokenized versions of its shares on Solana and Avalanche, 
 
 ---
 
-## 23. Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom?
+## 22. Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom?
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 7/3/2026, 12:01:01 AM  
