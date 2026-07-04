@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-02"
 date: "2026-07-02"
 source: "CoinDesk"
-count: 11
+count: 10
 ---
 
 # CoinDesk - 2026-07-02
 
-11 items collected.
+10 items collected.
 
 ---
 
@@ -128,17 +128,5 @@ The Nasdaq-listed Korean media company once lined up $1 billion in financing to 
 Europe’s MiCA regime is now up for review, known colloquially as “MiCA 2.0,” through a consultation that closes around September.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/07/02/three-years-after-mica-became-law-europe-s-crypto-framework-is-undergoing-a-rethink)
-
----
-
-## 11. Warsh's comments set the stage for U.S. jobs data to ignite bitcoin, gold rally
-
-**Author:** Omkar Godbole  
-**Published:** 7/2/2026, 11:47:06 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for July 2, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/02/warsh-s-comments-set-the-stage-for-u-s-jobs-data-to-ignite-bitcoin-gold-rally)
 
 ---
