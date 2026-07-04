@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-07-03"
 date: "2026-07-03"
 source: "CoinDesk"
-count: 11
+count: 12
 ---
 
 # CoinDesk - 2026-07-03
 
-11 items collected.
+12 items collected.
 
 ---
 
-## 1. Trump says there is ‘nothing wrong’ with family’s crypto windfall
+## 1. This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree
+
+**Author:** Olivier Acuna  
+**Published:** 7/3/2026, 7:18:59 PM  
+**Categories:** Finance, Stablecoins, DeFi, News  
+
+A7A5 claims crypto data providers understate its trading activity, while blockchain analytics firms say the ruble-backed token's volumes have fallen sharply this year.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree)
+
+---
+
+## 2. Trump says there is ‘nothing wrong’ with family’s crypto windfall
 
 **Author:** Shaurya Malwa  
 **Published:** 7/3/2026, 12:04:15 PM  
@@ -23,7 +35,7 @@ The president reported at least $1.4 billion in crypto income for 2025. He told 
 
 ---
 
-## 2. Bitcoin whales bought $16.7 billion of bitcoin in 2 weeks even as ETFs bled a record $4 billion
+## 3. Bitcoin whales bought $16.7 billion of bitcoin in 2 weeks even as ETFs bled a record $4 billion
 
 **Author:** Shaurya Malwa  
 **Published:** 7/3/2026, 11:45:33 AM  
@@ -35,7 +47,7 @@ U.S. institutional demand had its worst month ever in June. Large holders absorb
 
 ---
 
-## 3. Bitcoin, ether traders aren't fully buying the bounce, options markets show
+## 4. Bitcoin, ether traders aren't fully buying the bounce, options markets show
 
 **Author:** Omkar Godbole  
 **Published:** 7/3/2026, 11:27:44 AM  
@@ -47,7 +59,7 @@ Your day-ahead look for July 3, 2026
 
 ---
 
-## 4. Crypto bulls on firmer footing as U.S. rate-hike risk recedes
+## 5. Crypto bulls on firmer footing as U.S. rate-hike risk recedes
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 7/3/2026, 11:11:39 AM  
@@ -59,7 +71,7 @@ Crypto ended the week in a more buoyant state after weak U.S. jobs data reduced 
 
 ---
 
-## 5. Memory and semiconductor stocks lose momentum, bitcoin rebounds in sign of changing investor focus
+## 6. Memory and semiconductor stocks lose momentum, bitcoin rebounds in sign of changing investor focus
 
 **Author:** James Van Straten  
 **Published:** 7/3/2026, 10:41:52 AM  
@@ -71,7 +83,7 @@ After dominating markets in 2026, AI-tied memory and semiconductor stocks are lo
 
 ---
 
-## 6. Tokenization could make finance faster, but also more susceptible to shocks, IMF says
+## 7. Tokenization could make finance faster, but also more susceptible to shocks, IMF says
 
 **Author:** Omkar Godbole  
 **Published:** 7/3/2026, 9:06:29 AM  
@@ -83,9 +95,9 @@ Tokenization could make finance faster and cheaper. It also makes it more vulner
 
 ---
 
-## 7. Live updates: Bitcoin rises above $62,000 as the red hot semiconductor trade starts to fade
+## 8. Live updates: Bitcoin rises above $62,000 as the red hot semiconductor trade starts to fade
 
-**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten  
+**Author:** Shaurya Malwa,Omkar Godbole,Krisztian Sandor,James Van Straten  
 **Published:** 7/3/2026, 7:05:31 AM  
 **Categories:** Tech, Live News, live_news  
 
@@ -95,7 +107,7 @@ Tokenization could make finance faster and cheaper. It also makes it more vulner
 
 ---
 
-## 8. Binance says MiCA should be judged by who it licenses, not who it excludes
+## 9. Binance says MiCA should be judged by who it licenses, not who it excludes
 
 **Author:** Olivier Acuna  
 **Published:** 7/3/2026, 6:30:00 AM  
@@ -107,7 +119,7 @@ Europe head Gillian Lynch said Binance met Greece's licensing requirements and t
 
 ---
 
-## 9. Finally. $221 million flow into Bitcoin ETFs, ending a painful 10-day outflow streak
+## 10. Finally. $221 million flow into Bitcoin ETFs, ending a painful 10-day outflow streak
 
 **Author:** Omkar Godbole  
 **Published:** 7/3/2026, 5:54:51 AM  
@@ -119,7 +131,7 @@ Spot ETFs had their strongest inflow day in two months, driven by funds other th
 
 ---
 
-## 10. XRP bulls test path back toward $1.10 as token zips 4% higher
+## 11. XRP bulls test path back toward $1.10 as token zips 4% higher
 
 **Author:** Shaurya Malwa  
 **Published:** 7/3/2026, 5:29:00 AM  
@@ -131,7 +143,7 @@ Buyers defended a higher low and pushed XRP toward near-term resistance, though 
 
 ---
 
-## 11. Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000
+## 12. Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000
 
 **Author:** Shaurya Malwa  
 **Published:** 7/3/2026, 5:18:58 AM  
