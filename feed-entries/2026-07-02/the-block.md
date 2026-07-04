@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-02"
 date: "2026-07-02"
 source: "The Block"
-count: 11
+count: 10
 ---
 
 # The Block - 2026-07-02
 
-11 items collected.
+10 items collected.
 
 ---
 
@@ -128,17 +128,5 @@ Bitget launched U.S. stock options, adding equity derivatives to its Stock+ plat
 Erebor Bank, backed by Palmer Luckey and Peter Thiel, is in talks to raise funding at a valuation of at least $8 billion, per Bloomberg.
 
 📖 [Read original article](https://www.theblock.co/post/407026/peter-thiel-backed-crypto-friendly-erebor-bank-eyes-8-billion-valuation-as-deposits-nearly-quadruple-bloomberg?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Anchorage Digital adds Lido support, giving institutions access to wstETH
-
-**Author:** RT Watson  
-**Published:** 7/2/2026, 1:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, The Block, Staking, Staking Firms  
-
-Through the integration, institutional clients gain direct access to Lido's wrapped staked ETH token, wstETH, via Anchorage’s platform.
-
-📖 [Read original article](https://www.theblock.co/post/406587/anchorage-digital-adds-lido-support-giving-institutions-access-to-wsteth?utm_source=rss&utm_medium=rss)
 
 ---
