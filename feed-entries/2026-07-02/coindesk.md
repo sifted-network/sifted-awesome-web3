@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-02"
 date: "2026-07-02"
 source: "CoinDesk"
-count: 14
+count: 13
 ---
 
 # CoinDesk - 2026-07-02
 
-14 items collected.
+13 items collected.
 
 ---
 
@@ -164,17 +164,5 @@ Bitcoin and major cryptocurrencies rebounded on dovish Federal Reserve signals, 
 Bitcoin rose after Fed Chair Kevin Warsh said inflation risks had eased. A 7.9% drop in South Korea's Kospi on renewed AI chip worries did little to dent the bid.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/02/bitcoin-zooms-above-usd61-000-as-inflation-fears-soften)
-
----
-
-## 14. ChatGPT developer OpenAI said to discuss offering U.S. government a 5% stake: FT
-
-**Author:** James Van Straten,AI Boost  
-**Published:** 7/2/2026, 10:06:22 AM  
-**Categories:** Policy, Artificial Intelligence, News  
-
-The proposal aims to give the American public a financial stake in AI while easing political scrutiny of the industry.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/02/openai-reported-to-discuss-offering-u-s-government-a-5-stake)
 
 ---
