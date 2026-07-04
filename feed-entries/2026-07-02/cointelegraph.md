@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-02"
 date: "2026-07-02"
 source: "Cointelegraph"
-count: 9
+count: 7
 ---
 
 # Cointelegraph - 2026-07-02
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ Strategy is a registered US government contractor, though Kash Patel claimed tha
 Ondo's latest partnership adds shareholder governance to tokenized stocks as competition in blockchain-based equity offerings accelerates.
 
 📖 [Read original article](https://cointelegraph.com/news/ondo-tokenized-stocks-shareholder-voting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. The biggest blockchain upgrades still to come in 2026
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 7/2/2026, 1:30:00 PM  
-**Categories:** Features  
-
-From Ethereum’s Glamsterdam to Solana’s Alpenglow, 2026’s most important developments are protocol upgrades, not price charts.
-
-📖 [Read original article](https://cointelegraph.com/features/the-biggest-blockchain-upgrades-still-to-come-in-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. UK payments blueprint outlines tokenized payments for ‘multi-money ecosystem’
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/2/2026, 1:04:23 PM  
-**Categories:** Latest News  
-
-UK regulators published an update to a national retail payments blueprint, calling for infrastructure support for tokenization and interoperability with new forms of digital money.
-
-📖 [Read original article](https://cointelegraph.com/news/uk-payment-blueprint-tokenized-payments-multi-money-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
