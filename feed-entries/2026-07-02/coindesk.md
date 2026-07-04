@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-02"
 date: "2026-07-02"
 source: "CoinDesk"
-count: 13
+count: 11
 ---
 
 # CoinDesk - 2026-07-02
 
-13 items collected.
+11 items collected.
 
 ---
 
@@ -140,29 +140,5 @@ Europe’s MiCA regime is now up for review, known colloquially as “MiCA 2.0,�
 Your day-ahead look for July 2, 2026
 
 📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/02/warsh-s-comments-set-the-stage-for-u-s-jobs-data-to-ignite-bitcoin-gold-rally)
-
----
-
-## 12. Smaller tokens lead as bitcoin, sol rally in 'first real bounce of the selloff'
-
-**Author:** Omkar Godbole  
-**Published:** 7/2/2026, 11:27:36 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin and major cryptocurrencies rebounded on dovish Federal Reserve signals, with speculative tokens like Memecore’s M and Audiera’s BEAT leading gains.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/02/smaller-tokens-lead-as-bitcoin-sol-rally-in-first-real-bounce-of-the-selloff)
-
----
-
-## 13. Bitcoin rises 4% to above $61,000 as inflation fears soften
-
-**Author:** Shaurya Malwa  
-**Published:** 7/2/2026, 10:30:42 AM  
-**Categories:** Markets, News  
-
-Bitcoin rose after Fed Chair Kevin Warsh said inflation risks had eased. A 7.9% drop in South Korea's Kospi on renewed AI chip worries did little to dent the bid.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/02/bitcoin-zooms-above-usd61-000-as-inflation-fears-soften)
 
 ---
