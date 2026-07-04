@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-07-03"
 date: "2026-07-03"
 source: "Decrypt"
-count: 6
+count: 8
 ---
 
 # Decrypt - 2026-07-03
 
-6 items collected.
+8 items collected.
 
 ---
 
-## 1. Zcash Ironwood Upgrade Nears as Developers Work to Restore Confidence After ZEC Crash
+## 1. Claude Fable 5 Isn't Nerfed. The Router Is Just Paranoid
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/3/2026, 9:06:03 PM  
+**Categories:** Artificial Intelligence  
+
+Did Claude Fable 5 get dumber? Two benchmarks, two wildly different conclusions—and one routing layer that explains the whole mess.
+
+📖 [Read original article](https://decrypt.co/372750/claude-fable-5-not-nerfed-router-paranoid)
+
+---
+
+## 2. Senator Gillibrand Seeks to Ban Trump, Elected Officials From Launching Meme Coins
+
+**Author:** Andrew Hayward  
+**Published:** 7/3/2026, 9:03:33 PM  
+**Categories:** official-trump, , Law and Order  
+
+After President Trump disclosed over $1 billion in crypto-related earnings, Senator Kirsten Gillibrand is calling for a meme coin ban.
+
+📖 [Read original article](https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins)
+
+---
+
+## 3. Zcash Ironwood Upgrade Nears as Developers Work to Restore Confidence After ZEC Crash
 
 **Author:** Jason Nelson  
 **Published:** 7/3/2026, 5:56:03 PM  
@@ -23,7 +47,7 @@ Developers say security testing has uncovered no new serious bugs as Zcash's Iro
 
 ---
 
-## 2. 'Every Time I Buy It, It Tanks': Dave Portnoy Says He's Losing Millions as Bitcoin Falls
+## 4. 'Every Time I Buy It, It Tanks': Dave Portnoy Says He's Losing Millions as Bitcoin Falls
 
 **Author:** Logan Hitchcock  
 **Published:** 7/3/2026, 5:13:43 PM  
@@ -35,7 +59,7 @@ Barstool Sports founder Dave Portnoy says he's down millions on Bitcoin, but he'
 
 ---
 
-## 3. What Is Q-Day? The Quantum Threat to Bitcoin Explained
+## 5. What Is Q-Day? The Quantum Threat to Bitcoin Explained
 
 **Author:** Jason Nelson  
 **Published:** 7/3/2026, 3:40:16 PM  
@@ -47,7 +71,7 @@ Experts warn quantum computers could someday forge Bitcoin’s digital signature
 
 ---
 
-## 4. American Charged in Israel With Spying for Iran in Exchange for Crypto
+## 6. American Charged in Israel With Spying for Iran in Exchange for Crypto
 
 **Author:** Decrypt Agent  
 **Published:** 7/3/2026, 2:36:39 PM  
@@ -59,7 +83,7 @@ Israeli prosecutors charged a 21-year-old American man with spying for Iran whil
 
 ---
 
-## 5. Farage Reported to UK Standards Watchdog Over Alleged Crypto Lobbying
+## 7. Farage Reported to UK Standards Watchdog Over Alleged Crypto Lobbying
 
 **Author:** Decrypt Agent  
 **Published:** 7/3/2026, 1:06:56 PM  
@@ -71,7 +95,7 @@ A Labour MP says the Reform leader pressed the Bank of England on policy that co
 
 ---
 
-## 6. Bitcoin ETFs Draw In $222M, Snapping 10-Day Losing Streak
+## 8. Bitcoin ETFs Draw In $222M, Snapping 10-Day Losing Streak
 
 **Author:** Decrypt Agent  
 **Published:** 7/3/2026, 11:46:34 AM  
