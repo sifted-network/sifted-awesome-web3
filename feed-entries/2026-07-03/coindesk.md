@@ -119,7 +119,7 @@ Europe head Gillian Lynch said Binance met Greece's licensing requirements and t
 
 ---
 
-## 10. Finally. $221 million flow into Bitcoin ETFs, ending a painful 10-day outflow streak
+## 10. Bitcoin ETFs see $221 million inflow, finally ending a painful 10-day selling streak
 
 **Author:** Omkar Godbole  
 **Published:** 7/3/2026, 5:54:51 AM  
