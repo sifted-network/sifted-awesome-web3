@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-01"
 date: "2026-07-01"
 source: "Decrypt"
-count: 14
+count: 11
 ---
 
 # Decrypt - 2026-07-01
 
-14 items collected.
+11 items collected.
 
 ---
 
@@ -140,41 +140,5 @@ The Trump administration reversed its shutdown order after weeks of talks, with 
 Shares in top Solana treasury firm Forward Industries are jumping Wedesday after announcing that it added over 500,000 SOL to its stash.
 
 📖 [Read original article](https://decrypt.co/372519/forward-industries-shares-spike-solana-treasury-adds-38-million)
-
----
-
-## 12. Morning Minute: Major New Stablecoin Launch Shakes Incumbents
-
-**Author:** Tyler Warner  
-**Published:** 7/1/2026, 12:31:07 PM  
-**Categories:** , , Opinion  
-
-Open USD takes a shot at USDC and USDT, with backing from heavy hitters including Visa, Mastercard and Google.
-
-📖 [Read original article](https://decrypt.co/372513/morning-minute-major-new-stablecoin-launch-shakes-incumbents)
-
----
-
-## 13. Taiwan Passes Sweeping Crypto Law With Licensing, Stablecoin Rules
-
-**Author:** Decrypt Agent  
-**Published:** 7/1/2026, 12:00:33 PM  
-**Categories:** , , Business  
-
-The new law puts virtual asset firms under FSC oversight for the first time and sets reserve-and-trust rules for stablecoins.
-
-📖 [Read original article](https://decrypt.co/372505/taiwan-passes-sweeping-crypto-law-with-licensing-stablecoin-rules)
-
----
-
-## 14. Goliath Ventures CEO Pleads Guilty to $250M Crypto Ponzi Scheme
-
-**Author:** Decrypt Agent  
-**Published:** 7/1/2026, 8:43:31 AM  
-**Categories:** , , Law and Order  
-
-Christopher Delgado’s "liquidity pool" fraud took in at least $400 million, with the proceeds spent on mansions, Lamborghinis, and Rolexes.
-
-📖 [Read original article](https://decrypt.co/372502/goliath-ventures-ceo-pleads-guilty-to-250m-crypto-ponzi-scheme)
 
 ---
