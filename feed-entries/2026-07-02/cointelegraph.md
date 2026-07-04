@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-02"
 date: "2026-07-02"
 source: "Cointelegraph"
-count: 7
+count: 4
 ---
 
 # Cointelegraph - 2026-07-02
 
-7 items collected.
+4 items collected.
 
 ---
 
@@ -56,41 +56,5 @@ The global lender says blockchain-based finance could streamline markets but war
 EU authorities already preemptively sanctioned Russia’s digital ruble in 2025 as part of measures in response to the country’s war against Ukraine.
 
 📖 [Read original article](https://cointelegraph.com/news/russia-digital-ruble-rollout-september-central-bank-governor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Bitcoin price taps new July high above $62K on weak US jobs data
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/2/2026, 5:41:26 PM  
-**Categories:** Markets  
-
-Bitcoin took daily gains to nearly 4% on the second day of "green July" as US labor-market signals supported an easing inflation policy from the Federal Reserve.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-returns-to-62k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. FBI director discloses Strategy holdings months after deadline: Report
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 7/2/2026, 5:04:32 PM  
-**Categories:** Latest News  
-
-Strategy is a registered US government contractor, though Kash Patel claimed that “no current conflict exists” with his $100,001 and $250,000 worth of the company’s stock that he reported late.
-
-📖 [Read original article](https://cointelegraph.com/news/fbi-director-kash-patel-strategy-bitcoin-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Ondo expands tokenized equities with onchain shareholder voting
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 7/2/2026, 4:25:01 PM  
-**Categories:** Latest News  
-
-Ondo's latest partnership adds shareholder governance to tokenized stocks as competition in blockchain-based equity offerings accelerates.
-
-📖 [Read original article](https://cointelegraph.com/news/ondo-tokenized-stocks-shareholder-voting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
