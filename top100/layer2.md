@@ -6,7 +6,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,566 | 2,277 | Rust | 25 | A based rollup protocol for Ethereum🥁  | 2026-07-04 |
+| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,565 | 2,277 | Rust | 25 | A based rollup protocol for Ethereum🥁  | 2026-07-05 |
 | 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,063 | 758 | Rust | 629 | The Stacks blockchain implementation | 2026-07-03 |
 | 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,546 | 331 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
 | 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,025 | 613 | - | 1896 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
@@ -15,7 +15,7 @@
 | 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 614 | 56 | JavaScript | 14 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-07-01 |
 | 8 | [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) | 477 | 139 | C | 7 | Open source MAC Telnet client and server for connecting to Mikrotik RouterOS routers and Posix devices using MAC addresses | 2025-09-21 |
 | 9 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 470 | 51 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2023-12-24 |
-| 10 | [juno](https://github.com/NethermindEth/juno) | 447 | 237 | Go | 37 | Reliable and high performance Starknet full node implementation | 2026-07-03 |
+| 10 | [juno](https://github.com/NethermindEth/juno) | 447 | 237 | Go | 37 | Reliable and high performance Starknet full node implementation | 2026-07-05 |
 | 11 | [db3](https://github.com/dbpunk-labs/db3) | 385 | 44 | Rust | 18 |  a Lightweight, Permanent JSON document database | 2024-07-29 |
 | 12 | [ChainX](https://github.com/chainx-org/ChainX) | 325 | 121 | Rust | 1 | Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM  | 2025-12-18 |
 | 13 | [blockchain-roadmap](https://github.com/itublockchain/blockchain-roadmap) | 283 | 39 | - | 0 | Blockchain öğrenme yolculuğunuz için yol haritası | 2024-10-13 |
@@ -24,10 +24,10 @@
 | 16 | [tutorials](https://github.com/zkSync-Community-Hub/tutorials) | 237 | 62 | TypeScript | 0 | Tutorials submitted by the community to build on zkSync Era | 2025-02-03 |
 | 17 | [contracts](https://github.com/hop-protocol/contracts) | 234 | 85 | TypeScript | 8 | 🐰 Hop Protocol v1 smart contracts | 2025-02-26 |
 | 18 | [zkopru](https://github.com/zkopru-network/zkopru) | 219 | 27 | TypeScript | 68 | Ethereum L2 scaling solution for private transactions using zk-SNARK and optimistic rollup. | 2023-01-24 |
-| 19 | [rooch](https://github.com/rooch-network/rooch) | 188 | 94 | Rust | 217 | VApp Container with Move Language for Bitcoin ecosystem | 2026-07-01 |
+| 19 | [rooch](https://github.com/rooch-network/rooch) | 188 | 94 | Rust | 217 | VApp Container with Move Language for Bitcoin ecosystem | 2026-07-05 |
 | 20 | [EtherGuard-VPN](https://github.com/KusakabeShi/EtherGuard-VPN) | 185 | 18 | Go | 7 | Layer2 version of wireguard with Floyd Warshall implement in go. | 2024-01-12 |
 | 21 | [optimistic-specs](https://github.com/ethereum-optimism/optimistic-specs) | 173 | 40 | Go | 44 | Optimistic: Bedrock, is a protocol that strives to be an extremely simple optimistic rollup that maintains 1:1 compatibility with Ethereum | 2023-08-02 |
-| 22 | [spec](https://github.com/rgb-archive/spec) | 145 | 23 | - | 7 | [OLD!] RGB Protocol specifications for Bitcoin-based digital assets | 2020-01-15 |
+| 22 | [spec](https://github.com/rgb-archive/spec) | 146 | 23 | - | 7 | [OLD!] RGB Protocol specifications for Bitcoin-based digital assets | 2020-01-15 |
 | 23 | [WTF-Cairo](https://github.com/WTFAcademy/WTF-Cairo) | 142 | 48 | Cairo | 0 | 学习Starknet Cairo智能合约。 Learn to write smart contracts on Starknet. Based on Cairo 2.2. | 2024-10-02 |
 | 24 | [typescript-eth-starter](https://github.com/nezz0746/typescript-eth-starter) | 132 | 21 | TypeScript | 0 | 🔌 Ethereum Dapp Basic Typescript Starter | 2024-01-17 |
 | 25 | [xln](https://github.com/xlnfinance/xln) | 103 | 22 | TypeScript | 1 | 0.1 - Q1 2026. DRAFT xln: a credit+collateral netting-account L2 for all EVM and future CBDC jurisdictions—unicast O(1) per hop, link-capped risk, local state, sovereign exits. | 2026-07-03 |
@@ -82,13 +82,13 @@
 | 74 | [Layer2SpriteSheet](https://github.com/rraallvv/Layer2SpriteSheet) | 21 | 5 | JavaScript | 3 | Simple Photoshop script port of the texpack texture packer by Mariano Cuatrin (https://github.com/urraka/texpack) | 2018-08-15 |
 | 75 | [layer2_20-core](https://github.com/layer220/layer2_20-core) | 20 | 4 | - | 0 |  | 2023-12-23 |
 | 76 | [Layer2](https://github.com/kostasgrlondon/Layer2) | 20 | 0 | - | 0 |  | 2024-05-25 |
-| 77 | [SuperScalar](https://github.com/8144225309/SuperScalar) | 20 | 3 | C | 8 | Implementation of SuperScalar — Bitcoin Lightning channel factories that onboard N users in one shared UTXO. No soft fork required. | 2026-07-03 |
+| 77 | [SuperScalar](https://github.com/8144225309/SuperScalar) | 20 | 3 | C | 8 | Implementation of SuperScalar — Bitcoin Lightning channel factories that onboard N users in one shared UTXO. No soft fork required. | 2026-07-05 |
 | 78 | [Layer2_TapTunnel](https://github.com/Azumi67/Layer2_TapTunnel) | 19 | 8 | Python | 0 | A lightweight Layer-2 Tap tunnel based tunnels between two hosts using UDP tunneling. it creates Private IPV4. | 2025-07-31 |
 | 79 | [acorus](https://github.com/eniac-x-labs/acorus) | 19 | 11 | Go | 0 | All layer2 and dapplink layer3 chain l1->l2->l3, l3->l2->l1 and any chain transfer to any chain transactions indexer,  | 2025-11-29 |
 | 80 | [typhon-spec](https://github.com/pandoracore/typhon-spec) | 19 | 1 | - | 4 | Trustless sidechains for Bitcoin network. Lightning ⚡️ brings thunderbolt 🌩 – Typhon 🐉 brings typhoon🌪 | 2019-02-07 |
 | 81 | [alicenet](https://github.com/alicenet/alicenet) | 18 | 16 | Go | 0 | Official repository for the AliceNet layer2 blockchain | 2026-02-14 |
-| 82 | [layer2](https://github.com/mtth/layer2) | 18 | 1 | C++ | 2 |  | 2016-02-07 |
-| 83 | [arbitrum-claim-send](https://github.com/codeesura/arbitrum-claim-send) | 18 | 16 | JavaScript | 0 | This repo is designed to claim Arbitrum (ARB) tokens from a smart contract and send them to a specified recipient address. | 2023-05-22 |
+| 82 | [arbitrum-claim-send](https://github.com/codeesura/arbitrum-claim-send) | 18 | 16 | JavaScript | 0 | This repo is designed to claim Arbitrum (ARB) tokens from a smart contract and send them to a specified recipient address. | 2023-05-22 |
+| 83 | [layer2](https://github.com/mtth/layer2) | 18 | 1 | C++ | 2 |  | 2016-02-07 |
 | 84 | [stellar-turrets](https://github.com/stellar/stellar-turrets) | 18 | 10 | JavaScript | 0 | Reference implementation of the Stellar Turrets protocol | 2024-08-29 |
 | 85 | [js-layer2lib](https://github.com/layer2lib/js-layer2lib) | 18 | 0 | JavaScript | 0 | A javascript library for building state-channel and Plasma applications | 2018-08-26 |
 | 86 | [optimistic-rollup](https://github.com/MitchellTesla/optimistic-rollup) | 18 | 3 | Solidity | 0 | 丰 Solidity smart-contracts for the Celer sidechain on the Ethereum Virtual-Machine  💎  | 2022-01-18 |
