@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-03"
 date: "2026-07-03"
 source: "Cointelegraph"
-count: 22
+count: 20
 ---
 
 # Cointelegraph - 2026-07-03
 
-22 items collected.
+20 items collected.
 
 ---
 
@@ -248,29 +248,5 @@ New data from Allium suggests that US users are bypassing geoblocks to bet on ma
 Bitwise’s Matt Hougan said Strategy's STRC offer of high yields and low volatility was always a questionable fit for buying Bitcoin, as the cryptocurrency offers neither.
 
 📖 [Read original article](https://cointelegraph.com/news/strategy-will-be-less-important-in-bitcoin-after-strc-incident-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 7/3/2026, 2:35:34 AM  
-**Categories:** Latest News  
-
-Securitize has issued tokenized versions of its shares on Solana and Avalanche, marking the first time a newly public company has done so on its debut.
-
-📖 [Read original article](https://cointelegraph.com/news/securitize-gains-on-nyse-debut-with-tokenized-stock-live-on-solana-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom?
-
-**Author:** Cointelegraph by Marcel Pechman  
-**Published:** 7/3/2026, 12:01:01 AM  
-**Categories:** Markets  
-
-Bitcoin bulls may make a run on $70,000 after weak US jobs data eased rate hike fears and capital looks to rotate into BTC and gold.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-holds-61k-after-us-jobs-data-report-ai-sector-weakness-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
