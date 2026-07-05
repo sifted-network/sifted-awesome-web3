@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-07-05"
 date: "2026-07-05"
 source: "Cointelegraph"
-count: 5
+count: 6
 ---
 
 # Cointelegraph - 2026-07-05
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. South Africa proposes crypto tax guidance under existing framework
+## 1. Bitcoin nears $63.5K into weekly close as trader warns of 'terrible' Monday
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/5/2026, 4:06:20 PM  
+**Categories:** Markets  
+
+Bitcoin reached its highest levels in nearly a fortnight over the weekend, but BTC price action faced an "absolutely terrible" Monday track record.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-nears-635k-into-weekly-close-as-trader-warns-of-terrible-monday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. South Africa proposes crypto tax guidance under existing framework
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/5/2026, 11:52:47 AM  
@@ -23,7 +35,7 @@ South Africa’s tax authority proposed draft guidance clarifying how crypto ass
 
 ---
 
-## 2. Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high
+## 3. Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/5/2026, 8:33:39 AM  
@@ -35,7 +47,7 @@ Binance recorded $1.23 billion in weekly net outflows, up 207% from the previous
 
 ---
 
-## 3. Here’s what happened in crypto today
+## 4. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/5/2026, 3:51:24 AM  
@@ -47,7 +59,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 4. Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap
+## 5. Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/5/2026, 3:50:36 AM  
@@ -59,7 +71,7 @@ Part of the Ethereum Foundation’s plan to make Ethereum more private and scala
 
 ---
 
-## 5. Moonbeam to pivot from Polkadot to Base, unveils AI agent framework
+## 6. Moonbeam to pivot from Polkadot to Base, unveils AI agent framework
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/5/2026, 12:50:30 AM  
