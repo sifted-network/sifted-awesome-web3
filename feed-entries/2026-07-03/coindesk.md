@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-03"
 date: "2026-07-03"
 source: "CoinDesk"
-count: 11
+count: 8
 ---
 
 # CoinDesk - 2026-07-03
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ Tokenization could make finance faster and cheaper. It also makes it more vulner
 
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/07/03/live-updates-more-bitcoin-is-now-held-at-a-loss-than-at-a-profit)
-
----
-
-## 9. Binance says MiCA should be judged by who it licenses, not who it excludes
-
-**Author:** Olivier Acuna  
-**Published:** 7/3/2026, 6:30:00 AM  
-**Categories:** Policy, Binance, MiCA, Regulation, News  
-
-Europe head Gillian Lynch said Binance met Greece's licensing requirements and that the company remains committed to the EU, despite withdrawing its MiCA application days before the July 1 deadline.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/03/binance-says-mica-should-be-judged-by-who-it-licenses-not-who-it-excludes)
-
----
-
-## 10. Bitcoin ETFs see $221 million inflow, finally ending a painful 10-day selling streak
-
-**Author:** Omkar Godbole  
-**Published:** 7/3/2026, 5:54:51 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Spot ETFs had their strongest inflow day in two months, driven by funds other than BlackRock’s IBIT.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/03/finally-usd221-million-flow-into-bitcoin-etfs-ending-a-painful-10-day-outflow-streak)
-
----
-
-## 11. XRP bulls test path back toward $1.10 as token zips 4% higher
-
-**Author:** Shaurya Malwa  
-**Published:** 7/3/2026, 5:29:00 AM  
-**Categories:** Markets, News  
-
-Buyers defended a higher low and pushed XRP toward near-term resistance, though the move still needs a clean break above $1.10 to confirm momentum.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/03/xrp-bulls-test-path-back-toward-usd1-10-as-token-zips-4-higher)
 
 ---
