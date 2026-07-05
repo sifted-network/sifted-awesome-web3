@@ -6,7 +6,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) | 474 | 184 | Rust | 165 | A flexible toolkit for building real-time blockchains | 2026-06-27 |
+| 1 | [sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) | 475 | 185 | Rust | 165 | A flexible toolkit for building real-time blockchains | 2026-07-04 |
 | 2 | [zkopru](https://github.com/zkopru-network/zkopru) | 219 | 27 | TypeScript | 68 | Ethereum L2 scaling solution for private transactions using zk-SNARK and optimistic rollup. | 2023-01-24 |
 | 3 | [optimistic-specs](https://github.com/ethereum-optimism/optimistic-specs) | 173 | 40 | Go | 44 | Optimistic: Bedrock, is a protocol that strives to be an extremely simple optimistic rollup that maintains 1:1 compatibility with Ethereum | 2023-08-02 |
 | 4 | [hubble-contracts](https://github.com/thehubbleproject/hubble-contracts) | 137 | 29 | TypeScript | 49 | Hubble optimistic rollup | 2023-02-08 |
@@ -28,9 +28,9 @@
 | 20 | [optimistic-rollup-example-erc721](https://github.com/juincc0/optimistic-rollup-example-erc721) | 10 | 4 | Solidity | 2 | Optimistic Rollup Example: ERC721 | 2021-06-11 |
 | 21 | [zk-optimistic-rollup](https://github.com/wanseob/zk-optimistic-rollup) | 10 | 1 | Solidity | 0 |  | 2023-01-24 |
 | 22 | [layer2-finance-v2-contracts](https://github.com/celer-network/layer2-finance-v2-contracts) | 9 | 9 | Solidity | 0 | Contracts for the Layer 2 Finance DeFi aggregator V2, powered by optimistic rollup. | 2021-10-20 |
-| 23 | [optimistic-rollup-example-erc20](https://github.com/juincc0/optimistic-rollup-example-erc20) | 8 | 4 | Solidity | 0 | Optimistic Rollup Example: ERC20 | 2021-06-07 |
-| 24 | [oru](https://github.com/lightclient/oru) | 8 | 0 | Python | 0 | Optimistic rollup, written in assembly | 2021-08-17 |
-| 25 | [Optimistic-Game-of-Life](https://github.com/makemake-kbo/Optimistic-Game-of-Life) | 8 | 3 | JavaScript | 0 | Conway's game of life on Optimistic Ethereum | 2025-06-23 |
+| 23 | [oru](https://github.com/lightclient/oru) | 8 | 0 | Python | 0 | Optimistic rollup, written in assembly | 2021-08-17 |
+| 24 | [Optimistic-Game-of-Life](https://github.com/makemake-kbo/Optimistic-Game-of-Life) | 8 | 3 | JavaScript | 0 | Conway's game of life on Optimistic Ethereum | 2025-06-23 |
+| 25 | [optimistic-rollup-example-erc20](https://github.com/juincc0/optimistic-rollup-example-erc20) | 7 | 4 | Solidity | 0 | Optimistic Rollup Example: ERC20 | 2021-06-07 |
 | 26 | [godwoken-info](https://github.com/godwokenrises/godwoken-info) | 7 | 11 | JavaScript | 0 | Godwoken Public Network Information | 2024-03-22 |
 | 27 | [optimisticrp](https://github.com/rogercoll/optimisticrp) | 7 | 0 | Go | 1 | Optimistic Rollups (PoC) - Master's final thesis repository | 2021-07-03 |
 | 28 | [ink-node](https://github.com/arcxteam/ink-node) | 6 | 0 | Shell | 0 | A Complete Guide - Run Node Ink L2 Blockchain Built on OP Superchain by Kraken | 2024-12-02 |
