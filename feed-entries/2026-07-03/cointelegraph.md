@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-03"
 date: "2026-07-03"
 source: "Cointelegraph"
-count: 17
+count: 16
 ---
 
 # Cointelegraph - 2026-07-03
 
-17 items collected.
+16 items collected.
 
 ---
 
@@ -200,17 +200,5 @@ Irish authorities recovered 500 Bitcoin in criminal proceeds, bringing the total
 US spot Bitcoin ETFs post $221.7 million inflows, the strongest daily intake since early May, as Bitcoin recovers above $61,000.
 
 📖 [Read original article](https://cointelegraph.com/news/spot-bitcoin-etfs-222-million-daily-inflow-reverse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Teen ‘Scattered Spider’ suspect extradited to US over $8M crypto ransom
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 7/3/2026, 6:18:20 AM  
-**Categories:** Latest News  
-
-Peter Stokes, 19, has been charged in the US for allegedly taking part in a hacking group’s unsuccessful $8 million crypto ransom scheme.
-
-📖 [Read original article](https://cointelegraph.com/news/teen-scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
