@@ -14,7 +14,7 @@ count: 8
 ## 1. Kraken lets traders use tokenized stocks as collateral for leveraged trades
 
 **Author:** Cointelegraph by Nate Kostar  
-**Published:** 7/4/2026, 7:37:11 PM  
+**Published:** 7/4/2026, 7:40:00 PM  
 **Categories:** Latest News  
 
 Eligible users can now use select tokenized stocks and ETFs as collateral for futures and margin trading without selling their holdings.
@@ -23,13 +23,13 @@ Eligible users can now use select tokenized stocks and ETFs as collateral for fu
 
 ---
 
-## 2. Kalshi hits record June trading volume as World Cup fuels prediction markets
+## 2. Kalshi June trading volume tops $9B as World Cup fuels prediction markets
 
 **Author:** Cointelegraph by Nate Kostar  
-**Published:** 7/4/2026, 4:47:27 PM  
+**Published:** 7/4/2026, 4:50:00 PM  
 **Categories:** Latest News  
 
-DefiLlama data shows Kalshi posted a record month for trading volume as the expanded FIFA World Cup boosted prediction market activity.
+Kalshi posted a record month for trading volume as the expanded FIFA World Cup boosted prediction market activity, DefiLlama data shows.
 
 📖 [Read original article](https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
