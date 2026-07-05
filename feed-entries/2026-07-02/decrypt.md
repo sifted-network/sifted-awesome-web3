@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-02"
 date: "2026-07-02"
 source: "Decrypt"
-count: 9
+count: 4
 ---
 
 # Decrypt - 2026-07-02
 
-9 items collected.
+4 items collected.
 
 ---
 
@@ -56,65 +56,5 @@ More than 130 Tron wallets connected with a Central Asian ISIS affiliate were sa
 Researchers say a new jailbreak technique tricked AI models into treating attacker-written text as their own reasoning, bypassing safety guardrails and exposing a deeper security flaw.
 
 📖 [Read original article](https://decrypt.co/372688/ai-researchers-chatbots-share-cocaine-recipes-wild-trick)
-
----
-
-## 5. Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche
-
-**Author:** Logan Hitchcock  
-**Published:** 7/2/2026, 6:43:50 PM  
-**Categories:** , , Markets  
-
-BlackRock-backed tokenization firm Securitize now has shares trading on the New York Stock Exchange—or via Solana and Avalanche.
-
-📖 [Read original article](https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche)
-
----
-
-## 6. Japanese Financial Giant SBI to Shut Down Bitcoin Mining Pool
-
-**Author:** Logan Hitchcock  
-**Published:** 7/2/2026, 6:28:47 PM  
-**Categories:** , , Business  
-
-SBI Crypto, the subsidiary of the Japanese financial giant, is the latest firm to shutter its Bitcoin mining endeavor.
-
-📖 [Read original article](https://decrypt.co/372686/japanese-financial-giant-sbi-shut-down-bitcoin-mining-pool)
-
----
-
-## 7. Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices
-
-**Author:** Andrew Hayward  
-**Published:** 7/2/2026, 5:29:19 PM  
-**Categories:** , , Markets  
-
-Bitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.
-
-📖 [Read original article](https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs)
-
----
-
-## 8. FBI Director Kash Patel's Undisclosed Stock Buy in Bitcoin Giant Strategy Is Down 44%
-
-**Author:** Sander Lutz  
-**Published:** 7/2/2026, 2:50:18 PM  
-**Categories:** , Law and Order  
-
-FBI Director Kash Patel failed to disclose a significant purchase of stock in Bitcoin treasury firm Strategy from last November.
-
-📖 [Read original article](https://decrypt.co/372677/fbi-director-kash-patel-undisclosed-stock-buy-bitcoin-giant-strategy)
-
----
-
-## 9. Standard Chartered Becomes First Global Bank to Offer Direct USDC Access to Institutions
-
-**Author:** Decrypt Agent  
-**Published:** 7/2/2026, 1:58:09 PM  
-**Categories:** Business  
-
-Standard Chartered is the first Global Systemically Important Bank authorized to let institutions mint and redeem Circle's USDC.
-
-📖 [Read original article](https://decrypt.co/372674/standard-chartered-first-global-bank-direct-usdc-access)
 
 ---
