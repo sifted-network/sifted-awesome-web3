@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-03"
 date: "2026-07-03"
 source: "Cointelegraph"
-count: 20
+count: 18
 ---
 
 # Cointelegraph - 2026-07-03
 
-20 items collected.
+18 items collected.
 
 ---
 
@@ -224,29 +224,5 @@ Peter Stokes, 19, has been charged in the US for allegedly taking part in a hack
 Mark Zuckerberg’s comments came on the same day that Meta expanded its Meta Business Agent globally for businesses on Instagram, Messenger and WhatsApp.
 
 📖 [Read original article](https://cointelegraph.com/news/ai-agent-development-hasnt-accelerated-as-expected-says-zuckerberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. US dominates Polymarket political bets despite geoblock: Report
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/3/2026, 3:38:37 AM  
-**Categories:** Latest News  
-
-New data from Allium suggests that US users are bypassing geoblocks to bet on markets offered on Polymarket’s global platform.
-
-📖 [Read original article](https://cointelegraph.com/news/us-dominates-polymarket-political-bets-despite-geoblock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Strategy will be ‘less important’ in Bitcoin after STRC incident: Bitwise
-
-**Author:** Cointelegraph by Brayden Lindrea  
-**Published:** 7/3/2026, 3:12:04 AM  
-**Categories:** Latest News  
-
-Bitwise’s Matt Hougan said Strategy's STRC offer of high yields and low volatility was always a questionable fit for buying Bitcoin, as the cryptocurrency offers neither.
-
-📖 [Read original article](https://cointelegraph.com/news/strategy-will-be-less-important-in-bitcoin-after-strc-incident-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
