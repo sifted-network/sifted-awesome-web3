@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-07-04"
 date: "2026-07-04"
 source: "CoinDesk"
-count: 9
+count: 11
 ---
 
 # CoinDesk - 2026-07-04
 
-9 items collected.
+11 items collected.
 
 ---
 
-## 1. Bitcoin jumps above $63,000, reversing end-June losses
+## 1. Tokenization's next use case is personalized portfolios, NYLIM executive says
+
+**Author:** Krisztian Sandor  
+**Published:** 7/4/2026, 8:00:00 PM  
+**Categories:** Finance, Tokenization, DeFi, Exclusive, News  
+
+Thomas Sy, head of multi-asset solutions at the $800-million asset manager, says blockchain can enable complex portfolio construction that's not yet possible in traditional finance.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says)
+
+---
+
+## 2. Bitcoin jumps above $63,000, reversing end-June losses
 
 **Author:** Shaurya Malwa  
 **Published:** 7/4/2026, 6:07:17 PM  
@@ -23,7 +35,7 @@ The token hit its highest in over a month during thin July 4 trading, with XRP u
 
 ---
 
-## 2. Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows
+## 3. Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows
 
 **Author:** Olivier Acuna  
 **Published:** 7/4/2026, 6:00:00 PM  
@@ -35,7 +47,19 @@ Binance founder Changpeng Zhao said Satoshi Nakamoto's bitcoin should be frozen 
 
 ---
 
-## 3. Why bitcoin's disconnect from record-high stocks won't last
+## 4. How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk
+
+**Author:** Oliver Knight  
+**Published:** 7/4/2026, 6:00:00 PM  
+**Categories:** Tech, Hack, Exclusive, News  
+
+A critical flaw in the Aptos blockchain, which was patched, gave researchers a near-90% success rate at breaking a core security guarantee, with attack costs of just hundreds of dollars.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk)
+
+---
+
+## 5. Why bitcoin's disconnect from record-high stocks won't last
 
 **Author:** Helene Braun  
 **Published:** 7/4/2026, 4:00:00 PM  
@@ -47,7 +71,7 @@ Researchers at Schwab and Hashdex said AI has diverted capital from digital asse
 
 ---
 
-## 4. Trump's crypto token buyers are down $3.8 billion, blockchain data shows
+## 6. Trump's crypto token buyers are down $3.8 billion, blockchain data shows
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 7/4/2026, 3:30:52 PM  
@@ -59,7 +83,7 @@ The TRUMP token is down 96% from its peak, and 85% of secondary market wallets f
 
 ---
 
-## 5. Europe led on crypto regulation. Now implementation must match ambition
+## 7. Europe led on crypto regulation. Now implementation must match ambition
 
 **Author:** Richard Teng  
 **Published:** 7/4/2026, 2:00:00 PM  
@@ -71,7 +95,7 @@ The TRUMP token is down 96% from its peak, and 85% of secondary market wallets f
 
 ---
 
-## 6. EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets
+## 8. EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 7/4/2026, 1:56:27 PM  
@@ -83,7 +107,7 @@ The region's regulators emphasized that a product's actual function as a derivat
 
 ---
 
-## 7. UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout
+## 9. UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 7/4/2026, 12:00:00 PM  
@@ -95,7 +119,7 @@ The U.K. FCA's crypto framework has been praised for prioritizing global liquidi
 
 ---
 
-## 8. XRP climbs 8% as record holder losses signal better risk-reward for buyers
+## 10. XRP climbs 8% as record holder losses signal better risk-reward for buyers
 
 **Author:** Shaurya Malwa  
 **Published:** 7/4/2026, 7:08:00 AM  
@@ -107,7 +131,7 @@ The token's 30-day and 365-day MVRV, a measure of how far holders are underwater
 
 ---
 
-## 9. Bitcoin’s next parabolic run may need $1 trillion in fresh capital
+## 11. Bitcoin’s next parabolic run may need $1 trillion in fresh capital
 
 **Author:** Shaurya Malwa  
 **Published:** 7/4/2026, 6:48:42 AM  
