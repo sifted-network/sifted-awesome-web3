@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-07-04"
 date: "2026-07-04"
 source: "Cointelegraph"
-count: 8
+count: 9
 ---
 
 # Cointelegraph - 2026-07-04
 
-8 items collected.
+9 items collected.
 
 ---
 
-## 1. Kalshi hits record June trading volume as World Cup fuels prediction markets
+## 1. Kraken lets traders use tokenized stocks as collateral for leveraged trades
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/4/2026, 7:37:11 PM  
+**Categories:** Latest News  
+
+Eligible users can now use select tokenized stocks and ETFs as collateral for futures and margin trading without selling their holdings.
+
+📖 [Read original article](https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Kalshi hits record June trading volume as World Cup fuels prediction markets
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/4/2026, 4:47:27 PM  
@@ -23,7 +35,7 @@ DefiLlama data shows Kalshi posted a record month for trading volume as the expa
 
 ---
 
-## 2. Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal
+## 3. Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/4/2026, 1:09:16 PM  
@@ -35,7 +47,7 @@ Bitcoin price strength could "break" the entire downtrend if the reversal patter
 
 ---
 
-## 3. Here’s what happened in crypto today
+## 4. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/4/2026, 12:04:07 PM  
@@ -47,7 +59,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 4. Revolut to delist USDT in August, citing regulatory and risk concerns
+## 5. Revolut to delist USDT in August, citing regulatory and risk concerns
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/4/2026, 11:25:34 AM  
@@ -59,7 +71,7 @@ Revolut notified some customers it will delist USDT after Aug. 31, with remainin
 
 ---
 
-## 5. Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction
+## 6. Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/4/2026, 8:31:02 AM  
@@ -71,7 +83,7 @@ Tim Draper denies moving Bitcoin after blockchain analysts linked him to a walle
 
 ---
 
-## 6. Bitcoin profit and loss ratio falls to 43-month low
+## 7. Bitcoin profit and loss ratio falls to 43-month low
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/4/2026, 5:05:19 AM  
@@ -83,7 +95,7 @@ Bitwise chief investment officer Matt Hougan said the bottom is “closer than e
 
 ---
 
-## 7. US law enforcement group drops opposition to CLARITY Act: Report
+## 8. US law enforcement group drops opposition to CLARITY Act: Report
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/4/2026, 4:59:17 AM  
@@ -95,7 +107,7 @@ The Major County Sheriffs of America said it still wants the CLARITY Act amended
 
 ---
 
-## 8. Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying
+## 9. Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying
 
 **Author:** Cointelegraph  
 **Published:** 7/4/2026, 3:54:18 AM  
