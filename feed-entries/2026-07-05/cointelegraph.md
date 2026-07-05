@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-07-05"
 date: "2026-07-05"
 source: "Cointelegraph"
-count: 4
+count: 5
 ---
 
 # Cointelegraph - 2026-07-05
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high
+## 1. South Africa proposes crypto tax guidance under existing framework
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 7/5/2026, 11:52:47 AM  
+**Categories:** Latest News  
+
+South Africa’s tax authority proposed draft guidance clarifying how crypto assets are taxed under existing income and capital gains tax rules, seeking public input until Aug. 31.
+
+📖 [Read original article](https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/5/2026, 8:33:39 AM  
@@ -23,7 +35,7 @@ Binance recorded $1.23 billion in weekly net outflows, up 207% from the previous
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 3. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/5/2026, 3:51:24 AM  
@@ -35,7 +47,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap
+## 4. Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/5/2026, 3:50:36 AM  
@@ -47,7 +59,7 @@ Part of the Ethereum Foundation’s plan to make Ethereum more private and scala
 
 ---
 
-## 4. Moonbeam to pivot from Polkadot to Base, unveils AI agent framework
+## 5. Moonbeam to pivot from Polkadot to Base, unveils AI agent framework
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/5/2026, 12:50:30 AM  
