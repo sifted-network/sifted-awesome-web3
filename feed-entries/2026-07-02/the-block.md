@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-02"
 date: "2026-07-02"
 source: "The Block"
-count: 10
+count: 8
 ---
 
 # The Block - 2026-07-02
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Humanity Protocol founder Terence Kwok says the project is pivoting to enterpris
 Ondo Finance launches tokenized BlackRock IVV ETF and Micron shares under SEC-defined custodial model with Ethereum-based settlement.
 
 📖 [Read original article](https://www.theblock.co/post/407031/ondo-tokenizes-blackrocks-ivv-etf-and-micron-stock-under-us-custodial-model?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. Bitget expands Stock+ platform with US stock options trading
-
-**Author:** Brian Danga  
-**Published:** 7/2/2026, 1:30:00 PM  
-**Categories:** Companies, Markets, The Block  
-
-Bitget launched U.S. stock options, adding equity derivatives to its Stock+ platform alongside crypto and tokenized stocks.
-
-📖 [Read original article](https://www.theblock.co/post/407017/bitget-expands-stock-platform-with-us-stock-options-trading?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Peter Thiel-backed crypto-friendly Erebor Bank eyes $8 billion valuation as deposits nearly quadruple: Bloomberg
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/2/2026, 1:22:49 PM  
-**Categories:** Companies, Deals, Lobbying, Policy, The Block, Fundraising  
-
-Erebor Bank, backed by Palmer Luckey and Peter Thiel, is in talks to raise funding at a valuation of at least $8 billion, per Bloomberg.
-
-📖 [Read original article](https://www.theblock.co/post/407026/peter-thiel-backed-crypto-friendly-erebor-bank-eyes-8-billion-valuation-as-deposits-nearly-quadruple-bloomberg?utm_source=rss&utm_medium=rss)
 
 ---
