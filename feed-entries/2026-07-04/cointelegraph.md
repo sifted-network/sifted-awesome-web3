@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-04"
 date: "2026-07-04"
 source: "Cointelegraph"
-count: 9
+count: 8
 ---
 
 # Cointelegraph - 2026-07-04
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ Bitcoin price strength could "break" the entire downtrend if the reversal patter
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/4/2026, 12:04:07 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Revolut to delist USDT in August, citing regulatory and risk concerns
+## 4. Revolut to delist USDT in August, citing regulatory and risk concerns
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/4/2026, 11:25:34 AM  
@@ -71,19 +59,19 @@ Revolut notified some customers it will delist USDT after Aug. 31, with remainin
 
 ---
 
-## 6. Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction
+## 5. Tim Draper says Arkham got Bitcoin wallet attribution ‘wrong’
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/4/2026, 8:31:02 AM  
 **Categories:** Latest News  
 
-Tim Draper denies moving Bitcoin after blockchain analysts linked him to a wallet that transferred 1,000 BTC to Coinbase Prime.
+Tim Draper disputes Arkham's Bitcoin wallet attribution, saying: “I haven’t touched it. Arkham has it wrong.”
 
 📖 [Read original article](https://cointelegraph.com/news/tim-draper-denies-moving-bitcoin-250k-btc-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-## 7. Bitcoin profit and loss ratio falls to 43-month low
+## 6. Bitcoin profit and loss ratio falls to 43-month low
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/4/2026, 5:05:19 AM  
@@ -95,7 +83,7 @@ Bitwise chief investment officer Matt Hougan said the bottom is “closer than e
 
 ---
 
-## 8. US law enforcement group drops opposition to CLARITY Act: Report
+## 7. US law enforcement group drops opposition to CLARITY Act: Report
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/4/2026, 4:59:17 AM  
@@ -107,7 +95,7 @@ The Major County Sheriffs of America said it still wants the CLARITY Act amended
 
 ---
 
-## 9. Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying
+## 8. Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying
 
 **Author:** Cointelegraph  
 **Published:** 7/4/2026, 3:54:18 AM  
