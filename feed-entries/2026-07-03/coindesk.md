@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-03"
 date: "2026-07-03"
 source: "CoinDesk"
-count: 12
+count: 11
 ---
 
 # CoinDesk - 2026-07-03
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ Spot ETFs had their strongest inflow day in two months, driven by funds other th
 Buyers defended a higher low and pushed XRP toward near-term resistance, though the move still needs a clean break above $1.10 to confirm momentum.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/03/xrp-bulls-test-path-back-toward-usd1-10-as-token-zips-4-higher)
-
----
-
-## 12. Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000
-
-**Author:** Shaurya Malwa  
-**Published:** 7/3/2026, 5:18:58 AM  
-**Categories:** Markets, News  
-
-Bearish traders lost $281 million in liquidations over 24 hours, nearly double the longs, as bitcoin pushed to its strongest level in two weeks. Ether is up almost 10% on the week and solana nearly 19% while a rebound in tech stocks eased the pressure from the AI trade.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000)
 
 ---
