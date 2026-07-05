@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-03"
 date: "2026-07-03"
 source: "Cointelegraph"
-count: 18
+count: 17
 ---
 
 # Cointelegraph - 2026-07-03
 
-18 items collected.
+17 items collected.
 
 ---
 
@@ -212,17 +212,5 @@ US spot Bitcoin ETFs post $221.7 million inflows, the strongest daily intake sin
 Peter Stokes, 19, has been charged in the US for allegedly taking part in a hacking group’s unsuccessful $8 million crypto ransom scheme.
 
 📖 [Read original article](https://cointelegraph.com/news/teen-scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. AI agent development hasn’t accelerated as expected, Zuckerberg says
-
-**Author:** Cointelegraph by Brayden Lindrea  
-**Published:** 7/3/2026, 6:07:10 AM  
-**Categories:** Latest News  
-
-Mark Zuckerberg’s comments came on the same day that Meta expanded its Meta Business Agent globally for businesses on Instagram, Messenger and WhatsApp.
-
-📖 [Read original article](https://cointelegraph.com/news/ai-agent-development-hasnt-accelerated-as-expected-says-zuckerberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
