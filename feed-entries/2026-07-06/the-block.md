@@ -2,16 +2,76 @@
 title: "The Block - 2026-07-06"
 date: "2026-07-06"
 source: "The Block"
-count: 10
+count: 15
 ---
 
 # The Block - 2026-07-06
 
-10 items collected.
+15 items collected.
 
 ---
 
-## 1. Keel jumps 10% after former bitcoin miner hires data center veteran as president
+## 1. BonkDAO loses $20 million following ‘malicious governance proposal’ attack
+
+**Author:** Daniel Kuhn  
+**Published:** 7/6/2026, 6:59:19 PM  
+**Categories:** Crypto Ecosystems, DeFi, Governance, Market Updates, Markets, Security, The Block, Web3, DAOs, Exploits, Memecoins  
+
+The funds have been tracked to crypto exchanges, and South Korea-based Upbit said it has suspended BONK deposits and withdrawals.
+
+📖 [Read original article](https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Judge revives fraud claim against Barry Silbert, DCG in Genesis Yield lawsuit
+
+**Author:** Kyle Baird  
+**Published:** 7/6/2026, 6:55:49 PM  
+**Categories:** Companies, Deals, Finance firms, Legal, Organizations, Policy, Regulation, The Block, Crypto Banks and Lenders, Digital Currency Group, Lawsuits  
+
+The class action centers on Genesis Yield, a lending program that let customers deposit crypto in exchange for interest payments.
+
+📖 [Read original article](https://www.theblock.co/post/407337/judge-revives-fraud-claim-against-barry-silbert-dcg-genesis-yield-lawsuit?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Vitalik Buterin proposes ‘Extremely Lean’ Ethereum, shrinking the chain to near-zero state with ZK proofs
+
+**Author:** Daniel Kuhn  
+**Published:** 7/6/2026, 4:34:32 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Infrastructure, Layer 1s, Markets, Metaverse & NFT, People, Policy, The Block, Token Projects, Ethereum, Validators, Vitalik Buterin  
+
+Buterin outlined a two-step plan to shift Ethereum's state management to validators and replace per-epoch balance updates with ZK proofs.
+
+📖 [Read original article](https://www.theblock.co/post/407319/vitalik-buterin-extremely-lean-ethereum-shrinking-chain-to-near-zero-state-zk-proofs?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. AVAX One launches CEO search after leader of its Avalanche treasury pivot steps down
+
+**Author:** Kyle Baird  
+**Published:** 7/6/2026, 4:07:20 PM  
+**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, The Block, Token Projects, Avalanche  
+
+SkyBridge founder Anthony Scaramucci backed AVAX One's $550 million Avalanche treasury strategy announced last year.
+
+📖 [Read original article](https://www.theblock.co/post/407309/avax-one-ceo-search-leader-avalanche-treasury-pivot-steps-down?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. President Trump says he’s a ‘big crypto guy,’ while distancing himself from family’s crypto ventures
+
+**Author:** Sarah Wynn  
+**Published:** 7/6/2026, 3:53:22 PM  
+**Categories:** Crypto Ecosystems, Layer 1s, Markets, People, Policy, Regulation, The Block, Token Projects, Bitcoin, Donald Trump  
+
+President Trump called cryptocurrency "powerful" during the launch of Trump investment accounts for children.
+
+📖 [Read original article](https://www.theblock.co/post/407312/president-trump-big-crypto-guy-distancing-familys-crypto-ventures?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. Keel jumps 10% after former bitcoin miner hires data center veteran as president
 
 **Author:** Kyle Baird  
 **Published:** 7/6/2026, 3:01:59 PM  
@@ -23,7 +83,7 @@ Former Digital Realty executive Ganesh Aiyer will lead Keel's commercial growth 
 
 ---
 
-## 2. Bitmine’s Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum’s total supply
+## 7. Bitmine’s Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum’s total supply
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/6/2026, 2:15:48 PM  
@@ -35,7 +95,7 @@ Bitmine acquired 42,197 ether worth an estimated $74 million last week, lifting 
 
 ---
 
-## 3. TeraWulf signs 20-year data center lease with Anthropic expected to generate $19 billion in revenue
+## 8. TeraWulf signs 20-year data center lease with Anthropic expected to generate $19 billion in revenue
 
 **Author:** Daniel Kuhn  
 **Published:** 7/6/2026, 2:02:39 PM  
@@ -47,7 +107,7 @@ Anthropic will lease at TeraWulf's Justified Data site in Hawesville, Kentucky, 
 
 ---
 
-## 4. Russia’s largest bank Sber targets early December crypto wallet launch: report
+## 9. Russia’s largest bank Sber targets early December crypto wallet launch: report
 
 **Author:** Brian Danga  
 **Published:** 7/6/2026, 1:20:14 PM  
@@ -59,7 +119,7 @@ Sberbank plans a crypto wallet and digital depository in Sber apps by early Dece
 
 ---
 
-## 5. Strategy sells 3,588 BTC for $216 million, with total bitcoin holdings still underwater
+## 10. Strategy sells 3,588 BTC for $216 million, with total bitcoin holdings still underwater
 
 **Author:** James Hunt  
 **Published:** 7/6/2026, 12:22:55 PM  
@@ -71,7 +131,7 @@ Strategy's total holdings account for more than 4% of the 21 million bitcoin sup
 
 ---
 
-## 6. ‘Any signs of life?’ Bernstein holds ‘ambitious’ $150K year-end bitcoin target despite 54% drawdown
+## 11. ‘Any signs of life?’ Bernstein holds ‘ambitious’ $150K year-end bitcoin target despite 54% drawdown
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/6/2026, 10:49:28 AM  
@@ -83,7 +143,7 @@ Bernstein says bitcoin's 54% drawdown is milder than past cycles, retaining its 
 
 ---
 
-## 7. Ripple secures full MiCA CASP authorization for crypto services across 30 EEA countries
+## 12. Ripple secures full MiCA CASP authorization for crypto services across 30 EEA countries
 
 **Author:** Brian Danga  
 **Published:** 7/6/2026, 9:30:56 AM  
@@ -95,7 +155,7 @@ Ripple secured full MiCA CASP authorization from Luxembourg for regulated crypto
 
 ---
 
-## 8. DeFi protocol Summer Finance exploited for $6 million; analysts point to flash loan attack
+## 13. DeFi protocol Summer Finance exploited for $6 million; analysts point to flash loan attack
 
 **Author:** Danny Park  
 **Published:** 7/6/2026, 8:49:56 AM  
@@ -107,7 +167,7 @@ The attacker reportedly used a $65.4 million flash loan to obtain a $70.9 millio
 
 ---
 
-## 9. South Korea develops crypto-specific procedures for asset seizures and liquidation: report
+## 14. South Korea develops crypto-specific procedures for asset seizures and liquidation: report
 
 **Author:** Danny Park  
 **Published:** 7/6/2026, 8:35:54 AM  
@@ -119,7 +179,7 @@ The amendments aim to formalize how courts handle the forced execution of civil 
 
 ---
 
-## 10. How Sovereign Wealth Funds Invest in Digital Assets
+## 15. How Sovereign Wealth Funds Invest in Digital Assets
 
 **Author:** The Block Research  
 **Published:** 7/6/2026, 6:14:32 AM  
