@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-05"
 date: "2026-07-05"
 source: "Cointelegraph"
-count: 7
+count: 6
 ---
 
 # Cointelegraph - 2026-07-05
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -59,19 +59,7 @@ Binance recorded $1.23 billion in weekly net outflows, up 207% from the previous
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/5/2026, 3:51:24 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap
+## 5. Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/5/2026, 3:50:36 AM  
@@ -83,7 +71,7 @@ Part of the Ethereum Foundation’s plan to make Ethereum more private and scala
 
 ---
 
-## 7. Moonbeam to pivot from Polkadot to Base, unveils AI agent framework
+## 6. Moonbeam to pivot from Polkadot to Base, unveils AI agent framework
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/5/2026, 12:50:30 AM  
