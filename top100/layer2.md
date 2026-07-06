@@ -6,16 +6,16 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,565 | 2,277 | Rust | 25 | A based rollup protocol for Ethereum🥁  | 2026-07-05 |
+| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,565 | 2,277 | Rust | 25 | A based rollup protocol for Ethereum🥁  | 2026-07-06 |
 | 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,063 | 758 | Rust | 629 | The Stacks blockchain implementation | 2026-07-03 |
 | 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,546 | 331 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
-| 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,025 | 613 | - | 1896 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
-| 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 838 | 109 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
+| 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,024 | 613 | - | 1896 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
+| 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 849 | 109 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 6 | [starknetbook](https://github.com/starknet-edu/starknetbook) | 832 | 490 | CSS | 0 | Mastering Starknet. By the Starknet community | 2024-06-20 |
-| 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 614 | 56 | JavaScript | 14 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-07-01 |
+| 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 613 | 56 | JavaScript | 14 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-07-01 |
 | 8 | [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) | 477 | 139 | C | 7 | Open source MAC Telnet client and server for connecting to Mikrotik RouterOS routers and Posix devices using MAC addresses | 2025-09-21 |
 | 9 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 470 | 51 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2023-12-24 |
-| 10 | [juno](https://github.com/NethermindEth/juno) | 447 | 237 | Go | 37 | Reliable and high performance Starknet full node implementation | 2026-07-05 |
+| 10 | [juno](https://github.com/NethermindEth/juno) | 447 | 237 | Go | 37 | Reliable and high performance Starknet full node implementation | 2026-07-06 |
 | 11 | [db3](https://github.com/dbpunk-labs/db3) | 385 | 44 | Rust | 18 |  a Lightweight, Permanent JSON document database | 2024-07-29 |
 | 12 | [ChainX](https://github.com/chainx-org/ChainX) | 325 | 121 | Rust | 1 | Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM  | 2025-12-18 |
 | 13 | [blockchain-roadmap](https://github.com/itublockchain/blockchain-roadmap) | 283 | 39 | - | 0 | Blockchain öğrenme yolculuğunuz için yol haritası | 2024-10-13 |
@@ -30,14 +30,14 @@
 | 22 | [spec](https://github.com/rgb-archive/spec) | 146 | 23 | - | 7 | [OLD!] RGB Protocol specifications for Bitcoin-based digital assets | 2020-01-15 |
 | 23 | [WTF-Cairo](https://github.com/WTFAcademy/WTF-Cairo) | 142 | 48 | Cairo | 0 | 学习Starknet Cairo智能合约。 Learn to write smart contracts on Starknet. Based on Cairo 2.2. | 2024-10-02 |
 | 24 | [typescript-eth-starter](https://github.com/nezz0746/typescript-eth-starter) | 132 | 21 | TypeScript | 0 | 🔌 Ethereum Dapp Basic Typescript Starter | 2024-01-17 |
-| 25 | [xln](https://github.com/xlnfinance/xln) | 103 | 22 | TypeScript | 1 | 0.1 - Q1 2026. DRAFT xln: a credit+collateral netting-account L2 for all EVM and future CBDC jurisdictions—unicast O(1) per hop, link-capped risk, local state, sovereign exits. | 2026-07-03 |
+| 25 | [xln](https://github.com/xlnfinance/xln) | 103 | 22 | TypeScript | 1 | 0.1 - Q1 2026. DRAFT xln: a credit+collateral netting-account L2 for all EVM and future CBDC jurisdictions—unicast O(1) per hop, link-capped risk, local state, sovereign exits. | 2026-07-05 |
 | 26 | [zklink-contracts](https://github.com/zkLinkProtocol/zklink-contracts) | 101 | 70 | Solidity | 6 | zklink core contract, EVM compatible. | 2024-06-18 |
 | 27 | [solid-grinder](https://github.com/Ratimon/solid-grinder) | 100 | 9 | Solidity | 0 | A 100% opensource CLI that goes along with building blocks of smart contract. This toolbox can reduce L2 gas cost by encoding calldata for dApps development to use as little bytes of calldata as possi... | 2025-02-08 |
 | 28 | [NFT-yield-farming](https://github.com/masaun/NFT-yield-farming) | 96 | 81 | JavaScript | 1 | This is a smart contract that enable a user to farm yield by staking LP tokens into a NFT pool. (on BSC testnet) | 2021-03-02 |
 | 29 | [OB_ReturnCabin](https://github.com/Orbiter-Finance/OB_ReturnCabin) | 92 | 35 | Solidity | 1 | Orbiter Finance smart contracts | 2024-11-05 |
 | 30 | [getmac](https://github.com/GhostofGoes/getmac) | 88 | 28 | Python | 26 | Platform-independent pure-Python module to get a MAC address | 2026-01-04 |
 | 31 | [godwoken](https://github.com/godwokenrises/godwoken) | 85 | 37 | Rust | 1 | Godwoken is an optimistic rollup solution built on Nervos CKB. | 2024-04-11 |
-| 32 | [kleros-v2](https://github.com/kleros/kleros-v2) | 81 | 57 | TypeScript | 102 | Kleros arbitration protocol version 2 | 2026-07-03 |
+| 32 | [kleros-v2](https://github.com/kleros/kleros-v2) | 81 | 57 | TypeScript | 102 | Kleros arbitration protocol version 2 | 2026-07-05 |
 | 33 | [Layer2-Pivoting-Client](https://github.com/rsmudge/Layer2-Pivoting-Client) | 78 | 34 | C | 0 | A simple client to demonstrate Layer-2 pivoting. Compatible with the simpletun.c server written by Davide Brini. | 2014-10-15 |
 | 34 | [layer2](https://github.com/the-web3/layer2) | 75 | 25 | - | 0 | 最全面的 Layer2 资料汇总 | 2024-09-04 |
 | 35 | [Tiramisu](https://github.com/dharma-eng/Tiramisu) | 74 | 2 | TypeScript | 0 | Tiramisu is a "Layer Two" system for scalable token transfers that prioritizes simplicity. | 2023-02-03 |
@@ -82,7 +82,7 @@
 | 74 | [Layer2SpriteSheet](https://github.com/rraallvv/Layer2SpriteSheet) | 21 | 5 | JavaScript | 3 | Simple Photoshop script port of the texpack texture packer by Mariano Cuatrin (https://github.com/urraka/texpack) | 2018-08-15 |
 | 75 | [layer2_20-core](https://github.com/layer220/layer2_20-core) | 20 | 4 | - | 0 |  | 2023-12-23 |
 | 76 | [Layer2](https://github.com/kostasgrlondon/Layer2) | 20 | 0 | - | 0 |  | 2024-05-25 |
-| 77 | [SuperScalar](https://github.com/8144225309/SuperScalar) | 20 | 3 | C | 8 | Implementation of SuperScalar — Bitcoin Lightning channel factories that onboard N users in one shared UTXO. No soft fork required. | 2026-07-05 |
+| 77 | [SuperScalar](https://github.com/8144225309/SuperScalar) | 20 | 3 | C | 8 | Implementation of SuperScalar — Bitcoin Lightning channel factories that onboard N users in one shared UTXO. No soft fork required. | 2026-07-06 |
 | 78 | [Layer2_TapTunnel](https://github.com/Azumi67/Layer2_TapTunnel) | 19 | 8 | Python | 0 | A lightweight Layer-2 Tap tunnel based tunnels between two hosts using UDP tunneling. it creates Private IPV4. | 2025-07-31 |
 | 79 | [acorus](https://github.com/eniac-x-labs/acorus) | 19 | 11 | Go | 0 | All layer2 and dapplink layer3 chain l1->l2->l3, l3->l2->l1 and any chain transfer to any chain transactions indexer,  | 2025-11-29 |
 | 80 | [typhon-spec](https://github.com/pandoracore/typhon-spec) | 19 | 1 | - | 4 | Trustless sidechains for Bitcoin network. Lightning ⚡️ brings thunderbolt 🌩 – Typhon 🐉 brings typhoon🌪 | 2019-02-07 |
