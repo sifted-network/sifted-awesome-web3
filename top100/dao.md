@@ -8,26 +8,26 @@
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [prisma1](https://github.com/prisma/prisma1) | 16,391 | 840 | Scala | 2 | 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated] | 2022-09-01 |
 | 2 | [full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) | 14,023 | 3,278 | - | 94 | Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript | 2024-06-12 |
-| 3 | [greenDAO](https://github.com/greenrobot/greenDAO) | 12,592 | 2,860 | Java | 196 | greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases. | 2024-04-30 |
-| 4 | [Exposed](https://github.com/JetBrains/Exposed) | 9,261 | 785 | Kotlin | 128 | Kotlin SQL Framework | 2026-07-02 |
+| 3 | [greenDAO](https://github.com/greenrobot/greenDAO) | 12,593 | 2,860 | Java | 196 | greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases. | 2024-04-30 |
+| 4 | [Exposed](https://github.com/JetBrains/Exposed) | 9,260 | 786 | Kotlin | 128 | Kotlin SQL Framework | 2026-07-02 |
 | 5 | [go-ibax](https://github.com/IBAX-io/go-ibax) | 7,854 | 6,400 | Go | 96 | An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.  | 2026-03-05 |
-| 6 | [TangSengDaoDaoServer](https://github.com/TangSengDaoDao/TangSengDaoDaoServer) | 3,521 | 575 | Go | 34 | 高颜值 IM 即时通讯,聊天 | 2026-06-11 |
-| 7 | [nutz](https://github.com/nutzam/nutz) | 2,544 | 921 | Java | 53 | Nutz -- Web Framework(Mvc/Ioc/Aop/Dao/Json) for ALL Java developer | 2025-10-28 |
-| 8 | [magic-api](https://github.com/ssssssss-team/magic-api) | 1,886 | 430 | Java | 40 | magic-api 是一个接口快速开发框架，通过Web页面编写脚本以及配置，自动映射为HTTP接口，无需定义Controller、Service、Dao、Mapper、XML、VO等Java对象 | 2025-06-05 |
-| 9 | [DAO](https://github.com/blockchainsllc/DAO) | 1,589 | 491 | TeX | 15 | The Standard DAO Framework, including Whitepaper | 2023-03-27 |
-| 10 | [dao-code](https://github.com/tigicion/dao-code) | 1,581 | 53 | TypeScript | 0 | Open-source TypeScript terminal coding agent for DeepSeek-V4 — builds on DeepSeek's strong price-performance and ultra-cheap cache pricing, engineering byte-stable prefixes and cache-reusing forks so ... | 2026-07-01 |
+| 6 | [TangSengDaoDaoServer](https://github.com/TangSengDaoDao/TangSengDaoDaoServer) | 3,521 | 576 | Go | 34 | 高颜值 IM 即时通讯,聊天 | 2026-06-11 |
+| 7 | [nutz](https://github.com/nutzam/nutz) | 2,544 | 921 | Java | 54 | Nutz -- Web Framework(Mvc/Ioc/Aop/Dao/Json) for ALL Java developer | 2025-10-28 |
+| 8 | [magic-api](https://github.com/ssssssss-team/magic-api) | 1,887 | 430 | Java | 40 | magic-api 是一个接口快速开发框架，通过Web页面编写脚本以及配置，自动映射为HTTP接口，无需定义Controller、Service、Dao、Mapper、XML、VO等Java对象 | 2025-06-05 |
+| 9 | [dao-code](https://github.com/tigicion/dao-code) | 1,606 | 54 | TypeScript | 0 | Open-source TypeScript terminal coding agent for DeepSeek-V4 — builds on DeepSeek's strong price-performance and ultra-cheap cache pricing, engineering byte-stable prefixes and cache-reusing forks so ... | 2026-07-05 |
+| 10 | [DAO](https://github.com/blockchainsllc/DAO) | 1,589 | 491 | TeX | 15 | The Standard DAO Framework, including Whitepaper | 2023-03-27 |
 | 11 | [Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources) | 1,553 | 381 | Markdown | 1 | The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol. | 2025-02-02 |
 | 12 | [GreenDaoUpgradeHelper](https://github.com/yuweiguocn/GreenDaoUpgradeHelper) | 1,530 | 295 | Java | 14 | To solve database upgrade of greenDao and just need one line code | 2019-05-25 |
 | 13 | [crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) | 1,397 | 137 | - | 2 |  | 2024-08-06 |
 | 14 | [tianti](https://github.com/xujeff/tianti) | 1,105 | 585 | Java | 36 | java轻量级的CMS解决方案-天梯。天梯是一个用java相关技术搭建的后台CMS解决方案，用户可以结合自身业务进行相应扩展，同时提供了针对dao、service等的代码生成工具。技术选型：Spring Data JPA、Hibernate、Shiro、 Spring MVC、Layer、Mysql等。 | 2022-05-20 |
 | 15 | [SSM_HRMS](https://github.com/sangshy-go/SSM_HRMS) | 976 | 316 | Java | 9 | 一个用于练手的SSM小项目，从数据库表的SQL语句，后台DAO层代码编写，前端使用Bootstrap3搭建一个简单的后台页面，数据的CRUD通过SSM框架进行完成，可以很好地用来巩固和复习应用SSM框架做项目的过程。 | 2022-12-16 |
-| 16 | [daos](https://github.com/daos-stack/daos) | 954 | 349 | C | 0 | DAOS Storage Stack (client libraries, storage engine, control plane) | 2026-07-05 |
-| 17 | [randao](https://github.com/randao/randao) | 846 | 110 | JavaScript | 3 | RANDAO: A DAO working as RNG of Ethereum | 2023-03-01 |
+| 16 | [daos](https://github.com/daos-stack/daos) | 954 | 348 | C | 0 | DAOS Storage Stack (client libraries, storage engine, control plane) | 2026-07-06 |
+| 17 | [randao](https://github.com/randao/randao) | 845 | 110 | JavaScript | 3 | RANDAO: A DAO working as RNG of Ethereum | 2023-03-01 |
 | 18 | [nouns-monorepo](https://github.com/nounsDAO/nouns-monorepo) | 685 | 442 | TypeScript | 39 | The Nouns DAO monorepo | 2026-06-08 |
 | 19 | [EVCloudKitDao](https://github.com/evermeer/EVCloudKitDao) | 642 | 66 | Swift | 7 | Simplified access to Apple's CloudKit | 2019-08-19 |
 | 20 | [bee](https://github.com/automvc/bee) | 635 | 59 | Java | 3 | Bee is an AI, easy and high efficiency ORM framework,support JDBC,Cassandra,Mongodb,Sharding,Android,HarmonyOS.  | 2026-06-28 |
 | 21 | [contracts](https://github.com/CodeforDAO/contracts) | 626 | 94 | Solidity | 1 | Solidity smart contracts of CodeforDAO | 2022-08-01 |
-| 22 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 614 | 56 | JavaScript | 14 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-07-01 |
+| 22 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 613 | 56 | JavaScript | 14 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-07-01 |
 | 23 | [Summer](https://github.com/SwingFrog/Summer) | 568 | 167 | Java | 0 | 这是一个轻量级的、一站式的java游戏服务器框架，也可用于开发简单的web服务。基于netty实现了高性能通讯，支持tcp、http、websocket等协议，支持protobuf、json两种数据格式，支持以配置的形式轻松开启多端口网络服务。支持RPC远程调用，支持以优雅的方式实现远程调用，支持调用超时重试、幂等调用。封装了持久化层，提供数据访问和数据落地接口，支持异步新增、保存、删除数据，支持... | 2025-04-17 |
 | 24 | [ecjia-daojia](https://github.com/ecjia/ecjia-daojia) | 567 | 253 | PHP | 1 | EC+（ecjia）到家是一款可开展O2O业务的移动电商系统。它包含：移动端APP，采用原生模式开发，覆盖使用iOS 及Android系统的移 动终端；后台系统，针对平台日常运营维护的平台后台，针对入驻店铺管理的商家后台，独立并行；移动端H5，能够灵活部署于微信及其他APP、网页等。 | 2022-05-08 |
 | 25 | [QxOrm](https://github.com/QxOrm/QxOrm) | 563 | 145 | C++ | 12 | QxOrm library - C++ Qt ORM (Object Relational Mapping) and ODM (Object Document Mapper) library - Official repository | 2026-05-12 |
@@ -38,7 +38,7 @@
 | 30 | [WangDao-DataStructure](https://github.com/anbingxu666/WangDao-DataStructure) | 401 | 67 | C++ | 0 | 《数据结构》经典算法代码 | 2023-12-24 |
 | 31 | [vertx-jooq](https://github.com/jklingsporn/vertx-jooq) | 391 | 57 | Java | 40 | A jOOQ-CodeGenerator to create vertx-ified DAOs and POJOs. | 2024-01-11 |
 | 32 | [curve-dao-contracts](https://github.com/curvefi/curve-dao-contracts) | 363 | 176 | Python | 7 | Vyper contracts to be used by Curve DAO | 2025-05-26 |
-| 33 | [DAO_DE_JING](https://github.com/fundgao/DAO_DE_JING) | 362 | 124 | HTML | 0 | 《道德经》《阳明心学》《易经》《奇门遁甲》《黄帝内经》《抱朴子》《阴阳五行》《山海经》《河图洛书》东方古老文化传承与研究，易经风水、奇门遁甲、禅修灵修、道法仙学、天医祝由、中医道医，辟谷养生，修行修心，心疗灵疗，灵魂觉醒，高维智慧开启！ | 2026-03-07 |
+| 33 | [DAO_DE_JING](https://github.com/fundgao/DAO_DE_JING) | 363 | 125 | HTML | 0 | 《道德经》《阳明心学》《易经》《奇门遁甲》《黄帝内经》《抱朴子》《阴阳五行》《山海经》《河图洛书》东方古老文化传承与研究，易经风水、奇门遁甲、禅修灵修、道法仙学、天医祝由、中医道医，辟谷养生，修行修心，心疗灵疗，灵魂觉醒，高维智慧开启！ | 2026-03-07 |
 | 34 | [gf-demo-user](https://github.com/gogf/gf-demo-user) | 357 | 155 | Go | 7 | A simple user API service. | 2026-02-10 |
 | 35 | [watchit-app](https://github.com/WatchItDev/watchit-app) | 354 | 41 | HTML | 121 | Open movies everywhere | 2025-10-23 |
 | 36 | [rocket-api](https://github.com/mihuajun/rocket-api) | 336 | 77 | Java | 1 | API敏捷开发框架，用于API接口功能的快速开发。不再定义Controller,Service,Dao,Mybatis,xml,Entity,VO等对象和方法.以springboot starter 形式集成使用 | 2025-04-10 |
@@ -58,7 +58,7 @@
 | 50 | [dao-contracts](https://github.com/DA0-DA0/dao-contracts) | 218 | 148 | Rust | 54 | Advanced Web Assembly governance tooling. | 2026-06-28 |
 | 51 | [gov4git](https://github.com/gov4git/gov4git) | 217 | 20 | Go | 38 | Decentralized governance for Git communities | 2024-05-19 |
 | 52 | [GeneDAO](https://github.com/NikoLuo1010/GeneDAO) | 206 | 48 | - | 0 |  | 2023-04-17 |
-| 53 | [DaoCloud-docs](https://github.com/DaoCloud/DaoCloud-docs) | 202 | 219 | Python | 151 | DaoCloud Enterprise 5.0 Documentation | 2026-07-03 |
+| 53 | [DaoCloud-docs](https://github.com/DaoCloud/DaoCloud-docs) | 202 | 218 | Python | 151 | DaoCloud Enterprise 5.0 Documentation | 2026-07-03 |
 | 54 | [dao](https://github.com/daokoder/dao) | 201 | 17 | C | 126 | Dao Programming Language | 2023-12-31 |
 | 55 | [DAOstack-Hackers-Kit](https://github.com/daostack/DAOstack-Hackers-Kit) | 201 | 81 | TypeScript | 8 | Everything you need to start building DAOs using the DAOstack framework | 2023-01-13 |
 | 56 | [MyGreenDAO](https://github.com/tangqi92/MyGreenDAO) | 199 | 91 | Java | 3 | A simple demo of GreenDAO. | 2017-11-15 |
