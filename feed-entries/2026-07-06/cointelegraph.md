@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-07-06"
 date: "2026-07-06"
 source: "Cointelegraph"
-count: 7
+count: 13
 ---
 
 # Cointelegraph - 2026-07-06
 
-7 items collected.
+13 items collected.
 
 ---
 
-## 1. Dormant $1.9M Bitcoin tied to New York lawsuit moves after nearly 15 years
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph  
+**Published:** 7/6/2026, 2:06:57 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. FCA warns of major shakeup as AI agents meet tokenized money
+
+**Author:** Cointelegraph by Robert Lakin  
+**Published:** 7/6/2026, 1:50:06 PM  
+**Categories:** Latest News  
+
+The FCA’s vision for agentic AI points toward a financial system where programmable money and tokenized assets could play a much larger role.
+
+📖 [Read original article](https://cointelegraph.com/news/fca-warns-of-major-shakeup-as-ai-agents-meet-tokenized-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Crypto hacks fell 47% in H1 but ecosystem is no safer: CertiK
+
+**Author:** Cointelegraph by Brayden Lindrea  
+**Published:** 7/6/2026, 1:00:00 PM  
+**Categories:** Latest News  
+
+Crypto exploits rose 59% quarter-on-quarter to $807.5 million in Q2, due partly to the KelpDAO and Drift Protocol exploits, which came at the hands of North Korean hackers.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-hacks-fell-47-percent-in-h1-but-ecosystem-is-no-safer-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Strategy sells 3,588 Bitcoin for $216M to fund dividends, keeps $2.55B reserve intact
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 7/6/2026, 12:59:04 PM  
+**Categories:** Latest News  
+
+Strategy sold $216 million in Bitcoin to fund its dividend payments, as wealth manager Bernstein maintained its year-end Bitcoin price target of $150,000.
+
+📖 [Read original article](https://cointelegraph.com/news/strategy-sells-bitcoin-bernstein-btc-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Belgian regulator flags 6 unauthorized crypto providers after MiCA deadline
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 7/6/2026, 12:15:20 PM  
+**Categories:** Latest News  
+
+Belgium’s FSMA warned consumers about six crypto-asset service providers it added to a fraudulent CASP list days after the EU’s MiCA transitional period expired.
+
+📖 [Read original article](https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. $60.4K Becomes 'most important area': Five things to know in Bitcoin this week
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/6/2026, 10:25:20 AM  
+**Categories:** Markets  
+
+Bitcoin saw its highest levels in nearly two weeks at the weekly close, but bulls needed a push beyond $65,000 for real trend inflection, said the latest BTC price analysis.
+
+📖 [Read original article](https://cointelegraph.com/markets/604k-becomes-most-important-area-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. South Korea weighs action against Polymarket over gambling concerns
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 7/6/2026, 9:53:34 AM  
+**Categories:** Latest News  
+
+South Korea’s media and communications review body will hear from Polymarket before deciding whether to issue a corrective request against the prediction market platform.
+
+📖 [Read original article](https://cointelegraph.com/news/south-korea-polymarket-gambling-review-corrective-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Dormant $1.9M Bitcoin tied to New York lawsuit moves after nearly 15 years
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/6/2026, 9:20:14 AM  
@@ -23,7 +107,7 @@ A Bitcoin address dormant for nearly 15 years moved $1.9 million in BTC as a New
 
 ---
 
-## 2. Nigel Farage accepted gifts from crypto-linked fraudster: Report
+## 9. Nigel Farage accepted gifts from crypto-linked fraudster: Report
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/6/2026, 6:02:55 AM  
@@ -35,19 +119,7 @@ Before he was an MP, Nigel Farage was reportedly gifted staff, security and othe
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/6/2026, 5:59:40 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Stablecoin transaction volume hits record $1.79T in June
+## 10. Stablecoin transaction volume hits record $1.79T in June
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/6/2026, 5:44:54 AM  
@@ -59,7 +131,7 @@ Stablecoins are maturing and are positioned for even greater reach as the market
 
 ---
 
-## 5. Thousands of crypto wallets at risk from ‘Ill Bloom’ vulnerability: Coinspect
+## 11. Thousands of crypto wallets at risk from ‘Ill Bloom’ vulnerability: Coinspect
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/6/2026, 5:35:58 AM  
@@ -71,7 +143,7 @@ Thousands of crypto wallets across multiple blockchains could be vulnerable due 
 
 ---
 
-## 6. Central bankers sound alarms over agentic AI finance risks
+## 12. Central bankers sound alarms over agentic AI finance risks
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/6/2026, 3:30:19 AM  
@@ -83,7 +155,7 @@ Thousands of crypto wallets across multiple blockchains could be vulnerable due 
 
 ---
 
-## 7. Trump’s memecoin holders have lost over $3.8B: Report
+## 13. Trump’s memecoin holders have lost over $3.8B: Report
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/6/2026, 3:12:14 AM  
