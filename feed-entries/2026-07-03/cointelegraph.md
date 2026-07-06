@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-03"
 date: "2026-07-03"
 source: "Cointelegraph"
-count: 15
+count: 9
 ---
 
 # Cointelegraph - 2026-07-03
 
-15 items collected.
+9 items collected.
 
 ---
 
@@ -116,77 +116,5 @@ Upbit said it only expressed interest in potentially joining the OpenStandard ec
 Belgian authorities say a European phishing gang stole over $572,000 from victims before laundering the proceeds through cryptocurrency.
 
 📖 [Read original article](https://cointelegraph.com/news/belgian-police-arrest-phishing-gang-leader-572k-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. StanChart joins ESMA's first MiCA register update since deadline
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/3/2026, 12:02:41 PM  
-**Categories:** Latest News  
-
-ESMA publishes its first post-deadline MiCA register update, adding 37 crypto-asset service providers, including Standard Chartered and FalconX.
-
-📖 [Read original article](https://cointelegraph.com/news/esma-mica-register-new-casps-stanchart-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/3/2026, 11:34:04 AM  
-**Categories:** Markets  
-
-Bitcoin supply dynamics pointed toward the end of the 2026 bear market after the first "buy" signal since November 2022, but analysis warned that BTC price could still go lower.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-supply-metric-prints-first-buy-signal-since-late-2022-as-bear-market-continues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Zcash’s Ironwood upgrade faces possible delay over infrastructure readiness
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/3/2026, 11:21:30 AM  
-**Categories:** Latest News  
-
-Shielded Labs said exchanges, mining pools and wallets may need more time to complete Zcash’s Z3 software migration and safely prepare for Ironwood.
-
-📖 [Read original article](https://cointelegraph.com/news/zcash-ironwood-upgrade-possible-delay-infrastructure-readiness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Defendant files to dismiss New York lawsuit seeking ownership of 39,069 Bitcoin wallets
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/3/2026, 11:10:24 AM  
-**Categories:** Latest News  
-
-A defendant who owns one of the dormant Bitcoin wallets filed to dismiss the New York case, which seeks ownership of $229 billion worth of Bitcoin considered lost.
-
-📖 [Read original article](https://cointelegraph.com/news/defendant-dismiss-new-york-lawsuit-bitcoin-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. India's central bank revives push to isolate banks from crypto: Report
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/3/2026, 9:26:00 AM  
-**Categories:** Latest News  
-
-The Indian central bank reportedly urged lawmakers to keep banks insulated from crypto and private stablecoins while preserving room for regulated tokenization.
-
-📖 [Read original article](https://cointelegraph.com/news/rbi-crypto-containment-india-policy-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Irish authorities seize another 500 Bitcoin, bringing 2026 total to 1,500 BTC
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/3/2026, 8:47:45 AM  
-**Categories:** Latest News  
-
-Irish authorities recovered 500 Bitcoin in criminal proceeds, bringing the total seized by the Criminal Assets Bureau to about $92 million in BTC for 2026.
-
-📖 [Read original article](https://cointelegraph.com/news/irish-authorities-recover-500-bitcoin-criminal-proceeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
