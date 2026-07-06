@@ -2,16 +2,52 @@
 title: "Decrypt - 2026-07-06"
 date: "2026-07-06"
 source: "Decrypt"
-count: 5
+count: 8
 ---
 
 # Decrypt - 2026-07-06
 
-5 items collected.
+8 items collected.
 
 ---
 
-## 1. Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin
+## 1. Coinbase's AI System Hallucinated a World Cup Result Before the Match Even Started
+
+**Author:** Jason Nelson  
+**Published:** 7/6/2026, 6:49:39 PM  
+**Categories:** Artificial Intelligence  
+
+Coinbase said it updated its systems after an AI-generated alert incorrectly reported the outcome of the Norway-Brazil match before kickoff.
+
+📖 [Read original article](https://decrypt.co/372824/coinbase-ai-hallucinated-world-cup-result-before-match)
+
+---
+
+## 2. Over 150,000 People Signed Up to Masturbate With AI. Here's Why
+
+**Author:** Jason Nelson  
+**Published:** 7/6/2026, 5:32:38 PM  
+**Categories:** Artificial Intelligence  
+
+Joi AI's search for 10 paid "masturbation consultants" drew more than 150,000 applicants. Here's what happened.
+
+📖 [Read original article](https://decrypt.co/372818/people-signed-up-masturbate-ai-joi)
+
+---
+
+## 3. Bitcoin Mining Stocks Jump After TeraWulf Signs $19 Billion Lease With Anthropic
+
+**Author:** Decrypt Agent  
+**Published:** 7/6/2026, 3:15:36 PM  
+**Categories:** , Markets  
+
+TeraWulf's 20-year lease deal with Anthropic is expected to generate $19 billion in revenue—and major Bitcoin mining stocks are surging.
+
+📖 [Read original article](https://decrypt.co/372810/bitcoin-mining-stocks-jump-terawulf-19-billion-lease-anthropic)
+
+---
+
+## 4. Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin
 
 **Author:** Logan Hitchcock  
 **Published:** 7/6/2026, 2:41:45 PM  
@@ -23,7 +59,7 @@ BitMine continued its relentless accumulation of Ethereum while Bitcoin's bigges
 
 ---
 
-## 2. Ethereum 'Reinventing Itself' With Biggest Overhaul Since the Merge: Vitalik Buterin
+## 5. Ethereum 'Reinventing Itself' With Biggest Overhaul Since the Merge: Vitalik Buterin
 
 **Author:** Decrypt Agent  
 **Published:** 7/6/2026, 12:51:53 PM  
@@ -35,9 +71,9 @@ Nearly every core piece of the protocol will be rebuilt over three to four years
 
 ---
 
-## 3. Strategy Sells $216M in Bitcoin for Dividends Under 'BTC Monetization Program'
+## 6. Strategy Sells $216M in Bitcoin for Dividends Under 'BTC Monetization Program'
 
-**Author:** André Beganski  
+**Author:** Decrypt Agent  
 **Published:** 7/6/2026, 12:28:00 PM  
 **Categories:** , Coins  
 
@@ -47,7 +83,7 @@ The Bitcoin treasury giant sold $216 million worth of Bitcoin to cover preferred
 
 ---
 
-## 4. Morning Minute: Crypto Surges Over Holiday Weekend
+## 7. Morning Minute: Crypto Surges Over Holiday Weekend
 
 **Author:** Tyler Warner  
 **Published:** 7/6/2026, 12:09:30 PM  
@@ -59,7 +95,7 @@ The ETF flows finally flip. Trump defends his billion-dollar crypto payday. And 
 
 ---
 
-## 5. New UK Election Funding Rules Could Hit Reform's Crypto Billionaire Donors
+## 8. New UK Election Funding Rules Could Hit Reform's Crypto Billionaire Donors
 
 **Author:** Decrypt Agent  
 **Published:** 7/6/2026, 10:01:06 AM  
