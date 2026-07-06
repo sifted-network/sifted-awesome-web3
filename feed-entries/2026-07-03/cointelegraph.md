@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-03"
 date: "2026-07-03"
 source: "Cointelegraph"
-count: 9
+count: 3
 ---
 
 # Cointelegraph - 2026-07-03
 
-9 items collected.
+3 items collected.
 
 ---
 
@@ -44,77 +44,5 @@ The restriction proposed by Senator Kirsten Gillibrand would bar members of Cong
 The US President disclosed earning more than $1 billion from crypto ventures amid discussions of a digital asset market structure bill in Congress and legislation to ban CBDCs awaiting his desk.
 
 📖 [Read original article](https://cointelegraph.com/news/donald-trump-crypto-investments-president-profit-office?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. ESMA warns many prediction market event contracts already face EU retail ban
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 7/3/2026, 4:54:20 PM  
-**Categories:** Latest News  
-
-The European regulator said companies cannot circumvent EU financial rules by marketing binary-style products as event contracts rather than derivatives.
-
-📖 [Read original article](https://cointelegraph.com/news/esma-warns-many-prediction-market-contracts-may-be-prohibited-eu-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Crypto Biz: Bitcoin maximalism meets the realities of capital markets
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 7/3/2026, 4:03:41 PM  
-**Categories:** Latest News  
-
-Strategy authorizes Bitcoin sales, Open USD takes on USDT and USDC, Fidelity defends Bitcoin security and crypto ramps up political spending for 2026.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-biz-bitcoin-maximalism-meets-capital-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Bitcoin price tags $62.3K nine-day high after global stocks hit historic record
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/3/2026, 3:11:30 PM  
-**Categories:** Markets  
-
-Bitcoin set new highs for July after the Dow Jones and global stocks market cap set new all-time highs before the US Independence Day holiday.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-tags-623k-nine-day-high-after-global-stocks-hit-historic-record?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. EU crypto rulebook faces enforcement challenge as MiCA transition ends
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/3/2026, 1:59:16 PM  
-**Categories:** Latest News  
-
-Lawyers and industry executives expect EU regulators to enforce MiCA differently as unauthorized crypto companies are required to wind down operations.
-
-📖 [Read original article](https://cointelegraph.com/news/eu-crypto-rulebook-enforcement-challenge-mica-transition-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Upbit says it only expressed interest in future OUSD participation
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/3/2026, 1:19:49 PM  
-**Categories:** Latest News  
-
-Upbit said it only expressed interest in potentially joining the OpenStandard ecosystem in the future, as several South Korean firms distanced themselves from the OUSD initiative.
-
-📖 [Read original article](https://cointelegraph.com/news/upbit-clarifies-ousd-role-open-standard-partner-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Belgian police arrest suspected phishing gang leader tied to $572K theft
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/3/2026, 12:43:47 PM  
-**Categories:** Latest News  
-
-Belgian authorities say a European phishing gang stole over $572,000 from victims before laundering the proceeds through cryptocurrency.
-
-📖 [Read original article](https://cointelegraph.com/news/belgian-police-arrest-phishing-gang-leader-572k-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
