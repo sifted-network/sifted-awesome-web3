@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-03"
 date: "2026-07-03"
 source: "Cointelegraph"
-count: 16
+count: 15
 ---
 
 # Cointelegraph - 2026-07-03
 
-16 items collected.
+15 items collected.
 
 ---
 
@@ -188,17 +188,5 @@ The Indian central bank reportedly urged lawmakers to keep banks insulated from 
 Irish authorities recovered 500 Bitcoin in criminal proceeds, bringing the total seized by the Criminal Assets Bureau to about $92 million in BTC for 2026.
 
 📖 [Read original article](https://cointelegraph.com/news/irish-authorities-recover-500-bitcoin-criminal-proceeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. US spot Bitcoin ETFs top $200M in daily inflows for first time since May
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/3/2026, 7:56:40 AM  
-**Categories:** Latest News  
-
-US spot Bitcoin ETFs post $221.7 million inflows, the strongest daily intake since early May, as Bitcoin recovers above $61,000.
-
-📖 [Read original article](https://cointelegraph.com/news/spot-bitcoin-etfs-222-million-daily-inflow-reverse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
