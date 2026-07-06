@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-07-06"
 date: "2026-07-06"
 source: "Cointelegraph"
-count: 13
+count: 18
 ---
 
 # Cointelegraph - 2026-07-06
 
-13 items collected.
+18 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Ripple secures full MiCA license for crypto services across Europe
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/6/2026, 7:29:13 PM  
+**Categories:** Latest News  
+
+The Luxembourg approval completes the company's MiCA licensing process, enabling it to provide regulated crypto-asset services across the European Economic Area.
+
+📖 [Read original article](https://cointelegraph.com/news/ripple-secures-full-mica-license-for-crypto-services-across-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitmine announces $74M Ether buys as chair says ‘greater chances of Clarity Act passage’
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/6/2026, 5:27:21 PM  
+**Categories:** Latest News  
+
+Bitmine's big buy contrasts with crypto treasury peer Strategy, which reported selling millions of dollars worth of its Bitcoin holdings on Monday.
+
+📖 [Read original article](https://cointelegraph.com/news/bitmine-ether-treasury-chances-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. UN agency moves Stellar blockchain payment initiative beyond pilot stage
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/6/2026, 5:08:57 PM  
+**Categories:** Latest News  
+
+The UN Development Programme said blockchain payment pilots in five countries cut costs, improved resilience and will now inform wider use across its humanitarian and development programs.
+
+📖 [Read original article](https://cointelegraph.com/news/undp-moves-stellar-blockchain-payment-initiative-beyond-pilot-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. TeraWulf shares rise after $19B Anthropic AI lease, JV sale
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/6/2026, 4:43:21 PM  
+**Categories:** Latest News  
+
+The Bitcoin miner signed a 20-year AI infrastructure lease with Anthropic and sold its majority stake in a separate AI data center joint venture.
+
+📖 [Read original article](https://cointelegraph.com/news/terawulf-shares-rise-after-19b-anthropic-ai-lease-jv-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Bitcoin price falls up to 4% on Strategy BTC sale as trader sees Summer 2022 repeat
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/6/2026, 3:22:45 PM  
+**Categories:** Markets  
+
+Bitcoin wiped out much of its latest gains thanks to a market reaction to Strategy's 3,600 BTC sell-off, but analysis eyed a potential buy announcement in the coming days.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-falls-on-strategy-btc-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/6/2026, 2:06:57 PM  
@@ -23,7 +83,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. FCA warns of major shakeup as AI agents meet tokenized money
+## 7. FCA warns of major shakeup as AI agents meet tokenized money
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 7/6/2026, 1:50:06 PM  
@@ -35,7 +95,7 @@ The FCA’s vision for agentic AI points toward a financial system where program
 
 ---
 
-## 3. Crypto hacks fell 47% in H1 but ecosystem is no safer: CertiK
+## 8. Crypto hacks fell 47% in H1 but ecosystem is no safer: CertiK
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/6/2026, 1:00:00 PM  
@@ -47,7 +107,7 @@ Crypto exploits rose 59% quarter-on-quarter to $807.5 million in Q2, due partly 
 
 ---
 
-## 4. Strategy sells 3,588 Bitcoin for $216M to fund dividends, keeps $2.55B reserve intact
+## 9. Strategy sells 3,588 Bitcoin for $216M to fund dividends, keeps $2.55B reserve intact
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/6/2026, 12:59:04 PM  
@@ -59,7 +119,7 @@ Strategy sold $216 million in Bitcoin to fund its dividend payments, as wealth m
 
 ---
 
-## 5. Belgian regulator flags 6 unauthorized crypto providers after MiCA deadline
+## 10. Belgian regulator flags 6 unauthorized crypto providers after MiCA deadline
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/6/2026, 12:15:20 PM  
@@ -71,7 +131,7 @@ Belgium’s FSMA warned consumers about six crypto-asset service providers it ad
 
 ---
 
-## 6. $60.4K Becomes 'most important area': Five things to know in Bitcoin this week
+## 11. $60.4K Becomes 'most important area': Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/6/2026, 10:25:20 AM  
@@ -83,7 +143,7 @@ Bitcoin saw its highest levels in nearly two weeks at the weekly close, but bull
 
 ---
 
-## 7. South Korea weighs action against Polymarket over gambling concerns
+## 12. South Korea weighs action against Polymarket over gambling concerns
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/6/2026, 9:53:34 AM  
@@ -95,7 +155,7 @@ South Korea’s media and communications review body will hear from Polymarket b
 
 ---
 
-## 8. Dormant $1.9M Bitcoin tied to New York lawsuit moves after nearly 15 years
+## 13. Dormant $1.9M Bitcoin tied to New York lawsuit moves after nearly 15 years
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/6/2026, 9:20:14 AM  
@@ -107,7 +167,7 @@ A Bitcoin address dormant for nearly 15 years moved $1.9 million in BTC as a New
 
 ---
 
-## 9. Nigel Farage accepted gifts from crypto-linked fraudster: Report
+## 14. Nigel Farage accepted gifts from crypto-linked fraudster: Report
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/6/2026, 6:02:55 AM  
@@ -119,7 +179,7 @@ Before he was an MP, Nigel Farage was reportedly gifted staff, security and othe
 
 ---
 
-## 10. Stablecoin transaction volume hits record $1.79T in June
+## 15. Stablecoin transaction volume hits record $1.79T in June
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/6/2026, 5:44:54 AM  
@@ -131,7 +191,7 @@ Stablecoins are maturing and are positioned for even greater reach as the market
 
 ---
 
-## 11. Thousands of crypto wallets at risk from ‘Ill Bloom’ vulnerability: Coinspect
+## 16. Thousands of crypto wallets at risk from ‘Ill Bloom’ vulnerability: Coinspect
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/6/2026, 5:35:58 AM  
@@ -143,7 +203,7 @@ Thousands of crypto wallets across multiple blockchains could be vulnerable due 
 
 ---
 
-## 12. Central bankers sound alarms over agentic AI finance risks
+## 17. Central bankers sound alarms over agentic AI finance risks
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/6/2026, 3:30:19 AM  
@@ -155,7 +215,7 @@ Thousands of crypto wallets across multiple blockchains could be vulnerable due 
 
 ---
 
-## 13. Trump’s memecoin holders have lost over $3.8B: Report
+## 18. Trump’s memecoin holders have lost over $3.8B: Report
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/6/2026, 3:12:14 AM  
