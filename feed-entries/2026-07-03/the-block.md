@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-03"
 date: "2026-07-03"
 source: "The Block"
-count: 9
+count: 6
 ---
 
 # The Block - 2026-07-03
 
-9 items collected.
+6 items collected.
 
 ---
 
@@ -80,41 +80,5 @@ Spotify asked Kalshi and Polymarket to drop its logo after 500,000 fake streams 
 Bitcoin holds above $61,000 and ether above $1,700 as soft U.S. jobs data eases Fed hike bets and spot ETFs snap a 10-day outflow streak.
 
 📖 [Read original article](https://www.theblock.co/post/407131/markets-find-their-footing-bitcoin-holds-61000-rebound-ahead-of-us-independence-day-as-soft-jobs-data-eases-rate-fears?utm_source=rss&utm_medium=rss)
-
----
-
-## 7. Bank of Russia governor says ‘everything is ready’ for widespread use of digital ruble ahead of September rollout
-
-**Author:** Danny Park  
-**Published:** 7/3/2026, 9:16:52 AM  
-**Categories:** Policy, Regulation, The Block  
-
-The central bank is also actively discussing the use of stablecoins for international settlements, but only to complement the digital ruble.
-
-📖 [Read original article](https://www.theblock.co/post/407124/russia-digital-ruble?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. US bitcoin ETFs break 10-day negative streak with $222 million worth of inflows
-
-**Author:** Danny Park  
-**Published:** 7/3/2026, 7:14:57 AM  
-**Categories:** Markets, The Block  
-
-BlackRock's IBIT was the only fund to see net outflows on Thursday, shedding $40.4 million and continuing its negative streak.
-
-📖 [Read original article](https://www.theblock.co/post/407110/us-bitcoin-etfs-222-million-inflows?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. Institutional Bitcoin Adoption Explained: How Blackrock, Fidelity and Others Embraced BTC
-
-**Author:** The Block Research  
-**Published:** 7/3/2026, 6:26:57 AM  
-**Categories:** -  
-
-Institutional adoption is when organizations such as asset managers, corporations, hedge funds, banks, pension funds, and insurers get involved in crypto. This can mean investing in bitcoin directly or building products and services around it. The trend accelerated sharply after spot bitcoin ETFs la...
-
-📖 [Read original article](https://www.theblock.co/learn/407111/institutional-bitcoin-adoption-explained-how-blackrock-fidelity-and-others-embraced-btc?utm_source=rss&utm_medium=rss)
 
 ---
