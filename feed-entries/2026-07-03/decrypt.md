@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-03"
 date: "2026-07-03"
 source: "Decrypt"
-count: 8
+count: 5
 ---
 
 # Decrypt - 2026-07-03
 
-8 items collected.
+5 items collected.
 
 ---
 
@@ -68,41 +68,5 @@ Barstool Sports founder Dave Portnoy says he's down millions on Bitcoin, but he'
 Experts warn quantum computers could someday forge Bitcoin’s digital signatures, allowing unauthorized transactions.
 
 📖 [Read original article](https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained)
-
----
-
-## 6. American Charged in Israel With Spying for Iran in Exchange for Crypto
-
-**Author:** Decrypt Agent  
-**Published:** 7/3/2026, 2:36:39 PM  
-**Categories:** Law and Order  
-
-Israeli prosecutors charged a 21-year-old American man with spying for Iran while studying at a seminary in Jerusalem.
-
-📖 [Read original article](https://decrypt.co/372729/american-charged-israel-spying-iran-exchange-crypto)
-
----
-
-## 7. Farage Reported to UK Standards Watchdog Over Alleged Crypto Lobbying
-
-**Author:** Decrypt Agent  
-**Published:** 7/3/2026, 1:06:56 PM  
-**Categories:** , , Law and Order  
-
-A Labour MP says the Reform leader pressed the Bank of England on policy that could enrich his biggest donor, a major Tether investor.
-
-📖 [Read original article](https://decrypt.co/372726/farage-reported-to-uk-standards-watchdog-over-alleged-crypto-lobbying)
-
----
-
-## 8. Bitcoin ETFs Draw In $222M, Snapping 10-Day Losing Streak
-
-**Author:** Decrypt Agent  
-**Published:** 7/3/2026, 11:46:34 AM  
-**Categories:** , Markets  
-
-Thursday's inflows ended a run that drained $2.7 billion, but analysts warn one green day isn't necessarily a trend reversal.
-
-📖 [Read original article](https://decrypt.co/372723/bitcoin-etfs-draw-in-222m-snapping-10-day-losing-streak)
 
 ---
