@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-07-06"
 date: "2026-07-06"
 source: "CoinDesk"
-count: 21
+count: 22
 ---
 
 # CoinDesk - 2026-07-06
 
-21 items collected.
+22 items collected.
 
 ---
 
-## 1. Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows
+## 1. Bitcoin's U.S. reserve still a work-in-progress as federal agencies hash it out
+
+**Author:** Jesse Hamilton  
+**Published:** 7/6/2026, 9:40:06 PM  
+**Categories:** Policy, Bitcoin News, White House, News  
+
+The White House says it's still evaluating the "best structure" for the federal fund to hold bitcoin as a long-term reserve and a separate stockpile of other crypto assets.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/06/bitcoin-s-u-s-reserve-still-a-work-in-progress-as-federal-agencies-hash-it-out)
+
+---
+
+## 2. Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows
 
 **Author:** Olivier Acuna  
 **Published:** 7/6/2026, 4:00:15 PM  
@@ -23,7 +35,7 @@ As Wall Street banks adopt digital currencies for faster settlements, overall tr
 
 ---
 
-## 2. Strategy selling hundreds of millions worth of bitcoin raises question about its capital-allocation playbook
+## 3. Strategy selling hundreds of millions worth of bitcoin raises question about its capital-allocation playbook
 
 **Author:** Helene Braun  
 **Published:** 7/6/2026, 3:47:12 PM  
@@ -35,7 +47,7 @@ First, it was a tiny amount of bitcoin sales; then, the purchase of several thou
 
 ---
 
-## 3. Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution
+## 4. Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution
 
 **Author:** Margaux Nijkerk  
 **Published:** 7/6/2026, 3:34:33 PM  
@@ -47,7 +59,7 @@ The "Lean Ethereum" strawmap, updated earlier this week, has gained support from
 
 ---
 
-## 4. Securitize eyes acquisitions with $400 million war chest after going public, CEO says
+## 5. Securitize eyes acquisitions with $400 million war chest after going public, CEO says
 
 **Author:** Krisztian Sandor  
 **Published:** 7/6/2026, 2:25:32 PM  
@@ -59,7 +71,7 @@ Following its NYSE debut, Securitize CEO Carlos Domingo said the firm wants to e
 
 ---
 
-## 5. DeFi protocol Summer.fi halts Lazy Summer vaults after $6 million exploit
+## 6. DeFi protocol Summer.fi halts Lazy Summer vaults after $6 million exploit
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/6/2026, 1:42:12 PM  
@@ -71,7 +83,7 @@ The protocol’s SUMR token fell by over 18% after the incident.
 
 ---
 
-## 6. Cantor says Strategy's recovery hinges on restoring STRC to par
+## 7. Cantor says Strategy's recovery hinges on restoring STRC to par
 
 **Author:** Will Canny,AI Boost  
 **Published:** 7/6/2026, 1:06:09 PM  
@@ -83,7 +95,7 @@ Bringing Strategy's preferred shares back to $100 is key to restarting Strategy'
 
 ---
 
-## 7. Bitmine added another $74 million in ether as Tom Lee bets on Clarity Act boost
+## 8. Bitmine added another $74 million in ether as Tom Lee bets on Clarity Act boost
 
 **Author:** Krisztian Sandor  
 **Published:** 7/6/2026, 12:54:37 PM  
@@ -95,7 +107,7 @@ The second-largest digital asset treasury increased its buying pace, while Strat
 
 ---
 
-## 8. Michael Saylor's Strategy dramatically ups pace of bitcoin sales, raising $216 million
+## 9. Michael Saylor's Strategy dramatically ups pace of bitcoin sales, raising $216 million
 
 **Author:** James Van Straten  
 **Published:** 7/6/2026, 12:16:28 PM  
@@ -107,7 +119,7 @@ The company sold 3,588 bitcoin last week to replenish its dollar reserves for di
 
 ---
 
-## 9. Russia's largest bank plans crypto wallet launch as Moscow clears market path
+## 10. Russia's largest bank plans crypto wallet launch as Moscow clears market path
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/6/2026, 11:36:05 AM  
@@ -119,7 +131,7 @@ Services will integrate into "Sberbank Online" and "SberInvestments" once the "O
 
 ---
 
-## 10. SpaceX's Nasdaq 100 inclusion comes with a historical warning
+## 11. SpaceX's Nasdaq 100 inclusion comes with a historical warning
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 7/6/2026, 11:16:26 AM  
@@ -131,7 +143,7 @@ The largest IPO ever enters the Nasdaq 100. Previous additions like Palantir and
 
 ---
 
-## 11. U.S. inflation outlook underpins bitcoin bulls after best week since March
+## 12. U.S. inflation outlook underpins bitcoin bulls after best week since March
 
 **Author:** Omkar Godbole  
 **Published:** 7/6/2026, 11:15:00 AM  
@@ -143,7 +155,7 @@ Your day-ahead look for July 6, 2026
 
 ---
 
-## 12. Crypto bounces back from the brink as altcoin optimism returns despite pockets of weakness
+## 13. Crypto bounces back from the brink as altcoin optimism returns despite pockets of weakness
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 7/6/2026, 10:44:45 AM  
@@ -155,7 +167,7 @@ BTC holds at $62,800 after last week's brush with $58,000, while LIT surges 50% 
 
 ---
 
-## 13. Bitcoin's Sharpe Ratio slides to lowest since 2022. Here's what it means.
+## 14. Bitcoin's Sharpe Ratio slides to lowest since 2022. Here's what it means.
 
 **Author:** Omkar Godbole  
 **Published:** 7/6/2026, 10:19:56 AM  
@@ -167,7 +179,7 @@ A reading that negative means investors would have been better off in risk-free 
 
 ---
 
-## 14. Ripple's preliminary crypto asset provider license in Luxembourg upgraded to fully compliant
+## 15. Ripple's preliminary crypto asset provider license in Luxembourg upgraded to fully compliant
 
 **Author:** Olivier Acuna  
 **Published:** 7/6/2026, 10:01:24 AM  
@@ -179,7 +191,7 @@ The approval means Ripple is now fully MiCA-compliant for payments, financial in
 
 ---
 
-## 15. Coinbase AI draws backlash after erroneously publishing World Cup result before kickoff
+## 16. Coinbase AI draws backlash after erroneously publishing World Cup result before kickoff
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/6/2026, 9:39:52 AM  
@@ -191,7 +203,7 @@ CEO Brian Armstrong investigated, and the firm said it made updates to prevent f
 
 ---
 
-## 16. FOMC minutes, SpaceX joins Nasdaq 100: Crypto Week Ahead
+## 17. FOMC minutes, SpaceX joins Nasdaq 100: Crypto Week Ahead
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/6/2026, 8:18:05 AM  
@@ -203,7 +215,7 @@ Your look at what's coming in the week starting July 6.
 
 ---
 
-## 17. Vitalik Buterin says Ethereum is preparing its 'biggest rebuild' since the Merge
+## 18. Vitalik Buterin says Ethereum is preparing its 'biggest rebuild' since the Merge
 
 **Author:** Shaurya Malwa  
 **Published:** 7/6/2026, 7:44:58 AM  
@@ -215,7 +227,7 @@ A revised roadmap details how the multi-year overhaul would replace nearly every
 
 ---
 
-## 18. Live markets: Bitcoin recoups early decline, rising back above $63,000
+## 19. Live markets: Bitcoin recoups early decline, rising back above $63,000
 
 **Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Helene Braun  
 **Published:** 7/6/2026, 7:43:21 AM  
@@ -227,7 +239,7 @@ Strategy raised $216 milliion with the sale of 3,588 bitcoin last week, sending 
 
 ---
 
-## 19. I am contemplating selling some of my bitcoin for gold, veteran trader Peter Brandt says
+## 20. I am contemplating selling some of my bitcoin for gold, veteran trader Peter Brandt says
 
 **Author:** Omkar Godbole  
 **Published:** 7/6/2026, 6:03:29 AM  
@@ -239,7 +251,7 @@ Veteran trader Peter Brandt said gold is going to gain substantially on bitcoin.
 
 ---
 
-## 20. XRP rises 3% as $1.14 breakout turns into support test
+## 21. XRP rises 3% as $1.14 breakout turns into support test
 
 **Author:** Shaurya Malwa  
 **Published:** 7/6/2026, 5:15:01 AM  
@@ -251,7 +263,7 @@ Heavy volume pushed XRP through resistance, but sellers met the move near $1.16 
 
 ---
 
-## 21. Ether leads crypto's hold above key levels as bitcoin steadies over $63,000
+## 22. Ether leads crypto's hold above key levels as bitcoin steadies over $63,000
 
 **Author:** Shaurya Malwa  
 **Published:** 7/6/2026, 5:09:07 AM  
