@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-06"
 date: "2026-07-06"
 source: "CoinDesk"
-count: 19
+count: 13
 ---
 
 # CoinDesk - 2026-07-06
 
-19 items collected.
+13 items collected.
 
 ---
 
@@ -164,77 +164,5 @@ The largest IPO ever enters the Nasdaq 100. Previous additions like Palantir and
 Your day-ahead look for July 6, 2026
 
 📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/06/u-s-inflation-outlook-underpins-bitcoin-bulls-after-best-week-since-march)
-
----
-
-## 14. Crypto bounces back from the brink as altcoin optimism returns despite pockets of weakness
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 7/6/2026, 10:44:45 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-BTC holds at $62,800 after last week's brush with $58,000, while LIT surges 50% and the Altcoin Season indicator hits its highest reading in three months.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/06/crypto-bounces-back-from-the-brink-as-altcoin-optimism-returns-despite-pockets-of-weakness)
-
----
-
-## 15. Bitcoin's Sharpe Ratio slides to lowest since 2022. Here's what it means.
-
-**Author:** Omkar Godbole  
-**Published:** 7/6/2026, 10:19:56 AM  
-**Categories:** Markets, Crypto Trading, Markets, News  
-
-A reading that negative means investors would have been better off in risk-free assets like 10-year U.S. Treasuries.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/06/bitcoin-s-sharpe-ratio-slides-to-lowest-since-2022-here-s-what-it-means)
-
----
-
-## 16. Ripple's preliminary crypto asset provider license in Luxembourg upgraded to fully compliant
-
-**Author:** Olivier Acuna  
-**Published:** 7/6/2026, 10:01:24 AM  
-**Categories:** Policy, MiCA, Ripple, Regulation, News  
-
-The approval means Ripple is now fully MiCA-compliant for payments, financial institutions, corporates and businesses across all 30 European Economic Area countries.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/06/ripple-s-preliminary-crypto-asset-provider-license-in-luxembourg-upgraded-to-fully-compliant)
-
----
-
-## 17. Coinbase AI draws backlash after erroneously publishing World Cup result before kickoff
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/6/2026, 9:39:52 AM  
-**Categories:** Finance, Coinbase, Prediction Markets, Artificial Intelligence, News  
-
-CEO Brian Armstrong investigated, and the firm said it made updates to prevent future AI-generated inaccuracies.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/06/coinbase-ai-draws-backlash-after-pushing-world-cup-result-before-kickoff)
-
----
-
-## 18. FOMC minutes, SpaceX joins Nasdaq 100: Crypto Week Ahead
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/6/2026, 8:18:05 AM  
-**Categories:** Markets, week ahead, News  
-
-Your look at what's coming in the week starting July 6.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/06/fomc-minutes-spacex-joins-nasdaq-100-crypto-week-ahead)
-
----
-
-## 19. Vitalik Buterin says Ethereum is preparing its 'biggest rebuild' since the Merge
-
-**Author:** Shaurya Malwa  
-**Published:** 7/6/2026, 7:44:58 AM  
-**Categories:** Tech, Ethereum News, News  
-
-A revised roadmap details how the multi-year overhaul would replace nearly every major part of Ethereum's protocol, with quantum resistance and privacy moving up the priority list. It lands as ether rallies more than 12% in the past seven days.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/06/vitalik-buterin-says-ethereum-is-preparing-its-biggest-rebuild-since-the-merge)
 
 ---
