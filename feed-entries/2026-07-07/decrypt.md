@@ -2,16 +2,52 @@
 title: "Decrypt - 2026-07-07"
 date: "2026-07-07"
 source: "Decrypt"
-count: 4
+count: 7
 ---
 
 # Decrypt - 2026-07-07
 
-4 items collected.
+7 items collected.
 
 ---
 
-## 1. Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto
+## 1. Radar Chat Wants to Make Sending Bitcoin as Easy as Firing Off a Text
+
+**Author:** Jason Nelson  
+**Published:** 7/7/2026, 6:38:26 PM  
+**Categories:** , Technology  
+
+Built on Signal’s open-source technology, Radar Chat combines encrypted messaging with self-custodial Bitcoin payments via Lightning Network.
+
+📖 [Read original article](https://decrypt.co/372941/radar-chat-make-sending-bitcoin-easy-text)
+
+---
+
+## 2. Kenya's Markets Regulator Seeks Blockchain Tool to Track Crypto Crime
+
+**Author:** Decrypt Agent  
+**Published:** 7/7/2026, 5:29:39 PM  
+**Categories:** , , Business  
+
+The Capital Markets Authority wants to monitor over 20 blockchains for fraud, laundering, and sanctions evasion under Kenya's new crypto law.
+
+📖 [Read original article](https://decrypt.co/372932/kenyas-markets-regulator-seeks-blockchain-tool-to-track-crypto-crime)
+
+---
+
+## 3. Wintermute Cautions 'Relief Rally' Likely as Bitcoin Touches Highest Price in Weeks
+
+**Author:** Logan Hitchcock  
+**Published:** 7/7/2026, 5:16:27 PM  
+**Categories:** , , Markets  
+
+Market maker Wintermute remains cautious, suggesting that recent Bitcoin action is a relief rally rather than a fundamental market change.
+
+📖 [Read original article](https://decrypt.co/372929/wintermute-cautions-relief-rally-bitcoin-touches-highest-price-weeks)
+
+---
+
+## 4. Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto
 
 **Author:** Decrypt Agent  
 **Published:** 7/7/2026, 1:48:44 PM  
@@ -23,7 +59,7 @@ The FCA authorization lets the exchange offer equities and derivatives to UK use
 
 ---
 
-## 2. Morning Minute: Strategy Turns Net Seller
+## 5. Morning Minute: Strategy Turns Net Seller
 
 **Author:** Tyler Warner  
 **Published:** 7/7/2026, 12:27:58 PM  
@@ -35,7 +71,7 @@ Michael Saylor becomes a major Bitcoin seller. A memecoin gets "exploited" via g
 
 ---
 
-## 3. Traders Sue Polymarket Over 'No' Ruling on Strategy Bitcoin Sale
+## 6. Traders Sue Polymarket Over 'No' Ruling on Strategy Bitcoin Sale
 
 **Author:** Decrypt Agent  
 **Published:** 7/7/2026, 11:34:51 AM  
@@ -47,7 +83,7 @@ The plaintiffs say Polymarket added a rule after the fact, turning their winning
 
 ---
 
-## 4. Chainwire Parent MediaFuse Launches Tech Newswire Optimized for AI Search
+## 7. Chainwire Parent MediaFuse Launches Tech Newswire Optimized for AI Search
 
 **Author:** Decrypt Staff  
 **Published:** 7/7/2026, 11:28:04 AM  
