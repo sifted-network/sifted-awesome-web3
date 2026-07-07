@@ -6,25 +6,25 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,565 | 2,277 | Rust | 25 | A based rollup protocol for Ethereum🥁  | 2026-07-06 |
-| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,063 | 758 | Rust | 629 | The Stacks blockchain implementation | 2026-07-03 |
+| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,565 | 2,277 | Rust | 25 | A based rollup protocol for Ethereum🥁  | 2026-07-07 |
+| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,063 | 758 | Rust | 629 | The Stacks blockchain implementation | 2026-07-06 |
 | 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,546 | 331 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
 | 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,024 | 613 | - | 1896 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
 | 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 849 | 109 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 6 | [starknetbook](https://github.com/starknet-edu/starknetbook) | 832 | 490 | CSS | 0 | Mastering Starknet. By the Starknet community | 2024-06-20 |
-| 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 613 | 56 | JavaScript | 14 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-07-01 |
+| 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 613 | 56 | JavaScript | 14 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-07-06 |
 | 8 | [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) | 477 | 139 | C | 7 | Open source MAC Telnet client and server for connecting to Mikrotik RouterOS routers and Posix devices using MAC addresses | 2025-09-21 |
 | 9 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 470 | 51 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2023-12-24 |
 | 10 | [juno](https://github.com/NethermindEth/juno) | 447 | 237 | Go | 37 | Reliable and high performance Starknet full node implementation | 2026-07-06 |
 | 11 | [db3](https://github.com/dbpunk-labs/db3) | 385 | 44 | Rust | 18 |  a Lightweight, Permanent JSON document database | 2024-07-29 |
-| 12 | [ChainX](https://github.com/chainx-org/ChainX) | 325 | 121 | Rust | 1 | Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM  | 2025-12-18 |
+| 12 | [ChainX](https://github.com/chainx-org/ChainX) | 326 | 121 | Rust | 1 | Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM  | 2025-12-18 |
 | 13 | [blockchain-roadmap](https://github.com/itublockchain/blockchain-roadmap) | 283 | 39 | - | 0 | Blockchain öğrenme yolculuğunuz için yol haritası | 2024-10-13 |
 | 14 | [Library-of-Ethereum](https://github.com/arpitingle/Library-of-Ethereum) | 280 | 32 | - | 1 | Curated Collection of Ethereum Ecosystem Resources | 2023-12-26 |
 | 15 | [Blockchain-Developer-roadmap_Chinese](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese) | 253 | 19 | - | 0 | 区块链工程师学习路线 ｜ GitHub Star数第六项目 Develop Roadmap 区块链工程师 部分｜@Web3-Club | 2024-07-04 |
 | 16 | [tutorials](https://github.com/zkSync-Community-Hub/tutorials) | 237 | 62 | TypeScript | 0 | Tutorials submitted by the community to build on zkSync Era | 2025-02-03 |
 | 17 | [contracts](https://github.com/hop-protocol/contracts) | 234 | 85 | TypeScript | 8 | 🐰 Hop Protocol v1 smart contracts | 2025-02-26 |
 | 18 | [zkopru](https://github.com/zkopru-network/zkopru) | 219 | 27 | TypeScript | 68 | Ethereum L2 scaling solution for private transactions using zk-SNARK and optimistic rollup. | 2023-01-24 |
-| 19 | [rooch](https://github.com/rooch-network/rooch) | 188 | 94 | Rust | 217 | VApp Container with Move Language for Bitcoin ecosystem | 2026-07-05 |
+| 19 | [rooch](https://github.com/rooch-network/rooch) | 188 | 94 | Rust | 217 | VApp Container with Move Language for Bitcoin ecosystem | 2026-07-07 |
 | 20 | [EtherGuard-VPN](https://github.com/KusakabeShi/EtherGuard-VPN) | 185 | 18 | Go | 7 | Layer2 version of wireguard with Floyd Warshall implement in go. | 2024-01-12 |
 | 21 | [optimistic-specs](https://github.com/ethereum-optimism/optimistic-specs) | 173 | 40 | Go | 44 | Optimistic: Bedrock, is a protocol that strives to be an extremely simple optimistic rollup that maintains 1:1 compatibility with Ethereum | 2023-08-02 |
 | 22 | [spec](https://github.com/rgb-archive/spec) | 146 | 23 | - | 7 | [OLD!] RGB Protocol specifications for Bitcoin-based digital assets | 2020-01-15 |
@@ -62,7 +62,7 @@
 | 54 | [starkex-explorer](https://github.com/l2beat/starkex-explorer) | 41 | 14 | TypeScript | 4 | Decode calldata stored by the dYdX rollup. Perform force exits and trades. | 2026-02-23 |
 | 55 | [fluidex-backend](https://github.com/fluidex/fluidex-backend) | 39 | 9 | Shell | 17 | Building the first permissionless layer2 orderbook DEX on Ethereum, powered by PLONK zk-rollup | 2022-01-13 |
 | 56 | [monoplasma](https://github.com/streamr-dev/monoplasma) | 38 | 13 | JavaScript | 0 | Unidirectional payment distribution channel with monotonically increasing balances (now obsolete) | 2021-05-09 |
-| 57 | [aeternum](https://github.com/0xJonaseb11/aeternum) | 37 | 0 | C++ | 0 | Your Zero knowledge evidence protocol for encrypted decentralized storage and onchain verifiable ownership. | 2026-06-29 |
+| 57 | [aeternum](https://github.com/0xJonaseb11/aeternum) | 37 | 0 | C++ | 0 | Your Zero knowledge evidence protocol for encrypted decentralized storage and onchain verifiable ownership. | 2026-07-06 |
 | 58 | [stellar-turrets](https://github.com/kalepail/stellar-turrets) | 35 | 28 | JavaScript | 9 | Reference implementation of the Stellar Turrets protocol | 2022-01-14 |
 | 59 | [reddio](https://github.com/reddio-com/reddio) | 34 | 11 | Go | 10 | Parallel EVM layer2 | 2025-07-03 |
 | 60 | [XRPLEVM](https://github.com/MeoMunDep/XRPLEVM) | 33 | 0 | JavaScript | 0 | Auto deploy, send, burn, swap, bridge, add liquid pool, mint tokens.  | 2025-09-29 |
@@ -96,7 +96,7 @@
 | 88 | [myfirstlayer2-frontend](https://github.com/lxdao-official/myfirstlayer2-frontend) | 17 | 7 | JavaScript | 10 | MyFirstLayer2 serves as an educational platform geared towards novices eager to explore and engage with Layer2 technologies.  | 2025-05-16 |
 | 89 | [jovay-relayer](https://github.com/jovaynetwork/jovay-relayer) | 17 | 0 | Java | 0 | The core middleware for Jovay L2 Rollup — reliable data aggregation, submission, and proof management between L1 and L2. | 2026-03-30 |
 | 90 | [rewritecap](https://github.com/jordan2175/rewritecap) | 16 | 4 | Go | 0 | Tool for rebasing a PCAP file and editing layer2 and layer 3 addresses | 2020-12-30 |
-| 91 | [awesome-base](https://github.com/wbnns/awesome-base) | 16 | 64 | - | 6 | A list of Base ecosystem links including (d)apps, projects and more. Base is an Ethereum L2, incubated by Coinbase. | 2023-08-16 |
+| 91 | [awesome-base](https://github.com/wbnns/awesome-base) | 16 | 63 | - | 6 | A list of Base ecosystem links including (d)apps, projects and more. Base is an Ethereum L2, incubated by Coinbase. | 2023-08-16 |
 | 92 | [Layer2-Scaling-Solutions](https://github.com/ViktorVL584/Layer2-Scaling-Solutions) | 16 | 0 | - | 0 | An in-depth exploration of Layer 2 scaling solutions like Optimistic Rollups, zk-Rollups, and sidechains. Includes code samples and implementation guides. | 2025-02-12 |
 | 93 | [Track-Pharma](https://github.com/Adesdesk/Track-Pharma) | 16 | 9 | JavaScript | 0 | Track-Pharma is a blockchain-based pharmaceutical supply-chain management project by a collaborative effort of members of Team201. | 2023-08-10 |
 | 94 | [optimistic-L2](https://github.com/nitantchhajed/optimistic-L2) | 16 | 0 | Solidity | 0 | Making L2 chain, Optimistic/zkRollup (fraud proofs/L1-L2 data transfer/challenging/ etc) | 2023-02-14 |
