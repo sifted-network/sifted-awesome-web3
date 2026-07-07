@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-06"
 date: "2026-07-06"
 source: "The Block"
-count: 16
+count: 12
 ---
 
 # The Block - 2026-07-06
 
-16 items collected.
+12 items collected.
 
 ---
 
@@ -152,53 +152,5 @@ Anthropic will lease at TeraWulf's Justified Data site in Hawesville, Kentucky, 
 Sberbank plans a crypto wallet and digital depository in Sber apps by early December pending Russia’s new digital asset law.
 
 📖 [Read original article](https://www.theblock.co/post/407273/russias-largest-bank-sber-targets-early-december-crypto-wallet-launch-report?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Strategy sells 3,588 BTC for $216 million, with total bitcoin holdings still underwater
-
-**Author:** James Hunt  
-**Published:** 7/6/2026, 12:22:55 PM  
-**Categories:** Companies, Markets, Public Equities, The Block, Strategy  
-
-Strategy's total holdings account for more than 4% of the 21 million bitcoin supply cap — worth around $52.3 billion.
-
-📖 [Read original article](https://www.theblock.co/post/407217/strategy-bitcoin-digital-energy?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. ‘Any signs of life?’ Bernstein holds ‘ambitious’ $150K year-end bitcoin target despite 54% drawdown
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/6/2026, 10:49:28 AM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, The Block, Token Projects, Bitcoin  
-
-Bernstein says bitcoin's 54% drawdown is milder than past cycles, retaining its "ambitious" $150K year-end target.
-
-📖 [Read original article](https://www.theblock.co/post/407212/any-signs-of-life-bernstein-holds-ambitious-150k-year-end-bitcoin-target-despite-54-drawdown?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Ripple secures full MiCA CASP authorization for crypto services across 30 EEA countries
-
-**Author:** Brian Danga  
-**Published:** 7/6/2026, 9:30:56 AM  
-**Categories:** Policy, Regulation, The Block, Eurozone Regulation  
-
-Ripple secured full MiCA CASP authorization from Luxembourg for regulated crypto services across all 30 European Economic Area countries.
-
-📖 [Read original article](https://www.theblock.co/post/407207/ripple-secures-full-mica-casp-authorization-for-crypto-services-across-30-eea-countries?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. DeFi protocol Summer Finance exploited for $6 million; analysts point to flash loan attack
-
-**Author:** Danny Park  
-**Published:** 7/6/2026, 8:49:56 AM  
-**Categories:** Crypto Ecosystems, DeFi, The Block  
-
-The attacker reportedly used a $65.4 million flash loan to obtain a $70.9 million redemption on Summer.fi's Lazy Summer Protocol.
-
-📖 [Read original article](https://www.theblock.co/post/407198/summer-finance-exploited?utm_source=rss&utm_medium=rss)
 
 ---
