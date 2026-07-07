@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-06"
 date: "2026-07-06"
 source: "CoinDesk"
-count: 13
+count: 6
 ---
 
 # CoinDesk - 2026-07-06
 
-13 items collected.
+6 items collected.
 
 ---
 
@@ -80,89 +80,5 @@ Following its NYSE debut, Securitize CEO Carlos Domingo said the firm wants to e
 The onetime pure bitcoin miner signed a 20-year deal to host the AI firm at a Kentucky campus, the latest crypto-adjacent company to trade mining for the steadier money in artificial-intelligence infrastructure.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/06/bitcoin-miner-terawulf-soars-on-a-usd19-billion-ai-data-center-lease-with-anthropic)
-
----
-
-## 7. DeFi protocol Summer.fi halts Lazy Summer vaults after $6 million exploit
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/6/2026, 1:42:12 PM  
-**Categories:** Web3, DeFi, Web3, News  
-
-The protocol’s SUMR token fell by over 18% after the incident.
-
-📖 [Read original article](https://www.coindesk.com/web3/2026/07/06/defi-protocol-summer-fi-halts-lazy-summer-vaults-after-usd6-million-exploit)
-
----
-
-## 8. Cantor says Strategy's recovery hinges on restoring STRC to par
-
-**Author:** Will Canny,AI Boost  
-**Published:** 7/6/2026, 1:06:09 PM  
-**Categories:** Markets, MicroStrategy, Bitcoin News, Cantor Fitzgerald, News  
-
-Bringing Strategy's preferred shares back to $100 is key to restarting Strategy's capital engine, the bank said, with repeated management actions expected to support both preferred and common shareholders.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/06/cantor-says-strategy-s-recovery-hinges-on-restoring-strc-to-par)
-
----
-
-## 9. Bitmine added another $74 million in ether as Tom Lee bets on Clarity Act boost
-
-**Author:** Krisztian Sandor  
-**Published:** 7/6/2026, 12:54:37 PM  
-**Categories:** Finance, Ethereum News, Digital Asset Treasury, News  
-
-The second-largest digital asset treasury increased its buying pace, while Strategy sold a chunk of its bitcoin holdings.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/06/bitmine-added-another-usd74-million-in-ether-as-tom-lee-bets-on-clarity-act-boost)
-
----
-
-## 10. Michael Saylor's Strategy dramatically ups pace of bitcoin sales, raising $216 million
-
-**Author:** James Van Straten  
-**Published:** 7/6/2026, 12:16:28 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-The company sold 3,588 bitcoin last week to replenish its dollar reserves for dividends on its preferred stock.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/06/michael-saylor-s-strategy-dramatically-ups-pace-of-bitcoin-sales-raising-usd216-million)
-
----
-
-## 11. Russia's largest bank plans crypto wallet launch as Moscow clears market path
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/6/2026, 11:36:05 AM  
-**Categories:** Finance, Crypto News, banks, News  
-
-Services will integrate into "Sberbank Online" and "SberInvestments" once the "On Digital Currency and Digital Rights" bill takes effect in September.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/06/russia-s-largest-bank-plans-crypto-wallet-launch-as-moscow-clears-market-path)
-
----
-
-## 12. SpaceX's Nasdaq 100 inclusion comes with a historical warning
-
-**Author:** James Van Straten,AI Boost  
-**Published:** 7/6/2026, 11:16:26 AM  
-**Categories:** Markets, Bitcoin News, Elon Musk, SpaceX, News  
-
-The largest IPO ever enters the Nasdaq 100. Previous additions like Palantir and Strategy saw volatility after the index inclusion rather than the start of new rallies.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/06/spacex-s-nasdaq-100-inclusion-comes-with-a-historical-warning)
-
----
-
-## 13. U.S. inflation outlook underpins bitcoin bulls after best week since March
-
-**Author:** Omkar Godbole  
-**Published:** 7/6/2026, 11:15:00 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for July 6, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/06/u-s-inflation-outlook-underpins-bitcoin-bulls-after-best-week-since-march)
 
 ---
