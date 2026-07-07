@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-06"
 date: "2026-07-06"
 source: "The Block"
-count: 18
+count: 16
 ---
 
 # The Block - 2026-07-06
 
-18 items collected.
+16 items collected.
 
 ---
 
@@ -200,29 +200,5 @@ Ripple secured full MiCA CASP authorization from Luxembourg for regulated crypto
 The attacker reportedly used a $65.4 million flash loan to obtain a $70.9 million redemption on Summer.fi's Lazy Summer Protocol.
 
 📖 [Read original article](https://www.theblock.co/post/407198/summer-finance-exploited?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. South Korea develops crypto-specific procedures for asset seizures and liquidation: report
-
-**Author:** Danny Park  
-**Published:** 7/6/2026, 8:35:54 AM  
-**Categories:** Policy, Regulation, The Block  
-
-The amendments aim to formalize how courts handle the forced execution of civil judgments against cryptocurrency holdings.
-
-📖 [Read original article](https://www.theblock.co/post/407183/south-korea-crypto-specific-procedure?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. How Sovereign Wealth Funds Invest in Digital Assets
-
-**Author:** The Block Research  
-**Published:** 7/6/2026, 6:14:32 AM  
-**Categories:** -  
-
-Sovereign wealth funds invest in digital assets mainly through regulated vehicles: spot bitcoin exchange-traded funds (ETFs), publicly traded companies with crypto exposure, blockchain infrastructure firms, and venture capital funds. Direct ownership of bitcoin or other tokens remains uncommon, held...
-
-📖 [Read original article](https://www.theblock.co/learn/407186/how-sovereign-wealth-funds-invest-in-digital-assets?utm_source=rss&utm_medium=rss)
 
 ---
