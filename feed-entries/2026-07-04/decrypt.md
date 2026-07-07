@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-04"
 date: "2026-07-04"
 source: "Decrypt"
-count: 3
+count: 2
 ---
 
 # Decrypt - 2026-07-04
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Bitcoin bounced back above $60,000 this week, but increased volatility might be 
 Andy Konwinski used Anthropic's Fable 5 debacle as exhibit A in the case against letting a handful of private labs govern who gets to do AI research.
 
 📖 [Read original article](https://decrypt.co/372755/perplexity-co-founder-ai-safety-excuse-lock-down-frontier)
-
----
-
-## 3. Inside the Trading Engine Behind ChangeNOW’s ‘Fast, Seamless Swaps’
-
-**Author:** Decrypt Staff  
-**Published:** 7/4/2026, 2:01:03 PM  
-**Categories:** , , Technology  
-
-ChangeNOW CSO Pauline Shangett digs into the infrastructure underpinning the exchange’s simple, streamlined frontend.
-
-📖 [Read original article](https://decrypt.co/372679/inside-the-trading-engine-behind-changenows-fast-seamless-swaps)
 
 ---
