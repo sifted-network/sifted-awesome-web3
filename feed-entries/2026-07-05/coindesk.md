@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-05"
 date: "2026-07-05"
 source: "CoinDesk"
-count: 4
+count: 3
 ---
 
 # CoinDesk - 2026-07-05
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ U.S.-linked wallets traded $571 million in political contracts over the past yea
 Financial institutions are racing to become the secure gateways for stablecoins as digital asset volume is projected to explode by 2030.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how)
-
----
-
-## 4. Collateral, not yield, will decide which stablecoins win
-
-**Author:** Artem Tolkachev  
-**Published:** 7/5/2026, 1:00:00 PM  
-**Categories:** Opinion, Opinion  
-
-As yield-bearing stablecoins race toward a $50 billion market capitalization, the industry is optimizing for the wrong metric, argues Artem Tolkachev, chief RWA officer at Falcon Finance.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win)
 
 ---
