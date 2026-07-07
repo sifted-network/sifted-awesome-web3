@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-07-06"
 date: "2026-07-06"
 source: "Cointelegraph"
-count: 18
+count: 21
 ---
 
 # Cointelegraph - 2026-07-06
 
-18 items collected.
+21 items collected.
 
 ---
 
-## 1. Ripple secures full MiCA license for crypto services across Europe
+## 1. Former Tether CIO seeks to sell stake in stablecoin issuer, Bloomberg reports
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/6/2026, 9:57:20 PM  
+**Categories:** Latest News  
+
+The reported transaction comes as Tether maintains it has no plans to go public, even as other crypto companies pursue or delay IPOs.
+
+📖 [Read original article](https://cointelegraph.com/news/former-tether-cio-seeks-to-sell-stake-in-stablecoin-issuer-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitcoin recovers from Strategy's BTC sale, funding rates hit 9%: Are bulls back?
+
+**Author:** Cointelegraph by Marcel Pechman  
+**Published:** 7/6/2026, 9:06:00 PM  
+**Categories:** Markets  
+
+Bitcoin sold off as news of Strategy selling BTC shook investors’ nerve but the quick rebound suggests bulls remain ambitiously positioned.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-recovers-from-strategy-btc-sale-funding-rates-hit-9-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. BonkDAO reports $20M theft from ‘malicious governance proposal’
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/6/2026, 8:55:11 PM  
+**Categories:** Latest News  
+
+The developers behind the memecoin project said they had informed law enforcement after the attack and were working to “recover funds and identify those responsible.”
+
+📖 [Read original article](https://cointelegraph.com/news/bonk-dao-malicious-governance-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Here’s what happened in crypto today
+
+**Author:** Cointelegraph  
+**Published:** 7/6/2026, 8:03:50 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Ripple secures full MiCA license for crypto services across Europe
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/6/2026, 7:29:13 PM  
@@ -23,7 +71,7 @@ The Luxembourg approval completes the company's MiCA licensing process, enabling
 
 ---
 
-## 2. Bitmine announces $74M Ether buys as chair says ‘greater chances of Clarity Act passage’
+## 6. Bitmine announces $74M Ether buys as chair says ‘greater chances of Clarity Act passage’
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/6/2026, 5:27:21 PM  
@@ -35,7 +83,7 @@ Bitmine's big buy contrasts with crypto treasury peer Strategy, which reported s
 
 ---
 
-## 3. UN agency moves Stellar blockchain payment initiative beyond pilot stage
+## 7. UN agency moves Stellar blockchain payment initiative beyond pilot stage
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/6/2026, 5:08:57 PM  
@@ -47,7 +95,7 @@ The UN Development Programme said blockchain payment pilots in five countries cu
 
 ---
 
-## 4. TeraWulf shares rise after $19B Anthropic AI lease, JV sale
+## 8. TeraWulf shares rise after $19B Anthropic AI lease, JV sale
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/6/2026, 4:43:21 PM  
@@ -59,7 +107,7 @@ The Bitcoin miner signed a 20-year AI infrastructure lease with Anthropic and so
 
 ---
 
-## 5. Bitcoin price falls up to 4% on Strategy BTC sale as trader sees Summer 2022 repeat
+## 9. Bitcoin price falls up to 4% on Strategy BTC sale as trader sees Summer 2022 repeat
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/6/2026, 3:22:45 PM  
@@ -71,19 +119,7 @@ Bitcoin wiped out much of its latest gains thanks to a market reaction to Strate
 
 ---
 
-## 6. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/6/2026, 2:06:57 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. FCA warns of major shakeup as AI agents meet tokenized money
+## 10. FCA warns of major shakeup as AI agents meet tokenized money
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 7/6/2026, 1:50:06 PM  
@@ -95,7 +131,7 @@ The FCA’s vision for agentic AI points toward a financial system where program
 
 ---
 
-## 8. Crypto hacks fell 47% in H1 but ecosystem is no safer: CertiK
+## 11. Crypto hacks fell 47% in H1 but ecosystem is no safer: CertiK
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/6/2026, 1:00:00 PM  
@@ -107,7 +143,7 @@ Crypto exploits rose 59% quarter-on-quarter to $807.5 million in Q2, due partly 
 
 ---
 
-## 9. Strategy sells 3,588 Bitcoin for $216M to fund dividends, keeps $2.55B reserve intact
+## 12. Strategy sells 3,588 Bitcoin for $216M to fund dividends, keeps $2.55B reserve intact
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/6/2026, 12:59:04 PM  
@@ -119,7 +155,7 @@ Strategy sold $216 million in Bitcoin to fund its dividend payments, as wealth m
 
 ---
 
-## 10. Belgian regulator flags 6 unauthorized crypto providers after MiCA deadline
+## 13. Belgian regulator flags 6 unauthorized crypto providers after MiCA deadline
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/6/2026, 12:15:20 PM  
@@ -131,7 +167,7 @@ Belgium’s FSMA warned consumers about six crypto-asset service providers it ad
 
 ---
 
-## 11. $60.4K Becomes 'most important area': Five things to know in Bitcoin this week
+## 14. $60.4K Becomes 'most important area': Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/6/2026, 10:25:20 AM  
@@ -143,7 +179,7 @@ Bitcoin saw its highest levels in nearly two weeks at the weekly close, but bull
 
 ---
 
-## 12. South Korea weighs action against Polymarket over gambling concerns
+## 15. South Korea weighs action against Polymarket over gambling concerns
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/6/2026, 9:53:34 AM  
@@ -155,7 +191,7 @@ South Korea’s media and communications review body will hear from Polymarket b
 
 ---
 
-## 13. Dormant $1.9M Bitcoin tied to New York lawsuit moves after nearly 15 years
+## 16. Dormant $1.9M Bitcoin tied to New York lawsuit moves after nearly 15 years
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/6/2026, 9:20:14 AM  
@@ -167,7 +203,7 @@ A Bitcoin address dormant for nearly 15 years moved $1.9 million in BTC as a New
 
 ---
 
-## 14. Nigel Farage accepted gifts from crypto-linked fraudster: Report
+## 17. Nigel Farage accepted gifts from crypto-linked fraudster: Report
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/6/2026, 6:02:55 AM  
@@ -179,7 +215,7 @@ Before he was an MP, Nigel Farage was reportedly gifted staff, security and othe
 
 ---
 
-## 15. Stablecoin transaction volume hits record $1.79T in June
+## 18. Stablecoin transaction volume hits record $1.79T in June
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/6/2026, 5:44:54 AM  
@@ -191,7 +227,7 @@ Stablecoins are maturing and are positioned for even greater reach as the market
 
 ---
 
-## 16. Thousands of crypto wallets at risk from ‘Ill Bloom’ vulnerability: Coinspect
+## 19. Thousands of crypto wallets at risk from ‘Ill Bloom’ vulnerability: Coinspect
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/6/2026, 5:35:58 AM  
@@ -203,7 +239,7 @@ Thousands of crypto wallets across multiple blockchains could be vulnerable due 
 
 ---
 
-## 17. Central bankers sound alarms over agentic AI finance risks
+## 20. Central bankers sound alarms over agentic AI finance risks
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/6/2026, 3:30:19 AM  
@@ -215,7 +251,7 @@ Thousands of crypto wallets across multiple blockchains could be vulnerable due 
 
 ---
 
-## 18. Trump’s memecoin holders have lost over $3.8B: Report
+## 21. Trump’s memecoin holders have lost over $3.8B: Report
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/6/2026, 3:12:14 AM  
