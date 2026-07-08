@@ -6,30 +6,30 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [rollup](https://github.com/rollup/rollup) | 26,300 | 1,759 | JavaScript | 583 | Next-generation ES module bundler | 2026-07-07 |
-| 2 | [rolldown](https://github.com/rolldown/rolldown) | 13,815 | 813 | Rust | 238 | Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API. | 2026-07-07 |
-| 3 | [tsdx](https://github.com/jaredpalmer/tsdx) | 11,472 | 500 | TypeScript | 4 | Zero-config CLI for TypeScript package development | 2026-02-09 |
+| 1 | [rollup](https://github.com/rollup/rollup) | 26,300 | 1,760 | JavaScript | 583 | Next-generation ES module bundler | 2026-07-07 |
+| 2 | [rolldown](https://github.com/rolldown/rolldown) | 13,821 | 822 | Rust | 242 | Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API. | 2026-07-08 |
+| 3 | [tsdx](https://github.com/jaredpalmer/tsdx) | 11,470 | 500 | TypeScript | 4 | Zero-config CLI for TypeScript package development | 2026-02-09 |
 | 4 | [microbundle](https://github.com/developit/microbundle) | 8,134 | 358 | JavaScript | 76 | 📦 Zero-configuration bundler for tiny modules. | 2026-02-01 |
-| 5 | [optimism](https://github.com/ethereum-optimism/optimism) | 6,450 | 3,987 | Go | 725 | Optimism is Ethereum, scaled. | 2026-07-07 |
+| 5 | [optimism](https://github.com/ethereum-optimism/optimism) | 6,451 | 3,990 | Go | 722 | Optimism is Ethereum, scaled. | 2026-07-08 |
 | 6 | [parser](https://github.com/postlight/parser) | 5,786 | 528 | JavaScript | 95 | 📜 Extract meaningful content from the chaos of a web page | 2024-07-10 |
 | 7 | [wmr](https://github.com/preactjs/wmr) | 4,923 | 107 | JavaScript | 66 | 👩‍🚀 The tiny all-in-one development tool for modern web apps. | 2024-03-19 |
-| 8 | [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) | 4,885 | 639 | TypeScript | 3 | 🥳 Really simple Electron + Vite + Vue boilerplate. | 2026-07-01 |
+| 8 | [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) | 4,886 | 637 | TypeScript | 3 | 🥳 Really simple Electron + Vite + Vue boilerplate. | 2026-07-01 |
 | 9 | [create-react-library](https://github.com/transitive-bullshit/create-react-library) | 4,758 | 291 | JavaScript | 118 | CLI for creating reusable react libraries. | 2023-04-04 |
-| 10 | [monaco-react](https://github.com/suren-atoyan/monaco-react) | 4,726 | 320 | TypeScript | 14 | Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins | 2026-04-20 |
-| 11 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,565 | 2,277 | Rust | 25 | A based rollup protocol for Ethereum🥁  | 2026-07-07 |
+| 10 | [monaco-react](https://github.com/suren-atoyan/monaco-react) | 4,725 | 320 | TypeScript | 14 | Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins | 2026-04-20 |
+| 11 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,565 | 2,278 | Rust | 25 | A based rollup protocol for Ethereum🥁  | 2026-07-08 |
 | 12 | [angular-seed](https://github.com/mgechev/angular-seed) | 4,526 | 1,410 | TypeScript | 21 | 🌱 [Deprecated] Extensible, reliable, modular, PWA ready starter project for Angular (2 and beyond) with statically typed build and AoT compilation | 2025-09-15 |
 | 13 | [chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) | 4,125 | 243 | TypeScript | 18 | Build cross-browser extensions with native HMR and zero-config setup | 2026-07-05 |
 | 14 | [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) | 3,786 | 217 | TypeScript | 69 | Auto import APIs on-demand for Vite, Webpack and Rollup | 2026-01-14 |
-| 15 | [plugins](https://github.com/rollup/plugins) | 3,755 | 630 | JavaScript | 24 | 🍣  The one-stop shop for official Rollup plugins | 2026-05-29 |
+| 15 | [plugins](https://github.com/rollup/plugins) | 3,754 | 630 | JavaScript | 24 | 🍣  The one-stop shop for official Rollup plugins | 2026-05-29 |
 | 16 | [unplugin](https://github.com/unjs/unplugin) | 3,597 | 152 | TypeScript | 36 | Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more | 2026-06-29 |
-| 17 | [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) | 3,253 | 169 | C# | 61 | SmartSystemMenu extends system menu of all windows in the system | 2026-07-05 |
+| 17 | [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) | 3,252 | 169 | C# | 61 | SmartSystemMenu extends system menu of all windows in the system | 2026-07-05 |
 | 18 | [vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) | 3,034 | 294 | TypeScript | 218 | Module Federation for vite & rollup | 2025-05-17 |
 | 19 | [awesome](https://github.com/rollup/awesome) | 2,705 | 144 | - | 1 | ⚡️ Delightful Rollup Plugins, Packages, and Resources | 2026-03-10 |
 | 20 | [callapp-lib](https://github.com/suanmei/callapp-lib) | 2,554 | 348 | TypeScript | 22 | 🔥call app from h5（H5唤起客户端 ） | 2024-05-06 |
 | 21 | [rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) | 2,394 | 80 | TypeScript | 12 | 📈⚖️ Visuallize your bundle | 2026-03-18 |
 | 22 | [vue-macros](https://github.com/vue-macros/vue-macros) | 1,984 | 121 | TypeScript | 22 | Explore and extend more macros and syntax sugar to Vue. | 2026-07-02 |
-| 23 | [workflow](https://github.com/luoxue-victor/workflow) | 1,970 | 284 | JavaScript | 22 | 一个工作流平台 | 2021-11-26 |
-| 24 | [ts-monorepo](https://github.com/NiGhTTraX/ts-monorepo) | 1,624 | 177 | TypeScript | 1 | Template for setting up a TypeScript monorepo | 2026-07-06 |
+| 23 | [workflow](https://github.com/luoxue-victor/workflow) | 1,971 | 283 | JavaScript | 22 | 一个工作流平台 | 2021-11-26 |
+| 24 | [ts-monorepo](https://github.com/NiGhTTraX/ts-monorepo) | 1,624 | 177 | TypeScript | 1 | Template for setting up a TypeScript monorepo | 2026-07-07 |
 | 25 | [pkgroll](https://github.com/privatenumber/pkgroll) | 1,556 | 44 | TypeScript | 16 | 📦  Zero-config package bundler for Node.js + TypeScript | 2026-06-27 |
 | 26 | [unplugin-dts](https://github.com/qmhc/unplugin-dts) | 1,527 | 110 | TypeScript | 14 | An unplugin for generating declaration (dts) files. | 2026-06-24 |
 | 27 | [template.js](https://github.com/yanhaijing/template.js) | 1,319 | 487 | JavaScript | 4 | A javascript template engine, simple, easy & extras, support webpack, rspack, vite, rollup, esbuild, parcel, browserify, fis and gulp. | 2025-03-16 |
@@ -41,19 +41,19 @@
 | 33 | [jsbundling-rails](https://github.com/rails/jsbundling-rails) | 922 | 153 | Ruby | 4 | Bundle and transpile JavaScript in Rails with esbuild, rollup.js, bun, or Webpack. | 2026-05-30 |
 | 34 | [bundlejs](https://github.com/okikio/bundlejs) | 914 | 19 | TypeScript | 12 | An online tool to quickly bundle & minify your projects, while viewing the compressed gzip/brotli bundle size, all running locally on your browser. | 2026-04-06 |
 | 35 | [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) | 912 | 396 | Rust | 23 | OpenZeppelin Contracts written in Cairo for Starknet, a decentralized ZK Rollup | 2026-07-06 |
-| 36 | [ethrex](https://github.com/lambdaclass/ethrex) | 884 | 208 | Rust | 657 | Minimalist, stable, modular, fast, and ZK native implementation of the Ethereum protocol in Rust. L1 and L2 execution client. | 2026-07-06 |
+| 36 | [ethrex](https://github.com/lambdaclass/ethrex) | 884 | 208 | Rust | 656 | Minimalist, stable, modular, fast, and ZK native implementation of the Ethereum protocol in Rust. L1 and L2 execution client. | 2026-07-08 |
 | 37 | [rollup-plugin-dts](https://github.com/Swatinem/rollup-plugin-dts) | 873 | 85 | TypeScript | 18 | A rollup plugin to generate .d.ts rollup files for your typescript project | 2026-06-29 |
 | 38 | [rollup-plugin-vue](https://github.com/vuejs/rollup-plugin-vue) | 841 | 145 | TypeScript | 54 | Roll .vue files | 2022-01-18 |
 | 39 | [rollup-plugin-typescript2](https://github.com/ezolenko/rollup-plugin-typescript2) | 829 | 71 | TypeScript | 19 | Rollup plugin for typescript with compiler errors. | 2026-04-17 |
 | 40 | [serverless-plugin-typescript](https://github.com/serverless/serverless-plugin-typescript) | 795 | 224 | TypeScript | 93 | Serverless plugin for zero-config Typescript support | 2026-05-12 |
-| 41 | [react-component-library](https://github.com/HarveyD/react-component-library) | 782 | 156 | JavaScript | 12 | A project skeleton to get your very own React Component Library up and running using Rollup, Typescript, SASS + Storybook  | 2023-01-10 |
+| 41 | [react-component-library](https://github.com/HarveyD/react-component-library) | 781 | 156 | JavaScript | 12 | A project skeleton to get your very own React Component Library up and running using Rollup, Typescript, SASS + Storybook  | 2023-01-10 |
 | 42 | [sonda](https://github.com/filipsobol/sonda) | 777 | 25 | TypeScript | 3 | Universal visualizer and analyzer for JavaScript and CSS. Compatible with most bundlers and frameworks | 2026-07-05 |
-| 43 | [declarative-lookup-rollup-summaries](https://github.com/SFDO-Community/declarative-lookup-rollup-summaries) | 718 | 244 | Apex | 111 | Declarative Lookup Rollup Summaries (DLRS) is a community built and maintained Salesforce application that allows you to create cross object roll-ups declaratively - no code! For install instructions ... | 2026-04-25 |
+| 43 | [declarative-lookup-rollup-summaries](https://github.com/SFDO-Community/declarative-lookup-rollup-summaries) | 719 | 244 | Apex | 111 | Declarative Lookup Rollup Summaries (DLRS) is a community built and maintained Salesforce application that allows you to create cross object roll-ups declaratively - no code! For install instructions ... | 2026-04-25 |
 | 44 | [rollup-plugin-babel](https://github.com/rollup/rollup-plugin-babel) | 702 | 70 | JavaScript | 0 | This package has moved and is now available at @rollup/plugin-babel / https://github.com/rollup/plugins/tree/master/packages/babel | 2020-04-29 |
 | 45 | [rollup-plugin-postcss](https://github.com/egoist/rollup-plugin-postcss) | 690 | 210 | JavaScript | 132 | Seamless integration between Rollup and PostCSS. | 2024-02-28 |
 | 46 | [heimdallr-sdk](https://github.com/LucivHuang/heimdallr-sdk) | 687 | 137 | TypeScript | 4 | A lightweight front-end monitoring sdk/一款简单易用、轻量化、插件化的前端监控sdk | 2025-03-15 |
 | 47 | [vue-sfc-rollup](https://github.com/team-innovation/vue-sfc-rollup) | 683 | 89 | JavaScript | 0 | Quickly generate redistributable Vue components with Rollup | 2023-01-07 |
-| 48 | [bundle-stats](https://github.com/relative-ci/bundle-stats) | 671 | 22 | TypeScript | 27 | Analyze bundle stats(bundle size, assets, modules, packages) and compare the results between different builds. Support for webpack, rspack, vite, rolldown and rollup. | 2026-07-07 |
+| 48 | [bundle-stats](https://github.com/relative-ci/bundle-stats) | 671 | 22 | TypeScript | 27 | Analyze bundle stats(bundle size, assets, modules, packages) and compare the results between different builds. Support for webpack, rspack, vite, rolldown and rollup. | 2026-07-08 |
 | 49 | [magi](https://github.com/a16z/magi) | 641 | 109 | Rust | 9 | A blazing fast OP Stack rollup client written in Rust | 2024-08-16 |
 | 50 | [react-svg-loader](https://github.com/boopathi/react-svg-loader) | 641 | 86 | TypeScript | 19 | A loader for webpack, rollup, babel that loads svg as a React Component | 2023-03-08 |
 | 51 | [rollup-plugin-esbuild](https://github.com/egoist/rollup-plugin-esbuild) | 640 | 40 | TypeScript | 13 | Use ESBuild with Rollup to transform ESNext and TypeScript code. | 2026-04-02 |
@@ -66,7 +66,7 @@
 | 58 | [electron-vite-template](https://github.com/umbrella22/electron-vite-template) | 511 | 129 | TypeScript | 5 | This project is a vue3 + Vite + electron project template composed of Vite and rollup. It has the same functions as my previous electron+Vue+template project | 2026-03-02 |
 | 59 | [preact-pwa](https://github.com/ezekielchentnik/preact-pwa) | 504 | 36 | JavaScript | 7 | Super fast progressive web app with small footprint & minimal dependancies | 2017-08-12 |
 | 60 | [rollup-plugin-commonjs](https://github.com/rollup/rollup-plugin-commonjs) | 501 | 111 | JavaScript | 0 | This module has moved and is now available at @rollup/plugin-commonjs / https://github.com/rollup/plugins/blob/master/packages/commonjs | 2019-12-21 |
-| 61 | [zod-compiler](https://github.com/gajus/zod-compiler) | 500 | 6 | TypeScript | 0 | Compile Zod schemas into zero-overhead validation functions at build time. Works with Vite, webpack, esbuild, Rollup, etc | 2026-06-18 |
+| 61 | [zod-compiler](https://github.com/gajus/zod-compiler) | 501 | 6 | TypeScript | 0 | Compile Zod schemas into zero-overhead validation functions at build time. Works with Vite, webpack, esbuild, Rollup, etc | 2026-06-18 |
 | 62 | [rollup-plugin-ts](https://github.com/wessberg/rollup-plugin-ts) | 492 | 33 | TypeScript | 41 | A TypeScript Rollup plugin that bundles declarations, respects Browserslists, and enables seamless integration with transpilers such as babel and swc | 2024-09-30 |
 | 63 | [nollup](https://github.com/PepsRyuu/nollup) | 487 | 29 | JavaScript | 21 | Rollup compatible development bundler for fast rebuilds and HMR. | 2024-05-25 |
 | 64 | [rollup-plugin-node-resolve](https://github.com/rollup/rollup-plugin-node-resolve) | 469 | 83 | JavaScript | 0 | This module has moved and is now available at @rollup/plugin-node-resolve / https://github.com/rollup/plugins/blob/master/packages/node-resolve | 2019-12-02 |
@@ -78,7 +78,7 @@
 | 70 | [flopflip](https://github.com/tdeekens/flopflip) | 410 | 42 | JavaScript | 3 | 🎚Flip or flop features in your React application in real-time backed by flag provider of your choice 🚦 | 2026-07-06 |
 | 71 | [simple-cloud-music](https://github.com/dufu1991/simple-cloud-music) | 407 | 42 | Svelte | 0 | 简洁的的第三方网易云音乐播放器 | 2024-12-09 |
 | 72 | [rocket](https://github.com/modernweb-dev/rocket) | 392 | 52 | JavaScript | 5 | The modern web setup for static sites with a sprinkle of JavaScript | 2026-06-20 |
-| 73 | [vitext](https://github.com/Aslemammad/vitext) | 392 | 5 | TypeScript | 13 | The Next.js like React framework for better User & Developer experience! | 2022-01-10 |
+| 73 | [vitext](https://github.com/Aslemammad/vitext) | 391 | 5 | TypeScript | 13 | The Next.js like React framework for better User & Developer experience! | 2022-01-10 |
 | 74 | [rollupify](https://github.com/nolanlawson/rollupify) | 385 | 16 | JavaScript | 3 | Browserify transform to apply Rollup (UNMAINTAINED) | 2018-10-28 |
 | 75 | [SmartContextMenu](https://github.com/AlexanderPro/SmartContextMenu) | 365 | 20 | C# | 25 | Smart context menu for all windows in the system | 2026-07-06 |
 | 76 | [rollup](https://github.com/ankane/rollup) | 351 | 18 | Ruby | 1 | Rollup time-series data in Rails | 2026-06-29 |
@@ -88,7 +88,7 @@
 | 80 | [rollup-starter-project](https://github.com/rollup/rollup-starter-project) | 324 | 58 | JavaScript | 3 | Sample project for packages built using rollup. | 2017-11-17 |
 | 81 | [react-modern-library-boilerplate](https://github.com/transitive-bullshit/react-modern-library-boilerplate) | 324 | 46 | JavaScript | 7 | Boilerplate for publishing modern React modules with Rollup | 2020-07-11 |
 | 82 | [rollup-plugin-typescript](https://github.com/rollup/rollup-plugin-typescript) | 323 | 56 | JavaScript | 0 | This module has moved and is now available at @rollup/plugin-typescript / https://github.com/rollup/plugins/blob/master/packages/typescript | 2019-12-03 |
-| 83 | [dctc](https://github.com/SteamedBread2333/dctc) | 322 | 12 | JavaScript | 0 | 🎉TypeScript Execute (tsx): Dynamically compile TSX/TS file and execute it. The easiest way to run .tsx in Nodejs. | 2026-05-08 |
+| 83 | [dctc](https://github.com/SteamedBread2333/dctc) | 323 | 12 | JavaScript | 0 | 🎉TypeScript Execute (tsx): Dynamically compile TSX/TS file and execute it. The easiest way to run .tsx in Nodejs. | 2026-05-08 |
 | 84 | [ionic-boilerplate](https://github.com/marcoturi/ionic-boilerplate) | 321 | 107 | JavaScript | 3 | ✨ An Ionic Starter kit featuring Tests, E2E, Karma, Protractor, Jasmine, Istanbul, Gitlab CI, Automatic IPA and APK, TypeScript 2, TsLint, Codelyzer, Typedoc, Yarn, Rollup, and Webpack 2  | 2022-12-07 |
 | 85 | [vue-electron-template](https://github.com/mubaidr/vue-electron-template) | 319 | 48 | JavaScript | 0 | An Electron & Vue.js template with Hot-reloading enabled and common Vue plugins, dev, debug and build scripts configured. | 2026-03-08 |
 | 86 | [react-spectrum](https://github.com/ganapativs/react-spectrum) | 318 | 8 | TypeScript | 0 | Generate colorful text placeholders 🎨 | 2026-02-28 |
@@ -99,10 +99,10 @@
 | 91 | [rollup-plugin-closure-compiler](https://github.com/ampproject/rollup-plugin-closure-compiler) | 294 | 28 | TypeScript | 21 | Leverage Closure Compiler to minify and optimize JavaScript with Rollup. | 2026-05-25 |
 | 92 | [modular-css](https://github.com/tivac/modular-css) | 291 | 19 | JavaScript | 5 | CSS Modules, but better and usable via Rollup, Vite, Webpack, CLI, PostCSS, or JS API | 2026-07-01 |
 | 93 | [rollup-plugin-copy](https://github.com/vladshcherbin/rollup-plugin-copy) | 281 | 61 | TypeScript | 20 | Copy files and folders using Rollup | 2025-12-29 |
-| 94 | [manager](https://github.com/ovh/manager) | 281 | 115 | TypeScript | 124 | OVHcloud Control Panel | 2026-07-06 |
+| 94 | [manager](https://github.com/ovh/manager) | 281 | 115 | TypeScript | 124 | OVHcloud Control Panel | 2026-07-07 |
 | 95 | [phaser3-rollup-typescript](https://github.com/geocine/phaser3-rollup-typescript) | 279 | 51 | TypeScript | 2 | Phaser 3 TypeScript Starter | 2026-04-06 |
 | 96 | [are-you-es5](https://github.com/obahareth/are-you-es5) | 277 | 22 | TypeScript | 12 | A package to help you find out which of your node_modules aren't ES5 so you can add them to your Webpack/Rollup/Parcel transpilation steps. | 2023-01-04 |
-| 97 | [unplugin-vue](https://github.com/unplugin/unplugin-vue) | 271 | 15 | TypeScript | 6 | ✨ Transform Vue 3 SFC to JavaScript. Supports Vite, esbuild, Rollup, Webpack and more. | 2026-07-06 |
+| 97 | [unplugin-vue](https://github.com/unplugin/unplugin-vue) | 271 | 15 | TypeScript | 6 | ✨ Transform Vue 3 SFC to JavaScript. Supports Vite, esbuild, Rollup, Webpack and more. | 2026-07-07 |
 | 98 | [datacube](https://github.com/urbanairship/datacube) | 270 | 59 | Java | 8 | Multidimensional data storage with rollups for numerical data | 2026-06-30 |
-| 99 | [unplugin-swc](https://github.com/unplugin/unplugin-swc) | 270 | 19 | TypeScript | 7 | SWC plugin for Vite and Rollup | 2026-07-06 |
+| 99 | [unplugin-swc](https://github.com/unplugin/unplugin-swc) | 270 | 19 | TypeScript | 7 | SWC plugin for Vite and Rollup | 2026-07-08 |
 | 100 | [ethernal](https://github.com/tryethernal/ethernal) | 269 | 71 | JavaScript | 7 | Ethernal is a block explorer for EVM-based chains. In a few seconds, spin up a fully-featured explorer for your L1/L2 rollup/testnet. Compatible with Optimism, ZK, Anvil, Hardhat, Geth... | 2026-07-06 |
