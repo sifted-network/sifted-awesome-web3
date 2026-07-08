@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-07"
 date: "2026-07-07"
 source: "The Block"
-count: 14
+count: 9
 ---
 
 # The Block - 2026-07-07
 
-14 items collected.
+9 items collected.
 
 ---
 
@@ -116,65 +116,5 @@ KOR Protocol is building an onchain clearinghouse that helps register and route 
 Mercado Bitcoin has grown from an early crypto exchange into a regulated digital financial services platform.
 
 📖 [Read original article](https://www.theblock.co/post/407463/tether-20-million-behind-mercado-bitcoin-latin-america-tokenization-boom?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Gemini offers 0% stock trading in US as it looks to become ‘all-in-one financial super app’
-
-**Author:** Daniel Kuhn  
-**Published:** 7/7/2026, 3:10:56 PM  
-**Categories:** Companies, Exchanges, Markets, The Block, Gemini  
-
-Gemini said it is looking to become an “all-in-one financial super app" as it launches 0% commission stock trading for eligible U.S. users.
-
-📖 [Read original article](https://www.theblock.co/post/407449/gemini-offers-0-stock-trading-in-us-become-all-in-one-financial-super-app?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Multi-trillion-dollar asset manager Vanguard hiring crypto exec to help influence market
-
-**Author:** RT Watson  
-**Published:** 7/7/2026, 2:36:12 PM  
-**Categories:** Companies, Deals, Institutional Investors, The Block, Asset Managers  
-
-The firm's head of digital assets will lead Vanguard's crypto-related strategy for personal wealth clients and interact with regulators.
-
-📖 [Read original article](https://www.theblock.co/post/407441/vanguard-hiring-crypto-exec-to-help-influence-market?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Bernstein maintains $36 TeraWulf target after $19 billion, 20-year Anthropic lease
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/7/2026, 1:12:34 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, The Block, Web3, AI  
-
-Bernstein held its $36 TeraWulf price target after the miner's $19 billion Anthropic lease and $530 million sale of its Abernathy JV stake.
-
-📖 [Read original article](https://www.theblock.co/post/407429/bernstein-maintains-36-terawulf-target-after-19-billion-20-year-anthropic-lease?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Bitcoin’s early July bounce rides thin summer liquidity as half of supply still sits underwater: analysts
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/7/2026, 12:43:32 PM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, The Block, Token Projects, Bitcoin, Ethereum  
-
-BTC traded around $63,500 after a six-day rally as Wintermute and Bitfinex flagged weak ETF demand, while K33 said 50% of supply is at a loss.
-
-📖 [Read original article](https://www.theblock.co/post/407414/bitcoins-early-july-bounce-rides-thin-summer-liquidity-as-half-of-supply-still-sits-underwater-analysts?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. Coinbase secures UK investment services license to add derivatives and equities trading
-
-**Author:** Brian Danga  
-**Published:** 7/7/2026, 11:41:33 AM  
-**Categories:** Companies, Exchanges, Markets, Policy, Public Equities, Regulation, The Block, Coinbase  
-
-Coinbase secured a UK investment services license to offer derivatives and equities trading in addition to crypto.
-
-📖 [Read original article](https://www.theblock.co/post/407410/coinbase-secures-uk-investment-services-license-to-add-derivatives-and-equities-trading?utm_source=rss&utm_medium=rss)
 
 ---
