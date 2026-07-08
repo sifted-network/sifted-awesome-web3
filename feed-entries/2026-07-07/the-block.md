@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-07"
 date: "2026-07-07"
 source: "The Block"
-count: 19
+count: 18
 ---
 
 # The Block - 2026-07-07
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -224,17 +224,5 @@ The companies said that the development of the country's landmark crypto legisla
 Plaintiffs allege Polymarket wrongly resolved the market as "No" despite Strategy's SEC filing disclosing it sold 32 BTC between May 26 and May 31.
 
 📖 [Read original article](https://www.theblock.co/post/407368/two-traders-sue-polymarket-strategy-bitcoin-sale?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. What Is the U.S. Strategic Bitcoin Reserve?
-
-**Author:** The Block Research  
-**Published:** 7/7/2026, 5:27:23 AM  
-**Categories:** -  
-
-The U.S. Strategic Bitcoin Reserve is a government-held stockpile of bitcoin, established by executive order in March 2025. The order treats Bitcoin as a long-term reserve asset, comparable to how the country holds gold, and directs that the coins placed in the reserve are not to be sold. Almost all...
-
-📖 [Read original article](https://www.theblock.co/learn/407371/what-is-the-u-s-strategic-bitcoin-reserve?utm_source=rss&utm_medium=rss)
 
 ---
