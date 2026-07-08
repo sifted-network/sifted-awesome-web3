@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-06"
 date: "2026-07-06"
 source: "CoinDesk"
-count: 6
+count: 4
 ---
 
 # CoinDesk - 2026-07-06
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ First, it was a tiny amount of bitcoin sales; then, the purchase of several thou
 The "Lean Ethereum" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution)
-
----
-
-## 5. Securitize eyes acquisitions with $400 million war chest after going public, CEO says
-
-**Author:** Krisztian Sandor  
-**Published:** 7/6/2026, 2:25:32 PM  
-**Categories:** Finance, Tokenization, Exclusive, News  
-
-Following its NYSE debut, Securitize CEO Carlos Domingo said the firm wants to expand its institutional tokenization platform rather than buy competitors.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says)
-
----
-
-## 6. Bitcoin miner TeraWulf soars on a $19 billion AI data-center lease with Anthropic
-
-**Author:** Shaurya Malwa  
-**Published:** 7/6/2026, 2:12:15 PM  
-**Categories:** Markets, News  
-
-The onetime pure bitcoin miner signed a 20-year deal to host the AI firm at a Kentucky campus, the latest crypto-adjacent company to trade mining for the steadier money in artificial-intelligence infrastructure.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/06/bitcoin-miner-terawulf-soars-on-a-usd19-billion-ai-data-center-lease-with-anthropic)
 
 ---
