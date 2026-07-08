@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-07"
 date: "2026-07-07"
 source: "CoinDesk"
-count: 19
+count: 17
 ---
 
 # CoinDesk - 2026-07-07
 
-19 items collected.
+17 items collected.
 
 ---
 
@@ -212,29 +212,5 @@ Bitcoin and ether ETFs drew fresh inflows Monday as the bid starts to return.
 The attacker bought enough of the memecoin's tokens to pass a governance proposal that sent the group's holdings to a wallet they controlled, then began selling.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal)
-
----
-
-## 18. XRP stalls near $1.14 as breakout attempt struggles for volume
-
-**Author:** Shaurya Malwa  
-**Published:** 7/7/2026, 4:46:30 AM  
-**Categories:** Markets, News  
-
-Buyers defended the session lows and pushed XRP back toward resistance, but muted overall volume left traders waiting for confirmation above $1.13-$1.14.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/07/xrp-stalls-near-usd1-14-as-breakout-attempt-struggles-for-volume)
-
----
-
-## 19. Bitcoin drops after a run at $64,000, shrugging off Strategy's $213 million BTC sale
-
-**Author:** Shaurya Malwa  
-**Published:** 7/7/2026, 4:33:15 AM  
-**Categories:** Markets, News  
-
-The token touched $64,400 overnight before easing back, still up about 6% on the week. A fresh missile strike on a Qatari gas ship in the Strait of Hormuz lifted oil and tested the late-June peace deal as Asian tech sold off again.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/07/bitcoin-drops-after-a-run-at-usd64-000-shrugging-off-strategy-s-usd213-million-btc-sale)
 
 ---
