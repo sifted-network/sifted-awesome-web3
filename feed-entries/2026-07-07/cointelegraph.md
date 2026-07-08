@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-07"
 date: "2026-07-07"
 source: "Cointelegraph"
-count: 13
+count: 7
 ---
 
 # Cointelegraph - 2026-07-07
 
-13 items collected.
+7 items collected.
 
 ---
 
@@ -92,77 +92,5 @@ Dune data shows Tether's USDT has become crypto’s dominant payments stablecoin
 Mercado Bitcoin will use the funding to expand tokenized finance across Latin America, adding to Tether's growing portfolio of infrastructure investments.
 
 📖 [Read original article](https://cointelegraph.com/news/tether-invests-20m-in-mercado-bitcoin-to-expand-tokenized-finance-in-latin-america?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Nigel Farage to resign from UK Parliament amid crypto “gift” scandal, will stand in by-election
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 7/7/2026, 4:27:19 PM  
-**Categories:** Latest News  
-
-The Reform party leader and Brexit champion confirmed that he was the subject of probes by UK authorities following reports of what he called “gifts” from figures tied to crypto ventures.
-
-📖 [Read original article](https://cointelegraph.com/news/nigel-farage-resigns-crypto-donation-scandal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Institutional crypto exchange EDX lands $76M from SBI Holdings
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 7/7/2026, 4:16:35 PM  
-**Categories:** Latest News  
-
-The funding round comes as institutional investors continue backing crypto market infrastructure despite slower venture investment across the digital asset sector.
-
-📖 [Read original article](https://cointelegraph.com/news/institutional-crypto-exchange-edx-lands-76m-from-sbi-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Bitcoin bulls battle for $63K as Micron stock eyes 10% drop in US chip sell-off
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/7/2026, 3:13:25 PM  
-**Categories:** Markets  
-
-Bitcoin came off two-week highs while US stocks dipped and John Bollinger described BTC price action as "at a critical point."
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-bulls-battle-for-63k-as-micron-stock-eyes-10-drop-in-us-chip-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Bitcoin Covenants part 3: SIGHASH_ANYPREVOUT
-
-**Author:** Cointelegraph by Kyrian Alex  
-**Published:** 7/7/2026, 3:00:00 PM  
-**Categories:** Research  
-
-APO lets a Bitcoin signature authorize any compatible UTXO rather than one fixed outpoint. It allows for rebindable pre-signed transactions for Lightning, vaults, and layer-2 protocols without new key management overhead.
-
-📖 [Read original article](https://cointelegraph.com/research/bitcoin-covenants-part-3-sighash-anyprevout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Has Bitcoin bottomed for this cycle? Analysts say 'not yet'
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 7/7/2026, 1:30:00 PM  
-**Categories:** Features  
-
-Some Bitcoin analysts point to a deeper downside risk, while others believes they can see the early signs of a recovery.
-
-📖 [Read original article](https://cointelegraph.com/features/how-much-longer-until-bitcoin-finds-cycle-bottom-analysts-disagree?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Bitcoin nears cycle bottom as over half of supply is held at a loss, says K33
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/7/2026, 1:29:49 PM  
-**Categories:** Latest News  
-
-K33 said Bitcoin has historically bottomed within weeks of more than half of its circulating supply being held at a loss, with strong one-year returns following in most previous cycles.
-
-📖 [Read original article](https://cointelegraph.com/news/half-bitcoins-supply-at-loss-cycle-bottom-k33?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
