@@ -2,16 +2,88 @@
 title: "Cointelegraph - 2026-07-08"
 date: "2026-07-08"
 source: "Cointelegraph"
-count: 17
+count: 23
 ---
 
 # Cointelegraph - 2026-07-08
 
-17 items collected.
+23 items collected.
 
 ---
 
-## 1. India crypto tax filings lag trading activity: Report
+## 1. Bitcoin peels back to $62K as Fed-wary futures traders cut risk: Is the BTC rally over?
+
+**Author:** Cointelegraph  
+**Published:** 7/8/2026, 6:41:25 PM  
+**Categories:** Markets  
+
+Bitcoin hovered around the $62,000 mark following a spike in oil prices, escalating hot war in Iran and traders’ move to cut risk ahead of a Federal Reserve policy statement.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-peels-back-to-62k-as-fed-wary-futures-traders-cut-risk-is-the-btc-rally-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Adam Back’s Bitcoin treasury company seeks new terms with Cantor for SPAC merger
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/8/2026, 5:31:36 PM  
+**Categories:** Latest News  
+
+The Bitcoin Standard Treasury Company and Cantor Equity Partners I announced that they were looking into amending the terms of a 2025 merger deal that “better reflected market conditions.”
+
+📖 [Read original article](https://cointelegraph.com/news/adam-back-bitcoin-treasury-company-terms-spac?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Stablecoin-settled TradFi perpetual trading tops $1.1T: Binance Research
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/8/2026, 5:23:19 PM  
+**Categories:** Latest News  
+
+A new Binance Research report said stablecoins are fast becoming a preferred settlement layer for tokenized TradFi markets while gaining traction in payments and savings.
+
+📖 [Read original article](https://cointelegraph.com/news/tradfi-perpetual-trading-surpasses-11t-in-2026-binance-research-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bank of England governor denies Farage lobbying swayed CBDC policy: Report
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/8/2026, 5:11:05 PM  
+**Categories:** Latest News  
+
+Andrew Bailey reportedly said Bank of England policy remained independent after a meeting with Nigel Farage that included discussions on cryptocurrency.
+
+📖 [Read original article](https://cointelegraph.com/news/bank-of-england-governor-denies-farage-lobbying-swayed-cbdc-policy-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Bitcoin slides as Iran ceasefire collapse sees $75 oil on Hormuz blockade threats
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/8/2026, 3:35:31 PM  
+**Categories:** Markets  
+
+Bitcoin price pressure took BTC toward the "crucial" $61,000 mark as oil prices soared on the collapse of the US-Iran ceasefire.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-slides-as-iran-ceasefire-collapse-brings-back-hormuz-blockade-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Bull Bitcoin asks French court to strike down DAC8 implementing decree
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 7/8/2026, 1:36:44 PM  
+**Categories:** Latest News  
+
+The non-custodial Bitcoin exchange petitioned to annul a French decree implementing DAC8, arguing the rules could create surveillance and physical risks for up to 135 million European crypto holders.
+
+📖 [Read original article](https://cointelegraph.com/news/bull-bitcoin-legal-action-france-dac8?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. India crypto tax filings lag trading activity: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/8/2026, 1:31:15 PM  
@@ -23,7 +95,7 @@ India’s tax department reportedly found that fewer than a quarter of the 645,0
 
 ---
 
-## 2. The 5 types of real world assets being tokenized fastest onchain
+## 8. The 5 types of real world assets being tokenized fastest onchain
 
 **Author:** Cointelegraph by Aaron Wood  
 **Published:** 7/8/2026, 1:30:00 PM  
@@ -35,7 +107,7 @@ Tokenized Real World Assets span treasuries, real estate, stocks, commodities an
 
 ---
 
-## 3. Kazakhstan president signs decree to accelerate crypto adoption
+## 9. Kazakhstan president signs decree to accelerate crypto adoption
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/8/2026, 1:19:28 PM  
@@ -47,7 +119,7 @@ Kazakhstan targets gas-powered electricity for mining, income tax exemptions for
 
 ---
 
-## 4. BTC speculators in focus as analysis says 'textbook Bitcoin bottom' is underway
+## 10. BTC speculators in focus as analysis says 'textbook Bitcoin bottom' is underway
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/8/2026, 12:59:06 PM  
@@ -59,7 +131,7 @@ Analysis flagged a Bitcoin moving average derivative that last triggered at the 
 
 ---
 
-## 5. Here’s what happened in crypto today
+## 11. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/8/2026, 12:43:17 PM  
@@ -71,7 +143,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 6. Lyn Alden says Bitcoin needs no savior as Strategy sells $216M of BTC
+## 12. Lyn Alden says Bitcoin needs no savior as Strategy sells $216M of BTC
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/8/2026, 12:01:00 PM  
@@ -83,7 +155,7 @@ Bitcoin-focused macroeconomist Lyn Alden said BTC must stand on its own as Strat
 
 ---
 
-## 7. Mobile app Toss and blockchain Optimism to conduct Korean won stablecoin POC : report
+## 13. Mobile app Toss and blockchain Optimism to conduct Korean won stablecoin POC: report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/8/2026, 11:33:11 AM  
@@ -95,7 +167,7 @@ Toss has reportedly partnered with Optimism and Sunnyside Labs for a proof of co
 
 ---
 
-## 8. ESMA turns spotlight on crypto custody risks after MiCA transition
+## 14. ESMA turns spotlight on crypto custody risks after MiCA transition
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/8/2026, 10:49:21 AM  
@@ -107,7 +179,7 @@ The EU securities regulator will assess custody providers’ key management, inc
 
 ---
 
-## 9. Kalshi files same-day appeal of NY court's rejection of bid to block state gambling law enforcement
+## 15. Kalshi files same-day appeal of NY court's rejection of bid to block state gambling law enforcement
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/8/2026, 10:37:52 AM  
@@ -119,7 +191,7 @@ Kalshi appealed to the Second Circuit after a New York federal judge denied its 
 
 ---
 
-## 10. Berachain hard fork to replace dual-token model with WBERA rewards
+## 16. Berachain hard fork to replace dual-token model with WBERA rewards
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/8/2026, 10:21:12 AM  
@@ -131,7 +203,7 @@ Berachain launched the first stage of its PoL Next upgrade, which will phase out
 
 ---
 
-## 11. Base to activate B20 standard for stablecoins, RWAs and other tokens
+## 17. Base to activate B20 standard for stablecoins, RWAs and other tokens
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/8/2026, 8:46:02 AM  
@@ -143,7 +215,7 @@ Base is scheduled to activate its B20 token standard on Wednesday at 6 pm UTC, a
 
 ---
 
-## 12. EU to again vote to extend ‘chat control’ rules
+## 18. EU to again vote to extend ‘chat control’ rules
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/8/2026, 6:33:46 AM  
@@ -155,7 +227,7 @@ So-called “chat control” rules could be revived in the EU, with lawmakers ag
 
 ---
 
-## 13. StarkWare CEO suggests 4% annual Bitcoin inflation to replace 21M cap
+## 19. StarkWare CEO suggests 4% annual Bitcoin inflation to replace 21M cap
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/8/2026, 5:48:42 AM  
@@ -167,7 +239,7 @@ StarkWare CEO Eli Ben-Sasson argued that Bitcoin private keys get lost over time
 
 ---
 
-## 14. Swyftx eyes crypto payments after securing Australian license
+## 20. Swyftx eyes crypto payments after securing Australian license
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/8/2026, 5:30:03 AM  
@@ -179,7 +251,7 @@ Swyftx interim co-CEO Andrea Yuen says the company "won’t be a pure crypto spo
 
 ---
 
-## 15. Secret Network cites AI exploit risks in proposed Arbitrum move
+## 21. Secret Network cites AI exploit risks in proposed Arbitrum move
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/8/2026, 3:54:27 AM  
@@ -191,7 +263,7 @@ Swyftx interim co-CEO Andrea Yuen says the company "won’t be a pure crypto spo
 
 ---
 
-## 16. CFTC charges commodity, crypto pool operator with $14M fraud
+## 22. CFTC charges commodity, crypto pool operator with $14M fraud
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/8/2026, 3:25:30 AM  
@@ -203,7 +275,7 @@ The CFTC has launched a rare crypto-related enforcement action against a commodi
 
 ---
 
-## 17. Strike launches ‘volatility-proof’ Bitcoin loans amid bear market, but at a cost
+## 23. Strike launches ‘volatility-proof’ Bitcoin loans amid bear market, but at a cost
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/8/2026, 2:40:13 AM  
