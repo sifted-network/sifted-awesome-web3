@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-07"
 date: "2026-07-07"
 source: "Cointelegraph"
-count: 29
+count: 23
 ---
 
 # Cointelegraph - 2026-07-07
 
-29 items collected.
+23 items collected.
 
 ---
 
@@ -59,19 +59,7 @@ The proposed bonds to be backed by cryptocurrency still need approval from New H
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/7/2026, 7:39:15 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Kraken wins $22M arbitration against former auditor Mazars
+## 5. Kraken wins $22M arbitration against former auditor Mazars
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/7/2026, 7:31:03 PM  
@@ -83,7 +71,7 @@ The crypto exchange's parent company says Mazars' withdrawal from its 2022 audit
 
 ---
 
-## 7. USDT wins payments, USDC wins DeFi as stablecoins diverge: Dune
+## 6. USDT wins payments, USDC wins DeFi as stablecoins diverge: Dune
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/7/2026, 6:05:08 PM  
@@ -95,7 +83,7 @@ Dune data shows Tether's USDT has become crypto’s dominant payments stablecoin
 
 ---
 
-## 8. Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America
+## 7. Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/7/2026, 4:43:07 PM  
@@ -107,7 +95,7 @@ Mercado Bitcoin will use the funding to expand tokenized finance across Latin Am
 
 ---
 
-## 9. Nigel Farage to resign from UK Parliament amid crypto “gift” scandal, will stand in by-election
+## 8. Nigel Farage to resign from UK Parliament amid crypto “gift” scandal, will stand in by-election
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/7/2026, 4:27:19 PM  
@@ -119,7 +107,7 @@ The Reform party leader and Brexit champion confirmed that he was the subject of
 
 ---
 
-## 10. Institutional crypto exchange EDX lands $76M from SBI Holdings
+## 9. Institutional crypto exchange EDX lands $76M from SBI Holdings
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/7/2026, 4:16:35 PM  
@@ -131,7 +119,7 @@ The funding round comes as institutional investors continue backing crypto marke
 
 ---
 
-## 11. Bitcoin bulls battle for $63K as Micron stock eyes 10% drop in US chip sell-off
+## 10. Bitcoin bulls battle for $63K as Micron stock eyes 10% drop in US chip sell-off
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/7/2026, 3:13:25 PM  
@@ -143,7 +131,7 @@ Bitcoin came off two-week highs while US stocks dipped and John Bollinger descri
 
 ---
 
-## 12. Bitcoin Covenants part 3: SIGHASH_ANYPREVOUT
+## 11. Bitcoin Covenants part 3: SIGHASH_ANYPREVOUT
 
 **Author:** Cointelegraph by Kyrian Alex  
 **Published:** 7/7/2026, 3:00:00 PM  
@@ -155,7 +143,7 @@ APO lets a Bitcoin signature authorize any compatible UTXO rather than one fixed
 
 ---
 
-## 13. Has Bitcoin bottomed for this cycle? Analysts say 'not yet'
+## 12. Has Bitcoin bottomed for this cycle? Analysts say 'not yet'
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 7/7/2026, 1:30:00 PM  
@@ -167,7 +155,7 @@ Some Bitcoin analysts point to a deeper downside risk, while others believes the
 
 ---
 
-## 14. Bitcoin nears cycle bottom as over half of supply is held at a loss, says K33
+## 13. Bitcoin nears cycle bottom as over half of supply is held at a loss, says K33
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/7/2026, 1:29:49 PM  
@@ -179,7 +167,7 @@ K33 said Bitcoin has historically bottomed within weeks of more than half of its
 
 ---
 
-## 15. EU lawmakers adopt digital assets policy stance after MiCA transition ends
+## 14. EU lawmakers adopt digital assets policy stance after MiCA transition ends
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/7/2026, 12:36:45 PM  
@@ -191,7 +179,7 @@ The European Parliament adopted a digital assets report calling for further asse
 
 ---
 
-## 16. Coinbase gets UK license to expand into derivatives, equities
+## 15. Coinbase gets UK license to expand into derivatives, equities
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/7/2026, 11:52:30 AM  
@@ -203,7 +191,7 @@ Coinbase said its UK investment services authorization will allow institutional 
 
 ---
 
-## 17. Ctrl Wallet to shut weeks after security exploit
+## 16. Ctrl Wallet to shut weeks after security exploit
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/7/2026, 10:48:00 AM  
@@ -215,7 +203,7 @@ The move follows a June 23 exploit that has now resulted in closing down the wal
 
 ---
 
-## 18. Vitalik Buterin confirms AI identified his anonymous Ethereum proposal contribution
+## 17. Vitalik Buterin confirms AI identified his anonymous Ethereum proposal contribution
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/7/2026, 10:27:04 AM  
@@ -227,7 +215,7 @@ The Ethereum co-founder said AI recognized his intellectual habits, ending a two
 
 ---
 
-## 19. Bitcoin can fall below $58K if one of its 'cleanest' metrics copies history: Analysis
+## 18. Bitcoin can fall below $58K if one of its 'cleanest' metrics copies history: Analysis
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/7/2026, 10:14:40 AM  
@@ -239,7 +227,7 @@ Bitcoin NUPL metric data suggested that BTC price action should make new cycle l
 
 ---
 
-## 20. Digital Chamber amicus brief urges dismissal of NY lawsuit over 39,069 Bitcoin wallets
+## 19. Digital Chamber amicus brief urges dismissal of NY lawsuit over 39,069 Bitcoin wallets
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/7/2026, 9:23:39 AM  
@@ -251,7 +239,7 @@ The Digital Chamber filed an amicus brief urging the dismissal of the New York l
 
 ---
 
-## 21. MiCA-compliant euro stablecoins grew 128% ahead of July 1 deadline, says Decta
+## 20. MiCA-compliant euro stablecoins grew 128% ahead of July 1 deadline, says Decta
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/7/2026, 9:10:00 AM  
@@ -263,7 +251,7 @@ Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose
 
 ---
 
-## 22. Trader loses $2M in ‘same-block backrun extraction’ exploit
+## 21. Trader loses $2M in ‘same-block backrun extraction’ exploit
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/7/2026, 5:58:11 AM  
@@ -275,7 +263,7 @@ One crypto trader noted the $2 million loss could have been prevented had the vi
 
 ---
 
-## 23. Yield Guild Games cuts 35 staff, shuts game publisher to focus on AI
+## 22. Yield Guild Games cuts 35 staff, shuts game publisher to focus on AI
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/7/2026, 5:56:54 AM  
@@ -287,7 +275,7 @@ Yield Guild Games said tough crypto and video game market conditions mean its YG
 
 ---
 
-## 24. Strategy’s Bitcoin sale may give BTC a ‘durable bottom,’ Grayscale says
+## 23. Strategy’s Bitcoin sale may give BTC a ‘durable bottom,’ Grayscale says
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/7/2026, 5:45:59 AM  
@@ -296,65 +284,5 @@ Yield Guild Games said tough crypto and video game market conditions mean its YG
 “Investors are now more confident about the instrument,” said Grayscale’s Zach Pandl regarding STRC, which reclaimed $90 for the first time in three weeks.
 
 📖 [Read original article](https://cointelegraph.com/news/strategys-bitcoin-sale-may-give-btc-a-durable-bottom-says-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. Trump says he became ‘a big crypto guy’ partly for politics
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 7/7/2026, 4:10:07 AM  
-**Categories:** Latest News  
-
-US President Donald Trump once called Bitcoin “a scam,” but admitted on Monday that he got involved in crypto “a little bit for politics.”
-
-📖 [Read original article](https://cointelegraph.com/news/trump-says-he-became-a-big-crypto-guy-for-the-politics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 26. L1s face decentralization 'tug-of-war' as adoption grows: Injective CEO
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 7/7/2026, 3:28:23 AM  
-**Categories:** Latest News  
-
-Blockchains will face increasing pressure to compromise on decentralization to meet user demand for speed and scalability, Injective CEO Eric Chen said.
-
-📖 [Read original article](https://cointelegraph.com/news/injective-ceo-warns-layer-1-chains-risk-sacrificing-decentralization-for-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 27. US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg
-
-**Author:** Cointelegraph by Brayden Lindrea  
-**Published:** 7/7/2026, 2:17:58 AM  
-**Categories:** Latest News  
-
-The report follows comments from White House crypto adviser Patrick Witt in May, who said the administration was examining the legal implications of creating a Bitcoin reserve.
-
-📖 [Read original article](https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 28. Bitcoin bulls shake off Strategy's $216M BTC sale as price overtakes $64K
-
-**Author:** Cointelegraph  
-**Published:** 7/7/2026, 1:55:34 AM  
-**Categories:** Markets  
-
-Bitcoin reversed course from its Monday open selloff and closed the day above $64,000 as bulls began to price in Strategy’s selling.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-bulls-shake-off-strategys-216m-btc-sale-as-price-overtakes-64k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 29. Strategy sells $216M Bitcoin, Bollinger bullish on BTC: Hodler's Digest, June 29-July 6, 2026
-
-**Author:** Cointelegraph by Andrew Fenton  
-**Published:** 7/7/2026, 12:03:30 AM  
-**Categories:** Features  
-
-Bollinger Bands creator John Bollinger says the charts suggest Bitcoin could take off from here. Vitalik Buterin unveils a new Ethereum strawmap, but why is it taking so long?
-
-📖 [Read original article](https://cointelegraph.com/features/bollinger-is-bullish-on-bitcoin-trumps-ludicrous-crypto-profits-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
