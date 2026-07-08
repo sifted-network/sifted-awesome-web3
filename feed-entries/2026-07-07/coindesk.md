@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-07"
 date: "2026-07-07"
 source: "CoinDesk"
-count: 17
+count: 11
 ---
 
 # CoinDesk - 2026-07-07
 
-17 items collected.
+11 items collected.
 
 ---
 
@@ -140,77 +140,5 @@ SBI VC Trade says corporate demand for crypto is rising as a weak yen pushes fir
 The license allows institutional traders to access perpetual futures and gives U.K. retail customers the ability to trade equities to begin with.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/07/coinbase-secures-uk-authorization-to-offer-traditional-investments-alongside-crypto)
-
----
-
-## 12. Bitcoin's July gains may be fleeting as U.S. demand stays weak
-
-**Author:** Omkar Godbole  
-**Published:** 7/7/2026, 11:26:17 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for July 7, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/07/bitcoin-s-july-gains-may-be-fleeting-as-u-s-demand-stays-weak)
-
----
-
-## 13. Bitcoin stalls as open interest decline raises questions about rally's staying power
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 7/7/2026, 10:44:09 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-BTC retreated from a two-week high of $64,500 as falling open interest and weak spot demand cast doubt on the sustainability of July's 8.4% advance.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/07/bitcoin-stalls-as-open-interest-decline-raises-questions-about-rally-s-staying-power)
-
----
-
-## 14. Binance taps into Bitcoin holders’ hunger for yield with new covered call yield play
-
-**Author:** Omkar Godbole  
-**Published:** 7/7/2026, 8:20:00 AM  
-**Categories:** Markets, Binance, Bitcoin News, Options, News  
-
-The product, called BTC Yield, is designed exclusively for people who already hold bitcoin.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/07/binance-taps-into-bitcoin-holders-hunger-for-yield-with-new-covered-call-yield-play)
-
----
-
-## 15. Bitcoin's recent macro relief faces a challenge from Japanese interest rates
-
-**Author:** Omkar Godbole  
-**Published:** 7/7/2026, 7:50:57 AM  
-**Categories:** Markets, Bitcoin News, Markets, News  
-
-Japanese bond yields continue to rise, lifting their U.S. counterparts and posing a potential headwind for risk assets.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/07/btc-s-recent-macro-relief-faces-a-challenge-from-japanese-interest-rates)
-
----
-
-## 16. Live markets: Iran returns to the headlines, hitting markets
-
-**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Helene Braun  
-**Published:** 7/7/2026, 6:51:28 AM  
-**Categories:** Tech, Live News, live_news  
-
-Bitcoin and ether ETFs drew fresh inflows Monday as the bid starts to return.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday)
-
----
-
-## 17. BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal
-
-**Author:** Shaurya Malwa  
-**Published:** 7/7/2026, 5:40:58 AM  
-**Categories:** Markets, News  
-
-The attacker bought enough of the memecoin's tokens to pass a governance proposal that sent the group's holdings to a wallet they controlled, then began selling.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal)
 
 ---
