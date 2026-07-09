@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-07"
 date: "2026-07-07"
 source: "Decrypt"
-count: 13
+count: 12
 ---
 
 # Decrypt - 2026-07-07
 
-13 items collected.
+12 items collected.
 
 ---
 
@@ -152,17 +152,5 @@ Michael Saylor becomes a major Bitcoin seller. A memecoin gets "exploited" via g
 The plaintiffs say Polymarket added a rule after the fact, turning their winning "Yes" bet on Strategy's Bitcoin sale into a loss.
 
 📖 [Read original article](https://decrypt.co/372899/traders-sue-polymarket-over-no-ruling-on-strategy-bitcoin-sale)
-
----
-
-## 13. Chainwire Parent MediaFuse Launches Tech Newswire Optimized for AI Search
-
-**Author:** Decrypt Staff  
-**Published:** 7/7/2026, 11:28:04 AM  
-**Categories:** Business  
-
-TechnologyWire pitches guaranteed placement across tech media, alongside content tuned to be picked up by tools like ChatGPT and Gemini.
-
-📖 [Read original article](https://decrypt.co/372901/chainwire-parent-mediafuse-launches-tech-newswire-optimized-for-ai-search)
 
 ---
