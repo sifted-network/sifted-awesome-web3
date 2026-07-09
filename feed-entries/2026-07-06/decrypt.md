@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-06"
 date: "2026-07-06"
 source: "Decrypt"
-count: 14
+count: 13
 ---
 
 # Decrypt - 2026-07-06
 
-14 items collected.
+13 items collected.
 
 ---
 
@@ -164,17 +164,5 @@ The Bitcoin treasury giant sold $216 million worth of Bitcoin to cover preferred
 The ETF flows finally flip. Trump defends his billion-dollar crypto payday. And a rare set of signals says a bottom may be forming.
 
 📖 [Read original article](https://decrypt.co/372798/morning-minute-crypto-surges-over-holiday-weekend)
-
----
-
-## 14. New UK Election Funding Rules Could Hit Reform's Crypto Billionaire Donors
-
-**Author:** Decrypt Agent  
-**Published:** 7/6/2026, 10:01:06 AM  
-**Categories:** Coins  
-
-The crackdown on overseas cash comes after billionaire Tether investor and Reform donor Christopher Harborne registered to vote in the UK.
-
-📖 [Read original article](https://decrypt.co/372794/new-uk-election-funding-rules-could-hit-reforms-crypto-billionaire-donors)
 
 ---
