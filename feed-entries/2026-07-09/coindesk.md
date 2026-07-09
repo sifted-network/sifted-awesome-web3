@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-07-09"
 date: "2026-07-09"
 source: "CoinDesk"
-count: 17
+count: 21
 ---
 
 # CoinDesk - 2026-07-09
 
-17 items collected.
+21 items collected.
 
 ---
 
-## 1. Aave rolls out vaults for yield-hungry fintech investors
+## 1. Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks
+
+**Author:** Omkar Godbole  
+**Published:** 7/9/2026, 6:13:04 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Redemption requests in the $2 trillion private credit market surged to $15.6 billion in the second quarter, dwarfing bitcoin ETF outflows.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/09/billions-flowing-out-of-bitcoin-etfs-and-private-credit-funds-suggest-rising-market-risks)
+
+---
+
+## 2. AI contracts, not bitcoin, now drive miner valuations, and Cipher and TeraWulf look cheap, says analyst
+
+**Author:** Helene Braun  
+**Published:** 7/9/2026, 3:53:42 PM  
+**Categories:** Markets, News  
+
+Compass Point analysts Michael Donovan and Ed Engel said markets are giving little credit to future AI data center pipelines despite billions of dollars in signed leases.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/09/cipher-terawulf-among-ai-infrastructure-stocks-trading-below-contract-value-compass-point-argues)
+
+---
+
+## 3. Ethereum's newest nonprofit wants to become Wall Street's guide to crypto
+
+**Author:** Margaux Nijkerk  
+**Published:** 7/9/2026, 2:58:55 PM  
+**Categories:** Tech, Ethereum News, Newsletters, News  
+
+In this week's edition of The Protocol Newsletter, we’re digging into Ethereum Institutional, a new nonprofit aimed at educating financial institutions and banks about Ethereum.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto)
+
+---
+
+## 4. Aave rolls out vaults for yield-hungry fintech investors
 
 **Author:** Krisztian Sandor  
 **Published:** 7/9/2026, 1:01:38 PM  
@@ -23,7 +59,7 @@ Aave's new Stable Vaults product lets wallets, exchanges and payment apps offer 
 
 ---
 
-## 2. Age verification is the surveillance nobody voted for
+## 5. Age verification is the surveillance nobody voted for
 
 **Author:** Evin McMullen  
 **Published:** 7/9/2026, 1:00:00 PM  
@@ -35,7 +71,7 @@ KOSA and Chat Control both retreated on their most-criticized measures this week
 
 ---
 
-## 3. Over $7.2 billion have migrated from LayerZero to Chainlink CCIP as Mantle joins exodus
+## 6. Over $7.2 billion have migrated from LayerZero to Chainlink CCIP as Mantle joins exodus
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/9/2026, 12:00:00 PM  
@@ -47,7 +83,7 @@ Migrations to Chainlink CCIP so far include Kelp and Lombard, both of which brou
 
 ---
 
-## 4. Pricing houses in bitcoin exposes dollar's loss of value
+## 7. Pricing houses in bitcoin exposes dollar's loss of value
 
 **Author:** Omkar Godbole  
 **Published:** 7/9/2026, 11:27:10 AM  
@@ -59,7 +95,7 @@ Your day-ahead look for July 9, 2026
 
 ---
 
-## 5. Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants
+## 8. Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants
 
 **Author:** Olivier Acuna  
 **Published:** 7/9/2026, 11:08:37 AM  
@@ -71,7 +107,7 @@ HSBC, UBS, Wells Fargo and Citi are among the 17 banks now preparing to pilot li
 
 ---
 
-## 6. Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures
+## 9. Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/9/2026, 10:55:37 AM  
@@ -83,7 +119,19 @@ These options settle into underlying futures contracts rather than spot cryptoas
 
 ---
 
-## 7. Crypto remains resilient in face of renewed Middle East tensions
+## 10. Crypto for Advisors: Q2 2026 Digital Asset Review
+
+**Author:** Joshua de Vos,Kevin Tam  
+**Published:** 7/9/2026, 10:40:45 AM  
+**Categories:** CoinDesk Indices, Financial Advisors, Crypto for Advisors, CoinDesk Indices, Newsletters, News  
+
+ETFs face record outflows
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/07/09/q2-2026-digital-asset-review)
+
+---
+
+## 11. Crypto remains resilient in face of renewed Middle East tensions
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 7/9/2026, 10:36:02 AM  
@@ -95,7 +143,7 @@ BTC rose 1.2% to $63,000 and Nasdaq futures jumped 2.6% with markets seemingly u
 
 ---
 
-## 8. Singapore's Temasek investment fund says crypto is off the table, will focus on AI
+## 12. Singapore's Temasek investment fund says crypto is off the table, will focus on AI
 
 **Author:** Olivier Acuna  
 **Published:** 7/9/2026, 10:22:35 AM  
@@ -107,7 +155,7 @@ The $400 billion wealth fund plans to expand AI holdings to 15% of its portfolio
 
 ---
 
-## 9. Crypto trader applies legendary HODL strategy to EUR/USD forex bet
+## 13. Crypto trader applies legendary HODL strategy to EUR/USD forex bet
 
 **Author:** Omkar Godbole  
 **Published:** 7/9/2026, 9:51:20 AM  
@@ -119,7 +167,7 @@ A trader on Ostium has held a $1.14 million long position in EUR/USD perpetual f
 
 ---
 
-## 10. Sony secures conditional approval to set up U.S. stablecoin trust bank
+## 14. Sony secures conditional approval to set up U.S. stablecoin trust bank
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/9/2026, 9:49:26 AM  
@@ -131,7 +179,7 @@ The New York-based subsidiary, fully owned by Sony Bank, will be capitalized wit
 
 ---
 
-## 11. Two blockbuster AI IPO's on the horizon could leave crypto further behind
+## 15. Two blockbuster public debut of AI stocks could pull away more capital from crypto
 
 **Author:** James Van Straten  
 **Published:** 7/9/2026, 9:31:56 AM  
@@ -143,7 +191,7 @@ A wave of blockbuster AI listings is drawing billions of dollars from global inv
 
 ---
 
-## 12. Bitcoin's dwindling exchange reserves don't pack the same bullish punch anymore
+## 16. Bitcoin's dwindling exchange reserves don't pack the same bullish punch anymore
 
 **Author:** Olivier Acuna  
 **Published:** 7/9/2026, 8:43:01 AM  
@@ -155,9 +203,9 @@ Santiment reported that bitcoin supply is at its lowest since 2017 and ether sin
 
 ---
 
-## 13. Live markets: Bitcoin rises to $63,000, oil and bond yields drop as markets look past latest Iran dustup
+## 17. Live markets: Bitcoin rises to $63,000, oil and bond yields drop as markets look past latest Iran dustup
 
-**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten  
+**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Helene Braun  
 **Published:** 7/9/2026, 6:51:10 AM  
 **Categories:** Markets, Live News, live_news  
 
@@ -167,7 +215,7 @@ U.S. spot bitcoin ETFs lost a net $84 million on Wednesday, ending a three-day i
 
 ---
 
-## 14. Bank of Japan may speed up rate hikes, pushing borrowing costs above 2%, ex-BOJ official warns
+## 18. Bank of Japan may speed up rate hikes, pushing borrowing costs above 2%, ex-BOJ official warns
 
 **Author:** Omkar Godbole  
 **Published:** 7/9/2026, 6:42:09 AM  
@@ -179,7 +227,7 @@ Former BOJ official issues interest-rate warning as yen continues to slide again
 
 ---
 
-## 15. A trader turns $800 into over $1 million on Robinhood's brand new blockchain betting on memecoin
+## 19. A trader turns $800 into over $1 million on Robinhood's brand new blockchain betting on memecoin
 
 **Author:** Shaurya Malwa  
 **Published:** 7/9/2026, 6:40:50 AM  
@@ -191,7 +239,7 @@ Robinhood's blockchain went live on July 1 to move stocks onchain. Its first bre
 
 ---
 
-## 16. XRP holds near $1.10 as traders watch long-term breakout setup
+## 20. XRP holds near $1.10 as traders watch long-term breakout setup
 
 **Author:** Shaurya Malwa  
 **Published:** 7/9/2026, 5:07:11 AM  
@@ -203,7 +251,7 @@ XRP defended the $1.00-$1.05 support zone, but the near-term chart remains cappe
 
 ---
 
-## 17. Bitcoin, ether steady, gold slides as U.S.-Iran tensions escalate again
+## 21. Bitcoin, ether steady, gold slides as U.S.-Iran tensions escalate again
 
 **Author:** Shaurya Malwa  
 **Published:** 7/9/2026, 4:57:35 AM  
