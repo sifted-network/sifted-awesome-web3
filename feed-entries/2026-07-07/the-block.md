@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-07"
 date: "2026-07-07"
 source: "The Block"
-count: 9
+count: 6
 ---
 
 # The Block - 2026-07-07
 
-9 items collected.
+6 items collected.
 
 ---
 
@@ -80,41 +80,5 @@ Institutional crypto platform EDX Markets has closed a $76 million Series C fund
 Last year, the tokenized real-world asset issuer launched 24/7 onchain access to more than 100 U.S. stocks and ETFs.
 
 📖 [Read original article](https://www.theblock.co/post/407452/ondo-finance-says-tokenized-stocks-now-used-as-collateral-perp-trading?utm_source=rss&utm_medium=rss)
-
----
-
-## 7. SEC plans crypto rule changes for exchanges and broker dealers in 2026 regulatory agenda
-
-**Author:** Sarah Wynn  
-**Published:** 7/7/2026, 4:03:54 PM  
-**Categories:** Policy, Regulation, The Block, SEC  
-
-The SEC is laying the groundwork for cryptocurrency rule changes before the end of the year, with a blueprint for exchanges and brokers.
-
-📖 [Read original article](https://www.theblock.co/post/407468/sec-plans-crypto-rule-changes-for-exchanges-broker-dealers-2026-regulatory-agenda?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. 1kx, Blockchain Capital back $7.5 million KOR Protocol Series A at $100 million valuation
-
-**Author:** Daniel Kuhn  
-**Published:** 7/7/2026, 3:57:32 PM  
-**Categories:** Crypto Ecosystems, Deals, DeFi, The Block, Web3, AI, exclusive, Tokenization  
-
-KOR Protocol is building an onchain clearinghouse that helps register and route creative works and pay out rights holders.
-
-📖 [Read original article](https://www.theblock.co/post/407465/1kx-blockchain-capital-7-5-million-kor-protocol-series-a-100-million-valuation?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. Tether puts $20 million behind Mercado Bitcoin amid Latin America’s tokenization boom
-
-**Author:** Kyle Baird  
-**Published:** 7/7/2026, 3:57:17 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Markets, Stablecoins, The Block, Token Projects, Web3, Tether, Tokenization  
-
-Mercado Bitcoin has grown from an early crypto exchange into a regulated digital financial services platform.
-
-📖 [Read original article](https://www.theblock.co/post/407463/tether-20-million-behind-mercado-bitcoin-latin-america-tokenization-boom?utm_source=rss&utm_medium=rss)
 
 ---
