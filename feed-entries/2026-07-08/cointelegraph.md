@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-08"
 date: "2026-07-08"
 source: "Cointelegraph"
-count: 19
+count: 11
 ---
 
 # Cointelegraph - 2026-07-08
 
-19 items collected.
+11 items collected.
 
 ---
 
@@ -140,101 +140,5 @@ India’s tax department reportedly found that fewer than a quarter of the 645,0
 Tokenized Real World Assets span treasuries, real estate, stocks, commodities and private credit. The sector is still small in TradFi terms but it's growing very, very fast.
 
 📖 [Read original article](https://cointelegraph.com/features/as-real-world-asset-tokenization-accelerates-heres-whats-been-put-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Kazakhstan president signs decree to accelerate crypto adoption
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/8/2026, 1:19:28 PM  
-**Categories:** Latest News  
-
-Kazakhstan targets gas-powered electricity for mining, income tax exemptions for regulated crypto transactions and cross-border stablecoin payments in a new decree signed by the president.
-
-📖 [Read original article](https://cointelegraph.com/news/kazakhstan-president-decree-accelerate-crypto-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. BTC speculators in focus as analysis says 'textbook Bitcoin bottom' is underway
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/8/2026, 12:59:06 PM  
-**Categories:** Markets  
-
-Analysis flagged a Bitcoin moving average derivative that last triggered at the end of the 2022 bear market as BTC price action returned to its reversal zone.
-
-📖 [Read original article](https://cointelegraph.com/markets/btc-speculators-in-focus-as-analysis-says-textbook-bitcoin-bottom-is-underway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Lyn Alden says Bitcoin needs no savior as Strategy sells $216M of BTC
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/8/2026, 12:01:00 PM  
-**Categories:** Latest News  
-
-Bitcoin-focused macroeconomist Lyn Alden said BTC must stand on its own as Strategy sold 3,588 BTC, while warning about leverage risks tied to STRC.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-needs-no-savior-lyn-alden-strategy-216-million-btc-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Mobile app Toss and blockchain Optimism to conduct Korean won stablecoin POC: report
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/8/2026, 11:33:11 AM  
-**Categories:** Latest News  
-
-Toss has reportedly partnered with Optimism and Sunnyside Labs for a proof of concept on the feasibility of a Korean won-based stablecoin for payments.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korea-toss-partners-optimism-won-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. ESMA turns spotlight on crypto custody risks after MiCA transition
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/8/2026, 10:49:21 AM  
-**Categories:** Latest News  
-
-The EU securities regulator will assess custody providers’ key management, incident response and reliance on third-party technology providers.
-
-📖 [Read original article](https://cointelegraph.com/news/esma-crypto-custody-scrutiny-mica-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Kalshi files same-day appeal of NY court's rejection of bid to block state gambling law enforcement
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/8/2026, 10:37:52 AM  
-**Categories:** Latest News  
-
-Kalshi appealed to the Second Circuit after a New York federal judge denied its request to block state gambling officials from enforcing local laws against its sports event contracts.
-
-📖 [Read original article](https://cointelegraph.com/news/kalshi-appeals-new-york-sports-event-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Berachain hard fork to replace dual-token model with WBERA rewards
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/8/2026, 10:21:12 AM  
-**Categories:** Latest News  
-
-Berachain launched the first stage of its PoL Next upgrade, which will phase out the BGT token and shift the network's reward system to WBERA.
-
-📖 [Read original article](https://cointelegraph.com/news/berachain-hard-fork-single-token-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Base to activate B20 standard for stablecoins, RWAs and other tokens
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/8/2026, 8:46:02 AM  
-**Categories:** Latest News  
-
-Base is scheduled to activate its B20 token standard on Wednesday at 6 pm UTC, allowing developers to begin creating native tokens on the network.
-
-📖 [Read original article](https://cointelegraph.com/news/base-to-activate-b20-standard-for-stablecoins-rwas-and-other-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
