@@ -2,16 +2,148 @@
 title: "CoinDesk - 2026-07-09"
 date: "2026-07-09"
 source: "CoinDesk"
-count: 6
+count: 17
 ---
 
 # CoinDesk - 2026-07-09
 
-6 items collected.
+17 items collected.
 
 ---
 
-## 1. Bitcoin's dwindling exchange reserves don't pack the same bullish punch anymore
+## 1. Aave rolls out vaults for yield-hungry fintech investors
+
+**Author:** Krisztian Sandor  
+**Published:** 7/9/2026, 1:01:38 PM  
+**Categories:** Finance, Aave, DeFi, Real World Assets, News  
+
+Aave's new Stable Vaults product lets wallets, exchanges and payment apps offer yields on stablecoin deposits
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/09/aave-rolls-out-vaults-for-yield-hungry-fintech-investors)
+
+---
+
+## 2. Age verification is the surveillance nobody voted for
+
+**Author:** Evin McMullen  
+**Published:** 7/9/2026, 1:00:00 PM  
+**Categories:** Opinion, Opinion  
+
+KOSA and Chat Control both retreated on their most-criticized measures this week, but both kept mandatory age verification, the quiet mechanism that turns anonymous browsing into identified browsing for all of us, argues Billions CEO Evin McMullen.
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for)
+
+---
+
+## 3. Over $7.2 billion have migrated from LayerZero to Chainlink CCIP as Mantle joins exodus
+
+**Author:** Francisco Rodrigues  
+**Published:** 7/9/2026, 12:00:00 PM  
+**Categories:** Finance, Web3, Crypto News, Exclusive, News  
+
+Migrations to Chainlink CCIP so far include Kelp and Lombard, both of which brought over $1 billion, as well as Solv Protocol, Virtuals, Re and Kraken’s tokenized assets.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/09/over-usd7-2-billion-have-migrated-from-layerzero-to-chainlink-ccip-as-mantle-joins-exodus)
+
+---
+
+## 4. Pricing houses in bitcoin exposes dollar's loss of value
+
+**Author:** Omkar Godbole  
+**Published:** 7/9/2026, 11:27:10 AM  
+**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
+
+Your day-ahead look for July 9, 2026
+
+📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/09/pricing-houses-in-bitcoin-exposes-dollar-s-loss-of-value)
+
+---
+
+## 5. Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants
+
+**Author:** Olivier Acuna  
+**Published:** 7/9/2026, 11:08:37 AM  
+**Categories:** Finance, banks, tokenized deposits, News  
+
+HSBC, UBS, Wells Fargo and Citi are among the 17 banks now preparing to pilot live transactions using tokenized digital assets on Swift’s new blockchain payments platform.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/09/swift-rolls-out-24-7-blockchain-payment-systems-with-17-global-banks-across-six-continents)
+
+---
+
+## 6. Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures
+
+**Author:** Francisco Rodrigues  
+**Published:** 7/9/2026, 10:55:37 AM  
+**Categories:** Finance, Derivatives, Brazil, News  
+
+These options settle into underlying futures contracts rather than spot cryptoassets, involving no custody, transfer, or administration of tokens.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures)
+
+---
+
+## 7. Crypto remains resilient in face of renewed Middle East tensions
+
+**Author:** Oliver Knight,Omkar Godbole  
+**Published:** 7/9/2026, 10:36:02 AM  
+**Categories:** Markets, Crypto Markets Today, News  
+
+BTC rose 1.2% to $63,000 and Nasdaq futures jumped 2.6% with markets seemingly unconcerned by U.S. airstrikes on Iran. Bitcoin is now up 9% since the end of June.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/09/crypto-remains-resilient-in-face-of-renewed-middle-east-tensions)
+
+---
+
+## 8. Singapore's Temasek investment fund says crypto is off the table, will focus on AI
+
+**Author:** Olivier Acuna  
+**Published:** 7/9/2026, 10:22:35 AM  
+**Categories:** Finance, Cryptocurrency, Artificial Intelligence, Singapore, News  
+
+The $400 billion wealth fund plans to expand AI holdings to 15% of its portfolio by 2031 from the current 6%.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/09/singapore-s-temasek-investment-fund-says-crypto-is-off-the-table-will-focus-on-ai)
+
+---
+
+## 9. Crypto trader applies legendary HODL strategy to EUR/USD forex bet
+
+**Author:** Omkar Godbole  
+**Published:** 7/9/2026, 9:51:20 AM  
+**Categories:** Markets, DEX, News  
+
+A trader on Ostium has held a $1.14 million long position in EUR/USD perpetual futures for 400 days, applying a bitcoin-style HODLing strategy to forex.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/09/crypto-trader-applies-legendary-hodl-strategy-to-eur-usd-forex-bet)
+
+---
+
+## 10. Sony secures conditional approval to set up U.S. stablecoin trust bank
+
+**Author:** Francisco Rodrigues  
+**Published:** 7/9/2026, 9:49:26 AM  
+**Categories:** Finance, banks, Stablecoins, Regulation, News  
+
+The New York-based subsidiary, fully owned by Sony Bank, will be capitalized with $40 million to support its upcoming stablecoin business operations.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/09/sony-secures-conditional-approval-to-set-up-u-s-stablecoin-trust-bank)
+
+---
+
+## 11. Two blockbuster AI IPO's on the horizon could leave crypto further behind
+
+**Author:** James Van Straten  
+**Published:** 7/9/2026, 9:31:56 AM  
+**Categories:** Markets, Artificial Intelligence, Bitcoin News, News  
+
+A wave of blockbuster AI listings is drawing billions of dollars from global investors, reinforcing a rotation away from crypto.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/09/two-blockbuster-ai-ipo-s-on-the-horizon-could-leave-crypto-further-behind)
+
+---
+
+## 12. Bitcoin's dwindling exchange reserves don't pack the same bullish punch anymore
 
 **Author:** Olivier Acuna  
 **Published:** 7/9/2026, 8:43:01 AM  
@@ -23,9 +155,9 @@ Santiment reported that bitcoin supply is at its lowest since 2017 and ether sin
 
 ---
 
-## 2. Live markets: Second day of U.S, Iran conflict keeps markets volatile as oil drops
+## 13. Live markets: Bitcoin rises to $63,000, oil and bond yields drop as markets look past latest Iran dustup
 
-**Author:** Shaurya Malwa  
+**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten  
 **Published:** 7/9/2026, 6:51:10 AM  
 **Categories:** Markets, Live News, live_news  
 
@@ -35,7 +167,7 @@ U.S. spot bitcoin ETFs lost a net $84 million on Wednesday, ending a three-day i
 
 ---
 
-## 3. Bank of Japan may speed up rate hikes, pushing borrowing costs above 2%, ex-BOJ official warns
+## 14. Bank of Japan may speed up rate hikes, pushing borrowing costs above 2%, ex-BOJ official warns
 
 **Author:** Omkar Godbole  
 **Published:** 7/9/2026, 6:42:09 AM  
@@ -47,7 +179,7 @@ Former BOJ official issues interest-rate warning as yen continues to slide again
 
 ---
 
-## 4. 'CASHCAT' trader turns $800 into over $1 million on Robinhood's brand new blockchain
+## 15. A trader turns $800 into over $1 million on Robinhood's brand new blockchain betting on memecoin
 
 **Author:** Shaurya Malwa  
 **Published:** 7/9/2026, 6:40:50 AM  
@@ -59,7 +191,7 @@ Robinhood's blockchain went live on July 1 to move stocks onchain. Its first bre
 
 ---
 
-## 5. XRP holds near $1.10 as traders watch long-term breakout setup
+## 16. XRP holds near $1.10 as traders watch long-term breakout setup
 
 **Author:** Shaurya Malwa  
 **Published:** 7/9/2026, 5:07:11 AM  
@@ -71,7 +203,7 @@ XRP defended the $1.00-$1.05 support zone, but the near-term chart remains cappe
 
 ---
 
-## 6. Bitcoin, ether steady, gold slides as U.S.-Iran tensions escalate again
+## 17. Bitcoin, ether steady, gold slides as U.S.-Iran tensions escalate again
 
 **Author:** Shaurya Malwa  
 **Published:** 7/9/2026, 4:57:35 AM  
