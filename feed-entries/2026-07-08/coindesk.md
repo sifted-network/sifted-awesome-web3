@@ -59,13 +59,13 @@ The move comes as firms race to build the infrastructure for blockchain-based st
 
 ---
 
-## 5. Adam Back's BSTR scraps SPAC merger, seeks new deal
+## 5. Adam Back's bitcoin treasury firm scraps SPAC merger, seeks new deal
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 7/8/2026, 2:17:26 PM  
 **Categories:** Markets, Bitcoin News, News  
 
-BSTR and Cantor Equity Partners will not complete their merger under the original July 2025 agreement, with the shareholder postponed indefinitely.
+BSTR and Cantor Equity Partners will not complete their merger under the original July 2025 agreement, with the shareholder meeting postponed indefinitely.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/08/adam-back-s-bstr-scraps-original-spac-terms-seeks-new-deal)
 
@@ -155,7 +155,7 @@ The new software leads among the network's validators, yet by node count it sits
 
 ---
 
-## 13. Live markets: Bitcoin drops to $62,000, stocks slide, oil soars as Iran ceasefire collapses
+## 13. Live markets: Bitcoin drops to $62,000 as oil and bond yields surge on collapse of Iran ceasefire
 
 **Author:** Shaurya Malwa,Omkar Godbole,Helene Braun  
 **Published:** 7/8/2026, 5:29:16 AM  
