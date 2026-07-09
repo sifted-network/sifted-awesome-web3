@@ -2,16 +2,52 @@
 title: "The Block - 2026-07-08"
 date: "2026-07-08"
 source: "The Block"
-count: 11
+count: 14
 ---
 
 # The Block - 2026-07-08
 
-11 items collected.
+14 items collected.
 
 ---
 
-## 1. Cash App owner Block to pay $45 million after states say it made false security promises
+## 1. Sen. Wyden urges Senate leaders to preserve contested blockchain developer protections in broader crypto bill
+
+**Author:** Sarah Wynn  
+**Published:** 7/8/2026, 10:01:09 PM  
+**Categories:** Policy, Regulation, The Block, U.S. Policymaking, Senate Banking Committee, Senate Finance Committee  
+
+Democratic Sen. Ron Wyden is urging Senate leaders to ensure a provision protecting blockchain software developers remains in the crypto bill.
+
+📖 [Read original article](https://www.theblock.co/post/407648/wyden-urges-senate-leaders-preserve-contested-blockchain-developer-protections-in-broader-crypto-bill?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Binance Wallet adds Plume’s yield vault offering access to Invesco and Bitwise funds
+
+**Author:** Yogita Khatri  
+**Published:** 7/8/2026, 9:00:02 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Governance, Infrastructure, Markets, The Block, Token Projects, Web3, exclusive, Tokenization, Tokens, Wallets  
+
+Binance Wallet has added Plume's yield vault, giving users access to tokenized funds managed by Invesco and Bitwise.
+
+📖 [Read original article](https://www.theblock.co/post/407632/binance-wallet-plume-yield-vault-invesco-bitwise-funds?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. ‘Best course of action:’ DeFi dashboard Zapper to shut down after 7 years
+
+**Author:** Daniel Kuhn  
+**Published:** 7/8/2026, 8:57:05 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Social Platforms, The Block, Web3, Farcaster  
+
+Zapper, which started as a portfolio tracker, raised a $15 million Series A led by Framework Ventures in May 2021.
+
+📖 [Read original article](https://www.theblock.co/post/407634/defi-dashboard-zapper-shut-down-after-7-years?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Cash App owner Block to pay $45 million after states say it made false security promises
 
 **Author:** Sarah Wynn  
 **Published:** 7/8/2026, 7:00:29 PM  
@@ -23,7 +59,7 @@ Block Inc. has agreed to pay $45 million to settle allegations brought by regula
 
 ---
 
-## 2. Paradigm raises $1.2 billion fourth fund, expanding beyond crypto into AI and robotics
+## 5. Paradigm raises $1.2 billion fourth fund, expanding beyond crypto into AI and robotics
 
 **Author:** Yogita Khatri  
 **Published:** 7/8/2026, 5:02:55 PM  
@@ -35,7 +71,7 @@ Crypto venture firm Paradigm has raised its fourth fund, a $1.2 billion vehicle 
 
 ---
 
-## 3. European Commission looks to expand MiCA to cover emergence of tokenization, non-EU stablecoin issuers: report
+## 6. European Commission looks to expand MiCA to cover emergence of tokenization, non-EU stablecoin issuers: report
 
 **Author:** Daniel Kuhn  
 **Published:** 7/8/2026, 3:32:22 PM  
@@ -47,7 +83,7 @@ The European Commission is reportedly seeking comment from stakeholders on expan
 
 ---
 
-## 4. Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit
+## 7. Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit
 
 **Author:** Kyle Baird  
 **Published:** 7/8/2026, 3:08:31 PM  
@@ -59,7 +95,7 @@ The exploit, which leveraged a flaw in the wallet's address generation system, d
 
 ---
 
-## 5. Ripple becomes Kansas Jayhawks sports sponsor with XRP patch to appear on jerseys
+## 8. Ripple becomes Kansas Jayhawks sports sponsor with XRP patch to appear on jerseys
 
 **Author:** RT Watson  
 **Published:** 7/8/2026, 2:02:10 PM  
@@ -71,7 +107,7 @@ Besides the sports partnership, Ripple has committed to fund financial and techn
 
 ---
 
-## 6. Strategy’s 3,588 BTC sale puts future bitcoin selling in focus: analysts
+## 9. Strategy’s 3,588 BTC sale puts future bitcoin selling in focus: analysts
 
 **Author:** James Hunt  
 **Published:** 7/8/2026, 1:08:34 PM  
@@ -83,7 +119,7 @@ Strategy sold 3,588 BTC last week, with CF Benchmarks suggesting continued sales
 
 ---
 
-## 7. BNB Chain builds new Layer 1 for agentic trading, targets 2027 mainnet
+## 10. BNB Chain builds new Layer 1 for agentic trading, targets 2027 mainnet
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/8/2026, 11:55:01 AM  
@@ -95,7 +131,7 @@ BNB Chain is building a new Layer 1 for agentic trading with sub-50ms preconfirm
 
 ---
 
-## 8. India central bank seeks to bar financial institutions from exposure to crypto assets: Reuters
+## 11. India central bank seeks to bar financial institutions from exposure to crypto assets: Reuters
 
 **Author:** Brian Danga  
 **Published:** 7/8/2026, 10:29:36 AM  
@@ -107,7 +143,7 @@ India's central bank called for banks to be barred from crypto exposure as it re
 
 ---
 
-## 9. Nigel Farage to quit UK Parliament, seek new mandate amid probes into crypto-linked gifts
+## 12. Nigel Farage to quit UK Parliament, seek new mandate amid probes into crypto-linked gifts
 
 **Author:** Brian Danga  
 **Published:** 7/8/2026, 9:04:59 AM  
@@ -119,7 +155,7 @@ Nigel Farage resigned as an MP amid two probes over gifts from Tether investor C
 
 ---
 
-## 10. Tom Lee’s Bitmine adds $70 million worth of ETH to treasury: onchain analyst
+## 13. Tom Lee’s Bitmine adds $70 million worth of ETH to treasury: onchain analyst
 
 **Author:** Danny Park  
 **Published:** 7/8/2026, 7:31:47 AM  
@@ -131,7 +167,7 @@ Bitmine's most recent disclosure shows that it holds 5.74 million ETH, roughly 4
 
 ---
 
-## 11. Federal judge denies Kalshi’s bid to block New York gambling law enforcement
+## 14. Federal judge denies Kalshi’s bid to block New York gambling law enforcement
 
 **Author:** Timmy Shen  
 **Published:** 7/8/2026, 6:31:22 AM  
