@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-07"
 date: "2026-07-07"
 source: "CoinDesk"
-count: 11
+count: 5
 ---
 
 # CoinDesk - 2026-07-07
 
-11 items collected.
+5 items collected.
 
 ---
 
@@ -68,77 +68,5 @@ A newly updated agenda from the securities regulator shows so-called Reg Crypto 
 Major brokerages initiated coverage on Tuesday with mostly buy ratings following the company's $75 billion June IPO.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/07/analysts-see-more-upside-for-spacex-as-post-ipo-research-begins)
-
----
-
-## 6. Vanguard opens search for digital assets leader in sign of evolving crypto strategy
-
-**Author:** Helene Braun  
-**Published:** 7/7/2026, 2:28:37 PM  
-**Categories:** Markets, News  
-
-The new role would oversee tokenization, stablecoins and blockchain initiatives as Vanguard reassesses digital assets.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/07/vanguard-opens-search-for-digital-assets-leader-in-sign-of-evolving-crypto-strategy)
-
----
-
-## 7. AI trade loses steam as infrastructure boom faces reality check
-
-**Author:** James Van Straten  
-**Published:** 7/7/2026, 2:17:54 PM  
-**Categories:** Markets, News  
-
-Record earnings, rising competition and concerns over slowing AI spending are forcing investors to reassess one of the market's biggest trades.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/07/ai-trade-loses-steam-as-infrastructure-boom-faces-reality-check)
-
----
-
-## 8. EDX Markets raises $76 million in funding round led by SBI Holdings
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/7/2026, 2:07:05 PM  
-**Categories:** Finance, SBI Holdings, Fundraising, News  
-
-EDX’s model targets institutional clients by separating trading from custody through a central clearinghouse to minimize counterparty risk.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/07/edx-markets-raises-usd76-million-in-funding-round-led-by-sbi-holdings)
-
----
-
-## 9. Former Tether investment chief is looking to sell part of his stake in the stablecoin giant: Bloomberg
-
-**Author:** Olivier Acuna  
-**Published:** 7/7/2026, 1:46:25 PM  
-**Categories:** Finance, Tether, News  
-
-Richard Heathcote is reportedly working with PJT Partners to find a buyer for a small part of his 1.26% holding in the issuer of USDT following his transition to an advisory role.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/07/former-tether-investment-chief-is-looking-to-sell-part-of-his-stake-in-the-stablecoin-giant-bloomberg)
-
----
-
-## 10. Bitcoin, XRP draw Japanese firms as weak yen drives treasury diversification
-
-**Author:** Shaurya Malwa  
-**Published:** 7/7/2026, 1:26:59 PM  
-**Categories:** Markets, News  
-
-SBI VC Trade says corporate demand for crypto is rising as a weak yen pushes firms to diversify reserves, part of a run that took its registered accounts past 2 million.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/07/bitcoin-xrp-draw-japanese-firms-as-weak-yen-drives-treasury-diversification)
-
----
-
-## 11. Coinbase secures UK authorization to offer traditional investments alongside crypto
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/7/2026, 11:37:01 AM  
-**Categories:** Finance, Coinbase, UK, News  
-
-The license allows institutional traders to access perpetual futures and gives U.K. retail customers the ability to trade equities to begin with.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/07/coinbase-secures-uk-authorization-to-offer-traditional-investments-alongside-crypto)
 
 ---
