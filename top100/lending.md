@@ -6,14 +6,14 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [fineract](https://github.com/apache/fineract) | 2,295 | 2,591 | Java | 0 | Apache Fineract | 2026-07-07 |
+| 1 | [fineract](https://github.com/apache/fineract) | 2,295 | 2,593 | Java | 0 | Apache Fineract | 2026-07-08 |
 | 2 | [aave-protocol](https://github.com/aave/aave-protocol) | 1,439 | 592 | HTML | 22 | Aave Protocol Version 1.0 - Decentralized Lending Pools | 2024-08-02 |
-| 3 | [MikaLendingBot](https://github.com/BitBotFactory/MikaLendingBot) | 1,157 | 346 | Python | 70 | Automated lending on Cryptocurrency exchanges Poloniex and Bitfinex | 2020-12-02 |
-| 4 | [lending](https://github.com/frappe/lending) | 309 | 277 | Python | 12 | Open Source Lending software | 2026-07-06 |
+| 3 | [MikaLendingBot](https://github.com/BitBotFactory/MikaLendingBot) | 1,156 | 346 | Python | 70 | Automated lending on Cryptocurrency exchanges Poloniex and Bitfinex | 2020-12-02 |
+| 4 | [lending](https://github.com/frappe/lending) | 311 | 277 | Python | 12 | Open Source Lending software | 2026-07-06 |
 | 5 | [hand_detection](https://github.com/molyswu/hand_detection) | 277 | 85 | Python | 6 | using Neural Networks (SSD) on Tensorflow.  This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive ... | 2022-01-11 |
 | 6 | [dharma-smart-wallet](https://github.com/dharma-eng/dharma-smart-wallet) | 268 | 38 | Solidity | 1 | An upgradeable, meta-transaction-enabled smart wallet for earning interest on stablecoins while retaining custody of funds, with an added security backstop provided by Dharma Labs. | 2023-01-04 |
 | 7 | [flash-lending](https://github.com/marbleprotocol/flash-lending) | 250 | 59 | Solidity | 11 | Flash lending smart contracts | 2018-11-18 |
-| 8 | [leihs](https://github.com/leihs/leihs) | 242 | 62 | Ruby | 222 | leihs is an inventory management, procurement and lending system | 2026-07-07 |
+| 8 | [leihs](https://github.com/leihs/leihs) | 242 | 62 | Ruby | 223 | leihs is an inventory management, procurement and lending system | 2026-07-08 |
 | 9 | [ethereum-erc20token-vault](https://github.com/alejoacosta74/ethereum-erc20token-vault) | 233 | 13 | Solidity | 1 | Solidity based VAULT that securely holds ETH whilst lending STABLE TOKEN to users on Ethereum. | 2026-02-28 |
 | 10 | [euler-vault-kit](https://github.com/euler-xyz/euler-vault-kit) | 218 | 74 | Solidity | 3 | Build lending vaults which connect through Ethereum Vault Connector | 2026-03-13 |
 | 11 | [metamorpho](https://github.com/morpho-org/metamorpho) | 184 | 51 | Solidity | 1 | MetaMorpho | 2026-07-07 |
@@ -67,8 +67,8 @@
 | 59 | [loan-default-prediction](https://github.com/ikunal95/loan-default-prediction) | 61 | 36 | HTML | 0 | Lending Club Data Loan Default Prediction | 2023-05-01 |
 | 60 | [XFEM](https://github.com/ShelvanLee/XFEM) | 61 | 5 | MATLAB | 0 |  # XFEM_Fracture2D  ### Description  This is a Matlab program that can be used to solve fracture problems involving arbitrary multiple crack propagations in a 2D linear-elastic solid based on the prin... | 2022-04-28 |
 | 61 | [cli](https://github.com/jup-ag/cli) | 59 | 18 | TypeScript | 0 | CLI for interacting with Jupiter's products on Solana: Spot, Perps, Lend, Prediction Markets and more. | 2026-06-02 |
-| 62 | [klend-sdk](https://github.com/Kamino-Finance/klend-sdk) | 57 | 39 | TypeScript | 4 | 🛠️ Kamino Lending TypeScript SDK | 2026-05-05 |
-| 63 | [DeFiPapers](https://github.com/irnb/DeFiPapers) | 57 | 5 | Python | 0 | I'll try to collect all the papers related to DeFi in this repository | 2021-08-06 |
+| 62 | [crypto-papers](https://github.com/irnb/crypto-papers) | 58 | 5 | Python | 0 | Curated crypto research inbox for papers and technical threads on core blockchain protocols, ZK, L2s, Bitcoin, Ethereum, DeFi, and emerging applications. | 2026-07-08 |
+| 63 | [klend-sdk](https://github.com/Kamino-Finance/klend-sdk) | 57 | 39 | TypeScript | 4 | 🛠️ Kamino Lending TypeScript SDK | 2026-05-05 |
 | 64 | [sui-scallop-sdk](https://github.com/scallop-io/sui-scallop-sdk) | 56 | 15 | TypeScript | 1 | This is the typescript sdk for the scallop lending platform on SUI network | 2026-07-06 |
 | 65 | [paraspace-core](https://github.com/parallel-finance/paraspace-core) | 56 | 41 | Solidity | 3 | Para-Space NFT Money Market | 2024-08-27 |
 | 66 | [n3rp](https://github.com/GrantStenger/n3rp) | 55 | 10 | Jupyter Notebook | 1 | N3RP (the NFT Rental Protocol) allows users to trustlessly rent out their ERC721-based assets. | 2022-09-13 |
@@ -94,8 +94,8 @@
 | 86 | [FlowYieldVaults](https://github.com/onflow/FlowYieldVaults) | 41 | 0 | Cadence | 31 | Flow Yield Vaults. Cadence contracts for automated DeFi vaults in Flow Credit Markets on the Flow network. | 2026-04-27 |
 | 87 | [FlowALP](https://github.com/onflow/FlowALP) | 40 | 2 | Cadence | 45 | Decentralized lending and borrowing protocol on Flow. Token-agnostic Cadence smart contracts (FlowALPv0) operating over any FungibleToken.Vault, with DeFi Actions composability, position management, i... | 2026-04-23 |
 | 88 | [Seismic](https://github.com/MeoMunDep/Seismic) | 40 | 1 | Shell | 0 | Auto deploy nft, token, transfer faucet, lend, borrow, rent tokens, connect wallets.  | 2025-11-16 |
-| 89 | [universal-crypto-mcp](https://github.com/nirholas/universal-crypto-mcp) | 39 | 9 | TypeScript | 3 | Universal MCP server for AI agents to interact with any* blockchain via natural language and plugins. Supports swaps, bridges, gas, staking, lending, and more across Ethereum, Arbitrum, Base, Polygon,... | 2026-07-06 |
-| 90 | [augmented-finance-protocol](https://github.com/augmented-finance/augmented-finance-protocol) | 38 | 19 | TypeScript | 0 | High-yield lending and low-rate borrowing DeFi protocol | 2022-07-05 |
+| 89 | [augmented-finance-protocol](https://github.com/augmented-finance/augmented-finance-protocol) | 38 | 19 | TypeScript | 0 | High-yield lending and low-rate borrowing DeFi protocol | 2022-07-05 |
+| 90 | [universal-crypto-mcp](https://github.com/nirholas/universal-crypto-mcp) | 38 | 9 | TypeScript | 3 | Universal MCP server for AI agents to interact with any* blockchain via natural language and plugins. Supports swaps, bridges, gas, staking, lending, and more across Ethereum, Arbitrum, Base, Polygon,... | 2026-07-06 |
 | 91 | [lending-amm-model](https://github.com/curvefi/lending-amm-model) | 37 | 9 | Python | 0 | Model of LLAMMA for lending and stablecoin purposes | 2023-12-09 |
 | 92 | [opendb](https://github.com/pellcorp/opendb) | 36 | 24 | PHP | 19 | Open Media Lending Database | 2021-11-11 |
 | 93 | [arcadia-lending](https://github.com/arcadia-finance/arcadia-lending) | 36 | 6 | Solidity | 2 | Arcadia Lending is the first application leveraging our Arcadia Vaults. It is a non-custodial peer-to-contract lending protocol where users can borrow against a combination of assets. | 2023-06-05 |
