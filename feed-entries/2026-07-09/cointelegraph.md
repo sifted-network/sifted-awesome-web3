@@ -2,28 +2,124 @@
 title: "Cointelegraph - 2026-07-09"
 date: "2026-07-09"
 source: "Cointelegraph"
-count: 11
+count: 19
 ---
 
 # Cointelegraph - 2026-07-09
 
-11 items collected.
+19 items collected.
 
 ---
 
-## 1. SWIFT launches blockchain ledger with 17-bank tokenized deposit pilot
+## 1. Bitcoin’s quantum dilemma: Bigger blocks or STARK proofs?
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 7/9/2026, 1:30:00 PM  
+**Categories:** Features  
+
+Dealing with large post quantum signatures slowing down Bitcoin can be solved with bigger blocks, or aggregating signatures using STARK proofs.
+
+📖 [Read original article](https://cointelegraph.com/features/bigger-blocks-or-stark-proofs-bitcoins-quantum-dilemma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Hong Kong regulator orders new anti-phishing measures for crypto platforms
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 7/9/2026, 12:53:44 PM  
+**Categories:** Latest News  
+
+Hong Kong’s regulator has ordered crypto platforms and online brokers to meet newly issued phishing-resistant login requirements within the next 12 months.
+
+📖 [Read original article](https://cointelegraph.com/news/hong-kong-regulator-anti-phishing-measures-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Sony Bank gets US regulator nod to issue stablecoins
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 7/9/2026, 11:18:41 AM  
+**Categories:** Latest News  
+
+Sony Bank received preliminary approval from the Office of the Comptroller of the Currency to establish a US stablecoin issuance business, with $40 million in starting capital.
+
+📖 [Read original article](https://cointelegraph.com/news/sony-bank-preliminary-approval-us-stablecoin-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Interpol operation exposes $122M crypto wallet tied to romance scam laundering
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 7/9/2026, 11:18:21 AM  
+**Categories:** Latest News  
+
+Interpol said a suspect's crypto wallet processed over $122.5 million in 10 months as authorities uncovered the scheme during a global anti-fraud operation that led to 5,811 arrests.
+
+📖 [Read original article](https://cointelegraph.com/news/interpol-122m-crypto-flows-romance-scam-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Revolut says USDT delisting is limited to EEA, Switzerland
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 7/9/2026, 10:23:24 AM  
+**Categories:** Latest News  
+
+Revolut said USDT support remains unchanged outside EEA and Switzerland as it winds down the stablecoin offering in selected European markets.
+
+📖 [Read original article](https://cointelegraph.com/news/revolut-usdt-delisting-limited-eea-switzerland?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Hyperliquid shows how onchain perps could challenge Wall Street: Pantera
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 7/9/2026, 10:02:32 AM  
+**Categories:** Latest News  
+
+Perpetual futures and Hyperliquid’s blockchain infrastructure are expanding into traditional asset classes with around-the-clock trading, according to Pantera Capital.
+
+📖 [Read original article](https://cointelegraph.com/news/hyperliquid-onchain-perps-absorbing-tradfi-markets-pantera-capital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Bitcoin ETFs end 'most overwhelming' $2.7B sell-off amid new $85M net outflow
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/9/2026, 9:58:07 AM  
+**Categories:** Markets  
+
+Bitcoin spot ETFs posted a fresh net outflow on Wednesday as analysis said that their "most overwhelming" outflow streak had ended without a clear demand recovery.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etfs-end-most-overwhelming-sell-off-amid-new-85m-net-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Bank of Korea stands firm on bank-led stablecoin push as deposit token pilots advance
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 7/9/2026, 9:19:38 AM  
+**Categories:** Latest News  
+
+The Bank of Korea reiterated its call for bank-led won stablecoin issuance while advancing deposit token pilots, as issuer rules remain a sticking point in South Korea’s digital asset bill.
+
+📖 [Read original article](https://cointelegraph.com/news/bank-of-korea-bank-led-stablecoins-deposit-token-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Swift launches blockchain ledger with 17-bank tokenized deposit pilot
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/9/2026, 8:51:48 AM  
 **Categories:** Latest News  
 
-SWIFT launched its new blockchain ledger that will host a tokenized bank deposit pilot for 17 major banks seeking faster cross-border payments.
+Swift launched its new blockchain ledger that will host a tokenized bank deposit pilot for 17 major banks seeking faster cross-border payments.
 
 📖 [Read original article](https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-## 2. Regulators invited Binance to seek new licenses after MiCA setback, co-CEO says
+## 10. Regulators invited Binance to seek new licenses after MiCA setback, co-CEO says
 
 **Author:** Cointelegraph  
 **Published:** 7/9/2026, 8:26:30 AM  
@@ -35,7 +131,7 @@ Binance is exploring new licensing paths into Europe while continuing to expand 
 
 ---
 
-## 3. Russia's largest private bank Alfa-Bank tests crypto trading
+## 11. Russia's largest private bank Alfa-Bank tests crypto trading
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/9/2026, 8:22:36 AM  
@@ -47,7 +143,7 @@ Alfa-Bank is testing cryptocurrency trading for qualified investors as Russia mo
 
 ---
 
-## 4. Wyden urges Senate leaders to keep dev protections in crypto bill
+## 12. Wyden urges Senate leaders to keep dev protections in crypto bill
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/9/2026, 6:03:49 AM  
@@ -59,7 +155,7 @@ Senator Ron Wyden has called on Senate leaders to ensure the Blockchain Regulato
 
 ---
 
-## 5. Here’s what happened in crypto today
+## 13. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/9/2026, 6:00:00 AM  
@@ -71,7 +167,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 6. Trader loses $1M after signing phishing token approval
+## 14. Trader loses $1M after signing phishing token approval
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/9/2026, 5:57:23 AM  
@@ -83,7 +179,7 @@ Onchain scammers netted more than $14 billion last year, and approval phishing r
 
 ---
 
-## 7. AI is shortening the shelf life of crypto security audits, researchers warn
+## 15. AI is shortening the shelf life of crypto security audits, researchers warn
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/9/2026, 5:47:09 AM  
@@ -95,7 +191,7 @@ Hackers have also been exploiting the codebases of defunct decentralized finance
 
 ---
 
-## 8. AI boom fuels inflation fears, complicating Fed’s next rate move
+## 16. AI boom fuels inflation fears, complicating Fed’s next rate move
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/9/2026, 4:12:10 AM  
@@ -107,7 +203,7 @@ Ongoing strong demand for AI infrastructure “would likely sustain upward press
 
 ---
 
-## 9. Crypto VC Paradigm raises $1.2B to push into AI
+## 17. Crypto VC Paradigm raises $1.2B to push into AI
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/9/2026, 2:33:00 AM  
@@ -119,7 +215,7 @@ Crypto venture firm Paradigm is widening its investment gaze toward AI and other
 
 ---
 
-## 10. Mark Cuban-backed DeFi dashboard Zapper shutters after 7 years
+## 18. Mark Cuban-backed DeFi dashboard Zapper shutters after 7 years
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/9/2026, 2:32:20 AM  
@@ -131,7 +227,7 @@ Zapper provided crypto market data to over 2 million monthly active users and ov
 
 ---
 
-## 11. Crypto could benefit if Fed steps in to backstop US stock market: Analysts
+## 19. Crypto could benefit if Fed steps in to backstop US stock market: Analysts
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/9/2026, 1:32:12 AM  
