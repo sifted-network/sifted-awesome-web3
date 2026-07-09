@@ -2,16 +2,88 @@
 title: "The Block - 2026-07-09"
 date: "2026-07-09"
 source: "The Block"
-count: 16
+count: 19
 ---
 
 # The Block - 2026-07-09
 
-16 items collected.
+19 items collected.
 
 ---
 
-## 1. Hong Kong SFC orders crypto platforms, online brokers to phase out OTP logins
+## 1. White House defends Trump’s regulatory appointments as CFTC vacancies complicate crypto bill push
+
+**Author:** Sarah Wynn  
+**Published:** 7/9/2026, 5:53:16 PM  
+**Categories:** People, Policy, Regulation, U.S. Policymaking, CFTC, Donald Trump, SEC, Senate Banking Committee, Senate Finance Committee  
+
+The White House pushed back against Democrats’ criticism that the administration has declined to appoint commissioners to regulatory agencies.
+
+📖 [Read original article](https://www.theblock.co/post/407785/white-house-defends-trumps-regulatory-appointments-as-cftc-vacancies-complicate-crypto-bill-push?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Hyperliquid Policy Center, Phantom urge CFTC to stop treating onchain protocols like traditional brokers and exchanges
+
+**Author:** Daniel Kuhn  
+**Published:** 7/9/2026, 4:00:23 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, Policy, Regulation, Web3, CFTC, Derivatives, Tokenization, Wallet Makers  
+
+The CFTC and Securities and Exchange Commission issued a Request for Information in mid-June on financial innovation.
+
+📖 [Read original article](https://www.theblock.co/post/407780/hyperliquid-policy-center-phantom-urge-cftc-to-stop-treating-onchain-protocols-like-traditional-brokers-and-exchanges?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. JPMorgan says bitcoin’s main risk isn’t Strategy, but blockchain adoption that doesn’t benefit public chains and tokens
+
+**Author:** Yogita Khatri  
+**Published:** 7/9/2026, 3:44:13 PM  
+**Categories:** Companies, Crypto Ecosystems, Finance firms, Layer 1s, Markets, Public Equities, Token Projects, Web3, Bitcoin, Crypto, exclusive, JPMorgan, Strategy, Tokenization  
+
+JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.
+
+📖 [Read original article](https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Why this Wall Street veteran is betting on Avalanche
+
+**Author:** Jordan Leech  
+**Published:** 7/9/2026, 3:03:40 PM  
+**Categories:** Markets  
+
+Avalanche Treasury Company CEO Bart Smith explains his beliefs on the functions of treasury companies and his bull thesis for Avalanche.
+
+📖 [Read original article](https://www.theblock.co/post/407752/why-this-wall-street-veteran-is-betting-on-avalanche?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Supreme Court ruling expanding Trump’s authority over federal agencies raises questions for SEC, CFTC as crypto rulemaking advances
+
+**Author:** Sarah Wynn  
+**Published:** 7/9/2026, 2:56:38 PM  
+**Categories:** Markets, People, Policy, Regulation, CFTC, Donald Trump, feature, SEC  
+
+A recent Supreme Court ruling expanding President Trump's authority to remove leaders of many agencies could have broader implications.
+
+📖 [Read original article](https://www.theblock.co/post/407750/supreme-court-ruling-expanding-trumps-authority-over-federal-agencies-raises-questions-for-sec-cftc-as-crypto-rulemaking-advances?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. MARA gains 14% after unveiling 2 GW Texas AI and bitcoin mining campus plan
+
+**Author:** Kyle Baird  
+**Published:** 7/9/2026, 2:38:29 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Deals, Infrastructure, Markets, Web3, AI, Mining, Mining Companies  
+
+The deal isn't an upfront purchase, but is structured instead as up to $600 million in milestone-based payments
+
+📖 [Read original article](https://www.theblock.co/post/407730/mara-stock-gains-unveiling-2-gw-texas-ai-bitcoin-mining-campus-plan?utm_source=rss&utm_medium=rss)
+
+---
+
+## 7. Hong Kong SFC orders crypto platforms, online brokers to phase out OTP logins
 
 **Author:** Brian Danga  
 **Published:** 7/9/2026, 2:01:43 PM  
@@ -23,7 +95,7 @@ Hong Kong SFC orders internet brokers, crypto platforms to replace OTP logins wi
 
 ---
 
-## 2. PayPal seeks to increase use of PYUSD stablecoin with native issuance on Polygon
+## 8. PayPal seeks to increase use of PYUSD stablecoin with native issuance on Polygon
 
 **Author:** RT Watson  
 **Published:** 7/9/2026, 1:54:53 PM  
@@ -35,7 +107,7 @@ The company said its stablecoin will now be issued natively on Polygon, in addit
 
 ---
 
-## 3. Tarun Chitra’s Gauntlet raises $125 million Series C from sole investor SBI Holdings
+## 9. Tarun Chitra’s Gauntlet raises $125 million Series C from sole investor SBI Holdings
 
 **Author:** Yogita Khatri  
 **Published:** 7/9/2026, 1:42:54 PM  
@@ -47,7 +119,7 @@ Chitra said he expects tokenization and vaults to grow the DeFi market faster th
 
 ---
 
-## 4. ‘Bottom building in progress’: Analysts say bitcoin holder capitulation signals late-stage bear market
+## 10. ‘Bottom building in progress’: Analysts say bitcoin holder capitulation signals late-stage bear market
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/9/2026, 1:33:53 PM  
@@ -59,7 +131,7 @@ Bitcoin long-term holder capitulation hit $280M/day, the highest since Dec 2022,
 
 ---
 
-## 5. Crypto hack losses fall below $1 billion in H1 2026 despite record attack volume: Immunefi
+## 11. Crypto hack losses fall below $1 billion in H1 2026 despite record attack volume: Immunefi
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/9/2026, 1:00:00 PM  
@@ -71,7 +143,7 @@ Crypto hacks hit a record 207 incidents in H1 2026, but losses fell to $972M as 
 
 ---
 
-## 6. Aave Labs rolls out Stable Vaults, offering predictable stablecoin yield aimed at mainstream users
+## 12. Aave Labs rolls out Stable Vaults, offering predictable stablecoin yield aimed at mainstream users
 
 **Author:** Daniel Kuhn  
 **Published:** 7/9/2026, 1:00:00 PM  
@@ -83,7 +155,7 @@ Stable Vaults will continuously “optimize capital allocation” across DeFi yi
 
 ---
 
-## 7. Stripe-owned Privy and Jito co-develop Solana transaction inclusion tool FullSend
+## 13. Stripe-owned Privy and Jito co-develop Solana transaction inclusion tool FullSend
 
 **Author:** Daniel Kuhn  
 **Published:** 7/9/2026, 12:30:02 PM  
@@ -95,7 +167,7 @@ FullSend works by automatically routing every transaction signed in a Privy wall
 
 ---
 
-## 8. CFTC Chair Selig warns regulators will end up ‘writing all the rules’ for crypto if Clarity Act stalls
+## 14. CFTC Chair Selig warns regulators will end up ‘writing all the rules’ for crypto if Clarity Act stalls
 
 **Author:** Brian Danga  
 **Published:** 7/9/2026, 11:42:34 AM  
@@ -107,7 +179,7 @@ CFTC Chair Michael Selig warned regulators may end up writing crypto rules if Co
 
 ---
 
-## 9. BitGo introduces quantum protection for institutional Bitcoin wallets
+## 15. BitGo introduces quantum protection for institutional Bitcoin wallets
 
 **Author:** RT Watson  
 **Published:** 7/9/2026, 11:05:02 AM  
@@ -119,7 +191,7 @@ Some experts have argued the greater risks posed by quantum computing revolve ar
 
 ---
 
-## 10. BitGo CEO says single-digit percentages of bitcoin’s supply are ‘probably right’ for large holders amid Strategy’s sale
+## 16. BitGo CEO says single-digit percentages of bitcoin’s supply are ‘probably right’ for large holders amid Strategy’s sale
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/9/2026, 11:01:37 AM  
@@ -131,7 +203,7 @@ BitGo CEO Mike Belshe said single-digit bitcoin ownership levels make sense for 
 
 ---
 
-## 11. Swift launches blockchain ledger for tokenized deposit pilot with 17 banks
+## 17. Swift launches blockchain ledger for tokenized deposit pilot with 17 banks
 
 **Author:** Brian Danga  
 **Published:** 7/9/2026, 9:52:21 AM  
@@ -143,7 +215,7 @@ Swift launched a blockchain-based ledger that enables 17 banks to pilot 24/7 cro
 
 ---
 
-## 12. INTERPOL-led global fraud crackdown arrests over 5,800, uncovers crypto laundering network tied to $122.5 million wallet
+## 18. INTERPOL-led global fraud crackdown arrests over 5,800, uncovers crypto laundering network tied to $122.5 million wallet
 
 **Author:** James Hunt  
 **Published:** 7/9/2026, 9:39:20 AM  
@@ -155,7 +227,7 @@ The operation uncovered a crypto laundering network using cross-chain swaps to o
 
 ---
 
-## 13. Russia’s Alfa Bank plans to launch digital depository to offer crypto services: report
+## 19. Russia’s Alfa Bank plans to launch digital depository to offer crypto services: report
 
 **Author:** Danny Park  
 **Published:** 7/9/2026, 9:10:50 AM  
@@ -164,41 +236,5 @@ The operation uncovered a crypto laundering network using cross-chain swaps to o
 The move aligns with similar announcements from other major Russian banks, amid the development of the country's crypto law.
 
 📖 [Read original article](https://www.theblock.co/post/407679/russia-alfa-bank-crypto?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. Sony Bank gets conditional OCC approval for US trust bank to issue dollar-backed stablecoin
-
-**Author:** Timmy Shen  
-**Published:** 7/9/2026, 7:50:55 AM  
-**Categories:** Companies, Crypto Ecosystems, Policy, Regulation, The Block, Web3, Asia  
-
-The trust bank subsidiary, Connectia Trust, is expected to issue and manage a dollar-backed stablecoin, pending final approval.
-
-📖 [Read original article](https://www.theblock.co/post/407670/sony-bank-conditional-occ-approval?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Hyundai Card completes its first real-world stablecoin pilot with Avalanche, Tether
-
-**Author:** Danny Park  
-**Published:** 7/9/2026, 6:46:10 AM  
-**Categories:** Companies, Crypto Ecosystems, The Block  
-
-Visa and Circle will participate in Hyundai Card's second stablecoin PoC, which is set to begin later this month.
-
-📖 [Read original article](https://www.theblock.co/post/407660/hyundai-stablecoin-poc-avalanche-tether?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. AscendEX crypto exchange shuts down, no assurance on user payouts
-
-**Author:** Danny Park  
-**Published:** 7/9/2026, 4:39:49 AM  
-**Categories:** Companies, The Block  
-
-AscendEx announced on July 6 that its platform ceased operations effective July 1, citing regulatory, financial, and operational challenges.
-
-📖 [Read original article](https://www.theblock.co/post/407654/ascendex-shuts-down?utm_source=rss&utm_medium=rss)
 
 ---
