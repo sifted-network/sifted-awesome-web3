@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-08"
 date: "2026-07-08"
 source: "CoinDesk"
-count: 8
+count: 4
 ---
 
 # CoinDesk - 2026-07-08
 
-8 items collected.
+4 items collected.
 
 ---
 
@@ -56,53 +56,5 @@ The firm's latest fund backs AI and robotics startups but leadership says it rem
 The move comes as firms race to build the infrastructure for blockchain-based stocks and debate how tokenized stocks should work.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/08/dinari-tzero-join-forces-on-turnkey-platform-for-tokenized-u-s-equities)
-
----
-
-## 5. Adam Back's bitcoin treasury firm scraps SPAC merger, seeks new deal
-
-**Author:** James Van Straten,AI Boost  
-**Published:** 7/8/2026, 2:17:26 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-BSTR and Cantor Equity Partners will not complete their merger under the original July 2025 agreement, with the shareholder meeting postponed indefinitely.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/08/adam-back-s-bstr-scraps-original-spac-terms-seeks-new-deal)
-
----
-
-## 6. BNB Chain is building a new layer-1 for high-frequency trading and AI agents
-
-**Author:** Francisco Rodrigues,AI Boost  
-**Published:** 7/8/2026, 2:01:44 PM  
-**Categories:** Web3, Web3, Crypto News, News  
-
-The network aims to process over 100,000 transactions per second by streaming them directly, eliminating public queues to make trades faster and more secure.
-
-📖 [Read original article](https://www.coindesk.com/web3/2026/07/08/bnb-chain-is-building-a-new-layer-1-for-high-frequency-trading-and-ai-agents)
-
----
-
-## 7. Citadel abandons multi-year crypto lawsuit to focus on bankruptcy order against an ex-employee
-
-**Author:** Will Canny,AI Boost  
-**Published:** 7/8/2026, 12:45:30 PM  
-**Categories:** Policy, Portofino Technologies, Citadel, litigation, Exclusive, News  
-
-After winning a 6 million-pound London arbitration award, Citadel dropped its U.S. trade secrets case, saying another judgment would likely go uncollected.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/08/citadel-drops-u-s-portofino-suit-seeks-bankruptcy-order-against-firm-s-founder-in-uk)
-
----
-
-## 8. SpaceX's first bitcoin wallet movements in six months likely don't signal sales
-
-**Author:** Shaurya Malwa  
-**Published:** 7/8/2026, 12:44:27 PM  
-**Categories:** Markets, SpaceX, News  
-
-Onchain trackers found the newly public company shifted a tiny amount of bitcoin between its own addresses. Nothing reached an exchange.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/08/spacex-s-first-bitcoin-wallet-movements-in-six-months-likely-don-t-signal-sales)
 
 ---
