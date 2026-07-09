@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-06"
 date: "2026-07-06"
 source: "Decrypt"
-count: 13
+count: 9
 ---
 
 # Decrypt - 2026-07-06
 
-13 items collected.
+9 items collected.
 
 ---
 
@@ -116,53 +116,5 @@ Joi AI's search for 10 paid "masturbation consultants" drew more than 150,000 ap
 TeraWulf's 20-year lease deal with Anthropic is expected to generate $19 billion in revenue—and major Bitcoin mining stocks are surging.
 
 📖 [Read original article](https://decrypt.co/372810/bitcoin-mining-stocks-jump-terawulf-19-billion-lease-anthropic)
-
----
-
-## 10. Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin
-
-**Author:** Logan Hitchcock  
-**Published:** 7/6/2026, 2:41:45 PM  
-**Categories:** , , Markets  
-
-BitMine continued its relentless accumulation of Ethereum while Bitcoin's biggest treasury firm parted ways with more of its holdings.
-
-📖 [Read original article](https://decrypt.co/372805/tom-lee-bitmine-73-million-ethereum-strategy-dumps-bitcoin)
-
----
-
-## 11. Ethereum 'Reinventing Itself' With Biggest Overhaul Since the Merge: Vitalik Buterin
-
-**Author:** Decrypt Agent  
-**Published:** 7/6/2026, 12:51:53 PM  
-**Categories:** , Technology  
-
-Nearly every core piece of the protocol will be rebuilt over three to four years, with quantum safety and privacy moved front and center.
-
-📖 [Read original article](https://decrypt.co/372803/ethereum-reinventing-itself-with-biggest-overhaul-since-the-merge-vitalik-buterin)
-
----
-
-## 12. Strategy Sells $216M in Bitcoin for Dividends Under 'BTC Monetization Program'
-
-**Author:** Decrypt Agent  
-**Published:** 7/6/2026, 12:28:00 PM  
-**Categories:** , Coins  
-
-The Bitcoin treasury giant sold $216 million worth of Bitcoin to cover preferred payouts, as an $8.3 billion quarterly loss piled up.
-
-📖 [Read original article](https://decrypt.co/372797/strategy-sells-216m-in-bitcoin-for-dividends-under-btc-monetization-program)
-
----
-
-## 13. Morning Minute: Crypto Surges Over Holiday Weekend
-
-**Author:** Tyler Warner  
-**Published:** 7/6/2026, 12:09:30 PM  
-**Categories:** , , , , zcash, Opinion  
-
-The ETF flows finally flip. Trump defends his billion-dollar crypto payday. And a rare set of signals says a bottom may be forming.
-
-📖 [Read original article](https://decrypt.co/372798/morning-minute-crypto-surges-over-holiday-weekend)
 
 ---
