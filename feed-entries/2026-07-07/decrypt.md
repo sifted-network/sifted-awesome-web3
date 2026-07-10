@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-07"
 date: "2026-07-07"
 source: "Decrypt"
-count: 9
+count: 2
 ---
 
 # Decrypt - 2026-07-07
 
-9 items collected.
+2 items collected.
 
 ---
 
@@ -32,89 +32,5 @@ The company says the tool was designed to stop abuse and AI model extraction, bu
 The SEC updated its agenda to indicate that a key crypto rulemaking is slated to be released for public comment in July.
 
 📖 [Read original article](https://decrypt.co/372980/sec-crypto-safe-harbor-introduced-soon-this-month)
-
----
-
-## 3. Tether Invests $20 Million in Mercado Bitcoin to Fuel Expansion Across Latin America
-
-**Author:** Decrypt Agent  
-**Published:** 7/7/2026, 9:31:09 PM  
-**Categories:** , Business  
-
-Brazilian crypto exchange Mercado Bitcoin has raised $20 million in fresh investment from USDT stablecoin issuer Tether.
-
-📖 [Read original article](https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america)
-
----
-
-## 4. AI Is Changing the Workplace and Universities Aren’t Keeping Up, Study Warns
-
-**Author:** Jason Nelson  
-**Published:** 7/7/2026, 8:46:51 PM  
-**Categories:** Artificial Intelligence  
-
-A University of Manchester researcher says schools should move beyond AI cheating concerns and prepare graduates for workplaces increasingly shaped by automation.
-
-📖 [Read original article](https://decrypt.co/372957/ai-changing-workplace-universities-not-keeping-up-study)
-
----
-
-## 5. BIG3 NFT Buyers Sue Ice Cube's Basketball League Over Alleged Unfulfilled Promises
-
-**Author:** Logan Hitchcock  
-**Published:** 7/7/2026, 8:37:40 PM  
-**Categories:** , Law and Order  
-
-Investors who purchased BIG3 NFTs expected the perks of team ownership, but allege "deceptive, fraudulent" marketing was at play.
-
-📖 [Read original article](https://decrypt.co/372959/big3-nft-buyers-sue-ice-cube-basketball-league-unfulfilled-benefits)
-
----
-
-## 6. China May Be Following US Lead With Quiet Crackdown on AI Exports
-
-**Author:** Jose Antonio Lanz  
-**Published:** 7/7/2026, 7:51:38 PM  
-**Categories:** Artificial Intelligence  
-
-China is reportedly building the same power to cut off its AI that the US deployed against Anthropic in June.
-
-📖 [Read original article](https://decrypt.co/372958/china-us-quiet-crackdown-ai-exports)
-
----
-
-## 7. Radar Chat Wants to Make Sending Bitcoin as Easy as Firing Off a Text
-
-**Author:** Jason Nelson  
-**Published:** 7/7/2026, 6:38:26 PM  
-**Categories:** , Technology  
-
-Built on Signal’s open-source technology, Radar Chat combines encrypted messaging with self-custodial Bitcoin payments via Lightning Network.
-
-📖 [Read original article](https://decrypt.co/372941/radar-chat-make-sending-bitcoin-easy-text)
-
----
-
-## 8. Kenya's Markets Regulator Seeks Blockchain Tool to Track Crypto Crime
-
-**Author:** Decrypt Agent  
-**Published:** 7/7/2026, 5:29:39 PM  
-**Categories:** , , Business  
-
-The Capital Markets Authority wants to monitor over 20 blockchains for fraud, laundering, and sanctions evasion under Kenya's new crypto law.
-
-📖 [Read original article](https://decrypt.co/372932/kenyas-markets-regulator-seeks-blockchain-tool-to-track-crypto-crime)
-
----
-
-## 9. Wintermute Cautions 'Relief Rally' Likely as Bitcoin Touches Highest Price in Weeks
-
-**Author:** Logan Hitchcock  
-**Published:** 7/7/2026, 5:16:27 PM  
-**Categories:** , , Markets  
-
-Market maker Wintermute remains cautious, suggesting that recent Bitcoin action is a relief rally rather than a fundamental market change.
-
-📖 [Read original article](https://decrypt.co/372929/wintermute-cautions-relief-rally-bitcoin-touches-highest-price-weeks)
 
 ---
