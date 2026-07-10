@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-09"
 date: "2026-07-09"
 source: "The Block"
-count: 8
+count: 4
 ---
 
 # The Block - 2026-07-09
 
-8 items collected.
+4 items collected.
 
 ---
 
@@ -56,53 +56,5 @@ The Ethereum Foundation's Protocol Security team has been using coordinated AI a
 CryptoQuant said bitcoin's recent rebound should be viewed as a bear-market recovery rather than a trend reversal.
 
 📖 [Read original article](https://www.theblock.co/post/407796/cryptoquant-bitcoin-rebound-bear-market-recovery-not-trend-reversal?utm_source=rss&utm_medium=rss)
-
----
-
-## 5. White House defends Trump’s regulatory appointments as CFTC vacancies complicate crypto bill push
-
-**Author:** Sarah Wynn  
-**Published:** 7/9/2026, 5:53:16 PM  
-**Categories:** People, Policy, Regulation, U.S. Policymaking, CFTC, Donald Trump, SEC, Senate Banking Committee, Senate Finance Committee  
-
-The White House pushed back against Democrats’ criticism that the administration has declined to appoint commissioners to regulatory agencies.
-
-📖 [Read original article](https://www.theblock.co/post/407785/white-house-defends-trumps-regulatory-appointments-as-cftc-vacancies-complicate-crypto-bill-push?utm_source=rss&utm_medium=rss)
-
----
-
-## 6. Hyperliquid Policy Center, Phantom urge CFTC to stop treating onchain protocols like traditional brokers and exchanges
-
-**Author:** Daniel Kuhn  
-**Published:** 7/9/2026, 4:00:23 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, Policy, Regulation, Web3, CFTC, Derivatives, Tokenization, Wallet Makers  
-
-The CFTC and Securities and Exchange Commission issued a Request for Information in mid-June on financial innovation.
-
-📖 [Read original article](https://www.theblock.co/post/407780/hyperliquid-policy-center-phantom-urge-cftc-to-stop-treating-onchain-protocols-like-traditional-brokers-and-exchanges?utm_source=rss&utm_medium=rss)
-
----
-
-## 7. JPMorgan says bitcoin’s main risk isn’t Strategy, but blockchain adoption that doesn’t benefit public chains and tokens
-
-**Author:** Yogita Khatri  
-**Published:** 7/9/2026, 3:44:13 PM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Layer 1s, Markets, Public Equities, Token Projects, Web3, Bitcoin, Crypto, exclusive, JPMorgan, Strategy, Tokenization  
-
-JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.
-
-📖 [Read original article](https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. Why this Wall Street veteran is betting on Avalanche
-
-**Author:** Jordan Leech  
-**Published:** 7/9/2026, 3:03:40 PM  
-**Categories:** Markets  
-
-Avalanche Treasury Company CEO Bart Smith explains his beliefs on the functions of treasury companies and his bull thesis for Avalanche.
-
-📖 [Read original article](https://www.theblock.co/post/407752/why-this-wall-street-veteran-is-betting-on-avalanche?utm_source=rss&utm_medium=rss)
 
 ---
