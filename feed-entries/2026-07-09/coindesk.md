@@ -2,16 +2,76 @@
 title: "CoinDesk - 2026-07-09"
 date: "2026-07-09"
 source: "CoinDesk"
-count: 21
+count: 25
 ---
 
 # CoinDesk - 2026-07-09
 
-21 items collected.
+25 items collected.
 
 ---
 
-## 1. Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks
+## 1. New Hampshire snuffs out trailblazing state-government bitcoin bond effort
+
+**Author:** Jesse Hamilton  
+**Published:** 7/9/2026, 10:19:54 PM  
+**Categories:** Policy, Bitcoin News, News  
+
+At its last stage for government approval, the state's executive council rejected the bond project 3-2.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort)
+
+---
+
+## 2. Grayscale's CFO exits after 7 years with crypto asset manager
+
+**Author:** Helene Braun  
+**Published:** 7/9/2026, 8:42:49 PM  
+**Categories:** Finance, Grayscale, News  
+
+Edward McGee stepped down after seven years, months after distribution chief John Hoffman left for Ondo Finance.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager)
+
+---
+
+## 3. With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned
+
+**Author:** Nikhilesh De,Jesse Hamilton  
+**Published:** 7/9/2026, 8:31:39 PM  
+**Categories:** Policy, Coinbase, News  
+
+Coinbase Chief Legal Officer Paul Grewal will depart the exchange, though he'll continue as an adviser, he said Thursday.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned)
+
+---
+
+## 4. Arbitrum jumps 19% benefitting from Robinhood's $568 million onchain trading frenzy
+
+**Author:** Krisztian Sandor  
+**Published:** 7/9/2026, 8:28:51 PM  
+**Categories:** Markets, Robinhood, Ethereum News, News  
+
+The brokerage's new blockchain is off to a fast start, with memecoin trading boosting activity and revenue flowing back to the Arbitrum ecosystem.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy)
+
+---
+
+## 5. Newest version of crypto Clarity Act may drop as soon as next week, sources say
+
+**Author:** Jesse Hamilton,Nikhilesh De  
+**Published:** 7/9/2026, 7:34:24 PM  
+**Categories:** Policy, Clarity Act, Breaking News, Top Stories, Exclusive, News  
+
+After a long stretch without breakthroughs in the crypto market structure bill, insiders say a new draft may emerge in a final push for late-July action — though it still lacks bipartisan buy-in.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/09/newest-version-of-crypto-clarity-act-may-drop-as-soon-as-next-week-sources-say)
+
+---
+
+## 6. Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks
 
 **Author:** Omkar Godbole  
 **Published:** 7/9/2026, 6:13:04 PM  
@@ -23,7 +83,7 @@ Redemption requests in the $2 trillion private credit market surged to $15.6 bil
 
 ---
 
-## 2. AI contracts, not bitcoin, now drive miner valuations, and Cipher and TeraWulf look cheap, says analyst
+## 7. AI contracts, not bitcoin, now drive miner valuations, and Cipher and TeraWulf look cheap, says analyst
 
 **Author:** Helene Braun  
 **Published:** 7/9/2026, 3:53:42 PM  
@@ -35,7 +95,7 @@ Compass Point analysts Michael Donovan and Ed Engel said markets are giving litt
 
 ---
 
-## 3. Ethereum's newest nonprofit wants to become Wall Street's guide to crypto
+## 8. Ethereum's newest nonprofit wants to become Wall Street's guide to crypto
 
 **Author:** Margaux Nijkerk  
 **Published:** 7/9/2026, 2:58:55 PM  
@@ -47,7 +107,7 @@ In this week's edition of The Protocol Newsletter, we’re digging into Ethereum
 
 ---
 
-## 4. Aave rolls out vaults for yield-hungry fintech investors
+## 9. Aave rolls out vaults for yield-hungry fintech investors
 
 **Author:** Krisztian Sandor  
 **Published:** 7/9/2026, 1:01:38 PM  
@@ -59,7 +119,7 @@ Aave's new Stable Vaults product lets wallets, exchanges and payment apps offer 
 
 ---
 
-## 5. Age verification is the surveillance nobody voted for
+## 10. Age verification is the surveillance nobody voted for
 
 **Author:** Evin McMullen  
 **Published:** 7/9/2026, 1:00:00 PM  
@@ -71,7 +131,7 @@ KOSA and Chat Control both retreated on their most-criticized measures this week
 
 ---
 
-## 6. Over $7.2 billion have migrated from LayerZero to Chainlink CCIP as Mantle joins exodus
+## 11. Over $7.2 billion have migrated from LayerZero to Chainlink CCIP as Mantle joins exodus
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/9/2026, 12:00:00 PM  
@@ -83,7 +143,7 @@ Migrations to Chainlink CCIP so far include Kelp and Lombard, both of which brou
 
 ---
 
-## 7. Pricing houses in bitcoin exposes dollar's loss of value
+## 12. Pricing houses in bitcoin exposes dollar's loss of value
 
 **Author:** Omkar Godbole  
 **Published:** 7/9/2026, 11:27:10 AM  
@@ -95,7 +155,7 @@ Your day-ahead look for July 9, 2026
 
 ---
 
-## 8. Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants
+## 13. Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants
 
 **Author:** Olivier Acuna  
 **Published:** 7/9/2026, 11:08:37 AM  
@@ -107,7 +167,7 @@ HSBC, UBS, Wells Fargo and Citi are among the 17 banks now preparing to pilot li
 
 ---
 
-## 9. Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures
+## 14. Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/9/2026, 10:55:37 AM  
@@ -119,7 +179,7 @@ These options settle into underlying futures contracts rather than spot cryptoas
 
 ---
 
-## 10. Crypto for Advisors: Q2 2026 Digital Asset Review
+## 15. Crypto for Advisors: Q2 2026 Digital Asset Review
 
 **Author:** Joshua de Vos,Kevin Tam  
 **Published:** 7/9/2026, 10:40:45 AM  
@@ -131,7 +191,7 @@ ETFs face record outflows
 
 ---
 
-## 11. Crypto remains resilient in face of renewed Middle East tensions
+## 16. Crypto remains resilient in face of renewed Middle East tensions
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 7/9/2026, 10:36:02 AM  
@@ -143,7 +203,7 @@ BTC rose 1.2% to $63,000 and Nasdaq futures jumped 2.6% with markets seemingly u
 
 ---
 
-## 12. Singapore's Temasek investment fund says crypto is off the table, will focus on AI
+## 17. Singapore's Temasek investment fund says crypto is off the table, will focus on AI
 
 **Author:** Olivier Acuna  
 **Published:** 7/9/2026, 10:22:35 AM  
@@ -155,7 +215,7 @@ The $400 billion wealth fund plans to expand AI holdings to 15% of its portfolio
 
 ---
 
-## 13. Crypto trader applies legendary HODL strategy to EUR/USD forex bet
+## 18. Crypto trader applies legendary HODL strategy to EUR/USD forex bet
 
 **Author:** Omkar Godbole  
 **Published:** 7/9/2026, 9:51:20 AM  
@@ -167,7 +227,7 @@ A trader on Ostium has held a $1.14 million long position in EUR/USD perpetual f
 
 ---
 
-## 14. Sony secures conditional approval to set up U.S. stablecoin trust bank
+## 19. Sony secures conditional approval to set up U.S. stablecoin trust bank
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/9/2026, 9:49:26 AM  
@@ -179,7 +239,7 @@ The New York-based subsidiary, fully owned by Sony Bank, will be capitalized wit
 
 ---
 
-## 15. Two blockbuster public debut of AI stocks could pull away more capital from crypto
+## 20. Two blockbuster public debut of AI stocks could pull away more capital from crypto
 
 **Author:** James Van Straten  
 **Published:** 7/9/2026, 9:31:56 AM  
@@ -191,7 +251,7 @@ A wave of blockbuster AI listings is drawing billions of dollars from global inv
 
 ---
 
-## 16. Bitcoin's dwindling exchange reserves don't pack the same bullish punch anymore
+## 21. Bitcoin's dwindling exchange reserves don't pack the same bullish punch anymore
 
 **Author:** Olivier Acuna  
 **Published:** 7/9/2026, 8:43:01 AM  
@@ -203,7 +263,7 @@ Santiment reported that bitcoin supply is at its lowest since 2017 and ether sin
 
 ---
 
-## 17. Live markets: Bitcoin rises to $63,000, oil and bond yields drop as markets look past latest Iran dustup
+## 22. Live updates: Bitcoin rises to $63,000, oil and bond yields drop as markets look past latest Iran dustup
 
 **Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Helene Braun  
 **Published:** 7/9/2026, 6:51:10 AM  
@@ -215,7 +275,7 @@ U.S. spot bitcoin ETFs lost a net $84 million on Wednesday, ending a three-day i
 
 ---
 
-## 18. Bank of Japan may speed up rate hikes, pushing borrowing costs above 2%, ex-BOJ official warns
+## 23. Bank of Japan may speed up rate hikes, pushing borrowing costs above 2%, ex-BOJ official warns
 
 **Author:** Omkar Godbole  
 **Published:** 7/9/2026, 6:42:09 AM  
@@ -227,7 +287,7 @@ Former BOJ official issues interest-rate warning as yen continues to slide again
 
 ---
 
-## 19. A trader turns $800 into over $1 million on Robinhood's brand new blockchain betting on memecoin
+## 24. A trader turns $800 into over $1 million on Robinhood's brand new blockchain betting on memecoin
 
 **Author:** Shaurya Malwa  
 **Published:** 7/9/2026, 6:40:50 AM  
@@ -239,7 +299,7 @@ Robinhood's blockchain went live on July 1 to move stocks onchain. Its first bre
 
 ---
 
-## 20. XRP holds near $1.10 as traders watch long-term breakout setup
+## 25. XRP holds near $1.10 as traders watch long-term breakout setup
 
 **Author:** Shaurya Malwa  
 **Published:** 7/9/2026, 5:07:11 AM  
@@ -248,17 +308,5 @@ Robinhood's blockchain went live on July 1 to move stocks onchain. Its first bre
 XRP defended the $1.00-$1.05 support zone, but the near-term chart remains capped below resistance as analysts track larger wedge and channel patterns.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/09/xrp-holds-near-usd1-10-as-traders-watch-long-term-breakout-setup)
-
----
-
-## 21. Bitcoin, ether steady, gold slides as U.S.-Iran tensions escalate again
-
-**Author:** Shaurya Malwa  
-**Published:** 7/9/2026, 4:57:35 AM  
-**Categories:** Markets, News  
-
-Oil climbed for a third day and gold fell for a fourth while bitcoin is up 1.6% on the week.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/09/bitcoin-ether-steady-gold-slides-as-us-iran-tensions-escalate-again)
 
 ---
