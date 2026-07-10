@@ -2,16 +2,64 @@
 title: "Decrypt - 2026-07-10"
 date: "2026-07-10"
 source: "Decrypt"
-count: 4
+count: 8
 ---
 
 # Decrypt - 2026-07-10
 
-4 items collected.
+8 items collected.
 
 ---
 
-## 1. Strategy Bitcoin Sales 'Mostly Noise,' Standard Chartered Says, Holding $100K BTC Call
+## 1. Bitcoin Treasury Firm Empery Digital Dumps Nearly Half of BTC Holdings for $87 Million
+
+**Author:** Decrypt Agent  
+**Published:** 7/10/2026, 6:54:46 PM  
+**Categories:** , Business  
+
+Nasdaq-listed Empery Digital said it sold 1,400 Bitcoin since May to help fuel an AI data center deal, legal bills, and other expenses.
+
+📖 [Read original article](https://decrypt.co/373278/bitcoin-firm-empery-digital-dumps-half-btc-holdings-87-million)
+
+---
+
+## 2. Xbox CEO Joins Fed AI Jobs Task Force Days After Announcing 3,200 Layoffs
+
+**Author:** Jason Nelson  
+**Published:** 7/10/2026, 6:02:21 PM  
+**Categories:** Artificial Intelligence  
+
+Asha Sharma will advise the Federal Reserve on AI’s impact on jobs and productivity as Xbox undergoes the biggest restructuring in its history.
+
+📖 [Read original article](https://decrypt.co/373277/xbox-ceo-fed-ai-jobs-task-force-days-after-layoffs)
+
+---
+
+## 3. Trump Won't Sign Housing Bill With CBDC Ban—Will It Become Law Tonight Anyway?
+
+**Author:** Sander Lutz  
+**Published:** 7/10/2026, 3:13:12 PM  
+**Categories:** Law and Order  
+
+Unless President Trump vetoes the bill, it will become law at midnight, banning the Federal Reserve from developing a CBDC until 2031.
+
+📖 [Read original article](https://decrypt.co/373230/trump-wont-sign-housing-bill-cbdc-ban-become-law-anyway)
+
+---
+
+## 4. Circle Stock Jumps as Stablecoin Issuer Wins Final Federal Banking Charter Approval
+
+**Author:** André Beganski  
+**Published:** 7/10/2026, 2:54:40 PM  
+**Categories:** Business  
+
+Circle secured final OCC approval to establish a national trust bank, shifting its $73.2 billion stablecoin to a unified federal framework.
+
+📖 [Read original article](https://decrypt.co/373227/circle-stock-jumps-stablecoin-issuer-final-federal-banking-charter)
+
+---
+
+## 5. Strategy Bitcoin Sales 'Mostly Noise,' Standard Chartered Says, Holding $100K BTC Call
 
 **Author:** Decrypt Agent  
 **Published:** 7/10/2026, 1:52:30 PM  
@@ -23,7 +71,7 @@ The bank argues that the treasury giant's Bitcoin sales are a short-term distrac
 
 ---
 
-## 2. Morning Minute: Robinhood Chain Explodes Onto the Crypto Scene
+## 6. Morning Minute: Robinhood Chain Explodes Onto the Crypto Scene
 
 **Author:** Tyler Warner  
 **Published:** 7/10/2026, 12:12:55 PM  
@@ -35,7 +83,7 @@ Plus, Circle wins a national bank charter and pops 10%. And the Clarity Act gets
 
 ---
 
-## 3. Jailed Fraudster Charged With Moving $290K in Forfeited Crypto From Prison
+## 7. Jailed Fraudster Charged With Moving $290K in Forfeited Crypto From Prison
 
 **Author:** Decrypt Agent  
 **Published:** 7/10/2026, 11:30:57 AM  
@@ -47,7 +95,7 @@ A convicted launderer serving time for a $5 million scheme allegedly moved crypt
 
 ---
 
-## 4. North Carolina Bill Recognizes CFTC's ‘Federal Regulatory Authority’ Over Prediction Markets
+## 8. North Carolina Bill Recognizes CFTC's ‘Federal Regulatory Authority’ Over Prediction Markets
 
 **Author:** Decrypt Agent  
 **Published:** 7/10/2026, 10:01:08 AM  
