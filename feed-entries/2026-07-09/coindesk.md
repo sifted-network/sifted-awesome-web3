@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-09"
 date: "2026-07-09"
 source: "CoinDesk"
-count: 13
+count: 11
 ---
 
 # CoinDesk - 2026-07-09
 
-13 items collected.
+11 items collected.
 
 ---
 
@@ -140,29 +140,5 @@ KOSA and Chat Control both retreated on their most-criticized measures this week
 Migrations to Chainlink CCIP so far include Kelp and Lombard, both of which brought over $1 billion, as well as Solv Protocol, Virtuals, Re and Kraken’s tokenized assets.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/09/over-usd7-2-billion-have-migrated-from-layerzero-to-chainlink-ccip-as-mantle-joins-exodus)
-
----
-
-## 12. Pricing houses in bitcoin exposes dollar's loss of value
-
-**Author:** Omkar Godbole  
-**Published:** 7/9/2026, 11:27:10 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for July 9, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/09/pricing-houses-in-bitcoin-exposes-dollar-s-loss-of-value)
-
----
-
-## 13. Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants
-
-**Author:** Olivier Acuna  
-**Published:** 7/9/2026, 11:08:37 AM  
-**Categories:** Finance, banks, tokenized deposits, News  
-
-HSBC, UBS, Wells Fargo and Citi are among the 17 banks now preparing to pilot live transactions using tokenized digital assets on Swift’s new blockchain payments platform.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/09/swift-rolls-out-24-7-blockchain-payment-systems-with-17-global-banks-across-six-continents)
 
 ---
