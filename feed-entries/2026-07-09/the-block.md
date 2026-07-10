@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-09"
 date: "2026-07-09"
 source: "The Block"
-count: 14
+count: 8
 ---
 
 # The Block - 2026-07-09
 
-14 items collected.
+8 items collected.
 
 ---
 
@@ -104,77 +104,5 @@ JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adop
 Avalanche Treasury Company CEO Bart Smith explains his beliefs on the functions of treasury companies and his bull thesis for Avalanche.
 
 📖 [Read original article](https://www.theblock.co/post/407752/why-this-wall-street-veteran-is-betting-on-avalanche?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. Supreme Court ruling expanding Trump’s authority over federal agencies raises questions for SEC, CFTC as crypto rulemaking advances
-
-**Author:** Sarah Wynn  
-**Published:** 7/9/2026, 2:56:38 PM  
-**Categories:** Markets, People, Policy, Regulation, CFTC, Donald Trump, feature, SEC  
-
-A recent Supreme Court ruling expanding President Trump's authority to remove leaders of many agencies could have broader implications.
-
-📖 [Read original article](https://www.theblock.co/post/407750/supreme-court-ruling-expanding-trumps-authority-over-federal-agencies-raises-questions-for-sec-cftc-as-crypto-rulemaking-advances?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. MARA gains 14% after unveiling 2 GW Texas AI and bitcoin mining campus plan
-
-**Author:** Kyle Baird  
-**Published:** 7/9/2026, 2:38:29 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Deals, Infrastructure, Markets, Web3, AI, Mining, Mining Companies  
-
-The deal isn't an upfront purchase, but is structured instead as up to $600 million in milestone-based payments
-
-📖 [Read original article](https://www.theblock.co/post/407730/mara-stock-gains-unveiling-2-gw-texas-ai-bitcoin-mining-campus-plan?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Hong Kong SFC orders crypto platforms, online brokers to phase out OTP logins
-
-**Author:** Brian Danga  
-**Published:** 7/9/2026, 2:01:43 PM  
-**Categories:** Policy, Regulation, Asian Regulation  
-
-Hong Kong SFC orders internet brokers, crypto platforms to replace OTP logins with passkeys within 12 months following 57% spoofing surge.
-
-📖 [Read original article](https://www.theblock.co/post/407732/hong-kong-sfc-orders-crypto-platforms-online-brokers-to-phase-out-otp-logins?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. PayPal seeks to increase use of PYUSD stablecoin with native issuance on Polygon
-
-**Author:** RT Watson  
-**Published:** 7/9/2026, 1:54:53 PM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Layer 2s and Scaling, Markets, Token Projects, Payments, Polygon  
-
-The company said its stablecoin will now be issued natively on Polygon, in addition to becoming available through Polygon's Open Money Stack.
-
-📖 [Read original article](https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Tarun Chitra’s Gauntlet raises $125 million Series C from sole investor SBI Holdings
-
-**Author:** Yogita Khatri  
-**Published:** 7/9/2026, 1:42:54 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Markets, Venture Capital, Web3, Series C and beyond, Tokenization  
-
-Chitra said he expects tokenization and vaults to grow the DeFi market faster than overall stablecoin growth over the next few years.
-
-📖 [Read original article](https://www.theblock.co/post/407723/tarun-chitra-gauntlet-125-million-series-c-funding-sbi-holdings?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. ‘Bottom building in progress’: Analysts say bitcoin holder capitulation signals late-stage bear market
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/9/2026, 1:33:53 PM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin  
-
-Bitcoin long-term holder capitulation hit $280M/day, the highest since Dec 2022, a sign Glassnode says may flag a bottom forming.
-
-📖 [Read original article](https://www.theblock.co/post/407713/bottom-building-in-progress-analysts-say-bitcoin-holder-capitulation-signals-late-stage-bear-market?utm_source=rss&utm_medium=rss)
 
 ---
