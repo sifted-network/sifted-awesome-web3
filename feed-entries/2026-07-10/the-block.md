@@ -2,16 +2,64 @@
 title: "The Block - 2026-07-10"
 date: "2026-07-10"
 source: "The Block"
-count: 11
+count: 15
 ---
 
 # The Block - 2026-07-10
 
-11 items collected.
+15 items collected.
 
 ---
 
-## 1. Binance co-CEO says 70% of EU withdrawals went to self-custody after MiCA deadline, with just 30% going to licensed platforms
+## 1. SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks
+
+**Author:** RT Watson  
+**Published:** 7/10/2026, 6:49:02 PM  
+**Categories:** Capital Markets, Crypto Ecosystems, Deals, Markets, Web3, IPOs, Tokenization  
+
+Solana said that tokenized SK Hynix shares on SOL can be acquired through Backpack, xStocks and Ondo Finance.
+
+📖 [Read original article](https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Empery Digital offloads 1,400 bitcoins to help fund AI pivot, pay debt
+
+**Author:** Kyle Baird  
+**Published:** 7/10/2026, 4:39:45 PM  
+**Categories:** Companies, Markets  
+
+Empery Digital used part of the proceeds for a 25% stake in an AI data center campus project.
+
+📖 [Read original article](https://www.theblock.co/post/407900/empery-digital-offloads-1400-bitcoins-help-fund-ai-pivot-pay-debt?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Kraken to relaunch its mobile app with agentic trading and advice at the center
+
+**Author:** Daniel Kuhn  
+**Published:** 7/10/2026, 4:27:23 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Web3, AI, Kraken  
+
+Kraken is adding autonomous AI agents capable of monitoring markets and suggesting trades for users.
+
+📖 [Read original article](https://www.theblock.co/post/407899/kraken-to-relaunch-its-mobile-app-with-agentic-trading-and-advise-at-the-center?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 7/10/2026, 4:07:20 PM  
+**Categories:** Crypto Ecosystems, DeFi, Layer 1s, Markets, Token Projects, Ethereum  
+
+Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions.
+
+📖 [Read original article](https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Binance co-CEO says 70% of EU withdrawals went to self-custody after MiCA deadline, with just 30% going to licensed platforms
 
 **Author:** Brian Danga  
 **Published:** 7/10/2026, 1:17:52 PM  
@@ -23,7 +71,7 @@ Richard Teng said 70% of EU user withdrawals following its service suspension mo
 
 ---
 
-## 2. ‘Communication challenge, nothing more’: Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem
+## 6. ‘Communication challenge, nothing more’: Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/10/2026, 12:46:18 PM  
@@ -35,7 +83,7 @@ Standard Chartered retained its $100,000 end-2026 bitcoin target, calling Strate
 
 ---
 
-## 3. Stablecoin firm Circle wins final OCC approval to open national trust bank
+## 7. Stablecoin firm Circle wins final OCC approval to open national trust bank
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/10/2026, 11:25:14 AM  
@@ -47,7 +95,7 @@ Circle wins final OCC approval for First National Digital Currency Bank, with US
 
 ---
 
-## 4. Ledger researchers disclose Tangem card flaw; Tangem says risk to everyday users is ‘virtually non-existent’
+## 8. Ledger researchers disclose Tangem card flaw; Tangem says risk to everyday users is ‘virtually non-existent’
 
 **Author:** Brian Danga  
 **Published:** 7/10/2026, 11:08:31 AM  
@@ -59,7 +107,7 @@ Ledger researchers disclosed a laser attack that resets Tangem card passwords by
 
 ---
 
-## 5. New Hampshire’s $100 million bitcoin bond proposal fails to pass final vote
+## 9. New Hampshire’s $100 million bitcoin bond proposal fails to pass final vote
 
 **Author:** Danny Park  
 **Published:** 7/10/2026, 10:29:07 AM  
@@ -71,7 +119,7 @@ Governor Ayotte had expressed support for the proposal, touting it as an innovat
 
 ---
 
-## 6. Revolut integrates its crypto exchange with AI assistants as agentic trading spreads
+## 10. Revolut integrates its crypto exchange with AI assistants as agentic trading spreads
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/10/2026, 10:04:08 AM  
@@ -83,7 +131,7 @@ Revolut X now connects to Claude, Gemini, OpenClaw, and Cursor, letting crypto u
 
 ---
 
-## 7. DOJ charges federal inmate over alleged theft of $290,000 in crypto forfeited to US government
+## 11. DOJ charges federal inmate over alleged theft of $290,000 in crypto forfeited to US government
 
 **Author:** Brian Danga  
 **Published:** 7/10/2026, 9:13:08 AM  
@@ -95,7 +143,7 @@ Federal inmate Rossen Iossifov faces new charges for allegedly taking $290,000 i
 
 ---
 
-## 8. Cathie Wood’s Ark Invest buys $14 million worth of Circle, offloads Robinhood shares
+## 12. Cathie Wood’s Ark Invest buys $14 million worth of Circle, offloads Robinhood shares
 
 **Author:** Danny Park  
 **Published:** 7/10/2026, 9:09:24 AM  
@@ -107,7 +155,7 @@ Circle Internet Group's stock dropped 1.65% during Thursday's trading session, e
 
 ---
 
-## 9. UK Labour MPs push to permanently ban crypto political donations
+## 13. UK Labour MPs push to permanently ban crypto political donations
 
 **Author:** Timmy Shen  
 **Published:** 7/10/2026, 8:44:30 AM  
@@ -119,7 +167,7 @@ Labour MPs are gathering support for proposed amendments to a key bill that woul
 
 ---
 
-## 10. North Carolina passes bill recognizing CFTC preemption over prediction markets
+## 14. North Carolina passes bill recognizing CFTC preemption over prediction markets
 
 **Author:** Danny Park  
 **Published:** 7/10/2026, 5:51:59 AM  
@@ -131,7 +179,7 @@ North Carolina's new law taxes prediction market platforms at 6% of their net tr
 
 ---
 
-## 11. Polymarket files applications to offer regulated margin trading in US
+## 15. Polymarket files applications to offer regulated margin trading in US
 
 **Author:** Danny Park  
 **Published:** 7/10/2026, 4:10:25 AM  
