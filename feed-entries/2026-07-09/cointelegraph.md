@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-09"
 date: "2026-07-09"
 source: "Cointelegraph"
-count: 28
+count: 25
 ---
 
 # Cointelegraph - 2026-07-09
 
-28 items collected.
+25 items collected.
 
 ---
 
@@ -251,7 +251,7 @@ Binance is exploring new licensing paths into Europe while continuing to expand 
 
 ---
 
-## 21. Russia's largest private bank Alfa-Bank tests crypto trading
+## 21. Russia's largest private bank, Alfa-Bank, tests crypto trading
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/9/2026, 8:22:36 AM  
@@ -308,41 +308,5 @@ Hackers have also been exploiting the codebases of defunct decentralized finance
 Ongoing strong demand for AI infrastructure “would likely sustain upward pressure on prices for technology products and electricity,” Federal Reserve policymakers said.
 
 📖 [Read original article](https://cointelegraph.com/news/ai-boom-fuels-inflation-fears-complicating-feds-next-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 26. Crypto VC Paradigm raises $1.2B to push into AI
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 7/9/2026, 2:33:00 AM  
-**Categories:** Latest News  
-
-Crypto venture firm Paradigm is widening its investment gaze toward AI and other frontier industries with its latest fund.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 27. Mark Cuban-backed DeFi dashboard Zapper shutters after 7 years
-
-**Author:** Cointelegraph by Brayden Lindrea  
-**Published:** 7/9/2026, 2:32:20 AM  
-**Categories:** Latest News  
-
-Zapper provided crypto market data to over 2 million monthly active users and oversaw more than $13 billion in processed transactions during its peak.
-
-📖 [Read original article](https://cointelegraph.com/news/defi-dashboard-zapper-to-shut-down-after-seven-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 28. Crypto could benefit if Fed steps in to backstop US stock market: Analysts
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 7/9/2026, 1:32:12 AM  
-**Categories:** Latest News  
-
-The size and scope of the US stock market “gives policymakers a strong incentive to backstop major drawdowns,” said Bitget Wallet COO, Alvin Kan.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-could-benefit-if-fed-steps-in-to-backstop-us-stock-market-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
