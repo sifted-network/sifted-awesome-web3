@@ -6,12 +6,12 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 849 | 109 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
+| 1 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 850 | 109 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 2 | [mango](https://github.com/MangoNet-Labs/mango) | 274 | 75 | Rust | 1 | Mango Network is a Layer1 blockchain based on the Dpos consensus mechanism and supported by Move to build a transaction-based omni-chain infrastructure network. | 2025-06-21 |
 | 3 | [Mavryk-Wallet](https://github.com/MeoMunDep/Mavryk-Wallet) | 145 | 6 | Shell | 0 | Auto  connect wallet, send token, stake, create vault, deposit, earn, borrow, faucet token.  | 2025-09-26 |
 | 4 | [layer1](https://github.com/LNP-BP/layer1) | 66 | 12 | - | 2 | Paper on new bitcoin layer 1 design | 2023-10-04 |
 | 5 | [Web3](https://github.com/nemo-crypto/Web3) | 60 | 21 | - | 0 | Ethers.js、Web3.js、Connectwallet、量化策略、套利、区块链、币安、网格、跟单、撸羊毛、脚本、跨链桥、MPC钱包、铭文、符文、zk、Layer1 (基础公链)、Layer2 (扩容解决方案)、layer3、AI + Web3、DeFi 、GameFi、防夹、滑点、PumpFun、FourMeme、公链、钱包、流动性池子 | 2026-05-13 |
-| 6 | [Arxia](https://github.com/ArxiaLayer1/Arxia) | 55 | 6 | Rust | 1 | Offline-first Layer 1 blockchain operating over LoRa, BLE, SMS, and satellite. | 2026-07-02 |
+| 6 | [Arxia](https://github.com/ArxiaLayer1/Arxia) | 55 | 6 | Rust | 1 | Offline-first Layer 1 blockchain operating over LoRa, BLE, SMS, and satellite. | 2026-07-09 |
 | 7 | [Image-Classifier](https://github.com/mudigosa/Image-Classifier) | 42 | 14 | Jupyter Notebook | 5 | Image Classifier  Going forward, AI algorithms will be incorporated into more and more everyday applications. For example, you might want to include an image classifier in a smartphone app. To do this... | 2019-02-01 |
 | 8 | [Seismic](https://github.com/MeoMunDep/Seismic) | 40 | 1 | Shell | 0 | Auto deploy nft, token, transfer faucet, lend, borrow, rent tokens, connect wallets.  | 2025-11-16 |
 | 9 | [XRPLEVM](https://github.com/MeoMunDep/XRPLEVM) | 33 | 0 | JavaScript | 0 | Auto deploy, send, burn, swap, bridge, add liquid pool, mint tokens.  | 2025-09-29 |
@@ -24,11 +24,11 @@
 | 16 | [shardeum-docs](https://github.com/shardeum/shardeum-docs) | 14 | 9 | MDX | 0 | Official Shardeum Documentation | 2026-04-21 |
 | 17 | [Acki-Nacki](https://github.com/MeoMunDep/Acki-Nacki) | 12 | 0 | Shell | 0 | Auto farm, do tasks, update mamaboard, claim frens points, claim boost points. | 2026-06-15 |
 | 18 | [Injective](https://github.com/MeoMunDep/Injective) | 11 | 0 | - | 0 | Auto stake, swap, wrap, supply, withdraw, borrow, repay, add liquidity. [FOR SALE] | 2025-12-23 |
-| 19 | [QNet-Blockchain](https://github.com/AIQnetLab/QNet-Blockchain) | 10 | 0 | Rust | 1 | Post-Quantum Decentralized Network | 2026-07-08 |
+| 19 | [QNet-Blockchain](https://github.com/AIQnetLab/QNet-Blockchain) | 10 | 0 | Rust | 1 | Post-Quantum Decentralized Network | 2026-07-10 |
 | 20 | [Layer1](https://github.com/anyashechka/Layer1) | 9 | 0 | - | 0 |  | 2024-06-06 |
 | 21 | [MegaETH](https://github.com/MeoMunDep/MegaETH) | 9 | 0 | JavaScript | 0 | Auto all. | 2025-06-03 |
-| 22 | [safrochain-node](https://github.com/Safrochain-Org/safrochain-node) | 8 | 9 | Go | 9 | Safrochain-node is the core Cosmos SDK-based Layer1 blockchain. | 2026-07-04 |
-| 23 | [hikmalayer-core](https://github.com/bestowerlabs/hikmalayer-core) | 8 | 2 | Rust | 0 | Hikmalayer Core is a hybrid Layer‑1 blockchain prototype that combines Proof‑of‑Stake (validator selection) with Proof‑of‑Work (block finalization). It is developed by Muhammad Ayan Rao director Besto... | 2026-07-08 |
+| 22 | [safrochain-node](https://github.com/Safrochain-Org/safrochain-node) | 8 | 10 | Go | 9 | Safrochain-node is the core Cosmos SDK-based Layer1 blockchain. | 2026-07-04 |
+| 23 | [hikmalayer-core](https://github.com/bestowerlabs/hikmalayer-core) | 8 | 2 | Rust | 0 | Hikmalayer Core is a hybrid Layer‑1 blockchain prototype that combines Proof‑of‑Stake (validator selection) with Proof‑of‑Work (block finalization). It is developed by Muhammad Ayan Rao director Besto... | 2026-07-09 |
 | 24 | [tinydns](https://github.com/laincloud/tinydns) | 7 | 8 | Go | 0 | Tinydns is a LAIN's layer1 application providing internal DNS resolving service | 2018-02-09 |
 | 25 | [phantasma-ts](https://github.com/phantasma-io-archive/phantasma-ts) | 7 | 13 | JavaScript | 1 | A TypeScript SDK for the Phantasma blockchain | 2024-01-11 |
 | 26 | [BluePods](https://github.com/clemsix6/BluePods) | 7 | 0 | Go | 0 | Layer 1 blockchain with object-oriented state, DAG consensus, and execution sharding | 2026-07-08 |
@@ -81,9 +81,9 @@
 | 73 | [revo](https://github.com/revolutionchain/revo) | 2 | 0 | C++ | 2 | Official Revo Blockchain repository | 2024-01-17 |
 | 74 | [ZionLayerOne](https://github.com/zibtree/ZionLayerOne) | 2 | 0 | Go | 0 | The AI-Native Layer 1 Blockchain | 2026-02-28 |
 | 75 | [vtt](https://github.com/vettor-chain/vtt) | 2 | 0 | Rust | 0 | Layer 1 blockchain for tokenizing real-world assets. DPoS consensus, WASM smart contracts, built-in DEX, cross-chain bridge. | 2026-04-19 |
-| 76 | [Qylith](https://github.com/bahuang081-svg/Qylith) | 2 | 0 | Rust | 0 | ⚛️ Qylith — The First AI-Native, Quantum-Resistant Layer 1 Blockchain \| FALCON-1024 + ML-KEM-768 + STARK | 2026-07-05 |
-| 77 | [Bitmask-Snap](https://github.com/bitmask-stack/Bitmask-Snap) | 2 | 1 | TypeScript | 0 | Built at ETHDENVER2024, The BitMask <> MetaMask Snap will offer seamless and secure access to the Bitcoin ecosystem for 35 million MetaMask users. This encompasses BTC layer1, the Lightning network, B... | 2024-05-17 |
-| 78 | [eventify](https://github.com/lbkolev/eventify) | 2 | 0 | Rust | 0 | EVM event pipeline | 2024-03-13 |
+| 76 | [Qylith](https://github.com/zoahdev/Qylith) | 2 | 0 | Rust | 0 | ⚛️ Qylith — The First AI-Native, Quantum-Resistant Layer 1 Blockchain \| FALCON-1024 + ML-KEM-768 + STARK | 2026-07-05 |
+| 77 | [eventify](https://github.com/lbkolev/eventify) | 2 | 0 | Rust | 0 | EVM event pipeline | 2024-03-13 |
+| 78 | [Bitmask-Snap](https://github.com/bitmask-stack/Bitmask-Snap) | 2 | 1 | TypeScript | 0 | Built at ETHDENVER2024, The BitMask <> MetaMask Snap will offer seamless and secure access to the Bitcoin ecosystem for 35 million MetaMask users. This encompasses BTC layer1, the Lightning network, B... | 2024-05-17 |
 | 79 | [layer2-course](https://github.com/Web3Arabs/layer2-course) | 2 | 0 | - | 0 | محتوى الدورة التدريبية مقدمة إلى Layer2 و Rollups في Web3Arabs - الأفضل للمبتدئين للحصول على نظرة عامة حول حلول الطبقة الثانية وتقنيات Rollups للتوسع في Ethereum | 2023-09-18 |
 | 80 | [doc](https://github.com/Amichain/doc) | 2 | 1 | TypeScript | 0 | Amichain documentation - Layer 1 blockchain ecosystem by AMI (Avax Meme Index) team | 2025-06-26 |
 | 81 | [VRAM](https://github.com/MeoMunDep/VRAM) | 2 | 0 | Shell | 0 | Auto swap tokens, create agent, chat with agent. | 2025-11-12 |
