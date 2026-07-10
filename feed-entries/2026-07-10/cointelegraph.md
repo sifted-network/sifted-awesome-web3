@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-07-10"
 date: "2026-07-10"
 source: "Cointelegraph"
-count: 15
+count: 20
 ---
 
 # Cointelegraph - 2026-07-10
 
-15 items collected.
+20 items collected.
 
 ---
 
-## 1. MiCA licensing only the beginning as crypto custodians face scrutiny
+## 1. New Hampshire council votes down $100M Bitcoin bonds
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/10/2026, 5:23:10 PM  
+**Categories:** Latest News  
+
+State representative Keith Ammon said the New Hampshire executive council's vote against Bitcoin-backed bonds was “short-sighted,” urging the body to reconsider the measure.
+
+📖 [Read original article](https://cointelegraph.com/news/new-hampshire-votes-against-bitcoin-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Backpack joins race for 24/7 stock markets with tokenized equities
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/10/2026, 4:36:36 PM  
+**Categories:** Latest News  
+
+The launch comes as tokenized stocks become one of the fastest-growing corners of crypto, with exchanges and traditional finance firms racing to expand 24/7 trading.
+
+📖 [Read original article](https://cointelegraph.com/news/backpack-launches-247-trading-for-tokenized-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Crypto Biz: How stablecoins found their niche
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/10/2026, 3:37:37 PM  
+**Categories:** Latest News  
+
+Stablecoins are carving out specialized roles as regulation reshapes the market, while Strategy’s Bitcoin sale and Vanguard’s tokenization push highlight crypto’s evolving financial landscape.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-biz-how-stablecoins-found-their-niche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/10/2026, 2:59:30 PM  
+**Categories:** Markets  
+
+Bitcoin price gains came thanks to US whales propeling the Coinbase Premium above a key trend line, new analysis from CryptoQuant reported.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-whales-sent-btc-price-to-64k-as-coinbase-premium-broke-key-level-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. A16z’s Andreessen lands Federal Reserve role as AI reshapes policy debate
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 7/10/2026, 2:12:53 PM  
+**Categories:** Latest News  
+
+The Fed named a16z co-founder Marc Andreessen to co-lead an AI productivity and jobs task force under Chair Kevin Warsh’s policy review.
+
+📖 [Read original article](https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. MiCA licensing only the beginning as crypto custodians face scrutiny
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/10/2026, 1:54:50 PM  
@@ -23,7 +83,7 @@ A MiCA license allows crypto firms to operate in the EU, but the ESMA’s review
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 7. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/10/2026, 1:46:13 PM  
@@ -35,7 +95,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. Will the crypto lobby's $189M campaign get CLARITY over the line?
+## 8. Will the crypto lobby's $189M campaign get CLARITY over the line?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 7/10/2026, 1:30:00 PM  
@@ -47,7 +107,7 @@ As the CLARITY Act advances, crypto's growing political influence in Washington 
 
 ---
 
-## 4. US charges prisoner over alleged laundering of seized Kraken crypto
+## 9. US charges prisoner over alleged laundering of seized Kraken crypto
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/10/2026, 12:27:40 PM  
@@ -59,7 +119,7 @@ US prosecutors charged Rossen Iossifov over the alleged laundering of $290,000 i
 
 ---
 
-## 5. Wall Street banks tighten prediction market rules for staff as insider fears spread
+## 10. Wall Street banks tighten prediction market rules for staff as insider fears spread
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/10/2026, 11:51:02 AM  
@@ -71,7 +131,7 @@ Wall Street banks, including Goldman Sachs and Morgan Stanley, are restricting e
 
 ---
 
-## 6. USDC issuer Circle wins final approval for US national trust bank charter
+## 11. USDC issuer Circle wins final approval for US national trust bank charter
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/10/2026, 11:37:25 AM  
@@ -83,7 +143,7 @@ Circle announces it received final OCC approval for a national trust bank that w
 
 ---
 
-## 7. Japanese lender launches Bitcoin-backed loans of up to $6.2M
+## 12. Japanese lender launches Bitcoin-backed loans of up to $6.2M
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/10/2026, 11:24:06 AM  
@@ -95,7 +155,7 @@ CRYL is offering Bitcoin-backed loans to individuals and businesses as Japanese 
 
 ---
 
-## 8. TeraWulf eyes $3.5B debt raise for Anthropic-linked data center: Report
+## 13. TeraWulf eyes $3.5B debt raise for Anthropic-linked data center: Report
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/10/2026, 10:14:51 AM  
@@ -107,7 +167,7 @@ Bitcoin miner TeraWulf is reportedly seeking $3.5 billion in debt financing led 
 
 ---
 
-## 9. Metaplanet explores Bitcoin-backed digital credit with JPYC in Japan
+## 14. Metaplanet explores Bitcoin-backed digital credit with JPYC in Japan
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/10/2026, 9:58:10 AM  
@@ -119,7 +179,7 @@ Metaplanet said it is studying Bitcoin-backed digital credit products in Japan w
 
 ---
 
-## 10. Bitcoin returns to $64.3K with new 3-week BTC price highs imminent
+## 15. Bitcoin returns to $64.3K with new 3-week BTC price highs imminent
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/10/2026, 9:32:23 AM  
@@ -131,7 +191,7 @@ Bitcoin bulls faced "crucial resistance" at $65,000 next as BTC price action div
 
 ---
 
-## 11. EU parliament passes ‘chat control,’ allowing private chat scans until 2028
+## 16. EU parliament passes ‘chat control,’ allowing private chat scans until 2028
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/10/2026, 6:05:38 AM  
@@ -143,7 +203,7 @@ EU lawmakers have again allowed tech firms to scan chats for abuse material, but
 
 ---
 
-## 12. Robinhood Chain sees over $70M in ETH bridged during first week
+## 17. Robinhood Chain sees over $70M in ETH bridged during first week
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/10/2026, 5:44:20 AM  
@@ -155,7 +215,7 @@ Robinhood’s choice to use Ethereum further solidifies its position as the “u
 
 ---
 
-## 13. Zcash targets July 28 launch for Ironwood network upgrade
+## 18. Zcash targets July 28 launch for Ironwood network upgrade
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/10/2026, 4:25:27 AM  
@@ -167,7 +227,7 @@ Zcash’s next upgrade will replace the once-compromised Orchard pool and may of
 
 ---
 
-## 14. Hackers tried to backdoor Injective NPM package to steal wallet keys
+## 19. Hackers tried to backdoor Injective NPM package to steal wallet keys
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/10/2026, 3:07:47 AM  
@@ -179,7 +239,7 @@ The incident is significant for developers and applications that handle Injectiv
 
 ---
 
-## 15. DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise
+## 20. DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/10/2026, 2:30:44 AM  
