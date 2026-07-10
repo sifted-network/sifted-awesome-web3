@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-07"
 date: "2026-07-07"
 source: "Decrypt"
-count: 12
+count: 9
 ---
 
 # Decrypt - 2026-07-07
 
-12 items collected.
+9 items collected.
 
 ---
 
@@ -116,41 +116,5 @@ The Capital Markets Authority wants to monitor over 20 blockchains for fraud, la
 Market maker Wintermute remains cautious, suggesting that recent Bitcoin action is a relief rally rather than a fundamental market change.
 
 📖 [Read original article](https://decrypt.co/372929/wintermute-cautions-relief-rally-bitcoin-touches-highest-price-weeks)
-
----
-
-## 10. Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto
-
-**Author:** Decrypt Agent  
-**Published:** 7/7/2026, 1:48:44 PM  
-**Categories:** Coins  
-
-The FCA authorization lets the exchange offer equities and derivatives to UK users, a step toward its "everything exchange" ambitions.
-
-📖 [Read original article](https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto)
-
----
-
-## 11. Morning Minute: Strategy Turns Net Seller
-
-**Author:** Tyler Warner  
-**Published:** 7/7/2026, 12:27:58 PM  
-**Categories:** Opinion  
-
-Michael Saylor becomes a major Bitcoin seller. A memecoin gets "exploited" via governance. And Bernstein doubles down on a $150k BTC call.
-
-📖 [Read original article](https://decrypt.co/372909/morning-minute-strategy-turns-net-seller)
-
----
-
-## 12. Traders Sue Polymarket Over 'No' Ruling on Strategy Bitcoin Sale
-
-**Author:** Decrypt Agent  
-**Published:** 7/7/2026, 11:34:51 AM  
-**Categories:** , polygon, Law and Order  
-
-The plaintiffs say Polymarket added a rule after the fact, turning their winning "Yes" bet on Strategy's Bitcoin sale into a loss.
-
-📖 [Read original article](https://decrypt.co/372899/traders-sue-polymarket-over-no-ruling-on-strategy-bitcoin-sale)
 
 ---
