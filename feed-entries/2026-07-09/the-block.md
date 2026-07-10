@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-09"
 date: "2026-07-09"
 source: "The Block"
-count: 19
+count: 14
 ---
 
 # The Block - 2026-07-09
 
-19 items collected.
+14 items collected.
 
 ---
 
@@ -176,65 +176,5 @@ Chitra said he expects tokenization and vaults to grow the DeFi market faster th
 Bitcoin long-term holder capitulation hit $280M/day, the highest since Dec 2022, a sign Glassnode says may flag a bottom forming.
 
 📖 [Read original article](https://www.theblock.co/post/407713/bottom-building-in-progress-analysts-say-bitcoin-holder-capitulation-signals-late-stage-bear-market?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Crypto hack losses fall below $1 billion in H1 2026 despite record attack volume: Immunefi
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/9/2026, 1:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, Security, Hacks, Security Firms  
-
-Crypto hacks hit a record 207 incidents in H1 2026, but losses fell to $972M as DeFi exploit damage dropped 74% from 2022, per Immunefi.
-
-📖 [Read original article](https://www.theblock.co/post/407707/crypto-hack-losses-fall-below-1-billion-in-h1-2026-even-as-attack-volume-hits-record-immunefi?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Aave Labs rolls out Stable Vaults, offering predictable stablecoin yield aimed at mainstream users
-
-**Author:** Daniel Kuhn  
-**Published:** 7/9/2026, 1:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Finance firms, Aave, Fintech, Lending  
-
-Stable Vaults will continuously “optimize capital allocation” across DeFi yield strategies, like Aave V3 and V4 markets.
-
-📖 [Read original article](https://www.theblock.co/post/407645/aave-labs-rolls-out-stable-vaults-offering-predictable-stablecoin-yield-aimed-at-mainstream-users?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Stripe-owned Privy and Jito co-develop Solana transaction inclusion tool FullSend
-
-**Author:** Daniel Kuhn  
-**Published:** 7/9/2026, 12:30:02 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Infrastructure, Layer 1s, Markets, Token Projects, exclusive, MEV, Solana, Validators, Wallets  
-
-FullSend works by automatically routing every transaction signed in a Privy wallet directly to the current Solana block-building leader.
-
-📖 [Read original article](https://www.theblock.co/post/407628/stripe-privy-jito-develop-solana-transaction-inclusion-tool-fullsend?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. CFTC Chair Selig warns regulators will end up ‘writing all the rules’ for crypto if Clarity Act stalls
-
-**Author:** Brian Danga  
-**Published:** 7/9/2026, 11:42:34 AM  
-**Categories:** Policy, Regulation, The Block, U.S. Policymaking, CFTC, Congress, SEC, Senate Banking Committee  
-
-CFTC Chair Michael Selig warned regulators may end up writing crypto rules if Congress fails to pass the Clarity Act.
-
-📖 [Read original article](https://www.theblock.co/post/407703/cftc-chair-selig-warns-regulators-will-end-up-writing-all-the-rules-for-crypto-if-clarity-act-stalls?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. BitGo introduces quantum protection for institutional Bitcoin wallets
-
-**Author:** RT Watson  
-**Published:** 7/9/2026, 11:05:02 AM  
-**Categories:** Companies, The Block, exclusive  
-
-Some experts have argued the greater risks posed by quantum computing revolve around a failure to implement new technology.
-
-📖 [Read original article](https://www.theblock.co/post/407661/bitgo-quantum-protection-institutional-bitcoin-wallets?utm_source=rss&utm_medium=rss)
 
 ---
