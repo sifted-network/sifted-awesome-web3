@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-09"
 date: "2026-07-09"
 source: "Cointelegraph"
-count: 15
+count: 10
 ---
 
 # Cointelegraph - 2026-07-09
 
-15 items collected.
+10 items collected.
 
 ---
 
@@ -128,65 +128,5 @@ Bitcoin gained new upside targets for the daily close and beyond after US presid
 Dealing with large post quantum signatures slowing down Bitcoin can be solved with bigger blocks, or aggregating signatures using STARK proofs.
 
 📖 [Read original article](https://cointelegraph.com/features/bigger-blocks-or-stark-proofs-bitcoins-quantum-dilemma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Hong Kong regulator orders new anti-phishing measures for crypto platforms
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/9/2026, 12:53:44 PM  
-**Categories:** Latest News  
-
-Hong Kong’s regulator has ordered crypto platforms and online brokers to meet newly issued phishing-resistant login requirements within the next 12 months.
-
-📖 [Read original article](https://cointelegraph.com/news/hong-kong-regulator-anti-phishing-measures-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Sony Bank gets US regulator nod to issue stablecoins
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/9/2026, 11:18:41 AM  
-**Categories:** Latest News  
-
-Sony Bank received preliminary approval from the Office of the Comptroller of the Currency to establish a US stablecoin issuance business, with $40 million in starting capital.
-
-📖 [Read original article](https://cointelegraph.com/news/sony-bank-preliminary-approval-us-stablecoin-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Interpol operation exposes $122M crypto wallet tied to romance scam laundering
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/9/2026, 11:18:21 AM  
-**Categories:** Latest News  
-
-Interpol said a suspect's crypto wallet processed over $122.5 million in 10 months as authorities uncovered the scheme during a global anti-fraud operation that led to 5,811 arrests.
-
-📖 [Read original article](https://cointelegraph.com/news/interpol-122m-crypto-flows-romance-scam-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Revolut says USDT delisting is limited to EEA, Switzerland
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/9/2026, 10:23:24 AM  
-**Categories:** Latest News  
-
-Revolut said USDT support remains unchanged outside EEA and Switzerland as it winds down the stablecoin offering in selected European markets.
-
-📖 [Read original article](https://cointelegraph.com/news/revolut-usdt-delisting-limited-eea-switzerland?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Hyperliquid shows how onchain perps could challenge Wall Street: Pantera
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/9/2026, 10:02:32 AM  
-**Categories:** Latest News  
-
-Perpetual futures and Hyperliquid’s blockchain infrastructure are expanding into traditional asset classes with around-the-clock trading, according to Pantera Capital.
-
-📖 [Read original article](https://cointelegraph.com/news/hyperliquid-onchain-perps-absorbing-tradfi-markets-pantera-capital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
