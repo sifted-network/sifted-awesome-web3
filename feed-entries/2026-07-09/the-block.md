@@ -11,7 +11,55 @@ count: 19
 
 ---
 
-## 1. White House defends Trump’s regulatory appointments as CFTC vacancies complicate crypto bill push
+## 1. Bitwise says bitcoin’s ‘floor is rising’ despite AI boom and regulatory delays
+
+**Author:** Kyle Baird  
+**Published:** 7/9/2026, 9:54:35 PM  
+**Categories:** Companies, Crypto Ecosystems, Funds, Layer 1s, Markets, Policy, Regulation, Token Projects, Web3, AI, Bitcoin, Bitcoin ETF  
+
+Bitwise says institutions are buying the bitcoin bear market dip, while many larger investors are still awaiting regulatory clarity.
+
+📖 [Read original article](https://www.theblock.co/post/407790/bitwise-says-bitcoins-floor-rising-despite-ai-boom-regulatory-delays?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Coinbase Chief Legal Officer Paul Grewal steps down, remains in advisory role
+
+**Author:** Daniel Kuhn  
+**Published:** 7/9/2026, 9:13:44 PM  
+**Categories:** Companies, Exchanges, Markets, Policy, Public Equities, Regulation, Coinbase, SEC  
+
+Coinbase Chief Legal Officer Paul Grewal joined the firm in mid-2020 to lead its legal, compliance and government relations operations.
+
+📖 [Read original article](https://www.theblock.co/post/407809/coinbase-chief-legal-officer-paul-grewal-steps-down?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Ethereum Foundation says AI agents find real bugs, but most are false positives
+
+**Author:** RT Watson  
+**Published:** 7/9/2026, 7:51:23 PM  
+**Categories:** Crypto Ecosystems, DeFi, Layer 1s, Markets, Security, Token Projects, Web3, AI, Ethereum, Exploits  
+
+The Ethereum Foundation's Protocol Security team has been using coordinated AI agents to test critical network infrastructure.
+
+📖 [Read original article](https://www.theblock.co/post/407793/ethereum-foundation-says-ai-agents-find-real-bugs-but-most-are-false-positives?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. CryptoQuant says bitcoin rebound remains a bear-market recovery, not a trend reversal
+
+**Author:** Yogita Khatri  
+**Published:** 7/9/2026, 7:45:15 PM  
+**Categories:** Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin  
+
+CryptoQuant said bitcoin's recent rebound should be viewed as a bear-market recovery rather than a trend reversal.
+
+📖 [Read original article](https://www.theblock.co/post/407796/cryptoquant-bitcoin-rebound-bear-market-recovery-not-trend-reversal?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. White House defends Trump’s regulatory appointments as CFTC vacancies complicate crypto bill push
 
 **Author:** Sarah Wynn  
 **Published:** 7/9/2026, 5:53:16 PM  
@@ -23,7 +71,7 @@ The White House pushed back against Democrats’ criticism that the administrati
 
 ---
 
-## 2. Hyperliquid Policy Center, Phantom urge CFTC to stop treating onchain protocols like traditional brokers and exchanges
+## 6. Hyperliquid Policy Center, Phantom urge CFTC to stop treating onchain protocols like traditional brokers and exchanges
 
 **Author:** Daniel Kuhn  
 **Published:** 7/9/2026, 4:00:23 PM  
@@ -35,7 +83,7 @@ The CFTC and Securities and Exchange Commission issued a Request for Information
 
 ---
 
-## 3. JPMorgan says bitcoin’s main risk isn’t Strategy, but blockchain adoption that doesn’t benefit public chains and tokens
+## 7. JPMorgan says bitcoin’s main risk isn’t Strategy, but blockchain adoption that doesn’t benefit public chains and tokens
 
 **Author:** Yogita Khatri  
 **Published:** 7/9/2026, 3:44:13 PM  
@@ -47,7 +95,7 @@ JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adop
 
 ---
 
-## 4. Why this Wall Street veteran is betting on Avalanche
+## 8. Why this Wall Street veteran is betting on Avalanche
 
 **Author:** Jordan Leech  
 **Published:** 7/9/2026, 3:03:40 PM  
@@ -59,7 +107,7 @@ Avalanche Treasury Company CEO Bart Smith explains his beliefs on the functions 
 
 ---
 
-## 5. Supreme Court ruling expanding Trump’s authority over federal agencies raises questions for SEC, CFTC as crypto rulemaking advances
+## 9. Supreme Court ruling expanding Trump’s authority over federal agencies raises questions for SEC, CFTC as crypto rulemaking advances
 
 **Author:** Sarah Wynn  
 **Published:** 7/9/2026, 2:56:38 PM  
@@ -71,7 +119,7 @@ A recent Supreme Court ruling expanding President Trump's authority to remove le
 
 ---
 
-## 6. MARA gains 14% after unveiling 2 GW Texas AI and bitcoin mining campus plan
+## 10. MARA gains 14% after unveiling 2 GW Texas AI and bitcoin mining campus plan
 
 **Author:** Kyle Baird  
 **Published:** 7/9/2026, 2:38:29 PM  
@@ -83,7 +131,7 @@ The deal isn't an upfront purchase, but is structured instead as up to $600 mill
 
 ---
 
-## 7. Hong Kong SFC orders crypto platforms, online brokers to phase out OTP logins
+## 11. Hong Kong SFC orders crypto platforms, online brokers to phase out OTP logins
 
 **Author:** Brian Danga  
 **Published:** 7/9/2026, 2:01:43 PM  
@@ -95,7 +143,7 @@ Hong Kong SFC orders internet brokers, crypto platforms to replace OTP logins wi
 
 ---
 
-## 8. PayPal seeks to increase use of PYUSD stablecoin with native issuance on Polygon
+## 12. PayPal seeks to increase use of PYUSD stablecoin with native issuance on Polygon
 
 **Author:** RT Watson  
 **Published:** 7/9/2026, 1:54:53 PM  
@@ -107,7 +155,7 @@ The company said its stablecoin will now be issued natively on Polygon, in addit
 
 ---
 
-## 9. Tarun Chitra’s Gauntlet raises $125 million Series C from sole investor SBI Holdings
+## 13. Tarun Chitra’s Gauntlet raises $125 million Series C from sole investor SBI Holdings
 
 **Author:** Yogita Khatri  
 **Published:** 7/9/2026, 1:42:54 PM  
@@ -119,7 +167,7 @@ Chitra said he expects tokenization and vaults to grow the DeFi market faster th
 
 ---
 
-## 10. ‘Bottom building in progress’: Analysts say bitcoin holder capitulation signals late-stage bear market
+## 14. ‘Bottom building in progress’: Analysts say bitcoin holder capitulation signals late-stage bear market
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/9/2026, 1:33:53 PM  
@@ -131,7 +179,7 @@ Bitcoin long-term holder capitulation hit $280M/day, the highest since Dec 2022,
 
 ---
 
-## 11. Crypto hack losses fall below $1 billion in H1 2026 despite record attack volume: Immunefi
+## 15. Crypto hack losses fall below $1 billion in H1 2026 despite record attack volume: Immunefi
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/9/2026, 1:00:00 PM  
@@ -143,7 +191,7 @@ Crypto hacks hit a record 207 incidents in H1 2026, but losses fell to $972M as 
 
 ---
 
-## 12. Aave Labs rolls out Stable Vaults, offering predictable stablecoin yield aimed at mainstream users
+## 16. Aave Labs rolls out Stable Vaults, offering predictable stablecoin yield aimed at mainstream users
 
 **Author:** Daniel Kuhn  
 **Published:** 7/9/2026, 1:00:00 PM  
@@ -155,7 +203,7 @@ Stable Vaults will continuously “optimize capital allocation” across DeFi yi
 
 ---
 
-## 13. Stripe-owned Privy and Jito co-develop Solana transaction inclusion tool FullSend
+## 17. Stripe-owned Privy and Jito co-develop Solana transaction inclusion tool FullSend
 
 **Author:** Daniel Kuhn  
 **Published:** 7/9/2026, 12:30:02 PM  
@@ -167,7 +215,7 @@ FullSend works by automatically routing every transaction signed in a Privy wall
 
 ---
 
-## 14. CFTC Chair Selig warns regulators will end up ‘writing all the rules’ for crypto if Clarity Act stalls
+## 18. CFTC Chair Selig warns regulators will end up ‘writing all the rules’ for crypto if Clarity Act stalls
 
 **Author:** Brian Danga  
 **Published:** 7/9/2026, 11:42:34 AM  
@@ -179,7 +227,7 @@ CFTC Chair Michael Selig warned regulators may end up writing crypto rules if Co
 
 ---
 
-## 15. BitGo introduces quantum protection for institutional Bitcoin wallets
+## 19. BitGo introduces quantum protection for institutional Bitcoin wallets
 
 **Author:** RT Watson  
 **Published:** 7/9/2026, 11:05:02 AM  
@@ -188,53 +236,5 @@ CFTC Chair Michael Selig warned regulators may end up writing crypto rules if Co
 Some experts have argued the greater risks posed by quantum computing revolve around a failure to implement new technology.
 
 📖 [Read original article](https://www.theblock.co/post/407661/bitgo-quantum-protection-institutional-bitcoin-wallets?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. BitGo CEO says single-digit percentages of bitcoin’s supply are ‘probably right’ for large holders amid Strategy’s sale
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/9/2026, 11:01:37 AM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, The Block, Token Projects, Bitcoin, Strategy  
-
-BitGo CEO Mike Belshe said single-digit bitcoin ownership levels make sense for large holders like Strategy after its $216 million sale.
-
-📖 [Read original article](https://www.theblock.co/post/407697/bitgo-ceo-says-single-digit-percentages-of-bitcoins-supply-are-probably-right-for-large-holders-amid-strategys-sale?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Swift launches blockchain ledger for tokenized deposit pilot with 17 banks
-
-**Author:** Brian Danga  
-**Published:** 7/9/2026, 9:52:21 AM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, The Block, TradFi banks  
-
-Swift launched a blockchain-based ledger that enables 17 banks to pilot 24/7 cross-border payments using tokenized deposits.
-
-📖 [Read original article](https://www.theblock.co/post/407687/swift-launches-blockchain-ledger-for-tokenized-deposit-pilot-with-17-banks?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. INTERPOL-led global fraud crackdown arrests over 5,800, uncovers crypto laundering network tied to $122.5 million wallet
-
-**Author:** James Hunt  
-**Published:** 7/9/2026, 9:39:20 AM  
-**Categories:** Legal, Policy, Regulation, The Block, Anti-Money Laundering, Crime  
-
-The operation uncovered a crypto laundering network using cross-chain swaps to obscure funds, with one wallet processing $122.5M in 10 months.
-
-📖 [Read original article](https://www.theblock.co/post/407685/interpol-led-global-fraud-crackdown-arrests-over-5800-uncovers-crypto-laundering-network-tied-to-122-5-million-wallet?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. Russia’s Alfa Bank plans to launch digital depository to offer crypto services: report
-
-**Author:** Danny Park  
-**Published:** 7/9/2026, 9:10:50 AM  
-**Categories:** Companies, The Block  
-
-The move aligns with similar announcements from other major Russian banks, amid the development of the country's crypto law.
-
-📖 [Read original article](https://www.theblock.co/post/407679/russia-alfa-bank-crypto?utm_source=rss&utm_medium=rss)
 
 ---
