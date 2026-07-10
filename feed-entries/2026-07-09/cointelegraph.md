@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-07-09"
 date: "2026-07-09"
 source: "Cointelegraph"
-count: 24
+count: 28
 ---
 
 # Cointelegraph - 2026-07-09
 
-24 items collected.
+28 items collected.
 
 ---
 
-## 1. Bitcoin miners’ AI pivot faces investor scrutiny over insider sales
+## 1. Coinbase chief legal officer to transition to advisory role on July 31
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/9/2026, 9:35:12 PM  
+**Categories:** Latest News  
+
+The soon-to-be former chief legal officer did not announce the details of his next move but said that he would continue working with the Board of Coinbase National Trust Company.
+
+📖 [Read original article](https://cointelegraph.com/news/coinbase-chief-legal-officer-stepping-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitdeer stock jumps 14% as company expands US mining hardware production
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/9/2026, 8:19:15 PM  
+**Categories:** Latest News  
+
+Bitdeer shares rallied after the company announced a $36 million Nevada manufacturing facility that will produce its SEALMINER Bitcoin mining machines and expand its hardware business.
+
+📖 [Read original article](https://cointelegraph.com/news/bitdeer-stock-jumps-14-bitcoin-mining-hardware-maker-expands-us-manufacturing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
+
+**Author:** Cointelegraph  
+**Published:** 7/9/2026, 8:17:33 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. White House says it received no Democratic response related to SEC, CFTC vacancies
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/9/2026, 7:48:37 PM  
+**Categories:** Latest News  
+
+Both US financial regulators are understaffed at the leadership level and lacking Democratic commissioners, with no announcement from President Donald Trump on filling the roles.
+
+📖 [Read original article](https://cointelegraph.com/news/white-house-request-cftc-sec-nominations-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Phantom, Hyperliquid ask CFTC to modernize rules for onchain derivatives
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/9/2026, 7:36:52 PM  
+**Categories:** Latest News  
+
+The companies urged the regulator to exempt blockchain developers and non-custodial wallet providers from rules designed for traditional financial intermediaries.
+
+📖 [Read original article](https://cointelegraph.com/news/phantom-hyperliquid-ask-cftc-to-modernize-rules-for-onchain-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Bitcoin miners’ AI pivot faces investor scrutiny over insider sales
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/9/2026, 5:09:01 PM  
@@ -23,7 +83,7 @@ As AI-driven mining stocks retreat, investors are examining executive stock sale
 
 ---
 
-## 2. UK politicians mull permanent crypto donation ban in wake of Nigel Farage scandal
+## 7. UK politicians mull permanent crypto donation ban in wake of Nigel Farage scandal
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/9/2026, 4:42:18 PM  
@@ -35,7 +95,7 @@ Labour lawmakers proposed a full moratorium on crypto donations in March, which 
 
 ---
 
-## 3. Can Bitcoin hold $62K ahead of Friday’s $1.4 billion options expiry?
+## 8. Can Bitcoin hold $62K ahead of Friday’s $1.4 billion options expiry?
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 7/9/2026, 4:31:10 PM  
@@ -47,7 +107,7 @@ US 10-year Treasury yields nears dangerous level while major Deribit Bitcoin opt
 
 ---
 
-## 4. MARA shares surge after 2 GW Texas infrastructure deal expands AI ambitions
+## 9. MARA shares surge after 2 GW Texas infrastructure deal expands AI ambitions
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/9/2026, 4:26:33 PM  
@@ -59,7 +119,7 @@ The Bitcoin miner's shares climbed about 15% after announcing it's acquiring a T
 
 ---
 
-## 5. Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments
+## 10. Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/9/2026, 3:56:59 PM  
@@ -71,7 +131,7 @@ Bitcoin gained new upside targets for the daily close and beyond after US presid
 
 ---
 
-## 6. Bitcoin’s quantum dilemma: Bigger blocks or STARK proofs?
+## 11. Bitcoin’s quantum dilemma: Bigger blocks or STARK proofs?
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 7/9/2026, 1:30:00 PM  
@@ -83,7 +143,7 @@ Dealing with large post quantum signatures slowing down Bitcoin can be solved wi
 
 ---
 
-## 7. Hong Kong regulator orders new anti-phishing measures for crypto platforms
+## 12. Hong Kong regulator orders new anti-phishing measures for crypto platforms
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/9/2026, 12:53:44 PM  
@@ -95,7 +155,7 @@ Hong Kong’s regulator has ordered crypto platforms and online brokers to meet 
 
 ---
 
-## 8. Sony Bank gets US regulator nod to issue stablecoins
+## 13. Sony Bank gets US regulator nod to issue stablecoins
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/9/2026, 11:18:41 AM  
@@ -107,7 +167,7 @@ Sony Bank received preliminary approval from the Office of the Comptroller of th
 
 ---
 
-## 9. Interpol operation exposes $122M crypto wallet tied to romance scam laundering
+## 14. Interpol operation exposes $122M crypto wallet tied to romance scam laundering
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/9/2026, 11:18:21 AM  
@@ -119,7 +179,7 @@ Interpol said a suspect's crypto wallet processed over $122.5 million in 10 mont
 
 ---
 
-## 10. Revolut says USDT delisting is limited to EEA, Switzerland
+## 15. Revolut says USDT delisting is limited to EEA, Switzerland
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/9/2026, 10:23:24 AM  
@@ -131,7 +191,7 @@ Revolut said USDT support remains unchanged outside EEA and Switzerland as it wi
 
 ---
 
-## 11. Hyperliquid shows how onchain perps could challenge Wall Street: Pantera
+## 16. Hyperliquid shows how onchain perps could challenge Wall Street: Pantera
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/9/2026, 10:02:32 AM  
@@ -143,7 +203,7 @@ Perpetual futures and Hyperliquid’s blockchain infrastructure are expanding in
 
 ---
 
-## 12. Bitcoin ETFs end 'most overwhelming' $2.7B sell-off amid new $85M net outflow
+## 17. Bitcoin ETFs end 'most overwhelming' $2.7B sell-off amid new $85M net outflow
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/9/2026, 9:58:07 AM  
@@ -155,7 +215,7 @@ Bitcoin spot ETFs posted a fresh net outflow on Wednesday as analysis said that 
 
 ---
 
-## 13. Bank of Korea stands firm on bank-led stablecoin push as deposit token pilots advance
+## 18. Bank of Korea stands firm on bank-led stablecoin push as deposit token pilots advance
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/9/2026, 9:19:38 AM  
@@ -167,7 +227,7 @@ The Bank of Korea reiterated its call for bank-led won stablecoin issuance while
 
 ---
 
-## 14. Swift launches blockchain ledger with 17-bank tokenized deposit pilot
+## 19. Swift launches blockchain ledger with 17-bank tokenized deposit pilot
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/9/2026, 8:51:48 AM  
@@ -179,7 +239,7 @@ Swift launched its new blockchain ledger that will host a tokenized bank deposit
 
 ---
 
-## 15. Regulators invited Binance to seek new licenses after MiCA setback, co-CEO says
+## 20. Regulators invited Binance to seek new licenses after MiCA setback, co-CEO says
 
 **Author:** Cointelegraph  
 **Published:** 7/9/2026, 8:26:30 AM  
@@ -191,7 +251,7 @@ Binance is exploring new licensing paths into Europe while continuing to expand 
 
 ---
 
-## 16. Russia's largest private bank Alfa-Bank tests crypto trading
+## 21. Russia's largest private bank Alfa-Bank tests crypto trading
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/9/2026, 8:22:36 AM  
@@ -203,7 +263,7 @@ Alfa-Bank is testing cryptocurrency trading for qualified investors as Russia mo
 
 ---
 
-## 17. Wyden urges Senate leaders to keep dev protections in crypto bill
+## 22. Wyden urges Senate leaders to keep dev protections in crypto bill
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/9/2026, 6:03:49 AM  
@@ -215,19 +275,7 @@ Senator Ron Wyden has called on Senate leaders to ensure the Blockchain Regulato
 
 ---
 
-## 18. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/9/2026, 6:00:00 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Trader loses $1M after signing phishing token approval
+## 23. Trader loses $1M after signing phishing token approval
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/9/2026, 5:57:23 AM  
@@ -239,7 +287,7 @@ Onchain scammers netted more than $14 billion last year, and approval phishing r
 
 ---
 
-## 20. AI is shortening the shelf life of crypto security audits, researchers warn
+## 24. AI is shortening the shelf life of crypto security audits, researchers warn
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/9/2026, 5:47:09 AM  
@@ -251,7 +299,7 @@ Hackers have also been exploiting the codebases of defunct decentralized finance
 
 ---
 
-## 21. AI boom fuels inflation fears, complicating Fed’s next rate move
+## 25. AI boom fuels inflation fears, complicating Fed’s next rate move
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/9/2026, 4:12:10 AM  
@@ -263,7 +311,7 @@ Ongoing strong demand for AI infrastructure “would likely sustain upward press
 
 ---
 
-## 22. Crypto VC Paradigm raises $1.2B to push into AI
+## 26. Crypto VC Paradigm raises $1.2B to push into AI
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/9/2026, 2:33:00 AM  
@@ -275,7 +323,7 @@ Crypto venture firm Paradigm is widening its investment gaze toward AI and other
 
 ---
 
-## 23. Mark Cuban-backed DeFi dashboard Zapper shutters after 7 years
+## 27. Mark Cuban-backed DeFi dashboard Zapper shutters after 7 years
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/9/2026, 2:32:20 AM  
@@ -287,7 +335,7 @@ Zapper provided crypto market data to over 2 million monthly active users and ov
 
 ---
 
-## 24. Crypto could benefit if Fed steps in to backstop US stock market: Analysts
+## 28. Crypto could benefit if Fed steps in to backstop US stock market: Analysts
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/9/2026, 1:32:12 AM  
