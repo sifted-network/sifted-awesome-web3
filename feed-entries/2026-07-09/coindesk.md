@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-09"
 date: "2026-07-09"
 source: "CoinDesk"
-count: 11
+count: 10
 ---
 
 # CoinDesk - 2026-07-09
 
-11 items collected.
+10 items collected.
 
 ---
 
@@ -128,17 +128,5 @@ Aave's new Stable Vaults product lets wallets, exchanges and payment apps offer 
 KOSA and Chat Control both retreated on their most-criticized measures this week, but both kept mandatory age verification, the quiet mechanism that turns anonymous browsing into identified browsing for all of us, argues Billions CEO Evin McMullen.
 
 📖 [Read original article](https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for)
-
----
-
-## 11. Over $7.2 billion have migrated from LayerZero to Chainlink CCIP as Mantle joins exodus
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/9/2026, 12:00:00 PM  
-**Categories:** Finance, Web3, Crypto News, Exclusive, News  
-
-Migrations to Chainlink CCIP so far include Kelp and Lombard, both of which brought over $1 billion, as well as Solv Protocol, Virtuals, Re and Kraken’s tokenized assets.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/09/over-usd7-2-billion-have-migrated-from-layerzero-to-chainlink-ccip-as-mantle-joins-exodus)
 
 ---
