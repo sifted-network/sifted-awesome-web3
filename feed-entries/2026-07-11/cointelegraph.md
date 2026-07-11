@@ -2,28 +2,52 @@
 title: "Cointelegraph - 2026-07-11"
 date: "2026-07-11"
 source: "Cointelegraph"
-count: 6
+count: 8
 ---
 
 # Cointelegraph - 2026-07-11
 
-6 items collected.
+8 items collected.
 
 ---
 
-## 1. Bonzo Lend loses $9M in oracle exploit on Hedera
+## 1. Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision
+
+**Author:** Cointelegraph by Ciaran Lyons  
+**Published:** 7/11/2026, 1:30:00 PM  
+**Categories:** Features  
+
+Real Vision chief crypto analyst Jamie Coutts said it's far too early to call $1 million by 2030, but he's confident Bitcoin could climb up to $250,000 over the next couple of years.
+
+📖 [Read original article](https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?
+
+**Author:** Cointelegraph by Marcel Pechman  
+**Published:** 7/11/2026, 12:55:18 PM  
+**Categories:** Markets  
+
+Despite strong tokenization gains and institutional accumulation, weak onchain and derivatives data leaves ETH vulnerable to a $1,700 retest.
+
+📖 [Read original article](https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Bonzo Lend loses $9M in oracle exploit on Hedera
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/11/2026, 11:56:54 AM  
 **Categories:** Latest News  
 
-An attacker inflated the value of SAUCE collateral and borrowed $9 million from Bonzo Lend through a flaw in Supra’s on-chain oracle verifier.
+An attacker inflated the value of SAUCE collateral and borrowed $9 million from Bonzo Lend through a flaw in Supra’s onchain oracle verifier.
 
 📖 [Read original article](https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-## 2. Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market
+## 4. Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/11/2026, 11:21:07 AM  
@@ -35,7 +59,7 @@ Bitcoin price gains approached 10% for the first two weeks of the month, but ana
 
 ---
 
-## 3. Dollar stablecoins could improve FX access but amplify currency runs: IMF paper
+## 5. Dollar stablecoins could improve FX access but amplify currency runs: IMF paper
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/11/2026, 9:14:12 AM  
@@ -47,7 +71,7 @@ An IMF working paper says dollar stablecoins can improve access to foreign curre
 
 ---
 
-## 4. Here’s what happened in crypto today
+## 6. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/11/2026, 4:13:13 AM  
@@ -59,7 +83,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 5. Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders
+## 7. Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/11/2026, 4:12:30 AM  
@@ -71,7 +95,7 @@ More than 70,000 agentic accounts have already been created by Robinhood equitie
 
 ---
 
-## 6. DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report
+## 8. DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/11/2026, 1:30:31 AM  
