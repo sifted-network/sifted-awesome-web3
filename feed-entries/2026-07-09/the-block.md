@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-09"
 date: "2026-07-09"
 source: "The Block"
-count: 4
+count: 3
 ---
 
 # The Block - 2026-07-09
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Coinbase Chief Legal Officer Paul Grewal joined the firm in mid-2020 to lead its
 The Ethereum Foundation's Protocol Security team has been using coordinated AI agents to test critical network infrastructure.
 
 📖 [Read original article](https://www.theblock.co/post/407793/ethereum-foundation-says-ai-agents-find-real-bugs-but-most-are-false-positives?utm_source=rss&utm_medium=rss)
-
----
-
-## 4. CryptoQuant says bitcoin rebound remains a bear-market recovery, not a trend reversal
-
-**Author:** Yogita Khatri  
-**Published:** 7/9/2026, 7:45:15 PM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin  
-
-CryptoQuant said bitcoin's recent rebound should be viewed as a bear-market recovery rather than a trend reversal.
-
-📖 [Read original article](https://www.theblock.co/post/407796/cryptoquant-bitcoin-rebound-bear-market-recovery-not-trend-reversal?utm_source=rss&utm_medium=rss)
 
 ---
