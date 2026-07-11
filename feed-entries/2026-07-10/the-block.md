@@ -2,16 +2,40 @@
 title: "The Block - 2026-07-10"
 date: "2026-07-10"
 source: "The Block"
-count: 15
+count: 17
 ---
 
 # The Block - 2026-07-10
 
-15 items collected.
+17 items collected.
 
 ---
 
-## 1. SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks
+## 1. DOJ to drop charges against man accused in $722 million BitClub crypto Ponzi scheme: Bloomberg
+
+**Author:** RT Watson  
+**Published:** 7/10/2026, 8:12:46 PM  
+**Categories:** Companies, Policy, Regulation  
+
+A former contestant on 'The Apprentice' is one of the persons urging the DOJ to drop the charges, the report said.
+
+📖 [Read original article](https://www.theblock.co/post/407931/doj-drop-charges-against-man-accused-722-million-bitclub-crypto-ponzi-scheme-bloomberg?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Here’s what’s next for the Clarity Act as Congress returns to Washington
+
+**Author:** Sarah Wynn  
+**Published:** 7/10/2026, 7:50:57 PM  
+**Categories:** Policy, Regulation, U.S. Policymaking, Congress, House Financial Services Committee, Senate Agriculture Committee, Senate Banking Committee  
+
+Congress returns to Washington next week, ready to take up cryptocurrency legislation before the midterm election calendar takes over.
+
+📖 [Read original article](https://www.theblock.co/post/407930/whats-next-for-clarity-act-congress-returns-to-washington?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks
 
 **Author:** RT Watson  
 **Published:** 7/10/2026, 6:49:02 PM  
@@ -23,7 +47,7 @@ Solana said that tokenized SK Hynix shares on SOL can be acquired through Backpa
 
 ---
 
-## 2. Empery Digital offloads 1,400 bitcoins to help fund AI pivot, pay debt
+## 4. Empery Digital offloads 1,400 bitcoins to help fund AI pivot, pay debt
 
 **Author:** Kyle Baird  
 **Published:** 7/10/2026, 4:39:45 PM  
@@ -35,7 +59,7 @@ Empery Digital used part of the proceeds for a 25% stake in an AI data center ca
 
 ---
 
-## 3. Kraken to relaunch its mobile app with agentic trading and advice at the center
+## 5. Kraken to relaunch its mobile app with agentic trading and advice at the center
 
 **Author:** Daniel Kuhn  
 **Published:** 7/10/2026, 4:27:23 PM  
@@ -47,7 +71,7 @@ Kraken is adding autonomous AI agents capable of monitoring markets and suggesti
 
 ---
 
-## 4. Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization
+## 6. Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/10/2026, 4:07:20 PM  
@@ -59,7 +83,7 @@ Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Het
 
 ---
 
-## 5. Binance co-CEO says 70% of EU withdrawals went to self-custody after MiCA deadline, with just 30% going to licensed platforms
+## 7. Binance co-CEO says 70% of EU withdrawals went to self-custody after MiCA deadline, with just 30% going to licensed platforms
 
 **Author:** Brian Danga  
 **Published:** 7/10/2026, 1:17:52 PM  
@@ -71,7 +95,7 @@ Richard Teng said 70% of EU user withdrawals following its service suspension mo
 
 ---
 
-## 6. ‘Communication challenge, nothing more’: Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem
+## 8. ‘Communication challenge, nothing more’: Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/10/2026, 12:46:18 PM  
@@ -83,7 +107,7 @@ Standard Chartered retained its $100,000 end-2026 bitcoin target, calling Strate
 
 ---
 
-## 7. Stablecoin firm Circle wins final OCC approval to open national trust bank
+## 9. Stablecoin firm Circle wins final OCC approval to open national trust bank
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/10/2026, 11:25:14 AM  
@@ -95,7 +119,7 @@ Circle wins final OCC approval for First National Digital Currency Bank, with US
 
 ---
 
-## 8. Ledger researchers disclose Tangem card flaw; Tangem says risk to everyday users is ‘virtually non-existent’
+## 10. Ledger researchers disclose Tangem card flaw; Tangem says risk to everyday users is ‘virtually non-existent’
 
 **Author:** Brian Danga  
 **Published:** 7/10/2026, 11:08:31 AM  
@@ -107,7 +131,7 @@ Ledger researchers disclosed a laser attack that resets Tangem card passwords by
 
 ---
 
-## 9. New Hampshire’s $100 million bitcoin bond proposal fails to pass final vote
+## 11. New Hampshire’s $100 million bitcoin bond proposal fails to pass final vote
 
 **Author:** Danny Park  
 **Published:** 7/10/2026, 10:29:07 AM  
@@ -119,7 +143,7 @@ Governor Ayotte had expressed support for the proposal, touting it as an innovat
 
 ---
 
-## 10. Revolut integrates its crypto exchange with AI assistants as agentic trading spreads
+## 12. Revolut integrates its crypto exchange with AI assistants as agentic trading spreads
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/10/2026, 10:04:08 AM  
@@ -131,7 +155,7 @@ Revolut X now connects to Claude, Gemini, OpenClaw, and Cursor, letting crypto u
 
 ---
 
-## 11. DOJ charges federal inmate over alleged theft of $290,000 in crypto forfeited to US government
+## 13. DOJ charges federal inmate over alleged theft of $290,000 in crypto forfeited to US government
 
 **Author:** Brian Danga  
 **Published:** 7/10/2026, 9:13:08 AM  
@@ -143,7 +167,7 @@ Federal inmate Rossen Iossifov faces new charges for allegedly taking $290,000 i
 
 ---
 
-## 12. Cathie Wood’s Ark Invest buys $14 million worth of Circle, offloads Robinhood shares
+## 14. Cathie Wood’s Ark Invest buys $14 million worth of Circle, offloads Robinhood shares
 
 **Author:** Danny Park  
 **Published:** 7/10/2026, 9:09:24 AM  
@@ -155,7 +179,7 @@ Circle Internet Group's stock dropped 1.65% during Thursday's trading session, e
 
 ---
 
-## 13. UK Labour MPs push to permanently ban crypto political donations
+## 15. UK Labour MPs push to permanently ban crypto political donations
 
 **Author:** Timmy Shen  
 **Published:** 7/10/2026, 8:44:30 AM  
@@ -167,7 +191,7 @@ Labour MPs are gathering support for proposed amendments to a key bill that woul
 
 ---
 
-## 14. North Carolina passes bill recognizing CFTC preemption over prediction markets
+## 16. North Carolina passes bill recognizing CFTC preemption over prediction markets
 
 **Author:** Danny Park  
 **Published:** 7/10/2026, 5:51:59 AM  
@@ -179,7 +203,7 @@ North Carolina's new law taxes prediction market platforms at 6% of their net tr
 
 ---
 
-## 15. Polymarket files applications to offer regulated margin trading in US
+## 17. Polymarket files applications to offer regulated margin trading in US
 
 **Author:** Danny Park  
 **Published:** 7/10/2026, 4:10:25 AM  
