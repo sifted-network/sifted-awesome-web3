@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-09"
 date: "2026-07-09"
 source: "Cointelegraph"
-count: 10
+count: 6
 ---
 
 # Cointelegraph - 2026-07-09
 
-10 items collected.
+6 items collected.
 
 ---
 
@@ -80,53 +80,5 @@ As AI-driven mining stocks retreat, investors are examining executive stock sale
 Labour lawmakers proposed a full moratorium on crypto donations in March, which some have sought be made permanent after millions of dollars in contributions were linked to Reform leader Nigel Farage.
 
 📖 [Read original article](https://cointelegraph.com/news/uk-politicians-crypto-donation-ban-nigel-farage-scandal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Can Bitcoin hold $62K ahead of Friday’s $1.4 billion options expiry?
-
-**Author:** Cointelegraph by Marcel Pechman  
-**Published:** 7/9/2026, 4:31:10 PM  
-**Categories:** Markets  
-
-US 10-year Treasury yields nears dangerous level while major Deribit Bitcoin options expiry approaches.
-
-📖 [Read original article](https://cointelegraph.com/markets/can-bitcoin-hold-62k-ahead-of-fridays-14-billion-options-expiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. MARA shares surge after 2 GW Texas infrastructure deal expands AI ambitions
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 7/9/2026, 4:26:33 PM  
-**Categories:** Latest News  
-
-The Bitcoin miner's shares climbed about 15% after announcing it's acquiring a Texas site with up to 2 GW of power capacity to expand its AI and digital infrastructure strategy.
-
-📖 [Read original article](https://cointelegraph.com/news/mara-shares-jump-10-after-2-gw-texas-infrastructure-deal-expands-ai-ambitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/9/2026, 3:56:59 PM  
-**Categories:** Markets  
-
-Bitcoin gained new upside targets for the daily close and beyond after US president Donald Trump said that Iran "wants to make a deal."
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-traders-reveal-key-levels-as-btc-price-passes-63k-after-trump-iran-deal-comments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Bitcoin’s quantum dilemma: Bigger blocks or STARK proofs?
-
-**Author:** Cointelegraph by Andrew Fenton  
-**Published:** 7/9/2026, 1:30:00 PM  
-**Categories:** Features  
-
-Dealing with large post quantum signatures slowing down Bitcoin can be solved with bigger blocks, or aggregating signatures using STARK proofs.
-
-📖 [Read original article](https://cointelegraph.com/features/bigger-blocks-or-stark-proofs-bitcoins-quantum-dilemma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
