@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-07-10"
 date: "2026-07-10"
 source: "Cointelegraph"
-count: 20
+count: 23
 ---
 
 # Cointelegraph - 2026-07-10
 
-20 items collected.
+23 items collected.
 
 ---
 
-## 1. New Hampshire council votes down $100M Bitcoin bonds
+## 1. Kraken to overhaul app with AI investing assistant
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/10/2026, 9:07:39 PM  
+**Categories:** Latest News  
+
+The redesigned app will use AI to recommend trades and tailor investing tools around users' financial goals as Kraken expands into broader financial services.
+
+📖 [Read original article](https://cointelegraph.com/news/kraken-to-rebuild-app-around-ai-powered-trading-agents-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/10/2026, 9:03:57 PM  
+**Categories:** Latest News  
+
+Five senators called for committee hearings to investigate US President Donald Trump’s policies potentially being influenced by crypto funding from United Arab Emirates-linked and other entities.
+
+📖 [Read original article](https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
+
+**Author:** Cointelegraph  
+**Published:** 7/10/2026, 8:14:39 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. US CBDC ban to go into effect without Trump signoff on housing bill
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/10/2026, 7:33:03 PM  
+**Categories:** Latest News  
+
+Donald Trump confirmed on social media that he would not sign the 21st Century ROAD to Housing Act, which includes a ban on a US CBDC until the end of 2030, setting the stage for the bill to become law on Saturday.
+
+📖 [Read original article](https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. New Hampshire council votes down $100M Bitcoin bonds
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/10/2026, 5:23:10 PM  
@@ -23,7 +71,7 @@ State representative Keith Ammon said the New Hampshire executive council's vote
 
 ---
 
-## 2. Backpack joins race for 24/7 stock markets with tokenized equities
+## 6. Backpack joins race for 24/7 stock markets with tokenized equities
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/10/2026, 4:36:36 PM  
@@ -35,7 +83,7 @@ The launch comes as tokenized stocks become one of the fastest-growing corners o
 
 ---
 
-## 3. Crypto Biz: How stablecoins found their niche
+## 7. Crypto Biz: How stablecoins found their niche
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/10/2026, 3:37:37 PM  
@@ -47,7 +95,7 @@ Stablecoins are carving out specialized roles as regulation reshapes the market,
 
 ---
 
-## 4. Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant
+## 8. Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/10/2026, 2:59:30 PM  
@@ -59,7 +107,7 @@ Bitcoin price gains came thanks to US whales propeling the Coinbase Premium abov
 
 ---
 
-## 5. A16z’s Andreessen lands Federal Reserve role as AI reshapes policy debate
+## 9. A16z’s Andreessen lands Federal Reserve role as AI reshapes policy debate
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/10/2026, 2:12:53 PM  
@@ -71,7 +119,7 @@ The Fed named a16z co-founder Marc Andreessen to co-lead an AI productivity and 
 
 ---
 
-## 6. MiCA licensing only the beginning as crypto custodians face scrutiny
+## 10. MiCA licensing only the beginning as crypto custodians face scrutiny
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/10/2026, 1:54:50 PM  
@@ -83,19 +131,7 @@ A MiCA license allows crypto firms to operate in the EU, but the ESMA’s review
 
 ---
 
-## 7. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/10/2026, 1:46:13 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Will the crypto lobby's $189M campaign get CLARITY over the line?
+## 11. Will the crypto lobby's $189M campaign get CLARITY over the line?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 7/10/2026, 1:30:00 PM  
@@ -107,7 +143,7 @@ As the CLARITY Act advances, crypto's growing political influence in Washington 
 
 ---
 
-## 9. US charges prisoner over alleged laundering of seized Kraken crypto
+## 12. US charges prisoner over alleged laundering of seized Kraken crypto
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/10/2026, 12:27:40 PM  
@@ -119,7 +155,7 @@ US prosecutors charged Rossen Iossifov over the alleged laundering of $290,000 i
 
 ---
 
-## 10. Wall Street banks tighten prediction market rules for staff as insider fears spread
+## 13. Wall Street banks tighten prediction market rules for staff as insider fears spread
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/10/2026, 11:51:02 AM  
@@ -131,7 +167,7 @@ Wall Street banks, including Goldman Sachs and Morgan Stanley, are restricting e
 
 ---
 
-## 11. USDC issuer Circle wins final approval for US national trust bank charter
+## 14. USDC issuer Circle wins final approval for US national trust bank charter
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/10/2026, 11:37:25 AM  
@@ -143,7 +179,7 @@ Circle announces it received final OCC approval for a national trust bank that w
 
 ---
 
-## 12. Japanese lender launches Bitcoin-backed loans of up to $6.2M
+## 15. Japanese lender launches Bitcoin-backed loans of up to $6.2M
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/10/2026, 11:24:06 AM  
@@ -155,7 +191,7 @@ CRYL is offering Bitcoin-backed loans to individuals and businesses as Japanese 
 
 ---
 
-## 13. TeraWulf eyes $3.5B debt raise for Anthropic-linked data center: Report
+## 16. TeraWulf eyes $3.5B debt raise for Anthropic-linked data center: Report
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/10/2026, 10:14:51 AM  
@@ -167,7 +203,7 @@ Bitcoin miner TeraWulf is reportedly seeking $3.5 billion in debt financing led 
 
 ---
 
-## 14. Metaplanet explores Bitcoin-backed digital credit with JPYC in Japan
+## 17. Metaplanet explores Bitcoin-backed digital credit with JPYC in Japan
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/10/2026, 9:58:10 AM  
@@ -179,7 +215,7 @@ Metaplanet said it is studying Bitcoin-backed digital credit products in Japan w
 
 ---
 
-## 15. Bitcoin returns to $64.3K with new 3-week BTC price highs imminent
+## 18. Bitcoin returns to $64.3K with new 3-week BTC price highs imminent
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/10/2026, 9:32:23 AM  
@@ -191,7 +227,7 @@ Bitcoin bulls faced "crucial resistance" at $65,000 next as BTC price action div
 
 ---
 
-## 16. EU parliament passes ‘chat control,’ allowing private chat scans until 2028
+## 19. EU parliament passes ‘chat control,’ allowing private chat scans until 2028
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/10/2026, 6:05:38 AM  
@@ -203,7 +239,7 @@ EU lawmakers have again allowed tech firms to scan chats for abuse material, but
 
 ---
 
-## 17. Robinhood Chain sees over $70M in ETH bridged during first week
+## 20. Robinhood Chain sees over $70M in ETH bridged during first week
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/10/2026, 5:44:20 AM  
@@ -215,7 +251,7 @@ Robinhood’s choice to use Ethereum further solidifies its position as the “u
 
 ---
 
-## 18. Zcash targets July 28 launch for Ironwood network upgrade
+## 21. Zcash targets July 28 launch for Ironwood network upgrade
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/10/2026, 4:25:27 AM  
@@ -227,19 +263,19 @@ Zcash’s next upgrade will replace the once-compromised Orchard pool and may of
 
 ---
 
-## 19. Hackers tried to backdoor Injective NPM package to steal wallet keys
+## 22. Hackers tried to backdoor Injective NPM package to steal wallet keys
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/10/2026, 3:07:47 AM  
 **Categories:** Latest News  
 
-The incident is significant for developers and applications that handle Injective wallet workflows, Socket researchers said.
+Injective said the security vulnerability was patched up immediately and claims there were no downloads of the malicious package.
 
 📖 [Read original article](https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-## 20. DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise
+## 23. DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise
 
 **Author:** Cointelegraph by Jesse Coghlan  
 **Published:** 7/10/2026, 2:30:44 AM  
