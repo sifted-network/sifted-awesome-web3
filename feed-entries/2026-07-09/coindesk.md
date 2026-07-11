@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-09"
 date: "2026-07-09"
 source: "CoinDesk"
-count: 10
+count: 9
 ---
 
 # CoinDesk - 2026-07-09
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ In this week's edition of The Protocol Newsletter, we’re digging into Ethereum
 Aave's new Stable Vaults product lets wallets, exchanges and payment apps offer yields on stablecoin deposits
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/09/aave-rolls-out-vaults-for-yield-hungry-fintech-investors)
-
----
-
-## 10. Age verification is the surveillance nobody voted for
-
-**Author:** Evin McMullen  
-**Published:** 7/9/2026, 1:00:00 PM  
-**Categories:** Opinion, Opinion  
-
-KOSA and Chat Control both retreated on their most-criticized measures this week, but both kept mandatory age verification, the quiet mechanism that turns anonymous browsing into identified browsing for all of us, argues Billions CEO Evin McMullen.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for)
 
 ---
