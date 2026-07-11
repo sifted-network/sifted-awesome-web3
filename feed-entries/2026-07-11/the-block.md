@@ -2,16 +2,28 @@
 title: "The Block - 2026-07-11"
 date: "2026-07-11"
 source: "The Block"
-count: 1
+count: 2
 ---
 
 # The Block - 2026-07-11
 
-1 items collected.
+2 items collected.
 
 ---
 
-## 1. Housing bill that includes a CBDC ban passed into law without Trump’s signature
+## 1. Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow
+
+**Author:** Zack Abrams  
+**Published:** 7/11/2026, 3:19:15 PM  
+**Categories:** Markets  
+
+The preceding eight weeks drained a combined $9.46 billion from the two groups, meaning this week’s rebound recovered only about 3% of those outflows.
+
+📖 [Read original article](https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Housing bill that includes a CBDC ban passed into law without Trump’s signature
 
 **Author:** Sarah Wynn  
 **Published:** 7/11/2026, 4:08:36 AM  
