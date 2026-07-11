@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-09"
 date: "2026-07-09"
 source: "Cointelegraph"
-count: 6
+count: 5
 ---
 
 # Cointelegraph - 2026-07-09
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ The companies urged the regulator to exempt blockchain developers and non-custod
 As AI-driven mining stocks retreat, investors are examining executive stock sales, governance and shareholder alignment across leading Bitcoin miners, according to Blocksbridge Consulting.
 
 📖 [Read original article](https://cointelegraph.com/news/bitcoin-miners-ai-pivot-faces-investor-scrutiny-over-insider-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. UK politicians mull permanent crypto donation ban in wake of Nigel Farage scandal
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 7/9/2026, 4:42:18 PM  
-**Categories:** Latest News  
-
-Labour lawmakers proposed a full moratorium on crypto donations in March, which some have sought be made permanent after millions of dollars in contributions were linked to Reform leader Nigel Farage.
-
-📖 [Read original article](https://cointelegraph.com/news/uk-politicians-crypto-donation-ban-nigel-farage-scandal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
