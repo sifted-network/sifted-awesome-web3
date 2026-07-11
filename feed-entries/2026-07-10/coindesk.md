@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-07-10"
 date: "2026-07-10"
 source: "CoinDesk"
-count: 14
+count: 15
 ---
 
 # CoinDesk - 2026-07-10
 
-14 items collected.
+15 items collected.
 
 ---
 
-## 1. U.S. government digital dollar set to be banned tonight under housing law's CBDC limit
+## 1. Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"
+
+**Author:** Sam Ewen  
+**Published:** 7/10/2026, 9:26:55 PM  
+**Categories:** CoinDesk News, Media Network Interview, News  
+
+Alex Schultz says stablecoins are assumed inside Meta. The harder problem is getting the rest of the world there.
+
+📖 [Read original article](https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business)
+
+---
+
+## 2. U.S. government digital dollar set to be banned tonight under housing law's CBDC limit
 
 **Author:** Jesse Hamilton  
 **Published:** 7/10/2026, 4:02:21 PM  
@@ -23,7 +35,7 @@ Despite President Donald Trump's refusal to sign Congress' bipartisan housing bi
 
 ---
 
-## 2. Hyundai becomes first major South Korean company to introduce internal stablecoin transfers
+## 3. Hyundai becomes first major South Korean company to introduce internal stablecoin transfers
 
 **Author:** Olivier Acuna  
 **Published:** 7/10/2026, 3:26:43 PM  
@@ -35,7 +47,7 @@ The initiative builds on a broader shift by companies exploring stablecoins to m
 
 ---
 
-## 3. OKX, MetaMask, Matter Labs back dispute resolution court for AI agents
+## 4. OKX, MetaMask, Matter Labs back dispute resolution court for AI agents
 
 **Author:** Ian Allison  
 **Published:** 7/10/2026, 12:29:08 PM  
@@ -47,7 +59,7 @@ The Genlayer Foundation is leading the 27-firm consortium that makes AI-based pa
 
 ---
 
-## 4. Circle soars after securing U.S. trust bank approval in crypto expansion
+## 5. Circle soars after securing U.S. trust bank approval in crypto expansion
 
 **Author:** Olivier Acuna  
 **Published:** 7/10/2026, 11:41:47 AM  
@@ -59,7 +71,7 @@ The approval adds to a growing list of crypto firms seeking federal banking lice
 
 ---
 
-## 5. Japan's 'invest locally' plan likely to spur demand for assets like bitcoin, gold
+## 6. Japan's 'invest locally' plan likely to spur demand for assets like bitcoin, gold
 
 **Author:** Omkar Godbole  
 **Published:** 7/10/2026, 11:37:31 AM  
@@ -71,7 +83,7 @@ Your day-ahead look for July 10, 2026
 
 ---
 
-## 6. Crypto defies equity weakness as altcoin optimism builds into the weekend
+## 7. Crypto defies equity weakness as altcoin optimism builds into the weekend
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 7/10/2026, 10:37:44 AM  
@@ -83,7 +95,7 @@ The price of bitcoin hit $64,400, retesting a level it failed to penetrate on Mo
 
 ---
 
-## 7. Polymarket seeks approval to bring margin trading to U.S. customers
+## 8. Polymarket seeks approval to bring margin trading to U.S. customers
 
 **Author:** Olivier Acuna  
 **Published:** 7/10/2026, 9:35:21 AM  
@@ -95,7 +107,7 @@ Polymarket's application to allow users to take positions that are not fully col
 
 ---
 
-## 8. Bitcoin's $60,000-$70,000 range becomes third most traded range in history
+## 9. Bitcoin's $60,000-$70,000 range becomes third most traded range in history
 
 **Author:** James Van Straten  
 **Published:** 7/10/2026, 9:16:52 AM  
@@ -107,7 +119,7 @@ Bitcoin has spent 307 days in the $60,000-$70,000 range, the third longest conso
 
 ---
 
-## 9. Metaplanet explores bringing bitcoin-backed digital credit to Japan
+## 10. Metaplanet explores bringing bitcoin-backed digital credit to Japan
 
 **Author:** Omkar Godbole  
 **Published:** 7/10/2026, 9:08:20 AM  
@@ -119,7 +131,7 @@ The bitcoin treasury company is working with JPYC and Progmat to explore tokeniz
 
 ---
 
-## 10. Bitcoin gets a green light from a reliable momentum gauge. Here are key levels to watch
+## 11. Bitcoin gets a green light from a reliable momentum gauge. Here are key levels to watch
 
 **Author:** Omkar Godbole  
 **Published:** 7/10/2026, 6:49:13 AM  
@@ -131,7 +143,7 @@ A smoother long-term MACD just flipped bullish, pointing to more upside. Here ar
 
 ---
 
-## 11. Live updates: Bitcoin rises to $64,000 as SK Hynix opens for trade after $26.5 billion IPO
+## 12. Live updates: Bitcoin rises to $64,000 as SK Hynix opens for trade after $26.5 billion IPO
 
 **Author:** Shaurya Malwa,James Van Straten,Helene Braun  
 **Published:** 7/10/2026, 6:21:34 AM  
@@ -143,7 +155,7 @@ Spot bitcoin funds lost about $95 million on Thursday and ether funds roughly $5
 
 ---
 
-## 12. XRP up 2% as buyers push through $1.10 resistance
+## 13. XRP up 2% as buyers push through $1.10 resistance
 
 **Author:** Shaurya Malwa  
 **Published:** 7/10/2026, 5:13:48 AM  
@@ -155,7 +167,7 @@ A late-session volume surge carried XRP above its recent range, with traders now
 
 ---
 
-## 13. Bitcoin's quiet split: Strong in USD, lagging in JPY as Yen rises on intervention fears
+## 14. Bitcoin's quiet split: Strong in USD, lagging in JPY as Yen rises on intervention fears
 
 **Author:** Omkar Godbole  
 **Published:** 7/10/2026, 4:34:06 AM  
@@ -167,7 +179,7 @@ A sharp rise in the yen has left bitcoin and other major cryptocurrencies underp
 
 ---
 
-## 14. Bitcoin zips higher to nearly $64,000 as chip rally and yen strength drive gains
+## 15. Bitcoin zips higher to nearly $64,000 as chip rally and yen strength drive gains
 
 **Author:** Shaurya Malwa  
 **Published:** 7/10/2026, 3:57:58 AM  
