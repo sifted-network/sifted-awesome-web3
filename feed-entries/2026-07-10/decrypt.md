@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-07-10"
 date: "2026-07-10"
 source: "Decrypt"
-count: 8
+count: 10
 ---
 
 # Decrypt - 2026-07-10
 
-8 items collected.
+10 items collected.
 
 ---
 
-## 1. Bitcoin Treasury Firm Empery Digital Dumps Nearly Half of BTC Holdings for $87 Million
+## 1. Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets
+
+**Author:** Jason Nelson  
+**Published:** 7/10/2026, 9:50:30 PM  
+**Categories:** Law and Order  
+
+Apple alleges former employees took confidential designs, supplier information, and engineering files before joining OpenAI.
+
+📖 [Read original article](https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets)
+
+---
+
+## 2. Democrats Call for Senate Hearings on Trump's Massive Crypto Profits
+
+**Author:** Sander Lutz  
+**Published:** 7/10/2026, 8:35:44 PM  
+**Categories:** official-trump, Law and Order  
+
+Top Democrats on key Senate committees demanded inquiries into the more than $1.2 billion that President Trump made on crypto last year.
+
+📖 [Read original article](https://decrypt.co/373289/democrats-senate-hearings-trump-massive-crypto-profits)
+
+---
+
+## 3. Bitcoin Treasury Firm Empery Digital Dumps Nearly Half of BTC Holdings for $87 Million
 
 **Author:** Decrypt Agent  
 **Published:** 7/10/2026, 6:54:46 PM  
@@ -23,7 +47,7 @@ Nasdaq-listed Empery Digital said it sold 1,400 Bitcoin since May to help fuel a
 
 ---
 
-## 2. Xbox CEO Joins Fed AI Jobs Task Force Days After Announcing 3,200 Layoffs
+## 4. Xbox CEO Joins Fed AI Jobs Task Force Days After Announcing 3,200 Layoffs
 
 **Author:** Jason Nelson  
 **Published:** 7/10/2026, 6:02:21 PM  
@@ -35,7 +59,7 @@ Asha Sharma will advise the Federal Reserve on AI’s impact on jobs and product
 
 ---
 
-## 3. Trump Won't Sign Housing Bill With CBDC Ban—Will It Become Law Tonight Anyway?
+## 5. Trump Won't Sign Housing Bill With CBDC Ban—Will It Become Law Tonight Anyway?
 
 **Author:** Sander Lutz  
 **Published:** 7/10/2026, 3:13:12 PM  
@@ -47,7 +71,7 @@ Unless President Trump vetoes the bill, it will become law at midnight, banning 
 
 ---
 
-## 4. Circle Stock Jumps as Stablecoin Issuer Wins Final Federal Banking Charter Approval
+## 6. Circle Stock Jumps as Stablecoin Issuer Wins Final Federal Banking Charter Approval
 
 **Author:** André Beganski  
 **Published:** 7/10/2026, 2:54:40 PM  
@@ -59,7 +83,7 @@ Circle secured final OCC approval to establish a national trust bank, shifting i
 
 ---
 
-## 5. Strategy Bitcoin Sales 'Mostly Noise,' Standard Chartered Says, Holding $100K BTC Call
+## 7. Strategy Bitcoin Sales 'Mostly Noise,' Standard Chartered Says, Holding $100K BTC Call
 
 **Author:** Decrypt Agent  
 **Published:** 7/10/2026, 1:52:30 PM  
@@ -71,7 +95,7 @@ The bank argues that the treasury giant's Bitcoin sales are a short-term distrac
 
 ---
 
-## 6. Morning Minute: Robinhood Chain Explodes Onto the Crypto Scene
+## 8. Morning Minute: Robinhood Chain Explodes Onto the Crypto Scene
 
 **Author:** Tyler Warner  
 **Published:** 7/10/2026, 12:12:55 PM  
@@ -83,7 +107,7 @@ Plus, Circle wins a national bank charter and pops 10%. And the Clarity Act gets
 
 ---
 
-## 7. Jailed Fraudster Charged With Moving $290K in Forfeited Crypto From Prison
+## 9. Jailed Fraudster Charged With Moving $290K in Forfeited Crypto From Prison
 
 **Author:** Decrypt Agent  
 **Published:** 7/10/2026, 11:30:57 AM  
@@ -95,7 +119,7 @@ A convicted launderer serving time for a $5 million scheme allegedly moved crypt
 
 ---
 
-## 8. North Carolina Bill Recognizes CFTC's ‘Federal Regulatory Authority’ Over Prediction Markets
+## 10. North Carolina Bill Recognizes CFTC's ‘Federal Regulatory Authority’ Over Prediction Markets
 
 **Author:** Decrypt Agent  
 **Published:** 7/10/2026, 10:01:08 AM  
