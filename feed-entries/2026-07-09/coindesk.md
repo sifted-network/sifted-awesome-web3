@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-09"
 date: "2026-07-09"
 source: "CoinDesk"
-count: 9
+count: 7
 ---
 
 # CoinDesk - 2026-07-09
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ Redemption requests in the $2 trillion private credit market surged to $15.6 bil
 Compass Point analysts Michael Donovan and Ed Engel said markets are giving little credit to future AI data center pipelines despite billions of dollars in signed leases.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/09/cipher-terawulf-among-ai-infrastructure-stocks-trading-below-contract-value-compass-point-argues)
-
----
-
-## 8. Ethereum's newest nonprofit wants to become Wall Street's guide to crypto
-
-**Author:** Margaux Nijkerk  
-**Published:** 7/9/2026, 2:58:55 PM  
-**Categories:** Tech, Ethereum News, Newsletters, News  
-
-In this week's edition of The Protocol Newsletter, we’re digging into Ethereum Institutional, a new nonprofit aimed at educating financial institutions and banks about Ethereum.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto)
-
----
-
-## 9. Aave rolls out vaults for yield-hungry fintech investors
-
-**Author:** Krisztian Sandor  
-**Published:** 7/9/2026, 1:01:38 PM  
-**Categories:** Finance, Aave, DeFi, Real World Assets, News  
-
-Aave's new Stable Vaults product lets wallets, exchanges and payment apps offer yields on stablecoin deposits
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/09/aave-rolls-out-vaults-for-yield-hungry-fintech-investors)
 
 ---
