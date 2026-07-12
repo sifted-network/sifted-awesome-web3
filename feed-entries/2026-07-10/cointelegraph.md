@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-10"
 date: "2026-07-10"
 source: "Cointelegraph"
-count: 18
+count: 17
 ---
 
 # Cointelegraph - 2026-07-10
 
-18 items collected.
+17 items collected.
 
 ---
 
@@ -38,7 +38,7 @@ Five senators called for committee hearings to investigate US President Donald T
 ## 3. US CBDC ban to go into effect without Trump signoff on housing bill
 
 **Author:** Cointelegraph by Turner Wright  
-**Published:** 7/10/2026, 7:33:03 PM  
+**Published:** 7/10/2026, 7:41:00 PM  
 **Categories:** Latest News  
 
 Donald Trump confirmed on social media that he would not sign the 21st Century ROAD to Housing Act, which includes a ban on a US CBDC until the end of 2030, setting the stage for the bill to become law on Saturday.
@@ -212,17 +212,5 @@ Metaplanet said it is studying Bitcoin-backed digital credit products in Japan w
 Bitcoin bulls faced "crucial resistance" at $65,000 next as BTC price action diverged from oil and US dollar strength.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. EU parliament passes ‘chat control,’ allowing private chat scans until 2028
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 7/10/2026, 6:05:38 AM  
-**Categories:** Latest News  
-
-EU lawmakers have again allowed tech firms to scan chats for abuse material, but exempted end-to-end encrypted messages.
-
-📖 [Read original article](https://cointelegraph.com/news/eu-parliament-passes-chat-control-allowing-private-chat-scans-to-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
