@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-11"
 date: "2026-07-11"
 source: "Cointelegraph"
-count: 8
+count: 7
 ---
 
 # Cointelegraph - 2026-07-11
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -71,19 +71,7 @@ An IMF working paper says dollar stablecoins can improve access to foreign curre
 
 ---
 
-## 6. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/11/2026, 4:13:13 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders
+## 6. Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/11/2026, 4:12:30 AM  
@@ -95,7 +83,7 @@ More than 70,000 agentic accounts have already been created by Robinhood equitie
 
 ---
 
-## 8. DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report
+## 7. DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/11/2026, 1:30:31 AM  
