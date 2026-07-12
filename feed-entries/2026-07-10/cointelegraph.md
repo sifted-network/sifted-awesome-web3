@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-10"
 date: "2026-07-10"
 source: "Cointelegraph"
-count: 22
+count: 21
 ---
 
 # Cointelegraph - 2026-07-10
 
-22 items collected.
+21 items collected.
 
 ---
 
@@ -260,17 +260,5 @@ Zcash’s next upgrade will replace the once-compromised Orchard pool and may of
 Injective said the security vulnerability was patched up immediately and claims there were no downloads of the malicious package.
 
 📖 [Read original article](https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise
-
-**Author:** Cointelegraph by Jesse Coghlan  
-**Published:** 7/10/2026, 2:30:44 AM  
-**Categories:** Latest News  
-
-“DeFi usually swings much harder than Bitcoin, so holding up this well is unusual,” says Bitwise, as DeFi tokens have outperformed Bitcoin.
-
-📖 [Read original article](https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
