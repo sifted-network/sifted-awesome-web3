@@ -38,7 +38,7 @@ Despite strong tokenization gains and institutional accumulation, weak onchain a
 ## 3. Bonzo Lend loses $9M in oracle exploit on Hedera
 
 **Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/11/2026, 11:56:54 AM  
+**Published:** 7/11/2026, 11:59:00 AM  
 **Categories:** Latest News  
 
 An attacker inflated the value of SAUCE collateral and borrowed $9 million from Bonzo Lend through a flaw in Supra’s onchain oracle verifier.
@@ -59,13 +59,13 @@ Bitcoin price gains approached 10% for the first two weeks of the month, but ana
 
 ---
 
-## 5. Dollar stablecoins could improve FX access but amplify currency runs: IMF paper
+## 5. Dollar stablecoins could improve FX access but amplify currency runs: IMF
 
 **Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/11/2026, 9:14:12 AM  
+**Published:** 7/11/2026, 9:25:00 AM  
 **Categories:** Latest News  
 
-An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.
+An IMF working paper says US dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.
 
 📖 [Read original article](https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
