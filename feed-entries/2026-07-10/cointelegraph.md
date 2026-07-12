@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-10"
 date: "2026-07-10"
 source: "Cointelegraph"
-count: 20
+count: 18
 ---
 
 # Cointelegraph - 2026-07-10
 
-20 items collected.
+18 items collected.
 
 ---
 
@@ -224,29 +224,5 @@ Bitcoin bulls faced "crucial resistance" at $65,000 next as BTC price action div
 EU lawmakers have again allowed tech firms to scan chats for abuse material, but exempted end-to-end encrypted messages.
 
 📖 [Read original article](https://cointelegraph.com/news/eu-parliament-passes-chat-control-allowing-private-chat-scans-to-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Robinhood Chain sees over $70M in ETH bridged during first week
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 7/10/2026, 5:44:20 AM  
-**Categories:** Latest News  
-
-Robinhood’s choice to use Ethereum further solidifies its position as the “ultimate settlement layer and liquidity foundation for tokenized assets,” said HashKey Group’s Tim Sun.
-
-📖 [Read original article](https://cointelegraph.com/news/robinhood-chain-sees-over-70m-in-eth-bridged-during-first-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Zcash targets July 28 launch for Ironwood network upgrade
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/10/2026, 4:25:27 AM  
-**Categories:** Latest News  
-
-Zcash’s next upgrade will replace the once-compromised Orchard pool and may offer clues about whether counterfeit tokens were created via a recent bug.
-
-📖 [Read original article](https://cointelegraph.com/news/zcash-targets-july-28-launch-for-ironwood-network-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
