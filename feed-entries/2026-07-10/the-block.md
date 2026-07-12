@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-10"
 date: "2026-07-10"
 source: "The Block"
-count: 17
+count: 16
 ---
 
 # The Block - 2026-07-10
 
-17 items collected.
+16 items collected.
 
 ---
 
@@ -200,17 +200,5 @@ Labour MPs are gathering support for proposed amendments to a key bill that woul
 North Carolina's new law taxes prediction market platforms at 6% of their net trading fee revenue that is attributable to North Carolina residents.
 
 📖 [Read original article](https://www.theblock.co/post/407830/north-carolina-cftc-preemption-prediction-markets?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Polymarket files applications to offer regulated margin trading in US
-
-**Author:** Danny Park  
-**Published:** 7/10/2026, 4:10:25 AM  
-**Categories:** Companies, Policy, Regulation  
-
-Polymarket's rival platform, Kalshi, already received US regulatory approval to provide margin trading back in March.
-
-📖 [Read original article](https://www.theblock.co/post/407820/polymarket-margin-trading?utm_source=rss&utm_medium=rss)
 
 ---
