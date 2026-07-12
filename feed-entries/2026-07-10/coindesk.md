@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-10"
 date: "2026-07-10"
 source: "CoinDesk"
-count: 15
+count: 13
 ---
 
 # CoinDesk - 2026-07-10
 
-15 items collected.
+13 items collected.
 
 ---
 
@@ -164,29 +164,5 @@ Spot bitcoin funds lost about $95 million on Thursday and ether funds roughly $5
 A late-session volume surge carried XRP above its recent range, with traders now watching whether $1.10 can hold as support.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/10/xrp-up-2-as-buyers-push-through-usd1-10-resistance)
-
----
-
-## 14. Bitcoin's quiet split: Strong in USD, lagging in JPY as Yen rises on intervention fears
-
-**Author:** Omkar Godbole  
-**Published:** 7/10/2026, 4:34:06 AM  
-**Categories:** Markets, Bitcoin News, XRP News, News  
-
-A sharp rise in the yen has left bitcoin and other major cryptocurrencies underperforming in yen terms compared with their dollar-based trading pairs.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/10/bitcoin-s-quiet-split-strong-in-usd-lagging-in-jpy-as-yen-rises-on-intervention-fears)
-
----
-
-## 15. Bitcoin zips higher to nearly $64,000 as chip rally and yen strength drive gains
-
-**Author:** Shaurya Malwa  
-**Published:** 7/10/2026, 3:57:58 AM  
-**Categories:** Markets, News  
-
-Bitcoin is up 4.2% over seven days that contained an oil shock, a bond selloff and two rounds of U.S. strikes on Iran.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains)
 
 ---
