@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-07-12"
 date: "2026-07-12"
 source: "Cointelegraph"
-count: 3
+count: 5
 ---
 
 # Cointelegraph - 2026-07-12
 
-3 items collected.
+5 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Pakistan crypto chief seeks dialogue after scholar rules against crypto payments
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 7/12/2026, 12:26:09 PM  
+**Categories:** Latest News  
+
+Pakistan’s virtual-assets regulator called for continued dialogue on the treatment of digital assets after meeting an Islamic scholar who backed a ruling against purchases made with crypto.
+
+📖 [Read original article](https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Cambridge study puts Ethereum near the lower end of PoS energy intensity
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 7/12/2026, 9:18:17 AM  
+**Categories:** Latest News  
+
+Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-lowest market-value-adjusted energy intensity among the PoS networks studied.
+
+📖 [Read original article](https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/12/2026, 4:24:58 AM  
@@ -23,7 +47,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal
+## 4. Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/12/2026, 4:24:36 AM  
@@ -35,7 +59,7 @@ The ongoing debate comes despite a broad downturn in Ordinals transaction activi
 
 ---
 
-## 3. Empery Digital shares rise after selling Bitcoin to fund AI data center project
+## 5. Empery Digital shares rise after selling Bitcoin to fund AI data center project
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/12/2026, 1:00:54 AM  
