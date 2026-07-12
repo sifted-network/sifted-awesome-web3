@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-10"
 date: "2026-07-10"
 source: "Cointelegraph"
-count: 21
+count: 20
 ---
 
 # Cointelegraph - 2026-07-10
 
-21 items collected.
+20 items collected.
 
 ---
 
@@ -248,17 +248,5 @@ Robinhood’s choice to use Ethereum further solidifies its position as the “u
 Zcash’s next upgrade will replace the once-compromised Orchard pool and may offer clues about whether counterfeit tokens were created via a recent bug.
 
 📖 [Read original article](https://cointelegraph.com/news/zcash-targets-july-28-launch-for-ironwood-network-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Hackers tried to backdoor Injective NPM package to steal wallet keys
-
-**Author:** Cointelegraph by Martin Young  
-**Published:** 7/10/2026, 3:07:47 AM  
-**Categories:** Latest News  
-
-Injective said the security vulnerability was patched up immediately and claims there were no downloads of the malicious package.
-
-📖 [Read original article](https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
