@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-07-12"
 date: "2026-07-12"
 source: "CoinDesk"
-count: 3
+count: 4
 ---
 
 # CoinDesk - 2026-07-12
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Bitcoin, ether little changed as U.S. launches fresh Iran strikes
+## 1. Bitcoin is nearing a power law support line Fidelity has tracked since 2015
+
+**Author:** Shaurya Malwa  
+**Published:** 7/12/2026, 11:30:00 AM  
+**Categories:** Markets, News  
+
+The group's Dir. of Global Macro Jurien Timmer calls it an accumulation zone but notes the lack of a catalyst to bounce yet.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015)
+
+---
+
+## 2. Bitcoin, ether little changed as U.S. launches fresh Iran strikes
 
 **Author:** Shaurya Malwa  
 **Published:** 7/12/2026, 6:18:15 AM  
@@ -23,7 +35,7 @@ The U.S. hit Iran for the third time this week and Tehran has reportedly closed 
 
 ---
 
-## 2. Ripple once weighed shutting down and handing XRP to shareholders, CEO says
+## 3. Ripple once weighed shutting down and handing XRP to shareholders, CEO says
 
 **Author:** Shaurya Malwa  
 **Published:** 7/12/2026, 6:09:49 AM  
@@ -35,7 +47,7 @@ Ripple's Brad Garlinghouse says he and co-founder Chris Larsen considered windin
 
 ---
 
-## 3. Bitcoin’s BIP 110 fork deadline nears with miner support at zero
+## 4. Bitcoin’s BIP 110 fork deadline nears with miner support at zero
 
 **Author:** Shaurya Malwa  
 **Published:** 7/12/2026, 5:49:52 AM  
