@@ -2,16 +2,112 @@
 title: "Cointelegraph - 2026-07-13"
 date: "2026-07-13"
 source: "Cointelegraph"
-count: 4
+count: 12
 ---
 
 # Cointelegraph - 2026-07-13
 
-4 items collected.
+12 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Coinbase Ventures tops crypto VC list for H1 2026
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 7/13/2026, 1:26:50 PM  
+**Categories:** Latest News  
+
+Coinbase’s venture capital arm leads 2026 crypto investing even as funding withered and unique investors shied away amid the bear market.
+
+📖 [Read original article](https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Strategy sells $467M in MSTR shares, leaves 843,775 BTC stack untouched
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 7/13/2026, 1:08:49 PM  
+**Categories:** Latest News  
+
+Strategy boosted its US dollar reserve to $3 billion after selling $466.7 million in MSTR shares, while keeping its 843,775 Bitcoin holdings unchanged.
+
+📖 [Read original article](https://cointelegraph.com/news/strategy-sells-467-million-mstr-keeps-843775-btc-stack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. UK tokenization push could add as much as $44B to annual output by 2035: Report
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 7/13/2026, 11:50:04 AM  
+**Categories:** Latest News  
+
+The government-backed roadmap calls for the UK’s first digital gilt by early 2027 and seeks to make tokenized bonds usable for trading and borrowing.
+
+📖 [Read original article](https://cointelegraph.com/news/uk-tokenization-44-billion-annual-output-2035?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bitcoin whale moves $188M for first time in 7 years
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 7/13/2026, 11:36:00 AM  
+**Categories:** Latest News  
+
+A dormant whale transferred BTC worth $188 million after seven years of holding, adding to the growing ratio of whale transfers to cryptocurrency exchanges.
+
+📖 [Read original article](https://cointelegraph.com/news/bitcoin-whale-moves-188m-first-7-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Binance June futures volume at $1.6T defies crypto spot trading slump
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 7/13/2026, 11:20:00 AM  
+**Categories:** Latest News  
+
+Binance futures volume jumped 80% in June, to $1.61 trillion, outpacing rivals while broader crypto trading activity remained weak.
+
+📖 [Read original article](https://cointelegraph.com/news/binance-futures-volume-2026-high-crypto-spot-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. BTC price bull market to begin in September? Five things to know in Bitcoin this week
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/13/2026, 10:45:22 AM  
+**Categories:** Markets  
+
+Bitcoin price analysis called for the end of the bear market within three months as the US-Iran war sent BTC lower from strengthening $64,000 resistance.
+
+📖 [Read original article](https://cointelegraph.com/markets/btc-price-bull-market-to-begin-in-september-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Japan’s SBI to launch yen stablecoin lending with 3% yield
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 7/13/2026, 10:27:50 AM  
+**Categories:** Latest News  
+
+SBI VC Trade will open JPYSC lending applications on July 16, offering an initial 3% annual rate for a 12-week term without deposit insurance.
+
+📖 [Read original article](https://cointelegraph.com/news/sbi-stablecoin-lending-service-3-yield-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Japan stablecoin payments advance with Lawson trial, Netstars launch
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 7/13/2026, 8:58:51 AM  
+**Categories:** Latest News  
+
+Lawson will test yen stablecoin payments in Tokyo as Netstars launches a merchant service supporting USDC, USDT and JPYC.
+
+📖 [Read original article](https://cointelegraph.com/news/japan-lawson-netstars-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/13/2026, 5:29:39 AM  
@@ -23,7 +119,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. AI microbusinesses could drive $262B in stablecoin volume by 2033: Swyftx
+## 10. AI microbusinesses could drive $262B in stablecoin volume by 2033: Swyftx
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/13/2026, 5:24:22 AM  
@@ -35,7 +131,7 @@ The AI-native cohort of the expanding gig economy could increasingly use stablec
 
 ---
 
-## 3. Bank of Thailand targets USDT and cash flows in gray money crackdown
+## 11. Bank of Thailand targets USDT and cash flows in gray money crackdown
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/13/2026, 4:43:50 AM  
@@ -47,7 +143,7 @@ Thailand has been plagued by Chinese-affiliated scam centers, with illicit gains
 
 ---
 
-## 4. Bitcoin ETFs draw $197M, snap 8-week outflow streak
+## 12. Bitcoin ETFs draw $197M, snap 8-week outflow streak
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/13/2026, 1:49:17 AM  
