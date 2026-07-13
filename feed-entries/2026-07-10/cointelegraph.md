@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-10"
 date: "2026-07-10"
 source: "Cointelegraph"
-count: 13
+count: 5
 ---
 
 # Cointelegraph - 2026-07-10
 
-13 items collected.
+5 items collected.
 
 ---
 
@@ -68,101 +68,5 @@ State representative Keith Ammon said the New Hampshire executive council's vote
 The launch comes as tokenized stocks become one of the fastest-growing corners of crypto, with exchanges and traditional finance firms racing to expand 24/7 trading.
 
 📖 [Read original article](https://cointelegraph.com/news/backpack-launches-247-trading-for-tokenized-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Crypto Biz: How stablecoins found their niche
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 7/10/2026, 3:37:37 PM  
-**Categories:** Latest News  
-
-Stablecoins are carving out specialized roles as regulation reshapes the market, while Strategy’s Bitcoin sale and Vanguard’s tokenization push highlight crypto’s evolving financial landscape.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-biz-how-stablecoins-found-their-niche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/10/2026, 2:59:30 PM  
-**Categories:** Markets  
-
-Bitcoin price gains came thanks to US whales propeling the Coinbase Premium above a key trend line, new analysis from CryptoQuant reported.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-whales-sent-btc-price-to-64k-as-coinbase-premium-broke-key-level-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. A16z’s Andreessen lands Federal Reserve role as AI reshapes policy debate
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/10/2026, 2:12:53 PM  
-**Categories:** Latest News  
-
-The Fed named a16z co-founder Marc Andreessen to co-lead an AI productivity and jobs task force under Chair Kevin Warsh’s policy review.
-
-📖 [Read original article](https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. MiCA licensing only the beginning as crypto custodians face scrutiny
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/10/2026, 1:54:50 PM  
-**Categories:** Latest News  
-
-A MiCA license allows crypto firms to operate in the EU, but the ESMA’s review will test whether custodians can meet the required security and resilience standards.
-
-📖 [Read original article](https://cointelegraph.com/news/mica-only-beginning-crypto-custodians-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Will the crypto lobby's $189M campaign get CLARITY over the line?
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 7/10/2026, 1:30:00 PM  
-**Categories:** Features  
-
-As the CLARITY Act advances, crypto's growing political influence in Washington is under scrutiny. But the crypto lobby's massive campaign spend is only part of the story.
-
-📖 [Read original article](https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. US charges prisoner over alleged laundering of seized Kraken crypto
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/10/2026, 12:27:40 PM  
-**Categories:** Latest News  
-
-US prosecutors charged Rossen Iossifov over the alleged laundering of $290,000 in forfeited crypto from a Kraken account.
-
-📖 [Read original article](https://cointelegraph.com/news/us-prisoner-290k-crypto-restrained-kraken-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Wall Street banks tighten prediction market rules for staff as insider fears spread
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/10/2026, 11:51:02 AM  
-**Categories:** Latest News  
-
-Wall Street banks, including Goldman Sachs and Morgan Stanley, are restricting employee prediction market trades as insider trading fears spread across Polymarket and Kalshi.
-
-📖 [Read original article](https://cointelegraph.com/news/wall-street-prediction-market-trading-insider-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. USDC issuer Circle wins final approval for US national trust bank charter
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/10/2026, 11:37:25 AM  
-**Categories:** Latest News  
-
-Circle announces it received final OCC approval for a national trust bank that will initially serve the company and affiliates, with possible future custody services for institutional clients.
-
-📖 [Read original article](https://cointelegraph.com/news/circle-final-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
