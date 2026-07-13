@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-12"
 date: "2026-07-12"
 source: "Cointelegraph"
-count: 7
+count: 6
 ---
 
 # Cointelegraph - 2026-07-12
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -17,7 +17,7 @@ count: 7
 **Published:** 7/12/2026, 11:24:26 PM  
 **Categories:** Features  
 
-Even Ethereum's critics believe Robinhood Chain is bullish for ETH. Nigel Farage and Donald Trump become embroiled in crypto related scandals, and more.
+Even Ethereum's critics say Robinhood Chain is bullish for ETH. Nigel Farage and US President Donald Trump become embroiled in crypto related scandals, and more.
 
 📖 [Read original article](https://cointelegraph.com/features/ethereum-climbs-as-robinhood-l2-takes-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
@@ -47,7 +47,7 @@ Pakistan’s virtual-assets regulator called for continued dialogue on the treat
 
 ---
 
-## 4. Cambridge study puts Ethereum near the lower end of PoS energy intensity
+## 4. Cambridge study puts Ethereum near lower end of PoS energy intensity
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/12/2026, 9:29:00 AM  
@@ -71,19 +71,7 @@ The ongoing debate over a proposed temporary fork comes despite a broad downturn
 
 ---
 
-## 6. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/12/2026, 4:24:58 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Empery Digital shares rise after selling BTC to fund AI data center project
+## 6. Empery Digital shares rise after selling BTC to fund AI data center project
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/12/2026, 1:05:00 AM  
