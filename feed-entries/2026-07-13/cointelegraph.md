@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-07-13"
 date: "2026-07-13"
 source: "Cointelegraph"
-count: 12
+count: 16
 ---
 
 # Cointelegraph - 2026-07-13
 
-12 items collected.
+16 items collected.
 
 ---
 
-## 1. Coinbase Ventures tops crypto VC list for H1 2026
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph  
+**Published:** 7/13/2026, 6:37:34 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bolivia mulls recognizing USDT as payment currency amid dollar shortage
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/13/2026, 5:20:51 PM  
+**Categories:** Latest News  
+
+As foreign currency reserves remain under pressure, Bolivia is considering a framework to let the world’s largest stablecoin be used for payments, savings and trade.
+
+📖 [Read original article](https://cointelegraph.com/news/bolivia-weighs-usdt-payment-currency-amid-dollar-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Hyundai completes USDT treasury settlement pilot between US and Mexico
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/13/2026, 4:45:16 PM  
+**Categories:** Latest News  
+
+Hyundai completed a proof-of-concept using Tether's USDT to settle a cross-border treasury transfer between its US and Mexican subsidiaries, highlighting growing enterprise interest in stablecoin-based payments.
+
+📖 [Read original article](https://cointelegraph.com/news/hyundai-completes-usdt-treasury-settlement-pilot-between-us-and-mexico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Donald Trump invokes US senator’s death to push crypto bill
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/13/2026, 4:27:43 PM  
+**Categories:** Latest News  
+
+With the death of Senator Lindsey Graham and another senator hospitalized, Republicans’ current majority in the chamber has been reduced to 51-47, likely requiring more Democratic support to pass crypto market structure.
+
+📖 [Read original article](https://cointelegraph.com/news/us-senate-session-plans-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Bitcoin threatens $62K in risk-asset rout as Donald Trump says US will 'run' closed Hormuz Strait
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/13/2026, 3:05:45 PM  
+**Categories:** Markets  
+
+Bitcoin bulls faced an uphill struggle to preserve $62,000 as stocks opened down on Strait of Hormuz rhetoric between the US and Iran.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-threatens-62k-in-risk-asset-out-as-donald-trump-says-us-will-run-closed-hormuz-strait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Coinbase Ventures tops crypto VC list for H1 2026
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/13/2026, 1:26:50 PM  
@@ -23,7 +83,7 @@ Coinbase’s venture capital arm leads 2026 crypto investing even as funding wit
 
 ---
 
-## 2. Strategy sells $467M in MSTR shares, leaves 843,775 BTC stack untouched
+## 7. Strategy sells $467M in MSTR shares, leaves 843,775 BTC stack untouched
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/13/2026, 1:08:49 PM  
@@ -35,7 +95,7 @@ Strategy boosted its US dollar reserve to $3 billion after selling $466.7 millio
 
 ---
 
-## 3. UK tokenization push could add as much as $44B to annual output by 2035: Report
+## 8. UK tokenization push could add as much as $44B to annual output by 2035: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/13/2026, 11:50:04 AM  
@@ -47,7 +107,7 @@ The government-backed roadmap calls for the UK’s first digital gilt by early 2
 
 ---
 
-## 4. Bitcoin whale moves $188M for first time in 7 years
+## 9. Bitcoin whale moves $188M for first time in 7 years
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/13/2026, 11:36:00 AM  
@@ -59,7 +119,7 @@ A dormant whale transferred BTC worth $188 million after seven years of holding,
 
 ---
 
-## 5. Binance June futures volume at $1.6T defies crypto spot trading slump
+## 10. Binance June futures volume at $1.6T defies crypto spot trading slump
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/13/2026, 11:20:00 AM  
@@ -71,7 +131,7 @@ Binance futures volume jumped 80% in June, to $1.61 trillion, outpacing rivals w
 
 ---
 
-## 6. BTC price bull market to begin in September? Five things to know in Bitcoin this week
+## 11. BTC price bull market to begin in September? Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/13/2026, 10:45:22 AM  
@@ -83,7 +143,7 @@ Bitcoin price analysis called for the end of the bear market within three months
 
 ---
 
-## 7. Japan’s SBI to launch yen stablecoin lending with 3% yield
+## 12. Japan’s SBI to launch yen stablecoin lending with 3% yield
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/13/2026, 10:27:50 AM  
@@ -95,7 +155,7 @@ SBI VC Trade will open JPYSC lending applications on July 16, offering an initia
 
 ---
 
-## 8. Japan stablecoin payments advance with Lawson trial, Netstars launch
+## 13. Japan stablecoin payments advance with Lawson trial, Netstars launch
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/13/2026, 8:58:51 AM  
@@ -107,19 +167,7 @@ Lawson will test yen stablecoin payments in Tokyo as Netstars launches a merchan
 
 ---
 
-## 9. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/13/2026, 5:29:39 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. AI microbusinesses could drive $262B in stablecoin volume by 2033: Swyftx
+## 14. AI microbusinesses could drive $262B in stablecoin volume by 2033: Swyftx
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/13/2026, 5:24:22 AM  
@@ -131,7 +179,7 @@ The AI-native cohort of the expanding gig economy could increasingly use stablec
 
 ---
 
-## 11. Bank of Thailand targets USDT and cash flows in gray money crackdown
+## 15. Bank of Thailand targets USDT and cash flows in gray money crackdown
 
 **Author:** Cointelegraph by Martin Young  
 **Published:** 7/13/2026, 4:43:50 AM  
@@ -143,7 +191,7 @@ Thailand has been plagued by Chinese-affiliated scam centers, with illicit gains
 
 ---
 
-## 12. Bitcoin ETFs draw $197M, snap 8-week outflow streak
+## 16. Bitcoin ETFs draw $197M, snap 8-week outflow streak
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/13/2026, 1:49:17 AM  
