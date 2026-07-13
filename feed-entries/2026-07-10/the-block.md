@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-10"
 date: "2026-07-10"
 source: "The Block"
-count: 15
+count: 10
 ---
 
 # The Block - 2026-07-10
 
-15 items collected.
+10 items collected.
 
 ---
 
@@ -128,65 +128,5 @@ Circle wins final OCC approval for First National Digital Currency Bank, with US
 Ledger researchers disclosed a laser attack that resets Tangem card passwords by bypassing a recovery-state check in the firmware.
 
 📖 [Read original article](https://www.theblock.co/post/407871/ledger-researchers-disclose-tangem-card-flaw-tangem-says-risk-to-everyday-users-is-virtually-non-existent?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. New Hampshire’s $100 million bitcoin bond proposal fails to pass final vote
-
-**Author:** Danny Park  
-**Published:** 7/10/2026, 10:29:07 AM  
-**Categories:** Deals, Policy, Regulation  
-
-Governor Ayotte had expressed support for the proposal, touting it as an innovative way to bring more investment opportunities to the state.
-
-📖 [Read original article](https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Revolut integrates its crypto exchange with AI assistants as agentic trading spreads
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/10/2026, 10:04:08 AM  
-**Categories:** Companies, Crypto Ecosystems, Markets, Web3, AI, Crypto  
-
-Revolut X now connects to Claude, Gemini, OpenClaw, and Cursor, letting crypto users analyze, backtest, and execute trades via AI prompts.
-
-📖 [Read original article](https://www.theblock.co/post/407865/revolut-integrates-its-crypto-exchange-with-ai-assistants-as-agentic-trading-spreads?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. DOJ charges federal inmate over alleged theft of $290,000 in crypto forfeited to US government
-
-**Author:** Brian Danga  
-**Published:** 7/10/2026, 9:13:08 AM  
-**Categories:** Crypto Ecosystems, Policy, Regulation, Security, Web3, Crypto, Hacks  
-
-Federal inmate Rossen Iossifov faces new charges for allegedly taking $290,000 in government-forfeited cryptocurrency.
-
-📖 [Read original article](https://www.theblock.co/post/407854/doj-charges-federal-inmate-over-alleged-theft-of-290000-in-crypto-forfeited-to-us-government?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. Cathie Wood’s Ark Invest buys $14 million worth of Circle, offloads Robinhood shares
-
-**Author:** Danny Park  
-**Published:** 7/10/2026, 9:09:24 AM  
-**Categories:** Companies, Markets  
-
-Circle Internet Group's stock dropped 1.65% during Thursday's trading session, extending its one-month decline to 20.2%.
-
-📖 [Read original article](https://www.theblock.co/post/407853/ark-invest-buys-14-million-worth-circle?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. UK Labour MPs push to permanently ban crypto political donations
-
-**Author:** Timmy Shen  
-**Published:** 7/10/2026, 8:44:30 AM  
-**Categories:** Policy, Regulation  
-
-Labour MPs are gathering support for proposed amendments to a key bill that would permanently ban crypto political donations.
-
-📖 [Read original article](https://www.theblock.co/post/407842/uk-labour-mps-crypto-ban?utm_source=rss&utm_medium=rss)
 
 ---
