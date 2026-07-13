@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-10"
 date: "2026-07-10"
 source: "CoinDesk"
-count: 13
+count: 10
 ---
 
 # CoinDesk - 2026-07-10
 
-13 items collected.
+10 items collected.
 
 ---
 
@@ -128,41 +128,5 @@ Bitcoin has spent 307 days in the $60,000-$70,000 range, the third longest conso
 The bitcoin treasury company is working with JPYC and Progmat to explore tokenized credit products backed by bitcoin, aiming to create efficient, 24/7 credit markets in Japan.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/10/metaplanet-explores-bringing-bitcoin-backed-digital-credit-to-japan)
-
----
-
-## 11. Bitcoin gets a green light from a reliable momentum gauge. Here are key levels to watch
-
-**Author:** Omkar Godbole  
-**Published:** 7/10/2026, 6:49:13 AM  
-**Categories:** Markets, Bitcoin News, Technical Analysis, News  
-
-A smoother long-term MACD just flipped bullish, pointing to more upside. Here are key levels that will decide if the ongoing bounce turns into a full blown uptrend.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/10/bitcoin-gets-a-green-light-from-a-reliable-momentum-gauge-here-are-key-levels-to-watch)
-
----
-
-## 12. Live updates: Bitcoin rises to $64,000 as SK Hynix opens for trade after $26.5 billion IPO
-
-**Author:** Shaurya Malwa,James Van Straten,Helene Braun  
-**Published:** 7/10/2026, 6:21:34 AM  
-**Categories:** Tech, Live News, live_news  
-
-Spot bitcoin funds lost about $95 million on Thursday and ether funds roughly $52 million, ending the one bright spot in crypto's institutional flows even as prices rallied.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak)
-
----
-
-## 13. XRP up 2% as buyers push through $1.10 resistance
-
-**Author:** Shaurya Malwa  
-**Published:** 7/10/2026, 5:13:48 AM  
-**Categories:** Markets, News  
-
-A late-session volume surge carried XRP above its recent range, with traders now watching whether $1.10 can hold as support.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/10/xrp-up-2-as-buyers-push-through-usd1-10-resistance)
 
 ---
