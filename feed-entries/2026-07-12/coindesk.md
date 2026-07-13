@@ -77,7 +77,7 @@ Ripple's Brad Garlinghouse says he and co-founder Chris Larsen considered windin
 **Published:** 7/12/2026, 5:49:52 AM  
 **Categories:** Tech, News  
 
-The BIP 110 proposal would cap arbitrary data on Bitcoin for a year, but Saylor, Adam Back and others say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself.
+The BIP 110 proposal would cap arbitrary data on Bitcoin for a year, but Michael Saylor, Adam Back and others say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero)
 
