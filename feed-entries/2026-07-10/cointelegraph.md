@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-10"
 date: "2026-07-10"
 source: "Cointelegraph"
-count: 16
+count: 13
 ---
 
 # Cointelegraph - 2026-07-10
 
-16 items collected.
+13 items collected.
 
 ---
 
@@ -164,41 +164,5 @@ Wall Street banks, including Goldman Sachs and Morgan Stanley, are restricting e
 Circle announces it received final OCC approval for a national trust bank that will initially serve the company and affiliates, with possible future custody services for institutional clients.
 
 📖 [Read original article](https://cointelegraph.com/news/circle-final-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Japanese lender launches Bitcoin-backed loans of up to $6.2M
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/10/2026, 11:24:06 AM  
-**Categories:** Latest News  
-
-CRYL is offering Bitcoin-backed loans to individuals and businesses as Japanese firms explore broader uses for BTC in lending and credit markets.
-
-📖 [Read original article](https://cointelegraph.com/news/japan-cryl-bitcoin-backed-loans-6-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. TeraWulf eyes $3.5B debt raise for Anthropic-linked data center: Report
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/10/2026, 10:14:51 AM  
-**Categories:** Latest News  
-
-Bitcoin miner TeraWulf is reportedly seeking $3.5 billion in debt financing led by Morgan Stanley for its Kentucky data center campus leased by AI company Anthropic.
-
-📖 [Read original article](https://cointelegraph.com/news/terawulf-3-5-billion-debt-raise-anthropic-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Metaplanet explores Bitcoin-backed digital credit with JPYC in Japan
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/10/2026, 9:58:10 AM  
-**Categories:** Latest News  
-
-Metaplanet said it is studying Bitcoin-backed digital credit products in Japan with JPYC and Progmat, but no product has been launched.
-
-📖 [Read original article](https://cointelegraph.com/news/metaplanet-studies-bitcoin-digital-bonds-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
