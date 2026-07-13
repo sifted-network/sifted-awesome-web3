@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-07-12"
 date: "2026-07-12"
 source: "Cointelegraph"
-count: 6
+count: 7
 ---
 
 # Cointelegraph - 2026-07-12
 
-6 items collected.
+7 items collected.
 
 ---
 
-## 1. Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart
+## 1. Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 7/12/2026, 11:24:26 PM  
+**Categories:** Features  
+
+Even Ethereum's critics believe Robinhood Chain is bullish for ETH. Nigel Farage and Donald Trump become embroiled in crypto related scandals, and more.
+
+📖 [Read original article](https://cointelegraph.com/features/ethereum-climbs-as-robinhood-l2-takes-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 7/12/2026, 6:16:45 PM  
@@ -23,7 +35,7 @@ Standard Chartered sees communication challenges facing the biggest digital asse
 
 ---
 
-## 2. Pakistan crypto chief seeks dialogue after scholar rules against crypto payments
+## 3. Pakistan crypto chief seeks dialogue after scholar rules against crypto payments
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/12/2026, 12:26:09 PM  
@@ -35,7 +47,7 @@ Pakistan’s virtual-assets regulator called for continued dialogue on the treat
 
 ---
 
-## 3. Cambridge study puts Ethereum near the lower end of PoS energy intensity
+## 4. Cambridge study puts Ethereum near the lower end of PoS energy intensity
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/12/2026, 9:29:00 AM  
@@ -47,7 +59,7 @@ Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-
 
 ---
 
-## 4. Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal
+## 5. Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/12/2026, 4:28:00 AM  
@@ -59,7 +71,7 @@ The ongoing debate over a proposed temporary fork comes despite a broad downturn
 
 ---
 
-## 5. Here’s what happened in crypto today
+## 6. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/12/2026, 4:24:58 AM  
@@ -71,7 +83,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 6. Empery Digital shares rise after selling BTC to fund AI data center project
+## 7. Empery Digital shares rise after selling BTC to fund AI data center project
 
 **Author:** Cointelegraph by Brayden Lindrea  
 **Published:** 7/12/2026, 1:05:00 AM  
