@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-10"
 date: "2026-07-10"
 source: "The Block"
-count: 16
+count: 15
 ---
 
 # The Block - 2026-07-10
 
-16 items collected.
+15 items collected.
 
 ---
 
@@ -188,17 +188,5 @@ Circle Internet Group's stock dropped 1.65% during Thursday's trading session, e
 Labour MPs are gathering support for proposed amendments to a key bill that would permanently ban crypto political donations.
 
 📖 [Read original article](https://www.theblock.co/post/407842/uk-labour-mps-crypto-ban?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. North Carolina passes bill recognizing CFTC preemption over prediction markets
-
-**Author:** Danny Park  
-**Published:** 7/10/2026, 5:51:59 AM  
-**Categories:** Companies, Policy, Regulation  
-
-North Carolina's new law taxes prediction market platforms at 6% of their net trading fee revenue that is attributable to North Carolina residents.
-
-📖 [Read original article](https://www.theblock.co/post/407830/north-carolina-cftc-preemption-prediction-markets?utm_source=rss&utm_medium=rss)
 
 ---
