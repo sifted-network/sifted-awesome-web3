@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-10"
 date: "2026-07-10"
 source: "Cointelegraph"
-count: 17
+count: 16
 ---
 
 # Cointelegraph - 2026-07-10
 
-17 items collected.
+16 items collected.
 
 ---
 
@@ -200,17 +200,5 @@ Bitcoin miner TeraWulf is reportedly seeking $3.5 billion in debt financing led 
 Metaplanet said it is studying Bitcoin-backed digital credit products in Japan with JPYC and Progmat, but no product has been launched.
 
 📖 [Read original article](https://cointelegraph.com/news/metaplanet-studies-bitcoin-digital-bonds-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Bitcoin returns to $64.3K with new 3-week BTC price highs imminent
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/10/2026, 9:32:23 AM  
-**Categories:** Markets  
-
-Bitcoin bulls faced "crucial resistance" at $65,000 next as BTC price action diverged from oil and US dollar strength.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
