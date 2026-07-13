@@ -47,7 +47,7 @@ An attacker inflated the value of SAUCE collateral and borrowed $9 million from 
 
 ---
 
-## 4. Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market
+## 4. Bitcoin price gained almost 10% in July, but traders still see BTC copying 2022 bear market
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/11/2026, 11:21:07 AM  
