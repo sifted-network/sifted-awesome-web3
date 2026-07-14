@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-07-13"
 date: "2026-07-13"
 source: "CoinDesk"
-count: 19
+count: 22
 ---
 
 # CoinDesk - 2026-07-13
 
-19 items collected.
+22 items collected.
 
 ---
 
-## 1. Trump's crypto riches loom over Clarity Act talks to ban conflicts for U.S. officials
+## 1. Binance.US CEO says exchange is rebuilding, eyes return to 20% U.S. market share
+
+**Author:** AI Boost  
+**Published:** 7/13/2026, 8:27:47 PM  
+**Categories:** CoinDesk News, Media Network Interview, Binance, News  
+
+Binance.US is betting ultra-low fees, new regulated products and deeper liquidity will help it regain customers after two years of regulatory setbacks.
+
+📖 [Read original article](https://www.coindesk.com/coindesk-news/2026/07/13/binance-us-ceo-says-exchange-is-rebuilding-eyes-return-to-20-u-s-market-share)
+
+---
+
+## 2. Franklin Crypto CIO says crypto prices are disconnected from fundamentals
+
+**Author:** AI Boost  
+**Published:** 7/13/2026, 8:15:29 PM  
+**Categories:** Markets, Media Network Interview, News  
+
+Institutional adoption of crypto is accelerating even as digital asset prices fail to reflect the industry's strongest fundamentals in years, Seth Ginns said.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/13/franklin-crypto-cio-says-crypto-prices-are-disconnected-from-fundamentals)
+
+---
+
+## 3. TeraWulf CEO: 'Not All Megawatts Are Created Equally' in AI Race
+
+**Author:** AI Boost  
+**Published:** 7/13/2026, 7:43:03 PM  
+**Categories:** CoinDesk News, Media Network Interview, Bitcoin Mining, News  
+
+TeraWulf says its $19 billion AI hosting agreement with Anthropic underscores its transformation from a Bitcoin miner into an AI infrastructure company.
+
+📖 [Read original article](https://www.coindesk.com/coindesk-news/2026/07/13/terawulf-ceo-not-all-megawatts-are-created-equally-in-ai-race)
+
+---
+
+## 4. Trump's crypto riches loom over Clarity Act talks to ban conflicts for U.S. officials
 
 **Author:** Jesse Hamilton  
 **Published:** 7/13/2026, 5:49:10 PM  
@@ -23,7 +59,7 @@ Discussion among Democrats have fixed on the president's personal gains when has
 
 ---
 
-## 2. Mizuho says Circle bank approval doesn't solve USDC growth, stablecoin competition risks
+## 5. Mizuho says Circle bank approval doesn't solve USDC growth, stablecoin competition risks
 
 **Author:** Will Canny,AI Boost  
 **Published:** 7/13/2026, 4:34:48 PM  
@@ -35,7 +71,7 @@ Japanese investment bank Mizuho reiterated its neutral rating on Circle, saying 
 
 ---
 
-## 3. Bitcoin panic-selling may be ending as sellers' profit margins disappear
+## 6. Bitcoin panic-selling may be ending as sellers' profit margins disappear
 
 **Author:** Omkar Godbole  
 **Published:** 7/13/2026, 3:49:41 PM  
@@ -47,7 +83,7 @@ Analysts point to bitcoin’s resilience amid fresh U.S.-Iran escalation and ren
 
 ---
 
-## 4. Strategy pauses its Bitcoin buying spree to hoard a massive $3 billion cash cushion
+## 7. Strategy pauses its Bitcoin buying spree to hoard a massive $3 billion cash cushion
 
 **Author:** James Van Straten  
 **Published:** 7/13/2026, 3:27:36 PM  
@@ -59,7 +95,7 @@ Strategy now has more than 20 months of coverage for preferred-stock dividends a
 
 ---
 
-## 5. Robinhood built a blockchain for tokenized stocks. Memecoins took over
+## 8. Robinhood built a blockchain for tokenized stocks. Memecoins took over
 
 **Author:** Shaurya Malwa  
 **Published:** 7/13/2026, 3:17:05 PM  
@@ -71,7 +107,7 @@ Robinhood Chain has pulled in $135 million of value and 800,000 addresses since 
 
 ---
 
-## 6. Bolivia weighs adding Tether's USDT to its national payments system
+## 9. Bolivia weighs adding Tether's USDT to its national payments system
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/13/2026, 2:47:52 PM  
@@ -83,7 +119,7 @@ Crypto usage has spiked in the country, with transaction volumes hitting $430 mi
 
 ---
 
-## 7. UK Treasury report on tokenization cites Ripple as convergence model
+## 10. UK Treasury report on tokenization cites Ripple as convergence model
 
 **Author:** Shaurya Malwa  
 **Published:** 7/13/2026, 2:06:53 PM  
@@ -95,7 +131,7 @@ A Treasury-backed report targets putting repo, gilts and funds onchain within tw
 
 ---
 
-## 8. Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply
+## 11. Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply
 
 **Author:** Helene Braun  
 **Published:** 7/13/2026, 2:04:01 PM  
@@ -107,7 +143,7 @@ The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhoo
 
 ---
 
-## 9. Wall Street transfer agents lobby SEC, warning that third-party tokens pose risks to market integrity
+## 12. Wall Street transfer agents lobby SEC, warning that third-party tokens pose risks to market integrity
 
 **Author:** Krisztian Sandor  
 **Published:** 7/13/2026, 1:45:00 PM  
@@ -119,7 +155,7 @@ The Securities Transfer Association, an industry group for transfer agents, said
 
 ---
 
-## 10. Robinhood Chain surges into top five by DEX volume: Bernstein
+## 13. Robinhood Chain surges into top five by DEX volume: Bernstein
 
 **Author:** Will Canny,AI Boost  
 **Published:** 7/13/2026, 12:49:00 PM  
@@ -131,7 +167,7 @@ Robinhood's new blockchain quickly became a top-five network by DEX volume, sign
 
 ---
 
-## 11. Michael Saylor’s Strategy added $467 million in cash, made no changes to bitcoin holdings
+## 14. Michael Saylor’s Strategy added $467 million in cash, made no changes to bitcoin holdings
 
 **Author:** James Van Straten  
 **Published:** 7/13/2026, 12:15:17 PM  
@@ -143,7 +179,7 @@ The company raised the fresh cash via sales of common stock; its USD Reserve now
 
 ---
 
-## 12. SBI Holdings' blockchain initiative pivots to Solana for tokenization, stablecoin issuance
+## 15. SBI Holdings' blockchain initiative pivots to Solana for tokenization, stablecoin issuance
 
 **Author:** Jamie Crawley  
 **Published:** 7/13/2026, 11:40:51 AM  
@@ -155,7 +191,7 @@ The SBI Solana Global joint venture now includes the Solana Foundation, the Swis
 
 ---
 
-## 13. BlackRock, Goldman Sachs, JPMorgan, Morgan Stanley join UK government's tokenization taskforce
+## 16. BlackRock, Goldman Sachs, JPMorgan, Morgan Stanley join UK government's tokenization taskforce
 
 **Author:** Ian Allison  
 **Published:** 7/13/2026, 11:40:21 AM  
@@ -167,7 +203,7 @@ The 54 firm-strong group, which is backed by the City of London Corporation, wil
 
 ---
 
-## 14. Resurgent U.S.-Iran hostilities send bitcoin lower even as ETF flows show demand
+## 17. Resurgent U.S.-Iran hostilities send bitcoin lower even as ETF flows show demand
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/13/2026, 11:20:49 AM  
@@ -179,7 +215,7 @@ Your day-ahead look for July 13, 2026
 
 ---
 
-## 15. Profit-taking, MidEast hostilities drag crypto lower after bullish week
+## 18. Profit-taking, MidEast hostilities drag crypto lower after bullish week
 
 **Author:** Oliver Knight,Saksham Diwan  
 **Published:** 7/13/2026, 10:30:39 AM  
@@ -191,7 +227,7 @@ Crypto's weekend gains gave way to a Monday selloff as Middle East tensions resu
 
 ---
 
-## 16. Paradigm shifts vs bubbles: AI chips and bitcoin show powerful trends can still produce severe corrections
+## 19. Paradigm shifts vs bubbles: AI chips and bitcoin show powerful trends can still produce severe corrections
 
 **Author:** James Van Straten  
 **Published:** 7/13/2026, 9:32:41 AM  
@@ -203,7 +239,7 @@ Structural change can create lasting opportunities, but explosive rallies in sem
 
 ---
 
-## 17. U.S. inflation, second-quarter earnings reports: Crypto Week Ahead
+## 20. U.S. inflation, second-quarter earnings reports: Crypto Week Ahead
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/13/2026, 8:55:50 AM  
@@ -215,7 +251,7 @@ Your look at what's coming in the week starting July 13.
 
 ---
 
-## 18. Live markets: Bitcoin, stocks, bonds sharply lower as Fed's Waller signals near-term rate hike
+## 21. Live markets: Bitcoin, stocks, bonds sharply lower as Fed's Waller signals near-term rate hike
 
 **Author:** Shaurya Malwa,Helene Braun  
 **Published:** 7/13/2026, 6:52:28 AM  
@@ -227,7 +263,7 @@ The liquidations were minor, running at about a sixth of what the market saw at 
 
 ---
 
-## 19. Bitcoin holds near $63,800 as war-driven selloff hits everything but crypto
+## 22. Bitcoin holds near $63,800 as war-driven selloff hits everything but crypto
 
 **Author:** Shaurya Malwa  
 **Published:** 7/13/2026, 4:48:11 AM  
