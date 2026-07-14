@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-07-14"
 date: "2026-07-14"
 source: "Decrypt"
-count: 2
+count: 4
 ---
 
 # Decrypt - 2026-07-14
 
-2 items collected.
+4 items collected.
 
 ---
 
-## 1. Morning Minute: Saylor's Strategy Hoards Cash, Doesn't Buy BTC
+## 1. Bitcoin Ticks Up to $64K Following Largest Inflation Slowdown in Six Years
+
+**Author:** André Beganski  
+**Published:** 7/14/2026, 3:24:27 PM  
+**Categories:** , Markets  
+
+Consumer prices cooled more than expected in June, yet geopolitical tensions continue to cast a shadow over crypto prices
+
+📖 [Read original article](https://decrypt.co/373488/bitcoin-ticks-up-to-64k-following-largest-inflation-slowdown-in-six-years)
+
+---
+
+## 2. UK to Defer Capital Gains Tax on DeFi Lending, Liquidity Pool Deposits
+
+**Author:** Decrypt Agent  
+**Published:** 7/14/2026, 3:00:26 PM  
+**Categories:** , , Business  
+
+Moving crypto into a lending protocol or liquidity pool won’t count as a taxable disposal, deferring the charge until a real cash-out.
+
+📖 [Read original article](https://decrypt.co/373481/uk-to-defer-capital-gains-tax-on-defi-lending-liquidity-pool-deposits)
+
+---
+
+## 3. Morning Minute: Saylor's Strategy Hoards Cash, Doesn't Buy BTC
 
 **Author:** Tyler Warner  
 **Published:** 7/14/2026, 12:13:05 PM  
@@ -23,7 +47,7 @@ Strategy’s Bitcoin-buying machine stayed in neutral, while BTC and crypto majo
 
 ---
 
-## 2. US Government Moves $288M in Seized Crypto to Coinbase Prime
+## 4. US Government Moves $288M in Seized Crypto to Coinbase Prime
 
 **Author:** Decrypt Agent  
 **Published:** 7/14/2026, 11:08:43 AM  
