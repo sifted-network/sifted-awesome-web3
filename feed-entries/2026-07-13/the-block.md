@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-13"
 date: "2026-07-13"
 source: "The Block"
-count: 19
+count: 17
 ---
 
 # The Block - 2026-07-13
 
-19 items collected.
+17 items collected.
 
 ---
 
@@ -212,29 +212,5 @@ The SBI's service would offer users a 3% annual yield for deposited JPYSC stable
 This is part of a proof-of-concept involving telecommunications giant KDDI and crypto wallet firm HashPort.
 
 📖 [Read original article](https://www.theblock.co/post/407982/lawson-pilots-jpyc-stablecoin?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. The Funding: Why Japan’s SBI Holdings is investing big in crypto
-
-**Author:** Yogita Khatri  
-**Published:** 7/13/2026, 2:12:42 AM  
-**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Markets, Mergers & Acquisitions, Policy, Regulation, Venture Capital, Web3, Asia, Asian Regulation, Public Company Mergers and Acquisitions, Strategic Investments  
-
-The Japanese financial giant's recent crypto deals offer insights into how traditional finance is approaching digital assets.
-
-📖 [Read original article](https://www.theblock.co/post/407977/the-funding-why-japan-sbi-holdings-is-investing-big-in-crypto?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. Bitcoin whale moves $188 million in BTC after seven-year dormancy: onchain data
-
-**Author:** Danny Park  
-**Published:** 7/13/2026, 2:12:25 AM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin  
-
-The whale last moved bitcoin in 2018, when the cryptocurrency traded at roughly $6,475, reflecting nearly a tenfold gain since then.
-
-📖 [Read original article](https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&utm_medium=rss)
 
 ---
