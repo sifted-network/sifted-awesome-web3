@@ -2,16 +2,76 @@
 title: "Decrypt - 2026-07-13"
 date: "2026-07-13"
 source: "Decrypt"
-count: 9
+count: 14
 ---
 
 # Decrypt - 2026-07-13
 
-9 items collected.
+14 items collected.
 
 ---
 
-## 1. Bolivia Is Considering Adding Tether's USDT Stablecoin to National Payments System: Report
+## 1. Stop Over-Prompting: OpenAI’s New GPT-5.6 Guidelines Change Everything
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/13/2026, 10:46:04 PM  
+**Categories:** Artificial Intelligence  
+
+Forget the XML blocks and persistence scripts. OpenAI’s new prompting guide says define the destination, set the stopping conditions, and get out of the way.
+
+📖 [Read original article](https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt)
+
+---
+
+## 2. Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause
+
+**Author:** Jason Nelson  
+**Published:** 7/13/2026, 10:11:05 PM  
+**Categories:** Artificial Intelligence  
+
+About 200 protesters marched through San Francisco on Saturday, calling on leading AI companies to halt development of more powerful models over concerns about AI safety, jobs, and the environment.
+
+📖 [Read original article](https://decrypt.co/373433/stop-ai-protest-openai-anthropic-google-deepmind)
+
+---
+
+## 3. New Hampshire Follows Bitcoin Reserve With 'Blockchain Basic Laws' Signing
+
+**Author:** Logan Hitchcock  
+**Published:** 7/13/2026, 8:57:09 PM  
+**Categories:** , Law and Order  
+
+New Hampshire's newly-signed crypto law introduces protections for users, miners, and stakers within its boundaries.
+
+📖 [Read original article](https://decrypt.co/373424/new-hampshire-bitcoin-reserve-blockchain-basic-laws-signing)
+
+---
+
+## 4. Claude's Personality Changes Depending on the Model—And the Language You Speak
+
+**Author:** Jason Nelson  
+**Published:** 7/13/2026, 8:39:53 PM  
+**Categories:** Artificial Intelligence  
+
+According to new Anthropic research, Claude consistently expresses different values across models and languages.
+
+📖 [Read original article](https://decrypt.co/373422/anthropic-claude-personality-changes-model-language)
+
+---
+
+## 5. Democratic Opposition to Clarity Act Grows in Crypto Bill's Do-or-Die Final Weeks
+
+**Author:** Sander Lutz  
+**Published:** 7/13/2026, 8:15:24 PM  
+**Categories:** Law and Order  
+
+Democrats are mounting a final case against the Clarity Act centered on its lack of language restricting Trump's sprawling crypto fortune.
+
+📖 [Read original article](https://decrypt.co/373419/democratic-opposition-clarity-act-grows-crypto-bill-final-weeks)
+
+---
+
+## 6. Bolivia Is Considering Adding Tether's USDT Stablecoin to National Payments System: Report
 
 **Author:** Logan Hitchcock  
 **Published:** 7/13/2026, 6:57:19 PM  
@@ -23,7 +83,7 @@ South American nation Bolivia is considering the use of the largest dollar-backe
 
 ---
 
-## 2. 'The Odyssey' Director Chris Nolan: Young Audiences are Rejecting 'AI Slop'
+## 7. 'The Odyssey' Director Chris Nolan: Young Audiences are Rejecting 'AI Slop'
 
 **Author:** Stephen Graves  
 **Published:** 7/13/2026, 5:16:44 PM  
@@ -35,7 +95,7 @@ The younger generation's judgment of AI has been “immediate and harsh,” acco
 
 ---
 
-## 3. Robinhood Chain's Early Momentum Is Being Driven By Meme Coins, Not Tokenized Stocks
+## 8. Robinhood Chain's Early Momentum Is Being Driven By Meme Coins, Not Tokenized Stocks
 
 **Author:** André Beganski  
 **Published:** 7/13/2026, 4:59:36 PM  
@@ -47,7 +107,7 @@ Robinhood Chain traders are reaching for Tendies over Apple.
 
 ---
 
-## 4. This Is How Much Your Boyfriend Is Spending on AI Girlfriends
+## 9. This Is How Much Your Boyfriend Is Spending on AI Girlfriends
 
 **Author:** Jason Nelson  
 **Published:** 7/13/2026, 4:40:36 PM  
@@ -59,7 +119,7 @@ Romantic AI companion apps have brought in nearly half a billion dollars as user
 
 ---
 
-## 5. BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand
+## 10. BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand
 
 **Author:** Logan Hitchcock  
 **Published:** 7/13/2026, 3:22:10 PM  
@@ -71,7 +131,7 @@ According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early suc
 
 ---
 
-## 6. Strategy Pads Cash Reserves to $3 Billion, Skipping Bitcoin Buy for Third Week
+## 11. Strategy Pads Cash Reserves to $3 Billion, Skipping Bitcoin Buy for Third Week
 
 **Author:** André Beganski  
 **Published:** 7/13/2026, 2:09:38 PM  
@@ -83,7 +143,7 @@ Strategy went another week without buying Bitcoin, focusing instead on lifting i
 
 ---
 
-## 7. Bank of Thailand Flags Abnormal Stablecoin Trades in 'Grey Economy' Crackdown
+## 12. Bank of Thailand Flags Abnormal Stablecoin Trades in 'Grey Economy' Crackdown
 
 **Author:** Decrypt Agent  
 **Published:** 7/13/2026, 1:56:36 PM  
@@ -95,7 +155,7 @@ Data analytics flagged stablecoin transfers meant to evade scrutiny, the central
 
 ---
 
-## 8. Morning Minute: BTC and ETH ETFs Flip Green After Lengthy Outflow Stretch
+## 13. Morning Minute: BTC and ETH ETFs Flip Green After Lengthy Outflow Stretch
 
 **Author:** Tyler Warner  
 **Published:** 7/13/2026, 11:53:11 AM  
@@ -107,7 +167,7 @@ U.S. spot Bitcoin ETFs closed their first positive week since May, but a big wee
 
 ---
 
-## 9. Chinese Prosecutors Float Treating Crypto Mixer, Privacy Coin Use as Sign of Money Laundering
+## 14. Chinese Prosecutors Float Treating Crypto Mixer, Privacy Coin Use as Sign of Money Laundering
 
 **Author:** Decrypt Agent  
 **Published:** 7/13/2026, 10:43:13 AM  
