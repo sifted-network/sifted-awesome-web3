@@ -2,16 +2,112 @@
 title: "Cointelegraph - 2026-07-14"
 date: "2026-07-14"
 source: "Cointelegraph"
-count: 13
+count: 21
 ---
 
 # Cointelegraph - 2026-07-14
 
-13 items collected.
+21 items collected.
 
 ---
 
-## 1. ABA, state banking groups push back on CLARITY Act stablecoin yield provisions
+## 1. UK government defers capital gains on certain crypto with ‘no gain, no loss’ approach
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/14/2026, 5:24:00 PM  
+**Categories:** Latest News  
+
+The change in tax policy, expected to effect about 700,000 people in the UK, is tied to the disposal of crypto in lending and liquidity pools.
+
+📖 [Read original article](https://cointelegraph.com/news/uk-government-capital-gains-lending-liquidity-no-gain-no-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. JCB signs Circle MOU to test stablecoin payments in Japan
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/14/2026, 5:05:00 PM  
+**Categories:** Latest News  
+
+The companies will explore using USDC for JCB’s cross-border treasury operations and merchant payments in Japan as regulated stablecoin adoption gains momentum.
+
+📖 [Read original article](https://cointelegraph.com/news/japans-jcb-signs-mou-with-circle-to-explore-usdc-payments-and-cross-border-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. CleanSpark shares jump 22% after $6.6B Georgia data center lease
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/14/2026, 4:24:45 PM  
+**Categories:** Latest News  
+
+The Bitcoin miner’s Georgia agreement with an undisclosed investment-grade technology company expands its footprint in AI and high-performance computing infrastructure.
+
+📖 [Read original article](https://cointelegraph.com/news/cleanspark-shares-jump-after-georgia-data-center-lease?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Anchorage Digital expands Tron support with institutional TRX staking
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/14/2026, 3:00:00 PM  
+**Categories:** Latest News  
+
+Institutions can now stake Tron's native token directly from Anchorage's custody platform as the company expands support for one of the largest USDT settlement networks.
+
+📖 [Read original article](https://cointelegraph.com/news/anchorage-digital-expands-tron-support-with-institutional-trx-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Bitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/14/2026, 2:53:13 PM  
+**Categories:** Markets  
+
+BTC price action returned to $64,000 on low US CPI inflation but traders stayed wary of rejection at key resistance.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-jumps-on-lowest-us-cpi-since-2020-as-traders-stay-wary-of-64k-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. OpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 7/14/2026, 1:30:06 PM  
+**Categories:** Latest News  
+
+OpenAI’s ChatGPT now displays Kalshi’s World Cup prediction market odds in search results, marking the AI firm’s first reported deal with a prediction market platform.
+
+📖 [Read original article](https://cointelegraph.com/news/openai-kalshi-prediction-markets-world-cup-chatgpt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Strategy became a symbol of the dot-com crash: Could history repeat?
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 7/14/2026, 1:30:00 PM  
+**Categories:** Features  
+
+MicroStrategy blew up during the dot-com era, before Michael Saylor transformed it into the world's largest corporate Bitcoin holder. Did he learn his lesson?
+
+📖 [Read original article](https://cointelegraph.com/features/from-dot-com-bust-to-bitcoin-king-has-michael-saylor-rewritten-his-legacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Humanity Protocol to prioritize operational security following $36M hack
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 7/14/2026, 1:08:00 PM  
+**Categories:** Latest News  
+
+Humanity Protocol’s founder said they will refocus on operational security, as malicious actors are switching from smart contract vulnerabilities to exploiting human behavior.
+
+📖 [Read original article](https://cointelegraph.com/news/humanity-protocol-operational-security-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. ABA, state banking groups push back on CLARITY Act stablecoin yield provisions
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/14/2026, 11:40:00 AM  
@@ -23,10 +119,10 @@ ABA and state banking associations published a joint letter calling for more det
 
 ---
 
-## 2. Solana community lead enters UK by-election with onchain transparency pitch
+## 10. Solana community lead enters UK by-election with onchain transparency pitch
 
 **Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/14/2026, 11:34:13 AM  
+**Published:** 7/14/2026, 11:38:00 AM  
 **Categories:** Latest News  
 
 Superteam UK lead Stephen “Cap” Newnham is taking on Nigel Farage in the Clacton by-election with pledges on pension reform and onchain transparency.
@@ -35,7 +131,7 @@ Superteam UK lead Stephen “Cap” Newnham is taking on Nigel Farage in the Cla
 
 ---
 
-## 3. ECB picks 36 payment providers to test digital euro ahead of 2027 pilot
+## 11. ECB picks 36 payment providers to test digital euro ahead of 2027 pilot
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/14/2026, 11:16:38 AM  
@@ -47,7 +143,7 @@ The European Central Bank will beta test a digital euro with 36 providers, inclu
 
 ---
 
-## 4. AI has not triggered DeFi ‘hackpocalypse,’ Dragonfly partner says
+## 12. AI has not triggered DeFi ‘hackpocalypse,’ Dragonfly partner says
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/14/2026, 10:39:13 AM  
@@ -59,7 +155,7 @@ Total value stolen and median hack size are declining compared to 2025, signalin
 
 ---
 
-## 5. Hobby-level miner bags $200K solo BTC block with budget Bitaxe rig
+## 13. Hobby-level miner bags $200K solo BTC block with budget Bitaxe rig
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/14/2026, 10:10:00 AM  
@@ -71,7 +167,7 @@ A solo Bitcoin miner secured a $200,000 block reward with a budget mining rig, p
 
 ---
 
-## 6. Bitcoin bear market will bottom when two-month RSI metric hits zero, trader predicts
+## 14. Bitcoin bear market will bottom when two-month RSI metric hits zero, trader predicts
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/14/2026, 9:54:58 AM  
@@ -83,7 +179,7 @@ Bitcoin RSI continued to copy previous bear markets as a trader predicted that h
 
 ---
 
-## 7. South Korea to test tokenized government bonds with CBDC in 2027
+## 15. South Korea to test tokenized government bonds with CBDC in 2027
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/14/2026, 8:44:06 AM  
@@ -95,7 +191,7 @@ South Korea will test tokenized government bonds linked to the Bank of Korea’s
 
 ---
 
-## 8. US spot Bitcoin ETFs post $425M outflow after brief rebound
+## 16. US spot Bitcoin ETFs post $425M outflow after brief rebound
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/14/2026, 8:24:31 AM  
@@ -107,7 +203,7 @@ US spot Bitcoin ETFs saw their largest single-day outflows in July, with $424.66
 
 ---
 
-## 9. Here’s what happened in crypto today
+## 17. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/14/2026, 5:09:29 AM  
@@ -119,7 +215,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 10. White House crypto adviser Patrick Witt to take military leave: Report
+## 18. White House crypto adviser Patrick Witt to take military leave: Report
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/14/2026, 4:35:20 AM  
@@ -131,7 +227,7 @@ Witt’s departure comes during a critical moment for the CLARITY Act, with depu
 
 ---
 
-## 11. US government moves $297M in seized Bitcoin, Ether to Coinbase Prime
+## 19. US government moves $297M in seized Bitcoin, Ether to Coinbase Prime
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/14/2026, 3:35:51 AM  
@@ -143,7 +239,7 @@ The transfers have raised questions over Trump’s Bitcoin reserve pledge, thoug
 
 ---
 
-## 12. Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express
+## 20. Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 7/14/2026, 1:39:02 AM  
@@ -155,7 +251,7 @@ Bitcoin backed mortgages and stablecoin yield are hot topics in Japan right now,
 
 ---
 
-## 13. CLARITY Act gains second law enforcement endorsement before Senate push
+## 21. CLARITY Act gains second law enforcement endorsement before Senate push
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/14/2026, 1:37:27 AM  
