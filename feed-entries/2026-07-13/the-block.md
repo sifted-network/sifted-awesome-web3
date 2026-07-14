@@ -2,16 +2,52 @@
 title: "The Block - 2026-07-13"
 date: "2026-07-13"
 source: "The Block"
-count: 16
+count: 19
 ---
 
 # The Block - 2026-07-13
 
-16 items collected.
+19 items collected.
 
 ---
 
-## 1. Strategy’s no-bitcoin-buy week shows ‘greater balance-sheet discipline,’ analysts say
+## 1. Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 7/13/2026, 10:06:02 PM  
+**Categories:** Companies, Markets, Tech, Social Media, Twitter  
+
+Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.
+
+📖 [Read original article](https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Hyperliquid’s HIP-3 markets surge to nearly 50% of perp volume as onchain stock trading grows
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 7/13/2026, 8:33:47 PM  
+**Categories:** Crypto Ecosystems, DeFi, Markets, Web3, Tokenization  
+
+HIP-3's share of total Hyperliquid perp volume has climbed from roughly 2% at the start of the year to around 50% now.
+
+📖 [Read original article](https://www.theblock.co/post/408064/hyperliquid-hip-3-markets-surge-50-perp-volume-onchain-stock-trading-grows?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Gondor v1 to let users borrow against their entire Polymarket portfolio
+
+**Author:** Daniel Kuhn  
+**Published:** 7/13/2026, 7:37:49 PM  
+**Categories:** Crypto Ecosystems, Deals, DeFi, Markets, Lending  
+
+Expected to launch in September, v1 will enable users to margin their entire Polymarket portfolios to place additional leveraged bets.
+
+📖 [Read original article](https://www.theblock.co/post/408129/gondor-v1-let-users-borrow-against-entire-polymarket-portfolio?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Strategy’s no-bitcoin-buy week shows ‘greater balance-sheet discipline,’ analysts say
 
 **Author:** Kyle Baird  
 **Published:** 7/13/2026, 6:50:23 PM  
@@ -23,7 +59,7 @@ Analysts from Benchmark and TD Cowen maintained Buy ratings and price targets of
 
 ---
 
-## 2. Onchain Pokémon cards come to Solana-based DEX Jupiter
+## 5. Onchain Pokémon cards come to Solana-based DEX Jupiter
 
 **Author:** RT Watson  
 **Published:** 7/13/2026, 4:56:34 PM  
@@ -35,7 +71,7 @@ While tokenized Pokémon cards aren’t new, having Jupiter enter the space coul
 
 ---
 
-## 3. UK lays out tokenized finance roadmap with projected £33 billion annual boost
+## 6. UK lays out tokenized finance roadmap with projected £33 billion annual boost
 
 **Author:** Kyle Baird  
 **Published:** 7/13/2026, 4:42:36 PM  
@@ -47,7 +83,7 @@ Industry leaders say payment infrastructure must evolve alongside tokenized asse
 
 ---
 
-## 4. President Trump, White House press Senate to advance the Clarity Act while ethics fight looms
+## 7. President Trump, White House press Senate to advance the Clarity Act while ethics fight looms
 
 **Author:** Sarah Wynn  
 **Published:** 7/13/2026, 3:51:09 PM  
@@ -59,7 +95,7 @@ President Trump and other key administration officials and lawmakers are making 
 
 ---
 
-## 5. Chinese prosecutors call for more proactive approach to investigating crypto money laundering
+## 8. Chinese prosecutors call for more proactive approach to investigating crypto money laundering
 
 **Author:** RT Watson  
 **Published:** 7/13/2026, 2:58:33 PM  
@@ -71,7 +107,7 @@ For the most part, China prohibits crypto trading and services while authorities
 
 ---
 
-## 6. Japan’s largest security token platform moves nearly $3 billion to Avalanche blockchain
+## 9. Japan’s largest security token platform moves nearly $3 billion to Avalanche blockchain
 
 **Author:** Daniel Kuhn  
 **Published:** 7/13/2026, 2:29:57 PM  
@@ -83,7 +119,7 @@ Progmat develops security token infrastructure that accounts for 64.6% of Japan�
 
 ---
 
-## 7. Stablecoin FX priced below interbank rates in Q2, with routing now the biggest cost lever: Borderless
+## 10. Stablecoin FX priced below interbank rates in Q2, with routing now the biggest cost lever: Borderless
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/13/2026, 2:01:02 PM  
@@ -95,7 +131,7 @@ Stablecoin payments were priced 3.2 bps below interbank FX rates across 260 corr
 
 ---
 
-## 8. Tom Lee says users ‘starting to see Ethereum as money’ as Bitmine adds 27,801 ETH
+## 11. Tom Lee says users ‘starting to see Ethereum as money’ as Bitmine adds 27,801 ETH
 
 **Author:** Brian Danga  
 **Published:** 7/13/2026, 1:25:58 PM  
@@ -107,7 +143,7 @@ Bitmine accumulates 5.77M ETH tokens, 4.8% of supply, as Tom Lee cites Robinhood
 
 ---
 
-## 9. Robinhood Chain draws over $3 billion in weekly DEX volume to join top five chains: Bernstein
+## 12. Robinhood Chain draws over $3 billion in weekly DEX volume to join top five chains: Bernstein
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/13/2026, 12:30:48 PM  
@@ -119,7 +155,7 @@ Robinhood Chain hit $3.1B in weekly DEX volume and 65K users since its July 1 la
 
 ---
 
-## 10. Strategy sells $467 million in MSTR shares, makes no bitcoin purchases as USD reserve hits $3 billion
+## 13. Strategy sells $467 million in MSTR shares, makes no bitcoin purchases as USD reserve hits $3 billion
 
 **Author:** James Hunt  
 **Published:** 7/13/2026, 12:16:59 PM  
@@ -131,7 +167,7 @@ Strategy's total holdings remain at 843,775 BTC and account for around 4% of the
 
 ---
 
-## 11. SBI Holdings, Solana Foundation partner to build Japan-based onchain financial market
+## 14. SBI Holdings, Solana Foundation partner to build Japan-based onchain financial market
 
 **Author:** Brian Danga  
 **Published:** 7/13/2026, 10:39:44 AM  
@@ -143,7 +179,7 @@ SBI and the Solana Foundation are collaborating to build an onchain financial ma
 
 ---
 
-## 12. Bank of Thailand audits high-volume stablecoin trades to crack down on illicit finance: report
+## 15. Bank of Thailand audits high-volume stablecoin trades to crack down on illicit finance: report
 
 **Author:** Danny Park  
 **Published:** 7/13/2026, 8:19:26 AM  
@@ -155,7 +191,7 @@ The central bank and the SEC have reportedly begun using data analytics tools to
 
 ---
 
-## 13. Japan’s SBI Group to launch JPYSC stablecoin lending service this month
+## 16. Japan’s SBI Group to launch JPYSC stablecoin lending service this month
 
 **Author:** Timmy Shen  
 **Published:** 7/13/2026, 7:22:28 AM  
@@ -167,7 +203,7 @@ The SBI's service would offer users a 3% annual yield for deposited JPYSC stable
 
 ---
 
-## 14. Japan’s Lawson convenience store pilots stablecoin payments with JPYC: report
+## 17. Japan’s Lawson convenience store pilots stablecoin payments with JPYC: report
 
 **Author:** Danny Park  
 **Published:** 7/13/2026, 3:59:28 AM  
@@ -179,7 +215,7 @@ This is part of a proof-of-concept involving telecommunications giant KDDI and c
 
 ---
 
-## 15. The Funding: Why Japan’s SBI Holdings is investing big in crypto
+## 18. The Funding: Why Japan’s SBI Holdings is investing big in crypto
 
 **Author:** Yogita Khatri  
 **Published:** 7/13/2026, 2:12:42 AM  
@@ -191,7 +227,7 @@ The Japanese financial giant's recent crypto deals offer insights into how tradi
 
 ---
 
-## 16. Bitcoin whale moves $188 million in BTC after seven-year dormancy: onchain data
+## 19. Bitcoin whale moves $188 million in BTC after seven-year dormancy: onchain data
 
 **Author:** Danny Park  
 **Published:** 7/13/2026, 2:12:25 AM  
