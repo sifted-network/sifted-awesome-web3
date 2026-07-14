@@ -110,7 +110,7 @@ The government-backed roadmap calls for the UK’s first digital gilt by early 2
 ## 9. Bitcoin whale moves $188M for first time in 7 years
 
 **Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/13/2026, 11:36:00 AM  
+**Published:** 7/13/2026, 11:42:00 AM  
 **Categories:** Latest News  
 
 A dormant whale transferred BTC worth $188 million after seven years of holding, adding to the growing ratio of whale transfers to cryptocurrency exchanges.
