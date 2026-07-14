@@ -2,16 +2,148 @@
 title: "The Block - 2026-07-14"
 date: "2026-07-14"
 source: "The Block"
-count: 9
+count: 19
 ---
 
 # The Block - 2026-07-14
 
-9 items collected.
+19 items collected.
 
 ---
 
-## 1. Distributed compute startup Boundless expands 4,000-GPU network from ZK to AI
+## 1. US-UK transatlantic taskforce unveils digital asset roadmap promoting stablecoin innovation
+
+**Author:** Sarah Wynn  
+**Published:** 7/14/2026, 5:59:25 PM  
+**Categories:** Crypto Ecosystems, DeFi, Policy, Regulation, U.S. Policymaking, FCA, Treasury Department  
+
+The U.S. and UK are deepening cooperation on digital assets, particularly for stablecoins and tokenized assets.
+
+📖 [Read original article](https://www.theblock.co/post/408305/us-uk-transatlantic-taskforce-unveils-digital-asset-roadmap-promoting-stablecoin-innovation?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. CoinFund’s David Pakman says crypto hasn’t solved tokenomics
+
+**Author:** RT Watson  
+**Published:** 7/14/2026, 5:32:08 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Governance, Markets, Token Projects, Tokens  
+
+During an interview on The Starting Block David Pakman suggested projects could pay contributors in stablecoins.
+
+📖 [Read original article](https://www.theblock.co/post/408285/coinfunds-david-pakman-says-crypto-hasnt-solved-tokenomics?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Wall Street turns cautious on Circle as analysts warn USDC economics face mounting pressure
+
+**Author:** Kyle Baird  
+**Published:** 7/14/2026, 5:14:47 PM  
+**Categories:** Companies, Crypto Ecosystems, Equities, Finance firms, Markets, Stablecoins, Token Projects, Analyst Reports, JPMorgan, USDC  
+
+Mizuho downgraded the stock and JPMorgan lowered earnings estimates, citing concerns that USDC is coming under pressure.
+
+📖 [Read original article](https://www.theblock.co/post/408280/wall-street-cautious-circle-warn-usdc-economics?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Bitcoin mining production slips in June for CleanSpark, BitFuFu and Canaan
+
+**Author:** Kyle Baird  
+**Published:** 7/14/2026, 3:46:24 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Infrastructure, Layer 1s, Markets, Token Projects, Bitcoin, Mining, Mining Companies  
+
+CleanSpark, BitFuFu and Canaan reported lower bitcoin production in June despite mining difficulty dropping more than 10%.
+
+📖 [Read original article](https://www.theblock.co/post/408260/bitcoin-mining-production-slips-june-cleanspark-bitfufu-canaan?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Galaxy blends Aave, Morpho and other DeFi rates in new GOFR crypto borrowing product
+
+**Author:** Daniel Kuhn  
+**Published:** 7/14/2026, 3:33:49 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Finance firms, Aave, Crypto Banks and Lenders, Lending  
+
+Galaxy will act as the sole intermediary between the accredited borrowers and the blockchain-based lending protocols.
+
+📖 [Read original article](https://www.theblock.co/post/408267/galaxy-blends-aave-morpho-other-defi-rates-new-gofr-crypto-borrowing-product?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. ‘Soft print, hard regime’: Bitcoin climbs toward $64,000 as June CPI falls 0.4% in largest monthly drop since 2020
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 7/14/2026, 3:27:07 PM  
+**Categories:** Crypto Ecosystems, Layer 1s, Macro, Markets, Token Projects, Bitcoin, Economic Indicators  
+
+June CPI fell 0.4% and core held at 2.6% annually, lifting BTC toward $64,000 as analysts flip from fears to a summer recovery case.
+
+📖 [Read original article](https://www.theblock.co/post/408263/soft-print-hard-regime-bitcoin-climbs-64000-june-cpi-falls-largest-monthly-drop-since-2020?utm_source=rss&utm_medium=rss)
+
+---
+
+## 7. Benchmark sees ‘long pathway for growth’ in Hut 8, raises target to $165 on $16.8 billion AI data center deals
+
+**Author:** Brian Danga  
+**Published:** 7/14/2026, 3:10:13 PM  
+**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin  
+
+Benchmark raised Hut 8's target to $165, citing $16.8 billion in AI data center contracts and Beacon Point commercialization.
+
+📖 [Read original article](https://www.theblock.co/post/408264/benchmark-sees-long-pathway-growth-hut-8-raises-target-to-165-on-ai-data-center-deals?utm_source=rss&utm_medium=rss)
+
+---
+
+## 8. Tether leads $7 million round in Pact Labs to boost USAT stablecoin adoption
+
+**Author:** RT Watson  
+**Published:** 7/14/2026, 2:37:15 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Markets, Stablecoins, Token Projects, Venture Capital, Series A, Tether  
+
+“Pact Labs gives us the rails to make digital dollars designed to be compliant with U.S. regulations," says Tether USAT.
+
+📖 [Read original article](https://www.theblock.co/post/408239/tether-leads-7-million-round-in-pact-labs-to-boost-usat-stablecoin-adoption?utm_source=rss&utm_medium=rss)
+
+---
+
+## 9. Dragonfly, FirstMark lead $38 million Series A for stablecoin startup Velocity with support from Coinbase, Ripple and more
+
+**Author:** Daniel Kuhn  
+**Published:** 7/14/2026, 2:30:43 PM  
+**Categories:** Companies, Deals, Finance firms, Venture Capital, Payments, Series A  
+
+The startup enables corporate users to use stablecoins while connecting to traditional banking rails and compliance systems.
+
+📖 [Read original article](https://www.theblock.co/post/408242/dragonfly-firstmark-series-a-stablecoin-velocity-coinbase-ripple-capital-one-ventures?utm_source=rss&utm_medium=rss)
+
+---
+
+## 10. Decentralized AI project Nous Research in talks to raise $75M at $1.5B valuation: report
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 7/14/2026, 2:24:13 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Web3, AI  
+
+Nous Research is raising at least $75 million led by Robot Ventures at a $1.5 billion valuation, per TechCrunch.
+
+📖 [Read original article](https://www.theblock.co/post/408237/decentralized-ai-project-nous-research-in-talks-to-raise-75m-at-1-5b-valuation-report?utm_source=rss&utm_medium=rss)
+
+---
+
+## 11. European Central Bank taps 36 payment providers for yearlong digital euro pilot
+
+**Author:** Brian Danga  
+**Published:** 7/14/2026, 1:30:02 PM  
+**Categories:** Central Banks, Policy, Regulation, CBDCs, ECB, Eurozone Regulation  
+
+The ECB selected 36 payment providers to test a beta digital euro in a yearlong pilot beginning in late 2027.
+
+📖 [Read original article](https://www.theblock.co/post/408228/european-central-bank-taps-36-payment-providers-for-yearlong-digital-euro-pilot?utm_source=rss&utm_medium=rss)
+
+---
+
+## 12. Distributed compute startup Boundless expands 4,000-GPU network from ZK to AI
 
 **Author:** Daniel Kuhn  
 **Published:** 7/14/2026, 1:00:00 PM  
@@ -23,7 +155,7 @@ Boundless, which built a 4,000 GPU cluster to settle Ethereum and Base ZK proofs
 
 ---
 
-## 2. CleanSpark signs $6.6 billion, 20-year data center lease with unnamed global tech firm
+## 13. CleanSpark signs $6.6 billion, 20-year data center lease with unnamed global tech firm
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/14/2026, 12:25:45 PM  
@@ -35,7 +167,7 @@ CleanSpark has signed a 20-year, $6.6 billion data center lease in Sandersville,
 
 ---
 
-## 3. UK HMRC adopts ‘no gain, no loss’ tax treatment for crypto lending, liquidity pools
+## 14. UK HMRC adopts ‘no gain, no loss’ tax treatment for crypto lending, liquidity pools
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/14/2026, 10:59:02 AM  
@@ -47,7 +179,7 @@ HMRC adopts "no gain, no loss" treatment for certain crypto loans and liquidity 
 
 ---
 
-## 4. US government moves over $288 million in seized bitcoin, ether to Coinbase Prime: Arkham
+## 15. US government moves over $288 million in seized bitcoin, ether to Coinbase Prime: Arkham
 
 **Author:** Danny Park  
 **Published:** 7/14/2026, 10:17:39 AM  
@@ -59,7 +191,7 @@ According to Arkham, U.S. government wallets maintain a large crypto portfolio e
 
 ---
 
-## 5. Former LASD deputy jailed for obstructing crypto ‘mogul’ Adam Iza extortion probe
+## 16. Former LASD deputy jailed for obstructing crypto ‘mogul’ Adam Iza extortion probe
 
 **Author:** Brian Danga  
 **Published:** 7/14/2026, 9:55:02 AM  
@@ -71,7 +203,7 @@ A former LASD deputy was sentenced to 18 months in federal prison for lying abou
 
 ---
 
-## 6. South Korea maintains blockchain economy push as AI takes center stage
+## 17. South Korea maintains blockchain economy push as AI takes center stage
 
 **Author:** Danny Park  
 **Published:** 7/14/2026, 8:51:22 AM  
@@ -83,7 +215,7 @@ Plans include the enactment of the Digital Asset Basic Act and advancement of a 
 
 ---
 
-## 7. US banking groups urge Senate to strengthen stablecoin provisions in Clarity Act
+## 18. US banking groups urge Senate to strengthen stablecoin provisions in Clarity Act
 
 **Author:** Danny Park  
 **Published:** 7/14/2026, 8:32:49 AM  
@@ -95,7 +227,7 @@ The groups warned that the current bill could allow stablecoins to substitute fo
 
 ---
 
-## 8. What Is RLUSD? Ripple’s XRP-Native Stablecoin Explained
+## 19. What Is RLUSD? Ripple’s XRP-Native Stablecoin Explained
 
 **Author:** The Block Research  
 **Published:** 7/14/2026, 6:53:47 AM  
@@ -104,17 +236,5 @@ The groups warned that the current bill could allow stablecoins to substitute fo
 RLUSD is a regulated stablecoin issued by Ripple Labs — the firm behind the XRP blockchain — designed to maintain a steady value of one U.S. dollar per token. Each RLUSD is backed one-to-one by a reserve of cash, short-term U.S. Treasury bills, and other cash equivalents, and is redeemable for U.S. ...
 
 📖 [Read original article](https://www.theblock.co/learn/408170/what-is-rlusd?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. How Bitcoin ETFs Changed Institutional Adoption
-
-**Author:** The Block Research  
-**Published:** 7/14/2026, 5:20:31 AM  
-**Categories:** -  
-
-A spot bitcoin ETF is a fund that holds actual bitcoin and trades on a stock exchange, so an investor gains exposure to bitcoin&#8217;s price through an ordinary brokerage account. When the first U.S. spot bitcoin ETFs began trading in January 2024, they removed the custody, compliance, and operatio...
-
-📖 [Read original article](https://www.theblock.co/learn/408156/how-bitcoin-etfs-changed-institutional-adoption?utm_source=rss&utm_medium=rss)
 
 ---
