@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-14"
 date: "2026-07-14"
 source: "The Block"
-count: 19
+count: 14
 ---
 
 # The Block - 2026-07-14
 
-19 items collected.
+14 items collected.
 
 ---
 
@@ -176,65 +176,5 @@ The ECB selected 36 payment providers to test a beta digital euro in a yearlong 
 Boundless, which built a 4,000 GPU cluster to settle Ethereum and Base ZK proofs on Bitcoin, is expanding to AI compute.
 
 📖 [Read original article](https://www.theblock.co/post/408213/distributed-compute-startup-boundless-gpus-zk-to-ai?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. CleanSpark signs $6.6 billion, 20-year data center lease with unnamed global tech firm
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/14/2026, 12:25:45 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Web3, AI  
-
-CleanSpark has signed a 20-year, $6.6 billion data center lease in Sandersville, Georgia, with a confidential tech tenant.
-
-📖 [Read original article](https://www.theblock.co/post/408215/cleanspark-signs-20-year-data-center-lease-with-unnamed-tech-giant?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. UK HMRC adopts ‘no gain, no loss’ tax treatment for crypto lending, liquidity pools
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/14/2026, 10:59:02 AM  
-**Categories:** Policy, Regulation  
-
-HMRC adopts "no gain, no loss" treatment for certain crypto loans and liquidity pool transactions, deferring CGT until economic disposal.
-
-📖 [Read original article](https://www.theblock.co/post/408206/uk-hmrc-adopts-no-gain-no-loss-tax-treatment-for-crypto-lending-liquidity-pools?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. US government moves over $288 million in seized bitcoin, ether to Coinbase Prime: Arkham
-
-**Author:** Danny Park  
-**Published:** 7/14/2026, 10:17:39 AM  
-**Categories:** Markets, Policy, Regulation  
-
-According to Arkham, U.S. government wallets maintain a large crypto portfolio estimated at over $20 billion, including 324,552 BTC.
-
-📖 [Read original article](https://www.theblock.co/post/408202/us-government-moves-288-million-bitcoin-ether?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. Former LASD deputy jailed for obstructing crypto ‘mogul’ Adam Iza extortion probe
-
-**Author:** Brian Danga  
-**Published:** 7/14/2026, 9:55:02 AM  
-**Categories:** Crypto Ecosystems, Layer 1s, Legal, Markets, Policy, Regulation, Token Projects, Bitcoin, Crime  
-
-A former LASD deputy was sentenced to 18 months in federal prison for lying about an Adam Iza extortion incident.
-
-📖 [Read original article](https://www.theblock.co/post/408193/former-lasd-deputy-jailed-for-obstructing-crypto-mogul-adam-iza-extortion-probe?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. South Korea maintains blockchain economy push as AI takes center stage
-
-**Author:** Danny Park  
-**Published:** 7/14/2026, 8:51:22 AM  
-**Categories:** Policy, Regulation  
-
-Plans include the enactment of the Digital Asset Basic Act and advancement of a CBDC project linked to the tokenization of government bonds.
-
-📖 [Read original article](https://www.theblock.co/post/408180/south-korea-blockchain-economy-h2-2026?utm_source=rss&utm_medium=rss)
 
 ---
