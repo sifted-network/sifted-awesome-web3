@@ -11,7 +11,31 @@ count: 19
 
 ---
 
-## 1. US-UK transatlantic taskforce unveils digital asset roadmap promoting stablecoin innovation
+## 1. Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing
+
+**Author:** Daniel Kuhn  
+**Published:** 7/14/2026, 8:56:51 PM  
+**Categories:** Companies, Corporate NFTs, Crypto Ecosystems, Layer 1s, Markets, Metaverse & NFT, People, Policy, Token Projects, Ethereum, Joe Lubin, Mainstreaming  
+
+The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.
+
+📖 [Read original article](https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. CFTC orders Kalshi to honor Michigan trades, escalating clash with state regulators
+
+**Author:** RT Watson  
+**Published:** 7/14/2026, 7:08:00 PM  
+**Categories:** Companies, Policy, Regulation, CFTC  
+
+Jurisdiction over prediction market platforms is an ongoing dispute between the CFTC and multiple state regulators.
+
+📖 [Read original article](https://www.theblock.co/post/408323/cftc-orders-kalshi-honor-michigan-trades-escalating-clash-state-regulators?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. US-UK transatlantic taskforce unveils digital asset roadmap promoting stablecoin innovation
 
 **Author:** Sarah Wynn  
 **Published:** 7/14/2026, 5:59:25 PM  
@@ -23,7 +47,7 @@ The U.S. and UK are deepening cooperation on digital assets, particularly for st
 
 ---
 
-## 2. CoinFund’s David Pakman says crypto hasn’t solved tokenomics
+## 4. CoinFund’s David Pakman says crypto hasn’t solved tokenomics
 
 **Author:** RT Watson  
 **Published:** 7/14/2026, 5:32:08 PM  
@@ -35,7 +59,7 @@ During an interview on The Starting Block David Pakman suggested projects could 
 
 ---
 
-## 3. Wall Street turns cautious on Circle as analysts warn USDC economics face mounting pressure
+## 5. Wall Street turns cautious on Circle as analysts warn USDC economics face mounting pressure
 
 **Author:** Kyle Baird  
 **Published:** 7/14/2026, 5:14:47 PM  
@@ -47,7 +71,7 @@ Mizuho downgraded the stock and JPMorgan lowered earnings estimates, citing conc
 
 ---
 
-## 4. Bitcoin mining production slips in June for CleanSpark, BitFuFu and Canaan
+## 6. Bitcoin mining production slips in June for CleanSpark, BitFuFu and Canaan
 
 **Author:** Kyle Baird  
 **Published:** 7/14/2026, 3:46:24 PM  
@@ -59,7 +83,7 @@ CleanSpark, BitFuFu and Canaan reported lower bitcoin production in June despite
 
 ---
 
-## 5. Galaxy blends Aave, Morpho and other DeFi rates in new GOFR crypto borrowing product
+## 7. Galaxy blends Aave, Morpho and other DeFi rates in new GOFR crypto borrowing product
 
 **Author:** Daniel Kuhn  
 **Published:** 7/14/2026, 3:33:49 PM  
@@ -71,7 +95,7 @@ Galaxy will act as the sole intermediary between the accredited borrowers and th
 
 ---
 
-## 6. ‘Soft print, hard regime’: Bitcoin climbs toward $64,000 as June CPI falls 0.4% in largest monthly drop since 2020
+## 8. ‘Soft print, hard regime’: Bitcoin climbs toward $64,000 as June CPI falls 0.4% in largest monthly drop since 2020
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/14/2026, 3:27:07 PM  
@@ -83,7 +107,7 @@ June CPI fell 0.4% and core held at 2.6% annually, lifting BTC toward $64,000 as
 
 ---
 
-## 7. Benchmark sees ‘long pathway for growth’ in Hut 8, raises target to $165 on $16.8 billion AI data center deals
+## 9. Benchmark sees ‘long pathway for growth’ in Hut 8, raises target to $165 on $16.8 billion AI data center deals
 
 **Author:** Brian Danga  
 **Published:** 7/14/2026, 3:10:13 PM  
@@ -95,7 +119,7 @@ Benchmark raised Hut 8's target to $165, citing $16.8 billion in AI data center 
 
 ---
 
-## 8. Tether leads $7 million round in Pact Labs to boost USAT stablecoin adoption
+## 10. Tether leads $7 million round in Pact Labs to boost USAT stablecoin adoption
 
 **Author:** RT Watson  
 **Published:** 7/14/2026, 2:37:15 PM  
@@ -107,7 +131,7 @@ Benchmark raised Hut 8's target to $165, citing $16.8 billion in AI data center 
 
 ---
 
-## 9. Dragonfly, FirstMark lead $38 million Series A for stablecoin startup Velocity with support from Coinbase, Ripple and more
+## 11. Dragonfly, FirstMark lead $38 million Series A for stablecoin startup Velocity with support from Coinbase, Ripple and more
 
 **Author:** Daniel Kuhn  
 **Published:** 7/14/2026, 2:30:43 PM  
@@ -119,7 +143,7 @@ The startup enables corporate users to use stablecoins while connecting to tradi
 
 ---
 
-## 10. Decentralized AI project Nous Research in talks to raise $75M at $1.5B valuation: report
+## 12. Decentralized AI project Nous Research in talks to raise $75M at $1.5B valuation: report
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/14/2026, 2:24:13 PM  
@@ -131,7 +155,7 @@ Nous Research is raising at least $75 million led by Robot Ventures at a $1.5 bi
 
 ---
 
-## 11. European Central Bank taps 36 payment providers for yearlong digital euro pilot
+## 13. European Central Bank taps 36 payment providers for yearlong digital euro pilot
 
 **Author:** Brian Danga  
 **Published:** 7/14/2026, 1:30:02 PM  
@@ -143,7 +167,7 @@ The ECB selected 36 payment providers to test a beta digital euro in a yearlong 
 
 ---
 
-## 12. Distributed compute startup Boundless expands 4,000-GPU network from ZK to AI
+## 14. Distributed compute startup Boundless expands 4,000-GPU network from ZK to AI
 
 **Author:** Daniel Kuhn  
 **Published:** 7/14/2026, 1:00:00 PM  
@@ -155,7 +179,7 @@ Boundless, which built a 4,000 GPU cluster to settle Ethereum and Base ZK proofs
 
 ---
 
-## 13. CleanSpark signs $6.6 billion, 20-year data center lease with unnamed global tech firm
+## 15. CleanSpark signs $6.6 billion, 20-year data center lease with unnamed global tech firm
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/14/2026, 12:25:45 PM  
@@ -167,7 +191,7 @@ CleanSpark has signed a 20-year, $6.6 billion data center lease in Sandersville,
 
 ---
 
-## 14. UK HMRC adopts ‘no gain, no loss’ tax treatment for crypto lending, liquidity pools
+## 16. UK HMRC adopts ‘no gain, no loss’ tax treatment for crypto lending, liquidity pools
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/14/2026, 10:59:02 AM  
@@ -179,7 +203,7 @@ HMRC adopts "no gain, no loss" treatment for certain crypto loans and liquidity 
 
 ---
 
-## 15. US government moves over $288 million in seized bitcoin, ether to Coinbase Prime: Arkham
+## 17. US government moves over $288 million in seized bitcoin, ether to Coinbase Prime: Arkham
 
 **Author:** Danny Park  
 **Published:** 7/14/2026, 10:17:39 AM  
@@ -191,7 +215,7 @@ According to Arkham, U.S. government wallets maintain a large crypto portfolio e
 
 ---
 
-## 16. Former LASD deputy jailed for obstructing crypto ‘mogul’ Adam Iza extortion probe
+## 18. Former LASD deputy jailed for obstructing crypto ‘mogul’ Adam Iza extortion probe
 
 **Author:** Brian Danga  
 **Published:** 7/14/2026, 9:55:02 AM  
@@ -203,7 +227,7 @@ A former LASD deputy was sentenced to 18 months in federal prison for lying abou
 
 ---
 
-## 17. South Korea maintains blockchain economy push as AI takes center stage
+## 19. South Korea maintains blockchain economy push as AI takes center stage
 
 **Author:** Danny Park  
 **Published:** 7/14/2026, 8:51:22 AM  
@@ -212,29 +236,5 @@ A former LASD deputy was sentenced to 18 months in federal prison for lying abou
 Plans include the enactment of the Digital Asset Basic Act and advancement of a CBDC project linked to the tokenization of government bonds.
 
 📖 [Read original article](https://www.theblock.co/post/408180/south-korea-blockchain-economy-h2-2026?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. US banking groups urge Senate to strengthen stablecoin provisions in Clarity Act
-
-**Author:** Danny Park  
-**Published:** 7/14/2026, 8:32:49 AM  
-**Categories:** Policy, Regulation  
-
-The groups warned that the current bill could allow stablecoins to substitute for bank deposits and increase the risk of deposit flight from community banks.
-
-📖 [Read original article](https://www.theblock.co/post/408144/us-banking-groups-urge-stablecoin-provisions-clarity-act?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. What Is RLUSD? Ripple’s XRP-Native Stablecoin Explained
-
-**Author:** The Block Research  
-**Published:** 7/14/2026, 6:53:47 AM  
-**Categories:** -  
-
-RLUSD is a regulated stablecoin issued by Ripple Labs — the firm behind the XRP blockchain — designed to maintain a steady value of one U.S. dollar per token. Each RLUSD is backed one-to-one by a reserve of cash, short-term U.S. Treasury bills, and other cash equivalents, and is redeemable for U.S. ...
-
-📖 [Read original article](https://www.theblock.co/learn/408170/what-is-rlusd?utm_source=rss&utm_medium=rss)
 
 ---
