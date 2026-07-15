@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-07-15"
 date: "2026-07-15"
 source: "Cointelegraph"
-count: 4
+count: 11
 ---
 
 # Cointelegraph - 2026-07-15
 
-4 items collected.
+11 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Crypto firms face AML risks during post-MiCA migration, says AMLA chair
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 7/15/2026, 1:08:43 PM  
+**Categories:** Latest News  
+
+AMLA is expanding its crypto oversight as firms complete the transition to the EU’s MiCA licensing regime.
+
+📖 [Read original article](https://cointelegraph.com/news/amla-customer-migration-strain-mica-licensed-casps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Japan passes crypto overhaul to bring digital assets under financial rules
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 7/15/2026, 11:05:46 AM  
+**Categories:** Latest News  
+
+Japan’s revised Financial Instruments and Exchange Act introduces crypto insider trading rules, tougher penalties and new oversight requirements for crypto businesses.
+
+📖 [Read original article](https://cointelegraph.com/news/japan-crypto-amendment-digital-assets-financial-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. South Korea to bring digital assets under new state asset management system
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 7/15/2026, 10:53:34 AM  
+**Categories:** Latest News  
+
+South Korea’s Economy Ministry plans to include digital assets and intellectual property under the country’s new state-asset management framework.
+
+📖 [Read original article](https://cointelegraph.com/news/south-korea-digital-assets-state-asset-management?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bitcoin gets new $80K August target: Watch these BTC price levels next
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/15/2026, 10:22:06 AM  
+**Categories:** Markets  
+
+BTC price upside predictions include $68,000 within two weeks and up to $80,000 next month, contrasting with warnings of a 2022 bear-market rerun for the rest of 2026.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-gets-new-80k-august-target-watch-these-btc-price-levels-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Czech Republic tells ISPs to block Polymarket after gambling blacklisting
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 7/15/2026, 10:19:09 AM  
+**Categories:** Latest News  
+
+The Czech Finance Ministry added Polymarket to its blacklist of unauthorized online gambling websites, requiring internet providers to block access within 15 days.
+
+📖 [Read original article](https://cointelegraph.com/news/czech-republic-adds-polymarket-to-unauthorized-gambling-blacklist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Cathie Wood’s ARK buys another 220K Circle shares despite sell-off
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 7/15/2026, 8:55:11 AM  
+**Categories:** Latest News  
+
+Cathie Wood’s ARK Invest added $13.9 million worth of Circle shares on Tuesday, extending its July buying spree to 725,517 shares amid a steep stock decline.
+
+📖 [Read original article](https://cointelegraph.com/news/cathie-woods-ark-buy-220k-circle-stock-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Stripe, Advent offer $53B to acquire PayPal: Report
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 7/15/2026, 8:23:15 AM  
+**Categories:** Latest News  
+
+Stripe and Advent reportedly offered to buy PayPal for $53 billion, at a 28% premium compared to the company’s Tuesday closing price.
+
+📖 [Read original article](https://cointelegraph.com/news/stripe-advent-53b-acquire-paypal-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/15/2026, 5:44:31 AM  
@@ -23,7 +107,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Kalshi says CFTC, Michigan orders leave it in ‘impossible position’
+## 9. Kalshi says CFTC, Michigan orders leave it in ‘impossible position’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/15/2026, 5:38:10 AM  
@@ -35,7 +119,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. US freezes $131M in Iran-linked crypto as Middle East tensions rise
+## 10. US freezes $131M in Iran-linked crypto as Middle East tensions rise
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/15/2026, 3:17:59 AM  
@@ -47,7 +131,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 4. Bitmine generated $46M from Ethereum staking last quarter
+## 11. Bitmine generated $46M from Ethereum staking last quarter
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/15/2026, 1:28:14 AM  
