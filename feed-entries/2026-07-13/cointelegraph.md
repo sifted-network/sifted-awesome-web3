@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-13"
 date: "2026-07-13"
 source: "Cointelegraph"
-count: 9
+count: 4
 ---
 
 # Cointelegraph - 2026-07-13
 
-9 items collected.
+4 items collected.
 
 ---
 
@@ -56,65 +56,5 @@ As foreign currency reserves remain under pressure, Bolivia is considering a fra
 Hyundai completed a proof-of-concept using Tether's USDT to settle a cross-border treasury transfer between its US and Mexican subsidiaries, highlighting growing enterprise interest in stablecoin-based payments.
 
 📖 [Read original article](https://cointelegraph.com/news/hyundai-completes-usdt-treasury-settlement-pilot-between-us-and-mexico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. President Trump invokes US senator’s death to push crypto bill
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 7/13/2026, 4:27:43 PM  
-**Categories:** Latest News  
-
-With the death of Senator Lindsey Graham and another senator hospitalized, Republicans’ current majority in the chamber has been reduced to 51-47, likely requiring more Democratic support to pass crypto market structure.
-
-📖 [Read original article](https://cointelegraph.com/news/us-senate-session-plans-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Bitcoin threatens $62K in risk-asset rout as President Trump says US will 'run' closed Hormuz Strait
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/13/2026, 3:05:45 PM  
-**Categories:** Markets  
-
-Bitcoin bulls faced an uphill struggle to preserve $62,000 as stocks opened down on Strait of Hormuz rhetoric between the US and Iran.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-threatens-62k-in-risk-asset-out-as-donald-trump-says-us-will-run-closed-hormuz-strait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Coinbase Ventures tops crypto VC list for H1 2026
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/13/2026, 1:26:50 PM  
-**Categories:** Latest News  
-
-Coinbase’s venture capital arm leads 2026 crypto investing even as funding withered and unique investors shied away amid the bear market.
-
-📖 [Read original article](https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Strategy sells $467M in MSTR shares, leaves 843,775 BTC stack untouched
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/13/2026, 1:08:49 PM  
-**Categories:** Latest News  
-
-Strategy boosted its US dollar reserve to $3 billion after selling $466.7 million in MSTR shares, while keeping its 843,775 Bitcoin holdings unchanged.
-
-📖 [Read original article](https://cointelegraph.com/news/strategy-sells-467-million-mstr-keeps-843775-btc-stack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. UK tokenization push could add as much as $44B to annual output by 2035: Report
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/13/2026, 11:50:04 AM  
-**Categories:** Latest News  
-
-The government-backed roadmap calls for the UK’s first digital gilt by early 2027 and seeks to make tokenized bonds usable for trading and borrowing.
-
-📖 [Read original article](https://cointelegraph.com/news/uk-tokenization-44-billion-annual-output-2035?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
