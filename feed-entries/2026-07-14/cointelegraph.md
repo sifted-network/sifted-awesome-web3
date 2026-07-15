@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-07-14"
 date: "2026-07-14"
 source: "Cointelegraph"
-count: 21
+count: 25
 ---
 
 # Cointelegraph - 2026-07-14
 
-21 items collected.
+25 items collected.
 
 ---
 
-## 1. UK government defers capital gains on certain crypto with ‘no gain, no loss’ approach
+## 1. Over 95% of Coinbase’s code is now written with help of AI
+
+**Author:** Cointelegraph by Felix Ng  
+**Published:** 7/14/2026, 10:30:00 PM  
+**Categories:** Latest News  
+
+Coinbase’s Rob Witoff said the company is leaning more on AI to help with execution, but still needs high-agency humans for judgment and strategy.
+
+📖 [Read original article](https://cointelegraph.com/news/over-95-of-coinbases-code-is-now-written-with-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Three US senators oppose CLARITY Act on ethics grounds with vote expected soon
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/14/2026, 9:30:26 PM  
+**Categories:** Latest News  
+
+Senate Majority Leader John Thune reportedly said the chamber will consider a vote on the crypto market structure bill before Aug. 10, though it’s unclear whether it has enough Democratic support to pass.
+
+📖 [Read original article](https://cointelegraph.com/news/us-senators-oppose-clarity-act-vote-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Velocity raises $38M to build stablecoin treasury infrastructure for enterprises
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/14/2026, 8:04:31 PM  
+**Categories:** Latest News  
+
+Backed by Dragonfly, FirstMark and Coinbase Ventures, the startup is expanding software that helps businesses integrate stablecoins into treasury and payment workflows.
+
+📖 [Read original article](https://cointelegraph.com/news/velocity-raises-38m-to-build-stablecoin-treasury-infrastructure-for-enterprises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Here’s what happened in crypto today
+
+**Author:** Cointelegraph  
+**Published:** 7/14/2026, 7:52:11 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. US, UK treasuries to align transatlantic rules on tokenization and stablecoins
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/14/2026, 7:45:20 PM  
+**Categories:** Latest News  
+
+The two governments issued recommendations on the treatment of digital assets as the US prepares to implement a 2025 law on payment stablecoins.
+
+📖 [Read original article](https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. UK government defers capital gains on certain crypto with ‘no gain, no loss’ approach
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/14/2026, 5:24:00 PM  
@@ -23,7 +83,7 @@ The change in tax policy, expected to effect about 700,000 people in the UK, is 
 
 ---
 
-## 2. JCB signs Circle MOU to test stablecoin payments in Japan
+## 7. JCB signs Circle MOU to test stablecoin payments in Japan
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/14/2026, 5:05:00 PM  
@@ -35,7 +95,7 @@ The companies will explore using USDC for JCB’s cross-border treasury operatio
 
 ---
 
-## 3. CleanSpark shares jump 22% after $6.6B Georgia data center lease
+## 8. CleanSpark shares jump 22% after $6.6B Georgia data center lease
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/14/2026, 4:24:45 PM  
@@ -47,7 +107,7 @@ The Bitcoin miner’s Georgia agreement with an undisclosed investment-grade tec
 
 ---
 
-## 4. Anchorage Digital expands Tron support with institutional TRX staking
+## 9. Anchorage Digital expands Tron support with institutional TRX staking
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/14/2026, 3:00:00 PM  
@@ -59,7 +119,7 @@ Institutions can now stake Tron's native token directly from Anchorage's custody
 
 ---
 
-## 5. Bitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure
+## 10. Bitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/14/2026, 2:53:13 PM  
@@ -71,7 +131,7 @@ BTC price action returned to $64,000 on low US CPI inflation but traders stayed 
 
 ---
 
-## 6. OpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report
+## 11. OpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/14/2026, 1:30:06 PM  
@@ -83,7 +143,7 @@ OpenAI’s ChatGPT now displays Kalshi’s World Cup prediction market odds in s
 
 ---
 
-## 7. Strategy became a symbol of the dot-com crash: Could history repeat?
+## 12. Strategy became a symbol of the dot-com crash: Could history repeat?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 7/14/2026, 1:30:00 PM  
@@ -95,7 +155,7 @@ MicroStrategy blew up during the dot-com era, before Michael Saylor transformed 
 
 ---
 
-## 8. Humanity Protocol to prioritize operational security following $36M hack
+## 13. Humanity Protocol to prioritize operational security following $36M hack
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/14/2026, 1:08:00 PM  
@@ -107,7 +167,7 @@ Humanity Protocol’s founder said they will refocus on operational security, as
 
 ---
 
-## 9. ABA, state banking groups push back on CLARITY Act stablecoin yield provisions
+## 14. ABA, state banking groups push back on CLARITY Act stablecoin yield provisions
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/14/2026, 11:40:00 AM  
@@ -119,7 +179,7 @@ ABA and state banking associations published a joint letter calling for more det
 
 ---
 
-## 10. Solana community lead enters UK by-election with onchain transparency pitch
+## 15. Solana community lead enters UK by-election with onchain transparency pitch
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/14/2026, 11:38:00 AM  
@@ -131,7 +191,7 @@ Superteam UK lead Stephen “Cap” Newnham is taking on Nigel Farage in the Cla
 
 ---
 
-## 11. ECB picks 36 payment providers to test digital euro ahead of 2027 pilot
+## 16. ECB picks 36 payment providers to test digital euro ahead of 2027 pilot
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/14/2026, 11:16:38 AM  
@@ -143,7 +203,7 @@ The European Central Bank will beta test a digital euro with 36 providers, inclu
 
 ---
 
-## 12. AI has not triggered DeFi ‘hackpocalypse,’ Dragonfly partner says
+## 17. AI has not triggered DeFi ‘hackpocalypse,’ Dragonfly partner says
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/14/2026, 10:39:13 AM  
@@ -155,7 +215,7 @@ Total value stolen and median hack size are declining compared to 2025, signalin
 
 ---
 
-## 13. Hobby-level miner bags $200K solo BTC block with budget Bitaxe rig
+## 18. Hobby-level miner bags $200K solo BTC block with budget Bitaxe rig
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/14/2026, 10:10:00 AM  
@@ -167,7 +227,7 @@ A solo Bitcoin miner secured a $200,000 block reward with a budget mining rig, p
 
 ---
 
-## 14. Bitcoin bear market will bottom when two-month RSI metric hits zero, trader predicts
+## 19. Bitcoin bear market will bottom when two-month RSI metric hits zero, trader predicts
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/14/2026, 9:54:58 AM  
@@ -179,7 +239,7 @@ Bitcoin RSI continued to copy previous bear markets as a trader predicted that h
 
 ---
 
-## 15. South Korea to test tokenized government bonds with CBDC in 2027
+## 20. South Korea to test tokenized government bonds with CBDC in 2027
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/14/2026, 8:44:06 AM  
@@ -191,7 +251,7 @@ South Korea will test tokenized government bonds linked to the Bank of Korea’s
 
 ---
 
-## 16. US spot Bitcoin ETFs post $425M outflow after brief rebound
+## 21. US spot Bitcoin ETFs post $425M outflow after brief rebound
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/14/2026, 8:24:31 AM  
@@ -203,19 +263,7 @@ US spot Bitcoin ETFs saw their largest single-day outflows in July, with $424.66
 
 ---
 
-## 17. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/14/2026, 5:09:29 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. White House crypto adviser Patrick Witt to take military leave: Report
+## 22. White House crypto adviser Patrick Witt to take military leave: Report
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/14/2026, 4:35:20 AM  
@@ -227,7 +275,7 @@ Witt’s departure comes during a critical moment for the CLARITY Act, with depu
 
 ---
 
-## 19. US government moves $297M in seized Bitcoin, Ether to Coinbase Prime
+## 23. US government moves $297M in seized Bitcoin, Ether to Coinbase Prime
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/14/2026, 3:35:51 AM  
@@ -239,7 +287,7 @@ The transfers have raised questions over Trump’s Bitcoin reserve pledge, thoug
 
 ---
 
-## 20. Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express
+## 24. Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 7/14/2026, 1:39:02 AM  
@@ -251,7 +299,7 @@ Bitcoin backed mortgages and stablecoin yield are hot topics in Japan right now,
 
 ---
 
-## 21. CLARITY Act gains second law enforcement endorsement before Senate push
+## 25. CLARITY Act gains second law enforcement endorsement before Senate push
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/14/2026, 1:37:27 AM  
