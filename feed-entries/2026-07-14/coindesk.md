@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-14"
 date: "2026-07-14"
 source: "CoinDesk"
-count: 24
+count: 23
 ---
 
 # CoinDesk - 2026-07-14
 
-24 items collected.
+23 items collected.
 
 ---
 
@@ -284,17 +284,5 @@ Coins from the Farace and BTC-e seizures moved through fresh wallets before land
 Solo Bitcoin mining has surged, with 24 blocks found in the past 12 months, a 41% increase year over year.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/14/solo-btc-miner-makes-usd200-000-using-usd150-equipment)
-
----
-
-## 24. Bitcoin slips as traders lift July Fed rate hike bets ahead of Inflation report
-
-**Author:** Omkar Godbole  
-**Published:** 7/14/2026, 2:58:36 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Major cryptocurrencies have dropped by 2% or more in 24 hours as traders boosted bets of a July Fed rate hike.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/14/bitcoin-slips-as-traders-lift-july-fed-rate-hike-bets-ahead-of-inflation-report)
 
 ---
