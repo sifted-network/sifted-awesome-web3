@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-14"
 date: "2026-07-14"
 source: "Cointelegraph"
-count: 24
+count: 19
 ---
 
 # Cointelegraph - 2026-07-14
 
-24 items collected.
+19 items collected.
 
 ---
 
@@ -236,65 +236,5 @@ Bitcoin RSI continued to copy previous bear markets as a trader predicted that h
 South Korea will test tokenized government bonds linked to the Bank of Korea’s wholesale CBDC system in 2027 as token securities rules take effect.
 
 📖 [Read original article](https://cointelegraph.com/news/south-korea-tokenized-government-bonds-cbdc-pilot-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. US spot Bitcoin ETFs post $425M outflow after brief rebound
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/14/2026, 8:24:31 AM  
-**Categories:** Latest News  
-
-US spot Bitcoin ETFs saw their largest single-day outflows in July, with $424.66 million leaving the funds, reversing a brief return to positive weekly flows.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-etf-425-million-daily-outflow-inflows-reverse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. White House crypto adviser Patrick Witt to take military leave: Report
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/14/2026, 4:35:20 AM  
-**Categories:** Latest News  
-
-Witt’s departure comes during a critical moment for the CLARITY Act, with deputy director Harry Jung expected to assume his responsibilities.
-
-📖 [Read original article](https://cointelegraph.com/news/white-house-crypto-adviser-patrick-witt-to-report-for-military-training-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. US government moves $297M in seized Bitcoin, Ether to Coinbase Prime
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/14/2026, 3:35:51 AM  
-**Categories:** Latest News  
-
-The transfers have raised questions over Trump’s Bitcoin reserve pledge, though deposits to Coinbase Prime do not confirm an impending sale.
-
-📖 [Read original article](https://cointelegraph.com/news/us-government-moves-297m-in-seized-bitcoin-ether-to-coinbase-prime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express
-
-**Author:** Cointelegraph by Andrew Fenton  
-**Published:** 7/14/2026, 1:39:02 AM  
-**Categories:** Features  
-
-Bitcoin backed mortgages and stablecoin yield are hot topics in Japan right now, as Hyundai experiments with Avalanche for global stablecoin transfers. Asia Express
-
-📖 [Read original article](https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 24. CLARITY Act gains second law enforcement endorsement before Senate push
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/14/2026, 1:37:27 AM  
-**Categories:** Latest News  
-
-The Federal Law Enforcement Officers Association expressed support for the CLARITY Act but urged changes to the legislation’s language.
-
-📖 [Read original article](https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
