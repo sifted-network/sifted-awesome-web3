@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-07-14"
 date: "2026-07-14"
 source: "CoinDesk"
-count: 23
+count: 24
 ---
 
 # CoinDesk - 2026-07-14
 
-23 items collected.
+24 items collected.
 
 ---
 
-## 1. Some U.S. Senate Democrats come out against Clarity Act, calling it a 'corrupt' bill
+## 1. U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court
+
+**Author:** Jesse Hamilton  
+**Published:** 7/14/2026, 8:51:05 PM  
+**Categories:** Policy, Prediction Markets, Kalshi, Regulation, News  
+
+The federal derivatives regulator, which oversees trading at Kalshi, argued it was inappropriate for Michigan to "bully" the firm into reversing trades.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court)
+
+---
+
+## 2. Some U.S. Senate Democrats come out against Clarity Act, calling it a 'corrupt' bill
 
 **Author:** Jesse Hamilton  
 **Published:** 7/14/2026, 6:57:15 PM  
@@ -23,7 +35,7 @@ Certain Democrats are taking an increasingly rigorous stand against the crypto m
 
 ---
 
-## 2. Binance bets on becoming a crypto 'super app' as stablecoins reshape growth
+## 3. Binance bets on becoming a crypto 'super app' as stablecoins reshape growth
 
 **Author:** Olivier Acuna  
 **Published:** 7/14/2026, 5:33:19 PM  
@@ -35,7 +47,7 @@ Shunyet Jan, Binance’s head of spot trading and derivatives, said the exchange
 
 ---
 
-## 3. The Clarity Act isn't a ticket to sanctions evasion, actually
+## 4. The Clarity Act isn't a ticket to sanctions evasion, actually
 
 **Author:** Ari Redbord  
 **Published:** 7/14/2026, 5:27:48 PM  
@@ -47,7 +59,7 @@ The bill, as currently drafted, has the power to stop sanctions evasion at scale
 
 ---
 
-## 4. Mizuho downgrades Circle to underperform, cuts price target to $50 on Open USD threat
+## 5. Mizuho downgrades Circle to underperform, cuts price target to $50 on Open USD threat
 
 **Author:** Will Canny,AI Boost  
 **Published:** 7/14/2026, 4:59:44 PM  
@@ -59,7 +71,7 @@ The Japanese investment bank said Open USD's yield pass-through model could pres
 
 ---
 
-## 5. Wikipedia blackout could hurt how AI engines like ChatGPT understand crypto
+## 6. Wikipedia blackout could hurt how AI engines like ChatGPT understand crypto
 
 **Author:** Jamie Crawley  
 **Published:** 7/14/2026, 4:39:26 PM  
@@ -71,7 +83,7 @@ Wikipedia observes guidelines on crypto coverage that date back many years and m
 
 ---
 
-## 6. U.S., UK move to align rules for tokenized finance across world's largest financial markets
+## 7. U.S., UK move to align rules for tokenized finance across world's largest financial markets
 
 **Author:** Helene Braun  
 **Published:** 7/14/2026, 4:29:48 PM  
@@ -83,7 +95,7 @@ The joint roadmap aims to reduce regulatory friction for tokenized assets while 
 
 ---
 
-## 7. JPMorgan says Hyperliquid's rise threatens Circle's USDC economics
+## 8. JPMorgan says Hyperliquid's rise threatens Circle's USDC economics
 
 **Author:** Will Canny,AI Boost  
 **Published:** 7/14/2026, 2:57:16 PM  
@@ -95,7 +107,7 @@ Hyperliquid's deal with Circle and Coinbase creates a "prisoner's dilemma" that 
 
 ---
 
-## 8. Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology
+## 9. Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology
 
 **Author:** Margaux Nijkerk  
 **Published:** 7/14/2026, 2:31:44 PM  
@@ -107,7 +119,7 @@ The spinout comes amid one of the biggest organizational shakeups at the Ethereu
 
 ---
 
-## 9. For pension funds, tokenization’s real play is balance-sheet management, Fidelity’s Lai says
+## 10. For pension funds, tokenization’s real play is balance-sheet management, Fidelity’s Lai says
 
 **Author:** Omkar Godbole  
 **Published:** 7/14/2026, 2:05:18 PM  
@@ -119,7 +131,7 @@ Fidelity International’s Giselle Lai argues that the most compelling long-term
 
 ---
 
-## 10. Hut 8 price target hiked to $165 at Benchmark as AI pivot reshapes valuation
+## 11. Hut 8 price target hiked to $165 at Benchmark as AI pivot reshapes valuation
 
 **Author:** Will Canny,AI Boost  
 **Published:** 7/14/2026, 12:53:05 PM  
@@ -131,7 +143,7 @@ Mark Palmer said Hut 8's Beacon Point project transforms the company into an AI 
 
 ---
 
-## 11. U.S. June CPI fell 0.4%, likely cooling move toward Fed rate hikes
+## 12. U.S. June CPI fell 0.4%, likely cooling move toward Fed rate hikes
 
 **Author:** James Van Straten,Stephen Alpher  
 **Published:** 7/14/2026, 12:33:24 PM  
@@ -143,7 +155,7 @@ This morning's report could go a long way toward determining whether the Federal
 
 ---
 
-## 12. ECB picks firms including Deutsche Bank, Revolut for digital euro pilot
+## 13. ECB picks firms including Deutsche Bank, Revolut for digital euro pilot
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/14/2026, 12:10:03 PM  
@@ -155,7 +167,7 @@ The pilot will test a beta version of the digital euro for online, offline, in-s
 
 ---
 
-## 13. Japan’s biggest card network taps Circle to bring stablecoins to 40 million merchants
+## 14. Japan’s biggest card network taps Circle to bring stablecoins to 40 million merchants
 
 **Author:** Olivier Acuna  
 **Published:** 7/14/2026, 12:01:50 PM  
@@ -167,7 +179,7 @@ JCB and Circle will explore using USDC for cross-border payments and merchant tr
 
 ---
 
-## 14. U.S.-Iran escalation weighs on bitcoin, stocks as oil climbs
+## 15. U.S.-Iran escalation weighs on bitcoin, stocks as oil climbs
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/14/2026, 11:15:06 AM  
@@ -179,7 +191,7 @@ Your day-ahead look for July 14, 2026
 
 ---
 
-## 15. Bitcoin's BIP-110 sparked a fight over who gets to decide the future of Bitcoin
+## 16. Bitcoin's BIP-110 sparked a fight over who gets to decide the future of Bitcoin
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 7/14/2026, 11:01:16 AM  
@@ -191,7 +203,7 @@ BIP-110 sought to limit non-financial data on Bitcoin's blockchain but instead r
 
 ---
 
-## 16. Prediction markets just crushed traditional sportsbooks in a massive $50 billion World Cup breakout
+## 17. Prediction markets just crushed traditional sportsbooks in a massive $50 billion World Cup breakout
 
 **Author:** Oliver Knight  
 **Published:** 7/14/2026, 11:00:00 AM  
@@ -203,7 +215,7 @@ Prediction markets just topped $50 billion in monthly volume, capping off the fi
 
 ---
 
-## 17. Bitcoin’s great rotation: Long-term holders pass supply to a new generation of buyers
+## 18. Bitcoin’s great rotation: Long-term holders pass supply to a new generation of buyers
 
 **Author:** James Van Straten  
 **Published:** 7/14/2026, 10:46:42 AM  
@@ -215,7 +227,7 @@ Long-term holders are quietly transferring supply to a new generation of buyers,
 
 ---
 
-## 18. Bitcoin steadies at $62,600 as South Koreans flee stocks rout for crypto
+## 19. Bitcoin steadies at $62,600 as South Koreans flee stocks rout for crypto
 
 **Author:** Oliver Knight,Saksham Diwan  
 **Published:** 7/14/2026, 10:39:03 AM  
@@ -227,7 +239,7 @@ Bitcoin consolidated after Monday's selloff as Donald Trump threatened more Iran
 
 ---
 
-## 19. XRP and ether bulls are getting louder as prices fall, signaling more trouble ahead
+## 20. XRP and ether bulls are getting louder as prices fall, signaling more trouble ahead
 
 **Author:** Shaurya Malwa  
 **Published:** 7/14/2026, 10:27:21 AM  
@@ -239,7 +251,7 @@ Social media chatter turned most bullish on XRP in five weeks even as the token 
 
 ---
 
-## 20. Live updates: Bitcoin rises past $64,000 after soft inflation data, Warsh testimony
+## 21. Live updates: Bitcoin rises past $64,000 after soft inflation data, Warsh testimony
 
 **Author:** Shaurya Malwa,James Van Straten,Helene Braun  
 **Published:** 7/14/2026, 6:55:24 AM  
@@ -251,7 +263,7 @@ Trump reinstated the Hormuz blockade, sending oil higher, reversing the peace tr
 
 ---
 
-## 21. U.S. government moves $288 million in seized bitcoin, ether to Coinbase Prime
+## 22. U.S. government moves $288 million in seized bitcoin, ether to Coinbase Prime
 
 **Author:** Shaurya Malwa  
 **Published:** 7/14/2026, 6:28:43 AM  
@@ -263,7 +275,7 @@ Coins from the Farace and BTC-e seizures moved through fresh wallets before land
 
 ---
 
-## 22. Solo bitcoin miner makes $200,000 using $150 equipment
+## 23. Solo bitcoin miner makes $200,000 using $150 equipment
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 7/14/2026, 4:43:56 AM  
@@ -275,7 +287,7 @@ Solo Bitcoin mining has surged, with 24 blocks found in the past 12 months, a 41
 
 ---
 
-## 23. Bitcoin slips as traders lift July Fed rate hike bets ahead of Inflation report
+## 24. Bitcoin slips as traders lift July Fed rate hike bets ahead of Inflation report
 
 **Author:** Omkar Godbole  
 **Published:** 7/14/2026, 2:58:36 AM  
