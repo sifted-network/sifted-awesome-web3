@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-07-14"
 date: "2026-07-14"
 source: "Decrypt"
-count: 4
+count: 5
 ---
 
 # Decrypt - 2026-07-14
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Bitcoin Ticks Up to $64K Following Largest Inflation Slowdown in Six Years
+## 1. DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire
+
+**Author:** Jason Nelson  
+**Published:** 7/14/2026, 7:57:49 PM  
+**Categories:** Artificial Intelligence  
+
+Demis Hassabis says artificial general intelligence is only a few years away and proposes a new U.S. standards body to test frontier AI models before release.
+
+📖 [Read original article](https://decrypt.co/373511/deepmind-ceo-agi-bigger-than-electricity-fire)
+
+---
+
+## 2. Bitcoin Ticks Up to $64K Following Largest Inflation Slowdown in Six Years
 
 **Author:** André Beganski  
 **Published:** 7/14/2026, 3:24:27 PM  
@@ -23,7 +35,7 @@ Consumer prices cooled more than expected in June, yet geopolitical tensions con
 
 ---
 
-## 2. UK to Defer Capital Gains Tax on DeFi Lending, Liquidity Pool Deposits
+## 3. UK to Defer Capital Gains Tax on DeFi Lending, Liquidity Pool Deposits
 
 **Author:** Decrypt Agent  
 **Published:** 7/14/2026, 3:00:26 PM  
@@ -35,7 +47,7 @@ Moving crypto into a lending protocol or liquidity pool won’t count as a taxab
 
 ---
 
-## 3. Morning Minute: Saylor's Strategy Hoards Cash, Doesn't Buy BTC
+## 4. Morning Minute: Saylor's Strategy Hoards Cash, Doesn't Buy BTC
 
 **Author:** Tyler Warner  
 **Published:** 7/14/2026, 12:13:05 PM  
@@ -47,7 +59,7 @@ Strategy’s Bitcoin-buying machine stayed in neutral, while BTC and crypto majo
 
 ---
 
-## 4. US Government Moves $288M in Seized Crypto to Coinbase Prime
+## 5. US Government Moves $288M in Seized Crypto to Coinbase Prime
 
 **Author:** Decrypt Agent  
 **Published:** 7/14/2026, 11:08:43 AM  
