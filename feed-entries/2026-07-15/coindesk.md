@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-15"
 date: "2026-07-15"
 source: "CoinDesk"
-count: 21
+count: 20
 ---
 
 # CoinDesk - 2026-07-15
 
-21 items collected.
+20 items collected.
 
 ---
 
@@ -248,17 +248,5 @@ The security will launch on HSBC’s Orion platform within the BoE and FCA’s D
 Forty companies now govern x402, the protocol Coinbase built and handed away. It settled about $24 million across 75 million payments last month.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/07/15/visa-mastercard-and-ripple-join-the-standard-letting-ai-agents-pay-in-stablecoins)
-
----
-
-## 21. Bitcoin nears $65,000 as cooling U.S. inflation guts the Fed rate-hike trade
-
-**Author:** Shaurya Malwa  
-**Published:** 7/15/2026, 5:19:14 AM  
-**Categories:** Markets, News  
-
-The June CPI print pulled hike odds from 43% to 13%, with analysts now watching the September FOMC meeting for further cues on positioning.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/15/bitcoin-tops-usd64-000-as-cooling-u-s-inflation-guts-the-fed-rate-hike-trade)
 
 ---
