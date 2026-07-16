@@ -2,16 +2,136 @@
 title: "The Block - 2026-07-16"
 date: "2026-07-16"
 source: "The Block"
-count: 10
+count: 20
 ---
 
 # The Block - 2026-07-16
 
-10 items collected.
+20 items collected.
 
 ---
 
-## 1. Ledger unveils hardware-backed Agent Stack to prevent rogue AI transactions
+## 1. ‘We’re going to get it done’: Crypto bill faces what could be final test over Trump conflicts of interest
+
+**Author:** Sarah Wynn  
+**Published:** 7/16/2026, 6:51:17 PM  
+**Categories:** Crypto Ecosystems, People, Policy, Regulation, Web3, Crypto, Donald Trump  
+
+Optimism is brewing to get a crypto bill passed, with some variations on timing as onlookers wait to see how ethics will shake out.
+
+📖 [Read original article](https://www.theblock.co/post/408706/were-going-get-it-done-crypto-bill-faces-could-be-final-test-trump-conflicts-interest?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Citadel Securities invests $400 million in Crypto.com at $20 billion valuation
+
+**Author:** Daniel Kuhn  
+**Published:** 7/16/2026, 6:00:00 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Finance firms, Venture Capital, Web3, Citadel, Strategic Investments, Tokenization  
+
+Crypto.com plans to use proceeds from its “first institutional funding round" to expand its tokenization and derivatives operations.
+
+📖 [Read original article](https://www.theblock.co/post/408688/citadel-securities-invests-400-million-crypto-com-20-billion-valuation?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Trump’s longtime teleprompter operator accused of using insider knowledge to place bets on Kalshi: ABC News
+
+**Author:** Sarah Wynn  
+**Published:** 7/16/2026, 5:24:49 PM  
+**Categories:** Companies, People, Policy, Regulation, CFTC, Donald Trump  
+
+President Trump's teleprompter is under scrutiny following a report alleging that he used insider knowledge to place bets on Kalshi.
+
+📖 [Read original article](https://www.theblock.co/post/408692/trump-longtime-teleprompter-operator-accused-insider-knowledge-place-bets-kalshi-abc-news?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. $1.9 trillion asset manager T. Rowe Price launches first actively managed multi-token crypto ETF
+
+**Author:** Kyle Baird  
+**Published:** 7/16/2026, 4:09:15 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Funds, Institutional Investors, Markets, Asset Managers, Bitcoin ETF, Ethereum ETF  
+
+T. Rowe Price's TKNZ Active Crypto ETF began trading Thursday after the firm filed for the product in October.
+
+📖 [Read original article](https://www.theblock.co/post/408667/t-rowe-price-launches-first-actively-managed-multi-token-crypto-etf?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Multicoin Capital makes first Hyperliquid ecosystem investment in Trasia, an Asia-focused trading platform
+
+**Author:** Yogita Khatri  
+**Published:** 7/16/2026, 4:00:02 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Web3, exclusive  
+
+Built on Hyperliquid, Trasia was co-founded by former Multicoin Capital partner Mable Jiang and aims to serve Asian traders.
+
+📖 [Read original article](https://www.theblock.co/post/408670/multicoin-capital-hyperliquid-ecosystem-investment-trasia?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. Visa launching internal stablecoin platform for clients that provides access to OUSD: report
+
+**Author:** RT Watson  
+**Published:** 7/16/2026, 3:15:28 PM  
+**Categories:** Companies, Crypto Ecosystems, Finance firms, Payments  
+
+Open Standard's stablecoin is expected to become a major competitor to Circle's USDC, the dominant stablecoin in the U.S.
+
+📖 [Read original article](https://www.theblock.co/post/408645/visa-launching-internal-stablecoin-platform-provides-access-ousd-fortune?utm_source=rss&utm_medium=rss)
+
+---
+
+## 7. US jury indicts South Dakota crypto investor on 29 counts over alleged $20 million investor fraud
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 7/16/2026, 3:06:14 PM  
+**Categories:** Legal, Policy, Regulation, Crime  
+
+DOJ indicted Sioux Falls crypto investor Benjamin Paul Wiener on 29 counts over an alleged $20 million fraud, with a trial set for Sept. 15.
+
+📖 [Read original article](https://www.theblock.co/post/408654/us-jury-indicts-south-dakota-crypto-investor-29-counts-alleged-20m-investor-fraud?utm_source=rss&utm_medium=rss)
+
+---
+
+## 8. SBI extends onchain finance push with Ondo deal to tokenize Japanese stocks
+
+**Author:** Kyle Baird  
+**Published:** 7/16/2026, 2:59:02 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Markets, Web3, Tokenization  
+
+Japan's SBI Holdings will use JPYSC for settlement and collateral while distributing Ondo products through its network.
+
+📖 [Read original article](https://www.theblock.co/post/408633/sbi-extends-onchain-finance-push-with-ondo-deal-tokenize-japanese-stocks?utm_source=rss&utm_medium=rss)
+
+---
+
+## 9. Keyrock closes deal for BlockFills’ institutional trading and brokerage assets
+
+**Author:** Daniel Kuhn  
+**Published:** 7/16/2026, 2:42:26 PM  
+**Categories:** Bankruptcy, Companies, Deals, Mergers & Acquisitions, Bankruptcy Filings, Private Company Mergers and Acquisitions  
+
+The Brussels-based firm was earlier selected as the buyer for $3.25 million in BlockFills’ Chapter 11 bankruptcy process.
+
+📖 [Read original article](https://www.theblock.co/post/408639/keyrock-closes-deal-blockfill-institutional-trading-brokerage-assets?utm_source=rss&utm_medium=rss)
+
+---
+
+## 10. Polygon Labs announces second round of layoffs in 2026 as firm looks to finalize Coinme acquisition
+
+**Author:** Daniel Kuhn  
+**Published:** 7/16/2026, 1:47:51 PM  
+**Categories:** Companies, Crypto Ecosystems, Finance firms, Layer 2s and Scaling, Markets, People, Token Projects, Fintech, Hiring, Polygon  
+
+"Two rounds of changes in one year is a lot to ask of a team, and I understand it is hard to manage," Polygon Labs CEO Marc Boiron said.
+
+📖 [Read original article](https://www.theblock.co/post/408625/polygon-labs-second-round-of-layoffs-2026-finalize-coinme-acquisition?utm_source=rss&utm_medium=rss)
+
+---
+
+## 11. Ledger unveils hardware-backed Agent Stack to prevent rogue AI transactions
 
 **Author:** Daniel Kuhn  
 **Published:** 7/16/2026, 1:00:00 PM  
@@ -23,7 +143,7 @@ With Ledger Agent Stack, users can deploy bots to read balances, suggest transac
 
 ---
 
-## 2. MoonPay acquires Y Combinator-backed crypto deposits startup Glide in all-equity deal
+## 12. MoonPay acquires Y Combinator-backed crypto deposits startup Glide in all-equity deal
 
 **Author:** Yogita Khatri  
 **Published:** 7/16/2026, 1:00:00 PM  
@@ -35,7 +155,7 @@ Crypto unicorn MoonPay has acquired Glide, a Y Combinator-backed crypto deposits
 
 ---
 
-## 3. Dune research finds 85% of concentrated DeFi liquidity is underutilized, with $150M in annual fees foregone
+## 13. Dune research finds 85% of concentrated DeFi liquidity is underutilized, with $150M in annual fees foregone
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/16/2026, 12:50:02 PM  
@@ -47,7 +167,7 @@ Dune research commissioned by 1inch finds 85% of concentrated DeFi liquidity und
 
 ---
 
-## 4. Tether invests $20 million in Ualá as the fintech firm reaches $3.2 billion valuation
+## 14. Tether invests $20 million in Ualá as the fintech firm reaches $3.2 billion valuation
 
 **Author:** Brian Danga  
 **Published:** 7/16/2026, 12:46:06 PM  
@@ -59,7 +179,7 @@ Tether invested $20 million in Argentine neobank Ualá, joining a $197 million f
 
 ---
 
-## 5. Jeff Booth, Lyn Alden-backed ORANGE JUICE raises $40 million to launch permanent capital firm with bitcoin treasury strategy
+## 15. Jeff Booth, Lyn Alden-backed ORANGE JUICE raises $40 million to launch permanent capital firm with bitcoin treasury strategy
 
 **Author:** Brian Danga  
 **Published:** 7/16/2026, 11:25:49 AM  
@@ -71,7 +191,7 @@ ORANGE JUICE raised $40 million to acquire businesses, pursue a bitcoin treasury
 
 ---
 
-## 6. Volvo Group tests proprietary cryptocurrency for supplier transactions in blockchain push
+## 16. Volvo Group tests proprietary cryptocurrency for supplier transactions in blockchain push
 
 **Author:** Danny Park  
 **Published:** 7/16/2026, 9:56:49 AM  
@@ -83,7 +203,7 @@ Volvo Group's proprietary cryptocurrency project remains in the ideation stage a
 
 ---
 
-## 7. Lummis, Gallego secure unanimous Senate approval opposing Sam Bankman-Fried clemency
+## 17. Lummis, Gallego secure unanimous Senate approval opposing Sam Bankman-Fried clemency
 
 **Author:** Brian Danga  
 **Published:** 7/16/2026, 9:21:09 AM  
@@ -95,7 +215,7 @@ The U.S. Senate unanimously approved a resolution opposing a presidential pardon
 
 ---
 
-## 8. Visa says stablecoins will power micro-commerce in AI agentic economy
+## 18. Visa says stablecoins will power micro-commerce in AI agentic economy
 
 **Author:** Danny Park  
 **Published:** 7/16/2026, 8:29:18 AM  
@@ -107,7 +227,7 @@ Visa said it expects agentic commerce to integrate a hybrid flow that combines b
 
 ---
 
-## 9. Bitcoin whale moves $383 million in BTC after 8 years of dormancy: onchain data
+## 19. Bitcoin whale moves $383 million in BTC after 8 years of dormancy: onchain data
 
 **Author:** Timmy Shen  
 **Published:** 7/16/2026, 6:54:08 AM  
@@ -119,7 +239,7 @@ A bitcoin OG wallet transferred 5,908 BTC to a new address on Wednesday, accordi
 
 ---
 
-## 10. California pair charged with laundering crypto proceeds from darknet fentanyl sales
+## 20. California pair charged with laundering crypto proceeds from darknet fentanyl sales
 
 **Author:** Timmy Shen  
 **Published:** 7/16/2026, 2:23:34 AM  
