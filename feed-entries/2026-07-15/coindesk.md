@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-15"
 date: "2026-07-15"
 source: "CoinDesk"
-count: 13
+count: 5
 ---
 
 # CoinDesk - 2026-07-15
 
-13 items collected.
+5 items collected.
 
 ---
 
@@ -68,101 +68,5 @@ A hacker used Ostium's own price-reporting infrastructure against the protocol, 
 We don’t need to imagine the privacy pitfalls of age verification. They’ve been happening for years, argues Cardano Foundation CEO Frederik Gregaard.
 
 📖 [Read original article](https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online)
-
----
-
-## 6. Crypto Long & Short: To ETH or not to ETH — is SOL the better diversifier?
-
-**Author:** Denny Galindo  
-**Published:** 7/15/2026, 2:58:09 PM  
-**Categories:** CoinDesk Indices, Institutional Investors, Institutional Adoption, CoinDesk Indices, Crypto Long & Short, Newsletters, News  
-
-In this week's, Morgan Stanley’s Denny Galindo writes that as the crypto market expands, solana has historically been a better portfolio diversifier than ether, despite being more volatile.
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/07/15/crypto-long-and-short-to-eth-or-not-to-eth-is-sol-the-better-diversifier)
-
----
-
-## 7. President Trump expected to meet with senators to work on ethics concerns in crypto bill
-
-**Author:** Jesse Hamilton  
-**Published:** 7/15/2026, 2:37:36 PM  
-**Categories:** Policy, Donald Trump, Clarity Act, Exclusive, News  
-
-The most contentious piece of the crypto market structure bill is unresolved in the final weeks of Senate runway, and the president is expected to discuss it.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section)
-
----
-
-## 8. South Korea to modify 76-year-old law to classify cryptocurrencies as national assets
-
-**Author:** Olivier Acuna  
-**Published:** 7/15/2026, 2:35:26 PM  
-**Categories:** Policy, South Korea, Cryptocurrency, News  
-
-The government also reaffirmed plans to pilot tokenized government bonds next year and explore tokenizing state-owned real estate.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets)
-
----
-
-## 9. Open USD poses biggest threat yet to Circle's USDC, CoinShares says
-
-**Author:** Will Canny,AI Boost  
-**Published:** 7/15/2026, 2:03:54 PM  
-**Categories:** Finance, Circle, Stablecoins, News  
-
-The consortium-backed stablecoin would share reserve income with partners instead of the issuer, pressuring Circle's margins if it debuts in 2026.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/15/open-usd-poses-biggest-threat-yet-to-circle-s-usdc-coinshares-says)
-
----
-
-## 10. A timeline of the Ethereum Foundation's ongoing shakeup
-
-**Author:** Margaux Nijkerk  
-**Published:** 7/15/2026, 1:19:48 PM  
-**Categories:** Tech, Ethereum News, Newsletters, News  
-
-In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup)
-
----
-
-## 11. BlackRock's crypto assets fall 39% despite $15 billion of net inflows
-
-**Author:** Helene Braun,Francisco Rodrigues  
-**Published:** 7/15/2026, 12:12:01 PM  
-**Categories:** Markets, BlackRock, News  
-
-BlackRock's digital asset funds attracted $15 billion in net inflows over the past year, but falling crypto prices drove the value of those holdings sharply lower.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/15/blackrock-s-crypto-assets-fall-39-despite-usd15-billion-of-net-inflows)
-
----
-
-## 12. The launchpad that fueled Robinhood Chain's memecoin boom just gave away all its revenue
-
-**Author:** Oliver Knight  
-**Published:** 7/15/2026, 12:11:58 PM  
-**Categories:** Finance, Robinhood, Memecoin, News  
-
-Noxa, the launchpad behind CASHCAT's rise, racked up nearly $12 million in fees before going dark, giving away its revenue, and leaving Robinhood Chain's memecoin economy in freefall.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/15/the-launchpad-that-fueled-robinhood-chain-s-memecoin-boom-just-gave-away-all-its-revenue)
-
----
-
-## 13. Japan reclassifies crypto as a financial asset, paves way for tax cuts
-
-**Author:** Olivier Acuna  
-**Published:** 7/15/2026, 12:05:33 PM  
-**Categories:** Policy, Japan, Regulation, News  
-
-Lawmakers said crypto has outgrown its role as a payment method and requires rules designed for investment products.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/15/japan-reclassifies-crypto-as-a-financial-asset-paves-way-for-tax-cuts)
 
 ---
