@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-15"
 date: "2026-07-15"
 source: "Cointelegraph"
-count: 16
+count: 9
 ---
 
 # Cointelegraph - 2026-07-15
 
-16 items collected.
+9 items collected.
 
 ---
 
@@ -116,89 +116,5 @@ Surging volumes on Robinhood Chain could be very good for Ethereum, but only if 
 AMLA is expanding its crypto oversight as firms complete the transition to the EU’s MiCA licensing regime.
 
 📖 [Read original article](https://cointelegraph.com/news/amla-customer-migration-strain-mica-licensed-casps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Japan passes crypto overhaul to bring digital assets under financial rules
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/15/2026, 11:05:46 AM  
-**Categories:** Latest News  
-
-Japan’s revised Financial Instruments and Exchange Act introduces crypto insider trading rules, tougher penalties and new oversight requirements for crypto businesses.
-
-📖 [Read original article](https://cointelegraph.com/news/japan-crypto-amendment-digital-assets-financial-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. South Korea to bring digital assets under new state asset management system
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/15/2026, 10:53:34 AM  
-**Categories:** Latest News  
-
-South Korea’s Economy Ministry plans to include digital assets and intellectual property under the country’s new state-asset management framework.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korea-digital-assets-state-asset-management?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Bitcoin gets new $80K August target: Watch these BTC price levels next
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/15/2026, 10:22:06 AM  
-**Categories:** Markets  
-
-BTC price upside predictions include $68,000 within two weeks and up to $80,000 next month, contrasting with warnings of a 2022 bear-market rerun for the rest of 2026.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-gets-new-80k-august-target-watch-these-btc-price-levels-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Czech Republic tells ISPs to block Polymarket after gambling blacklisting
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/15/2026, 10:19:09 AM  
-**Categories:** Latest News  
-
-The Czech Finance Ministry added Polymarket to its blacklist of unauthorized online gambling websites, requiring internet providers to block access within 15 days.
-
-📖 [Read original article](https://cointelegraph.com/news/czech-republic-adds-polymarket-to-unauthorized-gambling-blacklist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Cathie Wood’s ARK buys another 220K Circle shares despite sell-off
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/15/2026, 8:55:11 AM  
-**Categories:** Latest News  
-
-Cathie Wood’s ARK Invest added $13.9 million worth of Circle shares on Tuesday, extending its July buying spree to 725,517 shares amid a steep stock decline.
-
-📖 [Read original article](https://cointelegraph.com/news/cathie-woods-ark-buy-220k-circle-stock-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Stripe, Advent offer $53B to acquire PayPal: Report
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/15/2026, 8:23:15 AM  
-**Categories:** Latest News  
-
-Stripe and Advent reportedly offered to buy PayPal for $53 billion, at a 28% premium compared to the company’s Tuesday closing price.
-
-📖 [Read original article](https://cointelegraph.com/news/stripe-advent-53b-acquire-paypal-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Kalshi says CFTC, Michigan orders leave it in ‘impossible position’
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/15/2026, 5:38:10 AM  
-**Categories:** Latest News  
-
-“We are disappointed by this decision and believe it is unfair to Kalshi,” the company’s legal counsel said on X.
-
-📖 [Read original article](https://cointelegraph.com/news/kalshi-says-cftc-michigan-orders-leave-it-in-impossible-position?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
