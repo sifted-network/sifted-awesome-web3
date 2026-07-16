@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-13"
 date: "2026-07-13"
 source: "Decrypt"
-count: 14
+count: 12
 ---
 
 # Decrypt - 2026-07-13
 
-14 items collected.
+12 items collected.
 
 ---
 
@@ -152,29 +152,5 @@ Strategy went another week without buying Bitcoin, focusing instead on lifting i
 Data analytics flagged stablecoin transfers meant to evade scrutiny, the central bank says, handing the findings to the securities regulator.
 
 📖 [Read original article](https://decrypt.co/373380/bank-of-thailand-flags-abnormal-stablecoin-trades-in-grey-economy-crackdown)
-
----
-
-## 13. Morning Minute: BTC and ETH ETFs Flip Green After Lengthy Outflow Stretch
-
-**Author:** Tyler Warner  
-**Published:** 7/13/2026, 11:53:11 AM  
-**Categories:** , , Opinion  
-
-U.S. spot Bitcoin ETFs closed their first positive week since May, but a big week ahead will likely determine crypto's near-term fate.
-
-📖 [Read original article](https://decrypt.co/373377/morning-minute-btc-and-eth-etfs-flip-green-after-lengthy-outflow-stretch)
-
----
-
-## 14. Chinese Prosecutors Float Treating Crypto Mixer, Privacy Coin Use as Sign of Money Laundering
-
-**Author:** Decrypt Agent  
-**Published:** 7/13/2026, 10:43:13 AM  
-**Categories:** , monero, zcash, Law and Order  
-
-An article in the top prosecutors' paper urges new blockchain evidence rules, presumptions of intent, and a state platform to sell seized coins.
-
-📖 [Read original article](https://decrypt.co/373374/chinese-prosecutors-float-treating-crypto-mixer-privacy-coin-use-as-sign-of-money-laundering)
 
 ---
