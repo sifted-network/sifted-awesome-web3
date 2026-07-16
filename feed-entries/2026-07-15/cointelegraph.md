@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-07-15"
 date: "2026-07-15"
 source: "Cointelegraph"
-count: 17
+count: 19
 ---
 
 # Cointelegraph - 2026-07-15
 
-17 items collected.
+19 items collected.
 
 ---
 
-## 1. US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph  
+**Published:** 7/15/2026, 8:13:29 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Stanford study says 5-minute Bitcoin prediction markets enable settlement manipulation
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/15/2026, 8:05:08 PM  
+**Categories:** Latest News  
+
+Researchers found that Polymarket’s five-minute Bitcoin prediction markets create incentives to manipulate spot prices around contract settlement, proposing longer settlement windows as a potential fix.
+
+📖 [Read original article](https://cointelegraph.com/news/stanford-study-5-minute-bitcoin-prediction-markets-enable-settlement-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Revolut receives in-principle approval from UAE authorities for crypto services
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/15/2026, 7:34:39 PM  
+**Categories:** Latest News  
+
+Dubai’s Virtual Assets Regulatory Authority approved the London-headquartered fintech company for broker-dealer, management and investment, and exchange services in the UAE.
+
+📖 [Read original article](https://cointelegraph.com/news/revolut-approval-uae-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/15/2026, 5:56:00 PM  
@@ -23,7 +59,7 @@ President Donald Trump’s pick for US Attorney General faced criticism from mem
 
 ---
 
-## 2. Ostium pauses trading as security firms report multimillion-dollar oracle exploit
+## 5. Ostium pauses trading as security firms report multimillion-dollar oracle exploit
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/15/2026, 5:14:21 PM  
@@ -35,7 +71,7 @@ Ostium halted trading and advised revoking contract approvals after blockchain s
 
 ---
 
-## 3. Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets
+## 6. Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/15/2026, 4:29:39 PM  
@@ -47,7 +83,7 @@ The deployment marks Aave V4’s first expansion beyond Ethereum and introduces 
 
 ---
 
-## 4. Securitize, Cantor target tokenized IPOs for public markets
+## 7. Securitize, Cantor target tokenized IPOs for public markets
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/15/2026, 3:59:36 PM  
@@ -59,7 +95,7 @@ Securitize and Cantor Fitzgerald are developing infrastructure for tokenized IPO
 
 ---
 
-## 5. Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high
+## 8. Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/15/2026, 2:45:28 PM  
@@ -71,7 +107,7 @@ Bitcoin moved up to its highest levels since June 22 as US PPI inflation numbers
 
 ---
 
-## 6. Is Robinhood Chain’s success bullish or bearish for ETH the asset?
+## 9. Is Robinhood Chain’s success bullish or bearish for ETH the asset?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 7/15/2026, 1:30:00 PM  
@@ -83,19 +119,7 @@ Surging volumes on Robinhood Chain could be very good for Ethereum, but only if 
 
 ---
 
-## 7. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/15/2026, 1:22:37 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Crypto firms face AML risks during post-MiCA migration, says AMLA chair
+## 10. Crypto firms face AML risks during post-MiCA migration, says AMLA chair
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/15/2026, 1:08:43 PM  
@@ -107,7 +131,7 @@ AMLA is expanding its crypto oversight as firms complete the transition to the E
 
 ---
 
-## 9. Japan passes crypto overhaul to bring digital assets under financial rules
+## 11. Japan passes crypto overhaul to bring digital assets under financial rules
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/15/2026, 11:05:46 AM  
@@ -119,7 +143,7 @@ Japan’s revised Financial Instruments and Exchange Act introduces crypto insid
 
 ---
 
-## 10. South Korea to bring digital assets under new state asset management system
+## 12. South Korea to bring digital assets under new state asset management system
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/15/2026, 10:53:34 AM  
@@ -131,7 +155,7 @@ South Korea’s Economy Ministry plans to include digital assets and intellectua
 
 ---
 
-## 11. Bitcoin gets new $80K August target: Watch these BTC price levels next
+## 13. Bitcoin gets new $80K August target: Watch these BTC price levels next
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/15/2026, 10:22:06 AM  
@@ -143,7 +167,7 @@ BTC price upside predictions include $68,000 within two weeks and up to $80,000 
 
 ---
 
-## 12. Czech Republic tells ISPs to block Polymarket after gambling blacklisting
+## 14. Czech Republic tells ISPs to block Polymarket after gambling blacklisting
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/15/2026, 10:19:09 AM  
@@ -155,7 +179,7 @@ The Czech Finance Ministry added Polymarket to its blacklist of unauthorized onl
 
 ---
 
-## 13. Cathie Wood’s ARK buys another 220K Circle shares despite sell-off
+## 15. Cathie Wood’s ARK buys another 220K Circle shares despite sell-off
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/15/2026, 8:55:11 AM  
@@ -167,7 +191,7 @@ Cathie Wood’s ARK Invest added $13.9 million worth of Circle shares on Tuesday
 
 ---
 
-## 14. Stripe, Advent offer $53B to acquire PayPal: Report
+## 16. Stripe, Advent offer $53B to acquire PayPal: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/15/2026, 8:23:15 AM  
@@ -179,7 +203,7 @@ Stripe and Advent reportedly offered to buy PayPal for $53 billion, at a 28% pre
 
 ---
 
-## 15. Kalshi says CFTC, Michigan orders leave it in ‘impossible position’
+## 17. Kalshi says CFTC, Michigan orders leave it in ‘impossible position’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/15/2026, 5:38:10 AM  
@@ -191,7 +215,7 @@ Stripe and Advent reportedly offered to buy PayPal for $53 billion, at a 28% pre
 
 ---
 
-## 16. US freezes $131M in Iran-linked crypto as Middle East tensions rise
+## 18. US freezes $131M in Iran-linked crypto as Middle East tensions rise
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/15/2026, 3:17:59 AM  
@@ -203,7 +227,7 @@ Stripe and Advent reportedly offered to buy PayPal for $53 billion, at a 28% pre
 
 ---
 
-## 17. Bitmine generated $46M from Ethereum staking last quarter
+## 19. Bitmine generated $46M from Ethereum staking last quarter
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/15/2026, 1:28:14 AM  
