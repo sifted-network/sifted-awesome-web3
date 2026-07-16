@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-14"
 date: "2026-07-14"
 source: "CoinDesk"
-count: 5
+count: 4
 ---
 
 # CoinDesk - 2026-07-14
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Shunyet Jan, Binance’s head of spot trading and derivatives, said the exchange
 The bill, as currently drafted, has the power to stop sanctions evasion at scale, argues Ari Redbord, global head of policy at TRM Labs.
 
 📖 [Read original article](https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually)
-
----
-
-## 5. Mizuho downgrades Circle to underperform, cuts price target to $50 on Open USD threat
-
-**Author:** Will Canny,AI Boost  
-**Published:** 7/14/2026, 4:59:44 PM  
-**Categories:** Finance, Circle, Stablecoins, News  
-
-The Japanese investment bank said Open USD's yield pass-through model could pressure Circle's margins by shifting more reserve income to distributors.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/14/mizuho-downgrades-circle-to-underperform-cuts-price-target-to-usd50-on-open-usd-threat)
 
 ---
