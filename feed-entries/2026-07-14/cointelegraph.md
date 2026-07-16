@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-14"
 date: "2026-07-14"
 source: "Cointelegraph"
-count: 13
+count: 10
 ---
 
 # Cointelegraph - 2026-07-14
 
-13 items collected.
+10 items collected.
 
 ---
 
@@ -128,41 +128,5 @@ BTC price action returned to $64,000 on low US CPI inflation, but traders remain
 OpenAI’s ChatGPT now displays Kalshi’s World Cup prediction market odds in search results, marking the AI firm’s first reported deal with a prediction market platform.
 
 📖 [Read original article](https://cointelegraph.com/news/openai-kalshi-prediction-markets-world-cup-chatgpt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Strategy became a symbol of the dot-com crash: Could history repeat?
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 7/14/2026, 1:30:00 PM  
-**Categories:** Features  
-
-MicroStrategy blew up during the dot-com era, before Michael Saylor transformed it into the world's largest corporate Bitcoin holder. Did he learn his lesson?
-
-📖 [Read original article](https://cointelegraph.com/features/from-dot-com-bust-to-bitcoin-king-has-michael-saylor-rewritten-his-legacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Humanity Protocol to prioritize operational security following $36M hack
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/14/2026, 1:08:00 PM  
-**Categories:** Latest News  
-
-Humanity Protocol’s founder said they will refocus on operational security, as malicious actors are switching from smart contract vulnerabilities to exploiting human behavior.
-
-📖 [Read original article](https://cointelegraph.com/news/humanity-protocol-operational-security-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. ABA, state banking groups push back on CLARITY Act stablecoin yield provisions
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/14/2026, 11:40:00 AM  
-**Categories:** Latest News  
-
-ABA and state banking associations published a joint letter calling for more detail on the CLARITY Act’s stablecoin yield provisions, ahead of the bill’s House hearing on Friday.
-
-📖 [Read original article](https://cointelegraph.com/news/aba-banking-associations-clarity-act-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
