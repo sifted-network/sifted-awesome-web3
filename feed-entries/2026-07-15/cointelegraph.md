@@ -2,28 +2,16 @@
 title: "Cointelegraph - 2026-07-15"
 date: "2026-07-15"
 source: "Cointelegraph"
-count: 19
+count: 18
 ---
 
 # Cointelegraph - 2026-07-15
 
-19 items collected.
+18 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/15/2026, 8:13:29 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. Stanford study says 5-minute Bitcoin prediction markets enable settlement manipulation
+## 1. Stanford study says 5-minute Bitcoin prediction markets enable settlement manipulation
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/15/2026, 8:05:08 PM  
@@ -35,7 +23,7 @@ Researchers found that Polymarket’s five-minute Bitcoin prediction markets cre
 
 ---
 
-## 3. Revolut receives in-principle approval from UAE authorities for crypto services
+## 2. Revolut receives in-principle approval from UAE authorities for crypto services
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/15/2026, 7:34:39 PM  
@@ -47,19 +35,19 @@ Dubai’s Virtual Assets Regulatory Authority approved the London-headquartered 
 
 ---
 
-## 4. US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon
+## 3. US senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/15/2026, 5:56:00 PM  
 **Categories:** Latest News  
 
-President Donald Trump’s pick for US Attorney General faced criticism from members of the Senate Judiciary Committee on his approach to crypto enforcement and the pardon of former Binance CEO Changpeng Zhao.
+President Donald Trump’s pick for attorney general faced criticism from members of the Senate Judiciary Committee on his approach to crypto enforcement and the pardon of former Binance CEO Changpeng Zhao.
 
 📖 [Read original article](https://cointelegraph.com/news/todd-blanche-hearing-dismantling-justice-crypto-unit-donald-trumps-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-## 5. Ostium pauses trading as security firms report multimillion-dollar oracle exploit
+## 4. Ostium pauses trading as security firms report multimillion-dollar oracle exploit
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/15/2026, 5:14:21 PM  
@@ -71,7 +59,7 @@ Ostium halted trading and advised revoking contract approvals after blockchain s
 
 ---
 
-## 6. Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets
+## 5. Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/15/2026, 4:29:39 PM  
@@ -83,7 +71,7 @@ The deployment marks Aave V4’s first expansion beyond Ethereum and introduces 
 
 ---
 
-## 7. Securitize, Cantor target tokenized IPOs for public markets
+## 6. Securitize, Cantor target tokenized IPOs for public markets
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/15/2026, 3:59:36 PM  
@@ -95,7 +83,7 @@ Securitize and Cantor Fitzgerald are developing infrastructure for tokenized IPO
 
 ---
 
-## 8. Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high
+## 7. Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/15/2026, 2:45:28 PM  
@@ -107,7 +95,7 @@ Bitcoin moved up to its highest levels since June 22 as US PPI inflation numbers
 
 ---
 
-## 9. Is Robinhood Chain’s success bullish or bearish for ETH the asset?
+## 8. Is Robinhood Chain’s success bullish or bearish for ETH the asset?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 7/15/2026, 1:30:00 PM  
@@ -119,7 +107,7 @@ Surging volumes on Robinhood Chain could be very good for Ethereum, but only if 
 
 ---
 
-## 10. Crypto firms face AML risks during post-MiCA migration, says AMLA chair
+## 9. Crypto firms face AML risks during post-MiCA migration, says AMLA chair
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/15/2026, 1:08:43 PM  
@@ -131,7 +119,7 @@ AMLA is expanding its crypto oversight as firms complete the transition to the E
 
 ---
 
-## 11. Japan passes crypto overhaul to bring digital assets under financial rules
+## 10. Japan passes crypto overhaul to bring digital assets under financial rules
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/15/2026, 11:05:46 AM  
@@ -143,7 +131,7 @@ Japan’s revised Financial Instruments and Exchange Act introduces crypto insid
 
 ---
 
-## 12. South Korea to bring digital assets under new state asset management system
+## 11. South Korea to bring digital assets under new state asset management system
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/15/2026, 10:53:34 AM  
@@ -155,7 +143,7 @@ South Korea’s Economy Ministry plans to include digital assets and intellectua
 
 ---
 
-## 13. Bitcoin gets new $80K August target: Watch these BTC price levels next
+## 12. Bitcoin gets new $80K August target: Watch these BTC price levels next
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/15/2026, 10:22:06 AM  
@@ -167,7 +155,7 @@ BTC price upside predictions include $68,000 within two weeks and up to $80,000 
 
 ---
 
-## 14. Czech Republic tells ISPs to block Polymarket after gambling blacklisting
+## 13. Czech Republic tells ISPs to block Polymarket after gambling blacklisting
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/15/2026, 10:19:09 AM  
@@ -179,7 +167,7 @@ The Czech Finance Ministry added Polymarket to its blacklist of unauthorized onl
 
 ---
 
-## 15. Cathie Wood’s ARK buys another 220K Circle shares despite sell-off
+## 14. Cathie Wood’s ARK buys another 220K Circle shares despite sell-off
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/15/2026, 8:55:11 AM  
@@ -191,7 +179,7 @@ Cathie Wood’s ARK Invest added $13.9 million worth of Circle shares on Tuesday
 
 ---
 
-## 16. Stripe, Advent offer $53B to acquire PayPal: Report
+## 15. Stripe, Advent offer $53B to acquire PayPal: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/15/2026, 8:23:15 AM  
@@ -203,7 +191,7 @@ Stripe and Advent reportedly offered to buy PayPal for $53 billion, at a 28% pre
 
 ---
 
-## 17. Kalshi says CFTC, Michigan orders leave it in ‘impossible position’
+## 16. Kalshi says CFTC, Michigan orders leave it in ‘impossible position’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/15/2026, 5:38:10 AM  
@@ -215,7 +203,7 @@ Stripe and Advent reportedly offered to buy PayPal for $53 billion, at a 28% pre
 
 ---
 
-## 18. US freezes $131M in Iran-linked crypto as Middle East tensions rise
+## 17. US freezes $131M in Iran-linked crypto as Middle East tensions rise
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/15/2026, 3:17:59 AM  
@@ -227,7 +215,7 @@ Stripe and Advent reportedly offered to buy PayPal for $53 billion, at a 28% pre
 
 ---
 
-## 19. Bitmine generated $46M from Ethereum staking last quarter
+## 18. Bitmine generated $46M from Ethereum staking last quarter
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/15/2026, 1:28:14 AM  
