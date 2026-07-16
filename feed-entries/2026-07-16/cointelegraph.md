@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-07-16"
 date: "2026-07-16"
 source: "Cointelegraph"
-count: 14
+count: 21
 ---
 
 # Cointelegraph - 2026-07-16
 
-14 items collected.
+21 items collected.
 
 ---
 
-## 1. Prediction markets defy crypto downturn with record Q2 volume: CoinGecko
+## 1. BitPay secures Dutch licensing under MiCA, plans to expand stablecoin payments
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/16/2026, 6:45:25 PM  
+**Categories:** Latest News  
+
+The Dutch Authority for the Financial Markets approved BitPay’s application as a crypto-asset service provider under the Markets in Crypto-Assets requirements.
+
+📖 [Read original article](https://cointelegraph.com/news/bitpay-licensing-mica-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitcoin price dips on US stocks sell-off as Micron losses pass 30%
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/16/2026, 4:58:02 PM  
+**Categories:** Markets  
+
+Bitcoin fell 1.5% from local highs amid a reversal in US stocks as markets moved from bullish US inflation cues to retail profit-taking.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-dips-with-us-stocks-as-tech-sell-off-as-micron-losses-pass-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Ethics in crypto market structure ‘really not our concern,’ says Blockchain Association CEO
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/16/2026, 4:47:09 PM  
+**Categories:** Latest News  
+
+A former CFTC commissioner urged lawmakers not to “kill all the hard work that we put in the rest of the bill” by making ethics a make-or-break issue on crypto market structure.
+
+📖 [Read original article](https://cointelegraph.com/news/ethics-crypto-market-structure-concerns-blockchain-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Morgan Stanley’s E*TRADE launches spot crypto trading through Zero Hash
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/16/2026, 4:32:01 PM  
+**Categories:** Latest News  
+
+Eligible E*TRADE retail clients can now buy, sell and hold Bitcoin, Ether and Solana through a partnership with crypto infrastructure provider Zero Hash.
+
+📖 [Read original article](https://cointelegraph.com/news/morgan-stanleys-etrade-rolls-out-spot-crypto-trading-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Tradable’s $1B Stellar deal adds to institutional tokenization boom
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/16/2026, 4:19:16 PM  
+**Categories:** Latest News  
+
+Tradable will bring up to $1 billion in private credit assets to Stellar, extending the blockchain’s push into institutional finance and tokenized real-world assets.
+
+📖 [Read original article](https://cointelegraph.com/news/tradables-1b-stellar-deal-adds-to-institutional-tokenization-boom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Alpaca raises $135M to fund tokenized agent-first infrastructure
+
+**Author:** Cointelegraph by Robert Lakin  
+**Published:** 7/16/2026, 1:34:19 PM  
+**Categories:** Latest News  
+
+The BNP-backed brokerage infrastructure provider is expanding into tokenized markets and AI-native financial services as both DeFi and TradFi companies pursue onchain business.
+
+📖 [Read original article](https://cointelegraph.com/news/alpaca-raises-135m-to-fund-tokenized-agent-first-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Gambling on random Pokémon cards: Onchain gagcha hits record high as crypto sinks
+
+**Author:** Cointelegraph by Artem G  
+**Published:** 7/16/2026, 1:30:00 PM  
+**Categories:** Features  
+
+Users spent a record $324 million on onchain gacha in June, even as Bitcoin hit a 21-month low. The thrill of scoring a top Pokemon card from a random pack is becoming big business
+
+📖 [Read original article](https://cointelegraph.com/features/pokemon-cards-as-rwas-gacha-spending-hits-records-as-crypto-sinks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Prediction markets defy crypto downturn with record Q2 volume: CoinGecko
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/16/2026, 1:05:09 PM  
@@ -23,7 +107,7 @@ Prediction markets reached a record $113.8 billion in notional volume in Q2 as s
 
 ---
 
-## 2. MoonPay buys Glide to bolster crypto deposits infrastructure
+## 9. MoonPay buys Glide to bolster crypto deposits infrastructure
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/16/2026, 1:00:00 PM  
@@ -35,7 +119,7 @@ MoonPay acquired Glide, a crypto infrastructure startup founded by former Robinh
 
 ---
 
-## 3. Tokenized stocks market cap gains to record $2.3B
+## 10. Tokenized stocks market cap gains to record $2.3B
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/16/2026, 12:35:52 PM  
@@ -47,7 +131,7 @@ The market capitalization of tokenized stocks rose to a record $2.3 billion, as 
 
 ---
 
-## 4. FATF urges faster crypto AML enforcement as stablecoin crime increases
+## 11. FATF urges faster crypto AML enforcement as stablecoin crime increases
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/16/2026, 12:05:45 PM  
@@ -59,7 +143,7 @@ The global task force said criminal networks are using stablecoins and developin
 
 ---
 
-## 5. ARK pushes back against a16z’s ‘TradFi wants blockchain, not DeFi’ claim
+## 12. ARK pushes back against a16z’s ‘TradFi wants blockchain, not DeFi’ claim
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/16/2026, 11:35:30 AM  
@@ -71,7 +155,7 @@ ARK Invest’s director of research disputed a16z crypto’s thesis that traditi
 
 ---
 
-## 6. Autonomous AI agent economy faces infrastructure gaps: Visa, Artemis
+## 13. Autonomous AI agent economy faces infrastructure gaps: Visa, Artemis
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/16/2026, 10:33:34 AM  
@@ -83,7 +167,7 @@ Visa and Artemis found that infrastructure bottlenecks are preventing broader co
 
 ---
 
-## 7. US Senate unanimously adopts resolution opposing clemency for SBF
+## 14. US Senate unanimously adopts resolution opposing clemency for SBF
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/16/2026, 9:26:11 AM  
@@ -95,7 +179,7 @@ The Senate approved a resolution opposing clemency for former FTX CEO Sam Bankma
 
 ---
 
-## 8. Tether invests $20M into Argentine neobank Ualá
+## 15. Tether invests $20M into Argentine neobank Ualá
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/16/2026, 8:27:31 AM  
@@ -107,7 +191,7 @@ Tether reportedly invested $20 million into Ualá, as part of the Argentine neob
 
 ---
 
-## 9. Bitcoin $107K buyers providing ‘early signals’ of 2026 bear-market bottom: Glassnode
+## 16. Bitcoin $107K buyers providing ‘early signals’ of 2026 bear-market bottom: Glassnode
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/16/2026, 8:11:25 AM  
@@ -119,7 +203,7 @@ Bitcoin realized losses appeared to be copying a reversal structure that marked 
 
 ---
 
-## 10. Robinhood Chain memecoin launchpad Vlad.fun halts after ‘internal integrity’ issue
+## 17. Robinhood Chain memecoin launchpad Vlad.fun halts after ‘internal integrity’ issue
 
 **Author:** Cointelegraph  
 **Published:** 7/16/2026, 7:43:45 AM  
@@ -131,7 +215,7 @@ Vlad.fun suspended its platform after discovering a “serious internal integrit
 
 ---
 
-## 11. Hyperion DeFi to deploy 500K HYPE for Hyperliquid HIP-3 markets
+## 18. Hyperion DeFi to deploy 500K HYPE for Hyperliquid HIP-3 markets
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/16/2026, 6:41:14 AM  
@@ -143,7 +227,7 @@ The deal gives Hyperion an equity stake in Skew and a share of listing-service r
 
 ---
 
-## 12. Here’s what happened in crypto today
+## 19. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/16/2026, 5:55:48 AM  
@@ -155,7 +239,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 13. Trump to meet with senators over CLARITY Act on Thursday: Politico
+## 20. Trump to meet with senators over CLARITY Act on Thursday: Politico
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/16/2026, 4:18:29 AM  
@@ -167,7 +251,7 @@ US President Donald Trump is set to meet with several senators on Thursday as ne
 
 ---
 
-## 14. Base’s social bet left it trailing in prediction markets and perps: Pollak
+## 21. Base’s social bet left it trailing in prediction markets and perps: Pollak
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/16/2026, 1:14:58 AM  
