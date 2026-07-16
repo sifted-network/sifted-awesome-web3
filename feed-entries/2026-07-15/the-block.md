@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-15"
 date: "2026-07-15"
 source: "The Block"
-count: 19
+count: 18
 ---
 
 # The Block - 2026-07-15
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -224,17 +224,5 @@ Stellar has become a top choice for institutional tokenization, including from t
 Bitmine generated $45.7 million from Ethereum staking, which accounted for 98% of quarterly revenue as the company expanded MAVAN.
 
 📖 [Read original article](https://www.theblock.co/post/408400/bitmine-eth-staking-generated-45-7-million-accounting-98-of-quarterly-revenue?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. How Crypto Venues Are Building Financial Operating Systems: Binance as a Super App
-
-**Author:** The Block Research  
-**Published:** 7/15/2026, 12:56:18 PM  
-**Categories:** Companies  
-
-From Trading Venue to Financial Operating System Across crypto&#8217;s largest venues, the fundamentals of execution, including pricing, depth, latency, and fees, are converging. These remain critical to the business and a precondition for competing at scale, but as they standardize across the top p...
-
-📖 [Read original article](https://www.theblock.co/post/408308/how-crypto-venues-are-building-financial-operating-systems-binance-as-a-super-app?utm_source=rss&utm_medium=rss)
 
 ---
