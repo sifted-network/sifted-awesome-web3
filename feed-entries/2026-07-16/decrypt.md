@@ -2,16 +2,64 @@
 title: "Decrypt - 2026-07-16"
 date: "2026-07-16"
 source: "Decrypt"
-count: 3
+count: 7
 ---
 
 # Decrypt - 2026-07-16
 
-3 items collected.
+7 items collected.
 
 ---
 
-## 1. Morning Minute: Base Hands Its App Over to Cobie
+## 1. Mira Murati Drops Her First AI Model After Leaving OpenAI—And It's Fully Open Source
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/16/2026, 6:27:11 PM  
+**Categories:** Artificial Intelligence  
+
+Mira Murati's Inkling won't dethrone the best Chinese open-weights models, but it gives Western developers something they haven't yet had.
+
+📖 [Read original article](https://decrypt.co/373671/mira-murati-inkling-ai-model-openai-open-source)
+
+---
+
+## 2. Visa Unveils Stablecoin Platform for Banks and Fintech Companies
+
+**Author:** Jason Nelson  
+**Published:** 7/16/2026, 5:57:57 PM  
+**Categories:** Business  
+
+The Visa Stablecoin Platform will let financial institutions integrate stablecoin payments and treasury operations into Visa's existing network.
+
+📖 [Read original article](https://decrypt.co/373668/visa-stablecoin-platform-banks-fintech-open-usd)
+
+---
+
+## 3. XRP Can't Keep Up as Bitcoin Takes a Breather: Analysis
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/16/2026, 4:56:54 PM  
+**Categories:** , Markets  
+
+The post-CPI rally gave XRP a nudge. The coin barely moved. Now the chart is filling in the picture.
+
+📖 [Read original article](https://decrypt.co/373649/xrp-price-cant-keep-up-bitcoin-takes-breather)
+
+---
+
+## 4. Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years
+
+**Author:** Jason Nelson  
+**Published:** 7/16/2026, 3:43:43 PM  
+**Categories:** , Coins  
+
+The wallet holding nearly 5,908 BTC since 2017 transferred its entire balance to a new address.
+
+📖 [Read original article](https://decrypt.co/373646/bitcoin-whale-moves-383-million-after-eight-years)
+
+---
+
+## 5. Morning Minute: Base Hands Its App Over to Cobie
 
 **Author:** Tyler Warner  
 **Published:** 7/16/2026, 12:03:28 PM  
@@ -23,7 +71,7 @@ Plus, Stripe makes a $53 billion move that could crown a stablecoin king. And Os
 
 ---
 
-## 2. Feds Arrest Florida Man Over Video Game Malware That Stole $220K in Crypto
+## 6. Feds Arrest Florida Man Over Video Game Malware That Stole $220K in Crypto
 
 **Author:** Decrypt Agent  
 **Published:** 7/16/2026, 10:54:08 AM  
@@ -35,7 +83,7 @@ Zyaire Wilkins allegedly procured malware hidden in video games that infected 8,
 
 ---
 
-## 3. US Senate Unanimously Opposes Sam Bankman-Fried Pardon
+## 7. US Senate Unanimously Opposes Sam Bankman-Fried Pardon
 
 **Author:** Decrypt Agent  
 **Published:** 7/16/2026, 8:34:03 AM  
