@@ -11,7 +11,79 @@ count: 19
 
 ---
 
-## 1. Coinbase’s Jesse Pollak hands Base app leadership to Cobie after admitting social bets fell short
+## 1. From Perpetual Swaps to Perpetual CFDs: The Regulated Evolution
+
+**Author:** The Block Research  
+**Published:** 7/15/2026, 11:19:00 PM  
+**Categories:** Markets  
+
+The 24/7 Trading Imperative Fixed exchange sessions are a structural mismatch with the global retail base. The NYSE opens at 9:30 a.m. Eastern and closes at 4:00 p.m., a window designed for an era when the participant base was concentrated in a single geography and order flow was physically intermed...
+
+📖 [Read original article](https://www.theblock.co/post/408553/from-perpetual-swaps-to-perpetual-cfds-the-regulated-evolution?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Stripe-PayPal deal could accelerate shift to blockchain-based money, Polygon exec says
+
+**Author:** RT Watson  
+**Published:** 7/15/2026, 9:41:07 PM  
+**Categories:** Companies, Deals, Equities, Finance firms, Market Updates, Markets, Mergers & Acquisitions, Analyst Reports, Equity Movers, Fintech, Private Company Mergers and Acquisitions  
+
+"Within the next few years the majority of money will live and move on blockchain in one form or another," according to Polygon Labs.
+
+📖 [Read original article](https://www.theblock.co/post/408525/stripe-paypal-deal-accelerate-stablecoins-blockchain?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Public Hyperliquid treasury firm Hyperion enters into new 500k HYPE bond agreement with Skew
+
+**Author:** Daniel Kuhn  
+**Published:** 7/15/2026, 9:33:12 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, DEXs  
+
+Hyperion will deploy 500,000 tokens to Skew through a HYPE Asset Use Service (HAUS) agreement in exchange for equity and revenue share.
+
+📖 [Read original article](https://www.theblock.co/post/408538/hyperliquid-treasury-firm-hyperion-new-500k-hype-bond-skew?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Strategy CEO says company isn’t going anywhere as bitcoin buyer, sees debt concerns only below $10,000 BTC
+
+**Author:** Yogita Khatri  
+**Published:** 7/15/2026, 9:08:05 PM  
+**Categories:** Companies, Markets, Public Equities, Strategy  
+
+Strategy would begin considering risks associated with its debt only if bitcoin falls to around $8,000-$10,000, CEO Phong Le said.
+
+📖 [Read original article](https://www.theblock.co/post/408532/strategy-ceo-bitcoin-debt-concerns-btc-interview?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. ‘Hugely positive’ meeting on Thursday with Trump to discuss ethics raises hopes for passage of sweeping crypto legislation
+
+**Author:** Sarah Wynn  
+**Published:** 7/15/2026, 8:03:29 PM  
+**Categories:** People, Policy, Regulation, U.S. Policymaking, Donald Trump, Senate Agriculture Committee, Senate Banking Committee  
+
+Ethics will be front and center Thursday at a meeting with President Donald Trump, a small group of lawmakers and White House staff.
+
+📖 [Read original article](https://www.theblock.co/post/408517/hugely-positive-meeting-thursday-trump-ethics-raises-hopes-passage-crypto-legislation?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. Benchmark says Securitize investors should ‘strip out the noise’ after post-SPAC selloff
+
+**Author:** Kyle Baird  
+**Published:** 7/15/2026, 7:49:50 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Equities, Markets, Web3, Analyst Reports, Tokenization  
+
+Separately, Securitize announced a partnership with Cantor Fitzgerald to support blockchain-based IPOs and secondary offerings.
+
+📖 [Read original article](https://www.theblock.co/post/408511/benchmark-says-securitize-investors-strip-out-noise-after-post-spac-selloff?utm_source=rss&utm_medium=rss)
+
+---
+
+## 7. Coinbase’s Jesse Pollak hands Base app leadership to Cobie after admitting social bets fell short
 
 **Author:** Daniel Kuhn  
 **Published:** 7/15/2026, 5:58:49 PM  
@@ -23,7 +95,7 @@ Coinbase executive Jesse Pollak will focus on Base blockchain's infrastructure, 
 
 ---
 
-## 2. BlackRock outlines vision for crypto-TradFi convergence as product pipeline grows
+## 8. BlackRock outlines vision for crypto-TradFi convergence as product pipeline grows
 
 **Author:** RT Watson  
 **Published:** 7/15/2026, 4:56:06 PM  
@@ -35,7 +107,7 @@ The firm seeks to offer tokenized long-term investments like "Treasury funds, iS
 
 ---
 
-## 3. Crypto clearinghouse Glacis Labs raises $6.8 million seed to expand ZeroDelta platform
+## 9. Crypto clearinghouse Glacis Labs raises $6.8 million seed to expand ZeroDelta platform
 
 **Author:** Yogita Khatri  
 **Published:** 7/15/2026, 4:43:07 PM  
@@ -47,7 +119,7 @@ Glacis aims to expand ZeroDelta, its multichain clearing platform for stablecoin
 
 ---
 
-## 4. Kraken Institutional taps Upshift to build vaults that earn yield on idle bitcoin, ETH and stablecoins
+## 10. Kraken Institutional taps Upshift to build vaults that earn yield on idle bitcoin, ETH and stablecoins
 
 **Author:** Daniel Kuhn  
 **Published:** 7/15/2026, 4:05:02 PM  
@@ -59,7 +131,7 @@ Upshift will build dedicated vaults tailored to each client’s specific investm
 
 ---
 
-## 5. ‘Bull markets everywhere’: Bitwise says crypto equities beat every major asset class but emerging markets in H1 2026
+## 11. ‘Bull markets everywhere’: Bitwise says crypto equities beat every major asset class but emerging markets in H1 2026
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/15/2026, 3:50:36 PM  
@@ -71,7 +143,7 @@ Crypto assets fell 36% while crypto equities gained 23% in the first half of the
 
 ---
 
-## 6. Ostium pauses trading after apparent $18 million vault exploit
+## 12. Ostium pauses trading after apparent $18 million vault exploit
 
 **Author:** Kyle Baird  
 **Published:** 7/15/2026, 3:47:52 PM  
@@ -83,7 +155,7 @@ Onchain data shows the Ostium attacker dispersing the stolen funds across multip
 
 ---
 
-## 7. William Blair cuts Coinbase forecasts but says crypto downturn nearing a bottom
+## 13. William Blair cuts Coinbase forecasts but says crypto downturn nearing a bottom
 
 **Author:** Kyle Baird  
 **Published:** 7/15/2026, 3:16:20 PM  
@@ -95,7 +167,7 @@ William Blair expects Coinbase's earnings to bottom in the second half of 2026 b
 
 ---
 
-## 8. Stani Kulechov on Aave V4, Avalanche, and why RWAs will hit $100 billion this year
+## 14. Stani Kulechov on Aave V4, Avalanche, and why RWAs will hit $100 billion this year
 
 **Author:** Jordan Leech  
 **Published:** 7/15/2026, 3:03:29 PM  
@@ -107,7 +179,7 @@ Aave Labs founder Stani Kulechov on V4's Avalanche debut, disrupting prime broke
 
 ---
 
-## 9. DTCC begins first tokenized stock and Treasury production trades involving JPMorgan, BlackRock and Goldman
+## 15. DTCC begins first tokenized stock and Treasury production trades involving JPMorgan, BlackRock and Goldman
 
 **Author:** James Hunt  
 **Published:** 7/15/2026, 1:54:22 PM  
@@ -119,7 +191,7 @@ JPMorgan will tokenize part of its Invesco QQQ Trust holdings held at DTCC, whil
 
 ---
 
-## 10. Core Scientific’s 75% return on AI deal isn’t the template for bitcoin miners, Bernstein says
+## 16. Core Scientific’s 75% return on AI deal isn’t the template for bitcoin miners, Bernstein says
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/15/2026, 1:38:56 PM  
@@ -131,7 +203,7 @@ Bernstein pegs TeraWulf at 5% and Cipher at 4% stabilized ROA, calling Core Scie
 
 ---
 
-## 11. Tokenization startup Tradable plans to bring $1 billion worth of private credit assets to Stellar
+## 17. Tokenization startup Tradable plans to bring $1 billion worth of private credit assets to Stellar
 
 **Author:** Daniel Kuhn  
 **Published:** 7/15/2026, 1:35:07 PM  
@@ -143,7 +215,7 @@ Stellar has become a top choice for institutional tokenization, including from t
 
 ---
 
-## 12. Bitmine says ETH staking generated $45.7 million, accounting for 98% of quarterly revenue
+## 18. Bitmine says ETH staking generated $45.7 million, accounting for 98% of quarterly revenue
 
 **Author:** Brian Danga  
 **Published:** 7/15/2026, 1:04:46 PM  
@@ -155,7 +227,7 @@ Bitmine generated $45.7 million from Ethereum staking, which accounted for 98% o
 
 ---
 
-## 13. How Crypto Venues Are Building Financial Operating Systems: Binance as a Super App
+## 19. How Crypto Venues Are Building Financial Operating Systems: Binance as a Super App
 
 **Author:** The Block Research  
 **Published:** 7/15/2026, 12:56:18 PM  
@@ -164,77 +236,5 @@ Bitmine generated $45.7 million from Ethereum staking, which accounted for 98% o
 From Trading Venue to Financial Operating System Across crypto&#8217;s largest venues, the fundamentals of execution, including pricing, depth, latency, and fees, are converging. These remain critical to the business and a precondition for competing at scale, but as they standardize across the top p...
 
 📖 [Read original article](https://www.theblock.co/post/408308/how-crypto-venues-are-building-financial-operating-systems-binance-as-a-super-app?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. Circle suspended Tether-backed fund over market manipulation concerns, arbitration filings show
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/15/2026, 12:23:46 PM  
-**Categories:** Companies, Crypto Ecosystems, Markets, Policy, Regulation, Stablecoins, Token Projects, Tether, USDC  
-
-Circle suspended Heka Funds over suspected market manipulation after learning Tether had invested $800 million in the arbitrage fund.
-
-📖 [Read original article](https://www.theblock.co/post/408377/circle-suspended-tether-backed-fund-over-market-manipulation-concerns-arbitration-filings-show?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Czech Republic moves to block Polymarket over unlicensed gambling
-
-**Author:** Brian Danga  
-**Published:** 7/15/2026, 10:45:44 AM  
-**Categories:** Policy, Regulation, Eurozone Regulation  
-
-The Czech Republic moved to block Polymarket, joining other European jurisdictions targeting prediction markets over unlicensed gambling.
-
-📖 [Read original article](https://www.theblock.co/post/408371/czech-republic-moves-to-block-polymarket-over-unlicensed-gambling?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Japan passes key bill recognizing crypto as financial product, lowering tax rate
-
-**Author:** Danny Park  
-**Published:** 7/15/2026, 9:47:33 AM  
-**Categories:** Policy, Regulation  
-
-The amendments establish the basis for separate crypto taxation at a rate of approximately 20%, down from the current maximum 55% rate.
-
-📖 [Read original article](https://www.theblock.co/post/408361/japan-passes-key-bill?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. US Treasury freezes over $130 million tied to Iran-linked crypto wallets
-
-**Author:** Brian Danga  
-**Published:** 7/15/2026, 8:44:27 AM  
-**Categories:** Crypto Ecosystems, Markets, Policy, Regulation, Stablecoins, Token Projects, U.S. Policymaking, Tether, Treasury Department  
-
-Treasury Secretary Scott Bessent says OFAC sanctioned multiple Iran-linked crypto wallets, freezing over $130 million.
-
-📖 [Read original article](https://www.theblock.co/post/408357/us-treasury-freezes-130-million-iran-linked-wallets?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. South Korea to bring crypto under new state asset management law
-
-**Author:** Danny Park  
-**Published:** 7/15/2026, 7:19:45 AM  
-**Categories:** Policy, Regulation  
-
-The Ministry of Finance and Economy said it will establish the 'National Asset Basic Act' to update the government's asset management system.
-
-📖 [Read original article](https://www.theblock.co/post/408350/south-korea-crypto-asset-management-law?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. TeraWulf falls 7% after New York orders one-year pause on new data center permits
-
-**Author:** Timmy Shen  
-**Published:** 7/15/2026, 5:10:00 AM  
-**Categories:** Companies, Policy, Regulation  
-
-TeraWulf said that its data centers in New York remain operational and that its ongoing development plans are unaffected.
-
-📖 [Read original article](https://www.theblock.co/post/408344/new-york-pause-new-data-center-permits-terawulf-falls?utm_source=rss&utm_medium=rss)
 
 ---
