@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-13"
 date: "2026-07-13"
 source: "Decrypt"
-count: 12
+count: 5
 ---
 
 # Decrypt - 2026-07-13
 
-12 items collected.
+5 items collected.
 
 ---
 
@@ -68,89 +68,5 @@ According to new Anthropic research, Claude consistently expresses different val
 Democrats are mounting a final case against the Clarity Act centered on its lack of language restricting Trump's sprawling crypto fortune.
 
 📖 [Read original article](https://decrypt.co/373419/democratic-opposition-clarity-act-grows-crypto-bill-final-weeks)
-
----
-
-## 6. Bolivia Is Considering Adding Tether's USDT Stablecoin to National Payments System: Report
-
-**Author:** Logan Hitchcock  
-**Published:** 7/13/2026, 6:57:19 PM  
-**Categories:** , Markets  
-
-South American nation Bolivia is considering the use of the largest dollar-backed stablecoin, USDT, per a local report.
-
-📖 [Read original article](https://decrypt.co/373410/bolivia-considering-tether-usdt-stablecoin-national-payments-system)
-
----
-
-## 7. 'The Odyssey' Director Chris Nolan: Young Audiences are Rejecting 'AI Slop'
-
-**Author:** Stephen Graves  
-**Published:** 7/13/2026, 5:16:44 PM  
-**Categories:** Artificial Intelligence  
-
-The younger generation's judgment of AI has been “immediate and harsh,” according to the Oscar-winning director.
-
-📖 [Read original article](https://decrypt.co/373401/the-odyssey-director-chris-nolan-ai-slop)
-
----
-
-## 8. Robinhood Chain's Early Momentum Is Being Driven By Meme Coins, Not Tokenized Stocks
-
-**Author:** André Beganski  
-**Published:** 7/13/2026, 4:59:36 PM  
-**Categories:** , Markets  
-
-Robinhood Chain traders are reaching for Tendies over Apple.
-
-📖 [Read original article](https://decrypt.co/373398/robinhood-chain-momentum-meme-coins-not-tokenized-stocks)
-
----
-
-## 9. This Is How Much Your Boyfriend Is Spending on AI Girlfriends
-
-**Author:** Jason Nelson  
-**Published:** 7/13/2026, 4:40:36 PM  
-**Categories:** Artificial Intelligence  
-
-Romantic AI companion apps have brought in nearly half a billion dollars as users pay for virtual partners, flirting, and digital intimacy.
-
-📖 [Read original article](https://decrypt.co/373395/how-much-your-boyfriend-spending-ai-girlfriends)
-
----
-
-## 10. BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand
-
-**Author:** Logan Hitchcock  
-**Published:** 7/13/2026, 3:22:10 PM  
-**Categories:** , , Markets  
-
-According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.
-
-📖 [Read original article](https://decrypt.co/373392/bitmine-buys-49-million-ethereum-tom-lee-hails-robinhood-chain-demand)
-
----
-
-## 11. Strategy Pads Cash Reserves to $3 Billion, Skipping Bitcoin Buy for Third Week
-
-**Author:** André Beganski  
-**Published:** 7/13/2026, 2:09:38 PM  
-**Categories:** , Business  
-
-Strategy went another week without buying Bitcoin, focusing instead on lifting its cash reserves to $3 billion via common stock proceeds.
-
-📖 [Read original article](https://decrypt.co/373381/strategy-pads-cash-reserves-3-billion-skipping-bitcoin-buy-third-week)
-
----
-
-## 12. Bank of Thailand Flags Abnormal Stablecoin Trades in 'Grey Economy' Crackdown
-
-**Author:** Decrypt Agent  
-**Published:** 7/13/2026, 1:56:36 PM  
-**Categories:** , , Law and Order  
-
-Data analytics flagged stablecoin transfers meant to evade scrutiny, the central bank says, handing the findings to the securities regulator.
-
-📖 [Read original article](https://decrypt.co/373380/bank-of-thailand-flags-abnormal-stablecoin-trades-in-grey-economy-crackdown)
 
 ---
