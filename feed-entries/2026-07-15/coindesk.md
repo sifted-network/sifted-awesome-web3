@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-07-15"
 date: "2026-07-15"
 source: "CoinDesk"
-count: 20
+count: 21
 ---
 
 # CoinDesk - 2026-07-15
 
-20 items collected.
+21 items collected.
 
 ---
 
-## 1. DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push
+## 1. Coinbase's Jesse Pollak steps back from Base app leadership after admitting his crypto social strategy failed
+
+**Author:** Margaux Nijkerk  
+**Published:** 7/15/2026, 8:18:02 PM  
+**Categories:** Finance, Coinbase, News  
+
+Pollak said that Jordan Fish, also known on X as 'Cobie,' will lead the Base app team.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/15/coinbase-s-jesse-pollak-steps-back-from-base-app-leadership-after-admitting-his-crypto-social-strategy-failed)
+
+---
+
+## 2. DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push
 
 **Author:** Helene Braun  
 **Published:** 7/15/2026, 5:02:22 PM  
@@ -23,7 +35,7 @@ DTCC's first live production trades using tokenized securities show how blockcha
 
 ---
 
-## 2. Cantor and Securitize collaborate on blockchain-based IPOs
+## 3. Cantor and Securitize collaborate on blockchain-based IPOs
 
 **Author:** Ian Allison  
 **Published:** 7/15/2026, 4:52:28 PM  
@@ -35,7 +47,7 @@ The move creates a pathway for public companies to raise capital onchain and iss
 
 ---
 
-## 3. Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi
+## 4. Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi
 
 **Author:** Oliver Knight  
 **Published:** 7/15/2026, 3:27:43 PM  
@@ -47,7 +59,7 @@ A hacker used Ostium's own price-reporting infrastructure against the protocol, 
 
 ---
 
-## 4. The privacy paradox of protecting kids online
+## 5. The privacy paradox of protecting kids online
 
 **Author:** Frederik Gregaard  
 **Published:** 7/15/2026, 2:58:50 PM  
@@ -59,7 +71,7 @@ We don’t need to imagine the privacy pitfalls of age verification. They’ve b
 
 ---
 
-## 5. Crypto Long & Short: To ETH or not to ETH — is SOL the better diversifier?
+## 6. Crypto Long & Short: To ETH or not to ETH — is SOL the better diversifier?
 
 **Author:** Denny Galindo  
 **Published:** 7/15/2026, 2:58:09 PM  
@@ -71,11 +83,11 @@ In this week's, Morgan Stanley’s Denny Galindo writes that as the crypto marke
 
 ---
 
-## 6. President Trump expected to meet with senators to work on ethics concerns in crypto bill
+## 7. President Trump expected to meet with senators to work on ethics concerns in crypto bill
 
 **Author:** Jesse Hamilton  
 **Published:** 7/15/2026, 2:37:36 PM  
-**Categories:** Policy, Donald Trump, Clarity Act, News  
+**Categories:** Policy, Donald Trump, Clarity Act, Exclusive, News  
 
 The most contentious piece of the crypto market structure bill is unresolved in the final weeks of Senate runway, and the president is expected to discuss it.
 
@@ -83,7 +95,7 @@ The most contentious piece of the crypto market structure bill is unresolved in 
 
 ---
 
-## 7. South Korea to modify 76-year-old law to classify cryptocurrencies as national assets
+## 8. South Korea to modify 76-year-old law to classify cryptocurrencies as national assets
 
 **Author:** Olivier Acuna  
 **Published:** 7/15/2026, 2:35:26 PM  
@@ -95,7 +107,7 @@ The government also reaffirmed plans to pilot tokenized government bonds next ye
 
 ---
 
-## 8. Open USD poses biggest threat yet to Circle's USDC, CoinShares says
+## 9. Open USD poses biggest threat yet to Circle's USDC, CoinShares says
 
 **Author:** Will Canny,AI Boost  
 **Published:** 7/15/2026, 2:03:54 PM  
@@ -107,7 +119,7 @@ The consortium-backed stablecoin would share reserve income with partners instea
 
 ---
 
-## 9. A timeline of the Ethereum Foundation's ongoing shakeup
+## 10. A timeline of the Ethereum Foundation's ongoing shakeup
 
 **Author:** Margaux Nijkerk  
 **Published:** 7/15/2026, 1:19:48 PM  
@@ -119,7 +131,7 @@ In this week's edition of The Protocol Newsletter, we’re unpacking the timelin
 
 ---
 
-## 10. BlackRock's crypto assets fall 39% despite $15 billion of net inflows
+## 11. BlackRock's crypto assets fall 39% despite $15 billion of net inflows
 
 **Author:** Helene Braun,Francisco Rodrigues  
 **Published:** 7/15/2026, 12:12:01 PM  
@@ -131,7 +143,7 @@ BlackRock's digital asset funds attracted $15 billion in net inflows over the pa
 
 ---
 
-## 11. The launchpad that fueled Robinhood Chain's memecoin boom just gave away all its revenue
+## 12. The launchpad that fueled Robinhood Chain's memecoin boom just gave away all its revenue
 
 **Author:** Oliver Knight  
 **Published:** 7/15/2026, 12:11:58 PM  
@@ -143,7 +155,7 @@ Noxa, the launchpad behind CASHCAT's rise, racked up nearly $12 million in fees 
 
 ---
 
-## 12. Japan reclassifies crypto as a financial asset, paves way for tax cuts
+## 13. Japan reclassifies crypto as a financial asset, paves way for tax cuts
 
 **Author:** Olivier Acuna  
 **Published:** 7/15/2026, 12:05:33 PM  
@@ -155,7 +167,7 @@ Lawmakers said crypto has outgrown its role as a payment method and requires rul
 
 ---
 
-## 13. Strategy feels 'very secure' until bitcoin reaches $8,000-$10,000, says CEO
+## 14. Strategy feels 'very secure' until bitcoin reaches $8,000-$10,000, says CEO
 
 **Author:** Jamie Crawley  
 **Published:** 7/15/2026, 12:00:33 PM  
@@ -167,7 +179,7 @@ Le highlighted increasing the U.S.-dollar reserve as an important lever in prefe
 
 ---
 
-## 14. Bitcoin rally cools as investors digest inflation data, oil clouds outlook
+## 15. Bitcoin rally cools as investors digest inflation data, oil clouds outlook
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/15/2026, 11:46:06 AM  
@@ -179,7 +191,7 @@ Your day-ahead look for July 15, 2026
 
 ---
 
-## 15. Crypto steadies as Middle East tensions counter U.S. inflation report boost
+## 16. Crypto steadies as Middle East tensions counter U.S. inflation report boost
 
 **Author:** Oliver Knight,Saksham Diwan  
 **Published:** 7/15/2026, 11:05:49 AM  
@@ -191,7 +203,7 @@ Bitcoin held steady at a three-week high as rising tensions between the U.S. and
 
 ---
 
-## 16. Stripe mounts blockbuster $53 billion bid to buy PayPal
+## 17. Stripe mounts blockbuster $53 billion bid to buy PayPal
 
 **Author:** Jamie Crawley  
 **Published:** 7/15/2026, 10:41:39 AM  
@@ -203,7 +215,7 @@ The bid, made together with Advent, follows an earlier expression of interest. P
 
 ---
 
-## 17. Live updates: Bitcoin tops $65,000 as markets get more good inflation news
+## 18. Live updates: Bitcoin rises near $65,000 as markets get more good inflation news
 
 **Author:** Shaurya Malwa,Helene Braun  
 **Published:** 7/15/2026, 8:29:18 AM  
@@ -215,7 +227,7 @@ U.S. spot bitcoin ETFs took in about $181 million on Tuesday, a day after sheddi
 
 ---
 
-## 18. UK plans first G7 digital sovereign bond by early 2027
+## 19. UK plans first G7 digital sovereign bond by early 2027
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/15/2026, 8:16:34 AM  
@@ -227,7 +239,7 @@ The security will launch on HSBC’s Orion platform within the BoE and FCA’s D
 
 ---
 
-## 19. AI agentic payments enter mainstream as Visa, Mastercard, Ripple back x402 standard
+## 20. AI agentic payments enter mainstream as Visa, Mastercard, Ripple back x402 standard
 
 **Author:** Shaurya Malwa  
 **Published:** 7/15/2026, 6:05:24 AM  
@@ -239,7 +251,7 @@ Forty companies now govern x402, the protocol Coinbase built and handed away. It
 
 ---
 
-## 20. Bitcoin nears $65,000 as cooling U.S. inflation guts the Fed rate-hike trade
+## 21. Bitcoin nears $65,000 as cooling U.S. inflation guts the Fed rate-hike trade
 
 **Author:** Shaurya Malwa  
 **Published:** 7/15/2026, 5:19:14 AM  
