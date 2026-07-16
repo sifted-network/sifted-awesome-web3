@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-14"
 date: "2026-07-14"
 source: "Cointelegraph"
-count: 10
+count: 7
 ---
 
 # Cointelegraph - 2026-07-14
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ The companies will explore using USDC for JCB’s cross-border treasury operatio
 The Bitcoin miner’s Georgia agreement with an undisclosed investment-grade technology company expands its footprint in AI and high-performance computing infrastructure.
 
 📖 [Read original article](https://cointelegraph.com/news/cleanspark-shares-jump-after-georgia-data-center-lease?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Anchorage Digital expands Tron support with institutional TRX staking
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 7/14/2026, 3:00:00 PM  
-**Categories:** Latest News  
-
-Institutions can now stake Tron's native token directly from Anchorage's custody platform as the company expands support for one of the largest USDT settlement networks.
-
-📖 [Read original article](https://cointelegraph.com/news/anchorage-digital-expands-tron-support-with-institutional-trx-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/14/2026, 2:53:13 PM  
-**Categories:** Markets  
-
-BTC price action returned to $64,000 on low US CPI inflation, but traders remained wary of rejection at key resistance.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-jumps-on-lowest-us-cpi-since-2020-as-traders-stay-wary-of-64k-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. OpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/14/2026, 1:30:06 PM  
-**Categories:** Latest News  
-
-OpenAI’s ChatGPT now displays Kalshi’s World Cup prediction market odds in search results, marking the AI firm’s first reported deal with a prediction market platform.
-
-📖 [Read original article](https://cointelegraph.com/news/openai-kalshi-prediction-markets-world-cup-chatgpt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
