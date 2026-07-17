@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-16"
 date: "2026-07-16"
 source: "The Block"
-count: 15
+count: 9
 ---
 
 # The Block - 2026-07-16
 
-15 items collected.
+9 items collected.
 
 ---
 
@@ -116,77 +116,5 @@ Open Standard's stablecoin is expected to become a major competitor to Circle's 
 DOJ indicted Sioux Falls crypto investor Benjamin Paul Wiener on 29 counts over an alleged $20 million fraud, with a trial set for Sept. 15.
 
 📖 [Read original article](https://www.theblock.co/post/408654/us-jury-indicts-south-dakota-crypto-investor-29-counts-alleged-20m-investor-fraud?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. SBI extends onchain finance push with Ondo deal to tokenize Japanese stocks
-
-**Author:** Kyle Baird  
-**Published:** 7/16/2026, 2:59:02 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Markets, Web3, Tokenization  
-
-Japan's SBI Holdings will use JPYSC for settlement and collateral while distributing Ondo products through its network.
-
-📖 [Read original article](https://www.theblock.co/post/408633/sbi-extends-onchain-finance-push-with-ondo-deal-tokenize-japanese-stocks?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Keyrock closes deal for BlockFills’ institutional trading and brokerage assets
-
-**Author:** Daniel Kuhn  
-**Published:** 7/16/2026, 2:42:26 PM  
-**Categories:** Bankruptcy, Companies, Deals, Mergers & Acquisitions, Bankruptcy Filings, Private Company Mergers and Acquisitions  
-
-The Brussels-based firm was earlier selected as the buyer for $3.25 million in BlockFills’ Chapter 11 bankruptcy process.
-
-📖 [Read original article](https://www.theblock.co/post/408639/keyrock-closes-deal-blockfill-institutional-trading-brokerage-assets?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Polygon Labs announces second round of layoffs in 2026 as firm looks to finalize Coinme acquisition
-
-**Author:** Daniel Kuhn  
-**Published:** 7/16/2026, 1:47:51 PM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Layer 2s and Scaling, Markets, People, Token Projects, Fintech, Hiring, Polygon  
-
-"Two rounds of changes in one year is a lot to ask of a team, and I understand it is hard to manage," Polygon Labs CEO Marc Boiron said.
-
-📖 [Read original article](https://www.theblock.co/post/408625/polygon-labs-second-round-of-layoffs-2026-finalize-coinme-acquisition?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Ledger unveils hardware-backed Agent Stack to prevent rogue AI transactions
-
-**Author:** Daniel Kuhn  
-**Published:** 7/16/2026, 1:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, Security, Web3, AI, Exploits, Wallet Makers  
-
-With Ledger Agent Stack, users can deploy bots to read balances, suggest transactions, prepare swaps and draft operations.
-
-📖 [Read original article](https://www.theblock.co/post/408549/ledger-unveils-hardware-backed-agent-stack?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. MoonPay acquires Y Combinator-backed crypto deposits startup Glide in all-equity deal
-
-**Author:** Yogita Khatri  
-**Published:** 7/16/2026, 1:00:00 PM  
-**Categories:** Companies, Deals, Mergers & Acquisitions, Private Company Mergers and Acquisitions  
-
-Crypto unicorn MoonPay has acquired Glide, a Y Combinator-backed crypto deposits startup, in an all-equity deal.
-
-📖 [Read original article](https://www.theblock.co/post/408603/moonpay-acquires-y-combinator-crypto-glide-all-equity-deal?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Dune research finds 85% of concentrated DeFi liquidity is underutilized, with $150M in annual fees foregone
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/16/2026, 12:50:02 PM  
-**Categories:** Crypto Ecosystems, DeFi, Markets, exclusive  
-
-Dune research commissioned by 1inch finds 85% of concentrated DeFi liquidity underutilized, with $150M in annual fees forgone.
-
-📖 [Read original article](https://www.theblock.co/post/408591/dune-research-finds-85-of-concentrated-defi-liquidity-is-underutilized-with-150m-in-annual-fees-foregone?utm_source=rss&utm_medium=rss)
 
 ---
