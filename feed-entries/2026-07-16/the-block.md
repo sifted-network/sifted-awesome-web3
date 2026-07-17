@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-16"
 date: "2026-07-16"
 source: "The Block"
-count: 20
+count: 18
 ---
 
 # The Block - 2026-07-16
 
-20 items collected.
+18 items collected.
 
 ---
 
@@ -224,29 +224,5 @@ ORANGE JUICE raised $40 million to acquire businesses, pursue a bitcoin treasury
 Volvo Group's proprietary cryptocurrency project remains in the ideation stage and is not yet industrialized.
 
 📖 [Read original article](https://www.theblock.co/post/408586/volvo-group-tests-proprietary-cryptocurrency?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. Lummis, Gallego secure unanimous Senate approval opposing Sam Bankman-Fried clemency
-
-**Author:** Brian Danga  
-**Published:** 7/16/2026, 9:21:09 AM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Legal, Markets, People, Policy, Regulation, U.S. Policymaking, Sam Bankman-Fried, SBF Trial, Senate Banking Committee  
-
-The U.S. Senate unanimously approved a resolution opposing a presidential pardon or commutation for convicted FTX founder Sam Bankman-Fried.
-
-📖 [Read original article](https://www.theblock.co/post/408581/lummis-gallego-secure-unanimous-senate-approval-opposing-sam-bankman-fried-clemency?utm_source=rss&utm_medium=rss)
-
----
-
-## 20. Visa says stablecoins will power micro-commerce in AI agentic economy
-
-**Author:** Danny Park  
-**Published:** 7/16/2026, 8:29:18 AM  
-**Categories:** Crypto Ecosystems, Markets, Web3  
-
-Visa said it expects agentic commerce to integrate a hybrid flow that combines both card and stablecoin rails at different stages of a task.
-
-📖 [Read original article](https://www.theblock.co/post/408574/visa-stablecoins-agentic-ai-commerce?utm_source=rss&utm_medium=rss)
 
 ---
