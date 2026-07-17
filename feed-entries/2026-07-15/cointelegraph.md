@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-15"
 date: "2026-07-15"
 source: "Cointelegraph"
-count: 9
+count: 2
 ---
 
 # Cointelegraph - 2026-07-15
 
-9 items collected.
+2 items collected.
 
 ---
 
@@ -32,89 +32,5 @@ Researchers found that Polymarket’s five-minute Bitcoin prediction markets cre
 Dubai’s Virtual Assets Regulatory Authority approved the London-headquartered fintech company for broker-dealer, management and investment, and exchange services in the UAE.
 
 📖 [Read original article](https://cointelegraph.com/news/revolut-approval-uae-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. US senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 7/15/2026, 5:56:00 PM  
-**Categories:** Latest News  
-
-President Donald Trump’s pick for attorney general faced criticism from members of the Senate Judiciary Committee on his approach to crypto enforcement and the pardon of former Binance CEO Changpeng Zhao.
-
-📖 [Read original article](https://cointelegraph.com/news/todd-blanche-hearing-dismantling-justice-crypto-unit-donald-trumps-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Ostium pauses trading as security firms report multimillion-dollar oracle exploit
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 7/15/2026, 5:14:21 PM  
-**Categories:** Latest News  
-
-Ostium halted trading and advised revoking contract approvals after blockchain security firms reported an apparent oracle-related exploit of its OLP liquidity vault, with estimated losses ranging from $18 million to $22 million.
-
-📖 [Read original article](https://cointelegraph.com/news/ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 7/15/2026, 4:29:39 PM  
-**Categories:** Latest News  
-
-The deployment marks Aave V4’s first expansion beyond Ethereum and introduces lending infrastructure designed to support future markets for tokenized real-world assets.
-
-📖 [Read original article](https://cointelegraph.com/news/aave-brings-v4-to-avalanche-laying-groundwork-for-tokenized-asset-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Securitize, Cantor target tokenized IPOs for public markets
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 7/15/2026, 3:59:36 PM  
-**Categories:** Latest News  
-
-Securitize and Cantor Fitzgerald are developing infrastructure for tokenized IPOs and secondary equity offerings within the existing US securities framework.
-
-📖 [Read original article](https://cointelegraph.com/news/securitize-cantor-target-tokenized-ipos-for-public-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/15/2026, 2:45:28 PM  
-**Categories:** Markets  
-
-Bitcoin moved up to its highest levels since June 22 as US PPI inflation numbers provided the week’s second surprise macro data drop.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-hits-655k-as-more-surprise-us-inflation-data-sparks-three-week-btc-price-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Is Robinhood Chain’s success bullish or bearish for ETH the asset?
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 7/15/2026, 1:30:00 PM  
-**Categories:** Features  
-
-Surging volumes on Robinhood Chain could be very good for Ethereum, but only if the “ETH is money” crowd turn out to be right.
-
-📖 [Read original article](https://cointelegraph.com/features/has-robinhoods-layer-2-given-eth-a-new-bull-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Crypto firms face AML risks during post-MiCA migration, says AMLA chair
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/15/2026, 1:08:43 PM  
-**Categories:** Latest News  
-
-AMLA is expanding its crypto oversight as firms complete the transition to the EU’s MiCA licensing regime.
-
-📖 [Read original article](https://cointelegraph.com/news/amla-customer-migration-strain-mica-licensed-casps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
