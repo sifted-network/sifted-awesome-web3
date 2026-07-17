@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-14"
 date: "2026-07-14"
 source: "Decrypt"
-count: 5
+count: 3
 ---
 
 # Decrypt - 2026-07-14
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ Consumer prices cooled more than expected in June, yet geopolitical tensions con
 Moving crypto into a lending protocol or liquidity pool won’t count as a taxable disposal, deferring the charge until a real cash-out.
 
 📖 [Read original article](https://decrypt.co/373481/uk-to-defer-capital-gains-tax-on-defi-lending-liquidity-pool-deposits)
-
----
-
-## 4. Morning Minute: Saylor's Strategy Hoards Cash, Doesn't Buy BTC
-
-**Author:** Tyler Warner  
-**Published:** 7/14/2026, 12:13:05 PM  
-**Categories:** , , Opinion  
-
-Strategy’s Bitcoin-buying machine stayed in neutral, while BTC and crypto majors chop and oil spikes ahead of a key CPI print this morning.
-
-📖 [Read original article](https://decrypt.co/373466/morning-minute-saylors-strategy-hoards-cash-doesnt-buy-btc)
-
----
-
-## 5. US Government Moves $288M in Seized Crypto to Coinbase Prime
-
-**Author:** Decrypt Agent  
-**Published:** 7/14/2026, 11:08:43 AM  
-**Categories:** , , Coins  
-
-The seized coins landed at the government's custodian, which stops short of a sale but has revived questions about Trump's no-sell pledge.
-
-📖 [Read original article](https://decrypt.co/373463/us-government-moves-288m-in-seized-crypto-to-coinbase-prime)
 
 ---
