@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-16"
 date: "2026-07-16"
 source: "CoinDesk"
-count: 16
+count: 11
 ---
 
 # CoinDesk - 2026-07-16
 
-16 items collected.
+11 items collected.
 
 ---
 
@@ -140,65 +140,5 @@ The crypto financial services firm launched Galaxy Curator, a Morpho-based platf
 Your day-ahead look for July 18, 2026
 
 📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/16/the-most-popular-bitcoin-call-option-has-slipped-by-usd10-000)
-
----
-
-## 12. Inside the high-stakes race to build an open financial system specifically for AI bots
-
-**Author:** Ian Allison  
-**Published:** 7/16/2026, 11:22:37 AM  
-**Categories:** Finance, Artificial Intelligence, Coinbase, Mastercard, Stripe, News  
-
-The newly-convened x402 Foundation is a neutral space where competitors and payment methods can work together to create an open standard for AI agentic commerce.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/16/ai-payments-have-a-new-open-standards-body-its-aim-is-to-reinvent-the-internet)
-
----
-
-## 13. Bitcoin pulls back to $64,000 after hitting monthly high as bears take control
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 7/16/2026, 10:35:56 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Profit-taking after bitcoin hit a $65,500 monthly high combined with fresh Iranian strikes on U.S. bases sent crypto lower, with bears leading price action across most tokens.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/16/bitcoin-pulls-back-to-usd64-000-after-hitting-monthly-high-as-bears-take-control)
-
----
-
-## 14. Tether invests $20 million in Argentine neobank Ualá as it expands Latin America push
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/16/2026, 10:12:05 AM  
-**Categories:** Finance, Tether, News  
-
-Ualá’s CEO clarified Tether is acting solely as a financial investor, citing current regional regulations preventing any immediate USDT integration.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/16/tether-invests-usd20-million-in-argentine-neobank-uala-as-it-expands-latin-america-push)
-
----
-
-## 15. U.S. adds four Iran central bank crypto wallets to sanctions, Tether freezes $131 million of contents
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/16/2026, 10:07:06 AM  
-**Categories:** Finance, Tether, Iran, News  
-
-The freeze targets TRON-based addresses that held over $165 million, preventing those specific funds from being transferred or redeemed.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/16/u-s-adds-four-iran-central-bank-crypto-wallets-to-sanctions-tether-freezes-usd131-million-of-contents)
-
----
-
-## 16. Live updates: Bitcoin holding $64,000 as AI momentum stocks continue to tumble
-
-**Author:** Omkar Godbole,Shaurya Malwa,Helene Braun  
-**Published:** 7/16/2026, 6:20:00 AM  
-**Categories:** Markets, Live News, live_news  
-
-Blockchain investigator ZachXBT came down heavily on hardware wallets. BTC traded steady near $65,000 after South Korea's rate hike.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000)
 
 ---
