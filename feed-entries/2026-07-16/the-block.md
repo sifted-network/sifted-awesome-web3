@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-16"
 date: "2026-07-16"
 source: "The Block"
-count: 18
+count: 15
 ---
 
 # The Block - 2026-07-16
 
-18 items collected.
+15 items collected.
 
 ---
 
@@ -188,41 +188,5 @@ Crypto unicorn MoonPay has acquired Glide, a Y Combinator-backed crypto deposits
 Dune research commissioned by 1inch finds 85% of concentrated DeFi liquidity underutilized, with $150M in annual fees forgone.
 
 📖 [Read original article](https://www.theblock.co/post/408591/dune-research-finds-85-of-concentrated-defi-liquidity-is-underutilized-with-150m-in-annual-fees-foregone?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Tether invests $20 million in Ualá as the fintech firm reaches $3.2 billion valuation
-
-**Author:** Brian Danga  
-**Published:** 7/16/2026, 12:46:06 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Finance firms, Lobbying, Markets, Policy, Stablecoins, Token Projects, Fintech, Fundraising, Tether  
-
-Tether invested $20 million in Argentine neobank Ualá, joining a $197 million funding round that valued the fintech at $3.2 billion.
-
-📖 [Read original article](https://www.theblock.co/post/408604/tether-invests-20-million-in-uala-as-the-fintech-firm-reaches-3-2-billion-valuation?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Jeff Booth, Lyn Alden-backed ORANGE JUICE raises $40 million to launch permanent capital firm with bitcoin treasury strategy
-
-**Author:** Brian Danga  
-**Published:** 7/16/2026, 11:25:49 AM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Lobbying, Markets, Policy, Token Projects, Bitcoin, Fundraising  
-
-ORANGE JUICE raised $40 million to acquire businesses, pursue a bitcoin treasury strategy, and implement a permanent capital ownership model.
-
-📖 [Read original article](https://www.theblock.co/post/408594/jeff-booth-lyn-alden-backed-orange-juice-raises-40-million-to-launch-permanent-capital-firm-with-bitcoin-treasury-strategy?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. Volvo Group tests proprietary cryptocurrency for supplier transactions in blockchain push
-
-**Author:** Danny Park  
-**Published:** 7/16/2026, 9:56:49 AM  
-**Categories:** Companies  
-
-Volvo Group's proprietary cryptocurrency project remains in the ideation stage and is not yet industrialized.
-
-📖 [Read original article](https://www.theblock.co/post/408586/volvo-group-tests-proprietary-cryptocurrency?utm_source=rss&utm_medium=rss)
 
 ---
