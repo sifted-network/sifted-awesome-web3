@@ -2,16 +2,88 @@
 title: "Cointelegraph - 2026-07-17"
 date: "2026-07-17"
 source: "Cointelegraph"
-count: 14
+count: 20
 ---
 
 # Cointelegraph - 2026-07-17
 
-14 items collected.
+20 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. OKX Europe lets users convert USDT to MiCA-compliant USDC
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/17/2026, 4:54:37 PM  
+**Categories:** Latest News  
+
+The feature offers European customers a voluntary path away from Tether’s USDT as MiCA rules reshape the region’s stablecoin market.
+
+📖 [Read original article](https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/17/2026, 4:48:22 PM  
+**Categories:** Latest News  
+
+With the Senate likely voting on a crypto bill within days, Elizabeth Warren asked for information on Donald Trump’s earnings between January and July ahead of a 2027 deadline.
+
+📖 [Read original article](https://cointelegraph.com/news/senator-warren-2026-reporting-donald-trump-crypto-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/17/2026, 2:37:39 PM  
+**Categories:** Markets  
+
+Bitcoin saw a key rejection at local highs before reversing lower, moving with stocks for a second day as US-Iran war downside took its toll.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. HSBC wins Bank of England approval to enter Digital Securities Sandbox
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 7/17/2026, 1:54:27 PM  
+**Categories:** Latest News  
+
+The Bank of England approved HSBC Orion to go live in its Digital Securities Sandbox, with the first Digital Gilt Instrument transaction expected in the first quarter of 2027.
+
+📖 [Read original article](https://cointelegraph.com/news/hsbc-bank-of-england-approval-digital-securities-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. SBI acquires Singaporean crypto platform Coinhako after MAS approval
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 7/17/2026, 1:30:20 PM  
+**Categories:** Latest News  
+
+SBI Holdings received regulatory approval to acquire a majority stake in Singapore-based crypto exchange Coinhako as it expands into stablecoins, onchain finance and tokenized assets.
+
+📖 [Read original article](https://cointelegraph.com/news/sbi-receives-mas-approval-to-acquire-singaporean-coinhako?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 7/17/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+Kraken, Bitstamp, 1inch and Bitfinex have all set up shop in the British Virgin Islands — but you might find it tricky to book an on-site meeting with one of their executives.
+
+📖 [Read original article](https://cointelegraph.com/magazine/why-is-the-british-virgin-islands-becoming-a-legal-home-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/17/2026, 12:30:36 PM  
@@ -23,7 +95,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Dutch court declares crypto platform Knaken bankrupt over missing funds
+## 8. Dutch court declares crypto platform Knaken bankrupt over missing funds
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/17/2026, 12:21:55 PM  
@@ -35,7 +107,7 @@ The Rotterdam court said bankruptcy was necessary to ensure an orderly settlemen
 
 ---
 
-## 3. Stablecoin growth will erode bank deposits, says ECB’s Cipollone
+## 9. Stablecoin growth will erode bank deposits, says ECB’s Cipollone
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/17/2026, 12:03:51 PM  
@@ -47,7 +119,7 @@ ECB’s Piero Cipollone said stablecoin adoption could erode bank deposits, but 
 
 ---
 
-## 4. UK sentences 2 hackers tied to $115M crypto ransom scheme
+## 10. UK sentences 2 hackers tied to $115M crypto ransom scheme
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/17/2026, 11:22:55 AM  
@@ -59,7 +131,7 @@ The pair pleaded guilty after investigators linked them to the Scattered Spider 
 
 ---
 
-## 5. ESMA adds 14 new CASPs to MiCA register as licensing slows
+## 11. ESMA adds 14 new CASPs to MiCA register as licensing slows
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/17/2026, 10:29:35 AM  
@@ -71,7 +143,7 @@ ESMA adds 14 CASPs to its MiCA register, with banks and Ripple Payments Europe a
 
 ---
 
-## 6. Bitcoin bottom countdown nears 50 days after BTC supply in loss passed 50%
+## 12. Bitcoin bottom countdown nears 50 days after BTC supply in loss passed 50%
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/17/2026, 9:51:33 AM  
@@ -83,7 +155,7 @@ Bitcoin supply in loss hit 50% nearly 50 days ago, mimicking the countdown to BT
 
 ---
 
-## 7. US indicts crypto investor over alleged $20M fraud scheme
+## 13. US indicts crypto investor over alleged $20M fraud scheme
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/17/2026, 9:25:33 AM  
@@ -95,7 +167,7 @@ Federal prosecutors allege the South Dakota investor used false promises to rais
 
 ---
 
-## 8. MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist
+## 14. MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/17/2026, 8:48:20 AM  
@@ -107,7 +179,7 @@ A macOS malware steals credentials to hijack Telegram sessions, decrypt cryptocu
 
 ---
 
-## 9. Bitcoin ETFs add $368M in three-day buying streak
+## 15. Bitcoin ETFs add $368M in three-day buying streak
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/17/2026, 7:23:02 AM  
@@ -119,7 +191,7 @@ US spot Bitcoin ETFs attracted $79.2 million on Thursday, lifting their three-da
 
 ---
 
-## 10. Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’
+## 16. Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/17/2026, 5:54:04 AM  
@@ -131,7 +203,7 @@ US spot Bitcoin ETFs attracted $79.2 million on Thursday, lifting their three-da
 
 ---
 
-## 11. Crypto exchange Bybit launches in Indonesia after NOBI acquisition
+## 17. Crypto exchange Bybit launches in Indonesia after NOBI acquisition
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/17/2026, 4:16:32 AM  
@@ -143,7 +215,7 @@ The launch gives Bybit a locally operated platform in one of Asia’s largest cr
 
 ---
 
-## 12. Trump Media sells Wall Street low-latency access to Trump posts
+## 18. Trump Media sells Wall Street low-latency access to Trump posts
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/17/2026, 2:23:40 AM  
@@ -155,7 +227,7 @@ The paid Truth API is aimed at high-frequency trading firms seeking “the faste
 
 ---
 
-## 13. Balaji seeks Malaysia deal, threatens exit after Network School probe
+## 19. Balaji seeks Malaysia deal, threatens exit after Network School probe
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/17/2026, 1:54:00 AM  
@@ -167,7 +239,7 @@ The paid Truth API is aimed at high-frequency trading firms seeking “the faste
 
 ---
 
-## 14. Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price
+## 20. Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price
 
 **Author:** Cointelegraph by Ray Salmond  
 **Published:** 7/17/2026, 12:12:40 AM  
