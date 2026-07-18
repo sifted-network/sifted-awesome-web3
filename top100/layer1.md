@@ -15,7 +15,7 @@
 | 7 | [Image-Classifier](https://github.com/mudigosa/Image-Classifier) | 42 | 14 | Jupyter Notebook | 5 | Image Classifier  Going forward, AI algorithms will be incorporated into more and more everyday applications. For example, you might want to include an image classifier in a smartphone app. To do this... | 2019-02-01 |
 | 8 | [Seismic](https://github.com/MeoMunDep/Seismic) | 40 | 1 | Shell | 0 | Auto deploy nft, token, transfer faucet, lend, borrow, rent tokens, connect wallets.  | 2025-11-16 |
 | 9 | [XRPLEVM](https://github.com/MeoMunDep/XRPLEVM) | 33 | 0 | JavaScript | 0 | Auto deploy, send, burn, swap, bridge, add liquid pool, mint tokens.  | 2025-09-29 |
-| 10 | [3DP](https://github.com/3Dpass/3DP) | 30 | 22 | Rust | 8 | The Implementation of The Ledger of Things Node. Layer 1 decentralized blockchain platform for the tokenization of objects. Proof of Scan protocol. Useful smart-contracts and dApps.  | 2026-04-06 |
+| 10 | [3DP](https://github.com/3Dpass/3DP) | 30 | 23 | Rust | 8 | The Implementation of The Ledger of Things Node. Layer 1 decentralized blockchain platform for the tokenization of objects. Proof of Scan protocol. Useful smart-contracts and dApps.  | 2026-04-06 |
 | 11 | [OG-Labs](https://github.com/MeoMunDep/OG-Labs) | 26 | 0 | JavaScript | 0 | Auto swap, faucet. [100 STARS TO UNLOCK] | 2025-06-04 |
 | 12 | [k2-release](https://github.com/koii-network/k2-release) | 21 | 12 | Shell | 2 | K2 is the current settlement layer within Koii and provides the functionality of a message hub to other systems in the network. Thanks to the incredible work of the Solana Labs team, K2 is able to use... | 2025-01-05 |
 | 13 | [Layer1](https://github.com/kostasgrlondon/Layer1) | 19 | 0 | - | 0 |  | 2024-05-25 |
@@ -24,14 +24,14 @@
 | 16 | [shardeum-docs](https://github.com/shardeum/shardeum-docs) | 14 | 9 | MDX | 0 | Official Shardeum Documentation | 2026-04-21 |
 | 17 | [Acki-Nacki](https://github.com/MeoMunDep/Acki-Nacki) | 12 | 0 | Shell | 0 | Auto farm, do tasks, update mamaboard, claim frens points, claim boost points. | 2026-06-15 |
 | 18 | [Injective](https://github.com/MeoMunDep/Injective) | 11 | 0 | - | 0 | Auto stake, swap, wrap, supply, withdraw, borrow, repay, add liquidity. [FOR SALE] | 2025-12-23 |
-| 19 | [QNet-Blockchain](https://github.com/AIQnetLab/QNet-Blockchain) | 10 | 0 | Rust | 1 | Post-Quantum Decentralized Network | 2026-07-16 |
+| 19 | [QNet-Blockchain](https://github.com/AIQnetLab/QNet-Blockchain) | 10 | 0 | Rust | 1 | Post-Quantum Decentralized Network | 2026-07-17 |
 | 20 | [Layer1](https://github.com/anyashechka/Layer1) | 9 | 0 | - | 0 |  | 2024-06-06 |
 | 21 | [MegaETH](https://github.com/MeoMunDep/MegaETH) | 9 | 0 | JavaScript | 0 | Auto all. | 2025-06-03 |
 | 22 | [safrochain-node](https://github.com/Safrochain-Org/safrochain-node) | 8 | 11 | Go | 2 | Safrochain-node is the core Cosmos SDK-based Layer1 blockchain. | 2026-07-15 |
 | 23 | [hikmalayer-core](https://github.com/bestowerlabs/hikmalayer-core) | 8 | 2 | Rust | 0 | Hikmalayer Core is a hybrid Layer‑1 blockchain prototype that combines Proof‑of‑Stake (validator selection) with Proof‑of‑Work (block finalization). It is developed by Muhammad Ayan Rao director Besto... | 2026-07-16 |
 | 24 | [tinydns](https://github.com/laincloud/tinydns) | 7 | 8 | Go | 0 | Tinydns is a LAIN's layer1 application providing internal DNS resolving service | 2018-02-09 |
 | 25 | [phantasma-ts](https://github.com/phantasma-io-archive/phantasma-ts) | 7 | 13 | JavaScript | 1 | A TypeScript SDK for the Phantasma blockchain | 2024-01-11 |
-| 26 | [BluePods](https://github.com/clemsix6/BluePods) | 7 | 0 | Go | 0 | Layer 1 blockchain with object-oriented state, DAG consensus, and execution sharding | 2026-07-16 |
+| 26 | [BluePods](https://github.com/clemsix6/BluePods) | 7 | 0 | Go | 2 | Layer 1 blockchain with object-oriented state, DAG consensus, and execution sharding | 2026-07-17 |
 | 27 | [flexo-mms-layer1-service](https://github.com/Open-MBEE/flexo-mms-layer1-service) | 6 | 3 | Kotlin | 14 |  | 2026-07-15 |
 | 28 | [erbie](https://github.com/erbieio/erbie) | 6 | 4 | Go | 1 | ErbieChain is an efficient Layer1 that aggregates web data and realizes value on Web3. | 2026-06-04 |
 | 29 | [phantasma-ng](https://github.com/phantasma-io-archive/phantasma-ng) | 6 | 15 | C# | 1 | Phantasma Blockchain Source Code | 2024-01-16 |
@@ -55,8 +55,8 @@
 | 47 | [Mango-Audits](https://github.com/MangoNet-Labs/Mango-Audits) | 3 | 2 | - | 0 | Mango Network is a Layer1 blockchain based on the Dpos consensus mechanism and supported by Move to build a transaction-based omni-chain infrastructure network. | 2025-07-17 |
 | 48 | [cman](https://github.com/phantasma-io-archive/cman) | 3 | 3 | C# | 0 | Phantasma - Contract Deployer | 2023-05-04 |
 | 49 | [Phantasma-Hub](https://github.com/phantasma-io-archive/Phantasma-Hub) | 3 | 9 | Svelte | 0 | Phantasma Hub is a power full to for Dapp Developers in the PhantasmaChain, that allows users test, vote and do everything they want. | 2024-03-04 |
-| 50 | [SILVR](https://github.com/him-SILVR/SILVR) | 3 | 1 | C | 0 | SILVR \| Custom Layer-1 blockchain in C. SHA-256d PoW. No ICO. No fork. The People's Chain. Chain ID 2026. | 2026-06-09 |
-| 51 | [website](https://github.com/feelyourprotocol/website) | 3 | 0 | Solidity | 0 | Ethereum Protocol Explorations Website | 2026-07-15 |
+| 50 | [website](https://github.com/feelyourprotocol/website) | 3 | 0 | Solidity | 0 | Ethereum Protocol Explorations Website | 2026-07-15 |
+| 51 | [SILVR](https://github.com/him-SILVR/SILVR) | 3 | 1 | C | 0 | SILVR \| Custom Layer-1 blockchain in C. SHA-256d PoW. No ICO. No fork. The People's Chain. Chain ID 2026. | 2026-06-09 |
 | 52 | [Matrix-Mining](https://github.com/drMurlly/Matrix-Mining) | 3 | 0 | Shell | 0 | Manage multiple MATRIX AI NETWORK mining masternodes on one machine with Docker. | 2024-09-15 |
 | 53 | [Chui](https://github.com/ChuiNetwork/Chui) | 3 | 1 | Rust | 0 | Core Blockchain - consensus and algorithms to run the network. Chui is a hard fork of solana.  | 2024-01-16 |
 | 54 | [aethelred](https://github.com/aethelred-foundation/aethelred) | 3 | 1 | Rust | 0 | Canonical monorepo for the Aethelred protocol, security baselines, and public release provenance. | 2026-07-16 |
@@ -74,8 +74,8 @@
 | 66 | [Layer1-Network-Health-Check](https://github.com/yzmar4real/Layer1-Network-Health-Check) | 2 | 0 | Python | 0 | Python Code that allows Network Engineers to run through their IOS,IOSXE and NXOS infrsatructure for layer 1 issues. | 2020-12-10 |
 | 67 | [kaia-eliza-plugin](https://github.com/kaiachain/kaia-eliza-plugin) | 2 | 2 | TypeScript | 0 | Kaia Plugin for ElizaOS | 2025-04-16 |
 | 68 | [NPSharp](https://github.com/icedream/NPSharp) | 2 | 1 | C# | 0 | Library for communication with NTAuthority's Network Platform (Terminal/Layer1) server. | 2015-03-22 |
-| 69 | [Phantasma-UnityPackage](https://github.com/phantasma-io-archive/Phantasma-UnityPackage) | 2 | 4 | C# | 0 | Unity SDK for Phantasma | 2023-04-04 |
-| 70 | [concordium-mcp-server](https://github.com/Developerayo/concordium-mcp-server) | 2 | 1 | TypeScript | 1 | Concordium mcp-sever for interacting with the concordium chain | 2025-07-30 |
+| 69 | [concordium-mcp-server](https://github.com/Developerayo/concordium-mcp-server) | 2 | 1 | TypeScript | 1 | Concordium mcp-sever for interacting with the concordium chain | 2025-07-30 |
+| 70 | [Phantasma-UnityPackage](https://github.com/phantasma-io-archive/Phantasma-UnityPackage) | 2 | 4 | C# | 0 | Unity SDK for Phantasma | 2023-04-04 |
 | 71 | [tp5-layer-admin](https://github.com/z1px/tp5-layer-admin) | 2 | 0 | PHP | 0 | 基于thinkphp5.0.10+layer1.0.9-rls后台权限管理系统 | 2017-11-29 |
 | 72 | [Phantasma-Py](https://github.com/phantasma-io-archive/Phantasma-Py) | 2 | 3 | Python | 0 | Phantasma Python SDK | 2023-12-13 |
 | 73 | [revo](https://github.com/revolutionchain/revo) | 2 | 0 | C++ | 2 | Official Revo Blockchain repository | 2024-01-17 |
@@ -101,8 +101,8 @@
 | 93 | [layer1.wtf](https://github.com/L1Beat/layer1.wtf) | 1 | 1 | TypeScript | 0 |  | 2026-02-15 |
 | 94 | [layer1.foundation](https://github.com/layer1foundation/layer1.foundation) | 1 | 0 | TypeScript | 0 | NextJS landing page for the Non-Profit Layer 1 Foundation. | 2024-06-25 |
 | 95 | [agents.layer1.cash](https://github.com/toorik2/agents.layer1.cash) | 1 | 1 | CSS | 0 | BCH context site for AI agents — raw markdown for machines, SolidJS SPA for humans | 2026-02-16 |
-| 96 | [ACI_LAYER1_HEALTH_CHECK](https://github.com/yzmar4real/ACI_LAYER1_HEALTH_CHECK) | 1 | 0 | Python | 0 |  Python Code that allows Network Engineers to run through their ACI Infrastructure for Layer 1 availability and compare to a set of interfaces that reflects their tenant computing a health score | 2021-06-21 |
-| 97 | [jump.layer1.cash](https://github.com/toorik2/jump.layer1.cash) | 1 | 0 | Solidity | 0 |  | 2025-12-21 |
+| 96 | [jump.layer1.cash](https://github.com/toorik2/jump.layer1.cash) | 1 | 0 | Solidity | 0 |  | 2025-12-21 |
+| 97 | [ACI_LAYER1_HEALTH_CHECK](https://github.com/yzmar4real/ACI_LAYER1_HEALTH_CHECK) | 1 | 0 | Python | 0 |  Python Code that allows Network Engineers to run through their ACI Infrastructure for Layer 1 availability and compare to a set of interfaces that reflects their tenant computing a health score | 2021-06-21 |
 | 98 | [layer1-mcp-digital](https://github.com/bvnk/layer1-mcp-digital) | 1 | 0 | JavaScript | 0 | An MCP Server Prototype for dealing with Digital Asset APIs | 2025-05-23 |
 | 99 | [The-new-Layer1-projects](https://github.com/TunCengiz/The-new-Layer1-projects) | 1 | 0 | - | 0 | Monad, ZKSync, Eclipse | 2024-02-15 |
 | 100 | [Zero_trust-agentic-AI-Layer1](https://github.com/debugLatte/Zero_trust-agentic-AI-Layer1) | 1 | 0 | Python | 0 |  | 2026-07-11 |
