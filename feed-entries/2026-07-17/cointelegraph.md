@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-07-17"
 date: "2026-07-17"
 source: "Cointelegraph"
-count: 20
+count: 24
 ---
 
 # Cointelegraph - 2026-07-17
 
-20 items collected.
+24 items collected.
 
 ---
 
-## 1. OKX Europe lets users convert USDT to MiCA-compliant USDC
+## 1. FTX to distribute $900M to creditors in fifth payment round
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/17/2026, 9:40:18 PM  
+**Categories:** Latest News  
+
+The FTX Recovery Trust and company have distributed about $10 billion since the exchange filed for bankruptcy in November 2022, leaving users cut off from their funds.
+
+📖 [Read original article](https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Galaxy lands 15-year Texas Tech stadium naming rights deal
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/17/2026, 8:03:32 PM  
+**Categories:** Latest News  
+
+Galaxy Digital will rename Texas Tech’s football stadium under a 15-year agreement, expanding its West Texas presence as the state attracts growing crypto investment.
+
+📖 [Read original article](https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Consensys unknowingly outsourced developer work to North Korean
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/17/2026, 7:33:58 PM  
+**Categories:** Latest News  
+
+Through an introduction with a “reputable third-party service provider,“ the company took on a developer who, as part of an investigation, was revealed to be tied to North Korea.
+
+📖 [Read original article](https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Crypto Biz: When dollars disappear, stablecoins step in
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/17/2026, 7:23:53 PM  
+**Categories:** Latest News  
+
+Bolivia moves to recognize USDT amid a dollar shortage, while Bitcoin miners’ AI ambitions face fresh investor scrutiny.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-biz-when-dollars-disappear-stablecoins-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. OKX Europe lets users convert USDT to MiCA-compliant USDC
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/17/2026, 4:54:37 PM  
@@ -23,7 +71,7 @@ The feature offers European customers a voluntary path away from Tether’s USDT
 
 ---
 
-## 2. Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure
+## 6. Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/17/2026, 4:48:22 PM  
@@ -35,7 +83,7 @@ With the Senate likely voting on a crypto bill within days, Elizabeth Warren ask
 
 ---
 
-## 3. Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure
+## 7. Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/17/2026, 2:37:39 PM  
@@ -47,7 +95,7 @@ Bitcoin saw a key rejection at local highs before reversing lower, moving with s
 
 ---
 
-## 4. HSBC wins Bank of England approval to enter Digital Securities Sandbox
+## 8. HSBC wins Bank of England approval to enter Digital Securities Sandbox
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/17/2026, 1:54:27 PM  
@@ -59,7 +107,7 @@ The Bank of England approved HSBC Orion to go live in its Digital Securities San
 
 ---
 
-## 5. SBI acquires Singaporean crypto platform Coinhako after MAS approval
+## 9. SBI acquires Singaporean crypto platform Coinhako after MAS approval
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/17/2026, 1:30:20 PM  
@@ -71,7 +119,7 @@ SBI Holdings received regulatory approval to acquire a majority stake in Singapo
 
 ---
 
-## 6. The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why
+## 10. The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 7/17/2026, 1:30:00 PM  
@@ -83,7 +131,7 @@ Kraken, Bitstamp, 1inch and Bitfinex have all set up shop in the British Virgin 
 
 ---
 
-## 7. Here’s what happened in crypto today
+## 11. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/17/2026, 12:30:36 PM  
@@ -95,7 +143,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 8. Dutch court declares crypto platform Knaken bankrupt over missing funds
+## 12. Dutch court declares crypto platform Knaken bankrupt over missing funds
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/17/2026, 12:21:55 PM  
@@ -107,7 +155,7 @@ The Rotterdam court said bankruptcy was necessary to ensure an orderly settlemen
 
 ---
 
-## 9. Stablecoin growth will erode bank deposits, says ECB’s Cipollone
+## 13. Stablecoin growth will erode bank deposits, says ECB’s Cipollone
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/17/2026, 12:03:51 PM  
@@ -119,7 +167,7 @@ ECB’s Piero Cipollone said stablecoin adoption could erode bank deposits, but 
 
 ---
 
-## 10. UK sentences 2 hackers tied to $115M crypto ransom scheme
+## 14. UK sentences 2 hackers tied to $115M crypto ransom scheme
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/17/2026, 11:22:55 AM  
@@ -131,7 +179,7 @@ The pair pleaded guilty after investigators linked them to the Scattered Spider 
 
 ---
 
-## 11. ESMA adds 14 new CASPs to MiCA register as licensing slows
+## 15. ESMA adds 14 new CASPs to MiCA register as licensing slows
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/17/2026, 10:29:35 AM  
@@ -143,7 +191,7 @@ ESMA adds 14 CASPs to its MiCA register, with banks and Ripple Payments Europe a
 
 ---
 
-## 12. Bitcoin bottom countdown nears 50 days after BTC supply in loss passed 50%
+## 16. Bitcoin bottom countdown nears 50 days after BTC supply in loss passed 50%
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/17/2026, 9:51:33 AM  
@@ -155,7 +203,7 @@ Bitcoin supply in loss hit 50% nearly 50 days ago, mimicking the countdown to BT
 
 ---
 
-## 13. US indicts crypto investor over alleged $20M fraud scheme
+## 17. US indicts crypto investor over alleged $20M fraud scheme
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/17/2026, 9:25:33 AM  
@@ -167,7 +215,7 @@ Federal prosecutors allege the South Dakota investor used false promises to rais
 
 ---
 
-## 14. MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist
+## 18. MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/17/2026, 8:48:20 AM  
@@ -179,7 +227,7 @@ A macOS malware steals credentials to hijack Telegram sessions, decrypt cryptocu
 
 ---
 
-## 15. Bitcoin ETFs add $368M in three-day buying streak
+## 19. Bitcoin ETFs add $368M in three-day buying streak
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/17/2026, 7:23:02 AM  
@@ -191,7 +239,7 @@ US spot Bitcoin ETFs attracted $79.2 million on Thursday, lifting their three-da
 
 ---
 
-## 16. Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’
+## 20. Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/17/2026, 5:54:04 AM  
@@ -203,7 +251,7 @@ US spot Bitcoin ETFs attracted $79.2 million on Thursday, lifting their three-da
 
 ---
 
-## 17. Crypto exchange Bybit launches in Indonesia after NOBI acquisition
+## 21. Crypto exchange Bybit launches in Indonesia after NOBI acquisition
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/17/2026, 4:16:32 AM  
@@ -215,7 +263,7 @@ The launch gives Bybit a locally operated platform in one of Asia’s largest cr
 
 ---
 
-## 18. Trump Media sells Wall Street low-latency access to Trump posts
+## 22. Trump Media sells Wall Street low-latency access to Trump posts
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/17/2026, 2:23:40 AM  
@@ -227,7 +275,7 @@ The paid Truth API is aimed at high-frequency trading firms seeking “the faste
 
 ---
 
-## 19. Balaji seeks Malaysia deal, threatens exit after Network School probe
+## 23. Balaji seeks Malaysia deal, threatens exit after Network School probe
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/17/2026, 1:54:00 AM  
@@ -239,7 +287,7 @@ The paid Truth API is aimed at high-frequency trading firms seeking “the faste
 
 ---
 
-## 20. Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price
+## 24. Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price
 
 **Author:** Cointelegraph by Ray Salmond  
 **Published:** 7/17/2026, 12:12:40 AM  
