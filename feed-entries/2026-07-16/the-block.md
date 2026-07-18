@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-16"
 date: "2026-07-16"
 source: "The Block"
-count: 9
+count: 7
 ---
 
 # The Block - 2026-07-16
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ T. Rowe Price's TKNZ Active Crypto ETF began trading Thursday after the firm fil
 Built on Hyperliquid, Trasia was co-founded by former Multicoin Capital partner Mable Jiang and aims to serve Asian traders.
 
 📖 [Read original article](https://www.theblock.co/post/408670/multicoin-capital-hyperliquid-ecosystem-investment-trasia?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. Visa launching internal stablecoin platform for clients that provides access to OUSD: report
-
-**Author:** RT Watson  
-**Published:** 7/16/2026, 3:15:28 PM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Payments  
-
-Open Standard's stablecoin is expected to become a major competitor to Circle's USDC, the dominant stablecoin in the U.S.
-
-📖 [Read original article](https://www.theblock.co/post/408645/visa-launching-internal-stablecoin-platform-provides-access-ousd-fortune?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. US jury indicts South Dakota crypto investor on 29 counts over alleged $20 million investor fraud
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/16/2026, 3:06:14 PM  
-**Categories:** Legal, Policy, Regulation, Crime  
-
-DOJ indicted Sioux Falls crypto investor Benjamin Paul Wiener on 29 counts over an alleged $20 million fraud, with a trial set for Sept. 15.
-
-📖 [Read original article](https://www.theblock.co/post/408654/us-jury-indicts-south-dakota-crypto-investor-29-counts-alleged-20m-investor-fraud?utm_source=rss&utm_medium=rss)
 
 ---
