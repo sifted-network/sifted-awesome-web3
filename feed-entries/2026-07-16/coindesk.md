@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-16"
 date: "2026-07-16"
 source: "CoinDesk"
-count: 11
+count: 5
 ---
 
 # CoinDesk - 2026-07-16
 
-11 items collected.
+5 items collected.
 
 ---
 
@@ -68,77 +68,5 @@ Visa launched a stablecoin platform that lets banks and fintechs issue, manage a
 The deal adds institutional trading clients, derivatives expertise and regulatory licenses as Keyrock looks to deepen its presence in crypto capital markets.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business)
-
----
-
-## 6. The Clarity Act is the most important consumer protection effort in years
-
-**Author:** Summer Mersinger  
-**Published:** 7/16/2026, 3:07:30 PM  
-**Categories:** Opinion, Opinion  
-
-Consumers should not have to wait for another crisis to get the protections they deserve, argues Summer Mersinger, CEO of the Blockchain Association.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years)
-
----
-
-## 7. Crypto for Advisors: Strengthening defenses against AI fraud
-
-**Author:** Kriti Bansal  
-**Published:** 7/16/2026, 2:54:11 PM  
-**Categories:** CoinDesk Indices, Financial Advisors, Crypto for Advisors, Newsletters, News  
-
-Strengthening defenses against AI fraud
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/07/16/crypto-for-advisors-strengthening-defenses-against-ai-fraud)
-
----
-
-## 8. Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastructure
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/16/2026, 2:19:32 PM  
-**Categories:** Finance, Fundraising, Funding Rounds, Tokenization, News  
-
-The company has previously cleared or held in custody roughly 94% of tokenized U.S. equities and now holds over $1.5 billion in underlying stocks.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/16/crypto-brokerage-firm-alpaca-raises-usd135-million-for-tokenized-stock-infrastructure)
-
----
-
-## 9. Ledger wants AI agents to manage crypto without holding your keys
-
-**Author:** Margaux Nijkerk  
-**Published:** 7/16/2026, 1:00:00 PM  
-**Categories:** Tech, Ledger, Artificial Intelligence, News  
-
-AI agents can read wallet balances and analyze portfolios but requires every sensitive action to be approved on a Ledger hardware device before it can be executed.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/15/ledger-wants-ai-agents-to-manage-crypto-without-holding-your-keys)
-
----
-
-## 10. Galaxy targets institutional stablecoin yield with new DeFi vaults
-
-**Author:** Will Canny,AI Boost  
-**Published:** 7/16/2026, 12:00:00 PM  
-**Categories:** Tech, DeFi, Galaxy Digital, Exclusive, Stablecoins, News  
-
-The crypto financial services firm launched Galaxy Curator, a Morpho-based platform that gives Fireblocks' 2,400 institutional clients access to onchain yield strategies.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/16/galaxy-targets-institutional-stablecoin-yield-with-new-defi-vaults)
-
----
-
-## 11. The most popular bitcoin call option has slipped by $10,000
-
-**Author:** Omkar Godbole  
-**Published:** 7/16/2026, 11:27:53 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for July 18, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/16/the-most-popular-bitcoin-call-option-has-slipped-by-usd10-000)
 
 ---
