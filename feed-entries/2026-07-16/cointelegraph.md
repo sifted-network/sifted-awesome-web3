@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-16"
 date: "2026-07-16"
 source: "Cointelegraph"
-count: 6
+count: 4
 ---
 
 # Cointelegraph - 2026-07-16
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ According to ABC News, federal regulators are investigating whether the longtime
 Bitcoin buyers have returned to spot, futures and ETF markets but geopolitical headwinds could quickly unravel the progress of the past two weeks.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-outlook-improves-amid-6-weekly-gain-can-btc-bulls-push-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. 1inch co-founder says he was fired, announces new venture
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 7/16/2026, 8:05:45 PM  
-**Categories:** Latest News  
-
-Anton Bukov said that he no longer takes an active role at 1inch and was “fired” in 2025 after pushing for changes to the company’s management and operations.
-
-📖 [Read original article](https://cointelegraph.com/news/1inch-co-founder-not-involved-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Injective files for SEC transfer agent registration to bring securities ownership records onchain
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 7/16/2026, 7:27:53 PM  
-**Categories:** Latest News  
-
-The company said the filing would create a regulated pathway for maintaining ownership records for tokenized securities onchain.
-
-📖 [Read original article](https://cointelegraph.com/news/injective-files-sec-transfer-agent-registration-bring-securities-ownership-records-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
