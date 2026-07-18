@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-17"
 date: "2026-07-17"
 source: "Cointelegraph"
-count: 24
+count: 23
 ---
 
 # Cointelegraph - 2026-07-17
 
-24 items collected.
+23 items collected.
 
 ---
 
@@ -131,19 +131,7 @@ Kraken, Bitstamp, 1inch and Bitfinex have all set up shop in the British Virgin 
 
 ---
 
-## 11. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/17/2026, 12:30:36 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Dutch court declares crypto platform Knaken bankrupt over missing funds
+## 11. Dutch court declares crypto platform Knaken bankrupt over missing funds
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/17/2026, 12:21:55 PM  
@@ -155,7 +143,7 @@ The Rotterdam court said bankruptcy was necessary to ensure an orderly settlemen
 
 ---
 
-## 13. Stablecoin growth will erode bank deposits, says ECB’s Cipollone
+## 12. Stablecoin growth will erode bank deposits, says ECB’s Cipollone
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/17/2026, 12:03:51 PM  
@@ -167,7 +155,7 @@ ECB’s Piero Cipollone said stablecoin adoption could erode bank deposits, but 
 
 ---
 
-## 14. UK sentences 2 hackers tied to $115M crypto ransom scheme
+## 13. UK sentences 2 hackers tied to $115M crypto ransom scheme
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/17/2026, 11:22:55 AM  
@@ -179,7 +167,7 @@ The pair pleaded guilty after investigators linked them to the Scattered Spider 
 
 ---
 
-## 15. ESMA adds 14 new CASPs to MiCA register as licensing slows
+## 14. ESMA adds 14 new CASPs to MiCA register as licensing slows
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/17/2026, 10:29:35 AM  
@@ -191,7 +179,7 @@ ESMA adds 14 CASPs to its MiCA register, with banks and Ripple Payments Europe a
 
 ---
 
-## 16. Bitcoin bottom countdown nears 50 days after BTC supply in loss passed 50%
+## 15. Bitcoin bottom countdown nears 50 days after BTC supply in loss passed 50%
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/17/2026, 9:51:33 AM  
@@ -203,7 +191,7 @@ Bitcoin supply in loss hit 50% nearly 50 days ago, mimicking the countdown to BT
 
 ---
 
-## 17. US indicts crypto investor over alleged $20M fraud scheme
+## 16. US indicts crypto investor over alleged $20M fraud scheme
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/17/2026, 9:25:33 AM  
@@ -215,7 +203,7 @@ Federal prosecutors allege the South Dakota investor used false promises to rais
 
 ---
 
-## 18. MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist
+## 17. MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/17/2026, 8:48:20 AM  
@@ -227,7 +215,7 @@ A macOS malware steals credentials to hijack Telegram sessions, decrypt cryptocu
 
 ---
 
-## 19. Bitcoin ETFs add $368M in three-day buying streak
+## 18. Bitcoin ETFs add $368M in three-day buying streak
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/17/2026, 7:23:02 AM  
@@ -239,7 +227,7 @@ US spot Bitcoin ETFs attracted $79.2 million on Thursday, lifting their three-da
 
 ---
 
-## 20. Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’
+## 19. Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/17/2026, 5:54:04 AM  
@@ -251,7 +239,7 @@ US spot Bitcoin ETFs attracted $79.2 million on Thursday, lifting their three-da
 
 ---
 
-## 21. Crypto exchange Bybit launches in Indonesia after NOBI acquisition
+## 20. Crypto exchange Bybit launches in Indonesia after NOBI acquisition
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/17/2026, 4:16:32 AM  
@@ -263,7 +251,7 @@ The launch gives Bybit a locally operated platform in one of Asia’s largest cr
 
 ---
 
-## 22. Trump Media sells Wall Street low-latency access to Trump posts
+## 21. Trump Media sells Wall Street low-latency access to Trump posts
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/17/2026, 2:23:40 AM  
@@ -275,7 +263,7 @@ The paid Truth API is aimed at high-frequency trading firms seeking “the faste
 
 ---
 
-## 23. Balaji seeks Malaysia deal, threatens exit after Network School probe
+## 22. Balaji seeks Malaysia deal, threatens exit after Network School probe
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/17/2026, 1:54:00 AM  
@@ -287,7 +275,7 @@ The paid Truth API is aimed at high-frequency trading firms seeking “the faste
 
 ---
 
-## 24. Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price
+## 23. Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price
 
 **Author:** Cointelegraph by Ray Salmond  
 **Published:** 7/17/2026, 12:12:40 AM  
