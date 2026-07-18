@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-15"
 date: "2026-07-15"
 source: "Decrypt"
-count: 10
+count: 4
 ---
 
 # Decrypt - 2026-07-15
 
-10 items collected.
+4 items collected.
 
 ---
 
@@ -56,77 +56,5 @@ PrismML's Bonsai 27B runs full reasoning AI on an iPhone for free. We tested it,
 A proposal to restrict non-financial data on Bitcoin has split prominent developers, miners, and industry leaders ahead of a key activation deadline, reopening one of the network's biggest governance debates since the Blocksize Wars.
 
 📖 [Read original article](https://decrypt.co/373577/what-is-bip-110-why-dividing-bitcoin-community)
-
----
-
-## 5. Base Creator Jesse Pollak Steps Back From App Leadership After Admitting Social Bet 'Was Wrong'
-
-**Author:** Jason Nelson  
-**Published:** 7/15/2026, 6:50:55 PM  
-**Categories:** , Business  
-
-Pollak said he is handing the Base App back to Coinbase to focus on building Base into "the blockchain for global finance" after conceding the network's push into on-chain social missed the mark.
-
-📖 [Read original article](https://decrypt.co/373574/base-jesse-pollak-steps-back-social-bet-wrong)
-
----
-
-## 6. BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try
-
-**Author:** Jason Nelson  
-**Published:** 7/15/2026, 6:02:06 PM  
-**Categories:** Business  
-
-The Depository Trust &#038; Clearing Corporation is working with nearly 40 financial firms in a pilot to test tokenized stocks and U.S. treasuries.
-
-📖 [Read original article](https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks)
-
----
-
-## 7. Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack
-
-**Author:** Jason Nelson  
-**Published:** 7/15/2026, 5:01:25 PM  
-**Categories:** arbitrum, DeFi  
-
-Hackers manipulated Ostium's price feed by compromising an oracle signer key, allowing them to drain roughly $18 million from the Arbitrum-based perpetuals exchange.
-
-📖 [Read original article](https://decrypt.co/373566/defi-exploit-ostium-oracle-hack)
-
----
-
-## 8. US Treasury Freezes $131 Million in Iran-Linked Crypto Wallets
-
-**Author:** Jose Antonio Lanz  
-**Published:** 7/15/2026, 4:54:14 PM  
-**Categories:** , Law and Order  
-
-OFAC sanctioned addresses tied to Iran's central bank and armed forces, with Tether locking four Tron wallets as Washington's financial campaign against Tehran accelerates.
-
-📖 [Read original article](https://decrypt.co/373565/us-treasury-freezes-131-million-iran-crypto)
-
----
-
-## 9. Bitcoin Breaks Heavy Resistance—But Death Cross Looms: Analysis
-
-**Author:** Jose Antonio Lanz  
-**Published:** 7/15/2026, 4:05:19 PM  
-**Categories:** , Markets  
-
-BTC cleared a key resistance level Tuesday, giving bulls hope. Prediction market traders aren't convinced.
-
-📖 [Read original article](https://decrypt.co/373545/bitcoin-price-heavy-resistance-death-cross-looms)
-
----
-
-## 10. Bitcoin Giant Strategy Isn't Panicking—Unless BTC Crashes to $10K: CEO
-
-**Author:** Decrypt Agent  
-**Published:** 7/15/2026, 3:57:01 PM  
-**Categories:** , Business  
-
-The Bitcoin treasury giant will issue fresh preferred stock and resume buying once its Stretch shares climb back to par, CEO Phong Le said.
-
-📖 [Read original article](https://decrypt.co/373544/bitcoin-giant-strategy-isnt-panicking-unless-btc-crashes-to-10k-ceo)
 
 ---
