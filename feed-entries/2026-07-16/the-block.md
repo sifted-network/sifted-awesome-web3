@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-16"
 date: "2026-07-16"
 source: "The Block"
-count: 7
+count: 5
 ---
 
 # The Block - 2026-07-16
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ Crypto.com plans to use proceeds from its “first institutional funding round" 
 President Trump's teleprompter is under scrutiny following a report alleging that he used insider knowledge to place bets on Kalshi.
 
 📖 [Read original article](https://www.theblock.co/post/408692/trump-longtime-teleprompter-operator-accused-insider-knowledge-place-bets-kalshi-abc-news?utm_source=rss&utm_medium=rss)
-
----
-
-## 6. $1.9 trillion asset manager T. Rowe Price launches first actively managed multi-token crypto ETF
-
-**Author:** Kyle Baird  
-**Published:** 7/16/2026, 4:09:15 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Funds, Institutional Investors, Markets, Asset Managers, Bitcoin ETF, Ethereum ETF  
-
-T. Rowe Price's TKNZ Active Crypto ETF began trading Thursday after the firm filed for the product in October.
-
-📖 [Read original article](https://www.theblock.co/post/408667/t-rowe-price-launches-first-actively-managed-multi-token-crypto-etf?utm_source=rss&utm_medium=rss)
-
----
-
-## 7. Multicoin Capital makes first Hyperliquid ecosystem investment in Trasia, an Asia-focused trading platform
-
-**Author:** Yogita Khatri  
-**Published:** 7/16/2026, 4:00:02 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Web3, exclusive  
-
-Built on Hyperliquid, Trasia was co-founded by former Multicoin Capital partner Mable Jiang and aims to serve Asian traders.
-
-📖 [Read original article](https://www.theblock.co/post/408670/multicoin-capital-hyperliquid-ecosystem-investment-trasia?utm_source=rss&utm_medium=rss)
 
 ---
