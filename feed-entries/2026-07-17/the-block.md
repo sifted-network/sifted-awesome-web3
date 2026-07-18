@@ -2,16 +2,40 @@
 title: "The Block - 2026-07-17"
 date: "2026-07-17"
 source: "The Block"
-count: 11
+count: 13
 ---
 
 # The Block - 2026-07-17
 
-11 items collected.
+13 items collected.
 
 ---
 
-## 1. FTX to distribute roughly $900 million to creditors in fifth wave of payouts
+## 1. Bank of America taps new leaders to bridge crypto, AI and traditional finance
+
+**Author:** Kyle Baird  
+**Published:** 7/17/2026, 9:08:02 PM  
+**Categories:** Companies, Crypto Ecosystems, Finance firms, Markets, Web3, AI, Crypto, TradFi banks  
+
+Sonali Theisen was named head of BofA's global digital assets platform, while Kevin Milsom was tapped to serve as head of AI transformation
+
+📖 [Read original article](https://www.theblock.co/post/408830/bank-america-taps-new-leaders-bridge-crypto-ai-traditional-finance?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. CryptoQuant says Strategy still needs disciplined bitcoin buying and selling framework
+
+**Author:** Yogita Khatri  
+**Published:** 7/17/2026, 8:01:43 PM  
+**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, Token Projects, Bitcoin, Strategy  
+
+CryptoQuant said Michael Saylor's Strategy still needs still needs clearer rules for when to buy and sell bitcoin.
+
+📖 [Read original article](https://www.theblock.co/post/408825/cryptoquant-strategy-bitcoin-buying-selling-framework-mstr?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. FTX to distribute roughly $900 million to creditors in fifth wave of payouts
 
 **Author:** RT Watson  
 **Published:** 7/17/2026, 6:27:59 PM  
@@ -23,7 +47,7 @@ So far the company's bankruptcy estate has distributed nearly $10 billion to cre
 
 ---
 
-## 2. Trezor exec pushes back on ZachXBT claim that hardware wallets are ‘complete garbage’
+## 4. Trezor exec pushes back on ZachXBT claim that hardware wallets are ‘complete garbage’
 
 **Author:** Kyle Baird  
 **Published:** 7/17/2026, 6:13:25 PM  
@@ -35,7 +59,7 @@ So far the company's bankruptcy estate has distributed nearly $10 billion to cre
 
 ---
 
-## 3. Bitcoin slides toward $63,000 as Coinbase premium stays negative for a record 60 days
+## 5. Bitcoin slides toward $63,000 as Coinbase premium stays negative for a record 60 days
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/17/2026, 4:38:50 PM  
@@ -47,7 +71,7 @@ Bitcoin fell near $63,000 as chip stocks sold off, the Coinbase premium stayed n
 
 ---
 
-## 4. Bitcoin ETFs could mirror gold’s history of ‘spectacular gains’ and ‘painful drawdowns,’ analyst says
+## 6. Bitcoin ETFs could mirror gold’s history of ‘spectacular gains’ and ‘painful drawdowns,’ analyst says
 
 **Author:** RT Watson  
 **Published:** 7/17/2026, 3:40:50 PM  
@@ -59,7 +83,7 @@ Bloomberg ETF analyst Eric Balchunas compared IBIT’s short time above $100 bil
 
 ---
 
-## 5. Galaxy Digital puts its name on Texas Tech football stadium in 15-year partnership
+## 7. Galaxy Digital puts its name on Texas Tech football stadium in 15-year partnership
 
 **Author:** Kyle Baird  
 **Published:** 7/17/2026, 2:33:42 PM  
@@ -71,7 +95,7 @@ The deal's financial terms were not disclosed, but Yahoo Sports reported the agr
 
 ---
 
-## 6. SBI Holdings completes majority acquisition of Singapore crypto platform Coinhako following MAS approval
+## 8. SBI Holdings completes majority acquisition of Singapore crypto platform Coinhako following MAS approval
 
 **Author:** Brian Danga  
 **Published:** 7/17/2026, 1:15:13 PM  
@@ -83,7 +107,7 @@ SBI Holdings acquired Singapore's Coinhako after MAS approval, folding the licen
 
 ---
 
-## 7. Crypto-style derivatives reach AI compute ahead of planned CME and ICE futures: Bernstein
+## 9. Crypto-style derivatives reach AI compute ahead of planned CME and ICE futures: Bernstein
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/17/2026, 12:48:20 PM  
@@ -95,7 +119,7 @@ Crypto-style perps and prediction markets hit AI compute ahead of CME and ICE, w
 
 ---
 
-## 8. Taiwan sentences BitShine crypto exchange ringleader to 22 years in $39 million fraud case: reports
+## 10. Taiwan sentences BitShine crypto exchange ringleader to 22 years in $39 million fraud case: reports
 
 **Author:** Timmy Shen  
 **Published:** 7/17/2026, 8:48:10 AM  
@@ -107,7 +131,7 @@ The defendant reportedly led a criminal group that operated under the guise of B
 
 ---
 
-## 9. UK gang jailed over $5.4 million crypto scam posing as police
+## 11. UK gang jailed over $5.4 million crypto scam posing as police
 
 **Author:** Timmy Shen  
 **Published:** 7/17/2026, 8:28:00 AM  
@@ -119,7 +143,7 @@ The gang impersonated police officers and used convincing fake police websites t
 
 ---
 
-## 10. USDT vs USDC: Comparing the Two Largest Stablecoins
+## 12. USDT vs USDC: Comparing the Two Largest Stablecoins
 
 **Author:** The Block Research  
 **Published:** 7/17/2026, 4:22:22 AM  
@@ -131,7 +155,7 @@ USDT and USDC are stablecoins pegged one-to-one to the U.S. dollar, each backed 
 
 ---
 
-## 11. SEC vs CFTC: Who Regulates Crypto?
+## 13. SEC vs CFTC: Who Regulates Crypto?
 
 **Author:** The Block Research  
 **Published:** 7/17/2026, 3:49:02 AM  
