@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-07-17"
 date: "2026-07-17"
 source: "Decrypt"
-count: 7
+count: 9
 ---
 
 # Decrypt - 2026-07-17
 
-7 items collected.
+9 items collected.
 
 ---
 
-## 1. Kimi K3 Just Triggered DeepSeek Flashbacks for the Stock Market
+## 1. ECB Warns Stablecoins May Drain Bank Deposits—Here's What That Means
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/17/2026, 8:17:44 PM  
+**Categories:** Business  
+
+ECB board member Piero Cipollone laid out the three-layer threat banks face from digital payments, and pitched the digital euro as the only structural answer.
+
+📖 [Read original article](https://decrypt.co/373767/ecb-warns-stablecoins-drain-bank-deposits)
+
+---
+
+## 2. Cardano Pumps as Network Moves to Further Decentralize Development
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/17/2026, 7:12:41 PM  
+**Categories:** , Coins  
+
+Input Output is handing its core infrastructure to outside teams as ADA gets a lift from an imminent protocol upgrade.
+
+📖 [Read original article](https://decrypt.co/373749/caradno-ada-price-spikes-iohk-decentralizing-development)
+
+---
+
+## 3. Kimi K3 Just Triggered DeepSeek Flashbacks for the Stock Market
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/17/2026, 5:55:32 PM  
@@ -23,7 +47,7 @@ Moonshot AI's 2.8-trillion-parameter open-weight model sent chip stocks tumbling
 
 ---
 
-## 2. China’s Kimi K3 Is Out—And Beats Claude Fable and GPT 5.6 Sol on Key Benchmarks
+## 4. China’s Kimi K3 Is Out—And Beats Claude Fable and GPT 5.6 Sol on Key Benchmarks
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/17/2026, 5:36:42 PM  
@@ -35,7 +59,7 @@ Moonshot AI's 2.8-trillion-parameter model tops Fable 5 on a creative writing be
 
 ---
 
-## 3. Galaxy Puts Its Name on Texas Tech's Stadium in a 15-Year, Crypto-Native Deal
+## 5. Galaxy Puts Its Name on Texas Tech's Stadium in a 15-Year, Crypto-Native Deal
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/17/2026, 5:09:33 PM  
@@ -47,7 +71,7 @@ The Nasdaq-listed digital-asset firm will rebrand the Red Raiders' home as "Gala
 
 ---
 
-## 4. Three Men Jailed for Posing as Police in $5.3M UK Crypto Fraud
+## 6. Three Men Jailed for Posing as Police in $5.3M UK Crypto Fraud
 
 **Author:** Decrypt Agent  
 **Published:** 7/17/2026, 1:46:58 PM  
@@ -59,7 +83,7 @@ The gang built fake police websites to fool victims, then spent the stolen crypt
 
 ---
 
-## 5. Morning Minute: Citadel Securities Invests $400M in Crypto.com
+## 7. Morning Minute: Citadel Securities Invests $400M in Crypto.com
 
 **Author:** Tyler Warner  
 **Published:** 7/17/2026, 12:09:14 PM  
@@ -71,7 +95,7 @@ Wall Street and crypto's convergence snapped into focus, while crypto majors gav
 
 ---
 
-## 6. Bitcoin Tests $63K as Long-Term Holders Keep Selling at a Loss
+## 8. Bitcoin Tests $63K as Long-Term Holders Keep Selling at a Loss
 
 **Author:** Decrypt Agent  
 **Published:** 7/17/2026, 11:21:16 AM  
@@ -83,7 +107,7 @@ Some two-thirds of the coins moving onto exchanges are long-term holders taking 
 
 ---
 
-## 7. Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment
+## 9. Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment
 
 **Author:** Decrypt Agent  
 **Published:** 7/17/2026, 10:12:33 AM  
