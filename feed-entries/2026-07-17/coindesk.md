@@ -47,7 +47,7 @@ Input Output will transfer control of the Haskell node, Plutus, Hydra and other 
 
 ---
 
-## 4. Inside Robinhood’s high-stakes bet to onboard 10 million casual users onto decentralized finance
+## 4. Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance
 
 **Author:** Oliver Knight  
 **Published:** 7/17/2026, 3:36:39 PM  
