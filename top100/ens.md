@@ -7,8 +7,8 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [enso](https://github.com/enso-org/enso) | 7,438 | 343 | Java | 298 | Enso Analytics is a self-service data prep and analysis platform designed for data teams. | 2026-06-22 |
-| 2 | [ENScan_GO](https://github.com/wgpsec/ENScan_GO) | 4,569 | 433 | Go | 21 | 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入 | 2026-03-30 |
-| 3 | [Planet](https://github.com/Planetable/Planet) | 1,810 | 78 | Swift | 80 | Build and host decentralized blogs and websites on your Mac | 2026-07-11 |
+| 2 | [ENScan_GO](https://github.com/wgpsec/ENScan_GO) | 4,571 | 433 | Go | 21 | 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入 | 2026-03-30 |
+| 3 | [Planet](https://github.com/Planetable/Planet) | 1,811 | 78 | Swift | 80 | Build and host decentralized blogs and websites on your Mac | 2026-07-11 |
 | 4 | [ENSwiftSideMenu](https://github.com/devgenios/ENSwiftSideMenu) | 1,801 | 271 | Swift | 87 | A simple side menu for iOS written in Swift.  | 2020-04-22 |
 | 5 | [ensembles](https://github.com/drewmccormack/ensembles) | 1,629 | 128 | Objective-C | 24 | A synchronization framework for Core Data. | 2026-03-11 |
 | 6 | [Kaggle-Ensemble-Guide](https://github.com/MLWave/Kaggle-Ensemble-Guide) | 1,614 | 550 | Python | 1 | Code for the Kaggle Ensembling Guide Article on MLWave | 2017-11-16 |
@@ -16,7 +16,7 @@
 | 8 | [ens](https://github.com/ensdomains/ens) | 1,151 | 513 | JavaScript | 63 | Implementations for ENS core functionality: The registry, registrars, and public resolvers. | 2023-09-27 |
 | 9 | [enso](https://github.com/laravel-enso/enso) | 1,094 | 274 | PHP | 0 | Laravel Vue SPA, Bulma themed. For demo login use `admin@laravel-enso.com` & `password` - | 2026-06-28 |
 | 10 | [Ensemble-Pytorch](https://github.com/TorchEnsemble-Community/Ensemble-Pytorch) | 1,038 | 95 | Python | 27 | A unified ensemble framework for PyTorch to improve the performance and robustness of your deep learning model. | 2024-06-16 |
-| 11 | [EnsoAI](https://github.com/J3n5en/EnsoAI) | 988 | 121 | TypeScript | 15 | Multiple Agents, Parallel Flow | 2026-07-15 |
+| 11 | [EnsoAI](https://github.com/J3n5en/EnsoAI) | 988 | 121 | TypeScript | 15 | Multiple Agents, Parallel Flow | 2026-07-18 |
 | 12 | [ENScan](https://github.com/wgpsec/ENScan) | 973 | 130 | Python | 3 | 基于各大API的一款企业信息查询工具，为了更快速的获取企业的信息，省去收集的麻烦过程，web端于plat平台上线 | 2023-04-13 |
 | 13 | [Ensemble](https://github.com/saagarjha/Ensemble) | 891 | 47 | Swift | 24 | Cast Mac windows to visionOS | 2026-05-30 |
 | 14 | [ensmallen](https://github.com/mlpack/ensmallen) | 811 | 137 | C++ | 8 | A header-only C++ library for numerical optimization -- | 2026-05-01 |
@@ -27,7 +27,7 @@
 | 19 | [ensembl-vep](https://github.com/Ensembl/ensembl-vep) | 564 | 182 | Perl | 73 | The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants | 2026-07-16 |
 | 20 | [nginx_ensite](https://github.com/perusio/nginx_ensite) | 550 | 77 | Shell | 12 | A script to enable or disable a site in nginx. | 2017-10-10 |
 | 21 | [adscan](https://github.com/ADScanPro/adscan) | 484 | 52 | Python | 0 | Active Directory pentesting tool for Linux. Automated Kerberoasting, AS-REP Roasting, ADCS/ESC exploitation, DCSync, BloodHound integration, and 100+ AD attack paths. ENS Alto / NIS2 / ISO 27001 compl... | 2026-07-17 |
-| 22 | [Ensta](https://github.com/diezo/Ensta) | 479 | 48 | Python | 20 | 🔥 Python Library for Instagram Web & Mobile API Integration | 2026-07-08 |
+| 22 | [Ensta](https://github.com/diezo/Ensta) | 481 | 48 | Python | 20 | 🔥 Python Library for Instagram Web & Mobile API Integration | 2026-07-08 |
 | 23 | [EnsWilde](https://github.com/YangJiiii/EnsWilde) | 467 | 27 | Swift | 50 | EnsWilde is a tool utilizing itunesstored & bookassetd exploits, designed for iPhone and iPad running the latest iOS Version 26.2b1. | 2026-03-08 |
 | 24 | [connect-ensure-login](https://github.com/jaredhanson/connect-ensure-login) | 467 | 61 | JavaScript | 12 | Login session ensuring middleware for Connect and Express. | 2022-09-17 |
 | 25 | [Ensure.That](https://github.com/danielwertheim/Ensure.That) | 444 | 48 | C# | 4 | Guard clause project for .NET | 2024-06-10 |
@@ -46,8 +46,8 @@
 | 38 | [EnsembleLearning](https://github.com/BackyardofAbela/EnsembleLearning) | 285 | 117 | Jupyter Notebook | 0 | 包括决策树和随机森林进行离职人员预测，Xgboost和lightGBM的应用 | 2020-04-16 |
 | 39 | [Unidata](https://github.com/NaturalSelectionLabs/Unidata) | 279 | 23 | TypeScript | 0 | 💡 Providing easy access to human-friendly Web3 data. | 2023-05-18 |
 | 40 | [iTLS-Enso](https://github.com/SKGleba/iTLS-Enso) | 270 | 15 | C | 6 | Adds TLS v1.2 to Enso enabled devices | 2023-09-22 |
-| 41 | [self-paced-ensemble](https://github.com/ZhiningLiu1998/self-paced-ensemble) | 260 | 49 | Python | 1 | [ICDE'20] ⚖️ A general, efficient ensemble framework for imbalanced classification. \| 泛用，高效，鲁棒的类别不平衡学习框架 | 2024-02-05 |
-| 42 | [web3-identity-seo](https://github.com/ookyet/web3-identity-seo) | 260 | 25 | Shell | 2 | Open-source architecture for making ENS identities into Google-recognized entities: Schema.org structured data, verification, and indexing for Web3 identity pages. | 2026-07-16 |
+| 41 | [web3-identity-seo](https://github.com/ookyet/web3-identity-seo) | 265 | 26 | Shell | 2 | Open-source architecture for making ENS identities into Google-recognized entities: Schema.org structured data, verification, and indexing for Web3 identity pages. | 2026-07-18 |
+| 42 | [self-paced-ensemble](https://github.com/ZhiningLiu1998/self-paced-ensemble) | 260 | 49 | Python | 1 | [ICDE'20] ⚖️ A general, efficient ensemble framework for imbalanced classification. \| 泛用，高效，鲁棒的类别不平衡学习框架 | 2024-02-05 |
 | 43 | [enshrouded-server](https://github.com/mornedhels/enshrouded-server) | 255 | 23 | Shell | 4 | Enshrouded Dedicated Server with autoupdate (supervisord) | 2026-07-17 |
 | 44 | [Awesome-LLM-Ensemble](https://github.com/junchenzhi/Awesome-LLM-Ensemble) | 251 | 17 | HTML | 1 |  A curated list of Awesome-LLM-Ensemble papers for the survey "Harnessing Multiple Large Language Models: A Survey on LLM Ensemble" | 2026-07-17 |
 | 45 | [ensemble](https://github.com/michelhelsdingen/ensemble) | 231 | 28 | TypeScript | 1 | Multi-agent collaboration engine — AI agents that work as one | 2026-05-30 |
@@ -64,8 +64,8 @@
 | 56 | [ens-app-v3](https://github.com/ensdomains/ens-app-v3) | 190 | 190 | TypeScript | 1 | The official ENS manager app. Register and manage your ENS names here.  | 2026-07-17 |
 | 57 | [SnapshotEnsemble](https://github.com/gaohuang/SnapshotEnsemble) | 189 | 33 | Lua | 1 | Snapshot Ensembles in Torch (Snapshot Ensembles: Train 1, Get M for Free) | 2017-05-16 |
 | 58 | [Multimodal-Object-Detection-via-Probabilistic-Ensembling](https://github.com/Jamie725/Multimodal-Object-Detection-via-Probabilistic-Ensembling) | 175 | 21 | Python | 5 |  | 2026-03-13 |
-| 59 | [enso-portable](https://github.com/GChristensen/enso-portable) | 173 | 47 | C | 2 | Portable Enso Launcher community edition | 2026-07-16 |
-| 60 | [opencode-ensemble](https://github.com/hueyexe/opencode-ensemble) | 170 | 20 | TypeScript | 0 | Agent teams for OpenCode. Run multiple agents in parallel with messaging, shared tasks, and coordinated execution. | 2026-07-14 |
+| 59 | [enso-portable](https://github.com/GChristensen/enso-portable) | 173 | 47 | C | 2 | Portable Enso Launcher community edition | 2026-07-18 |
+| 60 | [opencode-ensemble](https://github.com/hueyexe/opencode-ensemble) | 171 | 20 | TypeScript | 0 | Agent teams for OpenCode. Run multiple agents in parallel with messaging, shared tasks, and coordinated execution. | 2026-07-14 |
 | 61 | [Ensoniq-SD-1-32-Voice-VST-emulation](https://github.com/sojusrecords/Ensoniq-SD-1-32-Voice-VST-emulation) | 170 | 8 | C++ | 1 | MAME-based VST3/AU emulation of the Ensoniq SD-1 32-Voice synthesizer built with JUCE  | 2026-06-12 |
 | 62 | [riak_ensemble](https://github.com/basho/riak_ensemble) | 167 | 76 | Erlang | 16 | Multi-Paxos framework in Erlang | 2022-12-21 |
 | 63 | [ensembleObjectDetection](https://github.com/ancasag/ensembleObjectDetection) | 161 | 28 | Python | 3 |  | 2023-02-23 |
@@ -75,14 +75,14 @@
 | 67 | [ensure](https://github.com/kislyuk/ensure) | 157 | 18 | Python | 3 | Validate conditions, Python style. | 2024-12-03 |
 | 68 | [ensjs](https://github.com/ensdomains/ensjs) | 156 | 80 | TypeScript | 12 | ENS JavaScript library for contract interaction | 2026-07-14 |
 | 69 | [ensembl-rest](https://github.com/Ensembl/ensembl-rest) | 151 | 62 | Perl | 7 | Language agnostic RESTful data access to Ensembl data over HTTP | 2026-06-16 |
-| 70 | [ensemble](https://github.com/EnsembleUI/ensemble) | 151 | 16 | JavaScript | 220 | Build native apps 20x faster than Flutter, RN or any other tech | 2026-07-17 |
+| 70 | [ensemble](https://github.com/EnsembleUI/ensemble) | 151 | 16 | JavaScript | 220 | Build native apps 20x faster than Flutter, RN or any other tech | 2026-07-19 |
 | 71 | [Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance](https://github.com/hmvu-nv/Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance) | 147 | 15 | Python | 2 | [IEEE TIM] This is official code for paper "Few-Shot Bearing Fault Diagnosis via Ensembling Transformer-based Model with Mahalanobis Distance Metric Learning from Multiscale Features". IEEE Transactio... | 2025-01-15 |
 | 72 | [ensichat](https://github.com/Nutomic/ensichat) | 145 | 18 | Scala | 15 | Project discontinued | 2017-01-04 |
 | 73 | [ensemble-learning](https://github.com/datawhalechina/ensemble-learning) | 144 | 37 | Jupyter Notebook | 1 |  | 2022-04-20 |
 | 74 | [enslavism](https://github.com/KordonBleu/enslavism) | 144 | 4 | JavaScript | 0 | A framework to manage distributed WebRTC servers that communicate with browser clients | 2021-05-12 |
 | 75 | [FrankEnstein-Duct](https://github.com/kevinakasam/FrankEnstein-Duct) | 142 | 19 | - | 0 | Frankenstein also known as Frank Enstein is a light weight fanduct for the Ender 3 or similar printers. It adds a 5015 blower fan and is also compatible with a wide range of Hotends and Extruders.  | 2026-01-28 |
 | 76 | [deep-ensembles-uncertainty](https://github.com/vvanirudh/deep-ensembles-uncertainty) | 141 | 30 | Python | 0 | My implementation of the paper "Simple and Scalable Predictive Uncertainty estimation using Deep Ensembles" | 2018-01-15 |
-| 77 | [freedom-browser](https://github.com/solardev-xyz/freedom-browser) | 135 | 24 | JavaScript | 43 | A browser for the decentralized web, with Swarm, IPFS, and ENS as first-class protocols | 2026-07-17 |
+| 77 | [freedom-browser](https://github.com/solardev-xyz/freedom-browser) | 136 | 24 | JavaScript | 43 | A browser for the decentralized web, with Swarm, IPFS, and ENS as first-class protocols | 2026-07-17 |
 | 78 | [blockhead](https://github.com/darrylyeo/blockhead) | 132 | 49 | TypeScript | 5 | An open-source interface for the decentralized web. Track, visualize and explore EVM-based blockchains, onchain accounts, smart contracts, transactions, DeFi apps and web3 protocols in one place – YOU... | 2026-03-19 |
 | 79 | [scalafx-ensemble](https://github.com/scalafx/scalafx-ensemble) | 130 | 22 | Scala | 2 | scalafx ensemble | 2025-04-26 |
 | 80 | [ensemble-adv-training](https://github.com/ftramer/ensemble-adv-training) | 122 | 31 | Python | 1 | Ensemble Adversarial Training on MNIST | 2017-06-20 |
