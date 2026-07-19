@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-16"
 date: "2026-07-16"
 source: "CoinDesk"
-count: 4
+count: 3
 ---
 
 # CoinDesk - 2026-07-16
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ The exchange's first institutional funding round values it at $20 billion and wi
 If Stripe acquires PayPal, the real prize could be consumer wallets, stablecoin issuance or the infrastructure powering the next generation of digital payments.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments)
-
----
-
-## 4. Visa backs Open USD with new stablecoin platform as Circle faces fresh competition
-
-**Author:** Helene Braun  
-**Published:** 7/16/2026, 4:14:30 PM  
-**Categories:** Finance, Stablecoins, News  
-
-Visa launched a stablecoin platform that lets banks and fintechs issue, manage and settle digital dollars through its payments network.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition)
 
 ---
