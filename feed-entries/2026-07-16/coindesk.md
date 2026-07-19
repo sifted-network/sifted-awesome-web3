@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-16"
 date: "2026-07-16"
 source: "CoinDesk"
-count: 3
+count: 2
 ---
 
 # CoinDesk - 2026-07-16
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ T. Rowe Price launched what it says is the industry's first actively managed mul
 The exchange's first institutional funding round values it at $20 billion and will fund expansion into tokenized securities and derivatives.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion)
-
----
-
-## 3. Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments
-
-**Author:** Jamie Crawley,AI Boost  
-**Published:** 7/16/2026, 4:37:16 PM  
-**Categories:** Finance, Stripe, Stablecoins, News  
-
-If Stripe acquires PayPal, the real prize could be consumer wallets, stablecoin issuance or the infrastructure powering the next generation of digital payments.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments)
 
 ---
