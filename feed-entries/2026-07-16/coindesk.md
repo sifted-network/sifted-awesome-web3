@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-16"
 date: "2026-07-16"
 source: "CoinDesk"
-count: 5
+count: 4
 ---
 
 # CoinDesk - 2026-07-16
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ If Stripe acquires PayPal, the real prize could be consumer wallets, stablecoin 
 Visa launched a stablecoin platform that lets banks and fintechs issue, manage and settle digital dollars through its payments network.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition)
-
----
-
-## 5. Keyrock acquires BlockFills trading assets to expand institutional crypto business
-
-**Author:** Will Canny,AI Boost  
-**Published:** 7/16/2026, 3:26:15 PM  
-**Categories:** Finance, Keyrock, mergers and acquisitions, BlockFills, News  
-
-The deal adds institutional trading clients, derivatives expertise and regulatory licenses as Keyrock looks to deepen its presence in crypto capital markets.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business)
 
 ---
