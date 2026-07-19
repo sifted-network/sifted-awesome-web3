@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-16"
 date: "2026-07-16"
 source: "The Block"
-count: 5
+count: 4
 ---
 
 # The Block - 2026-07-16
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Optimism is brewing to get a crypto bill passed, with some variations on timing 
 Crypto.com plans to use proceeds from its “first institutional funding round" to expand its tokenization and derivatives operations.
 
 📖 [Read original article](https://www.theblock.co/post/408688/citadel-securities-invests-400-million-crypto-com-20-billion-valuation?utm_source=rss&utm_medium=rss)
-
----
-
-## 5. Trump’s longtime teleprompter operator accused of using insider knowledge to place bets on Kalshi: ABC News
-
-**Author:** Sarah Wynn  
-**Published:** 7/16/2026, 5:24:49 PM  
-**Categories:** Companies, People, Policy, Regulation, CFTC, Donald Trump  
-
-President Trump's teleprompter is under scrutiny following a report alleging that he used insider knowledge to place bets on Kalshi.
-
-📖 [Read original article](https://www.theblock.co/post/408692/trump-longtime-teleprompter-operator-accused-insider-knowledge-place-bets-kalshi-abc-news?utm_source=rss&utm_medium=rss)
 
 ---
