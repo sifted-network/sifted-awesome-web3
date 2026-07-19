@@ -2,28 +2,40 @@
 title: "CoinDesk - 2026-07-18"
 date: "2026-07-18"
 source: "CoinDesk"
-count: 6
+count: 7
 ---
 
 # CoinDesk - 2026-07-18
 
-6 items collected.
+7 items collected.
 
 ---
 
-## 1. Crypto executives say digital native generations may never need a bank account
+## 1. France orders country's internet service providers to block Polymarket
+
+**Author:** Francisco Rodrigues,AI Boost  
+**Published:** 7/18/2026, 9:52:18 PM  
+**Categories:** Policy, Polymarket, News  
+
+The regulator cited concerns over addictive mechanics, a lack of self-exclusion tools, and a high volume of French users bypassing previous financial restrictions.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket)
+
+---
+
+## 2. Crypto executives say digital native generations may never need a bank account
 
 **Author:** Olivier Acuna  
 **Published:** 7/18/2026, 6:30:00 PM  
 **Categories:** Finance, Stablecoins, banks, Binance, Standard chartered, News  
 
-teakhouse Financial co-founder Adrian Cachinero says digital-native generations may rely less on banks, while Binance says younger users are already driving crypto adoption in emerging markets.
+Steakhouse Financial co-founder Adrian Cachinero says digital-native generations may rely less on banks, while Binance says younger users are already driving crypto adoption in emerging markets.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account)
 
 ---
 
-## 2. DOG Mode explains Bitcoin's next governance fight
+## 3. DOG Mode explains Bitcoin's next governance fight
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 7/18/2026, 5:00:00 PM  
@@ -35,7 +47,7 @@ Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening
 
 ---
 
-## 3. Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments
+## 4. Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/18/2026, 4:09:59 PM  
@@ -47,7 +59,7 @@ Washington views Brazil’s promotion of non-dollar payment channels, including 
 
 ---
 
-## 4. Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away
+## 5. Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/18/2026, 3:50:31 PM  
@@ -59,7 +71,7 @@ About $542 million weekly sat outside active trading ranges, meaning this capita
 
 ---
 
-## 5. Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets
+## 6. Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets
 
 **Author:** Omkar Godbole  
 **Published:** 7/18/2026, 2:15:15 PM  
@@ -71,7 +83,7 @@ Large traders are betting on a BTC price rise to $72,000 by the end of the month
 
 ---
 
-## 6. Tokenization has become a strategic priority for 84% of financial firms
+## 7. Tokenization has become a strategic priority for 84% of financial firms
 
 **Author:** Helene Braun  
 **Published:** 7/18/2026, 2:00:00 PM  
