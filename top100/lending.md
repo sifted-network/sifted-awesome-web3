@@ -6,8 +6,8 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [fineract](https://github.com/apache/fineract) | 2,315 | 2,607 | Java | 0 | Apache Fineract | 2026-07-17 |
-| 2 | [aave-protocol](https://github.com/aave/aave-protocol) | 1,438 | 593 | HTML | 22 | Aave Protocol Version 1.0 - Decentralized Lending Pools | 2024-08-02 |
+| 1 | [fineract](https://github.com/apache/fineract) | 2,319 | 2,610 | Java | 0 | Apache Fineract | 2026-07-18 |
+| 2 | [aave-protocol](https://github.com/aave/aave-protocol) | 1,439 | 593 | HTML | 22 | Aave Protocol Version 1.0 - Decentralized Lending Pools | 2024-08-02 |
 | 3 | [MikaLendingBot](https://github.com/BitBotFactory/MikaLendingBot) | 1,157 | 346 | Python | 70 | Automated lending on Cryptocurrency exchanges Poloniex and Bitfinex | 2020-12-02 |
 | 4 | [lending](https://github.com/frappe/lending) | 316 | 283 | Python | 13 | Open Source Lending software | 2026-07-17 |
 | 5 | [hand_detection](https://github.com/molyswu/hand_detection) | 277 | 85 | Python | 6 | using Neural Networks (SSD) on Tensorflow.  This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive ... | 2022-01-11 |
@@ -16,7 +16,7 @@
 | 8 | [leihs](https://github.com/leihs/leihs) | 240 | 61 | Shell | 221 | leihs is an inventory management, procurement and lending system | 2026-07-16 |
 | 9 | [ethereum-erc20token-vault](https://github.com/alejoacosta74/ethereum-erc20token-vault) | 229 | 13 | Solidity | 1 | Solidity based VAULT that securely holds ETH whilst lending STABLE TOKEN to users on Ethereum. | 2026-02-28 |
 | 10 | [euler-vault-kit](https://github.com/euler-xyz/euler-vault-kit) | 219 | 74 | Solidity | 3 | Build lending vaults which connect through Ethereum Vault Connector | 2026-03-13 |
-| 11 | [metamorpho](https://github.com/morpho-org/metamorpho) | 186 | 51 | Solidity | 1 | MetaMorpho | 2026-07-16 |
+| 11 | [metamorpho](https://github.com/morpho-org/metamorpho) | 187 | 51 | Solidity | 1 | MetaMorpho | 2026-07-18 |
 | 12 | [core-banking-prototype-laravel](https://github.com/FinAegis/core-banking-prototype-laravel) | 182 | 47 | PHP | 0 | Open-source core banking platform — 61 DDD domains with event sourcing, CQRS, and a schema-first GraphQL API. Multi-asset accounts, exchange, lending, compliance, x402/MPP machine payments, and a non-... | 2026-07-13 |
 | 13 | [LoanDefault-Prediction](https://github.com/harishpuvvada/LoanDefault-Prediction) | 170 | 135 | Jupyter Notebook | 0 | Lending Club Loan data analysis | 2019-07-08 |
 | 14 | [BitfinexLendingBot](https://github.com/eAndrius/BitfinexLendingBot) | 168 | 60 | Go | 1 | BitfinexLendingBot - A bot for automated lending at Bitfinex | 2018-12-15 |
@@ -65,8 +65,8 @@
 | 57 | [joe-lending](https://github.com/lfj-gg/joe-lending) | 62 | 27 | Solidity | 0 | 🏦 Banker Joe protocol | 2026-05-01 |
 | 58 | [bitfinex-lending-bot](https://github.com/huaying/bitfinex-lending-bot) | 62 | 24 | JavaScript | 0 | Bitfinex Lending Bot automates the funding on Bitfinex 自動放貸機器人 | 2023-01-05 |
 | 59 | [loan-default-prediction](https://github.com/ikunal95/loan-default-prediction) | 61 | 36 | HTML | 0 | Lending Club Data Loan Default Prediction | 2023-05-01 |
-| 60 | [XFEM](https://github.com/ShelvanLee/XFEM) | 61 | 5 | MATLAB | 0 |  # XFEM_Fracture2D  ### Description  This is a Matlab program that can be used to solve fracture problems involving arbitrary multiple crack propagations in a 2D linear-elastic solid based on the prin... | 2022-04-28 |
-| 61 | [cli](https://github.com/jup-ag/cli) | 60 | 18 | TypeScript | 0 | CLI for interacting with Jupiter's products on Solana: Spot, Perps, Lend, Prediction Markets and more. | 2026-06-02 |
+| 60 | [cli](https://github.com/jup-ag/cli) | 61 | 18 | TypeScript | 0 | CLI for interacting with Jupiter's products on Solana: Spot, Perps, Lend, Prediction Markets and more. | 2026-06-02 |
+| 61 | [XFEM](https://github.com/ShelvanLee/XFEM) | 61 | 5 | MATLAB | 0 |  # XFEM_Fracture2D  ### Description  This is a Matlab program that can be used to solve fracture problems involving arbitrary multiple crack propagations in a 2D linear-elastic solid based on the prin... | 2022-04-28 |
 | 62 | [crypto-papers](https://github.com/irnb/crypto-papers) | 58 | 5 | Python | 0 | Curated crypto research inbox for papers and technical threads on core blockchain protocols, ZK, L2s, Bitcoin, Ethereum, DeFi, and emerging applications. | 2026-07-08 |
 | 63 | [klend-sdk](https://github.com/Kamino-Finance/klend-sdk) | 57 | 40 | TypeScript | 4 | 🛠️ Kamino Lending TypeScript SDK | 2026-05-05 |
 | 64 | [sui-scallop-sdk](https://github.com/scallop-io/sui-scallop-sdk) | 56 | 15 | TypeScript | 1 | This is the typescript sdk for the scallop lending platform on SUI network | 2026-07-14 |
