@@ -6,10 +6,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [fineract](https://github.com/apache/fineract) | 2,319 | 2,610 | Java | 0 | Apache Fineract | 2026-07-18 |
+| 1 | [fineract](https://github.com/apache/fineract) | 2,321 | 2,610 | Java | 0 | Apache Fineract | 2026-07-18 |
 | 2 | [aave-protocol](https://github.com/aave/aave-protocol) | 1,439 | 593 | HTML | 22 | Aave Protocol Version 1.0 - Decentralized Lending Pools | 2024-08-02 |
 | 3 | [MikaLendingBot](https://github.com/BitBotFactory/MikaLendingBot) | 1,157 | 346 | Python | 70 | Automated lending on Cryptocurrency exchanges Poloniex and Bitfinex | 2020-12-02 |
-| 4 | [lending](https://github.com/frappe/lending) | 316 | 283 | Python | 13 | Open Source Lending software | 2026-07-17 |
+| 4 | [lending](https://github.com/frappe/lending) | 316 | 283 | Python | 13 | Open Source Lending software | 2026-07-19 |
 | 5 | [hand_detection](https://github.com/molyswu/hand_detection) | 277 | 85 | Python | 6 | using Neural Networks (SSD) on Tensorflow.  This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive ... | 2022-01-11 |
 | 6 | [dharma-smart-wallet](https://github.com/dharma-eng/dharma-smart-wallet) | 269 | 38 | Solidity | 1 | An upgradeable, meta-transaction-enabled smart wallet for earning interest on stablecoins while retaining custody of funds, with an added security backstop provided by Dharma Labs. | 2023-01-04 |
 | 7 | [flash-lending](https://github.com/marbleprotocol/flash-lending) | 250 | 59 | Solidity | 11 | Flash lending smart contracts | 2018-11-18 |
@@ -69,7 +69,7 @@
 | 61 | [XFEM](https://github.com/ShelvanLee/XFEM) | 61 | 5 | MATLAB | 0 |  # XFEM_Fracture2D  ### Description  This is a Matlab program that can be used to solve fracture problems involving arbitrary multiple crack propagations in a 2D linear-elastic solid based on the prin... | 2022-04-28 |
 | 62 | [crypto-papers](https://github.com/irnb/crypto-papers) | 58 | 5 | Python | 0 | Curated crypto research inbox for papers and technical threads on core blockchain protocols, ZK, L2s, Bitcoin, Ethereum, DeFi, and emerging applications. | 2026-07-08 |
 | 63 | [klend-sdk](https://github.com/Kamino-Finance/klend-sdk) | 57 | 40 | TypeScript | 4 | 🛠️ Kamino Lending TypeScript SDK | 2026-05-05 |
-| 64 | [sui-scallop-sdk](https://github.com/scallop-io/sui-scallop-sdk) | 56 | 15 | TypeScript | 1 | This is the typescript sdk for the scallop lending platform on SUI network | 2026-07-14 |
+| 64 | [sui-scallop-sdk](https://github.com/scallop-io/sui-scallop-sdk) | 56 | 15 | TypeScript | 1 | This is the typescript sdk for the scallop lending platform on SUI network | 2026-07-19 |
 | 65 | [paraspace-core](https://github.com/parallel-finance/paraspace-core) | 56 | 41 | Solidity | 3 | Para-Space NFT Money Market | 2024-08-27 |
 | 66 | [n3rp](https://github.com/GrantStenger/n3rp) | 55 | 10 | Jupyter Notebook | 1 | N3RP (the NFT Rental Protocol) allows users to trustlessly rent out their ERC721-based assets. | 2022-09-13 |
 | 67 | [ftx-lending-bot](https://github.com/dwy6626/ftx-lending-bot) | 54 | 25 | Python | 0 | Renew lending amount on FTX | 2022-11-08 |
@@ -96,7 +96,7 @@
 | 88 | [Seismic](https://github.com/MeoMunDep/Seismic) | 40 | 1 | Shell | 0 | Auto deploy nft, token, transfer faucet, lend, borrow, rent tokens, connect wallets.  | 2025-11-16 |
 | 89 | [universal-crypto-mcp](https://github.com/nirholas/universal-crypto-mcp) | 39 | 10 | TypeScript | 3 | Universal MCP server for AI agents to interact with any* blockchain via natural language and plugins. Supports swaps, bridges, gas, staking, lending, and more across Ethereum, Arbitrum, Base, Polygon,... | 2026-07-14 |
 | 90 | [augmented-finance-protocol](https://github.com/augmented-finance/augmented-finance-protocol) | 38 | 19 | TypeScript | 0 | High-yield lending and low-rate borrowing DeFi protocol | 2022-07-05 |
-| 91 | [Fair-Code](https://github.com/yakew7/Fair-Code) | 38 | 14 | Jupyter Notebook | 11 | Auditing algorithmic bias in criminal justice, hiring, lending, healthcare, and welfare: 6 open-source audits, measurable fairness gaps, and concrete fixes. | 2026-07-17 |
+| 91 | [Fair-Code](https://github.com/yakew7/Fair-Code) | 38 | 14 | HTML | 11 | Auditing algorithmic bias in criminal justice, hiring, lending, healthcare, and welfare: 6 open-source audits, measurable fairness gaps, and concrete fixes. | 2026-07-19 |
 | 92 | [lending-amm-model](https://github.com/curvefi/lending-amm-model) | 37 | 9 | Python | 0 | Model of LLAMMA for lending and stablecoin purposes | 2023-12-09 |
 | 93 | [opendb](https://github.com/pellcorp/opendb) | 36 | 24 | PHP | 19 | Open Media Lending Database | 2021-11-11 |
 | 94 | [arcadia-lending](https://github.com/arcadia-finance/arcadia-lending) | 36 | 6 | Solidity | 2 | Arcadia Lending is the first application leveraging our Arcadia Vaults. It is a non-custodial peer-to-contract lending protocol where users can borrow against a combination of assets. | 2023-06-05 |
