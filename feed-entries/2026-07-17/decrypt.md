@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-17"
 date: "2026-07-17"
 source: "Decrypt"
-count: 9
+count: 5
 ---
 
 # Decrypt - 2026-07-17
 
-9 items collected.
+5 items collected.
 
 ---
 
@@ -68,53 +68,5 @@ Moonshot AI's 2.8-trillion-parameter model tops Fable 5 on a creative writing be
 The Nasdaq-listed digital-asset firm will rebrand the Red Raiders' home as "Galaxy Stadium." The bigger bet is on the cheap power and open land of West Texas.
 
 📖 [Read original article](https://decrypt.co/373710/galaxy-texas-tech-stadium-15-year-crypto-native-deal)
-
----
-
-## 6. Three Men Jailed for Posing as Police in $5.3M UK Crypto Fraud
-
-**Author:** Decrypt Agent  
-**Published:** 7/17/2026, 1:46:58 PM  
-**Categories:** , , Law and Order  
-
-The gang built fake police websites to fool victims, then spent the stolen crypto on Rolexes and luxury holidays, the Met said.
-
-📖 [Read original article](https://decrypt.co/373702/three-men-jailed-for-posing-as-police-in-5-3m-uk-crypto-fraud)
-
----
-
-## 7. Morning Minute: Citadel Securities Invests $400M in Crypto.com
-
-**Author:** Tyler Warner  
-**Published:** 7/17/2026, 12:09:14 PM  
-**Categories:** Opinion  
-
-Wall Street and crypto's convergence snapped into focus, while crypto majors gave back most of the week's gains as broader markets sold off.
-
-📖 [Read original article](https://decrypt.co/373699/morning-minute-citadel-securities-invests-400m-in-crypto-com)
-
----
-
-## 8. Bitcoin Tests $63K as Long-Term Holders Keep Selling at a Loss
-
-**Author:** Decrypt Agent  
-**Published:** 7/17/2026, 11:21:16 AM  
-**Categories:** , Markets  
-
-Some two-thirds of the coins moving onto exchanges are long-term holders taking losses, as a macro risk-off drags on Bitcoin’s price.
-
-📖 [Read original article](https://decrypt.co/373696/bitcoin-tests-63k-as-long-term-holders-keep-selling-at-a-loss)
-
----
-
-## 9. Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment
-
-**Author:** Decrypt Agent  
-**Published:** 7/17/2026, 10:12:33 AM  
-**Categories:** , , Business  
-
-The market maker's stake marks Crypto.com's first institutional funding round, as Wall Street deepens its push into crypto.
-
-📖 [Read original article](https://decrypt.co/373693/crypto-com-hits-20b-valuation-after-400m-citadel-securities-investment)
 
 ---
