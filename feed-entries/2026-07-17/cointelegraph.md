@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-17"
 date: "2026-07-17"
 source: "Cointelegraph"
-count: 23
+count: 21
 ---
 
 # Cointelegraph - 2026-07-17
 
-23 items collected.
+21 items collected.
 
 ---
 
@@ -260,29 +260,5 @@ The launch gives Bybit a locally operated platform in one of Asia’s largest cr
 The paid Truth API is aimed at high-frequency trading firms seeking “the fastest” access to market-moving Truth Social posts, including those from US President Donald Trump.
 
 📖 [Read original article](https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Balaji seeks Malaysia deal, threatens exit after Network School probe
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/17/2026, 1:54:00 AM  
-**Categories:** Latest News  
-
-“If we are not welcome, there are many other countries that would welcome us,” said Network School founder Balaji Srinivasan in a message to the Malaysian prime minister.
-
-📖 [Read original article](https://cointelegraph.com/news/balaji-seeks-malaysia-deal-threatens-exit-after-network-school-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price
-
-**Author:** Cointelegraph by Ray Salmond  
-**Published:** 7/17/2026, 12:12:40 AM  
-**Categories:** Markets  
-
-Bitcoin futures traders are propping up the current market move, while liquidation heatmap data provides hints on where BTC price may go next.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
