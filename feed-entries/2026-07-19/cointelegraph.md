@@ -2,28 +2,16 @@
 title: "Cointelegraph - 2026-07-19"
 date: "2026-07-19"
 source: "Cointelegraph"
-count: 4
+count: 3
 ---
 
 # Cointelegraph - 2026-07-19
 
-4 items collected.
+3 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/19/2026, 6:23:00 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. Saylor turns up heat with ‘110 reasons’ why BIP-110 is a bad idea
+## 1. Saylor turns up heat with ‘110 reasons’ why BIP-110 is a bad idea
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 7/19/2026, 4:37:00 PM  
@@ -35,7 +23,7 @@ The man in control of the biggest Bitcoin corporate treasury said he shares the 
 
 ---
 
-## 3. US agencies miss GENIUS Act deadline for final stablecoin rules
+## 2. US agencies miss GENIUS Act deadline for final stablecoin rules
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/19/2026, 12:56:00 PM  
@@ -47,7 +35,7 @@ US regulators failed to finalize implementing regulations by the GENIUS Act’s 
 
 ---
 
-## 4. Upbit parent Dunamu faces South Korean regulator sanctions process: Report
+## 3. Upbit parent Dunamu faces South Korean regulator sanctions process: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/19/2026, 10:23:00 AM  
