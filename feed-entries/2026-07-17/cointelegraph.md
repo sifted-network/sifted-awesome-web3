@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-17"
 date: "2026-07-17"
 source: "Cointelegraph"
-count: 17
+count: 7
 ---
 
 # Cointelegraph - 2026-07-17
 
-17 items collected.
+7 items collected.
 
 ---
 
@@ -92,125 +92,5 @@ With the Senate likely voting on a crypto bill within days, Elizabeth Warren ask
 Bitcoin saw a key rejection at local highs before reversing lower, moving with stocks for a second day as US-Iran war downside took its toll.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. HSBC wins Bank of England approval to enter Digital Securities Sandbox
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/17/2026, 1:54:27 PM  
-**Categories:** Latest News  
-
-The Bank of England approved HSBC Orion to go live in its Digital Securities Sandbox, with the first Digital Gilt Instrument transaction expected in the first quarter of 2027.
-
-📖 [Read original article](https://cointelegraph.com/news/hsbc-bank-of-england-approval-digital-securities-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. SBI acquires Singaporean crypto platform Coinhako after MAS approval
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/17/2026, 1:30:20 PM  
-**Categories:** Latest News  
-
-SBI Holdings received regulatory approval to acquire a majority stake in Singapore-based crypto exchange Coinhako as it expands into stablecoins, onchain finance and tokenized assets.
-
-📖 [Read original article](https://cointelegraph.com/news/sbi-receives-mas-approval-to-acquire-singaporean-coinhako?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 7/17/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Kraken, Bitstamp, 1inch and Bitfinex have all set up shop in the British Virgin Islands — but you might find it tricky to book an on-site meeting with one of their executives.
-
-📖 [Read original article](https://cointelegraph.com/magazine/why-is-the-british-virgin-islands-becoming-a-legal-home-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Dutch court declares crypto platform Knaken bankrupt over missing funds
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/17/2026, 12:21:55 PM  
-**Categories:** Latest News  
-
-The Rotterdam court said bankruptcy was necessary to ensure an orderly settlement because the company lacked enough assets to fully repay users.
-
-📖 [Read original article](https://cointelegraph.com/news/dutch-court-knaken-crypto-platform-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Stablecoin growth will erode bank deposits, says ECB’s Cipollone
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/17/2026, 12:03:51 PM  
-**Categories:** Latest News  
-
-ECB’s Piero Cipollone said stablecoin adoption could erode bank deposits, but the digital euro will keep banks at the center of payments.
-
-📖 [Read original article](https://cointelegraph.com/news/stablecoin-growth-bank-deposits-ecbs-cipollone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. UK sentences 2 hackers tied to $115M crypto ransom scheme
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/17/2026, 11:22:55 AM  
-**Categories:** Latest News  
-
-The pair pleaded guilty after investigators linked them to the Scattered Spider cybercrime group, which US prosecutors say extorted dozens of companies.
-
-📖 [Read original article](https://cointelegraph.com/news/london-police-sentence-hackers-crypto-ransom-public-transport?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. ESMA adds 14 new CASPs to MiCA register as licensing slows
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/17/2026, 10:29:35 AM  
-**Categories:** Latest News  
-
-ESMA adds 14 CASPs to its MiCA register, with banks and Ripple Payments Europe among the new entries as total providers reach 294.
-
-📖 [Read original article](https://cointelegraph.com/news/mica-licensing-momentum-slows-post-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitcoin bottom countdown nears 50 days after BTC supply in loss passed 50%
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/17/2026, 9:51:33 AM  
-**Categories:** Markets  
-
-Bitcoin supply in loss hit 50% nearly 50 days ago, mimicking the countdown to BTC price bear-market bottoms.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-bottom-countdown-nears-50-days-after-btc-supply-in-loss-passed-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. US indicts crypto investor over alleged $20M fraud scheme
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/17/2026, 9:25:33 AM  
-**Categories:** Latest News  
-
-Federal prosecutors allege the South Dakota investor used false promises to raise money, repaid earlier investors with new funds and laundered proceeds through crypto exchanges.
-
-📖 [Read original article](https://cointelegraph.com/news/us-indicts-crypto-investor-over-alleged-20m-fraud-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/17/2026, 8:48:20 AM  
-**Categories:** Latest News  
-
-A macOS malware steals credentials to hijack Telegram sessions, decrypt cryptocurrency wallets or trick users into entering their wallet recovery phrases through fake applications.
-
-📖 [Read original article](https://cointelegraph.com/news/macos-malware-crypto-investors-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
