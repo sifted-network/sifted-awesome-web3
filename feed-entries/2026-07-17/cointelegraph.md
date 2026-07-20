@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-17"
 date: "2026-07-17"
 source: "Cointelegraph"
-count: 21
+count: 17
 ---
 
 # Cointelegraph - 2026-07-17
 
-21 items collected.
+17 items collected.
 
 ---
 
@@ -212,53 +212,5 @@ Federal prosecutors allege the South Dakota investor used false promises to rais
 A macOS malware steals credentials to hijack Telegram sessions, decrypt cryptocurrency wallets or trick users into entering their wallet recovery phrases through fake applications.
 
 📖 [Read original article](https://cointelegraph.com/news/macos-malware-crypto-investors-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Bitcoin ETFs add $368M in three-day buying streak
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/17/2026, 7:23:02 AM  
-**Categories:** Latest News  
-
-US spot Bitcoin ETFs attracted $79.2 million on Thursday, lifting their three-day inflow total to about $368 million as Bitcoin attempted a price recovery.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-etfs-368-million-three-day-buying-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/17/2026, 5:54:04 AM  
-**Categories:** Latest News  
-
-“Over time the economic incentives will drive $DOG Mode’s adoption and force Bitcoin Core to stop gatekeeping and allow these completely valid transactions,” said Leonidas.
-
-📖 [Read original article](https://cointelegraph.com/news/ordinals-dev-leonidas-proposes-new-bitcoin-client-dog-mode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Crypto exchange Bybit launches in Indonesia after NOBI acquisition
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/17/2026, 4:16:32 AM  
-**Categories:** Latest News  
-
-The launch gives Bybit a locally operated platform in one of Asia’s largest crypto markets, home to more than 21 million crypto exchange users.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-exchange-bybit-launches-in-indonesia-after-nobi-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Trump Media sells Wall Street low-latency access to Trump posts
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/17/2026, 2:23:40 AM  
-**Categories:** Latest News  
-
-The paid Truth API is aimed at high-frequency trading firms seeking “the fastest” access to market-moving Truth Social posts, including those from US President Donald Trump.
-
-📖 [Read original article](https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
