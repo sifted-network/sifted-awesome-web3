@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-17"
 date: "2026-07-17"
 source: "CoinDesk"
-count: 11
+count: 6
 ---
 
 # CoinDesk - 2026-07-17
 
-11 items collected.
+6 items collected.
 
 ---
 
@@ -80,65 +80,5 @@ The securities giant announced today the consolidation of Singapore-based Coinha
 Moonshot's Kimi K3 took the top spot in frontend coding away from Claude and OpenAI, and it's free. Semiconductor stocks fell, and crypto fell with them.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark)
-
----
-
-## 7. AI frenzy losing steam leaves bitcoin less volatile than South Korean stocks
-
-**Author:** Omkar Godbole  
-**Published:** 7/17/2026, 11:48:20 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for July 17, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/17/ai-frenzy-losing-steam-leaves-bitcoin-less-volatile-than-south-korean-stocks)
-
----
-
-## 8. Live markets: Bitcoin returns to $63,000 as Nasdaq trims large early loss
-
-**Author:** Shaurya Malwa,Omkar Godbole  
-**Published:** 7/17/2026, 10:43:57 AM  
-**Categories:** Markets, Live News, live_news  
-
-A deepening global selloff in chipmakers dragged risk assets lower, pulling bitcoin back from the $65,000 level it reached on this week's soft inflation print.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global)
-
----
-
-## 9. Risk-off wave drags bitcoin below $63,000 as AI selloff spreads from stocks to crypto
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 7/17/2026, 10:26:06 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Crypto fell as AI stock fatigue and U.S.-Iran tensions weighed on sentiment, though a technical measure hints at oversold conditions heading into the weekend.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/17/risk-off-wave-drags-bitcoin-below-usd63-000-as-ai-selloff-spreads-from-stocks-to-crypto)
-
----
-
-## 10. Airbnb CEO says X account was hacked, attacker posted AI-slop on tokenization
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/17/2026, 8:50:22 AM  
-**Categories:** Web3, Hack, Tokenization, News  
-
-Brian Chesky regained control of his account and told any new crypto followers he would be a "disappointing follow".
-
-📖 [Read original article](https://www.coindesk.com/web3/2026/07/17/airbnb-ceo-says-x-account-was-hacked-attacker-posted-ai-slop-thread-on-tokenization)
-
----
-
-## 11. Ether falls twice as hard as bitcoin and HYPE drops 10% as the chip trade unwinds
-
-**Author:** Shaurya Malwa  
-**Published:** 7/17/2026, 7:29:41 AM  
-**Categories:** Markets, News  
-
-Japan's Nikkei had its worst day since March. Ether is still the only major holding a gain on the week, barely.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/17/ether-falls-twice-as-hard-as-bitcoin-and-hype-drops-10-as-the-chip-trade-unwinds)
 
 ---
