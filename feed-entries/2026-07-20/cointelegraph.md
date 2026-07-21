@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-20"
 date: "2026-07-20"
 source: "Cointelegraph"
-count: 28
+count: 22
 ---
 
 # Cointelegraph - 2026-07-20
 
-28 items collected.
+22 items collected.
 
 ---
 
@@ -35,7 +35,7 @@ The recognition allows regulated firms in Abu Dhabi Global Market to offer servi
 
 ---
 
-## 3. Bitcoin defies recent tech stocks sell-off. Are bulls eyeing a $70K rally?
+## 3. Bitcoin defies recent tech stocks sell-off: Are bulls eyeing $70K rally?
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 7/20/2026, 9:20:09 PM  
@@ -47,19 +47,7 @@ Despite muted derivatives sentiment, Bitcoin’s decoupling and Strategy’s cas
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/20/2026, 9:07:27 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. SEC sues Mining Automatic and founder over alleged $22M crypto mining scheme
+## 4. SEC sues Mining Automatic and founder over alleged $22M crypto mining scheme
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/20/2026, 8:27:54 PM  
@@ -71,7 +59,7 @@ The SEC alleges Mining Automatic and its founder raised $22 million from investo
 
 ---
 
-## 6. Exodus to cut 25% of staff in company reorganization
+## 5. Exodus to cut 25% of staff in company reorganization
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/20/2026, 7:29:11 PM  
@@ -83,7 +71,7 @@ The wallet company said it expected the layoffs to generate between $10 million 
 
 ---
 
-## 7. Hut 8, IREN deals lift AI-focused Bitcoin mining stocks
+## 6. Hut 8, IREN deals lift AI-focused Bitcoin mining stocks
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/20/2026, 5:27:31 PM  
@@ -95,7 +83,7 @@ Bitcoin miners rallied as investors cheered multi-billion-dollar AI infrastructu
 
 ---
 
-## 8. Nigerian president signs order on approach to crypto regulation, taxes
+## 7. Nigerian president signs order on approach to crypto regulation, taxes
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/20/2026, 4:59:50 PM  
@@ -107,7 +95,7 @@ The West African country’s executive order established a virtual asset council
 
 ---
 
-## 9. Bernstein raises Robinhood price target, cites tokenization and prediction markets
+## 8. Bernstein raises Robinhood price target, cites tokenization and prediction markets
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/20/2026, 4:53:25 PM  
@@ -119,7 +107,7 @@ The brokerage’s blockchain strategy, including tokenized equities and its Arbi
 
 ---
 
-## 10. Bitcoin price hits $65K wall as stocks battle ‘record’ institutional tech sell-off
+## 9. Bitcoin price hits $65K wall as stocks battle ‘record’ institutional tech sell-off
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/20/2026, 3:47:00 PM  
@@ -131,7 +119,7 @@ Bitcoin faced troublesome resistance at $65,000 while traders still saw a potent
 
 ---
 
-## 11. IREN jumps 16% after raising AI cloud revenue target above $4B
+## 10. IREN jumps 16% after raising AI cloud revenue target above $4B
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/20/2026, 3:20:25 PM  
@@ -143,7 +131,7 @@ The Bitcoin miner raised its year-end AI cloud revenue target to more than $4 bi
 
 ---
 
-## 12. Peter Brandt predicts the exact day Bitcoin’s bear market will be over
+## 11. Peter Brandt predicts the exact day Bitcoin’s bear market will be over
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 7/20/2026, 1:30:00 PM  
@@ -155,7 +143,7 @@ Renowned trading analyst Peter Brandt says investing in Bitcoin today, will pay 
 
 ---
 
-## 13. Strategy raises $263.5M through MSTR sales, holds 843,775 Bitcoin
+## 12. Strategy raises $263.5M through MSTR sales, holds 843,775 Bitcoin
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/20/2026, 12:39:49 PM  
@@ -167,7 +155,7 @@ Strategy boosted its cash reserve to $3.225 billion after selling MSTR shares, w
 
 ---
 
-## 14. Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers
+## 13. Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/20/2026, 12:20:23 PM  
@@ -179,7 +167,7 @@ Hyperliquid plans to require developers to stake 500,000 HYPE, worth about $30.4
 
 ---
 
-## 15. Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout
+## 14. Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/20/2026, 12:04:06 PM  
@@ -191,7 +179,7 @@ The new rules establish penalties as much as $1,900 for crypto violations, inclu
 
 ---
 
-## 16. Zilliqa asks exchanges to pause ZIL transfers after suspected cold wallet theft
+## 15. Zilliqa asks exchanges to pause ZIL transfers after suspected cold wallet theft
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/20/2026, 12:03:35 PM  
@@ -203,7 +191,7 @@ Zilliqa said exchanges paused ZIL deposits and withdrawals after an exchange par
 
 ---
 
-## 17. Crypto institutions look beyond audits as trust signals falter: Hacken
+## 16. Crypto institutions look beyond audits as trust signals falter: Hacken
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/20/2026, 11:00:00 AM  
@@ -215,7 +203,7 @@ Institutional due diligence is shifting toward continuous monitoring, signer con
 
 ---
 
-## 18. Capital B approves 10-for-1 reverse stock split to broaden investor base
+## 17. Capital B approves 10-for-1 reverse stock split to broaden investor base
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/20/2026, 10:54:00 AM  
@@ -227,7 +215,7 @@ Europe’s second-biggest Bitcoin treasury company said the September reverse st
 
 ---
 
-## 19. Russia’s parliament to hold final readings on crypto bill Tuesday
+## 18. Russia’s parliament to hold final readings on crypto bill Tuesday
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/20/2026, 10:37:23 AM  
@@ -239,7 +227,7 @@ Russia’s State Duma is set to consider the crypto regulation bill in second an
 
 ---
 
-## 20. Grayscale plans regular cash payouts from ETH, SOL staking rewards
+## 19. Grayscale plans regular cash payouts from ETH, SOL staking rewards
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/20/2026, 10:36:30 AM  
@@ -251,7 +239,7 @@ Grayscale plans to establish regular cash distributions from staking rewards gen
 
 ---
 
-## 21. Trader maintains $67K BTC price target: Five things to know in Bitcoin this week
+## 20. Trader maintains $67K BTC price target: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/20/2026, 10:26:36 AM  
@@ -263,7 +251,7 @@ Bitcoin preserved a key long-term trend line as support for a third week as US-I
 
 ---
 
-## 22. Bitcoin ETF inflows extend to second week, but recovery lacks momentum
+## 21. Bitcoin ETF inflows extend to second week, but recovery lacks momentum
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/20/2026, 9:33:19 AM  
@@ -275,7 +263,7 @@ US spot Bitcoin ETFs extended their inflow streak to two weeks with $75.7 millio
 
 ---
 
-## 23. South Korea eyes September launch for second phase of CBDC pilot: Report
+## 22. South Korea eyes September launch for second phase of CBDC pilot: Report
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/20/2026, 7:18:28 AM  
@@ -284,65 +272,5 @@ US spot Bitcoin ETFs extended their inflow streak to two weeks with $75.7 millio
 The Bank of Korea’s CBDC pilot will add two regional banks, new payment features and tests of government subsidy payments using tokenized bank deposits
 
 📖 [Read original article](https://cointelegraph.com/news/south-korea-september-second-phase-cbdc-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 24. Cardano activates van Rossem hard fork
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/20/2026, 4:26:17 AM  
-**Categories:** Latest News  
-
-The upgrade reduces smart contract execution costs while laying the groundwork for Ouroboros Leios, a major scalability upgrade expected later this year.
-
-📖 [Read original article](https://cointelegraph.com/news/cardano-activates-van-rossem-hard-fork-paving-way-for-leios?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. Allbridge pauses cross-chain bridge after $1.65M exploit
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/20/2026, 2:23:36 AM  
-**Categories:** Latest News  
-
-The attacker allegedly used a flash loan and rapid swaps to manipulate the bridge’s stablecoin exchange rate.
-
-📖 [Read original article](https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 26. Japanese logistics company eyes JPYC stablecoin to pay drivers
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/20/2026, 1:27:42 AM  
-**Categories:** Latest News  
-
-The planned rollout would let thousands of transportation contractors receive digital yen payments more frequently and quickly.
-
-📖 [Read original article](https://cointelegraph.com/news/japanese-logistics-company-eyes-jpyc-stablecoin-to-pay-drivers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 27. South Korea probed 40 cases of crypto manipulation over 2 years
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/20/2026, 12:33:12 AM  
-**Categories:** Latest News  
-
-Financial Services Commission Chair Lee Eog-won posted the figures on the second anniversary of the enactment of the Virtual Asset User Protection Act.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korea-probed-40-cases-of-crypto-manipulation-over-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 28. Will the US get CLARITY this week? Bitcoin’s new $80K target: Hodler’s Digest, July 19
-
-**Author:** Cointelegraph by Andrew Fenton  
-**Published:** 7/20/2026, 12:12:06 AM  
-**Categories:** Magazine  
-
-The fate of the CLARITY Act hinges on Trump’s ethics, so the odds aren’t looking great. Prediction market volumes hit new highs, and more news.
-
-📖 [Read original article](https://cointelegraph.com/magazine/will-the-us-get-finally-clarity-this-week-bitcoin-80k-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
