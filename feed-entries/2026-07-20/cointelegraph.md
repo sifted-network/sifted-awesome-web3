@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-20"
 date: "2026-07-20"
 source: "Cointelegraph"
-count: 16
+count: 8
 ---
 
 # Cointelegraph - 2026-07-20
 
-16 items collected.
+8 items collected.
 
 ---
 
@@ -104,101 +104,5 @@ The West African country’s executive order established a virtual asset council
 The brokerage’s blockchain strategy, including tokenized equities and its Arbitrum-based Robinhood Chain, could reduce its reliance on traditional crypto trading, analysts said.
 
 📖 [Read original article](https://cointelegraph.com/news/bernstein-raises-robinhood-price-target-cites-tokenization-and-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bitcoin price hits $65K wall as stocks battle ‘record’ institutional tech sell-off
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/20/2026, 3:47:00 PM  
-**Categories:** Markets  
-
-Bitcoin faced troublesome resistance at $65,000 while traders still saw a potential BTC price breakout into a “bullish market structure.”
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-hits-65k-wall-as-stock-battle-record-institutional-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. IREN jumps 16% after raising AI cloud revenue target above $4B
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 7/20/2026, 3:20:25 PM  
-**Categories:** Latest News  
-
-The Bitcoin miner raised its year-end AI cloud revenue target to more than $4 billion after signing $2.8 billion in new contracts with AI developers.
-
-📖 [Read original article](https://cointelegraph.com/news/iren-jumps-16-after-raising-ai-cloud-revenue-target-above-4b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Peter Brandt predicts the exact day Bitcoin’s bear market will be over
-
-**Author:** Cointelegraph by Ciaran Lyons  
-**Published:** 7/20/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Renowned trading analyst Peter Brandt says investing in Bitcoin today, will pay off much better in two to three years than buying AI stocks at current prices.
-
-📖 [Read original article](https://cointelegraph.com/magazine/peter-brandt-says-bitcoins-bear-market-isnt-over-predicts-final-bottom-in-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Strategy raises $263.5M through MSTR sales, holds 843,775 Bitcoin
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/20/2026, 12:39:49 PM  
-**Categories:** Latest News  
-
-Strategy boosted its cash reserve to $3.225 billion after selling MSTR shares, while investors weighed the value of its STRC preferred stock.
-
-📖 [Read original article](https://cointelegraph.com/news/strategy-263-5-million-mstr-raise-holds-843775-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/20/2026, 12:20:23 PM  
-**Categories:** Latest News  
-
-Hyperliquid plans to require developers to stake 500,000 HYPE, worth about $30.4 million, to deploy permissionless prediction markets under HIP-4.
-
-📖 [Read original article](https://cointelegraph.com/news/hyperliquid-hype-stake-permissionless-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/20/2026, 12:04:06 PM  
-**Categories:** Latest News  
-
-The new rules establish penalties as much as $1,900 for crypto violations, including unlicensed trading and AML breaches, ahead of Vietnam’s regulated crypto market launch.
-
-📖 [Read original article](https://cointelegraph.com/news/vietnam-crypto-traders-unlicensed-platforms-fines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Zilliqa asks exchanges to pause ZIL transfers after suspected cold wallet theft
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/20/2026, 12:03:35 PM  
-**Categories:** Latest News  
-
-Zilliqa said exchanges paused ZIL deposits and withdrawals after an exchange partner’s cold wallet was compromised, with the amount stolen still undisclosed.
-
-📖 [Read original article](https://cointelegraph.com/news/zilliqa-zil-deposit-halt-exchange-partner-wallet-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Capital B approves 10-for-1 reverse stock split to broaden investor base
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/20/2026, 10:54:00 AM  
-**Categories:** Latest News  
-
-Europe’s second-biggest Bitcoin treasury company said the September reverse stock split should attract more institutional investors to the French company.
-
-📖 [Read original article](https://cointelegraph.com/news/capital-b-reverse-stock-split-investor-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
