@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-07-20"
 date: "2026-07-20"
 source: "Decrypt"
-count: 7
+count: 9
 ---
 
 # Decrypt - 2026-07-20
 
-7 items collected.
+9 items collected.
 
 ---
 
-## 1. Cardano Triggers Hard Fork With First Community-Voted Upgrade
+## 1. Bank of Korea Scales Up CBDC Pilot With Half a Million Users
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/20/2026, 9:12:03 PM  
+**Categories:** Business  
+
+Phase 1 of Project Hangang opened 81,000 wallets with 42% of them using the CBDC. Phase 2 is bigger, and this time it moves real government money.
+
+📖 [Read original article](https://decrypt.co/373905/bank-korea-scales-up-cbdc-pilot-half-million-users)
+
+---
+
+## 2. Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/20/2026, 8:02:33 PM  
+**Categories:** Coins  
+
+The bill licenses exchanges, caps retail investors at about $3,800 a year, and creates a legal pathway for Russian companies to pay foreign partners in crypto—bypassing Western sanctions.
+
+📖 [Read original article](https://decrypt.co/373880/russia-first-comprehensive-crypto-law)
+
+---
+
+## 3. Cardano Triggers Hard Fork With First Community-Voted Upgrade
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/20/2026, 6:50:48 PM  
@@ -23,7 +47,7 @@ For the first time in Cardano's history, no company flipped the switch on a majo
 
 ---
 
-## 2. Bitcoin ETFs Are Green Again—Here’s Why Investors Should Zoom Out
+## 4. Bitcoin ETFs Are Green Again—Here’s Why Investors Should Zoom Out
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/20/2026, 5:59:51 PM  
@@ -35,7 +59,7 @@ Two consecutive weeks of inflows ended the worst sustained outflow streak in Bit
 
 ---
 
-## 3. Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback
+## 5. Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback
 
 **Author:** Decrypt Staff  
 **Published:** 7/20/2026, 4:12:36 PM  
@@ -47,7 +71,7 @@ Two consecutive weeks of inflows ended the worst sustained outflow streak in Bit
 
 ---
 
-## 4. Strategy Pads Cash Reserve By $225M With MSTR Sale, Bitcoin Stash Remains Untouched
+## 6. Strategy Pads Cash Reserve By $225M With MSTR Sale, Bitcoin Stash Remains Untouched
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/20/2026, 3:57:29 PM  
@@ -59,7 +83,7 @@ For the second consecutive week, Saylor's company sold MSTR stock instead of BTC
 
 ---
 
-## 5. Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack
+## 7. Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack
 
 **Author:** Decrypt Agent  
 **Published:** 7/20/2026, 1:47:06 PM  
@@ -71,7 +95,7 @@ An attacker used a flash loan to distort the bridge's Solana stablecoin pools be
 
 ---
 
-## 6. Morning Minute: Hyperliquid Opens Prediction Markets to Anyone in HIP-4 Upgrade
+## 8. Morning Minute: Hyperliquid Opens Prediction Markets to Anyone in HIP-4 Upgrade
 
 **Author:** Tyler Warner  
 **Published:** 7/20/2026, 12:00:02 PM  
@@ -83,7 +107,7 @@ Plus, a selloff in Oil has markets looking green into the Monday open. And PUMP 
 
 ---
 
-## 7. Strategy's Michael Saylor Makes 110-Point Case Against Bitcoin's BIP-110
+## 9. Strategy's Michael Saylor Makes 110-Point Case Against Bitcoin's BIP-110
 
 **Author:** Decrypt Agent  
 **Published:** 7/20/2026, 11:12:57 AM  
