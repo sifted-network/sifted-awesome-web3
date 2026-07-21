@@ -167,13 +167,13 @@ The Japanese logistics firm plans to pay 2,300 partners, including truck drivers
 
 ---
 
-## 14. Live updates: Bitcoin rises to one-month high of $65,400
+## 14. Live updates: Bitcoin rises to one-month high of $65,700 before pulling back with stocks
 
 **Author:** Shaurya Malwa,Helene Braun  
 **Published:** 7/20/2026, 7:15:47 AM  
 **Categories:** Tech, Live News, live_news  
 
-The equity market, meanwhile, awaits second-quarter earnings reports from key tech firms, which begin this week.
+Equity markets await second-quarter earnings reports from key tech firms, which begin this week.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000)
 
