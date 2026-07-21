@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-20"
 date: "2026-07-20"
 source: "CoinDesk"
-count: 17
+count: 10
 ---
 
 # CoinDesk - 2026-07-20
 
-17 items collected.
+10 items collected.
 
 ---
 
@@ -128,89 +128,5 @@ With a Fear and Greed index pointing solidly at "fear," crypto prices drifted lo
 Permissionless prediction markets will become available first on testnet and later on mainnet, Hyperliquid said.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/20/hyperliquid-plans-to-add-decentralized-prediction-markets-in-upgrade-to-hip-4)
-
----
-
-## 11. Cross-chain protocol Allbridge halts after $1.65 million flash loan exploit
-
-**Author:** Francisco Rodrigues,AI Boost  
-**Published:** 7/20/2026, 9:31:22 AM  
-**Categories:** Finance, Web3, Solana News, News  
-
-The attacker used a $1.12 million flash loan from Kamino to manipulate pool ratios, enabling them to withdraw assets at favorable rates before bridging funds.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit)
-
----
-
-## 12. U.S. regulatory developments and earnings, ECB rate decision: Crypto Week Ahead
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/20/2026, 8:57:53 AM  
-**Categories:** Markets, week ahead, News  
-
-Your look at what's coming in the week starting July 20.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/20/u-s-regulatory-developments-and-earnings-ecb-rate-decision-crypto-week-ahead)
-
----
-
-## 13. Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments
-
-**Author:** Omkar Godbole  
-**Published:** 7/20/2026, 8:10:34 AM  
-**Categories:** Finance, Japan, Stablecoins, News  
-
-The Japanese logistics firm plans to pay 2,300 partners, including truck drivers, using JPYC in Japan’s first large-scale corporate stablecoin rollout.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments)
-
----
-
-## 14. Live updates: Bitcoin rises to one-month high of $65,700 before pulling back with stocks
-
-**Author:** Shaurya Malwa,Helene Braun  
-**Published:** 7/20/2026, 7:15:47 AM  
-**Categories:** Tech, Live News, live_news  
-
-Equity markets await second-quarter earnings reports from key tech firms, which begin this week.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000)
-
----
-
-## 15. Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin
-
-**Author:** Shaurya Malwa  
-**Published:** 7/20/2026, 7:08:07 AM  
-**Categories:** Tech, News  
-
-Days after Kimi K3 rattled chip stocks, Moonshot is moving toward a Hong Kong listing at a $30 billion-plus valuation while Alibaba's Qwen goes open-weight.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/20/moonshot-ai-ipo-push-follows-kimi-alibaba-ai-releases-that-shook-bitcoin)
-
----
-
-## 16. Bitcoin ETFs see new money again, but inflows remain ‘peanuts’ relative to the recent exodus
-
-**Author:** Omkar Godbole  
-**Published:** 7/20/2026, 5:46:36 AM  
-**Categories:** Markets, Bitcoin News, ETFs, News  
-
-Bitcoin ETFs have attracted $273 million in new inflows in two weeks, but the total is barely enough to cover a single "slow" week of recent selling.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/20/bitcoin-etfs-see-new-money-again-but-inflows-remain-peanuts-relative-to-the-recent-exodus)
-
----
-
-## 17. Bitcoin flat near $64,000 as oil hits a one-month high and Kimi AI selloff lingers
-
-**Author:** Shaurya Malwa  
-**Published:** 7/20/2026, 5:31:43 AM  
-**Categories:** Markets, News  
-
-Brent jumped almost 4% on escalating U.S.-Iran strikes, while Asian chip stocks stayed under pressure from Friday's Chinese AI shock.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/20/bitcoin-flat-near-usd64-000-as-oil-hits-a-one-month-high-and-kimi-ai-selloff-lingers)
 
 ---
