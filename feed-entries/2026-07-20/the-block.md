@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-20"
 date: "2026-07-20"
 source: "The Block"
-count: 14
+count: 11
 ---
 
 # The Block - 2026-07-20
 
-14 items collected.
+11 items collected.
 
 ---
 
@@ -140,41 +140,5 @@ Bernstein raised its Robinhood price target to $160, citing prediction markets, 
 Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $54.7 billion.
 
 📖 [Read original article](https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Ethereum co-founder Vitalik Buterin ‘vibe-codes’ anonymous billboard demo with onchain moderation on Aztec
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/20/2026, 11:24:22 AM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Markets, Metaverse & NFT, People, Policy, Vitalik Buterin  
-
-Vitalik Buterin "vibe-coded" an anonymous billboard demo on Aztec with onchain moderation, a censor role, and a local LLM flagging daemon.
-
-📖 [Read original article](https://www.theblock.co/post/408888/ethereum-co-founder-vitalik-buterin-vibe-codes-anonymous-billboard-demo-with-onchain-moderation-on-aztec?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. TD Cowen cuts Smarter Web Company price target 36% on revised bitcoin outlook
-
-**Author:** Brian Danga  
-**Published:** 7/20/2026, 9:58:50 AM  
-**Categories:** Companies, Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin  
-
-TD Cowen cut Smarter Web's price target to £0.64 while maintaining a Buy rating, citing revised bitcoin forecasts and treasury assumptions.
-
-📖 [Read original article](https://www.theblock.co/post/408883/td-cowen-cuts-smarter-web-company-price-target-36-on-revised-bitcoin-outlook?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. Hyperliquid’s HIP-4 to support permissionless deployment for outcome markets
-
-**Author:** Danny Park  
-**Published:** 7/20/2026, 5:34:45 AM  
-**Categories:** Crypto Ecosystems, DeFi, Web3  
-
-HIP-4 deployers must stake 500,000 HYPE tokens and can take up to 50% fees on their validator-aligned markets.
-
-📖 [Read original article](https://www.theblock.co/post/408875/hyperliquid-hip-4-permissionless-deployment?utm_source=rss&utm_medium=rss)
 
 ---
