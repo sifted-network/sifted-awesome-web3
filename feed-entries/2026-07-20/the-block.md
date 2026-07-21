@@ -2,16 +2,64 @@
 title: "The Block - 2026-07-20"
 date: "2026-07-20"
 source: "The Block"
-count: 13
+count: 17
 ---
 
 # The Block - 2026-07-20
 
-13 items collected.
+17 items collected.
 
 ---
 
-## 1. AI-assisted hacking is outpacing traditional code reviews, NEAR co-founder says
+## 1. Grayscale could take Worldcoin to Wall Street after ETF filing with the SEC
+
+**Author:** Sarah Wynn  
+**Published:** 7/20/2026, 9:25:00 PM  
+**Categories:** Markets, Policy, Regulation, SEC  
+
+The first exchange-traded fund tied to Worldcoin could soon be headed to U.S. markets, as Grayscale files for a Worldcoin ETF.
+
+📖 [Read original article](https://www.theblock.co/post/408995/grayscale-worldcoin-etf-filing-sec?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Kalshi, Polymarket open interest falls 20% as World Cup frenzy winds down
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 7/20/2026, 9:12:50 PM  
+**Categories:** Crypto Ecosystems, DeFi, Markets  
+
+Sports accounted for 80% of both Kalshi and Polymarket's total volumes throughout the weekslong World Cup tournament.
+
+📖 [Read original article](https://www.theblock.co/post/408965/kalshi-polymarket-open-interest-falls-20-as-world-cup-frenzy-winds-down?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Trump’s crypto ethics stance leaves Clarity Act negotiations in limbo
+
+**Author:** Sarah Wynn  
+**Published:** 7/20/2026, 8:26:38 PM  
+**Categories:** People, Policy, Regulation, U.S. Policymaking, Cynthia Lummis, Donald Trump, Senate Agriculture Committee, Senate Banking Committee  
+
+A meeting last week to discuss an ethics provision to address President Trump's vast crypto wealth has become something of a black box.
+
+📖 [Read original article](https://www.theblock.co/post/408804/president-trump-agrees-some-level-ethics-language-potentially-clearing-hurdles-pass-crypto-bill?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Vietnam sets new crypto trading fines on par with drunk-driving penalties
+
+**Author:** Kyle Baird  
+**Published:** 7/20/2026, 7:47:47 PM  
+**Categories:** Markets, Policy, Regulation, Asian Regulation  
+
+Domestic investors who trade crypto without going through a licensed service provider face fines of roughly $1,140 to $1,900.
+
+📖 [Read original article](https://www.theblock.co/post/408980/vietnam-new-unlicensed-crypto-trading-fines-on-par-drunk-driving-penalties?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. AI-assisted hacking is outpacing traditional code reviews, NEAR co-founder says
 
 **Author:** Kyle Baird  
 **Published:** 7/20/2026, 6:20:02 PM  
@@ -23,7 +71,7 @@ NEAR co-founder Polosukhin called formal verification a necessary shift for secu
 
 ---
 
-## 2. Former NY Governor Cuomo joins OKX board, touts 24/7 tokenized trading
+## 6. Former NY Governor Cuomo joins OKX board, touts 24/7 tokenized trading
 
 **Author:** RT Watson  
 **Published:** 7/20/2026, 5:25:58 PM  
@@ -35,7 +83,7 @@ Andrew Cuomo said OKX could help bring round-the-clock trading and more internat
 
 ---
 
-## 3. Benchmark backs Exodus after 25% workforce cut, says stablecoin pivot is being overlooked
+## 7. Benchmark backs Exodus after 25% workforce cut, says stablecoin pivot is being overlooked
 
 **Author:** Kyle Baird  
 **Published:** 7/20/2026, 3:07:52 PM  
@@ -47,7 +95,7 @@ Late Friday afternoon, Exodus said it expects the restructuring to generate $10 
 
 ---
 
-## 4. Hut 8 fully commercializes 1 GW Texas AI campus with second $9.8B lease as IREN signs $2.8B in contracts; shares climb double digits
+## 8. Hut 8 fully commercializes 1 GW Texas AI campus with second $9.8B lease as IREN signs $2.8B in contracts; shares climb double digits
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/20/2026, 2:12:46 PM  
@@ -59,7 +107,7 @@ Hut 8 and IREN shares climb on fresh AI data center deals worth billions as the 
 
 ---
 
-## 5. Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares
+## 9. Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares
 
 **Author:** Brian Danga  
 **Published:** 7/20/2026, 1:43:15 PM  
@@ -71,7 +119,7 @@ Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 mill
 
 ---
 
-## 6. Bernstein lifts Robinhood target to $160, sees prediction markets revenue overtaking crypto
+## 10. Bernstein lifts Robinhood target to $160, sees prediction markets revenue overtaking crypto
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/20/2026, 12:44:13 PM  
@@ -83,7 +131,7 @@ Bernstein raised its Robinhood price target to $160, citing prediction markets, 
 
 ---
 
-## 7. Strategy sells $263.5 million in MSTR shares, buys no bitcoin as USD reserve tops $3.2 billion
+## 11. Strategy sells $263.5 million in MSTR shares, buys no bitcoin as USD reserve tops $3.2 billion
 
 **Author:** James Hunt  
 **Published:** 7/20/2026, 12:09:00 PM  
@@ -95,7 +143,7 @@ Strategy's total holdings account for around 4% of the 21 million bitcoin supply
 
 ---
 
-## 8. Ethereum co-founder Vitalik Buterin ‘vibe-codes’ anonymous billboard demo with onchain moderation on Aztec
+## 12. Ethereum co-founder Vitalik Buterin ‘vibe-codes’ anonymous billboard demo with onchain moderation on Aztec
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/20/2026, 11:24:22 AM  
@@ -107,7 +155,7 @@ Vitalik Buterin "vibe-coded" an anonymous billboard demo on Aztec with onchain m
 
 ---
 
-## 9. TD Cowen cuts Smarter Web Company price target 36% on revised bitcoin outlook
+## 13. TD Cowen cuts Smarter Web Company price target 36% on revised bitcoin outlook
 
 **Author:** Brian Danga  
 **Published:** 7/20/2026, 9:58:50 AM  
@@ -119,7 +167,7 @@ TD Cowen cut Smarter Web's price target to £0.64 while maintaining a Buy rating
 
 ---
 
-## 10. Hyperliquid’s HIP-4 to support permissionless deployment for outcome markets
+## 14. Hyperliquid’s HIP-4 to support permissionless deployment for outcome markets
 
 **Author:** Danny Park  
 **Published:** 7/20/2026, 5:34:45 AM  
@@ -131,7 +179,7 @@ HIP-4 deployers must stake 500,000 HYPE tokens and can take up to 50% fees on th
 
 ---
 
-## 11. Japanese logistics firm turns to JPYC stablecoin to fight labor shortages: report
+## 15. Japanese logistics firm turns to JPYC stablecoin to fight labor shortages: report
 
 **Author:** Danny Park  
 **Published:** 7/20/2026, 3:48:32 AM  
@@ -143,7 +191,7 @@ By offering contractors faster payments with stablecoins, the firm seeks to attr
 
 ---
 
-## 12. Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts
+## 16. Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts
 
 **Author:** Timmy Shen and Naga Avan-Nomayo  
 **Published:** 7/20/2026, 3:33:56 AM  
@@ -155,7 +203,7 @@ Security firms PeckShield and CertiK flagged that the attacker has bridged the s
 
 ---
 
-## 13. Stablecoins vs Traditional Banking
+## 17. Stablecoins vs Traditional Banking
 
 **Author:** The Block Research  
 **Published:** 7/20/2026, 3:29:46 AM  
