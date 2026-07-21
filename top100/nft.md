@@ -7,22 +7,22 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) | 14,026 | 3,279 | - | 94 | Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript | 2024-06-12 |
-| 2 | [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 14,018 | 2,425 | Solidity | 8 | WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy | 2026-06-27 |
+| 2 | [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 14,017 | 2,424 | Solidity | 8 | WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy | 2026-06-27 |
 | 3 | [metaplex](https://github.com/metaplex-foundation/metaplex) | 3,354 | 5,974 | - | 106 | A directory of what the Metaplex Foundation works on! | 2024-08-06 |
-| 4 | [crypto_info](https://github.com/Tangent-Wei/crypto_info) | 2,765 | 236 | - | 0 | （原创）全网最全-币圈区块链各类常用工具与相关信息资料大全-虚拟加密货币-欧易OKX币安Binace芝麻开门Gate-交易所App注册-NFT-Defi-加密钱包-比特币-新手入门教程 -持续更新 | 2026-01-31 |
-| 5 | [seaport](https://github.com/ProjectOpenSea/seaport) | 2,252 | 651 | Solidity | 0 | Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs. | 2026-06-29 |
+| 4 | [crypto_info](https://github.com/Tangent-Wei/crypto_info) | 2,767 | 236 | - | 0 | （原创）全网最全-币圈区块链各类常用工具与相关信息资料大全-虚拟加密货币-欧易OKX币安Binace芝麻开门Gate-交易所App注册-NFT-Defi-加密钱包-比特币-新手入门教程 -持续更新 | 2026-01-31 |
+| 5 | [seaport](https://github.com/ProjectOpenSea/seaport) | 2,252 | 651 | Solidity | 0 | Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs. | 2026-07-20 |
 | 6 | [create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection) | 2,194 | 694 | JavaScript | 112 |  | 2024-04-13 |
 | 7 | [nft_ptr](https://github.com/zhuowei/nft_ptr) | 2,024 | 38 | Rust | 12 | C++ `std::unique_ptr` that represents each object as an NFT on the Ethereum blockchain | 2021-05-23 |
 | 8 | [nft](https://github.com/vercel/nft) | 1,658 | 179 | JavaScript | 41 | Node.js dependency tracing utility | 2026-07-06 |
 | 9 | [nft-art-generator](https://github.com/NotLuksus/nft-art-generator) | 1,607 | 515 | JavaScript | 13 | A tool to generate generative NFT art projects. | 2022-11-09 |
-| 10 | [nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) | 1,598 | 486 | Jupyter Notebook | 0 |  | 2023-02-16 |
-| 11 | [Maskbook](https://github.com/DimensionDev/Maskbook) | 1,583 | 316 | TypeScript | 3 | The portal to the new, open Internet. ([I:b]) | 2026-07-17 |
+| 10 | [nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) | 1,598 | 485 | Jupyter Notebook | 0 |  | 2023-02-16 |
+| 11 | [Maskbook](https://github.com/DimensionDev/Maskbook) | 1,582 | 317 | TypeScript | 3 | The portal to the new, open Internet. ([I:b]) | 2026-07-17 |
 | 12 | [Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources) | 1,559 | 383 | Markdown | 1 | The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol. | 2025-02-02 |
 | 13 | [fingernft](https://github.com/fingerchar/fingernft) | 1,541 | 505 | CSS | 42 | FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。 | 2022-11-15 |
 | 14 | [crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) | 1,398 | 138 | - | 2 |  | 2024-08-06 |
-| 15 | [nftables](https://github.com/google/nftables) | 1,344 | 178 | Go | 21 | This repository contains a Go module to interact with Linux nftables (the iptables successor). | 2026-07-03 |
+| 15 | [nftables](https://github.com/google/nftables) | 1,345 | 179 | Go | 21 | This repository contains a Go module to interact with Linux nftables (the iptables successor). | 2026-07-03 |
 | 16 | [bytom](https://github.com/BytomDAO/bytom) | 1,267 | 362 | Go | 20 | Official Go implementation of the Bytom protocol  | 2024-01-02 |
-| 17 | [unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android) | 1,217 | 487 | Kotlin | 41 | A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institu... | 2026-07-19 |
+| 17 | [unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android) | 1,219 | 486 | Kotlin | 39 | A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institu... | 2026-07-20 |
 | 18 | [marketplace](https://github.com/decentraland/marketplace) | 1,197 | 690 | TypeScript | 83 | 🏛️ Decentraland's NFT Marketplace | 2026-07-14 |
 | 19 | [samila](https://github.com/sepandhaghighi/samila) | 1,175 | 79 | Python | 6 | A Generative Art Generator | 2026-07-20 |
 | 20 | [pycoingecko](https://github.com/man-c/pycoingecko) | 1,097 | 273 | Python | 11 | Python wrapper for the CoinGecko API | 2024-11-13 |
@@ -31,18 +31,18 @@
 | 23 | [Blend_My_NFTs](https://github.com/torrinworx/Blend_My_NFTs) | 1,014 | 324 | Python | 23 | Easily generate thousands of 3D models, images, and animation automatically in Blender for free with Blend_My_NFTs. | 2023-06-28 |
 | 24 | [awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) | 991 | 202 | - | 1 | A curated list of Solana NFT protocols, repos & community tools | 2024-04-23 |
 | 25 | [awesome-nft](https://github.com/gianni-dalerta/awesome-nft) | 975 | 183 | - | 0 | A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software | 2022-08-18 |
-| 26 | [DiffusionNFT](https://github.com/NVlabs/DiffusionNFT) | 975 | 42 | Python | 11 | [ICLR 2026 Oral] DiffusionNFT: Online Diffusion Reinforcement with Forward Process | 2026-02-10 |
+| 26 | [DiffusionNFT](https://github.com/NVlabs/DiffusionNFT) | 974 | 42 | Python | 11 | [ICLR 2026 Oral] DiffusionNFT: Online Diffusion Reinforcement with Forward Process | 2026-02-10 |
 | 27 | [nftables-nat-rust](https://github.com/arloor/nftables-nat-rust) | 946 | 238 | Rust | 0 | nftables nat规则生成器 | 2026-06-18 |
 | 28 | [extension](https://github.com/unisat-wallet/extension) | 943 | 414 | TypeScript | 5 | The first open-source browser extension wallet for Bitcoin NFTs | 2026-03-10 |
-| 29 | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 935 | 76 | - | 0 | 币圈导航虚拟加密货币资源大全，手动整理的全网最全虚拟货币学习资料，涵盖了中心化交易所（如欧易OKX、币安Binance、Gate.io）、NFT市场、DeFi工具、加密钱包、巨鲸追踪和数据分析等，帮助用户轻松导航加密货币世界。涉及币圈导航、虚拟货币、交易所返佣、Web3.0等内容本指南将持续更新，力求保持最新、最全面的币圈信息，币圈导航祝各位早点财务自由。👉 www.0xnav.com | 2026-07-15 |
-| 30 | [unstoppable-wallet-ios](https://github.com/horizontalsystems/unstoppable-wallet-ios) | 892 | 310 | Swift | 31 | Multi-wallet for Bitcoin, Ethereum, Binance Smart Chain and other emerging blockchains. Non-custodial storage, decentralized exchange, and extensive analytics for thousands of tokens and NFTs. Impleme... | 2026-07-19 |
-| 31 | [unlock](https://github.com/unlock-protocol/unlock) | 878 | 312 | TypeScript | 170 | Ʉnlock is a protocol for memberships built on a blockchain. | 2026-07-19 |
+| 29 | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 937 | 74 | - | 0 | 币圈导航虚拟加密货币资源大全，手动整理的全网最全虚拟货币学习资料，涵盖了中心化交易所（如欧易OKX、币安Binance、Gate.io）、NFT市场、DeFi工具、加密钱包、巨鲸追踪和数据分析等，帮助用户轻松导航加密货币世界。涉及币圈导航、虚拟货币、交易所返佣、Web3.0等内容本指南将持续更新，力求保持最新、最全面的币圈信息，币圈导航祝各位早点财务自由。👉 www.0xnav.com | 2026-07-15 |
+| 30 | [unstoppable-wallet-ios](https://github.com/horizontalsystems/unstoppable-wallet-ios) | 894 | 310 | Swift | 31 | Multi-wallet for Bitcoin, Ethereum, Binance Smart Chain and other emerging blockchains. Non-custodial storage, decentralized exchange, and extensive analytics for thousands of tokens and NFTs. Impleme... | 2026-07-20 |
+| 31 | [unlock](https://github.com/unlock-protocol/unlock) | 878 | 312 | TypeScript | 170 | Ʉnlock is a protocol for memberships built on a blockchain. | 2026-07-21 |
 | 32 | [ethereum-nft-marketplace-boilerplate](https://github.com/ethereum-boilerplate/ethereum-nft-marketplace-boilerplate) | 871 | 975 | JavaScript | 22 |  | 2024-01-03 |
-| 33 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 852 | 109 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
+| 33 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 854 | 109 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 34 | [hashlips_nft_contract](https://github.com/HashLips/hashlips_nft_contract) | 829 | 649 | Solidity | 49 | A simple NFT smart contract that works with the rest of the HashLips ecosystem. | 2022-10-23 |
 | 35 | [web3-is-going-great](https://github.com/molly/web3-is-going-great) | 825 | 78 | JavaScript | 16 | A timeline of some of the greatest hits in cryptocurrencies, NFTs, and other web3 projects since the beginning of 2021 | 2026-01-21 |
 | 36 | [nft-mix](https://github.com/PatrickAlphaC/nft-mix) | 808 | 400 | Solidity | 12 |  | 2024-04-24 |
-| 37 | [Smart-Contract-Security-Audits](https://github.com/softstack/Smart-Contract-Security-Audits) | 794 | 398 | HTML | 0 | Certified Smart Contract Audits for Ethereum, Solana, Near, Cardano, Aptos, Sui, Binance Smart Chain, Fantom, EOS, Tezos and more | 2026-07-01 |
+| 37 | [Smart-Contract-Security-Audits](https://github.com/softstack/Smart-Contract-Security-Audits) | 795 | 398 | HTML | 0 | Certified Smart Contract Audits for Ethereum, Solana, Near, Cardano, Aptos, Sui, Binance Smart Chain, Fantom, EOS, Tezos and more | 2026-07-01 |
 | 38 | [nftables-blacklist](https://github.com/trick77/nftables-blacklist) | 758 | 196 | Shell | 0 | A bash script to ban large numbers of IP addresses published in blacklists. | 2026-07-03 |
 | 39 | [generative-art-nft](https://github.com/rounakbanik/generative-art-nft) | 757 | 348 | Python | 19 | A generative art library for NFT avatar and collectible projects. | 2024-04-05 |
 | 40 | [metaboss](https://github.com/samuelvanderwaal/metaboss) | 716 | 222 | Rust | 1 | The Metaplex NFT-standard Swiss Army Knife tool. | 2026-05-21 |
@@ -51,7 +51,7 @@
 | 43 | [nft-contracts](https://github.com/getgems-io/nft-contracts) | 655 | 221 | TypeScript | 34 | Set of TON NFT related contracts & code | 2026-03-23 |
 | 44 | [metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) | 649 | 524 | Rust | 28 | Smart contracts maintained by the Metaplex team | 2026-03-13 |
 | 45 | [dungeons-and-dragons-nft](https://github.com/PatrickAlphaC/dungeons-and-dragons-nft) | 639 | 268 | JavaScript | 5 | #chainlink #nft | 2021-06-28 |
-| 46 | [create-solana-dapp](https://github.com/solana-foundation/create-solana-dapp) | 638 | 200 | TypeScript | 7 | The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates | 2026-07-17 |
+| 46 | [create-solana-dapp](https://github.com/solana-foundation/create-solana-dapp) | 639 | 200 | TypeScript | 7 | The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates | 2026-07-17 |
 | 47 | [nft](https://github.com/dappuniversity/nft) | 612 | 452 | JavaScript | 12 | Crypto Collectible NFT Tutorial with ERC-721 Tokens | 2023-01-26 |
 | 48 | [NFTBlocker](https://github.com/mcclure/NFTBlocker) | 610 | 9 | - | 2 | Browser plugin to autoblock NFT users on Twitter. | 2024-01-12 |
 | 49 | [nft.storage](https://github.com/nftstorage/nft.storage) | 607 | 167 | JavaScript | 105 | **Notice: Uploads Decommissioned - Existing Data is Safe!**      | 2025-02-06 |
@@ -70,14 +70,14 @@
 | 62 | [nft-analyst-starter-pack](https://github.com/a16z/nft-analyst-starter-pack) | 461 | 91 | Python | 4 |  | 2024-02-03 |
 | 63 | [flow-nft](https://github.com/onflow/flow-nft) | 457 | 163 | Cadence | 10 | The non-fungible token standard for the Flow network. Resource-oriented NFT contracts in Cadence, with built-in metadata views and royalties | 2026-07-10 |
 | 64 | [solders](https://github.com/kevinheavey/solders) | 445 | 52 | Rust | 11 | A high-performance Python toolkit for Solana, written in Rust | 2026-07-01 |
-| 65 | [opentonapi](https://github.com/tonkeeper/opentonapi) | 443 | 170 | Go | 96 | Opentonapi simplifies development of TON-based applications and provides an API centered around high-level concepts like Jettons, NFTs and so on keeping a way to access low-level details. | 2026-07-16 |
+| 65 | [opentonapi](https://github.com/tonkeeper/opentonapi) | 443 | 170 | Go | 96 | Opentonapi simplifies development of TON-based applications and provides an API centered around high-level concepts like Jettons, NFTs and so on keeping a way to access low-level details. | 2026-07-20 |
 | 66 | [sdk-mx-data-nft](https://github.com/Itheum/sdk-mx-data-nft) | 442 | 3 | TypeScript | 0 | TypeScript/JavaScript SDK for Itheum's Data NFT Technology on MultiversX Blockchain | 2024-12-12 |
-| 67 | [NFT-Art-Generator](https://github.com/AppsusUK/NFT-Art-Generator) | 440 | 165 | TypeScript | 26 | Easy to use NFT art generator app for windows/linux/mac | 2021-10-12 |
+| 67 | [NFT-Art-Generator](https://github.com/AppsusUK/NFT-Art-Generator) | 440 | 164 | TypeScript | 26 | Easy to use NFT art generator app for windows/linux/mac | 2021-10-12 |
 | 68 | [nft-erc721-collection](https://github.com/hashlips-lab/nft-erc721-collection) | 435 | 385 | TypeScript | 3 |  | 2023-09-27 |
-| 69 | [solana-course](https://github.com/Unboxed-Software/solana-course) | 435 | 138 | TypeScript | 0 | A complete course for learning Solana, including creating and transferring tokens, making NFTs, on-chain app development, and more.  | 2024-08-13 |
+| 69 | [solana-course](https://github.com/Unboxed-Software/solana-course) | 435 | 139 | TypeScript | 0 | A complete course for learning Solana, including creating and transferring tokens, making NFTs, on-chain app development, and more.  | 2024-08-13 |
 | 70 | [The-Weirdos-NFT-Website-Starter-Code](https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code) | 429 | 224 | JavaScript | 1 | Build a cool NFT Collection website landing page with React JS . This website is created using Gsap for cool scrolling and animation. If you want to learn how to create this website then you can follo... | 2025-02-08 |
 | 71 | [gill](https://github.com/gillsdk/gill) | 419 | 107 | TypeScript | 38 | Solana JavaScript/TypeScript SDK - client library for interacting with the Solana blockchain | 2026-03-14 |
-| 72 | [website](https://github.com/lootproject/website) | 414 | 207 | TypeScript | 1 | Loot Project website | 2022-08-02 |
+| 72 | [website](https://github.com/lootproject/website) | 414 | 208 | TypeScript | 1 | Loot Project website | 2022-08-02 |
 | 73 | [nft-marketplace](https://github.com/yessGlory17/nft-marketplace) | 408 | 215 | CSS | 10 | Reactjs And Smart Contracts Open Source Basic Nft Marketplace App | 2025-11-01 |
 | 74 | [NFT-Marketplace](https://github.com/BravoNatalie/NFT-Marketplace) | 406 | 236 | JavaScript | 4 | A NFT marketplace that enables the creation, sale, and purchase of digital art as NFTs. | 2024-01-29 |
 | 75 | [tatum-js](https://github.com/tatumio/tatum-js) | 399 | 130 | TypeScript | 10 | 🚀 Tatum SDK: A 💪 powerful, 🌟 feature-rich TypeScript/JavaScript 📚 library that streamlines the 🛠️ development of 🌐 blockchain applications. | 2026-06-08 |
