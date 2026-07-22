@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-21"
 date: "2026-07-21"
 source: "The Block"
-count: 16
+count: 15
 ---
 
 # The Block - 2026-07-21
 
-16 items collected.
+15 items collected.
 
 ---
 
@@ -188,17 +188,5 @@ Coinbase said user funds were never at risk, and user transactions that were stu
 The messaging platform has long been viewed as a potential gateway for bringing a wider audience into crypto.
 
 📖 [Read original article](https://www.theblock.co/post/409099/telegram-plans-largest-rollout-non-custodial-crypto-wallet-in-history?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. London Stock Exchange’s LSE 24 signals a bet on digital, AI-driven markets: TD Cowen
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/21/2026, 2:46:07 PM  
-**Categories:** Companies, Crypto Ecosystems, Markets, Web3, AI  
-
-London Stock Exchange will launch LSE 24, a 24/5 venue trading 17:00–07:50, with testing by end-2026 and ETPs first in H1 2027.
-
-📖 [Read original article](https://www.theblock.co/post/409089/london-stock-exchanges-lse-24-signals-bet-on-digital-ai-driven-markets-td-cowen?utm_source=rss&utm_medium=rss)
 
 ---
