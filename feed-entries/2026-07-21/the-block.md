@@ -11,7 +11,79 @@ count: 20
 
 ---
 
-## 1. RippleX sees XRP Ledger agentic transactions hitting 10-million mark soon
+## 1. Trump-backed crypto ethics rule puts DOJ in charge of enforcement, prohibits federal officials from issuing cryptocurrencies: sources
+
+**Author:** Sarah Wynn  
+**Published:** 7/21/2026, 9:11:05 PM  
+**Categories:** Markets, People, Policy, Regulation, Donald Trump  
+
+Newly approved ethics language signed by President Donald Trump would prohibit federal officials from issuing cryptocurrencies.
+
+📖 [Read original article](https://www.theblock.co/post/409173/trump-backed-crypto-ethics-rule-doj-enforcement-prohibits-federal-officials-issuing-cryptocurrencies?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. The Digital Chamber sues Illinois over incoming crypto transaction tax
+
+**Author:** Sarah Wynn  
+**Published:** 7/21/2026, 9:05:02 PM  
+**Categories:** Policy, Regulation, exclusive  
+
+The Digital Chamber is taking Illinois to court over its decision to pass a law imposing a 0.2% tax on digital asset transactions.
+
+📖 [Read original article](https://www.theblock.co/post/409160/the-digital-chamber-sues-illinois-over-incoming-crypto-transaction-tax?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Canton developer Digital Asset raises additional $10 million at same $2 billion equity valuation
+
+**Author:** Yogita Khatri  
+**Published:** 7/21/2026, 8:42:34 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Markets, Web3, exclusive  
+
+Canton Network developer Digital Asset has raised an additional $10 million from Shinhan Financial Group and SC Ventures.
+
+📖 [Read original article](https://www.theblock.co/post/409168/canton-digital-asset-additional-10-million-funding-same-2-billion-equity-valuation-expanding-round-365-million?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Satsuma shareholders approve bitcoin treasury liquidation and London delisting
+
+**Author:** Kyle Baird  
+**Published:** 7/21/2026, 8:04:51 PM  
+**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin  
+
+The vote comes less than a year after UK-based Satsuma Technology raised $218 million to pursue its bitcoin strategy.
+
+📖 [Read original article](https://www.theblock.co/post/409155/satsuma-shareholders-approve-bitcoin-treasury-liquidation-london-delisting?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Congress weighs its role as fight over sports betting prediction market oversight forges on
+
+**Author:** Sarah Wynn  
+**Published:** 7/21/2026, 7:28:39 PM  
+**Categories:** Policy, Regulation, CFTC  
+
+As state and federal regulators continue to clash over who should oversee sports-related prediction markets, lawmakers consider stepping in.
+
+📖 [Read original article](https://www.theblock.co/post/409152/congress-weighs-its-role-as-fight-over-sports-betting-prediction-market-oversight-forges-on?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. Ousted founder’s $1.6 million claim tops Movement Labs’ bankruptcy filing
+
+**Author:** Daniel Kuhn  
+**Published:** 7/21/2026, 7:11:02 PM  
+**Categories:** Bankruptcy, Companies, Policy, Regulation, Bankruptcy Filings  
+
+MVMT filed for bankruptcy earlier this month, reporting assets between $100,001 and $500,000 and liabilities of up to $10 million.
+
+📖 [Read original article](https://www.theblock.co/post/409151/ousted-founders-1-6-million-claim-tops-movement-labs-bankruptcy-filing?utm_source=rss&utm_medium=rss)
+
+---
+
+## 7. RippleX sees XRP Ledger agentic transactions hitting 10-million mark soon
 
 **Author:** RT Watson  
 **Published:** 7/21/2026, 6:47:21 PM  
@@ -23,7 +95,7 @@ Ripple recently joined x402 Foundation, serving as a premier member alongside Co
 
 ---
 
-## 2. Galaxy launches Bitcoin quantum computing initiative, commits up to $5 million in developer grants
+## 8. Galaxy launches Bitcoin quantum computing initiative, commits up to $5 million in developer grants
 
 **Author:** Yogita Khatri  
 **Published:** 7/21/2026, 6:21:12 PM  
@@ -35,7 +107,7 @@ Galaxy has launched the Bitcoin Quantum Readiness Initiative, including committi
 
 ---
 
-## 3. Solana, Hyperliquid ETFs dominate altcoin fund flows despite flying under the radar
+## 9. Solana, Hyperliquid ETFs dominate altcoin fund flows despite flying under the radar
 
 **Author:** Ivan Wu and Bryan Samsoedin  
 **Published:** 7/21/2026, 6:06:01 PM  
@@ -47,7 +119,7 @@ Solana ETFs boast an impressive $904 million AUM, while the Hyperliquid funds ha
 
 ---
 
-## 4. Russia passes landmark crypto bill allowing regulated retail trading
+## 10. Russia passes landmark crypto bill allowing regulated retail trading
 
 **Author:** Kyle Baird  
 **Published:** 7/21/2026, 5:48:29 PM  
@@ -59,7 +131,7 @@ Non-qualified Russian crypto investors face a 300,000-ruble annual purchase limi
 
 ---
 
-## 5. Augustus raises $180 million Series B at $1 billion valuation to build the ‘Global Dollar Bank’
+## 11. Augustus raises $180 million Series B at $1 billion valuation to build the ‘Global Dollar Bank’
 
 **Author:** Daniel Kuhn  
 **Published:** 7/21/2026, 4:51:02 PM  
@@ -71,7 +143,7 @@ Augustus supports stablecoins alongside traditional payment rails including Swif
 
 ---
 
-## 6. Bitget plans US expansion ‘with or without’ Clarity Act, CEO says
+## 12. Bitget plans US expansion ‘with or without’ Clarity Act, CEO says
 
 **Author:** Kyle Baird  
 **Published:** 7/21/2026, 4:11:41 PM  
@@ -83,7 +155,7 @@ Bitget CEO Gracy Chen is leading the crypto exchange's push into the U.S. after 
 
 ---
 
-## 7. Uphold launches fractional share trading in US for more than 4,000 stocks and ETFs
+## 13. Uphold launches fractional share trading in US for more than 4,000 stocks and ETFs
 
 **Author:** RT Watson  
 **Published:** 7/21/2026, 4:08:50 PM  
@@ -95,7 +167,7 @@ Bitget CEO Gracy Chen is leading the crypto exchange's push into the U.S. after 
 
 ---
 
-## 8. Coinbase says ‘low-risk’ config change behind 50-minute July 14 outage impacting trading, card transactions
+## 14. Coinbase says ‘low-risk’ config change behind 50-minute July 14 outage impacting trading, card transactions
 
 **Author:** Daniel Kuhn  
 **Published:** 7/21/2026, 3:35:21 PM  
@@ -107,7 +179,7 @@ Coinbase said user funds were never at risk, and user transactions that were stu
 
 ---
 
-## 9. Telegram plans ‘largest rollout of a non-custodial crypto wallet in human history’
+## 15. Telegram plans ‘largest rollout of a non-custodial crypto wallet in human history’
 
 **Author:** RT Watson  
 **Published:** 7/21/2026, 3:20:25 PM  
@@ -119,7 +191,7 @@ The messaging platform has long been viewed as a potential gateway for bringing 
 
 ---
 
-## 10. London Stock Exchange’s LSE 24 signals a bet on digital, AI-driven markets: TD Cowen
+## 16. London Stock Exchange’s LSE 24 signals a bet on digital, AI-driven markets: TD Cowen
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/21/2026, 2:46:07 PM  
@@ -131,7 +203,7 @@ London Stock Exchange will launch LSE 24, a 24/5 venue trading 17:00–07:50, wi
 
 ---
 
-## 11. Malaysia shuts down Balaji Srinivasan’s Network School in Forest City
+## 17. Malaysia shuts down Balaji Srinivasan’s Network School in Forest City
 
 **Author:** Brian Danga  
 **Published:** 7/21/2026, 1:50:19 PM  
@@ -143,7 +215,7 @@ Malaysia revoked Network School's license, ordering the Balaji Srinivasan-founde
 
 ---
 
-## 12. Jack Mallers leaves Twenty One as Strike exits Tether’s three-way bitcoin merger
+## 18. Jack Mallers leaves Twenty One as Strike exits Tether’s three-way bitcoin merger
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/21/2026, 1:47:00 PM  
@@ -155,7 +227,7 @@ Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as 
 
 ---
 
-## 13. Arcus rolls out 24/7 tokenized US stocks and perpetual markets on Robinhood Chain
+## 19. Arcus rolls out 24/7 tokenized US stocks and perpetual markets on Robinhood Chain
 
 **Author:** Brian Danga  
 **Published:** 7/21/2026, 1:30:00 PM  
@@ -167,7 +239,7 @@ Arcus rolled out 24/7 trading for over 95 Stock Tokens on Robinhood Chain and al
 
 ---
 
-## 14. Aztec upgrades to V5 in alpha, adding full private execution environment to decentralized Ethereum L2
+## 20. Aztec upgrades to V5 in alpha, adding full private execution environment to decentralized Ethereum L2
 
 **Author:** Daniel Kuhn  
 **Published:** 7/21/2026, 1:20:40 PM  
@@ -176,77 +248,5 @@ Arcus rolled out 24/7 trading for over 95 Stock Tokens on Robinhood Chain and al
 Aztec V5 focuses on supporting "client-side proving," enabling computation-heavy ZK proofs on simple devices like phones and laptops.
 
 📖 [Read original article](https://www.theblock.co/post/409065/aztec-upgrades-v5-alpha-adding-private-execution-environment-decentralized-ethereum-l2?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Jito rolls out JTX self-custodial trading platform for Solana tokens and RWAs
-
-**Author:** Brian Danga  
-**Published:** 7/21/2026, 1:05:01 PM  
-**Categories:** Crypto Ecosystems, DeFi, exclusive  
-
-Jito Labs launched JTX, a self-custodial Solana trading platform with spot trading for tokens and tokenized RWAs.
-
-📖 [Read original article](https://www.theblock.co/post/409040/jito-rolls-out-jtx-self-custodial-trading-platform-for-solana-tokens-and-rwas?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Morpho launches fixed-rate lending protocol Midnight on Base to expand onchain credit markets
-
-**Author:** Yogita Khatri  
-**Published:** 7/21/2026, 1:00:00 PM  
-**Categories:** Crypto Ecosystems, DeFi, Markets, Web3, Lending  
-
-Morpho has launched Midnight, a fixed-rate, fixed-term lending protocol on Base that complements its existing variable-rate lending protocol.
-
-📖 [Read original article](https://www.theblock.co/post/409062/morpho-midnight-fixed-rate-lending-protocol-base-onchain-credit-markets?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Robinhood Chain tops $430 million in TVL, FalconX sees RWAs as the key differentiator
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/21/2026, 11:43:29 AM  
-**Categories:** Companies, Crypto Ecosystems, Exchanges, Markets, Public Equities, Robinhood  
-
-Robinhood Chain hit $431M TVL and 250K+ daily users in under three weeks, but memecoins account for 80% of its $9B DEX volume, FalconX says.
-
-📖 [Read original article](https://www.theblock.co/post/409049/robinhood-chain-tops-430-million-in-tvl-falconx-sees-rwas-as-the-key-differentiator?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. CoinShares launches UCITS platform targeting Europe’s institutional investors
-
-**Author:** Timmy Shen  
-**Published:** 7/21/2026, 8:57:55 AM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Policy, Regulation, Token Projects, Bitcoin  
-
-CoinShares is expanding into Europe's $30 trillion UCITS ecosystem with the launch of a new platform and a Bitcoin Mining ETF.
-
-📖 [Read original article](https://www.theblock.co/post/409029/coinshares-launches-europe-ucits-platform?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. London Stock Exchange plans overnight venue to extend trading hours: FT
-
-**Author:** Brian Danga  
-**Published:** 7/21/2026, 7:57:02 AM  
-**Categories:** Markets  
-
-London Stock Exchange plans an overnight venue as traditional exchanges extend trading hours amid competition from 24/7 crypto platforms.
-
-📖 [Read original article](https://www.theblock.co/post/409021/london-stock-exchange-plans-extended-trading-hours?utm_source=rss&utm_medium=rss)
-
----
-
-## 20. UK parliamentary group launches probe into crypto sector’s banking challenges
-
-**Author:** Danny Park  
-**Published:** 7/21/2026, 7:26:25 AM  
-**Categories:** Policy, Regulation  
-
-This comes weeks after the publication of the UK’s new crypto regulatory framework, set to take effect in October 2027.
-
-📖 [Read original article](https://www.theblock.co/post/409016/uk-probe-crypto-sector-banking-challenges?utm_source=rss&utm_medium=rss)
 
 ---
