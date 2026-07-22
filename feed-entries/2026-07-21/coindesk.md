@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-07-21"
 date: "2026-07-21"
 source: "CoinDesk"
-count: 15
+count: 18
 ---
 
 # CoinDesk - 2026-07-21
 
-15 items collected.
+18 items collected.
 
 ---
 
-## 1. White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal
+## 1. Crypto lobby group Digital Chamber sues Illinois to block digital asset tax
+
+**Author:** Nikhilesh De  
+**Published:** 7/21/2026, 10:08:10 PM  
+**Categories:** Policy, Tax, News  
+
+Illinois enacted a 0.2% tax on all crypto transactions last month, with the tax taking effect next year.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax)
+
+---
+
+## 2. Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal
+
+**Author:** Jesse Hamilton  
+**Published:** 7/21/2026, 9:14:03 PM  
+**Categories:** Policy, Exclusive, Clarity Act, Donald Trump, News  
+
+The White House has circulated some details of the conflict-of-interest limits the president agreed to with Republican negotiators, but talks are still underway.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal)
+
+---
+
+## 3. Bitcoin rally faces key test at $68,000 as 'summer slumber' grips crypto, analysts say
+
+**Author:** Krisztian Sandor  
+**Published:** 7/21/2026, 8:05:33 PM  
+**Categories:** Markets, Bitcoin News, Markets, News  
+
+BTC has rebounded 15% from the July lows, but some analysts cautioned that the next move hinges on clearing a level where many recent buyers may look to sell.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/21/bitcoin-rally-faces-key-test-at-usd68-000-as-summer-slumber-grips-crypto-analysts-say)
+
+---
+
+## 4. White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal
 
 **Author:** Jesse Hamilton  
 **Published:** 7/21/2026, 6:14:39 PM  
@@ -23,7 +59,7 @@ Without revealing any details about the actual agreement from President Trump on
 
 ---
 
-## 2. Movement Labs files for Chapter 11 bankruptcy months after token scandal
+## 5. Movement Labs files for Chapter 11 bankruptcy months after token scandal
 
 **Author:** Helene Braun,AI Boost  
 **Published:** 7/21/2026, 5:54:40 PM  
@@ -35,7 +71,7 @@ The filing comes after months of upheaval that included a controversial market-m
 
 ---
 
-## 3. Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin
+## 6. Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin
 
 **Author:** Shaurya Malwa  
 **Published:** 7/21/2026, 4:19:24 PM  
@@ -47,7 +83,7 @@ Claude Fabel 5 disproved the Jacobian conjecture over the weekend, landing days 
 
 ---
 
-## 4. Galaxy sets up $5 million fund to help shield Bitcoin against quantum computing threats
+## 7. Galaxy sets up $5 million fund to help shield Bitcoin against quantum computing threats
 
 **Author:** Olivier Acuna  
 **Published:** 7/21/2026, 4:16:14 PM  
@@ -59,7 +95,7 @@ The crypto financial services firm is funding developers to strengthen the block
 
 ---
 
-## 5. Russia’s parliament passes crypto market law with $3,800 annual cap for retail investors
+## 8. Russia’s parliament passes crypto market law with $3,800 annual cap for retail investors
 
 **Author:** Olivier Acuna  
 **Published:** 7/21/2026, 3:19:44 PM  
@@ -71,7 +107,7 @@ While citizens still cannot use Bitcoin to buy groceries, the Kremlin is officia
 
 ---
 
-## 6. Augustus raises $180 million to build a clearing bank for the AI and stablecoin era
+## 9. Augustus raises $180 million to build a clearing bank for the AI and stablecoin era
 
 **Author:** Krisztian Sandor  
 **Published:** 7/21/2026, 2:27:03 PM  
@@ -83,7 +119,7 @@ The firm, freshly valued at $1 billion, aims to replace legacy correspondent ban
 
 ---
 
-## 7. MoneyGram's CEO says blockchain works best when customers don't know it's there
+## 10. MoneyGram's CEO says blockchain works best when customers don't know it's there
 
 **Author:** Margaux Nijkerk  
 **Published:** 7/21/2026, 1:38:13 PM  
@@ -95,7 +131,7 @@ In an interview with CoinDesk, MoneyGram CEO Anthony Soohoo said that their bloc
 
 ---
 
-## 8. Jack Mallers steps down as XXI Capital CEO as Tether's plans to merge three bitcoin firms falls
+## 11. Jack Mallers steps down as XXI Capital CEO as Tether's plans to merge three bitcoin firms falls
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/21/2026, 12:42:29 PM  
@@ -107,7 +143,7 @@ The proposed three-way merger between Twenty One Capital, Mallers' Strike, and E
 
 ---
 
-## 9. Bitcoin rally has broad-based support as institutions, whales, options traders pile in
+## 12. Bitcoin rally has broad-based support as institutions, whales, options traders pile in
 
 **Author:** Omkar Godbole  
 **Published:** 7/21/2026, 11:37:22 AM  
@@ -119,7 +155,7 @@ Your day-ahead look for July 21, 2026
 
 ---
 
-## 10. Clarity odds jump to 43% on Polymarket after unverified reports Trump agreed to ethics deal
+## 13. Clarity odds jump to 43% on Polymarket after unverified reports Trump agreed to ethics deal
 
 **Author:** Shaurya Malwa  
 **Published:** 7/21/2026, 11:19:18 AM  
@@ -131,7 +167,7 @@ Bettors moved the crypto market structure bill to a 43% chance of passing this y
 
 ---
 
-## 11. Crypto markets rally on Clarity progress report, Asian chip-stock rebound
+## 14. Crypto markets rally on Clarity progress report, Asian chip-stock rebound
 
 **Author:** Omkar Godbole  
 **Published:** 7/21/2026, 11:02:48 AM  
@@ -143,7 +179,7 @@ Speculation that President Donald Trump agreed to a crucial ethics provision for
 
 ---
 
-## 12. XRP jumps 4% as traders watch 'triangle breakout' toward $1.35
+## 15. XRP jumps 4% as traders watch 'triangle breakout' toward $1.35
 
 **Author:** Shaurya Malwa  
 **Published:** 7/21/2026, 7:21:04 AM  
@@ -155,7 +191,7 @@ XRP pushed higher over 24 hours and tested short-term resistance, but the larger
 
 ---
 
-## 13. Live markets: Bitcoin pulls back from five-week high on new Trump threats over Iran
+## 16. Live markets: Bitcoin pulls back from five-week high on new Trump threats over Iran
 
 **Author:** Shaurya Malwa,Helene Braun  
 **Published:** 7/21/2026, 6:42:52 AM  
@@ -167,7 +203,7 @@ Bitcoin ETFs have pulled in roughly $727 million over the past week, the most su
 
 ---
 
-## 14. UK Parliament begins inquiry into banking chokepoint for crypto businesses
+## 17. UK Parliament begins inquiry into banking chokepoint for crypto businesses
 
 **Author:** Ian Allison  
 **Published:** 7/21/2026, 6:15:26 AM  
@@ -179,7 +215,7 @@ The U.K.’s Crypto and Digital Assets All-Party Parliamentary Group (APPG) is f
 
 ---
 
-## 15. Bitcoin hits one-month high above $66,000 as the chip trade turns back into a tailwind
+## 18. Bitcoin hits one-month high above $66,000 as the chip trade turns back into a tailwind
 
 **Author:** Shaurya Malwa  
 **Published:** 7/21/2026, 5:34:00 AM  
