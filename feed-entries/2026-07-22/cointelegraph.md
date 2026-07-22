@@ -2,16 +2,112 @@
 title: "Cointelegraph - 2026-07-22"
 date: "2026-07-22"
 source: "Cointelegraph"
-count: 14
+count: 22
 ---
 
 # Cointelegraph - 2026-07-22
 
-14 items collected.
+22 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/22/2026, 6:41:30 PM  
+**Categories:** Latest News  
+
+According to Senator Cynthia Lummis, one of the bill’s advocates, the ethics language would apply to US presidents’ crypto ventures, including Donald Trump’s.
+
+📖 [Read original article](https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Anthropic joins UK FCA’s AI regulatory sandbox as second cohort launches
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/22/2026, 5:57:11 PM  
+**Categories:** Latest News  
+
+Anthropic will provide Claude AI models to companies participating in the UK Financial Conduct Authority’s next Supercharged Sandbox cohort, as the regulator pushes to test AI applications in financial services.
+
+📖 [Read original article](https://cointelegraph.com/news/anthropic-joins-uk-fcas-ai-regulatory-sandbox-as-second-cohort-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. SEC’s Peirce says crypto vaults and onchain lending may fall under securities laws
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/22/2026, 5:39:57 PM  
+**Categories:** Latest News  
+
+The SEC commissioner said crypto vaults, onchain lending products and other asset management tools may trigger US securities laws depending on how they are structured and operated.
+
+📖 [Read original article](https://cointelegraph.com/news/secs-hester-peirce-says-crypto-vaults-and-onchain-lending-may-fall-under-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Digital Chamber sues Illinois officials over new state 0.2% crypto tax
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/22/2026, 4:28:10 PM  
+**Categories:** Latest News  
+
+The group alleged that the tax signed into law in June “discriminates against people who transact in digital assets“ and should be blocked from implementation and enforcement.
+
+📖 [Read original article](https://cointelegraph.com/news/digital-chamber-lawsuit-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. BitGo, OTC Markets plan tokenized securities access for broker-dealers
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/22/2026, 4:10:22 PM  
+**Categories:** Latest News  
+
+The proposed alliance would enable more than 150 broker-dealers to trade and settle digital asset securities through OTC Link ATS using BitGo’s custody infrastructure.
+
+📖 [Read original article](https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Bitcoin price avoids major Iran jitters as S&P 500 ‘short squeeze’ on horizon
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/22/2026, 3:55:20 PM  
+**Categories:** Markets  
+
+Bitcoin and US stocks stayed strong in the face of US-Iran escalation as analysis predicted BTC price action outperforming equities later.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-avoids-major-iran-jitters-as-sp-500-short-squeeze-on-horizon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. The digital euro: Surveillance money, or a better alternative to cash?
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 7/22/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+Proponents of the digital euro say its a better alternative to cash that’s fully backed by the ECB. But critics argue it could provide the EU with too much power over its citizens.
+
+📖 [Read original article](https://cointelegraph.com/magazine/what-is-the-digital-euro-all-you-need-to-know-about-europes-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Franklin Templeton calls agentic AI next ‘killer’ use case for blockchain
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 7/22/2026, 1:18:50 PM  
+**Categories:** Latest News  
+
+Franklin Templeton’s digital assets lead said that the autonomous AI agent economy will increase demand for blockchain protocols hosting machine-to-machine micropayments.
+
+📖 [Read original article](https://cointelegraph.com/news/agentic-ai-killer-use-case-blockchain-franklin-templeton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Here’s what happened in crypto today
 
 **Author:** Cointelegraph  
 **Published:** 7/22/2026, 12:54:29 PM  
@@ -23,7 +119,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Bitcoin analysis eyes ‘serious volume’ after Binance sees 9K BTC daily outflow
+## 10. Bitcoin analysis eyes ‘serious volume’ after Binance sees 9K BTC daily outflow
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/22/2026, 11:55:21 AM  
@@ -35,7 +131,7 @@ Binance set multimonth records for net BTC outflows on Tuesday, adding to an eme
 
 ---
 
-## 3. Zilliqa Ledger app vulnerability lets attackers recover signer’s private keys
+## 11. Zilliqa Ledger app vulnerability lets attackers recover signer’s private keys
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/22/2026, 11:49:53 AM  
@@ -47,7 +143,7 @@ A security vulnerability in the Zilliqa Ledger app is enabling attackers to reco
 
 ---
 
-## 4. US seeks forfeiture of $25M in crypto tied to romance, investment scams
+## 12. US seeks forfeiture of $25M in crypto tied to romance, investment scams
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/22/2026, 11:32:40 AM  
@@ -59,7 +155,7 @@ US prosecutors are seeking more than $25 million in cryptocurrency allegedly con
 
 ---
 
-## 5. Talos brings institutional trading tools to Kalshi prediction markets
+## 13. Talos brings institutional trading tools to Kalshi prediction markets
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/22/2026, 11:00:00 AM  
@@ -71,7 +167,7 @@ The integration provides institutional clients with access to Kalshi’s event c
 
 ---
 
-## 6. Crypto institutions look beyond audits as trust signals falter: Hacken
+## 14. Crypto institutions look beyond audits as trust signals falter: Hacken
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/22/2026, 11:00:00 AM  
@@ -83,7 +179,7 @@ Institutional due diligence is shifting toward continuous monitoring, signer con
 
 ---
 
-## 7. South Korea crypto volumes shrink as retail investors shift to stocks
+## 15. South Korea crypto volumes shrink as retail investors shift to stocks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/22/2026, 10:47:09 AM  
@@ -95,7 +191,7 @@ Trading activity on South Korea’s five major crypto exchanges fell sharply as 
 
 ---
 
-## 8. Foundry asks Bitcoin miners to vote on BIP-110 support
+## 16. Foundry asks Bitcoin miners to vote on BIP-110 support
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/22/2026, 10:29:42 AM  
@@ -107,7 +203,7 @@ Foundry USA asked its mining customers to signal their support for BIP-110, an a
 
 ---
 
-## 9. SecondFi to wind down after $2.6M ADA theft linked to wallet flaw
+## 17. SecondFi to wind down after $2.6M ADA theft linked to wallet flaw
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/22/2026, 9:42:00 AM  
@@ -119,7 +215,7 @@ SecondFi will wind down after a $2.6 million ADA theft, while users still await 
 
 ---
 
-## 10. Galaxy pledges $5M for developers quantum-proofing Bitcoin
+## 18. Galaxy pledges $5M for developers quantum-proofing Bitcoin
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/22/2026, 9:30:05 AM  
@@ -131,7 +227,7 @@ Galaxy pledged up to $5 million in grants for developers working on Bitcoin’s 
 
 ---
 
-## 11. Bitcoin ETFs extend inflow streak to 6 days with $203M added
+## 19. Bitcoin ETFs extend inflow streak to 6 days with $203M added
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/22/2026, 7:57:03 AM  
@@ -143,7 +239,7 @@ US spot Bitcoin ETFs extended their inflow streak to six sessions, bringing in a
 
 ---
 
-## 12. Balance Coin crashes 99% after reported $915K exploit
+## 20. Balance Coin crashes 99% after reported $915K exploit
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/22/2026, 3:12:48 AM  
@@ -155,7 +251,7 @@ The attack allowed the exploiter to liquidate multiple Bitcoin-backed vaults bef
 
 ---
 
-## 13. OpenAI says AI models escaped containment to hack Hugging Face
+## 21. OpenAI says AI models escaped containment to hack Hugging Face
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/22/2026, 2:45:55 AM  
@@ -167,7 +263,7 @@ OpenAI called it an “unprecedented cyber incident” after its AI models broke
 
 ---
 
-## 14. Balaji’s Network School turns to Kazakhstan amid Malaysia setback
+## 22. Balaji’s Network School turns to Kazakhstan amid Malaysia setback
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/22/2026, 1:05:25 AM  
