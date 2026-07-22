@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-21"
 date: "2026-07-21"
 source: "The Block"
-count: 20
+count: 16
 ---
 
 # The Block - 2026-07-21
 
-20 items collected.
+16 items collected.
 
 ---
 
@@ -200,53 +200,5 @@ The messaging platform has long been viewed as a potential gateway for bringing 
 London Stock Exchange will launch LSE 24, a 24/5 venue trading 17:00–07:50, with testing by end-2026 and ETPs first in H1 2027.
 
 📖 [Read original article](https://www.theblock.co/post/409089/london-stock-exchanges-lse-24-signals-bet-on-digital-ai-driven-markets-td-cowen?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Malaysia shuts down Balaji Srinivasan’s Network School in Forest City
-
-**Author:** Brian Danga  
-**Published:** 7/21/2026, 1:50:19 PM  
-**Categories:** Policy, Regulation, Asian Regulation  
-
-Malaysia revoked Network School's license, ordering the Balaji Srinivasan-founded digital nomad commune to cease operations July 22.
-
-📖 [Read original article](https://www.theblock.co/post/409076/malaysia-shuts-down-balaji-srinivasans-network-school-forest-city?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. Jack Mallers leaves Twenty One as Strike exits Tether’s three-way bitcoin merger
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/21/2026, 1:47:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Layer 1s, Markets, Stablecoins, Token Projects, Bitcoin, Tether  
-
-Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.
-
-📖 [Read original article](https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger?utm_source=rss&utm_medium=rss)
-
----
-
-## 19. Arcus rolls out 24/7 tokenized US stocks and perpetual markets on Robinhood Chain
-
-**Author:** Brian Danga  
-**Published:** 7/21/2026, 1:30:00 PM  
-**Categories:** Crypto Ecosystems, DeFi  
-
-Arcus rolled out 24/7 trading for over 95 Stock Tokens on Robinhood Chain and also introduced beta perpetual markets with USDG collateral.
-
-📖 [Read original article](https://www.theblock.co/post/408895/arcus-rolls-out-24-7-tokenized-us-stocks-and-perpetual-markets-on-robinhood-chain?utm_source=rss&utm_medium=rss)
-
----
-
-## 20. Aztec upgrades to V5 in alpha, adding full private execution environment to decentralized Ethereum L2
-
-**Author:** Daniel Kuhn  
-**Published:** 7/21/2026, 1:20:40 PM  
-**Categories:** Crypto Ecosystems, DeFi, Layer 1s, Layer 2s and Scaling, Markets, Token Projects, Ethereum, zkEVM  
-
-Aztec V5 focuses on supporting "client-side proving," enabling computation-heavy ZK proofs on simple devices like phones and laptops.
-
-📖 [Read original article](https://www.theblock.co/post/409065/aztec-upgrades-v5-alpha-adding-private-execution-environment-decentralized-ethereum-l2?utm_source=rss&utm_medium=rss)
 
 ---
