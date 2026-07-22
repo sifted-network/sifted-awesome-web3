@@ -2,16 +2,160 @@
 title: "The Block - 2026-07-22"
 date: "2026-07-22"
 source: "The Block"
-count: 5
+count: 17
 ---
 
 # The Block - 2026-07-22
 
-5 items collected.
+17 items collected.
 
 ---
 
-## 1. Zilliqa halts native transactions over bug in its Ledger app dating to 2019
+## 1. Clarity Act’s impact on Circle could be negative over the long term, Mizuho says
+
+**Author:** RT Watson  
+**Published:** 7/22/2026, 6:02:44 PM  
+**Categories:** Companies, Crypto Ecosystems, Equities, Markets, Stablecoins, Token Projects, Analyst Reports, USDC  
+
+On Wednesday, the Clarity Act took one step closer to becoming law as Republicans released the latest text for the legislation.
+
+📖 [Read original article](https://www.theblock.co/post/409453/clarity-act-impact-on-circle-could-be-negative-over-long-term-mizuho?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Benchmark sees Hut 8 becoming a ‘power-first data center REIT,’ raises target another 18%
+
+**Author:** Kyle Baird  
+**Published:** 7/22/2026, 5:46:18 PM  
+**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Web3, AI, Bitcoin  
+
+Benchmark’s new price target implies roughly 75% upside, with Hut 8 shares already up nearly 120% year to date.
+
+📖 [Read original article](https://www.theblock.co/post/409439/benchmark-hut-8-becoming-power-first-data-center-reit-raises-target-18?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Kraken parent Payward partners with GTN to scale xStocks internationally, beyond US equities
+
+**Author:** Daniel Kuhn  
+**Published:** 7/22/2026, 5:31:33 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Finance firms, Markets, Policy, Regulation, Web3, Fintech, Kraken, Tokenization  
+
+xStocks is tokenizing equities from Hong Kong before expanding to the UK, Europe, South Korea, and other international markets.
+
+📖 [Read original article](https://www.theblock.co/post/409448/kraken-parent-payward-partners-gtn-scale-xstocks-internationally-beyond-us-equities?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. SEC reaches settlement with Coinbase over records requests from Gensler era
+
+**Author:** Sarah Wynn  
+**Published:** 7/22/2026, 4:55:08 PM  
+**Categories:** Companies, Exchanges, Markets, Policy, Public Equities, Regulation, Coinbase, SEC  
+
+The SEC reached a settlement with Coinbase on Wednesday, ending a years-long legal dispute over the agency's handling of records requests.
+
+📖 [Read original article](https://www.theblock.co/post/409437/sec-reaches-settlement-coinbase-over-records-requests-gensler-era?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Senate releases latest version of Clarity Act including software developer protections and ethics provision with ‘sunset’ date in 2029
+
+**Author:** Sarah Wynn  
+**Published:** 7/22/2026, 4:46:22 PM  
+**Categories:** Companies, People, Policy, Regulation, U.S. Policymaking, Donald Trump, Senate Agriculture Committee, Senate Banking Committee  
+
+After months of deliberations, Republicans released the latest text for broader cryptocurrency legislation.
+
+📖 [Read original article](https://www.theblock.co/post/409442/senate-releases-latest-clarity-act-software-developer-protections-ethics-provision-sunset-date-2029?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. Crypto directly employs 34,000 in the US and contributes $55 billion to the economy: NCA report
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 7/22/2026, 4:00:00 PM  
+**Categories:** Companies, Crypto Ecosystems, Web3, Crypto  
+
+Crypto directly employs 34,000 in the U.S. and contributes $55 billion to the economy in 2026, according to an NCA-funded report.
+
+📖 [Read original article](https://www.theblock.co/post/409417/crypto-directly-employs-34000-in-the-us-and-contributes-55-billion-to-the-economy-nca-report?utm_source=rss&utm_medium=rss)
+
+---
+
+## 7. Crypto ‘wrench attacks’ persist as total climbs to 52 and value targeted jumps more than tenfold, CertiK says
+
+**Author:** RT Watson  
+**Published:** 7/22/2026, 3:48:35 PM  
+**Categories:** Companies, Legal, Policy, Crime  
+
+CertiK recommends limiting public information that connects a person’s identity, location or routine to their crypto holdings.
+
+📖 [Read original article](https://www.theblock.co/post/409418/crypto-wrench-attacks-persist-total-climbs-52-value-targeted-jumps-tenfold-certik?utm_source=rss&utm_medium=rss)
+
+---
+
+## 8. ‘You will have a painful fall’: SEC’s Peirce warns crypto vault builders against twisting securities law
+
+**Author:** Daniel Kuhn  
+**Published:** 7/22/2026, 3:11:57 PM  
+**Categories:** Crypto Ecosystems, DeFi, Policy, Regulation, Web3, Lending, SEC, Tokenization  
+
+Hester Peirce, aka "Crypto Mom", issued a statement clarifying that onchain vaults and lending may fall under the SEC's remit.
+
+📖 [Read original article](https://www.theblock.co/post/409409/you-will-have-a-painful-fall-secs-peirce-warns-crypto-vault-builders-against-twisting-securities-law?utm_source=rss&utm_medium=rss)
+
+---
+
+## 9. Benchmark lowers Coinbase earnings estimates but says Clarity Act could eclipse weak second quarter
+
+**Author:** Kyle Baird  
+**Published:** 7/22/2026, 3:03:42 PM  
+**Categories:** Companies, Equities, Exchanges, Markets, Policy, Public Equities, Regulation, Analyst Reports, Coinbase  
+
+Coinbase trading activity stabilized in June after crypto spot volumes slumped throughout most of the quarter.
+
+📖 [Read original article](https://www.theblock.co/post/409390/benchmark-lowers-coinbase-earnings-estimates-clarity-act-eclipse-weak-quarter?utm_source=rss&utm_medium=rss)
+
+---
+
+## 10. Polymarket ‘surprised’ France blocked site as information source, plans legal challenge
+
+**Author:** RT Watson  
+**Published:** 7/22/2026, 2:59:00 PM  
+**Categories:** Companies, Policy, Regulation  
+
+Last week, the ANJ ordered French internet service providers to block access to Polymarket ahead of the World Cup final.
+
+📖 [Read original article](https://www.theblock.co/post/409395/polymarket-surprised-france-blocked-site-information-source-plans-legal-challenge?utm_source=rss&utm_medium=rss)
+
+---
+
+## 11. ‘Optimistic signals’ meet a $68,000 wall as bitcoin’s recovery faces its next test: analysts
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 7/22/2026, 2:55:18 PM  
+**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin  
+
+Bitcoin holds above $65,800 as spot ETFs log a sixth day of inflows. Bitfinex analysts flag $68K resistance as the next test.
+
+📖 [Read original article](https://www.theblock.co/post/409398/optimistic-signals-meet-68000-wall-bitcoin-recovery-faces-next-test-analysts?utm_source=rss&utm_medium=rss)
+
+---
+
+## 12. Tokenized equity perps drive RWA trading boom to $470 billion monthly volume
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 7/22/2026, 2:08:01 PM  
+**Categories:** Crypto Ecosystems, DeFi, Markets, Web3, Tokenization  
+
+Within the broader RWA category, tokenized equities have been the more popular asset class to trade over tokenized commodities.
+
+📖 [Read original article](https://www.theblock.co/post/408961/tokenized-equity-perps-drive-rwa-trading-boom-to-470-billion-monthly-volume?utm_source=rss&utm_medium=rss)
+
+---
+
+## 13. Zilliqa halts native transactions over bug in its Ledger app dating to 2019
 
 **Author:** Brian Danga  
 **Published:** 7/22/2026, 12:39:11 PM  
@@ -23,7 +167,7 @@ Zilliqa halted native transactions after revealing a bug in its Ledger app datin
 
 ---
 
-## 2. BIS warns USD stablecoins can evade capital controls, challenging traditional market regulations
+## 14. BIS warns USD stablecoins can evade capital controls, challenging traditional market regulations
 
 **Author:** Timmy Shen  
 **Published:** 7/22/2026, 7:47:26 AM  
@@ -35,7 +179,7 @@ BIS says that FX restrictions and capital controls are less effective against st
 
 ---
 
-## 3. US seeks forfeiture of $25 million in crypto tied to global fraud investigations
+## 15. US seeks forfeiture of $25 million in crypto tied to global fraud investigations
 
 **Author:** Brian Danga  
 **Published:** 7/22/2026, 7:41:49 AM  
@@ -47,7 +191,7 @@ US prosecutors seek forfeiture of $25 million in crypto recovered from five inve
 
 ---
 
-## 4. HTX keeps rotating wallets to evade UK sanctions screening: TRM Labs
+## 16. HTX keeps rotating wallets to evade UK sanctions screening: TRM Labs
 
 **Author:** Timmy Shen  
 **Published:** 7/22/2026, 4:23:08 AM  
@@ -59,7 +203,7 @@ UK authorities sanctioned the crypto exchange in May for its alleged role in fac
 
 ---
 
-## 5. Pakistan launches crypto investigation unit to crack down on digital asset crimes: report
+## 17. Pakistan launches crypto investigation unit to crack down on digital asset crimes: report
 
 **Author:** Danny Park  
 **Published:** 7/22/2026, 2:46:51 AM  
