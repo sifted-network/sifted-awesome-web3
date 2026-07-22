@@ -77,7 +77,7 @@ The filing comes after months of upheaval that included a controversial market-m
 **Published:** 7/21/2026, 4:19:24 PM  
 **Categories:** Tech, News  
 
-Claude Fabel 5 disproved the Jacobian conjecture over the weekend, landing days after the capabilities of China's Kimi AI became the biggest force moving bitcoin markets.
+Claude Fable 5 disproved the Jacobian conjecture over the weekend, landing days after the capabilities of China's Kimi AI became the biggest force moving bitcoin markets.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/07/21/claude-s-fable-5-just-solved-an-87-year-old-math-problem-and-it-matters-for-bitcoin)
 
