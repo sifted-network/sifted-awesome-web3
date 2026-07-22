@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-21"
 date: "2026-07-21"
 source: "Cointelegraph"
-count: 26
+count: 25
 ---
 
 # Cointelegraph - 2026-07-21
 
-26 items collected.
+25 items collected.
 
 ---
 
@@ -29,13 +29,13 @@ According to one lawyer testifying before a House subcommittee hearing, the CLAR
 **Published:** 7/21/2026, 8:59:32 PM  
 **Categories:** Latest News  
 
-The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension, and exchange delistings that rocked the project.
+The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension and exchange delistings that rocked the project.
 
 📖 [Read original article](https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-## 3. Ether breaks the $1.9K resistance; is $2.1K the next target for ETH bulls?
+## 3. Ether breaks the $1.9K resistance: Is $2.1K the next target for ETH bulls?
 
 **Author:** Cointelegraph by Marcel Pechman  
 **Published:** 7/21/2026, 8:26:13 PM  
@@ -47,19 +47,7 @@ Ether’s rally faces onchain headwinds, but rising staking demand and Google ea
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph  
-**Published:** 7/21/2026, 8:12:18 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Pakistan steps up crypto enforcement with dedicated federal unit
+## 4. Pakistan steps up crypto enforcement with dedicated federal unit
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/21/2026, 7:19:22 PM  
@@ -71,7 +59,7 @@ A senior official with Pakistan’s Federal Investigation Agency reportedly reco
 
 ---
 
-## 6. Pavel Durov says Telegram to roll out native Gram crypto wallet
+## 5. Pavel Durov says Telegram to roll out native Gram crypto wallet
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/21/2026, 6:20:58 PM  
@@ -83,7 +71,7 @@ Telegram founder Pavel Durov said the messaging platform will roll out a native 
 
 ---
 
-## 7. Crypto market breakout could accelerate as AI trade cools, analyst says
+## 6. Crypto market breakout could accelerate as AI trade cools, analyst says
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/21/2026, 5:46:30 PM  
@@ -95,7 +83,7 @@ Bitcoin topped $67,000 while crypto stocks rallied on optimism over US crypto le
 
 ---
 
-## 8. White House agrees to ethics provisions in market structure bill
+## 7. White House agrees to ethics provisions in market structure bill
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/21/2026, 5:30:58 PM  
@@ -107,7 +95,7 @@ The price of Bitcoin moved above $66,000 to reach a seven-week high on Tuesday a
 
 ---
 
-## 9. BIS warns stablecoins could weaken capital controls in emerging markets
+## 8. BIS warns stablecoins could weaken capital controls in emerging markets
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/21/2026, 4:11:54 PM  
@@ -119,7 +107,7 @@ Researchers found dollar-backed stablecoins are less affected by capital control
 
 ---
 
-## 10. MEXC adds Bittensor TAO staking for its global user base
+## 9. MEXC adds Bittensor TAO staking for its global user base
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/21/2026, 3:53:08 PM  
@@ -131,7 +119,7 @@ The integration with validator Yuma gives millions of MEXC users access to Bitte
 
 ---
 
-## 11. Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans
+## 10. Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/21/2026, 3:14:37 PM  
@@ -143,7 +131,7 @@ Bitcoin and crypto joined US stocks in brushing off US-Iran war escalation and t
 
 ---
 
-## 12. CoinShares debuts Bitcoin mining ETF in Europe entrance
+## 11. CoinShares debuts Bitcoin mining ETF in Europe entrance
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/21/2026, 1:34:26 PM  
@@ -155,7 +143,7 @@ The UCITS ETF, CoinShares’ first in Europe, began trading on Deutsche Börse X
 
 ---
 
-## 13. Robinhood-backed DEX Arcus expands with tokenized assets, perps
+## 12. Robinhood-backed DEX Arcus expands with tokenized assets, perps
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/21/2026, 1:16:22 PM  
@@ -167,7 +155,7 @@ Arcus, built by the dYdX team, adds tokenized stocks and perpetual futures on Ro
 
 ---
 
-## 14. Morpho launches fixed-rate lending protocol on Base
+## 13. Morpho launches fixed-rate lending protocol on Base
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/21/2026, 1:00:00 PM  
@@ -179,7 +167,7 @@ Morpho Midnight introduces fixed rates and defined maturities alongside Morpho B
 
 ---
 
-## 15. Tether-backed Twenty One, Strike merger plan scrapped: Bloomberg
+## 14. Tether-backed Twenty One, Strike merger plan scrapped: Bloomberg
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/21/2026, 12:29:25 PM  
@@ -191,7 +179,7 @@ Strike will remain a standalone company after the proposed three-way merger was 
 
 ---
 
-## 16. More MiCA-licensed crypto firms may exit EU market: Gate Europe CEO
+## 15. More MiCA-licensed crypto firms may exit EU market: Gate Europe CEO
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/21/2026, 11:58:02 AM  
@@ -203,7 +191,7 @@ Gate Europe’s Giovanni Cunti says some MiCA-licensed crypto firms may struggle
 
 ---
 
-## 17. Russian parliament passes law regulating crypto market
+## 16. Russian parliament passes law regulating crypto market
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/21/2026, 11:49:30 AM  
@@ -215,7 +203,7 @@ The State Duma legislation creates a regulated framework for crypto market parti
 
 ---
 
-## 18. Bitcoin price gains to $66.3K as range breakout attempt sparks 1-month high
+## 17. Bitcoin price gains to $66.3K as range breakout attempt sparks 1-month high
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/21/2026, 10:30:00 AM  
@@ -227,7 +215,7 @@ Bitcoin beat out local resistance to pass $66,000 amid predictions of as much as
 
 ---
 
-## 19. UK parliamentary group probes banking barriers for crypto firms
+## 18. UK parliamentary group probes banking barriers for crypto firms
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/21/2026, 8:51:06 AM  
@@ -239,7 +227,7 @@ A UK parliamentary group launched an inquiry into banking restrictions on crypto
 
 ---
 
-## 20. Bitcoin ETFs post 5-day inflow streak, longest since May
+## 19. Bitcoin ETFs post 5-day inflow streak, longest since May
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/21/2026, 7:28:29 AM  
@@ -251,7 +239,7 @@ US spot Bitcoin ETFs recorded $227 million in inflows as BTC climbed above $65,0
 
 ---
 
-## 21. Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says
+## 20. Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/21/2026, 7:06:12 AM  
@@ -263,7 +251,7 @@ The Coinbase-backed Ethereum layer-2 is preparing to expand its financial offeri
 
 ---
 
-## 22. Grayscale files S-1 for first US Worldcoin ETF
+## 21. Grayscale files S-1 for first US Worldcoin ETF
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/21/2026, 3:56:10 AM  
@@ -275,7 +263,7 @@ The filing expands Grayscale’s growing lineup of crypto-related exchange-trade
 
 ---
 
-## 23. Celsius co-founders Leon, Goldstein to pay FTC over $6M
+## 22. Celsius co-founders Leon, Goldstein to pay FTC over $6M
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/21/2026, 3:21:52 AM  
@@ -287,7 +275,7 @@ The settlements add to former Celsius CEO Alex Mashinsky’s $10 million FTC set
 
 ---
 
-## 24. Binance & OKX users face $1,900 fines in Vietnam, Coinbase in China? Asia Express
+## 23. Binance & OKX users face $1,900 fines in Vietnam, Coinbase in China? Asia Express
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 7/21/2026, 2:42:14 AM  
@@ -299,7 +287,7 @@ Retail users in Vietnam who trade on offshore crypto exchanges like Binance or O
 
 ---
 
-## 25. London Stock Exchange eyes overnight trading launch in 2027: FT
+## 24. London Stock Exchange eyes overnight trading launch in 2027: FT
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/21/2026, 1:16:50 AM  
@@ -311,7 +299,7 @@ The move comes as traditional exchanges face growing competition from crypto mar
 
 ---
 
-## 26. Patrick Witt defers military training as CLARITY heads to Senate
+## 25. Patrick Witt defers military training as CLARITY heads to Senate
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/21/2026, 12:02:04 AM  
