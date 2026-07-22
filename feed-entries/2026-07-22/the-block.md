@@ -2,16 +2,28 @@
 title: "The Block - 2026-07-22"
 date: "2026-07-22"
 source: "The Block"
-count: 4
+count: 5
 ---
 
 # The Block - 2026-07-22
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. BIS warns USD stablecoins can evade capital controls, challenging traditional market regulations
+## 1. Zilliqa halts native transactions over bug in its Ledger app dating to 2019
+
+**Author:** Brian Danga  
+**Published:** 7/22/2026, 12:39:11 PM  
+**Categories:** Crypto Ecosystems, Security, Exploits, Hacks  
+
+Zilliqa halted native transactions after revealing a bug in its Ledger app dating to 2019 that exposed private keys via onchain signatures.
+
+📖 [Read original article](https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. BIS warns USD stablecoins can evade capital controls, challenging traditional market regulations
 
 **Author:** Timmy Shen  
 **Published:** 7/22/2026, 7:47:26 AM  
@@ -23,7 +35,7 @@ BIS says that FX restrictions and capital controls are less effective against st
 
 ---
 
-## 2. US seeks forfeiture of $25 million in crypto tied to global fraud investigations
+## 3. US seeks forfeiture of $25 million in crypto tied to global fraud investigations
 
 **Author:** Brian Danga  
 **Published:** 7/22/2026, 7:41:49 AM  
@@ -35,7 +47,7 @@ US prosecutors seek forfeiture of $25 million in crypto recovered from five inve
 
 ---
 
-## 3. HTX keeps rotating wallets to evade UK sanctions screening: TRM Labs
+## 4. HTX keeps rotating wallets to evade UK sanctions screening: TRM Labs
 
 **Author:** Timmy Shen  
 **Published:** 7/22/2026, 4:23:08 AM  
@@ -47,7 +59,7 @@ UK authorities sanctioned the crypto exchange in May for its alleged role in fac
 
 ---
 
-## 4. Pakistan launches crypto investigation unit to crack down on digital asset crimes: report
+## 5. Pakistan launches crypto investigation unit to crack down on digital asset crimes: report
 
 **Author:** Danny Park  
 **Published:** 7/22/2026, 2:46:51 AM  
