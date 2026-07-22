@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-21"
 date: "2026-07-21"
 source: "CoinDesk"
-count: 18
+count: 15
 ---
 
 # CoinDesk - 2026-07-21
 
-18 items collected.
+15 items collected.
 
 ---
 
@@ -188,41 +188,5 @@ Speculation that President Donald Trump agreed to a crucial ethics provision for
 XRP pushed higher over 24 hours and tested short-term resistance, but the larger chart still needs a clean break above the $1.24-$1.28 supply zone to confirm a stronger reversal.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35)
-
----
-
-## 16. Live markets: Bitcoin pulls back from five-week high on new Trump threats over Iran
-
-**Author:** Shaurya Malwa,Helene Braun  
-**Published:** 7/21/2026, 6:42:52 AM  
-**Categories:** Finance, Live News, live_news  
-
-Bitcoin ETFs have pulled in roughly $727 million over the past week, the most sustained stretch of buying since the record outflows of June.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april)
-
----
-
-## 17. UK Parliament begins inquiry into banking chokepoint for crypto businesses
-
-**Author:** Ian Allison  
-**Published:** 7/21/2026, 6:15:26 AM  
-**Categories:** Policy, UK, banks, News  
-
-The U.K.’s Crypto and Digital Assets All-Party Parliamentary Group (APPG) is focused on banks that refused crypto firms accounts or introduced restrictions on crypto transactions.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses)
-
----
-
-## 18. Bitcoin hits one-month high above $66,000 as the chip trade turns back into a tailwind
-
-**Author:** Shaurya Malwa  
-**Published:** 7/21/2026, 5:34:00 AM  
-**Categories:** Markets, News  
-
-Asian semiconductor shares rebounded hard, a five-day ETF inflow streak passed $600 million, and oil pulled back on Middle East diplomacy.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind)
 
 ---
