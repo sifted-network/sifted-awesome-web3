@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-20"
 date: "2026-07-20"
 source: "CoinDesk"
-count: 10
+count: 7
 ---
 
 # CoinDesk - 2026-07-20
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ The framework will address critical issues like official ownership records, priv
 Your day-ahead look for July 20, 2026
 
 📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/20/a-bitcoin-volmageddon-may-be-brewing-key-indicator-suggests)
-
----
-
-## 8. Bank of Korea prepares for live CBDC transactions with 9 banks in September
-
-**Author:** Olivier Acuna  
-**Published:** 7/20/2026, 11:10:07 AM  
-**Categories:** Finance, South Korea, CBDC, News  
-
-Major banking heavyweights join a massive blockchain network test that will allow retail consumers to trade tokenized won freely across commercial lines.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/20/bank-of-korea-prepares-for-live-cbdc-transactions-with-nine-banks-in-september)
-
----
-
-## 9. Crypto market slips even as equities advance. Pump surges on social-media chatter
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 7/20/2026, 10:33:14 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-With a Fear and Greed index pointing solidly at "fear," crypto prices drifted lower even as stock index futures rose. PUMP's 20% surge was the only real headline in an otherwise quiet session.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/20/crypto-market-slips-even-as-equities-advance-pump-surges-on-social-media-chatter)
-
----
-
-## 10. Hyperliquid plans to add decentralized prediction markets in upgrade to HIP-4
-
-**Author:** Jamie Crawley  
-**Published:** 7/20/2026, 10:04:25 AM  
-**Categories:** Finance, Prediction Markets, Hyperliquid, News  
-
-Permissionless prediction markets will become available first on testnet and later on mainnet, Hyperliquid said.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/20/hyperliquid-plans-to-add-decentralized-prediction-markets-in-upgrade-to-hip-4)
 
 ---
