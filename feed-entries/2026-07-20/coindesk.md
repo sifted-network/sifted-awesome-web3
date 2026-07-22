@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-20"
 date: "2026-07-20"
 source: "CoinDesk"
-count: 7
+count: 5
 ---
 
 # CoinDesk - 2026-07-20
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ The company added just 7,430 ETH, worth about $14 million, last week as it nears
 For the second consecutive week, the firm kept bitcoin holdings steady, choosing to use the raised capital to boost cash for paying dividends on its preferred stock.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/20/saylor-s-strategy-raises-cash-reserves-to-usd3-225-billion-leaving-bitcoin-holdings-unchanged)
-
----
-
-## 6. Brazil’s securities regulator sets up task force with 60-day deadline for tokenization proposal
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/20/2026, 12:02:28 PM  
-**Categories:** Policy, Brazil, Regulation, News  
-
-The framework will address critical issues like official ownership records, private key custody, transaction reversibility and system liability.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/20/brazil-s-securities-regulator-sets-up-task-force-with-60-day-deadline-for-tokenization-proposal)
-
----
-
-## 7. A bitcoin 'volmageddon' may be brewing, key indicator suggests
-
-**Author:** Omkar Godbole  
-**Published:** 7/20/2026, 11:15:57 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for July 20, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/20/a-bitcoin-volmageddon-may-be-brewing-key-indicator-suggests)
 
 ---
