@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-21"
 date: "2026-07-21"
 source: "Cointelegraph"
-count: 16
+count: 8
 ---
 
 # Cointelegraph - 2026-07-21
 
-16 items collected.
+8 items collected.
 
 ---
 
@@ -104,101 +104,5 @@ The price of Bitcoin moved above $66,000 to reach a seven-week high on Tuesday a
 Researchers found dollar-backed stablecoins are less affected by capital controls than traditional bank deposits, raising new questions about monetary sovereignty in emerging markets.
 
 📖 [Read original article](https://cointelegraph.com/news/bis-study-says-stablecoins-bypass-capital-controls-more-easily-than-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. MEXC adds Bittensor TAO staking for its global user base
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 7/21/2026, 3:53:08 PM  
-**Categories:** Latest News  
-
-The integration with validator Yuma gives millions of MEXC users access to Bittensor, an AI-focused blockchain whose ecosystem now spans 128 specialized subnets.
-
-📖 [Read original article](https://cointelegraph.com/news/mexc-adds-bittensor-tao-staking-for-its-global-user-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/21/2026, 3:14:37 PM  
-**Categories:** Markets  
-
-Bitcoin and crypto joined US stocks in brushing off US-Iran war escalation and the threat of fresh trade tariffs before the end of the month.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-nears-seven-week-high-as-stocks-ignore-iran-strikes-trump-10-tariff-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. CoinShares debuts Bitcoin mining ETF in Europe entrance
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/21/2026, 1:34:26 PM  
-**Categories:** Latest News  
-
-The UCITS ETF, CoinShares’ first in Europe, began trading on Deutsche Börse Xetra, tracking a rules-based index of publicly listed BTC miners.
-
-📖 [Read original article](https://cointelegraph.com/news/coinshares-debuts-bitcoin-mining-ucits-etf-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Robinhood-backed DEX Arcus expands with tokenized assets, perps
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/21/2026, 1:16:22 PM  
-**Categories:** Latest News  
-
-Arcus, built by the dYdX team, adds tokenized stocks and perpetual futures on Robinhood Chain as platforms compete to bring traditional assets onchain.
-
-📖 [Read original article](https://cointelegraph.com/news/robinhood-backed-dex-arcus-debut-multi-asset-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Morpho launches fixed-rate lending protocol on Base
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/21/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-Morpho Midnight introduces fixed rates and defined maturities alongside Morpho Blue’s variable-rate lending markets.
-
-📖 [Read original article](https://cointelegraph.com/news/morpho-midnight-fixed-rate-lending-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Tether-backed Twenty One, Strike merger plan scrapped: Bloomberg
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/21/2026, 12:29:25 PM  
-**Categories:** Latest News  
-
-Strike will remain a standalone company after the proposed three-way merger was scrapped, while Twenty One Capital and Elektron continue discussions, Bloomberg reported.
-
-📖 [Read original article](https://cointelegraph.com/news/tether-twenty-one-strike-merger-plan-scrapped-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. More MiCA-licensed crypto firms may exit EU market: Gate Europe CEO
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/21/2026, 11:58:02 AM  
-**Categories:** Latest News  
-
-Gate Europe’s Giovanni Cunti says some MiCA-licensed crypto firms may struggle to sustain compliance costs as Europe enters its new regulatory era.
-
-📖 [Read original article](https://cointelegraph.com/news/mica-licensed-crypto-firms-eu-market-gate-europe-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Russian parliament passes law regulating crypto market
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/21/2026, 11:49:30 AM  
-**Categories:** Latest News  
-
-The State Duma legislation creates a regulated framework for crypto market participants and now moves to President Vladimir Putin for his signature before becoming law.
-
-📖 [Read original article](https://cointelegraph.com/news/russias-parliament-passes-law-regulating-crypto-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
