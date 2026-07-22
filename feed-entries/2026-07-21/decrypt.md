@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-07-21"
 date: "2026-07-21"
 source: "Decrypt"
-count: 10
+count: 12
 ---
 
 # Decrypt - 2026-07-21
 
-10 items collected.
+12 items collected.
 
 ---
 
-## 1. Google Ships New Gemini Flash Models, But Pro Is Still Missing
+## 1. OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/21/2026, 9:29:03 PM  
+**Categories:** Artificial Intelligence  
+
+OpenAI's own models just broke out of a sandboxed environment, hacked Hugging Face, just to cheat on a cybersecurity evaluation.
+
+📖 [Read original article](https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark)
+
+---
+
+## 2. Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/21/2026, 8:20:49 PM  
+**Categories:** the-open-network, Coins  
+
+The promise of instant, zero-fee crypto transactions for over a billion Telegram users sent its native Gram token up 7%.
+
+📖 [Read original article](https://decrypt.co/374001/pavel-durov-telegram-crypto-wallet-billion-users)
+
+---
+
+## 3. Google Ships New Gemini Flash Models, But Pro Is Still Missing
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/21/2026, 6:55:45 PM  
@@ -23,7 +47,7 @@ As Gemini 3.5 Pro stalls in testing limbo, Google ships 3.6 Flash, 3.5 Flash-Lit
 
 ---
 
-## 2. Augustus Raises $180 Million to Build a Stablecoin-Ready 'Global Dollar Bank'
+## 4. Augustus Raises $180 Million to Build a Stablecoin-Ready 'Global Dollar Bank'
 
 **Author:** Decrypt Agent  
 **Published:** 7/21/2026, 6:13:48 PM  
@@ -35,7 +59,7 @@ The Tiger Global-led round values the startup at $1 billion as it wires stableco
 
 ---
 
-## 3. Google Is Building an AI Chip Just for Gemini—And Investors Already Moved On It
+## 5. Google Is Building an AI Chip Just for Gemini—And Investors Already Moved On It
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/21/2026, 5:24:37 PM  
@@ -47,7 +71,7 @@ Codenamed Frozen v2, Google's new server chip would bake part of Gemini's archit
 
 ---
 
-## 4. XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious
+## 6. XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/21/2026, 4:20:29 PM  
@@ -59,7 +83,7 @@ The Ripple-linked token just had its best day in weeks, as Washington may finall
 
 ---
 
-## 5. Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses
+## 7. Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/21/2026, 4:06:20 PM  
@@ -71,7 +95,7 @@ XXI stock dropped nearly 18% after the company's co-founder stepped down and Tet
 
 ---
 
-## 6. Galaxy Commits Up to $5 Million to Prepare Bitcoin for Quantum Threat
+## 8. Galaxy Commits Up to $5 Million to Prepare Bitcoin for Quantum Threat
 
 **Author:** Decrypt Agent  
 **Published:** 7/21/2026, 12:01:03 PM  
@@ -83,7 +107,7 @@ The crypto firm's initiative arrives as researchers, exchanges, and the U.S. gov
 
 ---
 
-## 7. Morning Minute: The Clarity Act Has New Life
+## 9. Morning Minute: The Clarity Act Has New Life
 
 **Author:** Tyler Warner  
 **Published:** 7/21/2026, 11:57:23 AM  
@@ -95,7 +119,7 @@ Odds of the Clarity Act passing in 2026 jumped to 42% after a surprising new dev
 
 ---
 
-## 8. Pakistan Launches Crypto Investigation Unit to Fight Money Laundering
+## 10. Pakistan Launches Crypto Investigation Unit to Fight Money Laundering
 
 **Author:** Decrypt Agent  
 **Published:** 7/21/2026, 11:40:48 AM  
@@ -107,7 +131,7 @@ Islamabad is building the enforcement side of its crypto push, standing up a uni
 
 ---
 
-## 9. Worldcoin’s WLD Jumps 8% on Grayscale ETF Filing
+## 11. Worldcoin’s WLD Jumps 8% on Grayscale ETF Filing
 
 **Author:** Decrypt Agent  
 **Published:** 7/21/2026, 10:16:58 AM  
@@ -119,7 +143,7 @@ The asset manager's S-1 for a spot WLD fund would be the first U.S. ETF tied to 
 
 ---
 
-## 10. UK Lawmakers Launch Inquiry Into Crypto Banking Access
+## 12. UK Lawmakers Launch Inquiry Into Crypto Banking Access
 
 **Author:** Decrypt Agent  
 **Published:** 7/21/2026, 9:05:35 AM  
