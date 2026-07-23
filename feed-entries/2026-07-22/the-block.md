@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-22"
 date: "2026-07-22"
 source: "The Block"
-count: 17
+count: 11
 ---
 
 # The Block - 2026-07-22
 
-17 items collected.
+11 items collected.
 
 ---
 
@@ -140,77 +140,5 @@ Coinbase trading activity stabilized in June after crypto spot volumes slumped t
 Last week, the ANJ ordered French internet service providers to block access to Polymarket ahead of the World Cup final.
 
 📖 [Read original article](https://www.theblock.co/post/409395/polymarket-surprised-france-blocked-site-information-source-plans-legal-challenge?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. ‘Optimistic signals’ meet a $68,000 wall as bitcoin’s recovery faces its next test: analysts
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/22/2026, 2:55:18 PM  
-**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin  
-
-Bitcoin holds above $65,800 as spot ETFs log a sixth day of inflows. Bitfinex analysts flag $68K resistance as the next test.
-
-📖 [Read original article](https://www.theblock.co/post/409398/optimistic-signals-meet-68000-wall-bitcoin-recovery-faces-next-test-analysts?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Tokenized equity perps drive RWA trading boom to $470 billion monthly volume
-
-**Author:** Ivan Wu and Bryan Samsoedin  
-**Published:** 7/22/2026, 2:08:01 PM  
-**Categories:** Crypto Ecosystems, DeFi, Markets, Web3, Tokenization  
-
-Within the broader RWA category, tokenized equities have been the more popular asset class to trade over tokenized commodities.
-
-📖 [Read original article](https://www.theblock.co/post/408961/tokenized-equity-perps-drive-rwa-trading-boom-to-470-billion-monthly-volume?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. Zilliqa halts native transactions over bug in its Ledger app dating to 2019
-
-**Author:** Brian Danga  
-**Published:** 7/22/2026, 12:39:11 PM  
-**Categories:** Crypto Ecosystems, Security, Exploits, Hacks  
-
-Zilliqa halted native transactions after revealing a bug in its Ledger app dating to 2019 that exposed private keys via onchain signatures.
-
-📖 [Read original article](https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. BIS warns USD stablecoins can evade capital controls, challenging traditional market regulations
-
-**Author:** Timmy Shen  
-**Published:** 7/22/2026, 7:47:26 AM  
-**Categories:** Crypto Ecosystems, DeFi, Policy, Regulation  
-
-BIS says that FX restrictions and capital controls are less effective against stablecoins than against foreign currency bank deposits.
-
-📖 [Read original article](https://www.theblock.co/post/409193/bis-warns-stablecoins-capital-controls?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. US seeks forfeiture of $25 million in crypto tied to global fraud investigations
-
-**Author:** Brian Danga  
-**Published:** 7/22/2026, 7:41:49 AM  
-**Categories:** Policy, Regulation  
-
-US prosecutors seek forfeiture of $25 million in crypto recovered from five investigations into international fraud and laundering networks.
-
-📖 [Read original article](https://www.theblock.co/post/409194/us-seeks-forfeiture-25-million-crypto?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. HTX keeps rotating wallets to evade UK sanctions screening: TRM Labs
-
-**Author:** Timmy Shen  
-**Published:** 7/22/2026, 4:23:08 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Policy, Regulation, HTX  
-
-UK authorities sanctioned the crypto exchange in May for its alleged role in facilitating Russian sanctions evasion.
-
-📖 [Read original article](https://www.theblock.co/post/409187/htx-rotates-wallets-uk-sanctions-screening?utm_source=rss&utm_medium=rss)
 
 ---
