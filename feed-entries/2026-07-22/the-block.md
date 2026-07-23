@@ -2,16 +2,28 @@
 title: "The Block - 2026-07-22"
 date: "2026-07-22"
 source: "The Block"
-count: 17
+count: 18
 ---
 
 # The Block - 2026-07-22
 
-17 items collected.
+18 items collected.
 
 ---
 
-## 1. Clarity Act’s impact on Circle could be negative over the long term, Mizuho says
+## 1. Bipartisan support ‘critical’ as Democrats push back on GOP crypto bill on ethics grounds
+
+**Author:** Sarah Wynn  
+**Published:** 7/22/2026, 9:57:28 PM  
+**Categories:** People, Policy, Regulation, U.S. Policymaking, Donald Trump, Senate Agriculture Committee, Senate Banking Committee  
+
+Latest Clarity Act draft is drawing praise from the crypto industry and criticism from Democrats and bankers, highlighting deep divisions.
+
+📖 [Read original article](https://www.theblock.co/post/409470/bipartisan-support-critical-as-democrats-push-back-on-gop-crypto-bill-on-ethics-grounds?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Clarity Act’s impact on Circle could be negative over the long term, Mizuho says
 
 **Author:** RT Watson  
 **Published:** 7/22/2026, 6:02:44 PM  
@@ -23,7 +35,7 @@ On Wednesday, the Clarity Act took one step closer to becoming law as Republican
 
 ---
 
-## 2. Benchmark sees Hut 8 becoming a ‘power-first data center REIT,’ raises target another 18%
+## 3. Benchmark sees Hut 8 becoming a ‘power-first data center REIT,’ raises target another 18%
 
 **Author:** Kyle Baird  
 **Published:** 7/22/2026, 5:46:18 PM  
@@ -35,7 +47,7 @@ Benchmark’s new price target implies roughly 75% upside, with Hut 8 shares alr
 
 ---
 
-## 3. Kraken parent Payward partners with GTN to scale xStocks internationally, beyond US equities
+## 4. Kraken parent Payward partners with GTN to scale xStocks internationally, beyond US equities
 
 **Author:** Daniel Kuhn  
 **Published:** 7/22/2026, 5:31:33 PM  
@@ -47,7 +59,7 @@ xStocks is tokenizing equities from Hong Kong before expanding to the UK, Europe
 
 ---
 
-## 4. SEC reaches settlement with Coinbase over records requests from Gensler era
+## 5. SEC reaches settlement with Coinbase over records requests from Gensler era
 
 **Author:** Sarah Wynn  
 **Published:** 7/22/2026, 4:55:08 PM  
@@ -59,7 +71,7 @@ The SEC reached a settlement with Coinbase on Wednesday, ending a years-long leg
 
 ---
 
-## 5. Senate releases latest version of Clarity Act including software developer protections and ethics provision with ‘sunset’ date in 2029
+## 6. Senate releases latest version of Clarity Act including software developer protections and ethics provision with ‘sunset’ date in 2029
 
 **Author:** Sarah Wynn  
 **Published:** 7/22/2026, 4:46:22 PM  
@@ -71,7 +83,7 @@ After months of deliberations, Republicans released the latest text for broader 
 
 ---
 
-## 6. Crypto directly employs 34,000 in the US and contributes $55 billion to the economy: NCA report
+## 7. Crypto directly employs 34,000 in the US and contributes $55 billion to the economy: NCA report
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/22/2026, 4:00:00 PM  
@@ -83,7 +95,7 @@ Crypto directly employs 34,000 in the U.S. and contributes $55 billion to the ec
 
 ---
 
-## 7. Crypto ‘wrench attacks’ persist as total climbs to 52 and value targeted jumps more than tenfold, CertiK says
+## 8. Crypto ‘wrench attacks’ persist as total climbs to 52 and value targeted jumps more than tenfold, CertiK says
 
 **Author:** RT Watson  
 **Published:** 7/22/2026, 3:48:35 PM  
@@ -95,7 +107,7 @@ CertiK recommends limiting public information that connects a person’s identit
 
 ---
 
-## 8. ‘You will have a painful fall’: SEC’s Peirce warns crypto vault builders against twisting securities law
+## 9. ‘You will have a painful fall’: SEC’s Peirce warns crypto vault builders against twisting securities law
 
 **Author:** Daniel Kuhn  
 **Published:** 7/22/2026, 3:11:57 PM  
@@ -107,7 +119,7 @@ Hester Peirce, aka "Crypto Mom", issued a statement clarifying that onchain vaul
 
 ---
 
-## 9. Benchmark lowers Coinbase earnings estimates but says Clarity Act could eclipse weak second quarter
+## 10. Benchmark lowers Coinbase earnings estimates but says Clarity Act could eclipse weak second quarter
 
 **Author:** Kyle Baird  
 **Published:** 7/22/2026, 3:03:42 PM  
@@ -119,7 +131,7 @@ Coinbase trading activity stabilized in June after crypto spot volumes slumped t
 
 ---
 
-## 10. Polymarket ‘surprised’ France blocked site as information source, plans legal challenge
+## 11. Polymarket ‘surprised’ France blocked site as information source, plans legal challenge
 
 **Author:** RT Watson  
 **Published:** 7/22/2026, 2:59:00 PM  
@@ -131,7 +143,7 @@ Last week, the ANJ ordered French internet service providers to block access to 
 
 ---
 
-## 11. ‘Optimistic signals’ meet a $68,000 wall as bitcoin’s recovery faces its next test: analysts
+## 12. ‘Optimistic signals’ meet a $68,000 wall as bitcoin’s recovery faces its next test: analysts
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/22/2026, 2:55:18 PM  
@@ -143,7 +155,7 @@ Bitcoin holds above $65,800 as spot ETFs log a sixth day of inflows. Bitfinex an
 
 ---
 
-## 12. Tokenized equity perps drive RWA trading boom to $470 billion monthly volume
+## 13. Tokenized equity perps drive RWA trading boom to $470 billion monthly volume
 
 **Author:** Ivan Wu and Bryan Samsoedin  
 **Published:** 7/22/2026, 2:08:01 PM  
@@ -155,7 +167,7 @@ Within the broader RWA category, tokenized equities have been the more popular a
 
 ---
 
-## 13. Zilliqa halts native transactions over bug in its Ledger app dating to 2019
+## 14. Zilliqa halts native transactions over bug in its Ledger app dating to 2019
 
 **Author:** Brian Danga  
 **Published:** 7/22/2026, 12:39:11 PM  
@@ -167,7 +179,7 @@ Zilliqa halted native transactions after revealing a bug in its Ledger app datin
 
 ---
 
-## 14. BIS warns USD stablecoins can evade capital controls, challenging traditional market regulations
+## 15. BIS warns USD stablecoins can evade capital controls, challenging traditional market regulations
 
 **Author:** Timmy Shen  
 **Published:** 7/22/2026, 7:47:26 AM  
@@ -179,7 +191,7 @@ BIS says that FX restrictions and capital controls are less effective against st
 
 ---
 
-## 15. US seeks forfeiture of $25 million in crypto tied to global fraud investigations
+## 16. US seeks forfeiture of $25 million in crypto tied to global fraud investigations
 
 **Author:** Brian Danga  
 **Published:** 7/22/2026, 7:41:49 AM  
@@ -191,7 +203,7 @@ US prosecutors seek forfeiture of $25 million in crypto recovered from five inve
 
 ---
 
-## 16. HTX keeps rotating wallets to evade UK sanctions screening: TRM Labs
+## 17. HTX keeps rotating wallets to evade UK sanctions screening: TRM Labs
 
 **Author:** Timmy Shen  
 **Published:** 7/22/2026, 4:23:08 AM  
@@ -203,7 +215,7 @@ UK authorities sanctioned the crypto exchange in May for its alleged role in fac
 
 ---
 
-## 17. Pakistan launches crypto investigation unit to crack down on digital asset crimes: report
+## 18. Pakistan launches crypto investigation unit to crack down on digital asset crimes: report
 
 **Author:** Danny Park  
 **Published:** 7/22/2026, 2:46:51 AM  
