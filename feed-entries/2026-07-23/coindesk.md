@@ -2,16 +2,100 @@
 title: "CoinDesk - 2026-07-23"
 date: "2026-07-23"
 source: "CoinDesk"
-count: 14
+count: 21
 ---
 
 # CoinDesk - 2026-07-23
 
-14 items collected.
+21 items collected.
 
 ---
 
-## 1. The KIDS Act is way worse than digital carding — it is a mass surveillance system
+## 1. Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy
+
+**Author:** Krisztian Sandor  
+**Published:** 7/23/2026, 6:29:31 PM  
+**Categories:** Finance, Robinhood, Memecoin, News  
+
+The post, now deleted, touted a token called $VLAD and falsely claimed it would be listed on Robinhood.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/23/robinhood-ceo-vlad-tenev-s-x-account-hacked-to-promote-token-amid-memecoin-frenzy)
+
+---
+
+## 2. Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street lock them out
+
+**Author:** Krisztian Sandor  
+**Published:** 7/23/2026, 6:10:02 PM  
+**Categories:** Finance, Stablecoins, News  
+
+The former Signet developer aims to launch early next year a marketplace connecting stablecoin issuers with regional lenders to manage reserves.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/23/tassat-wants-to-help-smaller-banks-tap-the-trillion-dollar-stablecoin-boom-before-wall-street-lock-them-out)
+
+---
+
+## 3. Coinbase's corporate customers can now accept payments from AI agents
+
+**Author:** Ian Allison  
+**Published:** 7/23/2026, 4:54:12 PM  
+**Categories:** Finance, News  
+
+Rolling out this week, Coinbase Business users will be able to accept payments from AI agents, done via the x402 protocol, developed and incubated by the exchange.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/23/coinbase-closes-the-gaps-in-ai-agent-economy-for-businesses-users-and-developers)
+
+---
+
+## 4. The SEC settles with Coinbase over its missing Gary Gensler texts
+
+**Author:** Olivier Acuna  
+**Published:** 7/23/2026, 3:36:39 PM  
+**Categories:** Policy, Coinbase, SEC, Ethereum News, News  
+
+A new court status report reveals the agency will pay a flat fee to resolve a two-year fight over what former Chair Gary Gensler knew about Ethereum.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)
+
+---
+
+## 5. Crypto for Advisors: It’s time for tokenization to get to work
+
+**Author:** Jason Barraza,Joshua de Vos  
+**Published:** 7/23/2026, 2:53:34 PM  
+**Categories:** CoinDesk Indices, CoinDesk Indices, Financial Advisors, Crypto for Advisors, News  
+
+
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/07/23/crypto-for-advisors-it-s-time-for-tokenization-to-get-to-work)
+
+---
+
+## 6. Uniswap pushes deeper into tokenized assets with permissioned trading pools
+
+**Author:** Krisztian Sandor  
+**Published:** 7/23/2026, 2:00:00 PM  
+**Categories:** Finance, Tokenization, DeFi, News  
+
+The framework, developed with Superstate, Securitize and Dowgo, lets regulated funds and securities trade on Uniswap while enforcing compliance rules necessary for institutions.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools)
+
+---
+
+## 7. Goldman Sachs CEO backs Clarity Act despite banking industry's concerns over stablecoin rules
+
+**Author:** Helene Braun  
+**Published:** 7/23/2026, 1:53:19 PM  
+**Categories:** Policy, Clarity Act, News  
+
+The Goldman Sachs CEO said the crypto market structure bill would create a more stable regulatory framework, breaking with other major bank leaders who oppose key stablecoin provisions.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/23/goldman-sachs-ceo-backs-clarity-act-despite-banking-industry-s-concerns-over-stablecoin-rules)
+
+---
+
+## 8. The KIDS Act is way worse than digital carding — it is a mass surveillance system
 
 **Author:** India McKinney  
 **Published:** 7/23/2026, 1:00:00 PM  
@@ -23,7 +107,7 @@ The fact that lawmakers are even contemplating a bill that would create a survei
 
 ---
 
-## 2. BlackRock, Coinbase, Strategy in group pledging $15 million to prepare Bitcoin for quantum threats
+## 9. BlackRock, Coinbase, Strategy in a new group pledging $15 million to prepare Bitcoin for quantum threats
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/23/2026, 12:54:27 PM  
@@ -35,7 +119,7 @@ Members will direct funding independently, with the consortium taking no role in
 
 ---
 
-## 3. Abu Dhabi's Mubadala Capital joins tokenization push as Coinbase takes stake in onchain fund
+## 10. Abu Dhabi's Mubadala Capital joins tokenization push as Coinbase takes stake in onchain fund
 
 **Author:** Krisztian Sandor  
 **Published:** 7/23/2026, 12:00:00 PM  
@@ -47,7 +131,7 @@ The sovereign wealth-backed asset manager tapped KAIO to bring one of its privat
 
 ---
 
-## 4. Polymarket to challenge France’s nationwide website block
+## 11. Polymarket to challenge France’s nationwide website block
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/23/2026, 11:53:53 AM  
@@ -59,7 +143,7 @@ France’s regulator has said the platform still promoted illegal gambling and c
 
 ---
 
-## 5. Bulls face a test unlike anything in bitcoin's 17-year history
+## 12. Bulls face a test unlike anything in bitcoin's 17-year history
 
 **Author:** Omkar Godbole  
 **Published:** 7/23/2026, 11:13:39 AM  
@@ -71,7 +155,7 @@ Your day-ahead look for July 23, 2026
 
 ---
 
-## 6. Crypto catches its breath as bitcoin settles into a holding pattern amid July rally
+## 13. Crypto catches its breath as bitcoin settles into a holding pattern amid July rally
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 7/23/2026, 10:26:23 AM  
@@ -83,19 +167,19 @@ BTC is rangebound between $64,000 and $66,800 after a 13% recovery from July's l
 
 ---
 
-## 7. Live markets: Bitcoin slips back as Iran war expansion sends oil surging above $90 per barrel
+## 14. Live markets: Bitcoin slides as stocks slump on Iran war expansion, AI spending concern
 
 **Author:** Shaurya Malwa,Omkar Godbole,Stephen Alpher,Helene Braun  
 **Published:** 7/23/2026, 9:03:33 AM  
 **Categories:** Tech, Live News, live_news  
 
-In stock news, Alphabet beat on revenue but raised its AI spending forecast again, sending its stock lower after hours.
+Google parent Alphabet beat on revenue but raised its AI spending forecast again, sending its shares sharply lower.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/07/23/live-markets-bitcoin-trades-above-usd65-000-as-alphabet-s-bigger-ai-bill-props-up-the-chip-trade)
 
 ---
 
-## 8. BitMEX, the exchange that invented perps, is shutting down
+## 15. BitMEX, the exchange that invented perps, is shutting down
 
 **Author:** Olivier Acuna  
 **Published:** 7/23/2026, 8:42:26 AM  
@@ -107,7 +191,7 @@ BitMEX, co-founded by Arthur Hayes in 2014, redefined the global crypto market b
 
 ---
 
-## 9. 24/7 financial rails: How BNY plans to eliminate the weekend lag in U.S. Treasuries
+## 16. 24/7 financial rails: How BNY plans to eliminate the weekend lag in U.S. Treasuries
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/23/2026, 8:42:21 AM  
@@ -119,7 +203,7 @@ The bank will begin testing tokenized Treasuries on a private blockchain by year
 
 ---
 
-## 10. South Korea's oldest crypto exchange is now part of the $1 trillion Mirae Group family
+## 17. South Korea's oldest crypto exchange is now part of the $1 trillion Mirae Group family
 
 **Author:** Omkar Godbole  
 **Published:** 7/23/2026, 7:05:42 AM  
@@ -131,7 +215,7 @@ Korbit, South Korea's first cryptocurrency exchange, has joined the Mirae Asset 
 
 ---
 
-## 11. Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart
+## 18. Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart
 
 **Author:** Shaurya Malwa  
 **Published:** 7/23/2026, 6:38:18 AM  
@@ -143,7 +227,7 @@ The attacks hit Verus, B² Network and other cross-chain systems, showing how co
 
 ---
 
-## 12. Arbitrum-based AFX Trade drained of $24 million after bridge keys compromised
+## 19. Arbitrum-based AFX Trade drained of $24 million after bridge keys compromised
 
 **Author:** Shaurya Malwa  
 **Published:** 7/23/2026, 5:01:06 AM  
@@ -155,7 +239,7 @@ Security firms said the attacker used enough hot-validator signatures to approve
 
 ---
 
-## 13. XRP whales accumulate as small holders capitulate
+## 20. XRP whales accumulate as small holders capitulate
 
 **Author:** Omkar Godbole  
 **Published:** 7/23/2026, 4:11:13 AM  
@@ -167,7 +251,7 @@ XRP whales accumulate 2.8% more tokens over five weeks as small holders capitula
 
 ---
 
-## 14. Bitcoin wilts as oil and rates rise. Clarity Act odds tumble to 38%
+## 21. Bitcoin wilts as oil and rates rise. Clarity Act odds tumble to 38%
 
 **Author:** Omkar Godbole  
 **Published:** 7/23/2026, 3:50:20 AM  
