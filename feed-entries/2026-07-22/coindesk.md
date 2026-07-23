@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-07-22"
 date: "2026-07-22"
 source: "CoinDesk"
-count: 17
+count: 20
 ---
 
 # CoinDesk - 2026-07-22
 
-17 items collected.
+20 items collected.
 
 ---
 
-## 1. New draft of Clarity Act is out, and it would impose limits on Trump's crypto empire
+## 1. Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed
+
+**Author:** Nikhilesh De  
+**Published:** 7/22/2026, 11:19:41 PM  
+**Categories:** Policy, Clarity Act, Exclusive, News  
+
+Senator Cynthia Lummis, one of the lead negotiators on the bill, told CoinDesk she was "pleased" that the updated bill was ready for release.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed)
+
+---
+
+## 2. Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues
+
+**Author:** Nikhilesh De  
+**Published:** 7/22/2026, 10:22:25 PM  
+**Categories:** Policy, Clarity Act, News  
+
+Several of the Democrats most likely to vote for the crypto market structure bill said they had issues with the new draft published by Republicans earlier in the day.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues)
+
+---
+
+## 3. Tesla holds bitcoin treasury steady, reports $112M impairment loss
+
+**Author:** Helene Braun  
+**Published:** 7/22/2026, 8:40:24 PM  
+**Categories:** Markets, Elon Musk, News  
+
+The electric vehicle maker maintained its 11,509 BTC treasury through the second quarter as bitcoin declined 14%, alongside mixed earnings that beat revenue expectations but missed on profit.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss)
+
+---
+
+## 4. New draft of Clarity Act is out, and it would impose limits on Trump's crypto empire
 
 **Author:** Jesse Hamilton  
 **Published:** 7/22/2026, 4:15:55 PM  
@@ -23,7 +59,7 @@ Lawmakers have circulated text of the latest draft that will be pushed toward a 
 
 ---
 
-## 2. Revolut hits $115 billion valuation in employee share sale: WSJ
+## 5. Revolut hits $115 billion valuation in employee share sale: WSJ
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/22/2026, 3:53:54 PM  
@@ -35,7 +71,7 @@ The company reported strong 2025 performance, with a $2.3 billion pre-tax profit
 
 ---
 
-## 3. SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws
+## 6. SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws
 
 **Author:** Krisztian Sandor  
 **Published:** 7/22/2026, 3:37:36 PM  
@@ -47,7 +83,7 @@ The commissioner said onchain vaults and lending strategies could resemble inves
 
 ---
 
-## 4. UK digital bond plans hinge on one missing piece: onchain cash
+## 7. UK digital bond plans hinge on one missing piece: onchain cash
 
 **Author:** Olivier Acuna  
 **Published:** 7/22/2026, 3:36:49 PM  
@@ -59,7 +95,7 @@ Experts say Britain's digital gilt pilot can unlock trapped liquidity in financi
 
 ---
 
-## 5. Crypto Long & Short: The crypto question isn't what to own — it's what you can survive holding
+## 8. Crypto Long & Short: The crypto question isn't what to own — it's what you can survive holding
 
 **Author:** Gregory Mall  
 **Published:** 7/22/2026, 3:09:47 PM  
@@ -71,7 +107,7 @@ In this week's Crypto Long & Short, Lionsoul Global’s Gregory Mall writes that
 
 ---
 
-## 6. U.S. seeks forfeiture of $25 million in crypto tied to romance and investment scams
+## 9. U.S. seeks forfeiture of $25 million in crypto tied to romance and investment scams
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 7/22/2026, 1:45:58 PM  
@@ -83,7 +119,7 @@ The cases add to more than $800 million that authorities say a dedicated federal
 
 ---
 
-## 7. Forget Nvidia: The next big AI trade could be crypto and blockchain
+## 10. Forget Nvidia: The next big AI trade could be crypto and blockchain
 
 **Author:** Helene Braun  
 **Published:** 7/22/2026, 1:32:40 PM  
@@ -95,7 +131,7 @@ Franklin Templeton’s Sandy Kaul and Circle CEO Jeremy Allaire argue that as au
 
 ---
 
-## 8. Kalshi rolls out Midterm Hubs ahead of the November elections in the U.S.
+## 11. Kalshi rolls out Midterm Hubs ahead of the November elections in the U.S.
 
 **Author:** Olivier Acuna  
 **Published:** 7/22/2026, 12:12:10 PM  
@@ -107,7 +143,7 @@ The prediction markets platform seeks to position itself as the primary source f
 
 ---
 
-## 9. Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp
+## 12. Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp
 
 **Author:** Oliver Knight  
 **Published:** 7/22/2026, 11:45:42 AM  
@@ -119,7 +155,7 @@ Charles Hoskinson says the exploit, which briefly sent NIGHT to an all-time low,
 
 ---
 
-## 10. Here's why bitcoin bulls should take a closer look at interest rates
+## 13. Here's why bitcoin bulls should take a closer look at interest rates
 
 **Author:** Omkar Godbole  
 **Published:** 7/22/2026, 11:23:36 AM  
@@ -131,7 +167,7 @@ Your day-ahead look for July 22, 2026
 
 ---
 
-## 11. SecondFi to shut down after $2.4 million ADA wallet theft
+## 14. SecondFi to shut down after $2.4 million ADA wallet theft
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/22/2026, 11:10:27 AM  
@@ -143,7 +179,7 @@ The breach stemmed from a vulnerability in transaction signing software that ena
 
 ---
 
-## 12. Bitcoin retreats from one-month high as oil tops $85, inflation concerns resurface
+## 15. Bitcoin retreats from one-month high as oil tops $85, inflation concerns resurface
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 7/22/2026, 10:33:33 AM  
@@ -155,7 +191,7 @@ BTC retreated from a one-month high as WTI crude topped $85 for the first time s
 
 ---
 
-## 13. Kraken parent expands tokenized stocks to Hong Kong, UK and South Korea equities
+## 16. Kraken parent expands tokenized stocks to Hong Kong, UK and South Korea equities
 
 **Author:** Krisztian Sandor  
 **Published:** 7/22/2026, 10:30:00 AM  
@@ -167,7 +203,7 @@ Payward's xStocks pushes beyond U.S. equities as competition to bring global sto
 
 ---
 
-## 14. Balance stablecoin collapses 99% after $1 million exploit drains its bitcoin vaults
+## 17. Balance stablecoin collapses 99% after $1 million exploit drains its bitcoin vaults
 
 **Author:** Shaurya Malwa  
 **Published:** 7/22/2026, 9:01:54 AM  
@@ -179,9 +215,9 @@ An attacker fed the lending system a fake, abnormally low bitcoin price, liquida
 
 ---
 
-## 15. Live updates: Bitcoin holds near $66,000 as stocks claw back from big early decline
+## 18. Live updates: Bitcoin holds near $66,000 as stocks claw back from big early decline
 
-**Author:** Shaurya Malwa,Stephen Alpher  
+**Author:** Shaurya Malwa,Stephen Alpher,Helene Braun  
 **Published:** 7/22/2026, 8:13:28 AM  
 **Categories:** Tech, Live News, live_news  
 
@@ -191,7 +227,7 @@ Later on Wednesday, Alphabet's earnings should give a sign of whether the hundre
 
 ---
 
-## 16. AI models escaped OpenAI’s sandbox and hit Hugging Face. Crypto is where that gets dangerous
+## 19. AI models escaped OpenAI’s sandbox and hit Hugging Face. Crypto is where that gets dangerous
 
 **Author:** Shaurya Malwa  
 **Published:** 7/22/2026, 6:01:56 AM  
@@ -203,7 +239,7 @@ OpenAI said the systems had their cyber guardrails lowered for an internal bench
 
 ---
 
-## 17. Bitcoin holds near $66,300 as chips extend their rally and the yen hits a 40-year low
+## 20. Bitcoin holds near $66,300 as chips extend their rally and the yen hits a 40-year low
 
 **Author:** Shaurya Malwa  
 **Published:** 7/22/2026, 5:03:39 AM  
