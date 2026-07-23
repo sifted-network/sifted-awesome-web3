@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-22"
 date: "2026-07-22"
 source: "CoinDesk"
-count: 20
+count: 11
 ---
 
 # CoinDesk - 2026-07-22
 
-20 items collected.
+11 items collected.
 
 ---
 
@@ -140,113 +140,5 @@ Franklin Templeton’s Sandy Kaul and Circle CEO Jeremy Allaire argue that as au
 The prediction markets platform seeks to position itself as the primary source for election odds ahead of the midterm elections this year.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/22/kalshi-rolls-out-midterm-hubs-ahead-of-the-november-elections-in-the-u-s)
-
----
-
-## 12. Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp
-
-**Author:** Oliver Knight  
-**Published:** 7/22/2026, 11:45:42 AM  
-**Categories:** Finance, Cardano, News  
-
-Charles Hoskinson says the exploit, which briefly sent NIGHT to an all-time low, underscores why the industry needs to move beyond legacy bridge infrastructure.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/22/midnight-token-rebounds-after-wanchain-bridge-hack-hoskinson-calls-for-industry-overhaul)
-
----
-
-## 13. Here's why bitcoin bulls should take a closer look at interest rates
-
-**Author:** Omkar Godbole  
-**Published:** 7/22/2026, 11:23:36 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for July 22, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/22/here-s-why-bitcoin-bulls-should-take-a-closer-look-at-interest-rates)
-
----
-
-## 14. SecondFi to shut down after $2.4 million ADA wallet theft
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/22/2026, 11:10:27 AM  
-**Categories:** Web3, Cardano, Web3, News  
-
-The breach stemmed from a vulnerability in transaction signing software that enabled the derivation of private keys from blockchain transaction data.
-
-📖 [Read original article](https://www.coindesk.com/web3/2026/07/22/secondfi-to-shut-down-after-usd2-4-million-ada-wallet-theft)
-
----
-
-## 15. Bitcoin retreats from one-month high as oil tops $85, inflation concerns resurface
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 7/22/2026, 10:33:33 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-BTC retreated from a one-month high as WTI crude topped $85 for the first time since June, reigniting inflation concerns and pushing investors toward gold, silver and the safety of bitcoin over altcoins.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/22/bitcoin-retreats-from-one-month-high-as-oil-tops-usd85-inflation-concerns-resurface)
-
----
-
-## 16. Kraken parent expands tokenized stocks to Hong Kong, UK and South Korea equities
-
-**Author:** Krisztian Sandor  
-**Published:** 7/22/2026, 10:30:00 AM  
-**Categories:** Finance, Tokenization, Real World Assets, Payward, Kraken, Exclusive, News  
-
-Payward's xStocks pushes beyond U.S. equities as competition to bring global stock markets onchain accelerates.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/22/kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea-equities)
-
----
-
-## 17. Balance stablecoin collapses 99% after $1 million exploit drains its bitcoin vaults
-
-**Author:** Shaurya Malwa  
-**Published:** 7/22/2026, 9:01:54 AM  
-**Categories:** Tech, Stablecoins, Hack, News  
-
-An attacker fed the lending system a fake, abnormally low bitcoin price, liquidated vaults that should have been safe, and pocketed the difference in a single transaction.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/22/balance-stablecoin-collapses-99-after-usd1-million-exploit-drains-its-bitcoin-vaults)
-
----
-
-## 18. Live updates: Bitcoin holds near $66,000 as stocks claw back from big early decline
-
-**Author:** Shaurya Malwa,Stephen Alpher,Helene Braun  
-**Published:** 7/22/2026, 8:13:28 AM  
-**Categories:** Tech, Live News, live_news  
-
-Later on Wednesday, Alphabet's earnings should give a sign of whether the hundreds of billions going into AI is paying off.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/22/live-updates-bitcoin-under-usd66-000-as-traders-await-alphabet-earnings-to-gauge-ai-trade)
-
----
-
-## 19. AI models escaped OpenAI’s sandbox and hit Hugging Face. Crypto is where that gets dangerous
-
-**Author:** Shaurya Malwa  
-**Published:** 7/22/2026, 6:01:56 AM  
-**Categories:** Markets, Artificial Intelligence, News  
-
-OpenAI said the systems had their cyber guardrails lowered for an internal benchmark, but the incident shows how autonomous exploit chains could pose a deeper threat to smart contracts.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/22/ai-models-escaped-openai-s-sandbox-and-hit-hugging-face-crypto-is-where-that-gets-dangerous)
-
----
-
-## 20. Bitcoin holds near $66,300 as chips extend their rally and the yen hits a 40-year low
-
-**Author:** Shaurya Malwa  
-**Published:** 7/22/2026, 5:03:39 AM  
-**Categories:** Markets, News  
-
-Semiconductor stocks led a second day of gains on AI optimism, while the yen slid past 163 per dollar for the first time since 1986.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/22/bitcoin-holds-near-usd66-300-as-chips-extend-their-rally-and-the-yen-hits-a-40-year-low)
 
 ---
