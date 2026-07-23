@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-22"
 date: "2026-07-22"
 source: "The Block"
-count: 18
+count: 17
 ---
 
 # The Block - 2026-07-22
 
-18 items collected.
+17 items collected.
 
 ---
 
@@ -212,17 +212,5 @@ US prosecutors seek forfeiture of $25 million in crypto recovered from five inve
 UK authorities sanctioned the crypto exchange in May for its alleged role in facilitating Russian sanctions evasion.
 
 📖 [Read original article](https://www.theblock.co/post/409187/htx-rotates-wallets-uk-sanctions-screening?utm_source=rss&utm_medium=rss)
-
----
-
-## 18. Pakistan launches crypto investigation unit to crack down on digital asset crimes: report
-
-**Author:** Danny Park  
-**Published:** 7/22/2026, 2:46:51 AM  
-**Categories:** Policy, Regulation  
-
-FIA's Muhammad Athar Waheed suggested that other major agencies form dedicated teams to tackle digital asset crimes.
-
-📖 [Read original article](https://www.theblock.co/post/409180/pakistan-crypto-investigation-unit?utm_source=rss&utm_medium=rss)
 
 ---
