@@ -2,16 +2,64 @@
 title: "Decrypt - 2026-07-22"
 date: "2026-07-22"
 source: "Decrypt"
-count: 9
+count: 13
 ---
 
 # Decrypt - 2026-07-22
 
-9 items collected.
+13 items collected.
 
 ---
 
-## 1. Bitcoin Is Bouncing: Here’s the Bull and Bear Case for Its Next Move
+## 1. Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/22/2026, 9:13:04 PM  
+**Categories:** , Business  
+
+The company's "Everything Exchange" is heading north. No launch date set yet, but the Coinbase Canada CEO says phase two for the company is in motion.
+
+📖 [Read original article](https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets)
+
+---
+
+## 2. Kraken Parent Company Makes Moves to Offer xStocks From Global Markets
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/22/2026, 8:07:34 PM  
+**Categories:** Business  
+
+Payward and fintech GTN are teaming up to bring xStocks—blockchain-based copies of real company shares—to Hong Kong, the UK, Europe, and South Korea.
+
+📖 [Read original article](https://decrypt.co/374106/kraken-parent-xstocks-beyond-us-equities)
+
+---
+
+## 3. Alibaba's New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/22/2026, 7:46:59 PM  
+**Categories:** Artificial Intelligence  
+
+Qwen Image 3.0 generates dense newspapers and infographic grids in one shot and renders text down to 10 pixels. The catch: no benchmarks, no open weights.
+
+📖 [Read original article](https://decrypt.co/374084/alibaba-qwen-image-3-ai-useful-not-just-pretty)
+
+---
+
+## 4. Franklin Templeton Says Agentic AI Is Crypto's 'Killer Use Case'
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/22/2026, 7:04:05 PM  
+**Categories:** , , Artificial Intelligence  
+
+The asset manager argues that AI software capable of paying for things autonomously will need blockchain rails to work—and that most investors aren't positioned for it.
+
+📖 [Read original article](https://decrypt.co/374055/franklin-templeton-agentic-ai-crypto-killer-use-case)
+
+---
+
+## 5. Bitcoin Is Bouncing: Here’s the Bull and Bear Case for Its Next Move
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/22/2026, 6:48:45 PM  
@@ -23,7 +71,7 @@ The good news: Bitcoin is holding onto key support, and rising. The bad news: a 
 
 ---
 
-## 2. Clarity Act Latest Draft Bars Trump From Crypto Ventures—But Only Until 2029
+## 6. Clarity Act Latest Draft Bars Trump From Crypto Ventures—But Only Until 2029
 
 **Author:** Decrypt Staff  
 **Published:** 7/22/2026, 5:51:54 PM  
@@ -35,7 +83,7 @@ The long-awaited market-structure bill would block officials and their spouses f
 
 ---
 
-## 3. Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack
+## 7. Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/22/2026, 4:23:16 PM  
@@ -47,7 +95,7 @@ When American commercial AI refused to help investigate the breach, Hugging Face
 
 ---
 
-## 4. US Seizes More Than $25M in Crypto Tied to Investment and Romance Scams
+## 8. US Seizes More Than $25M in Crypto Tied to Investment and Romance Scams
 
 **Author:** Decrypt Agent  
 **Published:** 7/22/2026, 3:10:46 PM  
@@ -59,7 +107,7 @@ Prosecutors filed five forfeiture cases as Secret Service agents traced funds fr
 
 ---
 
-## 5. Centralized Elements 'Frequently Persist' in DeFi and Should Be Regulated: FATF
+## 9. Centralized Elements 'Frequently Persist' in DeFi and Should Be Regulated: FATF
 
 **Author:** Decrypt Agent  
 **Published:** 7/22/2026, 2:41:56 PM  
@@ -71,7 +119,7 @@ Nearly every country has yet to apply the rules, the watchdog said, warning of o
 
 ---
 
-## 6. Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs
+## 10. Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs
 
 **Author:** Decrypt Agent  
 **Published:** 7/22/2026, 12:44:48 PM  
@@ -83,7 +131,7 @@ TRM Labs says the UK-sanctioned exchange has rotated hot wallets across blockcha
 
 ---
 
-## 7. Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face
+## 11. Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face
 
 **Author:** Tyler Warner  
 **Published:** 7/22/2026, 11:50:29 AM  
@@ -95,7 +143,7 @@ Plus, the BTC ETFs stay green. The Clarity Act hits a wall over who enforces the
 
 ---
 
-## 8. Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents
+## 12. Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents
 
 **Author:** Decrypt Agent  
 **Published:** 7/22/2026, 11:03:43 AM  
@@ -107,7 +155,7 @@ The free, open source workspace runs on Nostr, gives AI agents their own cryptog
 
 ---
 
-## 9. DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC
+## 13. DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/22/2026, 12:32:58 AM  
