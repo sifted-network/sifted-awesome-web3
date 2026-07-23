@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-22"
 date: "2026-07-22"
 source: "Cointelegraph"
-count: 10
+count: 4
 ---
 
 # Cointelegraph - 2026-07-22
 
-10 items collected.
+4 items collected.
 
 ---
 
@@ -56,77 +56,5 @@ According to Senator Cynthia Lummis, one of the bill’s advocates, the ethics l
 Anthropic will provide Claude AI models to companies participating in the UK Financial Conduct Authority’s next Supercharged Sandbox cohort, as the regulator pushes to test AI applications in financial services.
 
 📖 [Read original article](https://cointelegraph.com/news/anthropic-joins-uk-fcas-ai-regulatory-sandbox-as-second-cohort-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. SEC’s Peirce says crypto vaults and onchain lending may fall under securities laws
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 7/22/2026, 5:39:57 PM  
-**Categories:** Latest News  
-
-The SEC commissioner said crypto vaults, onchain lending products and other asset management tools may trigger US securities laws, depending on how they are structured and operated.
-
-📖 [Read original article](https://cointelegraph.com/news/secs-hester-peirce-says-crypto-vaults-and-onchain-lending-may-fall-under-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Digital Chamber sues Illinois officials over new state 0.2% crypto tax
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 7/22/2026, 4:28:10 PM  
-**Categories:** Latest News  
-
-The group alleged that the tax signed into law in June “discriminates against people who transact in digital assets“ and should be blocked from implementation and enforcement.
-
-📖 [Read original article](https://cointelegraph.com/news/digital-chamber-lawsuit-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. BitGo, OTC Markets plan tokenized securities access for broker-dealers
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 7/22/2026, 4:10:22 PM  
-**Categories:** Latest News  
-
-The proposed alliance would enable more than 150 broker-dealers to trade and settle digital asset securities through OTC Link ATS using BitGo’s custody infrastructure.
-
-📖 [Read original article](https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Bitcoin price avoids major Iran jitters as S&P 500 ‘short squeeze’ on horizon
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/22/2026, 3:55:20 PM  
-**Categories:** Markets  
-
-Bitcoin and US stocks stayed strong in the face of US-Iran escalation as analysis predicted BTC price action outperforming equities later.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-avoids-major-iran-jitters-as-sp-500-short-squeeze-on-horizon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. The digital euro: Surveillance money, or a better alternative to cash?
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 7/22/2026, 1:31:00 PM  
-**Categories:** Magazine  
-
-Proponents of the digital euro say its a better alternative to cash that’s fully backed by the ECB. But critics argue it could provide the EU with too much power over its citizens.
-
-📖 [Read original article](https://cointelegraph.com/magazine/what-is-the-digital-euro-all-you-need-to-know-about-europes-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Franklin Templeton calls agentic AI next ‘killer’ use case for blockchain
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/22/2026, 1:18:50 PM  
-**Categories:** Latest News  
-
-Franklin Templeton’s digital assets lead said that the autonomous AI agent economy will increase demand for blockchain protocols hosting machine-to-machine micropayments.
-
-📖 [Read original article](https://cointelegraph.com/news/agentic-ai-killer-use-case-blockchain-franklin-templeton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
