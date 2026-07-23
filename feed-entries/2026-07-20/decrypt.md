@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-20"
 date: "2026-07-20"
 source: "Decrypt"
-count: 9
+count: 8
 ---
 
 # Decrypt - 2026-07-20
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ An attacker used a flash loan to distort the bridge's Solana stablecoin pools be
 Plus, a selloff in Oil has markets looking green into the Monday open. And PUMP is leading all alt movers on the week at a surprising time.
 
 📖 [Read original article](https://decrypt.co/373828/morning-minute-hyperliquid-opens-prediction-markets-to-anyone-in-hip-4-upgrade)
-
----
-
-## 9. Strategy's Michael Saylor Makes 110-Point Case Against Bitcoin's BIP-110
-
-**Author:** Decrypt Agent  
-**Published:** 7/20/2026, 11:12:57 AM  
-**Categories:** , Coins  
-
-The Strategy chairman argued that the soft fork is a 'bad idea,' warning that it would cause more harm than the problem it aims to solve.
-
-📖 [Read original article](https://decrypt.co/373819/strategys-michael-saylor-makes-110-point-case-against-bitcoins-bip-110)
 
 ---
