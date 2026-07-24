@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-21"
 date: "2026-07-21"
 source: "Decrypt"
-count: 9
+count: 7
 ---
 
 # Decrypt - 2026-07-21
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ The Ripple-linked token just had its best day in weeks, as Washington may finall
 XXI stock dropped nearly 18% after the company's co-founder stepped down and Tether's plan to combine three Bitcoin firms officially fell apart.
 
 📖 [Read original article](https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses)
-
----
-
-## 8. Galaxy Commits Up to $5 Million to Prepare Bitcoin for Quantum Threat
-
-**Author:** Decrypt Agent  
-**Published:** 7/21/2026, 12:01:03 PM  
-**Categories:** Business  
-
-The crypto firm's initiative arrives as researchers, exchanges, and the U.S. government warn that "Q-Day" may land as soon as 2030.
-
-📖 [Read original article](https://decrypt.co/373908/galaxy-commits-5-million-prepare-bitcoin-quantum-threat)
-
----
-
-## 9. Morning Minute: The Clarity Act Has New Life
-
-**Author:** Tyler Warner  
-**Published:** 7/21/2026, 11:57:23 AM  
-**Categories:** , , Opinion  
-
-Odds of the Clarity Act passing in 2026 jumped to 42% after a surprising new development from the White House.
-
-📖 [Read original article](https://decrypt.co/373924/morning-minute-the-clarity-act-has-new-life)
 
 ---
