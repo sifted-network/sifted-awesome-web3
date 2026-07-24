@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-07-24"
 date: "2026-07-24"
 source: "CoinDesk"
-count: 15
+count: 18
 ---
 
 # CoinDesk - 2026-07-24
 
-15 items collected.
+18 items collected.
 
 ---
 
-## 1. Saylor and team overhaul Strategy's bitcoin metrics as bear market persists
+## 1. Senate Dems should accept the victory they won on Trump's crypto limits: White House
+
+**Author:** Jesse Hamilton  
+**Published:** 7/24/2026, 3:01:46 PM  
+**Categories:** Policy, White House, Clarity Act, Exclusive, News  
+
+U.S. Senate Democrats got President Donald Trump to accept potential limits on his lucrative crypto dealings, but they say the Clarity Act's restrictions aren't enough.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house)
+
+---
+
+## 2. Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes
+
+**Author:** Olivier Acuna  
+**Published:** 7/24/2026, 3:00:00 PM  
+**Categories:** Finance, Artificial Intelligence, News  
+
+The project is moving away from basic network expansion to focus entirely on integrating its biometric screening devices across enterprise software suites.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes)
+
+---
+
+## 3. Institutional crypto trading platform LMAX is exploring sale, IPO
+
+**Author:** Will Canny  
+**Published:** 7/24/2026, 2:36:16 PM  
+**Categories:** Finance, mergers and acquisitions, LMAX, Morgan Stanley, Exclusive, News  
+
+LMAX is working with Morgan Stanley and investment bank KBW to assess its options, which could lead to a sale or a public offering.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo)
+
+---
+
+## 4. Saylor and team overhaul Strategy's bitcoin metrics as bear market persists
 
 **Author:** James Van Straten  
 **Published:** 7/24/2026, 1:15:15 PM  
@@ -23,7 +59,7 @@ New framework gives common shareholders a clearer view of net bitcoin exposure a
 
 ---
 
-## 2. Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits
+## 5. Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits
 
 **Author:** Olivier Acuna  
 **Published:** 7/24/2026, 1:03:03 PM  
@@ -35,7 +71,7 @@ Smart collars monitor herd health in real time to prevent fraud, allowing local 
 
 ---
 
-## 3. EU hits Russia with massive 21st sanctions package targeting $120B crypto network
+## 6. EU hits Russia with massive 21st sanctions package targeting $120B crypto network
 
 **Author:** Olivier Acuna  
 **Published:** 7/24/2026, 11:58:06 AM  
@@ -47,7 +83,7 @@ The EU is considering a ban on third-country crypto services providers for the f
 
 ---
 
-## 4. Crypto market maker B2C2 held sale talks with multiple potential buyers
+## 7. Crypto market maker B2C2 held sale talks with multiple potential buyers
 
 **Author:** Will Canny  
 **Published:** 7/24/2026, 11:49:06 AM  
@@ -59,7 +95,7 @@ The SBI-owned crypto trading firm is said to have attracted takeover interest fr
 
 ---
 
-## 5. Crypto's institutional influx has killed the memecoin craze
+## 8. Crypto's institutional influx has killed the memecoin craze
 
 **Author:** Omkar Godbole  
 **Published:** 7/24/2026, 11:35:48 AM  
@@ -71,7 +107,7 @@ Your day-ahead look for July 24, 2026
 
 ---
 
-## 6. A $5 billion cluster has formed in bitcoin options. It tells a bullish story
+## 9. A $5 billion cluster has formed in bitcoin options. It tells a bullish story
 
 **Author:** Omkar Godbole  
 **Published:** 7/24/2026, 11:34:53 AM  
@@ -83,7 +119,7 @@ Bitcoin's $70,000 and $72,000 call strikes on Deribit have accumulated nearly $5
 
 ---
 
-## 7. Bitcoin settles near $65,000 as oil's march toward $100 fails to spook the market
+## 10. Bitcoin settles near $65,000 as oil's march toward $100 fails to spook the market
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 7/24/2026, 11:19:38 AM  
@@ -95,7 +131,7 @@ BTC held just under $65,000 and crypto broadly rose on Friday even as Brent crud
 
 ---
 
-## 8. Poolin was bitcoin's biggest mining pool and now it's filing for bankruptcy
+## 11. Poolin was bitcoin's biggest mining pool and now it's filing for bankruptcy
 
 **Author:** James Van Straten  
 **Published:** 7/24/2026, 11:09:40 AM  
@@ -107,7 +143,7 @@ The Singapore-based company once controlled nearly a fifth of Bitcoin's global h
 
 ---
 
-## 9. Bitcoin treasury companies sell up, repay debt, pivot to AI as share prices collapse
+## 12. Bitcoin treasury companies sell up, repay debt, pivot to AI as share prices collapse
 
 **Author:** James Van Straten  
 **Published:** 7/24/2026, 10:53:52 AM  
@@ -119,7 +155,7 @@ Falling share prices, debt obligations and difficult market conditions are forci
 
 ---
 
-## 10. India orders takedown of Jack Dorsey’s bitcoin-linked messaging app Bitchat
+## 13. India orders takedown of Jack Dorsey’s bitcoin-linked messaging app Bitchat
 
 **Author:** Shaurya Malwa  
 **Published:** 7/24/2026, 10:10:42 AM  
@@ -131,7 +167,7 @@ The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypte
 
 ---
 
-## 11. BitMEX faces proposed class-action suit for theft, insider trading as crypto exchange shuts down
+## 14. BitMEX faces proposed class-action suit for theft, insider trading as crypto exchange shuts down
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/24/2026, 9:54:00 AM  
@@ -143,19 +179,19 @@ The complaint claims BitMEX designed a system to retain customer collateral and 
 
 ---
 
-## 12. Live updates: Dogecoin and ether lead pullback as investors digest tech earnings
+## 15. Live updates: Bitcoin gives up gains, falls below $64,000 as stocks retreat
 
-**Author:** Shaurya Malwa,Omkar Godbole  
+**Author:** Shaurya Malwa,Omkar Godbole,Stephen Alpher  
 **Published:** 7/24/2026, 7:22:26 AM  
 **Categories:** Tech, Ethereum News, Solana News, Live News, Bitcoin News, live_news  
 
-Dogecoin dropped 4.5% and ether 2.5%, leading a broad but shallow retreat across the majors, though most remain higher on the week ahead of next week's Fed meeting.
+Michael Saylor's Strategy — under continued pressure in this crypto bear market — released a new set of metrics to judge company performance.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings)
 
 ---
 
-## 13. Ripple’s RLUSD gets two boosts as transfer volume drops 25%
+## 16. Ripple’s RLUSD gets two boosts as transfer volume drops 25%
 
 **Author:** Shaurya Malwa  
 **Published:** 7/24/2026, 6:33:37 AM  
@@ -167,7 +203,7 @@ Ripple launched an institutional minting platform and added RLUSD to Notabene’
 
 ---
 
-## 14. Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before
+## 17. Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before
 
 **Author:** Omkar Godbole  
 **Published:** 7/24/2026, 6:10:49 AM  
@@ -179,7 +215,7 @@ The South Korean financial giant says its Korbit – soon to be rebranded as Dig
 
 ---
 
-## 15. Bitcoin holds near $65,000 as $800 billion AI selloff leaves crypto largely untouched
+## 18. Bitcoin holds near $65,000 as $800 billion AI selloff leaves crypto largely untouched
 
 **Author:** Shaurya Malwa  
 **Published:** 7/24/2026, 4:43:19 AM  
