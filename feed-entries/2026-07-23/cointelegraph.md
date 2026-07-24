@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-23"
 date: "2026-07-23"
 source: "Cointelegraph"
-count: 29
+count: 23
 ---
 
 # Cointelegraph - 2026-07-23
 
-29 items collected.
+23 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ Bitcoin price forecasts diverge as US-Iran war tensions fueled an ongoing oil an
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 7/23/2026, 7:45:15 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Crypto industry to contribute $55B to US economy in 2026: NCA study
+## 4. Crypto industry to contribute $55B to US economy in 2026: NCA study
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/23/2026, 7:41:10 PM  
@@ -71,7 +59,7 @@ The research released by the organization said that crypto companies will direct
 
 ---
 
-## 6. As BitMEX exits, analysts warn crypto consolidation is accelerating
+## 5. As BitMEX exits, analysts warn crypto consolidation is accelerating
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/23/2026, 7:30:17 PM  
@@ -83,7 +71,7 @@ BitMEX’s shutdown marks the end of one of crypto’s earliest derivatives exch
 
 ---
 
-## 7. Robinhood CEO’s X account hacked in apparent memecoin scam
+## 6. Robinhood CEO’s X account hacked in apparent memecoin scam
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/23/2026, 6:09:26 PM  
@@ -95,7 +83,7 @@ A hacker reportedly took over Robinhood CEO Vlad Tenev’s X account to promote 
 
 ---
 
-## 8. Goldman Sachs CEO backs ‘not perfect’ CLARITY Act as vote expected soon
+## 7. Goldman Sachs CEO backs ‘not perfect’ CLARITY Act as vote expected soon
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/23/2026, 4:57:11 PM  
@@ -107,7 +95,7 @@ Goldman chief David Solomon will support the crypto market structure bill now in
 
 ---
 
-## 9. Here’s why the CLARITY Act’s ethics deal may be so hard to reach
+## 8. Here’s why the CLARITY Act’s ethics deal may be so hard to reach
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 7/23/2026, 4:44:42 PM  
@@ -119,7 +107,7 @@ Both parties say they want US crypto market structure legislation, but a dispute
 
 ---
 
-## 10. BTC treasury firm Empery Digital invests $20M in AI data center developer Cardinal Data Power
+## 9. BTC treasury firm Empery Digital invests $20M in AI data center developer Cardinal Data Power
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/23/2026, 4:42:52 PM  
@@ -131,7 +119,7 @@ The investment marks Empery’s latest push into AI infrastructure as the compan
 
 ---
 
-## 11. Ethereum nears market bottom against Bitcoin, though key signals remain unconfirmed: CryptoQuant
+## 10. Ethereum nears market bottom against Bitcoin, though key signals remain unconfirmed: CryptoQuant
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/23/2026, 4:26:43 PM  
@@ -143,7 +131,7 @@ Ether trades below its realized price while onchain indicators point to easing s
 
 ---
 
-## 12. Fears of AI-driven DeFi hack epidemic overstated for now — but not for long
+## 11. Fears of AI-driven DeFi hack epidemic overstated for now — but not for long
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 7/23/2026, 1:30:00 PM  
@@ -155,7 +143,7 @@ Are the fears of an AI driven hacking epidemic totally overblown, or is this jus
 
 ---
 
-## 13. Binance joins STOP THE TRAFFIK in anti-human trafficking effort
+## 12. Binance joins STOP THE TRAFFIK in anti-human trafficking effort
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/23/2026, 1:22:00 PM  
@@ -167,7 +155,7 @@ The partnership expands Binance’s compliance efforts by providing intelligence
 
 ---
 
-## 14. Strategy-led group pledges $15M to quantum-proof Bitcoin network
+## 13. Strategy-led group pledges $15M to quantum-proof Bitcoin network
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/23/2026, 1:03:18 PM  
@@ -179,7 +167,7 @@ A consortium led by Strategy and BlackRock has pledged $15 million to secure the
 
 ---
 
-## 15. Bitget secures license for New Zealand expansion
+## 14. Bitget secures license for New Zealand expansion
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/23/2026, 12:33:07 PM  
@@ -191,7 +179,7 @@ Crypto exchange Bitget said it was registered as a financial service provider wi
 
 ---
 
-## 16. BitMEX token crashes 90% as exchange announces shutdown
+## 15. BitMEX token crashes 90% as exchange announces shutdown
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/23/2026, 12:02:00 PM  
@@ -203,7 +191,7 @@ BitMEX’s BMEX token plunged about 90% after the exchange announced plans to sh
 
 ---
 
-## 17. Bernstein says Bitcoin mining deals necessary for AI power crunch
+## 16. Bernstein says Bitcoin mining deals necessary for AI power crunch
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/23/2026, 11:49:00 AM  
@@ -215,7 +203,7 @@ Bernstein analysts remain bullish on the Bitcoin mining sector, as deals with th
 
 ---
 
-## 18. HYPE falls as crypto funds queue nearly $150M in locked tokens for withdrawal
+## 17. HYPE falls as crypto funds queue nearly $150M in locked tokens for withdrawal
 
 **Author:** Cointelegraph by Charles Bennett  
 **Published:** 7/23/2026, 11:24:09 AM  
@@ -227,7 +215,7 @@ HYPE briefly fell 8% from its local highs as Multicoin Capital, Selini Capital a
 
 ---
 
-## 19. Kazakhstan approves strategic crypto mining rules tied to national reserve
+## 18. Kazakhstan approves strategic crypto mining rules tied to national reserve
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/23/2026, 11:04:42 AM  
@@ -239,7 +227,7 @@ Kazakhstan plans to require miners to meet strict infrastructure standards and t
 
 ---
 
-## 20. Bitcoin will get ‘lift’ from Hyperliquid, Robinhood in next crypto bull market: Bitwise exec
+## 19. Bitcoin will get ‘lift’ from Hyperliquid, Robinhood in next crypto bull market: Bitwise exec
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/23/2026, 10:49:00 AM  
@@ -251,7 +239,7 @@ Bitwise predicted that Hyperliquid and Robinhood TradFi ventures should form the
 
 ---
 
-## 21. Coinbase to expand Singapore office headcount by 25%: Report
+## 20. Coinbase to expand Singapore office headcount by 25%: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/23/2026, 9:42:53 AM  
@@ -263,7 +251,7 @@ Coinbase plans to expand its Singapore office from 150 to about 200 employees by
 
 ---
 
-## 22. Bitcoin may have bottomed before its traditional cycle low: Grayscale’s Pandl
+## 21. Bitcoin may have bottomed before its traditional cycle low: Grayscale’s Pandl
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/23/2026, 9:03:20 AM  
@@ -275,7 +263,7 @@ Grayscale’s head of research said that Bitcoin may have bottomed, arguing that
 
 ---
 
-## 23. Home invasions became most common crypto wrench attack in H1 2026: CertiK
+## 22. Home invasions became most common crypto wrench attack in H1 2026: CertiK
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/23/2026, 8:29:24 AM  
@@ -287,7 +275,7 @@ Crypto home invasions rose to 20 in H1 2026 from one a year earlier, while Franc
 
 ---
 
-## 24. BitMEX to shut down after 11 years in crypto derivatives
+## 23. BitMEX to shut down after 11 years in crypto derivatives
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/23/2026, 8:14:32 AM  
@@ -296,65 +284,5 @@ Crypto home invasions rose to 20 in H1 2026 from one a year earlier, while Franc
 BitMEX announced it will shut down operations on Sept. 23, 2026, after owner HDR Global Trading Limited decided to close the crypto exchange.
 
 📖 [Read original article](https://cointelegraph.com/news/bitmex-crypto-derivatives-exchange-shut-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. Mirae Asset completes Korbit acquisition, becomes largest shareholder
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/23/2026, 7:53:05 AM  
-**Categories:** Latest News  
-
-Mirae Asset Consulting has become Korbit’s largest shareholder after completing its acquisition, with the exchange saying trading and customer asset protections are unchanged.
-
-📖 [Read original article](https://cointelegraph.com/news/mirae-asset-korbit-acquisition-largest-shareholder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 26. Bitcoin ETFs approach $1B in 7-session inflow run
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/23/2026, 7:08:25 AM  
-**Categories:** Markets  
-
-US spot Bitcoin ETFs recorded $69 million in inflows on Wednesday, extending their inflow streak to seven sessions and bringing total inflows during the period to nearly $1 billion
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etfs-1-billion-7-session-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 27. Kakao taps Circle to explore won stablecoin payment infrastructure
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/23/2026, 6:46:58 AM  
-**Categories:** Latest News  
-
-Kakao Group and Circle signed an MOU to explore won stablecoin payments, remittances, merchant settlement and tokenized financial services.
-
-📖 [Read original article](https://cointelegraph.com/news/kakao-circle-won-stablecoin-payment-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 28. Swiss bank BancaStato launches regulated crypto trading with Sygnum
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/23/2026, 6:00:00 AM  
-**Categories:** Latest News  
-
-Swiss cantonal bank BancaStato integrated Sygnum’s crypto trading and custody services into its Avaloq-powered digital banking apps for Bitcoin and other assets.
-
-📖 [Read original article](https://cointelegraph.com/news/bancastato-regulated-crypto-trading-sygnum-avaloq?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 29. White House accuses Moonshot AI of distilling Anthropic tech for K3
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/23/2026, 4:15:30 AM  
-**Categories:** Latest News  
-
-US officials warn that Chinese firms conducting covert, industrial-scale AI distillation could face sanctions and export restrictions.
-
-📖 [Read original article](https://cointelegraph.com/news/chinas-moonshot-ai-distilled-anthropics-fable-to-develop-k3-white-house-official?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
