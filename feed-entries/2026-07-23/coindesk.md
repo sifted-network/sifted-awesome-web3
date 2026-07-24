@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-23"
 date: "2026-07-23"
 source: "CoinDesk"
-count: 10
+count: 7
 ---
 
 # CoinDesk - 2026-07-23
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ A new court status report reveals the agency will pay a flat fee to resolve a tw
 The framework, developed with Superstate, Securitize and Dowgo, lets regulated funds and securities trade on Uniswap while enforcing compliance rules necessary for institutions.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools)
-
----
-
-## 8. Goldman Sachs CEO backs Clarity Act despite banking industry's concerns over stablecoin rules
-
-**Author:** Helene Braun  
-**Published:** 7/23/2026, 1:53:19 PM  
-**Categories:** Policy, Clarity Act, News  
-
-The Goldman Sachs CEO said the crypto market structure bill would create a more stable regulatory framework, breaking with other major bank leaders who oppose key stablecoin provisions.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/23/goldman-sachs-ceo-backs-clarity-act-despite-banking-industry-s-concerns-over-stablecoin-rules)
-
----
-
-## 9. The KIDS Act is way worse than digital carding — it is a mass surveillance system
-
-**Author:** India McKinney  
-**Published:** 7/23/2026, 1:00:00 PM  
-**Categories:** Opinion, Opinion  
-
-The fact that lawmakers are even contemplating a bill that would create a surveillance and censorship regime should be a wake-up call for everyone who values privacy and free expression, argues Electronic Frontier Foundation's India McKinney.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system)
-
----
-
-## 10. BlackRock, Coinbase, Strategy in a new group pledging $15 million to prepare Bitcoin for quantum threats
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/23/2026, 12:54:27 PM  
-**Categories:** Finance, BlackRock, Coinbase, Bitcoin News, News  
-
-Members will direct funding independently, with the consortium taking no role in Bitcoin governance or protocol decisions.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/23/blackrock-coinbase-strategy-in-group-pledging-usd15-million-to-prepare-bitcoin-for-quantum-threats)
 
 ---
