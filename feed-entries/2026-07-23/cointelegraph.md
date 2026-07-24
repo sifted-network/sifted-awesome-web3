@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-23"
 date: "2026-07-23"
 source: "Cointelegraph"
-count: 23
+count: 13
 ---
 
 # Cointelegraph - 2026-07-23
 
-23 items collected.
+13 items collected.
 
 ---
 
@@ -164,125 +164,5 @@ The partnership expands Binance’s compliance efforts by providing intelligence
 A consortium led by Strategy and BlackRock has pledged $15 million to secure the Bitcoin network from the threat of a quantum computing breakthrough.
 
 📖 [Read original article](https://cointelegraph.com/news/strategy-consortium-15m-quantum-proof-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Bitget secures license for New Zealand expansion
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/23/2026, 12:33:07 PM  
-**Categories:** Latest News  
-
-Crypto exchange Bitget said it was registered as a financial service provider with New Zealand’s financial regulator, enabling it to expand its services in the country.
-
-📖 [Read original article](https://cointelegraph.com/news/bitget-secures-license-new-zealand-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. BitMEX token crashes 90% as exchange announces shutdown
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/23/2026, 12:02:00 PM  
-**Categories:** Markets  
-
-BitMEX’s BMEX token plunged about 90% after the exchange announced plans to shut down, ending nearly 12 years in business as its Bitcoin futures market share shrank.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitmex-token-crashes-90-as-exchange-announces-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Bernstein says Bitcoin mining deals necessary for AI power crunch
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/23/2026, 11:49:00 AM  
-**Categories:** Latest News  
-
-Bernstein analysts remain bullish on the Bitcoin mining sector, as deals with third-party providers will be necessary to address the computing power limits of AI data centers.
-
-📖 [Read original article](https://cointelegraph.com/news/bernstein-bitcoin-mining-deals-necessary-ai-power-crunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. HYPE falls as crypto funds queue nearly $150M in locked tokens for withdrawal
-
-**Author:** Cointelegraph by Charles Bennett  
-**Published:** 7/23/2026, 11:24:09 AM  
-**Categories:** Markets  
-
-HYPE briefly fell 8% from its local highs as Multicoin Capital, Selini Capital and Galaxy Digital queued nearly $150 million of the token for withdrawals.
-
-📖 [Read original article](https://cointelegraph.com/markets/hype-falls-as-crypto-funds-queue-nearly-150m-in-locked-tokens-for-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Kazakhstan approves strategic crypto mining rules tied to national reserve
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/23/2026, 11:04:42 AM  
-**Categories:** Latest News  
-
-Kazakhstan plans to require miners to meet strict infrastructure standards and transfer part of their mined crypto assets to a state-backed reserve under new rules.
-
-📖 [Read original article](https://cointelegraph.com/news/kazakhstan-strategic-crypto-mining-national-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Bitcoin will get ‘lift’ from Hyperliquid, Robinhood in next crypto bull market: Bitwise exec
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/23/2026, 10:49:00 AM  
-**Categories:** Markets  
-
-Bitwise predicted that Hyperliquid and Robinhood TradFi ventures should form the basis for a crypto bull-market comeback that would lift Bitcoin and Ether.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-will-get-lift-from-hyperliquid-robinhood-in-next-crypto-bull-market-bitwise-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Coinbase to expand Singapore office headcount by 25%: Report
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/23/2026, 9:42:53 AM  
-**Categories:** Latest News  
-
-Coinbase plans to expand its Singapore office from 150 to about 200 employees by the end of 2026 as it expands its presence in the Lion City.
-
-📖 [Read original article](https://cointelegraph.com/news/coinbase-expand-singapore-headcount-25?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Bitcoin may have bottomed before its traditional cycle low: Grayscale’s Pandl
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/23/2026, 9:03:20 AM  
-**Categories:** Markets  
-
-Grayscale’s head of research said that Bitcoin may have bottomed, arguing that macro factors, such as interest rate decisions as increasingly driving the price action of this maturing asset class.
-
-📖 [Read original article](https://cointelegraph.com/markets/grayscale-bitcoins-price-bottomed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Home invasions became most common crypto wrench attack in H1 2026: CertiK
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/23/2026, 8:29:24 AM  
-**Categories:** Latest News  
-
-Crypto home invasions rose to 20 in H1 2026 from one a year earlier, while France accounted for 33 of 52 verified wrench attacks, according to CertiK.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-home-invasions-wrench-attacks-certik-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. BitMEX to shut down after 11 years in crypto derivatives
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/23/2026, 8:14:32 AM  
-**Categories:** Latest News  
-
-BitMEX announced it will shut down operations on Sept. 23, 2026, after owner HDR Global Trading Limited decided to close the crypto exchange.
-
-📖 [Read original article](https://cointelegraph.com/news/bitmex-crypto-derivatives-exchange-shut-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
