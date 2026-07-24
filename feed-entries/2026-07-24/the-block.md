@@ -2,16 +2,40 @@
 title: "The Block - 2026-07-24"
 date: "2026-07-24"
 source: "The Block"
-count: 2
+count: 4
 ---
 
 # The Block - 2026-07-24
 
-2 items collected.
+4 items collected.
 
 ---
 
-## 1. The Largest Stablecoins Ranked
+## 1. Arthur Hayes, BitMEX co-founders face fraud claims over alleged ‘Insider Trading Desk’ as exchange winds down
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 7/24/2026, 12:38:21 PM  
+**Categories:** Companies, Exchanges, Legal, Policy, Regulation, Bitmex, Lawsuits  
+
+BitMEX, Arthur Hayes, Samuel Reed and Benjamin Delo face a proposed class action alleging insider trading and deliberate server freezes.
+
+📖 [Read original article](https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Former bitcoin miner Poolin files Chapter 11, sets $52 million floor bid for Texas operations
+
+**Author:** Brian Danga  
+**Published:** 7/24/2026, 9:52:26 AM  
+**Categories:** Bankruptcy, Companies, Crypto Infrastructure, Bankruptcy Filings, Mining Companies  
+
+Poolin Technology filed for Chapter 11 with $173 million in claims, lining up a $52 million stalking-horse bid for its Texas mining assets.
+
+📖 [Read original article](https://www.theblock.co/post/409587/former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. The Largest Stablecoins Ranked
 
 **Author:** The Block Research  
 **Published:** 7/24/2026, 6:18:31 AM  
@@ -23,7 +47,7 @@ In recent years, stablecoins have emerged as crypto’s breakout use case. Asset
 
 ---
 
-## 2. How Do Stablecoins Maintain Their Peg?
+## 4. How Do Stablecoins Maintain Their Peg?
 
 **Author:** The Block Research  
 **Published:** 7/24/2026, 6:01:11 AM  
