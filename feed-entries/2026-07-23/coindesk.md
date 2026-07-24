@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-23"
 date: "2026-07-23"
 source: "CoinDesk"
-count: 22
+count: 21
 ---
 
 # CoinDesk - 2026-07-23
 
-22 items collected.
+21 items collected.
 
 ---
 
@@ -35,7 +35,7 @@ The post, now deleted, touted a token called $VLAD and falsely claimed it would 
 
 ---
 
-## 3. Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street lock them out
+## 3. Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street locks them out
 
 **Author:** Krisztian Sandor  
 **Published:** 7/23/2026, 6:10:02 PM  
@@ -260,17 +260,5 @@ Security firms said the attacker used enough hot-validator signatures to approve
 XRP whales accumulate 2.8% more tokens over five weeks as small holders capitulate, sending the price back above $1.16.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/23/xrp-whales-accumulate-as-small-holders-capitulate)
-
----
-
-## 22. Bitcoin wilts as oil and rates rise. Clarity Act odds tumble to 38%
-
-**Author:** Omkar Godbole  
-**Published:** 7/23/2026, 3:50:20 AM  
-**Categories:** Markets, Bitcoin News, XRP News, News  
-
-Geopolitical risks, rising rates, and fresh regulatory setbacks send crypto lower as key Democrats demand stronger safeguards in the market structure bill.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/23/bitcoin-wilts-as-oil-and-rates-rise-clarity-act-odds-tumble-to-38)
 
 ---
