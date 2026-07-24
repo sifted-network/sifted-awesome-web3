@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-07-24"
 date: "2026-07-24"
 source: "Cointelegraph"
-count: 17
+count: 23
 ---
 
 # Cointelegraph - 2026-07-24
 
-17 items collected.
+23 items collected.
 
 ---
 
-## 1. Thailand SEC files complaint against Bitkub over alleged false disclosures
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/24/2026, 7:03:45 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Crypto advocacy groups support CLARITY passage as ethics rules face pushback
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/24/2026, 4:55:14 PM  
+**Categories:** Latest News  
+
+The window for US lawmakers to address a comprehensive crypto market structure bill before the 2026 elections is closing, and industry organizations are calling for action.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Internet Freedom Foundation calls India’s BitChat GitHub takedown order ‘unconstitutional’
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/24/2026, 4:04:30 PM  
+**Categories:** Latest News  
+
+The digital rights group says India’s order to remove Jack Dorsey’s BitChat repositories from GitHub exceeds the government’s legal authority and threatens free speech.
+
+📖 [Read original article](https://cointelegraph.com/news/internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstitutional?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Crypto Biz: Is the AI-to-crypto rotation underway?
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/24/2026, 3:15:57 PM  
+**Categories:** Latest News  
+
+Bitcoin ETF inflows, cooling AI momentum and potential regulatory progress under the CLARITY Act are fueling speculation that capital is rotating back into crypto.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-biz-ai-to-crypto-rotation-bitcoin-etf-inflows-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. World Foundation raises $52.5M in Pantera-led funding to expand World ID infrastructure
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/24/2026, 3:09:33 PM  
+**Categories:** Latest News  
+
+The organization sold locked WLD tokens to strategic investors as it seeks to grow its biometric identity network amid rising demand for human verification online.
+
+📖 [Read original article](https://cointelegraph.com/news/world-foundation-funding-led-by-pantera-world-id-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/24/2026, 2:28:03 PM  
+**Categories:** Markets  
+
+Bitcoin saw several dips under the $64,000 mark as a Binance “plunge protection team” reemerged with bid liquidity to avoid a deeper BTC price rout.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-falls-under-64k-us-bond-yields-fed-rate-hike-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. A quantum roadmap would push Bitcoin much higher: Charles Edwards
+
+**Author:** Cointelegraph by Ciaran Lyons  
+**Published:** 7/24/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+A Bitcoin development roadmap that addresses quantum computing risks could see the price surge by “double digits” very quickly, according to Charles Edwards.
+
+📖 [Read original article](https://cointelegraph.com/magazine/bitcoins-biggest-bull-catalyst-may-come-from-fixing-its-biggest-risk-edwards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Thailand SEC files complaint against Bitkub over alleged false disclosures
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/24/2026, 12:46:27 PM  
@@ -23,7 +107,7 @@ Thailand’s SEC filed a criminal complaint against Bitkub and two former direct
 
 ---
 
-## 2. Odos Protocol to shut down, gives users until July 30 to withdraw assets
+## 9. Odos Protocol to shut down, gives users until July 30 to withdraw assets
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/24/2026, 11:59:42 AM  
@@ -35,7 +119,7 @@ Odos Protocol will shut down on July 30, giving users one week to withdraw asset
 
 ---
 
-## 3. RWAs become Hyperliquid’s largest trading category
+## 10. RWAs become Hyperliquid’s largest trading category
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/24/2026, 11:42:32 AM  
@@ -47,7 +131,7 @@ Tokenized RWA trading became Hyperliquid’s largest trading category for the fi
 
 ---
 
-## 4. Brazil puts tokenized cows to work as loan collateral: Report
+## 11. Brazil puts tokenized cows to work as loan collateral: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/24/2026, 10:29:49 AM  
@@ -59,7 +143,7 @@ Ten tokenized dairy cows backed a $19,600 loan registered on Brazil’s B3, in o
 
 ---
 
-## 5. Samsung Wallet plans stablecoin support in digital payments expansion
+## 12. Samsung Wallet plans stablecoin support in digital payments expansion
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/24/2026, 10:10:07 AM  
@@ -71,7 +155,7 @@ Samsung Electronics plans to add stablecoin support to Samsung Wallet, expanding
 
 ---
 
-## 6. Philippine bank BPI plans stablecoin payments pilot
+## 13. Philippine bank BPI plans stablecoin payments pilot
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/24/2026, 10:01:01 AM  
@@ -83,7 +167,7 @@ The Philippine bank is preparing a stablecoin settlement pilot intended to speed
 
 ---
 
-## 7. BTC supply in profit eyes 60%, but analysis hints recovery may ‘roll back over’
+## 14. BTC supply in profit eyes 60%, but analysis hints recovery may ‘roll back over’
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/24/2026, 9:43:07 AM  
@@ -95,7 +179,7 @@ Bitcoin supply profitability improved versus its 2026 low, but analysis warned t
 
 ---
 
-## 8. South Korea’s Korbit to rebrand as Digital X under Mirae: Report
+## 15. South Korea’s Korbit to rebrand as Digital X under Mirae: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/24/2026, 8:51:13 AM  
@@ -107,7 +191,7 @@ Mirae Asset reportedly plans to use the South Korean crypto exchange as a hub fo
 
 ---
 
-## 9. Ripple launches Mint to expand institutional access to RLUSD
+## 16. Ripple launches Mint to expand institutional access to RLUSD
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/24/2026, 8:47:01 AM  
@@ -119,7 +203,7 @@ Ripple launches Mint to expand RLUSD access for institutions as the stablecoin�
 
 ---
 
-## 10. Bitcoin mining pool Poolin files for Chapter 11 bankruptcy
+## 17. Bitcoin mining pool Poolin files for Chapter 11 bankruptcy
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/24/2026, 8:38:49 AM  
@@ -131,7 +215,7 @@ Bitcoin miner Poolin filed for Chapter 11 bankruptcy and initiated a $52 million
 
 ---
 
-## 11. EU widens Belarus ownership ban to all crypto service providers
+## 18. EU widens Belarus ownership ban to all crypto service providers
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/24/2026, 8:06:15 AM  
@@ -143,7 +227,7 @@ The EU will bar Belarusian nationals and residents from owning, controlling or m
 
 ---
 
-## 12. Bitcoin ETFs snap 7-day inflow streak with $225M in outflows
+## 19. Bitcoin ETFs snap 7-day inflow streak with $225M in outflows
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/24/2026, 7:17:57 AM  
@@ -155,19 +239,7 @@ After attracting nearly $1 billion over seven trading sessions, US-listed spot B
 
 ---
 
-## 13. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/24/2026, 6:24:36 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. BitMEX hit with 623 BTC lawsuit on day it announces shutdown
+## 20. BitMEX hit with 623 BTC lawsuit on day it announces shutdown
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/24/2026, 5:20:11 AM  
@@ -179,7 +251,7 @@ The proposed class action alleges BitMEX used privileged trading access and serv
 
 ---
 
-## 15. Dem senator calls GOP’s CLARITY ethics proposal a ‘piece of s---’: Politico
+## 21. Dem senator calls GOP’s CLARITY ethics proposal a ‘piece of s---’: Politico
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/24/2026, 3:10:24 AM  
@@ -191,7 +263,7 @@ On Wednesday, Senate Republicans released the proposed text for the CLARITY Act,
 
 ---
 
-## 16. BitMEX delists 65 trading pairs, derivatives in July amid exchange shutdown
+## 22. BitMEX delists 65 trading pairs, derivatives in July amid exchange shutdown
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/24/2026, 2:50:23 AM  
@@ -203,7 +275,7 @@ BitMEX will have removed 65 derivative contracts and trading pairs in July, comp
 
 ---
 
-## 17. SEC sets September talks on move toward 24-hour stock trading
+## 23. SEC sets September talks on move toward 24-hour stock trading
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/24/2026, 1:18:16 AM  
