@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-23"
 date: "2026-07-23"
 source: "The Block"
-count: 14
+count: 12
 ---
 
 # The Block - 2026-07-23
 
-14 items collected.
+12 items collected.
 
 ---
 
@@ -152,29 +152,5 @@ BitMEX, co-founded by Arthur Hayes, will shut down on Sept. 23, 2026, at 04:00 U
 A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
 
 📖 [Read original article](https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. South Korea’s Mirae Asset completes acquisition of Korbit crypto exchange
-
-**Author:** Timmy Shen  
-**Published:** 7/23/2026, 5:01:21 AM  
-**Categories:** Companies, Crypto Ecosystems, Web3, Asia  
-
-Mirae Asset also plans to increase its stake from 92.06% to 97.15% through an additional deal later this week, local media reported.
-
-📖 [Read original article](https://www.theblock.co/post/409485/mirae-asset-completes-acquisition-korbit?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. Arbitrum protocol AFX Trade hit by $24 million bridge exploit: Blockaid
-
-**Author:** Timmy Shen  
-**Published:** 7/23/2026, 1:39:41 AM  
-**Categories:** Crypto Ecosystems, DeFi, Security, Exploits, Hacks  
-
-PeckShield flagged that the attacker bridged the stolen funds from Arbitrum to Ethereum and swapped them for 12,467 ETH.
-
-📖 [Read original article](https://www.theblock.co/post/409482/arbitrum-protocol-afx-trade-exploit?utm_source=rss&utm_medium=rss)
 
 ---
