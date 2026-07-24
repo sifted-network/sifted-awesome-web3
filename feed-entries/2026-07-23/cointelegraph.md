@@ -2,16 +2,16 @@
 title: "Cointelegraph - 2026-07-23"
 date: "2026-07-23"
 source: "Cointelegraph"
-count: 13
+count: 7
 ---
 
 # Cointelegraph - 2026-07-23
 
-13 items collected.
+7 items collected.
 
 ---
 
-## 1. Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC
+## 1. Gemini co-founders sent $10M in Bitcoin to Trump PAC after joint motion with CFTC
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/23/2026, 9:47:39 PM  
@@ -92,77 +92,5 @@ A hacker reportedly took over Robinhood CEO Vlad Tenev’s X account to promote 
 Goldman chief David Solomon will support the crypto market structure bill now in Congress, even as financial companies and banks are hesitant over provisions on stablecoins.
 
 📖 [Read original article](https://cointelegraph.com/news/goldman-sachs-ceo-clarity-act-stablecoin-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Here’s why the CLARITY Act’s ethics deal may be so hard to reach
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 7/23/2026, 4:44:42 PM  
-**Categories:** Magazine  
-
-Both parties say they want US crypto market structure legislation, but a dispute over ethics rules and who enforces them is becoming the bill’s biggest obstacle.
-
-📖 [Read original article](https://cointelegraph.com/magazine/heres-why-the-clarity-acts-ethics-deal-may-be-so-hard-to-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. BTC treasury firm Empery Digital invests $20M in AI data center developer Cardinal Data Power
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 7/23/2026, 4:42:52 PM  
-**Categories:** Latest News  
-
-The investment marks Empery’s latest push into AI infrastructure as the company shifts capital away from its Bitcoin treasury strategy.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-treasury-firm-empery-digital-invests-20m-in-ai-data-center-developer-cardinal-data-power?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Ethereum nears market bottom against Bitcoin, though key signals remain unconfirmed: CryptoQuant
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 7/23/2026, 4:26:43 PM  
-**Categories:** Latest News  
-
-Ether trades below its realized price while onchain indicators point to easing selling pressure and recovering demand, though a definitive cycle bottom has yet to emerge.
-
-📖 [Read original article](https://cointelegraph.com/news/ethereum-nears-market-bottom-against-bitcoin-key-signals-remain-unconfirmed-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Fears of AI-driven DeFi hack epidemic overstated for now — but not for long
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 7/23/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Are the fears of an AI driven hacking epidemic totally overblown, or is this just the lull before the storm?
-
-📖 [Read original article](https://cointelegraph.com/magazine/ai-hasnt-unleashed-a-defi-hackpocalypse-but-its-making-every-weakness-more-dangerous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Binance joins STOP THE TRAFFIK in anti-human trafficking effort
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/23/2026, 1:22:00 PM  
-**Categories:** Latest News  
-
-The partnership expands Binance’s compliance efforts by providing intelligence and training to help detect cryptocurrency activity tied to human trafficking and child exploitation.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-stop-the-traffik-anti-human-trafficking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Strategy-led group pledges $15M to quantum-proof Bitcoin network
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/23/2026, 1:03:18 PM  
-**Categories:** Latest News  
-
-A consortium led by Strategy and BlackRock has pledged $15 million to secure the Bitcoin network from the threat of a quantum computing breakthrough.
-
-📖 [Read original article](https://cointelegraph.com/news/strategy-consortium-15m-quantum-proof-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
