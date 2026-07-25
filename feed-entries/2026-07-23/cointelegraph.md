@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-23"
 date: "2026-07-23"
 source: "Cointelegraph"
-count: 7
+count: 4
 ---
 
 # Cointelegraph - 2026-07-23
 
-7 items collected.
+4 items collected.
 
 ---
 
@@ -56,41 +56,5 @@ Bitcoin price forecasts diverge as US-Iran war tensions fueled an ongoing oil an
 The research released by the organization said that crypto companies will directly or indirectly lead to 232,000 jobs across the entire US economy in 2026.
 
 📖 [Read original article](https://cointelegraph.com/news/crypto-industry-contributed-us-economy-2026-nca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. As BitMEX exits, analysts warn crypto consolidation is accelerating
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 7/23/2026, 7:30:17 PM  
-**Categories:** Latest News  
-
-BitMEX’s shutdown marks the end of one of crypto’s earliest derivatives exchanges as analysts point to rising regulatory costs, market concentration and the shift toward licensed trading venues.
-
-📖 [Read original article](https://cointelegraph.com/news/as-bitmex-exits-analysts-warn-crypto-consolidation-is-accelerating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Robinhood CEO’s X account hacked in apparent memecoin scam
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 7/23/2026, 6:09:26 PM  
-**Categories:** Latest News  
-
-A hacker reportedly took over Robinhood CEO Vlad Tenev’s X account to promote a fake “VLAD” memecoin, posting what appeared to be a malicious token contract address.
-
-📖 [Read original article](https://cointelegraph.com/news/robinhood-ceo-x-account-hacked-in-apparent-memecoin-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Goldman Sachs CEO backs ‘not perfect’ CLARITY Act as vote expected soon
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 7/23/2026, 4:57:11 PM  
-**Categories:** Latest News  
-
-Goldman chief David Solomon will support the crypto market structure bill now in Congress, even as financial companies and banks are hesitant over provisions on stablecoins.
-
-📖 [Read original article](https://cointelegraph.com/news/goldman-sachs-ceo-clarity-act-stablecoin-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
