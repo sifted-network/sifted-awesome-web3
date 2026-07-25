@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-24"
 date: "2026-07-24"
 source: "Cointelegraph"
-count: 25
+count: 23
 ---
 
 # Cointelegraph - 2026-07-24
 
-25 items collected.
+23 items collected.
 
 ---
 
@@ -284,29 +284,5 @@ The proposed class action alleges BitMEX used privileged trading access and serv
 On Wednesday, Senate Republicans released the proposed text for the CLARITY Act, which has been met with pushback from Democrats regarding ethics provisions.
 
 📖 [Read original article](https://cointelegraph.com/news/senator-gallego-says-gop-clarity-counterproposal-not-a-serious-effort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 24. BitMEX delists 65 trading pairs, derivatives in July amid exchange shutdown
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/24/2026, 2:50:23 AM  
-**Categories:** Latest News  
-
-BitMEX will have removed 65 derivative contracts and trading pairs in July, compared with just 19 across the first six months of the year.
-
-📖 [Read original article](https://cointelegraph.com/news/bitmex-delists-65-crypto-markets-in-july-amid-exchange-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. SEC sets September talks on move toward 24-hour stock trading
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/24/2026, 1:18:16 AM  
-**Categories:** Latest News  
-
-Nasdaq, Cboe and the London Stock Exchange are among major exchanges moving toward longer trading hours.
-
-📖 [Read original article](https://cointelegraph.com/news/sec-to-host-roundtable-on-24-hour-trading-in-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
