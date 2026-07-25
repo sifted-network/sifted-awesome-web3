@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-22"
 date: "2026-07-22"
 source: "Decrypt"
-count: 11
+count: 9
 ---
 
 # Decrypt - 2026-07-22
 
-11 items collected.
+9 items collected.
 
 ---
 
@@ -116,29 +116,5 @@ Prosecutors filed five forfeiture cases as Secret Service agents traced funds fr
 Nearly every country has yet to apply the rules, the watchdog said, warning of outright bans for platforms that don’t comply.
 
 📖 [Read original article](https://decrypt.co/374041/centralized-elements-frequently-persist-in-defi-and-should-be-regulated-fatf)
-
----
-
-## 10. Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs
-
-**Author:** Decrypt Agent  
-**Published:** 7/22/2026, 12:44:48 PM  
-**Categories:** , , , Law and Order  
-
-TRM Labs says the UK-sanctioned exchange has rotated hot wallets across blockchains, leaving address-list screening struggling to keep pace.
-
-📖 [Read original article](https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs)
-
----
-
-## 11. Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face
-
-**Author:** Tyler Warner  
-**Published:** 7/22/2026, 11:50:29 AM  
-**Categories:** Opinion  
-
-Plus, the BTC ETFs stay green. The Clarity Act hits a wall over who enforces the ethics rules. And Jack Mallers walks away from XXI Capital.
-
-📖 [Read original article](https://decrypt.co/374029/morning-minute-openai-model-escapes-containment-hacks-hugging-face)
 
 ---
