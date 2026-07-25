@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-07-24"
 date: "2026-07-24"
 source: "Decrypt"
-count: 11
+count: 13
 ---
 
 # Decrypt - 2026-07-24
 
-11 items collected.
+13 items collected.
 
 ---
 
-## 1. Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price
+## 1. Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/24/2026, 10:03:16 PM  
+**Categories:** , DeFi  
+
+For the first time, real-world assets—stocks, commodities, and market indices—outpaced crypto on the world's biggest decentralized derivatives exchange.
+
+📖 [Read original article](https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest)
+
+---
+
+## 2. Samsung Wallet Will Add Stablecoin Support, Including USDC
+
+**Author:** Jose Antonio Lanz  
+**Published:** 7/24/2026, 7:30:01 PM  
+**Categories:** Business  
+
+Samsung showed a wallet mockup holding Circle's USDC at Galaxy Unpacked. But details are scarce.
+
+📖 [Read original article](https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc)
+
+---
+
+## 3. Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/24/2026, 6:28:43 PM  
@@ -23,7 +47,7 @@ Anthropic's new everyday model undercuts its own frontier product on cost and be
 
 ---
 
-## 2. Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage
+## 4. Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage
 
 **Author:** Decrypt Staff  
 **Published:** 7/24/2026, 5:50:26 PM  
@@ -35,7 +59,7 @@ Senate Majority Leader John Thune signals the crypto market-structure bill likel
 
 ---
 
-## 3. Poolin, Once One of Bitcoin's Biggest Mining Pools, Files for Bankruptcy
+## 5. Poolin, Once One of Bitcoin's Biggest Mining Pools, Files for Bankruptcy
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/24/2026, 5:44:48 PM  
@@ -47,7 +71,7 @@ The Singapore-based pool never recovered from freezing withdrawals in 2022. Now 
 
 ---
 
-## 4. Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI
+## 6. Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/24/2026, 4:34:25 PM  
@@ -59,7 +83,7 @@ Twenty-five companies signed a letter defending open-weight models days after a 
 
 ---
 
-## 5. Strategy Overhauls Bitcoin Metrics, Debuting 'Net Bitcoin Per Share'
+## 7. Strategy Overhauls Bitcoin Metrics, Debuting 'Net Bitcoin Per Share'
 
 **Author:** Decrypt Agent  
 **Published:** 7/24/2026, 4:21:52 PM  
@@ -71,7 +95,7 @@ The firm says its "digital credit" shift needs new yardsticks that strip out deb
 
 ---
 
-## 6. Bitcoin ETFs Shed $225M, Snapping Seven-Day Inflow Streak as Iran Tensions Spook Markets
+## 8. Bitcoin ETFs Shed $225M, Snapping Seven-Day Inflow Streak as Iran Tensions Spook Markets
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/24/2026, 4:17:37 PM  
@@ -83,7 +107,7 @@ BlackRock's IBIT led the exit as Bitcoin briefly dipped under $65,000 and stocks
 
 ---
 
-## 7. World Foundation Raises $52.5M to Scale Sam Altman’s ‘Proof of Human’ ID
+## 9. World Foundation Raises $52.5M to Scale Sam Altman’s ‘Proof of Human’ ID
 
 **Author:** Decrypt Agent  
 **Published:** 7/24/2026, 2:57:56 PM  
@@ -95,7 +119,7 @@ Pantera Capital led the one-year locked token sale, joined by Bain Capital Crypt
 
 ---
 
-## 8. EU Names Justin Sun's HTX in Russia Sanctions, Two Months After UK
+## 10. EU Names Justin Sun's HTX in Russia Sanctions, Two Months After UK
 
 **Author:** Decrypt Agent  
 **Published:** 7/24/2026, 2:21:37 PM  
@@ -107,7 +131,7 @@ The 21st package stops short of a full asset freeze for HTX, which it accused of
 
 ---
 
-## 9. Morning Minute: Bitcoin's New $15M Quantum Defense Fund
+## 11. Morning Minute: Bitcoin's New $15M Quantum Defense Fund
 
 **Author:** Tyler Warner  
 **Published:** 7/24/2026, 12:29:34 PM  
@@ -119,7 +143,7 @@ Plus, the Clarity Act is no longer expected to progress before the August recess
 
 ---
 
-## 10. India Orders GitHub to Take Down Jack Dorsey's Bitchat Amid Protests
+## 12. India Orders GitHub to Take Down Jack Dorsey's Bitchat Amid Protests
 
 **Author:** Decrypt Agent  
 **Published:** 7/24/2026, 12:20:01 PM  
@@ -131,7 +155,7 @@ The order gave GitHub three hours to pull three code repositories, citing the me
 
 ---
 
-## 11. Polymarket Account in Farage Backer's Name Took $9M in Crypto From Unknown Sources: FT
+## 13. Polymarket Account in Farage Backer's Name Took $9M in Crypto From Unknown Sources: FT
 
 **Author:** Decrypt Agent  
 **Published:** 7/24/2026, 9:40:50 AM  
