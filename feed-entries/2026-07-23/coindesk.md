@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-23"
 date: "2026-07-23"
 source: "CoinDesk"
-count: 5
+count: 3
 ---
 
 # CoinDesk - 2026-07-23
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ The post, now deleted, touted a token called $VLAD and falsely claimed it would 
 The former Signet developer aims to launch early next year a marketplace connecting stablecoin issuers with regional lenders to manage reserves.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/23/tassat-wants-to-help-smaller-banks-tap-the-trillion-dollar-stablecoin-boom-before-wall-street-lock-them-out)
-
----
-
-## 4. Coinbase's corporate customers can now accept payments from AI agents
-
-**Author:** Ian Allison  
-**Published:** 7/23/2026, 4:54:12 PM  
-**Categories:** Finance, News  
-
-Rolling out this week, Coinbase Business users will be able to accept payments from AI agents, done via the x402 protocol, developed and incubated by the exchange.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/23/coinbase-closes-the-gaps-in-ai-agent-economy-for-businesses-users-and-developers)
-
----
-
-## 5. The SEC settles with Coinbase over its missing Gary Gensler texts
-
-**Author:** Olivier Acuna  
-**Published:** 7/23/2026, 3:36:39 PM  
-**Categories:** Policy, Coinbase, SEC, Ethereum News, News  
-
-A new court status report reveals the agency will pay a flat fee to resolve a two-year fight over what former Chair Gary Gensler knew about Ethereum.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)
 
 ---
