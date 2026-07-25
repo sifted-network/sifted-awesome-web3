@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-24"
 date: "2026-07-24"
 source: "Cointelegraph"
-count: 26
+count: 25
 ---
 
 # Cointelegraph - 2026-07-24
 
-26 items collected.
+25 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ According to Senator Elizabeth Warren, the House bill “won’t solve the probl
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 7/24/2026, 7:03:45 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Crypto advocacy groups support CLARITY passage as ethics rules face pushback
+## 4. Crypto advocacy groups support CLARITY passage as ethics rules face pushback
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/24/2026, 4:55:14 PM  
@@ -71,7 +59,7 @@ The window for US lawmakers to address a comprehensive crypto market structure b
 
 ---
 
-## 6. Internet Freedom Foundation calls India’s BitChat GitHub takedown order ‘unconstitutional’
+## 5. Internet Freedom Foundation calls India’s BitChat GitHub takedown order ‘unconstitutional’
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/24/2026, 4:04:30 PM  
@@ -83,7 +71,7 @@ The digital rights group says India’s order to remove Jack Dorsey’s BitChat 
 
 ---
 
-## 7. Crypto Biz: Is the AI-to-crypto rotation underway?
+## 6. Crypto Biz: Is the AI-to-crypto rotation underway?
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/24/2026, 3:15:57 PM  
@@ -95,7 +83,7 @@ Bitcoin ETF inflows, cooling AI momentum and potential regulatory progress under
 
 ---
 
-## 8. World Foundation raises $52.5M in Pantera-led funding to expand World ID infrastructure
+## 7. World Foundation raises $52.5M in Pantera-led funding to expand World ID infrastructure
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/24/2026, 3:09:33 PM  
@@ -107,7 +95,7 @@ The organization sold locked WLD tokens to strategic investors as it seeks to gr
 
 ---
 
-## 9. Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds
+## 8. Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/24/2026, 2:28:03 PM  
@@ -119,7 +107,7 @@ Bitcoin saw several dips under the $64,000 mark as a Binance “plunge protectio
 
 ---
 
-## 10. A quantum roadmap would push Bitcoin much higher: Charles Edwards
+## 9. A quantum roadmap would push Bitcoin much higher: Charles Edwards
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 7/24/2026, 1:30:00 PM  
@@ -131,7 +119,7 @@ A Bitcoin development roadmap that addresses quantum computing risks could see t
 
 ---
 
-## 11. Thailand SEC files complaint against Bitkub over alleged false disclosures
+## 10. Thailand SEC files complaint against Bitkub over alleged false disclosures
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/24/2026, 12:46:27 PM  
@@ -143,7 +131,7 @@ Thailand’s SEC filed a criminal complaint against Bitkub and two former direct
 
 ---
 
-## 12. Odos Protocol to shut down, gives users until July 30 to withdraw assets
+## 11. Odos Protocol to shut down, gives users until July 30 to withdraw assets
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/24/2026, 11:59:42 AM  
@@ -155,7 +143,7 @@ Odos Protocol will shut down on July 30, giving users one week to withdraw asset
 
 ---
 
-## 13. RWAs become Hyperliquid’s largest trading category
+## 12. RWAs become Hyperliquid’s largest trading category
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/24/2026, 11:42:32 AM  
@@ -167,7 +155,7 @@ Tokenized RWA trading became Hyperliquid’s largest trading category for the fi
 
 ---
 
-## 14. Brazil puts tokenized cows to work as loan collateral: Report
+## 13. Brazil puts tokenized cows to work as loan collateral: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/24/2026, 10:29:49 AM  
@@ -179,7 +167,7 @@ Ten tokenized dairy cows backed a $19,600 loan registered on Brazil’s B3, in o
 
 ---
 
-## 15. Samsung Wallet plans stablecoin support in digital payments expansion
+## 14. Samsung Wallet plans stablecoin support in digital payments expansion
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/24/2026, 10:10:07 AM  
@@ -191,7 +179,7 @@ Samsung Electronics plans to add stablecoin support to Samsung Wallet, expanding
 
 ---
 
-## 16. Philippine bank BPI plans stablecoin payments pilot
+## 15. Philippine bank BPI plans stablecoin payments pilot
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/24/2026, 10:01:01 AM  
@@ -203,7 +191,7 @@ The Philippine bank is preparing a stablecoin settlement pilot intended to speed
 
 ---
 
-## 17. BTC supply in profit eyes 60%, but analysis hints recovery may ‘roll back over’
+## 16. BTC supply in profit eyes 60%, but analysis hints recovery may ‘roll back over’
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/24/2026, 9:43:07 AM  
@@ -215,7 +203,7 @@ Bitcoin supply profitability improved versus its 2026 low, but analysis warned t
 
 ---
 
-## 18. South Korea’s Korbit to rebrand as Digital X under Mirae: Report
+## 17. South Korea’s Korbit to rebrand as Digital X under Mirae: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/24/2026, 8:51:13 AM  
@@ -227,7 +215,7 @@ Mirae Asset reportedly plans to use the South Korean crypto exchange as a hub fo
 
 ---
 
-## 19. Ripple launches Mint to expand institutional access to RLUSD
+## 18. Ripple launches Mint to expand institutional access to RLUSD
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/24/2026, 8:47:01 AM  
@@ -239,7 +227,7 @@ Ripple launches Mint to expand RLUSD access for institutions as the stablecoin�
 
 ---
 
-## 20. Bitcoin mining pool Poolin files for Chapter 11 bankruptcy
+## 19. Bitcoin mining pool Poolin files for Chapter 11 bankruptcy
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 7/24/2026, 8:38:49 AM  
@@ -251,7 +239,7 @@ Bitcoin miner Poolin filed for Chapter 11 bankruptcy and initiated a $52 million
 
 ---
 
-## 21. EU widens Belarus ownership ban to all crypto service providers
+## 20. EU widens Belarus ownership ban to all crypto service providers
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/24/2026, 8:06:15 AM  
@@ -263,7 +251,7 @@ The EU will bar Belarusian nationals and residents from owning, controlling or m
 
 ---
 
-## 22. Bitcoin ETFs snap 7-day inflow streak with $225M in outflows
+## 21. Bitcoin ETFs snap 7-day inflow streak with $225M in outflows
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/24/2026, 7:17:57 AM  
@@ -275,7 +263,7 @@ After attracting nearly $1 billion over seven trading sessions, US-listed spot B
 
 ---
 
-## 23. BitMEX hit with 623 BTC lawsuit on day it announces shutdown
+## 22. BitMEX hit with 623 BTC lawsuit on day it announces shutdown
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/24/2026, 5:20:11 AM  
@@ -287,7 +275,7 @@ The proposed class action alleges BitMEX used privileged trading access and serv
 
 ---
 
-## 24. Dem senator calls GOP’s CLARITY ethics proposal a ‘piece of s---’: Politico
+## 23. Dem senator calls GOP’s CLARITY ethics proposal a ‘piece of s---’: Politico
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/24/2026, 3:10:24 AM  
@@ -299,7 +287,7 @@ On Wednesday, Senate Republicans released the proposed text for the CLARITY Act,
 
 ---
 
-## 25. BitMEX delists 65 trading pairs, derivatives in July amid exchange shutdown
+## 24. BitMEX delists 65 trading pairs, derivatives in July amid exchange shutdown
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/24/2026, 2:50:23 AM  
@@ -311,7 +299,7 @@ BitMEX will have removed 65 derivative contracts and trading pairs in July, comp
 
 ---
 
-## 26. SEC sets September talks on move toward 24-hour stock trading
+## 25. SEC sets September talks on move toward 24-hour stock trading
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/24/2026, 1:18:16 AM  
