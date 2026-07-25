@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-23"
 date: "2026-07-23"
 source: "CoinDesk"
-count: 7
+count: 5
 ---
 
 # CoinDesk - 2026-07-23
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ Rolling out this week, Coinbase Business users will be able to accept payments f
 A new court status report reveals the agency will pay a flat fee to resolve a two-year fight over what former Chair Gary Gensler knew about Ethereum.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)
-
----
-
-## 6. Crypto for Advisors: It’s time for tokenization to get to work
-
-**Author:** Jason Barraza,Joshua de Vos  
-**Published:** 7/23/2026, 2:53:34 PM  
-**Categories:** CoinDesk Indices, CoinDesk Indices, Financial Advisors, Crypto for Advisors, News  
-
-
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/07/23/crypto-for-advisors-it-s-time-for-tokenization-to-get-to-work)
-
----
-
-## 7. Uniswap pushes deeper into tokenized assets with permissioned trading pools
-
-**Author:** Krisztian Sandor  
-**Published:** 7/23/2026, 2:00:00 PM  
-**Categories:** Finance, Tokenization, DeFi, News  
-
-The framework, developed with Superstate, Securitize and Dowgo, lets regulated funds and securities trade on Uniswap while enforcing compliance rules necessary for institutions.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools)
 
 ---
