@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-23"
 date: "2026-07-23"
 source: "The Block"
-count: 11
+count: 9
 ---
 
 # The Block - 2026-07-23
 
-11 items collected.
+9 items collected.
 
 ---
 
@@ -116,29 +116,5 @@ Lombard Finance is launching its Bitcoin Onchain Credit Strategy with Flow Trade
 The Smarter Web Company sold 177.89 BTC at $65,762 to repay $11.7 million to TOBAM early, cancelling 7.7 million in potential share issuance.
 
 📖 [Read original article](https://www.theblock.co/post/409506/not-currently-the-right-capital-solution-smarter-web-sells-178-bitcoin-to-repay-11-7m-convertible-instrument?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Circle partners with Kakao, Toss Bank to explore stablecoin payment rails in South Korea
-
-**Author:** Timmy Shen  
-**Published:** 7/23/2026, 9:09:42 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi  
-
-Circle plans to explore blockchain-based payment infrastructure in South Korea through partnerships with Kakao and Toss.
-
-📖 [Read original article](https://www.theblock.co/post/409497/circle-partners-with-kakao-toss?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. BitMEX to shut down permanently 11 years after Arthur Hayes co-founded crypto exchange
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/23/2026, 9:00:36 AM  
-**Categories:** Companies, Exchanges, Markets, Bitmex  
-
-BitMEX, co-founded by Arthur Hayes, will shut down on Sept. 23, 2026, at 04:00 UTC after owner HDR Global Trading's strategic review.
-
-📖 [Read original article](https://www.theblock.co/post/409495/bitmex-to-shut-down-permanently?utm_source=rss&utm_medium=rss)
 
 ---
