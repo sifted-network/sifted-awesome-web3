@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-23"
 date: "2026-07-23"
 source: "The Block"
-count: 12
+count: 11
 ---
 
 # The Block - 2026-07-23
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ Circle plans to explore blockchain-based payment infrastructure in South Korea t
 BitMEX, co-founded by Arthur Hayes, will shut down on Sept. 23, 2026, at 04:00 UTC after owner HDR Global Trading's strategic review.
 
 📖 [Read original article](https://www.theblock.co/post/409495/bitmex-to-shut-down-permanently?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid
-
-**Author:** Brian Danga  
-**Published:** 7/23/2026, 8:37:38 AM  
-**Categories:** Crypto Ecosystems, Security, Hacks  
-
-A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.
-
-📖 [Read original article](https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack?utm_source=rss&utm_medium=rss)
 
 ---
