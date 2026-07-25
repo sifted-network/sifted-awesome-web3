@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-22"
 date: "2026-07-22"
 source: "Decrypt"
-count: 9
+count: 4
 ---
 
 # Decrypt - 2026-07-22
 
-9 items collected.
+4 items collected.
 
 ---
 
@@ -56,65 +56,5 @@ Qwen Image 3.0 generates dense newspapers and infographic grids in one shot and 
 The asset manager argues that AI software capable of paying for things autonomously will need blockchain rails to work—and that most investors aren't positioned for it.
 
 📖 [Read original article](https://decrypt.co/374055/franklin-templeton-agentic-ai-crypto-killer-use-case)
-
----
-
-## 5. Bitcoin Is Bouncing: Here’s the Bull and Bear Case for Its Next Move
-
-**Author:** Jose Antonio Lanz  
-**Published:** 7/22/2026, 6:48:45 PM  
-**Categories:** , Markets  
-
-The good news: Bitcoin is holding onto key support, and rising. The bad news: a "death cross" is still active, and prediction markets are still overwhelmingly bearish.
-
-📖 [Read original article](https://decrypt.co/374059/bitcoin-price-bounce-bull-bear-case)
-
----
-
-## 6. Clarity Act Latest Draft Bars Trump From Crypto Ventures—But Only Until 2029
-
-**Author:** Decrypt Staff  
-**Published:** 7/22/2026, 5:51:54 PM  
-**Categories:** , , , Law and Order  
-
-The long-awaited market-structure bill would block officials and their spouses from issuing digital assets and shield non-custodial developers, but the ethics ban expires in 2029 and enforcement rests solely with the DOJ.
-
-📖 [Read original article](https://decrypt.co/374056/clarity-act-draft-trump-crypto-ventures)
-
----
-
-## 7. Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack
-
-**Author:** Jose Antonio Lanz  
-**Published:** 7/22/2026, 4:23:16 PM  
-**Categories:** Artificial Intelligence  
-
-When American commercial AI refused to help investigate the breach, Hugging Face ran Chinese model GLM 5.2 locally. Its CEO now says there's an important lesson in this.
-
-📖 [Read original article](https://decrypt.co/374052/hugging-face-ceo-thanks-chinese-ai-saving-day-after-openai-hack)
-
----
-
-## 8. US Seizes More Than $25M in Crypto Tied to Investment and Romance Scams
-
-**Author:** Decrypt Agent  
-**Published:** 7/22/2026, 3:10:46 PM  
-**Categories:** , , Law and Order  
-
-Prosecutors filed five forfeiture cases as Secret Service agents traced funds from thousands of victims to launderers in Southeast Asia.
-
-📖 [Read original article](https://decrypt.co/374049/us-seizes-more-than-25m-in-crypto-tied-to-investment-and-romance-scams)
-
----
-
-## 9. Centralized Elements 'Frequently Persist' in DeFi and Should Be Regulated: FATF
-
-**Author:** Decrypt Agent  
-**Published:** 7/22/2026, 2:41:56 PM  
-**Categories:** , , Law and Order  
-
-Nearly every country has yet to apply the rules, the watchdog said, warning of outright bans for platforms that don’t comply.
-
-📖 [Read original article](https://decrypt.co/374041/centralized-elements-frequently-persist-in-defi-and-should-be-regulated-fatf)
 
 ---
