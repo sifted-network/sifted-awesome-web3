@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-23"
 date: "2026-07-23"
 source: "Cointelegraph"
-count: 4
+count: 3
 ---
 
 # Cointelegraph - 2026-07-23
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ The exchange also introduced AI trading tools and a developer kit as part of a b
 Bitcoin price forecasts diverge as US-Iran war tensions fueled an ongoing oil and bond-market surge, while July Fed rate-hike odds neared 40%.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-dips-below-65k-iran-war-sparks-100-oil-us-bond-spike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Crypto industry to contribute $55B to US economy in 2026: NCA study
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 7/23/2026, 7:41:10 PM  
-**Categories:** Latest News  
-
-The research released by the organization said that crypto companies will directly or indirectly lead to 232,000 jobs across the entire US economy in 2026.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-industry-contributed-us-economy-2026-nca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
