@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-07-26"
 date: "2026-07-26"
 source: "Cointelegraph"
-count: 4
+count: 7
 ---
 
 # Cointelegraph - 2026-07-26
 
-4 items collected.
+7 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. CFTC issues second warning to prediction markets on cookie-cutter self-certifications
+
+**Author:** Cointelegraph by Robert Lakin  
+**Published:** 7/26/2026, 5:45:05 PM  
+**Categories:** Latest News  
+
+For the second time this year, the regulator told prediction markets to stop issuing overly broad, template-style certifications of events contracts.
+
+📖 [Read original article](https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Russia’s Sberbank to launch crypto trading infrastructure this year
+
+**Author:** Cointelegraph by Robert Lakin  
+**Published:** 7/26/2026, 4:07:11 PM  
+**Categories:** Latest News  
+
+Russia’s biggest bank plans to create cryptocurrency trading infrastructure by Dec. 1 as the country is set to establish rules for market participants while allowing crypto assets to be used in foreign trade operations.
+
+📖 [Read original article](https://cointelegraph.com/news/russias-sberbank-to-launch-crypto-trading-infrastructure-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 7/26/2026, 1:06:00 PM  
+**Categories:** Markets  
+
+Dormant BTC activity fell to its lowest level since Q3 2022, suggesting long-term holders have slowed distribution after heavy profit-taking.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-og-dormant-btc-movement-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/26/2026, 12:04:52 PM  
@@ -23,22 +59,22 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys
+## 5. South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys
 
 **Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/26/2026, 10:21:25 AM  
+**Published:** 7/26/2026, 10:23:00 AM  
 **Categories:** Latest News  
 
-South Korea’s largest lender will use JPMorgan’s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.
+KB Kookmin Bank will use JPMorgan’s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.
 
 📖 [Read original article](https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-## 3. BitMart to wind down exchange, end trading by Aug. 26
+## 6. BitMart to wind down exchange, end trading by Aug. 26
 
 **Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/26/2026, 7:11:27 AM  
+**Published:** 7/26/2026, 7:13:00 AM  
 **Categories:** Latest News  
 
 Crypto exchange BitMart said it will wind down operations after its BMX token plunged and users reported withdrawal delays, with platform operations set to end in January.
@@ -47,13 +83,13 @@ Crypto exchange BitMart said it will wind down operations after its BMX token pl
 
 ---
 
-## 4. Binance ‘red teams’ its own staff every month to keep hackers out
+## 7. Binance ‘red teams’ its own staff every month to keep hackers out
 
 **Author:** Cointelegraph by Felix Ng  
-**Published:** 7/26/2026, 2:00:00 AM  
+**Published:** 7/26/2026, 2:01:00 AM  
 **Categories:** Latest News  
 
-Binance regularly tests its employees for security hygiene, with social engineering becoming a major source of industry breaches.
+Binance regularly tests its employees for security hygiene, as social engineering is becoming a major source of industry breaches.
 
 📖 [Read original article](https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
