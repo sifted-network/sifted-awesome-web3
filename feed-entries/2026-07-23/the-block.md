@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-23"
 date: "2026-07-23"
 source: "The Block"
-count: 9
+count: 8
 ---
 
 # The Block - 2026-07-23
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ LayerZero and Keeta have partnered to enable native transfers of tokenized bank 
 Lombard Finance is launching its Bitcoin Onchain Credit Strategy with Flow Traders as the pilot partner.
 
 📖 [Read original article](https://www.theblock.co/post/409516/flow-traders-pilots-lombards-new-bitcoin-backed-credit-strategy-for-stablecoin-borrowing?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. ‘Not currently the right capital solution’: Smarter Web sells 178 bitcoin to repay $11.7M convertible instrument
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/23/2026, 10:38:13 AM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin  
-
-The Smarter Web Company sold 177.89 BTC at $65,762 to repay $11.7 million to TOBAM early, cancelling 7.7 million in potential share issuance.
-
-📖 [Read original article](https://www.theblock.co/post/409506/not-currently-the-right-capital-solution-smarter-web-sells-178-bitcoin-to-repay-11-7m-convertible-instrument?utm_source=rss&utm_medium=rss)
 
 ---
