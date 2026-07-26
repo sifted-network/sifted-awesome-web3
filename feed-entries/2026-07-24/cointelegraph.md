@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-24"
 date: "2026-07-24"
 source: "Cointelegraph"
-count: 20
+count: 19
 ---
 
 # Cointelegraph - 2026-07-24
 
-20 items collected.
+19 items collected.
 
 ---
 
@@ -236,17 +236,5 @@ Ripple launches Mint to expand RLUSD access for institutions as the stablecoin�
 Bitcoin miner Poolin filed for Chapter 11 bankruptcy and initiated a $52 million sale of its two West Texas mining sites as part of its future creditor recovery program.
 
 📖 [Read original article](https://cointelegraph.com/news/bitcoin-mining-poolin-chapter-11-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. EU widens Belarus ownership ban to all crypto service providers
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/24/2026, 8:06:15 AM  
-**Categories:** Latest News  
-
-The EU will bar Belarusian nationals and residents from owning, controlling or managing exchanges and other MiCA-regulated crypto firms from Aug. 25.
-
-📖 [Read original article](https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
