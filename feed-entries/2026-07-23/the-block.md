@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-23"
 date: "2026-07-23"
 source: "The Block"
-count: 8
+count: 6
 ---
 
 # The Block - 2026-07-23
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ Nine firms including Strategy and BlackRock formed a $15 million Bitcoin securit
 The Trust Deficit For most of the crypto industry&#8217;s history, users who deposited assets with an exchange simply trusted that the funds were there. FTX ended that complacency when it collapsed in 2022, with investigators finding that billions in customer deposits had been quietly diverted to it...
 
 📖 [Read original article](https://www.theblock.co/post/409524/proof-of-reserves-what-it-means-for-exchange-trust?utm_source=rss&utm_medium=rss)
-
----
-
-## 7. LayerZero, Keeta enable tokenized bank deposits across Ethereum, Solana and Base
-
-**Author:** Brian Danga  
-**Published:** 7/23/2026, 1:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Finance firms, Markets, Web3, Payments, Tokenization  
-
-LayerZero and Keeta have partnered to enable native transfers of tokenized bank deposits across Ethereum, Solana, Base, and Keeta.
-
-📖 [Read original article](https://www.theblock.co/post/409507/layerzero-keeta-enable-tokenized-bank-deposits-across-ethereum-solana-and-base?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. Flow Traders pilots Lombard’s new bitcoin-backed credit strategy for stablecoin borrowing
-
-**Author:** Daniel Kuhn  
-**Published:** 7/23/2026, 1:00:00 PM  
-**Categories:** Crypto Ecosystems, DeFi, Layer 1s, Markets, Token Projects, Bitcoin, Lending  
-
-Lombard Finance is launching its Bitcoin Onchain Credit Strategy with Flow Traders as the pilot partner.
-
-📖 [Read original article](https://www.theblock.co/post/409516/flow-traders-pilots-lombards-new-bitcoin-backed-credit-strategy-for-stablecoin-borrowing?utm_source=rss&utm_medium=rss)
 
 ---
