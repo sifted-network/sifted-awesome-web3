@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-24"
 date: "2026-07-24"
 source: "CoinDesk"
-count: 18
+count: 17
 ---
 
 # CoinDesk - 2026-07-24
 
-18 items collected.
+17 items collected.
 
 ---
 
@@ -212,17 +212,5 @@ Ripple launched an institutional minting platform and added RLUSD to Notabene’
 The South Korean financial giant says its Korbit – soon to be rebranded as Digital X – is just the starting point for a broader ecosystem that connects RWAs, stablecoins and digital assets.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform)
-
----
-
-## 18. Bitcoin holds near $65,000 as $800 billion AI selloff leaves crypto largely untouched
-
-**Author:** Shaurya Malwa  
-**Published:** 7/24/2026, 4:43:19 AM  
-**Categories:** Markets, News  
-
-The Magnificent Seven had their worst day since April 2025 after Alphabet and Tesla spooked investors on AI spending. Bitcoin fell less than 1%, and dogecoin led the majors lower.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched)
 
 ---
