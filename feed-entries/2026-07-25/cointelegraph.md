@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-25"
 date: "2026-07-25"
 source: "Cointelegraph"
-count: 8
+count: 7
 ---
 
 # Cointelegraph - 2026-07-25
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -59,19 +59,7 @@ Daily NK reported that North Korea arrested former state cyber operators accused
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/25/2026, 12:06:01 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Fidelity joins push for Senate passage of CLARITY Act
+## 5. Fidelity joins push for Senate passage of CLARITY Act
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/25/2026, 11:30:15 AM  
@@ -83,7 +71,7 @@ Fidelity called on the US Senate to pass the CLARITY Act, joining industry group
 
 ---
 
-## 7. Dango’s perp DEX taps out nearly 4 months after launch
+## 6. Dango’s perp DEX taps out nearly 4 months after launch
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/25/2026, 10:01:26 AM  
@@ -95,7 +83,7 @@ Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance
 
 ---
 
-## 8. Ethereum ETFs close week in red, end 5-day inflow streak
+## 7. Ethereum ETFs close week in red, end 5-day inflow streak
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/25/2026, 7:40:35 AM  
