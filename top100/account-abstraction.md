@@ -6,30 +6,30 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [account-abstraction](https://github.com/eth-infinitism/account-abstraction) | 1,925 | 834 | TypeScript | 1 |  | 2026-01-25 |
-| 2 | [awesome-account-abstraction](https://github.com/4337Mafia/awesome-account-abstraction) | 1,011 | 170 | - | 713 | 📖 A curated list of resources dedicated to Account Abstraction (EIP-4337) | 2026-06-09 |
-| 3 | [awesome-list-rpc-nodes-providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers) | 914 | 233 | - | 1208 | A curated list of awesome Node providers and public RPC endpoints for Ethereum, BSC, Gnosis (xDAI), Fantom, Avalanche, KuCoin, Fuse, Harmony, Tezos, IoTeX, Arbitrum, Optimism and more :)  | 2025-08-28 |
-| 4 | [skandha](https://github.com/etherspot/skandha) | 613 | 82 | TypeScript | 10 | A modular typescript implementation of ERC4337 (Account Abstraction) bundler client. | 2026-07-11 |
-| 5 | [argent-contracts](https://github.com/argentlabs/argent-contracts) | 602 | 217 | Solidity | 7 | Smart Contracts for Argent Wallet | 2024-07-29 |
+| 1 | [account-abstraction](https://github.com/eth-infinitism/account-abstraction) | 1,927 | 833 | TypeScript | 1 |  | 2026-01-25 |
+| 2 | [awesome-account-abstraction](https://github.com/4337Mafia/awesome-account-abstraction) | 1,011 | 170 | - | 720 | 📖 A curated list of resources dedicated to Account Abstraction (EIP-4337) | 2026-06-09 |
+| 3 | [awesome-list-rpc-nodes-providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers) | 914 | 234 | - | 1215 | A curated list of awesome Node providers and public RPC endpoints for Ethereum, BSC, Gnosis (xDAI), Fantom, Avalanche, KuCoin, Fuse, Harmony, Tezos, IoTeX, Arbitrum, Optimism and more :)  | 2025-08-28 |
+| 4 | [skandha](https://github.com/etherspot/skandha) | 612 | 82 | TypeScript | 10 | A modular typescript implementation of ERC4337 (Account Abstraction) bundler client. | 2026-07-11 |
+| 5 | [argent-contracts](https://github.com/argentlabs/argent-contracts) | 601 | 217 | Solidity | 7 | Smart Contracts for Argent Wallet | 2024-07-29 |
 | 6 | [etherspot-sdk](https://github.com/etherspot/etherspot-sdk) | 364 | 21 | TypeScript | 2 | Etherspot - Account Abstraction SDK | 2023-12-18 |
-| 7 | [account](https://github.com/ithacaxyz/account) | 324 | 91 | Solidity | 32 | All you need account for authentication and payments on the web. | 2026-01-03 |
-| 8 | [safe-core-sdk](https://github.com/safe-global/safe-core-sdk) | 320 | 306 | TypeScript | 45 | The Safe{Core} SDK allows builders to add account abstraction functionality into their apps. | 2026-07-16 |
-| 9 | [sequence.js](https://github.com/0xsequence/sequence.js) | 318 | 70 | TypeScript | 13 | Sequence: modular web3 development platform and account abstraction stack for Ethereum chains | 2026-06-23 |
-| 10 | [eth-account](https://github.com/ApeWorX/eth-account) | 313 | 179 | Python | 10 | Account abstraction library for web3.py | 2026-07-10 |
+| 7 | [account](https://github.com/ithacaxyz/account) | 325 | 92 | Solidity | 32 | All you need account for authentication and payments on the web. | 2026-01-03 |
+| 8 | [safe-core-sdk](https://github.com/safe-global/safe-core-sdk) | 322 | 306 | TypeScript | 45 | The Safe{Core} SDK allows builders to add account abstraction functionality into their apps. | 2026-07-23 |
+| 9 | [sequence.js](https://github.com/0xsequence/sequence.js) | 317 | 70 | TypeScript | 13 | Sequence: modular web3 development platform and account abstraction stack for Ethereum chains | 2026-06-23 |
+| 10 | [eth-account](https://github.com/ApeWorX/eth-account) | 312 | 179 | Python | 10 | Account abstraction library for web3.py | 2026-07-10 |
 | 11 | [silius](https://github.com/silius-rs/silius) | 273 | 41 | Rust | 33 | ERC-4337 (Account Abstraction) - modular and efficient bundler implementation in Rust. | 2025-08-18 |
 | 12 | [permissionless.js](https://github.com/pimlicolabs/permissionless.js) | 253 | 96 | TypeScript | 8 | TypeScript utilities built on viem for ERC-4337: Account Abstraction | 2026-07-14 |
 | 13 | [stackup-bundler](https://github.com/stackup-wallet/stackup-bundler) | 244 | 135 | Go | 13 | A fast, reliable, and modular ERC-4337 Bundler written in Go. | 2024-08-12 |
-| 14 | [wallet](https://github.com/AmbireTech/wallet) | 231 | 82 | JavaScript | 2 | Ambire Wallet: making self-custody easy and secure for the EVM ecosystem | 2026-03-16 |
-| 15 | [delegation-framework](https://github.com/MetaMask/delegation-framework) | 215 | 113 | Solidity | 7 | The contracts that power the Delegation Framework | 2026-07-14 |
+| 14 | [wallet](https://github.com/AmbireTech/wallet) | 232 | 82 | JavaScript | 2 | Ambire Wallet: making self-custody easy and secure for the EVM ecosystem | 2026-03-16 |
+| 15 | [delegation-framework](https://github.com/MetaMask/delegation-framework) | 217 | 114 | Solidity | 8 | The contracts that power the Delegation Framework | 2026-07-14 |
 | 16 | [pillarwallet](https://github.com/pillarwallet/pillarwallet) | 145 | 63 | JavaScript | 0 | Pillar Wallet: Community owned, self custodial, smart contract wallet. | 2026-04-09 |
-| 17 | [etherspot-prime-sdk](https://github.com/etherspot/etherspot-prime-sdk) | 130 | 26 | TypeScript | 0 | Etherspot Prime - Account Abstraction SDK | 2026-01-22 |
-| 18 | [zeneth](https://github.com/ScopeLift/zeneth) | 130 | 31 | TypeScript | 16 | 🏵️ Let Your ETH Chill — Gasless Ethereum account abstraction with Flashbots | 2022-04-21 |
+| 17 | [etherspot-prime-sdk](https://github.com/etherspot/etherspot-prime-sdk) | 129 | 26 | TypeScript | 0 | Etherspot Prime - Account Abstraction SDK | 2026-01-22 |
+| 18 | [zeneth](https://github.com/ScopeLift/zeneth) | 129 | 31 | TypeScript | 16 | 🏵️ Let Your ETH Chill — Gasless Ethereum account abstraction with Flashbots | 2022-04-21 |
 | 19 | [braavos-account-cairo](https://github.com/myBraavos/braavos-account-cairo) | 117 | 58 | Python | 0 | Braavos Account Contract for Starknet | 2025-05-08 |
 | 20 | [paymaster-examples](https://github.com/matter-labs/paymaster-examples) | 111 | 54 | TypeScript | 2 | Ready to use paymaster contracts for zkSync Era | 2024-12-20 |
-| 21 | [awesome-account-abstraction](https://github.com/PaymagicXYZ/awesome-account-abstraction) | 109 | 23 | - | 0 | Curated list of awesome resources for account abstraction. | 2023-05-10 |
-| 22 | [awesome-eip-7702](https://github.com/fireblocks-labs/awesome-eip-7702) | 103 | 16 | - | 0 | A curated list of content related to EIP-7702 account abstraction | 2025-09-28 |
-| 23 | [joyboy](https://github.com/keep-starknet-strange/joyboy) | 88 | 55 | TypeScript | 15 | Decentralized social built with Nostr and powered by Starknet account abstraction. | 2024-08-18 |
-| 24 | [abstract-account](https://github.com/larry0x/abstract-account) | 88 | 19 | Go | 0 | An account abstraction solution for CosmWasm-enabled chains | 2024-07-05 |
+| 21 | [awesome-account-abstraction](https://github.com/PaymagicXYZ/awesome-account-abstraction) | 110 | 23 | - | 0 | Curated list of awesome resources for account abstraction. | 2023-05-10 |
+| 22 | [awesome-eip-7702](https://github.com/fireblocks-labs/awesome-eip-7702) | 105 | 16 | - | 0 | A curated list of content related to EIP-7702 account abstraction | 2025-09-28 |
+| 23 | [abstract-account](https://github.com/larry0x/abstract-account) | 88 | 19 | Go | 0 | An account abstraction solution for CosmWasm-enabled chains | 2024-07-05 |
+| 24 | [joyboy](https://github.com/keep-starknet-strange/joyboy) | 87 | 55 | TypeScript | 15 | Decentralized social built with Nostr and powered by Starknet account abstraction. | 2024-08-18 |
 | 25 | [candide-contracts](https://github.com/candidelabs/candide-contracts) | 79 | 27 | Solidity | 0 | Account Abstraction smart contract accounts, modules, audits, tests, and formal verification | 2025-02-17 |
 | 26 | [Account2](https://github.com/0xethsign/Account2) | 79 | 0 | Solidity | 0 | Account2 is three things: - Account Abstraction (AA) - Economic Abstraction (EA) - Account Linking | 2022-12-26 |
 | 27 | [zklogin](https://github.com/shield-labs/zklogin) | 74 | 5 | TypeScript | 11 | Sign in with Apple/Google on any EVM chain. Self-custodial. | 2025-03-12 |
@@ -37,26 +37,26 @@
 | 29 | [minimal-account-abstraction](https://github.com/Cyfrin/minimal-account-abstraction) | 70 | 37 | Solidity | 1 |  | 2026-01-23 |
 | 30 | [signature-validator](https://github.com/AmbireTech/signature-validator) | 68 | 22 | Solidity | 1 | TypeScript library that supports validation of any type of signature: account abstraction (ERC-1271, ERC-6492), standard signatures, ERC-712 | 2025-09-12 |
 | 31 | [arka](https://github.com/etherspot/arka) | 67 | 14 | TypeScript | 7 | ARKA - (Albanian for Cashier's case) is the first open source "Paymaster" as a service software. | 2026-04-05 |
-| 32 | [extension](https://github.com/AmbireTech/extension) | 66 | 25 | TypeScript | 1 | Your Web3 Wallet that just works. EIP-7702 ready. | 2026-07-17 |
+| 32 | [extension](https://github.com/AmbireTech/extension) | 66 | 25 | TypeScript | 1 | Your Web3 Wallet that just works. EIP-7702 ready. | 2026-07-23 |
 | 33 | [ie](https://github.com/NaniDAO/ie) | 62 | 8 | Solidity | 1 | intents engine | 2024-11-07 |
-| 34 | [iota-sdk](https://github.com/iotaledger/iota-sdk) | 60 | 43 | Rust | 47 | The IOTA SDK provides developers with a seamless experience to develop on IOTA by providing account abstractions and clients to interact with node APIs. | 2025-05-22 |
-| 35 | [voltaire](https://github.com/candidelabs/voltaire) | 59 | 21 | Python | 0 | Account Abstraction Bundler written in Python & Rust - ERC-4337 | 2026-07-16 |
+| 34 | [iota-sdk](https://github.com/iotaledger/iota-sdk) | 61 | 43 | Rust | 47 | The IOTA SDK provides developers with a seamless experience to develop on IOTA by providing account abstractions and clients to interact with node APIs. | 2025-05-22 |
+| 35 | [voltaire](https://github.com/candidelabs/voltaire) | 59 | 21 | Python | 0 | Account Abstraction Bundler written in Python & Rust - ERC-4337 | 2026-07-23 |
 | 36 | [nexus](https://github.com/bcnmy/nexus) | 56 | 31 | Solidity | 4 | Nexus by Biconomy: ERC-7579 Modular Smart Account for Enhanced Account Abstraction | 2026-02-27 |
-| 37 | [web3-monorepo](https://github.com/sebpalluel/web3-monorepo) | 56 | 8 | TypeScript | 18 | ⚡️ Get started with your Web3 project,🔋 included: 🌈 Web3Auth & Biconomy for non-custodial Social Login and Account Abstraction, 🗂 monorepo with NX, 💻 Next.js + Next Auth + ChakraUI + Storybook for... | 2023-04-10 |
-| 38 | [adex-protocol-eth](https://github.com/heyAuraDev/adex-protocol-eth) | 55 | 34 | JavaScript | 2 | Ethereum implementation of the AdEx payment channels | 2026-07-13 |
+| 37 | [adex-protocol-eth](https://github.com/heyAuraDev/adex-protocol-eth) | 55 | 34 | JavaScript | 2 | Ethereum implementation of the AdEx payment channels | 2026-07-13 |
+| 38 | [web3-monorepo](https://github.com/sebpalluel/web3-monorepo) | 55 | 8 | TypeScript | 18 | ⚡️ Get started with your Web3 project,🔋 included: 🌈 Web3Auth & Biconomy for non-custodial Social Login and Account Abstraction, 🗂 monorepo with NX, 💻 Next.js + Next Auth + ChakraUI + Storybook for... | 2023-04-10 |
 | 39 | [account-abstraction-invoker](https://github.com/0xPolygon/account-abstraction-invoker) | 48 | 14 | TypeScript | 1 | Modular account abstraction with EIP-3074. | 2023-05-18 |
-| 40 | [xp-mobile-account-abstraction](https://github.com/dabit3/xp-mobile-account-abstraction) | 47 | 7 | TypeScript | 0 |  | 2024-02-19 |
-| 41 | [kuberna-labs](https://github.com/kawacukennedy/kuberna-labs) | 46 | 2 | TypeScript | 16 | Kuberna Labs - The Full-Stack Platform for Agentic Web3. Build, deploy, and monetize autonomous AI agents across decentralized networks with TEEs, zkTLS, and cross-chain intents. | 2026-07-17 |
+| 40 | [kuberna-labs](https://github.com/kawacukennedy/kuberna-labs) | 48 | 3 | TypeScript | 16 | Kuberna Labs - The Full-Stack Platform for Agentic Web3. Build, deploy, and monetize autonomous AI agents across decentralized networks with TEEs, zkTLS, and cross-chain intents. | 2026-07-25 |
+| 41 | [xp-mobile-account-abstraction](https://github.com/dabit3/xp-mobile-account-abstraction) | 47 | 7 | TypeScript | 0 |  | 2024-02-19 |
 | 42 | [bundler-spec](https://github.com/eth-infinitism/bundler-spec) | 38 | 16 | JavaScript | 1 | jsonschema rpc spec of eip 4337 (account abstraction) bundler | 2025-03-04 |
 | 43 | [safe-core-sdk-demo](https://github.com/5afe/safe-core-sdk-demo) | 37 | 26 | TypeScript | 5 | Account Abstraction with Safe{Core} SDK | 2024-02-07 |
-| 44 | [abstractionkit](https://github.com/candidelabs/abstractionkit) | 36 | 16 | TypeScript | 3 | A Typescript library to build Account Abstraction Smart Wallets | 2026-06-12 |
+| 44 | [abstractionkit](https://github.com/candidelabs/abstractionkit) | 36 | 16 | TypeScript | 3 | A Typescript library to build Account Abstraction Smart Wallets | 2026-07-25 |
 | 45 | [account-abstraction-sdk](https://github.com/safe-global/account-abstraction-sdk) | 33 | 14 | TypeScript | 0 |  | 2023-04-11 |
 | 46 | [Awesome-Account-Abstraction-Resources](https://github.com/doganalpaslan/Awesome-Account-Abstraction-Resources) | 32 | 3 | - | 0 |  | 2023-03-27 |
-| 47 | [ambire-common](https://github.com/AmbireTech/ambire-common) | 30 | 29 | TypeScript | 0 | Common ground for the Ambire apps. This package puts together the core business logic behind the Ambire browser extensions and (the future) mobile apps. | 2026-07-17 |
-| 48 | [account-abstraction-playground](https://github.com/quilt/account-abstraction-playground) | 29 | 5 | Solidity | 0 | Everything you need to create your first account abstraction contract in one place | 2020-09-17 |
-| 49 | [aa-mkdocs](https://github.com/eth-infinitism/aa-mkdocs) | 29 | 34 | Python | 0 | A community-curated mk-docs on ERC-4337 and Account Abstraction — covering specs, tools, infrastructure, and ecosystem initiatives | 2026-02-10 |
-| 50 | [rif-wallet](https://github.com/rsksmart/rif-wallet) | 29 | 10 | TypeScript | 21 | React Native account abstraction wallet that allows users to pay transaction fees in ERC20 tokens. Check out the docs linked below: | 2026-05-07 |
-| 51 | [solidity-auditor-skills](https://github.com/sanbir/solidity-auditor-skills) | 29 | 6 | - | 0 | AI-powered Solidity security skills for EVM systems, with expanded coverage for DeFi, account abstraction, proxies, signatures, bridges, and execution-layer edge cases. | 2026-03-27 |
+| 47 | [aa-mkdocs](https://github.com/eth-infinitism/aa-mkdocs) | 30 | 35 | Python | 0 | A community-curated mk-docs on ERC-4337 and Account Abstraction — covering specs, tools, infrastructure, and ecosystem initiatives | 2026-02-10 |
+| 48 | [ambire-common](https://github.com/AmbireTech/ambire-common) | 30 | 29 | TypeScript | 0 | Common ground for the Ambire apps. This package puts together the core business logic behind the Ambire browser extensions and (the future) mobile apps. | 2026-07-24 |
+| 49 | [solidity-auditor-skills](https://github.com/sanbir/solidity-auditor-skills) | 30 | 6 | - | 0 | AI-powered Solidity security skills for EVM systems, with expanded coverage for DeFi, account abstraction, proxies, signatures, bridges, and execution-layer edge cases. | 2026-03-27 |
+| 50 | [account-abstraction-playground](https://github.com/quilt/account-abstraction-playground) | 29 | 5 | Solidity | 0 | Everything you need to create your first account abstraction contract in one place | 2020-09-17 |
+| 51 | [rif-wallet](https://github.com/rsksmart/rif-wallet) | 29 | 10 | TypeScript | 21 | React Native account abstraction wallet that allows users to pay transaction fees in ERC20 tokens. Check out the docs linked below: | 2026-05-07 |
 | 52 | [zkSync-account-abstraction-template](https://github.com/matter-labs/zkSync-account-abstraction-template) | 28 | 3 | - | 0 |  | 2023-12-15 |
 | 53 | [accounts](https://github.com/NaniDAO/accounts) | 27 | 7 | Solidity | 0 | smart account implementations | 2026-02-16 |
 | 54 | [BankAccountSystem](https://github.com/kuzhali4/BankAccountSystem) | 26 | 0 | - | 0 | Java-based Bank Account System demonstrating core OOP concepts such as abstraction, inheritance, and method overriding. Supports basic banking operations like deposit, withdrawal, transfer, and accoun... | 2026-03-31 |
@@ -71,27 +71,27 @@
 | 63 | [jiffy-explorer](https://github.com/jiffy-labs/jiffy-explorer) | 18 | 5 | TypeScript | 2 | An explorer for account abstraction | 2023-04-01 |
 | 64 | [smart-contract-wallet](https://github.com/LearnWeb3DAO/smart-contract-wallet) | 18 | 7 | TypeScript | 1 | Implementation for a multisig smart contract wallet using Account Abstraction | 2024-03-10 |
 | 65 | [smart-contract-wallet-Ethereum-Account-Abstraction-Telegram](https://github.com/ctrlsa/smart-contract-wallet-Ethereum-Account-Abstraction-Telegram) | 17 | 7 | TypeScript | 13 | R&D of possibilities, limitations & solutions to natively integrate self-custodial EVM smart-contract wallet in Telegram messenger. Non-profit public goods project supported by Ethereum Foundation gra... | 2025-02-06 |
-| 66 | [variance-dart](https://github.com/vaariance/variance-dart) | 17 | 7 | Dart | 1 | Account Abstraction SDK written in Dart | 2025-11-05 |
+| 66 | [variance-dart](https://github.com/vaariance/variance-dart) | 17 | 6 | Dart | 1 | Account Abstraction SDK written in Dart | 2025-11-05 |
 | 67 | [ethtaipei2023-aa-workshop](https://github.com/consenlabs/ethtaipei2023-aa-workshop) | 17 | 4 | Solidity | 0 | Account abstraction workshop @ ETHTaipei 2023 | 2026-01-22 |
 | 68 | [Account-Abstraction-Security-Audit-Checklist](https://github.com/slowmist/Account-Abstraction-Security-Audit-Checklist) | 17 | 3 | - | 0 | This article aims to provide auditors with a baseline checklist for auditing account abstraction wallets implemented based on the EIP4337 standard, along with some targeted auditing guidelines. | 2024-07-11 |
-| 69 | [xchain-accounts](https://github.com/algorandfoundation/xchain-accounts) | 17 | 7 | TypeScript | 1 | EVM Account Abstraction on Algorand via ECDSA signature verification | 2026-06-16 |
+| 69 | [xchain-accounts](https://github.com/algorandfoundation/xchain-accounts) | 17 | 6 | TypeScript | 1 | EVM Account Abstraction on Algorand via ECDSA signature verification | 2026-06-16 |
 | 70 | [qr-seal](https://github.com/Oxbobby/qr-seal) | 17 | 0 | JavaScript | 0 | Privacy-Preserving, Gas-Optimized Mobile Multisig via Account Abstraction & Schnorr 🤿 Signatures. | 2023-07-11 |
 | 71 | [hello-gator](https://github.com/MetaMask/hello-gator) | 17 | 4 | TypeScript | 0 | Minimal Viable Gator 🐊 | 2025-02-28 |
 | 72 | [learn-account-abstraction](https://github.com/inaridiy/learn-account-abstraction) | 16 | 5 | TypeScript | 0 |  | 2023-11-18 |
 | 73 | [smart-account-starter](https://github.com/smart-account-starter/smart-account-starter) | 16 | 5 | TypeScript | 1 | Open-source Daap Starter with WaaS, Smart Contract Wallet, Smart Wallet, Smart Account, Crypto Wallet, Account Abstraction, ERC-4337, ERC-7579 | 2025-10-30 |
 | 74 | [Account-Abstraction-smart-contract-wallet](https://github.com/ItsThankK/Account-Abstraction-smart-contract-wallet) | 16 | 0 | Solidity | 0 |  | 2023-12-05 |
-| 75 | [cow-shed](https://github.com/cowdao-grants/cow-shed) | 16 | 3 | Solidity | 0 | A gas-efficient, address-bound account abstraction for permissioned hooks on CoW Protocol | 2026-05-14 |
-| 76 | [openfort-js](https://github.com/openfort-xyz/openfort-js) | 16 | 17 | TypeScript | 2 | Authentication and Embedded Wallets | 2026-07-16 |
+| 75 | [cow-shed](https://github.com/cowdao-grants/cow-shed) | 16 | 3 | Solidity | 0 | A gas-efficient, address-bound account abstraction for permissioned hooks on CoW Protocol | 2026-07-23 |
+| 76 | [openfort-js](https://github.com/openfort-xyz/openfort-js) | 16 | 17 | TypeScript | 2 | Authentication and Embedded Wallets | 2026-07-22 |
 | 77 | [wallet-abstraction](https://github.com/imqdee/wallet-abstraction) | 16 | 4 | TypeScript | 0 | No more wallets in one year. | 2023-10-18 |
 | 78 | [smart-account-kit](https://github.com/kalepail/smart-account-kit) | 16 | 9 | TypeScript | 0 | TypeScript SDK for OpenZeppelin Stellar smart accounts with passkeys, multi-signers, authorization policies, and fee-sponsored transactions. | 2026-07-14 |
 | 79 | [smart-account-auth](https://github.com/MegaRockLabs/smart-account-auth) | 15 | 3 | Rust | 5 | Authentication Library / SDK  for  smart accounts logic written in Rust and client-side utilities useful everywhere  | 2026-04-27 |
 | 80 | [documentation](https://github.com/bcnmy/documentation) | 14 | 17 | TypeScript | 12 | Biconomy official documentation for account abstraction SDK | 2025-01-25 |
 | 81 | [docs](https://github.com/bcnmy/docs) | 14 | 24 | MDX | 2 | Biconomy official documentation | 2024-09-09 |
-| 82 | [ChatterPay](https://github.com/P4-Games/ChatterPay) | 14 | 3 | TypeScript | 6 | ChatterPay: A wallet for WhatsApp that integrates AI and Account Abstraction, enabling any user to easily and securely use blockchain without technical knowledge. | 2026-07-17 |
+| 82 | [ChatterPay](https://github.com/P4-Games/ChatterPay) | 14 | 3 | TypeScript | 6 | ChatterPay: A wallet for WhatsApp that integrates AI and Account Abstraction, enabling any user to easily and securely use blockchain without technical knowledge. | 2026-07-21 |
 | 83 | [AAsnap](https://github.com/a42inc/AAsnap) | 13 | 5 | TypeScript | 1 | Account Abstraction Snap | 2023-01-22 |
 | 84 | [EIP-7702](https://github.com/CasualHackathon/EIP-7702) | 13 | 19 | TypeScript | 0 | EIP-7702 Casual Hackathon: Let’s Co-Create the Future of Account Abstraction | 2025-06-27 |
 | 85 | [cyber-account](https://github.com/cyberconnecthq/cyber-account) | 13 | 3 | TypeScript | 0 | CyberAccount SDK is the official NPM package that implements CyberConnect V3 account abstraction. | 2024-08-21 |
-| 86 | [sdk](https://github.com/rhinestonewtf/sdk) | 12 | 17 | TypeScript | 3 | End-to-end account abstraction and chain abstraction toolkit | 2026-07-16 |
+| 86 | [sdk](https://github.com/rhinestonewtf/sdk) | 12 | 17 | TypeScript | 3 | End-to-end account abstraction and chain abstraction toolkit | 2026-07-24 |
 | 87 | [NFT](https://github.com/EhsanParsania/NFT) | 12 | 8 | JavaScript | 0 | Frontend, backend, and smart-contracts of a complete NFT project & Account abstraction ( ERC-4337, ERC-721, ERC-20 ) | 2023-10-26 |
 | 88 | [hIVM](https://github.com/aa-labs/hIVM) | 12 | 3 | TypeScript | 0 | Integrate Intent Instantly: where sophistication meets simplicity. ETHIndia'23 Finalist | 2023-12-10 |
 | 89 | [zkSync-contracts](https://github.com/ChiHaoLu/zkSync-contracts) | 11 | 2 | TypeScript | 0 | Focus on Account Abstraction Mechanism and account contracts | 2023-07-16 |
