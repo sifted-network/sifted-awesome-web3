@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-07-25"
 date: "2026-07-25"
 source: "Cointelegraph"
-count: 7
+count: 8
 ---
 
 # Cointelegraph - 2026-07-25
 
-7 items collected.
+8 items collected.
 
 ---
 
-## 1. Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program
+## 1. Robinhood in talks with Crypto.com over prediction markets: WSJ
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/25/2026, 9:01:44 PM  
+**Categories:** Latest News  
+
+While prediction market companies in the US continue to face legal battles between state and federal authorities, Robinhood is reportedly considering expanding its services.
+
+📖 [Read original article](https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/25/2026, 6:15:44 PM  
@@ -23,7 +35,7 @@ The Bitcoin Policy Institute and three partner organizations will be able to sen
 
 ---
 
-## 2. Wise to resubmit US charter application under GENIUS Act
+## 3. Wise to resubmit US charter application under GENIUS Act
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/25/2026, 4:05:31 PM  
@@ -35,7 +47,7 @@ The OCC denied the UK company’s application this week citing AML/CFT risks, de
 
 ---
 
-## 3. North Korea arrests bank hacking ring tied to crypto laundering: Report
+## 4. North Korea arrests bank hacking ring tied to crypto laundering: Report
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/25/2026, 1:14:18 PM  
@@ -47,7 +59,7 @@ Daily NK reported that North Korea arrested former state cyber operators accused
 
 ---
 
-## 4. Here’s what happened in crypto today
+## 5. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/25/2026, 12:06:01 PM  
@@ -59,7 +71,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 5. Fidelity joins push for Senate passage of CLARITY Act
+## 6. Fidelity joins push for Senate passage of CLARITY Act
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/25/2026, 11:30:15 AM  
@@ -71,7 +83,7 @@ Fidelity called on the US Senate to pass the CLARITY Act, joining industry group
 
 ---
 
-## 6. Dango’s perp DEX taps out nearly 4 months after launch
+## 7. Dango’s perp DEX taps out nearly 4 months after launch
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/25/2026, 10:01:26 AM  
@@ -83,7 +95,7 @@ Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance
 
 ---
 
-## 7. Ethereum ETFs close week in red, end 5-day inflow streak
+## 8. Ethereum ETFs close week in red, end 5-day inflow streak
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/25/2026, 7:40:35 AM  
