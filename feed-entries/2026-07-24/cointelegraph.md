@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-24"
 date: "2026-07-24"
 source: "Cointelegraph"
-count: 19
+count: 16
 ---
 
 # Cointelegraph - 2026-07-24
 
-19 items collected.
+16 items collected.
 
 ---
 
@@ -200,41 +200,5 @@ The Philippine bank is preparing a stablecoin settlement pilot intended to speed
 Bitcoin supply profitability improved versus its 2026 low, but analysis warned that a fake recovery had already broken down at the start of June.
 
 📖 [Read original article](https://cointelegraph.com/markets/btc-supply-profit-analysis-hints-recovery-roll-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. South Korea’s Korbit to rebrand as Digital X under Mirae: Report
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/24/2026, 8:51:13 AM  
-**Categories:** Latest News  
-
-Mirae Asset reportedly plans to use the South Korean crypto exchange as a hub for tokenized assets, stablecoins and digital finance.
-
-📖 [Read original article](https://cointelegraph.com/news/korbit-rebrand-digital-x-mirae-asset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Ripple launches Mint to expand institutional access to RLUSD
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/24/2026, 8:47:01 AM  
-**Categories:** Latest News  
-
-Ripple launches Mint to expand RLUSD access for institutions as the stablecoin’s market cap approaches $1.6 billion.
-
-📖 [Read original article](https://cointelegraph.com/news/ripple-mint-expand-institutional-access-rlusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Bitcoin mining pool Poolin files for Chapter 11 bankruptcy
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/24/2026, 8:38:49 AM  
-**Categories:** Latest News  
-
-Bitcoin miner Poolin filed for Chapter 11 bankruptcy and initiated a $52 million sale of its two West Texas mining sites as part of its future creditor recovery program.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-mining-poolin-chapter-11-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
