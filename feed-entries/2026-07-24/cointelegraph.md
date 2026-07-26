@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-24"
 date: "2026-07-24"
 source: "Cointelegraph"
-count: 23
+count: 22
 ---
 
 # Cointelegraph - 2026-07-24
 
-23 items collected.
+22 items collected.
 
 ---
 
@@ -272,17 +272,5 @@ After attracting nearly $1 billion over seven trading sessions, US-listed spot B
 The proposed class action alleges BitMEX used privileged trading access and server freezes to profit from forced liquidations.
 
 📖 [Read original article](https://cointelegraph.com/news/bitmex-liquidation-fraud-lawsuit-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. Dem senator calls GOP’s CLARITY ethics proposal a ‘piece of s---’: Politico
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/24/2026, 3:10:24 AM  
-**Categories:** Latest News  
-
-On Wednesday, Senate Republicans released the proposed text for the CLARITY Act, which has been met with pushback from Democrats regarding ethics provisions.
-
-📖 [Read original article](https://cointelegraph.com/news/senator-gallego-says-gop-clarity-counterproposal-not-a-serious-effort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
