@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-24"
 date: "2026-07-24"
 source: "CoinDesk"
-count: 17
+count: 16
 ---
 
 # CoinDesk - 2026-07-24
 
-17 items collected.
+16 items collected.
 
 ---
 
@@ -200,17 +200,5 @@ Michael Saylor's Strategy — under continued pressure in this crypto bear marke
 Ripple launched an institutional minting platform and added RLUSD to Notabene’s compliance network as holder growth rose but monthly transfer volume fell to $10.95 billion.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/24/ripple-s-rlusd-gets-two-boosts-as-transfer-volume-drops-25)
-
----
-
-## 17. Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before
-
-**Author:** Omkar Godbole  
-**Published:** 7/24/2026, 6:10:49 AM  
-**Categories:** Markets, South Korea, Exclusive, News  
-
-The South Korean financial giant says its Korbit – soon to be rebranded as Digital X – is just the starting point for a broader ecosystem that connects RWAs, stablecoins and digital assets.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform)
 
 ---
