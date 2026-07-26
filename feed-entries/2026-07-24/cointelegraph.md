@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-24"
 date: "2026-07-24"
 source: "Cointelegraph"
-count: 22
+count: 20
 ---
 
 # Cointelegraph - 2026-07-24
 
-22 items collected.
+20 items collected.
 
 ---
 
@@ -248,29 +248,5 @@ Bitcoin miner Poolin filed for Chapter 11 bankruptcy and initiated a $52 million
 The EU will bar Belarusian nationals and residents from owning, controlling or managing exchanges and other MiCA-regulated crypto firms from Aug. 25.
 
 📖 [Read original article](https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Bitcoin ETFs snap 7-day inflow streak with $225M in outflows
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/24/2026, 7:17:57 AM  
-**Categories:** Markets  
-
-After attracting nearly $1 billion over seven trading sessions, US-listed spot Bitcoin ETFs recorded their first daily net outflow since July 13.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etfs-225-million-outflow-end-7-day-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. BitMEX hit with 623 BTC lawsuit on day it announces shutdown
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/24/2026, 5:20:11 AM  
-**Categories:** Latest News  
-
-The proposed class action alleges BitMEX used privileged trading access and server freezes to profit from forced liquidations.
-
-📖 [Read original article](https://cointelegraph.com/news/bitmex-liquidation-fraud-lawsuit-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
