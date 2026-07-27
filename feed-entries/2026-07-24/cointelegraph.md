@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-24"
 date: "2026-07-24"
 source: "Cointelegraph"
-count: 12
+count: 8
 ---
 
 # Cointelegraph - 2026-07-24
 
-12 items collected.
+8 items collected.
 
 ---
 
@@ -104,53 +104,5 @@ The organization sold locked WLD tokens to strategic investors as it seeks to gr
 Bitcoin saw several dips under the $64,000 mark as a Binance “plunge protection team” reemerged with bid liquidity to avoid a deeper BTC price rout.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-falls-under-64k-us-bond-yields-fed-rate-hike-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. A quantum roadmap would push Bitcoin much higher: Charles Edwards
-
-**Author:** Cointelegraph by Ciaran Lyons  
-**Published:** 7/24/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-A Bitcoin development roadmap that addresses quantum computing risks could see the price surge by “double digits” very quickly, according to Charles Edwards.
-
-📖 [Read original article](https://cointelegraph.com/magazine/bitcoins-biggest-bull-catalyst-may-come-from-fixing-its-biggest-risk-edwards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Thailand SEC files complaint against Bitkub over alleged false disclosures
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/24/2026, 12:46:27 PM  
-**Categories:** Latest News  
-
-Thailand’s SEC filed a criminal complaint against Bitkub and two former directors over alleged false disclosures linked to a 2021 cyberattack involving $50 million in assets.
-
-📖 [Read original article](https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Odos Protocol to shut down, gives users until July 30 to withdraw assets
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/24/2026, 11:59:42 AM  
-**Categories:** Latest News  
-
-Odos Protocol will shut down on July 30, giving users one week to withdraw assets. The team did not provide a reason for the decision.
-
-📖 [Read original article](https://cointelegraph.com/news/odos-protocol-shut-down-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. RWAs become Hyperliquid’s largest trading category
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/24/2026, 11:42:32 AM  
-**Categories:** Latest News  
-
-Tokenized RWA trading became Hyperliquid’s largest trading category for the first time, accounting for more than half of the decentralized exchange’s weekly trading volume.
-
-📖 [Read original article](https://cointelegraph.com/news/hyperliquid-rwa-volume-crypto-trading-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
