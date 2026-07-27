@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-26"
 date: "2026-07-26"
 source: "Cointelegraph"
-count: 8
+count: 7
 ---
 
 # Cointelegraph - 2026-07-26
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ WEMIX suspended bridges, liquidity-pool trading and several services after an at
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Robert Lakin  
-**Published:** 7/26/2026, 9:40:00 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. CFTC issues second warning to prediction markets on cookie-cutter self-certifications
+## 2. CFTC issues second warning to prediction markets on cookie-cutter self-certifications
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 7/26/2026, 5:45:05 PM  
@@ -47,7 +35,7 @@ For the second time this year, the regulator told prediction markets to stop iss
 
 ---
 
-## 4. Russia’s Sberbank to launch crypto trading infrastructure this year
+## 3. Russia’s Sberbank to launch crypto trading infrastructure this year
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 7/26/2026, 4:07:11 PM  
@@ -59,7 +47,7 @@ Russia’s biggest bank plans to create cryptocurrency trading infrastructure by
 
 ---
 
-## 5. Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy
+## 4. Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/26/2026, 1:06:00 PM  
@@ -71,7 +59,7 @@ Dormant BTC activity fell to its lowest level since Q3 2022, suggesting long-ter
 
 ---
 
-## 6. South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys
+## 5. South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/26/2026, 10:23:00 AM  
@@ -83,7 +71,7 @@ KB Kookmin Bank will use JPMorgan’s blockchain platform to support US dollar c
 
 ---
 
-## 7. BitMart to wind down exchange, end trading by Aug. 26
+## 6. BitMart to wind down exchange, end trading by Aug. 26
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/26/2026, 7:13:00 AM  
@@ -95,7 +83,7 @@ Crypto exchange BitMart said it will wind down operations after its BMX token pl
 
 ---
 
-## 8. Binance ‘red teams’ its own staff every month to keep hackers out
+## 7. Binance ‘red teams’ its own staff every month to keep hackers out
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 7/26/2026, 2:01:00 AM  
