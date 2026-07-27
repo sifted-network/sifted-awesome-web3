@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-24"
 date: "2026-07-24"
 source: "The Block"
-count: 7
+count: 5
 ---
 
 # The Block - 2026-07-24
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ Seven Democratic negotiators say the latest Clarity Act draft needs stronger eth
 The "first close" of the WLD token sale was led by Pantera and included Bain Capital Crypto, Eightco Holdings, Selini, Susquehanna other investors.
 
 📖 [Read original article](https://www.theblock.co/post/409610/world-foundation-wld-token-sale-funding?utm_source=rss&utm_medium=rss)
-
----
-
-## 6. Arthur Hayes, BitMEX co-founders face fraud claims over alleged ‘Insider Trading Desk’ as exchange winds down
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/24/2026, 12:38:21 PM  
-**Categories:** Companies, Exchanges, Legal, Policy, Regulation, Bitmex, Lawsuits  
-
-BitMEX, Arthur Hayes, Samuel Reed and Benjamin Delo face a proposed class action alleging insider trading and deliberate server freezes.
-
-📖 [Read original article](https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&utm_medium=rss)
-
----
-
-## 7. Former bitcoin miner Poolin files Chapter 11, sets $52 million floor bid for Texas operations
-
-**Author:** Brian Danga  
-**Published:** 7/24/2026, 9:52:26 AM  
-**Categories:** Bankruptcy, Companies, Crypto Infrastructure, Bankruptcy Filings, Mining Companies  
-
-Poolin Technology filed for Chapter 11 with $173 million in claims, lining up a $52 million stalking-horse bid for its Texas mining assets.
-
-📖 [Read original article](https://www.theblock.co/post/409587/former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations?utm_source=rss&utm_medium=rss)
 
 ---
