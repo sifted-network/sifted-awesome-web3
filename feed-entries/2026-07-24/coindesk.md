@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-24"
 date: "2026-07-24"
 source: "CoinDesk"
-count: 15
+count: 11
 ---
 
 # CoinDesk - 2026-07-24
 
-15 items collected.
+11 items collected.
 
 ---
 
@@ -140,53 +140,5 @@ BTC held just under $65,000 and crypto broadly rose on Friday even as Brent crud
 The Singapore-based company once controlled nearly a fifth of Bitcoin's global hashrate. Now it owes $173 million and is selling off what's left.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/24/poolin-was-bitcoin-s-biggest-mining-pool-and-now-it-s-filing-for-bankruptcy)
-
----
-
-## 12. Bitcoin treasury companies sell up, repay debt, pivot to AI as share prices collapse
-
-**Author:** James Van Straten  
-**Published:** 7/24/2026, 10:53:52 AM  
-**Categories:** Markets, Bitcoin News, Digital Asset Treasury, News  
-
-Falling share prices, debt obligations and difficult market conditions are forcing former bitcoin accumulators to sell their holdings and restructure operations.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse)
-
----
-
-## 13. India orders takedown of Jack Dorsey’s bitcoin-linked messaging app Bitchat
-
-**Author:** Shaurya Malwa  
-**Published:** 7/24/2026, 10:10:42 AM  
-**Categories:** Tech, News  
-
-The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypted messages and bitcoin transactions, as 'Cockroach Janta Party' protesters in Delhi use mesh tools to communicate through internet shutdowns.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat)
-
----
-
-## 14. BitMEX faces proposed class-action suit for theft, insider trading as crypto exchange shuts down
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/24/2026, 9:54:00 AM  
-**Categories:** Finance, Crypto News, News  
-
-The complaint claims BitMEX designed a system to retain customer collateral and alleges an internal desk accessed private user data during server freezes.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/24/bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exchange-shuts-down)
-
----
-
-## 15. Live updates: Bitcoin gives up gains, falls below $64,000 as stocks retreat
-
-**Author:** Shaurya Malwa,Omkar Godbole,Stephen Alpher  
-**Published:** 7/24/2026, 7:22:26 AM  
-**Categories:** Tech, Ethereum News, Solana News, Live News, Bitcoin News, live_news  
-
-Michael Saylor's Strategy — under continued pressure in this crypto bear market — released a new set of metrics to judge company performance.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings)
 
 ---
