@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-24"
 date: "2026-07-24"
 source: "Cointelegraph"
-count: 16
+count: 12
 ---
 
 # Cointelegraph - 2026-07-24
 
-16 items collected.
+12 items collected.
 
 ---
 
@@ -152,53 +152,5 @@ Odos Protocol will shut down on July 30, giving users one week to withdraw asset
 Tokenized RWA trading became Hyperliquid’s largest trading category for the first time, accounting for more than half of the decentralized exchange’s weekly trading volume.
 
 📖 [Read original article](https://cointelegraph.com/news/hyperliquid-rwa-volume-crypto-trading-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Brazil puts tokenized cows to work as loan collateral: Report
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 7/24/2026, 10:29:49 AM  
-**Categories:** Latest News  
-
-Ten tokenized dairy cows backed a $19,600 loan registered on Brazil’s B3, in one of Brazil’s first uses of tokenized livestock as loan collateral.
-
-📖 [Read original article](https://cointelegraph.com/news/brazils-b3-rwa-credit-tokenized-cows-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Samsung Wallet plans stablecoin support in digital payments expansion
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/24/2026, 10:10:07 AM  
-**Categories:** Latest News  
-
-Samsung Electronics plans to add stablecoin support to Samsung Wallet, expanding its mobile payments and rewards platform to include digital assets.
-
-📖 [Read original article](https://cointelegraph.com/news/samsung-wallet-stablecoin-support-galaxy-unpacked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Philippine bank BPI plans stablecoin payments pilot
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/24/2026, 10:01:01 AM  
-**Categories:** Latest News  
-
-The Philippine bank is preparing a stablecoin settlement pilot intended to speed up and reduce the cost of overseas payments to Filipino remote workers.
-
-📖 [Read original article](https://cointelegraph.com/news/philippine-bank-bpi-plans-stablecoin-payments-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. BTC supply in profit eyes 60%, but analysis hints recovery may ‘roll back over’
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/24/2026, 9:43:07 AM  
-**Categories:** Markets  
-
-Bitcoin supply profitability improved versus its 2026 low, but analysis warned that a fake recovery had already broken down at the start of June.
-
-📖 [Read original article](https://cointelegraph.com/markets/btc-supply-profit-analysis-hints-recovery-roll-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
