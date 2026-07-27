@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-24"
 date: "2026-07-24"
 source: "CoinDesk"
-count: 16
+count: 15
 ---
 
 # CoinDesk - 2026-07-24
 
-16 items collected.
+15 items collected.
 
 ---
 
@@ -188,17 +188,5 @@ The complaint claims BitMEX designed a system to retain customer collateral and 
 Michael Saylor's Strategy — under continued pressure in this crypto bear market — released a new set of metrics to judge company performance.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings)
-
----
-
-## 16. Ripple’s RLUSD gets two boosts as transfer volume drops 25%
-
-**Author:** Shaurya Malwa  
-**Published:** 7/24/2026, 6:33:37 AM  
-**Categories:** Finance, Ripple, XRP News, News  
-
-Ripple launched an institutional minting platform and added RLUSD to Notabene’s compliance network as holder growth rose but monthly transfer volume fell to $10.95 billion.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/24/ripple-s-rlusd-gets-two-boosts-as-transfer-volume-drops-25)
 
 ---
