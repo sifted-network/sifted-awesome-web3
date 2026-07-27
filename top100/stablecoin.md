@@ -7,19 +7,19 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [WaykiChain](https://github.com/WaykiChain/WaykiChain) | 1,047 | 226 | C++ | 3 | Public Blockchain as a Decentralized Finance Infrastructure Service Platform | 2022-11-30 |
-| 2 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 854 | 108 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
-| 3 | [dss](https://github.com/sky-ecosystem/dss) | 839 | 451 | Solidity | 16 | Dai Stablecoin System | 2023-10-01 |
-| 4 | [celo-monorepo](https://github.com/celo-org/celo-monorepo) | 800 | 476 | Solidity | 29 | Official repository for core projects comprising the Celo platform | 2026-07-23 |
-| 5 | [stablecoin-evm](https://github.com/circlefin/stablecoin-evm) | 778 | 570 | TypeScript | 22 | Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains | 2026-06-26 |
-| 6 | [Acala](https://github.com/AcalaNetwork/Acala) | 762 | 753 | Rust | 107 | Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama. | 2026-06-14 |
+| 2 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 855 | 108 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
+| 3 | [dss](https://github.com/sky-ecosystem/dss) | 839 | 450 | Solidity | 16 | Dai Stablecoin System | 2023-10-01 |
+| 4 | [celo-monorepo](https://github.com/celo-org/celo-monorepo) | 800 | 476 | Solidity | 29 | Official repository for core projects comprising the Celo platform | 2026-07-27 |
+| 5 | [stablecoin-evm](https://github.com/circlefin/stablecoin-evm) | 779 | 571 | TypeScript | 22 | Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains | 2026-06-26 |
+| 6 | [Acala](https://github.com/AcalaNetwork/Acala) | 761 | 753 | Rust | 107 | Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama. | 2026-06-14 |
 | 7 | [awesome-makerdao](https://github.com/sky-ecosystem/awesome-makerdao) | 710 | 171 | - | 2 | A collection of tools, documents, articles, blog posts, interviews, and videos related to MakerDAO and the Dai stablecoin.  | 2024-07-22 |
 | 8 | [LedgityYield](https://github.com/LedgityLabs/LedgityYield) | 660 | 18 | TypeScript | 1 | Stable yield for stablecoins. Earn up to 7% APY on your stablecoins backed by Real World Assets (RWA). Access low-risk & stable yield directly from your wallet. | 2026-01-21 |
 | 9 | [FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP) | 632 | 118 | JavaScript | 9 | 这是一个金融领域相关的mcp,本项目通过集成 Tushare API 和 Binance API 为语言模型（如Claude）提供全面的实时金融数据访问能力，支持股票、基金、债券、宏观经济指标、稳定币、虚拟货币等多维度金融数据分析。其中也包含了金融数据查询、财经新闻查询、国家统计局数据查询等 | 2026-05-26 |
 | 10 | [resistance](https://github.com/codez0mb1e/resistance) | 609 | 38 | Jupyter Notebook | 2 | Pre-crisis Risk Management for Personal Finance | 2025-08-30 |
 | 11 | [curve-stablecoin](https://github.com/curvefi/curve-stablecoin) | 539 | 110 | Python | 0 | Stablecoin powered by LLAMMAs | 2026-07-24 |
-| 12 | [agentpay-sdk](https://github.com/worldliberty/agentpay-sdk) | 516 | 21 | Rust | 5 | An open SDK for agentic payments. Let AI agents make payments, hold funds, and move money across chains with policy enforcement and human approval built in. | 2026-06-08 |
+| 12 | [agentpay-sdk](https://github.com/worldliberty/agentpay-sdk) | 516 | 22 | Rust | 5 | An open SDK for agentic payments. Let AI agents make payments, hold funds, and move money across chains with policy enforcement and human approval built in. | 2026-06-08 |
 | 13 | [market-maker-keeper](https://github.com/sky-ecosystem/market-maker-keeper) | 492 | 187 | Python | 7 | Maker Keeper Framework: Market maker keepers for OasisDEX, EtherDelta, 0x (RadarRelay, ERCdEX), Paradex, DDEX, IDEX, Bibox, Ethfinex, GoPax, HitBTC, TheOcean, OKEX and Gate.io. | 2023-03-15 |
-| 14 | [x402scan](https://github.com/Merit-Systems/x402scan) | 364 | 260 | TypeScript | 37 | x402 Ecosystem Explorer | 2026-07-23 |
+| 14 | [x402scan](https://github.com/Merit-Systems/x402scan) | 364 | 260 | TypeScript | 38 | x402 Ecosystem Explorer | 2026-07-23 |
 | 15 | [foundry-defi-stablecoin-cu](https://github.com/Cyfrin/foundry-defi-stablecoin-cu) | 336 | 170 | Solidity | 0 |  | 2026-06-16 |
 | 16 | [zoneless](https://github.com/zonelessdev/zoneless) | 336 | 34 | TypeScript | 0 | The open-source Stripe, built on stablecoins. Same API and dashboard you already know, minus the fees. Payments infrastructure you actually own. | 2026-07-26 |
 | 17 | [cashclaw](https://github.com/ertugrulakben/cashclaw) | 294 | 106 | JavaScript | 1 | The Agent Economy Layer — agents earn, agents spend, Guard protects. 13 skills, runtime cost cap, recursive kill, tool firewall. 50+ HYRVE API endpoints, job polling daemon, MPP stablecoin. v1.7.0 | 2026-05-19 |
@@ -54,7 +54,7 @@
 | 46 | [PiStable-Protocol](https://github.com/KOSASIH/PiStable-Protocol) | 81 | 8 | JavaScript | 0 | PiStable-Protocol is the foundational codebase for the PiStable project, designed to integrate Pi Coin from the Pi Network as a stablecoin pegged to $314.159. | 2025-02-13 |
 | 47 | [vyper-tutorial](https://github.com/curvefi/vyper-tutorial) | 80 | 12 | Vyper | 0 | Curve Vyper Tutorial : How to Build a $CRV-stablecoin | 2026-07-24 |
 | 48 | [CMTAT](https://github.com/CMTA/CMTAT) | 80 | 38 | JavaScript | 26 | Reference Solidity implementation of the CMTAT security token framework developed by CMTA to tokenize financial instruments. | 2026-07-24 |
-| 49 | [awesome-agentic-commerce](https://github.com/xpaysh/awesome-agentic-commerce) | 79 | 56 | - | 1 | Curated list of active protocols and implementations for agent-to-merchant commerce (ACP, UCP, AP2, x402, MPP, stablecoins). Every entry earns its line. | 2026-06-24 |
+| 49 | [awesome-agentic-commerce](https://github.com/xpaysh/awesome-agentic-commerce) | 79 | 56 | - | 2 | Curated list of active protocols and implementations for agent-to-merchant commerce (ACP, UCP, AP2, x402, MPP, stablecoins). Every entry earns its line. | 2026-06-24 |
 | 50 | [use-dai](https://github.com/apbendi/use-dai) | 77 | 26 | - | 1 | 💸 A curated, community compiled list of everywhere you can use the decentralized Dai stablecoin | 2019-12-17 |
 | 51 | [MicroStable](https://github.com/shafu0x/MicroStable) | 76 | 5 | Solidity | 0 | Most simple design of a stablecoin. | 2024-11-26 |
 | 52 | [qidao](https://github.com/0xlaozi/qidao) | 74 | 34 | Solidity | 2 | A CDP-based Polygon Stablecoin | 2022-03-02 |
