@@ -11,7 +11,7 @@ count: 1
 
 ---
 
-## 1. Mira Murati’s Inkling AI Model Review: Best Open-Source Model in the West
+## 1. Mira Murati’s Inkling AI Model Review: Best Open-Weights Model in the West
 
 **Author:** Jose Antonio Lanz  
 **Published:** 7/26/2026, 2:01:03 PM  
