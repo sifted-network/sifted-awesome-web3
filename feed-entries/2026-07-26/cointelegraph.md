@@ -25,7 +25,7 @@ WEMIX suspended bridges, liquidity-pool trading and several services after an at
 
 ## 2. Here’s what happened in crypto today
 
-**Author:** Cointelegraph by Robert Lakin  
+**Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/26/2026, 9:30:00 PM  
 **Categories:** Latest News  
 
