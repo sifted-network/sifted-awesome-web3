@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-07-27"
 date: "2026-07-27"
 source: "Cointelegraph"
-count: 13
+count: 18
 ---
 
 # Cointelegraph - 2026-07-27
 
-13 items collected.
+18 items collected.
 
 ---
 
-## 1. Hong Kong crypto giant HashKey merges regional exchange into one
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Robert Lakin  
+**Published:** 7/27/2026, 6:51:58 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Securitize Capital becomes SEC-registered investment adviser
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/27/2026, 6:41:30 PM  
+**Categories:** Latest News  
+
+The registration expands Securitize’s regulated platform for tokenized assets, adding investment advisory services to its institutional offering.
+
+📖 [Read original article](https://cointelegraph.com/news/securitize-becomes-sec-registered-investment-adviser-through-capital-unit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/27/2026, 4:44:03 PM  
+**Categories:** Latest News  
+
+The certification could expand access to Tether’s gold-backed token among Islamic financial institutions and investors seeking Shariah-compliant exposure to physical gold.
+
+📖 [Read original article](https://cointelegraph.com/news/tether-xaut-gold-token-receives-shariah-certification-islamic-finance-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Kraken parent Payward acquires Magic Labs’ wallet business
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/27/2026, 4:40:39 PM  
+**Categories:** Latest News  
+
+The deal brings wallet technology to Payward’s enterprise platform, potentially reducing the number of infrastructure providers businesses need to integrate with.
+
+📖 [Read original article](https://cointelegraph.com/news/kraken-parent-payward-acquires-magic-labs-wallet-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Bitcoin price eyes $66K as US stocks rise on Iran-strike pause
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/27/2026, 2:51:26 PM  
+**Categories:** Markets  
+
+Bitcoin copied US stocks as relief over end of US-Iran strikes spread to risk assets at the start of the US trading session.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-eyes-66k-as-us-stocks-rise-on-iran-strike-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Hong Kong crypto giant HashKey merges regional exchange into one
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 7/27/2026, 1:41:44 PM  
@@ -23,7 +83,7 @@ Hong Kong’s HashKey will unify its crypto exchange branches, with users from i
 
 ---
 
-## 2. Rate path still divides investors: Five things to know in Bitcoin this week
+## 7. Rate path still divides investors: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/27/2026, 1:31:07 PM  
@@ -35,7 +95,7 @@ Bitcoin traders prepared to navigate a slew of volatility catalysts as US inflat
 
 ---
 
-## 3. Binance disappears from Google Play in certain EU countries
+## 8. Binance disappears from Google Play in certain EU countries
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/27/2026, 1:24:17 PM  
@@ -47,7 +107,7 @@ Binance’s Android app is unavailable on Google Play in some EU markets amid sc
 
 ---
 
-## 4. USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents
+## 9. USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 7/27/2026, 1:08:55 PM  
@@ -59,7 +119,7 @@ IBM’s blockchain portfolio includes more than 680 patent families and nearly 1
 
 ---
 
-## 5. Strategy sells MSTR shares, buys back $25M in STRC preferred stock
+## 10. Strategy sells MSTR shares, buys back $25M in STRC preferred stock
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/27/2026, 12:34:36 PM  
@@ -71,7 +131,7 @@ Strategy raised $544.5 million through MSTR stock sales as it repurchased $25 mi
 
 ---
 
-## 6. BNY Mellon unit joins MiCA register as ESMA adds 15 providers
+## 11. BNY Mellon unit joins MiCA register as ESMA adds 15 providers
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/27/2026, 10:38:09 AM  
@@ -83,7 +143,7 @@ BNY Mellon’s European subsidiary joined the MiCA register as ESMA added 15 CAS
 
 ---
 
-## 7. Brazilian police bust cocaine traffickers in crypto-linked transnational probe
+## 12. Brazilian police bust cocaine traffickers in crypto-linked transnational probe
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 7/27/2026, 9:29:49 AM  
@@ -95,7 +155,7 @@ Brazilian police suspect the group of shipping around 6.5 metric tons of cocaine
 
 ---
 
-## 8. Coinbase CEO touts agentic finance as Base tops 100M AI payments
+## 13. Coinbase CEO touts agentic finance as Base tops 100M AI payments
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/27/2026, 9:01:05 AM  
@@ -107,7 +167,7 @@ Coinbase CEO Brian Armstrong says AI agents will expand crypto adoption, pointin
 
 ---
 
-## 9. Triple-A confirms treasury-wallet breach after losses reach $11.8M
+## 14. Triple-A confirms treasury-wallet breach after losses reach $11.8M
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/27/2026, 5:15:54 AM  
@@ -119,7 +179,7 @@ The stablecoin payments company said client funds were unaffected and that the f
 
 ---
 
-## 10. BitMart withdrawals appear to slow following wind-down announcement
+## 15. BitMart withdrawals appear to slow following wind-down announcement
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/27/2026, 4:34:44 AM  
@@ -131,7 +191,7 @@ Users reported withdrawal delays and freeze notices as wallets attributed to Bit
 
 ---
 
-## 11. Garden Finance disables app as Blockaid reports $450,000 exploit
+## 16. Garden Finance disables app as Blockaid reports $450,000 exploit
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/27/2026, 1:58:54 AM  
@@ -143,7 +203,7 @@ Garden Finance said no user funds or smart contracts were affected after an atta
 
 ---
 
-## 12. Storj files for bankruptcy, explores equity path for tokenholders
+## 17. Storj files for bankruptcy, explores equity path for tokenholders
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/27/2026, 1:01:43 AM  
@@ -155,7 +215,7 @@ The decentralized storage provider says its network will continue operating duri
 
 ---
 
-## 13. CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26
+## 18. CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 7/27/2026, 12:03:44 AM  
