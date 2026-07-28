@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-07-27"
 date: "2026-07-27"
 source: "Cointelegraph"
-count: 18
+count: 21
 ---
 
 # Cointelegraph - 2026-07-27
 
-18 items collected.
+21 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. New York AG warns CLARITY Act could weaken state crypto enforcement
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 7/27/2026, 10:55:44 PM  
+**Categories:** Latest News  
+
+New York Attorney General Letitia James said the federal crypto market structure bill could restrict state regulators and urged Congress to impose stronger consumer protections on digital asset platforms.
+
+📖 [Read original article](https://cointelegraph.com/news/new-york-ag-clarity-act-state-crypto-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Cross River to enable P2P payments, banking services for X Money
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/27/2026, 9:05:05 PM  
+**Categories:** Latest News  
+
+The banking-as-a-service provider will power X Money’s peer-to-peer payments, FDIC-insured accounts and Visa debit cards as the platform expands its financial services.
+
+📖 [Read original article](https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Bitmine keeps buying Ether as ETH outperforms Bitcoin
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/27/2026, 7:22:59 PM  
+**Categories:** Latest News  
+
+The company added nearly 10,000 ETH over the past week, bringing its holdings to 5.79 million Ether, about 85% of which is staked through its validator operations.
+
+📖 [Read original article](https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 7/27/2026, 6:51:58 PM  
@@ -23,7 +59,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Securitize Capital becomes SEC-registered investment adviser
+## 5. Securitize Capital becomes SEC-registered investment adviser
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/27/2026, 6:41:30 PM  
@@ -35,7 +71,7 @@ The registration expands Securitize’s regulated platform for tokenized assets,
 
 ---
 
-## 3. Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access
+## 6. Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/27/2026, 4:44:03 PM  
@@ -47,7 +83,7 @@ The certification could expand access to Tether’s gold-backed token among Isla
 
 ---
 
-## 4. Kraken parent Payward acquires Magic Labs’ wallet business
+## 7. Kraken parent Payward acquires Magic Labs’ wallet business
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/27/2026, 4:40:39 PM  
@@ -59,7 +95,7 @@ The deal brings wallet technology to Payward’s enterprise platform, potentiall
 
 ---
 
-## 5. Bitcoin price eyes $66K as US stocks rise on Iran-strike pause
+## 8. Bitcoin price eyes $66K as US stocks rise on Iran-strike pause
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/27/2026, 2:51:26 PM  
@@ -71,7 +107,7 @@ Bitcoin copied US stocks as relief over end of US-Iran strikes spread to risk as
 
 ---
 
-## 6. Hong Kong crypto giant HashKey merges regional exchange into one
+## 9. Hong Kong crypto giant HashKey merges regional exchange into one
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 7/27/2026, 1:41:44 PM  
@@ -83,7 +119,7 @@ Hong Kong’s HashKey will unify its crypto exchange branches, with users from i
 
 ---
 
-## 7. Rate path still divides investors: Five things to know in Bitcoin this week
+## 10. Rate path still divides investors: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/27/2026, 1:31:07 PM  
@@ -95,7 +131,7 @@ Bitcoin traders prepared to navigate a slew of volatility catalysts as US inflat
 
 ---
 
-## 8. Binance disappears from Google Play in certain EU countries
+## 11. Binance disappears from Google Play in certain EU countries
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/27/2026, 1:24:17 PM  
@@ -107,7 +143,7 @@ Binance’s Android app is unavailable on Google Play in some EU markets amid sc
 
 ---
 
-## 9. USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents
+## 12. USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 7/27/2026, 1:08:55 PM  
@@ -119,7 +155,7 @@ IBM’s blockchain portfolio includes more than 680 patent families and nearly 1
 
 ---
 
-## 10. Strategy sells MSTR shares, buys back $25M in STRC preferred stock
+## 13. Strategy sells MSTR shares, buys back $25M in STRC preferred stock
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/27/2026, 12:34:36 PM  
@@ -131,7 +167,7 @@ Strategy raised $544.5 million through MSTR stock sales as it repurchased $25 mi
 
 ---
 
-## 11. BNY Mellon unit joins MiCA register as ESMA adds 15 providers
+## 14. BNY Mellon unit joins MiCA register as ESMA adds 15 providers
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/27/2026, 10:38:09 AM  
@@ -143,7 +179,7 @@ BNY Mellon’s European subsidiary joined the MiCA register as ESMA added 15 CAS
 
 ---
 
-## 12. Brazilian police bust cocaine traffickers in crypto-linked transnational probe
+## 15. Brazilian police bust cocaine traffickers in crypto-linked transnational probe
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 7/27/2026, 9:29:49 AM  
@@ -155,7 +191,7 @@ Brazilian police suspect the group of shipping around 6.5 metric tons of cocaine
 
 ---
 
-## 13. Coinbase CEO touts agentic finance as Base tops 100M AI payments
+## 16. Coinbase CEO touts agentic finance as Base tops 100M AI payments
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/27/2026, 9:01:05 AM  
@@ -167,7 +203,7 @@ Coinbase CEO Brian Armstrong says AI agents will expand crypto adoption, pointin
 
 ---
 
-## 14. Triple-A confirms treasury-wallet breach after losses reach $11.8M
+## 17. Triple-A confirms treasury-wallet breach after losses reach $11.8M
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/27/2026, 5:15:54 AM  
@@ -179,7 +215,7 @@ The stablecoin payments company said client funds were unaffected and that the f
 
 ---
 
-## 15. BitMart withdrawals appear to slow following wind-down announcement
+## 18. BitMart withdrawals appear to slow following wind-down announcement
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/27/2026, 4:34:44 AM  
@@ -191,7 +227,7 @@ Users reported withdrawal delays and freeze notices as wallets attributed to Bit
 
 ---
 
-## 16. Garden Finance disables app as Blockaid reports $450,000 exploit
+## 19. Garden Finance disables app as Blockaid reports $450,000 exploit
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/27/2026, 1:58:54 AM  
@@ -203,7 +239,7 @@ Garden Finance said no user funds or smart contracts were affected after an atta
 
 ---
 
-## 17. Storj files for bankruptcy, explores equity path for tokenholders
+## 20. Storj files for bankruptcy, explores equity path for tokenholders
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/27/2026, 1:01:43 AM  
@@ -215,7 +251,7 @@ The decentralized storage provider says its network will continue operating duri
 
 ---
 
-## 18. CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26
+## 21. CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 7/27/2026, 12:03:44 AM  
