@@ -2,16 +2,52 @@
 title: "The Block - 2026-07-28"
 date: "2026-07-28"
 source: "The Block"
-count: 3
+count: 6
 ---
 
 # The Block - 2026-07-28
 
-3 items collected.
+6 items collected.
 
 ---
 
-## 1. Judge blocks Minnesota from enforcing prediction market ban in win for Kalshi, Polymarket
+## 1. Core Scientific ties its AI pivot to AMD in multi-gigawatt infrastructure deal
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 7/28/2026, 1:36:11 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Deals, Infrastructure, Markets, Web3, AI, Mining, Mining Companies  
+
+Core Scientific and AMD partner on 500 MW of U.S. AI data-center capacity from 2027, scalable to 2.5 GW, with warrants to buy CORZ stock.
+
+📖 [Read original article](https://www.theblock.co/post/409887/core-scientific-ties-ai-pivot-amd-multi-gigawatt-infrastructure-deal?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Russia’s central bank drafts first rules for ‘organized’ crypto trading
+
+**Author:** Brian Danga  
+**Published:** 7/28/2026, 1:22:21 PM  
+**Categories:** Policy, Regulation  
+
+The Bank of Russia drafted rules establishing organized trading, equity requirements, and digital depositories for digital asset markets.
+
+📖 [Read original article](https://www.theblock.co/post/409877/russias-central-bank-drafts-first-rules-for-organized-crypto-trading?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. 1inch launches Aqua publicly, a shared liquidity layer for DeFi across 13 chains
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 7/28/2026, 12:19:48 PM  
+**Categories:** Crypto Ecosystems, DeFi, Markets  
+
+1inch launched Aqua publicly across 13 EVM chains, with a 10M 1INCH incentive program for shared, self-custodial DeFi liquidity provisioning.
+
+📖 [Read original article](https://www.theblock.co/post/409866/1inch-launches-aqua-publicly-a-shared-liquidity-layer-for-defi-across-13-chains?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Judge blocks Minnesota from enforcing prediction market ban in win for Kalshi, Polymarket
 
 **Author:** Timmy Shen  
 **Published:** 7/28/2026, 7:22:20 AM  
@@ -23,7 +59,7 @@ A federal judge issued a preliminary injunction on Monday, blocking Minnesota fr
 
 ---
 
-## 2. What Is KuCoin?
+## 5. What Is KuCoin?
 
 **Author:** The Block Research  
 **Published:** 7/28/2026, 5:14:22 AM  
@@ -35,7 +71,7 @@ KuCoin is a global cryptocurrency exchange where users can trade, earn, spend, a
 
 ---
 
-## 3. What Is a Digital Commodity?
+## 6. What Is a Digital Commodity?
 
 **Author:** The Block Research  
 **Published:** 7/28/2026, 1:55:46 AM  
