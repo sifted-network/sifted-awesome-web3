@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-27"
 date: "2026-07-27"
 source: "CoinDesk"
-count: 21
+count: 13
 ---
 
 # CoinDesk - 2026-07-27
 
-21 items collected.
+13 items collected.
 
 ---
 
@@ -164,101 +164,5 @@ The license broadens the BlackRock tokenization partner's offering as regulators
 Around-the-clock crypto markets are forcing Wall Street to reevaluate one of its oldest assumptions: that weekends are for waiting.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/27/crypto-is-rewriting-how-wall-street-traders-spend-their-weekends)
-
----
-
-## 14. Bitmine buys more ether as Tom Lee says rising ETH/BTC ratio points to stronger crypto prices
-
-**Author:** Krisztian Sandor  
-**Published:** 7/27/2026, 12:55:57 PM  
-**Categories:** Finance, Ethereum News, Digital Asset Treasury, News  
-
-The Ethereum treasury company added nearly 10,000 ETH while expanding its stock buyback, citing ether outperforming bitcoin is sending a bullish signal.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/27/bitmine-buys-more-ether-as-tom-lee-says-rising-eth-btc-ratio-points-to-stronger-crypto-prices)
-
----
-
-## 15. Circle buys nearly 1,000 blockchain patents from IBM
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/27/2026, 12:47:04 PM  
-**Categories:** Finance, Circle, News  
-
-The portfolio covers blockchain technology, banking, insurance, and cloud security, though the financial terms of the deal were not disclosed.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/27/circle-buys-nearly-1-000-blockchain-patents-from-ibm)
-
----
-
-## 16. Michael Saylor's Strategy boosted cash reserve to $3.75 billion, repurchased $25 million of STRC
-
-**Author:** Stephen Alpher  
-**Published:** 7/27/2026, 12:12:54 PM  
-**Categories:** Markets, News  
-
-The company last week raised $544.5 million in cash via sales of its common stock.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/27/michael-saylor-s-strategy-boosted-cash-reserve-to-usd3-75-billion)
-
----
-
-## 17. Bitcoin options traders are dropping their hedges going into the Fed meeting
-
-**Author:** Shaurya Malwa  
-**Published:** 7/27/2026, 11:53:18 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-The put/call ratio has fallen to about 0.52 from 0.76 in late June, and one-week downside protection has collapsed in price. The options market is positioned for a quiet week that contains an FOMC decision.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/27/bitcoin-options-traders-are-dropping-their-hedges-going-into-the-fed-meeting)
-
----
-
-## 18. Ballooning U.S. debt sends investors to bitcoin, gold to shelter from dollar devaluation
-
-**Author:** Omkar Godbole  
-**Published:** 7/27/2026, 11:15:00 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for July 27, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/27/ballooning-u-s-debt-sends-investors-to-bitcoin-gold-to-shelter-from-dollar-devaluation)
-
----
-
-## 19. Bitcoin ETFs post third straight weekly inflows despite $465 million in late-week losses
-
-**Author:** Jamie Crawley  
-**Published:** 7/27/2026, 11:04:39 AM  
-**Categories:** Markets, Bitcoin News, ETFs, News  
-
-The vast majority of the activity was concentrated in BlackRock’s IBIT product accounting for nearly $415 million of the outflows.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/27/bitcoin-etfs-record-third-consecutive-weekly-inflows-despite-losses-of-usd465-million-to-end-week)
-
----
-
-## 20. Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI
-
-**Author:** Olivier Acuna  
-**Published:** 7/27/2026, 10:39:22 AM  
-**Categories:** Finance, Artificial Intelligence, Coinbase, News  
-
-Armstrong said blockchain technology acts as a general-purpose infrastructure that will underpin future automation rather than competing with it.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/27/coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai)
-
----
-
-## 21. Crypto steadies as Iran-U.S. pause sends oil tumbling, lifts risk assets
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 7/27/2026, 10:35:04 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Brent crude plunged 7% after the U.S. and Iran paused Strait of Hormuz strikes, lifting equities and DeFi tokens while bitcoin held near $65,000 ahead of a pivotal Fed decision Wednesday.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/27/crypto-steadies-as-iran-u-s-pause-sends-oil-tumbling-lifts-risk-assets)
 
 ---
