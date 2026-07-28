@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-27"
 date: "2026-07-27"
 source: "CoinDesk"
-count: 25
+count: 21
 ---
 
 # CoinDesk - 2026-07-27
 
-25 items collected.
+21 items collected.
 
 ---
 
@@ -260,53 +260,5 @@ Armstrong said blockchain technology acts as a general-purpose infrastructure th
 Brent crude plunged 7% after the U.S. and Iran paused Strait of Hormuz strikes, lifting equities and DeFi tokens while bitcoin held near $65,000 ahead of a pivotal Fed decision Wednesday.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/27/crypto-steadies-as-iran-u-s-pause-sends-oil-tumbling-lifts-risk-assets)
-
----
-
-## 22. Interest rates in U.S., U.K., Japan and Coinbase, Strategy earnings: Crypto Week Ahead
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/27/2026, 9:43:58 AM  
-**Categories:** Markets, week ahead, News  
-
-Your look at what's coming in the week starting July 27.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/27/interest-rates-in-u-s-u-k-japan-and-coinbase-strategy-earnings-crypto-week-ahead)
-
----
-
-## 23. Cloud data firm Storj files for Chapter 11, extending a week of crypto failures. Token slides 16%
-
-**Author:** Shaurya Malwa  
-**Published:** 7/27/2026, 9:15:43 AM  
-**Categories:** Finance, News  
-
-The decentralized data storage company says operations continue and proposes that token holders take equity in the restructured business — an unusual arrangement in bankruptcy.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/27/cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-token-slides-16)
-
----
-
-## 24. Live updates: Bitcoin gives up early gains, holds near $65,000 as AI stocks skid
-
-**Author:** Shaurya Malwa,Omkar Godbole,Helene Braun,Stephen Alpher  
-**Published:** 7/27/2026, 6:43:34 AM  
-**Categories:** Markets, Live News, live_news  
-
-CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500)
-
----
-
-## 25. Crypto is the canary in the coal mine for the quantum computing threat, experts say
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 7/27/2026, 6:37:54 AM  
-**Categories:** Markets, quantum computing, Bitcoin News, News  
-
-As estimates for “Q-Day” move closer, experts warn that crypto’s slow governance, not its cryptography, may be the biggest obstacle to defending against quantum attacks.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say)
 
 ---
