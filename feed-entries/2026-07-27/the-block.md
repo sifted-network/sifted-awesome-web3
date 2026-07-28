@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-27"
 date: "2026-07-27"
 source: "The Block"
-count: 16
+count: 12
 ---
 
 # The Block - 2026-07-27
 
-16 items collected.
+12 items collected.
 
 ---
 
@@ -152,53 +152,5 @@ Benchmark reiterated its $570 Strategy target, citing disciplined capital alloca
 Strategy bought no bitcoin for a fifth straight week, while raising its USD reserve to $3.75 billion and selling $544.5M in MSTR.
 
 📖 [Read original article](https://www.theblock.co/post/409721/strategy-extends-bitcoin-pause-to-five-weeks-sells-544-5-million-in-mstr-as-usd-reserve-hits-3-75-billion?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Kraken parent Payward acquires Magic Labs’ embedded wallet business
-
-**Author:** Brian Danga  
-**Published:** 7/27/2026, 12:15:00 PM  
-**Categories:** Companies, Deals  
-
-Magic Labs is selling its wallet business to Payward and rebranding as Newton Labs to focus on onchain finance infrastructure.
-
-📖 [Read original article](https://www.theblock.co/post/409705/kraken-parent-payward-acquires-magic-labs-embedded-wallet-business?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/27/2026, 11:31:27 AM  
-**Categories:** Companies, Crypto Ecosystems, Web3, File Storage  
-
-STORJ dropped 19% to $0.06 after Storj Labs filed voluntary Chapter 11 on July 26 to resolve legacy liabilities.
-
-📖 [Read original article](https://www.theblock.co/post/409712/storj-token-falls-20-as-decentralized-storage-firm-files-for-chapter-11-bankruptcy-amid-crypto-shutdown-wave?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. SparkKitty malware hidden in mobile apps scans photos for crypto wallet seed phrases
-
-**Author:** Brian Danga  
-**Published:** 7/27/2026, 11:30:05 AM  
-**Categories:** Crypto Ecosystems, DeFi  
-
-Check Point detailed SparkKitty, malware hidden in mobile apps that scans photos to steal cryptocurrency wallet recovery phrases.
-
-📖 [Read original article](https://www.theblock.co/post/409716/sparkkitty-malware-hidden-in-mobile-apps-scans-photos-for-crypto-wallet-seed-phrases?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. South Korea’s KB Kookmin Bank to launch cross-border payment service on JPMorgan’s Kinexys: report
-
-**Author:** Timmy Shen  
-**Published:** 7/27/2026, 6:38:09 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi  
-
-The largest bank in South Korea plans to launch a blockchain-based cross-border corporate payments service next month, according to Yonhap.
-
-📖 [Read original article](https://www.theblock.co/post/409702/kb-kookmin-bank-payment-jpmorgans-kinexys?utm_source=rss&utm_medium=rss)
 
 ---
