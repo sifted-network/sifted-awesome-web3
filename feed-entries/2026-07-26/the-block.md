@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-26"
 date: "2026-07-26"
 source: "The Block"
-count: 3
+count: 2
 ---
 
 # The Block - 2026-07-26
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Triple-A said it is investigating and that customer funds are not affected, thou
 Strategy holds 843,775 BTC at an average cost of $75,476, leaving the position roughly $9.3 billion underwater with bitcoin near $64,600.
 
 📖 [Read original article](https://www.theblock.co/post/409675/michael-saylor-teases-another-color-after-four-straight-weeks-without-a-strategy-bitcoin-buy?utm_source=rss&utm_medium=rss)
-
----
-
-## 3. BitMart to wind down trading platform as global CEO says he was not consulted
-
-**Author:** Zack Abrams  
-**Published:** 7/26/2026, 2:55:55 PM  
-**Categories:** Companies  
-
-BitMart's global CEO said the firm told him on July 24 that his employment was ending and that he learned of the closure when it went public.
-
-📖 [Read original article](https://www.theblock.co/post/409670/bitmart-to-wind-down-trading-platform-as-global-ceo-says-he-was-not-consulted?utm_source=rss&utm_medium=rss)
 
 ---
