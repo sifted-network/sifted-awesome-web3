@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-26"
 date: "2026-07-26"
 source: "Cointelegraph"
-count: 7
+count: 3
 ---
 
 # Cointelegraph - 2026-07-26
 
-7 items collected.
+3 items collected.
 
 ---
 
@@ -44,53 +44,5 @@ For the second time this year, the regulator told prediction markets to stop iss
 Russia’s biggest bank plans to create cryptocurrency trading infrastructure by Dec. 1 as the country is set to establish rules for market participants while allowing crypto assets to be used in foreign trade operations.
 
 📖 [Read original article](https://cointelegraph.com/news/russias-sberbank-to-launch-crypto-trading-infrastructure-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/26/2026, 1:06:00 PM  
-**Categories:** Markets  
-
-Dormant BTC activity fell to its lowest level since Q3 2022, suggesting long-term holders have slowed distribution after heavy profit-taking.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-og-dormant-btc-movement-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/26/2026, 10:23:00 AM  
-**Categories:** Latest News  
-
-KB Kookmin Bank will use JPMorgan’s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. BitMart to wind down exchange, end trading by Aug. 26
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/26/2026, 7:13:00 AM  
-**Categories:** Latest News  
-
-Crypto exchange BitMart said it will wind down operations after its BMX token plunged and users reported withdrawal delays, with platform operations set to end in January.
-
-📖 [Read original article](https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Binance ‘red teams’ its own staff every month to keep hackers out
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 7/26/2026, 2:01:00 AM  
-**Categories:** Latest News  
-
-Binance regularly tests its employees for security hygiene, as social engineering is becoming a major source of industry breaches.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
