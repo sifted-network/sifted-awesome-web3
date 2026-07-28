@@ -2,16 +2,40 @@
 title: "The Block - 2026-07-27"
 date: "2026-07-27"
 source: "The Block"
-count: 15
+count: 17
 ---
 
 # The Block - 2026-07-27
 
-15 items collected.
+17 items collected.
 
 ---
 
-## 1. Ethereum, Solana and Avalanche get busier and cheaper even as token prices fall: Bitwise
+## 1. NFL urges CFTC to strengthen rules on sports prediction markets: report
+
+**Author:** Daniel Kuhn  
+**Published:** 7/27/2026, 9:57:24 PM  
+**Categories:** Companies, Policy, Regulation, CFTC  
+
+The NFL responded to the CFTC’s recent draft rulemaking calling for stricter prediction markets oversight, including age restrictions.
+
+📖 [Read original article](https://www.theblock.co/post/409846/nfl-urges-cftc-to-strengthen-rules-on-sports-prediction-markets-report?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. NY Attorney General Letitia James warns Clarity Act would ‘dilute’ states’ ability to go after fraud as pressure mounts
+
+**Author:** Sarah Wynn  
+**Published:** 7/27/2026, 8:31:57 PM  
+**Categories:** Legal, People, Policy, Regulation, U.S. Policymaking, Anti-Money Laundering, Donald Trump, Senate Agriculture Committee, Senate Banking Committee  
+
+NYAG Letitia James urged Congress to tighten a crypto bill, warning that it would weaken states' ability to police the industry.
+
+📖 [Read original article](https://www.theblock.co/post/409831/ny-attorney-general-letitia-james-warns-clarity-act-dilute-states-ability-fraud-pressure-mounts?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Ethereum, Solana and Avalanche get busier and cheaper even as token prices fall: Bitwise
 
 **Author:** RT Watson  
 **Published:** 7/27/2026, 7:00:16 PM  
@@ -23,7 +47,7 @@ Although activity rose, revenues declined and ETH, SOL and AVAX are all down ove
 
 ---
 
-## 2. Securitize expands regulated platform with SEC adviser license
+## 4. Securitize expands regulated platform with SEC adviser license
 
 **Author:** Daniel Kuhn  
 **Published:** 7/27/2026, 6:08:44 PM  
@@ -35,7 +59,7 @@ This will enable Securitize to work more closely with asset managers and institu
 
 ---
 
-## 3. TD Cowen cuts David Bailey’s Nakamoto target 58% after bitcoin outlook reset
+## 5. TD Cowen cuts David Bailey’s Nakamoto target 58% after bitcoin outlook reset
 
 **Author:** Kyle Baird  
 **Published:** 7/27/2026, 5:10:25 PM  
@@ -47,7 +71,7 @@ The firm updated its valuation for David Bailey-led Nakamoto, citing pressure fr
 
 ---
 
-## 4. Ondo launches new execution network, calling it ‘evolution’ of Ondo Chain
+## 6. Ondo launches new execution network, calling it ‘evolution’ of Ondo Chain
 
 **Author:** Yogita Khatri  
 **Published:** 7/27/2026, 4:00:03 PM  
@@ -59,7 +83,7 @@ CEO Ian De Bode said the Ondo Network is the "evolution" of the company's earlie
 
 ---
 
-## 5. Metaplanet’s brokerage deal ‘badly undersells’ plans for bitcoin-backed ‘Bitbonds,’ Benchmark says
+## 7. Metaplanet’s brokerage deal ‘badly undersells’ plans for bitcoin-backed ‘Bitbonds,’ Benchmark says
 
 **Author:** Kyle Baird  
 **Published:** 7/27/2026, 3:06:52 PM  
@@ -71,7 +95,7 @@ Metaplanet envisions launching 4% to 6% bitcoin-backed bonds before eventually m
 
 ---
 
-## 6. Lido begins consolidating $16 billion worth of staked ETH as Curated Module v2 rolls out
+## 8. Lido begins consolidating $16 billion worth of staked ETH as Curated Module v2 rolls out
 
 **Author:** Daniel Kuhn  
 **Published:** 7/27/2026, 3:03:20 PM  
@@ -83,7 +107,7 @@ Ethereum staking protocol Lido has begun consolidating more than 8 million ETH o
 
 ---
 
-## 7. Bitmine adds nearly 10,000 ETH while repurchasing 6.1 million common shares
+## 9. Bitmine adds nearly 10,000 ETH while repurchasing 6.1 million common shares
 
 **Author:** RT Watson  
 **Published:** 7/27/2026, 2:22:36 PM  
@@ -95,7 +119,7 @@ The company has repurchased 11.6 million shares of common stock as part of its $
 
 ---
 
-## 8. IBM portfolio acquisition makes Circle the largest US blockchain patent holder
+## 10. IBM portfolio acquisition makes Circle the largest US blockchain patent holder
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/27/2026, 2:19:44 PM  
@@ -107,7 +131,7 @@ Circle acquired IBM's blockchain patent portfolio of 680+ patent families and ne
 
 ---
 
-## 9. Benchmark reiterates $570 Strategy target, says cash reserve strengthens bitcoin acquisition plan
+## 11. Benchmark reiterates $570 Strategy target, says cash reserve strengthens bitcoin acquisition plan
 
 **Author:** Brian Danga  
 **Published:** 7/27/2026, 1:37:59 PM  
@@ -119,7 +143,7 @@ Benchmark reiterated its $570 Strategy target, citing disciplined capital alloca
 
 ---
 
-## 10. Strategy extends bitcoin pause to five weeks, sells $544.5 million in MSTR as USD reserve hits $3.75 billion
+## 12. Strategy extends bitcoin pause to five weeks, sells $544.5 million in MSTR as USD reserve hits $3.75 billion
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/27/2026, 12:23:19 PM  
@@ -131,7 +155,7 @@ Strategy bought no bitcoin for a fifth straight week, while raising its USD rese
 
 ---
 
-## 11. Kraken parent Payward acquires Magic Labs’ embedded wallet business
+## 13. Kraken parent Payward acquires Magic Labs’ embedded wallet business
 
 **Author:** Brian Danga  
 **Published:** 7/27/2026, 12:15:00 PM  
@@ -143,7 +167,7 @@ Magic Labs is selling its wallet business to Payward and rebranding as Newton La
 
 ---
 
-## 12. STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave
+## 14. STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/27/2026, 11:31:27 AM  
@@ -155,7 +179,7 @@ STORJ dropped 19% to $0.06 after Storj Labs filed voluntary Chapter 11 on July 2
 
 ---
 
-## 13. SparkKitty malware hidden in mobile apps scans photos for crypto wallet seed phrases
+## 15. SparkKitty malware hidden in mobile apps scans photos for crypto wallet seed phrases
 
 **Author:** Brian Danga  
 **Published:** 7/27/2026, 11:30:05 AM  
@@ -167,7 +191,7 @@ Check Point detailed SparkKitty, malware hidden in mobile apps that scans photos
 
 ---
 
-## 14. South Korea’s KB Kookmin Bank to launch cross-border payment service on JPMorgan’s Kinexys: report
+## 16. South Korea’s KB Kookmin Bank to launch cross-border payment service on JPMorgan’s Kinexys: report
 
 **Author:** Timmy Shen  
 **Published:** 7/27/2026, 6:38:09 AM  
@@ -179,7 +203,7 @@ The largest bank in South Korea plans to launch a blockchain-based cross-border 
 
 ---
 
-## 15. The Funding: Are crypto vaults funds and curators fund managers?
+## 17. The Funding: Are crypto vaults funds and curators fund managers?
 
 **Author:** Yogita Khatri  
 **Published:** 7/27/2026, 4:39:17 AM  
