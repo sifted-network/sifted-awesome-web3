@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-07-27"
 date: "2026-07-27"
 source: "CoinDesk"
-count: 24
+count: 25
 ---
 
 # CoinDesk - 2026-07-27
 
-24 items collected.
+25 items collected.
 
 ---
 
-## 1. Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow
+## 1. U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere
+
+**Author:** Jesse Hamilton  
+**Published:** 7/27/2026, 11:55:16 PM  
+**Categories:** Policy, Clarity Act, Regulation, News  
+
+The majority leader is pursuing floor time for unrelated bills as the crypto industry waits for its policy effort to get its chance for votes.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere)
+
+---
+
+## 2. Kalshi, Polymarket win pause against Minnesota's prediction market ban
+
+**Author:** Nikhilesh De  
+**Published:** 7/27/2026, 11:29:38 PM  
+**Categories:** Policy, Prediction Markets, News  
+
+A federal judge ruled that Minnesota's law criminalizing prediction markets would probably violate the federal Commodity Exchange Act.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/27/kalshi-polymarket-win-pause-against-minnesota-s-prediction-market-ban)
+
+---
+
+## 3. Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next
+
+**Author:** Krisztian Sandor  
+**Published:** 7/27/2026, 7:55:45 PM  
+**Categories:** Markets, Bitcoin News, Market Wrap, News  
+
+BTC held near $65,000 even as Nvidia and AI stocks fell sharply. This week's Fed decision could determine whether bitcoin finally breaks higher or revisits June's lows, analysts said.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next)
+
+---
+
+## 4. Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow
 
 **Author:** Helene Braun  
 **Published:** 7/27/2026, 6:00:00 PM  
@@ -23,7 +59,7 @@ Regulated perpetual futures are officially landing in the U.S., but while agile 
 
 ---
 
-## 2. Digital asset trading platform Uphold cuts 17% of global headcount as crypto winter bites
+## 5. Digital asset trading platform Uphold cuts 17% of global headcount as crypto winter bites
 
 **Author:** Will Canny  
 **Published:** 7/27/2026, 4:47:06 PM  
@@ -35,7 +71,7 @@ The crypto trading platform said the layoffs reflect a strategic shift toward it
 
 ---
 
-## 3. What are perps, anyway? Everything you need to know about crypto’s hottest trading instrument
+## 6. What are perps, anyway? Everything you need to know about crypto’s hottest trading instrument
 
 **Author:** Oliver Knight  
 **Published:** 7/27/2026, 3:00:00 PM  
@@ -47,7 +83,7 @@ Perps, which launched on BitMEX in 2016, have become one of the most traded fina
 
 ---
 
-## 4. Fanatics buys regulated exchange in bid to grow prediction markets business
+## 7. Fanatics buys regulated exchange in bid to grow prediction markets business
 
 **Author:** Helene Braun  
 **Published:** 7/27/2026, 2:46:10 PM  
@@ -59,7 +95,7 @@ The deal gives Fanatics control of its own prediction market infrastructure as e
 
 ---
 
-## 5. Cantor is advising crypto bank AMINA on path to potential public listing
+## 8. Cantor is advising crypto bank AMINA on path to potential public listing
 
 **Author:** Will Canny  
 **Published:** 7/27/2026, 2:36:30 PM  
@@ -71,7 +107,7 @@ The Swiss bank is exploring multiple paths to the public markets, though discuss
 
 ---
 
-## 6. Lido begins moving $16.5 billion in staked ether to cut validator count by a third
+## 9. Lido begins moving $16.5 billion in staked ether to cut validator count by a third
 
 **Author:** Olivier Acuna  
 **Published:** 7/27/2026, 2:00:00 PM  
@@ -83,7 +119,7 @@ The liquid staking protocol is consolidating 8 million ETH and requiring its pro
 
 ---
 
-## 7. Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack
+## 10. Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack
 
 **Author:** Jamie Crawley  
 **Published:** 7/27/2026, 1:32:16 PM  
@@ -95,7 +131,7 @@ Bitkub was the victim of a cyberattack in May 2021, which led to hacks stealing 
 
 ---
 
-## 8. Nvidia forms 37-member AI security alliance without OpenAI, Anthropic or Google
+## 11. Nvidia forms 37-member AI security alliance without OpenAI, Anthropic or Google
 
 **Author:** Shaurya Malwa  
 **Published:** 7/27/2026, 1:25:58 PM  
@@ -107,7 +143,7 @@ The chipmaker and 36 other companies say defenders need AI they can run themselv
 
 ---
 
-## 9. Securitize builds Wall Street credentials with SEC adviser license as tokenization expands
+## 12. Securitize builds Wall Street credentials with SEC adviser license as tokenization expands
 
 **Author:** Krisztian Sandor  
 **Published:** 7/27/2026, 1:00:00 PM  
@@ -119,7 +155,7 @@ The license broadens the BlackRock tokenization partner's offering as regulators
 
 ---
 
-## 10. Crypto is rewriting how Wall Street traders spend their weekends
+## 13. Crypto is rewriting how Wall Street traders spend their weekends
 
 **Author:** Aoyon Ashraf  
 **Published:** 7/27/2026, 1:00:00 PM  
@@ -131,7 +167,7 @@ Around-the-clock crypto markets are forcing Wall Street to reevaluate one of its
 
 ---
 
-## 11. Bitmine buys more ether as Tom Lee says rising ETH/BTC ratio points to stronger crypto prices
+## 14. Bitmine buys more ether as Tom Lee says rising ETH/BTC ratio points to stronger crypto prices
 
 **Author:** Krisztian Sandor  
 **Published:** 7/27/2026, 12:55:57 PM  
@@ -143,7 +179,7 @@ The Ethereum treasury company added nearly 10,000 ETH while expanding its stock 
 
 ---
 
-## 12. Circle buys nearly 1,000 blockchain patents from IBM
+## 15. Circle buys nearly 1,000 blockchain patents from IBM
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/27/2026, 12:47:04 PM  
@@ -155,7 +191,7 @@ The portfolio covers blockchain technology, banking, insurance, and cloud securi
 
 ---
 
-## 13. Michael Saylor's Strategy boosted cash reserve to $3.75 billion, repurchased $25 million of STRC
+## 16. Michael Saylor's Strategy boosted cash reserve to $3.75 billion, repurchased $25 million of STRC
 
 **Author:** Stephen Alpher  
 **Published:** 7/27/2026, 12:12:54 PM  
@@ -167,7 +203,7 @@ The company last week raised $544.5 million in cash via sales of its common stoc
 
 ---
 
-## 14. Bitcoin options traders are dropping their hedges going into the Fed meeting
+## 17. Bitcoin options traders are dropping their hedges going into the Fed meeting
 
 **Author:** Shaurya Malwa  
 **Published:** 7/27/2026, 11:53:18 AM  
@@ -179,7 +215,7 @@ The put/call ratio has fallen to about 0.52 from 0.76 in late June, and one-week
 
 ---
 
-## 15. Ballooning U.S. debt sends investors to bitcoin, gold to shelter from dollar devaluation
+## 18. Ballooning U.S. debt sends investors to bitcoin, gold to shelter from dollar devaluation
 
 **Author:** Omkar Godbole  
 **Published:** 7/27/2026, 11:15:00 AM  
@@ -191,7 +227,7 @@ Your day-ahead look for July 27, 2026
 
 ---
 
-## 16. Bitcoin ETFs post third straight weekly inflows despite $465 million in late-week losses
+## 19. Bitcoin ETFs post third straight weekly inflows despite $465 million in late-week losses
 
 **Author:** Jamie Crawley  
 **Published:** 7/27/2026, 11:04:39 AM  
@@ -203,7 +239,7 @@ The vast majority of the activity was concentrated in BlackRock’s IBIT product
 
 ---
 
-## 17. Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI
+## 20. Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI
 
 **Author:** Olivier Acuna  
 **Published:** 7/27/2026, 10:39:22 AM  
@@ -215,7 +251,7 @@ Armstrong said blockchain technology acts as a general-purpose infrastructure th
 
 ---
 
-## 18. Crypto steadies as Iran-U.S. pause sends oil tumbling, lifts risk assets
+## 21. Crypto steadies as Iran-U.S. pause sends oil tumbling, lifts risk assets
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 7/27/2026, 10:35:04 AM  
@@ -227,7 +263,7 @@ Brent crude plunged 7% after the U.S. and Iran paused Strait of Hormuz strikes, 
 
 ---
 
-## 19. Interest rates in U.S., U.K., Japan and Coinbase, Strategy earnings: Crypto Week Ahead
+## 22. Interest rates in U.S., U.K., Japan and Coinbase, Strategy earnings: Crypto Week Ahead
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/27/2026, 9:43:58 AM  
@@ -239,7 +275,7 @@ Your look at what's coming in the week starting July 27.
 
 ---
 
-## 20. Cloud data firm Storj files for Chapter 11, extending a week of crypto failures. Token slides 16%
+## 23. Cloud data firm Storj files for Chapter 11, extending a week of crypto failures. Token slides 16%
 
 **Author:** Shaurya Malwa  
 **Published:** 7/27/2026, 9:15:43 AM  
@@ -251,9 +287,9 @@ The decentralized data storage company says operations continue and proposes tha
 
 ---
 
-## 21. Live updates: Bitcoin gives up early gains as stocks reverse lower
+## 24. Live updates: Bitcoin gives up early gains, holds near $65,000 as AI stocks skid
 
-**Author:** Shaurya Malwa,Omkar Godbole,Helene Braun  
+**Author:** Shaurya Malwa,Omkar Godbole,Helene Braun,Stephen Alpher  
 **Published:** 7/27/2026, 6:43:34 AM  
 **Categories:** Markets, Live News, live_news  
 
@@ -263,7 +299,7 @@ CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating 
 
 ---
 
-## 22. Crypto is the canary in the coal mine for the quantum computing threat, experts say
+## 25. Crypto is the canary in the coal mine for the quantum computing threat, experts say
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 7/27/2026, 6:37:54 AM  
@@ -272,29 +308,5 @@ CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating 
 As estimates for “Q-Day” move closer, experts warn that crypto’s slow governance, not its cryptography, may be the biggest obstacle to defending against quantum attacks.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say)
-
----
-
-## 23. Bitcoin is back above $65,000 as U.S. and Iran hold fire. Oil drops 5%
-
-**Author:** Omkar Godbole  
-**Published:** 7/27/2026, 4:21:26 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-ETH outperforms BTC, hinting at potential altcoin rally, as the U.S. and Iran hold fire and oil drops.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/27/bitcoin-is-back-above-usd65-000-as-u-s-iran-hold-fire-oil-drops-5)
-
----
-
-## 24. South Korea trading giant puts receivables onchain in tokenization test with LG CNS
-
-**Author:** Krisztian Sandor  
-**Published:** 7/27/2026, 12:00:00 AM  
-**Categories:** Finance, Tokenization, Trade Finance, Exclusive, News  
-
-POSCO International and LG CNS is tapping Injective network to tokenize live commercial invoices, another sign blockchain rails are moving deeper into corporate finance.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns)
 
 ---
