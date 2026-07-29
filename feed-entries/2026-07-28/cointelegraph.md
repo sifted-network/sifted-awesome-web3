@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-28"
 date: "2026-07-28"
 source: "Cointelegraph"
-count: 13
+count: 9
 ---
 
 # Cointelegraph - 2026-07-28
 
-13 items collected.
+9 items collected.
 
 ---
 
@@ -59,19 +59,7 @@ The proposed cryptographic scheme aims to protect existing Bitcoin, Ethereum and
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/28/2026, 6:15:25 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Galaxy, MARA Holdings deepen Texas expansion with land acquisitions
+## 5. Galaxy, MARA Holdings deepen Texas expansion with land acquisitions
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/28/2026, 6:08:32 PM  
@@ -83,7 +71,7 @@ The crypto-focused companies announced separate acquisitions as demand for power
 
 ---
 
-## 7. Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street
+## 6. Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/28/2026, 4:27:46 PM  
@@ -95,7 +83,7 @@ Bitcoin and crypto dropped as contagion from a major Asia stock-market correctio
 
 ---
 
-## 8. Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations
+## 7. Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/28/2026, 4:20:57 PM  
@@ -107,7 +95,7 @@ Eligible US users can request IPO allocations, while customers in more than 110 
 
 ---
 
-## 9. Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates
+## 8. Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/28/2026, 3:47:00 PM  
@@ -119,7 +107,7 @@ Core Scientific reported strong second-quarter revenue growth as AI colocation b
 
 ---
 
-## 10. The real reason DeFi projects that survived 2022 crash are shutting down now
+## 9. The real reason DeFi projects that survived 2022 crash are shutting down now
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 7/28/2026, 1:30:00 PM  
@@ -128,41 +116,5 @@ Core Scientific reported strong second-quarter revenue growth as AI colocation b
 DeFi projects that survived the fallout from the Terra and FTX collapses in 2022 are dying out in 2026. But analysts say it’s not a case of industry consolidation — but the opposite.
 
 📖 [Read original article](https://cointelegraph.com/magazine/the-2022-bear-market-didnt-kill-these-defi-projects-what-changed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Markets eye Bank of Japan meeting on Friday as yen repeats 40-year US dollar lows
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/28/2026, 1:11:28 PM  
-**Categories:** Markets  
-
-Analysis warned of a repeat of the 2024 yen carry-trade unwind that pressured crypto markets ahead of the next Bank of Japan interest-rate meeting.
-
-📖 [Read original article](https://cointelegraph.com/markets/markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Ethereum, Solana led crypto hack losses in H1 2026: Blockaid
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/28/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-Blockaid found Ethereum remained the hardest-hit blockchain in H1 2026, while Solana replaced Arbitrum as the network with the second-highest losses, driven largely by key compromises.
-
-📖 [Read original article](https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. PayPal expands stablecoin push as crypto assets factor into Q2 results
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/28/2026, 12:07:51 PM  
-**Categories:** Markets  
-
-PayPal highlighted growth of stablecoins and AI-driven payment tools in Q2 while reporting $8.68 billion in revenue and an $81 million crypto-related earnings adjustment.
-
-📖 [Read original article](https://cointelegraph.com/markets/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
