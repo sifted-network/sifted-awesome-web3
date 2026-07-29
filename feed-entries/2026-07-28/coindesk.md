@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-07-28"
 date: "2026-07-28"
 source: "CoinDesk"
-count: 19
+count: 22
 ---
 
 # CoinDesk - 2026-07-28
 
-19 items collected.
+22 items collected.
 
 ---
 
-## 1. Wall Street veteran Don Wilson says regulators are getting perps all wrong
+## 1. Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first
+
+**Author:** Aoyon Ashraf  
+**Published:** 7/28/2026, 11:50:38 PM  
+**Categories:** Policy, Coinbase, Exclusive, News  
+
+Coinbase Canada's new CEO, Eric Richmond, says permanent rules, rather than temporary exemptions, are needed as the company pushes to expand into derivatives, tokenized assets and decentralized finance.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first)
+
+---
+
+## 2. 'Anything remotely dovish' from Fed could be good for bitcoin, says analyst
+
+**Author:** Krisztian Sandor  
+**Published:** 7/28/2026, 8:23:31 PM  
+**Categories:** Markets, Bitcoin News, Market Wrap, Federal Reserve, News  
+
+Traders are divided on whether the Fed will hike rates, but analysts said crypto may be less exposed than AI-driven tech stocks.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst)
+
+---
+
+## 3. Ondo drops tokenized asset blockchain plans for private, high-speed trading network
+
+**Author:** Krisztian Sandor  
+**Published:** 7/28/2026, 7:44:26 PM  
+**Categories:** Finance, Tokenization, Real World Assets, Derivatives, News  
+
+The new network powers Ondo's recently-launched perpetual futures platform and will eventually support trading across onchain financial assets.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/07/28/ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-network)
+
+---
+
+## 4. Wall Street veteran Don Wilson says regulators are getting perps all wrong
 
 **Author:** Helene Braun  
 **Published:** 7/28/2026, 5:23:35 PM  
@@ -23,7 +59,7 @@ DRW CEO Don Wilson says perpetual futures aren't inherently risky crypto gamblin
 
 ---
 
-## 2. BlackRock, Fidelity, other Wall Street giants back the Clarity Act
+## 5. BlackRock, Fidelity, other Wall Street giants back the Clarity Act
 
 **Author:** Helene Braun  
 **Published:** 7/28/2026, 4:08:19 PM  
@@ -35,7 +71,7 @@ BlackRock, Fidelity, Franklin Templeton, Goldman Sachs and SoFi have publicly en
 
 ---
 
-## 3. Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains
+## 6. Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains
 
 **Author:** Margaux Nijkerk  
 **Published:** 7/28/2026, 3:46:33 PM  
@@ -47,7 +83,7 @@ EthSystems, which spun out of the Ethereum Foundation earlier this month, is foc
 
 ---
 
-## 4. Russia outlines new digital depository rules ahead of fall crypto framework roll-out
+## 7. Russia outlines new digital depository rules ahead of fall crypto framework roll-out
 
 **Author:** Olivier Acuna  
 **Published:** 7/28/2026, 2:49:50 PM  
@@ -59,7 +95,7 @@ The central bank's draft rules require digital asset platforms to hold up to $2.
 
 ---
 
-## 5. Hyperliquid is taking crypto perps deep into DeFi’s ‘money LEGO’ land
+## 8. Hyperliquid is taking crypto perps deep into DeFi’s ‘money LEGO’ land
 
 **Author:** Ian Allison  
 **Published:** 7/28/2026, 2:49:01 PM  
@@ -71,7 +107,7 @@ Hyperliquid is capitalizing on the volume and depth of its order book by giving 
 
 ---
 
-## 6. Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates
+## 9. Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates
 
 **Author:** Shaurya Malwa  
 **Published:** 7/28/2026, 2:35:28 PM  
@@ -83,7 +119,7 @@ The upgrade retires Orchard, where a counterfeiting bug sat undetected for four 
 
 ---
 
-## 7. Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success
+## 10. Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success
 
 **Author:** Helene Braun  
 **Published:** 7/28/2026, 2:30:57 PM  
@@ -95,7 +131,7 @@ The asset manager is offering low-cost ETH and SOL exchange-traded products afte
 
 ---
 
-## 8. Core Scientific lands AMD AI deal as bitcoin mining operation winds down
+## 11. Core Scientific lands AMD AI deal as bitcoin mining operation winds down
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/28/2026, 12:46:05 PM  
@@ -107,7 +143,7 @@ The agreement accelerates Core Scientific’s pivot from bitcoin mining toward A
 
 ---
 
-## 9. Binance makes fighting crypto crime more difficult, says new report
+## 12. Binance makes fighting crypto crime more difficult, says new report
 
 **Author:** Olivier Acuna  
 **Published:** 7/28/2026, 12:24:02 PM  
@@ -119,7 +155,7 @@ The New York Times says a quiet change to Binance's compliance rules is forcing 
 
 ---
 
-## 10. Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges
+## 13. Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/28/2026, 11:59:17 AM  
@@ -131,7 +167,7 @@ A lawsuit alleges Apple kept a fake bitcoin wallet app on its store after one us
 
 ---
 
-## 11. Bitcoin’s recent stability hasn't been enough to spark a broader altcoin rally
+## 14. Bitcoin’s recent stability hasn't been enough to spark a broader altcoin rally
 
 **Author:** Omkar Godbole  
 **Published:** 7/28/2026, 11:37:31 AM  
@@ -143,7 +179,7 @@ Your day-ahead look for July 28, 2026
 
 ---
 
-## 12. Bitcoin drops as South Korean stocks tumble, Senate shelves crypto Clarity Act
+## 15. Bitcoin drops as South Korean stocks tumble, Senate shelves crypto Clarity Act
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 7/28/2026, 11:09:16 AM  
@@ -155,7 +191,7 @@ BTC shed 2% as South Korea's Kospi plunged 11% and the U.S. Senate shelved the C
 
 ---
 
-## 13. 1inch opens Aqua liquidity protocol across 13 chains
+## 16. 1inch opens Aqua liquidity protocol across 13 chains
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/28/2026, 11:00:00 AM  
@@ -167,7 +203,7 @@ Liquidity providers can keep assets in their own wallets, using one balance to b
 
 ---
 
-## 14. Perpetuals tied to SK Hynix hit by flash crash to $900 on Hyperliquid
+## 17. Perpetuals tied to SK Hynix hit by flash crash to $900 on Hyperliquid
 
 **Author:** Omkar Godbole  
 **Published:** 7/28/2026, 10:05:43 AM  
@@ -179,7 +215,7 @@ Perpetual futures on the South Korean chipmaker's American depositary receipts p
 
 ---
 
-## 15. BitMEX and BitMart may be first casualties of crypto trading slump
+## 18. BitMEX and BitMart may be first casualties of crypto trading slump
 
 **Author:** Olivier Acuna  
 **Published:** 7/28/2026, 9:36:01 AM  
@@ -191,7 +227,7 @@ Trading volumes across major centralized platforms fell down to $1.05 trillion, 
 
 ---
 
-## 16. Inside the CME and CFTC’s battle over onchain perpetual futures
+## 19. Inside the CME and CFTC’s battle over onchain perpetual futures
 
 **Author:** Ian Allison,Jesse Hamilton  
 **Published:** 7/28/2026, 8:00:00 AM  
@@ -203,7 +239,7 @@ Weeks ago, the U.S. CFTC opened the gates for crypto perps with its first listin
 
 ---
 
-## 17. Hong Kong’s central bank puts a number on lenders' quantum preparedness. It's very low.
+## 20. Hong Kong’s central bank puts a number on lenders' quantum preparedness. It's very low.
 
 **Author:** Omkar Godbole  
 **Published:** 7/28/2026, 7:55:41 AM  
@@ -215,7 +251,7 @@ The Hong Kong Monetary Authority published a whitepaper on the quantum preparedn
 
 ---
 
-## 18. Live updates: Crypto climbs off worst levels as stock selloff is contained to AI names
+## 21. Live updates: Crypto climbs off worst levels as stock selloff is contained to AI names
 
 **Author:** Omkar Godbole,Helene Braun,Stephen Alpher  
 **Published:** 7/28/2026, 7:46:22 AM  
@@ -227,7 +263,7 @@ While the chipmakers continue their tumble, the DJIA is actually higher by more 
 
 ---
 
-## 19. Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%
+## 22. Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%
 
 **Author:** Omkar Godbole  
 **Published:** 7/28/2026, 4:32:39 AM  
