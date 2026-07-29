@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-27"
 date: "2026-07-27"
 source: "Decrypt"
-count: 18
+count: 14
 ---
 
 # Decrypt - 2026-07-27
 
-18 items collected.
+14 items collected.
 
 ---
 
@@ -176,53 +176,5 @@ The Bitcoin treasury firm also tapped its $1 billion preferred buyback for the f
 Brian Armstrong says crypto is infrastructure that underpins AI, and that AI agents will need it to transact on their own.
 
 📖 [Read original article](https://decrypt.co/374366/crypto-firms-pivoting-to-ai-is-zero-sum-thinking-coinbase-ceo)
-
----
-
-## 15. Morning Minute: Tokenized Stocks Jump 5x on Robinhood Chain
-
-**Author:** Tyler Warner  
-**Published:** 7/27/2026, 12:00:49 PM  
-**Categories:** Opinion  
-
-Plus markets are green after oil fell 8%; ETH is greatly outpacing BTC in ETF inflows; and another major crypto exchange has shut down
-
-📖 [Read original article](https://decrypt.co/374357/morning-minute-tokenized-stocks-jump-5x-on-robinhood-chain)
-
----
-
-## 16. Bitcoin ETFs Shed $465M Over Two Days, Led by BlackRock's IBIT
-
-**Author:** Decrypt Agent  
-**Published:** 7/27/2026, 11:23:01 AM  
-**Categories:** , Business  
-
-The selling reversed a seven-day, $1 billion inflow streak, with analysts blaming renewed U.S.-Iran tensions and Fed rate-hike fears.
-
-📖 [Read original article](https://decrypt.co/374354/bitcoin-etfs-shed-465m-over-two-days-led-by-blackrocks-ibit)
-
----
-
-## 17. BitMart Becomes Latest Crypto Exchange to Shut Down
-
-**Author:** Decrypt Agent  
-**Published:** 7/27/2026, 9:57:20 AM  
-**Categories:** , , Business  
-
-BitMart’s closure, citing the market environment and “future strategic direction,” comes days after crypto perps exchange BitMEX shut down.
-
-📖 [Read original article](https://decrypt.co/374346/bitmart-becomes-latest-crypto-exchange-to-shut-down)
-
----
-
-## 18. Thailand's SEC Files Criminal Complaint Against Bitkub Over Undisclosed $47M Hack
-
-**Author:** Decrypt Agent  
-**Published:** 7/27/2026, 9:16:14 AM  
-**Categories:** , , Law and Order  
-
-The regulator says the exchange and two former directors left a $47 million theft out of its filings in 2021.
-
-📖 [Read original article](https://decrypt.co/374343/thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack)
 
 ---
