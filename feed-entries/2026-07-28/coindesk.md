@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-28"
 date: "2026-07-28"
 source: "CoinDesk"
-count: 22
+count: 20
 ---
 
 # CoinDesk - 2026-07-28
 
-22 items collected.
+20 items collected.
 
 ---
 
@@ -248,29 +248,5 @@ Weeks ago, the U.S. CFTC opened the gates for crypto perps with its first listin
 The Hong Kong Monetary Authority published a whitepaper on the quantum preparedness of Hong Kong’s banking industry and its first Quantum Preparedness Index.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/28/hong-kong-s-central-bank-puts-a-number-on-lenders-quantum-preparedness-it-s-very-low)
-
----
-
-## 21. Live updates: Crypto climbs off worst levels as stock selloff is contained to AI names
-
-**Author:** Omkar Godbole,Helene Braun,Stephen Alpher  
-**Published:** 7/28/2026, 7:46:22 AM  
-**Categories:** Markets, Bitcoin News, Live News, live_news  
-
-While the chipmakers continue their tumble, the DJIA is actually higher by more than 1%, led by Coca-Cola, Walmart, and Home Depot.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure)
-
----
-
-## 22. Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%
-
-**Author:** Omkar Godbole  
-**Published:** 7/28/2026, 4:32:39 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10)
 
 ---
