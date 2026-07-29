@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-27"
 date: "2026-07-27"
 source: "The Block"
-count: 6
+count: 4
 ---
 
 # The Block - 2026-07-27
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ Although activity rose, revenues declined and ETH, SOL and AVAX are all down ove
 This will enable Securitize to work more closely with asset managers and institutional investors on tokenized investment strategies.
 
 📖 [Read original article](https://www.theblock.co/post/409821/securitize-expands-regulated-platform-with-sec-adviser-license?utm_source=rss&utm_medium=rss)
-
----
-
-## 5. TD Cowen cuts David Bailey’s Nakamoto target 58% after bitcoin outlook reset
-
-**Author:** Kyle Baird  
-**Published:** 7/27/2026, 5:10:25 PM  
-**Categories:** Companies, Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin  
-
-The firm updated its valuation for David Bailey-led Nakamoto, citing pressure from BTC's decline on the company's capital structure.
-
-📖 [Read original article](https://www.theblock.co/post/409797/td-cowen-cuts-david-bailey-nakamoto-target-58-bitcoin-outlook-reset?utm_source=rss&utm_medium=rss)
-
----
-
-## 6. Ondo launches new execution network, calling it ‘evolution’ of Ondo Chain
-
-**Author:** Yogita Khatri  
-**Published:** 7/27/2026, 4:00:03 PM  
-**Categories:** Crypto Ecosystems, DeFi, Governance, Markets, Token Projects, Web3, exclusive, Tokenization, Tokens  
-
-CEO Ian De Bode said the Ondo Network is the "evolution" of the company's earlier Ondo Chain initiative and now underpins Ondo Perps.
-
-📖 [Read original article](https://www.theblock.co/post/409792/ondo-launches-new-execution-network-calling-it-evolution-of-ondo-chain?utm_source=rss&utm_medium=rss)
 
 ---
