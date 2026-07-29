@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-07-28"
 date: "2026-07-28"
 source: "Cointelegraph"
-count: 20
+count: 23
 ---
 
 # Cointelegraph - 2026-07-28
 
-20 items collected.
+23 items collected.
 
 ---
 
-## 1. AmericanFortress proposes quantum-safe crypto wallet protection without fund migration
+## 1. Myanmar parliament passes crypto scam bill with penalties up to life
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 7/28/2026, 11:27:28 PM  
+**Categories:** Latest News  
+
+Myanmar lawmakers approved an anti-online scam bill whose draft proposed prison terms of 10 years to life for crypto scams and operating scam centers.
+
+📖 [Read original article](https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Visa outlines stablecoin strategy during Q3 earnings call
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/28/2026, 9:57:49 PM  
+**Categories:** Latest News  
+
+Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered commerce during the company’s third-quarter earnings call.
+
+📖 [Read original article](https://cointelegraph.com/news/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Morgan Stanley expands crypto lineup with Ether, Solana ETPs
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/28/2026, 8:10:46 PM  
+**Categories:** Latest News  
+
+The new exchange-traded products track Ether and Solana, offer staking rewards and follow the firm’s Bitcoin fund launched earlier this year.
+
+📖 [Read original article](https://cointelegraph.com/news/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. AmericanFortress proposes quantum-safe crypto wallet protection without fund migration
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/28/2026, 6:47:26 PM  
@@ -23,7 +59,7 @@ The proposed cryptographic scheme aims to protect existing Bitcoin, Ethereum and
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 5. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/28/2026, 6:15:25 PM  
@@ -35,7 +71,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. Galaxy, MARA Holdings deepen Texas expansion with land acquisitions
+## 6. Galaxy, MARA Holdings deepen Texas expansion with land acquisitions
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/28/2026, 6:08:32 PM  
@@ -47,7 +83,7 @@ The crypto-focused companies announced separate acquisitions as demand for power
 
 ---
 
-## 4. Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street
+## 7. Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/28/2026, 4:27:46 PM  
@@ -59,7 +95,7 @@ Bitcoin and crypto dropped as contagion from a major Asia stock-market correctio
 
 ---
 
-## 5. Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations
+## 8. Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/28/2026, 4:20:57 PM  
@@ -71,7 +107,7 @@ Eligible US users can request IPO allocations, while customers in more than 110 
 
 ---
 
-## 6. Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates
+## 9. Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/28/2026, 3:47:00 PM  
@@ -83,7 +119,7 @@ Core Scientific reported strong second-quarter revenue growth as AI colocation b
 
 ---
 
-## 7. The real reason DeFi projects that survived 2022 crash are shutting down now
+## 10. The real reason DeFi projects that survived 2022 crash are shutting down now
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 7/28/2026, 1:30:00 PM  
@@ -95,7 +131,7 @@ DeFi projects that survived the fallout from the Terra and FTX collapses in 2022
 
 ---
 
-## 8. Markets eye Bank of Japan meeting on Friday as yen repeats 40-year US dollar lows
+## 11. Markets eye Bank of Japan meeting on Friday as yen repeats 40-year US dollar lows
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/28/2026, 1:11:28 PM  
@@ -107,7 +143,7 @@ Analysis warned of a repeat of the 2024 yen carry-trade unwind that pressured cr
 
 ---
 
-## 9. Ethereum, Solana led crypto hack losses in H1 2026: Blockaid
+## 12. Ethereum, Solana led crypto hack losses in H1 2026: Blockaid
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/28/2026, 1:00:00 PM  
@@ -119,7 +155,7 @@ Blockaid found Ethereum remained the hardest-hit blockchain in H1 2026, while So
 
 ---
 
-## 10. PayPal expands stablecoin push as crypto assets factor into Q2 results
+## 13. PayPal expands stablecoin push as crypto assets factor into Q2 results
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/28/2026, 12:07:51 PM  
@@ -131,7 +167,7 @@ PayPal highlighted growth of stablecoins and AI-driven payment tools in Q2 while
 
 ---
 
-## 11. 1inch moves to unite DeFi liquidity across 13 chains with Aqua
+## 14. 1inch moves to unite DeFi liquidity across 13 chains with Aqua
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 7/28/2026, 11:00:00 AM  
@@ -143,7 +179,7 @@ Decentralized exchange aggregator 1inch announced the launch of its Aqua protoco
 
 ---
 
-## 12. IMF warns Brazil’s stablecoin activity outpaces traditional capital flows
+## 15. IMF warns Brazil’s stablecoin activity outpaces traditional capital flows
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/28/2026, 10:09:47 AM  
@@ -155,7 +191,7 @@ The IMF said Brazil’s stablecoin market has expanded rapidly since 2017, with 
 
 ---
 
-## 13. Lido upgrade aims to slash Ethereum’s validator count by one-third
+## 16. Lido upgrade aims to slash Ethereum’s validator count by one-third
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/28/2026, 9:14:45 AM  
@@ -167,7 +203,7 @@ Lido launched Curated Module v2, an upgrade that could reduce Ethereum’s valid
 
 ---
 
-## 14. Ondo shifts from layer-1 blockchain plan to offchain execution network
+## 17. Ondo shifts from layer-1 blockchain plan to offchain execution network
 
 **Author:** Cointelegraph by Bryan O'Shea  
 **Published:** 7/28/2026, 9:12:14 AM  
@@ -179,7 +215,7 @@ The new system marks an apparent departure from the institution-focused layer-1 
 
 ---
 
-## 15. Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses
+## 18. Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/28/2026, 7:40:40 AM  
@@ -191,7 +227,7 @@ Three users allege a fake Sparrow Wallet app on Apple’s App Store drained thei
 
 ---
 
-## 16. Binance co-founder CZ backs crypto license passporting across ASEAN
+## 19. Binance co-founder CZ backs crypto license passporting across ASEAN
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/28/2026, 6:00:54 AM  
@@ -203,7 +239,7 @@ Binance co-founder CZ backed crypto license passporting across ASEAN to simplify
 
 ---
 
-## 17. US judge temporarily blocks Minnesota prediction market ban
+## 20. US judge temporarily blocks Minnesota prediction market ban
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/28/2026, 4:28:10 AM  
@@ -215,7 +251,7 @@ The preliminary injunction allows Kalshi and Polymarket US to continue operating
 
 ---
 
-## 18. Zimbabwe admits 7 fintech projects to regulatory sandbox
+## 21. Zimbabwe admits 7 fintech projects to regulatory sandbox
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/28/2026, 3:17:10 AM  
@@ -227,7 +263,7 @@ Sandbox participation permits supervised testing but does not guarantee full com
 
 ---
 
-## 19. Hong Kong prepares banks for quantum threats amid tokenization push
+## 22. Hong Kong prepares banks for quantum threats amid tokenization push
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/28/2026, 2:21:04 AM  
@@ -239,7 +275,7 @@ The HKMA aims to make Hong Kong’s banking sector fully prepared for quantum-re
 
 ---
 
-## 20. Binance phishes its own staff monthly, India censors BitChat code: Asia Express
+## 23. Binance phishes its own staff monthly, India censors BitChat code: Asia Express
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 7/28/2026, 1:23:07 AM  
