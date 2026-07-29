@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-07-29"
 date: "2026-07-29"
 source: "Cointelegraph"
-count: 17
+count: 21
 ---
 
 # Cointelegraph - 2026-07-29
 
-17 items collected.
+21 items collected.
 
 ---
 
-## 1. BNY to bring transfer agency records onchain in blockchain push
+## 1. Binance launches regulated gold, silver options through ADGM exchange
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/29/2026, 5:09:24 PM  
+**Categories:** Latest News  
+
+New commodity options let traders gain exposure to gold and silver prices through Binance’s Abu Dhabi-regulated exchange.
+
+📖 [Read original article](https://cointelegraph.com/news/binance-launches-regulated-gold-silver-options-through-adgm-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitcoin price wedged into ‘most divided’ FOMC as Iran war spikes oil prices 8%
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/29/2026, 5:06:55 PM  
+**Categories:** Markets  
+
+Bitcoin traders weathered an oil-price surge and ongoing Asia chip-stock sell-off into the Federal Reserve interest-rate decision.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-wedged-into-most-divided-fomc-as-iran-war-spikes-oil-prices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. MoonPay vault enables ChatGPT and Claude users to authorize crypto transactions
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/29/2026, 4:20:37 PM  
+**Categories:** Latest News  
+
+MoonPay’s PayBox vault lets ChatGPT and Claude users authorize crypto purchases, token swaps and crosschain transactions while retaining custody of their assets.
+
+📖 [Read original article](https://cointelegraph.com/news/moonpay-launches-ai-payment-vault-for-chatgpt-and-claude-with-crypto-transaction-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Cost to insure AI debt reaches record high amid Asian semiconductor tumble
+
+**Author:** Cointelegraph by Charles Bennett  
+**Published:** 7/29/2026, 4:04:22 PM  
+**Categories:** Markets  
+
+Seoul’s historic two-day crash and widening hyperscaler credit spreads suggest the AI trade’s leverage is starting to bite — in equities and in bonds.
+
+📖 [Read original article](https://cointelegraph.com/markets/cost-to-insure-ai-debt-reaches-new-all-time-high-amid-asian-semiconductor-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Robert Lakin  
+**Published:** 7/29/2026, 1:47:35 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. BNY to bring transfer agency records onchain in blockchain push
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/29/2026, 1:36:18 PM  
@@ -23,7 +83,7 @@ BNY is launching a blockchain-based transfer agency platform as the bank expands
 
 ---
 
-## 2. The 100x obsession: Fundamentals grow in importance as crypto matures
+## 7. The 100x obsession: Fundamentals grow in importance as crypto matures
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 7/29/2026, 1:30:00 PM  
@@ -35,7 +95,7 @@ Crypto’s fundamentals have never been stronger, yet degens keep chasing hot ne
 
 ---
 
-## 3. Emirates enables UAE residents to pay for flights through Crypto.com
+## 8. Emirates enables UAE residents to pay for flights through Crypto.com
 
 **Author:** Cointelegraph by Bryan O'Shea  
 **Published:** 7/29/2026, 12:14:31 PM  
@@ -47,7 +107,7 @@ The service is limited to eligible UAE residents and bookings are priced and set
 
 ---
 
-## 4. Telegram founder Pavel Durov internationally wanted, Russia’s FSB says
+## 9. Telegram founder Pavel Durov internationally wanted, Russia’s FSB says
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/29/2026, 11:18:19 AM  
@@ -59,19 +119,7 @@ Russia’s FSB says Telegram founder Pavel Durov faces a terrorism-related charg
 
 ---
 
-## 5. Binance disappears from Google Play in certain EU countries
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/29/2026, 11:00:04 AM  
-**Categories:** Latest News  
-
-Binance’s Android app is unavailable on Google Play in some EU markets amid scrutiny over MiCA compliance.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Crypto TradFi grows fivefold to $6.6B as exchanges expand into stocks, commodities: Report
+## 10. Crypto TradFi grows fivefold to $6.6B as exchanges expand into stocks, commodities: Report
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/29/2026, 10:00:00 AM  
@@ -83,7 +131,7 @@ A CoinGecko study points to rising demand for tokenized equities and commodities
 
 ---
 
-## 7. Hungary repeals crypto checks as first MiCA license is granted
+## 11. Hungary repeals crypto checks as first MiCA license is granted
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/29/2026, 9:15:36 AM  
@@ -95,7 +143,7 @@ Hungary removed mandatory third-party checks for crypto conversions as CoinCash 
 
 ---
 
-## 8. Trump teleprompter operator accused over Kalshi bets leaves government: AP
+## 12. Trump teleprompter operator accused over Kalshi bets leaves government: AP
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/29/2026, 8:12:11 AM  
@@ -107,7 +155,7 @@ Gabriel Perez, who was accused of profiting from Kalshi bets tied to President D
 
 ---
 
-## 9. Bitcoin ETFs extend outflow streak as BTC fails to hold $65K
+## 13. Bitcoin ETFs extend outflow streak as BTC fails to hold $65K
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/29/2026, 7:16:47 AM  
@@ -119,7 +167,7 @@ US spot Bitcoin ETFs recorded four straight sessions of outflows totaling $526 m
 
 ---
 
-## 10. UK policy sprint finds cross-border payments are stablecoins’ top use case
+## 14. UK policy sprint finds cross-border payments are stablecoins’ top use case
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/29/2026, 7:11:27 AM  
@@ -131,7 +179,7 @@ Industry participants said stablecoins offer the biggest near-term benefits for 
 
 ---
 
-## 11. Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly
+## 15. Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/29/2026, 5:29:48 AM  
@@ -143,7 +191,7 @@ Trade.xyz said its oracle worked as designed but will reimburse eligible traders
 
 ---
 
-## 12. Uniswap founder rejects claims v4 fees reduce LP earnings
+## 16. Uniswap founder rejects claims v4 fees reduce LP earnings
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/29/2026, 5:02:07 AM  
@@ -155,7 +203,7 @@ Hayden Adams said critics misunderstood Uniswap’s newly approved v4 protocol f
 
 ---
 
-## 13. South Korea plans stablecoin rules as opposition pushes crypto tax repeal
+## 17. South Korea plans stablecoin rules as opposition pushes crypto tax repeal
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/29/2026, 3:43:05 AM  
@@ -167,7 +215,7 @@ The FSC reportedly plans a government-backed digital asset bill covering stablec
 
 ---
 
-## 14. Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut
+## 18. Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/29/2026, 3:26:44 AM  
@@ -179,7 +227,7 @@ The Bitcoin miner and AI infrastructure company closed at $62.90, giving it a ma
 
 ---
 
-## 15. Tether signs tokenization deal with Nairobi Securities Exchange
+## 19. Tether signs tokenization deal with Nairobi Securities Exchange
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/29/2026, 2:50:51 AM  
@@ -191,7 +239,7 @@ The agreement covers tokenized securities, blockchain-based market infrastructur
 
 ---
 
-## 16. Zcash says Ironwood proof rules out undetectable counterfeiting bugs
+## 20. Zcash says Ironwood proof rules out undetectable counterfeiting bugs
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/29/2026, 1:05:15 AM  
@@ -203,7 +251,7 @@ Zcash researchers published more than 2,700 machine-checked theorems designed to
 
 ---
 
-## 17. European financial institutions launch RL1 cooperative blockchain network
+## 21. European financial institutions launch RL1 cooperative blockchain network
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/29/2026, 12:09:29 AM  
