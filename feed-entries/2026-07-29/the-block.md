@@ -2,16 +2,100 @@
 title: "The Block - 2026-07-29"
 date: "2026-07-29"
 source: "The Block"
-count: 7
+count: 14
 ---
 
 # The Block - 2026-07-29
 
-7 items collected.
+14 items collected.
 
 ---
 
-## 1. MoonPay launches PayBox, an AI payment vault for ChatGPT and Claude
+## 1. Pump.fun token graduation rate jumps after BOOST changes launch incentives
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 7/29/2026, 6:51:01 PM  
+**Categories:** Crypto Ecosystems, DeFi, Governance, Markets, Token Projects, Tokens  
+
+BOOST comes into effect after a token has already bonded, so it doesn’t mechanically lift the share of tokens that reach the threshold.
+
+📖 [Read original article](https://www.theblock.co/post/409815/pump-fun-token-graduation-rate-jumps-boost-changes-launch-incentives?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. ‘Ethereum Cypherpunk Manifesto’ author joins Ethereum Foundation as fourth board member
+
+**Author:** Daniel Kuhn  
+**Published:** 7/29/2026, 5:22:33 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, Layer 1s, Markets, Token Projects, Ethereum, Security Firms  
+
+The SEAL 911 security firm co-founder, pcaversaccio, is known for his privacy advocacy and cypherpunk cultural commentary.
+
+📖 [Read original article](https://www.theblock.co/post/410083/ethereum-cypherpunk-manifesto-author-ethereum-foundation-fourth-board-member?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Visa CEO sidesteps labeling Open USD a challenger to Tether and USDC: ‘Our role is not to pick winners’
+
+**Author:** RT Watson  
+**Published:** 7/29/2026, 5:06:06 PM  
+**Categories:** Companies, Equities, Finance firms, Markets, Analyst Reports, Earnings, Payments  
+
+The payment giant will "remain multi-coin, multi-chain" and "not to pick winners" as stablecoins are poised to proliferate.
+
+📖 [Read original article](https://www.theblock.co/post/410064/visa-ceo-downplays-open-usd-challenger-tether-usdc-our-role-is-not-pick-winners?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Anchorage Digital says Fed’s proposed payment account is no ‘workable substitute’ for master account
+
+**Author:** Sarah Wynn  
+**Published:** 7/29/2026, 5:01:02 PM  
+**Categories:** Central Banks, Companies, Finance firms, Policy, Regulation, Federal Reserve, Payments  
+
+Anchorage Digital says the Fed's proposed payment account that would give some crypto companies access to the central bank doesn't work.
+
+📖 [Read original article](https://www.theblock.co/post/410068/anchorage-digital-feds-proposed-payment-account-no-substitute-master-account?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. SoFi crypto transaction revenue grows 10% to $134 million in Q2
+
+**Author:** Kyle Baird  
+**Published:** 7/29/2026, 3:19:04 PM  
+**Categories:** Companies, Equities, Finance firms, Markets, Crypto Banks and Lenders, Earnings, TradFi banks  
+
+Crypto remains a small part of SoFi's $1.2 billion quarterly adjusted net revenue but shows sustained growth.
+
+📖 [Read original article](https://www.theblock.co/post/410053/sofi-crypto-transaction-revenue-grows-to-134-million-second-quarter?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. ‘The moment to act is now’: Solana Policy Institute urges Senate to move on crypto bill as time dwindles
+
+**Author:** Sarah Wynn  
+**Published:** 7/29/2026, 2:35:02 PM  
+**Categories:** People, Policy, Regulation, U.S. Policymaking, Donald Trump, exclusive, Senate Agriculture Committee, Senate Banking Committee  
+
+As the clock ticks on Congress, the Solana Policy Institute is mounting an urgent push for Senate leaders to take up crypto legislation.
+
+📖 [Read original article](https://www.theblock.co/post/410041/the-moment-to-act-is-now-solana-policy-institute-urges-senate-to-move-on-crypto-bill-as-time-dwindles?utm_source=rss&utm_medium=rss)
+
+---
+
+## 7. Tether’s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum
+
+**Author:** Daniel Kuhn  
+**Published:** 7/29/2026, 2:06:34 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Layer 1s, Markets, Policy, Regulation, Stablecoins, Token Projects, Ethereum, OCC, Tether  
+
+USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.
+
+📖 [Read original article](https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum?utm_source=rss&utm_medium=rss)
+
+---
+
+## 8. MoonPay launches PayBox, an AI payment vault for ChatGPT and Claude
 
 **Author:** Yogita Khatri  
 **Published:** 7/29/2026, 1:00:00 PM  
@@ -23,7 +107,7 @@ Crypto payments company MoonPay now lets users move money through ChatGPT and Cl
 
 ---
 
-## 2. Bernstein cuts Circle price target to $140, says Open USD threat will fade
+## 9. Bernstein cuts Circle price target to $140, says Open USD threat will fade
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/29/2026, 12:55:18 PM  
@@ -35,7 +119,7 @@ Bernstein cuts Circle price target to $140 from $190, keeps Outperform, and says
 
 ---
 
-## 3. Safe smart accounts process nearly 130 million transactions in record quarter
+## 10. Safe smart accounts process nearly 130 million transactions in record quarter
 
 **Author:** Daniel Kuhn  
 **Published:** 7/29/2026, 12:50:02 PM  
@@ -47,7 +131,7 @@ Programmable smart wallet provider reported another quarter of user growth, endi
 
 ---
 
-## 4. ‘Sleepy July’: K33 says bitcoin spot volume on track for weakest month since late 2023
+## 11. ‘Sleepy July’: K33 says bitcoin spot volume on track for weakest month since late 2023
 
 **Author:** Brian Danga  
 **Published:** 7/29/2026, 10:59:48 AM  
@@ -59,7 +143,7 @@ K33 says bitcoin spot trading activity is headed for its weakest month since lat
 
 ---
 
-## 5. Coalition of 44 state attorneys general says CFTC lacks authority over sports prediction markets
+## 12. Coalition of 44 state attorneys general says CFTC lacks authority over sports prediction markets
 
 **Author:** Timmy Shen  
 **Published:** 7/29/2026, 8:21:19 AM  
@@ -71,7 +155,7 @@ The group of AGs sent a letter to the CFTC, urging the agency to draft new rules
 
 ---
 
-## 6. Russia charges Telegram founder Pavel Durov with aiding terrorism, issues arrest warrant: report
+## 13. Russia charges Telegram founder Pavel Durov with aiding terrorism, issues arrest warrant: report
 
 **Author:** Brian Danga  
 **Published:** 7/29/2026, 7:40:59 AM  
@@ -83,7 +167,7 @@ Russian security forces charged Telegram founder Pavel Durov with aiding terrori
 
 ---
 
-## 7. Ark Invest buys $12 million in SpaceX as it trims Block, Bullish and Robinhood holdings
+## 14. Ark Invest buys $12 million in SpaceX as it trims Block, Bullish and Robinhood holdings
 
 **Author:** Timmy Shen  
 **Published:** 7/29/2026, 7:28:37 AM  
