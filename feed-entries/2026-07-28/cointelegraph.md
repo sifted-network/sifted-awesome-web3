@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-28"
 date: "2026-07-28"
 source: "Cointelegraph"
-count: 19
+count: 13
 ---
 
 # Cointelegraph - 2026-07-28
 
-19 items collected.
+13 items collected.
 
 ---
 
@@ -27,11 +27,11 @@ Myanmar lawmakers approved an anti-online scam bill whose draft proposes prison 
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/28/2026, 9:57:49 PM  
-**Categories:** Latest News  
+**Categories:** Markets  
 
 Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered commerce during the company’s third-quarter earnings call.
 
-📖 [Read original article](https://cointelegraph.com/news/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+📖 [Read original article](https://cointelegraph.com/markets/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
@@ -39,11 +39,11 @@ Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tok
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/28/2026, 8:10:46 PM  
-**Categories:** Latest News  
+**Categories:** Markets  
 
 The new exchange-traded products track Ether and Solana, offer staking rewards and follow the firm’s Bitcoin fund launched earlier this year.
 
-📖 [Read original article](https://cointelegraph.com/news/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+📖 [Read original article](https://cointelegraph.com/markets/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
@@ -99,11 +99,11 @@ Bitcoin and crypto dropped as contagion from a major Asia stock-market correctio
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/28/2026, 4:20:57 PM  
-**Categories:** Latest News  
+**Categories:** Markets  
 
 Eligible US users can request IPO allocations, while customers in more than 110 countries gain access to tokenized Jersey Mike’s shares backed 1:1 by the underlying stock.
 
-📖 [Read original article](https://cointelegraph.com/news/kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-direct-allocations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+📖 [Read original article](https://cointelegraph.com/markets/kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-direct-allocations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
@@ -164,77 +164,5 @@ Blockaid found Ethereum remained the hardest-hit blockchain in H1 2026, while So
 PayPal highlighted growth of stablecoins and AI-driven payment tools in Q2 while reporting $8.68 billion in revenue and an $81 million crypto-related earnings adjustment.
 
 📖 [Read original article](https://cointelegraph.com/markets/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. 1inch moves to unite DeFi liquidity across 13 chains with Aqua
-
-**Author:** Cointelegraph by Adrian Zmudzinski  
-**Published:** 7/28/2026, 11:00:00 AM  
-**Categories:** Latest News  
-
-Decentralized exchange aggregator 1inch announced the launch of its Aqua protocol allowing users to provide liquidity to many protocols at once.
-
-📖 [Read original article](https://cointelegraph.com/news/1inch-moves-to-unite-defi-liquidity-across-11-chains-with-aqua?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. IMF warns Brazil’s stablecoin activity outpaces traditional capital flows
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/28/2026, 10:09:47 AM  
-**Categories:** Latest News  
-
-The IMF said Brazil’s stablecoin market has expanded rapidly since 2017, with cross-border crypto flows growing faster than traditional capital flows.
-
-📖 [Read original article](https://cointelegraph.com/news/imf-brazil-stablecoin-activity-outpaces-traditional-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Lido upgrade aims to slash Ethereum’s validator count by one-third
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/28/2026, 9:14:45 AM  
-**Categories:** Latest News  
-
-Lido launched Curated Module v2, an upgrade that could reduce Ethereum’s validator count by one-third by consolidating validators and introducing new operator rules.
-
-📖 [Read original article](https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Ondo shifts from layer-1 blockchain plan to offchain execution network
-
-**Author:** Cointelegraph by Bryan O'Shea  
-**Published:** 7/28/2026, 9:12:14 AM  
-**Categories:** Latest News  
-
-The new system marks an apparent departure from the institution-focused layer-1 blockchain Ondo announced in 2025.
-
-📖 [Read original article](https://cointelegraph.com/news/ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/28/2026, 7:40:40 AM  
-**Categories:** Latest News  
-
-Three users allege a fake Sparrow Wallet app on Apple’s App Store drained their Bitcoin holdings, with losses totaling more than $1.8 million.
-
-📖 [Read original article](https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Binance co-founder CZ backs crypto license passporting across ASEAN
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/28/2026, 6:00:54 AM  
-**Categories:** Latest News  
-
-Binance co-founder CZ backed crypto license passporting across ASEAN to simplify approvals, reduce compliance costs and encourage competition.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
