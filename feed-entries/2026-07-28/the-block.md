@@ -2,16 +2,40 @@
 title: "The Block - 2026-07-28"
 date: "2026-07-28"
 source: "The Block"
-count: 13
+count: 15
 ---
 
 # The Block - 2026-07-28
 
-13 items collected.
+15 items collected.
 
 ---
 
-## 1. Ethereum L2 ecosystem loses momentum as TVL drops to two-year low
+## 1. Ionic Digital jumps 25% in Nasdaq debut after expanding Celsius bitcoin mining assets into AI infrastructure
+
+**Author:** Kyle Baird  
+**Published:** 7/28/2026, 8:20:12 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Deals, Infrastructure, Markets, Web3, AI, Mining, Mining Companies  
+
+Ionic Digital was formed from Celsius Mining’s assets and later took direct control of its sites from Hut 8.
+
+📖 [Read original article](https://www.theblock.co/post/409945/ionic-digital-jumps-22-nasdaq-debut-celsius-bitcoin-mining-assets-ai-infrastructure?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Crypto hacks hit record high in H1 2026 as losses top $1 billion, Blockaid says
+
+**Author:** RT Watson  
+**Published:** 7/28/2026, 7:45:26 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, Security, Exploits, Hacks, Security Firms  
+
+Ethereum and Solana projects lost the most during the first half of 2026, at $332 million and $326 million, respectively.
+
+📖 [Read original article](https://www.theblock.co/post/409944/crypto-hacks-hit-record-high-in-h1-2026-as-losses-top-1-billion-blockaid-says?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Ethereum L2 ecosystem loses momentum as TVL drops to 2-year low
 
 **Author:** Ivan Wu and Bryan Samsoedin  
 **Published:** 7/28/2026, 6:21:02 PM  
@@ -23,7 +47,7 @@ Total value locked in Ethereum Layer 2s has slid back to roughly $5 billion, a l
 
 ---
 
-## 2. Zcash activates Ironwood upgrade, launching new shielded pool after Orchard vulnerability
+## 4. Zcash activates Ironwood upgrade, launching new shielded pool after Orchard vulnerability
 
 **Author:** Daniel Kuhn  
 **Published:** 7/28/2026, 5:26:31 PM  
@@ -35,7 +59,7 @@ Ironwood represents something of a unified effort across Zcash’s developer eco
 
 ---
 
-## 3. Robinhood Chain deposits climb but volume and users fade after memecoin-fueled launch
+## 5. Robinhood Chain deposits climb but volume and users fade after memecoin-fueled launch
 
 **Author:** Ivan Wu and Bryan Samsoedin  
 **Published:** 7/28/2026, 4:02:48 PM  
@@ -47,7 +71,7 @@ The number of active accounts on Roinbhood Chain averaged around 275,000 per day
 
 ---
 
-## 4. Galaxy Digital buys 500 acres in McGregor for second Texas AI data center campus
+## 6. Galaxy Digital buys 500 acres in McGregor for second Texas AI data center campus
 
 **Author:** Daniel Kuhn  
 **Published:** 7/28/2026, 3:31:00 PM  
@@ -59,7 +83,7 @@ The “privately funded" Texas campus is expected to generate a minimum of $130 
 
 ---
 
-## 5. Nansen CEO bets on AI agents to overtake human traders within two years
+## 7. Nansen CEO bets on AI agents to overtake human traders within 2 years
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/28/2026, 3:22:12 PM  
@@ -71,7 +95,7 @@ Nansen CEO Alex Svanevik says AI agents will overtake human traders in two years
 
 ---
 
-## 6. Barry Silbert-backed Zcash miner Fortitude brings Nebraska facility online to cut its ZEC production costs
+## 8. Barry Silbert-backed Zcash miner Fortitude brings Nebraska facility online to cut its ZEC production costs
 
 **Author:** Kyle Baird  
 **Published:** 7/28/2026, 3:13:41 PM  
@@ -83,7 +107,7 @@ Fortitude expects its new 12-megawatt mining facility to cut its direct cash min
 
 ---
 
-## 7. Morgan Stanley debuts Ethereum and Solana ETFs with market’s lowest fee, staking rewards
+## 9. Morgan Stanley debuts Ethereum and Solana ETFs with market’s lowest fee, staking rewards
 
 **Author:** RT Watson  
 **Published:** 7/28/2026, 2:31:47 PM  
@@ -95,7 +119,7 @@ The firm launching its ETH- and SOL-based funds comes roughly two and half years
 
 ---
 
-## 8. Core Scientific ties its AI pivot to AMD in multi-gigawatt infrastructure deal
+## 10. Core Scientific ties its AI pivot to AMD in multi-gigawatt infrastructure deal
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/28/2026, 1:36:11 PM  
@@ -107,7 +131,7 @@ Core Scientific and AMD partner on 500 MW of U.S. AI data-center capacity from 2
 
 ---
 
-## 9. Russia’s central bank drafts first rules for ‘organized’ crypto trading
+## 11. Russia’s central bank drafts first rules for ‘organized’ crypto trading
 
 **Author:** Brian Danga  
 **Published:** 7/28/2026, 1:22:21 PM  
@@ -119,7 +143,7 @@ The Bank of Russia drafted rules establishing organized trading, equity requirem
 
 ---
 
-## 10. 1inch launches Aqua publicly, a shared liquidity layer for DeFi across 13 chains
+## 12. 1inch launches Aqua publicly, a shared liquidity layer for DeFi across 13 chains
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/28/2026, 12:19:48 PM  
@@ -131,7 +155,7 @@ The Bank of Russia drafted rules establishing organized trading, equity requirem
 
 ---
 
-## 11. Judge blocks Minnesota from enforcing prediction market ban in win for Kalshi, Polymarket
+## 13. Judge blocks Minnesota from enforcing prediction market ban in win for Kalshi, Polymarket
 
 **Author:** Timmy Shen  
 **Published:** 7/28/2026, 7:22:20 AM  
@@ -143,7 +167,7 @@ A federal judge issued a preliminary injunction on Monday, blocking Minnesota fr
 
 ---
 
-## 12. What Is KuCoin?
+## 14. What Is KuCoin?
 
 **Author:** The Block Research  
 **Published:** 7/28/2026, 5:14:22 AM  
@@ -155,7 +179,7 @@ KuCoin is a global cryptocurrency exchange where users can trade, earn, spend, a
 
 ---
 
-## 13. What Is a Digital Commodity?
+## 15. What Is a Digital Commodity?
 
 **Author:** The Block Research  
 **Published:** 7/28/2026, 1:55:46 AM  
