@@ -2,16 +2,16 @@
 title: "Cointelegraph - 2026-07-29"
 date: "2026-07-29"
 source: "Cointelegraph"
-count: 26
+count: 22
 ---
 
 # Cointelegraph - 2026-07-29
 
-26 items collected.
+22 items collected.
 
 ---
 
-## 1. Robinhood posts record quarter, but crypto revenue slides 38%
+## 1. Robinhood posts record quarter as crypto revenue slides 38%
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/29/2026, 9:53:35 PM  
@@ -29,7 +29,7 @@ The online brokerage continued expanding its digital asset business with Robinho
 **Published:** 7/29/2026, 9:52:27 PM  
 **Categories:** Latest News  
 
-The CEO of the US crypto exchange said that the company would apply for a license with the CFTC in August allowing it to offer prediction markets.
+The CEO of the US crypto exchange said that the company would apply for a license with the CFTC in August, allowing it to offer prediction markets.
 
 📖 [Read original article](https://cointelegraph.com/news/binance-us-prediction-markets-cftc-designated-contract-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
@@ -121,7 +121,7 @@ Seoul’s historic two-day crash and widening hyperscaler credit spreads suggest
 
 ## 10. Here’s what happened in crypto today
 
-**Author:** Cointelegraph by Robert Lakin  
+**Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/29/2026, 1:47:35 PM  
 **Categories:** Latest News  
 
@@ -149,7 +149,7 @@ BNY is launching a blockchain-based transfer agency platform as the bank expands
 **Published:** 7/29/2026, 1:30:00 PM  
 **Categories:** Magazine  
 
-Crypto’s fundamentals have never been stronger, yet degens keep chasing hot new narratives. Behavioral finance may explain why get rich quick stories continue to beat substance.
+Crypto’s fundamentals have never been stronger, yet degens keep chasing hot new narratives. Behavioral finance may explain why get-rich-quick stories continue to beat substance.
 
 📖 [Read original article](https://cointelegraph.com/magazine/the-100x-obsession-why-great-crypto-projects-keep-losing-to-great-stories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
@@ -272,53 +272,5 @@ Hayden Adams said critics misunderstood Uniswap’s newly approved v4 protocol f
 The FSC reportedly plans a government-backed digital asset bill covering stablecoins and exchanges, while opposition lawmakers seek to scrap a 22% crypto tax due in 2027.
 
 📖 [Read original article](https://cointelegraph.com/news/south-korea-consolidated-crypto-law-tax-repeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/29/2026, 3:26:44 AM  
-**Categories:** Markets  
-
-The Bitcoin miner and AI infrastructure company closed at $62.90, giving it a market capitalization of about $2.8 billion after its direct listing.
-
-📖 [Read original article](https://cointelegraph.com/markets/celsius-bitcoin-miner-ionic-digital-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 24. Tether signs tokenization deal with Nairobi Securities Exchange
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/29/2026, 2:50:51 AM  
-**Categories:** Markets  
-
-The agreement covers tokenized securities, blockchain-based market infrastructure and the potential use of USDT as a settlement layer.
-
-📖 [Read original article](https://cointelegraph.com/markets/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. Zcash says Ironwood proof rules out undetectable counterfeiting bugs
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/29/2026, 1:05:15 AM  
-**Categories:** Latest News  
-
-Zcash researchers published more than 2,700 machine-checked theorems designed to rule out undetectable counterfeiting bugs in Ironwood.
-
-📖 [Read original article](https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 26. European financial institutions launch RL1 cooperative blockchain network
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/29/2026, 12:09:29 AM  
-**Categories:** Markets  
-
-RL1 began operations as a member-owned blockchain cooperative backed by 10 European financial institutions, including ABN AMRO, DekaBank and Natixis CIB.
-
-📖 [Read original article](https://cointelegraph.com/markets/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
