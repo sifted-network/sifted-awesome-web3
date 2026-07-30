@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-29"
 date: "2026-07-29"
 source: "The Block"
-count: 11
+count: 5
 ---
 
 # The Block - 2026-07-29
 
-11 items collected.
+5 items collected.
 
 ---
 
@@ -68,77 +68,5 @@ The SEAL 911 security firm co-founder, pcaversaccio, is known for his privacy ad
 The payment giant will "remain multi-coin, multi-chain" and "not to pick winners" as stablecoins are poised to proliferate.
 
 📖 [Read original article](https://www.theblock.co/post/410064/visa-ceo-downplays-open-usd-challenger-tether-usdc-our-role-is-not-pick-winners?utm_source=rss&utm_medium=rss)
-
----
-
-## 6. Anchorage Digital says Fed’s proposed payment account is no ‘workable substitute’ for master account
-
-**Author:** Sarah Wynn  
-**Published:** 7/29/2026, 5:01:02 PM  
-**Categories:** Central Banks, Companies, Finance firms, Policy, Regulation, Federal Reserve, Payments  
-
-Anchorage Digital says the Fed's proposed payment account that would give some crypto companies access to the central bank doesn't work.
-
-📖 [Read original article](https://www.theblock.co/post/410068/anchorage-digital-feds-proposed-payment-account-no-substitute-master-account?utm_source=rss&utm_medium=rss)
-
----
-
-## 7. SoFi crypto transaction revenue grows 10% to $134 million in Q2
-
-**Author:** Kyle Baird  
-**Published:** 7/29/2026, 3:19:04 PM  
-**Categories:** Companies, Equities, Finance firms, Markets, Crypto Banks and Lenders, Earnings, TradFi banks  
-
-Crypto remains a small part of SoFi's $1.2 billion quarterly adjusted net revenue but shows sustained growth.
-
-📖 [Read original article](https://www.theblock.co/post/410053/sofi-crypto-transaction-revenue-grows-to-134-million-second-quarter?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. ‘The moment to act is now’: Solana Policy Institute urges Senate to move on crypto bill as time dwindles
-
-**Author:** Sarah Wynn  
-**Published:** 7/29/2026, 2:35:02 PM  
-**Categories:** People, Policy, Regulation, U.S. Policymaking, Donald Trump, exclusive, Senate Agriculture Committee, Senate Banking Committee  
-
-As the clock ticks on Congress, the Solana Policy Institute is mounting an urgent push for Senate leaders to take up crypto legislation.
-
-📖 [Read original article](https://www.theblock.co/post/410041/the-moment-to-act-is-now-solana-policy-institute-urges-senate-to-move-on-crypto-bill-as-time-dwindles?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. Tether’s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum
-
-**Author:** Daniel Kuhn  
-**Published:** 7/29/2026, 2:06:34 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Layer 1s, Markets, Policy, Regulation, Stablecoins, Token Projects, Ethereum, OCC, Tether  
-
-USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.
-
-📖 [Read original article](https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. MoonPay launches PayBox, an AI payment vault for ChatGPT and Claude
-
-**Author:** Yogita Khatri  
-**Published:** 7/29/2026, 1:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Infrastructure, Web3, AI, Payments, Wallets  
-
-Crypto payments company MoonPay now lets users move money through ChatGPT and Claude with a new AI payment vault called PayBox.
-
-📖 [Read original article](https://www.theblock.co/post/410032/moonpay-paybox-chatgpt-claude?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Bernstein cuts Circle price target to $140, says Open USD threat will fade
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/29/2026, 12:55:18 PM  
-**Categories:** Companies, Crypto Ecosystems, Equities, Markets, Stablecoins, Token Projects, Analyst Reports, USDC  
-
-Bernstein cuts Circle price target to $140 from $190, keeps Outperform, and says the Open USD threat fades as USDC supply holds near ATH.
-
-📖 [Read original article](https://www.theblock.co/post/410029/bernstein-cuts-circle-price-target-to-140-says-open-usd-threat-will-fade?utm_source=rss&utm_medium=rss)
 
 ---
