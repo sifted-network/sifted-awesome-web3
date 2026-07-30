@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-29"
 date: "2026-07-29"
 source: "CoinDesk"
-count: 21
+count: 13
 ---
 
 # CoinDesk - 2026-07-29
 
-21 items collected.
+13 items collected.
 
 ---
 
@@ -164,101 +164,5 @@ As perpetuals enter regulated markets, critics warn they import systemic risk. B
 The world’s largest custodian will keep its existing system while adding a digital ownership record for tokenized funds.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/29/bny-targets-usd8-6-trillion-transfer-agency-market-on-blockchain-rails)
-
----
-
-## 14. 3 reasons Wednesday's Fed meeting is pivotal for BTC
-
-**Author:** Omkar Godbole  
-**Published:** 7/29/2026, 11:15:00 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for July 29, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/29/3-reasons-wednesday-s-fed-meeting-is-pivotal-for-btc)
-
----
-
-## 15. Bitcoin steadies above $64,000 as crypto looks to Fed interest-rate decision
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 7/29/2026, 10:34:18 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-BTC added 0.75% before the Federal Reserve's rate decision. Inflation at 4.1% keeps an increase firmly on the table even as oil prices ease.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/29/bitcoin-steadies-above-usd64-000-as-crypto-looks-to-fed-interest-rate-decision)
-
----
-
-## 16. Binance offers gold and silver options after commodity futures pull in billions in daily volume
-
-**Author:** Omkar Godbole  
-**Published:** 7/29/2026, 10:00:00 AM  
-**Categories:** Markets, Binance, Commodities, News  
-
-The crypto exchange unveils commodity options following strong uptake for gold and silver perps.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/29/binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions-in-daily-volume)
-
----
-
-## 17. Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/29/2026, 9:22:24 AM  
-**Categories:** Finance, Crypto News, Bitcoin Mining, News  
-
-The bitcoin miner reached a market valuation of roughly $2.8 billion based on its 44.9 million shares outstanding.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/29/ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-exit-route)
-
----
-
-## 18. Russia charges Telegram founder Pavel Durov with aiding terrorism
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/29/2026, 9:10:54 AM  
-**Categories:** Policy, Crypto News, Telegram, News  
-
-The charges could result in life imprisonment, escalating an investigation that has already led to over 100 million rubles in fines for the platform this year.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism)
-
----
-
-## 19. SpaceX is a battleground Solana must win
-
-**Author:** Brian Smith  
-**Published:** 7/29/2026, 8:00:00 AM  
-**Categories:** Opinion, Opinion  
-
-Perps are a trojan horse to bring all of traditional finance onchain, argues Brian Smith, president of the Jito Foundation.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/07/29/spacex-is-a-battleground-solana-must-win)
-
----
-
-## 20. Live updates: Bitcoin edges above $64,000 as Fed holds policy steady
-
-**Author:** Shaurya Malwa,Omkar Godbole,Stephen Alpher  
-**Published:** 7/29/2026, 6:25:21 AM  
-**Categories:** Tech, Live News, live_news  
-
-The formerly popular names in AI infrastructure continued their sharp selloff on Wednesday.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision)
-
----
-
-## 21. Company behind AI trade that caused $60 million crypto liquidations to cover all losses
-
-**Author:** Shaurya Malwa  
-**Published:** 7/29/2026, 6:03:28 AM  
-**Categories:** Markets, News  
-
-The mark price fell 19% on a single pre-market trade in Korea. The company says its oracle worked exactly as designed.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses)
 
 ---
