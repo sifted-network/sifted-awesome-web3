@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-28"
 date: "2026-07-28"
 source: "The Block"
-count: 6
+count: 4
 ---
 
 # The Block - 2026-07-28
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ Total value locked in Ethereum Layer 2s has slid back to roughly $5 billion, a l
 Ironwood represents something of a unified effort across Zcash’s developer ecosystem after Shielded Labs found a bug in Orchard.
 
 📖 [Read original article](https://www.theblock.co/post/409934/zcash-ironwood-upgrade-launching-new-shielded-pool-after-orchard-vulnerability?utm_source=rss&utm_medium=rss)
-
----
-
-## 5. Robinhood Chain deposits climb but volume and users fade after memecoin-fueled launch
-
-**Author:** Ivan Wu and Bryan Samsoedin  
-**Published:** 7/28/2026, 4:02:48 PM  
-**Categories:** Companies, Crypto Ecosystems, Exchanges, Market Updates, Markets, People, Public Equities, Web3, Memecoins, Robinhood, Vlad Tenev  
-
-The number of active accounts on Roinbhood Chain averaged around 275,000 per day, down by 7% week-over-week.
-
-📖 [Read original article](https://www.theblock.co/post/409813/robinhood-chain-deposits-climb-volume-users-fade-memecoin-fueled-launch?utm_source=rss&utm_medium=rss)
-
----
-
-## 6. Galaxy Digital buys 500 acres in McGregor for second Texas AI data center campus
-
-**Author:** Daniel Kuhn  
-**Published:** 7/28/2026, 3:31:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Deals, Web3, AI, Mining Companies  
-
-The “privately funded" Texas campus is expected to generate a minimum of $130 million for McGregor's local tax base, Galaxy said.
-
-📖 [Read original article](https://www.theblock.co/post/409911/galaxy-digital-buys-500-acres-in-mcgregor-for-second-texas-ai-data-center-campus?utm_source=rss&utm_medium=rss)
 
 ---
