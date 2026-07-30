@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-07-30"
 date: "2026-07-30"
 source: "Cointelegraph"
-count: 12
+count: 19
 ---
 
 # Cointelegraph - 2026-07-30
 
-12 items collected.
+19 items collected.
 
 ---
 
-## 1. BitRiver founder charged in Russia over alleged $8M fraud
+## 1. Aviva Investors launches tokenized fund after Central Bank of Ireland approval
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/30/2026, 5:38:13 PM  
+**Categories:** Latest News  
+
+The new XRPL-based share class gives eligible investors blockchain-based access to a regulated US dollar liquidity fund while keeping traditional custody arrangements.
+
+📖 [Read original article](https://cointelegraph.com/news/aviva-investors-tokenized-fund-central-bank-ireland-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Canadian crypto ownership increases to 25%: Ontario survey
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/30/2026, 5:03:17 PM  
+**Categories:** Latest News  
+
+A survey of more than 2,000 Canadians in late 2025 and early 2026 showed an increasing awareness of risk around the crypto industry and higher ownership of assets.
+
+📖 [Read original article](https://cointelegraph.com/news/canadians-ownership-crypto-osc-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/30/2026, 4:17:29 PM  
+**Categories:** Markets  
+
+Bitcoin and US stocks enjoyed a relief bounce as the South Korea semiconductor rout eased and US PCE inflation data conforms to year-on-year expectations.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-crypto-stable-as-us-pce-inflation-sees-first-monthly-drop-in-six-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Hyperscale Data sells 100 BTC to fund Michigan AI data center
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/30/2026, 3:53:16 PM  
+**Categories:** Latest News  
+
+The Bitcoin miner is using part of its treasury and a BTC-backed credit facility to fund an AI campus tied to a potential multi-billion-dollar infrastructure contract.
+
+📖 [Read original article](https://cointelegraph.com/news/hyperscale-data-taps-bitcoin-treasury-btc-backed-credit-to-fund-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Tokenized gold passes DeFi stress test, but less than 2% is used as collateral
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 7/30/2026, 3:48:37 PM  
+**Categories:** Latest News  
+
+A RedStone report found tokenized bullion held up during gold’s sharp sell-off, but DeFi lending adoption remains limited despite surging market growth and trading volumes.
+
+📖 [Read original article](https://cointelegraph.com/news/tokenized-gold-defi-stress-test-collateral-adoption-redstone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. South Korean crypto trading surges amid stock market plunge
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 7/30/2026, 2:10:31 PM  
+**Categories:** Markets  
+
+South Korean crypto exchanges saw a fresh spike in trading activity as the country’s stock market had several days of significant downside.
+
+📖 [Read original article](https://cointelegraph.com/markets/south-korean-crypto-trading-surges-amid-stock-market-plunge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 7/30/2026, 1:50:34 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. BitRiver founder charged in Russia over alleged $8M fraud
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/30/2026, 1:26:06 PM  
@@ -23,10 +107,10 @@ Russian authorities charged BitRiver founder Igor Runets with alleged fraud tied
 
 ---
 
-## 2. Samsung unit explores stablecoin infrastructure with Upbit’s operator
+## 9. Samsung unit explores stablecoin infrastructure with Upbit’s operator
 
 **Author:** Cointelegraph by Helen Partz  
-**Published:** 7/30/2026, 11:46:43 AM  
+**Published:** 7/30/2026, 11:49:00 AM  
 **Categories:** Latest News  
 
 Samsung SDS is discussing stablecoin infrastructure and AI-based payment models with Dunamu, the operator of South Korean crypto exchange Upbit.
@@ -35,7 +119,7 @@ Samsung SDS is discussing stablecoin infrastructure and AI-based payment models 
 
 ---
 
-## 3. Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT
+## 10. Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT
 
 **Author:** Cointelegraph by Bryan O'Shea  
 **Published:** 7/30/2026, 11:29:03 AM  
@@ -47,7 +131,7 @@ The FT said Situational Awareness has approached investors and lenders after bor
 
 ---
 
-## 4. Australia sues Telegram over alleged failures to remove terror content
+## 11. Australia sues Telegram over alleged failures to remove terror content
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/30/2026, 8:49:40 AM  
@@ -59,7 +143,7 @@ Telegram faces Australian court proceedings after eSafety alleged the platform f
 
 ---
 
-## 5. Chinese newspaper warns of Bitcoin extortion scam using its name
+## 12. Chinese newspaper warns of Bitcoin extortion scam using its name
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/30/2026, 7:28:57 AM  
@@ -71,7 +155,7 @@ China Business Journal says fraudsters impersonated the publication, demanding B
 
 ---
 
-## 6. Bitcoin ETF inflows return as Ether funds slip into outflows
+## 13. Bitcoin ETF inflows return as Ether funds slip into outflows
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/30/2026, 7:05:23 AM  
@@ -83,7 +167,7 @@ US spot Bitcoin ETFs recorded $32.1 million in inflows on Wednesday despite Bitc
 
 ---
 
-## 7. South Korea report proposes stablecoin rules before crypto law
+## 14. South Korea report proposes stablecoin rules before crypto law
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/30/2026, 5:33:57 AM  
@@ -95,7 +179,7 @@ Policy report recommends interim licensing guidance, greater flexibility for sta
 
 ---
 
-## 8. US sanctions Iranian maritime firm, says it accepted Bitcoin to evade restrictions
+## 15. US sanctions Iranian maritime firm, says it accepted Bitcoin to evade restrictions
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/30/2026, 5:23:59 AM  
@@ -107,7 +191,7 @@ The US Treasury said HormuzSafe accepted Bitcoin and other digital assets to eva
 
 ---
 
-## 9. Luno cuts 20% of staff as crypto layoffs spread across 12 firms in July
+## 16. Luno cuts 20% of staff as crypto layoffs spread across 12 firms in July
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/30/2026, 4:13:34 AM  
@@ -119,7 +203,7 @@ Luno and Gnosis joined a widening round of crypto restructurings in July, when a
 
 ---
 
-## 10. Japanese game developer launches Bitcoin, altcoin fund with SBI
+## 17. Japanese game developer launches Bitcoin, altcoin fund with SBI
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/30/2026, 3:19:58 AM  
@@ -131,7 +215,7 @@ The Bitcoin and altcoin fund builds on Gumi’s growing crypto business centered
 
 ---
 
-## 11. Ethereum Foundation adds SEAL 911 co-founder to board as privacy focus grows
+## 18. Ethereum Foundation adds SEAL 911 co-founder to board as privacy focus grows
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/30/2026, 1:34:26 AM  
@@ -143,7 +227,7 @@ Pascal Caversaccio joins the Ethereum Foundation’s four-member board as the or
 
 ---
 
-## 12. US arbitration giant launches specialist panel for crypto disputes
+## 19. US arbitration giant launches specialist panel for crypto disputes
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/30/2026, 12:29:11 AM  
