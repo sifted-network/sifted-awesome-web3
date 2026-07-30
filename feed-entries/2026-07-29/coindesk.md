@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-07-29"
 date: "2026-07-29"
 source: "CoinDesk"
-count: 21
+count: 23
 ---
 
 # CoinDesk - 2026-07-29
 
-21 items collected.
+23 items collected.
 
 ---
 
-## 1. As crypto perpetual futures boom, Ethereum’s role is shifting
+## 1. Senators said to hatch idea to toughen Trump's concession on Clarity Act's crypto limits
+
+**Author:** Jesse Hamilton  
+**Published:** 7/29/2026, 11:12:04 PM  
+**Categories:** Policy, Regulation, Clarity Act, Donald Trump, Exclusive, News  
+
+Insiders say that the bipartisan Senate duo revamping the bill's Trump-approved ethics section have come up with something they hope wins sufficient yes votes.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits)
+
+---
+
+## 2. Robinhood slides 4% despite earnings beat as crypto revenue cools
+
+**Author:** Helene Braun,Krisztian Sandor  
+**Published:** 7/29/2026, 8:40:43 PM  
+**Categories:** Markets, Robinhood, News  
+
+The brokerage reported $100 million revenue from crypto trading, a 38% decline in a year, offset by stronger options, equities and prediction markets activity.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/29/robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools)
+
+---
+
+## 3. As crypto perpetual futures boom, Ethereum’s role is shifting
 
 **Author:** Margaux Nijkerk  
 **Published:** 7/29/2026, 6:00:00 PM  
@@ -23,7 +47,7 @@ Rather than competing directly with faster chains, some builders argue Ethereum'
 
 ---
 
-## 2. Fed holds rates steady, extending pause as markets await Kevin Warsh's policy roadmap
+## 4. Fed holds rates steady, extending pause as markets await Kevin Warsh's policy roadmap
 
 **Author:** Krisztian Sandor  
 **Published:** 7/29/2026, 5:58:33 PM  
@@ -35,7 +59,7 @@ For the first time in several years, markets were somewhat split on whether the 
 
 ---
 
-## 3. The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs
+## 5. The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs
 
 **Author:** Helene Braun  
 **Published:** 7/29/2026, 4:09:32 PM  
@@ -47,7 +71,7 @@ Tokenization and 24/7 markets are reshaping finance, making always-on banking a 
 
 ---
 
-## 4. Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens
+## 6. Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens
 
 **Author:** Krisztian Sandor  
 **Published:** 7/29/2026, 3:27:30 PM  
@@ -59,7 +83,7 @@ Today's bridge model won't scale as hundreds of companies issue their own stable
 
 ---
 
-## 5. Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings
+## 7. Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings
 
 **Author:** Helene Braun  
 **Published:** 7/29/2026, 3:15:08 PM  
@@ -71,7 +95,7 @@ Wall Street expects a sluggish second quarter from Coinbase as crypto trading ac
 
 ---
 
-## 6. Crypto Long & Short: What this year's $972 million crypto hacks actually tell us about security
+## 8. Crypto Long & Short: What this year's $972 million crypto hacks actually tell us about security
 
 **Author:** Mitchell Amador  
 **Published:** 7/29/2026, 3:13:07 PM  
@@ -83,7 +107,7 @@ In this week's Crypto Long & Short, Immunefi's Mitchell Amador writes that most 
 
 ---
 
-## 7. Ethereum Foundation names pcaversaccio to board amid leadership changes
+## 9. Ethereum Foundation names pcaversaccio to board amid leadership changes
 
 **Author:** Margaux Nijkerk  
 **Published:** 7/29/2026, 2:11:21 PM  
@@ -95,7 +119,7 @@ pcaversaccio (known as "pc"), is a prominent security researcher in the Ethereum
 
 ---
 
-## 8. The inside story of how a hike in Hong Kong changed crypto trading forever
+## 10. The inside story of how a hike in Hong Kong changed crypto trading forever
 
 **Author:** Oliver Knight  
 **Published:** 7/29/2026, 1:53:01 PM  
@@ -107,7 +131,7 @@ pcaversaccio (known as "pc"), is a prominent security researcher in the Ethereum
 
 ---
 
-## 9. About $80 million ZEC crosses into Zcash's new Ironwood pool in the first day
+## 11. About $80 million ZEC crosses into Zcash's new Ironwood pool in the first day
 
 **Author:** Shaurya Malwa  
 **Published:** 7/29/2026, 1:32:37 PM  
@@ -119,7 +143,7 @@ Roughly 5% of the funds in the retired Orchard pool have gone through the turnst
 
 ---
 
-## 10. The systemic-risk debate over perpetual futures is aimed at the wrong target
+## 12. The systemic-risk debate over perpetual futures is aimed at the wrong target
 
 **Author:** Chris Tyrer,Tram Doman  
 **Published:** 7/29/2026, 1:00:00 PM  
@@ -131,7 +155,7 @@ As perpetuals enter regulated markets, critics warn they import systemic risk. B
 
 ---
 
-## 11. BNY targets $8.6 trillion transfer agency market on blockchain rails
+## 13. BNY targets $8.6 trillion transfer agency market on blockchain rails
 
 **Author:** Olivier Acuna  
 **Published:** 7/29/2026, 12:18:58 PM  
@@ -143,7 +167,7 @@ The world’s largest custodian will keep its existing system while adding a dig
 
 ---
 
-## 12. 3 reasons Wednesday's Fed meeting is pivotal for BTC
+## 14. 3 reasons Wednesday's Fed meeting is pivotal for BTC
 
 **Author:** Omkar Godbole  
 **Published:** 7/29/2026, 11:15:00 AM  
@@ -155,7 +179,7 @@ Your day-ahead look for July 29, 2026
 
 ---
 
-## 13. Bitcoin steadies above $64,000 as crypto looks to Fed interest-rate decision
+## 15. Bitcoin steadies above $64,000 as crypto looks to Fed interest-rate decision
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 7/29/2026, 10:34:18 AM  
@@ -167,7 +191,7 @@ BTC added 0.75% before the Federal Reserve's rate decision. Inflation at 4.1% ke
 
 ---
 
-## 14. Binance offers gold and silver options after commodity futures pull in billions in daily volume
+## 16. Binance offers gold and silver options after commodity futures pull in billions in daily volume
 
 **Author:** Omkar Godbole  
 **Published:** 7/29/2026, 10:00:00 AM  
@@ -179,7 +203,7 @@ The crypto exchange unveils commodity options following strong uptake for gold a
 
 ---
 
-## 15. Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route
+## 17. Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/29/2026, 9:22:24 AM  
@@ -191,7 +215,7 @@ The bitcoin miner reached a market valuation of roughly $2.8 billion based on it
 
 ---
 
-## 16. Russia charges Telegram founder Pavel Durov with aiding terrorism
+## 18. Russia charges Telegram founder Pavel Durov with aiding terrorism
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/29/2026, 9:10:54 AM  
@@ -203,7 +227,7 @@ The charges could result in life imprisonment, escalating an investigation that 
 
 ---
 
-## 17. SpaceX is a battleground Solana must win
+## 19. SpaceX is a battleground Solana must win
 
 **Author:** Brian Smith  
 **Published:** 7/29/2026, 8:00:00 AM  
@@ -215,7 +239,7 @@ Perps are a trojan horse to bring all of traditional finance onchain, argues Bri
 
 ---
 
-## 18. Live updates: Bitcoin edges above $64,000 as Fed holds policy steady
+## 20. Live updates: Bitcoin edges above $64,000 as Fed holds policy steady
 
 **Author:** Shaurya Malwa,Omkar Godbole,Stephen Alpher  
 **Published:** 7/29/2026, 6:25:21 AM  
@@ -227,7 +251,7 @@ The formerly popular names in AI infrastructure continued their sharp selloff on
 
 ---
 
-## 19. Company behind AI trade that caused $60 million crypto liquidations to cover all losses
+## 21. Company behind AI trade that caused $60 million crypto liquidations to cover all losses
 
 **Author:** Shaurya Malwa  
 **Published:** 7/29/2026, 6:03:28 AM  
@@ -239,7 +263,7 @@ The mark price fell 19% on a single pre-market trade in Korea. The company says 
 
 ---
 
-## 20. Citadel bets on a Fed rate hike Wednesday as bitcoin analysts call a hold. Someone will be wrong.
+## 22. Citadel Securities bets on a Fed rate hike Wednesday as bitcoin analysts call a hold. Someone will be wrong.
 
 **Author:** Omkar Godbole  
 **Published:** 7/29/2026, 5:37:38 AM  
@@ -251,7 +275,7 @@ Citadel's macro team says Wednesday's hike isn't about the data. It's about Wars
 
 ---
 
-## 21. Bitcoin rises toward $64,000 as Korea's record chip crash leaves crypto untouched
+## 23. Bitcoin rises toward $64,000 as Korea's record chip crash leaves crypto untouched
 
 **Author:** Shaurya Malwa  
 **Published:** 7/29/2026, 5:32:27 AM  
