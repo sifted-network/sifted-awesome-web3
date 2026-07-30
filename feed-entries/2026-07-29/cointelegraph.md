@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-29"
 date: "2026-07-29"
 source: "Cointelegraph"
-count: 18
+count: 11
 ---
 
 # Cointelegraph - 2026-07-29
 
-18 items collected.
+11 items collected.
 
 ---
 
@@ -119,19 +119,7 @@ Seoul’s historic two-day crash and widening hyperscaler credit spreads suggest
 
 ---
 
-## 10. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/29/2026, 1:47:35 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. BNY to bring transfer agency records onchain in blockchain push
+## 10. BNY to bring transfer agency records onchain in blockchain push
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 7/29/2026, 1:36:18 PM  
@@ -143,7 +131,7 @@ BNY is launching a blockchain-based transfer agency platform as the bank expands
 
 ---
 
-## 12. The 100x obsession: Fundamentals grow in importance as crypto matures
+## 11. The 100x obsession: Fundamentals grow in importance as crypto matures
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 7/29/2026, 1:30:00 PM  
@@ -152,77 +140,5 @@ BNY is launching a blockchain-based transfer agency platform as the bank expands
 Crypto’s fundamentals have never been stronger, yet degens keep chasing hot new narratives. Behavioral finance may explain why get-rich-quick stories continue to beat substance.
 
 📖 [Read original article](https://cointelegraph.com/magazine/the-100x-obsession-why-great-crypto-projects-keep-losing-to-great-stories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Emirates enables UAE residents to pay for flights through Crypto.com
-
-**Author:** Cointelegraph by Bryan O'Shea  
-**Published:** 7/29/2026, 12:14:31 PM  
-**Categories:** Latest News  
-
-The service is limited to eligible UAE residents and bookings are priced and settled in dirhams.
-
-📖 [Read original article](https://cointelegraph.com/news/emirates-starts-letting-uae-residents-pay-for-flights-through-cryptocom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Telegram founder Pavel Durov internationally wanted, Russia’s FSB says
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/29/2026, 11:18:19 AM  
-**Categories:** Latest News  
-
-Russia’s FSB says Telegram founder Pavel Durov faces a terrorism-related charge and an international arrest warrant, while a separate French case remains open.
-
-📖 [Read original article](https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Crypto TradFi grows fivefold to $6.6B as exchanges expand into stocks, commodities: Report
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 7/29/2026, 10:00:00 AM  
-**Categories:** Latest News  
-
-A CoinGecko study points to rising demand for tokenized equities and commodities on centralized exchanges, with perpetual futures driving most of the market’s trading activity.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-exchanges-tokenized-assets-market-6-6-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Hungary repeals crypto checks as first MiCA license is granted
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/29/2026, 9:15:36 AM  
-**Categories:** Latest News  
-
-Hungary removed mandatory third-party checks for crypto conversions as CoinCash received authorization to provide digital asset services under MiCA.
-
-📖 [Read original article](https://cointelegraph.com/news/hungary-repeals-crypto-checks-first-mica-license-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Trump teleprompter operator accused over Kalshi bets leaves government: AP
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/29/2026, 8:12:11 AM  
-**Categories:** Latest News  
-
-Gabriel Perez, who was accused of profiting from Kalshi bets tied to President Donald Trump’s speeches, is no longer employed by the federal government.
-
-📖 [Read original article](https://cointelegraph.com/news/trump-teleprompter-kalshi-bets-government-ap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Bitcoin ETFs extend outflow streak as BTC fails to hold $65K
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 7/29/2026, 7:16:47 AM  
-**Categories:** Markets  
-
-US spot Bitcoin ETFs recorded four straight sessions of outflows totaling $526 million as Bitcoin faced renewed selling pressure after failing to hold $65,000.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etf-extend-outflow-streak-btc-slips-below-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
