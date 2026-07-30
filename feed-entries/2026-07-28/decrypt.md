@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-28"
 date: "2026-07-28"
 source: "Decrypt"
-count: 17
+count: 14
 ---
 
 # Decrypt - 2026-07-28
 
-17 items collected.
+14 items collected.
 
 ---
 
@@ -176,41 +176,5 @@ The shared liquidity layer opens to all users on 13 chains, letting one wallet b
 The Digital Currency Group-owned Zcash miner brought its first greenfield site online as it looks to lower mining costs and advance plans to become a public company.
 
 📖 [Read original article](https://decrypt.co/374491/zcash-miner-fortitude-nebraska-mining-facility)
-
----
-
-## 15. Myanmar Approves Death Penalty for Forced Scam Labor, Life for Crypto Fraud
-
-**Author:** Decrypt Agent  
-**Published:** 7/28/2026, 11:29:21 AM  
-**Categories:** , , Law and Order  
-
-Scam operations across the region drove up to $114 billion in losses in 2025, according to United Nations estimates.
-
-📖 [Read original article](https://decrypt.co/374519/myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud)
-
----
-
-## 16. 'Running Away Balloon' Artist Sues AI Meme Generator Over Ad Templates
-
-**Author:** Decrypt Agent  
-**Published:** 7/28/2026, 10:08:09 AM  
-**Categories:** Artificial Intelligence  
-
-The suit sidesteps the fight over AI training data, alleging the comic sits in a paywalled template catalogue, searchable by name.
-
-📖 [Read original article](https://decrypt.co/374501/running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates)
-
----
-
-## 17. Kalshi, Polymarket Score Win as Judge Blocks Minnesota Prediction Market Ban—For Now
-
-**Author:** Decrypt Agent  
-**Published:** 7/28/2026, 9:04:19 AM  
-**Categories:** polygon, Business  
-
-The order turns on whether each contract counts as a swap under federal law, and the judge found that not every one does.
-
-📖 [Read original article](https://decrypt.co/374498/kalshi-polymarket-score-win-as-judge-blocks-minnesota-prediction-market-ban-for-now)
 
 ---
