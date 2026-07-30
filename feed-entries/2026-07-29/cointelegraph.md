@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-29"
 date: "2026-07-29"
 source: "Cointelegraph"
-count: 22
+count: 18
 ---
 
 # Cointelegraph - 2026-07-29
 
-22 items collected.
+18 items collected.
 
 ---
 
@@ -15,11 +15,11 @@ count: 22
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/29/2026, 9:53:35 PM  
-**Categories:** Latest News  
+**Categories:** Markets  
 
 The online brokerage continued expanding its digital asset business with Robinhood Chain, tokenized stocks and decentralized lending even as cryptocurrency transaction revenue declined.
 
-📖 [Read original article](https://cointelegraph.com/news/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+📖 [Read original article](https://cointelegraph.com/markets/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
@@ -224,53 +224,5 @@ Gabriel Perez, who was accused of profiting from Kalshi bets tied to President D
 US spot Bitcoin ETFs recorded four straight sessions of outflows totaling $526 million as Bitcoin faced renewed selling pressure after failing to hold $65,000.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etf-extend-outflow-streak-btc-slips-below-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. UK policy sprint finds cross-border payments are stablecoins’ top use case
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/29/2026, 7:11:27 AM  
-**Categories:** Latest News  
-
-Industry participants said stablecoins offer the biggest near-term benefits for cross-border payments, while domestic UK retail adoption is likely to remain limited.
-
-📖 [Read original article](https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/29/2026, 5:29:48 AM  
-**Categories:** Markets  
-
-Trade.xyz said its oracle worked as designed but will reimburse eligible traders after an external SK Hynix price print caused the contract’s mark price to fall nearly 19%.
-
-📖 [Read original article](https://cointelegraph.com/markets/trade-xyz-sk-hynix-perp-liquidations-price-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Uniswap founder rejects claims v4 fees reduce LP earnings
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 7/29/2026, 5:02:07 AM  
-**Categories:** Latest News  
-
-Hayden Adams said critics misunderstood Uniswap’s newly approved v4 protocol fees, rejecting claims the change reduces liquidity providers’ earnings.
-
-📖 [Read original article](https://cointelegraph.com/news/uniswap-founder-rejects-v4-fees-reduce-lp-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. South Korea plans stablecoin rules as opposition pushes crypto tax repeal
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/29/2026, 3:43:05 AM  
-**Categories:** Latest News  
-
-The FSC reportedly plans a government-backed digital asset bill covering stablecoins and exchanges, while opposition lawmakers seek to scrap a 22% crypto tax due in 2027.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korea-consolidated-crypto-law-tax-repeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
