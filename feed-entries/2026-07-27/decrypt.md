@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-27"
 date: "2026-07-27"
 source: "Decrypt"
-count: 10
+count: 7
 ---
 
 # Decrypt - 2026-07-27
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ The deal for BGC's Water Street Labs and CX Clearinghouse lets Fanatics list and
 Microsoft says its new cyber model lets more than 100 AI agents find software flaws at half the cost of its current best MDASH configuration.
 
 📖 [Read original article](https://decrypt.co/374441/microsoft-mdash-beats-claude-mythos-gpt-5-6-sol-cybersecurity)
-
----
-
-## 8. Your Shared Claude Chats Were Being Quietly Published on Google
-
-**Author:** Jose Antonio Lanz  
-**Published:** 7/27/2026, 6:24:29 PM  
-**Categories:** Artificial Intelligence  
-
-A missing line of code meant "share with a link" and "searchable by anyone" were the same thing—and someone already saved 11,241 of those messages to GitHub.
-
-📖 [Read original article](https://decrypt.co/374412/anthropic-share-button-quietly-publishing-claude-chats-google)
-
----
-
-## 9. Nvidia, Microsoft and IBM Launch Open Secure AI Alliance to Strengthen AI Cybersecurity
-
-**Author:** Jason Nelson  
-**Published:** 7/27/2026, 5:58:46 PM  
-**Categories:** Artificial Intelligence  
-
-More than 40 technology companies and organizations have allied to develop open-source AI security tools and standards for cyber defense.
-
-📖 [Read original article](https://decrypt.co/374401/nvidia-microsoft-ibm-open-secure-ai-alliance-cybersecurity)
-
----
-
-## 10. A Man Gave Border Agents His Phone Passcode. It Wiped Everything. Now He's Facing Federal Charges
-
-**Author:** Jose Antonio Lanz  
-**Published:** 7/27/2026, 5:40:36 PM  
-**Categories:** Law and Order  
-
-Samuel Tunick allegedly triggered a GrapheneOS duress password during a warrantless airport search. Federal prosecutors call it destruction of property. His lawyers call it a digital right.
-
-📖 [Read original article](https://decrypt.co/374394/border-agents-phone-duress-passcode-grapheneos)
 
 ---
