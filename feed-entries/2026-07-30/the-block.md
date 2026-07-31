@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-30"
 date: "2026-07-30"
 source: "The Block"
-count: 15
+count: 11
 ---
 
 # The Block - 2026-07-30
 
-15 items collected.
+11 items collected.
 
 ---
 
@@ -140,53 +140,5 @@ Australia's eSafety regulator sued Telegram in Federal Court over alleged failur
 Hyperscale Data sold 100 bitcoin and opened a credit facility to fund its Michigan AI data center campus build.
 
 📖 [Read original article](https://www.theblock.co/post/410148/hyperscale-data-sells-100-bitcoin-to-fund-michigan-ai-data-center-build?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Bernstein says Core Scientific’s AMD partnership could generate $14B over 15 years
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/30/2026, 12:15:01 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Deals, Equities, Markets, Web3, AI, Analyst Reports, Mining Companies  
-
-Bernstein values Core Scientific's AMD deal at $14B over 15 years, with AMD backstopping a neocloud lease and holding warrants for 30M CORZ shares.
-
-📖 [Read original article](https://www.theblock.co/post/410140/bernstein-says-core-scientifics-amd-partnership-could-generate-14b-over-15-years?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Cathie Wood’s Ark Invest sells Bitmine, Bullish, Block shares as crypto stocks dip
-
-**Author:** Danny Park  
-**Published:** 7/30/2026, 8:47:00 AM  
-**Categories:** Companies  
-
-Meanwhile, the investment firm purchased 128,932 shares of Elon Musk's SpaceX, worth roughly $14.5 million.
-
-📖 [Read original article](https://www.theblock.co/post/410131/ark-invest-sells-bitmine-bullish-block?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. Aave proposes reserve deprecations affecting $98 million in supplied assets
-
-**Author:** Brian Danga  
-**Published:** 7/30/2026, 8:40:10 AM  
-**Categories:** Crypto Ecosystems, DeFi, Governance, Aave, Governance Votes  
-
-Aave proposed deprecating 75 reserves and six deployments, affecting $98.1 million in supplied assets and $15.6 million in debt.
-
-📖 [Read original article](https://www.theblock.co/post/410127/aave-proposes-reserve-deprecations-affecting-98-million-in-supplied-assets?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Ostium blames off-chain breach for $24 million exploit, rules out smart contract flaw
-
-**Author:** Timmy Shen  
-**Published:** 7/30/2026, 6:25:55 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi  
-
-The team said trader collateral was unaffected and that it will release a recovery plan for liquidity providers.
-
-📖 [Read original article](https://www.theblock.co/post/410122/ostium-post-mortem-exploit?utm_source=rss&utm_medium=rss)
 
 ---
