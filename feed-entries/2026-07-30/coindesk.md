@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-07-30"
 date: "2026-07-30"
 source: "CoinDesk"
-count: 21
+count: 24
 ---
 
 # CoinDesk - 2026-07-30
 
-21 items collected.
+24 items collected.
 
 ---
 
-## 1. Global banks test tokenized money for cross-border payments in $1 million BIS pilot
+## 1. Strategy books $8.2 billion Q2 loss on bitcoin price decline
+
+**Author:** Krisztian Sandor  
+**Published:** 7/30/2026, 8:32:13 PM  
+**Categories:** Markets, Bitcoin News, MicroStrategy, News  
+
+The world's largest corporate bitcoin holder says it has built a cash reserve covering more than two years of dividend payments after investors questioned its growing stack of preferred securities.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline)
+
+---
+
+## 2. Coinbase sinks 5% after missing second quarter revenue estimates
+
+**Author:** Helene Braun  
+**Published:** 7/30/2026, 8:18:33 PM  
+**Categories:** Markets, Coinbase, News  
+
+The company reported $1.22 billion in overall revenue, down from $1.5 billion in the year prior.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates)
+
+---
+
+## 3. Global banks test tokenized money for cross-border payments in $1 million BIS pilot
 
 **Author:** Krisztian Sandor  
 **Published:** 7/30/2026, 5:34:03 PM  
@@ -23,7 +47,7 @@ Twenty-eight banks, including JPMorgan, Citi and UBS, moved real money across bo
 
 ---
 
-## 2. Ondo Finance weighs acquisition worth up to $500 million
+## 4. Ondo Finance weighs acquisition worth up to $500 million
 
 **Author:** Will Canny  
 **Published:** 7/30/2026, 4:04:16 PM  
@@ -31,11 +55,11 @@ Twenty-eight banks, including JPMorgan, Citi and UBS, moved real money across bo
 
 The tokenized-assets firm is considering an acquisition valued at $250 million to $500 million as consolidation accelerates across crypto infrastructure.
 
-📖 [Read original article](https://www.coindesk.com/business/2026/07/29/ondo-finance-weighs-acquisition-worth-up-to-usd500-million)
+📖 [Read original article](https://www.coindesk.com/business/2026/07/30/ondo-finance-weighs-acquisition-worth-up-to-usd500-million)
 
 ---
 
-## 3. Crypto for Advisors: Is the Clarity Act dead?
+## 5. Crypto for Advisors: Is the Clarity Act dead?
 
 **Author:** Aaron Brogan  
 **Published:** 7/30/2026, 3:00:49 PM  
@@ -47,7 +71,7 @@ The tokenized-assets firm is considering an acquisition valued at $250 million t
 
 ---
 
-## 4. CME's Duffy warns an overlooked tax risk looms over U.S. perpetual futures
+## 6. CME's Duffy warns an overlooked tax risk looms over U.S. perpetual futures
 
 **Author:** Aoyon Ashraf  
 **Published:** 7/30/2026, 2:33:02 PM  
@@ -59,7 +83,7 @@ CME CEO Terry Duffy said a court battle over whether perpetual futures are swaps
 
 ---
 
-## 5. The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue
+## 7. The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue
 
 **Author:** Shaurya Malwa  
 **Published:** 7/30/2026, 2:25:41 PM  
@@ -71,7 +95,7 @@ A governance proposal would shut deployments on Sonic, Scroll, zkSync, Metis, So
 
 ---
 
-## 6. JPMorgan says fading Clarity Act odds weigh on crypto outlook
+## 8. JPMorgan says fading Clarity Act odds weigh on crypto outlook
 
 **Author:** Will Canny,AI Boost  
 **Published:** 7/30/2026, 2:06:14 PM  
@@ -83,7 +107,7 @@ The bank said deteriorating prospects for U.S. market structure legislation remo
 
 ---
 
-## 7. Institutional crypto trading hits a record 72% as Wall Street calms crypto's wild swings
+## 9. Institutional crypto trading hits a record 72% as Wall Street calms crypto's wild swings
 
 **Author:** Helene Braun  
 **Published:** 7/30/2026, 1:55:18 PM  
@@ -95,7 +119,7 @@ A new report from market maker Wintermute found that institutions now dominate c
 
 ---
 
-## 8. Ethereum enters its second decade after a year of upheaval at the foundation
+## 10. Ethereum enters its second decade after a year of upheaval at the foundation
 
 **Author:** Margaux Nijkerk,AI Boost  
 **Published:** 7/30/2026, 1:52:37 PM  
@@ -107,7 +131,7 @@ Few periods in Ethereum's 11-year history have brought as much change, from lead
 
 ---
 
-## 9. Fake staking site drains $8.5 million in XRP from dozens of investors promising easy yield
+## 11. Fake staking site drains $8.5 million in XRP from dozens of investors promising easy yield
 
 **Author:** Olivier Acuna  
 **Published:** 7/30/2026, 1:35:51 PM  
@@ -119,7 +143,19 @@ Seoul police say the amount of the scam might rise to nearly $20 million. Two al
 
 ---
 
-## 10. Telegram faces terror-related legal action in Australia one day after founder is charged by Russia
+## 12. Everything is becoming a perp
+
+**Author:** Matthew Fisher  
+**Published:** 7/30/2026, 1:00:00 PM  
+**Categories:** Opinion, Opinion  
+
+The perpetual — the 24/7, leveraged contract that crypto invented and then perfected — is no longer just a way to trade crypto, says Katana Network’s Matthew Fisher. It’s becoming the way to trade everything.
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/07/28/everything-is-becoming-a-perp)
+
+---
+
+## 13. Telegram faces terror-related legal action in Australia one day after founder is charged by Russia
 
 **Author:** Olivier Acuna  
 **Published:** 7/30/2026, 12:09:18 PM  
@@ -131,7 +167,7 @@ The platform faces a fine of up to $38 million for allegedly failing to remove t
 
 ---
 
-## 11. Bitcoin ETFs on track for the smallest monthly inflows ever
+## 14. Bitcoin ETFs on track for the smallest monthly inflows ever
 
 **Author:** Omkar Godbole  
 **Published:** 7/30/2026, 11:18:34 AM  
@@ -143,7 +179,7 @@ Your day-ahead look for July 30, 2026
 
 ---
 
-## 12. South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament
+## 15. South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/30/2026, 11:17:56 AM  
@@ -155,7 +191,7 @@ The country plans on taxing cryptocurrency gains from Jan. 1, 2027, signaling th
 
 ---
 
-## 13. Crypto's resilience tested as oil rises after Iran strikes, Fed signals rates could still rise
+## 16. Crypto's resilience tested as oil rises after Iran strikes, Fed signals rates could still rise
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 7/30/2026, 10:56:24 AM  
@@ -167,7 +203,7 @@ Bitcoin held near $64,000 despite the Fed's hawkish split, Iranian ballistic mis
 
 ---
 
-## 14. BitRiver founder charged in Russia with $12.5 million fraud
+## 17. BitRiver founder charged in Russia with $12.5 million fraud
 
 **Author:** Olivier Acuna  
 **Published:** 7/30/2026, 10:02:33 AM  
@@ -179,7 +215,7 @@ Igor Runets has been transferred to a pre-trial detention facility from house ar
 
 ---
 
-## 15. Crypto exchange Luno cuts 20% of staff amid automation push and retail trading slumps
+## 18. Crypto exchange Luno cuts 20% of staff amid automation push and retail trading slumps
 
 **Author:** Francisco Rodrigues  
 **Published:** 7/30/2026, 9:54:18 AM  
@@ -191,19 +227,19 @@ The DCG-owned company previously cut 35% of staff in January 2023 citing tough m
 
 ---
 
-## 16. Live updates: Bitcoin rises above $64,000 as Microsoft's AI payoff lifts stocks
+## 19. Live updates: Bitcoin holds above $64,000 as Nasdaq surges on AI trade comeback
 
 **Author:** Shaurya Malwa,Omkar Godbole,Helene Braun,Stephen Alpher  
 **Published:** 7/30/2026, 9:01:13 AM  
 **Categories:** Tech, Live News, live_news  
 
-The Nasdaq is up more than 2%, with Microsoft higher by 15% after its cloud unit grew at the fastest pace in four years while it held the line on spending.
+The Nasdaq gained more than 2%, with Microsoft higher by 15% after its cloud unit grew at the fastest pace in four years while it held the line on spending.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks)
 
 ---
 
-## 17. Bitcoin and ether markets are ruled by perps. SpaceX showed how far their influence can go
+## 20. Bitcoin and ether markets are ruled by perps. SpaceX showed how far their influence can go
 
 **Author:** Shaurya Malwa  
 **Published:** 7/30/2026, 9:00:00 AM  
@@ -215,7 +251,7 @@ Perpetual futures drive much of the price discovery for bitcoin and ether. When 
 
 ---
 
-## 18. Bitcoin, ether whipsaw wipes out $286 million in leveraged bets
+## 21. Bitcoin, ether whipsaw wipes out $286 million in leveraged bets
 
 **Author:** Shaurya Malwa  
 **Published:** 7/30/2026, 6:59:10 AM  
@@ -227,7 +263,7 @@ Price volatility around the Federal Reserve's rate decision cleared positions fo
 
 ---
 
-## 19. Bitcoin analysts agree the Fed's hold was hawkish. They are split on what happens next.
+## 22. Bitcoin analysts agree the Fed's hold was hawkish. They are split on what happens next.
 
 **Author:** Omkar Godbole  
 **Published:** 7/30/2026, 6:28:58 AM  
@@ -239,7 +275,7 @@ Four analysts agree the Fed's hawkish hold changes the calculus for risk assets,
 
 ---
 
-## 20. Ether, XRP flat as chip stocks steady on Samsung's 250-fold profit surge
+## 23. Ether, XRP flat as chip stocks steady on Samsung's 250-fold profit surge
 
 **Author:** Shaurya Malwa  
 **Published:** 7/30/2026, 5:19:47 AM  
@@ -251,7 +287,7 @@ Crypto's majors barely moved as Asia's semiconductor selloff eased. Most are sti
 
 ---
 
-## 21. Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours
+## 24. Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours
 
 **Author:** Shaurya Malwa  
 **Published:** 7/30/2026, 4:16:30 AM  
