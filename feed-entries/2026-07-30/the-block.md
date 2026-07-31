@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-30"
 date: "2026-07-30"
 source: "The Block"
-count: 11
+count: 7
 ---
 
 # The Block - 2026-07-30
 
-11 items collected.
+7 items collected.
 
 ---
 
@@ -92,53 +92,5 @@ The falling odds of the Clarity Act passing the Senate before year-end are a set
 Owning shares in these companies fit into Aschenbrenner’s belief power and data-center capacity will be critical to scaling AI.
 
 📖 [Read original article](https://www.theblock.co/post/410173/iren-core-scientific-bitcoin-mining-stocks-surge-aschenbrenner-funds-portfolio-liquidation?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. Fortitude targets 145% Zcash mining capacity increase with $31.5 million Bitmain order
-
-**Author:** Kyle Baird  
-**Published:** 7/30/2026, 3:25:35 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Deals, Infrastructure, Markets, Mining, Mining Companies  
-
-The new Zcash miners are scheduled to ship in Q4and will be deployed across Fortitude's more than 60 MW of power capacity.
-
-📖 [Read original article](https://www.theblock.co/post/410161/fortitude-targets-145-zcash-mining-capacity-increase-31-5-million-bitmain-order?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. ‘Paid to wait’: Bitcoin presses toward $65,000 as Treasuries out-yield the carry trade for only second time on record
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/30/2026, 3:11:38 PM  
-**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin  
-
-Bitcoin firmed toward $65,000 on Thursday as softer economic data eased September Fed hike fears, with spot volume near multi-year lows.
-
-📖 [Read original article](https://www.theblock.co/post/410163/paid-to-wait-bitcoin-presses-toward-65000-as-treasuries-out-yield-carry-trade-for-only-second-time-on-record?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Australia’s eSafety regulator sues Telegram over alleged failure to remove pro-terror content, seeks A$54.6 million penalty
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/30/2026, 1:24:11 PM  
-**Categories:** Companies, Legal, Policy, Regulation, Lawsuits  
-
-Australia's eSafety regulator sued Telegram in Federal Court over alleged failures to remove pro-terror content.
-
-📖 [Read original article](https://www.theblock.co/post/410152/australias-esafety-regulator-sues-telegram-over-alleged-failure-to-remove-pro-terror-content-seeks-a54-6-million-penalty?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Hyperscale Data sells 100 bitcoin to fund Michigan AI data center build
-
-**Author:** Brian Danga  
-**Published:** 7/30/2026, 1:10:16 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Web3, AI, Mining Companies  
-
-Hyperscale Data sold 100 bitcoin and opened a credit facility to fund its Michigan AI data center campus build.
-
-📖 [Read original article](https://www.theblock.co/post/410148/hyperscale-data-sells-100-bitcoin-to-fund-michigan-ai-data-center-build?utm_source=rss&utm_medium=rss)
 
 ---
