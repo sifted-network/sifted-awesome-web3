@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-28"
 date: "2026-07-28"
 source: "Decrypt"
-count: 11
+count: 7
 ---
 
 # Decrypt - 2026-07-28
 
-11 items collected.
+7 items collected.
 
 ---
 
@@ -92,53 +92,5 @@ The Wall Street giant has launched spot Ethereum and Solana exchange-traded prod
 The Senate kicked the can, the Fed has traders on edge, and XRP's charts are running out of support zones to fall back on.
 
 📖 [Read original article](https://decrypt.co/374579/xrp-price-slides-senate-clarity-act-fed-rate-looms)
-
----
-
-## 8. Zcash Activates Ironwood Upgrade After Counterfeiting Scare
-
-**Author:** Jason Nelson  
-**Published:** 7/28/2026, 6:24:19 PM  
-**Categories:** zcash, Coins  
-
-The long-awaited network upgrade retires Zcash's vulnerable Orchard shielded pool and introduces new safeguards to protect the cryptocurrency's supply.
-
-📖 [Read original article](https://decrypt.co/374577/zcash-ironwood-upgrade-counterfeiting-scare)
-
----
-
-## 9. The Dumbest-Looking AI Prompt Just Beat Months of Careful Game-Design Prompt Engineering
-
-**Author:** Jose Antonio Lanz  
-**Published:** 7/28/2026, 6:04:00 PM  
-**Categories:** Artificial Intelligence  
-
-The dev told Claude Opus 5 to be "utterly perfect" and left the rest up to the model—the results turned out to be utterly perfect, for an AI model.
-
-📖 [Read original article](https://decrypt.co/374560/dumbest-ai-prompt-claude-beat-careful-game-design)
-
----
-
-## 10. First ChatGPT, Now Claude: Frontier AI Models Are Escaping Their Sandboxes
-
-**Author:** Jason Nelson  
-**Published:** 7/28/2026, 4:54:11 PM  
-**Categories:** Artificial Intelligence  
-
-A week after OpenAI disclosed a frontier AI sandbox escape, researchers found Anthropic's Claude Cowork could break out of its own virtual machine.
-
-📖 [Read original article](https://decrypt.co/374557/chatgpt-claude-ai-models-escaping-sandboxes-cowork)
-
----
-
-## 11. Why the Bitcoin Rally Seems More Like a Bull Trap
-
-**Author:** Jose Antonio Lanz  
-**Published:** 7/28/2026, 4:22:18 PM  
-**Categories:** , Markets  
-
-The Bitcoin bounce looked promising. The charts now say it wasn't.
-
-📖 [Read original article](https://decrypt.co/374539/bitcoin-price-rally-bull-trap)
 
 ---
