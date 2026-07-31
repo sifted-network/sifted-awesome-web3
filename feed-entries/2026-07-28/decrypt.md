@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-28"
 date: "2026-07-28"
 source: "Decrypt"
-count: 14
+count: 11
 ---
 
 # Decrypt - 2026-07-28
 
-14 items collected.
+11 items collected.
 
 ---
 
@@ -140,41 +140,5 @@ A week after OpenAI disclosed a frontier AI sandbox escape, researchers found An
 The Bitcoin bounce looked promising. The charts now say it wasn't.
 
 📖 [Read original article](https://decrypt.co/374539/bitcoin-price-rally-bull-trap)
-
----
-
-## 12. Morning Minute: Strategy Chooses Cash, STRC Over BTC
-
-**Author:** Tyler Warner  
-**Published:** 7/28/2026, 11:57:58 AM  
-**Categories:** , Opinion  
-
-Plus crypto broadly falls following memory stock slide, Coinbase leans into memes with new feature, and the Fomo app sets a new ATH.
-
-📖 [Read original article](https://decrypt.co/374535/morning-minute-strategy-chooses-cash-strc-over-btc)
-
----
-
-## 13. 1inch's Shared Liquidity Layer Aqua Goes Live
-
-**Author:** Decrypt Agent  
-**Published:** 7/28/2026, 11:53:26 AM  
-**Categories:** 1inch, DeFi  
-
-The shared liquidity layer opens to all users on 13 chains, letting one wallet balance stand behind several positions at once.
-
-📖 [Read original article](https://decrypt.co/374533/1inchs-shared-liquidity-layer-aqua-goes-live)
-
----
-
-## 14. Zcash Miner Fortitude Powers Up Nebraska Facility as It Eyes Public Listing
-
-**Author:** Jason Nelson  
-**Published:** 7/28/2026, 11:31:03 AM  
-**Categories:** zcash, Business  
-
-The Digital Currency Group-owned Zcash miner brought its first greenfield site online as it looks to lower mining costs and advance plans to become a public company.
-
-📖 [Read original article](https://decrypt.co/374491/zcash-miner-fortitude-nebraska-mining-facility)
 
 ---
