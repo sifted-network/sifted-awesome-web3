@@ -2,16 +2,52 @@
 title: "The Block - 2026-07-30"
 date: "2026-07-30"
 source: "The Block"
-count: 14
+count: 17
 ---
 
 # The Block - 2026-07-30
 
-14 items collected.
+17 items collected.
 
 ---
 
-## 1. Bipartisan Sens. Tillis and Gallego send new ethics compromise to White House in Clarity Act push
+## 1. Strategy posts $8.2 billion loss as bitcoin holdings increase 11% during Q2
+
+**Author:** RT Watson  
+**Published:** 7/30/2026, 9:38:40 PM  
+**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, Token Projects, Bitcoin, Strategy  
+
+The price of bitcoin was more than 40% lower at the end of this year's second quarter when compared to Q2 2025.
+
+📖 [Read original article](https://www.theblock.co/post/410212/strategy-posts-8-2-billion-loss-as-bitcoin-holdings-increase-11-during-q2?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Coinbase shares slip after Q2 results despite prediction markets doubling and record trading market share
+
+**Author:** Kyle Baird  
+**Published:** 7/30/2026, 9:09:49 PM  
+**Categories:** Companies, Equities, Exchanges, Markets, Public Equities, Coinbase, Earnings  
+
+Coinbase said 88% of its net revenue now comes from sources other than bitcoin spot trading, as its share of global crypto volume grows.
+
+📖 [Read original article](https://www.theblock.co/post/410208/coinbase-shares-slip-after-q2-results-despite-prediction-markets-doubling-and-record-trading-market-share?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. IRS warns crypto holders fraudster sending fake letters in attempt to steal digital assets or data: Bloomberg
+
+**Author:** RT Watson  
+**Published:** 7/30/2026, 7:19:02 PM  
+**Categories:** Legal, Policy, Regulation, Tax, Crime, IRS  
+
+IRS correspondence regarding crypto has become more familiar than in years past as the agency requires taxpayers to disclose activity.
+
+📖 [Read original article](https://www.theblock.co/post/410204/irs-crypto-holders-fraudster-sending-fake-letters-steal-digital-assets-data-bloomberg?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Bipartisan Sens. Tillis and Gallego send new ethics compromise to White House in Clarity Act push
 
 **Author:** Sarah Wynn  
 **Published:** 7/30/2026, 6:30:42 PM  
@@ -23,7 +59,7 @@ Senators are trying again to see if they can get President Donald Trump to sign 
 
 ---
 
-## 2. Quantum Solutions loses top Japan ETH treasury spot after another $1.9 million sale
+## 5. Quantum Solutions loses top Japan ETH treasury spot after another $1.9 million sale
 
 **Author:** Kyle Baird  
 **Published:** 7/30/2026, 6:16:45 PM  
@@ -35,7 +71,7 @@ The two sales have reduced Quantum’s ETH treasury holdings by 28.6% since mid-
 
 ---
 
-## 3. JPMorgan says crypto bill’s fading odds hurt outlook, warns parts could discourage institutional adoption
+## 6. JPMorgan says crypto bill’s fading odds hurt outlook, warns parts could discourage institutional adoption
 
 **Author:** Yogita Khatri  
 **Published:** 7/30/2026, 5:49:56 PM  
@@ -47,7 +83,7 @@ The falling odds of the Clarity Act passing the Senate before year-end are a set
 
 ---
 
-## 4. IREN, Core Scientific and more surge as Aschenbrenner fund reportedly liquidates $1 billion AI infrastructure portfolio
+## 7. IREN, Core Scientific and more surge as Aschenbrenner fund reportedly liquidates $1 billion AI infrastructure portfolio
 
 **Author:** RT Watson  
 **Published:** 7/30/2026, 4:58:45 PM  
@@ -59,7 +95,7 @@ Owning shares in these companies fit into Aschenbrenner’s belief power and dat
 
 ---
 
-## 5. Fortitude targets 145% Zcash mining capacity increase with $31.5 million Bitmain order
+## 8. Fortitude targets 145% Zcash mining capacity increase with $31.5 million Bitmain order
 
 **Author:** Kyle Baird  
 **Published:** 7/30/2026, 3:25:35 PM  
@@ -71,7 +107,7 @@ The new Zcash miners are scheduled to ship in Q4and will be deployed across Fort
 
 ---
 
-## 6. ‘Paid to wait’: Bitcoin presses toward $65,000 as Treasuries out-yield the carry trade for only second time on record
+## 9. ‘Paid to wait’: Bitcoin presses toward $65,000 as Treasuries out-yield the carry trade for only second time on record
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/30/2026, 3:11:38 PM  
@@ -83,7 +119,7 @@ Bitcoin firmed toward $65,000 on Thursday as softer economic data eased Septembe
 
 ---
 
-## 7. Australia’s eSafety regulator sues Telegram over alleged failure to remove pro-terror content, seeks A$54.6 million penalty
+## 10. Australia’s eSafety regulator sues Telegram over alleged failure to remove pro-terror content, seeks A$54.6 million penalty
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/30/2026, 1:24:11 PM  
@@ -95,7 +131,7 @@ Australia's eSafety regulator sued Telegram in Federal Court over alleged failur
 
 ---
 
-## 8. Hyperscale Data sells 100 bitcoin to fund Michigan AI data center build
+## 11. Hyperscale Data sells 100 bitcoin to fund Michigan AI data center build
 
 **Author:** Brian Danga  
 **Published:** 7/30/2026, 1:10:16 PM  
@@ -107,7 +143,7 @@ Hyperscale Data sold 100 bitcoin and opened a credit facility to fund its Michig
 
 ---
 
-## 9. Bernstein says Core Scientific’s AMD partnership could generate $14B over 15 years
+## 12. Bernstein says Core Scientific’s AMD partnership could generate $14B over 15 years
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/30/2026, 12:15:01 PM  
@@ -119,7 +155,7 @@ Bernstein values Core Scientific's AMD deal at $14B over 15 years, with AMD back
 
 ---
 
-## 10. Cathie Wood’s Ark Invest sells Bitmine, Bullish, Block shares as crypto stocks dip
+## 13. Cathie Wood’s Ark Invest sells Bitmine, Bullish, Block shares as crypto stocks dip
 
 **Author:** Danny Park  
 **Published:** 7/30/2026, 8:47:00 AM  
@@ -131,7 +167,7 @@ Meanwhile, the investment firm purchased 128,932 shares of Elon Musk's SpaceX, w
 
 ---
 
-## 11. Aave proposes reserve deprecations affecting $98 million in supplied assets
+## 14. Aave proposes reserve deprecations affecting $98 million in supplied assets
 
 **Author:** Brian Danga  
 **Published:** 7/30/2026, 8:40:10 AM  
@@ -143,7 +179,7 @@ Aave proposed deprecating 75 reserves and six deployments, affecting $98.1 milli
 
 ---
 
-## 12. Ostium blames off-chain breach for $24 million exploit, rules out smart contract flaw
+## 15. Ostium blames off-chain breach for $24 million exploit, rules out smart contract flaw
 
 **Author:** Timmy Shen  
 **Published:** 7/30/2026, 6:25:55 AM  
@@ -155,7 +191,7 @@ The team said trader collateral was unaffected and that it will release a recove
 
 ---
 
-## 13. Russia detains crypto mining firm BitRiver founder on fraud charges: report
+## 16. Russia detains crypto mining firm BitRiver founder on fraud charges: report
 
 **Author:** Danny Park  
 **Published:** 7/30/2026, 5:13:34 AM  
@@ -167,7 +203,7 @@ Runets and his company were reportedly involved in a deal with local conglomerat
 
 ---
 
-## 14. Binance.US to apply for CFTC license in August for prediction market platform
+## 17. Binance.US to apply for CFTC license in August for prediction market platform
 
 **Author:** Danny Park  
 **Published:** 7/30/2026, 3:17:36 AM  
