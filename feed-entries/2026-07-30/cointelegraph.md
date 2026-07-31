@@ -11,7 +11,7 @@ count: 25
 
 ---
 
-## 1. US Senators sent revised ethics rules to White House for CLARITY Act: Report
+## 1. US senators sent revised ethics rules to White House for CLARITY Act: Report
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/30/2026, 9:54:38 PM  
@@ -89,7 +89,7 @@ The Telegram founder said Russia designated him a terrorist after he refused gov
 **Published:** 7/30/2026, 7:45:52 PM  
 **Categories:** Latest News  
 
-The proposed legislation referenced Donald Trump’s disclosure of billions of dollars in crypto earnings in 2025, as well as his family’s business ties to foreign governments.
+The proposed legislation referenced US President Donald Trump’s disclosure of billions of dollars in crypto earnings in 2025, as well as his family’s business ties to foreign governments.
 
 📖 [Read original article](https://cointelegraph.com/news/senate-government-agency-donald-trump-cryptocurrency-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
