@@ -2,16 +2,76 @@
 title: "The Block - 2026-07-31"
 date: "2026-07-31"
 source: "The Block"
-count: 8
+count: 13
 ---
 
 # The Block - 2026-07-31
 
-8 items collected.
+13 items collected.
 
 ---
 
-## 1. TD Cowen cuts Sharplink price target to $13 on lower 2026 ether outlook
+## 1. Tether’s excess reserves fall by more than $4 billion amid weaker Q2 financial results
+
+**Author:** RT Watson  
+**Published:** 7/31/2026, 5:58:47 PM  
+**Categories:** Companies, Crypto Ecosystems, Equities, Markets, Stablecoins, Token Projects, Earnings, Tether  
+
+Tether swung from $4.9 billion in net profit for Q2 2025 to $1.5 in net operating profit during the second quarter of this year.
+
+📖 [Read original article](https://www.theblock.co/post/410305/tethers-excess-reserves-fall-by-more-than-4-billion-amid-weaker-q2-financial-results?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Analysts back Strategy’s cash buildup as Saylor shifts from ‘100% bitcoin’ approach
+
+**Author:** Naga Avan-Nomayo and RT Watson  
+**Published:** 7/31/2026, 5:40:13 PM  
+**Categories:** Companies, Equities, Markets, Public Equities, Analyst Reports, Earnings, Strategy  
+
+TD Cowen and Benchmark reiterated buy on Strategy after an $8.2 billion Q2 loss and a corporate STRC-to-par push.
+
+📖 [Read original article](https://www.theblock.co/post/410297/strategy-cash-buildup-saylor-shifts-from-100-bitcoin-approach?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. World Cup 2026 prediction markets topped $20 billion, with Ronaldo tears among the biggest wagers
+
+**Author:** Kyle Baird  
+**Published:** 7/31/2026, 4:48:36 PM  
+**Categories:** Companies, Markets  
+
+World Cup betting activity peaked around major knockout matches, with markets ranging from match outcomes to player-specific outcomes.
+
+📖 [Read original article](https://www.theblock.co/post/410295/world-cup-2026-prediction-markets-topped-20-billion-ronaldo-tears-biggest-wagers?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Uniswap launches ‘Earn’ with Morpho to let users earn yield on idle crypto assets
+
+**Author:** Yogita Khatri  
+**Published:** 7/31/2026, 3:00:52 PM  
+**Categories:** Crypto Ecosystems, DeFi, Markets, exclusive, Lending, Uniswap  
+
+Uniswap has teamed up with Morpho to launch Earn, a new lending product that lets users earn yield via Gauntlet-curated vaults.
+
+📖 [Read original article](https://www.theblock.co/post/410286/uniswap-morpho-earn-yield-gauntlet-vaults?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Ethereum’s 43-day staking queue isn’t a clean demand signal, Sygnum says
+
+**Author:** Brian Danga  
+**Published:** 7/31/2026, 2:35:11 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, Layer 1s, Markets, Token Projects, Ethereum, Staking Firms  
+
+Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
+
+📖 [Read original article](https://www.theblock.co/post/410285/ethereum-43-day-staking-queue-isnt-clean-demand-signal-sygnum?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. TD Cowen cuts Sharplink price target to $13 on lower 2026 ether outlook
 
 **Author:** Brian Danga  
 **Published:** 7/31/2026, 1:03:29 PM  
@@ -23,7 +83,7 @@ TD Cowen cut Sharplink's price target after lowering its 2026 ether forecast whi
 
 ---
 
-## 2. Circle secures NYDFS trust charter, adding state layer to federal USDC oversight
+## 7. Circle secures NYDFS trust charter, adding state layer to federal USDC oversight
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 7/31/2026, 12:59:31 PM  
@@ -35,7 +95,7 @@ Circle won a limited-purpose trust charter from NYDFS for Circle Internet Trust 
 
 ---
 
-## 3. Bernstein sees 78% upside for Robinhood as tokenization, prediction markets expand its crypto business
+## 8. Bernstein sees 78% upside for Robinhood as tokenization, prediction markets expand its crypto business
 
 **Author:** Brian Danga  
 **Published:** 7/31/2026, 10:43:58 AM  
@@ -47,7 +107,7 @@ Bernstein held its $160 Robinhood price target, citing tokenization and predicti
 
 ---
 
-## 4. Senate Democrats propose anti-corruption bureau as Trump’s crypto portfolio draws more scrutiny
+## 9. Senate Democrats propose anti-corruption bureau as Trump’s crypto portfolio draws more scrutiny
 
 **Author:** Danny Park  
 **Published:** 7/31/2026, 9:34:29 AM  
@@ -59,7 +119,7 @@ Recent financial disclosures showed that Trump made hundreds of millions of doll
 
 ---
 
-## 5. New York sues Kalshi over illegal gambling claims, seeks $36 billion in damages
+## 10. New York sues Kalshi over illegal gambling claims, seeks $36 billion in damages
 
 **Author:** Timmy Shen  
 **Published:** 7/31/2026, 7:34:48 AM  
@@ -71,7 +131,7 @@ New York State is seeking at least $36 billion in compensatory damages from Kals
 
 ---
 
-## 6. ‘Funds may be at risk’: Coinkite issues warning for Coldcard Mk3 users amid 594 BTC theft reports
+## 11. ‘Funds may be at risk’: Coinkite issues warning for Coldcard Mk3 users amid 594 BTC theft reports
 
 **Author:** Danny Park  
 **Published:** 7/31/2026, 2:56:53 AM  
@@ -83,7 +143,7 @@ Coinkite recommends that Mk3 users create a strong, unique BIP-39 passphrase on 
 
 ---
 
-## 7. Stablecoin Reserve Requirements Explained
+## 12. Stablecoin Reserve Requirements Explained
 
 **Author:** The Block Research  
 **Published:** 7/31/2026, 2:31:26 AM  
@@ -95,7 +155,7 @@ A stablecoin is a digital asset designed to maintain a steady value by pegging i
 
 ---
 
-## 8. Stablecoins and Cross-Border Payments: How Digital Dollars Move Across Borders
+## 13. Stablecoins and Cross-Border Payments: How Digital Dollars Move Across Borders
 
 **Author:** The Block Research  
 **Published:** 7/31/2026, 1:53:33 AM  
