@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-30"
 date: "2026-07-30"
 source: "The Block"
-count: 4
+count: 3
 ---
 
 # The Block - 2026-07-30
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Coinbase said 88% of its net revenue now comes from sources other than bitcoin s
 IRS correspondence regarding crypto has become more familiar than in years past as the agency requires taxpayers to disclose activity.
 
 📖 [Read original article](https://www.theblock.co/post/410204/irs-crypto-holders-fraudster-sending-fake-letters-steal-digital-assets-data-bloomberg?utm_source=rss&utm_medium=rss)
-
----
-
-## 4. Bipartisan Sens. Tillis and Gallego send new ethics compromise to White House in Clarity Act push
-
-**Author:** Sarah Wynn  
-**Published:** 7/30/2026, 6:30:42 PM  
-**Categories:** People, Policy, Regulation, U.S. Policymaking, Donald Trump, Senate Agriculture Committee, Senate Banking Committee  
-
-Senators are trying again to see if they can get President Donald Trump to sign off on revised ethics language.
-
-📖 [Read original article](https://www.theblock.co/post/410193/bipartisan-sens-tillis-gallego-new-ethics-compromise-white-house-clarity-act-push?utm_source=rss&utm_medium=rss)
 
 ---
