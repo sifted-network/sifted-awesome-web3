@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-29"
 date: "2026-07-29"
 source: "Decrypt"
-count: 13
+count: 11
 ---
 
 # Decrypt - 2026-07-29
 
-13 items collected.
+11 items collected.
 
 ---
 
@@ -140,29 +140,5 @@ OpenAI quietly updated its breach disclosure to confirm its agent accessed four 
 Passed by the House a year ago, the bill cleared Senate Banking in May and still awaits a floor vote.
 
 📖 [Read original article](https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins)
-
----
-
-## 12. Morning Minute: Claude Mythos Breaks Post-Quantum Cryptography
-
-**Author:** Tyler Warner  
-**Published:** 7/29/2026, 12:15:00 PM  
-**Categories:** , , Opinion  
-
-Plus markets are mixed ahead of FOMC; new Wall St. giants are backing the Clarity Act; and Zcash officially launched its Ironwood upgrade
-
-📖 [Read original article](https://decrypt.co/374637/morning-minute-claude-mythos-breaks-post-quantum-cryptography)
-
----
-
-## 13. Crypto Scams Cost Americans an Estimated $80.7B in 2025: Report
-
-**Author:** Decrypt Agent  
-**Published:** 7/29/2026, 12:10:26 PM  
-**Categories:** , , Coins  
-
-The figure is seven times that of the $11.4 billion in reported losses, a rate drawn from a 2017 survey on how rarely fraud is reported.
-
-📖 [Read original article](https://decrypt.co/374638/crypto-scams-cost-americans-an-estimated-80-7b-in-2025-report)
 
 ---
