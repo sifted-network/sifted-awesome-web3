@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-30"
 date: "2026-07-30"
 source: "CoinDesk"
-count: 5
+count: 3
 ---
 
 # CoinDesk - 2026-07-30
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ The company reported $1.22 billion in overall revenue, down from $1.5 billion in
 Twenty-eight banks, including JPMorgan, Citi and UBS, moved real money across borders in a live test of blockchain-based settlement.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/30/global-banks-test-tokenized-money-for-cross-border-payments-in-usd1-million-bis-pilot)
-
----
-
-## 4. Ondo Finance weighs acquisition worth up to $500 million
-
-**Author:** Will Canny  
-**Published:** 7/30/2026, 4:04:16 PM  
-**Categories:** Finance, mergers and acquisitions, Exclusive, Tokenization, ondo finance, News  
-
-The tokenized-assets firm is considering an acquisition valued at $250 million to $500 million as consolidation accelerates across crypto infrastructure.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/30/ondo-finance-weighs-acquisition-worth-up-to-usd500-million)
-
----
-
-## 5. Crypto for Advisors: Is the Clarity Act dead?
-
-**Author:** Aaron Brogan  
-**Published:** 7/30/2026, 3:00:49 PM  
-**Categories:** CoinDesk Indices, CoinDesk Indices, Crypto for Advisors, News  
-
-
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/07/30/crypto-for-advisors-is-the-clarity-act-dead)
 
 ---
