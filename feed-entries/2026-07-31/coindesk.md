@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-31"
 date: "2026-07-31"
 source: "CoinDesk"
-count: 20
+count: 16
 ---
 
 # CoinDesk - 2026-07-31
 
-20 items collected.
+16 items collected.
 
 ---
 
@@ -200,53 +200,5 @@ The suit wants to bar the company from operating what it says is an unlicensed g
 The firm’s board raised the sale cap to 4,375 ETH through Oct. 30, nearly 66% of June holdings, although 3,050 of its remaining ETH is pledged.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers)
-
----
-
-## 17. Bitcoin’s calm is back and so is the setup for a volatility explosion
-
-**Author:** Omkar Godbole  
-**Published:** 7/31/2026, 8:30:31 AM  
-**Categories:** Markets, Bitcoin News, Technical Analysis, News  
-
-Bitcoin’s daily price swings have tightened to their narrowest since January, making clean trades harder to find. Here's what could happen next.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/31/bitcoin-s-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion)
-
----
-
-## 18. Live updates: 'Move your funds now,' says co-founder and CEO of Coldcard maker Coinkite
-
-**Author:** Shaurya Malwa,Omkar Godbole,Stephen Alpher  
-**Published:** 7/31/2026, 7:46:10 AM  
-**Categories:** Markets, Live News, live_news  
-
-The Bank of Japan left its benchmark at 1% and Governor Ueda's hawkish signals landed softly, since markets had already priced an October hike.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/31/live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trade-alive)
-
----
-
-## 19. Bitcoin flat near $64,000 as Kospi's record 17% surge leaves crypto untouched
-
-**Author:** Shaurya Malwa  
-**Published:** 7/31/2026, 5:43:39 AM  
-**Categories:** Markets, News  
-
-Samsung and SK Hynix both jumped more than 23%. Bitcoin moved a fraction of a percent in the past 24 hours, and most majors are still lower on the week.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched)
-
----
-
-## 20. Major bitcoin wallet flaw drains $38 million worth of BTC in 25-minute sweep
-
-**Author:** Shaurya Malwa  
-**Published:** 7/31/2026, 5:12:55 AM  
-**Categories:** Tech, News  
-
-A hardware wallet randomness bug turned “impossible to guess” seeds into guessable ones, and $38 million is already gone.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep)
 
 ---
