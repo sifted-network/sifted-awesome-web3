@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-07-31"
 date: "2026-07-31"
 source: "Cointelegraph"
-count: 19
+count: 21
 ---
 
 # Cointelegraph - 2026-07-31
 
-19 items collected.
+21 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Bank of Italy finds no consistent cost advantage for stablecoin remittances
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 7/31/2026, 8:10:21 PM  
+**Categories:** Latest News  
+
+Researchers found that fiat conversion costs and payment infrastructure, rather than blockchain fees, accounted for most of the differences in stablecoin remittance costs and settlement times.
+
+📖 [Read original article](https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Pump.fun laid off workers before they received millions in PUMP tokens: Report
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 7/31/2026, 7:16:19 PM  
+**Categories:** Latest News  
+
+Pump.fun co-founder Noah Tweedale reportedly attributed the layoffs to the company growing too quickly.
+
+📖 [Read original article](https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/31/2026, 6:09:51 PM  
@@ -23,7 +47,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Ex-FTX users report funds being released in $900M distribution round
+## 4. Ex-FTX users report funds being released in $900M distribution round
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 7/31/2026, 4:56:31 PM  
@@ -35,7 +59,7 @@ Several users of the long-defunct crypto exchange reported that distribution age
 
 ---
 
-## 3. Tether earns $1.5B in Q2 as US Treasury holdings fuel profits
+## 5. Tether earns $1.5B in Q2 as US Treasury holdings fuel profits
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 7/31/2026, 4:25:47 PM  
@@ -47,7 +71,7 @@ Tether’s reserve surplus grew to $4.11 billion in the second quarter as USDT s
 
 ---
 
-## 4. Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral
+## 6. Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 7/31/2026, 4:23:21 PM  
@@ -59,7 +83,7 @@ Eligible retail and institutional users can use tokenized shares of Nvidia, Appl
 
 ---
 
-## 5. US Treasury yields rise as TIPS challenge the inflation narrative
+## 7. US Treasury yields rise as TIPS challenge the inflation narrative
 
 **Author:** Cointelegraph by Charles Bennett  
 **Published:** 7/31/2026, 4:14:19 PM  
@@ -71,7 +95,7 @@ TIPS data points to rising real yields, not inflation, a dynamic that weighs on 
 
 ---
 
-## 6. Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound
+## 8. Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/31/2026, 3:57:03 PM  
@@ -83,7 +107,7 @@ Bitcoin saw fresh downside pressure as US stocks tracked sideways into the end o
 
 ---
 
-## 7. ECB says digital euro app will exceed EU accessibility standards
+## 9. ECB says digital euro app will exceed EU accessibility standards
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 7/31/2026, 2:05:25 PM  
@@ -95,7 +119,7 @@ The European Central Bank proposed accessibility standards for its planned digit
 
 ---
 
-## 8. AMLBot launches AI Tracer for self-service blockchain investigations
+## 10. AMLBot launches AI Tracer for self-service blockchain investigations
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 7/31/2026, 1:59:56 PM  
@@ -107,7 +131,7 @@ Crypto forensics company AMLBot launched an AI-enabled tool allowing users with 
 
 ---
 
-## 9. Circle receives New York trust charter for subsidiary
+## 11. Circle receives New York trust charter for subsidiary
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/31/2026, 1:27:10 PM  
@@ -119,7 +143,7 @@ The New York trust charter allows Circle’s subsidiary to provide fiduciary and
 
 ---
 
-## 10. BOJ intervenes to defend yen near 160, holds rates steady
+## 12. BOJ intervenes to defend yen near 160, holds rates steady
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 7/31/2026, 1:13:46 PM  
@@ -131,7 +155,7 @@ The Japanese yen crosses a key psychological level after the country’s central
 
 ---
 
-## 11. Citadel buys bulk of Situational Awareness stock portfolio after AI rout: Reports
+## 13. Citadel buys bulk of Situational Awareness stock portfolio after AI rout: Reports
 
 **Author:** Cointelegraph by Bryan O'Shea  
 **Published:** 7/31/2026, 11:35:33 AM  
@@ -143,7 +167,7 @@ Situational Awareness retained about $10 billion in assets, including its Anthro
 
 ---
 
-## 12. BIS Project Agorá settles $1 million in tokenized cross-border payment trials
+## 14. BIS Project Agorá settles $1 million in tokenized cross-border payment trials
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/31/2026, 11:02:24 AM  
@@ -155,7 +179,7 @@ Twenty-eight financial institutions and central banks completed real-value settl
 
 ---
 
-## 13. New York sues Kalshi over alleged illegal gambling operation
+## 15. New York sues Kalshi over alleged illegal gambling operation
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/31/2026, 10:05:01 AM  
@@ -167,7 +191,7 @@ The lawsuit adds to a growing clash between New York and the CFTC over whether f
 
 ---
 
-## 14. Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves
+## 16. Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 7/31/2026, 8:57:53 AM  
@@ -179,7 +203,7 @@ DeFi risk management service LlamaRisk recommended that Aave wind down every res
 
 ---
 
-## 15. RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance
+## 17. RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/31/2026, 8:29:51 AM  
@@ -191,7 +215,7 @@ RWA perpetual futures reached 99.2% of Bitcoin perpetual volume on Hyperliquid a
 
 ---
 
-## 16. Bitcoin ETFs post $233M inflows, pushing week back into the green
+## 18. Bitcoin ETFs post $233M inflows, pushing week back into the green
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 7/31/2026, 6:46:23 AM  
@@ -203,7 +227,7 @@ BlackRock’s IBIT led $233.1 million in daily inflows as US spot Bitcoin ETFs t
 
 ---
 
-## 17. Crypto’s next altseason may have fewer winners: Wintermute
+## 19. Crypto’s next altseason may have fewer winners: Wintermute
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/31/2026, 4:46:14 AM  
@@ -215,7 +239,7 @@ Institutional investors accounted for 72% of Wintermute’s spot OTC flow in the
 
 ---
 
-## 18. Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain
+## 20. Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/31/2026, 2:38:09 AM  
@@ -227,7 +251,7 @@ Coinkite urged Coldcard Mk3 users to migrate funds after identifying a potential
 
 ---
 
-## 19. Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury
+## 21. Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 7/31/2026, 12:31:21 AM  
