@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-30"
 date: "2026-07-30"
 source: "Cointelegraph"
-count: 8
+count: 6
 ---
 
 # Cointelegraph - 2026-07-30
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ The Telegram founder said Russia designated him a terrorist after he refused gov
 The proposed legislation referenced US President Donald Trump’s disclosure of billions of dollars in crypto earnings in 2025, as well as his family’s business ties to foreign governments.
 
 📖 [Read original article](https://cointelegraph.com/news/senate-government-agency-donald-trump-cryptocurrency-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Aviva Investors launches tokenized fund after Central Bank of Ireland approval
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 7/30/2026, 5:38:13 PM  
-**Categories:** Latest News  
-
-The new XRPL-based share class gives eligible investors blockchain-based access to a regulated US dollar liquidity fund while keeping traditional custody arrangements.
-
-📖 [Read original article](https://cointelegraph.com/news/aviva-investors-tokenized-fund-central-bank-ireland-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Canadian crypto ownership increases to 25%: Ontario survey
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 7/30/2026, 5:03:17 PM  
-**Categories:** Latest News  
-
-A survey of more than 2,000 Canadians in late 2025 and early 2026 showed an increasing awareness of risk around the crypto industry and higher ownership of assets.
-
-📖 [Read original article](https://cointelegraph.com/news/canadians-ownership-crypto-osc-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
