@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-30"
 date: "2026-07-30"
 source: "Cointelegraph"
-count: 11
+count: 9
 ---
 
 # Cointelegraph - 2026-07-30
 
-11 items collected.
+9 items collected.
 
 ---
 
@@ -116,29 +116,5 @@ A survey of more than 2,000 Canadians in late 2025 and early 2026 showed an incr
 Bitcoin and US stocks enjoyed a relief bounce as the South Korea semiconductor rout eased and US PCE inflation data conforms to year-on-year expectations.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-crypto-stable-as-us-pce-inflation-sees-first-monthly-drop-in-six-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Hyperscale Data sells 100 BTC to fund Michigan AI data center
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 7/30/2026, 3:53:16 PM  
-**Categories:** Latest News  
-
-The Bitcoin miner is using part of its treasury and a BTC-backed credit facility to fund an AI campus tied to a potential multi-billion-dollar infrastructure contract.
-
-📖 [Read original article](https://cointelegraph.com/news/hyperscale-data-taps-bitcoin-treasury-btc-backed-credit-to-fund-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Tokenized gold passes DeFi stress test, but less than 2% is used as collateral
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 7/30/2026, 3:48:37 PM  
-**Categories:** Latest News  
-
-A RedStone report found tokenized bullion held up during gold’s sharp sell-off, but DeFi lending adoption remains limited despite surging market growth and trading volumes.
-
-📖 [Read original article](https://cointelegraph.com/news/tokenized-gold-defi-stress-test-collateral-adoption-redstone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
