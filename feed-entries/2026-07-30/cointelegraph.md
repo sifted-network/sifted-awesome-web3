@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-30"
 date: "2026-07-30"
 source: "Cointelegraph"
-count: 6
+count: 4
 ---
 
 # Cointelegraph - 2026-07-30
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ The blockchain analytics firm said the World Cup attracted global participation 
 The crypto exchange blamed softer spot trading and low volatility for the earnings miss while highlighting growth in derivatives, stablecoins and tokenized finance.
 
 📖 [Read original article](https://cointelegraph.com/markets/coinbase-q2-earnings-record-crypto-market-share?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Telegram’s Pavel Durov responds to Russia’s terrorism designation
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 7/30/2026, 7:54:06 PM  
-**Categories:** Latest News  
-
-The Telegram founder said Russia designated him a terrorist after he refused government demands for mass surveillance and censorship on the messaging platform.
-
-📖 [Read original article](https://cointelegraph.com/news/pavel-durov-responds-russia-terrorism-designation-cites-mass-surveillance-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Senator Schumer proposes agency to address corruption, including Trump’s crypto ventures
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 7/30/2026, 7:45:52 PM  
-**Categories:** Latest News  
-
-The proposed legislation referenced US President Donald Trump’s disclosure of billions of dollars in crypto earnings in 2025, as well as his family’s business ties to foreign governments.
-
-📖 [Read original article](https://cointelegraph.com/news/senate-government-agency-donald-trump-cryptocurrency-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
