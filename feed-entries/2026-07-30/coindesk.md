@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-30"
 date: "2026-07-30"
 source: "CoinDesk"
-count: 6
+count: 5
 ---
 
 # CoinDesk - 2026-07-30
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ The tokenized-assets firm is considering an acquisition valued at $250 million t
 
 
 📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/07/30/crypto-for-advisors-is-the-clarity-act-dead)
-
----
-
-## 6. CME's Duffy warns an overlooked tax risk looms over U.S. perpetual futures
-
-**Author:** Aoyon Ashraf  
-**Published:** 7/30/2026, 2:33:02 PM  
-**Categories:** Policy, Perps Week 2026, News  
-
-CME CEO Terry Duffy said a court battle over whether perpetual futures are swaps or futures could eventually affect how the IRS taxes the contracts. Independent legal experts say the issue remains unresolved.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/30/cme-s-duffy-warns-an-overlooked-tax-risk-looms-over-u-s-perpetual-futures)
 
 ---
