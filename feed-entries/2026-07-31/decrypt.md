@@ -2,16 +2,52 @@
 title: "Decrypt - 2026-07-31"
 date: "2026-07-31"
 source: "Decrypt"
-count: 10
+count: 13
 ---
 
 # Decrypt - 2026-07-31
 
-10 items collected.
+13 items collected.
 
 ---
 
-## 1. Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise
+## 1. Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears
+
+**Author:** Decrypt Agent  
+**Published:** 7/31/2026, 8:32:50 PM  
+**Categories:** Artificial Intelligence  
+
+The Nano Banana tool let users generate fake satellite scenes from a text prompt, alarming investigators who rely on Google Earth to verify breaking news and atrocities.
+
+📖 [Read original article](https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears)
+
+---
+
+## 2. AI Music Company Suno Loses Copyright Case in Germany
+
+**Author:** Jason Nelson  
+**Published:** 7/31/2026, 8:03:22 PM  
+**Categories:** Artificial Intelligence  
+
+The decision requires AI companies to license copyrighted music used to train models and generate songs, marking another legal win for music rights holders in Europe.
+
+📖 [Read original article](https://decrypt.co/374802/suno-ai-music-copyright-case-germany)
+
+---
+
+## 3. US Is Banning Foreign Robots—Even Roombas
+
+**Author:** Jason Nelson  
+**Published:** 7/31/2026, 7:43:24 PM  
+**Categories:** Technology  
+
+New restrictions block future models of foreign-made robots and connected power inverters from receiving FCC approval after U.S. national security agencies warned they could pose cybersecurity and supply chain risks.
+
+📖 [Read original article](https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas)
+
+---
+
+## 4. Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise
 
 **Author:** Jason Nelson  
 **Published:** 7/31/2026, 5:10:49 PM  
@@ -23,7 +59,7 @@ The latest attestation offers a snapshot of the assets backing the world's large
 
 ---
 
-## 2. Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint
+## 5. Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint
 
 **Author:** Jason Nelson  
 **Published:** 7/31/2026, 3:32:02 PM  
@@ -35,7 +71,7 @@ The approval comes weeks after Circle won federal approval to establish a nation
 
 ---
 
-## 3. US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage
+## 6. US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage
 
 **Author:** Decrypt Agent  
 **Published:** 7/31/2026, 3:05:43 PM  
@@ -47,7 +83,7 @@ OFAC sanctioned two Iranian firms including Hormuz Safe, which “accepts paymen
 
 ---
 
-## 4. XDC AI and the Rise of Agentic Finance: When AI Agents Learn to Pay
+## 7. XDC AI and the Rise of Agentic Finance: When AI Agents Learn to Pay
 
 **Author:** Decrypt Staff  
 **Published:** 7/31/2026, 3:01:04 PM  
@@ -59,7 +95,7 @@ As AI agents move from giving advice to making transactions, a new layer of paym
 
 ---
 
-## 5. AI Company Sues Town for Trying to Block Data Center Near National Park
+## 8. AI Company Sues Town for Trying to Block Data Center Near National Park
 
 **Author:** Jason Nelson  
 **Published:** 7/31/2026, 2:01:03 PM  
@@ -71,7 +107,7 @@ A proposed $4.8 billion AI data center near Mammoth Cave National Park has spark
 
 ---
 
-## 6. Claude Hacked Three Companies in Internal Testing: Anthropic
+## 9. Claude Hacked Three Companies in Internal Testing: Anthropic
 
 **Author:** Jason Nelson  
 **Published:** 7/31/2026, 1:47:54 PM  
@@ -83,7 +119,7 @@ Anthropic says three Claude models compromised the companies after a testing mis
 
 ---
 
-## 7. Morning Minute: Coinbase Posts Surprise Loss as Crypto Trading Dries Up
+## 10. Morning Minute: Coinbase Posts Surprise Loss as Crypto Trading Dries Up
 
 **Author:** Tyler Warner  
 **Published:** 7/31/2026, 12:11:17 PM  
@@ -95,7 +131,7 @@ Plus, BTC is red this morning despite $233M in ETF inflows yesterday; and NY Sta
 
 ---
 
-## 8. Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban
+## 11. Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban
 
 **Author:** Decrypt Agent  
 **Published:** 7/31/2026, 11:13:58 AM  
@@ -107,7 +143,7 @@ Three states have already outlawed Bitcoin ATMs, and a committee chair says Texa
 
 ---
 
-## 9. New York AG Seeks $36B From Kalshi Over 'Illegal Gambling'
+## 12. New York AG Seeks $36B From Kalshi Over 'Illegal Gambling'
 
 **Author:** Decrypt Agent  
 **Published:** 7/31/2026, 10:12:16 AM  
@@ -119,7 +155,7 @@ The CFTC asked a court to stop New York enforcing against the prediction market 
 
 ---
 
-## 10. $38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found
+## 13. $38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found
 
 **Author:** Decrypt Agent  
 **Published:** 7/31/2026, 9:02:01 AM  
