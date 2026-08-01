@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-30"
 date: "2026-07-30"
 source: "Cointelegraph"
-count: 9
+count: 8
 ---
 
 # Cointelegraph - 2026-07-30
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ The new XRPL-based share class gives eligible investors blockchain-based access 
 A survey of more than 2,000 Canadians in late 2025 and early 2026 showed an increasing awareness of risk around the crypto industry and higher ownership of assets.
 
 📖 [Read original article](https://cointelegraph.com/news/canadians-ownership-crypto-osc-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bitcoin stable as Fed favorite PCE inflation sees first monthly drop in 6 years
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 7/30/2026, 4:17:29 PM  
-**Categories:** Markets  
-
-Bitcoin and US stocks enjoyed a relief bounce as the South Korea semiconductor rout eased and US PCE inflation data conforms to year-on-year expectations.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-crypto-stable-as-us-pce-inflation-sees-first-monthly-drop-in-six-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
