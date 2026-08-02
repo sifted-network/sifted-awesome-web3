@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-08-01"
 date: "2026-08-01"
 source: "Cointelegraph"
-count: 5
+count: 6
 ---
 
 # Cointelegraph - 2026-08-01
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. Minnesota crypto ATM ban goes into effect after reported $1M losses
+## 1. Onchain, in court: What happened in crypto legal news this week
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/1/2026, 9:14:39 PM  
+**Categories:** Latest News  
+
+A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dismiss over a Polymarket bet and a former congressman was ordered to pay $35,000 for manipulative trading.
+
+📖 [Read original article](https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Minnesota crypto ATM ban goes into effect after reported $1M losses
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/1/2026, 6:07:17 PM  
@@ -23,7 +35,7 @@ State officials reported that Minnesota residents, and largely senior citizens, 
 
 ---
 
-## 2. Crypto PAC pours another $1M into Michigan House race
+## 3. Crypto PAC pours another $1M into Michigan House race
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/1/2026, 3:44:02 PM  
@@ -35,7 +47,7 @@ Michigan incumbent Shri Thanedar’s re-election bid against other Democratic ca
 
 ---
 
-## 3. Russia expands crypto mining ban to Moscow through 2032
+## 4. Russia expands crypto mining ban to Moscow through 2032
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/1/2026, 10:23:41 AM  
@@ -47,7 +59,7 @@ Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryp
 
 ---
 
-## 4. Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis
+## 5. Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/1/2026, 9:23:56 AM  
@@ -59,7 +71,7 @@ Galaxy Research identified 1,196 addresses that lost 1,082.65 Bitcoin in a 41-mi
 
 ---
 
-## 5. Bitcoin ETFs end July in the green despite late-month selling
+## 6. Bitcoin ETFs end July in the green despite late-month selling
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/1/2026, 7:23:07 AM  
