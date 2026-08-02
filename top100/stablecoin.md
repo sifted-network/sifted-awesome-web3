@@ -10,8 +10,8 @@
 | 2 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 870 | 111 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 3 | [dss](https://github.com/sky-ecosystem/dss) | 838 | 450 | Solidity | 16 | Dai Stablecoin System | 2023-10-01 |
 | 4 | [celo-monorepo](https://github.com/celo-org/celo-monorepo) | 800 | 477 | Solidity | 29 | Official repository for core projects comprising the Celo platform | 2026-07-27 |
-| 5 | [stablecoin-evm](https://github.com/circlefin/stablecoin-evm) | 781 | 572 | TypeScript | 22 | Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains | 2026-06-26 |
-| 6 | [Acala](https://github.com/AcalaNetwork/Acala) | 761 | 754 | Rust | 107 | Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama. | 2026-06-14 |
+| 5 | [stablecoin-evm](https://github.com/circlefin/stablecoin-evm) | 781 | 571 | TypeScript | 22 | Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains | 2026-06-26 |
+| 6 | [Acala](https://github.com/AcalaNetwork/Acala) | 761 | 753 | Rust | 107 | Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama. | 2026-06-14 |
 | 7 | [awesome-makerdao](https://github.com/sky-ecosystem/awesome-makerdao) | 710 | 170 | - | 2 | A collection of tools, documents, articles, blog posts, interviews, and videos related to MakerDAO and the Dai stablecoin.  | 2024-07-22 |
 | 8 | [LedgityYield](https://github.com/LedgityLabs/LedgityYield) | 660 | 18 | TypeScript | 1 | Stable yield for stablecoins. Earn up to 7% APY on your stablecoins backed by Real World Assets (RWA). Access low-risk & stable yield directly from your wallet. | 2026-01-21 |
 | 9 | [FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP) | 637 | 118 | JavaScript | 9 | 这是一个金融领域相关的mcp,本项目通过集成 Tushare API 和 Binance API 为语言模型（如Claude）提供全面的实时金融数据访问能力，支持股票、基金、债券、宏观经济指标、稳定币、虚拟货币等多维度金融数据分析。其中也包含了金融数据查询、财经新闻查询、国家统计局数据查询等 | 2026-05-26 |
@@ -19,9 +19,9 @@
 | 11 | [curve-stablecoin](https://github.com/curvefi/curve-stablecoin) | 540 | 112 | Python | 0 | Stablecoin powered by LLAMMAs | 2026-07-27 |
 | 12 | [agentpay-sdk](https://github.com/worldliberty/agentpay-sdk) | 514 | 22 | Rust | 5 | An open SDK for agentic payments. Let AI agents make payments, hold funds, and move money across chains with policy enforcement and human approval built in. | 2026-06-08 |
 | 13 | [market-maker-keeper](https://github.com/sky-ecosystem/market-maker-keeper) | 492 | 187 | Python | 7 | Maker Keeper Framework: Market maker keepers for OasisDEX, EtherDelta, 0x (RadarRelay, ERCdEX), Paradex, DDEX, IDEX, Bibox, Ethfinex, GoPax, HitBTC, TheOcean, OKEX and Gate.io. | 2023-03-15 |
-| 14 | [x402scan](https://github.com/Merit-Systems/x402scan) | 365 | 262 | TypeScript | 43 | x402 Ecosystem Explorer | 2026-07-30 |
+| 14 | [x402scan](https://github.com/Merit-Systems/x402scan) | 365 | 265 | TypeScript | 44 | x402 Ecosystem Explorer | 2026-07-30 |
 | 15 | [foundry-defi-stablecoin-cu](https://github.com/Cyfrin/foundry-defi-stablecoin-cu) | 336 | 169 | Solidity | 0 |  | 2026-06-16 |
-| 16 | [zoneless](https://github.com/zonelessdev/zoneless) | 336 | 33 | TypeScript | 0 | The open-source Stripe, built on stablecoins. Same API and dashboard you already know, minus the fees. Payments infrastructure you actually own. | 2026-08-01 |
+| 16 | [zoneless](https://github.com/zonelessdev/zoneless) | 336 | 33 | TypeScript | 0 | The open-source Stripe, built on stablecoins. Same API and dashboard you already know, minus the fees. Payments infrastructure you actually own. | 2026-08-02 |
 | 17 | [cashclaw](https://github.com/ertugrulakben/cashclaw) | 293 | 105 | JavaScript | 1 | The Agent Economy Layer — agents earn, agents spend, Guard protects. 13 skills, runtime cost cap, recursive kill, tool firewall. 50+ HYRVE API endpoints, job polling daemon, MPP stablecoin. v1.7.0 | 2026-05-19 |
 | 18 | [dharma-smart-wallet](https://github.com/dharma-eng/dharma-smart-wallet) | 269 | 38 | Solidity | 1 | An upgradeable, meta-transaction-enabled smart wallet for earning interest on stablecoins while retaining custody of funds, with an added security backstop provided by Dharma Labs. | 2023-01-04 |
 | 19 | [eulers-shield](https://github.com/KOSASIH/eulers-shield) | 241 | 24 | Python | 0 | A decentralized, AI-powered financial system for stabilizing the value of Pi Coin at $314159. Combining blockchain, machine learning, and cybersecurity, Euler's Shield ensures the security, scalabilit... | 2025-06-21 |
@@ -30,15 +30,15 @@
 | 22 | [core-banking-prototype-laravel](https://github.com/FinAegis/core-banking-prototype-laravel) | 185 | 48 | PHP | 0 | Open-source core banking platform — 61 DDD domains with event sourcing, CQRS, and a schema-first GraphQL API. Multi-asset accounts, exchange, lending, compliance, x402/MPP machine payments, and a non-... | 2026-07-27 |
 | 23 | [usdp-contracts](https://github.com/paxosglobal/usdp-contracts) | 177 | 87 | TypeScript | 1 | Solidity smart contracts for the Paxos Standard ERC20 stablecoin USDP | 2026-01-06 |
 | 24 | [x402-client](https://github.com/vybenetwork/x402-client) | 168 | 66 | TypeScript | 5 | Client SDK for the Vybe x402 API. Pay-per-call USDC over HTTP and prepaid-credit WebSocket streaming for Vybe's Solana analytics API. Built for AI agents. | 2026-05-13 |
-| 25 | [payram-mcp](https://github.com/PayRam/payram-mcp) | 155 | 7 | TypeScript | 2 | Connect to hosted payram helper at: https://mcp.payram.com | 2026-07-25 |
-| 26 | [origin-dollar](https://github.com/OriginProtocol/origin-dollar) | 151 | 112 | Solidity | 190 | OUSD and OETH are stablecoins that passively accrue yield while you are holding it | 2026-07-31 |
+| 25 | [payram-mcp](https://github.com/PayRam/payram-mcp) | 155 | 7 | TypeScript | 3 | Connect to hosted payram helper at: https://mcp.payram.com | 2026-07-25 |
+| 26 | [origin-dollar](https://github.com/OriginProtocol/origin-dollar) | 151 | 112 | Solidity | 190 | OUSD and OETH are stablecoins that passively accrue yield while you are holding it | 2026-08-01 |
 | 27 | [zephyr](https://github.com/ZephyrProtocol/zephyr) | 148 | 24 | C++ | 29 | The Untraceable Stablecoin Protocol. | 2025-06-11 |
 | 28 | [chai](https://github.com/dapphub/chai) | 147 | 27 | Solidity | 3 | ERC20 wrapper over the Dai Savings Rate | 2020-04-01 |
 | 29 | [busd-contract](https://github.com/paxosglobal/busd-contract) | 146 | 90 | Solidity | 4 | Solidity smart contracts for the BUSD stablecoin | 2025-06-11 |
 | 30 | [kiichain](https://github.com/KiiChain/kiichain) | 145 | 123 | Go | 17 | On-chain FX layer for stablecoins and RWA. | 2026-07-31 |
 | 31 | [gateway](https://github.com/compound-finance/gateway) | 135 | 45 | Rust | 2 | An interest-bearing stablecoin bridge between all DeFi chains. | 2022-09-04 |
 | 32 | [USM](https://github.com/usmfum/USM) | 135 | 25 | Solidity | 6 | Minimalist USD - A minimalist, collateralized stablecoin built on Ethereum. | 2021-10-28 |
-| 33 | [Beanstalk](https://github.com/BeanstalkFarms/Beanstalk) | 127 | 86 | TypeScript | 6 | A monorepo for the Beanstalk protocol, SDK, subgraphs and UI. Currently houses infra for the Basin protocol. | 2026-05-13 |
+| 33 | [Beanstalk](https://github.com/BeanstalkFarms/Beanstalk) | 127 | 87 | TypeScript | 6 | A monorepo for the Beanstalk protocol, SDK, subgraphs and UI. Currently houses infra for the Basin protocol. | 2026-05-13 |
 | 34 | [auction-keeper](https://github.com/sky-ecosystem/auction-keeper) | 121 | 71 | Python | 6 | Maker Keeper Framework: Keeper to participate in `flip`, `flop` and `flap` auctions in multicollateral Dai. | 2023-03-08 |
 | 35 | [stable-pi-core](https://github.com/KOSASIH/stable-pi-core) | 116 | 10 | Python | 12 | Stable-Pi-Core is a next-generation decentralized ecosystem that integrates blockchain, quantum AI, IoT, edge computing, and AR/VR to deliver secure, scalable, and personalized solutions for payments,... | 2025-05-30 |
 | 36 | [arbitrage-keeper](https://github.com/sky-ecosystem/arbitrage-keeper) | 113 | 29 | Python | 3 | Maker Keeper Framework: Keeper to arbitrage on OasisDEX, `join`, `exit`, `boom` and `bust`. Efficiently handles both bad debt liquidations and surplus Dai. | 2022-07-15 |
@@ -97,12 +97,12 @@
 | 89 | [stablecoin-contract](https://github.com/kitofcrypto/stablecoin-contract) | 31 | 0 | - | 0 |  | 2025-04-09 |
 | 90 | [PiFinance-Core](https://github.com/KOSASIH/PiFinance-Core) | 31 | 4 | JavaScript | 0 | The core backend implementation of the PiFinance platform, including the stablecoin mechanism, smart contracts for savings and loans, and the peer-to-peer lending system. | 2025-02-15 |
 | 91 | [DFDTOKEN](https://github.com/Cryptoaj-hack/DFDTOKEN) | 31 | 8 | - | 0 | Decentralized Finance (DeFi) Development Services & Solutions Eliminate the role of a middleman by availing decentralized finance (DEFI) development services & solutions. Get access to the major finan... | 2021-03-01 |
-| 92 | [binance](https://github.com/juancarlospaco/binance) | 30 | 9 | Nim | 0 | Binance API Client Futures Spot | 2024-05-29 |
-| 93 | [stablecoin](https://github.com/apopiak/stablecoin) | 29 | 13 | Rust | 6 | a sample implementation of a non-collateralized stablecoin on substrate | 2022-01-26 |
-| 94 | [stablecoin](https://github.com/tqtezos/stablecoin) | 29 | 12 | Haskell | 3 | Tezos stablecoin smart contract | 2023-08-01 |
-| 95 | [awesome-stablecoins](https://github.com/0xperp/awesome-stablecoins) | 29 | 5 | - | 0 | A hopefully comprehensive guide to the stablecoin landscape | 2022-07-24 |
-| 96 | [chaincash](https://github.com/BetterMoneyLabs/chaincash) | 29 | 12 | Scala | 4 | ChainCash - elastic peer-to-peer money collectively backed by blockchain assets and trust | 2026-07-16 |
-| 97 | [refund-protocol](https://github.com/circlefin/refund-protocol) | 29 | 10 | Solidity | 6 | Refund Protocol: a smart contract for stablecoin payment disputes. | 2026-06-18 |
-| 98 | [zkpay](https://github.com/jerrywang33/zkpay) | 29 | 0 | JavaScript | 0 | Sui-native stablecoin checkout infrastructure | 2026-05-27 |
-| 99 | [cdp-keeper](https://github.com/sky-ecosystem/cdp-keeper) | 28 | 12 | Python | 2 | Maker Keeper Framework: Keeper to actively manage open CDPs. | 2023-03-15 |
-| 100 | [Stablecoin-Arbitrage-Bot](https://github.com/ViktorVL584/Stablecoin-Arbitrage-Bot) | 28 | 0 | - | 0 | An automated trading bot that detects price discrepancies between stablecoins across various DeFi platforms and executes profitable swaps. | 2025-02-12 |
+| 92 | [arc-payment-starter-](https://github.com/Adeyemir/arc-payment-starter-) | 30 | 1 | TypeScript | 0 | Building your first stablecoin payment flow on Arc | 2026-06-20 |
+| 93 | [binance](https://github.com/juancarlospaco/binance) | 30 | 9 | Nim | 0 | Binance API Client Futures Spot | 2024-05-29 |
+| 94 | [stablecoin](https://github.com/apopiak/stablecoin) | 29 | 13 | Rust | 6 | a sample implementation of a non-collateralized stablecoin on substrate | 2022-01-26 |
+| 95 | [stablecoin](https://github.com/tqtezos/stablecoin) | 29 | 12 | Haskell | 3 | Tezos stablecoin smart contract | 2023-08-01 |
+| 96 | [awesome-stablecoins](https://github.com/0xperp/awesome-stablecoins) | 29 | 5 | - | 0 | A hopefully comprehensive guide to the stablecoin landscape | 2022-07-24 |
+| 97 | [chaincash](https://github.com/BetterMoneyLabs/chaincash) | 29 | 12 | Scala | 4 | ChainCash - elastic peer-to-peer money collectively backed by blockchain assets and trust | 2026-07-16 |
+| 98 | [refund-protocol](https://github.com/circlefin/refund-protocol) | 29 | 9 | Solidity | 6 | Refund Protocol: a smart contract for stablecoin payment disputes. | 2026-06-18 |
+| 99 | [zkpay](https://github.com/jerrywang33/zkpay) | 29 | 0 | JavaScript | 0 | Sui-native stablecoin checkout infrastructure | 2026-05-27 |
+| 100 | [cdp-keeper](https://github.com/sky-ecosystem/cdp-keeper) | 28 | 12 | Python | 2 | Maker Keeper Framework: Keeper to actively manage open CDPs. | 2023-03-15 |
