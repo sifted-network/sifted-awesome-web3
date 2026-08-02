@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-31"
 date: "2026-07-31"
 source: "CoinDesk"
-count: 16
+count: 14
 ---
 
 # CoinDesk - 2026-07-31
 
-16 items collected.
+14 items collected.
 
 ---
 
@@ -176,29 +176,5 @@ Your day-ahead look for July 31, 2026
 BTC fell as July drew to a close, even as stocks gained in Asia and U.S. index futures advanced. The CoinDesk 20 index is set to post its biggest gain since July 2025.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year)
-
----
-
-## 15. New York sues Kalshi, alleges it offers a gambling platform 'plain and simple'
-
-**Author:** Olivier Acuna  
-**Published:** 7/31/2026, 9:55:47 AM  
-**Categories:** Policy, Kalshi, litigation, News  
-
-The suit wants to bar the company from operating what it says is an unlicensed gambling business and seeks financial redress.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple)
-
----
-
-## 16. Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers
-
-**Author:** Francisco Rodrigues  
-**Published:** 7/31/2026, 8:57:02 AM  
-**Categories:** Finance, Crypto News, Digital Asset Treasury, News  
-
-The firm’s board raised the sale cap to 4,375 ETH through Oct. 30, nearly 66% of June holdings, although 3,050 of its remaining ETH is pledged.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers)
 
 ---
