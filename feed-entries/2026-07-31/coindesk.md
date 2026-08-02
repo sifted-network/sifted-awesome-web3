@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-31"
 date: "2026-07-31"
 source: "CoinDesk"
-count: 12
+count: 9
 ---
 
 # CoinDesk - 2026-07-31
 
-12 items collected.
+9 items collected.
 
 ---
 
@@ -116,41 +116,5 @@ Most analysts blamed a weak crypto market for Coinbase's earnings miss, though o
 Tokenization was crypto's first big export to TradFi. Perps are next, says Martin Lee, markets insight lead at DWF labs.
 
 📖 [Read original article](https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization)
-
----
-
-## 10. Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network
-
-**Author:** Olivier Acuna  
-**Published:** 7/31/2026, 12:28:02 PM  
-**Categories:** Finance, Iran, News  
-
-Shelbit allegedly sent hundreds of millions of dollars to major crypto exchanges, including Binance, as it linked gambling sites and sanctioned Iranian entities to global crypto markets.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters)
-
----
-
-## 11. World Cup bets smash records as prediction markets hit $20 billion in volume
-
-**Author:** Jamie Crawley  
-**Published:** 7/31/2026, 12:00:26 PM  
-**Categories:** Markets, Prediction Markets, News  
-
-Markets ranged from the simple question of who would win the tournament to whether Cristiano Ronaldo would cry when Portugal were eliminated (he did).
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/31/world-cup-bets-smash-records-as-prediction-markets-hit-usd20-billion-in-volume)
-
----
-
-## 12. U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships
-
-**Author:** Shaurya Malwa  
-**Published:** 7/31/2026, 11:58:33 AM  
-**Categories:** Policy, News  
-
-The Treasury Department said the Hormuz Safe platform accepted bitcoin and other digital assets as part of an alleged sanctions workaround tied to IRGC-backed shipping controls.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships)
 
 ---
