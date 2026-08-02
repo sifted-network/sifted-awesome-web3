@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-31"
 date: "2026-07-31"
 source: "Cointelegraph"
-count: 20
+count: 19
 ---
 
 # Cointelegraph - 2026-07-31
 
-20 items collected.
+19 items collected.
 
 ---
 
@@ -236,17 +236,5 @@ Institutional investors accounted for 72% of Wintermute’s spot OTC flow in the
 Coinkite urged Coldcard Mk3 users to migrate funds after identifying a potential seed-generation risk, as Bitcoin security experts separately examine an unexplained $38 million wallet drain.
 
 📖 [Read original article](https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/31/2026, 12:31:21 AM  
-**Categories:** Latest News  
-
-3iQ will manage an undisclosed portion of Gelephu Mindfulness City’s Bitcoin treasury as Bhutan develops a digital-asset investment hub.
-
-📖 [Read original article](https://cointelegraph.com/news/bhutan-gelephu-3iq-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
