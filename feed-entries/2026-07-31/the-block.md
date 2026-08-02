@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-31"
 date: "2026-07-31"
 source: "The Block"
-count: 16
+count: 15
 ---
 
 # The Block - 2026-07-31
 
-16 items collected.
+15 items collected.
 
 ---
 
@@ -188,17 +188,5 @@ Coinkite recommends that Mk3 users create a strong, unique BIP-39 passphrase on 
 A stablecoin is a digital asset designed to maintain a steady value by pegging its price to another asset, most commonly a fiat currency like the U.S. dollar. Stablecoin reserve requirements are the rules determining the assets an issuer must hold to back up every stablecoin it puts into circulation...
 
 📖 [Read original article](https://www.theblock.co/learn/410234/stablecoin-reserve-requirements-explained?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Stablecoins and Cross-Border Payments: How Digital Dollars Move Across Borders
-
-**Author:** The Block Research  
-**Published:** 7/31/2026, 1:53:33 AM  
-**Categories:** -  
-
-Stablecoins are a type of cryptocurrency designed to hold a fixed value against a reference currency, most commonly one U.S. dollar. Transferring stablecoins across countries is unlike transferring money through a bank: A sender converts their local currency into a stablecoin, sends it to the recipi...
-
-📖 [Read original article](https://www.theblock.co/learn/410227/stablecoins-and-cross-border-payments?utm_source=rss&utm_medium=rss)
 
 ---
