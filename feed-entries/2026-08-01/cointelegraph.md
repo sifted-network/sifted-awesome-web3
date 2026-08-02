@@ -26,7 +26,7 @@ A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dis
 ## 2. Minnesota crypto ATM ban goes into effect after reported $1M losses
 
 **Author:** Cointelegraph by Turner Wright  
-**Published:** 8/1/2026, 6:07:17 PM  
+**Published:** 8/1/2026, 6:09:00 PM  
 **Categories:** Latest News  
 
 State officials reported that Minnesota residents, and largely senior citizens, had lost about $1 million from scams tied to crypto kiosks from 2023 to 2025.
@@ -50,7 +50,7 @@ Michigan incumbent Shri Thanedar’s re-election bid against other Democratic ca
 ## 4. Russia expands crypto mining ban to Moscow through 2032
 
 **Author:** Cointelegraph by Helen Partz  
-**Published:** 8/1/2026, 10:23:41 AM  
+**Published:** 8/1/2026, 10:30:00 AM  
 **Categories:** Latest News  
 
 Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions.
@@ -74,7 +74,7 @@ Galaxy Research identified 1,196 addresses that lost 1,082.65 Bitcoin in a 41-mi
 ## 6. Bitcoin ETFs end July in the green despite late-month selling
 
 **Author:** Cointelegraph by Helen Partz  
-**Published:** 8/1/2026, 7:23:07 AM  
+**Published:** 8/1/2026, 7:25:00 AM  
 **Categories:** Markets  
 
 Spot Bitcoin ETFs attracted $172.4 million in July inflows but remained $5.3 billion negative year to date after heavy withdrawals in May and June.
