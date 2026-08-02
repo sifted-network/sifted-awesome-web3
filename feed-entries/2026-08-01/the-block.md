@@ -11,7 +11,7 @@ count: 3
 
 ---
 
-## 1. Iran-linked exchange sent $676 million to Binance in alleged sanctions-evasion operation: Reuters
+## 1. Iran-linked exchange sent $676 million to Binance wallets in alleged sanctions-evasion operation: Reuters
 
 **Author:** Zack Abrams  
 **Published:** 8/1/2026, 9:18:45 PM  
