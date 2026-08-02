@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-07-31"
 date: "2026-07-31"
 source: "CoinDesk"
-count: 14
+count: 12
 ---
 
 # CoinDesk - 2026-07-31
 
-14 items collected.
+12 items collected.
 
 ---
 
@@ -152,29 +152,5 @@ Markets ranged from the simple question of who would win the tournament to wheth
 The Treasury Department said the Hormuz Safe platform accepted bitcoin and other digital assets as part of an alleged sanctions workaround tied to IRGC-backed shipping controls.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships)
-
----
-
-## 13. ​Traders brace for an August crypto pull-back as protection against $60,000 bitcoin dip becomes top trade
-
-**Author:** Omkar Godbole  
-**Published:** 7/31/2026, 11:36:45 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for July 31, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/07/31/bitcoin-usd60-000-put-leads-the-pack-as-mood-swings-bearish-for-august)
-
----
-
-## 14. Bitcoin, ether fall, equities rally with broader crypto market on track for best month in a year
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 7/31/2026, 11:07:52 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-BTC fell as July drew to a close, even as stocks gained in Asia and U.S. index futures advanced. The CoinDesk 20 index is set to post its biggest gain since July 2025.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year)
 
 ---
