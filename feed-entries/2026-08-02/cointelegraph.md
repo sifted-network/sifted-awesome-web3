@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-02"
 date: "2026-08-02"
 source: "Cointelegraph"
-count: 6
+count: 5
 ---
 
 # Cointelegraph - 2026-08-02
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ The “sickening” loss of $90 million of Bitcoin from cold storage weighs heav
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Robert Lakin  
-**Published:** 8/2/2026, 8:00:35 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Strategy leaves preferred STRC dividend at 12% as price still below par
+## 2. Strategy leaves preferred STRC dividend at 12% as price still below par
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 8/2/2026, 3:24:00 PM  
@@ -47,7 +35,7 @@ Investors have previously benefited from a payout boost when the preferred STRC 
 
 ---
 
-## 4. BNB Chain pursues legal action after ex-employee’s memecoin launch
+## 3. BNB Chain pursues legal action after ex-employee’s memecoin launch
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/2/2026, 11:24:00 AM  
@@ -59,7 +47,7 @@ BNB Chain said a former employee allegedly used a company tutorial wallet to cre
 
 ---
 
-## 5. Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC
+## 4. Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/2/2026, 9:31:00 AM  
@@ -71,7 +59,7 @@ Trump Media transferred another 2,628 Bitcoin to Crypto.com, bringing its report
 
 ---
 
-## 6. Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant
+## 5. Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/2/2026, 8:07:00 AM  
