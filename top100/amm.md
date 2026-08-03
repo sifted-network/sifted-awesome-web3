@@ -6,12 +6,12 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [seaprotocol](https://github.com/sea-protocol/seaprotocol) | 5,039 | 52 | Move | 2 | Sea protocol is the ultimate DEX base on order-book & AMM on Aptos & Sui.Anybody has the right to trade any asset anywhere, anytime! | 2026-03-02 |
+| 1 | [seaprotocol](https://github.com/sea-protocol/seaprotocol) | 5,040 | 52 | Move | 2 | Sea protocol is the ultimate DEX base on order-book & AMM on Aptos & Sui.Anybody has the right to trade any asset anywhere, anytime! | 2026-03-02 |
 | 2 | [ammo.js](https://github.com/kripken/ammo.js) | 4,545 | 582 | C++ | 161 | Direct port of the Bullet physics engine to JavaScript using Emscripten | 2026-06-16 |
 | 3 | [Ammonite](https://github.com/com-lihaoyi/Ammonite) | 2,631 | 367 | Scala | 127 | Scala Scripting | 2026-06-22 |
 | 4 | [amm-arbitrageur](https://github.com/paco0x/amm-arbitrageur) | 1,995 | 816 | Solidity | 20 | An arbitrage bot between Uniswap AMMs | 2022-12-07 |
 | 5 | [uniswap-python](https://github.com/uniswap-python/uniswap-python) | 1,009 | 377 | Python | 53 | 🦄 The unofficial Python client for the Uniswap exchange. | 2026-07-29 |
-| 6 | [osmosis](https://github.com/osmosis-labs/osmosis) | 964 | 695 | Go | 175 | The AMM Laboratory | 2026-08-01 |
+| 6 | [osmosis](https://github.com/osmosis-labs/osmosis) | 964 | 695 | Go | 175 | The AMM Laboratory | 2026-08-03 |
 | 7 | [solana-jupiter-bot](https://github.com/ARBProtocol/solana-jupiter-bot) | 789 | 248 | JavaScript | 0 | ARB Protocol \| Automated Arbitrage Bot Using Jupiter | 2024-02-14 |
 | 8 | [ammonia](https://github.com/rust-ammonia/ammonia) | 671 | 54 | Rust | 19 | Repair and secure untrusted HTML | 2026-07-22 |
 | 9 | [amms-rs](https://github.com/darkforestry/amms-rs) | 625 | 179 | Rust | 9 | A Rust library to interact with automated market makers across EVM chains. | 2025-10-06 |
