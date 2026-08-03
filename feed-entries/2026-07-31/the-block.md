@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-31"
 date: "2026-07-31"
 source: "The Block"
-count: 15
+count: 14
 ---
 
 # The Block - 2026-07-31
 
-15 items collected.
+14 items collected.
 
 ---
 
@@ -176,17 +176,5 @@ New York State is seeking at least $36 billion in compensatory damages from Kals
 Coinkite recommends that Mk3 users create a strong, unique BIP-39 passphrase on the device and move funds to the resulting wallet.
 
 📖 [Read original article](https://www.theblock.co/post/410235/coinkite-coldcard-mk3-warning?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Stablecoin Reserve Requirements Explained
-
-**Author:** The Block Research  
-**Published:** 7/31/2026, 2:31:26 AM  
-**Categories:** -  
-
-A stablecoin is a digital asset designed to maintain a steady value by pegging its price to another asset, most commonly a fiat currency like the U.S. dollar. Stablecoin reserve requirements are the rules determining the assets an issuer must hold to back up every stablecoin it puts into circulation...
-
-📖 [Read original article](https://www.theblock.co/learn/410234/stablecoin-reserve-requirements-explained?utm_source=rss&utm_medium=rss)
 
 ---
