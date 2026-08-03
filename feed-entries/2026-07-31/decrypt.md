@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-31"
 date: "2026-07-31"
 source: "Decrypt"
-count: 13
+count: 12
 ---
 
 # Decrypt - 2026-07-31
 
-13 items collected.
+12 items collected.
 
 ---
 
@@ -152,17 +152,5 @@ Three states have already outlawed Bitcoin ATMs, and a committee chair says Texa
 The CFTC asked a court to stop New York enforcing against the prediction market the day before the state filed.
 
 📖 [Read original article](https://decrypt.co/374775/new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling)
-
----
-
-## 13. $38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found
-
-**Author:** Decrypt Agent  
-**Published:** 7/31/2026, 9:02:01 AM  
-**Categories:** , Technology  
-
-Coinkite said it’s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.
-
-📖 [Read original article](https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found)
 
 ---
