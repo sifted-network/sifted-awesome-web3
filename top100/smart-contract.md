@@ -6,41 +6,41 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [sway](https://github.com/FuelLabs/sway) | 61,538 | 5,413 | Rust | 872 | 🌴 Empowering everyone to build reliable and efficient smart contracts. | 2026-07-27 |
-| 2 | [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27,200 | 12,409 | Solidity | 241 | OpenZeppelin Contracts is a library for secure smart contract development. | 2026-07-31 |
-| 3 | [solidity](https://github.com/argotorg/solidity) | 25,692 | 6,143 | C++ | 669 | Solidity, the Smart Contract Programming Language | 2026-07-30 |
+| 1 | [sway](https://github.com/FuelLabs/sway) | 61,536 | 5,413 | Rust | 872 | 🌴 Empowering everyone to build reliable and efficient smart contracts. | 2026-07-27 |
+| 2 | [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27,202 | 12,406 | Solidity | 241 | OpenZeppelin Contracts is a library for secure smart contract development. | 2026-07-31 |
+| 3 | [solidity](https://github.com/argotorg/solidity) | 25,693 | 6,143 | C++ | 669 | Solidity, the Smart Contract Programming Language | 2026-07-30 |
 | 4 | [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) | 11,209 | 2,929 | - | 224 | Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course \| Python Edition | 2024-04-16 |
 | 5 | [eos](https://github.com/EOSIO/eos) | 11,176 | 3,609 | C++ | 304 | An open source smart contract platform  | 2022-07-27 |
-| 6 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | 10,748 | 1,153 | C++ | 111 | WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm... | 2026-07-30 |
-| 7 | [sui](https://github.com/MystenLabs/sui) | 7,732 | 11,667 | Rust | 174 |  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language | 2026-08-01 |
-| 8 | [smart-contract-best-practices](https://github.com/ConsenSysDiligence/smart-contract-best-practices) | 7,577 | 1,469 | HTML | 18 | A guide to smart contract security best practices | 2025-03-28 |
+| 6 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | 10,751 | 1,153 | C++ | 113 | WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm... | 2026-08-02 |
+| 7 | [sui](https://github.com/MystenLabs/sui) | 7,731 | 11,666 | Rust | 175 |  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language | 2026-08-01 |
+| 8 | [smart-contract-best-practices](https://github.com/ConsenSysDiligence/smart-contract-best-practices) | 7,576 | 1,469 | HTML | 18 | A guide to smart contract security best practices | 2025-03-28 |
 | 9 | [vyper](https://github.com/vyperlang/vyper) | 5,176 | 911 | Python | 558 | Pythonic Smart Contract Language for the EVM | 2026-08-01 |
 | 10 | [v3-core](https://github.com/Uniswap/v3-core) | 5,020 | 3,032 | TypeScript | 80 | 🦄 🦄 🦄 Core smart contracts of Uniswap v3 | 2026-07-30 |
 | 11 | [solmate](https://github.com/transmissions11/solmate) | 4,286 | 708 | Solidity | 70 | Modern, opinionated, and gas optimized building blocks for smart contract development. | 2025-07-21 |
 | 12 | [mythril](https://github.com/ConsenSysDiligence/mythril) | 4,260 | 819 | Python | 115 | Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains. | 2026-04-27 |
-| 13 | [corda](https://github.com/corda/corda) | 4,076 | 1,073 | Kotlin | 52 | Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contra... | 2026-08-01 |
+| 13 | [corda](https://github.com/corda/corda) | 4,076 | 1,073 | Kotlin | 52 | Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contra... | 2026-08-03 |
 | 14 | [v2-core](https://github.com/Uniswap/v2-core) | 3,348 | 3,384 | TypeScript | 27 | 🦄 🦄  Core smart contracts of Uniswap V2 | 2026-07-21 |
-| 15 | [solidity-patterns](https://github.com/fravoll/solidity-patterns) | 3,326 | 531 | Solidity | 1 | A compilation of patterns and best practices for the smart contract programming language Solidity | 2024-04-19 |
+| 15 | [solidity-patterns](https://github.com/fravoll/solidity-patterns) | 3,325 | 530 | Solidity | 1 | A compilation of patterns and best practices for the smart contract programming language Solidity | 2024-04-19 |
 | 16 | [echidna](https://github.com/crytic/echidna) | 3,161 | 434 | Haskell | 64 | Ethereum smart contract fuzzer | 2026-07-29 |
 | 17 | [TypeChain](https://github.com/dethcrypto/TypeChain) | 2,795 | 375 | TypeScript | 102 | 🔌 TypeScript bindings for Ethereum smart contracts | 2024-07-10 |
 | 18 | [brownie](https://github.com/eth-brownie/brownie) | 2,723 | 593 | C | 339 | A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine. | 2026-06-21 |
 | 19 | [v4-core](https://github.com/Uniswap/v4-core) | 2,527 | 1,314 | Solidity | 10 | 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4 | 2026-04-24 |
 | 20 | [smart-contract-vulnerabilities](https://github.com/kadenzipfel/smart-contract-vulnerabilities) | 2,488 | 332 | - | 16 | A collection of smart contract vulnerabilities along with prevention methods | 2026-02-08 |
-| 21 | [building-secure-contracts](https://github.com/crytic/building-secure-contracts) | 2,473 | 385 | Solidity | 36 | Guidelines and training material to write secure smart contracts | 2026-04-13 |
+| 21 | [building-secure-contracts](https://github.com/crytic/building-secure-contracts) | 2,474 | 385 | Solidity | 36 | Guidelines and training material to write secure smart contracts | 2026-04-13 |
 | 22 | [not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts) | 2,228 | 363 | Solidity | 5 | Examples of Solidity security issues | 2023-02-24 |
 | 23 | [solcurity](https://github.com/transmissions11/solcurity) | 2,184 | 276 | - | 1 | Opinionated security and code quality standard for Solidity smart contracts. | 2023-07-02 |
 | 24 | [hardhat-template](https://github.com/PaulRBerg/hardhat-template) | 1,972 | 556 | TypeScript | 2 | Hardhat-based template for developing Solidity smart contracts | 2026-02-03 |
 | 25 | [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs) | 1,961 | 348 | Solidity | 2 | To learn common smart contract vulnerabilities using Foundry! | 2025-04-24 |
-| 26 | [Ethereum-Trading-Bot](https://github.com/MIgHTy-alIeN/Ethereum-Trading-Bot) | 1,844 | 1,309 | Solidity | 15 | An arbitrage bot is a smart contract connected to an external automation script that controls its operation. | 2026-08-02 |
+| 26 | [MEV-Ethereum-Trading-Bot](https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot) | 1,932 | 1,371 | Solidity | 15 | An arbitrage bot is a smart contract connected to an external automation script that controls its operation. | 2026-08-03 |
 | 27 | [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) | 1,810 | 248 | Solidity | 10 | Demystifying Exploitable Bugs in Smart Contracts | 2025-06-19 |
 | 28 | [fe](https://github.com/argotorg/fe) | 1,726 | 214 | Rust | 112 | Emerging smart contract language for the Ethereum blockchain. | 2026-08-01 |
-| 29 | [Ridera-core](https://github.com/Ridera-Rwa/Ridera-core) | 1,607 | 18 | Solidity | 2 | Core protocol repository for Ridera — Mobility RWA on Base.  Includes docs, architecture, smart contracts, and protocol design. | 2025-12-15 |
-| 30 | [heimdall-rs](https://github.com/Jon-Becker/heimdall-rs) | 1,594 | 173 | Rust | 15 | Heimdall is an advanced EVM smart contract toolkit specializing in bytecode analysis and extracting information from unverified contracts. | 2026-08-02 |
+| 29 | [Ridera-core](https://github.com/Ridera-Rwa/Ridera-core) | 1,606 | 18 | Solidity | 2 | Core protocol repository for Ridera — Mobility RWA on Base.  Includes docs, architecture, smart contracts, and protocol design. | 2025-12-15 |
+| 30 | [heimdall-rs](https://github.com/Jon-Becker/heimdall-rs) | 1,595 | 173 | Rust | 15 | Heimdall is an advanced EVM smart contract toolkit specializing in bytecode analysis and extracting information from unverified contracts. | 2026-08-02 |
 | 31 | [smart-contract-sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) | 1,591 | 283 | Python | 5 | 🐦🌴🌴🌴🦕 A home for ethereum smart contracts. 🏠 | 2026-07-29 |
 | 32 | [Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources) | 1,562 | 382 | Markdown | 1 | The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol. | 2025-02-02 |
 | 33 | [solidity-cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet) | 1,507 | 317 | - | 0 | Cheat sheet and best practices for solidity. Write smart contracts for Ethereum. | 2026-04-05 |
 | 34 | [ink](https://github.com/use-ink/ink) | 1,460 | 477 | Rust | 143 | Polkadot's ink! to write smart contracts. | 2026-03-25 |
-| 35 | [0x-monorepo](https://github.com/0xProject/0x-monorepo) | 1,409 | 461 | TypeScript | 12 | 0x protocol monorepo - includes our smart contracts and many developer tools | 2021-04-24 |
+| 35 | [0x-monorepo](https://github.com/0xProject/0x-monorepo) | 1,409 | 460 | TypeScript | 12 | 0x protocol monorepo - includes our smart contracts and many developer tools | 2021-04-24 |
 | 36 | [dethcode](https://github.com/dethcrypto/dethcode) | 1,373 | 108 | TypeScript | 22 | View source of deployed Ethereum contracts in VSCode | 2025-09-30 |
 | 37 | [plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) | 1,369 | 1,008 | Haskell | 3 | This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native... | 2025-12-02 |
 | 38 | [oyente](https://github.com/enzymefinance/oyente) | 1,339 | 316 | JavaScript | 65 |  An Analysis Tool for Smart Contracts  | 2023-01-19 |
@@ -49,10 +49,10 @@
 | 41 | [v2-periphery](https://github.com/Uniswap/v2-periphery) | 1,268 | 1,765 | Solidity | 49 | 🎚 Peripheral smart contracts for interacting with Uniswap V2 | 2026-07-22 |
 | 42 | [web3.php](https://github.com/web3p/web3.php) | 1,252 | 580 | PHP | 158 | A php interface for interacting with the Ethereum blockchain and ecosystem. Native ABI parsing and smart contract interactions. | 2024-07-28 |
 | 43 | [simple-security-toolkit](https://github.com/nascentxyz/simple-security-toolkit) | 1,234 | 183 | - | 0 | A collection of practical security-focused guides and checklists for smart contract development | 2023-11-15 |
-| 44 | [Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection) | 1,202 | 108 | Python | 1 | The community's most comprehensive, continuously-updated index of research on Large Language Models for software vulnerability detection — papers across function-level, repository-level, agentic, and ... | 2026-08-02 |
-| 45 | [contracts](https://github.com/maticnetwork/contracts) | 1,172 | 508 | JavaScript | 38 | Smart contracts comprising the business logic of the Matic Network | 2024-03-01 |
+| 44 | [Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection) | 1,204 | 108 | Python | 1 | The community's most comprehensive, continuously-updated index of research on Large Language Models for software vulnerability detection — papers across function-level, repository-level, agentic, and ... | 2026-08-03 |
+| 45 | [contracts](https://github.com/maticnetwork/contracts) | 1,171 | 508 | JavaScript | 38 | Smart contracts comprising the business logic of the Matic Network | 2024-03-01 |
 | 46 | [starcoin](https://github.com/starcoinorg/starcoin) | 1,154 | 253 | Rust | 193 | Starcoin - A Move smart contract blockchain network that scales by layering | 2026-07-28 |
-| 47 | [cosmwasm](https://github.com/CosmWasm/cosmwasm) | 1,149 | 414 | Rust | 42 | WebAssembly Smart Contracts for the Cosmos SDK | 2026-07-19 |
+| 47 | [cosmwasm](https://github.com/CosmWasm/cosmwasm) | 1,150 | 414 | Rust | 42 | WebAssembly Smart Contracts for the Cosmos SDK | 2026-07-19 |
 | 48 | [aave-v3-core](https://github.com/aave/aave-v3-core) | 1,113 | 737 | TypeScript | 27 | This repository contains the core smart contracts of the Aave V3 protocol. | 2024-09-03 |
 | 49 | [ityfuzz](https://github.com/fuzzland/ityfuzz) | 1,108 | 182 | Rust | 56 | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | 2025-12-10 |
 | 50 | [contracts](https://github.com/thirdweb-dev/contracts) | 1,088 | 584 | Solidity | 18 | Collection of smart contracts deployable via thirdweb | 2026-05-25 |
@@ -63,12 +63,12 @@
 | 55 | [solidity-coverage](https://github.com/sc-forks/solidity-coverage) | 1,002 | 273 | JavaScript | 39 | Code coverage for Solidity smart-contracts  | 2025-12-11 |
 | 56 | [Waffle](https://github.com/TrueFiEng/Waffle) | 963 | 178 | TypeScript | 68 | Library for writing and testing smart contracts. | 2023-11-22 |
 | 57 | [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) | 958 | 211 | TypeScript | 145 | Visual Studio Code language support extension for Solidity smart contracts in Ethereum https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity | 2026-05-28 |
-| 58 | [sourcify](https://github.com/argotorg/sourcify) | 944 | 534 | TypeScript | 98 | Source code verification service for Ethereum smart contracts | 2026-07-30 |
-| 59 | [moonbeam](https://github.com/moonbeam-foundation/moonbeam) | 937 | 382 | TypeScript | 18 | An Ethereum-compatible smart contract parachain on Polkadot | 2026-08-01 |
+| 58 | [sourcify](https://github.com/argotorg/sourcify) | 945 | 535 | TypeScript | 98 | Source code verification service for Ethereum smart contracts | 2026-07-30 |
+| 59 | [moonbeam](https://github.com/moonbeam-foundation/moonbeam) | 937 | 382 | TypeScript | 18 | An Ethereum-compatible smart contract parachain on Polkadot | 2026-08-02 |
 | 60 | [porosity](https://github.com/msuiche/porosity) | 934 | 180 | C++ | 22 | *UNMAINTAINED* Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts | 2019-01-10 |
 | 61 | [SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor) | 922 | 126 | - | 0 | Smart contract audit skills roadmap for beginners, auditors, engineers, etc. | 2025-03-25 |
-| 62 | [daml](https://github.com/digital-asset/daml) | 912 | 256 | Haskell | 705 | The Daml smart contract language | 2026-08-01 |
-| 63 | [Awesome-Smart-Contract-Security](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security) | 903 | 160 | - | 0 | A curated list of Smart Contract Security materials and resources For Researchers | 2026-07-13 |
+| 62 | [daml](https://github.com/digital-asset/daml) | 912 | 256 | Haskell | 705 | The Daml smart contract language | 2026-08-02 |
+| 63 | [Awesome-Smart-Contract-Security](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security) | 903 | 162 | - | 0 | A curated list of Smart Contract Security materials and resources For Researchers | 2026-07-13 |
 | 64 | [SWC-registry](https://github.com/SmartContractSecurity/SWC-registry) | 902 | 173 | - | 8 | Smart Contract Weakness Classification and Test Cases | 2024-08-06 |
 | 65 | [v4-periphery](https://github.com/Uniswap/v4-periphery) | 898 | 661 | Solidity | 2 | 🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4 | 2026-07-28 |
 | 66 | [web3swift](https://github.com/web3swift-team/web3swift) | 890 | 491 | JavaScript | 65 | Full featured library for Ethereum interaction with the JSON RPC API in swift. Native ABI parsing and smart contract interactions. | 2025-09-24 |
@@ -86,7 +86,7 @@
 | 78 | [bsc-genesis-contract](https://github.com/bnb-chain/bsc-genesis-contract) | 775 | 812 | Solidity | 7 | The genesis contracts of BNB Smart Chain. | 2026-07-30 |
 | 79 | [contracts](https://github.com/skyward-finance/contracts) | 756 | 49 | Rust | 0 | Skyward Finance smart-contracts | 2022-02-26 |
 | 80 | [verified-smart-contracts](https://github.com/runtimeverification/verified-smart-contracts) | 747 | 140 | Solidity | 8 | Smart contracts which are formally verified | 2022-08-28 |
-| 81 | [wallet-contract](https://github.com/ton-blockchain/wallet-contract) | 740 | 667 | Shell | 1 | Wallet V4 and subscription smart contracts | 2025-05-23 |
+| 81 | [wallet-contract](https://github.com/ton-blockchain/wallet-contract) | 741 | 667 | Shell | 1 | Wallet V4 and subscription smart contracts | 2025-05-23 |
 | 82 | [web3.swift](https://github.com/argentlabs/web3.swift) | 715 | 186 | Swift | 12 | Ethereum Swift API with support for smart contracts, ENS & ERC20 | 2026-06-12 |
 | 83 | [semgrep-smart-contracts](https://github.com/Decurity/semgrep-smart-contracts) | 714 | 100 | Solidity | 3 | Semgrep rules for smart contracts based on DeFi exploits | 2025-06-02 |
 | 84 | [tact](https://github.com/tact-lang/tact) | 698 | 219 | TypeScript | 786 | ⚡ Tact compiler for TON blockchain—build secure, efficient smart contracts with powerful tooling and seamless integration | 2026-06-23 |
