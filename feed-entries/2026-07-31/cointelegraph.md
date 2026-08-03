@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-07-31"
 date: "2026-07-31"
 source: "Cointelegraph"
-count: 19
+count: 18
 ---
 
 # Cointelegraph - 2026-07-31
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -224,17 +224,5 @@ BlackRock’s IBIT led $233.1 million in daily inflows as US spot Bitcoin ETFs t
 Institutional investors accounted for 72% of Wintermute’s spot OTC flow in the first half of 2026 as capital clustered in fewer tokens and altcoin rallies became more selective.
 
 📖 [Read original article](https://cointelegraph.com/news/crypto-next-altseason-fewer-winners-wintermute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 7/31/2026, 2:38:09 AM  
-**Categories:** Latest News  
-
-Coinkite urged Coldcard Mk3 users to migrate funds after identifying a potential seed-generation risk, as Bitcoin security experts separately examine an unexplained $38 million wallet drain.
-
-📖 [Read original article](https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
