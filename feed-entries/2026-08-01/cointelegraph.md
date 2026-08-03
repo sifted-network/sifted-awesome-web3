@@ -14,7 +14,7 @@ count: 6
 ## 1. Onchain, in court: What happened in crypto legal news this week
 
 **Author:** Cointelegraph by Turner Wright  
-**Published:** 8/1/2026, 9:14:39 PM  
+**Published:** 8/1/2026, 9:19:00 PM  
 **Categories:** Latest News  
 
 A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dismiss over a Polymarket bet and a former congressman was ordered to pay $35,000 for manipulative trading.
@@ -38,10 +38,10 @@ State officials reported that Minnesota residents, and largely senior citizens, 
 ## 3. Crypto PAC pours another $1M into Michigan House race
 
 **Author:** Cointelegraph by Turner Wright  
-**Published:** 8/1/2026, 3:44:02 PM  
+**Published:** 8/1/2026, 3:49:00 PM  
 **Categories:** Latest News  
 
-Michigan incumbent Shri Thanedar’s re-election bid against other Democratic candidates is getting more about crypto with an infusion of ads funded by an industry-aligned PAC.
+Michigan incumbent Shri Thanedar’s re-election bid against other Democratic challengers is getting more about crypto with an infusion of ads funded by an industry-aligned PAC.
 
 📖 [Read original article](https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
