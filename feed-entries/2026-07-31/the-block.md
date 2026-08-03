@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-31"
 date: "2026-07-31"
 source: "The Block"
-count: 11
+count: 5
 ---
 
 # The Block - 2026-07-31
 
-11 items collected.
+5 items collected.
 
 ---
 
@@ -68,77 +68,5 @@ Tether swung from $4.9 billion in net profit for Q2 2025 to $1.5 in net operatin
 TD Cowen and Benchmark reiterated buy on Strategy after an $8.2 billion Q2 loss and a corporate STRC-to-par push.
 
 📖 [Read original article](https://www.theblock.co/post/410297/strategy-cash-buildup-saylor-shifts-from-100-bitcoin-approach?utm_source=rss&utm_medium=rss)
-
----
-
-## 6. World Cup 2026 prediction markets topped $20 billion, with Ronaldo tears among the biggest wagers
-
-**Author:** Kyle Baird  
-**Published:** 7/31/2026, 4:48:36 PM  
-**Categories:** Companies, Markets  
-
-World Cup betting activity peaked around major knockout matches, with markets ranging from match outcomes to player-specific outcomes.
-
-📖 [Read original article](https://www.theblock.co/post/410295/world-cup-2026-prediction-markets-topped-20-billion-ronaldo-tears-biggest-wagers?utm_source=rss&utm_medium=rss)
-
----
-
-## 7. Uniswap launches ‘Earn’ with Morpho to let users earn yield on idle crypto assets
-
-**Author:** Yogita Khatri  
-**Published:** 7/31/2026, 3:00:52 PM  
-**Categories:** Crypto Ecosystems, DeFi, Markets, exclusive, Lending, Uniswap  
-
-Uniswap has teamed up with Morpho to launch Earn, a new lending product that lets users earn yield via Gauntlet-curated vaults.
-
-📖 [Read original article](https://www.theblock.co/post/410286/uniswap-morpho-earn-yield-gauntlet-vaults?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. Ethereum’s 43-day staking queue isn’t a clean demand signal, Sygnum says
-
-**Author:** Brian Danga  
-**Published:** 7/31/2026, 2:35:11 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, Layer 1s, Markets, Token Projects, Ethereum, Staking Firms  
-
-Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
-
-📖 [Read original article](https://www.theblock.co/post/410285/ethereum-43-day-staking-queue-isnt-clean-demand-signal-sygnum?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. TD Cowen cuts Sharplink price target to $13 on lower 2026 ether outlook
-
-**Author:** Brian Danga  
-**Published:** 7/31/2026, 1:03:29 PM  
-**Categories:** Companies, Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Analyst Reports, Ethereum  
-
-TD Cowen cut Sharplink's price target after lowering its 2026 ether forecast while maintaining its long-term Ethereum investment thesis.
-
-📖 [Read original article](https://www.theblock.co/post/410273/td-cowen-cuts-sharplink-price-target-to-13-on-lower-2026-ether-outlook?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Circle secures NYDFS trust charter, adding state layer to federal USDC oversight
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 7/31/2026, 12:59:31 PM  
-**Categories:** Crypto Ecosystems, Markets, Policy, Regulation, Stablecoins, Token Projects, OCC, USDC  
-
-Circle won a limited-purpose trust charter from NYDFS for Circle Internet Trust Company after securing final OCC national trust approval.
-
-📖 [Read original article](https://www.theblock.co/post/410275/circle-secures-nydfs-trust-charter-adding-state-layer-to-federal-usdc-oversight?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Bernstein sees 78% upside for Robinhood as tokenization, prediction markets expand its crypto business
-
-**Author:** Brian Danga  
-**Published:** 7/31/2026, 10:43:58 AM  
-**Categories:** Companies, Crypto Ecosystems, Equities, Exchanges, Markets, Public Equities, Analyst Reports, Robinhood  
-
-Bernstein held its $160 Robinhood price target, citing tokenization and prediction markets as Robinhood's next crypto growth drivers.
-
-📖 [Read original article](https://www.theblock.co/post/410259/bernstein-sees-78-upside-for-robinhood-as-tokenization-prediction-markets-expand-its-crypto-business?utm_source=rss&utm_medium=rss)
 
 ---
