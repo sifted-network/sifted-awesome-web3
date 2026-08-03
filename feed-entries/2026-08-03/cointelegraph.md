@@ -2,16 +2,124 @@
 title: "Cointelegraph - 2026-08-03"
 date: "2026-08-03"
 source: "Cointelegraph"
-count: 8
+count: 16
 ---
 
 # Cointelegraph - 2026-08-03
 
-8 items collected.
+16 items collected.
 
 ---
 
-## 1. HashKey receives JPMorgan approval to open client money account
+## 1. US hints at more yen intervention: Five things to know in Bitcoin this week
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 8/3/2026, 2:11:26 PM  
+**Categories:** Markets  
+
+The US and Japan coordinate on the yen for the first time since 2011 as Bitcoin traders brace for a historically rough August.
+
+📖 [Read original article](https://cointelegraph.com/markets/us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. How Fake World Assets and onchain gacha became crypto’s latest craze
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 8/3/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+Fake World Assets turns forgotten NFTs into an onchain lottery — but is crypto’s latest obsession built to last?
+
+📖 [Read original article](https://cointelegraph.com/magazine/how-fake-world-assets-and-online-gacha-became-cryptos-latest-craze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 8/3/2026, 1:17:41 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Strategy sells 1,638 Bitcoin to fund dividends and STRC repurchases
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 8/3/2026, 12:27:07 PM  
+**Categories:** Latest News  
+
+Michael Saylor’s Strategy sold 1,638 Bitcoin in its second-largest sale of the year to fund dividend payments and repurchase its preferred STRC stock.
+
+📖 [Read original article](https://cointelegraph.com/news/strategy-sells-bitcoin-dividend-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Bithumb sets 2028 IPO timetable as it overhauls internal controls
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 8/3/2026, 12:21:19 PM  
+**Categories:** Latest News  
+
+The South Korean exchange plans to seek preliminary listing review in 2027 while overhauling controls after a February crediting error.
+
+📖 [Read original article](https://cointelegraph.com/news/bithumb-ipo-timetable-internal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. CLARITY Act failure could send crypto valuations lower: Bernstein
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 8/3/2026, 12:07:42 PM  
+**Categories:** Latest News  
+
+Bernstein said Congress’ failure to pass the CLARITY Act’s could trigger another leg down for crypto valuations and accelerate policy support from US regulators.
+
+📖 [Read original article](https://cointelegraph.com/news/clarity-act-failure-crypto-valuations-lower-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Trumps’ American Bitcoin reports record BTC output, narrower Q2 loss
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 8/3/2026, 11:40:09 AM  
+**Categories:** Latest News  
+
+Trump-linked Bitcoin miner produced a record 932 BTC in the second quarter, lifting mining revenue 8% as its net loss narrowed from the previous quarter.
+
+📖 [Read original article](https://cointelegraph.com/news/trumps-american-bitcoin-output-narrower-q2-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Ripple invests in Zilo and Licuido to assist tokenized capital markets push
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 8/3/2026, 10:58:36 AM  
+**Categories:** Latest News  
+
+Ripple made a strategic investment in Zilo and Licuido as it looks to enable the use of tokenized funds as collateral from the point of issuance.
+
+📖 [Read original article](https://cointelegraph.com/news/ripple-invests-zilo-licuido-tokenized-capital-markets-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Bitcoin may find bear market bottom in August: 10x Research
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 8/3/2026, 10:25:32 AM  
+**Categories:** Markets  
+
+Bitcoin could confirm an August bear-market bottom, though rising Treasury yields could force the Fed to raise rates in September, according to 10x Research.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-find-bear-market-bottom-august-10x-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 10. HashKey receives JPMorgan approval to open client money account
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/3/2026, 9:14:38 AM  
@@ -23,7 +131,7 @@ HashKey Exchange said it received approval to open client money accounts with JP
 
 ---
 
-## 2. Bitget to exit Japan, close remaining positions after Dec. 31
+## 11. Bitget to exit Japan, close remaining positions after Dec. 31
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/3/2026, 8:21:23 AM  
@@ -35,7 +143,7 @@ The crypto exchange stopped accepting new registrations from Japan residents and
 
 ---
 
-## 3. Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss
+## 12. Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/3/2026, 7:15:56 AM  
@@ -47,19 +155,7 @@ The Nasdaq-listed company relies largely on staking rewards to fund operations, 
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 8/3/2026, 6:25:13 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Bitcoin hits $62K while Coinbase premium hits 77-day negative streak
+## 13. Bitcoin hits $62K while Coinbase premium hits 77-day negative streak
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/3/2026, 5:58:00 AM  
@@ -71,7 +167,7 @@ The persistent discount suggests US spot buyers have remained less aggressive th
 
 ---
 
-## 6. Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief
+## 14. Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/3/2026, 4:09:44 AM  
@@ -83,7 +179,7 @@ The five-year bug escaped detection because auditors verified that the intended 
 
 ---
 
-## 7. South Korean stablecoin outflows top $367M in June: Report
+## 15. South Korean stablecoin outflows top $367M in June: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/3/2026, 4:05:11 AM  
@@ -95,7 +191,7 @@ Stablecoins have been flowing out of South Korean exchanges for 18 consecutive m
 
 ---
 
-## 8. Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn
+## 16. Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/3/2026, 1:57:40 AM  
