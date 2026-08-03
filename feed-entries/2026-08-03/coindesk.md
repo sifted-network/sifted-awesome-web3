@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-08-03"
 date: "2026-08-03"
 source: "CoinDesk"
-count: 17
+count: 19
 ---
 
 # CoinDesk - 2026-08-03
 
-17 items collected.
+19 items collected.
 
 ---
 
-## 1. Circle slides after Morgan Stanley downgrade, cut in price target
+## 1. Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy
+
+**Author:** Will Canny,AI Boost  
+**Published:** 8/3/2026, 3:24:45 PM  
+**Categories:** Finance, American Bitcoin, Exclusive, Eric Trump, News  
+
+The executive is leaving the Eric Trump-backed miner to join an AI power infrastructure firm, highlighting the shift toward energy and data center buildout.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy)
+
+---
+
+## 2. U.S.-Japan intervention revives yen carry trade fears for bitcoin
+
+**Author:** James Van Straten  
+**Published:** 8/3/2026, 2:46:08 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Coordinated action sent the yen sharply higher, but bitcoin’s recent correlation suggests U.S. dollar strength, rather than the carry trade, may be the bigger risk.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin)
+
+---
+
+## 3. Circle slides after Morgan Stanley downgrade, cut in price target
 
 **Author:** Helene Braun  
 **Published:** 8/3/2026, 1:59:50 PM  
@@ -23,7 +47,7 @@ The bank said tokenized money market funds, Open USD and slower USDC growth coul
 
 ---
 
-## 2. Bernstein sees another leg lower for crypto markets if Clarity Act stalls
+## 4. Bernstein sees another leg lower for crypto markets if Clarity Act stalls
 
 **Author:** Will Canny,AI Boost  
 **Published:** 8/3/2026, 1:49:40 PM  
@@ -35,7 +59,7 @@ The broker said failure to pass the Clarity Act this year would likely send cryp
 
 ---
 
-## 3. BlackRock expands tokenized cash with new blockchain-based money market offerings
+## 5. BlackRock expands tokenized cash with new blockchain-based money market offerings
 
 **Author:** Ian Allison  
 **Published:** 8/3/2026, 1:15:46 PM  
@@ -47,7 +71,7 @@ Both funds intend to qualify as eligible reserve assets for permitted U.S. payme
 
 ---
 
-## 4. Tom Lee's Bitmine bought more ether, added to stock buyback last week
+## 6. Tom Lee's Bitmine bought more ether, added to stock buyback last week
 
 **Author:** Krisztian Sandor  
 **Published:** 8/3/2026, 12:53:21 PM  
@@ -59,7 +83,7 @@ Chairman Tom Lee said ether's outperformance versus the Nasdaq in July signals s
 
 ---
 
-## 5. Strategy sold another $105 million of bitcoin last week, repurchased $81.2 million of STRC
+## 7. Strategy sold another $105 million of bitcoin last week, repurchased $81.2 million of STRC
 
 **Author:** James Van Straten  
 **Published:** 8/3/2026, 12:17:10 PM  
@@ -71,7 +95,7 @@ The company trimmed bitcoin holdings by 1,638 coins, while raising $290.6 millio
 
 ---
 
-## 6. Bitget set to exit Japan, close all remaining positions by year-end
+## 8. Bitget set to exit Japan, close all remaining positions by year-end
 
 **Author:** Olivier Acuna  
 **Published:** 8/3/2026, 12:03:41 PM  
@@ -83,7 +107,7 @@ The crypto trading platform, ranked fifth on CoinGecko, stopped accepting new re
 
 ---
 
-## 7. Solo Bitcoin miner nets $200,000 as Coldcard hardware wallet drains rocks sentiment
+## 9. Solo Bitcoin miner nets $200,000 as Coldcard hardware wallet drains rocks sentiment
 
 **Author:** Omkar Godbole  
 **Published:** 8/3/2026, 11:18:31 AM  
@@ -95,7 +119,7 @@ Your day-ahead look for Aug. 3, 2026
 
 ---
 
-## 8. Bitcoin, ether decline as Coldcard exploit enters a fifth day
+## 10. Bitcoin, ether decline as Coldcard exploit enters a fifth day
 
 **Author:** Omkar Godbole,Shaurya Malwa  
 **Published:** 8/3/2026, 10:51:37 AM  
@@ -107,7 +131,7 @@ Nevertheless, the drop in crypto prices seems restrained given the magnitude of 
 
 ---
 
-## 9. Bithumb now targets 2028 IPO after major internal restructuring
+## 11. Bithumb now targets 2028 IPO after major internal restructuring
 
 **Author:** Olivier Acuna  
 **Published:** 8/3/2026, 10:41:08 AM  
@@ -119,9 +143,9 @@ The South Korean crypto trading platform plans to see a preliminary listing revi
 
 ---
 
-## 10. Live updates: Strategy sells more bitcoin; price falls to $62,400
+## 12. Live updates: Bitcoin rises above $63,000 as stocks surge to start August
 
-**Author:** Shaurya Malwa,Omkar Godbole  
+**Author:** Shaurya Malwa,Omkar Godbole,Helene Braun  
 **Published:** 8/3/2026, 10:29:23 AM  
 **Categories:** Finance, Live News, live_news  
 
@@ -131,7 +155,7 @@ ARP Digital’s Yusuf Fakhro said bitcoin’s weakness reflects stalled particip
 
 ---
 
-## 11. The bitcoin futures yield collapse: Once over 20%, now less than Treasury notes
+## 13. The bitcoin futures yield collapse: Once over 20%, now less than Treasury notes
 
 **Author:** Omkar Godbole  
 **Published:** 8/3/2026, 10:13:50 AM  
@@ -143,7 +167,7 @@ Bitcoin futures’ once-rich carry has evaporated, with quarterly basis yields t
 
 ---
 
-## 12. Robinhood wins UK crypto registration before new regulatory regime kicks off
+## 14. Robinhood wins UK crypto registration before new regulatory regime kicks off
 
 **Author:** Jamie Crawley  
 **Published:** 8/3/2026, 9:38:53 AM  
@@ -155,7 +179,7 @@ Robinhood’s U.K. arm was added to the FCA's list of registered cryptoasset com
 
 ---
 
-## 13. Coldcard wallet losses may near $114 million as possible fourth sweep emerges
+## 15. Coldcard wallet losses may near $114 million as possible fourth sweep emerges
 
 **Author:** Shaurya Malwa  
 **Published:** 8/3/2026, 8:51:39 AM  
@@ -167,7 +191,7 @@ The pending transactions signal replace-by-fee, so anyone who spots their addres
 
 ---
 
-## 14. U.S. Jobs, Circle, Galaxy, American Bitcoin earnings: Crypto Week Ahead
+## 16. U.S. Jobs, Circle, Galaxy, American Bitcoin earnings: Crypto Week Ahead
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/3/2026, 8:16:28 AM  
@@ -179,7 +203,7 @@ Your look at what's coming in the week starting Aug. 3
 
 ---
 
-## 15. Bitcoin slips under $63,000 despite Iran deal hopes as Coldcard losses rattle market
+## 17. Bitcoin slips under $63,000 despite Iran deal hopes as Coldcard losses rattle market
 
 **Author:** Shaurya Malwa  
 **Published:** 8/3/2026, 6:15:38 AM  
@@ -191,7 +215,7 @@ Oil and Treasury yields fell after fresh U.S.-Iran talks eased inflation fears, 
 
 ---
 
-## 16. Trump Media’s bitcoin stash may be down to loan collateral after $165 million BTC move
+## 18. Trump Media’s bitcoin stash may be down to loan collateral after $165 million BTC move
 
 **Author:** Shaurya Malwa  
 **Published:** 8/3/2026, 5:52:29 AM  
@@ -203,7 +227,7 @@ Wallets tied to the Truth Social parent now hold about as much bitcoin as the co
 
 ---
 
-## 17. Michael Saylor’s Strategy is now tracking bitcoin’s 200-week moving average
+## 19. Michael Saylor’s Strategy is now tracking bitcoin’s 200-week moving average
 
 **Author:** Omkar Godbole  
 **Published:** 8/3/2026, 5:07:49 AM  
