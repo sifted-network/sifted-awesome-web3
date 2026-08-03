@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-07-31"
 date: "2026-07-31"
 source: "Decrypt"
-count: 12
+count: 7
 ---
 
 # Decrypt - 2026-07-31
 
-12 items collected.
+7 items collected.
 
 ---
 
@@ -92,65 +92,5 @@ OFAC sanctioned two Iranian firms including Hormuz Safe, which “accepts paymen
 As AI agents move from giving advice to making transactions, a new layer of payment infrastructure is racing to catch up.
 
 📖 [Read original article](https://decrypt.co/374741/xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay)
-
----
-
-## 8. AI Company Sues Town for Trying to Block Data Center Near National Park
-
-**Author:** Jason Nelson  
-**Published:** 7/31/2026, 2:01:03 PM  
-**Categories:** Artificial Intelligence  
-
-A proposed $4.8 billion AI data center near Mammoth Cave National Park has sparked a legal battle that could test how far local governments can go to slow the industry's rapid expansion.
-
-📖 [Read original article](https://decrypt.co/374764/ai-company-sues-town-data-center-national-park)
-
----
-
-## 9. Claude Hacked Three Companies in Internal Testing: Anthropic
-
-**Author:** Jason Nelson  
-**Published:** 7/31/2026, 1:47:54 PM  
-**Categories:** Artificial Intelligence  
-
-Anthropic says three Claude models compromised the companies after a testing misconfiguration exposed the AI to the public internet.
-
-📖 [Read original article](https://decrypt.co/374784/claude-hacked-three-companies-in-internal-testing-anthropic)
-
----
-
-## 10. Morning Minute: Coinbase Posts Surprise Loss as Crypto Trading Dries Up
-
-**Author:** Tyler Warner  
-**Published:** 7/31/2026, 12:11:17 PM  
-**Categories:** Opinion  
-
-Plus, BTC is red this morning despite $233M in ETF inflows yesterday; and NY State is trying to shut down Kalshi and seeking $36B in damages
-
-📖 [Read original article](https://decrypt.co/374781/morning-minute-coinbase-posts-surprise-loss-as-crypto-trading-dries-up)
-
----
-
-## 11. Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban
-
-**Author:** Decrypt Agent  
-**Published:** 7/31/2026, 11:13:58 AM  
-**Categories:** , Law and Order  
-
-Three states have already outlawed Bitcoin ATMs, and a committee chair says Texas will go further than regulating them.
-
-📖 [Read original article](https://decrypt.co/374778/crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban)
-
----
-
-## 12. New York AG Seeks $36B From Kalshi Over 'Illegal Gambling'
-
-**Author:** Decrypt Agent  
-**Published:** 7/31/2026, 10:12:16 AM  
-**Categories:** Law and Order  
-
-The CFTC asked a court to stop New York enforcing against the prediction market the day before the state filed.
-
-📖 [Read original article](https://decrypt.co/374775/new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling)
 
 ---
