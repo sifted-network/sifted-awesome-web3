@@ -2,16 +2,28 @@
 title: "The Block - 2026-08-02"
 date: "2026-08-02"
 source: "The Block"
-count: 2
+count: 3
 ---
 
 # The Block - 2026-08-02
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’
+## 1. SEC keeps Nasdaq bitcoin options on hold after granting CME review
+
+**Author:** Zack Abrams  
+**Published:** 8/2/2026, 9:25:36 PM  
+**Categories:** Policy, Regulation  
+
+CME is arguing that the contracts are commodity option swaps subject exclusively to the CFTC's oversight rather than the SEC's.
+
+📖 [Read original article](https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’
 
 **Author:** Zack Abrams  
 **Published:** 8/2/2026, 6:10:43 PM  
@@ -23,7 +35,7 @@ Strategy has gone five consecutive weeks without a disclosed bitcoin purchase; t
 
 ---
 
-## 2. Trump Media says $165 million bitcoin transfer to Crypto.com wasn’t a sale
+## 3. Trump Media says $165 million bitcoin transfer to Crypto.com wasn’t a sale
 
 **Author:** Zack Abrams  
 **Published:** 8/2/2026, 3:16:08 PM  
