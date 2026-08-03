@@ -2,12 +2,12 @@
 title: "The Block - 2026-07-31"
 date: "2026-07-31"
 source: "The Block"
-count: 14
+count: 11
 ---
 
 # The Block - 2026-07-31
 
-14 items collected.
+11 items collected.
 
 ---
 
@@ -140,41 +140,5 @@ Circle won a limited-purpose trust charter from NYDFS for Circle Internet Trust 
 Bernstein held its $160 Robinhood price target, citing tokenization and prediction markets as Robinhood's next crypto growth drivers.
 
 📖 [Read original article](https://www.theblock.co/post/410259/bernstein-sees-78-upside-for-robinhood-as-tokenization-prediction-markets-expand-its-crypto-business?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Senate Democrats propose anti-corruption bureau as Trump’s crypto portfolio draws more scrutiny
-
-**Author:** Danny Park  
-**Published:** 7/31/2026, 9:34:29 AM  
-**Categories:** Policy, Regulation  
-
-Recent financial disclosures showed that Trump made hundreds of millions of dollars in crypto-related income.
-
-📖 [Read original article](https://www.theblock.co/post/410260/senate-democrat-anti-corruption-bureau?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. New York sues Kalshi over illegal gambling claims, seeks $36 billion in damages
-
-**Author:** Timmy Shen  
-**Published:** 7/31/2026, 7:34:48 AM  
-**Categories:** Companies, Crypto Ecosystems, Policy, Regulation  
-
-New York State is seeking at least $36 billion in compensatory damages from Kalshi, pending a full accounting.
-
-📖 [Read original article](https://www.theblock.co/post/410247/new-york-sues-kalshi?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. ‘Funds may be at risk’: Coinkite issues warning for Coldcard Mk3 users amid 594 BTC theft reports
-
-**Author:** Danny Park  
-**Published:** 7/31/2026, 2:56:53 AM  
-**Categories:** Crypto Ecosystems, DeFi, Web3  
-
-Coinkite recommends that Mk3 users create a strong, unique BIP-39 passphrase on the device and move funds to the resulting wallet.
-
-📖 [Read original article](https://www.theblock.co/post/410235/coinkite-coldcard-mk3-warning?utm_source=rss&utm_medium=rss)
 
 ---
