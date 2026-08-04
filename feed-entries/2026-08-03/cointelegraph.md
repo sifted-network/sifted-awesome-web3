@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-03"
 date: "2026-08-03"
 source: "Cointelegraph"
-count: 19
+count: 11
 ---
 
 # Cointelegraph - 2026-08-03
 
-19 items collected.
+11 items collected.
 
 ---
 
@@ -140,101 +140,5 @@ Bernstein said Congress’ failure to pass the CLARITY Act’s could trigger ano
 Trump-linked Bitcoin miner produced a record 932 BTC in the second quarter, lifting mining revenue 8% as its net loss narrowed from the previous quarter.
 
 📖 [Read original article](https://cointelegraph.com/news/trumps-american-bitcoin-output-narrower-q2-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Ripple invests in Zilo and Licuido to assist tokenized capital markets push
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/3/2026, 10:58:36 AM  
-**Categories:** Latest News  
-
-Ripple made a strategic investment in Zilo and Licuido as it looks to enable the use of tokenized funds as collateral from the point of issuance.
-
-📖 [Read original article](https://cointelegraph.com/news/ripple-invests-zilo-licuido-tokenized-capital-markets-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Bitcoin may find bear market bottom in August: 10x Research
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/3/2026, 10:25:32 AM  
-**Categories:** Markets  
-
-Bitcoin could confirm an August bear-market bottom, though rising Treasury yields could force the Fed to raise rates in September, according to 10x Research.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-find-bear-market-bottom-august-10x-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. HashKey receives JPMorgan approval to open client money account
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/3/2026, 9:14:38 AM  
-**Categories:** Latest News  
-
-HashKey Exchange said it received approval to open client money accounts with JPMorgan, weeks after it launched customer fund accounts with DBS Bank.
-
-📖 [Read original article](https://cointelegraph.com/news/hashkey-jpmorgan-client-money-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitget to exit Japan, close remaining positions after Dec. 31
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/3/2026, 8:21:23 AM  
-**Categories:** Latest News  
-
-The crypto exchange stopped accepting new registrations from Japan residents and will begin progressively restricting existing accounts on Nov. 1.
-
-📖 [Read original article](https://cointelegraph.com/news/bitget-exit-japan-account-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/3/2026, 7:15:56 AM  
-**Categories:** Latest News  
-
-The Nasdaq-listed company relies largely on staking rewards to fund operations, while its 0G holdings were valued 91% below their recorded costs.
-
-📖 [Read original article](https://cointelegraph.com/news/zerostack-survival-risk-82m-crypto-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Bitcoin hits $62K while Coinbase premium hits 77-day negative streak
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 8/3/2026, 5:58:00 AM  
-**Categories:** Markets  
-
-The persistent discount suggests US spot buyers have remained less aggressive than overseas traders even as US Bitcoin ETF inflows turned positive in July.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-hits-62k-while-coinbase-premium-hits-77-day-negative-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 8/3/2026, 4:09:44 AM  
-**Categories:** Latest News  
-
-The five-year bug escaped detection because auditors verified that the intended random number generator existed, but not that it was being called.
-
-📖 [Read original article](https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. South Korean stablecoin outflows top $367M in June: Report
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/3/2026, 4:05:11 AM  
-**Categories:** Latest News  
-
-Stablecoins have been flowing out of South Korean exchanges for 18 consecutive months as regulators weigh tighter oversight of cross-border crypto activity.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
