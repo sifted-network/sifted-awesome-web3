@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-08-03"
 date: "2026-08-03"
 source: "Cointelegraph"
-count: 19
+count: 21
 ---
 
 # Cointelegraph - 2026-08-03
 
-19 items collected.
+21 items collected.
 
 ---
 
-## 1. Kenya moves 30 million academic credentials onto Avalanche blockchain
+## 1. Bessent’s top crypto adviser Tyler Williams exits US Treasury: Report
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 8/3/2026, 8:29:47 PM  
+**Categories:** Latest News  
+
+A key architect of the Trump administration’s digital asset agenda is leaving the Treasury Department as Congress struggles to advance landmark crypto legislation.
+
+📖 [Read original article](https://cointelegraph.com/news/bessent-top-crypto-adviser-tyler-williams-leaves-us-treasury-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 8/3/2026, 7:52:11 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. FalconX cuts 10% of workforce amid prolonged crypto market slump: Report
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 8/3/2026, 7:44:48 PM  
+**Categories:** Latest News  
+
+According to Bloomberg, the digital asset prime broker is refocusing its Singapore strategy and withdrawing its local license application as crypto companies continue to trim costs.
+
+📖 [Read original article](https://cointelegraph.com/news/falconx-workforce-reduction-amid-crypto-market-slump-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Kenya moves 30 million academic credentials onto Avalanche blockchain
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/3/2026, 4:46:22 PM  
@@ -23,7 +59,7 @@ A new digital verification platform aims to reduce forged certificates by allowi
 
 ---
 
-## 2. BlackRock launches tokenized money market funds for stablecoin reserves
+## 5. BlackRock launches tokenized money market funds for stablecoin reserves
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/3/2026, 4:13:12 PM  
@@ -35,7 +71,7 @@ The asset manager introduced two blockchain-based money market funds designed to
 
 ---
 
-## 3. Hashdex to shut smallest Bitcoin ETF after more than two years
+## 6. Hashdex to shut smallest Bitcoin ETF after more than two years
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 8/3/2026, 3:24:43 PM  
@@ -47,7 +83,7 @@ The spot price Bitcoin exchange-traded fund, which was never able to attract mor
 
 ---
 
-## 4. US hints at more yen intervention: Five things to know in Bitcoin this week
+## 7. US hints at more yen intervention: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/3/2026, 2:11:26 PM  
@@ -59,7 +95,7 @@ The US and Japan coordinate on the yen for the first time since 2011 as Bitcoin 
 
 ---
 
-## 5. How Fake World Assets and onchain gacha became crypto’s latest craze
+## 8. How Fake World Assets and onchain gacha became crypto’s latest craze
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 8/3/2026, 1:30:00 PM  
@@ -71,19 +107,7 @@ Fake World Assets turns forgotten NFTs into an onchain lottery — but is crypto
 
 ---
 
-## 6. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/3/2026, 1:17:41 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Strategy sells 1,638 Bitcoin to fund dividends and STRC repurchases
+## 9. Strategy sells 1,638 Bitcoin to fund dividends and STRC repurchases
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/3/2026, 12:27:07 PM  
@@ -95,7 +119,7 @@ Michael Saylor’s Strategy sold 1,638 Bitcoin in its second-largest sale of the
 
 ---
 
-## 8. Bithumb sets 2028 IPO timetable as it overhauls internal controls
+## 10. Bithumb sets 2028 IPO timetable as it overhauls internal controls
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/3/2026, 12:21:19 PM  
@@ -107,7 +131,7 @@ The South Korean exchange plans to seek preliminary listing review in 2027 while
 
 ---
 
-## 9. CLARITY Act failure could send crypto valuations lower: Bernstein
+## 11. CLARITY Act failure could send crypto valuations lower: Bernstein
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/3/2026, 12:07:42 PM  
@@ -119,7 +143,7 @@ Bernstein said Congress’ failure to pass the CLARITY Act’s could trigger ano
 
 ---
 
-## 10. Trumps’ American Bitcoin reports record BTC output, narrower Q2 loss
+## 12. Trumps’ American Bitcoin reports record BTC output, narrower Q2 loss
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/3/2026, 11:40:09 AM  
@@ -131,7 +155,7 @@ Trump-linked Bitcoin miner produced a record 932 BTC in the second quarter, lift
 
 ---
 
-## 11. Ripple invests in Zilo and Licuido to assist tokenized capital markets push
+## 13. Ripple invests in Zilo and Licuido to assist tokenized capital markets push
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/3/2026, 10:58:36 AM  
@@ -143,7 +167,7 @@ Ripple made a strategic investment in Zilo and Licuido as it looks to enable the
 
 ---
 
-## 12. Bitcoin may find bear market bottom in August: 10x Research
+## 14. Bitcoin may find bear market bottom in August: 10x Research
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/3/2026, 10:25:32 AM  
@@ -155,7 +179,7 @@ Bitcoin could confirm an August bear-market bottom, though rising Treasury yield
 
 ---
 
-## 13. HashKey receives JPMorgan approval to open client money account
+## 15. HashKey receives JPMorgan approval to open client money account
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/3/2026, 9:14:38 AM  
@@ -167,7 +191,7 @@ HashKey Exchange said it received approval to open client money accounts with JP
 
 ---
 
-## 14. Bitget to exit Japan, close remaining positions after Dec. 31
+## 16. Bitget to exit Japan, close remaining positions after Dec. 31
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/3/2026, 8:21:23 AM  
@@ -179,7 +203,7 @@ The crypto exchange stopped accepting new registrations from Japan residents and
 
 ---
 
-## 15. Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss
+## 17. Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/3/2026, 7:15:56 AM  
@@ -191,7 +215,7 @@ The Nasdaq-listed company relies largely on staking rewards to fund operations, 
 
 ---
 
-## 16. Bitcoin hits $62K while Coinbase premium hits 77-day negative streak
+## 18. Bitcoin hits $62K while Coinbase premium hits 77-day negative streak
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/3/2026, 5:58:00 AM  
@@ -203,7 +227,7 @@ The persistent discount suggests US spot buyers have remained less aggressive th
 
 ---
 
-## 17. Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief
+## 19. Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/3/2026, 4:09:44 AM  
@@ -215,7 +239,7 @@ The five-year bug escaped detection because auditors verified that the intended 
 
 ---
 
-## 18. South Korean stablecoin outflows top $367M in June: Report
+## 20. South Korean stablecoin outflows top $367M in June: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/3/2026, 4:05:11 AM  
@@ -227,7 +251,7 @@ Stablecoins have been flowing out of South Korean exchanges for 18 consecutive m
 
 ---
 
-## 19. Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn
+## 21. Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/3/2026, 1:57:40 AM  
