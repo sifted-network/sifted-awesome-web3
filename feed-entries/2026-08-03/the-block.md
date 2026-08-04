@@ -2,16 +2,40 @@
 title: "The Block - 2026-08-03"
 date: "2026-08-03"
 source: "The Block"
-count: 15
+count: 17
 ---
 
 # The Block - 2026-08-03
 
-15 items collected.
+17 items collected.
 
 ---
 
-## 1. FBI agent accused of stealing $1 million in crypto, allegedly turned to ChatGPT for vacation plans
+## 1. Blockchain Association counters National Sheriffs’ group claims as pivotal week for Clarity Act unfolds
+
+**Author:** Sarah Wynn  
+**Published:** 8/3/2026, 9:13:10 PM  
+**Categories:** Policy, Regulation, U.S. Policymaking, exclusive, Senate Agriculture Committee, Senate Banking Committee  
+
+The Blockchain Association said legislation would support law enforcement, countering claims made by the National Sheriffs' Association.
+
+📖 [Read original article](https://www.theblock.co/post/410507/blockchain-association-counters-sheriffs-associations-claims-pivotal-week-clarity-act?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. DEXs capture record 24% of spot crypto trading as CEX volumes sink
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 8/3/2026, 8:46:31 PM  
+**Categories:** Crypto Ecosystems, DeFi, DEXs, Uniswap  
+
+Spot exchange volume is on track to set a new 12-month low at $670 million, down from its annual high of $2.23 trillion.
+
+📖 [Read original article](https://www.theblock.co/post/410476/dexs-capture-record-spot-crypto-trading-as-cex-volumes-sink?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. FBI agent accused of stealing $1 million in crypto, allegedly turned to ChatGPT for vacation plans
 
 **Author:** Sarah Wynn  
 **Published:** 8/3/2026, 6:48:34 PM  
@@ -23,7 +47,7 @@ An FBI agent was arrested after allegedly stealing about $1 million in cryptocur
 
 ---
 
-## 2. Kalshi CEO invokes Nasdaq, Uber and Airbnb in defense against New York lawsuit
+## 4. Kalshi CEO invokes Nasdaq, Uber and Airbnb in defense against New York lawsuit
 
 **Author:** RT Watson  
 **Published:** 8/3/2026, 6:44:48 PM  
@@ -35,7 +59,7 @@ An FBI agent was arrested after allegedly stealing about $1 million in cryptocur
 
 ---
 
-## 3. Proof of Attendance Protocol is shutting down after 5+ years
+## 5. Proof of Attendance Protocol is shutting down after 5+ years
 
 **Author:** Daniel Kuhn  
 **Published:** 8/3/2026, 6:40:12 PM  
@@ -47,7 +71,7 @@ Some 46,210 issuers like Coinbase and American Express used POAP to create oncha
 
 ---
 
-## 4. BlackRock launches two tokenized money market funds for stablecoin reserves
+## 6. BlackRock launches two tokenized money market funds for stablecoin reserves
 
 **Author:** Daniel Kuhn  
 **Published:** 8/3/2026, 5:48:09 PM  
@@ -59,7 +83,7 @@ BRSRV joins a list of funds launched by the likes of Morgan Stanley, State Stree
 
 ---
 
-## 5. Jameson Lopp says Coldcard exploit exposes limits of Bitcoin’s ‘don’t trust, verify’ mantra
+## 7. Jameson Lopp says Coldcard exploit exposes limits of Bitcoin’s ‘don’t trust, verify’ mantra
 
 **Author:** Kyle Baird  
 **Published:** 8/3/2026, 4:59:42 PM  
@@ -71,7 +95,7 @@ Lopp said AI is reshaping wallet security by helping attackers uncover bugs and 
 
 ---
 
-## 6. Michael Saylor says he’s never sold his personal bitcoin after Strategy dumps more BTC
+## 8. Michael Saylor says he’s never sold his personal bitcoin after Strategy dumps more BTC
 
 **Author:** Jason Shubnell  
 **Published:** 8/3/2026, 4:57:22 PM  
@@ -83,7 +107,7 @@ Strategy Inc disclosed that it sold 1,638 bitcoin last week for $104.7 million, 
 
 ---
 
-## 7. Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH
+## 9. Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH
 
 **Author:** Brian Danga  
 **Published:** 8/3/2026, 1:48:47 PM  
@@ -95,7 +119,7 @@ Bitmine expanded its ether treasury to 5.8 million ETH tokens as Tom Lee highlig
 
 ---
 
-## 8. Eric Trump’s American Bitcoin treasury tops 8,000 BTC as Q2 mining production hits record
+## 10. Eric Trump’s American Bitcoin treasury tops 8,000 BTC as Q2 mining production hits record
 
 **Author:** Brian Danga  
 **Published:** 8/3/2026, 1:03:00 PM  
@@ -107,7 +131,7 @@ American Bitcoin expanded its reserve to 8,002 BTC after a record 932 BTC mined 
 
 ---
 
-## 9. Michael Saylor’s Strategy sells another 1,638 BTC for $105 million, reducing total holdings to 842,138 BTC
+## 11. Michael Saylor’s Strategy sells another 1,638 BTC for $105 million, reducing total holdings to 842,138 BTC
 
 **Author:** James Hunt  
 **Published:** 8/3/2026, 12:13:30 PM  
@@ -119,7 +143,7 @@ Strategy's total holdings account for around 4% of the 21 million bitcoin supply
 
 ---
 
-## 10. BitGo launches Link, connecting clients to Coinbase, Kraken, Crypto.com and more
+## 12. BitGo launches Link, connecting clients to Coinbase, Kraken, Crypto.com and more
 
 **Author:** Daniel Kuhn  
 **Published:** 8/3/2026, 11:50:02 AM  
@@ -131,7 +155,7 @@ BitGo Link provides a single interface for viewing and moving digital assets hel
 
 ---
 
-## 11. Bernstein says Clarity Act failure could accelerate SEC, CFTC crypto rulemaking
+## 13. Bernstein says Clarity Act failure could accelerate SEC, CFTC crypto rulemaking
 
 **Author:** Brian Danga  
 **Published:** 8/3/2026, 9:49:47 AM  
@@ -143,7 +167,7 @@ Bernstein expects SEC and CFTC rulemaking to accelerate under Project Crypto if 
 
 ---
 
-## 12. Ripple invests in ZILO and Licuido to deepen tokenized capital markets push
+## 14. Ripple invests in ZILO and Licuido to deepen tokenized capital markets push
 
 **Author:** Timmy Shen  
 **Published:** 8/3/2026, 9:38:48 AM  
@@ -155,7 +179,7 @@ Ripple said the deals are set to bring regulated transfer agency, issuance, and 
 
 ---
 
-## 13. South Korea’s Bithumb officially targets 2028 IPO, outlines multi-year roadmap
+## 15. South Korea’s Bithumb officially targets 2028 IPO, outlines multi-year roadmap
 
 **Author:** Danny Park  
 **Published:** 8/3/2026, 9:21:28 AM  
@@ -167,7 +191,7 @@ Bithumb plans to request a preliminary listing review and have its application r
 
 ---
 
-## 14. Kalshi and Polymarket’s combined volume reaches all-time high in July, surpassing $50 billion
+## 16. Kalshi and Polymarket’s combined volume reaches all-time high in July, surpassing $50 billion
 
 **Author:** Danny Park  
 **Published:** 8/3/2026, 4:34:46 AM  
@@ -179,7 +203,7 @@ Notably, Polymarket US's volume rose 54% while the main Polymarket platform's vo
 
 ---
 
-## 15. Hong Kong police flag $3.3 million romance scam involving fake crypto app
+## 17. Hong Kong police flag $3.3 million romance scam involving fake crypto app
 
 **Author:** Timmy Shen  
 **Published:** 8/3/2026, 3:42:16 AM  
