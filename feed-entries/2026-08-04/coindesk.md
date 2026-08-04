@@ -2,16 +2,112 @@
 title: "CoinDesk - 2026-08-04"
 date: "2026-08-04"
 source: "CoinDesk"
-count: 16
+count: 24
 ---
 
 # CoinDesk - 2026-08-04
 
-16 items collected.
+24 items collected.
 
 ---
 
-## 1. As Clarity Act teeters, mystery group hammers away at crypto in Washington ads
+## 1. Open USD rattled Circle's stock, but its key backers still support USDC
+
+**Author:** Krisztian Sandor  
+**Published:** 8/4/2026, 5:55:23 PM  
+**Categories:** Finance, Stablecoins, Coinbase, Mastercard, Circle, News  
+
+Executives at Coinbase, Visa and Mastercard said they plan to support multiple stablecoins, suggesting Open USD is another payments rail rather than a direct replacement for USDC.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc)
+
+---
+
+## 2. Samsung is poised to become a dominant stablecoin distributor, analysts say
+
+**Author:** Olivier Acuna  
+**Published:** 8/4/2026, 5:14:13 PM  
+**Categories:** Finance, South Korea, Mobile Apps, Stablecoins, News  
+
+Samsung seeks to turn 800 million Galaxy phones into wallets for digital assets and blockchain payments, backed by a deeper play in crypto infrastructure.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say)
+
+---
+
+## 3. Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him
+
+**Author:** Jesse Hamilton  
+**Published:** 8/4/2026, 4:21:59 PM  
+**Categories:** Policy, Donald Trump, Memecoin, Clarity Act, News  
+
+Senators Elizabeth Warren and Richard Blumenthal requested the U.S. Securities and Exchange Commission probe Trump's memecoin.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him)
+
+---
+
+## 4. Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street’s settlement rails
+
+**Author:** Francisco Rodrigues  
+**Published:** 8/4/2026, 3:47:05 PM  
+**Categories:** Finance, banks, Tokenization, tokenized deposits, News  
+
+Payments will run on the bank’s proprietary blockchain and be routed automatically through its existing client interface.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments)
+
+---
+
+## 5. Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode
+
+**Author:** James Van Straten  
+**Published:** 8/4/2026, 2:49:33 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Retail investors and large whales are buying as bitcoin trades near its 200-week moving average.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode)
+
+---
+
+## 6. Polymarket targets $20 billion valuation as competition heats up in prediction market sector
+
+**Author:** Helene Braun  
+**Published:** 8/4/2026, 2:38:23 PM  
+**Categories:** Markets, Polymarket, Prediction Markets, News  
+
+The blockchain-based prediction markets platform is reportedly returning to investors months after a $15 billion funding round.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets)
+
+---
+
+## 7. Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped
+
+**Author:** Francisco Rodrigues  
+**Published:** 8/4/2026, 2:25:50 PM  
+**Categories:** Finance, ETFs, Crypto News, News  
+
+The Italian bank tripled its holding of iShares Staked Ethereum Trust ETF stake as total bitcoin ETF holdings fell 35% to $69.3 million.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped)
+
+---
+
+## 8. Dinari brings tokenized U.S. stocks to American investors as equity race heats up
+
+**Author:** Krisztian Sandor  
+**Published:** 8/4/2026, 2:00:00 PM  
+**Categories:** Finance, Tokenization, News  
+
+The move brings the custodial tokenization model to eligible U.S. investors as competition over blockchain-based equities intensifies.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up)
+
+---
+
+## 9. As Clarity Act teeters, mystery group hammers away at crypto in Washington ads
 
 **Author:** Jesse Hamilton  
 **Published:** 8/4/2026, 1:00:00 PM  
@@ -23,7 +119,7 @@ Crypto Watchdog has taken to warning people in DC about the hazards of digital a
 
 ---
 
-## 2. BitGo’s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion
+## 10. BitGo’s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/4/2026, 1:00:00 PM  
@@ -35,7 +131,7 @@ A migration wave followed a $292 million Kelp bridge exploit, with announced Lay
 
 ---
 
-## 3. BNY to add crypto staking to digital asset custody platform
+## 11. BNY to add crypto staking to digital asset custody platform
 
 **Author:** Helene Braun  
 **Published:** 8/4/2026, 12:30:00 PM  
@@ -47,7 +143,7 @@ The custody bank has selected Galaxy to provide staking infrastructure as it bro
 
 ---
 
-## 4. Coldcard urges users to move bitcoin as exploit is still in progress
+## 12. Coldcard urges users to move bitcoin as exploit is still in progress
 
 **Author:** Shaurya Malwa  
 **Published:** 8/4/2026, 12:00:25 PM  
@@ -59,7 +155,7 @@ The cold wallet maker said the flaw behind roughly $114 million in losses remain
 
 ---
 
-## 5. The bitcoin market has plenty of reasons to freak out, yet calm pervades
+## 13. The bitcoin market has plenty of reasons to freak out, yet calm pervades
 
 **Author:** Omkar Godbole  
 **Published:** 8/4/2026, 11:23:33 AM  
@@ -71,7 +167,7 @@ Your day-ahead look for Aug. 4, 2026
 
 ---
 
-## 6. South African lawmakers propose draft rules on cross-border crypto transactions
+## 14. South African lawmakers propose draft rules on cross-border crypto transactions
 
 **Author:** Jamie Crawley  
 **Published:** 8/4/2026, 10:59:41 AM  
@@ -83,7 +179,7 @@ A draft rulebook proposes that sending crypto offshore must be conducted through
 
 ---
 
-## 7. Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances
+## 15. Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances
 
 **Author:** Francisco Rodrigues,Omkar Godbole,Shaurya Malwa  
 **Published:** 8/4/2026, 10:51:11 AM  
@@ -95,7 +191,7 @@ Bitcoin advanced as the market settled down following the weekend’s hack of Co
 
 ---
 
-## 8. BlackRock debuts tokenized access to $311 billion of money market funds in Europe
+## 16. BlackRock debuts tokenized access to $311 billion of money market funds in Europe
 
 **Author:** Ian Allison  
 **Published:** 8/4/2026, 10:03:24 AM  
@@ -107,7 +203,7 @@ Earlier this week, BlackRock expanded its U.S. tokenized cash platform which inv
 
 ---
 
-## 9. First U.S. spot bitcoin ETF to close as inflows dwindle, investors chase AI returns
+## 17. First U.S. spot bitcoin ETF to close as inflows dwindle, investors chase AI returns
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/4/2026, 9:54:02 AM  
@@ -119,7 +215,7 @@ Hashdex's DEFI, the smallest of the funds, held $14.7 million under management, 
 
 ---
 
-## 10. Live updates: Bitcoin stuck in tight range as risk assets rise on Iran deal hopes
+## 18. Live updates: Bitcoin stuck in tight range as risk assets soar on Iran deal hopes
 
 **Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Stephen Alpher  
 **Published:** 8/4/2026, 8:41:00 AM  
@@ -131,7 +227,7 @@ Japan may have spent as much as $36.6 billion buying yen in the first joint US-J
 
 ---
 
-## 11. Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge
+## 19. Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge
 
 **Author:** Shaurya Malwa  
 **Published:** 8/4/2026, 7:56:11 AM  
@@ -143,7 +239,7 @@ The planned Gelephu Mindfulness City says 3iQ will run part of its bitcoin treas
 
 ---
 
-## 12. Why Jim Cramer’s quantum panic isn’t rattling bitcoin as price holds steady around $64,000
+## 20. Why Jim Cramer’s quantum panic isn’t rattling bitcoin as price holds steady around $64,000
 
 **Author:** Omkar Godbole  
 **Published:** 8/4/2026, 7:53:18 AM  
@@ -155,7 +251,7 @@ Jim Cramer says he's dumping his bitcoin over quantum computing fears, but his t
 
 ---
 
-## 13. XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool
+## 21. XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool
 
 **Author:** Shaurya Malwa  
 **Published:** 8/4/2026, 6:12:20 AM  
@@ -167,7 +263,7 @@ XRP holders can now borrow RLUSD against their coins on Ethereum without selling
 
 ---
 
-## 14. A new Solana proposal aims to ramp up daily SOL Burns from $47,000 to $650,000
+## 22. A new Solana proposal aims to ramp up daily SOL Burns from $47,000 to $650,000
 
 **Author:** Shaurya Malwa  
 **Published:** 8/4/2026, 5:39:18 AM  
@@ -179,7 +275,7 @@ SGP-0003 bundles a fee overhaul with a doubling of the disinflation rate. It nee
 
 ---
 
-## 15. Bitcoin nears $64,000 as traders look past Strategy's BTC sales and Coldcard sweeps
+## 23. Bitcoin nears $64,000 as traders look past Strategy's BTC sales and Coldcard sweeps
 
 **Author:** Shaurya Malwa  
 **Published:** 8/4/2026, 5:21:13 AM  
@@ -191,7 +287,7 @@ Every major token except ether is green on the week, with BTC up 1.9% over 24 ho
 
 ---
 
-## 16. A bitcoin wallet dormant since 2013 moved $31 million, and it's not the only one
+## 24. A bitcoin wallet dormant since 2013 moved $31 million, and it's not the only one
 
 **Author:** Omkar Godbole  
 **Published:** 8/4/2026, 4:48:40 AM  
