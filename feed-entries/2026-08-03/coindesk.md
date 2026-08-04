@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-03"
 date: "2026-08-03"
 source: "CoinDesk"
-count: 20
+count: 19
 ---
 
 # CoinDesk - 2026-08-03
 
-20 items collected.
+19 items collected.
 
 ---
 
@@ -236,17 +236,5 @@ Oil and Treasury yields fell after fresh U.S.-Iran talks eased inflation fears, 
 Wallets tied to the Truth Social parent now hold about as much bitcoin as the company previously pledged as note collateral, making its next 10-Q the key test of whether recent Crypto.com transfers were custody moves or sales.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move)
-
----
-
-## 20. Michael Saylor’s Strategy is now tracking bitcoin’s 200-week moving average
-
-**Author:** Omkar Godbole  
-**Published:** 8/3/2026, 5:07:49 AM  
-**Categories:** Markets, Bitcoin News, Technical Analysis, News  
-
-Michael Saylor’s company, Strategy, is now closely monitoring bitcoin’s 200-week moving average, a key long-term support level that the cryptocurrency has historically respected.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/03/michael-saylor-s-strategy-is-now-tracking-bitcoin-s-200-week-moving-average)
 
 ---
