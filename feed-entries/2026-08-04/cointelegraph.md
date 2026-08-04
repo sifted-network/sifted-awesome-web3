@@ -2,16 +2,124 @@
 title: "Cointelegraph - 2026-08-04"
 date: "2026-08-04"
 source: "Cointelegraph"
-count: 11
+count: 19
 ---
 
 # Cointelegraph - 2026-08-04
 
-11 items collected.
+19 items collected.
 
 ---
 
-## 1. Apple briefly removes Telegram from App Store, Gram rebounds
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 8/4/2026, 1:45:02 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin
+
+**Author:** Cointelegraph by Ciaran Lyons  
+**Published:** 8/4/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+Transform Ventures founder Michael Terpin says Bitcoin could have another 30% downside from its current price before he is confident the market has reached a bottom.
+
+📖 [Read original article](https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Texas electric grid moratorium won’t have big impact on BTC miners: Bernstein
+
+**Author:** Cointelegraph by Robert Lakin  
+**Published:** 8/4/2026, 12:37:59 PM  
+**Categories:** Latest News  
+
+Monday’s announcement that Texas Governor Greg Abbott set a moratorium on approval of ERCOT-linked data centers pending an audit won’t impact miners’ approved electricity contracts.
+
+📖 [Read original article](https://cointelegraph.com/news/texas-electric-grid-moratorim-btc-miners-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Tether Gold reserves rise 9.5% as gold posts worst quarter in 13 years
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 8/4/2026, 12:30:07 PM  
+**Categories:** Latest News  
+
+XAUt added to its bullion backing during gold’s worst quarter since 2013, as tokenized commodity holder counts continued to rise.
+
+📖 [Read original article](https://cointelegraph.com/news/tether-gold-rise-q2-sharpest-quarterly-gold-correction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Italy’s biggest bank triples staked Ether ETF holdings while cutting IBIT shares
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 8/4/2026, 11:55:19 AM  
+**Categories:** Latest News  
+
+Italy’s largest bank Intesa Sanpaolo increased its staked Ether ETF position to $7.1 million while reducing its holdings in two spot Bitcoin ETFs.
+
+📖 [Read original article](https://cointelegraph.com/news/intesa-sanpaolo-bank-staked-ether-etf-ibit-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 8/4/2026, 10:47:39 AM  
+**Categories:** Markets  
+
+The CNBC personality said he’ll sell his Bitcoin holdings due to fears about quantum computing, as some cryptocurrency investors celebrated, referencing the popular “inverse Cramer” meme.
+
+📖 [Read original article](https://cointelegraph.com/markets/jim-cramer-sell-bitcoin-quantum-fears-btc-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Former FBI supervisor admits guilt in $1M crypto theft
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 8/4/2026, 10:30:56 AM  
+**Categories:** Latest News  
+
+A former FBI supervisory agent pleaded guilty to stealing about $1 million worth of digital assets from an adversarial country and forfeited about $925,000 in funds to government-controlled wallets.
+
+📖 [Read original article](https://cointelegraph.com/news/former-fbi-supervisor-charged-1m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Strategy’s STRC retakes $90 after 24% rebound from June closing low
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 8/4/2026, 9:42:36 AM  
+**Categories:** Markets  
+
+The preferred shares have recovered nearly 24% from their June closing low as Strategy builds its cash reserve and repurchases STRC.
+
+📖 [Read original article](https://cointelegraph.com/markets/strategy-strc-stock-above-90-june-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. US yen intervention puts Bitcoin, risk assets on notice for liquidity flux
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 8/4/2026, 9:22:00 AM  
+**Categories:** Markets  
+
+The first US-Japan joint yen intervention in 28 years came amid record bond yields and worries about the yen carry trade.
+
+📖 [Read original article](https://cointelegraph.com/markets/us-yen-intervention-puts-bitcoin-risk-assets-on-notice-for-liquidity-flux?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 10. Apple briefly removes Telegram from App Store, Gram rebounds
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/4/2026, 8:03:03 AM  
@@ -23,7 +131,7 @@ Apple restored Telegram after the messaging platform removed content that violat
 
 ---
 
-## 2. NY judge denies CFTC motion to halt enforcement action against Kalshi
+## 11. NY judge denies CFTC motion to halt enforcement action against Kalshi
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/4/2026, 7:49:22 AM  
@@ -35,7 +143,7 @@ The ruling leaves New York’s case against Kalshi in place while allowing the C
 
 ---
 
-## 3. Nigeria sets crypto tax collection rules for digital asset platforms
+## 12. Nigeria sets crypto tax collection rules for digital asset platforms
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/4/2026, 7:25:32 AM  
@@ -47,19 +155,7 @@ The framework specifies how existing tax obligations apply to crypto disposals a
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 8/4/2026, 6:18:03 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Crypto firms still seeking frontier AI access; only select few have it
+## 13. Crypto firms still seeking frontier AI access; only select few have it
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/4/2026, 6:00:23 AM  
@@ -71,7 +167,7 @@ Crypto executives say restricting powerful AI models may initially be justified,
 
 ---
 
-## 6. Coldcard Bitcoin theft tops $100M across 3 confirmed attack waves: Galaxy
+## 14. Coldcard Bitcoin theft tops $100M across 3 confirmed attack waves: Galaxy
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/4/2026, 4:47:13 AM  
@@ -83,7 +179,7 @@ Galaxy Research said 90% of the stolen Bitcoin remains unmoved as investigators 
 
 ---
 
-## 7. Bitmine adds $19.6M in ETH, repurchases 4.5M shares
+## 15. Bitmine adds $19.6M in ETH, repurchases 4.5M shares
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/4/2026, 3:52:56 AM  
@@ -95,7 +191,7 @@ Bitmine said it now holds about 4.8% of Ether’s circulating supply as it pursu
 
 ---
 
-## 8. Mastercard completes $1.8B BVNK acquisition in stablecoin push
+## 16. Mastercard completes $1.8B BVNK acquisition in stablecoin push
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/4/2026, 2:58:51 AM  
@@ -107,7 +203,7 @@ Mastercard said the tie-up would help banks, fintechs and enterprises expand sta
 
 ---
 
-## 9. Malaysia Blockchain Week’s OnlyFans scandal, lonely heart scammed for $3.3M: Asia Express
+## 17. Malaysia Blockchain Week’s OnlyFans scandal, lonely heart scammed for $3.3M: Asia Express
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 8/4/2026, 2:03:26 AM  
@@ -119,7 +215,7 @@ Fake romance crypto investment scams net $9 million in a single week in Hong Kon
 
 ---
 
-## 10. Caleb & Brown expands to UK, betting on untapped crypto demand
+## 18. Caleb & Brown expands to UK, betting on untapped crypto demand
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/4/2026, 12:51:32 AM  
@@ -131,7 +227,7 @@ The boutique brokerage will focus on high-net-worth clients rather than competin
 
 ---
 
-## 11. Boltz pauses service after wave of AI-assisted hacking attempts
+## 19. Boltz pauses service after wave of AI-assisted hacking attempts
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/4/2026, 12:03:47 AM  
