@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-03"
 date: "2026-08-03"
 source: "The Block"
-count: 17
+count: 11
 ---
 
 # The Block - 2026-08-03
 
-17 items collected.
+11 items collected.
 
 ---
 
@@ -140,77 +140,5 @@ American Bitcoin expanded its reserve to 8,002 BTC after a record 932 BTC mined 
 Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $53 billion.
 
 📖 [Read original article](https://www.theblock.co/post/410414/michael-saylors-strategy-sells-another-1638-btc-for-105-million-reducing-total-holdings-to-842138-btc?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. BitGo launches Link, connecting clients to Coinbase, Kraken, Crypto.com and more
-
-**Author:** Daniel Kuhn  
-**Published:** 8/3/2026, 11:50:02 AM  
-**Categories:** Companies, Crypto Infrastructure, exclusive, Security Firms  
-
-BitGo Link provides a single interface for viewing and moving digital assets held both in BitGo custody and on centralized exchanges.
-
-📖 [Read original article](https://www.theblock.co/post/410408/bitgo-link-coinbase-kraken-crypto-com?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Bernstein says Clarity Act failure could accelerate SEC, CFTC crypto rulemaking
-
-**Author:** Brian Danga  
-**Published:** 8/3/2026, 9:49:47 AM  
-**Categories:** Equities, Markets, Policy, Regulation, Analyst Reports  
-
-Bernstein expects SEC and CFTC rulemaking to accelerate under Project Crypto if the Clarity Act fails to pass this year.
-
-📖 [Read original article](https://www.theblock.co/post/410395/bernstein-says-clarity-act-failure-could-accelerate-sec-cftc-crypto-rulemaking?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. Ripple invests in ZILO and Licuido to deepen tokenized capital markets push
-
-**Author:** Timmy Shen  
-**Published:** 8/3/2026, 9:38:48 AM  
-**Categories:** Companies, Deals, Markets, Token Projects, XRP  
-
-Ripple said the deals are set to bring regulated transfer agency, issuance, and collateral mobility to its infrastructure on the XRP Ledger.
-
-📖 [Read original article](https://www.theblock.co/post/410397/ripple-invests-zilo-licuido?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. South Korea’s Bithumb officially targets 2028 IPO, outlines multi-year roadmap
-
-**Author:** Danny Park  
-**Published:** 8/3/2026, 9:21:28 AM  
-**Categories:** Companies, Policy, Regulation  
-
-Bithumb plans to request a preliminary listing review and have its application reviewed by local authorities in 2027.
-
-📖 [Read original article](https://www.theblock.co/post/410391/south-korea-bithumb-ipo-2028?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Kalshi and Polymarket’s combined volume reaches all-time high in July, surpassing $50 billion
-
-**Author:** Danny Park  
-**Published:** 8/3/2026, 4:34:46 AM  
-**Categories:** Crypto Ecosystems, Markets, Web3  
-
-Notably, Polymarket US's volume rose 54% while the main Polymarket platform's volume fell 26% compared to June.
-
-📖 [Read original article](https://www.theblock.co/post/410382/kalshi-polymarket-volume-july?utm_source=rss&utm_medium=rss)
-
----
-
-## 17. Hong Kong police flag $3.3 million romance scam involving fake crypto app
-
-**Author:** Timmy Shen  
-**Published:** 8/3/2026, 3:42:16 AM  
-**Categories:** Policy, Regulation  
-
-Hong Kong police reported that an insurance agent lost more than $3.3 million after being lured into a fake crypto investment scheme.
-
-📖 [Read original article](https://www.theblock.co/post/410377/hong-kong-3-million-crypto-romance-scam?utm_source=rss&utm_medium=rss)
 
 ---
