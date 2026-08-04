@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-03"
 date: "2026-08-03"
 source: "CoinDesk"
-count: 19
+count: 9
 ---
 
 # CoinDesk - 2026-08-03
 
-19 items collected.
+9 items collected.
 
 ---
 
@@ -116,125 +116,5 @@ The company trimmed bitcoin holdings by 1,638 coins, while raising $290.6 millio
 The crypto trading platform, ranked fifth on CoinGecko, stopped accepting new registrations on Sunday and plans to shut down all remaining positions by Dec. 31.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/08/03/bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end)
-
----
-
-## 10. Solo Bitcoin miner nets $200,000 as Coldcard hardware wallet drains rocks sentiment
-
-**Author:** Omkar Godbole  
-**Published:** 8/3/2026, 11:18:31 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Aug. 3, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/08/03/solo-bitcoin-miner-nets-usd200-000-as-coldcard-hardware-wallet-drains-rocks-sentiment)
-
----
-
-## 11. Bitcoin, ether decline as Coldcard exploit enters a fifth day
-
-**Author:** Omkar Godbole,Shaurya Malwa  
-**Published:** 8/3/2026, 10:51:37 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Nevertheless, the drop in crypto prices seems restrained given the magnitude of losses in the wallet hack and the erosion of confidence in cold storage.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/03/bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day)
-
----
-
-## 12. Bithumb now targets 2028 IPO after major internal restructuring
-
-**Author:** Olivier Acuna  
-**Published:** 8/3/2026, 10:41:08 AM  
-**Categories:** Finance, South Korea, IPOs, News  
-
-The South Korean crypto trading platform plans to see a preliminary listing review in 2027, but did not identify a proposed listing venue yet.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/03/bithumb-now-targets-2028-ip-after-major-internal-restructuring)
-
----
-
-## 13. Live updates: Bitcoin flirts with $64,000 as stocks start strong in August
-
-**Author:** Shaurya Malwa,Omkar Godbole,Helene Braun  
-**Published:** 8/3/2026, 10:29:23 AM  
-**Categories:** Finance, Live News, live_news  
-
-ARP Digital’s Yusuf Fakhro said bitcoin’s weakness reflects stalled participation more than forced selling, with ETF flows turning negative, CME open interest back at 2023 levels and Strategy idle for a fifth straight week.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/03/live-updates-traders-say-bitcoin-sell-off-from-usd65-000-points-to-thin-volume-not-panic-selling)
-
----
-
-## 14. The bitcoin futures yield collapse: Once over 20%, now less than Treasury notes
-
-**Author:** Omkar Godbole  
-**Published:** 8/3/2026, 10:13:50 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin futures’ once-rich carry has evaporated, with quarterly basis yields trailing two‑year U.S. Treasuries since February, a sign of shrinking arbitrage and a maturing market.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/03/the-bitcoin-futures-yield-collapse-once-over-20-now-less-than-treasury-notes)
-
----
-
-## 15. Robinhood wins UK crypto registration before new regulatory regime kicks off
-
-**Author:** Jamie Crawley  
-**Published:** 8/3/2026, 9:38:53 AM  
-**Categories:** Policy, Robinhood, UK, Regulation, News  
-
-Robinhood’s U.K. arm was added to the FCA's list of registered cryptoasset companies as of July 31.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off)
-
----
-
-## 16. Coldcard wallet losses may near $114 million as possible fourth sweep emerges
-
-**Author:** Shaurya Malwa  
-**Published:** 8/3/2026, 8:51:39 AM  
-**Categories:** Tech, Bitcoin News, Hack, News  
-
-The pending transactions signal replace-by-fee, so anyone who spots their address in the mempool has minutes to pay a higher fee and move funds first.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/03/coldcard-wallet-losses-may-near-usd114-million-as-possible-fourth-sweep-emerges)
-
----
-
-## 17. U.S. Jobs, Circle, Galaxy, American Bitcoin earnings: Crypto Week Ahead
-
-**Author:** Francisco Rodrigues  
-**Published:** 8/3/2026, 8:16:28 AM  
-**Categories:** Markets, week ahead, News  
-
-Your look at what's coming in the week starting Aug. 3
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/03/u-s-jobs-circle-galaxy-american-bitcoin-earnings-crypto-week-ahead)
-
----
-
-## 18. Bitcoin slips under $63,000 despite Iran deal hopes as Coldcard losses rattle market
-
-**Author:** Shaurya Malwa  
-**Published:** 8/3/2026, 6:15:38 AM  
-**Categories:** Markets, News  
-
-Oil and Treasury yields fell after fresh U.S.-Iran talks eased inflation fears, but bitcoin and ether failed to catch a bid as fresh Coldcard-linked sweeps pushed observed losses to nearly $89 million.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/03/bitcoin-slips-under-usd63-000-despite-iran-deal-hopes-as-coldcard-losses-rattle-market)
-
----
-
-## 19. Trump Media’s bitcoin stash may be down to loan collateral after $165 million BTC move
-
-**Author:** Shaurya Malwa  
-**Published:** 8/3/2026, 5:52:29 AM  
-**Categories:** Markets, News  
-
-Wallets tied to the Truth Social parent now hold about as much bitcoin as the company previously pledged as note collateral, making its next 10-Q the key test of whether recent Crypto.com transfers were custody moves or sales.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move)
 
 ---
