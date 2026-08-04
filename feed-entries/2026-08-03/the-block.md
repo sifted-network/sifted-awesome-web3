@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-03"
 date: "2026-08-03"
 source: "The Block"
-count: 11
+count: 5
 ---
 
 # The Block - 2026-08-03
 
-11 items collected.
+5 items collected.
 
 ---
 
@@ -68,77 +68,5 @@ An FBI agent was arrested after allegedly stealing about $1 million in cryptocur
 Some 46,210 issuers like Coinbase and American Express used POAP to create onchain mementos that users could mint.
 
 📖 [Read original article](https://www.theblock.co/post/410482/proof-of-attendance-protocol-is-shutting-down-after-5-years?utm_source=rss&utm_medium=rss)
-
----
-
-## 6. BlackRock launches two tokenized money market funds for stablecoin reserves
-
-**Author:** Daniel Kuhn  
-**Published:** 8/3/2026, 5:48:09 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Finance firms, Markets, Policy, Public Equities, Regulation, Web3, BlackRock, Tokenization  
-
-BRSRV joins a list of funds launched by the likes of Morgan Stanley, State Street, and Fidelity designed for stablecoin reserves.
-
-📖 [Read original article](https://www.theblock.co/post/410469/blackrock-launches-two-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss&utm_medium=rss)
-
----
-
-## 7. Jameson Lopp says Coldcard exploit exposes limits of Bitcoin’s ‘don’t trust, verify’ mantra
-
-**Author:** Kyle Baird  
-**Published:** 8/3/2026, 4:59:42 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Infrastructure, Layer 1s, Markets, Security, Token Projects, Web3, Bitcoin, Exploits, Wallet Makers, Wallets  
-
-Lopp said AI is reshaping wallet security by helping attackers uncover bugs and developers audit code faster.
-
-📖 [Read original article](https://www.theblock.co/post/410446/jameson-lopp-coldcard-exploit-exposes-limits-bitcoins-dont-trust-verify-mantra?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. Michael Saylor says he’s never sold his personal bitcoin after Strategy dumps more BTC
-
-**Author:** Jason Shubnell  
-**Published:** 8/3/2026, 4:57:22 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, Token Projects, Bitcoin, Strategy  
-
-Strategy Inc disclosed that it sold 1,638 bitcoin last week for $104.7 million, reducing its total holdings to 842,138 BTC.
-
-📖 [Read original article](https://www.theblock.co/post/410451/michael-saylor-says-never-sold-his-personal-bitcoin-strategy-dumps-more-btc?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH
-
-**Author:** Brian Danga  
-**Published:** 8/3/2026, 1:48:47 PM  
-**Categories:** Companies, Crypto Ecosystems, Equities, Layer 1s, Market Updates, Markets, Token Projects, Equity Movers, Ethereum  
-
-Bitmine expanded its ether treasury to 5.8 million ETH tokens as Tom Lee highlighted July's outperformance against the Nasdaq 100.
-
-📖 [Read original article](https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Eric Trump’s American Bitcoin treasury tops 8,000 BTC as Q2 mining production hits record
-
-**Author:** Brian Danga  
-**Published:** 8/3/2026, 1:03:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Equities, Layer 1s, Markets, Token Projects, Bitcoin, Earnings, Mining Companies  
-
-American Bitcoin expanded its reserve to 8,002 BTC after a record 932 BTC mined in Q2, with revenue rising 8% to $67 million.
-
-📖 [Read original article](https://www.theblock.co/post/410426/eric-trumps-american-bitcoin-treasury-tops-8000-btc-as-q2-mining-production-hits-record?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Michael Saylor’s Strategy sells another 1,638 BTC for $105 million, reducing total holdings to 842,138 BTC
-
-**Author:** James Hunt  
-**Published:** 8/3/2026, 12:13:30 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, Token Projects, Bitcoin, Strategy  
-
-Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $53 billion.
-
-📖 [Read original article](https://www.theblock.co/post/410414/michael-saylors-strategy-sells-another-1638-btc-for-105-million-reducing-total-holdings-to-842138-btc?utm_source=rss&utm_medium=rss)
 
 ---
