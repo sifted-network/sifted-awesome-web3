@@ -2,16 +2,100 @@
 title: "The Block - 2026-08-05"
 date: "2026-08-05"
 source: "The Block"
-count: 11
+count: 18
 ---
 
 # The Block - 2026-08-05
 
-11 items collected.
+18 items collected.
 
 ---
 
-## 1. World Chain becomes first production L2 to ship streaming Block Access Lists via Flashblocks
+## 1. CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a ‘late-stage bear market’
+
+**Author:** Yogita Khatri  
+**Published:** 8/5/2026, 7:09:26 PM  
+**Categories:** Crypto Ecosystems, Layer 1s, Markets, Token Projects, Web3, Bitcoin, Crypto, Ethereum, XRP  
+
+Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.
+
+📖 [Read original article](https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Analysts see bitcoin bottom forming through boredom as price clings to $64K amid spot ETF inflows
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 8/5/2026, 5:31:31 PM  
+**Categories:** Crypto Ecosystems, Equities, Funds, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin, Bitcoin ETF, Ethereum ETF  
+
+Bitcoin held near $64,000 as spot ETFs drew $211.5 million Tuesday while analysts flag bottom signals forming without a demand engine.
+
+📖 [Read original article](https://www.theblock.co/post/410905/analysts-see-bitcoin-bottom-forming-through-boredom-price-clings-64k-amid-spot-etf-inflows?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. TeraWulf’s HPC leasing revenue jumps 52%, widening lead over bitcoin mining
+
+**Author:** Kyle Baird  
+**Published:** 8/5/2026, 5:09:28 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Equities, Infrastructure, Markets, Web3, AI, Earnings, Mining, Mining Companies  
+
+HPC leasing accounted for roughly 71% of TeraWulf's $44.8 million in Q2 revenue, up from 62% in the prior quarter.
+
+📖 [Read original article](https://www.theblock.co/post/410888/terawulf-hpc-leasing-revenue-jumps-52-widening-lead-over-bitcoin-mining?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. NFT founder accused of using millions from investor funds to finance DJ hobby, gambling
+
+**Author:** Sarah Wynn  
+**Published:** 8/5/2026, 4:17:47 PM  
+**Categories:** Art and collectibles, Legal, Metaverse & NFT, Policy, Regulation, Crime, NFT Funds  
+
+An NFT founder is facing fraud charges after prosecutors alleged he stole millions of dollars from investors to bankroll his lifestyle.
+
+📖 [Read original article](https://www.theblock.co/post/410890/nft-founder-accused-using-millions-investor-funds-finance-dj-hobby-gambling?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Kraken parent Payward shifts position on tokenized equities and voting rights
+
+**Author:** RT Watson  
+**Published:** 8/5/2026, 3:26:17 PM  
+**Categories:** Companies, Crypto Ecosystems, Exchanges, Markets, Web3, Kraken, Tokenization  
+
+While previously xStocks holders had no voting rights, this deal will allow eligible investors to submit proxy voting preferences.
+
+📖 [Read original article](https://www.theblock.co/post/410878/kraken-parent-payward-shifts-position-tokenized-equities-voting-rights?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. Galaxy shares sink 12% after Q2 loss as AI data center business begins generating revenue
+
+**Author:** Kyle Baird  
+**Published:** 8/5/2026, 3:02:26 PM  
+**Categories:** Companies, Crypto Ecosystems, Equities, Markets, Web3, AI, Earnings  
+
+Galaxy's Helios Phase I campus is expected to generate roughly $80 million in quarterly leasing revenue beginning in Q3.
+
+📖 [Read original article](https://www.theblock.co/post/410851/galaxy-shares-sink-11-after-85-million-q2-loss-despite-ai-data-center-gains?utm_source=rss&utm_medium=rss)
+
+---
+
+## 7. Saylor’s Strategy joins Coinbase, Morgan Stanley and more in pledging contributions to Trump Accounts
+
+**Author:** RT Watson  
+**Published:** 8/5/2026, 2:16:41 PM  
+**Categories:** Companies, Markets, People, Policy, Public Equities, Donald Trump, Strategy  
+
+Trump Accounts will invest in mutual funds or ETFs that track the S&P 500 or another index of mainly U.S. equities.
+
+📖 [Read original article](https://www.theblock.co/post/410849/saylors-strategy-joins-morgan-stanley-goldman-sachs-contributions-trump-accounts?utm_source=rss&utm_medium=rss)
+
+---
+
+## 8. World Chain becomes first production L2 to ship streaming Block Access Lists via Flashblocks
 
 **Author:** Daniel Kuhn  
 **Published:** 8/5/2026, 1:00:02 PM  
@@ -23,7 +107,7 @@ The L2 will activate the feature on mainnet on Aug. 17 ahead of Ethereum's Glams
 
 ---
 
-## 2. Mastercard expands stablecoin push with Crypto Credential pilot
+## 9. Mastercard expands stablecoin push with Crypto Credential pilot
 
 **Author:** Brian Danga  
 **Published:** 8/5/2026, 1:00:00 PM  
@@ -35,7 +119,7 @@ Mastercard and Borderless.xyz are piloting Crypto Credential to support trusted 
 
 ---
 
-## 3. Circle names BlackRock, DTCC among Arc validators as Q2 revenue hits $701 million
+## 10. Circle names BlackRock, DTCC among Arc validators as Q2 revenue hits $701 million
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 8/5/2026, 12:16:27 PM  
@@ -47,7 +131,7 @@ Circle named BlackRock, Visa, DTCC and eight others as Arc validators as Q2 reve
 
 ---
 
-## 4. Visa expands stablecoin capabilities on Visa Direct with zerohash collaboration
+## 11. Visa expands stablecoin capabilities on Visa Direct with zerohash collaboration
 
 **Author:** Daniel Kuhn  
 **Published:** 8/5/2026, 12:00:00 PM  
@@ -59,7 +143,7 @@ Visa Direct reportedly connects to more than 18 billion endpoints, including car
 
 ---
 
-## 5. ‘Panic visible onchain’: Bitcoin activity hits 2026 high amid Coldcard attack as K33 flags potential bottoming pattern
+## 12. ‘Panic visible onchain’: Bitcoin activity hits 2026 high amid Coldcard attack as K33 flags potential bottoming pattern
 
 **Author:** James Hunt  
 **Published:** 8/5/2026, 11:33:11 AM  
@@ -71,7 +155,7 @@ Bitcoin's seven-day active supply climbed to a 2026 high with about 890,000 BTC 
 
 ---
 
-## 6. Cipher slides 16% on wider Q2 losses as Bernstein sees upside from Texas power audit
+## 13. Cipher slides 16% on wider Q2 losses as Bernstein sees upside from Texas power audit
 
 **Author:** Timmy Shen  
 **Published:** 8/5/2026, 9:50:28 AM  
@@ -83,7 +167,7 @@ The bitcoin miner-turned-HPC developer posted a net loss of $267.5 million in Q2
 
 ---
 
-## 7. Former LAPD officer gets life sentence for kidnapping teen in $350,000 bitcoin robbery: report
+## 14. Former LAPD officer gets life sentence for kidnapping teen in $350,000 bitcoin robbery: report
 
 **Author:** Brian Danga  
 **Published:** 8/5/2026, 8:37:20 AM  
@@ -95,7 +179,7 @@ Former LAPD officer Eric Halem was sentenced to life plus 15 years for kidnappin
 
 ---
 
-## 8. Eliza Labs founder declares native token ‘dead,’ winds down foundation after Burwick Law settlement
+## 15. Eliza Labs founder declares native token ‘dead,’ winds down foundation after Burwick Law settlement
 
 **Author:** Danny Park  
 **Published:** 8/5/2026, 7:39:06 AM  
@@ -107,7 +191,7 @@ Walters said the team used its remaining treasury and available funds to settle 
 
 ---
 
-## 9. Crypto PAC Fairshake scores primary wins in Michigan and Washington
+## 16. Crypto PAC Fairshake scores primary wins in Michigan and Washington
 
 **Author:** Timmy Shen  
 **Published:** 8/5/2026, 6:29:14 AM  
@@ -119,7 +203,7 @@ Fairshake backed Michigan's Bill Huizenga and Washington's Suzan DelBene, Kim Sc
 
 ---
 
-## 10. Three Missouri men charged over alleged plot to steal bitcoin through home invasion
+## 17. Three Missouri men charged over alleged plot to steal bitcoin through home invasion
 
 **Author:** Danny Park  
 **Published:** 8/5/2026, 2:47:25 AM  
@@ -131,7 +215,7 @@ The three individuals have pleaded not guilty to the charge of conspiracy to int
 
 ---
 
-## 11. Crypto ‘will be fine’ even if Clarity fails to pass this week, Bitwise CIO Matt Hougan says
+## 18. Crypto ‘will be fine’ even if Clarity fails to pass this week, Bitwise CIO Matt Hougan says
 
 **Author:** Danny Park  
 **Published:** 8/5/2026, 2:31:03 AM  
