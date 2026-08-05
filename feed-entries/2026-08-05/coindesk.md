@@ -2,28 +2,76 @@
 title: "CoinDesk - 2026-08-05"
 date: "2026-08-05"
 source: "CoinDesk"
-count: 16
+count: 21
 ---
 
 # CoinDesk - 2026-08-05
 
-16 items collected.
+21 items collected.
 
 ---
 
-## 1. Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE
+## 1. Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow
+
+**Author:** Jesse Hamilton  
+**Published:** 8/5/2026, 6:15:21 PM  
+**Categories:** Policy, Election 2026, News  
+
+The leading industry PAC, Fairshake, put $2 million into a Detroit Democratic primary but came up short, even as several PAC-backed candidates won elsewhere.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow)
+
+---
+
+## 2. Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say
+
+**Author:** Will Canny,AI Boost  
+**Published:** 8/5/2026, 3:44:08 PM  
+**Categories:** Tech, Hack, Cantor Fitzgerald, Coldcard, News  
+
+Cantor sees positive read-through for crypto custody providers, while FRNT says the breach could drive some investors toward bitcoin ETFs.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say)
+
+---
+
+## 3. Crypto Long & Short: Putting the bitcoin sizing question to the test
+
+**Author:** Gregory Mall  
+**Published:** 8/5/2026, 3:03:19 PM  
+**Categories:** CoinDesk Indices, CoinDesk Indices, Crypto Long & Short, News  
+
+In a follow-up to his essay on sizing crypto risk, Lionsoul Global's Gregory Mall backtests bitcoin in a 60/40 across bull, bear and sideways regimes, showing how a straight bitcoin position, a large-cap basket and a trend-managed sleeve part ways and why the way you hold bitcoin can matter as much ...
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/08/05/crypto-long-and-short-putting-the-bitcoin-sizing-question-to-the-test)
+
+---
+
+## 4. Strategy’s STRC rebounds 30% as company builds cash reserve, bitcoin price stabilizes
+
+**Author:** James Van Straten  
+**Published:** 8/5/2026, 2:44:30 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Bitcoin sales, what is now a $4 billion cash reserve, and a $975 million repurchase program, have supported STRC’s recovery.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/05/strategy-s-strc-rebounds-30-as-company-builds-cash-reserve-bitcoin-price-stabilizes)
+
+---
+
+## 5. Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE
 
 **Author:** Ian Allison  
 **Published:** 8/5/2026, 1:25:04 PM  
 **Categories:** Finance, News  
 
-Laser’s investment in ZIGChain is understood to be in the high single-digit millions.
+Laser’s investment in ZIGChain is understood to be in the single-digit millions.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae)
 
 ---
 
-## 2. Crypto may have institutionalized, but it still trades like a rumor mill
+## 6. Crypto may have institutionalized, but it still trades like a rumor mill
 
 **Author:** Fabian Dori  
 **Published:** 8/5/2026, 1:00:00 PM  
@@ -35,7 +83,19 @@ The more institutional crypto becomes, the more it prices on headlines. The edge
 
 ---
 
-## 3. Galaxy Digital shares slip 5% after second-quarter results
+## 7. Ondo Finance hires former Blockchain.com CFO Adam Schlisman
+
+**Author:** Will Canny,AI Boost  
+**Published:** 8/5/2026, 1:00:00 PM  
+**Categories:** Finance, ondo finance, Exclusive, Tokenization, News  
+
+The tokenized-assets firm appointed ex-Blockchain.com and Monashee executive as finance chief as it expands its onchain capital markets business.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/05/ondo-finance-hires-former-blockchain-com-cfo-adam-schlisman)
+
+---
+
+## 8. Galaxy Digital shares slip 5% after second-quarter results
 
 **Author:** Francisco Rodrigues,James Van Straten  
 **Published:** 8/5/2026, 12:42:19 PM  
@@ -47,7 +107,7 @@ Helios produced data-center revenue for the first time with Phase I expected to 
 
 ---
 
-## 4. AI agent token once worth $2.4 billion ends with founder calling it dead
+## 9. AI agent token once worth $2.4 billion ends with founder calling it dead
 
 **Author:** Shaurya Malwa  
 **Published:** 8/5/2026, 12:28:39 PM  
@@ -59,7 +119,7 @@ Eliza Labs founder Shaw Walters said the ELIZAOS foundation is closing and that 
 
 ---
 
-## 5. SpaceX extends decline to 11% on lockup expiration and capex spending fears
+## 10. SpaceX extends decline to 11% on lockup expiration and capex spending fears
 
 **Author:** Shaurya Malwa,Helene Braun  
 **Published:** 8/5/2026, 12:12:08 PM  
@@ -71,7 +131,7 @@ The company reported no BTC sales in the second quarter, but shares fell before 
 
 ---
 
-## 6. Yellow Card raises $40 million to link banks to stablecoin processing
+## 11. Yellow Card raises $40 million to link banks to stablecoin processing
 
 **Author:** Olivier Acuna  
 **Published:** 8/5/2026, 12:09:05 PM  
@@ -83,7 +143,7 @@ The funds bring Yellow Card’s total financing to more than $120 million since 
 
 ---
 
-## 7. The $120 million Coldcard hack lights up Bitcoin's memory pool
+## 12. The $120 million Coldcard hack lights up Bitcoin's memory pool
 
 **Author:** Omkar Godbole  
 **Published:** 8/5/2026, 11:20:58 AM  
@@ -95,7 +155,7 @@ Your day-ahead look for Aug. 5, 2026
 
 ---
 
-## 8. Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue
+## 13. Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue
 
 **Author:** Krisztian Sandor  
 **Published:** 8/5/2026, 11:13:17 AM  
@@ -107,7 +167,7 @@ Shares initially jumped 10% but later fell 3% in pre-market trading as the stabl
 
 ---
 
-## 9. Bitcoin, broader market fail to keep pace as global equities hit record highs
+## 14. Bitcoin, broader market fail to keep pace as global equities hit record highs
 
 **Author:** Francisco Rodrigues,Omkar Godbole,Shaurya Malwa  
 **Published:** 8/5/2026, 11:01:15 AM  
@@ -119,11 +179,11 @@ Derivatives data show subdued activity in bitcoin and ether but aggressive posit
 
 ---
 
-## 10. Coldcard hack sparks a self-custody security overhaul: Cory Klippsten
+## 15. Coldcard hack sparks a self-custody security overhaul: Cory Klippsten
 
 **Author:** James Van Straten  
 **Published:** 8/5/2026, 9:55:32 AM  
-**Categories:** Markets, Bitcoin News, Custody, News  
+**Categories:** Markets, Bitcoin News, Custody, Coldcard, News  
 
 The attack exposed a five-year-old firmware flaw. The industry’s rapid response is accelerating the adoption of collaborative multisig security.
 
@@ -131,7 +191,7 @@ The attack exposed a five-year-old firmware flaw. The industry’s rapid respons
 
 ---
 
-## 11. Why bitcoin’s ‘500-day rule’ faces its biggest test yet
+## 16. Why bitcoin’s ‘500-day rule’ faces its biggest test yet
 
 **Author:** Olivier Acuna  
 **Published:** 8/5/2026, 9:06:15 AM  
@@ -143,7 +203,7 @@ The so-called ‘500-day rule’ says buying BTC roughly 500 days before a bitco
 
 ---
 
-## 12. Live updates: An AI credit bubble could set up bitcoin’s path to $1 million, says Arthur Hayes
+## 17. Live updates: An AI credit bubble could set up bitcoin’s path to $1 million, says Arthur Hayes
 
 **Author:** Shaurya Malwa,Omkar Godbole,Helene Braun  
 **Published:** 8/5/2026, 9:00:20 AM  
@@ -155,7 +215,7 @@ Maelstrom co-founder Arthur Hayes says overleveraged AI data-center spending wil
 
 ---
 
-## 13. The worst chart for bitcoin bulls right now
+## 18. The worst chart for bitcoin bulls right now
 
 **Author:** Omkar Godbole  
 **Published:** 8/5/2026, 7:54:22 AM  
@@ -167,7 +227,7 @@ For 14 years, one ratio moved only in bitcoin's favor. Now it has decisively tur
 
 ---
 
-## 14. New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion
+## 19. New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion
 
 **Author:** Shaurya Malwa  
 **Published:** 8/5/2026, 5:49:57 AM  
@@ -179,7 +239,7 @@ The EIP-8361 draft proposal calls for burning a rising share of validator reward
 
 ---
 
-## 15. \"You stole, please return some.\" Coldcard hacker's wallet becomes a graffiti wall of pleas and hustles
+## 20. \"You stole, please return some.\" Coldcard hacker's wallet becomes a graffiti wall of pleas and hustles
 
 **Author:** Omkar Godbole  
 **Published:** 8/5/2026, 5:12:46 AM  
@@ -191,7 +251,7 @@ A wallet holding $36 million in stolen bitcoin has become an unlikely public mes
 
 ---
 
-## 16. Bitcoin flat at $64,000 as stocks print records and Hormuz deal nears
+## 21. Bitcoin flat at $64,000 as stocks print records and Hormuz deal nears
 
 **Author:** Shaurya Malwa  
 **Published:** 8/5/2026, 4:32:16 AM  
