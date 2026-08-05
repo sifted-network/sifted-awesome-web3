@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-03"
 date: "2026-08-03"
 source: "Cointelegraph"
-count: 7
+count: 6
 ---
 
 # Cointelegraph - 2026-08-03
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ The spot price Bitcoin exchange-traded fund, which was never able to attract mor
 The US and Japan coordinate on the yen for the first time since 2011 as Bitcoin traders brace for a historically rough August.
 
 📖 [Read original article](https://cointelegraph.com/markets/us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. How Fake World Assets and onchain gacha became crypto’s latest craze
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 8/3/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Fake World Assets turns forgotten NFTs into an onchain lottery — but is crypto’s latest obsession built to last?
-
-📖 [Read original article](https://cointelegraph.com/magazine/how-fake-world-assets-and-online-gacha-became-cryptos-latest-craze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
