@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-08-04"
 date: "2026-08-04"
 source: "CoinDesk"
-count: 24
+count: 25
 ---
 
 # CoinDesk - 2026-08-04
 
-24 items collected.
+25 items collected.
 
 ---
 
-## 1. Open USD rattled Circle's stock, but its key backers still support USDC
+## 1. SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings
+
+**Author:** Krisztian Sandor  
+**Published:** 8/4/2026, 8:26:21 PM  
+**Categories:** Finance, SpaceX, Elon Musk, Bitcoin News, News  
+
+Elon Musk's space company posted its first earnings as a public company ahead of a major insider share unlock.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value)
+
+---
+
+## 2. Open USD rattled Circle's stock, but its key backers still support USDC
 
 **Author:** Krisztian Sandor  
 **Published:** 8/4/2026, 5:55:23 PM  
@@ -23,7 +35,7 @@ Executives at Coinbase, Visa and Mastercard said they plan to support multiple s
 
 ---
 
-## 2. Samsung is poised to become a dominant stablecoin distributor, analysts say
+## 3. Samsung is poised to become a dominant stablecoin distributor, analysts say
 
 **Author:** Olivier Acuna  
 **Published:** 8/4/2026, 5:14:13 PM  
@@ -35,7 +47,7 @@ Samsung seeks to turn 800 million Galaxy phones into wallets for digital assets 
 
 ---
 
-## 3. Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him
+## 4. Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him
 
 **Author:** Jesse Hamilton  
 **Published:** 8/4/2026, 4:21:59 PM  
@@ -47,7 +59,7 @@ Senators Elizabeth Warren and Richard Blumenthal requested the U.S. Securities a
 
 ---
 
-## 4. Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street’s settlement rails
+## 5. Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street’s settlement rails
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/4/2026, 3:47:05 PM  
@@ -59,7 +71,7 @@ Payments will run on the bank’s proprietary blockchain and be routed automatic
 
 ---
 
-## 5. Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode
+## 6. Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode
 
 **Author:** James Van Straten  
 **Published:** 8/4/2026, 2:49:33 PM  
@@ -71,7 +83,7 @@ Retail investors and large whales are buying as bitcoin trades near its 200-week
 
 ---
 
-## 6. Polymarket targets $20 billion valuation as competition heats up in prediction market sector
+## 7. Polymarket targets $20 billion valuation as competition heats up in prediction market sector
 
 **Author:** Helene Braun  
 **Published:** 8/4/2026, 2:38:23 PM  
@@ -83,7 +95,7 @@ The blockchain-based prediction markets platform is reportedly returning to inve
 
 ---
 
-## 7. Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped
+## 8. Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/4/2026, 2:25:50 PM  
@@ -95,7 +107,7 @@ The Italian bank tripled its holding of iShares Staked Ethereum Trust ETF stake 
 
 ---
 
-## 8. Dinari brings tokenized U.S. stocks to American investors as equity race heats up
+## 9. Dinari brings tokenized U.S. stocks to American investors as equity race heats up
 
 **Author:** Krisztian Sandor  
 **Published:** 8/4/2026, 2:00:00 PM  
@@ -107,7 +119,7 @@ The move brings the custodial tokenization model to eligible U.S. investors as c
 
 ---
 
-## 9. As Clarity Act teeters, mystery group hammers away at crypto in Washington ads
+## 10. As Clarity Act teeters, mystery group hammers away at crypto in Washington ads
 
 **Author:** Jesse Hamilton  
 **Published:** 8/4/2026, 1:00:00 PM  
@@ -119,7 +131,7 @@ Crypto Watchdog has taken to warning people in DC about the hazards of digital a
 
 ---
 
-## 10. BitGo’s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion
+## 11. BitGo’s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/4/2026, 1:00:00 PM  
@@ -131,7 +143,7 @@ A migration wave followed a $292 million Kelp bridge exploit, with announced Lay
 
 ---
 
-## 11. BNY to add crypto staking to digital asset custody platform
+## 12. BNY to add crypto staking to digital asset custody platform
 
 **Author:** Helene Braun  
 **Published:** 8/4/2026, 12:30:00 PM  
@@ -143,7 +155,7 @@ The custody bank has selected Galaxy to provide staking infrastructure as it bro
 
 ---
 
-## 12. Coldcard urges users to move bitcoin as exploit is still in progress
+## 13. Coldcard urges users to move bitcoin as exploit is still in progress
 
 **Author:** Shaurya Malwa  
 **Published:** 8/4/2026, 12:00:25 PM  
@@ -155,7 +167,7 @@ The cold wallet maker said the flaw behind roughly $114 million in losses remain
 
 ---
 
-## 13. The bitcoin market has plenty of reasons to freak out, yet calm pervades
+## 14. The bitcoin market has plenty of reasons to freak out, yet calm pervades
 
 **Author:** Omkar Godbole  
 **Published:** 8/4/2026, 11:23:33 AM  
@@ -167,7 +179,7 @@ Your day-ahead look for Aug. 4, 2026
 
 ---
 
-## 14. South African lawmakers propose draft rules on cross-border crypto transactions
+## 15. South African lawmakers propose draft rules on cross-border crypto transactions
 
 **Author:** Jamie Crawley  
 **Published:** 8/4/2026, 10:59:41 AM  
@@ -179,7 +191,7 @@ A draft rulebook proposes that sending crypto offshore must be conducted through
 
 ---
 
-## 15. Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances
+## 16. Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances
 
 **Author:** Francisco Rodrigues,Omkar Godbole,Shaurya Malwa  
 **Published:** 8/4/2026, 10:51:11 AM  
@@ -191,7 +203,7 @@ Bitcoin advanced as the market settled down following the weekend’s hack of Co
 
 ---
 
-## 16. BlackRock debuts tokenized access to $311 billion of money market funds in Europe
+## 17. BlackRock debuts tokenized access to $311 billion of money market funds in Europe
 
 **Author:** Ian Allison  
 **Published:** 8/4/2026, 10:03:24 AM  
@@ -203,7 +215,7 @@ Earlier this week, BlackRock expanded its U.S. tokenized cash platform which inv
 
 ---
 
-## 17. First U.S. spot bitcoin ETF to close as inflows dwindle, investors chase AI returns
+## 18. First U.S. spot bitcoin ETF to close as inflows dwindle, investors chase AI returns
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/4/2026, 9:54:02 AM  
@@ -215,7 +227,7 @@ Hashdex's DEFI, the smallest of the funds, held $14.7 million under management, 
 
 ---
 
-## 18. Live updates: Bitcoin stuck in tight range as risk assets soar on Iran deal hopes
+## 19. Live updates: Bitcoin stuck in tight range as risk assets soar on Iran deal hopes
 
 **Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Stephen Alpher  
 **Published:** 8/4/2026, 8:41:00 AM  
@@ -227,7 +239,7 @@ Japan may have spent as much as $36.6 billion buying yen in the first joint US-J
 
 ---
 
-## 19. Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge
+## 20. Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge
 
 **Author:** Shaurya Malwa  
 **Published:** 8/4/2026, 7:56:11 AM  
@@ -239,7 +251,7 @@ The planned Gelephu Mindfulness City says 3iQ will run part of its bitcoin treas
 
 ---
 
-## 20. Why Jim Cramer’s quantum panic isn’t rattling bitcoin as price holds steady around $64,000
+## 21. Why Jim Cramer’s quantum panic isn’t rattling bitcoin as price holds steady around $64,000
 
 **Author:** Omkar Godbole  
 **Published:** 8/4/2026, 7:53:18 AM  
@@ -251,7 +263,7 @@ Jim Cramer says he's dumping his bitcoin over quantum computing fears, but his t
 
 ---
 
-## 21. XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool
+## 22. XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool
 
 **Author:** Shaurya Malwa  
 **Published:** 8/4/2026, 6:12:20 AM  
@@ -263,7 +275,7 @@ XRP holders can now borrow RLUSD against their coins on Ethereum without selling
 
 ---
 
-## 22. A new Solana proposal aims to ramp up daily SOL Burns from $47,000 to $650,000
+## 23. A new Solana proposal aims to ramp up daily SOL Burns from $47,000 to $650,000
 
 **Author:** Shaurya Malwa  
 **Published:** 8/4/2026, 5:39:18 AM  
@@ -275,7 +287,7 @@ SGP-0003 bundles a fee overhaul with a doubling of the disinflation rate. It nee
 
 ---
 
-## 23. Bitcoin nears $64,000 as traders look past Strategy's BTC sales and Coldcard sweeps
+## 24. Bitcoin nears $64,000 as traders look past Strategy's BTC sales and Coldcard sweeps
 
 **Author:** Shaurya Malwa  
 **Published:** 8/4/2026, 5:21:13 AM  
@@ -287,7 +299,7 @@ Every major token except ether is green on the week, with BTC up 1.9% over 24 ho
 
 ---
 
-## 24. A bitcoin wallet dormant since 2013 moved $31 million, and it's not the only one
+## 25. A bitcoin wallet dormant since 2013 moved $31 million, and it's not the only one
 
 **Author:** Omkar Godbole  
 **Published:** 8/4/2026, 4:48:40 AM  
