@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-04"
 date: "2026-08-04"
 source: "The Block"
-count: 16
+count: 9
 ---
 
 # The Block - 2026-08-04
 
-16 items collected.
+9 items collected.
 
 ---
 
@@ -116,89 +116,5 @@ The move pushes the total value migrating from LayerZero to Chainlink near $15 b
 Hut 8 CEO Asher Genoot said future bitcoin exposure will primarily come through its American Bitcoin subsidiary.
 
 📖 [Read original article](https://www.theblock.co/post/410581/hut-8-shares-slip-mild-q2-revenue-miss-ai-data-center-pipeline-grows?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Bitdeer stock pops and drops on $4.7 billion AI data center lease in Norway
-
-**Author:** Brian Danga  
-**Published:** 8/4/2026, 2:24:52 PM  
-**Categories:** Companies, Crypto Infrastructure, Deals, Equities, Market Updates, Markets, Analyst Reports, Equity Movers, Mining Companies  
-
-Bitcoin miner Bitdeer shares jump after disclosing $4.7 billion AI data center lease terms with Volta in Norway.
-
-📖 [Read original article](https://www.theblock.co/post/410578/bitdeer-stock-pops-drops-4-7-billion-ai-data-center-lease-norway?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. OKX says Coldcard exploit triggers ‘record’ inflows to centralized exchanges
-
-**Author:** RT Watson  
-**Published:** 8/4/2026, 12:05:02 PM  
-**Categories:** Crypto Ecosystems, Policy, Regulation, exclusive  
-
-During the first half of the year, OKX told The Block it prevented $26.3 million in scam-related losses by stopping suspicious transfers.
-
-📖 [Read original article](https://www.theblock.co/post/410515/okx-says-coldcard-exploit-record-inflows-centralized-exchanges?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. DCG’s Fortitude acquires 12.5 MW Nebraska facility for net $4.7 million, expanding Zcash mining portfolio
-
-**Author:** Daniel Kuhn  
-**Published:** 8/4/2026, 11:32:23 AM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Deals, Mergers & Acquisitions, exclusive, Mining Companies, Private Company Mergers and Acquisitions  
-
-Fortitude Mining completed the cash acquisition of a 12.5 MW mining facility for a net outlay of about $4.7 million after credits.
-
-📖 [Read original article](https://www.theblock.co/post/410565/dcgs-fortitude-acquires-nebraska-facility-zcash-mining?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Cathie Wood’s Ark Invest snaps up nearly $10 million in Coinbase and Circle stock
-
-**Author:** James Hunt  
-**Published:** 8/4/2026, 11:02:55 AM  
-**Categories:** Companies, Exchanges, Markets, Public Equities, Coinbase  
-
-The firm also offloaded a small amount of Solmate stock as it continues to rebalance its fund weightings amid market volatility.
-
-📖 [Read original article](https://www.theblock.co/post/410558/cathie-woods-ark-invest-snaps-up-nearly-10-million-in-coinbase-and-circle-stock?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. BlackRock debuts tokenized share classes for select European money market funds with $311 billion in assets
-
-**Author:** Brian Danga  
-**Published:** 8/4/2026, 9:31:22 AM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Finance firms, Institutional Investors, Layer 1s, Markets, Public Equities, Token Projects, Asset Managers, BlackRock, Ethereum  
-
-BlackRock launched Ethereum-based tokenized share classes for select European money market funds using JPMorgan's Kinexys.
-
-📖 [Read original article](https://www.theblock.co/post/410554/blackrock-debuts-tokenized-share-classes-for-select-european-money-market-funds-with-311-billion-in-assets?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Binance launches bitcoin-backed ‘Lite Loan’ with $1,000 borrowing limit
-
-**Author:** Yogita Khatri  
-**Published:** 8/4/2026, 9:30:03 AM  
-**Categories:** Companies, Crypto Ecosystems, Exchanges, Layer 1s, Markets, Stablecoins, Token Projects, Binance, Bitcoin, exclusive, Tether  
-
-Binance has launched Lite Loan, a bitcoin-backed borrowing product that lets eligible users borrow up to $1,000 in USDT.
-
-📖 [Read original article](https://www.theblock.co/post/410544/binance-lite-loan-bitcoin?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Bernstein says Texas data center audit could boost value of existing bitcoin mining and AI sites
-
-**Author:** Danny Park  
-**Published:** 8/4/2026, 8:57:13 AM  
-**Categories:** Crypto Ecosystems, Policy, Regulation  
-
-Bernstein said a state-ordered audit of Texas data centers will heighten power scarcity across the regional grid.
-
-📖 [Read original article](https://www.theblock.co/post/410545/bernstein-texas-data-center-audit?utm_source=rss&utm_medium=rss)
 
 ---
