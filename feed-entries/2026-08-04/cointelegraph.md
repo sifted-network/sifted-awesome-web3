@@ -2,28 +2,16 @@
 title: "Cointelegraph - 2026-08-04"
 date: "2026-08-04"
 source: "Cointelegraph"
-count: 24
+count: 23
 ---
 
 # Cointelegraph - 2026-08-04
 
-24 items collected.
+23 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 8/4/2026, 7:59:26 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks
+## 1. US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/4/2026, 7:58:48 PM  
@@ -35,7 +23,7 @@ In a July 8 meeting, US and UK regulators highlighted the implementation of the 
 
 ---
 
-## 3. BNY to offer institutional crypto staking through Galaxy partnership
+## 2. BNY to offer institutional crypto staking through Galaxy partnership
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/4/2026, 5:10:04 PM  
@@ -47,7 +35,7 @@ The custody giant is expanding beyond safekeeping by adding staking services, al
 
 ---
 
-## 4. Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record
+## 3. Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/4/2026, 4:38:54 PM  
@@ -59,7 +47,7 @@ Bitcoin built on $64,000 as hopes of the Strait of Hormuz reopening to oil traff
 
 ---
 
-## 5. Bitdeer expands AI infrastructure with long-term $4.7B data center lease
+## 4. Bitdeer expands AI infrastructure with long-term $4.7B data center lease
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/4/2026, 3:50:20 PM  
@@ -71,7 +59,7 @@ A 16-year agreement secures 121 megawatts of AI computing capacity in Norway, hi
 
 ---
 
-## 6. At least 15 attackers exploited Coldcard vulnerability: Galaxy
+## 5. At least 15 attackers exploited Coldcard vulnerability: Galaxy
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/4/2026, 2:38:49 PM  
@@ -83,7 +71,7 @@ Galaxy said that at least 15 different attackers have exploited the Coldcard vul
 
 ---
 
-## 7. Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin
+## 6. Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 8/4/2026, 1:30:00 PM  
@@ -95,7 +83,7 @@ Transform Ventures founder Michael Terpin says Bitcoin could have another 30% do
 
 ---
 
-## 8. Texas electric grid moratorium won’t have big impact on BTC miners: Bernstein
+## 7. Texas electric grid moratorium won’t have big impact on BTC miners: Bernstein
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 8/4/2026, 12:37:59 PM  
@@ -107,7 +95,7 @@ Monday’s announcement that Texas Governor Greg Abbott set a moratorium on appr
 
 ---
 
-## 9. Tether Gold reserves rise 9.5% as gold posts worst quarter in 13 years
+## 8. Tether Gold reserves rise 9.5% as gold posts worst quarter in 13 years
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/4/2026, 12:30:07 PM  
@@ -119,7 +107,7 @@ XAUt added to its bullion backing during gold’s worst quarter since 2013, as t
 
 ---
 
-## 10. Italy’s biggest bank triples staked Ether ETF holdings while cutting IBIT shares
+## 9. Italy’s biggest bank triples staked Ether ETF holdings while cutting IBIT shares
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/4/2026, 11:55:19 AM  
@@ -131,7 +119,7 @@ Italy’s largest bank Intesa Sanpaolo increased its staked Ether ETF position t
 
 ---
 
-## 11. Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%
+## 10. Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/4/2026, 10:53:00 AM  
@@ -143,7 +131,7 @@ The CNBC personality said he’ll sell his Bitcoin holdings due to fears about q
 
 ---
 
-## 12. Former FBI supervisor admits guilt in $1M crypto theft
+## 11. Former FBI supervisor admits guilt in $1M crypto theft
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/4/2026, 10:30:56 AM  
@@ -155,7 +143,7 @@ A former FBI supervisory agent pleaded guilty to stealing about $1 million worth
 
 ---
 
-## 13. Strategy’s STRC retakes $90 after 24% rebound from June closing low
+## 12. Strategy’s STRC retakes $90 after 24% rebound from June closing low
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/4/2026, 9:42:36 AM  
@@ -167,7 +155,7 @@ The preferred shares have recovered nearly 24% from their June closing low as St
 
 ---
 
-## 14. US yen intervention puts Bitcoin, risk assets on notice for liquidity flux
+## 13. US yen intervention puts Bitcoin, risk assets on notice for liquidity flux
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/4/2026, 9:22:00 AM  
@@ -179,7 +167,7 @@ The first US-Japan joint yen intervention in 28 years came amid record bond yiel
 
 ---
 
-## 15. Apple briefly removes Telegram from App Store, Gram rebounds
+## 14. Apple briefly removes Telegram from App Store, Gram rebounds
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/4/2026, 8:03:03 AM  
@@ -191,7 +179,7 @@ Apple restored Telegram after the messaging platform removed content that violat
 
 ---
 
-## 16. NY judge denies CFTC motion to halt enforcement action against Kalshi
+## 15. NY judge denies CFTC motion to halt enforcement action against Kalshi
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/4/2026, 7:49:22 AM  
@@ -203,7 +191,7 @@ The ruling leaves New York’s case against Kalshi in place while allowing the C
 
 ---
 
-## 17. Nigeria sets crypto tax collection rules for digital asset platforms
+## 16. Nigeria sets crypto tax collection rules for digital asset platforms
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/4/2026, 7:25:32 AM  
@@ -215,7 +203,7 @@ The framework specifies how existing tax obligations apply to crypto disposals a
 
 ---
 
-## 18. Crypto firms still seeking frontier AI access; only select few have it
+## 17. Crypto firms still seeking frontier AI access; only select few have it
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/4/2026, 6:00:23 AM  
@@ -227,7 +215,7 @@ Crypto executives say restricting powerful AI models may initially be justified,
 
 ---
 
-## 19. Coldcard Bitcoin theft tops $100M across 3 confirmed attack waves: Galaxy
+## 18. Coldcard Bitcoin theft tops $100M across 3 confirmed attack waves: Galaxy
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/4/2026, 4:47:13 AM  
@@ -239,7 +227,7 @@ Galaxy Research said 90% of the stolen Bitcoin remains unmoved as investigators 
 
 ---
 
-## 20. Bitmine adds $19.6M in ETH, repurchases 4.5M shares
+## 19. Bitmine adds $19.6M in ETH, repurchases 4.5M shares
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/4/2026, 3:52:56 AM  
@@ -251,7 +239,7 @@ Bitmine said it now holds about 4.8% of Ether’s circulating supply as it pursu
 
 ---
 
-## 21. Mastercard completes $1.8B BVNK acquisition in stablecoin push
+## 20. Mastercard completes $1.8B BVNK acquisition in stablecoin push
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/4/2026, 2:58:51 AM  
@@ -263,7 +251,7 @@ Mastercard said the tie-up would help banks, fintechs and enterprises expand sta
 
 ---
 
-## 22. Malaysia Blockchain Week’s OnlyFans scandal, lonely heart scammed for $3.3M: Asia Express
+## 21. Malaysia Blockchain Week’s OnlyFans scandal, lonely heart scammed for $3.3M: Asia Express
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 8/4/2026, 2:03:26 AM  
@@ -275,7 +263,7 @@ Fake romance crypto investment scams net $9 million in a single week in Hong Kon
 
 ---
 
-## 23. Caleb & Brown expands to UK, betting on untapped crypto demand
+## 22. Caleb & Brown expands to UK, betting on untapped crypto demand
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/4/2026, 12:51:32 AM  
@@ -287,7 +275,7 @@ The boutique brokerage will focus on high-net-worth clients rather than competin
 
 ---
 
-## 24. Boltz pauses service after wave of AI-assisted hacking attempts
+## 23. Boltz pauses service after wave of AI-assisted hacking attempts
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/4/2026, 12:03:47 AM  
