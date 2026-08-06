@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-08-05"
 date: "2026-08-05"
 source: "Cointelegraph"
-count: 26
+count: 27
 ---
 
 # Cointelegraph - 2026-08-05
 
-26 items collected.
+27 items collected.
 
 ---
 
-## 1. Marex invests in Digital Prime to expand institutional crypto lending
+## 1. Senator Warren questions US AI chip policy after Trump crypto investment: Report
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/5/2026, 9:15:37 PM  
+**Categories:** Latest News  
+
+The lawmaker reportedly sent a letter to the Commerce Secretary demanding answers about the administration’s treatment of the UAE following investments in the Trump family’s crypto company.
+
+📖 [Read original article](https://cointelegraph.com/news/senator-warren-us-policy-uae-ai-chips-trump-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Senator Lummis still pushing for CLARITY vote before August recess
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/5/2026, 7:18:24 PM  
+**Categories:** Latest News  
+
+US lawmakers have only a few days to hold a vote on a crypto market structure bill before a recess begins that could push consideration into the 2026 election season or beyond.
+
+📖 [Read original article](https://cointelegraph.com/news/senator-lummis-clarity-vote-movement-calendar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 8/5/2026, 7:11:41 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Marex invests in Digital Prime to expand institutional crypto lending
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/5/2026, 6:53:47 PM  
@@ -23,7 +59,7 @@ The undisclosed investment will support the development of Tokenet, a digital as
 
 ---
 
-## 2. Crypto-backed Michigan House incumbent loses primary despite $2M PAC support
+## 5. Crypto-backed Michigan House incumbent loses primary despite $2M PAC support
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/5/2026, 4:51:54 PM  
@@ -35,7 +71,7 @@ A Midwest Democratic primary that raised accusations of payback from the cryptoc
 
 ---
 
-## 3. Western Union brings stablecoin remittances to Visa network with Stablecard
+## 6. Western Union brings stablecoin remittances to Visa network with Stablecard
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/5/2026, 4:30:56 PM  
@@ -47,7 +83,7 @@ The remittance giant is rolling out Stablecard across 37 markets, targeting cros
 
 ---
 
-## 4. Gold hits 6-week highs on China demand as Bitcoin ignores fresh S&P 500 record
+## 7. Gold hits 6-week highs on China demand as Bitcoin ignores fresh S&P 500 record
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/5/2026, 3:02:16 PM  
@@ -59,7 +95,7 @@ Gold and US stocks stole the limelight on Wednesday as Bitcoin failed to gain si
 
 ---
 
-## 5. Crypto whales accumulate as bear market nears late stage: CryptoQuant
+## 8. Crypto whales accumulate as bear market nears late stage: CryptoQuant
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/5/2026, 2:08:27 PM  
@@ -71,7 +107,7 @@ Bitcoin, Ethereum and XRP whales increased balances during market weakness, as C
 
 ---
 
-## 6. Do the Coldcard attacks mean all hardware wallets are now insecure?
+## 9. Do the Coldcard attacks mean all hardware wallets are now insecure?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 8/5/2026, 1:30:00 PM  
@@ -83,7 +119,7 @@ The Coldcard entropy flaw caused a crisis of confidence in hardware wallets. Her
 
 ---
 
-## 7. Galaxy reports $85M net loss amid Q2 crypto market slump
+## 10. Galaxy reports $85M net loss amid Q2 crypto market slump
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/5/2026, 1:20:58 PM  
@@ -95,19 +131,7 @@ Galaxy Digital reported an $85 million net loss driven by falling digital asset 
 
 ---
 
-## 8. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/5/2026, 1:20:01 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Mastercard, Borderless test shared identity checks for stablecoin transfers
+## 11. Mastercard, Borderless test shared identity checks for stablecoin transfers
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/5/2026, 1:00:00 PM  
@@ -119,7 +143,7 @@ Mastercard and Borderless are exploring ways to bring more trust into cross-bord
 
 ---
 
-## 10. Binance sues RedotPay over alleged $473 million user losses: Report
+## 12. Binance sues RedotPay over alleged $473 million user losses: Report
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/5/2026, 12:01:31 PM  
@@ -131,7 +155,7 @@ Binance-linked companies sued RedotPay, accusing it of diverting more than 470,0
 
 ---
 
-## 11. Circle Q2 revenue falls short of Wall Street estimates
+## 13. Circle Q2 revenue falls short of Wall Street estimates
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/5/2026, 11:48:38 AM  
@@ -143,7 +167,7 @@ Stablecoin issuer Circle reported $701 million in Q2 revenue, missing Wall Stree
 
 ---
 
-## 12. Bitcoin ETFs log inflows as cold wallet hack reignites custody debate
+## 14. Bitcoin ETFs log inflows as cold wallet hack reignites custody debate
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/5/2026, 10:43:05 AM  
@@ -155,7 +179,7 @@ US spot Bitcoin ETFs drew $382 million in two-day inflows, with Galaxy’s Bitco
 
 ---
 
-## 13. S&P gives BlackRock tokenized reserve fund top stability rating
+## 15. S&P gives BlackRock tokenized reserve fund top stability rating
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/5/2026, 10:40:43 AM  
@@ -167,7 +191,7 @@ The rating recognizes the fund’s ability to maintain a stable net asset value,
 
 ---
 
-## 14. Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode
+## 16. Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/5/2026, 9:40:00 AM  
@@ -179,7 +203,7 @@ Glassnode confirmed that its aggregate BTC price cycle tool was in its coldest p
 
 ---
 
-## 15. BlackRock brings tokenized money market funds to Europe via JPMorgan
+## 17. BlackRock brings tokenized money market funds to Europe via JPMorgan
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/5/2026, 9:24:03 AM  
@@ -191,7 +215,7 @@ JPMorgan’s Kinexys platform will tokenize select BlackRock money market fund s
 
 ---
 
-## 16. Proof of Play to shut down after blockchain gaming thesis falls short
+## 18. Proof of Play to shut down after blockchain gaming thesis falls short
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/5/2026, 9:10:04 AM  
@@ -203,7 +227,7 @@ The a16z-backed studio will open-source Pirate Nation assets, while an independe
 
 ---
 
-## 17. Forgd brings its crypto market-maker leaderboard to DefiLlama
+## 19. Forgd brings its crypto market-maker leaderboard to DefiLlama
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/5/2026, 9:00:00 AM  
@@ -215,7 +239,7 @@ Forgd’s ratings draw on data from more than 500 token projects and 35 market-m
 
 ---
 
-## 18. Boerse Stuttgart Digital, Tradias close European crypto merger
+## 20. Boerse Stuttgart Digital, Tradias close European crypto merger
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/5/2026, 8:47:24 AM  
@@ -227,7 +251,7 @@ The completed tie-up combines Boerse Stuttgart Digital’s custody business with
 
 ---
 
-## 19. MiCA list expands with 12 companies in fourth post-deadline update
+## 21. MiCA list expands with 12 companies in fourth post-deadline update
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/5/2026, 8:25:34 AM  
@@ -239,7 +263,7 @@ ESMA’s latest MiCA update brings the number of authorized CASPs to 321 and add
 
 ---
 
-## 20. Taiwan plans Travel Rule for domestic crypto transfers from October
+## 22. Taiwan plans Travel Rule for domestic crypto transfers from October
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/5/2026, 8:21:54 AM  
@@ -251,7 +275,7 @@ Taiwan’s regulator plans to apply the Travel Rule to domestic VASP transfers f
 
 ---
 
-## 21. Missouri trio charged over alleged Bitcoin kidnapping plot
+## 23. Missouri trio charged over alleged Bitcoin kidnapping plot
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/5/2026, 7:34:12 AM  
@@ -263,7 +287,7 @@ The defendants allegedly traveled from Missouri to Connecticut to kidnap a Bitco
 
 ---
 
-## 22. Cloudflare introduces wallets for AI agents, plans stablecoin payments
+## 24. Cloudflare introduces wallets for AI agents, plans stablecoin payments
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/5/2026, 7:20:03 AM  
@@ -275,7 +299,7 @@ Cloudflare introduced programmable Wallets for AI agents and said payment featur
 
 ---
 
-## 23. AI credit bubble could fuel Bitcoin ‘crack-up boom’ past $1M: Hayes
+## 25. AI credit bubble could fuel Bitcoin ‘crack-up boom’ past $1M: Hayes
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/5/2026, 6:27:49 AM  
@@ -287,7 +311,7 @@ Hayes likened the debt-fueled AI infrastructure boom to the 2008 credit bubble, 
 
 ---
 
-## 24. CLARITY or not, crypto isn’t going back in the bottle: Bitwise
+## 26. CLARITY or not, crypto isn’t going back in the bottle: Bitwise
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/5/2026, 5:47:42 AM  
@@ -299,7 +323,7 @@ Matt Hougan argues that regulatory guidance from the SEC and CFTC would keep the
 
 ---
 
-## 25. Bybit’s EU payments arm secures Austrian e-money license
+## 27. Bybit’s EU payments arm secures Austrian e-money license
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/5/2026, 4:03:16 AM  
@@ -308,17 +332,5 @@ Matt Hougan argues that regulatory guidance from the SEC and CFTC would keep the
 Bybit’s Austrian payments subsidiary gained regulatory approval to develop card, merchant, open-banking and person-to-person payment services.
 
 📖 [Read original article](https://cointelegraph.com/news/bybit-austria-electronic-money-license-europe-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 26. Ethereum researchers want to rein in staking; critics say it could backfire
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 8/5/2026, 2:30:07 AM  
-**Categories:** Latest News  
-
-EIP-8363 is a newly published draft proposal that would cut net consensus-layer rewards as the Ethereum staking ratio heads toward 50%.
-
-📖 [Read original article](https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
