@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-04"
 date: "2026-08-04"
 source: "Decrypt"
-count: 15
+count: 10
 ---
 
 # Decrypt - 2026-08-04
 
-15 items collected.
+10 items collected.
 
 ---
 
@@ -128,65 +128,5 @@ The first Qwen Max model with public weights is free to download next week. Alib
 The Brazil-based crypto asset manager will liquidate its U.S. spot Bitcoin ETF later this month, ending a fund that entered the market in 2024.
 
 📖 [Read original article](https://decrypt.co/374903/hashdex-shut-down-bitcoin-etf)
-
----
-
-## 11. Apple's AI Slop Problem Left a $200K macOS Exploit Unreported
-
-**Author:** Decrypt Agent  
-**Published:** 8/4/2026, 1:36:06 PM  
-**Categories:** Artificial Intelligence  
-
-A Milan start-up says it found a full-takeover flaw in macOS using ChatGPT, then hit Apple's new submission cap before it could file it.
-
-📖 [Read original article](https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported)
-
----
-
-## 12. Morning Minute: Saylor Sells Bitcoin Again
-
-**Author:** Tyler Warner  
-**Published:** 8/4/2026, 12:33:21 PM  
-**Categories:** , Opinion  
-
-Strategy sold $104M in Bitcoin last week to help prop up STRC, a financial product they created to… help them buy more Bitcoin.
-
-📖 [Read original article](https://decrypt.co/374897/morning-minute-saylor-sells-bitcoin-again)
-
----
-
-## 13. BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan's Kinexys
-
-**Author:** Decrypt Agent  
-**Published:** 8/4/2026, 11:40:44 AM  
-**Categories:** , Business  
-
-Europe's largest cash management platform is now issuing tokens on Ethereum, in a launch restricted to professional investors.
-
-📖 [Read original article](https://decrypt.co/374894/blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys)
-
----
-
-## 14. Hardware Wallet Firms Warn of Phishing Surge as Coldcard Losses Near $130M
-
-**Author:** Decrypt Agent  
-**Published:** 8/4/2026, 10:52:57 AM  
-**Categories:** , Coins  
-
-Fake "coordinated hardware audit" emails are steering holders to a cloned Coldcard site that installs remote-access software.
-
-📖 [Read original article](https://decrypt.co/374891/hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m)
-
----
-
-## 15. Five Convicted of Imprisoning Crypto Millionaires in London 'Torture' Ordeal
-
-**Author:** Decrypt Agent  
-**Published:** 8/4/2026, 9:46:24 AM  
-**Categories:** , , Law and Order  
-
-Two of the five were also convicted of conspiracy to blackmail, in a case police won without either victim testifying.
-
-📖 [Read original article](https://decrypt.co/374889/five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal)
 
 ---
