@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-05"
 date: "2026-08-05"
 source: "Cointelegraph"
-count: 20
+count: 9
 ---
 
 # Cointelegraph - 2026-08-05
 
-20 items collected.
+9 items collected.
 
 ---
 
@@ -116,137 +116,5 @@ The Coldcard entropy flaw caused a crisis of confidence in hardware wallets. Her
 Galaxy Digital reported an $85 million net loss driven by falling digital asset prices and $8.7 billion in revenue that missed Wall Street estimates.
 
 📖 [Read original article](https://cointelegraph.com/news/galaxy-85m-loss-q2-crypto-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Mastercard, Borderless test shared identity checks for stablecoin transfers
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/5/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-Mastercard and Borderless are exploring ways to bring more trust into cross-border stablecoin transfers through the payment processing giant’s Crypto Credential framework.
-
-📖 [Read original article](https://cointelegraph.com/news/mastercard-borderless-test-identity-checks-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Binance sues RedotPay over alleged $473 million user losses: Report
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/5/2026, 12:01:31 PM  
-**Categories:** Latest News  
-
-Binance-linked companies sued RedotPay, accusing it of diverting more than 470,000 Binance Card users under a commercial deal and seeking nearly $473 million in damages.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-redotpay-lawsuit-alleged-473-million-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Circle Q2 revenue falls short of Wall Street estimates
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/5/2026, 11:48:38 AM  
-**Categories:** Latest News  
-
-Stablecoin issuer Circle reported $701 million in Q2 revenue, missing Wall Street estimates of about $713 million.
-
-📖 [Read original article](https://cointelegraph.com/news/circle-q2-revenue-misses-wall-street-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Bitcoin ETFs log inflows as cold wallet hack reignites custody debate
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/5/2026, 10:43:05 AM  
-**Categories:** Markets  
-
-US spot Bitcoin ETFs drew $382 million in two-day inflows, with Galaxy’s Bitcoin ETF returning to gains as the Coldcard incident renewed custody concerns.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etfs-inflows-cold-wallet-hack-custody-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. S&P gives BlackRock tokenized reserve fund top stability rating
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/5/2026, 10:40:43 AM  
-**Categories:** Latest News  
-
-The rating recognizes the fund’s ability to maintain a stable net asset value, while S&P separately reaffirmed USDT among the lowest-rated stablecoins under its existing assessment framework.
-
-📖 [Read original article](https://cointelegraph.com/news/sp-blackrock-tokenized-reserve-fund-stability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 8/5/2026, 9:40:00 AM  
-**Categories:** Markets  
-
-Glassnode confirmed that its aggregate BTC price cycle tool was in its coldest phase since the collapse of FTX in late 2022.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. BlackRock brings tokenized money market funds to Europe via JPMorgan
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/5/2026, 9:24:03 AM  
-**Categories:** Latest News  
-
-JPMorgan’s Kinexys platform will tokenize select BlackRock money market fund shares denominated in pounds, euros and US dollars.
-
-📖 [Read original article](https://cointelegraph.com/news/blackrock-jpmorgan-tokenized-money-market-funds-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Proof of Play to shut down after blockchain gaming thesis falls short
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/5/2026, 9:10:04 AM  
-**Categories:** Latest News  
-
-The a16z-backed studio will open-source Pirate Nation assets, while an independent foundation continues supporting the PIRATE token.
-
-📖 [Read original article](https://cointelegraph.com/news/proof-of-play-shut-blockchain-gaming-thesis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Forgd brings its crypto market-maker leaderboard to DefiLlama
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/5/2026, 9:00:00 AM  
-**Categories:** Latest News  
-
-Forgd’s ratings draw on data from more than 500 token projects and 35 market-making firms, but do not solely reflect trading performance.
-
-📖 [Read original article](https://cointelegraph.com/news/forgd-market-maker-leaderboard-defillama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Boerse Stuttgart Digital, Tradias close European crypto merger
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/5/2026, 8:47:24 AM  
-**Categories:** Latest News  
-
-The completed tie-up combines Boerse Stuttgart Digital’s custody business with Tradias’ trading operations under a joint management team.
-
-📖 [Read original article](https://cointelegraph.com/news/boerse-stuttgart-digital-tradias-european-crypto-merger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. MiCA list expands with 12 companies in fourth post-deadline update
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/5/2026, 8:25:34 AM  
-**Categories:** Latest News  
-
-ESMA’s latest MiCA update brings the number of authorized CASPs to 321 and adds three entities to its non-compliant register.
-
-📖 [Read original article](https://cointelegraph.com/news/mica-register-casps-fourth-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
