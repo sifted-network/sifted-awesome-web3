@@ -2,16 +2,40 @@
 title: "The Block - 2026-08-05"
 date: "2026-08-05"
 source: "The Block"
-count: 18
+count: 20
 ---
 
 # The Block - 2026-08-05
 
-18 items collected.
+20 items collected.
 
 ---
 
-## 1. CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a ‘late-stage bear market’
+## 1. ‘At a standstill:’ Senate races to salvage Clarity Act before August recess as ethics fight, law enforcement concerns loom
+
+**Author:** Sarah Wynn  
+**Published:** 8/5/2026, 9:41:36 PM  
+**Categories:** People, Policy, Regulation, U.S. Policymaking, Donald Trump, Senate Agriculture Committee, Senate Banking Committee  
+
+With a procedural vote on crypto legislation up in the air, lawmakers are racing to resolve outstanding issues within the next few days.
+
+📖 [Read original article](https://www.theblock.co/post/410940/standstill-senate-races-salvage-clarity-act-before-august-recess-ethics-fight-law-enforcement-concerns-loom?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Block’s bitcoin gross profit falls 31% after Cash App fee cuts as shares reverse initial gains
+
+**Author:** Kyle Baird  
+**Published:** 8/5/2026, 8:47:25 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Equities, Layer 1s, Markets, Public Equities, Token Projects, Bitcoin, Block, Earnings, Wallet Makers  
+
+Block raised its 2026 gross profit forecast to $12.51 billion after posting record adjusted operating income.
+
+📖 [Read original article](https://www.theblock.co/post/410923/blocks-bitcoin-gross-profit-falls-31-cash-app-fee-cuts-shares-reverse-initial-gains?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a ‘late-stage bear market’
 
 **Author:** Yogita Khatri  
 **Published:** 8/5/2026, 7:09:26 PM  
@@ -23,7 +47,7 @@ Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain u
 
 ---
 
-## 2. Analysts see bitcoin bottom forming through boredom as price clings to $64K amid spot ETF inflows
+## 4. Analysts see bitcoin bottom forming through boredom as price clings to $64K amid spot ETF inflows
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 8/5/2026, 5:31:31 PM  
@@ -35,7 +59,7 @@ Bitcoin held near $64,000 as spot ETFs drew $211.5 million Tuesday while analyst
 
 ---
 
-## 3. TeraWulf’s HPC leasing revenue jumps 52%, widening lead over bitcoin mining
+## 5. TeraWulf’s HPC leasing revenue jumps 52%, widening lead over bitcoin mining
 
 **Author:** Kyle Baird  
 **Published:** 8/5/2026, 5:09:28 PM  
@@ -47,7 +71,7 @@ HPC leasing accounted for roughly 71% of TeraWulf's $44.8 million in Q2 revenue,
 
 ---
 
-## 4. NFT founder accused of using millions from investor funds to finance DJ hobby, gambling
+## 6. NFT founder accused of using millions from investor funds to finance DJ hobby, gambling
 
 **Author:** Sarah Wynn  
 **Published:** 8/5/2026, 4:17:47 PM  
@@ -59,7 +83,7 @@ An NFT founder is facing fraud charges after prosecutors alleged he stole millio
 
 ---
 
-## 5. Kraken parent Payward shifts position on tokenized equities and voting rights
+## 7. Kraken parent Payward shifts position on tokenized equities and voting rights
 
 **Author:** RT Watson  
 **Published:** 8/5/2026, 3:26:17 PM  
@@ -71,7 +95,7 @@ While previously xStocks holders had no voting rights, this deal will allow elig
 
 ---
 
-## 6. Galaxy shares sink 12% after Q2 loss as AI data center business begins generating revenue
+## 8. Galaxy shares sink 12% after Q2 loss as AI data center business begins generating revenue
 
 **Author:** Kyle Baird  
 **Published:** 8/5/2026, 3:02:26 PM  
@@ -83,7 +107,7 @@ Galaxy's Helios Phase I campus is expected to generate roughly $80 million in qu
 
 ---
 
-## 7. Saylor’s Strategy joins Coinbase, Morgan Stanley and more in pledging contributions to Trump Accounts
+## 9. Saylor’s Strategy joins Coinbase, Morgan Stanley and more in pledging contributions to Trump Accounts
 
 **Author:** RT Watson  
 **Published:** 8/5/2026, 2:16:41 PM  
@@ -95,7 +119,7 @@ Trump Accounts will invest in mutual funds or ETFs that track the S&P 500 or ano
 
 ---
 
-## 8. World Chain becomes first production L2 to ship streaming Block Access Lists via Flashblocks
+## 10. World Chain becomes first production L2 to ship streaming Block Access Lists via Flashblocks
 
 **Author:** Daniel Kuhn  
 **Published:** 8/5/2026, 1:00:02 PM  
@@ -107,7 +131,7 @@ The L2 will activate the feature on mainnet on Aug. 17 ahead of Ethereum's Glams
 
 ---
 
-## 9. Mastercard expands stablecoin push with Crypto Credential pilot
+## 11. Mastercard expands stablecoin push with Crypto Credential pilot
 
 **Author:** Brian Danga  
 **Published:** 8/5/2026, 1:00:00 PM  
@@ -119,7 +143,7 @@ Mastercard and Borderless.xyz are piloting Crypto Credential to support trusted 
 
 ---
 
-## 10. Circle names BlackRock, DTCC among Arc validators as Q2 revenue hits $701 million
+## 12. Circle names BlackRock, DTCC among Arc validators as Q2 revenue hits $701 million
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 8/5/2026, 12:16:27 PM  
@@ -131,7 +155,7 @@ Circle named BlackRock, Visa, DTCC and eight others as Arc validators as Q2 reve
 
 ---
 
-## 11. Visa expands stablecoin capabilities on Visa Direct with zerohash collaboration
+## 13. Visa expands stablecoin capabilities on Visa Direct with zerohash collaboration
 
 **Author:** Daniel Kuhn  
 **Published:** 8/5/2026, 12:00:00 PM  
@@ -143,7 +167,7 @@ Visa Direct reportedly connects to more than 18 billion endpoints, including car
 
 ---
 
-## 12. ‘Panic visible onchain’: Bitcoin activity hits 2026 high amid Coldcard attack as K33 flags potential bottoming pattern
+## 14. ‘Panic visible onchain’: Bitcoin activity hits 2026 high amid Coldcard attack as K33 flags potential bottoming pattern
 
 **Author:** James Hunt  
 **Published:** 8/5/2026, 11:33:11 AM  
@@ -155,7 +179,7 @@ Bitcoin's seven-day active supply climbed to a 2026 high with about 890,000 BTC 
 
 ---
 
-## 13. Cipher slides 16% on wider Q2 losses as Bernstein sees upside from Texas power audit
+## 15. Cipher slides 16% on wider Q2 losses as Bernstein sees upside from Texas power audit
 
 **Author:** Timmy Shen  
 **Published:** 8/5/2026, 9:50:28 AM  
@@ -167,7 +191,7 @@ The bitcoin miner-turned-HPC developer posted a net loss of $267.5 million in Q2
 
 ---
 
-## 14. Former LAPD officer gets life sentence for kidnapping teen in $350,000 bitcoin robbery: report
+## 16. Former LAPD officer gets life sentence for kidnapping teen in $350,000 bitcoin robbery: report
 
 **Author:** Brian Danga  
 **Published:** 8/5/2026, 8:37:20 AM  
@@ -179,7 +203,7 @@ Former LAPD officer Eric Halem was sentenced to life plus 15 years for kidnappin
 
 ---
 
-## 15. Eliza Labs founder declares native token ‘dead,’ winds down foundation after Burwick Law settlement
+## 17. Eliza Labs founder declares native token ‘dead,’ winds down foundation after Burwick Law settlement
 
 **Author:** Danny Park  
 **Published:** 8/5/2026, 7:39:06 AM  
@@ -191,7 +215,7 @@ Walters said the team used its remaining treasury and available funds to settle 
 
 ---
 
-## 16. Crypto PAC Fairshake scores primary wins in Michigan and Washington
+## 18. Crypto PAC Fairshake scores primary wins in Michigan and Washington
 
 **Author:** Timmy Shen  
 **Published:** 8/5/2026, 6:29:14 AM  
@@ -203,7 +227,7 @@ Fairshake backed Michigan's Bill Huizenga and Washington's Suzan DelBene, Kim Sc
 
 ---
 
-## 17. Three Missouri men charged over alleged plot to steal bitcoin through home invasion
+## 19. Three Missouri men charged over alleged plot to steal bitcoin through home invasion
 
 **Author:** Danny Park  
 **Published:** 8/5/2026, 2:47:25 AM  
@@ -215,7 +239,7 @@ The three individuals have pleaded not guilty to the charge of conspiracy to int
 
 ---
 
-## 18. Crypto ‘will be fine’ even if Clarity fails to pass this week, Bitwise CIO Matt Hougan says
+## 20. Crypto ‘will be fine’ even if Clarity fails to pass this week, Bitwise CIO Matt Hougan says
 
 **Author:** Danny Park  
 **Published:** 8/5/2026, 2:31:03 AM  
