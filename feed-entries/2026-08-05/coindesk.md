@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-05"
 date: "2026-08-05"
 source: "CoinDesk"
-count: 11
+count: 8
 ---
 
 # CoinDesk - 2026-08-05
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ The more institutional crypto becomes, the more it prices on headlines. The edge
 The tokenized-assets firm appointed ex-Blockchain.com and Monashee executive as finance chief as it expands its onchain capital markets business.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/05/ondo-finance-hires-former-blockchain-com-cfo-adam-schlisman)
-
----
-
-## 9. Galaxy Digital shares slip 5% after second-quarter results
-
-**Author:** Francisco Rodrigues,James Van Straten  
-**Published:** 8/5/2026, 12:42:19 PM  
-**Categories:** Finance, Galaxy Digital, News  
-
-Helios produced data-center revenue for the first time with Phase I expected to generate about $80 million quarterly from Q3.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results)
-
----
-
-## 10. AI agent token once worth $2.4 billion ends with founder calling it dead
-
-**Author:** Shaurya Malwa  
-**Published:** 8/5/2026, 12:28:39 PM  
-**Categories:** Markets, News  
-
-Eliza Labs founder Shaw Walters said the ELIZAOS foundation is closing and that holders should sell, ending the token that replaced AI16Z after a lawsuit, a rebrand and a 97% crash.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead)
-
----
-
-## 11. SpaceX extends decline to 11% on lockup expiration and capex spending fears
-
-**Author:** Shaurya Malwa,Helene Braun  
-**Published:** 8/5/2026, 12:12:08 PM  
-**Categories:** Markets, News  
-
-The company reported no BTC sales in the second quarter, but shares fell before the open as investors focused on capital spending, free cash flow pressure and a looming insider lockup expiry.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/05/spacex-stock-drops-11-premarket-as-lockup-spending-fears-hit-first-earnings)
 
 ---
