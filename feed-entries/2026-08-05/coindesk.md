@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-05"
 date: "2026-08-05"
 source: "CoinDesk"
-count: 18
+count: 11
 ---
 
 # CoinDesk - 2026-08-05
 
-18 items collected.
+11 items collected.
 
 ---
 
@@ -140,89 +140,5 @@ Eliza Labs founder Shaw Walters said the ELIZAOS foundation is closing and that 
 The company reported no BTC sales in the second quarter, but shares fell before the open as investors focused on capital spending, free cash flow pressure and a looming insider lockup expiry.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/05/spacex-stock-drops-11-premarket-as-lockup-spending-fears-hit-first-earnings)
-
----
-
-## 12. Yellow Card raises $40 million to link banks to stablecoin processing
-
-**Author:** Olivier Acuna  
-**Published:** 8/5/2026, 12:09:05 PM  
-**Categories:** Finance, Stablecoins, banks, News  
-
-The funds bring Yellow Card’s total financing to more than $120 million since being founded 10 years ago.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/05/yellow-card-raises-usd40-million-to-link-banks-to-stablecoin-processing)
-
----
-
-## 13. The $120 million Coldcard hack lights up Bitcoin's memory pool
-
-**Author:** Omkar Godbole  
-**Published:** 8/5/2026, 11:20:58 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Aug. 5, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/08/05/the-usd120-million-coldcard-hack-lights-up-bitcoin-s-memory-pool)
-
----
-
-## 14. Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue
-
-**Author:** Krisztian Sandor  
-**Published:** 8/5/2026, 11:13:17 AM  
-**Categories:** Markets, Circle, News  
-
-Shares initially jumped 10% but later fell 3% in pre-market trading as the stablecoin issuer revealed institutional adoption for its layer 1 blockchain Arc but missed on revenue.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing)
-
----
-
-## 15. Bitcoin, broader market fail to keep pace as global equities hit record highs
-
-**Author:** Francisco Rodrigues,Omkar Godbole,Shaurya Malwa  
-**Published:** 8/5/2026, 11:01:15 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Derivatives data show subdued activity in bitcoin and ether but aggressive positioning in select altcoins.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/05/bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs)
-
----
-
-## 16. Coldcard hack sparks a self-custody security overhaul: Cory Klippsten
-
-**Author:** James Van Straten  
-**Published:** 8/5/2026, 9:55:32 AM  
-**Categories:** Markets, Bitcoin News, Custody, Coldcard, News  
-
-The attack exposed a five-year-old firmware flaw. The industry’s rapid response is accelerating the adoption of collaborative multisig security.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten)
-
----
-
-## 17. Why bitcoin’s ‘500-day rule’ faces its biggest test yet
-
-**Author:** Olivier Acuna  
-**Published:** 8/5/2026, 9:06:15 AM  
-**Categories:** Markets, Bitcoin News, Markets, News  
-
-The so-called ‘500-day rule’ says buying BTC roughly 500 days before a bitcoin halving and selling it about 500 days after would have produced profits in prior cycles.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/05/why-bitcoin-s-500-day-rule-faces-its-biggest-test-yet)
-
----
-
-## 18. Live updates: An AI credit bubble could set up bitcoin’s path to $1 million, says Arthur Hayes
-
-**Author:** Shaurya Malwa,Omkar Godbole,Helene Braun  
-**Published:** 8/5/2026, 9:00:20 AM  
-**Categories:** Markets, Live News, live_news  
-
-Maelstrom co-founder Arthur Hayes says overleveraged AI data-center spending will eventually crack, forcing government bailouts and money printing that become the next major bitcoin catalyst.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/05/live-updates-an-ai-credit-bubble-could-set-up-bitcoin-s-path-to-usd1-million)
 
 ---
