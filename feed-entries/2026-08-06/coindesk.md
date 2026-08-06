@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-08-06"
 date: "2026-08-06"
 source: "CoinDesk"
-count: 14
+count: 17
 ---
 
 # CoinDesk - 2026-08-06
 
-14 items collected.
+17 items collected.
 
 ---
 
-## 1. JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts
+## 1. Power struggle erupts at Ondo Finance after founder’s death
+
+**Author:** Will Canny,AI Boost  
+**Published:** 8/6/2026, 9:59:33 PM  
+**Categories:** Policy, ondo finance, litigation, News  
+
+Three Delaware court filings reveal a battle for control of Ondo Finance after founder Nathan Allman's death.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/06/power-struggle-erupts-at-ondo-finance-after-founder-s-death)
+
+---
+
+## 2. Tether expands tokenization business into Saudi Arabia, starting with real estate
+
+**Author:** Krisztian Sandor  
+**Published:** 8/6/2026, 4:10:04 PM  
+**Categories:** Finance, Tokenization, Real World Assets, Tether, News  
+
+The stablecoin issuer is extending its tokenization business into Saudi Arabia, starting with institutional real estate assets with plans to expand to other asset classes.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate)
+
+---
+
+## 3. Crypto for Advisors: Europe's crypto rules, U.S. Preview
+
+**Author:** Maria Golenkov  
+**Published:** 8/6/2026, 3:07:00 PM  
+**Categories:** CoinDesk Indices, Crypto for Advisors, News  
+
+You’re reading Crypto for Advisors, CoinDesk’s weekly newsletter that unpacks digital assets for financial advisors. Subscribe here to get it every Thursday.
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/08/06/crypto-for-advisors-europe-s-crypto-rules-u-s-preview)
+
+---
+
+## 4. JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts
 
 **Author:** Will Canny,AI Boost  
 **Published:** 8/6/2026, 12:46:42 PM  
@@ -23,7 +59,7 @@ After leading crypto ETF inflows in May and June, demand for Hyperliquid funds s
 
 ---
 
-## 2. Bitcoin’s low volatility doesn’t necessarily mean low risk
+## 5. Bitcoin’s low volatility doesn’t necessarily mean low risk
 
 **Author:** Omkar Godbole  
 **Published:** 8/6/2026, 11:37:03 AM  
@@ -35,7 +71,7 @@ Your day-ahead look for Aug. 6, 2026
 
 ---
 
-## 3. Free Markets and Innovation, Sort Of
+## 6. Free Markets and Innovation, Sort Of
 
 **Author:** Summer Mersinger  
 **Published:** 8/6/2026, 11:30:00 AM  
@@ -47,7 +83,7 @@ The Journal’s editorial board rejects crypto competition and instead misinterp
 
 ---
 
-## 4. Why Sandisk and Western Digital crashed 10% and what it means for bitcoin
+## 7. Why Sandisk and Western Digital crashed 10% and what it means for bitcoin
 
 **Author:** James Van Straten  
 **Published:** 8/6/2026, 11:14:47 AM  
@@ -59,7 +95,7 @@ Strong earnings from SanDisk and Western Digital were not enough to satisfy inve
 
 ---
 
-## 5. JPYC raises $38 million Series B led by major Japanese logistics firm AZ-COM Maruwa
+## 8. JPYC raises $38 million Series B led by major Japanese logistics firm AZ-COM Maruwa
 
 **Author:** Jamie Crawley  
 **Published:** 8/6/2026, 10:53:09 AM  
@@ -71,7 +107,7 @@ The investment brings the company’s total raised to $106 million across seven 
 
 ---
 
-## 6. Bitcoin, ether benefit as traders seek safety of largest tokens
+## 9. Bitcoin, ether benefit as traders seek safety of largest tokens
 
 **Author:** Francisco Rodrigues,Omkar Godbole,Shaurya Malwa  
 **Published:** 8/6/2026, 10:43:07 AM  
@@ -83,7 +119,7 @@ The two largest cryptocurrencies are the only CoinDesk 20 members in positive te
 
 ---
 
-## 7. NFT startup founder charged with misusing funds from $10 million fundraising
+## 10. NFT startup founder charged with misusing funds from $10 million fundraising
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 8/6/2026, 9:19:03 AM  
@@ -95,9 +131,9 @@ Federal prosecutors say Taj Tarsha misled backers and used investor funds for pe
 
 ---
 
-## 8. Live updates: BTC trades near $65,000; SpaceX rises ahead of $100 billion unlock
+## 11. Live updates: Bitcoin flatlines near $64,000 ahead of Friday's jobs report
 
-**Author:** Shaurya Malwa,Omkar Godbole  
+**Author:** Shaurya Malwa,Omkar Godbole,Stephen Alpher,Helene Braun  
 **Published:** 8/6/2026, 7:26:23 AM  
 **Categories:** Tech, Live News, live_news  
 
@@ -107,7 +143,7 @@ Trump’s comments on jobs, inflation and a possible Strait of Hormuz deal have 
 
 ---
 
-## 9. Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation
+## 12. Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation
 
 **Author:** Shaurya Malwa  
 **Published:** 8/6/2026, 7:14:11 AM  
@@ -119,7 +155,7 @@ A volunteer group running AI models against bitcoin codebases says it is averagi
 
 ---
 
-## 10. S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why
+## 13. S&P 500 added all of crypto's $2 trillion market cap in a month while bitcoin barely moved. Here's why
 
 **Author:** Omkar Godbole  
 **Published:** 8/6/2026, 6:10:43 AM  
@@ -131,7 +167,7 @@ The S&P 500 just added roughly the entire crypto market's value this month. Bitc
 
 ---
 
-## 11. Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock
+## 14. Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock
 
 **Author:** Shaurya Malwa  
 **Published:** 8/6/2026, 4:59:11 AM  
@@ -143,7 +179,7 @@ Korea's Kospi fell 4.4% as the AI trade wobbled, and $101 billion of SpaceX stoc
 
 ---
 
-## 12. XRP whales keep buying the dip, but ether shows deeper capitulation
+## 15. XRP whales keep buying the dip, but ether shows deeper capitulation
 
 **Author:** Shaurya Malwa  
 **Published:** 8/6/2026, 4:46:17 AM  
@@ -155,7 +191,7 @@ CryptoQuant said large XRP spot orders point to "quiet accumulation" rather than
 
 ---
 
-## 13. CASHCAT jumps 120% in a week as Robinhood Chain hits $774 million of value locked
+## 16. CASHCAT jumps 120% in a week as Robinhood Chain hits $774 million of value locked
 
 **Author:** Shaurya Malwa  
 **Published:** 8/6/2026, 4:31:41 AM  
@@ -167,7 +203,7 @@ The memecoin that defined the chain's debut has recovered to an $86 million cap.
 
 ---
 
-## 14. Here are the possible outcomes for Clarity right now
+## 17. Here are the possible outcomes for Clarity right now
 
 **Author:** Nikhilesh De  
 **Published:** 8/6/2026, 3:49:04 AM  
