@@ -2,16 +2,112 @@
 title: "Cointelegraph - 2026-08-06"
 date: "2026-08-06"
 source: "Cointelegraph"
-count: 21
+count: 28
 ---
 
 # Cointelegraph - 2026-08-06
 
-21 items collected.
+28 items collected.
 
 ---
 
-## 1. 10 weirdest things ever tokenized... including farts
+## 1. Following primary loss, crypto PACs invest $1.5M in 3 US state races
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/6/2026, 9:11:19 PM  
+**Categories:** Latest News  
+
+The Defend American Jobs and Protect Progress PACs reported spending more than $1.5 million on media for four House and Senate races ahead of Aug. 18 primary elections.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-pac-florida-alaska-wyoming-primary-races?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 8/6/2026, 7:31:44 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Bitcoin ETF inflows surge after Coldcard hack, but link is unclear: Bloomberg analyst
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 8/6/2026, 6:17:57 PM  
+**Categories:** Latest News  
+
+A week-long streak of inflows into US spot Bitcoin ETFs has coincided with the Coldcard wallet exploit, fueling debate over whether some investors are shifting away from self-custody.
+
+📖 [Read original article](https://cointelegraph.com/news/bitcoin-etf-inflows-coldcard-hack-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. US appellate court mandate affirms Sam Bankman-Fried conviction
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/6/2026, 5:17:34 PM  
+**Categories:** Latest News  
+
+Three circuit judges disputed the former FTX CEO’s claims that the defunct crypto exchange’s investors could have been made whole and wouldn’t have experienced any losses.
+
+📖 [Read original article](https://cointelegraph.com/news/us-appellate-court-mandate-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. US Senate will vote on CLARITY crypto bill ‘without any question’ this week: Tim Scott
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/6/2026, 4:53:45 PM  
+**Categories:** Latest News  
+
+The South Carolina lawmaker who heads the Senate Banking Committee said that the majority leader still had time to put the crypto bill on the agenda despite the narrow voting window.
+
+📖 [Read original article](https://cointelegraph.com/news/us-senate-vote-clarity-act-tim-scott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Bitcoin miners’ AI pivot loses Wall Street’s wow factor
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 8/6/2026, 4:42:33 PM  
+**Categories:** Latest News  
+
+New analysis finds AI infrastructure contracts are becoming larger and more profitable, but investors now demand stronger execution before rewarding bitcoin mining stocks.
+
+📖 [Read original article](https://cointelegraph.com/news/bitcoin-miners-ai-infrastructure-deals-wall-street-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Bitcoin price coils under $65K as US PMI data brings new ‘stagflation’ warning
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 8/6/2026, 4:24:18 PM  
+**Categories:** Markets  
+
+Bitcoin price action stayed compressed in an ongoing divergence from stocks and gold while US PMI data sparked fresh talk of “stagflation.”
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-compresses-as-us-pmi-data-brings-new-stagflation-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Step App winds down after four years as FITFI token sinks
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 8/6/2026, 1:52:36 PM  
+**Categories:** Latest News  
+
+Move-to-earn project Step App will wind down services by Aug. 21 after four years, while its FITFI token trades 99.9% below its all-time high.
+
+📖 [Read original article](https://cointelegraph.com/news/step-app-winds-down-four-years-move-to-earn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. 10 weirdest things ever tokenized... including farts
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 8/6/2026, 1:30:00 PM  
@@ -23,19 +119,7 @@ Tokenized cows may have gone viral, but they’re just the latest in a long line
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/6/2026, 1:02:49 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Blockchain.com wins Cayman custody license after MiCA and FCA approvals
+## 10. Blockchain.com wins Cayman custody license after MiCA and FCA approvals
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/6/2026, 1:00:00 PM  
@@ -47,7 +131,7 @@ Blockchain.com secured a VASP custody license from the Cayman Islands Monetary A
 
 ---
 
-## 4. Hyperliquid RWA contracts grow to 32% of trading activity in Q2
+## 11. Hyperliquid RWA contracts grow to 32% of trading activity in Q2
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/6/2026, 12:55:44 PM  
@@ -59,7 +143,7 @@ Tokenized real-world assets accounted for more than a third of Hyperliquid’s q
 
 ---
 
-## 5. Zeus Wallet taken offline after cyberattack, says no customer funds at risk
+## 12. Zeus Wallet taken offline after cyberattack, says no customer funds at risk
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/6/2026, 12:11:49 PM  
@@ -71,7 +155,7 @@ The self-custodial Bitcoin Lightning Network wallet disabled infrastructure afte
 
 ---
 
-## 6. Crypto wrench attacks steal more than $30M so far in 2026: Chainalysis
+## 13. Crypto wrench attacks steal more than $30M so far in 2026: Chainalysis
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/6/2026, 12:00:00 PM  
@@ -83,7 +167,7 @@ While only 12 of 46 documented attempts resulted in payment, data leaks and atta
 
 ---
 
-## 7. Bitcoin treasury trade ‘breaking’ and fund holdings drop 10%: Analysis
+## 14. Bitcoin treasury trade ‘breaking’ and fund holdings drop 10%: Analysis
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/6/2026, 11:48:37 AM  
@@ -95,7 +179,7 @@ Doubts emerge over the Bitcoin corporate treasury model as institutional BTC inv
 
 ---
 
-## 8. Coldcard hackers transfer 64 BTC and 200 ETH to cryptocurrency mixers
+## 15. Coldcard hackers transfer 64 BTC and 200 ETH to cryptocurrency mixers
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/6/2026, 11:26:00 AM  
@@ -107,7 +191,7 @@ Hackers behind the Coldcard exploit transferred millions in digital assets to cr
 
 ---
 
-## 9. Situational Awareness returns with $400M investment after nearly collapsing: Report
+## 16. Situational Awareness returns with $400M investment after nearly collapsing: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/6/2026, 10:41:49 AM  
@@ -119,7 +203,7 @@ Situational Awareness reportedly made a $400 million investment in an undisclose
 
 ---
 
-## 10. Russian president signs crypto law, core rules take effect in 2026
+## 17. Russian president signs crypto law, core rules take effect in 2026
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/6/2026, 9:38:54 AM  
@@ -131,7 +215,7 @@ Russian President Vladimir Putin signed a crypto law establishing market rules f
 
 ---
 
-## 11. RWAs buck DeFi slowdown as tokenized assets gain traction: CoinShares
+## 18. RWAs buck DeFi slowdown as tokenized assets gain traction: CoinShares
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/6/2026, 9:28:20 AM  
@@ -143,7 +227,7 @@ Tokenized real-world assets moved beyond issuance as RWA deposits more than trip
 
 ---
 
-## 12. Yen stablecoin issuer JPYC’s Series B reaches $38M
+## 19. Yen stablecoin issuer JPYC’s Series B reaches $38M
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/6/2026, 8:44:43 AM  
@@ -155,7 +239,7 @@ JPYC said it plans to use the new capital to expand its financial and Web3 ecosy
 
 ---
 
-## 13. Bitcoin-backed loan refinances PowerCompute’s $18M debt at 2%
+## 20. Bitcoin-backed loan refinances PowerCompute’s $18M debt at 2%
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/6/2026, 7:56:34 AM  
@@ -167,7 +251,7 @@ Nasdaq-listed PowerCompute refinanced $18 million of debt through a Bitcoin-back
 
 ---
 
-## 14. Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M
+## 21. Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/6/2026, 6:57:31 AM  
@@ -179,7 +263,7 @@ US-listed Bitcoin ETFs attracted $244.4 million on Wednesday, marking three cons
 
 ---
 
-## 15. EU watchdogs warn of impersonation scams amid MiCA licensing shakeout
+## 22. EU watchdogs warn of impersonation scams amid MiCA licensing shakeout
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/6/2026, 6:07:14 AM  
@@ -191,7 +275,7 @@ Criminals are reportedly using fake websites and falsified documents to target c
 
 ---
 
-## 16. Fed’s Cook says she’d support rate hike if disinflation stalls
+## 23. Fed’s Cook says she’d support rate hike if disinflation stalls
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/6/2026, 5:44:04 AM  
@@ -203,7 +287,7 @@ Federal Reserve Governor Lisa Cook said she is “prepared to act” if inflatio
 
 ---
 
-## 17. ElizaOS token sinks 19% to record low after founder declares it ‘dead’
+## 24. ElizaOS token sinks 19% to record low after founder declares it ‘dead’
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/6/2026, 5:08:04 AM  
@@ -215,7 +299,7 @@ Eliza Labs founder Shaw Walters said the project transferred its remaining treas
 
 ---
 
-## 18. Meta latest AI firm to see model go rogue during testing
+## 25. Meta latest AI firm to see model go rogue during testing
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/6/2026, 4:28:47 AM  
@@ -227,7 +311,7 @@ The incident reportedly stemmed from a misconfigured testing environment, adding
 
 ---
 
-## 19. Block raises 2026 outlook on strong quarter, says AI touches nearly all code
+## 26. Block raises 2026 outlook on strong quarter, says AI touches nearly all code
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/6/2026, 1:33:57 AM  
@@ -239,7 +323,7 @@ Cash App and Square drove better-than-expected results, while the company said i
 
 ---
 
-## 20. Mysten Labs tech chief joins Anthropic to work on AI security
+## 27. Mysten Labs tech chief joins Anthropic to work on AI security
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/6/2026, 1:31:35 AM  
@@ -251,7 +335,7 @@ Mysten Labs’ co-founder Sam Blackshear said he is joining Anthropic as AI shif
 
 ---
 
-## 21. Bitcoin Red Team reports 5K findings in sweeping security audit
+## 28. Bitcoin Red Team reports 5K findings in sweeping security audit
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/6/2026, 1:09:06 AM  
