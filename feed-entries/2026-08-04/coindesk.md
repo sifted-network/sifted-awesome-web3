@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-04"
 date: "2026-08-04"
 source: "CoinDesk"
-count: 4
+count: 3
 ---
 
 # CoinDesk - 2026-08-04
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Executives at Coinbase, Visa and Mastercard said they plan to support multiple s
 Samsung seeks to turn 800 million Galaxy phones into wallets for digital assets and blockchain payments, backed by a deeper play in crypto infrastructure.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say)
-
----
-
-## 4. Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him
-
-**Author:** Jesse Hamilton  
-**Published:** 8/4/2026, 4:21:59 PM  
-**Categories:** Policy, Donald Trump, Memecoin, Clarity Act, News  
-
-Senators Elizabeth Warren and Richard Blumenthal requested the U.S. Securities and Exchange Commission probe Trump's memecoin.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him)
 
 ---
