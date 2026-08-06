@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-03"
 date: "2026-08-03"
 source: "Decrypt"
-count: 10
+count: 9
 ---
 
 # Decrypt - 2026-08-03
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ The Hut 8 subsidiary increased its Bitcoin holdings by 14% in the second quarter
 The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.
 
 📖 [Read original article](https://decrypt.co/374836/tom-lee-bitmine-buys-more-ethereum-adds-stock-buyback)
-
----
-
-## 10. Morning Minute: The Coldcard Bitcoin Hack Nears $114 Million in Potential Losses
-
-**Author:** Tyler Warner  
-**Published:** 8/3/2026, 1:11:19 PM  
-**Categories:** Opinion  
-
-Self-custody is under attack, and it's becoming increasingly clear that AI is one of crypto's leading threats.
-
-📖 [Read original article](https://decrypt.co/374830/morning-minute-the-coldcard-bitcoin-hack-nears-114-million-in-potential-losses)
 
 ---
