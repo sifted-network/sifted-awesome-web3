@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-05"
 date: "2026-08-05"
 source: "The Block"
-count: 16
+count: 12
 ---
 
 # The Block - 2026-08-05
 
-16 items collected.
+12 items collected.
 
 ---
 
@@ -152,53 +152,5 @@ Mastercard and Borderless.xyz are piloting Crypto Credential to support trusted 
 Circle named BlackRock, Visa, DTCC and eight others as Arc validators as Q2 revenue hit $701M and USDC circulation reached $73.3B.
 
 📖 [Read original article](https://www.theblock.co/post/410840/circle-names-blackrock-dtcc-among-arc-validators-as-q2-revenue-hits-701-million?utm_source=rss&utm_medium=rss)
-
----
-
-## 13. Visa expands stablecoin capabilities on Visa Direct with zerohash collaboration
-
-**Author:** Daniel Kuhn  
-**Published:** 8/5/2026, 12:00:00 PM  
-**Categories:** Companies, Deals, Finance firms, Fintech, Payments  
-
-Visa Direct reportedly connects to more than 18 billion endpoints, including cards, bank accounts and digital wallets.
-
-📖 [Read original article](https://www.theblock.co/post/410657/stablecoin-capabilities-visa-direct-zerohash?utm_source=rss&utm_medium=rss)
-
----
-
-## 14. ‘Panic visible onchain’: Bitcoin activity hits 2026 high amid Coldcard attack as K33 flags potential bottoming pattern
-
-**Author:** James Hunt  
-**Published:** 8/5/2026, 11:33:11 AM  
-**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, Security, Token Projects, Analyst Reports, Bitcoin, Exploits  
-
-Bitcoin's seven-day active supply climbed to a 2026 high with about 890,000 BTC moved over the past week amid the Coldcard attack, per K33.
-
-📖 [Read original article](https://www.theblock.co/post/410835/panic-visible-onchain-bitcoin-activity-hits-2026-high-amid-coldcard-attack-as-k33-flags-potential-bottoming-pattern?utm_source=rss&utm_medium=rss)
-
----
-
-## 15. Cipher slides 16% on wider Q2 losses as Bernstein sees upside from Texas power audit
-
-**Author:** Timmy Shen  
-**Published:** 8/5/2026, 9:50:28 AM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin  
-
-The bitcoin miner-turned-HPC developer posted a net loss of $267.5 million in Q2, more than five times the loss it registered a year ago.
-
-📖 [Read original article](https://www.theblock.co/post/410820/cipher-wider-q2-losses?utm_source=rss&utm_medium=rss)
-
----
-
-## 16. Former LAPD officer gets life sentence for kidnapping teen in $350,000 bitcoin robbery: report
-
-**Author:** Brian Danga  
-**Published:** 8/5/2026, 8:37:20 AM  
-**Categories:** Legal, Policy, Regulation, Crime  
-
-Former LAPD officer Eric Halem was sentenced to life plus 15 years for kidnapping teen and stealing $350,000 in bitcoin.
-
-📖 [Read original article](https://www.theblock.co/post/410805/former-lapd-officer-gets-life-sentence-bitcoin-robbery?utm_source=rss&utm_medium=rss)
 
 ---
