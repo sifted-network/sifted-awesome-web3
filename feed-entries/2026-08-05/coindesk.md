@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-05"
 date: "2026-08-05"
 source: "CoinDesk"
-count: 22
+count: 18
 ---
 
 # CoinDesk - 2026-08-05
 
-22 items collected.
+18 items collected.
 
 ---
 
@@ -224,53 +224,5 @@ The so-called ‘500-day rule’ says buying BTC roughly 500 days before a bitco
 Maelstrom co-founder Arthur Hayes says overleveraged AI data-center spending will eventually crack, forcing government bailouts and money printing that become the next major bitcoin catalyst.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/05/live-updates-an-ai-credit-bubble-could-set-up-bitcoin-s-path-to-usd1-million)
-
----
-
-## 19. The worst chart for bitcoin bulls right now
-
-**Author:** Omkar Godbole  
-**Published:** 8/5/2026, 7:54:22 AM  
-**Categories:** Markets, Bitcoin News, Technical Analysis, News  
-
-For 14 years, one ratio moved only in bitcoin's favor. Now it has decisively turned the other way and bulls may not like what it means.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/05/the-worst-chart-for-bitcoin-bulls-right-now)
-
----
-
-## 20. New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion
-
-**Author:** Shaurya Malwa  
-**Published:** 8/5/2026, 5:49:57 AM  
-**Categories:** Tech, Ethereum News, News  
-
-The EIP-8361 draft proposal calls for burning a rising share of validator rewards as the staking ratio climbs.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion)
-
----
-
-## 21. \"You stole, please return some.\" Coldcard hacker's wallet becomes a graffiti wall of pleas and hustles
-
-**Author:** Omkar Godbole  
-**Published:** 8/5/2026, 5:12:46 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-A wallet holding $36 million in stolen bitcoin has become an unlikely public message board, as hack victims and opportunists pay to leave permanent notes for the thief.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/05/you-stole-please-return-some-coldcard-hacker-s-wallet-becomes-a-graffiti-wall-of-pleas-and-hustles)
-
----
-
-## 22. Bitcoin flat at $64,000 as stocks print records and Hormuz deal nears
-
-**Author:** Shaurya Malwa  
-**Published:** 8/5/2026, 4:32:16 AM  
-**Categories:** Markets, News  
-
-BTC held near $64,000 as MSCI's world index set another peak and Brent fell toward a Hormuz deal. Ether is the only major down on the week.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/05/bitcoin-flat-at-usd64-000-as-stocks-print-records-and-hormuz-deal-nears)
 
 ---
