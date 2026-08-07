@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-05"
 date: "2026-08-05"
 source: "CoinDesk"
-count: 8
+count: 3
 ---
 
 # CoinDesk - 2026-08-05
 
-8 items collected.
+3 items collected.
 
 ---
 
@@ -44,65 +44,5 @@ The leading industry PAC, Fairshake, put $2 million into a Detroit Democratic pr
 Cantor sees positive read-through for crypto custody providers, while FRNT says the breach could drive some investors toward bitcoin ETFs.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say)
-
----
-
-## 4. Crypto Long & Short: Putting the bitcoin sizing question to the test
-
-**Author:** Gregory Mall  
-**Published:** 8/5/2026, 3:03:19 PM  
-**Categories:** CoinDesk Indices, CoinDesk Indices, Crypto Long & Short, News  
-
-In a follow-up to his essay on sizing crypto risk, Lionsoul Global's Gregory Mall backtests bitcoin in a 60/40 across bull, bear and sideways regimes, showing how a straight bitcoin position, a large-cap basket and a trend-managed sleeve part ways and why the way you hold bitcoin can matter as much ...
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/08/05/crypto-long-and-short-putting-the-bitcoin-sizing-question-to-the-test)
-
----
-
-## 5. Strategy’s STRC rebounds 30% as company builds cash reserve, bitcoin price stabilizes
-
-**Author:** James Van Straten  
-**Published:** 8/5/2026, 2:44:30 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin sales, what is now a $4 billion cash reserve, and a $975 million repurchase program, have supported STRC’s recovery.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/05/strategy-s-strc-rebounds-30-as-company-builds-cash-reserve-bitcoin-price-stabilizes)
-
----
-
-## 6. Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE
-
-**Author:** Ian Allison  
-**Published:** 8/5/2026, 1:25:04 PM  
-**Categories:** Finance, News  
-
-Laser’s investment in ZIGChain is understood to be in the single-digit millions.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae)
-
----
-
-## 7. Crypto may have institutionalized, but it still trades like a rumor mill
-
-**Author:** Fabian Dori  
-**Published:** 8/5/2026, 1:00:00 PM  
-**Categories:** Opinion, Opinion  
-
-The more institutional crypto becomes, the more it prices on headlines. The edge now is reading the positioning data underneath, not reacting to the narrative on top.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill)
-
----
-
-## 8. Ondo Finance hires former Blockchain.com CFO Adam Schlisman
-
-**Author:** Will Canny,AI Boost  
-**Published:** 8/5/2026, 1:00:00 PM  
-**Categories:** Finance, ondo finance, Exclusive, Tokenization, News  
-
-The tokenized-assets firm appointed ex-Blockchain.com and Monashee executive as finance chief as it expands its onchain capital markets business.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/05/ondo-finance-hires-former-blockchain-com-cfo-adam-schlisman)
 
 ---
