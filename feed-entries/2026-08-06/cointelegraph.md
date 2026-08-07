@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-06"
 date: "2026-08-06"
 source: "Cointelegraph"
-count: 24
+count: 17
 ---
 
 # Cointelegraph - 2026-08-06
 
-24 items collected.
+17 items collected.
 
 ---
 
@@ -212,89 +212,5 @@ Situational Awareness reportedly made a $400 million investment in an undisclose
 Russian President Vladimir Putin signed a crypto law establishing market rules for exchanges, custodians and investors, with core provisions taking effect in September 2026.
 
 📖 [Read original article](https://cointelegraph.com/news/putin-signs-crypto-law-core-rules-take-effect-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. RWAs buck DeFi slowdown as tokenized assets gain traction: CoinShares
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/6/2026, 9:28:20 AM  
-**Categories:** Latest News  
-
-Tokenized real-world assets moved beyond issuance as RWA deposits more than tripled to $7.4 billion, while lending and trading activity expanded despite a broader industry slowdown.
-
-📖 [Read original article](https://cointelegraph.com/news/rwa-buck-defi-slowdown-tokenization-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Yen stablecoin issuer JPYC’s Series B reaches $38M
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/6/2026, 8:44:43 AM  
-**Categories:** Latest News  
-
-JPYC said it plans to use the new capital to expand its financial and Web3 ecosystem and accelerate adoption of its yen-pegged token.
-
-📖 [Read original article](https://cointelegraph.com/news/jpyc-series-b-funding-az-com?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Bitcoin-backed loan refinances PowerCompute’s $18M debt at 2%
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/6/2026, 7:56:34 AM  
-**Categories:** Latest News  
-
-Nasdaq-listed PowerCompute refinanced $18 million of debt through a Bitcoin-backed facility carrying an initial interest rate of about 2%.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-collateral-cuts-powercompute-debt-rate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/6/2026, 6:57:31 AM  
-**Categories:** Markets  
-
-US-listed Bitcoin ETFs attracted $244.4 million on Wednesday, marking three consecutive inflow days for a combined $626 million.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etf-244-million-three-day-inflow-streak-626-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. EU watchdogs warn of impersonation scams amid MiCA licensing shakeout
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/6/2026, 6:07:14 AM  
-**Categories:** Latest News  
-
-Criminals are reportedly using fake websites and falsified documents to target customers searching for licensed crypto providers.
-
-📖 [Read original article](https://cointelegraph.com/news/eu-watchdogs-mica-crypto-impersonation-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. Fed’s Cook says she’d support rate hike if disinflation stalls
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 8/6/2026, 5:44:04 AM  
-**Categories:** Markets  
-
-Federal Reserve Governor Lisa Cook said she is “prepared to act” if inflation remains too high above the Fed’s target rate.
-
-📖 [Read original article](https://cointelegraph.com/markets/feds-cook-warns-persistent-inflation-could-prompt-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 24. ElizaOS token sinks 19% to record low after founder declares it ‘dead’
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/6/2026, 5:08:04 AM  
-**Categories:** Markets  
-
-Eliza Labs founder Shaw Walters said the project transferred its remaining treasury to settle a tokenholder lawsuit and will continue building Eliza without an associated cryptocurrency.
-
-📖 [Read original article](https://cointelegraph.com/markets/elizaos-token-record-low-founder-declares-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
