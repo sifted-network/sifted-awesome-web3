@@ -2,16 +2,40 @@
 title: "The Block - 2026-08-07"
 date: "2026-08-07"
 source: "The Block"
-count: 3
+count: 5
 ---
 
 # The Block - 2026-08-07
 
-3 items collected.
+5 items collected.
 
 ---
 
-## 1. Cathie Wood’s Ark Invest buys $21 million in Block as stock drops 6%
+## 1. Bernstein favors CleanSpark on AI execution as MARA awaits first commercial contract
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 8/7/2026, 11:51:21 AM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Equities, Markets, Web3, AI, Analyst Reports, Mining Companies  
+
+Bernstein rates CleanSpark Outperform at $24 on AI lease progress, while keeping MARA at $17 as it awaits its first commercial AI contract.
+
+📖 [Read original article](https://www.theblock.co/post/411136/bernstein-favors-cleanspark-on-ai-execution-as-mara-awaits-first-commercial-contract?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. ‘Applesauce’: Michigan judge denies Coinbase bid to block state enforcement of sports event contracts
+
+**Author:** Timmy Shen  
+**Published:** 8/7/2026, 9:06:56 AM  
+**Categories:** Companies, Exchanges, Markets, Policy, Public Equities, Regulation, Coinbase  
+
+"Coinbase's averments are, in a word, applesauce," U.S. District Judge Shalina Kumar wrote in Thursday's ruling.
+
+📖 [Read original article](https://www.theblock.co/post/411128/michigan-judge-denies-coinbase-bid-prediction-markets?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Cathie Wood’s Ark Invest buys $21 million in Block as stock drops 6%
 
 **Author:** Danny Park  
 **Published:** 8/7/2026, 4:03:44 AM  
@@ -23,7 +47,7 @@ Block's stock fell 6.15% on Thursday as the company posted rising operating expe
 
 ---
 
-## 2. Senate delays Clarity Act vote until after August recess, Thune confirms
+## 4. Senate delays Clarity Act vote until after August recess, Thune confirms
 
 **Author:** Timmy Shen and Sarah Wynn  
 **Published:** 8/7/2026, 2:55:45 AM  
@@ -35,7 +59,7 @@ Senate Majority Leader John Thune confirmed with The Block, saying: 'We're getti
 
 ---
 
-## 3. Sui to add post-quantum signature schemes for quantum-safe accounts
+## 5. Sui to add post-quantum signature schemes for quantum-safe accounts
 
 **Author:** Danny Park  
 **Published:** 8/7/2026, 2:09:29 AM  
