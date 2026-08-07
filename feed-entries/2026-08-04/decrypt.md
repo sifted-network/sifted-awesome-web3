@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-04"
 date: "2026-08-04"
 source: "Decrypt"
-count: 10
+count: 6
 ---
 
 # Decrypt - 2026-08-04
 
-10 items collected.
+6 items collected.
 
 ---
 
@@ -80,53 +80,5 @@ The CNBC host announced the decision on air after interviewing IBM CEO Arvind Kr
 Dozens of arrests tied to opposition against AI data centers underscore how local disputes over massive computing projects are growing into a national political movement.
 
 📖 [Read original article](https://decrypt.co/374921/ai-data-center-protest-arrests)
-
----
-
-## 7. Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/4/2026, 7:11:36 PM  
-**Categories:** , Technology  
-
-A flaw in Coldcard wallets cost Bitcoin holders more than $100 million—and reopened an old fight about whether you can trust dice.
-
-📖 [Read original article](https://decrypt.co/374916/coldcard-bitcoin-exploit-explained-entropy-keys-bits)
-
----
-
-## 8. Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold
-
-**Author:** Jason Nelson  
-**Published:** 8/4/2026, 6:46:11 PM  
-**Categories:** , Coins  
-
-Validators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.
-
-📖 [Read original article](https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold)
-
----
-
-## 9. Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/4/2026, 5:16:49 PM  
-**Categories:** Artificial Intelligence  
-
-The first Qwen Max model with public weights is free to download next week. Alibaba's own scorecard says the Americans still win on code.
-
-📖 [Read original article](https://decrypt.co/374906/alibaba-best-ai-model-qwen-free-claude-chatgpt)
-
----
-
-## 10. Hashdex to Shut Down Bitcoin ETF After Struggling to Gain Assets
-
-**Author:** Jason Nelson  
-**Published:** 8/4/2026, 4:43:46 PM  
-**Categories:** , Business  
-
-The Brazil-based crypto asset manager will liquidate its U.S. spot Bitcoin ETF later this month, ending a fund that entered the market in 2024.
-
-📖 [Read original article](https://decrypt.co/374903/hashdex-shut-down-bitcoin-etf)
 
 ---
