@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-06"
 date: "2026-08-06"
 source: "CoinDesk"
-count: 11
+count: 5
 ---
 
 # CoinDesk - 2026-08-06
 
-11 items collected.
+5 items collected.
 
 ---
 
@@ -68,77 +68,5 @@ After leading crypto ETF inflows in May and June, demand for Hyperliquid funds s
 Your day-ahead look for Aug. 6, 2026
 
 📖 [Read original article](https://www.coindesk.com/daybook-us/2026/08/06/bitcoin-s-low-volatility-doesn-t-necessarily-mean-low-risk)
-
----
-
-## 6. Free Markets and Innovation, Sort Of
-
-**Author:** Summer Mersinger  
-**Published:** 8/6/2026, 11:30:00 AM  
-**Categories:** Opinion, Opinion  
-
-The Journal’s editorial board rejects crypto competition and instead misinterprets Clarity, a pro-innovation, pro-competition, and pro-consumer bill, argues the Blockchain Association's Summer Mersinger.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of)
-
----
-
-## 7. Why Sandisk and Western Digital crashed 10% and what it means for bitcoin
-
-**Author:** James Van Straten  
-**Published:** 8/6/2026, 11:14:47 AM  
-**Categories:** Markets, Bitcoin News, Artificial Intelligence, News  
-
-Strong earnings from SanDisk and Western Digital were not enough to satisfy investors, raising questions about whether capital is beginning to rotate from AI winners into crypto.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin)
-
----
-
-## 8. JPYC raises $38 million Series B led by major Japanese logistics firm AZ-COM Maruwa
-
-**Author:** Jamie Crawley  
-**Published:** 8/6/2026, 10:53:09 AM  
-**Categories:** Finance, Stablecoins, Funding Rounds, News  
-
-The investment brings the company’s total raised to $106 million across seven funding rounds since November 2021.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/06/jpyc-raises-usd38-million-series-b-led-by-major-japanese-logistics-firm-az-com-maruwa)
-
----
-
-## 9. Bitcoin, ether benefit as traders seek safety of largest tokens
-
-**Author:** Francisco Rodrigues,Omkar Godbole,Shaurya Malwa  
-**Published:** 8/6/2026, 10:43:07 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-The two largest cryptocurrencies are the only CoinDesk 20 members in positive territory as altcoins fall out of favor.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens)
-
----
-
-## 10. NFT startup founder charged with misusing funds from $10 million fundraising
-
-**Author:** Francisco Rodrigues,AI Boost  
-**Published:** 8/6/2026, 9:19:03 AM  
-**Categories:** Policy, Crypto News, News  
-
-Federal prosecutors say Taj Tarsha misled backers and used investor funds for personal expenses.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/08/06/nft-startup-founder-charged-with-misusing-funds-from-usd10-million-fundraising)
-
----
-
-## 11. Live updates: Bitcoin flatlines near $64,000 ahead of Friday's jobs report
-
-**Author:** Shaurya Malwa,Omkar Godbole,Stephen Alpher,Helene Braun  
-**Published:** 8/6/2026, 7:26:23 AM  
-**Categories:** Tech, Live News, live_news  
-
-Trump’s comments on jobs, inflation and a possible Strait of Hormuz deal have helped risk sentiment, but bitcoin’s next move depends on whether lower oil actually pulls Treasury yields and the dollar down.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive)
 
 ---
