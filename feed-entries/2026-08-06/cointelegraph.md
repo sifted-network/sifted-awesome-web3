@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-06"
 date: "2026-08-06"
 source: "Cointelegraph"
-count: 28
+count: 24
 ---
 
 # Cointelegraph - 2026-08-06
 
-28 items collected.
+24 items collected.
 
 ---
 
@@ -296,53 +296,5 @@ Federal Reserve Governor Lisa Cook said she is “prepared to act” if inflatio
 Eliza Labs founder Shaw Walters said the project transferred its remaining treasury to settle a tokenholder lawsuit and will continue building Eliza without an associated cryptocurrency.
 
 📖 [Read original article](https://cointelegraph.com/markets/elizaos-token-record-low-founder-declares-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. Meta latest AI firm to see model go rogue during testing
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 8/6/2026, 4:28:47 AM  
-**Categories:** Latest News  
-
-The incident reportedly stemmed from a misconfigured testing environment, adding Meta to a growing list of AI firms whose models have escaped evaluation sandboxes.
-
-📖 [Read original article](https://cointelegraph.com/news/meta-latest-ai-firm-to-see-model-go-rogue-during-testing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 26. Block raises 2026 outlook on strong quarter, says AI touches nearly all code
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 8/6/2026, 1:33:57 AM  
-**Categories:** Markets  
-
-Cash App and Square drove better-than-expected results, while the company said it expanded its use of AI across software engineering.
-
-📖 [Read original article](https://cointelegraph.com/markets/block-raises-2026-outlook-strong-quarter-says-ai-touches-nearly-all-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 27. Mysten Labs tech chief joins Anthropic to work on AI security
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 8/6/2026, 1:31:35 AM  
-**Categories:** Latest News  
-
-Mysten Labs’ co-founder Sam Blackshear said he is joining Anthropic as AI shifts the balance between attackers and defenders.
-
-📖 [Read original article](https://cointelegraph.com/news/mysten-labs-tech-chief-joins-anthropic-to-work-on-ai-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 28. Bitcoin Red Team reports 5K findings in sweeping security audit
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 8/6/2026, 1:09:06 AM  
-**Categories:** Latest News  
-
-“There’s a lot of chaos right now in the ecosystem. We absolutely understand that many people are being bombarded with security issues right now,” said Bitcoin developer Calle.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
