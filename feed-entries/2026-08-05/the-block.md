@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-05"
 date: "2026-08-05"
 source: "The Block"
-count: 3
+count: 2
 ---
 
 # The Block - 2026-08-05
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ With a procedural vote on crypto legislation up in the air, lawmakers are racing
 Block raised its 2026 gross profit forecast to $12.51 billion after posting record adjusted operating income.
 
 📖 [Read original article](https://www.theblock.co/post/410923/blocks-bitcoin-gross-profit-falls-31-cash-app-fee-cuts-shares-reverse-initial-gains?utm_source=rss&utm_medium=rss)
-
----
-
-## 3. CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a ‘late-stage bear market’
-
-**Author:** Yogita Khatri  
-**Published:** 8/5/2026, 7:09:26 PM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, Token Projects, Web3, Bitcoin, Crypto, Ethereum, XRP  
-
-Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.
-
-📖 [Read original article](https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss)
 
 ---
