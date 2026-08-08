@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-08-07"
 date: "2026-08-07"
 source: "CoinDesk"
-count: 20
+count: 23
 ---
 
 # CoinDesk - 2026-08-07
 
-20 items collected.
+23 items collected.
 
 ---
 
-## 1. BitMEX sale collapsed as buyers balked at founder ownership and shrinking business
+## 1. Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal
+
+**Author:** Krisztian Sandor  
+**Published:** 8/7/2026, 9:13:21 PM  
+**Categories:** Finance, Trump, Donald Trump, Digital Asset Treasury, News  
+
+The Truth Social parent company is refocusing on media and its pending merger with a fusion energy firm, as the digital asset treasury boom has lost its steam.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal)
+
+---
+
+## 2. Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock
+
+**Author:** Will Canny,AI Boost  
+**Published:** 8/7/2026, 8:20:00 PM  
+**Categories:** Finance, American Bitcoin, Exclusive, Eric Trump, News  
+
+Mateen purchased more than 306,000 shares across two days following the company's quarterly earnings, lifting his stake to more than 492,000 shares.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock)
+
+---
+
+## 3. U.S. widens Iran crypto crackdown with sanctions on two exchanges
+
+**Author:** Krisztian Sandor  
+**Published:** 8/7/2026, 6:42:44 PM  
+**Categories:** Policy, Iran, News  
+
+The Treasury's OFAC targeted Shelbit and Aban Tether as Washington continues its effort to cut Tehran's access to crypto and foreign currency.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges)
+
+---
+
+## 4. BitMEX sale collapsed as buyers balked at founder ownership and shrinking business
 
 **Author:** Will Canny  
 **Published:** 8/7/2026, 4:53:56 PM  
@@ -23,7 +59,7 @@ Potential buyers, including Exodus, passed on BitMEX amid concerns over founder 
 
 ---
 
-## 2. Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze
+## 5. Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze
 
 **Author:** Ian Allison  
 **Published:** 8/7/2026, 4:32:41 PM  
@@ -35,7 +71,7 @@ The exchange has secured a preliminary injunction freezing stolen assets.
 
 ---
 
-## 3. OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin
+## 6. OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin
 
 **Author:** Will Canny,AI Boost  
 **Published:** 8/7/2026, 3:22:44 PM  
@@ -47,7 +83,7 @@ The OKX executive says Democrats have little incentive to hand Republicans a cry
 
 ---
 
-## 4. How a five-second trick let traders drain millions from Polymarket
+## 7. How a five-second trick let traders drain millions from Polymarket
 
 **Author:** Olivier Acuna  
 **Published:** 8/7/2026, 3:09:07 PM  
@@ -59,7 +95,7 @@ After months of public warnings from onchain analysts, the prediction market is 
 
 ---
 
-## 5. A part of FTX survived, and it’s the case for the CLARITY Act
+## 8. A part of FTX survived, and it’s the case for the CLARITY Act
 
 **Author:** Randi Abernethy,Tram Doman  
 **Published:** 8/7/2026, 2:30:25 PM  
@@ -71,7 +107,7 @@ When FTX collapsed, the parts of it bound by law survived. Mainstream finance is
 
 ---
 
-## 6. Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine
+## 9. Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine
 
 **Author:** Olivier Acuna  
 **Published:** 8/7/2026, 2:04:47 PM  
@@ -83,7 +119,7 @@ The FSB said at least 20 individuals were arrested in connection with a ring tha
 
 ---
 
-## 7. U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question
+## 10. U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question
 
 **Author:** James Van Straten,Stephen Alpher  
 **Published:** 8/7/2026, 12:31:51 PM  
@@ -95,7 +131,7 @@ The chances of a Federal Reserve rate hike at its next meeting in September have
 
 ---
 
-## 8. After a Clarity Act funeral, the crypto world would keep turning
+## 11. After a Clarity Act funeral, the crypto world would keep turning
 
 **Author:** Jesse Hamilton  
 **Published:** 8/7/2026, 12:00:00 PM  
@@ -107,7 +143,7 @@ With the U.S. crypto bill missing a crucial window before the Senate hangs its c
 
 ---
 
-## 9. Why Bitcoin's BIP-110 refuses to die despite near-zero miner support
+## 12. Why Bitcoin's BIP-110 refuses to die despite near-zero miner support
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 8/7/2026, 11:45:49 AM  
@@ -119,7 +155,7 @@ BIP-110 has attracted only a sliver of miner support, yet its user-activated des
 
 ---
 
-## 10. Bitcoin’s volatility has nearly disappeared. The risk hasn’t.
+## 13. Bitcoin’s volatility has nearly disappeared. The risk hasn’t.
 
 **Author:** Francisco Rodrigues,Olivier Acuna,Saksham Diwan  
 **Published:** 8/7/2026, 11:42:20 AM  
@@ -131,7 +167,7 @@ Your day-ahead look for Aug. 7, 2026
 
 ---
 
-## 11. Bitcoin hovers below $65,000 as Middle East tensions escalate further
+## 14. Bitcoin hovers below $65,000 as Middle East tensions escalate further
 
 **Author:** Francisco Rodrigues,Omkar Godbole,Shaurya Malwa  
 **Published:** 8/7/2026, 10:36:14 AM  
@@ -143,7 +179,7 @@ Brent crude has meanwhile moved to over $83 a barrel after Yemen’s Iran-linked
 
 ---
 
-## 12. Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets
+## 15. Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets
 
 **Author:** James Van Straten  
 **Published:** 8/7/2026, 9:24:00 AM  
@@ -155,7 +191,7 @@ Roughly 200,000 bitcoin have moved from long-term holder wallets in the past wee
 
 ---
 
-## 13. Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks
+## 16. Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/7/2026, 8:46:17 AM  
@@ -167,7 +203,7 @@ The crypto market maker can now trade US stocks and options and support ETFs as 
 
 ---
 
-## 14. Ethereum staking token weETH splits from restaking as rewards debate heats up
+## 17. Ethereum staking token weETH splits from restaking as rewards debate heats up
 
 **Author:** Shaurya Malwa  
 **Published:** 8/7/2026, 8:01:28 AM  
@@ -179,7 +215,7 @@ The move separates ordinary Ethereum staking from higher-risk restaking exposure
 
 ---
 
-## 15. Live updates: 'This can't last forever': Mulling bitcoin's lame price action as risk markets rally
+## 18. Live updates: 'This can't last forever': Mulling bitcoin's lame price action as risk markets rally
 
 **Author:** Shaurya Malwa,Omkar Godbole,Stephen Alpher,Helene Braun,James Van Straten  
 **Published:** 8/7/2026, 7:44:57 AM  
@@ -191,7 +227,7 @@ The U.S. lost 23,000 in July, the first such loss since February. Expectations h
 
 ---
 
-## 16. Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million
+## 19. Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million
 
 **Author:** Omkar Godbole  
 **Published:** 8/7/2026, 5:45:21 AM  
@@ -203,7 +239,7 @@ Bitcoin whales accumulate $1.2 billion in BTC while spot ETFs pull in $754 milli
 
 ---
 
-## 17. Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address
+## 20. Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address
 
 **Author:** Shaurya Malwa  
 **Published:** 8/7/2026, 4:50:44 AM  
@@ -215,7 +251,7 @@ The 50 BTC remained in the receiving address Friday, but that wallet has previou
 
 ---
 
-## 18. A bitcoin pattern taking shape right now could send prices soaring to $76,000
+## 21. A bitcoin pattern taking shape right now could send prices soaring to $76,000
 
 **Author:** Omkar Godbole  
 **Published:** 8/7/2026, 4:28:17 AM  
@@ -227,7 +263,7 @@ Bitcoin's chart is quietly tracing out a bullish setup technical analysts watch 
 
 ---
 
-## 19. XRP leads majors losses as Clarity Act vote slips to September
+## 22. XRP leads majors losses as Clarity Act vote slips to September
 
 **Author:** Shaurya Malwa  
 **Published:** 8/7/2026, 4:17:01 AM  
@@ -239,7 +275,7 @@ Bitcoin, ether showed slight losses while Ripple-linked XRP fell 5.5% on the wee
 
 ---
 
-## 20. Senate won't vote on crypto Clarity Act before its summer break
+## 23. Senate won't vote on crypto Clarity Act before its summer break
 
 **Author:** Nikhilesh De,Jesse Hamilton  
 **Published:** 8/7/2026, 2:14:43 AM  
