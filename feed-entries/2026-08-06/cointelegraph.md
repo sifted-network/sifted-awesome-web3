@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-06"
 date: "2026-08-06"
 source: "Cointelegraph"
-count: 10
+count: 8
 ---
 
 # Cointelegraph - 2026-08-06
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Move-to-earn project Step App will wind down services by Aug. 21 after four year
 Tokenized cows may have gone viral, but they’re just the latest in a long line of strange things to find a home onchain, from farts, to human skin and destroyed artworks
 
 📖 [Read original article](https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Blockchain.com wins Cayman custody license after MiCA and FCA approvals
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/6/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-Blockchain.com secured a VASP custody license from the Cayman Islands Monetary Authority, expanding its regulated crypto services in the region.
-
-📖 [Read original article](https://cointelegraph.com/news/blockchain-com-cayman-custody-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Hyperliquid RWA contracts grow to 32% of trading activity in Q2
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/6/2026, 12:55:44 PM  
-**Categories:** Latest News  
-
-Tokenized real-world assets accounted for more than a third of Hyperliquid’s quarterly trading volume, generating 6.6% of the protocol’s $169 million quarterly revenue.
-
-📖 [Read original article](https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
