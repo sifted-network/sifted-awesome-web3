@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-06"
 date: "2026-08-06"
 source: "The Block"
-count: 11
+count: 8
 ---
 
 # The Block - 2026-08-06
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ Deposits of tokenized RWAs into lending platforms and DEXs more than tripled fro
 "Whether Hyperliquid eventually surpasses in market cap other tokens such as Solana and XRP remains to be seen," analysts said.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-08-06-jpmorgan-hyperliquid-competition-hype-etf-inflows-stall-411001?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. Block’s spending rise despite 40% workforce cut leaves analysts weighing growth prospects
-
-**Author:** Kyle Baird  
-**Published:** 8/6/2026, 4:12:35 PM  
-**Categories:** Companies, Equities, Markets, Public Equities, Analyst Reports, Block, Earnings  
-
-Analysts remain bullish on Block following Q2 earnings beat, though Mizuho questioned why spending is rising despite a 40% workforce cut.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-06-blocks-spending-rise-despite-workforce-cut-leaves-analysts-weighing-growth-prospects-410997?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Bernstein says Circle’s Q2 counters bearish concerns over competition, reserve income
-
-**Author:** James Hunt  
-**Published:** 8/6/2026, 12:10:44 PM  
-**Categories:** Companies, Crypto Ecosystems, Equities, Markets, Stablecoins, Token Projects, Analyst Reports, USDC  
-
-Bernstein said Circle's partnerships, regulatory approvals, and Arc launch provide additional revenue streams not reflected in estimates.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-06-bernstein-says-circles-q2-counters-bearish-concerns-over-competition-reserve-income-410979?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. More than $30 million stolen in violent crypto attacks in 2026 as France emerges as ‘wrench attack’ hotspot: Chainalysis
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 8/6/2026, 12:00:00 PM  
-**Categories:** Equities, Legal, Markets, Policy, Regulation, Analyst Reports, Crime  
-
-Chainalysis says more than $30M was stolen in violent crypto attacks in 2026 through mid-year, with France the top hotspot.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-06-more-than-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-emerges-as-wrench-attack-hotspot-chainalysis-410984?utm_source=rss&utm_medium=rss)
 
 ---
