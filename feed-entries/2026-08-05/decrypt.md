@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-05"
 date: "2026-08-05"
 source: "Decrypt"
-count: 11
+count: 7
 ---
 
 # Decrypt - 2026-08-05
 
-11 items collected.
+7 items collected.
 
 ---
 
@@ -92,53 +92,5 @@ Prosecutors say the founder of NFT marketplace Few and Far promised investors th
 Will Bitcoin breakout of its death cross? Can Zcash continue to make holders forget about that mid-June crash? Here’s what the charts say.
 
 📖 [Read original article](https://decrypt.co/374975/bitcoin-price-test-zcash-holds-golden-cross)
-
----
-
-## 8. Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch
-
-**Author:** Decrypt Agent  
-**Published:** 8/5/2026, 3:38:09 PM  
-**Categories:** Business  
-
-Circle's USDC distribution deal with Coinbase has been renewed on existing terms, and Arc's testnet has processed half a billion transactions.
-
-📖 [Read original article](https://decrypt.co/374961/circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch)
-
----
-
-## 9. Eliza Founder Declares AI Token 'Dead,' Shuts Down Foundation After Lawsuit Settlement
-
-**Author:** Jason Nelson  
-**Published:** 8/5/2026, 3:24:38 PM  
-**Categories:** , Coins  
-
-Shaw Walters says Eliza's token is no more after a class-action settlement drained the project's remaining funds.
-
-📖 [Read original article](https://decrypt.co/374958/eliza-ai-token-dead-shuts-down-foundation-lawsuit)
-
----
-
-## 10. Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI
-
-**Author:** Decrypt Agent  
-**Published:** 8/5/2026, 12:47:57 PM  
-**Categories:** Artificial Intelligence  
-
-Anthropic's LLM and OpenAI's GPT-5.6 Sol took "unsanctioned action" on the live internet, the UK's AI Security Institute said.
-
-📖 [Read original article](https://decrypt.co/374948/anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi)
-
----
-
-## 11. Morning Minute: Jim Cramer Sells His Bitcoin Over Quantum Fears
-
-**Author:** Tyler Warner  
-**Published:** 8/5/2026, 12:09:32 PM  
-**Categories:** , Opinion  
-
-The last time he sold was in December 2022 with Bitcoin at $16,800. Will Jim's sales mark the bottom again?
-
-📖 [Read original article](https://decrypt.co/374947/morning-minute-jim-cramer-sells-his-bitcoin-over-quantum-fears)
 
 ---
