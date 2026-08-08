@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-06"
 date: "2026-08-06"
 source: "The Block"
-count: 8
+count: 6
 ---
 
 # The Block - 2026-08-06
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ Base is seeing growing demand across tokenization and payments, and Pollack call
 Vangrid contributors are currently paid bounties, Brighton said, noting that a token is planned for later this year.
 
 📖 [Read original article](https://www.theblock.co/news/deals/2026-08-06-depin-project-vangrid-funding-token-round-spatial-data-physical-ai-411022?utm_source=rss&utm_medium=rss)
-
----
-
-## 7. Tokenized RWAs triple deposits to $7.4 billion as broader DeFi contracts 15%: CoinShares
-
-**Author:** Daniel Kuhn  
-**Published:** 8/6/2026, 5:22:22 PM  
-**Categories:** Crypto Ecosystems, DeFi, Web3, DEXs, Tokenization  
-
-Deposits of tokenized RWAs into lending platforms and DEXs more than tripled from Q2 2025 to Q2 2026, from $2.3 billion to $7.4 billion.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-08-06-tokenized-rwas-triple-deposits-to-7-4-billion-as-broader-defi-contracts-15-coinshares-411015?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. JPMorgan says Hyperliquid faces growing competition while HYPE ETF inflows stall
-
-**Author:** Yogita Khatri  
-**Published:** 8/6/2026, 4:17:58 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Finance firms, Markets, Web3, Crypto, JPMorgan  
-
-"Whether Hyperliquid eventually surpasses in market cap other tokens such as Solana and XRP remains to be seen," analysts said.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-06-jpmorgan-hyperliquid-competition-hype-etf-inflows-stall-411001?utm_source=rss&utm_medium=rss)
 
 ---
