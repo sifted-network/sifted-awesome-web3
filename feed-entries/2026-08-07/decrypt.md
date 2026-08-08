@@ -2,16 +2,64 @@
 title: "Decrypt - 2026-08-07"
 date: "2026-08-07"
 source: "Decrypt"
-count: 10
+count: 14
 ---
 
 # Decrypt - 2026-08-07
 
-10 items collected.
+14 items collected.
 
 ---
 
-## 1. XRP at a Crossroads as Senate Punts on Clarity Act
+## 1. Trump Media Abandons Crypto Treasury, Prediction Market Ventures
+
+**Author:** Jason Nelson  
+**Published:** 8/7/2026, 9:05:59 PM  
+**Categories:** Business  
+
+Truth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.
+
+📖 [Read original article](https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market)
+
+---
+
+## 2. Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/7/2026, 8:28:33 PM  
+**Categories:** Law and Order  
+
+The U.S. Treasury sanctioned two crypto exchanges it says laundered millions of dollars for Iran's Revolutionary Guard, naming a Georgia- and UAE-based operator and an Iran-based platform.
+
+📖 [Read original article](https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran)
+
+---
+
+## 3. Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack
+
+**Author:** Jason Nelson  
+**Published:** 8/7/2026, 8:00:34 PM  
+**Categories:** , Business  
+
+Bitcoin company BTCPay Server told users to install the latest version of the server and replace credentials that may have been exposed.
+
+📖 [Read original article](https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack)
+
+---
+
+## 4. Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/7/2026, 7:18:41 PM  
+**Categories:** Technology  
+
+A leaked Flock presentation shows the surveillance firm pitching a plan to pull license-plate data from rideshare and delivery drivers.
+
+📖 [Read original article](https://decrypt.co/375149/flock-cameras-uber-drivers-nationwide-plate-scanning-fleet)
+
+---
+
+## 5. XRP at a Crossroads as Senate Punts on Clarity Act
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/7/2026, 5:36:41 PM  
@@ -23,7 +71,7 @@ XRP is taking the Clarity Act news harder than the rest of the crypto market. He
 
 ---
 
-## 2. Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs
+## 6. Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs
 
 **Author:** Jason Nelson  
 **Published:** 8/7/2026, 4:36:59 PM  
@@ -35,7 +83,7 @@ Microsoft said compromised websites are retrieving malicious instructions from t
 
 ---
 
-## 3. Bitcoin Still in Death Cross as Jobs Miss Cuts Rate-Hike Odds
+## 7. Bitcoin Still in Death Cross as Jobs Miss Cuts Rate-Hike Odds
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/7/2026, 4:07:12 PM  
@@ -47,7 +95,7 @@ A soft July payrolls print pulled September rate-hike odds down. It gives invest
 
 ---
 
-## 4. OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report
+## 8. OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report
 
 **Author:** Decrypt Agent  
 **Published:** 8/7/2026, 4:03:06 PM  
@@ -59,7 +107,7 @@ Designed with Jony Ive's LoveFrom studio, the screenless gadget is slated for 20
 
 ---
 
-## 5. Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC
+## 9. Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/7/2026, 3:27:35 PM  
@@ -71,7 +119,7 @@ A Bitcoin address that had stayed silent for 15 years just sent its coins out fo
 
 ---
 
-## 6. Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares
+## 10. Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares
 
 **Author:** Decrypt Agent  
 **Published:** 8/7/2026, 1:26:19 PM  
@@ -83,7 +131,7 @@ Gold, Treasuries and the S&#038;P 500 led the growth, in a year when spot volume
 
 ---
 
-## 7. China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers
+## 11. China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers
 
 **Author:** Decrypt Agent  
 **Published:** 8/7/2026, 12:37:14 PM  
@@ -95,7 +143,7 @@ Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyon
 
 ---
 
-## 8. Morning Minute: MetaMask Hands AI Agents a Wallet
+## 12. Morning Minute: MetaMask Hands AI Agents a Wallet
 
 **Author:** Tyler Warner  
 **Published:** 8/7/2026, 12:00:35 PM  
@@ -107,7 +155,7 @@ MetaMask's Agent Wallet lets AI agents trade crypto on their own. Plus, Bitcoin 
 
 ---
 
-## 9. MyTrade Founder Fined $10K Over Bots That Wash Traded 60 Cryptocurrencies
+## 13. MyTrade Founder Fined $10K Over Bots That Wash Traded 60 Cryptocurrencies
 
 **Author:** Decrypt Agent  
 **Published:** 8/7/2026, 10:37:41 AM  
@@ -119,7 +167,7 @@ Liu Zhou told undercover agents the objective was to make other buyers lose mone
 
 ---
 
-## 10. Senate Punts Clarity Act Vote to September as Democrats Hold Out
+## 14. Senate Punts Clarity Act Vote to September as Democrats Hold Out
 
 **Author:** Decrypt Agent  
 **Published:** 8/7/2026, 9:26:02 AM  
