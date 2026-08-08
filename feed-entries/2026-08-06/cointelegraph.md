@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-06"
 date: "2026-08-06"
 source: "Cointelegraph"
-count: 8
+count: 6
 ---
 
 # Cointelegraph - 2026-08-06
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ New analysis finds AI infrastructure contracts are becoming larger and more prof
 Bitcoin price action stayed compressed in an ongoing divergence from stocks and gold while US PMI data sparked fresh talk of “stagflation.”
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-compresses-as-us-pmi-data-brings-new-stagflation-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Step App winds down after four years as FITFI token sinks
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/6/2026, 1:52:36 PM  
-**Categories:** Latest News  
-
-Move-to-earn project Step App will wind down services by Aug. 21 after four years, while its FITFI token trades 99.9% below its all-time high.
-
-📖 [Read original article](https://cointelegraph.com/news/step-app-winds-down-four-years-move-to-earn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. 10 weirdest things ever tokenized... including farts
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 8/6/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Tokenized cows may have gone viral, but they’re just the latest in a long line of strange things to find a home onchain, from farts, to human skin and destroyed artworks
-
-📖 [Read original article](https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
