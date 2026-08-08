@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-07"
 date: "2026-08-07"
 source: "CoinDesk"
-count: 23
+count: 21
 ---
 
 # CoinDesk - 2026-08-07
 
-23 items collected.
+21 items collected.
 
 ---
 
@@ -260,29 +260,5 @@ The 50 BTC remained in the receiving address Friday, but that wallet has previou
 Bitcoin's chart is quietly tracing out a bullish setup technical analysts watch closely. But it isn't confirmed, and one key level will decide if it plays out.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat)
-
----
-
-## 22. XRP leads majors losses as Clarity Act vote slips to September
-
-**Author:** Shaurya Malwa  
-**Published:** 8/7/2026, 4:17:01 AM  
-**Categories:** Markets, News  
-
-Bitcoin, ether showed slight losses while Ripple-linked XRP fell 5.5% on the week, the worst of the majors, as the Senate left Washington without taking up the market structure bill.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september)
-
----
-
-## 23. Senate won't vote on crypto Clarity Act before its summer break
-
-**Author:** Nikhilesh De,Jesse Hamilton  
-**Published:** 8/7/2026, 2:14:43 AM  
-**Categories:** Policy, Breaking News, Clarity Act, News  
-
-The U.S. Senate won't go on its August recess just yet but it will not vote on the Clarity Act this month, dimming hopes that the bill can become law this year.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break)
 
 ---
