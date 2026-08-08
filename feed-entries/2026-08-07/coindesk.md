@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-07"
 date: "2026-08-07"
 source: "CoinDesk"
-count: 21
+count: 17
 ---
 
 # CoinDesk - 2026-08-07
 
-21 items collected.
+17 items collected.
 
 ---
 
@@ -212,53 +212,5 @@ The crypto market maker can now trade US stocks and options and support ETFs as 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up)
-
----
-
-## 18. Live updates: 'This can't last forever': Mulling bitcoin's lame price action as risk markets rally
-
-**Author:** Shaurya Malwa,Omkar Godbole,Stephen Alpher,Helene Braun,James Van Straten  
-**Published:** 8/7/2026, 7:44:57 AM  
-**Categories:** Markets, Live News, live_news  
-
-The U.S. lost 23,000 in July, the first such loss since February. Expectations had been for a gain of 80,000 jobs.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind)
-
----
-
-## 19. Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million
-
-**Author:** Omkar Godbole  
-**Published:** 8/7/2026, 5:45:21 AM  
-**Categories:** Markets, News  
-
-Bitcoin whales accumulate $1.2 billion in BTC while spot ETFs pull in $754 million this week.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million)
-
----
-
-## 20. Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address
-
-**Author:** Shaurya Malwa  
-**Published:** 8/7/2026, 4:50:44 AM  
-**Categories:** Markets, News  
-
-The 50 BTC remained in the receiving address Friday, but that wallet has previously sent funds to FalconX-labeled deposits, leaving open whether the old stash is being reorganized or moved closer to a trading venue.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address)
-
----
-
-## 21. A bitcoin pattern taking shape right now could send prices soaring to $76,000
-
-**Author:** Omkar Godbole  
-**Published:** 8/7/2026, 4:28:17 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin's chart is quietly tracing out a bullish setup technical analysts watch closely. But it isn't confirmed, and one key level will decide if it plays out.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat)
 
 ---
