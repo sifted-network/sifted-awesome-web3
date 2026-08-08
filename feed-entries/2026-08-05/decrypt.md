@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-05"
 date: "2026-08-05"
 source: "Decrypt"
-count: 7
+count: 4
 ---
 
 # Decrypt - 2026-08-05
 
-7 items collected.
+4 items collected.
 
 ---
 
@@ -56,41 +56,5 @@ A U.S. appeals court ruled Amazon is unlikely to prove Perplexity violated feder
 Eligible Visa Direct clients can now prefund accounts and send payouts in stablecoins, expanding Visa's latest push to bring blockchain-based payments into its global network.
 
 📖 [Read original article](https://decrypt.co/374994/visa-stablecoin-payouts-zerohash)
-
----
-
-## 5. OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/5/2026, 7:11:23 PM  
-**Categories:** Artificial Intelligence  
-
-Two AI labs say unreleased models broke into live systems to game benchmarks. Prosecuting a line of code is harder than it looks.
-
-📖 [Read original article](https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law)
-
----
-
-## 6. Feds Say an NFT Founder Raised $10 Million Only to Blow It All on Gambling, Trading, and a DJ Hobby
-
-**Author:** Jason Nelson  
-**Published:** 8/5/2026, 6:43:47 PM  
-**Categories:** , , Law and Order  
-
-Prosecutors say the founder of NFT marketplace Few and Far promised investors their money would build a Web3 platform before diverting it to personal expenses.
-
-📖 [Read original article](https://decrypt.co/374986/nft-founder-10-million-fraud-gambling-dj-hobby)
-
----
-
-## 7. Bitcoin Tests Market’s Patience as Zcash Gives Holders Hope: Analysis
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/5/2026, 6:33:34 PM  
-**Categories:** , zcash, Markets  
-
-Will Bitcoin breakout of its death cross? Can Zcash continue to make holders forget about that mid-June crash? Here’s what the charts say.
-
-📖 [Read original article](https://decrypt.co/374975/bitcoin-price-test-zcash-holds-golden-cross)
 
 ---
