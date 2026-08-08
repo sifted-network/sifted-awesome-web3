@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-08-07"
 date: "2026-08-07"
 source: "Cointelegraph"
-count: 20
+count: 22
 ---
 
 # Cointelegraph - 2026-08-07
 
-20 items collected.
+22 items collected.
 
 ---
 
-## 1. Circle expands USDC to OKX ecosystem with X Layer launch
+## 1. Donald Trump’s media company to terminate Crypto.com deal
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/7/2026, 9:39:36 PM  
+**Categories:** Latest News  
+
+The president’s company will unwind an agreement with Crypto.com to create a multibillion-dollar CRO treasury and reportedly not integrate prediction markets onto Truth Social.
+
+📖 [Read original article](https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/7/2026, 8:02:20 PM  
+**Categories:** Latest News  
+
+The US government sanctioned an individual and two crypto exchanges it said facilitated money laundering for a combined $5 million in digital assets linked to Iran.
+
+📖 [Read original article](https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 8/7/2026, 6:36:10 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Circle expands USDC to OKX ecosystem with X Layer launch
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/7/2026, 5:36:45 PM  
@@ -23,7 +59,7 @@ The rollout gives X Layer users access to Circle-issued USDC and crosschain tran
 
 ---
 
-## 2. Reform UK chair calls for probe into SBF-linked donation: Report
+## 5. Reform UK chair calls for probe into SBF-linked donation: Report
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/7/2026, 5:03:50 PM  
@@ -35,7 +71,7 @@ As the chairman of the Reform UK calls for an investigation into a FTX-linked po
 
 ---
 
-## 3. Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets
+## 6. Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/7/2026, 3:23:15 PM  
@@ -47,7 +83,7 @@ Bitcoin hit month-to-date highs above $65,000 as risk-assets gained on low US no
 
 ---
 
-## 4. Crypto Biz: Crypto’s biggest business is starting to look a lot like banking
+## 7. Crypto Biz: Crypto’s biggest business is starting to look a lot like banking
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/7/2026, 3:07:49 PM  
@@ -59,19 +95,7 @@ Crypto business is converging with banking as stablecoin reserves, tokenized fun
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/7/2026, 1:49:35 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Fierce backlash to Ethereum’s EIP-8363 staking proposal
+## 8. Fierce backlash to Ethereum’s EIP-8363 staking proposal
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 8/7/2026, 1:30:00 PM  
@@ -83,7 +107,7 @@ Ethereum’s proposed EIP-8363 staking overhaul aims to reduce issuance, but cri
 
 ---
 
-## 7. Bitcoiners turn to dice throws as self-custody setups are re-evaluated
+## 9. Bitcoiners turn to dice throws as self-custody setups are re-evaluated
 
 **Author:** Cointelegraph by Charles Bennett  
 **Published:** 8/7/2026, 1:00:01 PM  
@@ -95,7 +119,7 @@ Dice entropy may become the new gold standard after the Coldcard hack
 
 ---
 
-## 8. Russia cracks down on 9 crypto exchanges in Moscow City
+## 10. Russia cracks down on 9 crypto exchanges in Moscow City
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/7/2026, 12:28:41 PM  
@@ -107,7 +131,7 @@ Russia has shut down nine unregistered crypto exchanges in Moscow, with the FSB 
 
 ---
 
-## 9. CEX perpetual futures volume falls to $4T, lowest since late 2023
+## 11. CEX perpetual futures volume falls to $4T, lowest since late 2023
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/7/2026, 12:13:40 PM  
@@ -119,7 +143,7 @@ Perpetual futures trading volume on crypto exchanges fell to its lowest level in
 
 ---
 
-## 10. Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over
+## 12. Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/7/2026, 11:05:01 AM  
@@ -131,7 +155,7 @@ Binance saw a record divergence between daily spot and futures trading volumes, 
 
 ---
 
-## 11. CleanSpark misses Wall Street revenue estimates as shares sink
+## 13. CleanSpark misses Wall Street revenue estimates as shares sink
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/7/2026, 9:25:56 AM  
@@ -143,7 +167,7 @@ CleanSpark’s shares fell 5.5% on Thursday after the Bitcoin miner reported $13
 
 ---
 
-## 12. Stripe-owned Bridge joins EU MiCA register after Luxembourg approval
+## 14. Stripe-owned Bridge joins EU MiCA register after Luxembourg approval
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/7/2026, 9:14:17 AM  
@@ -155,7 +179,7 @@ Stripe-owned Bridge has entered the EU MiCA register following Luxembourg approv
 
 ---
 
-## 13. CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO
+## 15. CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/7/2026, 9:01:14 AM  
@@ -167,7 +191,7 @@ Industry figures warned that continued legislative limbo could slow institutiona
 
 ---
 
-## 14. Coldcard exploit pushes July losses to $247M as second-worst month of 2026
+## 16. Coldcard exploit pushes July losses to $247M as second-worst month of 2026
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/7/2026, 7:59:42 AM  
@@ -179,7 +203,7 @@ The Coldcard exploit, which caused more than $100 million in losses, helped push
 
 ---
 
-## 15. Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams
+## 17. Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/7/2026, 5:24:38 AM  
@@ -191,7 +215,7 @@ Japanese authorities called for address registration, customer-specific limits a
 
 ---
 
-## 16. Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg
+## 18. Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/7/2026, 5:04:22 AM  
@@ -203,7 +227,7 @@ The latest bipartisan ethics proposal would reportedly require Trump to divest c
 
 ---
 
-## 17. Bitget explores licensed crypto presence in Bhutan
+## 19. Bitget explores licensed crypto presence in Bhutan
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/7/2026, 3:22:26 AM  
@@ -215,7 +239,7 @@ Crypto exchange Bitget has signed an agreement with Gelephu Mindfulness City Aut
 
 ---
 
-## 18. US Senate pushes CLARITY Act vote to September
+## 20. US Senate pushes CLARITY Act vote to September
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/7/2026, 2:49:53 AM  
@@ -227,7 +251,7 @@ Senate Majority Leader John Thune confirmed that the chamber was “punting” t
 
 ---
 
-## 19. MARA swings to Q2 loss as Bitcoin’s slump masks higher output
+## 21. MARA swings to Q2 loss as Bitcoin’s slump masks higher output
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/7/2026, 2:17:07 AM  
@@ -239,7 +263,7 @@ Bitcoin miner MARA posted its highest quarterly Bitcoin production in over a yea
 
 ---
 
-## 20. Crypto market maker Wintermute launches US broker-dealer
+## 22. Crypto market maker Wintermute launches US broker-dealer
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/7/2026, 12:09:47 AM  
