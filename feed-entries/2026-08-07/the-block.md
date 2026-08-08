@@ -2,16 +2,52 @@
 title: "The Block - 2026-08-07"
 date: "2026-08-07"
 source: "The Block"
-count: 9
+count: 12
 ---
 
 # The Block - 2026-08-07
 
-9 items collected.
+12 items collected.
 
 ---
 
-## 1. CFTC cautions prediction markets over using American-style ‘moneyline’ betting odds: Bloomberg
+## 1. Trump Media and Crypto.com end partnerships as companies shift priorities
+
+**Author:** RT Watson  
+**Published:** 8/7/2026, 9:01:36 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Markets, People, Policy, Web3, Crypto, Donald Trump  
+
+This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkville into a CRO treasury company.
+
+📖 [Read original article](https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. US sanctions two more Iranian crypto exchanges under ‘Economic Fury’ campaign
+
+**Author:** Kyle Baird  
+**Published:** 8/7/2026, 7:49:33 PM  
+**Categories:** Companies, Legal, Policy, Regulation, U.S. Policymaking, Sanctions, Treasury Department  
+
+The U.S. Treasury Department traced more than $3 million in transfers between Shelbit and IRGC-linked wallets.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-07-us-sanctions-two-more-iranian-crypto-exchanges-under-economic-fury-campaign-411184?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin
+
+**Author:** Daniel Kuhn  
+**Published:** 8/7/2026, 7:37:14 PM  
+**Categories:** Crypto Ecosystems, DeFi, Infrastructure, Layer 1s, Markets, Token Projects, Ethereum, Validators  
+
+The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
+
+📖 [Read original article](https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. CFTC cautions prediction markets over using American-style ‘moneyline’ betting odds: Bloomberg
 
 **Author:** Sarah Wynn  
 **Published:** 8/7/2026, 6:39:26 PM  
@@ -23,7 +59,7 @@ Some prediction market platforms received a warning from the CFTC to refrain usi
 
 ---
 
-## 2. BTCPay warns of actively exploited vulnerability that could drain funds
+## 5. BTCPay warns of actively exploited vulnerability that could drain funds
 
 **Author:** Daniel Kuhn  
 **Published:** 8/7/2026, 5:03:20 PM  
@@ -35,7 +71,7 @@ Makers of the open source bitcoin payment processor BTCPay urged users to update
 
 ---
 
-## 3. Coldcard bitcoin exploit exposes crypto’s ‘original sin’ of private keys, Blockaid CEO says
+## 6. Coldcard bitcoin exploit exposes crypto’s ‘original sin’ of private keys, Blockaid CEO says
 
 **Author:** RT Watson  
 **Published:** 8/7/2026, 3:30:05 PM  
@@ -47,7 +83,7 @@ Crypto at risk of becoming "canary in a coal mine" when it comes to demonstratin
 
 ---
 
-## 4. Bitcoin tops $65,000 after ‘massive surprise’ US jobs miss
+## 7. Bitcoin tops $65,000 after ‘massive surprise’ US jobs miss
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 8/7/2026, 2:02:44 PM  
@@ -59,7 +95,7 @@ Bitcoin topped $65,000 after U.S. payrolls fell 23,000 in July versus an 80,000 
 
 ---
 
-## 5. Bernstein favors CleanSpark on AI execution as MARA awaits first commercial contract
+## 8. Bernstein favors CleanSpark on AI execution as MARA awaits first commercial contract
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 8/7/2026, 11:51:21 AM  
@@ -71,7 +107,7 @@ Bernstein rates CleanSpark Outperform at $24 on AI lease progress, while keeping
 
 ---
 
-## 6. ‘Applesauce’: Michigan judge denies Coinbase bid to block state enforcement of sports event contracts
+## 9. ‘Applesauce’: Michigan judge denies Coinbase bid to block state enforcement of sports event contracts
 
 **Author:** Timmy Shen  
 **Published:** 8/7/2026, 9:06:56 AM  
@@ -83,7 +119,7 @@ Bernstein rates CleanSpark Outperform at $24 on AI lease progress, while keeping
 
 ---
 
-## 7. Cathie Wood’s Ark Invest buys $21 million in Block as stock drops 6%
+## 10. Cathie Wood’s Ark Invest buys $21 million in Block as stock drops 6%
 
 **Author:** Danny Park  
 **Published:** 8/7/2026, 4:03:44 AM  
@@ -95,7 +131,7 @@ Block's stock fell 6.15% on Thursday as the company posted rising operating expe
 
 ---
 
-## 8. Senate delays Clarity Act vote until after August recess, Thune confirms
+## 11. Senate delays Clarity Act vote until after August recess, Thune confirms
 
 **Author:** Timmy Shen and Sarah Wynn  
 **Published:** 8/7/2026, 2:55:45 AM  
@@ -107,7 +143,7 @@ Senate Majority Leader John Thune confirmed with The Block, saying: 'We're getti
 
 ---
 
-## 9. Sui to add post-quantum signature schemes for quantum-safe accounts
+## 12. Sui to add post-quantum signature schemes for quantum-safe accounts
 
 **Author:** Danny Park  
 **Published:** 8/7/2026, 2:09:29 AM  
