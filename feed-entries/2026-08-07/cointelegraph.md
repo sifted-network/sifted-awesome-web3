@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-07"
 date: "2026-08-07"
 source: "Cointelegraph"
-count: 21
+count: 20
 ---
 
 # Cointelegraph - 2026-08-07
 
-21 items collected.
+20 items collected.
 
 ---
 
@@ -248,17 +248,5 @@ Senate Majority Leader John Thune confirmed that the chamber was “punting” t
 Bitcoin miner MARA posted its highest quarterly Bitcoin production in over a year, but was overshadowed by a 28% decline in the average price of Bitcoin.
 
 📖 [Read original article](https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Crypto market maker Wintermute launches US broker-dealer
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 8/7/2026, 12:09:47 AM  
-**Categories:** Latest News  
-
-Wintermute said the registration allows the firm to position itself for the growth of tokenized securities in the US.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-market-maker-wintermute-launches-us-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
