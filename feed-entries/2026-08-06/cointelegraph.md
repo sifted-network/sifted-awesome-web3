@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-06"
 date: "2026-08-06"
 source: "Cointelegraph"
-count: 2
+count: 1
 ---
 
 # Cointelegraph - 2026-08-06
 
-2 items collected.
+1 items collected.
 
 ---
 
@@ -20,17 +20,5 @@ count: 2
 The Defend American Jobs and Protect Progress PACs reported spending more than $1.5 million on media for four House and Senate races ahead of Aug. 18 primary elections.
 
 📖 [Read original article](https://cointelegraph.com/news/crypto-pac-florida-alaska-wyoming-primary-races?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. Bitcoin ETF inflows surge after Coldcard hack, but link is unclear: Bloomberg analyst
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 8/6/2026, 6:17:57 PM  
-**Categories:** Latest News  
-
-A week-long streak of inflows into US spot Bitcoin ETFs has coincided with the Coldcard wallet exploit, fueling debate over whether some investors are shifting away from self-custody.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-etf-inflows-coldcard-hack-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
