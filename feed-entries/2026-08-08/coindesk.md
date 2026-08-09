@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-08-08"
 date: "2026-08-08"
 source: "CoinDesk"
-count: 8
+count: 9
 ---
 
 # CoinDesk - 2026-08-08
 
-8 items collected.
+9 items collected.
 
 ---
 
-## 1. Hardware wallet sales in Russia more than double as new crypto rules near
+## 1. Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins
+
+**Author:** Jamie Crawley,AI Boost  
+**Published:** 8/8/2026, 8:06:47 PM  
+**Categories:** Tech, Bitcoin News, News  
+
+The proposal has scant support from bitcoin miners and influential commentators have also voiced their opposition.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support)
+
+---
+
+## 2. Hardware wallet sales in Russia more than double as new crypto rules near
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/8/2026, 5:48:02 PM  
@@ -23,7 +35,7 @@ Wildberries’ average price for hardware wallets fell 13% to 7,900 rubles, and 
 
 ---
 
-## 2. Brazil's central bank orders exchanges to delay large crypto transfers abroad
+## 3. Brazil's central bank orders exchanges to delay large crypto transfers abroad
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/8/2026, 3:25:38 PM  
@@ -35,7 +47,7 @@ The rule applies to transfers above $10,000 and smaller transactions flagged as 
 
 ---
 
-## 3. Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan
+## 4. Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan
 
 **Author:** Olivier Acuna  
 **Published:** 8/8/2026, 2:00:00 PM  
@@ -47,7 +59,7 @@ The digital asset manager's CIO says large capital pools control up to $200 tril
 
 ---
 
-## 4. Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF
+## 5. Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF
 
 **Author:** Helene Braun,AI Boost  
 **Published:** 8/8/2026, 1:00:00 PM  
@@ -59,7 +71,7 @@ The $1.9 trillion asset manager says excluding established memecoins on principl
 
 ---
 
-## 5. U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month
+## 6. U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month
 
 **Author:** Jesse Hamilton,Nikhilesh De  
 **Published:** 8/8/2026, 9:07:24 AM  
@@ -71,7 +83,7 @@ The majority leader opened the multi-stage process the Senate follows when tryin
 
 ---
 
-## 6. Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers
+## 7. Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers
 
 **Author:** Shaurya Malwa  
 **Published:** 8/8/2026, 7:46:04 AM  
@@ -83,7 +95,7 @@ BTCPay told users running LND to update immediately or take servers offline afte
 
 ---
 
-## 7. New XRP Ledger amendments target $530 million in tokenized Wall Street assets
+## 8. New XRP Ledger amendments target $530 million in tokenized Wall Street assets
 
 **Author:** Shaurya Malwa  
 **Published:** 8/8/2026, 3:30:00 AM  
@@ -95,7 +107,7 @@ A new XRPL amendment proposal would let institutions encrypt token balances and 
 
 ---
 
-## 8. Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer
+## 9. Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer
 
 **Author:** Shaurya Malwa  
 **Published:** 8/8/2026, 2:30:00 AM  
