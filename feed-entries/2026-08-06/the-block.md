@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-06"
 date: "2026-08-06"
 source: "The Block"
-count: 5
+count: 4
 ---
 
 # The Block - 2026-08-06
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ MARA's net loss widened to $611.3 million, or $1.60 per diluted share, while Cle
 After Nathan Allman's death was announced in May, Ondo Finance said that Ian De Bode would take over as CEO.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-06-late-ondo-founders-mother-seeks-control-of-company-and-removal-of-de-bode-as-ceo-411006?utm_source=rss&utm_medium=rss)
-
----
-
-## 5. Coinbase’s Base app will become ‘less Base-centric’ under Cobie, Jesse Pollak says
-
-**Author:** Kyle Baird  
-**Published:** 8/6/2026, 7:05:56 PM  
-**Categories:** Companies, Crypto Ecosystems, Exchanges, Layer 2s and Scaling, Markets, Public Equities, Web3, Base, Coinbase  
-
-Base is seeing growing demand across tokenization and payments, and Pollack called blockchain launches from Robinhood and Stripe "validation."
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-06-jesse-pollak-base-app-become-less-base-centric-cobie-builds-trading-platform-411023?utm_source=rss&utm_medium=rss)
 
 ---
