@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-06"
 date: "2026-08-06"
 source: "Cointelegraph"
-count: 3
+count: 2
 ---
 
 # Cointelegraph - 2026-08-06
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ The Defend American Jobs and Protect Progress PACs reported spending more than $
 A week-long streak of inflows into US spot Bitcoin ETFs has coincided with the Coldcard wallet exploit, fueling debate over whether some investors are shifting away from self-custody.
 
 📖 [Read original article](https://cointelegraph.com/news/bitcoin-etf-inflows-coldcard-hack-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. US appellate court mandate affirms Sam Bankman-Fried conviction
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 8/6/2026, 5:17:34 PM  
-**Categories:** Latest News  
-
-Three circuit judges disputed the former FTX CEO’s claims that the defunct crypto exchange’s investors could have been made whole and wouldn’t have experienced any losses.
-
-📖 [Read original article](https://cointelegraph.com/news/us-appellate-court-mandate-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
