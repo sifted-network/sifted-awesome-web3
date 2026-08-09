@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-07"
 date: "2026-08-07"
 source: "CoinDesk"
-count: 15
+count: 12
 ---
 
 # CoinDesk - 2026-08-07
 
-15 items collected.
+12 items collected.
 
 ---
 
@@ -152,41 +152,5 @@ With the U.S. crypto bill missing a crucial window before the Senate hangs its c
 BIP-110 has attracted only a sliver of miner support, yet its user-activated design means the proposal continues toward its activation date and (most likely) beyond.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/08/06/why-bitcoin-s-bip-110-refuses-to-die-despite-near-zero-miner-support)
-
----
-
-## 13. Bitcoin’s volatility has nearly disappeared. The risk hasn’t.
-
-**Author:** Francisco Rodrigues,Olivier Acuna,Saksham Diwan  
-**Published:** 8/7/2026, 11:42:20 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Aug. 7, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/08/07/bitcoin-s-volatility-has-nearly-disappeared-the-risk-hasn-t)
-
----
-
-## 14. Bitcoin hovers below $65,000 as Middle East tensions escalate further
-
-**Author:** Francisco Rodrigues,Omkar Godbole,Shaurya Malwa  
-**Published:** 8/7/2026, 10:36:14 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Brent crude has meanwhile moved to over $83 a barrel after Yemen’s Iran-linked Houthis attacked Saudi Arabia, further escalating tensions in the Middle East.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/07/cmt)
-
----
-
-## 15. Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets
-
-**Author:** James Van Straten  
-**Published:** 8/7/2026, 9:24:00 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Roughly 200,000 bitcoin have moved from long-term holder wallets in the past week, suggesting a possible shift in custody rather than conventional selling
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets)
 
 ---
