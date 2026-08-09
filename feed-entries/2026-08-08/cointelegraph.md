@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-08-08"
 date: "2026-08-08"
 source: "Cointelegraph"
-count: 6
+count: 7
 ---
 
 # Cointelegraph - 2026-08-08
 
-6 items collected.
+7 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 8/8/2026, 9:17:08 PM  
+**Categories:** Latest News  
+
+The deployment milestone tests whether enforcing nodes can sustain the change amid limited miner signaling and discussion of a hard-fork fallback.
+
+📖 [Read original article](https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/8/2026, 5:19:56 PM  
@@ -23,7 +35,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. US spot Bitcoin ETFs post best week since April with $1B inflows
+## 3. US spot Bitcoin ETFs post best week since April with $1B inflows
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/8/2026, 4:20:17 PM  
@@ -35,7 +47,7 @@ The spot Bitcoin exchange-traded funds registered their third-strongest showing 
 
 ---
 
-## 3. US Senate to vote on advancing CLARITY Act in September after Thune files cloture
+## 4. US Senate to vote on advancing CLARITY Act in September after Thune files cloture
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/8/2026, 3:08:06 PM  
@@ -47,7 +59,7 @@ The procedural move puts crypto market structure legislation back on track as la
 
 ---
 
-## 4. Bitcoin will never fall below $60K again: Nansen founder
+## 5. Bitcoin will never fall below $60K again: Nansen founder
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 8/8/2026, 1:30:00 PM  
@@ -59,7 +71,7 @@ Crypto is growing up thanks to trading in real world assets, and Bitcoin will ne
 
 ---
 
-## 5. Domestic stablecoins could boost demand for dollar-backed tokens: IMF
+## 6. Domestic stablecoins could boost demand for dollar-backed tokens: IMF
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/8/2026, 6:21:08 AM  
@@ -71,7 +83,7 @@ IMF first deputy managing director Dan Katz says users may favor digital dollars
 
 ---
 
-## 6. US court backs Bybit’s bid to trace funds from $1.5B North Korea hack
+## 7. US court backs Bybit’s bid to trace funds from $1.5B North Korea hack
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/8/2026, 4:11:53 AM  
