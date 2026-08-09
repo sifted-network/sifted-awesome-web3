@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-07"
 date: "2026-08-07"
 source: "CoinDesk"
-count: 16
+count: 15
 ---
 
 # CoinDesk - 2026-08-07
 
-16 items collected.
+15 items collected.
 
 ---
 
@@ -188,17 +188,5 @@ Brent crude has meanwhile moved to over $83 a barrel after Yemen’s Iran-linked
 Roughly 200,000 bitcoin have moved from long-term holder wallets in the past week, suggesting a possible shift in custody rather than conventional selling
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets)
-
----
-
-## 16. Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks
-
-**Author:** Francisco Rodrigues  
-**Published:** 8/7/2026, 8:46:17 AM  
-**Categories:** Finance, Crypto Trading, News  
-
-The crypto market maker can now trade US stocks and options and support ETFs as crypto moves closer to traditional markets.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push)
 
 ---
