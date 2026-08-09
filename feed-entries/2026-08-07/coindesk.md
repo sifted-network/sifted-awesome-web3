@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-07"
 date: "2026-08-07"
 source: "CoinDesk"
-count: 17
+count: 16
 ---
 
 # CoinDesk - 2026-08-07
 
-17 items collected.
+16 items collected.
 
 ---
 
@@ -200,17 +200,5 @@ Roughly 200,000 bitcoin have moved from long-term holder wallets in the past wee
 The crypto market maker can now trade US stocks and options and support ETFs as crypto moves closer to traditional markets.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push)
-
----
-
-## 17. Ethereum staking token weETH splits from restaking as rewards debate heats up
-
-**Author:** Shaurya Malwa  
-**Published:** 8/7/2026, 8:01:28 AM  
-**Categories:** Tech, Ethereum News, News  
-
-The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up)
 
 ---
