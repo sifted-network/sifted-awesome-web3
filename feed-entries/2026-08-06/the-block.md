@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-06"
 date: "2026-08-06"
 source: "The Block"
-count: 6
+count: 5
 ---
 
 # The Block - 2026-08-06
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ After Nathan Allman's death was announced in May, Ondo Finance said that Ian De 
 Base is seeing growing demand across tokenization and payments, and Pollack called blockchain launches from Robinhood and Stripe "validation."
 
 📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-06-jesse-pollak-base-app-become-less-base-centric-cobie-builds-trading-platform-411023?utm_source=rss&utm_medium=rss)
-
----
-
-## 6. DePIN project Vangrid raises $9 million in token round to build spatial data network for physical AI
-
-**Author:** Yogita Khatri  
-**Published:** 8/6/2026, 6:03:58 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Governance, Markets, Token Projects, Venture Capital, Web3, exclusive, Seed and Pre-Seed, Tokens  
-
-Vangrid contributors are currently paid bounties, Brighton said, noting that a token is planned for later this year.
-
-📖 [Read original article](https://www.theblock.co/news/deals/2026-08-06-depin-project-vangrid-funding-token-round-spatial-data-physical-ai-411022?utm_source=rss&utm_medium=rss)
 
 ---
