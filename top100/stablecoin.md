@@ -7,32 +7,32 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [WaykiChain](https://github.com/WaykiChain/WaykiChain) | 1,047 | 226 | C++ | 3 | Public Blockchain as a Decentralized Finance Infrastructure Service Platform | 2022-11-30 |
-| 2 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 873 | 111 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
+| 2 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 872 | 111 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 3 | [dss](https://github.com/sky-ecosystem/dss) | 838 | 449 | Solidity | 16 | Dai Stablecoin System | 2023-10-01 |
 | 4 | [celo-monorepo](https://github.com/celo-org/celo-monorepo) | 801 | 478 | Solidity | 29 | Official repository for core projects comprising the Celo platform | 2026-08-06 |
 | 5 | [stablecoin-evm](https://github.com/circlefin/stablecoin-evm) | 784 | 572 | TypeScript | 22 | Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains | 2026-06-26 |
-| 6 | [Acala](https://github.com/AcalaNetwork/Acala) | 760 | 760 | Rust | 107 | Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama. | 2026-06-14 |
-| 7 | [awesome-makerdao](https://github.com/sky-ecosystem/awesome-makerdao) | 710 | 169 | - | 2 | A collection of tools, documents, articles, blog posts, interviews, and videos related to MakerDAO and the Dai stablecoin.  | 2024-07-22 |
+| 6 | [Acala](https://github.com/AcalaNetwork/Acala) | 762 | 761 | Rust | 107 | Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama. | 2026-06-14 |
+| 7 | [awesome-makerdao](https://github.com/sky-ecosystem/awesome-makerdao) | 710 | 170 | - | 2 | A collection of tools, documents, articles, blog posts, interviews, and videos related to MakerDAO and the Dai stablecoin.  | 2024-07-22 |
 | 8 | [LedgityYield](https://github.com/LedgityLabs/LedgityYield) | 660 | 18 | TypeScript | 1 | Stable yield for stablecoins. Earn up to 7% APY on your stablecoins backed by Real World Assets (RWA). Access low-risk & stable yield directly from your wallet. | 2026-01-21 |
 | 9 | [FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP) | 641 | 118 | TypeScript | 2 | 这是一个金融领域相关的mcp,本项目通过集成 Tushare API 和 Binance API 为语言模型（如Claude）提供全面的实时金融数据访问能力，支持股票、基金、债券、宏观经济指标、稳定币、虚拟货币等多维度金融数据分析。其中也包含了金融数据查询、财经新闻查询、国家统计局数据查询等 | 2026-08-06 |
 | 10 | [resistance](https://github.com/codez0mb1e/resistance) | 608 | 38 | Jupyter Notebook | 2 | Pre-crisis Risk Management for Personal Finance | 2025-08-30 |
 | 11 | [curve-stablecoin](https://github.com/curvefi/curve-stablecoin) | 540 | 112 | Python | 0 | Stablecoin powered by LLAMMAs | 2026-08-07 |
-| 12 | [agentpay-sdk](https://github.com/worldliberty/agentpay-sdk) | 510 | 22 | Rust | 5 | An open SDK for agentic payments. Let AI agents make payments, hold funds, and move money across chains with policy enforcement and human approval built in. | 2026-06-08 |
+| 12 | [agentpay-sdk](https://github.com/worldliberty/agentpay-sdk) | 509 | 22 | Rust | 5 | An open SDK for agentic payments. Let AI agents make payments, hold funds, and move money across chains with policy enforcement and human approval built in. | 2026-06-08 |
 | 13 | [market-maker-keeper](https://github.com/sky-ecosystem/market-maker-keeper) | 492 | 186 | Python | 7 | Maker Keeper Framework: Market maker keepers for OasisDEX, EtherDelta, 0x (RadarRelay, ERCdEX), Paradex, DDEX, IDEX, Bibox, Ethfinex, GoPax, HitBTC, TheOcean, OKEX and Gate.io. | 2023-03-15 |
-| 14 | [x402scan](https://github.com/Merit-Systems/x402scan) | 368 | 267 | TypeScript | 48 | x402 Ecosystem Explorer | 2026-07-30 |
-| 15 | [zoneless](https://github.com/zonelessdev/zoneless) | 338 | 33 | TypeScript | 0 | The open-source Stripe, built on stablecoins. Same API and dashboard you already know, minus the fees. Payments infrastructure you actually own. | 2026-08-07 |
+| 14 | [x402scan](https://github.com/Merit-Systems/x402scan) | 369 | 267 | TypeScript | 49 | x402 Ecosystem Explorer | 2026-07-30 |
+| 15 | [zoneless](https://github.com/zonelessdev/zoneless) | 338 | 33 | TypeScript | 0 | The open-source Stripe, built on stablecoins. Same API and dashboard you already know, minus the fees. Payments infrastructure you actually own. | 2026-08-09 |
 | 16 | [foundry-defi-stablecoin-cu](https://github.com/Cyfrin/foundry-defi-stablecoin-cu) | 337 | 169 | Solidity | 0 |  | 2026-06-16 |
 | 17 | [cashclaw](https://github.com/ertugrulakben/cashclaw) | 295 | 106 | JavaScript | 1 | The Agent Economy Layer — agents earn, agents spend, Guard protects. 13 skills, runtime cost cap, recursive kill, tool firewall. 50+ HYRVE API endpoints, job polling daemon, MPP stablecoin. v1.7.0 | 2026-05-19 |
 | 18 | [dharma-smart-wallet](https://github.com/dharma-eng/dharma-smart-wallet) | 269 | 38 | Solidity | 1 | An upgradeable, meta-transaction-enabled smart wallet for earning interest on stablecoins while retaining custody of funds, with an added security backstop provided by Dharma Labs. | 2023-01-04 |
 | 19 | [eulers-shield](https://github.com/KOSASIH/eulers-shield) | 242 | 24 | Python | 0 | A decentralized, AI-powered financial system for stabilizing the value of Pi Coin at $314159. Combining blockchain, machine learning, and cybersecurity, Euler's Shield ensures the security, scalabilit... | 2025-06-21 |
 | 20 | [stablecoin-contract](https://github.com/ton-blockchain/stablecoin-contract) | 221 | 86 | TypeScript | 5 | Sample code for centralised stablecoin jetton. TEP-74 and TEP-89 compatible | 2025-08-21 |
 | 21 | [pymaker](https://github.com/sky-ecosystem/pymaker) | 196 | 95 | Python | 18 | Python API for Maker contracts | 2025-07-07 |
-| 22 | [core-banking-prototype-laravel](https://github.com/FinAegis/core-banking-prototype-laravel) | 188 | 49 | PHP | 0 | Open-source core banking platform — 61 DDD domains with event sourcing, CQRS, and a schema-first GraphQL API. Multi-asset accounts, exchange, lending, compliance, x402/MPP machine payments, and a non-... | 2026-08-03 |
+| 22 | [core-banking-prototype-laravel](https://github.com/FinAegis/core-banking-prototype-laravel) | 188 | 50 | PHP | 0 | Open-source core banking platform — 61 DDD domains with event sourcing, CQRS, and a schema-first GraphQL API. Multi-asset accounts, exchange, lending, compliance, x402/MPP machine payments, and a non-... | 2026-08-03 |
 | 23 | [usdp-contracts](https://github.com/paxosglobal/usdp-contracts) | 177 | 87 | TypeScript | 1 | Solidity smart contracts for the Paxos Standard ERC20 stablecoin USDP | 2026-01-06 |
 | 24 | [x402-client](https://github.com/vybenetwork/x402-client) | 168 | 66 | TypeScript | 5 | Client SDK for the Vybe x402 API. Pay-per-call USDC over HTTP and prepaid-credit WebSocket streaming for Vybe's Solana analytics API. Built for AI agents. | 2026-05-13 |
 | 25 | [payram-mcp](https://github.com/PayRam/payram-mcp) | 155 | 7 | TypeScript | 3 | Connect to hosted payram helper at: https://mcp.payram.com | 2026-07-25 |
 | 26 | [origin-dollar](https://github.com/OriginProtocol/origin-dollar) | 150 | 113 | Solidity | 190 | OUSD and OETH are stablecoins that passively accrue yield while you are holding it | 2026-08-08 |
-| 27 | [zephyr](https://github.com/ZephyrProtocol/zephyr) | 148 | 24 | C++ | 29 | The Untraceable Stablecoin Protocol. | 2025-06-11 |
+| 27 | [zephyr](https://github.com/ZephyrProtocol/zephyr) | 149 | 24 | C++ | 29 | The Untraceable Stablecoin Protocol. | 2025-06-11 |
 | 28 | [kiichain](https://github.com/KiiChain/kiichain) | 147 | 123 | Go | 17 | On-chain FX layer for stablecoins and RWA. | 2026-08-07 |
 | 29 | [chai](https://github.com/dapphub/chai) | 147 | 27 | Solidity | 3 | ERC20 wrapper over the Dai Savings Rate | 2020-04-01 |
 | 30 | [busd-contract](https://github.com/paxosglobal/busd-contract) | 146 | 90 | Solidity | 4 | Solidity smart contracts for the BUSD stablecoin | 2025-06-11 |
@@ -44,7 +44,7 @@
 | 36 | [arbitrage-keeper](https://github.com/sky-ecosystem/arbitrage-keeper) | 113 | 29 | Python | 3 | Maker Keeper Framework: Keeper to arbitrage on OasisDEX, `join`, `exit`, `boom` and `bust`. Efficiently handles both bad debt liquidations and surplus Dai. | 2022-07-15 |
 | 37 | [dollar](https://github.com/gemini/dollar) | 107 | 37 | Solidity | 0 | Gemini dollar contract source code | 2023-11-30 |
 | 38 | [Stablecoins-Infinity-Profit-Bot](https://github.com/itxtoledo/Stablecoins-Infinity-Profit-Bot) | 105 | 44 | JavaScript | 4 | Infinite profit with stablecoins. | 2026-02-12 |
-| 39 | [curve-stablecoin-js](https://github.com/curvefi/curve-stablecoin-js) | 102 | 19 | TypeScript | 2 | JavaScript library for Curve Stablecoin | 2026-08-03 |
+| 39 | [curve-stablecoin-js](https://github.com/curvefi/curve-stablecoin-js) | 102 | 19 | TypeScript | 2 | JavaScript library for Curve Stablecoin | 2026-08-08 |
 | 40 | [pyusd-contract](https://github.com/paxosglobal/pyusd-contract) | 98 | 32 | TypeScript | 0 | PYUSD stablecoin smart contract repo | 2026-02-09 |
 | 41 | [dex-contracts](https://github.com/gnosis/dex-contracts) | 98 | 36 | TypeScript | 22 | Smart contracts for the Gnosis Protocol v1 | 2022-12-11 |
 | 42 | [sealchain](https://github.com/sealchain-project/sealchain) | 95 | 7 | Haskell | 0 | Financial blockchain based on cardano-sl | 2022-12-07 |
