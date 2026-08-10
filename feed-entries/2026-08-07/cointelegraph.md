@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-07"
 date: "2026-08-07"
 source: "Cointelegraph"
-count: 18
+count: 15
 ---
 
 # Cointelegraph - 2026-08-07
 
-18 items collected.
+15 items collected.
 
 ---
 
@@ -188,41 +188,5 @@ Industry figures warned that continued legislative limbo could slow institutiona
 The Coldcard exploit, which caused more than $100 million in losses, helped push July crypto thefts to $247 million, making it the second-worst month of 2026.
 
 📖 [Read original article](https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/7/2026, 5:24:38 AM  
-**Categories:** Latest News  
-
-Japanese authorities called for address registration, customer-specific limits and stronger authentication as part of a broader push to curb misuse of exchange accounts.
-
-📖 [Read original article](https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 8/7/2026, 5:04:22 AM  
-**Categories:** Latest News  
-
-The latest bipartisan ethics proposal would reportedly require Trump to divest crypto businesses while allowing him to defer capital gains taxes on those sales.
-
-📖 [Read original article](https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Bitget explores licensed crypto presence in Bhutan
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 8/7/2026, 3:22:26 AM  
-**Categories:** Latest News  
-
-Crypto exchange Bitget has signed an agreement with Gelephu Mindfulness City Authority to pursue a regulated local presence.
-
-📖 [Read original article](https://cointelegraph.com/news/bitget-explores-licensed-crypto-presence-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
