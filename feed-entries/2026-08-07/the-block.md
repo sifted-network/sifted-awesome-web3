@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-07"
 date: "2026-08-07"
 source: "The Block"
-count: 9
+count: 7
 ---
 
 # The Block - 2026-08-07
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ Crypto at risk of becoming "canary in a coal mine" when it comes to demonstratin
 Bitcoin topped $65,000 after U.S. payrolls fell 23,000 in July versus an 80,000 forecast, pushing traders to price out a September Fed rate hike.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-08-07-bitcoin-tops-65000-after-massive-surprise-us-jobs-miss-411154?utm_source=rss&utm_medium=rss)
-
----
-
-## 8. Bernstein favors CleanSpark on AI execution as MARA awaits first commercial contract
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 8/7/2026, 11:51:21 AM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Equities, Markets, Web3, AI, Analyst Reports, Mining Companies  
-
-Bernstein rates CleanSpark Outperform at $24 on AI lease progress, while keeping MARA at $17 as it awaits its first commercial AI contract.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-07-bernstein-favors-cleanspark-on-ai-execution-as-mara-awaits-first-commercial-contract-411136?utm_source=rss&utm_medium=rss)
-
----
-
-## 9. ‘Applesauce’: Michigan judge denies Coinbase bid to block state enforcement of sports event contracts
-
-**Author:** Timmy Shen  
-**Published:** 8/7/2026, 9:06:56 AM  
-**Categories:** Companies, Exchanges, Markets, Policy, Public Equities, Regulation, Coinbase  
-
-"Coinbase's averments are, in a word, applesauce," U.S. District Judge Shalina Kumar wrote in Thursday's ruling.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-07-michigan-judge-denies-coinbase-bid-prediction-markets-411128?utm_source=rss&utm_medium=rss)
 
 ---
