@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-08"
 date: "2026-08-08"
 source: "CoinDesk"
-count: 6
+count: 2
 ---
 
 # CoinDesk - 2026-08-08
 
-6 items collected.
+2 items collected.
 
 ---
 
@@ -32,53 +32,5 @@ The proposal has scant support from bitcoin miners and influential commentators 
 Wildberries’ average price for hardware wallets fell 13% to 7,900 rubles, and M.Video broadened its range of products, though neither retailer identified the driving force behind the renewed demand.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near)
-
----
-
-## 3. Brazil's central bank orders exchanges to delay large crypto transfers abroad
-
-**Author:** Francisco Rodrigues  
-**Published:** 8/8/2026, 3:25:38 PM  
-**Categories:** Finance, Brazil, News  
-
-The rule applies to transfers above $10,000 and smaller transactions flagged as risky by exchanges.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad)
-
----
-
-## 4. Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan
-
-**Author:** Olivier Acuna  
-**Published:** 8/8/2026, 2:00:00 PM  
-**Categories:** Finance, Bitcoin News, News  
-
-The digital asset manager's CIO says large capital pools control up to $200 trillion globally, and just a 1% shift toward bitcoin could unlock massive long-term growth.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan)
-
----
-
-## 5. Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF
-
-**Author:** Helene Braun,AI Boost  
-**Published:** 8/8/2026, 1:00:00 PM  
-**Categories:** Markets, ETFs, Dogecoin, News  
-
-The $1.9 trillion asset manager says excluding established memecoins on principle would undermine its active approach to crypto investing.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf)
-
----
-
-## 6. U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month
-
-**Author:** Jesse Hamilton,Nikhilesh De  
-**Published:** 8/8/2026, 9:07:24 AM  
-**Categories:** Policy, Clarity Act, Breaking News, News  
-
-The majority leader opened the multi-stage process the Senate follows when trying to get a bill over its 60-vote hurdle, so it's still got a shot in September.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month)
 
 ---
