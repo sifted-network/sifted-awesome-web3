@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-07"
 date: "2026-08-07"
 source: "CoinDesk"
-count: 11
+count: 6
 ---
 
 # CoinDesk - 2026-08-07
 
-11 items collected.
+6 items collected.
 
 ---
 
@@ -80,65 +80,5 @@ The exchange has secured a preliminary injunction freezing stolen assets.
 The OKX executive says Democrats have little incentive to hand Republicans a crypto victory before the midterms.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/08/04/okx-s-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-bitcoin)
-
----
-
-## 7. How a five-second trick let traders drain millions from Polymarket
-
-**Author:** Olivier Acuna  
-**Published:** 8/7/2026, 3:09:07 PM  
-**Categories:** Finance, Polymarket, Prediction Markets, Kalshi, Bitcoin News, News  
-
-After months of public warnings from onchain analysts, the prediction market is moving to time-weighted prices to make artificial price pushes too costly.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket)
-
----
-
-## 8. A part of FTX survived, and it’s the case for the CLARITY Act
-
-**Author:** Randi Abernethy,Tram Doman  
-**Published:** 8/7/2026, 2:30:25 PM  
-**Categories:** Opinion, Opinion  
-
-When FTX collapsed, the parts of it bound by law survived. Mainstream finance is now converging with digital assets, and the law built to protect it the same way is the one the Senate did not pass this week, argues Bullish's Randi Abernethy.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act)
-
----
-
-## 9. Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine
-
-**Author:** Olivier Acuna  
-**Published:** 8/7/2026, 2:04:47 PM  
-**Categories:** Policy, Crime, News  
-
-The FSB said at least 20 individuals were arrested in connection with a ring that scammed an undetermined number of Russian citizens.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/08/07/russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukraine)
-
----
-
-## 10. U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question
-
-**Author:** James Van Straten,Stephen Alpher  
-**Published:** 8/7/2026, 12:31:51 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-The chances of a Federal Reserve rate hike at its next meeting in September have slipped below 50% in the aftermath of the report.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000)
-
----
-
-## 11. After a Clarity Act funeral, the crypto world would keep turning
-
-**Author:** Jesse Hamilton  
-**Published:** 8/7/2026, 12:00:00 PM  
-**Categories:** News Analysis, Clarity Act, Regulation, News  
-
-With the U.S. crypto bill missing a crucial window before the Senate hangs its closed-for-summer sign, the alternatives are getting more attention.
-
-📖 [Read original article](https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning)
 
 ---
