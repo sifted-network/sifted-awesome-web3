@@ -65,7 +65,7 @@ Crypto is growing up thanks to trading in real world assets, and Bitcoin will ne
 **Published:** 8/8/2026, 6:21:08 AM  
 **Categories:** Latest News  
 
-IMF first deputy managing director Dan Katz says users may favor digital dollars for their liquidity, network effects and cross-border acceptance.
+IMF First Deputy Managing Director Dan Katz says users may favor digital dollars for their liquidity, network effects and cross-border acceptance.
 
 📖 [Read original article](https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
