@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-08-10"
 date: "2026-08-10"
 source: "Cointelegraph"
-count: 11
+count: 15
 ---
 
 # Cointelegraph - 2026-08-10
 
-11 items collected.
+15 items collected.
 
 ---
 
-## 1. Strategy turns 1,690 BTC into $108.6M STRC buyback
+## 1. ‘Disappointing’ — crypto advocates react to delay in CLARITY vote
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/10/2026, 5:08:34 PM  
+**Categories:** Latest News  
+
+Following a procedural delay in the US Senate, lawmakers are expected to address a major crypto market structure bill after they return from a month-long recess, which met with industry criticism.
+
+📖 [Read original article](https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 8/10/2026, 4:14:58 PM  
+**Categories:** Markets  
+
+Bitcoin wobbled with US stocks as Iran deflated hopes on the reopening of the Strait of Hormuz oil route, while analysis praised “exceptionally strong” institutional BTC inflows.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-wipes-weekend-gains-as-oil-nears-5-surge-on-hormuz-disappointment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/10/2026, 3:59:06 PM  
+**Categories:** Latest News  
+
+BlackRock Canada’s new IBQT fund combines global equity exposure with a 3% Bitcoin allocation through the firm’s Canadian iShares Bitcoin ETF.
+
+📖 [Read original article](https://cointelegraph.com/news/blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bitdeer increased Bitcoin mining output by nearly fivefold in Q2
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 8/10/2026, 1:07:42 PM  
+**Categories:** Latest News  
+
+Bitdeer mined 2,694 BTC in Q2, but ended the quarter holding just 150 BTC after liquidating its treasury earlier this year.
+
+📖 [Read original article](https://cointelegraph.com/news/bitdeer-bitcoin-mining-output-fivefold-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Strategy turns 1,690 BTC into $108.6M STRC buyback
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/10/2026, 12:36:32 PM  
@@ -23,7 +71,7 @@ Strategy sold 1,690 Bitcoin to repurchase STRC shares as its US dollar reserve r
 
 ---
 
-## 2. Tokenized RWA surge to $4T may push LINK to $200 by end-2030: Standard Chartered
+## 6. Tokenized RWA surge to $4T may push LINK to $200 by end-2030: Standard Chartered
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/10/2026, 11:39:39 AM  
@@ -35,7 +83,7 @@ The LINK token may see a 25-fold increase to $200 by the end of 2030, as the gro
 
 ---
 
-## 3. Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week
+## 7. Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/10/2026, 11:13:40 AM  
@@ -47,7 +95,7 @@ Bitcoin spiked to a new August high into Sunday’s weekly close as market parti
 
 ---
 
-## 4. H100 becomes Europe’s No. 2 Bitcoin treasury after 2,455 BTC deal
+## 8. H100 becomes Europe’s No. 2 Bitcoin treasury after 2,455 BTC deal
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/10/2026, 10:14:30 AM  
@@ -59,7 +107,7 @@ Sweden’s H100 more than tripled its Bitcoin holdings to 3,506 BTC after comple
 
 ---
 
-## 5. UK regulators to prepare tokenized gold framework: Report
+## 9. UK regulators to prepare tokenized gold framework: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/10/2026, 7:25:45 AM  
@@ -71,10 +119,10 @@ The UK’s FCA is reportedly preparing a regulatory framework for tokenized gold
 
 ---
 
-## 6. Here’s what happened in crypto today
+## 10. Here’s what happened in crypto today
 
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 8/10/2026, 6:00:00 AM  
+**Author:** Cointelegraph by Robert Lakin  
+**Published:** 8/10/2026, 6:30:00 AM  
 **Categories:** Latest News  
 
 Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
@@ -83,7 +131,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 7. Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’
+## 11. Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/10/2026, 5:18:27 AM  
@@ -95,7 +143,7 @@ Bitcoin Red Team has now found 1,288 critical and high-level vulnerabilities in 
 
 ---
 
-## 8. Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures
+## 12. Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/10/2026, 4:32:36 AM  
@@ -107,7 +155,7 @@ Australia’s financial watchdog has suspended Cryptolink’s registration for t
 
 ---
 
-## 9. Crypto’s first quantum attack will look like unexplained breach: Quantus founder
+## 13. Crypto’s first quantum attack will look like unexplained breach: Quantus founder
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/10/2026, 3:34:53 AM  
@@ -119,7 +167,7 @@ Bad actors with access to a cryptography-breaking quantum computer probably won�
 
 ---
 
-## 10. BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9
+## 14. BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 8/10/2026, 12:32:21 AM  
@@ -131,7 +179,7 @@ BIP-110 forks itself into oblivion with a “2-block chain” and CLARITY will f
 
 ---
 
-## 11. Ex-US defense secretary calls CLARITY Act a ‘national security bill’
+## 15. Ex-US defense secretary calls CLARITY Act a ‘national security bill’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/10/2026, 12:31:34 AM  
