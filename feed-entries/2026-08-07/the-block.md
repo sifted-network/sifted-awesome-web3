@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-07"
 date: "2026-08-07"
 source: "The Block"
-count: 12
+count: 9
 ---
 
 # The Block - 2026-08-07
 
-12 items collected.
+9 items collected.
 
 ---
 
@@ -116,41 +116,5 @@ Bernstein rates CleanSpark Outperform at $24 on AI lease progress, while keeping
 "Coinbase's averments are, in a word, applesauce," U.S. District Judge Shalina Kumar wrote in Thursday's ruling.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-07-michigan-judge-denies-coinbase-bid-prediction-markets-411128?utm_source=rss&utm_medium=rss)
-
----
-
-## 10. Cathie Wood’s Ark Invest buys $21 million in Block as stock drops 6%
-
-**Author:** Danny Park  
-**Published:** 8/7/2026, 4:03:44 AM  
-**Categories:** Companies  
-
-Block's stock fell 6.15% on Thursday as the company posted rising operating expenses in Q2, despite cutting 40% of its workforce in February.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-07-cathie-wood-ark-invest-buys-21-million-block-411075?utm_source=rss&utm_medium=rss)
-
----
-
-## 11. Senate delays Clarity Act vote until after August recess, Thune confirms
-
-**Author:** Timmy Shen and Sarah Wynn  
-**Published:** 8/7/2026, 2:55:45 AM  
-**Categories:** Policy, Regulation  
-
-Senate Majority Leader John Thune confirmed with The Block, saying: 'We're getting that queued up first thing when we come back.'
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-06-senate-delays-clarity-act-vote-411083?utm_source=rss&utm_medium=rss)
-
----
-
-## 12. Sui to add post-quantum signature schemes for quantum-safe accounts
-
-**Author:** Danny Park  
-**Published:** 8/7/2026, 2:09:29 AM  
-**Categories:** Crypto Ecosystems, Layer 1s, Web3, Sui  
-
-Sui said users can adopt quantum-safe keys without creating a new recovery phrase or changing wallet addresses.
-
-📖 [Read original article](https://www.theblock.co/news/web3/2026-08-06-sui-post-quantum-signature-scheme-410968?utm_source=rss&utm_medium=rss)
 
 ---
