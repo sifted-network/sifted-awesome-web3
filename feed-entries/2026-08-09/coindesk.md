@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-08-09"
 date: "2026-08-09"
 source: "CoinDesk"
-count: 4
+count: 5
 ---
 
 # CoinDesk - 2026-08-09
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE
+## 1. Is Clarity's delay a blessing in disguise?: State of Crypto
+
+**Author:** Nikhilesh De  
+**Published:** 8/9/2026, 6:30:00 PM  
+**Categories:** Policy, Newsletters, State of Crypto, News  
+
+The crypto industry is angry and disappointed that the Senate is not holding a procedural vote on the Clarity Act this month, but that isn't the worst possible outcome.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto)
+
+---
+
+## 2. Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE
 
 **Author:** Shaurya Malwa  
 **Published:** 8/9/2026, 3:00:00 PM  
@@ -23,7 +35,7 @@ Revenue has fallen four quarters running while open interest hit a record high. 
 
 ---
 
-## 2. Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk
+## 3. Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk
 
 **Author:** Omkar Godbole  
 **Published:** 8/9/2026, 2:19:35 PM  
@@ -35,7 +47,7 @@ Bitcoin ETFs recorded $853.54 million in net inflows last week, the strongest si
 
 ---
 
-## 3. Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026
+## 4. Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026
 
 **Author:** Oliver Knight,Margaux Nijkerk  
 **Published:** 8/9/2026, 1:00:00 PM  
@@ -47,7 +59,7 @@ An industry-wide reckoning is weeding out unsustainable startups, leaving behind
 
 ---
 
-## 4. Controversial Bitcoin fork BIP-110 mines two blocks, then stops
+## 5. Controversial Bitcoin fork BIP-110 mines two blocks, then stops
 
 **Author:** Shaurya Malwa  
 **Published:** 8/9/2026, 5:08:20 AM  
