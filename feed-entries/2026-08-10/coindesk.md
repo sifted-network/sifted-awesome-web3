@@ -2,16 +2,64 @@
 title: "CoinDesk - 2026-08-10"
 date: "2026-08-10"
 source: "CoinDesk"
-count: 14
+count: 18
 ---
 
 # CoinDesk - 2026-08-10
 
-14 items collected.
+18 items collected.
 
 ---
 
-## 1. Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares
+## 1. Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans
+
+**Author:** Francisco Rodrigues  
+**Published:** 8/10/2026, 3:02:14 PM  
+**Categories:** Finance, Grayscale, Cardano, Crypto News, News  
+
+The asset manager said it no longer intends to proceed with the offerings. None became effective, and no securities were issued or sold.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans)
+
+---
+
+## 2. Solana lending giant Jupiter now lets the same dollar earn twice
+
+**Author:** Shaurya Malwa  
+**Published:** 8/10/2026, 2:30:00 PM  
+**Categories:** Markets, Solana News, Crypto Lending, DeFi, News  
+
+The new Lend v2 product turns deposits and borrowed assets into trading liquidity, tying higher returns to whether Jupiter’s router can send enough swap flow to the new vaults.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice)
+
+---
+
+## 3. Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks
+
+**Author:** Krisztian Sandor  
+**Published:** 8/10/2026, 1:50:51 PM  
+**Categories:** Finance, Ethereum News, Digital Asset Treasury, News  
+
+Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks)
+
+---
+
+## 4. Solana gets its first Strategy STRC product through Solstice Finance
+
+**Author:** Olivier Acuna  
+**Published:** 8/10/2026, 1:26:36 PM  
+**Categories:** Finance, MicroStrategy, Nasdaq, Solana News, News  
+
+The Solana vault splits income from Strategy’s preferred stock into a lower-risk senior token and a higher-risk junior token.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/10/solstice-rolls-out-strategy-s-strc-preferred-stock-income-to-solana)
+
+---
+
+## 5. Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares
 
 **Author:** James Van Straten  
 **Published:** 8/10/2026, 12:09:26 PM  
@@ -23,7 +71,7 @@ The company increased its USD reserve to $4.65 billion while reducing its bitcoi
 
 ---
 
-## 2. Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack
+## 6. Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack
 
 **Author:** Oliver Knight  
 **Published:** 8/10/2026, 11:39:44 AM  
@@ -35,19 +83,19 @@ Onchain forensics tie a single actor to an $8 million coordinated drain across T
 
 ---
 
-## 3. Why the UK financial watchdog is drafting new rules for tokenized gold
+## 7. UK’s FCA to regulate tokenized gold to preserve London’s place as the top hub for bullion
 
 **Author:** Olivier Acuna  
 **Published:** 8/10/2026, 11:38:33 AM  
 **Categories:** Finance, UK, Tokenization, Regulation, News  
 
-The FCA is expected to announce progress on drafting new rules for tokenized digital assets within the next few months.
+The FCA said it will 'have more to say on' their approach to tokenization, as it draws up rules to put assets on the blockchain.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold)
 
 ---
 
-## 4. Bitcoin's BIP-110 episode is free-market capitalism in purest form
+## 8. Bitcoin's BIP-110 episode is free-market capitalism in purest form
 
 **Author:** Omkar Godbole  
 **Published:** 8/10/2026, 11:31:29 AM  
@@ -59,7 +107,7 @@ Your day-ahead look for Aug. 10, 2026
 
 ---
 
-## 5. Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets
+## 9. Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 8/10/2026, 10:45:43 AM  
@@ -71,7 +119,7 @@ BTC rose to $65,209 and Nasdaq 100 index futures gained 0.45% on reports that Ir
 
 ---
 
-## 6. Bitcoin volatility is in meltdown, but downside protection still commands a premium
+## 10. Bitcoin volatility is in meltdown, but downside protection still commands a premium
 
 **Author:** Omkar Godbole  
 **Published:** 8/10/2026, 10:13:58 AM  
@@ -83,7 +131,7 @@ Bitcoin’s BVIV volatility index hit the lowest level since 2025 as option dema
 
 ---
 
-## 7. A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally
+## 11. A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally
 
 **Author:** James Van Straten  
 **Published:** 8/10/2026, 9:09:32 AM  
@@ -95,7 +143,7 @@ CME leveraged funds turn net long as weak futures yields undermine the once-popu
 
 ---
 
-## 8. U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead
+## 12. U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/10/2026, 8:57:04 AM  
@@ -107,7 +155,7 @@ Your look at what's coming in the week starting Aug. 10
 
 ---
 
-## 9. Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard
+## 13. Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard
 
 **Author:** Ian Allison  
 **Published:** 8/10/2026, 7:52:00 AM  
@@ -119,7 +167,7 @@ Early BVNK investor Concentric shares a fascinating inside view on the stablecoi
 
 ---
 
-## 10. Robinhood brings crypto trading to UK in AI-powered all-in-one app
+## 14. Robinhood brings crypto trading to UK in AI-powered all-in-one app
 
 **Author:** Ian Allison  
 **Published:** 8/10/2026, 7:00:00 AM  
@@ -131,9 +179,9 @@ The trading firm is also introducing “Robinhood Cortex Digests for Crypto,” 
 
 ---
 
-## 11. Live updates: Bitcoin steady above $65,100 as Strategy reports 1,690 BTC sale
+## 15. Live updates: WTI crude oil up 5% and back to $80, as bitcoin drops below $64,000
 
-**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole  
+**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Krisztian Sandor  
 **Published:** 8/10/2026, 6:56:50 AM  
 **Categories:** Markets, Live News, live_news  
 
@@ -143,7 +191,7 @@ The market rose even as the Senate left the crypto bill unpassed before its rece
 
 ---
 
-## 12. This bitcoin miner rejected BIP-110 despite mining through a pool that supported it
+## 16. This bitcoin miner rejected BIP-110 despite mining through a pool that supported it
 
 **Author:** Shaurya Malwa  
 **Published:** 8/10/2026, 6:25:17 AM  
@@ -155,7 +203,7 @@ Ocean, a bitcoin mining pool, had been backing BIP-110 by default. Simple Mining
 
 ---
 
-## 13. Bitcoin tops $65,000 with U.S. inflation data due this week
+## 17. Bitcoin tops $65,000 with U.S. inflation data due this week
 
 **Author:** Shaurya Malwa  
 **Published:** 8/10/2026, 4:39:37 AM  
@@ -167,7 +215,7 @@ Every major except XRP is green on the week, with BTC, ether and BNB each up nea
 
 ---
 
-## 14. XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money
+## 18. XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money
 
 **Author:** Omkar Godbole  
 **Published:** 8/10/2026, 4:26:01 AM  
