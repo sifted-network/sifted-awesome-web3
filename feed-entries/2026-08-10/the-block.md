@@ -2,16 +2,100 @@
 title: "The Block - 2026-08-10"
 date: "2026-08-10"
 source: "The Block"
-count: 3
+count: 10
 ---
 
 # The Block - 2026-08-10
 
-3 items collected.
+10 items collected.
 
 ---
 
-## 1. Michael Saylor’s Strategy sells another 1,690 BTC as USD reserve hits $4.65 billion
+## 1. Keel shutters all US bitcoin mining operations amid continuing AI pivot
+
+**Author:** RT Watson  
+**Published:** 8/10/2026, 5:05:14 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Equities, Infrastructure, Markets, Web3, AI, Earnings, Mining, Mining Companies  
+
+Like many other Bitcoin miners, Keel has been shifting its focus from mining in favor of becoming a supplier of AI infrastructure.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-keel-shutters-us-bitcoin-mining-operations-amid-ai-pivot-411302?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. Vitalik Buterin puts privacy and quantum resistance front and center in Ethereum’s latest roadmap
+
+**Author:** Daniel Kuhn  
+**Published:** 8/10/2026, 4:24:44 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Layer 1s, Markets, Metaverse & NFT, People, Policy, Token Projects, Ethereum, Vitalik Buterin  
+
+Buterin previously said the upgrades included in Lean Ethereum will form the protocol's “third major iteration.”
+
+📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-10-vitalik-buterin-privacy-quantum-resistance-front-and-center-ethereum-latest-roadmap-411298?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Bitcoin miner Bitdeer’s shares sink 15% despite revenue growth, progress on AI pivot
+
+**Author:** RT Watson  
+**Published:** 8/10/2026, 3:38:10 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Equities, Market Updates, Markets, Web3, AI, Earnings, Equity Movers, Mining Companies  
+
+The company is focused increasingly focused on becoming a provider of AI infrastructure, expanding beyond its core bitcoin mining business.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-bitcoin-miner-bitdeer-shares-sink-despite-revenue-growth-progress-ai-pivot-411276?utm_source=rss&utm_medium=rss)
+
+---
+
+## 4. Adam Back-backed H100 more than triples bitcoin holdings to 3,506 BTC in acquisition deal
+
+**Author:** Kyle Baird  
+**Published:** 8/10/2026, 2:57:17 PM  
+**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin  
+
+H100 paid for the deal with 790.5 million newly issued shares, and the company is now within striking distance of big BTC treasury players.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-adam-back-backed-h100-more-triples-bitcoin-holdings-3506-btc-acquisition-411270?utm_source=rss&utm_medium=rss)
+
+---
+
+## 5. Crypto lost $110 million to hacks in July amid rising bug bounty activity: Immunefi
+
+**Author:** Brian Danga  
+**Published:** 8/10/2026, 2:00:00 PM  
+**Categories:** Crypto Ecosystems, DeFi, Security, Hacks  
+
+Crypto lost roughly $110 million to hacks in July as Immunefi said its audit competitions outperformed tier-1 audits.
+
+📖 [Read original article](https://www.theblock.co/news/defi/2026-08-10-crypto-hacks-july-immunefi-411246?utm_source=rss&utm_medium=rss)
+
+---
+
+## 6. Bitmine adds 7,391 ether in a week, bringing total Ethereum holdings to 5.81 million ETH
+
+**Author:** Brian Danga  
+**Published:** 8/10/2026, 1:53:42 PM  
+**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Ethereum  
+
+Bitmine bought 7,391 ether last week, lifting its total Ethereum treasury to 5.81 million ETH, worth roughly $11 billion.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-bitmine-adds-7391-eth-411265?utm_source=rss&utm_medium=rss)
+
+---
+
+## 7. ‘Owning the rails’: Standard Chartered sees LINK at $200 by 2030 as Chainlink underpins tokenized-asset boom
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 8/10/2026, 1:04:18 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Equities, Markets, Analyst Reports  
+
+Standard Chartered bets Chainlink owns the rails for tokenized finance, initiating LINK coverage with a $200 target by end-2030.
+
+📖 [Read original article](https://www.theblock.co/news/defi/2026-08-10-standard-chartered-chainlink-tokenization-411252?utm_source=rss&utm_medium=rss)
+
+---
+
+## 8. Michael Saylor’s Strategy sells another 1,690 BTC as USD reserve hits $4.65 billion
 
 **Author:** James Hunt  
 **Published:** 8/10/2026, 12:09:39 PM  
@@ -23,7 +107,7 @@ Strategy's total holdings account for roughly 4% of the 21 million bitcoin suppl
 
 ---
 
-## 2. North Korea’s Kimsuky integrates AI into cyberattacks targeting crypto and finance
+## 9. North Korea’s Kimsuky integrates AI into cyberattacks targeting crypto and finance
 
 **Author:** Danny Park  
 **Published:** 8/10/2026, 8:35:09 AM  
@@ -35,7 +119,7 @@ Kimsuky uses generative AI to produce phishing documents themed around digital a
 
 ---
 
-## 3. Robinhood brings crypto trading to main UK app through Bitstamp
+## 10. Robinhood brings crypto trading to main UK app through Bitstamp
 
 **Author:** James Hunt  
 **Published:** 8/10/2026, 7:00:00 AM  
