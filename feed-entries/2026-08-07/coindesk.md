@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-07"
 date: "2026-08-07"
 source: "CoinDesk"
-count: 12
+count: 11
 ---
 
 # CoinDesk - 2026-08-07
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ The chances of a Federal Reserve rate hike at its next meeting in September have
 With the U.S. crypto bill missing a crucial window before the Senate hangs its closed-for-summer sign, the alternatives are getting more attention.
 
 📖 [Read original article](https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning)
-
----
-
-## 12. Why Bitcoin's BIP-110 refuses to die despite near-zero miner support
-
-**Author:** Jamie Crawley,AI Boost  
-**Published:** 8/7/2026, 11:45:49 AM  
-**Categories:** Tech, Bitcoin News, News  
-
-BIP-110 has attracted only a sliver of miner support, yet its user-activated design means the proposal continues toward its activation date and (most likely) beyond.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/06/why-bitcoin-s-bip-110-refuses-to-die-despite-near-zero-miner-support)
 
 ---
