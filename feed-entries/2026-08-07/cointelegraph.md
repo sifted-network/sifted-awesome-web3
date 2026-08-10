@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-07"
 date: "2026-08-07"
 source: "Cointelegraph"
-count: 20
+count: 18
 ---
 
 # Cointelegraph - 2026-08-07
 
-20 items collected.
+18 items collected.
 
 ---
 
@@ -224,29 +224,5 @@ The latest bipartisan ethics proposal would reportedly require Trump to divest c
 Crypto exchange Bitget has signed an agreement with Gelephu Mindfulness City Authority to pursue a regulated local presence.
 
 📖 [Read original article](https://cointelegraph.com/news/bitget-explores-licensed-crypto-presence-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. US Senate pushes CLARITY Act vote to September
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/7/2026, 2:49:53 AM  
-**Categories:** Latest News  
-
-Senate Majority Leader John Thune confirmed that the chamber was “punting” the vote until September.
-
-📖 [Read original article](https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. MARA swings to Q2 loss as Bitcoin’s slump masks higher output
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 8/7/2026, 2:17:07 AM  
-**Categories:** Markets  
-
-Bitcoin miner MARA posted its highest quarterly Bitcoin production in over a year, but was overshadowed by a 28% decline in the average price of Bitcoin.
-
-📖 [Read original article](https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
