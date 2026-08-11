@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-10"
 date: "2026-08-10"
 source: "Cointelegraph"
-count: 19
+count: 18
 ---
 
 # Cointelegraph - 2026-08-10
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -23,13 +23,13 @@ A New York judge granted a motion filed by US prosecutors in July to stay the CF
 
 ---
 
-## 2. TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari
+## 2. Tron USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/10/2026, 7:47:01 PM  
 **Categories:** Latest News  
 
-Messari reported that TRON recorded all-time highs in stablecoin supply and network activity during the second quarter, while DeFi and decentralized exchange activity declined.
+Messari reported that Tron recorded all-time highs in stablecoin supply and network activity during the second quarter, while DeFi and decentralized exchange activity declined.
 
 📖 [Read original article](https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
@@ -83,7 +83,7 @@ Bitcoin wobbled with US stocks as Iran deflated hopes on the reopening of the St
 
 ---
 
-## 7. BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin
+## 7. BlackRock launches 2 Canada ETFs, with one allocating 3% to Bitcoin
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/10/2026, 3:59:06 PM  
@@ -167,19 +167,7 @@ The UK’s FCA is reportedly preparing a regulatory framework for tokenized gold
 
 ---
 
-## 14. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Robert Lakin  
-**Published:** 8/10/2026, 6:30:00 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’
+## 14. Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/10/2026, 5:18:27 AM  
@@ -191,7 +179,7 @@ Bitcoin Red Team has now found 1,288 critical and high-level vulnerabilities in 
 
 ---
 
-## 16. Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures
+## 15. Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/10/2026, 4:32:36 AM  
@@ -203,7 +191,7 @@ Australia’s financial watchdog has suspended Cryptolink’s registration for t
 
 ---
 
-## 17. Crypto’s first quantum attack will look like unexplained breach: Quantus founder
+## 16. Crypto’s first quantum attack will look like unexplained breach: Quantus founder
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/10/2026, 3:34:53 AM  
@@ -215,7 +203,7 @@ Bad actors with access to a cryptography-breaking quantum computer probably won�
 
 ---
 
-## 18. BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9
+## 17. BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 8/10/2026, 12:32:21 AM  
@@ -227,7 +215,7 @@ BIP-110 forks itself into oblivion with a “2-block chain” and CLARITY will f
 
 ---
 
-## 19. Ex-US defense secretary calls CLARITY Act a ‘national security bill’
+## 18. Ex-US defense secretary calls CLARITY Act a ‘national security bill’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/10/2026, 12:31:34 AM  
