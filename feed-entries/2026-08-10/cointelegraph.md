@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-08-10"
 date: "2026-08-10"
 source: "Cointelegraph"
-count: 15
+count: 19
 ---
 
 # Cointelegraph - 2026-08-10
 
-15 items collected.
+19 items collected.
 
 ---
 
-## 1. ‘Disappointing’ — crypto advocates react to delay in CLARITY vote
+## 1. Judge stays CFTC’s case against US soldier over prediction market bets
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/10/2026, 8:50:59 PM  
+**Categories:** Latest News  
+
+A New York judge granted a motion filed by US prosecutors in July to stay the CFTC’s civil case against Gannon Ken Van Dyke over making more than $400,000 on prediction markets.
+
+📖 [Read original article](https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/10/2026, 7:47:01 PM  
+**Categories:** Latest News  
+
+Messari reported that TRON recorded all-time highs in stablecoin supply and network activity during the second quarter, while DeFi and decentralized exchange activity declined.
+
+📖 [Read original article](https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. UK money laundering suspect bought $100M in Trump crypto business: NYT
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/10/2026, 7:35:19 PM  
+**Categories:** Latest News  
+
+An individual behind the Aqua 1 entity that purchased $100 million worth of World Liberty Financial tokens in 2025 is reportedly a businessman with ties to the UK and UAE.
+
+📖 [Read original article](https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Coinsbuy offers $100K reward after Sunday security breach
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/10/2026, 6:43:26 PM  
+**Categories:** Latest News  
+
+Coinsbuy said it covered all affected client funds after unauthorized withdrawals, while an onchain investigator estimated more than $7.9 million was stolen.
+
+📖 [Read original article](https://cointelegraph.com/news/coinsbuy-confirms-security-breach-after-wallets-reportedly-drained-of-79m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. ‘Disappointing’ — crypto advocates react to delay in CLARITY vote
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/10/2026, 5:08:34 PM  
@@ -23,7 +71,7 @@ Following a procedural delay in the US Senate, lawmakers are expected to address
 
 ---
 
-## 2. Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment
+## 6. Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/10/2026, 4:14:58 PM  
@@ -35,7 +83,7 @@ Bitcoin wobbled with US stocks as Iran deflated hopes on the reopening of the St
 
 ---
 
-## 3. BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin
+## 7. BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/10/2026, 3:59:06 PM  
@@ -47,7 +95,7 @@ BlackRock Canada’s new IBQT fund combines global equity exposure with a 3% Bit
 
 ---
 
-## 4. Bitdeer increased Bitcoin mining output by nearly fivefold in Q2
+## 8. Bitdeer increased Bitcoin mining output by nearly fivefold in Q2
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/10/2026, 1:07:42 PM  
@@ -59,7 +107,7 @@ Bitdeer mined 2,694 BTC in Q2, but ended the quarter holding just 150 BTC after 
 
 ---
 
-## 5. Strategy turns 1,690 BTC into $108.6M STRC buyback
+## 9. Strategy turns 1,690 BTC into $108.6M STRC buyback
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/10/2026, 12:36:32 PM  
@@ -71,7 +119,7 @@ Strategy sold 1,690 Bitcoin to repurchase STRC shares as its US dollar reserve r
 
 ---
 
-## 6. Tokenized RWA surge to $4T may push LINK to $200 by end-2030: Standard Chartered
+## 10. Tokenized RWA surge to $4T may push LINK to $200 by end-2030: Standard Chartered
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/10/2026, 11:39:39 AM  
@@ -83,7 +131,7 @@ The LINK token may see a 25-fold increase to $200 by the end of 2030, as the gro
 
 ---
 
-## 7. Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week
+## 11. Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/10/2026, 11:13:40 AM  
@@ -95,7 +143,7 @@ Bitcoin spiked to a new August high into Sunday’s weekly close as market parti
 
 ---
 
-## 8. H100 becomes Europe’s No. 2 Bitcoin treasury after 2,455 BTC deal
+## 12. H100 becomes Europe’s No. 2 Bitcoin treasury after 2,455 BTC deal
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/10/2026, 10:14:30 AM  
@@ -107,7 +155,7 @@ Sweden’s H100 more than tripled its Bitcoin holdings to 3,506 BTC after comple
 
 ---
 
-## 9. UK regulators to prepare tokenized gold framework: Report
+## 13. UK regulators to prepare tokenized gold framework: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/10/2026, 7:25:45 AM  
@@ -119,7 +167,7 @@ The UK’s FCA is reportedly preparing a regulatory framework for tokenized gold
 
 ---
 
-## 10. Here’s what happened in crypto today
+## 14. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 8/10/2026, 6:30:00 AM  
@@ -131,7 +179,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 11. Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’
+## 15. Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/10/2026, 5:18:27 AM  
@@ -143,7 +191,7 @@ Bitcoin Red Team has now found 1,288 critical and high-level vulnerabilities in 
 
 ---
 
-## 12. Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures
+## 16. Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/10/2026, 4:32:36 AM  
@@ -155,7 +203,7 @@ Australia’s financial watchdog has suspended Cryptolink’s registration for t
 
 ---
 
-## 13. Crypto’s first quantum attack will look like unexplained breach: Quantus founder
+## 17. Crypto’s first quantum attack will look like unexplained breach: Quantus founder
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/10/2026, 3:34:53 AM  
@@ -167,7 +215,7 @@ Bad actors with access to a cryptography-breaking quantum computer probably won�
 
 ---
 
-## 14. BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9
+## 18. BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 8/10/2026, 12:32:21 AM  
@@ -179,7 +227,7 @@ BIP-110 forks itself into oblivion with a “2-block chain” and CLARITY will f
 
 ---
 
-## 15. Ex-US defense secretary calls CLARITY Act a ‘national security bill’
+## 19. Ex-US defense secretary calls CLARITY Act a ‘national security bill’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 8/10/2026, 12:31:34 AM  
