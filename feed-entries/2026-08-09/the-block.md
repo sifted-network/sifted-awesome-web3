@@ -19,7 +19,7 @@ count: 2
 
 The businessman, Guren "Bobby" Zhou, has not been charged, though British officials told the Times that the investigation remained active as of late July.
 
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221)
 
 ---
 
@@ -31,6 +31,6 @@ The businessman, Guren "Bobby" Zhou, has not been charged, though British offici
 
 The new rule will take effect on Jan. 1, 2027, and will cover cryptocurrencies including fiat-backed stablecoins.
 
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219)
 
 ---
