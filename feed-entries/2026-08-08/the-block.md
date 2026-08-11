@@ -19,7 +19,7 @@ count: 3
 
 BIP-110 is a proposed one-year change that limits non-financial data on Bitcoin and has sparked a debate over how Bitcoin's block space should be used.
 
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213)
 
 ---
 
@@ -31,7 +31,7 @@ BIP-110 is a proposed one-year change that limits non-financial data on Bitcoin 
 
 The Senate is set to vote on the motion on Tuesday, Sept. 15, the day after the body returns, though at least seven non-Republicans will need to support it.
 
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211)
 
 ---
 
@@ -43,6 +43,6 @@ The Senate is set to vote on the motion on Tuesday, Sept. 15, the day after the 
 
 Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
 
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204)
 
 ---
