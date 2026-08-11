@@ -2,16 +2,64 @@
 title: "Decrypt - 2026-08-10"
 date: "2026-08-10"
 source: "Decrypt"
-count: 13
+count: 17
 ---
 
 # Decrypt - 2026-08-10
 
-13 items collected.
+17 items collected.
 
 ---
 
-## 1. Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk
+## 1. Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI
+
+**Author:** Jason Nelson  
+**Published:** 8/10/2026, 9:48:22 PM  
+**Categories:** , Coins  
+
+Ethereum’s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network’s technical ambitions.
+
+📖 [Read original article](https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai)
+
+---
+
+## 2. Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/10/2026, 9:02:43 PM  
+**Categories:** Business  
+
+AUSTRAC has suspended the registration of the operator running 96 of Australia's roughly 1,800 crypto ATMs, effective August 9.
+
+📖 [Read original article](https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown)
+
+---
+
+## 3. Hidden Text in PDFs Is Hijacking This AI Assistant
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/10/2026, 7:56:50 PM  
+**Categories:** Artificial Intelligence  
+
+A security firm says Atlassian's AI assistant will quietly ship your Jira tickets and Confluence docs to an attacker, using instructions buried in a file you'd swear was empty.
+
+📖 [Read original article](https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection)
+
+---
+
+## 4. Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/10/2026, 7:13:12 PM  
+**Categories:** , Coins  
+
+A Bitcoin address that sat untouched for more than 12 years just moved 26.96 BTC, worth about $1.75 million.
+
+📖 [Read original article](https://decrypt.co/375266/dormant-bitcoin-wallet-millions-wakes-up-12-years)
+
+---
+
+## 5. Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk
 
 **Author:** Jason Nelson  
 **Published:** 8/10/2026, 6:31:06 PM  
@@ -23,7 +71,7 @@ Banks financing the AI infrastructure boom are now weighing local public opposit
 
 ---
 
-## 2. Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK
+## 6. Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/10/2026, 5:51:04 PM  
@@ -35,7 +83,7 @@ A new report maps Brazil's push to bring its vast crypto market under formal sup
 
 ---
 
-## 3. Bitcoin Rally Fades—Where Does Price Go Next?
+## 7. Bitcoin Rally Fades—Where Does Price Go Next?
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/10/2026, 5:18:49 PM  
@@ -47,7 +95,7 @@ The price of Bitcoin is up on the seven-day chart, today bouncing to a high of $
 
 ---
 
-## 4. Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes
+## 8. Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes
 
 **Author:** Pauline Shangett  
 **Published:** 8/10/2026, 4:25:28 PM  
@@ -59,7 +107,7 @@ When the same mistake recurs across many users, it stops being client error and 
 
 ---
 
-## 5. XRP Price Weakens as Crypto Market Awaits Clarity
+## 9. XRP Price Weakens as Crypto Market Awaits Clarity
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/10/2026, 4:11:20 PM  
@@ -71,7 +119,7 @@ XRP is trading just above $1.00, still pinned under a death cross, as the legisl
 
 ---
 
-## 6. Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains
+## 10. Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains
 
 **Author:** Jason Nelson  
 **Published:** 8/10/2026, 3:56:30 PM  
@@ -83,7 +131,7 @@ The attacker moved funds across Tron and Ethereum before routing millions throug
 
 ---
 
-## 7. OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development
+## 11. OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/10/2026, 3:03:07 PM  
@@ -95,7 +143,7 @@ OpenAI says its next major model may be dangerous enough to write its own cyberw
 
 ---
 
-## 8. Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M
+## 12. Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M
 
 **Author:** Decrypt Agent  
 **Published:** 8/10/2026, 2:12:12 PM  
@@ -107,7 +155,7 @@ Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Al
 
 ---
 
-## 9. Morning Minute: Bitcoin ETFs See Biggest Inflows Since May
+## 13. Morning Minute: Bitcoin ETFs See Biggest Inflows Since May
 
 **Author:** Tyler Warner  
 **Published:** 8/10/2026, 12:32:19 PM  
@@ -119,7 +167,7 @@ And the ETH inflows were even bigger, when factoring in market cap.
 
 ---
 
-## 10. Strategy Sells $109M in Bitcoin as Dollar Reserve Tops $4.6B
+## 14. Strategy Sells $109M in Bitcoin as Dollar Reserve Tops $4.6B
 
 **Author:** Decrypt Agent  
 **Published:** 8/10/2026, 12:24:48 PM  
@@ -131,7 +179,7 @@ All of the proceeds went into a $109 million STRC buyback, while the company sol
 
 ---
 
-## 11. Bitcoin ETFs Draw $854M Over Five Days as Rate-Hike Bets Fade
+## 15. Bitcoin ETFs Draw $854M Over Five Days as Rate-Hike Bets Fade
 
 **Author:** Decrypt Agent  
 **Published:** 8/10/2026, 12:14:57 PM  
@@ -143,7 +191,7 @@ Daily totals shrank as the week wore on, and analysts are split on whether the r
 
 ---
 
-## 12. Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030
+## 16. Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030
 
 **Author:** Decrypt Agent  
 **Published:** 8/10/2026, 10:19:06 AM  
@@ -155,7 +203,7 @@ The bank has now set 2030 targets for Uniswap, Aave, Morpho and Chainlink, all r
 
 ---
 
-## 13. Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets
+## 17. Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets
 
 **Author:** Decrypt Agent  
 **Published:** 8/10/2026, 9:04:00 AM  
