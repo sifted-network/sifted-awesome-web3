@@ -19,7 +19,7 @@ count: 12
 
 BTCPay said AI may have been used to exploit vulnerability, and credited Craig Raw and the Bitcoin Red Team fund for reporting the issue.
 
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-10-btcpay-server-supporters-offer-3-btc-recovery-bounty-critical-exploit-411353?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-10-btcpay-server-supporters-offer-3-btc-recovery-bounty-critical-exploit-411353)
 
 ---
 
@@ -31,7 +31,7 @@ BTCPay said AI may have been used to exploit vulnerability, and credited Craig R
 
 "That decoupling is healthy because it’s part of the thesis for a lot of people around bitcoin as a diversifier," says BlackRock.
 
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-10-blackrock-says-bitcoin-sentiment-turning-decoupling-stocks-takes-hold-411333?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/markets/2026-08-10-blackrock-says-bitcoin-sentiment-turning-decoupling-stocks-takes-hold-411333)
 
 ---
 
@@ -43,7 +43,7 @@ BTCPay said AI may have been used to exploit vulnerability, and credited Craig R
 
 Like many other Bitcoin miners, Keel has been shifting its focus from mining in favor of becoming a supplier of AI infrastructure.
 
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-keel-shutters-us-bitcoin-mining-operations-amid-ai-pivot-411302?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-keel-shutters-us-bitcoin-mining-operations-amid-ai-pivot-411302)
 
 ---
 
@@ -55,7 +55,7 @@ Like many other Bitcoin miners, Keel has been shifting its focus from mining in 
 
 Buterin previously said the upgrades included in Lean Ethereum will form the protocol's “third major iteration.”
 
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-10-vitalik-buterin-privacy-quantum-resistance-front-and-center-ethereum-latest-roadmap-411298?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-10-vitalik-buterin-privacy-quantum-resistance-front-and-center-ethereum-latest-roadmap-411298)
 
 ---
 
@@ -67,7 +67,7 @@ Buterin previously said the upgrades included in Lean Ethereum will form the pro
 
 The company is focused increasingly focused on becoming a provider of AI infrastructure, expanding beyond its core bitcoin mining business.
 
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-bitcoin-miner-bitdeer-shares-sink-despite-revenue-growth-progress-ai-pivot-411276?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-bitcoin-miner-bitdeer-shares-sink-despite-revenue-growth-progress-ai-pivot-411276)
 
 ---
 
@@ -79,7 +79,7 @@ The company is focused increasingly focused on becoming a provider of AI infrast
 
 H100 paid for the deal with 790.5 million newly issued shares, and the company is now within striking distance of big BTC treasury players.
 
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-adam-back-backed-h100-more-triples-bitcoin-holdings-3506-btc-acquisition-411270?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-adam-back-backed-h100-more-triples-bitcoin-holdings-3506-btc-acquisition-411270)
 
 ---
 
@@ -91,7 +91,7 @@ H100 paid for the deal with 790.5 million newly issued shares, and the company i
 
 Crypto lost roughly $110 million to hacks in July as Immunefi said its audit competitions outperformed tier-1 audits.
 
-📖 [Read original article](https://www.theblock.co/news/defi/2026-08-10-crypto-hacks-july-immunefi-411246?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/defi/2026-08-10-crypto-hacks-july-immunefi-411246)
 
 ---
 
@@ -103,7 +103,7 @@ Crypto lost roughly $110 million to hacks in July as Immunefi said its audit com
 
 Bitmine bought 7,391 ether last week, lifting its total Ethereum treasury to 5.81 million ETH, worth roughly $11 billion.
 
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-bitmine-adds-7391-eth-411265?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-bitmine-adds-7391-eth-411265)
 
 ---
 
@@ -115,7 +115,7 @@ Bitmine bought 7,391 ether last week, lifting its total Ethereum treasury to 5.8
 
 Standard Chartered bets Chainlink owns the rails for tokenized finance, initiating LINK coverage with a $200 target by end-2030.
 
-📖 [Read original article](https://www.theblock.co/news/defi/2026-08-10-standard-chartered-chainlink-tokenization-411252?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/defi/2026-08-10-standard-chartered-chainlink-tokenization-411252)
 
 ---
 
@@ -127,7 +127,7 @@ Standard Chartered bets Chainlink owns the rails for tokenized finance, initiati
 
 Strategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth roughly $55 billion.
 
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-michael-saylor-strategy-bitcoin-treasury-411237?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-michael-saylor-strategy-bitcoin-treasury-411237)
 
 ---
 
@@ -139,7 +139,7 @@ Strategy's total holdings account for roughly 4% of the 21 million bitcoin suppl
 
 Kimsuky uses generative AI to produce phishing documents themed around digital assets, investment strategies, and fintech services.
 
-📖 [Read original article](https://www.theblock.co/news/defi/2026-08-10-north-korea-kimsuky-ai-crypto-411229?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/defi/2026-08-10-north-korea-kimsuky-ai-crypto-411229)
 
 ---
 
@@ -151,6 +151,6 @@ Kimsuky uses generative AI to produce phishing documents themed around digital a
 
 The launch adds crypto alongside stocks, ISAs, options, and futures in the UK as Robinhood continues to expand its broader crypto ecosystem.
 
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-robinhood-uk-crypto-trading-bitstamp-411140?utm_source=rss&utm_medium=rss)
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-robinhood-uk-crypto-trading-bitstamp-411140)
 
 ---
