@@ -2,16 +2,64 @@
 title: "CoinDesk - 2026-08-11"
 date: "2026-08-11"
 source: "CoinDesk"
-count: 20
+count: 24
 ---
 
 # CoinDesk - 2026-08-11
 
-20 items collected.
+24 items collected.
 
 ---
 
-## 1. MoneyGram expands on Solana with global crypto-to-cash service
+## 1. EToro reports second quarter crypto loss even as total profit beats estimates
+
+**Author:** Olivier Acuna  
+**Published:** 8/11/2026, 5:12:11 PM  
+**Categories:** Finance, Crypto Trading, News  
+
+The trading platform’s gross crypto revenue fell to $1.35 billion in the second quarter. It also agreed to buy U.S. brokerage TradeZero for up to $231 million.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025)
+
+---
+
+## 2. If crypto goes back to the congressional drawing board, 3 Democrat women loom large
+
+**Author:** Jesse Hamilton  
+**Published:** 8/11/2026, 2:40:15 PM  
+**Categories:** News Analysis, Clarity Act, Regulation, News  
+
+The Democrats who may get a bigger say in future crypto legislative efforts are familiar figures, and they generally look at digital assets with distrust.
+
+📖 [Read original article](https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large)
+
+---
+
+## 3. Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT
+
+**Author:** Francisco Rodrigues  
+**Published:** 8/11/2026, 2:39:12 PM  
+**Categories:** Finance, Fundraising, banks, News  
+
+Total deposits grew from $1.1 billion in March to $4.6 billion by July, driven by clients in crypto, AI and defense.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft)
+
+---
+
+## 4. Pokémon cards are becoming multibillion dollar market. Crypto wants to fix how they trade
+
+**Author:** Aoyon Ashraf  
+**Published:** 8/11/2026, 1:06:07 PM  
+**Categories:** Finance, Exclusive, News  
+
+Collectors are spending millions on trading cards, while blockchain startups are turning physical Pokémon cards into digital assets. The harder task is creating enough liquidity to compete with established marketplaces.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/11/pokemon-cards-are-becoming-multibillion-dollar-market-crypto-wants-to-fix-how-they-trade)
+
+---
+
+## 5. MoneyGram expands on Solana with global crypto-to-cash service
 
 **Author:** Krisztian Sandor  
 **Published:** 8/11/2026, 12:02:22 PM  
@@ -23,7 +71,7 @@ Wallets and apps on Solana can now tap MoneyGram's global network to move betwee
 
 ---
 
-## 2. Australian watchdog suspends Cryptolink, forcing 96 ATMs offline
+## 6. Australian watchdog suspends Cryptolink, forcing 96 ATMs offline
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/11/2026, 11:45:47 AM  
@@ -35,7 +83,7 @@ The regulator cited missing transaction reports and the company’s failure to r
 
 ---
 
-## 3. Ravencoin could roll back four days of transactions after critical block flaw
+## 7. Ravencoin, a blockchain built from Bitcoin’s code, could roll back four days of transactions
 
 **Author:** Shaurya Malwa  
 **Published:** 8/11/2026, 11:24:56 AM  
@@ -47,7 +95,7 @@ Two mining pools controlling most of Ravencoin’s hashpower are building a repl
 
 ---
 
-## 4. Coinbase picks Abu Dhabi for its global tokenized asset push
+## 8. Coinbase picks Abu Dhabi for its global tokenized asset push
 
 **Author:** Krisztian Sandor  
 **Published:** 8/11/2026, 11:23:25 AM  
@@ -59,7 +107,7 @@ The crypto exchange said it secured regulatory approval to offer tokenized secur
 
 ---
 
-## 5. When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.
+## 9. When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.
 
 **Author:** Omkar Godbole  
 **Published:** 8/11/2026, 11:13:55 AM  
@@ -71,7 +119,7 @@ Your day-ahead look for Aug. 11 2026
 
 ---
 
-## 6. Bitcoin-backed lending is entering its institutional era: Two Prime
+## 10. Bitcoin-backed lending is entering its institutional era: Two Prime
 
 **Author:** James Van Straten  
 **Published:** 8/11/2026, 11:04:28 AM  
@@ -83,7 +131,7 @@ Public companies are increasingly borrowing against their bitcoin holdings to fu
 
 ---
 
-## 7. Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1
+## 11. Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 8/11/2026, 10:48:08 AM  
@@ -95,9 +143,9 @@ The Strait of Hormuz relief trade unraveled after Trump demanded 50 years of Ira
 
 ---
 
-## 8. Live updates: Bitcoin holds $64,200; Anthropic to watermark Claude's AI content after EU regulations
+## 12. Live updates: Bitcoin falls to $63,500; Anthropic to watermark Claude's AI content after EU regulations
 
-**Author:** Shaurya Malwa  
+**Author:** Shaurya Malwa,James Van Straten,Krisztian Sandor  
 **Published:** 8/11/2026, 10:34:52 AM  
 **Categories:** Tech, Live News, live_news  
 
@@ -107,7 +155,7 @@ FxPro’s Alex Kuptsikevich said companies that helped give bitcoin institutiona
 
 ---
 
-## 9. FlightAware sues Kalshi over bets on flight cancellations
+## 13. FlightAware sues Kalshi over bets on flight cancellations
 
 **Author:** Olivier Acuna  
 **Published:** 8/11/2026, 10:34:17 AM  
@@ -119,7 +167,7 @@ The flight-tracking company alleges Kalshi used its data and trademark without p
 
 ---
 
-## 10. Software stocks break away from bitcoin: What the rare divergence means for crypto
+## 14. Software stocks break away from bitcoin: What the rare divergence means for crypto
 
 **Author:** James Van Straten  
 **Published:** 8/11/2026, 10:31:26 AM  
@@ -131,7 +179,7 @@ IGV’s rebound is reshaping a relationship it held with bitcoin for years, but 
 
 ---
 
-## 11. Luke Dashjr removed as Bitcoin BIP editor after controversial BIP-110 fork stalls
+## 15. Luke Dashjr removed as Bitcoin BIP editor after controversial BIP-110 fork stalls
 
 **Author:** Jamie Crawley  
 **Published:** 8/11/2026, 10:28:19 AM  
@@ -143,7 +191,7 @@ Dashjr said he is taking a sabbatical from his role as chair and chief technolog
 
 ---
 
-## 12. Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind
+## 16. Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 8/11/2026, 10:10:36 AM  
@@ -155,7 +203,7 @@ Nvidia has signed memorandums of understanding with six major Wall Street firms 
 
 ---
 
-## 13. UK lawmakers question lenders over lack of banking for the country’s crypto firms
+## 17. UK lawmakers question lenders over lack of banking for the country’s crypto firms
 
 **Author:** Ian Allison  
 **Published:** 8/11/2026, 10:06:39 AM  
@@ -167,7 +215,7 @@ The U.K.’s Crypto and Digital Assets All-Party Parliamentary Group asked banks
 
 ---
 
-## 14. Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal
+## 18. Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal
 
 **Author:** James Van Straten  
 **Published:** 8/11/2026, 9:37:36 AM  
@@ -179,7 +227,7 @@ The bitcoin miner’s 20-year agreement highlights an industry-wide shift toward
 
 ---
 
-## 15. A $2 trillion asset class is getting a new blockchain rail
+## 19. A $2 trillion asset class is getting a new blockchain rail
 
 **Author:** Omkar Godbole  
 **Published:** 8/11/2026, 7:19:09 AM  
@@ -191,7 +239,7 @@ ADI Chain and Shipfinex are partnering to tokenize commercial ships, aiming to o
 
 ---
 
-## 16. BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit
+## 20. BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit
 
 **Author:** Shaurya Malwa  
 **Published:** 8/11/2026, 6:19:07 AM  
@@ -203,7 +251,7 @@ The project said it will pay 10% of recovered funds, up to 3 BTC, after attacker
 
 ---
 
-## 17. Bitcoin’s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself
+## 21. Bitcoin’s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself
 
 **Author:** Shaurya Malwa  
 **Published:** 8/11/2026, 5:26:37 AM  
@@ -215,7 +263,7 @@ The breakaway chain has produced two blocks since splitting off on Saturday. Bit
 
 ---
 
-## 18. XRP, ether lead crypto losses as traders eye $70,000 bitcoin next
+## 22. XRP, ether lead crypto losses as traders eye $70,000 bitcoin next
 
 **Author:** Shaurya Malwa  
 **Published:** 8/11/2026, 4:50:23 AM  
@@ -227,7 +275,7 @@ Bitcoin failed to hold $65,000 for a fourth day as an oil rally revived inflatio
 
 ---
 
-## 19. U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings
+## 23. U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings
 
 **Author:** Jesse Hamilton  
 **Published:** 8/11/2026, 4:07:48 AM  
@@ -239,7 +287,7 @@ The Securities and Exchange Commission will vote this week to start its first ma
 
 ---
 
-## 20. Bitcoin's 'strongest hands' are back, on-chain data show
+## 24. Bitcoin's 'strongest hands' are back, on-chain data show
 
 **Author:** Omkar Godbole  
 **Published:** 8/11/2026, 3:48:40 AM  
