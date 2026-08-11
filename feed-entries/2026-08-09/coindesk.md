@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-09"
 date: "2026-08-09"
 source: "CoinDesk"
-count: 5
+count: 4
 ---
 
 # CoinDesk - 2026-08-09
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Bitcoin ETFs recorded $853.54 million in net inflows last week, the strongest si
 An industry-wide reckoning is weeding out unsustainable startups, leaving behind only the protocols with real cash flow and actual users.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026)
-
----
-
-## 5. Controversial Bitcoin fork BIP-110 mines two blocks, then stops
-
-**Author:** Shaurya Malwa  
-**Published:** 8/9/2026, 5:08:20 AM  
-**Categories:** Tech, News  
-
-The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
 
 ---
