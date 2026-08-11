@@ -2,16 +2,40 @@
 title: "The Block - 2026-08-10"
 date: "2026-08-10"
 source: "The Block"
-count: 10
+count: 12
 ---
 
 # The Block - 2026-08-10
 
-10 items collected.
+12 items collected.
 
 ---
 
-## 1. Keel shutters all US bitcoin mining operations amid continuing AI pivot
+## 1. BTCPay Server supporters offer up to 3 BTC for recovery bounty after critical exploit
+
+**Author:** Daniel Kuhn  
+**Published:** 8/10/2026, 8:59:57 PM  
+**Categories:** Companies, Crypto Ecosystems, Finance firms, Security, Web3, AI, Exploits, Payments  
+
+BTCPay said AI may have been used to exploit vulnerability, and credited Craig Raw and the Bitcoin Red Team fund for reporting the issue.
+
+📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-10-btcpay-server-supporters-offer-3-btc-recovery-bounty-critical-exploit-411353?utm_source=rss&utm_medium=rss)
+
+---
+
+## 2. BlackRock says bitcoin sentiment is turning as decoupling from stocks takes hold
+
+**Author:** RT Watson  
+**Published:** 8/10/2026, 7:30:16 PM  
+**Categories:** Companies, Crypto Ecosystems, Finance firms, Funds, Layer 1s, Markets, Public Equities, Token Projects, Bitcoin, Bitcoin ETF, BlackRock  
+
+"That decoupling is healthy because it’s part of the thesis for a lot of people around bitcoin as a diversifier," says BlackRock.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-08-10-blackrock-says-bitcoin-sentiment-turning-decoupling-stocks-takes-hold-411333?utm_source=rss&utm_medium=rss)
+
+---
+
+## 3. Keel shutters all US bitcoin mining operations amid continuing AI pivot
 
 **Author:** RT Watson  
 **Published:** 8/10/2026, 5:05:14 PM  
@@ -23,7 +47,7 @@ Like many other Bitcoin miners, Keel has been shifting its focus from mining in 
 
 ---
 
-## 2. Vitalik Buterin puts privacy and quantum resistance front and center in Ethereum’s latest roadmap
+## 4. Vitalik Buterin puts privacy and quantum resistance front and center in Ethereum’s latest roadmap
 
 **Author:** Daniel Kuhn  
 **Published:** 8/10/2026, 4:24:44 PM  
@@ -35,7 +59,7 @@ Buterin previously said the upgrades included in Lean Ethereum will form the pro
 
 ---
 
-## 3. Bitcoin miner Bitdeer’s shares sink 15% despite revenue growth, progress on AI pivot
+## 5. Bitcoin miner Bitdeer’s shares sink 15% despite revenue growth, progress on AI pivot
 
 **Author:** RT Watson  
 **Published:** 8/10/2026, 3:38:10 PM  
@@ -47,7 +71,7 @@ The company is focused increasingly focused on becoming a provider of AI infrast
 
 ---
 
-## 4. Adam Back-backed H100 more than triples bitcoin holdings to 3,506 BTC in acquisition deal
+## 6. Adam Back-backed H100 more than triples bitcoin holdings to 3,506 BTC in acquisition deal
 
 **Author:** Kyle Baird  
 **Published:** 8/10/2026, 2:57:17 PM  
@@ -59,7 +83,7 @@ H100 paid for the deal with 790.5 million newly issued shares, and the company i
 
 ---
 
-## 5. Crypto lost $110 million to hacks in July amid rising bug bounty activity: Immunefi
+## 7. Crypto lost $110 million to hacks in July amid rising bug bounty activity: Immunefi
 
 **Author:** Brian Danga  
 **Published:** 8/10/2026, 2:00:00 PM  
@@ -71,7 +95,7 @@ Crypto lost roughly $110 million to hacks in July as Immunefi said its audit com
 
 ---
 
-## 6. Bitmine adds 7,391 ether in a week, bringing total Ethereum holdings to 5.81 million ETH
+## 8. Bitmine adds 7,391 ether in a week, bringing total Ethereum holdings to 5.81 million ETH
 
 **Author:** Brian Danga  
 **Published:** 8/10/2026, 1:53:42 PM  
@@ -83,7 +107,7 @@ Bitmine bought 7,391 ether last week, lifting its total Ethereum treasury to 5.8
 
 ---
 
-## 7. ‘Owning the rails’: Standard Chartered sees LINK at $200 by 2030 as Chainlink underpins tokenized-asset boom
+## 9. ‘Owning the rails’: Standard Chartered sees LINK at $200 by 2030 as Chainlink underpins tokenized-asset boom
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 8/10/2026, 1:04:18 PM  
@@ -95,7 +119,7 @@ Standard Chartered bets Chainlink owns the rails for tokenized finance, initiati
 
 ---
 
-## 8. Michael Saylor’s Strategy sells another 1,690 BTC as USD reserve hits $4.65 billion
+## 10. Michael Saylor’s Strategy sells another 1,690 BTC as USD reserve hits $4.65 billion
 
 **Author:** James Hunt  
 **Published:** 8/10/2026, 12:09:39 PM  
@@ -107,7 +131,7 @@ Strategy's total holdings account for roughly 4% of the 21 million bitcoin suppl
 
 ---
 
-## 9. North Korea’s Kimsuky integrates AI into cyberattacks targeting crypto and finance
+## 11. North Korea’s Kimsuky integrates AI into cyberattacks targeting crypto and finance
 
 **Author:** Danny Park  
 **Published:** 8/10/2026, 8:35:09 AM  
@@ -119,7 +143,7 @@ Kimsuky uses generative AI to produce phishing documents themed around digital a
 
 ---
 
-## 10. Robinhood brings crypto trading to main UK app through Bitstamp
+## 12. Robinhood brings crypto trading to main UK app through Bitstamp
 
 **Author:** James Hunt  
 **Published:** 8/10/2026, 7:00:00 AM  
