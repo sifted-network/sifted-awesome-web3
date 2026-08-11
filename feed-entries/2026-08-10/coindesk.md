@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-10"
 date: "2026-08-10"
 source: "CoinDesk"
-count: 21
+count: 20
 ---
 
 # CoinDesk - 2026-08-10
 
-21 items collected.
+20 items collected.
 
 ---
 
@@ -248,17 +248,5 @@ Ocean, a bitcoin mining pool, had been backing BIP-110 by default. Simple Mining
 Every major except XRP is green on the week, with BTC, ether and BNB each up nearly 3% as global stocks trade near a record.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week)
-
----
-
-## 21. XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money
-
-**Author:** Omkar Godbole  
-**Published:** 8/10/2026, 4:26:01 AM  
-**Categories:** Markets, XRP News, News  
-
-The token fell 5% last week while BTC, ETH and SOL climbed.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money)
 
 ---
