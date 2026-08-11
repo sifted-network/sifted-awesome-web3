@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-08-10"
 date: "2026-08-10"
 source: "CoinDesk"
-count: 18
+count: 21
 ---
 
 # CoinDesk - 2026-08-10
 
-18 items collected.
+21 items collected.
 
 ---
 
-## 1. Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans
+## 1. Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million
+
+**Author:** Krisztian Sandor  
+**Published:** 8/10/2026, 9:12:07 PM  
+**Categories:** Finance, Trump, Bitcoin News, News  
+
+The Truth Social parent held 9,477 BTC worth $557 million at the end of June, while its Cronos position also suffered a steep drop in value.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million)
+
+---
+
+## 2. Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions
+
+**Author:** AI Boost  
+**Published:** 8/10/2026, 8:20:06 PM  
+**Categories:** CoinDesk News, Media Network Interview, Bitwise, Circle, Stablecoins, News  
+
+Bitwise's Ryan Rasmussen says investors are underestimating Circle as stablecoins expand and the company builds out its payments infrastructure.
+
+📖 [Read original article](https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions)
+
+---
+
+## 3. Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors
+
+**Author:** AI Boost  
+**Published:** 8/10/2026, 8:03:24 PM  
+**Categories:** CoinDesk News, Media Network Interview, MicroStrategy, Bitcoin News, News  
+
+Strategy is holding billions in cash after learning that traditional investors don’t necessarily view its massive bitcoin reserves as a substitute for dollars.
+
+📖 [Read original article](https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors)
+
+---
+
+## 4. Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/10/2026, 3:02:14 PM  
@@ -23,7 +59,7 @@ The asset manager said it no longer intends to proceed with the offerings. None 
 
 ---
 
-## 2. Solana lending giant Jupiter now lets the same dollar earn twice
+## 5. Solana lending giant Jupiter now lets the same dollar earn twice
 
 **Author:** Shaurya Malwa  
 **Published:** 8/10/2026, 2:30:00 PM  
@@ -35,7 +71,7 @@ The new Lend v2 product turns deposits and borrowed assets into trading liquidit
 
 ---
 
-## 3. Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks
+## 6. Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks
 
 **Author:** Krisztian Sandor  
 **Published:** 8/10/2026, 1:50:51 PM  
@@ -47,7 +83,7 @@ Chairman Tom Lee said easing financial conditions could support crypto, even as 
 
 ---
 
-## 4. Solana gets its first Strategy STRC product through Solstice Finance
+## 7. Solana gets its first Strategy STRC product through Solstice Finance
 
 **Author:** Olivier Acuna  
 **Published:** 8/10/2026, 1:26:36 PM  
@@ -59,7 +95,7 @@ The Solana vault splits income from Strategy’s preferred stock into a lower-ri
 
 ---
 
-## 5. Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares
+## 8. Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares
 
 **Author:** James Van Straten  
 **Published:** 8/10/2026, 12:09:26 PM  
@@ -71,7 +107,7 @@ The company increased its USD reserve to $4.65 billion while reducing its bitcoi
 
 ---
 
-## 6. Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack
+## 9. Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack
 
 **Author:** Oliver Knight  
 **Published:** 8/10/2026, 11:39:44 AM  
@@ -83,7 +119,7 @@ Onchain forensics tie a single actor to an $8 million coordinated drain across T
 
 ---
 
-## 7. UK’s FCA to regulate tokenized gold to preserve London’s place as the top hub for bullion
+## 10. UK’s FCA to regulate tokenized gold to preserve London’s place as the top hub for bullion
 
 **Author:** Olivier Acuna  
 **Published:** 8/10/2026, 11:38:33 AM  
@@ -95,7 +131,7 @@ The FCA said it will 'have more to say on' their approach to tokenization, as it
 
 ---
 
-## 8. Bitcoin's BIP-110 episode is free-market capitalism in purest form
+## 11. Bitcoin's BIP-110 episode is free-market capitalism in purest form
 
 **Author:** Omkar Godbole  
 **Published:** 8/10/2026, 11:31:29 AM  
@@ -107,7 +143,7 @@ Your day-ahead look for Aug. 10, 2026
 
 ---
 
-## 9. Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets
+## 12. Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 8/10/2026, 10:45:43 AM  
@@ -119,7 +155,7 @@ BTC rose to $65,209 and Nasdaq 100 index futures gained 0.45% on reports that Ir
 
 ---
 
-## 10. Bitcoin volatility is in meltdown, but downside protection still commands a premium
+## 13. Bitcoin volatility is in meltdown, but downside protection still commands a premium
 
 **Author:** Omkar Godbole  
 **Published:** 8/10/2026, 10:13:58 AM  
@@ -131,7 +167,7 @@ Bitcoin’s BVIV volatility index hit the lowest level since 2025 as option dema
 
 ---
 
-## 11. A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally
+## 14. A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally
 
 **Author:** James Van Straten  
 **Published:** 8/10/2026, 9:09:32 AM  
@@ -143,7 +179,7 @@ CME leveraged funds turn net long as weak futures yields undermine the once-popu
 
 ---
 
-## 12. U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead
+## 15. U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/10/2026, 8:57:04 AM  
@@ -155,7 +191,7 @@ Your look at what's coming in the week starting Aug. 10
 
 ---
 
-## 13. Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard
+## 16. Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard
 
 **Author:** Ian Allison  
 **Published:** 8/10/2026, 7:52:00 AM  
@@ -167,7 +203,7 @@ Early BVNK investor Concentric shares a fascinating inside view on the stablecoi
 
 ---
 
-## 14. Robinhood brings crypto trading to UK in AI-powered all-in-one app
+## 17. Robinhood brings crypto trading to UK in AI-powered all-in-one app
 
 **Author:** Ian Allison  
 **Published:** 8/10/2026, 7:00:00 AM  
@@ -179,7 +215,7 @@ The trading firm is also introducing “Robinhood Cortex Digests for Crypto,” 
 
 ---
 
-## 15. Live updates: WTI crude oil up 5% and back to $80, as bitcoin drops below $64,000
+## 18. Live updates: WTI crude oil up 5% and back to $80, as bitcoin drops below $64,000
 
 **Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Krisztian Sandor  
 **Published:** 8/10/2026, 6:56:50 AM  
@@ -191,7 +227,7 @@ The market rose even as the Senate left the crypto bill unpassed before its rece
 
 ---
 
-## 16. This bitcoin miner rejected BIP-110 despite mining through a pool that supported it
+## 19. This bitcoin miner rejected BIP-110 despite mining through a pool that supported it
 
 **Author:** Shaurya Malwa  
 **Published:** 8/10/2026, 6:25:17 AM  
@@ -203,7 +239,7 @@ Ocean, a bitcoin mining pool, had been backing BIP-110 by default. Simple Mining
 
 ---
 
-## 17. Bitcoin tops $65,000 with U.S. inflation data due this week
+## 20. Bitcoin tops $65,000 with U.S. inflation data due this week
 
 **Author:** Shaurya Malwa  
 **Published:** 8/10/2026, 4:39:37 AM  
@@ -215,7 +251,7 @@ Every major except XRP is green on the week, with BTC, ether and BNB each up nea
 
 ---
 
-## 18. XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money
+## 21. XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money
 
 **Author:** Omkar Godbole  
 **Published:** 8/10/2026, 4:26:01 AM  
