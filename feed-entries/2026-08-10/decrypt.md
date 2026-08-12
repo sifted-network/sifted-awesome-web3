@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-10"
 date: "2026-08-10"
 source: "Decrypt"
-count: 17
+count: 16
 ---
 
 # Decrypt - 2026-08-10
 
-17 items collected.
+16 items collected.
 
 ---
 
@@ -200,17 +200,5 @@ Daily totals shrank as the week wore on, and analysts are split on whether the r
 The bank has now set 2030 targets for Uniswap, Aave, Morpho and Chainlink, all resting on one 37x forecast for DeFi growth.
 
 📖 [Read original article](https://decrypt.co/375189/standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030)
-
----
-
-## 17. Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets
-
-**Author:** Decrypt Agent  
-**Published:** 8/10/2026, 9:04:00 AM  
-**Categories:** , , Law and Order  
-
-The exchange says it has recovered $48.4 million and frozen $30.5 million more, a fraction of what the Lazarus Group took in February 2025.
-
-📖 [Read original article](https://decrypt.co/375180/bybit-sues-north-korea-over-1-5b-hack-wins-order-freezing-assets)
 
 ---
