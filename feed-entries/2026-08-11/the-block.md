@@ -2,16 +2,52 @@
 title: "The Block - 2026-08-11"
 date: "2026-08-11"
 source: "The Block"
-count: 18
+count: 20
 ---
 
 # The Block - 2026-08-11
 
-18 items collected.
+20 items collected.
 
 ---
 
-## 1. ENS Foundation takes administrative control of $65 million Endowment following tokenholder vote
+## 1. Robinhood Chain hits 11.6 million daily transactions as USDe fuels TVL growth
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 8/11/2026, 10:26:02 PM  
+**Categories:** Companies, Crypto Ecosystems, Exchanges, Markets, Public Equities, Robinhood  
+
+There is a clear divergence for Robinhood Chain in the number of transactions and TVL growing against a stagnating user base.
+
+📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-11-robinhood-chain-hits-11-6-million-daily-transactions-as-usde-fuels-tvl-growth-411310)
+
+---
+
+## 2. CFTC flexes emergency authority to keep Kalshi operating amid New York lawsuit
+
+**Author:** Sarah Wynn  
+**Published:** 8/11/2026, 10:00:30 PM  
+**Categories:** Policy, Regulation, CFTC  
+
+The CFTC flexed its emergency authority and ordered Kalshi to keep operating after the platform was sued last month in New York.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-11-cftc-flexes-emergency-authority-kalshi-operating-amid-new-york-lawsuit-411507)
+
+---
+
+## 3. Florida man charged by CFTC over $397 million crypto Ponzi scheme
+
+**Author:** Sarah Wynn  
+**Published:** 8/11/2026, 8:14:55 PM  
+**Categories:** Policy, Regulation, CFTC  
+
+A Florida man is facing fresh charges from the CFTC after the agency says he misappropriated $48 million dollars of customers' money.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-11-florida-man-charged-by-cftc-over-397-million-crypto-ponzi-scheme-411491)
+
+---
+
+## 4. ENS Foundation takes administrative control of $65 million Endowment following tokenholder vote
 
 **Author:** Daniel Kuhn  
 **Published:** 8/11/2026, 6:49:47 PM  
@@ -23,7 +59,7 @@ ENS tokenholders voted to transform the ENS Foundation into a fully operational 
 
 ---
 
-## 2. What’s next for the Clarity Act as September brings a tough road ahead
+## 5. What’s next for the Clarity Act as September brings a tough road ahead
 
 **Author:** Sarah Wynn  
 **Published:** 8/11/2026, 6:35:00 PM  
@@ -35,7 +71,7 @@ The outlook for crypto legislation is growing increasingly bleak, following Sen.
 
 ---
 
-## 3. SEC could propose ‘pivotal’ crypto rules that may start with token safe harbor, TD Cowen says
+## 6. SEC could propose ‘pivotal’ crypto rules that may start with token safe harbor, TD Cowen says
 
 **Author:** Yogita Khatri  
 **Published:** 8/11/2026, 5:14:08 PM  
@@ -47,7 +83,7 @@ The SEC’s crypto regulation meeting on Friday could mark the start of a “piv
 
 ---
 
-## 4. New Bitcoin addresses jump as Coldcard exploit pushes users to move funds
+## 7. New Bitcoin addresses jump as Coldcard exploit pushes users to move funds
 
 **Author:** Ivan Wu and Bryan Samsoedin  
 **Published:** 8/11/2026, 4:46:02 PM  
@@ -59,7 +95,7 @@ The number of new Bitcoin addresses climbed from 260,000 to 330,000, a sharp bre
 
 ---
 
-## 5. From bitcoin bull to ‘complete demolition’: Keel CEO bets on AI’s greater value
+## 8. From bitcoin bull to ‘complete demolition’: Keel CEO bets on AI’s greater value
 
 **Author:** RT Watson  
 **Published:** 8/11/2026, 3:48:01 PM  
@@ -71,7 +107,7 @@ In May 2025, Keel's CEO said firm's bitcoin business was “strong” and said c
 
 ---
 
-## 6. Twenty One Capital takes $414 million Q2 loss as new CEO plots path to become ‘more than a Bitcoin treasury’
+## 9. Twenty One Capital takes $414 million Q2 loss as new CEO plots path to become ‘more than a Bitcoin treasury’
 
 **Author:** Kyle Baird  
 **Published:** 8/11/2026, 3:15:42 PM  
@@ -83,7 +119,7 @@ Twenty One’s new CEO lays out plans to build beyond its massive bitcoin treasu
 
 ---
 
-## 7. Bitcoin slips toward $64,000 as traders await Wednesday’s inflation test
+## 10. Bitcoin slips toward $64,000 as traders await Wednesday’s inflation test
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 8/11/2026, 2:34:02 PM  
@@ -95,7 +131,7 @@ Bitcoin eased toward $64,000 before Wednesday's US CPI report, with analysts spl
 
 ---
 
-## 8. Benchmark sees over 150% upside for Bitdeer on bitcoin mining, AI outlook
+## 11. Benchmark sees over 150% upside for Bitdeer on bitcoin mining, AI outlook
 
 **Author:** Brian Danga  
 **Published:** 8/11/2026, 2:25:24 PM  
@@ -107,7 +143,7 @@ Benchmark sees over 150% upside for Bitdeer as bitcoin mining operations fund it
 
 ---
 
-## 9. eToro agrees to buy TradeZero for up to $231 million as equities drive Q2 growth
+## 12. eToro agrees to buy TradeZero for up to $231 million as equities drive Q2 growth
 
 **Author:** Daniel Kuhn  
 **Published:** 8/11/2026, 2:19:52 PM  
@@ -119,7 +155,7 @@ Net contribution rose 9% year-over-year to $229 million, driven mainly by strong
 
 ---
 
-## 10. ‘Clear scale up path’: Bernstein sees 80% upside for Riot after reported $9.1 billion Anthropic deal
+## 13. ‘Clear scale up path’: Bernstein sees 80% upside for Riot after reported $9.1 billion Anthropic deal
 
 **Author:** James Hunt  
 **Published:** 8/11/2026, 1:15:21 PM  
@@ -131,7 +167,7 @@ The firm's analysts estimate AI colocation now accounts for 84% of Riot's target
 
 ---
 
-## 11. Grvt eyes $100 million USDY position in Ondo Finance tie-up
+## 14. Grvt eyes $100 million USDY position in Ondo Finance tie-up
 
 **Author:** Daniel Kuhn  
 **Published:** 8/11/2026, 1:05:02 PM  
@@ -143,7 +179,7 @@ USDY is a tokenized secured note backed primarily by short-term U.S. Treasurys, 
 
 ---
 
-## 12. Trump Media records $360.6 million unrealized loss on digital assets in first half of the year
+## 15. Trump Media records $360.6 million unrealized loss on digital assets in first half of the year
 
 **Author:** Brian Danga  
 **Published:** 8/11/2026, 11:34:20 AM  
@@ -155,7 +191,7 @@ Trump Media recorded a $360.6M unrealized digital-asset loss in H1. Its directly
 
 ---
 
-## 13. ‘One of the single biggest barriers to growth’: UK lawmakers press banks over crypto access ahead of new FCA regime
+## 16. ‘One of the single biggest barriers to growth’: UK lawmakers press banks over crypto access ahead of new FCA regime
 
 **Author:** James Hunt  
 **Published:** 8/11/2026, 11:04:38 AM  
@@ -167,7 +203,7 @@ UK lawmakers have asked banks to explain how the new FCA crypto regime may chang
 
 ---
 
-## 14. Coinbase rolls out derivatives for UK professional investors
+## 17. Coinbase rolls out derivatives for UK professional investors
 
 **Author:** Brian Danga  
 **Published:** 8/11/2026, 8:00:00 AM  
@@ -179,7 +215,7 @@ Coinbase launches perpetuals, futures and options to UK professional clients aft
 
 ---
 
-## 15. FlightAware sues Kalshi over alleged unauthorized data use for flight cancellation markets
+## 18. FlightAware sues Kalshi over alleged unauthorized data use for flight cancellation markets
 
 **Author:** Timmy Shen  
 **Published:** 8/11/2026, 7:06:33 AM  
@@ -191,7 +227,7 @@ FlightAware is also seeking a temporary restraining order to bar Kalshi from act
 
 ---
 
-## 16. Zama brings its blockchain-privacy token to Revolut’s 70 million users
+## 19. Zama brings its blockchain-privacy token to Revolut’s 70 million users
 
 **Author:** Naga Avan-Nomayo  
 **Published:** 8/11/2026, 7:05:03 AM  
@@ -203,7 +239,7 @@ Zama listed its ZAMA token on Revolut across the EEA, opening the privacy protoc
 
 ---
 
-## 17. Broadridge’s Distributed Ledger Repo platform processes $8 trillion in July volume
+## 20. Broadridge’s Distributed Ledger Repo platform processes $8 trillion in July volume
 
 **Author:** Danny Park  
 **Published:** 8/11/2026, 6:31:22 AM  
@@ -212,17 +248,5 @@ Zama listed its ZAMA token on Revolut across the EEA, opening the privacy protoc
 Broadridge also offers services enabling onchain proxy voting and governance and managing digital asset infrastructure.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-08-11-broadridge-8-trillion-july-411365)
-
----
-
-## 18. Riot Platforms stock jumps 25% after-hours on $9.1 billion AI deal reportedly with Anthropic
-
-**Author:** Danny Park  
-**Published:** 8/11/2026, 2:22:30 AM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Deals, Infrastructure, Web3, AI, Mining, Mining Companies  
-
-The deal includes two five-year extension options that could raise the potential contract value to $16.1 billion.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-10-riot-platforms-ai-deal-anthropic-411358)
 
 ---
