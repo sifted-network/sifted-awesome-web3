@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-11"
 date: "2026-08-11"
 source: "The Block"
-count: 20
+count: 18
 ---
 
 # The Block - 2026-08-11
 
-20 items collected.
+18 items collected.
 
 ---
 
@@ -224,29 +224,5 @@ Coinbase launches perpetuals, futures and options to UK professional clients aft
 FlightAware is also seeking a temporary restraining order to bar Kalshi from activities involving the flight-tracking site.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-08-11-flightaware-sues-kalshi-411370)
-
----
-
-## 19. Zama brings its blockchain-privacy token to Revolut’s 70 million users
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 8/11/2026, 7:05:03 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Finance firms, Governance, Markets, Token Projects, exclusive, Fintech, Tokens  
-
-Zama listed its ZAMA token on Revolut across the EEA, opening the privacy protocol to the fintech's 70 million-plus customers.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-11-zama-brings-blockchain-privacy-token-to-revoluts-70-million-users-411290)
-
----
-
-## 20. Broadridge’s Distributed Ledger Repo platform processes $8 trillion in July volume
-
-**Author:** Danny Park  
-**Published:** 8/11/2026, 6:31:22 AM  
-**Categories:** Companies, Crypto Ecosystems, Web3, Tokenization  
-
-Broadridge also offers services enabling onchain proxy voting and governance and managing digital asset infrastructure.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-11-broadridge-8-trillion-july-411365)
 
 ---
