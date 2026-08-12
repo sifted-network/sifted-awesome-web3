@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-11"
 date: "2026-08-11"
 source: "Cointelegraph"
-count: 22
+count: 12
 ---
 
 # Cointelegraph - 2026-08-11
 
-22 items collected.
+12 items collected.
 
 ---
 
@@ -152,125 +152,5 @@ Shipfinex plans to bring 35 vessels onchain through ADI Chain as tokenization ex
 SharpLink reported a net loss of $394 million in the second quarter of 2026, largely driven by Ether’s 23% decline during the quarter.
 
 📖 [Read original article](https://cointelegraph.com/markets/sharplink-reports-394m-q2-net-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. EToro to buy TradeZero as Q2 crypto revenue falls 30%
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/11/2026, 12:35:00 PM  
-**Categories:** Markets  
-
-Trading platform eToro will acquire TradeZero as part of its US expansion as it reported crypto-related revenue fell by about 30% compared to the second quarter of 2025.
-
-📖 [Read original article](https://cointelegraph.com/markets/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/11/2026, 12:09:38 PM  
-**Categories:** Latest News  
-
-Russia’s central bank proposed allowing Bitcoin, Ether and USDT to trade on regulated exchanges, following a law signed by President Vladimir Putin last week.
-
-📖 [Read original article](https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 8/11/2026, 10:55:00 AM  
-**Categories:** Markets  
-
-Bitcoin analysis suggested that sell pressure would not increase given the historically large contraction in USDT market cap over a 60-day period.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Coldcard hack losses: How investigators trace stolen Bitcoin
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/11/2026, 10:14:39 AM  
-**Categories:** Latest News  
-
-The Coldcard hack has no definitive loss figure yet as investigators rely on victim reports and onchain analysis that produce varying estimates.
-
-📖 [Read original article](https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/11/2026, 9:26:00 AM  
-**Categories:** Markets  
-
-Keel completed the shutdown of its US Bitcoin mining operations as it pivots toward AI and high-performance computing infrastructure
-
-📖 [Read original article](https://cointelegraph.com/markets/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/11/2026, 8:00:26 AM  
-**Categories:** Latest News  
-
-Anthropic reportedly struck a $9 billion deal with Riot for 191 megawatts of capacity from the Bitcoin miner’s Rockdale campus in Texas.
-
-📖 [Read original article](https://cointelegraph.com/news/anthropic-9b-deal-bitcoin-miner-riot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/11/2026, 6:39:00 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. South Korea drops Travel Rule threshold for crypto transfers
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/11/2026, 6:28:16 AM  
-**Categories:** Latest News  
-
-South Korea will remove its 1 million won Travel Rule threshold and apply information-sharing requirements to all transfers between registered crypto service providers.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korea-travel-rule-threshold-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Payments platform Decta explores stablecoin-enabled treasury settlement
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/11/2026, 6:00:00 AM  
-**Categories:** Latest News  
-
-Decta will use USDC through OpenPayd’s infrastructure for international treasury settlement, seeking faster transfers and more efficient liquidity management.
-
-📖 [Read original article](https://cointelegraph.com/news/payments-platform-decta-explores-stablecoin-enabled-treasury-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Luke Dashjr removed as Bitcoin Improvement Proposal editor
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/11/2026, 4:54:15 AM  
-**Categories:** Latest News  
-
-Luke Dashjr lost his BIP editor privileges after developers raised concerns over his role in BIP 110 and its stalled minority fork.
-
-📖 [Read original article](https://cointelegraph.com/news/luke-dashjr-removed-as-bitcoin-proposal-editor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
