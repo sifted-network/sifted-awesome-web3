@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-10"
 date: "2026-08-10"
 source: "Cointelegraph"
-count: 9
+count: 4
 ---
 
 # Cointelegraph - 2026-08-10
 
-9 items collected.
+4 items collected.
 
 ---
 
@@ -56,65 +56,5 @@ An individual behind the Aqua 1 entity that purchased $100 million worth of Worl
 Coinsbuy said it covered all affected client funds after unauthorized withdrawals, while an onchain investigator estimated more than $7.9 million was stolen.
 
 📖 [Read original article](https://cointelegraph.com/news/coinsbuy-confirms-security-breach-after-wallets-reportedly-drained-of-79m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. ‘Disappointing’: Crypto advocates react to delay in CLARITY vote
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 8/10/2026, 5:08:34 PM  
-**Categories:** Latest News  
-
-Following a procedural delay in the US Senate, lawmakers are expected to address a major crypto market structure bill after they return from a month-long recess, which met with industry criticism.
-
-📖 [Read original article](https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 8/10/2026, 4:14:58 PM  
-**Categories:** Markets  
-
-Bitcoin wobbled with US stocks as Iran deflated hopes on the reopening of the Strait of Hormuz oil route, while analysis praised “exceptionally strong” institutional BTC inflows.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-wipes-weekend-gains-as-oil-nears-5-surge-on-hormuz-disappointment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. BlackRock launches 2 Canada ETFs, with one allocating 3% to Bitcoin
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 8/10/2026, 3:59:06 PM  
-**Categories:** Latest News  
-
-BlackRock Canada’s new IBQT fund combines global equity exposure with a 3% Bitcoin allocation through the firm’s Canadian iShares Bitcoin ETF.
-
-📖 [Read original article](https://cointelegraph.com/news/blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Bitdeer increased Bitcoin mining output by nearly fivefold in Q2
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/10/2026, 1:07:42 PM  
-**Categories:** Latest News  
-
-Bitdeer mined 2,694 BTC in Q2, but ended the quarter holding just 150 BTC after liquidating its treasury earlier this year.
-
-📖 [Read original article](https://cointelegraph.com/news/bitdeer-bitcoin-mining-output-fivefold-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Strategy turns 1,690 BTC into $108.6M STRC buyback
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/10/2026, 12:36:32 PM  
-**Categories:** Markets  
-
-Strategy sold 1,690 Bitcoin to repurchase STRC shares as its US dollar reserve rose to $4.65 billion and its Bitcoin holdings fell to 840,447 BTC.
-
-📖 [Read original article](https://cointelegraph.com/markets/strategy-sells-1690-btc-buy-back-108-6-million-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
