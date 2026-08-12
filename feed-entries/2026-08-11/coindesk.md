@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-11"
 date: "2026-08-11"
 source: "CoinDesk"
-count: 19
+count: 10
 ---
 
 # CoinDesk - 2026-08-11
 
-19 items collected.
+10 items collected.
 
 ---
 
@@ -128,113 +128,5 @@ The regulator cited missing transaction reports and the company’s failure to r
 Two mining pools controlling most of Ravencoin’s hashpower are building a replacement chain from before Friday’s first invalid block, putting deposits, withdrawals and payments made since then at risk of reversal.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw)
-
----
-
-## 11. Coinbase picks Abu Dhabi for its global tokenized asset push
-
-**Author:** Krisztian Sandor  
-**Published:** 8/11/2026, 11:23:25 AM  
-**Categories:** Finance, Coinbase, Tokenization, News  
-
-The crypto exchange said it secured regulatory approval to offer tokenized securities from Abu Dhabi as the emirate deepens its push into onchain finance.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push)
-
----
-
-## 12. When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.
-
-**Author:** Omkar Godbole  
-**Published:** 8/11/2026, 11:13:55 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Aug. 11 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks)
-
----
-
-## 13. Bitcoin-backed lending is entering its institutional era: Two Prime
-
-**Author:** James Van Straten  
-**Published:** 8/11/2026, 11:04:28 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Public companies are increasingly borrowing against their bitcoin holdings to fund acquisitions and capital spending without selling the asset.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime)
-
----
-
-## 14. Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 8/11/2026, 10:48:08 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-The Strait of Hormuz relief trade unraveled after Trump demanded 50 years of Iranian compensation, pushing oil back to $89 and leaving crypto and equities unchanged ahead of a pivotal CPI report.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-below-usd65-000-as-the-strait-of-hormuz-stalemate-and-strategy-s-selling-squeeze-the-market)
-
----
-
-## 15. Live updates: Bitcoin falls to $63,500; CoreWeave jumps 9% as AI demand pushes backlog over $100 billion
-
-**Author:** Shaurya Malwa,James Van Straten,Krisztian Sandor  
-**Published:** 8/11/2026, 10:34:52 AM  
-**Categories:** Tech, Live News, live_news  
-
-STS Digital's Jeff Anderson said Wednesday's U.S. inflation report could spark bitcoin volatility from tight trading range.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai)
-
----
-
-## 16. FlightAware sues Kalshi over bets on flight cancellations
-
-**Author:** Olivier Acuna  
-**Published:** 8/11/2026, 10:34:17 AM  
-**Categories:** Policy, Kalshi, Prediction Markets, News  
-
-The flight-tracking company alleges Kalshi used its data and trademark without permission to settle contracts on canceled flights.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/08/11/kalshi-faces-new-lawsuit-flightaware-accuses-it-of-using-its-data-for-flight-cancellation-betting)
-
----
-
-## 17. Software stocks break away from bitcoin: What the rare divergence means for crypto
-
-**Author:** James Van Straten  
-**Published:** 8/11/2026, 10:31:26 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-IGV’s rebound is reshaping a relationship it held with bitcoin for years, but history suggests bitcoin could still catch up.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/11/software-stocks-break-away-from-bitcoin-what-the-rare-divergence-means-for-crypto)
-
----
-
-## 18. Luke Dashjr removed as Bitcoin BIP editor after controversial BIP-110 fork stalls
-
-**Author:** Jamie Crawley  
-**Published:** 8/11/2026, 10:28:19 AM  
-**Categories:** Tech, Bitcoin News, News  
-
-Dashjr said he is taking a sabbatical from his role as chair and chief technology officer of mining pool Ocean.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/11/luke-dashjr-removed-as-bitcoin-bip-editor-after-controversial-bip-110-fork-stalls)
-
----
-
-## 19. Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 8/11/2026, 10:10:36 AM  
-**Categories:** Tech, News  
-
-Nvidia has signed memorandums of understanding with six major Wall Street firms to establish "AI compute" as a bankable infrastructure asset.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/11/nvidia-wants-to-turn-its-ai-chips-into-an-investable-asset-class)
 
 ---
