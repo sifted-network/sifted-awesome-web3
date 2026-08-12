@@ -2,16 +2,76 @@
 title: "Decrypt - 2026-08-11"
 date: "2026-08-11"
 source: "Decrypt"
-count: 11
+count: 16
 ---
 
 # Decrypt - 2026-08-11
 
-11 items collected.
+16 items collected.
 
 ---
 
-## 1. Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss
+## 1. Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO
+
+**Author:** Jason Nelson  
+**Published:** 8/11/2026, 10:04:06 PM  
+**Categories:** Artificial Intelligence  
+
+The former operating chief is starting a new venture following several departures across the ChatGPT developer’s leadership and safety teams.
+
+📖 [Read original article](https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo)
+
+---
+
+## 2. BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit
+
+**Author:** Jason Nelson  
+**Published:** 8/11/2026, 9:16:03 PM  
+**Categories:** , Coins  
+
+The reward aims to recover Bitcoin stolen after attackers gained access to connected LND wallets.
+
+📖 [Read original article](https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit)
+
+---
+
+## 3. The Bull and Bear Case for Solana’s Next Price Move
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/11/2026, 8:46:04 PM  
+**Categories:** , Markets  
+
+Solana is holding its 50-day average after a pullback from August's $90 spike, but the death cross above it keeps pressure pointed down.
+
+📖 [Read original article](https://decrypt.co/375364/solana-price-death-cross-bull-bear-case-next-move)
+
+---
+
+## 4. SEC Prepares Escape Hatch From Securities Registration for Crypto Projects
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/11/2026, 8:10:00 PM  
+**Categories:** Law and Order  
+
+The agency has set an open meeting to consider moving forward with its Regulation Crypto proposal.
+
+📖 [Read original article](https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects)
+
+---
+
+## 5. AI Agent Hacks a Gym—And the Tech World Wonders What's Next
+
+**Author:** Jason Nelson  
+**Published:** 8/11/2026, 6:56:03 PM  
+**Categories:** Artificial Intelligence  
+
+The newly reported incident is raising fresh concerns about autonomous AI after models from OpenAI, Anthropic, and Meta exploited websites and online services.
+
+📖 [Read original article](https://decrypt.co/375358/ai-agent-hacks-gym-membership-tech-world-reacts)
+
+---
+
+## 6. Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss
 
 **Author:** Jason Nelson  
 **Published:** 8/11/2026, 6:25:14 PM  
@@ -23,7 +83,7 @@ Falling digital asset values battered the Truth Social parent’s balance sheet,
 
 ---
 
-## 2. Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP
+## 7. Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/11/2026, 5:26:54 PM  
@@ -35,7 +95,7 @@ Bitcoin, Ethereum and Tether clear the central bank's liquidity bar—everything
 
 ---
 
-## 3. Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network
+## 8. Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/11/2026, 5:02:36 PM  
@@ -47,7 +107,7 @@ Two mining pools controlling most of Ravencoin's hash power are already rebuildi
 
 ---
 
-## 4. eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%
+## 9. eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/11/2026, 4:45:30 PM  
@@ -59,7 +119,7 @@ The crypto-friendly trading platform is betting on US equities as regulators kee
 
 ---
 
-## 5. OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT
+## 10. OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT
 
 **Author:** Decrypt Agent  
 **Published:** 8/11/2026, 3:05:35 PM  
@@ -71,7 +131,7 @@ Chloé Bakalar joined from Meta last August and departed in July without any ann
 
 ---
 
-## 6. Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far
+## 11. Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far
 
 **Author:** Jason Nelson  
 **Published:** 8/11/2026, 2:46:11 PM  
@@ -83,7 +143,7 @@ The world's largest corporate Bitcoin holder has sold hundreds of millions of do
 
 ---
 
-## 7. Luke Dashjr Removed as BIP Editor After BIP-110 Bitcoin Fork Stalls
+## 12. Luke Dashjr Removed as BIP Editor After BIP-110 Bitcoin Fork Stalls
 
 **Author:** Decrypt Agent  
 **Published:** 8/11/2026, 1:27:58 PM  
@@ -95,7 +155,7 @@ Supporters of the soft fork he championed split onto their own chain on Saturday
 
 ---
 
-## 8. Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row
+## 13. Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row
 
 **Author:** Tyler Warner  
 **Published:** 8/11/2026, 12:22:13 PM  
@@ -107,7 +167,7 @@ Strategy dumped $108M in BTC at a loss and a whopping $650M of MSTR stock, and y
 
 ---
 
-## 9. North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI
+## 14. North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI
 
 **Author:** Decrypt Agent  
 **Published:** 8/11/2026, 12:02:42 PM  
@@ -119,7 +179,7 @@ Once its proceeds mix with scam money, exchanges struggle to separate proliferat
 
 ---
 
-## 10. Coinbase Opens UK Derivatives Trading With Up to 50x Leverage
+## 15. Coinbase Opens UK Derivatives Trading With Up to 50x Leverage
 
 **Author:** Decrypt Agent  
 **Published:** 8/11/2026, 9:58:44 AM  
@@ -131,7 +191,7 @@ Futures, perpetuals and options spanning crypto, commodities, equities and FX, l
 
 ---
 
-## 11. UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals
+## 16. UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals
 
 **Author:** Decrypt Agent  
 **Published:** 8/11/2026, 8:41:17 AM  
