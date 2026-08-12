@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-11"
 date: "2026-08-11"
 source: "The Block"
-count: 18
+count: 14
 ---
 
 # The Block - 2026-08-11
 
-18 items collected.
+14 items collected.
 
 ---
 
@@ -176,53 +176,5 @@ The firm's analysts estimate AI colocation now accounts for 84% of Riot's target
 USDY is a tokenized secured note backed primarily by short-term U.S. Treasurys, Treasury-based ETF shares, and bank deposits.
 
 📖 [Read original article](https://www.theblock.co/news/defi/2026-08-11-grvt-100-million-usdy-position-ondo-finance-411393)
-
----
-
-## 15. Trump Media records $360.6 million unrealized loss on digital assets in first half of the year
-
-**Author:** Brian Danga  
-**Published:** 8/11/2026, 11:34:20 AM  
-**Categories:** Companies, Equities, Markets, People, Policy, Donald Trump, Earnings  
-
-Trump Media recorded a $360.6M unrealized digital-asset loss in H1. Its directly held BTC and CRO were worth $597.7M at June 30.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-11-trump-media-records-360-6-million-unrealized-loss-on-digital-assets-in-first-half-of-the-year-411394)
-
----
-
-## 16. ‘One of the single biggest barriers to growth’: UK lawmakers press banks over crypto access ahead of new FCA regime
-
-**Author:** James Hunt  
-**Published:** 8/11/2026, 11:04:38 AM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, International Policymaking, Policy, Regulation, Web3, Crypto, TradFi banks, UK Parliament  
-
-UK lawmakers have asked banks to explain how the new FCA crypto regime may change their policies toward digital asset firms.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-11-uk-crypto-banking-access-411389)
-
----
-
-## 17. Coinbase rolls out derivatives for UK professional investors
-
-**Author:** Brian Danga  
-**Published:** 8/11/2026, 8:00:00 AM  
-**Categories:** Companies, Policy, Regulation  
-
-Coinbase launches perpetuals, futures and options to UK professional clients after obtaining its MiFID license.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-11-coinbase-expands-uk-derivatives-411380)
-
----
-
-## 18. FlightAware sues Kalshi over alleged unauthorized data use for flight cancellation markets
-
-**Author:** Timmy Shen  
-**Published:** 8/11/2026, 7:06:33 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi  
-
-FlightAware is also seeking a temporary restraining order to bar Kalshi from activities involving the flight-tracking site.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-11-flightaware-sues-kalshi-411370)
 
 ---
