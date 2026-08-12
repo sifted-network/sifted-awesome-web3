@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-11"
 date: "2026-08-11"
 source: "CoinDesk"
-count: 25
+count: 19
 ---
 
 # CoinDesk - 2026-08-11
 
-25 items collected.
+19 items collected.
 
 ---
 
@@ -236,77 +236,5 @@ Dashjr said he is taking a sabbatical from his role as chair and chief technolog
 Nvidia has signed memorandums of understanding with six major Wall Street firms to establish "AI compute" as a bankable infrastructure asset.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/08/11/nvidia-wants-to-turn-its-ai-chips-into-an-investable-asset-class)
-
----
-
-## 20. UK lawmakers question lenders over lack of banking for the country’s crypto firms
-
-**Author:** Ian Allison  
-**Published:** 8/11/2026, 10:06:39 AM  
-**Categories:** Policy, UK, banks, News  
-
-The U.K.’s Crypto and Digital Assets All-Party Parliamentary Group asked banks to explain their approach to providing banking services to crypto and digital asset businesses.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/08/11/uk-lawmakers-question-lenders-over-lack-of-banking-for-the-country-s-crypto-firms)
-
----
-
-## 21. Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal
-
-**Author:** James Van Straten  
-**Published:** 8/11/2026, 9:37:36 AM  
-**Categories:** Finance, Artificial Intelligence, Bitcoin Mining, News  
-
-The bitcoin miner’s 20-year agreement highlights an industry-wide shift toward AI infrastructure revenue.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/11/riot-platforms-surges-20-in-pre-market-trading-on-usd9-1-billion-anthropic-deal)
-
----
-
-## 22. A $2 trillion asset class is getting a new blockchain rail
-
-**Author:** Omkar Godbole  
-**Published:** 8/11/2026, 7:19:09 AM  
-**Categories:** Markets, Tokenization, News  
-
-ADI Chain and Shipfinex are partnering to tokenize commercial ships, aiming to open the $680B ship-finance market to wider capital pool.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/11/emb-7-00-utc-a-usd2-trillion-asset-class-is-getting-a-new-blockchain-rail)
-
----
-
-## 23. BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit
-
-**Author:** Shaurya Malwa  
-**Published:** 8/11/2026, 6:19:07 AM  
-**Categories:** Markets, News  
-
-The project said it will pay 10% of recovered funds, up to 3 BTC, after attackers stole LND credentials and drained merchant Lightning wallets last week.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit)
-
----
-
-## 24. Bitcoin’s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself
-
-**Author:** Shaurya Malwa  
-**Published:** 8/11/2026, 5:26:37 AM  
-**Categories:** Tech, News  
-
-The breakaway chain has produced two blocks since splitting off on Saturday. Bitcoin has produced more than 300 in the same stretch.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself)
-
----
-
-## 25. XRP, ether lead crypto losses as traders eye $70,000 bitcoin next
-
-**Author:** Shaurya Malwa  
-**Published:** 8/11/2026, 4:50:23 AM  
-**Categories:** Markets, News  
-
-Bitcoin failed to hold $65,000 for a fourth day as an oil rally revived inflation worries before Wednesday's U.S. price data.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next)
 
 ---
