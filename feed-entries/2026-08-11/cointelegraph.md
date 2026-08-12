@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-08-11"
 date: "2026-08-11"
 source: "Cointelegraph"
-count: 21
+count: 25
 ---
 
 # Cointelegraph - 2026-08-11
 
-21 items collected.
+25 items collected.
 
 ---
 
-## 1. Strategy CEO says company will resume Bitcoin accumulation this year
+## 1. SEC to address crypto regulations in absence of CLARITY passage
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/11/2026, 8:59:07 PM  
+**Categories:** Latest News  
+
+The US securities regulator scheduled a meeting this week with the potential to step up on digital asset policies without congressional action.
+
+📖 [Read original article](https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Itaú joins Brazil tokenization pilot with OpenAssets
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/11/2026, 8:55:58 PM  
+**Categories:** Latest News  
+
+The bank will test tokenized fixed-income securities and investment funds as part of an ANBIMA-led industry pilot.
+
+📖 [Read original article](https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. MoneyGram expands crypto cash ramps to Solana
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/11/2026, 7:53:02 PM  
+**Categories:** Latest News  
+
+MoneyGram’s Ramps service now connects Solana wallets and applications to its global cash network, with Rift becoming the first wallet to integrate the service.
+
+📖 [Read original article](https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Following Senate delay, crypto bill has a narrow window to become law
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/11/2026, 7:42:08 PM  
+**Categories:** Latest News  
+
+After an August recess, lawmakers in the Senate will have just 36 days in session before the end of the year to pass the CLARITY Act.
+
+📖 [Read original article](https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Strategy CEO says company will resume Bitcoin accumulation this year
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/11/2026, 6:03:49 PM  
@@ -23,7 +71,7 @@ The company has bought roughly 25 times more BTC than it has sold this year, des
 
 ---
 
-## 2. ARP Digital secures Dubai VARA broker-dealer license
+## 6. ARP Digital secures Dubai VARA broker-dealer license
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/11/2026, 5:53:51 PM  
@@ -35,7 +83,7 @@ The license allows ARP Digital to offer regulated digital asset and stablecoin c
 
 ---
 
-## 3. FlightAware sues Kalshi over flight cancellation data
+## 7. FlightAware sues Kalshi over flight cancellation data
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/11/2026, 4:55:14 PM  
@@ -47,7 +95,7 @@ The legal action against Kalshi focused on trademark infringement and injury to 
 
 ---
 
-## 4. Coinbase-backed Flowdesk secures full broker-dealer license in Dubai
+## 8. Coinbase-backed Flowdesk secures full broker-dealer license in Dubai
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/11/2026, 4:39:17 PM  
@@ -59,7 +107,7 @@ Flowdesk’s VARA approval follows its MiCA authorization in France as crypto fi
 
 ---
 
-## 5. Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets
+## 9. Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/11/2026, 4:34:40 PM  
@@ -71,7 +119,7 @@ Nasdaq’s acquisition of the third-largest US alternative trading system comes 
 
 ---
 
-## 6. Bitcoin drops to one-week low as retail buys gold at highest prices since June
+## 10. Bitcoin drops to one-week low as retail buys gold at highest prices since June
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/11/2026, 4:24:48 PM  
@@ -83,7 +131,7 @@ Bitcoin price action sank to one-week lows ahead of US CPI data, while retail in
 
 ---
 
-## 7. ADI Chain, Shipfinex partner to tokenize $500M vessel pipeline
+## 11. ADI Chain, Shipfinex partner to tokenize $500M vessel pipeline
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/11/2026, 1:59:20 PM  
@@ -95,7 +143,7 @@ Shipfinex plans to bring 35 vessels onchain through ADI Chain as tokenization ex
 
 ---
 
-## 8. SharpLink reports $394M in Q2 net loss fueled by ETH decline
+## 12. SharpLink reports $394M in Q2 net loss fueled by ETH decline
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/11/2026, 1:17:00 PM  
@@ -107,7 +155,7 @@ SharpLink reported a net loss of $394 million in the second quarter of 2026, lar
 
 ---
 
-## 9. EToro to buy TradeZero as Q2 crypto revenue falls 30%
+## 13. EToro to buy TradeZero as Q2 crypto revenue falls 30%
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/11/2026, 12:35:00 PM  
@@ -119,7 +167,7 @@ Trading platform eToro will acquire TradeZero as part of its US expansion as it 
 
 ---
 
-## 10. Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT
+## 14. Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/11/2026, 12:09:38 PM  
@@ -131,7 +179,7 @@ Russia’s central bank proposed allowing Bitcoin, Ether and USDT to trade on re
 
 ---
 
-## 11. Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant
+## 15. Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/11/2026, 10:55:00 AM  
@@ -143,7 +191,7 @@ Bitcoin analysis suggested that sell pressure would not increase given the histo
 
 ---
 
-## 12. Coldcard hack losses: How investigators trace stolen Bitcoin
+## 16. Coldcard hack losses: How investigators trace stolen Bitcoin
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/11/2026, 10:14:39 AM  
@@ -155,7 +203,7 @@ The Coldcard hack has no definitive loss figure yet as investigators rely on vic
 
 ---
 
-## 13. Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%
+## 17. Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/11/2026, 9:26:00 AM  
@@ -167,7 +215,7 @@ Keel completed the shutdown of its US Bitcoin mining operations as it pivots tow
 
 ---
 
-## 14. Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report
+## 18. Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/11/2026, 8:00:26 AM  
@@ -179,9 +227,9 @@ Anthropic reportedly struck a $9 billion deal with Riot for 191 megawatts of cap
 
 ---
 
-## 15. Here’s what happened in crypto today
+## 19. Here’s what happened in crypto today
 
-**Author:** Cointelegraph by Robert Lakin  
+**Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/11/2026, 6:39:00 AM  
 **Categories:** Latest News  
 
@@ -191,7 +239,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 16. South Korea drops Travel Rule threshold for crypto transfers
+## 20. South Korea drops Travel Rule threshold for crypto transfers
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/11/2026, 6:28:16 AM  
@@ -203,7 +251,7 @@ South Korea will remove its 1 million won Travel Rule threshold and apply inform
 
 ---
 
-## 17. Payments platform Decta explores stablecoin-enabled treasury settlement
+## 21. Payments platform Decta explores stablecoin-enabled treasury settlement
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/11/2026, 6:00:00 AM  
@@ -215,7 +263,7 @@ Decta will use USDC through OpenPayd’s infrastructure for international treasu
 
 ---
 
-## 18. Luke Dashjr removed as Bitcoin Improvement Proposal editor
+## 22. Luke Dashjr removed as Bitcoin Improvement Proposal editor
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/11/2026, 4:54:15 AM  
@@ -227,7 +275,7 @@ Luke Dashjr lost his BIP editor privileges after developers raised concerns over
 
 ---
 
-## 19. White House vows to get CLARITY across ‘finish line’ in September
+## 23. White House vows to get CLARITY across ‘finish line’ in September
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/11/2026, 4:12:58 AM  
@@ -239,7 +287,7 @@ Patrick Witt says the Trump administration will keep negotiating with Democrats 
 
 ---
 
-## 20. Trump Media to revamp crypto treasury strategy after $238M Q2 loss
+## 24. Trump Media to revamp crypto treasury strategy after $238M Q2 loss
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/11/2026, 3:21:27 AM  
@@ -251,7 +299,7 @@ Trump Media says it will take a more disciplined approach to its crypto treasury
 
 ---
 
-## 21. Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express
+## 25. Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 8/11/2026, 2:08:36 AM  
