@@ -47,7 +47,7 @@ MoneyGram’s Ramps service now connects Solana wallets and applications to its 
 
 ---
 
-## 4. Following Senate delay, crypto bill has a narrow window to become law
+## 4. Following Senate delay, crypto bill has narrow window to become law
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/11/2026, 7:42:08 PM  
@@ -229,7 +229,7 @@ Anthropic reportedly struck a $9 billion deal with Riot for 191 megawatts of cap
 
 ## 19. Here’s what happened in crypto today
 
-**Author:** Cointelegraph by Sam Bourgi  
+**Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/11/2026, 6:39:00 AM  
 **Categories:** Latest News  
 
