@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-12"
 date: "2026-08-12"
 source: "Cointelegraph"
-count: 19
+count: 10
 ---
 
 # Cointelegraph - 2026-08-12
 
-19 items collected.
+10 items collected.
 
 ---
 
@@ -128,113 +128,5 @@ HashKey has become an authorized distributor for Anchorpoint’s HKDAP, expandin
 Bitcoin price action did not reflect relief in US CPI inflation numbers matching expectations amid a warning over $63,000 failing as support.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Kalshi launches sports and crypto perps data feed on DoubleZero
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/12/2026, 1:58:41 PM  
-**Categories:** Latest News  
-
-Kalshi launched access to its sports and crypto perpetual data feed through DoubleZero’s dedicated fiber network to bolster institutional data access.
-
-📖 [Read original article](https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Slovenia joins EU’s MiCA stablecoin register with first issuer
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/12/2026, 1:31:54 PM  
-**Categories:** Latest News  
-
-Slovenia entered the EU’s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs.
-
-📖 [Read original article](https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 8/12/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Five years after El Salvador made Bitcoin legal tender, the experiment has fallen short of its original promises for locals, but it’s been great for Bitcoin’s global profile.
-
-📖 [Read original article](https://cointelegraph.com/magazine/el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-and-not-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Wintermute to pour $1B into AI, high-frequency trading amid TradFi expansion: Report
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/12/2026, 1:23:57 PM  
-**Categories:** Latest News  
-
-Wintermute will reportedly invest $1 billion in AI infrastructure and high-frequency trading as part of its expansion into traditional finance.
-
-📖 [Read original article](https://cointelegraph.com/news/wintermute-pour-1b-ai-tradfi-expansion-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Fidelity files with SEC to add staking to Ethereum ETF
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/12/2026, 12:42:58 PM  
-**Categories:** Latest News  
-
-Fidelity plans to add staking to its Ether fund, with 85% of rewards retained by FETH and quarterly cash distributions planned for investors.
-
-📖 [Read original article](https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Binance, RedotPay clash over fate of Singapore lawsuit
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/12/2026, 10:21:00 AM  
-**Categories:** Latest News  
-
-Amid a $473 million legal dispute, RedotPay says it expects Binance to end its Singapore case, while Binance says its claims remain active.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 8/12/2026, 10:06:05 AM  
-**Categories:** Markets  
-
-Bitcoin miners showed a “concerning” trend of pivoting to AI amid a profit squeeze as transaction-fee income barely bounced from 10-year lows of 0.52% of revenue.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-miners-earn-under-07-of-revenue-from-fees-in-new-10-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Crypto companies urge AI firms to give Bitcoin developers early access
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/12/2026, 9:03:01 AM  
-**Categories:** Latest News  
-
-The Bitcoin Policy Institute and other industry participants urged AI companies to offer early access to their frontier models to aid Bitcoin and open-source developers in their cybersecurity efforts.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-companies-ai-firms-bitcoin-developers-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Inside the fake crypto startup that fooled North Korean IT workers
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/12/2026, 7:34:58 AM  
-**Categories:** Magazine  
-
-Suspected North Korean IT workers joined a fake crypto startup — without realizing their every move was being tracked to extract valuable intel.
-
-📖 [Read original article](https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
