@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-08-12"
 date: "2026-08-12"
 source: "Cointelegraph"
-count: 18
+count: 23
 ---
 
 # Cointelegraph - 2026-08-12
 
-18 items collected.
+23 items collected.
 
 ---
 
-## 1. Bitwise cuts 14% of staff while still expecting growth
+## 1. Arizona crypto ATM law helps 35 scam victims recover $171K
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 8/12/2026, 11:42:51 PM  
+**Categories:** Latest News  
+
+Qualifying new customers can receive full reimbursement, including fees, if they notify both the operator and law enforcement within 30 days.
+
+📖 [Read original article](https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Hawaii crypto ATM ban to take effect on Oct. 1
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/12/2026, 9:21:17 PM  
+**Categories:** Latest News  
+
+Hawaii will join Minnesota, Tennessee and Indiana in becoming the fourth US state to completely ban the use of cryptocurrency ATMs and kiosks in response to scams.
+
+📖 [Read original article](https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Goldman Sachs to acquire ETF manager NEOS in $2.25B deal
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/12/2026, 8:37:55 PM  
+**Categories:** Latest News  
+
+The deal would add NEOS’ $30 billion ETF business, including Bitcoin- and Ether-linked income funds, to Goldman Sachs Asset Management.
+
+📖 [Read original article](https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. NYC council announces probe into ‘predatory marketing practices’ on prediction markets
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/12/2026, 8:22:46 PM  
+**Categories:** Latest News  
+
+Council Speaker Julie Menin sent letters to four companies offering prediction market services to New Yorkers as part of an investigation into their marketing practices.
+
+📖 [Read original article](https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Kraken adds S&P 500 to funded trading program, commodities to follow
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/12/2026, 6:55:56 PM  
+**Categories:** Latest News  
+
+Kraken’s funded trading program adds round-the-clock exposure to the US equity benchmark as it builds out its multi-asset offering.
+
+📖 [Read original article](https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Bitwise cuts 14% of staff while still expecting growth
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/12/2026, 6:01:15 PM  
@@ -23,7 +83,7 @@ Crypto companies from including Coinbase, BitGo, Robinhood, Polygon and Pump.fun
 
 ---
 
-## 2. FlightAware drops Kalshi lawsuit one day after filing
+## 7. FlightAware drops Kalshi lawsuit one day after filing
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/12/2026, 4:58:52 PM  
@@ -35,7 +95,7 @@ Following the initial lawsuit, at least one of Kalshi’s event contracts was ch
 
 ---
 
-## 3. Bank of England tests stablecoin, digital pound interoperability in cross-border payments
+## 8. Bank of England tests stablecoin, digital pound interoperability in cross-border payments
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/12/2026, 4:50:25 PM  
@@ -47,7 +107,7 @@ The Digital Pound Lab is testing a cross-border trade finance flow combining sta
 
 ---
 
-## 4. HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin
+## 9. HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/12/2026, 4:07:59 PM  
@@ -59,7 +119,7 @@ HashKey has become an authorized distributor for Anchorpoint’s HKDAP, expandin
 
 ---
 
-## 5. Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%
+## 10. Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/12/2026, 3:00:10 PM  
@@ -71,7 +131,7 @@ Bitcoin price action did not reflect relief in US CPI inflation numbers matching
 
 ---
 
-## 6. Kalshi launches sports and crypto perps data feed on DoubleZero
+## 11. Kalshi launches sports and crypto perps data feed on DoubleZero
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/12/2026, 1:58:41 PM  
@@ -83,7 +143,7 @@ Kalshi launched access to its sports and crypto perpetual data feed through Doub
 
 ---
 
-## 7. Slovenia joins EU’s MiCA stablecoin register with first issuer
+## 12. Slovenia joins EU’s MiCA stablecoin register with first issuer
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/12/2026, 1:31:54 PM  
@@ -95,7 +155,7 @@ Slovenia entered the EU’s MiCA stablecoin register through electronic money in
 
 ---
 
-## 8. El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’
+## 13. El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 8/12/2026, 1:30:00 PM  
@@ -107,7 +167,7 @@ Five years after El Salvador made Bitcoin legal tender, the experiment has falle
 
 ---
 
-## 9. Wintermute to pour $1B into AI, high-frequency trading amid TradFi expansion: Report
+## 14. Wintermute to pour $1B into AI, high-frequency trading amid TradFi expansion: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/12/2026, 1:23:57 PM  
@@ -119,7 +179,7 @@ Wintermute will reportedly invest $1 billion in AI infrastructure and high-frequ
 
 ---
 
-## 10. Fidelity files with SEC to add staking to Ethereum ETF
+## 15. Fidelity files with SEC to add staking to Ethereum ETF
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/12/2026, 12:42:58 PM  
@@ -131,7 +191,7 @@ Fidelity plans to add staking to its Ether fund, with 85% of rewards retained by
 
 ---
 
-## 11. Binance, RedotPay clash over fate of Singapore lawsuit
+## 16. Binance, RedotPay clash over fate of Singapore lawsuit
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/12/2026, 10:21:00 AM  
@@ -143,7 +203,7 @@ Amid a $473 million legal dispute, RedotPay says it expects Binance to end its S
 
 ---
 
-## 12. Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low
+## 17. Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/12/2026, 10:06:05 AM  
@@ -155,7 +215,7 @@ Bitcoin miners showed a “concerning” trend of pivoting to AI amid a profit s
 
 ---
 
-## 13. Crypto companies urge AI firms to give Bitcoin developers early access
+## 18. Crypto companies urge AI firms to give Bitcoin developers early access
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/12/2026, 9:03:01 AM  
@@ -167,7 +227,7 @@ The Bitcoin Policy Institute and other industry participants urged AI companies 
 
 ---
 
-## 14. Inside the fake crypto startup that fooled North Korean IT workers
+## 19. Inside the fake crypto startup that fooled North Korean IT workers
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/12/2026, 7:34:58 AM  
@@ -179,7 +239,7 @@ Suspected North Korean IT workers joined a fake crypto startup — without reali
 
 ---
 
-## 15. Harmony considers rollback after suspected exploit inflates ONE supply
+## 20. Harmony considers rollback after suspected exploit inflates ONE supply
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/12/2026, 6:02:52 AM  
@@ -191,7 +251,7 @@ Harmony is working with exchanges to freeze funds and is preparing a patch after
 
 ---
 
-## 16. CFTC invokes emergency powers to keep Kalshi operating in New York fight
+## 21. CFTC invokes emergency powers to keep Kalshi operating in New York fight
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/12/2026, 4:53:26 AM  
@@ -203,7 +263,7 @@ The order escalates a jurisdictional fight over whether states may treat federal
 
 ---
 
-## 17. Ravencoin hits record low as network exploit puts transactions at risk
+## 22. Ravencoin hits record low as network exploit puts transactions at risk
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/12/2026, 1:11:51 AM  
@@ -215,7 +275,7 @@ Mining pools controlling most of Ravencoin’s hash rate are building a competin
 
 ---
 
-## 18. SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme
+## 23. SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/12/2026, 12:00:00 AM  
