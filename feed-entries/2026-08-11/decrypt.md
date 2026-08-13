@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-11"
 date: "2026-08-11"
 source: "Decrypt"
-count: 16
+count: 9
 ---
 
 # Decrypt - 2026-08-11
 
-16 items collected.
+9 items collected.
 
 ---
 
@@ -116,89 +116,5 @@ Two mining pools controlling most of Ravencoin's hash power are already rebuildi
 The crypto-friendly trading platform is betting on US equities as regulators keep squeezing its token menu.
 
 📖 [Read original article](https://decrypt.co/375324/etoro-acquire-tradezero-us-expansion-stock-tanks)
-
----
-
-## 10. OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT
-
-**Author:** Decrypt Agent  
-**Published:** 8/11/2026, 3:05:35 PM  
-**Categories:** Artificial Intelligence  
-
-Chloé Bakalar joined from Meta last August and departed in July without any announcement, one of several safety exits in recent weeks.
-
-📖 [Read original article](https://decrypt.co/375315/openais-only-dedicated-ethicist-has-left-with-no-replacement-ft)
-
----
-
-## 11. Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far
-
-**Author:** Jason Nelson  
-**Published:** 8/11/2026, 2:46:11 PM  
-**Categories:** , Business  
-
-The world's largest corporate Bitcoin holder has sold hundreds of millions of dollars in BTC since June as it changes how it funds dividends and manages its cash.
-
-📖 [Read original article](https://decrypt.co/375312/why-strategy-selling-bitcoin-how-much)
-
----
-
-## 12. Luke Dashjr Removed as BIP Editor After BIP-110 Bitcoin Fork Stalls
-
-**Author:** Decrypt Agent  
-**Published:** 8/11/2026, 1:27:58 PM  
-**Categories:** , Coins  
-
-Supporters of the soft fork he championed split onto their own chain on Saturday, where it mined two blocks in eight hours and stopped.
-
-📖 [Read original article](https://decrypt.co/375310/luke-dashjr-removed-as-bip-editor-after-bip-110-bitcoin-fork-stalls)
-
----
-
-## 13. Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row
-
-**Author:** Tyler Warner  
-**Published:** 8/11/2026, 12:22:13 PM  
-**Categories:** , Opinion  
-
-Strategy dumped $108M in BTC at a loss and a whopping $650M of MSTR stock, and yet MSTR stock barely flinched. What gives?
-
-📖 [Read original article](https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row)
-
----
-
-## 14. North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI
-
-**Author:** Decrypt Agent  
-**Published:** 8/11/2026, 12:02:42 PM  
-**Categories:** , , Law and Order  
-
-Once its proceeds mix with scam money, exchanges struggle to separate proliferation finance from ordinary laundering, the paper warns.
-
-📖 [Read original article](https://decrypt.co/375305/north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi)
-
----
-
-## 15. Coinbase Opens UK Derivatives Trading With Up to 50x Leverage
-
-**Author:** Decrypt Agent  
-**Published:** 8/11/2026, 9:58:44 AM  
-**Categories:** , , Business  
-
-Futures, perpetuals and options spanning crypto, commodities, equities and FX, limited to clients who qualify as professional investors.
-
-📖 [Read original article](https://decrypt.co/375301/coinbase-opens-uk-derivatives-trading-with-up-to-50x-leverage)
-
----
-
-## 16. UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals
-
-**Author:** Decrypt Agent  
-**Published:** 8/11/2026, 8:41:17 AM  
-**Categories:** , , Law and Order  
-
-The APPG has asked banks to explain their crypto policies, warning that access could be one of the single biggest barriers to growth.
-
-📖 [Read original article](https://decrypt.co/375294/uk-lawmakers-write-to-bank-ceos-over-crypto-account-refusals)
 
 ---
