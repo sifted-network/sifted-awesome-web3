@@ -73,8 +73,8 @@
 | 65 | [app-localchain](https://github.com/tiki-deprecated/app-localchain) | 2 | 1 | Dart | 0 | TIKI's layer1 single user blockchain | 2022-06-21 |
 | 66 | [TOMB](https://github.com/phantasma-io-archive/TOMB) | 2 | 11 | C# | 5 | TOMB smart contract compiler for Phantasma platform | 2024-09-03 |
 | 67 | [Layer1-Network-Health-Check](https://github.com/yzmar4real/Layer1-Network-Health-Check) | 2 | 0 | Python | 0 | Python Code that allows Network Engineers to run through their IOS,IOSXE and NXOS infrsatructure for layer 1 issues. | 2020-12-10 |
-| 68 | [kaia-eliza-plugin](https://github.com/kaiachain/kaia-eliza-plugin) | 2 | 2 | TypeScript | 0 | Kaia Plugin for ElizaOS | 2025-04-16 |
-| 69 | [NPSharp](https://github.com/icedream/NPSharp) | 2 | 1 | C# | 0 | Library for communication with NTAuthority's Network Platform (Terminal/Layer1) server. | 2015-03-22 |
+| 68 | [NPSharp](https://github.com/icedream/NPSharp) | 2 | 1 | C# | 0 | Library for communication with NTAuthority's Network Platform (Terminal/Layer1) server. | 2015-03-22 |
+| 69 | [kaia-eliza-plugin](https://github.com/kaiachain/kaia-eliza-plugin) | 2 | 2 | TypeScript | 0 | Kaia Plugin for ElizaOS | 2025-04-16 |
 | 70 | [Phantasma-UnityPackage](https://github.com/phantasma-io-archive/Phantasma-UnityPackage) | 2 | 4 | C# | 0 | Unity SDK for Phantasma | 2023-04-04 |
 | 71 | [concordium-mcp-server](https://github.com/Developerayo/concordium-mcp-server) | 2 | 1 | TypeScript | 1 | Concordium mcp-sever for interacting with the concordium chain | 2025-07-30 |
 | 72 | [tp5-layer-admin](https://github.com/z1px/tp5-layer-admin) | 2 | 0 | PHP | 0 | 基于thinkphp5.0.10+layer1.0.9-rls后台权限管理系统 | 2017-11-29 |
@@ -86,8 +86,8 @@
 | 78 | [Bitmask-Snap](https://github.com/bitmask-stack/Bitmask-Snap) | 2 | 1 | TypeScript | 0 | Built at ETHDENVER2024, The BitMask <> MetaMask Snap will offer seamless and secure access to the Bitcoin ecosystem for 35 million MetaMask users. This encompasses BTC layer1, the Lightning network, B... | 2024-05-17 |
 | 79 | [layer2-course](https://github.com/Web3Arabs/layer2-course) | 2 | 0 | - | 0 | محتوى الدورة التدريبية مقدمة إلى Layer2 و Rollups في Web3Arabs - الأفضل للمبتدئين للحصول على نظرة عامة حول حلول الطبقة الثانية وتقنيات Rollups للتوسع في Ethereum | 2023-09-18 |
 | 80 | [eventify](https://github.com/lbkolev/eventify) | 2 | 0 | Rust | 0 | EVM event pipeline | 2024-03-13 |
-| 81 | [doc](https://github.com/Amichain/doc) | 2 | 1 | TypeScript | 0 | Amichain documentation - Layer 1 blockchain ecosystem by AMI (Avax Meme Index) team | 2025-06-26 |
-| 82 | [l1chain_JIHO](https://github.com/ITJHIT/l1chain_JIHO) | 2 | 0 | Go | 0 | A Layer-1 blockchain built from scratch in Go: proof-of-work consensus with difficulty retarget, libp2p gossip and chain sync, a custom stack VM, an embedded EVM running standard ERC-20 contracts, JSO... | 2026-08-08 |
+| 81 | [l1chain_JIHO](https://github.com/ITJHIT/l1chain_JIHO) | 2 | 0 | Go | 0 | A Layer-1 blockchain built from scratch in Go: proof-of-work consensus with difficulty retarget, libp2p gossip and chain sync, a custom stack VM, an embedded EVM running standard ERC-20 contracts, JSO... | 2026-08-08 |
+| 82 | [doc](https://github.com/Amichain/doc) | 2 | 1 | TypeScript | 0 | Amichain documentation - Layer 1 blockchain ecosystem by AMI (Avax Meme Index) team | 2025-06-26 |
 | 83 | [VRAM](https://github.com/MeoMunDep/VRAM) | 2 | 0 | Shell | 0 | Auto swap tokens, create agent, chat with agent. | 2025-11-12 |
 | 84 | [Absolute_Blockchain_Ultimate_Hybrid](https://github.com/Gruver87/Absolute_Blockchain_Ultimate_Hybrid) | 2 | 1 | Python | 0 | Hybrid Python/Rust L1 node for local mesh and evidence-first R&D — not a public mainnet. | 2026-08-07 |
 | 85 | [lvault](https://github.com/laincloud/lvault) | 1 | 5 | CSS | 0 | Secret files configuration system for LAIN. (LAIN VAULT) | 2018-09-26 |
@@ -101,8 +101,8 @@
 | 93 | [Validator-List](https://github.com/0xCrazy-crypto/Validator-List) | 1 | 0 | - | 0 | Validator-List of STBL Layer1 | 2025-06-27 |
 | 94 | [APTOS](https://github.com/Sazharr911/APTOS) | 1 | 0 | - | 0 | Aptos is a decentralized Layer1 blockchain  | 2024-02-25 |
 | 95 | [Nexus-layer1](https://github.com/wenxpy/Nexus-layer1) | 1 | 0 | - | 0 |  | 2025-07-02 |
-| 96 | [layer1.wtf](https://github.com/L1Beat/layer1.wtf) | 1 | 1 | TypeScript | 0 |  | 2026-02-15 |
-| 97 | [layer1.foundation](https://github.com/layer1foundation/layer1.foundation) | 1 | 0 | TypeScript | 0 | NextJS landing page for the Non-Profit Layer 1 Foundation. | 2024-06-25 |
-| 98 | [Layer10_assignment](https://github.com/ShubhanshiJ30/Layer10_assignment) | 1 | 0 | Python | 0 |  | 2026-03-06 |
+| 96 | [layer1.foundation](https://github.com/layer1foundation/layer1.foundation) | 1 | 0 | TypeScript | 0 | NextJS landing page for the Non-Profit Layer 1 Foundation. | 2024-06-25 |
+| 97 | [Layer10_assignment](https://github.com/ShubhanshiJ30/Layer10_assignment) | 1 | 0 | Python | 0 |  | 2026-03-06 |
+| 98 | [layer1.wtf](https://github.com/L1Beat/layer1.wtf) | 1 | 1 | TypeScript | 0 |  | 2026-02-15 |
 | 99 | [agents.layer1.cash](https://github.com/toorik2/agents.layer1.cash) | 1 | 1 | CSS | 0 | BCH context site for AI agents — raw markdown for machines, SolidJS SPA for humans | 2026-02-16 |
-| 100 | [jump.layer1.cash](https://github.com/toorik2/jump.layer1.cash) | 1 | 0 | Solidity | 0 |  | 2025-12-21 |
+| 100 | [ACI_LAYER1_HEALTH_CHECK](https://github.com/yzmar4real/ACI_LAYER1_HEALTH_CHECK) | 1 | 0 | Python | 0 |  Python Code that allows Network Engineers to run through their ACI Infrastructure for Layer 1 availability and compare to a set of interfaces that reflects their tenant computing a health score | 2021-06-21 |
