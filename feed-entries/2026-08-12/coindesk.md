@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-08-12"
 date: "2026-08-12"
 source: "CoinDesk"
-count: 23
+count: 25
 ---
 
 # CoinDesk - 2026-08-12
 
-23 items collected.
+25 items collected.
 
 ---
 
-## 1. Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout
+## 1. Prediction markets should dial back faulty filings for incentives to boost trading: CFTC
+
+**Author:** Jesse Hamilton  
+**Published:** 8/12/2026, 11:16:53 PM  
+**Categories:** Policy, Kalshi, Polymarket, Prediction Markets, Regulation, News  
+
+The U.S. regulator of platforms such as Kalshi and Polymarket suggests the industry is getting into bad compliance habits that may allow for market abuse.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc)
+
+---
+
+## 2. Securitize falls 20% after earnings miss as tokenization revenue falls short
+
+**Author:** Krisztian Sandor  
+**Published:** 8/12/2026, 10:26:24 PM  
+**Categories:** Markets, Tokenization, News  
+
+Tokenized assets hit a record and trading activity jumped, but revenue slipped in the firm’s first earnings report since going public.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/12/securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short)
+
+---
+
+## 3. Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank
+
+**Author:** Jesse Hamilton  
+**Published:** 8/12/2026, 10:11:09 PM  
+**Categories:** Policy, Zerohash, Morgan Stanley, banks, Exclusive, News  
+
+Zerohash, which handles crypto plumbing for Morgan Stanley's E*Trade, said it's planning on re-filing and hoping for a swift resolution.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank)
+
+---
+
+## 4. Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout
 
 **Author:** Olivier Acuna  
 **Published:** 8/12/2026, 5:21:03 PM  
@@ -23,7 +59,7 @@ The $2.25 billion deal expands Goldman’s derivative platform to $130 billion i
 
 ---
 
-## 2. Wintermute plans $1 billion AI push beyond crypto: Bloomberg
+## 5. Wintermute plans $1 billion AI push beyond crypto: Bloomberg
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/12/2026, 4:34:24 PM  
@@ -35,19 +71,19 @@ The firm aims for non-crypto markets to drive over 50% of revenue by 2027, up fr
 
 ---
 
-## 3. Kalshi taps Solana platform for Wall Street-style high-speed data feed
+## 6. Kalshi taps DoubleZero for Wall Street-style high-speed data feed
 
 **Author:** Jamie Crawley  
 **Published:** 8/12/2026, 4:14:49 PM  
 **Categories:** Finance, Kalshi, Solana News, Prediction Markets, Institutional Investors, News  
 
-Kalshi is looking to meet institutional demands by adding Solana-based DoubleZero data to its order book.
+Kalshi is looking to meet institutional demands by adding DoubleZero data to its order book.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed)
 
 ---
 
-## 4. Miden bets on privacy stablecoins with introduction of USDCx
+## 7. Miden bets on privacy stablecoins with introduction of USDCx
 
 **Author:** Will Canny,AI Boost  
 **Published:** 8/12/2026, 3:00:00 PM  
@@ -59,7 +95,7 @@ USDCx will let users transact without publicly exposing balances, counterparties
 
 ---
 
-## 5. Crypto Long & Short: When capital can't move fast enough, markets pay the price
+## 8. Crypto Long & Short: When capital can't move fast enough, markets pay the price
 
 **Author:** Jenna Wright  
 **Published:** 8/12/2026, 2:51:12 PM  
@@ -71,7 +107,7 @@ In this week's Crypto Long & Short, LMAX Group's Jenna Wright argues that market
 
 ---
 
-## 6. Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says
+## 9. Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 8/12/2026, 1:39:31 PM  
@@ -83,7 +119,7 @@ In this week's Crypto Long & Short, LMAX Group's Jenna Wright argues that market
 
 ---
 
-## 7. Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin
+## 10. Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/12/2026, 1:13:49 PM  
@@ -95,7 +131,7 @@ HashKey Exchange and OSL Group are now authorized distributors, enabling institu
 
 ---
 
-## 8. America doesn’t need a second-class payments system
+## 11. America doesn’t need a second-class payments system
 
 **Author:** Rachel Anderika  
 **Published:** 8/12/2026, 1:00:00 PM  
@@ -107,7 +143,7 @@ If an institution qualifies to participate in America’s banking system, it sho
 
 ---
 
-## 9. U.S. CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000
+## 12. U.S. CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000
 
 **Author:** James Van Straten,Krisztian Sandor,Omkar Godbole  
 **Published:** 8/12/2026, 12:44:39 PM  
@@ -119,7 +155,7 @@ Both headline and core inflation matched economists’ expectations, while bitco
 
 ---
 
-## 10. FlightAware drops Kalshi lawsuit over a market niche that data shows it never took off
+## 13. FlightAware drops Kalshi lawsuit over a market niche that data shows it never took off
 
 **Author:** Olivier Acuna  
 **Published:** 8/12/2026, 11:44:10 AM  
@@ -131,7 +167,7 @@ The flight-tracking company voluntarily dismissed, without prejudice and without
 
 ---
 
-## 11. Russia moves to restrict retail crypto trading to bitcoin, ether and USDT
+## 14. Russia moves to restrict retail crypto trading to bitcoin, ether and USDT
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/12/2026, 11:19:32 AM  
@@ -143,7 +179,7 @@ Non-qualified investors face a 300,000-ruble (approx. $3,600) annual purchase li
 
 ---
 
-## 12. XRP trading could get spicy after CPI report as futures bets hit highest since October
+## 15. XRP trading could get spicy after CPI report as futures bets hit highest since October
 
 **Author:** Omkar Godbole  
 **Published:** 8/12/2026, 11:15:00 AM  
@@ -155,7 +191,7 @@ Your day-ahead look for Aug. 12, 2026
 
 ---
 
-## 13. Bitcoin holds near $64,000 as U.S. inflation data looms, Harmony exploit rattles altcoins
+## 16. Bitcoin holds near $64,000 as U.S. inflation data looms, Harmony exploit rattles altcoins
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 8/12/2026, 10:30:10 AM  
@@ -167,7 +203,7 @@ Markets are quiet ahead of the July inflation print, with bitcoin little changed
 
 ---
 
-## 14. Bank of England to test stablecoin, digital currency use in cross-border finance
+## 17. Bank of England to test stablecoin, digital currency use in cross-border finance
 
 **Author:** Olivier Acuna  
 **Published:** 8/12/2026, 10:17:05 AM  
@@ -179,7 +215,7 @@ The BOE-led Digital Pound Lab will test trade-finance interoperability, in which
 
 ---
 
-## 15. CoreWeave surges 16% on $2.58 billion revenue quarter as AI infrastructure demand eclipses crypto
+## 18. CoreWeave surges 16% on $2.58 billion revenue quarter as AI infrastructure demand eclipses crypto
 
 **Author:** James Van Straten  
 **Published:** 8/12/2026, 9:41:52 AM  
@@ -191,7 +227,7 @@ Booming AI demand sends CRWV up 16% and lifts IREN and CIFR as investors favor c
 
 ---
 
-## 16. Fidelity moves to add staking, quarterly payouts to near $900 million ether ETF
+## 19. Fidelity moves to add staking, quarterly payouts to near $900 million ether ETF
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/12/2026, 9:30:20 AM  
@@ -203,7 +239,7 @@ The fund would keep 85% of gross staking rewards, with the remaining 15% going t
 
 ---
 
-## 17. One overlooked group has added $1.78 billion of selling pressure to bitcoin market
+## 20. One overlooked group has added $1.78 billion of selling pressure to bitcoin market
 
 **Author:** Omkar Godbole  
 **Published:** 8/12/2026, 8:53:23 AM  
@@ -215,7 +251,7 @@ Public miners are an underappreciated source of supply hitting the market right 
 
 ---
 
-## 18. Live updates: AI stocks surge on Q2 beats, bitcoin falls below $64,000 as inflation hits estimates
+## 21. Live updates: AI stocks surge on Q2 beats, bitcoin falls below $64,000 as inflation hits estimates
 
 **Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Krisztian Sandor  
 **Published:** 8/12/2026, 7:04:53 AM  
@@ -227,7 +263,7 @@ Blockchain data shows the Japanese treasury firm moved the bitcoin between walle
 
 ---
 
-## 19. Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities
+## 22. Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities
 
 **Author:** Krisztian Sandor  
 **Published:** 8/12/2026, 6:00:00 AM  
@@ -239,7 +275,7 @@ The exchange is joining a tokenized stock market that has grown 600% in a year, 
 
 ---
 
-## 20. Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print
+## 23. Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print
 
 **Author:** Omkar Godbole  
 **Published:** 8/12/2026, 5:26:55 AM  
@@ -251,7 +287,7 @@ Bitcoin and ether are stuck in a tight range ahead of the CPI. Here’s how savv
 
 ---
 
-## 21. Harmony’s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply
+## 24. Harmony’s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply
 
 **Author:** Shaurya Malwa  
 **Published:** 8/12/2026, 5:18:40 AM  
@@ -263,7 +299,7 @@ Harmony said in Asian morning hours it is working with exchanges to freeze funds
 
 ---
 
-## 22. Dogecoin and BNB lead majors higher as bitcoin slips near $63,700
+## 25. Dogecoin and BNB lead majors higher as bitcoin slips near $63,700
 
 **Author:** Shaurya Malwa  
 **Published:** 8/12/2026, 4:53:46 AM  
@@ -272,17 +308,5 @@ Harmony said in Asian morning hours it is working with exchanges to freeze funds
 DOGE gained almost 3% to 7 cents and BNB 2% to $614, while bitcoin was the only major in the red on both the day and the week.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700)
-
----
-
-## 23. XRP bridge drained for $200,000 after software mistook fake deposits for real ones
-
-**Author:** Shaurya Malwa  
-**Published:** 8/12/2026, 4:33:25 AM  
-**Categories:** Tech, News  
-
-An attacker created unbacked XRP on another blockchain, then exchanged it for real XRP held in reserve. The bridge has been halted and its operator has filed a complaint with the FBI.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones)
 
 ---
