@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-12"
 date: "2026-08-12"
 source: "The Block"
-count: 15
+count: 8
 ---
 
 # The Block - 2026-08-12
 
-15 items collected.
+8 items collected.
 
 ---
 
@@ -104,89 +104,5 @@ SKALE Labs launched Agent Pit, a Polymarket-inspired, paper-trading prediction m
 Plan B Network director Giacomo Zucco says BIP-110’s failure exposed the challenges of recreating Bitcoin’s early development.
 
 📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-12-bip-110-failure-bitcoin-impossible-reproduce-plan-b-network-director-411596)
-
----
-
-## 9. Attackers keep hitting the wrong house in rural France after crypto millionaire moved: report
-
-**Author:** Daniel Kuhn  
-**Published:** 8/12/2026, 3:30:05 PM  
-**Categories:** Crypto Ecosystems, Policy, Regulation, Security, Hacks  
-
-A French couple in the Somme who bought a former crypto millionaires’ house have been targeted in three separate home invasions.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-12-attackers-keep-hitting-wrong-house-rural-france-after-crypto-millionaire-moved-report-411605)
-
----
-
-## 10. New York City Council opens probe into prediction market platforms
-
-**Author:** Sarah Wynn  
-**Published:** 8/12/2026, 3:18:01 PM  
-**Categories:** Policy, Regulation  
-
-The NYC Council has opened a probe into prediction market platforms over alleged "false, deceptive, or abusive marketing tactics."
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-12-new-york-city-council-opens-probe-into-prediction-market-platforms-411604)
-
----
-
-## 11. Bitcoin dips under $64,000 as in-line CPI buys the Fed time, not conviction: analysts
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 8/12/2026, 2:35:08 PM  
-**Categories:** Central Banks, Crypto Ecosystems, Equities, Layer 1s, Markets, Policy, Regulation, Token Projects, Analyst Reports, Bitcoin, Federal Reserve  
-
-Bitcoin fell under $64,000 after July CPI matched forecasts at 3.4%, with analysts saying the in-line print keeps the Fed patient.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-12-bitcoin-dips-under-64000-in-line-cpi-buys-fed-time-not-conviction-analysts-411594)
-
----
-
-## 12. Kalshi first prediction market to stream full order books via DoubleZero
-
-**Author:** Daniel Kuhn  
-**Published:** 8/12/2026, 2:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, Markets, Tech, Data Providers, Internet  
-
-The move gives institutional traders direct access to Level 1 and Level 2 data without having to reconstruct the book from APIs.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-12-kalshi-first-prediction-market-to-stream-full-order-books-via-doublezero-411589)
-
----
-
-## 13. Standard Chartered-backed Anchorpoint begins HKDAP stablecoin rollout
-
-**Author:** Brian Danga  
-**Published:** 8/12/2026, 12:16:29 PM  
-**Categories:** Companies, Crypto Ecosystems, Policy, Regulation, Web3, Asia  
-
-Standard Chartered-backed Anchorpoint began an institutional rollout of its Hong Kong dollar stablecoin, HKDAP, following licensing approval.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-12-standard-chartered-anchorpoint-hkdap-stablecoin-rollout-411575)
-
----
-
-## 14. Bitcoin market in ‘hibernation’ as perp trading activity sinks to three-year low ahead of US CPI release: K33
-
-**Author:** James Hunt  
-**Published:** 8/12/2026, 10:40:56 AM  
-**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin  
-
-Elevated open interest leaves the market exposed to sharper liquidation-driven moves, K33 said, as traders await Wednesday's U.S. CPI report.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-12-bitcoin-perp-trading-activity-three-year-low-us-cpi-k33-411545)
-
----
-
-## 15. Australian regulator takes down Yepbit websites as investors report blocked withdrawals
-
-**Author:** Brian Danga  
-**Published:** 8/12/2026, 8:26:21 AM  
-**Categories:** Policy, Regulation  
-
-Australia's ASIC took down Yepbit websites and denied the platform's false claims that the regulator had frozen investor funds.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-12-australian-regulator-takes-down-yepbit-websites-411538)
 
 ---
