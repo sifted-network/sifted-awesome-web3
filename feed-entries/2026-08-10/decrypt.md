@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-10"
 date: "2026-08-10"
 source: "Decrypt"
-count: 9
+count: 5
 ---
 
 # Decrypt - 2026-08-10
 
-9 items collected.
+5 items collected.
 
 ---
 
@@ -68,53 +68,5 @@ A Bitcoin address that sat untouched for more than 12 years just moved 26.96 BTC
 Banks financing the AI infrastructure boom are now weighing local public opposition alongside permits and costs.
 
 📖 [Read original article](https://decrypt.co/375237/wall-street-data-centers-backlash-credit-risk)
-
----
-
-## 6. Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/10/2026, 5:51:04 PM  
-**Categories:** , , Business  
-
-A new report maps Brazil's push to bring its vast crypto market under formal supervision by October 30.
-
-📖 [Read original article](https://decrypt.co/375249/brazils-319b-crypto-market-faces-october-licensing-deadline-certik)
-
----
-
-## 7. Bitcoin Rally Fades—Where Does Price Go Next?
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/10/2026, 5:18:49 PM  
-**Categories:** Markets  
-
-The price of Bitcoin is up on the seven-day chart, today bouncing to a high of $65,000. But bearish market pressure persists.
-
-📖 [Read original article](https://decrypt.co/375238/bitcoin-rally-stalls-price-next-prediction-market)
-
----
-
-## 8. Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes
-
-**Author:** Pauline Shangett  
-**Published:** 8/10/2026, 4:25:28 PM  
-**Categories:** , , , Opinion  
-
-When the same mistake recurs across many users, it stops being client error and becomes product data, argues ChangeNOW's Pauline Shangett.
-
-📖 [Read original article](https://decrypt.co/375226/web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes)
-
----
-
-## 9. XRP Price Weakens as Crypto Market Awaits Clarity
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/10/2026, 4:11:20 PM  
-**Categories:** , Markets  
-
-XRP is trading just above $1.00, still pinned under a death cross, as the legislative tailwind that lifted it in July loses steam.
-
-📖 [Read original article](https://decrypt.co/375214/xrp-price-weakens-crypto-market-awaits-clarity)
 
 ---
