@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-12"
 date: "2026-08-12"
 source: "CoinDesk"
-count: 25
+count: 21
 ---
 
 # CoinDesk - 2026-08-12
 
-25 items collected.
+21 items collected.
 
 ---
 
@@ -107,13 +107,13 @@ In this week's Crypto Long & Short, LMAX Group's Jenna Wright argues that market
 
 ---
 
-## 9. Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says
+## 9. Solana neared a freeze threshold Wednesday, Marinade Finance says. The Foundation says it held up under stress.
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 8/12/2026, 1:39:31 PM  
 **Categories:** Tech, Solana News, News  
 
-
+A routing glitch at a major data center provider knocked nearly 29% of Solana’s staked tokens offline, bringing the network within striking distance of a full freeze, while Foundation executives stressed that blocks and transactions never stopped.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says)
 
@@ -260,53 +260,5 @@ Public miners are an underappreciated source of supply hitting the market right 
 Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets)
-
----
-
-## 22. Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities
-
-**Author:** Krisztian Sandor  
-**Published:** 8/12/2026, 6:00:00 AM  
-**Categories:** Finance, Tokenization, News  
-
-The exchange is joining a tokenized stock market that has grown 600% in a year, though its products offer price exposure rather than share ownership.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities)
-
----
-
-## 23. Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print
-
-**Author:** Omkar Godbole  
-**Published:** 8/12/2026, 5:26:55 AM  
-**Categories:** Finance, Bitcoin News, Ethereum News, Markets, News  
-
-Bitcoin and ether are stuck in a tight range ahead of the CPI. Here’s how savvy traders are positioning for the pivotal release.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print)
-
----
-
-## 24. Harmony’s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply
-
-**Author:** Shaurya Malwa  
-**Published:** 8/12/2026, 5:18:40 AM  
-**Categories:** Markets, News  
-
-Harmony said in Asian morning hours it is working with exchanges to freeze funds and preparing a software fix.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens)
-
----
-
-## 25. Dogecoin and BNB lead majors higher as bitcoin slips near $63,700
-
-**Author:** Shaurya Malwa  
-**Published:** 8/12/2026, 4:53:46 AM  
-**Categories:** Markets, News  
-
-DOGE gained almost 3% to 7 cents and BNB 2% to $614, while bitcoin was the only major in the red on both the day and the week.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700)
 
 ---
