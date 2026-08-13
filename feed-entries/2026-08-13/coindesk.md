@@ -2,28 +2,136 @@
 title: "CoinDesk - 2026-08-13"
 date: "2026-08-13"
 source: "CoinDesk"
-count: 11
+count: 20
 ---
 
 # CoinDesk - 2026-08-13
 
-11 items collected.
+20 items collected.
 
 ---
 
-## 1. Bullish Q2 adjusted earnings in line as rise in subscription revenue offsets digital asset slowdown
+## 1. Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin
 
-**Author:** James Van Straten  
+**Author:** Krisztian Sandor  
+**Published:** 8/13/2026, 6:26:21 PM  
+**Categories:** Finance, Tether, Stablecoins, News  
+
+KPMG U.S. examined Tether's books and even counted its gold bars as the $180 billion USDT issuer said it completed its long-promised financial audit.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin)
+
+---
+
+## 2. Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests
+
+**Author:** Omkar Godbole  
+**Published:** 8/13/2026, 5:43:25 PM  
+**Categories:** Markets, News  
+
+The thesis is that high yields on long-term U.S. Treasuries make non-yielding assets like bitcoin less attractive.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests)
+
+---
+
+## 3. Trezor warns 14,000 customers after fulfilment partner suffers data breach
+
+**Author:** Olivier Acuna  
+**Published:** 8/13/2026, 5:10:57 PM  
+**Categories:** Tech, Data Breaches, Ledger, News  
+
+The incident marks the first time Trezor customers' shipping addresses were exposed.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach)
+
+---
+
+## 4. Crypto for Advisors: The crypto advice gap
+
+**Author:** Joyce Lai  
+**Published:** 8/13/2026, 3:00:00 PM  
+**Categories:** CoinDesk Indices, News  
+
+You’re reading Crypto for Advisors, CoinDesk’s weekly newsletter that unpacks digital assets for financial advisors. Subscribe here to get it every Thursday.
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-for-advisors-the-crypto-advice-gap)
+
+---
+
+## 5. B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth
+
+**Author:** Will Canny  
+**Published:** 8/13/2026, 2:43:38 PM  
+**Categories:** Finance, B2C2, Crypto Trading, News  
+
+The institutional crypto liquidity provider is bringing on the former Schroders Wealth Management Asia chairman as it targets family offices and asset managers across the region.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/13/b2c2-taps-schroders-veteran-to-chase-asia-s-growing-crypto-wealth)
+
+---
+
+## 6. Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation
+
+**Author:** Olivier Acuna  
+**Published:** 8/13/2026, 2:16:06 PM  
+**Categories:** Finance, Kalshi, Prediction Markets, Funding Rounds, News  
+
+The prediction-market platform raised $1 billion at a $22 billion valuation in May and is now discussing a new round that could nearly double that figure.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/13/kalshi-in-talks-with-sequoia-wellington-for-usd750-million-fund-raise-at-usd40-billion-valuation)
+
+---
+
+## 7. Swissquote cuts full-year guidance as 1H crypto income plunges, shares slide
+
+**Author:** Francisco Rodrigues  
+**Published:** 8/13/2026, 1:41:32 PM  
+**Categories:** Finance, Crypto News, News  
+
+The online bank cut full-year revenue and profit forecasts after first-half crypto trading levels slumped.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/13/swissquote-cuts-full-year-guidance-as-1h-crypto-income-plunges-shares-slide)
+
+---
+
+## 8. Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam
+
+**Author:** Olivier Acuna  
+**Published:** 8/13/2026, 1:37:56 PM  
+**Categories:** Finance, Fraud, Crime, News  
+
+A South Korean court sentenced the head of centralized finance (CeFi) lender Delio to 15 years in prison for embezzling digital assets from more than 1,100 customers.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/13/crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-usd50-million-scam)
+
+---
+
+## 9. Figure revenue doubles as blockchain loan marketplace volumes surge
+
+**Author:** Krisztian Sandor  
+**Published:** 8/13/2026, 1:29:28 PM  
+**Categories:** Finance, Tokenization, News  
+
+The tokenization-focused lender posted $226 million in quarterly revenue as blockchain loan marketplace volume jumped to $4.3 billion.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/13/figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge)
+
+---
+
+## 10. Bullish shares surge 14% as subscription revenue offsets digital asset slowdown
+
+**Author:** James Van Straten,Jamie Crawley  
 **Published:** 8/13/2026, 12:09:58 PM  
 **Categories:** Finance, Bullish, Earnings, Crypto Trading, News  
 
-Digital asset sales slumped to $32.6 billion from $58.6 billiion a year earlier, but other revenues roughly doubled year-over-year to just shy of $65 billion.
+Bullish's second-quarter loss of $280 million was mostly attributable to a $244.6 million markdown on the company’s bitcoin holdings.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows)
 
 ---
 
-## 2. Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token
+## 11. Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token
 
 **Author:** Omkar Godbole  
 **Published:** 8/13/2026, 11:35:53 AM  
@@ -35,7 +143,7 @@ Your day-ahead look for Aug. 13, 2026
 
 ---
 
-## 3. Bitcoin holds steady near $64,000 as monero, hyperliquid outperform
+## 12. Bitcoin holds steady near $64,000 as monero, hyperliquid outperform
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 8/13/2026, 11:02:43 AM  
@@ -47,7 +155,7 @@ Crypto markets remain in a low volatility holding pattern, trading in a tight ra
 
 ---
 
-## 4. MUFG to test real-time blockchain settlement for Japanese government bond trades
+## 13. MUFG to test real-time blockchain settlement for Japanese government bond trades
 
 **Author:** Jamie Crawley  
 **Published:** 8/13/2026, 10:15:32 AM  
@@ -59,7 +167,7 @@ MUFG is preparing a proof-of-concept for onchain JGB transactions using the Cant
 
 ---
 
-## 5. Brazil’s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC
+## 14. Brazil’s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/13/2026, 9:39:52 AM  
@@ -71,9 +179,9 @@ DIGY11 aims for annual distributions matching Brazil’s interbank rate plus 3�
 
 ---
 
-## 6. Live updates: Bitcoin continues flat near $63,500 as U.S. PPI softer than forecast in July
+## 15. Live updates: Bitcoin stuck near $63,500 even as Fed rate hike expectations dwindle
 
-**Author:** Omkar Godbole,James Van Straten,Krisztian Sandor  
+**Author:** Omkar Godbole,James Van Straten,Krisztian Sandor,Stephen Alpher  
 **Published:** 8/13/2026, 9:18:19 AM  
 **Categories:** Tech, Inflation, Live News, live_news  
 
@@ -83,7 +191,7 @@ An in-depth analysis of the U.S. CPI released Wednesday suggests the underlying 
 
 ---
 
-## 7. Bitcoin treasury company Metaplanet unveils BitBonds with $1.3 million private debt sale
+## 16. Bitcoin treasury company Metaplanet unveils BitBonds with $1.3 million private debt sale
 
 **Author:** James Van Straten  
 **Published:** 8/13/2026, 9:14:15 AM  
@@ -95,7 +203,7 @@ The inaugural unsecured bonds offer annual interest of up to 4.3%, while exposin
 
 ---
 
-## 8. Metaplanet denies selling bitcoin worth $320 million
+## 17. Metaplanet denies selling bitcoin worth $320 million
 
 **Author:** Omkar Godbole  
 **Published:** 8/13/2026, 5:34:48 AM  
@@ -107,7 +215,7 @@ Metaplanet CEO dismisses bitcoin sale rumors, confirms 43,000 BTC holdings
 
 ---
 
-## 9. Bitcoin firms ask AI labs for same tools attackers already have
+## 18. Bitcoin firms ask AI labs for same tools attackers already have
 
 **Author:** Shaurya Malwa  
 **Published:** 8/13/2026, 5:21:21 AM  
@@ -119,7 +227,7 @@ Coinbase, Block, BitGo and dozens of others signed a letter arguing that safety 
 
 ---
 
-## 10. Speculation on dogecoin is back to October 2025 levels. The price is down 70%
+## 19. Speculation on dogecoin is back to October 2025 levels. The price is down 70%
 
 **Author:** Shaurya Malwa  
 **Published:** 8/13/2026, 4:06:16 AM  
@@ -131,7 +239,7 @@ Futures positioning has rebuilt to levels last seen when dogecoin traded at thre
 
 ---
 
-## 11. Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests
+## 20. Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests
 
 **Author:** Shaurya Malwa  
 **Published:** 8/13/2026, 3:39:06 AM  
