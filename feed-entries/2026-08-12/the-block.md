@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-12"
 date: "2026-08-12"
 source: "The Block"
-count: 18
+count: 15
 ---
 
 # The Block - 2026-08-12
 
-18 items collected.
+15 items collected.
 
 ---
 
@@ -188,41 +188,5 @@ Elevated open interest leaves the market exposed to sharper liquidation-driven m
 Australia's ASIC took down Yepbit websites and denied the platform's false claims that the regulator had frozen investor funds.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-12-australian-regulator-takes-down-yepbit-websites-411538)
-
----
-
-## 16. FlightAware drops lawsuit against Kalshi one day after filing
-
-**Author:** Timmy Shen  
-**Published:** 8/12/2026, 7:50:34 AM  
-**Categories:** Companies, Policy, Regulation  
-
-The flight tracker previously claimed that Kalshi improperly used its data and trademark to run prediction markets on flight cancellations.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-12-flightaware-drops-kalshi-lawsuit-411534)
-
----
-
-## 17. Harmony confirms exploit involving unauthorized minting of 4 billion ONE tokens
-
-**Author:** Danny Park  
-**Published:** 8/12/2026, 6:24:39 AM  
-**Categories:** Crypto Ecosystems, DeFi, Security, Exploits  
-
-X user Juiceberg reported earlier that an attacker had minted four billion ONE tokens without authorization.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-08-12-harmony-confirms-exploit-one-token-411527)
-
----
-
-## 18. Bitwise cuts 14% of staff as crypto layoffs mount during market downturn
-
-**Author:** Timmy Shen  
-**Published:** 8/12/2026, 5:52:59 AM  
-**Categories:** Companies  
-
-Bitwise CEO Hunter Horsley told The Block that the crypto asset manager trimmed its global team to around 155 last week.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-12-bitwise-layoffs-411522)
 
 ---
