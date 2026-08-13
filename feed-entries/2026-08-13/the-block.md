@@ -2,16 +2,100 @@
 title: "The Block - 2026-08-13"
 date: "2026-08-13"
 source: "The Block"
-count: 5
+count: 12
 ---
 
 # The Block - 2026-08-13
 
-5 items collected.
+12 items collected.
 
 ---
 
-## 1. South Korea sentences Delio CEO to 15 years in prison for $50 million crypto fraud: report
+## 1. Google ad phishing scam drains $550,000 from Hyperliquid user, security specialist says
+
+**Author:** RT Watson  
+**Published:** 8/13/2026, 6:45:33 PM  
+**Categories:** Companies, Crypto Ecosystems, Policy, Regulation, Security, Tech, Google, Hacks  
+
+In April, crypto security nonprofit Security Alliance (SEAL) said it had blocked 356 malicious Google ad URLs over a period of several weeks.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-13-google-ad-phishing-scam-drains-550000-from-hyperliquid-user-security-specialist-says-411755)
+
+---
+
+## 2. Citigroup CEO Fraser on Clarity Act: ‘We would like to see a good bill go through,’ as stablecoin reward issues simmer
+
+**Author:** Sarah Wynn  
+**Published:** 8/13/2026, 5:48:10 PM  
+**Categories:** Companies, Finance firms, Policy, Regulation, TradFi banks  
+
+Citigroup CEO Jane Fraser says she would like to see a crypto bill passed into law, even as she and others continue to fight for changes.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-13-citigroup-ceo-fraser-on-clarity-act-we-would-like-to-see-good-bill-go-stablecoin-reward-issues-simmer-411751)
+
+---
+
+## 3. Onchain lender Figure nearly triples quarterly profits as loan marketplace volume surges to $4.3 billion
+
+**Author:** RT Watson  
+**Published:** 8/13/2026, 3:54:52 PM  
+**Categories:** Companies, Equities, Markets, Earnings  
+
+The company said its net income increased 192% to $87 million from $30 million during the same period a year ago.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-13-onchain-lender-figure-nearly-triples-quarterly-profits-as-loan-marketplace-volume-surges-to-4-3-billion-411736)
+
+---
+
+## 4. Trezor shipping provider breach exposes personal data of nearly 14,000 customers
+
+**Author:** Kyle Baird  
+**Published:** 8/13/2026, 2:23:10 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Infrastructure, Wallet Makers, Wallets  
+
+Trezor said a ShipMonk breach exposed the personal data of nearly 14,000 hardware wallet customers, including some shipping addresses.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-13-trezor-shipping-provider-breach-exposes-personal-data-nearly-14000-customers-411702)
+
+---
+
+## 5. Bitcoin continues ranging as crowded longs meet soft inflation, the quietest tape since 2019: analysts
+
+**Author:** Naga Avan-Nomayo  
+**Published:** 8/13/2026, 2:19:09 PM  
+**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin  
+
+Bitcoin flattened under $64,000 as flat July PPI and in-line CPI both failed to spark a rally, with Glassnode flagging absent buyers.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-08-13-bitcoin-continues-ranging-as-crowded-longs-meet-soft-inflation-the-quietest-tape-since-2019-analysts-411708)
+
+---
+
+## 6. Ether.fi adds tokenized stocks, metals and Aave-powered portfolio loans in latest ‘neobank’ expansion
+
+**Author:** Daniel Kuhn  
+**Published:** 8/13/2026, 2:13:07 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Finance firms, Layer 1s, Markets, Token Projects, Ethereum, Fintech, Lending, Payments  
+
+Etherfi noted its updated app is “less crypto-forward,” and aimed at attracting “a much broader audience.”
+
+📖 [Read original article](https://www.theblock.co/news/defi/2026-08-13-ether-fi-adds-tokenized-stocks-metals-and-aave-powered-portfolio-loans-in-latest-neobank-expansion-411704)
+
+---
+
+## 7. Peter Thiel-backed Bullish posts $280 million Q2 net loss as digital asset sales fall 44%
+
+**Author:** Brian Danga  
+**Published:** 8/13/2026, 1:10:53 PM  
+**Categories:** Companies, Equities, Markets, Earnings  
+
+Peter Thiel-backed crypto exchange Bullish reported a $280 million Q2 net loss as digital asset sales fell 44% and adjusted revenue rose 62%.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-13-peter-thiel-backed-bullish-posts-280-million-q2-net-loss-as-digital-asset-sales-fall-44-411695)
+
+---
+
+## 8. South Korea sentences Delio CEO to 15 years in prison for $50 million crypto fraud: report
 
 **Author:** Danny Park  
 **Published:** 8/13/2026, 9:16:41 AM  
@@ -23,7 +107,7 @@ The sentence is shorter than the 20-year term that prosecutors sought, as the ju
 
 ---
 
-## 2. Bitwise CIO sees market repricing as crypto embraces ‘revenue fever’
+## 9. Bitwise CIO sees market repricing as crypto embraces ‘revenue fever’
 
 **Author:** Brian Danga  
 **Published:** 8/13/2026, 8:34:11 AM  
@@ -35,7 +119,7 @@ Bitwise CIO sees crypto valuations doubling as decentralized finance apps and pr
 
 ---
 
-## 3. Mirae Asset to inject additional $35 million into Korbit crypto exchange following July acquisition: report
+## 10. Mirae Asset to inject additional $35 million into Korbit crypto exchange following July acquisition: report
 
 **Author:** Danny Park  
 **Published:** 8/13/2026, 7:29:13 AM  
@@ -47,7 +131,7 @@ Mirae Asset completed the acquisition of Korbit in July, acquiring 97.15% of the
 
 ---
 
-## 4. Blockchain Association backs Custodia’s Supreme Court bid over Fed master account access
+## 11. Blockchain Association backs Custodia’s Supreme Court bid over Fed master account access
 
 **Author:** Timmy Shen  
 **Published:** 8/13/2026, 6:07:59 AM  
@@ -59,7 +143,7 @@ The industry group said the case is about ensuring 'lawful digital asset busines
 
 ---
 
-## 5. BitGo sees revenue jump 80% to $4.3 billion in Q2 but posts net loss
+## 12. BitGo sees revenue jump 80% to $4.3 billion in Q2 but posts net loss
 
 **Author:** Danny Park  
 **Published:** 8/13/2026, 3:07:09 AM  
