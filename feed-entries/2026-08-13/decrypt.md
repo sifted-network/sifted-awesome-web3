@@ -2,16 +2,76 @@
 title: "Decrypt - 2026-08-13"
 date: "2026-08-13"
 source: "Decrypt"
-count: 13
+count: 18
 ---
 
 # Decrypt - 2026-08-13
 
-13 items collected.
+18 items collected.
 
 ---
 
-## 1. Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements
+## 1. 'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws
+
+**Author:** Jason Nelson  
+**Published:** 8/13/2026, 10:36:07 PM  
+**Categories:** , Artificial Intelligence  
+
+Bitcoin Red Team member Calle said Chinese models, including Moonshot AI’s Kimi K3, are finding bugs across Bitcoin’s open-source software.
+
+📖 [Read original article](https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi)
+
+---
+
+## 2. Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/13/2026, 9:45:04 PM  
+**Categories:** Artificial Intelligence  
+
+In a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.
+
+📖 [Read original article](https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged)
+
+---
+
+## 3. Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder
+
+**Author:** Jason Nelson  
+**Published:** 8/13/2026, 9:16:05 PM  
+**Categories:** , Coins  
+
+6th Man Ventures co-founder Mike Dudas says Solana’s infrastructure could carry crypto’s next wave.
+
+📖 [Read original article](https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream)
+
+---
+
+## 4. Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/13/2026, 8:30:24 PM  
+**Categories:** Artificial Intelligence  
+
+Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write—and it hasn't said how.
+
+📖 [Read original article](https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break)
+
+---
+
+## 5. Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/13/2026, 7:11:03 PM  
+**Categories:** Artificial Intelligence  
+
+Google's model is live and built for cheap agents; OpenAI's is quicker but locked behind a waitlist.
+
+📖 [Read original article](https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast)
+
+---
+
+## 6. Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements
 
 **Author:** Jason Nelson  
 **Published:** 8/13/2026, 6:39:11 PM  
@@ -23,7 +83,7 @@ Tether said KPMG gave its 2025 financial statements a clean opinion, a milestone
 
 ---
 
-## 2. White House Lets Private Firms Hack Cybercriminals—At Their Own Legal Risk
+## 7. White House Lets Private Firms Hack Cybercriminals—At Their Own Legal Risk
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/13/2026, 6:26:04 PM  
@@ -35,7 +95,7 @@ President Donald Trump signed a memorandum Tuesday that lets vetted U.S. compani
 
 ---
 
-## 3. Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms
+## 8. Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms
 
 **Author:** Jason Nelson  
 **Published:** 8/13/2026, 5:47:12 PM  
@@ -47,7 +107,7 @@ The Blockchain Association is urging the Supreme Court to take up Custodia’s c
 
 ---
 
-## 4. Bitcoin Companies Want Help From AI Labs to Guard Against Hackers
+## 9. Bitcoin Companies Want Help From AI Labs to Guard Against Hackers
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/13/2026, 5:11:04 PM  
@@ -59,7 +119,7 @@ More than 40 bitcoin and crypto firms asked the biggest AI labs this week to let
 
 ---
 
-## 5. Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds
+## 10. Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds
 
 **Author:** Jason Nelson  
 **Published:** 8/13/2026, 4:40:49 PM  
@@ -71,7 +131,7 @@ The company's CEO said a 5,014 BTC transfer was a custody move, not a sale, as t
 
 ---
 
-## 6. Hawaii To Ban Cash Deposits at Crypto ATMs From October
+## 11. Hawaii To Ban Cash Deposits at Crypto ATMs From October
 
 **Author:** Decrypt Agent  
 **Published:** 8/13/2026, 4:05:39 PM  
@@ -83,7 +143,7 @@ Lawmakers targeted the deposits that scammers rely on, with the machines still a
 
 ---
 
-## 7. FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report
+## 12. FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report
 
 **Author:** Decrypt Agent  
 **Published:** 8/13/2026, 2:31:56 PM  
@@ -95,7 +155,7 @@ An FCA employee bought crypto from a UK IP address using a driving license as ID
 
 ---
 
-## 8. Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans
+## 13. Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans
 
 **Author:** Jason Nelson  
 **Published:** 8/13/2026, 2:01:03 PM  
@@ -107,7 +167,7 @@ The Ethereum staking platform is adding asset trading, fiat accounts, and borrow
 
 ---
 
-## 9. Trezor Customer Data Exposed in Shipping Partner Breach
+## 14. Trezor Customer Data Exposed in Shipping Partner Breach
 
 **Author:** Decrypt Agent  
 **Published:** 8/13/2026, 1:10:43 PM  
@@ -119,7 +179,7 @@ The hardware wallet manufacturer says its devices and backups are untouched, but
 
 ---
 
-## 10. XRP Holders Can Now Trade Options Using Flare’s FXRP as Collateral
+## 15. XRP Holders Can Now Trade Options Using Flare’s FXRP as Collateral
 
 **Author:** Jason Nelson  
 **Published:** 8/13/2026, 1:01:05 PM  
@@ -131,7 +191,7 @@ The Derive integration gives XRP holders a way to hedge or speculate without dep
 
 ---
 
-## 11. Morning Minute: The SEC Plans Rules for Tokenized Stocks
+## 16. Morning Minute: The SEC Plans Rules for Tokenized Stocks
 
 **Author:** Tyler Warner  
 **Published:** 8/13/2026, 11:53:17 AM  
@@ -143,7 +203,7 @@ The new framework could be announced as soon as Friday, in what could be the big
 
 ---
 
-## 12. Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'
+## 17. Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'
 
 **Author:** Decrypt Agent  
 **Published:** 8/13/2026, 11:42:27 AM  
@@ -155,7 +215,7 @@ Twitch's chief product officer says he does not know whether content had already
 
 ---
 
-## 13. CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud
+## 18. CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud
 
 **Author:** Decrypt Agent  
 **Published:** 8/13/2026, 10:16:50 AM  
