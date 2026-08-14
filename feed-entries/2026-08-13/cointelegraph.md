@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-08-13"
 date: "2026-08-13"
 source: "Cointelegraph"
-count: 20
+count: 24
 ---
 
 # Cointelegraph - 2026-08-13
 
-20 items collected.
+24 items collected.
 
 ---
 
-## 1. CFTC to join SEC in exploring crypto regulations without CLARITY bill
+## 1. Ethereum Foundation pivots away from Poseidon in post-quantum plan
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 8/13/2026, 11:34:56 PM  
+**Categories:** Latest News  
+
+Advances in compact proofs have erased Poseidon’s previous performance advantage, according to researcher Justin Drake.
+
+📖 [Read original article](https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. City of Baltimore goes after prediction markets for sports betting
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/13/2026, 9:08:23 PM  
+**Categories:** Latest News  
+
+The city’s complaint over gambling laws and deceptive trade practices included Robinhood, Webull and Coinbase as partners with prediction market platform Kalshi.
+
+📖 [Read original article](https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Tether completes first full financial audit, receives clean KPMG opinion
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/13/2026, 8:43:12 PM  
+**Categories:** Latest News  
+
+KPMG’s audit covered Tether’s 2025 financial statements and found its reserves exceeded liabilities by $6.8 billion.
+
+📖 [Read original article](https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/13/2026, 7:21:02 PM  
+**Categories:** Latest News  
+
+More than a year after being indicted on fraud charges related to his activities at crypto company Delio, Jeong Sang-ho faces prison time in South Korea.
+
+📖 [Read original article](https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. CFTC to join SEC in exploring crypto regulations without CLARITY bill
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/13/2026, 6:18:50 PM  
@@ -23,7 +71,7 @@ The CFTC will hold a meeting for its Innovation Advisory Committee on Aug. 20 to
 
 ---
 
-## 2. Crypto group backs Custodia in Supreme Court battle over Fed access
+## 6. Crypto group backs Custodia in Supreme Court battle over Fed access
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/13/2026, 5:36:09 PM  
@@ -35,7 +83,7 @@ The Blockchain Association argues the Fed should not have broad discretion to de
 
 ---
 
-## 3. Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered
+## 7. Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/13/2026, 5:28:54 PM  
@@ -47,7 +95,7 @@ Standard Chartered said Robinhood’s Uniswap integration could solve a key chal
 
 ---
 
-## 4. Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows
+## 8. Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/13/2026, 4:00:23 PM  
@@ -59,7 +107,7 @@ AI and HPC are reshaping mining economics as operators repurpose power and data 
 
 ---
 
-## 5. Bullish shares jump 10% as Q2 adjusted EBITDA more than triples
+## 9. Bullish shares jump 10% as Q2 adjusted EBITDA more than triples
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/13/2026, 3:36:45 PM  
@@ -71,7 +119,7 @@ The crypto exchange operator’s shares gained around 10% as adjusted EBITDA mor
 
 ---
 
-## 6. Trezor reports data from 14K users exposed through shipping provider
+## 10. Trezor reports data from 14K users exposed through shipping provider
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/13/2026, 3:25:14 PM  
@@ -83,7 +131,7 @@ The wallet provider warned that thousands of users could potentially be at risk 
 
 ---
 
-## 7. Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data
+## 11. Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/13/2026, 3:07:38 PM  
@@ -95,7 +143,7 @@ Bitcoin joined US stocks in modest gains after July PPI inflation data continued
 
 ---
 
-## 8. Bitmine’s $257M annualized staking income ‘fills’ operational gaps, share buybacks: analysts
+## 12. Bitmine’s $257M annualized staking income ‘fills’ operational gaps, share buybacks: analysts
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/13/2026, 1:14:48 PM  
@@ -107,7 +155,7 @@ Bitmine’s Ether staking revenue is an important financial buffer that fills fi
 
 ---
 
-## 9. MUFG PoC to bring Japanese government bond repo transactions onchain
+## 13. MUFG PoC to bring Japanese government bond repo transactions onchain
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/13/2026, 1:00:37 PM  
@@ -119,7 +167,7 @@ MUFG’s experiment plans to bring Japanese government bond repo transactions on
 
 ---
 
-## 10. SEC allows Franklin Templeton funds to invest in onchain money fund
+## 14. SEC allows Franklin Templeton funds to invest in onchain money fund
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/13/2026, 11:48:37 AM  
@@ -131,7 +179,7 @@ The SEC said it will not pursue enforcement action if Franklin Templeton’s fun
 
 ---
 
-## 11. ‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje
+## 15. ‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/13/2026, 10:50:24 AM  
@@ -143,7 +191,7 @@ Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into
 
 ---
 
-## 12. Binance bStocks pass xStocks as second-largest tokenized stock issuer
+## 16. Binance bStocks pass xStocks as second-largest tokenized stock issuer
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/13/2026, 9:53:36 AM  
@@ -155,7 +203,7 @@ Binance bStocks became the second-largest tokenized stock issuer less than two m
 
 ---
 
-## 13. Bitcoin speculators keep BTC price ‘pinned’ below $68.7K: Glassnode
+## 17. Bitcoin speculators keep BTC price ‘pinned’ below $68.7K: Glassnode
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/13/2026, 9:37:16 AM  
@@ -167,7 +215,7 @@ Bitcoin’s weakness near range highs stems from short-term holders trying to br
 
 ---
 
-## 14. Securitize falls 16% after earnings miss, tokenization revenue drops
+## 18. Securitize falls 16% after earnings miss, tokenization revenue drops
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/13/2026, 8:29:01 AM  
@@ -179,7 +227,7 @@ Securitize shares fell 16% from Wednesday’s close after the tokenization platf
 
 ---
 
-## 15. BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B
+## 19. BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/13/2026, 7:42:59 AM  
@@ -191,7 +239,7 @@ An $18.8 million unrealized digital asset loss and weaker trading margins pushed
 
 ---
 
-## 16. Copper US arm becomes FINRA member, SEC-registered broker-dealer
+## 20. Copper US arm becomes FINRA member, SEC-registered broker-dealer
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/13/2026, 7:14:19 AM  
@@ -203,9 +251,9 @@ Copper Markets US will offer qualified custody, staking, financing and OTC servi
 
 ---
 
-## 17. Here’s what happened in crypto today
+## 21. Here’s what happened in crypto today
 
-**Author:** Cointelegraph by Robert Lakin  
+**Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/13/2026, 6:00:00 AM  
 **Categories:** Latest News  
 
@@ -215,7 +263,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 18. Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO
+## 22. Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/13/2026, 5:01:42 AM  
@@ -227,7 +275,7 @@ Bitwise’s Matt Hougan said he expects revenue-capture mechanisms to spread acr
 
 ---
 
-## 19. Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer
+## 23. Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/13/2026, 4:15:26 AM  
@@ -239,7 +287,7 @@ Metaplanet CEO Simon Gerovich said no Bitcoin was sold after the company moved 5
 
 ---
 
-## 20. ASX shareholder plans to sue former directors over failed blockchain project
+## 24. ASX shareholder plans to sue former directors over failed blockchain project
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/13/2026, 1:00:57 AM  
