@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-11"
 date: "2026-08-11"
 source: "Decrypt"
-count: 9
+count: 5
 ---
 
 # Decrypt - 2026-08-11
 
-9 items collected.
+5 items collected.
 
 ---
 
@@ -68,53 +68,5 @@ The agency has set an open meeting to consider moving forward with its Regulatio
 The newly reported incident is raising fresh concerns about autonomous AI after models from OpenAI, Anthropic, and Meta exploited websites and online services.
 
 📖 [Read original article](https://decrypt.co/375358/ai-agent-hacks-gym-membership-tech-world-reacts)
-
----
-
-## 6. Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss
-
-**Author:** Jason Nelson  
-**Published:** 8/11/2026, 6:25:14 PM  
-**Categories:** Business  
-
-Falling digital asset values battered the Truth Social parent’s balance sheet, contributing to about $361 million in crypto-related losses during the first half of 2026.
-
-📖 [Read original article](https://decrypt.co/375359/trump-media-crypto-bet-238m-quarterly-loss)
-
----
-
-## 7. Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/11/2026, 5:26:54 PM  
-**Categories:** , , , Coins  
-
-Bitcoin, Ethereum and Tether clear the central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
-
-📖 [Read original article](https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp)
-
----
-
-## 8. Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/11/2026, 5:02:36 PM  
-**Categories:** , Coins  
-
-Two mining pools controlling most of Ravencoin's hash power are already rebuilding the chain from before Friday's first bad block—here's what a forced rollback would undo.
-
-📖 [Read original article](https://decrypt.co/375330/ravencoin-crashes-critical-exploit-threatens-rollback)
-
----
-
-## 9. eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/11/2026, 4:45:30 PM  
-**Categories:** , , Business  
-
-The crypto-friendly trading platform is betting on US equities as regulators keep squeezing its token menu.
-
-📖 [Read original article](https://decrypt.co/375324/etoro-acquire-tradezero-us-expansion-stock-tanks)
 
 ---
