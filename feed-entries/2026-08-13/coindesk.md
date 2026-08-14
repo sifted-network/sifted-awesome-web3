@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-13"
 date: "2026-08-13"
 source: "CoinDesk"
-count: 17
+count: 14
 ---
 
 # CoinDesk - 2026-08-13
 
-17 items collected.
+14 items collected.
 
 ---
 
@@ -176,41 +176,5 @@ Your day-ahead look for Aug. 13, 2026
 Crypto markets remain in a low volatility holding pattern, trading in a tight range following Wednesday's CPI report.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform)
-
----
-
-## 15. MUFG to test real-time blockchain settlement for Japanese government bond trades
-
-**Author:** Jamie Crawley  
-**Published:** 8/13/2026, 10:15:32 AM  
-**Categories:** Finance, Japan, banks, News  
-
-MUFG is preparing a proof-of-concept for onchain JGB transactions using the Canton network.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades)
-
----
-
-## 16. Brazil’s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC
-
-**Author:** Francisco Rodrigues  
-**Published:** 8/13/2026, 9:39:52 AM  
-**Categories:** Finance, Brazil, ETFs, News  
-
-DIGY11 aims for annual distributions matching Brazil’s interbank rate plus 3–5 percentage points, net of costs, though investors' actual returns are not guaranteed.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc)
-
----
-
-## 17. Live updates: Bitcoin slips back even as Fed rate hike expectations dwindle
-
-**Author:** Omkar Godbole,James Van Straten,Krisztian Sandor,Stephen Alpher  
-**Published:** 8/13/2026, 9:18:19 AM  
-**Categories:** Tech, Inflation, Live News, live_news  
-
-An in-depth analysis of the U.S. CPI released Wednesday suggests the underlying price pressures remain sticky.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests)
 
 ---
