@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-11"
 date: "2026-08-11"
 source: "Decrypt"
-count: 5
+count: 4
 ---
 
 # Decrypt - 2026-08-11
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Solana is holding its 50-day average after a pullback from August's $90 spike, b
 The agency has set an open meeting to consider moving forward with its Regulation Crypto proposal.
 
 📖 [Read original article](https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects)
-
----
-
-## 5. AI Agent Hacks a Gym—And the Tech World Wonders What's Next
-
-**Author:** Jason Nelson  
-**Published:** 8/11/2026, 6:56:03 PM  
-**Categories:** Artificial Intelligence  
-
-The newly reported incident is raising fresh concerns about autonomous AI after models from OpenAI, Anthropic, and Meta exploited websites and online services.
-
-📖 [Read original article](https://decrypt.co/375358/ai-agent-hacks-gym-membership-tech-world-reacts)
 
 ---
