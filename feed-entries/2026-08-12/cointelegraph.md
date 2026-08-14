@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-12"
 date: "2026-08-12"
 source: "Cointelegraph"
-count: 6
+count: 4
 ---
 
 # Cointelegraph - 2026-08-12
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ The deal would add NEOS’ $30 billion ETF business, including Bitcoin- and Ethe
 Council Speaker Julie Menin sent letters to four companies offering prediction market services to New Yorkers as part of an investigation into their marketing practices.
 
 📖 [Read original article](https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Kraken adds S&P 500 to funded trading program, commodities to follow
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 8/12/2026, 6:55:56 PM  
-**Categories:** Latest News  
-
-Kraken’s funded trading program adds round-the-clock exposure to the US equity benchmark as it builds out its multi-asset offering.
-
-📖 [Read original article](https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Bitwise cuts 14% of staff while still expecting growth
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 8/12/2026, 6:01:15 PM  
-**Categories:** Latest News  
-
-Crypto companies from including Coinbase, BitGo, Robinhood, Polygon and Pump.fun have announced workforce reductions this year, citing a variety of reasons, including shifting to AI and market forces.
-
-📖 [Read original article](https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
