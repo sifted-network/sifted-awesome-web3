@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-12"
 date: "2026-08-12"
 source: "The Block"
-count: 5
+count: 3
 ---
 
 # The Block - 2026-08-12
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ Franklin Templeton received a no-action letter from the SEC enabling its traditi
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
 📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312)
-
----
-
-## 4. Trump sued over Truth Social’s early-access feed as firm explores licensing data to prediction markets
-
-**Author:** Kyle Baird  
-**Published:** 8/12/2026, 6:35:32 PM  
-**Categories:** Companies, Markets, People, Policy, Regulation, Tech, Donald Trump, Social Media  
-
-A new lawsuit alleges Trump’s paid Truth Social feed unconstitutionally restricts access to official posts.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-12-trump-sued-truth-social-early-access-feed-firm-explores-licensing-data-prediction-markets-411628)
-
----
-
-## 5. Polymarket taps ex-Uber and Bird exec Travis VanderZanden to boost growth
-
-**Author:** Daniel Kuhn  
-**Published:** 8/12/2026, 5:56:15 PM  
-**Categories:** Companies, People, Hiring  
-
-Polymarket has hired the Bird, Uber and Lyft blitzscaling veteran Travis VanderZanden as chief growth officer.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-12-polymarket-taps-ex-uber-and-bird-exec-travis-vanderzanden-to-boost-growth-411631)
 
 ---
