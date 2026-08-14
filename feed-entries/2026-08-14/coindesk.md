@@ -2,16 +2,88 @@
 title: "CoinDesk - 2026-08-14"
 date: "2026-08-14"
 source: "CoinDesk"
-count: 2
+count: 8
 ---
 
 # CoinDesk - 2026-08-14
 
-2 items collected.
+8 items collected.
 
 ---
 
-## 1. Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal
+## 1. Fear is fading across markets, be it bitcoin, stocks, gold or bonds
+
+**Author:** Omkar Godbole  
+**Published:** 8/14/2026, 11:33:50 AM  
+**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
+
+Your day-ahead look for Aug. 14, 2026
+
+📖 [Read original article](https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises)
+
+---
+
+## 2. Trump family's World Liberty Financial delay plans to sell Maldives resort token
+
+**Author:** Jamie Crawley  
+**Published:** 8/14/2026, 11:07:49 AM  
+**Categories:** Finance, Eric Trump, Real World Assets, Tokenization, News  
+
+The token’s sale has been pushed back due to the Iran war disrupting travel in the region.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/14/trump-family-s-world-liberty-financial-delay-plans-to-sell-maldives-resort-token)
+
+---
+
+## 3. Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown
+
+**Author:** Oliver Knight,Omkar Godbole  
+**Published:** 8/14/2026, 11:06:12 AM  
+**Categories:** Markets, Crypto Markets Today, News  
+
+Spot bitcoin ETFs saw back-to-back outflows for the first time since late July as the largest cryptocurrency wiped out last week's gains and altcoins struggled to find direction.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown)
+
+---
+
+## 4. RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg
+
+**Author:** Olivier Acuna  
+**Published:** 8/14/2026, 10:35:40 AM  
+**Categories:** Finance, Stablecoins, IPOs, Binance, News  
+
+A spokesperson for the stablecoin payments company declined to comment on any IPO plans.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/14/redotpay-said-to-put-usd1-billion-u-s-ipo-plan-on-hold-bloomberg)
+
+---
+
+## 5. Live updates: Bitcoin slips below $63,000 as oil, yields climb
+
+**Author:** James Van Straten  
+**Published:** 8/14/2026, 8:51:48 AM  
+**Categories:** Tech, Bitcoin News, Trade Finance, Live News, live_news  
+
+WTI crude tops $82 a barrel, adding inflation pressure and weighing on risk assets as bond yields rise.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb)
+
+---
+
+## 6. Cluster of headwinds weigh on bitcoin. XRP teeters near $1
+
+**Author:** Omkar Godbole  
+**Published:** 8/14/2026, 7:14:37 AM  
+**Categories:** Markets, Bitcoin News, XRP News, News  
+
+Top cryptocurrencies nurse losses as regulatory picture sours. ETF flows and traditional markets offer little support.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1)
+
+---
+
+## 7. Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal
 
 **Author:** Omkar Godbole  
 **Published:** 8/14/2026, 6:20:54 AM  
@@ -23,7 +95,7 @@ A new consultation targets "non-operating companies" broadly. Two familiar names
 
 ---
 
-## 2. JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT
+## 8. JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT
 
 **Author:** Omkar Godbole  
 **Published:** 8/14/2026, 5:04:52 AM  
