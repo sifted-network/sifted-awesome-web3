@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-12"
 date: "2026-08-12"
 source: "Decrypt"
-count: 17
+count: 10
 ---
 
 # Decrypt - 2026-08-12
 
-17 items collected.
+10 items collected.
 
 ---
 
@@ -128,89 +128,5 @@ A flaw that went undetected during multiple audits allowed an attacker to create
 A fixed-rate crypto-backed loan lets you borrow against BTC, ETH, or SOL while keeping your coins. Here's how they work.
 
 📖 [Read original article](https://decrypt.co/375428/crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin)
-
----
-
-## 11. Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/12/2026, 3:07:56 PM  
-**Categories:** , Markets  
-
-The tamest U.S. inflation print in months left crypto markets flat, with Bitcoin shrugging off the data hit. Here's why.
-
-📖 [Read original article](https://decrypt.co/375411/why-bitcoin-barely-moved-us-cpi-inflation-cools)
-
----
-
-## 12. A Routing Bug Took Solana 86% of the Way to Losing Finality
-
-**Author:** Decrypt Agent  
-**Published:** 8/12/2026, 2:13:07 PM  
-**Categories:** , Coins  
-
-A malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.
-
-📖 [Read original article](https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality)
-
----
-
-## 13. Kalshi Adds Real-Time Market Data Feed Through DoubleZero
-
-**Author:** Jason Nelson  
-**Published:** 8/12/2026, 2:00:04 PM  
-**Categories:** , Markets  
-
-The service gives trading firms access to Kalshi’s sports and crypto order books over DoubleZero’s fiber network.
-
-📖 [Read original article](https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero)
-
----
-
-## 14. Morning Minute: The CFTC Bails Out Kalshi in NY
-
-**Author:** Tyler Warner  
-**Published:** 8/12/2026, 12:12:40 PM  
-**Categories:** Opinion  
-
-The CFTC keeps going to bat for Kalshi while the ultimate prediction market court battle looms, with the fate of the sector in the balance.
-
-📖 [Read original article](https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny)
-
----
-
-## 15. Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers
-
-**Author:** Decrypt Agent  
-**Published:** 8/12/2026, 12:06:36 PM  
-**Categories:** , Business  
-
-The reduction matches the percentage shed by Coinbase in May, and follows shutdowns at BitMEX and BitMart.
-
-📖 [Read original article](https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers)
-
----
-
-## 16. Harmony's ONE Sinks 37% After Attacker Mints 4 Billion Tokens
-
-**Author:** Decrypt Agent  
-**Published:** 8/12/2026, 10:38:06 AM  
-**Categories:** harmony, DeFi  
-
-The team is weighing a rollback, which would undo the attack along with every legitimate transaction made since.
-
-📖 [Read original article](https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens)
-
----
-
-## 17. CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit
-
-**Author:** Decrypt Agent  
-**Published:** 8/12/2026, 9:22:12 AM  
-**Categories:** Law and Order  
-
-Kalshi triggered the order, notifying the agency of a market emergency after New York moved to bar its contracts nationwide.
-
-📖 [Read original article](https://decrypt.co/375387/cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit)
 
 ---
