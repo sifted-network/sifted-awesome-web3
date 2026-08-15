@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-08-14"
 date: "2026-08-14"
 source: "Cointelegraph"
-count: 18
+count: 22
 ---
 
 # Cointelegraph - 2026-08-14
 
-18 items collected.
+22 items collected.
 
 ---
 
-## 1. UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win
+## 1. Gen Z favors ETFs and trades less than older cohorts: Binance
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/14/2026, 9:22:23 PM  
+**Categories:** Latest News  
+
+Binance data showed Gen Z allocating a growing share of equity activity to ETFs while trading less frequently and using less leverage than older working-age cohorts.
+
+📖 [Read original article](https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Ireland plans industry standards for illicit crypto use
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/14/2026, 9:08:52 PM  
+**Categories:** Latest News  
+
+The proposed policies under Ireland’s AML framework included stricter measures on transfers from private crypto wallets and overseas digital asset companies.
+
+📖 [Read original article](https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Dartmouth endowment’s crypto exposure drops by $2M amid falling prices
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/14/2026, 6:57:04 PM  
+**Categories:** Latest News  
+
+The value of the university endowment’s holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF dropped to about $12 million.
+
+📖 [Read original article](https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Kraken parent Payward revenue rises 17% as trading volume falls in Q2
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/14/2026, 6:44:21 PM  
+**Categories:** Latest News  
+
+Payward grew revenue despite weaker crypto spot activity, as funded accounts jumped 42% and a growing share of revenue came from outside transaction-based activity.
+
+📖 [Read original article](https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/14/2026, 5:03:38 PM  
@@ -23,7 +71,7 @@ The UK lawmaker declared victory following a by-election, triggering a resumptio
 
 ---
 
-## 2. Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading
+## 6. Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/14/2026, 3:41:49 PM  
@@ -35,7 +83,7 @@ Bank Leumi customers will be able to buy, hold and sell three major cryptocurren
 
 ---
 
-## 3. Crypto Biz: Bitcoin’s $116M self-custody wake-up call
+## 7. Crypto Biz: Bitcoin’s $116M self-custody wake-up call
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/14/2026, 3:29:13 PM  
@@ -47,7 +95,7 @@ A $116 million Bitcoin wallet exploit puts self-custody under scrutiny as ETF in
 
 ---
 
-## 4. Here’s what happened in crypto today
+## 8. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/14/2026, 2:40:24 PM  
@@ -59,7 +107,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 5. Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses
+## 9. Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/14/2026, 2:38:27 PM  
@@ -71,7 +119,7 @@ Bitcoin falls further toward new August lows, ignoring positive US inflation tre
 
 ---
 
-## 6. Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2
+## 10. Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/14/2026, 2:22:57 PM  
@@ -83,7 +131,7 @@ Morgan Stanley’s reported IBIT holdings rose to 16.5 million shares in Q2, whi
 
 ---
 
-## 7. JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing
+## 11. JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/14/2026, 2:14:06 PM  
@@ -95,7 +143,7 @@ JPMorgan reported a 25% increase in its Bitcoin ETF position and more than quadr
 
 ---
 
-## 8. Binance to restrict transactions involving HTX, 10 other crypto platforms
+## 12. Binance to restrict transactions involving HTX, 10 other crypto platforms
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/14/2026, 1:36:34 PM  
@@ -107,7 +155,7 @@ Binance said it will stop processing transactions for involving 11 crypto platfo
 
 ---
 
-## 9. Solana’s fee overhaul increases burn and makes resource hogs pay
+## 13. Solana’s fee overhaul increases burn and makes resource hogs pay
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 8/14/2026, 1:30:00 PM  
@@ -119,7 +167,7 @@ Solana’s proposed fee overhaul would make resource-heavy transactions more exp
 
 ---
 
-## 10. Gemini posts $108M Q2 net loss despite 37% revenue growth
+## 14. Gemini posts $108M Q2 net loss despite 37% revenue growth
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/14/2026, 12:02:08 PM  
@@ -131,7 +179,7 @@ Credit card and staking revenue drove Gemini’s services growth in Q2 as exchan
 
 ---
 
-## 11. Shinhan Asset Management partners with Plume on tokenized fund pilot
+## 15. Shinhan Asset Management partners with Plume on tokenized fund pilot
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/14/2026, 11:23:28 AM  
@@ -143,7 +191,7 @@ Shinhan Asset Management and Plume will test a tokenized fund using a Korean won
 
 ---
 
-## 12. Bitcoin eyes new August lows as Binance longs face ‘cleanout’
+## 16. Bitcoin eyes new August lows as Binance longs face ‘cleanout’
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/14/2026, 10:43:57 AM  
@@ -155,7 +203,7 @@ Bitcoin futures open interest on Binance fell alongside BTC price as analysis pu
 
 ---
 
-## 13. RedotPay US IPO delayed amid regulatory, legal hurdles: Report
+## 17. RedotPay US IPO delayed amid regulatory, legal hurdles: Report
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/14/2026, 9:53:50 AM  
@@ -167,7 +215,7 @@ RedotPay’s US IPO has reportedly been delayed as it seeks regulatory approvals
 
 ---
 
-## 14. JPMorgan cuts Polymarket banking ties over regulatory concerns: Report
+## 18. JPMorgan cuts Polymarket banking ties over regulatory concerns: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/14/2026, 8:53:42 AM  
@@ -179,7 +227,7 @@ JPMorgan Chase reportedly cut banking ties with Polymarket in October 2025 over 
 
 ---
 
-## 15. Crypto payments barely register among euro area merchants, ECB finds
+## 19. Crypto payments barely register among euro area merchants, ECB finds
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/14/2026, 8:22:54 AM  
@@ -191,7 +239,7 @@ Crypto acceptance was just 0.2% online and remained below 1% at physical points 
 
 ---
 
-## 16. SEC cancels key crypto regulatory meeting
+## 20. SEC cancels key crypto regulatory meeting
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/14/2026, 8:02:18 AM  
@@ -203,7 +251,7 @@ The SEC canceled a meeting on proposed crypto offering rules after the Senate le
 
 ---
 
-## 17. Neutrl pauses NUSD redemptions over undisclosed reserve issue
+## 21. Neutrl pauses NUSD redemptions over undisclosed reserve issue
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/14/2026, 4:44:31 AM  
@@ -215,7 +263,7 @@ BA Labs had previously classified a proposed NUSD integration as higher risk bec
 
 ---
 
-## 18. Figure reports $4.3B in loan marketplace volume as profit nearly triples
+## 22. Figure reports $4.3B in loan marketplace volume as profit nearly triples
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/14/2026, 2:06:37 AM  
