@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-13"
 date: "2026-08-13"
 source: "Cointelegraph"
-count: 8
+count: 6
 ---
 
 # Cointelegraph - 2026-08-13
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ The CFTC will hold a meeting for its Innovation Advisory Committee on Aug. 20 to
 The Blockchain Association argues the Fed should not have broad discretion to deny eligible state-chartered banks direct access to its payment system.
 
 📖 [Read original article](https://cointelegraph.com/news/blockchain-association-backs-custodia-in-supreme-court-fight-over-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 8/13/2026, 5:28:54 PM  
-**Categories:** Latest News  
-
-Standard Chartered said Robinhood’s Uniswap integration could solve a key challenge for new blockchains while accelerating UNI token burns.
-
-📖 [Read original article](https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 8/13/2026, 4:00:23 PM  
-**Categories:** Latest News  
-
-AI and HPC are reshaping mining economics as operators repurpose power and data centers, while a smaller group of miners continues to expand Bitcoin capacity.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
