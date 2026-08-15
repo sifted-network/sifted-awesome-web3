@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-08-14"
 date: "2026-08-14"
 source: "CoinDesk"
-count: 11
+count: 13
 ---
 
 # CoinDesk - 2026-08-14
 
-11 items collected.
+13 items collected.
 
 ---
 
-## 1. Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push
+## 1. Trump expected to attend White House meeting with crypto CEOs, sources say
+
+**Author:** Jesse Hamilton  
+**Published:** 8/14/2026, 11:41:49 PM  
+**Categories:** Policy, Donald Trump, Coinbase, Ripple, Gemini, News  
+
+Those involved in a meeting of CEOs from the worlds of crypto, prediction markets and AI anticipate President Donald Trump will take part in next week's gathering.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say)
+
+---
+
+## 2. Trump-backed World Liberty wins conditional bank charter from federal regulator
+
+**Author:** Nikhilesh De  
+**Published:** 8/14/2026, 9:05:23 PM  
+**Categories:** Policy, Donald Trump, News  
+
+The Office of the Comptroller of the Currency said it granted "preliminary conditional approval" to World Liberty Trust Co. on Friday.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator)
+
+---
+
+## 3. Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push
 
 **Author:** Krisztian Sandor  
 **Published:** 8/14/2026, 5:48:04 PM  
@@ -23,7 +47,7 @@ Bullish, Coinbase, and Circle were among the names lower on Friday after the reg
 
 ---
 
-## 2. Strategy says MSCI should measure markets, not dictate corporate assets
+## 4. Strategy says MSCI should measure markets, not dictate corporate assets
 
 **Author:** James Van Straten  
 **Published:** 8/14/2026, 2:12:34 PM  
@@ -35,7 +59,7 @@ The bitcoin treasury company said index providers should measure markets rather 
 
 ---
 
-## 3. Israel’s largest bank to offer crypto trading with Galaxy
+## 5. Israel’s largest bank to offer crypto trading with Galaxy
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 8/14/2026, 1:51:37 PM  
@@ -47,7 +71,7 @@ Bank Leumi customers will be able to trade bitcoin, ether and solana through the
 
 ---
 
-## 4. Fear is fading across markets, be it bitcoin, stocks, gold or bonds
+## 6. Fear is fading across markets, be it bitcoin, stocks, gold or bonds
 
 **Author:** Omkar Godbole  
 **Published:** 8/14/2026, 11:33:50 AM  
@@ -59,7 +83,7 @@ Your day-ahead look for Aug. 14, 2026
 
 ---
 
-## 5. Trump family's World Liberty Financial delay plans to sell Maldives resort token
+## 7. Trump family's World Liberty Financial delay plans to sell Maldives resort token
 
 **Author:** Jamie Crawley  
 **Published:** 8/14/2026, 11:07:49 AM  
@@ -71,7 +95,7 @@ The token’s sale has been pushed back due to the Iran war disrupting travel in
 
 ---
 
-## 6. Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown
+## 8. Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 8/14/2026, 11:06:12 AM  
@@ -83,7 +107,7 @@ Spot bitcoin ETFs saw back-to-back outflows for the first time since late July a
 
 ---
 
-## 7. RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg
+## 9. RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg
 
 **Author:** Olivier Acuna  
 **Published:** 8/14/2026, 10:35:40 AM  
@@ -95,7 +119,7 @@ A spokesperson for the stablecoin payments company declined to comment on any IP
 
 ---
 
-## 8. Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices
+## 10. Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices
 
 **Author:** James Van Straten,Krisztian Sandor,Stephen Alpher  
 **Published:** 8/14/2026, 8:51:48 AM  
@@ -107,7 +131,7 @@ WTI crude tops $82 a barrel, adding inflation pressure and weighing on risk asse
 
 ---
 
-## 9. Cluster of headwinds weigh on bitcoin. XRP teeters near $1
+## 11. Cluster of headwinds weigh on bitcoin. XRP teeters near $1
 
 **Author:** Omkar Godbole  
 **Published:** 8/14/2026, 7:14:37 AM  
@@ -119,7 +143,7 @@ Top cryptocurrencies nurse losses as regulatory picture sours. ETF flows and tra
 
 ---
 
-## 10. Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal
+## 12. Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal
 
 **Author:** Omkar Godbole  
 **Published:** 8/14/2026, 6:20:54 AM  
@@ -131,7 +155,7 @@ A new consultation targets "non-operating companies" broadly. Two familiar names
 
 ---
 
-## 11. JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT
+## 13. JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT
 
 **Author:** Omkar Godbole  
 **Published:** 8/14/2026, 5:04:52 AM  
