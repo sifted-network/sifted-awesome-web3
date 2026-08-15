@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-13"
 date: "2026-08-13"
 source: "The Block"
-count: 11
+count: 6
 ---
 
 # The Block - 2026-08-13
 
-11 items collected.
+6 items collected.
 
 ---
 
@@ -15,7 +15,7 @@ count: 11
 
 **Author:** Kyle Baird  
 **Published:** 8/13/2026, 9:15:23 PM  
-**Categories:** Companies, Equities, Exchanges, Markets, Earnings, Gemini  
+**Categories:** Companies, Equities, Exchanges, Markets, Earnings, Gemini, News  
 
 Gemini’s prediction market volume nearly doubled as the exchange continued expanding beyond crypto trading.
 
@@ -27,7 +27,7 @@ Gemini’s prediction market volume nearly doubled as the exchange continued exp
 
 **Author:** Yogita Khatri  
 **Published:** 8/13/2026, 7:04:50 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Markets, Stablecoins, Token Projects, Web3, Tether  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Markets, Stablecoins, Token Projects, Web3, Tether, News  
 
 KPMG U.S. issued an "unqualified audit opinion" on Tether International’s full 2025 financial statements, Tether said Thursday.
 
@@ -39,7 +39,7 @@ KPMG U.S. issued an "unqualified audit opinion" on Tether International’s full
 
 **Author:** Kyle Baird  
 **Published:** 8/13/2026, 6:51:45 PM  
-**Categories:** Companies, Exchanges, Markets, Policy, Public Equities, Regulation, Coinbase  
+**Categories:** Companies, Exchanges, Markets, Policy, Public Equities, Regulation, Coinbase, News  
 
 Mayor Brandon Scott and the Baltimore City Council sued Kalshi, Polymarket and major trading platforms over alleged illegal sports betting.
 
@@ -51,7 +51,7 @@ Mayor Brandon Scott and the Baltimore City Council sued Kalshi, Polymarket and m
 
 **Author:** RT Watson  
 **Published:** 8/13/2026, 6:45:33 PM  
-**Categories:** Companies, Crypto Ecosystems, Policy, Regulation, Security, Tech, Google, Hacks  
+**Categories:** Companies, Crypto Ecosystems, Policy, Regulation, Security, Tech, Google, Hacks, News  
 
 In April, crypto security nonprofit Security Alliance (SEAL) said it had blocked 356 malicious Google ad URLs over a period of several weeks.
 
@@ -63,7 +63,7 @@ In April, crypto security nonprofit Security Alliance (SEAL) said it had blocked
 
 **Author:** Sarah Wynn  
 **Published:** 8/13/2026, 5:48:10 PM  
-**Categories:** Companies, Finance firms, Policy, Regulation, TradFi banks  
+**Categories:** Companies, Finance firms, Policy, Regulation, TradFi banks, News  
 
 Citigroup CEO Jane Fraser says she would like to see a crypto bill passed into law, even as she and others continue to fight for changes.
 
@@ -75,70 +75,10 @@ Citigroup CEO Jane Fraser says she would like to see a crypto bill passed into l
 
 **Author:** RT Watson  
 **Published:** 8/13/2026, 3:54:52 PM  
-**Categories:** Companies, Equities, Markets, Earnings  
+**Categories:** Companies, Equities, Markets, Earnings, News  
 
 The company said its net income increased 192% to $87 million from $30 million during the same period a year ago.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-08-13-onchain-lender-figure-nearly-triples-quarterly-profits-as-loan-marketplace-volume-surges-to-4-3-billion-411736)
-
----
-
-## 7. Trezor shipping provider breach exposes personal data of nearly 14,000 customers
-
-**Author:** Kyle Baird  
-**Published:** 8/13/2026, 2:23:10 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Infrastructure, Wallet Makers, Wallets  
-
-Trezor said a ShipMonk breach exposed the personal data of nearly 14,000 hardware wallet customers, including some shipping addresses.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-13-trezor-shipping-provider-breach-exposes-personal-data-nearly-14000-customers-411702)
-
----
-
-## 8. Bitcoin continues ranging as crowded longs meet soft inflation, the quietest tape since 2019: analysts
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 8/13/2026, 2:19:09 PM  
-**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin  
-
-Bitcoin flattened under $64,000 as flat July PPI and in-line CPI both failed to spark a rally, with Glassnode flagging absent buyers.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-13-bitcoin-continues-ranging-as-crowded-longs-meet-soft-inflation-the-quietest-tape-since-2019-analysts-411708)
-
----
-
-## 9. Ether.fi adds tokenized stocks, metals and Aave-powered portfolio loans in latest ‘neobank’ expansion
-
-**Author:** Daniel Kuhn  
-**Published:** 8/13/2026, 2:13:07 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Finance firms, Layer 1s, Markets, Token Projects, Ethereum, Fintech, Lending, Payments  
-
-Etherfi noted its updated app is “less crypto-forward,” and aimed at attracting “a much broader audience.”
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-08-13-ether-fi-adds-tokenized-stocks-metals-and-aave-powered-portfolio-loans-in-latest-neobank-expansion-411704)
-
----
-
-## 10. Peter Thiel-backed Bullish posts $280 million Q2 net loss as digital asset sales fall 44%
-
-**Author:** Brian Danga  
-**Published:** 8/13/2026, 1:10:53 PM  
-**Categories:** Companies, Equities, Markets, Earnings  
-
-Peter Thiel-backed crypto exchange Bullish reported a $280 million Q2 net loss as digital asset sales fell 44% and adjusted revenue rose 62%.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-13-peter-thiel-backed-bullish-posts-280-million-q2-net-loss-as-digital-asset-sales-fall-44-411695)
-
----
-
-## 11. South Korea sentences Delio CEO to 15 years in prison for $50 million crypto fraud: report
-
-**Author:** Danny Park  
-**Published:** 8/13/2026, 9:16:41 AM  
-**Categories:** Policy, Regulation  
-
-The sentence is shorter than the 20-year term that prosecutors sought, as the judge acquitted Jeong of a primary charge.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-13-south-korea-sentences-delio-ceo-411688)
 
 ---
