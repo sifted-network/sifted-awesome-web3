@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-13"
 date: "2026-08-13"
 source: "CoinDesk"
-count: 14
+count: 12
 ---
 
 # CoinDesk - 2026-08-13
 
-14 items collected.
+12 items collected.
 
 ---
 
@@ -152,29 +152,5 @@ The tokenization-focused lender posted $226 million in quarterly revenue as bloc
 Bullish's second-quarter loss of $280 million was mostly attributable to a $244.6 million markdown on the company’s bitcoin holdings.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows)
-
----
-
-## 13. Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token
-
-**Author:** Omkar Godbole  
-**Published:** 8/13/2026, 11:35:53 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Aug. 13, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/08/13/strategy-metaplanet-unrealized-bitcoin-losses-highlight-risk-of-concentrating-on-just-one-token)
-
----
-
-## 14. Bitcoin holds steady near $64,000 as monero, hyperliquid outperform
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 8/13/2026, 11:02:43 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Crypto markets remain in a low volatility holding pattern, trading in a tight range following Wednesday's CPI report.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform)
 
 ---
