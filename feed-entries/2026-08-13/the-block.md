@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-13"
 date: "2026-08-13"
 source: "The Block"
-count: 6
+count: 5
 ---
 
 # The Block - 2026-08-13
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ In April, crypto security nonprofit Security Alliance (SEAL) said it had blocked
 Citigroup CEO Jane Fraser says she would like to see a crypto bill passed into law, even as she and others continue to fight for changes.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-13-citigroup-ceo-fraser-on-clarity-act-we-would-like-to-see-good-bill-go-stablecoin-reward-issues-simmer-411751)
-
----
-
-## 6. Onchain lender Figure nearly triples quarterly profits as loan marketplace volume surges to $4.3 billion
-
-**Author:** RT Watson  
-**Published:** 8/13/2026, 3:54:52 PM  
-**Categories:** Companies, Equities, Markets, Earnings, News  
-
-The company said its net income increased 192% to $87 million from $30 million during the same period a year ago.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-13-onchain-lender-figure-nearly-triples-quarterly-profits-as-loan-marketplace-volume-surges-to-4-3-billion-411736)
 
 ---
