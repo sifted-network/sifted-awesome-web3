@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-13"
 date: "2026-08-13"
 source: "CoinDesk"
-count: 12
+count: 11
 ---
 
 # CoinDesk - 2026-08-13
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ A South Korean court sentenced the head of centralized finance (CeFi) lender Del
 The tokenization-focused lender posted $226 million in quarterly revenue as blockchain loan marketplace volume jumped to $4.3 billion.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/13/figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge)
-
----
-
-## 12. Bullish shares surge 14% as subscription revenue offsets digital asset slowdown
-
-**Author:** James Van Straten,Jamie Crawley  
-**Published:** 8/13/2026, 12:09:58 PM  
-**Categories:** Finance, Bullish, Earnings, Crypto Trading, News  
-
-Bullish's second-quarter loss of $280 million was mostly attributable to a $244.6 million markdown on the company’s bitcoin holdings.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows)
 
 ---
