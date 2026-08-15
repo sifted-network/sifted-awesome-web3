@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-13"
 date: "2026-08-13"
 source: "CoinDesk"
-count: 11
+count: 5
 ---
 
 # CoinDesk - 2026-08-13
 
-11 items collected.
+5 items collected.
 
 ---
 
@@ -68,77 +68,5 @@ The thesis is that high yields on long-term U.S. Treasuries make non-yielding as
 The incident marks the first time Trezor customers' shipping addresses were exposed.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach)
-
----
-
-## 6. Crypto for Advisors: The crypto advice gap
-
-**Author:** Joyce Lai  
-**Published:** 8/13/2026, 3:00:00 PM  
-**Categories:** CoinDesk Indices, Crypto for Advisors, News  
-
-You’re reading Crypto for Advisors, CoinDesk’s weekly newsletter that unpacks digital assets for financial advisors. Subscribe here to get it every Thursday.
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-for-advisors-the-crypto-advice-gap)
-
----
-
-## 7. B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth
-
-**Author:** Will Canny  
-**Published:** 8/13/2026, 2:43:38 PM  
-**Categories:** Finance, B2C2, Crypto Trading, News  
-
-The institutional crypto liquidity provider is bringing on the former Schroders Wealth Management Asia chairman as it targets family offices and asset managers across the region.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/13/b2c2-taps-schroders-veteran-to-chase-asia-s-growing-crypto-wealth)
-
----
-
-## 8. Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation
-
-**Author:** Olivier Acuna  
-**Published:** 8/13/2026, 2:16:06 PM  
-**Categories:** Finance, Kalshi, Prediction Markets, Funding Rounds, News  
-
-The prediction-market platform raised $1 billion at a $22 billion valuation in May and is now discussing a new round that could nearly double that figure.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/13/kalshi-in-talks-with-sequoia-wellington-for-usd750-million-fund-raise-at-usd40-billion-valuation)
-
----
-
-## 9. Swissquote cuts full-year guidance as 1H crypto income plunges, shares slide
-
-**Author:** Francisco Rodrigues  
-**Published:** 8/13/2026, 1:41:32 PM  
-**Categories:** Finance, Crypto News, News  
-
-The online bank cut full-year revenue and profit forecasts after first-half crypto trading levels slumped.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/13/swissquote-cuts-full-year-guidance-as-1h-crypto-income-plunges-shares-slide)
-
----
-
-## 10. Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam
-
-**Author:** Olivier Acuna  
-**Published:** 8/13/2026, 1:37:56 PM  
-**Categories:** Finance, Fraud, Crime, News  
-
-A South Korean court sentenced the head of centralized finance (CeFi) lender Delio to 15 years in prison for embezzling digital assets from more than 1,100 customers.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/13/crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-usd50-million-scam)
-
----
-
-## 11. Figure revenue doubles as blockchain loan marketplace volumes surge
-
-**Author:** Krisztian Sandor  
-**Published:** 8/13/2026, 1:29:28 PM  
-**Categories:** Finance, Tokenization, News  
-
-The tokenization-focused lender posted $226 million in quarterly revenue as blockchain loan marketplace volume jumped to $4.3 billion.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/13/figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge)
 
 ---
