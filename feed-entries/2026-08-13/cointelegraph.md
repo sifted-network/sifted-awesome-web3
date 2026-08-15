@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-13"
 date: "2026-08-13"
 source: "Cointelegraph"
-count: 6
+count: 3
 ---
 
 # Cointelegraph - 2026-08-13
 
-6 items collected.
+3 items collected.
 
 ---
 
@@ -44,41 +44,5 @@ The city’s complaint over gambling laws and deceptive trade practices included
 KPMG’s audit covered Tether’s 2025 financial statements and found its reserves exceeded liabilities by $6.8 billion.
 
 📖 [Read original article](https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 8/13/2026, 7:21:02 PM  
-**Categories:** Latest News  
-
-More than a year after being indicted on fraud charges related to his activities at crypto company Delio, Jeong Sang-ho faces prison time in South Korea.
-
-📖 [Read original article](https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. CFTC to join SEC in exploring crypto regulations without CLARITY bill
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 8/13/2026, 6:18:50 PM  
-**Categories:** Latest News  
-
-The CFTC will hold a meeting for its Innovation Advisory Committee on Aug. 20 to address regulation related to crypto assets, artificial intelligence and prediction markets.
-
-📖 [Read original article](https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Crypto group backs Custodia in Supreme Court battle over Fed access
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 8/13/2026, 5:36:09 PM  
-**Categories:** Latest News  
-
-The Blockchain Association argues the Fed should not have broad discretion to deny eligible state-chartered banks direct access to its payment system.
-
-📖 [Read original article](https://cointelegraph.com/news/blockchain-association-backs-custodia-in-supreme-court-fight-over-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
