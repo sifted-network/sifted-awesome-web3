@@ -2,16 +2,52 @@
 title: "Decrypt - 2026-08-14"
 date: "2026-08-14"
 source: "Decrypt"
-count: 9
+count: 12
 ---
 
 # Decrypt - 2026-08-14
 
-9 items collected.
+12 items collected.
 
 ---
 
-## 1. OpenAI Staff Blame Rush to Ship for Rogue Agent Hack
+## 1. France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders
+
+**Author:** Jason Nelson  
+**Published:** 8/14/2026, 9:03:35 PM  
+**Categories:** , Law and Order  
+
+A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.
+
+📖 [Read original article](https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin)
+
+---
+
+## 2. China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/14/2026, 8:01:13 PM  
+**Categories:** Artificial Intelligence  
+
+The Chinese lab says the release beats comparably sized open models on code benchmarks. The blog's own numbers show it trails the closed frontier and at least one open rival.
+
+📖 [Read original article](https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model)
+
+---
+
+## 3. SharpLink Will Stake $200M of Ethereum Through Lido's wstETH
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/14/2026, 7:01:05 PM  
+**Categories:** , Business  
+
+Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.
+
+📖 [Read original article](https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth)
+
+---
+
+## 4. OpenAI Staff Blame Rush to Ship for Rogue Agent Hack
 
 **Author:** Jason Nelson  
 **Published:** 8/14/2026, 6:31:03 PM  
@@ -23,7 +59,7 @@ Current and former OpenAI employees reportedly say pressure to release new AI pr
 
 ---
 
-## 2. Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy
+## 5. Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/14/2026, 5:46:06 PM  
@@ -35,7 +71,7 @@ Galaxy Research says the lull likely means vulnerable holders migrated, or were 
 
 ---
 
-## 3. Israel’s Largest Bank Will Give Bitcoin Trading Another Try
+## 6. Israel’s Largest Bank Will Give Bitcoin Trading Another Try
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/14/2026, 5:14:02 PM  
@@ -47,7 +83,7 @@ Bank Leumi's 2022 attempt died at the Bank of Israel. A softer regulatory line a
 
 ---
 
-## 4. Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot
+## 7. Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot
 
 **Author:** Jason Nelson  
 **Published:** 8/14/2026, 4:23:20 PM  
@@ -59,7 +95,7 @@ Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild i
 
 ---
 
-## 5. Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore
+## 8. Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore
 
 **Author:** Decrypt Agent  
 **Published:** 8/14/2026, 2:55:29 PM  
@@ -71,7 +107,7 @@ Malware planted during a bogus coding assessment harvested a session token, bypa
 
 ---
 
-## 6. Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets
+## 9. Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets
 
 **Author:** Decrypt Agent  
 **Published:** 8/14/2026, 12:38:39 PM  
@@ -83,7 +119,7 @@ The country's first strategy of its kind also brings stricter due diligence for 
 
 ---
 
-## 7. Morning Minute: Tether Finally Gets An Audit
+## 10. Morning Minute: Tether Finally Gets An Audit
 
 **Author:** Tyler Warner  
 **Published:** 8/14/2026, 11:45:39 AM  
@@ -95,7 +131,7 @@ It seems Tether passed, putting an end to the longest-running open criticism of 
 
 ---
 
-## 8. SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act
+## 11. SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act
 
 **Author:** Decrypt Agent  
 **Published:** 8/14/2026, 10:39:39 AM  
@@ -107,7 +143,7 @@ No replacement date has been set for the meeting, which was cancelled due to an 
 
 ---
 
-## 9. Kalshi Ordered to Block Washington Bets Days After CFTC Backed It
+## 12. Kalshi Ordered to Block Washington Bets Days After CFTC Backed It
 
 **Author:** Decrypt Agent  
 **Published:** 8/14/2026, 9:50:40 AM  
