@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-14"
 date: "2026-08-14"
 source: "Cointelegraph"
-count: 22
+count: 21
 ---
 
 # Cointelegraph - 2026-08-14
 
-22 items collected.
+21 items collected.
 
 ---
 
@@ -95,19 +95,7 @@ A $116 million Bitcoin wallet exploit puts self-custody under scrutiny as ETF in
 
 ---
 
-## 8. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/14/2026, 2:40:24 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses
+## 8. Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/14/2026, 2:38:27 PM  
@@ -119,7 +107,7 @@ Bitcoin falls further toward new August lows, ignoring positive US inflation tre
 
 ---
 
-## 10. Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2
+## 9. Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/14/2026, 2:22:57 PM  
@@ -131,7 +119,7 @@ Morgan Stanley’s reported IBIT holdings rose to 16.5 million shares in Q2, whi
 
 ---
 
-## 11. JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing
+## 10. JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/14/2026, 2:14:06 PM  
@@ -143,7 +131,7 @@ JPMorgan reported a 25% increase in its Bitcoin ETF position and more than quadr
 
 ---
 
-## 12. Binance to restrict transactions involving HTX, 10 other crypto platforms
+## 11. Binance to restrict transactions involving HTX, 10 other crypto platforms
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/14/2026, 1:36:34 PM  
@@ -155,7 +143,7 @@ Binance said it will stop processing transactions for involving 11 crypto platfo
 
 ---
 
-## 13. Solana’s fee overhaul increases burn and makes resource hogs pay
+## 12. Solana’s fee overhaul increases burn and makes resource hogs pay
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 8/14/2026, 1:30:00 PM  
@@ -167,7 +155,7 @@ Solana’s proposed fee overhaul would make resource-heavy transactions more exp
 
 ---
 
-## 14. Gemini posts $108M Q2 net loss despite 37% revenue growth
+## 13. Gemini posts $108M Q2 net loss despite 37% revenue growth
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/14/2026, 12:02:08 PM  
@@ -179,7 +167,7 @@ Credit card and staking revenue drove Gemini’s services growth in Q2 as exchan
 
 ---
 
-## 15. Shinhan Asset Management partners with Plume on tokenized fund pilot
+## 14. Shinhan Asset Management partners with Plume on tokenized fund pilot
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/14/2026, 11:23:28 AM  
@@ -191,7 +179,7 @@ Shinhan Asset Management and Plume will test a tokenized fund using a Korean won
 
 ---
 
-## 16. Bitcoin eyes new August lows as Binance longs face ‘cleanout’
+## 15. Bitcoin eyes new August lows as Binance longs face ‘cleanout’
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/14/2026, 10:43:57 AM  
@@ -203,7 +191,7 @@ Bitcoin futures open interest on Binance fell alongside BTC price as analysis pu
 
 ---
 
-## 17. RedotPay US IPO delayed amid regulatory, legal hurdles: Report
+## 16. RedotPay US IPO delayed amid regulatory, legal hurdles: Report
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/14/2026, 9:53:50 AM  
@@ -215,7 +203,7 @@ RedotPay’s US IPO has reportedly been delayed as it seeks regulatory approvals
 
 ---
 
-## 18. JPMorgan cuts Polymarket banking ties over regulatory concerns: Report
+## 17. JPMorgan cuts Polymarket banking ties over regulatory concerns: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/14/2026, 8:53:42 AM  
@@ -227,7 +215,7 @@ JPMorgan Chase reportedly cut banking ties with Polymarket in October 2025 over 
 
 ---
 
-## 19. Crypto payments barely register among euro area merchants, ECB finds
+## 18. Crypto payments barely register among euro area merchants, ECB finds
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/14/2026, 8:22:54 AM  
@@ -239,7 +227,7 @@ Crypto acceptance was just 0.2% online and remained below 1% at physical points 
 
 ---
 
-## 20. SEC cancels key crypto regulatory meeting
+## 19. SEC cancels key crypto regulatory meeting
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/14/2026, 8:02:18 AM  
@@ -251,7 +239,7 @@ The SEC canceled a meeting on proposed crypto offering rules after the Senate le
 
 ---
 
-## 21. Neutrl pauses NUSD redemptions over undisclosed reserve issue
+## 20. Neutrl pauses NUSD redemptions over undisclosed reserve issue
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/14/2026, 4:44:31 AM  
@@ -263,7 +251,7 @@ BA Labs had previously classified a proposed NUSD integration as higher risk bec
 
 ---
 
-## 22. Figure reports $4.3B in loan marketplace volume as profit nearly triples
+## 21. Figure reports $4.3B in loan marketplace volume as profit nearly triples
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/14/2026, 2:06:37 AM  
