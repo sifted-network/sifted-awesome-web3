@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-13"
 date: "2026-08-13"
 source: "Cointelegraph"
-count: 12
+count: 8
 ---
 
 # Cointelegraph - 2026-08-13
 
-12 items collected.
+8 items collected.
 
 ---
 
@@ -104,53 +104,5 @@ Standard Chartered said Robinhood’s Uniswap integration could solve a key chal
 AI and HPC are reshaping mining economics as operators repurpose power and data centers, while a smaller group of miners continues to expand Bitcoin capacity.
 
 📖 [Read original article](https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bullish shares jump 10% as Q2 adjusted EBITDA more than triples
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 8/13/2026, 3:36:45 PM  
-**Categories:** Latest News  
-
-The crypto exchange operator’s shares gained around 10% as adjusted EBITDA more than tripled and subscription and services revenue hit a record high.
-
-📖 [Read original article](https://cointelegraph.com/news/bullish-shares-surge-as-q2-adjusted-revenue-surges-62?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Trezor reports data from 14K users exposed through shipping provider
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 8/13/2026, 3:25:14 PM  
-**Categories:** Latest News  
-
-The wallet provider warned that thousands of users could potentially be at risk of phishing attempts, while advising that all devices, private keys and backups were safe.
-
-📖 [Read original article](https://cointelegraph.com/news/trezor-customer-data-shipping-provider-shipmonk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 8/13/2026, 3:07:38 PM  
-**Categories:** Markets  
-
-Bitcoin joined US stocks in modest gains after July PPI inflation data continued a cooling trend seen over the past month.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Bitmine’s $257M annualized staking income ‘fills’ operational gaps, share buybacks: analysts
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/13/2026, 1:14:48 PM  
-**Categories:** Latest News  
-
-Bitmine’s Ether staking revenue is an important financial buffer that fills financial gaps and provides recurring revenue streams beyond Ether’s price appreciation, analysts told Cointelegraph.
-
-📖 [Read original article](https://cointelegraph.com/news/bitmines-257m-staking-income-operational-gaps-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
