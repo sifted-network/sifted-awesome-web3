@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-13"
 date: "2026-08-13"
 source: "CoinDesk"
-count: 5
+count: 4
 ---
 
 # CoinDesk - 2026-08-13
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ KPMG U.S. examined Tether's books and even counted its gold bars as the $180 bil
 The thesis is that high yields on long-term U.S. Treasuries make non-yielding assets like bitcoin less attractive.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests)
-
----
-
-## 5. Trezor warns 14,000 customers after fulfilment partner suffers data breach
-
-**Author:** Olivier Acuna  
-**Published:** 8/13/2026, 5:10:57 PM  
-**Categories:** Tech, Data Breaches, Ledger, News  
-
-The incident marks the first time Trezor customers' shipping addresses were exposed.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach)
 
 ---
