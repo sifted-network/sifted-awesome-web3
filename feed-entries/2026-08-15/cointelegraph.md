@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-08-15"
 date: "2026-08-15"
 source: "Cointelegraph"
-count: 6
+count: 7
 ---
 
 # Cointelegraph - 2026-08-15
 
-6 items collected.
+7 items collected.
 
 ---
 
-## 1. Tokenized stock holders more than double as monthly volume surges
+## 1. Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/15/2026, 7:27:29 PM  
+**Categories:** Latest News  
+
+The additions come as Bybit’s TradFi perpetuals lineup grows to more than 200 products spanning equities, ETFs, commodities, indices and private companies.
+
+📖 [Read original article](https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Tokenized stock holders more than double as monthly volume surges
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/15/2026, 5:26:43 PM  
@@ -23,7 +35,7 @@ Tokenized equities reached 1.31 million holders over the past month, as monthly 
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 3. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/15/2026, 2:40:24 PM  
@@ -35,7 +47,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen
+## 4. Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 8/15/2026, 1:30:00 PM  
@@ -47,7 +59,7 @@ The trillions required to boost Bitcoin to a price of $1 million per coin is not
 
 ---
 
-## 4. Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says
+## 5. Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/15/2026, 12:57:58 PM  
@@ -59,7 +71,7 @@ Klippsten said Bitcoin could bottom about a year after its previous peak and arg
 
 ---
 
-## 5. Kalshi ordered to stop broad range of prediction markets in Washington
+## 6. Kalshi ordered to stop broad range of prediction markets in Washington
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/15/2026, 10:44:52 AM  
@@ -71,7 +83,7 @@ Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source
 
 ---
 
-## 6. Galaxy lowers CLARITY Act odds to 10%
+## 7. Galaxy lowers CLARITY Act odds to 10%
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/15/2026, 8:40:59 AM  
