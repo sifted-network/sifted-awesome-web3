@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-13"
 date: "2026-08-13"
 source: "The Block"
-count: 5
+count: 3
 ---
 
 # The Block - 2026-08-13
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ KPMG U.S. issued an "unqualified audit opinion" on Tether International’s full
 Mayor Brandon Scott and the Baltimore City Council sued Kalshi, Polymarket and major trading platforms over alleged illegal sports betting.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-08-13-baltimore-sues-kalshi-polymarket-roping-coinbase-robinhood-webull-into-fight-411746)
-
----
-
-## 4. Google ad phishing scam drains $550,000 from Hyperliquid user, security specialist says
-
-**Author:** RT Watson  
-**Published:** 8/13/2026, 6:45:33 PM  
-**Categories:** Companies, Crypto Ecosystems, Policy, Regulation, Security, Tech, Google, Hacks, News  
-
-In April, crypto security nonprofit Security Alliance (SEAL) said it had blocked 356 malicious Google ad URLs over a period of several weeks.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-13-google-ad-phishing-scam-drains-550000-from-hyperliquid-user-security-specialist-says-411755)
-
----
-
-## 5. Citigroup CEO Fraser on Clarity Act: ‘We would like to see a good bill go through,’ as stablecoin reward issues simmer
-
-**Author:** Sarah Wynn  
-**Published:** 8/13/2026, 5:48:10 PM  
-**Categories:** Companies, Finance firms, Policy, Regulation, TradFi banks, News  
-
-Citigroup CEO Jane Fraser says she would like to see a crypto bill passed into law, even as she and others continue to fight for changes.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-13-citigroup-ceo-fraser-on-clarity-act-we-would-like-to-see-good-bill-go-stablecoin-reward-issues-simmer-411751)
 
 ---
