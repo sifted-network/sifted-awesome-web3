@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-13"
 date: "2026-08-13"
 source: "Cointelegraph"
-count: 3
+count: 2
 ---
 
 # Cointelegraph - 2026-08-13
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Advances in compact proofs have erased Poseidon’s previous performance advanta
 The city’s complaint over gambling laws and deceptive trade practices included Robinhood, Webull and Coinbase as partners with prediction market platform Kalshi.
 
 📖 [Read original article](https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Tether completes first full financial audit, receives clean KPMG opinion
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 8/13/2026, 8:43:12 PM  
-**Categories:** Latest News  
-
-KPMG’s audit covered Tether’s 2025 financial statements and found its reserves exceeded liabilities by $6.8 billion.
-
-📖 [Read original article](https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
