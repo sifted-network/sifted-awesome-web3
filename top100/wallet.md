@@ -6,103 +6,103 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [dogecoin](https://github.com/dogecoin/dogecoin) | 15,239 | 3,177 | C++ | 192 | very currency | 2026-07-23 |
-| 2 | [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | 10,799 | 2,055 | Python | 35 | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) | 2026-07-30 |
-| 3 | [sphere](https://github.com/unicity-sphere/sphere) | 9,770 | 51 | TypeScript | 40 | A Web3 wallet and agent platform for the Unicity network - crypto wallet, DMs, group chat, and marketplace. | 2026-07-31 |
-| 4 | [ethers.js](https://github.com/ethers-io/ethers.js) | 8,705 | 2,114 | TypeScript | 451 | Complete Ethereum library and wallet implementation in JavaScript. | 2026-06-18 |
-| 5 | [electrum](https://github.com/spesmilo/electrum) | 8,535 | 3,450 | Python | 1151 | Electrum Bitcoin Wallet | 2026-07-31 |
-| 6 | [appkit](https://github.com/reown-com/appkit) | 5,437 | 1,634 | TypeScript | 9 | The full stack toolkit to build onchain app UX | 2026-07-31 |
-| 7 | [sphere-sdk](https://github.com/unicity-sphere/sphere-sdk) | 5,421 | 105 | TypeScript | 98 | The SDK for autonomous economic agents. Give an agent an identity, a wallet, and the ability to find, negotiate with, and settle with other agents - peer-to-peer, with perfect privacy and ultra-fast f... | 2026-08-01 |
-| 8 | [rainbow](https://github.com/rainbow-me/rainbow) | 4,378 | 753 | TypeScript | 0 | 🌈‒ the Ethereum wallet that lives in your pocket  | 2026-07-31 |
-| 9 | [bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) | 4,150 | 2,279 | Java | 0 | Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required. | 2025-03-05 |
+| 1 | [dogecoin](https://github.com/dogecoin/dogecoin) | 15,258 | 3,242 | C++ | 196 | very currency | 2026-08-15 |
+| 2 | [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | 10,796 | 2,048 | Python | 36 | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) | 2026-08-14 |
+| 3 | [sphere](https://github.com/unicity-sphere/sphere) | 9,761 | 52 | TypeScript | 41 | A Web3 wallet and agent platform for the Unicity network - crypto wallet, DMs, group chat, and marketplace. | 2026-08-13 |
+| 4 | [ethers.js](https://github.com/ethers-io/ethers.js) | 8,710 | 2,119 | TypeScript | 453 | Complete Ethereum library and wallet implementation in JavaScript. | 2026-06-18 |
+| 5 | [electrum](https://github.com/spesmilo/electrum) | 8,565 | 3,466 | Python | 1159 | Electrum Bitcoin Wallet | 2026-08-14 |
+| 6 | [appkit](https://github.com/reown-com/appkit) | 5,431 | 1,636 | TypeScript | 10 | The full stack toolkit to build onchain app UX | 2026-08-13 |
+| 7 | [sphere-sdk](https://github.com/unicity-sphere/sphere-sdk) | 5,412 | 105 | TypeScript | 101 | The SDK for autonomous economic agents. Give an agent an identity, a wallet, and the ability to find, negotiate with, and settle with other agents - peer-to-peer, with perfect privacy and ultra-fast f... | 2026-08-13 |
+| 8 | [rainbow](https://github.com/rainbow-me/rainbow) | 4,380 | 753 | TypeScript | 0 | 🌈‒ the Ethereum wallet that lives in your pocket  | 2026-08-15 |
+| 9 | [bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) | 4,155 | 2,282 | Java | 0 | Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required. | 2025-03-05 |
 | 10 | [awesome-coins](https://github.com/Zheaoli/awesome-coins) | 4,088 | 287 | - | 7 | ₿ A guide (for humans!) to cryto-currencies and their algos. | 2023-07-20 |
-| 11 | [status-legacy](https://github.com/status-im/status-legacy) | 4,019 | 991 | Clojure | 443 | a free (libre) open source, mobile OS for Ethereum | 2026-07-22 |
-| 12 | [wallet](https://github.com/bitpay/wallet) | 3,938 | 1,751 | TypeScript | 392 | Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices. | 2026-02-03 |
-| 13 | [wallet-core](https://github.com/trustwallet/wallet-core) | 3,549 | 1,962 | C++ | 115 | Cross-platform, cross-blockchain wallet library. | 2026-07-31 |
-| 14 | [lbry-desktop](https://github.com/lbryio/lbry-desktop) | 3,516 | 409 | JavaScript | 608 | A browser and wallet for LBRY, the decentralized, user-controlled content marketplace. | 2026-07-25 |
-| 15 | [BlueWallet](https://github.com/BlueWallet/BlueWallet) | 3,247 | 1,041 | TypeScript | 365 | Bitcoin wallet for iOS & Android. Built with React Native  | 2026-07-31 |
-| 16 | [extension](https://github.com/tahowallet/extension) | 3,200 | 426 | TypeScript | 326 | Taho, the community owned and operated Web3 wallet. | 2026-07-02 |
-| 17 | [ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) | 3,163 | 980 | Kotlin | 67 | Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the final version from Google Play. | 2026-04-02 |
-| 18 | [bcoin](https://github.com/bcoin-org/bcoin) | 3,065 | 813 | JavaScript | 114 | Javascript bitcoin library for node.js and browsers | 2024-02-12 |
-| 19 | [rainbowkit](https://github.com/rainbow-me/rainbowkit) | 2,833 | 787 | MDX | 34 | The best way to connect a wallet 🌈 🧰 | 2026-05-12 |
-| 20 | [bitaddress.org](https://github.com/pointbiz/bitaddress.org) | 2,634 | 1,572 | HTML | 87 | JavaScript Client-Side Bitcoin Wallet Generator | 2024-08-05 |
-| 21 | [WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) | 2,590 | 561 | C# | 273 | Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac. | 2026-07-30 |
-| 22 | [react-native-graph](https://github.com/margelo/react-native-graph) | 2,589 | 136 | TypeScript | 30 | 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia | 2026-07-23 |
-| 23 | [ethers-rs](https://github.com/gakonst/ethers-rs) | 2,515 | 775 | Rust | 165 | Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers | 2024-09-23 |
-| 24 | [app-monorepo](https://github.com/OneKeyHQ/app-monorepo) | 2,402 | 524 | TypeScript | 41 | Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions. | 2026-08-01 |
+| 11 | [status-legacy](https://github.com/status-im/status-legacy) | 4,020 | 989 | Clojure | 443 | a free (libre) open source, mobile OS for Ethereum | 2026-07-22 |
+| 12 | [wallet](https://github.com/bitpay/wallet) | 3,939 | 1,753 | TypeScript | 392 | Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices. | 2026-02-03 |
+| 13 | [wallet-core](https://github.com/trustwallet/wallet-core) | 3,554 | 1,974 | C++ | 119 | Cross-platform, cross-blockchain wallet library. | 2026-08-07 |
+| 14 | [lbry-desktop](https://github.com/lbryio/lbry-desktop) | 3,516 | 409 | JavaScript | 608 | A browser and wallet for LBRY, the decentralized, user-controlled content marketplace. | 2026-08-07 |
+| 15 | [BlueWallet](https://github.com/BlueWallet/BlueWallet) | 3,270 | 1,044 | TypeScript | 369 | Bitcoin wallet for iOS & Android. Built with React Native  | 2026-08-16 |
+| 16 | [extension](https://github.com/tahowallet/extension) | 3,201 | 427 | TypeScript | 326 | Taho, the community owned and operated Web3 wallet. | 2026-07-02 |
+| 17 | [ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) | 3,165 | 986 | Kotlin | 67 | Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the final version from Google Play. | 2026-04-02 |
+| 18 | [bcoin](https://github.com/bcoin-org/bcoin) | 3,066 | 812 | JavaScript | 114 | Javascript bitcoin library for node.js and browsers | 2024-02-12 |
+| 19 | [rainbowkit](https://github.com/rainbow-me/rainbowkit) | 2,833 | 793 | MDX | 34 | The best way to connect a wallet 🌈 🧰 | 2026-05-12 |
+| 20 | [bitaddress.org](https://github.com/pointbiz/bitaddress.org) | 2,641 | 1,575 | HTML | 86 | JavaScript Client-Side Bitcoin Wallet Generator | 2024-08-05 |
+| 21 | [react-native-graph](https://github.com/margelo/react-native-graph) | 2,604 | 136 | TypeScript | 30 | 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia | 2026-07-23 |
+| 22 | [WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) | 2,601 | 562 | C# | 284 | Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac. | 2026-08-10 |
+| 23 | [ethers-rs](https://github.com/gakonst/ethers-rs) | 2,512 | 775 | Rust | 165 | Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers | 2024-09-23 |
+| 24 | [app-monorepo](https://github.com/OneKeyHQ/app-monorepo) | 2,411 | 528 | TypeScript | 44 | Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions. | 2026-08-15 |
 | 25 | [lbry-android](https://github.com/lbryio/lbry-android) | 2,395 | 110 | Java | 156 | The LBRY Android app | 2022-11-29 |
-| 26 | [safe-smart-account](https://github.com/safe-fndn/safe-smart-account) | 2,169 | 1,148 | TypeScript | 19 | Safe allows secure management of blockchain assets.  | 2026-06-05 |
+| 26 | [safe-smart-account](https://github.com/safe-fndn/safe-smart-account) | 2,170 | 1,147 | TypeScript | 19 | Safe allows secure management of blockchain assets.  | 2026-08-14 |
 | 27 | [torba](https://github.com/lbryio/torba) | 2,130 | 20 | Python | 5 | Torba makes it easy to create fast and correct bitcoin based crypto wallets. | 2019-06-26 |
-| 28 | [sparrow](https://github.com/sparrowwallet/sparrow) | 2,056 | 301 | Java | 221 | Desktop Bitcoin Wallet focused on security and privacy. Free and open source. | 2026-07-30 |
+| 28 | [sparrow](https://github.com/sparrowwallet/sparrow) | 2,097 | 311 | Java | 225 | Desktop Bitcoin Wallet focused on security and privacy. Free and open source. | 2026-08-10 |
 | 29 | [legacy-wallet-use-trinity-wallet-instead](https://github.com/iotaledger-archive/legacy-wallet-use-trinity-wallet-instead) | 2,044 | 409 | JavaScript | 547 | IOTA Wallet | 2021-02-25 |
-| 30 | [wallet-adapter](https://github.com/anza-xyz/wallet-adapter) | 2,026 | 1,065 | TypeScript | 18 | Modular TypeScript wallet adapters and components for Solana applications. | 2026-06-18 |
-| 31 | [Rabby](https://github.com/RabbyHub/Rabby) | 1,866 | 586 | TypeScript | 131 | The game-changing wallet for Ethereum and all EVM chains | 2026-07-31 |
-| 32 | [cake_wallet](https://github.com/cake-tech/cake_wallet) | 1,821 | 383 | Dart | 226 | The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com | 2026-08-01 |
-| 33 | [apps](https://github.com/polkadot-js/apps) | 1,820 | 1,637 | TypeScript | 201 | Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains. | 2026-07-16 |
-| 34 | [trezor-firmware](https://github.com/trezor/trezor-firmware) | 1,781 | 784 | C | 539 | :lock: Trezor Firmware Monorepo | 2026-07-31 |
-| 35 | [SavjeeCoin](https://github.com/Savjee/SavjeeCoin) | 1,771 | 740 | JavaScript | 1 | A simple blockchain in Javascript. For educational purposes only. | 2025-11-21 |
-| 36 | [coinbase-wallet-sdk](https://github.com/coinbase/coinbase-wallet-sdk) | 1,758 | 756 | TypeScript | 50 | An open protocol that lets users connect their mobile wallets to your DApp | 2026-04-30 |
-| 37 | [CoinExchange_CryptoExchange_Java](https://github.com/jammy928/CoinExchange_CryptoExchange_Java) | 1,718 | 1,309 | Java | 0 | The best Java open source crypto currency exchange platform, bitcoin exchange based on Java \| BTC exchange \| ETH exchange \| digital currency exchange \| trading platform \| matching trading engine. This... | 2024-05-12 |
-| 38 | [web3-examples](https://github.com/luzhenqian/web3-examples) | 1,716 | 249 | TypeScript | 0 | 欢迎来到 Web3 世界，这里汇集了大量 Web3 示例项目和高质量学习资源。加入我们，和一百万开发者同行，一起探索并塑造未来世界的繁荣景象。立刻行动，开启您的 Web3 之旅！ | 2026-04-08 |
-| 39 | [walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) | 1,680 | 814 | TypeScript | 31 | WalletConnect Monorepo  | 2026-08-01 |
-| 40 | [backpack](https://github.com/coral-xyz/backpack) | 1,650 | 948 | TypeScript | 496 | 🎒 Next level crypto wallet | 2024-08-12 |
-| 41 | [trust-wallet-ios](https://github.com/trustwallet/trust-wallet-ios) | 1,607 | 566 | Swift | 62 | :iphone: Trust - Ethereum Wallet and Web3 DApp Browser for iOS | 2019-05-08 |
-| 42 | [MyEtherWallet](https://github.com/MyEtherWallet/MyEtherWallet) | 1,590 | 837 | SCSS | 34 | MyEtherWallet (our friends call us MEW) is a free, client-side interface helping you interact with the Ethereum blockchain. | 2026-07-31 |
-| 43 | [btcrecover](https://github.com/gurnec/btcrecover) | 1,569 | 855 | Python | 367 | An open source Bitcoin wallet password and seed recovery tool designed for the case where you already know most of your password/seed, but need assistance in trying different possible combinations. | 2024-08-02 |
-| 44 | [verge](https://github.com/vergecurrency/verge) | 1,563 | 388 | C++ | 0 | Official Verge Core Source Code Repository :muscle: | 2026-07-30 |
-| 45 | [Encryptr](https://github.com/SpiderOak/Encryptr) | 1,562 | 131 | JavaScript | 121 | Encryptr is a zero-knowledge cloud-based password manager / e-wallet powered by Crypton | 2017-11-29 |
-| 46 | [wallet](https://github.com/DemocracyEarth/wallet) | 1,512 | 275 | JavaScript | 83 | Censorship resistant democracies.  | 2023-03-04 |
-| 47 | [XRP-community-wallet](https://github.com/xrpcommunity/XRP-community-wallet) | 1,487 | 130 | TypeScript | 0 | Fully decentralized and the most secure XRP &  EVM wallet - built by the community, for the community. | 2026-07-09 |
-| 48 | [eth-lightwallet](https://github.com/Consensys/eth-lightwallet) | 1,477 | 513 | JavaScript | 60 | Lightweight JS Wallet for Node and the browser  | 2024-06-24 |
-| 49 | [Plutus](https://github.com/Isaacdelly/Plutus) | 1,417 | 581 | Python | 1 | An automated bitcoin wallet brute-forcer | 2026-01-04 |
-| 50 | [MyCrypto](https://github.com/MyCryptoHQ/MyCrypto) | 1,410 | 662 | TypeScript | 36 | MyCrypto is an open-source tool that allows you to manage your Ethereum accounts privately and securely. Developed by and for the community since 2015, we’re focused on building awesome products that ... | 2024-01-17 |
-| 51 | [zeus](https://github.com/ZeusLN/zeus) | 1,399 | 243 | TypeScript | 228 | A mobile Bitcoin wallet fit for the gods. ⚡️ Est. 563345 | 2026-08-01 |
-| 52 | [laravel-wallet](https://github.com/bavix/laravel-wallet) | 1,329 | 247 | PHP | 1 | It's easy to work with a virtual wallet | 2026-07-31 |
-| 53 | [agentkit](https://github.com/coinbase/agentkit) | 1,278 | 756 | TypeScript | 91 | Every AI Agent deserves a wallet. | 2026-07-21 |
-| 54 | [btcwallet](https://github.com/btcsuite/btcwallet) | 1,256 | 651 | Go | 108 | A secure bitcoin wallet daemon written in Go (golang) | 2026-07-31 |
-| 55 | [zap-desktop](https://github.com/LN-Zap/zap-desktop) | 1,255 | 204 | JavaScript | 134 | Zap Wallet - Cross platform Lightning Network wallet focused on user experience and ease of use ⚡️ | 2023-11-17 |
-| 56 | [daedalus](https://github.com/input-output-hk/daedalus) | 1,244 | 294 | TypeScript | 5 | The open source cryptocurrency wallet for ada, built to grow with the community | 2026-07-30 |
-| 57 | [passkit-generator](https://github.com/alexandercerutti/passkit-generator) | 1,242 | 138 | TypeScript | 4 | The easiest way to generate custom Apple Wallet passes in Node.js | 2026-06-29 |
-| 58 | [lnbits](https://github.com/lnbits/lnbits) | 1,224 | 417 | Python | 53 | LNbits, free and open-source Lightning wallet and accounts system. | 2026-07-31 |
-| 59 | [unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android) | 1,222 | 490 | Kotlin | 38 | A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institu... | 2026-07-31 |
-| 60 | [qtum](https://github.com/qtumproject/qtum) | 1,211 | 406 | C++ | 37 | Qtum Core Wallet | 2026-07-22 |
+| 30 | [wallet-adapter](https://github.com/anza-xyz/wallet-adapter) | 2,027 | 1,063 | TypeScript | 18 | Modular TypeScript wallet adapters and components for Solana applications. | 2026-06-18 |
+| 31 | [XRP-community-wallet](https://github.com/xrpcommunity/XRP-community-wallet) | 1,914 | 131 | TypeScript | 0 | Fully decentralized and the most secure XRP &  EVM wallet - built by the community, for the community. | 2026-07-09 |
+| 32 | [Rabby](https://github.com/RabbyHub/Rabby) | 1,882 | 594 | TypeScript | 131 | The game-changing wallet for Ethereum and all EVM chains | 2026-08-14 |
+| 33 | [cake_wallet](https://github.com/cake-tech/cake_wallet) | 1,850 | 390 | Dart | 228 | The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com | 2026-08-15 |
+| 34 | [apps](https://github.com/polkadot-js/apps) | 1,821 | 1,635 | TypeScript | 215 | Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains. | 2026-08-07 |
+| 35 | [trezor-firmware](https://github.com/trezor/trezor-firmware) | 1,806 | 793 | C | 562 | :lock: Trezor Firmware Monorepo | 2026-08-15 |
+| 36 | [SavjeeCoin](https://github.com/Savjee/SavjeeCoin) | 1,770 | 739 | JavaScript | 1 | A simple blockchain in Javascript. For educational purposes only. | 2025-11-21 |
+| 37 | [coinbase-wallet-sdk](https://github.com/coinbase/coinbase-wallet-sdk) | 1,758 | 757 | TypeScript | 50 | An open protocol that lets users connect their mobile wallets to your DApp | 2026-04-30 |
+| 38 | [web3-examples](https://github.com/luzhenqian/web3-examples) | 1,723 | 249 | TypeScript | 0 | 欢迎来到 Web3 世界，这里汇集了大量 Web3 示例项目和高质量学习资源。加入我们，和一百万开发者同行，一起探索并塑造未来世界的繁荣景象。立刻行动，开启您的 Web3 之旅！ | 2026-04-08 |
+| 39 | [CoinExchange_CryptoExchange_Java](https://github.com/jammy928/CoinExchange_CryptoExchange_Java) | 1,719 | 1,309 | Java | 0 | The best Java open source crypto currency exchange platform, bitcoin exchange based on Java \| BTC exchange \| ETH exchange \| digital currency exchange \| trading platform \| matching trading engine. This... | 2024-05-12 |
+| 40 | [walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) | 1,682 | 814 | TypeScript | 33 | WalletConnect Monorepo  | 2026-08-12 |
+| 41 | [backpack](https://github.com/coral-xyz/backpack) | 1,652 | 947 | TypeScript | 496 | 🎒 Next level crypto wallet | 2024-08-12 |
+| 42 | [trust-wallet-ios](https://github.com/trustwallet/trust-wallet-ios) | 1,608 | 566 | Swift | 62 | :iphone: Trust - Ethereum Wallet and Web3 DApp Browser for iOS | 2019-05-08 |
+| 43 | [MyEtherWallet](https://github.com/MyEtherWallet/MyEtherWallet) | 1,588 | 836 | SCSS | 34 | MyEtherWallet (our friends call us MEW) is a free, client-side interface helping you interact with the Ethereum blockchain. | 2026-08-14 |
+| 44 | [btcrecover](https://github.com/gurnec/btcrecover) | 1,578 | 859 | Python | 366 | An open source Bitcoin wallet password and seed recovery tool designed for the case where you already know most of your password/seed, but need assistance in trying different possible combinations. | 2024-08-02 |
+| 45 | [verge](https://github.com/vergecurrency/verge) | 1,562 | 389 | C++ | 0 | Official Verge Core Source Code Repository :muscle: | 2026-07-30 |
+| 46 | [Encryptr](https://github.com/SpiderOak/Encryptr) | 1,559 | 131 | JavaScript | 121 | Encryptr is a zero-knowledge cloud-based password manager / e-wallet powered by Crypton | 2017-11-29 |
+| 47 | [wallet](https://github.com/DemocracyEarth/wallet) | 1,512 | 275 | JavaScript | 83 | Censorship resistant democracies.  | 2023-03-04 |
+| 48 | [eth-lightwallet](https://github.com/Consensys/eth-lightwallet) | 1,476 | 514 | JavaScript | 60 | Lightweight JS Wallet for Node and the browser  | 2024-06-24 |
+| 49 | [Plutus](https://github.com/Isaacdelly/Plutus) | 1,421 | 582 | Python | 1 | An automated bitcoin wallet brute-forcer | 2026-01-04 |
+| 50 | [MyCrypto](https://github.com/MyCryptoHQ/MyCrypto) | 1,408 | 662 | TypeScript | 36 | MyCrypto is an open-source tool that allows you to manage your Ethereum accounts privately and securely. Developed by and for the community since 2015, we’re focused on building awesome products that ... | 2024-01-17 |
+| 51 | [zeus](https://github.com/ZeusLN/zeus) | 1,398 | 244 | TypeScript | 234 | A mobile Bitcoin wallet fit for the gods. ⚡️ Est. 563345 | 2026-08-15 |
+| 52 | [laravel-wallet](https://github.com/bavix/laravel-wallet) | 1,331 | 249 | PHP | 1 | It's easy to work with a virtual wallet | 2026-08-15 |
+| 53 | [agentkit](https://github.com/coinbase/agentkit) | 1,282 | 783 | TypeScript | 97 | Every AI Agent deserves a wallet. | 2026-08-13 |
+| 54 | [zap-desktop](https://github.com/LN-Zap/zap-desktop) | 1,255 | 204 | JavaScript | 134 | Zap Wallet - Cross platform Lightning Network wallet focused on user experience and ease of use ⚡️ | 2023-11-17 |
+| 55 | [btcwallet](https://github.com/btcsuite/btcwallet) | 1,255 | 648 | Go | 110 | A secure bitcoin wallet daemon written in Go (golang) | 2026-08-14 |
+| 56 | [daedalus](https://github.com/input-output-hk/daedalus) | 1,244 | 296 | TypeScript | 9 | The open source cryptocurrency wallet for ada, built to grow with the community | 2026-08-14 |
+| 57 | [passkit-generator](https://github.com/alexandercerutti/passkit-generator) | 1,242 | 138 | TypeScript | 5 | The easiest way to generate custom Apple Wallet passes in Node.js | 2026-06-29 |
+| 58 | [lnbits](https://github.com/lnbits/lnbits) | 1,230 | 421 | Python | 55 | LNbits, free and open-source Lightning wallet and accounts system. | 2026-08-10 |
+| 59 | [unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android) | 1,229 | 491 | Kotlin | 40 | A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institu... | 2026-08-15 |
+| 60 | [qtum](https://github.com/qtumproject/qtum) | 1,211 | 404 | C++ | 37 | Qtum Core Wallet | 2026-08-14 |
 | 61 | [bitshares-core](https://github.com/bitshares/bitshares-core) | 1,185 | 658 | C++ | 229 | BitShares Blockchain node and command-line wallet | 2026-02-16 |
 | 62 | [covidpass](https://github.com/covidpass-org/covidpass) | 1,157 | 57 | TypeScript | 16 | Web app for adding EU Digital COVID Certificates to your wallet apps | 2022-04-15 |
-| 63 | [ant-design-web3](https://github.com/ant-design/ant-design-web3) | 1,144 | 197 | TypeScript | 20 | 🥳 Efficient react components for building dapps easier \| Connect crypto wallets and more Web3 UI components \| Web3 icons \| Supports Ethereum, Solana, Bitcoin, TON, Sui, TRON and others. | 2026-07-22 |
-| 64 | [rango-client](https://github.com/rango-exchange/rango-client) | 1,128 | 40 | TypeScript | 3 | Rango Exchange Widget & Wallets Library | 2026-07-29 |
-| 65 | [MultiSigWallet](https://github.com/gnosis/MultiSigWallet) | 1,103 | 761 | JavaScript | 73 | Allows multiple parties to agree on transactions before execution.  | 2021-08-24 |
-| 66 | [connectkit](https://github.com/family/connectkit) | 1,057 | 239 | TypeScript | 23 | Connecting a wallet, made simple. | 2026-03-30 |
-| 67 | [bdk](https://github.com/bitcoindevkit/bdk) | 1,057 | 467 | Rust | 46 | A modern, lightweight, descriptor-based wallet library written in Rust! | 2026-07-24 |
-| 68 | [trezor-suite](https://github.com/trezor/trezor-suite) | 1,027 | 364 | TypeScript | 997 | Trezor Suite Monorepo | 2026-07-31 |
-| 69 | [neon-wallet](https://github.com/CityOfZion/neon-wallet) | 1,012 | 305 | JavaScript | 37 | Light wallet for the NEO blockchain | 2025-05-08 |
-| 70 | [gocoin](https://github.com/piotrnar/gocoin) | 1,001 | 223 | Go | 9 | Full bitcoin solution written in Go (golang) | 2026-07-21 |
-| 71 | [ethereumjs-wallet](https://github.com/ethereumjs/ethereumjs-wallet) | 991 | 294 | TypeScript | 0 | Utilities for handling Ethereum keys | 2024-10-30 |
-| 72 | [php-pkpass](https://github.com/tschoffelen/php-pkpass) | 979 | 194 | PHP | 0 | 💳 PHP class for creating passes for Wallet on iOS. | 2026-01-02 |
-| 73 | [ledger-live-desktop](https://github.com/LedgerHQ/ledger-live-desktop) | 960 | 293 | JavaScript | 274 | ⛔️ DEPRECATED - Ledger Live (Desktop) | 2022-06-12 |
-| 74 | [coinbin](https://github.com/OutCast3k/coinbin) | 955 | 647 | JavaScript | 104 | Javascript Bitcoin Wallet. Supports Multisig, Stealth, HD, SegWit, Bech32, Time Locked Addresses, RBF and more! | 2023-07-02 |
-| 75 | [extension](https://github.com/unisat-wallet/extension) | 944 | 414 | TypeScript | 5 | The first open-source browser extension wallet for Bitcoin NFTs | 2026-03-10 |
+| 63 | [ant-design-web3](https://github.com/ant-design/ant-design-web3) | 1,145 | 197 | TypeScript | 20 | 🥳 Efficient react components for building dapps easier \| Connect crypto wallets and more Web3 UI components \| Web3 icons \| Supports Ethereum, Solana, Bitcoin, TON, Sui, TRON and others. | 2026-07-22 |
+| 64 | [rango-client](https://github.com/rango-exchange/rango-client) | 1,127 | 39 | TypeScript | 2 | Rango Exchange Widget & Wallets Library | 2026-08-15 |
+| 65 | [MultiSigWallet](https://github.com/gnosis/MultiSigWallet) | 1,101 | 760 | JavaScript | 73 | Allows multiple parties to agree on transactions before execution.  | 2021-08-24 |
+| 66 | [bdk](https://github.com/bitcoindevkit/bdk) | 1,063 | 473 | Rust | 48 | A modern, lightweight, descriptor-based wallet library written in Rust! | 2026-08-15 |
+| 67 | [connectkit](https://github.com/family/connectkit) | 1,057 | 238 | TypeScript | 23 | Connecting a wallet, made simple. | 2026-08-13 |
+| 68 | [trezor-suite](https://github.com/trezor/trezor-suite) | 1,028 | 370 | TypeScript | 1009 | Trezor Suite Monorepo | 2026-08-15 |
+| 69 | [neon-wallet](https://github.com/CityOfZion/neon-wallet) | 1,012 | 304 | JavaScript | 37 | Light wallet for the NEO blockchain | 2025-05-08 |
+| 70 | [gocoin](https://github.com/piotrnar/gocoin) | 1,000 | 223 | Go | 8 | Full bitcoin solution written in Go (golang) | 2026-08-11 |
+| 71 | [ethereumjs-wallet](https://github.com/ethereumjs/ethereumjs-wallet) | 992 | 294 | TypeScript | 0 | Utilities for handling Ethereum keys | 2024-10-30 |
+| 72 | [php-pkpass](https://github.com/tschoffelen/php-pkpass) | 982 | 193 | PHP | 0 | 💳 PHP class for creating passes for Wallet on iOS. | 2026-01-02 |
+| 73 | [ledger-live-desktop](https://github.com/LedgerHQ/ledger-live-desktop) | 959 | 291 | JavaScript | 274 | ⛔️ DEPRECATED - Ledger Live (Desktop) | 2022-06-12 |
+| 74 | [coinbin](https://github.com/OutCast3k/coinbin) | 956 | 647 | JavaScript | 104 | Javascript Bitcoin Wallet. Supports Multisig, Stealth, HD, SegWit, Bech32, Time Locked Addresses, RBF and more! | 2023-07-02 |
+| 75 | [extension](https://github.com/unisat-wallet/extension) | 944 | 413 | TypeScript | 4 | The first open-source browser extension wallet for Bitcoin NFTs | 2026-03-10 |
 | 76 | [fuels-wallet](https://github.com/FuelLabs/fuels-wallet) | 943 | 457 | TypeScript | 116 | 💳 The official Fuel wallet. | 2026-04-14 |
-| 77 | [service-my-wallet-v3](https://github.com/blockchain/service-my-wallet-v3) | 939 | 529 | JavaScript | 268 | Blockchain Wallet API Service | 2023-02-07 |
-| 78 | [rivet](https://github.com/paradigmxyz/rivet) | 927 | 93 | TypeScript | 13 | Developer Wallet & DevTools for Anvil | 2025-03-26 |
+| 77 | [service-my-wallet-v3](https://github.com/blockchain/service-my-wallet-v3) | 941 | 530 | JavaScript | 268 | Blockchain Wallet API Service | 2023-02-07 |
+| 78 | [rivet](https://github.com/paradigmxyz/rivet) | 930 | 94 | TypeScript | 16 | Developer Wallet & DevTools for Anvil | 2025-03-26 |
 | 79 | [OBAndroid](https://github.com/omnilaboratory/OBAndroid) | 923 | 11 | Java | 1 | OBAndroid is a self-custodial OmniBOLT Lightning wallet for android devices. It provides a platform for simple, instantaneous Bitcoin/Omnilayer asset payments | 2023-09-12 |
-| 80 | [web3-onboard](https://github.com/thirdweb-dev/web3-onboard) | 919 | 531 | TypeScript | 76 | Client library to onboard users to web3 apps | 2026-05-28 |
-| 81 | [token-profile](https://github.com/consenlabs/token-profile) | 913 | 3,520 | TypeScript | 0 | Blockchain coin and token profile collection | 2025-09-12 |
-| 82 | [natrium_wallet_flutter](https://github.com/appditto/natrium_wallet_flutter) | 911 | 330 | Dart | 96 | Natrium - Fast, Robust & Secure NANO Wallet, now written with Flutter. | 2024-10-08 |
-| 83 | [wallet-gen](https://github.com/octra-labs/wallet-gen) | 899 | 14,669 | HTML | 1 |  | 2025-07-18 |
-| 84 | [unstoppable-wallet-ios](https://github.com/horizontalsystems/unstoppable-wallet-ios) | 896 | 310 | Swift | 35 | Multi-wallet for Bitcoin, Ethereum, Binance Smart Chain and other emerging blockchains. Non-custodial storage, decentralized exchange, and extensive analytics for thousands of tokens and NFTs. Impleme... | 2026-07-31 |
+| 80 | [web3-onboard](https://github.com/thirdweb-dev/web3-onboard) | 920 | 532 | TypeScript | 76 | Client library to onboard users to web3 apps | 2026-05-28 |
+| 81 | [token-profile](https://github.com/consenlabs/token-profile) | 916 | 3,523 | TypeScript | 0 | Blockchain coin and token profile collection | 2025-09-12 |
+| 82 | [natrium_wallet_flutter](https://github.com/appditto/natrium_wallet_flutter) | 912 | 330 | Dart | 96 | Natrium - Fast, Robust & Secure NANO Wallet, now written with Flutter. | 2024-10-08 |
+| 83 | [wallet-gen](https://github.com/octra-labs/wallet-gen) | 901 | 14,659 | HTML | 1 |  | 2025-07-18 |
+| 84 | [unstoppable-wallet-ios](https://github.com/horizontalsystems/unstoppable-wallet-ios) | 899 | 309 | Swift | 28 | Multi-wallet for Bitcoin, Ethereum, Binance Smart Chain and other emerging blockchains. Non-custodial storage, decentralized exchange, and extensive analytics for thousands of tokens and NFTs. Impleme... | 2026-08-13 |
 | 85 | [lightning-app](https://github.com/lightninglabs/lightning-app) | 892 | 165 | JavaScript | 202 | An easy-to-use cross-platform Lightning wallet | 2020-07-30 |
 | 86 | [blockchain-wallet-v4-frontend](https://github.com/blockchain/blockchain-wallet-v4-frontend) | 880 | 571 | TypeScript | 14 | Blockchain.com's open source, non-custodial Wallet | 2025-04-14 |
-| 87 | [spl-token-wallet](https://github.com/project-serum/spl-token-wallet) | 876 | 389 | JavaScript | 0 |  | 2022-12-18 |
-| 88 | [phoenix](https://github.com/ACINQ/phoenix) | 854 | 143 | Kotlin | 55 | Phoenix is a self-custodial Bitcoin wallet using Lightning to send/receive payments. | 2026-07-08 |
-| 89 | [swapper-toolkit](https://github.com/swapperfinance/swapper-toolkit) | 841 | 36 | - | 0 | DeFi toolkit for AI agents and coding assistants — deposit funds, execute trades, and manage crypto wallets. Works with Claude Code, Cursor,   Windsurf, OpenClaw, CrewAI, AutoGPT, and other AI agent f... | 2026-04-07 |
-| 90 | [specter-desktop](https://github.com/cryptoadvance/specter-desktop) | 837 | 255 | Python | 229 | A desktop GUI for Bitcoin Core optimised to work with hardware wallets | 2026-07-28 |
-| 91 | [cardano-wallet](https://github.com/cardano-foundation/cardano-wallet) | 822 | 233 | Haskell | 39 | HTTP server & command-line for managing UTxOs and HD wallets in Cardano. | 2026-07-31 |
-| 92 | [wallet-cli](https://github.com/tronprotocol/wallet-cli) | 811 | 605 | Java | 1 | Wallet CLI | 2026-07-28 |
-| 93 | [adamant-im](https://github.com/Adamant-im/adamant-im) | 786 | 75 | TypeScript | 24 | ADAMANT Decentralized Messenger and Crypto Wallet. Progressive Web Application (PWA) for Web, Tor, Android, macOS, Windows, and Linux. | 2026-07-31 |
-| 94 | [StratisBitcoinFullNode](https://github.com/stratisproject/StratisBitcoinFullNode) | 783 | 304 | C# | 150 | Bitcoin full node in C# | 2021-08-16 |
-| 95 | [mytonwallet](https://github.com/mytonwallet-org/mytonwallet) | 780 | 385 | Swift | 63 | A crypto wallet you'll actually enjoy. | 2026-07-25 |
-| 96 | [api-relay-audit](https://github.com/toby-bridges/api-relay-audit) | 777 | 73 | Python | 9 | Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks. | 2026-07-27 |
-| 97 | [coinpunk](https://github.com/kyledrake/coinpunk) | 764 | 256 | JavaScript | 0 | Open source, self-hosted DIY Bitcoin wallet service | 2015-06-14 |
-| 98 | [eudi-doc-architecture-and-reference-framework](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework) | 742 | 113 | Python | 26 | The European Digital Identity Wallet | 2026-07-23 |
-| 99 | [wallet-contract](https://github.com/ton-blockchain/wallet-contract) | 740 | 667 | Shell | 1 | Wallet V4 and subscription smart contracts | 2025-05-23 |
-| 100 | [pass-js](https://github.com/tinovyatkin/pass-js) | 734 | 85 | TypeScript | 3 | Apple Wallet Passes generating library for Node.JS | 2026-07-17 |
+| 87 | [spl-token-wallet](https://github.com/project-serum/spl-token-wallet) | 875 | 387 | JavaScript | 0 |  | 2022-12-18 |
+| 88 | [phoenix](https://github.com/ACINQ/phoenix) | 858 | 144 | Kotlin | 55 | Phoenix is a self-custodial Bitcoin wallet using Lightning to send/receive payments. | 2026-07-08 |
+| 89 | [swapper-toolkit](https://github.com/swapperfinance/swapper-toolkit) | 845 | 37 | - | 0 | DeFi toolkit for AI agents and coding assistants — deposit funds, execute trades, and manage crypto wallets. Works with Claude Code, Cursor,   Windsurf, OpenClaw, CrewAI, AutoGPT, and other AI agent f... | 2026-04-07 |
+| 90 | [specter-desktop](https://github.com/cryptoadvance/specter-desktop) | 843 | 258 | Python | 230 | A desktop GUI for Bitcoin Core optimised to work with hardware wallets | 2026-08-15 |
+| 91 | [cardano-wallet](https://github.com/cardano-foundation/cardano-wallet) | 820 | 231 | Haskell | 40 | HTTP server & command-line for managing UTxOs and HD wallets in Cardano. | 2026-08-15 |
+| 92 | [metamask-desktop](https://github.com/metamask-eth/metamask-desktop) | 816 | 43 | CSS | 0 | 🖥️ The MetaMask Desktop app is a companion crypto wallet app that improves the overall performance of the MetaMask Extension Flask build | 2026-06-14 |
+| 93 | [wallet-cli](https://github.com/tronprotocol/wallet-cli) | 814 | 610 | Java | 0 | Wallet CLI | 2026-08-14 |
+| 94 | [api-relay-audit](https://github.com/toby-bridges/api-relay-audit) | 789 | 75 | Python | 9 | Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks. | 2026-08-15 |
+| 95 | [adamant-im](https://github.com/Adamant-im/adamant-im) | 785 | 75 | TypeScript | 26 | ADAMANT Decentralized Messenger and Crypto Wallet. Progressive Web Application (PWA) for Web, Tor, Android, macOS, Windows, and Linux. | 2026-08-14 |
+| 96 | [mytonwallet](https://github.com/mytonwallet-org/mytonwallet) | 783 | 391 | Swift | 65 | A crypto wallet you'll actually enjoy. | 2026-08-15 |
+| 97 | [StratisBitcoinFullNode](https://github.com/stratisproject/StratisBitcoinFullNode) | 783 | 304 | C# | 150 | Bitcoin full node in C# | 2021-08-16 |
+| 98 | [firmware](https://github.com/Coldcard/firmware) | 774 | 220 | Python | 0 | ❄️ Firmware and simulator for Coldcard Hardware Wallet | 2026-08-15 |
+| 99 | [coinpunk](https://github.com/kyledrake/coinpunk) | 765 | 256 | JavaScript | 0 | Open source, self-hosted DIY Bitcoin wallet service | 2015-06-14 |
+| 100 | [wallet-contract](https://github.com/ton-blockchain/wallet-contract) | 745 | 673 | Shell | 1 | Wallet V4 and subscription smart contracts | 2025-05-23 |
