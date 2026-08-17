@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-15"
 date: "2026-08-15"
 source: "CoinDesk"
-count: 7
+count: 5
 ---
 
 # CoinDesk - 2026-08-15
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ Calls fell 85.2% to 148,000 underlying shares, while puts slipped 1.4% to 715,00
 Dubai-based crypto lawyer Irina Heaver and her team parsed every crypto deal in the first half of 2026. BlackRock, Goldman, and Persian Gulf sovereigns all wrote checks to regulated firms.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era)
-
----
-
-## 6. Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories
-
-**Author:** Aoyon Ashraf,AI Boost  
-**Published:** 8/15/2026, 1:00:00 PM  
-**Categories:** Finance, News  
-
-Washington kept crypto’s biggest legislative hope alive, Wall Street pushed deeper into digital assets, and a security scare sent billions of dollars of bitcoin moving between wallets.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories)
-
----
-
-## 7. Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns
-
-**Author:** Ian Allison  
-**Published:** 8/15/2026, 12:00:00 PM  
-**Categories:** Finance, Ethereum News, DeFi, Institutional Adoption, News  
-
-Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns)
 
 ---
