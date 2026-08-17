@@ -6,7 +6,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 876 | 110 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
+| 1 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 877 | 110 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 2 | [mango](https://github.com/MangoNet-Labs/mango) | 273 | 74 | Rust | 1 | Mango Network is a Layer1 blockchain based on the Dpos consensus mechanism and supported by Move to build a transaction-based omni-chain infrastructure network. | 2025-06-21 |
 | 3 | [Mavryk-Wallet](https://github.com/MeoMunDep/Mavryk-Wallet) | 143 | 5 | Shell | 0 | Auto  connect wallet, send token, stake, create vault, deposit, earn, borrow, faucet token.  | 2025-09-26 |
 | 4 | [layer1](https://github.com/LNP-BP/layer1) | 66 | 12 | - | 2 | Paper on new bitcoin layer 1 design | 2023-10-04 |
@@ -20,7 +20,7 @@
 | 12 | [k2-release](https://github.com/koii-network/k2-release) | 21 | 12 | Shell | 2 | K2 is the current settlement layer within Koii and provides the functionality of a message hub to other systems in the network. Thanks to the incredible work of the Solana Labs team, K2 is able to use... | 2025-01-05 |
 | 13 | [Layer1](https://github.com/kostasgrlondon/Layer1) | 19 | 0 | - | 0 |  | 2024-05-25 |
 | 14 | [blockdag-scripts](https://github.com/BlockdagNetworkLabs/blockdag-scripts) | 18 | 9 | Shell | 54 | BlockDAG Installer for Linux/Ubunutu and MacOS | 2026-01-09 |
-| 15 | [alphanumeric](https://github.com/OSXBasedAnon/alphanumeric) | 18 | 4 | Rust | 0 | Next generation Rust powered blockchain technology | 2026-08-16 |
+| 15 | [alphanumeric](https://github.com/OSXBasedAnon/alphanumeric) | 18 | 4 | Rust | 0 | Next generation Rust powered blockchain technology | 2026-08-17 |
 | 16 | [Reputation-Builder](https://github.com/MeoMunDep/Reputation-Builder) | 18 | 0 | Shell | 0 | Auto do tasks, farm, referrals, faucet, deploy token, send token.  | 2025-09-30 |
 | 17 | [shardeum-docs](https://github.com/shardeum/shardeum-docs) | 14 | 9 | MDX | 0 | Official Shardeum Documentation | 2026-04-21 |
 | 18 | [Acki-Nacki](https://github.com/MeoMunDep/Acki-Nacki) | 12 | 0 | Shell | 0 | Auto farm, do tasks, update mamaboard, claim frens points, claim boost points. | 2026-06-15 |
@@ -29,7 +29,7 @@
 | 21 | [Layer1](https://github.com/anyashechka/Layer1) | 9 | 0 | - | 0 |  | 2024-06-06 |
 | 22 | [MegaETH](https://github.com/MeoMunDep/MegaETH) | 9 | 0 | JavaScript | 0 | Auto all. | 2025-06-03 |
 | 23 | [safrochain-node](https://github.com/Safrochain-Org/safrochain-node) | 8 | 10 | Go | 2 | Safrochain-node is the core Cosmos SDK-based Layer1 blockchain. | 2026-07-15 |
-| 24 | [hikmalayer-core](https://github.com/bestowerlabs/hikmalayer-core) | 8 | 2 | Rust | 0 | Hikmalayer Core is a hybrid Layer‑1 blockchain prototype that combines Proof‑of‑Stake (validator selection) with Proof‑of‑Work (block finalization). It is developed by Muhammad Ayan Rao director Besto... | 2026-08-15 |
+| 24 | [hikmalayer-core](https://github.com/bestowerlabs/hikmalayer-core) | 8 | 2 | Rust | 0 | Hikmalayer Core is a hybrid Layer‑1 blockchain prototype that combines Proof‑of‑Stake (validator selection) with Proof‑of‑Work (block finalization). It is developed by Muhammad Ayan Rao director Besto... | 2026-08-16 |
 | 25 | [ferrous](https://github.com/ChronoCoders/ferrous) | 8 | 1 | Rust | 0 | A Rust-built Layer 1 blockchain with RandomX PoW, BIP39 wallets, Shamir recovery, and post-quantum signatures. | 2026-07-04 |
 | 26 | [tinydns](https://github.com/laincloud/tinydns) | 7 | 8 | Go | 0 | Tinydns is a LAIN's layer1 application providing internal DNS resolving service | 2018-02-09 |
 | 27 | [phantasma-ts](https://github.com/phantasma-io-archive/phantasma-ts) | 7 | 13 | JavaScript | 1 | A TypeScript SDK for the Phantasma blockchain | 2024-01-11 |
@@ -37,7 +37,7 @@
 | 29 | [flexo-mms-layer1-service](https://github.com/Open-MBEE/flexo-mms-layer1-service) | 6 | 3 | Kotlin | 14 |  | 2026-08-09 |
 | 30 | [erbie](https://github.com/erbieio/erbie) | 6 | 4 | Go | 1 | ErbieChain is an efficient Layer1 that aggregates web data and realizes value on Web3. | 2026-06-04 |
 | 31 | [phantasma-ng](https://github.com/phantasma-io-archive/phantasma-ng) | 6 | 15 | C# | 1 | Phantasma Blockchain Source Code | 2024-01-16 |
-| 32 | [BTGS](https://github.com/BTGSCOINDEV/BTGS) | 6 | 2 | C++ | 0 | BITCOIN GOLD "BTGS" | 2026-08-15 |
+| 32 | [BTGS](https://github.com/BTGSCOINDEV/BTGS) | 6 | 2 | C++ | 0 | BITCOIN GOLD "BTGS" | 2026-08-16 |
 | 33 | [Exorde](https://github.com/xplanx/Exorde) | 6 | 0 | - | 0 | Exorde is the web3 protocol that empowers developers to crawl and link all public data on the web. | 2023-05-24 |
 | 34 | [Linea-Guide](https://github.com/farman-haris/Linea-Guide) | 6 | 0 | - | 0 |  | 2024-04-02 |
 | 35 | [nexawallet](https://github.com/efeint01/nexawallet) | 5 | 2 | Java | 0 | A rich native android wallet app to store your nexa coins in one place | 2023-11-01 |
@@ -60,8 +60,8 @@
 | 52 | [curs3d](https://github.com/Pazificateur69/curs3d) | 3 | 0 | Rust | 0 | Quantum-resistant Layer 1 blockchain written from scratch in Rust. CRYSTALS-Dilithium 5, BFT PoS, WASM smart contracts, EIP-1559 fees. 209 tests, MIT License. | 2026-05-22 |
 | 53 | [SILVR](https://github.com/him-SILVR/SILVR) | 3 | 1 | C | 0 | SILVR \| Custom Layer-1 blockchain in C. SHA-256d PoW. No ICO. No fork. The People's Chain. Chain ID 2026. | 2026-06-09 |
 | 54 | [Matrix-Mining](https://github.com/drMurlly/Matrix-Mining) | 3 | 0 | Shell | 0 | Manage multiple MATRIX AI NETWORK mining masternodes on one machine with Docker. | 2024-09-15 |
-| 55 | [Chui](https://github.com/ChuiNetwork/Chui) | 3 | 1 | Rust | 0 | Core Blockchain - consensus and algorithms to run the network. Chui is a hard fork of solana.  | 2024-01-16 |
-| 56 | [aethelred](https://github.com/aethelred-foundation/aethelred) | 3 | 1 | Rust | 0 | Canonical monorepo for the Aethelred protocol, security baselines, and public release provenance. | 2026-08-07 |
+| 55 | [aethelred](https://github.com/aethelred-foundation/aethelred) | 3 | 1 | Rust | 0 | Canonical monorepo for the Aethelred protocol, security baselines, and public release provenance. | 2026-08-07 |
+| 56 | [Chui](https://github.com/ChuiNetwork/Chui) | 3 | 1 | Rust | 0 | Core Blockchain - consensus and algorithms to run the network. Chui is a hard fork of solana.  | 2024-01-16 |
 | 57 | [rampage](https://github.com/RampageRPM1/rampage) | 3 | 0 | Go | 0 | Rampage L1 – censorship-resistant truth engine | 2026-06-09 |
 | 58 | [qorechain-academic-paper](https://github.com/satoshi-Qore/qorechain-academic-paper) | 3 | 0 | - | 0 | Academic research exploring QoreChain's post-quantum security, AI-native infrastructure, multi-VM architecture, and long-term blockchain sustainability. | 2026-06-11 |
 | 59 | [Viri](https://github.com/RockyOmvi/Viri) | 3 | 0 | Go | 9 | Production-grade 3-layer modular L1 blockchain in Go. HotStuff-2 BFT formally verified with TLA+ (34M+ states, Byzantine model). Native AA, dual EVM+WASM, ZK privacy, MEV resistance. BSL 1.1. | 2026-05-29 |
