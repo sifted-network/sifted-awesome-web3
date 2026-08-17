@@ -37,7 +37,7 @@ Tokenized equities reached 1.31 million holders over the past month, as monthly 
 
 ## 3. Here’s what happened in crypto today
 
-**Author:** Cointelegraph by Zoltan Vardai  
+**Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/15/2026, 2:40:24 PM  
 **Categories:** Latest News  
 
@@ -74,7 +74,7 @@ Klippsten said Bitcoin could bottom about a year after its previous peak and arg
 ## 6. Kalshi ordered to stop broad range of prediction markets in Washington
 
 **Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/15/2026, 10:44:52 AM  
+**Published:** 8/15/2026, 11:00:00 AM  
 **Categories:** Latest News  
 
 Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source geofencing system by Sept. 2.
