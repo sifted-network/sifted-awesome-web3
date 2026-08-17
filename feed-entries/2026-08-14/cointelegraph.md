@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-14"
 date: "2026-08-14"
 source: "Cointelegraph"
-count: 20
+count: 18
 ---
 
 # Cointelegraph - 2026-08-14
 
-20 items collected.
+18 items collected.
 
 ---
 
@@ -224,29 +224,5 @@ JPMorgan Chase reportedly cut banking ties with Polymarket in October 2025 over 
 Crypto acceptance was just 0.2% online and remained below 1% at physical points of sale, while mobile payments gained ground.
 
 📖 [Read original article](https://cointelegraph.com/news/ecb-survey-0-2-euro-area-companies-accept-crypto-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. SEC cancels key crypto regulatory meeting
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/14/2026, 8:02:18 AM  
-**Categories:** Latest News  
-
-The SEC canceled a meeting on proposed crypto offering rules after the Senate left for recess without voting on the CLARITY Act.
-
-📖 [Read original article](https://cointelegraph.com/news/sec-cancels-crypto-regulatory-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Neutrl pauses NUSD redemptions over undisclosed reserve issue
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/14/2026, 4:44:31 AM  
-**Categories:** Latest News  
-
-BA Labs had previously classified a proposed NUSD integration as higher risk because of its counterparty, operational and liquidity exposure.
-
-📖 [Read original article](https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
