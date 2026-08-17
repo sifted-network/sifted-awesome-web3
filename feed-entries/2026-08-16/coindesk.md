@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-08-16"
 date: "2026-08-16"
 source: "CoinDesk"
-count: 5
+count: 6
 ---
 
 # CoinDesk - 2026-08-16
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. Crypto investors are looking past market-cap rankings and back to fundamentals
+## 1. The SEC meeting that wasn't: State of Crypto
+
+**Author:** Nikhilesh De  
+**Published:** 8/16/2026, 6:30:00 PM  
+**Categories:** Policy, Newsletters, State of Crypto, News  
+
+There were hopes that regulators could move if the Clarity Act didn't advance, but those, too, may be paused.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto)
+
+---
+
+## 2. Crypto investors are looking past market-cap rankings and back to fundamentals
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/16/2026, 4:00:00 PM  
@@ -23,7 +35,7 @@ Investors are starting to judge crypto tokens on usage, economics and value capt
 
 ---
 
-## 2. Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info
+## 3. Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info
 
 **Author:** Omkar Godbole  
 **Published:** 8/16/2026, 2:02:32 PM  
@@ -35,7 +47,7 @@ While the data breach exposed the personal order details of thousands of custome
 
 ---
 
-## 3. MiCA's cleanup is creating a new scam wave across the European Union
+## 4. MiCA's cleanup is creating a new scam wave across the European Union
 
 **Author:** Olivier Acuna  
 **Published:** 8/16/2026, 2:00:00 PM  
@@ -47,7 +59,7 @@ Fraudsters impersonating regulators and licensed crypto exchanges to steal funds
 
 ---
 
-## 4. The stablecoin yield clash that won't go away has banks, crypto battling over tradition
+## 5. The stablecoin yield clash that won't go away has banks, crypto battling over tradition
 
 **Author:** Jesse Hamilton  
 **Published:** 8/16/2026, 1:00:00 PM  
@@ -59,7 +71,7 @@ The bankers want people kept in lower-yield deposits for the good of the financi
 
 ---
 
-## 5. The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets
+## 6. The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/16/2026, 12:00:00 PM  
