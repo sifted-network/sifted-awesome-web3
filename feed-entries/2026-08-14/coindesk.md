@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-14"
 date: "2026-08-14"
 source: "CoinDesk"
-count: 13
+count: 12
 ---
 
 # CoinDesk - 2026-08-14
 
-13 items collected.
+12 items collected.
 
 ---
 
@@ -152,17 +152,5 @@ Top cryptocurrencies nurse losses as regulatory picture sours. ETF flows and tra
 A new consultation targets "non-operating companies" broadly. Two familiar names still land on the deletion list.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal)
-
----
-
-## 13. JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT
-
-**Author:** Omkar Godbole  
-**Published:** 8/14/2026, 5:04:52 AM  
-**Categories:** Markets, JPMorgan, Polymarket, News  
-
-According to Financial Times, JPMorgan ended its banking relationship with Polymarket in late 2025 over regulatory concerns.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft)
 
 ---
