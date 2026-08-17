@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-14"
 date: "2026-08-14"
 source: "The Block"
-count: 12
+count: 9
 ---
 
 # The Block - 2026-08-14
 
-12 items collected.
+9 items collected.
 
 ---
 
@@ -116,41 +116,5 @@ StablecoinX shares surged after the Ethena treasury firm revealed it holds 20% o
 Hyperscale Data sold 685 bitcoin for approximately $43 million as it reduced debt and funded its Michigan AI data center.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-08-14-hyperscale-data-sells-685-bitcoin-for-43-million-to-fund-michigan-data-center-411827)
-
----
-
-## 10. Norway sovereign wealth fund sees indirect bitcoin exposure hit all-time high, with Strategy accounting for 86%: K33
-
-**Author:** James Hunt  
-**Published:** 8/14/2026, 12:25:38 PM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, Public Equities, Token Projects, Bitcoin, Ethereum, Strategy, News  
-
-Norges Bank Investment Management also disclosed a new $88 million stake in Ethereum treasury firm Bitmine.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-14-norway-sovereign-wealth-fund-indirect-bitcoin-exposure-all-time-high-strategy-k33-411815)
-
----
-
-## 11. Kraken parent Payward posts $508 million in Q2 adjusted revenue as growth broadens beyond crypto trading
-
-**Author:** Naga Avan-Nomayo  
-**Published:** 8/14/2026, 12:21:02 PM  
-**Categories:** Companies, Exchanges, Kraken, News  
-
-Kraken parent Payward posted $508M in Q2 adjusted revenue, up 17%, as funded accounts grew 42% to 6.6M and volume fell 13% to $310B.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-14-kraken-parent-payward-508-million-q2-adjusted-revenue-411818)
-
----
-
-## 12. Strategy, Metaplanet could face MSCI index removal under new proposal
-
-**Author:** Brian Danga  
-**Published:** 8/14/2026, 10:57:33 AM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, Token Projects, Bitcoin, Strategy, News  
-
-An MSCI proposal could see Strategy and Metaplanet removed from its global indexes under a new non-operating company screen.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-14-strategy-metaplanet-msci-index-proposal-411809)
 
 ---
