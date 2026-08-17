@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-14"
 date: "2026-08-14"
 source: "CoinDesk"
-count: 12
+count: 9
 ---
 
 # CoinDesk - 2026-08-14
 
-12 items collected.
+9 items collected.
 
 ---
 
@@ -116,41 +116,5 @@ Spot bitcoin ETFs saw back-to-back outflows for the first time since late July a
 A spokesperson for the stablecoin payments company declined to comment on any IPO plans.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/14/redotpay-said-to-put-usd1-billion-u-s-ipo-plan-on-hold-bloomberg)
-
----
-
-## 10. Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices
-
-**Author:** James Van Straten,Krisztian Sandor,Stephen Alpher  
-**Published:** 8/14/2026, 8:51:48 AM  
-**Categories:** Tech, Bitcoin News, Trade Finance, Live News, live_news  
-
-WTI crude tops $82 a barrel, adding inflation pressure and weighing on risk assets as bond yields rise.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb)
-
----
-
-## 11. Cluster of headwinds weigh on bitcoin. XRP teeters near $1
-
-**Author:** Omkar Godbole  
-**Published:** 8/14/2026, 7:14:37 AM  
-**Categories:** Markets, Bitcoin News, XRP News, News  
-
-Top cryptocurrencies nurse losses as regulatory picture sours. ETF flows and traditional markets offer little support.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1)
-
----
-
-## 12. Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal
-
-**Author:** Omkar Godbole  
-**Published:** 8/14/2026, 6:20:54 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-A new consultation targets "non-operating companies" broadly. Two familiar names still land on the deletion list.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal)
 
 ---
