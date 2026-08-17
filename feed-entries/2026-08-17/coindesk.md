@@ -2,16 +2,148 @@
 title: "CoinDesk - 2026-08-17"
 date: "2026-08-17"
 source: "CoinDesk"
-count: 3
+count: 14
 ---
 
 # CoinDesk - 2026-08-17
 
-3 items collected.
+14 items collected.
 
 ---
 
-## 1. The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain
+## 1. No change in bitcoin holdings as Strategy boosted dollar reserve, bought back more STRC last week
+
+**Author:** James Van Straten  
+**Published:** 8/17/2026, 12:19:45 PM  
+**Categories:** Markets, News  
+
+Led by Executive Chairman Michael Saylor, the company raised $333.7 million via the sale of common stock.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week)
+
+---
+
+## 2. Ethereum’s next big upgrade has 66 proposals, including a major privacy fix
+
+**Author:** Shaurya Malwa  
+**Published:** 8/17/2026, 12:02:10 PM  
+**Categories:** Tech, Ethereum News, News  
+
+Developers are narrowing the list for the Hegotá upgrade, including a package to change how wallets approve and pay for transactions, giving developers of privacy apps more of the tools they need inside Ethereum itself.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix)
+
+---
+
+## 3. Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers
+
+**Author:** Olivier Acuna  
+**Published:** 8/17/2026, 11:59:23 AM  
+**Categories:** Tech, Data Breaches, Cryptocurrency, Hack, News  
+
+Funds and digital assets were not touched, but names, bank account details, and national ID numbers may have been exposed in what the company says was a wider global attack.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers)
+
+---
+
+## 4. Bitcoin options remain expensive despite summer calm. Here's why it matters
+
+**Author:** James Van Straten  
+**Published:** 8/17/2026, 11:43:02 AM  
+**Categories:** Markets, Bitcoin News, Volatility, News  
+
+Bitcoin’s implied volatility is near a seasonal floor, but options continue to price substantially more movement than the market is delivering.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters)
+
+---
+
+## 5. Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price
+
+**Author:** Omkar Godbole  
+**Published:** 8/17/2026, 11:28:41 AM  
+**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
+
+Your day-ahead look for Aug. 17, 2026
+
+📖 [Read original article](https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price)
+
+---
+
+## 6. Bitpanda fined 70,000 euros in Austria’s first published MiCA enforcement case
+
+**Author:** Francisco Rodrigues  
+**Published:** 8/17/2026, 10:52:31 AM  
+**Categories:** Finance, MiCA, News  
+
+The fine stems from Bitpanda failing to submit a mandatory white paper 20 days before publication and omitting required disclosures in marketing materials.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case)
+
+---
+
+## 7. Bitcoin tracks equity bounce, but $390 million ETF outflow week keeps bulls on back foot
+
+**Author:** Oliver Knight,Omkar Godbole  
+**Published:** 8/17/2026, 9:59:55 AM  
+**Categories:** Markets, Crypto Markets Today, News  
+
+The price of bitcoin tracked a bounce in equities, but a $390 million ETF outflow streak and 10% odds on landmark crypto legislation leave markets searching for direction.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/bitcoin-tracks-equity-bounce-but-usd390-million-etf-outflow-week-keeps-bulls-on-back-foot)
+
+---
+
+## 8. Binance handed user data to Russia that led to a Ukrainian donor's arrest
+
+**Author:** Francisco Rodrigues,AI Boost  
+**Published:** 8/17/2026, 9:16:14 AM  
+**Categories:** Policy, Binance, News  
+
+Binance says it cooperates with lawful requests, despite exiting the Russian market in 2023 to improve its compliance strategy.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest)
+
+---
+
+## 9. Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead
+
+**Author:** Francisco Rodrigues  
+**Published:** 8/17/2026, 9:13:02 AM  
+**Categories:** Markets, week ahead, News  
+
+Your look at what's coming in the week starting Aug. 17
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead)
+
+---
+
+## 10. Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat
+
+**Author:** Shaurya Malwa  
+**Published:** 8/17/2026, 8:38:26 AM  
+**Categories:** Markets, Live News, live_news  
+
+Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned)
+
+---
+
+## 11. September Fed interest-rate increase is 'very unlikely,' Goldman Sachs says
+
+**Author:** Omkar Godbole  
+**Published:** 8/17/2026, 8:16:11 AM  
+**Categories:** Markets, Federal Reserve, Federal Open Market Committee (FOMC), Interest Rates, News  
+
+Soft economic data has Goldman Sachs doubting a September rate increase, offering good news for bitcoin bulls.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says)
+
+---
+
+## 12. The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain
 
 **Author:** Omkar Godbole  
 **Published:** 8/17/2026, 5:51:18 AM  
@@ -23,7 +155,7 @@ The market may be facing a dangerous liquidity mismatch as futures open interest
 
 ---
 
-## 2. XRP traders bet on a rebound as price slips to $1 and bearish chatter surges
+## 13. XRP traders bet on a rebound as price slips to $1 and bearish chatter surges
 
 **Author:** Shaurya Malwa  
 **Published:** 8/17/2026, 4:43:03 AM  
@@ -35,7 +167,7 @@ Futures open interest climbed to $2.78 billion and traders on Binance and OKX le
 
 ---
 
-## 3. Bitcoin tops $64,000 in Asia morning hours as HYPE jumps 8% on the week
+## 14. Bitcoin nears $64,000 in Asia morning hours as HYPE jumps 8% on the week
 
 **Author:** Shaurya Malwa  
 **Published:** 8/17/2026, 4:14:00 AM  
