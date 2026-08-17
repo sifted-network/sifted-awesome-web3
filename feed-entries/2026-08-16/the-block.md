@@ -2,16 +2,28 @@
 title: "The Block - 2026-08-16"
 date: "2026-08-16"
 source: "The Block"
-count: 2
+count: 3
 ---
 
 # The Block - 2026-08-16
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers
+## 1. Prediction market Novig sues Wisconsin AG in latest spat over sports contracts
+
+**Author:** Zack Abrams  
+**Published:** 8/16/2026, 9:40:20 PM  
+**Categories:** Companies, Policy, Regulation, News  
+
+Novig, which recently announced a partnership with the New York Mets, has sued officials in five states including Wisconsin since Aug. 4.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938)
+
+---
+
+## 2. Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers
 
 **Author:** Zack Abrams  
 **Published:** 8/16/2026, 5:18:38 PM  
@@ -23,7 +35,7 @@ SafePal said it found the root cause of the breach recently, though customers ha
 
 ---
 
-## 2. Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says
+## 3. Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says
 
 **Author:** Zack Abrams  
 **Published:** 8/16/2026, 3:07:00 PM  
