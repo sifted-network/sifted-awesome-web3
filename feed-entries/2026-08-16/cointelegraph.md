@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-08-16"
 date: "2026-08-16"
 source: "Cointelegraph"
-count: 2
+count: 3
 ---
 
 # Cointelegraph - 2026-08-16
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says
+## 1. Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 8/16/2026, 11:54:50 PM  
+**Categories:** Magazine  
+
+Owners of Trezor and SafePal crypto wallets at high risk of phishing attempts after separate data leaks, CLARITY odds at 10% despite White House meeting this week.
+
+📖 [Read original article](https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/16/2026, 12:48:09 PM  
@@ -23,7 +35,7 @@ DefiLlama’s founder said Apple removed one fake app within days after the comp
 
 ---
 
-## 2. Ethereum devs to narrow 66 proposals tied to Hegotá upgrade
+## 3. Ethereum devs to narrow 66 proposals tied to Hegotá upgrade
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/16/2026, 11:12:51 AM  
