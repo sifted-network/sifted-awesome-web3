@@ -7,7 +7,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [seaprotocol](https://github.com/sea-protocol/seaprotocol) | 5,043 | 52 | Move | 2 | Sea protocol is the ultimate DEX base on order-book & AMM on Aptos & Sui.Anybody has the right to trade any asset anywhere, anytime! | 2026-03-02 |
-| 2 | [ammo.js](https://github.com/kripken/ammo.js) | 4,553 | 581 | C++ | 161 | Direct port of the Bullet physics engine to JavaScript using Emscripten | 2026-06-16 |
+| 2 | [ammo.js](https://github.com/kripken/ammo.js) | 4,555 | 581 | C++ | 161 | Direct port of the Bullet physics engine to JavaScript using Emscripten | 2026-06-16 |
 | 3 | [Ammonite](https://github.com/com-lihaoyi/Ammonite) | 2,631 | 366 | Scala | 127 | Scala Scripting | 2026-06-22 |
 | 4 | [amm-arbitrageur](https://github.com/paco0x/amm-arbitrageur) | 1,995 | 815 | Solidity | 20 | An arbitrage bot between Uniswap AMMs | 2022-12-07 |
 | 5 | [uniswap-python](https://github.com/uniswap-python/uniswap-python) | 1,009 | 377 | Python | 53 | 🦄 The unofficial Python client for the Uniswap exchange. | 2026-08-05 |
@@ -45,7 +45,7 @@
 | 37 | [ammo.js-demos](https://github.com/schteppe/ammo.js-demos) | 119 | 31 | JavaScript | 2 | Demo application base class and 3D physics demos based on ammo.js. Support for several scenegraphs including Three.js and SceneJS. | 2015-08-31 |
 | 38 | [contracts](https://github.com/aerodrome-finance/contracts) | 117 | 108 | Solidity | 6 | Aerodrome Finance Smart Contracts | 2025-12-18 |
 | 39 | [ammonite-spark](https://github.com/alexarchambault/ammonite-spark) | 117 | 18 | Scala | 22 | Run spark calculations from Ammonite | 2026-08-14 |
-| 40 | [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk) | 113 | 34 | Rust | 1 | Token creation launching, bonding curve trading, AMM migration, tiered fees, creator fee sharing, vanity keygen, MCP server, Telegram bot & live dashboards | 2026-08-04 |
+| 40 | [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk) | 114 | 35 | Rust | 1 | Token creation launching, bonding curve trading, AMM migration, tiered fees, creator fee sharing, vanity keygen, MCP server, Telegram bot & live dashboards | 2026-08-04 |
 | 41 | [jupiter-amm-implementation](https://github.com/jup-ag/jupiter-amm-implementation) | 109 | 71 | Rust | 0 |  | 2026-04-14 |
 | 42 | [amm-arbitrage-toolkit-py](https://github.com/cypherpunk-symposium/amm-arbitrage-toolkit-py) | 99 | 28 | Python | 0 | 👾 my cli tool to get data and arbitrage edges for given tokens and exchanges pools | 2024-10-30 |
 | 43 | [plasma](https://github.com/Ellipsis-Labs/plasma) | 95 | 20 | Rust | 0 | Reference implementation of a sandwich-resistant AMM for the Solana blockchain | 2025-08-29 |
