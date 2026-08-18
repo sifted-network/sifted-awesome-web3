@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-17"
 date: "2026-08-17"
 source: "CoinDesk"
-count: 21
+count: 14
 ---
 
 # CoinDesk - 2026-08-17
 
-21 items collected.
+14 items collected.
 
 ---
 
@@ -176,89 +176,5 @@ Your day-ahead look for Aug. 17, 2026
 The fine stems from Bitpanda failing to submit a mandatory white paper 20 days before publication and omitting required disclosures in marketing materials.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case)
-
----
-
-## 15. Bitcoin tracks equity bounce, but $390 million ETF outflow week keeps bulls on back foot
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 8/17/2026, 9:59:55 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-The price of bitcoin tracked a bounce in equities, but a $390 million ETF outflow streak and 10% odds on landmark crypto legislation leave markets searching for direction.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/bitcoin-tracks-equity-bounce-but-usd390-million-etf-outflow-week-keeps-bulls-on-back-foot)
-
----
-
-## 16. Binance handed user data to Russia that led to a Ukrainian donor's arrest
-
-**Author:** Francisco Rodrigues,AI Boost  
-**Published:** 8/17/2026, 9:16:14 AM  
-**Categories:** Policy, Binance, News  
-
-Binance says it cooperates with lawful requests, despite exiting the Russian market in 2023 to improve its compliance strategy.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest)
-
----
-
-## 17. Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead
-
-**Author:** Francisco Rodrigues  
-**Published:** 8/17/2026, 9:13:02 AM  
-**Categories:** Markets, week ahead, News  
-
-Your look at what's coming in the week starting Aug. 17
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead)
-
----
-
-## 18. Live updates: Bitcoin rises above $64,000 as big AI compute deals continue to roll in
-
-**Author:** Shaurya Malwa,Helene Braun,James Van Straten,Stephen Alpher  
-**Published:** 8/17/2026, 8:38:26 AM  
-**Categories:** Markets, Live News, live_news  
-
-Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned)
-
----
-
-## 19. September Fed interest-rate increase is 'very unlikely,' Goldman Sachs says
-
-**Author:** Omkar Godbole  
-**Published:** 8/17/2026, 8:16:11 AM  
-**Categories:** Markets, Federal Reserve, Federal Open Market Committee (FOMC), Interest Rates, News  
-
-Soft economic data has Goldman Sachs doubting a September rate increase, offering good news for bitcoin bulls.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says)
-
----
-
-## 20. The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain
-
-**Author:** Omkar Godbole  
-**Published:** 8/17/2026, 5:51:18 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-The market may be facing a dangerous liquidity mismatch as futures open interest outpaces trading volume by a significant margin.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain)
-
----
-
-## 21. XRP traders bet on a rebound as price slips to $1 and bearish chatter surges
-
-**Author:** Shaurya Malwa  
-**Published:** 8/17/2026, 4:43:03 AM  
-**Categories:** Markets, News  
-
-Futures open interest climbed to $2.78 billion and traders on Binance and OKX leaned heavily long, even as social sentiment hit a three-month low.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/xrp-traders-bet-on-a-rebound-as-price-slips-to-usd1-and-bearish-chatter-surges)
 
 ---
