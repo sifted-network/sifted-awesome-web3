@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-08-18"
 date: "2026-08-18"
 source: "Cointelegraph"
-count: 5
+count: 10
 ---
 
 # Cointelegraph - 2026-08-18
 
-5 items collected.
+10 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Kraken launches US-listed stock trading for EEA customers
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 8/18/2026, 10:53:21 AM  
+**Categories:** Latest News  
+
+Eligible EEA users can trade conventional US shares alongside more than 700 tokenized xStocks through Kraken’s European entity.
+
+📖 [Read original article](https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 8/18/2026, 9:31:15 AM  
+**Categories:** Markets  
+
+Bitcoin derivatives markets created a short squeeze that took BTC price action 3% higher on Monday.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. China adds 8 banks to digital yuan network as operator count hits 30
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 8/18/2026, 8:48:51 AM  
+**Categories:** Latest News  
+
+The newly authorized lenders will begin offering e-CNY services after completing operational and technical preparations.
+
+📖 [Read original article](https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. South Korea moves to block Polymarket over gambling concerns
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 8/18/2026, 8:39:57 AM  
+**Categories:** Latest News  
+
+The Korea Media and Communications Commission said Polymarket’s structure and operations amount to illegal gambling despite its noncustodial design and smart contracts.
+
+📖 [Read original article](https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. BitBox patches ‘severe’ wallet flaws that could put funds at risk
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 8/18/2026, 8:07:04 AM  
+**Categories:** Latest News  
+
+BitBox recommended all users update to firmware version 9.26.5 and said it had received no reports of exploitation or fund losses.
+
+📖 [Read original article](https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/18/2026, 6:09:35 AM  
@@ -23,7 +83,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Ethereum Foundation warns some tools may break with Glamsterdam upgrade
+## 7. Ethereum Foundation warns some tools may break with Glamsterdam upgrade
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/18/2026, 5:12:18 AM  
@@ -35,7 +95,7 @@ Developers have been urged to test on Plataberget before Glamsterdam’s new gas
 
 ---
 
-## 3. South Korea’s Jeonbuk Bank taps Ripple for cross-border payments
+## 8. South Korea’s Jeonbuk Bank taps Ripple for cross-border payments
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/18/2026, 4:11:02 AM  
@@ -47,7 +107,7 @@ Ripple is bringing its cross-border payments platform to Jeonbuk Bank, but key d
 
 ---
 
-## 4. Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation
+## 9. Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/18/2026, 3:21:26 AM  
@@ -59,7 +119,7 @@ Prosecutors allege Edward Zimbardi collected crypto from thousands of investors,
 
 ---
 
-## 5. ‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express
+## 10. ‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 8/18/2026, 1:28:37 AM  
