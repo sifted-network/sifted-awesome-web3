@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-16"
 date: "2026-08-16"
 source: "CoinDesk"
-count: 6
+count: 3
 ---
 
 # CoinDesk - 2026-08-16
 
-6 items collected.
+3 items collected.
 
 ---
 
@@ -44,41 +44,5 @@ Investors are starting to judge crypto tokens on usage, economics and value capt
 While the data breach exposed the personal order details of thousands of customers, all private keys, seed phrases, and crypto assets remain completely safe.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info)
-
----
-
-## 4. MiCA's cleanup is creating a new scam wave across the European Union
-
-**Author:** Olivier Acuna  
-**Published:** 8/16/2026, 2:00:00 PM  
-**Categories:** Finance, Regulation, MiCA, Hack, News  
-
-Fraudsters impersonating regulators and licensed crypto exchanges to steal funds from users forced to migrate their accounts after the EU's MiCA deadline are on the rise.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union)
-
----
-
-## 5. The stablecoin yield clash that won't go away has banks, crypto battling over tradition
-
-**Author:** Jesse Hamilton  
-**Published:** 8/16/2026, 1:00:00 PM  
-**Categories:** News Analysis, Stablecoins, banks, Interest Rates, JPMorgan, Clarity Act, News  
-
-The bankers want people kept in lower-yield deposits for the good of the financial system as it's existed for generations, and their argument is gaining ground.
-
-📖 [Read original article](https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition)
-
----
-
-## 6. The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets
-
-**Author:** Francisco Rodrigues  
-**Published:** 8/16/2026, 12:00:00 PM  
-**Categories:** Finance, Bitcoin News, banks, News  
-
-Financial firms are partnering with specialists to build infrastructure, blurring lines between traditional and decentralized finance into a unified sector.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets)
 
 ---
