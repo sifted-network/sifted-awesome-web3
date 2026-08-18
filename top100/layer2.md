@@ -6,16 +6,16 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,561 | 2,277 | Rust | 14 | A based rollup protocol for Ethereum🥁  | 2026-08-17 |
-| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,061 | 760 | Rust | 635 | The Stacks blockchain implementation | 2026-08-14 |
+| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,561 | 2,277 | Rust | 11 | A based rollup protocol for Ethereum🥁  | 2026-08-17 |
+| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,061 | 760 | Rust | 635 | The Stacks blockchain implementation | 2026-08-17 |
 | 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,551 | 331 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
 | 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,023 | 613 | - | 1896 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
-| 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 877 | 110 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
+| 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 878 | 110 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 6 | [starknetbook](https://github.com/starknet-edu/starknetbook) | 831 | 489 | CSS | 0 | Mastering Starknet. By the Starknet community | 2024-06-20 |
-| 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 611 | 58 | JavaScript | 14 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-08-16 |
-| 8 | [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) | 486 | 141 | C | 7 | Open source MAC Telnet client and server for connecting to Mikrotik RouterOS routers and Posix devices using MAC addresses | 2025-09-21 |
+| 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 611 | 58 | JavaScript | 14 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-08-18 |
+| 8 | [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) | 487 | 141 | C | 7 | Open source MAC Telnet client and server for connecting to Mikrotik RouterOS routers and Posix devices using MAC addresses | 2025-09-21 |
 | 9 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 470 | 52 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2023-12-24 |
-| 10 | [juno](https://github.com/NethermindEth/juno) | 445 | 239 | Go | 42 | Reliable and high performance Starknet full node implementation | 2026-08-16 |
+| 10 | [juno](https://github.com/NethermindEth/juno) | 446 | 239 | Go | 42 | Reliable and high performance Starknet full node implementation | 2026-08-17 |
 | 11 | [db3](https://github.com/dbpunk-labs/db3) | 385 | 44 | Rust | 18 |  a Lightweight, Permanent JSON document database | 2024-07-29 |
 | 12 | [ChainX](https://github.com/chainx-org/ChainX) | 325 | 120 | Rust | 1 | Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM  | 2025-12-18 |
 | 13 | [blockchain-roadmap](https://github.com/itublockchain/blockchain-roadmap) | 285 | 39 | - | 0 | Blockchain öğrenme yolculuğunuz için yol haritası | 2024-10-13 |
@@ -62,7 +62,7 @@
 | 54 | [starkex-explorer](https://github.com/l2beat/starkex-explorer) | 41 | 14 | TypeScript | 4 | Decode calldata stored by the dYdX rollup. Perform force exits and trades. | 2026-02-23 |
 | 55 | [fluidex-backend](https://github.com/fluidex/fluidex-backend) | 39 | 9 | Shell | 17 | Building the first permissionless layer2 orderbook DEX on Ethereum, powered by PLONK zk-rollup | 2022-01-13 |
 | 56 | [monoplasma](https://github.com/streamr-dev/monoplasma) | 38 | 13 | JavaScript | 0 | Unidirectional payment distribution channel with monotonically increasing balances (now obsolete) | 2021-05-09 |
-| 57 | [aeternum](https://github.com/0xJonaseb11/aeternum) | 38 | 0 | C++ | 0 | Your Zero knowledge evidence protocol for encrypted decentralized storage and onchain verifiable ownership. | 2026-08-10 |
+| 57 | [aeternum](https://github.com/0xJonaseb11/aeternum) | 38 | 0 | C++ | 0 | Your Zero knowledge evidence protocol for encrypted decentralized storage and onchain verifiable ownership. | 2026-08-17 |
 | 58 | [stellar-turrets](https://github.com/kalepail/stellar-turrets) | 35 | 28 | JavaScript | 9 | Reference implementation of the Stellar Turrets protocol | 2022-01-14 |
 | 59 | [reddio](https://github.com/reddio-com/reddio) | 34 | 11 | Go | 10 | Parallel EVM layer2 | 2025-07-03 |
 | 60 | [ten-documentation](https://github.com/ten-protocol/ten-documentation) | 32 | 29 | JavaScript | 0 | Ten Documentation provides a comprehensive guide to understanding and integrating TEN | 2026-02-27 |
@@ -79,8 +79,8 @@
 | 71 | [sgn](https://github.com/celer-network/sgn) | 23 | 8 | Go | 0 | Official Go implementation of the Celer State Guardian Network (SGN) | 2023-03-07 |
 | 72 | [wireguard](https://github.com/qinghon/wireguard) | 22 | 1 | C | 0 | wireguard layer2 mode | 2026-01-23 |
 | 73 | [ndxstr-nodejs](https://github.com/OpenAgentsInc/ndxstr-nodejs) | 22 | 2 | JavaScript | 2 | Nostr indexing node proof-of-concept in NodeJS | 2023-01-29 |
-| 74 | [Layer2SpriteSheet](https://github.com/rraallvv/Layer2SpriteSheet) | 21 | 5 | JavaScript | 3 | Simple Photoshop script port of the texpack texture packer by Mariano Cuatrin (https://github.com/urraka/texpack) | 2018-08-15 |
-| 75 | [SuperScalar](https://github.com/8144225309/SuperScalar) | 21 | 2 | C | 9 | Implementation of SuperScalar — Bitcoin Lightning channel factories that onboard N users in one shared UTXO. No soft fork required. | 2026-08-02 |
+| 74 | [SuperScalar](https://github.com/8144225309/SuperScalar) | 22 | 2 | C | 9 | Implementation of SuperScalar — Bitcoin Lightning channel factories that onboard N users in one shared UTXO. No soft fork required. | 2026-08-02 |
+| 75 | [Layer2SpriteSheet](https://github.com/rraallvv/Layer2SpriteSheet) | 21 | 5 | JavaScript | 3 | Simple Photoshop script port of the texpack texture packer by Mariano Cuatrin (https://github.com/urraka/texpack) | 2018-08-15 |
 | 76 | [layer2_20-core](https://github.com/layer220/layer2_20-core) | 20 | 3 | - | 0 |  | 2023-12-23 |
 | 77 | [Layer2](https://github.com/kostasgrlondon/Layer2) | 20 | 0 | - | 0 |  | 2024-05-25 |
 | 78 | [typhon-spec](https://github.com/pandoracore/typhon-spec) | 20 | 1 | - | 4 | Trustless sidechains for Bitcoin network. Lightning ⚡️ brings thunderbolt 🌩 – Typhon 🐉 brings typhoon🌪 | 2019-02-07 |
