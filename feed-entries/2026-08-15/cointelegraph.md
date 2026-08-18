@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-15"
 date: "2026-08-15"
 source: "Cointelegraph"
-count: 6
+count: 3
 ---
 
 # Cointelegraph - 2026-08-15
 
-6 items collected.
+3 items collected.
 
 ---
 
@@ -44,41 +44,5 @@ Tokenized equities reached 1.31 million holders over the past month, as monthly 
 The trillions required to boost Bitcoin to a price of $1 million per coin is not going to happen by 2030... or perhaps ever, says party pooper Markus Thielen.
 
 📖 [Read original article](https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/15/2026, 12:57:58 PM  
-**Categories:** Markets  
-
-Klippsten said Bitcoin could bottom about a year after its previous peak and argued that crypto’s best outcome is to become part of TradFi.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Kalshi ordered to stop broad range of prediction markets in Washington
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/15/2026, 11:00:00 AM  
-**Categories:** Latest News  
-
-Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source geofencing system by Sept. 2.
-
-📖 [Read original article](https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Galaxy lowers CLARITY Act odds to 10%
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/15/2026, 8:40:59 AM  
-**Categories:** Latest News  
-
-Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate window when lawmakers return in September.
-
-📖 [Read original article](https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
