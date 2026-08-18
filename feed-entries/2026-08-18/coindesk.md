@@ -2,16 +2,136 @@
 title: "CoinDesk - 2026-08-18"
 date: "2026-08-18"
 source: "CoinDesk"
-count: 11
+count: 21
 ---
 
 # CoinDesk - 2026-08-18
 
-11 items collected.
+21 items collected.
 
 ---
 
-## 1. Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard
+## 1. Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere
+
+**Author:** Oliver Knight  
+**Published:** 8/18/2026, 5:00:00 PM  
+**Categories:** Markets, Volatility, Exclusive, Bitcoin News, News  
+
+Bitcoin's price swings have hit a cycle low, squeezed by a market tug-of-war with no clear winner. The traders who once lived off its chaos have taken their risk appetite elsewhere.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere)
+
+---
+
+## 2. Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs
+
+**Author:** Olivier Acuna  
+**Published:** 8/18/2026, 4:08:46 PM  
+**Categories:** Markets, Markets, Cryptocurrency, Tokenization, News  
+
+The exchange said it is the first crypto company to offer European customers both traditional U.S. equities and tokenized versions of those assets on a single regulated platform.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs)
+
+---
+
+## 3. Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw
+
+**Author:** Shaurya Malwa  
+**Published:** 8/18/2026, 3:07:52 PM  
+**Categories:** Markets, World Liberty Financial, Artificial Intelligence, News  
+
+WLFI says the AI platform is independent and uses USD1 as a payment rail, but would not say whether it has equity, financing, revenue-sharing or other economic interests in the company.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/18/trump-linked-world-liberty-says-worldclaw-is-independent-after-questions-over-ai-model-access)
+
+---
+
+## 4. Bitcoin miners’ AI pivot pays off, but mining could revive with one twist
+
+**Author:** James Van Straten  
+**Published:** 8/18/2026, 2:41:31 PM  
+**Categories:** Finance, Bitcoin Mining, Artificial Intelligence, News  
+
+Miners with AI and high-performance computing contracts have commanded higher valuations as declining bitcoin prices and hashprice squeeze pure-play operators.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/18/bitcoin-miners-ai-pivot-pays-off-but-mining-could-revive-with-one-twist)
+
+---
+
+## 5. Global bond yields surge as debt fears test bitcoin’s hedge narrative
+
+**Author:** James Van Straten  
+**Published:** 8/18/2026, 2:40:41 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Long-term borrowing costs are reaching multi-decade highs as U.S. debt approaches $40 trillion and AI hyperscalers accelerate bond issuance.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/18/global-bond-yields-surge-as-debt-fears-test-bitcoin-s-hedge-narrative)
+
+---
+
+## 6. Japan's Metaplanet launching U.S. bitcoin treasury company through $135 million nanocap deal
+
+**Author:** Francisco Rodrigues  
+**Published:** 8/18/2026, 2:35:08 PM  
+**Categories:** Finance, Digital Asset Treasury, Japan, News  
+
+The deal involves Metaplanet contributing 2,100 bitcoin and $2.5 million in cash, valuing the initial investment at $134.6 million.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/18/japan-s-metaplanet-launching-u-s-bitcoin-treasury-company-through-usd135-million-nanocap-deal)
+
+---
+
+## 7. HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals
+
+**Author:** Olivier Acuna  
+**Published:** 8/18/2026, 2:03:27 PM  
+**Categories:** Finance, Hong Kong, Stablecoins, News  
+
+Following institutional trials, the HKD-pegged asset is being put to work to capture part of Hong Kong's $49 billion trade corridor with the United Arab Emirates
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/18/hashkey-taps-hong-kong-s-first-regulated-stablecoin-to-settle-insurance-and-trade-deals)
+
+---
+
+## 8. Citi plans to launch bitcoin custody for institutional clients later this year
+
+**Author:** Helene Braun  
+**Published:** 8/18/2026, 1:25:13 PM  
+**Categories:** Markets, Custody, News  
+
+The Wall Street bank plans to let clients hold bitcoin alongside traditional assets through its new Custody+ platform.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year)
+
+---
+
+## 9. Crypto’s easy-money era is ending in a wave of failures
+
+**Author:** Will Canny,AI Boost  
+**Published:** 8/18/2026, 1:22:40 PM  
+**Categories:** Finance, Fundraising, Stablecoins, Institutional Adoption, Exclusive, News  
+
+Inflated valuations and weak business models are driving crypto’s shakeout, Global Settlement Network CEO Ryan Kirkley says.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/13/crypto-s-easy-money-era-is-ending-in-a-wave-of-failures)
+
+---
+
+## 10. Cash App's crypto support expands beyond bitcoin and USDC via MoonPay
+
+**Author:** Jamie Crawley  
+**Published:** 8/18/2026, 1:00:00 PM  
+**Categories:** Finance, MoonPay, News  
+
+Eligible Cash App users will be able to use their balances to purchase digital assets offered by MoonPay, which include ether, solana and stablecoin USDT.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay)
+
+---
+
+## 11. Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard
 
 **Author:** Ian Allison  
 **Published:** 8/18/2026, 12:20:48 PM  
@@ -23,7 +143,7 @@ Visa’s request for product (RFP) talks about the need to support a range of st
 
 ---
 
-## 2. Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on
+## 12. Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on
 
 **Author:** Shaurya Malwa  
 **Published:** 8/18/2026, 12:17:05 PM  
@@ -35,7 +155,7 @@ Sending ETH to a brand-new address will cost more than sending to an existing on
 
 ---
 
-## 3. The 'crack' in the energy market is wider than ever. Bitcoin might feel it.
+## 13. The 'crack' in the energy market is wider than ever. Bitcoin might feel it.
 
 **Author:** Omkar Godbole  
 **Published:** 8/18/2026, 11:21:51 AM  
@@ -47,7 +167,7 @@ Your day-ahead look for Aug. 18 2026
 
 ---
 
-## 4. South Korea joins more than 30 jurisdictions restricting Polymarket access
+## 14. South Korea joins more than 30 jurisdictions restricting Polymarket access
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/18/2026, 11:05:56 AM  
@@ -59,7 +179,7 @@ Regulators rejected Polymarket's defense regarding its P2P nature, arguing the p
 
 ---
 
-## 5. Bitcoin pauses at $64,000 as rising yields, oil drag equities lower
+## 15. Bitcoin pauses at $64,000 as rising yields, oil drag equities lower
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 8/18/2026, 10:38:56 AM  
@@ -71,7 +191,7 @@ BTC has dropped 0.6% since midnight UTC as Nasdaq 100 futures slip 1.1%, with th
 
 ---
 
-## 6. Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall
+## 16. Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall
 
 **Author:** Omkar Godbole  
 **Published:** 8/18/2026, 10:01:23 AM  
@@ -83,9 +203,9 @@ BTC outperformed Wall Street on Monday, breaking its recent pattern of lagging b
 
 ---
 
-## 7. Live updates: Bitcoin holds $64,000 as surging yields and rising oil drain risk appetite
+## 17. Live updates: Bitcoin tepidly on the rise as stocks slip
 
-**Author:** Shaurya Malwa,Stephen Alpher  
+**Author:** Shaurya Malwa,Stephen Alpher,James Van Straten  
 **Published:** 8/18/2026, 8:16:11 AM  
 **Categories:** Tech, Live News, live_news  
 
@@ -95,7 +215,7 @@ The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude toppe
 
 ---
 
-## 8. The bitcoin price level where leveraged bulls could get whacked
+## 18. The bitcoin price level where leveraged bulls could get whacked
 
 **Author:** Omkar Godbole  
 **Published:** 8/18/2026, 5:55:43 AM  
@@ -107,7 +227,7 @@ Bulls are stacking longs, liquidity is thinning and one key level could trigger 
 
 ---
 
-## 9. XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple Payments
+## 19. XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple Payments
 
 **Author:** Shaurya Malwa  
 **Published:** 8/18/2026, 5:34:32 AM  
@@ -119,7 +239,7 @@ Jeonbuk Bank will use Ripple’s 24/7 cross-border payment service for business 
 
 ---
 
-## 10. Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no
+## 20. Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no
 
 **Author:** Shaurya Malwa  
 **Published:** 8/18/2026, 5:18:18 AM  
@@ -131,7 +251,7 @@ The program came three months before investor unlocks begin, with MON trading be
 
 ---
 
-## 11. Bitcoin climbs above $64,000 while most majors slip
+## 21. Bitcoin climbs above $64,000 while most majors slip
 
 **Author:** Shaurya Malwa  
 **Published:** 8/18/2026, 4:32:38 AM  
