@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-15"
 date: "2026-08-15"
 source: "Cointelegraph"
-count: 7
+count: 6
 ---
 
 # Cointelegraph - 2026-08-15
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ Tokenized equities reached 1.31 million holders over the past month, as monthly 
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/15/2026, 2:40:24 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen
+## 3. Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 8/15/2026, 1:30:00 PM  
@@ -59,7 +47,7 @@ The trillions required to boost Bitcoin to a price of $1 million per coin is not
 
 ---
 
-## 5. Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says
+## 4. Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/15/2026, 12:57:58 PM  
@@ -71,7 +59,7 @@ Klippsten said Bitcoin could bottom about a year after its previous peak and arg
 
 ---
 
-## 6. Kalshi ordered to stop broad range of prediction markets in Washington
+## 5. Kalshi ordered to stop broad range of prediction markets in Washington
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/15/2026, 11:00:00 AM  
@@ -83,7 +71,7 @@ Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source
 
 ---
 
-## 7. Galaxy lowers CLARITY Act odds to 10%
+## 6. Galaxy lowers CLARITY Act odds to 10%
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/15/2026, 8:40:59 AM  
