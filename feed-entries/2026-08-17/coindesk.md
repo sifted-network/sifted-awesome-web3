@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-17"
 date: "2026-08-17"
 source: "CoinDesk"
-count: 22
+count: 21
 ---
 
 # CoinDesk - 2026-08-17
 
-22 items collected.
+21 items collected.
 
 ---
 
@@ -260,17 +260,5 @@ The market may be facing a dangerous liquidity mismatch as futures open interest
 Futures open interest climbed to $2.78 billion and traders on Binance and OKX leaned heavily long, even as social sentiment hit a three-month low.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/xrp-traders-bet-on-a-rebound-as-price-slips-to-usd1-and-bearish-chatter-surges)
-
----
-
-## 22. Bitcoin nears $64,000 in Asia morning hours as HYPE jumps 8% on the week
-
-**Author:** Shaurya Malwa  
-**Published:** 8/17/2026, 4:14:00 AM  
-**Categories:** Markets, News  
-
-Every major gained on Sunday, though bitcoin, ether, XRP and solana are all lower over seven days.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week)
 
 ---
