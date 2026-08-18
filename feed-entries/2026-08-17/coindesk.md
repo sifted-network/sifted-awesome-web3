@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-17"
 date: "2026-08-17"
 source: "CoinDesk"
-count: 14
+count: 4
 ---
 
 # CoinDesk - 2026-08-17
 
-14 items collected.
+4 items collected.
 
 ---
 
@@ -56,125 +56,5 @@ Sheldon Lee said a Chinese-language X account making the claims was hacked. User
 The protocol pioneered decentralized finance lending, but assets locked have tumbled from a peak five years ago. Now it's looking to attract institutions after retail traders lost interest.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus)
-
----
-
-## 5. U.S. Treasury Department proposes GENIUS Act stablecoin rule
-
-**Author:** Jesse Hamilton  
-**Published:** 8/17/2026, 2:44:29 PM  
-**Categories:** Policy, Stablecoins, Regulation, News  
-
-The Treasury proposal would establish some of the core definitions and jurisdictions in the law Congress completed last year.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule)
-
----
-
-## 6. The Coldcard hack proves reputation is not a security model
-
-**Author:** Zach Herbert  
-**Published:** 8/17/2026, 2:09:46 PM  
-**Categories:** Opinion, Opinion  
-
-A community built on verification spent five years outsourcing its judgment to one man, writes Foundation CEO Zach Herbert.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model)
-
----
-
-## 7. Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase
-
-**Author:** Helene Braun  
-**Published:** 8/17/2026, 2:04:21 PM  
-**Categories:** Markets, Ethereum News, News  
-
-The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase)
-
----
-
-## 8. How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds
-
-**Author:** Francisco Rodrigues  
-**Published:** 8/17/2026, 1:57:11 PM  
-**Categories:** Tech, Feature  
-
-Crypto’s favorite maxim, “don’t trust, verify” wasn’t followed in the case of Coldcard’s code.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/17/how-a-bug-in-coldcard-s-code-went-unnoticed-for-years-leading-to-usd100-million-in-hacked-funds)
-
----
-
-## 9. No change in bitcoin holdings as Strategy boosted dollar reserve, bought back more STRC last week
-
-**Author:** James Van Straten  
-**Published:** 8/17/2026, 12:19:45 PM  
-**Categories:** Markets, News  
-
-Led by Executive Chairman Michael Saylor, the company raised $333.7 million via the sale of common stock.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week)
-
----
-
-## 10. Ethereum’s next big upgrade has 66 proposals, including a major privacy fix
-
-**Author:** Shaurya Malwa  
-**Published:** 8/17/2026, 12:02:10 PM  
-**Categories:** Tech, Ethereum News, News  
-
-Developers are narrowing the list for the Hegotá upgrade, including a package to change how wallets approve and pay for transactions, giving developers of privacy apps more of the tools they need inside Ethereum itself.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix)
-
----
-
-## 11. Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers
-
-**Author:** Olivier Acuna  
-**Published:** 8/17/2026, 11:59:23 AM  
-**Categories:** Tech, Data Breaches, Cryptocurrency, Hack, News  
-
-Funds and digital assets were not touched, but names, bank account details, and national ID numbers may have been exposed in what the company says was a wider global attack.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers)
-
----
-
-## 12. Bitcoin options remain expensive despite summer calm. Here's why it matters
-
-**Author:** James Van Straten  
-**Published:** 8/17/2026, 11:43:02 AM  
-**Categories:** Markets, Bitcoin News, Volatility, News  
-
-Bitcoin’s implied volatility is near a seasonal floor, but options continue to price substantially more movement than the market is delivering.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters)
-
----
-
-## 13. Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price
-
-**Author:** Omkar Godbole  
-**Published:** 8/17/2026, 11:28:41 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Aug. 17, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price)
-
----
-
-## 14. Bitpanda fined 70,000 euros in Austria’s first published MiCA enforcement case
-
-**Author:** Francisco Rodrigues  
-**Published:** 8/17/2026, 10:52:31 AM  
-**Categories:** Finance, MiCA, News  
-
-The fine stems from Bitpanda failing to submit a mandatory white paper 20 days before publication and omitting required disclosures in marketing materials.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case)
 
 ---
