@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-17"
 date: "2026-08-17"
 source: "Cointelegraph"
-count: 14
+count: 13
 ---
 
 # Cointelegraph - 2026-08-17
 
-14 items collected.
+13 items collected.
 
 ---
 
@@ -164,17 +164,5 @@ BitMart’s Chinese-language X account demanded an Aug. 19 repayment plan, while
 Greenlane recorded a $19.1 million noncash valuation loss as BERA’s price fell nearly 76% year to date.
 
 📖 [Read original article](https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Chainalysis sues US over $95M ICE contract with TRM Labs
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/17/2026, 3:42:48 AM  
-**Categories:** Latest News  
-
-The sealed complaint leaves Chainalysis’ specific objections and requested remedy undisclosed as briefing continues.
-
-📖 [Read original article](https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
