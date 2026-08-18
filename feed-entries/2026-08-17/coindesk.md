@@ -2,16 +2,112 @@
 title: "CoinDesk - 2026-08-17"
 date: "2026-08-17"
 source: "CoinDesk"
-count: 14
+count: 22
 ---
 
 # CoinDesk - 2026-08-17
 
-14 items collected.
+22 items collected.
 
 ---
 
-## 1. No change in bitcoin holdings as Strategy boosted dollar reserve, bought back more STRC last week
+## 1. Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push
+
+**Author:** Will Canny  
+**Published:** 8/17/2026, 10:12:00 PM  
+**Categories:** Tech, Payward, Kraken, Artificial Intelligence, News  
+
+Payward will use Anthropic’s cybersecurity model to hunt vulnerabilities and share open-source findings.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push)
+
+---
+
+## 2. Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve
+
+**Author:** Helene Braun,AI Boost  
+**Published:** 8/17/2026, 6:53:47 PM  
+**Categories:** Markets, MicroStrategy, News  
+
+Strategy is prioritizing STRC, cash reserves, and its credit business over stock buybacks, Executive Chairman Michael Saylor said Monday.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility)
+
+---
+
+## 3. BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees
+
+**Author:** Olivier Acuna  
+**Published:** 8/17/2026, 4:40:08 PM  
+**Categories:** Finance, Cryptocurrency, Hack, News  
+
+Sheldon Lee said a Chinese-language X account making the claims was hacked. Users want wallets, assets and liabilities disclosed.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees)
+
+---
+
+## 4. Compound bets $52 million, new leadership team in switch to institutional focus
+
+**Author:** Olivier Acuna  
+**Published:** 8/17/2026, 3:32:30 PM  
+**Categories:** Finance, DeFi, Crypto Lending, Compound, News  
+
+The protocol pioneered decentralized finance lending, but assets locked have tumbled from a peak five years ago. Now it's looking to attract institutions after retail traders lost interest.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus)
+
+---
+
+## 5. U.S. Treasury Department proposes GENIUS Act stablecoin rule
+
+**Author:** Jesse Hamilton  
+**Published:** 8/17/2026, 2:44:29 PM  
+**Categories:** Policy, Stablecoins, Regulation, News  
+
+The Treasury proposal would establish some of the core definitions and jurisdictions in the law Congress completed last year.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule)
+
+---
+
+## 6. The Coldcard hack proves reputation is not a security model
+
+**Author:** Zach Herbert  
+**Published:** 8/17/2026, 2:09:46 PM  
+**Categories:** Opinion, Opinion  
+
+A community built on verification spent five years outsourcing its judgment to one man, writes Foundation CEO Zach Herbert.
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model)
+
+---
+
+## 7. Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase
+
+**Author:** Helene Braun  
+**Published:** 8/17/2026, 2:04:21 PM  
+**Categories:** Markets, Ethereum News, News  
+
+The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase)
+
+---
+
+## 8. How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds
+
+**Author:** Francisco Rodrigues  
+**Published:** 8/17/2026, 1:57:11 PM  
+**Categories:** Tech, Feature  
+
+Crypto’s favorite maxim, “don’t trust, verify” wasn’t followed in the case of Coldcard’s code.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/08/17/how-a-bug-in-coldcard-s-code-went-unnoticed-for-years-leading-to-usd100-million-in-hacked-funds)
+
+---
+
+## 9. No change in bitcoin holdings as Strategy boosted dollar reserve, bought back more STRC last week
 
 **Author:** James Van Straten  
 **Published:** 8/17/2026, 12:19:45 PM  
@@ -23,7 +119,7 @@ Led by Executive Chairman Michael Saylor, the company raised $333.7 million via 
 
 ---
 
-## 2. Ethereum’s next big upgrade has 66 proposals, including a major privacy fix
+## 10. Ethereum’s next big upgrade has 66 proposals, including a major privacy fix
 
 **Author:** Shaurya Malwa  
 **Published:** 8/17/2026, 12:02:10 PM  
@@ -35,7 +131,7 @@ Developers are narrowing the list for the Hegotá upgrade, including a package t
 
 ---
 
-## 3. Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers
+## 11. Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers
 
 **Author:** Olivier Acuna  
 **Published:** 8/17/2026, 11:59:23 AM  
@@ -47,7 +143,7 @@ Funds and digital assets were not touched, but names, bank account details, and 
 
 ---
 
-## 4. Bitcoin options remain expensive despite summer calm. Here's why it matters
+## 12. Bitcoin options remain expensive despite summer calm. Here's why it matters
 
 **Author:** James Van Straten  
 **Published:** 8/17/2026, 11:43:02 AM  
@@ -59,7 +155,7 @@ Bitcoin’s implied volatility is near a seasonal floor, but options continue to
 
 ---
 
-## 5. Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price
+## 13. Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price
 
 **Author:** Omkar Godbole  
 **Published:** 8/17/2026, 11:28:41 AM  
@@ -71,7 +167,7 @@ Your day-ahead look for Aug. 17, 2026
 
 ---
 
-## 6. Bitpanda fined 70,000 euros in Austria’s first published MiCA enforcement case
+## 14. Bitpanda fined 70,000 euros in Austria’s first published MiCA enforcement case
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/17/2026, 10:52:31 AM  
@@ -83,7 +179,7 @@ The fine stems from Bitpanda failing to submit a mandatory white paper 20 days b
 
 ---
 
-## 7. Bitcoin tracks equity bounce, but $390 million ETF outflow week keeps bulls on back foot
+## 15. Bitcoin tracks equity bounce, but $390 million ETF outflow week keeps bulls on back foot
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 8/17/2026, 9:59:55 AM  
@@ -95,7 +191,7 @@ The price of bitcoin tracked a bounce in equities, but a $390 million ETF outflo
 
 ---
 
-## 8. Binance handed user data to Russia that led to a Ukrainian donor's arrest
+## 16. Binance handed user data to Russia that led to a Ukrainian donor's arrest
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 8/17/2026, 9:16:14 AM  
@@ -107,7 +203,7 @@ Binance says it cooperates with lawful requests, despite exiting the Russian mar
 
 ---
 
-## 9. Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead
+## 17. Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/17/2026, 9:13:02 AM  
@@ -119,9 +215,9 @@ Your look at what's coming in the week starting Aug. 17
 
 ---
 
-## 10. Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat
+## 18. Live updates: Bitcoin rises above $64,000 as big AI compute deals continue to roll in
 
-**Author:** Shaurya Malwa  
+**Author:** Shaurya Malwa,Helene Braun,James Van Straten,Stephen Alpher  
 **Published:** 8/17/2026, 8:38:26 AM  
 **Categories:** Markets, Live News, live_news  
 
@@ -131,7 +227,7 @@ Shipping through the Strait of Hormuz has ground to a near halt as the 60-day tr
 
 ---
 
-## 11. September Fed interest-rate increase is 'very unlikely,' Goldman Sachs says
+## 19. September Fed interest-rate increase is 'very unlikely,' Goldman Sachs says
 
 **Author:** Omkar Godbole  
 **Published:** 8/17/2026, 8:16:11 AM  
@@ -143,7 +239,7 @@ Soft economic data has Goldman Sachs doubting a September rate increase, offerin
 
 ---
 
-## 12. The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain
+## 20. The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain
 
 **Author:** Omkar Godbole  
 **Published:** 8/17/2026, 5:51:18 AM  
@@ -155,7 +251,7 @@ The market may be facing a dangerous liquidity mismatch as futures open interest
 
 ---
 
-## 13. XRP traders bet on a rebound as price slips to $1 and bearish chatter surges
+## 21. XRP traders bet on a rebound as price slips to $1 and bearish chatter surges
 
 **Author:** Shaurya Malwa  
 **Published:** 8/17/2026, 4:43:03 AM  
@@ -167,7 +263,7 @@ Futures open interest climbed to $2.78 billion and traders on Binance and OKX le
 
 ---
 
-## 14. Bitcoin nears $64,000 in Asia morning hours as HYPE jumps 8% on the week
+## 22. Bitcoin nears $64,000 in Asia morning hours as HYPE jumps 8% on the week
 
 **Author:** Shaurya Malwa  
 **Published:** 8/17/2026, 4:14:00 AM  
