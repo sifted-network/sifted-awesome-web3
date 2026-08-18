@@ -2,16 +2,40 @@
 title: "The Block - 2026-08-18"
 date: "2026-08-18"
 source: "The Block"
-count: 9
+count: 11
 ---
 
 # The Block - 2026-08-18
 
-9 items collected.
+11 items collected.
 
 ---
 
-## 1. Citi expects to launch bitcoin custody later this year under its new Custody+ platform
+## 1. Metaplanet takes 96% of Super League in 2,100 BTC, cash deal to launch US bitcoin treasury firm
+
+**Author:** Kyle Baird  
+**Published:** 8/18/2026, 3:09:55 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Layer 1s, Markets, Mergers & Acquisitions, Token Projects, Bitcoin, Public Company Mergers and Acquisitions, News  
+
+Metaplanet is taking its bitcoin treasury strategy to the U.S. with a controlling stake in Super League, which surged 80% on the news.
+
+📖 [Read original article](https://www.theblock.co/news/deals/2026-08-18-metaplanet-super-league-2100-btc-cash-deal-launch-us-bitcoin-treasury-sle-stock-sruge-412101)
+
+---
+
+## 2. Securitize brings Neuberger’s $230 billion fixed-income platform onchain with new tokenized fund
+
+**Author:** Jason Shubnell  
+**Published:** 8/18/2026, 3:04:21 PM  
+**Categories:** Companies, Crypto Ecosystems, Markets, Web3, Tokenization, News  
+
+HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102)
+
+---
+
+## 3. Citi expects to launch bitcoin custody later this year under its new Custody+ platform
 
 **Author:** James Hunt  
 **Published:** 8/18/2026, 12:15:31 PM  
@@ -23,7 +47,7 @@ The platform also includes real-time asset servicing, instant settlements, liqui
 
 ---
 
-## 2. Cypherpunk Technologies launches Zcash mining fleet with $33 million Winklevoss deal
+## 4. Cypherpunk Technologies launches Zcash mining fleet with $33 million Winklevoss deal
 
 **Author:** Danny Park  
 **Published:** 8/18/2026, 12:00:00 PM  
@@ -35,7 +59,7 @@ Cypherpunk Mining is online as of today with roughly 4.2 GSol/s of Equihash hash
 
 ---
 
-## 3. ‘The Crypto Program’ promoter deported from Fiji over alleged $165 million Ponzi scheme
+## 5. ‘The Crypto Program’ promoter deported from Fiji over alleged $165 million Ponzi scheme
 
 **Author:** Brian Danga  
 **Published:** 8/18/2026, 10:49:53 AM  
@@ -47,7 +71,7 @@ Fiji deported Edward Zimbardi to the U.S. to face charges over an alleged $165 m
 
 ---
 
-## 4. Curve founder says FATF pressure could make DeFi safer and more decentralized
+## 6. Curve founder says FATF pressure could make DeFi safer and more decentralized
 
 **Author:** Brian Danga  
 **Published:** 8/18/2026, 10:34:53 AM  
@@ -59,7 +83,7 @@ Curve founder Michael Egorov said FATF pressure could push DeFi protocols toward
 
 ---
 
-## 5. Blockchain Association backs SEC’s proposal to scrap outdated NMS rules, citing tokenization benefits
+## 7. Blockchain Association backs SEC’s proposal to scrap outdated NMS rules, citing tokenization benefits
 
 **Author:** Timmy Shen  
 **Published:** 8/18/2026, 9:35:26 AM  
@@ -71,7 +95,7 @@ The rules, established in 2005, have "failed to achieve their stated purposes," 
 
 ---
 
-## 6. Kraken brings US stock trading to European Economic Area customers
+## 8. Kraken brings US stock trading to European Economic Area customers
 
 **Author:** Yogita Khatri  
 **Published:** 8/18/2026, 8:00:02 AM  
@@ -83,7 +107,7 @@ Kraken has launched US stock trading for eligible customers across all European 
 
 ---
 
-## 7. Cathie Wood’s Ark Invest scoops up $15 million in Block Inc shares as stock dips 3%
+## 9. Cathie Wood’s Ark Invest scoops up $15 million in Block Inc shares as stock dips 3%
 
 **Author:** Danny Park  
 **Published:** 8/18/2026, 7:37:40 AM  
@@ -95,7 +119,7 @@ The firm also bought $1 million worth of Securitize shares, which fell over 20% 
 
 ---
 
-## 8. Ripple partners with South Korea’s Jeonbuk Bank for cross-border payments
+## 10. Ripple partners with South Korea’s Jeonbuk Bank for cross-border payments
 
 **Author:** Timmy Shen  
 **Published:** 8/18/2026, 6:17:53 AM  
@@ -107,7 +131,7 @@ The Jeonbuk Bank collaboration marked Ripple's third Korean partnership this yea
 
 ---
 
-## 9. Upbit and Bithumb report 50% declines in H1 revenue, reflecting market contraction
+## 11. Upbit and Bithumb report 50% declines in H1 revenue, reflecting market contraction
 
 **Author:** Danny Park  
 **Published:** 8/18/2026, 5:30:25 AM  
