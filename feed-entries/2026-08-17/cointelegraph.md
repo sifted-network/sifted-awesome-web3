@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-17"
 date: "2026-08-17"
 source: "Cointelegraph"
-count: 15
+count: 14
 ---
 
 # Cointelegraph - 2026-08-17
 
-15 items collected.
+14 items collected.
 
 ---
 
@@ -83,19 +83,7 @@ Tom Lee’s Ethereum treasury company keeps buying the second-biggest crypto thr
 
 ---
 
-## 7. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 8/17/2026, 1:20:20 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Strategy raises $334M through stock sales but buys no Bitcoin
+## 7. Strategy raises $334M through stock sales but buys no Bitcoin
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/17/2026, 12:51:03 PM  
@@ -107,7 +95,7 @@ Proceeds funded STRC dividends and repurchases, while $149.1 million was added t
 
 ---
 
-## 9. Harmony plans rollback, wiping 109,000 transactions after ONE exploit
+## 8. Harmony plans rollback, wiping 109,000 transactions after ONE exploit
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/17/2026, 12:31:36 PM  
@@ -119,7 +107,7 @@ Harmony said selectively restoring transactions could create inconsistent chain 
 
 ---
 
-## 10. BTC price loses 200-week trend line as 2022 repeats: Five things to know in Bitcoin this week
+## 9. BTC price loses 200-week trend line as 2022 repeats: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/17/2026, 11:38:52 AM  
@@ -131,7 +119,7 @@ Bitcoin confirmed a weekly candle close below its 200-week moving average, copyi
 
 ---
 
-## 11. Binance gave Russian authorities client data used in terrorism financing case: Report
+## 10. Binance gave Russian authorities client data used in terrorism financing case: Report
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/17/2026, 11:38:43 AM  
@@ -143,7 +131,7 @@ Reuters reported that Binance supplied transaction records and identity document
 
 ---
 
-## 12. Bitpanda fined in Austria’s first published MiCA penalty
+## 11. Bitpanda fined in Austria’s first published MiCA penalty
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/17/2026, 9:31:47 AM  
@@ -155,7 +143,7 @@ The FMA said Bitpanda breached MiCA rules on crypto white papers and marketing c
 
 ---
 
-## 13. BitMart account demands founder explain funds status, Xia calls claims ‘fabricated’
+## 12. BitMart account demands founder explain funds status, Xia calls claims ‘fabricated’
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/17/2026, 8:30:00 AM  
@@ -167,7 +155,7 @@ BitMart’s Chinese-language X account demanded an Aug. 19 repayment plan, while
 
 ---
 
-## 14. Greenlane’s $70M BERA treasury ends Q2 valued at $16M
+## 13. Greenlane’s $70M BERA treasury ends Q2 valued at $16M
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/17/2026, 5:52:55 AM  
@@ -179,7 +167,7 @@ Greenlane recorded a $19.1 million noncash valuation loss as BERA’s price fell
 
 ---
 
-## 15. Chainalysis sues US over $95M ICE contract with TRM Labs
+## 14. Chainalysis sues US over $95M ICE contract with TRM Labs
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/17/2026, 3:42:48 AM  
