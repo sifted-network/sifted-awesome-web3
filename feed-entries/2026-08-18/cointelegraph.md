@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-18"
 date: "2026-08-18"
 source: "Cointelegraph"
-count: 21
+count: 20
 ---
 
 # Cointelegraph - 2026-08-18
 
-21 items collected.
+20 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ The non-custodial cross-chain swap engine connects Canton’s institutional toke
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/18/2026, 8:21:26 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto
+## 3. Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/18/2026, 7:54:16 PM  
@@ -59,7 +47,7 @@ A Florida representative not running for reelection who voted against the GENIUS
 
 ---
 
-## 5. Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate
+## 4. Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/18/2026, 7:31:16 PM  
@@ -71,7 +59,7 @@ The $33.3 million Winklevoss Capital deal expands Cypherpunk’s ZEC strategy as
 
 ---
 
-## 6. Kraken’s Krak debuts US debit card as Payward broadens financial services push
+## 5. Kraken’s Krak debuts US debit card as Payward broadens financial services push
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/18/2026, 5:39:37 PM  
@@ -83,7 +71,7 @@ The multi-asset card lets US customers spend crypto and fiat and earn cashback a
 
 ---
 
-## 7. Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’
+## 6. Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/18/2026, 4:49:58 PM  
@@ -95,7 +83,7 @@ Currently serving a 12-year sentence in federal prison, Alex Mashinsky continues
 
 ---
 
-## 8. Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play
+## 7. Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/18/2026, 4:21:58 PM  
@@ -107,7 +95,7 @@ The proposed deal with Nasdaq-listed Super League Enterprise would give the Toky
 
 ---
 
-## 9. Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch
+## 8. Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/18/2026, 3:59:54 PM  
@@ -119,7 +107,7 @@ The $613 billion asset manager will subadvise a high-yield fund tokenized across
 
 ---
 
-## 10. Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric
+## 9. Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/18/2026, 3:27:13 PM  
@@ -131,7 +119,7 @@ Bitcoin returned to $65,000 for the first time in a week as fresh BTC price vola
 
 ---
 
-## 11. Toyota Finance opens tokenized bonds to retail investors via mobile payment app
+## 10. Toyota Finance opens tokenized bonds to retail investors via mobile payment app
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/18/2026, 1:41:56 PM  
@@ -143,7 +131,7 @@ Retail investors can apply to buy the 1 billion yen bond without a securities ac
 
 ---
 
-## 12. MoonPay adds Cash App Pay for crypto purchases by US customers
+## 11. MoonPay adds Cash App Pay for crypto purchases by US customers
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/18/2026, 1:00:00 PM  
@@ -155,7 +143,7 @@ Eligible US users can fund MoonPay crypto purchases with Cash App balances as th
 
 ---
 
-## 13. Kraken launches US-listed stock trading for EEA customers
+## 12. Kraken launches US-listed stock trading for EEA customers
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/18/2026, 10:53:21 AM  
@@ -167,7 +155,7 @@ Eligible EEA users can trade conventional US shares alongside more than 700 toke
 
 ---
 
-## 14. Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis
+## 13. Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/18/2026, 9:31:15 AM  
@@ -179,7 +167,7 @@ Bitcoin derivatives markets created a short squeeze that took BTC price action 3
 
 ---
 
-## 15. China adds 8 banks to digital yuan network as operator count hits 30
+## 14. China adds 8 banks to digital yuan network as operator count hits 30
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/18/2026, 8:48:51 AM  
@@ -191,7 +179,7 @@ The newly authorized lenders will begin offering e-CNY services after completing
 
 ---
 
-## 16. South Korea moves to block Polymarket over gambling concerns
+## 15. South Korea moves to block Polymarket over gambling concerns
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/18/2026, 8:39:57 AM  
@@ -203,7 +191,7 @@ The Korea Media and Communications Commission said Polymarket’s structure and 
 
 ---
 
-## 17. BitBox patches ‘severe’ wallet flaws that could put funds at risk
+## 16. BitBox patches ‘severe’ wallet flaws that could put funds at risk
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/18/2026, 8:07:04 AM  
@@ -215,7 +203,7 @@ BitBox recommended all users update to firmware version 9.26.5 and said it had r
 
 ---
 
-## 18. Ethereum Foundation warns some tools may break with Glamsterdam upgrade
+## 17. Ethereum Foundation warns some tools may break with Glamsterdam upgrade
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/18/2026, 5:12:18 AM  
@@ -227,7 +215,7 @@ Developers have been urged to test on Plataberget before Glamsterdam’s new gas
 
 ---
 
-## 19. South Korea’s Jeonbuk Bank taps Ripple for cross-border payments
+## 18. South Korea’s Jeonbuk Bank taps Ripple for cross-border payments
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/18/2026, 4:11:02 AM  
@@ -239,7 +227,7 @@ Ripple is bringing its cross-border payments platform to Jeonbuk Bank, but key d
 
 ---
 
-## 20. Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation
+## 19. Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/18/2026, 3:21:26 AM  
@@ -251,7 +239,7 @@ Prosecutors allege Edward Zimbardi collected crypto from thousands of investors,
 
 ---
 
-## 21. ‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express
+## 20. ‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 8/18/2026, 1:28:37 AM  
