@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-17"
 date: "2026-08-17"
 source: "The Block"
-count: 4
+count: 3
 ---
 
 # The Block - 2026-08-17
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Tokenized stock market share has grown to 15%, up 3x from the start of the year,
 IREN is targeting 480 MW of AI cloud capacity in 2026 and 1.2 gigawatts by 2027 as it continues to pivot away from bitcoin mining.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016)
-
----
-
-## 4. Bitcoin production slips again in July for CleanSpark, BitFuFu and Canaan
-
-**Author:** Kyle Baird  
-**Published:** 8/17/2026, 5:13:59 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Deals, Infrastructure, Layer 1s, Markets, Token Projects, Bitcoin, Mining, Mining Companies, News  
-
-CleanSpark is up 6.4% year to date, while BitFuFu and Canaan have fallen more than 50% and 70%, respectively.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-17-bitcoin-production-slips-again-july-cleanspark-bitfufu-canaan-411985)
 
 ---
