@@ -2,16 +2,64 @@
 title: "CoinDesk - 2026-08-18"
 date: "2026-08-18"
 source: "CoinDesk"
-count: 21
+count: 25
 ---
 
 # CoinDesk - 2026-08-18
 
-21 items collected.
+25 items collected.
 
 ---
 
-## 1. Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere
+## 1. Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance
+
+**Author:** Helene Braun,AI Boost  
+**Published:** 8/18/2026, 11:11:12 PM  
+**Categories:** Markets, Tokenization, Robinhood, News  
+
+Vlad Tenev says tokenized stocks could bring real-time settlement and 24/7 trading, but U.S. rules remain a hurdle.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance)
+
+---
+
+## 2. U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'
+
+**Author:** Jesse Hamilton  
+**Published:** 8/18/2026, 9:25:42 PM  
+**Categories:** Policy, Regulation, Stablecoins, News  
+
+The Financial Accounting Standards Board, a nonprofit that governs accounting practices, proposed that certain stablecoins should fit the bill as cash-like.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent)
+
+---
+
+## 3. U.S. SEC proposes first major crypto rule in surprise announcement
+
+**Author:** Jesse Hamilton  
+**Published:** 8/18/2026, 7:09:33 PM  
+**Categories:** Policy, Regulation, News  
+
+The Securities and Exchange Commission issued the "Regulation Crypto" proposal after having cancelled a meeting days before meant to vote on it.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/18/r)
+
+---
+
+## 4. Wyoming joins $15 billion LayerZero exodus with state stablecoin move
+
+**Author:** Francisco Rodrigues  
+**Published:** 8/18/2026, 6:57:00 PM  
+**Categories:** Finance, Crypto News, Exclusive, News  
+
+This is the first time a U.S. government entity has publicly replaced its blockchain infrastructure specifically on security grounds.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move)
+
+---
+
+## 5. Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere
 
 **Author:** Oliver Knight  
 **Published:** 8/18/2026, 5:00:00 PM  
@@ -23,7 +71,7 @@ Bitcoin's price swings have hit a cycle low, squeezed by a market tug-of-war wit
 
 ---
 
-## 2. Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs
+## 6. Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs
 
 **Author:** Olivier Acuna  
 **Published:** 8/18/2026, 4:08:46 PM  
@@ -35,7 +83,7 @@ The exchange said it is the first crypto company to offer European customers bot
 
 ---
 
-## 3. Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw
+## 7. Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw
 
 **Author:** Shaurya Malwa  
 **Published:** 8/18/2026, 3:07:52 PM  
@@ -47,7 +95,7 @@ WLFI says the AI platform is independent and uses USD1 as a payment rail, but wo
 
 ---
 
-## 4. Bitcoin miners’ AI pivot pays off, but mining could revive with one twist
+## 8. Bitcoin miners’ AI pivot pays off, but mining could revive with one twist
 
 **Author:** James Van Straten  
 **Published:** 8/18/2026, 2:41:31 PM  
@@ -59,7 +107,7 @@ Miners with AI and high-performance computing contracts have commanded higher va
 
 ---
 
-## 5. Global bond yields surge as debt fears test bitcoin’s hedge narrative
+## 9. Global bond yields surge as debt fears test bitcoin’s hedge narrative
 
 **Author:** James Van Straten  
 **Published:** 8/18/2026, 2:40:41 PM  
@@ -71,7 +119,7 @@ Long-term borrowing costs are reaching multi-decade highs as U.S. debt approache
 
 ---
 
-## 6. Japan's Metaplanet launching U.S. bitcoin treasury company through $135 million nanocap deal
+## 10. Japan's Metaplanet launching U.S. bitcoin treasury company through $135 million nanocap deal
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/18/2026, 2:35:08 PM  
@@ -83,7 +131,7 @@ The deal involves Metaplanet contributing 2,100 bitcoin and $2.5 million in cash
 
 ---
 
-## 7. HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals
+## 11. HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals
 
 **Author:** Olivier Acuna  
 **Published:** 8/18/2026, 2:03:27 PM  
@@ -95,7 +143,7 @@ Following institutional trials, the HKD-pegged asset is being put to work to cap
 
 ---
 
-## 8. Citi plans to launch bitcoin custody for institutional clients later this year
+## 12. Citi plans to launch bitcoin custody for institutional clients later this year
 
 **Author:** Helene Braun  
 **Published:** 8/18/2026, 1:25:13 PM  
@@ -107,7 +155,7 @@ The Wall Street bank plans to let clients hold bitcoin alongside traditional ass
 
 ---
 
-## 9. Crypto’s easy-money era is ending in a wave of failures
+## 13. Crypto’s easy-money era is ending in a wave of failures
 
 **Author:** Will Canny,AI Boost  
 **Published:** 8/18/2026, 1:22:40 PM  
@@ -119,7 +167,7 @@ Inflated valuations and weak business models are driving crypto’s shakeout, Gl
 
 ---
 
-## 10. Cash App's crypto support expands beyond bitcoin and USDC via MoonPay
+## 14. Cash App's crypto support expands beyond bitcoin and USDC via MoonPay
 
 **Author:** Jamie Crawley  
 **Published:** 8/18/2026, 1:00:00 PM  
@@ -131,7 +179,7 @@ Eligible Cash App users will be able to use their balances to purchase digital a
 
 ---
 
-## 11. Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard
+## 15. Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard
 
 **Author:** Ian Allison  
 **Published:** 8/18/2026, 12:20:48 PM  
@@ -143,7 +191,7 @@ Visa’s request for product (RFP) talks about the need to support a range of st
 
 ---
 
-## 12. Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on
+## 16. Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on
 
 **Author:** Shaurya Malwa  
 **Published:** 8/18/2026, 12:17:05 PM  
@@ -155,7 +203,7 @@ Sending ETH to a brand-new address will cost more than sending to an existing on
 
 ---
 
-## 13. The 'crack' in the energy market is wider than ever. Bitcoin might feel it.
+## 17. The 'crack' in the energy market is wider than ever. Bitcoin might feel it.
 
 **Author:** Omkar Godbole  
 **Published:** 8/18/2026, 11:21:51 AM  
@@ -167,7 +215,7 @@ Your day-ahead look for Aug. 18 2026
 
 ---
 
-## 14. South Korea joins more than 30 jurisdictions restricting Polymarket access
+## 18. South Korea joins more than 30 jurisdictions restricting Polymarket access
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/18/2026, 11:05:56 AM  
@@ -179,7 +227,7 @@ Regulators rejected Polymarket's defense regarding its P2P nature, arguing the p
 
 ---
 
-## 15. Bitcoin pauses at $64,000 as rising yields, oil drag equities lower
+## 19. Bitcoin pauses at $64,000 as rising yields, oil drag equities lower
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 8/18/2026, 10:38:56 AM  
@@ -191,7 +239,7 @@ BTC has dropped 0.6% since midnight UTC as Nasdaq 100 futures slip 1.1%, with th
 
 ---
 
-## 16. Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall
+## 20. Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall
 
 **Author:** Omkar Godbole  
 **Published:** 8/18/2026, 10:01:23 AM  
@@ -203,7 +251,7 @@ BTC outperformed Wall Street on Monday, breaking its recent pattern of lagging b
 
 ---
 
-## 17. Live updates: Bitcoin tepidly on the rise as stocks slip
+## 21. Live updates: Bitcoin tepidly on the rise as stocks slip
 
 **Author:** Shaurya Malwa,Stephen Alpher,James Van Straten  
 **Published:** 8/18/2026, 8:16:11 AM  
@@ -215,7 +263,7 @@ The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude toppe
 
 ---
 
-## 18. The bitcoin price level where leveraged bulls could get whacked
+## 22. The bitcoin price level where leveraged bulls could get whacked
 
 **Author:** Omkar Godbole  
 **Published:** 8/18/2026, 5:55:43 AM  
@@ -227,7 +275,7 @@ Bulls are stacking longs, liquidity is thinning and one key level could trigger 
 
 ---
 
-## 19. XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple Payments
+## 23. XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple Payments
 
 **Author:** Shaurya Malwa  
 **Published:** 8/18/2026, 5:34:32 AM  
@@ -239,7 +287,7 @@ Jeonbuk Bank will use Ripple’s 24/7 cross-border payment service for business 
 
 ---
 
-## 20. Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no
+## 24. Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no
 
 **Author:** Shaurya Malwa  
 **Published:** 8/18/2026, 5:18:18 AM  
@@ -251,7 +299,7 @@ The program came three months before investor unlocks begin, with MON trading be
 
 ---
 
-## 21. Bitcoin climbs above $64,000 while most majors slip
+## 25. Bitcoin climbs above $64,000 while most majors slip
 
 **Author:** Shaurya Malwa  
 **Published:** 8/18/2026, 4:32:38 AM  
