@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-17"
 date: "2026-08-17"
 source: "Cointelegraph"
-count: 9
+count: 7
 ---
 
 # Cointelegraph - 2026-08-17
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ Tom Lee’s Ethereum treasury company keeps buying the second-biggest crypto thr
 Proceeds funded STRC dividends and repurchases, while $149.1 million was added to Strategy’s US dollar reserve, which reached $4.8 billion.
 
 📖 [Read original article](https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Harmony plans rollback, wiping 109,000 transactions after ONE exploit
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/17/2026, 12:31:36 PM  
-**Categories:** Latest News  
-
-Harmony said selectively restoring transactions could create inconsistent chain state, as Ravencoin faces a separate rollback dispute after an exploit.
-
-📖 [Read original article](https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. BTC price loses 200-week trend line as 2022 repeats: Five things to know in Bitcoin this week
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 8/17/2026, 11:38:52 AM  
-**Categories:** Markets  
-
-Bitcoin confirmed a weekly candle close below its 200-week moving average, copying the 2022 bear-market as traders warn of further BTC price downside next.
-
-📖 [Read original article](https://cointelegraph.com/markets/btc-price-loses-200-week-trend-line-as-2022-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
