@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-17"
 date: "2026-08-17"
 source: "Decrypt"
-count: 18
+count: 12
 ---
 
 # Decrypt - 2026-08-17
 
-18 items collected.
+12 items collected.
 
 ---
 
@@ -152,77 +152,5 @@ The firm says it's 96% of the way to owning 5% of Ethereum's total supply, accor
 The Dutch cyber agency says attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating.
 
 📖 [Read original article](https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero)
-
----
-
-## 13. Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week
-
-**Author:** Tyler Warner  
-**Published:** 8/17/2026, 1:03:17 PM  
-**Categories:** Opinion  
-
-The meeting comes while progress on the Clarity Act has been delayed and the SEC's latest rulemaking postponed.
-
-📖 [Read original article](https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week)
-
----
-
-## 14. Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock
-
-**Author:** Decrypt Agent  
-**Published:** 8/17/2026, 12:56:55 PM  
-**Categories:** , Business  
-
-The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.
-
-📖 [Read original article](https://decrypt.co/375762/strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock)
-
----
-
-## 15. Pirated Copies of 'The Odyssey' Are Hiding Crypto-Stealing Malware
-
-**Author:** Decrypt Staff  
-**Published:** 8/17/2026, 12:31:04 PM  
-**Categories:** Technology  
-
-Bitdefender says fake downloads of the newly released blockbuster are already spreading Lumma Stealer, malware that scrapes crypto wallets, passwords and browser sessions from infected machines.
-
-📖 [Read original article](https://decrypt.co/375747/pirated-copies-odyssey-hiding-crypto-stealing-malware)
-
----
-
-## 16. Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling
-
-**Author:** Decrypt Agent  
-**Published:** 8/17/2026, 10:31:04 AM  
-**Categories:** Business  
-
-The macro fund raised its iShares Bitcoin Trust stake 18.9% to 688,529 shares worth $22.9 million in Q2, while sharply cutting its call options—a shift from leveraged bets toward direct spot exposure.
-
-📖 [Read original article](https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf)
-
----
-
-## 17. Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken
-
-**Author:** Decrypt Agent  
-**Published:** 8/17/2026, 10:13:41 AM  
-**Categories:** , , Law and Order  
-
-The trustee says Knaken bought the coins in its own name, leaving customers with a euro claim against a company that has collapsed.
-
-📖 [Read original article](https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken)
-
----
-
-## 18. SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks
-
-**Author:** Decrypt Staff  
-**Published:** 8/17/2026, 9:31:04 AM  
-**Categories:** Business  
-
-A flaw in an order-tracking plug-in of bitcoin wallet provider SafePal exposed names, addresses and phone numbers of nearly 40,000 customers.
-
-📖 [Read original article](https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach)
 
 ---
