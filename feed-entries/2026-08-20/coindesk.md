@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-08-20"
 date: "2026-08-20"
 source: "CoinDesk"
-count: 12
+count: 15
 ---
 
 # CoinDesk - 2026-08-20
 
-12 items collected.
+15 items collected.
 
 ---
 
-## 1. Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users
+## 1. Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist
+
+**Author:** Helene Braun  
+**Published:** 8/20/2026, 4:17:32 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Longtime bond market investor Mark Connors sees routine government bond buybacks improving liquidity and bringing bitcoin’s next rally closer.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000)
+
+---
+
+## 2. Bitcoin's jump above $71,000 sets up bullish golden cross pattern
+
+**Author:** James Van Straten  
+**Published:** 8/20/2026, 3:16:12 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Bitcoin’s improving momentum could produce a golden cross, but the rally still faces an important test.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern)
+
+---
+
+## 3. Crypto for Advisors: What are tokenized deposits?
+
+**Author:** Laurie Rosini  
+**Published:** 8/20/2026, 3:01:40 PM  
+**Categories:** CoinDesk Indices, Crypto for Advisors, News  
+
+Banks are moving deposits on-chain using permissioned systems, not open ones. See why privacy and compliance dictate this path in this week's newsletter.
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/08/20/crypto-for-advisors-what-are-tokenized-deposits)
+
+---
+
+## 4. Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 8/20/2026, 12:00:25 PM  
@@ -23,7 +59,7 @@ The approved plan reallocates 546.9 million OP from user airdrops to a Foundatio
 
 ---
 
-## 2. Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern
+## 5. Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern
 
 **Author:** Shaurya Malwa  
 **Published:** 8/20/2026, 11:35:47 AM  
@@ -35,7 +71,7 @@ Three hours spanning the London afternoon and New York morning account for about
 
 ---
 
-## 3. Fed liquidity promises, dollar weakness could determine bitcoin's next move
+## 6. Fed liquidity promises, dollar weakness could determine bitcoin's next move
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/20/2026, 11:31:10 AM  
@@ -47,7 +83,7 @@ Your day-ahead look for Aug. 20, 2026
 
 ---
 
-## 4. Bitcoin rally sparks debate whether Clarity Act is already priced in
+## 7. Bitcoin rally sparks debate whether Clarity Act is already priced in
 
 **Author:** Olivier Acuna  
 **Published:** 8/20/2026, 10:47:35 AM  
@@ -59,7 +95,7 @@ Erald Ghoos, OKX Europe CEO, says U.S. crypto rules could blow new life into the
 
 ---
 
-## 5. Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out
+## 8. Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out
 
 **Author:** Oliver Knight  
 **Published:** 8/20/2026, 10:46:21 AM  
@@ -71,7 +107,7 @@ Six weeks of compression ended in the largest short liquidation since at least 2
 
 ---
 
-## 6. Elon Musk's X is exploring stablecoins to pay influencers and content providers
+## 9. Elon Musk's X is exploring stablecoins to pay influencers and content providers
 
 **Author:** Ian Allison  
 **Published:** 8/20/2026, 9:40:25 AM  
@@ -83,7 +119,7 @@ Conversations with X are ongoing, according to a person who also works with othe
 
 ---
 
-## 7. BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so
+## 10. BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so
 
 **Author:** Olivier Acuna  
 **Published:** 8/20/2026, 9:25:25 AM  
@@ -95,7 +131,7 @@ Backed by Hana Financial Group and SK Telecom, BitGo Korea built a locally regis
 
 ---
 
-## 8. Bitcoin hits $72,000 as Strategy and Coinbase continue rally
+## 11. Bitcoin hits $72,000 as Strategy and Coinbase continue rally
 
 **Author:** James Van Straten  
 **Published:** 8/20/2026, 9:25:03 AM  
@@ -107,19 +143,19 @@ Bitcoin has gained 15% since monday, reclaiming several key technical and on-cha
 
 ---
 
-## 9. Live updates: Bitcoin rises to $72,000; ETF inflows of $700 million were largest in months
+## 12. Live updates: Bitcoin extends gains as Bessent suggests more Treasury intervention
 
-**Author:** Shaurya Malwa,James Van Straten,Stephen Alpher  
+**Author:** Shaurya Malwa,James Van Straten,Stephen Alpher,Helene Braun  
 **Published:** 8/20/2026, 6:21:17 AM  
 **Categories:** Tech, Live News, live_news  
 
-Spot bitcoin ETFs pulled in $517 million and ether funds $189 million on Aug. 19, the strongest daily hauls in months, as a broad rally torched $2.7 billion in bearish bets.
+Markets seem likely to test the resolve of Treasury Secretary Scott Bessent's desire to lower long-term government bond yields.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months)
 
 ---
 
-## 10. Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds
+## 13. Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds
 
 **Author:** Shaurya Malwa  
 **Published:** 8/20/2026, 5:40:54 AM  
@@ -131,7 +167,7 @@ The Hyperliquid wallet known as pension-usdt.eth was forced out of a 50,000 ETH 
 
 ---
 
-## 11. Bearish crypto bets lose record $3 billion as bitcoin tops $71,000
+## 14. Bearish crypto bets lose record $3 billion as bitcoin tops $71,000
 
 **Author:** Shaurya Malwa  
 **Published:** 8/20/2026, 4:29:56 AM  
@@ -143,7 +179,7 @@ Traders betting against crypto lost $2.74 billion in a day, more than the short 
 
 ---
 
-## 12. Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally
+## 15. Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally
 
 **Author:** Shaurya Malwa  
 **Published:** 8/20/2026, 4:10:40 AM  
