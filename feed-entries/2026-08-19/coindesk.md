@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-19"
 date: "2026-08-19"
 source: "CoinDesk"
-count: 13
+count: 10
 ---
 
 # CoinDesk - 2026-08-19
 
-13 items collected.
+10 items collected.
 
 ---
 
@@ -128,41 +128,5 @@ In this week's Crypto Long & Short, Solstice Finance's David Plisek argues that 
 The cross-border transaction is Swift’s first in a pilot project as it tests settlement in its push to remain relevant as stablecoins and tokenized deposits become widely used worldwide.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/19/hsbc-standard-chartered-execute-first-live-banking-transaction-on-swift-s-24-7-ledger)
-
----
-
-## 11. Cantor opens Kalshi prediction markets to thousands of institutional clients
-
-**Author:** Helene Braun  
-**Published:** 8/19/2026, 2:41:55 PM  
-**Categories:** Markets, Prediction Markets, Cantor Fitzgerald, Kalshi, News  
-
-The investment bank will help its roughly 3,000 institutional clients execute large block trades in event contracts.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/19/cantor-opens-kalshi-prediction-markets-to-thousands-of-institutional-clients)
-
----
-
-## 12. Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility
-
-**Author:** Jamie Crawley,AI Boost  
-**Published:** 8/19/2026, 1:00:00 PM  
-**Categories:** Finance, FalconX, News  
-
-The warehouse facility gives Ethena another source of returns for the assets backing USDe while channeling onchain capital into overcollateralized institutional loans.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/19/beyond-crypto-funding-rates-ethena-diversifies-usde-backing-with-usd1-billion-falconx-facility)
-
----
-
-## 13. Strengthen the Clarity Act
-
-**Author:** Rob Nichols  
-**Published:** 8/19/2026, 1:00:00 PM  
-**Categories:** Opinion, Opinion  
-
-The American Bankers Association seeks to strengthen the Clarity Act, not kill it, argues Rob Nichols, president and CEO of the ABA.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/08/19/strengthen-the-clarity-act)
 
 ---
