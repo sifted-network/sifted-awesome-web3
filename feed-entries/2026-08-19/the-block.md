@@ -2,16 +2,52 @@
 title: "The Block - 2026-08-19"
 date: "2026-08-19"
 source: "The Block"
-count: 9
+count: 12
 ---
 
 # The Block - 2026-08-19
 
-9 items collected.
+12 items collected.
 
 ---
 
-## 1. OCC races to finalize GENIUS Act stablecoin rules by November
+## 1. Congress can still ‘land this plane’ on crypto bill as ethics talks stall, says Democratic Sen. Gallego
+
+**Author:** Sarah Wynn  
+**Published:** 8/19/2026, 10:36:38 PM  
+**Categories:** People, Policy, Regulation, U.S. Policymaking, Donald Trump, Senate Agriculture Committee, Senate Banking Committee, News  
+
+Sen. Ruben Gallego says Congress can still "land this plane," referring to the Clarity Act crypto bill, as concerns grow over an unfinished ethics deal.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-19-congress-can-still-land-this-plane-crypto-bill-ethics-talks-stall-democratic-sen-gallego-412272)
+
+---
+
+## 2. HYPE token surges after Trump says CFTC is working to bring Hyperliquid to US in ‘fully compliant fashion’
+
+**Author:** Sarah Wynn  
+**Published:** 8/19/2026, 8:29:35 PM  
+**Categories:** Markets, People, Policy, Regulation, CFTC, Donald Trump, News  
+
+President Trump said CFTC Chair Mike Selig is working to bring Hyperliquid into the U.S. in a “fully compliant and legal fashion."
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-19-hype-token-surges-trump-says-cftc-bring-hyperliquid-us-fully-compliant-fashion-412262)
+
+---
+
+## 3. Bitcoin hits $69,000, ether jumps 10% as Treasury buybacks, SEC crypto proposal fuel market rally
+
+**Author:** Jason Shubnell  
+**Published:** 8/19/2026, 7:05:42 PM  
+**Categories:** Crypto Ecosystems, Equities, Layer 1s, Market Updates, Markets, Policy, Regulation, Token Projects, U.S. Policymaking, Bitcoin, Crypto Movers, Equity Movers, SEC, Treasury Department, News  
+
+The move triggered nearly $2 billion in crypto liquidations and lifted crypto-linked stocks, with Strategy and Bitmine gaining around 10%.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-08-19-bitcoin-69000-ether-jumps-treasury-buybacks-sec-crypto-proposal-fuel-market-rally-412248)
+
+---
+
+## 4. OCC races to finalize GENIUS Act stablecoin rules by November
 
 **Author:** Sarah Wynn  
 **Published:** 8/19/2026, 5:03:52 PM  
@@ -23,7 +59,7 @@ The OCC is stepping on the gas to finalize rules by November to implement a stab
 
 ---
 
-## 2. Grayscale’s latest Zcash ETF amendment shows DCG in talks to contribute 200,000 ZEC to fund
+## 5. Grayscale’s latest Zcash ETF amendment shows DCG in talks to contribute 200,000 ZEC to fund
 
 **Author:** Jason Shubnell  
 **Published:** 8/19/2026, 4:57:52 PM  
@@ -35,7 +71,7 @@ While DCG is in discussions to contribute ~200,000 ZEC to the Grayscale fund, th
 
 ---
 
-## 3. Injective becomes SEC-registered transfer agent as it expands tokenization push
+## 6. Injective becomes SEC-registered transfer agent as it expands tokenization push
 
 **Author:** Jason Shubnell  
 **Published:** 8/19/2026, 4:24:24 PM  
@@ -47,7 +83,7 @@ Injective says the registration gives it a regulated way to keep track of who ow
 
 ---
 
-## 4. Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink
+## 7. Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink
 
 **Author:** Yogita Khatri  
 **Published:** 8/19/2026, 4:01:13 PM  
@@ -59,7 +95,7 @@ Nethermind said it is joining Chainlink as a node operator, where it will help s
 
 ---
 
-## 5. Ex-Signature Bank chair warns big banks could use blockchain to take market share from smaller rivals as N3XT goes global
+## 8. Ex-Signature Bank chair warns big banks could use blockchain to take market share from smaller rivals as N3XT goes global
 
 **Author:** Brian Danga  
 **Published:** 8/19/2026, 1:08:49 PM  
@@ -71,7 +107,7 @@ Scott Shay said big banks could use blockchain payments to take market share fro
 
 ---
 
-## 6. Bitwise CIO sees potential for 10-100x blockchain transaction growth as AI agents meet tokenized markets
+## 9. Bitwise CIO sees potential for 10-100x blockchain transaction growth as AI agents meet tokenized markets
 
 **Author:** James Hunt  
 **Published:** 8/19/2026, 11:32:48 AM  
@@ -83,7 +119,7 @@ Bitwise CIO Matt Hougan said investors may be underestimating blockchain transac
 
 ---
 
-## 7. Scaramucci points to $100,000 bitcoin as ‘magic number’ for OG sellers, eyes AI-blockchain convergence
+## 10. Scaramucci points to $100,000 bitcoin as ‘magic number’ for OG sellers, eyes AI-blockchain convergence
 
 **Author:** James Hunt  
 **Published:** 8/19/2026, 10:47:39 AM  
@@ -95,7 +131,7 @@ John Darsie, CEO of SALT and partner at SkyBridge, said bitcoin's changing holde
 
 ---
 
-## 8. Rain CEO says stablecoin payments reach more than 100,000 merchants without them knowing it
+## 11. Rain CEO says stablecoin payments reach more than 100,000 merchants without them knowing it
 
 **Author:** Brian Danga  
 **Published:** 8/19/2026, 10:09:40 AM  
@@ -107,7 +143,7 @@ Rain CEO Farooq Malik said more than 100,000 merchants accept stablecoins unknow
 
 ---
 
-## 9. Kalshi files to launch perpetual futures tied to US stock index, copper
+## 12. Kalshi files to launch perpetual futures tied to US stock index, copper
 
 **Author:** Timmy Shen  
 **Published:** 8/19/2026, 3:22:58 AM  
