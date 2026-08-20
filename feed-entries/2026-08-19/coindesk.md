@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-19"
 date: "2026-08-19"
 source: "CoinDesk"
-count: 25
+count: 21
 ---
 
 # CoinDesk - 2026-08-19
 
-25 items collected.
+21 items collected.
 
 ---
 
@@ -260,53 +260,5 @@ Ripple Prime's inaugural senior notes carried an investment grade rating and dre
 Widening losses and intensifying competition coincide with a pause in frontier reinforcement-learning training as openai strengthens its safety controls.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training)
-
----
-
-## 22. Live updates: Bitcoin and gold jump but rejected at key level as Treasury move pushes yields lower
-
-**Author:** James Van Straten,Shaurya Malwa,Stephen Alpher,Omkar Godbole,Helene Braun  
-**Published:** 8/19/2026, 9:05:45 AM  
-**Categories:** Markets, Artificial Intelligence, Bitcoin News, Live News, live_news  
-
-Led by Scott Bessent, the U.S. Treasury announced at least a doubling in the size of its long-dated bond buybacks.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8)
-
----
-
-## 23. Maya Protocol exploit drains bitcoin and other assets as pool value drops by $11 million
-
-**Author:** Shaurya Malwa  
-**Published:** 8/19/2026, 6:36:11 AM  
-**Categories:** Markets, News  
-
-A chain of six flaws caused the cross-chain trading network to credit a pool with nearly 50 million tokens that were never properly funded, letting an attacker drain real assets.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million)
-
----
-
-## 24. Robot maker Unitree’s IPO surges 600% , outpacing crypto traders’ premarket bets
-
-**Author:** Shaurya Malwa  
-**Published:** 8/19/2026, 5:45:27 AM  
-**Categories:** Markets, Artificial Intelligence, News  
-
-A Hyperliquid perp priced Unitree far above its IPO valuation before Shanghai trading began, but the robot maker’s first public trade still opened roughly 75% above crypto traders’ implied price.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets)
-
----
-
-## 25. Bitcoin holds $64,000 and solana leads gains amid 7% Korean chip stock slide
-
-**Author:** Shaurya Malwa  
-**Published:** 8/19/2026, 4:25:42 AM  
-**Categories:** Markets, Solana News, Bitcoin News, Ethereum News, News  
-
-Bitcoin held near $64,000 and every major except BNB gained, while Korean semiconductor stocks fell more than 7% and Fed minutes are due at 2 p.m. ET.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7)
 
 ---
