@@ -20,19 +20,19 @@
 | 12 | [k2-release](https://github.com/koii-network/k2-release) | 21 | 12 | Shell | 2 | K2 is the current settlement layer within Koii and provides the functionality of a message hub to other systems in the network. Thanks to the incredible work of the Solana Labs team, K2 is able to use... | 2025-01-05 |
 | 13 | [Layer1](https://github.com/kostasgrlondon/Layer1) | 19 | 0 | - | 0 |  | 2024-05-25 |
 | 14 | [blockdag-scripts](https://github.com/BlockdagNetworkLabs/blockdag-scripts) | 18 | 9 | Shell | 54 | BlockDAG Installer for Linux/Ubunutu and MacOS | 2026-01-09 |
-| 15 | [alphanumeric](https://github.com/OSXBasedAnon/alphanumeric) | 18 | 4 | Rust | 0 | Next generation Rust powered blockchain technology | 2026-08-19 |
+| 15 | [alphanumeric](https://github.com/OSXBasedAnon/alphanumeric) | 18 | 4 | Rust | 0 | Next generation Rust powered blockchain technology | 2026-08-20 |
 | 16 | [Reputation-Builder](https://github.com/MeoMunDep/Reputation-Builder) | 18 | 0 | Shell | 0 | Auto do tasks, farm, referrals, faucet, deploy token, send token.  | 2025-09-30 |
 | 17 | [shardeum-docs](https://github.com/shardeum/shardeum-docs) | 14 | 9 | MDX | 0 | Official Shardeum Documentation | 2026-04-21 |
 | 18 | [Acki-Nacki](https://github.com/MeoMunDep/Acki-Nacki) | 12 | 0 | Shell | 0 | Auto farm, do tasks, update mamaboard, claim frens points, claim boost points. | 2026-06-15 |
 | 19 | [Injective](https://github.com/MeoMunDep/Injective) | 11 | 0 | - | 0 | Auto stake, swap, wrap, supply, withdraw, borrow, repay, add liquidity. [FOR SALE] | 2025-12-23 |
-| 20 | [QNet-Blockchain](https://github.com/AIQnetLab/QNet-Blockchain) | 10 | 0 | Rust | 1 | Post-Quantum Decentralized Network | 2026-08-17 |
+| 20 | [QNet-Blockchain](https://github.com/AIQnetLab/QNet-Blockchain) | 10 | 0 | Rust | 1 | Post-Quantum Decentralized Network | 2026-08-19 |
 | 21 | [Layer1](https://github.com/anyashechka/Layer1) | 9 | 0 | - | 0 |  | 2024-06-06 |
 | 22 | [MegaETH](https://github.com/MeoMunDep/MegaETH) | 9 | 0 | JavaScript | 0 | Auto all. | 2025-06-03 |
 | 23 | [safrochain-node](https://github.com/Safrochain-Org/safrochain-node) | 8 | 10 | Go | 2 | Safrochain-node is the core Cosmos SDK-based Layer1 blockchain. | 2026-07-15 |
 | 24 | [hikmalayer-core](https://github.com/bestowerlabs/hikmalayer-core) | 8 | 2 | Rust | 0 | Hikmalayer Core is a hybrid Layer‑1 blockchain prototype that combines Proof‑of‑Stake (validator selection) with Proof‑of‑Work (block finalization). It is developed by Muhammad Ayan Rao director Besto... | 2026-08-16 |
-| 25 | [ferrous](https://github.com/ChronoCoders/ferrous) | 8 | 1 | Rust | 0 | A Rust-built Layer 1 blockchain with RandomX PoW, BIP39 wallets, Shamir recovery, and post-quantum signatures. | 2026-07-04 |
-| 26 | [tinydns](https://github.com/laincloud/tinydns) | 7 | 8 | Go | 0 | Tinydns is a LAIN's layer1 application providing internal DNS resolving service | 2018-02-09 |
-| 27 | [phantasma-ts](https://github.com/phantasma-io-archive/phantasma-ts) | 7 | 13 | JavaScript | 1 | A TypeScript SDK for the Phantasma blockchain | 2024-01-11 |
+| 25 | [tinydns](https://github.com/laincloud/tinydns) | 7 | 8 | Go | 0 | Tinydns is a LAIN's layer1 application providing internal DNS resolving service | 2018-02-09 |
+| 26 | [phantasma-ts](https://github.com/phantasma-io-archive/phantasma-ts) | 7 | 13 | JavaScript | 1 | A TypeScript SDK for the Phantasma blockchain | 2024-01-11 |
+| 27 | [ferrous](https://github.com/ChronoCoders/ferrous) | 7 | 1 | Rust | 0 | A Rust-built Layer 1 blockchain with RandomX PoW, BIP39 wallets, Shamir recovery, and post-quantum signatures. | 2026-07-04 |
 | 28 | [BluePods](https://github.com/clemsix6/BluePods) | 7 | 0 | Go | 0 | Layer 1 blockchain with object-oriented state, DAG consensus, and execution sharding | 2026-08-17 |
 | 29 | [flexo-mms-layer1-service](https://github.com/Open-MBEE/flexo-mms-layer1-service) | 6 | 3 | Kotlin | 14 |  | 2026-08-09 |
 | 30 | [erbie](https://github.com/erbieio/erbie) | 6 | 4 | Go | 1 | ErbieChain is an efficient Layer1 that aggregates web data and realizes value on Web3. | 2026-06-04 |
