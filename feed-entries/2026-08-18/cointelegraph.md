@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-18"
 date: "2026-08-18"
 source: "Cointelegraph"
-count: 8
+count: 6
 ---
 
 # Cointelegraph - 2026-08-18
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ The multi-asset card lets US customers spend crypto and fiat and earn cashback a
 Currently serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his conviction related to activities at Celsius.
 
 📖 [Read original article](https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 8/18/2026, 4:21:58 PM  
-**Categories:** Latest News  
-
-The proposed deal with Nasdaq-listed Super League Enterprise would give the Tokyo-based company a foothold in US capital markets while using existing Bitcoin rather than additional purchases.
-
-📖 [Read original article](https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 8/18/2026, 3:59:54 PM  
-**Categories:** Latest News  
-
-The $613 billion asset manager will subadvise a high-yield fund tokenized across Ethereum, Solana, Avalanche and Sui.
-
-📖 [Read original article](https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
