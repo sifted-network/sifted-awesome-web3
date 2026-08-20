@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-17"
 date: "2026-08-17"
 source: "Decrypt"
-count: 12
+count: 6
 ---
 
 # Decrypt - 2026-08-17
 
-12 items collected.
+6 items collected.
 
 ---
 
@@ -80,77 +80,5 @@ OpenAI President Greg Brockman's new essay cites his company's own hack of Huggi
 XRP is clinging to the dollar price line it's defended since Trump's 2024 win. But both the daily and weekly charts are now flashing red.
 
 📖 [Read original article](https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning)
-
----
-
-## 7. Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/17/2026, 6:29:56 PM  
-**Categories:** Coins  
-
-The native token of Solana's Pump.fun is up 8%, and the pattern bulls have been waiting for is starting to form on the daily chart.
-
-📖 [Read original article](https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross)
-
----
-
-## 8. Ethereum Developers Target Privacy Changes in Next Major Upgrade
-
-**Author:** Jason Nelson  
-**Published:** 8/17/2026, 6:19:46 PM  
-**Categories:** , Coins  
-
-A proposed package would let privacy pools pay their own transaction fees without relying on intermediaries.
-
-📖 [Read original article](https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade)
-
----
-
-## 9. Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say
-
-**Author:** EleanorTerrett  
-**Published:** 8/17/2026, 4:27:26 PM  
-**Categories:** Law and Order  
-
-The securities regulator cited an "unforeseen scheduling issue," but sources point to a legal threat from Wall Street trade group SIFMA and an administration waiting to see whether the Clarity Act passes in September.
-
-📖 [Read original article](https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework)
-
----
-
-## 10. What Stripe's $7 Billion OpenRouter Deal Actually Means for AI
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/17/2026, 3:54:29 PM  
-**Categories:** Artificial Intelligence  
-
-Stripe just bought the layer that decides which AI model answers your prompt—and it was already collecting the money for it.
-
-📖 [Read original article](https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai)
-
----
-
-## 11. Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply
-
-**Author:** Jason Nelson  
-**Published:** 8/17/2026, 3:47:59 PM  
-**Categories:** , Business  
-
-The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
-
-📖 [Read original article](https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum)
-
----
-
-## 12. Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero
-
-**Author:** Decrypt Staff  
-**Published:** 8/17/2026, 1:31:04 PM  
-**Categories:** Technology  
-
-The Dutch cyber agency says attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating.
-
-📖 [Read original article](https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero)
 
 ---
