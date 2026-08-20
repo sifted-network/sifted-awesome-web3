@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-18"
 date: "2026-08-18"
 source: "Decrypt"
-count: 15
+count: 12
 ---
 
 # Decrypt - 2026-08-18
 
-15 items collected.
+12 items collected.
 
 ---
 
@@ -152,41 +152,5 @@ The Tokyo-listed firm will seed gaming media company Super League—to be rename
 The address received 8.54 BTC in June 2011 when the coin traded around $14 and stayed silent for 15 years before moving roughly $538,000 in a single transaction.
 
 📖 [Read original article](https://decrypt.co/375839/bitcoin-wallet-untouched-15-years-life)
-
----
-
-## 13. Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High
-
-**Author:** Tyler Warner  
-**Published:** 8/18/2026, 12:37:02 PM  
-**Categories:** , Opinion  
-
-Plus, Ethereum researchers are prioritizing privacy; Robinhood is rolling out agentic trading; and Ansem debuts his own launchpad.
-
-📖 [Read original article](https://decrypt.co/375856/morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high)
-
----
-
-## 14. Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs
-
-**Author:** Decrypt Staff  
-**Published:** 8/18/2026, 11:31:04 AM  
-**Categories:** , Law and Order  
-
-The bid protest, filed in the U.S. Court of Federal Claims, challenges ICE's sole-source award for blockchain forensic tools, pitting the two biggest names in crypto tracing against each other.
-
-📖 [Read original article](https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs)
-
----
-
-## 15. Bitpanda Hit With Europe's First Published MiCA Penalty in Austria
-
-**Author:** Decrypt Staff  
-**Published:** 8/18/2026, 9:31:04 AM  
-**Categories:** Law and Order  
-
-Austria's Financial Market Authority fined the Vienna-based exchange 70,000 euros for procedural and disclosure breaches, an early marker of how EU regulators intend to enforce the bloc's new crypto rulebook.
-
-📖 [Read original article](https://decrypt.co/375841/bitpanda-europe-first-mica-penalty)
 
 ---
