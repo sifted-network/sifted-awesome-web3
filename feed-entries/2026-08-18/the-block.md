@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-18"
 date: "2026-08-18"
 source: "The Block"
-count: 8
+count: 7
 ---
 
 # The Block - 2026-08-18
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -92,17 +92,5 @@ Metaplanet is taking its bitcoin treasury strategy to the U.S. with a controllin
 HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102)
-
----
-
-## 8. Citi expects to launch bitcoin custody later this year under its new Custody+ platform
-
-**Author:** James Hunt  
-**Published:** 8/18/2026, 12:15:31 PM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Layer 1s, Markets, Token Projects, Bitcoin, TradFi banks, News  
-
-The platform also includes real-time asset servicing, instant settlements, liquidity tools, and AI-powered market intelligence.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090)
 
 ---
