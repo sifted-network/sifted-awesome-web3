@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-18"
 date: "2026-08-18"
 source: "Cointelegraph"
-count: 11
+count: 8
 ---
 
 # Cointelegraph - 2026-08-18
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ The proposed deal with Nasdaq-listed Super League Enterprise would give the Toky
 The $613 billion asset manager will subadvise a high-yield fund tokenized across Ethereum, Solana, Avalanche and Sui.
 
 📖 [Read original article](https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 8/18/2026, 3:27:13 PM  
-**Categories:** Markets  
-
-Bitcoin returned to $65,000 for the first time in a week as fresh BTC price volatility accompanied US claims that the Strait of Hormuz was “open and operating.”
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Toyota Finance opens tokenized bonds to retail investors via mobile payment app
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/18/2026, 1:41:56 PM  
-**Categories:** Latest News  
-
-Retail investors can apply to buy the 1 billion yen bond without a securities account and receive perks through Toyota’s payment app.
-
-📖 [Read original article](https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. MoonPay adds Cash App Pay for crypto purchases by US customers
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/18/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-Eligible US users can fund MoonPay crypto purchases with Cash App balances as the payments firm expands beyond its core onramp business.
-
-📖 [Read original article](https://cointelegraph.com/news/moonpay-cash-app-pay-crypto-purchases-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
