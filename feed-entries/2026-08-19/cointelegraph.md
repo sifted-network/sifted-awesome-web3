@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-08-19"
 date: "2026-08-19"
 source: "Cointelegraph"
-count: 19
+count: 22
 ---
 
 # Cointelegraph - 2026-08-19
 
-19 items collected.
+22 items collected.
 
 ---
 
-## 1. FalconX, Ethena bring USDe backing assets into $1B institutional credit facility
+## 1. Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/19/2026, 8:33:51 PM  
+**Categories:** Latest News  
+
+The integration expands access to USDU, the UAE’s first central bank-registered US dollar stablecoin, as it builds distribution beyond institutional channels.
+
+📖 [Read original article](https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Trump pushes for CLARITY Act passage alongside crypto leaders
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/19/2026, 7:54:59 PM  
+**Categories:** Latest News  
+
+Donald Trump spoke from the White House on Wednesday, urging the Senate to pass a crypto market structure bill to keep the country “ahead of China.”
+
+📖 [Read original article](https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 8/19/2026, 7:50:07 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Crypto PAC notches primary wins, but loses $2M Florida race
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/19/2026, 6:48:58 PM  
+**Categories:** Latest News  
+
+A Fairshake spokesperson said that the PAC was “just getting started“ on its expenditures as part of efforts to fill US Congress with lawmakers friendly to the crypto industry.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. FalconX, Ethena bring USDe backing assets into $1B institutional credit facility
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/19/2026, 5:34:10 PM  
@@ -23,7 +71,7 @@ The $1 billion facility will deploy assets backing USDe into overcollateralized 
 
 ---
 
-## 2. OCC head promises final GENIUS rules by November
+## 6. OCC head promises final GENIUS rules by November
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/19/2026, 5:00:01 PM  
@@ -35,7 +83,7 @@ The US banking regulator released a 376‑page proposal in February, calling for
 
 ---
 
-## 3. StanChart, HSBC execute first live transaction on Swift blockchain ledger
+## 7. StanChart, HSBC execute first live transaction on Swift blockchain ledger
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/19/2026, 4:30:12 PM  
@@ -47,7 +95,7 @@ The transaction connected the banks’ separate tokenized deposit systems throug
 
 ---
 
-## 4. Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks
+## 8. Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/19/2026, 4:00:03 PM  
@@ -59,7 +107,7 @@ Bitcoin’s rebound toward $69,000 is gaining momentum as Geoff Kendrick points 
 
 ---
 
-## 5. US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs
+## 9. US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/19/2026, 3:50:58 PM  
@@ -71,7 +119,7 @@ The consent orders ended the CFTC’s case against two former crypto executives 
 
 ---
 
-## 6. Bitcoin price hits 11-week high as US Treasury doubles debt buyback size
+## 10. Bitcoin price hits 11-week high as US Treasury doubles debt buyback size
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/19/2026, 3:44:09 PM  
@@ -83,7 +131,7 @@ Bitcoin joined US stocks in a broad rally after the US Treasury announced that i
 
 ---
 
-## 7. Injective receives SEC transfer agent registration for institutional services arm
+## 11. Injective receives SEC transfer agent registration for institutional services arm
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/19/2026, 3:19:21 PM  
@@ -95,7 +143,7 @@ Injective’s affiliated entity can now maintain securities ownership records, a
 
 ---
 
-## 8. 200,000 fake AI ‘victims’ deployed to scam bait online fraudsters
+## 12. 200,000 fake AI ‘victims’ deployed to scam bait online fraudsters
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 8/19/2026, 1:30:00 PM  
@@ -107,7 +155,7 @@ Apate’s 200,000 fake AI ‘victims’ are so good at scam baiting, the company
 
 ---
 
-## 9. SEC regulatory proposal marks ‘important’ step forward from ‘inapt’ crypto rules: Commissioner Peirce
+## 13. SEC regulatory proposal marks ‘important’ step forward from ‘inapt’ crypto rules: Commissioner Peirce
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/19/2026, 1:27:09 PM  
@@ -119,19 +167,7 @@ Apate’s 200,000 fake AI ‘victims’ are so good at scam baiting, the company
 
 ---
 
-## 10. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/19/2026, 1:10:52 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds
+## 14. Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/19/2026, 12:00:00 PM  
@@ -143,7 +179,7 @@ Symbiotic’s Liquid Lane gives eligible holders immediate USDC liquidity across
 
 ---
 
-## 12. Sweden’s H100 reports $26M H1 loss driven by falling Bitcoin value
+## 15. Sweden’s H100 reports $26M H1 loss driven by falling Bitcoin value
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/19/2026, 11:59:30 AM  
@@ -155,7 +191,7 @@ Sweden’s H100 reported a $26 million loss for the first half of the year, as i
 
 ---
 
-## 13. Ripple raises $275M for US prime brokerage to meet institutional demand
+## 16. Ripple raises $275M for US prime brokerage to meet institutional demand
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/19/2026, 11:18:38 AM  
@@ -167,7 +203,7 @@ Ripple said the $275 million raised will support its expansion into traditional 
 
 ---
 
-## 14. Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock
+## 17. Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/19/2026, 11:06:13 AM  
@@ -179,7 +215,7 @@ Bitcoin maintained its appeal as a diversification investment despite dropping m
 
 ---
 
-## 15. Nexo launches regulated crypto-backed credit in Australia
+## 18. Nexo launches regulated crypto-backed credit in Australia
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/19/2026, 10:25:00 AM  
@@ -191,7 +227,7 @@ Nexo introduced regulated, cryptocurrency-backed credit lines that allow users t
 
 ---
 
-## 16. Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop
+## 19. Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/19/2026, 8:34:51 AM  
@@ -203,7 +239,7 @@ Hayes revealed his new role as Flop Labs CEO and teased a “massive airdrop” 
 
 ---
 
-## 17. Bitcoin ETFs add $189M as August net inflows approach $1B
+## 20. Bitcoin ETFs add $189M as August net inflows approach $1B
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/19/2026, 7:59:16 AM  
@@ -215,7 +251,7 @@ US spot Bitcoin ETFs took in $189 million on Tuesday, lifting August net inflows
 
 ---
 
-## 18. MAYAChain halts network after estimated $1.7M exploit
+## 21. MAYAChain halts network after estimated $1.7M exploit
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/19/2026, 5:13:54 AM  
@@ -227,7 +263,7 @@ A preliminary analysis says six chained bugs let a 23-message transaction drain 
 
 ---
 
-## 19. US accounting board FASB proposes conditions for stablecoins as cash equivalents
+## 22. US accounting board FASB proposes conditions for stablecoins as cash equivalents
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/19/2026, 3:58:13 AM  
