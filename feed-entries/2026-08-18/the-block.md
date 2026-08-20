@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-18"
 date: "2026-08-18"
 source: "The Block"
-count: 11
+count: 8
 ---
 
 # The Block - 2026-08-18
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize
 The platform also includes real-time asset servicing, instant settlements, liquidity tools, and AI-powered market intelligence.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090)
-
----
-
-## 9. Cypherpunk Technologies launches Zcash mining fleet with $33 million Winklevoss deal
-
-**Author:** Danny Park  
-**Published:** 8/18/2026, 12:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Infrastructure, Markets, Mining, News  
-
-Cypherpunk Mining is online as of today with roughly 4.2 GSol/s of Equihash hashrate deployed across the US.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071)
-
----
-
-## 10. ‘The Crypto Program’ promoter deported from Fiji over alleged $165 million Ponzi scheme
-
-**Author:** Brian Danga  
-**Published:** 8/18/2026, 10:49:53 AM  
-**Categories:** Legal, Policy, Regulation, Crime, News  
-
-Fiji deported Edward Zimbardi to the U.S. to face charges over an alleged $165 million crypto Ponzi scheme involving thousands of investors.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-18-the-crypto-program-promoter-deported-from-fiji-over-alleged-165-million-ponzi-scheme-412083)
-
----
-
-## 11. Curve founder says FATF pressure could make DeFi safer and more decentralized
-
-**Author:** Brian Danga  
-**Published:** 8/18/2026, 10:34:53 AM  
-**Categories:** Crypto Ecosystems, DeFi, Policy, Regulation, News  
-
-Curve founder Michael Egorov said FATF pressure could push DeFi protocols toward greater decentralization and stronger security.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059)
 
 ---
