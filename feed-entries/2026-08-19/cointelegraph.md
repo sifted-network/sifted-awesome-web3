@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-19"
 date: "2026-08-19"
 source: "Cointelegraph"
-count: 22
+count: 21
 ---
 
 # Cointelegraph - 2026-08-19
 
-22 items collected.
+21 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ Donald Trump spoke from the White House on Wednesday, urging the Senate to pass 
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/19/2026, 7:50:07 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Crypto PAC notches primary wins, but loses $2M Florida race
+## 3. Crypto PAC notches primary wins, but loses $2M Florida race
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/19/2026, 6:48:58 PM  
@@ -59,7 +47,7 @@ A Fairshake spokesperson said that the PAC was “just getting started“ on its
 
 ---
 
-## 5. FalconX, Ethena bring USDe backing assets into $1B institutional credit facility
+## 4. FalconX, Ethena bring USDe backing assets into $1B institutional credit facility
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/19/2026, 5:34:10 PM  
@@ -71,7 +59,7 @@ The $1 billion facility will deploy assets backing USDe into overcollateralized 
 
 ---
 
-## 6. OCC head promises final GENIUS rules by November
+## 5. OCC head promises final GENIUS rules by November
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/19/2026, 5:00:01 PM  
@@ -83,7 +71,7 @@ The US banking regulator released a 376‑page proposal in February, calling for
 
 ---
 
-## 7. StanChart, HSBC execute first live transaction on Swift blockchain ledger
+## 6. StanChart, HSBC execute first live transaction on Swift blockchain ledger
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/19/2026, 4:30:12 PM  
@@ -95,7 +83,7 @@ The transaction connected the banks’ separate tokenized deposit systems throug
 
 ---
 
-## 8. Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks
+## 7. Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/19/2026, 4:00:03 PM  
@@ -107,7 +95,7 @@ Bitcoin’s rebound toward $69,000 is gaining momentum as Geoff Kendrick points 
 
 ---
 
-## 9. US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs
+## 8. US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/19/2026, 3:50:58 PM  
@@ -119,7 +107,7 @@ The consent orders ended the CFTC’s case against two former crypto executives 
 
 ---
 
-## 10. Bitcoin price hits 11-week high as US Treasury doubles debt buyback size
+## 9. Bitcoin price hits 11-week high as US Treasury doubles debt buyback size
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/19/2026, 3:44:09 PM  
@@ -131,7 +119,7 @@ Bitcoin joined US stocks in a broad rally after the US Treasury announced that i
 
 ---
 
-## 11. Injective receives SEC transfer agent registration for institutional services arm
+## 10. Injective receives SEC transfer agent registration for institutional services arm
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/19/2026, 3:19:21 PM  
@@ -143,7 +131,7 @@ Injective’s affiliated entity can now maintain securities ownership records, a
 
 ---
 
-## 12. 200,000 fake AI ‘victims’ deployed to scam bait online fraudsters
+## 11. 200,000 fake AI ‘victims’ deployed to scam bait online fraudsters
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 8/19/2026, 1:30:00 PM  
@@ -155,7 +143,7 @@ Apate’s 200,000 fake AI ‘victims’ are so good at scam baiting, the company
 
 ---
 
-## 13. SEC regulatory proposal marks ‘important’ step forward from ‘inapt’ crypto rules: Commissioner Peirce
+## 12. SEC regulatory proposal marks ‘important’ step forward from ‘inapt’ crypto rules: Commissioner Peirce
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/19/2026, 1:27:09 PM  
@@ -167,7 +155,7 @@ Apate’s 200,000 fake AI ‘victims’ are so good at scam baiting, the company
 
 ---
 
-## 14. Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds
+## 13. Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/19/2026, 12:00:00 PM  
@@ -179,7 +167,7 @@ Symbiotic’s Liquid Lane gives eligible holders immediate USDC liquidity across
 
 ---
 
-## 15. Sweden’s H100 reports $26M H1 loss driven by falling Bitcoin value
+## 14. Sweden’s H100 reports $26M H1 loss driven by falling Bitcoin value
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/19/2026, 11:59:30 AM  
@@ -191,7 +179,7 @@ Sweden’s H100 reported a $26 million loss for the first half of the year, as i
 
 ---
 
-## 16. Ripple raises $275M for US prime brokerage to meet institutional demand
+## 15. Ripple raises $275M for US prime brokerage to meet institutional demand
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/19/2026, 11:18:38 AM  
@@ -203,7 +191,7 @@ Ripple said the $275 million raised will support its expansion into traditional 
 
 ---
 
-## 17. Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock
+## 16. Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/19/2026, 11:06:13 AM  
@@ -215,7 +203,7 @@ Bitcoin maintained its appeal as a diversification investment despite dropping m
 
 ---
 
-## 18. Nexo launches regulated crypto-backed credit in Australia
+## 17. Nexo launches regulated crypto-backed credit in Australia
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/19/2026, 10:25:00 AM  
@@ -227,7 +215,7 @@ Nexo introduced regulated, cryptocurrency-backed credit lines that allow users t
 
 ---
 
-## 19. Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop
+## 18. Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/19/2026, 8:34:51 AM  
@@ -239,7 +227,7 @@ Hayes revealed his new role as Flop Labs CEO and teased a “massive airdrop” 
 
 ---
 
-## 20. Bitcoin ETFs add $189M as August net inflows approach $1B
+## 19. Bitcoin ETFs add $189M as August net inflows approach $1B
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/19/2026, 7:59:16 AM  
@@ -251,7 +239,7 @@ US spot Bitcoin ETFs took in $189 million on Tuesday, lifting August net inflows
 
 ---
 
-## 21. MAYAChain halts network after estimated $1.7M exploit
+## 20. MAYAChain halts network after estimated $1.7M exploit
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/19/2026, 5:13:54 AM  
@@ -263,7 +251,7 @@ A preliminary analysis says six chained bugs let a 23-message transaction drain 
 
 ---
 
-## 22. US accounting board FASB proposes conditions for stablecoins as cash equivalents
+## 21. US accounting board FASB proposes conditions for stablecoins as cash equivalents
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/19/2026, 3:58:13 AM  
