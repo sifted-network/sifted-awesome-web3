@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-19"
 date: "2026-08-19"
 source: "CoinDesk"
-count: 21
+count: 13
 ---
 
 # CoinDesk - 2026-08-19
 
-21 items collected.
+13 items collected.
 
 ---
 
@@ -164,101 +164,5 @@ The warehouse facility gives Ethena another source of returns for the assets bac
 The American Bankers Association seeks to strengthen the Clarity Act, not kill it, argues Rob Nichols, president and CEO of the ABA.
 
 📖 [Read original article](https://www.coindesk.com/opinion/2026/08/19/strengthen-the-clarity-act)
-
----
-
-## 14. Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck
-
-**Author:** Shaurya Malwa  
-**Published:** 8/19/2026, 12:45:35 PM  
-**Categories:** Markets, News  
-
-Similar setups have historically produced below-average 90-day and 180-day bitcoin returns, said the asset manager.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/19/bitcoin-is-flashing-8-of-12-capitulation-signals-but-its-not-a-bottom-yet)
-
----
-
-## 15. A year after losing $1.46 billion, Bybit says AI helped it save $700 million
-
-**Author:** Shaurya Malwa  
-**Published:** 8/19/2026, 12:01:09 PM  
-**Categories:** Tech, Hack, Artificial Intelligence, News  
-
-The exchange that lost $1.46 billion to North Korean hackers is the first large centralized firm to put numbers on a claim bitcoin developers have been making all month.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/19/a-year-after-losing-usd1-46-billion-bybit-says-ai-helped-it-save-usd700-million)
-
----
-
-## 16. China triples its e-CNY network in 2026 as 8 more banks join the CBDC push this week
-
-**Author:** Francisco Rodrigues  
-**Published:** 8/19/2026, 11:55:45 AM  
-**Categories:** Finance, CBDC, News  
-
-The People’s Bank of China (PBOC) added 20 new operators this year across two rounds of expansions, including eight additions this week.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/19/china-triples-digital-yuan-bank-roster-year-to-date-as-eight-more-banks-join-network)
-
----
-
-## 17. Fed decision making comes into focus as bitcoin holds steady, bond yields surge
-
-**Author:** Francisco Rodrigues  
-**Published:** 8/19/2026, 11:14:50 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Aug. 19, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/08/19/fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge)
-
----
-
-## 18. Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades
-
-**Author:** Oliver Knight  
-**Published:** 8/19/2026, 10:29:57 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-BTC volatility has dropped to multi-year lows as surging Treasury yields rattle equities and traders await the Fed's July meeting minutes for clues on the interest-rate path.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades)
-
----
-
-## 19. TikTok code includes peer-to-peer payments over messaging: Bloomberg
-
-**Author:** Olivier Acuna  
-**Published:** 8/19/2026, 10:04:30 AM  
-**Categories:** Finance, News  
-
-The feature, which follows earlier moves into financial transactions, is not yet being tested anywhere, a spokesperson said.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/19/tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg)
-
----
-
-## 20. Ripple raises $275 million in senior notes for prime brokerage push
-
-**Author:** Olivier Acuna  
-**Published:** 8/19/2026, 9:55:50 AM  
-**Categories:** Finance, Ripple, News  
-
-Ripple Prime's inaugural senior notes carried an investment grade rating and drew institutional investors across key financial markets.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm)
-
----
-
-## 21. OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training
-
-**Author:** James Van Straten,AI Boost  
-**Published:** 8/19/2026, 9:10:22 AM  
-**Categories:** Markets, Artificial Intelligence, News  
-
-Widening losses and intensifying competition coincide with a pause in frontier reinforcement-learning training as openai strengthens its safety controls.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training)
 
 ---
