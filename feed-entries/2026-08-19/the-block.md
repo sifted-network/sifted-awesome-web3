@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-19"
 date: "2026-08-19"
 source: "The Block"
-count: 8
+count: 6
 ---
 
 # The Block - 2026-08-19
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ While DCG is in discussions to contribute ~200,000 ZEC to the Grayscale fund, th
 Injective says the registration gives it a regulated way to keep track of who owns tokenized securities and how those assets change hands.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-19-injective-becomes-sec-registered-transfer-agent-expands-tokenization-push-412225)
-
----
-
-## 7. Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink
-
-**Author:** Yogita Khatri  
-**Published:** 8/19/2026, 4:01:13 PM  
-**Categories:** Bridges, Companies, Crypto Ecosystems, DeFi, Markets, Web3, Cross-chain Swaps, Crypto, exclusive, News  
-
-Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)
-
----
-
-## 8. Ex-Signature Bank chair warns big banks could use blockchain to take market share from smaller rivals as N3XT goes global
-
-**Author:** Brian Danga  
-**Published:** 8/19/2026, 1:08:49 PM  
-**Categories:** Companies, News  
-
-Scott Shay said big banks could use blockchain payments to take market share from smaller rivals as N3XT expands globally.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-19-ex-signature-bank-chair-big-banks-blockchain-n3xt-412202)
 
 ---
