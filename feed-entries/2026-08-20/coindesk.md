@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-20"
 date: "2026-08-20"
 source: "CoinDesk"
-count: 11
+count: 10
 ---
 
 # CoinDesk - 2026-08-20
 
-11 items collected.
+10 items collected.
 
 ---
 
@@ -128,17 +128,5 @@ Six weeks of compression ended in the largest short liquidation since at least 2
 Conversations with X are ongoing, according to a person who also works with other social media platforms testing stablecoins to pay influencers.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers)
-
----
-
-## 11. BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so
-
-**Author:** Olivier Acuna  
-**Published:** 8/20/2026, 9:25:25 AM  
-**Categories:** Finance, South Korea, Regulation, Custody, News  
-
-Backed by Hana Financial Group and SK Telecom, BitGo Korea built a locally registered entity from scratch to serve institutional and enterprise clients, rather than taking the acquisition route.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/20/bitgo-secures-south-korea-virtual-asset-license-says-it-s-the-first-global-crypto-company-to-do-so)
 
 ---
