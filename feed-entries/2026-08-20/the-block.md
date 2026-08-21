@@ -2,16 +2,40 @@
 title: "The Block - 2026-08-20"
 date: "2026-08-20"
 source: "The Block"
-count: 10
+count: 12
 ---
 
 # The Block - 2026-08-20
 
-10 items collected.
+12 items collected.
 
 ---
 
-## 1. Ondo executive says tokenization is following the same path as early ETFs
+## 1. CME CEO Terrence Duffy trades barbs with CFTC’s Selig and Kalshi’s COO over prediction market oversight
+
+**Author:** Sarah Wynn  
+**Published:** 8/20/2026, 11:39:38 PM  
+**Categories:** Crypto Ecosystems, Policy, Regulation, CFTC, News  
+
+A CFTC ommittee meeting exposed a sharp divide between the worlds of traditional finance and prediction market platforms.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397)
+
+---
+
+## 2. Kraken parent Payward explores becoming a ‘full bank’ outside the US
+
+**Author:** Kyle Baird  
+**Published:** 8/20/2026, 8:41:44 PM  
+**Categories:** Companies, Crypto Ecosystems, Exchanges, Finance firms, Policy, Regulation, Kraken, Payments, TradFi banks, News  
+
+Payward is expanding across banking, lending and asset management, with mortgages a future possibility.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-20-kraken-parent-payward-explores-becoming-a-full-bank-outside-us-412390)
+
+---
+
+## 3. Ondo executive says tokenization is following the same path as early ETFs
 
 **Author:** Kyle Baird  
 **Published:** 8/20/2026, 5:53:38 PM  
@@ -23,7 +47,7 @@ The firm hopes that passage of the Clarity Act will help open the door for it to
 
 ---
 
-## 2. Inside the Oval Office meeting: Trump appears ‘bullish’ on Clarity Act as he solicits feedback from crypto, finance CEOs
+## 4. Inside the Oval Office meeting: Trump appears ‘bullish’ on Clarity Act as he solicits feedback from crypto, finance CEOs
 
 **Author:** Sarah Wynn  
 **Published:** 8/20/2026, 5:44:28 PM  
@@ -35,7 +59,7 @@ During a private Oval Office meeting, President Trump appeared “bullish” on 
 
 ---
 
-## 3. Bitcoin’s rally pushes past $72,000 as analysts see demand beyond historic short squeeze
+## 5. Bitcoin’s rally pushes past $72,000 as analysts see demand beyond historic short squeeze
 
 **Author:** Jason Shubnell  
 **Published:** 8/20/2026, 5:06:01 PM  
@@ -47,7 +71,7 @@ Analysts say the move is supported by spot and ETF demand, though BTC will need 
 
 ---
 
-## 4. ‘Star Wars vibes:’ Chainlink’s McCormick sees AI agents, robots driving blockchain transactions
+## 6. ‘Star Wars vibes:’ Chainlink’s McCormick sees AI agents, robots driving blockchain transactions
 
 **Author:** James Hunt  
 **Published:** 8/20/2026, 1:58:22 PM  
@@ -59,7 +83,7 @@ McCormick expects a multi-chain future as AI lowers the cost of creating new blo
 
 ---
 
-## 5. OpenLedger’s Ram Kumar sees agentic payments as crypto’s first AI ‘killer app’
+## 7. OpenLedger’s Ram Kumar sees agentic payments as crypto’s first AI ‘killer app’
 
 **Author:** Brian Danga  
 **Published:** 8/20/2026, 11:34:23 AM  
@@ -71,7 +95,7 @@ OpenLedger core contributor Ram Kumar sees agentic payments as a major crypto us
 
 ---
 
-## 6. Evernorth eyes DeFi opportunities as XRP Ledger weighs native lending
+## 8. Evernorth eyes DeFi opportunities as XRP Ledger weighs native lending
 
 **Author:** James Hunt  
 **Published:** 8/20/2026, 11:34:05 AM  
@@ -83,7 +107,7 @@ The XRP-focused digital asset treasury firm plans to put its holdings to work as
 
 ---
 
-## 7. GSR’s Baehr says tokenized fixed income could play key role in institutional collateral
+## 9. GSR’s Baehr says tokenized fixed income could play key role in institutional collateral
 
 **Author:** Timmy Shen  
 **Published:** 8/20/2026, 10:08:12 AM  
@@ -95,7 +119,7 @@ The idea of mass tokenization of equities is "exciting," said Andy Baehr, managi
 
 ---
 
-## 8. Securitize’s Redfearn says SEC held back crypto innovation exemption over Clarity Act politics
+## 10. Securitize’s Redfearn says SEC held back crypto innovation exemption over Clarity Act politics
 
 **Author:** Brian Danga  
 **Published:** 8/20/2026, 10:06:46 AM  
@@ -107,7 +131,7 @@ Securitize says the SEC delayed its crypto trading exemption to avoid complicati
 
 ---
 
-## 9. Spot bitcoin ETFs report $517 million in net inflows, largest in 3.5 months
+## 11. Spot bitcoin ETFs report $517 million in net inflows, largest in 3.5 months
 
 **Author:** Danny Park  
 **Published:** 8/20/2026, 6:57:13 AM  
@@ -119,7 +143,7 @@ Analysts attributed the inflows to the surprise crypto market rally driven by US
 
 ---
 
-## 10. AI agents could make today’s billion-dollar crypto hacks look like ‘pennies,’ industry leaders warn
+## 12. AI agents could make today’s billion-dollar crypto hacks look like ‘pennies,’ industry leaders warn
 
 **Author:** Kyle Baird  
 **Published:** 8/20/2026, 3:07:29 AM  
