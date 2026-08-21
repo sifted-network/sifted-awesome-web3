@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-19"
 date: "2026-08-19"
 source: "Cointelegraph"
-count: 11
+count: 8
 ---
 
 # Cointelegraph - 2026-08-19
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ Bitcoin’s rebound toward $69,000 is gaining momentum as Geoff Kendrick points 
 The consent orders ended the CFTC’s case against two former crypto executives after FTX and Alameda agreed to $12.7 billion in disgorgement and restitution payments in August 2024.
 
 📖 [Read original article](https://cointelegraph.com/news/us-cftc-trading-ban-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bitcoin price hits 11-week high as US Treasury doubles debt buyback size
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 8/19/2026, 3:44:09 PM  
-**Categories:** Markets  
-
-Bitcoin joined US stocks in a broad rally after the US Treasury announced that it was at least doubling the amount of its debt buyback operations from September.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Injective receives SEC transfer agent registration for institutional services arm
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 8/19/2026, 3:19:21 PM  
-**Categories:** Latest News  
-
-Injective’s affiliated entity can now maintain securities ownership records, adding regulated market infrastructure to its growing push into tokenized assets.
-
-📖 [Read original article](https://cointelegraph.com/news/injective-sec-transfer-agent-tokenized-securities-recordkeeping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. 200,000 fake AI ‘victims’ deployed to scam bait online fraudsters
-
-**Author:** Cointelegraph by Andrew Fenton  
-**Published:** 8/19/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Apate’s 200,000 fake AI ‘victims’ are so good at scam baiting, the company has a monthly KPI for how many F-bombs scammers drop at the infuriating bots.
-
-📖 [Read original article](https://cointelegraph.com/magazine/fake-ai-victims-are-scam-baiting-600000-fraudsters-every-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
