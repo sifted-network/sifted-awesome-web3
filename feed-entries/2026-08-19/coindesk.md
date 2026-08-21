@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-19"
 date: "2026-08-19"
 source: "CoinDesk"
-count: 10
+count: 9
 ---
 
 # CoinDesk - 2026-08-19
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ AI agents could boost crypto activity, but much of the value may bypass blockcha
 In this week's Crypto Long & Short, Solstice Finance's David Plisek argues that most of the money lost in DeFi this spring wasn't taken by hackers but by yield strategies that quietly stopped working. Looking at April's $13 billion drawdown, he shows that a headline yield number reveals almost nothi...
 
 📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/08/18/crypto-long-and-short-where-defi-yield-really-comes-from-and-why-it-broke-this-spring)
-
----
-
-## 10. HSBC, Standard Chartered execute first live banking transaction on Swift’s 24/7 ledger
-
-**Author:** Olivier Acuna  
-**Published:** 8/19/2026, 2:50:33 PM  
-**Categories:** Finance, Standard chartered, banks, Ledger, tokenized deposits, News  
-
-The cross-border transaction is Swift’s first in a pilot project as it tests settlement in its push to remain relevant as stablecoins and tokenized deposits become widely used worldwide.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/19/hsbc-standard-chartered-execute-first-live-banking-transaction-on-swift-s-24-7-ledger)
 
 ---
