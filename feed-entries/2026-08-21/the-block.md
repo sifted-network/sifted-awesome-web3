@@ -2,16 +2,52 @@
 title: "The Block - 2026-08-21"
 date: "2026-08-21"
 source: "The Block"
-count: 9
+count: 12
 ---
 
 # The Block - 2026-08-21
 
-9 items collected.
+12 items collected.
 
 ---
 
-## 1. AI adoption in crypto crime rose 40% over the past year, TRM Labs says
+## 1. BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit
+
+**Author:** Kyle Baird  
+**Published:** 8/21/2026, 5:28:34 PM  
+**Categories:** Crypto Ecosystems, DeFi, Layer 1s, Security, BNB Chain, Exploits, News  
+
+The attacker transferred approximately 286.5 million BB from nine wallets before block production was eventually halted.
+
+📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485)
+
+---
+
+## 2. XRP leads broad altcoin rally as bitcoin’s biggest weekly gain in two years lifts crypto
+
+**Author:** Jason Shubnell  
+**Published:** 8/21/2026, 5:24:02 PM  
+**Categories:** Market Updates, Markets, Crypto Movers, News  
+
+Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483)
+
+---
+
+## 3. Strategy shares hit two-month high as STRC rebounds toward $100 alongside bitcoin
+
+**Author:** Kyle Baird  
+**Published:** 8/21/2026, 3:38:02 PM  
+**Categories:** Companies, Crypto Ecosystems, Equities, Layer 1s, Market Updates, Markets, Public Equities, Token Projects, Bitcoin, Equity Movers, Strategy, News  
+
+Amid a two-month puase on BTC buys, Strategy shares (MSTR) rallied alongside bitcoin as STRC continued its recovery toward its $100 target.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-08-21-strategy-shares-hit-two-month-high-strc-rebounds-toward-100-alongside-bitcoin-412467)
+
+---
+
+## 4. AI adoption in crypto crime rose 40% over the past year, TRM Labs says
 
 **Author:** Danny Park  
 **Published:** 8/21/2026, 12:00:00 PM  
@@ -23,7 +59,7 @@ Crypto hackers are quickly picking up on AI developments to discover overlooked 
 
 ---
 
-## 2. Crypto is still in ‘winter’ price-wise but it’s an ‘institutional summer,’ STS Digital CEO says
+## 5. Crypto is still in ‘winter’ price-wise but it’s an ‘institutional summer,’ STS Digital CEO says
 
 **Author:** Brian Danga  
 **Published:** 8/21/2026, 11:58:06 AM  
@@ -35,7 +71,7 @@ STS Digital CEO Maxime Seiler says token prices have lagged institutional adopti
 
 ---
 
-## 3. Bitcoin surge toward $80K points to liquidity-driven momentum shift as ETF flows rebound: Bernstein
+## 6. Bitcoin surge toward $80K points to liquidity-driven momentum shift as ETF flows rebound: Bernstein
 
 **Author:** James Hunt  
 **Published:** 8/21/2026, 10:57:54 AM  
@@ -47,7 +83,7 @@ U.S. spot bitcoin ETF flows have also rebounded, while Strategy's bitcoin holdin
 
 ---
 
-## 4. Upbit trading volume spikes 273% as South Korean investors re-enter crypto
+## 7. Upbit trading volume spikes 273% as South Korean investors re-enter crypto
 
 **Author:** Danny Park  
 **Published:** 8/21/2026, 9:17:58 AM  
@@ -59,7 +95,7 @@ One analyst said South Korean capital is slowly moving back to crypto, as invest
 
 ---
 
-## 5. Avalanche’s Nahas: Token prices are down, but ‘I’ve never seen more opportunities’ in crypto
+## 8. Avalanche’s Nahas: Token prices are down, but ‘I’ve never seen more opportunities’ in crypto
 
 **Author:** Brian Danga  
 **Published:** 8/21/2026, 9:00:26 AM  
@@ -71,7 +107,7 @@ Ava Labs CBO John Nahas says crypto prices are down, but real-world adoption is 
 
 ---
 
-## 6. Anchorage CEO says AI agents need bank accounts for ‘The Jetsons’-like future
+## 9. Anchorage CEO says AI agents need bank accounts for ‘The Jetsons’-like future
 
 **Author:** Timmy Shen  
 **Published:** 8/21/2026, 7:11:13 AM  
@@ -83,7 +119,7 @@ The firm has built an agentic banking platform with a 'know-your-agent' setup to
 
 ---
 
-## 7. South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance
+## 10. South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance
 
 **Author:** Danny Park  
 **Published:** 8/21/2026, 6:32:48 AM  
@@ -95,7 +131,7 @@ The agreement covers a proof-of-concept for the issuance and distribution of a K
 
 ---
 
-## 8. MANTRA freezes all transactions and network following incident
+## 11. MANTRA freezes all transactions and network following incident
 
 **Author:** Danny Park and James Hunt  
 **Published:** 8/21/2026, 4:47:29 AM  
@@ -107,7 +143,7 @@ MANTRA Chain halted the network and all transactions after discovering an incide
 
 ---
 
-## 9. Bitcoin breaks through $75,500 while analyst calls current rally ‘premature’
+## 12. Bitcoin breaks through $75,500 while analyst calls current rally ‘premature’
 
 **Author:** Danny Park  
 **Published:** 8/21/2026, 2:22:44 AM  
