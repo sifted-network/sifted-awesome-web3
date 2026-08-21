@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-19"
 date: "2026-08-19"
 source: "The Block"
-count: 10
+count: 8
 ---
 
 # The Block - 2026-08-19
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Nethermind said it is joining Chainlink as a node operator, where it will help s
 Scott Shay said big banks could use blockchain payments to take market share from smaller rivals as N3XT expands globally.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-08-19-ex-signature-bank-chair-big-banks-blockchain-n3xt-412202)
-
----
-
-## 9. Bitwise CIO sees potential for 10-100x blockchain transaction growth as AI agents meet tokenized markets
-
-**Author:** James Hunt  
-**Published:** 8/19/2026, 11:32:48 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Markets, Aave, Uniswap, News  
-
-Bitwise CIO Matt Hougan said investors may be underestimating blockchain transaction activity by 10 to 100 times as tokenized markets expand.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-19-bitwise-cio-sees-potential-for-10-100x-blockchain-transaction-growth-as-ai-agents-meet-tokenized-markets-412196)
-
----
-
-## 10. Scaramucci points to $100,000 bitcoin as ‘magic number’ for OG sellers, eyes AI-blockchain convergence
-
-**Author:** James Hunt  
-**Published:** 8/19/2026, 10:47:39 AM  
-**Categories:** Companies, Markets, News  
-
-John Darsie, CEO of SALT and partner at SkyBridge, said bitcoin's changing holder base is part of a broader maturation process.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-19-scaramucci-points-to-100000-bitcoin-as-magic-number-for-og-sellers-eyes-ai-blockchain-convergence-412190)
 
 ---
