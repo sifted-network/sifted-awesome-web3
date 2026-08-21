@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-20"
 date: "2026-08-20"
 source: "The Block"
-count: 12
+count: 11
 ---
 
 # The Block - 2026-08-20
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ Securitize says the SEC delayed its crypto trading exemption to avoid complicati
 Analysts attributed the inflows to the surprise crypto market rally driven by US Treasury Department's buyback expansion announcement.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-08-20-us-bitcoin-etf-517-million-inflows-412291)
-
----
-
-## 12. AI agents could make today’s billion-dollar crypto hacks look like ‘pennies,’ industry leaders warn
-
-**Author:** Kyle Baird  
-**Published:** 8/20/2026, 3:07:29 AM  
-**Categories:** Crypto Ecosystems, Security, Web3, AI, Exploits, Hacks, News  
-
-Crypto leaders see trust, hallucinations and unclear legal liability as the biggest hurdles to agentic adoption.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-19-ai-agents-todays-billion-dollar-crypto-hacks-look-like-pennies-industry-leaders-412278)
 
 ---
