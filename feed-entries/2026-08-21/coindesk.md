@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-08-21"
 date: "2026-08-21"
 source: "CoinDesk"
-count: 14
+count: 15
 ---
 
 # CoinDesk - 2026-08-21
 
-14 items collected.
+15 items collected.
 
 ---
 
-## 1. Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs
+## 1. Ethena's ENA token surges 48%, but altcoin season will have to wait
+
+**Author:** Oliver Knight  
+**Published:** 8/21/2026, 4:10:37 PM  
+**Categories:** Markets, Altcoins, News  
+
+ENA is rallying on a $1 billion FalconX deal, while HYPE tests its record, though flat dominance shows this is no broad alt season.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin)
+
+---
+
+## 2. Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs
 
 **Author:** Shaurya Malwa  
 **Published:** 8/21/2026, 12:10:55 PM  
@@ -23,7 +35,7 @@ Three weeks of review turned up problems unrelated to the flaw that cost users $
 
 ---
 
-## 2. Analysts split on whether Bitcoin's surge past key levels signals a new bull run
+## 3. Analysts split on whether Bitcoin's surge past key levels signals a new bull run
 
 **Author:** Olivier Acuna  
 **Published:** 8/21/2026, 11:31:30 AM  
@@ -35,7 +47,7 @@ Market watchers say sudden sharp price spikes and forced short liquidations are 
 
 ---
 
-## 3. The hard truth is that the Clarity Act is an anti-crypto bill
+## 4. The hard truth is that the Clarity Act is an anti-crypto bill
 
 **Author:** Hermine Wong  
 **Published:** 8/21/2026, 11:30:00 AM  
@@ -47,7 +59,7 @@ After years of stalled bills, misguided enforcement, and catastrophic collapses,
 
 ---
 
-## 4. Bitcoin faces $80,000 test as thinner weekend liquidity looms
+## 5. Bitcoin faces $80,000 test as thinner weekend liquidity looms
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/21/2026, 11:26:27 AM  
@@ -59,7 +71,7 @@ Your day-ahead look for Aug. 21, 2026
 
 ---
 
-## 5. Nomura-backed Laser Digital wins Japan's first crypto approval in four years
+## 6. Nomura-backed Laser Digital wins Japan's first crypto approval in four years
 
 **Author:** Olivier Acuna  
 **Published:** 8/21/2026, 10:38:47 AM  
@@ -71,7 +83,7 @@ Laser Digital Japan will offer liquidity to domestic crypto providers, with inst
 
 ---
 
-## 6. Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride
+## 7. Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride
 
 **Author:** Oliver Knight  
 **Published:** 8/21/2026, 10:15:36 AM  
@@ -83,7 +95,7 @@ BTC has gained 24% since Monday and reached the level implied by its inverse hea
 
 ---
 
-## 7. Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.
+## 8. Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.
 
 **Author:** Omkar Godbole  
 **Published:** 8/21/2026, 9:17:15 AM  
@@ -95,7 +107,7 @@ The rally in hard assets isn’t necessarily about what the Treasury is doing, b
 
 ---
 
-## 8. Strategy sits on $1.4 billion profit on bitcoin holdings as price surges
+## 9. Strategy sits on $1.4 billion profit on bitcoin holdings as price surges
 
 **Author:** James Van Straten  
 **Published:** 8/21/2026, 8:24:52 AM  
@@ -107,9 +119,9 @@ Strategy’s common stock rose 10% in Friday pre-market trading to $120, the hig
 
 ---
 
-## 9. Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight
+## 10. Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight
 
-**Author:** Shaurya Malwa  
+**Author:** Shaurya Malwa,Stephen Alpher,James Van Straten  
 **Published:** 8/21/2026, 6:43:24 AM  
 **Categories:** Tech, Live News, live_news  
 
@@ -119,7 +131,7 @@ Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million
 
 ---
 
-## 10. MANTRA token plunges 18% to record low as blockchain halts after exploit
+## 11. MANTRA token plunges 18% to record low as blockchain halts after exploit
 
 **Author:** Shaurya Malwa  
 **Published:** 8/21/2026, 5:52:27 AM  
@@ -131,7 +143,7 @@ The token touched $0.004126 minutes before the network stopped producing blocks,
 
 ---
 
-## 11. Ripple backs an RLUSD credit fund amid XRP's best week in months
+## 12. Ripple backs an RLUSD credit fund amid XRP's best week in months
 
 **Author:** Shaurya Malwa  
 **Published:** 8/21/2026, 5:29:48 AM  
@@ -143,19 +155,19 @@ Clearpool and Cicada Partners are building an institutional lending product usin
 
 ---
 
-## 12. Bitcoin, ether and solana climb as another $1 billion shorts get wiped out
+## 13. Bitcoin, ether and solana climb as another $1 billion shorts get wiped out
 
 **Author:** Shaurya Malwa  
 **Published:** 8/21/2026, 4:56:30 AM  
 **Categories:** Markets, News  
 
-The two-day short liquidation total has reached about $3.8 billion, after Thursday's figure set a record going back to 2021.
+The two-day short liquidation total has surpassed $4 billion, with Thursday's figure setting a record dating back to 2021.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out)
 
 ---
 
-## 13. Bitcoin pushes past $75,000 as rally continues.
+## 14. Bitcoin pushes past $75,000 as rally continues.
 
 **Author:** Stephen Alpher  
 **Published:** 8/21/2026, 1:55:50 AM  
@@ -167,7 +179,7 @@ The two-day short liquidation total has reached about $3.8 billion, after Thursd
 
 ---
 
-## 14. A $2 million bet on XRP volatility crosses the tape as prices surge
+## 15. A $2 million bet on XRP volatility crosses the tape as prices surge
 
 **Author:** Omkar Godbole  
 **Published:** 8/21/2026, 1:51:56 AM  
