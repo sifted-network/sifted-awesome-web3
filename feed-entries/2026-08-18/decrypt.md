@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-18"
 date: "2026-08-18"
 source: "Decrypt"
-count: 9
+count: 7
 ---
 
 # Decrypt - 2026-08-18
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ Traders are betting OpenAI's next frontier model lands within weeks—even after
 WorldClaw accepts World Liberty’s USD1 stablecoin while offering AI models from Chinese companies facing U.S. national security restrictions.
 
 📖 [Read original article](https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk)
-
----
-
-## 8. Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/18/2026, 6:06:42 PM  
-**Categories:** , Coins  
-
-The Swiss hardware-wallet maker found two severe bugs with the help of frontier AI models, and warns that older firmware leaves you exposed.
-
-📖 [Read original article](https://decrypt.co/375886/bitcoin-wallet-bitbox-ai-severe-flaws-firmware)
-
----
-
-## 9. Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models
-
-**Author:** Jason Nelson  
-**Published:** 8/18/2026, 5:19:44 PM  
-**Categories:** Artificial Intelligence  
-
-The bankrupt airline’s internal communications and business records could soon be used to improve Google’s AI systems.
-
-📖 [Read original article](https://decrypt.co/375883/google-spirit-airlines-data-train-ai)
 
 ---
