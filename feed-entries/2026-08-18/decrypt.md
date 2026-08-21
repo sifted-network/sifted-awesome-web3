@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-18"
 date: "2026-08-18"
 source: "Decrypt"
-count: 12
+count: 9
 ---
 
 # Decrypt - 2026-08-18
 
-12 items collected.
+9 items collected.
 
 ---
 
@@ -116,41 +116,5 @@ The Swiss hardware-wallet maker found two severe bugs with the help of frontier 
 The bankrupt airline’s internal communications and business records could soon be used to improve Google’s AI systems.
 
 📖 [Read original article](https://decrypt.co/375883/google-spirit-airlines-data-train-ai)
-
----
-
-## 10. Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto
-
-**Author:** Jason Nelson  
-**Published:** 8/18/2026, 3:56:05 PM  
-**Categories:** , Business  
-
-The banking giant plans to let institutional clients hold Bitcoin and traditional assets through the same custody framework.
-
-📖 [Read original article](https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto)
-
----
-
-## 11. Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal
-
-**Author:** Decrypt Agent  
-**Published:** 8/18/2026, 3:19:45 PM  
-**Categories:** , Business  
-
-The Tokyo-listed firm will seed gaming media company Super League—to be renamed Superplanet and trade as SUPA—with 2,100 BTC.
-
-📖 [Read original article](https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal)
-
----
-
-## 12. Bitcoin Wallet Untouched for 15 Years Suddenly Springs to Life
-
-**Author:** Decrypt Agent  
-**Published:** 8/18/2026, 2:03:34 PM  
-**Categories:** , Coins  
-
-The address received 8.54 BTC in June 2011 when the coin traded around $14 and stayed silent for 15 years before moving roughly $538,000 in a single transaction.
-
-📖 [Read original article](https://decrypt.co/375839/bitcoin-wallet-untouched-15-years-life)
 
 ---
