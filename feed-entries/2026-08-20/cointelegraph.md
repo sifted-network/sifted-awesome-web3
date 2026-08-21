@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-08-20"
 date: "2026-08-20"
 source: "Cointelegraph"
-count: 16
+count: 19
 ---
 
 # Cointelegraph - 2026-08-20
 
-16 items collected.
+19 items collected.
 
 ---
 
-## 1. US debt tops $40T stoking debate on what it means for Bitcoin
+## 1. Bitcoin breaks above 200-day moving average for first time since November
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 8/20/2026, 9:03:21 PM  
+**Categories:** Markets  
+
+The BTC price reclaimed its 200-day moving average for the first time in nine months as its rally gained momentum after the US Treasury expanded its bond buybacks.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-breaks-200-day-moving-average?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. CFTC chair says agency will move forward on crypto regulation if CLARITY fails
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/20/2026, 8:56:23 PM  
+**Categories:** Latest News  
+
+Michael Selig said at a meeting of the Innovation Advisory Committee that he had directed CFTC staff to explore developer protections and other crypto-related policies.
+
+📖 [Read original article](https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Binance opens crypto trading to AI agents with user-set controls
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/20/2026, 8:26:28 PM  
+**Categories:** Latest News  
+
+Binance’s Agent OS lets AI agents access market data, execute trades and make payments while giving users control over permissions and account access.
+
+📖 [Read original article](https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 8/20/2026, 7:50:32 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. US debt tops $40T stoking debate on what it means for Bitcoin
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/20/2026, 5:43:58 PM  
@@ -23,7 +71,7 @@ Analysts say the $40 trillion debt milestone could bolster Bitcoin’s long-term
 
 ---
 
-## 2. Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1
+## 6. Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/20/2026, 4:12:00 PM  
@@ -35,7 +83,7 @@ Nine public miners generated $341 million from AI and HPC operations in the firs
 
 ---
 
-## 3. Most Americans say the Trump family’s crypto investments are not ‘appropriate’: Poll
+## 7. Most Americans say the Trump family’s crypto investments are not ‘appropriate’: Poll
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/20/2026, 3:53:51 PM  
@@ -47,7 +95,7 @@ A new poll showed 63% of 1,166 Americans varied sharply along partisan lines, wi
 
 ---
 
-## 4. Optimism moves 546.9M OP from future airdrops to ecosystem growth fund
+## 8. Optimism moves 546.9M OP from future airdrops to ecosystem growth fund
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/20/2026, 3:43:00 PM  
@@ -59,7 +107,7 @@ The governance vote redirects tokens previously reserved for user airdrops towar
 
 ---
 
-## 5. Bitcoin price reaches $72.5K as US issues ‘Economic D-Day’ threat to Iran
+## 9. Bitcoin price reaches $72.5K as US issues ‘Economic D-Day’ threat to Iran
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/20/2026, 3:40:54 PM  
@@ -71,7 +119,7 @@ Bitcoin saw new multimonth highs above $72,500 even as US stocks cooled amid US 
 
 ---
 
-## 6. MiCA cracks down on USDT in Europe... but no one else cares
+## 10. MiCA cracks down on USDT in Europe... but no one else cares
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 8/20/2026, 1:30:00 PM  
@@ -83,7 +131,7 @@ USDT is disappearing from regulated European platforms, but there is little sign
 
 ---
 
-## 7. Bitdeer signs $400M AI cloud computing deal for Malaysia facility
+## 11. Bitdeer signs $400M AI cloud computing deal for Malaysia facility
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/20/2026, 1:18:02 PM  
@@ -95,19 +143,7 @@ Bitdeer expects revenue from the five-year agreement to begin in early 2027 as i
 
 ---
 
-## 8. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/20/2026, 1:12:56 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers
+## 12. Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/20/2026, 12:35:32 PM  
@@ -119,7 +155,7 @@ Rapid7 unveiled a new cryptocurrency phishing campaign targeting 885,000 phone n
 
 ---
 
-## 10. Bitcoin ETFs draw $517M in largest one-day inflow since early May
+## 13. Bitcoin ETFs draw $517M in largest one-day inflow since early May
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/20/2026, 11:16:41 AM  
@@ -131,7 +167,7 @@ Investors have poured more than $1 billion into US spot Bitcoin ETFs this week a
 
 ---
 
-## 11. Crypto generated about 1% of Webull’s record $198M Q2 revenue
+## 14. Crypto generated about 1% of Webull’s record $198M Q2 revenue
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/20/2026, 11:05:00 AM  
@@ -143,7 +179,7 @@ While Webull reported a record $198 million in second-quarter revenue, cryptocur
 
 ---
 
-## 12. Crypto short liquidations pass $3B mark as Bitcoin price nears $72K
+## 15. Crypto short liquidations pass $3B mark as Bitcoin price nears $72K
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/20/2026, 10:03:04 AM  
@@ -155,7 +191,7 @@ Bitcoin approached $72,000 in a second day of upside as crypto short liquidation
 
 ---
 
-## 13. GnosisDAO approves Gnosis Chain for Ethereum Economic Zone
+## 16. GnosisDAO approves Gnosis Chain for Ethereum Economic Zone
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/20/2026, 8:59:40 AM  
@@ -167,7 +203,7 @@ Gnosis Chain was approved to transition to an EEZ rollup, enabling it to settle 
 
 ---
 
-## 14. BitGo Korea secures VASP registration for institutional crypto custody
+## 17. BitGo Korea secures VASP registration for institutional crypto custody
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/20/2026, 7:48:40 AM  
@@ -179,7 +215,7 @@ Regulators reportedly accepted BitGo Korea’s registration on Tuesday, two days
 
 ---
 
-## 15. HYPE jumps 20% as Trump signals legal US path for Hyperliquid
+## 18. HYPE jumps 20% as Trump signals legal US path for Hyperliquid
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/20/2026, 5:52:30 AM  
@@ -191,7 +227,7 @@ HYPE reached $72 after Trump said the CFTC was pursuing compliant US access for 
 
 ---
 
-## 16. Rushed CLARITY Act vote could set legislation back, Gallego warns
+## 19. Rushed CLARITY Act vote could set legislation back, Gallego warns
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/20/2026, 4:30:00 AM  
