@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-08-20"
 date: "2026-08-20"
 source: "CoinDesk"
-count: 15
+count: 16
 ---
 
 # CoinDesk - 2026-08-20
 
-15 items collected.
+16 items collected.
 
 ---
 
-## 1. Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist
+## 1. U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails
+
+**Author:** Jesse Hamilton  
+**Published:** 8/20/2026, 6:54:18 PM  
+**Categories:** Policy, CFTC, News  
+
+Commodity Futures Trading Commission Chairman Mike Selig told the inaugural gathering of the Innovation Advisory Committee that his agency won't sit idle.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails)
+
+---
+
+## 2. Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist
 
 **Author:** Helene Braun  
 **Published:** 8/20/2026, 4:17:32 PM  
@@ -23,7 +35,7 @@ Longtime bond market investor Mark Connors sees routine government bond buybacks
 
 ---
 
-## 2. Bitcoin's jump above $71,000 sets up bullish golden cross pattern
+## 3. Bitcoin's jump above $71,000 sets up bullish golden cross pattern
 
 **Author:** James Van Straten  
 **Published:** 8/20/2026, 3:16:12 PM  
@@ -35,7 +47,7 @@ Bitcoin’s improving momentum could produce a golden cross, but the rally still
 
 ---
 
-## 3. Crypto for Advisors: What are tokenized deposits?
+## 4. Crypto for Advisors: What are tokenized deposits?
 
 **Author:** Laurie Rosini  
 **Published:** 8/20/2026, 3:01:40 PM  
@@ -47,7 +59,7 @@ Banks are moving deposits on-chain using permissioned systems, not open ones. Se
 
 ---
 
-## 4. Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users
+## 5. Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 8/20/2026, 12:00:25 PM  
@@ -59,7 +71,7 @@ The approved plan reallocates 546.9 million OP from user airdrops to a Foundatio
 
 ---
 
-## 5. Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern
+## 6. Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern
 
 **Author:** Shaurya Malwa  
 **Published:** 8/20/2026, 11:35:47 AM  
@@ -71,7 +83,7 @@ Three hours spanning the London afternoon and New York morning account for about
 
 ---
 
-## 6. Fed liquidity promises, dollar weakness could determine bitcoin's next move
+## 7. Fed liquidity promises, dollar weakness could determine bitcoin's next move
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/20/2026, 11:31:10 AM  
@@ -83,7 +95,7 @@ Your day-ahead look for Aug. 20, 2026
 
 ---
 
-## 7. Bitcoin rally sparks debate whether Clarity Act is already priced in
+## 8. Bitcoin rally sparks debate whether Clarity Act is already priced in
 
 **Author:** Olivier Acuna  
 **Published:** 8/20/2026, 10:47:35 AM  
@@ -95,7 +107,7 @@ Erald Ghoos, OKX Europe CEO, says U.S. crypto rules could blow new life into the
 
 ---
 
-## 8. Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out
+## 9. Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out
 
 **Author:** Oliver Knight  
 **Published:** 8/20/2026, 10:46:21 AM  
@@ -107,7 +119,7 @@ Six weeks of compression ended in the largest short liquidation since at least 2
 
 ---
 
-## 9. Elon Musk's X is exploring stablecoins to pay influencers and content providers
+## 10. Elon Musk's X is exploring stablecoins to pay influencers and content providers
 
 **Author:** Ian Allison  
 **Published:** 8/20/2026, 9:40:25 AM  
@@ -119,7 +131,7 @@ Conversations with X are ongoing, according to a person who also works with othe
 
 ---
 
-## 10. BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so
+## 11. BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so
 
 **Author:** Olivier Acuna  
 **Published:** 8/20/2026, 9:25:25 AM  
@@ -131,7 +143,7 @@ Backed by Hana Financial Group and SK Telecom, BitGo Korea built a locally regis
 
 ---
 
-## 11. Bitcoin hits $72,000 as Strategy and Coinbase continue rally
+## 12. Bitcoin hits $72,000 as Strategy and Coinbase continue rally
 
 **Author:** James Van Straten  
 **Published:** 8/20/2026, 9:25:03 AM  
@@ -143,7 +155,7 @@ Bitcoin has gained 15% since monday, reclaiming several key technical and on-cha
 
 ---
 
-## 12. Live updates: Bitcoin extends gains as Bessent suggests more Treasury intervention
+## 13. Live updates: Bitcoin extends gains as Bessent suggests more Treasury intervention
 
 **Author:** Shaurya Malwa,James Van Straten,Stephen Alpher,Helene Braun  
 **Published:** 8/20/2026, 6:21:17 AM  
@@ -155,7 +167,7 @@ Markets seem likely to test the resolve of Treasury Secretary Scott Bessent's de
 
 ---
 
-## 13. Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds
+## 14. Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds
 
 **Author:** Shaurya Malwa  
 **Published:** 8/20/2026, 5:40:54 AM  
@@ -167,7 +179,7 @@ The Hyperliquid wallet known as pension-usdt.eth was forced out of a 50,000 ETH 
 
 ---
 
-## 14. Bearish crypto bets lose record $3 billion as bitcoin tops $71,000
+## 15. Bearish crypto bets lose record $3 billion as bitcoin tops $71,000
 
 **Author:** Shaurya Malwa  
 **Published:** 8/20/2026, 4:29:56 AM  
@@ -179,7 +191,7 @@ Traders betting against crypto lost $2.74 billion in a day, more than the short 
 
 ---
 
-## 15. Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally
+## 16. Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally
 
 **Author:** Shaurya Malwa  
 **Published:** 8/20/2026, 4:10:40 AM  
