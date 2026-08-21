@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-20"
 date: "2026-08-20"
 source: "Cointelegraph"
-count: 18
+count: 16
 ---
 
 # Cointelegraph - 2026-08-20
 
-18 items collected.
+16 items collected.
 
 ---
 
@@ -200,29 +200,5 @@ Gnosis Chain was approved to transition to an EEZ rollup, enabling it to settle 
 Regulators reportedly accepted BitGo Korea’s registration on Tuesday, two days before stricter VASP entry requirements took effect.
 
 📖 [Read original article](https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. HYPE jumps 20% as Trump signals legal US path for Hyperliquid
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/20/2026, 5:52:30 AM  
-**Categories:** Markets  
-
-HYPE reached $72 after Trump said the CFTC was pursuing compliant US access for Hyperliquid, though no formal regulatory plan has been released.
-
-📖 [Read original article](https://cointelegraph.com/markets/hype-price-jumps-trump-hyperliquid-us-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Rushed CLARITY Act vote could set legislation back, Gallego warns
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/20/2026, 4:30:00 AM  
-**Categories:** Latest News  
-
-Senator Ruben Gallego said the White House has not provided point-by-point feedback on a bipartisan ethics proposal as a September vote approaches.
-
-📖 [Read original article](https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
