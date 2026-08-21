@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-19"
 date: "2026-08-19"
 source: "Cointelegraph"
-count: 14
+count: 11
 ---
 
 # Cointelegraph - 2026-08-19
 
-14 items collected.
+11 items collected.
 
 ---
 
@@ -140,41 +140,5 @@ Injective’s affiliated entity can now maintain securities ownership records, a
 Apate’s 200,000 fake AI ‘victims’ are so good at scam baiting, the company has a monthly KPI for how many F-bombs scammers drop at the infuriating bots.
 
 📖 [Read original article](https://cointelegraph.com/magazine/fake-ai-victims-are-scam-baiting-600000-fraudsters-every-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. SEC regulatory proposal marks ‘important’ step forward from ‘inapt’ crypto rules: Commissioner Peirce
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/19/2026, 1:27:09 PM  
-**Categories:** Latest News  
-
-“Crypto mom” Hester Peirce praised the SEC’s proposed crypto regime, published days after the Senate failed to pass the CLARITY Act, the US’ first comprehensive industry framework.
-
-📖 [Read original article](https://cointelegraph.com/news/sec-proposal-forward-inapt-crypto-rules-commissioner-peirce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/19/2026, 12:00:00 PM  
-**Categories:** Latest News  
-
-Symbiotic’s Liquid Lane gives eligible holders immediate USDC liquidity across three Centrifuge funds managed by Janus Henderson and NYLIM.
-
-📖 [Read original article](https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Sweden’s H100 reports $26M H1 loss driven by falling Bitcoin value
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/19/2026, 11:59:30 AM  
-**Categories:** Latest News  
-
-Sweden’s H100 reported a $26 million loss for the first half of the year, as it completed its acquisitions to become Europe’s second-largest Bitcoin treasury by holdings.
-
-📖 [Read original article](https://cointelegraph.com/news/swedens-h100-26m-h1-loss-falling-bitcoin-value?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
