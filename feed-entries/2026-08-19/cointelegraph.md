@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-19"
 date: "2026-08-19"
 source: "Cointelegraph"
-count: 8
+count: 4
 ---
 
 # Cointelegraph - 2026-08-19
 
-8 items collected.
+4 items collected.
 
 ---
 
@@ -56,53 +56,5 @@ A Fairshake spokesperson said that the PAC was “just getting started“ on its
 The $1 billion facility will deploy assets backing USDe into overcollateralized institutional loans, expanding Ethena’s sources of returns beyond crypto basis strategies.
 
 📖 [Read original article](https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. OCC head promises final GENIUS rules by November
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 8/19/2026, 5:00:01 PM  
-**Categories:** Latest News  
-
-The US banking regulator released a 376‑page proposal in February, calling for public comment on rules to implement the stablecoin bill ahead of its January 2027 effective date.
-
-📖 [Read original article](https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. StanChart, HSBC execute first live transaction on Swift blockchain ledger
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 8/19/2026, 4:30:12 PM  
-**Categories:** Latest News  
-
-The transaction connected the banks’ separate tokenized deposit systems through Swift’s ledger, marking a step toward interoperable, 24/7 cross-border payments.
-
-📖 [Read original article](https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 8/19/2026, 4:00:03 PM  
-**Categories:** Markets  
-
-Bitcoin’s rebound toward $69,000 is gaining momentum as Geoff Kendrick points to improving liquidity conditions and a potential cycle bottom.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-100k-standard-chartered-treasury-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 8/19/2026, 3:50:58 PM  
-**Categories:** Latest News  
-
-The consent orders ended the CFTC’s case against two former crypto executives after FTX and Alameda agreed to $12.7 billion in disgorgement and restitution payments in August 2024.
-
-📖 [Read original article](https://cointelegraph.com/news/us-cftc-trading-ban-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
