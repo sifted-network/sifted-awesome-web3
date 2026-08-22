@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-20"
 date: "2026-08-20"
 source: "Cointelegraph"
-count: 12
+count: 11
 ---
 
 # Cointelegraph - 2026-08-20
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ Bitdeer expects revenue from the five-year agreement to begin in early 2027 as i
 Rapid7 unveiled a new cryptocurrency phishing campaign targeting 885,000 phone numbers, aiming to steal investors’ holdings by redirecting them to fake wallet provider websites.
 
 📖 [Read original article](https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Bitcoin ETFs draw $517M in largest one-day inflow since early May
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/20/2026, 11:16:41 AM  
-**Categories:** Markets  
-
-Investors have poured more than $1 billion into US spot Bitcoin ETFs this week as BTC neared $72,000 and Ether climbed 19% to about $2,286 on Thursday.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
