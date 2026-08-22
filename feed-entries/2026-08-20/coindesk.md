@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-20"
 date: "2026-08-20"
 source: "CoinDesk"
-count: 8
+count: 6
 ---
 
 # CoinDesk - 2026-08-20
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ The approved plan reallocates 546.9 million OP from user airdrops to a Foundatio
 Three hours spanning the London afternoon and New York morning account for about 23% of XRP moving onchain, up from roughly 14% a year ago.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern)
-
----
-
-## 7. Fed liquidity promises, dollar weakness could determine bitcoin's next move
-
-**Author:** Francisco Rodrigues  
-**Published:** 8/20/2026, 11:31:10 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Aug. 20, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move)
-
----
-
-## 8. Bitcoin rally sparks debate whether Clarity Act is already priced in
-
-**Author:** Olivier Acuna  
-**Published:** 8/20/2026, 10:47:35 AM  
-**Categories:** Markets, Bitcoin News, OKX, News  
-
-Erald Ghoos, OKX Europe CEO, says U.S. crypto rules could blow new life into the market amid a rotation of capital from AI back to bitcoin.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says)
 
 ---
