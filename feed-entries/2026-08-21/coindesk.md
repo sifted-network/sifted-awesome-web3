@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-08-21"
 date: "2026-08-21"
 source: "CoinDesk"
-count: 15
+count: 17
 ---
 
 # CoinDesk - 2026-08-21
 
-15 items collected.
+17 items collected.
 
 ---
 
-## 1. Ethena's ENA token surges 48%, but altcoin season will have to wait
+## 1. Crypto advocates join in suing Illinois over digital asset tax
+
+**Author:** Jesse Hamilton  
+**Published:** 8/21/2026, 10:10:28 PM  
+**Categories:** Policy, Tax, News  
+
+The Crypto Council for Innovation and the Blockchain Association added another lawsuit against the state for its recently approved 0.2% crypto tax.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax)
+
+---
+
+## 2. Pass the Clarity Act
+
+**Author:** Summer Mersinger  
+**Published:** 8/21/2026, 7:00:00 PM  
+**Categories:** Opinion, Opinion  
+
+Reopening a settled provision four weeks before a vote would sink the bill, argues Summer Mersinger, CEO of the Blockchain Association.
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act)
+
+---
+
+## 3. Ethena's ENA token surges 48%, but altcoin season will have to wait
 
 **Author:** Oliver Knight  
 **Published:** 8/21/2026, 4:10:37 PM  
@@ -23,7 +47,7 @@ ENA is rallying on a $1 billion FalconX deal, while HYPE tests its record, thoug
 
 ---
 
-## 2. Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs
+## 4. Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs
 
 **Author:** Shaurya Malwa  
 **Published:** 8/21/2026, 12:10:55 PM  
@@ -35,7 +59,7 @@ Three weeks of review turned up problems unrelated to the flaw that cost users $
 
 ---
 
-## 3. Analysts split on whether Bitcoin's surge past key levels signals a new bull run
+## 5. Analysts split on whether Bitcoin's surge past key levels signals a new bull run
 
 **Author:** Olivier Acuna  
 **Published:** 8/21/2026, 11:31:30 AM  
@@ -47,7 +71,7 @@ Market watchers say sudden sharp price spikes and forced short liquidations are 
 
 ---
 
-## 4. The hard truth is that the Clarity Act is an anti-crypto bill
+## 6. The hard truth is that the Clarity Act is an anti-crypto bill
 
 **Author:** Hermine Wong  
 **Published:** 8/21/2026, 11:30:00 AM  
@@ -59,7 +83,7 @@ After years of stalled bills, misguided enforcement, and catastrophic collapses,
 
 ---
 
-## 5. Bitcoin faces $80,000 test as thinner weekend liquidity looms
+## 7. Bitcoin faces $80,000 test as thinner weekend liquidity looms
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/21/2026, 11:26:27 AM  
@@ -71,7 +95,7 @@ Your day-ahead look for Aug. 21, 2026
 
 ---
 
-## 6. Nomura-backed Laser Digital wins Japan's first crypto approval in four years
+## 8. Nomura-backed Laser Digital wins Japan's first crypto approval in four years
 
 **Author:** Olivier Acuna  
 **Published:** 8/21/2026, 10:38:47 AM  
@@ -83,7 +107,7 @@ Laser Digital Japan will offer liquidity to domestic crypto providers, with inst
 
 ---
 
-## 7. Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride
+## 9. Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride
 
 **Author:** Oliver Knight  
 **Published:** 8/21/2026, 10:15:36 AM  
@@ -95,7 +119,7 @@ BTC has gained 24% since Monday and reached the level implied by its inverse hea
 
 ---
 
-## 8. Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.
+## 10. Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.
 
 **Author:** Omkar Godbole  
 **Published:** 8/21/2026, 9:17:15 AM  
@@ -107,7 +131,7 @@ The rally in hard assets isn’t necessarily about what the Treasury is doing, b
 
 ---
 
-## 9. Strategy sits on $1.4 billion profit on bitcoin holdings as price surges
+## 11. Strategy sits on $1.4 billion profit on bitcoin holdings as price surges
 
 **Author:** James Van Straten  
 **Published:** 8/21/2026, 8:24:52 AM  
@@ -119,9 +143,9 @@ Strategy’s common stock rose 10% in Friday pre-market trading to $120, the hig
 
 ---
 
-## 10. Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight
+## 12. Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight
 
-**Author:** Shaurya Malwa,Stephen Alpher,James Van Straten  
+**Author:** Shaurya Malwa,Stephen Alpher,James Van Straten,Helene Braun  
 **Published:** 8/21/2026, 6:43:24 AM  
 **Categories:** Tech, Live News, live_news  
 
@@ -131,7 +155,7 @@ Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million
 
 ---
 
-## 11. MANTRA token plunges 18% to record low as blockchain halts after exploit
+## 13. MANTRA token plunges 18% to record low as blockchain halts after exploit
 
 **Author:** Shaurya Malwa  
 **Published:** 8/21/2026, 5:52:27 AM  
@@ -143,7 +167,7 @@ The token touched $0.004126 minutes before the network stopped producing blocks,
 
 ---
 
-## 12. Ripple backs an RLUSD credit fund amid XRP's best week in months
+## 14. Ripple backs an RLUSD credit fund amid XRP's best week in months
 
 **Author:** Shaurya Malwa  
 **Published:** 8/21/2026, 5:29:48 AM  
@@ -155,7 +179,7 @@ Clearpool and Cicada Partners are building an institutional lending product usin
 
 ---
 
-## 13. Bitcoin, ether and solana climb as another $1 billion shorts get wiped out
+## 15. Bitcoin, ether and solana climb as another $1 billion shorts get wiped out
 
 **Author:** Shaurya Malwa  
 **Published:** 8/21/2026, 4:56:30 AM  
@@ -167,7 +191,7 @@ The two-day short liquidation total has surpassed $4 billion, with Thursday's fi
 
 ---
 
-## 14. Bitcoin pushes past $75,000 as rally continues.
+## 16. Bitcoin pushes past $75,000 as rally continues.
 
 **Author:** Stephen Alpher  
 **Published:** 8/21/2026, 1:55:50 AM  
@@ -179,7 +203,7 @@ The two-day short liquidation total has surpassed $4 billion, with Thursday's fi
 
 ---
 
-## 15. A $2 million bet on XRP volatility crosses the tape as prices surge
+## 17. A $2 million bet on XRP volatility crosses the tape as prices surge
 
 **Author:** Omkar Godbole  
 **Published:** 8/21/2026, 1:51:56 AM  
