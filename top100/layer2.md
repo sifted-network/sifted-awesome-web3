@@ -6,8 +6,8 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,561 | 2,276 | Rust | 11 | A based rollup protocol for Ethereum🥁  | 2026-08-21 |
-| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,062 | 760 | Rust | 637 | The Stacks blockchain implementation | 2026-08-20 |
+| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,561 | 2,277 | Rust | 11 | A based rollup protocol for Ethereum🥁  | 2026-08-21 |
+| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,062 | 761 | Rust | 637 | The Stacks blockchain implementation | 2026-08-21 |
 | 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,551 | 331 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
 | 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,022 | 613 | - | 1896 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
 | 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 879 | 110 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
@@ -16,10 +16,10 @@
 | 8 | [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) | 487 | 141 | C | 7 | Open source MAC Telnet client and server for connecting to Mikrotik RouterOS routers and Posix devices using MAC addresses | 2025-09-21 |
 | 9 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 470 | 52 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2023-12-24 |
 | 10 | [juno](https://github.com/NethermindEth/juno) | 446 | 239 | Go | 41 | Reliable and high performance Starknet full node implementation | 2026-08-21 |
-| 11 | [db3](https://github.com/dbpunk-labs/db3) | 385 | 44 | Rust | 18 |  a Lightweight, Permanent JSON document database | 2024-07-29 |
+| 11 | [db3](https://github.com/dbpunk-labs/db3) | 385 | 43 | Rust | 18 |  a Lightweight, Permanent JSON document database | 2024-07-29 |
 | 12 | [ChainX](https://github.com/chainx-org/ChainX) | 325 | 120 | Rust | 1 | Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM  | 2025-12-18 |
 | 13 | [blockchain-roadmap](https://github.com/itublockchain/blockchain-roadmap) | 285 | 39 | - | 0 | Blockchain öğrenme yolculuğunuz için yol haritası | 2024-10-13 |
-| 14 | [Library-of-Ethereum](https://github.com/arpitingle/Library-of-Ethereum) | 278 | 32 | - | 1 | Curated Collection of Ethereum Ecosystem Resources | 2023-12-26 |
+| 14 | [Library-of-Ethereum](https://github.com/arpitingle/Library-of-Ethereum) | 277 | 32 | - | 1 | Curated Collection of Ethereum Ecosystem Resources | 2023-12-26 |
 | 15 | [Blockchain-Developer-roadmap_Chinese](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese) | 256 | 19 | - | 0 | 区块链工程师学习路线 ｜ GitHub Star数第六项目 Develop Roadmap 区块链工程师 部分｜@Web3-Club | 2024-07-04 |
 | 16 | [tutorials](https://github.com/zkSync-Community-Hub/tutorials) | 237 | 62 | TypeScript | 0 | Tutorials submitted by the community to build on zkSync Era | 2025-02-03 |
 | 17 | [contracts](https://github.com/hop-protocol/contracts) | 232 | 84 | TypeScript | 8 | 🐰 Hop Protocol v1 smart contracts | 2025-02-26 |
@@ -37,7 +37,7 @@
 | 29 | [OB_ReturnCabin](https://github.com/Orbiter-Finance/OB_ReturnCabin) | 92 | 35 | Solidity | 1 | Orbiter Finance smart contracts | 2024-11-05 |
 | 30 | [getmac](https://github.com/GhostofGoes/getmac) | 89 | 28 | Python | 26 | Platform-independent pure-Python module to get a MAC address | 2026-08-06 |
 | 31 | [godwoken](https://github.com/godwokenrises/godwoken) | 85 | 37 | Rust | 1 | Godwoken is an optimistic rollup solution built on Nervos CKB. | 2024-04-11 |
-| 32 | [kleros-v2](https://github.com/kleros/kleros-v2) | 81 | 57 | TypeScript | 108 | Kleros arbitration protocol version 2 | 2026-08-20 |
+| 32 | [kleros-v2](https://github.com/kleros/kleros-v2) | 81 | 57 | TypeScript | 108 | Kleros arbitration protocol version 2 | 2026-08-21 |
 | 33 | [Layer2-Pivoting-Client](https://github.com/rsmudge/Layer2-Pivoting-Client) | 77 | 34 | C | 0 | A simple client to demonstrate Layer-2 pivoting. Compatible with the simpletun.c server written by Davide Brini. | 2014-10-15 |
 | 34 | [layer2](https://github.com/the-web3/layer2) | 74 | 25 | - | 0 | 最全面的 Layer2 资料汇总 | 2024-09-04 |
 | 35 | [Tiramisu](https://github.com/dharma-eng/Tiramisu) | 74 | 2 | TypeScript | 0 | Tiramisu is a "Layer Two" system for scalable token transfers that prioritizes simplicity. | 2023-02-03 |
@@ -77,9 +77,9 @@
 | 69 | [Novaichain](https://github.com/MeoMunDep/Novaichain) | 26 | 0 | Shell | 0 | Auto swap, faucet, connect wallet. | 2025-10-15 |
 | 70 | [sso](https://github.com/laincloud/sso) | 25 | 13 | Go | 3 | Single Sign On with OAuth2 and OpenID Connect, independent of LAIN | 2018-09-12 |
 | 71 | [sgn](https://github.com/celer-network/sgn) | 23 | 8 | Go | 0 | Official Go implementation of the Celer State Guardian Network (SGN) | 2023-03-07 |
-| 72 | [wireguard](https://github.com/qinghon/wireguard) | 22 | 1 | C | 0 | wireguard layer2 mode | 2026-01-23 |
-| 73 | [ndxstr-nodejs](https://github.com/OpenAgentsInc/ndxstr-nodejs) | 22 | 2 | JavaScript | 2 | Nostr indexing node proof-of-concept in NodeJS | 2023-01-29 |
-| 74 | [SuperScalar](https://github.com/8144225309/SuperScalar) | 22 | 2 | C | 9 | Implementation of SuperScalar — Bitcoin Lightning channel factories that onboard N users in one shared UTXO. No soft fork required. | 2026-08-02 |
+| 72 | [SuperScalar](https://github.com/8144225309/SuperScalar) | 23 | 2 | C | 9 | Implementation of SuperScalar — Bitcoin Lightning channel factories that onboard N users in one shared UTXO. No soft fork required. | 2026-08-02 |
+| 73 | [wireguard](https://github.com/qinghon/wireguard) | 22 | 1 | C | 0 | wireguard layer2 mode | 2026-01-23 |
+| 74 | [ndxstr-nodejs](https://github.com/OpenAgentsInc/ndxstr-nodejs) | 22 | 2 | JavaScript | 2 | Nostr indexing node proof-of-concept in NodeJS | 2023-01-29 |
 | 75 | [Layer2SpriteSheet](https://github.com/rraallvv/Layer2SpriteSheet) | 21 | 5 | JavaScript | 3 | Simple Photoshop script port of the texpack texture packer by Mariano Cuatrin (https://github.com/urraka/texpack) | 2018-08-15 |
 | 76 | [layer2_20-core](https://github.com/layer220/layer2_20-core) | 20 | 3 | - | 0 |  | 2023-12-23 |
 | 77 | [Layer2](https://github.com/kostasgrlondon/Layer2) | 20 | 0 | - | 0 |  | 2024-05-25 |
@@ -97,12 +97,12 @@
 | 89 | [arbitrum-claim-send](https://github.com/codeesura/arbitrum-claim-send) | 17 | 16 | JavaScript | 0 | This repo is designed to claim Arbitrum (ARB) tokens from a smart contract and send them to a specified recipient address. | 2023-05-22 |
 | 90 | [rewritecap](https://github.com/jordan2175/rewritecap) | 16 | 4 | Go | 0 | Tool for rebasing a PCAP file and editing layer2 and layer 3 addresses | 2020-12-30 |
 | 91 | [awesome-base](https://github.com/wbnns/awesome-base) | 16 | 68 | - | 6 | A list of Base ecosystem links including (d)apps, projects and more. Base is an Ethereum L2, incubated by Coinbase. | 2023-08-16 |
-| 92 | [Layer2-Scaling-Solutions](https://github.com/ViktorVL584/Layer2-Scaling-Solutions) | 16 | 0 | - | 0 | An in-depth exploration of Layer 2 scaling solutions like Optimistic Rollups, zk-Rollups, and sidechains. Includes code samples and implementation guides. | 2025-02-12 |
-| 93 | [Track-Pharma](https://github.com/Adesdesk/Track-Pharma) | 16 | 9 | JavaScript | 0 | Track-Pharma is a blockchain-based pharmaceutical supply-chain management project by a collaborative effort of members of Team201. | 2023-08-10 |
-| 94 | [optimistic-L2](https://github.com/nitantchhajed/optimistic-L2) | 16 | 0 | Solidity | 0 | Making L2 chain, Optimistic/zkRollup (fraud proofs/L1-L2 data transfer/challenging/ etc) | 2023-02-14 |
-| 95 | [optimism-python](https://github.com/rafalum/optimism-python) | 16 | 0 | Python | 1 | Optimism-Python: Unofficial Python Client for the OP-Stack | 2024-11-01 |
-| 96 | [DISEQ](https://github.com/Boopi7/DISEQ) | 16 | 1 | Rust | 0 | distributed sequencer with zk consensus | 2025-10-27 |
-| 97 | [sirius](https://github.com/westarlabs/sirius) | 15 | 6 | Kotlin | 4 | a blockchain layer 2 protocol implementation | 2019-03-25 |
-| 98 | [we-are-hiring](https://github.com/fluidex/we-are-hiring) | 15 | 0 | - | 1 | Join us to build a great crypto DEX! | 2021-07-05 |
-| 99 | [NICE](https://github.com/Azer0s/NICE) | 15 | 1 | C# | 0 | Network Interface Communication Emulator | 2020-04-15 |
-| 100 | [stargate](https://github.com/starcoinorg/stargate) | 14 | 5 | Rust | 21 | Stargate is the layer2 state channel protocol and implements of Starcoin | 2022-06-17 |
+| 92 | [Track-Pharma](https://github.com/Adesdesk/Track-Pharma) | 16 | 9 | JavaScript | 0 | Track-Pharma is a blockchain-based pharmaceutical supply-chain management project by a collaborative effort of members of Team201. | 2023-08-10 |
+| 93 | [optimistic-L2](https://github.com/nitantchhajed/optimistic-L2) | 16 | 0 | Solidity | 0 | Making L2 chain, Optimistic/zkRollup (fraud proofs/L1-L2 data transfer/challenging/ etc) | 2023-02-14 |
+| 94 | [optimism-python](https://github.com/rafalum/optimism-python) | 16 | 0 | Python | 1 | Optimism-Python: Unofficial Python Client for the OP-Stack | 2024-11-01 |
+| 95 | [DISEQ](https://github.com/Boopi7/DISEQ) | 16 | 1 | Rust | 0 | distributed sequencer with zk consensus | 2025-10-27 |
+| 96 | [sirius](https://github.com/westarlabs/sirius) | 15 | 6 | Kotlin | 4 | a blockchain layer 2 protocol implementation | 2019-03-25 |
+| 97 | [we-are-hiring](https://github.com/fluidex/we-are-hiring) | 15 | 0 | - | 1 | Join us to build a great crypto DEX! | 2021-07-05 |
+| 98 | [NICE](https://github.com/Azer0s/NICE) | 15 | 1 | C# | 0 | Network Interface Communication Emulator | 2020-04-15 |
+| 99 | [stargate](https://github.com/starcoinorg/stargate) | 14 | 5 | Rust | 21 | Stargate is the layer2 state channel protocol and implements of Starcoin | 2022-06-17 |
+| 100 | [t1](https://github.com/t1protocol/t1) | 14 | 9 | Solidity | 7 | Monorepo for 𝚝𝟷 | 2026-01-16 |
