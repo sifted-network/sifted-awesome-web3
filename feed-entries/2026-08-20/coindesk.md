@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-20"
 date: "2026-08-20"
 source: "CoinDesk"
-count: 10
+count: 8
 ---
 
 # CoinDesk - 2026-08-20
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Your day-ahead look for Aug. 20, 2026
 Erald Ghoos, OKX Europe CEO, says U.S. crypto rules could blow new life into the market amid a rotation of capital from AI back to bitcoin.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says)
-
----
-
-## 9. Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out
-
-**Author:** Oliver Knight  
-**Published:** 8/20/2026, 10:46:21 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Six weeks of compression ended in the largest short liquidation since at least 2021, with $3 billion of bearish bets forced to buy back into thin supply.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out)
-
----
-
-## 10. Elon Musk's X is exploring stablecoins to pay influencers and content providers
-
-**Author:** Ian Allison  
-**Published:** 8/20/2026, 9:40:25 AM  
-**Categories:** Finance, Stablecoins, News  
-
-Conversations with X are ongoing, according to a person who also works with other social media platforms testing stablecoins to pay influencers.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers)
 
 ---
