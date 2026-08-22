@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-19"
 date: "2026-08-19"
 source: "Decrypt"
-count: 12
+count: 6
 ---
 
 # Decrypt - 2026-08-19
 
-12 items collected.
+6 items collected.
 
 ---
 
@@ -80,77 +80,5 @@ The prediction market operator is seeking CFTC approval for a copper perpetual a
 The cross-chain protocol said an attacker exploited six software flaws to drain Bitcoin and other assets, sending its CACAO token plunging.
 
 📖 [Read original article](https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit)
-
----
-
-## 7. Moderna Stock Doubles on Cancer Breakthrough: Here’s What It Means
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/19/2026, 4:54:46 PM  
-**Categories:** Markets  
-
-A Phase 3 win against the standard of care sent the biotech's shares up 131% and left short sellers down $4.8 billion.
-
-📖 [Read original article](https://decrypt.co/375968/moderna-stock-doubles-cancer-vaccine)
-
----
-
-## 8. Coinbase's Base Is Betting Big on AI Agents With $1 Million Startup Accelerator
-
-**Author:** Jason Nelson  
-**Published:** 8/19/2026, 4:31:04 PM  
-**Categories:** Coins  
-
-Base is narrowing its accelerator to 10 startups as it looks for teams building AI agents, payments, trading, and financing products.
-
-📖 [Read original article](https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator)
-
----
-
-## 9. Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/19/2026, 4:10:04 PM  
-**Categories:** , Markets  
-
-A White House sitdown with crypto's biggest names and softer Fed signals lit the fuse. But the charts show why the pain for bears might not be over yet.
-
-📖 [Read original article](https://decrypt.co/375955/bitcoin-surges-70k-billion-crypto-shorts-rekt-hour)
-
----
-
-## 10. Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid
-
-**Author:** Jason Nelson  
-**Published:** 8/19/2026, 4:00:06 PM  
-**Categories:** , , Business  
-
-The Hyperliquid integration gives eligible Base App users access to more than 290 perpetual futures markets.
-
-📖 [Read original article](https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid)
-
----
-
-## 11. Morning Minute: SEC Brings Clarity to Crypto
-
-**Author:** Tyler Warner  
-**Published:** 8/19/2026, 2:30:24 PM  
-**Categories:** , , , Opinion  
-
-If the proposed rules are formalized, it could lead to an ICO boom in the U.S.
-
-📖 [Read original article](https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising)
-
----
-
-## 12. Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot
-
-**Author:** Decrypt Staff  
-**Published:** 8/19/2026, 1:31:04 PM  
-**Categories:** , Business  
-
-The Shanghai-based InsurTech firm closed a $154.7 million private placement funded entirely in crypto, with investors contributing Bitcoin directly rather than cash.
-
-📖 [Read original article](https://decrypt.co/375935/china-zhibao-bitcoin-treasury-pivot)
 
 ---
