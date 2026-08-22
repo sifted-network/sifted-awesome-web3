@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-08-21"
 date: "2026-08-21"
 source: "Cointelegraph"
-count: 14
+count: 18
 ---
 
 # Cointelegraph - 2026-08-21
 
-14 items collected.
+18 items collected.
 
 ---
 
-## 1. Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 8/21/2026, 8:48:48 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/21/2026, 8:26:16 PM  
+**Categories:** Markets  
+
+Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $20,000 of current levels, while US government purchases remain unlikely within the next two years.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/21/2026, 8:00:47 PM  
+**Categories:** Latest News  
+
+The hedge fund founder with an estimated net worth of $15 billion recommended that investors overweight Bitcoin and gold rather than bonds.
+
+📖 [Read original article](https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Onchain, in court: What happened in crypto legal news this week
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 8/21/2026, 7:19:27 PM  
+**Categories:** Latest News  
+
+The CFTC ordered a trading ban for former Alameda and FTX executives, and US prosecutors opposed a motion from a US soldier accused of profiting from the removal of Nicolas Maduro.
+
+📖 [Read original article](https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Bitcoin seeks support near $77K as BTC, gold near 100-day highs
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 8/21/2026, 7:10:47 PM  
+**Categories:** Markets  
+
+Bitcoin volatility eased after BTC hit its highest level since mid-May, while gold joined the cryptocurrency in approaching three-month highs.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/21/2026, 4:25:29 PM  
@@ -23,7 +83,7 @@ The RISE program would use the Canton Network to combine and distribute state-ad
 
 ---
 
-## 2. Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump
+## 7. Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/21/2026, 4:11:07 PM  
@@ -35,7 +95,7 @@ Bitcoin’s rally above $79,000 lifted miners and treasury companies, with Canaa
 
 ---
 
-## 3. Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher
+## 8. Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/21/2026, 3:50:08 PM  
@@ -47,7 +107,7 @@ Bitcoin rallied as Treasury bond buybacks fueled the “not-QE” trade, while M
 
 ---
 
-## 4. Solana cuts blockchain slot time to 350 milliseconds
+## 9. Solana cuts blockchain slot time to 350 milliseconds
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/21/2026, 1:45:13 PM  
@@ -59,7 +119,7 @@ Solana reduced its slot time for the first time since genesis as it works toward
 
 ---
 
-## 5. Laser Digital gets Japan’s first crypto exchange approval in 4 years
+## 10. Laser Digital gets Japan’s first crypto exchange approval in 4 years
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/21/2026, 1:08:12 PM  
@@ -71,7 +131,7 @@ Nomura-backed Laser Digital Japan received registration to provide domestic liqu
 
 ---
 
-## 6. Binance says employees questioned in UAE cleared and released
+## 11. Binance says employees questioned in UAE cleared and released
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/21/2026, 12:48:04 PM  
@@ -83,7 +143,7 @@ Binance’s employees were cleared and released after providing statements to UA
 
 ---
 
-## 7. Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’
+## 12. Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/21/2026, 11:58:10 AM  
@@ -95,7 +155,7 @@ Standard Chartered’s Geoff Kendrick said Bitcoin could move toward its $126,00
 
 ---
 
-## 8. Coldcard strengthens seed generation with firmware update
+## 13. Coldcard strengthens seed generation with firmware update
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/21/2026, 10:13:23 AM  
@@ -107,7 +167,7 @@ Coinkite urged Coldcard users to generate new seed phrases, warning that existin
 
 ---
 
-## 9. Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K
+## 14. Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/21/2026, 8:48:52 AM  
@@ -119,7 +179,7 @@ Bitcoin gains 20% in two days as Strategy sees its BTC treasury climb out of the
 
 ---
 
-## 10. Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October
+## 15. Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/21/2026, 7:50:01 AM  
@@ -131,19 +191,7 @@ Bitcoin ETF inflows pushed August’s total to a 2026 high of $2.07 billion as B
 
 ---
 
-## 11. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/21/2026, 5:53:11 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. South Korean lawmakers seek expanded FIU powers over unregistered crypto firms
+## 16. South Korean lawmakers seek expanded FIU powers over unregistered crypto firms
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/21/2026, 5:47:16 AM  
@@ -155,7 +203,7 @@ The proposal would let the FIU investigate suspected violations and refer unregi
 
 ---
 
-## 13. MANTRA token sinks 18% to record low amid blockchain halt
+## 17. MANTRA token sinks 18% to record low amid blockchain halt
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/21/2026, 5:04:52 AM  
@@ -167,7 +215,7 @@ The token recovered to about $0.0044 after setting a new low, while exchanges pa
 
 ---
 
-## 14. Capital.com plans UAE spot crypto services after affiliate wins licence
+## 18. Capital.com plans UAE spot crypto services after affiliate wins licence
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/21/2026, 3:33:11 AM  
