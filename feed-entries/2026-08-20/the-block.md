@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-20"
 date: "2026-08-20"
 source: "The Block"
-count: 6
+count: 4
 ---
 
 # The Block - 2026-08-20
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ The firm hopes that passage of the Clarity Act will help open the door for it to
 During a private Oval Office meeting, President Trump appeared “bullish” on passing the Clarity Act, one source said.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-20-inside-oval-office-meeting-trump-bullish-clarity-act-solicits-feedback-crypto-finance-ceos-412340)
-
----
-
-## 5. Bitcoin’s rally pushes past $72,000 as analysts see demand beyond historic short squeeze
-
-**Author:** Jason Shubnell  
-**Published:** 8/20/2026, 5:06:01 PM  
-**Categories:** Crypto Ecosystems, Layer 1s, Market Updates, Markets, Token Projects, Bitcoin, Crypto Movers, News  
-
-Analysts say the move is supported by spot and ETF demand, though BTC will need to hold above $70k to show the rally can outlast the squeeze.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-20-bitcoins-rally-pushes-past-72000-analysts-see-demand-beyond-historic-short-squeeze-412337)
-
----
-
-## 6. ‘Star Wars vibes:’ Chainlink’s McCormick sees AI agents, robots driving blockchain transactions
-
-**Author:** James Hunt  
-**Published:** 8/20/2026, 1:58:22 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Web3, AI, News  
-
-McCormick expects a multi-chain future as AI lowers the cost of creating new blockchain networks, increasing the need for interoperability.
-
-📖 [Read original article](https://www.theblock.co/news/web3/2026-08-20-star-wars-vibes-chainlink-mccormick-ai-agents-robots-blockchain-transactions-412327)
 
 ---
