@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-20"
 date: "2026-08-20"
 source: "CoinDesk"
-count: 6
+count: 5
 ---
 
 # CoinDesk - 2026-08-20
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ Banks are moving deposits on-chain using permissioned systems, not open ones. Se
 The approved plan reallocates 546.9 million OP from user airdrops to a Foundation-controlled Strategic Ecosystem Fund.
 
 📖 [Read original article](https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users)
-
----
-
-## 6. Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern
-
-**Author:** Shaurya Malwa  
-**Published:** 8/20/2026, 11:35:47 AM  
-**Categories:** Markets, News  
-
-Three hours spanning the London afternoon and New York morning account for about 23% of XRP moving onchain, up from roughly 14% a year ago.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern)
 
 ---
