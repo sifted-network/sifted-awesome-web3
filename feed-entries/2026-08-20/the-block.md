@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-20"
 date: "2026-08-20"
 source: "The Block"
-count: 7
+count: 6
 ---
 
 # The Block - 2026-08-20
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ Analysts say the move is supported by spot and ETF demand, though BTC will need 
 McCormick expects a multi-chain future as AI lowers the cost of creating new blockchain networks, increasing the need for interoperability.
 
 📖 [Read original article](https://www.theblock.co/news/web3/2026-08-20-star-wars-vibes-chainlink-mccormick-ai-agents-robots-blockchain-transactions-412327)
-
----
-
-## 7. OpenLedger’s Ram Kumar sees agentic payments as crypto’s first AI ‘killer app’
-
-**Author:** Brian Danga  
-**Published:** 8/20/2026, 11:34:23 AM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Web3, AI, Payments, News  
-
-OpenLedger core contributor Ram Kumar sees agentic payments as a major crypto use case as AI agents lack traditional banking access.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-20-openledger-ram-kumar-agentic-payments-crypto-ai-killer-app-412313)
 
 ---
