@@ -2,16 +2,52 @@
 title: "Decrypt - 2026-08-21"
 date: "2026-08-21"
 source: "Decrypt"
-count: 8
+count: 11
 ---
 
 # Decrypt - 2026-08-21
 
-8 items collected.
+11 items collected.
 
 ---
 
-## 1. Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings
+## 1. Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit
+
+**Author:** Jason Nelson  
+**Published:** 8/21/2026, 9:31:05 PM  
+**Categories:** , Technology  
+
+Coinkite's latest firmware requires users to add their own randomness when generating wallet seeds and fixes additional security issues uncovered during a three-week review.
+
+📖 [Read original article](https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit)
+
+---
+
+## 2. Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On
+
+**Author:** Jason Nelson  
+**Published:** 8/21/2026, 8:07:05 PM  
+**Categories:** , Markets  
+
+Institutional buying, improving macro conditions and a friendlier regulatory outlook are supporting Bitcoin's rally, while billions in short liquidations have accelerated the move.
+
+📖 [Read original article](https://decrypt.co/376244/wall-street-washington-bitcoin-rally)
+
+---
+
+## 3. Solana Just Got Faster—Is It Bullish for SOL?
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/21/2026, 6:45:01 PM  
+**Categories:** , Coins  
+
+Solana has activated the first reduction in its block timing since launch, speeding up transactions on the network.
+
+📖 [Read original article](https://decrypt.co/376245/solana-faster-bullish-sol-price)
+
+---
+
+## 4. Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings
 
 **Author:** EleanorTerrett  
 **Published:** 8/21/2026, 6:06:56 PM  
@@ -23,7 +59,7 @@ Trump urged executives to pass a "fair version" of the Clarity Act, the CFTC war
 
 ---
 
-## 2. Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies
+## 5. Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies
 
 **Author:** Jason Nelson  
 **Published:** 8/21/2026, 5:28:55 PM  
@@ -35,7 +71,7 @@ The Bitcoin treasury giant is sitting on roughly $1.4 billion in unrealized gain
 
 ---
 
-## 3. Bitcoin ETFs Just Had Their Biggest Day Since May—BlackRock Took 83% of It
+## 6. Bitcoin ETFs Just Had Their Biggest Day Since May—BlackRock Took 83% of It
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/21/2026, 4:29:01 PM  
@@ -47,7 +83,7 @@ U.S. spot Bitcoin ETFs pulled in $606 million Thursday, the biggest haul since M
 
 ---
 
-## 4. XRP Erases Its Most Bearish Signal—And the Ripple-Linked Coin Is Flying
+## 7. XRP Erases Its Most Bearish Signal—And the Ripple-Linked Coin Is Flying
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/21/2026, 3:39:02 PM  
@@ -59,7 +95,7 @@ The token spent all August trapped under a bearish crossover. Today it closed ab
 
 ---
 
-## 5. Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated
+## 8. Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated
 
 **Author:** Decrypt Staff  
 **Published:** 8/21/2026, 2:57:28 PM  
@@ -71,7 +107,7 @@ The largest cryptocurrency surged 7.9% in a day to around $77,000, triggering a 
 
 ---
 
-## 6. Morning Minute: CFTC Will Give Crypto Clarity If Congress Won’t
+## 9. Morning Minute: CFTC Will Give Crypto Clarity If Congress Won’t
 
 **Author:** Tyler Warner  
 **Published:** 8/21/2026, 2:27:31 PM  
@@ -83,7 +119,7 @@ Meanwhile crypto majors and alts continue to soar, with BTC nearing $80k and alt
 
 ---
 
-## 7. Most Americans Say Trump's Crypto Profits Cross the Line: Poll
+## 10. Most Americans Say Trump's Crypto Profits Cross the Line: Poll
 
 **Author:** Decrypt Staff  
 **Published:** 8/21/2026, 11:31:04 AM  
@@ -95,7 +131,7 @@ A Reuters/Ipsos survey found 63% of Americans view the Trump family's crypto pro
 
 ---
 
-## 8. Binance Opens the Door to AI Agents That Can Trade Crypto for You
+## 11. Binance Opens the Door to AI Agents That Can Trade Crypto for You
 
 **Author:** Decrypt Staff  
 **Published:** 8/21/2026, 9:31:05 AM  
