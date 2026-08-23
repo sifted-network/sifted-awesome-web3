@@ -6,16 +6,16 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,561 | 2,277 | Rust | 11 | A based rollup protocol for Ethereum🥁  | 2026-08-21 |
+| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,561 | 2,278 | Rust | 11 | A based rollup protocol for Ethereum🥁  | 2026-08-23 |
 | 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,062 | 761 | Rust | 637 | The Stacks blockchain implementation | 2026-08-21 |
 | 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,551 | 331 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
-| 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,022 | 613 | - | 1896 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
+| 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,023 | 613 | - | 1896 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
 | 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 879 | 110 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 6 | [starknetbook](https://github.com/starknet-edu/starknetbook) | 832 | 490 | CSS | 0 | Mastering Starknet. By the Starknet community | 2024-06-20 |
 | 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 612 | 58 | JavaScript | 14 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-08-19 |
 | 8 | [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) | 487 | 141 | C | 7 | Open source MAC Telnet client and server for connecting to Mikrotik RouterOS routers and Posix devices using MAC addresses | 2025-09-21 |
 | 9 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 470 | 52 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2023-12-24 |
-| 10 | [juno](https://github.com/NethermindEth/juno) | 446 | 239 | Go | 41 | Reliable and high performance Starknet full node implementation | 2026-08-21 |
+| 10 | [juno](https://github.com/NethermindEth/juno) | 447 | 239 | Go | 41 | Reliable and high performance Starknet full node implementation | 2026-08-21 |
 | 11 | [db3](https://github.com/dbpunk-labs/db3) | 385 | 43 | Rust | 18 |  a Lightweight, Permanent JSON document database | 2024-07-29 |
 | 12 | [ChainX](https://github.com/chainx-org/ChainX) | 325 | 120 | Rust | 1 | Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM  | 2025-12-18 |
 | 13 | [blockchain-roadmap](https://github.com/itublockchain/blockchain-roadmap) | 285 | 39 | - | 0 | Blockchain öğrenme yolculuğunuz için yol haritası | 2024-10-13 |
@@ -72,8 +72,8 @@
 | 64 | [mina-zk-rollup](https://github.com/Trivo25/mina-zk-rollup) | 30 | 2 | TypeScript | 22 | A modular zk-Rollup for zero knowledge smart contracts, zkApps, on the Mina blockchain. | 2023-04-16 |
 | 65 | [chaoschain-launchpad](https://github.com/ChaosChain/chaoschain-launchpad) | 29 | 2 | Go | 44 | A launch pad to spin chaoschain with a given configuration of AI Agents | 2025-04-21 |
 | 66 | [zxnext_layer2](https://github.com/stefanbylund/zxnext_layer2) | 28 | 6 | C | 0 | C layer 2 graphics API for Spectrum Next | 2022-07-10 |
-| 67 | [gosh](https://github.com/gosh-sh/gosh) | 28 | 6 | Shell | 0 | GOSH — Decentralized Operating System where you build consensus around your idea. GOSH is an advanced scalable multithreaded blockchain, and the first with a Freemium business model, offering powerful... | 2024-08-08 |
-| 68 | [uniswap-python-swapper](https://github.com/snarflakes/uniswap-python-swapper) | 28 | 10 | Python | 2 | Uniswap v4 Python Token Swapper – Universal Router.  A user-friendly Python script that demonstrates how to execute SWAP_EXACT_IN (Exact Input) swaps on Uniswap v4 Universal Router across various L2 n... | 2025-02-06 |
+| 67 | [uniswap-python-swapper](https://github.com/snarflakes/uniswap-python-swapper) | 28 | 10 | Python | 2 | Uniswap v4 Python Token Swapper – Universal Router.  A user-friendly Python script that demonstrates how to execute SWAP_EXACT_IN (Exact Input) swaps on Uniswap v4 Universal Router across various L2 n... | 2025-02-06 |
+| 68 | [gosh](https://github.com/gosh-sh/gosh) | 27 | 6 | Shell | 0 | GOSH — Decentralized Operating System where you build consensus around your idea. GOSH is an advanced scalable multithreaded blockchain, and the first with a Freemium business model, offering powerful... | 2024-08-08 |
 | 69 | [Novaichain](https://github.com/MeoMunDep/Novaichain) | 26 | 0 | Shell | 0 | Auto swap, faucet, connect wallet. | 2025-10-15 |
 | 70 | [sso](https://github.com/laincloud/sso) | 25 | 13 | Go | 3 | Single Sign On with OAuth2 and OpenID Connect, independent of LAIN | 2018-09-12 |
 | 71 | [sgn](https://github.com/celer-network/sgn) | 23 | 8 | Go | 0 | Official Go implementation of the Celer State Guardian Network (SGN) | 2023-03-07 |
