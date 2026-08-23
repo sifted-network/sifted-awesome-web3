@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-20"
 date: "2026-08-20"
 source: "The Block"
-count: 4
+count: 3
 ---
 
 # The Block - 2026-08-20
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Payward is expanding across banking, lending and asset management, with mortgage
 The firm hopes that passage of the Clarity Act will help open the door for it to offer tokenized products in the U.S.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-08-20-ondo-executive-says-tokenization-following-same-path-as-early-etfs-412346)
-
----
-
-## 4. Inside the Oval Office meeting: Trump appears ‘bullish’ on Clarity Act as he solicits feedback from crypto, finance CEOs
-
-**Author:** Sarah Wynn  
-**Published:** 8/20/2026, 5:44:28 PM  
-**Categories:** Companies, Exchanges, Markets, People, Policy, Public Equities, Regulation, CFTC, Coinbase, Donald Trump, Gemini, SEC, News  
-
-During a private Oval Office meeting, President Trump appeared “bullish” on passing the Clarity Act, one source said.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-20-inside-oval-office-meeting-trump-bullish-clarity-act-solicits-feedback-crypto-finance-ceos-412340)
 
 ---
