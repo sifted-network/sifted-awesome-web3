@@ -2,16 +2,28 @@
 title: "The Block - 2026-08-22"
 date: "2026-08-22"
 source: "The Block"
-count: 2
+count: 3
 ---
 
 # The Block - 2026-08-22
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push
+## 1. Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume
+
+**Author:** Zack Abrams  
+**Published:** 8/22/2026, 7:31:35 PM  
+**Categories:** Markets, News  
+
+Combined ETF weekly trading volume more than tripled to $29 billion as bitcoin and ether prices rallied, though both categories are negative on the year.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531)
+
+---
+
+## 2. Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push
 
 **Author:** Zack Abrams  
 **Published:** 8/22/2026, 5:35:27 PM  
@@ -23,7 +35,7 @@ CoinGlass recorded nearly $10 billion in 24-hour futures volume and $1.76 billio
 
 ---
 
-## 2. Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal
+## 3. Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal
 
 **Author:** Zack Abrams  
 **Published:** 8/22/2026, 3:54:13 PM  
