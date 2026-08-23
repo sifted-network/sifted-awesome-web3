@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-20"
 date: "2026-08-20"
 source: "Cointelegraph"
-count: 11
+count: 3
 ---
 
 # Cointelegraph - 2026-08-20
 
-11 items collected.
+3 items collected.
 
 ---
 
@@ -44,101 +44,5 @@ Michael Selig said at a meeting of the Innovation Advisory Committee that he had
 Binance’s Agent OS lets AI agents access market data, execute trades and make payments while giving users control over permissions and account access.
 
 📖 [Read original article](https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. US debt tops $40T stoking debate on what it means for Bitcoin
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 8/20/2026, 5:43:58 PM  
-**Categories:** Markets  
-
-Analysts say the $40 trillion debt milestone could bolster Bitcoin’s long-term case, even as Treasury yields, dollar strength and liquidity remain key near-term drivers.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 8/20/2026, 4:12:00 PM  
-**Categories:** Latest News  
-
-Nine public miners generated $341 million from AI and HPC operations in the first half of 2026 after spending more than $5 billion on capital assets.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-miners-ai-hpc-capex-revenue-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Most Americans say the Trump family’s crypto investments are not ‘appropriate’: Poll
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 8/20/2026, 3:53:51 PM  
-**Categories:** Latest News  
-
-A new poll showed 63% of 1,166 Americans varied sharply along partisan lines, with a majority of Republicans saying it was appropriate for Trump and his family to invest in crypto.
-
-📖 [Read original article](https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Optimism moves 546.9M OP from future airdrops to ecosystem growth fund
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 8/20/2026, 3:43:00 PM  
-**Categories:** Latest News  
-
-The governance vote redirects tokens previously reserved for user airdrops toward partnerships, incentives and Optimism’s growing institutional push.
-
-📖 [Read original article](https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Bitcoin price reaches $72.5K as US issues ‘Economic D-Day’ threat to Iran
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 8/20/2026, 3:40:54 PM  
-**Categories:** Markets  
-
-Bitcoin saw new multimonth highs above $72,500 even as US stocks cooled amid US threats of “economic warfare” with Iran.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threat-to-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. MiCA cracks down on USDT in Europe... but no one else cares
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 8/20/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-USDT is disappearing from regulated European platforms, but there is little sign that it has resulted in weakening global demand for Tether.
-
-📖 [Read original article](https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Bitdeer signs $400M AI cloud computing deal for Malaysia facility
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/20/2026, 1:18:02 PM  
-**Categories:** Latest News  
-
-Bitdeer expects revenue from the five-year agreement to begin in early 2027 as it builds toward 350 megawatts of AI cloud capacity by 2028.
-
-📖 [Read original article](https://cointelegraph.com/news/bitdeer-signs-400m-ai-computing-deal-malaysia-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/20/2026, 12:35:32 PM  
-**Categories:** Latest News  
-
-Rapid7 unveiled a new cryptocurrency phishing campaign targeting 885,000 phone numbers, aiming to steal investors’ holdings by redirecting them to fake wallet provider websites.
-
-📖 [Read original article](https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
