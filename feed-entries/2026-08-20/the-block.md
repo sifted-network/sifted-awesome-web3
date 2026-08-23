@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-20"
 date: "2026-08-20"
 source: "The Block"
-count: 3
+count: 2
 ---
 
 # The Block - 2026-08-20
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ A CFTC ommittee meeting exposed a sharp divide between the worlds of traditional
 Payward is expanding across banking, lending and asset management, with mortgages a future possibility.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-08-20-kraken-parent-payward-explores-becoming-a-full-bank-outside-us-412390)
-
----
-
-## 3. Ondo executive says tokenization is following the same path as early ETFs
-
-**Author:** Kyle Baird  
-**Published:** 8/20/2026, 5:53:38 PM  
-**Categories:** Companies, Crypto Ecosystems, Markets, Policy, Regulation, Web3, Tokenization, News  
-
-The firm hopes that passage of the Clarity Act will help open the door for it to offer tokenized products in the U.S.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-20-ondo-executive-says-tokenization-following-same-path-as-early-etfs-412346)
 
 ---
