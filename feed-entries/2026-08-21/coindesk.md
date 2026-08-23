@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-21"
 date: "2026-08-21"
 source: "CoinDesk"
-count: 17
+count: 15
 ---
 
 # CoinDesk - 2026-08-21
 
-17 items collected.
+15 items collected.
 
 ---
 
@@ -188,29 +188,5 @@ Clearpool and Cicada Partners are building an institutional lending product usin
 The two-day short liquidation total has surpassed $4 billion, with Thursday's figure setting a record dating back to 2021.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out)
-
----
-
-## 16. Bitcoin pushes past $75,000 as rally continues.
-
-**Author:** Stephen Alpher  
-**Published:** 8/21/2026, 1:55:50 AM  
-**Categories:** Markets, Bitcoin News, Top Stories, Breaking News, News  
-
-"Bears in pain, right now," wrote bitcoin analyst James Check.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues)
-
----
-
-## 17. A $2 million bet on XRP volatility crosses the tape as prices surge
-
-**Author:** Omkar Godbole  
-**Published:** 8/21/2026, 1:51:56 AM  
-**Categories:** Markets, XRP News, Markets, News  
-
-An options trader opened a large straddle on XRP, betting on wild price swings by Aug. 28.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge)
 
 ---
