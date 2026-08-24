@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-21"
 date: "2026-08-21"
 source: "CoinDesk"
-count: 15
+count: 14
 ---
 
 # CoinDesk - 2026-08-21
 
-15 items collected.
+14 items collected.
 
 ---
 
@@ -176,17 +176,5 @@ The token touched $0.004126 minutes before the network stopped producing blocks,
 Clearpool and Cicada Partners are building an institutional lending product using RLUSD, though the XRP Ledger features underpinning it are still awaiting activation.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months)
-
----
-
-## 15. Bitcoin, ether and solana climb as another $1 billion shorts get wiped out
-
-**Author:** Shaurya Malwa  
-**Published:** 8/21/2026, 4:56:30 AM  
-**Categories:** Markets, News  
-
-The two-day short liquidation total has surpassed $4 billion, with Thursday's figure setting a record dating back to 2021.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out)
 
 ---
