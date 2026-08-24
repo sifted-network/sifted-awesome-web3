@@ -2,28 +2,16 @@
 title: "Cointelegraph - 2026-08-21"
 date: "2026-08-21"
 source: "Cointelegraph"
-count: 18
+count: 14
 ---
 
 # Cointelegraph - 2026-08-21
 
-18 items collected.
+14 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/21/2026, 8:48:48 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC
+## 1. Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/21/2026, 8:26:16 PM  
@@ -35,7 +23,7 @@ Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $
 
 ---
 
-## 3. Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis
+## 2. Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/21/2026, 8:00:47 PM  
@@ -47,7 +35,7 @@ The hedge fund founder with an estimated net worth of $15 billion recommended th
 
 ---
 
-## 4. Onchain, in court: What happened in crypto legal news this week
+## 3. Onchain, in court: What happened in crypto legal news this week
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/21/2026, 7:19:27 PM  
@@ -59,7 +47,7 @@ The CFTC ordered a trading ban for former Alameda and FTX executives, and US pro
 
 ---
 
-## 5. Bitcoin seeks support near $77K as BTC, gold near 100-day highs
+## 4. Bitcoin seeks support near $77K as BTC, gold near 100-day highs
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/21/2026, 7:10:47 PM  
@@ -71,7 +59,7 @@ Bitcoin volatility eased after BTC hit its highest level since mid-May, while go
 
 ---
 
-## 6. Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot
+## 5. Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/21/2026, 4:25:29 PM  
@@ -83,7 +71,7 @@ The RISE program would use the Canton Network to combine and distribute state-ad
 
 ---
 
-## 7. Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump
+## 6. Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/21/2026, 4:11:07 PM  
@@ -95,7 +83,7 @@ Bitcoin’s rally above $79,000 lifted miners and treasury companies, with Canaa
 
 ---
 
-## 8. Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher
+## 7. Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/21/2026, 3:50:08 PM  
@@ -107,7 +95,7 @@ Bitcoin rallied as Treasury bond buybacks fueled the “not-QE” trade, while M
 
 ---
 
-## 9. Solana cuts blockchain slot time to 350 milliseconds
+## 8. Solana cuts blockchain slot time to 350 milliseconds
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/21/2026, 1:45:13 PM  
@@ -119,7 +107,7 @@ Solana reduced its slot time for the first time since genesis as it works toward
 
 ---
 
-## 10. Laser Digital gets Japan’s first crypto exchange approval in 4 years
+## 9. Laser Digital gets Japan’s first crypto exchange approval in 4 years
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/21/2026, 1:08:12 PM  
@@ -131,7 +119,7 @@ Nomura-backed Laser Digital Japan received registration to provide domestic liqu
 
 ---
 
-## 11. Binance says employees questioned in UAE cleared and released
+## 10. Binance says employees questioned in UAE cleared and released
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/21/2026, 12:48:04 PM  
@@ -143,7 +131,7 @@ Binance’s employees were cleared and released after providing statements to UA
 
 ---
 
-## 12. Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’
+## 11. Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/21/2026, 11:58:10 AM  
@@ -155,7 +143,7 @@ Standard Chartered’s Geoff Kendrick said Bitcoin could move toward its $126,00
 
 ---
 
-## 13. Coldcard strengthens seed generation with firmware update
+## 12. Coldcard strengthens seed generation with firmware update
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/21/2026, 10:13:23 AM  
@@ -167,7 +155,7 @@ Coinkite urged Coldcard users to generate new seed phrases, warning that existin
 
 ---
 
-## 14. Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K
+## 13. Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/21/2026, 8:48:52 AM  
@@ -179,7 +167,7 @@ Bitcoin gains 20% in two days as Strategy sees its BTC treasury climb out of the
 
 ---
 
-## 15. Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October
+## 14. Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/21/2026, 7:50:01 AM  
@@ -188,41 +176,5 @@ Bitcoin gains 20% in two days as Strategy sees its BTC treasury climb out of the
 Bitcoin ETF inflows pushed August’s total to a 2026 high of $2.07 billion as Bitcoin traded above $75,000 and Ether climbed to $2,357.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etfs-ether-etfs-largest-inflow-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. South Korean lawmakers seek expanded FIU powers over unregistered crypto firms
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/21/2026, 5:47:16 AM  
-**Categories:** Latest News  
-
-The proposal would let the FIU investigate suspected violations and refer unregistered crypto operators directly to law enforcement.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. MANTRA token sinks 18% to record low amid blockchain halt
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/21/2026, 5:04:52 AM  
-**Categories:** Markets  
-
-The token recovered to about $0.0044 after setting a new low, while exchanges paused deposits and withdrawals from the halted MANTRA Chain.
-
-📖 [Read original article](https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Capital.com plans UAE spot crypto services after affiliate wins licence
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/21/2026, 3:33:11 AM  
-**Categories:** Latest News  
-
-UAE clients will be able to buy and hold crypto through Capital.com’s app, expanding beyond price exposure through contracts for difference.
-
-📖 [Read original article](https://cointelegraph.com/news/capital-com-uae-spot-crypto-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
