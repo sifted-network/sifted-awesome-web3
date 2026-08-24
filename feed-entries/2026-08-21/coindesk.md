@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-21"
 date: "2026-08-21"
 source: "CoinDesk"
-count: 14
+count: 9
 ---
 
 # CoinDesk - 2026-08-21
 
-14 items collected.
+9 items collected.
 
 ---
 
@@ -116,65 +116,5 @@ Laser Digital Japan will offer liquidity to domestic crypto providers, with inst
 BTC has gained 24% since Monday and reached the level implied by its inverse head-and-shoulders break, with shorts still taking a contrarian position.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride)
-
----
-
-## 10. Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.
-
-**Author:** Omkar Godbole  
-**Published:** 8/21/2026, 9:17:15 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-The rally in hard assets isn’t necessarily about what the Treasury is doing, but what its move signals to the market.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why)
-
----
-
-## 11. Strategy sits on $1.4 billion profit on bitcoin holdings as price surges
-
-**Author:** James Van Straten  
-**Published:** 8/21/2026, 8:24:52 AM  
-**Categories:** Markets, Bitcoin News, MicroStrategy, News  
-
-Strategy’s common stock rose 10% in Friday pre-market trading to $120, the highest level in two months.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/21/strategy-sits-on-usd1-4-billion-profit-on-bitcoin-holdings-as-price-surges)
-
----
-
-## 12. Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight
-
-**Author:** Shaurya Malwa,Stephen Alpher,James Van Straten,Helene Braun  
-**Published:** 8/21/2026, 6:43:24 AM  
-**Categories:** Tech, Live News, live_news  
-
-Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day)
-
----
-
-## 13. MANTRA token plunges 18% to record low as blockchain halts after exploit
-
-**Author:** Shaurya Malwa  
-**Published:** 8/21/2026, 5:52:27 AM  
-**Categories:** Tech, News  
-
-The token touched $0.004126 minutes before the network stopped producing blocks, while MANTRA later said an attacker exploited a vulnerability in software used by the chain.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit)
-
----
-
-## 14. Ripple backs an RLUSD credit fund amid XRP's best week in months
-
-**Author:** Shaurya Malwa  
-**Published:** 8/21/2026, 5:29:48 AM  
-**Categories:** Markets, News  
-
-Clearpool and Cicada Partners are building an institutional lending product using RLUSD, though the XRP Ledger features underpinning it are still awaiting activation.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months)
 
 ---
