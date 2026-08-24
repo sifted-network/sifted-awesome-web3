@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-08-23"
 date: "2026-08-23"
 source: "CoinDesk"
-count: 3
+count: 4
 ---
 
 # CoinDesk - 2026-08-23
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes
+## 1. Regulation Crypto is here: State of Crypto
+
+**Author:** Nikhilesh De  
+**Published:** 8/23/2026, 6:30:00 PM  
+**Categories:** Policy, Newsletters, State of Crypto, News  
+
+The SEC published its Reg Crypto proposal last week, giving the public 60 days to comment.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto)
+
+---
+
+## 2. XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes
 
 **Author:** Omkar Godbole  
 **Published:** 8/23/2026, 3:52:21 PM  
@@ -23,7 +35,7 @@ XRP’s price has surged by 50% this week, the best performance since November 2
 
 ---
 
-## 2. Crypto card spending tops $1 billion as stablecoins move into everyday purchases
+## 3. Crypto card spending tops $1 billion as stablecoins move into everyday purchases
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/23/2026, 3:00:00 PM  
@@ -35,7 +47,7 @@ Tracked card volume more than tripled in a year, with USDC and USDT funding over
 
 ---
 
-## 3. Crypto’s next billion users might be AI agents, and they’re paying with stablecoins
+## 4. Crypto’s next billion users might be AI agents, and they’re paying with stablecoins
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/23/2026, 1:00:00 PM  
