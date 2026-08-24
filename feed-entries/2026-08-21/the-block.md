@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-21"
 date: "2026-08-21"
 source: "The Block"
-count: 13
+count: 10
 ---
 
 # The Block - 2026-08-21
 
-13 items collected.
+10 items collected.
 
 ---
 
@@ -128,41 +128,5 @@ Ava Labs CBO John Nahas says crypto prices are down, but real-world adoption is 
 The firm has built an agentic banking platform with a 'know-your-agent' setup to facilitate AI-driven transactions.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-08-21-anchorage-ceo-ai-the-jetsons-412427)
-
----
-
-## 11. South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance
-
-**Author:** Danny Park  
-**Published:** 8/21/2026, 6:32:48 AM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Finance firms, Layer 1s, Markets, Policy, Regulation, Token Projects, Solana, TradFi banks, News  
-
-The agreement covers a proof-of-concept for the issuance and distribution of a Korean won-denominated tokenized fund.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420)
-
----
-
-## 12. MANTRA freezes all transactions and network following incident
-
-**Author:** Danny Park and James Hunt  
-**Published:** 8/21/2026, 4:47:29 AM  
-**Categories:** Crypto Ecosystems, DeFi, Web3, News  
-
-MANTRA Chain halted the network and all transactions after discovering an incident related to its Cosmos EVM module.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416)
-
----
-
-## 13. Bitcoin breaks through $75,500 while analyst calls current rally ‘premature’
-
-**Author:** Danny Park  
-**Published:** 8/21/2026, 2:22:44 AM  
-**Categories:** Markets, News  
-
-Shawn Young, chief analyst at MEXC Research, said that the crypto market is giving Treasury's intervention 'more credit than it deserves.'
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-20-bitcoin-breaks-through-75500-412404)
 
 ---
