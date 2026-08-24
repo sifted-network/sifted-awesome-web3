@@ -2,16 +2,64 @@
 title: "CoinDesk - 2026-08-24"
 date: "2026-08-24"
 source: "CoinDesk"
-count: 16
+count: 20
 ---
 
 # CoinDesk - 2026-08-24
 
-16 items collected.
+20 items collected.
 
 ---
 
-## 1. Strategy raises $2 billion through MSTR sales and creates new USD Cash pool
+## 1. Crypto political group details list of U.S. congressional allies its backing this year
+
+**Author:** Jesse Hamilton  
+**Published:** 8/24/2026, 5:30:10 PM  
+**Categories:** Policy, Election 2026, PACs, News  
+
+Stand With Crypto, a member group that rates the crypto friendliness of politicians, is supporting 32 U.S. House incumbents, with more endorsements coming.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year)
+
+---
+
+## 2. Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain
+
+**Author:** Krisztian Sandor  
+**Published:** 8/24/2026, 5:12:35 PM  
+**Categories:** Finance, Tokenization, Coinbase, News  
+
+The crypto exchange is starting with tokenized versions of Apple, Nvidia, Meta and Alphabet, issued under its new Abu Dhabi framework.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain)
+
+---
+
+## 3. Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July
+
+**Author:** Krisztian Sandor  
+**Published:** 8/24/2026, 12:59:55 PM  
+**Categories:** Finance, Ethereum News, Digital Asset Treasury, News  
+
+The treasury firm stepped up its ETH buying as Tom Lee said the crypto’s 30% weekly rally could signal a larger move ahead.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)
+
+---
+
+## 4. New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation
+
+**Author:** Shaurya Malwa  
+**Published:** 8/24/2026, 12:52:30 PM  
+**Categories:** Tech, News  
+
+Two of the three proposals would reduce SOL supply growth by speeding up Solana’s inflation decline and raising daily fee burns from about 650 SOL to as much as 9,000 SOL.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation)
+
+---
+
+## 5. Strategy raises $2 billion through MSTR sales and creates new USD Cash pool
 
 **Author:** James Van Straten  
 **Published:** 8/24/2026, 12:24:58 PM  
@@ -23,7 +71,7 @@ The company sold 18.26 million MSTR shares, increased its USD Reserve to $5.1 bi
 
 ---
 
-## 2. Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin
+## 6. Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin
 
 **Author:** Olivier Acuna  
 **Published:** 8/24/2026, 11:36:55 AM  
@@ -35,7 +83,7 @@ The London-based multinational bank with $850 billion in assets announced it wil
 
 ---
 
-## 3. Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline
+## 7. Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline
 
 **Author:** Jamie Crawley  
 **Published:** 8/24/2026, 11:19:16 AM  
@@ -47,7 +95,7 @@ PVARA said companies have until the deadline to submit their application for a n
 
 ---
 
-## 4. Financial repression: The new buzzword for bitcoin bulls
+## 8. Financial repression: The new buzzword for bitcoin bulls
 
 **Author:** Omkar Godbole  
 **Published:** 8/24/2026, 11:15:00 AM  
@@ -59,7 +107,7 @@ Your day-ahead look for Aug. 24, 2026
 
 ---
 
-## 5. Gemini strikes Apex deal to widen prediction markets reach
+## 9. Gemini strikes Apex deal to widen prediction markets reach
 
 **Author:** Will Canny  
 **Published:** 8/24/2026, 10:55:00 AM  
@@ -71,7 +119,7 @@ The planned tie-up would make Gemini the exclusive CFTC-regulated venue for cryp
 
 ---
 
-## 6. Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years
+## 10. Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 8/24/2026, 10:41:46 AM  
@@ -83,7 +131,7 @@ BTC was little changed Monday after last week's 24% surge triggered by a Treasur
 
 ---
 
-## 7. Fed experiment shows how bitcoin rallies attract new crypto buyers
+## 11. Fed experiment shows how bitcoin rallies attract new crypto buyers
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 8/24/2026, 9:56:17 AM  
@@ -95,7 +143,7 @@ Households shown bitcoin’s prior-year return were 23% more likely to report ow
 
 ---
 
-## 8. Crypto roars back as bitcoin posts its second-best week since early 2021
+## 12. Crypto roars back as bitcoin posts its second-best week since early 2021
 
 **Author:** James Van Straten  
 **Published:** 8/24/2026, 8:28:14 AM  
@@ -107,7 +155,7 @@ Treasury buybacks, ETF inflows and a weaker dollar ignite crypto’s breakout.
 
 ---
 
-## 9. Jackson Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead
+## 13. Jackson Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/24/2026, 8:16:29 AM  
@@ -119,9 +167,9 @@ Your look at what's coming in the week starting Aug. 24
 
 ---
 
-## 10. Live updates: Bitcoin climbs past $78,000 early Monday, with gold topping $4,700
+## 14. Live updates: Bitcoin retreats after nearing $80,000, with analysts eyeing breather after big run
 
-**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole  
+**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Stephen Alpher,Krisztian Sandor,Helene Braun  
 **Published:** 8/24/2026, 8:05:57 AM  
 **Categories:** Finance, Live News, live_news  
 
@@ -131,7 +179,7 @@ With bond yields still near multi-year highs, focus turns to Fed Chair Kevin War
 
 ---
 
-## 11. Ether is crushing bitcoin and the 'golden cross' says it may not be done yet
+## 15. Ether is crushing bitcoin and the 'golden cross' says it may not be done yet
 
 **Author:** Omkar Godbole  
 **Published:** 8/24/2026, 6:50:58 AM  
@@ -143,7 +191,7 @@ The ETH/BTC ratio has recently formed a bullish golden cross, suggesting ether c
 
 ---
 
-## 12. Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power
+## 16. Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power
 
 **Author:** Shaurya Malwa  
 **Published:** 8/24/2026, 6:27:33 AM  
@@ -155,7 +203,7 @@ The exploit shows how lightly held voting tokens can become a means of attack wh
 
 ---
 
-## 13. Ray Dalio says investors should own ‘a bit of Bitcoin’ as U.S. debt risks rise
+## 17. Ray Dalio says investors should own ‘a bit of Bitcoin’ as U.S. debt risks rise
 
 **Author:** Shaurya Malwa  
 **Published:** 8/24/2026, 5:13:19 AM  
@@ -167,7 +215,7 @@ The Bridgewater founder says recent Treasury-market stress fits his long-running
 
 ---
 
-## 14. Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.
+## 18. Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.
 
 **Author:** Omkar Godbole  
 **Published:** 8/24/2026, 5:12:56 AM  
@@ -179,7 +227,7 @@ Bessent’s bond-buyback plan fails to curb Treasury yields. Here's what it mean
 
 ---
 
-## 15. Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push
+## 19. Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push
 
 **Author:** Krisztian Sandor  
 **Published:** 8/24/2026, 4:45:00 AM  
@@ -191,7 +239,7 @@ The firm raised $68 million as its revenue has grown six-fold as stablecoin paym
 
 ---
 
-## 16. Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus
+## 20. Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus
 
 **Author:** Shaurya Malwa  
 **Published:** 8/24/2026, 4:41:28 AM  
