@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-21"
 date: "2026-08-21"
 source: "Cointelegraph"
-count: 14
+count: 10
 ---
 
 # Cointelegraph - 2026-08-21
 
-14 items collected.
+10 items collected.
 
 ---
 
@@ -128,53 +128,5 @@ Nomura-backed Laser Digital Japan received registration to provide domestic liqu
 Binance’s employees were cleared and released after providing statements to UAE authorities about third-party fund flows through a company client account, a spokesperson told Cointelegraph.
 
 📖 [Read original article](https://cointelegraph.com/news/binance-employees-questioned-uae-released?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/21/2026, 11:58:10 AM  
-**Categories:** Latest News  
-
-Standard Chartered’s Geoff Kendrick said Bitcoin could move toward its $126,000 all-time high after Oct. 6 as spot Bitcoin ETF inflows recover.
-
-📖 [Read original article](https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Coldcard strengthens seed generation with firmware update
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/21/2026, 10:13:23 AM  
-**Categories:** Latest News  
-
-Coinkite urged Coldcard users to generate new seed phrases, warning that existing vulnerable seeds remain unsafe despite the security upgrade.
-
-📖 [Read original article](https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 8/21/2026, 8:48:52 AM  
-**Categories:** Markets  
-
-Bitcoin gains 20% in two days as Strategy sees its BTC treasury climb out of the red.
-
-📖 [Read original article](https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/21/2026, 7:50:01 AM  
-**Categories:** Markets  
-
-Bitcoin ETF inflows pushed August’s total to a 2026 high of $2.07 billion as Bitcoin traded above $75,000 and Ether climbed to $2,357.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etfs-ether-etfs-largest-inflow-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
