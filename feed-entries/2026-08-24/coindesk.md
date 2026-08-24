@@ -2,20 +2,152 @@
 title: "CoinDesk - 2026-08-24"
 date: "2026-08-24"
 source: "CoinDesk"
-count: 5
+count: 16
 ---
 
 # CoinDesk - 2026-08-24
 
-5 items collected.
+16 items collected.
 
 ---
 
-## 1. Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power
+## 1. Strategy raises $2 billion through MSTR sales and creates new USD Cash pool
+
+**Author:** James Van Straten  
+**Published:** 8/24/2026, 12:24:58 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+The company sold 18.26 million MSTR shares, increased its USD Reserve to $5.1 billion and repurchased another $136.4 million of STRC.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool)
+
+---
+
+## 2. Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin
+
+**Author:** Olivier Acuna  
+**Published:** 8/24/2026, 11:36:55 AM  
+**Categories:** Finance, Standard chartered, Stablecoins, Hong Kong, News  
+
+The London-based multinational bank with $850 billion in assets announced it will distribute Anchorpoint's HKDAP to eligible clients and partners.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin)
+
+---
+
+## 3. Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline
+
+**Author:** Jamie Crawley  
+**Published:** 8/24/2026, 11:19:16 AM  
+**Categories:** Policy, Pakistan, News  
+
+PVARA said companies have until the deadline to submit their application for a no-objection certificate or otherwise cease operating.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline)
+
+---
+
+## 4. Financial repression: The new buzzword for bitcoin bulls
+
+**Author:** Omkar Godbole  
+**Published:** 8/24/2026, 11:15:00 AM  
+**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
+
+Your day-ahead look for Aug. 24, 2026
+
+📖 [Read original article](https://www.coindesk.com/daybook-us/2026/08/24/financial-repression-the-new-buzzword-for-bitcoin-bulls)
+
+---
+
+## 5. Gemini strikes Apex deal to widen prediction markets reach
+
+**Author:** Will Canny  
+**Published:** 8/24/2026, 10:55:00 AM  
+**Categories:** Finance, Gemini, Prediction Markets, Winklevoss, Exclusive, News  
+
+The planned tie-up would make Gemini the exclusive CFTC-regulated venue for crypto event contracts offered through Apex’s futures commission merchant.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach)
+
+---
+
+## 6. Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years
+
+**Author:** Oliver Knight,Omkar Godbole  
+**Published:** 8/24/2026, 10:41:46 AM  
+**Categories:** Markets, Crypto Markets Today, News  
+
+BTC was little changed Monday after last week's 24% surge triggered by a Treasury buyback announcement that squeezed over $3 billion in shorts.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years)
+
+---
+
+## 7. Fed experiment shows how bitcoin rallies attract new crypto buyers
+
+**Author:** Francisco Rodrigues,AI Boost  
+**Published:** 8/24/2026, 9:56:17 AM  
+**Categories:** Markets, Bitcoin News, News  
+
+Households shown bitcoin’s prior-year return were 23% more likely to report owning crypto in a follow-up survey.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers)
+
+---
+
+## 8. Crypto roars back as bitcoin posts its second-best week since early 2021
+
+**Author:** James Van Straten  
+**Published:** 8/24/2026, 8:28:14 AM  
+**Categories:** Markets, Bitcoin News, News  
+
+Treasury buybacks, ETF inflows and a weaker dollar ignite crypto’s breakout.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021)
+
+---
+
+## 9. Jackson Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead
+
+**Author:** Francisco Rodrigues  
+**Published:** 8/24/2026, 8:16:29 AM  
+**Categories:** Markets, week ahead, News  
+
+Your look at what's coming in the week starting Aug. 24
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/jackson-hole-symposium-u-s-pce-prices-iren-earnings-crypto-week-ahead)
+
+---
+
+## 10. Live updates: Bitcoin climbs past $78,000 early Monday, with gold topping $4,700
+
+**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole  
+**Published:** 8/24/2026, 8:05:57 AM  
+**Categories:** Finance, Live News, live_news  
+
+With bond yields still near multi-year highs, focus turns to Fed Chair Kevin Warsh's upcoming Jackson Hole address.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally)
+
+---
+
+## 11. Ether is crushing bitcoin and the 'golden cross' says it may not be done yet
+
+**Author:** Omkar Godbole  
+**Published:** 8/24/2026, 6:50:58 AM  
+**Categories:** Markets, ETH, Technical Analysis, News  
+
+The ETH/BTC ratio has recently formed a bullish golden cross, suggesting ether could extend its outperformance against bitcoin.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet)
+
+---
+
+## 12. Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power
 
 **Author:** Shaurya Malwa  
 **Published:** 8/24/2026, 6:27:33 AM  
-**Categories:** Markets, News  
+**Categories:** Markets, Hack, News  
 
 The exploit shows how lightly held voting tokens can become a means of attack when control of a protocol is cheaper than the assets it governs.
 
@@ -23,7 +155,7 @@ The exploit shows how lightly held voting tokens can become a means of attack wh
 
 ---
 
-## 2. Ray Dalio says investors should own ‘a bit of Bitcoin’ as U.S. debt risks rise
+## 13. Ray Dalio says investors should own ‘a bit of Bitcoin’ as U.S. debt risks rise
 
 **Author:** Shaurya Malwa  
 **Published:** 8/24/2026, 5:13:19 AM  
@@ -35,7 +167,7 @@ The Bridgewater founder says recent Treasury-market stress fits his long-running
 
 ---
 
-## 3. Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.
+## 14. Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.
 
 **Author:** Omkar Godbole  
 **Published:** 8/24/2026, 5:12:56 AM  
@@ -47,7 +179,7 @@ Bessent’s bond-buyback plan fails to curb Treasury yields. Here's what it mean
 
 ---
 
-## 4. Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push
+## 15. Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push
 
 **Author:** Krisztian Sandor  
 **Published:** 8/24/2026, 4:45:00 AM  
@@ -59,7 +191,7 @@ The firm raised $68 million as its revenue has grown six-fold as stablecoin paym
 
 ---
 
-## 5. Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus
+## 16. Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus
 
 **Author:** Shaurya Malwa  
 **Published:** 8/24/2026, 4:41:28 AM  
