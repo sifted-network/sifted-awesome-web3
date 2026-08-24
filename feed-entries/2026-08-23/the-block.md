@@ -2,16 +2,28 @@
 title: "The Block - 2026-08-23"
 date: "2026-08-23"
 source: "The Block"
-count: 1
+count: 2
 ---
 
 # The Block - 2026-08-23
 
-1 items collected.
+2 items collected.
 
 ---
 
-## 1. Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters
+## 1. DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit
+
+**Author:** Zack Abrams  
+**Published:** 8/23/2026, 8:50:45 PM  
+**Categories:** Crypto Ecosystems, DeFi, News  
+
+Term vault proposals face a seven-day delay and can be vetoed by liquidity providers, yet those controls apparently did not stop the exploit.
+
+📖 [Read original article](https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543)
+
+---
+
+## 2. Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters
 
 **Author:** Zack Abrams  
 **Published:** 8/23/2026, 5:02:20 PM  
