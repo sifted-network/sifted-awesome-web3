@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-24"
 date: "2026-08-24"
 source: "Cointelegraph"
-count: 21
+count: 18
 ---
 
 # Cointelegraph - 2026-08-24
 
-21 items collected.
+18 items collected.
 
 ---
 
@@ -224,41 +224,5 @@ US spot Bitcoin ETFs attracted $1.92 billion last week, their strongest weekly i
 Participating banks will test post-quantum wallets and onchain transfers while regulators from Abu Dhabi, Bhutan and Malta initially observe.
 
 📖 [Read original article](https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/24/2026, 5:17:57 AM  
-**Categories:** Latest News  
-
-Existing virtual asset providers must apply for an NOC by Sept. 5 or cease operations under Pakistan’s new regulatory framework.
-
-📖 [Read original article](https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Term Finance loses estimated $8.5M in vault governance exploit
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/24/2026, 3:59:29 AM  
-**Categories:** Latest News  
-
-Term permanently closed its Meta Vaults after an attack reportedly removed nearly all of their Ethereum deposits.
-
-📖 [Read original article](https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest
-
-**Author:** Cointelegraph by Andrew Fenton  
-**Published:** 8/24/2026, 12:00:00 AM  
-**Categories:** Magazine  
-
-The US may face a debt crisis within three years according to Ray Dalio, and debt-related issues helped fuel a rally in Bitcoin that could mark the beginning of a new cycle.
-
-📖 [Read original article](https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
