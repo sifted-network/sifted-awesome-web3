@@ -2,16 +2,64 @@
 title: "The Block - 2026-08-25"
 date: "2026-08-25"
 source: "The Block"
-count: 5
+count: 9
 ---
 
 # The Block - 2026-08-25
 
-5 items collected.
+9 items collected.
 
 ---
 
-## 1. Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction
+## 1. Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line
+
+**Author:** Jason Shubnell  
+**Published:** 8/25/2026, 4:03:42 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Finance firms, Markets, Fintech, Lending, News  
+
+The crypto-backed portfolio line of credit lets eligible GalaxyOne clients borrow cash against BTC, ETH & SOL without selling their holdings.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718)
+
+---
+
+## 2. Bitwise launches automated tokenized stock portfolios for Mag 7, AI and robotics themes
+
+**Author:** Jason Shubnell  
+**Published:** 8/25/2026, 2:16:26 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Institutional Investors, Markets, Web3, Asset Managers, Tokenization, News  
+
+The portfolios, powered by Coinbase and implemented through Glider, will initially target themes including the Mag 7 and AI.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-08-25-bitwise-launches-automated-tokenized-stock-portfolios-for-mag-7-ai-and-robotics-themes-412706)
+
+---
+
+## 3. Robinhood Chain DEX Arcus launches pTokens to turn perp accounts into transferable ERC-20s
+
+**Author:** James Hunt  
+**Published:** 8/25/2026, 2:00:00 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Markets, Public Equities, Robinhood, News  
+
+Each pToken represents a pro-rata ownership stake in an underlying Arcus perpetuals account at a fixed market and leverage level.
+
+📖 [Read original article](https://www.theblock.co/news/defi/2026-08-25-robinhood-chain-dex-arcus-ptokens-perps-erc-20s-412696)
+
+---
+
+## 4. Grayscale debuts first Zcash ETF of its kind as privacy coin surges
+
+**Author:** Sarah Wynn  
+**Published:** 8/25/2026, 12:00:00 PM  
+**Categories:** Markets, Policy, Regulation, SEC, News  
+
+On Tuesday morning, Grayscale launched the first ETF to offer direct exposure to Zcash, the privacy-focused cryptocurrency.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-25-grayscale-debuts-zcash-etf-412654)
+
+---
+
+## 5. Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction
 
 **Author:** Brian Danga  
 **Published:** 8/25/2026, 7:53:23 AM  
@@ -23,7 +71,7 @@ A federal jury convicted Las Vegas businessman Brent Kovar in a $24 million cryp
 
 ---
 
-## 2. Bitcoin holds above $80,000 backed by ETF flows; bull market case ‘early but optimistic,’ analyst says
+## 6. Bitcoin holds above $80,000 backed by ETF flows; bull market case ‘early but optimistic,’ analyst says
 
 **Author:** Danny Park  
 **Published:** 8/25/2026, 6:46:31 AM  
@@ -35,7 +83,7 @@ Analysts say it's still too early to tell if this will translate into a bull mar
 
 ---
 
-## 3. Franklin Templeton partners with HashKey to offer tokenized money market fund in Asia
+## 7. Franklin Templeton partners with HashKey to offer tokenized money market fund in Asia
 
 **Author:** Timmy Shen  
 **Published:** 8/25/2026, 6:39:12 AM  
@@ -47,7 +95,7 @@ HashKey said it has launched the Franklin OnChain US Government Liquidity Fund o
 
 ---
 
-## 4. Blockchain Association backs Treasury’s proposed GENIUS Act rules for stablecoin issuers
+## 8. Blockchain Association backs Treasury’s proposed GENIUS Act rules for stablecoin issuers
 
 **Author:** Timmy Shen  
 **Published:** 8/25/2026, 5:24:15 AM  
@@ -59,7 +107,7 @@ It backs limiting client ID requirements to direct issuer-customer transactions 
 
 ---
 
-## 5. San Francisco-based gaming founder convicted of operating fraudulent crypto trading fund
+## 9. San Francisco-based gaming founder convicted of operating fraudulent crypto trading fund
 
 **Author:** Danny Park  
 **Published:** 8/25/2026, 2:08:02 AM  
