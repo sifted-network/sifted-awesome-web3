@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-24"
 date: "2026-08-24"
 source: "Cointelegraph"
-count: 22
+count: 21
 ---
 
 # Cointelegraph - 2026-08-24
 
-22 items collected.
+21 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ USDC supply increased by roughly $2 billion in seven days, with Bernstein citing
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/24/2026, 7:58:34 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Coinbase-affiliated advocacy group endorses candidates for US midterms
+## 4. Coinbase-affiliated advocacy group endorses candidates for US midterms
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/24/2026, 7:18:06 PM  
@@ -71,7 +59,7 @@ With just over two months until the US general election, Stand With Crypto annou
 
 ---
 
-## 6. Coinbase tokenized stocks go live on Base with Chainlink price feeds
+## 5. Coinbase tokenized stocks go live on Base with Chainlink price feeds
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/24/2026, 7:11:48 PM  
@@ -83,7 +71,7 @@ Coinbase’s B20 equities bring stocks including Apple and Nvidia onchain, allow
 
 ---
 
-## 7. Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M
+## 6. Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/24/2026, 5:48:44 PM  
@@ -95,7 +83,7 @@ As BTC tops $80,000 for the first time since May, price analysis warns that the 
 
 ---
 
-## 8. Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%
+## 7. Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/24/2026, 4:44:55 PM  
@@ -107,7 +95,7 @@ Strive’s Nasdaq-traded shares surged more than 11% as the Bitcoin treasury com
 
 ---
 
-## 9. Crypto advocacy groups oppose Illinois digital asset tax in court
+## 8. Crypto advocacy groups oppose Illinois digital asset tax in court
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/24/2026, 4:05:48 PM  
@@ -119,7 +107,7 @@ Following a similar lawsuit filed by the Digital Chamber in July, two digital as
 
 ---
 
-## 10. Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K
+## 9. Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/24/2026, 3:29:26 PM  
@@ -131,7 +119,7 @@ Ether’s breakout above $2,500 has put the spotlight back on corporate ETH trea
 
 ---
 
-## 11. Zondacrypto boss seeks leniency for testimony on political ties: Report
+## 10. Zondacrypto boss seeks leniency for testimony on political ties: Report
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/24/2026, 2:00:51 PM  
@@ -143,7 +131,7 @@ Przemysław Kral reportedly faces a fraud charge and is cooperating with Polish 
 
 ---
 
-## 12. Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K
+## 11. Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 8/24/2026, 1:30:00 PM  
@@ -155,7 +143,7 @@ Bitget CEO Gracy Chen doesn’t believe the current Bitcoin rally is sustainable
 
 ---
 
-## 13. Strategy launches $1.6B cash pool after $2B common shares raise, maintains hold on BTC buys
+## 12. Strategy launches $1.6B cash pool after $2B common shares raise, maintains hold on BTC buys
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/24/2026, 12:45:00 PM  
@@ -167,7 +155,7 @@ Strategy held off on new Bitcoin buying, maintaining holdings at 840,447 BTC as 
 
 ---
 
-## 14. Japan’s SBI leads $68M Fasset round at $1B valuation
+## 13. Japan’s SBI leads $68M Fasset round at $1B valuation
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/24/2026, 11:25:26 AM  
@@ -179,7 +167,7 @@ Fasset raised $68 million in a Series C led by SBI Group as the companies plan a
 
 ---
 
-## 15. First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week
+## 14. First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/24/2026, 11:23:58 AM  
@@ -191,7 +179,7 @@ Bitcoin closed a weekly candle above its 50-week EMA for the first time since la
 
 ---
 
-## 16. ECB defends digital euro privacy as CBDCs face global scrutiny
+## 15. ECB defends digital euro privacy as CBDCs face global scrutiny
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/24/2026, 11:21:19 AM  
@@ -203,7 +191,7 @@ Piero Cipollone said the Eurosystem would not identify digital euro users as cen
 
 ---
 
-## 17. Germany widens MiCA lead as latest EU register update adds 6 banks
+## 16. Germany widens MiCA lead as latest EU register update adds 6 banks
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/24/2026, 10:41:34 AM  
@@ -215,7 +203,7 @@ Germany expands its lead in EU MiCA authorizations with 79 crypto asset service 
 
 ---
 
-## 18. Bitcoin ETF inflows hit $1.9B in strongest week since October 2025
+## 17. Bitcoin ETF inflows hit $1.9B in strongest week since October 2025
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/24/2026, 8:56:52 AM  
@@ -227,7 +215,7 @@ US spot Bitcoin ETFs attracted $1.92 billion last week, their strongest weekly i
 
 ---
 
-## 19. Banks, regulators join quantum-resistant crypto transfer pilot
+## 18. Banks, regulators join quantum-resistant crypto transfer pilot
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/24/2026, 5:51:29 AM  
@@ -239,7 +227,7 @@ Participating banks will test post-quantum wallets and onchain transfers while r
 
 ---
 
-## 20. Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms
+## 19. Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/24/2026, 5:17:57 AM  
@@ -251,7 +239,7 @@ Existing virtual asset providers must apply for an NOC by Sept. 5 or cease opera
 
 ---
 
-## 21. Term Finance loses estimated $8.5M in vault governance exploit
+## 20. Term Finance loses estimated $8.5M in vault governance exploit
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/24/2026, 3:59:29 AM  
@@ -263,7 +251,7 @@ Term permanently closed its Meta Vaults after an attack reportedly removed nearl
 
 ---
 
-## 22. We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest
+## 21. We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 8/24/2026, 12:00:00 AM  
