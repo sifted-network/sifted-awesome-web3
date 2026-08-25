@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-24"
 date: "2026-08-24"
 source: "CoinDesk"
-count: 21
+count: 10
 ---
 
 # CoinDesk - 2026-08-24
 
-21 items collected.
+10 items collected.
 
 ---
 
@@ -128,137 +128,5 @@ Your day-ahead look for Aug. 24, 2026
 The planned tie-up would make Gemini the exclusive CFTC-regulated venue for crypto event contracts offered through Apex’s futures commission merchant.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach)
-
----
-
-## 11. Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 8/24/2026, 10:41:46 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-BTC was little changed Monday after last week's 24% surge triggered by a Treasury buyback announcement that squeezed over $3 billion in shorts.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years)
-
----
-
-## 12. Fed experiment shows how bitcoin rallies attract new crypto buyers
-
-**Author:** Francisco Rodrigues,AI Boost  
-**Published:** 8/24/2026, 9:56:17 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Households shown bitcoin’s prior-year return were 23% more likely to report owning crypto in a follow-up survey.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers)
-
----
-
-## 13. Crypto roars back as bitcoin posts its second-best week since early 2021
-
-**Author:** James Van Straten  
-**Published:** 8/24/2026, 8:28:14 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Treasury buybacks, ETF inflows and a weaker dollar ignite crypto’s breakout.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021)
-
----
-
-## 14. Jackson Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead
-
-**Author:** Francisco Rodrigues  
-**Published:** 8/24/2026, 8:16:29 AM  
-**Categories:** Markets, week ahead, News  
-
-Your look at what's coming in the week starting Aug. 24
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/jackson-hole-symposium-u-s-pce-prices-iren-earnings-crypto-week-ahead)
-
----
-
-## 15. Live updates: Bitcoin retreats after nearing $80,000, with analysts eyeing breather after big run
-
-**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Stephen Alpher,Krisztian Sandor,Helene Braun  
-**Published:** 8/24/2026, 8:05:57 AM  
-**Categories:** Finance, Live News, live_news  
-
-With bond yields still near multi-year highs, focus turns to Fed Chair Kevin Warsh's upcoming Jackson Hole address.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally)
-
----
-
-## 16. Ether is crushing bitcoin and the 'golden cross' says it may not be done yet
-
-**Author:** Omkar Godbole  
-**Published:** 8/24/2026, 6:50:58 AM  
-**Categories:** Markets, ETH, Technical Analysis, News  
-
-The ETH/BTC ratio has recently formed a bullish golden cross, suggesting ether could extend its outperformance against bitcoin.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet)
-
----
-
-## 17. Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power
-
-**Author:** Shaurya Malwa  
-**Published:** 8/24/2026, 6:27:33 AM  
-**Categories:** Markets, Hack, News  
-
-The exploit shows how lightly held voting tokens can become a means of attack when control of a protocol is cheaper than the assets it governs.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power)
-
----
-
-## 18. Ray Dalio says investors should own ‘a bit of Bitcoin’ as U.S. debt risks rise
-
-**Author:** Shaurya Malwa  
-**Published:** 8/24/2026, 5:13:19 AM  
-**Categories:** Markets, News  
-
-The Bridgewater founder says recent Treasury-market stress fits his long-running debt-crisis framework, though he still prefers gold as the bigger hedge.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/ray-dalio-says-investors-should-own-a-bit-of-bitcoin-as-u-s-debt-risks-rise)
-
----
-
-## 19. Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.
-
-**Author:** Omkar Godbole  
-**Published:** 8/24/2026, 5:12:56 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bessent’s bond-buyback plan fails to curb Treasury yields. Here's what it means for bitcoin and gold
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead)
-
----
-
-## 20. Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push
-
-**Author:** Krisztian Sandor  
-**Published:** 8/24/2026, 4:45:00 AM  
-**Categories:** Finance, Stablecoins, SBI Holdings, Exclusive, News  
-
-The firm raised $68 million as its revenue has grown six-fold as stablecoin payments and settlement expand, CEO Mohammad Raafi Hossain told CoinDesk.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push)
-
----
-
-## 21. Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus
-
-**Author:** Shaurya Malwa  
-**Published:** 8/24/2026, 4:41:28 AM  
-**Categories:** Markets, News  
-
-Bitcoin holds above $77,000 after a 21% week, with XRP up 46% over the same stretch. Asian stocks fell as Samsung and Alibaba slid.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus)
 
 ---
