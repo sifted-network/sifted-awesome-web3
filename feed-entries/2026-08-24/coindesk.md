@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-24"
 date: "2026-08-24"
 source: "CoinDesk"
-count: 10
+count: 5
 ---
 
 # CoinDesk - 2026-08-24
 
-10 items collected.
+5 items collected.
 
 ---
 
@@ -68,65 +68,5 @@ The treasury firm stepped up its ETH buying as Tom Lee said the crypto’s 30% w
 Two of the three proposals would reduce SOL supply growth by speeding up Solana’s inflation decline and raising daily fee burns from about 650 SOL to as much as 9,000 SOL.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation)
-
----
-
-## 6. Strategy raises $2 billion through MSTR sales and creates new USD Cash pool
-
-**Author:** James Van Straten  
-**Published:** 8/24/2026, 12:24:58 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-The company sold 18.26 million MSTR shares, increased its USD Reserve to $5.1 billion and repurchased another $136.4 million of STRC.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool)
-
----
-
-## 7. Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin
-
-**Author:** Olivier Acuna  
-**Published:** 8/24/2026, 11:36:55 AM  
-**Categories:** Finance, Standard chartered, Stablecoins, Hong Kong, News  
-
-The London-based multinational bank with $850 billion in assets announced it will distribute Anchorpoint's HKDAP to eligible clients and partners.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin)
-
----
-
-## 8. Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline
-
-**Author:** Jamie Crawley  
-**Published:** 8/24/2026, 11:19:16 AM  
-**Categories:** Policy, Pakistan, News  
-
-PVARA said companies have until the deadline to submit their application for a no-objection certificate or otherwise cease operating.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline)
-
----
-
-## 9. Financial repression: The new buzzword for bitcoin bulls
-
-**Author:** Omkar Godbole  
-**Published:** 8/24/2026, 11:15:00 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Aug. 24, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/08/24/financial-repression-the-new-buzzword-for-bitcoin-bulls)
-
----
-
-## 10. Gemini strikes Apex deal to widen prediction markets reach
-
-**Author:** Will Canny  
-**Published:** 8/24/2026, 10:55:00 AM  
-**Categories:** Finance, Gemini, Prediction Markets, Winklevoss, Exclusive, News  
-
-The planned tie-up would make Gemini the exclusive CFTC-regulated venue for crypto event contracts offered through Apex’s futures commission merchant.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach)
 
 ---
