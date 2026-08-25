@@ -2,16 +2,76 @@
 title: "CoinDesk - 2026-08-25"
 date: "2026-08-25"
 source: "CoinDesk"
-count: 15
+count: 20
 ---
 
 # CoinDesk - 2026-08-25
 
-15 items collected.
+20 items collected.
 
 ---
 
-## 1. A 3% token move just triggered $36 million in Ethereum DeFi liquidations
+## 1. LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges
+
+**Author:** Krisztian Sandor  
+**Published:** 8/25/2026, 4:22:47 PM  
+**Categories:** Finance, Tokenization, News  
+
+The trading infrastructure runs on LayerZero's Zero blockchain, backed by Citadel Securities with DTCC and ICE exploring institutional market applications.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges)
+
+---
+
+## 2. Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios
+
+**Author:** Krisztian Sandor  
+**Published:** 8/25/2026, 2:50:22 PM  
+**Categories:** Finance, Bitwise, Tokenization, News  
+
+The crypto ETF issuer is pushing deeper into onchain asset management as tokenization create new ways to build and manage investments.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios)
+
+---
+
+## 3. Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price
+
+**Author:** Ian Allison  
+**Published:** 8/25/2026, 1:48:50 PM  
+**Categories:** Finance, Exclusive, News  
+
+Once valued at $2.5 billion, Copper was being marketed by investment bank Cantor Fitzgerald at around $500 million in May this year.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price)
+
+---
+
+## 4. MiCA revolutionised European crypto, and left Poland licking its wounds
+
+**Author:** Mateusz Kara  
+**Published:** 8/25/2026, 1:00:00 PM  
+**Categories:** Opinion, Opinion  
+
+Many in Poland may look back at 2026 as the year European crypto finally grew up, and one of Poland’s brightest economic ambitions faded into darkness, writes Mateusz Kara, founder and CEO of Morphic Financial Group.
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds)
+
+---
+
+## 5. Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase
+
+**Author:** Jesse Hamilton  
+**Published:** 8/25/2026, 1:00:00 PM  
+**Categories:** Policy, Crime, News  
+
+'Operation Lighthouse' went after child sex abuse materials, working with law enforcement to round up more than 14,000 investigative leads.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase)
+
+---
+
+## 6. A 3% token move just triggered $36 million in Ethereum DeFi liquidations
 
 **Author:** Shaurya Malwa  
 **Published:** 8/25/2026, 12:03:55 PM  
@@ -23,7 +83,7 @@ One wallet bought heavily into a yield token, which pushed the price of its pair
 
 ---
 
-## 2. Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme
+## 7. Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme
 
 **Author:** Olivier Acuna  
 **Published:** 8/25/2026, 11:46:18 AM  
@@ -35,7 +95,7 @@ Brent Kovar has been found guilty of running a crypto Ponzi scheme, defrauding a
 
 ---
 
-## 3. Bitcoin's surging price faces 1 key level that could signal if the bear market is really over
+## 8. Bitcoin's surging price faces 1 key level that could signal if the bear market is really over
 
 **Author:** Omkar Godbole  
 **Published:** 8/25/2026, 11:15:02 AM  
@@ -47,7 +107,7 @@ Your day-ahead look for Aug. 25, 2026
 
 ---
 
-## 4. A bitcoin short squeeze for the ages as futures open interest collapses
+## 9. A bitcoin short squeeze for the ages as futures open interest collapses
 
 **Author:** James Van Straten  
 **Published:** 8/25/2026, 10:57:02 AM  
@@ -59,7 +119,7 @@ Falling open interest and subdued funding rates suggest the rally remains struct
 
 ---
 
-## 5. Bitcoin extends 7-day advance to roughly 25%
+## 10. Bitcoin extends 7-day advance to roughly 25%
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/25/2026, 10:52:03 AM  
@@ -71,7 +131,7 @@ Bitcoin crossed $80,000 for the first time since May, extending its seven-day ad
 
 ---
 
-## 6. Solana ETFs extend growth streak to 5 days after year's biggest inflows
+## 11. Solana ETFs extend growth streak to 5 days after year's biggest inflows
 
 **Author:** Olivier Acuna  
 **Published:** 8/25/2026, 10:25:32 AM  
@@ -83,7 +143,7 @@ Monday's $33.5 million was the largest single-day inflow since December, pushing
 
 ---
 
-## 7. U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology
+## 12. U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 8/25/2026, 8:47:18 AM  
@@ -95,7 +155,7 @@ Treasury says Ivan Obukhov processed over $100 million in crypto for IRGC-QF oil
 
 ---
 
-## 8. Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia
+## 13. Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia
 
 **Author:** Olivier Acuna  
 **Published:** 8/25/2026, 7:55:18 AM  
@@ -107,9 +167,9 @@ Tokenized U.S. treasury and money market funds are one of the fastest-growing se
 
 ---
 
-## 9. Live updates: Bitcoin rejected at $81,000 as 50-week moving average caps rally
+## 14. Live updates: Bitcoin settles in under $80,000, with interest rates headed lower on Tuesday
 
-**Author:** Shaurya Malwa  
+**Author:** Shaurya Malwa,Helene Braun,Krisztian Sandor,James Van Straten  
 **Published:** 8/25/2026, 7:40:11 AM  
 **Categories:** Finance, Live News, live_news  
 
@@ -119,7 +179,7 @@ Spot bitcoin funds took in $337.56 million on Aug. 24, extending an unbroken run
 
 ---
 
-## 10. Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says
+## 15. Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says
 
 **Author:** Omkar Godbole  
 **Published:** 8/25/2026, 7:32:32 AM  
@@ -131,7 +191,7 @@ The billionaire investor argues the intervention removes a vital check on govern
 
 ---
 
-## 11. Monad proposes wallet upgrade that could survive lost keys and quantum attacks
+## 16. Monad proposes wallet upgrade that could survive lost keys and quantum attacks
 
 **Author:** Shaurya Malwa  
 **Published:** 8/25/2026, 7:01:49 AM  
@@ -143,7 +203,7 @@ The Ethereum-compatible blockchain wants users to be able to replace the keys co
 
 ---
 
-## 12. Crypto rally spills into dog and cat memecoins as smaller tokens double in a week
+## 17. Crypto rally spills into dog and cat memecoins as smaller tokens double in a week
 
 **Author:** Shaurya Malwa  
 **Published:** 8/25/2026, 6:26:29 AM  
@@ -155,7 +215,7 @@ Robinhood Chain-based Cash Cat jumped more than 50% in a day, while several smal
 
 ---
 
-## 13. Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000
+## 18. Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000
 
 **Author:** Omkar Godbole  
 **Published:** 8/25/2026, 5:51:52 AM  
@@ -167,7 +227,7 @@ Traders are spending millions to position for further Bitcoin upside after its s
 
 ---
 
-## 14. Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning
+## 19. Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning
 
 **Author:** Shaurya Malwa  
 **Published:** 8/25/2026, 5:25:11 AM  
@@ -179,7 +239,7 @@ BTC is up more than 25% on the week after Treasury’s bond-buyback expansion sp
 
 ---
 
-## 15. Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates
+## 20. Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates
 
 **Author:** Krisztian Sandor,Helene Braun  
 **Published:** 8/25/2026, 12:55:32 AM  
