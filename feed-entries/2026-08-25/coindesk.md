@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-25"
 date: "2026-08-25"
 source: "CoinDesk"
-count: 23
+count: 21
 ---
 
 # CoinDesk - 2026-08-25
 
-23 items collected.
+21 items collected.
 
 ---
 
@@ -260,29 +260,5 @@ Robinhood Chain-based Cash Cat jumped more than 50% in a day, while several smal
 Traders are spending millions to position for further Bitcoin upside after its staggering rally to $80,000, though demand for downside protection remains firm, according to Laevitas.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/25/bitcoin-traders-place-usd2-9-million-bet-on-a-rapid-price-jump-above-usd82-000)
-
----
-
-## 22. Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning
-
-**Author:** Shaurya Malwa  
-**Published:** 8/25/2026, 5:25:11 AM  
-**Categories:** Markets, News  
-
-BTC is up more than 25% on the week after Treasury’s bond-buyback expansion sparked a rally, while Solana led majors Tuesday as validators vote on proposals to slow new SOL creation and raise daily burns.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning)
-
----
-
-## 23. Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates
-
-**Author:** Krisztian Sandor,Helene Braun  
-**Published:** 8/25/2026, 12:55:32 AM  
-**Categories:** Markets, Bitcoin News, Markets, Top Stories, Breaking News, News  
-
-BTC has now surged 38% following its June plunge as shifting U.S. Treasury policy helped bring buyers back to crypto, rejuvenating ETF demand.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates)
 
 ---
