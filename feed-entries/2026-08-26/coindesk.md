@@ -2,16 +2,64 @@
 title: "CoinDesk - 2026-08-26"
 date: "2026-08-26"
 source: "CoinDesk"
-count: 13
+count: 17
 ---
 
 # CoinDesk - 2026-08-26
 
-13 items collected.
+17 items collected.
 
 ---
 
-## 1. Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity
+## 1. Shinhan and Visa team up to test stablecoin issuance and B2B settlements in South Korea
+
+**Author:** Olivier Acuna  
+**Published:** 8/26/2026, 3:15:13 PM  
+**Categories:** Finance, South Korea, Mastercard, Stablecoins, Solana News, News  
+
+Shinhan Financial Group will use Visa’s platform to test stablecoin issuance, remittance, and redemption while building new AI-powered payment models.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure)
+
+---
+
+## 2. Crypto Long & Short: Tokenized equities: the model underneath the trade
+
+**Author:** Joshua de Vos  
+**Published:** 8/26/2026, 3:00:09 PM  
+**Categories:** CoinDesk Indices, Crypto Long & Short, News  
+
+In this week's Crypto Long & Short, CoinDesk's Joshua DeVos writes that demand for tokenized equities is accelerating fast, from $16 billion to more than $590 billion in perpetual futures in a single year, but that the headline growth hides the question that matters most. Two tokens can trade under ...
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/08/26/crypto-long-and-short-tokenized-equities-the-model-underneath-the-trade)
+
+---
+
+## 3. Ethereum developers propose first step to protect ETH staking from quantum attacks
+
+**Author:** Shaurya Malwa  
+**Published:** 8/26/2026, 1:30:00 PM  
+**Categories:** Tech, Ethereum News, quantum computing, News  
+
+A draft proposal would allow validators to deposit with quantum-resistant keys, then permanently stop accepting the format the network runs on today.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks)
+
+---
+
+## 4. The evidence doesn't support the banks' case against stablecoin rewards
+
+**Author:** Faryar Shirzad  
+**Published:** 8/26/2026, 1:00:00 PM  
+**Categories:** Opinion, Opinion  
+
+
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/08/25/the-evidence-doesn-t-support-the-banks-case-against-stablecoin-rewards)
+
+---
+
+## 5. Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 8/26/2026, 11:46:19 AM  
@@ -23,7 +71,7 @@ Programmable deposits and AI agents may enable instantaneous, automated bank swi
 
 ---
 
-## 2. ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears
+## 6. ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears
 
 **Author:** Olivier Acuna  
 **Published:** 8/26/2026, 11:14:16 AM  
@@ -35,7 +83,7 @@ Central bank officials say the Eurosystem will be structurally unable to link us
 
 ---
 
-## 3. The 3 catalysts that could define bitcoin's next move
+## 7. The 3 catalysts that could define bitcoin's next move
 
 **Author:** Omkar Godbole  
 **Published:** 8/26/2026, 11:02:33 AM  
@@ -47,7 +95,7 @@ Your day-ahead look for Aug. 26, 2026
 
 ---
 
-## 4. Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady
+## 8. Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady
 
 **Author:** Francisco Rodrigues,Omkar Godbole  
 **Published:** 8/26/2026, 10:45:29 AM  
@@ -59,7 +107,7 @@ The price of bitcoin fell to $79,000 on Wednesday after gaining 23% in seven day
 
 ---
 
-## 5. Strategy cuts net leverage to near zero as cash nearly matches convertible debt
+## 9. Strategy cuts net leverage to near zero as cash nearly matches convertible debt
 
 **Author:** James Van Straten  
 **Published:** 8/26/2026, 10:42:52 AM  
@@ -71,7 +119,7 @@ The bitcoin treasury company has built nearly four years of preferred-dividend c
 
 ---
 
-## 6. Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe
+## 10. Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/26/2026, 10:03:43 AM  
@@ -83,7 +131,7 @@ Revolut said the stablecoin’s rollout will start with a select group of custom
 
 ---
 
-## 7. Japan to start stocks and bonds tokenization development plans this year
+## 11. Japan to start stocks and bonds tokenization development plans this year
 
 **Author:** Olivier Acuna  
 **Published:** 8/26/2026, 9:06:00 AM  
@@ -95,9 +143,9 @@ Japan's regulators are racing to modernize national settlement systems to preven
 
 ---
 
-## 8. Live updates: Bitcoin flat near $78,500 ahead of inflation data, Nvidia earnings
+## 12. Live updates: Bitcoin adds to early losses, slipping to $78,000
 
-**Author:** Shaurya Malwa,James Van Straten  
+**Author:** Shaurya Malwa,James Van Straten,Stephen Alpher,Helene Braun  
 **Published:** 8/26/2026, 8:51:18 AM  
 **Categories:** Finance, Live News, live_news  
 
@@ -107,7 +155,7 @@ Markets are also looking ahead to Fed Chair Kevin Warsh's keynote speech at the 
 
 ---
 
-## 9. A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility
+## 13. A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility
 
 **Author:** James Van Straten  
 **Published:** 8/26/2026, 8:01:09 AM  
@@ -119,7 +167,7 @@ Friday’s expiry follows bitcoin’s surge from $62,000 to $80,000, leaving mar
 
 ---
 
-## 10. BlackRock cuts bitcoin ETF swap minimum to $1 million: Report
+## 14. BlackRock cuts bitcoin ETF swap minimum to $1 million: Report
 
 **Author:** Omkar Godbole  
 **Published:** 8/26/2026, 5:52:53 AM  
@@ -131,7 +179,7 @@ ETF issuers are lowering the barrier for bitcoin whales to trade self-custody fo
 
 ---
 
-## 11. XRP’s 44% rally brings leverage back, raising risk of sharper pullback
+## 15. XRP’s 44% rally brings leverage back, raising risk of sharper pullback
 
 **Author:** Shaurya Malwa  
 **Published:** 8/26/2026, 5:16:32 AM  
@@ -143,7 +191,7 @@ CryptoQuant data show XRP’s estimated leverage ratio on Binance at its highest
 
 ---
 
-## 12. Crypto greed gauge hits highest since just before October’s $19 billion wipeout
+## 16. Crypto greed gauge hits highest since just before October’s $19 billion wipeout
 
 **Author:** Shaurya Malwa  
 **Published:** 8/26/2026, 4:51:49 AM  
@@ -155,7 +203,7 @@ The Fear & Greed Index reached 74 on Tuesday after sitting at 27 less than two w
 
 ---
 
-## 13. Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains
+## 17. Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains
 
 **Author:** Shaurya Malwa  
 **Published:** 8/26/2026, 4:13:10 AM  
