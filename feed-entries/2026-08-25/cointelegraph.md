@@ -50,7 +50,7 @@ Tokenized real-world assets on Solana are nearing $4 billion as network activity
 ## 4. Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report
 
 **Author:** Cointelegraph by Sam Bourgi  
-**Published:** 8/25/2026, 4:47:40 PM  
+**Published:** 8/25/2026, 4:49:00 PM  
 **Categories:** Latest News  
 
 Strategy’s biggest risk may not be a Bitcoin crash, but losing access to the capital markets that help it service $1.76 billion in annual obligations.
