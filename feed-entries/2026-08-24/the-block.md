@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-24"
 date: "2026-08-24"
 source: "The Block"
-count: 10
+count: 9
 ---
 
 # The Block - 2026-08-24
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ Under the alliance, brokerages that offer crypto event contracts through Apex wi
 Bernstein says Circle can sustain growth without the Clarity Act as USDC supply rebounds and stablecoin volumes continue expanding.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573)
-
----
-
-## 10. Fasset reaches unicorn status after $68 million raise led by SBI Group
-
-**Author:** Brian Danga  
-**Published:** 8/24/2026, 7:56:44 AM  
-**Categories:** Companies, Lobbying, Policy, Fundraising, News  
-
-Fasset raised $68 million in Series C funding at a $1 billion valuation, expanding its cross-border stablecoin infrastructure.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-24-fasset-68-million-raise-sbi-group-412563)
 
 ---
