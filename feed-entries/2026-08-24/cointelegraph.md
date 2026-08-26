@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-24"
 date: "2026-08-24"
 source: "Cointelegraph"
-count: 9
+count: 8
 ---
 
 # Cointelegraph - 2026-08-24
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ Strive’s Nasdaq-traded shares surged more than 11% as the Bitcoin treasury com
 Following a similar lawsuit filed by the Digital Chamber in July, two digital asset advocacy groups challenged Illinois’ 0.2% crypto tax on constitutional and due process grounds.
 
 📖 [Read original article](https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 8/24/2026, 3:29:26 PM  
-**Categories:** Latest News  
-
-Ether’s breakout above $2,500 has put the spotlight back on corporate ETH treasuries, with Bitmine now nearing its long-stated accumulation target.
-
-📖 [Read original article](https://cointelegraph.com/news/bitmine-eth-holdings-5-percent-ether-price-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
