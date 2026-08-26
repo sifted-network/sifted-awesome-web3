@@ -2,16 +2,112 @@
 title: "Decrypt - 2026-08-25"
 date: "2026-08-25"
 source: "Decrypt"
-count: 10
+count: 18
 ---
 
 # Decrypt - 2026-08-25
 
-10 items collected.
+18 items collected.
 
 ---
 
-## 1. Gold Hits Three-Month High as Bitcoin Tests $80,000
+## 1. Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport
+
+**Author:** Jason Nelson  
+**Published:** 8/25/2026, 10:16:03 PM  
+**Categories:** Space  
+
+The 10-year project in Vermilion Parish will include five launch complexes and infrastructure for Starship missions.
+
+📖 [Read original article](https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport)
+
+---
+
+## 2. XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/25/2026, 9:46:04 PM  
+**Categories:** , Markets  
+
+XRP has given back two days of gains after a vertical recovery, and the charts say the bounce just met a wall.
+
+📖 [Read original article](https://decrypt.co/376559/xrp-price-cools-where-next)
+
+---
+
+## 3. Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/25/2026, 9:16:04 PM  
+**Categories:** Artificial Intelligence  
+
+Alibaba's Qwen team is teasing its next architecture a day early—and the specs say it runs near-frontier scale on a fraction of the power.
+
+📖 [Read original article](https://decrypt.co/376530/alibaba-qwen-3-8-flash-next-preview-qwen-4)
+
+---
+
+## 4. These Researchers Just Shrunk an AI Model and Somehow Made It Smarter
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/25/2026, 8:46:03 PM  
+**Categories:** Artificial Intelligence  
+
+A smaller, cheaper AI usually means a dumber one. A new technique flipped that—and your phone might be the winner.
+
+📖 [Read original article](https://decrypt.co/376536/researchers-shrink-ai-model-made-smarter)
+
+---
+
+## 5. Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/25/2026, 8:16:04 PM  
+**Categories:** , Markets  
+
+Crypto-margined Bitcoin futures have collapsed from near-total dominance to about 12%. But leveraged traders are still placing big bets.
+
+📖 [Read original article](https://decrypt.co/376473/bitcoin-open-interest-price-short-squeeze)
+
+---
+
+## 6. What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?
+
+**Author:** Jason Nelson  
+**Published:** 8/25/2026, 7:46:03 PM  
+**Categories:** Markets  
+
+Pelosi disclosed millions of dollars in Bloom Energy investments weeks after shares and options were purchased through her husband's accounts, including a purchase just before the company reported record earnings.
+
+📖 [Read original article](https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade)
+
+---
+
+## 7. Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/25/2026, 7:11:04 PM  
+**Categories:** , Coins  
+
+The Crypto Fear and Greed Index was at 36, firmly in the fear zone, just a month ago.
+
+📖 [Read original article](https://decrypt.co/376503/crypto-fear-greed-index-extreme-greed)
+
+---
+
+## 8. Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/25/2026, 6:39:26 PM  
+**Categories:** Business  
+
+Mistral and HUMAIN announced plans to build sovereign AI infrastructure in Saudi Arabia and across the region—a tie-up valued in the hundreds of millions of euros that deepens Gulf money flowing into European AI.
+
+📖 [Read original article](https://decrypt.co/376514/mistral-humain-sovereign-ai-saudi-arabia)
+
+---
+
+## 9. Gold Hits Three-Month High as Bitcoin Tests $80,000
 
 **Author:** Jason Nelson  
 **Published:** 8/25/2026, 5:24:54 PM  
@@ -23,7 +119,7 @@ Gold extended its August rally as a weaker dollar and falling yields boosted dem
 
 ---
 
-## 2. Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why
+## 10. Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/25/2026, 4:45:59 PM  
@@ -35,7 +131,7 @@ Bitcoin gained roughly 24% this week while the broader crypto market grew by les
 
 ---
 
-## 3. Crypto Group Warns Regulators Against Expanding Stablecoin KYC
+## 11. Crypto Group Warns Regulators Against Expanding Stablecoin KYC
 
 **Author:** Jason Nelson  
 **Published:** 8/25/2026, 4:28:59 PM  
@@ -47,7 +143,7 @@ The crypto trade group warned that forcing issuers to verify identities for peer
 
 ---
 
-## 4. Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot
+## 12. Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot
 
 **Author:** Decrypt Agent  
 **Published:** 8/25/2026, 2:56:10 PM  
@@ -59,7 +155,7 @@ Japheth Dillman told investors that Block Bits Capital's "Autotrader" software w
 
 ---
 
-## 5. Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware
+## 13. Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware
 
 **Author:** Decrypt Agent  
 **Published:** 8/25/2026, 2:10:05 PM  
@@ -71,7 +167,7 @@ Forty are confirmed malicious, impersonating OKX, Rabby and TronLink to harvest 
 
 ---
 
-## 6. Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency
+## 14. Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency
 
 **Author:** Jason Nelson  
 **Published:** 8/25/2026, 12:01:03 PM  
@@ -83,7 +179,7 @@ The fund gives brokerage investors exposure to ZEC as Grayscale bets on demand f
 
 ---
 
-## 7. Morning Minute: Coinbase Puts Tokenized Stocks on Base
+## 15. Morning Minute: Coinbase Puts Tokenized Stocks on Base
 
 **Author:** Tyler Warner  
 **Published:** 8/25/2026, 11:58:22 AM  
@@ -95,7 +191,7 @@ These aren’t derivatives tracking stock prices; each token has a direct claim 
 
 ---
 
-## 8. Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme
+## 16. Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme
 
 **Author:** Decrypt Agent  
 **Published:** 8/25/2026, 10:50:23 AM  
@@ -107,7 +203,7 @@ Brent Kovar told at least 400 investors a supercomputer was mining crypto for th
 
 ---
 
-## 9. US Can Now Sanction Anyone Operating in Iran's Crypto Sector
+## 17. US Can Now Sanction Anyone Operating in Iran's Crypto Sector
 
 **Author:** Decrypt Agent  
 **Published:** 8/25/2026, 10:21:41 AM  
@@ -119,7 +215,7 @@ Digital assets are among five sectors in a campaign Treasury called an “Econom
 
 ---
 
-## 10. Franklin Templeton's Tokenized Treasury Fund Lands on HashKey
+## 18. Franklin Templeton's Tokenized Treasury Fund Lands on HashKey
 
 **Author:** Decrypt Agent  
 **Published:** 8/25/2026, 9:30:27 AM  
