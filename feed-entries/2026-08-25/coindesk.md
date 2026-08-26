@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-25"
 date: "2026-08-25"
 source: "CoinDesk"
-count: 12
+count: 8
 ---
 
 # CoinDesk - 2026-08-25
 
-12 items collected.
+8 items collected.
 
 ---
 
@@ -104,53 +104,5 @@ Many in Poland may look back at 2026 as the year European crypto finally grew up
 'Operation Lighthouse' went after child sex abuse materials, working with law enforcement to round up more than 14,000 investigative leads.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase)
-
----
-
-## 9. A 3% token move just triggered $36 million in Ethereum DeFi liquidations
-
-**Author:** Shaurya Malwa  
-**Published:** 8/25/2026, 12:03:55 PM  
-**Categories:** Tech, News  
-
-One wallet bought heavily into a yield token, which pushed the price of its paired principal token down just enough to trigger liquidations across borrowers using it as collateral.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)
-
----
-
-## 10. Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme
-
-**Author:** Olivier Acuna  
-**Published:** 8/25/2026, 11:46:18 AM  
-**Categories:** Policy, Fraud, Cryptocurrency, News  
-
-Brent Kovar has been found guilty of running a crypto Ponzi scheme, defrauding at least 400 investors out of $24 million.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison)
-
----
-
-## 11. Bitcoin's surging price faces 1 key level that could signal if the bear market is really over
-
-**Author:** Omkar Godbole  
-**Published:** 8/25/2026, 11:15:02 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Aug. 25, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over)
-
----
-
-## 12. A bitcoin short squeeze for the ages as futures open interest collapses
-
-**Author:** James Van Straten  
-**Published:** 8/25/2026, 10:57:02 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Falling open interest and subdued funding rates suggest the rally remains structurally healthy.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses)
 
 ---
