@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-24"
 date: "2026-08-24"
 source: "The Block"
-count: 9
+count: 7
 ---
 
 # The Block - 2026-08-24
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ Bitmine's total crypto, cash, and other investments currently stand at $14.9 bil
 Strategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth around $66 billion.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-08-24-strategy-mstr-strc-bitcoin-usd-reserve-412570)
-
----
-
-## 8. Gemini to provide crypto prediction markets venue for Apex’s brokerage clients
-
-**Author:** Danny Park  
-**Published:** 8/24/2026, 11:01:02 AM  
-**Categories:** Companies, Crypto Ecosystems, Exchanges, Web3, Gemini, News  
-
-Under the alliance, brokerages that offer crypto event contracts through Apex will use Gemini for execution and clearing, the firms said.
-
-📖 [Read original article](https://www.theblock.co/news/web3/2026-08-24-gemini-crypto-prediction-market-apex-412557)
-
----
-
-## 9. Bernstein says Circle’s growth cycle can continue without the Clarity Act, sees 59% upside
-
-**Author:** Brian Danga  
-**Published:** 8/24/2026, 10:08:38 AM  
-**Categories:** Companies, Equities, Markets, Analyst Reports, News  
-
-Bernstein says Circle can sustain growth without the Clarity Act as USDC supply rebounds and stablecoin volumes continue expanding.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573)
 
 ---
