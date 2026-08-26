@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-24"
 date: "2026-08-24"
 source: "Cointelegraph"
-count: 8
+count: 7
 ---
 
 # Cointelegraph - 2026-08-24
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -92,17 +92,5 @@ As BTC tops $80,000 for the first time since May, price analysis warns that the 
 Strive’s Nasdaq-traded shares surged more than 11% as the Bitcoin treasury company said it paid an average of $73,409 per BTC, pushing its holdings to 21,356 Bitcoin.
 
 📖 [Read original article](https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Crypto advocacy groups oppose Illinois digital asset tax in court
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 8/24/2026, 4:05:48 PM  
-**Categories:** Latest News  
-
-Following a similar lawsuit filed by the Digital Chamber in July, two digital asset advocacy groups challenged Illinois’ 0.2% crypto tax on constitutional and due process grounds.
-
-📖 [Read original article](https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
