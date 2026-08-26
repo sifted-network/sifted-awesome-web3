@@ -2,16 +2,28 @@
 title: "The Block - 2026-08-25"
 date: "2026-08-25"
 source: "The Block"
-count: 9
+count: 10
 ---
 
 # The Block - 2026-08-25
 
-9 items collected.
+10 items collected.
 
 ---
 
-## 1. Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line
+## 1. ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain
+
+**Author:** Yogita Khatri  
+**Published:** 8/25/2026, 6:41:50 PM  
+**Categories:** Bridges, Crypto Ecosystems, DeFi, Markets, Web3, Cross-chain Swaps, Decentralized Infrastructure, Interoperability, News  
+
+LayerZero has announced ATLAS, new exchange infrastructure built on its Zero blockchain for trading platforms and financial institutions.
+
+📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736)
+
+---
+
+## 2. Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line
 
 **Author:** Jason Shubnell  
 **Published:** 8/25/2026, 4:03:42 PM  
@@ -23,7 +35,7 @@ The crypto-backed portfolio line of credit lets eligible GalaxyOne clients borro
 
 ---
 
-## 2. Bitwise launches automated tokenized stock portfolios for Mag 7, AI and robotics themes
+## 3. Bitwise launches automated tokenized stock portfolios for Mag 7, AI and robotics themes
 
 **Author:** Jason Shubnell  
 **Published:** 8/25/2026, 2:16:26 PM  
@@ -35,7 +47,7 @@ The portfolios, powered by Coinbase and implemented through Glider, will initial
 
 ---
 
-## 3. Robinhood Chain DEX Arcus launches pTokens to turn perp accounts into transferable ERC-20s
+## 4. Robinhood Chain DEX Arcus launches pTokens to turn perp accounts into transferable ERC-20s
 
 **Author:** James Hunt  
 **Published:** 8/25/2026, 2:00:00 PM  
@@ -47,7 +59,7 @@ Each pToken represents a pro-rata ownership stake in an underlying Arcus perpetu
 
 ---
 
-## 4. Grayscale debuts first Zcash ETF of its kind as privacy coin surges
+## 5. Grayscale debuts first Zcash ETF of its kind as privacy coin surges
 
 **Author:** Sarah Wynn  
 **Published:** 8/25/2026, 12:00:00 PM  
@@ -59,7 +71,7 @@ On Tuesday morning, Grayscale launched the first ETF to offer direct exposure to
 
 ---
 
-## 5. Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction
+## 6. Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction
 
 **Author:** Brian Danga  
 **Published:** 8/25/2026, 7:53:23 AM  
@@ -71,7 +83,7 @@ A federal jury convicted Las Vegas businessman Brent Kovar in a $24 million cryp
 
 ---
 
-## 6. Bitcoin holds above $80,000 backed by ETF flows; bull market case ‘early but optimistic,’ analyst says
+## 7. Bitcoin holds above $80,000 backed by ETF flows; bull market case ‘early but optimistic,’ analyst says
 
 **Author:** Danny Park  
 **Published:** 8/25/2026, 6:46:31 AM  
@@ -83,7 +95,7 @@ Analysts say it's still too early to tell if this will translate into a bull mar
 
 ---
 
-## 7. Franklin Templeton partners with HashKey to offer tokenized money market fund in Asia
+## 8. Franklin Templeton partners with HashKey to offer tokenized money market fund in Asia
 
 **Author:** Timmy Shen  
 **Published:** 8/25/2026, 6:39:12 AM  
@@ -95,7 +107,7 @@ HashKey said it has launched the Franklin OnChain US Government Liquidity Fund o
 
 ---
 
-## 8. Blockchain Association backs Treasury’s proposed GENIUS Act rules for stablecoin issuers
+## 9. Blockchain Association backs Treasury’s proposed GENIUS Act rules for stablecoin issuers
 
 **Author:** Timmy Shen  
 **Published:** 8/25/2026, 5:24:15 AM  
@@ -107,7 +119,7 @@ It backs limiting client ID requirements to direct issuer-customer transactions 
 
 ---
 
-## 9. San Francisco-based gaming founder convicted of operating fraudulent crypto trading fund
+## 10. San Francisco-based gaming founder convicted of operating fraudulent crypto trading fund
 
 **Author:** Danny Park  
 **Published:** 8/25/2026, 2:08:02 AM  
