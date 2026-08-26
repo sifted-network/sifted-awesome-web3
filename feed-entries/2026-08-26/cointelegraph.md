@@ -2,16 +2,124 @@
 title: "Cointelegraph - 2026-08-26"
 date: "2026-08-26"
 source: "Cointelegraph"
-count: 9
+count: 17
 ---
 
 # Cointelegraph - 2026-08-26
 
-9 items collected.
+17 items collected.
 
 ---
 
-## 1. Taurus links digital asset platforms to Swift’s blockchain ledger
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 8/26/2026, 7:14:06 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Chainalysis estimates $457B in taxable crypto activity, says CARF misses most
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/26/2026, 5:48:34 PM  
+**Categories:** Latest News  
+
+The blockchain analytics firm said just 14% of the onchain activity it identified is covered by the OECD’s international crypto tax-reporting framework.
+
+📖 [Read original article](https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. SEC sends crypto custody rule overhaul to White House for review
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 8/26/2026, 4:19:09 PM  
+**Categories:** Latest News  
+
+The securities regulator’s crypto custody overhaul could clarify how investment advisers and funds hold digital assets for clients as the proposal moves through review.
+
+📖 [Read original article](https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. 77% of Americans see crypto in retirement plans as risky: Survey
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/26/2026, 4:10:56 PM  
+**Categories:** Latest News  
+
+A new survey finds broad skepticism toward crypto in workplace retirement plans as US policymakers move to expand access to alternative assets.
+
+📖 [Read original article](https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 8/26/2026, 3:58:55 PM  
+**Categories:** Markets  
+
+Bitcoin stayed away from challenging $80,000 after July US PCE inflation data came in slightly higher than anticipated, pressuring gold and risk assets.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-dips-below-78k-as-stocks-gold-fall-on-higher-us-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Protocol upgrade decouples consensus from execution to solve scaling bottlenecks
+
+**Author:** Cointelegraph by Nihatcan Yanik  
+**Published:** 8/26/2026, 3:04:32 PM  
+**Categories:** DevHub  
+
+CTDG Dev Hub participant’s protocol upgrade decouples consensus from execution, allowing network nodes to reach agreement on blocks before transaction execution completes.
+
+📖 [Read original article](https://cointelegraph.com/ecosystem/protocol-upgrade-decouples-consensus-from-execution-to-solve-scaling-bottlenecks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. SEC’s proposed crypto rules probably won’t spark new ICO boom
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 8/26/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+The SEC’s ‘regulation crypto assets’ proposals could create early-round FOMO. But some tokens may still fall into the no-man’s land between security and non-security.
+
+📖 [Read original article](https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Students want crypto classes but learn on social media: OKX survey
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 8/26/2026, 1:00:00 PM  
+**Categories:** Latest News  
+
+A separate review found only about 28% of accredited US business schools offered blockchain courses, despite strong demand in the OKX poll.
+
+📖 [Read original article](https://cointelegraph.com/news/students-crypto-classes-learn-social-media-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 8/26/2026, 12:32:36 PM  
+**Categories:** Markets  
+
+Bernstein expects Bitcoin to reclaim $125,000 by late 2026, before reaching $300,000 in 2029 under its base case, with a bull case of $500,000.
+
+📖 [Read original article](https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 10. Taurus links digital asset platforms to Swift’s blockchain ledger
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/26/2026, 12:00:00 PM  
@@ -23,7 +131,7 @@ Taurus expects first institutional clients to connect in days, with initial DLT 
 
 ---
 
-## 2. Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K: Analysis
+## 11. Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K: Analysis
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/26/2026, 10:49:26 AM  
@@ -35,7 +143,7 @@ Bitcoin struggled to establish support at $80,000 as investor cohorts all return
 
 ---
 
-## 3. Japan weighs blockchain fast lane for securities cash settlement
+## 12. Japan weighs blockchain fast lane for securities cash settlement
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/26/2026, 10:46:47 AM  
@@ -47,7 +155,7 @@ The FSA, Finance Ministry, BOJ and financial institutions plan to study the infr
 
 ---
 
-## 4. Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B
+## 13. Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/26/2026, 10:15:44 AM  
@@ -59,7 +167,7 @@ The Form D lists 71 investors and says Kalshi is relying on an exemption that al
 
 ---
 
-## 5. Revolut rolls out euro stablecoin in 3 European markets
+## 14. Revolut rolls out euro stablecoin in 3 European markets
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/26/2026, 8:45:41 AM  
@@ -71,7 +179,7 @@ The Bridge-issued EURR token will support multiple blockchains and external wall
 
 ---
 
-## 6. Tornado Cash developer Roman Storm’s retrial delayed to April 2027
+## 15. Tornado Cash developer Roman Storm’s retrial delayed to April 2027
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/26/2026, 7:44:04 AM  
@@ -83,7 +191,7 @@ Judge Katherine Polk Failla adjourned the retrial in light of Storm’s pending 
 
 ---
 
-## 7. Bitcoin ETFs tear through 2026 outflows in 7-day hot streak
+## 16. Bitcoin ETFs tear through 2026 outflows in 7-day hot streak
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/26/2026, 7:30:31 AM  
@@ -95,19 +203,7 @@ The funds are $390 million short of October 2025’s inflow total after cutting 
 
 ---
 
-## 8. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/26/2026, 6:04:55 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. US state banking groups plan nationwide blockchain network for 2027
+## 17. US state banking groups plan nationwide blockchain network for 2027
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/26/2026, 4:19:00 AM  
