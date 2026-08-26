@@ -6,103 +6,103 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [union](https://github.com/unionlabs/union) | 73,840 | 3,888 | Rust | 128 | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. | 2026-07-25 |
-| 2 | [fuel-core](https://github.com/FuelLabs/fuel-core) | 56,888 | 2,862 | Rust | 162 | Rust full node implementation of the Fuel v2 protocol. | 2026-08-24 |
-| 3 | [go-ethereum](https://github.com/ethereum/go-ethereum) | 51,316 | 22,120 | Go | 198 | Go implementation of the Ethereum protocol | 2026-08-24 |
-| 4 | [anoma](https://github.com/anoma/anoma) | 33,645 | 4,113 | Elixir | 90 | Reference implementation of Anoma | 2026-06-15 |
-| 5 | [linera-protocol](https://github.com/linera-io/linera-protocol) | 32,124 | 2,406 | Rust | 521 | Main repository for the Linera protocol | 2026-08-24 |
-| 6 | [shardeum](https://github.com/shardeum/shardeum) | 31,272 | 704 | TypeScript | 4 | Shardeum is an EVM based autoscaling blockchain | 2025-09-15 |
+| 1 | [union](https://github.com/unionlabs/union) | 73,827 | 3,888 | Rust | 128 | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. | 2026-07-25 |
+| 2 | [fuel-core](https://github.com/FuelLabs/fuel-core) | 56,888 | 2,863 | Rust | 163 | Rust full node implementation of the Fuel v2 protocol. | 2026-08-25 |
+| 3 | [go-ethereum](https://github.com/ethereum/go-ethereum) | 51,316 | 22,123 | Go | 198 | Go implementation of the Ethereum protocol | 2026-08-25 |
+| 4 | [anoma](https://github.com/anoma/anoma) | 33,642 | 4,113 | Elixir | 90 | Reference implementation of Anoma | 2026-06-15 |
+| 5 | [linera-protocol](https://github.com/linera-io/linera-protocol) | 32,129 | 2,406 | Rust | 522 | Main repository for the Linera protocol | 2026-08-26 |
+| 6 | [shardeum](https://github.com/shardeum/shardeum) | 31,268 | 704 | TypeScript | 4 | Shardeum is an EVM based autoscaling blockchain | 2025-09-15 |
 | 7 | [hey-1](https://github.com/slymnoyann/hey-1) | 29,383 | 1,806 | TypeScript | 0 | Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿 | 2026-05-13 |
-| 8 | [solidity](https://github.com/argotorg/solidity) | 25,712 | 6,151 | C++ | 661 | Solidity, the Smart Contract Programming Language | 2026-08-24 |
-| 9 | [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) | 25,293 | 6,178 | HTML | 96 | Mastering Bitcoin 3rd Edition - Programming the Open Blockchain | 2024-12-26 |
-| 10 | [fhevm](https://github.com/zama-ai/fhevm) | 24,913 | 1,854 | Rust | 28 | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications | 2026-08-24 |
-| 11 | [ethereumbook](https://github.com/ethereumbook/ethereumbook) | 21,519 | 5,171 | - | 0 | Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini | 2026-05-13 |
-| 12 | [gun](https://github.com/amark/gun) | 19,126 | 1,242 | JavaScript | 275 | An open source cybersecurity protocol for syncing decentralized graph data. | 2026-08-01 |
-| 13 | [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) | 18,954 | 3,613 | JavaScript | 4 | 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料 | 2024-02-29 |
-| 14 | [Qbot](https://github.com/UFund-Me/Qbot) | 18,384 | 2,590 | Jupyter Notebook | 68 | [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant | 2026-03-11 |
-| 15 | [fabric](https://github.com/hyperledger/fabric) | 16,701 | 9,110 | Go | 182 | Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use ... | 2026-08-05 |
+| 8 | [solidity](https://github.com/argotorg/solidity) | 25,715 | 6,148 | C++ | 661 | Solidity, the Smart Contract Programming Language | 2026-08-25 |
+| 9 | [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) | 25,292 | 6,179 | HTML | 96 | Mastering Bitcoin 3rd Edition - Programming the Open Blockchain | 2024-12-26 |
+| 10 | [fhevm](https://github.com/zama-ai/fhevm) | 24,825 | 1,771 | Rust | 28 | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications | 2026-08-25 |
+| 11 | [ethereumbook](https://github.com/ethereumbook/ethereumbook) | 21,518 | 5,171 | - | 0 | Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini | 2026-05-13 |
+| 12 | [gun](https://github.com/amark/gun) | 19,127 | 1,242 | JavaScript | 275 | An open source cybersecurity protocol for syncing decentralized graph data. | 2026-08-01 |
+| 13 | [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) | 18,955 | 3,613 | JavaScript | 4 | 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料 | 2024-02-29 |
+| 14 | [Qbot](https://github.com/UFund-Me/Qbot) | 18,390 | 2,591 | Jupyter Notebook | 68 | [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant | 2026-03-11 |
+| 15 | [fabric](https://github.com/hyperledger/fabric) | 16,701 | 9,111 | Go | 182 | Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use ... | 2026-08-25 |
 | 16 | [diem](https://github.com/diem/diem) | 16,667 | 2,542 | Rust | 361 | Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world. | 2026-08-23 |
-| 17 | [solana](https://github.com/solana-labs/solana) | 14,945 | 5,834 | Rust | 265 | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. | 2025-01-22 |
-| 18 | [full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) | 14,034 | 3,272 | - | 94 | Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript | 2024-06-12 |
-| 19 | [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 14,034 | 2,430 | Solidity | 7 | WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy | 2026-08-23 |
-| 20 | [truffle](https://github.com/ConsenSys-archive/truffle) | 13,914 | 2,296 | TypeScript | 508 | :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years. | 2024-04-22 |
-| 21 | [metamask-extension](https://github.com/MetaMask/metamask-extension) | 13,206 | 5,575 | TypeScript | 2316 | :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites | 2026-08-25 |
-| 22 | [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) | 11,214 | 2,926 | - | 224 | Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course \| Python Edition | 2024-04-16 |
-| 23 | [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) | 10,819 | 1,321 | JavaScript | 0 | DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!  | 2026-08-16 |
-| 24 | [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | 10,799 | 2,050 | Python | 23 | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) | 2026-08-24 |
-| 25 | [monero](https://github.com/monero-project/monero) | 10,797 | 3,501 | C++ | 396 | Monero: the secure, private, untraceable cryptocurrency | 2026-08-23 |
-| 26 | [foundry](https://github.com/foundry-rs/foundry) | 10,573 | 2,607 | Rust | 239 | Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. | 2026-08-25 |
+| 17 | [solana](https://github.com/solana-labs/solana) | 14,945 | 5,836 | Rust | 265 | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. | 2025-01-22 |
+| 18 | [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 14,036 | 2,432 | Solidity | 7 | WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy | 2026-08-23 |
+| 19 | [full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) | 14,034 | 3,272 | - | 94 | Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript | 2024-06-12 |
+| 20 | [truffle](https://github.com/ConsenSys-archive/truffle) | 13,916 | 2,296 | TypeScript | 508 | :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years. | 2024-04-22 |
+| 21 | [metamask-extension](https://github.com/MetaMask/metamask-extension) | 13,205 | 5,575 | TypeScript | 2318 | :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites | 2026-08-26 |
+| 22 | [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) | 11,215 | 2,926 | - | 224 | Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course \| Python Edition | 2024-04-16 |
+| 23 | [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) | 10,818 | 1,321 | JavaScript | 0 | DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!  | 2026-08-16 |
+| 24 | [monero](https://github.com/monero-project/monero) | 10,801 | 3,502 | C++ | 396 | Monero: the secure, private, untraceable cryptocurrency | 2026-08-25 |
+| 25 | [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | 10,799 | 2,050 | Python | 23 | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) | 2026-08-25 |
+| 26 | [foundry](https://github.com/foundry-rs/foundry) | 10,576 | 2,607 | Rust | 234 | Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. | 2026-08-26 |
 | 27 | [DARC](https://github.com/Project-DARC/DARC) | 9,157 | 6,628 | TypeScript | 1 | Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism. | 2024-09-20 |
 | 28 | [ethers.js](https://github.com/ethers-io/ethers.js) | 8,718 | 2,125 | TypeScript | 454 | Complete Ethereum library and wallet implementation in JavaScript. | 2026-06-18 |
-| 29 | [hardhat](https://github.com/NomicFoundation/hardhat) | 8,505 | 1,733 | TypeScript | 606 | Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.  | 2026-08-24 |
-| 30 | [substrate](https://github.com/paritytech/substrate) | 8,397 | 2,635 | Rust | 542 | Substrate: The platform for blockchain innovators | 2023-09-25 |
-| 31 | [chainlink](https://github.com/smartcontractkit/chainlink) | 8,235 | 1,978 | Go | 108 | node of the decentralized oracle network, bridging on and off-chain computation | 2026-08-25 |
-| 32 | [lnd](https://github.com/lightningnetwork/lnd) | 8,183 | 2,281 | Go | 579 | Lightning Network Daemon ⚡️ | 2026-08-24 |
-| 33 | [blockchain](https://github.com/dvf/blockchain) | 8,045 | 2,796 | C# | 82 | A simple Blockchain in Python | 2024-07-21 |
-| 34 | [datahaven](https://github.com/datahaven-xyz/datahaven) | 7,901 | 146 | Rust | 0 | An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer | 2026-04-17 |
-| 35 | [go-ibax](https://github.com/IBAX-io/go-ibax) | 7,850 | 6,379 | Go | 96 | An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.  | 2026-03-05 |
-| 36 | [sui](https://github.com/MystenLabs/sui) | 7,737 | 11,665 | Rust | 182 |  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language | 2026-08-25 |
+| 29 | [hardhat](https://github.com/NomicFoundation/hardhat) | 8,506 | 1,731 | TypeScript | 606 | Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.  | 2026-08-25 |
+| 30 | [substrate](https://github.com/paritytech/substrate) | 8,400 | 2,634 | Rust | 542 | Substrate: The platform for blockchain innovators | 2023-09-25 |
+| 31 | [chainlink](https://github.com/smartcontractkit/chainlink) | 8,238 | 1,980 | Go | 108 | node of the decentralized oracle network, bridging on and off-chain computation | 2026-08-26 |
+| 32 | [lnd](https://github.com/lightningnetwork/lnd) | 8,186 | 2,281 | Go | 582 | Lightning Network Daemon ⚡️ | 2026-08-25 |
+| 33 | [blockchain](https://github.com/dvf/blockchain) | 8,046 | 2,796 | C# | 82 | A simple Blockchain in Python | 2024-07-21 |
+| 34 | [datahaven](https://github.com/datahaven-xyz/datahaven) | 7,900 | 146 | Rust | 0 | An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer | 2026-04-17 |
+| 35 | [go-ibax](https://github.com/IBAX-io/go-ibax) | 7,851 | 6,379 | Go | 96 | An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.  | 2026-03-05 |
+| 36 | [sui](https://github.com/MystenLabs/sui) | 7,738 | 11,664 | Rust | 183 |  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language | 2026-08-26 |
 | 37 | [tachyon](https://github.com/kroma-network/tachyon) | 7,654 | 234 | C++ | 18 | Modular ZK(Zero Knowledge) backend accelerated by GPU | 2024-11-29 |
 | 38 | [smart-contract-best-practices](https://github.com/ConsenSysDiligence/smart-contract-best-practices) | 7,570 | 1,466 | HTML | 18 | A guide to smart contract security best practices | 2025-03-28 |
-| 39 | [mist](https://github.com/ethereum/mist) | 7,422 | 1,868 | JavaScript | 779 | [DEPRECATED] Mist. Browse and use Ðapps on the Ethereum network. | 2020-07-20 |
-| 40 | [blockchain](https://github.com/LiuBoyu/blockchain) | 7,385 | 1,591 | - | 12 | 区块链 - 中文资源 | 2022-09-20 |
-| 41 | [lbry-sdk](https://github.com/lbryio/lbry-sdk) | 7,172 | 492 | Python | 381 | The LBRY SDK for building decentralized, censorship resistant, monetized digital content apps. | 2024-08-19 |
+| 39 | [mist](https://github.com/ethereum/mist) | 7,423 | 1,868 | JavaScript | 779 | [DEPRECATED] Mist. Browse and use Ðapps on the Ethereum network. | 2020-07-20 |
+| 40 | [blockchain](https://github.com/LiuBoyu/blockchain) | 7,384 | 1,591 | - | 12 | 区块链 - 中文资源 | 2022-09-20 |
+| 41 | [lbry-sdk](https://github.com/lbryio/lbry-sdk) | 7,173 | 492 | Python | 381 | The LBRY SDK for building decentralized, censorship resistant, monetized digital content apps. | 2024-08-19 |
 | 42 | [polkadot](https://github.com/paritytech/polkadot) | 7,087 | 1,531 | Rust | 80 | Polkadot Node Implementation | 2023-11-15 |
-| 43 | [blockchain_guide](https://github.com/yeasy/blockchain_guide) | 7,076 | 1,943 | Python | 0 | Introduce technologies on blockchain and distributed ledger, from theory to practice with bitcoin, ethereum and hyperledger. | 2026-08-24 |
-| 44 | [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | 7,049 | 4,221 | Go | 175 | Framework for building performant, customizable blockchains with native interoperability | 2026-08-24 |
-| 45 | [Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) | 6,839 | 778 | - | 17 | Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency. | 2025-10-12 |
+| 43 | [blockchain_guide](https://github.com/yeasy/blockchain_guide) | 7,077 | 1,942 | Python | 0 | Introduce technologies on blockchain and distributed ledger, from theory to practice with bitcoin, ethereum and hyperledger. | 2026-08-25 |
+| 44 | [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | 7,050 | 4,220 | Go | 174 | Framework for building performant, customizable blockchains with native interoperability | 2026-08-25 |
+| 45 | [Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) | 6,841 | 778 | - | 17 | Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency. | 2025-10-12 |
 | 46 | [parity-ethereum](https://github.com/openethereum/parity-ethereum) | 6,823 | 1,702 | Rust | 129 | The fast, light, and robust client for Ethereum-like networks. | 2020-11-01 |
-| 47 | [intentkit](https://github.com/crestalnetwork/intentkit) | 6,507 | 714 | Python | 56 | IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you. | 2026-08-01 |
-| 48 | [aptos-core](https://github.com/aptos-labs/aptos-core) | 6,433 | 3,913 | Rust | 456 | Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience. | 2026-08-25 |
-| 49 | [ethereum-org-website](https://github.com/ethereum/ethereum-org-website) | 5,958 | 5,424 | Markdown | 95 | Ethereum.org is a primary online resource for the Ethereum community. | 2026-08-24 |
-| 50 | [tendermint](https://github.com/tendermint/tendermint) | 5,865 | 2,101 | Go | 0 | ⟁ Tendermint Core (BFT Consensus) in Go | 2026-08-24 |
-| 51 | [Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) | 5,839 | 1,463 | Solidity | 11 | Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization. | 2026-03-30 |
-| 52 | [reth](https://github.com/paradigmxyz/reth) | 5,748 | 2,508 | Rust | 65 | Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust | 2026-08-24 |
-| 53 | [blockchain-demo](https://github.com/anders94/blockchain-demo) | 5,660 | 2,777 | Pug | 1 | A web-based demonstration of blockchain concepts. | 2026-07-29 |
-| 54 | [interface](https://github.com/Uniswap/interface) | 5,530 | 5,369 | TypeScript | 751 | 🦄 Open source interfaces for the Uniswap protocol | 2026-08-17 |
-| 55 | [web3.py](https://github.com/ApeWorX/web3.py) | 5,521 | 1,725 | Python | 97 | A python interface for interacting with the Ethereum blockchain and ecosystem. | 2026-08-23 |
-| 56 | [massa](https://github.com/massalabs/massa) | 5,520 | 718 | Rust | 226 | The Decentralized and Scaled Blockchain | 2026-08-24 |
-| 57 | [sphere-sdk](https://github.com/unicity-sphere/sphere-sdk) | 5,398 | 106 | TypeScript | 103 | The SDK for autonomous economic agents. Give an agent an identity, a wallet, and the ability to find, negotiate with, and settle with other agents - peer-to-peer, with perfect privacy and ultra-fast f... | 2026-08-24 |
-| 58 | [web3j](https://github.com/LFDT-web3j/web3j) | 5,391 | 1,771 | Java | 127 | Lightweight Java and Android library for integration with Ethereum clients | 2026-08-18 |
+| 47 | [intentkit](https://github.com/crestalnetwork/intentkit) | 6,509 | 714 | Python | 56 | IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you. | 2026-08-01 |
+| 48 | [aptos-core](https://github.com/aptos-labs/aptos-core) | 6,432 | 3,913 | Rust | 456 | Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience. | 2026-08-26 |
+| 49 | [ethereum-org-website](https://github.com/ethereum/ethereum-org-website) | 5,958 | 5,424 | Markdown | 93 | Ethereum.org is a primary online resource for the Ethereum community. | 2026-08-25 |
+| 50 | [tendermint](https://github.com/tendermint/tendermint) | 5,867 | 2,101 | Go | 0 | ⟁ Tendermint Core (BFT Consensus) in Go | 2026-08-24 |
+| 51 | [Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) | 5,838 | 1,463 | Solidity | 11 | Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization. | 2026-03-30 |
+| 52 | [reth](https://github.com/paradigmxyz/reth) | 5,751 | 2,509 | Rust | 67 | Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust | 2026-08-25 |
+| 53 | [blockchain-demo](https://github.com/anders94/blockchain-demo) | 5,661 | 2,777 | Pug | 1 | A web-based demonstration of blockchain concepts. | 2026-07-29 |
+| 54 | [interface](https://github.com/Uniswap/interface) | 5,532 | 5,369 | TypeScript | 752 | 🦄 Open source interfaces for the Uniswap protocol | 2026-08-17 |
+| 55 | [web3.py](https://github.com/ApeWorX/web3.py) | 5,522 | 1,725 | Python | 97 | A python interface for interacting with the Ethereum blockchain and ecosystem. | 2026-08-23 |
+| 56 | [massa](https://github.com/massalabs/massa) | 5,519 | 718 | Rust | 217 | The Decentralized and Scaled Blockchain | 2026-08-25 |
+| 57 | [sphere-sdk](https://github.com/unicity-sphere/sphere-sdk) | 5,398 | 106 | TypeScript | 103 | The SDK for autonomous economic agents. Give an agent an identity, a wallet, and the ability to find, negotiate with, and settle with other agents - peer-to-peer, with perfect privacy and ultra-fast f... | 2026-08-25 |
+| 58 | [web3j](https://github.com/LFDT-web3j/web3j) | 5,392 | 1,770 | Java | 128 | Lightweight Java and Android library for integration with Ethereum clients | 2026-08-18 |
 | 59 | [naivechain](https://github.com/lhartikk/naivechain) | 5,292 | 1,120 | JavaScript | 25 | A blockchain implementation in 200 lines of code | 2020-04-13 |
-| 60 | [bitcoinj](https://github.com/bitcoinj/bitcoinj) | 5,226 | 2,562 | Java | 350 | A library for working with Bitcoin | 2026-08-24 |
-| 61 | [rippled](https://github.com/XRPLF/rippled) | 5,190 | 1,701 | C++ | 694 | Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++ | 2026-08-24 |
-| 62 | [anchor](https://github.com/otter-sec/anchor) | 5,118 | 1,965 | Rust | 73 | ⚓ Solana Program Framework | 2026-08-21 |
+| 60 | [bitcoinj](https://github.com/bitcoinj/bitcoinj) | 5,227 | 2,562 | Java | 350 | A library for working with Bitcoin | 2026-08-25 |
+| 61 | [rippled](https://github.com/XRPLF/rippled) | 5,191 | 1,701 | C++ | 694 | Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++ | 2026-08-26 |
+| 62 | [anchor](https://github.com/otter-sec/anchor) | 5,121 | 1,966 | Rust | 73 | ⚓ Solana Program Framework | 2026-08-21 |
 | 63 | [bitcore](https://github.com/bitpay/bitcore) | 4,988 | 2,148 | TypeScript | 14 | A full stack for bitcoin and blockchain-based applications | 2026-08-06 |
-| 64 | [quorum](https://github.com/Consensys/quorum) | 4,765 | 1,299 | Go | 0 | A permissioned implementation of Ethereum supporting data privacy | 2026-06-05 |
-| 65 | [ganache-ui](https://github.com/ConsenSys-archive/ganache-ui) | 4,699 | 817 | JavaScript | 3539 | Personal blockchain for Ethereum development | 2024-03-21 |
-| 66 | [BlockChain](https://github.com/itheima1/BlockChain) | 4,646 | 1,234 | JavaScript | 51 | 黑马程序员 120天全栈区块链开发 开源教程 | 2023-12-28 |
-| 67 | [blockscout](https://github.com/blockscout/blockscout) | 4,646 | 3,140 | Elixir | 143 | Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.  | 2026-08-24 |
-| 68 | [Knowledge-Base](https://github.com/slowmist/Knowledge-Base) | 4,591 | 596 | - | 0 | Knowledge Base 慢雾安全团队知识库 | 2026-08-12 |
-| 69 | [snarkOS](https://github.com/ProvableHQ/snarkOS) | 4,526 | 2,693 | Rust | 95 | A Decentralized Operating System for ZK Applications | 2026-08-24 |
-| 70 | [CryptoList](https://github.com/coinpride/CryptoList) | 4,469 | 1,026 | - | 28 | Curated collection of blockchain & cryptocurrency resources. | 2024-06-19 |
+| 64 | [quorum](https://github.com/Consensys/quorum) | 4,765 | 1,298 | Go | 0 | A permissioned implementation of Ethereum supporting data privacy | 2026-06-05 |
+| 65 | [ganache-ui](https://github.com/ConsenSys-archive/ganache-ui) | 4,700 | 817 | JavaScript | 3539 | Personal blockchain for Ethereum development | 2024-03-21 |
+| 66 | [blockscout](https://github.com/blockscout/blockscout) | 4,648 | 3,138 | Elixir | 144 | Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.  | 2026-08-25 |
+| 67 | [BlockChain](https://github.com/itheima1/BlockChain) | 4,647 | 1,234 | JavaScript | 51 | 黑马程序员 120天全栈区块链开发 开源教程 | 2023-12-28 |
+| 68 | [Knowledge-Base](https://github.com/slowmist/Knowledge-Base) | 4,592 | 596 | - | 0 | Knowledge Base 慢雾安全团队知识库 | 2026-08-12 |
+| 69 | [snarkOS](https://github.com/ProvableHQ/snarkOS) | 4,524 | 2,693 | Rust | 96 | A Decentralized Operating System for ZK Applications | 2026-08-25 |
+| 70 | [CryptoList](https://github.com/coinpride/CryptoList) | 4,472 | 1,026 | - | 28 | Curated collection of blockchain & cryptocurrency resources. | 2024-06-19 |
 | 71 | [cointop](https://github.com/cointop-sh/cointop) | 4,396 | 350 | Go | 49 | A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota | 2024-04-07 |
 | 72 | [blockchain_go](https://github.com/Jeiwan/blockchain_go) | 4,375 | 1,175 | Go | 33 | A simplified blockchain implementation in Golang | 2024-06-20 |
-| 73 | [mythril](https://github.com/ConsenSysDiligence/mythril) | 4,265 | 820 | Python | 116 | Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains. | 2026-04-27 |
-| 74 | [project_web3.0](https://github.com/adrianhajdin/project_web3.0) | 4,252 | 1,178 | JavaScript | 0 | This is a code repository for the corresponding video tutorial. In this video, we're going to build a Web 3.0 React Solidity Blockchain Application | 2024-10-29 |
-| 75 | [bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) | 4,159 | 2,281 | Java | 0 | Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required. | 2025-03-05 |
-| 76 | [ton](https://github.com/ton-blockchain/ton) | 4,134 | 1,637 | C++ | 146 | Main TON monorepo | 2026-08-24 |
-| 77 | [ethereum_book](https://github.com/inoutcode/ethereum_book) | 4,077 | 978 | Vue | 8 | 精通以太坊 （中文版） | 2024-05-07 |
+| 73 | [mythril](https://github.com/ConsenSysDiligence/mythril) | 4,265 | 819 | Python | 116 | Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains. | 2026-04-27 |
+| 74 | [project_web3.0](https://github.com/adrianhajdin/project_web3.0) | 4,251 | 1,178 | JavaScript | 0 | This is a code repository for the corresponding video tutorial. In this video, we're going to build a Web 3.0 React Solidity Blockchain Application | 2024-10-29 |
+| 75 | [bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) | 4,160 | 2,281 | Java | 0 | Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required. | 2025-03-05 |
+| 76 | [ton](https://github.com/ton-blockchain/ton) | 4,135 | 1,639 | C++ | 146 | Main TON monorepo | 2026-08-25 |
+| 77 | [ethereum_book](https://github.com/inoutcode/ethereum_book) | 4,078 | 978 | Vue | 8 | 精通以太坊 （中文版） | 2024-05-07 |
 | 78 | [corda](https://github.com/corda/corda) | 4,074 | 1,072 | Kotlin | 52 | Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contra... | 2026-08-21 |
 | 79 | [bigchaindb](https://github.com/bigchaindb/bigchaindb) | 4,035 | 759 | Python | 168 | Meet BigchainDB. The blockchain database. | 2024-07-04 |
 | 80 | [status-legacy](https://github.com/status-im/status-legacy) | 4,020 | 989 | Clojure | 443 | a free (libre) open source, mobile OS for Ethereum | 2026-07-22 |
-| 81 | [rotki](https://github.com/rotki/rotki) | 3,991 | 758 | Python | 418 | A portfolio tracking, analytics, accounting and management application that protects your privacy | 2026-08-24 |
+| 81 | [rotki](https://github.com/rotki/rotki) | 3,995 | 757 | Python | 413 | A portfolio tracking, analytics, accounting and management application that protects your privacy | 2026-08-25 |
 | 82 | [eattheblocks](https://github.com/jklepatch/eattheblocks) | 3,989 | 3,077 | JavaScript | 68 | Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers | 2024-08-19 |
-| 83 | [wallet](https://github.com/bitpay/wallet) | 3,938 | 1,753 | TypeScript | 392 | Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices. | 2026-02-03 |
+| 83 | [wallet](https://github.com/bitpay/wallet) | 3,939 | 1,753 | TypeScript | 392 | Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices. | 2026-02-03 |
 | 84 | [EthList](https://github.com/Scanate/EthList) | 3,875 | 515 | - | 4 | The Comprehensive Ethereum Reading List | 2026-05-04 |
-| 85 | [manticore](https://github.com/trailofbits/manticore) | 3,858 | 497 | Python | 261 | Symbolic execution tool | 2026-06-24 |
+| 85 | [manticore](https://github.com/trailofbits/manticore) | 3,858 | 496 | Python | 261 | Symbolic execution tool | 2026-06-24 |
 | 86 | [awesome-blockchains](https://github.com/openblockchains/awesome-blockchains) | 3,778 | 465 | Ruby | 0 | A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized.  | 2023-02-10 |
 | 87 | [embark](https://github.com/embarklabs/embark) | 3,770 | 478 | JavaScript | 69 | Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms | 2024-07-30 |
 | 88 | [hyperledger](https://github.com/hyperledger/hyperledger) | 3,733 | 702 | - | 0 | Hyperledger is a Collaborative Project at The Linux Foundation. | 2022-01-29 |
-| 89 | [free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) | 3,662 | 576 | CSS | 13 | A list of FREE resources to make Web3 accessible to everyone. | 2024-10-11 |
-| 90 | [awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) | 3,628 | 525 | Go | 9 | ⚡️Curated list of resources for the development and applications of blockchain. | 2024-03-22 |
-| 91 | [erigon](https://github.com/erigontech/erigon) | 3,579 | 1,539 | Go | 481 | Ethereum implementation on the efficiency frontier  | 2026-08-25 |
-| 92 | [wallet-core](https://github.com/trustwallet/wallet-core) | 3,559 | 1,979 | C++ | 123 | Cross-platform, cross-blockchain wallet library. | 2026-08-21 |
-| 93 | [viem](https://github.com/wevm/viem) | 3,542 | 1,507 | TypeScript | 0 | TypeScript Interface for Ethereum | 2026-08-25 |
-| 94 | [neo](https://github.com/neo-project/neo) | 3,535 | 1,044 | C# | 219 | NEO Smart Economy | 2026-08-24 |
-| 95 | [nano-node](https://github.com/nanocurrency/nano-node) | 3,525 | 807 | C++ | 274 | Nano is digital currency. Its ticker is: XNO and its currency symbol is: Ӿ | 2026-08-24 |
+| 89 | [free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) | 3,663 | 576 | CSS | 13 | A list of FREE resources to make Web3 accessible to everyone. | 2024-10-11 |
+| 90 | [awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) | 3,627 | 525 | Go | 9 | ⚡️Curated list of resources for the development and applications of blockchain. | 2024-03-22 |
+| 91 | [erigon](https://github.com/erigontech/erigon) | 3,579 | 1,540 | Go | 480 | Ethereum implementation on the efficiency frontier  | 2026-08-25 |
+| 92 | [wallet-core](https://github.com/trustwallet/wallet-core) | 3,560 | 1,978 | C++ | 124 | Cross-platform, cross-blockchain wallet library. | 2026-08-21 |
+| 93 | [viem](https://github.com/wevm/viem) | 3,544 | 1,506 | TypeScript | 0 | TypeScript Interface for Ethereum | 2026-08-25 |
+| 94 | [neo](https://github.com/neo-project/neo) | 3,535 | 1,044 | C# | 219 | NEO Smart Economy | 2026-08-25 |
+| 95 | [nano-node](https://github.com/nanocurrency/nano-node) | 3,525 | 807 | C++ | 274 | Nano is digital currency. Its ticker is: XNO and its currency symbol is: Ӿ | 2026-08-26 |
 | 96 | [lbry-desktop](https://github.com/lbryio/lbry-desktop) | 3,516 | 409 | JavaScript | 608 | A browser and wallet for LBRY, the decentralized, user-controlled content marketplace. | 2026-08-07 |
-| 97 | [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) | 3,435 | 817 | Jupyter Notebook | 5 | A complete course for learning Bitcoin programming and usage from the command | 2026-08-20 |
-| 98 | [awesome-game-security](https://github.com/gmh5225/awesome-game-security) | 3,424 | 485 | Python | 0 | awesome game security [Welcome to PR] | 2026-08-25 |
-| 99 | [bsc](https://github.com/bnb-chain/bsc) | 3,277 | 1,815 | Go | 9 | A BNB Smart Chain client based on the go-ethereum fork | 2026-08-25 |
-| 100 | [BlueWallet](https://github.com/BlueWallet/BlueWallet) | 3,275 | 1,047 | TypeScript | 375 | Bitcoin wallet for iOS & Android. Built with React Native  | 2026-08-24 |
+| 97 | [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) | 3,434 | 817 | Jupyter Notebook | 5 | A complete course for learning Bitcoin programming and usage from the command | 2026-08-20 |
+| 98 | [awesome-game-security](https://github.com/gmh5225/awesome-game-security) | 3,429 | 485 | Python | 0 | awesome game security [Welcome to PR] | 2026-08-26 |
+| 99 | [bsc](https://github.com/bnb-chain/bsc) | 3,280 | 1,819 | Go | 9 | A BNB Smart Chain client based on the go-ethereum fork | 2026-08-25 |
+| 100 | [BlueWallet](https://github.com/BlueWallet/BlueWallet) | 3,277 | 1,049 | TypeScript | 374 | Bitcoin wallet for iOS & Android. Built with React Native  | 2026-08-25 |
