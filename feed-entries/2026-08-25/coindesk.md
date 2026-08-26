@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-08-25"
 date: "2026-08-25"
 source: "CoinDesk"
-count: 20
+count: 23
 ---
 
 # CoinDesk - 2026-08-25
 
-20 items collected.
+23 items collected.
 
 ---
 
-## 1. LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges
+## 1. U.S. state banking associations plan to launch their own nationwide blockchain network
+
+**Author:** Jesse Hamilton  
+**Published:** 8/25/2026, 9:56:57 PM  
+**Categories:** Policy, banks, News  
+
+The "BankChain Alliance" is aiming for a 2027 launch, and would foster stablecoins, payments and tokenized deposits inside the banking system's regulatory sphere.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network)
+
+---
+
+## 2. Zerohash back for second effort at OCC trust bank charter
+
+**Author:** Jesse Hamilton  
+**Published:** 8/25/2026, 9:38:28 PM  
+**Categories:** Policy, banks, Zerohash, News  
+
+The crypto infrastructure firm failed to get approval when it first sought a U.S. charter, and the company is quickly back with what it said would be a narrower effort.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter)
+
+---
+
+## 3. South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move
+
+**Author:** Krisztian Sandor  
+**Published:** 8/25/2026, 7:40:00 PM  
+**Categories:** Finance, Tokenization, South Korea, Real World Assets, News  
+
+The $22 billion trading company worked with Olea and Intain on the transaction, following an Injective pilot with LG CNS last month.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move)
+
+---
+
+## 4. LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges
 
 **Author:** Krisztian Sandor  
 **Published:** 8/25/2026, 4:22:47 PM  
@@ -23,7 +59,7 @@ The trading infrastructure runs on LayerZero's Zero blockchain, backed by Citade
 
 ---
 
-## 2. Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios
+## 5. Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios
 
 **Author:** Krisztian Sandor  
 **Published:** 8/25/2026, 2:50:22 PM  
@@ -35,7 +71,7 @@ The crypto ETF issuer is pushing deeper into onchain asset management as tokeniz
 
 ---
 
-## 3. Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price
+## 6. Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price
 
 **Author:** Ian Allison  
 **Published:** 8/25/2026, 1:48:50 PM  
@@ -47,7 +83,7 @@ Once valued at $2.5 billion, Copper was being marketed by investment bank Cantor
 
 ---
 
-## 4. MiCA revolutionised European crypto, and left Poland licking its wounds
+## 7. MiCA revolutionised European crypto, and left Poland licking its wounds
 
 **Author:** Mateusz Kara  
 **Published:** 8/25/2026, 1:00:00 PM  
@@ -59,7 +95,7 @@ Many in Poland may look back at 2026 as the year European crypto finally grew up
 
 ---
 
-## 5. Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase
+## 8. Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase
 
 **Author:** Jesse Hamilton  
 **Published:** 8/25/2026, 1:00:00 PM  
@@ -71,7 +107,7 @@ Many in Poland may look back at 2026 as the year European crypto finally grew up
 
 ---
 
-## 6. A 3% token move just triggered $36 million in Ethereum DeFi liquidations
+## 9. A 3% token move just triggered $36 million in Ethereum DeFi liquidations
 
 **Author:** Shaurya Malwa  
 **Published:** 8/25/2026, 12:03:55 PM  
@@ -83,7 +119,7 @@ One wallet bought heavily into a yield token, which pushed the price of its pair
 
 ---
 
-## 7. Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme
+## 10. Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme
 
 **Author:** Olivier Acuna  
 **Published:** 8/25/2026, 11:46:18 AM  
@@ -95,7 +131,7 @@ Brent Kovar has been found guilty of running a crypto Ponzi scheme, defrauding a
 
 ---
 
-## 8. Bitcoin's surging price faces 1 key level that could signal if the bear market is really over
+## 11. Bitcoin's surging price faces 1 key level that could signal if the bear market is really over
 
 **Author:** Omkar Godbole  
 **Published:** 8/25/2026, 11:15:02 AM  
@@ -107,7 +143,7 @@ Your day-ahead look for Aug. 25, 2026
 
 ---
 
-## 9. A bitcoin short squeeze for the ages as futures open interest collapses
+## 12. A bitcoin short squeeze for the ages as futures open interest collapses
 
 **Author:** James Van Straten  
 **Published:** 8/25/2026, 10:57:02 AM  
@@ -119,7 +155,7 @@ Falling open interest and subdued funding rates suggest the rally remains struct
 
 ---
 
-## 10. Bitcoin extends 7-day advance to roughly 25%
+## 13. Bitcoin extends 7-day advance to roughly 25%
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/25/2026, 10:52:03 AM  
@@ -131,7 +167,7 @@ Bitcoin crossed $80,000 for the first time since May, extending its seven-day ad
 
 ---
 
-## 11. Solana ETFs extend growth streak to 5 days after year's biggest inflows
+## 14. Solana ETFs extend growth streak to 5 days after year's biggest inflows
 
 **Author:** Olivier Acuna  
 **Published:** 8/25/2026, 10:25:32 AM  
@@ -143,7 +179,7 @@ Monday's $33.5 million was the largest single-day inflow since December, pushing
 
 ---
 
-## 12. U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology
+## 15. U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 8/25/2026, 8:47:18 AM  
@@ -155,7 +191,7 @@ Treasury says Ivan Obukhov processed over $100 million in crypto for IRGC-QF oil
 
 ---
 
-## 13. Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia
+## 16. Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia
 
 **Author:** Olivier Acuna  
 **Published:** 8/25/2026, 7:55:18 AM  
@@ -167,9 +203,9 @@ Tokenized U.S. treasury and money market funds are one of the fastest-growing se
 
 ---
 
-## 14. Live updates: Bitcoin settles in under $80,000, with interest rates headed lower on Tuesday
+## 17. Live updates: Bitcoin settles in under $80,000, with interest rates headed lower on Tuesday
 
-**Author:** Shaurya Malwa,Helene Braun,Krisztian Sandor,James Van Straten  
+**Author:** Shaurya Malwa,Helene Braun,Krisztian Sandor,James Van Straten,Stephen Alpher  
 **Published:** 8/25/2026, 7:40:11 AM  
 **Categories:** Finance, Live News, live_news  
 
@@ -179,7 +215,7 @@ Spot bitcoin funds took in $337.56 million on Aug. 24, extending an unbroken run
 
 ---
 
-## 15. Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says
+## 18. Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says
 
 **Author:** Omkar Godbole  
 **Published:** 8/25/2026, 7:32:32 AM  
@@ -191,7 +227,7 @@ The billionaire investor argues the intervention removes a vital check on govern
 
 ---
 
-## 16. Monad proposes wallet upgrade that could survive lost keys and quantum attacks
+## 19. Monad proposes wallet upgrade that could survive lost keys and quantum attacks
 
 **Author:** Shaurya Malwa  
 **Published:** 8/25/2026, 7:01:49 AM  
@@ -203,7 +239,7 @@ The Ethereum-compatible blockchain wants users to be able to replace the keys co
 
 ---
 
-## 17. Crypto rally spills into dog and cat memecoins as smaller tokens double in a week
+## 20. Crypto rally spills into dog and cat memecoins as smaller tokens double in a week
 
 **Author:** Shaurya Malwa  
 **Published:** 8/25/2026, 6:26:29 AM  
@@ -215,7 +251,7 @@ Robinhood Chain-based Cash Cat jumped more than 50% in a day, while several smal
 
 ---
 
-## 18. Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000
+## 21. Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000
 
 **Author:** Omkar Godbole  
 **Published:** 8/25/2026, 5:51:52 AM  
@@ -227,7 +263,7 @@ Traders are spending millions to position for further Bitcoin upside after its s
 
 ---
 
-## 19. Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning
+## 22. Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning
 
 **Author:** Shaurya Malwa  
 **Published:** 8/25/2026, 5:25:11 AM  
@@ -239,7 +275,7 @@ BTC is up more than 25% on the week after Treasury’s bond-buyback expansion sp
 
 ---
 
-## 20. Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates
+## 23. Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates
 
 **Author:** Krisztian Sandor,Helene Braun  
 **Published:** 8/25/2026, 12:55:32 AM  
