@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-08-26"
 date: "2026-08-26"
 source: "Cointelegraph"
-count: 17
+count: 18
 ---
 
 # Cointelegraph - 2026-08-26
 
-17 items collected.
+18 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Better launches Bitcoin-backed mortgages powered by Coinbase
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/26/2026, 8:09:23 PM  
+**Categories:** Latest News  
+
+Better and Coinbase have launched a crypto-backed mortgage product that lets US homebuyers pledge Bitcoin as collateral for a down payment without having to sell it.
+
+📖 [Read original article](https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/26/2026, 7:14:06 PM  
@@ -23,7 +35,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Chainalysis estimates $457B in taxable crypto activity, says CARF misses most
+## 3. Chainalysis estimates $457B in taxable crypto activity, says CARF misses most
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/26/2026, 5:48:34 PM  
@@ -35,7 +47,7 @@ The blockchain analytics firm said just 14% of the onchain activity it identifie
 
 ---
 
-## 3. SEC sends crypto custody rule overhaul to White House for review
+## 4. SEC sends crypto custody rule overhaul to White House for review
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/26/2026, 4:19:09 PM  
@@ -47,7 +59,7 @@ The securities regulator’s crypto custody overhaul could clarify how investmen
 
 ---
 
-## 4. 77% of Americans see crypto in retirement plans as risky: Survey
+## 5. 77% of Americans see crypto in retirement plans as risky: Survey
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/26/2026, 4:10:56 PM  
@@ -59,7 +71,7 @@ A new survey finds broad skepticism toward crypto in workplace retirement plans 
 
 ---
 
-## 5. Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data
+## 6. Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/26/2026, 3:58:55 PM  
@@ -71,7 +83,7 @@ Bitcoin stayed away from challenging $80,000 after July US PCE inflation data ca
 
 ---
 
-## 6. Protocol upgrade decouples consensus from execution to solve scaling bottlenecks
+## 7. Protocol upgrade decouples consensus from execution to solve scaling bottlenecks
 
 **Author:** Cointelegraph by Nihatcan Yanik  
 **Published:** 8/26/2026, 3:04:32 PM  
@@ -83,7 +95,7 @@ CTDG Dev Hub participant’s protocol upgrade decouples consensus from execution
 
 ---
 
-## 7. SEC’s proposed crypto rules probably won’t spark new ICO boom
+## 8. SEC’s proposed crypto rules probably won’t spark new ICO boom
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 8/26/2026, 1:30:00 PM  
@@ -95,7 +107,7 @@ The SEC’s ‘regulation crypto assets’ proposals could create early-round FO
 
 ---
 
-## 8. Students want crypto classes but learn on social media: OKX survey
+## 9. Students want crypto classes but learn on social media: OKX survey
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/26/2026, 1:00:00 PM  
@@ -107,7 +119,7 @@ A separate review found only about 28% of accredited US business schools offered
 
 ---
 
-## 9. Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak
+## 10. Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/26/2026, 12:32:36 PM  
@@ -119,7 +131,7 @@ Bernstein expects Bitcoin to reclaim $125,000 by late 2026, before reaching $300
 
 ---
 
-## 10. Taurus links digital asset platforms to Swift’s blockchain ledger
+## 11. Taurus links digital asset platforms to Swift’s blockchain ledger
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/26/2026, 12:00:00 PM  
@@ -131,7 +143,7 @@ Taurus expects first institutional clients to connect in days, with initial DLT 
 
 ---
 
-## 11. Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K: Analysis
+## 12. Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K: Analysis
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/26/2026, 10:49:26 AM  
@@ -143,7 +155,7 @@ Bitcoin struggled to establish support at $80,000 as investor cohorts all return
 
 ---
 
-## 12. Japan weighs blockchain fast lane for securities cash settlement
+## 13. Japan weighs blockchain fast lane for securities cash settlement
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 8/26/2026, 10:46:47 AM  
@@ -155,7 +167,7 @@ The FSA, Finance Ministry, BOJ and financial institutions plan to study the infr
 
 ---
 
-## 13. Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B
+## 14. Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/26/2026, 10:15:44 AM  
@@ -167,7 +179,7 @@ The Form D lists 71 investors and says Kalshi is relying on an exemption that al
 
 ---
 
-## 14. Revolut rolls out euro stablecoin in 3 European markets
+## 15. Revolut rolls out euro stablecoin in 3 European markets
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/26/2026, 8:45:41 AM  
@@ -179,7 +191,7 @@ The Bridge-issued EURR token will support multiple blockchains and external wall
 
 ---
 
-## 15. Tornado Cash developer Roman Storm’s retrial delayed to April 2027
+## 16. Tornado Cash developer Roman Storm’s retrial delayed to April 2027
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/26/2026, 7:44:04 AM  
@@ -191,7 +203,7 @@ Judge Katherine Polk Failla adjourned the retrial in light of Storm’s pending 
 
 ---
 
-## 16. Bitcoin ETFs tear through 2026 outflows in 7-day hot streak
+## 17. Bitcoin ETFs tear through 2026 outflows in 7-day hot streak
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/26/2026, 7:30:31 AM  
@@ -203,7 +215,7 @@ The funds are $390 million short of October 2025’s inflow total after cutting 
 
 ---
 
-## 17. US state banking groups plan nationwide blockchain network for 2027
+## 18. US state banking groups plan nationwide blockchain network for 2027
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/26/2026, 4:19:00 AM  
