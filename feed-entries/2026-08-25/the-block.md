@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-25"
 date: "2026-08-25"
 source: "The Block"
-count: 5
+count: 3
 ---
 
 # The Block - 2026-08-25
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ The crypto-backed portfolio line of credit lets eligible GalaxyOne clients borro
 The portfolios, powered by Coinbase and implemented through Glider, will initially target themes including the Mag 7 and AI.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-08-25-bitwise-launches-automated-tokenized-stock-portfolios-for-mag-7-ai-and-robotics-themes-412706)
-
----
-
-## 4. Robinhood Chain DEX Arcus launches pTokens to turn perp accounts into transferable ERC-20s
-
-**Author:** James Hunt  
-**Published:** 8/25/2026, 2:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Markets, Public Equities, Robinhood, News  
-
-Each pToken represents a pro-rata ownership stake in an underlying Arcus perpetuals account at a fixed market and leverage level.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-08-25-robinhood-chain-dex-arcus-ptokens-perps-erc-20s-412696)
-
----
-
-## 5. Grayscale debuts first Zcash ETF of its kind as privacy coin surges
-
-**Author:** Sarah Wynn  
-**Published:** 8/25/2026, 12:00:00 PM  
-**Categories:** Markets, Policy, Regulation, SEC, News  
-
-On Tuesday morning, Grayscale launched the first ETF to offer direct exposure to Zcash, the privacy-focused cryptocurrency.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-25-grayscale-debuts-zcash-etf-412654)
 
 ---
