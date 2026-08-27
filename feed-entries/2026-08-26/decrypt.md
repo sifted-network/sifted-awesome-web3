@@ -2,16 +2,76 @@
 title: "Decrypt - 2026-08-26"
 date: "2026-08-26"
 source: "Decrypt"
-count: 12
+count: 17
 ---
 
 # Decrypt - 2026-08-26
 
-12 items collected.
+17 items collected.
 
 ---
 
-## 1. US Banks Join Forces to Build a Blockchain of Their Own
+## 1. Russian Influence Network Used ChatGPT to Masquerade as Academic Experts
+
+**Author:** Jason Nelson  
+**Published:** 8/26/2026, 10:46:03 PM  
+**Categories:** Artificial Intelligence  
+
+The operation promoted a purported Israeli think tank that published copied scholarship under academics’ names and circulated pro-Russian analysis across social media.
+
+📖 [Read original article](https://decrypt.co/376662/russia-chatgpt-influence-campaign)
+
+---
+
+## 2. Bill Gates Wants a Robot Tax and Jobs Humans Can't Be Fired From
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/26/2026, 10:16:03 PM  
+**Categories:** Technology  
+
+Gates is calling for AI tokens and robots to be taxed so firms think twice before swapping out workers, plus a bracket of "human reserved" roles that stay off-limits to automation.
+
+📖 [Read original article](https://decrypt.co/376663/bill-gates-robot-tax-jobs-humans-cant-be-fired)
+
+---
+
+## 3. Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue
+
+**Author:** Jason Nelson  
+**Published:** 8/26/2026, 9:42:42 PM  
+**Categories:** Business  
+
+The chipmaker doubled quarterly revenue while disclosing $366 billion in future commitments and up to $108.5 billion in guarantee exposure.
+
+📖 [Read original article](https://decrypt.co/376664/nvidia-shares-surge-record-q2-revenue)
+
+---
+
+## 4. What Traders Are Watching for Bitcoin's Next Move
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/26/2026, 8:22:17 PM  
+**Categories:** , Markets  
+
+Bitcoin's monster rally just hit its first real test. Here's why each catalyst matters and how they could move the price from here.
+
+📖 [Read original article](https://decrypt.co/376649/what-traders-watching-bitcoin-next-move)
+
+---
+
+## 5. Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana
+
+**Author:** Jose Antonio Lanz  
+**Published:** 8/26/2026, 7:56:03 PM  
+**Categories:** , , , Coins  
+
+GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin.
+
+📖 [Read original article](https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana)
+
+---
+
+## 6. US Banks Join Forces to Build a Blockchain of Their Own
 
 **Author:** Jason Nelson  
 **Published:** 8/26/2026, 7:21:25 PM  
@@ -23,7 +83,7 @@ The BankChain Alliance aims to give smaller financial institutions access to tok
 
 ---
 
-## 2. Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week
+## 7. Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/26/2026, 6:44:17 PM  
@@ -35,7 +95,7 @@ Six wallets that slept through Bitcoin's entire boom woke up between Aug. 16 and
 
 ---
 
-## 3. Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL'
+## 8. Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL'
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/26/2026, 5:52:22 PM  
@@ -47,7 +107,7 @@ Nasdaq-listed SOL treasury company DeFi Development Corp launched a free network
 
 ---
 
-## 4. 'The Government Doesn't Own Our Data': Prosecuted GrapheneOS User
+## 9. 'The Government Doesn't Own Our Data': Prosecuted GrapheneOS User
 
 **Author:** Decrypt Agent  
 **Published:** 8/26/2026, 5:24:52 PM  
@@ -59,7 +119,7 @@ Samuel Tunick, facing five years over a wiped phone, said he was secretly placed
 
 ---
 
-## 5. Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme
+## 10. Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme
 
 **Author:** Jason Nelson  
 **Published:** 8/26/2026, 5:15:33 PM  
@@ -71,7 +131,7 @@ Manpreet Kohli, accused of making $20 million from an alleged scheme to manipula
 
 ---
 
-## 6. Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns
+## 11. Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns
 
 **Author:** Jason Nelson  
 **Published:** 8/26/2026, 4:18:24 PM  
@@ -83,7 +143,7 @@ A shift toward faster, more rate-sensitive deposits could push banks into safer 
 
 ---
 
-## 7. XRP Leads Crypto Pullback as Leverage Unwind Tests Rally
+## 12. XRP Leads Crypto Pullback as Leverage Unwind Tests Rally
 
 **Author:** Jose Antonio Lanz  
 **Published:** 8/26/2026, 3:29:49 PM  
@@ -95,7 +155,7 @@ XRP led losses among the 10 biggest cryptocurrencies today. The charts show the 
 
 ---
 
-## 8. Ethereum Devs Propose Deposit Contract Overhaul to Quantum-Proof Staking
+## 13. Ethereum Devs Propose Deposit Contract Overhaul to Quantum-Proof Staking
 
 **Author:** Decrypt Agent  
 **Published:** 8/26/2026, 3:04:58 PM  
@@ -107,7 +167,7 @@ The proposal would let validator keys grow to 8,192 bytes and adds a switch that
 
 ---
 
-## 9. Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says
+## 14. Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says
 
 **Author:** Decrypt Agent  
 **Published:** 8/26/2026, 12:51:03 PM  
@@ -119,7 +179,7 @@ Piero Cipollone said the Eurosystem would not be able to link individuals to tra
 
 ---
 
-## 10. Revolut Launches Euro-Pegged EURR Stablecoin
+## 15. Revolut Launches Euro-Pegged EURR Stablecoin
 
 **Author:** Decrypt Agent  
 **Published:** 8/26/2026, 12:31:13 PM  
@@ -131,7 +191,7 @@ EURR has gone live for selected customers in Denmark, Poland and Portugal, with 
 
 ---
 
-## 11. Morning Minute: LayerZero Announces ATLAS as New Settlement Engine
+## 16. Morning Minute: LayerZero Announces ATLAS as New Settlement Engine
 
 **Author:** Tyler Warner  
 **Published:** 8/26/2026, 11:50:27 AM  
@@ -143,7 +203,7 @@ The market liked the news, with ZRO up 10% and jumping nearly 50% off its local 
 
 ---
 
-## 12. Roman Storm's Tornado Cash Retrial Pushed to April 2027
+## 17. Roman Storm's Tornado Cash Retrial Pushed to April 2027
 
 **Author:** Decrypt Agent  
 **Published:** 8/26/2026, 10:42:35 AM  
