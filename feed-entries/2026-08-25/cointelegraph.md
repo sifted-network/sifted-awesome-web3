@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-25"
 date: "2026-08-25"
 source: "Cointelegraph"
-count: 13
+count: 10
 ---
 
 # Cointelegraph - 2026-08-25
 
-13 items collected.
+10 items collected.
 
 ---
 
@@ -128,41 +128,5 @@ Hugging Face relies on open weight Chinese models to defend itself from rogue AI
 Operation Lighthouse generated 14,300 investigative leads across 11 crypto exchanges and payment services and flagged over 7,700 suspect accounts.
 
 📖 [Read original article](https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. India plans first tokenized bonds using wholesale CBDC: Report
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/25/2026, 12:09:15 PM  
-**Categories:** Latest News  
-
-India plans to test tokenized corporate bonds in a September pilot, with state-controlled REC issuing the debt and select investors using wholesale CBDC payments.
-
-📖 [Read original article](https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Shipyard winds down IPFS work after Protocol Labs ends funding
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/25/2026, 11:57:33 AM  
-**Categories:** Latest News  
-
-The funding loss leaves InterPlanetary File System software without dedicated maintainers and puts the future of key public services in Protocol Labs’ hands.
-
-📖 [Read original article](https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. BTC RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 8/25/2026, 10:51:00 AM  
-**Categories:** Markets  
-
-Bitcoin price analysis eyes the potential end of its current macro downtrend based on weekly RSI signals.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
