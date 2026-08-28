@@ -2,16 +2,28 @@
 title: "The Block - 2026-08-27"
 date: "2026-08-27"
 source: "The Block"
-count: 14
+count: 15
 ---
 
 # The Block - 2026-08-27
 
-14 items collected.
+15 items collected.
 
 ---
 
-## 1. Polish Olympic Committee president detained in Zondacrypto bribery probe
+## 1. UAE ‘spy sheikh’ takes 49% stake in Trump family’s bank venture: WSJ
+
+**Author:** Sarah Wynn  
+**Published:** 8/27/2026, 11:02:03 PM  
+**Categories:** People, Policy, Regulation, Donald Trump, News  
+
+The UAE's national security advisor is playing a major investment role in President Trump's family's bank venture, the WSJ reported.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971)
+
+---
+
+## 2. Polish Olympic Committee president detained in Zondacrypto bribery probe
 
 **Author:** Sarah Wynn  
 **Published:** 8/27/2026, 6:23:53 PM  
@@ -23,7 +35,7 @@ Polish Olympic Committee President Radosław Piesiewicz was detained as part of 
 
 ---
 
-## 2. Ethena Foundation proposes fee switch for ENA token buybacks among other updates
+## 3. Ethena Foundation proposes fee switch for ENA token buybacks among other updates
 
 **Author:** Yogita Khatri  
 **Published:** 8/27/2026, 5:35:33 PM  
@@ -35,7 +47,7 @@ Ethena Foundation announced four updates, including buying locked ENA tokens and
 
 ---
 
-## 3. DeFi Development Corp resumes Solana purchases, acquiring nearly 20,000 SOL
+## 4. DeFi Development Corp resumes Solana purchases, acquiring nearly 20,000 SOL
 
 **Author:** Jason Shubnell  
 **Published:** 8/27/2026, 3:32:13 PM  
@@ -47,7 +59,7 @@ DFDV's return has been more than twice that of SOL in the month of August, while
 
 ---
 
-## 4. PURR jumps 15% as Hyperliquid Strategies updates $1.9 billion HYPE treasury and ‘fortress balance sheet’
+## 5. PURR jumps 15% as Hyperliquid Strategies updates $1.9 billion HYPE treasury and ‘fortress balance sheet’
 
 **Author:** Jason Shubnell  
 **Published:** 8/27/2026, 2:52:15 PM  
@@ -59,7 +71,7 @@ The company said it has since deployed $773.4 million to acquire about 16.5 mill
 
 ---
 
-## 5. Charles Schwab to add Solana, Avalanche and Chainlink to crypto trading platform
+## 6. Charles Schwab to add Solana, Avalanche and Chainlink to crypto trading platform
 
 **Author:** Jason Shubnell  
 **Published:** 8/27/2026, 2:20:05 PM  
@@ -71,7 +83,7 @@ Schwab Crypto began rolling out to clients in May with direct access to BTC and 
 
 ---
 
-## 6. Chainalysis says global crypto taxable activity topped $457 billion in 2025
+## 7. Chainalysis says global crypto taxable activity topped $457 billion in 2025
 
 **Author:** Brian Danga  
 **Published:** 8/27/2026, 1:54:19 PM  
@@ -83,7 +95,7 @@ Chainalysis estimates at least $457 billion in onchain taxable crypto activity i
 
 ---
 
-## 7. Moonwell investigates lending market issue on Base as security firms flag multimillion-dollar exploit
+## 8. Moonwell investigates lending market issue on Base as security firms flag multimillion-dollar exploit
 
 **Author:** James Hunt  
 **Published:** 8/27/2026, 12:59:46 PM  
@@ -95,7 +107,7 @@ Security firms CertiK and PeckShield estimate losses of around $8.7 million afte
 
 ---
 
-## 8. BlackRock’s Mitchnick says bitcoin’s risk-off narrative is ‘the one to bet on’ long term as rally consolidates near $80,000
+## 9. BlackRock’s Mitchnick says bitcoin’s risk-off narrative is ‘the one to bet on’ long term as rally consolidates near $80,000
 
 **Author:** James Hunt  
 **Published:** 8/27/2026, 12:00:09 PM  
@@ -107,7 +119,7 @@ Renewed spot ETF inflows and bitcoin's declining correlation with equities are a
 
 ---
 
-## 9. Binance co-founder Changpeng ‘CZ’ Zhao says bitcoin could surpass gold in next bull market
+## 10. Binance co-founder Changpeng ‘CZ’ Zhao says bitcoin could surpass gold in next bull market
 
 **Author:** Brian Danga  
 **Published:** 8/27/2026, 11:54:48 AM  
@@ -119,7 +131,7 @@ Zhao told Bitcoin Asia 2026 that bitcoin could surpass gold in the next bull mar
 
 ---
 
-## 10. Bithumb wins lawsuit over proceeds from 620,000 BTC fat-finger error: report
+## 11. Bithumb wins lawsuit over proceeds from 620,000 BTC fat-finger error: report
 
 **Author:** Danny Park  
 **Published:** 8/27/2026, 9:37:16 AM  
@@ -131,7 +143,7 @@ In February, the South Korean exchange accidentally credited 620,000 BTC (then w
 
 ---
 
-## 11. Mirae Asset maps out $109 billion digital asset push with Digital X: report
+## 12. Mirae Asset maps out $109 billion digital asset push with Digital X: report
 
 **Author:** Brian Danga  
 **Published:** 8/27/2026, 8:21:57 AM  
@@ -143,7 +155,7 @@ South Korea's Mirae Asset targets a $109 billion digital asset business around D
 
 ---
 
-## 12. Bitcoin faces key hurdle in $81,000-$86,000 range to reach January high, analyst says
+## 13. Bitcoin faces key hurdle in $81,000-$86,000 range to reach January high, analyst says
 
 **Author:** Danny Park  
 **Published:** 8/27/2026, 8:01:42 AM  
@@ -155,7 +167,7 @@ Glassnode views $81,000–$86,000 as the wall, as that is where a large group of
 
 ---
 
-## 13. Connecticut sues Kalshi over sports event contracts in months-long legal feud
+## 14. Connecticut sues Kalshi over sports event contracts in months-long legal feud
 
 **Author:** Timmy Shen  
 **Published:** 8/27/2026, 6:11:59 AM  
@@ -167,7 +179,7 @@ Kalshi Head of Litigation Jovy Dedaj calls the move 'arbitrary and inconsistent 
 
 ---
 
-## 14. First quantum-resistant Bitcoin transaction successfully executed, StarkWare says
+## 15. First quantum-resistant Bitcoin transaction successfully executed, StarkWare says
 
 **Author:** Danny Park  
 **Published:** 8/27/2026, 2:24:36 AM  
