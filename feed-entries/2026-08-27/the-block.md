@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-27"
 date: "2026-08-27"
 source: "The Block"
-count: 15
+count: 9
 ---
 
 # The Block - 2026-08-27
 
-15 items collected.
+9 items collected.
 
 ---
 
@@ -116,77 +116,5 @@ Security firms CertiK and PeckShield estimate losses of around $8.7 million afte
 Renewed spot ETF inflows and bitcoin's declining correlation with equities are also constructive signs, according to analysts.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-08-27-blackrocks-mitchnick-says-bitcoins-risk-off-narrative-is-the-one-to-bet-on-long-term-as-rally-consolidates-near-80000-412897)
-
----
-
-## 10. Binance co-founder Changpeng ‘CZ’ Zhao says bitcoin could surpass gold in next bull market
-
-**Author:** Brian Danga  
-**Published:** 8/27/2026, 11:54:48 AM  
-**Categories:** Markets, News  
-
-Zhao told Bitcoin Asia 2026 that bitcoin could surpass gold in the next bull market, with stablecoins leading AI integration.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-27-binance-co-founder-changpeng-cz-zhao-says-bitcoin-could-surpass-gold-in-next-bull-market-412904)
-
----
-
-## 11. Bithumb wins lawsuit over proceeds from 620,000 BTC fat-finger error: report
-
-**Author:** Danny Park  
-**Published:** 8/27/2026, 9:37:16 AM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Policy, Regulation, Token Projects, Bitcoin, News  
-
-In February, the South Korean exchange accidentally credited 620,000 BTC (then worth around $43 billion) internally to hundreds of users.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-27-bithumb-wins-lawsuit-btc-412893)
-
----
-
-## 12. Mirae Asset maps out $109 billion digital asset push with Digital X: report
-
-**Author:** Brian Danga  
-**Published:** 8/27/2026, 8:21:57 AM  
-**Categories:** Companies, News  
-
-South Korea's Mirae Asset targets a $109 billion digital asset business around Digital X, aiming for profitability by 2027.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-27-mirae-asset-109-billion-digital-asset-push-412883)
-
----
-
-## 13. Bitcoin faces key hurdle in $81,000-$86,000 range to reach January high, analyst says
-
-**Author:** Danny Park  
-**Published:** 8/27/2026, 8:01:42 AM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin, News  
-
-Glassnode views $81,000–$86,000 as the wall, as that is where a large group of long-term holders sits near breakeven, among other factors.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-27-bitcoin-faces-key-hurdle-81000-86000-412876)
-
----
-
-## 14. Connecticut sues Kalshi over sports event contracts in months-long legal feud
-
-**Author:** Timmy Shen  
-**Published:** 8/27/2026, 6:11:59 AM  
-**Categories:** Companies, Crypto Ecosystems, Policy, Regulation, News  
-
-Kalshi Head of Litigation Jovy Dedaj calls the move 'arbitrary and inconsistent enforcement,' as other platforms continue to operate there.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-27-connecticut-sues-kalshi-412870)
-
----
-
-## 15. First quantum-resistant Bitcoin transaction successfully executed, StarkWare says
-
-**Author:** Danny Park  
-**Published:** 8/27/2026, 2:24:36 AM  
-**Categories:** Crypto Ecosystems, DeFi, News  
-
-Still, StarkWare says Bitcoin needs a protocol-level upgrade to make it fully safe from quantum computing threats.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-08-26-first-quantum-resistant-bitcoin-transaction-starkware-412863)
 
 ---
