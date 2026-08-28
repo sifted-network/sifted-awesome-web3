@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-26"
 date: "2026-08-26"
 source: "Cointelegraph"
-count: 11
+count: 8
 ---
 
 # Cointelegraph - 2026-08-26
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ The SEC’s ‘regulation crypto assets’ proposals could create early-round FO
 A separate review found only about 28% of accredited US business schools offered blockchain courses, despite strong demand in the OKX poll.
 
 📖 [Read original article](https://cointelegraph.com/news/students-crypto-classes-learn-social-media-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/26/2026, 12:32:36 PM  
-**Categories:** Markets  
-
-Bernstein expects Bitcoin to reclaim $125,000 by late 2026, before reaching $300,000 in 2029 under its base case, with a bull case of $500,000.
-
-📖 [Read original article](https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Taurus links digital asset platforms to Swift’s blockchain ledger
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/26/2026, 12:00:00 PM  
-**Categories:** Latest News  
-
-Taurus expects first institutional clients to connect in days, with initial DLT transactions through its platforms expected within weeks.
-
-📖 [Read original article](https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K: Analysis
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 8/26/2026, 10:49:26 AM  
-**Categories:** Markets  
-
-Bitcoin struggled to establish support at $80,000 as investor cohorts all returned to net profitability.
-
-📖 [Read original article](https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
