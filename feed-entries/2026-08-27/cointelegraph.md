@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-27"
 date: "2026-08-27"
 source: "Cointelegraph"
-count: 19
+count: 18
 ---
 
 # Cointelegraph - 2026-08-27
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ The transaction used the Marshall Islands-issued USDM1 bond as collateral and co
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 8/27/2026, 7:27:53 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen
+## 2. Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/27/2026, 7:22:14 PM  
@@ -47,7 +35,7 @@ While investors in World Liberty Financial‘s USD1 stablecoin “haven’t suff
 
 ---
 
-## 4. Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X
+## 3. Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/27/2026, 7:00:00 PM  
@@ -59,7 +47,7 @@ The South Korean financial group plans to build a $109 billion digital asset bus
 
 ---
 
-## 5. Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows
+## 4. Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/27/2026, 6:51:02 PM  
@@ -71,7 +59,7 @@ ZEC has climbed roughly 19-fold in a year, yet Grayscale says its sub-1% share o
 
 ---
 
-## 6. Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets
+## 5. Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/27/2026, 5:15:43 PM  
@@ -83,7 +71,7 @@ Bitcoin and crypto joined US stock markets in fresh gains after Nvidia Q2 earnin
 
 ---
 
-## 7. Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform
+## 6. Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/27/2026, 4:13:10 PM  
@@ -95,7 +83,7 @@ The financial services giant plans to expand Schwab Crypto beyond Bitcoin and Et
 
 ---
 
-## 8. Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks
+## 7. Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/27/2026, 4:04:15 PM  
@@ -107,7 +95,7 @@ Canaan, American Bitcoin and Cango jumped as much as 67% as renewed crypto deman
 
 ---
 
-## 9. UK government reports 240 crypto millionaires in 2025
+## 8. UK government reports 240 crypto millionaires in 2025
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/27/2026, 3:56:00 PM  
@@ -119,7 +107,7 @@ About 17,600 people in the UK reported a combined $1.9 billion in gains tied to 
 
 ---
 
-## 10. Ripple Prime expands into US equity derivatives with Delta One business
+## 9. Ripple Prime expands into US equity derivatives with Delta One business
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/27/2026, 1:54:22 PM  
@@ -131,7 +119,7 @@ Institutional clients can access total return swaps across linked to US-listed e
 
 ---
 
-## 11. Bank of England set for new innovation mandate covering stablecoins
+## 10. Bank of England set for new innovation mandate covering stablecoins
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/27/2026, 12:51:59 PM  
@@ -143,7 +131,7 @@ The UK plans to expand the Bank of England’s remit to support digital payments
 
 ---
 
-## 12. Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode
+## 11. Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/27/2026, 10:34:12 AM  
@@ -155,7 +143,7 @@ Bitcoin price analysis reveals convergence of multiple trend lines and liquidity
 
 ---
 
-## 13. Bitfinex Securities completes record $50M tokenized capital raise
+## 12. Bitfinex Securities completes record $50M tokenized capital raise
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/27/2026, 10:00:00 AM  
@@ -167,7 +155,7 @@ Bitfinex Securities completed a record $50 million raise for Alkemya, whose toke
 
 ---
 
-## 14. Bithumb wins 2 suits over mistaken Bitcoin credits: Report
+## 13. Bithumb wins 2 suits over mistaken Bitcoin credits: Report
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/27/2026, 9:26:17 AM  
@@ -179,7 +167,7 @@ Bithumb reportedly won first-instance rulings in two suits seeking proceeds from
 
 ---
 
-## 15. Core Lightning confirms multiple vulnerabilities, prepares security update
+## 14. Core Lightning confirms multiple vulnerabilities, prepares security update
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/27/2026, 8:05:44 AM  
@@ -191,7 +179,7 @@ Core Lightning advised operators to use offline mode if they do not install the 
 
 ---
 
-## 16. Bitcoin ETF inflows slow to $232M as BTC holds under $80K
+## 15. Bitcoin ETF inflows slow to $232M as BTC holds under $80K
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/27/2026, 7:01:19 AM  
@@ -203,7 +191,7 @@ US spot Bitcoin ETF inflows slowed to $232.1 million as an eight-day streak reac
 
 ---
 
-## 17. Tokenized deposits could raise US credit costs: Dallas Fed economists
+## 16. Tokenized deposits could raise US credit costs: Dallas Fed economists
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/27/2026, 6:39:02 AM  
@@ -215,7 +203,7 @@ Dallas Fed economists said faster, programmable deposits could make bank funding
 
 ---
 
-## 18. StarkWare tests quantum-resistant Bitcoin transaction on mainnet
+## 17. StarkWare tests quantum-resistant Bitcoin transaction on mainnet
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/27/2026, 4:14:48 AM  
@@ -227,7 +215,7 @@ StarkWare said the experimental transaction demonstrated quantum-resistant Bitco
 
 ---
 
-## 19. SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch
+## 18. SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 8/27/2026, 1:26:54 AM  
