@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-27"
 date: "2026-08-27"
 source: "Cointelegraph"
-count: 18
+count: 13
 ---
 
 # Cointelegraph - 2026-08-27
 
-18 items collected.
+13 items collected.
 
 ---
 
@@ -164,65 +164,5 @@ Bitfinex Securities completed a record $50 million raise for Alkemya, whose toke
 Bithumb reportedly won first-instance rulings in two suits seeking proceeds from users who sold Bitcoin credited in its $40 billion error.
 
 📖 [Read original article](https://cointelegraph.com/news/bithumb-wins-suits-mistakenly-credited-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Core Lightning confirms multiple vulnerabilities, prepares security update
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/27/2026, 8:05:44 AM  
-**Categories:** Latest News  
-
-Core Lightning advised operators to use offline mode if they do not install the forthcoming update, keeping their nodes active but disconnected.
-
-📖 [Read original article](https://cointelegraph.com/news/core-lightning-vulnerabilities-node-security-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitcoin ETF inflows slow to $232M as BTC holds under $80K
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/27/2026, 7:01:19 AM  
-**Categories:** Markets  
-
-US spot Bitcoin ETF inflows slowed to $232.1 million as an eight-day streak reached $2.8 billion, while XRP funds posted their biggest inflow since Jan. 5.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etf-inflows-slow-232-million-btc-under-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Tokenized deposits could raise US credit costs: Dallas Fed economists
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/27/2026, 6:39:02 AM  
-**Categories:** Latest News  
-
-Dallas Fed economists said faster, programmable deposits could make bank funding less stable, potentially pushing lenders toward more expensive funding.
-
-📖 [Read original article](https://cointelegraph.com/news/tokenized-deposits-us-credit-costs-dallas-fed-economists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. StarkWare tests quantum-resistant Bitcoin transaction on mainnet
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/27/2026, 4:14:48 AM  
-**Categories:** Latest News  
-
-StarkWare said the experimental transaction demonstrated quantum-resistant Bitcoin spending without a fork, but it cost up to $200 and required direct miner submission.
-
-📖 [Read original article](https://cointelegraph.com/news/starkware-quantum-resistant-bitcoin-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch
-
-**Author:** Cointelegraph by Andrew Fenton  
-**Published:** 8/27/2026, 1:26:54 AM  
-**Categories:** Magazine  
-
-A new Bitcoin Improvement Proposal for the SHRINCS signature scheme has just been published to upgrade Bitcoin to quantum secure. Here’s everything you need to know.
-
-📖 [Read original article](https://cointelegraph.com/magazine/shrincs-bip-is-published-quantum-secure-bitcoin-comes-with-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
