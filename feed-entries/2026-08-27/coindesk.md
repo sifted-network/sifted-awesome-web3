@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-27"
 date: "2026-08-27"
 source: "CoinDesk"
-count: 25
+count: 20
 ---
 
 # CoinDesk - 2026-08-27
 
-25 items collected.
+20 items collected.
 
 ---
 
@@ -248,65 +248,5 @@ Nvidia’s earnings beat and strong outlook lifted technology stocks, bitcoin an
 Financial stability would remain its primary duty, with annual reports to Parliament on the new objective being planned.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/08/27/britain-plans-new-bank-of-england-objective-for-stablecoins)
-
----
-
-## 21. Live updates: Bitcoin trades near $80,000 as stocks close with gains
-
-**Author:** Shaurya Malwa,Stephen Alpher,Helene Braun  
-**Published:** 8/27/2026, 8:51:37 AM  
-**Categories:** Finance, Live News, live_news  
-
-U.S. spot bitcoin funds have taken in $2.8 billion since the run began, and ether ETFs are matching it day for day. Three sessions are left to make August their best month since October 2025.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/27/live-updates-bitcoin-etf-inflows-hit-eight-straight-days-as-august-tops-usd3-billion)
-
----
-
-## 22. Bitcoin researchers propose quantum fix that would not crowd out transactions
-
-**Author:** Shaurya Malwa  
-**Published:** 8/27/2026, 7:15:57 AM  
-**Categories:** Tech, News  
-
-The SHRINCS proposal would let bitcoin transactions use larger, quantum-resistant approvals while preserving more network capacity than existing post-quantum signature designs.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/27/bitcoin-researchers-propose-quantum-fix-that-would-not-crowd-out-transactions)
-
----
-
-## 23. Binance co-founders CZ and Yi He adopted Simpsons cartoon aliases ‘Homer’ and ‘Marge’ in company meetings
-
-**Author:** Ian Allison  
-**Published:** 8/27/2026, 5:25:28 AM  
-**Categories:** Finance, News  
-
-Yi, who is now the co-CEO of Binance alongside its other chief Richard Teng, still uses the name Marge in meetings and chats.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/27/binance-co-founders-changpeng-cz-zhao-and-yi-he-used-the-simpsons-cartoon-aliases-homer-and-marge-in-company-meetings)
-
----
-
-## 24. Bitcoin below $79,000, XRP leads losses as traders start betting on a Fed hike
-
-**Author:** Shaurya Malwa  
-**Published:** 8/27/2026, 4:35:18 AM  
-**Categories:** Markets, News  
-
-Every major token except solana and BNB is flat or lower over 24 hours, with bitcoin holding a 14% weekly gain and XRP 28%.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/27/bitcoin-below-usd79-000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike)
-
----
-
-## 25. Lesser-tracked bitcoin market dynamic lends credibility to August surge to $80,000
-
-**Author:** Omkar Godbole  
-**Published:** 8/27/2026, 4:02:57 AM  
-**Categories:** Markets, Bitcoin News, Markets, News  
-
-An indicator fundamental to understanding whether capital consistently moved in size to push prices higher is flashing green.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/27/lesser-tracked-bitcoin-market-dynamic-lends-credibility-to-august-surge-to-usd80-000)
 
 ---
