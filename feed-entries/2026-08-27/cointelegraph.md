@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-27"
 date: "2026-08-27"
 source: "Cointelegraph"
-count: 10
+count: 8
 ---
 
 # Cointelegraph - 2026-08-27
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Canaan, American Bitcoin and Cango jumped as much as 67% as renewed crypto deman
 About 17,600 people in the UK reported a combined $1.9 billion in gains tied to crypto in the 2024 to 2025 tax year, with 240 each declaring more than $1.4 million.
 
 📖 [Read original article](https://cointelegraph.com/news/uk-government-crypto-millionaires-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Ripple Prime expands into US equity derivatives with Delta One business
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/27/2026, 1:54:22 PM  
-**Categories:** Latest News  
-
-Institutional clients can access total return swaps across linked to US-listed equities, indexes and digital assets and cross-margin exposures.
-
-📖 [Read original article](https://cointelegraph.com/news/ripple-prime-us-equities-delta-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Bank of England set for new innovation mandate covering stablecoins
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/27/2026, 12:51:59 PM  
-**Categories:** Latest News  
-
-The UK plans to expand the Bank of England’s remit to support digital payments innovation, including stablecoins, while keeping financial stability first.
-
-📖 [Read original article](https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
