@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-27"
 date: "2026-08-27"
 source: "The Block"
-count: 9
+count: 8
 ---
 
 # The Block - 2026-08-27
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ Chainalysis estimates at least $457 billion in onchain taxable crypto activity i
 Security firms CertiK and PeckShield estimate losses of around $8.7 million after an attacker manipulated the collateral price of MAMO.
 
 📖 [Read original article](https://www.theblock.co/news/defi/2026-08-27-moonwell-investigates-base-lending-market-issue-412913)
-
----
-
-## 9. BlackRock’s Mitchnick says bitcoin’s risk-off narrative is ‘the one to bet on’ long term as rally consolidates near $80,000
-
-**Author:** James Hunt  
-**Published:** 8/27/2026, 12:00:09 PM  
-**Categories:** Companies, Crypto Ecosystems, Equities, Finance firms, Funds, Layer 1s, Markets, Public Equities, Token Projects, Analyst Reports, Bitcoin, Bitcoin Futures ETF, BlackRock, News  
-
-Renewed spot ETF inflows and bitcoin's declining correlation with equities are also constructive signs, according to analysts.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-27-blackrocks-mitchnick-says-bitcoins-risk-off-narrative-is-the-one-to-bet-on-long-term-as-rally-consolidates-near-80000-412897)
 
 ---
