@@ -2,28 +2,16 @@
 title: "Cointelegraph - 2026-08-28"
 date: "2026-08-28"
 source: "Cointelegraph"
-count: 17
+count: 16
 ---
 
 # Cointelegraph - 2026-08-28
 
-17 items collected.
+16 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/28/2026, 8:42:54 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. Solana validators approve proposal to accelerate SOL disinflation
+## 1. Solana validators approve proposal to accelerate SOL disinflation
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/28/2026, 7:53:12 PM  
@@ -35,7 +23,7 @@ The approved proposal doubles Solana’s annual disinflation rate from 15% to 30
 
 ---
 
-## 3. Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs
+## 2. Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 8/28/2026, 5:46:12 PM  
@@ -47,7 +35,7 @@ According to Circle, the USDC stablecoin name will appear on the front of club j
 
 ---
 
-## 4. Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending
+## 3. Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/28/2026, 4:17:09 PM  
@@ -59,7 +47,7 @@ The institutional crypto exchange is providing $100 million in stablecoin liquid
 
 ---
 
-## 5. Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints
+## 4. Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/28/2026, 3:31:25 PM  
@@ -71,7 +59,7 @@ Bitcoin failed to make a decisive break above $80,000 as traders digested Fed Ch
 
 ---
 
-## 6. Crypto Biz: Bitcoin pumps, Wall Street does the paperwork
+## 5. Crypto Biz: Bitcoin pumps, Wall Street does the paperwork
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 8/28/2026, 2:53:40 PM  
@@ -83,7 +71,7 @@ Bitcoin’s $80,000 rebound lifts crypto stocks as Circle, Strategy and Solana s
 
 ---
 
-## 7. Who is legally liable when an AI agent goes rogue?
+## 6. Who is legally liable when an AI agent goes rogue?
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 8/28/2026, 1:30:00 PM  
@@ -95,7 +83,7 @@ If your personal AI agent goes rogue and causes harm or financial damage in the 
 
 ---
 
-## 8. Polish Olympic chief charged in Zondacrypto probe, justice minister says
+## 7. Polish Olympic chief charged in Zondacrypto probe, justice minister says
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/28/2026, 1:16:37 PM  
@@ -107,7 +95,7 @@ Polish Olympic Committee president Radosław Piesiewicz faces charges as prosecu
 
 ---
 
-## 9. California Senate passes bill to ban memecoin issuance by public officials
+## 8. California Senate passes bill to ban memecoin issuance by public officials
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/28/2026, 12:09:48 PM  
@@ -119,7 +107,7 @@ The bill seeks to prohibit the listing of memecoins issued by federal public off
 
 ---
 
-## 10. Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in
+## 9. Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 8/28/2026, 11:36:43 AM  
@@ -131,7 +119,7 @@ The French Bitcoin treasury firm’s private placement drew support from Adam Ba
 
 ---
 
-## 11. Bitcoin bear market ‘over’ as price metric copies 2023 recovery: CryptoQuant CEO
+## 10. Bitcoin bear market ‘over’ as price metric copies 2023 recovery: CryptoQuant CEO
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 8/28/2026, 11:22:59 AM  
@@ -143,7 +131,7 @@ Bitcoin profitability data produced a bear-market reversal signal that was also 
 
 ---
 
-## 12. ENA token rises 10% as Ethena puts revenue-funded token buybacks to vote
+## 11. ENA token rises 10% as Ethena puts revenue-funded token buybacks to vote
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/28/2026, 9:27:30 AM  
@@ -155,7 +143,7 @@ The Ethena Foundation proposed buying the token supply held by major early inves
 
 ---
 
-## 13. BitGo buys NYDIG trading arm to deepen institutional crypto push
+## 12. BitGo buys NYDIG trading arm to deepen institutional crypto push
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/28/2026, 9:21:44 AM  
@@ -167,7 +155,7 @@ BitGo completed its acquisition of NYDIG’s institutional trading business, add
 
 ---
 
-## 14. OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app
+## 13. OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 8/28/2026, 8:21:16 AM  
@@ -179,7 +167,7 @@ OneKey said it reproduced an exploit against an older version of the Ledger app 
 
 ---
 
-## 15. Visa works with Upbit parent on stablecoin payments, AI commerce
+## 14. Visa works with Upbit parent on stablecoin payments, AI commerce
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/28/2026, 7:41:15 AM  
@@ -191,7 +179,7 @@ Visa and Dunamu will explore stablecoin payments and remittances, with Open Stan
 
 ---
 
-## 16. The Sandbox pledges 1:1 repayment after $700K bridge exploit
+## 15. The Sandbox pledges 1:1 repayment after $700K bridge exploit
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/28/2026, 5:40:48 AM  
@@ -203,7 +191,7 @@ Eligible holders on Base and BNB Chain will receive Ethereum-based SAND from the
 
 ---
 
-## 17. Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ
+## 16. Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 8/28/2026, 4:17:09 AM  
