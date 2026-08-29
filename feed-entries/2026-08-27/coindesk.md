@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-27"
 date: "2026-08-27"
 source: "CoinDesk"
-count: 5
+count: 3
 ---
 
 # CoinDesk - 2026-08-27
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ The changes aim to cut investor selling pressure and channel protocol revenue to
 The token hit a $25 million market cap on the back of nine days of unreleased Grand Theft Auto VI footage. Its creator has now sold his stack — hours before Rockstar's first official gameplay reveal.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/08/27/gta-6-leaker-cashes-out-of-his-own-memecoin-hours-before-rockstar-s-gameplay-reveal)
-
----
-
-## 4. Polish Olympic chief arrested as prosecutors probe suspected crypto-linked bribe
-
-**Author:** Francisco Rodrigues,AI Boost  
-**Published:** 8/27/2026, 4:12:10 PM  
-**Categories:** Finance, Crypto News, News  
-
-Prosecutors are probing allegations that Zondacrypto's CEO gave Radosław Piesiewicz a 40,000 euro watch for help with regulatory hurdles.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/27/polish-olympic-chief-arrested-as-prosecutors-probe-suspected-crypto-linked-bribe)
-
----
-
-## 5. MoonPay’s newest integration lets AI agents handle crypto lending on Solana
-
-**Author:** Francisco Rodrigues  
-**Published:** 8/27/2026, 3:52:21 PM  
-**Categories:** Finance, MoonPay, DeFi, Solana News, Artificial Intelligence, News  
-
-
-
-📖 [Read original article](https://www.coindesk.com/business/2026/08/27/moonpay-s-newest-integration-lets-ai-agents-handle-crypto-lending-on-solana)
 
 ---
