@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-27"
 date: "2026-08-27"
 source: "Cointelegraph"
-count: 13
+count: 10
 ---
 
 # Cointelegraph - 2026-08-27
 
-13 items collected.
+10 items collected.
 
 ---
 
@@ -128,41 +128,5 @@ Institutional clients can access total return swaps across linked to US-listed e
 The UK plans to expand the Bank of England’s remit to support digital payments innovation, including stablecoins, while keeping financial stability first.
 
 📖 [Read original article](https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 8/27/2026, 10:34:12 AM  
-**Categories:** Markets  
-
-Bitcoin price analysis reveals convergence of multiple trend lines and liquidity structures around spot price, keeping upside in check.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-faces-true-demand-test-above-83k-as-liquidity-thickens-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Bitfinex Securities completes record $50M tokenized capital raise
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/27/2026, 10:00:00 AM  
-**Categories:** Latest News  
-
-Bitfinex Securities completed a record $50 million raise for Alkemya, whose token represents interests in a partnership that holds nickel assets.
-
-📖 [Read original article](https://cointelegraph.com/news/bitfinex-securities-record-50-million-tokenized-nickel-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Bithumb wins 2 suits over mistaken Bitcoin credits: Report
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/27/2026, 9:26:17 AM  
-**Categories:** Latest News  
-
-Bithumb reportedly won first-instance rulings in two suits seeking proceeds from users who sold Bitcoin credited in its $40 billion error.
-
-📖 [Read original article](https://cointelegraph.com/news/bithumb-wins-suits-mistakenly-credited-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
