@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-28"
 date: "2026-08-28"
 source: "CoinDesk"
-count: 20
+count: 19
 ---
 
 # CoinDesk - 2026-08-28
 
-20 items collected.
+19 items collected.
 
 ---
 
@@ -236,17 +236,5 @@ The indictor has flipped positive for the first time since May as BTC looks to e
 Every major but HYPE gained over 24 hours, capping a week that added 9% to bitcoin and 20% to solana.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/28/bitcoin-holds-usd80-000-solana-leads-majors-higher-before-warsh-s-jackson-hole-debut)
-
----
-
-## 20. An XRP treasury company backed by Ripple is a shareholder vote away from Nasdaq
-
-**Author:** Shaurya Malwa  
-**Published:** 8/28/2026, 4:21:22 AM  
-**Categories:** Markets, News  
-
-The SEC cleared the paperwork for Evernorth's merger with a shell company, setting up a Sept. 30 vote and a listing under the ticker XRPN.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/28/an-xrp-treasury-company-backed-by-ripple-is-a-shareholder-vote-away-from-nasdaq)
 
 ---
