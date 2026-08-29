@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-27"
 date: "2026-08-27"
 source: "The Block"
-count: 8
+count: 7
 ---
 
 # The Block - 2026-08-27
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -92,17 +92,5 @@ Schwab Crypto began rolling out to clients in May with direct access to BTC and 
 Chainalysis estimates at least $457 billion in onchain taxable crypto activity in 2025, with CARF covering only 14%.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-27-chainalysis-says-global-crypto-taxable-activity-topped-457-billion-in-2025-412919)
-
----
-
-## 8. Moonwell investigates lending market issue on Base as security firms flag multimillion-dollar exploit
-
-**Author:** James Hunt  
-**Published:** 8/27/2026, 12:59:46 PM  
-**Categories:** Crypto Ecosystems, DeFi, Security, Exploits, Hacks, News  
-
-Security firms CertiK and PeckShield estimate losses of around $8.7 million after an attacker manipulated the collateral price of MAMO.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-08-27-moonwell-investigates-base-lending-market-issue-412913)
 
 ---
