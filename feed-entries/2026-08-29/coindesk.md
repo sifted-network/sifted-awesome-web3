@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-08-29"
 date: "2026-08-29"
 source: "CoinDesk"
-count: 6
+count: 7
 ---
 
 # CoinDesk - 2026-08-29
 
-6 items collected.
+7 items collected.
 
 ---
 
-## 1. Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing
+## 1. A $1.1 million crypto card hack crashed a neobank's token 49%
+
+**Author:** Francisco Rodrigues,AI Boost  
+**Published:** 8/29/2026, 11:49:17 PM  
+**Categories:** Web3, Solana News, News  
+
+The exploit caused the neobank's AVICI token to drop 49% from a 24-hour high, hitting a record low before paring some of the losses.
+
+📖 [Read original article](https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49)
+
+---
+
+## 2. Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 8/29/2026, 3:00:00 PM  
@@ -23,7 +35,7 @@ A new survey suggests some of bitcoin's most familiar sales pitches of changing 
 
 ---
 
-## 2. Swift’s $1.5 quadrillion network faces a blockchain test
+## 3. Inside the high-stakes battle between digital dollars and Swift's massive money engine
 
 **Author:** Olivier Acuna  
 **Published:** 8/29/2026, 3:00:00 PM  
@@ -35,7 +47,7 @@ Crypto executives say new blockchain payment infrastructure could make Swift obs
 
 ---
 
-## 3. The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet
+## 4. The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet
 
 **Author:** Olivier Acuna  
 **Published:** 8/29/2026, 3:00:00 PM  
@@ -47,7 +59,7 @@ AI agents are coming. They will need to pay each other. Crypto executives agree 
 
 ---
 
-## 4. Tokenized assets are busier than the data shows
+## 5. Tokenized assets are busier than the data shows
 
 **Author:** Matthew Fisher  
 **Published:** 8/29/2026, 1:00:00 PM  
@@ -59,7 +71,7 @@ When you strip out what was never mobile, correct for who's holding what and why
 
 ---
 
-## 5. Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges
+## 6. Bitcoin wallets untouched for 10 years moved $40 million worth of coins
 
 **Author:** Shaurya Malwa  
 **Published:** 8/29/2026, 4:30:00 AM  
@@ -71,7 +83,7 @@ Six decade-old wallets moved $40 million this month, but Galaxy's data shows dor
 
 ---
 
-## 6. Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives
+## 7. Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives
 
 **Author:** Shaurya Malwa  
 **Published:** 8/29/2026, 2:30:00 AM  
