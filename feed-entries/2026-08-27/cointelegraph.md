@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-27"
 date: "2026-08-27"
 source: "Cointelegraph"
-count: 8
+count: 7
 ---
 
 # Cointelegraph - 2026-08-27
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -92,17 +92,5 @@ The financial services giant plans to expand Schwab Crypto beyond Bitcoin and Et
 Canaan, American Bitcoin and Cango jumped as much as 67% as renewed crypto demand showed BTC exposure can still drive mining equities despite the industry’s AI push.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-miner-stocks-rally-crypto-demand-ai-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. UK government reports 240 crypto millionaires in 2025
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 8/27/2026, 3:56:00 PM  
-**Categories:** Latest News  
-
-About 17,600 people in the UK reported a combined $1.9 billion in gains tied to crypto in the 2024 to 2025 tax year, with 240 each declaring more than $1.4 million.
-
-📖 [Read original article](https://cointelegraph.com/news/uk-government-crypto-millionaires-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
