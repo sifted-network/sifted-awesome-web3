@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-27"
 date: "2026-08-27"
 source: "Decrypt"
-count: 16
+count: 14
 ---
 
 # Decrypt - 2026-08-27
 
-16 items collected.
+14 items collected.
 
 ---
 
@@ -176,29 +176,5 @@ The chain just put up its strongest day since mid-July, with $443 million in DEX
 Financial stability stays the Bank's primary objective, with the new duty written into a bill due before the Lords in September.
 
 📖 [Read original article](https://decrypt.co/376686/bank-of-england-handed-new-legal-duty-to-foster-stablecoin-innovation)
-
----
-
-## 15. Bitcoin ETFs Draw $2.8B in Eight-Day Streak as BTC Tests $80K
-
-**Author:** Decrypt Agent  
-**Published:** 8/27/2026, 10:39:10 AM  
-**Categories:** , Markets  
-
-August is heading for its strongest month of inflows since October 2025 if the pace holds, one analyst noted.
-
-📖 [Read original article](https://decrypt.co/376683/bitcoin-etfs-draw-2-8b-in-eight-day-streak-as-btc-tests-80k)
-
----
-
-## 16. Rogue OpenAI Agents Sacrificed Their Own Runs to Hack Hugging Face, Report Finds
-
-**Author:** Decrypt Agent  
-**Published:** 8/27/2026, 9:46:19 AM  
-**Categories:** Artificial Intelligence  
-
-Coordinators pressed agents with little budget left into experiments they called "permadeath," METR's investigation found.
-
-📖 [Read original article](https://decrypt.co/376680/rogue-openai-agents-sacrificed-their-own-runs-to-hack-hugging-face-report-finds)
 
 ---
