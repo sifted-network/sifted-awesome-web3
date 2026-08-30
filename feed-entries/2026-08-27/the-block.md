@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-27"
 date: "2026-08-27"
 source: "The Block"
-count: 7
+count: 5
 ---
 
 # The Block - 2026-08-27
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ DFDV's return has been more than twice that of SOL in the month of August, while
 The company said it has since deployed $773.4 million to acquire about 16.5 million additional HYPE at an average cost of $46.77.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-08-27-purr-jumps-hyperliquid-strategies-1-9-billion-hype-treasury-fortress-balance-sheet-412926)
-
----
-
-## 6. Charles Schwab to add Solana, Avalanche and Chainlink to crypto trading platform
-
-**Author:** Jason Shubnell  
-**Published:** 8/27/2026, 2:20:05 PM  
-**Categories:** Companies, Finance firms, Markets, Investment Firms, TradFi banks, News  
-
-Schwab Crypto began rolling out to clients in May with direct access to BTC and ETH trading and charges 75 basis points per transaction.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-27-charles-schwab-add-solana-avalanche-chainlink-to-crypto-trading-platform-412923)
-
----
-
-## 7. Chainalysis says global crypto taxable activity topped $457 billion in 2025
-
-**Author:** Brian Danga  
-**Published:** 8/27/2026, 1:54:19 PM  
-**Categories:** Crypto Ecosystems, Equities, Markets, Policy, Regulation, Analyst Reports, News  
-
-Chainalysis estimates at least $457 billion in onchain taxable crypto activity in 2025, with CARF covering only 14%.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-27-chainalysis-says-global-crypto-taxable-activity-topped-457-billion-in-2025-412919)
 
 ---
