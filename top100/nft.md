@@ -6,9 +6,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) | 14,039 | 3,270 | - | 94 | Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript | 2024-06-12 |
-| 2 | [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 14,034 | 2,433 | Solidity | 7 | WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy | 2026-08-23 |
-| 3 | [metaplex](https://github.com/metaplex-foundation/metaplex) | 3,350 | 5,953 | - | 106 | A directory of what the Metaplex Foundation works on! | 2024-08-06 |
+| 1 | [full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) | 14,041 | 3,271 | - | 94 | Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript | 2024-06-12 |
+| 2 | [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 14,035 | 2,434 | Solidity | 7 | WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy | 2026-08-23 |
+| 3 | [metaplex](https://github.com/metaplex-foundation/metaplex) | 3,350 | 5,954 | - | 106 | A directory of what the Metaplex Foundation works on! | 2024-08-06 |
 | 4 | [crypto_info](https://github.com/Tangent-Wei/crypto_info) | 2,801 | 239 | - | 0 | （原创）全网最全-币圈区块链各类常用工具与相关信息资料大全-虚拟加密货币-欧易OKX币安Binace芝麻开门Gate-交易所App注册-NFT-Defi-加密钱包-比特币-新手入门教程 -持续更新 | 2026-01-31 |
 | 5 | [seaport](https://github.com/ProjectOpenSea/seaport) | 2,257 | 655 | Solidity | 2 | Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs. | 2026-08-25 |
 | 6 | [create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection) | 2,191 | 691 | JavaScript | 112 |  | 2024-04-13 |
@@ -22,7 +22,7 @@
 | 14 | [crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) | 1,409 | 139 | - | 2 |  | 2024-08-06 |
 | 15 | [nftables](https://github.com/google/nftables) | 1,354 | 181 | Go | 21 | This repository contains a Go module to interact with Linux nftables (the iptables successor). | 2026-07-03 |
 | 16 | [bytom](https://github.com/BytomDAO/bytom) | 1,266 | 361 | Go | 20 | Official Go implementation of the Bytom protocol  | 2024-01-02 |
-| 17 | [unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android) | 1,238 | 492 | Kotlin | 31 | A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institu... | 2026-08-28 |
+| 17 | [unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android) | 1,239 | 492 | Kotlin | 32 | A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institu... | 2026-08-28 |
 | 18 | [marketplace](https://github.com/decentraland/marketplace) | 1,198 | 690 | TypeScript | 86 | 🏛️ Decentraland's NFT Marketplace | 2026-08-28 |
 | 19 | [samila](https://github.com/sepandhaghighi/samila) | 1,177 | 79 | Python | 6 | A Generative Art Generator | 2026-08-17 |
 | 20 | [pycoingecko](https://github.com/man-c/pycoingecko) | 1,094 | 274 | Python | 11 | Python wrapper for the CoinGecko API | 2024-11-13 |
@@ -30,18 +30,18 @@
 | 22 | [DiffusionNFT](https://github.com/NVlabs/DiffusionNFT) | 1,040 | 45 | Python | 12 | [ICLR 2026 Oral] DiffusionNFT: Online Diffusion Reinforcement with Forward Process | 2026-02-10 |
 | 23 | [hashlips_nft_minting_dapp](https://github.com/HashLips/hashlips_nft_minting_dapp) | 1,017 | 951 | JavaScript | 106 | HashLips minting dapp is a quick and easy way to connect your smart contract and start minting NFTs. | 2024-08-05 |
 | 24 | [Blend_My_NFTs](https://github.com/torrinworx/Blend_My_NFTs) | 1,015 | 325 | Python | 23 | Easily generate thousands of 3D models, images, and animation automatically in Blender for free with Blend_My_NFTs. | 2023-06-28 |
-| 25 | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 1,003 | 80 | - | 0 | 币圈导航虚拟加密货币资源大全，手动整理的全网最全虚拟货币学习资料，涵盖了中心化交易所（如欧易OKX、币安Binance、Gate.io）、NFT市场、DeFi工具、加密钱包、巨鲸追踪和数据分析等，帮助用户轻松导航加密货币世界。涉及币圈导航、虚拟货币、交易所返佣、Web3.0等内容本指南将持续更新，力求保持最新、最全面的币圈信息，币圈导航祝各位早点财务自由。👉 www.0xnav.com | 2026-07-15 |
+| 25 | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 1,007 | 80 | - | 0 | 币圈导航虚拟加密货币资源大全，手动整理的全网最全虚拟货币学习资料，涵盖了中心化交易所（如欧易OKX、币安Binance、Gate.io）、NFT市场、DeFi工具、加密钱包、巨鲸追踪和数据分析等，帮助用户轻松导航加密货币世界。涉及币圈导航、虚拟货币、交易所返佣、Web3.0等内容本指南将持续更新，力求保持最新、最全面的币圈信息，币圈导航祝各位早点财务自由。👉 www.0xnav.com | 2026-07-15 |
 | 26 | [awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) | 990 | 203 | - | 1 | A curated list of Solana NFT protocols, repos & community tools | 2024-04-23 |
 | 27 | [awesome-nft](https://github.com/gianni-dalerta/awesome-nft) | 973 | 184 | - | 0 | A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software | 2022-08-18 |
-| 28 | [nftables-nat-rust](https://github.com/arloor/nftables-nat-rust) | 957 | 238 | Rust | 0 | nftables nat规则生成器 | 2026-08-29 |
+| 28 | [nftables-nat-rust](https://github.com/arloor/nftables-nat-rust) | 957 | 239 | Rust | 0 | nftables nat规则生成器 | 2026-08-29 |
 | 29 | [extension](https://github.com/unisat-wallet/extension) | 946 | 412 | TypeScript | 4 | The first open-source browser extension wallet for Bitcoin NFTs | 2026-03-10 |
 | 30 | [unstoppable-wallet-ios](https://github.com/horizontalsystems/unstoppable-wallet-ios) | 901 | 310 | Swift | 24 | Multi-wallet for Bitcoin, Ethereum, Binance Smart Chain and other emerging blockchains. Non-custodial storage, decentralized exchange, and extensive analytics for thousands of tokens and NFTs. Impleme... | 2026-08-27 |
-| 31 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 883 | 110 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
-| 32 | [unlock](https://github.com/unlock-protocol/unlock) | 882 | 315 | TypeScript | 172 | Ʉnlock is a protocol for memberships built on a blockchain. | 2026-08-29 |
+| 31 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 884 | 110 | - | 3 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
+| 32 | [unlock](https://github.com/unlock-protocol/unlock) | 883 | 315 | TypeScript | 172 | Ʉnlock is a protocol for memberships built on a blockchain. | 2026-08-29 |
 | 33 | [ethereum-nft-marketplace-boilerplate](https://github.com/ethereum-boilerplate/ethereum-nft-marketplace-boilerplate) | 869 | 971 | JavaScript | 22 |  | 2024-01-03 |
 | 34 | [hashlips_nft_contract](https://github.com/HashLips/hashlips_nft_contract) | 828 | 649 | Solidity | 49 | A simple NFT smart contract that works with the rest of the HashLips ecosystem. | 2022-10-23 |
 | 35 | [web3-is-going-great](https://github.com/molly/web3-is-going-great) | 826 | 78 | JavaScript | 17 | A timeline of some of the greatest hits in cryptocurrencies, NFTs, and other web3 projects since the beginning of 2021 | 2026-01-21 |
-| 36 | [nft-mix](https://github.com/PatrickAlphaC/nft-mix) | 807 | 400 | Solidity | 12 |  | 2024-04-24 |
+| 36 | [nft-mix](https://github.com/PatrickAlphaC/nft-mix) | 808 | 400 | Solidity | 12 |  | 2024-04-24 |
 | 37 | [Smart-Contract-Security-Audits](https://github.com/softstack/Smart-Contract-Security-Audits) | 799 | 399 | HTML | 0 | Certified Smart Contract Audits for Ethereum, Solana, Near, Cardano, Aptos, Sui, Binance Smart Chain, Fantom, EOS, Tezos and more | 2026-08-19 |
 | 38 | [generative-art-nft](https://github.com/rounakbanik/generative-art-nft) | 754 | 346 | Python | 19 | A generative art library for NFT avatar and collectible projects. | 2024-04-05 |
 | 39 | [metaboss](https://github.com/samuelvanderwaal/metaboss) | 715 | 222 | Rust | 1 | The Metaplex NFT-standard Swiss Army Knife tool. | 2026-05-21 |
@@ -49,7 +49,7 @@
 | 41 | [nft-gallery](https://github.com/kodadot/nft-gallery) | 687 | 359 | Vue | 557 | Generative Art Marketplace  | 2025-12-04 |
 | 42 | [nft-contracts](https://github.com/getgems-io/nft-contracts) | 666 | 225 | TypeScript | 34 | Set of TON NFT related contracts & code | 2026-07-31 |
 | 43 | [metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) | 646 | 521 | Rust | 28 | Smart contracts maintained by the Metaplex team | 2026-03-13 |
-| 44 | [create-solana-dapp](https://github.com/solana-foundation/create-solana-dapp) | 646 | 204 | TypeScript | 2 | The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates | 2026-08-07 |
+| 44 | [create-solana-dapp](https://github.com/solana-foundation/create-solana-dapp) | 646 | 205 | TypeScript | 2 | The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates | 2026-08-07 |
 | 45 | [dungeons-and-dragons-nft](https://github.com/PatrickAlphaC/dungeons-and-dragons-nft) | 639 | 268 | JavaScript | 5 | #chainlink #nft | 2021-06-28 |
 | 46 | [nft](https://github.com/dappuniversity/nft) | 612 | 451 | JavaScript | 12 | Crypto Collectible NFT Tutorial with ERC-721 Tokens | 2023-01-26 |
 | 47 | [NFTBlocker](https://github.com/mcclure/NFTBlocker) | 610 | 9 | - | 2 | Browser plugin to autoblock NFT users on Twitter. | 2024-01-12 |
@@ -60,9 +60,9 @@
 | 52 | [best-of-crypto](https://github.com/lukasmasuch/best-of-crypto) | 549 | 120 | - | 13 | 🏆 A ranked list of awesome open-source crypto projects. Updated weekly. | 2024-07-12 |
 | 53 | [nft-api](https://github.com/nft-api/nft-api) | 548 | 94 | - | 5 | The Moralis NFT API: Your ultimate ally for top-tier NFT dApps. Build gaming platforms, secure wallets, bustling marketplaces, analytics tools, dazzling dashboards, and more with ease. Unlock your NFT... | 2023-10-04 |
 | 54 | [bugbear](https://github.com/bugbearnft/bugbear) | 541 | 58 | JavaScript | 0 | Bugbear is a collection of 10,000 pixel bear NFTs-unique digital collectibles living on the blockchain. Bugbear NFT brings you privilege to experience the CyberZoo-a crypto sandbox world, earlier than... | 2021-10-03 |
-| 55 | [murky](https://github.com/dmfxyz/murky) | 516 | 57 | Solidity | 4 | Merkle Proof Generator and Validator in Solidity | 2025-02-27 |
+| 55 | [murky](https://github.com/dmfxyz/murky) | 516 | 58 | Solidity | 4 | Merkle Proof Generator and Validator in Solidity | 2025-02-27 |
 | 56 | [universal-router](https://github.com/Uniswap/universal-router) | 510 | 290 | TypeScript | 35 | Uniswap's Universal Router for NFT and ERC20 swapping | 2026-08-28 |
-| 57 | [project_web3_battle_game](https://github.com/adrianhajdin/project_web3_battle_game) | 482 | 168 | JavaScript | 10 | With a stunning design, interactive gameplay, smart wallet pairing, live interaction with smart contracts, and, most importantly, the ability to battle other players in real-time, AvaxGods is the best... | 2022-10-29 |
+| 57 | [project_web3_battle_game](https://github.com/adrianhajdin/project_web3_battle_game) | 482 | 167 | JavaScript | 10 | With a stunning design, interactive gameplay, smart wallet pairing, live interaction with smart contracts, and, most importantly, the ability to battle other players in real-time, AvaxGods is the best... | 2022-10-29 |
 | 58 | [use-nft](https://github.com/bpierre/use-nft) | 472 | 58 | TypeScript | 6 | 🍮 React hook to fetch metadata from any NFT. | 2022-12-05 |
 | 59 | [minty](https://github.com/yusefnapora/minty) | 470 | 143 | JavaScript | 11 | a minimal NFT minting platform using IPFS | 2022-05-26 |
 | 60 | [QuillAudit_smart_contract_audit_Reports](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports) | 470 | 99 | - | 4 | QuillAudits — Smart Contract Audits for DeFi, RWA, DEXs, Tokens, DeAI & DApps | 2026-08-27 |
@@ -83,7 +83,7 @@
 | 75 | [rp2](https://github.com/eprbell/rp2) | 398 | 61 | Python | 45 | Privacy-focused, free, open-source cryptocurrency tax calculator for multiple countries: it handles multiple coins/exchanges and computes long/short-term capital gains, cost bases, in/out lot relation... | 2026-07-27 |
 | 76 | [NFT](https://github.com/near-examples/NFT) | 386 | 280 | Rust | 0 | Example implementations of tokens to represent unique assets, such as collectibles or deeds, using the NEP-171 spec (similar to ERC-721)  | 2026-02-26 |
 | 77 | [lynxverse.io](https://github.com/Lynxverse/lynxverse.io) | 380 | 0 | TypeScript | 1 | gamification service with a focus on charitable activities | 2026-07-09 |
-| 78 | [js](https://github.com/metaplex-foundation/js) | 376 | 189 | TypeScript | 58 | A JavaScript SDK for interacting with Metaplex's programs | 2024-03-05 |
+| 78 | [js](https://github.com/metaplex-foundation/js) | 376 | 190 | TypeScript | 58 | A JavaScript SDK for interacting with Metaplex's programs | 2024-03-05 |
 | 79 | [professional-solidity](https://github.com/anbang/professional-solidity) | 375 | 72 | Shell | 1 | 《Solidity 高级程序设计》面向专业开发者的Solidity教程！目前已经完成了最初的 V0.0.1 版本 | 2025-02-10 |
 | 80 | [collect](https://github.com/devpavan04/collect) | 361 | 265 | JavaScript | 6 | A non-fungible token marketplace from the early NFT days 📦 | 2026-01-16 |
 | 81 | [pancake-subgraph](https://github.com/pancakeswap/pancake-subgraph) | 359 | 568 | TypeScript | 28 | 📊 Pancake subgraph (blocks, profile, prediction, NFT's, ...) | 2025-08-29 |
@@ -101,7 +101,7 @@
 | 93 | [opensea-automatic-bulk-upload-and-sale](https://github.com/maximedrn/opensea-automatic-bulk-upload-and-sale) | 328 | 99 | Python | 0 | A Selenium Python bot to automatically and bulk upload/ mint and list your NFTs on OpenSea. All metadata compatible, Ethereum and Polygon blockchains supported, reCAPTCHA solvers included. | 2024-09-30 |
 | 94 | [nft-generator-py](https://github.com/Jon-Becker/nft-generator-py) | 315 | 120 | Python | 3 | This tool allows users to generate sets of unique images and metadata using weighted layer collections. | 2024-06-04 |
 | 95 | [erc-1155](https://github.com/0xsequence/erc-1155) | 315 | 112 | TypeScript | 11 | Ethereum Semi Fungible Standard (ERC-1155) | 2026-02-13 |
-| 96 | [react-native-nft-marketplace](https://github.com/adrianhajdin/react-native-nft-marketplace) | 313 | 201 | JavaScript | 2 |  | 2022-06-14 |
+| 96 | [react-native-nft-marketplace](https://github.com/adrianhajdin/react-native-nft-marketplace) | 313 | 200 | JavaScript | 2 |  | 2022-06-14 |
 | 97 | [NFT.net](https://github.com/ptedeschi/NFT.net) | 312 | 55 | C# | 8 | An engine developed with .NET Core to generate NFT's through a graphical interface. Simple as that, in the best Grab & Go style. | 2022-02-28 |
 | 98 | [unity-solana-wallet](https://github.com/allartprotocol/unity-solana-wallet) | 296 | 132 | C# | 5 | The First Open-Source Unity-Solana Wallet with NFT support | 2024-02-18 |
 | 99 | [wyvern-v3](https://github.com/wyvernprotocol/wyvern-v3) | 295 | 115 | JavaScript | 19 | Wyvern Protocol v3.1, Ethereum implementation | 2024-05-29 |
