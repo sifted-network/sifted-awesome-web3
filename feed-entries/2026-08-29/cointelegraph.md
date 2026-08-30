@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-29"
 date: "2026-08-29"
 source: "Cointelegraph"
-count: 7
+count: 6
 ---
 
 # Cointelegraph - 2026-08-29
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ Tokenized equities saw a sharp rise in onchain activity as active addresses and 
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/29/2026, 12:39:59 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Trump-promoted brand touts GOLD before token collapse
+## 4. Trump-promoted brand touts GOLD before token collapse
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/29/2026, 10:53:41 AM  
@@ -71,7 +59,7 @@ Real Trump Coins promoted GOLD before deleting related X posts, while team-linke
 
 ---
 
-## 6. Stablecoins not credible for payments at scale, BIS chief says
+## 5. Stablecoins not credible for payments at scale, BIS chief says
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/29/2026, 8:01:04 AM  
@@ -83,7 +71,7 @@ BIS chief Pablo Hernández de Cos said stablecoins lack credibility for payments
 
 ---
 
-## 7. Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K
+## 6. Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/29/2026, 6:47:12 AM  
