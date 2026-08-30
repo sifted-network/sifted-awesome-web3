@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-27"
 date: "2026-08-27"
 source: "Cointelegraph"
-count: 7
+count: 5
 ---
 
 # Cointelegraph - 2026-08-27
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ ZEC has climbed roughly 19-fold in a year, yet Grayscale says its sub-1% share o
 Bitcoin and crypto joined US stock markets in fresh gains after Nvidia Q2 earnings beat expectations by around $4 billion.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 8/27/2026, 4:13:10 PM  
-**Categories:** Latest News  
-
-The financial services giant plans to expand Schwab Crypto beyond Bitcoin and Ether just months after rolling out direct crypto trading to retail clients.
-
-📖 [Read original article](https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 8/27/2026, 4:04:15 PM  
-**Categories:** Markets  
-
-Canaan, American Bitcoin and Cango jumped as much as 67% as renewed crypto demand showed BTC exposure can still drive mining equities despite the industry’s AI push.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-miner-stocks-rally-crypto-demand-ai-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
