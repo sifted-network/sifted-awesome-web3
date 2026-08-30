@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-28"
 date: "2026-08-28"
 source: "CoinDesk"
-count: 19
+count: 18
 ---
 
 # CoinDesk - 2026-08-28
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -224,17 +224,5 @@ All three proposals have cleared quorum, but a plan to slow new SOL creation is 
 The indictor has flipped positive for the first time since May as BTC looks to establish a foothold above $80,000.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/28/bitcoin-is-trading-at-a-premium-on-coinbase-after-a-long-time)
-
----
-
-## 19. Bitcoin under $80,000, solana leads majors higher before Warsh's Jackson Hole debut
-
-**Author:** Shaurya Malwa  
-**Published:** 8/28/2026, 4:40:52 AM  
-**Categories:** Markets, News  
-
-Every major but HYPE gained over 24 hours, capping a week that added 9% to bitcoin and 20% to solana.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/28/bitcoin-holds-usd80-000-solana-leads-majors-higher-before-warsh-s-jackson-hole-debut)
 
 ---
