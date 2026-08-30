@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-27"
 date: "2026-08-27"
 source: "Decrypt"
-count: 14
+count: 9
 ---
 
 # Decrypt - 2026-08-27
 
-14 items collected.
+9 items collected.
 
 ---
 
@@ -116,65 +116,5 @@ The chipmaker's reported acquisition would concentrate the open-source AI pipeli
 Gold is worth around ten times more than BTC, Changpeng Zhao said, noting that countries face a years-long process to "shift into Bitcoin."
 
 📖 [Read original article](https://decrypt.co/376717/bitcoin-could-overtake-gold-in-the-next-bull-run-binance-founder-cz)
-
----
-
-## 10. AI Finds Critical Flaw in Bitcoin Lightning, Devs Issue Emergency Warning
-
-**Author:** Jason Nelson  
-**Published:** 8/27/2026, 3:45:28 PM  
-**Categories:** , Technology  
-
-The Lightning software project said it is preparing fixes after confirming that several AI-generated vulnerability reports were accurate.
-
-📖 [Read original article](https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning)
-
----
-
-## 11. Solana Is Having Its Best Month Since 2024—With a Historic Governance Vote on Deck
-
-**Author:** Jose Antonio Lanz  
-**Published:** 8/27/2026, 3:12:18 PM  
-**Categories:** , Coins  
-
-Solana is up more than 8% in 24 hours and 44% on the month. Coming changes to the network could add a supply squeeze to the mix.
-
-📖 [Read original article](https://decrypt.co/376706/solana-best-month-since-2024-historic-governance-vote)
-
----
-
-## 12. Flock CEO Asks Americans to 'Compromise' on Privacy as Camera Backlash Grows
-
-**Author:** Decrypt Agent  
-**Published:** 8/27/2026, 2:33:10 PM  
-**Categories:** Technology  
-
-Garrett Langley says 99.9% of police are good actors, days after a report identified at least 69 officials accused of misusing plate readers.
-
-📖 [Read original article](https://decrypt.co/376690/flock-ceo-asks-americans-to-compromise-on-privacy-as-camera-backlash-grows)
-
----
-
-## 13. Morning Minute: Robinhood Chain Levels Up as Memes and RWAs Soar
-
-**Author:** Tyler Warner  
-**Published:** 8/27/2026, 12:13:26 PM  
-**Categories:** Opinion  
-
-The chain just put up its strongest day since mid-July, with $443 million in DEX volume and more than 3 million transactions.
-
-📖 [Read original article](https://decrypt.co/376689/morning-minute-robinhood-chain-levels-up-as-memes-and-rwas-soar)
-
----
-
-## 14. Bank of England Handed New Legal Duty to Foster Stablecoin Innovation
-
-**Author:** Decrypt Agent  
-**Published:** 8/27/2026, 11:10:31 AM  
-**Categories:** , Business  
-
-Financial stability stays the Bank's primary objective, with the new duty written into a bill due before the Lords in September.
-
-📖 [Read original article](https://decrypt.co/376686/bank-of-england-handed-new-legal-duty-to-foster-stablecoin-innovation)
 
 ---
