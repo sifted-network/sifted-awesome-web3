@@ -11,7 +11,7 @@ count: 3
 
 ---
 
-## 1. Michael Saylor hints at first bitcoin purchase in two months as Bitcoin nears $79,000
+## 1. Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000
 
 **Author:** James Van Straten  
 **Published:** 8/30/2026, 3:39:55 PM  
