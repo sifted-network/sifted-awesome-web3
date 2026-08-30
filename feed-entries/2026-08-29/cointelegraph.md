@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-08-29"
 date: "2026-08-29"
 source: "Cointelegraph"
-count: 6
+count: 7
 ---
 
 # Cointelegraph - 2026-08-29
 
-6 items collected.
+7 items collected.
 
 ---
 
-## 1. Stellar tokenized RWA market more than quadruples to nearly $4B
+## 1. Polygon discloses security flaws fixed in recent hard forks
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 8/29/2026, 8:28:51 PM  
+**Categories:** Latest News  
+
+The vulnerabilities posed denial-of-service and validator resource risks but were patched before Polygon publicly disclosed them.
+
+📖 [Read original article](https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Stellar tokenized RWA market more than quadruples to nearly $4B
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/29/2026, 7:12:42 PM  
@@ -23,7 +35,7 @@ Stellar’s real-world asset market has expanded rapidly this year as institutio
 
 ---
 
-## 2. Tokenized stock transfer volume jumps 415% in 30 days to $29.5B
+## 3. Tokenized stock transfer volume jumps 415% in 30 days to $29.5B
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 8/29/2026, 4:27:28 PM  
@@ -35,7 +47,7 @@ Tokenized equities saw a sharp rise in onchain activity as active addresses and 
 
 ---
 
-## 3. Here’s what happened in crypto today
+## 4. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/29/2026, 12:39:59 PM  
@@ -47,7 +59,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 4. Trump-promoted brand touts GOLD before token collapse
+## 5. Trump-promoted brand touts GOLD before token collapse
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/29/2026, 10:53:41 AM  
@@ -59,7 +71,7 @@ Real Trump Coins promoted GOLD before deleting related X posts, while team-linke
 
 ---
 
-## 5. Stablecoins not credible for payments at scale, BIS chief says
+## 6. Stablecoins not credible for payments at scale, BIS chief says
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/29/2026, 8:01:04 AM  
@@ -71,7 +83,7 @@ BIS chief Pablo Hernández de Cos said stablecoins lack credibility for payments
 
 ---
 
-## 6. Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K
+## 7. Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/29/2026, 6:47:12 AM  
