@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-28"
 date: "2026-08-28"
 source: "CoinDesk"
-count: 18
+count: 15
 ---
 
 # CoinDesk - 2026-08-28
 
-18 items collected.
+15 items collected.
 
 ---
 
@@ -188,41 +188,5 @@ The activity, appearing to spread sanctioned funds to trigger account restrictio
 Weakening profitability overshadowed a major milestone in IREN’s transformation into an AI cloud provider.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/28/iren-shares-fall-8-as-costly-ai-transition-weighs-on-earnings)
-
----
-
-## 16. Here’s why Warsh’s Jackson Hole speech is a major event for bitcoin and gold
-
-**Author:** Omkar Godbole  
-**Published:** 8/28/2026, 6:30:10 AM  
-**Categories:** Markets, Bitcoin News, Federal Reserve, News  
-
-Warsh’s Jackson Hole speech could shape expectations for Fed support of Treasury buybacks, with implications for bitcoin, gold and long-term yields.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold)
-
----
-
-## 17. Solana’s faster disinflation plan leads vote as $800K burn proposal trails
-
-**Author:** Shaurya Malwa  
-**Published:** 8/28/2026, 6:22:10 AM  
-**Categories:** Tech, News  
-
-All three proposals have cleared quorum, but a plan to slow new SOL creation is only narrowly passing while a separate vote to sharply increase token burns remains below the two-thirds support needed.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/08/28/solana-s-faster-supply-cuts-lead-vote-while-usd800-000-daily-burn-plan-trails)
-
----
-
-## 18. Bitcoin is trading at a premium on Coinbase after a long time. Here's what it means
-
-**Author:** Omkar Godbole  
-**Published:** 8/28/2026, 5:02:22 AM  
-**Categories:** Markets, Bitcoin News, Markets, News  
-
-The indictor has flipped positive for the first time since May as BTC looks to establish a foothold above $80,000.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/28/bitcoin-is-trading-at-a-premium-on-coinbase-after-a-long-time)
 
 ---
