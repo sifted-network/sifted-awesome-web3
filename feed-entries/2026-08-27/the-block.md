@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-27"
 date: "2026-08-27"
 source: "The Block"
-count: 5
+count: 3
 ---
 
 # The Block - 2026-08-27
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ Polish Olympic Committee President Radosław Piesiewicz was detained as part of 
 Ethena Foundation announced four updates, including buying locked ENA tokens and ending future monthly investor unlocks.
 
 📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-08-27-ethena-foundation-proposes-fee-switch-ena-token-buybacks-other-updates-412951)
-
----
-
-## 4. DeFi Development Corp resumes Solana purchases, acquiring nearly 20,000 SOL
-
-**Author:** Jason Shubnell  
-**Published:** 8/27/2026, 3:32:13 PM  
-**Categories:** Companies, Markets, News  
-
-DFDV's return has been more than twice that of SOL in the month of August, while quarter-to-date, shares have outperformed SOL by 1.8x.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-27-defi-development-resumes-solana-purchases-acquiring-nearly-20000-sol-412932)
-
----
-
-## 5. PURR jumps 15% as Hyperliquid Strategies updates $1.9 billion HYPE treasury and ‘fortress balance sheet’
-
-**Author:** Jason Shubnell  
-**Published:** 8/27/2026, 2:52:15 PM  
-**Categories:** Companies, Equities, Market Updates, Markets, Earnings, Equity Movers, News  
-
-The company said it has since deployed $773.4 million to acquire about 16.5 million additional HYPE at an average cost of $46.77.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-27-purr-jumps-hyperliquid-strategies-1-9-billion-hype-treasury-fortress-balance-sheet-412926)
 
 ---
