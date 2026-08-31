@@ -2,16 +2,76 @@
 title: "CoinDesk - 2026-08-31"
 date: "2026-08-31"
 source: "CoinDesk"
-count: 12
+count: 17
 ---
 
 # CoinDesk - 2026-08-31
 
-12 items collected.
+17 items collected.
 
 ---
 
-## 1. Strategy returns to bitcoin buys, adding $370 million worth last week
+## 1. North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform
+
+**Author:** Will Canny  
+**Published:** 8/31/2026, 8:48:40 PM  
+**Categories:** Finance, Hyperliquid, North Korea, Exclusive, Crypto Trading, Derivatives, Lazarus group, Breaking News, News  
+
+Blockchain data reviewed by CoinDesk shows wallets tied to North Korea’s Lazarus Group sold more than $30 million in bitcoin on the platform in the last three weeks alone.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform)
+
+---
+
+## 2. Kalshi lays down first lifetime ban for ex-member of Congress George Santos
+
+**Author:** Jesse Hamilton,Francisco Rodrigues  
+**Published:** 8/31/2026, 3:33:14 PM  
+**Categories:** Policy, Prediction Markets, Kalshi, Polymarket, Donald Trump, News  
+
+The prediction market platform banned Santos for manipulation as part of the industry's ongoing efforts to show it's dealing with bad behavior.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/08/31/kalshi-lays-down-first-lifetime-ban-for-ex-member-of-congress-george-santos)
+
+---
+
+## 3. NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm
+
+**Author:** Krisztian Sandor  
+**Published:** 8/31/2026, 2:44:26 PM  
+**Categories:** Finance, Tokenization, News  
+
+The deal adds transfer-agent and settlement infrastructure to ICE's plans for an NYSE-affiliated market for tokenized stocks, tZERO said.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/31/nyse-owner-ice-taps-tzero-for-tokenized-securities-push-takes-stake-in-firm)
+
+---
+
+## 4. Ireland bars crypto from new tax-advantaged investment accounts
+
+**Author:** Francisco Rodrigues  
+**Published:** 8/31/2026, 1:29:56 PM  
+**Categories:** Finance, Crypto News, News  
+
+Eligible assets for the new accounts include listed stocks, bonds, and ETFs, with providers handling tax reporting to simplify investor compliance.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/31/ireland-bars-crypto-from-new-tax-advantaged-investment-accounts)
+
+---
+
+## 5. Bitmine makes largest ether purchase since June as Tom Lee points to crypto's strong Q3
+
+**Author:** Krisztian Sandor  
+**Published:** 8/31/2026, 12:53:17 PM  
+**Categories:** Finance, Ethereum News, Digital Asset Treasury, News  
+
+Company Chairman Lee said crypto’s recent outperformance could draw more institutional investors.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3)
+
+---
+
+## 6. Strategy returns to bitcoin buys, adding $370 million of BTC last week
 
 **Author:** Stephen Alpher  
 **Published:** 8/31/2026, 12:11:04 PM  
@@ -23,11 +83,11 @@ It's the first week of bitcoin purchases for the Michael Saylor-led company in a
 
 ---
 
-## 2. Robinhood Chain beats Ethereum in daily revenue as memecoin trading takes over
+## 7. Robinhood Chain beats Ethereum in daily revenue as memecoin trading takes over
 
 **Author:** Shaurya Malwa  
 **Published:** 8/31/2026, 11:53:56 AM  
-**Categories:** Markets, News  
+**Categories:** Markets, Robinhood, News  
 
 The two-month-old network processed a record 5.52 million transactions on Aug. 30 as users launched 22,600 tokens and memecoin trading tools drove most of the $2.66 million in revenue.
 
@@ -35,7 +95,7 @@ The two-month-old network processed a record 5.52 million transactions on Aug. 3
 
 ---
 
-## 3. Sberbank plans to add ether and USDT as collateral for crypto-backed loans: Report
+## 8. Sberbank plans to add ether and USDT as collateral for crypto-backed loans: Report
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/31/2026, 11:26:26 AM  
@@ -47,7 +107,7 @@ The Bank of Russia recently included ETH and USDT in a draft list of cryptocurre
 
 ---
 
-## 4. Here's 1 metric on U.S. debt that makes bitcoin's bull case look stronger than ever
+## 9. Here's 1 metric on U.S. debt that makes bitcoin's bull case look stronger than ever
 
 **Author:** Omkar Godbole  
 **Published:** 8/31/2026, 11:25:34 AM  
@@ -59,7 +119,7 @@ Your day-ahead look for Aug. 31, 2026
 
 ---
 
-## 5. U.S. strikes on Iran fail to stir bitcoin, on track for best month since November 2024
+## 10. U.S. strikes on Iran fail to stir bitcoin, on track for best month since November 2024
 
 **Author:** Francisco Rodrigues,Omkar Godbole  
 **Published:** 8/31/2026, 10:44:52 AM  
@@ -71,7 +131,7 @@ Bitcoin held steady despite a broader risk-off move after the first U.S. strikes
 
 ---
 
-## 6. U.S. jobs report, Russia’s digital ruble rollout: Crypto Week Ahead
+## 11. U.S. jobs report, Russia’s digital ruble rollout: Crypto Week Ahead
 
 **Author:** Francisco Rodrigues  
 **Published:** 8/31/2026, 8:22:28 AM  
@@ -83,19 +143,19 @@ Your look at what's coming in the week starting Aug. 31.
 
 ---
 
-## 7. Live updates: Bitcoin holds $78,000, ether forms bullish golden cross
+## 12. Live updates: Bitcoin eyes 25% gain in August, best month since November 2024
 
-**Author:** Shaurya Malwa,Omkar Godbole  
+**Author:** Shaurya Malwa,Omkar Godbole,Stephen Alpher  
 **Published:** 8/31/2026, 8:18:03 AM  
 **Categories:** Tech, Live News, live_news  
 
-Bitcoin is holding near $78,000 as August closes. The dollar strength that pushed the yen past its intervention line is the same force capping crypto.
+The price of crude oil is surging higher after overnight military strikes in Iran, with Trump once again proclaiming victory.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/08/31/live-updates-bitcoin-holds-usd78-000-as-yen-breaks-160-and-rate-hike-bets-lift-the-dollar)
 
 ---
 
-## 8. Luke Dashjr exits mining pool Ocean after split over Bitcoin mining’s future
+## 13. Luke Dashjr exits mining pool Ocean after split over Bitcoin mining’s future
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 8/31/2026, 8:04:54 AM  
@@ -107,7 +167,7 @@ The split was mutual, with both parties citing differing views on the future of 
 
 ---
 
-## 9. September Fed rate hike fears look overblown as the probability stands at just 58%, not 90%
+## 14. September Fed rate hike fears look overblown as the probability stands at just 58%, not 90%
 
 **Author:** Omkar Godbole  
 **Published:** 8/31/2026, 6:42:45 AM  
@@ -119,7 +179,7 @@ Odds of a rate hike in September remain below 60% despite Warsh's hawkish speech
 
 ---
 
-## 10. Zcash private transactions could go from three-second waits to under 200 milliseconds
+## 15. Zcash private transactions could go from three-second waits to under 200 milliseconds
 
 **Author:** Shaurya Malwa  
 **Published:** 8/31/2026, 5:23:57 AM  
@@ -131,7 +191,7 @@ Zakura says a new cryptography stack makes mobile proof generation more than 14 
 
 ---
 
-## 11. Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic
+## 16. Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic
 
 **Author:** Shaurya Malwa  
 **Published:** 8/31/2026, 4:57:13 AM  
@@ -143,7 +203,7 @@ An attacker allegedly pushed Tectonic’s thinly traded TONIC token up 100-fold,
 
 ---
 
-## 12. Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower
+## 17. Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower
 
 **Author:** Omkar Godbole  
 **Published:** 8/31/2026, 4:29:10 AM  
