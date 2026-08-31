@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-28"
 date: "2026-08-28"
 source: "Cointelegraph"
-count: 16
+count: 7
 ---
 
 # Cointelegraph - 2026-08-28
 
-16 items collected.
+7 items collected.
 
 ---
 
@@ -92,113 +92,5 @@ If your personal AI agent goes rogue and causes harm or financial damage in the 
 Polish Olympic Committee president Radosław Piesiewicz faces charges as prosecutors investigate his ties to collapsed cryptocurrency exchange Zondacrypto.
 
 📖 [Read original article](https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. California Senate passes bill to ban memecoin issuance by public officials
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/28/2026, 12:09:48 PM  
-**Categories:** Latest News  
-
-The bill seeks to prohibit the listing of memecoins issued by federal public officials to California residents, citing conflicts of interest and “pay-to-play arrangements.”
-
-📖 [Read original article](https://cointelegraph.com/news/california-bill-ban-memecoin-issuance-public-officials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in
-
-**Author:** Cointelegraph by Adrian Zmudzinski  
-**Published:** 8/28/2026, 11:36:43 AM  
-**Categories:** Latest News  
-
-The French Bitcoin treasury firm’s private placement drew support from Adam Back and TOBAM, with warrant exercises potentially unlocking another $158 million.
-
-📖 [Read original article](https://cointelegraph.com/news/capital-b-raises-245m-for-its-bitcoin-treasury-amid-market-uncertainty-with-blockstreams-adam-back-chipping-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Bitcoin bear market ‘over’ as price metric copies 2023 recovery: CryptoQuant CEO
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 8/28/2026, 11:22:59 AM  
-**Categories:** Markets  
-
-Bitcoin profitability data produced a bear-market reversal signal that was also present at the start of 2023.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-bear-market-over-as-price-metric-copies-2023-recovery-cryptoquant-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. ENA token rises 10% as Ethena puts revenue-funded token buybacks to vote
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/28/2026, 9:27:30 AM  
-**Categories:** Markets  
-
-The Ethena Foundation proposed buying the token supply held by major early investors and revealed a fee switch to turn 95% of net protocol revenue into ENA buybacks.
-
-📖 [Read original article](https://cointelegraph.com/markets/ena-rises-10-ethena-token-buyback-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. BitGo buys NYDIG trading arm to deepen institutional crypto push
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/28/2026, 9:21:44 AM  
-**Categories:** Latest News  
-
-BitGo completed its acquisition of NYDIG’s institutional trading business, adding about 30 employees and expanding its derivatives and financing capabilities.
-
-📖 [Read original article](https://cointelegraph.com/news/bitgo-nydig-trading-arm-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/28/2026, 8:21:16 AM  
-**Categories:** Latest News  
-
-OneKey said it reproduced an exploit against an older version of the Ledger app in its lab environment, which Ledger fixed in its Ethereum app 1.22.2, with no user funds lost.
-
-📖 [Read original article](https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Visa works with Upbit parent on stablecoin payments, AI commerce
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/28/2026, 7:41:15 AM  
-**Categories:** Latest News  
-
-Visa and Dunamu will explore stablecoin payments and remittances, with Open Standard’s proposed OUSD among several projects under review.
-
-📖 [Read original article](https://cointelegraph.com/news/visa-dunamu-stablecoin-payments-ai-commerce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. The Sandbox pledges 1:1 repayment after $700K bridge exploit
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/28/2026, 5:40:48 AM  
-**Categories:** Latest News  
-
-Eligible holders on Base and BNB Chain will receive Ethereum-based SAND from the project’s treasury, with claims expected to open within two weeks.
-
-📖 [Read original article](https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/28/2026, 4:17:09 AM  
-**Categories:** Latest News  
-
-Sheikh Tahnoon’s group reportedly backs a 49% stake in the holding company behind World Liberty’s conditionally approved US trust bank.
-
-📖 [Read original article](https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
