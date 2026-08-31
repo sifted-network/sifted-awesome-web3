@@ -2,16 +2,28 @@
 title: "The Block - 2026-08-30"
 date: "2026-08-30"
 source: "The Block"
-count: 2
+count: 3
 ---
 
 # The Block - 2026-08-30
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million
+## 1. Kalshi becomes exclusive prediction market partner of US Open: report
+
+**Author:** Zack Abrams  
+**Published:** 8/30/2026, 8:28:52 PM  
+**Categories:** Deals, News  
+
+As part of the agreement, rival prediction market platforms are reportedly barred from advertising at the tournament and on its ESPN broadcasts.
+
+📖 [Read original article](https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074)
+
+---
+
+## 2. Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million
 
 **Author:** Zack Abrams  
 **Published:** 8/30/2026, 6:40:08 PM  
@@ -23,7 +35,7 @@ Li says the attacker manipulated the price of Tectonic's illiquid TONIC token be
 
 ---
 
-## 2. Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs
+## 3. Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs
 
 **Author:** Zack Abrams  
 **Published:** 8/30/2026, 5:51:54 PM  
