@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-28"
 date: "2026-08-28"
 source: "Decrypt"
-count: 15
+count: 11
 ---
 
 # Decrypt - 2026-08-28
 
-15 items collected.
+11 items collected.
 
 ---
 
@@ -140,53 +140,5 @@ Fed Chair Warsh's first Jackson Hole keynote doubled down on giving markets zero
 Nine straight sessions have brought in $1.4 billion, with Thursday marking the funds' strongest day in 10 months.
 
 📖 [Read original article](https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul)
-
----
-
-## 12. Morning Minute: Solana Jumps with Network Inflation Set to Drop
-
-**Author:** Tyler Warner  
-**Published:** 8/28/2026, 12:13:35 PM  
-**Categories:** , Opinion  
-
-Two majors proposals are set to pass, its leading DATs are back, and Schwab is offering SOL to its clients—quite the setup for Solana.
-
-📖 [Read original article](https://decrypt.co/376800/morning-minute-solana-jumps-with-network-inflation-set-to-drop)
-
----
-
-## 13. UK Police Seize $1.4M in Bitcoin Traced to Shuttered Darknet Markets
-
-**Author:** Decrypt Agent  
-**Published:** 8/28/2026, 11:34:20 AM  
-**Categories:** , Law and Order  
-
-The 20.21 BTC was linked to marketplaces running between 2016 and 2019, and the man who held it died before it was forfeited.
-
-📖 [Read original article](https://decrypt.co/376797/uk-police-seize-1-4m-in-bitcoin-traced-to-shuttered-darknet-markets)
-
----
-
-## 14. 240 Crypto Millionaires Booked Over Half of Britain's Taxable Crypto Gains
-
-**Author:** Decrypt Agent  
-**Published:** 8/28/2026, 11:03:04 AM  
-**Categories:** , , Business  
-
-HMRC's first breakdown shows 17,600 people declared £1.38 billion, most of them under 55 and 87% of them men.
-
-📖 [Read original article](https://decrypt.co/376794/240-crypto-millionaires-booked-over-half-of-britains-taxable-crypto-gains)
-
----
-
-## 15. Judge Rules Trump Administration Illegally Retaliated Against Anthropic Over AI Red Lines
-
-**Author:** Decrypt Agent  
-**Published:** 8/28/2026, 10:11:34 AM  
-**Categories:** Artificial Intelligence  
-
-Rita Lin vacated the supply chain designation and issued a permanent injunction, refusing the government even a seven-day stay.
-
-📖 [Read original article](https://decrypt.co/376781/judge-rules-trump-administration-illegally-retaliated-against-anthropic-over-ai-red-lines)
 
 ---
