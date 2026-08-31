@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-08-30"
 date: "2026-08-30"
 source: "Cointelegraph"
-count: 4
+count: 5
 ---
 
 # Cointelegraph - 2026-08-30
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Saylor signals Strategy is ‘Back’ to Bitcoin buying
+## 1. Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 8/30/2026, 11:36:16 PM  
+**Categories:** Magazine  
+
+Bitcoin moves toward a post quantum future, Solana validators agree to curb rampant inflation and the bull case from Bernstein is for Bitcoin to peak at $500K this cycle.
+
+📖 [Read original article](https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Saylor signals Strategy is ‘Back’ to Bitcoin buying
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 8/30/2026, 5:59:00 PM  
@@ -23,7 +35,7 @@ Michael Saylor’s “We’re Back” post hints Strategy may resume Bitcoin buy
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 3. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/30/2026, 12:49:37 PM  
@@ -35,7 +47,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. Russia’s Sber eyes USDT loans, questions digital ruble demand
+## 4. Russia’s Sber eyes USDT loans, questions digital ruble demand
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/30/2026, 9:55:00 AM  
@@ -47,7 +59,7 @@ Russia’s largest bank, Sber, plans to accept USDT and Ether alongside Bitcoin 
 
 ---
 
-## 4. Real Trump Coins denies launching GOLD token, blames ‘bad actors’
+## 5. Real Trump Coins denies launching GOLD token, blames ‘bad actors’
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/30/2026, 8:04:56 AM  
