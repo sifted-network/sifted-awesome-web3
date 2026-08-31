@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-30"
 date: "2026-08-30"
 source: "Cointelegraph"
-count: 5
+count: 4
 ---
 
 # Cointelegraph - 2026-08-30
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ Michael Saylor’s “We’re Back” post hints Strategy may resume Bitcoin buy
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 8/30/2026, 12:49:37 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Russia’s Sber eyes USDT loans, questions digital ruble demand
+## 3. Russia’s Sber eyes USDT loans, questions digital ruble demand
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/30/2026, 9:55:00 AM  
@@ -59,7 +47,7 @@ Russia’s largest bank, Sber, plans to accept USDT and Ether alongside Bitcoin 
 
 ---
 
-## 5. Real Trump Coins denies launching GOLD token, blames ‘bad actors’
+## 4. Real Trump Coins denies launching GOLD token, blames ‘bad actors’
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 8/30/2026, 8:04:56 AM  
