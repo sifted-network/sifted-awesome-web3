@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-09-01"
 date: "2026-09-01"
 source: "Cointelegraph"
-count: 6
+count: 13
 ---
 
 # Cointelegraph - 2026-09-01
 
-6 items collected.
+13 items collected.
 
 ---
 
-## 1. Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet
+## 1. Bitcoin stays flat as global bond bear market rages on, pushing JGB to high
+
+**Author:** Cointelegraph by Charles Bennett  
+**Published:** 9/1/2026, 3:34:00 PM  
+**Categories:** Markets  
+
+Global bond yields hit multi-decade highs today as Japan’s 10-year JGB yield reached a 30-year peak, keeping Bitcoin steady near $78,000.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Fake Claude desktop app spreads crypto-stealing malware
+
+**Author:** Cointelegraph by Adrian Zmudzinski  
+**Published:** 9/1/2026, 2:00:00 PM  
+**Categories:** Latest News  
+
+RevStealer targets more than 50 crypto wallets alongside browser passwords, cookies, messaging data and selected documents.
+
+📖 [Read original article](https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Does the Bitcoin rally mean we haven’t wasted our lives in crypto?
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 9/1/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+Crypto is showing signs of life again, but its biggest wins look different from what early believers imagined. After a decade of building, has it all been worth it?
+
+📖 [Read original article](https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Asia sees digital asset custody infrastructure deals from Ripple, Coincheck
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/1/2026, 1:13:05 PM  
+**Categories:** Latest News  
+
+Ripple was among the latest blockchain companies to sign a strategic partnership to build more custody and tokenized asset management solutions for Asian institutional participants.
+
+📖 [Read original article](https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Kast launches stablecoin-powered business platform after $80M raise
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 9/1/2026, 1:00:00 PM  
+**Categories:** Latest News  
+
+Kast aims to onboard between 1,000 and 5,000 active businesses to its new platform by the end of 2026.
+
+📖 [Read original article](https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Lazarus Group-linked addresses move $30M through Hyperliquid
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/1/2026, 12:01:08 PM  
+**Categories:** Latest News  
+
+Crypto wallets linked to the OFAC-sanctioned Lazarus Group moved $30 million in digital assets through Hyperliquid, weeks after regulators said they were working on a path to introduce the exchange into US markets.
+
+📖 [Read original article](https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/1/2026, 10:56:41 AM  
+**Categories:** Latest News  
+
+The London bourse operator is seeking to offer 24/5 exposure to UK-based tokenized equities, as more TradFi institutions explore tokenized equities offerings.
+
+📖 [Read original article](https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/1/2026, 10:00:00 AM  
@@ -23,7 +107,7 @@ Five equity-backed notes issued through Luxembourg’s ORO II fund will trade ag
 
 ---
 
-## 2. Singapore weighs recognizing some foreign-issued stablecoins
+## 9. Singapore weighs recognizing some foreign-issued stablecoins
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/1/2026, 9:55:11 AM  
@@ -35,7 +119,7 @@ Singapore is considering allowing jointly issued cross-border stablecoins into i
 
 ---
 
-## 3. Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report
+## 10. Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/1/2026, 7:47:13 AM  
@@ -47,10 +131,10 @@ Donald Trump Jr.-linked 1789 Capital will reportedly lead a $1 billion investmen
 
 ---
 
-## 4. Here’s what happened in crypto today
+## 11. Here’s what happened in crypto today
 
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/1/2026, 5:58:48 AM  
+**Author:** Cointelegraph by Robert Lakin  
+**Published:** 9/1/2026, 6:01:00 AM  
 **Categories:** Latest News  
 
 Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
@@ -59,7 +143,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 5. BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks
+## 12. BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/1/2026, 4:48:47 AM  
@@ -71,7 +155,7 @@ Ether ETFs extended their inflow streak to 11 trading sessions, while XRP and So
 
 ---
 
-## 6. Thailand SEC proposes retail access to regulated overseas crypto derivatives
+## 13. Thailand SEC proposes retail access to regulated overseas crypto derivatives
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/1/2026, 3:49:00 AM  
