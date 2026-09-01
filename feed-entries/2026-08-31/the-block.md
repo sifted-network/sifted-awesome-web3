@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-31"
 date: "2026-08-31"
 source: "The Block"
-count: 10
+count: 9
 ---
 
 # The Block - 2026-08-31
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ Tom Lee's Bitmine acquired 53,501 ETH over the past week, expanding its corporat
 Strategy bought 4,603 BTC for $369.7 million, raising total holdings to 845,050 BTC worth over $66 billion.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-08-31-were-back-strategy-buys-another-4603-btc-369-7-million-holdings-hit-845050-btc-413087)
-
----
-
-## 10. Russia’s largest bank forecasts $46 billion in first-year crypto exchange trading under new rules: report
-
-**Author:** Timmy Shen  
-**Published:** 8/31/2026, 8:15:48 AM  
-**Categories:** Companies, Crypto Ecosystems, Policy, Regulation, News  
-
-Sberbank's forecast comes as the country's new crypto regulations are set to take effect on Sept. 1, 2026.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-31-russias-largest-bank-forecasts-46-billion-in-first-year-crypto-exchange-trading-under-new-rules-report-413082)
 
 ---
