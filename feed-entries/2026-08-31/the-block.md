@@ -2,12 +2,12 @@
 title: "The Block - 2026-08-31"
 date: "2026-08-31"
 source: "The Block"
-count: 9
+count: 6
 ---
 
 # The Block - 2026-08-31
 
-9 items collected.
+6 items collected.
 
 ---
 
@@ -80,41 +80,5 @@ TD Cowen expects Strive (ASST) to end 2026 with 27,156 BTC, nearly 4,300 more bi
 Former U.S. Rep. George Santos has been permanently banned from trading on Kalshi, marking the platform’s first-ever permanent ban.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-08-31-kalshi-issues-first-permanent-ban-to-former-rep-george-santos-over-state-of-the-union-trading-413120)
-
----
-
-## 7. NYSE parent ICE partners with tZERO on infrastructure for tokenized securities
-
-**Author:** Jason Shubnell  
-**Published:** 8/31/2026, 3:04:14 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Markets, Web3, Tokenization, News  
-
-tZERO will be a design partner for ICE’s upcoming tokenized securities platform, and ICE will also invest in tZERO’s latest financing round.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-08-31-nyse-parent-ice-partners-with-tzero-infrastructure-tokenized-securities-413111)
-
----
-
-## 8. Tom Lee says ether is ‘best performing macro asset’ as Bitmine adds 53,501 ETH
-
-**Author:** Brian Danga  
-**Published:** 8/31/2026, 2:17:57 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Ethereum, News  
-
-Tom Lee's Bitmine acquired 53,501 ETH over the past week, expanding its corporate treasury to 5.9 million ether tokens.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-31-tom-lee-says-ether-best-performing-macro-asset-bitmine-adds-53501-eth-413105)
-
----
-
-## 9. ‘We’re back’: Strategy buys another 4,603 bitcoin for $369.7 million as holdings hit 845,050 BTC
-
-**Author:** Brian Danga  
-**Published:** 8/31/2026, 1:11:07 PM  
-**Categories:** Companies, Markets, Public Equities, Strategy, News  
-
-Strategy bought 4,603 BTC for $369.7 million, raising total holdings to 845,050 BTC worth over $66 billion.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-31-were-back-strategy-buys-another-4603-btc-369-7-million-holdings-hit-845050-btc-413087)
 
 ---
