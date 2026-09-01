@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-31"
 date: "2026-08-31"
 source: "Cointelegraph"
-count: 14
+count: 13
 ---
 
 # Cointelegraph - 2026-08-31
 
-14 items collected.
+13 items collected.
 
 ---
 
@@ -164,17 +164,5 @@ Bitcoin approached the August monthly close below key resistance with markets on
 Blockaid said an attacker used an Ankr liquid staking token and E-mode to overborrow from More Markets and drain about $9.3 million in WFLOW from a lending reserve.
 
 📖 [Read original article](https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Cronos halts network after Tectonic exploit involving estimated $75M
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 8/31/2026, 3:25:48 AM  
-**Categories:** Latest News  
-
-Crypto.com CEO Kris Marszalek said the company’s app and exchange were unaffected by the Tectonic breach and continued operating normally.
-
-📖 [Read original article](https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
