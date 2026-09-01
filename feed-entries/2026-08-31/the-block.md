@@ -2,16 +2,28 @@
 title: "The Block - 2026-08-31"
 date: "2026-08-31"
 source: "The Block"
-count: 9
+count: 10
 ---
 
 # The Block - 2026-08-31
 
-9 items collected.
+10 items collected.
 
 ---
 
-## 1. Solana fees hit record as validators double pace of inflation cuts
+## 1. Robinhood Chain hits record $989 million in daily DEX volume as TVL grows
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 8/31/2026, 10:21:03 PM  
+**Categories:** Crypto Ecosystems, DeFi, Market Updates, Markets, Web3, DEXs, Memecoins, News  
+
+Robinhood Chain DEX volume hit a record in the month of August as utility tokens gain ground on memecoins.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-08-31-robinhood-chain-activity-surges-in-august-as-dex-volume-near-1-billion-413136)
+
+---
+
+## 2. Solana fees hit record as validators double pace of inflation cuts
 
 **Author:** Ivan Wu and Bryan Samsoedin  
 **Published:** 8/31/2026, 8:14:57 PM  
@@ -23,7 +35,7 @@ Less new supply of SOL will reach the market every year, which also means valida
 
 ---
 
-## 2. Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg
+## 3. Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg
 
 **Author:** Kyle Baird and Sarah Wynn  
 **Published:** 8/31/2026, 6:16:29 PM  
@@ -35,7 +47,7 @@ Payward has reportedly presented the CFTC with an outline of the proposed struct
 
 ---
 
-## 3. OpenSea adds Solana NFT trading more than four years after initial beta
+## 4. OpenSea adds Solana NFT trading more than four years after initial beta
 
 **Author:** Yogita Khatri  
 **Published:** 8/31/2026, 6:11:53 PM  
@@ -47,7 +59,7 @@ OpenSea has added support for Solana NFTs, allowing users to buy, sell, and trad
 
 ---
 
-## 4. Strive becomes fifth-largest public bitcoin treasury after 1,800 BTC buy, TD Cowen lifts ASST price target
+## 5. Strive becomes fifth-largest public bitcoin treasury after 1,800 BTC buy, TD Cowen lifts ASST price target
 
 **Author:** Kyle Baird  
 **Published:** 8/31/2026, 3:35:11 PM  
@@ -59,7 +71,7 @@ TD Cowen expects Strive (ASST) to end 2026 with 27,156 BTC, nearly 4,300 more bi
 
 ---
 
-## 5. Kalshi issues first permanent ban to former Rep. George Santos over State of the Union trading
+## 6. Kalshi issues first permanent ban to former Rep. George Santos over State of the Union trading
 
 **Author:** Sarah Wynn  
 **Published:** 8/31/2026, 3:23:17 PM  
@@ -71,7 +83,7 @@ Former U.S. Rep. George Santos has been permanently banned from trading on Kalsh
 
 ---
 
-## 6. NYSE parent ICE partners with tZERO on infrastructure for tokenized securities
+## 7. NYSE parent ICE partners with tZERO on infrastructure for tokenized securities
 
 **Author:** Jason Shubnell  
 **Published:** 8/31/2026, 3:04:14 PM  
@@ -83,7 +95,7 @@ tZERO will be a design partner for ICE’s upcoming tokenized securities platfor
 
 ---
 
-## 7. Tom Lee says ether is ‘best performing macro asset’ as Bitmine adds 53,501 ETH
+## 8. Tom Lee says ether is ‘best performing macro asset’ as Bitmine adds 53,501 ETH
 
 **Author:** Brian Danga  
 **Published:** 8/31/2026, 2:17:57 PM  
@@ -95,7 +107,7 @@ Tom Lee's Bitmine acquired 53,501 ETH over the past week, expanding its corporat
 
 ---
 
-## 8. ‘We’re back’: Strategy buys another 4,603 bitcoin for $369.7 million as holdings hit 845,050 BTC
+## 9. ‘We’re back’: Strategy buys another 4,603 bitcoin for $369.7 million as holdings hit 845,050 BTC
 
 **Author:** Brian Danga  
 **Published:** 8/31/2026, 1:11:07 PM  
@@ -107,7 +119,7 @@ Strategy bought 4,603 BTC for $369.7 million, raising total holdings to 845,050 
 
 ---
 
-## 9. Russia’s largest bank forecasts $46 billion in first-year crypto exchange trading under new rules: report
+## 10. Russia’s largest bank forecasts $46 billion in first-year crypto exchange trading under new rules: report
 
 **Author:** Timmy Shen  
 **Published:** 8/31/2026, 8:15:48 AM  
