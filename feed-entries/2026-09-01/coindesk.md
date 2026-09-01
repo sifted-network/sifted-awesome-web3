@@ -155,7 +155,7 @@ STRC trades at $97.34 despite Strategy’s growing repurchases, while SATA’s h
 
 ---
 
-## 13. Live updates: Bitcoin trades around $78,000 as crude surges, global bond sell-off deepens
+## 13. Live updates: Bitcoin slumps as oil surges to three-month high on new Iran strikes
 
 **Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Stephen Alpher  
 **Published:** 9/1/2026, 8:35:57 AM  
