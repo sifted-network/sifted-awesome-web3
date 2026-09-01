@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-31"
 date: "2026-08-31"
 source: "CoinDesk"
-count: 17
+count: 16
 ---
 
 # CoinDesk - 2026-08-31
 
-17 items collected.
+16 items collected.
 
 ---
 
@@ -200,17 +200,5 @@ Zakura says a new cryptography stack makes mobile proof generation more than 14 
 An attacker allegedly pushed Tectonic’s thinly traded TONIC token up 100-fold, used it as collateral to borrow real assets and left most funds stranded when Cronos validators paused the network.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic)
-
----
-
-## 17. Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower
-
-**Author:** Omkar Godbole  
-**Published:** 8/31/2026, 4:29:10 AM  
-**Categories:** Markets, Bitcoin News, Markets, News  
-
-BTC remains August's best-performing asset after the latest escalation in geopolitical tensions.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower)
 
 ---
