@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-09-01"
 date: "2026-09-01"
 source: "Cointelegraph"
-count: 17
+count: 20
 ---
 
 # Cointelegraph - 2026-09-01
 
-17 items collected.
+20 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Crypto-backed PAC scales back ad spending in Massachusetts primary
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/1/2026, 9:25:27 PM  
+**Categories:** Latest News  
+
+The $189,000 in media spending to support Representative Jake Auchincloss marked Fairshake’s latest attempt to influence the 2026 elections with funds from the crypto industry.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Binance expands TradFi push with options on 1,000 US stocks, ETFs
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/1/2026, 8:42:29 PM  
+**Categories:** Latest News  
+
+The launch gives eligible non-US users access to physically settled options on more than 1,000 US stocks and ETFs through a single Binance account.
+
+📖 [Read original article](https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. UK crime agency froze $13.5M amid probe into Premier League crypto sponsor
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/1/2026, 8:14:12 PM  
+**Categories:** Latest News  
+
+UK authorities froze $13.5 million in cash following a January 2025 order from the Westminster Magistrates’ Court as part of an investigation into Sorare.
+
+📖 [Read original article](https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 9/1/2026, 8:00:17 PM  
@@ -23,7 +59,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. SEC proposes broad update to decades-old transfer agent rules with blockchain nod
+## 5. SEC proposes broad update to decades-old transfer agent rules with blockchain nod
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/1/2026, 5:52:51 PM  
@@ -35,7 +71,7 @@ The proposal would modernize rules largely unchanged since the 1980s, addressing
 
 ---
 
-## 3. Kalshi issues first lifetime ban for Republican politician over insider bets
+## 6. Kalshi issues first lifetime ban for Republican politician over insider bets
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/1/2026, 5:39:48 PM  
@@ -47,7 +83,7 @@ The prediction platform permanently banned George Santos and issued a three-year
 
 ---
 
-## 4. BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch
+## 7. BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/1/2026, 4:39:12 PM  
@@ -59,7 +95,7 @@ The planned venture will initially focus on a US dollar stablecoin before expand
 
 ---
 
-## 5. Ethena launches USDe payments app, offers 6% rewards
+## 8. Ethena launches USDe payments app, offers 6% rewards
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/1/2026, 4:06:58 PM  
@@ -71,7 +107,7 @@ The self-custodial app brings USDe into everyday payments, savings and cross-bor
 
 ---
 
-## 6. Bitcoin stays flat as global bond bear market rages on, pushing JGB to high
+## 9. Bitcoin stays flat as global bond bear market rages on, pushing JGB to high
 
 **Author:** Cointelegraph by Charles Bennett  
 **Published:** 9/1/2026, 3:34:00 PM  
@@ -83,7 +119,7 @@ Global bond yields hit multi-decade highs today as Japan’s 10-year JGB yield r
 
 ---
 
-## 7. Fake Claude desktop app spreads crypto-stealing malware
+## 10. Fake Claude desktop app spreads crypto-stealing malware
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 9/1/2026, 2:00:00 PM  
@@ -95,7 +131,7 @@ RevStealer targets more than 50 crypto wallets alongside browser passwords, cook
 
 ---
 
-## 8. Does the Bitcoin rally mean we haven’t wasted our lives in crypto?
+## 11. Does the Bitcoin rally mean we haven’t wasted our lives in crypto?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/1/2026, 1:30:00 PM  
@@ -107,7 +143,7 @@ Crypto is showing signs of life again, but its biggest wins look different from 
 
 ---
 
-## 9. Asia sees digital asset custody infrastructure deals from Ripple, Coincheck
+## 12. Asia sees digital asset custody infrastructure deals from Ripple, Coincheck
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/1/2026, 1:13:05 PM  
@@ -119,7 +155,7 @@ Ripple was among the latest blockchain companies to sign a strategic partnership
 
 ---
 
-## 10. Kast launches stablecoin-powered business platform after $80M raise
+## 13. Kast launches stablecoin-powered business platform after $80M raise
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/1/2026, 1:00:00 PM  
@@ -131,7 +167,7 @@ Kast aims to onboard between 1,000 and 5,000 active businesses to its new platfo
 
 ---
 
-## 11. Lazarus Group-linked addresses move $30M through Hyperliquid
+## 14. Lazarus Group-linked addresses move $30M through Hyperliquid
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/1/2026, 12:01:08 PM  
@@ -143,7 +179,7 @@ Crypto wallets linked to the OFAC-sanctioned Lazarus Group moved $30 million in 
 
 ---
 
-## 12. London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT
+## 15. London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/1/2026, 10:56:41 AM  
@@ -155,7 +191,7 @@ The London bourse operator is seeking to offer 24/5 exposure to UK-based tokeniz
 
 ---
 
-## 13. Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet
+## 16. Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/1/2026, 10:00:00 AM  
@@ -167,7 +203,7 @@ Five equity-backed notes issued through Luxembourg’s ORO II fund will trade ag
 
 ---
 
-## 14. Singapore weighs recognizing some foreign-issued stablecoins
+## 17. Singapore weighs recognizing some foreign-issued stablecoins
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/1/2026, 9:55:11 AM  
@@ -179,7 +215,7 @@ Singapore is considering allowing jointly issued cross-border stablecoins into i
 
 ---
 
-## 15. Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report
+## 18. Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/1/2026, 7:47:13 AM  
@@ -191,7 +227,7 @@ Donald Trump Jr.-linked 1789 Capital will reportedly lead a $1 billion investmen
 
 ---
 
-## 16. BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks
+## 19. BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/1/2026, 4:48:47 AM  
@@ -203,7 +239,7 @@ Ether ETFs extended their inflow streak to 11 trading sessions, while XRP and So
 
 ---
 
-## 17. Thailand SEC proposes retail access to regulated overseas crypto derivatives
+## 20. Thailand SEC proposes retail access to regulated overseas crypto derivatives
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/1/2026, 3:49:00 AM  
