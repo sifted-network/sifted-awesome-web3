@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-31"
 date: "2026-08-31"
 source: "Cointelegraph"
-count: 10
+count: 6
 ---
 
 # Cointelegraph - 2026-08-31
 
-10 items collected.
+6 items collected.
 
 ---
 
@@ -80,53 +80,5 @@ Strive’s latest Bitcoin purchase lifted its holdings to 23,156 BTC, making it 
 Regulated cryptocurrency exchanges may see more than $46 billion in crypto trading volume during the first year after legalization, according to estimates from the country’s largest bank.
 
 📖 [Read original article](https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Mystery surrounds why an OG burned $1M in Bitcoin
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 8/31/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-The million dollar question is what prompted a Bitcoin OG to send 20 BTC to a custodian, retrieve it back, and then deliberately burn it?
-
-📖 [Read original article](https://cointelegraph.com/magazine/mystery-surrounds-why-an-og-burned-1m-in-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Japanese regulator requests tax filing exemption for trust-type stablecoins in 2027 reform
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/31/2026, 1:20:05 PM  
-**Categories:** Latest News  
-
-Japan’s FSA requested to exempt trust-type stablecoins from mandatory tax filings starting in fiscal year 2027, arguing that it would improve their use as transaction tools.
-
-📖 [Read original article](https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Metaplanet moves 4,800 BTC worth $377M to Coinbase
-
-**Author:** Cointelegraph by Adrian Zmudzinski  
-**Published:** 8/31/2026, 1:19:00 PM  
-**Categories:** Latest News  
-
-The Japanese Bitcoin treasury company has transferred 10,270 BTC to Coinbase Prime this week, an amount equal to more than 29% of its reported holdings.
-
-📖 [Read original article](https://cointelegraph.com/news/mutiny-metaplanet-moves-4800-btc-worth-377m-to-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Strategy buys $370M Bitcoin in first corporate purchase since June
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/31/2026, 12:45:12 PM  
-**Categories:** Latest News  
-
-Strategy added to its BTC treasury for the first time in two months, while continuing to bolster its cash reserves and buy back its perpetual STRC preferred stock.
-
-📖 [Read original article](https://cointelegraph.com/news/strategy-buys-370m-bitcoin-first-acquisition-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
