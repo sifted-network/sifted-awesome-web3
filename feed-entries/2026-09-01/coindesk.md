@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-01"
 date: "2026-09-01"
 source: "CoinDesk"
-count: 10
+count: 7
 ---
 
 # CoinDesk - 2026-09-01
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ September has historically been a poor month for risk assets in general, and bit
 Ethena Pay offers a 6% dollar savings rate and 5% card cashback, using Avalanche for settlement.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments)
-
----
-
-## 8. UK’s crime agency freezes Premier League $13.5 million account in crypto crime probe
-
-**Author:** Olivier Acuna  
-**Published:** 9/1/2026, 12:37:10 PM  
-**Categories:** Finance, UK, Crime, News  
-
-Authorities targeted funds from a $140 million sponsorship deal with crypto firm Sorare, though law enforcement confirmed no wrongdoing by the Premier League.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/01/uk-s-crime-agency-freezes-premier-league-usd13-5-million-account-in-crypto-crime-probe)
-
----
-
-## 9. Hut 8's Texas power site sits inside Anthropic’s $35 billion AI deal
-
-**Author:** Shaurya Malwa  
-**Published:** 9/1/2026, 12:11:44 PM  
-**Categories:** Tech, News  
-
-The company's Texas campus has two long-term leases worth $19.6 billion, more than 260 times its latest quarterly revenue, as AI companies race to secure power and data-center capacity.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/01/hut-8-s-texas-power-site-sits-inside-anthropic-s-usd35-billion-ai-deal)
-
----
-
-## 10. U.S. looks to influence Japan's monetary policy. It couldn't do that with bitcoin
-
-**Author:** Omkar Godbole  
-**Published:** 9/1/2026, 11:15:00 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Sept. 1, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/09/01/u-s-looks-to-influence-japan-s-monetary-policy-it-couldn-t-do-that-with-bitcoin)
 
 ---
