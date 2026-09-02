@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-31"
 date: "2026-08-31"
 source: "Decrypt"
-count: 15
+count: 10
 ---
 
 # Decrypt - 2026-08-31
 
-15 items collected.
+10 items collected.
 
 ---
 
@@ -128,65 +128,5 @@ The PlayStation maker is fighting a California class action over "Buy Now" butto
 The purchase lifts Bitmine's stash to 5.9 million ETH—4.9% of supply—as chairman Tom Lee points to crypto's strong third quarter.
 
 📖 [Read original article](https://decrypt.co/376932/tom-lee-bitmine-largest-ethereum-purchase-since-june)
-
----
-
-## 11. South Korea Will Give Every Citizen Free AI Access With Unlimited Tokens
-
-**Author:** Decrypt Agent  
-**Published:** 8/31/2026, 2:03:39 PM  
-**Categories:** Artificial Intelligence  
-
-Three consortia will run the service, sharing up to 512 Nvidia B200 chips supplied by the state, with beta testing due in September.
-
-📖 [Read original article](https://decrypt.co/376929/south-korea-will-give-every-citizen-free-ai-access-with-unlimited-tokens)
-
----
-
-## 12. Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees
-
-**Author:** Tyler Warner  
-**Published:** 8/31/2026, 12:37:44 PM  
-**Categories:** Opinion  
-
-Vlad Tenev’s new blockchain is soaring in all metrics as memes paired with tokenized stocks start to take off.
-
-📖 [Read original article](https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees)
-
----
-
-## 13. Strategy Buys $370M of Bitcoin in First Purchase Since June
-
-**Author:** Decrypt Agent  
-**Published:** 8/31/2026, 12:27:01 PM  
-**Categories:** , Coins  
-
-The 4,603 BTC cost an average of $80,318, some 29% above what the company took for the coins it sold this summer.
-
-📖 [Read original article](https://decrypt.co/376924/strategy-buys-370m-of-bitcoin-in-first-purchase-since-june)
-
----
-
-## 14. Ireland Bars Crypto From State Savings Scheme Targeting $203B in Deposits
-
-**Author:** Decrypt Agent  
-**Published:** 8/31/2026, 11:10:44 AM  
-**Categories:** , , Business  
-
-Shares, bonds, funds, ETFs and insurance products will qualify for the tax-advantaged accounts, which open next year.
-
-📖 [Read original article](https://decrypt.co/376916/ireland-bars-crypto-from-state-savings-scheme-targeting-203b-in-deposits)
-
----
-
-## 15. Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit
-
-**Author:** Decrypt Agent  
-**Published:** 8/31/2026, 9:41:27 AM  
-**Categories:** DeFi  
-
-Some $6 million reached Ethereum before validators froze the chain, stranding the rest on a network that still is not producing blocks.
-
-📖 [Read original article](https://decrypt.co/376913/crypto-coms-cronos-halts-entire-blockchain-after-75m-tectonic-exploit)
 
 ---
