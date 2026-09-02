@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-09-02"
 date: "2026-09-02"
 source: "Cointelegraph"
-count: 12
+count: 16
 ---
 
 # Cointelegraph - 2026-09-02
 
-12 items collected.
+16 items collected.
 
 ---
 
-## 1. G20 members tout ‘clear pathways’ for digital asset innovation
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 9/2/2026, 7:11:15 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. New Jersey officials petition US Supreme Court over prediction markets
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/2/2026, 6:55:41 PM  
+**Categories:** Latest News  
+
+New Jersey’s Attorney General and gaming authorities filed a petition for a writ of certiorari to the US Supreme Court over Kalshi offering sporting event contracts to residents.
+
+📖 [Read original article](https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Wyoming adds Chainlink reserve verification to state-issued stable token
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/2/2026, 6:38:18 PM  
+**Categories:** Latest News  
+
+Wyoming is using Chainlink to bring near-real-time reserve verification onchain for FRNT as the oracle provider expands its footprint across tokenized financial markets.
+
+📖 [Read original article](https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Ondo urges SEC, CFTC to bring US stock perpetuals onshore
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/2/2026, 4:39:22 PM  
+**Categories:** Latest News  
+
+Ondo says existing US securities laws can accommodate perpetual futures tied to individual stocks as regulators look to bring more derivatives activity onshore.
+
+📖 [Read original article](https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Bitcoin’s apparent demand turns negative as price struggles with $77K
+
+**Author:** Cointelegraph by Charles Bennett  
+**Published:** 9/2/2026, 4:35:56 PM  
+**Categories:** Markets  
+
+One of Bitcoin’s onchain demand indicators turns negative again after a brief August rebound, as BTC price slipped below $77,000 amid a broader bond and equities sell-off.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. G20 members tout ‘clear pathways’ for digital asset innovation
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/2/2026, 3:34:06 PM  
@@ -23,7 +83,7 @@ Officials in the G20, under the US’ presidency, recognized that digital assets
 
 ---
 
-## 2. Sui DeFi protocol Full Sail to wind down after Switchboard incident
+## 7. Sui DeFi protocol Full Sail to wind down after Switchboard incident
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/2/2026, 1:40:03 PM  
@@ -35,7 +95,7 @@ Full Sail is shutting down after an attacker removed about $91,000 from three va
 
 ---
 
-## 3. BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead
+## 8. BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 9/2/2026, 1:30:00 PM  
@@ -47,19 +107,7 @@ Arthur Hayes says Bitcoin is going to grind higher from here, but Ethereum is hi
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/2/2026, 1:30:00 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Hashkey joins DTCC working group as first Asian crypto service provider
+## 9. Hashkey joins DTCC working group as first Asian crypto service provider
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/2/2026, 1:11:25 PM  
@@ -71,7 +119,7 @@ Hashkey joined the DTCC’s working group on tokenization innovation as the firs
 
 ---
 
-## 6. Thai businessmen sue Tether for freezing $42M in $61M pig butchering case
+## 10. Thai businessmen sue Tether for freezing $42M in $61M pig butchering case
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/2/2026, 12:00:00 PM  
@@ -83,7 +131,7 @@ The plaintiffs didn’t dispute their involvement in the pig butchering scam, bu
 
 ---
 
-## 7. Japan’s Remixpoint dumps altcoins, leaves 1,506 BTC as sole crypto bet
+## 11. Japan’s Remixpoint dumps altcoins, leaves 1,506 BTC as sole crypto bet
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/2/2026, 12:00:00 PM  
@@ -95,7 +143,7 @@ Remixpoint sold $5.5 million in ETH, SOL, XRP and DOGE, booking a $736,000 net g
 
 ---
 
-## 8. Thailand adopts crypto Travel Rule with self-custodial wallet checks
+## 12. Thailand adopts crypto Travel Rule with self-custodial wallet checks
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/2/2026, 10:56:15 AM  
@@ -107,7 +155,7 @@ Thailand adopted a crypto Travel Rule requiring digital asset operators to verif
 
 ---
 
-## 9. Crypto industry urges SEC to avoid blanket novel ETF restrictions
+## 13. Crypto industry urges SEC to avoid blanket novel ETF restrictions
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/2/2026, 9:48:49 AM  
@@ -119,7 +167,7 @@ Grayscale, a16z, and the CCI asked the SEC to preserve existing classification r
 
 ---
 
-## 10. Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August
+## 14. Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/2/2026, 7:59:43 AM  
@@ -131,7 +179,7 @@ US spot Bitcoin ETFs reduced their year-to-date net outflows by 66% as Bitcoin g
 
 ---
 
-## 11. HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B
+## 15. HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/2/2026, 5:48:21 AM  
@@ -143,7 +191,7 @@ The Nasdaq-listed company previously raised $647 million through the facility an
 
 ---
 
-## 12. Core DAO plans emergency hard fork after validators drew excess rewards
+## 16. Core DAO plans emergency hard fork after validators drew excess rewards
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/2/2026, 4:15:34 AM  
