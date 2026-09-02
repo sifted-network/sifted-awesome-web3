@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-01"
 date: "2026-09-01"
 source: "The Block"
-count: 13
+count: 11
 ---
 
 # The Block - 2026-09-01
 
-13 items collected.
+11 items collected.
 
 ---
 
@@ -140,29 +140,5 @@ Payward will tokenize 100 London-listed stocks as xStocks, with LSE 24 to suppor
 MSCI opened a new consultation targeting companies that have operating assets lower than 50% of its total assets.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-09-01-strategy-hits-back-against-msci-413201)
-
----
-
-## 12. Ark Invest buys $37 million worth of shares in Jack Dorsey’s Block Inc
-
-**Author:** Danny Park  
-**Published:** 9/1/2026, 4:57:33 AM  
-**Categories:** Markets, News  
-
-Last month, Ark had purchased a bulk of Block shares after its second-quarter results that raised its full-year profit forecast to $12.5 billion
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-01-ark-invest-buys-37-million-block-413195)
-
----
-
-## 13. DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL
-
-**Author:** Timmy Shen  
-**Published:** 9/1/2026, 3:46:02 AM  
-**Categories:** Companies, Markets, News  
-
-The Nasdaq-listed company intends to use the proceeds to acquire more Solana and crypto-related investments.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-08-31-solana-defi-development-preferred-stock-offering-413190)
 
 ---
