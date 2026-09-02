@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-01"
 date: "2026-09-01"
 source: "Cointelegraph"
-count: 18
+count: 14
 ---
 
 # Cointelegraph - 2026-09-01
 
-18 items collected.
+14 items collected.
 
 ---
 
@@ -176,53 +176,5 @@ Crypto wallets linked to the OFAC-sanctioned Lazarus Group moved $30 million in 
 The London bourse operator is seeking to offer 24/5 exposure to UK-based tokenized equities, as more TradFi institutions explore tokenized equities offerings.
 
 📖 [Read original article](https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/1/2026, 10:00:00 AM  
-**Categories:** Latest News  
-
-Five equity-backed notes issued through Luxembourg’s ORO II fund will trade against dollars, USDT and Bitcoin for eligible non-US investors.
-
-📖 [Read original article](https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Singapore weighs recognizing some foreign-issued stablecoins
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/1/2026, 9:55:11 AM  
-**Categories:** Latest News  
-
-Singapore is considering allowing jointly issued cross-border stablecoins into its regulatory regime, revisiting its earlier decision to restrict the framework to domestic issuance.
-
-📖 [Read original article](https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/1/2026, 7:47:13 AM  
-**Categories:** Latest News  
-
-Donald Trump Jr.-linked 1789 Capital will reportedly lead a $1 billion investment round into Polymarket, which would value the platform at $21 billion, just below Kalshi’s $22 billion valuation.
-
-📖 [Read original article](https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/1/2026, 4:48:47 AM  
-**Categories:** Markets  
-
-Ether ETFs extended their inflow streak to 11 trading sessions, while XRP and Solana funds each logged a 10th consecutive positive session.
-
-📖 [Read original article](https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
