@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-08-31"
 date: "2026-08-31"
 source: "CoinDesk"
-count: 7
+count: 6
 ---
 
 # CoinDesk - 2026-08-31
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ Company Chairman Lee said crypto’s recent outperformance could draw more insti
 It's the first week of bitcoin purchases for the Michael Saylor-led company in about two months.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/08/31/strategy-returns-to-bitcoin-buys-adding-usd370-million-worth-last-week)
-
----
-
-## 7. Robinhood Chain beats Ethereum in daily revenue as memecoin trading takes over
-
-**Author:** Shaurya Malwa  
-**Published:** 8/31/2026, 11:53:56 AM  
-**Categories:** Markets, Robinhood, News  
-
-The two-month-old network processed a record 5.52 million transactions on Aug. 30 as users launched 22,600 tokens and memecoin trading tools drove most of the $2.66 million in revenue.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/08/31/robinhood-chain-beats-ethereum-in-daily-revenue-as-memecoin-trading-takes-over)
 
 ---
