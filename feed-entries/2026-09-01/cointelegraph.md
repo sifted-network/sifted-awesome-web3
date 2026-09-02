@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-01"
 date: "2026-09-01"
 source: "Cointelegraph"
-count: 19
+count: 18
 ---
 
 # Cointelegraph - 2026-09-01
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -224,17 +224,5 @@ Donald Trump Jr.-linked 1789 Capital will reportedly lead a $1 billion investmen
 Ether ETFs extended their inflow streak to 11 trading sessions, while XRP and Solana funds each logged a 10th consecutive positive session.
 
 📖 [Read original article](https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Thailand SEC proposes retail access to regulated overseas crypto derivatives
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/1/2026, 3:49:00 AM  
-**Categories:** Latest News  
-
-Thailand’s SEC seeks comments on rules requiring retail-accessible overseas crypto derivatives to trade on qualifying, centrally cleared exchanges.
-
-📖 [Read original article](https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
