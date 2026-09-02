@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-01"
 date: "2026-09-01"
 source: "Cointelegraph"
-count: 20
+count: 19
 ---
 
 # Cointelegraph - 2026-09-01
 
-20 items collected.
+19 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ UK authorities froze $13.5 million in cash following a January 2025 order from t
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Robert Lakin  
-**Published:** 9/1/2026, 8:00:17 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. SEC proposes broad update to decades-old transfer agent rules with blockchain nod
+## 4. SEC proposes broad update to decades-old transfer agent rules with blockchain nod
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/1/2026, 5:52:51 PM  
@@ -71,7 +59,7 @@ The proposal would modernize rules largely unchanged since the 1980s, addressing
 
 ---
 
-## 6. Kalshi issues first lifetime ban for Republican politician over insider bets
+## 5. Kalshi issues first lifetime ban for Republican politician over insider bets
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/1/2026, 5:39:48 PM  
@@ -83,7 +71,7 @@ The prediction platform permanently banned George Santos and issued a three-year
 
 ---
 
-## 7. BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch
+## 6. BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/1/2026, 4:39:12 PM  
@@ -95,7 +83,7 @@ The planned venture will initially focus on a US dollar stablecoin before expand
 
 ---
 
-## 8. Ethena launches USDe payments app, offers 6% rewards
+## 7. Ethena launches USDe payments app, offers 6% rewards
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/1/2026, 4:06:58 PM  
@@ -107,7 +95,7 @@ The self-custodial app brings USDe into everyday payments, savings and cross-bor
 
 ---
 
-## 9. Bitcoin stays flat as global bond bear market rages on, pushing JGB to high
+## 8. Bitcoin stays flat as global bond bear market rages on, pushing JGB to high
 
 **Author:** Cointelegraph by Charles Bennett  
 **Published:** 9/1/2026, 3:34:00 PM  
@@ -119,7 +107,7 @@ Global bond yields hit multi-decade highs today as Japan’s 10-year JGB yield r
 
 ---
 
-## 10. Fake Claude desktop app spreads crypto-stealing malware
+## 9. Fake Claude desktop app spreads crypto-stealing malware
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 9/1/2026, 2:00:00 PM  
@@ -131,7 +119,7 @@ RevStealer targets more than 50 crypto wallets alongside browser passwords, cook
 
 ---
 
-## 11. Does the Bitcoin rally mean we haven’t wasted our lives in crypto?
+## 10. Does the Bitcoin rally mean we haven’t wasted our lives in crypto?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/1/2026, 1:30:00 PM  
@@ -143,7 +131,7 @@ Crypto is showing signs of life again, but its biggest wins look different from 
 
 ---
 
-## 12. Asia sees digital asset custody infrastructure deals from Ripple, Coincheck
+## 11. Asia sees digital asset custody infrastructure deals from Ripple, Coincheck
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/1/2026, 1:13:05 PM  
@@ -155,7 +143,7 @@ Ripple was among the latest blockchain companies to sign a strategic partnership
 
 ---
 
-## 13. Kast launches stablecoin-powered business platform after $80M raise
+## 12. Kast launches stablecoin-powered business platform after $80M raise
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/1/2026, 1:00:00 PM  
@@ -167,7 +155,7 @@ Kast aims to onboard between 1,000 and 5,000 active businesses to its new platfo
 
 ---
 
-## 14. Lazarus Group-linked addresses move $30M through Hyperliquid
+## 13. Lazarus Group-linked addresses move $30M through Hyperliquid
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/1/2026, 12:01:08 PM  
@@ -179,7 +167,7 @@ Crypto wallets linked to the OFAC-sanctioned Lazarus Group moved $30 million in 
 
 ---
 
-## 15. London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT
+## 14. London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/1/2026, 10:56:41 AM  
@@ -191,7 +179,7 @@ The London bourse operator is seeking to offer 24/5 exposure to UK-based tokeniz
 
 ---
 
-## 16. Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet
+## 15. Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/1/2026, 10:00:00 AM  
@@ -203,7 +191,7 @@ Five equity-backed notes issued through Luxembourg’s ORO II fund will trade ag
 
 ---
 
-## 17. Singapore weighs recognizing some foreign-issued stablecoins
+## 16. Singapore weighs recognizing some foreign-issued stablecoins
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/1/2026, 9:55:11 AM  
@@ -215,7 +203,7 @@ Singapore is considering allowing jointly issued cross-border stablecoins into i
 
 ---
 
-## 18. Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report
+## 17. Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/1/2026, 7:47:13 AM  
@@ -227,7 +215,7 @@ Donald Trump Jr.-linked 1789 Capital will reportedly lead a $1 billion investmen
 
 ---
 
-## 19. BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks
+## 18. BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/1/2026, 4:48:47 AM  
@@ -239,7 +227,7 @@ Ether ETFs extended their inflow streak to 11 trading sessions, while XRP and So
 
 ---
 
-## 20. Thailand SEC proposes retail access to regulated overseas crypto derivatives
+## 19. Thailand SEC proposes retail access to regulated overseas crypto derivatives
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/1/2026, 3:49:00 AM  
