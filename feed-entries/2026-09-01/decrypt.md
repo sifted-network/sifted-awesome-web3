@@ -2,16 +2,64 @@
 title: "Decrypt - 2026-09-01"
 date: "2026-09-01"
 source: "Decrypt"
-count: 11
+count: 15
 ---
 
 # Decrypt - 2026-09-01
 
-11 items collected.
+15 items collected.
 
 ---
 
-## 1. Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw
+## 1. OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/1/2026, 10:16:04 PM  
+**Categories:** Artificial Intelligence  
+
+The open-source agent framework that started the "autonomous AI" hype cycle just shipped its biggest update ever, almost by accident, and it's coming for the enterprise now.
+
+📖 [Read original article](https://decrypt.co/377135/openclaw-2-0-is-here-whats-new)
+
+---
+
+## 2. Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs
+
+**Author:** Emre Yilmaz  
+**Published:** 9/1/2026, 9:31:04 PM  
+**Categories:** Business  
+
+The deal, part of MediaTek's record $3.9 billion bond offering, ties Nvidia's chip ecosystem to a Taiwanese rival building its own AI accelerator business.
+
+📖 [Read original article](https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek)
+
+---
+
+## 3. Robinhood Chain DEX Volume Jumps to $1.6 billion
+
+**Author:** Jason Nelson  
+**Published:** 9/1/2026, 9:01:04 PM  
+**Categories:** , DeFi  
+
+Trading on the Ethereum Layer 2 climbed 61% in a matter of days as DeFi deposits and stablecoin holdings approached $800 million.
+
+📖 [Read original article](https://decrypt.co/377126/robinhood-chain-dex-volume-jumps)
+
+---
+
+## 4. What Is 'Red September'? Bitcoin's Curse, and Why Wall Street Has the Same One
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/1/2026, 8:31:05 PM  
+**Categories:** , Coins  
+
+Bitcoin has lost ground in eight of the last 13 Septembers. The stock market's had the same problem since 1928. Here's the case for the curse, what broke it last year, and what's coming in the next round.
+
+📖 [Read original article](https://decrypt.co/377100/what-is-red-september-bitcoin-curse)
+
+---
+
+## 5. Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw
 
 **Author:** Jason Nelson  
 **Published:** 9/1/2026, 8:01:05 PM  
@@ -23,7 +71,7 @@ Attackers reportedly registered Lenovo IDs using victims’ email addresses, all
 
 ---
 
-## 2. Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark
+## 6. Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/1/2026, 7:29:12 PM  
@@ -35,7 +83,7 @@ Fable 5.1 and its restricted sibling Mythos 5.1 arrive three months after export
 
 ---
 
-## 3. Bitcoin's Next Move: Bullish Bets Run Up Against a Historical Wall
+## 7. Bitcoin's Next Move: Bullish Bets Run Up Against a Historical Wall
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/1/2026, 6:22:09 PM  
@@ -47,7 +95,7 @@ Bitcoin just had one its best months in years amid a price rally that broke the 
 
 ---
 
-## 4. Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL
+## 8. Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL
 
 **Author:** Jason Nelson  
 **Published:** 9/1/2026, 6:03:47 PM  
@@ -59,7 +107,7 @@ The publicly traded company recently bought 19,000 SOL, bringing its treasury to
 
 ---
 
-## 5. X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested
+## 9. X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/1/2026, 4:26:10 PM  
@@ -71,7 +119,7 @@ X engineers have acknowledged the issue, but have not confirmed a new data breac
 
 ---
 
-## 6. Cathie Wood’s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block
+## 10. Cathie Wood’s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block
 
 **Author:** Jason Nelson  
 **Published:** 9/1/2026, 4:13:28 PM  
@@ -83,7 +131,7 @@ The investment firm bought 456,059 Block shares across three ETFs and added $3.4
 
 ---
 
-## 7. Gal Gadot Defends AI Use in Bitcoin Film: 'Work With It or Be Out of the Game'
+## 11. Gal Gadot Defends AI Use in Bitcoin Film: 'Work With It or Be Out of the Game'
 
 **Author:** Decrypt Agent  
 **Published:** 9/1/2026, 2:39:55 PM  
@@ -95,7 +143,7 @@ The actor’s lawyers spent six months negotiating the contract for “Bitcoin: 
 
 ---
 
-## 8. Morning Minute: Saylor’s Back Buying Bitcoin
+## 12. Morning Minute: Saylor’s Back Buying Bitcoin
 
 **Author:** Tyler Warner  
 **Published:** 9/1/2026, 12:21:23 PM  
@@ -107,7 +155,7 @@ Strategy somehow threaded the needle of buying Bitcoin and STRC while also raisi
 
 ---
 
-## 9. South Korea Arrests Four Over Crypto Payments to Syrian Terror Group
+## 13. South Korea Arrests Four Over Crypto Payments to Syrian Terror Group
 
 **Author:** Decrypt Agent  
 **Published:** 9/1/2026, 12:16:24 PM  
@@ -119,7 +167,7 @@ Police say the ringleader also took crypto from the group and sent back 11 used 
 
 ---
 
-## 10. Saylor Urges MSCI to Drop 'Discriminatory' Rule That Would Delete Strategy
+## 14. Saylor Urges MSCI to Drop 'Discriminatory' Rule That Would Delete Strategy
 
 **Author:** Decrypt Agent  
 **Published:** 9/1/2026, 11:28:45 AM  
@@ -131,7 +179,7 @@ The proposed screen would cut three companies from MSCI's global indexes in Nove
 
 ---
 
-## 11. UK's National Crime Agency Freezes $13.6M Sent by Sorare to Premier League: Report
+## 15. UK's National Crime Agency Freezes $13.6M Sent by Sorare to Premier League: Report
 
 **Author:** Decrypt Agent  
 **Published:** 9/1/2026, 9:46:27 AM  
