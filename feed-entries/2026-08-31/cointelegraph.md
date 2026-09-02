@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-08-31"
 date: "2026-08-31"
 source: "Cointelegraph"
-count: 13
+count: 10
 ---
 
 # Cointelegraph - 2026-08-31
 
-13 items collected.
+10 items collected.
 
 ---
 
@@ -128,41 +128,5 @@ The Japanese Bitcoin treasury company has transferred 10,270 BTC to Coinbase Pri
 Strategy added to its BTC treasury for the first time in two months, while continuing to bolster its cash reserves and buy back its perpetual STRC preferred stock.
 
 📖 [Read original article](https://cointelegraph.com/news/strategy-buys-370m-bitcoin-first-acquisition-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Hyperliquid, Pump.fun account for nearly 90% of record $638M crypto buybacks: FT
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/31/2026, 11:21:57 AM  
-**Categories:** Latest News  
-
-Crypto projects spent a record $638 million on token buybacks so far in 2026, as more protocols are turning their revenue into buybacks to return more value to token holders.
-
-📖 [Read original article](https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Markets pivot to September Fed rate hike: Five things to know in Bitcoin this week
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 8/31/2026, 10:51:49 AM  
-**Categories:** Markets  
-
-Bitcoin approached the August monthly close below key resistance with markets once again pricing in a Federal Reserve interest-rate hike in September.
-
-📖 [Read original article](https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. More Markets lending reserve drained for $9.3M: Blockaid
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 8/31/2026, 8:57:10 AM  
-**Categories:** Latest News  
-
-Blockaid said an attacker used an Ankr liquid staking token and E-mode to overborrow from More Markets and drain about $9.3 million in WFLOW from a lending reserve.
-
-📖 [Read original article](https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
