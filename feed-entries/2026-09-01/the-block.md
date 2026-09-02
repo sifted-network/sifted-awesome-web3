@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-01"
 date: "2026-09-01"
 source: "The Block"
-count: 11
+count: 6
 ---
 
 # The Block - 2026-09-01
 
-11 items collected.
+6 items collected.
 
 ---
 
@@ -80,65 +80,5 @@ Bitcoin's 90-day Pearson correlation coefficient with gold hits all-time high wh
 Silhouette launched RFQ trading for xStocks on Hyperliquid, allowing market makers to compete for tokenized equity trades settled onchain.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-09-01-silhouette-debuts-rfq-trading-for-xstocks-on-hyperliquid-413226)
-
----
-
-## 7. Ethena launches Ethena Pay app on Avalanche, offering up to 6% yield and 10% cashback
-
-**Author:** Yogita Khatri  
-**Published:** 9/1/2026, 12:00:02 PM  
-**Categories:** Crypto Ecosystems, DeFi, Markets, Web3, exclusive, News  
-
-Ethena Labs has launched the beta of Ethena Pay, a new self-custodial money app built on Avalanche, across 48 countries.
-
-📖 [Read original article](https://www.theblock.co/news/web3/2026-09-01-ethena-pay-app-avalanche-yield-cashback-413225)
-
----
-
-## 8. Bitcoin defies oil price spike and rising Fed hike bets after best August since 2017
-
-**Author:** James Hunt  
-**Published:** 9/1/2026, 11:33:23 AM  
-**Categories:** Central Banks, Crypto Ecosystems, Layer 1s, Markets, Policy, Regulation, Token Projects, Bitcoin, Federal Reserve, News  
-
-Bitcoin has held up despite higher oil prices and growing expectations for a September Fed rate hike, with Friday's jobs report next in focus.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-01-bitcoin-defies-oil-price-spike-and-rising-fed-hike-bets-after-best-august-since-2017-413218)
-
----
-
-## 9. Binance adds options on 1,000 US stocks and ETFs as monthly TradFi perpetual volume hits $433 billion
-
-**Author:** James Hunt  
-**Published:** 9/1/2026, 10:33:52 AM  
-**Categories:** Companies, Exchanges, Markets, Binance, News  
-
-TradFi perpetual futures volume reached approximately $433.4 billion on Binance in August, up roughly 15 times since January.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-01-binance-adds-options-1000-us-stocks-etfs-monthly-tradfi-perpetual-volume-surge-413213)
-
----
-
-## 10. Kraken parent Payward to tokenize 100 London-listed stocks, with LSE 24 trading planned
-
-**Author:** Brian Danga  
-**Published:** 9/1/2026, 9:39:20 AM  
-**Categories:** Companies, Crypto Ecosystems, Exchanges, Web3, Kraken, Tokenization, News  
-
-Payward will tokenize 100 London-listed stocks as xStocks, with LSE 24 to support trading, subject to regulatory approval.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-01-kraken-parent-payward-to-tokenize-100-london-listed-stocks-with-lse-24-trading-planned-413208)
-
----
-
-## 11. Strategy hits back at MSCI proposal, calling it ‘discriminatory’ against DATs
-
-**Author:** Danny Park  
-**Published:** 9/1/2026, 7:03:29 AM  
-**Categories:** Companies, Policy, Regulation, News  
-
-MSCI opened a new consultation targeting companies that have operating assets lower than 50% of its total assets.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-01-strategy-hits-back-against-msci-413201)
 
 ---
