@@ -2,16 +2,88 @@
 title: "Decrypt - 2026-09-02"
 date: "2026-09-02"
 source: "Decrypt"
-count: 6
+count: 12
 ---
 
 # Decrypt - 2026-09-02
 
-6 items collected.
+12 items collected.
 
 ---
 
-## 1. Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban
+## 1. Goldman Sachs, BofA Among 21 Banks Planning Joint Dollar Stablecoin Launch
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/2/2026, 8:01:04 PM  
+**Categories:** Coins  
+
+The bank-led consortium wants a U.S. dollar token live by the first half of 2027, with a euro version queued up next.
+
+📖 [Read original article](https://decrypt.co/377216/goldman-sachs-bofa-banks-stablecoin)
+
+---
+
+## 2. 'The Right Trade': Strategy CEO Has No Regrets Selling Bitcoin at $60K Before Buying Back Higher
+
+**Author:** Jason Nelson  
+**Published:** 9/2/2026, 7:15:06 PM  
+**Categories:** , Business  
+
+Phong Le said Strategy’s cost of capital—not Bitcoin’s price—drove its decision to sell nearly 7,000 BTC before resuming purchases above $80,000.
+
+📖 [Read original article](https://decrypt.co/377215/right-trade-strategy-no-regrets-selling-bitcoin)
+
+---
+
+## 3. Is Bitcoin About to Flash Crash? What a 'Bart Simpson' Pattern Would Actually Take
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/2/2026, 6:30:06 PM  
+**Categories:** , Markets  
+
+Bitcoin traders are calling August's spike-and-fade a Bart Simpson hairline. Here's what separates an actual flash crash from an ordinary correction.
+
+📖 [Read original article](https://decrypt.co/377185/bitcoin-flash-crash-real-bart-simpson-pattern)
+
+---
+
+## 4. Crypto Groups Push SEC for Tailored Rules on Novel ETFs
+
+**Author:** Jason Nelson  
+**Published:** 9/2/2026, 5:41:04 PM  
+**Categories:** Law and Order  
+
+Groups including The Crypto Council for Innovation, Grayscale, and a16z urged the regulator to preserve existing fund classifications and streamline reviews for new exchange-traded products.
+
+📖 [Read original article](https://decrypt.co/377184/crypto-groups-sec-novel-etfs)
+
+---
+
+## 5. OpenAI's Astra Becomes Its First AI Model With 'Critical' Hacking Abilities
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/2/2026, 4:43:53 PM  
+**Categories:** Artificial Intelligence  
+
+The unreleased model can find zero-day vulnerabilities and chain them into working exploits without a human walking it through each step, and access to that capability is starting with a small group of testers.
+
+📖 [Read original article](https://decrypt.co/377180/openai-astra-first-ai-model-critical-hacking)
+
+---
+
+## 6. Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT
+
+**Author:** Jason Nelson  
+**Published:** 9/2/2026, 3:42:13 PM  
+**Categories:** , Law and Order  
+
+Two Thai businessmen claim Tether blocked access to their stablecoins months before federal authorities secured a seizure warrant.
+
+📖 [Read original article](https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt)
+
+---
+
+## 7. Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban
 
 **Author:** Decrypt Agent  
 **Published:** 9/2/2026, 3:18:44 PM  
@@ -23,7 +95,7 @@ The country's consumer watchdog went further, urging retailers to stop selling t
 
 ---
 
-## 2. AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%
+## 8. AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%
 
 **Author:** Decrypt Agent  
 **Published:** 9/2/2026, 2:16:44 PM  
@@ -35,7 +107,7 @@ Marc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super P
 
 ---
 
-## 3. Morning Minute: Bitcoin Enters ‘Rektember’ After Best August Since 2017
+## 9. Morning Minute: Bitcoin Enters ‘Rektember’ After Best August Since 2017
 
 **Author:** Tyler Warner  
 **Published:** 9/2/2026, 11:55:48 AM  
@@ -47,7 +119,7 @@ So far, Rektember is living up to its name as Bitcoin slips. Will this September
 
 ---
 
-## 4. Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum
+## 10. Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum
 
 **Author:** Decrypt Agent  
 **Published:** 9/2/2026, 11:30:45 AM  
@@ -59,7 +131,7 @@ CrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware
 
 ---
 
-## 5. SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization
+## 11. SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization
 
 **Author:** Decrypt Agent  
 **Published:** 9/2/2026, 10:25:02 AM  
@@ -71,7 +143,7 @@ New Form TA-2 questions would make agents report how many share registers they k
 
 ---
 
-## 6. Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself
+## 12. Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself
 
 **Author:** Decrypt Agent  
 **Published:** 9/2/2026, 9:06:22 AM  
