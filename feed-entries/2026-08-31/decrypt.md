@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-31"
 date: "2026-08-31"
 source: "Decrypt"
-count: 10
+count: 6
 ---
 
 # Decrypt - 2026-08-31
 
-10 items collected.
+6 items collected.
 
 ---
 
@@ -80,53 +80,5 @@ Deputy Chairman Anatoly Popov told state media that trading could hit 4 trillion
 A deal would route the decentralized exchange's perpetual futures through Payward's US-regulated Bitnomial, marking Hyperliquid's first US entry—weeks after Trump said his administration was working to bring it onshore.
 
 📖 [Read original article](https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent)
-
----
-
-## 7. Former SEC, CFTC Officials Urge Lighter Touch to Bring Crypto Perps Trading Onshore
-
-**Author:** EleanorTerrett  
-**Published:** 8/31/2026, 5:06:04 PM  
-**Categories:** , Law and Order  
-
-With the Clarity Act stuck in recess limbo, the agencies are pressing ahead on crypto derivatives and custody, as former officials warn that overly burdensome rules will keep a $90 trillion perps market offshore.
-
-📖 [Read original article](https://decrypt.co/376936/sec-cftc-crypto-perps-trading-onshore)
-
----
-
-## 8. Bitcoin Holds Steady as US Strikes on Iran Rattle Stocks and Lift Oil
-
-**Author:** Decrypt Staff  
-**Published:** 8/31/2026, 4:55:46 PM  
-**Categories:** Markets  
-
-The largest cryptocurrency is on track for its best month since 2017, holding above $78,000 even as a hawkish Fed and renewed Middle East conflict drag on stocks and lift crude.
-
-📖 [Read original article](https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil)
-
----
-
-## 9. Sony Argues in Court That Digital Games Can't Be Owned
-
-**Author:** Decrypt Agent  
-**Published:** 8/31/2026, 3:46:03 PM  
-**Categories:** Gaming  
-
-The PlayStation maker is fighting a California class action over "Buy Now" buttons, and has asked the judge to send the case to arbitration.
-
-📖 [Read original article](https://decrypt.co/376935/sony-argues-in-court-that-digital-games-cant-be-owned)
-
----
-
-## 10. Tom Lee's Bitmine Buys $131M of ETH in Largest Ethereum Purchase Since June
-
-**Author:** Decrypt Agent  
-**Published:** 8/31/2026, 2:54:47 PM  
-**Categories:** , Business  
-
-The purchase lifts Bitmine's stash to 5.9 million ETH—4.9% of supply—as chairman Tom Lee points to crypto's strong third quarter.
-
-📖 [Read original article](https://decrypt.co/376932/tom-lee-bitmine-largest-ethereum-purchase-since-june)
 
 ---
