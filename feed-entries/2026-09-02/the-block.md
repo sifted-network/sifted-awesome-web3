@@ -2,16 +2,28 @@
 title: "The Block - 2026-09-02"
 date: "2026-09-02"
 source: "The Block"
-count: 14
+count: 15
 ---
 
 # The Block - 2026-09-02
 
-14 items collected.
+15 items collected.
 
 ---
 
-## 1. New Jersey asks Supreme Court to decide who regulates sports betting on prediction markets
+## 1. Anthony Armstrong, former CFO at Elon Musk’s xAI and X, joins Coinbase board
+
+**Author:** Jason Shubnell  
+**Published:** 9/2/2026, 9:03:53 PM  
+**Categories:** Companies, Exchanges, Markets, Public Equities, Coinbase, News  
+
+Anthony Armstrong — no relation to Coinbase CEO Brian Armstrong — most recently served as CFO across xAI, X.AI Corp., and X Corp.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-09-02-anthony-armstrong-former-cfo-elon-musk-xai-x-joins-coinbase-board-413405)
+
+---
+
+## 2. New Jersey asks Supreme Court to decide who regulates sports betting on prediction markets
 
 **Author:** Sarah Wynn  
 **Published:** 9/2/2026, 6:18:28 PM  
@@ -23,7 +35,7 @@ New Jersey is asking the U.S. Supreme Court to settle, once and for all, how spo
 
 ---
 
-## 2. Memecoin shenanigans spill into Nasdaq as microcap mushroom seller Farmmi surges 350%
+## 3. Memecoin shenanigans spill into Nasdaq as microcap mushroom seller Farmmi surges 350%
 
 **Author:** Kyle Baird  
 **Published:** 9/2/2026, 5:40:13 PM  
@@ -35,7 +47,7 @@ FAMI quickly corrected while the stock saw more than 720 million shares traded �
 
 ---
 
-## 3. Securitize and Socios team up to tokenize equity in pro sports teams
+## 4. Securitize and Socios team up to tokenize equity in pro sports teams
 
 **Author:** Jason Shubnell  
 **Published:** 9/2/2026, 5:17:59 PM  
@@ -47,7 +59,7 @@ It's the first project launched through Securitize’s fully authorized European
 
 ---
 
-## 4. World open-sources ProveKit, a zero-knowledge identity proving toolkit
+## 5. World open-sources ProveKit, a zero-knowledge identity proving toolkit
 
 **Author:** Yogita Khatri  
 **Published:** 9/2/2026, 4:00:03 PM  
@@ -59,7 +71,7 @@ World has open-sourced ProveKit, a zero-knowledge identity proving toolkit alrea
 
 ---
 
-## 5. Arbitrum DAO reports $6.2 million in first-half income as Robinhood Chain adds new revenue stream
+## 6. Arbitrum DAO reports $6.2 million in first-half income as Robinhood Chain adds new revenue stream
 
 **Author:** James Hunt  
 **Published:** 9/2/2026, 4:00:00 PM  
@@ -71,7 +83,7 @@ Licensing fees accounted for 35% of the DAO's income in July, the first month Ro
 
 ---
 
-## 6. Hyperscale Data shares hit all-time low as company flips Michigan site from bitcoin mining into AI
+## 7. Hyperscale Data shares hit all-time low as company flips Michigan site from bitcoin mining into AI
 
 **Author:** Kyle Baird  
 **Published:** 9/2/2026, 3:29:15 PM  
@@ -83,7 +95,7 @@ The Michigan AI agreement could generate more than $1.2 billion, with expansion 
 
 ---
 
-## 7. Wyoming expands Chainlink partnership with onchain reserve verification for FRNT
+## 8. Wyoming expands Chainlink partnership with onchain reserve verification for FRNT
 
 **Author:** Jason Shubnell  
 **Published:** 9/2/2026, 1:05:03 PM  
@@ -95,7 +107,7 @@ Last month, Wyoming’s Stable Token Commission fully migrated FRNT from LayerZe
 
 ---
 
-## 8. Adam Back invests another $8.8 million in Capital B as bitcoin treasury firm targets 3,521 BTC
+## 9. Adam Back invests another $8.8 million in Capital B as bitcoin treasury firm targets 3,521 BTC
 
 **Author:** Brian Danga  
 **Published:** 9/2/2026, 12:31:27 PM  
@@ -107,7 +119,7 @@ Capital B raised $8.8 million from Adam Back in a private placement as the Frenc
 
 ---
 
-## 9. Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy
+## 10. Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy
 
 **Author:** James Hunt  
 **Published:** 9/2/2026, 11:32:55 AM  
@@ -119,7 +131,7 @@ Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,50
 
 ---
 
-## 10. Strategy CEO says selling bitcoin at $60,000 before buying at $80,000 was the ‘right trade’
+## 11. Strategy CEO says selling bitcoin at $60,000 before buying at $80,000 was the ‘right trade’
 
 **Author:** Brian Danga  
 **Published:** 9/2/2026, 10:26:16 AM  
@@ -131,7 +143,7 @@ Strategy CEO Phong Le defended selling bitcoin at $60,000 before buying at $80,0
 
 ---
 
-## 11. Bitcoin hovers near $77,000 as global bond selloff tests post-rally resilience
+## 12. Bitcoin hovers near $77,000 as global bond selloff tests post-rally resilience
 
 **Author:** James Hunt  
 **Published:** 9/2/2026, 10:20:03 AM  
@@ -143,7 +155,7 @@ Bitcoin hovers near $77,000 as global bond yields surge and renewed U.S.-Iran te
 
 ---
 
-## 12. G20 finance leaders vow to establish ‘clear pathways’ for digital assets innovation
+## 13. G20 finance leaders vow to establish ‘clear pathways’ for digital assets innovation
 
 **Author:** Danny Park  
 **Published:** 9/2/2026, 4:43:52 AM  
@@ -155,7 +167,7 @@ The G20 officials acknowledged that digital assets can support economic growth a
 
 ---
 
-## 13. Kalshi and Polymarket’s combined volume falls 15% in August, first monthly decline in a year
+## 14. Kalshi and Polymarket’s combined volume falls 15% in August, first monthly decline in a year
 
 **Author:** Timmy Shen  
 **Published:** 9/2/2026, 4:28:38 AM  
@@ -167,7 +179,7 @@ Kalshi recorded $37.17 billion in volume in August, while Polymarket and its US 
 
 ---
 
-## 14. Hyperliquid Strategies expands equity facility to $2.5 billion from $1 billion
+## 15. Hyperliquid Strategies expands equity facility to $2.5 billion from $1 billion
 
 **Author:** Danny Park  
 **Published:** 9/2/2026, 3:35:30 AM  
