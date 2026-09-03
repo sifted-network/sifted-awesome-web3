@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-02"
 date: "2026-09-02"
 source: "CoinDesk"
-count: 19
+count: 11
 ---
 
 # CoinDesk - 2026-09-02
 
-19 items collected.
+11 items collected.
 
 ---
 
@@ -140,101 +140,5 @@ Your day-ahead look for Sept. 2, 2026
 The plaintiffs allege that Tether acted in response to an informal U.S. law-enforcement request more than three months before a seizure warrant was issued.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant)
-
----
-
-## 12. Bitcoin slips below $76,500 as U.S. strikes on Iran send oil above $93
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 9/2/2026, 10:50:38 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin fell 1% since midnight as Brent jumped past $93 and Treasury yields climbed toward 4.8%.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/02/bitcoin-slips-below-usd77-000-as-u-s-strikes-on-iran-send-oil-above-usd93)
-
----
-
-## 13. Former UK Prime Minister Liz Truss says bond rout could force emergency spending cuts
-
-**Author:** James Van Straten  
-**Published:** 9/2/2026, 10:27:30 AM  
-**Categories:** Markets, Bitcoin News, UK, News  
-
-The former prime minister said U.K. is among the worst examples of rising debt and warns the situation may have gone too far.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/02/former-uk-prime-minister-liz-truss-says-bond-rout-could-force-emergency-spending-cuts)
-
----
-
-## 14. Live updates: Bitcoin trades near $77,000, with central bank policy rate decisions taking center stage
-
-**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Stephen Alpher  
-**Published:** 9/2/2026, 8:31:00 AM  
-**Categories:** Finance, Live News, live_news  
-
-The ADP reported private-sector job growth of just 38,000, missing forecasts and marking the weakest level since January.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow)
-
----
-
-## 15. XRP ETFs pull in $170 million over 11 days. Goldman tops institutional holders
-
-**Author:** Shaurya Malwa  
-**Published:** 9/2/2026, 7:20:03 AM  
-**Categories:** Markets, XRP News, Markets, News  
-
-Spot XRP funds have logged 11 straight sessions of inflows, while Q2 filings show Goldman Sachs, Jane Street and Millennium among their biggest professional holders.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/02/xrp-etfs-pull-in-usd160-million-over-nine-days-as-goldman-tops-institutional-holders)
-
----
-
-## 16. A China indicator that supports risk-taking in stocks and bitcoin is flashing red
-
-**Author:** Omkar Godbole  
-**Published:** 9/2/2026, 6:53:22 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-China's "credit impulse" is flashing red for risk assets. So far, bitcoin has mostly shrugged it off.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/02/a-china-indicator-that-greases-risk-taking-in-stocks-and-bitcoin-is-flashing-red)
-
----
-
-## 17. OpenAI says its new 'Astra' AI can build attacks without human help
-
-**Author:** Shaurya Malwa  
-**Published:** 9/2/2026, 5:28:51 AM  
-**Categories:** Tech, Artificial Intelligence, News  
-
-Astra is the first OpenAI model to reach its “Critical” cybersecurity threshold, meaning it can find previously unknown vulnerabilities and develop ways to exploit them across hardened systems.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/02/openai-says-its-new-astra-ai-can-build-attacks-without-human-help)
-
----
-
-## 18. Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff
-
-**Author:** Shaurya Malwa  
-**Published:** 9/2/2026, 5:01:25 AM  
-**Categories:** Markets, News  
-
-Every large-cap token fell over the past 24 hours, and the high-beta majors gave up roughly triple what bitcoin did.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff)
-
----
-
-## 19. Bitcoin withstands $90 oil and rising yields while gold slides. A firm dollar is the catch
-
-**Author:** Omkar Godbole  
-**Published:** 9/2/2026, 4:40:36 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-BTC trades choppy as $90 oil and rising bond yields weigh on stocks and gold.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/02/bitcoin-withstands-usd90-oil-and-rising-yields-as-gold-slides-a-firm-dollar-is-the-catch)
 
 ---
