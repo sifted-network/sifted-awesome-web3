@@ -2,16 +2,88 @@
 title: "Cointelegraph - 2026-09-03"
 date: "2026-09-03"
 source: "Cointelegraph"
-count: 11
+count: 17
 ---
 
 # Cointelegraph - 2026-09-03
 
-11 items collected.
+17 items collected.
 
 ---
 
-## 1. Recovery specialists crack $1B crypto wallet... but find just $10
+## 1. Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/3/2026, 7:36:56 PM  
+**Categories:** Latest News  
+
+Mantle has added Paxos-issued USDG as a natively minted stablecoin while joining the network’s reward-sharing structure.
+
+📖 [Read original article](https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/3/2026, 7:11:46 PM  
+**Categories:** Latest News  
+
+Kalshi previously said it had been placed in an “impossible position” after federal authorities directed the company to ignore a Michigan restraining order issued in June.
+
+📖 [Read original article](https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Bitcoin reclaims $80K as DXY falls amid continuing suspected yen intervention
+
+**Author:** Cointelegraph by Charles Bennett  
+**Published:** 9/3/2026, 6:44:22 PM  
+**Categories:** Markets  
+
+Bitcoin rallied 5% to reclaim $80,000 as the US dollar weakened amid a suspected Bank of Japan currency intervention, though analysts remain split on the impact.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bybit Pay integrates with Mesh to expand crypto payments
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/3/2026, 5:13:04 PM  
+**Categories:** Latest News  
+
+The integration lets Bybit users spend digital assets directly from their exchange balances across Mesh-powered platforms.
+
+📖 [Read original article](https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/3/2026, 5:06:28 PM  
+**Categories:** Latest News  
+
+The UK political party and its leader, Nigel Farage, have accepted contributions from figures tied to the crypto industry, raising questions about potential influence on policies.
+
+📖 [Read original article](https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/3/2026, 4:04:11 PM  
+**Categories:** Latest News  
+
+The deal will bring SoFiUSD to Kraken, connect Payward to SoFi’s 24/7 dollar settlement network and give SoFi access to digital asset liquidity through Kraken Prime.
+
+📖 [Read original article](https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Recovery specialists crack $1B crypto wallet... but find just $10
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/3/2026, 1:30:00 PM  
@@ -23,7 +95,7 @@ Crypto recovery specialists reveal how lost wallets, passwords and seed phrases 
 
 ---
 
-## 2. VARA, Securitize sign MoU for tokenization innovation in Dubai
+## 8. VARA, Securitize sign MoU for tokenization innovation in Dubai
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/3/2026, 1:00:00 PM  
@@ -35,7 +107,7 @@ VARA and Securitize signed an MoU to foster more tokenization innovation in Duba
 
 ---
 
-## 3. Here’s what happened in crypto today
+## 9. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/3/2026, 1:00:00 PM  
@@ -47,7 +119,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 4. Nvidia buys Hugging Face for $12.9B in push into AI software
+## 10. Nvidia buys Hugging Face for $12.9B in push into AI software
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/3/2026, 12:41:11 PM  
@@ -59,7 +131,7 @@ Nvidia agreed to buy Hugging Face for $12.93 billion, gaining a platform used by
 
 ---
 
-## 5. Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia
+## 11. Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/3/2026, 10:59:34 AM  
@@ -71,7 +143,7 @@ Pencil Finance said that its first-of-a-kind loan offered financing to 6,600 stu
 
 ---
 
-## 6. Standard Chartered launches spot Bitcoin and Ether trading in UAE
+## 12. Standard Chartered launches spot Bitcoin and Ether trading in UAE
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/3/2026, 10:15:34 AM  
@@ -83,7 +155,7 @@ Standard Chartered said it is the first major global bank to offer institutional
 
 ---
 
-## 7. Coldcard hacker swaps stolen Bitcoin for ETH via THORChain
+## 13. Coldcard hacker swaps stolen Bitcoin for ETH via THORChain
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/3/2026, 9:31:07 AM  
@@ -95,7 +167,7 @@ The third-wave Coldcard exploiter moved about 10% of stolen funds through THORCh
 
 ---
 
-## 8. Kalshi seeks CFTC approval for WTI crude perpetual futures: Report
+## 14. Kalshi seeks CFTC approval for WTI crude perpetual futures: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/3/2026, 9:28:34 AM  
@@ -107,7 +179,7 @@ Kalshi reportedly plans to file for approval of a WTI crude oil perpetual future
 
 ---
 
-## 9. Australia warns unlicensed crypto firms of fines up to 10% of annual turnover
+## 15. Australia warns unlicensed crypto firms of fines up to 10% of annual turnover
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/3/2026, 7:47:54 AM  
@@ -119,7 +191,7 @@ ASIC has recorded more than 45 digital asset-related license applications as its
 
 ---
 
-## 10. Ether, XRP ETF inflow streaks end as Bitcoin funds rebound
+## 16. Ether, XRP ETF inflow streaks end as Bitcoin funds rebound
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/3/2026, 7:22:00 AM  
@@ -131,7 +203,7 @@ Ether ETFs posted $48 million in outflows after attracting $1.62 billion over 12
 
 ---
 
-## 11. Hyperscale Data ends Michigan BTC mining as holdings fall 79%
+## 17. Hyperscale Data ends Michigan BTC mining as holdings fall 79%
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/3/2026, 4:57:55 AM  
