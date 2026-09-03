@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-01"
 date: "2026-09-01"
 source: "Cointelegraph"
-count: 12
+count: 6
 ---
 
 # Cointelegraph - 2026-09-01
 
-12 items collected.
+6 items collected.
 
 ---
 
@@ -80,77 +80,5 @@ The prediction platform permanently banned George Santos and issued a three-year
 The planned venture will initially focus on a US dollar stablecoin before expanding to other G7 currencies, with a euro-denominated offering next.
 
 📖 [Read original article](https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Ethena launches USDe payments app, offers 6% rewards
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 9/1/2026, 4:06:58 PM  
-**Categories:** Latest News  
-
-The self-custodial app brings USDe into everyday payments, savings and cross-border transfers, with annualized rewards of up to 6%.
-
-📖 [Read original article](https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Bitcoin stays flat as global bond bear market rages on, pushing JGB to high
-
-**Author:** Cointelegraph by Charles Bennett  
-**Published:** 9/1/2026, 3:34:00 PM  
-**Categories:** Markets  
-
-Global bond yields hit multi-decade highs today as Japan’s 10-year JGB yield reached a 30-year peak, keeping Bitcoin steady near $78,000.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Fake Claude desktop app spreads crypto-stealing malware
-
-**Author:** Cointelegraph by Adrian Zmudzinski  
-**Published:** 9/1/2026, 2:00:00 PM  
-**Categories:** Latest News  
-
-RevStealer targets more than 50 crypto wallets alongside browser passwords, cookies, messaging data and selected documents.
-
-📖 [Read original article](https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Does the Bitcoin rally mean we haven’t wasted our lives in crypto?
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 9/1/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Crypto is showing signs of life again, but its biggest wins look different from what early believers imagined. After a decade of building, has it all been worth it?
-
-📖 [Read original article](https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Asia sees digital asset custody infrastructure deals from Ripple, Coincheck
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/1/2026, 1:13:05 PM  
-**Categories:** Latest News  
-
-Ripple was among the latest blockchain companies to sign a strategic partnership to build more custody and tokenized asset management solutions for Asian institutional participants.
-
-📖 [Read original article](https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Kast launches stablecoin-powered business platform after $80M raise
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/1/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-Kast aims to onboard between 1,000 and 5,000 active businesses to its new platform by the end of 2026.
-
-📖 [Read original article](https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
