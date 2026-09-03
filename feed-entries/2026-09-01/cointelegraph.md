@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-01"
 date: "2026-09-01"
 source: "Cointelegraph"
-count: 14
+count: 12
 ---
 
 # Cointelegraph - 2026-09-01
 
-14 items collected.
+12 items collected.
 
 ---
 
@@ -152,29 +152,5 @@ Ripple was among the latest blockchain companies to sign a strategic partnership
 Kast aims to onboard between 1,000 and 5,000 active businesses to its new platform by the end of 2026.
 
 📖 [Read original article](https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Lazarus Group-linked addresses move $30M through Hyperliquid
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/1/2026, 12:01:08 PM  
-**Categories:** Latest News  
-
-Crypto wallets linked to the OFAC-sanctioned Lazarus Group moved $30 million in digital assets through Hyperliquid, weeks after regulators said they were working on a path to introduce the exchange into US markets.
-
-📖 [Read original article](https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/1/2026, 10:56:41 AM  
-**Categories:** Latest News  
-
-The London bourse operator is seeking to offer 24/5 exposure to UK-based tokenized equities, as more TradFi institutions explore tokenized equities offerings.
-
-📖 [Read original article](https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
