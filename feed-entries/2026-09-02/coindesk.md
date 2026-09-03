@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-09-02"
 date: "2026-09-02"
 source: "CoinDesk"
-count: 18
+count: 19
 ---
 
 # CoinDesk - 2026-09-02
 
-18 items collected.
+19 items collected.
 
 ---
 
-## 1. Kraken parent Payward delays IPO to second quarter of 2027 at earliest
+## 1. DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites
+
+**Author:** Francisco Rodrigues,AI Boost  
+**Published:** 9/2/2026, 9:24:26 PM  
+**Categories:** Finance, Crypto News, News  
+
+FBI agents took control of domains and servers, specifically Alqassam.ps, to intercept donations and prevent further fundraising for the Al-Qassam Brigades.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites)
+
+---
+
+## 2. Kraken parent Payward delays IPO to second quarter of 2027 at earliest
 
 **Author:** Will Canny  
 **Published:** 9/2/2026, 8:08:34 PM  
@@ -23,7 +35,7 @@ The crypto exchange operator, which confidentially filed for a U.S. listing last
 
 ---
 
-## 2. Crypto made new friends in U.S. primaries, but focus now shifts to general election
+## 3. Crypto made new friends in U.S. primaries, but focus now shifts to general election
 
 **Author:** Jesse Hamilton  
 **Published:** 9/2/2026, 5:39:00 PM  
@@ -35,7 +47,7 @@ Adding Massachusetts incumbent Auchincloss to the list of winning primary candid
 
 ---
 
-## 3. New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets
+## 4. New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets
 
 **Author:** Nikhilesh De  
 **Published:** 9/2/2026, 5:23:48 PM  
@@ -47,7 +59,7 @@ After multiple appeals courts ruled differently about whether states can crack d
 
 ---
 
-## 4. Crypto Long & Short: Crypto VCs are mistaking consensus for discipline
+## 5. Crypto Long & Short: Crypto VCs are mistaking consensus for discipline
 
 **Author:** Varun Datta  
 **Published:** 9/2/2026, 3:15:02 PM  
@@ -59,7 +71,7 @@ In this week's Crypto Long & Short, Varun Datta of Truth Ventures writes that cr
 
 ---
 
-## 5. CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years
+## 6. CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years
 
 **Author:** Shaurya Malwa  
 **Published:** 9/2/2026, 1:14:47 PM  
@@ -71,7 +83,7 @@ Russia-based Sality watched for copied bitcoin and Ethereum addresses and quietl
 
 ---
 
-## 6. The token supercycle: everything of value is becoming programmable
+## 7. The token supercycle: everything of value is becoming programmable
 
 **Author:** Lily Liu  
 **Published:** 9/2/2026, 1:00:00 PM  
@@ -83,7 +95,7 @@ Tokenization is not just about increasing access to tokens, whatever they may re
 
 ---
 
-## 7. The bearish 'Bart Simpson' pattern is back as bitcoin and XRP prices pull back
+## 8. The bearish 'Bart Simpson' pattern is back as bitcoin and XRP prices pull back
 
 **Author:** Olivier Acuna  
 **Published:** 9/2/2026, 12:13:26 PM  
@@ -95,7 +107,7 @@ Analysts discuss the cartoon-themed price action as prices for major cryptocurre
 
 ---
 
-## 8. Capital B aims to add 376 BTC to bitcoin treasury following $8.8 million Adam Back investment
+## 9. Capital B aims to add 376 BTC to bitcoin treasury following $8.8 million Adam Back investment
 
 **Author:** Francisco Rodrigues,Jamie Crawley  
 **Published:** 9/2/2026, 11:45:16 AM  
@@ -107,7 +119,7 @@ The Euronext Growth Paris-listed firm issued 13,181,030 shares with four warrant
 
 ---
 
-## 9. A Fed rate increase would be a mistake, some observers say as bitcoin, gold, stocks fall
+## 10. A Fed rate increase would be a mistake, some observers say as bitcoin, gold, stocks fall
 
 **Author:** Omkar Godbole  
 **Published:** 9/2/2026, 11:14:58 AM  
@@ -119,7 +131,7 @@ Your day-ahead look for Sept. 2, 2026
 
 ---
 
-## 10. Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant
+## 11. Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant
 
 **Author:** Francisco Rodrigues  
 **Published:** 9/2/2026, 11:03:46 AM  
@@ -131,7 +143,7 @@ The plaintiffs allege that Tether acted in response to an informal U.S. law-enfo
 
 ---
 
-## 11. Bitcoin slips below $76,500 as U.S. strikes on Iran send oil above $93
+## 12. Bitcoin slips below $76,500 as U.S. strikes on Iran send oil above $93
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 9/2/2026, 10:50:38 AM  
@@ -143,7 +155,7 @@ Bitcoin fell 1% since midnight as Brent jumped past $93 and Treasury yields clim
 
 ---
 
-## 12. Former UK Prime Minister Liz Truss says bond rout could force emergency spending cuts
+## 13. Former UK Prime Minister Liz Truss says bond rout could force emergency spending cuts
 
 **Author:** James Van Straten  
 **Published:** 9/2/2026, 10:27:30 AM  
@@ -155,7 +167,7 @@ The former prime minister said U.K. is among the worst examples of rising debt a
 
 ---
 
-## 13. Live updates: Bitcoin trades near $77,000, with central bank policy rate decisions taking center stage
+## 14. Live updates: Bitcoin trades near $77,000, with central bank policy rate decisions taking center stage
 
 **Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Stephen Alpher  
 **Published:** 9/2/2026, 8:31:00 AM  
@@ -167,7 +179,7 @@ The ADP reported private-sector job growth of just 38,000, missing forecasts and
 
 ---
 
-## 14. XRP ETFs pull in $170 million over 11 days. Goldman tops institutional holders
+## 15. XRP ETFs pull in $170 million over 11 days. Goldman tops institutional holders
 
 **Author:** Shaurya Malwa  
 **Published:** 9/2/2026, 7:20:03 AM  
@@ -179,7 +191,7 @@ Spot XRP funds have logged 11 straight sessions of inflows, while Q2 filings sho
 
 ---
 
-## 15. A China indicator that supports risk-taking in stocks and bitcoin is flashing red
+## 16. A China indicator that supports risk-taking in stocks and bitcoin is flashing red
 
 **Author:** Omkar Godbole  
 **Published:** 9/2/2026, 6:53:22 AM  
@@ -191,7 +203,7 @@ China's "credit impulse" is flashing red for risk assets. So far, bitcoin has mo
 
 ---
 
-## 16. OpenAI says its new 'Astra' AI can build attacks without human help
+## 17. OpenAI says its new 'Astra' AI can build attacks without human help
 
 **Author:** Shaurya Malwa  
 **Published:** 9/2/2026, 5:28:51 AM  
@@ -203,7 +215,7 @@ Astra is the first OpenAI model to reach its “Critical” cybersecurity thresh
 
 ---
 
-## 17. Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff
+## 18. Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff
 
 **Author:** Shaurya Malwa  
 **Published:** 9/2/2026, 5:01:25 AM  
@@ -215,7 +227,7 @@ Every large-cap token fell over the past 24 hours, and the high-beta majors gave
 
 ---
 
-## 18. Bitcoin withstands $90 oil and rising yields while gold slides. A firm dollar is the catch
+## 19. Bitcoin withstands $90 oil and rising yields while gold slides. A firm dollar is the catch
 
 **Author:** Omkar Godbole  
 **Published:** 9/2/2026, 4:40:36 AM  
