@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-09-03"
 date: "2026-09-03"
 source: "CoinDesk"
-count: 14
+count: 15
 ---
 
 # CoinDesk - 2026-09-03
 
-14 items collected.
+15 items collected.
 
 ---
 
-## 1. Crypto for Advisors: Why crypto earnings reports can be misleading
+## 1. Standard Chartered brings spot crypto trading to Dubai FX platform
+
+**Author:** Olivier Acuna  
+**Published:** 9/3/2026, 3:58:02 PM  
+**Categories:** Finance, Standard chartered, Crypto Trading, Bitcoin News, News  
+
+The bank is now offering institutional crypto spot trading in the region, bringing BTC and ETH onto the same eFX rails that institutions use to trade dollars and euros.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae)
+
+---
+
+## 2. Crypto for Advisors: Why crypto earnings reports can be misleading
 
 **Author:** Kriti Bansal  
 **Published:** 9/3/2026, 3:00:00 PM  
@@ -23,7 +35,7 @@ count: 14
 
 ---
 
-## 2. A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes
+## 3. A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes
 
 **Author:** Shaurya Malwa  
 **Published:** 9/3/2026, 2:51:39 PM  
@@ -35,7 +47,7 @@ Users paid nearly $6 million in a day to create and trade tokens through Pons, m
 
 ---
 
-## 3. Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution
+## 4. Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution
 
 **Author:** Olivier Acuna  
 **Published:** 9/3/2026, 2:41:25 PM  
@@ -47,7 +59,7 @@ Gracy Chen highlighted the world's largest asset manager as one example of such 
 
 ---
 
-## 4. SoFi, Kraken tie up as crypto and banking push into each other's turf
+## 5. SoFi, Kraken tie up as crypto and banking push into each other's turf
 
 **Author:** Krisztian Sandor  
 **Published:** 9/3/2026, 12:00:00 PM  
@@ -59,7 +71,7 @@ Kraken is joining SoFi's settlement network and list SoFiUSD as the companies li
 
 ---
 
-## 5. FX has stopped reading bond yields the old way. Bitcoin should too.
+## 6. FX has stopped reading bond yields the old way. Bitcoin should too.
 
 **Author:** Omkar Godbole  
 **Published:** 9/3/2026, 11:26:00 AM  
@@ -71,7 +83,7 @@ Your day-ahead look for Sept. 3, 2026
 
 ---
 
-## 6. The yen is surging and it’s helping bitcoin, for now
+## 7. The yen is surging and it’s helping bitcoin, for now
 
 **Author:** James Van Straten  
 **Published:** 9/3/2026, 11:19:56 AM  
@@ -83,7 +95,7 @@ Yen's rise has led to a broad-based USD weakness, driving the Dollar Index lower
 
 ---
 
-## 7. Live updates: Bitcoin jumps above $80,000 as rates fall, dollar weakens
+## 8. Live updates: Bitcoin jumps above $81,000 as rates fall, dollar weakens
 
 **Author:** Shaurya Malwa,Stephen Alpher,James Van Straten  
 **Published:** 9/3/2026, 10:42:15 AM  
@@ -95,7 +107,7 @@ The government's employment data (due tomorrow) is usually the main economic rep
 
 ---
 
-## 8. Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally
+## 9. Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 9/3/2026, 10:29:52 AM  
@@ -107,7 +119,7 @@ BTC rose 0.76% since midnight as a softer dollar lifted equities and metals alon
 
 ---
 
-## 9. Australia is cracking down on crypto businesses as its strict new regulatory deadline nears
+## 10. Australia is cracking down on crypto businesses as its strict new regulatory deadline nears
 
 **Author:** Francisco Rodrigues  
 **Published:** 9/3/2026, 10:09:31 AM  
@@ -119,7 +131,7 @@ Firms that miss the deadline could breach financial services law from Oct. 1 and
 
 ---
 
-## 10. CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures
+## 11. CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 9/3/2026, 9:13:40 AM  
@@ -131,7 +143,7 @@ The regulator claims the dispute is "much ado about nothing," noting that the or
 
 ---
 
-## 11. Catastrophe bonds may join tokenization rush, with plans for test issuance in 2027
+## 12. Catastrophe bonds may join tokenization rush, with plans for test issuance in 2027
 
 **Author:** Olivier Acuna  
 **Published:** 9/3/2026, 8:30:00 AM  
@@ -143,7 +155,7 @@ A law firm and a tokenization platform say their proposed structure would give i
 
 ---
 
-## 12. Bitcoin’s fabled golden cross is coming. And USDT may be the real signal this time
+## 13. Bitcoin’s fabled golden cross is coming. And USDT may be the real signal this time
 
 **Author:** Omkar Godbole  
 **Published:** 9/3/2026, 7:01:28 AM  
@@ -155,7 +167,7 @@ BTC is nearing a bullish golden cross, a widely tracked signal with a mixed reco
 
 ---
 
-## 13. Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin
+## 14. Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin
 
 **Author:** Shaurya Malwa  
 **Published:** 9/3/2026, 4:58:05 AM  
@@ -167,7 +179,7 @@ Remixpoint booked gains on ether, solana and XRP, but sold DOGE below its fiscal
 
 ---
 
-## 14. Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%
+## 15. Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%
 
 **Author:** Shaurya Malwa  
 **Published:** 9/3/2026, 4:22:40 AM  
