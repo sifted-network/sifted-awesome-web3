@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-01"
 date: "2026-09-01"
 source: "CoinDesk"
-count: 7
+count: 6
 ---
 
 # CoinDesk - 2026-09-01
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ The protocol aims to give fintechs and investors a faster way to recover losses 
 September has historically been a poor month for risk assets in general, and bitcoin, in particular.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally)
-
----
-
-## 7. Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments
-
-**Author:** Krisztian Sandor  
-**Published:** 9/1/2026, 1:15:35 PM  
-**Categories:** Finance, DeFi, Stablecoins, News  
-
-Ethena Pay offers a 6% dollar savings rate and 5% card cashback, using Avalanche for settlement.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments)
 
 ---
