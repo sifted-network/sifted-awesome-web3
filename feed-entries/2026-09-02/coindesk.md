@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-02"
 date: "2026-09-02"
 source: "CoinDesk"
-count: 11
+count: 10
 ---
 
 # CoinDesk - 2026-09-02
 
-11 items collected.
+10 items collected.
 
 ---
 
@@ -128,17 +128,5 @@ The Euronext Growth Paris-listed firm issued 13,181,030 shares with four warrant
 Your day-ahead look for Sept. 2, 2026
 
 📖 [Read original article](https://www.coindesk.com/daybook-us/2026/09/02/a-fed-rate-increase-would-be-a-mistake-some-observers-say-as-bitcoin-gold-stocks-fall)
-
----
-
-## 11. Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant
-
-**Author:** Francisco Rodrigues  
-**Published:** 9/2/2026, 11:03:46 AM  
-**Categories:** Finance, Tether, Crypto News, News  
-
-The plaintiffs allege that Tether acted in response to an informal U.S. law-enforcement request more than three months before a seizure warrant was issued.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant)
 
 ---
