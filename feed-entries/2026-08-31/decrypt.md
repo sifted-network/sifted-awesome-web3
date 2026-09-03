@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-08-31"
 date: "2026-08-31"
 source: "Decrypt"
-count: 6
+count: 4
 ---
 
 # Decrypt - 2026-08-31
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ The exchange found the former congressman placed large trades on his own State o
 Spot XRP funds have drawn inflows for nine straight days, reaching $1.6 billion in cumulative net inflows even as the token's price cools.
 
 📖 [Read original article](https://decrypt.co/376973/xrp-etfs-inflow-streak-9-days)
-
----
-
-## 5. Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans
-
-**Author:** Decrypt Staff  
-**Published:** 8/31/2026, 6:46:04 PM  
-**Categories:** , , Business  
-
-Deputy Chairman Anatoly Popov told state media that trading could hit 4 trillion rubles in its first year, as the bank prepares to broaden crypto-backed lending once regulators sign off.
-
-📖 [Read original article](https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt)
-
----
-
-## 6. Hyperliquid in Talks With Kraken Parent to Bring Crypto Perps to US Traders
-
-**Author:** Decrypt Staff  
-**Published:** 8/31/2026, 5:54:15 PM  
-**Categories:** Business  
-
-A deal would route the decentralized exchange's perpetual futures through Payward's US-regulated Bitnomial, marking Hyperliquid's first US entry—weeks after Trump said his administration was working to bring it onshore.
-
-📖 [Read original article](https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent)
 
 ---
