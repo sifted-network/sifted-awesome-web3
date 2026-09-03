@@ -2,16 +2,76 @@
 title: "Decrypt - 2026-09-02"
 date: "2026-09-02"
 source: "Decrypt"
-count: 12
+count: 17
 ---
 
 # Decrypt - 2026-09-02
 
-12 items collected.
+17 items collected.
 
 ---
 
-## 1. Goldman Sachs, BofA Among 21 Banks Planning Joint Dollar Stablecoin Launch
+## 1. Anthropic Admits Security Failures Behind Claude Hacking Incidents
+
+**Author:** Jason Nelson  
+**Published:** 9/2/2026, 11:46:04 PM  
+**Categories:** Artificial Intelligence  
+
+After Claude models accessed real systems during cyber tests, Anthropic tightened its safeguards and warned that flawed training can encourage dangerous behavior.
+
+📖 [Read original article](https://decrypt.co/377232/anthropic-security-claude-ai-hacks)
+
+---
+
+## 2. An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/2/2026, 11:16:04 PM  
+**Categories:** Artificial Intelligence  
+
+Afterquery's valuation jumped more than tenfold in five months, making it Y Combinator's fastest unicorn ever.
+
+📖 [Read original article](https://decrypt.co/377231/afterquery-ai-tradining-data-unicorn-y-combinator)
+
+---
+
+## 3. FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites
+
+**Author:** Jason Nelson  
+**Published:** 9/2/2026, 10:47:06 PM  
+**Categories:** , Coins  
+
+Agents seized digital assets, domains, and servers allegedly used by Hamas’ military wing to collect donations and recruit supporters.
+
+📖 [Read original article](https://decrypt.co/377230/fbi-seizes-560k-crypto-hamas)
+
+---
+
+## 4. Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury
+
+**Author:** Jason Nelson  
+**Published:** 9/2/2026, 9:31:05 PM  
+**Categories:** , Coins  
+
+The Japanese company booked a ¥117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.
+
+📖 [Read original article](https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only)
+
+---
+
+## 5. Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/2/2026, 8:46:04 PM  
+**Categories:** Artificial Intelligence  
+
+Emil Michael's latest financial filings show a summer exit from Perplexity, months after a January sale of xAI stock that reportedly netted him up to $24 million.
+
+📖 [Read original article](https://decrypt.co/377225/pentagon-ai-official-sold-millions-perplexity-stock)
+
+---
+
+## 6. Goldman Sachs, BofA Among 21 Banks Planning Joint Dollar Stablecoin Launch
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/2/2026, 8:01:04 PM  
@@ -23,7 +83,7 @@ The bank-led consortium wants a U.S. dollar token live by the first half of 2027
 
 ---
 
-## 2. 'The Right Trade': Strategy CEO Has No Regrets Selling Bitcoin at $60K Before Buying Back Higher
+## 7. 'The Right Trade': Strategy CEO Has No Regrets Selling Bitcoin at $60K Before Buying Back Higher
 
 **Author:** Jason Nelson  
 **Published:** 9/2/2026, 7:15:06 PM  
@@ -35,7 +95,7 @@ Phong Le said Strategy’s cost of capital—not Bitcoin’s price—drove its d
 
 ---
 
-## 3. Is Bitcoin About to Flash Crash? What a 'Bart Simpson' Pattern Would Actually Take
+## 8. Is Bitcoin About to Flash Crash? What a 'Bart Simpson' Pattern Would Actually Take
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/2/2026, 6:30:06 PM  
@@ -47,7 +107,7 @@ Bitcoin traders are calling August's spike-and-fade a Bart Simpson hairline. Her
 
 ---
 
-## 4. Crypto Groups Push SEC for Tailored Rules on Novel ETFs
+## 9. Crypto Groups Push SEC for Tailored Rules on Novel ETFs
 
 **Author:** Jason Nelson  
 **Published:** 9/2/2026, 5:41:04 PM  
@@ -59,7 +119,7 @@ Groups including The Crypto Council for Innovation, Grayscale, and a16z urged th
 
 ---
 
-## 5. OpenAI's Astra Becomes Its First AI Model With 'Critical' Hacking Abilities
+## 10. OpenAI's Astra Becomes Its First AI Model With 'Critical' Hacking Abilities
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/2/2026, 4:43:53 PM  
@@ -71,7 +131,7 @@ The unreleased model can find zero-day vulnerabilities and chain them into worki
 
 ---
 
-## 6. Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT
+## 11. Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT
 
 **Author:** Jason Nelson  
 **Published:** 9/2/2026, 3:42:13 PM  
@@ -83,7 +143,7 @@ Two Thai businessmen claim Tether blocked access to their stablecoins months bef
 
 ---
 
-## 7. Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban
+## 12. Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban
 
 **Author:** Decrypt Agent  
 **Published:** 9/2/2026, 3:18:44 PM  
@@ -95,7 +155,7 @@ The country's consumer watchdog went further, urging retailers to stop selling t
 
 ---
 
-## 8. AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%
+## 13. AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%
 
 **Author:** Decrypt Agent  
 **Published:** 9/2/2026, 2:16:44 PM  
@@ -107,7 +167,7 @@ Marc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super P
 
 ---
 
-## 9. Morning Minute: Bitcoin Enters ‘Rektember’ After Best August Since 2017
+## 14. Morning Minute: Bitcoin Enters ‘Rektember’ After Best August Since 2017
 
 **Author:** Tyler Warner  
 **Published:** 9/2/2026, 11:55:48 AM  
@@ -119,7 +179,7 @@ So far, Rektember is living up to its name as Bitcoin slips. Will this September
 
 ---
 
-## 10. Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum
+## 15. Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum
 
 **Author:** Decrypt Agent  
 **Published:** 9/2/2026, 11:30:45 AM  
@@ -131,7 +191,7 @@ CrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware
 
 ---
 
-## 11. SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization
+## 16. SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization
 
 **Author:** Decrypt Agent  
 **Published:** 9/2/2026, 10:25:02 AM  
@@ -143,7 +203,7 @@ New Form TA-2 questions would make agents report how many share registers they k
 
 ---
 
-## 12. Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself
+## 17. Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself
 
 **Author:** Decrypt Agent  
 **Published:** 9/2/2026, 9:06:22 AM  
