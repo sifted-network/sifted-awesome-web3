@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-03"
 date: "2026-09-03"
 source: "Cointelegraph"
-count: 18
+count: 15
 ---
 
 # Cointelegraph - 2026-09-03
 
-18 items collected.
+15 items collected.
 
 ---
 
@@ -188,41 +188,5 @@ The third-wave Coldcard exploiter moved about 10% of stolen funds through THORCh
 Kalshi reportedly plans to file for approval of a WTI crude oil perpetual futures contract that would trade around the clock five days a week without an expiration date.
 
 📖 [Read original article](https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Australia warns unlicensed crypto firms of fines up to 10% of annual turnover
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/3/2026, 7:47:54 AM  
-**Categories:** Latest News  
-
-ASIC has recorded more than 45 digital asset-related license applications as its temporary enforcement relief approaches Sept. 30 expiration.
-
-📖 [Read original article](https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Ether, XRP ETF inflow streaks end as Bitcoin funds rebound
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/3/2026, 7:22:00 AM  
-**Categories:** Markets  
-
-Ether ETFs posted $48 million in outflows after attracting $1.62 billion over 12 trading days, while XRP funds ended an 11-session inflow run.
-
-📖 [Read original article](https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Hyperscale Data ends Michigan BTC mining as holdings fall 79%
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/3/2026, 4:57:55 AM  
-**Categories:** Latest News  
-
-Hyperscale Data’s Bitcoin holdings have fallen about 79% since late July to 215 BTC as it redirects capital toward its Michigan AI data center.
-
-📖 [Read original article](https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
