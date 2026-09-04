@@ -2,16 +2,28 @@
 title: "The Block - 2026-09-03"
 date: "2026-09-03"
 source: "The Block"
-count: 8
+count: 9
 ---
 
 # The Block - 2026-09-03
 
-8 items collected.
+9 items collected.
 
 ---
 
-## 1. Crypto market cap surges to $2.82 trillion as Zcash leads rally alongside stocks
+## 1. Coinbase seeks SEC greenlight to list 24/7 equity perpetuals
+
+**Author:** Sarah Wynn  
+**Published:** 9/3/2026, 8:46:52 PM  
+**Categories:** Companies, Exchanges, Markets, Policy, Public Equities, Regulation, Coinbase, SEC, News  
+
+Coinbase, the largest U.S. based crypto exchange, is seeking to list 24/7 equity products as perpetual gain momentum.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-03-coinbase-seeks-sec-greenlight-to-list-24-7-equity-perpetuals-413487)
+
+---
+
+## 2. Crypto market cap surges to $2.82 trillion as Zcash leads rally alongside stocks
 
 **Author:** Kyle Baird  
 **Published:** 9/3/2026, 8:09:25 PM  
@@ -23,7 +35,7 @@ Crypto and related stocks like Strategy rallied as bitcoin topped $80,000 and Fe
 
 ---
 
-## 2. Revolut takes ‘important’ step toward becoming a US bank with conditional OCC approval
+## 3. Revolut takes ‘important’ step toward becoming a US bank with conditional OCC approval
 
 **Author:** Sarah Wynn  
 **Published:** 9/3/2026, 6:23:44 PM  
@@ -35,7 +47,7 @@ Revolut says it has received preliminary approval from a key U.S. banking regula
 
 ---
 
-## 3. Strive CEO says company could end 2026 as second-largest public bitcoin holder as ASST climbs
+## 4. Strive CEO says company could end 2026 as second-largest public bitcoin holder as ASST climbs
 
 **Author:** Kyle Baird  
 **Published:** 9/3/2026, 4:27:35 PM  
@@ -47,7 +59,7 @@ Strive shares climbed to a year-to-date high of $26.84 on Thursday, placing the 
 
 ---
 
-## 4. Stablecoin payments infrastructure startup Diameter Pay raises $10 million
+## 5. Stablecoin payments infrastructure startup Diameter Pay raises $10 million
 
 **Author:** Yogita Khatri  
 **Published:** 9/3/2026, 4:00:03 PM  
@@ -59,7 +71,7 @@ Diameter Pay has raised $10 million in a Series A funding round co-led by CMT Di
 
 ---
 
-## 5. SoFi, Payward agree to link banking network with Kraken infrastructure
+## 6. SoFi, Payward agree to link banking network with Kraken infrastructure
 
 **Author:** Brian Danga  
 **Published:** 9/3/2026, 12:52:54 PM  
@@ -71,7 +83,7 @@ SoFi Technologies partnered with Payward to connect its banking settlement netwo
 
 ---
 
-## 6. Bitcoin-gold correlation hits six-year high, but analysts question whether equity decoupling will last
+## 7. Bitcoin-gold correlation hits six-year high, but analysts question whether equity decoupling will last
 
 **Author:** James Hunt  
 **Published:** 9/3/2026, 11:01:46 AM  
@@ -83,7 +95,7 @@ Glassnode is less convinced by bitcoin's recent divergence from U.S. equities, s
 
 ---
 
-## 7. Michigan court orders Kalshi to keep blocking sports prediction markets
+## 8. Michigan court orders Kalshi to keep blocking sports prediction markets
 
 **Author:** Timmy Shen  
 **Published:** 9/3/2026, 4:30:32 AM  
@@ -95,7 +107,7 @@ The injunction converts a temporary restraining order issued in June, and violat
 
 ---
 
-## 8. ‘Much ado about nothing’: CFTC files to dismiss CME’s lawsuit over crypto perpetual futures
+## 9. ‘Much ado about nothing’: CFTC files to dismiss CME’s lawsuit over crypto perpetual futures
 
 **Author:** Danny Park  
 **Published:** 9/3/2026, 3:39:02 AM  
