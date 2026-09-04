@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-02"
 date: "2026-09-02"
 source: "The Block"
-count: 12
+count: 11
 ---
 
 # The Block - 2026-09-02
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,50
 Strategy CEO Phong Le defended selling bitcoin at $60,000 before buying at $80,000, citing corporate capital costs.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-09-02-strategy-ceo-says-selling-bitcoin-at-60000-before-buying-at-80000-was-the-right-trade-413323)
-
----
-
-## 12. Bitcoin hovers near $77,000 as global bond selloff tests post-rally resilience
-
-**Author:** James Hunt  
-**Published:** 9/2/2026, 10:20:03 AM  
-**Categories:** Markets, News  
-
-Bitcoin hovers near $77,000 as global bond yields surge and renewed U.S.-Iran tensions push oil prices higher.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-02-bitcoin-hovers-near-77000-as-global-bond-selloff-tests-post-rally-resilience-413320)
 
 ---
