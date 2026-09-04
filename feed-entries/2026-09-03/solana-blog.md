@@ -17,7 +17,7 @@ count: 2
 **Published:** 9/3/2026, 4:26:00 PM  
 **Categories:** -  
 
-Payment channels support 1 million payments per second by authorizing agent spending once, metering off-chain, and settling once on Solana.
+Payment channels support 1 million payments per second by authorizing agent spending once.
 
 📖 [Read original article](https://solana.com/news/payment-channels-1-million-payments-per-second)
 
