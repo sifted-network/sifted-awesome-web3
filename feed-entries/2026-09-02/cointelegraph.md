@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-02"
 date: "2026-09-02"
 source: "Cointelegraph"
-count: 11
+count: 7
 ---
 
 # Cointelegraph - 2026-09-02
 
-11 items collected.
+7 items collected.
 
 ---
 
@@ -92,53 +92,5 @@ One of Bitcoin’s onchain demand indicators turns negative again after a brief 
 Officials in the G20, under the US’ presidency, recognized that digital assets could support “broad-based economic growth” and called for improvements in cross-border transactions.
 
 📖 [Read original article](https://cointelegraph.com/news/g20-members-clear-pathways-digital-asset-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Sui DeFi protocol Full Sail to wind down after Switchboard incident
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/2/2026, 1:40:03 PM  
-**Categories:** Latest News  
-
-Full Sail is shutting down after an attacker removed about $91,000 from three vaults during a security incident linked to oracle provider Switchboard.
-
-📖 [Read original article](https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead
-
-**Author:** Cointelegraph by Ciaran Lyons  
-**Published:** 9/2/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Arthur Hayes says Bitcoin is going to grind higher from here, but Ethereum is his number one pick due to its potential to increase “3x to 5x pretty quickly.”
-
-📖 [Read original article](https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Hashkey joins DTCC working group as first Asian crypto service provider
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/2/2026, 1:11:25 PM  
-**Categories:** Latest News  
-
-Hashkey joined the DTCC’s working group on tokenization innovation as the first Asian crypto service provider to join with over 100 financial institutions, including Goldman Sachs and JPMorgan.
-
-📖 [Read original article](https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Thai businessmen sue Tether for freezing $42M in $61M pig butchering case
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/2/2026, 12:00:00 PM  
-**Categories:** Latest News  
-
-The plaintiffs didn’t dispute their involvement in the pig butchering scam, but claimed that Tether did not have the authority to freeze the $42 million at the time.
-
-📖 [Read original article](https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
