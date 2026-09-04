@@ -2,16 +2,64 @@
 title: "The Block - 2026-09-04"
 date: "2026-09-04"
 source: "The Block"
-count: 3
+count: 7
 ---
 
 # The Block - 2026-09-04
 
-3 items collected.
+7 items collected.
 
 ---
 
-## 1. South Korea to start tokenizing ‘all types’ of securities in three stages from 2027
+## 1. Trezor says ShipMonk breach affected another 67,000 customers
+
+**Author:** James Hunt  
+**Published:** 9/4/2026, 12:03:16 PM  
+**Categories:** Companies, Tech, Hardware, News  
+
+The newly identified records date from 2019 to 2021 and include names, emails, phone numbers, shipping addresses, and order numbers.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540)
+
+---
+
+## 2. El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says
+
+**Author:** Brian Danga  
+**Published:** 9/4/2026, 11:28:46 AM  
+**Categories:** Crypto Ecosystems, Layer 1s, Markets, Policy, Regulation, Token Projects, Bitcoin, News  
+
+IMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535)
+
+---
+
+## 3. Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings
+
+**Author:** James Hunt  
+**Published:** 9/4/2026, 11:21:09 AM  
+**Categories:** Markets, Policy, Regulation, SEC, News  
+
+In contrast, Jane Street and Charles Schwab raised concerns over rushed ETF launches and confidential filings limiting market scrutiny.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532)
+
+---
+
+## 4. Andreessen Horowitz-backed OpenReserve secures preliminary OCC approval for national bank charter
+
+**Author:** Brian Danga  
+**Published:** 9/4/2026, 10:18:40 AM  
+**Categories:** Companies, Deals, Finance firms, Policy, Regulation, Crypto Banks and Lenders, OCC, News  
+
+OpenReserve Holdings received preliminary OCC approval for a national bank focused on onchain settlement, following a $25 million seed round.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528)
+
+---
+
+## 5. South Korea to start tokenizing ‘all types’ of securities in three stages from 2027
 
 **Author:** Danny Park  
 **Published:** 9/4/2026, 9:46:06 AM  
@@ -23,7 +71,7 @@ South Korea ultimately aims to allow participants to settle tokenized securities
 
 ---
 
-## 2. US bitcoin ETFs report the largest inflow day since January, worth $731 million
+## 6. US bitcoin ETFs report the largest inflow day since January, worth $731 million
 
 **Author:** Danny Park  
 **Published:** 9/4/2026, 8:47:05 AM  
@@ -35,7 +83,7 @@ Analysts attributed Fed Governor Christopher Waller’s dovish comments to the s
 
 ---
 
-## 3. AMC stock jumps 21% overnight as CEO slams Robinhood over ‘outrageous’ tokenized shares
+## 7. AMC stock jumps 21% overnight as CEO slams Robinhood over ‘outrageous’ tokenized shares
 
 **Author:** Danny Park  
 **Published:** 9/4/2026, 7:59:34 AM  
