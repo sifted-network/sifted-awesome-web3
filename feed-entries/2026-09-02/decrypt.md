@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-02"
 date: "2026-09-02"
 source: "Decrypt"
-count: 17
+count: 16
 ---
 
 # Decrypt - 2026-09-02
 
-17 items collected.
+16 items collected.
 
 ---
 
@@ -200,17 +200,5 @@ CrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware
 New Form TA-2 questions would make agents report how many share registers they keep on distributed ledgers.
 
 📖 [Read original article](https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization)
-
----
-
-## 17. Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself
-
-**Author:** Decrypt Agent  
-**Published:** 9/2/2026, 9:06:22 AM  
-**Categories:** Law and Order  
-
-The North Carolina Republican bought less than $1,000 of contracts on her own race and drew a three-year ban.
-
-📖 [Read original article](https://decrypt.co/377142/kalshi-suspends-house-candidate-laurie-buckhout-for-betting-on-herself)
 
 ---
