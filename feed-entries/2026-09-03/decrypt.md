@@ -2,16 +2,52 @@
 title: "Decrypt - 2026-09-03"
 date: "2026-09-03"
 source: "Decrypt"
-count: 12
+count: 15
 ---
 
 # Decrypt - 2026-09-03
 
-12 items collected.
+15 items collected.
 
 ---
 
-## 1. Bernie Sanders Pushes Bill to Ban Advanced AI Development
+## 1. Utah Becomes First State to Target VPNs in Age-Verification Crackdown
+
+**Author:** Jason Nelson  
+**Published:** 9/3/2026, 10:16:04 PM  
+**Categories:** Technology  
+
+Privacy advocates say the law raises First Amendment questions the courts have yet to address.
+
+📖 [Read original article](https://decrypt.co/377370/utah-websites-check-vpn-age-verification)
+
+---
+
+## 2. Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion
+
+**Author:** Jason Nelson  
+**Published:** 9/3/2026, 9:31:05 PM  
+**Categories:** , Artificial Intelligence  
+
+The projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion.
+
+📖 [Read original article](https://decrypt.co/377363/bitcoin-mine-ai-deal-1-2-billion)
+
+---
+
+## 3. What Is Pons? The Robinhood Chain Meme Coin Factory Token Up 18,000% Since July
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/3/2026, 8:46:04 PM  
+**Categories:** Coins  
+
+PONS, the token behind Robinhood Chain's biggest meme coin factory, flipped CASHCAT to become the chain's largest cryptocurrency by market cap—and its chart looks like a hockey stick.
+
+📖 [Read original article](https://decrypt.co/377349/pons-robinhood-chain-meme-coin-token-factory)
+
+---
+
+## 4. Bernie Sanders Pushes Bill to Ban Advanced AI Development
 
 **Author:** Jason Nelson  
 **Published:** 9/3/2026, 8:16:04 PM  
@@ -23,7 +59,7 @@ The forthcoming bill would pause advanced AI development, create a federal regul
 
 ---
 
-## 2. OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI
+## 5. OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/3/2026, 7:24:24 PM  
@@ -35,7 +71,7 @@ The model can independently discover and exploit unknown security flaws across h
 
 ---
 
-## 3. ChatGPT, Claude and Grok Outages Leave Users Asking How to Work Without AI
+## 6. ChatGPT, Claude and Grok Outages Leave Users Asking How to Work Without AI
 
 **Author:** Jason Nelson  
 **Published:** 9/3/2026, 6:31:26 PM  
@@ -47,7 +83,7 @@ The three AI platforms restored service Thursday after users said the simultaneo
 
 ---
 
-## 4. Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks
+## 7. Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/3/2026, 6:15:07 PM  
@@ -59,7 +95,7 @@ Ethereum funds broke a 12-day winning run and XRP snapped an 11-session streak o
 
 ---
 
-## 5. CFTC Asks Judge to Dismiss CME Lawsuit Over Crypto Perpetual Futures
+## 8. CFTC Asks Judge to Dismiss CME Lawsuit Over Crypto Perpetual Futures
 
 **Author:** Jason Nelson  
 **Published:** 9/3/2026, 5:31:04 PM  
@@ -71,7 +107,7 @@ The regulator argues that CME cannot challenge its approval of Kalshi’s Bitcoi
 
 ---
 
-## 6. Bitcoin Pumps as Fed Signals Rate Pause, $415 Million in Shorts Get Rekt
+## 9. Bitcoin Pumps as Fed Signals Rate Pause, $415 Million in Shorts Get Rekt
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/3/2026, 4:38:17 PM  
@@ -83,7 +119,7 @@ Stocks and crypto rallied together after Governor Christopher Waller said he cou
 
 ---
 
-## 7. Sony Dismisses PS5 Buyers' $508M Tariff Refund Claim as 'Illogical'
+## 10. Sony Dismisses PS5 Buyers' $508M Tariff Refund Claim as 'Illogical'
 
 **Author:** Decrypt Agent  
 **Published:** 9/3/2026, 4:28:27 PM  
@@ -95,7 +131,7 @@ The company raised PlayStation prices for a second time in March, five weeks aft
 
 ---
 
-## 8. SoFi Links Banking Network and Stablecoin to Kraken in New Deal
+## 11. SoFi Links Banking Network and Stablecoin to Kraken in New Deal
 
 **Author:** Jason Nelson  
 **Published:** 9/3/2026, 3:40:08 PM  
@@ -107,7 +143,7 @@ Kraken will list SoFiUSD and gain access to SoFi’s round-the-clock dollar sett
 
 ---
 
-## 9. Morning Minute: Strategy CEO Says Selling The Bottom Was Correct Move
+## 12. Morning Minute: Strategy CEO Says Selling The Bottom Was Correct Move
 
 **Author:** Tyler Warner  
 **Published:** 9/3/2026, 11:43:14 AM  
@@ -119,7 +155,7 @@ Strategy sold millions in Bitcoin in the low $60k range and just rebought at $80
 
 ---
 
-## 10. Mamdani Imposes One-Year Moratorium on Generative AI in NYC Schools
+## 13. Mamdani Imposes One-Year Moratorium on Generative AI in NYC Schools
 
 **Author:** Decrypt Agent  
 **Published:** 9/3/2026, 11:36:41 AM  
@@ -131,7 +167,7 @@ Nearly 600,000 students lose access to generative AI tools, while five named ven
 
 ---
 
-## 11. Ukraine Busts Kyiv Crypto Drainer Ring Moving Up to $1M Monthly
+## 14. Ukraine Busts Kyiv Crypto Drainer Ring Moving Up to $1M Monthly
 
 **Author:** Decrypt Agent  
 **Published:** 9/3/2026, 9:53:41 AM  
@@ -143,7 +179,7 @@ Fake investment ads on Telegram channels funneled EU victims to a lookalike exch
 
 ---
 
-## 12. Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine
+## 15. Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine
 
 **Author:** Decrypt Agent  
 **Published:** 9/3/2026, 8:47:34 AM  
