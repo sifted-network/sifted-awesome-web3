@@ -2,16 +2,76 @@
 title: "Decrypt - 2026-09-04"
 date: "2026-09-04"
 source: "Decrypt"
-count: 7
+count: 12
 ---
 
 # Decrypt - 2026-09-04
 
-7 items collected.
+12 items collected.
 
 ---
 
-## 1. Bitcoin Slides as Blowout Jobs Report Revives Fed Hike Odds
+## 1. Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood—And It's Working (Sort Of)
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/4/2026, 7:16:03 PM  
+**Categories:** , DeFi  
+
+A meme coin called BONER cornered half of Hims & Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's spreading fast.
+
+📖 [Read original article](https://decrypt.co/377463/crypto-meme-coin-stock-pairs-robinhood)
+
+---
+
+## 2. 'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens
+
+**Author:** Jason Nelson  
+**Published:** 9/4/2026, 6:36:41 PM  
+**Categories:** , DeFi  
+
+Lawyers question AMC’s grounds for a securities-law challenge, but say the tokens’ branding and marketing could leave room for a dispute.
+
+📖 [Read original article](https://decrypt.co/377461/send-your-lawyers-robinhood-not-backing-down-amc)
+
+---
+
+## 3. A16z-Backed OpenReserve Gets Approval for Full-Service National Bank
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/4/2026, 5:19:55 PM  
+**Categories:** Business  
+
+The a16z-backed startup chose a full national charter over the trust-bank route most crypto firms have taken, clearing a path toward insured deposits and conventional lending alongside stablecoin issuance.
+
+📖 [Read original article](https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank)
+
+---
+
+## 4. Zcash Hits Highest Price in Nearly a Decade, Crushing Short Bets
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/4/2026, 4:24:46 PM  
+**Categories:** zcash, Markets  
+
+The privacy coin's squeeze rode a Fed-driven crypto rally that reversed hours later, when a stronger-than-expected jobs report sent Bitcoin back under $80,000.
+
+📖 [Read original article](https://decrypt.co/377445/zcash-price-high-decade-shorts-rekt)
+
+---
+
+## 5. OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report
+
+**Author:** Jason Nelson  
+**Published:** 9/4/2026, 3:36:04 PM  
+**Categories:** Artificial Intelligence  
+
+The activity began in May and remained undisclosed until Friday, a day after OpenAI launched Astra and U.S. lawmakers proposed restrictions on advanced AI.
+
+📖 [Read original article](https://decrypt.co/377412/openai-agents-hack-german-website)
+
+---
+
+## 6. Bitcoin Slides as Blowout Jobs Report Revives Fed Hike Odds
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/4/2026, 3:13:28 PM  
@@ -23,7 +83,7 @@ The Dow dropped 226 points and Bitcoin erased some of its gains after August pay
 
 ---
 
-## 2. BitMEX Co-Founder Ben Delo Gives Farage's Reform UK Another £4 Million
+## 7. BitMEX Co-Founder Ben Delo Gives Farage's Reform UK Another £4 Million
 
 **Author:** Decrypt Agent  
 **Published:** 9/4/2026, 3:10:00 PM  
@@ -35,7 +95,7 @@ Two April payments supplied three-quarters of the party's donations for the quar
 
 ---
 
-## 3. Morning Minute: Crypto Stages Major Rally on Rate Hopes
+## 8. Morning Minute: Crypto Stages Major Rally on Rate Hopes
 
 **Author:** Tyler Warner  
 **Published:** 9/4/2026, 12:31:31 PM  
@@ -47,7 +107,7 @@ Bitcoin soared past $81k, HYPE and ZEC hit smashing new ATHs and the onchain ral
 
 ---
 
-## 4. IMF Now Says Donations Funded El Salvador's Bitcoin Growth
+## 9. IMF Now Says Donations Funded El Salvador's Bitcoin Growth
 
 **Author:** Decrypt Agent  
 **Published:** 9/4/2026, 12:26:01 PM  
@@ -59,7 +119,7 @@ A year ago the fund claimed the total had not moved, and that the reserve was on
 
 ---
 
-## 5. 67,000 More Trezor Customers Exposed as Data Breach Widens
+## 10. 67,000 More Trezor Customers Exposed as Data Breach Widens
 
 **Author:** Decrypt Agent  
 **Published:** 9/4/2026, 11:32:49 AM  
@@ -71,7 +131,7 @@ Some records exposed in the breach date to 2019, years beyond the 90-day retenti
 
 ---
 
-## 6. FinCEN Ties $12.7B to Crypto Scams Run From Asian Compounds
+## 11. FinCEN Ties $12.7B to Crypto Scams Run From Asian Compounds
 
 **Author:** Decrypt Agent  
 **Published:** 9/4/2026, 10:22:57 AM  
@@ -83,7 +143,7 @@ Monthly reported sums rose 18% on average, and the compounds now appear to be sp
 
 ---
 
-## 7. AMC CEO Calls Robinhood Stock Tokens 'Contemptible' and 'Vile'
+## 12. AMC CEO Calls Robinhood Stock Tokens 'Contemptible' and 'Vile'
 
 **Author:** Decrypt Agent  
 **Published:** 9/4/2026, 9:24:56 AM  
