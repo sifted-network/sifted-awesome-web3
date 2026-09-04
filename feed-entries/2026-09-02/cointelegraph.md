@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-02"
 date: "2026-09-02"
 source: "Cointelegraph"
-count: 13
+count: 11
 ---
 
 # Cointelegraph - 2026-09-02
 
-13 items collected.
+11 items collected.
 
 ---
 
@@ -140,29 +140,5 @@ Hashkey joined the DTCC’s working group on tokenization innovation as the firs
 The plaintiffs didn’t dispute their involvement in the pig butchering scam, but claimed that Tether did not have the authority to freeze the $42 million at the time.
 
 📖 [Read original article](https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Japan’s Remixpoint dumps altcoins, leaves 1,506 BTC as sole crypto bet
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/2/2026, 12:00:00 PM  
-**Categories:** Latest News  
-
-Remixpoint sold $5.5 million in ETH, SOL, XRP and DOGE, booking a $736,000 net gain as it narrowed its crypto strategy to focus on Bitcoin.
-
-📖 [Read original article](https://cointelegraph.com/news/remixpoint-dumps-altcoins-1506-btc-sole-crypto-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Thailand adopts crypto Travel Rule with self-custodial wallet checks
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/2/2026, 10:56:15 AM  
-**Categories:** Latest News  
-
-Thailand adopted a crypto Travel Rule requiring digital asset operators to verify control of self-custodial wallets and retain transaction data for five years.
-
-📖 [Read original article](https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
