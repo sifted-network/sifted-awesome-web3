@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-01"
 date: "2026-09-01"
 source: "Decrypt"
-count: 7
+count: 6
 ---
 
 # Decrypt - 2026-09-01
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ Attackers reportedly registered Lenovo IDs using victims’ email addresses, all
 Fable 5.1 and its restricted sibling Mythos 5.1 arrive three months after export controls forced Anthropic to pull Fable 5 offline for 18 days
 
 📖 [Read original article](https://decrypt.co/377078/anthropic-claude-fable-5-1)
-
----
-
-## 7. Bitcoin's Next Move: Bullish Bets Run Up Against a Historical Wall
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/1/2026, 6:22:09 PM  
-**Categories:** , Markets  
-
-Bitcoin just had one its best months in years amid a price rally that broke the crypto winter pattern. But the charts tell a complicated story.
-
-📖 [Read original article](https://decrypt.co/377052/bitcoins-next-move-bullish-bets-run-up-against-a-historical-wall)
 
 ---
