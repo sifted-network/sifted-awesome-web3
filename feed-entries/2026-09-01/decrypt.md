@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-01"
 date: "2026-09-01"
 source: "Decrypt"
-count: 10
+count: 7
 ---
 
 # Decrypt - 2026-09-01
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ Fable 5.1 and its restricted sibling Mythos 5.1 arrive three months after export
 Bitcoin just had one its best months in years amid a price rally that broke the crypto winter pattern. But the charts tell a complicated story.
 
 📖 [Read original article](https://decrypt.co/377052/bitcoins-next-move-bullish-bets-run-up-against-a-historical-wall)
-
----
-
-## 8. Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL
-
-**Author:** Jason Nelson  
-**Published:** 9/1/2026, 6:03:47 PM  
-**Categories:** , Business  
-
-The publicly traded company recently bought 19,000 SOL, bringing its treasury to more than 2.33 million SOL and SOL equivalents.
-
-📖 [Read original article](https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana)
-
----
-
-## 9. X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/1/2026, 4:26:10 PM  
-**Categories:** Business  
-
-X engineers have acknowledged the issue, but have not confirmed a new data breach of its systems.
-
-📖 [Read original article](https://decrypt.co/377048/x-data-breach-users-flooded-password-reset)
-
----
-
-## 10. Cathie Wood’s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block
-
-**Author:** Jason Nelson  
-**Published:** 9/1/2026, 4:13:28 PM  
-**Categories:** , Business  
-
-The investment firm bought 456,059 Block shares across three ETFs and added $3.4 million in Circle stock.
-
-📖 [Read original article](https://decrypt.co/377046/cathie-wood-ark-invest-buys-more-block)
 
 ---
