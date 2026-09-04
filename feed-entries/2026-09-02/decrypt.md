@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-02"
 date: "2026-09-02"
 source: "Decrypt"
-count: 16
+count: 10
 ---
 
 # Decrypt - 2026-09-02
 
-16 items collected.
+10 items collected.
 
 ---
 
@@ -128,77 +128,5 @@ Groups including The Crypto Council for Innovation, Grayscale, and a16z urged th
 The unreleased model can find zero-day vulnerabilities and chain them into working exploits without a human walking it through each step, and access to that capability is starting with a small group of testers.
 
 📖 [Read original article](https://decrypt.co/377180/openai-astra-first-ai-model-critical-hacking)
-
----
-
-## 11. Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT
-
-**Author:** Jason Nelson  
-**Published:** 9/2/2026, 3:42:13 PM  
-**Categories:** , Law and Order  
-
-Two Thai businessmen claim Tether blocked access to their stablecoins months before federal authorities secured a seizure warrant.
-
-📖 [Read original article](https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt)
-
----
-
-## 12. Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban
-
-**Author:** Decrypt Agent  
-**Published:** 9/2/2026, 3:18:44 PM  
-**Categories:** Law and Order  
-
-The country's consumer watchdog went further, urging retailers to stop selling the devices until the law is clear.
-
-📖 [Read original article](https://decrypt.co/377169/norway-moves-to-regulate-pervert-glasses-weighs-facial-recognition-ban)
-
----
-
-## 13. AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%
-
-**Author:** Decrypt Agent  
-**Published:** 9/2/2026, 2:16:44 PM  
-**Categories:** Artificial Intelligence  
-
-Marc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super PAC behind the campaign, which faces surging opposition.
-
-📖 [Read original article](https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61)
-
----
-
-## 14. Morning Minute: Bitcoin Enters ‘Rektember’ After Best August Since 2017
-
-**Author:** Tyler Warner  
-**Published:** 9/2/2026, 11:55:48 AM  
-**Categories:** , Opinion  
-
-So far, Rektember is living up to its name as Bitcoin slips. Will this September follow the historical averages, or break the trend?
-
-📖 [Read original article](https://decrypt.co/377159/morning-minute-bitcoin-enters-rektember-after-best-august-since-2017)
-
----
-
-## 15. Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum
-
-**Author:** Decrypt Agent  
-**Published:** 9/2/2026, 11:30:45 AM  
-**Categories:** Law and Order  
-
-CrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware takedown spanning four countries.
-
-📖 [Read original article](https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum)
-
----
-
-## 16. SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization
-
-**Author:** Decrypt Agent  
-**Published:** 9/2/2026, 10:25:02 AM  
-**Categories:** , Business  
-
-New Form TA-2 questions would make agents report how many share registers they keep on distributed ledgers.
-
-📖 [Read original article](https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization)
 
 ---
