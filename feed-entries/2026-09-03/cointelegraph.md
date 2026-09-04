@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-03"
 date: "2026-09-03"
 source: "Cointelegraph"
-count: 19
+count: 18
 ---
 
 # Cointelegraph - 2026-09-03
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ The CFTC’s lawyers called the lawsuit “much ado about nothing,“ claiming t
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 9/3/2026, 8:30:14 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network
+## 3. Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/3/2026, 7:36:56 PM  
@@ -59,7 +47,7 @@ Mantle has added Paxos-issued USDG as a natively minted stablecoin while joining
 
 ---
 
-## 5. Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms
+## 4. Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/3/2026, 7:11:46 PM  
@@ -71,7 +59,7 @@ Kalshi previously said it had been placed in an “impossible position” after 
 
 ---
 
-## 6. Bitcoin reclaims $80K as DXY falls amid continuing suspected yen intervention
+## 5. Bitcoin reclaims $80K as DXY falls amid continuing suspected yen intervention
 
 **Author:** Cointelegraph by Charles Bennett  
 **Published:** 9/3/2026, 6:44:22 PM  
@@ -83,7 +71,7 @@ Bitcoin rallied 5% to reclaim $80,000 as the US dollar weakened amid a suspected
 
 ---
 
-## 7. Bybit Pay integrates with Mesh to expand crypto payments
+## 6. Bybit Pay integrates with Mesh to expand crypto payments
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/3/2026, 5:13:04 PM  
@@ -95,7 +83,7 @@ The integration lets Bybit users spend digital assets directly from their exchan
 
 ---
 
-## 8. BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026
+## 7. BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/3/2026, 5:06:28 PM  
@@ -107,7 +95,7 @@ The UK political party and its leader, Nigel Farage, have accepted contributions
 
 ---
 
-## 9. Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement
+## 8. Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/3/2026, 4:04:11 PM  
@@ -119,7 +107,7 @@ The deal will bring SoFiUSD to Kraken, connect Payward to SoFi’s 24/7 dollar s
 
 ---
 
-## 10. Recovery specialists crack $1B crypto wallet... but find just $10
+## 9. Recovery specialists crack $1B crypto wallet... but find just $10
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/3/2026, 1:30:00 PM  
@@ -131,7 +119,7 @@ Crypto recovery specialists reveal how lost wallets, passwords and seed phrases 
 
 ---
 
-## 11. VARA, Securitize sign MoU for tokenization innovation in Dubai
+## 10. VARA, Securitize sign MoU for tokenization innovation in Dubai
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/3/2026, 1:00:00 PM  
@@ -143,7 +131,7 @@ VARA and Securitize signed an MoU to foster more tokenization innovation in Duba
 
 ---
 
-## 12. Nvidia buys Hugging Face for $12.9B in push into AI software
+## 11. Nvidia buys Hugging Face for $12.9B in push into AI software
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/3/2026, 12:41:11 PM  
@@ -155,7 +143,7 @@ Nvidia agreed to buy Hugging Face for $12.93 billion, gaining a platform used by
 
 ---
 
-## 13. Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia
+## 12. Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/3/2026, 10:59:34 AM  
@@ -167,7 +155,7 @@ Pencil Finance said that its first-of-a-kind loan offered financing to 6,600 stu
 
 ---
 
-## 14. Standard Chartered launches spot Bitcoin and Ether trading in UAE
+## 13. Standard Chartered launches spot Bitcoin and Ether trading in UAE
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/3/2026, 10:15:34 AM  
@@ -179,7 +167,7 @@ Standard Chartered said it is the first major global bank to offer institutional
 
 ---
 
-## 15. Coldcard hacker swaps stolen Bitcoin for ETH via THORChain
+## 14. Coldcard hacker swaps stolen Bitcoin for ETH via THORChain
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/3/2026, 9:31:07 AM  
@@ -191,7 +179,7 @@ The third-wave Coldcard exploiter moved about 10% of stolen funds through THORCh
 
 ---
 
-## 16. Kalshi seeks CFTC approval for WTI crude perpetual futures: Report
+## 15. Kalshi seeks CFTC approval for WTI crude perpetual futures: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/3/2026, 9:28:34 AM  
@@ -203,7 +191,7 @@ Kalshi reportedly plans to file for approval of a WTI crude oil perpetual future
 
 ---
 
-## 17. Australia warns unlicensed crypto firms of fines up to 10% of annual turnover
+## 16. Australia warns unlicensed crypto firms of fines up to 10% of annual turnover
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/3/2026, 7:47:54 AM  
@@ -215,7 +203,7 @@ ASIC has recorded more than 45 digital asset-related license applications as its
 
 ---
 
-## 18. Ether, XRP ETF inflow streaks end as Bitcoin funds rebound
+## 17. Ether, XRP ETF inflow streaks end as Bitcoin funds rebound
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/3/2026, 7:22:00 AM  
@@ -227,7 +215,7 @@ Ether ETFs posted $48 million in outflows after attracting $1.62 billion over 12
 
 ---
 
-## 19. Hyperscale Data ends Michigan BTC mining as holdings fall 79%
+## 18. Hyperscale Data ends Michigan BTC mining as holdings fall 79%
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/3/2026, 4:57:55 AM  
