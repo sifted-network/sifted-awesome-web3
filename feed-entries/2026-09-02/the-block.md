@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-02"
 date: "2026-09-02"
 source: "The Block"
-count: 11
+count: 8
 ---
 
 # The Block - 2026-09-02
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ The Michigan AI agreement could generate more than $1.2 billion, with expansion 
 Last month, Wyoming’s Stable Token Commission fully migrated FRNT from LayerZero to Chainlink CCIP after a security review.
 
 📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-09-02-wyoming-expands-chainlink-partnership-onchain-reserve-verification-frnt-413294)
-
----
-
-## 9. Adam Back invests another $8.8 million in Capital B as bitcoin treasury firm targets 3,521 BTC
-
-**Author:** Brian Danga  
-**Published:** 9/2/2026, 12:31:27 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin, News  
-
-Capital B raised $8.8 million from Adam Back in a private placement as the French bitcoin treasury firm targets 3,521 BTC.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-02-adam-back-invests-another-8-8-million-in-capital-b-as-bitcoin-treasury-firm-targets-3521-btc-413339)
-
----
-
-## 10. Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy
-
-**Author:** James Hunt  
-**Published:** 9/2/2026, 11:32:55 AM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin, News  
-
-Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,506 BTC, worth around $115 million.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333)
-
----
-
-## 11. Strategy CEO says selling bitcoin at $60,000 before buying at $80,000 was the ‘right trade’
-
-**Author:** Brian Danga  
-**Published:** 9/2/2026, 10:26:16 AM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, Token Projects, Bitcoin, Strategy, News  
-
-Strategy CEO Phong Le defended selling bitcoin at $60,000 before buying at $80,000, citing corporate capital costs.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-02-strategy-ceo-says-selling-bitcoin-at-60000-before-buying-at-80000-was-the-right-trade-413323)
 
 ---
