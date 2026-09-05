@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-03"
 date: "2026-09-03"
 source: "CoinDesk"
-count: 8
+count: 7
 ---
 
 # CoinDesk - 2026-09-03
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -92,17 +92,5 @@ Your day-ahead look for Sept. 3, 2026
 Yen's rise has led to a broad-based USD weakness, driving the Dollar Index lower. BTC and gold are loving it, for now.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/03/the-yen-is-surging-and-it-s-helping-bitcoin-for-now)
-
----
-
-## 8. Live updates: Bitcoin jumps above $81,000 as rates fall, dollar weakens
-
-**Author:** Shaurya Malwa,Stephen Alpher,James Van Straten  
-**Published:** 9/3/2026, 10:42:15 AM  
-**Categories:** Finance, Live News, live_news  
-
-The government's employment data (due tomorrow) is usually the main economic report of the month, but this time around it's next week's inflation numbers that will decide Fed policy.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015)
 
 ---
