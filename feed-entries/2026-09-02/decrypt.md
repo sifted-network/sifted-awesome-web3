@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-02"
 date: "2026-09-02"
 source: "Decrypt"
-count: 7
+count: 6
 ---
 
 # Decrypt - 2026-09-02
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ Emil Michael's latest financial filings show a summer exit from Perplexity, mont
 The bank-led consortium wants a U.S. dollar token live by the first half of 2027, with a euro version queued up next.
 
 📖 [Read original article](https://decrypt.co/377216/goldman-sachs-bofa-banks-stablecoin)
-
----
-
-## 7. 'The Right Trade': Strategy CEO Has No Regrets Selling Bitcoin at $60K Before Buying Back Higher
-
-**Author:** Jason Nelson  
-**Published:** 9/2/2026, 7:15:06 PM  
-**Categories:** , Business  
-
-Phong Le said Strategy’s cost of capital—not Bitcoin’s price—drove its decision to sell nearly 7,000 BTC before resuming purchases above $80,000.
-
-📖 [Read original article](https://decrypt.co/377215/right-trade-strategy-no-regrets-selling-bitcoin)
 
 ---
