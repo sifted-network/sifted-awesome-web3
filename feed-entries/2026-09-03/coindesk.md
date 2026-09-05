@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-03"
 date: "2026-09-03"
 source: "CoinDesk"
-count: 10
+count: 8
 ---
 
 # CoinDesk - 2026-09-03
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Yen's rise has led to a broad-based USD weakness, driving the Dollar Index lower
 The government's employment data (due tomorrow) is usually the main economic report of the month, but this time around it's next week's inflation numbers that will decide Fed policy.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015)
-
----
-
-## 9. Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 9/3/2026, 10:29:52 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-BTC rose 0.76% since midnight as a softer dollar lifted equities and metals alongside crypto, while ARB and PONS pushed higher for a third session.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/03/bitcoin-recovers-toward-usd78-000-as-pons-and-arbitrum-extend-robinhood-chain-rally)
-
----
-
-## 10. Australia is cracking down on crypto businesses as its strict new regulatory deadline nears
-
-**Author:** Francisco Rodrigues  
-**Published:** 9/3/2026, 10:09:31 AM  
-**Categories:** Finance, Australia, News  
-
-Firms that miss the deadline could breach financial services law from Oct. 1 and face civil or criminal penalties.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears)
 
 ---
