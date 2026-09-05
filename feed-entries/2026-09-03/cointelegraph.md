@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-03"
 date: "2026-09-03"
 source: "Cointelegraph"
-count: 13
+count: 12
 ---
 
 # Cointelegraph - 2026-09-03
 
-13 items collected.
+12 items collected.
 
 ---
 
@@ -152,17 +152,5 @@ Nvidia agreed to buy Hugging Face for $12.93 billion, gaining a platform used by
 Pencil Finance said that its first-of-a-kind loan offered financing to 6,600 students in Southeast Asia who were underserved by traditional lenders.
 
 📖 [Read original article](https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Standard Chartered launches spot Bitcoin and Ether trading in UAE
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/3/2026, 10:15:34 AM  
-**Categories:** Latest News  
-
-Standard Chartered said it is the first major global bank to offer institutional access to spot Bitcoin and Ether trading in the UAE region.
-
-📖 [Read original article](https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
