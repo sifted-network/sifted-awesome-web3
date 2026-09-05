@@ -11,13 +11,13 @@ count: 9
 
 ---
 
-## 1. Coinbase seeks SEC greenlight to list 24/7 equity perpetuals
+## 1. Coinbase seeks SEC greenlight to list equity perpetuals
 
 **Author:** Sarah Wynn  
 **Published:** 9/3/2026, 8:46:52 PM  
 **Categories:** Companies, Exchanges, Markets, Policy, Public Equities, Regulation, Coinbase, SEC, News  
 
-Coinbase, the largest U.S. based crypto exchange, is seeking to list 24/7 equity products as perpetual gain momentum.
+Coinbase, the largest U.S. based crypto exchange, is seeking to list equity products as perpetual gain momentum.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-03-coinbase-seeks-sec-greenlight-to-list-24-7-equity-perpetuals-413487)
 
