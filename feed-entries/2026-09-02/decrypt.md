@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-02"
 date: "2026-09-02"
 source: "Decrypt"
-count: 10
+count: 7
 ---
 
 # Decrypt - 2026-09-02
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ The bank-led consortium wants a U.S. dollar token live by the first half of 2027
 Phong Le said Strategy’s cost of capital—not Bitcoin’s price—drove its decision to sell nearly 7,000 BTC before resuming purchases above $80,000.
 
 📖 [Read original article](https://decrypt.co/377215/right-trade-strategy-no-regrets-selling-bitcoin)
-
----
-
-## 8. Is Bitcoin About to Flash Crash? What a 'Bart Simpson' Pattern Would Actually Take
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/2/2026, 6:30:06 PM  
-**Categories:** , Markets  
-
-Bitcoin traders are calling August's spike-and-fade a Bart Simpson hairline. Here's what separates an actual flash crash from an ordinary correction.
-
-📖 [Read original article](https://decrypt.co/377185/bitcoin-flash-crash-real-bart-simpson-pattern)
-
----
-
-## 9. Crypto Groups Push SEC for Tailored Rules on Novel ETFs
-
-**Author:** Jason Nelson  
-**Published:** 9/2/2026, 5:41:04 PM  
-**Categories:** Law and Order  
-
-Groups including The Crypto Council for Innovation, Grayscale, and a16z urged the regulator to preserve existing fund classifications and streamline reviews for new exchange-traded products.
-
-📖 [Read original article](https://decrypt.co/377184/crypto-groups-sec-novel-etfs)
-
----
-
-## 10. OpenAI's Astra Becomes Its First AI Model With 'Critical' Hacking Abilities
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/2/2026, 4:43:53 PM  
-**Categories:** Artificial Intelligence  
-
-The unreleased model can find zero-day vulnerabilities and chain them into working exploits without a human walking it through each step, and access to that capability is starting with a small group of testers.
-
-📖 [Read original article](https://decrypt.co/377180/openai-astra-first-ai-model-critical-hacking)
 
 ---
