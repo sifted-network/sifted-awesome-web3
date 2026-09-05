@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-09-04"
 date: "2026-09-04"
 source: "Cointelegraph"
-count: 15
+count: 16
 ---
 
 # Cointelegraph - 2026-09-04
 
-15 items collected.
+16 items collected.
 
 ---
 
-## 1. Pineapple Financial puts $1B in mortgage records on Injective
+## 1. Surprise nonfarm payrolls print sends Bitcoin back below 80K
+
+**Author:** Cointelegraph by Charles Bennett  
+**Published:** 9/4/2026, 8:30:47 PM  
+**Categories:** Markets  
+
+The US economy added far more jobs than expected in August, pressuring Bitcoin lower as traders repriced the odds of a Federal Reserve rate cut this month.
+
+📖 [Read original article](https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Pineapple Financial puts $1B in mortgage records on Injective
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/4/2026, 7:31:38 PM  
@@ -23,7 +35,7 @@ The mortgage lender plans to bring more than $10 billion in historical loans onc
 
 ---
 
-## 2. FinCEN ties $13B in crypto scams to non-US operations
+## 3. FinCEN ties $13B in crypto scams to non-US operations
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/4/2026, 7:22:26 PM  
@@ -35,7 +47,7 @@ The agency reported that “transnational criminal organizations” based in com
 
 ---
 
-## 3. Here’s what happened in crypto today
+## 4. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/4/2026, 6:31:34 PM  
@@ -47,7 +59,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 4. Crypto Biz: AI took a back seat when Bitcoin started climbing
+## 5. Crypto Biz: AI took a back seat when Bitcoin started climbing
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/4/2026, 5:22:58 PM  
@@ -59,7 +71,7 @@ Corporate crypto bets are getting bigger as rising markets reward direct exposur
 
 ---
 
-## 5. QuFi launches post-quantum verification platform with Bitcoin testnet proof
+## 6. QuFi launches post-quantum verification platform with Bitcoin testnet proof
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/4/2026, 5:09:25 PM  
@@ -71,7 +83,7 @@ QuFi’s new platform uses post-quantum cryptography to verify digital asset tra
 
 ---
 
-## 6. US law enforcement group moves to ‘neutral’ position on CLARITY Act
+## 7. US law enforcement group moves to ‘neutral’ position on CLARITY Act
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/4/2026, 5:05:34 PM  
@@ -83,7 +95,7 @@ Despite earlier opposition to the CLARITY Act over consumer protection, the Nati
 
 ---
 
-## 7. Revolut, OpenReserve get preliminary US bank approval with crypto plans
+## 8. Revolut, OpenReserve get preliminary US bank approval with crypto plans
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/4/2026, 1:34:30 PM  
@@ -95,7 +107,7 @@ Revolut and OpenReserve received preliminary OCC approval to form US national ba
 
 ---
 
-## 8. Token buybacks are booming. But are they good for crypto projects?
+## 9. Token buybacks are booming. But are they good for crypto projects?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/4/2026, 1:30:00 PM  
@@ -107,7 +119,7 @@ Crypto projects are spending hundreds of millions buying their own tokens. But a
 
 ---
 
-## 9. Kalshi US visits soar 1,500% as regulatory pressure mounts
+## 10. Kalshi US visits soar 1,500% as regulatory pressure mounts
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/4/2026, 11:32:28 AM  
@@ -119,7 +131,7 @@ Kalshi’s US web traffic climbed more than 1,500% in less than a year, while tr
 
 ---
 
-## 10. Trezor says data breach affects another 67K US customers
+## 11. Trezor says data breach affects another 67K US customers
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/4/2026, 11:19:19 AM  
@@ -131,7 +143,7 @@ Trezor said an additional 67,000 US users were affected by its shipping provider
 
 ---
 
-## 11. South Korean regulators introduce tokenized securities roadmap
+## 12. South Korean regulators introduce tokenized securities roadmap
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/4/2026, 10:42:10 AM  
@@ -143,7 +155,7 @@ South Korea’s financial regulator introduced a three-phase roadmap for the iss
 
 ---
 
-## 12. AMC chief criticizes Robinhood’s tokenized stock plan
+## 13. AMC chief criticizes Robinhood’s tokenized stock plan
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/4/2026, 9:56:52 AM  
@@ -155,7 +167,7 @@ AMC’s CEO criticized Robinhood’s tokenized stock offerings for being unregul
 
 ---
 
-## 13. Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K
+## 14. Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/4/2026, 7:37:13 AM  
@@ -167,7 +179,7 @@ US Bitcoin ETFs drew $730.9 million on Thursday as Bitcoin reclaimed $80,000, th
 
 ---
 
-## 14. El Salvador’s post-review Bitcoin accumulation used no public funds: IMF
+## 15. El Salvador’s post-review Bitcoin accumulation used no public funds: IMF
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/4/2026, 6:16:35 AM  
@@ -179,7 +191,7 @@ The IMF attributed Bitcoin added since June 2025 to private donations, addressin
 
 ---
 
-## 15. US, UK launch joint alliance targeting crypto scam centers
+## 16. US, UK launch joint alliance targeting crypto scam centers
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/4/2026, 4:33:55 AM  
