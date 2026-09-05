@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-03"
 date: "2026-09-03"
 source: "Cointelegraph"
-count: 14
+count: 13
 ---
 
 # Cointelegraph - 2026-09-03
 
-14 items collected.
+13 items collected.
 
 ---
 
@@ -164,17 +164,5 @@ Pencil Finance said that its first-of-a-kind loan offered financing to 6,600 stu
 Standard Chartered said it is the first major global bank to offer institutional access to spot Bitcoin and Ether trading in the UAE region.
 
 📖 [Read original article](https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Coldcard hacker swaps stolen Bitcoin for ETH via THORChain
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/3/2026, 9:31:07 AM  
-**Categories:** Latest News  
-
-The third-wave Coldcard exploiter moved about 10% of stolen funds through THORChain as researchers traced the assets to a new Ethereum address.
-
-📖 [Read original article](https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
