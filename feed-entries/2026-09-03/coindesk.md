@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-03"
 date: "2026-09-03"
 source: "CoinDesk"
-count: 7
+count: 5
 ---
 
 # CoinDesk - 2026-09-03
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ Gracy Chen highlighted the world's largest asset manager as one example of such 
 Kraken is joining SoFi's settlement network and list SoFiUSD as the companies link traditional banking with crypto markets.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf)
-
----
-
-## 6. FX has stopped reading bond yields the old way. Bitcoin should too.
-
-**Author:** Omkar Godbole  
-**Published:** 9/3/2026, 11:26:00 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Sept. 3, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/09/03/fx-has-stopped-reading-bond-yields-the-old-way-bitcoin-should-too)
-
----
-
-## 7. The yen is surging and it’s helping bitcoin, for now
-
-**Author:** James Van Straten  
-**Published:** 9/3/2026, 11:19:56 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Yen's rise has led to a broad-based USD weakness, driving the Dollar Index lower. BTC and gold are loving it, for now.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/03/the-yen-is-surging-and-it-s-helping-bitcoin-for-now)
 
 ---
