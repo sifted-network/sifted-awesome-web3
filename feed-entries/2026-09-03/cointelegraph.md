@@ -2,16 +2,16 @@
 title: "Cointelegraph - 2026-09-03"
 date: "2026-09-03"
 source: "Cointelegraph"
-count: 15
+count: 14
 ---
 
 # Cointelegraph - 2026-09-03
 
-15 items collected.
+14 items collected.
 
 ---
 
-## 1. Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express
+## 1. Tether sued over $42M in frozen coins, 6,600 students get crypto loans: Asia Express
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 9/3/2026, 11:40:09 PM  
@@ -176,17 +176,5 @@ Standard Chartered said it is the first major global bank to offer institutional
 The third-wave Coldcard exploiter moved about 10% of stolen funds through THORChain as researchers traced the assets to a new Ethereum address.
 
 📖 [Read original article](https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Kalshi seeks CFTC approval for WTI crude perpetual futures: Report
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/3/2026, 9:28:34 AM  
-**Categories:** Latest News  
-
-Kalshi reportedly plans to file for approval of a WTI crude oil perpetual futures contract that would trade around the clock five days a week without an expiration date.
-
-📖 [Read original article](https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
