@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-03"
 date: "2026-09-03"
 source: "Cointelegraph"
-count: 11
+count: 8
 ---
 
 # Cointelegraph - 2026-09-03
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ The UK political party and its leader, Nigel Farage, have accepted contributions
 The deal will bring SoFiUSD to Kraken, connect Payward to SoFi’s 24/7 dollar settlement network and give SoFi access to digital asset liquidity through Kraken Prime.
 
 📖 [Read original article](https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Recovery specialists crack $1B crypto wallet... but find just $10
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 9/3/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Crypto recovery specialists reveal how lost wallets, passwords and seed phrases can sometimes be recovered — but that’s of no help if the money was never there in the first place.
-
-📖 [Read original article](https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. VARA, Securitize sign MoU for tokenization innovation in Dubai
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/3/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-VARA and Securitize signed an MoU to foster more tokenization innovation in Dubai and explore how tokenized financial innovation should be regulated in the region.
-
-📖 [Read original article](https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Nvidia buys Hugging Face for $12.9B in push into AI software
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/3/2026, 12:41:11 PM  
-**Categories:** Latest News  
-
-Nvidia agreed to buy Hugging Face for $12.93 billion, gaining a platform used by more than 18 million developers to share and deploy AI models.
-
-📖 [Read original article](https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
