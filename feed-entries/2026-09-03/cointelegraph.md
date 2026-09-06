@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-03"
 date: "2026-09-03"
 source: "Cointelegraph"
-count: 8
+count: 2
 ---
 
 # Cointelegraph - 2026-09-03
 
-8 items collected.
+2 items collected.
 
 ---
 
@@ -32,77 +32,5 @@ Thai businessmen sue Tether over $42M frozen USDT tied to pig butchering scam, A
 The CFTC’s lawyers called the lawsuit “much ado about nothing,“ claiming that the CME Group lacked standing to file and argued against its claims over crypto perpetual futures.
 
 📖 [Read original article](https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 9/3/2026, 7:36:56 PM  
-**Categories:** Latest News  
-
-Mantle has added Paxos-issued USDG as a natively minted stablecoin while joining the network’s reward-sharing structure.
-
-📖 [Read original article](https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 9/3/2026, 7:11:46 PM  
-**Categories:** Latest News  
-
-Kalshi previously said it had been placed in an “impossible position” after federal authorities directed the company to ignore a Michigan restraining order issued in June.
-
-📖 [Read original article](https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Bitcoin reclaims $80K as DXY falls amid continuing suspected yen intervention
-
-**Author:** Cointelegraph by Charles Bennett  
-**Published:** 9/3/2026, 6:44:22 PM  
-**Categories:** Markets  
-
-Bitcoin rallied 5% to reclaim $80,000 as the US dollar weakened amid a suspected Bank of Japan currency intervention, though analysts remain split on the impact.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Bybit Pay integrates with Mesh to expand crypto payments
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 9/3/2026, 5:13:04 PM  
-**Categories:** Latest News  
-
-The integration lets Bybit users spend digital assets directly from their exchange balances across Mesh-powered platforms.
-
-📖 [Read original article](https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 9/3/2026, 5:06:28 PM  
-**Categories:** Latest News  
-
-The UK political party and its leader, Nigel Farage, have accepted contributions from figures tied to the crypto industry, raising questions about potential influence on policies.
-
-📖 [Read original article](https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 9/3/2026, 4:04:11 PM  
-**Categories:** Latest News  
-
-The deal will bring SoFiUSD to Kraken, connect Payward to SoFi’s 24/7 dollar settlement network and give SoFi access to digital asset liquidity through Kraken Prime.
-
-📖 [Read original article](https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
