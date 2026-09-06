@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-03"
 date: "2026-09-03"
 source: "Decrypt"
-count: 13
+count: 11
 ---
 
 # Decrypt - 2026-09-03
 
-13 items collected.
+11 items collected.
 
 ---
 
@@ -140,29 +140,5 @@ The company raised PlayStation prices for a second time in March, five weeks aft
 Kraken will list SoFiUSD and gain access to SoFi’s round-the-clock dollar settlement network, while Kraken Prime will execute trades for SoFi’s crypto customers.
 
 📖 [Read original article](https://decrypt.co/377283/sofi-banking-network-stablecoin-kraken)
-
----
-
-## 12. Morning Minute: Strategy CEO Says Selling The Bottom Was Correct Move
-
-**Author:** Tyler Warner  
-**Published:** 9/3/2026, 11:43:14 AM  
-**Categories:** , Opinion  
-
-Strategy sold millions in Bitcoin in the low $60k range and just rebought at $80k. Now they’re sharing the rationale behind the moves.
-
-📖 [Read original article](https://decrypt.co/377264/morning-minute-strategy-ceo-says-selling-the-bottom-was-correct-move)
-
----
-
-## 13. Mamdani Imposes One-Year Moratorium on Generative AI in NYC Schools
-
-**Author:** Decrypt Agent  
-**Published:** 9/3/2026, 11:36:41 AM  
-**Categories:** Artificial Intelligence  
-
-Nearly 600,000 students lose access to generative AI tools, while five named vendors keep metered pilots running in high schools.
-
-📖 [Read original article](https://decrypt.co/377253/mamdani-imposes-one-year-moratorium-on-generative-ai-in-nyc-schools)
 
 ---
