@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-03"
 date: "2026-09-03"
 source: "The Block"
-count: 7
+count: 5
 ---
 
 # The Block - 2026-09-03
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ Strive shares climbed to a year-to-date high of $26.84 on Thursday, placing the 
 Diameter Pay has raised $10 million in a Series A funding round co-led by CMT Digital and Lightspeed Faction.
 
 📖 [Read original article](https://www.theblock.co/news/deals/2026-09-03-diameter-pay-funding-stablecoin-payments-infrastructure-413454)
-
----
-
-## 6. SoFi, Payward agree to link banking network with Kraken infrastructure
-
-**Author:** Brian Danga  
-**Published:** 9/3/2026, 12:52:54 PM  
-**Categories:** Companies, Deals, Exchanges, Finance firms, Crypto Banks and Lenders, Kraken, News  
-
-SoFi Technologies partnered with Payward to connect its banking settlement network with Kraken's digital-asset infrastructure.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-03-sofi-payward-agree-to-link-banking-network-with-kraken-infrastructure-413432)
-
----
-
-## 7. Bitcoin-gold correlation hits six-year high, but analysts question whether equity decoupling will last
-
-**Author:** James Hunt  
-**Published:** 9/3/2026, 11:01:46 AM  
-**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin, News  
-
-Glassnode is less convinced by bitcoin's recent divergence from U.S. equities, saying similar moves have previously been short-lived.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-03-bitcoin-gold-correlation-hits-six-year-high-but-analysts-question-whether-equity-decoupling-will-last-413437)
 
 ---
