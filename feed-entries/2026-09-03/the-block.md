@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-03"
 date: "2026-09-03"
 source: "The Block"
-count: 8
+count: 7
 ---
 
 # The Block - 2026-09-03
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -92,17 +92,5 @@ SoFi Technologies partnered with Payward to connect its banking settlement netwo
 Glassnode is less convinced by bitcoin's recent divergence from U.S. equities, saying similar moves have previously been short-lived.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-09-03-bitcoin-gold-correlation-hits-six-year-high-but-analysts-question-whether-equity-decoupling-will-last-413437)
-
----
-
-## 8. Michigan court orders Kalshi to keep blocking sports prediction markets
-
-**Author:** Timmy Shen  
-**Published:** 9/3/2026, 4:30:32 AM  
-**Categories:** Companies, Policy, Regulation, News  
-
-The injunction converts a temporary restraining order issued in June, and violations would result in a fine of $500,000 per day.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-03-michigan-court-orders-kalshi-sports-prediction-markets-413422)
 
 ---
