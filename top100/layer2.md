@@ -6,16 +6,16 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,558 | 2,276 | Rust | 12 | A based rollup protocol for Ethereum🥁  | 2026-09-04 |
-| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,061 | 762 | Rust | 639 | The Stacks blockchain implementation | 2026-09-04 |
+| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,557 | 2,275 | Rust | 12 | A based rollup protocol for Ethereum🥁  | 2026-09-06 |
+| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,061 | 762 | Rust | 639 | The Stacks blockchain implementation | 2026-09-05 |
 | 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,551 | 332 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
 | 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,023 | 612 | - | 1895 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
 | 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 888 | 110 | - | 4 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 6 | [starknetbook](https://github.com/starknet-edu/starknetbook) | 831 | 490 | CSS | 0 | Mastering Starknet. By the Starknet community | 2024-06-20 |
-| 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 614 | 59 | JavaScript | 16 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-08-31 |
+| 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 614 | 60 | JavaScript | 16 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-08-31 |
 | 8 | [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) | 489 | 141 | C | 7 | Open source MAC Telnet client and server for connecting to Mikrotik RouterOS routers and Posix devices using MAC addresses | 2025-09-21 |
 | 9 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 470 | 52 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2023-12-24 |
-| 10 | [juno](https://github.com/NethermindEth/juno) | 445 | 242 | Go | 40 | Starknet full node designed for peak concurrency and efficiency | 2026-09-04 |
+| 10 | [juno](https://github.com/NethermindEth/juno) | 445 | 243 | Go | 41 | Starknet full node designed for peak concurrency and efficiency | 2026-09-05 |
 | 11 | [db3](https://github.com/dbpunk-labs/db3) | 385 | 43 | Rust | 18 |  a Lightweight, Permanent JSON document database | 2024-07-29 |
 | 12 | [ChainX](https://github.com/chainx-org/ChainX) | 325 | 119 | Rust | 1 | Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM  | 2025-12-18 |
 | 13 | [blockchain-roadmap](https://github.com/itublockchain/blockchain-roadmap) | 281 | 39 | - | 0 | Blockchain öğrenme yolculuğunuz için yol haritası | 2024-10-13 |
@@ -55,8 +55,8 @@
 | 47 | [tokenized-carbon-credit-marketplace](https://github.com/masaun/tokenized-carbon-credit-marketplace) | 57 | 36 | JavaScript | 0 | Tokenized-Carbon Credit Marketplace☘️ (on Polygon/Matic) | 2021-05-21 |
 | 48 | [layer2-finance-contracts](https://github.com/celer-network/layer2-finance-contracts) | 50 | 26 | Solidity | 0 | Contracts for the Layer 2 Finance DeFi aggregator, powered by optimistic rollup. | 2023-07-21 |
 | 49 | [linea-tutorials](https://github.com/Consensys/linea-tutorials) | 46 | 19 | Shell | 3 | An EVM-equivalent zk-rollup for scaling Ethereum dapps | 2024-09-24 |
-| 50 | [beamer](https://github.com/beamer-bridge/beamer) | 45 | 21 | TypeScript | 180 | Beamer - Bridging rollups with L1 inherited security | 2024-01-05 |
-| 51 | [libusipp](https://github.com/stealth/libusipp) | 44 | 10 | C++ | 0 | unix socket interface for C++ raw IP/IP6/UDP/TCP, Layer2 etc. framework | 2023-03-01 |
+| 50 | [libusipp](https://github.com/stealth/libusipp) | 45 | 10 | C++ | 0 | unix socket interface for C++ raw IP/IP6/UDP/TCP, Layer2 etc. framework | 2023-03-01 |
+| 51 | [beamer](https://github.com/beamer-bridge/beamer) | 45 | 21 | TypeScript | 180 | Beamer - Bridging rollups with L1 inherited security | 2024-01-05 |
 | 52 | [Catalyst](https://github.com/NethermindEth/Catalyst) | 44 | 18 | Rust | 60 | The preconfer sidecar for Taiko Alethia preconfirmations 🥁 | 2026-08-14 |
 | 53 | [eigen-secret](https://github.com/0xEigenLabs/eigen-secret) | 44 | 8 | TypeScript | 3 | Confidential Transaction with Collaborative Traceability, zk-zkRollup | 2023-07-14 |
 | 54 | [starkex-explorer](https://github.com/l2beat/starkex-explorer) | 41 | 14 | TypeScript | 4 | Decode calldata stored by the dYdX rollup. Perform force exits and trades. | 2026-02-23 |
