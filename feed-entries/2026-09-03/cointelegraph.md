@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-03"
 date: "2026-09-03"
 source: "Cointelegraph"
-count: 12
+count: 11
 ---
 
 # Cointelegraph - 2026-09-03
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ VARA and Securitize signed an MoU to foster more tokenization innovation in Duba
 Nvidia agreed to buy Hugging Face for $12.93 billion, gaining a platform used by more than 18 million developers to share and deploy AI models.
 
 📖 [Read original article](https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/3/2026, 10:59:34 AM  
-**Categories:** Latest News  
-
-Pencil Finance said that its first-of-a-kind loan offered financing to 6,600 students in Southeast Asia who were underserved by traditional lenders.
-
-📖 [Read original article](https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
