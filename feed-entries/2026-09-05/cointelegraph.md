@@ -2,31 +2,19 @@
 title: "Cointelegraph - 2026-09-05"
 date: "2026-09-05"
 source: "Cointelegraph"
-count: 3
+count: 2
 ---
 
 # Cointelegraph - 2026-09-05
 
-3 items collected.
+2 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Poland upholds crypto bill veto as Zondacrypto scandal widens
 
 **Author:** Cointelegraph by Helen Partz  
-**Published:** 9/5/2026, 11:16:19 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. Poland upholds crypto bill veto as Zondacrypto scandal widens
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/5/2026, 10:44:29 AM  
+**Published:** 9/5/2026, 10:46:00 AM  
 **Categories:** Latest News  
 
 Polish lawmakers failed to overturn a presidential veto of crypto legislation as the Zondacrypto investigation expands and its Estonian operator enters bankruptcy.
@@ -35,7 +23,7 @@ Polish lawmakers failed to overturn a presidential veto of crypto legislation as
 
 ---
 
-## 3. Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026
+## 2. Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/5/2026, 8:03:06 AM  
