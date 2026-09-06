@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-03"
 date: "2026-09-03"
 source: "CoinDesk"
-count: 5
+count: 4
 ---
 
 # CoinDesk - 2026-09-03
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Users paid nearly $6 million in a day to create and trade tokens through Pons, m
 Gracy Chen highlighted the world's largest asset manager as one example of such a firm seeking to expand distribution of their tokenized ETFs in the region.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution)
-
----
-
-## 5. SoFi, Kraken tie up as crypto and banking push into each other's turf
-
-**Author:** Krisztian Sandor  
-**Published:** 9/3/2026, 12:00:00 PM  
-**Categories:** Finance, SoFi, Kraken, News  
-
-Kraken is joining SoFi's settlement network and list SoFiUSD as the companies link traditional banking with crypto markets.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf)
 
 ---
