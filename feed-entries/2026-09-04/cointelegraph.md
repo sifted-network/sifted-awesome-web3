@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-04"
 date: "2026-09-04"
 source: "Cointelegraph"
-count: 10
+count: 6
 ---
 
 # Cointelegraph - 2026-09-04
 
-10 items collected.
+6 items collected.
 
 ---
 
@@ -80,53 +80,5 @@ QuFi’s new platform uses post-quantum cryptography to verify digital asset tra
 Despite earlier opposition to the CLARITY Act over consumer protection, the National Sheriffs’ Association says it will now “step back and allow the legislative process to proceed.“
 
 📖 [Read original article](https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Revolut, OpenReserve get preliminary US bank approval with crypto plans
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/4/2026, 1:34:30 PM  
-**Categories:** Latest News  
-
-Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning cryptocurrency and stablecoin-related services.
-
-📖 [Read original article](https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Token buybacks are booming. But are they good for crypto projects?
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 9/4/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Crypto projects are spending hundreds of millions buying their own tokens. But are buybacks creating lasting value — or just making tokens look more valuable than they really are?
-
-📖 [Read original article](https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Kalshi US visits soar 1,500% as regulatory pressure mounts
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/4/2026, 11:32:28 AM  
-**Categories:** Latest News  
-
-Kalshi’s US web traffic climbed more than 1,500% in less than a year, while trading volume grew even faster and legal scrutiny of its sports contracts intensified.
-
-📖 [Read original article](https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Trezor says data breach affects another 67K US customers
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/4/2026, 11:19:19 AM  
-**Categories:** Latest News  
-
-Trezor said an additional 67,000 US users were affected by its shipping provider’s data breach, opening the path to potential phishing attacks and social engineering scams.
-
-📖 [Read original article](https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
