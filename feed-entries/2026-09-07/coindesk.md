@@ -2,16 +2,100 @@
 title: "CoinDesk - 2026-09-07"
 date: "2026-09-07"
 source: "CoinDesk"
-count: 12
+count: 19
 ---
 
 # CoinDesk - 2026-09-07
 
-12 items collected.
+19 items collected.
 
 ---
 
-## 1. UK regulator weighs easing financial prediction market ban: Times
+## 1. Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders
+
+**Author:** Oliver Knight  
+**Published:** 9/7/2026, 3:44:30 PM  
+**Categories:** Finance, Memecoin, News  
+
+LAPTOP debuts Wednesday on Base, with nearly a third of the supply set to be burned if a slate of political and market outcomes — including a Democratic win in 2028 — comes good.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop)
+
+---
+
+## 2. Polish prosecutors charge fifth suspect in a massive crypto probe
+
+**Author:** Francisco Rodrigues  
+**Published:** 9/7/2026, 3:28:43 PM  
+**Categories:** Policy, Crime, News  
+
+BitBay became Zondacrypto in 2021. The exchange stopped trading in April after customers faced frozen withdrawals and estimated losses of at least $94 million.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/09/07/polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe)
+
+---
+
+## 3. Stablecoin wallets challenge traditional bank accounts as main consumer money hub
+
+**Author:** Olivier Acuna  
+**Published:** 9/7/2026, 2:12:15 PM  
+**Categories:** Finance, banks, Stablecoins, News  
+
+Industry leaders debate whether digital dollar wallets will dismantle traditional bank accounts or simply modernize the underlying infrastructure.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub)
+
+---
+
+## 4. Ethereum commits to letting users pay gas fees without having to hold ETH
+
+**Author:** Shaurya Malwa  
+**Published:** 9/7/2026, 1:54:07 PM  
+**Categories:** Tech, Ethereum News, News  
+
+The Frame Transactions feature was locked into the Hegotá upgrade last month, and Ethereum co-founder Vitalik Buterin says the work has moved quickly since.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth)
+
+---
+
+## 5. Solana to triple transaction size as apps get room for more complex trades
+
+**Author:** Shaurya Malwa  
+**Published:** 9/7/2026, 12:08:11 PM  
+**Categories:** Tech, News  
+
+A Transaction v1 feature activates Wednesday, allowing complex proofs and large multisig operations to fit in one transaction while forcing services that read Solana to update.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/09/07/solana-to-triple-transaction-size-as-apps-get-room-for-more-complex-trades)
+
+---
+
+## 6. DBS and Citi complete weekend USD payment via Swift’s Digital Ledger using tokenized deposits
+
+**Author:** Olivier Acuna  
+**Published:** 9/7/2026, 12:05:32 PM  
+**Categories:** Finance, tokenized deposits, banks, News  
+
+The transaction is the second confirmed live use of Swift's blockchain ledger, coming as the network races to prove it can compete with digital payment rails that never close.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/07/dbs-and-citi-enable-instant-24-7-cross-border-tokenised-deposit-payments-on-the-swift-ledger)
+
+---
+
+## 7. Bitcoin blinks less than gold when Treasury yields move
+
+**Author:** Omkar Godbole  
+**Published:** 9/7/2026, 11:15:00 AM  
+**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
+
+Your day-ahead look for Sept. 7, 2026
+
+📖 [Read original article](https://www.coindesk.com/daybook-us/2026/09/07/bitcoin-blinks-less-than-gold-when-treasury-yields-move)
+
+---
+
+## 8. UK regulator weighs easing financial prediction market ban: Times
 
 **Author:** Francisco Rodrigues  
 **Published:** 9/7/2026, 10:42:58 AM  
@@ -23,7 +107,7 @@ The FCA reportedly held talks with trading platforms as Britons turn to Polymark
 
 ---
 
-## 2. A two-key breach could hand control of $91 billion in USDT to hackers, report finds
+## 9. A two-key breach could hand control of $91 billion in USDT to hackers, report finds
 
 **Author:** Olivier Acuna  
 **Published:** 9/7/2026, 10:35:23 AM  
@@ -35,7 +119,7 @@ The rating agency's new framework combines Wall Street financial auditing with W
 
 ---
 
-## 3. Weekend altcoin rally runs out of road as bitcoin slips
+## 10. Weekend altcoin rally runs out of road as bitcoin slips
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 9/7/2026, 10:26:33 AM  
@@ -47,7 +131,7 @@ Bitcoin fell 1.1% since midnight UTC as Nasdaq 100 futures rose 0.3%, while the 
 
 ---
 
-## 4. Bitcoin struggles at $83,000 sell wall as whales distribution flip into net selling
+## 11. Bitcoin struggles at $83,000 'wall' as whales flip into net selling
 
 **Author:** James Van Straten  
 **Published:** 9/7/2026, 9:48:51 AM  
@@ -59,7 +143,7 @@ All wallet cohorts have shifted into net distribution for the first time since e
 
 ---
 
-## 5. Coldcard hacker moves $7.7 million in BTC, 45% of bitcoin stolen in third attack wave
+## 12. Coldcard hacker moves $7.7 million in BTC, 45% of bitcoin stolen in third attack wave
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 9/7/2026, 9:32:05 AM  
@@ -71,7 +155,7 @@ The attacker has now drained the 11 largest vaults tied to the third wave of Col
 
 ---
 
-## 6. No, Friday's jobs report hasn't materially boosted Fed rate hike odds
+## 13. No, Friday's jobs report hasn't materially boosted Fed rate hike odds
 
 **Author:** Omkar Godbole  
 **Published:** 9/7/2026, 8:38:17 AM  
@@ -83,9 +167,9 @@ BTC fell on Friday and Treasury yields rose, but the hawkish market reaction loo
 
 ---
 
-## 7. Live updates: Bitcoin holds $79,000 as hike odds climb, zcash runs 45% in a week
+## 14. Live updates: Bitcoin holds $79,000 as hike odds climb, zcash runs 45% in a week
 
-**Author:** Shaurya Malwa  
+**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole  
 **Published:** 9/7/2026, 8:17:12 AM  
 **Categories:** Finance, Live News, live_news  
 
@@ -95,7 +179,7 @@ August payrolls came in three times above forecast and pushed September hike odd
 
 ---
 
-## 8. U.S. inflation, Coinbase’s Deribit switch: Crypto Week Ahead
+## 15. U.S. inflation, Coinbase’s Deribit switch: Crypto Week Ahead
 
 **Author:** Francisco Rodrigues  
 **Published:** 9/7/2026, 8:07:05 AM  
@@ -107,7 +191,7 @@ Your look at what's coming in the week starting Sept. 7.
 
 ---
 
-## 9. Once-hyped Ethereum rival Harmony wants to shut its blockchain over AI threats
+## 16. Once-hyped Ethereum rival Harmony wants to shut its blockchain over AI threats
 
 **Author:** Shaurya Malwa  
 **Published:** 9/7/2026, 8:02:18 AM  
@@ -119,7 +203,7 @@ Developers want to voluntarily shut down the network, saying state actors and AI
 
 ---
 
-## 10. This cat memecoin has paid holders $2.8 million in Zcash as ZEC tops $1,200
+## 17. This cat memecoin has paid holders $2.8 million in Zcash as ZEC tops $1,200
 
 **Author:** Shaurya Malwa  
 **Published:** 9/7/2026, 5:52:44 AM  
@@ -131,7 +215,7 @@ A brand new ZCAT token charges a 3% tax whenever the token moves and uses the pr
 
 ---
 
-## 11. Oil up, bitcoin down as U.S. strikes Iranian crude carriers
+## 18. Oil up, bitcoin down as U.S. strikes Iranian crude carriers
 
 **Author:** Omkar Godbole  
 **Published:** 9/7/2026, 4:44:16 AM  
@@ -143,7 +227,7 @@ Bitcoin trades lower by nearly 1% as escalating U.S.-Iran hostilities push oil h
 
 ---
 
-## 12. Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'
+## 19. Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'
 
 **Author:** Omkar Godbole  
 **Published:** 9/7/2026, 3:43:12 AM  
