@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-09-07"
 date: "2026-09-07"
 source: "Cointelegraph"
-count: 8
+count: 12
 ---
 
 # Cointelegraph - 2026-09-07
 
-8 items collected.
+12 items collected.
 
 ---
 
-## 1. Citi, DBS complete first weekend tokenized cross-border deposit on Swift
+## 1. Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/7/2026, 4:42:49 PM  
+**Categories:** Latest News  
+
+Capital B’s latest Bitcoin purchase was its largest in nearly a year, pushing the French company ahead of H100 Group among publicly traded BTC holders.
+
+📖 [Read original article](https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitcoin chips away at weekend upside as $80K hangs in the balance
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 9/7/2026, 3:57:47 PM  
+**Categories:** Markets  
+
+Bitcoin price fell 2% in low-liquidity conditions as the US Labor Day holiday saw $80,000 once again slip from bulls’ grasp.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/7/2026, 12:54:14 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Zcash hits highest price since 2016 as market cap tops $20B
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/7/2026, 12:31:23 PM  
+**Categories:** Markets  
+
+ZEC gained 45% over the past week, extending its rally since Grayscale converted its Zcash Trust into an ETF that began trading Aug. 25.
+
+📖 [Read original article](https://cointelegraph.com/markets/zcash-highest-price-market-cap-20-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Yen intervention meets US inflation data: Five things to know in Bitcoin this week
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 9/7/2026, 12:10:22 PM  
+**Categories:** Markets  
+
+This week’s CPI and PPI prints, along with the Fed’s Sept. 16 rate decision, could determine whether Bitcoin can secure $80,000 as a support level.
+
+📖 [Read original article](https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Citi, DBS complete first weekend tokenized cross-border deposit on Swift
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/7/2026, 10:34:47 AM  
@@ -23,7 +83,7 @@ Citi and DBS completed their first tokenized cross-border transfer over the week
 
 ---
 
-## 2. Philippines eyes payment operator registration freeze, tighter VASP checks
+## 7. Philippines eyes payment operator registration freeze, tighter VASP checks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/7/2026, 9:51:00 AM  
@@ -35,7 +95,7 @@ A central bank proposal would pause new payment operator registrations while req
 
 ---
 
-## 3. Coldcard third-wave attacker moves 45% of stolen Bitcoin
+## 8. Coldcard third-wave attacker moves 45% of stolen Bitcoin
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/7/2026, 9:36:19 AM  
@@ -47,7 +107,7 @@ Galaxy said 82% of Bitcoin stolen across all Coldcard attacks remains in the ori
 
 ---
 
-## 4. Fomo overtakes Pump.fun in daily revenue on Solana
+## 9. Fomo overtakes Pump.fun in daily revenue on Solana
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/7/2026, 7:45:39 AM  
@@ -59,19 +119,7 @@ Fomo generated $1.76 million on Friday, beating Pump.fun’s $1.1 million, thoug
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/7/2026, 6:29:41 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC
+## 10. Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/7/2026, 5:40:05 AM  
@@ -83,7 +131,7 @@ The actors told Blockstream they would return most of the 4,000 BTC after the El
 
 ---
 
-## 7. Harmony proposes shutting down layer 1, migrating ONE to Ethereum
+## 11. Harmony proposes shutting down layer 1, migrating ONE to Ethereum
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/7/2026, 5:00:49 AM  
@@ -95,7 +143,7 @@ Harmony proposed sunsetting its layer-1 blockchain and migrating ONE to Ethereum
 
 ---
 
-## 8. ‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest
+## 12. ‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 9/7/2026, 12:05:02 AM  
