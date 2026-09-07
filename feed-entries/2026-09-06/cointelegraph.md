@@ -2,28 +2,16 @@
 title: "Cointelegraph - 2026-09-06"
 date: "2026-09-06"
 source: "Cointelegraph"
-count: 3
+count: 2
 ---
 
 # Cointelegraph - 2026-09-06
 
-3 items collected.
+2 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/6/2026, 1:24:43 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves
+## 1. Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/6/2026, 1:03:00 PM  
@@ -35,7 +23,7 @@ Whale Alert identified 12 mining rewards totaling 600 BTC that moved after 16 ye
 
 ---
 
-## 3. Tether-backed Orionx to shut down after audit flags $7M custody gap
+## 2. Tether-backed Orionx to shut down after audit flags $7M custody gap
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/6/2026, 9:07:08 AM  
