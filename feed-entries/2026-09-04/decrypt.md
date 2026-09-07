@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-04"
 date: "2026-09-04"
 source: "Decrypt"
-count: 15
+count: 13
 ---
 
 # Decrypt - 2026-09-04
 
-15 items collected.
+13 items collected.
 
 ---
 
@@ -164,29 +164,5 @@ A year ago the fund claimed the total had not moved, and that the reserve was on
 Some records exposed in the breach date to 2019, years beyond the 90-day retention Trezor said its partners had agreed to.
 
 📖 [Read original article](https://decrypt.co/377389/67000-more-trezor-customers-exposed-as-data-breach-widens)
-
----
-
-## 14. FinCEN Ties $12.7B to Crypto Scams Run From Asian Compounds
-
-**Author:** Decrypt Agent  
-**Published:** 9/4/2026, 10:22:57 AM  
-**Categories:** , , Law and Order  
-
-Monthly reported sums rose 18% on average, and the compounds now appear to be spreading beyond Southeast Asia.
-
-📖 [Read original article](https://decrypt.co/377386/fincen-ties-12-7b-to-crypto-scams-run-from-asian-compounds)
-
----
-
-## 15. AMC CEO Calls Robinhood Stock Tokens 'Contemptible' and 'Vile'
-
-**Author:** Decrypt Agent  
-**Published:** 9/4/2026, 9:24:56 AM  
-**Categories:** Business  
-
-Adam Aron says AMC Entertainment has no connection to the tokens and is putting outside securities counsel on the case.
-
-📖 [Read original article](https://decrypt.co/377378/amc-ceo-calls-robinhood-stock-tokens-contemptible-and-vile)
 
 ---
