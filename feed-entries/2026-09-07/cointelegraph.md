@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-09-07"
 date: "2026-09-07"
 source: "Cointelegraph"
-count: 12
+count: 17
 ---
 
 # Cointelegraph - 2026-09-07
 
-12 items collected.
+17 items collected.
 
 ---
 
-## 1. Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC
+## 1. UK financial watchdog weighs lifting prediction markets ban: Report
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/7/2026, 8:40:17 PM  
+**Categories:** Latest News  
+
+Companies offering binary options for retail investors have been barred from selling, marketing and distributing products in the UK since 2019 following a directive from the FCA.
+
+📖 [Read original article](https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/7/2026, 8:21:31 PM  
+**Categories:** Latest News  
+
+Ethereum’s Hegotá upgrade will center on FOCIL and Frame Transactions as developers weigh dozens of other proposed changes for inclusion.
+
+📖 [Read original article](https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/7/2026, 6:53:47 PM  
+**Categories:** Latest News  
+
+Hunter Biden will reportedly distribute 200 million of the LAPTOP token to his substack subscribers, members of a mailing list and investors in President Donald Trump’s memecoin.
+
+📖 [Read original article](https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/7/2026, 5:58:00 PM  
+**Categories:** Latest News  
+
+Polish prosecutors charged Romana Ż. with organized crime and misappropriation offenses involving $2.1 million in Zondacrypto user funds.
+
+📖 [Read original article](https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 9/7/2026, 5:29:27 PM  
+**Categories:** Markets  
+
+Bitcoin’s struggle to break $80,000 comes as markets price in a growing chance of a September rate hike, putting monetary conditions back in focus.
+
+📖 [Read original article](https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/7/2026, 4:42:49 PM  
@@ -23,7 +83,7 @@ Capital B’s latest Bitcoin purchase was its largest in nearly a year, pushing 
 
 ---
 
-## 2. Bitcoin chips away at weekend upside as $80K hangs in the balance
+## 7. Bitcoin chips away at weekend upside as $80K hangs in the balance
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/7/2026, 3:57:47 PM  
@@ -35,7 +95,7 @@ Bitcoin price fell 2% in low-liquidity conditions as the US Labor Day holiday sa
 
 ---
 
-## 3. Here’s what happened in crypto today
+## 8. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/7/2026, 12:54:14 PM  
@@ -47,7 +107,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 4. Zcash hits highest price since 2016 as market cap tops $20B
+## 9. Zcash hits highest price since 2016 as market cap tops $20B
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/7/2026, 12:31:23 PM  
@@ -59,7 +119,7 @@ ZEC gained 45% over the past week, extending its rally since Grayscale converted
 
 ---
 
-## 5. Yen intervention meets US inflation data: Five things to know in Bitcoin this week
+## 10. Yen intervention meets US inflation data: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/7/2026, 12:10:22 PM  
@@ -71,7 +131,7 @@ This week’s CPI and PPI prints, along with the Fed’s Sept. 16 rate decision,
 
 ---
 
-## 6. Citi, DBS complete first weekend tokenized cross-border deposit on Swift
+## 11. Citi, DBS complete first weekend tokenized cross-border deposit on Swift
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/7/2026, 10:34:47 AM  
@@ -83,7 +143,7 @@ Citi and DBS completed their first tokenized cross-border transfer over the week
 
 ---
 
-## 7. Philippines eyes payment operator registration freeze, tighter VASP checks
+## 12. Philippines eyes payment operator registration freeze, tighter VASP checks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/7/2026, 9:51:00 AM  
@@ -95,7 +155,7 @@ A central bank proposal would pause new payment operator registrations while req
 
 ---
 
-## 8. Coldcard third-wave attacker moves 45% of stolen Bitcoin
+## 13. Coldcard third-wave attacker moves 45% of stolen Bitcoin
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/7/2026, 9:36:19 AM  
@@ -107,7 +167,7 @@ Galaxy said 82% of Bitcoin stolen across all Coldcard attacks remains in the ori
 
 ---
 
-## 9. Fomo overtakes Pump.fun in daily revenue on Solana
+## 14. Fomo overtakes Pump.fun in daily revenue on Solana
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/7/2026, 7:45:39 AM  
@@ -119,7 +179,7 @@ Fomo generated $1.76 million on Friday, beating Pump.fun’s $1.1 million, thoug
 
 ---
 
-## 10. Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC
+## 15. Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/7/2026, 5:40:05 AM  
@@ -131,7 +191,7 @@ The actors told Blockstream they would return most of the 4,000 BTC after the El
 
 ---
 
-## 11. Harmony proposes shutting down layer 1, migrating ONE to Ethereum
+## 16. Harmony proposes shutting down layer 1, migrating ONE to Ethereum
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/7/2026, 5:00:49 AM  
@@ -143,7 +203,7 @@ Harmony proposed sunsetting its layer-1 blockchain and migrating ONE to Ethereum
 
 ---
 
-## 12. ‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest
+## 17. ‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 9/7/2026, 12:05:02 AM  
