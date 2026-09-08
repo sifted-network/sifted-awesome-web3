@@ -2,28 +2,16 @@
 title: "Cointelegraph - 2026-09-07"
 date: "2026-09-07"
 source: "Cointelegraph"
-count: 17
+count: 16
 ---
 
 # Cointelegraph - 2026-09-07
 
-17 items collected.
+16 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 9/7/2026, 9:10:37 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. UK financial watchdog weighs lifting prediction markets ban: Report
+## 1. UK financial watchdog weighs lifting prediction markets ban: Report
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/7/2026, 8:40:17 PM  
@@ -35,7 +23,7 @@ Companies offering binary options for retail investors have been barred from sel
 
 ---
 
-## 3. Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade
+## 2. Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/7/2026, 8:21:31 PM  
@@ -47,7 +35,7 @@ Ethereum’s Hegotá upgrade will center on FOCIL and Frame Transactions as deve
 
 ---
 
-## 4. Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ
+## 3. Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/7/2026, 6:53:47 PM  
@@ -59,7 +47,7 @@ Hunter Biden will reportedly distribute 200 million of the LAPTOP token to his s
 
 ---
 
-## 5. Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention
+## 4. Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/7/2026, 5:58:00 PM  
@@ -71,7 +59,7 @@ Polish prosecutors charged Romana Ż. with organized crime and misappropriation 
 
 ---
 
-## 6. Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares
+## 5. Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/7/2026, 5:29:27 PM  
@@ -83,7 +71,7 @@ Bitcoin’s struggle to break $80,000 comes as markets price in a growing chance
 
 ---
 
-## 7. Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC
+## 6. Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/7/2026, 4:42:49 PM  
@@ -95,7 +83,7 @@ Capital B’s latest Bitcoin purchase was its largest in nearly a year, pushing 
 
 ---
 
-## 8. Bitcoin chips away at weekend upside as $80K hangs in the balance
+## 7. Bitcoin chips away at weekend upside as $80K hangs in the balance
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/7/2026, 3:57:47 PM  
@@ -107,7 +95,7 @@ Bitcoin price fell 2% in low-liquidity conditions as the US Labor Day holiday sa
 
 ---
 
-## 9. Zcash hits highest price since 2016 as market cap tops $20B
+## 8. Zcash hits highest price since 2016 as market cap tops $20B
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/7/2026, 12:31:23 PM  
@@ -119,7 +107,7 @@ ZEC gained 45% over the past week, extending its rally since Grayscale converted
 
 ---
 
-## 10. Yen intervention meets US inflation data: Five things to know in Bitcoin this week
+## 9. Yen intervention meets US inflation data: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/7/2026, 12:10:22 PM  
@@ -131,7 +119,7 @@ This week’s CPI and PPI prints, along with the Fed’s Sept. 16 rate decision,
 
 ---
 
-## 11. Citi, DBS complete first weekend tokenized cross-border deposit on Swift
+## 10. Citi, DBS complete first weekend tokenized cross-border deposit on Swift
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/7/2026, 10:34:47 AM  
@@ -143,7 +131,7 @@ Citi and DBS completed their first tokenized cross-border transfer over the week
 
 ---
 
-## 12. Philippines eyes payment operator registration freeze, tighter VASP checks
+## 11. Philippines eyes payment operator registration freeze, tighter VASP checks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/7/2026, 9:51:00 AM  
@@ -155,7 +143,7 @@ A central bank proposal would pause new payment operator registrations while req
 
 ---
 
-## 13. Coldcard third-wave attacker moves 45% of stolen Bitcoin
+## 12. Coldcard third-wave attacker moves 45% of stolen Bitcoin
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/7/2026, 9:36:19 AM  
@@ -167,7 +155,7 @@ Galaxy said 82% of Bitcoin stolen across all Coldcard attacks remains in the ori
 
 ---
 
-## 14. Fomo overtakes Pump.fun in daily revenue on Solana
+## 13. Fomo overtakes Pump.fun in daily revenue on Solana
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/7/2026, 7:45:39 AM  
@@ -179,7 +167,7 @@ Fomo generated $1.76 million on Friday, beating Pump.fun’s $1.1 million, thoug
 
 ---
 
-## 15. Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC
+## 14. Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/7/2026, 5:40:05 AM  
@@ -191,7 +179,7 @@ The actors told Blockstream they would return most of the 4,000 BTC after the El
 
 ---
 
-## 16. Harmony proposes shutting down layer 1, migrating ONE to Ethereum
+## 15. Harmony proposes shutting down layer 1, migrating ONE to Ethereum
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/7/2026, 5:00:49 AM  
@@ -203,7 +191,7 @@ Harmony proposed sunsetting its layer-1 blockchain and migrating ONE to Ethereum
 
 ---
 
-## 17. ‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest
+## 16. ‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 9/7/2026, 12:05:02 AM  
