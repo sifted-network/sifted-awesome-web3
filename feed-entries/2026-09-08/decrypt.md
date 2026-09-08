@@ -2,16 +2,64 @@
 title: "Decrypt - 2026-09-08"
 date: "2026-09-08"
 source: "Decrypt"
-count: 7
+count: 11
 ---
 
 # Decrypt - 2026-09-08
 
-7 items collected.
+11 items collected.
 
 ---
 
-## 1. US Police Fear Meta Glasses Are Watching Them Back: Report
+## 1. Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/8/2026, 6:59:35 PM  
+**Categories:** , Markets  
+
+Bitcoin is defending its golden zone support while the S&#038;P 500 grinds inside its tightest range yet, both waiting on Friday's inflation report before the Fed's September 16 rate call.
+
+📖 [Read original article](https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike)
+
+---
+
+## 2. Visa Taps Onchain Lending to Finance Stablecoin Card Programs
+
+**Author:** Jason Nelson  
+**Published:** 9/8/2026, 6:16:04 PM  
+**Categories:** , Coins  
+
+The payment processor giant is pairing payment settlement data with blockchain lending tools to help fintechs and stablecoin-linked card programs access working capital.
+
+📖 [Read original article](https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card)
+
+---
+
+## 3. Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/8/2026, 5:46:05 PM  
+**Categories:** , Business  
+
+The Vivek Ramaswamy-founded asset manager added 1,375 BTC last week, its third straight week of 5%-plus growth.
+
+📖 [Read original article](https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion)
+
+---
+
+## 4. Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit
+
+**Author:** Jason Nelson  
+**Published:** 9/8/2026, 5:10:51 PM  
+**Categories:** DeFi  
+
+The rollback reversed legitimate activity alongside the attack, while $9.19 million remains unrecovered, according to Cronos.
+
+📖 [Read original article](https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit)
+
+---
+
+## 5. US Police Fear Meta Glasses Are Watching Them Back: Report
 
 **Author:** Decrypt Agent  
 **Published:** 9/8/2026, 3:28:43 PM  
@@ -23,7 +71,7 @@ Memos from the NYPD to Homeland Security warn the devices could be used for cove
 
 ---
 
-## 2. Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets
+## 6. Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/8/2026, 3:25:16 PM  
@@ -35,7 +83,7 @@ The multi-year deal makes OG.com the infrastructure and clearing engine behind R
 
 ---
 
-## 3. Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH
+## 7. Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH
 
 **Author:** Jason Nelson  
 **Published:** 9/8/2026, 3:04:44 PM  
@@ -47,7 +95,7 @@ The company says it holds roughly 4.9% of Ethereum’s supply, with most of its 
 
 ---
 
-## 4. Strategy's Return to Bitcoin Buying Lasted Exactly One Week
+## 8. Strategy's Return to Bitcoin Buying Lasted Exactly One Week
 
 **Author:** Decrypt Agent  
 **Published:** 9/8/2026, 1:57:16 PM  
@@ -59,7 +107,7 @@ The Bitcoin treasury firm spent $176.3 million on its own preferred stock, and d
 
 ---
 
-## 5. Morning Minute: The Trenches Just Had Their Biggest Week Since TRUMP
+## 9. Morning Minute: The Trenches Just Had Their Biggest Week Since TRUMP
 
 **Author:** Tyler Warner  
 **Published:** 9/8/2026, 1:06:33 PM  
@@ -71,7 +119,7 @@ Is it a warning sign for a local top? Or is the onchain party just getting start
 
 ---
 
-## 6. What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders
+## 10. What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders
 
 **Author:** Decrypt Agent  
 **Published:** 9/8/2026, 11:33:50 AM  
@@ -83,7 +131,7 @@ The LAPTOP token launches in September on Base, with a fifth of the supply earma
 
 ---
 
-## 7. Polish Court Detains Fifth Suspect in Zondacrypto Exchange Probe
+## 11. Polish Court Detains Fifth Suspect in Zondacrypto Exchange Probe
 
 **Author:** Decrypt Agent  
 **Published:** 9/8/2026, 9:54:59 AM  
