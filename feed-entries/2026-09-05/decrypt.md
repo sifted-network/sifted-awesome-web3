@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-05"
 date: "2026-09-05"
 source: "Decrypt"
-count: 4
+count: 2
 ---
 
 # Decrypt - 2026-09-05
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ At least four more decade-old wallets moved a combined $15.7 million between Aug
 Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.
 
 📖 [Read original article](https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks)
-
----
-
-## 3. Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using
-
-**Author:** Jason Nelson  
-**Published:** 9/5/2026, 3:01:04 PM  
-**Categories:** Technology  
-
-The update fixes a high-severity flaw in Chrome’s V8 engine, but Google has not revealed who is using it or whom they targeted.
-
-📖 [Read original article](https://decrypt.co/377501/google-chrome-zero-day-exploited)
-
----
-
-## 4. AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/5/2026, 1:01:03 PM  
-**Categories:** Artificial Intelligence  
-
-Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required
-
-📖 [Read original article](https://decrypt.co/377491/ai-solved-350-year-old-math-problem)
 
 ---
