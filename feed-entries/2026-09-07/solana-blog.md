@@ -11,7 +11,7 @@ count: 1
 
 ---
 
-## 1. # How BitRobot Crowdsources Real-World Data for Embodied AI, with Jonathan Victor
+## 1. How BitRobot Crowdsources Real-World Data for Embodied AI, with Jonathan Victor
 
 **Author:** -  
 **Published:** 9/7/2026, 7:00:00 AM  
