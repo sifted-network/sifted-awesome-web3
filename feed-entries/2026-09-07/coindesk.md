@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-07"
 date: "2026-09-07"
 source: "CoinDesk"
-count: 20
+count: 17
 ---
 
 # CoinDesk - 2026-09-07
 
-20 items collected.
+17 items collected.
 
 ---
 
@@ -212,41 +212,5 @@ Your look at what's coming in the week starting Sept. 7.
 Developers want to voluntarily shut down the network, saying state actors and AI agents have made security too difficult, then redirect ONE emissions into an AI video business.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats)
-
----
-
-## 18. This cat memecoin has paid holders $2.8 million in Zcash as ZEC tops $1,200
-
-**Author:** Shaurya Malwa  
-**Published:** 9/7/2026, 5:52:44 AM  
-**Categories:** Markets, News  
-
-A brand new ZCAT token charges a 3% tax whenever the token moves and uses the proceeds to distribute ZEC to holders, creating an unusual link to one of crypto's hottest assets.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/07/this-cat-memecoin-has-paid-holders-usd2-8-million-in-zcash-as-zec-tops-usd1-200)
-
----
-
-## 19. Oil up, bitcoin down as U.S. strikes Iranian crude carriers
-
-**Author:** Omkar Godbole  
-**Published:** 9/7/2026, 4:44:16 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin trades lower by nearly 1% as escalating U.S.-Iran hostilities push oil higher.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/07/oil-up-bitcoin-down-as-u-s-strikes-iranian-crude-carriers)
-
----
-
-## 20. Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'
-
-**Author:** Omkar Godbole  
-**Published:** 9/7/2026, 3:43:12 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Liquid Network, a settlement layer used by exchanges, halted all transactions after losing $320 million worth of bitcoin in a security exploit.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys)
 
 ---
