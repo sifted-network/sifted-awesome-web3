@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-09-07"
 date: "2026-09-07"
 source: "Decrypt"
-count: 12
+count: 14
 ---
 
 # Decrypt - 2026-09-07
 
-12 items collected.
+14 items collected.
 
 ---
 
-## 1. Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold
+## 1. Your LG TV Might Still Be Listening to You—Even When It Looks Like It’s Off
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/7/2026, 9:46:04 PM  
+**Categories:** Technology  
+
+A Gamers Nexus investigation found LG sets scanning every device on a home network and capturing microphone audio with the screen off, four months after LG promised Texas regulators it had cleaned up its tracking.
+
+📖 [Read original article](https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off)
+
+---
+
+## 2. OpenAI Chief Scientist Warns AI Labs May Need to Slow Down
+
+**Author:** Jason Nelson  
+**Published:** 9/7/2026, 9:16:03 PM  
+**Categories:** Artificial Intelligence  
+
+Jakub Pachocki is calling for mandatory safety standards as OpenAI finds it harder to monitor advanced AI models’ reasoning.
+
+📖 [Read original article](https://decrypt.co/377635/openai-chief-scientist-warns-ai-slow-down)
+
+---
+
+## 3. Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/7/2026, 8:31:03 PM  
@@ -23,7 +47,7 @@ Itaú, Nubank, and Banco do Brasil now sell more than a dozen tokens each to ret
 
 ---
 
-## 2. Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin?
+## 4. Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin?
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/7/2026, 7:47:27 PM  
@@ -35,7 +59,7 @@ Biden's LAPTOP meme coin drops this week. Most crypto traders out there so far d
 
 ---
 
-## 3. Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million
+## 5. Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million
 
 **Author:** Jason Nelson  
 **Published:** 9/7/2026, 7:13:56 PM  
@@ -47,7 +71,7 @@ Nearly 600 BTC remains outstanding after Blockstream told the actors in an on-ch
 
 ---
 
-## 4. Middle East Crypto Activity Triples to $350 Billion Amid Ongoing Conflict, Report Finds
+## 6. Middle East Crypto Activity Triples to $350 Billion Amid Ongoing Conflict, Report Finds
 
 **Author:** Jason Nelson  
 **Published:** 9/7/2026, 6:16:04 PM  
@@ -59,7 +83,7 @@ The Iran conflict has increased demand for digital assets to preserve and transf
 
 ---
 
-## 5. Malone Lam Faces Plea Hearing Over $245M Bitcoin Theft
+## 7. Malone Lam Faces Plea Hearing Over $245M Bitcoin Theft
 
 **Author:** Decrypt Agent  
 **Published:** 9/7/2026, 5:41:55 PM  
@@ -71,7 +95,7 @@ A plea agreement hearing in Lam's case is set for Tuesday in Washington, nearly 
 
 ---
 
-## 6. Hunter Biden to Airdrop LAPTOP Meme Coin to TRUMP’s Biggest Losers
+## 8. Hunter Biden to Airdrop LAPTOP Meme Coin to TRUMP’s Biggest Losers
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/7/2026, 4:26:00 PM  
@@ -83,7 +107,7 @@ Hunter Biden is launching a meme coin called LAPTOP on Sept. 9 on Base, and aird
 
 ---
 
-## 7. Harmony Cites AI Threats in Proposed Blockchain Shutdown
+## 9. Harmony Cites AI Threats in Proposed Blockchain Shutdown
 
 **Author:** Jason Nelson  
 **Published:** 9/7/2026, 4:16:48 PM  
@@ -95,7 +119,7 @@ The team wants to move ONE to Ethereum and enter the AI-video business, urging u
 
 ---
 
-## 8. Bitcoin Starts the Week Flat, But Chainlink Is Flying—Here's Why
+## 10. Bitcoin Starts the Week Flat, But Chainlink Is Flying—Here's Why
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/7/2026, 3:42:34 PM  
@@ -107,7 +131,7 @@ LINK hit an eight-month high after Bottomline, a top-three SWIFT services provid
 
 ---
 
-## 9. Ethereum Proposal Would Let Users Pay Gas Without Holding ETH
+## 11. Ethereum Proposal Would Let Users Pay Gas Without Holding ETH
 
 **Author:** Decrypt Agent  
 **Published:** 9/7/2026, 3:03:44 PM  
@@ -119,7 +143,7 @@ EIP-8141 has been a draft since January, and its authors pitch it first as a def
 
 ---
 
-## 10. Irish Gangs Are Renting Private Vaults to Hide Crypto Keys
+## 12. Irish Gangs Are Renting Private Vaults to Hide Crypto Keys
 
 **Author:** Decrypt Agent  
 **Published:** 9/7/2026, 12:43:50 PM  
@@ -131,7 +155,7 @@ Keys are going into rented boxes alongside cash, watches and passports, Ireland�
 
 ---
 
-## 11. Coldcard Hacker Moves $7.7M, Nearly Half of Third-Wave Bitcoin Haul
+## 13. Coldcard Hacker Moves $7.7M, Nearly Half of Third-Wave Bitcoin Haul
 
 **Author:** Decrypt Agent  
 **Published:** 9/7/2026, 11:09:27 AM  
@@ -143,7 +167,7 @@ The attacker built 293 separate vaults for the stolen Bitcoin and is emptying th
 
 ---
 
-## 12. 'Purported White-Hat Hackers' Withdraw $320M in Bitcoin From Liquid
+## 14. 'Purported White-Hat Hackers' Withdraw $320M in Bitcoin From Liquid
 
 **Author:** Decrypt Agent  
 **Published:** 9/7/2026, 9:55:42 AM  
