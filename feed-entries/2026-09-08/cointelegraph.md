@@ -2,16 +2,88 @@
 title: "Cointelegraph - 2026-09-08"
 date: "2026-09-08"
 source: "Cointelegraph"
-count: 9
+count: 14
 ---
 
 # Cointelegraph - 2026-09-08
 
-9 items collected.
+14 items collected.
 
 ---
 
-## 1. Uzbekistan begins government bond-backed stablecoin payment pilot
+## 1. Bitmine buys 28k ETH, completes 97% of treasury accumulation goal
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/8/2026, 1:51:04 PM  
+**Categories:** Latest News  
+
+While Bitmine’s completed 97% of its goal to acquire 5% of Ether’s supply, Tom Lee’s team faces a $5.1 billion unrealized loss on its main treasury asset.
+
+📖 [Read original article](https://cointelegraph.com/news/bitmine-buys-28k-eth-completes-97-treasury-goal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Is Bitcoin too volatile to risk your retirement on?
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 9/8/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+Bitcoin believers see it as an almost certain long-term investment, but retirement demands a different approach. How much crypto exposure is too much for your retirement account?
+
+📖 [Read original article](https://cointelegraph.com/magazine/is-bitcoin-too-volatile-to-risk-your-retirement-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/8/2026, 1:24:08 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/8/2026, 12:51:00 PM  
+**Categories:** Latest News  
+
+Strategy repurchased $176 million worth of its STRC preferred stock and doubled the size of its digital securities repurchase program to $2 billion, while pausing on new Bitcoin buys.
+
+📖 [Read original article](https://cointelegraph.com/news/strategy-skips-bitcoin-buy-repurchase-176m-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Mexico quadruple homicide tied to alleged Bitcoin robbery attempt
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/8/2026, 12:41:14 PM  
+**Categories:** Latest News  
+
+Two suspects face a Wednesday hearing over four killings allegedly linked to a crypto wallet believed to hold millions of dollars in Bitcoin.
+
+📖 [Read original article](https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Circle to acquire Tazapay to expand USDC cross-border payments
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/8/2026, 11:33:14 AM  
+**Categories:** Latest News  
+
+Tazapay processes $25 billion in annualized volume and offers payout rails across 100-plus markets, extending Circle’s USDC payments reach.
+
+📖 [Read original article](https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Uzbekistan begins government bond-backed stablecoin payment pilot
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/8/2026, 10:07:10 AM  
@@ -23,7 +95,7 @@ Humo Digital will test HUMO payments with more than 20 merchants under a sandbox
 
 ---
 
-## 2. Ledger CTO urges AI bug hunter responsibility, warns against ‘attention farming’
+## 8. Ledger CTO urges AI bug hunter responsibility, warns against ‘attention farming’
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/8/2026, 10:03:30 AM  
@@ -35,10 +107,10 @@ Ledger and Trezor said researchers have a responsibility to publish their findin
 
 ---
 
-## 3. Robinhood chain to generate $160M in annual fees by 2028: Bernstein
+## 9. Robinhood chain to generate $160M in annual fees by 2028: Bernstein
 
 **Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/8/2026, 9:54:40 AM  
+**Published:** 9/8/2026, 9:56:00 AM  
 **Categories:** Latest News  
 
 Growing demand for tokenized stock trading may drive the Robinhood chain’s annual fees to $160 million by 2028, predicted analysts from Bernstein.
@@ -47,7 +119,7 @@ Growing demand for tokenized stock trading may drive the Robinhood chain’s ann
 
 ---
 
-## 4. New Bitcoin whales spark sell-side risk as unrealized gains hit $9B
+## 10. New Bitcoin whales spark sell-side risk as unrealized gains hit $9B
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/8/2026, 9:40:26 AM  
@@ -59,7 +131,7 @@ Unrealized gains by whale speculators hit their highest levels on record last we
 
 ---
 
-## 5. Cronos confirms $9.2M slipped away before Tectonic exploit rollback
+## 11. Cronos confirms $9.2M slipped away before Tectonic exploit rollback
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/8/2026, 8:10:44 AM  
@@ -71,7 +143,7 @@ Cronos’s post-mortem put the Tectonic exploit’s affected borrowing at $120.4
 
 ---
 
-## 6. Swiss stablecoin sandbox enters testing phase, adds two new partners
+## 12. Swiss stablecoin sandbox enters testing phase, adds two new partners
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/8/2026, 7:18:32 AM  
@@ -83,19 +155,7 @@ Financial market operator SIX and payment app TWINT have joined numerous banks i
 
 ---
 
-## 7. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/8/2026, 5:52:38 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Australia says it removed 45 crypto, remittance registrations over the past year
+## 13. Australia says it removed 45 crypto, remittance registrations over the past year
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/8/2026, 5:10:33 AM  
@@ -107,7 +167,7 @@ AUSTRAC said its yearlong sweep included canceled, suspended and unrenewed regis
 
 ---
 
-## 9. Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart
+## 14. Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/8/2026, 3:46:17 AM  
