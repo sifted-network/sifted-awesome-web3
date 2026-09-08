@@ -11,7 +11,19 @@ count: 17
 
 ---
 
-## 1. UK financial watchdog weighs lifting prediction markets ban: Report
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 9/7/2026, 9:10:37 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. UK financial watchdog weighs lifting prediction markets ban: Report
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/7/2026, 8:40:17 PM  
@@ -23,7 +35,7 @@ Companies offering binary options for retail investors have been barred from sel
 
 ---
 
-## 2. Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade
+## 3. Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/7/2026, 8:21:31 PM  
@@ -35,7 +47,7 @@ Ethereum’s Hegotá upgrade will center on FOCIL and Frame Transactions as deve
 
 ---
 
-## 3. Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ
+## 4. Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/7/2026, 6:53:47 PM  
@@ -47,7 +59,7 @@ Hunter Biden will reportedly distribute 200 million of the LAPTOP token to his s
 
 ---
 
-## 4. Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention
+## 5. Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/7/2026, 5:58:00 PM  
@@ -59,7 +71,7 @@ Polish prosecutors charged Romana Ż. with organized crime and misappropriation 
 
 ---
 
-## 5. Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares
+## 6. Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/7/2026, 5:29:27 PM  
@@ -71,7 +83,7 @@ Bitcoin’s struggle to break $80,000 comes as markets price in a growing chance
 
 ---
 
-## 6. Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC
+## 7. Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/7/2026, 4:42:49 PM  
@@ -83,7 +95,7 @@ Capital B’s latest Bitcoin purchase was its largest in nearly a year, pushing 
 
 ---
 
-## 7. Bitcoin chips away at weekend upside as $80K hangs in the balance
+## 8. Bitcoin chips away at weekend upside as $80K hangs in the balance
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/7/2026, 3:57:47 PM  
@@ -92,18 +104,6 @@ Capital B’s latest Bitcoin purchase was its largest in nearly a year, pushing 
 Bitcoin price fell 2% in low-liquidity conditions as the US Labor Day holiday saw $80,000 once again slip from bulls’ grasp.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/7/2026, 12:54:14 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
