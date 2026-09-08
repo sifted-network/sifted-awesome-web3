@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-07"
 date: "2026-09-07"
 source: "CoinDesk"
-count: 6
+count: 5
 ---
 
 # CoinDesk - 2026-09-07
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ Industry leaders debate whether digital dollar wallets will dismantle traditiona
 The Frame Transactions feature was locked into the Hegotá upgrade last month, and Ethereum co-founder Vitalik Buterin says the work has moved quickly since.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth)
-
----
-
-## 6. Solana to triple transaction size as apps get room for more complex trades
-
-**Author:** Shaurya Malwa  
-**Published:** 9/7/2026, 12:08:11 PM  
-**Categories:** Tech, News  
-
-A Transaction v1 feature activates Wednesday, allowing complex proofs and large multisig operations to fit in one transaction while forcing services that read Solana to update.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/07/solana-to-triple-transaction-size-as-apps-get-room-for-more-complex-trades)
 
 ---
