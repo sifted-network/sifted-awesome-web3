@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-07"
 date: "2026-09-07"
 source: "Cointelegraph"
-count: 16
+count: 12
 ---
 
 # Cointelegraph - 2026-09-07
 
-16 items collected.
+12 items collected.
 
 ---
 
@@ -152,53 +152,5 @@ A central bank proposal would pause new payment operator registrations while req
 Galaxy said 82% of Bitcoin stolen across all Coldcard attacks remains in the original addresses, with 18% moved in apparent laundering.
 
 📖 [Read original article](https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Fomo overtakes Pump.fun in daily revenue on Solana
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/7/2026, 7:45:39 AM  
-**Categories:** Latest News  
-
-Fomo generated $1.76 million on Friday, beating Pump.fun’s $1.1 million, though the memecoin launchpad remains ahead over 30 days.
-
-📖 [Read original article](https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/7/2026, 5:40:05 AM  
-**Categories:** Latest News  
-
-The actors told Blockstream they would return most of the 4,000 BTC after the Elements vulnerability is patched across the network.
-
-📖 [Read original article](https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Harmony proposes shutting down layer 1, migrating ONE to Ethereum
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/7/2026, 5:00:49 AM  
-**Categories:** Latest News  
-
-Harmony proposed sunsetting its layer-1 blockchain and migrating ONE to Ethereum, weeks after an exploit led to plans to discard 109,000 transactions.
-
-📖 [Read original article](https://cointelegraph.com/news/harmony-proposes-shutting-down-layer-1-migrating-one-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. ‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest
-
-**Author:** Cointelegraph by Andrew Fenton  
-**Published:** 9/7/2026, 12:05:02 AM  
-**Categories:** Magazine  
-
-Purported white hat hackers have taken 4000 Bitcoin from the Liquid sidechain in a major security breach. The Bitcoin ETFs see the best three weeks of inflows in 2026.
-
-📖 [Read original article](https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
