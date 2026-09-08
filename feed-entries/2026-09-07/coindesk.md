@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-07"
 date: "2026-09-07"
 source: "CoinDesk"
-count: 17
+count: 6
 ---
 
 # CoinDesk - 2026-09-07
 
-17 items collected.
+6 items collected.
 
 ---
 
@@ -80,137 +80,5 @@ The Frame Transactions feature was locked into the Hegotá upgrade last month, a
 A Transaction v1 feature activates Wednesday, allowing complex proofs and large multisig operations to fit in one transaction while forcing services that read Solana to update.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/09/07/solana-to-triple-transaction-size-as-apps-get-room-for-more-complex-trades)
-
----
-
-## 7. DBS and Citi complete weekend USD payment via Swift’s Digital Ledger using tokenized deposits
-
-**Author:** Olivier Acuna  
-**Published:** 9/7/2026, 12:05:32 PM  
-**Categories:** Finance, tokenized deposits, banks, News  
-
-The transaction is the second confirmed live use of Swift's blockchain ledger, coming as the network races to prove it can compete with digital payment rails that never close.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/07/dbs-and-citi-enable-instant-24-7-cross-border-tokenised-deposit-payments-on-the-swift-ledger)
-
----
-
-## 8. Bitcoin blinks less than gold when Treasury yields move
-
-**Author:** Omkar Godbole  
-**Published:** 9/7/2026, 11:15:00 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Sept. 7, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/09/07/bitcoin-blinks-less-than-gold-when-treasury-yields-move)
-
----
-
-## 9. UK regulator weighs easing financial prediction market ban: Times
-
-**Author:** Francisco Rodrigues  
-**Published:** 9/7/2026, 10:42:58 AM  
-**Categories:** Policy, UK, Prediction Markets, News  
-
-The FCA reportedly held talks with trading platforms as Britons turn to Polymarket and Kalshi, though its public position still supports the ban.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/09/07/uk-regulator-weighs-easing-financial-prediction-market-ban-times)
-
----
-
-## 10. A two-key breach could hand control of $91 billion in USDT to hackers, report finds
-
-**Author:** Olivier Acuna  
-**Published:** 9/7/2026, 10:35:23 AM  
-**Categories:** Tech, Tether, Tron, Stablecoins, News  
-
-The rating agency's new framework combines Wall Street financial auditing with Web3 code reviews to evaluate both off-chain reserves and on-chain security.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/04/tether-receives-bluechip-rating-upgrade-but-hacken-finds-major-key-security-gaps)
-
----
-
-## 11. Weekend altcoin rally runs out of road as bitcoin slips
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 9/7/2026, 10:26:33 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin fell 1.1% since midnight UTC as Nasdaq 100 futures rose 0.3%, while the weekend's double-digit altcoin gains stalled.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/07/weekend-altcoin-rally-runs-out-of-road-as-bitcoin-slips)
-
----
-
-## 12. Bitcoin struggles at $83,000 'wall' as whales flip into net selling
-
-**Author:** James Van Straten  
-**Published:** 9/7/2026, 9:48:51 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-All wallet cohorts have shifted into net distribution for the first time since early June, but a potential golden cross offers bulls some hope.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/07/bitcoin-investors-turn-to-selling-as-usd83-000-resistance-holds)
-
----
-
-## 13. Coldcard hacker moves $7.7 million in BTC, 45% of bitcoin stolen in third attack wave
-
-**Author:** Francisco Rodrigues,AI Boost  
-**Published:** 9/7/2026, 9:32:05 AM  
-**Categories:** Finance, Bitcoin News, News  
-
-The attacker has now drained the 11 largest vaults tied to the third wave of Coldcard thefts, Galaxy Research said.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/07/coldcard-hacker-moves-45-of-bitcoin-stolen-in-third-attack-wave)
-
----
-
-## 14. No, Friday's jobs report hasn't materially boosted Fed rate hike odds
-
-**Author:** Omkar Godbole  
-**Published:** 9/7/2026, 8:38:17 AM  
-**Categories:** Markets, Federal Reserve, News  
-
-BTC fell on Friday and Treasury yields rose, but the hawkish market reaction looks overdone when compared to the largely steady Fed rate hike odds.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/07/no-friday-s-jobs-report-hasn-t-materially-boost-fed-rate-hike-odds)
-
----
-
-## 15. Live updates: Bitcoin holds $79,000 as hike odds climb, zcash runs 45% in a week
-
-**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole  
-**Published:** 9/7/2026, 8:17:12 AM  
-**Categories:** Finance, Live News, live_news  
-
-August payrolls came in three times above forecast and pushed September hike odds toward 58%. Equities sold it and crypto has not.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/07/live-updates-bitcoin-holds-usd79-000-as-hike-odds-climb-zcash-runs-45-in-a-week)
-
----
-
-## 16. U.S. inflation, Coinbase’s Deribit switch: Crypto Week Ahead
-
-**Author:** Francisco Rodrigues  
-**Published:** 9/7/2026, 8:07:05 AM  
-**Categories:** Markets, week ahead, News  
-
-Your look at what's coming in the week starting Sept. 7.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/07/u-s-inflation-coinbase-s-deribit-switch-crypto-week-ahead)
-
----
-
-## 17. Once-hyped Ethereum rival Harmony wants to shut its blockchain over AI threats
-
-**Author:** Shaurya Malwa  
-**Published:** 9/7/2026, 8:02:18 AM  
-**Categories:** Markets, News  
-
-Developers want to voluntarily shut down the network, saying state actors and AI agents have made security too difficult, then redirect ONE emissions into an AI video business.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats)
 
 ---
