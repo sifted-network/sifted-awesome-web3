@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-09-08"
 date: "2026-09-08"
 source: "CoinDesk"
-count: 19
+count: 20
 ---
 
 # CoinDesk - 2026-09-08
 
-19 items collected.
+20 items collected.
 
 ---
 
-## 1. Circle agrees to buy cross-border payments firm Tazapay for $400 million
+## 1. Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month
+
+**Author:** Ian Allison  
+**Published:** 9/8/2026, 3:23:46 PM  
+**Categories:** Finance, Custody, News  
+
+Kuchinad, the CEO of cryptocurrency custody firm Copper since 2024, has left the company, according to two people familiar with the matter.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/08/copper-ceo-amar-kuchinad-departs-as-search-for-a-buyer-enters-a-fourth-month)
+
+---
+
+## 2. Circle agrees to buy cross-border payments firm Tazapay for $400 million
 
 **Author:** Francisco Rodrigues  
 **Published:** 9/8/2026, 2:40:46 PM  
@@ -23,7 +35,7 @@ The deal could grant Circle vital, regulated "last-mile" infrastructure, bridgin
 
 ---
 
-## 2. Strive’s SATA nears $1 billion market cap as Strategy’s STRC continues to underperform
+## 3. Strive’s SATA nears $1 billion market cap as Strategy’s STRC continues to underperform
 
 **Author:** James Van Straten  
 **Published:** 9/8/2026, 2:33:32 PM  
@@ -35,7 +47,7 @@ SATA’s 13% annualised dividend and resilience around par are helping Strive ra
 
 ---
 
-## 3. Visa combines VisaNet data with onchain lending to power stablecoin card working capital
+## 4. Visa combines VisaNet data with onchain lending to power stablecoin card working capital
 
 **Author:** Olivier Acuna  
 **Published:** 9/8/2026, 2:29:14 PM  
@@ -47,7 +59,7 @@ Visa's stablecoin settlement volume surpassed a $20 billion annualized run rate,
 
 ---
 
-## 4. Ethereum makes quantum resistance a top priority with a 2029 deadline
+## 5. Ethereum makes quantum resistance a top priority with a 2029 deadline
 
 **Author:** Shaurya Malwa  
 **Published:** 9/8/2026, 1:18:24 PM  
@@ -59,7 +71,7 @@ The Foundation wants the network protected before a quantum computer capable of 
 
 ---
 
-## 5. Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says
+## 6. Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says
 
 **Author:** Will Canny,AI Boost  
 **Published:** 9/8/2026, 1:18:21 PM  
@@ -71,7 +83,7 @@ Alexander Blume said subdued funding rates and continued call selling suggest th
 
 ---
 
-## 6. Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume
+## 7. Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume
 
 **Author:** Krisztian Sandor  
 **Published:** 9/8/2026, 1:06:34 PM  
@@ -83,7 +95,7 @@ At the latest purchase pace, Tom Lee's Ethereum treasury firm could reach its cr
 
 ---
 
-## 7. Bitcoin’s complexity paradox: How layer-2 scalers became AI's main target
+## 8. Bitcoin’s complexity paradox: How layer-2 scalers became AI's main target
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 9/8/2026, 12:09:26 PM  
@@ -95,7 +107,7 @@ A string of incidents involving Coldcard, Lightning and Liquid highlights how AI
 
 ---
 
-## 8. Bitcoin ETFs are still $1 billion shy of breaking even in 2026
+## 9. Bitcoin ETFs are still $1 billion shy of breaking even in 2026
 
 **Author:** Omkar Godbole  
 **Published:** 9/8/2026, 11:26:27 AM  
@@ -107,7 +119,7 @@ Your day-ahead look for Sept. 8, 2026
 
 ---
 
-## 9. How Curve's soft liquidation model lets borrowers survive market drawdowns
+## 10. How Curve's soft liquidation model lets borrowers survive market drawdowns
 
 **Author:** Shaurya Malwa  
 **Published:** 9/8/2026, 11:06:31 AM  
@@ -119,7 +131,7 @@ Data tracked by lending platform Curve data tracked 704 soft-liquidation instanc
 
 ---
 
-## 10. Cronos executes controversial blockchain rollback to recover crypto worth $111 million
+## 11. Cronos executes controversial blockchain rollback to recover crypto worth $111 million
 
 **Author:** Olivier Acuna  
 **Published:** 9/8/2026, 10:39:33 AM  
@@ -131,7 +143,7 @@ Validators rolled back nearly two hours of blockchain history to recover user as
 
 ---
 
-## 11. Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff
+## 12. Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 9/8/2026, 10:33:17 AM  
@@ -143,7 +155,7 @@ Bitcoin fell 0.42% since midnight UTC to $78,874, but the CoinDesk 20 rose 0.2% 
 
 ---
 
-## 12. Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says
+## 13. Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says
 
 **Author:** Francisco Rodrigues  
 **Published:** 9/8/2026, 9:51:01 AM  
@@ -155,7 +167,7 @@ South Korea’s budget office warned that stablecoin adoption could reduce banks
 
 ---
 
-## 13. Tracking cocoa may be just the beginning for PwC, Merck, Hashgraph provenance system
+## 14. Tracking cocoa may be just the beginning for PwC, Merck, Hashgraph provenance system
 
 **Author:** Olivier Acuna  
 **Published:** 9/8/2026, 9:39:36 AM  
@@ -167,7 +179,7 @@ The firms say their combination of physical authentication, digital traceability
 
 ---
 
-## 14. Live updates: Bitcoin below Friday's post-jobs report low as oil and copper surge higher
+## 15. Live updates: Bitcoin slips below $78,500 as stocks close lower
 
 **Author:** James Van Straten,Shaurya Malwa,Omkar Godbole,Stephen Alpher,Helene Braun  
 **Published:** 9/8/2026, 8:30:30 AM  
@@ -179,7 +191,7 @@ Copper rushed to a new record high amid supply shortages colliding with rising A
 
 ---
 
-## 15. Bit2Me sets up specialized unit to help law enforcement track down crypto assets
+## 16. Bit2Me sets up specialized unit to help law enforcement track down crypto assets
 
 **Author:** Francisco Rodrigues  
 **Published:** 9/8/2026, 7:00:00 AM  
@@ -191,7 +203,7 @@ The unit formalizes past operations, building on 1.5 million euros in seized cry
 
 ---
 
-## 16. Hunter Biden wants to launch a LAPTOP memecoin. Crypto traders hate it already
+## 17. Hunter Biden wants to launch a LAPTOP memecoin. Crypto traders hate it already
 
 **Author:** Shaurya Malwa  
 **Published:** 9/8/2026, 6:23:53 AM  
@@ -203,7 +215,7 @@ Kraken deleted a promotional post after backlash, while a media group named in t
 
 ---
 
-## 17. Bitcoin’s golden cross is here
+## 18. Bitcoin’s golden cross is here
 
 **Author:** Omkar Godbole  
 **Published:** 9/8/2026, 5:56:23 AM  
@@ -215,7 +227,7 @@ A golden cross has triggered on bitcoin's daily price chart, indicating a potent
 
 ---
 
-## 18. Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest
+## 19. Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest
 
 **Author:** Omkar Godbole  
 **Published:** 9/8/2026, 4:41:17 AM  
@@ -227,7 +239,7 @@ Supposed whitehat hackers behind Sunday’s Liquid Network breach have returned 
 
 ---
 
-## 19. Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%
+## 20. Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%
 
 **Author:** Shaurya Malwa  
 **Published:** 9/8/2026, 4:40:57 AM  
