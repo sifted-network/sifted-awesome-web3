@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-09-08"
 date: "2026-09-08"
 source: "Cointelegraph"
-count: 14
+count: 18
 ---
 
 # Cointelegraph - 2026-09-08
 
-14 items collected.
+18 items collected.
 
 ---
 
-## 1. Bitmine buys 28k ETH, completes 97% of treasury accumulation goal
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/8/2026, 8:13:27 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bybit launches 24/7 perpetuals for major currency pairs
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/8/2026, 6:51:08 PM  
+**Categories:** Latest News  
+
+Bybit added USDT-settled perpetuals tracking EUR/USD, GBP/USD and USD/JPY, with 24/7 trading and leverage of up to 100x.
+
+📖 [Read original article](https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Robinhood takes stakes in Crypto.com, OG.com in prediction markets deal
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/8/2026, 5:03:47 PM  
+**Categories:** Latest News  
+
+Robinhood will route event contracts through OG.com’s CFTC-regulated infrastructure as it expands its prediction markets business.
+
+📖 [Read original article](https://cointelegraph.com/news/robinhood-takes-stakes-in-cryptocom-ogcom-in-prediction-markets-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Visa brings onchain credit to its growing stablecoin card business
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 9/8/2026, 4:11:53 PM  
+**Categories:** Latest News  
+
+Visa is combining VisaNet settlement data with blockchain lending as stablecoin payment volume on its network jumps nearly 200% year over year.
+
+📖 [Read original article](https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Bitcoin faces key support test at $78.3K as US crude oil hits three-month high
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 9/8/2026, 3:41:11 PM  
+**Categories:** Markets  
+
+Bitcoin fell with US stocks on the opening of Tuesday’s Wall Street trading session as analysis warns that BTC price support at $78,300 must hold.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Bitmine buys 28k ETH, completes 97% of treasury accumulation goal
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/8/2026, 1:51:04 PM  
@@ -23,7 +83,7 @@ While Bitmine’s completed 97% of its goal to acquire 5% of Ether’s supply, T
 
 ---
 
-## 2. Is Bitcoin too volatile to risk your retirement on?
+## 7. Is Bitcoin too volatile to risk your retirement on?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/8/2026, 1:30:00 PM  
@@ -35,19 +95,7 @@ Bitcoin believers see it as an almost certain long-term investment, but retireme
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/8/2026, 1:24:08 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares
+## 8. Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/8/2026, 12:51:00 PM  
@@ -59,7 +107,7 @@ Strategy repurchased $176 million worth of its STRC preferred stock and doubled 
 
 ---
 
-## 5. Mexico quadruple homicide tied to alleged Bitcoin robbery attempt
+## 9. Mexico quadruple homicide tied to alleged Bitcoin robbery attempt
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/8/2026, 12:41:14 PM  
@@ -71,7 +119,7 @@ Two suspects face a Wednesday hearing over four killings allegedly linked to a c
 
 ---
 
-## 6. Circle to acquire Tazapay to expand USDC cross-border payments
+## 10. Circle to acquire Tazapay to expand USDC cross-border payments
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/8/2026, 11:33:14 AM  
@@ -83,7 +131,7 @@ Tazapay processes $25 billion in annualized volume and offers payout rails acros
 
 ---
 
-## 7. Uzbekistan begins government bond-backed stablecoin payment pilot
+## 11. Uzbekistan begins government bond-backed stablecoin payment pilot
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/8/2026, 10:07:10 AM  
@@ -95,7 +143,7 @@ Humo Digital will test HUMO payments with more than 20 merchants under a sandbox
 
 ---
 
-## 8. Ledger CTO urges AI bug hunter responsibility, warns against ‘attention farming’
+## 12. Ledger CTO urges AI bug hunter responsibility, warns against ‘attention farming’
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/8/2026, 10:03:30 AM  
@@ -107,7 +155,7 @@ Ledger and Trezor said researchers have a responsibility to publish their findin
 
 ---
 
-## 9. Robinhood chain to generate $160M in annual fees by 2028: Bernstein
+## 13. Robinhood chain to generate $160M in annual fees by 2028: Bernstein
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/8/2026, 9:56:00 AM  
@@ -119,7 +167,7 @@ Growing demand for tokenized stock trading may drive the Robinhood chain’s ann
 
 ---
 
-## 10. New Bitcoin whales spark sell-side risk as unrealized gains hit $9B
+## 14. New Bitcoin whales spark sell-side risk as unrealized gains hit $9B
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/8/2026, 9:40:26 AM  
@@ -131,7 +179,7 @@ Unrealized gains by whale speculators hit their highest levels on record last we
 
 ---
 
-## 11. Cronos confirms $9.2M slipped away before Tectonic exploit rollback
+## 15. Cronos confirms $9.2M slipped away before Tectonic exploit rollback
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/8/2026, 8:10:44 AM  
@@ -143,7 +191,7 @@ Cronos’s post-mortem put the Tectonic exploit’s affected borrowing at $120.4
 
 ---
 
-## 12. Swiss stablecoin sandbox enters testing phase, adds two new partners
+## 16. Swiss stablecoin sandbox enters testing phase, adds two new partners
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/8/2026, 7:18:32 AM  
@@ -155,7 +203,7 @@ Financial market operator SIX and payment app TWINT have joined numerous banks i
 
 ---
 
-## 13. Australia says it removed 45 crypto, remittance registrations over the past year
+## 17. Australia says it removed 45 crypto, remittance registrations over the past year
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/8/2026, 5:10:33 AM  
@@ -167,7 +215,7 @@ AUSTRAC said its yearlong sweep included canceled, suspended and unrenewed regis
 
 ---
 
-## 14. Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart
+## 18. Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/8/2026, 3:46:17 AM  
