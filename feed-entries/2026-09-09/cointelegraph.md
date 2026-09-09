@@ -2,16 +2,88 @@
 title: "Cointelegraph - 2026-09-09"
 date: "2026-09-09"
 source: "Cointelegraph"
-count: 15
+count: 20
 ---
 
 # Cointelegraph - 2026-09-09
 
-15 items collected.
+20 items collected.
 
 ---
 
-## 1. Tether, Fasanara launch $400M private credit fund targeting $3B
+## 1. Consensys to split into MetaMask and institutional blockchain company
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/9/2026, 6:47:32 PM  
+**Categories:** Latest News  
+
+The restructuring will separate MetaMask’s consumer business from Consensys’ Ethereum protocols and institutional blockchain infrastructure operations.
+
+📖 [Read original article](https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. TRM Labs doubles valuation to $2B in Series C expansion
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/9/2026, 5:30:06 PM  
+**Categories:** Latest News  
+
+The blockchain intelligence firm said its annual recurring revenue has quadrupled over the past three years as it expands its AI-powered investigations business.
+
+📖 [Read original article](https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/9/2026, 4:37:08 PM  
+**Categories:** Latest News  
+
+The pilot moved USBDC between the bank’s North American and European entities on the public Stellar blockchain.
+
+📖 [Read original article](https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 9/9/2026, 4:28:19 PM  
+**Categories:** Markets  
+
+Bitcoin trended lower with US stocks on Iran escalation while US Treasury Secretary Scott Bessent contributed to fears of a yen carry-trade unwind.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Hunter Biden’s laptop controversy gets a memecoin afterlife
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/9/2026, 3:58:39 PM  
+**Categories:** Latest News  
+
+The project’s disclosures say LAPTOP has no utility, lock founder tokens for six months and reserve 2% for wallets that lost money on TRUMP.
+
+📖 [Read original article](https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Trade groups seek to block Illinois crypto tax before January effective date
+
+**Author:** Cointelegraph by Robert Lakin  
+**Published:** 9/9/2026, 3:57:07 PM  
+**Categories:** Latest News  
+
+Following on their earlier lawsuit, CCI and the Blockchain Association seek to block Illinois’ 0.2% crypto tax, arguing it is unconstitutional and would impose costly compliance burdens.
+
+📖 [Read original article](https://cointelegraph.com/news/trade-groups-seek-block-illinois-crypto-tax-before-january-effective-date?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Tether, Fasanara launch $400M private credit fund targeting $3B
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/9/2026, 3:21:44 PM  
@@ -23,7 +95,7 @@ The evergreen fund will use USDT infrastructure to support asset-backed lending 
 
 ---
 
-## 2. German finance ministry proposes 25% crypto tax starting 2028: Report
+## 8. German finance ministry proposes 25% crypto tax starting 2028: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/9/2026, 1:49:55 PM  
@@ -35,7 +107,7 @@ The German Ministry of Finance is reportedly seeking to impose a 25% tax on cryp
 
 ---
 
-## 3. 10 of the greatest unsolved crypto mysteries
+## 9. 10 of the greatest unsolved crypto mysteries
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/9/2026, 1:30:00 PM  
@@ -47,7 +119,7 @@ From the whereabouts of the CryptoQueen to a mysterious death involving a DeFi b
 
 ---
 
-## 4. BitMart misses roadmap deadline, appoints financial adviser
+## 10. BitMart misses roadmap deadline, appoints financial adviser
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/9/2026, 1:04:28 PM  
@@ -59,19 +131,7 @@ BitMart provided no asset figures or withdrawal timetable and will launch a feed
 
 ---
 
-## 5. Hunter Biden’s laptop controversy gets a memecoin afterlife
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/9/2026, 12:36:00 PM  
-**Categories:** Latest News  
-
-The project’s disclosures say LAPTOP has no utility, lock founder tokens for six months and reserve 2% for wallets that lost money on TRUMP.
-
-📖 [Read original article](https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Italy’s central bank orders sanctions screening for crypto transfers
+## 11. Italy’s central bank orders sanctions screening for crypto transfers
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/9/2026, 12:20:33 PM  
@@ -83,7 +143,7 @@ Banca d’Italia ordered crypto service providers to implement internal controls
 
 ---
 
-## 7. What could happen if the CLARITY Act fails to pass in 2026
+## 12. What could happen if the CLARITY Act fails to pass in 2026
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/9/2026, 11:54:41 AM  
@@ -95,7 +155,7 @@ The US Senate has a limited window to pass a crypto market structure bill, but i
 
 ---
 
-## 8. Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties
+## 13. Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/9/2026, 11:15:23 AM  
@@ -107,7 +167,7 @@ Metaplanet’s executive stock pool continues to draw backlash over dilution con
 
 ---
 
-## 9. Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market
+## 14. Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/9/2026, 10:12:16 AM  
@@ -119,7 +179,7 @@ Bitcoin aggregate onchain profit entered its fourth week, but a popular analyst 
 
 ---
 
-## 10. Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down
+## 15. Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/9/2026, 10:05:00 AM  
@@ -131,7 +191,7 @@ Alan Lane said a “coordinated attack” by the Biden administration made Silve
 
 ---
 
-## 11. Iran eases currency rules to bypass US sanctions with crypto: Report
+## 16. Iran eases currency rules to bypass US sanctions with crypto: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/9/2026, 7:36:39 AM  
@@ -143,7 +203,7 @@ Exporters can now fund imports with overseas earnings without first selling thei
 
 ---
 
-## 12. Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin
+## 17. Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/9/2026, 7:36:21 AM  
@@ -155,7 +215,7 @@ The proposed Builders Bank would offer federally supervised digital asset custod
 
 ---
 
-## 13. Here’s what happened in crypto today
+## 18. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/9/2026, 5:51:21 AM  
@@ -167,7 +227,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 14. Gemini receives Singapore payment license for crypto services
+## 19. Gemini receives Singapore payment license for crypto services
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/9/2026, 5:27:12 AM  
@@ -179,7 +239,7 @@ Gemini’s local entity is authorized to provide digital payment token and cross
 
 ---
 
-## 15. Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy
+## 20. Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/9/2026, 4:09:51 AM  
