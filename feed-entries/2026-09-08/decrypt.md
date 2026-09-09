@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-09-08"
 date: "2026-09-08"
 source: "Decrypt"
-count: 11
+count: 13
 ---
 
 # Decrypt - 2026-09-08
 
-11 items collected.
+13 items collected.
 
 ---
 
-## 1. Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets
+## 1. OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/8/2026, 9:38:34 PM  
+**Categories:** Artificial Intelligence  
+
+NYU's Tristan Buckmaster accuses OpenAI's Sébastien Bubeck of racing to claim credit for a Navier-Stokes proof after learning about his unpublished work with Anthropic's Levent Alpöge.
+
+📖 [Read original article](https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician)
+
+---
+
+## 2. $47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'
+
+**Author:** Jason Nelson  
+**Published:** 9/8/2026, 8:46:34 PM  
+**Categories:** , Coins  
+
+The hackers have returned 3,400 of the roughly 4,000 BTC drained from the sidechain, but about 600 BTC remains outstanding—and some doubt the actors' "white hat" claims.
+
+📖 [Read original article](https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat)
+
+---
+
+## 3. Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/8/2026, 6:59:35 PM  
@@ -23,7 +47,7 @@ Bitcoin is defending its golden zone support while the S&#038;P 500 grinds insid
 
 ---
 
-## 2. Visa Taps Onchain Lending to Finance Stablecoin Card Programs
+## 4. Visa Taps Onchain Lending to Finance Stablecoin Card Programs
 
 **Author:** Jason Nelson  
 **Published:** 9/8/2026, 6:16:04 PM  
@@ -35,7 +59,7 @@ The payment processor giant is pairing payment settlement data with blockchain l
 
 ---
 
-## 3. Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion
+## 5. Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/8/2026, 5:46:05 PM  
@@ -47,7 +71,7 @@ The Vivek Ramaswamy-founded asset manager added 1,375 BTC last week, its third s
 
 ---
 
-## 4. Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit
+## 6. Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit
 
 **Author:** Jason Nelson  
 **Published:** 9/8/2026, 5:10:51 PM  
@@ -59,7 +83,7 @@ The rollback reversed legitimate activity alongside the attack, while $9.19 mill
 
 ---
 
-## 5. US Police Fear Meta Glasses Are Watching Them Back: Report
+## 7. US Police Fear Meta Glasses Are Watching Them Back: Report
 
 **Author:** Decrypt Agent  
 **Published:** 9/8/2026, 3:28:43 PM  
@@ -71,7 +95,7 @@ Memos from the NYPD to Homeland Security warn the devices could be used for cove
 
 ---
 
-## 6. Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets
+## 8. Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/8/2026, 3:25:16 PM  
@@ -83,7 +107,7 @@ The multi-year deal makes OG.com the infrastructure and clearing engine behind R
 
 ---
 
-## 7. Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH
+## 9. Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH
 
 **Author:** Jason Nelson  
 **Published:** 9/8/2026, 3:04:44 PM  
@@ -95,7 +119,7 @@ The company says it holds roughly 4.9% of Ethereum’s supply, with most of its 
 
 ---
 
-## 8. Strategy's Return to Bitcoin Buying Lasted Exactly One Week
+## 10. Strategy's Return to Bitcoin Buying Lasted Exactly One Week
 
 **Author:** Decrypt Agent  
 **Published:** 9/8/2026, 1:57:16 PM  
@@ -107,7 +131,7 @@ The Bitcoin treasury firm spent $176.3 million on its own preferred stock, and d
 
 ---
 
-## 9. Morning Minute: The Trenches Just Had Their Biggest Week Since TRUMP
+## 11. Morning Minute: The Trenches Just Had Their Biggest Week Since TRUMP
 
 **Author:** Tyler Warner  
 **Published:** 9/8/2026, 1:06:33 PM  
@@ -119,7 +143,7 @@ Is it a warning sign for a local top? Or is the onchain party just getting start
 
 ---
 
-## 10. What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders
+## 12. What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders
 
 **Author:** Decrypt Agent  
 **Published:** 9/8/2026, 11:33:50 AM  
@@ -131,7 +155,7 @@ The LAPTOP token launches in September on Base, with a fifth of the supply earma
 
 ---
 
-## 11. Polish Court Detains Fifth Suspect in Zondacrypto Exchange Probe
+## 13. Polish Court Detains Fifth Suspect in Zondacrypto Exchange Probe
 
 **Author:** Decrypt Agent  
 **Published:** 9/8/2026, 9:54:59 AM  
