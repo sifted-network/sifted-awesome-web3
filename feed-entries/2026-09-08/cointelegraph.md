@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-08"
 date: "2026-09-08"
 source: "Cointelegraph"
-count: 15
+count: 10
 ---
 
 # Cointelegraph - 2026-09-08
 
-15 items collected.
+10 items collected.
 
 ---
 
@@ -128,65 +128,5 @@ Strategy repurchased $176 million worth of its STRC preferred stock and doubled 
 Two suspects face a Wednesday hearing over four killings allegedly linked to a crypto wallet believed to hold millions of dollars in Bitcoin.
 
 📖 [Read original article](https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Circle to acquire Tazapay to expand USDC cross-border payments
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/8/2026, 11:33:14 AM  
-**Categories:** Latest News  
-
-Tazapay processes $25 billion in annualized volume and offers payout rails across 100-plus markets, extending Circle’s USDC payments reach.
-
-📖 [Read original article](https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Uzbekistan begins government bond-backed stablecoin payment pilot
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/8/2026, 10:07:10 AM  
-**Categories:** Latest News  
-
-Humo Digital will test HUMO payments with more than 20 merchants under a sandbox jointly overseen by NAPP and Uzbekistan’s central bank.
-
-📖 [Read original article](https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Ledger CTO urges AI bug hunter responsibility, warns against ‘attention farming’
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/8/2026, 10:03:30 AM  
-**Categories:** Latest News  
-
-Ledger and Trezor said researchers have a responsibility to publish their findings if vendors fail to fix bugs within an agreed disclosure window.
-
-📖 [Read original article](https://cointelegraph.com/news/ledger-trezor-warn-ai-bug-hunters-attention-farming?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Robinhood chain to generate $160M in annual fees by 2028: Bernstein
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/8/2026, 9:56:00 AM  
-**Categories:** Latest News  
-
-Growing demand for tokenized stock trading may drive the Robinhood chain’s annual fees to $160 million by 2028, predicted analysts from Bernstein.
-
-📖 [Read original article](https://cointelegraph.com/news/robinhood-chain-160m-annual-fees-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. New Bitcoin whales spark sell-side risk as unrealized gains hit $9B
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/8/2026, 9:40:26 AM  
-**Categories:** Markets  
-
-Unrealized gains by whale speculators hit their highest levels on record last week, per data going back to 2016.
-
-📖 [Read original article](https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
