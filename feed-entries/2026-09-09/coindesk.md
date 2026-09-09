@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-09-09"
 date: "2026-09-09"
 source: "CoinDesk"
-count: 22
+count: 25
 ---
 
 # CoinDesk - 2026-09-09
 
-22 items collected.
+25 items collected.
 
 ---
 
-## 1. Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push
+## 1. Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens
+
+**Author:** Helene Braun  
+**Published:** 9/9/2026, 4:11:07 PM  
+**Categories:** Markets, Robinhood, Tokenized Equities, News  
+
+Tenev told CNBC's "Squawk Box" on Wednesday that public companies shouldn't have veto power over third-party securities that reference their shares.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo)
+
+---
+
+## 2. U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee
+
+**Author:** Jesse Hamilton  
+**Published:** 9/9/2026, 4:05:11 PM  
+**Categories:** Policy, Crime, News  
+
+Chinese-language platform Xinbi is accused of operating on crypto transactions as it offered services to other criminal networks.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee)
+
+---
+
+## 3. Tether pushes into private credit with $400 million fund with Fasanara
+
+**Author:** Krisztian Sandor  
+**Published:** 9/9/2026, 3:51:25 PM  
+**Categories:** Finance, Stablecoins, Tether, News  
+
+The USDT issuer will help source lending opportunities and provide stablecoin payment infrastructure for Fasanara's private credit network.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara)
+
+---
+
+## 4. Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push
 
 **Author:** Shaurya Malwa  
 **Published:** 9/9/2026, 3:30:00 PM  
@@ -23,7 +59,7 @@ The threat is not here yet, but fault-tolerant machines and crypto’s migration
 
 ---
 
-## 2. Consensys to split MetaMask into its own firm while staying silent on IPO
+## 5. Consensys to split MetaMask into its own firm while staying silent on IPO
 
 **Author:** Francisco Rodrigues  
 **Published:** 9/9/2026, 3:24:01 PM  
@@ -35,7 +71,7 @@ The existing company, Consensys Software Inc., will rebrand as MetaMask under Et
 
 ---
 
-## 3. Crypto Long & Short: Inside the 300-to-1 onchain gap between the dollar and euro
+## 6. Crypto Long & Short: Inside the 300-to-1 onchain gap between the dollar and euro
 
 **Author:** Ryan Connor  
 **Published:** 9/9/2026, 2:58:07 PM  
@@ -47,7 +83,7 @@ Ryan Connor of RockawayX writes that the dollar leads the euro about 3 to 1 acro
 
 ---
 
-## 4. Kalshi election data goes live on DoubleZero ahead of U.S. midterms
+## 7. Kalshi election data goes live on DoubleZero ahead of U.S. midterms
 
 **Author:** Will Canny,AI Boost  
 **Published:** 9/9/2026, 2:00:00 PM  
@@ -59,7 +95,7 @@ The expansion gives institutional and automated traders access to full-depth pol
 
 ---
 
-## 5. PayPal expands stablecoin rails with custom token issuance platform
+## 8. PayPal expands stablecoin rails with custom token issuance platform
 
 **Author:** Ian Allison  
 **Published:** 9/9/2026, 2:00:00 PM  
@@ -71,7 +107,7 @@ The PYUSDx stablecoin developer platform, backed by PayPal USD (PYUSD), is built
 
 ---
 
-## 6. Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut
+## 9. Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut
 
 **Author:** Oliver Knight  
 **Published:** 9/9/2026, 1:57:57 PM  
@@ -83,7 +119,7 @@ LAPTOP swung from $190 to under $4 within minutes of opening on Base. Onchain re
 
 ---
 
-## 7. KYC data is an irresistible honeypot for hackers, and we must change how it is collected
+## 10. KYC data is an irresistible honeypot for hackers, and we must change how it is collected
 
 **Author:** Laz Pieper  
 **Published:** 9/9/2026, 1:02:49 PM  
@@ -95,7 +131,7 @@ Privacy-preserving identity verification systems could allow individuals to prov
 
 ---
 
-## 8. Algorand names former Chainlink executive William Herkelrath as CEO
+## 11. Algorand names former Chainlink executive William Herkelrath as CEO
 
 **Author:** Will Canny,AI Boost  
 **Published:** 9/9/2026, 1:00:00 PM  
@@ -107,7 +143,7 @@ The former Chainlink and Curv executive will lead the blockchain organization’
 
 ---
 
-## 9. Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains
+## 12. Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains
 
 **Author:** Francisco Rodrigues  
 **Published:** 9/9/2026, 12:13:59 PM  
@@ -119,7 +155,7 @@ Existing holdings would keep the current tax treatment, which can allow tax-free
 
 ---
 
-## 10. Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues
+## 13. Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues
 
 **Author:** Nikhilesh De  
 **Published:** 9/9/2026, 12:00:00 PM  
@@ -131,7 +167,7 @@ The motion for a preliminary injunction comes a few weeks after the Crypto Counc
 
 ---
 
-## 11. U.S. Bank takes next step towards launching its stablecoin with cross-border payment test
+## 14. U.S. Bank takes next step towards launching its stablecoin with cross-border payment test
 
 **Author:** Krisztian Sandor  
 **Published:** 9/9/2026, 11:40:44 AM  
@@ -143,7 +179,7 @@ The fifth-largest U.S. commercial bank said it is exploring USBDC stablecoin for
 
 ---
 
-## 12. OpenAI says 10,000 AI agents solved a $1 million math problem. Now mathematicians are fighting
+## 15. OpenAI says 10,000 AI agents solved a $1 million math problem. Now mathematicians are fighting
 
 **Author:** Shaurya Malwa  
 **Published:** 9/9/2026, 11:23:50 AM  
@@ -155,7 +191,7 @@ An internal model more powerful than GPT-6 Astra produced a proposed solution to
 
 ---
 
-## 13. Wall Street's newest crypto fund comes with a staking feature to boost returns
+## 16. Wall Street's newest crypto fund comes with a staking feature to boost returns
 
 **Author:** Omkar Godbole  
 **Published:** 9/9/2026, 11:23:36 AM  
@@ -167,7 +203,7 @@ Your day-ahead look for Sept. 9, 2026
 
 ---
 
-## 14. Bitcoin climbs as oil tops $100, equities drop after Iran strikes
+## 17. Bitcoin climbs as oil tops $100, equities drop after Iran strikes
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 9/9/2026, 10:47:23 AM  
@@ -179,7 +215,7 @@ Bitcoin advanced to as high as $79,700 while Brent crude topped $100 and Europea
 
 ---
 
-## 15. Iran eases currency controls to let traders bring earnings home in crypto: FT
+## 18. Iran eases currency controls to let traders bring earnings home in crypto: FT
 
 **Author:** Francisco Rodrigues  
 **Published:** 9/9/2026, 9:59:39 AM  
@@ -191,7 +227,7 @@ Exporters can use overseas earnings to fund imports directly, bypassing the offi
 
 ---
 
-## 16. Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case
+## 19. Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case
 
 **Author:** Olivier Acuna  
 **Published:** 9/9/2026, 9:54:42 AM  
@@ -203,7 +239,7 @@ Malone Lam, a Miami resident charged with stealing 4,100 bitcoin, led a ring of 
 
 ---
 
-## 17. India’s financial intelligence unit flags 15 crypto platforms for AML lapses
+## 20. India’s financial intelligence unit flags 15 crypto platforms for AML lapses
 
 **Author:** Omkar Godbole  
 **Published:** 9/9/2026, 8:17:54 AM  
@@ -215,7 +251,7 @@ The Financial Intelligence Unit-India (FIU-IND) issued non-compliance notices to
 
 ---
 
-## 18. Live updates: Bitcoin gives up gains as yields head higher following Treasury buyback announcement
+## 21. Live updates: Bitcoin slips as yields head higher following Treasury buyback announcement
 
 **Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Stephen Alpher,Helene Braun  
 **Published:** 9/9/2026, 7:20:51 AM  
@@ -227,7 +263,7 @@ The Japanese yen extended its rally against the greenback, briefly strengthening
 
 ---
 
-## 19. AI could kill us, Anthropic researcher says after resigning
+## 22. AI could kill us, Anthropic researcher says after resigning
 
 **Author:** Omkar Godbole  
 **Published:** 9/9/2026, 6:20:38 AM  
@@ -239,7 +275,7 @@ The people building AI earnestly believe that it could kill us all by the end of
 
 ---
 
-## 20. Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’
+## 23. Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’
 
 **Author:** Shaurya Malwa  
 **Published:** 9/9/2026, 5:22:57 AM  
@@ -251,7 +287,7 @@ Biden says the token is about “resilience, redemption and recovery” and will
 
 ---
 
-## 21. Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models
+## 24. Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models
 
 **Author:** Shaurya Malwa  
 **Published:** 9/9/2026, 4:40:54 AM  
@@ -263,7 +299,7 @@ Moonshot, whose Kimi model rattled markets earlier this year, is among six Chine
 
 ---
 
-## 22. Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul
+## 25. Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul
 
 **Author:** Shaurya Malwa  
 **Published:** 9/9/2026, 4:35:55 AM  
