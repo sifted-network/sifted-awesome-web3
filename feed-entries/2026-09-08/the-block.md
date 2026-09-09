@@ -2,16 +2,40 @@
 title: "The Block - 2026-09-08"
 date: "2026-09-08"
 source: "The Block"
-count: 15
+count: 17
 ---
 
 # The Block - 2026-09-08
 
-15 items collected.
+17 items collected.
 
 ---
 
-## 1. Hyperliquid open interest climbs to $14.3 billion as HYPE hits all-time high
+## 1. Pons propels Robinhood Chain fees to record $6 million in daily fees as DEX volume doubles
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 9/8/2026, 10:26:02 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Markets, Public Equities, DEXs, Protocols, Robinhood, News  
+
+PONS reached an all-time high valuation of over $970 million on Friday, with the token up over 200% in the last week alone.
+
+📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852)
+
+---
+
+## 2. Jack Dorsey’s Block joins rush for federal bank charters from OCC
+
+**Author:** Sarah Wynn  
+**Published:** 9/8/2026, 9:58:33 PM  
+**Categories:** Markets, Policy, Public Equities, Regulation, Block, OCC, News  
+
+Jack Dorsey-founded company Block, Inc., is taking its turn in seeking to become a federally regulated national bank.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-08-jack-dorsey-block-joins-rush-federal-bank-charters-from-occ-413947)
+
+---
+
+## 3. Hyperliquid open interest climbs to $14.3 billion as HYPE hits all-time high
 
 **Author:** Ivan Wu and Bryan Samsoedin  
 **Published:** 9/8/2026, 8:08:23 PM  
@@ -23,7 +47,7 @@ On Oct. 10, 2025, Hyperliquid’s OI fell by around 56% in a single day, from $1
 
 ---
 
-## 2. A 22 year-old crypto ringleader pleads guilty to $245 million racketeering scheme
+## 4. A 22 year-old crypto ringleader pleads guilty to $245 million racketeering scheme
 
 **Author:** Sarah Wynn  
 **Published:** 9/8/2026, 7:17:17 PM  
@@ -35,7 +59,7 @@ Malone Lam pleaded guilty for his role in leading an international "social engin
 
 ---
 
-## 3. DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury
+## 5. DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury
 
 **Author:** Jason Shubnell  
 **Published:** 9/8/2026, 6:33:27 PM  
@@ -47,7 +71,7 @@ DeFi Development Corp's CHAD is a Variable Rate Series C perpetual preferred sto
 
 ---
 
-## 4. Robinhood expands prediction markets with Crypto.com, OG partnerships ahead of NFL season
+## 6. Robinhood expands prediction markets with Crypto.com, OG partnerships ahead of NFL season
 
 **Author:** Jason Shubnell  
 **Published:** 9/8/2026, 3:54:17 PM  
@@ -59,7 +83,7 @@ Robinhood will also acquire equity stakes in Crypto.com and OG.com, which will b
 
 ---
 
-## 5. Strive adds 1,375 bitcoin as SATA approaches ‘billion-dollar’ milestone
+## 7. Strive adds 1,375 bitcoin as SATA approaches ‘billion-dollar’ milestone
 
 **Author:** Kyle Baird  
 **Published:** 9/8/2026, 3:11:59 PM  
@@ -71,7 +95,7 @@ Strive CEO Matt Cole said 70% of the capital raised during the week came from sa
 
 ---
 
-## 6. ZKsync developer Matter Labs open-sources Prividium permissioning engine; Bundesbank tests platform
+## 8. ZKsync developer Matter Labs open-sources Prividium permissioning engine; Bundesbank tests platform
 
 **Author:** Yogita Khatri  
 **Published:** 9/8/2026, 3:05:03 PM  
@@ -83,7 +107,7 @@ ZKsync developer Matter Labs has open-sourced the permissioning engine of Privid
 
 ---
 
-## 7. Bitmine nears 5% of Ethereum supply after buying 28,086 ETH
+## 9. Bitmine nears 5% of Ethereum supply after buying 28,086 ETH
 
 **Author:** Brian Danga  
 **Published:** 9/8/2026, 1:51:54 PM  
@@ -95,7 +119,7 @@ Bitmine bought 28,086 ETH, boosting its treasury to 5.93 million tokens worth $1
 
 ---
 
-## 8. Strategy repurchases $176 million of STRC shares, makes no bitcoin purchases or sales
+## 10. Strategy repurchases $176 million of STRC shares, makes no bitcoin purchases or sales
 
 **Author:** James Hunt  
 **Published:** 9/8/2026, 12:20:03 PM  
@@ -107,7 +131,7 @@ Strategy's total holdings account for around 4% of the 21 million bitcoin supply
 
 ---
 
-## 9. Bitcoin volatility remains subdued as supply in profit nears historical bear-to-bull transition level: analysts
+## 11. Bitcoin volatility remains subdued as supply in profit nears historical bear-to-bull transition level: analysts
 
 **Author:** James Hunt  
 **Published:** 9/8/2026, 12:08:55 PM  
@@ -119,7 +143,7 @@ More than 71% of bitcoin supply is now in profit, approaching a level that has t
 
 ---
 
-## 10. Visa stablecoin settlement tops $20 billion annualized run rate, up more than 15x year over year
+## 12. Visa stablecoin settlement tops $20 billion annualized run rate, up more than 15x year over year
 
 **Author:** Brian Danga  
 **Published:** 9/8/2026, 11:09:21 AM  
@@ -131,7 +155,7 @@ Visa’s stablecoin settlement volume tops a $20 billion annualized run rate as 
 
 ---
 
-## 11. Polish prosecutors charge fifth suspect in Zondacrypto probe involving around $100 million in estimated losses
+## 13. Polish prosecutors charge fifth suspect in Zondacrypto probe involving around $100 million in estimated losses
 
 **Author:** James Hunt  
 **Published:** 9/8/2026, 10:38:15 AM  
@@ -143,7 +167,7 @@ Polish prosecutors charged Roman Ż. with two offenses following his arrest on S
 
 ---
 
-## 12. Metaplanet slides 17% this week as CEO’s public note fails to ease investor concerns
+## 14. Metaplanet slides 17% this week as CEO’s public note fails to ease investor concerns
 
 **Author:** Danny Park  
 **Published:** 9/8/2026, 9:13:45 AM  
@@ -155,7 +179,7 @@ The drop comes amid controversies surrounding Metaplanet's expanded Series 10 ex
 
 ---
 
-## 13. ‘The chain is now earnings’: Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain
+## 15. ‘The chain is now earnings’: Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain
 
 **Author:** Brian Danga  
 **Published:** 9/8/2026, 8:50:14 AM  
@@ -167,7 +191,7 @@ Bernstein sees 31% upside for Robinhood as its new chain tops Solana in fees, ge
 
 ---
 
-## 14. Cronos says $9.2 million remains unrecovered after Tectonic exploit, chain rollback
+## 16. Cronos says $9.2 million remains unrecovered after Tectonic exploit, chain rollback
 
 **Author:** Timmy Shen  
 **Published:** 9/8/2026, 5:51:16 AM  
@@ -179,7 +203,7 @@ A subsequent rollback reversed roughly $111.2 million, but $9.19 million had alr
 
 ---
 
-## 15. Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form
+## 17. Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form
 
 **Author:** Danny Park  
 **Published:** 9/8/2026, 4:17:21 AM  
