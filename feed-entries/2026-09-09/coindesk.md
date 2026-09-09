@@ -2,16 +2,184 @@
 title: "CoinDesk - 2026-09-09"
 date: "2026-09-09"
 source: "CoinDesk"
-count: 8
+count: 22
 ---
 
 # CoinDesk - 2026-09-09
 
-8 items collected.
+22 items collected.
 
 ---
 
-## 1. Iran eases currency controls to let traders bring earnings home in crypto: FT
+## 1. Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push
+
+**Author:** Shaurya Malwa  
+**Published:** 9/9/2026, 3:30:00 PM  
+**Categories:** Tech, News  
+
+The threat is not here yet, but fault-tolerant machines and crypto’s migration plans are starting to converge on the same 2029 window.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)
+
+---
+
+## 2. Consensys to split MetaMask into its own firm while staying silent on IPO
+
+**Author:** Francisco Rodrigues  
+**Published:** 9/9/2026, 3:24:01 PM  
+**Categories:** Finance, ConsenSys, Ethereum News, News  
+
+The existing company, Consensys Software Inc., will rebrand as MetaMask under Ethereum co-founder Joe Lubin as chairman and CEO.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo)
+
+---
+
+## 3. Crypto Long & Short: Inside the 300-to-1 onchain gap between the dollar and euro
+
+**Author:** Ryan Connor  
+**Published:** 9/9/2026, 2:58:07 PM  
+**Categories:** CoinDesk Indices, News  
+
+Ryan Connor of RockawayX writes that the dollar leads the euro about 3 to 1 across the offchain economy and more than 300 to 1 onchain. Euro-pegged stablecoins total €711 million, under 1% of supply. He traces the gap to path dependency and missing euro DeFi infrastructure, and argues MiCA-regulated...
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro)
+
+---
+
+## 4. Kalshi election data goes live on DoubleZero ahead of U.S. midterms
+
+**Author:** Will Canny,AI Boost  
+**Published:** 9/9/2026, 2:00:00 PM  
+**Categories:** Tech, Solana News, Kalshi, News  
+
+The expansion gives institutional and automated traders access to full-depth political prediction-market order books ahead of the U.S. midterms.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms)
+
+---
+
+## 5. PayPal expands stablecoin rails with custom token issuance platform
+
+**Author:** Ian Allison  
+**Published:** 9/9/2026, 2:00:00 PM  
+**Categories:** Finance, Exclusive, Stablecoins, News  
+
+The PYUSDx stablecoin developer platform, backed by PayPal USD (PYUSD), is built with the help of M0 and MoonPay.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform)
+
+---
+
+## 6. Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut
+
+**Author:** Oliver Knight  
+**Published:** 9/9/2026, 1:57:57 PM  
+**Categories:** Finance, Memecoin, News  
+
+LAPTOP swung from $190 to under $4 within minutes of opening on Base. Onchain records show tokens had been distributed to market makers for a week before trading began.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap)
+
+---
+
+## 7. KYC data is an irresistible honeypot for hackers, and we must change how it is collected
+
+**Author:** Laz Pieper  
+**Published:** 9/9/2026, 1:02:49 PM  
+**Categories:** Opinion, Opinion  
+
+Privacy-preserving identity verification systems could allow individuals to prove only what a service needs to know while keeping the underlying information under their control, writes Coin Center’s Laz Pieper.
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/09/09/kyc-data-is-an-irresistible-honeypot-for-hackers-and-we-must-change-how-it-is-collected)
+
+---
+
+## 8. Algorand names former Chainlink executive William Herkelrath as CEO
+
+**Author:** Will Canny,AI Boost  
+**Published:** 9/9/2026, 1:00:00 PM  
+**Categories:** Finance, Exclusive, quantum computing, Institutional Adoption, News  
+
+The former Chainlink and Curv executive will lead the blockchain organization’s push into institutional finance and quantum-resistant security.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/09/algorand-names-former-chainlink-executive-william-herkelrath-as-ceo)
+
+---
+
+## 9. Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains
+
+**Author:** Francisco Rodrigues  
+**Published:** 9/9/2026, 12:13:59 PM  
+**Categories:** Finance, Tax, Germany, News  
+
+Existing holdings would keep the current tax treatment, which can allow tax-free sales after a 12-month holding period.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/09/germany-moves-to-tax-bitcoin-like-stocks-as-new-draft-bill-targets-tax-free-gains)
+
+---
+
+## 10. Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues
+
+**Author:** Nikhilesh De  
+**Published:** 9/9/2026, 12:00:00 PM  
+**Categories:** Policy, News  
+
+The motion for a preliminary injunction comes a few weeks after the Crypto Council for Innovation and Blockchain Association sued to block the law.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/09/09/crypto-lobbying-orgs-ask-court-to-suspend-illinois-tax-as-legal-case-continues)
+
+---
+
+## 11. U.S. Bank takes next step towards launching its stablecoin with cross-border payment test
+
+**Author:** Krisztian Sandor  
+**Published:** 9/9/2026, 11:40:44 AM  
+**Categories:** Finance, Stablecoins, banks, News  
+
+The fifth-largest U.S. commercial bank said it is exploring USBDC stablecoin for treasury payments, liquidity management and collateral after completing a live transaction.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/08/u-s-bank-takes-next-step-towards-launching-its-stablecoin-with-cross-border-payment-test)
+
+---
+
+## 12. OpenAI says 10,000 AI agents solved a $1 million math problem. Now mathematicians are fighting
+
+**Author:** Shaurya Malwa  
+**Published:** 9/9/2026, 11:23:50 AM  
+**Categories:** Tech, Artificial Intelligence, News  
+
+An internal model more powerful than GPT-6 Astra produced a proposed solution to one of mathematics’ seven Millennium Prize Problems, though questions are emerging over how independently it got there.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/09/09/openai-says-10-000-ai-agents-solved-a-usd1-million-math-problem-now-mathematicians-are-fighting)
+
+---
+
+## 13. Wall Street's newest crypto fund comes with a staking feature to boost returns
+
+**Author:** Omkar Godbole  
+**Published:** 9/9/2026, 11:23:36 AM  
+**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
+
+Your day-ahead look for Sept. 9, 2026
+
+📖 [Read original article](https://www.coindesk.com/daybook-us/2026/09/09/wall-street-s-newest-crypto-fund-comes-with-a-staking-feature-to-boost-returns)
+
+---
+
+## 14. Bitcoin climbs as oil tops $100, equities drop after Iran strikes
+
+**Author:** Oliver Knight,Omkar Godbole  
+**Published:** 9/9/2026, 10:47:23 AM  
+**Categories:** Markets, Crypto Markets Today, News  
+
+Bitcoin advanced to as high as $79,700 while Brent crude topped $100 and European shares fell, leaving crypto tracking gold rather than equities.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/09/09/bitcoin-climbs-as-oil-tops-usd100-equities-drop-after-iran-strikes)
+
+---
+
+## 15. Iran eases currency controls to let traders bring earnings home in crypto: FT
 
 **Author:** Francisco Rodrigues  
 **Published:** 9/9/2026, 9:59:39 AM  
@@ -23,7 +191,7 @@ Exporters can use overseas earnings to fund imports directly, bypassing the offi
 
 ---
 
-## 2. Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case
+## 16. Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case
 
 **Author:** Olivier Acuna  
 **Published:** 9/9/2026, 9:54:42 AM  
@@ -35,7 +203,7 @@ Malone Lam, a Miami resident charged with stealing 4,100 bitcoin, led a ring of 
 
 ---
 
-## 3. India’s financial intelligence unit flags 15 crypto platforms for AML lapses
+## 17. India’s financial intelligence unit flags 15 crypto platforms for AML lapses
 
 **Author:** Omkar Godbole  
 **Published:** 9/9/2026, 8:17:54 AM  
@@ -47,19 +215,19 @@ The Financial Intelligence Unit-India (FIU-IND) issued non-compliance notices to
 
 ---
 
-## 4. Live updates: Brent crude hits $100 for first time since July as bitcoin trades around $79,000
+## 18. Live updates: Bitcoin gives up gains as yields head higher following Treasury buyback announcement
 
-**Author:** Shaurya Malwa,James Van Straten  
+**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Stephen Alpher,Helene Braun  
 **Published:** 9/9/2026, 7:20:51 AM  
 **Categories:** Finance, Live News, live_news  
 
-Japanese yen extends its rally against the U.S. dollar, briefly strengthening past 153 per dollar.
+The Japanese yen extended its rally against the greenback, briefly strengthening past 153 per dollar.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows)
 
 ---
 
-## 5. AI could kill us, Anthropic researcher says after resigning
+## 19. AI could kill us, Anthropic researcher says after resigning
 
 **Author:** Omkar Godbole  
 **Published:** 9/9/2026, 6:20:38 AM  
@@ -71,7 +239,7 @@ The people building AI earnestly believe that it could kill us all by the end of
 
 ---
 
-## 6. Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’
+## 20. Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’
 
 **Author:** Shaurya Malwa  
 **Published:** 9/9/2026, 5:22:57 AM  
@@ -83,7 +251,7 @@ Biden says the token is about “resilience, redemption and recovery” and will
 
 ---
 
-## 7. Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models
+## 21. Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models
 
 **Author:** Shaurya Malwa  
 **Published:** 9/9/2026, 4:40:54 AM  
@@ -95,7 +263,7 @@ Moonshot, whose Kimi model rattled markets earlier this year, is among six Chine
 
 ---
 
-## 8. Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul
+## 22. Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul
 
 **Author:** Shaurya Malwa  
 **Published:** 9/9/2026, 4:35:55 AM  
