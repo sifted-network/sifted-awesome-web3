@@ -2,16 +2,112 @@
 title: "Cointelegraph - 2026-09-09"
 date: "2026-09-09"
 source: "Cointelegraph"
-count: 7
+count: 15
 ---
 
 # Cointelegraph - 2026-09-09
 
-7 items collected.
+15 items collected.
 
 ---
 
-## 1. Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market
+## 1. Tether, Fasanara launch $400M private credit fund targeting $3B
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/9/2026, 3:21:44 PM  
+**Categories:** Latest News  
+
+The evergreen fund will use USDT infrastructure to support asset-backed lending through fintech platforms in more than 60 countries.
+
+📖 [Read original article](https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. German finance ministry proposes 25% crypto tax starting 2028: Report
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/9/2026, 1:49:55 PM  
+**Categories:** Latest News  
+
+The German Ministry of Finance is reportedly seeking to impose a 25% tax on cryptocurrencies, departing from current laws that make crypto gains tax-free after one year of holding.
+
+📖 [Read original article](https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. 10 of the greatest unsolved crypto mysteries
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 9/9/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+From the whereabouts of the CryptoQueen to a mysterious death involving a DeFi builder paranoid about the “pedo elite,” here are 10 crypto mysteries that still have no good answer.
+
+📖 [Read original article](https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. BitMart misses roadmap deadline, appoints financial adviser
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/9/2026, 1:04:28 PM  
+**Categories:** Latest News  
+
+BitMart provided no asset figures or withdrawal timetable and will launch a feedback portal within five working days during a financial adviser review.
+
+📖 [Read original article](https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Hunter Biden’s laptop controversy gets a memecoin afterlife
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/9/2026, 12:36:00 PM  
+**Categories:** Latest News  
+
+The project’s disclosures say LAPTOP has no utility, lock founder tokens for six months and reserve 2% for wallets that lost money on TRUMP.
+
+📖 [Read original article](https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Italy’s central bank orders sanctions screening for crypto transfers
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/9/2026, 12:20:33 PM  
+**Categories:** Latest News  
+
+Banca d’Italia ordered crypto service providers to implement internal controls to screen for crypto transfers tied to sanctioned entities.
+
+📖 [Read original article](https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. What could happen if the CLARITY Act fails to pass in 2026
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/9/2026, 11:54:41 AM  
+**Categories:** Latest News  
+
+The US Senate has a limited window to pass a crypto market structure bill, but if it were to fail, the legislation could be completely remade or scrapped under Democrats in 2027.
+
+📖 [Read original article](https://cointelegraph.com/news/clarity-act-fails-passage-next-session-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/9/2026, 11:15:23 AM  
+**Categories:** Latest News  
+
+Metaplanet’s executive stock pool continues to draw backlash over dilution concerns, as investors urged the company to freeze the exercise rights tied to 273 million shares.
+
+📖 [Read original article](https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/9/2026, 10:12:16 AM  
@@ -23,7 +119,7 @@ Bitcoin aggregate onchain profit entered its fourth week, but a popular analyst 
 
 ---
 
-## 2. Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down
+## 10. Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/9/2026, 10:05:00 AM  
@@ -35,7 +131,7 @@ Alan Lane said a “coordinated attack” by the Biden administration made Silve
 
 ---
 
-## 3. Iran eases currency rules to bypass US sanctions with crypto: Report
+## 11. Iran eases currency rules to bypass US sanctions with crypto: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/9/2026, 7:36:39 AM  
@@ -47,7 +143,7 @@ Exporters can now fund imports with overseas earnings without first selling thei
 
 ---
 
-## 4. Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin
+## 12. Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/9/2026, 7:36:21 AM  
@@ -59,7 +155,7 @@ The proposed Builders Bank would offer federally supervised digital asset custod
 
 ---
 
-## 5. Here’s what happened in crypto today
+## 13. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/9/2026, 5:51:21 AM  
@@ -71,7 +167,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 6. Gemini receives Singapore payment license for crypto services
+## 14. Gemini receives Singapore payment license for crypto services
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/9/2026, 5:27:12 AM  
@@ -83,7 +179,7 @@ Gemini’s local entity is authorized to provide digital payment token and cross
 
 ---
 
-## 7. Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy
+## 15. Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/9/2026, 4:09:51 AM  
