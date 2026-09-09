@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-08"
 date: "2026-09-08"
 source: "Cointelegraph"
-count: 19
+count: 15
 ---
 
 # Cointelegraph - 2026-09-08
 
-19 items collected.
+15 items collected.
 
 ---
 
@@ -188,53 +188,5 @@ Growing demand for tokenized stock trading may drive the Robinhood chain’s ann
 Unrealized gains by whale speculators hit their highest levels on record last week, per data going back to 2016.
 
 📖 [Read original article](https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Cronos confirms $9.2M slipped away before Tectonic exploit rollback
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/8/2026, 8:10:44 AM  
-**Categories:** Latest News  
-
-Cronos’s post-mortem put the Tectonic exploit’s affected borrowing at $120.4 million, with 7.6% transferred off-network before validators intervened.
-
-📖 [Read original article](https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Swiss stablecoin sandbox enters testing phase, adds two new partners
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/8/2026, 7:18:32 AM  
-**Categories:** Latest News  
-
-Financial market operator SIX and payment app TWINT have joined numerous banks in the sandbox seeking to develop a Swiss franc-based stablecoin.
-
-📖 [Read original article](https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Australia says it removed 45 crypto, remittance registrations over the past year
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/8/2026, 5:10:33 AM  
-**Categories:** Latest News  
-
-AUSTRAC said its yearlong sweep included canceled, suspended and unrenewed registrations, while its action against GetCoins helped disrupt organized investment scams.
-
-📖 [Read original article](https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/8/2026, 3:46:17 AM  
-**Categories:** Latest News  
-
-The actors returned 85% of the Bitcoin withdrawn from Liquid’s federation wallet following the security incident.
-
-📖 [Read original article](https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
