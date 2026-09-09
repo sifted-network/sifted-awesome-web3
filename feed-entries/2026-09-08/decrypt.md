@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-08"
 date: "2026-09-08"
 source: "Decrypt"
-count: 13
+count: 12
 ---
 
 # Decrypt - 2026-09-08
 
-13 items collected.
+12 items collected.
 
 ---
 
@@ -143,19 +143,7 @@ Is it a warning sign for a local top? Or is the onchain party just getting start
 
 ---
 
-## 12. What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders
-
-**Author:** Decrypt Agent  
-**Published:** 9/8/2026, 11:33:50 AM  
-**Categories:** The Coins  
-
-The LAPTOP token launches in September on Base, with a fifth of the supply earmarked for traders who lost money on TRUMP.
-
-📖 [Read original article](https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders)
-
----
-
-## 13. Polish Court Detains Fifth Suspect in Zondacrypto Exchange Probe
+## 12. Polish Court Detains Fifth Suspect in Zondacrypto Exchange Probe
 
 **Author:** Decrypt Agent  
 **Published:** 9/8/2026, 9:54:59 AM  
