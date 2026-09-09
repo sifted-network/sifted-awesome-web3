@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-07"
 date: "2026-09-07"
 source: "Cointelegraph"
-count: 12
+count: 10
 ---
 
 # Cointelegraph - 2026-09-07
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ This week’s CPI and PPI prints, along with the Fed’s Sept. 16 rate decision,
 Citi and DBS completed their first tokenized cross-border transfer over the weekend, using Swift’s blockchain-based ledger to circumvent the constraints of traditional banking hours.
 
 📖 [Read original article](https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Philippines eyes payment operator registration freeze, tighter VASP checks
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/7/2026, 9:51:00 AM  
-**Categories:** Latest News  
-
-A central bank proposal would pause new payment operator registrations while requiring enhanced monitoring and transaction limits for arrangements involving virtual asset firms.
-
-📖 [Read original article](https://cointelegraph.com/news/philippines-payment-operator-freeze-vasp-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Coldcard third-wave attacker moves 45% of stolen Bitcoin
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/7/2026, 9:36:19 AM  
-**Categories:** Latest News  
-
-Galaxy said 82% of Bitcoin stolen across all Coldcard attacks remains in the original addresses, with 18% moved in apparent laundering.
-
-📖 [Read original article](https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
