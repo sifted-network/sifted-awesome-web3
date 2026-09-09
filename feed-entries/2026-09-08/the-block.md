@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-08"
 date: "2026-09-08"
 source: "The Block"
-count: 9
+count: 4
 ---
 
 # The Block - 2026-09-08
 
-9 items collected.
+4 items collected.
 
 ---
 
@@ -56,65 +56,5 @@ On Oct. 10, 2025, Hyperliquid’s OI fell by around 56% in a single day, from $1
 Malone Lam pleaded guilty for his role in leading an international "social engineering" scheme, stealing $245 million worth in cryptocurrency.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-08-a-22-year-old-crypto-ringleader-pleads-guilty-to-245-million-racketeering-scheme-413911)
-
----
-
-## 5. DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury
-
-**Author:** Jason Shubnell  
-**Published:** 9/8/2026, 6:33:27 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Solana, News  
-
-DeFi Development Corp's CHAD is a Variable Rate Series C perpetual preferred stock, with an initial annual dividend rate of 13%.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892)
-
----
-
-## 6. Robinhood expands prediction markets with Crypto.com, OG partnerships ahead of NFL season
-
-**Author:** Jason Shubnell  
-**Published:** 9/8/2026, 3:54:17 PM  
-**Categories:** Companies, Exchanges, Markets, Policy, Public Equities, Regulation, Robinhood, News  
-
-Robinhood will also acquire equity stakes in Crypto.com and OG.com, which will be valued based on Crypto.com's recent $20 billion valuation.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-08-robinhood-expands-prediction-markets-crypto-com-og-partnerships-nfl-season-413832)
-
----
-
-## 7. Strive adds 1,375 bitcoin as SATA approaches ‘billion-dollar’ milestone
-
-**Author:** Kyle Baird  
-**Published:** 9/8/2026, 3:11:59 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin, News  
-
-Strive CEO Matt Cole said 70% of the capital raised during the week came from sales of its SATA perpetual preferred stock.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-08-strive-adds-1375-bitcoin-sata-approaches-billion-dollar-milestone-413800)
-
----
-
-## 8. ZKsync developer Matter Labs open-sources Prividium permissioning engine; Bundesbank tests platform
-
-**Author:** Yogita Khatri  
-**Published:** 9/8/2026, 3:05:03 PM  
-**Categories:** Crypto Ecosystems, DeFi, Layer 2s and Scaling, Web3, exclusive, zkSync, News  
-
-ZKsync developer Matter Labs has open-sourced the permissioning engine of Prividium, its DLT platform for financial institutions.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-09-08-zksync-developer-matter-labs-open-sources-prividium-permissioning-engine-bundesbank-tests-platform-413814)
-
----
-
-## 9. Bitmine nears 5% of Ethereum supply after buying 28,086 ETH
-
-**Author:** Brian Danga  
-**Published:** 9/8/2026, 1:51:54 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Ethereum, News  
-
-Bitmine bought 28,086 ETH, boosting its treasury to 5.93 million tokens worth $14.8 billion and representing 4.9% of Ethereum’s total supply.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-08-bitmine-nears-5-of-ethereum-supply-after-buying-28086-eth-413790)
 
 ---
