@@ -2,16 +2,76 @@
 title: "The Block - 2026-09-09"
 date: "2026-09-09"
 source: "The Block"
-count: 9
+count: 14
 ---
 
 # The Block - 2026-09-09
 
-9 items collected.
+14 items collected.
 
 ---
 
-## 1. Crypto industry groups escalate fight against Illinois, asking court to block controversial crypto tax
+## 1. DoubleZero adds Kalshi’s election markets ahead of November midterms
+
+**Author:** Sarah Wynn  
+**Published:** 9/9/2026, 6:17:58 PM  
+**Categories:** Policy, Regulation, CFTC, News  
+
+Kalshi's elections and politics markets went live on the market data delivery platform DoubleZero Edge on Wednesday.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075)
+
+---
+
+## 2. Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group
+
+**Author:** Kyle Baird  
+**Published:** 9/9/2026, 5:56:26 PM  
+**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Solana, News  
+
+SkyAI’s proposed equity plan would authorize 5.145 million shares for stock-based compensation, representing roughly 7.2% additional dilution.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061)
+
+---
+
+## 3. Bitcoin miners are missing the crypto rally as exchanges, stablecoins surge
+
+**Author:** Ivan Wu and Bryan Samsoedin  
+**Published:** 9/9/2026, 5:36:02 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Equities, Market Updates, Markets, Web3, AI, Equity Movers, Mining Companies, News  
+
+Among tracked companies, only one bitcoin mining company has outperformed the cryptocurrency: Canaan (ticker CAN).
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-09-09-bitcoin-miners-are-missing-the-crypto-rally-as-exchanges-stablecoins-surge-413848)
+
+---
+
+## 4. Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME’s case
+
+**Author:** Sarah Wynn  
+**Published:** 9/9/2026, 4:17:59 PM  
+**Categories:** Policy, Regulation, CFTC, News  
+
+The Hyperliquid Policy Center accused CME Group of stifling innovation and urged a court to dismiss the exchange’s lawsuit against the CFTC.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046)
+
+---
+
+## 5. Hunter Biden’s LAPTOP airdrops briefly worth over $1 million each before 99% crash
+
+**Author:** Kyle Baird  
+**Published:** 9/9/2026, 4:05:45 PM  
+**Categories:** Crypto Ecosystems, DeFi, Governance, Market Updates, Markets, Token Projects, Web3, Memecoins, Tokens, News  
+
+Substack subscribers were reportedly able to claim 4,276 LAPTOP tokens each, with some quickly selling their allocations.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034)
+
+---
+
+## 6. Crypto industry groups escalate fight against Illinois, asking court to block controversial crypto tax
 
 **Author:** Sarah Wynn  
 **Published:** 9/9/2026, 3:04:41 PM  
@@ -23,7 +83,7 @@ Crypto groups representing a slew of digital asset firms are escalating its lega
 
 ---
 
-## 2. Consensys splits MetaMask from institutional and Ethereum infrastructure businesses
+## 7. Consensys splits MetaMask from institutional and Ethereum infrastructure businesses
 
 **Author:** Jason Shubnell  
 **Published:** 9/9/2026, 2:54:15 PM  
@@ -35,7 +95,7 @@ The separation is expected to be completed by the end of 2026, with the existing
 
 ---
 
-## 3. Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs
+## 8. Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs
 
 **Author:** Yogita Khatri  
 **Published:** 9/9/2026, 2:49:03 PM  
@@ -47,7 +107,7 @@ A group of crypto firms has launched Charter Foundation to offer a new framework
 
 ---
 
-## 4. Tether, Fasanara launch $400 million fund for stablecoin-enabled private credit
+## 9. Tether, Fasanara launch $400 million fund for stablecoin-enabled private credit
 
 **Author:** James Hunt  
 **Published:** 9/9/2026, 1:53:28 PM  
@@ -59,7 +119,7 @@ The firms seek up to $3 billion from institutional investors to deploy through F
 
 ---
 
-## 5. Renzo expands beyond restaking with basis trade product on Hyperliquid
+## 10. Renzo expands beyond restaking with basis trade product on Hyperliquid
 
 **Author:** Yogita Khatri  
 **Published:** 9/9/2026, 12:06:21 PM  
@@ -71,7 +131,7 @@ Renzo Basis will first support BTC and HYPE and is designed to let users earn yi
 
 ---
 
-## 6. India seeks takedowns of 15 crypto platforms over AML compliance
+## 11. India seeks takedowns of 15 crypto platforms over AML compliance
 
 **Author:** Brian Danga  
 **Published:** 9/9/2026, 11:12:43 AM  
@@ -83,7 +143,7 @@ India's FIU issued non-compliance notices to 15 crypto platforms and sought take
 
 ---
 
-## 7. First staked ETF tied to Tron hits the US markets on Wednesday
+## 12. First staked ETF tied to Tron hits the US markets on Wednesday
 
 **Author:** Sarah Wynn  
 **Published:** 9/9/2026, 4:01:03 AM  
@@ -95,7 +155,7 @@ The first staked ETF tied to Tron is set to hit the market Wednesday, giving inv
 
 ---
 
-## 8. Hunter Biden details LAPTOP memecoin’s airdrop and burn-or-charity rules ahead of launch
+## 13. Hunter Biden details LAPTOP memecoin’s airdrop and burn-or-charity rules ahead of launch
 
 **Author:** Danny Park  
 **Published:** 9/9/2026, 2:34:58 AM  
@@ -107,7 +167,7 @@ About 30% of the supply is tied to 30 public real-world events that either burn 
 
 ---
 
-## 9. StoneX sees 45% upside for Robinhood, points to accelerating Layer 2 chain and prediction markets
+## 14. StoneX sees 45% upside for Robinhood, points to accelerating Layer 2 chain and prediction markets
 
 **Author:** Timmy Shen  
 **Published:** 9/9/2026, 2:18:25 AM  
