@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-08"
 date: "2026-09-08"
 source: "The Block"
-count: 17
+count: 16
 ---
 
 # The Block - 2026-09-08
 
-17 items collected.
+16 items collected.
 
 ---
 
@@ -200,17 +200,5 @@ Bernstein sees 31% upside for Robinhood as its new chain tops Solana in fees, ge
 A subsequent rollback reversed roughly $111.2 million, but $9.19 million had already left the chain and remains unrecovered, Cronos says.
 
 📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-09-08-cronos-post-mortem-413724)
-
----
-
-## 17. Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form
-
-**Author:** Danny Park  
-**Published:** 9/8/2026, 4:17:21 AM  
-**Categories:** Crypto Ecosystems, DeFi, Layer 1s, Markets, Token Projects, Ethereum, News  
-
-Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegotá.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716)
 
 ---
