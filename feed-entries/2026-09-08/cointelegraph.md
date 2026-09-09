@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-08"
 date: "2026-09-08"
 source: "Cointelegraph"
-count: 20
+count: 19
 ---
 
 # Cointelegraph - 2026-09-08
 
-20 items collected.
+19 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ Former Franklin Templeton digital asset executive Christopher Jensen will lead S
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/8/2026, 8:13:27 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Bybit launches 24/7 perpetuals for major currency pairs
+## 3. Bybit launches 24/7 perpetuals for major currency pairs
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/8/2026, 6:51:08 PM  
@@ -59,7 +47,7 @@ Bybit added USDT-settled perpetuals tracking EUR/USD, GBP/USD and USD/JPY, with 
 
 ---
 
-## 5. Robinhood takes stakes in Crypto.com, OG.com in prediction markets deal
+## 4. Robinhood takes stakes in Crypto.com, OG.com in prediction markets deal
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/8/2026, 5:03:47 PM  
@@ -71,7 +59,7 @@ Robinhood will route event contracts through OG.com’s CFTC-regulated infrastru
 
 ---
 
-## 6. Visa brings onchain credit to its growing stablecoin card business
+## 5. Visa brings onchain credit to its growing stablecoin card business
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/8/2026, 4:11:53 PM  
@@ -83,7 +71,7 @@ Visa is combining VisaNet settlement data with blockchain lending as stablecoin 
 
 ---
 
-## 7. Bitcoin faces key support test at $78.3K as US crude oil hits three-month high
+## 6. Bitcoin faces key support test at $78.3K as US crude oil hits three-month high
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/8/2026, 3:41:11 PM  
@@ -95,7 +83,7 @@ Bitcoin fell with US stocks on the opening of Tuesday’s Wall Street trading se
 
 ---
 
-## 8. Bitmine buys 28k ETH, completes 97% of treasury accumulation goal
+## 7. Bitmine buys 28k ETH, completes 97% of treasury accumulation goal
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/8/2026, 1:51:04 PM  
@@ -107,7 +95,7 @@ While Bitmine’s completed 97% of its goal to acquire 5% of Ether’s supply, T
 
 ---
 
-## 9. Is Bitcoin too volatile to risk your retirement on?
+## 8. Is Bitcoin too volatile to risk your retirement on?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/8/2026, 1:30:00 PM  
@@ -119,7 +107,7 @@ Bitcoin believers see it as an almost certain long-term investment, but retireme
 
 ---
 
-## 10. Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares
+## 9. Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/8/2026, 12:51:00 PM  
@@ -131,7 +119,7 @@ Strategy repurchased $176 million worth of its STRC preferred stock and doubled 
 
 ---
 
-## 11. Mexico quadruple homicide tied to alleged Bitcoin robbery attempt
+## 10. Mexico quadruple homicide tied to alleged Bitcoin robbery attempt
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/8/2026, 12:41:14 PM  
@@ -143,7 +131,7 @@ Two suspects face a Wednesday hearing over four killings allegedly linked to a c
 
 ---
 
-## 12. Circle to acquire Tazapay to expand USDC cross-border payments
+## 11. Circle to acquire Tazapay to expand USDC cross-border payments
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/8/2026, 11:33:14 AM  
@@ -155,7 +143,7 @@ Tazapay processes $25 billion in annualized volume and offers payout rails acros
 
 ---
 
-## 13. Uzbekistan begins government bond-backed stablecoin payment pilot
+## 12. Uzbekistan begins government bond-backed stablecoin payment pilot
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/8/2026, 10:07:10 AM  
@@ -167,7 +155,7 @@ Humo Digital will test HUMO payments with more than 20 merchants under a sandbox
 
 ---
 
-## 14. Ledger CTO urges AI bug hunter responsibility, warns against ‘attention farming’
+## 13. Ledger CTO urges AI bug hunter responsibility, warns against ‘attention farming’
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/8/2026, 10:03:30 AM  
@@ -179,7 +167,7 @@ Ledger and Trezor said researchers have a responsibility to publish their findin
 
 ---
 
-## 15. Robinhood chain to generate $160M in annual fees by 2028: Bernstein
+## 14. Robinhood chain to generate $160M in annual fees by 2028: Bernstein
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/8/2026, 9:56:00 AM  
@@ -191,7 +179,7 @@ Growing demand for tokenized stock trading may drive the Robinhood chain’s ann
 
 ---
 
-## 16. New Bitcoin whales spark sell-side risk as unrealized gains hit $9B
+## 15. New Bitcoin whales spark sell-side risk as unrealized gains hit $9B
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/8/2026, 9:40:26 AM  
@@ -203,7 +191,7 @@ Unrealized gains by whale speculators hit their highest levels on record last we
 
 ---
 
-## 17. Cronos confirms $9.2M slipped away before Tectonic exploit rollback
+## 16. Cronos confirms $9.2M slipped away before Tectonic exploit rollback
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/8/2026, 8:10:44 AM  
@@ -215,7 +203,7 @@ Cronos’s post-mortem put the Tectonic exploit’s affected borrowing at $120.4
 
 ---
 
-## 18. Swiss stablecoin sandbox enters testing phase, adds two new partners
+## 17. Swiss stablecoin sandbox enters testing phase, adds two new partners
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/8/2026, 7:18:32 AM  
@@ -227,7 +215,7 @@ Financial market operator SIX and payment app TWINT have joined numerous banks i
 
 ---
 
-## 19. Australia says it removed 45 crypto, remittance registrations over the past year
+## 18. Australia says it removed 45 crypto, remittance registrations over the past year
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/8/2026, 5:10:33 AM  
@@ -239,7 +227,7 @@ AUSTRAC said its yearlong sweep included canceled, suspended and unrenewed regis
 
 ---
 
-## 20. Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart
+## 19. Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/8/2026, 3:46:17 AM  
