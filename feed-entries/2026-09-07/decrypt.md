@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-07"
 date: "2026-09-07"
 source: "Decrypt"
-count: 14
+count: 12
 ---
 
 # Decrypt - 2026-09-07
 
-14 items collected.
+12 items collected.
 
 ---
 
@@ -152,29 +152,5 @@ EIP-8141 has been a draft since January, and its authors pitch it first as a def
 Keys are going into rented boxes alongside cash, watches and passports, Ireland’s Criminal Assets Bureau says.
 
 📖 [Read original article](https://decrypt.co/377546/irish-gangs-are-renting-private-vaults-to-hide-crypto-keys)
-
----
-
-## 13. Coldcard Hacker Moves $7.7M, Nearly Half of Third-Wave Bitcoin Haul
-
-**Author:** Decrypt Agent  
-**Published:** 9/7/2026, 11:09:27 AM  
-**Categories:** , Coins  
-
-The attacker built 293 separate vaults for the stolen Bitcoin and is emptying them in order of size, largest first.
-
-📖 [Read original article](https://decrypt.co/377537/coldcard-hacker-moves-7-7m-nearly-half-of-third-wave-bitcoin-haul)
-
----
-
-## 14. 'Purported White-Hat Hackers' Withdraw $320M in Bitcoin From Liquid
-
-**Author:** Decrypt Agent  
-**Published:** 9/7/2026, 9:55:42 AM  
-**Categories:** , Coins  
-
-Blockstream and the hackers are engaging with each other through PGP-signed messages in Bitcoin transactions.
-
-📖 [Read original article](https://decrypt.co/377528/purported-white-hat-hackers-withdraw-320m-in-bitcoin-from-liquid)
 
 ---
