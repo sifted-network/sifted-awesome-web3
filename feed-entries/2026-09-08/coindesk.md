@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-08"
 date: "2026-09-08"
 source: "CoinDesk"
-count: 20
+count: 17
 ---
 
 # CoinDesk - 2026-09-08
 
-20 items collected.
+17 items collected.
 
 ---
 
@@ -212,41 +212,5 @@ The unit formalizes past operations, building on 1.5 million euros in seized cry
 Kraken deleted a promotional post after backlash, while a media group named in the token's distribution publicly distanced itself from the project.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/08/crypto-traders-turn-on-hunter-biden-s-laptop-memecoin-before-it-even-launches)
-
----
-
-## 18. Bitcoin’s golden cross is here
-
-**Author:** Omkar Godbole  
-**Published:** 9/8/2026, 5:56:23 AM  
-**Categories:** Markets, Bitcoin News, Technical Analysis, News  
-
-A golden cross has triggered on bitcoin's daily price chart, indicating a potential long-term bullish trend ahead.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/08/bitcoin-s-golden-cross-is-here)
-
----
-
-## 19. Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest
-
-**Author:** Omkar Godbole  
-**Published:** 9/8/2026, 4:41:17 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Supposed whitehat hackers behind Sunday’s Liquid Network breach have returned 3,400 of the 4,000 BTC they took, but nearly $47 million in bitcoin is still outstanding.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network)
-
----
-
-## 20. Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%
-
-**Author:** Shaurya Malwa  
-**Published:** 9/8/2026, 4:40:57 AM  
-**Categories:** Markets, News  
-
-Every major token fell on Tuesday, though most keep weekly gains, with traders pricing a 60% chance of a Fed hike next week.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60)
 
 ---
