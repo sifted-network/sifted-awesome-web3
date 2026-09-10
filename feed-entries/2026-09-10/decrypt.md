@@ -2,16 +2,64 @@
 title: "Decrypt - 2026-09-10"
 date: "2026-09-10"
 source: "Decrypt"
-count: 5
+count: 9
 ---
 
 # Decrypt - 2026-09-10
 
-5 items collected.
+9 items collected.
 
 ---
 
-## 1. Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows
+## 1. Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up
+
+**Author:** Jason Nelson  
+**Published:** 9/10/2026, 6:51:04 PM  
+**Categories:** Coins  
+
+Head of Product Ryan Kass says the return to Coinbase Wallet reflects a broader trading strategy, with the self-custody app serving as a testing ground for new assets and experiences.
+
+📖 [Read original article](https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain)
+
+---
+
+## 2. Bitcoin Rally Cools, But a Golden Cross Is Coming
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/10/2026, 6:46:04 PM  
+**Categories:** , Markets  
+
+Bitcoin couldn't escape today's inflation-driven selloff, but a bearish pattern on its chart is about to flip for the first time since November.
+
+📖 [Read original article](https://decrypt.co/377903/bitcoin-price-golden-cross-coming)
+
+---
+
+## 3. Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS
+
+**Author:** Jason Nelson  
+**Published:** 9/10/2026, 6:13:13 PM  
+**Categories:** Artificial Intelligence  
+
+The Bank for International Settlements says routine patching schedules are increasingly inadequate and cites guidance urging banks to accept planned downtime for urgent fixes.
+
+📖 [Read original article](https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis)
+
+---
+
+## 4. This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/10/2026, 5:07:50 PM  
+**Categories:** Artificial Intelligence  
+
+Kun Chen built chatbot versions of four AI CEOs on SpaceXAI's new Grok Bot templates, locked them in one chat, and told them to debate the AI race until they agreed on something.
+
+📖 [Read original article](https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots)
+
+---
+
+## 5. Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows
 
 **Author:** Jason Nelson  
 **Published:** 9/10/2026, 3:33:11 PM  
@@ -23,7 +71,7 @@ The company now says attacks during security tests exposed model behavior failur
 
 ---
 
-## 2. Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO
+## 6. Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO
 
 **Author:** Decrypt Agent  
 **Published:** 9/10/2026, 1:04:27 PM  
@@ -35,7 +83,7 @@ Brian Armstrong argues the bottom is in, a year into the downturn, with the next
 
 ---
 
-## 3. Morning Minute: Hunter Biden’s LAPTOP Crashes
+## 7. Morning Minute: Hunter Biden’s LAPTOP Crashes
 
 **Author:** Tyler Warner  
 **Published:** 9/10/2026, 12:10:48 PM  
@@ -47,7 +95,7 @@ The meme coin plunged on its debut, as recent alt leaders and many onchain darli
 
 ---
 
-## 4. Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation
+## 8. Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation
 
 **Author:** Decrypt Agent  
 **Published:** 9/10/2026, 11:28:55 AM  
@@ -59,7 +107,7 @@ Deutsche Börse's April stake implied a $13.3 billion valuation. Five months on,
 
 ---
 
-## 5. Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs
+## 9. Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs
 
 **Author:** Decrypt Agent  
 **Published:** 9/10/2026, 10:11:52 AM  
