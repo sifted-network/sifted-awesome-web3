@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-07"
 date: "2026-09-07"
 source: "Decrypt"
-count: 12
+count: 10
 ---
 
 # Decrypt - 2026-09-07
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ The team wants to move ONE to Ethereum and enter the AI-video business, urging u
 LINK hit an eight-month high after Bottomline, a top-three SWIFT services provider moving $16 trillion a year, tapped Chainlink to connect 600-plus banks to blockchain settlement.
 
 📖 [Read original article](https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying)
-
----
-
-## 11. Ethereum Proposal Would Let Users Pay Gas Without Holding ETH
-
-**Author:** Decrypt Agent  
-**Published:** 9/7/2026, 3:03:44 PM  
-**Categories:** , Technology  
-
-EIP-8141 has been a draft since January, and its authors pitch it first as a defense against quantum computers.
-
-📖 [Read original article](https://decrypt.co/377559/ethereum-proposal-would-let-users-pay-gas-without-holding-eth)
-
----
-
-## 12. Irish Gangs Are Renting Private Vaults to Hide Crypto Keys
-
-**Author:** Decrypt Agent  
-**Published:** 9/7/2026, 12:43:50 PM  
-**Categories:** , , Law and Order  
-
-Keys are going into rented boxes alongside cash, watches and passports, Ireland’s Criminal Assets Bureau says.
-
-📖 [Read original article](https://decrypt.co/377546/irish-gangs-are-renting-private-vaults-to-hide-crypto-keys)
 
 ---
