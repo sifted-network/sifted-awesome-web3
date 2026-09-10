@@ -2,16 +2,40 @@
 title: "The Block - 2026-09-10"
 date: "2026-09-10"
 source: "The Block"
-count: 9
+count: 11
 ---
 
 # The Block - 2026-09-10
 
-9 items collected.
+11 items collected.
 
 ---
 
-## 1. Coinbase, Moov to bring stablecoin payment infrastructure to community banks and credit unions
+## 1. Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week
+
+**Author:** Sarah Wynn  
+**Published:** 9/10/2026, 7:42:06 PM  
+**Categories:** Markets, People, Policy, Regulation, U.S. Policymaking, Cynthia Lummis, Senate Agriculture Committee, Senate Banking Committee, News  
+
+Ahead of a pivotal initial vote next week, Senate Republicans released a revised version of landmark cryptocurrency legislation.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180)
+
+---
+
+## 2. Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short
+
+**Author:** James Hunt  
+**Published:** 9/10/2026, 6:00:00 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, News  
+
+The wallet now supports more than 10 networks, including Robinhood Chain and Monad, plus perps, prediction markets, and tokenized stocks.
+
+📖 [Read original article](https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115)
+
+---
+
+## 3. Coinbase, Moov to bring stablecoin payment infrastructure to community banks and credit unions
 
 **Author:** Jason Shubnell  
 **Published:** 9/10/2026, 3:11:41 PM  
@@ -23,7 +47,7 @@ The integration will use Coinbase's Payments API and custodial wallets to embed 
 
 ---
 
-## 2. Uniswap launches ‘StablePair Hook’ to help LPs capture more stablecoin trading value
+## 4. Uniswap launches ‘StablePair Hook’ to help LPs capture more stablecoin trading value
 
 **Author:** Yogita Khatri  
 **Published:** 9/10/2026, 3:00:00 PM  
@@ -35,7 +59,7 @@ Uniswap Labs has launched StablePair Hook, a Uniswap v4 tool that uses dynamic f
 
 ---
 
-## 3. MoneyGram launches first stablecoin-backed Visa card in Colombia
+## 5. MoneyGram launches first stablecoin-backed Visa card in Colombia
 
 **Author:** Yogita Khatri  
 **Published:** 9/10/2026, 2:30:00 PM  
@@ -47,7 +71,7 @@ MoneyGram has launched its first stablecoin-backed Visa card, developed with Rai
 
 ---
 
-## 4. Citadel urges SEC to assert oversight of event contracts tied to public firms
+## 6. Citadel urges SEC to assert oversight of event contracts tied to public firms
 
 **Author:** Brian Danga  
 **Published:** 9/10/2026, 1:43:09 PM  
@@ -59,7 +83,7 @@ Citadel Securities urges SEC oversight of equity-linked event contracts, challen
 
 ---
 
-## 5. Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack
+## 7. Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack
 
 **Author:** James Hunt  
 **Published:** 9/10/2026, 1:00:00 PM  
@@ -71,7 +95,7 @@ The resulting benchmark is less than half Google's previously reported level, th
 
 ---
 
-## 6. Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership
+## 8. Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership
 
 **Author:** Brian Danga  
 **Published:** 9/10/2026, 12:53:22 PM  
@@ -83,7 +107,7 @@ Nasdaq Ventures agreed to invest $100 million in Kraken parent Payward, expandin
 
 ---
 
-## 7. Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years
+## 9. Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years
 
 **Author:** Brian Danga  
 **Published:** 9/10/2026, 10:31:54 AM  
@@ -95,7 +119,7 @@ Coinbase CEO Brian Armstrong expects bitcoin to trend higher over the next two y
 
 ---
 
-## 8. Hunter Biden’s LAPTOP team cites sniper bots, thin liquidity for 99% crash on launch day
+## 10. Hunter Biden’s LAPTOP team cites sniper bots, thin liquidity for 99% crash on launch day
 
 **Author:** Timmy Shen  
 **Published:** 9/10/2026, 5:28:17 AM  
@@ -107,7 +131,7 @@ The LAPTOP project said it will add pool incentives and expects early prediction
 
 ---
 
-## 9. Trezor says third-party security breach led to phishing emails from legitimate domain
+## 11. Trezor says third-party security breach led to phishing emails from legitimate domain
 
 **Author:** Danny Park  
 **Published:** 9/10/2026, 2:26:58 AM  
