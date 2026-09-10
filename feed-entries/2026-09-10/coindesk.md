@@ -2,16 +2,76 @@
 title: "CoinDesk - 2026-09-10"
 date: "2026-09-10"
 source: "CoinDesk"
-count: 18
+count: 23
 ---
 
 # CoinDesk - 2026-09-10
 
-18 items collected.
+23 items collected.
 
 ---
 
-## 1. Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000
+## 1. Why a new SEC plan could ease a legal headache for tokenized securities
+
+**Author:** Krisztian Sandor  
+**Published:** 9/10/2026, 7:01:30 PM  
+**Categories:** Finance, Tokenization, News  
+
+The SEC's new proposal to overhaul transfer-agent rules could eliminate duplicate offchain shareholder records, reducing reconciliation costs and legal uncertainty for tokenized securities.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities)
+
+---
+
+## 2. OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows
+
+**Author:** Helene Braun  
+**Published:** 9/10/2026, 5:07:59 PM  
+**Categories:** Markets, OKX, News  
+
+The exchange is offering up to 10x leverage on private-company valuations alongside 100 tokenized stocks and ETFs.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows)
+
+---
+
+## 3. Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps
+
+**Author:** Francisco Rodrigues,Olivier Acuna  
+**Published:** 9/10/2026, 5:03:34 PM  
+**Categories:** Finance, Prediction Markets, News  
+
+ESMA said that event contracts may fall under existing EU binary-options bans, crypto-asset frameworks like MiCA or national gambling laws.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps)
+
+---
+
+## 4. Polymarket names former Amazon finance chief Warren Jenson as its first CFO
+
+**Author:** Helene Braun  
+**Published:** 9/10/2026, 4:10:03 PM  
+**Categories:** Markets, Polymarket, News  
+
+Jenson becomes the prediction market’s first CFO as Polymarket builds its regulated U.S. exchange and global platform.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo)
+
+---
+
+## 5. Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK
+
+**Author:** Olivier Acuna  
+**Published:** 9/10/2026, 3:53:24 PM  
+**Categories:** Finance, UK, tokenized deposits, banks, News  
+
+The London-based challenger bank tapped a Canadian custodian to meet the Financial Conduct Authority’s regulatory requirements. It now expects to roll out retail tokenized deposits by November.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk)
+
+---
+
+## 6. Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000
 
 **Author:** Jamie Crawley  
 **Published:** 9/10/2026, 3:14:49 PM  
@@ -23,7 +83,7 @@ Just over a quarter of Bitcoin Depot’s more than 9,200 kiosks have been sold f
 
 ---
 
-## 2. Crypto for Advisors: Hyperliquid and the future of finance
+## 7. Crypto for Advisors: Hyperliquid and the future of finance
 
 **Author:** Kim Greenberg Klemballa  
 **Published:** 9/10/2026, 3:00:16 PM  
@@ -35,7 +95,7 @@ Just over a quarter of Bitcoin Depot’s more than 9,200 kiosks have been sold f
 
 ---
 
-## 3. MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending
+## 8. MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending
 
 **Author:** Krisztian Sandor  
 **Published:** 9/10/2026, 2:30:00 PM  
@@ -47,7 +107,7 @@ The remittance giant is rolling out a Visa card that lets customers hold dollars
 
 ---
 
-## 4. Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial
+## 9. Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial
 
 **Author:** Francisco Rodrigues  
 **Published:** 9/10/2026, 1:56:54 PM  
@@ -59,7 +119,7 @@ The coalition warned that the current limit is too low, noting some existing Eur
 
 ---
 
-## 5. Threatened with arrest online? Recognizing a law enforcement impersonation scam
+## 10. Threatened with arrest online? Recognizing a law enforcement impersonation scam
 
 **Author:** Rich Graham  
 **Published:** 9/10/2026, 1:00:00 PM  
@@ -71,7 +131,7 @@ So-called digital arrest scams use false claims of authority to pressure victims
 
 ---
 
-## 6. Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%
+## 11. Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%
 
 **Author:** Shaurya Malwa  
 **Published:** 9/10/2026, 1:00:00 PM  
@@ -83,7 +143,7 @@ A paper shared with CoinDesk shows humans and AI agents beating Google’s March
 
 ---
 
-## 7. BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks
+## 12. BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks
 
 **Author:** Olivier Acuna  
 **Published:** 9/10/2026, 12:00:36 PM  
@@ -95,7 +155,7 @@ Pablo Hernandez cited historical railway and dot-com bubbles to caution that spe
 
 ---
 
-## 8. Treasury yields continue to rise even as Bessent doubles down on bond buybacks
+## 13. Treasury yields continue to rise even as Bessent doubles down on bond buybacks
 
 **Author:** James Van Straten  
 **Published:** 9/10/2026, 11:47:41 AM  
@@ -107,7 +167,7 @@ Long-term yields moved higher despite a $6 billion Treasury buyback, as debt con
 
 ---
 
-## 9. Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives
+## 14. Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives
 
 **Author:** Ian Allison  
 **Published:** 9/10/2026, 11:36:01 AM  
@@ -119,7 +179,7 @@ Bybit has an electronic money institution license in Austria and is about to sna
 
 ---
 
-## 10. Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation
+## 15. Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation
 
 **Author:** Olivier Acuna  
 **Published:** 9/10/2026, 11:21:21 AM  
@@ -131,7 +191,7 @@ The investment expands a strategic partnership to bring tokenized, voting-enable
 
 ---
 
-## 11. Bitcoin traders dial down bullish plays ahead of U.S. inflation data
+## 16. Bitcoin traders dial down bullish plays ahead of U.S. inflation data
 
 **Author:** Omkar Godbole  
 **Published:** 9/10/2026, 11:15:00 AM  
@@ -143,7 +203,7 @@ Your day-ahead look for Sept. 10, 2026
 
 ---
 
-## 12. Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat
+## 17. Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 9/10/2026, 10:24:14 AM  
@@ -155,7 +215,7 @@ Bitcoin fell 2% over 24 hours to $78,111 as 95 of the 100 CoinDesk 100 constitue
 
 ---
 
-## 13. Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain
+## 18. Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain
 
 **Author:** Omkar Godbole  
 **Published:** 9/10/2026, 9:42:59 AM  
@@ -167,19 +227,19 @@ Arya.ag is using Avalanche technology to tokenize grain deposits to help lenders
 
 ---
 
-## 14. Live updates: Bitcoin slumps as ECB hikes rates and U.S. core PPI eases, but remains hot
+## 19. Live updates: Bitcoin slumps as oil and bond yields surge to new highs
 
 **Author:** Shaurya Malwa,James Van Straten,Stephen Alpher,Helene Braun  
 **Published:** 9/10/2026, 7:45:46 AM  
 **Categories:** Finance, Live News, live_news  
 
-Treasury yields and the price of oil continued to surge, with both hitting new cycle highs on Thursday.
+The ECB hiked rates earlier Thursday, and U.S. core PPI was softer than expected, but still running hot.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green)
 
 ---
 
-## 15. SGX's bitcoin and ether perpetual futures are now open to U.S. institutions
+## 20. SGX's bitcoin and ether perpetual futures are now open to U.S. institutions
 
 **Author:** Omkar Godbole  
 **Published:** 9/10/2026, 7:01:44 AM  
@@ -191,7 +251,7 @@ The Singapore Exchange says U.S. institutions can now trade its bitcoin and ethe
 
 ---
 
-## 16. Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses
+## 21. Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses
 
 **Author:** Shaurya Malwa  
 **Published:** 9/10/2026, 6:13:45 AM  
@@ -203,7 +263,7 @@ The team said thin liquidity and automated traders distorted the launch, while N
 
 ---
 
-## 17. Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level
+## 22. Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level
 
 **Author:** Shaurya Malwa  
 **Published:** 9/10/2026, 5:30:15 AM  
@@ -215,7 +275,7 @@ Dogecoin led the losses, BNB fell about 4% and XRP 3%, with oil pushing Treasury
 
 ---
 
-## 18. Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says
+## 23. Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 9/10/2026, 5:05:41 AM  
