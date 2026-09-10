@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-09-09"
 date: "2026-09-09"
 source: "Cointelegraph"
-count: 20
+count: 21
 ---
 
 # Cointelegraph - 2026-09-09
 
-20 items collected.
+21 items collected.
 
 ---
 
-## 1. Consensys to split into MetaMask and institutional blockchain company
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/9/2026, 9:30:00 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. DoubleZero adds Kalshi election market data ahead of US midterms
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/9/2026, 8:08:09 PM  
+**Categories:** Latest News  
+
+The expansion gives institutional and automated traders real-time access to Kalshi’s political markets as election betting activity continues to grow.
+
+📖 [Read original article](https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Consensys to split into MetaMask and institutional blockchain company
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/9/2026, 6:47:32 PM  
@@ -23,7 +47,7 @@ The restructuring will separate MetaMask’s consumer business from Consensys’
 
 ---
 
-## 2. TRM Labs doubles valuation to $2B in Series C expansion
+## 4. TRM Labs doubles valuation to $2B in Series C expansion
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/9/2026, 5:30:06 PM  
@@ -35,7 +59,7 @@ The blockchain intelligence firm said its annual recurring revenue has quadruple
 
 ---
 
-## 3. U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction
+## 5. U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/9/2026, 4:37:08 PM  
@@ -47,7 +71,7 @@ The pilot moved USBDC between the bank’s North American and European entities 
 
 ---
 
-## 4. Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar
+## 6. Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/9/2026, 4:28:19 PM  
@@ -59,7 +83,7 @@ Bitcoin trended lower with US stocks on Iran escalation while US Treasury Secret
 
 ---
 
-## 5. Hunter Biden’s laptop controversy gets a memecoin afterlife
+## 7. Hunter Biden’s laptop controversy gets a memecoin afterlife
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/9/2026, 3:58:39 PM  
@@ -71,7 +95,7 @@ The project’s disclosures say LAPTOP has no utility, lock founder tokens for s
 
 ---
 
-## 6. Trade groups seek to block Illinois crypto tax before January effective date
+## 8. Trade groups seek to block Illinois crypto tax before January effective date
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 9/9/2026, 3:57:07 PM  
@@ -83,7 +107,7 @@ Following on their earlier lawsuit, CCI and the Blockchain Association seek to b
 
 ---
 
-## 7. Tether, Fasanara launch $400M private credit fund targeting $3B
+## 9. Tether, Fasanara launch $400M private credit fund targeting $3B
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/9/2026, 3:21:44 PM  
@@ -95,7 +119,7 @@ The evergreen fund will use USDT infrastructure to support asset-backed lending 
 
 ---
 
-## 8. German finance ministry proposes 25% crypto tax starting 2028: Report
+## 10. German finance ministry proposes 25% crypto tax starting 2028: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/9/2026, 1:49:55 PM  
@@ -107,7 +131,7 @@ The German Ministry of Finance is reportedly seeking to impose a 25% tax on cryp
 
 ---
 
-## 9. 10 of the greatest unsolved crypto mysteries
+## 11. 10 of the greatest unsolved crypto mysteries
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/9/2026, 1:30:00 PM  
@@ -119,7 +143,7 @@ From the whereabouts of the CryptoQueen to a mysterious death involving a DeFi b
 
 ---
 
-## 10. BitMart misses roadmap deadline, appoints financial adviser
+## 12. BitMart misses roadmap deadline, appoints financial adviser
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/9/2026, 1:04:28 PM  
@@ -131,7 +155,7 @@ BitMart provided no asset figures or withdrawal timetable and will launch a feed
 
 ---
 
-## 11. Italy’s central bank orders sanctions screening for crypto transfers
+## 13. Italy’s central bank orders sanctions screening for crypto transfers
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/9/2026, 12:20:33 PM  
@@ -143,7 +167,7 @@ Banca d’Italia ordered crypto service providers to implement internal controls
 
 ---
 
-## 12. What could happen if the CLARITY Act fails to pass in 2026
+## 14. What could happen if the CLARITY Act fails to pass in 2026
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/9/2026, 11:54:41 AM  
@@ -155,7 +179,7 @@ The US Senate has a limited window to pass a crypto market structure bill, but i
 
 ---
 
-## 13. Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties
+## 15. Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/9/2026, 11:15:23 AM  
@@ -167,7 +191,7 @@ Metaplanet’s executive stock pool continues to draw backlash over dilution con
 
 ---
 
-## 14. Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market
+## 16. Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/9/2026, 10:12:16 AM  
@@ -179,7 +203,7 @@ Bitcoin aggregate onchain profit entered its fourth week, but a popular analyst 
 
 ---
 
-## 15. Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down
+## 17. Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/9/2026, 10:05:00 AM  
@@ -191,7 +215,7 @@ Alan Lane said a “coordinated attack” by the Biden administration made Silve
 
 ---
 
-## 16. Iran eases currency rules to bypass US sanctions with crypto: Report
+## 18. Iran eases currency rules to bypass US sanctions with crypto: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/9/2026, 7:36:39 AM  
@@ -203,7 +227,7 @@ Exporters can now fund imports with overseas earnings without first selling thei
 
 ---
 
-## 17. Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin
+## 19. Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/9/2026, 7:36:21 AM  
@@ -215,19 +239,7 @@ The proposed Builders Bank would offer federally supervised digital asset custod
 
 ---
 
-## 18. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/9/2026, 5:51:21 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Gemini receives Singapore payment license for crypto services
+## 20. Gemini receives Singapore payment license for crypto services
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/9/2026, 5:27:12 AM  
@@ -239,7 +251,7 @@ Gemini’s local entity is authorized to provide digital payment token and cross
 
 ---
 
-## 20. Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy
+## 21. Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/9/2026, 4:09:51 AM  
