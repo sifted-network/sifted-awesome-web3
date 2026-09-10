@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-09-10"
 date: "2026-09-10"
 source: "Cointelegraph"
-count: 8
+count: 14
 ---
 
 # Cointelegraph - 2026-09-10
 
-8 items collected.
+14 items collected.
 
 ---
 
-## 1. Hunter Biden denies profiting from memecoin after his LAPTOP crashes
+## 1. Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 9/10/2026, 2:52:15 PM  
+**Categories:** Markets  
+
+Bitcoin fell with US stocks as high inflation and a further surge in oil prices coincided with another multidecade high for US bond yields.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Coinbase, Moov to provide stablecoin infrastructure for US community banks
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/10/2026, 1:35:23 PM  
+**Categories:** Latest News  
+
+The partnership will provide stablecoin acceptance, settlement and real-time funding capabilities to over 1,000 community banks and credit unions.
+
+📖 [Read original article](https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/10/2026, 1:20:26 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Solana sees record 263K tokens issued in a single day
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/10/2026, 1:00:00 PM  
+**Categories:** Latest News  
+
+Memecoin platform Pump.fun accounted for most of the new tokens among launchpads, as the Solana network notched a new all-time daily issuance high.
+
+📖 [Read original article](https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Ex-BoE deputy governor headlines trio of former central bankers joining Fnality
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/10/2026, 12:02:16 PM  
+**Categories:** Latest News  
+
+Jon Cunliffe, Jochen Metzger and Ron Berndsen join Fnality Europe’s supervisory board as the company works to expand beyond its sterling payment system.
+
+📖 [Read original article](https://cointelegraph.com/news/ex-boe-cunliffe-central-bankers-fnality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Nasdaq invests $100M in Kraken parent at $21B valuation: Report
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/10/2026, 11:41:00 AM  
+**Categories:** Latest News  
+
+Nasdaq invested $100 million in Payward as part of its push toward tokenized stock products with round-the-clock trading.
+
+📖 [Read original article](https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Treasury Secretary Bessent urges CLARITY Act passage after Senate returns
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/10/2026, 10:20:00 AM  
+**Categories:** Latest News  
+
+Secretary Scott Bessent warned that failing to pass the CLARITY Act would send a “troubling signal” about America’s leadership in the digital asset industry.
+
+📖 [Read original article](https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Hunter Biden denies profiting from memecoin after his LAPTOP crashes
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/10/2026, 10:08:46 AM  
@@ -23,7 +107,7 @@ Nansen found a $117,800 unrealized loss in one wallet as the team announced liqu
 
 ---
 
-## 2. Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026
+## 9. Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/10/2026, 9:59:32 AM  
@@ -35,7 +119,7 @@ ARKB led Wednesday’s Bitcoin ETF outflows as Ether and Solana funds returned t
 
 ---
 
-## 3. Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view
+## 10. Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/10/2026, 9:36:42 AM  
@@ -47,7 +131,7 @@ Bitcoin investors showed little sign of panic selling as BTC held most of its Au
 
 ---
 
-## 4. India’s Arya.ag to put grain ownership records on Avalanche
+## 11. India’s Arya.ag to put grain ownership records on Avalanche
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/10/2026, 9:30:00 AM  
@@ -59,7 +143,7 @@ The system will combine farmer, grain, warehouse, insurance and loan data for le
 
 ---
 
-## 5. Unicoin sues Uniswap Labs, seeks to cancel UNI registration
+## 12. Unicoin sues Uniswap Labs, seeks to cancel UNI registration
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/10/2026, 8:55:11 AM  
@@ -71,19 +155,7 @@ The complaint says Uniswap’s counsel sent three letters before Unicoin’s Sep
 
 ---
 
-## 6. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/10/2026, 5:59:21 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Trezor, BitBox warn users about fake hardware wallet security alerts
+## 13. Trezor, BitBox warn users about fake hardware wallet security alerts
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/10/2026, 5:34:21 AM  
@@ -95,7 +167,7 @@ BitBox said multiple Bitcoin companies appeared to have been targeted through a 
 
 ---
 
-## 8. US sanctions Xinbi scam marketplace, restrains $52M in crypto
+## 14. US sanctions Xinbi scam marketplace, restrains $52M in crypto
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/10/2026, 4:05:03 AM  
