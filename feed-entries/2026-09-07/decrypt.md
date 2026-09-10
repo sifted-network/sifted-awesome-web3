@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-07"
 date: "2026-09-07"
 source: "Decrypt"
-count: 10
+count: 7
 ---
 
 # Decrypt - 2026-09-07
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ The Iran conflict has increased demand for digital assets to preserve and transf
 A plea agreement hearing in Lam's case is set for Tuesday in Washington, nearly two years after his arrest in Miami.
 
 📖 [Read original article](https://decrypt.co/377595/malone-lam-faces-plea-hearing-over-245m-bitcoin-theft)
-
----
-
-## 8. Hunter Biden to Airdrop LAPTOP Meme Coin to TRUMP’s Biggest Losers
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/7/2026, 4:26:00 PM  
-**Categories:** official-trump, Coins  
-
-Hunter Biden is launching a meme coin called LAPTOP on Sept. 9 on Base, and airdropping traders who lost money on TRUMP.
-
-📖 [Read original article](https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump)
-
----
-
-## 9. Harmony Cites AI Threats in Proposed Blockchain Shutdown
-
-**Author:** Jason Nelson  
-**Published:** 9/7/2026, 4:16:48 PM  
-**Categories:** , harmony, Coins  
-
-The team wants to move ONE to Ethereum and enter the AI-video business, urging users to exit smart contracts before September 10.
-
-📖 [Read original article](https://decrypt.co/377579/harmony-ai-threats-blockchain-shutdown)
-
----
-
-## 10. Bitcoin Starts the Week Flat, But Chainlink Is Flying—Here's Why
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/7/2026, 3:42:34 PM  
-**Categories:** , , Markets  
-
-LINK hit an eight-month high after Bottomline, a top-three SWIFT services provider moving $16 trillion a year, tapped Chainlink to connect 600-plus banks to blockchain settlement.
-
-📖 [Read original article](https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying)
 
 ---
