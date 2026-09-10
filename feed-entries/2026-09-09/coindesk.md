@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-09"
 date: "2026-09-09"
 source: "CoinDesk"
-count: 25
+count: 19
 ---
 
 # CoinDesk - 2026-09-09
 
-25 items collected.
+19 items collected.
 
 ---
 
@@ -75,7 +75,7 @@ The existing company, Consensys Software Inc., will rebrand as MetaMask under Et
 
 **Author:** Ryan Connor  
 **Published:** 9/9/2026, 2:58:07 PM  
-**Categories:** CoinDesk Indices, News  
+**Categories:** CoinDesk Indices, Crypto Long & Short, News  
 
 Ryan Connor of RockawayX writes that the dollar leads the euro about 3 to 1 across the offchain economy and more than 300 to 1 onchain. Euro-pegged stablecoins total €711 million, under 1% of supply. He traces the gap to path dependency and missing euro DeFi infrastructure, and argues MiCA-regulated...
 
@@ -236,77 +236,5 @@ Exporters can use overseas earnings to fund imports directly, bypassing the offi
 Malone Lam, a Miami resident charged with stealing 4,100 bitcoin, led a ring of fraudsters who stole crypto via online scams and home invasions.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case)
-
----
-
-## 20. India’s financial intelligence unit flags 15 crypto platforms for AML lapses
-
-**Author:** Omkar Godbole  
-**Published:** 9/9/2026, 8:17:54 AM  
-**Categories:** Policy, India, News  
-
-The Financial Intelligence Unit-India (FIU-IND) issued non-compliance notices to what it calls virtual digital asset service providers.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/09/09/india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses)
-
----
-
-## 21. Live updates: Bitcoin slips as yields head higher following Treasury buyback announcement
-
-**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Stephen Alpher,Helene Braun  
-**Published:** 9/9/2026, 7:20:51 AM  
-**Categories:** Finance, Live News, live_news  
-
-The Japanese yen extended its rally against the greenback, briefly strengthening past 153 per dollar.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows)
-
----
-
-## 22. AI could kill us, Anthropic researcher says after resigning
-
-**Author:** Omkar Godbole  
-**Published:** 9/9/2026, 6:20:38 AM  
-**Categories:** Markets, News  
-
-The people building AI earnestly believe that it could kill us all by the end of the decade, Coxon said on X, explaining his resignation.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script)
-
----
-
-## 23. Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’
-
-**Author:** Shaurya Malwa  
-**Published:** 9/9/2026, 5:22:57 AM  
-**Categories:** Markets, News  
-
-Biden says the token is about “resilience, redemption and recovery” and will give coins to nearly one million wallets that lost money on TRUMP.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/09/hunter-biden-defends-laptop-ahead-of-wednesday-launch-calls-trump-a-grift)
-
----
-
-## 24. Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models
-
-**Author:** Shaurya Malwa  
-**Published:** 9/9/2026, 4:40:54 AM  
-**Categories:** Tech, News  
-
-Moonshot, whose Kimi model rattled markets earlier this year, is among six Chinese AI firms accused of systematically extracting capabilities from U.S. models.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models)
-
----
-
-## 25. Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul
-
-**Author:** Shaurya Malwa  
-**Published:** 9/9/2026, 4:35:55 AM  
-**Categories:** Markets, News  
-
-Bitcoin fell to nearly $77,600 on Tuesday before clawing most of it back, leaving it little changed on the day while zcash gained roughly 43% on the week and Grayscale's new fund crossed half a billion dollars.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul)
 
 ---
