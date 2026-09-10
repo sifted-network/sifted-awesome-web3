@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-09"
 date: "2026-09-09"
 source: "Cointelegraph"
-count: 16
+count: 12
 ---
 
 # Cointelegraph - 2026-09-09
 
-16 items collected.
+12 items collected.
 
 ---
 
@@ -152,53 +152,5 @@ BitMart provided no asset figures or withdrawal timetable and will launch a feed
 Banca d’Italia ordered crypto service providers to implement internal controls to screen for crypto transfers tied to sanctioned entities.
 
 📖 [Read original article](https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. What could happen if the CLARITY Act fails to pass in 2026
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 9/9/2026, 11:54:41 AM  
-**Categories:** Latest News  
-
-The US Senate has a limited window to pass a crypto market structure bill, but if it were to fail, the legislation could be completely remade or scrapped under Democrats in 2027.
-
-📖 [Read original article](https://cointelegraph.com/news/clarity-act-fails-passage-next-session-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/9/2026, 11:15:23 AM  
-**Categories:** Latest News  
-
-Metaplanet’s executive stock pool continues to draw backlash over dilution concerns, as investors urged the company to freeze the exercise rights tied to 273 million shares.
-
-📖 [Read original article](https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/9/2026, 10:12:16 AM  
-**Categories:** Markets  
-
-Bitcoin aggregate onchain profit entered its fourth week, but a popular analyst warned that BTC price “downside risk” remained in place.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-sopr-metric-sees-longest-profit-run-of-2026-as-new-analysis-challenges-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/9/2026, 10:05:00 AM  
-**Categories:** Latest News  
-
-Alan Lane said a “coordinated attack” by the Biden administration made Silvergate’s continued operation untenable and prompted its liquidation.
-
-📖 [Read original article](https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
