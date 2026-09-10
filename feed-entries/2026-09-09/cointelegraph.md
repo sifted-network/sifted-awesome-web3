@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-09"
 date: "2026-09-09"
 source: "Cointelegraph"
-count: 20
+count: 16
 ---
 
 # Cointelegraph - 2026-09-09
 
-20 items collected.
+16 items collected.
 
 ---
 
@@ -200,53 +200,5 @@ Bitcoin aggregate onchain profit entered its fourth week, but a popular analyst 
 Alan Lane said a “coordinated attack” by the Biden administration made Silvergate’s continued operation untenable and prompted its liquidation.
 
 📖 [Read original article](https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Iran eases currency rules to bypass US sanctions with crypto: Report
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/9/2026, 7:36:39 AM  
-**Categories:** Latest News  
-
-Exporters can now fund imports with overseas earnings without first selling their foreign currency at official rates, the Financial Times reported.
-
-📖 [Read original article](https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/9/2026, 7:36:21 AM  
-**Categories:** Latest News  
-
-The proposed Builders Bank would offer federally supervised digital asset custody but would not accept deposits or issue loans.
-
-📖 [Read original article](https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Gemini receives Singapore payment license for crypto services
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/9/2026, 5:27:12 AM  
-**Categories:** Latest News  
-
-Gemini’s local entity is authorized to provide digital payment token and cross-border money transfer services without standard transaction-volume limits.
-
-📖 [Read original article](https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/9/2026, 4:09:51 AM  
-**Categories:** Latest News  
-
-US prosecutors said Lam organized an international network that targeted cryptocurrency holders through social engineering and home break-ins.
-
-📖 [Read original article](https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
