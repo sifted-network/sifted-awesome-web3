@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-08"
 date: "2026-09-08"
 source: "Decrypt"
-count: 12
+count: 10
 ---
 
 # Decrypt - 2026-09-08
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ The company says it holds roughly 4.9% of Ethereum’s supply, with most of its 
 The Bitcoin treasury firm spent $176.3 million on its own preferred stock, and doubled the buyback program's authorization to $2 billion.
 
 📖 [Read original article](https://decrypt.co/377664/strategys-return-to-bitcoin-buying-lasted-exactly-one-week)
-
----
-
-## 11. Morning Minute: The Trenches Just Had Their Biggest Week Since TRUMP
-
-**Author:** Tyler Warner  
-**Published:** 9/8/2026, 1:06:33 PM  
-**Categories:** , , Opinion  
-
-Is it a warning sign for a local top? Or is the onchain party just getting started?
-
-📖 [Read original article](https://decrypt.co/377661/morning-minute-the-trenches-just-had-their-biggest-week-since-trump)
-
----
-
-## 12. Polish Court Detains Fifth Suspect in Zondacrypto Exchange Probe
-
-**Author:** Decrypt Agent  
-**Published:** 9/8/2026, 9:54:59 AM  
-**Categories:** , Law and Order  
-
-Two chief executives of the exchange have now vanished, four years apart, leaving 1.3 million clients locked out.
-
-📖 [Read original article](https://decrypt.co/377650/polish-court-detains-fifth-suspect-in-zondacrypto-exchange-probe)
 
 ---
