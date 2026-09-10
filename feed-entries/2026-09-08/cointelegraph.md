@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-08"
 date: "2026-09-08"
 source: "Cointelegraph"
-count: 10
+count: 9
 ---
 
 # Cointelegraph - 2026-09-08
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ Bitcoin believers see it as an almost certain long-term investment, but retireme
 Strategy repurchased $176 million worth of its STRC preferred stock and doubled the size of its digital securities repurchase program to $2 billion, while pausing on new Bitcoin buys.
 
 📖 [Read original article](https://cointelegraph.com/news/strategy-skips-bitcoin-buy-repurchase-176m-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Mexico quadruple homicide tied to alleged Bitcoin robbery attempt
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/8/2026, 12:41:14 PM  
-**Categories:** Latest News  
-
-Two suspects face a Wednesday hearing over four killings allegedly linked to a crypto wallet believed to hold millions of dollars in Bitcoin.
-
-📖 [Read original article](https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
