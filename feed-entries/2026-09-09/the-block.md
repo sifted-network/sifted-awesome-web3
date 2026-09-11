@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-09"
 date: "2026-09-09"
 source: "The Block"
-count: 5
+count: 4
 ---
 
 # The Block - 2026-09-09
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Among tracked companies, only one bitcoin mining company has outperformed the cr
 The Hyperliquid Policy Center accused CME Group of stifling innovation and urged a court to dismiss the exchange’s lawsuit against the CFTC.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046)
-
----
-
-## 5. Hunter Biden’s LAPTOP airdrops briefly worth over $1 million each before 99% crash
-
-**Author:** Kyle Baird  
-**Published:** 9/9/2026, 4:05:45 PM  
-**Categories:** Crypto Ecosystems, DeFi, Governance, Market Updates, Markets, Token Projects, Web3, Memecoins, Tokens, News  
-
-Substack subscribers were reportedly able to claim 4,276 LAPTOP tokens each, with some quickly selling their allocations.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034)
 
 ---
