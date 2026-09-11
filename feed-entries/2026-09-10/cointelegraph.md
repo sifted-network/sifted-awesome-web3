@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-09-10"
 date: "2026-09-10"
 source: "Cointelegraph"
-count: 18
+count: 20
 ---
 
 # Cointelegraph - 2026-09-10
 
-18 items collected.
+20 items collected.
 
 ---
 
-## 1. UK House of Lords backs mandatory digital asset strategy over Labour position
+## 1. Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 9/10/2026, 11:21:26 PM  
+**Categories:** Magazine  
+
+Shareholders of Bitcoin treasury company Metaplanet are seething over equity allocations for insiders, while new figures cement Singapore’s role as the top Asian crypto hub.
+
+📖 [Read original article](https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/10/2026, 9:30:00 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. ESMA warns growing crypto ties could amplify risks to traditional finance
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/10/2026, 8:10:29 PM  
+**Categories:** Latest News  
+
+The EU securities regulator flagged tokenized equities, DeFi exploits and prediction markets as areas where growing crypto ties could pose risks to the broader financial system.
+
+📖 [Read original article](https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. UK House of Lords backs mandatory digital asset strategy over Labour position
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/10/2026, 5:54:12 PM  
@@ -23,7 +59,7 @@ The amendment would require the UK Treasury to develop a strategy covering crypt
 
 ---
 
-## 2. Liquid Network resumes block production after $320M exploit
+## 5. Liquid Network resumes block production after $320M exploit
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/10/2026, 4:38:16 PM  
@@ -35,7 +71,7 @@ Liquid restarted block production after deploying emergency software updates, th
 
 ---
 
-## 3. MoneyGram launches Visa stablecoin card as remittance rivals expand
+## 6. MoneyGram launches Visa stablecoin card as remittance rivals expand
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 9/10/2026, 3:59:37 PM  
@@ -47,7 +83,7 @@ MoneyGram is following rival Western Union’s lead, rolling out a Visa stableco
 
 ---
 
-## 4. EU finance groups push to remove tokenized securities cap
+## 7. EU finance groups push to remove tokenized securities cap
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/10/2026, 3:49:22 PM  
@@ -59,7 +95,7 @@ European finance and tokenization groups say Brussels should remove limits on as
 
 ---
 
-## 5. Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high
+## 8. Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/10/2026, 2:52:15 PM  
@@ -71,7 +107,7 @@ Bitcoin fell with US stocks as high inflation and a further surge in oil prices 
 
 ---
 
-## 6. Coinbase, Moov to provide stablecoin infrastructure for US community banks
+## 9. Coinbase, Moov to provide stablecoin infrastructure for US community banks
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/10/2026, 1:35:23 PM  
@@ -83,19 +119,7 @@ The partnership will provide stablecoin acceptance, settlement and real-time fun
 
 ---
 
-## 7. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/10/2026, 1:20:26 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Solana sees record 263K tokens issued in a single day
+## 10. Solana sees record 263K tokens issued in a single day
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/10/2026, 1:00:00 PM  
@@ -107,7 +131,7 @@ Memecoin platform Pump.fun accounted for most of the new tokens among launchpads
 
 ---
 
-## 9. Ex-BoE deputy governor headlines trio of former central bankers joining Fnality
+## 11. Ex-BoE deputy governor headlines trio of former central bankers joining Fnality
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/10/2026, 12:02:16 PM  
@@ -119,7 +143,7 @@ Jon Cunliffe, Jochen Metzger and Ron Berndsen join Fnality Europe’s supervisor
 
 ---
 
-## 10. Nasdaq invests $100M in Kraken parent at $21B valuation: Report
+## 12. Nasdaq invests $100M in Kraken parent at $21B valuation: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/10/2026, 11:41:00 AM  
@@ -131,7 +155,7 @@ Nasdaq invested $100 million in Payward as part of its push toward tokenized sto
 
 ---
 
-## 11. Treasury Secretary Bessent urges CLARITY Act passage after Senate returns
+## 13. Treasury Secretary Bessent urges CLARITY Act passage after Senate returns
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/10/2026, 10:20:00 AM  
@@ -143,7 +167,7 @@ Secretary Scott Bessent warned that failing to pass the CLARITY Act would send a
 
 ---
 
-## 12. Hunter Biden denies profiting from memecoin after his LAPTOP crashes
+## 14. Hunter Biden denies profiting from memecoin after his LAPTOP crashes
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/10/2026, 10:08:46 AM  
@@ -155,7 +179,7 @@ Nansen found a $117,800 unrealized loss in one wallet as the team announced liqu
 
 ---
 
-## 13. Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026
+## 15. Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/10/2026, 9:59:32 AM  
@@ -167,7 +191,7 @@ ARKB led Wednesday’s Bitcoin ETF outflows as Ether and Solana funds returned t
 
 ---
 
-## 14. Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view
+## 16. Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/10/2026, 9:36:42 AM  
@@ -179,7 +203,7 @@ Bitcoin investors showed little sign of panic selling as BTC held most of its Au
 
 ---
 
-## 15. India’s Arya.ag to put grain ownership records on Avalanche
+## 17. India’s Arya.ag to put grain ownership records on Avalanche
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/10/2026, 9:30:00 AM  
@@ -191,7 +215,7 @@ The system will combine farmer, grain, warehouse, insurance and loan data for le
 
 ---
 
-## 16. Unicoin sues Uniswap Labs, seeks to cancel UNI registration
+## 18. Unicoin sues Uniswap Labs, seeks to cancel UNI registration
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/10/2026, 8:55:11 AM  
@@ -203,7 +227,7 @@ The complaint says Uniswap’s counsel sent three letters before Unicoin’s Sep
 
 ---
 
-## 17. Trezor, BitBox warn users about fake hardware wallet security alerts
+## 19. Trezor, BitBox warn users about fake hardware wallet security alerts
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/10/2026, 5:34:21 AM  
@@ -215,7 +239,7 @@ BitBox said multiple Bitcoin companies appeared to have been targeted through a 
 
 ---
 
-## 18. US sanctions Xinbi scam marketplace, restrains $52M in crypto
+## 20. US sanctions Xinbi scam marketplace, restrains $52M in crypto
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/10/2026, 4:05:03 AM  
