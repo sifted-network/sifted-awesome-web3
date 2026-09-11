@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-10"
 date: "2026-09-10"
 source: "CoinDesk"
-count: 20
+count: 13
 ---
 
 # CoinDesk - 2026-09-10
 
-20 items collected.
+13 items collected.
 
 ---
 
@@ -27,7 +27,7 @@ The Clarity Act needs 60 votes when the Senate returns from its recess next week
 
 **Author:** Krisztian Sandor  
 **Published:** 9/10/2026, 7:01:30 PM  
-**Categories:** Finance, Tokenization, News  
+**Categories:** Finance, Tokenization, Fairmint, SEC, News  
 
 The SEC's new proposal to overhaul transfer-agent rules could eliminate duplicate offchain shareholder records, reducing reconciliation costs and legal uncertainty for tokenized securities.
 
@@ -164,89 +164,5 @@ A paper shared with CoinDesk shows humans and AI agents beating Google’s March
 Pablo Hernandez cited historical railway and dot-com bubbles to caution that spending driven by hype over actual profits risks broad economic corrections.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/10/ai-s-rapid-rise-poses-global-financial-stability-risks-says-head-of-the-bis)
-
----
-
-## 14. Treasury yields continue to rise even as Bessent doubles down on bond buybacks
-
-**Author:** James Van Straten  
-**Published:** 9/10/2026, 11:47:41 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Long-term yields moved higher despite a $6 billion Treasury buyback, as debt concerns and rising oil prices continue to pressure global bond markets.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/10/scott-bessent-doubles-down-on-bond-buybacks-as-treasury-yields-continue-to-surge)
-
----
-
-## 15. Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives
-
-**Author:** Ian Allison  
-**Published:** 9/10/2026, 11:36:01 AM  
-**Categories:** Finance, Exclusive, Regulation, News  
-
-Bybit has an electronic money institution license in Austria and is about to snag a MiFID license too, CEO Ben Zhou told Coindesk.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/10/crypto-exchange-giant-bybit-to-offer-european-super-app-with-stocks-derivatives)
-
----
-
-## 16. Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation
-
-**Author:** Olivier Acuna  
-**Published:** 9/10/2026, 11:21:21 AM  
-**Categories:** Finance, Kraken, Nasdaq, News  
-
-The investment expands a strategic partnership to bring tokenized, voting-enabled equities to crypto exchange users.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation)
-
----
-
-## 17. Bitcoin traders dial down bullish plays ahead of U.S. inflation data
-
-**Author:** Omkar Godbole  
-**Published:** 9/10/2026, 11:15:00 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Sept. 10, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/09/10/bitcoin-traders-dial-down-bullish-plays-ahead-of-u-s-inflation-data)
-
----
-
-## 18. Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 9/10/2026, 10:24:14 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin fell 2% over 24 hours to $78,111 as 95 of the 100 CoinDesk 100 constituents declined, with most of the damage done overnight.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/10/bitcoin-trades-near-usd78-000-as-memecoins-small-caps-lead-a-broad-crypto-retreat)
-
----
-
-## 19. Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain
-
-**Author:** Omkar Godbole  
-**Published:** 9/10/2026, 9:42:59 AM  
-**Categories:** Finance, India, Tokenization, Real World Assets, News  
-
-Arya.ag is using Avalanche technology to tokenize grain deposits to help lenders verify crops backing agricultural loans.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/10/indian-agri-warehouse-giant-is-putting-usd2-billion-in-grain-backed-loans-onchain)
-
----
-
-## 20. Live updates: Bitcoin slumps as oil and bond yields surge to new highs
-
-**Author:** Shaurya Malwa,James Van Straten,Stephen Alpher,Helene Braun  
-**Published:** 9/10/2026, 7:45:46 AM  
-**Categories:** Finance, Live News, live_news  
-
-The ECB hiked rates earlier Thursday, and U.S. core PPI was softer than expected, but still running hot.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green)
 
 ---
