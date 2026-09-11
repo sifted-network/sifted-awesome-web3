@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-09-10"
 date: "2026-09-10"
 source: "CoinDesk"
-count: 23
+count: 24
 ---
 
 # CoinDesk - 2026-09-10
 
-23 items collected.
+24 items collected.
 
 ---
 
-## 1. Why a new SEC plan could ease a legal headache for tokenized securities
+## 1. New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky
+
+**Author:** Nikhilesh De,Jesse Hamilton  
+**Published:** 9/10/2026, 8:21:57 PM  
+**Categories:** Policy, Clarity Act, News  
+
+The Clarity Act needs 60 votes when the Senate returns from its recess next week. Republicans circulated a fresh draft on Thursday ahead of the vote.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky)
+
+---
+
+## 2. Why a new SEC plan could ease a legal headache for tokenized securities
 
 **Author:** Krisztian Sandor  
 **Published:** 9/10/2026, 7:01:30 PM  
@@ -23,7 +35,7 @@ The SEC's new proposal to overhaul transfer-agent rules could eliminate duplicat
 
 ---
 
-## 2. OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows
+## 3. OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows
 
 **Author:** Helene Braun  
 **Published:** 9/10/2026, 5:07:59 PM  
@@ -35,7 +47,7 @@ The exchange is offering up to 10x leverage on private-company valuations alongs
 
 ---
 
-## 3. Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps
+## 4. Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps
 
 **Author:** Francisco Rodrigues,Olivier Acuna  
 **Published:** 9/10/2026, 5:03:34 PM  
@@ -47,7 +59,7 @@ ESMA said that event contracts may fall under existing EU binary-options bans, c
 
 ---
 
-## 4. Polymarket names former Amazon finance chief Warren Jenson as its first CFO
+## 5. Polymarket names former Amazon finance chief Warren Jenson as its first CFO
 
 **Author:** Helene Braun  
 **Published:** 9/10/2026, 4:10:03 PM  
@@ -59,7 +71,7 @@ Jenson becomes the prediction market’s first CFO as Polymarket builds its regu
 
 ---
 
-## 5. Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK
+## 6. Monument Bank delays retail tokenized deposits while onboarding custody partner
 
 **Author:** Olivier Acuna  
 **Published:** 9/10/2026, 3:53:24 PM  
@@ -71,7 +83,7 @@ The London-based challenger bank tapped a Canadian custodian to meet the Financi
 
 ---
 
-## 6. Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000
+## 7. Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000
 
 **Author:** Jamie Crawley  
 **Published:** 9/10/2026, 3:14:49 PM  
@@ -83,7 +95,7 @@ Just over a quarter of Bitcoin Depot’s more than 9,200 kiosks have been sold f
 
 ---
 
-## 7. Crypto for Advisors: Hyperliquid and the future of finance
+## 8. Crypto for Advisors: Hyperliquid and the future of finance
 
 **Author:** Kim Greenberg Klemballa  
 **Published:** 9/10/2026, 3:00:16 PM  
@@ -95,7 +107,7 @@ Just over a quarter of Bitcoin Depot’s more than 9,200 kiosks have been sold f
 
 ---
 
-## 8. MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending
+## 9. MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending
 
 **Author:** Krisztian Sandor  
 **Published:** 9/10/2026, 2:30:00 PM  
@@ -107,7 +119,7 @@ The remittance giant is rolling out a Visa card that lets customers hold dollars
 
 ---
 
-## 9. Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial
+## 10. Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial
 
 **Author:** Francisco Rodrigues  
 **Published:** 9/10/2026, 1:56:54 PM  
@@ -119,7 +131,7 @@ The coalition warned that the current limit is too low, noting some existing Eur
 
 ---
 
-## 10. Threatened with arrest online? Recognizing a law enforcement impersonation scam
+## 11. Threatened with arrest online? Recognizing a law enforcement impersonation scam
 
 **Author:** Rich Graham  
 **Published:** 9/10/2026, 1:00:00 PM  
@@ -131,7 +143,7 @@ So-called digital arrest scams use false claims of authority to pressure victims
 
 ---
 
-## 11. Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%
+## 12. Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%
 
 **Author:** Shaurya Malwa  
 **Published:** 9/10/2026, 1:00:00 PM  
@@ -143,7 +155,7 @@ A paper shared with CoinDesk shows humans and AI agents beating Google’s March
 
 ---
 
-## 12. BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks
+## 13. BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks
 
 **Author:** Olivier Acuna  
 **Published:** 9/10/2026, 12:00:36 PM  
@@ -155,7 +167,7 @@ Pablo Hernandez cited historical railway and dot-com bubbles to caution that spe
 
 ---
 
-## 13. Treasury yields continue to rise even as Bessent doubles down on bond buybacks
+## 14. Treasury yields continue to rise even as Bessent doubles down on bond buybacks
 
 **Author:** James Van Straten  
 **Published:** 9/10/2026, 11:47:41 AM  
@@ -167,7 +179,7 @@ Long-term yields moved higher despite a $6 billion Treasury buyback, as debt con
 
 ---
 
-## 14. Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives
+## 15. Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives
 
 **Author:** Ian Allison  
 **Published:** 9/10/2026, 11:36:01 AM  
@@ -179,7 +191,7 @@ Bybit has an electronic money institution license in Austria and is about to sna
 
 ---
 
-## 15. Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation
+## 16. Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation
 
 **Author:** Olivier Acuna  
 **Published:** 9/10/2026, 11:21:21 AM  
@@ -191,7 +203,7 @@ The investment expands a strategic partnership to bring tokenized, voting-enable
 
 ---
 
-## 16. Bitcoin traders dial down bullish plays ahead of U.S. inflation data
+## 17. Bitcoin traders dial down bullish plays ahead of U.S. inflation data
 
 **Author:** Omkar Godbole  
 **Published:** 9/10/2026, 11:15:00 AM  
@@ -203,7 +215,7 @@ Your day-ahead look for Sept. 10, 2026
 
 ---
 
-## 17. Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat
+## 18. Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 9/10/2026, 10:24:14 AM  
@@ -215,7 +227,7 @@ Bitcoin fell 2% over 24 hours to $78,111 as 95 of the 100 CoinDesk 100 constitue
 
 ---
 
-## 18. Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain
+## 19. Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain
 
 **Author:** Omkar Godbole  
 **Published:** 9/10/2026, 9:42:59 AM  
@@ -227,7 +239,7 @@ Arya.ag is using Avalanche technology to tokenize grain deposits to help lenders
 
 ---
 
-## 19. Live updates: Bitcoin slumps as oil and bond yields surge to new highs
+## 20. Live updates: Bitcoin slumps as oil and bond yields surge to new highs
 
 **Author:** Shaurya Malwa,James Van Straten,Stephen Alpher,Helene Braun  
 **Published:** 9/10/2026, 7:45:46 AM  
@@ -239,7 +251,7 @@ The ECB hiked rates earlier Thursday, and U.S. core PPI was softer than expected
 
 ---
 
-## 20. SGX's bitcoin and ether perpetual futures are now open to U.S. institutions
+## 21. SGX's bitcoin and ether perpetual futures are now open to U.S. institutions
 
 **Author:** Omkar Godbole  
 **Published:** 9/10/2026, 7:01:44 AM  
@@ -251,7 +263,7 @@ The Singapore Exchange says U.S. institutions can now trade its bitcoin and ethe
 
 ---
 
-## 21. Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses
+## 22. Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses
 
 **Author:** Shaurya Malwa  
 **Published:** 9/10/2026, 6:13:45 AM  
@@ -263,7 +275,7 @@ The team said thin liquidity and automated traders distorted the launch, while N
 
 ---
 
-## 22. Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level
+## 23. Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level
 
 **Author:** Shaurya Malwa  
 **Published:** 9/10/2026, 5:30:15 AM  
@@ -275,7 +287,7 @@ Dogecoin led the losses, BNB fell about 4% and XRP 3%, with oil pushing Treasury
 
 ---
 
-## 23. Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says
+## 24. Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 9/10/2026, 5:05:41 AM  
