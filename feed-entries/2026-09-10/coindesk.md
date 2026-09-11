@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-10"
 date: "2026-09-10"
 source: "CoinDesk"
-count: 24
+count: 20
 ---
 
 # CoinDesk - 2026-09-10
 
-24 items collected.
+20 items collected.
 
 ---
 
@@ -248,53 +248,5 @@ Arya.ag is using Avalanche technology to tokenize grain deposits to help lenders
 The ECB hiked rates earlier Thursday, and U.S. core PPI was softer than expected, but still running hot.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green)
-
----
-
-## 21. SGX's bitcoin and ether perpetual futures are now open to U.S. institutions
-
-**Author:** Omkar Godbole  
-**Published:** 9/10/2026, 7:01:44 AM  
-**Categories:** Markets, Singapore, Markets, News  
-
-The Singapore Exchange says U.S. institutions can now trade its bitcoin and ether perpetual futures, a milestone that bridges U.S. trading desks with Asian liquidity.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/10/sgx-s-bitcoin-and-ether-perpetual-futures-are-now-open-to-u-s-institutions)
-
----
-
-## 22. Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses
-
-**Author:** Shaurya Malwa  
-**Published:** 9/10/2026, 6:13:45 AM  
-**Categories:** Markets, News  
-
-The team said thin liquidity and automated traders distorted the launch, while Nansen data showed some early buyers sitting on six-figure losses after the memecoin’s debut.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses)
-
----
-
-## 23. Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level
-
-**Author:** Shaurya Malwa  
-**Published:** 9/10/2026, 5:30:15 AM  
-**Categories:** Markets, News  
-
-Dogecoin led the losses, BNB fell about 4% and XRP 3%, with oil pushing Treasury yields to their highest since late 2023.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level)
-
----
-
-## 24. Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 9/10/2026, 5:05:41 AM  
-**Categories:** Markets, Coinbase, News  
-
-Coinbase CEO tells CNBC the crypto industry gets regulatory clarity whether or not the Senate passes the bill on Sept. 15.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says)
 
 ---
