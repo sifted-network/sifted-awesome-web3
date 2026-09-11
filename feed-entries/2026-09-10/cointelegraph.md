@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-10"
 date: "2026-09-10"
 source: "Cointelegraph"
-count: 15
+count: 11
 ---
 
 # Cointelegraph - 2026-09-10
 
-15 items collected.
+11 items collected.
 
 ---
 
@@ -140,53 +140,5 @@ Jon Cunliffe, Jochen Metzger and Ron Berndsen join Fnality Europe’s supervisor
 Nasdaq invested $100 million in Payward as part of its push toward tokenized stock products with round-the-clock trading.
 
 📖 [Read original article](https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Treasury Secretary Bessent urges CLARITY Act passage after Senate returns
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/10/2026, 10:20:00 AM  
-**Categories:** Latest News  
-
-Secretary Scott Bessent warned that failing to pass the CLARITY Act would send a “troubling signal” about America’s leadership in the digital asset industry.
-
-📖 [Read original article](https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Hunter Biden denies profiting from memecoin after his LAPTOP crashes
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/10/2026, 10:08:46 AM  
-**Categories:** Latest News  
-
-Nansen found a $117,800 unrealized loss in one wallet as the team announced liquidity incentives and Bubblemaps flagged fresh top holders.
-
-📖 [Read original article](https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/10/2026, 9:59:32 AM  
-**Categories:** Markets  
-
-ARKB led Wednesday’s Bitcoin ETF outflows as Ether and Solana funds returned to net inflows.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etfs-shed-167m-after-strongest-three-week-inflow-run-of-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/10/2026, 9:36:42 AM  
-**Categories:** Markets  
-
-Bitcoin investors showed little sign of panic selling as BTC held most of its August gains and sell-side risk fell to rare lows, data showed.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-sell-side-risk-returns-rare-lows-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
