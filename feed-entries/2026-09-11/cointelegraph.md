@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-09-11"
 date: "2026-09-11"
 source: "Cointelegraph"
-count: 15
+count: 19
 ---
 
 # Cointelegraph - 2026-09-11
 
-15 items collected.
+19 items collected.
 
 ---
 
-## 1. Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary
+## 1. Bitcoin Suisse to shift up to half of Swiss jobs abroad
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/11/2026, 7:46:24 PM  
+**Categories:** Latest News  
+
+The Swiss crypto financial services firm plans to move back-office functions to lower-cost international hubs as it expands its global wealth and asset management business, according to Finews.
+
+📖 [Read original article](https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Hyperliquid’s biggest risk is regulation, says Ran Neuner
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/11/2026, 6:45:15 PM  
+**Categories:** Latest News  
+
+The Crypto Banter founder said Hyperliquid’s network effects give it a strong competitive moat, but regulatory uncertainty remains its biggest threat.
+
+📖 [Read original article](https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/11/2026, 4:05:15 PM  
+**Categories:** Latest News  
+
+The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt’s fUSD stablecoin through its custody platform.
+
+📖 [Read original article](https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 9/11/2026, 4:03:37 PM  
+**Categories:** Markets  
+
+Bitcoin briefly rebounded past $79,000 and US stocks turned green as US CPI inflation data met expectations.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/11/2026, 1:44:27 PM  
@@ -23,7 +71,7 @@ Metaplanet will cut 131.3 million potential shares and form a $1 million Hong Ko
 
 ---
 
-## 2. Trading stocks against BONER is the latest trend for DeFi degens
+## 6. Trading stocks against BONER is the latest trend for DeFi degens
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/11/2026, 1:30:00 PM  
@@ -35,7 +83,7 @@ Why would anyone want to trade a healthcare stock for a memecoin like BONER? Why
 
 ---
 
-## 3. Here’s what happened in crypto today
+## 7. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/11/2026, 12:57:24 PM  
@@ -47,7 +95,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 4. Bitcoin ETF outflows accelerate as investors pull $449M in three days
+## 8. Bitcoin ETF outflows accelerate as investors pull $449M in three days
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/11/2026, 12:33:38 PM  
@@ -59,7 +107,7 @@ ARK 21Shares accounted for $164 million of Thursday’s Bitcoin ETF withdrawals,
 
 ---
 
-## 5. Robinhood’s crypto volume increases 61% in August, still down 38% YoY
+## 9. Robinhood’s crypto volume increases 61% in August, still down 38% YoY
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/11/2026, 11:49:07 AM  
@@ -71,7 +119,7 @@ Bitstamp accounted for $10.1 billion of Robinhood’s August crypto volume, whil
 
 ---
 
-## 6. UniCredit seeks infrastructure partner for crypto trading, custody: Report
+## 10. UniCredit seeks infrastructure partner for crypto trading, custody: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/11/2026, 11:35:27 AM  
@@ -83,7 +131,7 @@ The Italian bank is reportedly seeking assistance in launching access to crypto 
 
 ---
 
-## 7. Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’
+## 11. Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/11/2026, 10:53:55 AM  
@@ -95,7 +143,7 @@ Bitcoin HODL waves data revealed an unusually muted reaction to Bitcoin’s drop
 
 ---
 
-## 8. Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028
+## 12. Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/11/2026, 10:44:28 AM  
@@ -107,7 +155,7 @@ The bank expects Sky to pass five times as much value to token holders by 2028 a
 
 ---
 
-## 9. India launches tokenized bond pilot with $107M issued
+## 13. India launches tokenized bond pilot with $107M issued
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/11/2026, 10:33:24 AM  
@@ -119,7 +167,7 @@ SEBI said later phases of Demat 2.0 will introduce secondary trading and open th
 
 ---
 
-## 10. Anthropic says Claude used for cyberattacks and surveillance
+## 14. Anthropic says Claude used for cyberattacks and surveillance
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/11/2026, 9:47:31 AM  
@@ -131,7 +179,7 @@ A Russian-speaking operator targeted more than 20 organizations, while a Mali co
 
 ---
 
-## 11. Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC
+## 15. Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/11/2026, 8:43:19 AM  
@@ -143,7 +191,7 @@ Blockstream said it would work with law enforcement, exchanges and forensic spec
 
 ---
 
-## 12. Bitwise to put down Dogecoin ETF less than a year after launch
+## 16. Bitwise to put down Dogecoin ETF less than a year after launch
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/11/2026, 7:47:13 AM  
@@ -155,7 +203,7 @@ BWOW held about $688,000 in net assets as of Sept. 9. Trading is expected to end
 
 ---
 
-## 13. SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report
+## 17. SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/11/2026, 7:43:19 AM  
@@ -167,7 +215,7 @@ Bankman-Fried’s lawyers challenged the exclusion of evidence about customer lo
 
 ---
 
-## 14. Revised CLARITY Act targets ‘non-decentralized’ DeFi operators
+## 18. Revised CLARITY Act targets ‘non-decentralized’ DeFi operators
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/11/2026, 6:08:26 AM  
@@ -179,7 +227,7 @@ The bill’s ethics section remained largely unchanged despite being one of the 
 
 ---
 
-## 15. Brevo login flaw enabled phishing email targeting 347K Trezor subscribers
+## 19. Brevo login flaw enabled phishing email targeting 347K Trezor subscribers
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/11/2026, 4:21:14 AM  
