@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-08"
 date: "2026-09-08"
 source: "Decrypt"
-count: 7
+count: 5
 ---
 
 # Decrypt - 2026-09-08
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ The payment processor giant is pairing payment settlement data with blockchain l
 The Vivek Ramaswamy-founded asset manager added 1,375 BTC last week, its third straight week of 5%-plus growth.
 
 📖 [Read original article](https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion)
-
----
-
-## 6. Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit
-
-**Author:** Jason Nelson  
-**Published:** 9/8/2026, 5:10:51 PM  
-**Categories:** DeFi  
-
-The rollback reversed legitimate activity alongside the attack, while $9.19 million remains unrecovered, according to Cronos.
-
-📖 [Read original article](https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit)
-
----
-
-## 7. US Police Fear Meta Glasses Are Watching Them Back: Report
-
-**Author:** Decrypt Agent  
-**Published:** 9/8/2026, 3:28:43 PM  
-**Categories:** Law and Order  
-
-Memos from the NYPD to Homeland Security warn the devices could be used for covert filming inside jails and police facilities.
-
-📖 [Read original article](https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report)
 
 ---
