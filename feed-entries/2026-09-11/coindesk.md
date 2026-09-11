@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-09-11"
 date: "2026-09-11"
 source: "CoinDesk"
-count: 12
+count: 14
 ---
 
 # CoinDesk - 2026-09-11
 
-12 items collected.
+14 items collected.
 
 ---
 
-## 1. India's richest state is exploring tokenizing its own assets to fund new infrastructure
+## 1. The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act
+
+**Author:** Jesse Hamilton  
+**Published:** 9/11/2026, 5:12:45 PM  
+**Categories:** News Analysis, Sam Bankman-Fried, Crime, News  
+
+The fallen leader of the former top exchange FTX is looking for answers from the U.S. Supreme Court.
+
+📖 [Read original article](https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act)
+
+---
+
+## 2. With Fed rate hike all but assured, here's how markets might react
+
+**Author:** Helene Braun  
+**Published:** 9/11/2026, 3:45:56 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Traders could look past an expected Fed hike and weigh what higher rates are signaling about the economy.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story)
+
+---
+
+## 3. India's richest state is exploring tokenizing its own assets to fund new infrastructure
 
 **Author:** Omkar Godbole  
 **Published:** 9/11/2026, 3:17:08 PM  
@@ -23,7 +47,7 @@ Maharashtra is drafting a policy to tokenize the state's assets, including the e
 
 ---
 
-## 2. Metaplanet cuts executive reward pool by 41%, extinguishes $220 million in value
+## 4. Metaplanet cuts executive reward pool by 41%, extinguishes $220 million in value
 
 **Author:** James Van Straten  
 **Published:** 9/11/2026, 1:46:51 PM  
@@ -35,7 +59,7 @@ The bitcoin treasury firm cut the potential Series 10 share pool to 188.2 millio
 
 ---
 
-## 3. Zodia Custody CEO Julian Sawyer steps down, becomes adviser
+## 5. Zodia Custody CEO Julian Sawyer steps down, becomes adviser
 
 **Author:** Will Canny  
 **Published:** 9/11/2026, 1:32:52 PM  
@@ -47,7 +71,7 @@ Sawyer will become a strategic adviser rather than take the helm of Zodia Soluti
 
 ---
 
-## 4. Core CPI rose a faster-than-forecast 0.3% in August, setting up possible Fed rate hike
+## 6. Core CPI rose a faster-than-forecast 0.3% in August, setting up possible Fed rate hike
 
 **Author:** James Van Straten,Stephen Alpher  
 **Published:** 9/11/2026, 12:32:25 PM  
@@ -59,7 +83,7 @@ The August CPI report had taken on outsized importance after Fed Chair Kevin War
 
 ---
 
-## 5. Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report
+## 7. Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report
 
 **Author:** Francisco Rodrigues  
 **Published:** 9/11/2026, 11:20:26 AM  
@@ -71,7 +95,7 @@ Your day-ahead look for Sept. 11, 2026
 
 ---
 
-## 6. Live updates: Bitcoin heads higher as investors look past looming Fed rate hike
+## 8. Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes
 
 **Author:** Shaurya Malwa,Stephen Alpher,James Van Straten  
 **Published:** 9/11/2026, 11:04:12 AM  
@@ -83,7 +107,7 @@ Core CPI rose a faster-than-forecast 0.3% in August, but the yearly pace of 2.4%
 
 ---
 
-## 7. Bitcoin recovers toward $77,300 as zcash leverage unwinds
+## 9. Bitcoin recovers toward $77,300 as zcash leverage unwinds
 
 **Author:** Oliver Knight  
 **Published:** 9/11/2026, 10:50:47 AM  
@@ -95,7 +119,7 @@ Bitcoin rose 0.7% since midnight UTC to around $77,200, and 68 of the CoinDesk 1
 
 ---
 
-## 8. Bitcoin pulls back as another golden cross fails to deliver
+## 10. Bitcoin pulls back as another golden cross fails to deliver
 
 **Author:** James Van Straten  
 **Published:** 9/11/2026, 10:13:44 AM  
@@ -107,7 +131,7 @@ Bitcoin’s golden cross may support the longer-term outlook, but history sugges
 
 ---
 
-## 9. Kalshi wants 24/7 Tesla and Nvidia perps as Wall Street fights over who regulates them
+## 11. Kalshi wants 24/7 Tesla and Nvidia perps as Wall Street fights over who regulates them
 
 **Author:** Shaurya Malwa  
 **Published:** 9/11/2026, 6:17:31 AM  
@@ -119,7 +143,7 @@ The prediction-market operator plans to seek U.S. approval for about 60 stock an
 
 ---
 
-## 10. India starts tokenizing $620 billion corporate bond market with digital rupee settlement
+## 12. India starts tokenizing $620 billion corporate bond market with digital rupee settlement
 
 **Author:** Shaurya Malwa  
 **Published:** 9/11/2026, 5:13:15 AM  
@@ -131,7 +155,7 @@ SEBI’s Demat 2.0 pilot turns corporate bonds into digital tokens and settles p
 
 ---
 
-## 11. Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike
+## 13. Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike
 
 **Author:** Shaurya Malwa  
 **Published:** 9/11/2026, 4:46:15 AM  
@@ -143,7 +167,7 @@ Ninety-five of the CoinDesk 100 fell over the past 24 hours, and bitcoin has she
 
 ---
 
-## 12. Ripple puts AI agents inside its $1 billion corporate treasury bet
+## 14. Ripple puts AI agents inside its $1 billion corporate treasury bet
 
 **Author:** Shaurya Malwa  
 **Published:** 9/11/2026, 4:25:21 AM  
