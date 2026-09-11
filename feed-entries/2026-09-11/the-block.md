@@ -2,16 +2,40 @@
 title: "The Block - 2026-09-11"
 date: "2026-09-11"
 source: "The Block"
-count: 2
+count: 4
 ---
 
 # The Block - 2026-09-11
 
-2 items collected.
+4 items collected.
 
 ---
 
-## 1. ESMA says major prediction platforms lack EU authorization, questions Polymarket and Kalshi’s partial geo-blocks
+## 1. India’s SEBI Demat 2.0 pilot debuts with over $100 million in tokenized bonds
+
+**Author:** Brian Danga  
+**Published:** 9/11/2026, 12:09:12 PM  
+**Categories:** Policy, Regulation, News  
+
+India's SEBI Demat 2.0 pilot saw three issuers raise over $100 million in tokenized corporate bonds, with settlement via wholesale CBDC.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-11-indias-sebi-demat-2-0-pilot-debuts-with-over-100-million-in-tokenized-bonds-414252)
+
+---
+
+## 2. ‘Return the bitcoin’: Blockstream refuses ransom demand for remaining 600 BTC from Liquid exploit
+
+**Author:** James Hunt  
+**Published:** 9/11/2026, 11:21:17 AM  
+**Categories:** Crypto Ecosystems, News  
+
+Liquid has resumed transactions following the exploit, though peg-outs remain disabled as recovery work continues.
+
+📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-09-11-return-the-bitcoin-blockstream-refuses-ransom-demand-for-remaining-600-btc-from-liquid-exploit-414247)
+
+---
+
+## 3. ESMA says major prediction platforms lack EU authorization, questions Polymarket and Kalshi’s partial geo-blocks
 
 **Author:** Brian Danga  
 **Published:** 9/11/2026, 10:10:37 AM  
@@ -23,7 +47,7 @@ ESMA says major prediction platforms lack EU authorization, while questioning Po
 
 ---
 
-## 2. Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture
+## 4. Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture
 
 **Author:** Danny Park  
 **Published:** 9/11/2026, 4:20:15 AM  
