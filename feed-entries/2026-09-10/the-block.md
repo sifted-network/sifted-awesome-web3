@@ -2,16 +2,28 @@
 title: "The Block - 2026-09-10"
 date: "2026-09-10"
 source: "The Block"
-count: 11
+count: 12
 ---
 
 # The Block - 2026-09-10
 
-11 items collected.
+12 items collected.
 
 ---
 
-## 1. Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week
+## 1. Bitwise shuts down Dogecoin ETF less than a year after launch
+
+**Author:** Jason Shubnell  
+**Published:** 9/10/2026, 8:28:46 PM  
+**Categories:** Companies, Funds, Markets, Token Projects, Dogecoin, Dogecoin ETF, News  
+
+BWOW generated about $3 million in trading volume when it launched in November 2025, but has failed to come anywhere close ever since.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-09-10-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch-414184)
+
+---
+
+## 2. Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week
 
 **Author:** Sarah Wynn  
 **Published:** 9/10/2026, 7:42:06 PM  
@@ -23,7 +35,7 @@ Ahead of a pivotal initial vote next week, Senate Republicans released a revised
 
 ---
 
-## 2. Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short
+## 3. Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short
 
 **Author:** James Hunt  
 **Published:** 9/10/2026, 6:00:00 PM  
@@ -35,7 +47,7 @@ The wallet now supports more than 10 networks, including Robinhood Chain and Mon
 
 ---
 
-## 3. Coinbase, Moov to bring stablecoin payment infrastructure to community banks and credit unions
+## 4. Coinbase, Moov to bring stablecoin payment infrastructure to community banks and credit unions
 
 **Author:** Jason Shubnell  
 **Published:** 9/10/2026, 3:11:41 PM  
@@ -47,7 +59,7 @@ The integration will use Coinbase's Payments API and custodial wallets to embed 
 
 ---
 
-## 4. Uniswap launches ‘StablePair Hook’ to help LPs capture more stablecoin trading value
+## 5. Uniswap launches ‘StablePair Hook’ to help LPs capture more stablecoin trading value
 
 **Author:** Yogita Khatri  
 **Published:** 9/10/2026, 3:00:00 PM  
@@ -59,7 +71,7 @@ Uniswap Labs has launched StablePair Hook, a Uniswap v4 tool that uses dynamic f
 
 ---
 
-## 5. MoneyGram launches first stablecoin-backed Visa card in Colombia
+## 6. MoneyGram launches first stablecoin-backed Visa card in Colombia
 
 **Author:** Yogita Khatri  
 **Published:** 9/10/2026, 2:30:00 PM  
@@ -71,7 +83,7 @@ MoneyGram has launched its first stablecoin-backed Visa card, developed with Rai
 
 ---
 
-## 6. Citadel urges SEC to assert oversight of event contracts tied to public firms
+## 7. Citadel urges SEC to assert oversight of event contracts tied to public firms
 
 **Author:** Brian Danga  
 **Published:** 9/10/2026, 1:43:09 PM  
@@ -83,7 +95,7 @@ Citadel Securities urges SEC oversight of equity-linked event contracts, challen
 
 ---
 
-## 7. Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack
+## 8. Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack
 
 **Author:** James Hunt  
 **Published:** 9/10/2026, 1:00:00 PM  
@@ -95,7 +107,7 @@ The resulting benchmark is less than half Google's previously reported level, th
 
 ---
 
-## 8. Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership
+## 9. Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership
 
 **Author:** Brian Danga  
 **Published:** 9/10/2026, 12:53:22 PM  
@@ -107,7 +119,7 @@ Nasdaq Ventures agreed to invest $100 million in Kraken parent Payward, expandin
 
 ---
 
-## 9. Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years
+## 10. Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years
 
 **Author:** Brian Danga  
 **Published:** 9/10/2026, 10:31:54 AM  
@@ -119,7 +131,7 @@ Coinbase CEO Brian Armstrong expects bitcoin to trend higher over the next two y
 
 ---
 
-## 10. Hunter Biden’s LAPTOP team cites sniper bots, thin liquidity for 99% crash on launch day
+## 11. Hunter Biden’s LAPTOP team cites sniper bots, thin liquidity for 99% crash on launch day
 
 **Author:** Timmy Shen  
 **Published:** 9/10/2026, 5:28:17 AM  
@@ -131,7 +143,7 @@ The LAPTOP project said it will add pool incentives and expects early prediction
 
 ---
 
-## 11. Trezor says third-party security breach led to phishing emails from legitimate domain
+## 12. Trezor says third-party security breach led to phishing emails from legitimate domain
 
 **Author:** Danny Park  
 **Published:** 9/10/2026, 2:26:58 AM  
