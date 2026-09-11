@@ -2,16 +2,52 @@
 title: "Decrypt - 2026-09-10"
 date: "2026-09-10"
 source: "Decrypt"
-count: 9
+count: 12
 ---
 
 # Decrypt - 2026-09-10
 
-9 items collected.
+12 items collected.
 
 ---
 
-## 1. Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up
+## 1. Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote
+
+**Author:** Jason Nelson  
+**Published:** 9/10/2026, 9:18:48 PM  
+**Categories:** Law and Order  
+
+The draft adds registration requirements for controlled trading protocols and leaves its ethics provisions largely unchanged.
+
+📖 [Read original article](https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft)
+
+---
+
+## 2. DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/10/2026, 9:16:03 PM  
+**Categories:** Artificial Intelligence  
+
+OpenDesign put 13 AI models through the same design tasks. DeepSeek V4.1 Flash landed a point and a half behind GPT-6 Astra and roughly 70 times cheaper.
+
+📖 [Read original article](https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark)
+
+---
+
+## 3. AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin
+
+**Author:** Jason Nelson  
+**Published:** 9/10/2026, 8:34:50 PM  
+**Categories:** , Technology  
+
+The ECDSA.Fail challenge cut a resource benchmark for one component of a potential quantum attack by 86%.
+
+📖 [Read original article](https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin)
+
+---
+
+## 4. Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up
 
 **Author:** Jason Nelson  
 **Published:** 9/10/2026, 6:51:04 PM  
@@ -23,7 +59,7 @@ Head of Product Ryan Kass says the return to Coinbase Wallet reflects a broader 
 
 ---
 
-## 2. Bitcoin Rally Cools, But a Golden Cross Is Coming
+## 5. Bitcoin Rally Cools, But a Golden Cross Is Coming
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/10/2026, 6:46:04 PM  
@@ -35,7 +71,7 @@ Bitcoin couldn't escape today's inflation-driven selloff, but a bearish pattern 
 
 ---
 
-## 3. Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS
+## 6. Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS
 
 **Author:** Jason Nelson  
 **Published:** 9/10/2026, 6:13:13 PM  
@@ -47,7 +83,7 @@ The Bank for International Settlements says routine patching schedules are incre
 
 ---
 
-## 4. This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting
+## 7. This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/10/2026, 5:07:50 PM  
@@ -59,7 +95,7 @@ Kun Chen built chatbot versions of four AI CEOs on SpaceXAI's new Grok Bot templ
 
 ---
 
-## 5. Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows
+## 8. Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows
 
 **Author:** Jason Nelson  
 **Published:** 9/10/2026, 3:33:11 PM  
@@ -71,7 +107,7 @@ The company now says attacks during security tests exposed model behavior failur
 
 ---
 
-## 6. Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO
+## 9. Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO
 
 **Author:** Decrypt Agent  
 **Published:** 9/10/2026, 1:04:27 PM  
@@ -83,7 +119,7 @@ Brian Armstrong argues the bottom is in, a year into the downturn, with the next
 
 ---
 
-## 7. Morning Minute: Hunter Biden’s LAPTOP Crashes
+## 10. Morning Minute: Hunter Biden’s LAPTOP Crashes
 
 **Author:** Tyler Warner  
 **Published:** 9/10/2026, 12:10:48 PM  
@@ -95,7 +131,7 @@ The meme coin plunged on its debut, as recent alt leaders and many onchain darli
 
 ---
 
-## 8. Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation
+## 11. Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation
 
 **Author:** Decrypt Agent  
 **Published:** 9/10/2026, 11:28:55 AM  
@@ -107,7 +143,7 @@ Deutsche Börse's April stake implied a $13.3 billion valuation. Five months on,
 
 ---
 
-## 9. Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs
+## 12. Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs
 
 **Author:** Decrypt Agent  
 **Published:** 9/10/2026, 10:11:52 AM  
