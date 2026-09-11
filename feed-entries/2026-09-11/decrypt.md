@@ -2,16 +2,52 @@
 title: "Decrypt - 2026-09-11"
 date: "2026-09-11"
 source: "Decrypt"
-count: 6
+count: 9
 ---
 
 # Decrypt - 2026-09-11
 
-6 items collected.
+9 items collected.
 
 ---
 
-## 1. Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision
+## 1. OpenAI Asks Congress Whether an AI Slowdown Would Be Legal
+
+**Author:** Jason Nelson  
+**Published:** 9/11/2026, 6:16:04 PM  
+**Categories:** Artificial Intelligence  
+
+The company is seeking clarity on antitrust rules as researchers call for restraint and experts warn that competition encourages companies to overlook risks.
+
+📖 [Read original article](https://decrypt.co/377990/openai-congress-ai-slowdown-legal)
+
+---
+
+## 2. Robinhood Crypto Trading Volume Jumps 61% in August
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/11/2026, 5:22:39 PM  
+**Categories:** , Business  
+
+Fresh operating data shows crypto trading bouncing back, but the company's fastest-growing business these days isn't traditional trading at all.
+
+📖 [Read original article](https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august)
+
+---
+
+## 3. Bitwise to Close Dogecoin ETF Before Its First Anniversary
+
+**Author:** Jason Nelson  
+**Published:** 9/11/2026, 4:16:05 PM  
+**Categories:** dogecoin, Business  
+
+BWOW will stop trading October 14, with cash payments to remaining shareholders expected October 22.
+
+📖 [Read original article](https://decrypt.co/377973/bitwise-shuts-dogecoin-etf)
+
+---
+
+## 4. Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/11/2026, 3:32:08 PM  
@@ -23,7 +59,7 @@ Inflation held at 3.4% and core cooled annually, but a hot monthly core reading 
 
 ---
 
-## 2. Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'
+## 5. Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'
 
 **Author:** Decrypt Agent  
 **Published:** 9/11/2026, 2:17:38 PM  
@@ -35,7 +71,7 @@ With 598.5 BTC still outstanding, the company says it will go to law enforcement
 
 ---
 
-## 3. Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%
+## 6. Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%
 
 **Author:** Tyler Warner  
 **Published:** 9/11/2026, 12:10:23 PM  
@@ -47,7 +83,7 @@ Crypto majors are shaky ahead of this morning’s CPI print, but onchain is heat
 
 ---
 
-## 4. EU Regulator Says Prediction Markets Are 'Rife With Inside Trading'
+## 7. EU Regulator Says Prediction Markets Are 'Rife With Inside Trading'
 
 **Author:** Decrypt Agent  
 **Published:** 9/11/2026, 12:06:24 PM  
@@ -59,7 +95,7 @@ ESMA also asks why Kalshi and Polymarket block some EU countries but not others,
 
 ---
 
-## 5. Albuquerque Bans Bitcoin ATMs, Giving Operators 45 Days to Remove Them
+## 8. Albuquerque Bans Bitcoin ATMs, Giving Operators 45 Days to Remove Them
 
 **Author:** Decrypt Agent  
 **Published:** 9/11/2026, 10:10:41 AM  
@@ -71,7 +107,7 @@ A councilor said 90% of crypto kiosk transactions in the city are tied to fraud,
 
 ---
 
-## 6. Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction
+## 9. Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction
 
 **Author:** Decrypt Agent  
 **Published:** 9/11/2026, 9:04:11 AM  
