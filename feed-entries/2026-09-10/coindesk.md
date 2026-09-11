@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-10"
 date: "2026-09-10"
 source: "CoinDesk"
-count: 13
+count: 11
 ---
 
 # CoinDesk - 2026-09-10
 
-13 items collected.
+11 items collected.
 
 ---
 
@@ -140,29 +140,5 @@ The coalition warned that the current limit is too low, noting some existing Eur
 So-called digital arrest scams use false claims of authority to pressure victims virtually into making rapid digital payments, including cryptocurrency transactions, writes Moody's Rich Graham.
 
 📖 [Read original article](https://www.coindesk.com/opinion/2026/09/10/threatened-with-arrest-online-recognizing-a-law-enforcement-impersonation-scam)
-
----
-
-## 12. Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%
-
-**Author:** Shaurya Malwa  
-**Published:** 9/10/2026, 1:00:00 PM  
-**Categories:** Tech, News  
-
-A paper shared with CoinDesk shows humans and AI agents beating Google’s March result on a core calculation used by Shor’s algorithm, adding another variable to crypto’s quantum clock.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50)
-
----
-
-## 13. BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks
-
-**Author:** Olivier Acuna  
-**Published:** 9/10/2026, 12:00:36 PM  
-**Categories:** Finance, Artificial Intelligence, News  
-
-Pablo Hernandez cited historical railway and dot-com bubbles to caution that spending driven by hype over actual profits risks broad economic corrections.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/10/ai-s-rapid-rise-poses-global-financial-stability-risks-says-head-of-the-bis)
 
 ---
