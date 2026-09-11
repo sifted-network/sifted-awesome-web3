@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-09"
 date: "2026-09-09"
 source: "Cointelegraph"
-count: 12
+count: 10
 ---
 
 # Cointelegraph - 2026-09-09
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ The German Ministry of Finance is reportedly seeking to impose a 25% tax on cryp
 From the whereabouts of the CryptoQueen to a mysterious death involving a DeFi builder paranoid about the “pedo elite,” here are 10 crypto mysteries that still have no good answer.
 
 📖 [Read original article](https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. BitMart misses roadmap deadline, appoints financial adviser
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/9/2026, 1:04:28 PM  
-**Categories:** Latest News  
-
-BitMart provided no asset figures or withdrawal timetable and will launch a feedback portal within five working days during a financial adviser review.
-
-📖 [Read original article](https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Italy’s central bank orders sanctions screening for crypto transfers
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/9/2026, 12:20:33 PM  
-**Categories:** Latest News  
-
-Banca d’Italia ordered crypto service providers to implement internal controls to screen for crypto transfers tied to sanctioned entities.
-
-📖 [Read original article](https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
