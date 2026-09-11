@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-08"
 date: "2026-09-08"
 source: "Decrypt"
-count: 10
+count: 7
 ---
 
 # Decrypt - 2026-09-08
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ The rollback reversed legitimate activity alongside the attack, while $9.19 mill
 Memos from the NYPD to Homeland Security warn the devices could be used for covert filming inside jails and police facilities.
 
 📖 [Read original article](https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report)
-
----
-
-## 8. Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/8/2026, 3:25:16 PM  
-**Categories:** Business  
-
-The multi-year deal makes OG.com the infrastructure and clearing engine behind Robinhood's fastest-growing business.
-
-📖 [Read original article](https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets)
-
----
-
-## 9. Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH
-
-**Author:** Jason Nelson  
-**Published:** 9/8/2026, 3:04:44 PM  
-**Categories:** , Coins  
-
-The company says it holds roughly 4.9% of Ethereum’s supply, with most of its tokens staked to earn rewards.
-
-📖 [Read original article](https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum)
-
----
-
-## 10. Strategy's Return to Bitcoin Buying Lasted Exactly One Week
-
-**Author:** Decrypt Agent  
-**Published:** 9/8/2026, 1:57:16 PM  
-**Categories:** , Business  
-
-The Bitcoin treasury firm spent $176.3 million on its own preferred stock, and doubled the buyback program's authorization to $2 billion.
-
-📖 [Read original article](https://decrypt.co/377664/strategys-return-to-bitcoin-buying-lasted-exactly-one-week)
 
 ---
