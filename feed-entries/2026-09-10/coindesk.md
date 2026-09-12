@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-10"
 date: "2026-09-10"
 source: "CoinDesk"
-count: 10
+count: 8
 ---
 
 # CoinDesk - 2026-09-10
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Just over a quarter of Bitcoin Depot’s more than 9,200 kiosks have been sold f
 
 
 📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors)
-
----
-
-## 9. MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending
-
-**Author:** Krisztian Sandor  
-**Published:** 9/10/2026, 2:30:00 PM  
-**Categories:** Finance, Stablecoins, MoneyGram, News  
-
-The remittance giant is rolling out a Visa card that lets customers hold dollars and spend from a stablecoin-backed balance.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending)
-
----
-
-## 10. Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial
-
-**Author:** Francisco Rodrigues  
-**Published:** 9/10/2026, 1:56:54 PM  
-**Categories:** Finance, Tokenized Equities, News  
-
-The coalition warned that the current limit is too low, noting some existing European projects already exceed it.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial)
 
 ---
