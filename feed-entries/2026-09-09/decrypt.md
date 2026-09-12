@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-09"
 date: "2026-09-09"
 source: "Decrypt"
-count: 12
+count: 11
 ---
 
 # Decrypt - 2026-09-09
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ Myriad's $120 side overtook $55 at the start of September, while Polymarket puts
 Consensys Software Inc. will become MetaMask, while a newly formed Consensys will take over the firm's Ethereum protocols and institutional blockchain infrastructure business.
 
 📖 [Read original article](https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company)
-
----
-
-## 12. German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027
-
-**Author:** Decrypt Agent  
-**Published:** 9/9/2026, 2:37:18 PM  
-**Categories:** , , Business  
-
-Anything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.
-
-📖 [Read original article](https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027)
 
 ---
