@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-10"
 date: "2026-09-10"
 source: "CoinDesk"
-count: 11
+count: 10
 ---
 
 # CoinDesk - 2026-09-10
 
-11 items collected.
+10 items collected.
 
 ---
 
@@ -128,17 +128,5 @@ The remittance giant is rolling out a Visa card that lets customers hold dollars
 The coalition warned that the current limit is too low, noting some existing European projects already exceed it.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial)
-
----
-
-## 11. Threatened with arrest online? Recognizing a law enforcement impersonation scam
-
-**Author:** Rich Graham  
-**Published:** 9/10/2026, 1:00:00 PM  
-**Categories:** Opinion, Opinion  
-
-So-called digital arrest scams use false claims of authority to pressure victims virtually into making rapid digital payments, including cryptocurrency transactions, writes Moody's Rich Graham.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/09/10/threatened-with-arrest-online-recognizing-a-law-enforcement-impersonation-scam)
 
 ---
