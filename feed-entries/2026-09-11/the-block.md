@@ -2,16 +2,28 @@
 title: "The Block - 2026-09-11"
 date: "2026-09-11"
 source: "The Block"
-count: 7
+count: 8
 ---
 
 # The Block - 2026-09-11
 
-7 items collected.
+8 items collected.
 
 ---
 
-## 1. Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook
+## 1. Former Alameda CEO Caroline Ellison joins nonprofit charity Manifund
+
+**Author:** Sarah Wynn  
+**Published:** 9/11/2026, 9:37:02 PM  
+**Categories:** Companies, Exchanges, Policy, Regulation, FTX, News  
+
+Former Alameda Research CEO Caroline Ellison has a new gig at the charity Manifund, its cofounder Austin Chen said Friday.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-09-11-former-alameda-ceo-caroline-ellison-joins-nonprofit-charity-manifund-414310)
+
+---
+
+## 2. Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook
 
 **Author:** Jason Shubnell  
 **Published:** 9/11/2026, 5:40:54 PM  
@@ -23,7 +35,7 @@ Bitget analyst Lewis Huang noted the divergence between headline inflation accel
 
 ---
 
-## 2. ‘DeFi’s federal bank’: Standard Chartered sees SKY token rising fivefold by end-2028
+## 3. ‘DeFi’s federal bank’: Standard Chartered sees SKY token rising fivefold by end-2028
 
 **Author:** Yogita Khatri  
 **Published:** 9/11/2026, 4:48:11 PM  
@@ -35,7 +47,7 @@ Standard Chartered Bank has initiated coverage of Sky, calling it "DeFi's federa
 
 ---
 
-## 3. Metaplanet reverses course on executive options with 41% cut to potential shares, scraps employee warrant plan
+## 4. Metaplanet reverses course on executive options with 41% cut to potential shares, scraps employee warrant plan
 
 **Author:** Kyle Baird  
 **Published:** 9/11/2026, 3:45:25 PM  
@@ -47,7 +59,7 @@ The changes come amid a bruising stretch for Metaplanet shares, as stock fell ab
 
 ---
 
-## 4. India’s SEBI Demat 2.0 pilot debuts with over $100 million in tokenized bonds
+## 5. India’s SEBI Demat 2.0 pilot debuts with over $100 million in tokenized bonds
 
 **Author:** Brian Danga  
 **Published:** 9/11/2026, 12:09:12 PM  
@@ -59,7 +71,7 @@ India's SEBI Demat 2.0 pilot saw three issuers raise over $100 million in tokeni
 
 ---
 
-## 5. ‘Return the bitcoin’: Blockstream refuses ransom demand for remaining 600 BTC from Liquid exploit
+## 6. ‘Return the bitcoin’: Blockstream refuses ransom demand for remaining 600 BTC from Liquid exploit
 
 **Author:** James Hunt  
 **Published:** 9/11/2026, 11:21:17 AM  
@@ -71,7 +83,7 @@ Liquid has resumed transactions following the exploit, though peg-outs remain di
 
 ---
 
-## 6. ESMA says major prediction platforms lack EU authorization, questions Polymarket and Kalshi’s partial geo-blocks
+## 7. ESMA says major prediction platforms lack EU authorization, questions Polymarket and Kalshi’s partial geo-blocks
 
 **Author:** Brian Danga  
 **Published:** 9/11/2026, 10:10:37 AM  
@@ -83,7 +95,7 @@ ESMA says major prediction platforms lack EU authorization, while questioning Po
 
 ---
 
-## 7. Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture
+## 8. Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture
 
 **Author:** Danny Park  
 **Published:** 9/11/2026, 4:20:15 AM  
