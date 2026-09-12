@@ -11,7 +11,19 @@ count: 19
 
 ---
 
-## 1. Bitcoin Suisse to shift up to half of Swiss jobs abroad
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/11/2026, 9:30:00 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitcoin Suisse to shift up to half of Swiss jobs abroad
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/11/2026, 7:46:24 PM  
@@ -23,7 +35,7 @@ The Swiss crypto financial services firm plans to move back-office functions to 
 
 ---
 
-## 2. Hyperliquid’s biggest risk is regulation, says Ran Neuner
+## 3. Hyperliquid’s biggest risk is regulation, says Ran Neuner
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/11/2026, 6:45:15 PM  
@@ -35,7 +47,7 @@ The Crypto Banter founder said Hyperliquid’s network effects give it a strong 
 
 ---
 
-## 3. Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin
+## 4. Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/11/2026, 4:05:15 PM  
@@ -47,7 +59,7 @@ The US federally chartered crypto bank will allow institutional clients to hold,
 
 ---
 
-## 4. Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields
+## 5. Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/11/2026, 4:03:37 PM  
@@ -59,7 +71,7 @@ Bitcoin briefly rebounded past $79,000 and US stocks turned green as US CPI infl
 
 ---
 
-## 5. Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary
+## 6. Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/11/2026, 1:44:27 PM  
@@ -71,7 +83,7 @@ Metaplanet will cut 131.3 million potential shares and form a $1 million Hong Ko
 
 ---
 
-## 6. Trading stocks against BONER is the latest trend for DeFi degens
+## 7. Trading stocks against BONER is the latest trend for DeFi degens
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/11/2026, 1:30:00 PM  
@@ -80,18 +92,6 @@ Metaplanet will cut 131.3 million potential shares and form a $1 million Hong Ko
 Why would anyone want to trade a healthcare stock for a memecoin like BONER? Why wouldn’t they, ask the degens on Robinhood Chain who are building a strange new corner of DeFi.
 
 📖 [Read original article](https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/11/2026, 12:57:24 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
