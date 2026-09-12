@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-09-11"
 date: "2026-09-11"
 source: "Decrypt"
-count: 9
+count: 11
 ---
 
 # Decrypt - 2026-09-11
 
-9 items collected.
+11 items collected.
 
 ---
 
-## 1. OpenAI Asks Congress Whether an AI Slowdown Would Be Legal
+## 1. Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web
+
+**Author:** Jason Nelson  
+**Published:** 9/11/2026, 9:45:05 PM  
+**Categories:** Technology  
+
+Greenberg Traurig said documents were posted to the dark web, while BakerHostetler recorded a near-doubling of law-firm incidents in 2025.
+
+📖 [Read original article](https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web)
+
+---
+
+## 2. Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/11/2026, 8:53:39 PM  
+**Categories:** , Markets  
+
+A rapidly changing interest rates market has changed the near-term outlook on the Bitcoin chart. Here’s why.
+
+📖 [Read original article](https://decrypt.co/378081/bitcoin-golden-cross-flickers-off)
+
+---
+
+## 3. OpenAI Asks Congress Whether an AI Slowdown Would Be Legal
 
 **Author:** Jason Nelson  
 **Published:** 9/11/2026, 6:16:04 PM  
@@ -23,7 +47,7 @@ The company is seeking clarity on antitrust rules as researchers call for restra
 
 ---
 
-## 2. Robinhood Crypto Trading Volume Jumps 61% in August
+## 4. Robinhood Crypto Trading Volume Jumps 61% in August
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/11/2026, 5:22:39 PM  
@@ -35,7 +59,7 @@ Fresh operating data shows crypto trading bouncing back, but the company's faste
 
 ---
 
-## 3. Bitwise to Close Dogecoin ETF Before Its First Anniversary
+## 5. Bitwise to Close Dogecoin ETF Before Its First Anniversary
 
 **Author:** Jason Nelson  
 **Published:** 9/11/2026, 4:16:05 PM  
@@ -47,7 +71,7 @@ BWOW will stop trading October 14, with cash payments to remaining shareholders 
 
 ---
 
-## 4. Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision
+## 6. Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/11/2026, 3:32:08 PM  
@@ -59,7 +83,7 @@ Inflation held at 3.4% and core cooled annually, but a hot monthly core reading 
 
 ---
 
-## 5. Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'
+## 7. Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'
 
 **Author:** Decrypt Agent  
 **Published:** 9/11/2026, 2:17:38 PM  
@@ -71,7 +95,7 @@ With 598.5 BTC still outstanding, the company says it will go to law enforcement
 
 ---
 
-## 6. Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%
+## 8. Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%
 
 **Author:** Tyler Warner  
 **Published:** 9/11/2026, 12:10:23 PM  
@@ -83,7 +107,7 @@ Crypto majors are shaky ahead of this morning’s CPI print, but onchain is heat
 
 ---
 
-## 7. EU Regulator Says Prediction Markets Are 'Rife With Inside Trading'
+## 9. EU Regulator Says Prediction Markets Are 'Rife With Inside Trading'
 
 **Author:** Decrypt Agent  
 **Published:** 9/11/2026, 12:06:24 PM  
@@ -95,7 +119,7 @@ ESMA also asks why Kalshi and Polymarket block some EU countries but not others,
 
 ---
 
-## 8. Albuquerque Bans Bitcoin ATMs, Giving Operators 45 Days to Remove Them
+## 10. Albuquerque Bans Bitcoin ATMs, Giving Operators 45 Days to Remove Them
 
 **Author:** Decrypt Agent  
 **Published:** 9/11/2026, 10:10:41 AM  
@@ -107,7 +131,7 @@ A councilor said 90% of crypto kiosk transactions in the city are tied to fraud,
 
 ---
 
-## 9. Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction
+## 11. Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction
 
 **Author:** Decrypt Agent  
 **Published:** 9/11/2026, 9:04:11 AM  
