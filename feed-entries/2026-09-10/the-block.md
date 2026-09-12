@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-10"
 date: "2026-09-10"
 source: "The Block"
-count: 12
+count: 10
 ---
 
 # The Block - 2026-09-10
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ Nasdaq Ventures agreed to invest $100 million in Kraken parent Payward, expandin
 Coinbase CEO Brian Armstrong expects bitcoin to trend higher over the next two years, saying the current cycle may have bottomed.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104)
-
----
-
-## 11. Hunter Biden’s LAPTOP team cites sniper bots, thin liquidity for 99% crash on launch day
-
-**Author:** Timmy Shen  
-**Published:** 9/10/2026, 5:28:17 AM  
-**Categories:** Crypto Ecosystems, DeFi, News  
-
-The LAPTOP project said it will add pool incentives and expects early prediction-market burns to cut supply.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-09-10-hunter-bidens-laptop-sniper-bots-414095)
-
----
-
-## 12. Trezor says third-party security breach led to phishing emails from legitimate domain
-
-**Author:** Danny Park  
-**Published:** 9/10/2026, 2:26:58 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Security, Tech, Web3, Hacks, Hardware, News  
-
-This follows last month's security breach at shipping provider ShipMonk, which exposed the personal information of Trezor customers.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086)
 
 ---
