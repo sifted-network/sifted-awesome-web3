@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-10"
 date: "2026-09-10"
 source: "The Block"
-count: 8
+count: 12
 ---
 
 # The Block - 2026-09-10
 
-8 items collected.
+12 items collected.
 
 ---
 
@@ -104,5 +104,53 @@ Citadel Securities urges SEC oversight of equity-linked event contracts, challen
 The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.
 
 📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121)
+
+---
+
+## 9. Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership
+
+**Author:** Brian Danga  
+**Published:** 9/10/2026, 12:53:22 PM  
+**Categories:** Companies, Deals, Exchanges, Venture Capital, Kraken, Strategic Investments, News  
+
+Nasdaq Ventures agreed to invest $100 million in Kraken parent Payward, expanding their tokenized equity infrastructure partnership.
+
+📖 [Read original article](https://www.theblock.co/news/deals/2026-09-10-nasdaq-to-invest-100-million-in-kraken-parent-payward-as-firms-expand-partnership-414120)
+
+---
+
+## 10. Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years
+
+**Author:** Brian Danga  
+**Published:** 9/10/2026, 10:31:54 AM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Exchanges, Layer 1s, Markets, People, People, People, People, Policy, Public Equities, Token Projects, Bitcoin, Brian Armstrong, Coinbase, News  
+
+Coinbase CEO Brian Armstrong expects bitcoin to trend higher over the next two years, saying the current cycle may have bottomed.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104)
+
+---
+
+## 11. Hunter Biden’s LAPTOP team cites sniper bots, thin liquidity for 99% crash on launch day
+
+**Author:** Timmy Shen  
+**Published:** 9/10/2026, 5:28:17 AM  
+**Categories:** Crypto Ecosystems, DeFi, News  
+
+The LAPTOP project said it will add pool incentives and expects early prediction-market burns to cut supply.
+
+📖 [Read original article](https://www.theblock.co/news/defi/2026-09-10-hunter-bidens-laptop-sniper-bots-414095)
+
+---
+
+## 12. Trezor says third-party security breach led to phishing emails from legitimate domain
+
+**Author:** Danny Park  
+**Published:** 9/10/2026, 2:26:58 AM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Security, Tech, Web3, Hacks, Hardware, News  
+
+This follows last month's security breach at shipping provider ShipMonk, which exposed the personal information of Trezor customers.
+
+📖 [Read original article](https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086)
 
 ---
