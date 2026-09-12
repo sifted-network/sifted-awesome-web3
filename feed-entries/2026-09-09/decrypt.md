@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-09"
 date: "2026-09-09"
 source: "Decrypt"
-count: 14
+count: 12
 ---
 
 # Decrypt - 2026-09-09
 
-14 items collected.
+12 items collected.
 
 ---
 
@@ -152,29 +152,5 @@ Consensys Software Inc. will become MetaMask, while a newly formed Consensys wil
 Anything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.
 
 📖 [Read original article](https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027)
-
----
-
-## 13. Morning Minute: Venice’s VVV Token Soars After OpenAI Dispute
-
-**Author:** Tyler Warner  
-**Published:** 9/9/2026, 1:28:52 PM  
-**Categories:** , , Opinion  
-
-Concerns over frontier AI labs stealing user data has driven demand for private inference (or at least tokens tied to private inference).
-
-📖 [Read original article](https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute)
-
----
-
-## 14. UK Crime Agency Warns of 'Innovative Use' of Crypto by Launderers
-
-**Author:** Decrypt Agent  
-**Published:** 9/9/2026, 11:43:53 AM  
-**Categories:** , , monero, Law and Order  
-
-The agency ranks cryptoassets third among nine economic crime priorities, and says it wants to generate its own targets.
-
-📖 [Read original article](https://decrypt.co/377757/uk-crime-agency-warns-of-innovative-use-of-crypto-by-launderers)
 
 ---
