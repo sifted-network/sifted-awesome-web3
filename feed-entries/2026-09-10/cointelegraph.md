@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-10"
 date: "2026-09-10"
 source: "Cointelegraph"
-count: 11
+count: 8
 ---
 
 # Cointelegraph - 2026-09-10
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ Bitcoin fell with US stocks as high inflation and a further surge in oil prices 
 The partnership will provide stablecoin acceptance, settlement and real-time funding capabilities to over 1,000 community banks and credit unions.
 
 📖 [Read original article](https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Solana sees record 263K tokens issued in a single day
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/10/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-Memecoin platform Pump.fun accounted for most of the new tokens among launchpads, as the Solana network notched a new all-time daily issuance high.
-
-📖 [Read original article](https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Ex-BoE deputy governor headlines trio of former central bankers joining Fnality
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/10/2026, 12:02:16 PM  
-**Categories:** Latest News  
-
-Jon Cunliffe, Jochen Metzger and Ron Berndsen join Fnality Europe’s supervisory board as the company works to expand beyond its sterling payment system.
-
-📖 [Read original article](https://cointelegraph.com/news/ex-boe-cunliffe-central-bankers-fnality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Nasdaq invests $100M in Kraken parent at $21B valuation: Report
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/10/2026, 11:41:00 AM  
-**Categories:** Latest News  
-
-Nasdaq invested $100 million in Payward as part of its push toward tokenized stock products with round-the-clock trading.
-
-📖 [Read original article](https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
