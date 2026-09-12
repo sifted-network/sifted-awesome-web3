@@ -2,28 +2,16 @@
 title: "Cointelegraph - 2026-09-11"
 date: "2026-09-11"
 source: "Cointelegraph"
-count: 19
+count: 18
 ---
 
 # Cointelegraph - 2026-09-11
 
-19 items collected.
+18 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 9/11/2026, 9:30:00 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. Bitcoin Suisse to shift up to half of Swiss jobs abroad
+## 1. Bitcoin Suisse to shift up to half of Swiss jobs abroad
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/11/2026, 7:46:24 PM  
@@ -35,7 +23,7 @@ The Swiss crypto financial services firm plans to move back-office functions to 
 
 ---
 
-## 3. Hyperliquid’s biggest risk is regulation, says Ran Neuner
+## 2. Hyperliquid’s biggest risk is regulation, says Ran Neuner
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/11/2026, 6:45:15 PM  
@@ -47,7 +35,7 @@ The Crypto Banter founder said Hyperliquid’s network effects give it a strong 
 
 ---
 
-## 4. Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin
+## 3. Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/11/2026, 4:05:15 PM  
@@ -59,7 +47,7 @@ The US federally chartered crypto bank will allow institutional clients to hold,
 
 ---
 
-## 5. Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields
+## 4. Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/11/2026, 4:03:37 PM  
@@ -71,7 +59,7 @@ Bitcoin briefly rebounded past $79,000 and US stocks turned green as US CPI infl
 
 ---
 
-## 6. Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary
+## 5. Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/11/2026, 1:44:27 PM  
@@ -83,7 +71,7 @@ Metaplanet will cut 131.3 million potential shares and form a $1 million Hong Ko
 
 ---
 
-## 7. Trading stocks against BONER is the latest trend for DeFi degens
+## 6. Trading stocks against BONER is the latest trend for DeFi degens
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/11/2026, 1:30:00 PM  
@@ -95,7 +83,7 @@ Why would anyone want to trade a healthcare stock for a memecoin like BONER? Why
 
 ---
 
-## 8. Bitcoin ETF outflows accelerate as investors pull $449M in three days
+## 7. Bitcoin ETF outflows accelerate as investors pull $449M in three days
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/11/2026, 12:33:38 PM  
@@ -107,7 +95,7 @@ ARK 21Shares accounted for $164 million of Thursday’s Bitcoin ETF withdrawals,
 
 ---
 
-## 9. Robinhood’s crypto volume increases 61% in August, still down 38% YoY
+## 8. Robinhood’s crypto volume increases 61% in August, still down 38% YoY
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/11/2026, 11:49:07 AM  
@@ -119,7 +107,7 @@ Bitstamp accounted for $10.1 billion of Robinhood’s August crypto volume, whil
 
 ---
 
-## 10. UniCredit seeks infrastructure partner for crypto trading, custody: Report
+## 9. UniCredit seeks infrastructure partner for crypto trading, custody: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/11/2026, 11:35:27 AM  
@@ -131,7 +119,7 @@ The Italian bank is reportedly seeking assistance in launching access to crypto 
 
 ---
 
-## 11. Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’
+## 10. Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/11/2026, 10:53:55 AM  
@@ -143,7 +131,7 @@ Bitcoin HODL waves data revealed an unusually muted reaction to Bitcoin’s drop
 
 ---
 
-## 12. Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028
+## 11. Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/11/2026, 10:44:28 AM  
@@ -155,7 +143,7 @@ The bank expects Sky to pass five times as much value to token holders by 2028 a
 
 ---
 
-## 13. India launches tokenized bond pilot with $107M issued
+## 12. India launches tokenized bond pilot with $107M issued
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/11/2026, 10:33:24 AM  
@@ -167,7 +155,7 @@ SEBI said later phases of Demat 2.0 will introduce secondary trading and open th
 
 ---
 
-## 14. Anthropic says Claude used for cyberattacks and surveillance
+## 13. Anthropic says Claude used for cyberattacks and surveillance
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/11/2026, 9:47:31 AM  
@@ -179,7 +167,7 @@ A Russian-speaking operator targeted more than 20 organizations, while a Mali co
 
 ---
 
-## 15. Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC
+## 14. Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/11/2026, 8:43:19 AM  
@@ -191,7 +179,7 @@ Blockstream said it would work with law enforcement, exchanges and forensic spec
 
 ---
 
-## 16. Bitwise to put down Dogecoin ETF less than a year after launch
+## 15. Bitwise to put down Dogecoin ETF less than a year after launch
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/11/2026, 7:47:13 AM  
@@ -203,7 +191,7 @@ BWOW held about $688,000 in net assets as of Sept. 9. Trading is expected to end
 
 ---
 
-## 17. SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report
+## 16. SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/11/2026, 7:43:19 AM  
@@ -215,7 +203,7 @@ Bankman-Fried’s lawyers challenged the exclusion of evidence about customer lo
 
 ---
 
-## 18. Revised CLARITY Act targets ‘non-decentralized’ DeFi operators
+## 17. Revised CLARITY Act targets ‘non-decentralized’ DeFi operators
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/11/2026, 6:08:26 AM  
@@ -227,7 +215,7 @@ The bill’s ethics section remained largely unchanged despite being one of the 
 
 ---
 
-## 19. Brevo login flaw enabled phishing email targeting 347K Trezor subscribers
+## 18. Brevo login flaw enabled phishing email targeting 347K Trezor subscribers
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/11/2026, 4:21:14 AM  
