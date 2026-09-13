@@ -2,16 +2,28 @@
 title: "The Block - 2026-09-12"
 date: "2026-09-12"
 source: "The Block"
-count: 2
+count: 3
 ---
 
 # The Block - 2026-09-12
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov’t domain
+## 1. CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market
+
+**Author:** Yogita Khatri  
+**Published:** 9/12/2026, 9:39:49 PM  
+**Categories:** Markets, News  
+
+Bitcoin's outlook remains bullish, but it needs to clear a significant range of resistance levels stretching to $88,700, CryptoQuant said.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519)
+
+---
+
+## 2. Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov’t domain
 
 **Author:** Zack Abrams  
 **Published:** 9/12/2026, 6:57:08 PM  
@@ -23,7 +35,7 @@ Onchain investigator ZachXBT speculated that the incident may have been targetin
 
 ---
 
-## 2. Crypto billionaires Ben Delo and Christopher Harborne each donate £36 million to Farage’s Reform UK
+## 3. Crypto billionaires Ben Delo and Christopher Harborne each donate £36 million to Farage’s Reform UK
 
 **Author:** Zack Abrams  
 **Published:** 9/12/2026, 4:18:05 PM  
