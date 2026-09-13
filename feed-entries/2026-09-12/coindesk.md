@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-09-12"
 date: "2026-09-12"
 source: "CoinDesk"
-count: 6
+count: 8
 ---
 
 # CoinDesk - 2026-09-12
 
-6 items collected.
+8 items collected.
 
 ---
 
-## 1. Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours
+## 1. OpenAI IPO won't happen this year, says Sam Altman
+
+**Author:** Stephen Alpher  
+**Published:** 9/12/2026, 9:09:31 PM  
+**Categories:** Markets, News  
+
+"Given everything happening with safety, right now would be an ill-advised moment to go public," OpenAI CEO Sam Altman told Fortune.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman)
+
+---
+
+## 2. Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad
+
+**Author:** Francisco Rodrigues,AI Boost  
+**Published:** 9/12/2026, 9:09:06 PM  
+**Categories:** Finance, Bitcoin News, News  
+
+The company is closing its Copenhagen IT site while maintaining Bratislava and opening a new hub in Vietnam to reduce costs.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad)
+
+---
+
+## 3. Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours
 
 **Author:** Francisco Rodrigues  
 **Published:** 9/12/2026, 6:51:04 PM  
@@ -23,7 +47,7 @@ The combined haul equals the largest individual political donations in U.K. hist
 
 ---
 
-## 2. Anthropic CEO calls for AI race to slow down. Musk and OpenAI's Altman agrees
+## 4. Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees
 
 **Author:** Aoyon Ashraf  
 **Published:** 9/12/2026, 6:43:33 PM  
@@ -35,7 +59,7 @@ Anthropic’s Dario Amodei, OpenAI’s Sam Altman and Elon Musk have agreed on a
 
 ---
 
-## 3. Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD
+## 5. Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD
 
 **Author:** Krisztian Sandor  
 **Published:** 9/12/2026, 4:00:00 PM  
@@ -47,7 +71,7 @@ Payments and capital markets are driving growth for Ripple's $2.4 billion digita
 
 ---
 
-## 4. Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma
+## 6. Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 9/12/2026, 4:00:00 PM  
@@ -59,7 +83,7 @@ Bitcoin Suisse says rising AI investment, government debt and weakening stock-bo
 
 ---
 
-## 5. Staked ether should be seen as the benchmark of the decentralized economy
+## 7. Staked ether should be seen as the benchmark of the decentralized economy
 
 **Author:** Ryan Haczynski  
 **Published:** 9/12/2026, 2:00:00 PM  
@@ -71,7 +95,7 @@ The yield-generating asset has a special place in the digital asset investor’s
 
 ---
 
-## 6. Bitcoin activity, passports exposed after Revolut falls for fake government request
+## 8. Bitcoin activity, passports exposed after Revolut falls for fake government request
 
 **Author:** Shaurya Malwa  
 **Published:** 9/12/2026, 10:11:01 AM  
