@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-10"
 date: "2026-09-10"
 source: "Cointelegraph"
-count: 8
+count: 7
 ---
 
 # Cointelegraph - 2026-09-10
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -92,17 +92,5 @@ European finance and tokenization groups say Brussels should remove limits on as
 Bitcoin fell with US stocks as high inflation and a further surge in oil prices coincided with another multidecade high for US bond yields.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Coinbase, Moov to provide stablecoin infrastructure for US community banks
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/10/2026, 1:35:23 PM  
-**Categories:** Latest News  
-
-The partnership will provide stablecoin acceptance, settlement and real-time funding capabilities to over 1,000 community banks and credit unions.
-
-📖 [Read original article](https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
