@@ -6,37 +6,37 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [jadx](https://github.com/skylot/jadx) | 50,429 | 5,745 | Java | 432 | Dex to Java decompiler | 2026-09-08 |
-| 2 | [dexter](https://github.com/virattt/dexter) | 27,594 | 3,408 | TypeScript | 35 | An autonomous agent for deep financial research | 2026-08-04 |
+| 1 | [jadx](https://github.com/skylot/jadx) | 50,445 | 5,749 | Java | 431 | Dex to Java decompiler | 2026-09-12 |
+| 2 | [dexter](https://github.com/virattt/dexter) | 27,596 | 3,408 | TypeScript | 35 | An autonomous agent for deep financial research | 2026-08-04 |
 | 3 | [tinker](https://github.com/Tencent/tinker) | 17,647 | 3,345 | Java | 544 | Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk. | 2026-08-12 |
-| 4 | [Dexie.js](https://github.com/dexie/Dexie.js) | 14,571 | 712 | TypeScript | 576 | A Minimalistic Wrapper for IndexedDB | 2026-09-10 |
-| 5 | [dex2jar](https://github.com/pxb1988/dex2jar) | 13,140 | 2,185 | Java | 375 | Tools to work with android .dex and java .class files | 2024-07-21 |
-| 6 | [dex](https://github.com/dexidp/dex) | 11,089 | 1,980 | Go | 347 | OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors | 2026-09-10 |
+| 4 | [Dexie.js](https://github.com/dexie/Dexie.js) | 14,573 | 712 | TypeScript | 576 | A Minimalistic Wrapper for IndexedDB | 2026-09-10 |
+| 5 | [dex2jar](https://github.com/pxb1988/dex2jar) | 13,140 | 2,186 | Java | 375 | Tools to work with android .dex and java .class files | 2024-07-21 |
+| 6 | [dex](https://github.com/dexidp/dex) | 11,090 | 1,981 | Go | 348 | OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors | 2026-09-10 |
 | 7 | [android-classyshark](https://github.com/google/android-classyshark) | 7,557 | 874 | Java | 41 | Android and Java bytecode viewer | 2023-05-19 |
-| 8 | [BlackDex](https://github.com/CodingGay/BlackDex) | 6,446 | 1,319 | C++ | 85 | BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in sever... | 2023-11-09 |
-| 9 | [androguard](https://github.com/androguard/androguard) | 6,239 | 1,151 | Python | 39 | Reverse engineering and pentesting for Android applications  | 2026-09-04 |
-| 10 | [LIEF](https://github.com/lief-project/LIEF) | 5,561 | 749 | C++ | 25 | LIEF - Library to Instrument Executable Formats (C++, Python, Rust) | 2026-09-06 |
+| 8 | [BlackDex](https://github.com/CodingGay/BlackDex) | 6,446 | 1,319 | C++ | 86 | BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in sever... | 2023-11-09 |
+| 9 | [androguard](https://github.com/androguard/androguard) | 6,241 | 1,152 | Python | 39 | Reverse engineering and pentesting for Android applications  | 2026-09-04 |
+| 10 | [LIEF](https://github.com/lief-project/LIEF) | 5,563 | 749 | C++ | 25 | LIEF - Library to Instrument Executable Formats (C++, Python, Rust) | 2026-09-06 |
 | 11 | [pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor) | 5,446 | 1,898 | - | 62 | 拼多多apk内嵌提权代码，及动态下发dex分析 | 2023-06-29 |
 | 12 | [Dexter](https://github.com/Karumi/Dexter) | 5,192 | 673 | Java | 34 | Android library that simplifies the process of requesting permissions at runtime. | 2021-07-02 |
 | 13 | [seaprotocol](https://github.com/sea-protocol/seaprotocol) | 5,043 | 52 | Move | 2 | Sea protocol is the ultimate DEX base on order-book & AMM on Aptos & Sui.Anybody has the right to trade any asset anywhere, anytime! | 2026-03-02 |
-| 14 | [GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) | 4,831 | 574 | Python | 62 | the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leakin... | 2026-04-10 |
-| 15 | [frida-dexdump](https://github.com/hluwa/frida-dexdump) | 4,561 | 950 | Python | 28 | A frida tool to dump dex in memory to support security engineers analyzing malware. | 2023-03-04 |
+| 14 | [GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) | 4,832 | 574 | Python | 62 | the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leakin... | 2026-04-10 |
+| 15 | [frida-dexdump](https://github.com/hluwa/frida-dexdump) | 4,561 | 951 | Python | 28 | A frida tool to dump dex in memory to support security engineers analyzing malware. | 2023-03-04 |
 | 16 | [dexposed](https://github.com/alibaba/dexposed) | 4,504 | 1,060 | Java | 19 | dexposed enable 'god' mode for single android application. | 2017-03-29 |
-| 17 | [dexed](https://github.com/asb2m10/dexed) | 3,501 | 300 | C++ | 73 | DX7 FM multi plaform/multi format plugin | 2026-07-25 |
+| 17 | [dexed](https://github.com/asb2m10/dexed) | 3,502 | 300 | C++ | 73 | DX7 FM multi plaform/multi format plugin | 2026-07-25 |
 | 18 | [dumpDex](https://github.com/WrBug/dumpDex) | 3,159 | 615 | C++ | 38 | 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目。 | 2020-05-15 |
 | 19 | [dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) | 3,072 | 255 | Java | 1 | A Gradle plugin to report the number of method references in your APK on every build. | 2025-11-26 |
 | 20 | [Android-Crack-Tool](https://github.com/Jermic/Android-Crack-Tool) | 2,941 | 390 | - | 15 | 🐞Android crack tool For Mac | 2022-06-23 |
 | 21 | [dex-method-counts](https://github.com/mihaip/dex-method-counts) | 2,575 | 374 | Java | 12 | Command-line tool to count per-package methods in Android .dex files | 2020-03-27 |
 | 22 | [dex-ui](https://github.com/seenaburns/dex-ui) | 2,559 | 142 | C++ | 8 | A science fiction desktop running on Linux. Awesome. | 2024-04-30 |
-| 23 | [Android-Dex](https://github.com/Shrey113/Android-Dex) | 2,460 | 191 | HTML | 38 | Universal Samsung DeX alternative for all Android devices. Run Android apps on Windows, Linux & macOS with resizable windows, advanced FPS gaming controls, and high-performance wireless ADB mirroring. | 2026-08-26 |
-| 24 | [CloddsBot](https://github.com/alsk1992/CloddsBot) | 2,210 | 287 | TypeScript | 18 | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk ... | 2026-09-12 |
+| 23 | [CloddsBot](https://github.com/alsk1992/CloddsBot) | 2,553 | 315 | TypeScript | 21 | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk ... | 2026-09-12 |
+| 24 | [Android-Dex](https://github.com/Shrey113/Android-Dex) | 2,474 | 192 | HTML | 41 | Universal Samsung DeX alternative for all Android devices. Run Android apps on Windows, Linux & macOS with resizable windows, advanced FPS gaming controls, and high-performance wireless ADB mirroring. | 2026-08-26 |
 | 25 | [dexter](https://github.com/ankane/dexter) | 2,095 | 58 | Ruby | 2 | The automatic indexer for Postgres | 2026-08-15 |
-| 26 | [frida_dump](https://github.com/lasting-yang/frida_dump) | 2,070 | 542 | JavaScript | 14 | frida dump dex, frida dump so | 2025-08-20 |
+| 26 | [frida_dump](https://github.com/lasting-yang/frida_dump) | 2,069 | 541 | JavaScript | 14 | frida dump dex, frida dump so | 2025-08-20 |
 | 27 | [StringFog](https://github.com/MegatronKing/StringFog) | 2,016 | 407 | Java | 44 | 一款自动对字节码中的字符串进行加密Android插件工具 | 2024-07-09 |
 | 28 | [dexmaker](https://github.com/linkedin/dexmaker) | 1,967 | 262 | Java | 29 | A utility for doing compile or runtime code generation targeting Android's Dalvik VM | 2026-05-29 |
-| 29 | [NP-Manager](https://github.com/githubXiaowangzi/NP-Manager) | 1,774 | 116 | - | 13 | Apk控制流混淆；Apk-Dex2C；Res资源混淆；Dex、jar、smali文件的相互转换； Dex、Pdf文件合并； Apk、dex、jar混淆和字符串加密； Apk签名、共存； Res资源混淆； Dex、AXML、ARSC文件编辑及翻译；字符串加密(Apk、dex)；  一键添加Xposed检测，一键添加弹窗、对话框； axml反编译/回编译； 一键LOG添加； 一键添加字符串解密LOG，... | 2026-08-16 |
-| 30 | [dex-lang](https://github.com/google-research/dex-lang) | 1,696 | 116 | Haskell | 105 | Research language for array processing in the Haskell/ML family | 2026-01-05 |
-| 31 | [MiniDexed](https://github.com/probonopd/MiniDexed) | 1,668 | 137 | C++ | 59 | Dexed FM synthesizer similar to 8x DX7 (TX816/TX802) running on a bare metal Raspberry Pi (without a Linux kernel or operating system) | 2026-04-18 |
+| 29 | [NP-Manager](https://github.com/githubXiaowangzi/NP-Manager) | 1,775 | 116 | - | 13 | Apk控制流混淆；Apk-Dex2C；Res资源混淆；Dex、jar、smali文件的相互转换； Dex、Pdf文件合并； Apk、dex、jar混淆和字符串加密； Apk签名、共存； Res资源混淆； Dex、AXML、ARSC文件编辑及翻译；字符串加密(Apk、dex)；  一键添加Xposed检测，一键添加弹窗、对话框； axml反编译/回编译； 一键LOG添加； 一键添加字符串解密LOG，... | 2026-09-12 |
+| 30 | [dex-lang](https://github.com/google-research/dex-lang) | 1,697 | 116 | Haskell | 105 | Research language for array processing in the Haskell/ML family | 2026-01-05 |
+| 31 | [MiniDexed](https://github.com/probonopd/MiniDexed) | 1,669 | 137 | C++ | 59 | Dexed FM synthesizer similar to 8x DX7 (TX816/TX802) running on a bare metal Raspberry Pi (without a Linux kernel or operating system) | 2026-04-18 |
 | 32 | [PhotoNoter](https://github.com/yydcdut/PhotoNoter) | 1,569 | 328 | Java | 1 | :notebook:Material Design风格的开源照片笔记。(MVP+Dagger2+RxJava+AspectJ+Dex处理)       | 2018-04-25 |
 | 33 | [fastdex](https://github.com/typ0520/fastdex) | 1,487 | 204 | Java | 31 | 🚀 加快 apk 的编译速度 🚀 | 2018-02-06 |
 | 34 | [TurboDex](https://github.com/asLody/TurboDex) | 1,484 | 300 | C++ | 15 |  fast load dex in memory. | 2017-04-18 |
@@ -51,12 +51,12 @@
 | 43 | [bitshares-core](https://github.com/bitshares/bitshares-core) | 1,186 | 660 | C++ | 227 | BitShares Blockchain node and command-line wallet | 2026-09-11 |
 | 44 | [dexcalibur](https://github.com/reversenseorg/dexcalibur) | 1,172 | 129 | TypeScript | 29 | Reversense (Dexcalibur2) is a fully rewriting and rethinking of Dexcalibur.  Reversense is a binary intelligence platform that automates the reverse engineering of mobile and embedded applications.  | 2026-09-06 |
 | 45 | [vdexExtractor](https://github.com/anestisb/vdexExtractor) | 1,135 | 245 | C | 21 | Tool to decompile & extract Android Dex bytecode from Vdex files | 2024-07-23 |
-| 46 | [dpt-shell](https://github.com/luoyesiqiu/dpt-shell) | 1,130 | 361 | Java | 30 | An android Dex protection shell implementation | 2026-08-31 |
+| 46 | [dpt-shell](https://github.com/luoyesiqiu/dpt-shell) | 1,131 | 361 | Java | 30 | An android Dex protection shell implementation | 2026-08-31 |
 | 47 | [BlackObfuscator](https://github.com/CodingGay/BlackObfuscator) | 1,128 | 239 | Java | 10 | Black Obfuscator is an obfuscator for Android APK DexFile, it can help developer to protect source code by control flow flattening, and make it difficult to analyze the actual program control flow. | 2025-05-03 |
 | 48 | [kelp](https://github.com/stellar-deprecated/kelp) | 1,125 | 258 | Go | 150 | Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges | 2023-11-03 |
 | 49 | [DexterousHands](https://github.com/PKU-MARL/DexterousHands) | 1,099 | 135 | Python | 36 | This is a library that provides dual dexterous hand manipulation tasks through Isaac Gym | 2025-02-18 |
 | 50 | [listen](https://github.com/piotrostr/listen) | 1,086 | 164 | TypeScript | 5 | DeFAI Swiss Army Knife | 2025-11-05 |
-| 51 | [swayswap](https://github.com/FuelLabs/swayswap) | 1,076 | 254 | TypeScript | 33 | SwaySwap is a blazingly fast DEX built on the fastest modular execution layer: Fuel. | 2024-02-23 |
+| 51 | [swayswap](https://github.com/FuelLabs/swayswap) | 1,075 | 254 | TypeScript | 33 | SwaySwap is a blazingly fast DEX built on the fastest modular execution layer: Fuel. | 2024-02-23 |
 | 52 | [WaykiChain](https://github.com/WaykiChain/WaykiChain) | 1,043 | 225 | C++ | 3 | Public Blockchain as a Decentralized Finance Infrastructure Service Platform | 2022-11-30 |
 | 53 | [DexKit](https://github.com/LuckyPray/DexKit) | 1,027 | 114 | Kotlin | 3 | An easy-to-use, high-performance dex deobfuscation library. | 2026-08-20 |
 | 54 | [uniswap-python](https://github.com/uniswap-python/uniswap-python) | 1,012 | 375 | Python | 54 | 🦄 The unofficial Python client for the Uniswap exchange. | 2026-08-05 |
@@ -66,11 +66,11 @@
 | 58 | [TTDeDroid](https://github.com/tp7309/TTDeDroid) | 948 | 182 | Python | 0 | One key for quickly decompile apk/aar/dex/jar,  support by jadx/dex2jar/enjarify. | 2026-09-01 |
 | 59 | [RocketX](https://github.com/trycatchx/RocketX) | 881 | 101 | Kotlin | 12 | 🔥🔥 android 端编译加速插件🚀 动态识别未改动 module 并在编译流程中替换为 aar ，只编译改动模块，加速 Android apk 的编译速度。 | 2023-03-23 |
 | 60 | [DexiNed](https://github.com/xavysp/DexiNed) | 861 | 174 | Python | 54 | DexiNed: Dense EXtreme Inception Network for Edge Detection  | 2023-03-08 |
-| 61 | [perp-dex-tools](https://github.com/your-quantguy/perp-dex-tools) | 858 | 496 | Python | 13 |  | 2026-03-18 |
+| 61 | [perp-dex-tools](https://github.com/your-quantguy/perp-dex-tools) | 859 | 496 | Python | 13 |  | 2026-03-18 |
 | 62 | [swapper-toolkit](https://github.com/swapperfinance/swapper-toolkit) | 849 | 37 | - | 1 | DeFi toolkit for AI agents and coding assistants — deposit funds, execute trades, and manage crypto wallets. Works with Claude Code, Cursor,   Windsurf, OpenClaw, CrewAI, AutoGPT, and other AI agent f... | 2026-04-07 |
 | 63 | [DEXTR-PyTorch](https://github.com/scaelles/DEXTR-PyTorch) | 845 | 154 | Python | 2 | Deep Extreme Cut http://www.vision.ee.ethz.ch/~cvlsegmentation/dextr | 2020-09-04 |
-| 64 | [garlic](https://github.com/neocanable/garlic) | 812 | 106 | C | 17 | The world's fastest apk (android)/java open source decompiler | 2026-09-06 |
-| 65 | [paraswap-dex-lib](https://github.com/VeloraDEX/paraswap-dex-lib) | 810 | 389 | TypeScript | 24 | DexLib is a library used by ParaSwap backend to integrate with decentralized exchanges. This library enables external DEX developers to integrate their DEX with ParaSwap by creating pull requests to t... | 2026-09-11 |
+| 64 | [garlic](https://github.com/neocanable/garlic) | 816 | 108 | C | 17 | The world's fastest apk (android)/java open source decompiler | 2026-09-06 |
+| 65 | [paraswap-dex-lib](https://github.com/VeloraDEX/paraswap-dex-lib) | 810 | 389 | TypeScript | 25 | DexLib is a library used by ParaSwap backend to integrate with decentralized exchanges. This library enables external DEX developers to integrate their DEX with ParaSwap by creating pull requests to t... | 2026-09-11 |
 | 66 | [solana-arbitrage-bot](https://github.com/0xNineteen/solana-arbitrage-bot) | 805 | 248 | Rust | 5 | solana arbitrage bot across multiple spot dexs | 2023-04-10 |
 | 67 | [show-java](https://github.com/niranjan94/show-java) | 789 | 240 | Kotlin | 53 | An APK (android application), JAR & Dex decompiler for android. | 2023-01-04 |
 | 68 | [sdk](https://github.com/VeloraDEX/sdk) | 775 | 112 | TypeScript | 0 | Velora allows dApps and traders to get the best DEX liquidity by aggregating multiple markets and offering the best rates | 2026-09-02 |
@@ -79,16 +79,16 @@
 | 71 | [serum-dex](https://github.com/project-serum/serum-dex) | 696 | 353 | Rust | 53 | Project Serum Rust Monorepo | 2024-06-07 |
 | 72 | [XAPKDetector](https://github.com/horsicq/XAPKDetector) | 693 | 95 | C++ | 1 | APK/DEX detector for Windows, Linux and MacOS. | 2026-09-10 |
 | 73 | [DEX-Arbitrage](https://github.com/jamesbachini/DEX-Arbitrage) | 687 | 344 | Solidity | 3 | Example arbitrage trading bot | 2023-11-02 |
-| 74 | [WTF-Dapp](https://github.com/WTFAcademy/WTF-Dapp) | 670 | 136 | Solidity | 3 | ⭐ Minimal tutorials to build Dapps \| DEX Development Tutorial \| Uniswap 代码解析 \| 去中心化交易所实战全栈教程 WTFSwap \| DApp 智能合约和前端教程 ⭐ | 2025-11-18 |
-| 75 | [dexto](https://github.com/truffle-ai/dexto) | 648 | 78 | TypeScript | 28 | Agent harness and tookit for building AI agents and agentic applications. CLI and SDKs included | 2026-09-08 |
+| 74 | [WTF-Dapp](https://github.com/WTFAcademy/WTF-Dapp) | 668 | 136 | Solidity | 3 | ⭐ Minimal tutorials to build Dapps \| DEX Development Tutorial \| Uniswap 代码解析 \| 去中心化交易所实战全栈教程 WTFSwap \| DApp 智能合约和前端教程 ⭐ | 2025-11-18 |
+| 75 | [dexto](https://github.com/truffle-ai/dexto) | 648 | 79 | TypeScript | 28 | Agent harness and tookit for building AI agents and agentic applications. CLI and SDKs included | 2026-09-08 |
 | 76 | [UnityLive2DExtractor](https://github.com/Perfare/UnityLive2DExtractor) | 631 | 104 | C# | 9 | Unity Live2D Cubism 3 Extractor | 2023-05-17 |
 | 77 | [defi](https://github.com/gauss314/defi) | 610 | 149 | Python | 12 | Tools for use in DeFi. Impermanent Loss calculations, staking and farming strategies, coingecko and pancakeswap API queries, liquidity pools and more | 2024-03-02 |
 | 78 | [outsmart-cli](https://github.com/outsmartchad/outsmart-cli) | 583 | 194 | TypeScript | 14 | Agent-first CLI for trading on Solana — 18 DEX adapters, 12 SWQoS TX landing processors. Buy, sell, lp, snipe, create pool, launch coin, and stream real-time onchain events from your terminal. | 2026-03-07 |
 | 79 | [mev-templates](https://github.com/solidquant/mev-templates) | 578 | 171 | Solidity | 2 | MEV bot templates written in Python/Javascript/Rust. All implementing DEX flashloan arbitrage | 2023-11-08 |
-| 80 | [YoukiDex-Android-Desktop](https://github.com/mrYouki/YoukiDex-Android-Desktop) | 569 | 12 | Kotlin | 8 | YoukiDEX  is a full Android desktop experience built on top of Smart Dock — no launcher swap needed. Runs as a system overlay with full UI customization, persistent dock, notification panel, icon pack... | 2026-08-21 |
-| 81 | [DexGraspVLA](https://github.com/Psi-Robot/DexGraspVLA) | 568 | 45 | Python | 10 | [AAAI'26 Oral] DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping | 2025-08-10 |
-| 82 | [ritmex-bot](https://github.com/discountry/ritmex-bot) | 567 | 209 | TypeScript | 0 | Perp DEX trading bot. | 2026-08-20 |
-| 83 | [V1.0-Dexhand](https://github.com/TheRobotStudio/V1.0-Dexhand) | 567 | 101 | C++ | 9 | The build files for the Dexhand | 2024-07-26 |
+| 80 | [YoukiDex-Android-Desktop](https://github.com/mrYouki/YoukiDex-Android-Desktop) | 571 | 12 | Kotlin | 8 | YoukiDEX  is a full Android desktop experience built on top of Smart Dock — no launcher swap needed. Runs as a system overlay with full UI customization, persistent dock, notification panel, icon pack... | 2026-08-21 |
+| 81 | [DexGraspVLA](https://github.com/Psi-Robot/DexGraspVLA) | 569 | 45 | Python | 10 | [AAAI'26 Oral] DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping | 2025-08-10 |
+| 82 | [V1.0-Dexhand](https://github.com/TheRobotStudio/V1.0-Dexhand) | 568 | 101 | C++ | 9 | The build files for the Dexhand | 2024-07-26 |
+| 83 | [ritmex-bot](https://github.com/discountry/ritmex-bot) | 567 | 209 | TypeScript | 0 | Perp DEX trading bot. | 2026-08-20 |
 | 84 | [SmaliEx](https://github.com/testwhat/SmaliEx) | 552 | 140 | Java | 27 | A wrapper to get de-optimized dex from odex/oat/vdex. | 2025-04-27 |
 | 85 | [Adhrit](https://github.com/abhi-r3v0/Adhrit) | 543 | 120 | JavaScript | 14 | Android Security Suite for in-depth reconnaissance and static bytecode analysis based on Ghera benchmarks. | 2023-01-06 |
 | 86 | [DexKnifePlugin](https://github.com/ceabie/DexKnifePlugin) | 520 | 84 | Java | 16 | A easy android gradle plugin to smart split the specified classes to multi dex. | 2022-02-23 |
