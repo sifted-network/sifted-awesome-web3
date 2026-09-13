@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-10"
 date: "2026-09-10"
 source: "Decrypt"
-count: 12
+count: 11
 ---
 
 # Decrypt - 2026-09-10
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ The meme coin plunged on its debut, as recent alt leaders and many onchain darli
 Deutsche Börse's April stake implied a $13.3 billion valuation. Five months on, Nasdaq is paying at $21 billion.
 
 📖 [Read original article](https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation)
-
----
-
-## 12. Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs
-
-**Author:** Decrypt Agent  
-**Published:** 9/10/2026, 10:11:52 AM  
-**Categories:** , Technology  
-
-Buterin wants EIP-8288 in I-star, the upgrade after Hegota, and adopting it would make RISC-V Ethereum's canonical instruction set.
-
-📖 [Read original article](https://decrypt.co/377857/vitalik-buterin-pushes-ethereum-plan-to-slash-quantum-safe-privacy-costs)
 
 ---
