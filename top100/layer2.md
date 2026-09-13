@@ -6,9 +6,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,557 | 2,275 | Rust | 12 | A based rollup protocol for Ethereum🥁  | 2026-09-09 |
+| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,556 | 2,277 | Rust | 13 | A based rollup protocol for Ethereum🥁  | 2026-09-12 |
 | 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,061 | 761 | Rust | 642 | The Stacks blockchain implementation | 2026-09-11 |
-| 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,550 | 333 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
+| 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,550 | 332 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
 | 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,022 | 612 | - | 1895 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
 | 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 889 | 110 | - | 4 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 6 | [starknetbook](https://github.com/starknet-edu/starknetbook) | 830 | 490 | CSS | 0 | Mastering Starknet. By the Starknet community | 2024-06-20 |
