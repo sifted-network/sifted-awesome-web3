@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-10"
 date: "2026-09-10"
 source: "The Block"
-count: 9
+count: 3
 ---
 
 # The Block - 2026-09-10
 
-9 items collected.
+3 items collected.
 
 ---
 
@@ -44,77 +44,5 @@ Ahead of a pivotal initial vote next week, Senate Republicans released a revised
 The wallet now supports more than 10 networks, including Robinhood Chain and Monad, plus perps, prediction markets, and tokenized stocks.
 
 📖 [Read original article](https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115)
-
----
-
-## 4. Coinbase, Moov to bring stablecoin payment infrastructure to community banks and credit unions
-
-**Author:** Jason Shubnell  
-**Published:** 9/10/2026, 3:11:41 PM  
-**Categories:** Companies, Deals, Exchanges, Finance firms, Markets, Public Equities, Coinbase, TradFi banks, News  
-
-The integration will use Coinbase's Payments API and custodial wallets to embed stablecoin rails into Moov's existing payments platform.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-10-coinbase-moov-bring-stablecoin-payment-infrastructure-community-banks-credit-unions-414153)
-
----
-
-## 5. Uniswap launches ‘StablePair Hook’ to help LPs capture more stablecoin trading value
-
-**Author:** Yogita Khatri  
-**Published:** 9/10/2026, 3:00:00 PM  
-**Categories:** Crypto Ecosystems, DeFi, Uniswap, News  
-
-Uniswap Labs has launched StablePair Hook, a Uniswap v4 tool that uses dynamic fees for stablecoin pairs such as USDC/USDT.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-09-10-uniswap-stablepair-hook-414160)
-
----
-
-## 6. MoneyGram launches first stablecoin-backed Visa card in Colombia
-
-**Author:** Yogita Khatri  
-**Published:** 9/10/2026, 2:30:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Markets, Stablecoins, Token Projects, Web3, USDC, News  
-
-MoneyGram has launched its first stablecoin-backed Visa card, developed with Rain and initially available in Colombia.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-10-moneygram-card-stablecoin-visa-colombia-414137)
-
----
-
-## 7. Citadel urges SEC to assert oversight of event contracts tied to public firms
-
-**Author:** Brian Danga  
-**Published:** 9/10/2026, 1:43:09 PM  
-**Categories:** Companies, Finance firms, Markets, Policy, Regulation, CFTC, Citadel, SEC, News  
-
-Citadel Securities urges SEC oversight of equity-linked event contracts, challenging CFTC self-certification.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-10-citadel-urges-sec-assert-oversight-event-contracts-tied-public-firms-414140)
-
----
-
-## 8. Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack
-
-**Author:** James Hunt  
-**Published:** 9/10/2026, 1:00:00 PM  
-**Categories:** Crypto Ecosystems, News  
-
-The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121)
-
----
-
-## 9. Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership
-
-**Author:** Brian Danga  
-**Published:** 9/10/2026, 12:53:22 PM  
-**Categories:** Companies, Deals, Exchanges, Venture Capital, Kraken, Strategic Investments, News  
-
-Nasdaq Ventures agreed to invest $100 million in Kraken parent Payward, expanding their tokenized equity infrastructure partnership.
-
-📖 [Read original article](https://www.theblock.co/news/deals/2026-09-10-nasdaq-to-invest-100-million-in-kraken-parent-payward-as-firms-expand-partnership-414120)
 
 ---
