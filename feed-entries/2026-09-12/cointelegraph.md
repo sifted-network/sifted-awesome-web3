@@ -2,28 +2,16 @@
 title: "Cointelegraph - 2026-09-12"
 date: "2026-09-12"
 source: "Cointelegraph"
-count: 4
+count: 3
 ---
 
 # Cointelegraph - 2026-09-12
 
-4 items collected.
+3 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Michael Millard  
-**Published:** 9/12/2026, 4:09:41 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. North Korea using foreign talent to help infiltrate US companies: Report
+## 1. North Korea using foreign talent to help infiltrate US companies: Report
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 9/12/2026, 4:08:29 PM  
@@ -35,7 +23,7 @@ The DPRK has turned to third-country IT workers to pass job interviews, after wh
 
 ---
 
-## 3. Farage’s Reform UK gets $97M from two crypto billionaires
+## 2. Farage’s Reform UK gets $97M from two crypto billionaires
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 9/12/2026, 3:50:14 PM  
@@ -47,7 +35,7 @@ Ben Delo, co-founder of BitMEX, donated almost $50 million to Nigel Farage’s R
 
 ---
 
-## 4. Nvidia considers $10B investment in potential record Anthropic IPO: Reuters
+## 3. Nvidia considers $10B investment in potential record Anthropic IPO: Reuters
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 9/12/2026, 3:12:40 PM  
