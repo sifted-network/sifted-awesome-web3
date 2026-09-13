@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-11"
 date: "2026-09-11"
 source: "CoinDesk"
-count: 15
+count: 14
 ---
 
 # CoinDesk - 2026-09-11
 
-15 items collected.
+14 items collected.
 
 ---
 
@@ -176,17 +176,5 @@ SEBI’s Demat 2.0 pilot turns corporate bonds into digital tokens and settles p
 Ninety-five of the CoinDesk 100 fell over the past 24 hours, and bitcoin has shed more than 5% on the week.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike)
-
----
-
-## 15. Ripple puts AI agents inside its $1 billion corporate treasury bet
-
-**Author:** Shaurya Malwa  
-**Published:** 9/11/2026, 4:25:21 AM  
-**Categories:** Markets, News  
-
-The software can monitor cash, risk and forecasts and suggest financial moves, but humans still have to approve every action.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet)
 
 ---
