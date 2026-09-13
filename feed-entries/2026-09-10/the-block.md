@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-10"
 date: "2026-09-10"
 source: "The Block"
-count: 10
+count: 9
 ---
 
 # The Block - 2026-09-10
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ The resulting benchmark is less than half Google's previously reported level, th
 Nasdaq Ventures agreed to invest $100 million in Kraken parent Payward, expanding their tokenized equity infrastructure partnership.
 
 📖 [Read original article](https://www.theblock.co/news/deals/2026-09-10-nasdaq-to-invest-100-million-in-kraken-parent-payward-as-firms-expand-partnership-414120)
-
----
-
-## 10. Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years
-
-**Author:** Brian Danga  
-**Published:** 9/10/2026, 10:31:54 AM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Exchanges, Layer 1s, Markets, People, People, People, People, Policy, Public Equities, Token Projects, Bitcoin, Brian Armstrong, Coinbase, News  
-
-Coinbase CEO Brian Armstrong expects bitcoin to trend higher over the next two years, saying the current cycle may have bottomed.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104)
 
 ---
