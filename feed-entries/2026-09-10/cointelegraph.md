@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-10"
 date: "2026-09-10"
 source: "Cointelegraph"
-count: 7
+count: 6
 ---
 
 # Cointelegraph - 2026-09-10
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ MoneyGram is following rival Western Union’s lead, rolling out a Visa stableco
 European finance and tokenization groups say Brussels should remove limits on assets admitted to DLT infrastructure or set a 1.5 trillion euro baseline if a cap remains.
 
 📖 [Read original article](https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/10/2026, 2:52:15 PM  
-**Categories:** Markets  
-
-Bitcoin fell with US stocks as high inflation and a further surge in oil prices coincided with another multidecade high for US bond yields.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
