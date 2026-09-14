@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-11"
 date: "2026-09-11"
 source: "CoinDesk"
-count: 12
+count: 7
 ---
 
 # CoinDesk - 2026-09-11
 
-12 items collected.
+7 items collected.
 
 ---
 
@@ -92,65 +92,5 @@ Sawyer will become a strategic adviser rather than take the helm of Zodia Soluti
 The August CPI report had taken on outsized importance after Fed Chair Kevin Warsh two weeks ago suggested the central bank may have to act if inflation doesn't soon slow.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/11/core-cpi-rose-a-faster-than-forecast-0-3-in-august-setting-up-fed-rate-hike)
-
----
-
-## 8. Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report
-
-**Author:** Francisco Rodrigues  
-**Published:** 9/11/2026, 11:20:26 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Sept. 11, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/09/11/rising-yields-oil-prices-leave-bitcoin-vulnerable-ahead-of-u-s-inflation-report)
-
----
-
-## 9. Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes
-
-**Author:** Shaurya Malwa,Stephen Alpher,James Van Straten  
-**Published:** 9/11/2026, 11:04:12 AM  
-**Categories:** Finance, Live News, live_news  
-
-Core CPI rose a faster-than-forecast 0.3% in August, but the yearly pace of 2.4% was in line and the slowest rate since early 2021.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70)
-
----
-
-## 10. Bitcoin recovers toward $77,300 as zcash leverage unwinds
-
-**Author:** Oliver Knight  
-**Published:** 9/11/2026, 10:50:47 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin rose 0.7% since midnight UTC to around $77,200, and 68 of the CoinDesk 100 constituents gained, though the index remains 1.4% lower over 24 hours.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/11/bitcoin-recovers-toward-usd77-300-as-zcash-leverage-unwinds)
-
----
-
-## 11. Bitcoin pulls back as another golden cross fails to deliver
-
-**Author:** James Van Straten  
-**Published:** 9/11/2026, 10:13:44 AM  
-**Categories:** Markets, Bitcoin News, Technical Analysis, News  
-
-Bitcoin’s golden cross may support the longer-term outlook, but history suggests much of the upside often occurs before the signal appears.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/11/bitcoin-pulls-back-as-another-golden-cross-fails-to-deliver)
-
----
-
-## 12. Kalshi wants 24/7 Tesla and Nvidia perps as Wall Street fights over who regulates them
-
-**Author:** Shaurya Malwa  
-**Published:** 9/11/2026, 6:17:31 AM  
-**Categories:** Markets, News  
-
-The prediction-market operator plans to seek U.S. approval for about 60 stock and ETF perps, taking one of crypto's biggest trading products into equities.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/11/kalshi-wants-24-7-tesla-and-nvidia-perps-as-wall-street-fights-over-who-regulates-them)
 
 ---
