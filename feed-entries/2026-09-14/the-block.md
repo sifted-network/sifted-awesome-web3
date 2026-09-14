@@ -2,16 +2,52 @@
 title: "The Block - 2026-09-14"
 date: "2026-09-14"
 source: "The Block"
-count: 10
+count: 13
 ---
 
 # The Block - 2026-09-14
 
-10 items collected.
+13 items collected.
 
 ---
 
-## 1. Strive reaches 25,000 BTC milestone with latest $36.6 million purchase
+## 1. Robinhood Chain’s rapid growth is being driven by 4 key factors, analyst says
+
+**Author:** Jason Shubnell  
+**Published:** 9/14/2026, 8:21:52 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Markets, Public Equities, DEXs, Protocols, Robinhood, News  
+
+The chain’s TVL has climbed to nearly $1 billion since its July 1 launch, while daily DEX volume reached $1.88 billion Sunday.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687)
+
+---
+
+## 2. White House crypto adviser feels ‘very good’ ahead of Senate Clarity Act vote on Tuesday
+
+**Author:** Sarah Wynn  
+**Published:** 9/14/2026, 7:29:41 PM  
+**Categories:** Policy, Regulation, U.S. Policymaking, Senate Agriculture Committee, Senate Banking Committee, News  
+
+The White House's top crypto advisor says he feels "very good" about an initial vote in the Senate on cryptocurrency legislation on Tuesday.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-14-white-house-crypto-adviser-feels-very-good-ahead-senate-clarity-act-vote-tuesday-414702)
+
+---
+
+## 3. Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips
+
+**Author:** Kyle Baird  
+**Published:** 9/14/2026, 6:01:35 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Infrastructure, Layer 1s, Markets, Token Projects, Bitcoin, Mining, Mining Companies, News  
+
+Canaan sold its entire ETH position and 54 BTC, using part of the proceeds to repurchase 13.6 million shares.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660)
+
+---
+
+## 4. Strive reaches 25,000 BTC milestone with latest $36.6 million purchase
 
 **Author:** Kyle Baird  
 **Published:** 9/14/2026, 3:15:51 PM  
@@ -23,7 +59,7 @@ The latest acquisition marks a slowdown from the prior week, when Strive purchas
 
 ---
 
-## 2. NY Attorney General James leads bipartisan push against the Clarity Act ahead of initial Senate vote
+## 5. NY Attorney General James leads bipartisan push against the Clarity Act ahead of initial Senate vote
 
 **Author:** Sarah Wynn  
 **Published:** 9/14/2026, 2:43:34 PM  
@@ -35,7 +71,7 @@ New York Attorney General Letitia James led a group of 17 bipartisan attorneys g
 
 ---
 
-## 3. DeFi Development Corp expands Solana treasury to 2.39 million SOL, sets up $300 million CHAD ATM
+## 6. DeFi Development Corp expands Solana treasury to 2.39 million SOL, sets up $300 million CHAD ATM
 
 **Author:** Jason Shubnell  
 **Published:** 9/14/2026, 2:40:16 PM  
@@ -47,7 +83,7 @@ The Solana treasury company established a $300 million at-the-market offering fo
 
 ---
 
-## 4. Bitmine adds 27,180 ETH as adviser Tom DeMark sees sharp move in coming weeks
+## 7. Bitmine adds 27,180 ETH as adviser Tom DeMark sees sharp move in coming weeks
 
 **Author:** Brian Danga  
 **Published:** 9/14/2026, 1:20:51 PM  
@@ -59,7 +95,7 @@ Bitmine added 27,180 ETH, taking its holdings to 5.96 million as advisor Tom DeM
 
 ---
 
-## 5. S&P Global leads strategic investment in crypto data firm Kaiko, extending Series B to $110 million
+## 8. S&P Global leads strategic investment in crypto data firm Kaiko, extending Series B to $110 million
 
 **Author:** James Hunt  
 **Published:** 9/14/2026, 1:13:06 PM  
@@ -71,7 +107,7 @@ BNP Paribas, Nasdaq Ventures, RBC, Coinbase Ventures, DRW Venture Capital and se
 
 ---
 
-## 6. Strategy repurchases $139 million of STRC shares, leaves bitcoin holdings unchanged
+## 9. Strategy repurchases $139 million of STRC shares, leaves bitcoin holdings unchanged
 
 **Author:** James Hunt  
 **Published:** 9/14/2026, 12:08:37 PM  
@@ -83,7 +119,7 @@ Strategy's total holdings account for roughly 4% of the 21 million bitcoin suppl
 
 ---
 
-## 7. Bernstein sees more Clarity Act progress than markets expected, says ‘any positive surprise is definitely not priced in’
+## 10. Bernstein sees more Clarity Act progress than markets expected, says ‘any positive surprise is definitely not priced in’
 
 **Author:** James Hunt  
 **Published:** 9/14/2026, 9:36:08 AM  
@@ -95,7 +131,7 @@ The analysts argued crypto markets currently have a bearish bias ahead of Tuesda
 
 ---
 
-## 8. TD Cowen sees 90% upside for bitcoin treasury firm Smarter Web following proposed ‘MORE’ preferred IPO
+## 11. TD Cowen sees 90% upside for bitcoin treasury firm Smarter Web following proposed ‘MORE’ preferred IPO
 
 **Author:** Brian Danga  
 **Published:** 9/14/2026, 9:29:39 AM  
@@ -107,7 +143,7 @@ TD Cowen raised its Smarter Web price target after its proposed MORE preferred I
 
 ---
 
-## 9. South Korean investors push for fourth crypto tax delay as regulators stand firm
+## 12. South Korean investors push for fourth crypto tax delay as regulators stand firm
 
 **Author:** Danny Park  
 **Published:** 9/14/2026, 8:31:06 AM  
@@ -119,7 +155,7 @@ A petition to postpone the planned digital asset gains tax in South Korea reache
 
 ---
 
-## 10. Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions
+## 13. Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions
 
 **Author:** Danny Park  
 **Published:** 9/14/2026, 4:24:37 AM  
