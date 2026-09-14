@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-09-14"
 date: "2026-09-14"
 source: "Cointelegraph"
-count: 10
+count: 16
 ---
 
 # Cointelegraph - 2026-09-14
 
-10 items collected.
+16 items collected.
 
 ---
 
-## 1. CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week
+## 1. S&P Global backs Kaiko as Series B reaches $110M
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/14/2026, 4:17:52 PM  
+**Categories:** Latest News  
+
+The investment brings together major financial institutions as Kaiko expands its data infrastructure for tokenized securities and onchain financial markets.
+
+📖 [Read original article](https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 9/14/2026, 3:55:59 PM  
+**Categories:** Latest News  
+
+Bitmine now has more than 5 million ETH staked, turning most of its Ether holdings into a recurring income stream as it continues to accumulate.
+
+📖 [Read original article](https://cointelegraph.com/news/bitmine-5-million-eth-staked-334-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Why are AI’s biggest companies suddenly asking to slow down?
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 9/14/2026, 3:18:46 PM  
+**Categories:** Magazine  
+
+AI’s biggest labs are suddenly calling for a slower pace of development. Is it because AI risks are catching up with the technology, or because the economics of the race are getting harder to justify?
+
+📖 [Read original article](https://cointelegraph.com/magazine/why-are-biggest-ai-companies-suddenly-asking-to-slow-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Felix Ng  
+**Published:** 9/14/2026, 2:38:18 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Fragmented regulations limit stablecoin adoption in international finance: WTO head
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/14/2026, 1:30:00 PM  
+**Categories:** Latest News  
+
+Stablecoins may reduce trade finance friction, fragmented regulatory regimes limit their adoption to just 3% of global payments, according to the World Trade Organization.
+
+📖 [Read original article](https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. HYPE price could suffer as Binance takes its revenue: Alice Liu
+
+**Author:** Cointelegraph by Ciaran Lyons  
+**Published:** 9/14/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+Token buybacks have pushed Hyperliquid to all time highs, but Alice Liu from CoinMarketCap warns that Binance poses a threat to the revenue stream it depends on to pay for them.
+
+📖 [Read original article](https://cointelegraph.com/magazine/hype-price-could-suffer-as-binance-takes-its-revenue-alice-liu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. EU cyber rules put crypto wallet makers on 24-hour reporting clock
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/14/2026, 11:38:44 AM  
+**Categories:** Latest News  
+
+Crypto wallet providers must submit an early vulnerability report within 24 hours and a full notification within 72 hours of exploits, or risk administrative fines of as much as $17.3 million.
+
+📖 [Read original article](https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/14/2026, 10:02:00 AM  
@@ -23,7 +107,7 @@ Bitcoin traders brace for volatility as the CLARITY Act awaits a Senate vote to 
 
 ---
 
-## 2. Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty
+## 9. Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/14/2026, 9:55:35 AM  
@@ -35,7 +119,7 @@ Symbiosis is offering a 20% bounty for information leading to asset recovery aft
 
 ---
 
-## 3. UK FCA seeks views on fund rule exemptions for tokenized gold
+## 10. UK FCA seeks views on fund rule exemptions for tokenized gold
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/14/2026, 8:57:00 AM  
@@ -47,7 +131,7 @@ The FCA said uncertainty over whether some tokenized gold products fall under UK
 
 ---
 
-## 4. Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M
+## 11. Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/14/2026, 7:07:54 AM  
@@ -59,19 +143,7 @@ ARKB, GBTC and IBIT led Bitcoin ETF withdrawals, while BlackRock’s ETHA pushed
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/14/2026, 5:31:55 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. King Charles to host AI chiefs amid industry call to slow development
+## 12. King Charles to host AI chiefs amid industry call to slow development
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/14/2026, 5:16:59 AM  
@@ -83,7 +155,7 @@ The gathering comes days after Dario Amodei and Sam Altman called for greater re
 
 ---
 
-## 7. Robinhood CEO says issuers should not have veto over tokenized stocks
+## 13. Robinhood CEO says issuers should not have veto over tokenized stocks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/14/2026, 4:55:28 AM  
@@ -95,7 +167,7 @@ Robinhood CEO Vlad Tenev said issuers should be involved if tokenized products c
 
 ---
 
-## 8. US Republicans send ‘final’ CLARITY Act offer to Democrats
+## 14. US Republicans send ‘final’ CLARITY Act offer to Democrats
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/14/2026, 3:22:49 AM  
@@ -107,7 +179,7 @@ The 635-page revised proposal includes Trump-backed ethics provisions and comes 
 
 ---
 
-## 9. Revolut attackers threaten daily customer data leaks
+## 15. Revolut attackers threaten daily customer data leaks
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/14/2026, 12:54:08 AM  
@@ -119,7 +191,7 @@ Attackers reportedly published identity documents and selfies belonging to Revol
 
 ---
 
-## 10. Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest
+## 16. Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 9/14/2026, 12:15:37 AM  
