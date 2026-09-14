@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-11"
 date: "2026-09-11"
 source: "The Block"
-count: 6
+count: 2
 ---
 
 # The Block - 2026-09-11
 
-6 items collected.
+2 items collected.
 
 ---
 
@@ -32,53 +32,5 @@ Former Alameda Research CEO Caroline Ellison has a new gig at the charity Manifu
 Bitget analyst Lewis Huang noted the divergence between headline inflation accelerating on energy while core inflation continues to ease.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287)
-
----
-
-## 3. ‘DeFi’s federal bank’: Standard Chartered sees SKY token rising fivefold by end-2028
-
-**Author:** Yogita Khatri  
-**Published:** 9/11/2026, 4:48:11 PM  
-**Categories:** Crypto Ecosystems, DeFi, Markets, Web3, News  
-
-Standard Chartered Bank has initiated coverage of Sky, calling it "DeFi's federal bank," and expects SKY to rise $0.325 by 2028.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-11-standard-chartered-sky-token-defi-federal-bank-414280)
-
----
-
-## 4. Metaplanet reverses course on executive options with 41% cut to potential shares, scraps employee warrant plan
-
-**Author:** Kyle Baird  
-**Published:** 9/11/2026, 3:45:25 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin, News  
-
-The changes come amid a bruising stretch for Metaplanet shares, as stock fell about 17% over two trading sessions this week.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-11-metaplanet-reverses-course-executive-options-41-cut-potential-shares-scraps-employee-warrant-plan-414265)
-
----
-
-## 5. India’s SEBI Demat 2.0 pilot debuts with over $100 million in tokenized bonds
-
-**Author:** Brian Danga  
-**Published:** 9/11/2026, 12:09:12 PM  
-**Categories:** Policy, Regulation, News  
-
-India's SEBI Demat 2.0 pilot saw three issuers raise over $100 million in tokenized corporate bonds, with settlement via wholesale CBDC.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-11-indias-sebi-demat-2-0-pilot-debuts-with-over-100-million-in-tokenized-bonds-414252)
-
----
-
-## 6. ‘Return the bitcoin’: Blockstream refuses ransom demand for remaining 600 BTC from Liquid exploit
-
-**Author:** James Hunt  
-**Published:** 9/11/2026, 11:21:17 AM  
-**Categories:** Crypto Ecosystems, News  
-
-Liquid has resumed transactions following the exploit, though peg-outs remain disabled as recovery work continues.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-09-11-return-the-bitcoin-blockstream-refuses-ransom-demand-for-remaining-600-btc-from-liquid-exploit-414247)
 
 ---
