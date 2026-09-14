@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-11"
 date: "2026-09-11"
 source: "Decrypt"
-count: 9
+count: 4
 ---
 
 # Decrypt - 2026-09-11
 
-9 items collected.
+4 items collected.
 
 ---
 
@@ -56,65 +56,5 @@ The company is seeking clarity on antitrust rules as researchers call for restra
 Fresh operating data shows crypto trading bouncing back, but the company's fastest-growing business these days isn't traditional trading at all.
 
 📖 [Read original article](https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august)
-
----
-
-## 5. Bitwise to Close Dogecoin ETF Before Its First Anniversary
-
-**Author:** Jason Nelson  
-**Published:** 9/11/2026, 4:16:05 PM  
-**Categories:** dogecoin, Business  
-
-BWOW will stop trading October 14, with cash payments to remaining shareholders expected October 22.
-
-📖 [Read original article](https://decrypt.co/377973/bitwise-shuts-dogecoin-etf)
-
----
-
-## 6. Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/11/2026, 3:32:08 PM  
-**Categories:** , Markets  
-
-Inflation held at 3.4% and core cooled annually, but a hot monthly core reading kept Fed hike odds near 62% while crypto markets rallied broadly.
-
-📖 [Read original article](https://decrypt.co/377962/bitcoin-price-cpi-inflation-fed-rate-decision)
-
----
-
-## 7. Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'
-
-**Author:** Decrypt Agent  
-**Published:** 9/11/2026, 2:17:38 PM  
-**Categories:** , Coins  
-
-With 598.5 BTC still outstanding, the company says it will go to law enforcement should the funds not be returned.
-
-📖 [Read original article](https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft)
-
----
-
-## 8. Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%
-
-**Author:** Tyler Warner  
-**Published:** 9/11/2026, 12:10:23 PM  
-**Categories:** , Opinion  
-
-Crypto majors are shaky ahead of this morning’s CPI print, but onchain is heating up for another big potential weekend.
-
-📖 [Read original article](https://decrypt.co/377948/morning-minute-ai-agents-cut-btc-quantum-attack-benchmark-by-86)
-
----
-
-## 9. EU Regulator Says Prediction Markets Are 'Rife With Inside Trading'
-
-**Author:** Decrypt Agent  
-**Published:** 9/11/2026, 12:06:24 PM  
-**Categories:** polygon, Law and Order  
-
-ESMA also asks why Kalshi and Polymarket block some EU countries but not others, and notes VPNs get around the blocks.
-
-📖 [Read original article](https://decrypt.co/377947/eu-regulator-says-prediction-markets-are-rife-with-inside-trading)
 
 ---
