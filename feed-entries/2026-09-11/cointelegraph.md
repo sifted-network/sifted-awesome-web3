@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-11"
 date: "2026-09-11"
 source: "Cointelegraph"
-count: 18
+count: 9
 ---
 
 # Cointelegraph - 2026-09-11
 
-18 items collected.
+9 items collected.
 
 ---
 
@@ -116,113 +116,5 @@ Bitstamp accounted for $10.1 billion of Robinhood’s August crypto volume, whil
 The Italian bank is reportedly seeking assistance in launching access to crypto trading, custody and tokenized investment products.
 
 📖 [Read original article](https://cointelegraph.com/news/unicredit-infrastructure-partners-crypto-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/11/2026, 10:53:55 AM  
-**Categories:** Markets  
-
-Bitcoin HODL waves data revealed an unusually muted reaction to Bitcoin’s drop below $58,000, raising questions over its status as a bear-market floor.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-buyers-wary-of-july-sub-58k-floor-amid-onchain-data-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/11/2026, 10:44:28 AM  
-**Categories:** Latest News  
-
-The bank expects Sky to pass five times as much value to token holders by 2028 as USDS adoption and borrowing capacity continue to expand.
-
-📖 [Read original article](https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. India launches tokenized bond pilot with $107M issued
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/11/2026, 10:33:24 AM  
-**Categories:** Latest News  
-
-SEBI said later phases of Demat 2.0 will introduce secondary trading and open the tokenized bonds to retail investors.
-
-📖 [Read original article](https://cointelegraph.com/news/india-launches-tokenized-bond-pilot-with-107m-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Anthropic says Claude used for cyberattacks and surveillance
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/11/2026, 9:47:31 AM  
-**Categories:** Latest News  
-
-A Russian-speaking operator targeted more than 20 organizations, while a Mali consultant used Claude to build a mass-surveillance platform.
-
-📖 [Read original article](https://cointelegraph.com/news/claude-ai-cyberattacks-surveillance-weapons-anthropic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/11/2026, 8:43:19 AM  
-**Categories:** Latest News  
-
-Blockstream said it would work with law enforcement, exchanges and forensic specialists to recover the Bitcoin if the hackers do not return it.
-
-📖 [Read original article](https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitwise to put down Dogecoin ETF less than a year after launch
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/11/2026, 7:47:13 AM  
-**Categories:** Latest News  
-
-BWOW held about $688,000 in net assets as of Sept. 9. Trading is expected to end Oct. 14, with cash payouts to follow around Oct. 22.
-
-📖 [Read original article](https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/11/2026, 7:43:19 AM  
-**Categories:** Latest News  
-
-Bankman-Fried’s lawyers challenged the exclusion of evidence about customer losses and argued that his $11 billion forfeiture was excessive.
-
-📖 [Read original article](https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Revised CLARITY Act targets ‘non-decentralized’ DeFi operators
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/11/2026, 6:08:26 AM  
-**Categories:** Latest News  
-
-The bill’s ethics section remained largely unchanged despite being one of the main points of contention ahead of a pivotal Senate vote.
-
-📖 [Read original article](https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Brevo login flaw enabled phishing email targeting 347K Trezor subscribers
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/11/2026, 4:21:14 AM  
-**Categories:** Latest News  
-
-Trezor told Cointelegraph that the phishing email was sent to 347,000 subscribers and said it is treating every address as “known to the attacker and possibly reusable for phishing.”
-
-📖 [Read original article](https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
