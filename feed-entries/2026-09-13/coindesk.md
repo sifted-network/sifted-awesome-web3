@@ -29,7 +29,7 @@ I dunno, flip a coin.
 **Published:** 9/13/2026, 5:00:00 PM  
 **Categories:** Opinion, Opinion  
 
-lockchains don’t need quantum computers to be quantum-safe, argues Optimum co-founder and MIT professor Muriel Médard. Classic math already gives us the tools.
+Blockchains don’t need quantum computers to be quantum-safe, argues Optimum co-founder and MIT professor Muriel Médard. Classic math already gives us the tools.
 
 📖 [Read original article](https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key)
 
@@ -59,7 +59,7 @@ Stablecoins' “next battleground is in emerging markets,” one expert said, as
 
 ---
 
-## 5. Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns
+## 5. Crypto’s Clarity Act heads into a make-or-break week with no clear outcome
 
 **Author:** Jesse Hamilton  
 **Published:** 9/13/2026, 12:00:00 PM  
