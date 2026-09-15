@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-09-15"
 date: "2026-09-15"
 source: "Cointelegraph"
-count: 10
+count: 12
 ---
 
 # Cointelegraph - 2026-09-15
 
-10 items collected.
+12 items collected.
 
 ---
 
-## 1. US House crypto tax package omits mining, staking reward deferral
+## 1. ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/15/2026, 3:21:26 PM  
+**Categories:** Latest News  
+
+An MEV bot known as “Yoink” front-ran an attacker attempting to exploit a custom Safe module, capturing the stolen rsETH before Kelp temporarily froze the receiving address.
+
+📖 [Read original article](https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. USDT payments feature in Polish energy giant’s failed $230M oil deal: FT
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/15/2026, 1:37:31 PM  
+**Categories:** Latest News  
+
+Tether’s USDT stablecoin was part of a failed oil trade that reportedly cost a Polish energy giant $230 million in late 2023.
+
+📖 [Read original article](https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. US House crypto tax package omits mining, staking reward deferral
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/15/2026, 10:04:21 AM  
@@ -23,7 +47,7 @@ The 114-page bill would change the tax treatment of crypto fees, stablecoins and
 
 ---
 
-## 2. Ethereum, Base wallet standards talks fail, Ethlabs researcher says
+## 4. Ethereum, Base wallet standards talks fail, Ethlabs researcher says
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/15/2026, 9:40:27 AM  
@@ -35,7 +59,7 @@ Ethereum and Base are pursuing different account abstraction designs after talks
 
 ---
 
-## 3. Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant
+## 5. Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/15/2026, 9:30:31 AM  
@@ -47,7 +71,7 @@ Bitcoin short-term holders approached a full month in partial profit as analysis
 
 ---
 
-## 4. US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales
+## 6. US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/15/2026, 8:46:35 AM  
@@ -59,7 +83,7 @@ Tether froze $61.19 million across 10 Tron addresses in 2025 that prosecutors al
 
 ---
 
-## 5. Solana more than triples transaction size limit with mainnet upgrade
+## 7. Solana more than triples transaction size limit with mainnet upgrade
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/15/2026, 8:18:53 AM  
@@ -71,10 +95,10 @@ Solana raised its transaction size limit to 4,096 bytes, giving developers more 
 
 ---
 
-## 6. Here’s what happened in crypto today
+## 8. Here’s what happened in crypto today
 
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/15/2026, 5:39:15 AM  
+**Author:** Cointelegraph by Robert Lakin  
+**Published:** 9/15/2026, 5:50:00 AM  
 **Categories:** Latest News  
 
 Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
@@ -83,7 +107,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 7. CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer
+## 9. CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/15/2026, 5:32:12 AM  
@@ -95,7 +119,7 @@ Banking groups also said the GOP’s final text leaves stablecoin reward loophol
 
 ---
 
-## 8. CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction
+## 10. CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/15/2026, 4:19:16 AM  
@@ -107,7 +131,7 @@ CoinEx said falling trading volumes and liquidity, along with rising regulatory 
 
 ---
 
-## 9. Balancer eyes wind-down after restructuring fails to revive revenue
+## 11. Balancer eyes wind-down after restructuring fails to revive revenue
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/15/2026, 3:33:23 AM  
@@ -119,7 +143,7 @@ Balancer cut costs and shipped new products after restructuring, but Marcus Hard
 
 ---
 
-## 10. Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico
+## 12. Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/15/2026, 12:46:15 AM  
