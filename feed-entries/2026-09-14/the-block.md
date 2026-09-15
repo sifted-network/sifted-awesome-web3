@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-14"
 date: "2026-09-14"
 source: "The Block"
-count: 13
+count: 9
 ---
 
 # The Block - 2026-09-14
 
-13 items collected.
+9 items collected.
 
 ---
 
@@ -116,53 +116,5 @@ Bitmine added 27,180 ETH, taking its holdings to 5.96 million as advisor Tom DeM
 BNP Paribas, Nasdaq Ventures, RBC, Coinbase Ventures, DRW Venture Capital and several others joined the extension round.
 
 📖 [Read original article](https://www.theblock.co/news/deals/2026-09-14-sp-global-leads-strategic-investment-in-crypto-data-firm-kaiko-extending-series-b-to-110-million-414618)
-
----
-
-## 10. Strategy repurchases $139 million of STRC shares, leaves bitcoin holdings unchanged
-
-**Author:** James Hunt  
-**Published:** 9/14/2026, 12:08:37 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, Token Projects, Bitcoin, Strategy, News  
-
-Strategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth roughly $66 billion.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-14-strategy-strc-bitcoin-mstr-414603)
-
----
-
-## 11. Bernstein sees more Clarity Act progress than markets expected, says ‘any positive surprise is definitely not priced in’
-
-**Author:** James Hunt  
-**Published:** 9/14/2026, 9:36:08 AM  
-**Categories:** Equities, Markets, Policy, Regulation, Analyst Reports, News  
-
-The analysts argued crypto markets currently have a bearish bias ahead of Tuesday's cloture vote and Wednesday's Federal Reserve decision.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-14-bernstein-sees-more-clarity-act-progress-than-markets-expected-says-any-positive-surprise-is-definitely-not-priced-in-414593)
-
----
-
-## 12. TD Cowen sees 90% upside for bitcoin treasury firm Smarter Web following proposed ‘MORE’ preferred IPO
-
-**Author:** Brian Danga  
-**Published:** 9/14/2026, 9:29:39 AM  
-**Categories:** Companies, Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin, News  
-
-TD Cowen raised its Smarter Web price target after its proposed MORE preferred IPO, citing broader funding options and capital efficiency.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-14-td-cowen-sees-90-upside-for-bitcoin-treasury-firm-smarter-web-following-proposed-more-preferred-ipo-414590)
-
----
-
-## 13. South Korean investors push for fourth crypto tax delay as regulators stand firm
-
-**Author:** Danny Park  
-**Published:** 9/14/2026, 8:31:06 AM  
-**Categories:** Policy, Regulation, News  
-
-A petition to postpone the planned digital asset gains tax in South Korea reached its threshold of 50,000 signatures.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-14-south-korean-investors-crypto-tax-delay-414581)
 
 ---
