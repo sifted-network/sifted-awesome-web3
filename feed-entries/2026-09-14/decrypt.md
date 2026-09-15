@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-09-14"
 date: "2026-09-14"
 source: "Decrypt"
-count: 12
+count: 14
 ---
 
 # Decrypt - 2026-09-14
 
-12 items collected.
+14 items collected.
 
 ---
 
-## 1. Trump Says He 'Likes' Flock Surveillance Cameras Amid Bipartisan Pushback
+## 1. Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act
+
+**Author:** Jason Nelson  
+**Published:** 9/14/2026, 9:46:04 PM  
+**Categories:** Law and Order  
+
+Eight trade associations say exceptions for interest-like rewards could pull deposits from banks and reduce lending.
+
+📖 [Read original article](https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote)
+
+---
+
+## 2. OpenAI’s Sam Altman Warns Humans Could Lose Control of AI
+
+**Author:** Jason Nelson  
+**Published:** 9/14/2026, 9:16:04 PM  
+**Categories:** Artificial Intelligence  
+
+The OpenAI chief called for safeguards during training and shared industry standards, saying developers can act before legislation arrives.
+
+📖 [Read original article](https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai)
+
+---
+
+## 3. Trump Says He 'Likes' Flock Surveillance Cameras Amid Bipartisan Pushback
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/14/2026, 8:07:41 PM  
@@ -23,7 +47,7 @@ Aboard Air Force One, the president threw his support behind the AI-powered lice
 
 ---
 
-## 2. Microsoft Unveils 'Humanist AI' Code of Conduct, Asks the Public to Poke Holes in It
+## 4. Microsoft Unveils 'Humanist AI' Code of Conduct, Asks the Public to Poke Holes in It
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/14/2026, 7:07:28 PM  
@@ -35,7 +59,7 @@ Mustafa Suleyman's AI unit wants feedback for six weeks before the document guid
 
 ---
 
-## 3. Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers
+## 5. Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers
 
 **Author:** Jason Nelson  
 **Published:** 9/14/2026, 6:26:04 PM  
@@ -47,7 +71,7 @@ The president dismissed calls for tighter AI controls as industry leaders push t
 
 ---
 
-## 4. Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks
+## 6. Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/14/2026, 5:40:04 PM  
@@ -59,7 +83,7 @@ AI CEOs want the industry to pump the brakes on capability gains. Nvidia, Intel,
 
 ---
 
-## 5. Crypto Market Has 'Definitely Not Priced In' Clarity Act Surprise, Says Bernstein
+## 7. Crypto Market Has 'Definitely Not Priced In' Clarity Act Surprise, Says Bernstein
 
 **Author:** Jason Nelson  
 **Published:** 9/14/2026, 5:25:06 PM  
@@ -71,7 +95,7 @@ Ethics and banking concessions have improved the crypto bill’s prospects, anal
 
 ---
 
-## 6. Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH
+## 8. Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH
 
 **Author:** Jason Nelson  
 **Published:** 9/14/2026, 4:02:25 PM  
@@ -83,7 +107,7 @@ The purchase brings the company closer to its goal of owning 5% of Ethereum’s 
 
 ---
 
-## 7. Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week
+## 9. Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/14/2026, 3:41:46 PM  
@@ -95,7 +119,7 @@ The Bitcoin treasury firm slowed its preferred-stock buyback from last week's $1
 
 ---
 
-## 8. Why Trump Backed Tougher Ethics Rules in Clarity Act, and Why the Crypto Industry Thinks It Can Pass
+## 10. Why Trump Backed Tougher Ethics Rules in Clarity Act, and Why the Crypto Industry Thinks It Can Pass
 
 **Author:** EleanorTerrett  
 **Published:** 9/14/2026, 3:22:51 PM  
@@ -107,7 +131,7 @@ Republicans' "last, best and final offer" wins Trump's backing on stronger ethic
 
 ---
 
-## 9. Morning Minute: Clarity Act Odds Soar as Trump Agrees to Ethics Provisions
+## 11. Morning Minute: Clarity Act Odds Soar as Trump Agrees to Ethics Provisions
 
 **Author:** Tyler Warner  
 **Published:** 9/14/2026, 2:37:21 PM  
@@ -119,7 +143,7 @@ What had been written off is now very back alive ahead of a key vote on Tuesday,
 
 ---
 
-## 10. MetaMask Adds New Wallet Protections Against Crypto Scams
+## 12. MetaMask Adds New Wallet Protections Against Crypto Scams
 
 **Author:** Jason Nelson  
 **Published:** 9/14/2026, 2:01:04 PM  
@@ -131,7 +155,7 @@ MetaMask’s latest safeguards flag suspicious transfers and stop transactions t
 
 ---
 
-## 11. India Begins Tokenizing Its $620 Billion Corporate Bond Market
+## 13. India Begins Tokenizing Its $620 Billion Corporate Bond Market
 
 **Author:** Decrypt Agent  
 **Published:** 9/14/2026, 11:01:05 AM  
@@ -143,7 +167,7 @@ SEBI and the RBI's "Demat 2.0" pilot issues corporate bonds as digital tokens an
 
 ---
 
-## 12. Bitcoin Suisse to Cut Up to Half Its Swiss Jobs in Overseas Shift
+## 14. Bitcoin Suisse to Cut Up to Half Its Swiss Jobs in Overseas Shift
 
 **Author:** Decrypt Agent  
 **Published:** 9/14/2026, 9:01:03 AM  
