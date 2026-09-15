@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-14"
 date: "2026-09-14"
 source: "The Block"
-count: 14
+count: 13
 ---
 
 # The Block - 2026-09-14
 
-14 items collected.
+13 items collected.
 
 ---
 
@@ -164,17 +164,5 @@ TD Cowen raised its Smarter Web price target after its proposed MORE preferred I
 A petition to postpone the planned digital asset gains tax in South Korea reached its threshold of 50,000 signatures.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-14-south-korean-investors-crypto-tax-delay-414581)
-
----
-
-## 14. Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions
-
-**Author:** Danny Park  
-**Published:** 9/14/2026, 4:24:37 AM  
-**Categories:** Policy, Regulation, News  
-
-President Donald Trump agreed to ethics restrictions on the bill, which would limit officials and their spouses from crypto-related dealings.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575)
 
 ---
