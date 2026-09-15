@@ -25,7 +25,7 @@ Kraken’s new xStocks vaults let investors earn yield on tokenized versions of 
 
 ## 2. Here’s what happened in crypto today
 
-**Author:** Cointelegraph by Felix Ng  
+**Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/14/2026, 8:41:38 PM  
 **Categories:** Latest News  
 
