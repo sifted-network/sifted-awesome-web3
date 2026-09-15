@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-14"
 date: "2026-09-14"
 source: "Cointelegraph"
-count: 20
+count: 19
 ---
 
 # Cointelegraph - 2026-09-14
 
-20 items collected.
+19 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ Kraken’s new xStocks vaults let investors earn yield on tokenized versions of 
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 9/14/2026, 8:41:38 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Bitcoin tops $79K, oil falls as Trump says Iran war could end
+## 2. Bitcoin tops $79K, oil falls as Trump says Iran war could end
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/14/2026, 6:56:28 PM  
@@ -47,7 +35,7 @@ Bitcoin’s price rose toward $80,000 after US President Donald Trump hinted tha
 
 ---
 
-## 4. Strive adds 469 Bitcoin to reach 25,000 BTC treasury
+## 3. Strive adds 469 Bitcoin to reach 25,000 BTC treasury
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/14/2026, 5:50:12 PM  
@@ -59,7 +47,7 @@ Strive’s latest Bitcoin purchase was funded entirely through its SATA preferre
 
 ---
 
-## 5. CLARITY Act faces state AGs opposition ahead of key Senate vote
+## 4. CLARITY Act faces state AGs opposition ahead of key Senate vote
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/14/2026, 5:42:04 PM  
@@ -71,7 +59,7 @@ Trump’s ethics concession addresses one hurdle for the crypto bill, but 18 sta
 
 ---
 
-## 6. S&P Global backs Kaiko as Series B reaches $110M
+## 5. S&P Global backs Kaiko as Series B reaches $110M
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/14/2026, 4:17:52 PM  
@@ -83,7 +71,7 @@ The investment brings together major financial institutions as Kaiko expands its
 
 ---
 
-## 7. Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury
+## 6. Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/14/2026, 3:55:59 PM  
@@ -95,7 +83,7 @@ Bitmine now has more than 5 million ETH staked, turning most of its Ether holdin
 
 ---
 
-## 8. Why are AI’s biggest companies suddenly asking to slow down?
+## 7. Why are AI’s biggest companies suddenly asking to slow down?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/14/2026, 3:18:46 PM  
@@ -107,7 +95,7 @@ AI’s biggest labs are suddenly calling for a slower pace of development. Is it
 
 ---
 
-## 9. Fragmented regulations limit stablecoin adoption in international finance: WTO head
+## 8. Fragmented regulations limit stablecoin adoption in international finance: WTO head
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/14/2026, 1:30:00 PM  
@@ -119,7 +107,7 @@ Stablecoins may reduce trade finance friction, fragmented regulatory regimes lim
 
 ---
 
-## 10. HYPE price could suffer as Binance takes its revenue: Alice Liu
+## 9. HYPE price could suffer as Binance takes its revenue: Alice Liu
 
 **Author:** Cointelegraph by Ciaran Lyons  
 **Published:** 9/14/2026, 1:30:00 PM  
@@ -131,7 +119,7 @@ Token buybacks have pushed Hyperliquid to all time highs, but Alice Liu from Coi
 
 ---
 
-## 11. EU cyber rules put crypto wallet makers on 24-hour reporting clock
+## 10. EU cyber rules put crypto wallet makers on 24-hour reporting clock
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/14/2026, 11:38:44 AM  
@@ -143,7 +131,7 @@ Crypto wallet providers must submit an early vulnerability report within 24 hour
 
 ---
 
-## 12. CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week
+## 11. CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/14/2026, 10:02:00 AM  
@@ -155,7 +143,7 @@ Bitcoin traders brace for volatility as the CLARITY Act awaits a Senate vote to 
 
 ---
 
-## 13. Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty
+## 12. Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/14/2026, 9:55:35 AM  
@@ -167,7 +155,7 @@ Symbiosis is offering a 20% bounty for information leading to asset recovery aft
 
 ---
 
-## 14. UK FCA seeks views on fund rule exemptions for tokenized gold
+## 13. UK FCA seeks views on fund rule exemptions for tokenized gold
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/14/2026, 8:57:00 AM  
@@ -179,7 +167,7 @@ The FCA said uncertainty over whether some tokenized gold products fall under UK
 
 ---
 
-## 15. Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M
+## 14. Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/14/2026, 7:07:54 AM  
@@ -191,7 +179,7 @@ ARKB, GBTC and IBIT led Bitcoin ETF withdrawals, while BlackRock’s ETHA pushed
 
 ---
 
-## 16. King Charles to host AI chiefs amid industry call to slow development
+## 15. King Charles to host AI chiefs amid industry call to slow development
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/14/2026, 5:16:59 AM  
@@ -203,7 +191,7 @@ The gathering comes days after Dario Amodei and Sam Altman called for greater re
 
 ---
 
-## 17. Robinhood CEO says issuers should not have veto over tokenized stocks
+## 16. Robinhood CEO says issuers should not have veto over tokenized stocks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/14/2026, 4:55:28 AM  
@@ -215,7 +203,7 @@ Robinhood CEO Vlad Tenev said issuers should be involved if tokenized products c
 
 ---
 
-## 18. US Republicans send ‘final’ CLARITY Act offer to Democrats
+## 17. US Republicans send ‘final’ CLARITY Act offer to Democrats
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/14/2026, 3:22:49 AM  
@@ -227,7 +215,7 @@ The 635-page revised proposal includes Trump-backed ethics provisions and comes 
 
 ---
 
-## 19. Revolut attackers threaten daily customer data leaks
+## 18. Revolut attackers threaten daily customer data leaks
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/14/2026, 12:54:08 AM  
@@ -239,7 +227,7 @@ Attackers reportedly published identity documents and selfies belonging to Revol
 
 ---
 
-## 20. Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest
+## 19. Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 9/14/2026, 12:15:37 AM  
