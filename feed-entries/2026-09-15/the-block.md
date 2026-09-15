@@ -2,16 +2,52 @@
 title: "The Block - 2026-09-15"
 date: "2026-09-15"
 source: "The Block"
-count: 11
+count: 14
 ---
 
 # The Block - 2026-09-15
 
-11 items collected.
+14 items collected.
 
 ---
 
-## 1. Bitcoin price recovery unlikely to lure AI-focused miners back, CoinShares says
+## 1. Clarity Act preliminary vote falls short in Senate amid ethics fight over Trump’s crypto wealth
+
+**Author:** Sarah Wynn  
+**Published:** 9/15/2026, 6:57:00 PM  
+**Categories:** People, Policy, Regulation, U.S. Policymaking, Cynthia Lummis, Donald Trump, Elections 2026, Senate Banking Committee, News  
+
+An initial vote to try to push the Clarity Act closer to becoming law fell flat amid opposition to President Trump's crypto wealth.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-15-clarity-act-preliminary-vote-falls-short-in-senate-amid-ethics-fight-over-trumps-crypto-wealth-415010)
+
+---
+
+## 2. DOJ charges Robinhood former engineers with front-running crypto listings on Hyperliquid
+
+**Author:** Jason Shubnell  
+**Published:** 9/15/2026, 5:50:23 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Legal, Markets, Policy, Public Equities, Regulation, Crime, Protocols, Robinhood, News  
+
+According to prosecutors, the two took positions in tokens ahead of Robinhood’s public listing announcements between 2025 and 2026.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-15-doj-charges-robinhood-engineers-front-running-crypto-listings-hyperliquid-414865)
+
+---
+
+## 3. Sen. Elizabeth Warren says she wants a crypto bill, but the Clarity Act just isn’t it
+
+**Author:** Sarah Wynn  
+**Published:** 9/15/2026, 5:49:30 PM  
+**Categories:** People, Policy, Regulation, U.S. Policymaking, Elections 2026, Elizabeth Warren, Senate Banking Committee, News  
+
+Sen. Elizabeth Warren says she remains determined to get a crypto bill signed into law — even if she doesn’t support the current Clarity Act.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-15-sen-elizabeth-warren-says-she-wants-a-crypto-bill-but-the-clarity-act-just-isnt-it-414869)
+
+---
+
+## 4. Bitcoin price recovery unlikely to lure AI-focused miners back, CoinShares says
 
 **Author:** Kyle Baird  
 **Published:** 9/15/2026, 3:37:47 PM  
@@ -23,7 +59,7 @@ Publicly listed BTC miners produced bitcoin at an average ex-tax cash cost of ro
 
 ---
 
-## 2. Lead Senate Republican Lummis rejects Democratic counteroffer as Clarity Act vote nears
+## 5. Lead Senate Republican Lummis rejects Democratic counteroffer as Clarity Act vote nears
 
 **Author:** Sarah Wynn  
 **Published:** 9/15/2026, 2:38:13 PM  
@@ -35,7 +71,7 @@ Hours ahead of an initial vote on the Clarity Act, Senate Republicans are pushin
 
 ---
 
-## 3. House committee releases sweeping crypto tax bill ahead of Wednesday markup
+## 6. House committee releases sweeping crypto tax bill ahead of Wednesday markup
 
 **Author:** James Hunt  
 **Published:** 9/15/2026, 11:52:36 AM  
@@ -47,7 +83,7 @@ Among its provisions is a $10 exception for certain fees paid in crypto, along w
 
 ---
 
-## 4. Standard Chartered sees Arbitrum at $10 by end-2030, up 70-fold
+## 7. Standard Chartered sees Arbitrum at $10 by end-2030, up 70-fold
 
 **Author:** Brian Danga  
 **Published:** 9/15/2026, 11:50:30 AM  
@@ -59,7 +95,7 @@ Standard Chartered sees Arbitrum at $10 by 2030, projecting a roughly 70-fold in
 
 ---
 
-## 5. Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum
+## 8. Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum
 
 **Author:** Brian Danga  
 **Published:** 9/15/2026, 9:35:02 AM  
@@ -71,7 +107,7 @@ Tonkeeper has rebranded as Keeper, with the wallet now supporting seven blockcha
 
 ---
 
-## 6. Ark Invest sells $14 million in Circle, trims Coinbase as crypto stocks rally
+## 9. Ark Invest sells $14 million in Circle, trims Coinbase as crypto stocks rally
 
 **Author:** Danny Park  
 **Published:** 9/15/2026, 9:32:31 AM  
@@ -83,7 +119,7 @@ The Cathie Wood-led investment firm routinely adds and trims its crypto stock ho
 
 ---
 
-## 7. Zama expands confidential Morpho lineup after first vault hits $40 million, launches private swaps on Ethereum
+## 10. Zama expands confidential Morpho lineup after first vault hits $40 million, launches private swaps on Ethereum
 
 **Author:** James Hunt  
 **Published:** 9/15/2026, 7:05:03 AM  
@@ -95,7 +131,7 @@ Users get confidential access to 12 existing Morpho vaults on Ethereum, while an
 
 ---
 
-## 8. Crypto exchange CoinEx to shut down after 9 years, citing market slump
+## 11. Crypto exchange CoinEx to shut down after 9 years, citing market slump
 
 **Author:** Danny Park  
 **Published:** 9/15/2026, 6:22:17 AM  
@@ -107,7 +143,7 @@ The exchange blamed a long market slump, shrinking volume and liquidity, and ris
 
 ---
 
-## 9. Balancer proposes winding down protocol and distributing treasury to BAL holders
+## 12. Balancer proposes winding down protocol and distributing treasury to BAL holders
 
 **Author:** Danny Park  
 **Published:** 9/15/2026, 5:29:13 AM  
@@ -119,7 +155,7 @@ The proposal comes six months after corporate entity Balancer Labs shut down ope
 
 ---
 
-## 10. Ethereum, Base developers abandon effort to align account abstraction proposals
+## 13. Ethereum, Base developers abandon effort to align account abstraction proposals
 
 **Author:** Timmy Shen  
 **Published:** 9/15/2026, 4:35:26 AM  
@@ -131,7 +167,7 @@ The talks to align two proposals, EIP-8130 and EIP-8141, fell short of a shared 
 
 ---
 
-## 11. US DOJ seeks $61 million in crypto proceeds from illicit Iranian oil sales laundered on Binance
+## 14. US DOJ seeks $61 million in crypto proceeds from illicit Iranian oil sales laundered on Binance
 
 **Author:** Danny Park  
 **Published:** 9/15/2026, 4:01:48 AM  
