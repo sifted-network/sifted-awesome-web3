@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-14"
 date: "2026-09-14"
 source: "The Block"
-count: 9
+count: 6
 ---
 
 # The Block - 2026-09-14
 
-9 items collected.
+6 items collected.
 
 ---
 
@@ -80,41 +80,5 @@ The latest acquisition marks a slowdown from the prior week, when Strive purchas
 New York Attorney General Letitia James led a group of 17 bipartisan attorneys general urging lawmakers to vote against crypto legislation.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-14-ny-attorney-general-james-bipartisan-push-against-clarity-act-initial-senate-vote-414635)
-
----
-
-## 7. DeFi Development Corp expands Solana treasury to 2.39 million SOL, sets up $300 million CHAD ATM
-
-**Author:** Jason Shubnell  
-**Published:** 9/14/2026, 2:40:16 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Solana, News  
-
-The Solana treasury company established a $300 million at-the-market offering for its CHAD perpetual preferred stock.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-14-defi-development-corp-expands-solana-treasury-2-39-million-sol-sets-300-million-chad-atm-414633)
-
----
-
-## 8. Bitmine adds 27,180 ETH as adviser Tom DeMark sees sharp move in coming weeks
-
-**Author:** Brian Danga  
-**Published:** 9/14/2026, 1:20:51 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Ethereum, News  
-
-Bitmine added 27,180 ETH, taking its holdings to 5.96 million as advisor Tom DeMark forecasts a sharp upward move.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-14-bitmine-adds-27180-eth-as-adviser-tom-demark-sees-sharp-move-in-coming-weeks-414621)
-
----
-
-## 9. S&P Global leads strategic investment in crypto data firm Kaiko, extending Series B to $110 million
-
-**Author:** James Hunt  
-**Published:** 9/14/2026, 1:13:06 PM  
-**Categories:** Deals, Venture Capital, Series B, News  
-
-BNP Paribas, Nasdaq Ventures, RBC, Coinbase Ventures, DRW Venture Capital and several others joined the extension round.
-
-📖 [Read original article](https://www.theblock.co/news/deals/2026-09-14-sp-global-leads-strategic-investment-in-crypto-data-firm-kaiko-extending-series-b-to-110-million-414618)
 
 ---
