@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-09-14"
 date: "2026-09-14"
 source: "CoinDesk"
-count: 20
+count: 23
 ---
 
 # CoinDesk - 2026-09-14
 
-20 items collected.
+23 items collected.
 
 ---
 
-## 1. Robinhood plans share redemptions, voting rights for stock tokens, after criticism
+## 1. Even if Clarity fails, Wall Street’s crypto push is unlikely to stop
+
+**Author:** Helene Braun,AI Boost  
+**Published:** 9/14/2026, 11:43:28 PM  
+**Categories:** Policy, Clarity Act, News  
+
+The Clarity Act could give banks, brokers and asset managers a clearer rulebook, but financial firms have already moved far enough into digital assets that failure may slow adoption rather than stop it.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop)
+
+---
+
+## 2. SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it
+
+**Author:** Krisztian Sandor  
+**Published:** 9/14/2026, 11:30:40 PM  
+**Categories:** Policy, Clarity Act, Market Structure Legislation, SEC, News  
+
+The SEC chair said crypto issuance, transfer agent modernization and custody will form the backbone of the agency’s regulatory push.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it)
+
+---
+
+## 3. U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act
+
+**Author:** Jesse Hamilton  
+**Published:** 9/14/2026, 10:34:18 PM  
+**Categories:** Policy, Clarity Act, News  
+
+One of the top crypto market structure negotiators in Washington says she's run out of gas on new revisions for the bill she's worked on for more than five years.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act)
+
+---
+
+## 4. Robinhood plans share redemptions, voting rights for stock tokens, after criticism
 
 **Author:** Krisztian Sandor  
 **Published:** 9/14/2026, 9:05:13 PM  
@@ -23,7 +59,7 @@ CEO Vlad Tenev said more shareholder features are coming as Robinhood’s offsho
 
 ---
 
-## 2. Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable
+## 5. Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable
 
 **Author:** Oliver Knight  
 **Published:** 9/14/2026, 7:21:58 PM  
@@ -35,7 +71,7 @@ Onchain records show that an $800 million crypto stake that matched Donald Trump
 
 ---
 
-## 3. White House crypto adviser says Trump gave up 'historic' ethics powers in compromise
+## 6. White House crypto adviser says Trump gave up 'historic' ethics powers in compromise
 
 **Author:** Jesse Hamilton  
 **Published:** 9/14/2026, 6:34:09 PM  
@@ -47,7 +83,7 @@ President Donald Trump's digital assets adviser spoke at a Washington event the 
 
 ---
 
-## 4. Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote
+## 7. Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote
 
 **Author:** Helene Braun  
 **Published:** 9/14/2026, 5:51:20 PM  
@@ -59,7 +95,7 @@ Eight banking groups on Monday said they want tighter limits on stablecoin rewar
 
 ---
 
-## 5. A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act
+## 8. A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act
 
 **Author:** Nikhilesh De  
 **Published:** 9/14/2026, 3:57:01 PM  
@@ -71,7 +107,7 @@ The state AGs said they were concerned the crypto legislation might restrict the
 
 ---
 
-## 6. Clarity Act odds surge on prediction markets, but crypto bill still faces long road
+## 9. Clarity Act odds surge on prediction markets, but crypto bill still faces long road
 
 **Author:** Krisztian Sandor  
 **Published:** 9/14/2026, 3:10:29 PM  
@@ -83,7 +119,7 @@ Kalshi and Polymarket bettors sharply raised the chances of U.S. crypto market s
 
 ---
 
-## 7. Consensus heads to Hong Kong for third year with expanded focus on AI
+## 10. Consensus heads to Hong Kong for third year with expanded focus on AI
 
 **Author:** Jamie Crawley  
 **Published:** 9/14/2026, 2:37:56 PM  
@@ -95,7 +131,7 @@ Consensus Hong Kong will focus on institutional adoption of digital assets and t
 
 ---
 
-## 8. Don’t let perfect be the enemy of Clarity
+## 11. Don’t let perfect be the enemy of Clarity
 
 **Author:** Summer Mersinger  
 **Published:** 9/14/2026, 2:34:56 PM  
@@ -107,7 +143,7 @@ On September 15, the Senate has the chance to show that it can address issues in
 
 ---
 
-## 9. Here is the revised Clarity Act ethics provision Donald Trump has agreed to
+## 12. Here is the revised Clarity Act ethics provision Donald Trump has agreed to
 
 **Author:** Nikhilesh De  
 **Published:** 9/14/2026, 2:27:48 PM  
@@ -119,7 +155,7 @@ The new Clarity Act draft would force divestiture and give state attorneys gener
 
 ---
 
-## 10. Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas
+## 13. Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas
 
 **Author:** Olivier Acuna  
 **Published:** 9/14/2026, 2:06:28 PM  
@@ -131,7 +167,7 @@ Financial rating giant S&P Global joined top traditional banks and exchange oper
 
 ---
 
-## 11. Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead
+## 14. Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead
 
 **Author:** Krisztian Sandor  
 **Published:** 9/14/2026, 12:58:42 PM  
@@ -143,7 +179,7 @@ The Ethereum treasury firm is closing in on its 5% accumulation goal as Lee poin
 
 ---
 
-## 12. Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion
+## 15. Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion
 
 **Author:** Shaurya Malwa  
 **Published:** 9/14/2026, 12:08:35 PM  
@@ -155,7 +191,7 @@ Bitwise's BWOW dogecoin ETF will close after 10 months, adding to weak demand ac
 
 ---
 
-## 13. Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP
+## 16. Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP
 
 **Author:** Olivier Acuna  
 **Published:** 9/14/2026, 12:07:19 PM  
@@ -167,7 +203,7 @@ President Donald Trump agreed to expanded conflict-of-interest rules and state-l
 
 ---
 
-## 14. FCA considers exempting tokenized gold from fund rules to defend London market
+## 17. FCA considers exempting tokenized gold from fund rules to defend London market
 
 **Author:** Olivier Acuna  
 **Published:** 9/14/2026, 11:58:28 AM  
@@ -179,7 +215,7 @@ The Financial Conduct Authority is exploring a bespoke regulatory framework with
 
 ---
 
-## 15. Live updates: Bitcoin climbs near $79,000 as stocks narrow declines
+## 18. Live updates: Bitcoin climbs near $79,000 as stocks narrow declines
 
 **Author:** Stephen Alpher,James Van Straten  
 **Published:** 9/14/2026, 11:44:21 AM  
@@ -191,7 +227,7 @@ The Federal Reserve's two-day policy meeting begins tomorrow, with nearly all no
 
 ---
 
-## 16. Crypto market outperforms as call for slower AI development weighs on tech stocks
+## 19. Crypto market outperforms as call for slower AI development weighs on tech stocks
 
 **Author:** James Van Straten  
 **Published:** 9/14/2026, 11:15:00 AM  
@@ -203,7 +239,7 @@ Your day-ahead look for Sept. 14, 2026
 
 ---
 
-## 17. Bitcoin climbs to $78,000 as crypto sits out the AI selloff
+## 20. Bitcoin climbs to $78,000 as crypto sits out the AI selloff
 
 **Author:** Oliver Knight  
 **Published:** 9/14/2026, 10:09:41 AM  
@@ -215,7 +251,7 @@ Bitcoin rose 1.9% since midnight UTC while Nasdaq 100 index futures fell 1.65% o
 
 ---
 
-## 18. TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions
+## 21. TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions
 
 **Author:** Olivier Acuna  
 **Published:** 9/14/2026, 9:43:45 AM  
@@ -227,7 +263,7 @@ ByteDance was reportedly considering spending $70 billion on AI data centers and
 
 ---
 
-## 19. Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead
+## 22. Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 9/14/2026, 9:29:57 AM  
@@ -239,7 +275,7 @@ Your look at what's coming in the week starting Sept. 14.
 
 ---
 
-## 20. Bitcoin bucks tech selloff as AI safety concerns weigh on stocks
+## 23. Bitcoin bucks tech selloff as AI safety concerns weigh on stocks
 
 **Author:** James Van Straten  
 **Published:** 9/14/2026, 8:07:16 AM  
