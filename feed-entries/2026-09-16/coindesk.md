@@ -2,28 +2,76 @@
 title: "CoinDesk - 2026-09-16"
 date: "2026-09-16"
 source: "CoinDesk"
-count: 21
+count: 25
 ---
 
 # CoinDesk - 2026-09-16
 
-21 items collected.
+25 items collected.
 
 ---
 
-## 1. Hamas’ military wing told donors to avoid Binance. Use Bybit, OKX and others instead
+## 1. Revolut hackers demand $3 million in Monero, threaten to sell customer data
+
+**Author:** Helene Braun,AI Boost  
+**Published:** 9/16/2026, 7:07:34 PM  
+**Categories:** Markets, News  
+
+The group gave Revolut 24 hours to pay and said it targeted customers with significant crypto holdings.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data)
+
+---
+
+## 2. Fed raises rates by 25 basis points in first hike since July 2023
+
+**Author:** James Van Straten  
+**Published:** 9/16/2026, 5:54:55 PM  
+**Categories:** Markets, Federal Reserve, Top Stories, Breaking News, Bitcoin News, News  
+
+The widely expected move places the U.S. Federal Reserve's benchmark fed funds rate range at 3.75%-4.0%.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023)
+
+---
+
+## 3. Celsius sues BitMEX for $495 million over 2020 crash liquidations
+
+**Author:** Oliver Knight  
+**Published:** 9/16/2026, 5:34:04 PM  
+**Categories:** Finance, Crypto Lending, News  
+
+The estate is chasing 6,360 BTC lost in the Covid crash — a leveraged long position that sits awkwardly with the lender's delta-neutral marketing.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations)
+
+---
+
+## 4. U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss
+
+**Author:** Jesse Hamilton  
+**Published:** 9/16/2026, 4:21:44 PM  
+**Categories:** Policy, Tax, Regulation, News  
+
+The Digital Asset Tax Certainty Act would ease complicated tax burdens for everyday use of cryptocurrencies, though Trump's industry ties spurred some pushback.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss)
+
+---
+
+## 5. Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows
 
 **Author:** Ian Allison  
 **Published:** 9/16/2026, 3:25:41 PM  
 **Categories:** Policy, Exclusive, News  
 
-Hamas’ military wing advised donors not to use Binance to handle funds but rather to use Bybit, OKX, Kast and Redotpay, according to recent U.S. Department of Justice documents.
+Hamas’ military wing advised donors not to use Binance to handle funds but rather to use Trust Wallet, Bybit, OKX, Kast and Redotpay to send funds to an external TRON wallet, according to recent U.S. Department of Justice documents.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead)
 
 ---
 
-## 2. Crypto Long & Short: Six signs a crypto winter is ending
+## 6. Crypto Long & Short: Six signs a crypto winter is ending
 
 **Author:** Denny Galindo,Helene Braun  
 **Published:** 9/16/2026, 2:59:34 PM  
@@ -35,7 +83,7 @@ Hamas’ military wing advised donors not to use Binance to handle funds but rat
 
 ---
 
-## 3. Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid
+## 7. Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid
 
 **Author:** Olivier Acuna  
 **Published:** 9/16/2026, 2:35:43 PM  
@@ -47,7 +95,7 @@ Leveraging its $550 million acquisition of Bitnomial, Payward aims to become the
 
 ---
 
-## 4. Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases
+## 8. Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases
 
 **Author:** Will Canny,AI Boost  
 **Published:** 9/16/2026, 2:00:00 PM  
@@ -59,7 +107,7 @@ The onchain finance platform said thSLVR allows investors to retain exposure to 
 
 ---
 
-## 5. A LatAm telecom operator is putting part of its finances on Avalanche
+## 9. A LatAm telecom operator is putting part of its finances on Avalanche
 
 **Author:** Krisztian Sandor  
 **Published:** 9/16/2026, 2:00:00 PM  
@@ -71,7 +119,7 @@ Led by former IBM Blockchain partner Jules Miller, Iris is helping Bolivia's VIV
 
 ---
 
-## 6. A stolen coin can be returned. A leaked identity cannot.
+## 10. A stolen coin can be returned. A leaked identity cannot.
 
 **Author:** Evin McMullen  
 **Published:** 9/16/2026, 1:00:00 PM  
@@ -83,7 +131,7 @@ We keep building the honeypots, and we are about to hand the same architecture t
 
 ---
 
-## 7. Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes
+## 11. Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes
 
 **Author:** Shaurya Malwa  
 **Published:** 9/16/2026, 12:00:41 PM  
@@ -95,7 +143,7 @@ The October update changes how nodes estimate transaction fees and process block
 
 ---
 
-## 8. Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed
+## 12. Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed
 
 **Author:** Omkar Godbole  
 **Published:** 9/16/2026, 11:16:51 AM  
@@ -107,7 +155,7 @@ Your day-ahead look for Sept. 16, 2026
 
 ---
 
-## 9. Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk
+## 13. Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk
 
 **Author:** Helene Braun  
 **Published:** 9/16/2026, 11:00:00 AM  
@@ -119,7 +167,7 @@ Bitcoin is stuck near $80,000 as traders build stablecoin positions that could r
 
 ---
 
-## 10. Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault
+## 14. Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 9/16/2026, 11:00:00 AM  
@@ -131,7 +179,7 @@ Two Prime expands into onchain finance with a bitcoin lending vault built on Par
 
 ---
 
-## 11. Bitcoin ETFs shed $450 million as Clarity Act fails
+## 15. Bitcoin ETFs shed $450 million as Clarity Act fails
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 9/16/2026, 10:48:44 AM  
@@ -143,7 +191,7 @@ U.S. spot bitcoin ETFs shed $450 million, the most since June, as the Senate's f
 
 ---
 
-## 12. Deutsche Bank close to debuting crypto custody for institutions
+## 16. Deutsche Bank close to debuting crypto custody for institutions
 
 **Author:** Jamie Crawley  
 **Published:** 9/16/2026, 10:46:28 AM  
@@ -155,7 +203,7 @@ The service will support a select range of cryptocurrencies at debut, including 
 
 ---
 
-## 13. Live updates: Bitcoin holds near $76,000 as traders brace for first Fed rate hike in three years
+## 17. Live updates: Bitcoin steady as stocks slide following Fed rate hike, Warsh press conference
 
 **Author:** Shaurya Malwa,James Van Straten,Helene Braun,Stephen Alpher  
 **Published:** 9/16/2026, 10:37:46 AM  
@@ -167,7 +215,7 @@ Privacy token zcash, meanwhile, is up 130% over 30 days and trades near its all-
 
 ---
 
-## 14. Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC
+## 18. Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC
 
 **Author:** Krisztian Sandor  
 **Published:** 9/16/2026, 10:30:00 AM  
@@ -179,7 +227,7 @@ The USDC issuer's chain is built for payments, tokenized assets and institutiona
 
 ---
 
-## 15. Bitcoin's Coinbase premium sinks to one-month low, here’s why
+## 19. Bitcoin's Coinbase premium sinks to one-month low, here’s why
 
 **Author:** James Van Straten  
 **Published:** 9/16/2026, 9:57:12 AM  
@@ -191,7 +239,7 @@ Weakening U.S. demand, a setback for the Clarity act and expectations of a fed r
 
 ---
 
-## 16. Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals
+## 20. Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals
 
 **Author:** Olivier Acuna  
 **Published:** 9/16/2026, 9:42:37 AM  
@@ -203,7 +251,7 @@ U.S. prosecutors allege two engineers used confidential Robinhood token listing 
 
 ---
 
-## 17. Ethereum, Base give up on common wallet standard after months of talks
+## 21. Ethereum, Base give up on common wallet standard after months of talks
 
 **Author:** Shaurya Malwa  
 **Published:** 9/16/2026, 8:07:59 AM  
@@ -215,7 +263,7 @@ Ethereum is moving ahead with EIP-8141 while Coinbase-backed Base backs EIP-8130
 
 ---
 
-## 18. Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine
+## 22. Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine
 
 **Author:** Omkar Godbole  
 **Published:** 9/16/2026, 6:42:22 AM  
@@ -227,7 +275,7 @@ An aggressive market expectations trap and a strict aversion to forward guidance
 
 ---
 
-## 19. Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings
+## 23. Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings
 
 **Author:** Shaurya Malwa  
 **Published:** 9/16/2026, 5:54:04 AM  
@@ -239,7 +287,7 @@ Nearly 2.4 million ZEC participated, with 99.9% backing 25-second blocks and 98.
 
 ---
 
-## 20. Crypto longs worth $570 million wiped out as Clarity Act fails
+## 24. Crypto longs worth $570 million wiped out as Clarity Act fails
 
 **Author:** Omkar Godbole  
 **Published:** 9/16/2026, 4:07:27 AM  
@@ -251,7 +299,7 @@ Bullish crypto futures bets worth millions have been liquidated in 24 hours. Bit
 
 ---
 
-## 21. XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000
+## 25. XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000
 
 **Author:** Shaurya Malwa  
 **Published:** 9/16/2026, 3:37:45 AM  
