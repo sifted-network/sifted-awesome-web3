@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-09-15"
 date: "2026-09-15"
 source: "Decrypt"
-count: 13
+count: 15
 ---
 
 # Decrypt - 2026-09-15
 
-13 items collected.
+15 items collected.
 
 ---
 
-## 1. OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work
+## 1. Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/15/2026, 9:46:03 PM  
+**Categories:** , Markets  
+
+Nearly every major bank now expects the Fed to raise rates for the first time in three years. Markets have mostly priced it in, but the political fallout could run deeper than one hike.
+
+📖 [Read original article](https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump)
+
+---
+
+## 2. Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails
+
+**Author:** Jason Nelson  
+**Published:** 9/15/2026, 9:10:06 PM  
+**Categories:** , , Law and Order  
+
+The Coinbase-backed Stand With Crypto will add senators’ votes to its scorecards as it rallies crypto voters ahead of November’s elections.
+
+📖 [Read original article](https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act)
+
+---
+
+## 3. OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/15/2026, 8:09:19 PM  
@@ -23,7 +47,7 @@ Greg Brockman says OpenAI delayed launches and reworked its processes after a pr
 
 ---
 
-## 2. Crypto Reacts: Bitcoin Slides as Clarity Act Fails to Clear Senate Vote
+## 4. Crypto Reacts: Bitcoin Slides as Clarity Act Fails to Clear Senate Vote
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/15/2026, 7:18:29 PM  
@@ -35,7 +59,7 @@ The Senate fell short of the 60 votes needed to advance the crypto industry's ma
 
 ---
 
-## 3. Clarity Act Stalls in Senate as Crypto Bill Fails to Clear Key Vote
+## 5. Clarity Act Stalls in Senate as Crypto Bill Fails to Clear Key Vote
 
 **Author:** Jason Nelson  
 **Published:** 9/15/2026, 6:54:10 PM  
@@ -47,7 +71,7 @@ The crypto market structure bill failed to receive enough votes to advance in th
 
 ---
 
-## 4. Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades
+## 6. Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades
 
 **Author:** Jason Nelson  
 **Published:** 9/15/2026, 5:49:23 PM  
@@ -59,7 +83,7 @@ Two employees allegedly earned more than $50,000 each by trading Hyperliquid per
 
 ---
 
-## 5. 'It's Now or Never' for Clarity Act, Says 'Bitcoin Senator' Lummis
+## 7. 'It's Now or Never' for Clarity Act, Says 'Bitcoin Senator' Lummis
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/15/2026, 5:43:01 PM  
@@ -71,7 +95,7 @@ The Wyoming Republican says the final text hands Democrats more than 120 of thei
 
 ---
 
-## 6. US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme
+## 8. US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme
 
 **Author:** Jason Nelson  
 **Published:** 9/15/2026, 5:06:03 PM  
@@ -83,7 +107,7 @@ Prosecutors allege two Chinese companies used Binance accounts to launder oil pr
 
 ---
 
-## 7. Crypto's Long-Sought 'De Minimis' Tax Break Gets a House Markup This Week
+## 9. Crypto's Long-Sought 'De Minimis' Tax Break Gets a House Markup This Week
 
 **Author:** Jason Nelson  
 **Published:** 9/15/2026, 4:34:35 PM  
@@ -95,7 +119,7 @@ The proposal would overhaul federal tax treatment of digital assets but still re
 
 ---
 
-## 8. Democrats 'Move the Goalposts' on Clarity Act Hours Before Key Senate Vote
+## 10. Democrats 'Move the Goalposts' on Clarity Act Hours Before Key Senate Vote
 
 **Author:** EleanorTerrett  
 **Published:** 9/15/2026, 3:08:07 PM  
@@ -107,7 +131,7 @@ Democrats are pushing for further concessions as Republicans insist their latest
 
 ---
 
-## 9. Bitcoin Sinks as the Senate's Clarity Act Showdown Looms
+## 11. Bitcoin Sinks as the Senate's Clarity Act Showdown Looms
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/15/2026, 2:58:57 PM  
@@ -119,7 +143,7 @@ Bitcoin just gave back its entire post-golden-cross rally in one red candle, wit
 
 ---
 
-## 10. Morning Minute: Clarity Act Odds Slump After Democrat Pushback
+## 12. Morning Minute: Clarity Act Odds Slump After Democrat Pushback
 
 **Author:** Tyler Warner  
 **Published:** 9/15/2026, 2:05:47 PM  
@@ -131,7 +155,7 @@ The odds of the Clarity Act passing have fully reversed their recent move, and c
 
 ---
 
-## 11. Why an AI Slowdown Could Collapse Under Commercial and US-China Pressure
+## 13. Why an AI Slowdown Could Collapse Under Commercial and US-China Pressure
 
 **Author:** Jason Nelson  
 **Published:** 9/15/2026, 1:00:05 PM  
@@ -143,7 +167,7 @@ Atlantic Council experts argue corporate pledges need enforceable safety standar
 
 ---
 
-## 12. Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL
+## 14. Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/15/2026, 11:01:04 AM  
@@ -155,7 +179,7 @@ DeFi Development Corp added another 55,491 SOL and opened a CHAD at-the-market p
 
 ---
 
-## 13. Strive's Bitcoin Stash Hits an Even 25,000 BTC After $36.6 Million Buy
+## 15. Strive's Bitcoin Stash Hits an Even 25,000 BTC After $36.6 Million Buy
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/15/2026, 9:01:05 AM  
