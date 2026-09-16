@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-14"
 date: "2026-09-14"
 source: "Cointelegraph"
-count: 13
+count: 10
 ---
 
 # Cointelegraph - 2026-09-14
 
-13 items collected.
+10 items collected.
 
 ---
 
@@ -128,41 +128,5 @@ Token buybacks have pushed Hyperliquid to all time highs, but Alice Liu from Coi
 Crypto wallet providers must submit an early vulnerability report within 24 hours and a full notification within 72 hours of exploits, or risk administrative fines of as much as $17.3 million.
 
 📖 [Read original article](https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/14/2026, 10:02:00 AM  
-**Categories:** Markets  
-
-Bitcoin traders brace for volatility as the CLARITY Act awaits a Senate vote to move forward and the Fed is due to announce its latest rate decision.
-
-📖 [Read original article](https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/14/2026, 9:55:35 AM  
-**Categories:** Latest News  
-
-Symbiosis is offering a 20% bounty for information leading to asset recovery after the hacker refused to return the stolen funds for the same white-hat bounty.
-
-📖 [Read original article](https://cointelegraph.com/news/symbiosis-recovered-15-btc-bridge-hack-20-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. UK FCA seeks views on fund rule exemptions for tokenized gold
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/14/2026, 8:57:00 AM  
-**Categories:** Latest News  
-
-The FCA said uncertainty over whether some tokenized gold products fall under UK fund rules could affect adoption and investor access.
-
-📖 [Read original article](https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
