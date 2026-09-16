@@ -2,16 +2,28 @@
 title: "The Block - 2026-09-16"
 date: "2026-09-16"
 source: "The Block"
-count: 4
+count: 5
 ---
 
 # The Block - 2026-09-16
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Circle launches Arc mainnet with BlackRock and Visa among validators, mints 10 billion ARC tokens
+## 1. Bernstein says Clarity Act failure allows stablecoin rewards on idle balances to continue, expects ‘swift’ SEC and CFTC rulemaking
+
+**Author:** Brian Danga  
+**Published:** 9/16/2026, 12:47:59 PM  
+**Categories:** Equities, Markets, Policy, Regulation, Analyst Reports, News  
+
+Bernstein expects the SEC and CFTC to drive crypto rulemaking after Senate lawmakers failed to advance Clarity Act legislation.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-16-bernstein-says-clarity-act-failure-allows-stablecoin-rewards-on-idle-balances-to-continue-expects-swift-sec-and-cftc-rulemaking-415263)
+
+---
+
+## 2. Circle launches Arc mainnet with BlackRock and Visa among validators, mints 10 billion ARC tokens
 
 **Author:** James Hunt  
 **Published:** 9/16/2026, 10:30:00 AM  
@@ -23,7 +35,7 @@ Circle confirmed it completed the genesis mint of 10 billion ARC tokens this wee
 
 ---
 
-## 2. Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe
+## 3. Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe
 
 **Author:** Brian Danga  
 **Published:** 9/16/2026, 10:05:28 AM  
@@ -35,7 +47,7 @@ Deutsche Bank plans to launch European digital asset custody this year, initiall
 
 ---
 
-## 3. Underdog sues Connecticut to stop sports prediction market crackdown
+## 4. Underdog sues Connecticut to stop sports prediction market crackdown
 
 **Author:** Timmy Shen  
 **Published:** 9/16/2026, 7:08:26 AM  
@@ -47,7 +59,7 @@ The lawsuit follows cease-and-desist orders the state issued to prediction marke
 
 ---
 
-## 4. ‘Nothing truly structural’: Analysts downplay Clarity Act defeat as bitcoin, major crypto stocks dip
+## 5. ‘Nothing truly structural’: Analysts downplay Clarity Act defeat as bitcoin, major crypto stocks dip
 
 **Author:** Danny Park  
 **Published:** 9/16/2026, 2:48:42 AM  
