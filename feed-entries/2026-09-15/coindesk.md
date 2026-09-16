@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-15"
 date: "2026-09-15"
 source: "CoinDesk"
-count: 25
+count: 17
 ---
 
 # CoinDesk - 2026-09-15
 
-25 items collected.
+17 items collected.
 
 ---
 
@@ -212,101 +212,5 @@ Security firms traced the $7.8 million loss to a helper contract the wallet owne
 The proposed acquisition would use cash flow from precious metals sales to build bitcoin holdings.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy)
-
----
-
-## 18. Hong Kong crypto exchange CoinEx to cease operations after 9 years in business
-
-**Author:** Jamie Crawley  
-**Published:** 9/15/2026, 9:30:58 AM  
-**Categories:** Finance, Hong Kong, News  
-
-Founder and CEO Haipo Yang cited mounting security and compliance risks and said he rejected a sale in favor of a “clean ending.”
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business)
-
----
-
-## 19. Live updates: Clarity Act fails in Senate, sending crypto lower
-
-**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Stephen Alpher  
-**Published:** 9/15/2026, 6:37:24 AM  
-**Categories:** Finance, Live News, live_news  
-
-The failure essentially ends market structure legislative work in the Senate for 2026 and is a major blow to the crypto industry, which has invested years and hundreds of millions of dollars trying to support its interests.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act)
-
----
-
-## 20. XRP Ledger is one vote away from starting its next big payments upgrade
-
-**Author:** Shaurya Malwa  
-**Published:** 9/15/2026, 5:58:41 AM  
-**Categories:** Tech, News  
-
-Batch V1.1 would let users bundle up to eight linked transactions into one operation, with 27 of 35 trusted validators now backing the change.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade)
-
----
-
-## 21. U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales
-
-**Author:** Omkar Godbole  
-**Published:** 9/15/2026, 5:12:06 AM  
-**Categories:** Markets, Cryptocurrency, Iran, News  
-
-Prosecutors have filed a civil forfeiture complaint against what they call Iran's illegal crypto proceeds that are used to fund its military.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds)
-
----
-
-## 22. Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum
-
-**Author:** Shaurya Malwa  
-**Published:** 9/15/2026, 4:34:10 AM  
-**Categories:** Tech, News  
-
-Transaction V1 raises Solana’s limit to 4,096 bytes from 1,232, giving developers more room for multi-step trades, company-wallet approvals and privacy proofs.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum)
-
----
-
-## 23. Democrats send counteroffer to Republicans over Clarity Act provisions
-
-**Author:** Nikhilesh De  
-**Published:** 9/15/2026, 4:09:01 AM  
-**Categories:** Policy, Clarity Act, Market Structure Legislation, Breaking News, News  
-
-Democratic Senators were said to be meeting late Monday to discuss the latest proposed draft text.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions)
-
----
-
-## 24. U.S. House panel shares crypto tax bill ahead of hearing later this week
-
-**Author:** Nikhilesh De  
-**Published:** 9/15/2026, 3:27:38 AM  
-**Categories:** Policy, Tax, News  
-
-The House Ways and Means Committee published a crypto tax bill addressing de minimis transactions, staking and other issues for which the industry's clamored for policies.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week)
-
----
-
-## 25. Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb
-
-**Author:** Omkar Godbole  
-**Published:** 9/15/2026, 3:23:28 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin pulls back from $79,000 as the Senate prepares to vote on the Clarity Act and oil prices rise.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb)
 
 ---
