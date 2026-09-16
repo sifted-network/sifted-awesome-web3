@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-09-15"
 date: "2026-09-15"
 source: "CoinDesk"
-count: 24
+count: 25
 ---
 
 # CoinDesk - 2026-09-15
 
-24 items collected.
+25 items collected.
 
 ---
 
-## 1. Crypto stocks sink after Senate rejects Clarity Act
+## 1. Inside the last-minute political breakdown that doomed the Clarity Act vote
+
+**Author:** Jesse Hamilton  
+**Published:** 9/15/2026, 9:58:48 PM  
+**Categories:** News Analysis, Clarity Act, Regulation, News  
+
+Last minute, behind-the-scenes disputes locked in a dismal showing for the market structure legislation the industry pinned its greatest hopes on.
+
+📖 [Read original article](https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act)
+
+---
+
+## 2. Crypto stocks sink after Senate rejects Clarity Act
 
 **Author:** Helene Braun  
 **Published:** 9/15/2026, 8:03:17 PM  
@@ -23,9 +35,9 @@ Coinbase, Circle and Galaxy lead a broad crypto stock selloff after the U.S. Sen
 
 ---
 
-## 2. Crypto industry reacts after Clarity Act fails Senate vote
+## 3. Crypto industry reacts after Clarity Act fails Senate vote
 
-**Author:** Jamie Crawley,Krisztian Sandor,Cheyenne Ligon,Helene Braun  
+**Author:** Jamie Crawley,Krisztian Sandor,Cheyenne Ligon,Helene Braun,Will Canny  
 **Published:** 9/15/2026, 7:06:31 PM  
 **Categories:** Policy, Clarity Act, News  
 
@@ -35,7 +47,7 @@ One of the most crucial U.S. regulations for crypto markets couldn't secure enou
 
 ---
 
-## 3. Crypto Clarity Act flames out in failed U.S. Senate vote
+## 4. Crypto Clarity Act flames out in failed U.S. Senate vote
 
 **Author:** Jesse Hamilton  
 **Published:** 9/15/2026, 6:50:58 PM  
@@ -47,7 +59,7 @@ The years-long effort to set U.S. regulations for crypto markets couldn't muster
 
 ---
 
-## 4. Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion
+## 5. Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion
 
 **Author:** Krisztian Sandor  
 **Published:** 9/15/2026, 6:02:05 PM  
@@ -59,7 +71,7 @@ Michael Weisz will lead Kamino from a new New York headquarters as the DeFi lend
 
 ---
 
-## 5. Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround
+## 6. Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround
 
 **Author:** Jesse Hamilton,Nikhilesh De  
 **Published:** 9/15/2026, 3:50:23 PM  
@@ -71,7 +83,7 @@ As the parties dig in their heels, the market structure bill hasn't yet amassed 
 
 ---
 
-## 6. European Central Bank calls for merchants to participate in digital euro pilot
+## 7. European Central Bank calls for merchants to participate in digital euro pilot
 
 **Author:** Olivier Acuna  
 **Published:** 9/15/2026, 2:15:06 PM  
@@ -83,7 +95,7 @@ The 12-month test will put a beta version of the central bank currency through o
 
 ---
 
-## 7. Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal
+## 8. Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal
 
 **Author:** Krisztian Sandor  
 **Published:** 9/15/2026, 2:13:44 PM  
@@ -95,7 +107,7 @@ Prediction markets sharply marked down the crypto market structure bill’s near
 
 ---
 
-## 8. A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge
+## 9. A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge
 
 **Author:** Shaurya Malwa  
 **Published:** 9/15/2026, 1:43:50 PM  
@@ -107,7 +119,7 @@ Two software bugs allowed the attacker to create more than 2,000 times Bitcoin�
 
 ---
 
-## 9. Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue
+## 10. Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue
 
 **Author:** Shaurya Malwa  
 **Published:** 9/15/2026, 1:25:52 PM  
@@ -119,7 +131,7 @@ The bank expects tokenization to make Arbitrum a favored network for traditional
 
 ---
 
-## 10. To ensure permanent economic innovation, we must pass the Clarity Act now
+## 11. To ensure permanent economic innovation, we must pass the Clarity Act now
 
 **Author:** Shri Thanedar  
 **Published:** 9/15/2026, 12:00:06 PM  
@@ -131,7 +143,7 @@ Congress needs 60 Senators willing to put innovation first and provide critical 
 
 ---
 
-## 11. Ether, solana, XRP likely to gain if Clarity Act progresses
+## 12. Ether, solana, XRP likely to gain if Clarity Act progresses
 
 **Author:** Omkar Godbole  
 **Published:** 9/15/2026, 11:15:44 AM  
@@ -143,7 +155,7 @@ Your day-ahead look for Sept. 15, 2026
 
 ---
 
-## 12. Why banks should stop worrying and learn to love the Clarity Act
+## 13. Why banks should stop worrying and learn to love the Clarity Act
 
 **Author:** Alex Tapscott  
 **Published:** 9/15/2026, 11:00:00 AM  
@@ -155,7 +167,7 @@ They could be the biggest winners from regulatory clarity, argues Alex Tapscott,
 
 ---
 
-## 13. Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple
+## 14. Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple
 
 **Author:** Krisztian Sandor  
 **Published:** 9/15/2026, 11:00:00 AM  
@@ -167,7 +179,7 @@ The investment brings Velocity's Series A round to $48 million and values the Lo
 
 ---
 
-## 14. Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket
+## 15. Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 9/15/2026, 10:41:35 AM  
@@ -179,7 +191,7 @@ Bitcoin fell 1.7% since midnight UTC to $76,862, unwinding a late Monday rally a
 
 ---
 
-## 15. How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet
+## 16. How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet
 
 **Author:** Oliver Knight  
 **Published:** 9/15/2026, 10:27:55 AM  
@@ -191,7 +203,7 @@ Security firms traced the $7.8 million loss to a helper contract the wallet owne
 
 ---
 
-## 16. Nigel Farage-backed Stack BTC plans to acquire a gold dealer for $16 million to fund bitcoin buy
+## 17. Nigel Farage-backed Stack BTC plans to acquire a gold dealer for $16 million to fund bitcoin buy
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 9/15/2026, 10:06:40 AM  
@@ -203,7 +215,7 @@ The proposed acquisition would use cash flow from precious metals sales to build
 
 ---
 
-## 17. Hong Kong crypto exchange CoinEx to cease operations after 9 years in business
+## 18. Hong Kong crypto exchange CoinEx to cease operations after 9 years in business
 
 **Author:** Jamie Crawley  
 **Published:** 9/15/2026, 9:30:58 AM  
@@ -215,7 +227,7 @@ Founder and CEO Haipo Yang cited mounting security and compliance risks and said
 
 ---
 
-## 18. Live updates: Clarity Act fails in Senate, sending crypto lower
+## 19. Live updates: Clarity Act fails in Senate, sending crypto lower
 
 **Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Stephen Alpher  
 **Published:** 9/15/2026, 6:37:24 AM  
@@ -227,7 +239,7 @@ The failure essentially ends market structure legislative work in the Senate for
 
 ---
 
-## 19. XRP Ledger is one vote away from starting its next big payments upgrade
+## 20. XRP Ledger is one vote away from starting its next big payments upgrade
 
 **Author:** Shaurya Malwa  
 **Published:** 9/15/2026, 5:58:41 AM  
@@ -239,7 +251,7 @@ Batch V1.1 would let users bundle up to eight linked transactions into one opera
 
 ---
 
-## 20. U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales
+## 21. U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales
 
 **Author:** Omkar Godbole  
 **Published:** 9/15/2026, 5:12:06 AM  
@@ -251,7 +263,7 @@ Prosecutors have filed a civil forfeiture complaint against what they call Iran'
 
 ---
 
-## 21. Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum
+## 22. Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum
 
 **Author:** Shaurya Malwa  
 **Published:** 9/15/2026, 4:34:10 AM  
@@ -263,7 +275,7 @@ Transaction V1 raises Solana’s limit to 4,096 bytes from 1,232, giving develop
 
 ---
 
-## 22. Democrats send counteroffer to Republicans over Clarity Act provisions
+## 23. Democrats send counteroffer to Republicans over Clarity Act provisions
 
 **Author:** Nikhilesh De  
 **Published:** 9/15/2026, 4:09:01 AM  
@@ -275,7 +287,7 @@ Democratic Senators were said to be meeting late Monday to discuss the latest pr
 
 ---
 
-## 23. U.S. House panel shares crypto tax bill ahead of hearing later this week
+## 24. U.S. House panel shares crypto tax bill ahead of hearing later this week
 
 **Author:** Nikhilesh De  
 **Published:** 9/15/2026, 3:27:38 AM  
@@ -287,7 +299,7 @@ The House Ways and Means Committee published a crypto tax bill addressing de min
 
 ---
 
-## 24. Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb
+## 25. Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb
 
 **Author:** Omkar Godbole  
 **Published:** 9/15/2026, 3:23:28 AM  
