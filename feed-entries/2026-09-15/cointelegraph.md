@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-09-15"
 date: "2026-09-15"
 source: "Cointelegraph"
-count: 17
+count: 19
 ---
 
 # Cointelegraph - 2026-09-15
 
-17 items collected.
+19 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. BIS paper finds major gap in Bitcoin onchain transfer estimates
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/15/2026, 9:23:00 PM  
+**Categories:** Latest News  
+
+A BIS study found widely used crypto metrics can obscure economic activity, with measurement challenges spanning Bitcoin, Ethereum and stablecoins.
+
+📖 [Read original article](https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Crypto stocks slide after CLARITY Act fails to advance in Senate
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/15/2026, 8:37:34 PM  
+**Categories:** Markets  
+
+Circle and Coinbase shares fell about 10% as the failed Senate vote weighed on crypto-linked equities, with Bitcoin miners and treasury companies also declining.
+
+📖 [Read original article](https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/15/2026, 7:53:13 PM  
@@ -23,7 +47,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. US Senate fails to advance CLARITY Act
+## 4. US Senate fails to advance CLARITY Act
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/15/2026, 6:46:51 PM  
@@ -35,7 +59,7 @@ The failed procedural vote leaves the CLARITY Act facing an uncertain future aft
 
 ---
 
-## 3. Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official
+## 5. Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/15/2026, 5:53:04 PM  
@@ -47,7 +71,7 @@ A Bank of England policy maker said digital dollars could expand access to the U
 
 ---
 
-## 4. Binance adds 11 US-listed ETFs to wealth management offering
+## 6. Binance adds 11 US-listed ETFs to wealth management offering
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/15/2026, 5:22:04 PM  
@@ -59,7 +83,7 @@ The crypto exchange is expanding its traditional finance offerings with 11 US-li
 
 ---
 
-## 5. Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs
+## 7. Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/15/2026, 4:02:01 PM  
@@ -71,7 +95,7 @@ Bitcoin price action weakened over market nerves prior to the Senate CLARITY Act
 
 ---
 
-## 6. Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030
+## 8. Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/15/2026, 3:50:49 PM  
@@ -83,7 +107,7 @@ Standard Chartered sees Robinhood Chain as an early sign that tokenization could
 
 ---
 
-## 7. ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address
+## 9. ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/15/2026, 3:21:26 PM  
@@ -95,7 +119,7 @@ An MEV bot known as “Yoink” front-ran an attacker attempting to exploit a cu
 
 ---
 
-## 8. USDT payments feature in Polish energy giant’s failed $230M oil deal: FT
+## 10. USDT payments feature in Polish energy giant’s failed $230M oil deal: FT
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/15/2026, 1:37:31 PM  
@@ -107,7 +131,7 @@ Tether’s USDT stablecoin was part of a failed oil trade that reportedly cost a
 
 ---
 
-## 9. US House crypto tax package omits mining, staking reward deferral
+## 11. US House crypto tax package omits mining, staking reward deferral
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/15/2026, 10:04:21 AM  
@@ -119,7 +143,7 @@ The 114-page bill would change the tax treatment of crypto fees, stablecoins and
 
 ---
 
-## 10. Ethereum, Base wallet standards talks fail, Ethlabs researcher says
+## 12. Ethereum, Base wallet standards talks fail, Ethlabs researcher says
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/15/2026, 9:40:27 AM  
@@ -131,7 +155,7 @@ Ethereum and Base are pursuing different account abstraction designs after talks
 
 ---
 
-## 11. Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant
+## 13. Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/15/2026, 9:30:31 AM  
@@ -143,7 +167,7 @@ Bitcoin short-term holders approached a full month in partial profit as analysis
 
 ---
 
-## 12. US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales
+## 14. US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/15/2026, 8:46:35 AM  
@@ -155,7 +179,7 @@ Tether froze $61.19 million across 10 Tron addresses in 2025 that prosecutors al
 
 ---
 
-## 13. Solana more than triples transaction size limit with mainnet upgrade
+## 15. Solana more than triples transaction size limit with mainnet upgrade
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/15/2026, 8:18:53 AM  
@@ -167,7 +191,7 @@ Solana raised its transaction size limit to 4,096 bytes, giving developers more 
 
 ---
 
-## 14. CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer
+## 16. CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/15/2026, 5:32:12 AM  
@@ -179,7 +203,7 @@ Banking groups also said the GOP’s final text leaves stablecoin reward loophol
 
 ---
 
-## 15. CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction
+## 17. CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/15/2026, 4:19:16 AM  
@@ -191,7 +215,7 @@ CoinEx said falling trading volumes and liquidity, along with rising regulatory 
 
 ---
 
-## 16. Balancer eyes wind-down after restructuring fails to revive revenue
+## 18. Balancer eyes wind-down after restructuring fails to revive revenue
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/15/2026, 3:33:23 AM  
@@ -203,7 +227,7 @@ Balancer cut costs and shipped new products after restructuring, but Marcus Hard
 
 ---
 
-## 17. Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico
+## 19. Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/15/2026, 12:46:15 AM  
