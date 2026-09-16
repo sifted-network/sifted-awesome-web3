@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-15"
 date: "2026-09-15"
 source: "Cointelegraph"
-count: 18
+count: 15
 ---
 
 # Cointelegraph - 2026-09-15
 
-18 items collected.
+15 items collected.
 
 ---
 
@@ -188,41 +188,5 @@ Solana raised its transaction size limit to 4,096 bytes, giving developers more 
 Banking groups also said the GOP’s final text leaves stablecoin reward loopholes, while tribal gaming interests warn that its prediction market provisions threaten tribal sovereignty.
 
 📖 [Read original article](https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/15/2026, 4:19:16 AM  
-**Categories:** Latest News  
-
-CoinEx said falling trading volumes and liquidity, along with rising regulatory and compliance costs, had exceeded “reasonable boundaries,” with withdrawals remaining open until Dec. 22.
-
-📖 [Read original article](https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Balancer eyes wind-down after restructuring fails to revive revenue
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/15/2026, 3:33:23 AM  
-**Categories:** Latest News  
-
-Balancer cut costs and shipped new products after restructuring, but Marcus Hardt says v3 failed to replace legacy revenue as November’s $128 million exploit continued to weigh on adoption.
-
-📖 [Read original article](https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/15/2026, 12:46:15 AM  
-**Categories:** Latest News  
-
-Some Democrats remain dissatisfied with the bill’s crypto ethics provisions and will be sending a counterproposal just hours before a key procedural vote.
-
-📖 [Read original article](https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
