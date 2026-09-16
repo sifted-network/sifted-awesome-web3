@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-15"
 date: "2026-09-15"
 source: "Cointelegraph"
-count: 15
+count: 11
 ---
 
 # Cointelegraph - 2026-09-15
 
-15 items collected.
+11 items collected.
 
 ---
 
@@ -140,53 +140,5 @@ The 114-page bill would change the tax treatment of crypto fees, stablecoins and
 Ethereum and Base are pursuing different account abstraction designs after talks failed, according to Ethlabs researcher Derek Chiang.
 
 📖 [Read original article](https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/15/2026, 9:30:31 AM  
-**Categories:** Markets  
-
-Bitcoin short-term holders approached a full month in partial profit as analysis saw improving odds of an enduring bullish BTC price reversal.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/15/2026, 8:46:35 AM  
-**Categories:** Latest News  
-
-Tether froze $61.19 million across 10 Tron addresses in 2025 that prosecutors allege were connected to black-market Iranian oil proceeds.
-
-📖 [Read original article](https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Solana more than triples transaction size limit with mainnet upgrade
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/15/2026, 8:18:53 AM  
-**Categories:** Latest News  
-
-Solana raised its transaction size limit to 4,096 bytes, giving developers more room for zero-knowledge proofs and transactions with multiple signatures.
-
-📖 [Read original article](https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/15/2026, 5:32:12 AM  
-**Categories:** Latest News  
-
-Banking groups also said the GOP’s final text leaves stablecoin reward loopholes, while tribal gaming interests warn that its prediction market provisions threaten tribal sovereignty.
-
-📖 [Read original article](https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
