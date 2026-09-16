@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-14"
 date: "2026-09-14"
 source: "The Block"
-count: 6
+count: 5
 ---
 
 # The Block - 2026-09-14
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ Canaan sold its entire ETH position and 54 BTC, using part of the proceeds to re
 The latest acquisition marks a slowdown from the prior week, when Strive purchased 1,375 BTC for approximately $109 million.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-09-14-strive-reaches-25000-btc-milestone-36-6-million-purchase-414631)
-
----
-
-## 6. NY Attorney General James leads bipartisan push against the Clarity Act ahead of initial Senate vote
-
-**Author:** Sarah Wynn  
-**Published:** 9/14/2026, 2:43:34 PM  
-**Categories:** People, Policy, Regulation, U.S. Policymaking, Elections 2026, Elizabeth Warren, Senate Agriculture Committee, Senate Banking Committee, News  
-
-New York Attorney General Letitia James led a group of 17 bipartisan attorneys general urging lawmakers to vote against crypto legislation.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-14-ny-attorney-general-james-bipartisan-push-against-clarity-act-initial-senate-vote-414635)
 
 ---
