@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-14"
 date: "2026-09-14"
 source: "The Block"
-count: 5
+count: 1
 ---
 
 # The Block - 2026-09-14
 
-5 items collected.
+1 items collected.
 
 ---
 
@@ -20,53 +20,5 @@ count: 5
 The Senate heads into a consequential vote Tuesday on sweeping cryptocurrency legislation, but does it have enough support to pass?
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-14-where-the-clarity-act-stands-ahead-of-tuesdays-senate-vote-414720)
-
----
-
-## 2. Robinhood Chain’s rapid growth is being driven by 4 key factors, analyst says
-
-**Author:** Jason Shubnell  
-**Published:** 9/14/2026, 8:21:52 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Markets, Public Equities, DEXs, Protocols, Robinhood, News  
-
-The chain’s TVL has climbed to nearly $1 billion since its July 1 launch, while daily DEX volume reached $1.88 billion Sunday.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687)
-
----
-
-## 3. White House crypto adviser feels ‘very good’ ahead of Senate Clarity Act vote on Tuesday
-
-**Author:** Sarah Wynn  
-**Published:** 9/14/2026, 7:29:41 PM  
-**Categories:** Policy, Regulation, U.S. Policymaking, Senate Agriculture Committee, Senate Banking Committee, News  
-
-The White House's top crypto advisor says he feels "very good" about an initial vote in the Senate on cryptocurrency legislation on Tuesday.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-14-white-house-crypto-adviser-feels-very-good-ahead-senate-clarity-act-vote-tuesday-414702)
-
----
-
-## 4. Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips
-
-**Author:** Kyle Baird  
-**Published:** 9/14/2026, 6:01:35 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Infrastructure, Layer 1s, Markets, Token Projects, Bitcoin, Mining, Mining Companies, News  
-
-Canaan sold its entire ETH position and 54 BTC, using part of the proceeds to repurchase 13.6 million shares.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660)
-
----
-
-## 5. Strive reaches 25,000 BTC milestone with latest $36.6 million purchase
-
-**Author:** Kyle Baird  
-**Published:** 9/14/2026, 3:15:51 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin, News  
-
-The latest acquisition marks a slowdown from the prior week, when Strive purchased 1,375 BTC for approximately $109 million.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-14-strive-reaches-25000-btc-milestone-36-6-million-purchase-414631)
 
 ---
