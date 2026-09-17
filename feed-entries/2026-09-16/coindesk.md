@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-16"
 date: "2026-09-16"
 source: "CoinDesk"
-count: 8
+count: 6
 ---
 
 # CoinDesk - 2026-09-16
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ Hamas’ military wing advised donors not to use Binance to handle funds but rat
 
 
 📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending)
-
----
-
-## 7. Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid
-
-**Author:** Olivier Acuna  
-**Published:** 9/16/2026, 2:35:43 PM  
-**Categories:** Markets, Payward, Hyperliquid, Kraken, Derivatives, DEX, News  
-
-Leveraging its $550 million acquisition of Bitnomial, Payward aims to become the first registered U.S. exchange to deploy markets on the Hyperliquid protocol.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid)
-
----
-
-## 8. Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases
-
-**Author:** Will Canny,AI Boost  
-**Published:** 9/16/2026, 2:00:00 PM  
-**Categories:** Finance, Commodities, Tokenization, Exclusive, News  
-
-The onchain finance platform said thSLVR allows investors to retain exposure to silver while earning income from lending the metal to institutional borrowers.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases)
 
 ---
