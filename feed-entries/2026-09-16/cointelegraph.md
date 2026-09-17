@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-16"
 date: "2026-09-16"
 source: "Cointelegraph"
-count: 15
+count: 10
 ---
 
 # Cointelegraph - 2026-09-16
 
-15 items collected.
+10 items collected.
 
 ---
 
@@ -128,65 +128,5 @@ Bernstein said the federal agencies will publish new regulations to compensate f
 Nearly 99% of ZEC holders voted to reduce block times to 25 seconds, while keeping ZEC issuance and halving schedules unchanged.
 
 📖 [Read original article](https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Circle launches Arc mainnet with USDC as native gas token
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/16/2026, 11:39:44 AM  
-**Categories:** Latest News  
-
-Circle’s Arc mainnet is live with USDC for transaction fees, support for more than 20 fiat stablecoins and links to over 20 blockchains.
-
-📖 [Read original article](https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/16/2026, 10:33:12 AM  
-**Categories:** Latest News  
-
-Germany’s largest bank is awaiting regulatory approval to launch institutional custody solutions for Bitcoin, Ether and select stablecoins before expanding into tokenized assets.
-
-📖 [Read original article](https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/16/2026, 10:11:39 AM  
-**Categories:** Latest News  
-
-Bitcoin miners generated 35% of the state-owned power producer’s revenue last year, but declining reservoir inflows led the utility to prioritize households and manufacturers.
-
-📖 [Read original article](https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Italy investigates government email breach linked to Revolut data leak
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/16/2026, 9:58:48 AM  
-**Categories:** Latest News  
-
-Italy is probing the Revolut-linked breach after its cyber agency reported more than 650 cases involving abused or illicit certified email accounts.
-
-📖 [Read original article](https://cointelegraph.com/news/italy-government-email-breach-revolut-data-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/16/2026, 9:55:16 AM  
-**Categories:** Markets  
-
-Bitcoin exchange demand on Coinbase declined after the US Senate voted against the CLARITY Act, while traders sent BTC to exchanges at an unrealized loss.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-coinbase-premium-hits-monthly-low-as-clarity-act-vote-squeezes-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
