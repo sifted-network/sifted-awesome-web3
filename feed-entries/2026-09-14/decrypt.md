@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-14"
 date: "2026-09-14"
 source: "Decrypt"
-count: 2
+count: 1
 ---
 
 # Decrypt - 2026-09-14
 
-2 items collected.
+1 items collected.
 
 ---
 
@@ -20,17 +20,5 @@ count: 2
 Eight trade associations say exceptions for interest-like rewards could pull deposits from banks and reduce lending.
 
 📖 [Read original article](https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote)
-
----
-
-## 2. OpenAI’s Sam Altman Warns Humans Could Lose Control of AI
-
-**Author:** Jason Nelson  
-**Published:** 9/14/2026, 9:16:04 PM  
-**Categories:** Artificial Intelligence  
-
-The OpenAI chief called for safeguards during training and shared industry standards, saying developers can act before legislation arrives.
-
-📖 [Read original article](https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai)
 
 ---
