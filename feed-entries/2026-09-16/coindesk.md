@@ -2,16 +2,16 @@
 title: "CoinDesk - 2026-09-16"
 date: "2026-09-16"
 source: "CoinDesk"
-count: 18
+count: 8
 ---
 
 # CoinDesk - 2026-09-16
 
-18 items collected.
+8 items collected.
 
 ---
 
-## 1. Revolut hackers demand $3 million in Monero, threaten to sell customer data
+## 1. Group behind Revolut data breach demands $3 million in Monero, threaten to sell customer data
 
 **Author:** Helene Braun,AI Boost  
 **Published:** 9/16/2026, 7:07:34 PM  
@@ -104,125 +104,5 @@ Leveraging its $550 million acquisition of Bitnomial, Payward aims to become the
 The onchain finance platform said thSLVR allows investors to retain exposure to silver while earning income from lending the metal to institutional borrowers.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases)
-
----
-
-## 9. A LatAm telecom operator is putting part of its finances on Avalanche
-
-**Author:** Krisztian Sandor  
-**Published:** 9/16/2026, 2:00:00 PM  
-**Categories:** Finance, Exclusive, News  
-
-Led by former IBM Blockchain partner Jules Miller, Iris is helping Bolivia's VIVA use stablecoins for settlement, dollar reserves and new financial services without replacing its existing telecom systems.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche)
-
----
-
-## 10. A stolen coin can be returned. A leaked identity cannot.
-
-**Author:** Evin McMullen  
-**Published:** 9/16/2026, 1:00:00 PM  
-**Categories:** Opinion, Opinion  
-
-We keep building the honeypots, and we are about to hand the same architecture to billions of AI agents, writes Evin McMullen, CEO and co-founder of Billions.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/09/16/a-stolen-coin-can-be-returned-a-leaked-identity-cannot)
-
----
-
-## 11. Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes
-
-**Author:** Shaurya Malwa  
-**Published:** 9/16/2026, 12:00:41 PM  
-**Categories:** Tech, Bitcoin News, News  
-
-The October update changes how nodes estimate transaction fees and process blocks, while fixing a wallet flaw that could let an authenticated user run commands on a node.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes)
-
----
-
-## 12. Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed
-
-**Author:** Omkar Godbole  
-**Published:** 9/16/2026, 11:16:51 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Sept. 16, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed)
-
----
-
-## 13. Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk
-
-**Author:** Helene Braun  
-**Published:** 9/16/2026, 11:00:00 AM  
-**Categories:** Markets, Federal Reserve, News  
-
-Bitcoin is stuck near $80,000 as traders build stablecoin positions that could return to the market once Fed uncertainty clears.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk)
-
----
-
-## 14. Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault
-
-**Author:** James Van Straten,AI Boost  
-**Published:** 9/16/2026, 11:00:00 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Two Prime expands into onchain finance with a bitcoin lending vault built on Pareto for institutional investors.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault)
-
----
-
-## 15. Bitcoin ETFs shed $450 million as Clarity Act fails
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 9/16/2026, 10:48:44 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-U.S. spot bitcoin ETFs shed $450 million, the most since June, as the Senate's failure to advance the Clarity Act sent regulatory-sensitive tokens sharply lower.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails)
-
----
-
-## 16. Deutsche Bank close to debuting crypto custody for institutions
-
-**Author:** Jamie Crawley  
-**Published:** 9/16/2026, 10:46:28 AM  
-**Categories:** Finance, Deutsche Bank, Custody, News  
-
-The service will support a select range of cryptocurrencies at debut, including bitcoin and ether and stablecoins like USDC and EURC.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients)
-
----
-
-## 17. Live updates: Bitcoin steady as stocks slide following Fed rate hike, Warsh press conference
-
-**Author:** Shaurya Malwa,James Van Straten,Helene Braun,Stephen Alpher  
-**Published:** 9/16/2026, 10:37:46 AM  
-**Categories:** Finance, Live News, live_news  
-
-Privacy token zcash, meanwhile, is up 130% over 30 days and trades near its all-time highs from 2016.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision)
-
----
-
-## 18. Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC
-
-**Author:** Krisztian Sandor  
-**Published:** 9/16/2026, 10:30:00 AM  
-**Categories:** Finance, Circle, Stablecoins, Tokenization, News  
-
-The USDC issuer's chain is built for payments, tokenized assets and institutional finance as banks and payment giants pile into the stablecoin market.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc)
 
 ---
