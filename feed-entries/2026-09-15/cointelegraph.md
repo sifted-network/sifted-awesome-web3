@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-15"
 date: "2026-09-15"
 source: "Cointelegraph"
-count: 11
+count: 9
 ---
 
 # Cointelegraph - 2026-09-15
 
-11 items collected.
+9 items collected.
 
 ---
 
@@ -116,29 +116,5 @@ An MEV bot known as “Yoink” front-ran an attacker attempting to exploit a cu
 Tether’s USDT stablecoin was part of a failed oil trade that reportedly cost a Polish energy giant $230 million in late 2023.
 
 📖 [Read original article](https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. US House crypto tax package omits mining, staking reward deferral
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/15/2026, 10:04:21 AM  
-**Categories:** Latest News  
-
-The 114-page bill would change the tax treatment of crypto fees, stablecoins and lending while leaving existing reward-tax timing unchanged.
-
-📖 [Read original article](https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Ethereum, Base wallet standards talks fail, Ethlabs researcher says
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/15/2026, 9:40:27 AM  
-**Categories:** Latest News  
-
-Ethereum and Base are pursuing different account abstraction designs after talks failed, according to Ethlabs researcher Derek Chiang.
-
-📖 [Read original article](https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
