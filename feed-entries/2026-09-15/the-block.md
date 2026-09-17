@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-15"
 date: "2026-09-15"
 source: "The Block"
-count: 8
+count: 6
 ---
 
 # The Block - 2026-09-15
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ Publicly listed BTC miners produced bitcoin at an average ex-tax cash cost of ro
 Hours ahead of an initial vote on the Clarity Act, Senate Republicans are pushing back against a counterproposal from fellow Democrats.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-15-senate-republican-lummis-rejects-democratic-counteroffer-clarity-act-vote-414850)
-
----
-
-## 7. House committee releases sweeping crypto tax bill ahead of Wednesday markup
-
-**Author:** James Hunt  
-**Published:** 9/15/2026, 11:52:36 AM  
-**Categories:** Crypto Ecosystems, Policy, Regulation, Web3, Crypto, News  
-
-Among its provisions is a $10 exception for certain fees paid in crypto, along with provisions covering stablecoins, mining, and staking.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-15-house-committee-crypto-tax-bill-414824)
-
----
-
-## 8. Standard Chartered sees Arbitrum at $10 by end-2030, up 70-fold
-
-**Author:** Brian Danga  
-**Published:** 9/15/2026, 11:50:30 AM  
-**Categories:** Equities, Markets, Analyst Reports, News  
-
-Standard Chartered sees Arbitrum at $10 by 2030, projecting a roughly 70-fold increase as tokenization grows and TradFi firms move onchain.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-15-standard-chartered-sees-arbitrum-at-10-by-end-2030-up-70-fold-414821)
 
 ---
