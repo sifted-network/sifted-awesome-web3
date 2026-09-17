@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-09-16"
 date: "2026-09-16"
 source: "Decrypt"
-count: 16
+count: 18
 ---
 
 # Decrypt - 2026-09-16
 
-16 items collected.
+18 items collected.
 
 ---
 
-## 1. OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack
+## 1. Crypto Tax Bill Clears House Committee After Clarity Act Setback
+
+**Author:** Jason Nelson  
+**Published:** 9/16/2026, 9:46:03 PM  
+**Categories:** Coins  
+
+The bill would exempt qualifying crypto fees from gain-or-loss calculations and restrict tax-loss deductions on tokens sold and quickly repurchased.
+
+📖 [Read original article](https://decrypt.co/378449/crypto-tax-bill-clears-house-committee)
+
+---
+
+## 2. Meta May Have Found a Fix for Its 'Pervert Glasses'
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/16/2026, 9:16:03 PM  
+**Categories:** Business  
+
+Meta is reportedly developing a version of its smart glasses without a camera, potentially addressing one of the biggest privacy objections to AI wearables.
+
+📖 [Read original article](https://decrypt.co/378448/meta-fix-pervert-glasses)
+
+---
+
+## 3. OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/16/2026, 8:31:03 PM  
@@ -23,7 +47,7 @@ An independent researcher found the agents hijacked Hugging Face accounts and ma
 
 ---
 
-## 2. Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike
+## 4. Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/16/2026, 7:43:24 PM  
@@ -35,7 +59,7 @@ Chair Kevin Warsh credited Trump's economy, then ignored his rate-cut wishes ent
 
 ---
 
-## 3. Bitcoin Core Software Update Aims for Speed and Security Patches
+## 5. Bitcoin Core Software Update Aims for Speed and Security Patches
 
 **Author:** Jason Nelson  
 **Published:** 9/16/2026, 6:53:48 PM  
@@ -47,7 +71,7 @@ Bitcoin Core 32.0 has entered final testing, bringing faster block checks and ch
 
 ---
 
-## 4. Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes
+## 6. Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/16/2026, 6:15:38 PM  
@@ -59,7 +83,7 @@ The Federal Reserve delivered the hike Wall Street had almost unanimously priced
 
 ---
 
-## 5. CFTC and SEC Double Down on Crypto After Clarity Act Defeat
+## 7. CFTC and SEC Double Down on Crypto After Clarity Act Defeat
 
 **Author:** Jason Nelson  
 **Published:** 9/16/2026, 5:17:03 PM  
@@ -71,7 +95,7 @@ Michael Selig and Paul Atkins pledged to use their agencies’ existing powers t
 
 ---
 
-## 6. Hackers Hijack HBO Max’s Reddit Account to Spread Crypto-Stealing Malware
+## 8. Hackers Hijack HBO Max’s Reddit Account to Spread Crypto-Stealing Malware
 
 **Author:** Jason Nelson  
 **Published:** 9/16/2026, 5:06:02 PM  
@@ -83,7 +107,7 @@ Attackers ran 108 malicious ads through the streaming service’s verified accou
 
 ---
 
-## 7. Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone
+## 9. Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone
 
 **Author:** Jason Nelson  
 **Published:** 9/16/2026, 4:31:03 PM  
@@ -95,7 +119,7 @@ Meta’s CEO says competition and potential liability give AI developers reasons
 
 ---
 
-## 8. Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote
+## 10. Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/16/2026, 3:50:07 PM  
@@ -107,7 +131,7 @@ Bitcoin, Ethereum, and XRP ETFs shed roughly $593 million combined Tuesday, thei
 
 ---
 
-## 9. Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators
+## 11. Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators
 
 **Author:** Decrypt Agent  
 **Published:** 9/16/2026, 2:56:02 PM  
@@ -119,7 +143,7 @@ The Layer 1 network’s validator set is permissioned, and Circle has minted 10 
 
 ---
 
-## 10. AI Pause Would Help Dominant Firms, Not Safety, Think Tank Warns
+## 12. AI Pause Would Help Dominant Firms, Not Safety, Think Tank Warns
 
 **Author:** Jason Nelson  
 **Published:** 9/16/2026, 2:36:29 PM  
@@ -131,7 +155,7 @@ Cato favors voluntary safeguards, while Block Chairman Jack Dorsey backs indepen
 
 ---
 
-## 11. FCA Guidance Lands Two Weeks Before UK Crypto Authorization Window Opens
+## 13. FCA Guidance Lands Two Weeks Before UK Crypto Authorization Window Opens
 
 **Author:** Decrypt Agent  
 **Published:** 9/16/2026, 1:12:33 PM  
@@ -143,7 +167,7 @@ Overseas firms serving UK retail customers need authorization too, and nobody tr
 
 ---
 
-## 12. Morning Minute: Clarity Act Vote Falls Short as Democrats All Vote ‘No’
+## 14. Morning Minute: Clarity Act Vote Falls Short as Democrats All Vote ‘No’
 
 **Author:** Tyler Warner  
 **Published:** 9/16/2026, 12:17:50 PM  
@@ -155,7 +179,7 @@ It should not have come as a surprise given the odds, but crypto majors, alts an
 
 ---
 
-## 13. Bitcoin Hovers at $76K as Analysts Argue the Fed Matters More Than Clarity Act
+## 15. Bitcoin Hovers at $76K as Analysts Argue the Fed Matters More Than Clarity Act
 
 **Author:** Decrypt Agent  
 **Published:** 9/16/2026, 12:12:21 PM  
@@ -167,7 +191,7 @@ With Bitcoin sitting around $76,000, the argument from analysts is that dollar l
 
 ---
 
-## 14. UK Backs Money Laundering Crackdown With $676M and 500 New Officers
+## 16. UK Backs Money Laundering Crackdown With $676M and 500 New Officers
 
 **Author:** Decrypt Agent  
 **Published:** 9/16/2026, 9:41:53 AM  
@@ -179,7 +203,7 @@ The Home Office names crypto alongside fintech and AI as drivers of a threat the
 
 ---
 
-## 15. Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron
+## 17. Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron
 
 **Author:** Jason Nelson  
 **Published:** 9/16/2026, 9:01:03 AM  
@@ -191,7 +215,7 @@ The self-custodial wallet is expanding beyond The Open Network, with support for
 
 ---
 
-## 16. Crypto Exchange CoinEx Is Shutting Down After Nine Years, Giving Users Until December to Cash Out
+## 18. Crypto Exchange CoinEx Is Shutting Down After Nine Years, Giving Users Until December to Cash Out
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/16/2026, 8:01:03 AM  
