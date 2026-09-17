@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-15"
 date: "2026-09-15"
 source: "The Block"
-count: 10
+count: 8
 ---
 
 # The Block - 2026-09-15
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Among its provisions is a $10 exception for certain fees paid in crypto, along w
 Standard Chartered sees Arbitrum at $10 by 2030, projecting a roughly 70-fold increase as tokenization grows and TradFi firms move onchain.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-09-15-standard-chartered-sees-arbitrum-at-10-by-end-2030-up-70-fold-414821)
-
----
-
-## 9. Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum
-
-**Author:** Brian Danga  
-**Published:** 9/15/2026, 9:35:02 AM  
-**Categories:** Companies, Crypto Ecosystems, Infrastructure, exclusive, Wallets, News  
-
-Tonkeeper has rebranded as Keeper, with the wallet now supporting seven blockchain networks, including Bitcoin and Ethereum.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-15-tonkeeper-rebrands-as-keeper-with-support-for-7-networks-including-bitcoin-and-ethereum-414807)
-
----
-
-## 10. Ark Invest sells $14 million in Circle, trims Coinbase as crypto stocks rally
-
-**Author:** Danny Park  
-**Published:** 9/15/2026, 9:32:31 AM  
-**Categories:** Companies, Exchanges, Markets, Public Equities, Coinbase, News  
-
-The Cathie Wood-led investment firm routinely adds and trims its crypto stock holdings throughout the year.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-15-ark-invest-sells-circle-coinbase-414811)
 
 ---
