@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-09-16"
 date: "2026-09-16"
 source: "Cointelegraph"
-count: 19
+count: 20
 ---
 
 # Cointelegraph - 2026-09-16
 
-19 items collected.
+20 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. CLARITY Act could get another shot during lame-duck session, policy advocate says
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/16/2026, 8:51:38 PM  
+**Categories:** Latest News  
+
+Digital Sovereignty Alliance managing director Adrian Wall said senators from both parties are considering another attempt to advance the crypto market structure bill before the current Congress ends.
+
+📖 [Read original article](https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/16/2026, 7:25:46 PM  
@@ -23,7 +35,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. UK FCA sets crypto authorization guidance ahead of September application window
+## 3. UK FCA sets crypto authorization guidance ahead of September application window
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/16/2026, 7:19:23 PM  
@@ -35,7 +47,7 @@ The FCA’s new guidance outlines which crypto activities may require authorizat
 
 ---
 
-## 3. US House tax committee advances crypto tax overhaul in 38–5 vote
+## 4. US House tax committee advances crypto tax overhaul in 38–5 vote
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/16/2026, 6:01:55 PM  
@@ -47,7 +59,7 @@ A bipartisan House committee vote advanced legislation that would reshape federa
 
 ---
 
-## 4. Anchorage expands institutional custody to Etherlink, tokenized uranium
+## 5. Anchorage expands institutional custody to Etherlink, tokenized uranium
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/16/2026, 4:03:35 PM  
@@ -59,7 +71,7 @@ Anchorage Digital Bank added custody support for Etherlink and several Etherlink
 
 ---
 
-## 5. Coinbase faces greater fallout from CLARITY Act setback: Saxo
+## 6. Coinbase faces greater fallout from CLARITY Act setback: Saxo
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/16/2026, 3:52:17 PM  
@@ -71,7 +83,7 @@ A strategist at the Danish bank said Coinbase has more at stake in the CLARITY s
 
 ---
 
-## 6. Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds
+## 7. Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/16/2026, 3:30:49 PM  
@@ -83,7 +95,7 @@ Bitcoin price support materialized around $68,000 as markets saw a 93% chance of
 
 ---
 
-## 7. Revolut ID thefts highlight KYC’s dangers: Here’s how to fix it
+## 8. Revolut ID thefts highlight KYC’s dangers: Here’s how to fix it
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/16/2026, 1:30:00 PM  
@@ -95,7 +107,7 @@ Zero-knowledge technology could let companies verify who you are without storing
 
 ---
 
-## 8. Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure
+## 9. Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/16/2026, 12:36:20 PM  
@@ -107,7 +119,7 @@ Bernstein said the federal agencies will publish new regulations to compensate f
 
 ---
 
-## 9. Zcash holders back 25-second blocks, vote to keep ZEC halving schedule
+## 10. Zcash holders back 25-second blocks, vote to keep ZEC halving schedule
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/16/2026, 11:46:39 AM  
@@ -119,7 +131,7 @@ Nearly 99% of ZEC holders voted to reduce block times to 25 seconds, while keepi
 
 ---
 
-## 10. Circle launches Arc mainnet with USDC as native gas token
+## 11. Circle launches Arc mainnet with USDC as native gas token
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/16/2026, 11:39:44 AM  
@@ -131,7 +143,7 @@ Circle’s Arc mainnet is live with USDC for transaction fees, support for more 
 
 ---
 
-## 11. Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions
+## 12. Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/16/2026, 10:33:12 AM  
@@ -143,7 +155,7 @@ Germany’s largest bank is awaiting regulatory approval to launch institutional
 
 ---
 
-## 12. Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report
+## 13. Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/16/2026, 10:11:39 AM  
@@ -155,7 +167,7 @@ Bitcoin miners generated 35% of the state-owned power producer’s revenue last 
 
 ---
 
-## 13. Italy investigates government email breach linked to Revolut data leak
+## 14. Italy investigates government email breach linked to Revolut data leak
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/16/2026, 9:58:48 AM  
@@ -167,7 +179,7 @@ Italy is probing the Revolut-linked breach after its cyber agency reported more 
 
 ---
 
-## 14. Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand
+## 15. Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/16/2026, 9:55:16 AM  
@@ -179,7 +191,7 @@ Bitcoin exchange demand on Coinbase declined after the US Senate voted against t
 
 ---
 
-## 15. ECB seeks online merchants for 2027 digital euro pilot
+## 16. ECB seeks online merchants for 2027 digital euro pilot
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/16/2026, 8:36:44 AM  
@@ -191,7 +203,7 @@ Euro-area online and mobile merchants can apply until Oct. 27 to test beta digit
 
 ---
 
-## 16. AI has been a ‘net negative’ for crypto: Phemex CEO
+## 17. AI has been a ‘net negative’ for crypto: Phemex CEO
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/16/2026, 6:38:48 AM  
@@ -203,7 +215,7 @@ Federico Variola says AI has diverted capital from crypto and is empowering atta
 
 ---
 
-## 17. US charges ex-Robinhood engineers over alleged pre-listing crypto trades
+## 18. US charges ex-Robinhood engineers over alleged pre-listing crypto trades
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/16/2026, 4:48:20 AM  
@@ -215,7 +227,7 @@ The former employees allegedly earned more than $50,000 each by trading Hyperliq
 
 ---
 
-## 18. Bitcoin ETFs shed $450M in biggest outflow since June
+## 19. Bitcoin ETFs shed $450M in biggest outflow since June
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/16/2026, 4:05:39 AM  
@@ -227,7 +239,7 @@ The $450 million withdrawal came as Bitcoin fell 2.5% and the CLARITY Act failed
 
 ---
 
-## 19. Crypto industry turns to US regulators after CLARITY setback
+## 20. Crypto industry turns to US regulators after CLARITY setback
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/16/2026, 2:24:07 AM  
