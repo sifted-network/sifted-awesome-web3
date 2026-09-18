@@ -107,9 +107,9 @@ Bitcoin is down just 1.5% in its historically weakest month and remains on track
 
 ---
 
-## 9. Live updates: Bitcoin climbs over $80,000 as rally accelerates at U.S. market open
+## 9. Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates
 
-**Author:** Shaurya Malwa,James Van Straten,Stephen Alpher  
+**Author:** Shaurya Malwa,James Van Straten,Stephen Alpher,Helene Braun  
 **Published:** 9/18/2026, 9:49:51 AM  
 **Categories:** Tech, Live News, live_news  
 
