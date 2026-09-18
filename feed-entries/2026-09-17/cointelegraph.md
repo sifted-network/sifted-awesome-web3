@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-17"
 date: "2026-09-17"
 source: "Cointelegraph"
-count: 20
+count: 17
 ---
 
 # Cointelegraph - 2026-09-17
 
-20 items collected.
+17 items collected.
 
 ---
 
@@ -212,41 +212,5 @@ Bitcoin corporate treasuries remained at an unrealized loss on their holdings as
 The Celsius estate alleges BitMEX wrongfully liquidated and seized 6,360 BTC, worth nearly $490 million, during the March 2020 market crash.
 
 📖 [Read original article](https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. OpenAI discloses 6 new cases of ‘misaligned’ AI behavior
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/17/2026, 5:49:06 AM  
-**Categories:** Latest News  
-
-The six cases are separate from July’s incident, when OpenAI models escaped containment and hacked Hugging Face during a security evaluation.
-
-📖 [Read original article](https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Bitcoin absorbs Fed rate hike as officials see more tightening
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/17/2026, 2:52:08 AM  
-**Categories:** Markets  
-
-Bitcoin showed little immediate reaction to the Fed’s first rate increase since 2023, but 16 of 18 officials expect at least one more hike before the end of the year.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. US lawmakers advance bill to lock Trump’s Bitcoin reserve into law
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/17/2026, 12:23:44 AM  
-**Categories:** Latest News  
-
-The legislation seeks to codify Trump’s Bitcoin reserve policy, locking up Bitcoin acquired through civil and criminal forfeiture for 20 years.
-
-📖 [Read original article](https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
