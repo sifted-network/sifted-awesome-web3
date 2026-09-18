@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-09-18"
 date: "2026-09-18"
 source: "Cointelegraph"
-count: 13
+count: 18
 ---
 
 # Cointelegraph - 2026-09-18
 
-13 items collected.
+18 items collected.
 
 ---
 
-## 1. Banks double on EU MiCA crypto provider list as share hits 23%
+## 1. Coinbase files to bring single-stock perpetual futures to US market
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/18/2026, 7:53:54 PM  
+**Categories:** Latest News  
+
+Coinbase wants to bring 24/5 perpetual futures trading to individual US stocks, with its proposed contracts now awaiting regulatory approval.
+
+📖 [Read original article](https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Binance launches 24/7 FX perps with weekend pricing system
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/18/2026, 7:06:30 PM  
+**Categories:** Latest News  
+
+Binance is joining a growing number of crypto exchanges offering around-the-clock exposure to foreign exchange markets through perpetual futures.
+
+📖 [Read original article](https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Crypto stocks rebound after CLARITY Act selloff
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/18/2026, 5:55:57 PM  
+**Categories:** Latest News  
+
+Coinbase, Strategy and other crypto-linked stocks rallied Friday as the CFTC and SEC moved ahead with crypto-related actions under existing authority.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. CFTC submits crypto market regulation plan for White House review
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/18/2026, 4:04:22 PM  
+**Categories:** Latest News  
+
+The US commodities regulator submitted a new crypto market regulatory action for White House review days after the Senate failed to advance the CLARITY Act.
+
+📖 [Read original article](https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Bitcoin hits $81K as US bond yields rebound on global oil woes
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 9/18/2026, 3:35:59 PM  
+**Categories:** Markets  
+
+Bitcoin price action made swift gains at the start of Friday’s Wall Street trading session as US 30-year bond yields began rising again.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Banks double on EU MiCA crypto provider list as share hits 23%
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/18/2026, 2:04:43 PM  
@@ -23,7 +83,7 @@ Banks now represent nearly one in four providers on ESMA’s MiCA register after
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 7. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Bryan O'Shea  
 **Published:** 9/18/2026, 1:34:11 PM  
@@ -35,7 +95,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times
+## 8. Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/18/2026, 12:40:04 PM  
@@ -47,7 +107,7 @@ The non-profit signaled support for reducing Ethereum block times, citing increa
 
 ---
 
-## 4. HYPE hits record above $90 as Hyperliquid launches manual borrowing
+## 9. HYPE hits record above $90 as Hyperliquid launches manual borrowing
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/18/2026, 11:54:24 AM  
@@ -59,7 +119,7 @@ HYPE hit a record $90.92 after Hyperliquid opened manual borrowing, letting user
 
 ---
 
-## 5. Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028
+## 10. Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/18/2026, 11:22:24 AM  
@@ -71,7 +131,7 @@ Industry watchers are debating the fate of the Zcash development fund after the 
 
 ---
 
-## 6. Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross
+## 11. Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/18/2026, 10:46:17 AM  
@@ -83,7 +143,7 @@ The Fisher Transform indicator produced a rare crossover for only the fourth tim
 
 ---
 
-## 7. Stablecoin payments firm dtcpay closes $25M round with SBI backing
+## 12. Stablecoin payments firm dtcpay closes $25M round with SBI backing
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/18/2026, 9:14:03 AM  
@@ -95,7 +155,7 @@ Dtcpay plans to expand its merchant network and payment products after completin
 
 ---
 
-## 8. Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment
+## 13. Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/18/2026, 8:50:38 AM  
@@ -107,7 +167,7 @@ Binance declined to address reports of ECB intervention in its Greek MiCA bid, s
 
 ---
 
-## 9. Bitcoin cycle bottom may already be in at $58K, says analyst James Check
+## 14. Bitcoin cycle bottom may already be in at $58K, says analyst James Check
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/18/2026, 8:47:20 AM  
@@ -119,7 +179,7 @@ Onchain analyst James Check says Bitcoin may have bottomed near $58,000 after tw
 
 ---
 
-## 10. Zcash targets November for NU7 mainnet upgrade with 25-second blocks
+## 15. Zcash targets November for NU7 mainnet upgrade with 25-second blocks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/18/2026, 4:51:29 AM  
@@ -131,7 +191,7 @@ NU7 will cut Zcash block times to 25 seconds and preserve its halving schedule, 
 
 ---
 
-## 11. Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack
+## 16. Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/18/2026, 4:11:40 AM  
@@ -143,7 +203,7 @@ Input Output Group told users to avoid its YouTube channel after it began livest
 
 ---
 
-## 12. World launches self-custodial ‘super app’ World Money
+## 17. World launches self-custodial ‘super app’ World Money
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/18/2026, 3:40:28 AM  
@@ -155,7 +215,7 @@ World Money is rolling out across more than 150 countries, combining stablecoin 
 
 ---
 
-## 13. US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments
+## 18. US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/18/2026, 1:33:54 AM  
