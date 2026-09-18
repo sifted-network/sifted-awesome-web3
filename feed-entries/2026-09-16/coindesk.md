@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-16"
 date: "2026-09-16"
 source: "CoinDesk"
-count: 6
+count: 4
 ---
 
 # CoinDesk - 2026-09-16
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ The estate is chasing 6,360 BTC lost in the Covid crash — a leveraged long pos
 The Digital Asset Tax Certainty Act would ease complicated tax burdens for everyday use of cryptocurrencies, though Trump's industry ties spurred some pushback.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss)
-
----
-
-## 5. Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows
-
-**Author:** Ian Allison  
-**Published:** 9/16/2026, 3:25:41 PM  
-**Categories:** Policy, Exclusive, News  
-
-Hamas’ military wing advised donors not to use Binance to handle funds but rather to use Trust Wallet, Bybit, OKX, Kast and Redotpay to send funds to an external TRON wallet, according to recent U.S. Department of Justice documents.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead)
-
----
-
-## 6. Crypto Long & Short: Six signs a crypto winter is ending
-
-**Author:** Denny Galindo,Helene Braun  
-**Published:** 9/16/2026, 2:59:34 PM  
-**Categories:** CoinDesk Indices, Crypto Long & Short, News  
-
-
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending)
 
 ---
