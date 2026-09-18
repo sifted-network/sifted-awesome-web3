@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-16"
 date: "2026-09-16"
 source: "Cointelegraph"
-count: 10
+count: 8
 ---
 
 # Cointelegraph - 2026-09-16
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Bitcoin price support materialized around $68,000 as markets saw a 93% chance of
 Zero-knowledge technology could let companies verify who you are without storing your identity documents. So why isn’t it already standard practice?
 
 📖 [Read original article](https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/16/2026, 12:36:20 PM  
-**Categories:** Latest News  
-
-Bernstein said the federal agencies will publish new regulations to compensate for the time lost negotiating the CLARITY Act, after its cloture vote failed on Tuesday.
-
-📖 [Read original article](https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Zcash holders back 25-second blocks, vote to keep ZEC halving schedule
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/16/2026, 11:46:39 AM  
-**Categories:** Latest News  
-
-Nearly 99% of ZEC holders voted to reduce block times to 25 seconds, while keeping ZEC issuance and halving schedules unchanged.
-
-📖 [Read original article](https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
