@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-16"
 date: "2026-09-16"
 source: "Decrypt"
-count: 16
+count: 14
 ---
 
 # Decrypt - 2026-09-16
 
-16 items collected.
+14 items collected.
 
 ---
 
@@ -176,29 +176,5 @@ Overseas firms serving UK retail customers need authorization too, and nobody tr
 It should not have come as a surprise given the odds, but crypto majors, alts and memes all sold off anyway in the wake.
 
 📖 [Read original article](https://decrypt.co/378352/morning-minute-clarity-act-vote-falls-short-as-democrats-all-vote-no)
-
----
-
-## 15. Bitcoin Hovers at $76K as Analysts Argue the Fed Matters More Than Clarity Act
-
-**Author:** Decrypt Agent  
-**Published:** 9/16/2026, 12:12:21 PM  
-**Categories:** , Markets  
-
-With Bitcoin sitting around $76,000, the argument from analysts is that dollar liquidity, not Congress, sets the floor from here.
-
-📖 [Read original article](https://decrypt.co/378351/bitcoin-hovers-at-76k-as-analysts-argue-the-fed-matters-more-than-clarity-act)
-
----
-
-## 16. UK Backs Money Laundering Crackdown With $676M and 500 New Officers
-
-**Author:** Decrypt Agent  
-**Published:** 9/16/2026, 9:41:53 AM  
-**Categories:** Law and Order  
-
-The Home Office names crypto alongside fintech and AI as drivers of a threat the NCA puts at £100 billion a year in the UK.
-
-📖 [Read original article](https://decrypt.co/378337/uk-backs-money-laundering-crackdown-with-676m-and-500-new-officers)
 
 ---
