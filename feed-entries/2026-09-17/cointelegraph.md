@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-17"
 date: "2026-09-17"
 source: "Cointelegraph"
-count: 21
+count: 20
 ---
 
 # Cointelegraph - 2026-09-17
 
-21 items collected.
+20 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ North Korea and Iran account for the majority of onchain malware, while Malaysia
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 9/17/2026, 8:44:00 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. CFTC expands regulatory relief for passive trading software providers
+## 2. CFTC expands regulatory relief for passive trading software providers
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/17/2026, 7:30:48 PM  
@@ -47,7 +35,7 @@ The US regulator’s move could make it easier for crypto wallets and other apps
 
 ---
 
-## 4. WisdomTree, MoonPay team up to expand US access to tokenized money market fund
+## 3. WisdomTree, MoonPay team up to expand US access to tokenized money market fund
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/17/2026, 5:31:12 PM  
@@ -59,7 +47,7 @@ MoonPay plans to use WisdomTree’s $1.2 billion WTGXX tokenized fund as part of
 
 ---
 
-## 5. Is there any chance left to save the CLARITY Act?
+## 4. Is there any chance left to save the CLARITY Act?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/17/2026, 5:00:00 PM  
@@ -71,7 +59,7 @@ CLARITY isn’t dead after failing a key Senate vote, but with time running shor
 
 ---
 
-## 6. Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike
+## 5. Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/17/2026, 4:22:23 PM  
@@ -83,7 +71,7 @@ Bitcoin made modest daily gains as US stocks saw upside in the aftermath of the 
 
 ---
 
-## 7. Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing
+## 6. Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/17/2026, 3:58:33 PM  
@@ -95,7 +83,7 @@ Former Hut 8 CEO Jaime Leverton will take the helm at Fortitude as the Zcash-foc
 
 ---
 
-## 8. OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO
+## 7. OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/17/2026, 1:35:57 PM  
@@ -107,7 +95,7 @@ Crypto.com’s CEO said its sister exchange was cleared to offer US access to si
 
 ---
 
-## 9. SEC grants temporary exemption for tokenized US stock trading
+## 8. SEC grants temporary exemption for tokenized US stock trading
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/17/2026, 1:34:17 PM  
@@ -119,7 +107,7 @@ The SEC’s Innovation Exemption allows limited tokenized US stock trading on on
 
 ---
 
-## 10. Bitcoin treasury firms can outperform BTC... but is the risk worth taking?
+## 9. Bitcoin treasury firms can outperform BTC... but is the risk worth taking?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/17/2026, 1:30:00 PM  
@@ -131,7 +119,7 @@ Bitcoin treasury companies promise to amplify returns over investing in Bitcoin 
 
 ---
 
-## 11. S&P Global to acquire blockchain security platform OpenZeppelin
+## 10. S&P Global to acquire blockchain security platform OpenZeppelin
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/17/2026, 12:56:23 PM  
@@ -143,7 +131,7 @@ S&P Global agreed to buy OpenZeppelin, which says its smart contracts have facil
 
 ---
 
-## 12. Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher
+## 11. Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/17/2026, 12:34:11 PM  
@@ -155,7 +143,7 @@ German crypto adoption is progressing through family offices and wealth managers
 
 ---
 
-## 13. State hackers drive 420% surge in onchain malware, Chainalysis finds
+## 12. State hackers drive 420% surge in onchain malware, Chainalysis finds
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/17/2026, 12:00:00 PM  
@@ -167,7 +155,7 @@ North Korea-linked hackers used Tron, Aptos and BNB Chain to maintain malware in
 
 ---
 
-## 14. Zcash gains 20% as Paradigm founder reveals firm made ZEC investment
+## 13. Zcash gains 20% as Paradigm founder reveals firm made ZEC investment
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/17/2026, 10:35:29 AM  
@@ -179,7 +167,7 @@ Zcash rose about 20% in 24 hours as Paradigm co-founder Matt Huang disclosed tha
 
 ---
 
-## 15. Revolut says no direct contact from hackers after $3M public ransom demand
+## 14. Revolut says no direct contact from hackers after $3M public ransom demand
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/17/2026, 9:57:51 AM  
@@ -191,7 +179,7 @@ Revolut says it received no direct contact despite separate ransom demands for $
 
 ---
 
-## 16. Polymarket users referred to prosecutors in South Korea: Report
+## 15. Polymarket users referred to prosecutors in South Korea: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/17/2026, 9:37:32 AM  
@@ -203,7 +191,7 @@ South Korean police reportedly referred 18 Polymarket users to prosecutors in a 
 
 ---
 
-## 17. Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger
+## 16. Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/17/2026, 9:00:31 AM  
@@ -215,7 +203,7 @@ Bitcoin corporate treasuries remained at an unrealized loss on their holdings as
 
 ---
 
-## 18. BitMEX faces Celsius lawsuit ahead of exchange closure
+## 17. BitMEX faces Celsius lawsuit ahead of exchange closure
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/17/2026, 5:55:18 AM  
@@ -227,7 +215,7 @@ The Celsius estate alleges BitMEX wrongfully liquidated and seized 6,360 BTC, wo
 
 ---
 
-## 19. OpenAI discloses 6 new cases of ‘misaligned’ AI behavior
+## 18. OpenAI discloses 6 new cases of ‘misaligned’ AI behavior
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/17/2026, 5:49:06 AM  
@@ -239,7 +227,7 @@ The six cases are separate from July’s incident, when OpenAI models escaped co
 
 ---
 
-## 20. Bitcoin absorbs Fed rate hike as officials see more tightening
+## 19. Bitcoin absorbs Fed rate hike as officials see more tightening
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/17/2026, 2:52:08 AM  
@@ -251,7 +239,7 @@ Bitcoin showed little immediate reaction to the Fed’s first rate increase sinc
 
 ---
 
-## 21. US lawmakers advance bill to lock Trump’s Bitcoin reserve into law
+## 20. US lawmakers advance bill to lock Trump’s Bitcoin reserve into law
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/17/2026, 12:23:44 AM  
