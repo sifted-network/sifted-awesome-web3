@@ -2,16 +2,88 @@
 title: "Cointelegraph - 2026-09-18"
 date: "2026-09-18"
 source: "Cointelegraph"
-count: 8
+count: 13
 ---
 
 # Cointelegraph - 2026-09-18
 
-8 items collected.
+13 items collected.
 
 ---
 
-## 1. Stablecoin payments firm dtcpay closes $25M round with SBI backing
+## 1. Banks double on EU MiCA crypto provider list as share hits 23%
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 9/18/2026, 2:04:43 PM  
+**Categories:** Latest News  
+
+Banks now represent nearly one in four providers on ESMA’s MiCA register after roughly doubling their presence since late June.
+
+📖 [Read original article](https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Bryan O'Shea  
+**Published:** 9/18/2026, 1:34:11 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/18/2026, 12:40:04 PM  
+**Categories:** Latest News  
+
+The non-profit signaled support for reducing Ethereum block times, citing increasing institutional activity moving onto the smart-contract network.
+
+📖 [Read original article](https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. HYPE hits record above $90 as Hyperliquid launches manual borrowing
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 9/18/2026, 11:54:24 AM  
+**Categories:** Markets  
+
+HYPE hit a record $90.92 after Hyperliquid opened manual borrowing, letting users borrow stablecoins against HYPE and Bitcoin collateral.
+
+📖 [Read original article](https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/18/2026, 11:22:24 AM  
+**Categories:** Latest News  
+
+Industry watchers are debating the fate of the Zcash development fund after the ZEC token’s rally pushed its value above $95 million.
+
+📖 [Read original article](https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 9/18/2026, 10:46:17 AM  
+**Categories:** Markets  
+
+The Fisher Transform indicator produced a rare crossover for only the fourth time in Bitcoin’s history.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Stablecoin payments firm dtcpay closes $25M round with SBI backing
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/18/2026, 9:14:03 AM  
@@ -23,7 +95,7 @@ Dtcpay plans to expand its merchant network and payment products after completin
 
 ---
 
-## 2. Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment
+## 8. Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/18/2026, 8:50:38 AM  
@@ -35,7 +107,7 @@ Binance declined to address reports of ECB intervention in its Greek MiCA bid, s
 
 ---
 
-## 3. Bitcoin cycle bottom may already be in at $58K, says analyst James Check
+## 9. Bitcoin cycle bottom may already be in at $58K, says analyst James Check
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/18/2026, 8:47:20 AM  
@@ -47,19 +119,7 @@ Onchain analyst James Check says Bitcoin may have bottomed near $58,000 after tw
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/18/2026, 6:00:00 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Zcash targets November for NU7 mainnet upgrade with 25-second blocks
+## 10. Zcash targets November for NU7 mainnet upgrade with 25-second blocks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/18/2026, 4:51:29 AM  
@@ -71,7 +131,7 @@ NU7 will cut Zcash block times to 25 seconds and preserve its halving schedule, 
 
 ---
 
-## 6. Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack
+## 11. Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/18/2026, 4:11:40 AM  
@@ -83,7 +143,7 @@ Input Output Group told users to avoid its YouTube channel after it began livest
 
 ---
 
-## 7. World launches self-custodial ‘super app’ World Money
+## 12. World launches self-custodial ‘super app’ World Money
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/18/2026, 3:40:28 AM  
@@ -95,7 +155,7 @@ World Money is rolling out across more than 150 countries, combining stablecoin 
 
 ---
 
-## 8. US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments
+## 13. US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/18/2026, 1:33:54 AM  
