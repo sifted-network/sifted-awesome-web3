@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-16"
 date: "2026-09-16"
 source: "The Block"
-count: 6
+count: 4
 ---
 
 # The Block - 2026-09-16
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ The House Ways and Means Committee voted to advance crypto tax legislation, send
 Aave founder Stani Kulechov sees an 'Uber path' for DeFi if U.S. crypto legislation stalls, he told The Starting Block.
 
 📖 [Read original article](https://www.theblock.co/news/defi/2026-09-16-aave-founder-pitches-uber-path-defi-clarity-act-fails-senate-vote-415278)
-
----
-
-## 5. JPMorgan says Clarity Act ‘not fully dead,’ but passage window ‘extremely narrow’
-
-**Author:** Yogita Khatri  
-**Published:** 9/16/2026, 5:01:22 PM  
-**Categories:** Companies, Equities, Finance firms, Markets, Policy, Regulation, Analyst Reports, JPMorgan, News  
-
-The Clarity Act is "not fully dead," but the window for passing the crypto bill this year is now "extremely narrow," JPMorgan said.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-16-jpmorgan-clarity-act-crypto-bill-415280)
-
----
-
-## 6. Bernstein says Clarity Act failure allows stablecoin rewards on idle balances to continue, expects ‘swift’ SEC and CFTC rulemaking
-
-**Author:** Brian Danga  
-**Published:** 9/16/2026, 12:47:59 PM  
-**Categories:** Equities, Markets, Policy, Regulation, Analyst Reports, News  
-
-Bernstein expects the SEC and CFTC to drive crypto rulemaking after Senate lawmakers failed to advance Clarity Act legislation.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-16-bernstein-says-clarity-act-failure-allows-stablecoin-rewards-on-idle-balances-to-continue-expects-swift-sec-and-cftc-rulemaking-415263)
 
 ---
