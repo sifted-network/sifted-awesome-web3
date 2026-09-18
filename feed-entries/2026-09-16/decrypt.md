@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-16"
 date: "2026-09-16"
 source: "Decrypt"
-count: 14
+count: 10
 ---
 
 # Decrypt - 2026-09-16
 
-14 items collected.
+10 items collected.
 
 ---
 
@@ -128,53 +128,5 @@ Meta’s CEO says competition and potential liability give AI developers reasons
 Bitcoin, Ethereum, and XRP ETFs shed roughly $593 million combined Tuesday, their heaviest single-day drawdown since June.
 
 📖 [Read original article](https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote)
-
----
-
-## 11. Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators
-
-**Author:** Decrypt Agent  
-**Published:** 9/16/2026, 2:56:02 PM  
-**Categories:** Coins  
-
-The Layer 1 network’s validator set is permissioned, and Circle has minted 10 billion ARC tokens without committing to publicly launch them.
-
-📖 [Read original article](https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators)
-
----
-
-## 12. AI Pause Would Help Dominant Firms, Not Safety, Think Tank Warns
-
-**Author:** Jason Nelson  
-**Published:** 9/16/2026, 2:36:29 PM  
-**Categories:** Artificial Intelligence  
-
-Cato favors voluntary safeguards, while Block Chairman Jack Dorsey backs independent testing and narrowly justified restrictions.
-
-📖 [Read original article](https://decrypt.co/378323/ai-pause-protect-giants-not-safety-cato-jack-dorsey)
-
----
-
-## 13. FCA Guidance Lands Two Weeks Before UK Crypto Authorization Window Opens
-
-**Author:** Decrypt Agent  
-**Published:** 9/16/2026, 1:12:33 PM  
-**Categories:** , , Law and Order  
-
-Overseas firms serving UK retail customers need authorization too, and nobody trades under the new rules before October 2027.
-
-📖 [Read original article](https://decrypt.co/378363/fca-guidance-lands-two-weeks-before-uk-crypto-authorization-window-opens)
-
----
-
-## 14. Morning Minute: Clarity Act Vote Falls Short as Democrats All Vote ‘No’
-
-**Author:** Tyler Warner  
-**Published:** 9/16/2026, 12:17:50 PM  
-**Categories:** Opinion  
-
-It should not have come as a surprise given the odds, but crypto majors, alts and memes all sold off anyway in the wake.
-
-📖 [Read original article](https://decrypt.co/378352/morning-minute-clarity-act-vote-falls-short-as-democrats-all-vote-no)
 
 ---
