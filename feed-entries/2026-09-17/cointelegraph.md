@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-17"
 date: "2026-09-17"
 source: "Cointelegraph"
-count: 17
+count: 12
 ---
 
 # Cointelegraph - 2026-09-17
 
-17 items collected.
+12 items collected.
 
 ---
 
@@ -152,65 +152,5 @@ German crypto adoption is progressing through family offices and wealth managers
 North Korea-linked hackers used Tron, Aptos and BNB Chain to maintain malware infrastructure, while suspected Iran-linked actors embedded directions in Bitcoin transactions.
 
 📖 [Read original article](https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Zcash gains 20% as Paradigm founder reveals firm made ZEC investment
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/17/2026, 10:35:29 AM  
-**Categories:** Markets  
-
-Zcash rose about 20% in 24 hours as Paradigm co-founder Matt Huang disclosed that the firm invested in ZEC amid a broader crypto market rally.
-
-📖 [Read original article](https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Revolut says no direct contact from hackers after $3M public ransom demand
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/17/2026, 9:57:51 AM  
-**Categories:** Latest News  
-
-Revolut says it received no direct contact despite separate ransom demands for $3 million in Monero and 10,000 Bitcoin from competing breach claimants.
-
-📖 [Read original article](https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Polymarket users referred to prosecutors in South Korea: Report
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/17/2026, 9:37:32 AM  
-**Categories:** Latest News  
-
-South Korean police reportedly referred 18 Polymarket users to prosecutors in a gambling probe involving 26 people and $12.7 million in bets.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/17/2026, 9:00:31 AM  
-**Categories:** Markets  
-
-Bitcoin corporate treasuries remained at an unrealized loss on their holdings as the price fell below $80,000 and fresh capital inflows dwindled.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. BitMEX faces Celsius lawsuit ahead of exchange closure
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/17/2026, 5:55:18 AM  
-**Categories:** Latest News  
-
-The Celsius estate alleges BitMEX wrongfully liquidated and seized 6,360 BTC, worth nearly $490 million, during the March 2020 market crash.
-
-📖 [Read original article](https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
