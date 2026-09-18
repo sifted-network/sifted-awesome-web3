@@ -2,16 +2,52 @@
 title: "Decrypt - 2026-09-17"
 date: "2026-09-17"
 source: "Decrypt"
-count: 15
+count: 18
 ---
 
 # Decrypt - 2026-09-17
 
-15 items collected.
+18 items collected.
 
 ---
 
-## 1. Why Is Chipotle Now Working With the CIA-Funded Palantir?
+## 1. OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/17/2026, 10:31:03 PM  
+**Categories:** Artificial Intelligence  
+
+OpenAI's new transparency framework reveals AI models that invented fake "breach alerts," coached themselves to hide mistakes, and smuggled a file onto the public internet to talk to each other.
+
+📖 [Read original article](https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying)
+
+---
+
+## 2. Security Experts Want the US and China to Promise Never to Let AI Control Nukes
+
+**Author:** Jason Nelson  
+**Published:** 9/17/2026, 9:46:03 PM  
+**Categories:** Artificial Intelligence  
+
+Brookings researchers in the US and China are urging Washington and Beijing to agree to keep humans in control of nuclear weapons.
+
+📖 [Read original article](https://decrypt.co/378575/us-china-never-let-ai-control-nukes)
+
+---
+
+## 3. Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/17/2026, 9:16:03 PM  
+**Categories:** Artificial Intelligence  
+
+SpaceX's AI division has held internal talks about buying customer records from dead startups—cheap fuel for Grok, no questions asked, because there's nobody left to ask them.
+
+📖 [Read original article](https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai)
+
+---
+
+## 4. Why Is Chipotle Now Working With the CIA-Funded Palantir?
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/17/2026, 8:46:03 PM  
@@ -23,7 +59,7 @@ Chipotle is piloting a Palantir-built food safety dashboard after a summer of ou
 
 ---
 
-## 2. CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access
+## 5. CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access
 
 **Author:** Jason Nelson  
 **Published:** 9/17/2026, 8:16:04 PM  
@@ -35,7 +71,7 @@ In a no-action letter, the CFTC said certain software providers can connect user
 
 ---
 
-## 3. OpenAI Says It's Made Progress on a Second $1 Million Math Problem
+## 6. OpenAI Says It's Made Progress on a Second $1 Million Math Problem
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/17/2026, 7:32:22 PM  
@@ -47,7 +83,7 @@ Days after its disputed Navier-Stokes claim, OpenAI says it's made "substantial 
 
 ---
 
-## 4. Ethereum Founder Vitalik Buterin Says AI Won’t Doom Crypto Security
+## 7. Ethereum Founder Vitalik Buterin Says AI Won’t Doom Crypto Security
 
 **Author:** Jason Nelson  
 **Published:** 9/17/2026, 7:01:05 PM  
@@ -59,7 +95,7 @@ The Ethereum co-founder said AI could help developers mathematically verify enti
 
 ---
 
-## 5. Andrew Yang Calls for AI Kill Switch as Safety Fears Mount
+## 8. Andrew Yang Calls for AI Kill Switch as Safety Fears Mount
 
 **Author:** Jason Nelson  
 **Published:** 9/17/2026, 6:06:03 PM  
@@ -71,7 +107,7 @@ The former presidential candidate said lawmakers should impose liability rules a
 
 ---
 
-## 6. King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit
+## 9. King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/17/2026, 5:36:02 PM  
@@ -83,7 +119,7 @@ King Charles hosted senior AI executives at his Scottish estate to discuss keepi
 
 ---
 
-## 7. Bitcoin Bounces as Markets Brace for the Fed’s Next Move
+## 10. Bitcoin Bounces as Markets Brace for the Fed’s Next Move
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/17/2026, 5:01:03 PM  
@@ -95,7 +131,7 @@ The Federal Reserve's first rate increase since 2023 barely dented crypto prices
 
 ---
 
-## 8. Financial Data Giant S&#038;P Global Moves Deeper Into Crypto With OpenZeppelin Deal
+## 11. Financial Data Giant S&#038;P Global Moves Deeper Into Crypto With OpenZeppelin Deal
 
 **Author:** Jason Nelson  
 **Published:** 9/17/2026, 4:33:12 PM  
@@ -107,7 +143,7 @@ S&#038;P Global is expanding into the technology risks underpinning stablecoins,
 
 ---
 
-## 9. FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading
+## 12. FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading
 
 **Author:** Decrypt Agent  
 **Published:** 9/17/2026, 3:21:19 PM  
@@ -119,7 +155,7 @@ S&#038;P Global is expanding into the technology risks underpinning stablecoins,
 
 ---
 
-## 10. SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles
+## 13. SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles
 
 **Author:** EleanorTerrett  
 **Published:** 9/17/2026, 2:52:03 PM  
@@ -131,7 +167,7 @@ The "innovation exemption" lets qualifying venues trade tokenized versions of U.
 
 ---
 
-## 11. What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle
+## 14. What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle
 
 **Author:** Jason Nelson  
 **Published:** 9/17/2026, 2:40:07 PM  
@@ -143,7 +179,7 @@ Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specif
 
 ---
 
-## 12. Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report
+## 15. Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report
 
 **Author:** Decrypt Agent  
 **Published:** 9/17/2026, 12:53:01 PM  
@@ -155,7 +191,7 @@ The group says it chose whom to target by scanning the blockchain for Revolut ac
 
 ---
 
-## 13. Morning Minute: Crypto Rebounds After The Fed’s First Hike Since 2023
+## 16. Morning Minute: Crypto Rebounds After The Fed’s First Hike Since 2023
 
 **Author:** Tyler Warner  
 **Published:** 9/17/2026, 12:13:20 PM  
@@ -167,7 +203,7 @@ The Clarity Act failed to pass and FOMC hiked rates, and yet, crypto majors are 
 
 ---
 
-## 14. Zcash Closes On $1,400 After Coinholders Vote to Keep Bitcoin-Style Halvings
+## 17. Zcash Closes On $1,400 After Coinholders Vote to Keep Bitcoin-Style Halvings
 
 **Author:** Decrypt Agent  
 **Published:** 9/17/2026, 12:05:13 PM  
@@ -179,7 +215,7 @@ The privacy coin rose double digits Thursday and 168% over the past month in the
 
 ---
 
-## 15. House Committee Advances US Bitcoin Reserve Bill on Party-Line Split
+## 18. House Committee Advances US Bitcoin Reserve Bill on Party-Line Split
 
 **Author:** Decrypt Agent  
 **Published:** 9/17/2026, 10:24:21 AM  
