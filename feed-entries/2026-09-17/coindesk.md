@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-17"
 date: "2026-09-17"
 source: "CoinDesk"
-count: 16
+count: 9
 ---
 
 # CoinDesk - 2026-09-17
 
-16 items collected.
+9 items collected.
 
 ---
 
@@ -83,7 +83,7 @@ The U.S. Securities and Exchange Commission dug into plans for around-the-clock 
 
 ---
 
-## 7. Crypto for Advisors: Beyond bitcoin and ether
+## 7. Crypto for Advisors: The case for diversifying beyond bitcoin and ether
 
 **Author:** Glenn Williams Jr.  
 **Published:** 9/17/2026, 2:57:11 PM  
@@ -116,89 +116,5 @@ The U.S. is likely to lose out to foreign markets in the short term, but SEC and
 Building on its recent market-data investment in Kaiko, S&P Global’s latest purchase targets the technological risks facing banks and asset managers onchain.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push)
-
----
-
-## 10. SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues
-
-**Author:** Krisztian Sandor,Nikhilesh De,Jesse Hamilton  
-**Published:** 9/17/2026, 1:00:00 PM  
-**Categories:** Policy, SEC, Tokenization, Breaking News, News  
-
-The U.S. Securities and Exchange Commission issued a blanket 5-year exemption for listing and trading tokenized securities without registering as an exchange.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues)
-
----
-
-## 11. Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity
-
-**Author:** Shaurya Malwa  
-**Published:** 9/17/2026, 12:37:21 PM  
-**Categories:** Tech, News  
-
-The test network raised its limit on work per block toward 200 million gas as developers prepare for a proposed October 6 public test.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity)
-
----
-
-## 12. Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal
-
-**Author:** Will Canny,AI Boost  
-**Published:** 9/17/2026, 12:00:00 PM  
-**Categories:** Finance, Digital Currency Group, mergers and acquisitions, Exclusive, News  
-
-Leverton will lead the DCG-owned mining company as it pursues a public listing through its proposed merger with HeartSciences.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal)
-
----
-
-## 13. How Circle’s institutional Arc blockchain got taken over by memecoins on day one
-
-**Author:** Oliver Knight  
-**Published:** 9/17/2026, 11:42:22 AM  
-**Categories:** Finance, Circle, News  
-
-Circle blockchain Arc's first day was dominated by memecoins, and the traders behind them had already moved on by Thursday morning.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino)
-
----
-
-## 14. Optimism creeps back into crypto, with the 2022 test still to come
-
-**Author:** Oliver Knight,James Van Straten  
-**Published:** 9/17/2026, 11:19:09 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Sept. 17, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come)
-
----
-
-## 15. Live updates: Bitcoin edges higher as Nasdaq climbs 1.7% in wake of Fed rate hike
-
-**Author:** Shaurya Malwa,James Van Straten,Stephen Alpher  
-**Published:** 9/17/2026, 10:41:15 AM  
-**Categories:** Tech, Live News, live_news  
-
-The SEC debuted its long-awaited "innovation exemption," providing a roadmap for blockchain-based venues to offer tokenized securities.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders)
-
----
-
-## 16. Crypto rallies through the Fed's first rate increase since 2023
-
-**Author:** Oliver Knight  
-**Published:** 9/17/2026, 10:40:01 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin rose 0.88% over 24 hours to $76,621 as the central bank's projections implied only one further hike. Zcash jumped 23% to a record after Paradigm disclosed a stake.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023)
 
 ---
