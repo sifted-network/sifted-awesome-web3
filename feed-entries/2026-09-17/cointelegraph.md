@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-17"
 date: "2026-09-17"
 source: "Cointelegraph"
-count: 10
+count: 7
 ---
 
 # Cointelegraph - 2026-09-17
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ Former Hut 8 CEO Jaime Leverton will take the helm at Fortitude as the Zcash-foc
 Crypto.com’s CEO said its sister exchange was cleared to offer US access to single-stock perpetual futures, as the latest platform to bridge TradFi and digital assets.
 
 📖 [Read original article](https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. SEC grants temporary exemption for tokenized US stock trading
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/17/2026, 1:34:17 PM  
-**Categories:** Latest News  
-
-The SEC’s Innovation Exemption allows limited tokenized US stock trading on onchain venues with trading caps and transparency requirements.
-
-📖 [Read original article](https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bitcoin treasury firms can outperform BTC... but is the risk worth taking?
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 9/17/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Bitcoin treasury companies promise to amplify returns over investing in Bitcoin alone, but does the potential upside outweigh the risks to the downside?
-
-📖 [Read original article](https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. S&P Global to acquire blockchain security platform OpenZeppelin
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/17/2026, 12:56:23 PM  
-**Categories:** Latest News  
-
-S&P Global agreed to buy OpenZeppelin, which says its smart contracts have facilitated more than $37 trillion in value transfers.
-
-📖 [Read original article](https://cointelegraph.com/news/sp-global-openzeppelin-acquisition-blockchain-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
