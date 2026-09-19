@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-17"
 date: "2026-09-17"
 source: "Cointelegraph"
-count: 11
+count: 10
 ---
 
 # Cointelegraph - 2026-09-17
 
-11 items collected.
+10 items collected.
 
 ---
 
@@ -128,17 +128,5 @@ Bitcoin treasury companies promise to amplify returns over investing in Bitcoin 
 S&P Global agreed to buy OpenZeppelin, which says its smart contracts have facilitated more than $37 trillion in value transfers.
 
 📖 [Read original article](https://cointelegraph.com/news/sp-global-openzeppelin-acquisition-blockchain-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/17/2026, 12:34:11 PM  
-**Categories:** Latest News  
-
-German crypto adoption is progressing through family offices and wealth managers, while the UK’s retail-facing cryptocurrency market remains “nascent,” according to the researcher.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
