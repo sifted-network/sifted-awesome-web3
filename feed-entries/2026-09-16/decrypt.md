@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-16"
 date: "2026-09-16"
 source: "Decrypt"
-count: 10
+count: 9
 ---
 
 # Decrypt - 2026-09-16
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ Attackers ran 108 malicious ads through the streaming service’s verified accou
 Meta’s CEO says competition and potential liability give AI developers reasons to prioritize safety, citing the company’s decision to delay Muse.
 
 📖 [Read original article](https://decrypt.co/378381/zuckerberg-pushes-back-ai-slowdown)
-
----
-
-## 10. Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/16/2026, 3:50:07 PM  
-**Categories:** , , Markets  
-
-Bitcoin, Ethereum, and XRP ETFs shed roughly $593 million combined Tuesday, their heaviest single-day drawdown since June.
-
-📖 [Read original article](https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote)
 
 ---
