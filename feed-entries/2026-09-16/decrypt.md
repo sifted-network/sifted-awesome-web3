@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-16"
 date: "2026-09-16"
 source: "Decrypt"
-count: 9
+count: 7
 ---
 
 # Decrypt - 2026-09-16
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ The Federal Reserve delivered the hike Wall Street had almost unanimously priced
 Michael Selig and Paul Atkins pledged to use their agencies’ existing powers to provide crypto regulatory certainty after the Senate failed to advance the bill.
 
 📖 [Read original article](https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act)
-
----
-
-## 8. Hackers Hijack HBO Max’s Reddit Account to Spread Crypto-Stealing Malware
-
-**Author:** Jason Nelson  
-**Published:** 9/16/2026, 5:06:02 PM  
-**Categories:** Technology  
-
-Attackers ran 108 malicious ads through the streaming service’s verified account, directing users to fake software downloads.
-
-📖 [Read original article](https://decrypt.co/378401/hackers-hbo-max-reddit-account-crypto-malware)
-
----
-
-## 9. Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone
-
-**Author:** Jason Nelson  
-**Published:** 9/16/2026, 4:31:03 PM  
-**Categories:** Artificial Intelligence  
-
-Meta’s CEO says competition and potential liability give AI developers reasons to prioritize safety, citing the company’s decision to delay Muse.
-
-📖 [Read original article](https://decrypt.co/378381/zuckerberg-pushes-back-ai-slowdown)
 
 ---
