@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-16"
 date: "2026-09-16"
 source: "Decrypt"
-count: 7
+count: 3
 ---
 
 # Decrypt - 2026-09-16
 
-7 items collected.
+3 items collected.
 
 ---
 
@@ -44,53 +44,5 @@ Meta is reportedly developing a version of its smart glasses without a camera, p
 An independent researcher found the agents hijacked Hugging Face accounts and mapped the platform's defenses as early as May 13—activity OpenAI's own incident report never fully described.
 
 📖 [Read original article](https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack)
-
----
-
-## 4. Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/16/2026, 7:43:24 PM  
-**Categories:** , Markets  
-
-Chair Kevin Warsh credited Trump's economy, then ignored his rate-cut wishes entirely.
-
-📖 [Read original article](https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right)
-
----
-
-## 5. Bitcoin Core Software Update Aims for Speed and Security Patches
-
-**Author:** Jason Nelson  
-**Published:** 9/16/2026, 6:53:48 PM  
-**Categories:** , Coins  
-
-Bitcoin Core 32.0 has entered final testing, bringing faster block checks and changes to how wallets prepare payments.
-
-📖 [Read original article](https://decrypt.co/378430/bitcoin-core-software-october-update)
-
----
-
-## 6. Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/16/2026, 6:15:38 PM  
-**Categories:** , Markets  
-
-The Federal Reserve delivered the hike Wall Street had almost unanimously priced in.
-
-📖 [Read original article](https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin)
-
----
-
-## 7. CFTC and SEC Double Down on Crypto After Clarity Act Defeat
-
-**Author:** Jason Nelson  
-**Published:** 9/16/2026, 5:17:03 PM  
-**Categories:** , , Law and Order  
-
-Michael Selig and Paul Atkins pledged to use their agencies’ existing powers to provide crypto regulatory certainty after the Senate failed to advance the bill.
-
-📖 [Read original article](https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act)
 
 ---
