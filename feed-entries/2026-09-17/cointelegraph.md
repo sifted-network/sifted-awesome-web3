@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-17"
 date: "2026-09-17"
 source: "Cointelegraph"
-count: 12
+count: 11
 ---
 
 # Cointelegraph - 2026-09-17
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ S&P Global agreed to buy OpenZeppelin, which says its smart contracts have facil
 German crypto adoption is progressing through family offices and wealth managers, while the UK’s retail-facing cryptocurrency market remains “nascent,” according to the researcher.
 
 📖 [Read original article](https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. State hackers drive 420% surge in onchain malware, Chainalysis finds
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/17/2026, 12:00:00 PM  
-**Categories:** Latest News  
-
-North Korea-linked hackers used Tron, Aptos and BNB Chain to maintain malware infrastructure, while suspected Iran-linked actors embedded directions in Bitcoin transactions.
-
-📖 [Read original article](https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
