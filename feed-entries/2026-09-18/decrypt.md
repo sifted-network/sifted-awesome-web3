@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-09-18"
 date: "2026-09-18"
 source: "Decrypt"
-count: 9
+count: 10
 ---
 
 # Decrypt - 2026-09-18
 
-9 items collected.
+10 items collected.
 
 ---
 
-## 1. Zcash Is Running—Devs Want to Make It Faster
+## 1. Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia
+
+**Author:** Decrypt Staff  
+**Published:** 9/18/2026, 9:01:30 PM  
+**Categories:** Business  
+
+The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.
+
+📖 [Read original article](https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia)
+
+---
+
+## 2. Zcash Is Running—Devs Want to Make It Faster
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/18/2026, 7:16:03 PM  
@@ -23,7 +35,7 @@ A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly re
 
 ---
 
-## 2. Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch
+## 3. Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/18/2026, 6:35:54 PM  
@@ -35,7 +47,7 @@ Kevin O'Leary believes Bitcoin could hit $1 million if crypto beats its quantum 
 
 ---
 
-## 3. XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross
+## 4. XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/18/2026, 4:42:32 PM  
@@ -47,7 +59,7 @@ XRP is roaring back as Bitcoin claws its way above $800,000 again, but the chart
 
 ---
 
-## 4. CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress
+## 5. CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress
 
 **Author:** Decrypt Staff  
 **Published:** 9/18/2026, 4:08:13 PM  
@@ -59,7 +71,7 @@ The agency submitted a prerule on crypto asset transactions and markets to the W
 
 ---
 
-## 5. Bitcoin Blasts Past $80K and a Fresh Short Squeeze Is On
+## 6. Bitcoin Blasts Past $80K and a Fresh Short Squeeze Is On
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/18/2026, 3:22:49 PM  
@@ -71,7 +83,7 @@ Bitcoin just ripped 5.88% higher in a single session, tearing back toward its 20
 
 ---
 
-## 6. Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'
+## 7. Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'
 
 **Author:** Decrypt Agent  
 **Published:** 9/18/2026, 12:52:03 PM  
@@ -83,7 +95,7 @@ Internal memos warned of a "doom loop" threatening the quality of the very model
 
 ---
 
-## 7. Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward
+## 8. Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward
 
 **Author:** Tyler Warner  
 **Published:** 9/18/2026, 12:34:50 PM  
@@ -95,7 +107,7 @@ It came just hours after S&#038;P Global announced its acquisition of OpenZeppel
 
 ---
 
-## 8. UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings
+## 9. UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings
 
 **Author:** Decrypt Agent  
 **Published:** 9/18/2026, 9:57:33 AM  
@@ -107,7 +119,7 @@ Investigators say tracing the network's crypto transactions exposed links to org
 
 ---
 
-## 9. Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships
+## 10. Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships
 
 **Author:** Decrypt Agent  
 **Published:** 9/18/2026, 9:01:55 AM  
