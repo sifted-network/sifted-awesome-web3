@@ -13,7 +13,7 @@ count: 18
 
 ## 1. Here’s what happened in crypto today
 
-**Author:** Cointelegraph by Nate Kostar  
+**Author:** Cointelegraph by Michael Millard  
 **Published:** 9/18/2026, 9:00:00 PM  
 **Categories:** Latest News  
 
