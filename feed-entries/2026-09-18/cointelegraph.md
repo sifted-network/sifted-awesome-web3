@@ -11,7 +11,19 @@ count: 18
 
 ---
 
-## 1. Coinbase files to bring single-stock perpetual futures to US market
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/18/2026, 9:00:00 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Coinbase files to bring single-stock perpetual futures to US market
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/18/2026, 7:53:54 PM  
@@ -23,7 +35,7 @@ Coinbase wants to bring 24/5 perpetual futures trading to individual US stocks, 
 
 ---
 
-## 2. Binance launches 24/7 FX perps with weekend pricing system
+## 3. Binance launches 24/7 FX perps with weekend pricing system
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/18/2026, 7:06:30 PM  
@@ -35,7 +47,7 @@ Binance is joining a growing number of crypto exchanges offering around-the-cloc
 
 ---
 
-## 3. Crypto stocks rebound after CLARITY Act selloff
+## 4. Crypto stocks rebound after CLARITY Act selloff
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/18/2026, 5:55:57 PM  
@@ -47,7 +59,7 @@ Coinbase, Strategy and other crypto-linked stocks rallied Friday as the CFTC and
 
 ---
 
-## 4. CFTC submits crypto market regulation plan for White House review
+## 5. CFTC submits crypto market regulation plan for White House review
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/18/2026, 4:04:22 PM  
@@ -59,7 +71,7 @@ The US commodities regulator submitted a new crypto market regulatory action for
 
 ---
 
-## 5. Bitcoin hits $81K as US bond yields rebound on global oil woes
+## 6. Bitcoin hits $81K as US bond yields rebound on global oil woes
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/18/2026, 3:35:59 PM  
@@ -71,7 +83,7 @@ Bitcoin price action made swift gains at the start of Friday’s Wall Street tra
 
 ---
 
-## 6. Banks double on EU MiCA crypto provider list as share hits 23%
+## 7. Banks double on EU MiCA crypto provider list as share hits 23%
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/18/2026, 2:04:43 PM  
@@ -80,18 +92,6 @@ Bitcoin price action made swift gains at the start of Friday’s Wall Street tra
 Banks now represent nearly one in four providers on ESMA’s MiCA register after roughly doubling their presence since late June.
 
 📖 [Read original article](https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Bryan O'Shea  
-**Published:** 9/18/2026, 1:34:11 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
