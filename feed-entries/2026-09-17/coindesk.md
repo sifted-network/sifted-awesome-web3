@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-17"
 date: "2026-09-17"
 source: "CoinDesk"
-count: 4
+count: 3
 ---
 
 # CoinDesk - 2026-09-17
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ The estranged daughter of 77-year-old Kathleen Allman has petitioned a Hawaiian 
 The Shark Tank investor says Congress will face pressure to revive crypto market structure legislation as it moves to establish tax rules for digital assets.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances)
-
----
-
-## 4. SEC opens door to tokenized U.S. stock trading. Here’s who could benefit
-
-**Author:** Krisztian Sandor  
-**Published:** 9/17/2026, 6:38:10 PM  
-**Categories:** Finance, Tokenization, Tokenized Equities, SEC, DeFi, News  
-
-The five-year experiment gives DeFi-style trading venues, tokenization firms and liquidity providers a new U.S. pathway while leaving synthetic stock tokens outside the framework.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit)
 
 ---
