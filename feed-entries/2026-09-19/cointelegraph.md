@@ -14,7 +14,7 @@ count: 5
 ## 1. REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive
 
 **Author:** Cointelegraph by Nate Kostar  
-**Published:** 9/19/2026, 7:14:38 PM  
+**Published:** 9/19/2026, 7:18:00 PM  
 **Categories:** Latest News  
 
 The new ASSX fund offers 2x daily exposure to Strive shares, giving traders a leveraged way to bet on the Bitcoin treasury company.
@@ -23,10 +23,10 @@ The new ASSX fund offers 2x daily exposure to Strive shares, giving traders a le
 
 ---
 
-## 2. Kalshi joins Coinbase with filing for US stock perpetual futures
+## 2. Kalshi joins Coinbase with own filing for US stock perpetual futures
 
 **Author:** Cointelegraph by Nate Kostar  
-**Published:** 9/19/2026, 6:35:16 PM  
+**Published:** 9/19/2026, 6:40:00 PM  
 **Categories:** Latest News  
 
 Kalshi’s proposal would bring perpetual futures tied to individual stocks to US traders, as Coinbase and Bitnomial pursue similar products.
@@ -38,7 +38,7 @@ Kalshi’s proposal would bring perpetual futures tied to individual stocks to U
 ## 3. VanEck criticizes Metaplanet over executive dilution despite compensation cuts
 
 **Author:** Cointelegraph by Nate Kostar  
-**Published:** 9/19/2026, 4:15:27 PM  
+**Published:** 9/19/2026, 4:20:00 PM  
 **Categories:** Latest News  
 
 VanEck said Metaplanet’s executive equity exposure remains well above its digital asset treasury peers, even after the company cut its potential share pool by 41%.
@@ -50,7 +50,7 @@ VanEck said Metaplanet’s executive equity exposure remains well above its digi
 ## 4. Bastion wins conditional OCC approval for national trust bank charter
 
 **Author:** Cointelegraph by Michael Millard  
-**Published:** 9/19/2026, 11:47:29 AM  
+**Published:** 9/19/2026, 11:51:00 AM  
 **Categories:** Latest News  
 
 Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and white-label issuance from a single federally regulated entity.
@@ -59,10 +59,10 @@ Bastion Platforms National Trust Company will offer stablecoin custody and walle
 
 ---
 
-## 5. Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report
+## 5. Hong Kong jails ex-banker over $1.6B false credit, cryptocurrency bribes: Report
 
 **Author:** Cointelegraph by Michael Millard  
-**Published:** 9/19/2026, 7:50:58 AM  
+**Published:** 9/19/2026, 7:52:00 AM  
 **Categories:** Latest News  
 
 Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.
