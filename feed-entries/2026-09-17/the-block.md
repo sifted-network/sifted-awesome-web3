@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-17"
 date: "2026-09-17"
 source: "The Block"
-count: 12
+count: 10
 ---
 
 # The Block - 2026-09-17
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ CEO Kris Marszalek said the company is also working with the SEC and CFTC to off
 Grayscale's Zach Pandl maintains bitcoin bottomed near $58,000 as the firm gives clients a "green light" to allocate.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-09-17-grayscales-pandl-still-sees-bitcoins-58k-low-as-the-bottom-gives-clients-green-light-415346)
-
----
-
-## 11. Bitwise CIO Hougan revises Clarity Act outlook, says crypto bull market may continue without legislation
-
-**Author:** James Hunt  
-**Published:** 9/17/2026, 10:19:55 AM  
-**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin, News  
-
-Bitcoin climbed above $80,000 in early September despite declining odds of the legislation passing this year, Hougan noted.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-17-bitwise-cio-hougan-revises-clarity-act-outlook-says-crypto-bull-market-may-continue-without-legislation-415339)
-
----
-
-## 12. South Korean police charge 26 Polymarket users for illegal gambling: report
-
-**Author:** Danny Park  
-**Published:** 9/17/2026, 6:12:50 AM  
-**Categories:** Policy, Regulation, News  
-
-The country blocked local access to Polymarket last month after its media regulator ruled that the platform offers illegal gambling.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-17-south-korean-police-charge-polymarket-users-415333)
 
 ---
