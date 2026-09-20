@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-17"
 date: "2026-09-17"
 source: "Cointelegraph"
-count: 7
+count: 5
 ---
 
 # Cointelegraph - 2026-09-17
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ CLARITY isn’t dead after failing a key Senate vote, but with time running shor
 Bitcoin made modest daily gains as US stocks saw upside in the aftermath of the US Federal Reserve’s first interest-rate hike since July 2023.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 9/17/2026, 3:58:33 PM  
-**Categories:** Latest News  
-
-Former Hut 8 CEO Jaime Leverton will take the helm at Fortitude as the Zcash-focused miner expands its operations and moves toward a planned public listing.
-
-📖 [Read original article](https://cointelegraph.com/news/former-hut-8-ceo-jaime-leverton-to-lead-zcash-miner-fortitude-ahead-of-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 9/17/2026, 1:35:57 PM  
-**Categories:** Latest News  
-
-Crypto.com’s CEO said its sister exchange was cleared to offer US access to single-stock perpetual futures, as the latest platform to bridge TradFi and digital assets.
-
-📖 [Read original article](https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
