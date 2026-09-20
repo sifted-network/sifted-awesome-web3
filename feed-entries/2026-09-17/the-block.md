@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-17"
 date: "2026-09-17"
 source: "The Block"
-count: 10
+count: 5
 ---
 
 # The Block - 2026-09-17
 
-10 items collected.
+5 items collected.
 
 ---
 
@@ -68,65 +68,5 @@ Software developers who build crypto trading tools just got some breathing room 
 Smith expects traditional financial markets to shift to 24/5 trading by mid-2027, requiring new blockchain infrastructure.
 
 📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-09-17-not-enough-block-space-avalanche-treasury-ceo-says-ai-agents-crunch-blockchain-capacity-415397)
-
----
-
-## 6. World launches ‘World Money’ super app with stablecoins, Stripe integration and boosted rewards
-
-**Author:** Jason Shubnell  
-**Published:** 9/17/2026, 3:06:58 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Finance firms, Web3, Payments, News  
-
-The self-custody app also plugs into Stripe, Kalshi, and Morpho, with World ID verification unlocking boosted rewards.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-17-world-launches-world-money-super-app-stablecoins-stripe-integration-boosted-rewards-415394)
-
----
-
-## 7. S&P Global agrees to acquire OpenZeppelin in onchain security push
-
-**Author:** James Hunt  
-**Published:** 9/17/2026, 1:32:01 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Deals, DeFi, Mergers & Acquisitions, Public Company Mergers and Acquisitions, Security Firms, News  
-
-OpenZeppelin will continue operating as a standalone business unit under S&P Global, with financial terms of the deal not disclosed.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-17-sp-global-agrees-to-acquire-openzeppelin-in-onchain-security-push-415360)
-
----
-
-## 8. It’s here — SEC releases long-awaited innovation exemption to ‘bring America’s capital markets into the digital age’
-
-**Author:** Sarah Wynn  
-**Published:** 9/17/2026, 1:00:00 PM  
-**Categories:** Policy, Regulation, SEC, News  
-
-The SEC released its 'innovation exemption,' positioning the measure as a response to the Senate's failure to advance crypto legislation.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-17-sec-releases-innovation-exemption-415324)
-
----
-
-## 9. Crypto.com registers with SEC for single-stock futures, plans US stock perps
-
-**Author:** James Hunt  
-**Published:** 9/17/2026, 12:41:53 PM  
-**Categories:** Companies, Policy, Regulation, News  
-
-CEO Kris Marszalek said the company is also working with the SEC and CFTC to offer single-stock perpetual futures in the U.S.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-17-crypto-com-registers-with-sec-for-single-stock-futures-plans-us-stock-perps-415355)
-
----
-
-## 10. Grayscale’s Pandl still sees bitcoin’s $58K low as the bottom, gives clients ‘green light’
-
-**Author:** Brian Danga  
-**Published:** 9/17/2026, 11:47:30 AM  
-**Categories:** Markets, News  
-
-Grayscale's Zach Pandl maintains bitcoin bottomed near $58,000 as the firm gives clients a "green light" to allocate.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-17-grayscales-pandl-still-sees-bitcoins-58k-low-as-the-bottom-gives-clients-green-light-415346)
 
 ---
