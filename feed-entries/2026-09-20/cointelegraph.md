@@ -35,7 +35,7 @@ At the close of trading on Sept. 28, shareholders will receive two extra shares 
 
 ---
 
-## 3. Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal
+## 3. Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 9/20/2026, 7:51:24 AM  
