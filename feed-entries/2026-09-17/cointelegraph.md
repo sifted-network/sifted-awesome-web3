@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-17"
 date: "2026-09-17"
 source: "Cointelegraph"
-count: 5
+count: 4
 ---
 
 # Cointelegraph - 2026-09-17
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ MoonPay plans to use WisdomTree’s $1.2 billion WTGXX tokenized fund as part of
 CLARITY isn’t dead after failing a key Senate vote, but with time running short and Democrats still demanding changes, its path forward is narrowing.
 
 📖 [Read original article](https://cointelegraph.com/magazine/is-there-any-chance-left-to-save-the-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/17/2026, 4:22:23 PM  
-**Categories:** Markets  
-
-Bitcoin made modest daily gains as US stocks saw upside in the aftermath of the US Federal Reserve’s first interest-rate hike since July 2023.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
