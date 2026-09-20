@@ -6,7 +6,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,556 | 2,281 | Rust | 13 | A based rollup protocol for Ethereum🥁  | 2026-09-18 |
+| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,556 | 2,281 | Rust | 13 | A based rollup protocol for Ethereum🥁  | 2026-09-19 |
 | 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,061 | 762 | Rust | 634 | The Stacks blockchain implementation | 2026-09-18 |
 | 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,551 | 332 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
 | 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,021 | 613 | - | 1895 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
@@ -32,7 +32,7 @@
 | 24 | [typescript-eth-starter](https://github.com/nezz0746/typescript-eth-starter) | 132 | 21 | TypeScript | 0 | 🔌 Ethereum Dapp Basic Typescript Starter | 2024-01-17 |
 | 25 | [xln](https://github.com/xlnfinance/xln) | 103 | 23 | TypeScript | 3 | 0.1 - Q1 2026. DRAFT xln: a credit+collateral netting-account L2 for all EVM and future CBDC jurisdictions—unicast O(1) per hop, link-capped risk, local state, sovereign exits. | 2026-09-04 |
 | 26 | [zklink-contracts](https://github.com/zkLinkProtocol/zklink-contracts) | 100 | 70 | Solidity | 6 | zklink core contract, EVM compatible. | 2026-08-05 |
-| 27 | [solid-grinder](https://github.com/Ratimon/solid-grinder) | 98 | 9 | Solidity | 0 | A 100% opensource CLI that goes along with building blocks of smart contract. This toolbox can reduce L2 gas cost by encoding calldata for dApps development to use as little bytes of calldata as possi... | 2025-02-08 |
+| 27 | [solid-grinder](https://github.com/Ratimon/solid-grinder) | 99 | 9 | Solidity | 0 | A 100% opensource CLI that goes along with building blocks of smart contract. This toolbox can reduce L2 gas cost by encoding calldata for dApps development to use as little bytes of calldata as possi... | 2025-02-08 |
 | 28 | [NFT-yield-farming](https://github.com/masaun/NFT-yield-farming) | 96 | 81 | JavaScript | 1 | This is a smart contract that enable a user to farm yield by staking LP tokens into a NFT pool. (on BSC testnet) | 2021-03-02 |
 | 29 | [OB_ReturnCabin](https://github.com/Orbiter-Finance/OB_ReturnCabin) | 90 | 35 | Solidity | 1 | Orbiter Finance smart contracts | 2024-11-05 |
 | 30 | [getmac](https://github.com/GhostofGoes/getmac) | 89 | 28 | Python | 26 | Platform-independent pure-Python module to get a MAC address | 2026-08-26 |
@@ -46,7 +46,7 @@
 | 38 | [docker-layer2-icc](https://github.com/brthor/docker-layer2-icc) | 66 | 6 | Python | 0 | Demonstrating that disabling ICC in docker does not block raw packets between containers. | 2018-02-21 |
 | 39 | [axon](https://github.com/axonweb3/axon) | 65 | 41 | Rust | 22 | Axon is a Layer 2 framework of CKB with native cross-chain and interoperability. | 2024-03-24 |
 | 40 | [go-ten](https://github.com/ten-protocol/go-ten) | 65 | 49 | Go | 18 | Official Golang implementation of the TEN protocol | 2026-06-15 |
-| 41 | [IbisWallet](https://github.com/aeonBTC/IbisWallet) | 65 | 5 | Kotlin | 2 | A self-custody Bitcoin wallet for Android with a focus on customizability, security, and privacy. | 2026-09-14 |
+| 41 | [IbisWallet](https://github.com/aeonBTC/IbisWallet) | 65 | 5 | Kotlin | 2 | A self-custody Bitcoin wallet for Android with a focus on customizability, security, and privacy. | 2026-09-20 |
 | 42 | [awesome-blockchain-scalability](https://github.com/lucadonnoh/awesome-blockchain-scalability) | 64 | 2 | - | 1 | A curated list of awesome resources about blockchain scalability | 2023-03-28 |
 | 43 | [kinto-core](https://github.com/KintoXYZ/kinto-core) | 63 | 38 | Solidity | 2 | Core Contracts of Kinto | 2025-10-24 |
 | 44 | [Web3](https://github.com/nemo-crypto/Web3) | 61 | 22 | - | 1 | Ethers.js、Web3.js、Connectwallet、量化策略、套利、区块链、币安、网格、跟单、撸羊毛、脚本、跨链桥、MPC钱包、铭文、符文、zk、Layer1 (基础公链)、Layer2 (扩容解决方案)、layer3、AI + Web3、DeFi 、GameFi、防夹、滑点、PumpFun、FourMeme、公链、钱包、流动性池子 | 2026-05-13 |
@@ -98,7 +98,7 @@
 | 90 | [arbitrum-claim-send](https://github.com/codeesura/arbitrum-claim-send) | 17 | 16 | JavaScript | 0 | This repo is designed to claim Arbitrum (ARB) tokens from a smart contract and send them to a specified recipient address. | 2023-05-22 |
 | 91 | [Track-Pharma](https://github.com/Adesdesk/Track-Pharma) | 17 | 9 | JavaScript | 0 | Track-Pharma is a blockchain-based pharmaceutical supply-chain management project by a collaborative effort of members of Team201. | 2023-08-10 |
 | 92 | [rewritecap](https://github.com/jordan2175/rewritecap) | 16 | 4 | Go | 0 | Tool for rebasing a PCAP file and editing layer2 and layer 3 addresses | 2020-12-30 |
-| 93 | [awesome-base](https://github.com/wbnns/awesome-base) | 16 | 67 | - | 6 | A list of Base ecosystem links including (d)apps, projects and more. Base is an Ethereum L2, incubated by Coinbase. | 2023-08-16 |
+| 93 | [awesome-base](https://github.com/wbnns/awesome-base) | 16 | 68 | - | 6 | A list of Base ecosystem links including (d)apps, projects and more. Base is an Ethereum L2, incubated by Coinbase. | 2023-08-16 |
 | 94 | [optimistic-L2](https://github.com/nitantchhajed/optimistic-L2) | 16 | 0 | Solidity | 0 | Making L2 chain, Optimistic/zkRollup (fraud proofs/L1-L2 data transfer/challenging/ etc) | 2023-02-14 |
 | 95 | [optimism-python](https://github.com/rafalum/optimism-python) | 16 | 0 | Python | 1 | Optimism-Python: Unofficial Python Client for the OP-Stack | 2024-11-01 |
 | 96 | [sirius](https://github.com/westarlabs/sirius) | 15 | 6 | Kotlin | 4 | a blockchain layer 2 protocol implementation | 2019-03-25 |
