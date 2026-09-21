@@ -2,16 +2,76 @@
 title: "Decrypt - 2026-09-21"
 date: "2026-09-21"
 source: "Decrypt"
-count: 9
+count: 14
 ---
 
 # Decrypt - 2026-09-21
 
-9 items collected.
+14 items collected.
 
 ---
 
-## 1. xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party
+## 1. X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/21/2026, 8:16:03 PM  
+**Categories:** , Law and Order  
+
+A lawsuit accuses UK users of running six coordinated accounts to pull at least $278,000 from X's now-defunct Creator Revenue Sharing Program.
+
+📖 [Read original article](https://decrypt.co/378877/x-sues-bitcoin-influencers-bot-army-creator-payout)
+
+---
+
+## 2. Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First
+
+**Author:** Jason Nelson  
+**Published:** 9/21/2026, 7:26:49 PM  
+**Categories:** Business  
+
+Eligible customers can request shares at the offering price, but allocations are not guaranteed.
+
+📖 [Read original article](https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura)
+
+---
+
+## 3. Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities
+
+**Author:** Jason Nelson  
+**Published:** 9/21/2026, 7:00:04 PM  
+**Categories:** , , Business  
+
+The central bank plans to buy euro-denominated public-sector debt and settle the transactions through its new Pontes service.
+
+📖 [Read original article](https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities)
+
+---
+
+## 4. What Is VVV? The Privacy-Obsessed AI Token That’s Up 3,000% in 2026
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/21/2026, 6:31:03 PM  
+**Categories:** , Coins  
+
+Venice (VVV) has clawed back from under a dollar to a record $34, and the pitch behind it is simple: an AI chatbot that promises to forget you the moment you close the tab.
+
+📖 [Read original article](https://decrypt.co/378840/what-is-vvv-privacy-ai-token-up-3000-percent-2026)
+
+---
+
+## 5. Can a Fruit Fly Brain Mine Bitcoin? These Companies Are Testing It
+
+**Author:** Jason Nelson  
+**Published:** 9/21/2026, 5:46:02 PM  
+**Categories:** , Technology  
+
+The HashFly browser experiment uses a digital neural model for Bitcoin hashing and projects greater efficiency from a hypothetical biological version.
+
+📖 [Read original article](https://decrypt.co/378836/fruit-fly-brain-mine-bitcoin-these-companies-testing)
+
+---
+
+## 6. xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/21/2026, 5:16:03 PM  
@@ -23,7 +83,7 @@ xAI says the new model is a "notable improvement" over Grok 4.6 at the same pric
 
 ---
 
-## 2. Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That
+## 7. Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That
 
 **Author:** Stephen Graves  
 **Published:** 9/21/2026, 4:46:03 PM  
@@ -35,7 +95,7 @@ Crypto advocates argue that NFTs can deliver real digital ownership, but privacy
 
 ---
 
-## 3. Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push
+## 8. Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push
 
 **Author:** Jason Nelson  
 **Published:** 9/21/2026, 4:16:03 PM  
@@ -47,7 +107,7 @@ The senior roles cover Apple’s consumer payment products and Google Cloud’s 
 
 ---
 
-## 4. Bitcoin Is Rallying Again—What Happens Next?
+## 9. Bitcoin Is Rallying Again—What Happens Next?
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/21/2026, 3:45:35 PM  
@@ -59,7 +119,7 @@ The rally cleared an eight-month ceiling on a short squeeze and falling oil pric
 
 ---
 
-## 5. Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'
+## 10. Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'
 
 **Author:** Decrypt Staff  
 **Published:** 9/21/2026, 3:00:49 PM  
@@ -71,7 +131,7 @@ The purchase lifts Bitmine's stash to nearly 5.99 million ETH—4.9% of supply�
 
 ---
 
-## 6. Morning Minute: Kevin O’Leary Calls for $1 Million Bitcoin, With an Asterisk
+## 11. Morning Minute: Kevin O’Leary Calls for $1 Million Bitcoin, With an Asterisk
 
 **Author:** Tyler Warner  
 **Published:** 9/21/2026, 2:33:03 PM  
@@ -83,7 +143,7 @@ Meanwhile, Bitcoin pushed up to $85,000 and a new local high and altcoins soared
 
 ---
 
-## 7. Strategy's Bitcoin Pile Nears June Record After $76M Purchase
+## 12. Strategy's Bitcoin Pile Nears June Record After $76M Purchase
 
 **Author:** Decrypt Agent  
 **Published:** 9/21/2026, 12:56:46 PM  
@@ -95,7 +155,7 @@ The Bitcoin treasury firm’s holdings bottomed at 840,447 BTC in August. They h
 
 ---
 
-## 8. Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated
+## 13. Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated
 
 **Author:** Decrypt Agent  
 **Published:** 9/21/2026, 12:22:00 PM  
@@ -107,7 +167,7 @@ A short squeeze started the move, but spot buyers have sustained it, and one mea
 
 ---
 
-## 9. Crypto Worker's Children Held Hostage in Latest French ‘Wrench Attack,’ $46,000 Taken
+## 14. Crypto Worker's Children Held Hostage in Latest French ‘Wrench Attack,’ $46,000 Taken
 
 **Author:** Decrypt Agent  
 **Published:** 9/21/2026, 9:51:24 AM  
