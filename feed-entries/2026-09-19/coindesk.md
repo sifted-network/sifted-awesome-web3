@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-19"
 date: "2026-09-19"
 source: "CoinDesk"
-count: 4
+count: 2
 ---
 
 # CoinDesk - 2026-09-19
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ U.S. agencies are racing to substitute their regulations for the law that was me
 Marc van der Chijs sold much of his bitcoin to invest in AI. Now, growing concerns about the technology accompany a move to put some profits back into crypto.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks)
-
----
-
-## 3. Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade
-
-**Author:** Shaurya Malwa  
-**Published:** 9/19/2026, 1:39:15 PM  
-**Categories:** Tech, News  
-
-The upcoming Batch V1.1 can make linked asset and payment transfers succeed together or fail together, and Ripple says commercial projects are already being built around the feature after an extensive security review.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade)
-
----
-
-## 4. 'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary
-
-**Author:** Stephen Alpher  
-**Published:** 9/19/2026, 12:13:57 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix," wrote Jason Calacanis.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary)
 
 ---
