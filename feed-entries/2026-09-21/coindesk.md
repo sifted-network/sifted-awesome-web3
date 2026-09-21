@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-09-21"
 date: "2026-09-21"
 source: "CoinDesk"
-count: 18
+count: 20
 ---
 
 # CoinDesk - 2026-09-21
 
-18 items collected.
+20 items collected.
 
 ---
 
-## 1. Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid
+## 1. Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building
+
+**Author:** Krisztian Sandor,Helene Braun  
+**Published:** 9/21/2026, 8:39:39 PM  
+**Categories:** Markets, Market Wrap, Bitcoin News, News  
+
+Bitcoin has broken out to $86,000, but analysts say the next leg depends on whether spot buyers continue to show up as leverage builds.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building)
+
+---
+
+## 2. Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules
+
+**Author:** Helene Braun,AI Boost  
+**Published:** 9/21/2026, 7:08:40 PM  
+**Categories:** Markets, Tokenization, News  
+
+TD Cowen expects limited demand for tokenized stocks despite new SEC rules opening a path for trading outside traditional markets.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules)
+
+---
+
+## 3. Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid
 
 **Author:** Jesse Hamilton  
 **Published:** 9/21/2026, 4:01:36 PM  
@@ -23,7 +47,7 @@ It's the biggest spending from the industry's campaign arm in 2026, much like Fa
 
 ---
 
-## 2. ECB plans to buy tokenized bonds with its own funds
+## 4. ECB plans to buy tokenized bonds with its own funds
 
 **Author:** Olivier Acuna  
 **Published:** 9/21/2026, 3:00:47 PM  
@@ -35,7 +59,7 @@ The European Central Bank rolled out a new system to link its payment system to 
 
 ---
 
-## 3. Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act
+## 5. Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act
 
 **Author:** Olivier Acuna  
 **Published:** 9/21/2026, 2:53:52 PM  
@@ -47,7 +71,7 @@ One expert believes that the failure to pass the bill is a win for the banks tha
 
 ---
 
-## 4. Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto
+## 6. Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto
 
 **Author:** Krisztian Sandor  
 **Published:** 9/21/2026, 1:11:15 PM  
@@ -59,7 +83,7 @@ The largest Ethereum-centric treasury firm kept buying, while its chairman argue
 
 ---
 
-## 5. Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins
+## 7. Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins
 
 **Author:** James Van Straten  
 **Published:** 9/21/2026, 12:44:33 PM  
@@ -71,7 +95,7 @@ Bessent pushed back against a bearish assessment of the U.S. economy highlightin
 
 ---
 
-## 6. Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails
+## 8. Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails
 
 **Author:** Olivier Acuna  
 **Published:** 9/21/2026, 12:17:48 PM  
@@ -83,7 +107,7 @@ The tech giants’ job listings could indicate that they are separately pursuing
 
 ---
 
-## 7. Strategy returns to bitcoin buys, adding $75 million of BTC last week
+## 9. Strategy returns to bitcoin buys, adding $75 million of BTC last week
 
 **Author:** James Van Straten  
 **Published:** 9/21/2026, 12:08:02 PM  
@@ -95,7 +119,7 @@ It's the first week of bitcoin purchases for Strategy in about three weeks.
 
 ---
 
-## 8. Bitcoin's 44% gain in third quarter teases full-blown crypto bull run
+## 10. Bitcoin's 44% gain in third quarter teases full-blown crypto bull run
 
 **Author:** Omkar Godbole  
 **Published:** 9/21/2026, 11:36:11 AM  
@@ -107,7 +131,7 @@ Your day-ahead look for Sept. 21, 2026
 
 ---
 
-## 9. Perp futures linked to 'bitcoin VIX' debut on Hyperliquid
+## 11. Perp futures linked to 'bitcoin VIX' debut on Hyperliquid
 
 **Author:** Omkar Godbole  
 **Published:** 9/21/2026, 11:30:00 AM  
@@ -119,7 +143,7 @@ Deployed via Kinetiq's Markets frontend and led by Volmex CEO Cole Kennelly, Hyp
 
 ---
 
-## 10. ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money
+## 12. ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money
 
 **Author:** Olivier Acuna  
 **Published:** 9/21/2026, 11:18:55 AM  
@@ -131,7 +155,7 @@ The EU central bank's new wholesale platform connects DLT market infrastructure 
 
 ---
 
-## 11. Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets
+## 13. Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 9/21/2026, 10:30:00 AM  
@@ -143,7 +167,7 @@ Open interest climbed 7.59% to $156 billion even as positions were closed out, a
 
 ---
 
-## 12. X sues its own users for running a fake bitcoin news bot farm
+## 14. X sues its own users for running a fake bitcoin news bot farm
 
 **Author:** Omkar Godbole  
 **Published:** 9/21/2026, 10:15:44 AM  
@@ -155,7 +179,7 @@ X has sued Vivek Kumar Sen and Zmyang Sherpa for running fake bitcoin headline a
 
 ---
 
-## 13. Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead
+## 15. Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 9/21/2026, 9:12:42 AM  
@@ -167,7 +191,7 @@ Your look at what's coming in the week starting Sept. 21.
 
 ---
 
-## 14. Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain
+## 16. Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain
 
 **Author:** Olivier Acuna  
 **Published:** 9/21/2026, 8:49:59 AM  
@@ -179,7 +203,7 @@ South Korea's second-largest bank’s $100 million foreign-currency bond blockch
 
 ---
 
-## 15. Live updates: Bitcoin tops $86,000, while Saylor returns to BTC buying
+## 17. Live updates: Bitcoin hits $87,000, while traders pile into leveraged bets
 
 **Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Helene Braun,Krisztian Sandor  
 **Published:** 9/21/2026, 8:39:26 AM  
@@ -191,7 +215,7 @@ Crypto majors climbed alongside equity futures on Monday, with Monero's XMR up 1
 
 ---
 
-## 16. Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades
+## 18. Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades
 
 **Author:** Omkar Godbole  
 **Published:** 9/21/2026, 6:20:47 AM  
@@ -203,7 +227,7 @@ A trader alleged on X that Kalshi is inflating trading volumes in its ether perp
 
 ---
 
-## 17. Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic
+## 19. Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic
 
 **Author:** Shaurya Malwa  
 **Published:** 9/21/2026, 4:03:43 AM  
@@ -215,7 +239,7 @@ Bitcoin extended a slow climb through the Asian session while regional equities 
 
 ---
 
-## 18. Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs
+## 20. Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 9/21/2026, 3:56:23 AM  
