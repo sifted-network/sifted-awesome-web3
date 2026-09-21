@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-09-21"
 date: "2026-09-21"
 source: "Cointelegraph"
-count: 15
+count: 18
 ---
 
 # Cointelegraph - 2026-09-21
 
-15 items collected.
+18 items collected.
 
 ---
 
-## 1. Circle launches Bitcoin-backed USDC borrowing for institutional clients
+## 1. Saudi Arabia exits China-backed mBridge CBDC project: FT
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/21/2026, 8:37:15 PM  
+**Categories:** Latest News  
+
+Saudi Arabia has left mBridge, a cross-border CBDC platform that has drawn scrutiny from US policymakers, according to the Financial Times.
+
+📖 [Read original article](https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 9/21/2026, 7:53:04 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Ondo lets institutions convert stocks directly into tokenized shares
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/21/2026, 6:35:43 PM  
+**Categories:** Latest News  
+
+Ondo’s new in-kind conversion system allows approved institutions to mint and redeem tokenized stocks and ETFs using the underlying securities instead of cash.
+
+📖 [Read original article](https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/21/2026, 6:15:22 PM  
+**Categories:** Latest News  
+
+The digital asset-aligned PAC joined other groups to spend more than a combined $300 million in the 2024 Ohio Senate race, resulting in Sherrod Brown’s loss to Bernie Moreno.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Circle launches Bitcoin-backed USDC borrowing for institutional clients
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/21/2026, 4:56:53 PM  
@@ -23,7 +71,7 @@ Circle is bringing Bitcoin-backed borrowing to institutional clients, allowing t
 
 ---
 
-## 2. Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’
+## 6. Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/21/2026, 4:39:40 PM  
@@ -35,7 +83,7 @@ Bitcoin crossed the $86,000 mark for the first time since late January as fallin
 
 ---
 
-## 3. Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight
+## 7. Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/21/2026, 3:08:17 PM  
@@ -47,7 +95,7 @@ Coinbase draws scrutiny after the CLARITY Act stalls, while the SEC moves ahead 
 
 ---
 
-## 4. Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH
+## 8. Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/21/2026, 1:30:00 PM  
@@ -59,7 +107,7 @@ Multicoin Capital co-founder Samani expects SOL to surpass Ether’s market capi
 
 ---
 
-## 5. Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC
+## 9. Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/21/2026, 12:48:21 PM  
@@ -71,7 +119,7 @@ Strategy bought 950 Bitcoin for $75.7 million after a two-week pause and spent a
 
 ---
 
-## 6. ECB launches Pontes to settle tokenized assets without stablecoins
+## 10. ECB launches Pontes to settle tokenized assets without stablecoins
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/21/2026, 11:27:00 AM  
@@ -83,7 +131,7 @@ Pontes will expand its services and operating hours gradually, with full impleme
 
 ---
 
-## 7. NEAR jumps nearly 80% in a week as Intents volume nears $30B
+## 11. NEAR jumps nearly 80% in a week as Intents volume nears $30B
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/21/2026, 10:52:35 AM  
@@ -95,7 +143,7 @@ Near expanded privacy features for traders as NEAR Intents recorded $29.3 billio
 
 ---
 
-## 8. BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week
+## 12. BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/21/2026, 10:15:51 AM  
@@ -107,7 +155,7 @@ Bitcoin hit $85,000 for the first time since January as markets focused on cooli
 
 ---
 
-## 9. X sues Bitcoin account operators over alleged $278K payout fraud
+## 13. X sues Bitcoin account operators over alleged $278K payout fraud
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/21/2026, 9:35:25 AM  
@@ -119,7 +167,7 @@ X alleges six Bitcoin-focused accounts coordinated posts and engagement to infla
 
 ---
 
-## 10. ZetaChain holders approve plan to wind down L1, move ZETA to Solana
+## 14. ZetaChain holders approve plan to wind down L1, move ZETA to Solana
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/21/2026, 7:31:47 AM  
@@ -131,7 +179,7 @@ ZetaChain plans to wind down its Cosmos-based layer 1 and migrate ZETA to Solana
 
 ---
 
-## 11. Bank of Korea launches 24-hour won settlement pilot for foreign investors
+## 15. Bank of Korea launches 24-hour won settlement pilot for foreign investors
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/21/2026, 6:41:23 AM  
@@ -143,19 +191,7 @@ The Bank of Korea’s new network will let foreign investors settle won transact
 
 ---
 
-## 12. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/21/2026, 4:44:48 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Bitcoin reclaims 50-week moving average as analysts eye end of bear market
+## 16. Bitcoin reclaims 50-week moving average as analysts eye end of bear market
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/21/2026, 4:29:59 AM  
@@ -167,7 +203,7 @@ Bitcoin’s move above its 50-week moving average has historically marked the en
 
 ---
 
-## 14. Hana Bank taps Euroclear blockchain for $100M bond issuance: Report
+## 17. Hana Bank taps Euroclear blockchain for $100M bond issuance: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/21/2026, 4:27:32 AM  
@@ -179,7 +215,7 @@ The five-year digital bond reportedly shortened settlement from three to five bu
 
 ---
 
-## 15. North Korean fake recruiters infect 30K devices, steal $10.7M in crypto
+## 18. North Korean fake recruiters infect 30K devices, steal $10.7M in crypto
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/21/2026, 1:42:53 AM  
