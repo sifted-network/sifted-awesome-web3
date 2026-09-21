@@ -2,16 +2,88 @@
 title: "Cointelegraph - 2026-09-21"
 date: "2026-09-21"
 source: "Cointelegraph"
-count: 9
+count: 15
 ---
 
 # Cointelegraph - 2026-09-21
 
-9 items collected.
+15 items collected.
 
 ---
 
-## 1. NEAR jumps nearly 80% in a week as Intents volume nears $30B
+## 1. Circle launches Bitcoin-backed USDC borrowing for institutional clients
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/21/2026, 4:56:53 PM  
+**Categories:** Latest News  
+
+Circle is bringing Bitcoin-backed borrowing to institutional clients, allowing them to tap BTC holdings for USDC liquidity without selling their Bitcoin.
+
+📖 [Read original article](https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 9/21/2026, 4:39:40 PM  
+**Categories:** Markets  
+
+Bitcoin crossed the $86,000 mark for the first time since late January as falling oil prices and concerns over supply lifted US stocks.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 9/21/2026, 3:08:17 PM  
+**Categories:** Latest News  
+
+Coinbase draws scrutiny after the CLARITY Act stalls, while the SEC moves ahead with tokenized stocks and crypto firms push deeper into payments.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 9/21/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+Multicoin Capital co-founder Samani expects SOL to surpass Ether’s market capitalization “this market cycle” and argues that “today, no one really uses Ethereum.”
+
+📖 [Read original article](https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 9/21/2026, 12:48:21 PM  
+**Categories:** Latest News  
+
+Strategy bought 950 Bitcoin for $75.7 million after a two-week pause and spent another $174 million repurchasing its STRC preferred stock.
+
+📖 [Read original article](https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. ECB launches Pontes to settle tokenized assets without stablecoins
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 9/21/2026, 11:27:00 AM  
+**Categories:** Latest News  
+
+Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.
+
+📖 [Read original article](https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. NEAR jumps nearly 80% in a week as Intents volume nears $30B
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/21/2026, 10:52:35 AM  
@@ -23,7 +95,7 @@ Near expanded privacy features for traders as NEAR Intents recorded $29.3 billio
 
 ---
 
-## 2. BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week
+## 8. BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/21/2026, 10:15:51 AM  
@@ -35,7 +107,7 @@ Bitcoin hit $85,000 for the first time since January as markets focused on cooli
 
 ---
 
-## 3. X sues Bitcoin account operators over alleged $278K payout fraud
+## 9. X sues Bitcoin account operators over alleged $278K payout fraud
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/21/2026, 9:35:25 AM  
@@ -47,7 +119,7 @@ X alleges six Bitcoin-focused accounts coordinated posts and engagement to infla
 
 ---
 
-## 4. ZetaChain holders approve plan to wind down L1, move ZETA to Solana
+## 10. ZetaChain holders approve plan to wind down L1, move ZETA to Solana
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/21/2026, 7:31:47 AM  
@@ -59,7 +131,7 @@ ZetaChain plans to wind down its Cosmos-based layer 1 and migrate ZETA to Solana
 
 ---
 
-## 5. Bank of Korea launches 24-hour won settlement pilot for foreign investors
+## 11. Bank of Korea launches 24-hour won settlement pilot for foreign investors
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/21/2026, 6:41:23 AM  
@@ -71,9 +143,9 @@ The Bank of Korea’s new network will let foreign investors settle won transact
 
 ---
 
-## 6. Here’s what happened in crypto today
+## 12. Here’s what happened in crypto today
 
-**Author:** Cointelegraph by Felix Ng  
+**Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/21/2026, 4:44:48 AM  
 **Categories:** Latest News  
 
@@ -83,7 +155,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 7. Bitcoin reclaims 50-week moving average as analysts eye end of bear market
+## 13. Bitcoin reclaims 50-week moving average as analysts eye end of bear market
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/21/2026, 4:29:59 AM  
@@ -95,7 +167,7 @@ Bitcoin’s move above its 50-week moving average has historically marked the en
 
 ---
 
-## 8. Hana Bank taps Euroclear blockchain for $100M bond issuance: Report
+## 14. Hana Bank taps Euroclear blockchain for $100M bond issuance: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/21/2026, 4:27:32 AM  
@@ -107,7 +179,7 @@ The five-year digital bond reportedly shortened settlement from three to five bu
 
 ---
 
-## 9. North Korean fake recruiters infect 30K devices, steal $10.7M in crypto
+## 15. North Korean fake recruiters infect 30K devices, steal $10.7M in crypto
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/21/2026, 1:42:53 AM  
