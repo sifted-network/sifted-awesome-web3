@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-09-20"
 date: "2026-09-20"
 source: "Cointelegraph"
-count: 3
+count: 4
 ---
 
 # Cointelegraph - 2026-09-20
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Trump says US will form ‘AI Force’ and appoint AI czar: Reports
+## 1. Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 9/20/2026, 11:37:39 PM  
+**Categories:** Magazine  
+
+Crypto missed out CLARITY, but tokenized stocks were legalized and the Bitcoin Reserve advanced. Meanwhile Standard Chartered says Arbitrum’s price could increase 70 times by 2030.
+
+📖 [Read original article](https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Trump says US will form ‘AI Force’ and appoint AI czar: Reports
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 9/20/2026, 12:00:52 PM  
@@ -23,7 +35,7 @@ Trump posted on Truth Social that his new project would manage the fast-growing 
 
 ---
 
-## 2. Grayscale’s Zcash ETF files for 3-for-1 forward share split
+## 3. Grayscale’s Zcash ETF files for 3-for-1 forward share split
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 9/20/2026, 9:14:27 AM  
@@ -35,7 +47,7 @@ At the close of trading on Sept. 28, shareholders will receive two extra shares 
 
 ---
 
-## 3. Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal
+## 4. Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 9/20/2026, 7:51:24 AM  
