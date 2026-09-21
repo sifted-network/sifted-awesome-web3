@@ -11,7 +11,7 @@ count: 2
 
 ---
 
-## 1. Visa Moves to Close Meme Coin Credit Card Rewards Loophole
+## 1. Visa Moves to Close Meme Coin Credit Card Rewards Loophole: Source
 
 **Author:** EleanorTerrett  
 **Published:** 9/20/2026, 4:01:03 PM  
