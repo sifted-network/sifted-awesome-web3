@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-18"
 date: "2026-09-18"
 source: "The Block"
-count: 6
+count: 4
 ---
 
 # The Block - 2026-09-18
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ Cooper described a close working relationship with NYSE parent ICE but did not s
 The Commodity Futures Trading Commission isn't sitting idle — the agency has sent its crypto rulemaking to the White House for review.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-18-cftc-files-crypto-asset-rulemaking-with-white-house-pressing-ahead-without-congress-415510)
-
----
-
-## 5. Kevin O’Leary is buying crypto again, says major stock exchange adoption is the ‘watershed moment’ to watch
-
-**Author:** Brian Danga  
-**Published:** 9/18/2026, 10:08:42 AM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin, News  
-
-Kevin O'Leary says he is buying crypto again and watching for a major stock exchange to adopt a blockchain network.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-18-kevin-oleary-is-buying-crypto-again-says-major-stock-exchange-adoption-is-the-watershed-moment-to-watch-415491)
-
----
-
-## 6. Stablecoin payments firm dtcpay closes $25 million Series A with SBI Group investment
-
-**Author:** Timmy Shen  
-**Published:** 9/18/2026, 5:29:10 AM  
-**Categories:** Companies, News  
-
-The fresh capital enables it to scale product suite and merchant network, including a revamped business portal for enterprise clients.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-18-dtcpay-series-a-sbi-group-415483)
 
 ---
