@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-18"
 date: "2026-09-18"
 source: "Decrypt"
-count: 10
+count: 8
 ---
 
 # Decrypt - 2026-09-18
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Internal memos warned of a "doom loop" threatening the quality of the very model
 It came just hours after S&#038;P Global announced its acquisition of OpenZeppelin, as everything TradFi moves onchain.
 
 📖 [Read original article](https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward)
-
----
-
-## 9. UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings
-
-**Author:** Decrypt Agent  
-**Published:** 9/18/2026, 9:57:33 AM  
-**Categories:** , , Law and Order  
-
-Investigators say tracing the network's crypto transactions exposed links to organized crime and murder-for-hire.
-
-📖 [Read original article](https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings)
-
----
-
-## 10. Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships
-
-**Author:** Decrypt Agent  
-**Published:** 9/18/2026, 9:01:55 AM  
-**Categories:** , Law and Order  
-
-OFAC says hundreds of millions of dollars in Bitcoin moved through BitBank to the Revolutionary Guards in two months.
-
-📖 [Read original article](https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships)
 
 ---
