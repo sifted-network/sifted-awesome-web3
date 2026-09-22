@@ -2,16 +2,40 @@
 title: "The Block - 2026-09-22"
 date: "2026-09-22"
 source: "The Block"
-count: 8
+count: 10
 ---
 
 # The Block - 2026-09-22
 
-8 items collected.
+10 items collected.
 
 ---
 
-## 1. Coinbase adds fixed-rate bitcoin-backed loans through Morpho Midnight
+## 1. Coinbase, Circle shares positioned for crypto recovery as estimates stabilize: William Blair
+
+**Author:** Jason Shubnell  
+**Published:** 9/22/2026, 6:44:53 PM  
+**Categories:** Companies, Crypto Ecosystems, Equities, Exchanges, Markets, Public Equities, Stablecoins, Token Projects, Analyst Reports, Coinbase, USDC, News  
+
+Blair says COIN offers an attractive entry after a 31% rise, trims its EBITDA estimate and sees USDC growth driving Circle's next leg.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-09-22-coinbase-circle-shares-positioned-crypto-recovery-estimates-stabilize-william-blair-416083)
+
+---
+
+## 2. Solo GP Jed Breed raises $15 million for his second early-stage crypto fund
+
+**Author:** Yogita Khatri  
+**Published:** 9/22/2026, 4:15:02 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Venture Capital, Web3, exclusive, New VC Funds, News  
+
+Breed VC has raised $15 million for its second crypto fund. Backers include FalconX, Nic Carter, Rob Hadick and Jake Brukhman.
+
+📖 [Read original article](https://www.theblock.co/news/deals/2026-09-22-jed-breed-vc-second-crypto-fund-416075)
+
+---
+
+## 3. Coinbase adds fixed-rate bitcoin-backed loans through Morpho Midnight
 
 **Author:** Yogita Khatri  
 **Published:** 9/22/2026, 2:13:20 PM  
@@ -23,7 +47,7 @@ Coinbase has added fixed-rate loans through Morpho Midnight, letting users borro
 
 ---
 
-## 2. CME adds Bitcoin Cash and Uniswap futures as crypto derivatives push grows
+## 4. CME adds Bitcoin Cash and Uniswap futures as crypto derivatives push grows
 
 **Author:** Jason Shubnell  
 **Published:** 9/22/2026, 1:56:11 PM  
@@ -35,7 +59,7 @@ The exchange will offer standard and Micro contracts, covering 250 BCH and 25 BC
 
 ---
 
-## 3. Binance takes $100 million Circle stake alongside five-year USDC deal
+## 5. Binance takes $100 million Circle stake alongside five-year USDC deal
 
 **Author:** Brian Danga  
 **Published:** 9/22/2026, 12:53:52 PM  
@@ -47,7 +71,7 @@ The exchange also expanded its USDC partnership with Circle, agreeing to promote
 
 ---
 
-## 4. SoFi begins stablecoin settlement on Mastercard network for program expected to exceed $25 billion in annualized volume
+## 6. SoFi begins stablecoin settlement on Mastercard network for program expected to exceed $25 billion in annualized volume
 
 **Author:** James Hunt  
 **Published:** 9/22/2026, 12:00:00 PM  
@@ -59,7 +83,7 @@ SoFi launches live SoFiUSD stablecoin settlement on Mastercard's network, with i
 
 ---
 
-## 5. Bernstein sees annual prediction market volumes hitting $10 trillion by 2035 as financial assets overtake sports
+## 7. Bernstein sees annual prediction market volumes hitting $10 trillion by 2035 as financial assets overtake sports
 
 **Author:** Brian Danga  
 **Published:** 9/22/2026, 10:56:05 AM  
@@ -71,7 +95,7 @@ Bernstein projects global prediction market volume will hit $10 trillion by 2035
 
 ---
 
-## 6. Spot bitcoin ETFs attract nearly $1 billion in largest daily inflow in 11 months
+## 8. Spot bitcoin ETFs attract nearly $1 billion in largest daily inflow in 11 months
 
 **Author:** Timmy Shen  
 **Published:** 9/22/2026, 7:44:17 AM  
@@ -83,7 +107,7 @@ US spot bitcoin ETFs saw $999 million in net inflows on Monday, the largest sing
 
 ---
 
-## 7. Onchain prediction market Trueo migrates to Ethereum; Vitalik Buterin welcomes ‘ethical’ market contender
+## 9. Onchain prediction market Trueo migrates to Ethereum; Vitalik Buterin welcomes ‘ethical’ market contender
 
 **Author:** Danny Park  
 **Published:** 9/22/2026, 6:01:24 AM  
@@ -95,7 +119,7 @@ Vitalik Buterin touted Trueo as a strong prediction market contender that is dec
 
 ---
 
-## 8. Animoca Brands suspends merger deal that would have taken it public
+## 10. Animoca Brands suspends merger deal that would have taken it public
 
 **Author:** Timmy Shen  
 **Published:** 9/22/2026, 2:46:02 AM  
