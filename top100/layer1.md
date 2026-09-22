@@ -26,7 +26,7 @@
 | 18 | [shardeum-docs](https://github.com/shardeum/shardeum-docs) | 14 | 9 | MDX | 0 | Official Shardeum Documentation | 2026-09-19 |
 | 19 | [Acki-Nacki](https://github.com/MeoMunDep/Acki-Nacki) | 12 | 0 | Shell | 0 | Auto farm, do tasks, update mamaboard, claim frens points, claim boost points. | 2026-06-15 |
 | 20 | [Injective](https://github.com/MeoMunDep/Injective) | 11 | 0 | - | 0 | Auto stake, swap, wrap, supply, withdraw, borrow, repay, add liquidity. [FOR SALE] | 2025-12-23 |
-| 21 | [QNet-Blockchain](https://github.com/AIQnetLab/QNet-Blockchain) | 10 | 0 | Rust | 0 | Post-Quantum Decentralized Network | 2026-09-20 |
+| 21 | [QNet-Blockchain](https://github.com/AIQnetLab/QNet-Blockchain) | 10 | 0 | Rust | 0 | Post-Quantum Decentralized Network | 2026-09-22 |
 | 22 | [Layer1](https://github.com/anyashechka/Layer1) | 9 | 0 | - | 0 |  | 2024-06-06 |
 | 23 | [MegaETH](https://github.com/MeoMunDep/MegaETH) | 9 | 0 | JavaScript | 0 | Auto all. | 2025-06-03 |
 | 24 | [safrochain-node](https://github.com/Safrochain-Org/safrochain-node) | 8 | 10 | Go | 2 | Safrochain-node is the core Cosmos SDK-based Layer1 blockchain. | 2026-07-15 |
@@ -39,16 +39,16 @@
 | 31 | [BTGS](https://github.com/BTGSCOINDEV/BTGS) | 6 | 6 | C++ | 0 | BITCOIN GOLD "BTGS" | 2026-08-21 |
 | 32 | [Exorde](https://github.com/xplanx/Exorde) | 6 | 0 | - | 0 | Exorde is the web3 protocol that empowers developers to crawl and link all public data on the web. | 2023-05-24 |
 | 33 | [ferrous](https://github.com/ChronoCoders/ferrous) | 6 | 1 | Rust | 0 | A Rust-built Layer 1 blockchain with RandomX PoW, BIP39 wallets, Shamir recovery, and post-quantum signatures. | 2026-07-04 |
-| 34 | [Linea-Guide](https://github.com/farman-haris/Linea-Guide) | 6 | 0 | - | 0 |  | 2024-04-02 |
-| 35 | [nexawallet](https://github.com/efeint01/nexawallet) | 5 | 2 | Java | 0 | A rich native android wallet app to store your nexa coins in one place | 2023-11-01 |
-| 36 | [codename-phoenix](https://github.com/CloakProject/codename-phoenix) | 5 | 3 | C++ | 25 | New CloakCoin wallet base, Bitcoin fork 0.21.1 | 2024-01-09 |
-| 37 | [pcoin](https://github.com/pars5555/pcoin) | 5 | 0 | C++ | 5 | PCoin (PCN) - the coin anyone can mine. Independent Layer-1 blockchain: Bitcoin Core fork with RandomX CPU-friendly proof of work. | 2026-09-21 |
+| 34 | [pcoin](https://github.com/pars5555/pcoin) | 6 | 0 | C++ | 5 | PCoin (PCN) - the coin anyone can mine. Independent Layer-1 blockchain: Bitcoin Core fork with RandomX CPU-friendly proof of work. | 2026-09-21 |
+| 35 | [Linea-Guide](https://github.com/farman-haris/Linea-Guide) | 6 | 0 | - | 0 |  | 2024-04-02 |
+| 36 | [nexawallet](https://github.com/efeint01/nexawallet) | 5 | 2 | Java | 0 | A rich native android wallet app to store your nexa coins in one place | 2023-11-01 |
+| 37 | [codename-phoenix](https://github.com/CloakProject/codename-phoenix) | 5 | 3 | C++ | 25 | New CloakCoin wallet base, Bitcoin fork 0.21.1 | 2024-01-09 |
 | 38 | [howcryptoworksbook-kr](https://github.com/gtg7784/howcryptoworksbook-kr) | 5 | 2 | - | 0 | This is Korean version of https://github.com/lawmaster10/howcryptoworksbook (Fully automated maintained by claude) | 2026-03-15 |
 | 39 | [registry](https://github.com/laincloud/registry) | 4 | 6 | Python | 0 | Registry is for image storage in LAIN | 2018-11-07 |
 | 40 | [vcs_layer1](https://github.com/pumaddd/vcs_layer1) | 4 | 1 | C++ | 0 | sdr for gsm interception - viettel cyber security layer1 | 2020-11-09 |
 | 41 | [aureus-core](https://github.com/sipherapex/aureus-core) | 4 | 1 | C++ | 0 | Initial commit of Aureus Core source code | 2026-04-26 |
 | 42 | [nuklai-js-sdk](https://github.com/Nuklai/nuklai-js-sdk) | 4 | 0 | TypeScript | 8 | The Nuklai SDK provides a modular and comprehensive interface for interacting with the Nuklai blockchain.  | 2025-01-07 |
-| 43 | [website](https://github.com/feelyourprotocol/website) | 4 | 0 | Solidity | 1 | Ethereum Protocol Explorations Website | 2026-09-18 |
+| 43 | [website](https://github.com/feelyourprotocol/website) | 4 | 0 | Solidity | 2 | Ethereum Protocol Explorations Website | 2026-09-21 |
 | 44 | [Algorand-Pak-Fellowship-Training](https://github.com/Graphfied/Algorand-Pak-Fellowship-Training) | 4 | 0 | Python | 0 | A complete guide for Blockchain Development specifically for ALGORAND | 2025-10-18 |
 | 45 | [Doma-Testnet](https://github.com/MeoMunDep/Doma-Testnet) | 4 | 0 | Shell | 0 | Auto bridge, faucet, swap tokens.  | 2025-12-20 |
 | 46 | [webrouter](https://github.com/laincloud/webrouter) | 3 | 8 | Python | 0 | A layer 1 application for routing http(s) requests of LAIN's web applications | 2018-02-27 |
@@ -59,8 +59,8 @@
 | 51 | [Phantasma-Hub](https://github.com/phantasma-io-archive/Phantasma-Hub) | 3 | 9 | Svelte | 0 | Phantasma Hub is a power full to for Dapp Developers in the PhantasmaChain, that allows users test, vote and do everything they want. | 2024-03-04 |
 | 52 | [curs3d](https://github.com/Pazificateur69/curs3d) | 3 | 0 | Rust | 0 | Quantum-resistant Layer 1 blockchain written from scratch in Rust. CRYSTALS-Dilithium 5, BFT PoS, WASM smart contracts, EIP-1559 fees. 209 tests, MIT License. | 2026-05-22 |
 | 53 | [SILVR](https://github.com/him-SILVR/SILVR) | 3 | 1 | C | 0 | SILVR \| Custom Layer-1 blockchain in C. SHA-256d PoW. No ICO. No fork. The People's Chain. Chain ID 2026. | 2026-06-09 |
-| 54 | [aethelred](https://github.com/aethelred-foundation/aethelred) | 3 | 1 | Rust | 0 | Canonical monorepo for the Aethelred protocol, security baselines, and public release provenance. | 2026-08-27 |
-| 55 | [Matrix-Mining](https://github.com/drMurlly/Matrix-Mining) | 3 | 0 | Shell | 0 | Manage multiple MATRIX AI NETWORK mining masternodes on one machine with Docker. | 2024-09-15 |
+| 54 | [Matrix-Mining](https://github.com/drMurlly/Matrix-Mining) | 3 | 0 | Shell | 0 | Manage multiple MATRIX AI NETWORK mining masternodes on one machine with Docker. | 2024-09-15 |
+| 55 | [aethelred](https://github.com/aethelred-foundation/aethelred) | 3 | 1 | Rust | 0 | Canonical monorepo for the Aethelred protocol, security baselines, and public release provenance. | 2026-08-27 |
 | 56 | [Chui](https://github.com/ChuiNetwork/Chui) | 3 | 1 | Rust | 0 | Core Blockchain - consensus and algorithms to run the network. Chui is a hard fork of solana.  | 2024-01-16 |
 | 57 | [rampage](https://github.com/RampageRPM1/rampage) | 3 | 0 | Go | 0 | Rampage L1 – censorship-resistant truth engine | 2026-06-09 |
 | 58 | [Absolute_Blockchain_Ultimate_Hybrid](https://github.com/Gruver87/Absolute_Blockchain_Ultimate_Hybrid) | 3 | 2 | Python | 0 | Absolute Blockchain Ultimate Hybrid — Python+Rust L1, tip-v2 soak PASS, evidence-first industrial pin. External audit pending. Not a public mainnet. | 2026-09-13 |
