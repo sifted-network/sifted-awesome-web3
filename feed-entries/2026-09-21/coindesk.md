@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-21"
 date: "2026-09-21"
 source: "CoinDesk"
-count: 17
+count: 10
 ---
 
 # CoinDesk - 2026-09-21
 
-17 items collected.
+10 items collected.
 
 ---
 
@@ -29,7 +29,7 @@ Bitcoin has broken out to $86,000, but analysts say the next leg depends on whet
 **Published:** 9/21/2026, 7:08:40 PM  
 **Categories:** Markets, Tokenization, News  
 
-TD Cowen expects limited demand for tokenized stocks despite new SEC rules opening a path for trading outside traditional markets.
+TD Securities expects limited demand for tokenized stocks despite new SEC rules opening a path for trading outside traditional markets.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules)
 
@@ -128,89 +128,5 @@ It's the first week of bitcoin purchases for Strategy in about three weeks.
 Your day-ahead look for Sept. 21, 2026
 
 📖 [Read original article](https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run)
-
----
-
-## 11. Perp futures linked to 'bitcoin VIX' debut on Hyperliquid
-
-**Author:** Omkar Godbole  
-**Published:** 9/21/2026, 11:30:00 AM  
-**Categories:** Markets, News  
-
-Deployed via Kinetiq's Markets frontend and led by Volmex CEO Cole Kennelly, Hyperliquid's new BVIV perpetuals let traders easily go long or short on 30-day bitcoin volatility.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid)
-
----
-
-## 12. ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money
-
-**Author:** Olivier Acuna  
-**Published:** 9/21/2026, 11:18:55 AM  
-**Categories:** Finance, ECB, CBDC, Tokenization, News  
-
-The EU central bank's new wholesale platform connects DLT market infrastructure to its payment rails, separate from the retail digital euro pilot planned for 2027.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money)
-
----
-
-## 13. Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 9/21/2026, 10:30:00 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Open interest climbed 7.59% to $156 billion even as positions were closed out, a sign traders are chasing the move rather than stepping back.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets)
-
----
-
-## 14. X sues its own users for running a fake bitcoin news bot farm
-
-**Author:** Omkar Godbole  
-**Published:** 9/21/2026, 10:15:44 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-X has sued Vivek Kumar Sen and Zmyang Sherpa for running fake bitcoin headline accounts to fraudulently earn creator rewards from the platform.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/21/x-sues-its-won-users-for-running-a-fake-bitcoin-news-bot-farm)
-
----
-
-## 15. Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead
-
-**Author:** Jamie Crawley,AI Boost  
-**Published:** 9/21/2026, 9:12:42 AM  
-**Categories:** Markets, week ahead, News  
-
-Your look at what's coming in the week starting Sept. 21.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead)
-
----
-
-## 16. Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain
-
-**Author:** Olivier Acuna  
-**Published:** 9/21/2026, 8:49:59 AM  
-**Categories:** Finance, Tokenization, News  
-
-South Korea's second-largest bank’s $100 million foreign-currency bond blockchain issuance shortened settlement time to the same day from three to five business days.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain)
-
----
-
-## 17. Live updates: Bitcoin hits $87,000, while traders pile into leveraged bets
-
-**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Helene Braun,Krisztian Sandor  
-**Published:** 9/21/2026, 8:39:26 AM  
-**Categories:** Finance, Live News, live_news  
-
-Crypto majors climbed alongside equity futures on Monday, with Monero's XMR up 13%, as Brent fell for a fourth straight session and traders positioned for Trump-Xi summit later this week.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets)
 
 ---
