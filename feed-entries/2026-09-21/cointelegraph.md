@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-21"
 date: "2026-09-21"
 source: "Cointelegraph"
-count: 17
+count: 15
 ---
 
 # Cointelegraph - 2026-09-21
 
-17 items collected.
+15 items collected.
 
 ---
 
@@ -188,29 +188,5 @@ The Bank of Korea’s new network will let foreign investors settle won transact
 Bitcoin’s move above its 50-week moving average has historically marked the end of bear markets, but analysts say one weekly close isn’t enough to confirm a new bull run.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Hana Bank taps Euroclear blockchain for $100M bond issuance: Report
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/21/2026, 4:27:32 AM  
-**Categories:** Latest News  
-
-The five-year digital bond reportedly shortened settlement from three to five business days to the same day using Euroclear’s blockchain infrastructure.
-
-📖 [Read original article](https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. North Korean fake recruiters infect 30K devices, steal $10.7M in crypto
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/21/2026, 1:42:53 AM  
-**Categories:** Latest News  
-
-North Korean cyber group WaterPlum targeted developers with fake jobs at crypto, AI and NFT companies, infecting at least 30,000 devices across more than 100 countries.
-
-📖 [Read original article](https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
