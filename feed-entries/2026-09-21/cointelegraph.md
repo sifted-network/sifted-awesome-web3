@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-21"
 date: "2026-09-21"
 source: "Cointelegraph"
-count: 18
+count: 17
 ---
 
 # Cointelegraph - 2026-09-21
 
-18 items collected.
+17 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ Saudi Arabia has left mBridge, a cross-border CBDC platform that has drawn scrut
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 9/21/2026, 7:53:04 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Ondo lets institutions convert stocks directly into tokenized shares
+## 2. Ondo lets institutions convert stocks directly into tokenized shares
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/21/2026, 6:35:43 PM  
@@ -47,7 +35,7 @@ Ondo’s new in-kind conversion system allows approved institutions to mint and 
 
 ---
 
-## 4. Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again
+## 3. Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/21/2026, 6:15:22 PM  
@@ -59,7 +47,7 @@ The digital asset-aligned PAC joined other groups to spend more than a combined 
 
 ---
 
-## 5. Circle launches Bitcoin-backed USDC borrowing for institutional clients
+## 4. Circle launches Bitcoin-backed USDC borrowing for institutional clients
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/21/2026, 4:56:53 PM  
@@ -71,7 +59,7 @@ Circle is bringing Bitcoin-backed borrowing to institutional clients, allowing t
 
 ---
 
-## 6. Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’
+## 5. Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/21/2026, 4:39:40 PM  
@@ -83,7 +71,7 @@ Bitcoin crossed the $86,000 mark for the first time since late January as fallin
 
 ---
 
-## 7. Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight
+## 6. Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/21/2026, 3:08:17 PM  
@@ -95,7 +83,7 @@ Coinbase draws scrutiny after the CLARITY Act stalls, while the SEC moves ahead 
 
 ---
 
-## 8. Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH
+## 7. Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 9/21/2026, 1:30:00 PM  
@@ -107,7 +95,7 @@ Multicoin Capital co-founder Samani expects SOL to surpass Ether’s market capi
 
 ---
 
-## 9. Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC
+## 8. Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/21/2026, 12:48:21 PM  
@@ -119,7 +107,7 @@ Strategy bought 950 Bitcoin for $75.7 million after a two-week pause and spent a
 
 ---
 
-## 10. ECB launches Pontes to settle tokenized assets without stablecoins
+## 9. ECB launches Pontes to settle tokenized assets without stablecoins
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/21/2026, 11:27:00 AM  
@@ -131,7 +119,7 @@ Pontes will expand its services and operating hours gradually, with full impleme
 
 ---
 
-## 11. NEAR jumps nearly 80% in a week as Intents volume nears $30B
+## 10. NEAR jumps nearly 80% in a week as Intents volume nears $30B
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/21/2026, 10:52:35 AM  
@@ -143,7 +131,7 @@ Near expanded privacy features for traders as NEAR Intents recorded $29.3 billio
 
 ---
 
-## 12. BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week
+## 11. BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/21/2026, 10:15:51 AM  
@@ -155,7 +143,7 @@ Bitcoin hit $85,000 for the first time since January as markets focused on cooli
 
 ---
 
-## 13. X sues Bitcoin account operators over alleged $278K payout fraud
+## 12. X sues Bitcoin account operators over alleged $278K payout fraud
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/21/2026, 9:35:25 AM  
@@ -167,7 +155,7 @@ X alleges six Bitcoin-focused accounts coordinated posts and engagement to infla
 
 ---
 
-## 14. ZetaChain holders approve plan to wind down L1, move ZETA to Solana
+## 13. ZetaChain holders approve plan to wind down L1, move ZETA to Solana
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/21/2026, 7:31:47 AM  
@@ -179,7 +167,7 @@ ZetaChain plans to wind down its Cosmos-based layer 1 and migrate ZETA to Solana
 
 ---
 
-## 15. Bank of Korea launches 24-hour won settlement pilot for foreign investors
+## 14. Bank of Korea launches 24-hour won settlement pilot for foreign investors
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/21/2026, 6:41:23 AM  
@@ -191,7 +179,7 @@ The Bank of Korea’s new network will let foreign investors settle won transact
 
 ---
 
-## 16. Bitcoin reclaims 50-week moving average as analysts eye end of bear market
+## 15. Bitcoin reclaims 50-week moving average as analysts eye end of bear market
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/21/2026, 4:29:59 AM  
@@ -203,7 +191,7 @@ Bitcoin’s move above its 50-week moving average has historically marked the en
 
 ---
 
-## 17. Hana Bank taps Euroclear blockchain for $100M bond issuance: Report
+## 16. Hana Bank taps Euroclear blockchain for $100M bond issuance: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/21/2026, 4:27:32 AM  
@@ -215,7 +203,7 @@ The five-year digital bond reportedly shortened settlement from three to five bu
 
 ---
 
-## 18. North Korean fake recruiters infect 30K devices, steal $10.7M in crypto
+## 17. North Korean fake recruiters infect 30K devices, steal $10.7M in crypto
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/21/2026, 1:42:53 AM  
