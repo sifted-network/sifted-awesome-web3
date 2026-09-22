@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-09-22"
 date: "2026-09-22"
 source: "Cointelegraph"
-count: 11
+count: 15
 ---
 
 # Cointelegraph - 2026-09-22
 
-11 items collected.
+15 items collected.
 
 ---
 
-## 1. Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%
+## 1. ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 9/22/2026, 3:37:17 PM  
+**Categories:** Latest News  
+
+The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.
+
+📖 [Read original article](https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Big Questions: Does Satoshi actually own 1.1 million Bitcoin?
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 9/22/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+Researchers can trace an estimated 1.1 million BTC to a distinctive early mining operation. The harder question is whether that miner was actually Satoshi.
+
+📖 [Read original article](https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/22/2026, 1:12:25 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Binance takes $100M stake in Circle under expanded USDC deal
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/22/2026, 12:18:41 PM  
+**Categories:** Latest News  
+
+Circle sold Binance $100 million in stock and agreed to pay monthly incentives under an expanded five-year partnership promoting USDC.
+
+📖 [Read original article](https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. ECB to put its own money into tokenized securities via new Pontes DLT
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/22/2026, 11:29:35 AM  
+**Categories:** Latest News  
+
+The ECB aims to gain firsthand DLT market experience by buying tokenized public-sector securities and settling the trades through Pontes.
+
+📖 [Read original article](https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/22/2026, 10:00:43 AM  
@@ -23,7 +83,7 @@ Glassnode’s Altcoin Cycle Signal printed a new altseason signal after a month 
 
 ---
 
-## 2. Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally
+## 7. Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/22/2026, 9:58:26 AM  
@@ -35,7 +95,7 @@ Bitcoin traded near $86,000 as major altcoins gained, while rising derivatives l
 
 ---
 
-## 3. White hats outrun Coldcard hackers in 52-Bitcoin evacuation
+## 8. White hats outrun Coldcard hackers in 52-Bitcoin evacuation
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/22/2026, 9:06:59 AM  
@@ -47,7 +107,7 @@ White hats secured about 40% of the Bitcoin moved in the Coldcard exploit’s se
 
 ---
 
-## 4. Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says
+## 9. Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/22/2026, 8:06:23 AM  
@@ -59,7 +119,7 @@ Solstice CEO Ben Nadareski says deeper liquidity and growing institutional parti
 
 ---
 
-## 5. Bitcoin ETFs flirt with $1B as inflows hit 2026 high
+## 10. Bitcoin ETFs flirt with $1B as inflows hit 2026 high
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/22/2026, 7:33:37 AM  
@@ -71,7 +131,7 @@ US spot Bitcoin ETFs drew nearly $1 billion on Monday, their largest daily inflo
 
 ---
 
-## 6. Animoca puts Currenc merger on ice, delaying its Nasdaq debut
+## 11. Animoca puts Currenc merger on ice, delaying its Nasdaq debut
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/22/2026, 6:48:20 AM  
@@ -83,19 +143,7 @@ Animoca Brands suspended its reverse merger talks with Currenc but said it remai
 
 ---
 
-## 7. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/22/2026, 5:40:46 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto
+## 12. Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/22/2026, 5:29:31 AM  
@@ -107,7 +155,7 @@ Treasury named AI among five major transitions expected to reshape Australia’s
 
 ---
 
-## 9. Trueo prediction market moves from Base to Ethereum
+## 13. Trueo prediction market moves from Base to Ethereum
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/22/2026, 4:03:00 AM  
@@ -119,7 +167,7 @@ Trueo said Base was the right choice when it launched, as Ethereum gas fees were
 
 ---
 
-## 10. Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks
+## 14. Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/22/2026, 3:13:22 AM  
@@ -131,7 +179,7 @@ Kakao Pay and KakaoBank are exploring digital asset opportunities with Fireblock
 
 ---
 
-## 11. Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg
+## 15. Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/22/2026, 2:22:59 AM  
