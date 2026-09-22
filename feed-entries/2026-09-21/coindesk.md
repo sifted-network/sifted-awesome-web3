@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-21"
 date: "2026-09-21"
 source: "CoinDesk"
-count: 20
+count: 17
 ---
 
 # CoinDesk - 2026-09-21
 
-20 items collected.
+17 items collected.
 
 ---
 
@@ -212,41 +212,5 @@ South Korea's second-largest bank’s $100 million foreign-currency bond blockch
 Crypto majors climbed alongside equity futures on Monday, with Monero's XMR up 13%, as Brent fell for a fourth straight session and traders positioned for Trump-Xi summit later this week.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets)
-
----
-
-## 18. Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades
-
-**Author:** Omkar Godbole  
-**Published:** 9/21/2026, 6:20:47 AM  
-**Categories:** Markets, Kalshi, News  
-
-A trader alleged on X that Kalshi is inflating trading volumes in its ether perpetual futures.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades)
-
----
-
-## 19. Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic
-
-**Author:** Shaurya Malwa  
-**Published:** 9/21/2026, 4:03:43 AM  
-**Categories:** Markets, News  
-
-Bitcoin extended a slow climb through the Asian session while regional equities and U.S. stock futures rose on progress in trade talks between Washington and Beijing.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic)
-
----
-
-## 20. Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 9/21/2026, 3:56:23 AM  
-**Categories:** Markets, Bitcoin News, Prices, News  
-
-Bitcoin's price has topped its 50-week average for the first time in 45 weeks, a major bullish signal.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs)
 
 ---
