@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-21"
 date: "2026-09-21"
 source: "Cointelegraph"
-count: 15
+count: 11
 ---
 
 # Cointelegraph - 2026-09-21
 
-15 items collected.
+11 items collected.
 
 ---
 
@@ -140,53 +140,5 @@ Near expanded privacy features for traders as NEAR Intents recorded $29.3 billio
 Bitcoin hit $85,000 for the first time since January as markets focused on cooling oil prices.
 
 📖 [Read original article](https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. X sues Bitcoin account operators over alleged $278K payout fraud
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/21/2026, 9:35:25 AM  
-**Categories:** Latest News  
-
-X alleges six Bitcoin-focused accounts coordinated posts and engagement to inflate creator payouts, with claimed and projected losses of at least $378,000.
-
-📖 [Read original article](https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. ZetaChain holders approve plan to wind down L1, move ZETA to Solana
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/21/2026, 7:31:47 AM  
-**Categories:** Latest News  
-
-ZetaChain plans to wind down its Cosmos-based layer 1 and migrate ZETA to Solana, joining other crypto projects moving away from standalone chains.
-
-📖 [Read original article](https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Bank of Korea launches 24-hour won settlement pilot for foreign investors
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/21/2026, 6:41:23 AM  
-**Categories:** Latest News  
-
-The Bank of Korea’s new network will let foreign investors settle won transactions during business hours in their home countries.
-
-📖 [Read original article](https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitcoin reclaims 50-week moving average as analysts eye end of bear market
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/21/2026, 4:29:59 AM  
-**Categories:** Markets  
-
-Bitcoin’s move above its 50-week moving average has historically marked the end of bear markets, but analysts say one weekly close isn’t enough to confirm a new bull run.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
