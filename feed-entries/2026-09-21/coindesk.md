@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-21"
 date: "2026-09-21"
 source: "CoinDesk"
-count: 10
+count: 8
 ---
 
 # CoinDesk - 2026-09-21
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Bessent pushed back against a bearish assessment of the U.S. economy highlightin
 The tech giants’ job listings could indicate that they are separately pursuing experts in stablecoins and tokenized deposits for future projects.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails)
-
----
-
-## 9. Strategy returns to bitcoin buys, adding $75 million of BTC last week
-
-**Author:** James Van Straten  
-**Published:** 9/21/2026, 12:08:02 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-It's the first week of bitcoin purchases for Strategy in about three weeks.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week)
-
----
-
-## 10. Bitcoin's 44% gain in third quarter teases full-blown crypto bull run
-
-**Author:** Omkar Godbole  
-**Published:** 9/21/2026, 11:36:11 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Sept. 21, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run)
 
 ---
