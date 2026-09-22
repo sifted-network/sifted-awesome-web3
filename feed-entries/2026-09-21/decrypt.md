@@ -2,16 +2,52 @@
 title: "Decrypt - 2026-09-21"
 date: "2026-09-21"
 source: "Decrypt"
-count: 14
+count: 17
 ---
 
 # Decrypt - 2026-09-21
 
-14 items collected.
+17 items collected.
 
 ---
 
-## 1. X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts
+## 1. Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/21/2026, 10:46:03 PM  
+**Categories:** Artificial Intelligence  
+
+Google learned in late July that Gemini had breached three real companies during a May security test, but said nothing publicly for seven weeks.
+
+📖 [Read original article](https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent)
+
+---
+
+## 2. After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million
+
+**Author:** Jason Nelson  
+**Published:** 9/21/2026, 10:16:03 PM  
+**Categories:** , , , Law and Order  
+
+The Ohio spending comes days after the Senate blocked the crypto industry’s Clarity Act.
+
+📖 [Read original article](https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million)
+
+---
+
+## 3. Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/21/2026, 9:46:03 PM  
+**Categories:** , , , Business  
+
+Robinhood CEO Vlad Tenev says crypto event contracts are already outpacing sports bets, and could become the platform's dominant category within a few years.
+
+📖 [Read original article](https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets)
+
+---
+
+## 4. X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/21/2026, 8:16:03 PM  
@@ -23,7 +59,7 @@ A lawsuit accuses UK users of running six coordinated accounts to pull at least 
 
 ---
 
-## 2. Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First
+## 5. Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First
 
 **Author:** Jason Nelson  
 **Published:** 9/21/2026, 7:26:49 PM  
@@ -35,7 +71,7 @@ Eligible customers can request shares at the offering price, but allocations are
 
 ---
 
-## 3. Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities
+## 6. Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities
 
 **Author:** Jason Nelson  
 **Published:** 9/21/2026, 7:00:04 PM  
@@ -47,7 +83,7 @@ The central bank plans to buy euro-denominated public-sector debt and settle the
 
 ---
 
-## 4. What Is VVV? The Privacy-Obsessed AI Token That’s Up 3,000% in 2026
+## 7. What Is VVV? The Privacy-Obsessed AI Token That’s Up 3,000% in 2026
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/21/2026, 6:31:03 PM  
@@ -59,7 +95,7 @@ Venice (VVV) has clawed back from under a dollar to a record $34, and the pitch 
 
 ---
 
-## 5. Can a Fruit Fly Brain Mine Bitcoin? These Companies Are Testing It
+## 8. Can a Fruit Fly Brain Mine Bitcoin? These Companies Are Testing It
 
 **Author:** Jason Nelson  
 **Published:** 9/21/2026, 5:46:02 PM  
@@ -71,7 +107,7 @@ The HashFly browser experiment uses a digital neural model for Bitcoin hashing a
 
 ---
 
-## 6. xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party
+## 9. xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/21/2026, 5:16:03 PM  
@@ -83,7 +119,7 @@ xAI says the new model is a "notable improvement" over Grok 4.6 at the same pric
 
 ---
 
-## 7. Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That
+## 10. Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That
 
 **Author:** Stephen Graves  
 **Published:** 9/21/2026, 4:46:03 PM  
@@ -95,7 +131,7 @@ Crypto advocates argue that NFTs can deliver real digital ownership, but privacy
 
 ---
 
-## 8. Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push
+## 11. Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push
 
 **Author:** Jason Nelson  
 **Published:** 9/21/2026, 4:16:03 PM  
@@ -107,7 +143,7 @@ The senior roles cover Apple’s consumer payment products and Google Cloud’s 
 
 ---
 
-## 9. Bitcoin Is Rallying Again—What Happens Next?
+## 12. Bitcoin Is Rallying Again—What Happens Next?
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/21/2026, 3:45:35 PM  
@@ -119,7 +155,7 @@ The rally cleared an eight-month ceiling on a short squeeze and falling oil pric
 
 ---
 
-## 10. Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'
+## 13. Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'
 
 **Author:** Decrypt Staff  
 **Published:** 9/21/2026, 3:00:49 PM  
@@ -131,7 +167,7 @@ The purchase lifts Bitmine's stash to nearly 5.99 million ETH—4.9% of supply�
 
 ---
 
-## 11. Morning Minute: Kevin O’Leary Calls for $1 Million Bitcoin, With an Asterisk
+## 14. Morning Minute: Kevin O’Leary Calls for $1 Million Bitcoin, With an Asterisk
 
 **Author:** Tyler Warner  
 **Published:** 9/21/2026, 2:33:03 PM  
@@ -143,7 +179,7 @@ Meanwhile, Bitcoin pushed up to $85,000 and a new local high and altcoins soared
 
 ---
 
-## 12. Strategy's Bitcoin Pile Nears June Record After $76M Purchase
+## 15. Strategy's Bitcoin Pile Nears June Record After $76M Purchase
 
 **Author:** Decrypt Agent  
 **Published:** 9/21/2026, 12:56:46 PM  
@@ -155,7 +191,7 @@ The Bitcoin treasury firm’s holdings bottomed at 840,447 BTC in August. They h
 
 ---
 
-## 13. Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated
+## 16. Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated
 
 **Author:** Decrypt Agent  
 **Published:** 9/21/2026, 12:22:00 PM  
@@ -167,7 +203,7 @@ A short squeeze started the move, but spot buyers have sustained it, and one mea
 
 ---
 
-## 14. Crypto Worker's Children Held Hostage in Latest French ‘Wrench Attack,’ $46,000 Taken
+## 17. Crypto Worker's Children Held Hostage in Latest French ‘Wrench Attack,’ $46,000 Taken
 
 **Author:** Decrypt Agent  
 **Published:** 9/21/2026, 9:51:24 AM  
