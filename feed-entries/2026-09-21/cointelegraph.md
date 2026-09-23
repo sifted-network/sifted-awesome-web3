@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-21"
 date: "2026-09-21"
 source: "Cointelegraph"
-count: 11
+count: 8
 ---
 
 # Cointelegraph - 2026-09-21
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ Multicoin Capital co-founder Samani expects SOL to surpass Ether’s market capi
 Strategy bought 950 Bitcoin for $75.7 million after a two-week pause and spent another $174 million repurchasing its STRC preferred stock.
 
 📖 [Read original article](https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. ECB launches Pontes to settle tokenized assets without stablecoins
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/21/2026, 11:27:00 AM  
-**Categories:** Latest News  
-
-Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.
-
-📖 [Read original article](https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. NEAR jumps nearly 80% in a week as Intents volume nears $30B
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/21/2026, 10:52:35 AM  
-**Categories:** Markets  
-
-Near expanded privacy features for traders as NEAR Intents recorded $29.3 billion in cumulative volume, including swaps involving Zcash.
-
-📖 [Read original article](https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/21/2026, 10:15:51 AM  
-**Categories:** Markets  
-
-Bitcoin hit $85,000 for the first time since January as markets focused on cooling oil prices.
-
-📖 [Read original article](https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
