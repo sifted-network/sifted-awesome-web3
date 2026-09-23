@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-22"
 date: "2026-09-22"
 source: "The Block"
-count: 13
+count: 12
 ---
 
 # The Block - 2026-09-22
 
-13 items collected.
+12 items collected.
 
 ---
 
@@ -152,17 +152,5 @@ US spot bitcoin ETFs saw $999 million in net inflows on Monday, the largest sing
 Vitalik Buterin touted Trueo as a strong prediction market contender that is decentralized, ethical, and 'not corposlop.'
 
 📖 [Read original article](https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999)
-
----
-
-## 13. Animoca Brands suspends merger deal that would have taken it public
-
-**Author:** Timmy Shen  
-**Published:** 9/22/2026, 2:46:02 AM  
-**Categories:** Companies, Markets, News  
-
-Animoca Chairman Yat Siu says that the 'corporate agility must take precedence' over pursuing the Currenc merger.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991)
 
 ---
