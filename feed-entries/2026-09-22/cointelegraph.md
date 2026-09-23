@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-09-22"
 date: "2026-09-22"
 source: "Cointelegraph"
-count: 19
+count: 21
 ---
 
 # Cointelegraph - 2026-09-22
 
-19 items collected.
+21 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Arch Lending eyes tokenized stocks as next collateral market
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/22/2026, 9:06:52 PM  
+**Categories:** Latest News  
+
+Arch Lending’s Himanshu Sahay said on Cointelegraph’s Chain Reaction podcast that the lender plans to move into tokenized equities as onchain stocks gain traction as collateral.
+
+📖 [Read original article](https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Republican senator calls for probe into US presidents’ sons, citing crypto ventures
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/22/2026, 8:57:51 PM  
+**Categories:** Latest News  
+
+Many Democrats have previously called for investigations into the Trump family’s crypto ventures, but now a Republican is asking for an inquiry based on ties to the presidency.
+
+📖 [Read original article](https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/22/2026, 8:03:30 PM  
@@ -23,7 +47,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Canada’s six largest banks explore tokenized Canadian dollar deposits
+## 4. Canada’s six largest banks explore tokenized Canadian dollar deposits
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/22/2026, 7:56:48 PM  
@@ -35,7 +59,7 @@ The country’s largest financial institutions are exploring tokenized deposits 
 
 ---
 
-## 3. Zcash gets first European ETP following US ETF launch
+## 5. Zcash gets first European ETP following US ETF launch
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/22/2026, 4:21:44 PM  
@@ -47,7 +71,7 @@ The country’s largest financial institutions are exploring tokenized deposits 
 
 ---
 
-## 4. Bitcoin price seeks $86K as new support after oil dips below $90
+## 6. Bitcoin price seeks $86K as new support after oil dips below $90
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/22/2026, 4:01:55 PM  
@@ -59,7 +83,7 @@ Bitcoin price action avoided a significant drop below $86,000 as US president Do
 
 ---
 
-## 5. CLARITY vote failure could stoke more crypto PAC spending in key races
+## 7. CLARITY vote failure could stoke more crypto PAC spending in key races
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/22/2026, 3:55:37 PM  
@@ -71,7 +95,7 @@ Control of the US House and Senate is up for grabs in 2026, and some advocates s
 
 ---
 
-## 6. ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins
+## 8. ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/22/2026, 3:37:17 PM  
@@ -83,7 +107,7 @@ The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit re
 
 ---
 
-## 7. Big Questions: Does Satoshi actually own 1.1 million Bitcoin?
+## 9. Big Questions: Does Satoshi actually own 1.1 million Bitcoin?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/22/2026, 1:30:00 PM  
@@ -95,7 +119,7 @@ Researchers can trace an estimated 1.1 million BTC to a distinctive early mining
 
 ---
 
-## 8. Binance takes $100M stake in Circle under expanded USDC deal
+## 10. Binance takes $100M stake in Circle under expanded USDC deal
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/22/2026, 12:18:41 PM  
@@ -107,7 +131,7 @@ Circle sold Binance $100 million in stock and agreed to pay monthly incentives u
 
 ---
 
-## 9. ECB to put its own money into tokenized securities via new Pontes DLT
+## 11. ECB to put its own money into tokenized securities via new Pontes DLT
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/22/2026, 11:29:35 AM  
@@ -119,7 +143,7 @@ The ECB aims to gain firsthand DLT market experience by buying tokenized public-
 
 ---
 
-## 10. Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%
+## 12. Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/22/2026, 10:00:43 AM  
@@ -131,7 +155,7 @@ Glassnode’s Altcoin Cycle Signal printed a new altseason signal after a month 
 
 ---
 
-## 11. Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally
+## 13. Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/22/2026, 9:58:26 AM  
@@ -143,7 +167,7 @@ Bitcoin traded near $86,000 as major altcoins gained, while rising derivatives l
 
 ---
 
-## 12. White hats outrun Coldcard hackers in 52-Bitcoin evacuation
+## 14. White hats outrun Coldcard hackers in 52-Bitcoin evacuation
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/22/2026, 9:06:59 AM  
@@ -155,7 +179,7 @@ White hats secured about 40% of the Bitcoin moved in the Coldcard exploit’s se
 
 ---
 
-## 13. Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says
+## 15. Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/22/2026, 8:06:23 AM  
@@ -167,7 +191,7 @@ Solstice CEO Ben Nadareski says deeper liquidity and growing institutional parti
 
 ---
 
-## 14. Bitcoin ETFs flirt with $1B as inflows hit 2026 high
+## 16. Bitcoin ETFs flirt with $1B as inflows hit 2026 high
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/22/2026, 7:33:37 AM  
@@ -179,7 +203,7 @@ US spot Bitcoin ETFs drew nearly $1 billion on Monday, their largest daily inflo
 
 ---
 
-## 15. Animoca puts Currenc merger on ice, delaying its Nasdaq debut
+## 17. Animoca puts Currenc merger on ice, delaying its Nasdaq debut
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/22/2026, 6:48:20 AM  
@@ -191,7 +215,7 @@ Animoca Brands suspended its reverse merger talks with Currenc but said it remai
 
 ---
 
-## 16. Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto
+## 18. Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/22/2026, 5:29:31 AM  
@@ -203,7 +227,7 @@ Treasury named AI among five major transitions expected to reshape Australia’s
 
 ---
 
-## 17. Trueo prediction market moves from Base to Ethereum
+## 19. Trueo prediction market moves from Base to Ethereum
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/22/2026, 4:03:00 AM  
@@ -215,7 +239,7 @@ Trueo said Base was the right choice when it launched, as Ethereum gas fees were
 
 ---
 
-## 18. Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks
+## 20. Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/22/2026, 3:13:22 AM  
@@ -227,7 +251,7 @@ Kakao Pay and KakaoBank are exploring digital asset opportunities with Fireblock
 
 ---
 
-## 19. Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg
+## 21. Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/22/2026, 2:22:59 AM  
