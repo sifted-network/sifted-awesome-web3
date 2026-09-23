@@ -2,16 +2,124 @@
 title: "Decrypt - 2026-09-23"
 date: "2026-09-23"
 source: "Decrypt"
-count: 5
+count: 14
 ---
 
 # Decrypt - 2026-09-23
 
-5 items collected.
+14 items collected.
 
 ---
 
-## 1. BlackRock: AI Agents Could Drive Crypto's Next Demand Wave
+## 1. Meta's Muse AI Agent Read a User's Private iMessages. Then It Lied About How
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/23/2026, 8:44:20 PM  
+**Categories:** Technology  
+
+A tech columnist declined to give Meta's new AI agent access to his messages. It read them anyway, then invented an explanation for how it knew.
+
+📖 [Read original article](https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how)
+
+---
+
+## 2. Zcash's Wall Street Moment Reaches Europe With Its First ETP Listing
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/23/2026, 7:36:15 PM  
+**Categories:** zcash, Coins  
+
+21Shares listed Europe's first Zcash exchange-traded product on Euronext Paris and Amsterdam this week as ZEC continues its banner year.
+
+📖 [Read original article](https://decrypt.co/379105/zcash-wall-street-europe-first-etp)
+
+---
+
+## 3. $15.6 Billion in Bitcoin Options Expire Friday—Here's What It Means
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/23/2026, 6:46:03 PM  
+**Categories:** , Markets  
+
+Deribit's strike-by-strike data shows a book stacked with calls, and one price level drawing hedging pressure from both sides at once.
+
+📖 [Read original article](https://decrypt.co/379093/15-6-billion-bitcoin-options-expire-friday-what-means)
+
+---
+
+## 4. Borrow Against Your Bitcoin at a Fixed Rate: Coinbase Expands Morpho Loans
+
+**Author:** Decrypt Staff  
+**Published:** 9/23/2026, 6:15:06 PM  
+**Categories:** Business  
+
+The product lets users lock in their rate and repayment date when borrowing USDC against Bitcoin, marking the first enterprise-scale deployment of Morpho Midnight and a shift away from on-chain lending's variable-rate norm.
+
+📖 [Read original article](https://decrypt.co/379091/borrow-against-bitcoin-fixed-rate-coinbase-morpho)
+
+---
+
+## 5. Crypto Exchange That Invented 100x Leverage Is No More: Here’s What BitMEX Users Need to Know
+
+**Author:** Decrypt Staff  
+**Published:** 9/23/2026, 5:31:03 PM  
+**Categories:** , Business  
+
+BitMEX ended trading at 04:00 UTC Wednesday and is urging users to withdraw their remaining funds, as fees now apply to balances left on the exchange.
+
+📖 [Read original article](https://decrypt.co/379089/crypto-exchange-that-invented-100x-leverage-is-no-more-heres-what-bitmex-users-need-to-know)
+
+---
+
+## 6. Canada's Six Biggest Banks Team Up on a Shared Digital-Dollar Network
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/23/2026, 5:01:03 PM  
+**Categories:** Coins  
+
+RBC, TD, BMO, Scotiabank, CIBC and National Bank are jointly exploring a Canadian-dollar tokenized deposit system, starting with transfers between the banks themselves.
+
+📖 [Read original article](https://decrypt.co/379081/canada-six-biggest-banks-shared-digital-dollar-network)
+
+---
+
+## 7. NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks
+
+**Author:** Decrypt Staff  
+**Published:** 9/23/2026, 4:36:03 PM  
+**Categories:** Business  
+
+Blockchain.com and NYSE Group signed a preliminary agreement to give the crypto exchange's users access to tokenized U.S. stocks and ETFs, pending regulatory approval.
+
+📖 [Read original article](https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs)
+
+---
+
+## 8. Americans Would Use Stablecoins—If They Came With Bank Protections, Visa Study Finds
+
+**Author:** Decrypt Agent  
+**Published:** 9/23/2026, 4:26:03 PM  
+**Categories:** , , Business  
+
+A Visa survey found U.S. willingness to use stablecoins for cross-border transfers rises from 36% to 56% when paired with hypothetical bank-level fraud protection and deposit insurance.
+
+📖 [Read original article](https://decrypt.co/379073/americans-stablecoins-bank-protections-visa)
+
+---
+
+## 9. Bitcoin Dips, But Its Forks Are Flying Again
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/23/2026, 3:56:03 PM  
+**Categories:** , , bitcoin-cash-sv, Markets  
+
+A CME futures listing and a fresh Grayscale ETF filing sent Bitcoin's two biggest forks soaring, even as the flagship coin cooled off its seven-month high.
+
+📖 [Read original article](https://decrypt.co/379048/bitcoin-dips-but-forks-are-flying-bch-bsv)
+
+---
+
+## 10. BlackRock: AI Agents Could Drive Crypto's Next Demand Wave
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/23/2026, 3:41:46 PM  
@@ -23,7 +131,7 @@ The world's largest asset manager argues that autonomous AI agents buying data, 
 
 ---
 
-## 2. Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid
+## 11. Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid
 
 **Author:** Tyler Warner  
 **Published:** 9/23/2026, 12:26:07 PM  
@@ -35,7 +143,7 @@ Crypto majors continue their climb while alt leaders hit new ATHs. What’s driv
 
 ---
 
-## 3. North Korea's Fake Job Interviews Drained $11M From 7,000 Crypto Wallets
+## 12. North Korea's Fake Job Interviews Drained $11M From 7,000 Crypto Wallets
 
 **Author:** Decrypt Agent  
 **Published:** 9/23/2026, 12:15:18 PM  
@@ -47,7 +155,7 @@ A seven-agency advisory ties the WaterPlum hacking crew and Pyongyang's remote I
 
 ---
 
-## 4. CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation
+## 13. CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation
 
 **Author:** Decrypt Agent  
 **Published:** 9/23/2026, 10:43:46 AM  
@@ -59,7 +167,7 @@ Three weeks after fining a teleprompter operator who traded on speeches he had a
 
 ---
 
-## 5. Former Polish Police Officer Charged as Zondacrypto Probe Searches Fuel Depot
+## 14. Former Polish Police Officer Charged as Zondacrypto Probe Searches Fuel Depot
 
 **Author:** Decrypt Agent  
 **Published:** 9/23/2026, 9:53:07 AM  
