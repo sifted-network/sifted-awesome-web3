@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-21"
 date: "2026-09-21"
 source: "The Block"
-count: 7
+count: 6
 ---
 
 # The Block - 2026-09-21
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ Strategy's total holdings account for around 4% of the 21 million bitcoin supply
 CoinGlass recorded at least $750 million in crypto liquidations over 24 hours, most of them short positions.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-09-21-bitcoin-taps-85000-for-first-time-since-january-as-crypto-short-liquidations-surge-415905)
-
----
-
-## 7. X sues UK duo over alleged $277K crypto account payout fraud
-
-**Author:** Brian Danga  
-**Published:** 9/21/2026, 9:24:27 AM  
-**Categories:** Companies, Metaverse & NFT, People, People, People, Policy, Regulation, Tech, Elon Musk, Twitter, News  
-
-X alleges two UK users manipulated crypto-focused accounts to obtain $277,000 through its creator revenue-sharing program.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-21-x-sues-uk-duo-over-alleged-277k-crypto-account-payout-fraud-415889)
 
 ---
