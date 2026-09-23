@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-21"
 date: "2026-09-21"
 source: "CoinDesk"
-count: 8
+count: 6
 ---
 
 # CoinDesk - 2026-09-21
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ One expert believes that the failure to pass the bill is a win for the banks tha
 The largest Ethereum-centric treasury firm kept buying, while its chairman argued ETH’s strong third quarter could push institutions to increase crypto exposure.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto)
-
----
-
-## 7. Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins
-
-**Author:** James Van Straten  
-**Published:** 9/21/2026, 12:44:33 PM  
-**Categories:** Markets, Stablecoins, News  
-
-Bessent pushed back against a bearish assessment of the U.S. economy highlighting strong growth, foreign demand for American assets and continued dollar dominance.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins)
-
----
-
-## 8. Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails
-
-**Author:** Olivier Acuna  
-**Published:** 9/21/2026, 12:17:48 PM  
-**Categories:** Finance, Google, Tokenization, Stablecoins, News  
-
-The tech giants’ job listings could indicate that they are separately pursuing experts in stablecoins and tokenized deposits for future projects.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails)
 
 ---
