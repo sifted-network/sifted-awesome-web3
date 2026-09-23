@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-09-23"
 date: "2026-09-23"
 source: "Cointelegraph"
-count: 18
+count: 24
 ---
 
 # Cointelegraph - 2026-09-23
 
-18 items collected.
+24 items collected.
 
 ---
 
-## 1. Bitcoin long liquidations hit $280M as BTC price dips under $84K
+## 1. Former Hack VC partner Hsin-Ju Chuang found dead at 37
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/23/2026, 8:43:56 PM  
+**Categories:** Latest News  
+
+The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture capital firm Hack VC.
+
+📖 [Read original article](https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. US lawmakers from gaming states urge SCOTUS to take up Kalshi case
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/23/2026, 8:28:34 PM  
+**Categories:** Latest News  
+
+The case between New Jersey authorities and a prediction market company, if accepted by the Supreme Court, could result in clarity for state and federal officials over sports bets.
+
+📖 [Read original article](https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 9/23/2026, 7:39:24 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Trump reveals up to $100K Strategy stock purchase in ethics filing
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/23/2026, 7:05:14 PM  
+**Categories:** Latest News  
+
+President Donald Trump disclosed a July purchase of Strategy shares as his administration continues to advance crypto policy through federal regulators and Congress.
+
+📖 [Read original article](https://cointelegraph.com/news/trump-discloses-up-to-100k-strategy-stock-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. US stablecoin adoption could surge with bank-like protections: Visa survey
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/23/2026, 6:17:48 PM  
+**Categories:** Latest News  
+
+The survey released by Visa posited that bank-like protections for stablecoins could increase adoption in the US as companies are preparing for the enactment of the GENIUS Act.
+
+📖 [Read original article](https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Bitwise launches first Lighter ETP amid Hyperliquid rivalry
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 9/23/2026, 4:34:27 PM  
+**Categories:** Latest News  
+
+The product gives European investors brokerage access to the LIT token as Bitwise expands its lineup of products tied to decentralized derivatives platforms.
+
+📖 [Read original article](https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/23/2026, 3:56:20 PM  
+**Categories:** Latest News  
+
+Blockchain.com users could gain access to tokenized US stocks and ETFs through NYSE’s planned digital trading platform under a new partnership, as bourses rush to deliver new trading.
+
+📖 [Read original article](https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Bitcoin long liquidations hit $280M as BTC price dips under $84K
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/23/2026, 2:52:11 PM  
@@ -23,7 +107,7 @@ Bitcoin long liquidations mounted as BTC/USD briefly traded below $84,000, while
 
 ---
 
-## 2. Raiffeisen to offer crypto trading across 11 European markets via Bitpanda
+## 9. Raiffeisen to offer crypto trading across 11 European markets via Bitpanda
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/23/2026, 2:28:50 PM  
@@ -35,7 +119,7 @@ Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potenti
 
 ---
 
-## 3. ESMA to prioritize EU-wide AI and tokenization supervision in 2027
+## 10. ESMA to prioritize EU-wide AI and tokenization supervision in 2027
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/23/2026, 1:40:00 PM  
@@ -47,19 +131,7 @@ National regulators will map client-facing uses of the technologies, check a sub
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/23/2026, 1:39:08 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Winners and losers of the SEC’s new tokenized stocks rules
+## 11. Winners and losers of the SEC’s new tokenized stocks rules
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/23/2026, 1:30:00 PM  
@@ -71,7 +143,7 @@ The SEC has opened a five-year path for tokenized stocks, but only some products
 
 ---
 
-## 6. MoonPay to buy North Capital in all-stock deal worth over $60M
+## 12. MoonPay to buy North Capital in all-stock deal worth over $60M
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/23/2026, 1:00:00 PM  
@@ -83,7 +155,7 @@ MoonPay’s North Capital acquisition adds US broker-dealer, trading and investm
 
 ---
 
-## 7. Stablecoin cross-border flows surge 78%, defying crypto bear market
+## 13. Stablecoin cross-border flows surge 78%, defying crypto bear market
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/23/2026, 1:00:00 PM  
@@ -95,7 +167,7 @@ Cross-border stablecoin transfers surged as the wider crypto market shrank 37%, 
 
 ---
 
-## 8. EU watchdogs warn quantum computers could pick crypto’s locks
+## 14. EU watchdogs warn quantum computers could pick crypto’s locks
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/23/2026, 12:22:56 PM  
@@ -107,7 +179,7 @@ EU supervisors warn quantum computing could weaken blockchain security as Bitcoi
 
 ---
 
-## 9. CFTC chair pushes tokenization as SEC opens door to onchain stocks
+## 15. CFTC chair pushes tokenization as SEC opens door to onchain stocks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/23/2026, 10:06:55 AM  
@@ -119,7 +191,7 @@ Michael Selig said tokenization could reshape financial markets as the CFTC and 
 
 ---
 
-## 10. Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis
+## 16. Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/23/2026, 10:05:10 AM  
@@ -131,7 +203,7 @@ BTC price analysis concluded that onchain signals had “confirmed” the new Bi
 
 ---
 
-## 11. BitMEX ends crypto trading, keeps withdrawals open after closure
+## 17. BitMEX ends crypto trading, keeps withdrawals open after closure
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/23/2026, 8:18:38 AM  
@@ -143,7 +215,7 @@ BitMEX officially ended exchange operations after more than 11 years, while with
 
 ---
 
-## 12. Zcash’s November upgrade could freeze funds in legacy Sprout pool
+## 18. Zcash’s November upgrade could freeze funds in legacy Sprout pool
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/23/2026, 8:07:10 AM  
@@ -155,7 +227,7 @@ The proposed NU7 change would disable version 4 transactions, leaving ZEC in Zca
 
 ---
 
-## 13. Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis
+## 19. Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/23/2026, 7:25:05 AM  
@@ -167,7 +239,7 @@ US spot Bitcoin ETFs recorded more than $1.7 billion in net inflows over two day
 
 ---
 
-## 14. US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report
+## 20. US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/23/2026, 5:34:49 AM  
@@ -179,7 +251,7 @@ US President Donald Trump previously tapped David Sacks as his AI and crypto cza
 
 ---
 
-## 15. Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says
+## 21. Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/23/2026, 5:22:21 AM  
@@ -191,7 +263,7 @@ SlowMist said malicious FomoPeek versions distributed through Apple’s App Stor
 
 ---
 
-## 16. AI potential to drive crypto demand remains ‘underappreciated’: BlackRock
+## 22. AI potential to drive crypto demand remains ‘underappreciated’: BlackRock
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/23/2026, 4:33:18 AM  
@@ -203,7 +275,7 @@ BlackRock says AI agents could drive demand for stablecoins and programmable pay
 
 ---
 
-## 17. OpenAI, Anthropic to brief UN Security Council on AI risks: Reports
+## 23. OpenAI, Anthropic to brief UN Security Council on AI risks: Reports
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/23/2026, 3:33:15 AM  
@@ -215,7 +287,7 @@ Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman are expected to brief the U
 
 ---
 
-## 18. CFTC issues warning over risky prediction market ‘mention’ contracts
+## 24. CFTC issues warning over risky prediction market ‘mention’ contracts
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/23/2026, 12:18:44 AM  
