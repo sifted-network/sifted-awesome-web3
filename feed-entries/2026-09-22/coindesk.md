@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-09-22"
 date: "2026-09-22"
 source: "CoinDesk"
-count: 17
+count: 18
 ---
 
 # CoinDesk - 2026-09-22
 
-17 items collected.
+18 items collected.
 
 ---
 
-## 1. Crypto market structure can't wait for shot at post-election Clarity Act surge: White House
+## 1. Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says
+
+**Author:** Nikhilesh De  
+**Published:** 9/22/2026, 9:29:05 PM  
+**Categories:** Policy, News  
+
+Senator Cynthia Lummis said the crypto industry should "pin it on the Democrats" in her first public remarks after last week's failed Clarity Act vote.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says)
+
+---
+
+## 2. Crypto market structure can't wait for shot at post-election Clarity Act surge: White House
 
 **Author:** Jesse Hamilton  
 **Published:** 9/22/2026, 8:31:02 PM  
@@ -23,7 +35,7 @@ White House and U.S. Treasury officials agree that despite some hope that Congre
 
 ---
 
-## 2. Canada's 'Big Six' banks to launch interbank tokenized deposit initiative
+## 3. Canada's 'Big Six' banks to launch interbank tokenized deposit initiative
 
 **Author:** Olivier Acuna  
 **Published:** 9/22/2026, 5:34:03 PM  
@@ -35,7 +47,7 @@ Initial testing will focus on moving digital commercial deposits across particip
 
 ---
 
-## 3. Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody
+## 4. Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody
 
 **Author:** Jesse Hamilton  
 **Published:** 9/22/2026, 3:21:28 PM  
@@ -47,7 +59,7 @@ Taylor Lindman, the top lawyer on the agency's Crypto Task Force, says the SEC i
 
 ---
 
-## 4. European central banks push to expand stablecoin yield ban to crypto lending and staking
+## 5. European central banks push to expand stablecoin yield ban to crypto lending and staking
 
 **Author:** Olivier Acuna  
 **Published:** 9/22/2026, 2:32:59 PM  
@@ -59,7 +71,7 @@ Central bankers argue that indirect yield structures blur the line between elect
 
 ---
 
-## 5. Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows
+## 6. Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows
 
 **Author:** Shaurya Malwa  
 **Published:** 9/22/2026, 12:32:15 PM  
@@ -71,7 +83,7 @@ CoinDesk found one $5,499 trade size accounting for 57% of sampled ether-perpetu
 
 ---
 
-## 6. Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement
+## 7. Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement
 
 **Author:** Olivier Acuna  
 **Published:** 9/22/2026, 12:05:55 PM  
@@ -83,7 +95,7 @@ Reap is preparing to add a Mexican peso stablecoin and is exploring Hong Kong do
 
 ---
 
-## 7. A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October
+## 8. A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October
 
 **Author:** Omkar Godbole  
 **Published:** 9/22/2026, 11:35:43 AM  
@@ -95,7 +107,7 @@ Your day-ahead look for Sept. 22, 2026
 
 ---
 
-## 8. Binance buys $100 million Circle stake in five-year USDC promotion deal
+## 9. Binance buys $100 million Circle stake in five-year USDC promotion deal
 
 **Author:** Shaurya Malwa,Omkar Godbole  
 **Published:** 9/22/2026, 11:07:23 AM  
@@ -107,7 +119,7 @@ Circle sold 1.24 million shares at $80.84 each and will pay Binance a monthly fe
 
 ---
 
-## 9. Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite
+## 10. Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite
 
 **Author:** Omkar Godbole,Shaurya Malwa  
 **Published:** 9/22/2026, 10:59:03 AM  
@@ -119,7 +131,7 @@ Bitcoin traded near $86,000 as WTI crude dropped below $90 and strong stock mark
 
 ---
 
-## 10. Live updates: Bitcoin trades near $86,000 as U.S. stocks post small gains
+## 11. Live updates: Bitcoin trades near $86,000 as U.S. stocks post small gains
 
 **Author:** James Van Straten,Shaurya Malwa,Omkar Godbole,Stephen Alpher,Helene Braun  
 **Published:** 9/22/2026, 10:20:12 AM  
@@ -131,7 +143,7 @@ WTI crude oil dropped to $90 as reports suggested Iran could reopen the Strait o
 
 ---
 
-## 11. Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg
+## 12. Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg
 
 **Author:** Olivier Acuna  
 **Published:** 9/22/2026, 10:07:52 AM  
@@ -143,7 +155,7 @@ Federal prosecutors in Manhattan and the Justice Department are said to be inves
 
 ---
 
-## 12. Animoca Brands delays IPO plans, suspends merger talks with Currenc
+## 13. Animoca Brands delays IPO plans, suspends merger talks with Currenc
 
 **Author:** Jamie Crawley  
 **Published:** 9/22/2026, 9:47:15 AM  
@@ -155,7 +167,7 @@ Talks between the two kicked off late last year, with plans for the former to ow
 
 ---
 
-## 13. Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever
+## 14. Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever
 
 **Author:** Omkar Godbole  
 **Published:** 9/22/2026, 7:40:41 AM  
@@ -167,7 +179,7 @@ Inflows into spot bitcoin ETFs picked up Monday as bitcoin rallied to its highes
 
 ---
 
-## 14. Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust
+## 15. Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 9/22/2026, 6:27:28 AM  
@@ -179,7 +191,7 @@ According to Galaxy Digital, the good guys have moved 52 BTC to an address carry
 
 ---
 
-## 15. Elon Musk's X brings crypto and stock trading via Coinbase, Kraken and Interactive Brokers partnership
+## 16. Elon Musk's X brings crypto and stock trading via Coinbase, Kraken and Interactive Brokers partnership
 
 **Author:** Omkar Godbole  
 **Published:** 9/22/2026, 5:26:00 AM  
@@ -191,7 +203,7 @@ Elon Musk’s X lets U.S. users tap cashtags such as $BTC to view live charts an
 
 ---
 
-## 16. Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000
+## 17. Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000
 
 **Author:** Shaurya Malwa  
 **Published:** 9/22/2026, 4:33:11 AM  
@@ -203,7 +215,7 @@ A wave of forced buying that cost short sellers $844 million has run its course,
 
 ---
 
-## 17. Cardano joins Solana, XRP Ledger in race to power AI agent payments
+## 18. Cardano joins Solana, XRP Ledger in race to power AI agent payments
 
 **Author:** Shaurya Malwa  
 **Published:** 9/22/2026, 4:15:45 AM  
