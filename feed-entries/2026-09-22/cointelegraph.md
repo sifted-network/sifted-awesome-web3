@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-22"
 date: "2026-09-22"
 source: "Cointelegraph"
-count: 18
+count: 12
 ---
 
 # Cointelegraph - 2026-09-22
 
-18 items collected.
+12 items collected.
 
 ---
 
@@ -152,77 +152,5 @@ Glassnode’s Altcoin Cycle Signal printed a new altseason signal after a month 
 Bitcoin traded near $86,000 as major altcoins gained, while rising derivatives leverage pointed to growing speculative activity across crypto markets.
 
 📖 [Read original article](https://cointelegraph.com/markets/crypto-market-cap-3-trillion-bitcoin-altcoins-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. White hats outrun Coldcard hackers in 52-Bitcoin evacuation
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/22/2026, 9:06:59 AM  
-**Categories:** Latest News  
-
-White hats secured about 40% of the Bitcoin moved in the Coldcard exploit’s second wave, transferring it to a Wyoming trust for victims.
-
-📖 [Read original article](https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/22/2026, 8:06:23 AM  
-**Categories:** Latest News  
-
-Solstice CEO Ben Nadareski says deeper liquidity and growing institutional participation could make future crypto bull runs less volatile than previous cycles.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitcoin ETFs flirt with $1B as inflows hit 2026 high
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/22/2026, 7:33:37 AM  
-**Categories:** Markets  
-
-US spot Bitcoin ETFs drew nearly $1 billion on Monday, their largest daily inflow since October 2025, as Bitcoin briefly climbed above $87,000.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Animoca puts Currenc merger on ice, delaying its Nasdaq debut
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/22/2026, 6:48:20 AM  
-**Categories:** Latest News  
-
-Animoca Brands suspended its reverse merger talks with Currenc but said it remains committed to pursuing a listing on a major exchange.
-
-📖 [Read original article](https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/22/2026, 5:29:31 AM  
-**Categories:** Latest News  
-
-Treasury named AI among five major transitions expected to reshape Australia’s economy, while Coinbase says the report overlooks the digital financial infrastructure AI agents could eventually need.
-
-📖 [Read original article](https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Trueo prediction market moves from Base to Ethereum
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/22/2026, 4:03:00 AM  
-**Categories:** Latest News  
-
-Trueo said Base was the right choice when it launched, as Ethereum gas fees were higher, but said mainnet now offers greater integration potential.
-
-📖 [Read original article](https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
