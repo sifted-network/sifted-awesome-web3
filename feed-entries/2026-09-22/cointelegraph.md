@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-22"
 date: "2026-09-22"
 source: "Cointelegraph"
-count: 12
+count: 6
 ---
 
 # Cointelegraph - 2026-09-22
 
-12 items collected.
+6 items collected.
 
 ---
 
@@ -80,77 +80,5 @@ Bitcoin price action avoided a significant drop below $86,000 as US president Do
 Control of the US House and Senate is up for grabs in 2026, and some advocates speculate that the crypto industry could ratchet up attempts to sway elections after the CLARITY vote.
 
 📖 [Read original article](https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/22/2026, 3:37:17 PM  
-**Categories:** Latest News  
-
-The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.
-
-📖 [Read original article](https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Big Questions: Does Satoshi actually own 1.1 million Bitcoin?
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 9/22/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Researchers can trace an estimated 1.1 million BTC to a distinctive early mining operation. The harder question is whether that miner was actually Satoshi.
-
-📖 [Read original article](https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Binance takes $100M stake in Circle under expanded USDC deal
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/22/2026, 12:18:41 PM  
-**Categories:** Latest News  
-
-Circle sold Binance $100 million in stock and agreed to pay monthly incentives under an expanded five-year partnership promoting USDC.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. ECB to put its own money into tokenized securities via new Pontes DLT
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/22/2026, 11:29:35 AM  
-**Categories:** Latest News  
-
-The ECB aims to gain firsthand DLT market experience by buying tokenized public-sector securities and settling the trades through Pontes.
-
-📖 [Read original article](https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/22/2026, 10:00:43 AM  
-**Categories:** Markets  
-
-Glassnode’s Altcoin Cycle Signal printed a new altseason signal after a month of Bitcoin and altcoin market-cap gains.
-
-📖 [Read original article](https://cointelegraph.com/markets/crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/22/2026, 9:58:26 AM  
-**Categories:** Markets  
-
-Bitcoin traded near $86,000 as major altcoins gained, while rising derivatives leverage pointed to growing speculative activity across crypto markets.
-
-📖 [Read original article](https://cointelegraph.com/markets/crypto-market-cap-3-trillion-bitcoin-altcoins-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
