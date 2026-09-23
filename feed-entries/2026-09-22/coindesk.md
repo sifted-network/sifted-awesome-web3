@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-22"
 date: "2026-09-22"
 source: "CoinDesk"
-count: 15
+count: 9
 ---
 
 # CoinDesk - 2026-09-22
 
-15 items collected.
+9 items collected.
 
 ---
 
@@ -116,77 +116,5 @@ Your day-ahead look for Sept. 22, 2026
 Circle sold 1.24 million shares at $80.84 each and will pay Binance a monthly fee tied to USDC held through its wallet infrastructure.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal)
-
----
-
-## 10. Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite
-
-**Author:** Omkar Godbole,Shaurya Malwa  
-**Published:** 9/22/2026, 10:59:03 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin traded near $86,000 as WTI crude dropped below $90 and strong stock markets supported risk appetite.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite)
-
----
-
-## 11. Live updates: Bitcoin trades near $86,000 as U.S. stocks post small gains
-
-**Author:** James Van Straten,Shaurya Malwa,Omkar Godbole,Stephen Alpher,Helene Braun  
-**Published:** 9/22/2026, 10:20:12 AM  
-**Categories:** Markets, Bitcoin News, Live News, live_news  
-
-WTI crude oil dropped to $90 as reports suggested Iran could reopen the Strait of Hormuz within seven days.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000)
-
----
-
-## 12. Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg
-
-**Author:** Olivier Acuna  
-**Published:** 9/22/2026, 10:07:52 AM  
-**Categories:** Policy, Binance, Iran, News  
-
-Federal prosecutors in Manhattan and the Justice Department are said to be investigating whether the crypto exchange knowingly permitted users to bypass U.S. sanctions on Iran.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg)
-
----
-
-## 13. Animoca Brands delays IPO plans, suspends merger talks with Currenc
-
-**Author:** Jamie Crawley  
-**Published:** 9/22/2026, 9:47:15 AM  
-**Categories:** Finance, IPOs, Nasdaq, News  
-
-Talks between the two kicked off late last year, with plans for the former to own 95% of the merged company.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc)
-
----
-
-## 14. Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever
-
-**Author:** Omkar Godbole  
-**Published:** 9/22/2026, 7:40:41 AM  
-**Categories:** Markets, ETFs, Bitcoin News, No Grayscale, News  
-
-Inflows into spot bitcoin ETFs picked up Monday as bitcoin rallied to its highest since January.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever)
-
----
-
-## 15. Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 9/22/2026, 6:27:28 AM  
-**Categories:** Markets, Coldcard, News  
-
-According to Galaxy Digital, the good guys have moved 52 BTC to an address carrying an OP_RETURN message reading "claim:cryptorecoverytrust dot com."
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust)
 
 ---
