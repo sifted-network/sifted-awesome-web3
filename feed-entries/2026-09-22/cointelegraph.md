@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-22"
 date: "2026-09-22"
 source: "Cointelegraph"
-count: 21
+count: 18
 ---
 
 # Cointelegraph - 2026-09-22
 
-21 items collected.
+18 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ Many Democrats have previously called for investigations into the Trump family�
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 9/22/2026, 8:03:30 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Canada’s six largest banks explore tokenized Canadian dollar deposits
+## 3. Canada’s six largest banks explore tokenized Canadian dollar deposits
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/22/2026, 7:56:48 PM  
@@ -59,7 +47,7 @@ The country’s largest financial institutions are exploring tokenized deposits 
 
 ---
 
-## 5. Zcash gets first European ETP following US ETF launch
+## 4. Zcash gets first European ETP following US ETF launch
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/22/2026, 4:21:44 PM  
@@ -71,7 +59,7 @@ The country’s largest financial institutions are exploring tokenized deposits 
 
 ---
 
-## 6. Bitcoin price seeks $86K as new support after oil dips below $90
+## 5. Bitcoin price seeks $86K as new support after oil dips below $90
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/22/2026, 4:01:55 PM  
@@ -83,7 +71,7 @@ Bitcoin price action avoided a significant drop below $86,000 as US president Do
 
 ---
 
-## 7. CLARITY vote failure could stoke more crypto PAC spending in key races
+## 6. CLARITY vote failure could stoke more crypto PAC spending in key races
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/22/2026, 3:55:37 PM  
@@ -95,7 +83,7 @@ Control of the US House and Senate is up for grabs in 2026, and some advocates s
 
 ---
 
-## 8. ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins
+## 7. ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/22/2026, 3:37:17 PM  
@@ -107,7 +95,7 @@ The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit re
 
 ---
 
-## 9. Big Questions: Does Satoshi actually own 1.1 million Bitcoin?
+## 8. Big Questions: Does Satoshi actually own 1.1 million Bitcoin?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/22/2026, 1:30:00 PM  
@@ -119,7 +107,7 @@ Researchers can trace an estimated 1.1 million BTC to a distinctive early mining
 
 ---
 
-## 10. Binance takes $100M stake in Circle under expanded USDC deal
+## 9. Binance takes $100M stake in Circle under expanded USDC deal
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/22/2026, 12:18:41 PM  
@@ -131,7 +119,7 @@ Circle sold Binance $100 million in stock and agreed to pay monthly incentives u
 
 ---
 
-## 11. ECB to put its own money into tokenized securities via new Pontes DLT
+## 10. ECB to put its own money into tokenized securities via new Pontes DLT
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/22/2026, 11:29:35 AM  
@@ -143,7 +131,7 @@ The ECB aims to gain firsthand DLT market experience by buying tokenized public-
 
 ---
 
-## 12. Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%
+## 11. Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/22/2026, 10:00:43 AM  
@@ -155,7 +143,7 @@ Glassnode’s Altcoin Cycle Signal printed a new altseason signal after a month 
 
 ---
 
-## 13. Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally
+## 12. Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/22/2026, 9:58:26 AM  
@@ -167,7 +155,7 @@ Bitcoin traded near $86,000 as major altcoins gained, while rising derivatives l
 
 ---
 
-## 14. White hats outrun Coldcard hackers in 52-Bitcoin evacuation
+## 13. White hats outrun Coldcard hackers in 52-Bitcoin evacuation
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/22/2026, 9:06:59 AM  
@@ -179,7 +167,7 @@ White hats secured about 40% of the Bitcoin moved in the Coldcard exploit’s se
 
 ---
 
-## 15. Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says
+## 14. Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/22/2026, 8:06:23 AM  
@@ -191,7 +179,7 @@ Solstice CEO Ben Nadareski says deeper liquidity and growing institutional parti
 
 ---
 
-## 16. Bitcoin ETFs flirt with $1B as inflows hit 2026 high
+## 15. Bitcoin ETFs flirt with $1B as inflows hit 2026 high
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/22/2026, 7:33:37 AM  
@@ -203,7 +191,7 @@ US spot Bitcoin ETFs drew nearly $1 billion on Monday, their largest daily inflo
 
 ---
 
-## 17. Animoca puts Currenc merger on ice, delaying its Nasdaq debut
+## 16. Animoca puts Currenc merger on ice, delaying its Nasdaq debut
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/22/2026, 6:48:20 AM  
@@ -215,7 +203,7 @@ Animoca Brands suspended its reverse merger talks with Currenc but said it remai
 
 ---
 
-## 18. Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto
+## 17. Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/22/2026, 5:29:31 AM  
@@ -227,7 +215,7 @@ Treasury named AI among five major transitions expected to reshape Australia’s
 
 ---
 
-## 19. Trueo prediction market moves from Base to Ethereum
+## 18. Trueo prediction market moves from Base to Ethereum
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/22/2026, 4:03:00 AM  
@@ -236,29 +224,5 @@ Treasury named AI among five major transitions expected to reshape Australia’s
 Trueo said Base was the right choice when it launched, as Ethereum gas fees were higher, but said mainnet now offers greater integration potential.
 
 📖 [Read original article](https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/22/2026, 3:13:22 AM  
-**Categories:** Latest News  
-
-Kakao Pay and KakaoBank are exploring digital asset opportunities with Fireblocks, including infrastructure for stablecoins.
-
-📖 [Read original article](https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/22/2026, 2:22:59 AM  
-**Categories:** Latest News  
-
-The investigation is reportedly examining whether Binance knowingly allowed trading that violated US sanctions on Iran, months after reports first revealed a Justice Department probe.
-
-📖 [Read original article](https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
