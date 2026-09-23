@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-22"
 date: "2026-09-22"
 source: "CoinDesk"
-count: 18
+count: 15
 ---
 
 # CoinDesk - 2026-09-22
 
-18 items collected.
+15 items collected.
 
 ---
 
@@ -188,41 +188,5 @@ Inflows into spot bitcoin ETFs picked up Monday as bitcoin rallied to its highes
 According to Galaxy Digital, the good guys have moved 52 BTC to an address carrying an OP_RETURN message reading "claim:cryptorecoverytrust dot com."
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust)
-
----
-
-## 16. Elon Musk's X brings crypto and stock trading via Coinbase, Kraken and Interactive Brokers partnership
-
-**Author:** Omkar Godbole  
-**Published:** 9/22/2026, 5:26:00 AM  
-**Categories:** Markets, Elon Musk, Bitcoin News, News  
-
-Elon Musk’s X lets U.S. users tap cashtags such as $BTC to view live charts and access Coinbase, Kraken and other trading platforms.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline)
-
----
-
-## 17. Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000
-
-**Author:** Shaurya Malwa  
-**Published:** 9/22/2026, 4:33:11 AM  
-**Categories:** Markets, News  
-
-A wave of forced buying that cost short sellers $844 million has run its course, leaving the largest cryptocurrency flat over the past hour and ZEC the only major token in the red.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000)
-
----
-
-## 18. Cardano joins Solana, XRP Ledger in race to power AI agent payments
-
-**Author:** Shaurya Malwa  
-**Published:** 9/22/2026, 4:15:45 AM  
-**Categories:** Tech, News  
-
-The official x402 kit now includes Cardano tools for apps and AI agents to pay with ADA and other network tokens, though the facilitator has so far only been tested on pre-production.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments)
 
 ---
