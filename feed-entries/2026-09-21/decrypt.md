@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-21"
 date: "2026-09-21"
 source: "Decrypt"
-count: 10
+count: 6
 ---
 
 # Decrypt - 2026-09-21
 
-10 items collected.
+6 items collected.
 
 ---
 
@@ -80,53 +80,5 @@ Eligible customers can request shares at the offering price, but allocations are
 The central bank plans to buy euro-denominated public-sector debt and settle the transactions through its new Pontes service.
 
 📖 [Read original article](https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities)
-
----
-
-## 7. What Is VVV? The Privacy-Obsessed AI Token That’s Up 3,000% in 2026
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/21/2026, 6:31:03 PM  
-**Categories:** , Coins  
-
-Venice (VVV) has clawed back from under a dollar to a record $34, and the pitch behind it is simple: an AI chatbot that promises to forget you the moment you close the tab.
-
-📖 [Read original article](https://decrypt.co/378840/what-is-vvv-privacy-ai-token-up-3000-percent-2026)
-
----
-
-## 8. Can a Fruit Fly Brain Mine Bitcoin? These Companies Are Testing It
-
-**Author:** Jason Nelson  
-**Published:** 9/21/2026, 5:46:02 PM  
-**Categories:** , Technology  
-
-The HashFly browser experiment uses a digital neural model for Bitcoin hashing and projects greater efficiency from a hypothetical biological version.
-
-📖 [Read original article](https://decrypt.co/378836/fruit-fly-brain-mine-bitcoin-these-companies-testing)
-
----
-
-## 9. xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/21/2026, 5:16:03 PM  
-**Categories:** Artificial Intelligence  
-
-xAI says the new model is a "notable improvement" over Grok 4.6 at the same price. The benchmarks say it's still in second place.
-
-📖 [Read original article](https://decrypt.co/378824/xai-launches-grok-4-7)
-
----
-
-## 10. Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That
-
-**Author:** Stephen Graves  
-**Published:** 9/21/2026, 4:46:03 PM  
-**Categories:** , secret, Technology  
-
-Crypto advocates argue that NFTs can deliver real digital ownership, but privacy gaps and integration hurdles have held the tech back.
-
-📖 [Read original article](https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that)
 
 ---
