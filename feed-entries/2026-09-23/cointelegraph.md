@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-23"
 date: "2026-09-23"
 source: "Cointelegraph"
-count: 15
+count: 11
 ---
 
 # Cointelegraph - 2026-09-23
 
-15 items collected.
+11 items collected.
 
 ---
 
@@ -140,53 +140,5 @@ National regulators will map client-facing uses of the technologies, check a sub
 The SEC has opened a five-year path for tokenized stocks, but only some products and venues fit the model. Will Uniswap, Robinhood, Coinbase or Kraken come out on top?
 
 📖 [Read original article](https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. MoonPay to buy North Capital in all-stock deal worth over $60M
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/23/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-MoonPay’s North Capital acquisition adds US broker-dealer, trading and investment infrastructure as it expands into tokenized securities.
-
-📖 [Read original article](https://cointelegraph.com/news/moonpay-north-capital-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Stablecoin cross-border flows surge 78%, defying crypto bear market
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/23/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-Cross-border stablecoin transfers surged as the wider crypto market shrank 37%, with Chainalysis pointing to growing use for trade, remittances and savings.
-
-📖 [Read original article](https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. EU watchdogs warn quantum computers could pick crypto’s locks
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/23/2026, 12:22:56 PM  
-**Categories:** Latest News  
-
-EU supervisors warn quantum computing could weaken blockchain security as Bitcoin developers weigh a draft migration plan and Ethereum targets 2029.
-
-📖 [Read original article](https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. CFTC chair pushes tokenization as SEC opens door to onchain stocks
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/23/2026, 10:06:55 AM  
-**Categories:** Latest News  
-
-Michael Selig said tokenization could reshape financial markets as the CFTC and SEC continue advancing onchain initiatives despite the CLARITY Act setback.
-
-📖 [Read original article](https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
