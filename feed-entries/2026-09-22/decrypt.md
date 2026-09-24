@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-22"
 date: "2026-09-22"
 source: "Decrypt"
-count: 14
+count: 8
 ---
 
 # Decrypt - 2026-09-22
 
-14 items collected.
+8 items collected.
 
 ---
 
@@ -104,77 +104,5 @@ A stretched but firmly bullish Bitcoin chart is riding the same tailwind lifting
 Bernstein now projects prediction markets will handle $10 trillion a year by 2035, up from its own $1 trillion by 2030 forecast made just five months ago.
 
 📖 [Read original article](https://decrypt.co/378963/bernstein-10-trillion-prediction-markets)
-
----
-
-## 9. Anthropic’s New Claude Opus 5.5 Matches Fable at 60% the Price
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/22/2026, 5:49:07 PM  
-**Categories:** Artificial Intelligence  
-
-Anthropic's new flagship claims Fable 5.1-level performance at a fraction of the cost—but GPT-6 Astra still beats it on two published benchmarks.
-
-📖 [Read original article](https://decrypt.co/378947/anthropic-claude-opus-5-5-fable-price-comparison)
-
----
-
-## 10. Dogecoin Jumps to Highest Price in Months: Here's What's Going On
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/22/2026, 5:09:30 PM  
-**Categories:** dogecoin, Markets  
-
-Dogecoin is rallying, and once again, Elon Musk may have something to do with it.
-
-📖 [Read original article](https://decrypt.co/378934/dogecoin-price-jumps-highest-months)
-
----
-
-## 11. Bitcoin ETFs Take Nearly $1B in a Day as Average Holder Returns to Profit
-
-**Author:** Decrypt Agent  
-**Published:** 9/22/2026, 2:59:37 PM  
-**Categories:** , Coins  
-
-The funds pulled in more on Monday than across the whole of last week, when they posted the weakest net inflow of their history.
-
-📖 [Read original article](https://decrypt.co/378921/bitcoin-etfs-take-nearly-1b-in-a-day-as-average-holder-returns-to-profit)
-
----
-
-## 12. Morning Minute: Robinhood CEO Bets Crypto Will Beat Sports at Prediction Markets
-
-**Author:** Tyler Warner  
-**Published:** 9/22/2026, 12:15:44 PM  
-**Categories:** , , Opinion  
-
-Crypto is interesting again and that means attention is flowing back to the sector. And it’s starting to show in the data.
-
-📖 [Read original article](https://decrypt.co/378918/morning-minute-robinhood-ceo-bets-crypto-will-beat-sports-at-prediction-markets)
-
----
-
-## 13. Binance Takes $100M Stake in Circle Under Five-Year USDC Promotion Deal
-
-**Author:** Decrypt Agent  
-**Published:** 9/22/2026, 11:39:37 AM  
-**Categories:** Business  
-
-The two sides closed an equity placement and a five-year commercial deal on the same day, with money moving in both directions.
-
-📖 [Read original article](https://decrypt.co/378910/binance-takes-100m-stake-in-circle-under-five-year-usdc-promotion-deal)
-
----
-
-## 14. US Probes Whether Binance 'Knowingly' Let Iran-Linked Trades Through: Report
-
-**Author:** Decrypt Agent  
-**Published:** 9/22/2026, 9:47:47 AM  
-**Categories:** , , Law and Order  
-
-Binance says it has a "zero-tolerance policy" for sanctions violations. Prosecutors are asking whether its 2023 compliance fixes held.
-
-📖 [Read original article](https://decrypt.co/378902/us-probes-whether-binance-knowingly-let-iran-linked-trades-through-report)
 
 ---
