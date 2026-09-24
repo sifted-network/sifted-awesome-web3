@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-22"
 date: "2026-09-22"
 source: "The Block"
-count: 12
+count: 10
 ---
 
 # The Block - 2026-09-22
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ SoFi launches live SoFiUSD stablecoin settlement on Mastercard's network, with i
 Bernstein projects global prediction market volume will hit $10 trillion by 2035, driven by expanding financial assets.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-09-22-bernstein-sees-annual-prediction-market-volumes-hitting-10-trillion-by-2035-as-financial-assets-overtake-sports-416030)
-
----
-
-## 11. Spot bitcoin ETFs attract nearly $1 billion in largest daily inflow in 11 months
-
-**Author:** Timmy Shen  
-**Published:** 9/22/2026, 7:44:17 AM  
-**Categories:** Markets, News  
-
-US spot bitcoin ETFs saw $999 million in net inflows on Monday, the largest single-day amount the funds have attracted since Oct. 6, 2025.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-22-spot-bitcoin-etfs-1-billion-daily-inflow-416005)
-
----
-
-## 12. Onchain prediction market Trueo migrates to Ethereum; Vitalik Buterin welcomes ‘ethical’ market contender
-
-**Author:** Danny Park  
-**Published:** 9/22/2026, 6:01:24 AM  
-**Categories:** Crypto Ecosystems, DeFi, News  
-
-Vitalik Buterin touted Trueo as a strong prediction market contender that is decentralized, ethical, and 'not corposlop.'
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999)
 
 ---
