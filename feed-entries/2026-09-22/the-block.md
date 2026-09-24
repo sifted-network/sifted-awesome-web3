@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-22"
 date: "2026-09-22"
 source: "The Block"
-count: 10
+count: 6
 ---
 
 # The Block - 2026-09-22
 
-10 items collected.
+6 items collected.
 
 ---
 
@@ -80,53 +80,5 @@ Breed VC has raised $15 million for its second crypto fund. Backers include Falc
 Coinbase has added fixed-rate loans through Morpho Midnight, letting users borrow USDC against their bitcoin.
 
 📖 [Read original article](https://www.theblock.co/news/defi/2026-09-22-coinbase-fixed-rate-bitcoin-loans-morpho-midnight-416050)
-
----
-
-## 7. CME adds Bitcoin Cash and Uniswap futures as crypto derivatives push grows
-
-**Author:** Jason Shubnell  
-**Published:** 9/22/2026, 1:56:11 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Markets, News  
-
-The exchange will offer standard and Micro contracts, covering 250 BCH and 25 BCH, and 10,000 UNI and 1,000 UNI, respectively.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-22-cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows-416049)
-
----
-
-## 8. Binance takes $100 million Circle stake alongside five-year USDC deal
-
-**Author:** Brian Danga  
-**Published:** 9/22/2026, 12:53:52 PM  
-**Categories:** Companies, Exchanges, Binance, News  
-
-The exchange also expanded its USDC partnership with Circle, agreeing to promote USDC on its platform under a five-year arrangement.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042)
-
----
-
-## 9. SoFi begins stablecoin settlement on Mastercard network for program expected to exceed $25 billion in annualized volume
-
-**Author:** James Hunt  
-**Published:** 9/22/2026, 12:00:00 PM  
-**Categories:** Companies, News  
-
-SoFi launches live SoFiUSD stablecoin settlement on Mastercard's network, with its card program targeting $25 billion in annualized volume.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-22-sofi-begins-stablecoin-settlement-on-mastercard-network-for-program-expected-to-exceed-25-billion-in-annualized-volume-416035)
-
----
-
-## 10. Bernstein sees annual prediction market volumes hitting $10 trillion by 2035 as financial assets overtake sports
-
-**Author:** Brian Danga  
-**Published:** 9/22/2026, 10:56:05 AM  
-**Categories:** Companies, Equities, Markets, Analyst Reports, News  
-
-Bernstein projects global prediction market volume will hit $10 trillion by 2035, driven by expanding financial assets.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-22-bernstein-sees-annual-prediction-market-volumes-hitting-10-trillion-by-2035-as-financial-assets-overtake-sports-416030)
 
 ---
