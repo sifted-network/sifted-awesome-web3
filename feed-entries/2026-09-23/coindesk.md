@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-23"
 date: "2026-09-23"
 source: "CoinDesk"
-count: 19
+count: 18
 ---
 
 # CoinDesk - 2026-09-23
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -113,7 +113,7 @@ The 10-year U.S. Treasury yield has soared 18 basis points on Wednesday to its h
 **Published:** 9/23/2026, 11:28:50 AM  
 **Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
 
-Your day-ahead look for Sept. 22, 2026
+Your day-ahead look for Sept. 23, 2026
 
 📖 [Read original article](https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t)
 
@@ -224,17 +224,5 @@ Bitcoin’s 10% September gain puts it on track for a rare three-month winning s
 Falling oil eased inflation worries through the Asian session, while a bill to make the government's bitcoin stockpile permanent moved further through Congress than any before it.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000)
-
----
-
-## 19. U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms
-
-**Author:** Jesse Hamilton  
-**Published:** 9/23/2026, 12:00:45 AM  
-**Categories:** Policy, Prediction Markets, Kalshi, Polymarket, Regulation, News  
-
-The Commodity Futures Trading Commission issued a new advisory to flag the unique dangers of markets based on individuals' behavior.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms)
 
 ---
