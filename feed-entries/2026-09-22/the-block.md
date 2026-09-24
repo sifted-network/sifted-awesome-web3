@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-22"
 date: "2026-09-22"
 source: "The Block"
-count: 6
+count: 1
 ---
 
 # The Block - 2026-09-22
 
-6 items collected.
+1 items collected.
 
 ---
 
@@ -20,65 +20,5 @@ count: 6
 The fund aims to address a critical financing bottleneck in the institutional digital asset sector by using 'covenant-based' underwriting.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-09-22-hashed-private-credit-fund-416013)
-
----
-
-## 2. CFTC warns ‘mention market’ prediction contracts carry heightened manipulation risk
-
-**Author:** Sarah Wynn  
-**Published:** 9/22/2026, 9:42:19 PM  
-**Categories:** Policy, Regulation, CFTC, News  
-
-The CFTC is warning that bets on prediction markets based on whether someone will "mention" specific words carries manipulation risks.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120)
-
----
-
-## 3. CFTC Chairman Selig says markets must prepare for ‘mass tokenization’
-
-**Author:** Sarah Wynn  
-**Published:** 9/22/2026, 9:08:20 PM  
-**Categories:** Crypto Ecosystems, Policy, Regulation, Web3, CFTC, Tokenization, News  
-
-The Trump administration is preparing for a financial market overhaul as tokenization and 24/7 trading move into the spotlight.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111)
-
----
-
-## 4. Coinbase, Circle shares positioned for crypto recovery as estimates stabilize: William Blair
-
-**Author:** Jason Shubnell  
-**Published:** 9/22/2026, 6:44:53 PM  
-**Categories:** Companies, Crypto Ecosystems, Equities, Exchanges, Markets, Public Equities, Stablecoins, Token Projects, Analyst Reports, Coinbase, USDC, News  
-
-Blair says COIN offers an attractive entry after a 31% rise, trims its EBITDA estimate and sees USDC growth driving Circle's next leg.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-22-coinbase-circle-shares-positioned-crypto-recovery-estimates-stabilize-william-blair-416083)
-
----
-
-## 5. Solo GP Jed Breed raises $15 million for his second early-stage crypto fund
-
-**Author:** Yogita Khatri  
-**Published:** 9/22/2026, 4:15:02 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Venture Capital, Web3, exclusive, New VC Funds, News  
-
-Breed VC has raised $15 million for its second crypto fund. Backers include FalconX, Nic Carter, Rob Hadick and Jake Brukhman.
-
-📖 [Read original article](https://www.theblock.co/news/deals/2026-09-22-jed-breed-vc-second-crypto-fund-416075)
-
----
-
-## 6. Coinbase adds fixed-rate bitcoin-backed loans through Morpho Midnight
-
-**Author:** Yogita Khatri  
-**Published:** 9/22/2026, 2:13:20 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Markets, Public Equities, Web3, Coinbase, exclusive, News  
-
-Coinbase has added fixed-rate loans through Morpho Midnight, letting users borrow USDC against their bitcoin.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-09-22-coinbase-fixed-rate-bitcoin-loans-morpho-midnight-416050)
 
 ---
