@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-22"
 date: "2026-09-22"
 source: "Cointelegraph"
-count: 6
+count: 4
 ---
 
 # Cointelegraph - 2026-09-22
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ The country’s largest financial institutions are exploring tokenized deposits 
 21shares listed physically backed ZEC and ETHFI products on Euronext Paris and Amsterdam, as issuers broaden their offerings beyond major cryptocurrencies.
 
 📖 [Read original article](https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Bitcoin price seeks $86K as new support after oil dips below $90
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/22/2026, 4:01:55 PM  
-**Categories:** Markets  
-
-Bitcoin price action avoided a significant drop below $86,000 as US president Donald Trump pledged a deal with Iran after November’s midterm election.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-seeks-86k-as-new-support-after-oil-dips-below-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. CLARITY vote failure could stoke more crypto PAC spending in key races
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 9/22/2026, 3:55:37 PM  
-**Categories:** Latest News  
-
-Control of the US House and Senate is up for grabs in 2026, and some advocates speculate that the crypto industry could ratchet up attempts to sway elections after the CLARITY vote.
-
-📖 [Read original article](https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
