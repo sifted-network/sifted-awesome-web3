@@ -2,16 +2,76 @@
 title: "CoinDesk - 2026-09-24"
 date: "2026-09-24"
 source: "CoinDesk"
-count: 19
+count: 24
 ---
 
 # CoinDesk - 2026-09-24
 
-19 items collected.
+24 items collected.
 
 ---
 
-## 1. Crypto casino Duelbits goes offline after $7 million hot wallet hack
+## 1. Someone was trying to sell Ondo Finance after founder Nathan Allman's death
+
+**Author:** Will Canny  
+**Published:** 9/24/2026, 8:13:25 PM  
+**Categories:** Finance, ondo finance, mergers and acquisitions, Exclusive, Tokenization, News  
+
+The company has vehemently denied that it was shopping for buyers. Allman’s estate declined to comment.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death)
+
+---
+
+## 2. Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks
+
+**Author:** Krisztian Sandor,AI Boost  
+**Published:** 9/24/2026, 8:05:00 PM  
+**Categories:** Finance, Tokenization, News  
+
+The group aims to link onchain shares to official shareholder records following the U.S. SEC's innovation exemption for tokenized stock trading.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks)
+
+---
+
+## 3. U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC
+
+**Author:** Jesse Hamilton  
+**Published:** 9/24/2026, 8:04:46 PM  
+**Categories:** Policy, Regulation, Tokenization, News  
+
+The U.S derivatives regulator is grinding away at further guidance that welcomes tokenization and blockchain recordkeeping as regular industry elements.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc)
+
+---
+
+## 4. The stock token debate, and the gap nobody can close alone
+
+**Author:** Tram Doman  
+**Published:** 9/24/2026, 8:03:21 PM  
+**Categories:** Opinion, Opinion  
+
+The argument over Robinhood’s AMC token has been about which tokenization model is legitimate, and the SEC has drawn a line. The question to ask now is what has to be true for any of it to be a market, argues Bullish’s Tram Doman.
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone)
+
+---
+
+## 5. Bitcoin just topped a key long-term moving average. Here's what it might mean
+
+**Author:** Olivier Acuna  
+**Published:** 9/24/2026, 6:46:58 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Bitcoin’s return above its one-year average excited chart watchers. AltcoinPro Research says the more important signal is whether it can stay above its 200-day average.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean)
+
+---
+
+## 6. Crypto casino Duelbits goes offline after $7 million hot wallet hack
 
 **Author:** Oliver Knight  
 **Published:** 9/24/2026, 3:48:20 PM  
@@ -23,7 +83,7 @@ Attackers drained Duelbits' hot wallets across four blockchains; about $6 millio
 
 ---
 
-## 2. Bitcoin’s bear markets are getting milder. Bull markets may be next
+## 7. Bitcoin’s bear markets are getting milder. Bull markets may be next
 
 **Author:** Helene Braun  
 **Published:** 9/24/2026, 3:26:34 PM  
@@ -35,7 +95,7 @@ Bitcoin’s latest bear market was milder than past crashes as ETFs, institution
 
 ---
 
-## 3. UK’s largest banks complete world’s first interbank transactions using tokenized deposits
+## 8. UK’s largest banks complete world’s first interbank transactions using tokenized deposits
 
 **Author:** Olivier Acuna  
 **Published:** 9/24/2026, 3:07:18 PM  
@@ -47,7 +107,7 @@ Barclays, NatWest, and HSBC and others used tokenized deposits for remortgages a
 
 ---
 
-## 4. Crypto for Advisors:The hidden costs of holding your own bitcoin
+## 9. Crypto for Advisors:The hidden costs of holding your own bitcoin
 
 **Author:** Dovile Silenskyte,Bryan Courchesne  
 **Published:** 9/24/2026, 2:49:28 PM  
@@ -59,7 +119,7 @@ Barclays, NatWest, and HSBC and others used tokenized deposits for remortgages a
 
 ---
 
-## 5. European stablecoin issuer Qivalis sees transformation of global trade finance
+## 10. European stablecoin issuer Qivalis sees transformation of global trade finance
 
 **Author:** Ian Allison  
 **Published:** 9/24/2026, 2:41:05 PM  
@@ -71,7 +131,7 @@ Jan-Oliver Sell, the CEO and founder of Qivalis, said the entire trade finance s
 
 ---
 
-## 6. Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes
+## 11. Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes
 
 **Author:** Krisztian Sandor  
 **Published:** 9/24/2026, 1:00:00 PM  
@@ -83,7 +143,7 @@ The ARK Venture Fund is bringing exposure to sought-after private tech companies
 
 ---
 
-## 7. Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push
+## 12. Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push
 
 **Author:** Krisztian Sandor  
 **Published:** 9/24/2026, 1:00:00 PM  
@@ -95,7 +155,7 @@ Rachel Conlan and Jamal Raees join as Solana aims to court institutions moving p
 
 ---
 
-## 8. Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case
+## 13. Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case
 
 **Author:** Krisztian Sandor  
 **Published:** 9/24/2026, 12:31:53 PM  
@@ -107,7 +167,7 @@ The $2 billion digital-asset investment firm rolls out an initiative to back, bu
 
 ---
 
-## 9. EU's financial regulator to make AI and tokenization a supervisory priority in 2027
+## 14. EU's financial regulator to make AI and tokenization a supervisory priority in 2027
 
 **Author:** Olivier Acuna  
 **Published:** 9/24/2026, 12:26:43 PM  
@@ -119,7 +179,7 @@ European regulators will map how financial firms use the technologies in client-
 
 ---
 
-## 10. Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme
+## 15. Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme
 
 **Author:** Olivier Acuna  
 **Published:** 9/24/2026, 11:33:57 AM  
@@ -131,7 +191,7 @@ The fraudster managed to scam about 100 people across the United States, convinc
 
 ---
 
-## 11. Litecoin token has its moment as network activity booms
+## 16. Litecoin token has its moment as network activity booms
 
 **Author:** Omkar Godbole  
 **Published:** 9/24/2026, 11:26:18 AM  
@@ -143,19 +203,19 @@ Your day-ahead look for Sept. 24, 2026
 
 ---
 
-## 12. Live updates: Bitcoin slips alongside continued gains in interest rates and oil
+## 17. Live updates: Oil back on the rise as Iran denies report of deal talks
 
 **Author:** Stephen Alpher,James Van Straten  
 **Published:** 9/24/2026, 11:20:12 AM  
 **Categories:** Tech, Live News, live_news  
 
-An early rally attempt failed as yields quickly reversed from lower to higher.
+Bitcoin pulled back to $84,000 as stocks slipped and interest rates rose alongside surging oil prices.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage)
 
 ---
 
-## 13. Bitcoin slides to $83,300 as bond yields hit highest level since 2007
+## 18. Bitcoin slides to $83,300 as bond yields hit highest level since 2007
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 9/24/2026, 10:30:28 AM  
@@ -167,7 +227,7 @@ The 10-year Treasury yield reached its highest since 2007, sending U.S. stocks a
 
 ---
 
-## 14. Traders price in 4 Fed rate hikes by June 2027 as bitcoin slides below $83,000
+## 19. Traders price in 4 Fed rate hikes by June 2027 as bitcoin slides below $83,000
 
 **Author:** James Van Straten  
 **Published:** 9/24/2026, 10:11:51 AM  
@@ -179,7 +239,7 @@ The four-hike path is the most likely outcome, while rising bond yields and a st
 
 ---
 
-## 15. The data proves it: Bitcoin doesn't care about rising bond yields over long-term
+## 20. The data proves it: Bitcoin doesn't care about rising bond yields over long-term
 
 **Author:** Omkar Godbole  
 **Published:** 9/24/2026, 9:48:09 AM  
@@ -191,7 +251,7 @@ Long-term, BTC ignores rising bond yields. In the short term, however, surging b
 
 ---
 
-## 16. EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption
+## 21. EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption
 
 **Author:** Olivier Acuna  
 **Published:** 9/24/2026, 9:32:48 AM  
@@ -203,7 +263,7 @@ The warning brings renewed urgency to the debate over how bitcoin should deal wi
 
 ---
 
-## 17. Trump administration weighs a global stablecoin plan to cement dollar's dominance
+## 22. Trump administration weighs a global stablecoin plan to cement dollar's dominance
 
 **Author:** Omkar Godbole  
 **Published:** 9/24/2026, 6:33:23 AM  
@@ -215,7 +275,7 @@ Washington is a mulling plan to actively promote USD-backed stablecoins worldwid
 
 ---
 
-## 18. A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66
+## 23. A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66
 
 **Author:** Shaurya Malwa  
 **Published:** 9/24/2026, 5:24:56 AM  
@@ -227,7 +287,7 @@ StarkWare, which conducted the research, says contest participants using AI tool
 
 ---
 
-## 19. Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007
+## 24. Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007
 
 **Author:** Shaurya Malwa  
 **Published:** 9/24/2026, 4:13:01 AM  
