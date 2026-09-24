@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-23"
 date: "2026-09-23"
 source: "Cointelegraph"
-count: 25
+count: 21
 ---
 
 # Cointelegraph - 2026-09-23
 
-25 items collected.
+21 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ The case between New Jersey authorities and a prediction market company, if acce
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 9/23/2026, 7:39:24 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Trump reveals up to $100K Strategy stock purchase in ethics filing
+## 4. Trump reveals up to $100K Strategy stock purchase in ethics filing
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/23/2026, 7:05:14 PM  
@@ -71,7 +59,7 @@ President Donald Trump disclosed a July purchase of Strategy shares as his admin
 
 ---
 
-## 6. US stablecoin adoption could surge with bank-like protections: Visa survey
+## 5. US stablecoin adoption could surge with bank-like protections: Visa survey
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/23/2026, 6:17:48 PM  
@@ -83,7 +71,7 @@ The survey released by Visa posited that bank-like protections for stablecoins c
 
 ---
 
-## 7. Bitwise launches first Lighter ETP amid Hyperliquid rivalry
+## 6. Bitwise launches first Lighter ETP amid Hyperliquid rivalry
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/23/2026, 4:34:27 PM  
@@ -95,7 +83,7 @@ The product gives European investors brokerage access to the LIT token as Bitwis
 
 ---
 
-## 8. NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users
+## 7. NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/23/2026, 3:56:20 PM  
@@ -107,7 +95,7 @@ Blockchain.com users could gain access to tokenized US stocks and ETFs through N
 
 ---
 
-## 9. Bitcoin long liquidations hit $280M as BTC price dips under $84K
+## 8. Bitcoin long liquidations hit $280M as BTC price dips under $84K
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/23/2026, 2:52:11 PM  
@@ -119,7 +107,7 @@ Bitcoin long liquidations mounted as BTC/USD briefly traded below $84,000, while
 
 ---
 
-## 10. Raiffeisen to offer crypto trading across 11 European markets via Bitpanda
+## 9. Raiffeisen to offer crypto trading across 11 European markets via Bitpanda
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/23/2026, 2:28:50 PM  
@@ -131,7 +119,7 @@ Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potenti
 
 ---
 
-## 11. ESMA to prioritize EU-wide AI and tokenization supervision in 2027
+## 10. ESMA to prioritize EU-wide AI and tokenization supervision in 2027
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/23/2026, 1:40:00 PM  
@@ -143,7 +131,7 @@ National regulators will map client-facing uses of the technologies, check a sub
 
 ---
 
-## 12. Winners and losers of the SEC’s new tokenized stocks rules
+## 11. Winners and losers of the SEC’s new tokenized stocks rules
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/23/2026, 1:30:00 PM  
@@ -155,7 +143,7 @@ The SEC has opened a five-year path for tokenized stocks, but only some products
 
 ---
 
-## 13. MoonPay to buy North Capital in all-stock deal worth over $60M
+## 12. MoonPay to buy North Capital in all-stock deal worth over $60M
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/23/2026, 1:00:00 PM  
@@ -167,7 +155,7 @@ MoonPay’s North Capital acquisition adds US broker-dealer, trading and investm
 
 ---
 
-## 14. Stablecoin cross-border flows surge 78%, defying crypto bear market
+## 13. Stablecoin cross-border flows surge 78%, defying crypto bear market
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/23/2026, 1:00:00 PM  
@@ -179,7 +167,7 @@ Cross-border stablecoin transfers surged as the wider crypto market shrank 37%, 
 
 ---
 
-## 15. EU watchdogs warn quantum computers could pick crypto’s locks
+## 14. EU watchdogs warn quantum computers could pick crypto’s locks
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/23/2026, 12:22:56 PM  
@@ -191,7 +179,7 @@ EU supervisors warn quantum computing could weaken blockchain security as Bitcoi
 
 ---
 
-## 16. CFTC chair pushes tokenization as SEC opens door to onchain stocks
+## 15. CFTC chair pushes tokenization as SEC opens door to onchain stocks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/23/2026, 10:06:55 AM  
@@ -203,7 +191,7 @@ Michael Selig said tokenization could reshape financial markets as the CFTC and 
 
 ---
 
-## 17. Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis
+## 16. Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/23/2026, 10:05:10 AM  
@@ -215,7 +203,7 @@ BTC price analysis concluded that onchain signals had “confirmed” the new Bi
 
 ---
 
-## 18. BitMEX ends crypto trading, keeps withdrawals open after closure
+## 17. BitMEX ends crypto trading, keeps withdrawals open after closure
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/23/2026, 8:18:38 AM  
@@ -227,7 +215,7 @@ BitMEX officially ended exchange operations after more than 11 years, while with
 
 ---
 
-## 19. Zcash’s November upgrade could freeze funds in legacy Sprout pool
+## 18. Zcash’s November upgrade could freeze funds in legacy Sprout pool
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/23/2026, 8:07:10 AM  
@@ -239,7 +227,7 @@ The proposed NU7 change would disable version 4 transactions, leaving ZEC in Zca
 
 ---
 
-## 20. Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis
+## 19. Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/23/2026, 7:25:05 AM  
@@ -251,7 +239,7 @@ US spot Bitcoin ETFs recorded more than $1.7 billion in net inflows over two day
 
 ---
 
-## 21. US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report
+## 20. US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/23/2026, 5:34:49 AM  
@@ -263,7 +251,7 @@ US President Donald Trump previously tapped David Sacks as his AI and crypto cza
 
 ---
 
-## 22. Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says
+## 21. Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/23/2026, 5:22:21 AM  
@@ -272,41 +260,5 @@ US President Donald Trump previously tapped David Sacks as his AI and crypto cza
 SlowMist said malicious FomoPeek versions distributed through Apple’s App Store used iOS kernel exploits to escape the sandbox and access sensitive data from other apps.
 
 📖 [Read original article](https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. AI potential to drive crypto demand remains ‘underappreciated’: BlackRock
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/23/2026, 4:33:18 AM  
-**Categories:** Latest News  
-
-BlackRock says AI agents could drive demand for stablecoins and programmable payment rails, while tokenized computing capacity could create another opportunity for digital assets.
-
-📖 [Read original article](https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 24. OpenAI, Anthropic to brief UN Security Council on AI risks: Reports
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/23/2026, 3:33:15 AM  
-**Categories:** Latest News  
-
-Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman are expected to brief the UN Security Council as it examines AI risks and global security.
-
-📖 [Read original article](https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. CFTC issues warning over risky prediction market ‘mention’ contracts
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/23/2026, 12:18:44 AM  
-**Categories:** Latest News  
-
-The warning comes weeks after the CFTC fined a former White House teleprompter operator who made more than $107,000 trading prediction contracts tied to President Trump’s speeches.
-
-📖 [Read original article](https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
