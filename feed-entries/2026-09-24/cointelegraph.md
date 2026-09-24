@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-09-24"
 date: "2026-09-24"
 source: "Cointelegraph"
-count: 9
+count: 15
 ---
 
 # Cointelegraph - 2026-09-24
 
-9 items collected.
+15 items collected.
 
 ---
 
-## 1. EU banking watchdog calls for crypto lending rules under MiCA
+## 1. SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/24/2026, 3:54:46 PM  
+**Categories:** Latest News  
+
+SoFi dives deeper into payments as it moves its entire card program to blockchain-based settlement using its SoFiUSD stablecoin, with more than $25 billion in expected annualized volume.
+
+📖 [Read original article](https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. New York sues Polymarket over alleged illegal gambling business
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/24/2026, 3:27:29 PM  
+**Categories:** Latest News  
+
+The action filed by state lawmakers followed a similar lawsuit against prediction markets company Kalshi in July that alleged the platform was running an illegal gambling operation.
+
+📖 [Read original article](https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/24/2026, 1:29:50 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. IBM opens beta Swift ledger link for 24/7 tokenized deposits
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 9/24/2026, 1:29:06 PM  
+**Categories:** Latest News  
+
+IBM’s beta link lets banks instruct tokenized deposit transfers on Swift’s ledger using existing payment messages and compliance processes.
+
+📖 [Read original article](https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/24/2026, 1:00:00 PM  
+**Categories:** Latest News  
+
+Rachel Conlan will oversee institutional partnerships and ecosystem growth, while Jamal Raees will focus on stablecoins and tokenized deposits, following a wave of new partnerships.
+
+📖 [Read original article](https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. HIFI raises $37M to expand stablecoin payments, tokenized markets
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 9/24/2026, 12:00:00 PM  
+**Categories:** Latest News  
+
+HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, though HIFI did not disclose its valuation.
+
+📖 [Read original article](https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Era of pure crypto exchanges is ending, Bybit CEO says
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 9/24/2026, 11:24:07 AM  
+**Categories:** Latest News  
+
+Bybit’s global campaign positions it as a broader financial platform, though its stock, gold and forex derivatives were already available.
+
+📖 [Read original article](https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. EU banking watchdog calls for crypto lending rules under MiCA
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/24/2026, 10:30:00 AM  
@@ -23,7 +107,7 @@ The EBA outlined potential rules for crypto lending and firms providing access t
 
 ---
 
-## 2. Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high
+## 9. Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/24/2026, 10:15:03 AM  
@@ -35,7 +119,7 @@ Bitcoin traded near $83,200 as Fed hike odds reached about 75% and Treasury prep
 
 ---
 
-## 3. Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K
+## 10. Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/24/2026, 9:32:44 AM  
@@ -47,7 +131,7 @@ US spot Bitcoin ETF inflows slowed to $347 million on Wednesday as Bitcoin fell 
 
 ---
 
-## 4. Institutions held crypto through 50% drawdown, Bitwise finds
+## 11. Institutions held crypto through 50% drawdown, Bitwise finds
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/24/2026, 9:18:16 AM  
@@ -59,7 +143,7 @@ Every institution interviewed that owned crypto held Bitcoin, usually as its lar
 
 ---
 
-## 5. Australia says OpenAI agent hacked government site before Altman warning
+## 12. Australia says OpenAI agent hacked government site before Altman warning
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/24/2026, 8:29:11 AM  
@@ -71,19 +155,7 @@ OpenAI notified Australia nearly three months after its agent breached a governm
 
 ---
 
-## 6. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/24/2026, 5:23:34 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare
+## 13. Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/24/2026, 4:52:40 AM  
@@ -95,7 +167,7 @@ A weeklong optimization challenge cut the estimated GPU cost of preparing an exp
 
 ---
 
-## 8. US weighs overseas push for dollar-backed stablecoins: Bloomberg
+## 14. US weighs overseas push for dollar-backed stablecoins: Bloomberg
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/24/2026, 4:44:12 AM  
@@ -107,7 +179,7 @@ The reported initiative could involve private-sector companies and several US ag
 
 ---
 
-## 9. Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity
+## 15. Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/24/2026, 12:53:09 AM  
