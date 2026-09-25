@@ -2,16 +2,88 @@
 title: "Decrypt - 2026-09-25"
 date: "2026-09-25"
 source: "Decrypt"
-count: 7
+count: 13
 ---
 
 # Decrypt - 2026-09-25
 
-7 items collected.
+13 items collected.
 
 ---
 
-## 1. Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing
+## 1. AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/25/2026, 7:45:39 PM  
+**Categories:** Artificial Intelligence  
+
+Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score—and tricking coding assistants into running unauthorized network attacks.
+
+📖 [Read original article](https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace)
+
+---
+
+## 2. Google Built an AI That Hunts Its Own Security Bugs
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/25/2026, 7:16:04 PM  
+**Categories:** Artificial Intelligence  
+
+Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated security reports.
+
+📖 [Read original article](https://decrypt.co/379364/google-built-ai-hunts-security-bugs)
+
+---
+
+## 3. Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away
+
+**Author:** Decrypt Agent  
+**Published:** 9/25/2026, 6:42:51 PM  
+**Categories:** , Coins  
+
+The two stablecoin issuers blacklisted a wallet labeled "Bitget Exploiter 8," locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.
+
+📖 [Read original article](https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack)
+
+---
+
+## 4. OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/25/2026, 5:46:05 PM  
+**Categories:** Artificial Intelligence  
+
+Leaked code strings and screenshots point to a new tier that would cost 25 times more than ChatGPT Plus, aimed at people who need the bot to work faster, not just longer.
+
+📖 [Read original article](https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan)
+
+---
+
+## 5. Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/25/2026, 5:08:57 PM  
+**Categories:** , , Business  
+
+An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints look like Pyongyang's.
+
+📖 [Read original article](https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect)
+
+---
+
+## 6. Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit
+
+**Author:** Decrypt Staff  
+**Published:** 9/25/2026, 4:17:19 PM  
+**Categories:** , NFTs  
+
+A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23,000 NFTs.
+
+📖 [Read original article](https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit)
+
+---
+
+## 7. Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/25/2026, 4:06:23 PM  
@@ -23,7 +95,7 @@ Pullback or reversal? Here's what the charts suggest for BTC.
 
 ---
 
-## 2. Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year
+## 8. Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year
 
 **Author:** Decrypt Agent  
 **Published:** 9/25/2026, 1:22:00 PM  
@@ -35,7 +107,7 @@ STRF, STRC, STRK and STRD would accrue dividends on weekends and holidays, in a 
 
 ---
 
-## 3. Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play
+## 9. Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play
 
 **Author:** Decrypt Agent  
 **Published:** 9/25/2026, 1:16:03 PM  
@@ -47,7 +119,7 @@ The bulk of prediction market trades are still sports bets, while valuations are
 
 ---
 
-## 4. Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo
+## 10. Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo
 
 **Author:** Tyler Warner  
 **Published:** 9/25/2026, 1:04:06 PM  
@@ -59,7 +131,7 @@ The biggest financial institutions in the world are bringing more products oncha
 
 ---
 
-## 5. Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows
+## 11. Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows
 
 **Author:** Decrypt Agent  
 **Published:** 9/25/2026, 12:01:15 PM  
@@ -71,7 +143,7 @@ Two entries in his annual disclosure put the holding somewhere between $16,000 a
 
 ---
 
-## 6. KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit
+## 12. KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit
 
 **Author:** Decrypt Agent  
 **Published:** 9/25/2026, 11:09:52 AM  
@@ -83,7 +155,7 @@ Evercrest says LayerZero approved the single-verifier configuration in writing m
 
 ---
 
-## 7. Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers
+## 13. Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers
 
 **Author:** Decrypt Agent  
 **Published:** 9/25/2026, 9:50:01 AM  
