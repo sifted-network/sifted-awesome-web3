@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-09-25"
 date: "2026-09-25"
 source: "Cointelegraph"
-count: 14
+count: 20
 ---
 
 # Cointelegraph - 2026-09-25
 
-14 items collected.
+20 items collected.
 
 ---
 
-## 1. Crypto Biz: Wall Street and crypto fight for the same turf
+## 1. OG.com seeks CFTC approval for single-stock perpetual futures
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/25/2026, 8:37:21 PM  
+**Categories:** Latest News  
+
+OG.com, recently spun out of Crypto.com, joins Coinbase, Kalshi and Kraken parent Payward in seeking approval to bring perpetual futures to individual US stocks.
+
+📖 [Read original article](https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/25/2026, 8:26:40 PM  
+**Categories:** Latest News  
+
+Former CFTC Commissioner Summer Mersinger joined the Blockchain Association in 2025 after resigning during her second term at the federal commodities regulator.
+
+📖 [Read original article](https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Tether says it had ‘limited’ exposure to bank linked to $84M US seizure
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/25/2026, 6:56:53 PM  
+**Categories:** Latest News  
+
+US prosecutors alleged that a payments business illegally transferred hundreds of millions of dollars at the direction of EQIBank, where Tether holds some assets.
+
+📖 [Read original article](https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 9/25/2026, 6:42:59 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/25/2026, 6:33:49 PM  
+**Categories:** Latest News  
+
+The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture capital firm Hack VC.
+
+📖 [Read original article](https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Bitget clarifies $388M in assets affected by security breach
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/25/2026, 5:17:45 PM  
+**Categories:** Latest News  
+
+The Bitget breach announced on Thursday affected about $35 million more than previously reported, based on an analysis of assets on Zcash and TRON.
+
+📖 [Read original article](https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Strategy seeks shareholder approval for daily preferred stock dividends
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/25/2026, 4:34:16 PM  
+**Categories:** Latest News  
+
+Strategy’s proposal would move STRC and its three other preferred stocks to daily dividend payments, following a similar move by Bitcoin treasury firm Strive.
+
+📖 [Read original article](https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Crypto Biz: Wall Street and crypto fight for the same turf
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/25/2026, 3:49:34 PM  
@@ -23,19 +107,7 @@ Stablecoins and tokenized assets are pushing banks, exchanges and crypto compani
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/25/2026, 1:32:49 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Exchanges reporting crypto gains to IRS becomes tax nightmare
+## 9. Exchanges reporting crypto gains to IRS becomes tax nightmare
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/25/2026, 1:30:00 PM  
@@ -47,7 +119,7 @@ The IRS can now see your crypto gains, but has no idea about the cost-basis. Tha
 
 ---
 
-## 4. CoinMarketCap buys CoinGlass to expand crypto derivatives data
+## 10. CoinMarketCap buys CoinGlass to expand crypto derivatives data
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/25/2026, 12:44:30 PM  
@@ -59,7 +131,7 @@ CoinGlass will retain its brand and team, while its website, app, free tools, AP
 
 ---
 
-## 5. SlowMist has yet to confirm crypto theft from iPhone Safari attack
+## 11. SlowMist has yet to confirm crypto theft from iPhone Safari attack
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/25/2026, 12:19:34 PM  
@@ -71,7 +143,7 @@ The analyzed Safari sample targets iOS 18.4–18.6.2 using previously patched fl
 
 ---
 
-## 6. IBIT options price trading more calmly after Bitcoin rebound
+## 12. IBIT options price trading more calmly after Bitcoin rebound
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/25/2026, 11:11:33 AM  
@@ -83,7 +155,7 @@ IBIT’s expected volatility sits near the bottom of its 12-month range, accordi
 
 ---
 
-## 7. Magic Eden scare puts 3,832 NFTs in whitehat protective custody
+## 13. Magic Eden scare puts 3,832 NFTs in whitehat protective custody
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/25/2026, 9:48:53 AM  
@@ -95,7 +167,7 @@ Yuga Labs’ 0xQuit said the NFTs are safe and will be returned once the risk pa
 
 ---
 
-## 8. KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit
+## 14. KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/25/2026, 8:51:17 AM  
@@ -107,7 +179,7 @@ KelpDAO says LayerZero endorsed its bridge setup before the attack, while CEO Br
 
 ---
 
-## 9. Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B
+## 15. Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/25/2026, 7:41:36 AM  
@@ -119,7 +191,7 @@ US spot Bitcoin ETFs drew $191 million Thursday as daily inflows slowed for a th
 
 ---
 
-## 10. Samourai Wallet co-founder faces transfer after 30-day jail ordeal
+## 16. Samourai Wallet co-founder faces transfer after 30-day jail ordeal
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/25/2026, 7:28:18 AM  
@@ -131,7 +203,7 @@ Keonne Rodriguez says he and 70 others face another move after their treatment p
 
 ---
 
-## 11. Australian PM warns of AI’s ‘furious pace’ after agent breached government site
+## 17. Australian PM warns of AI’s ‘furious pace’ after agent breached government site
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/25/2026, 5:06:22 AM  
@@ -143,7 +215,7 @@ Anthony Albanese said governments must help shape AI’s development, after reve
 
 ---
 
-## 12. Researchers propose Zcash-style private Bitcoin transfers without a soft fork
+## 18. Researchers propose Zcash-style private Bitcoin transfers without a soft fork
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/25/2026, 4:41:06 AM  
@@ -155,7 +227,7 @@ Shielded Bitcoin would use zero-knowledge proofs and encrypted notes to hide tra
 
 ---
 
-## 13. Block brings Bitcoin Lightning payments to x402 for AI agents
+## 19. Block brings Bitcoin Lightning payments to x402 for AI agents
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/25/2026, 2:00:54 AM  
@@ -167,7 +239,7 @@ Block joins Google, Microsoft, AWS and Coinbase in backing x402, an open payment
 
 ---
 
-## 14. Bitget CEO suspects North Korea behind $352M hack, citing IP clues
+## 20. Bitget CEO suspects North Korea behind $352M hack, citing IP clues
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/25/2026, 12:32:46 AM  
