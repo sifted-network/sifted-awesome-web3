@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-24"
 date: "2026-09-24"
 source: "Cointelegraph"
-count: 16
+count: 10
 ---
 
 # Cointelegraph - 2026-09-24
 
-16 items collected.
+10 items collected.
 
 ---
 
@@ -128,77 +128,5 @@ SoFi dives deeper into payments as it moves its entire card program to blockchai
 The action filed by state lawmakers followed a similar lawsuit against prediction markets company Kalshi in July that alleged the platform was running an illegal gambling operation.
 
 📖 [Read original article](https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. IBM opens beta Swift ledger link for 24/7 tokenized deposits
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/24/2026, 1:29:06 PM  
-**Categories:** Latest News  
-
-IBM’s beta link lets banks instruct tokenized deposit transfers on Swift’s ledger using existing payment messages and compliance processes.
-
-📖 [Read original article](https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/24/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-Rachel Conlan will oversee institutional partnerships and ecosystem growth, while Jamal Raees will focus on stablecoins and tokenized deposits, following a wave of new partnerships.
-
-📖 [Read original article](https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. HIFI raises $37M to expand stablecoin payments, tokenized markets
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/24/2026, 12:00:00 PM  
-**Categories:** Latest News  
-
-HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, though HIFI did not disclose its valuation.
-
-📖 [Read original article](https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Era of pure crypto exchanges is ending, Bybit CEO says
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/24/2026, 11:24:07 AM  
-**Categories:** Latest News  
-
-Bybit’s global campaign positions it as a broader financial platform, though its stock, gold and forex derivatives were already available.
-
-📖 [Read original article](https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. EU banking watchdog calls for crypto lending rules under MiCA
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/24/2026, 10:30:00 AM  
-**Categories:** Latest News  
-
-The EBA outlined potential rules for crypto lending and firms providing access to DeFi protocols as part of the European Commission’s MiCA review.
-
-📖 [Read original article](https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/24/2026, 10:15:03 AM  
-**Categories:** Markets  
-
-Bitcoin traded near $83,200 as Fed hike odds reached about 75% and Treasury prepared a $6 billion buyback of long-dated bonds.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
