@@ -11,9 +11,9 @@ count: 11
 
 ---
 
-## 1. Bitget confirms $351.6 million exchange wallet breach after attacker compromises backend system
+## 1. Bitget confirms $387.5 million security breach affecting exchange hot wallets
 
-**Author:** Kyle Baird  
+**Author:** Kyle Baird and James Hunt  
 **Published:** 9/24/2026, 9:20:47 PM  
 **Categories:** Crypto Ecosystems, Markets, Security, Hacks, News  
 
