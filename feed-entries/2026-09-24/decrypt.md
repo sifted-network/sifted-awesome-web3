@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-09-24"
 date: "2026-09-24"
 source: "Decrypt"
-count: 14
+count: 16
 ---
 
 # Decrypt - 2026-09-24
 
-14 items collected.
+16 items collected.
 
 ---
 
-## 1. Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims
+## 1. Federal Reserve Unveils Stablecoin Rules on Reserves and Capital
+
+**Author:** Decrypt Staff  
+**Published:** 9/24/2026, 9:56:03 PM  
+**Categories:** Law and Order  
+
+The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and creating an application process for banks seeking to issue stablecoins.
+
+📖 [Read original article](https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital)
+
+---
+
+## 2. Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/24/2026, 9:15:38 PM  
+**Categories:** Coins  
+
+A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.
+
+📖 [Read original article](https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets)
+
+---
+
+## 3. Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/24/2026, 8:01:03 PM  
@@ -23,7 +47,7 @@ A proposed class action accuses OpenAI of quietly routing real conversations to 
 
 ---
 
-## 2. Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks
+## 4. Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/24/2026, 7:16:03 PM  
@@ -35,7 +59,7 @@ Muse Charm is Meta's palm-sized gadget for talking to its Muse AI agent on the g
 
 ---
 
-## 3. AI Can Now Doxx Your Anonymous Accounts? Here's What’s Going On
+## 5. AI Can Now Doxx Your Anonymous Accounts? Here's What’s Going On
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/24/2026, 6:31:03 PM  
@@ -47,7 +71,7 @@ A February research paper showing AI can unmask pseudonymous internet users is f
 
 ---
 
-## 4. New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'
+## 6. New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'
 
 **Author:** Decrypt Staff  
 **Published:** 9/24/2026, 5:51:31 PM  
@@ -59,7 +83,7 @@ Attorney General Letitia James and Governor Kathy Hochul allege the prediction m
 
 ---
 
-## 5. In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'
+## 7. In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'
 
 **Author:** Guillermo Jimenez  
 **Published:** 9/24/2026, 5:31:03 PM  
@@ -71,7 +95,7 @@ In one of her final speeches as commissioner, Peirce argued that regulators' "da
 
 ---
 
-## 6. US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance
+## 8. US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/24/2026, 4:55:43 PM  
@@ -83,7 +107,7 @@ Washington may fund private stablecoin ventures abroad to protect the dollar's r
 
 ---
 
-## 7. Bitcoin Breakout Cools as Fed Rate-Hike Bets Climb
+## 9. Bitcoin Breakout Cools as Fed Rate-Hike Bets Climb
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/24/2026, 4:01:01 PM  
@@ -95,7 +119,7 @@ Bitcoin has slipped back below $85,000 after tagging an eight-month high near $8
 
 ---
 
-## 8. £10K Reward Offered After UK Couple Attacked in Crypto Home Invasion
+## 10. £10K Reward Offered After UK Couple Attacked in Crypto Home Invasion
 
 **Author:** Decrypt Agent  
 **Published:** 9/24/2026, 3:08:26 PM  
@@ -107,7 +131,7 @@ Police believe the robbery was planned and targeted, with instructions relayed t
 
 ---
 
-## 9. Solana Foundation Hires Binance's Former Global CMO for Institutional Push
+## 11. Solana Foundation Hires Binance's Former Global CMO for Institutional Push
 
 **Author:** Decrypt Agent  
 **Published:** 9/24/2026, 1:03:03 PM  
@@ -119,7 +143,7 @@ Rachel Conlan arrives as chief strategy officer and Polygon Labs' Jamal Raees ta
 
 ---
 
-## 10. Decrypt Media and FOMO Hour’s Thought Leader Farokh Sarmad to Take Main Stage at NEXTPredict NY Conference
+## 12. Decrypt Media and FOMO Hour’s Thought Leader Farokh Sarmad to Take Main Stage at NEXTPredict NY Conference
 
 **Author:** Decrypt Staff  
 **Published:** 9/24/2026, 1:01:16 PM  
@@ -131,7 +155,7 @@ Premier Partnership will livestream the Main Stage through Decrypt Media and bri
 
 ---
 
-## 11. Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds—With AI
+## 13. Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds—With AI
 
 **Author:** Decrypt Staff  
 **Published:** 9/24/2026, 1:01:03 PM  
@@ -143,7 +167,7 @@ Elliptic’s new AI-assisted tool, called Pulse, lets any officer input a wallet
 
 ---
 
-## 12. Morning Minute: Selig Says ‘It’s Go Time’ for CFTC Crypto Rules
+## 14. Morning Minute: Selig Says ‘It’s Go Time’ for CFTC Crypto Rules
 
 **Author:** Tyler Warner  
 **Published:** 9/24/2026, 11:56:11 AM  
@@ -155,7 +179,7 @@ The CFTC has been extremely busy ever since the Clarity Act failed its vote, and
 
 ---
 
-## 13. Q-Day Could Arrive Before Quantum Computers Are Commercially Useful, EU Warns
+## 15. Q-Day Could Arrive Before Quantum Computers Are Commercially Useful, EU Warns
 
 **Author:** Decrypt Agent  
 **Published:** 9/24/2026, 11:05:19 AM  
@@ -167,7 +191,7 @@ The threat could arrive before quantum computers are commercially useful, and me
 
 ---
 
-## 14. Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years
+## 16. Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years
 
 **Author:** Decrypt Agent  
 **Published:** 9/24/2026, 9:00:46 AM  
