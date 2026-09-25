@@ -11,13 +11,13 @@ count: 11
 
 ---
 
-## 1. More than $170 million in crypto moves from Bitget wallets to unidentified address
+## 1. Bitget confirms $351.6 million exchange wallet breach after attacker compromises backend system
 
 **Author:** Kyle Baird  
 **Published:** 9/24/2026, 9:20:47 PM  
 **Categories:** Crypto Ecosystems, Markets, Security, Hacks, News  
 
-The receiving address has made several swaps, but the reason for the Bitget wallet transfers remains unclear.
+Bitget said private keys were not compromised and that losses from the incident will be covered by its User Protection Fund.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345)
 
