@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-24"
 date: "2026-09-24"
 source: "CoinDesk"
-count: 14
+count: 13
 ---
 
 # CoinDesk - 2026-09-24
 
-14 items collected.
+13 items collected.
 
 ---
 
@@ -164,17 +164,5 @@ Barclays, NatWest, and HSBC and others used tokenized deposits for remortgages a
 Jan-Oliver Sell, the CEO and founder of Qivalis, said the entire trade finance supply chain is moving into stablecoins.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance)
-
----
-
-## 14. Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes
-
-**Author:** Krisztian Sandor  
-**Published:** 9/24/2026, 1:00:00 PM  
-**Categories:** Finance, Tokenization, Tokenized Equities, Ethereum News, News  
-
-The ARK Venture Fund is bringing exposure to sought-after private tech companies onchain through Securitize, first on Ethereum then potentially expanding to other chains.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes)
 
 ---
