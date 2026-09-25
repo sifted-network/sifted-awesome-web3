@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-24"
 date: "2026-09-24"
 source: "CoinDesk"
-count: 20
+count: 14
 ---
 
 # CoinDesk - 2026-09-24
 
-20 items collected.
+14 items collected.
 
 ---
 
@@ -59,7 +59,7 @@ The company has vehemently denied that it was shopping for buyers. Allman’s es
 
 ---
 
-## 5. Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks
+## 5. Bullish, Alpaca, Apex Fintech and DriveWealth form coalition to push issuer-backed tokenized stocks
 
 **Author:** Krisztian Sandor,AI Boost  
 **Published:** 9/24/2026, 8:05:00 PM  
@@ -176,77 +176,5 @@ Jan-Oliver Sell, the CEO and founder of Qivalis, said the entire trade finance s
 The ARK Venture Fund is bringing exposure to sought-after private tech companies onchain through Securitize, first on Ethereum then potentially expanding to other chains.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes)
-
----
-
-## 15. Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push
-
-**Author:** Krisztian Sandor  
-**Published:** 9/24/2026, 1:00:00 PM  
-**Categories:** Finance, Solana News, Tokenization, News  
-
-Rachel Conlan and Jamal Raees join as Solana aims to court institutions moving payments and assets onchain.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/24/solana-foundation-hires-binance-polygon-veterans-as-it-ramps-up-tokenized-finance-push)
-
----
-
-## 16. Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case
-
-**Author:** Krisztian Sandor  
-**Published:** 9/24/2026, 12:31:53 PM  
-**Categories:** Finance, Exclusive, Real World Assets, Tokenization, News  
-
-The $2 billion digital-asset investment firm rolls out an initiative to back, build and provide liquidity to projects bringing real-world yields into DeFi.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case)
-
----
-
-## 17. EU's financial regulator to make AI and tokenization a supervisory priority in 2027
-
-**Author:** Olivier Acuna  
-**Published:** 9/24/2026, 12:26:43 PM  
-**Categories:** Policy, Regulation, Tokenization, Artificial Intelligence, News  
-
-European regulators will map how financial firms use the technologies in client-facing products and begin checks on the most affected businesses.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/09/24/eu-s-financial-regulator-to-make-ai-and-tokenization-a-supervisory-priority-in-2027)
-
----
-
-## 18. Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme
-
-**Author:** Olivier Acuna  
-**Published:** 9/24/2026, 11:33:57 AM  
-**Categories:** Finance, Coinbase, Fraud, Crime, News  
-
-The fraudster managed to scam about 100 people across the United States, convincing them of transferring funds to him, claiming their accounts had been hacked.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme)
-
----
-
-## 19. Litecoin token has its moment as network activity booms
-
-**Author:** Omkar Godbole  
-**Published:** 9/24/2026, 11:26:18 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Sept. 24, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/09/24/litecoin-token-has-its-moment-as-network-activity-booms)
-
----
-
-## 20. Live updates: Oil back on the rise as Iran denies report of deal talks
-
-**Author:** Stephen Alpher,James Van Straten  
-**Published:** 9/24/2026, 11:20:12 AM  
-**Categories:** Tech, Live News, live_news  
-
-Bitcoin pulled back to $84,000 as stocks slipped and interest rates rose alongside surging oil prices.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage)
 
 ---
