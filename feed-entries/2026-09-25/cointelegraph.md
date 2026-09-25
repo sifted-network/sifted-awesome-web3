@@ -2,16 +2,88 @@
 title: "Cointelegraph - 2026-09-25"
 date: "2026-09-25"
 source: "Cointelegraph"
-count: 9
+count: 14
 ---
 
 # Cointelegraph - 2026-09-25
 
-9 items collected.
+14 items collected.
 
 ---
 
-## 1. Magic Eden scare puts 3,832 NFTs in whitehat protective custody
+## 1. Crypto Biz: Wall Street and crypto fight for the same turf
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 9/25/2026, 3:49:34 PM  
+**Categories:** Latest News  
+
+Stablecoins and tokenized assets are pushing banks, exchanges and crypto companies into the same markets, from payments to stocks and ETFs.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/25/2026, 1:32:49 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Exchanges reporting crypto gains to IRS becomes tax nightmare
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 9/25/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+The IRS can now see your crypto gains, but has no idea about the cost-basis. That’s proving to be a big headache for some cryptocurrency investors.
+
+📖 [Read original article](https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. CoinMarketCap buys CoinGlass to expand crypto derivatives data
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/25/2026, 12:44:30 PM  
+**Categories:** Latest News  
+
+CoinGlass will retain its brand and team, while its website, app, free tools, API and pricing will remain unchanged following the acquisition.
+
+📖 [Read original article](https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. SlowMist has yet to confirm crypto theft from iPhone Safari attack
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 9/25/2026, 12:19:34 PM  
+**Categories:** Latest News  
+
+The analyzed Safari sample targets iOS 18.4–18.6.2 using previously patched flaws, while its effectiveness on iOS 26.5 remains unverified.
+
+📖 [Read original article](https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. IBIT options price trading more calmly after Bitcoin rebound
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/25/2026, 11:11:33 AM  
+**Categories:** Markets  
+
+IBIT’s expected volatility sits near the bottom of its 12-month range, according to Saxo Bank’s analysis of options data from Sept. 23.
+
+📖 [Read original article](https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Magic Eden scare puts 3,832 NFTs in whitehat protective custody
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/25/2026, 9:48:53 AM  
@@ -23,7 +95,7 @@ Yuga Labs’ 0xQuit said the NFTs are safe and will be returned once the risk pa
 
 ---
 
-## 2. KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit
+## 8. KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/25/2026, 8:51:17 AM  
@@ -35,7 +107,7 @@ KelpDAO says LayerZero endorsed its bridge setup before the attack, while CEO Br
 
 ---
 
-## 3. Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B
+## 9. Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/25/2026, 7:41:36 AM  
@@ -47,7 +119,7 @@ US spot Bitcoin ETFs drew $191 million Thursday as daily inflows slowed for a th
 
 ---
 
-## 4. Samourai Wallet co-founder faces transfer after 30-day jail ordeal
+## 10. Samourai Wallet co-founder faces transfer after 30-day jail ordeal
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/25/2026, 7:28:18 AM  
@@ -59,19 +131,7 @@ Keonne Rodriguez says he and 70 others face another move after their treatment p
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/25/2026, 5:30:56 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Australian PM warns of AI’s ‘furious pace’ after agent breached government site
+## 11. Australian PM warns of AI’s ‘furious pace’ after agent breached government site
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/25/2026, 5:06:22 AM  
@@ -83,7 +143,7 @@ Anthony Albanese said governments must help shape AI’s development, after reve
 
 ---
 
-## 7. Researchers propose Zcash-style private Bitcoin transfers without a soft fork
+## 12. Researchers propose Zcash-style private Bitcoin transfers without a soft fork
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/25/2026, 4:41:06 AM  
@@ -95,7 +155,7 @@ Shielded Bitcoin would use zero-knowledge proofs and encrypted notes to hide tra
 
 ---
 
-## 8. Block brings Bitcoin Lightning payments to x402 for AI agents
+## 13. Block brings Bitcoin Lightning payments to x402 for AI agents
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/25/2026, 2:00:54 AM  
@@ -107,7 +167,7 @@ Block joins Google, Microsoft, AWS and Coinbase in backing x402, an open payment
 
 ---
 
-## 9. Bitget CEO suspects North Korea behind $352M hack, citing IP clues
+## 14. Bitget CEO suspects North Korea behind $352M hack, citing IP clues
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/25/2026, 12:32:46 AM  
