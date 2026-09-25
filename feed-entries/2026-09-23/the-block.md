@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-23"
 date: "2026-09-23"
 source: "The Block"
-count: 8
+count: 7
 ---
 
 # The Block - 2026-09-23
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -92,17 +92,5 @@ Global crypto activity fell 1.6% to $9.4 trillion despite a massive $2.1 trillio
 Galaxy added $100 million in sUSDS to its treasury and approved the Sky savings token as institutional loan collateral.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-09-23-galaxy-adds-100-million-in-skys-susds-to-treasury-buys-sky-token-as-firms-deepen-lending-ties-416137)
-
----
-
-## 8. Canada’s big six banks explore tokenized deposit system to modernize payments
-
-**Author:** Timmy Shen  
-**Published:** 9/23/2026, 4:57:07 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, News  
-
-The banks said the first phase of the project involves moving tokenized deposits efficiently across financial institutions.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-23-canada-banks-tokenized-deposit-system-416129)
 
 ---
