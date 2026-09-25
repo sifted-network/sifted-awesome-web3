@@ -2,16 +2,28 @@
 title: "The Block - 2026-09-24"
 date: "2026-09-24"
 source: "The Block"
-count: 10
+count: 11
 ---
 
 # The Block - 2026-09-24
 
-10 items collected.
+11 items collected.
 
 ---
 
-## 1. Fed proposes reserve limits, capital standards for stablecoin issuers under GENIUS Act
+## 1. More than $170 million in crypto moves from Bitget wallets to unidentified address
+
+**Author:** Kyle Baird  
+**Published:** 9/24/2026, 9:20:47 PM  
+**Categories:** Crypto Ecosystems, Markets, Security, Hacks, News  
+
+The receiving address has made several swaps, but the reason for the Bitget wallet transfers remains unclear.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345)
+
+---
+
+## 2. Fed proposes reserve limits, capital standards for stablecoin issuers under GENIUS Act
 
 **Author:** Sarah Wynn  
 **Published:** 9/24/2026, 8:19:46 PM  
@@ -23,7 +35,7 @@ The Federal Reserve proposed new measures for stablecoin issuers, including rese
 
 ---
 
-## 2. Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote
+## 3. Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote
 
 **Author:** Kyle Baird  
 **Published:** 9/24/2026, 7:17:47 PM  
@@ -35,7 +47,7 @@ SkyAI’s board survived a shareholder protest, but its proposed equity pay plan
 
 ---
 
-## 3. ARK Invest brings $1.3 billion venture fund onchain through Securitize
+## 4. ARK Invest brings $1.3 billion venture fund onchain through Securitize
 
 **Author:** Jason Shubnell  
 **Published:** 9/24/2026, 6:37:22 PM  
@@ -47,7 +59,7 @@ ARK Invest is bringing its $1.3B ARK Venture Fund (ARKVX), which holds OpenAI, A
 
 ---
 
-## 4. JPMorgan says bitcoin crossing $85,000 production cost could ease miner selling pressure
+## 5. JPMorgan says bitcoin crossing $85,000 production cost could ease miner selling pressure
 
 **Author:** Yogita Khatri  
 **Published:** 9/24/2026, 6:22:39 PM  
@@ -59,7 +71,7 @@ JPMorgan analysts said bitcoin's move above its estimated $85,000 production cos
 
 ---
 
-## 5. New York moves to block Polymarket from the state, alleging it’s running an illegal gambling operation
+## 6. New York moves to block Polymarket from the state, alleging it’s running an illegal gambling operation
 
 **Author:** Sarah Wynn  
 **Published:** 9/24/2026, 4:25:05 PM  
@@ -71,7 +83,7 @@ New York has sued Polymarket, accusing it of operating an illegal gambling opera
 
 ---
 
-## 6. Ondo launches onchain portfolio tokens based on BlackRock-developed strategies
+## 7. Ondo launches onchain portfolio tokens based on BlackRock-developed strategies
 
 **Author:** James Hunt  
 **Published:** 9/24/2026, 2:27:45 PM  
@@ -83,7 +95,7 @@ Ondo has launched three onchain portfolio tokens based on model portfolio strate
 
 ---
 
-## 7. Solana Foundation taps Binance, Polygon vets to drive institutional adoption and payments
+## 8. Solana Foundation taps Binance, Polygon vets to drive institutional adoption and payments
 
 **Author:** Jason Shubnell  
 **Published:** 9/24/2026, 1:00:00 PM  
@@ -95,7 +107,7 @@ Solana Foundation appointed Rachel Conlan as chief strategy officer and former P
 
 ---
 
-## 8. HIFI raises $37 million Series A to expand tokenized capital markets infrastructure
+## 9. HIFI raises $37 million Series A to expand tokenized capital markets infrastructure
 
 **Author:** Brian Danga  
 **Published:** 9/24/2026, 12:00:00 PM  
@@ -107,7 +119,7 @@ HIFI raised $37 million in Series A funding led by Left Lane Capital to scale to
 
 ---
 
-## 9. IBM connects Digital Asset Haven to Swift blockchain ledger for tokenized deposit transactions
+## 10. IBM connects Digital Asset Haven to Swift blockchain ledger for tokenized deposit transactions
 
 **Author:** James Hunt  
 **Published:** 9/24/2026, 10:00:00 AM  
@@ -119,7 +131,7 @@ IBM Digital Asset Haven clients can now connect to Swift's shared ledger and ins
 
 ---
 
-## 10. Brooklyn man gets up to 12 years over $16 million Coinbase social engineering scheme
+## 11. Brooklyn man gets up to 12 years over $16 million Coinbase social engineering scheme
 
 **Author:** Brian Danga  
 **Published:** 9/24/2026, 8:21:32 AM  
