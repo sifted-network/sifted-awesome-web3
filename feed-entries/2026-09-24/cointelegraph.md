@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-09-24"
 date: "2026-09-24"
 source: "Cointelegraph"
-count: 19
+count: 23
 ---
 
 # Cointelegraph - 2026-09-24
 
-19 items collected.
+23 items collected.
 
 ---
 
-## 1. Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs
+## 1. Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 9/24/2026, 11:27:17 PM  
+**Categories:** Magazine  
+
+The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $352M loss and OpenAI forgets to mention its agents hacked the Australian Government.
+
+📖 [Read original article](https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Fed proposes new capital, redemption rules for stablecoin issuers
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/24/2026, 10:10:09 PM  
+**Categories:** Latest News  
+
+The Fed’s proposal would set capital requirements, a two-day redemption window and new reserve disclosures as regulators implement the GENIUS Act.
+
+📖 [Read original article](https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Bitget confirms $352M security breach, suspends withdrawals
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/24/2026, 9:47:17 PM  
+**Categories:** Latest News  
+
+Bitget said unauthorized transfers affected a limited number of hot wallets, while cold wallets and most platform assets remained unaffected.
+
+📖 [Read original article](https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. CFTC updates guidance on tokenized assets, blockchain records after failed vote
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/24/2026, 9:42:51 PM  
+**Categories:** Latest News  
+
+Although the CFTC chair did not say the failed vote on the CLARITY Act was behind new rules for authorized crypto entities, he said the move was “to provide regulatory clarity.“
+
+📖 [Read original article](https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs
 
 **Author:** Cointelegraph by Charles Bennett  
 **Published:** 9/24/2026, 8:32:16 PM  
@@ -23,7 +71,7 @@ US Treasury yields hit a 19-year high on Thursday, pressuring risk assets as Bit
 
 ---
 
-## 2. DoubleZero brings dedicated fiber market data to Hyperliquid traders
+## 6. DoubleZero brings dedicated fiber market data to Hyperliquid traders
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/24/2026, 8:04:07 PM  
@@ -35,7 +83,7 @@ DoubleZero launched a dedicated fiber market data feed for Hyperliquid, giving p
 
 ---
 
-## 3. Here’s what happened in crypto today
+## 7. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/24/2026, 7:50:39 PM  
@@ -47,7 +95,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 4. Crypto treasury model loses its edge as stock premiums fade: DWF
+## 8. Crypto treasury model loses its edge as stock premiums fade: DWF
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/24/2026, 5:14:35 PM  
@@ -59,7 +107,7 @@ Most DATs now trade below the value of their crypto holdings, weakening a financ
 
 ---
 
-## 5. Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC
+## 9. Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/24/2026, 5:13:38 PM  
@@ -71,7 +119,7 @@ The France-based semiconductor company has fully unwound a Bitcoin treasury that
 
 ---
 
-## 6. SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail
+## 10. SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/24/2026, 3:57:00 PM  
@@ -83,7 +131,7 @@ SoFi dives deeper into payments as it moves its entire card program to blockchai
 
 ---
 
-## 7. New York sues Polymarket over alleged illegal gambling business
+## 11. New York sues Polymarket over alleged illegal gambling business
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/24/2026, 3:27:29 PM  
@@ -95,7 +143,7 @@ The action filed by state lawmakers followed a similar lawsuit against predictio
 
 ---
 
-## 8. IBM opens beta Swift ledger link for 24/7 tokenized deposits
+## 12. IBM opens beta Swift ledger link for 24/7 tokenized deposits
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/24/2026, 1:29:06 PM  
@@ -107,7 +155,7 @@ IBM’s beta link lets banks instruct tokenized deposit transfers on Swift’s l
 
 ---
 
-## 9. Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand
+## 13. Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/24/2026, 1:00:00 PM  
@@ -119,7 +167,7 @@ Rachel Conlan will oversee institutional partnerships and ecosystem growth, whil
 
 ---
 
-## 10. HIFI raises $37M to expand stablecoin payments, tokenized markets
+## 14. HIFI raises $37M to expand stablecoin payments, tokenized markets
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/24/2026, 12:00:00 PM  
@@ -131,7 +179,7 @@ HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company�
 
 ---
 
-## 11. Era of pure crypto exchanges is ending, Bybit CEO says
+## 15. Era of pure crypto exchanges is ending, Bybit CEO says
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/24/2026, 11:24:07 AM  
@@ -143,7 +191,7 @@ Bybit’s global campaign positions it as a broader financial platform, though i
 
 ---
 
-## 12. EU banking watchdog calls for crypto lending rules under MiCA
+## 16. EU banking watchdog calls for crypto lending rules under MiCA
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/24/2026, 10:30:00 AM  
@@ -155,7 +203,7 @@ The EBA outlined potential rules for crypto lending and firms providing access t
 
 ---
 
-## 13. Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high
+## 17. Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/24/2026, 10:15:03 AM  
@@ -167,7 +215,7 @@ Bitcoin traded near $83,200 as Fed hike odds reached about 75% and Treasury prep
 
 ---
 
-## 14. Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K
+## 18. Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/24/2026, 9:32:44 AM  
@@ -179,7 +227,7 @@ US spot Bitcoin ETF inflows slowed to $347 million on Wednesday as Bitcoin fell 
 
 ---
 
-## 15. Institutions held crypto through 50% drawdown, Bitwise finds
+## 19. Institutions held crypto through 50% drawdown, Bitwise finds
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/24/2026, 9:18:16 AM  
@@ -191,7 +239,7 @@ Every institution interviewed that owned crypto held Bitcoin, usually as its lar
 
 ---
 
-## 16. Australia says OpenAI agent hacked government site before Altman warning
+## 20. Australia says OpenAI agent hacked government site before Altman warning
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/24/2026, 8:29:11 AM  
@@ -203,7 +251,7 @@ OpenAI notified Australia nearly three months after its agent breached a governm
 
 ---
 
-## 17. Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare
+## 21. Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/24/2026, 4:52:40 AM  
@@ -215,7 +263,7 @@ A weeklong optimization challenge cut the estimated GPU cost of preparing an exp
 
 ---
 
-## 18. US weighs overseas push for dollar-backed stablecoins: Bloomberg
+## 22. US weighs overseas push for dollar-backed stablecoins: Bloomberg
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/24/2026, 4:44:12 AM  
@@ -227,7 +275,7 @@ The reported initiative could involve private-sector companies and several US ag
 
 ---
 
-## 19. Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity
+## 23. Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/24/2026, 12:53:09 AM  
