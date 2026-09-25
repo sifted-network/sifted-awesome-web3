@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-23"
 date: "2026-09-23"
 source: "Cointelegraph"
-count: 11
+count: 5
 ---
 
 # Cointelegraph - 2026-09-23
 
-11 items collected.
+5 items collected.
 
 ---
 
@@ -68,77 +68,5 @@ President Donald Trump disclosed a July purchase of Strategy shares as his admin
 The survey released by Visa posited that bank-like protections for stablecoins could increase adoption in the US as companies are preparing for the enactment of the GENIUS Act.
 
 📖 [Read original article](https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Bitwise launches first Lighter ETP amid Hyperliquid rivalry
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 9/23/2026, 4:34:27 PM  
-**Categories:** Latest News  
-
-The product gives European investors brokerage access to the LIT token as Bitwise expands its lineup of products tied to decentralized derivatives platforms.
-
-📖 [Read original article](https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 9/23/2026, 3:56:20 PM  
-**Categories:** Latest News  
-
-Blockchain.com users could gain access to tokenized US stocks and ETFs through NYSE’s planned digital trading platform under a new partnership, as bourses rush to deliver new trading.
-
-📖 [Read original article](https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Bitcoin long liquidations hit $280M as BTC price dips under $84K
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/23/2026, 2:52:11 PM  
-**Categories:** Markets  
-
-Bitcoin long liquidations mounted as BTC/USD briefly traded below $84,000, while analysis flagged key support to hold.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Raiffeisen to offer crypto trading across 11 European markets via Bitpanda
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/23/2026, 2:28:50 PM  
-**Categories:** Latest News  
-
-Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potentially extending digital asset access to about 18 million customers.
-
-📖 [Read original article](https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. ESMA to prioritize EU-wide AI and tokenization supervision in 2027
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/23/2026, 1:40:00 PM  
-**Categories:** Latest News  
-
-National regulators will map client-facing uses of the technologies, check a subset of firms and develop common approaches to oversight.
-
-📖 [Read original article](https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Winners and losers of the SEC’s new tokenized stocks rules
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 9/23/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-The SEC has opened a five-year path for tokenized stocks, but only some products and venues fit the model. Will Uniswap, Robinhood, Coinbase or Kraken come out on top?
-
-📖 [Read original article](https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
