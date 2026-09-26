@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-24"
 date: "2026-09-24"
 source: "CoinDesk"
-count: 11
+count: 8
 ---
 
 # CoinDesk - 2026-09-24
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ The argument over Robinhood’s AMC token has been about which tokenization mode
 Bitcoin’s return above its one-year average excited chart watchers. AltcoinPro Research says the more important signal is whether it can stay above its 200-day average.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean)
-
----
-
-## 9. Crypto casino Duelbits goes offline after $7 million hot wallet hack
-
-**Author:** Oliver Knight  
-**Published:** 9/24/2026, 3:48:20 PM  
-**Categories:** Finance, Hack, News  
-
-Attackers drained Duelbits' hot wallets across four blockchains; about $6 million in stolen funds now sits in a single Ethereum address.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack)
-
----
-
-## 10. Bitcoin’s bear markets are getting milder. Bull markets may be next
-
-**Author:** Helene Braun  
-**Published:** 9/24/2026, 3:26:34 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin’s latest bear market was milder than past crashes as ETFs, institutional investors and a maturing market reshape its cycles.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next)
-
----
-
-## 11. UK’s largest banks complete world’s first interbank transactions using tokenized deposits
-
-**Author:** Olivier Acuna  
-**Published:** 9/24/2026, 3:07:18 PM  
-**Categories:** Finance, UK, tokenized deposits, banks, News  
-
-Barclays, NatWest, and HSBC and others used tokenized deposits for remortgages and a marketplace-payment test, taking bank-issued digital cash beyond a single institution.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits)
 
 ---
