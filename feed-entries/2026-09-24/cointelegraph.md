@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-24"
 date: "2026-09-24"
 source: "Cointelegraph"
-count: 8
+count: 7
 ---
 
 # Cointelegraph - 2026-09-24
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -92,17 +92,5 @@ DoubleZero launched a dedicated fiber market data feed for Hyperliquid, giving p
 Most DATs now trade below the value of their crypto holdings, weakening a financing model that once helped companies expand their balance sheets.
 
 📖 [Read original article](https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 9/24/2026, 5:13:38 PM  
-**Categories:** Latest News  
-
-The France-based semiconductor company has fully unwound a Bitcoin treasury that once held more than 3,200 BTC as more firms scale back crypto holdings.
-
-📖 [Read original article](https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
