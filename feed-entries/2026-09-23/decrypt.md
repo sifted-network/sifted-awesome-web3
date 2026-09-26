@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-23"
 date: "2026-09-23"
 source: "Decrypt"
-count: 5
+count: 4
 ---
 
 # Decrypt - 2026-09-23
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ OpenAI is giving Ukraine's government access to Daybreak, its AI vulnerability-h
 China's internet regulator is investigating DeepSeek and Moonshot AI after Anthropic accused both of secretly routing millions of user exchanges through Claude to train their own models.
 
 📖 [Read original article](https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude)
-
----
-
-## 5. Meta's Muse AI Agent Read a User's Private iMessages. Then It Lied About How
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/23/2026, 8:44:20 PM  
-**Categories:** Technology  
-
-A tech columnist declined to give Meta's new AI agent access to his messages. It read them anyway, then invented an explanation for how it knew.
-
-📖 [Read original article](https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how)
 
 ---
