@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-24"
 date: "2026-09-24"
 source: "CoinDesk"
-count: 13
+count: 11
 ---
 
 # CoinDesk - 2026-09-24
 
-13 items collected.
+11 items collected.
 
 ---
 
@@ -140,29 +140,5 @@ Bitcoin’s latest bear market was milder than past crashes as ETFs, institution
 Barclays, NatWest, and HSBC and others used tokenized deposits for remortgages and a marketplace-payment test, taking bank-issued digital cash beyond a single institution.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits)
-
----
-
-## 12. Crypto for Advisors:The hidden costs of holding your own bitcoin
-
-**Author:** Dovile Silenskyte,Bryan Courchesne  
-**Published:** 9/24/2026, 2:49:28 PM  
-**Categories:** CoinDesk Indices, Crypto for Advisors, News  
-
-
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin)
-
----
-
-## 13. European stablecoin issuer Qivalis sees transformation of global trade finance
-
-**Author:** Ian Allison  
-**Published:** 9/24/2026, 2:41:05 PM  
-**Categories:** Finance, News  
-
-Jan-Oliver Sell, the CEO and founder of Qivalis, said the entire trade finance supply chain is moving into stablecoins.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance)
 
 ---
