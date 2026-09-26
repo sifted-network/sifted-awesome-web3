@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-24"
 date: "2026-09-24"
 source: "Cointelegraph"
-count: 10
+count: 8
 ---
 
 # Cointelegraph - 2026-09-24
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Most DATs now trade below the value of their crypto holdings, weakening a financ
 The France-based semiconductor company has fully unwound a Bitcoin treasury that once held more than 3,200 BTC as more firms scale back crypto holdings.
 
 📖 [Read original article](https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 9/24/2026, 3:57:00 PM  
-**Categories:** Latest News  
-
-SoFi dives deeper into payments as it moves its entire card program to blockchain-based settlement using its SoFiUSD stablecoin, with more than $25 billion in expected annualized volume.
-
-📖 [Read original article](https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. New York sues Polymarket over alleged illegal gambling business
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 9/24/2026, 3:27:29 PM  
-**Categories:** Latest News  
-
-The action filed by state lawmakers followed a similar lawsuit against prediction markets company Kalshi in July that alleged the platform was running an illegal gambling operation.
-
-📖 [Read original article](https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
