@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-24"
 date: "2026-09-24"
 source: "CoinDesk"
-count: 8
+count: 5
 ---
 
 # CoinDesk - 2026-09-24
 
-8 items collected.
+5 items collected.
 
 ---
 
@@ -68,41 +68,5 @@ The company has vehemently denied that it was shopping for buyers. Allman’s es
 The group aims to link onchain shares to official shareholder records following the U.S. SEC's innovation exemption for tokenized stock trading.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks)
-
----
-
-## 6. U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC
-
-**Author:** Jesse Hamilton  
-**Published:** 9/24/2026, 8:04:46 PM  
-**Categories:** Policy, Regulation, Tokenization, News  
-
-The U.S derivatives regulator is grinding away at further guidance that welcomes tokenization and blockchain recordkeeping as regular industry elements.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc)
-
----
-
-## 7. The stock token debate, and the gap nobody can close alone
-
-**Author:** Tram Doman  
-**Published:** 9/24/2026, 8:03:21 PM  
-**Categories:** Opinion, Opinion  
-
-The argument over Robinhood’s AMC token has been about which tokenization model is legitimate, and the SEC has drawn a line. The question to ask now is what has to be true for any of it to be a market, argues Bullish’s Tram Doman.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone)
-
----
-
-## 8. Bitcoin just topped a key long-term moving average. Here's what it might mean
-
-**Author:** Olivier Acuna  
-**Published:** 9/24/2026, 6:46:58 PM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin’s return above its one-year average excited chart watchers. AltcoinPro Research says the more important signal is whether it can stay above its 200-day average.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean)
 
 ---
