@@ -6,61 +6,61 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) | 13,483 | 31,578 | TypeScript | 20 | A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private DoH server and chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing setti... | 2026-07-20 |
-| 2 | [go-ibax](https://github.com/IBAX-io/go-ibax) | 7,851 | 6,372 | Go | 96 | An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.  | 2026-03-05 |
-| 3 | [rango-sdk](https://github.com/rango-exchange/rango-sdk) | 1,658 | 40 | TypeScript | 3 | Rango Exchange Typescript SDK | 2026-09-02 |
-| 4 | [rango-client](https://github.com/rango-exchange/rango-client) | 1,126 | 39 | TypeScript | 0 | Rango Exchange Widget & Wallets Library | 2026-09-18 |
-| 5 | [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) | 1,041 | 151 | Python | 3 | "Security Incidents In A Box!"   A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue- & Red Team ... | 2020-05-27 |
+| 1 | [BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) | 13,524 | 31,590 | TypeScript | 20 | A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private DoH server and chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing setti... | 2026-07-20 |
+| 2 | [go-ibax](https://github.com/IBAX-io/go-ibax) | 7,852 | 6,369 | Go | 96 | An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.  | 2026-03-05 |
+| 3 | [rango-sdk](https://github.com/rango-exchange/rango-sdk) | 1,658 | 40 | TypeScript | 3 | Rango Exchange Typescript SDK | 2026-09-23 |
+| 4 | [rango-client](https://github.com/rango-exchange/rango-client) | 1,126 | 39 | TypeScript | 0 | Rango Exchange Widget & Wallets Library | 2026-09-24 |
+| 5 | [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) | 1,040 | 150 | Python | 3 | "Security Incidents In A Box!"   A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue- & Red Team ... | 2020-05-27 |
 | 6 | [Path.swift](https://github.com/mxcl/Path.swift) | 962 | 40 | Swift | 4 | Delightful, robust, cross-platform and chainable file-pathing functions. | 2026-06-03 |
-| 7 | [retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | 919 | 136 | Python | 6 | Python toolkit, MCP server, and agent skills for reproducible, auditable clickstream and event log analytics. Helps AI agents, data scientists and analysts build, validate, and cross-check product ana... | 2026-09-19 |
-| 8 | [Acala](https://github.com/AcalaNetwork/Acala) | 761 | 764 | Rust | 108 | Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama. | 2026-08-13 |
-| 9 | [xmr-btc-swap](https://github.com/comit-network/xmr-btc-swap) | 713 | 179 | Rust | 85 | Bitcoin–Monero Cross-chain Atomic Swap | 2025-07-22 |
-| 10 | [My-TW-Coverage](https://github.com/Timeverse/My-TW-Coverage) | 546 | 92 | Python | 1 | Equity research coverage of 1,735 Taiwan-listed companies (TWSE + OTC). Business overviews, supply chain mapping, and financial data with wikilink cross-referencing. | 2026-03-25 |
-| 11 | [shentu](https://github.com/shentufoundation/shentu) | 425 | 60 | Go | 3 | A Cross-chain Protocol with Security Scoring and Decentralized Reimbursements for Building Secure dApps and Blockchains | 2026-09-18 |
-| 12 | [b3os](https://github.com/b3-fun/b3os) | 403 | 7 | TypeScript | 0 | B3OS is your automation platform for cross-chain workflows. Build automated strategies, schedule transactions, and execute complex on-chain operations. | 2026-05-21 |
-| 13 | [blockatlas](https://github.com/trustwallet/blockatlas) | 376 | 230 | Go | 0 | Clean and lightweight cross-chain transaction API | 2022-03-16 |
+| 7 | [retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | 919 | 136 | Python | 7 | Python toolkit, MCP server, and agent skills for reproducible, auditable clickstream and event log analytics. Helps AI agents, data scientists and analysts build, validate, and cross-check product ana... | 2026-09-25 |
+| 8 | [Acala](https://github.com/AcalaNetwork/Acala) | 762 | 763 | Rust | 108 | Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama. | 2026-08-13 |
+| 9 | [xmr-btc-swap](https://github.com/comit-network/xmr-btc-swap) | 712 | 180 | Rust | 85 | Bitcoin–Monero Cross-chain Atomic Swap | 2025-07-22 |
+| 10 | [My-TW-Coverage](https://github.com/Timeverse/My-TW-Coverage) | 546 | 93 | Python | 1 | Equity research coverage of 1,735 Taiwan-listed companies (TWSE + OTC). Business overviews, supply chain mapping, and financial data with wikilink cross-referencing. | 2026-03-25 |
+| 11 | [shentu](https://github.com/shentufoundation/shentu) | 426 | 60 | Go | 3 | A Cross-chain Protocol with Security Scoring and Decentralized Reimbursements for Building Secure dApps and Blockchains | 2026-09-25 |
+| 12 | [b3os](https://github.com/b3-fun/b3os) | 401 | 7 | TypeScript | 0 | B3OS is your automation platform for cross-chain workflows. Build automated strategies, schedule transactions, and execute complex on-chain operations. | 2026-05-21 |
+| 13 | [blockatlas](https://github.com/trustwallet/blockatlas) | 377 | 230 | Go | 0 | Clean and lightweight cross-chain transaction API | 2022-03-16 |
 | 14 | [Emblem-Vault](https://github.com/asda23acs/Emblem-Vault) | 375 | 20 | TypeScript | 0 | TypeScript SDK for Emblem Vault cross-chain wallet and trading infrastructure. | 2026-05-26 |
 | 15 | [chromium-exploit-dev](https://github.com/Petitoto/chromium-exploit-dev) | 311 | 54 | JavaScript | 0 | Toolkit to weaponize Chromium vulnerabilities into reliable, cross-platform, full-chain exploits | 2026-03-23 |
-| 16 | [irishub](https://github.com/irisnet/irishub) | 303 | 126 | JavaScript | 4 | A BPoS blockchain that enables cross-chain interoperability through a unified service model -- built with Cosmos-SDK | 2026-04-24 |
+| 16 | [irishub](https://github.com/irisnet/irishub) | 303 | 126 | JavaScript | 4 | A BPoS blockchain that enables cross-chain interoperability through a unified service model -- built with Cosmos-SDK | 2026-09-24 |
 | 17 | [CrossChain-Bridge](https://github.com/anyswap/CrossChain-Bridge) | 282 | 164 | Go | 15 | Cross-Chain bridge based on Anyswap MPC network.  | 2023-04-10 |
 | 18 | [unstoppableswap-gui](https://github.com/eigenwallet/unstoppableswap-gui) | 280 | 16 | TypeScript | 27 |  Graphical User Interface (GUI) For Trustless Cross-Chain XMR<>BTC Atomic Swaps. This repository has been moved to: https://github.com/UnstoppableSwap/core | 2024-11-15 |
 | 19 | [tokenbridge](https://github.com/omni/tokenbridge) | 277 | 211 | JavaScript | 65 | Mono repository of Token Bridge (Oracle, Deployment, Monitor). TokenBridge is an interoperability solution between EVM-based networks for assets/data cross chain transfers | 2024-05-14 |
 | 20 | [jumper-exchange](https://github.com/jumperexchange/jumper-exchange) | 271 | 209 | TypeScript | 2 | Jumper - Multi-Chain Bridging & Swapping | 2026-07-23 |
-| 21 | [sdk](https://github.com/lifinance/sdk) | 266 | 105 | TypeScript | 5 | LI.FI - Bridge & DEX aggregation: Any-to-Any Cross-Chain-Swap SDK | 2026-09-15 |
-| 22 | [renegade](https://github.com/renegade-fi/renegade) | 256 | 48 | Rust | 2 | On-chain dark pool. MPC for anonymous crosses at midpoint prices. | 2026-06-20 |
+| 21 | [sdk](https://github.com/lifinance/sdk) | 266 | 106 | TypeScript | 5 | LI.FI - Bridge & DEX aggregation: Any-to-Any Cross-Chain-Swap SDK | 2026-09-25 |
+| 22 | [renegade](https://github.com/renegade-fi/renegade) | 256 | 49 | Rust | 2 | On-chain dark pool. MPC for anonymous crosses at midpoint prices. | 2026-06-20 |
 | 23 | [darwinia](https://github.com/darwinia-network/darwinia) | 245 | 49 | Rust | 19 | L1 EVM chain governed by @ringecosystem connecting to Polkadot | 2026-09-03 |
-| 24 | [bitget-wallet-skill](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) | 242 | 55 | Python | 10 | AI agent skill for Bitget Wallet — token swap, cross-chain bridge, and gasless transactions via Order Mode API. Supports 7 EVM chains + Solana. | 2026-05-13 |
+| 24 | [bitget-wallet-skill](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) | 243 | 55 | Python | 11 | AI agent skill for Bitget Wallet — token swap, cross-chain bridge, and gasless transactions via Order Mode API. Supports 7 EVM chains + Solana. | 2026-05-13 |
 | 25 | [evm-cctp-contracts](https://github.com/circlefin/evm-cctp-contracts) | 228 | 147 | Solidity | 11 | Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol | 2026-06-18 |
-| 26 | [hyperbridge](https://github.com/polytope-labs/hyperbridge) | 222 | 131 | Rust | 14 | Hyperbridge scales verifiable interoperability | 2026-09-19 |
-| 27 | [Comp_Sci_Sem_2](https://github.com/danderfer/Comp_Sci_Sem_2) | 209 | 42 | Python | 19 | According to all known laws of aviation, there is no way that a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway. Because ... | 2023-04-03 |
-| 28 | [hydration-node](https://github.com/galacticcouncil/hydration-node) | 208 | 109 | Rust | 150 | Hydration node - Cross-chain liquidity protocol built with Polkadot-SDK | 2026-09-19 |
-| 29 | [widget](https://github.com/lifinance/widget) | 204 | 127 | TypeScript | 14 | LI.FI Widget for cross-chain bridging and swapping. It will drive your multi-chain strategy and attract new users from everywhere. | 2026-09-19 |
+| 26 | [hyperbridge](https://github.com/polytope-labs/hyperbridge) | 223 | 131 | Rust | 10 | Hyperbridge scales verifiable interoperability | 2026-09-25 |
+| 27 | [Comp_Sci_Sem_2](https://github.com/danderfer/Comp_Sci_Sem_2) | 210 | 42 | Python | 19 | According to all known laws of aviation, there is no way that a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway. Because ... | 2023-04-03 |
+| 28 | [hydration-node](https://github.com/galacticcouncil/hydration-node) | 207 | 109 | Rust | 150 | Hydration node - Cross-chain liquidity protocol built with Polkadot-SDK | 2026-09-25 |
+| 29 | [widget](https://github.com/lifinance/widget) | 205 | 128 | TypeScript | 15 | LI.FI Widget for cross-chain bridging and swapping. It will drive your multi-chain strategy and attract new users from everywhere. | 2026-09-25 |
 | 30 | [axelar-examples](https://github.com/axelarnetwork/axelar-examples) | 193 | 166 | TypeScript | 22 | Sample cross-chain dapps & contracts using the Axelar protocol.  | 2026-08-31 |
 | 31 | [the-compact](https://github.com/Uniswap/the-compact) | 189 | 37 | Solidity | 2 | The Compact is an ownerless ERC6909 contract that facilitates the formation and mediation of reusable resource locks. | 2026-04-24 |
-| 32 | [chaindata](https://github.com/connext/chaindata) | 166 | 175 | Solidity | 7 | Cross-chain EVM-based token data. | 2026-04-02 |
+| 32 | [chaindata](https://github.com/connext/chaindata) | 166 | 175 | Solidity | 7 | Cross-chain EVM-based token data. | 2026-09-22 |
 | 33 | [-L-](https://github.com/jettbrains/-L-) | 160 | 47 | - | 15 | W3C Strategic Highlights  September 2019  This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet — September 2019. For th... | 2021-08-18 |
 | 34 | [CrossChainArbitrageBot](https://github.com/VeloraDEX/CrossChainArbitrageBot) | 157 | 73 | JavaScript | 4 | Cross Chain Arbitrage Bot Powered by Paraswap | 2022-08-27 |
-| 35 | [pigeon](https://github.com/exp-table/pigeon) | 155 | 9 | Solidity | 0 | Simulate cross-chain protocols txs, easily. | 2026-09-01 |
+| 35 | [pigeon](https://github.com/exp-table/pigeon) | 156 | 9 | Solidity | 0 | Simulate cross-chain protocols txs, easily. | 2026-09-24 |
 | 36 | [ccip](https://github.com/smartcontractkit/ccip) | 148 | 68 | Go | 1 | Cross Chain Interoperability Protocol | 2025-03-14 |
 | 37 | [template](https://github.com/zeta-chain/template) | 142 | 71 | TypeScript | 3 | A smart contract template for ZetaChain for building omnichain and cross-chain messaging contracts | 2025-02-17 |
-| 38 | [xchainjs-lib](https://github.com/xchainjs/xchainjs-lib) | 134 | 109 | TypeScript | 15 | Lightweight typescript library for cross-chain wallets. Connect with multiple blockchains via a common interface, with support for the minimum features necessary.  | 2026-09-07 |
+| 38 | [xchainjs-lib](https://github.com/xchainjs/xchainjs-lib) | 134 | 109 | TypeScript | 15 | Lightweight typescript library for cross-chain wallets. Connect with multiple blockchains via a common interface, with support for the minimum features necessary.  | 2026-09-24 |
 | 39 | [web3-defi-honeypot-and-slippage-checker](https://github.com/valamidev/web3-defi-honeypot-and-slippage-checker) | 131 | 45 | Solidity | 0 | Cross-chain deployed Smart-contract to detect Honeypot and Slippage for DeFi tokens.  | 2024-03-26 |
 | 40 | [HyperNova](https://github.com/HyperNovaUS/HyperNova) | 117 | 0 | Python | 1 | HyperNova — Cross-Chain Intent Execution Network. Robinhood Chain, EVM, Virtuals Protocol. | 2026-07-20 |
 | 41 | [relay](https://github.com/ithacaxyz/relay) | 113 | 34 | Rust | 65 | Transparent cross-chain transaction routing for EIP-7702 accounts | 2026-02-02 |
-| 42 | [bsc-relayer](https://github.com/bnb-chain/bsc-relayer) | 109 | 48 | Go | 0 | An implementation of relay service to relay cross chain packages from BNB Beacon Chain to BNB Smart Chain | 2024-06-18 |
+| 42 | [bsc-relayer](https://github.com/bnb-chain/bsc-relayer) | 110 | 48 | Go | 0 | An implementation of relay service to relay cross chain packages from BNB Beacon Chain to BNB Smart Chain | 2024-06-18 |
 | 43 | [farcaster-node](https://github.com/farcaster-project/farcaster-node) | 109 | 16 | Rust | 23 | Farcaster cross-chain atomic swap node. | 2024-08-11 |
 | 44 | [token-bridge](https://github.com/omni/token-bridge) | 109 | 53 | JavaScript | 14 | Oracle service for TokenBridge. TB is an interoperability solution between Ethereum networks for native to ERC20 and ERC20 to ERC20 cross chain transfers | 2021-11-25 |
-| 45 | [PromisePipe](https://github.com/edjafarov/PromisePipe) | 107 | 7 | JavaScript | 8 | PromisePipe - reusable cross process promise chains | 2017-04-18 |
-| 46 | [poly](https://github.com/polynetwork/poly) | 107 | 53 | Go | 7 | Poly is a blockchain system providing cross-chain interactive services. it had support five kinds of heterogeneous chain protocol, Bitcoin/Ethereum/Neo/Ontology/Switcheo/BSC/Heco | 2024-02-02 |
-| 47 | [wallet](https://github.com/liquality/wallet) | 105 | 78 | Vue | 50 | Cross chain browser wallet extension | 2026-09-18 |
-| 48 | [dexfinder](https://github.com/JuneLeGency/dexfinder) | 104 | 11 | Go | 0 | Cross-platform APK/DEX method finder with call chain tracing, ProGuard deobfuscation, and hidden API detection | 2026-04-17 |
-| 49 | [zklink-contracts](https://github.com/zkLinkProtocol/zklink-contracts) | 100 | 70 | Solidity | 6 | zklink core contract, EVM compatible. | 2026-08-05 |
+| 45 | [poly](https://github.com/polynetwork/poly) | 108 | 53 | Go | 7 | Poly is a blockchain system providing cross-chain interactive services. it had support five kinds of heterogeneous chain protocol, Bitcoin/Ethereum/Neo/Ontology/Switcheo/BSC/Heco | 2024-02-02 |
+| 46 | [PromisePipe](https://github.com/edjafarov/PromisePipe) | 107 | 7 | JavaScript | 8 | PromisePipe - reusable cross process promise chains | 2017-04-18 |
+| 47 | [wallet](https://github.com/liquality/wallet) | 105 | 78 | Vue | 50 | Cross chain browser wallet extension | 2026-09-25 |
+| 48 | [dexfinder](https://github.com/JuneLeGency/dexfinder) | 105 | 11 | Go | 0 | Cross-platform APK/DEX method finder with call chain tracing, ProGuard deobfuscation, and hidden API detection | 2026-04-17 |
+| 49 | [zklink-contracts](https://github.com/zkLinkProtocol/zklink-contracts) | 101 | 70 | Solidity | 6 | zklink core contract, EVM compatible. | 2026-08-05 |
 | 50 | [bridge-v2](https://github.com/renproject/bridge-v2) | 99 | 64 | TypeScript | 3 | An easy way to bridge cross-chain assets between blockchains. | 2023-04-14 |
 | 51 | [supercharge](https://github.com/map3xyz/supercharge) | 98 | 6 | TypeScript | 0 | 💸 The Map3 Supercharge SDK connects crypto apps to Wallets, Exchanges & Bridges, enabling cross-chain deposits and increasing volumes. | 2023-06-23 |
 | 52 | [example-contracts](https://github.com/zeta-chain/example-contracts) | 95 | 60 | Shell | 5 | Examples of universal smart contract implementing cross-chain swaps, NFT transfers, ERC-20 transfers and more | 2025-12-05 |
 | 53 | [composable-ibc](https://github.com/ComposableFi/composable-ibc) | 93 | 57 | Rust | 20 | A trustless, cross-chain bridging protocol. | 2025-02-04 |
 | 54 | [zero-knowledge-gadgets](https://github.com/tangle-network/zero-knowledge-gadgets) | 93 | 30 | Rust | 14 | Zero-knowledge gadgets for Webb's cross-chain blockchain applications. | 2023-01-20 |
-| 55 | [effectstream](https://github.com/effectstream/effectstream) | 92 | 42 | JavaScript | 77 | Cross Chain Abstraction Orchestrator | 2026-09-11 |
+| 55 | [effectstream](https://github.com/effectstream/effectstream) | 92 | 42 | JavaScript | 78 | Cross Chain Abstraction Orchestrator | 2026-09-23 |
 | 56 | [AntChainBridge](https://github.com/AntChainOpenLabs/AntChainBridge) | 92 | 27 | Java | 0 | AntChain Bridge 提供异构链之间的可信跨链通信 | 2026-08-10 |
 | 57 | [garden.js](https://github.com/hashiraio/garden.js) | 91 | 9 | TypeScript | 0 | Cross-chain swaps made simple. | 2025-11-07 |
 | 58 | [cctp-sample-app](https://github.com/circlefin/cctp-sample-app) | 90 | 92 | TypeScript | 2 | Sample app to demonstrate capabilities of Cross-Chain Transfer Protocol (CCTP) | 2025-08-28 |
@@ -74,23 +74,23 @@
 | 66 | [xdapp-book](https://github.com/wormhole-foundation/xdapp-book) | 80 | 118 | Solidity | 0 | How to get started building cross chain applications | 2023-09-28 |
 | 67 | [xchain](https://github.com/zobront/xchain) | 80 | 5 | Solidity | 0 | Cross chain call library for Solidity | 2022-07-12 |
 | 68 | [swap](https://github.com/movnetwork/swap) | 79 | 29 | Python | 0 | Cross-chain atomic swap between the networks of two cryptocurrencies based on Hash Time Lock Contracts (HTLCs) protocol. | 2024-02-21 |
-| 69 | [swap-sdk](https://github.com/mayan-finance/swap-sdk) | 78 | 30 | TypeScript | 4 | npm package for sending cross-chain swap transactions | 2026-09-15 |
+| 69 | [swap-sdk](https://github.com/mayan-finance/swap-sdk) | 78 | 32 | TypeScript | 9 | npm package for sending cross-chain swap transactions | 2026-09-24 |
 | 70 | [rollcall](https://github.com/withtally/rollcall) | 77 | 15 | Solidity | 2 | Cross chain governance libraries for rollups | 2022-12-02 |
-| 71 | [sakimori](https://github.com/bokuweb/sakimori) | 77 | 0 | Rust | 0 | Cross-platform supply-chain guard for CI: supervised-run audit/block (eBPF/ETW) + minimum-release-age proxy & lockfile check for npm, cargo, PyPI, NuGet. | 2026-09-20 |
-| 72 | [ccip-cross-chain-nft](https://github.com/smartcontractkit/ccip-cross-chain-nft) | 73 | 52 | Solidity | 4 | This project demonstrates how to mint an NFT on one blockchain from another blockchain using Chainlink CCIP | 2024-07-31 |
-| 73 | [Basilisk-node](https://github.com/galacticcouncil/Basilisk-node) | 73 | 23 | Rust | 45 | Basilisk - cross-chain liquidity protocol on Kusama | 2026-07-22 |
+| 71 | [sakimori](https://github.com/bokuweb/sakimori) | 77 | 0 | Rust | 0 | Cross-platform supply-chain guard for CI: supervised-run audit/block (eBPF/ETW) + minimum-release-age proxy & lockfile check for npm, cargo, PyPI, NuGet. | 2026-09-26 |
+| 72 | [Basilisk-node](https://github.com/galacticcouncil/Basilisk-node) | 73 | 23 | Rust | 45 | Basilisk - cross-chain liquidity protocol on Kusama | 2026-07-22 |
+| 73 | [ccip-cross-chain-nft](https://github.com/smartcontractkit/ccip-cross-chain-nft) | 72 | 52 | Solidity | 4 | This project demonstrates how to mint an NFT on one blockchain from another blockchain using Chainlink CCIP | 2026-09-22 |
 | 74 | [cross-chain-marketplace-layerzero](https://github.com/zadahmed/cross-chain-marketplace-layerzero) | 72 | 17 | Solidity | 0 | A Cross Chain Marketplace build using LayerZero | 2022-08-22 |
-| 75 | [CrossChain-Router](https://github.com/anyswap/CrossChain-Router) | 68 | 84 | Go | 1 |  | 2023-06-12 |
-| 76 | [yammi-audit-log](https://github.com/RomaLytar/yammi-audit-log) | 67 | 3 | PHP | 0 | Laravel audit log & change history with real actor attribution (user / job / command / scheduler), cross-model change traces, time machine, tamper-evident hash chain, GDPR reports, anomaly detection, ... | 2026-06-30 |
+| 75 | [CrossChain-Router](https://github.com/anyswap/CrossChain-Router) | 69 | 84 | Go | 1 |  | 2023-06-12 |
+| 76 | [yammi-audit-log](https://github.com/RomaLytar/yammi-audit-log) | 68 | 3 | PHP | 0 | Laravel audit log & change history with real actor attribution (user / job / command / scheduler), cross-model change traces, time machine, tamper-evident hash chain, GDPR reports, anomaly detection, ... | 2026-06-30 |
 | 77 | [foundry-arbitrum](https://github.com/saucepoint/foundry-arbitrum) | 66 | 11 | Solidity | 1 | Cross-chain message testing for Arbitrum with Foundry | 2023-03-22 |
 | 78 | [axon](https://github.com/axonweb3/axon) | 65 | 41 | Rust | 22 | Axon is a Layer 2 framework of CKB with native cross-chain and interoperability. | 2024-03-24 |
 | 79 | [icm-contracts](https://github.com/ava-labs/icm-contracts) | 65 | 46 | Solidity | 0 | Smart contracts built on top of Avalanche Interchain Messaging (ICM) to facilitate EVM cross-chain application development. | 2025-12-03 |
 | 80 | [DegentGroup](https://github.com/KingJiongEN/DegentGroup) | 65 | 11 | Python | 0 | Enable agents to interact seamlessly in Telegram group chats and private chats, trading real NFTs/tokens cross chains. Integrated with essential Web3 tools for a streamlined decentralized experience. ... | 2025-01-10 |
-| 81 | [Building-A-Trading-Strategy-With-Python](https://github.com/bideeen/Building-A-Trading-Strategy-With-Python) | 64 | 19 | Jupyter Notebook | 1 | trading strategy is a fixed plan to go long or short in markets,  there are two common trading strategies: the momentum strategy and the reversion strategy. Firstly, the momentum strategy is also call... | 2020-02-02 |
-| 82 | [zbxcat](https://github.com/zcash-hackworks/zbxcat) | 63 | 20 | Python | 17 | A work-in-progress for Zcash Bitcoin Cross-Chain Atomic Transactions | 2017-10-24 |
-| 83 | [Tribunal](https://github.com/Uniswap/Tribunal) | 63 | 12 | Solidity | 2 | Tribunal is a framework for processing cross-chain swap settlements utilizing The Compact. | 2025-12-22 |
-| 84 | [xchain](https://github.com/0xFableOrg/xchain) | 61 | 10 | - | 5 | Cross-chain interop research, funded by Optimism Governance. | 2025-04-23 |
-| 85 | [movefuns](https://github.com/movefuns/movefuns) | 60 | 19 | Move | 12 | The Move commons library for cross multi Move chain. | 2022-12-12 |
+| 81 | [Tribunal](https://github.com/Uniswap/Tribunal) | 64 | 12 | Solidity | 2 | Tribunal is a framework for processing cross-chain swap settlements utilizing The Compact. | 2025-12-22 |
+| 82 | [Building-A-Trading-Strategy-With-Python](https://github.com/bideeen/Building-A-Trading-Strategy-With-Python) | 64 | 19 | Jupyter Notebook | 1 | trading strategy is a fixed plan to go long or short in markets,  there are two common trading strategies: the momentum strategy and the reversion strategy. Firstly, the momentum strategy is also call... | 2020-02-02 |
+| 83 | [zbxcat](https://github.com/zcash-hackworks/zbxcat) | 63 | 20 | Python | 17 | A work-in-progress for Zcash Bitcoin Cross-Chain Atomic Transactions | 2017-10-24 |
+| 84 | [movefuns](https://github.com/movefuns/movefuns) | 61 | 19 | Move | 12 | The Move commons library for cross multi Move chain. | 2022-12-12 |
+| 85 | [xchain](https://github.com/0xFableOrg/xchain) | 61 | 10 | - | 5 | Cross-chain interop research, funded by Optimism Governance. | 2025-04-23 |
 | 86 | [cross-chain-monitoring](https://github.com/alitaslimi/cross-chain-monitoring) | 59 | 88 | Python | 1 | Cross Chain Monitoring Tool | 2024-01-12 |
 | 87 | [cBridge-node](https://github.com/celer-network/cBridge-node) | 59 | 14 | Go | 12 | Celer cBridge relay node implementation in Golang | 2021-11-04 |
 | 88 | [Cosmic-Ledger-Core](https://github.com/KOSASIH/Cosmic-Ledger-Core) | 59 | 2 | JavaScript | 0 | Core implementation of the Cosmic Ledger project, a decentralized finance ecosystem integrating Pi Network, Stellar, and Pi Nexus. This repository contains the foundational codebase for the Cosmic Led... | 2025-03-25 |
