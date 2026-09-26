@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-25"
 date: "2026-09-25"
 source: "Cointelegraph"
-count: 20
+count: 19
 ---
 
 # Cointelegraph - 2026-09-25
 
-20 items collected.
+19 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ US prosecutors alleged that a payments business illegally transferred hundreds o
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 9/25/2026, 6:42:59 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide
+## 4. Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/25/2026, 6:33:49 PM  
@@ -71,7 +59,7 @@ The crypto executive and Dystopia Labs founder previously held senior roles at S
 
 ---
 
-## 6. Bitget clarifies $388M in assets affected by security breach
+## 5. Bitget clarifies $388M in assets affected by security breach
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/25/2026, 5:17:45 PM  
@@ -83,7 +71,7 @@ The Bitget breach announced on Thursday affected about $35 million more than pre
 
 ---
 
-## 7. Strategy seeks shareholder approval for daily preferred stock dividends
+## 6. Strategy seeks shareholder approval for daily preferred stock dividends
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/25/2026, 4:34:16 PM  
@@ -95,7 +83,7 @@ Strategy’s proposal would move STRC and its three other preferred stocks to da
 
 ---
 
-## 8. Crypto Biz: Wall Street and crypto fight for the same turf
+## 7. Crypto Biz: Wall Street and crypto fight for the same turf
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/25/2026, 3:49:34 PM  
@@ -107,7 +95,7 @@ Stablecoins and tokenized assets are pushing banks, exchanges and crypto compani
 
 ---
 
-## 9. Exchanges reporting crypto gains to IRS becomes tax nightmare
+## 8. Exchanges reporting crypto gains to IRS becomes tax nightmare
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/25/2026, 1:30:00 PM  
@@ -119,7 +107,7 @@ The IRS can now see your crypto gains, but has no idea about the cost-basis. Tha
 
 ---
 
-## 10. CoinMarketCap buys CoinGlass to expand crypto derivatives data
+## 9. CoinMarketCap buys CoinGlass to expand crypto derivatives data
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/25/2026, 12:44:30 PM  
@@ -131,7 +119,7 @@ CoinGlass will retain its brand and team, while its website, app, free tools, AP
 
 ---
 
-## 11. SlowMist has yet to confirm crypto theft from iPhone Safari attack
+## 10. SlowMist has yet to confirm crypto theft from iPhone Safari attack
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/25/2026, 12:19:34 PM  
@@ -143,7 +131,7 @@ The analyzed Safari sample targets iOS 18.4–18.6.2 using previously patched fl
 
 ---
 
-## 12. IBIT options price trading more calmly after Bitcoin rebound
+## 11. IBIT options price trading more calmly after Bitcoin rebound
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/25/2026, 11:11:33 AM  
@@ -155,7 +143,7 @@ IBIT’s expected volatility sits near the bottom of its 12-month range, accordi
 
 ---
 
-## 13. Magic Eden scare puts 3,832 NFTs in whitehat protective custody
+## 12. Magic Eden scare puts 3,832 NFTs in whitehat protective custody
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/25/2026, 9:48:53 AM  
@@ -167,7 +155,7 @@ Yuga Labs’ 0xQuit said the NFTs are safe and will be returned once the risk pa
 
 ---
 
-## 14. KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit
+## 13. KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/25/2026, 8:51:17 AM  
@@ -179,7 +167,7 @@ KelpDAO says LayerZero endorsed its bridge setup before the attack, while CEO Br
 
 ---
 
-## 15. Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B
+## 14. Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/25/2026, 7:41:36 AM  
@@ -191,7 +179,7 @@ US spot Bitcoin ETFs drew $191 million Thursday as daily inflows slowed for a th
 
 ---
 
-## 16. Samourai Wallet co-founder faces transfer after 30-day jail ordeal
+## 15. Samourai Wallet co-founder faces transfer after 30-day jail ordeal
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/25/2026, 7:28:18 AM  
@@ -203,7 +191,7 @@ Keonne Rodriguez says he and 70 others face another move after their treatment p
 
 ---
 
-## 17. Australian PM warns of AI’s ‘furious pace’ after agent breached government site
+## 16. Australian PM warns of AI’s ‘furious pace’ after agent breached government site
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/25/2026, 5:06:22 AM  
@@ -215,7 +203,7 @@ Anthony Albanese said governments must help shape AI’s development, after reve
 
 ---
 
-## 18. Researchers propose Zcash-style private Bitcoin transfers without a soft fork
+## 17. Researchers propose Zcash-style private Bitcoin transfers without a soft fork
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/25/2026, 4:41:06 AM  
@@ -227,7 +215,7 @@ Shielded Bitcoin would use zero-knowledge proofs and encrypted notes to hide tra
 
 ---
 
-## 19. Block brings Bitcoin Lightning payments to x402 for AI agents
+## 18. Block brings Bitcoin Lightning payments to x402 for AI agents
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/25/2026, 2:00:54 AM  
@@ -239,7 +227,7 @@ Block joins Google, Microsoft, AWS and Coinbase in backing x402, an open payment
 
 ---
 
-## 20. Bitget CEO suspects North Korea behind $352M hack, citing IP clues
+## 19. Bitget CEO suspects North Korea behind $352M hack, citing IP clues
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/25/2026, 12:32:46 AM  
