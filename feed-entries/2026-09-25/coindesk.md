@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-09-25"
 date: "2026-09-25"
 source: "CoinDesk"
-count: 12
+count: 14
 ---
 
 # CoinDesk - 2026-09-25
 
-12 items collected.
+14 items collected.
 
 ---
 
-## 1. Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles
+## 1. U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week
+
+**Author:** Jesse Hamilton  
+**Published:** 9/25/2026, 10:17:38 PM  
+**Categories:** Policy, Regulation, News  
+
+The long-anticipated exit of the commissioner sometimes known as Crypto Mom is Oct. 2, announced as the agency was sending out its latest crypto work.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week)
+
+---
+
+## 2. Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations
+
+**Author:** Nikhilesh De  
+**Published:** 9/25/2026, 9:17:30 PM  
+**Categories:** Policy, Kalshi, Prediction Markets, News  
+
+A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations)
+
+---
+
+## 3. Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles
 
 **Author:** Jesse Hamilton  
 **Published:** 9/25/2026, 8:01:05 PM  
@@ -23,7 +47,7 @@ The trade group will be run again by its original CEO, Kristin Smith, when Summe
 
 ---
 
-## 2. Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist
+## 4. Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist
 
 **Author:** Oliver Knight  
 **Published:** 9/25/2026, 2:41:53 PM  
@@ -35,7 +59,7 @@ The stablecoin issuer blacklisted a wallet holding about $318,000 in USDT and US
 
 ---
 
-## 3. Tokenization is moving faster than Washington
+## 5. Tokenization is moving faster than Washington
 
 **Author:** Andrew Cuomo  
 **Published:** 9/25/2026, 2:37:32 PM  
@@ -47,7 +71,7 @@ Regulatory clarity is not simply a legal or political issue, argues former New Y
 
 ---
 
-## 4. Tether confirms minimal EQIBank exposure following $89M US asset seizure
+## 6. Tether confirms minimal EQIBank exposure following $89M US asset seizure
 
 **Author:** Olivier Acuna  
 **Published:** 9/25/2026, 2:32:48 PM  
@@ -59,7 +83,7 @@ While Tether's stated ceiling places its maximum exposure under $64 million, the
 
 ---
 
-## 5. Strategy proposes daily dividends to bring STRC back toward $100
+## 7. Strategy proposes daily dividends to bring STRC back toward $100
 
 **Author:** James Van Straten  
 **Published:** 9/25/2026, 2:22:07 PM  
@@ -71,7 +95,7 @@ STRC has remained below $100 since May, despite a 12% dividend rate and roughly 
 
 ---
 
-## 6. Bond volatility surges while bitcoin and Wall Street stay calm
+## 8. Bond volatility surges while bitcoin and Wall Street stay calm
 
 **Author:** James Van Straten  
 **Published:** 9/25/2026, 11:54:28 AM  
@@ -83,7 +107,7 @@ Bond volatility is at its highest since March, while the bitcoin VIX, BVIV and W
 
 ---
 
-## 7. Bitcoin holders are cashing out, just not the way they did at prior market tops
+## 9. Bitcoin holders are cashing out, just not the way they did at prior market tops
 
 **Author:** Omkar Godbole  
 **Published:** 9/25/2026, 11:29:04 AM  
@@ -95,7 +119,7 @@ Your day-ahead look for Sept. 25, 2026
 
 ---
 
-## 8. Altcoins rally across the board as bitcoin consolidates near $84,000
+## 10. Altcoins rally across the board as bitcoin consolidates near $84,000
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 9/25/2026, 9:59:45 AM  
@@ -107,7 +131,7 @@ Quant jumped 39% over 24 hours and 93 of 100 CoinDesk 100 constituents rose, wit
 
 ---
 
-## 9. Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit
+## 11. Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit
 
 **Author:** Omkar Godbole  
 **Published:** 9/25/2026, 9:13:01 AM  
@@ -119,7 +143,7 @@ At one point in July, ETFs were down $5.8 billion in net outflows for the year. 
 
 ---
 
-## 10. KelpDAO sues LayerZero for the largest exploit 2026 has seen so far
+## 12. KelpDAO sues LayerZero for the largest exploit 2026 has seen so far
 
 **Author:** Olivier Acuna  
 **Published:** 9/25/2026, 8:58:03 AM  
@@ -131,7 +155,7 @@ The cross-chain lending protocol accused LayerZero and its co-founder Brian Pell
 
 ---
 
-## 11. Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress
+## 13. Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress
 
 **Author:** Shaurya Malwa,James Van Straten,Stephen Alpher  
 **Published:** 9/25/2026, 7:09:11 AM  
@@ -143,7 +167,7 @@ Separate reports from Axios and CBS suggest some positive movement in U.S.-Iran 
 
 ---
 
-## 12. Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says
+## 14. Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says
 
 **Author:** Omkar Godbole  
 **Published:** 9/25/2026, 4:29:34 AM  
