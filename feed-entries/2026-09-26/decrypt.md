@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-09-26"
 date: "2026-09-26"
 source: "Decrypt"
-count: 2
+count: 4
 ---
 
 # Decrypt - 2026-09-26
 
-2 items collected.
+4 items collected.
 
 ---
 
-## 1. AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning
+## 1. Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green
+
+**Author:** Decrypt Staff  
+**Published:** 9/26/2026, 5:01:03 PM  
+**Categories:** , Coins  
+
+Bitcoin ETFs have drawn nearly $3 billion over seven straight sessions, erasing post-Clarity Act losses and pushing 2026 flows back into positive territory.
+
+📖 [Read original article](https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green)
+
+---
+
+## 2. How Crypto Stopped Waiting for Congress and Learned to Love the Regulators
+
+**Author:** Decrypt Staff  
+**Published:** 9/26/2026, 4:06:03 PM  
+**Categories:** , , , Law and Order  
+
+After the Clarity Act failed in the Senate, the SEC, CFTC, and the Fed moved within days to write crypto's rules themselves. Will it be enough?
+
+📖 [Read original article](https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators)
+
+---
+
+## 3. AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning
 
 **Author:** Decrypt Staff  
 **Published:** 9/26/2026, 3:01:05 PM  
@@ -23,7 +47,7 @@ An open competition run by StarkWare, Yukon Research, and Eigen Labs drove the e
 
 ---
 
-## 2. Google Just Made Free 1080p AI Video Generation Available to Anyone
+## 4. Google Just Made Free 1080p AI Video Generation Available to Anyone
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/26/2026, 1:01:03 PM  
