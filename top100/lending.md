@@ -6,34 +6,34 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [fineract](https://github.com/apache/fineract) | 2,503 | 2,797 | Java | 0 | Apache Fineract | 2026-09-21 |
+| 1 | [fineract](https://github.com/apache/fineract) | 2,511 | 2,806 | Java | 0 | Apache Fineract | 2026-09-25 |
 | 2 | [aave-protocol](https://github.com/aave/aave-protocol) | 1,435 | 594 | HTML | 22 | Aave Protocol Version 1.0 - Decentralized Lending Pools | 2024-08-02 |
-| 3 | [MikaLendingBot](https://github.com/BitBotFactory/MikaLendingBot) | 1,155 | 344 | Python | 70 | Automated lending on Cryptocurrency exchanges Poloniex and Bitfinex | 2020-12-02 |
-| 4 | [lending](https://github.com/frappe/lending) | 347 | 310 | Python | 16 | Open Source Lending software | 2026-09-23 |
-| 5 | [hand_detection](https://github.com/molyswu/hand_detection) | 281 | 86 | Python | 6 | using Neural Networks (SSD) on Tensorflow.  This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive ... | 2022-01-11 |
+| 3 | [MikaLendingBot](https://github.com/BitBotFactory/MikaLendingBot) | 1,156 | 344 | Python | 70 | Automated lending on Cryptocurrency exchanges Poloniex and Bitfinex | 2020-12-02 |
+| 4 | [lending](https://github.com/frappe/lending) | 348 | 311 | Python | 17 | Open Source Lending software | 2026-09-25 |
+| 5 | [hand_detection](https://github.com/molyswu/hand_detection) | 282 | 86 | Python | 6 | using Neural Networks (SSD) on Tensorflow.  This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive ... | 2022-01-11 |
 | 6 | [dharma-smart-wallet](https://github.com/dharma-eng/dharma-smart-wallet) | 268 | 38 | Solidity | 1 | An upgradeable, meta-transaction-enabled smart wallet for earning interest on stablecoins while retaining custody of funds, with an added security backstop provided by Dharma Labs. | 2023-01-04 |
 | 7 | [flash-lending](https://github.com/marbleprotocol/flash-lending) | 249 | 59 | Solidity | 11 | Flash lending smart contracts | 2018-11-18 |
-| 8 | [leihs](https://github.com/leihs/leihs) | 244 | 64 | Shell | 222 | leihs is an inventory management, procurement and lending system | 2026-09-22 |
-| 9 | [euler-vault-kit](https://github.com/euler-xyz/euler-vault-kit) | 226 | 77 | Solidity | 3 | Build lending vaults which connect through Ethereum Vault Connector | 2026-09-01 |
-| 10 | [ethereum-erc20token-vault](https://github.com/alejoacosta74/ethereum-erc20token-vault) | 221 | 13 | Solidity | 1 | Solidity based VAULT that securely holds ETH whilst lending STABLE TOKEN to users on Ethereum. | 2026-02-28 |
-| 11 | [core-banking-prototype-laravel](https://github.com/FinAegis/core-banking-prototype-laravel) | 199 | 54 | PHP | 1 | Open-source core banking platform — 61 DDD domains with event sourcing, CQRS, and a schema-first GraphQL API. Multi-asset accounts, exchange, lending, compliance, x402/MPP machine payments, and a non-... | 2026-09-07 |
+| 8 | [leihs](https://github.com/leihs/leihs) | 245 | 64 | Shell | 221 | leihs is an inventory management, procurement and lending system | 2026-09-25 |
+| 9 | [euler-vault-kit](https://github.com/euler-xyz/euler-vault-kit) | 226 | 77 | Solidity | 3 | Build lending vaults which connect through Ethereum Vault Connector | 2026-09-24 |
+| 10 | [ethereum-erc20token-vault](https://github.com/alejoacosta74/ethereum-erc20token-vault) | 220 | 13 | Solidity | 1 | Solidity based VAULT that securely holds ETH whilst lending STABLE TOKEN to users on Ethereum. | 2026-02-28 |
+| 11 | [core-banking-prototype-laravel](https://github.com/FinAegis/core-banking-prototype-laravel) | 200 | 54 | PHP | 1 | Open-source core banking platform — 61 DDD domains with event sourcing, CQRS, and a schema-first GraphQL API. Multi-asset accounts, exchange, lending, compliance, x402/MPP machine payments, and a non-... | 2026-09-07 |
 | 12 | [metamorpho](https://github.com/morpho-org/metamorpho) | 195 | 56 | Solidity | 0 | MetaMorpho | 2026-09-08 |
 | 13 | [LoanDefault-Prediction](https://github.com/harishpuvvada/LoanDefault-Prediction) | 171 | 134 | Jupyter Notebook | 0 | Lending Club Loan data analysis | 2019-07-08 |
 | 14 | [BitfinexLendingBot](https://github.com/eAndrius/BitfinexLendingBot) | 169 | 61 | Go | 1 | BitfinexLendingBot - A bot for automated lending at Bitfinex | 2018-12-15 |
 | 15 | [poloLender](https://github.com/dutu/poloLender) | 158 | 41 | JavaScript | 1 | Free, open source, high performance bot for lending funds on Poloniex exchange | 2017-10-17 |
 | 16 | [credit_risk_model](https://github.com/finlytics-hub/credit_risk_model) | 155 | 82 | Jupyter Notebook | 1 | A comprehensive credit risk model and scorecard using data from Lending Club | 2021-04-03 |
 | 17 | [CRYPTOBALANCE](https://github.com/Eloise1988/CRYPTOBALANCE) | 154 | 24 | JavaScript | 1 | A library for importing ones balances, networth, staking, rewards, lending & farming rates, dex volume & fees, uniswap new pairs into Google spreadsheets | 2026-01-30 |
-| 18 | [dsh-crew](https://github.com/ZSeven-W/dsh-crew) | 151 | 6 | JavaScript | 4 | DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the te... | 2026-09-14 |
+| 18 | [dsh-crew](https://github.com/ZSeven-W/dsh-crew) | 153 | 6 | JavaScript | 2 | DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the te... | 2026-09-24 |
 | 19 | [OriCNN](https://github.com/Liumouliu/OriCNN) | 141 | 21 | Python | 20 | Lending Orientation to Neural Networks for Cross-view Geo-localization | 2022-05-11 |
 | 20 | [astaria-core](https://github.com/AstariaXYZ/astaria-core) | 135 | 18 | Solidity | 77 | NFT Collateralized Lending Market leveraging our novel 3 Actor Model | 2023-10-17 |
 | 21 | [AaveV2-BatchFlashDemo](https://github.com/fifikobayashi/AaveV2-BatchFlashDemo) | 133 | 58 | Solidity | 0 | A remix friendly working example that calls on Aave V2's lending pool to execute a Batch Flash Loan and then atomically deposit-borrow-repay-withdraw the flashed liquidity. | 2020-11-30 |
 | 22 | [Aave-FlashLoan-using-solidity](https://github.com/PavanAnanthSharma/Aave-FlashLoan-using-solidity) | 128 | 55 | Solidity | 6 | This contains all the code to execute a successful flash-loan on the Kovan test-net of Ethereum. Flash-loan will be taken from the aave lending pool where will will take 1 DAI as a flash-loan, please ... | 2023-02-04 |
-| 23 | [bend-lending-protocol](https://github.com/BendDAO/bend-lending-protocol) | 124 | 55 | TypeScript | 33 | BendDAO Lending Protocol for Web3 Data Liquidity | 2025-05-08 |
+| 23 | [bend-lending-protocol](https://github.com/BendDAO/bend-lending-protocol) | 125 | 55 | TypeScript | 33 | BendDAO Lending Protocol for Web3 Data Liquidity | 2025-05-08 |
 | 24 | [parallel](https://github.com/parallel-finance/parallel) | 124 | 41 | Rust | 11 | A decentralized lending & staking protocol built on top of the Polkadot ecosystem. | 2025-02-04 |
-| 25 | [morpho-blue-oracles](https://github.com/morpho-org/morpho-blue-oracles) | 120 | 63 | Solidity | 2 | Morpho Blue Oracles | 2026-09-08 |
-| 26 | [MarginBot](https://github.com/HFenter/MarginBot) | 114 | 45 | PHP | 3 | Bitfinex Margin Lending Managment Bot | 2020-12-02 |
-| 27 | [circulate](https://github.com/chicago-tool-library/circulate) | 113 | 71 | Ruby | 167 | A lending library management system | 2026-09-16 |
-| 28 | [awesome-fintech](https://github.com/jplock/awesome-fintech) | 111 | 69 | - | 0 | Curated list of awesome Fintech startup companies | 2026-08-25 |
+| 25 | [morpho-blue-oracles](https://github.com/morpho-org/morpho-blue-oracles) | 121 | 63 | Solidity | 2 | Morpho Blue Oracles | 2026-09-08 |
+| 26 | [circulate](https://github.com/chicago-tool-library/circulate) | 114 | 71 | Ruby | 167 | A lending library management system | 2026-09-16 |
+| 27 | [MarginBot](https://github.com/HFenter/MarginBot) | 114 | 45 | PHP | 3 | Bitfinex Margin Lending Managment Bot | 2020-12-02 |
+| 28 | [awesome-fintech](https://github.com/jplock/awesome-fintech) | 111 | 73 | - | 0 | Curated list of awesome Fintech startup companies | 2026-08-25 |
 | 29 | [my-web3-projects](https://github.com/microgift/my-web3-projects) | 111 | 3 | Rust | 0 | Blockchain projects(+ smart contract) - DeFi, DEX, NFT(+ pnft, cnt, xnft), minting, staking, raffle/auction, marketplace, launchpad, nft lend/borrow platform, P2E(coinflip, crash, poker) on Solana, EV... | 2025-05-26 |
 | 30 | [hifi](https://github.com/hifi-finance/hifi) | 108 | 20 | TypeScript | 23 | Monorepo implementing the Hifi fixed-rate, fixed-term lending protocol | 2025-05-06 |
 | 31 | [teller-protocol-v1](https://github.com/teller-protocol/teller-protocol-v1) | 106 | 33 | Solidity | 7 | Teller is a lending and undercollateralized borrowing protocol on the Ethereum blockchain. Teller is the first protocol to allow zero collateral borrowing for greater than one block. | 2026-09-22 |
@@ -41,8 +41,8 @@
 | 33 | [ctf-lending](https://github.com/MrToph/ctf-lending) | 101 | 15 | Solidity | 0 |  | 2022-12-13 |
 | 34 | [Documentation](https://github.com/ETHLend/Documentation) | 101 | 41 | - | 11 | ETHLend White Paper | 2019-05-07 |
 | 35 | [rcn-network](https://github.com/rcnfinance/rcn-network) | 97 | 43 | JavaScript | 1 | RCN​ is a global p2p lending protocol based on smart contracts and blockchain technology | 2023-04-13 |
-| 36 | [openleverage-contracts](https://github.com/OpenLeverageDev/openleverage-contracts) | 96 | 41 | JavaScript | 0 | OpenLeverage Smart Contracts, including lending pools, margin trade, treasury, farming pool, DAO-based governance, OLE ERC-20 token, and time-weighted vote escrow xOLE components. | 2024-05-14 |
-| 37 | [sui-lending-protocol](https://github.com/scallop-io/sui-lending-protocol) | 95 | 52 | Move | 2 | An over collateralized lending protocol on SUI network | 2026-08-29 |
+| 36 | [openleverage-contracts](https://github.com/OpenLeverageDev/openleverage-contracts) | 97 | 41 | JavaScript | 0 | OpenLeverage Smart Contracts, including lending pools, margin trade, treasury, farming pool, DAO-based governance, OLE ERC-20 token, and time-weighted vote escrow xOLE components. | 2024-05-14 |
+| 37 | [sui-lending-protocol](https://github.com/scallop-io/sui-lending-protocol) | 96 | 52 | Move | 2 | An over collateralized lending protocol on SUI network | 2026-08-29 |
 | 38 | [micro-finance](https://github.com/MicroPyramid/micro-finance) | 94 | 93 | Python | 0 | Free Micro Finance Software | 2026-01-20 |
 | 39 | [generalized-lending-protocol](https://github.com/JetJadeja/generalized-lending-protocol) | 92 | 12 | Solidity | 0 | A modern, simple, optimized lending market written in Solidity | 2022-11-19 |
 | 40 | [demeter](https://github.com/zelos-alpha/demeter) | 92 | 11 | Python | 0 | Demeter is a blockchain backtesting tool that supports trading types such as swaps, liquidity provider, lending, and options. It is compatible with markets including Uniswap, GMX, Aave, Deribit, and S... | 2026-06-16 |
@@ -58,20 +58,20 @@
 | 50 | [lending-library](https://github.com/jlord/lending-library) | 76 | 130 | JavaScript | 1 | A fork-and-go repo for creating a tool lending library website. | 2019-06-03 |
 | 51 | [pawnft](https://github.com/Anish-Agnihotri/pawnft) | 75 | 23 | TypeScript | 4 | NFT-collateralized lending primitive, via active auctions. | 2022-01-03 |
 | 52 | [ERC3156-Wrappers](https://github.com/alcueca/ERC3156-Wrappers) | 72 | 23 | Solidity | 0 | ERC3156 wrappers for popular flash lenders | 2023-07-04 |
-| 53 | [p2p-lending](https://github.com/mradkov/p2p-lending) | 70 | 44 | JavaScript | 2 | Peer 2 peer lending platform on Ethereum blockchain | 2023-05-19 |
-| 54 | [oyster-lending](https://github.com/solana-labs/oyster-lending) | 65 | 82 | TypeScript | 17 |  | 2021-06-16 |
+| 53 | [p2p-lending](https://github.com/mradkov/p2p-lending) | 70 | 45 | JavaScript | 2 | Peer 2 peer lending platform on Ethereum blockchain | 2023-05-19 |
+| 54 | [oyster-lending](https://github.com/solana-labs/oyster-lending) | 66 | 82 | TypeScript | 17 |  | 2021-06-16 |
 | 55 | [Library-Management-System-JAVA](https://github.com/stellarloop/Library-Management-System-JAVA) | 65 | 7 | Java | 0 | A comprehensive Library Management System built using Java. This application features user-friendly interfaces for managing books, members, lending operations, and inventory tracking. Suitable for edu... | 2025-11-20 |
-| 56 | [International-Debt-Statistics](https://github.com/heyitsabhijeet/International-Debt-Statistics) | 64 | 21 | Jupyter Notebook | 0 | Script to obtain PPG Bilateral lending between 2 countries using World Bank API | 2022-09-30 |
-| 57 | [bitfinex-lending-bot](https://github.com/huaying/bitfinex-lending-bot) | 63 | 24 | JavaScript | 0 | Bitfinex Lending Bot automates the funding on Bitfinex 自動放貸機器人 | 2023-01-05 |
+| 56 | [bitfinex-lending-bot](https://github.com/huaying/bitfinex-lending-bot) | 64 | 24 | JavaScript | 0 | Bitfinex Lending Bot automates the funding on Bitfinex 自動放貸機器人 | 2023-01-05 |
+| 57 | [International-Debt-Statistics](https://github.com/heyitsabhijeet/International-Debt-Statistics) | 64 | 21 | Jupyter Notebook | 0 | Script to obtain PPG Bilateral lending between 2 countries using World Bank API | 2022-09-30 |
 | 58 | [SBTi-finance-tool](https://github.com/ScienceBasedTargets/SBTi-finance-tool) | 63 | 43 | Python | 9 | This toolkit helps companies and financial institutions to assess the temperature alignment of current targets, commitments, and investment and lending portfolios, and to use this information to devel... | 2026-09-03 |
 | 59 | [joe-lending](https://github.com/lfj-gg/joe-lending) | 62 | 27 | Solidity | 0 | 🏦 Banker Joe protocol | 2026-05-01 |
 | 60 | [klend-sdk](https://github.com/Kamino-Finance/klend-sdk) | 61 | 42 | TypeScript | 4 | 🛠️ Kamino Lending TypeScript SDK | 2026-08-24 |
-| 61 | [loan-default-prediction](https://github.com/ikunal95/loan-default-prediction) | 61 | 36 | HTML | 0 | Lending Club Data Loan Default Prediction | 2023-05-01 |
+| 61 | [loan-default-prediction](https://github.com/ikunal95/loan-default-prediction) | 61 | 35 | HTML | 0 | Lending Club Data Loan Default Prediction | 2023-05-01 |
 | 62 | [cli](https://github.com/jup-ag/cli) | 61 | 23 | TypeScript | 5 | CLI for interacting with Jupiter's products on Solana: Spot, Perps, Lend, Prediction Markets and more. | 2026-06-02 |
 | 63 | [XFEM](https://github.com/ShelvanLee/XFEM) | 61 | 5 | MATLAB | 0 |  # XFEM_Fracture2D  ### Description  This is a Matlab program that can be used to solve fracture problems involving arbitrary multiple crack propagations in a 2D linear-elastic solid based on the prin... | 2022-04-28 |
 | 64 | [crypto-papers](https://github.com/irnb/crypto-papers) | 58 | 5 | Python | 0 | Curated crypto research inbox for papers and technical threads on core blockchain protocols, ZK, L2s, Bitcoin, Ethereum, DeFi, and emerging applications. | 2026-07-08 |
 | 65 | [sui-scallop-sdk](https://github.com/scallop-io/sui-scallop-sdk) | 56 | 15 | TypeScript | 0 | This is the typescript sdk for the scallop lending platform on SUI network | 2026-08-28 |
-| 66 | [paraspace-core](https://github.com/parallel-finance/paraspace-core) | 55 | 40 | Solidity | 3 | Para-Space NFT Money Market | 2024-08-27 |
+| 66 | [paraspace-core](https://github.com/parallel-finance/paraspace-core) | 56 | 40 | Solidity | 3 | Para-Space NFT Money Market | 2024-08-27 |
 | 67 | [n3rp](https://github.com/GrantStenger/n3rp) | 55 | 10 | Jupyter Notebook | 1 | N3RP (the NFT Rental Protocol) allows users to trustlessly rent out their ERC721-based assets. | 2022-09-13 |
 | 68 | [ftx-lending-bot](https://github.com/dwy6626/ftx-lending-bot) | 54 | 25 | Python | 0 | Renew lending amount on FTX | 2022-11-08 |
 | 69 | [hifi-protocol](https://github.com/hifi-finance/hifi-protocol) | 54 | 8 | - | 0 | The Hifi fixed-rate, fixed-term lending protocol | 2021-08-09 |
@@ -79,9 +79,9 @@
 | 71 | [LibraryMan-API](https://github.com/ajaynegi33/LibraryMan-API) | 54 | 53 | Java | 7 | Revolutionize book management with LibraryMan! Easily track stock, borrowers, and due dates, streamlining operations for schools, companies, and libraries worldwide, ensuring efficient and organized b... | 2025-08-07 |
 | 72 | [_v1_.contracts](https://github.com/re-nft/_v1_.contracts) | 53 | 27 | TypeScript | 0 | ReNFT's legacy ERC721 and ERC1155 lending and renting protocol | 2022-08-05 |
 | 73 | [preprocess_lending_club_data](https://github.com/nateGeorge/preprocess_lending_club_data) | 50 | 22 | Python | 0 | Pre-processes lending club loan data and concatenates into one large file. | 2019-10-22 |
-| 74 | [kivalens](https://github.com/nuclearspike/kivalens) | 49 | 21 | TypeScript | 3 | KivaLens — advanced loan-search for Kiva.org micro-lending. Vite + React 19 + TypeScript. | 2026-09-22 |
+| 74 | [kivalens](https://github.com/nuclearspike/kivalens) | 49 | 21 | TypeScript | 3 | KivaLens — advanced loan-search for Kiva.org micro-lending. Vite + React 19 + TypeScript. | 2026-09-25 |
 | 75 | [ccip-defi-lending](https://github.com/smartcontractkit/ccip-defi-lending) | 48 | 21 | JavaScript | 0 | CCIP Launch Defi Demo | 2023-12-04 |
-| 76 | [Fair-Code](https://github.com/yakew7/Fair-Code) | 48 | 45 | HTML | 17 | Auditing algorithmic bias in criminal justice, hiring, lending, healthcare, welfare, and tenant screening: 7 open-source audits, measurable fairness gaps, and concrete fixes. | 2026-09-19 |
+| 76 | [Fair-Code](https://github.com/yakew7/Fair-Code) | 48 | 45 | HTML | 16 | Auditing algorithmic bias in criminal justice, hiring, lending, healthcare, welfare, and tenant screening: 7 open-source audits, measurable fairness gaps, and concrete fixes. | 2026-09-25 |
 | 77 | [LendingClubAutoInvestor](https://github.com/jgillick/LendingClubAutoInvestor) | 47 | 21 | Python | 7 | A simple command line tool that will automatically invest all cash that becomes available | 2016-04-19 |
 | 78 | [solaris](https://github.com/kmadorin/solaris) | 47 | 12 | Rust | 1 | Solaris is a Lending/Borrowing protocol that brings Flashloans to Solana blockchain (inspired by Aave and Compound) | 2021-03-01 |
 | 79 | [lending-club](https://github.com/jgcorliss/lending-club) | 45 | 26 | Jupyter Notebook | 0 | Applying machine learning to predict loan charge-offs on LendingClub.com | 2018-06-15 |
@@ -92,7 +92,7 @@
 | 84 | [dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 44 | 3 | JavaScript | 0 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches the mock. Ships the benchmark behind that judgement — four fixtures, 23 injected... | 2026-09-07 |
 | 85 | [ajna-core](https://github.com/ajna-finance/ajna-core) | 43 | 13 | Solidity | 0 | The Ajna protocol is a non-custodial, peer-to-peer, permissionless lending, borrowing and trading system that requires no governance or external price feeds to function. | 2026-03-09 |
 | 86 | [universal-crypto-mcp](https://github.com/nirholas/universal-crypto-mcp) | 42 | 9 | TypeScript | 2 | Universal MCP server for AI agents to interact with any* blockchain via natural language and plugins. Supports swaps, bridges, gas, staking, lending, and more across Ethereum, Arbitrum, Base, Polygon,... | 2026-09-15 |
-| 87 | [Trustdev-Web3-Portfolio](https://github.com/Trustdev-eth/Trustdev-Web3-Portfolio) | 42 | 24 | TypeScript | 5 | Solana EVM Developer: AI Agents & AI-powered on-chain systems Smart Contracts & DeFi Protocols Cross-Chain Bridges NFT Marketplaces & Dynamic NFT Platforms Token Launchpads & Bonding Curve DEXs P2E Ga... | 2026-05-26 |
+| 87 | [Trustdev-Web3-Portfolio](https://github.com/Trustdev-eth/Trustdev-Web3-Portfolio) | 42 | 24 | TypeScript | 4 | Solana EVM Developer: AI Agents & AI-powered on-chain systems Smart Contracts & DeFi Protocols Cross-Chain Bridges NFT Marketplaces & Dynamic NFT Platforms Token Launchpads & Bonding Curve DEXs P2E Ga... | 2026-05-26 |
 | 88 | [flash-aggregator](https://github.com/Ashburton-Finance/flash-aggregator) | 42 | 4 | TypeScript | 8 | This Solana smart contract aggregates flash loans to offer users the cheapest possible flash loan in any token denomination. | 2022-07-26 |
 | 89 | [fractal-defi](https://github.com/Logarithm-Labs/fractal-defi) | 41 | 16 | Python | 14 | Open-source Python research library for DeFi strategies.    Compose protocol-agnostic entities (lending, perps, DEX and LP) into typed strategies - backtest, simulate, track experiments.  | 2026-09-21 |
 | 90 | [FlowYieldVaults](https://github.com/onflow/FlowYieldVaults) | 41 | 0 | Cadence | 31 | Flow Yield Vaults. Cadence contracts for automated DeFi vaults in Flow Credit Markets on the Flow network. | 2026-04-27 |
@@ -101,8 +101,8 @@
 | 93 | [augmented-finance-protocol](https://github.com/augmented-finance/augmented-finance-protocol) | 37 | 19 | TypeScript | 0 | High-yield lending and low-rate borrowing DeFi protocol | 2022-07-05 |
 | 94 | [lending-amm-model](https://github.com/curvefi/lending-amm-model) | 37 | 9 | Python | 0 | Model of LLAMMA for lending and stablecoin purposes | 2023-12-09 |
 | 95 | [opendb](https://github.com/pellcorp/opendb) | 36 | 24 | PHP | 19 | Open Media Lending Database | 2021-11-11 |
-| 96 | [Lending-Club-Credit-Scoring](https://github.com/allmeidaapedro/Lending-Club-Credit-Scoring) | 35 | 11 | Jupyter Notebook | 0 | In this project, I estimate the PD, EAD and LGD to compute the Expected Loss (EL = PD*EAD*LGD) and design a credit policy on Lending Club's loans. | 2024-04-30 |
-| 97 | [arcadia-lending](https://github.com/arcadia-finance/arcadia-lending) | 35 | 6 | Solidity | 2 | Arcadia Lending is the first application leveraging our Arcadia Vaults. It is a non-custodial peer-to-contract lending protocol where users can borrow against a combination of assets. | 2023-06-05 |
+| 96 | [arcadia-lending](https://github.com/arcadia-finance/arcadia-lending) | 36 | 6 | Solidity | 2 | Arcadia Lending is the first application leveraging our Arcadia Vaults. It is a non-custodial peer-to-contract lending protocol where users can borrow against a combination of assets. | 2023-06-05 |
+| 97 | [Lending-Club-Credit-Scoring](https://github.com/allmeidaapedro/Lending-Club-Credit-Scoring) | 35 | 11 | Jupyter Notebook | 0 | In this project, I estimate the PD, EAD and LGD to compute the Expected Loss (EL = PD*EAD*LGD) and design a credit policy on Lending Club's loans. | 2024-04-30 |
 | 98 | [QuickCredit](https://github.com/thatkazuk1/QuickCredit) | 34 | 21 | HTML | 1 | An online lending platform that provides short term soft loans to individuals. | 2019-10-23 |
-| 99 | [lending-v2](https://github.com/arcadia-finance/lending-v2) | 33 | 18 | Solidity | 1 |  | 2026-09-08 |
+| 99 | [lending-v2](https://github.com/arcadia-finance/lending-v2) | 34 | 18 | Solidity | 1 |  | 2026-09-08 |
 | 100 | [decentralized-lending-platform](https://github.com/kenny1st/decentralized-lending-platform) | 33 | 0 | Solidity | 0 | A decentralized lending and borrowing platform that enables users to supply and borrow assets without intermediaries. It supports interest rates, collateralized loans, and automated liquidation. | 2025-02-06 |
