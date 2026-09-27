@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-24"
 date: "2026-09-24"
 source: "CoinDesk"
-count: 5
+count: 3
 ---
 
 # CoinDesk - 2026-09-24
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ The Fed proposed rules on putting last year's GENIUS Act into place with regulat
 Bitget CEO Gracy Chen announced the hack shortly after independent researchers flagged unusual wallet movements.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe)
-
----
-
-## 4. Someone was trying to sell Ondo Finance after founder Nathan Allman's death
-
-**Author:** Will Canny  
-**Published:** 9/24/2026, 8:13:25 PM  
-**Categories:** Finance, ondo finance, mergers and acquisitions, Exclusive, Tokenization, News  
-
-The company has vehemently denied that it was shopping for buyers. Allman’s estate declined to comment.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death)
-
----
-
-## 5. Bullish, Alpaca, Apex Fintech and DriveWealth form coalition to push issuer-backed tokenized stocks
-
-**Author:** Krisztian Sandor,AI Boost  
-**Published:** 9/24/2026, 8:05:00 PM  
-**Categories:** Finance, Tokenization, News  
-
-The group aims to link onchain shares to official shareholder records following the U.S. SEC's innovation exemption for tokenized stock trading.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks)
 
 ---
