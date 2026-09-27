@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-24"
 date: "2026-09-24"
 source: "The Block"
-count: 10
+count: 9
 ---
 
 # The Block - 2026-09-24
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ Solana Foundation appointed Rachel Conlan as chief strategy officer and former P
 HIFI raised $37 million in Series A funding led by Left Lane Capital to scale tokenized settlement infrastructure.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-09-24-hifi-raises-37-million-series-a-to-expand-tokenized-capital-markets-infrastructure-416242)
-
----
-
-## 10. IBM connects Digital Asset Haven to Swift blockchain ledger for tokenized deposit transactions
-
-**Author:** James Hunt  
-**Published:** 9/24/2026, 10:00:00 AM  
-**Categories:** Companies, News  
-
-IBM Digital Asset Haven clients can now connect to Swift's shared ledger and instruct tokenized deposit transactions.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-24-ibm-connects-digital-asset-haven-to-swift-blockchain-ledger-for-tokenized-deposit-transactions-416237)
 
 ---
