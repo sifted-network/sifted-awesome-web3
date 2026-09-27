@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-24"
 date: "2026-09-24"
 source: "Cointelegraph"
-count: 7
+count: 5
 ---
 
 # Cointelegraph - 2026-09-24
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ Although the CFTC chair did not say the failed vote on the CLARITY Act was behin
 US Treasury yields hit a 19-year high on Thursday, pressuring risk assets as Bitcoin held near $84,000 and ONDO became top performer among altcoins.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. DoubleZero brings dedicated fiber market data to Hyperliquid traders
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 9/24/2026, 8:04:07 PM  
-**Categories:** Latest News  
-
-DoubleZero launched a dedicated fiber market data feed for Hyperliquid, giving professional trading firms faster access to its full order book.
-
-📖 [Read original article](https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Crypto treasury model loses its edge as stock premiums fade: DWF
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 9/24/2026, 5:14:35 PM  
-**Categories:** Latest News  
-
-Most DATs now trade below the value of their crypto holdings, weakening a financing model that once helped companies expand their balance sheets.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
