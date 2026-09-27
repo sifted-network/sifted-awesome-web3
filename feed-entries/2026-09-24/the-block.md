@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-24"
 date: "2026-09-24"
 source: "The Block"
-count: 9
+count: 6
 ---
 
 # The Block - 2026-09-24
 
-9 items collected.
+6 items collected.
 
 ---
 
@@ -80,41 +80,5 @@ JPMorgan analysts said bitcoin's move above its estimated $85,000 production cos
 New York has sued Polymarket, accusing it of operating an illegal gambling operation and asking a court to block it from operating.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-24-new-york-block-polymarket-alleging-illegal-gambling-operation-416279)
-
----
-
-## 7. Ondo launches onchain portfolio tokens based on BlackRock-developed strategies
-
-**Author:** James Hunt  
-**Published:** 9/24/2026, 2:27:45 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Finance firms, Markets, Public Equities, BlackRock, News  
-
-Ondo has launched three onchain portfolio tokens based on model portfolio strategies developed by BlackRock.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-24-ondo-launches-onchain-portfolio-tokens-based-blackrock-developed-strategies-416260)
-
----
-
-## 8. Solana Foundation taps Binance, Polygon vets to drive institutional adoption and payments
-
-**Author:** Jason Shubnell  
-**Published:** 9/24/2026, 1:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, People, Token Projects, Hiring, Solana, News  
-
-Solana Foundation appointed Rachel Conlan as chief strategy officer and former Polygon Labs exec Jamal Raees as GM of payments.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-09-24-solana-foundation-taps-binance-polygon-vets-to-drive-institutional-adoption-and-payments-416254)
-
----
-
-## 9. HIFI raises $37 million Series A to expand tokenized capital markets infrastructure
-
-**Author:** Brian Danga  
-**Published:** 9/24/2026, 12:00:00 PM  
-**Categories:** Companies, Deals, News  
-
-HIFI raised $37 million in Series A funding led by Left Lane Capital to scale tokenized settlement infrastructure.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-24-hifi-raises-37-million-series-a-to-expand-tokenized-capital-markets-infrastructure-416242)
 
 ---
