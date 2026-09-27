@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-24"
 date: "2026-09-24"
 source: "Cointelegraph"
-count: 5
+count: 4
 ---
 
 # Cointelegraph - 2026-09-24
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Bitget said unauthorized transfers affected a limited number of hot wallets, whi
 Although the CFTC chair did not say the failed vote on the CLARITY Act was behind new rules for authorized crypto entities, he said the move was “to provide regulatory clarity.“
 
 📖 [Read original article](https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs
-
-**Author:** Cointelegraph by Charles Bennett  
-**Published:** 9/24/2026, 8:32:16 PM  
-**Categories:** Markets  
-
-US Treasury yields hit a 19-year high on Thursday, pressuring risk assets as Bitcoin held near $84,000 and ONDO became top performer among altcoins.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
