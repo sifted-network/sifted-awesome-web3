@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-24"
 date: "2026-09-24"
 source: "Decrypt"
-count: 16
+count: 14
 ---
 
 # Decrypt - 2026-09-24
 
-16 items collected.
+14 items collected.
 
 ---
 
@@ -176,29 +176,5 @@ Elliptic’s new AI-assisted tool, called Pulse, lets any officer input a wallet
 The CFTC has been extremely busy ever since the Clarity Act failed its vote, and it appears they’re ready to accelerate.
 
 📖 [Read original article](https://decrypt.co/379169/morning-minute-selig-says-its-go-time-for-cftc-crypto-rules)
-
----
-
-## 15. Q-Day Could Arrive Before Quantum Computers Are Commercially Useful, EU Warns
-
-**Author:** Decrypt Agent  
-**Published:** 9/24/2026, 11:05:19 AM  
-**Categories:** , , Technology  
-
-The threat could arrive before quantum computers are commercially useful, and member states have until the end of 2026 to plan for it.
-
-📖 [Read original article](https://decrypt.co/379167/q-day-could-arrive-before-quantum-computers-are-commercially-useful-eu-warns)
-
----
-
-## 16. Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years
-
-**Author:** Decrypt Agent  
-**Published:** 9/24/2026, 9:00:46 AM  
-**Categories:** Law and Order  
-
-He posed as support staff, emptied about 100 accounts, then lost $6 million of the proceeds gambling, according to his own messages.
-
-📖 [Read original article](https://decrypt.co/379153/brooklyn-man-who-bragged-about-16m-coinbase-scam-gets-up-to-12-years)
 
 ---
