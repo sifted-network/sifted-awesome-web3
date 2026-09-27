@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-09-27"
 date: "2026-09-27"
 source: "Cointelegraph"
-count: 2
+count: 3
 ---
 
 # Cointelegraph - 2026-09-27
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Riot Platforms repays $200M credit facility, releases collateral
+## 1. Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report
+
+**Author:** Cointelegraph by Michael Millard  
+**Published:** 9/27/2026, 12:46:28 PM  
+**Categories:** Latest News  
+
+A rogue OpenAI research agent bypassed blocks on the Australian government health-data portal, accessing non-public files in June.
+
+📖 [Read original article](https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Riot Platforms repays $200M credit facility, releases collateral
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 9/27/2026, 9:57:19 AM  
@@ -23,7 +35,7 @@ The Bitcoin miner has continued to expand its data-center business as well.
 
 ---
 
-## 2. Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy
+## 3. Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 9/27/2026, 7:18:42 AM  
