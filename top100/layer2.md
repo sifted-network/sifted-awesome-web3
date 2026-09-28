@@ -6,16 +6,16 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,555 | 2,280 | Rust | 11 | A based rollup protocol for Ethereum🥁  | 2026-09-27 |
-| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,062 | 763 | Rust | 624 | The Stacks blockchain implementation | 2026-09-25 |
+| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,556 | 2,281 | Rust | 11 | A based rollup protocol for Ethereum🥁  | 2026-09-27 |
+| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,062 | 764 | Rust | 624 | The Stacks blockchain implementation | 2026-09-25 |
 | 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,551 | 332 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
 | 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,021 | 613 | - | 1895 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
-| 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 888 | 110 | - | 4 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
+| 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 889 | 110 | - | 4 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 6 | [starknetbook](https://github.com/starknet-edu/starknetbook) | 830 | 490 | CSS | 0 | Mastering Starknet. By the Starknet community | 2024-06-20 |
 | 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 615 | 61 | JavaScript | 16 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-09-21 |
 | 8 | [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) | 488 | 142 | C | 7 | Open source MAC Telnet client and server for connecting to Mikrotik RouterOS routers and Posix devices using MAC addresses | 2025-09-21 |
 | 9 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 468 | 52 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2026-09-23 |
-| 10 | [juno](https://github.com/NethermindEth/juno) | 444 | 244 | Go | 38 | Starknet full node designed for peak concurrency and efficiency | 2026-09-26 |
+| 10 | [juno](https://github.com/NethermindEth/juno) | 444 | 244 | Go | 37 | Starknet full node designed for peak concurrency and efficiency | 2026-09-28 |
 | 11 | [db3](https://github.com/dbpunk-labs/db3) | 387 | 43 | Rust | 18 |  a Lightweight, Permanent JSON document database | 2024-07-29 |
 | 12 | [ChainX](https://github.com/chainx-org/ChainX) | 326 | 120 | Rust | 1 | Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM  | 2025-12-18 |
 | 13 | [blockchain-roadmap](https://github.com/itublockchain/blockchain-roadmap) | 280 | 39 | - | 0 | Blockchain öğrenme yolculuğunuz için yol haritası | 2024-10-13 |
@@ -43,7 +43,7 @@
 | 35 | [Tiramisu](https://github.com/dharma-eng/Tiramisu) | 74 | 2 | TypeScript | 0 | Tiramisu is a "Layer Two" system for scalable token transfers that prioritizes simplicity. | 2023-02-03 |
 | 36 | [entry](https://github.com/laincloud/entry) | 73 | 33 | Go | 0 | Attach to LAIN app container via `lain enter` | 2019-04-25 |
 | 37 | [orbiter-sdk](https://github.com/Orbiter-Finance/orbiter-sdk) | 68 | 45 | TypeScript | 9 | Orbiter-Sdk is a secure and fast Layer2 cross-platform transfer library | 2023-07-10 |
-| 38 | [IbisWallet](https://github.com/aeonBTC/IbisWallet) | 67 | 5 | Kotlin | 2 | A self-custody Bitcoin wallet for Android with a focus on customizability, security, and privacy. | 2026-09-24 |
+| 38 | [IbisWallet](https://github.com/aeonBTC/IbisWallet) | 68 | 5 | Kotlin | 2 | A self-custody Bitcoin wallet for Android with a focus on customizability, security, and privacy. | 2026-09-24 |
 | 39 | [docker-layer2-icc](https://github.com/brthor/docker-layer2-icc) | 66 | 6 | Python | 0 | Demonstrating that disabling ICC in docker does not block raw packets between containers. | 2018-02-21 |
 | 40 | [axon](https://github.com/axonweb3/axon) | 65 | 41 | Rust | 22 | Axon is a Layer 2 framework of CKB with native cross-chain and interoperability. | 2024-03-24 |
 | 41 | [go-ten](https://github.com/ten-protocol/go-ten) | 65 | 49 | Go | 18 | Official Golang implementation of the TEN protocol | 2026-06-15 |
