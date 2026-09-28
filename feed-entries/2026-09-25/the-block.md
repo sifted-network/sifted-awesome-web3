@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-25"
 date: "2026-09-25"
 source: "The Block"
-count: 8
+count: 6
 ---
 
 # The Block - 2026-09-25
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ Aave V4 added Apple, Nvidia, Tesla, and four more tokenized stocks as collateral
 Strategy is seeking shareholder approval to pay daily dividends across its four U.S.-listed preferred stocks.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869)
-
----
-
-## 7. Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance
-
-**Author:** James Hunt  
-**Published:** 9/25/2026, 11:00:00 AM  
-**Categories:** Companies, Deals, exclusive, News  
-
-Ethena is adding Binance bStocks and equity perpetuals to the basis trade used for USDe's backing strategy.
-
-📖 [Read original article](https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367)
-
----
-
-## 8. KelpDAO sues LayerZero, claims it endorsed setup used in $292 million rsETH exploit
-
-**Author:** Brian Danga  
-**Published:** 9/25/2026, 9:13:08 AM  
-**Categories:** Crypto Ecosystems, Legal, Policy, Regulation, Lawsuits, News  
-
-KelpDAO sued LayerZero and Bryan Pellegrino over the April 18 rsETH exploit, alleging the bridge setup was endorsed in writing.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361)
 
 ---
