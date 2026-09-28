@@ -2,16 +2,76 @@
 title: "CoinDesk - 2026-09-28"
 date: "2026-09-28"
 source: "CoinDesk"
-count: 11
+count: 16
 ---
 
 # CoinDesk - 2026-09-28
 
-11 items collected.
+16 items collected.
 
 ---
 
-## 1. THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin
+## 1. Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing
+
+**Author:** Helene Braun  
+**Published:** 9/28/2026, 6:00:00 PM  
+**Categories:** Markets, News  
+
+The bank is bringing its roughly $100 billion Treasury fund to institutional crypto firms without creating a tokenized version of it.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing)
+
+---
+
+## 2. The restaking gold rush is over, and top protocols are barely making a profit
+
+**Author:** Oliver Knight  
+**Published:** 9/28/2026, 4:24:51 PM  
+**Categories:** Finance, Feature  
+
+As restaking yields dried up and smart-contract risks mounted, Ethereum's top liquid restaking protocol walked away from its core business to build a crypto neobank instead.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit)
+
+---
+
+## 3. Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report
+
+**Author:** Nikhilesh De  
+**Published:** 9/28/2026, 4:16:40 PM  
+**Categories:** Policy, Tether, News  
+
+Democrats on the Senate's Permanent Subcommittee on Intelligence published a report alleging that USDT had become a key tool for the Iranian government.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report)
+
+---
+
+## 4. AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns
+
+**Author:** Omkar Godbole  
+**Published:** 9/28/2026, 1:06:11 PM  
+**Categories:** Markets, Artificial Intelligence, News  
+
+AI agents could trigger a bank run by automatically moving household cash from low-interest checking accounts to higher-yield alternatives, Slok warns.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/09/28/ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns)
+
+---
+
+## 5. Chainlink launches new version of its crypto bridge tech 'CCIP' to give apps more control over their security
+
+**Author:** Oliver Knight  
+**Published:** 9/28/2026, 12:30:00 PM  
+**Categories:** Finance, Hack, News  
+
+The new software lets companies add custom security checks so they do not fall victim to the same type of vulnerabilities that plagued rival bridges.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry)
+
+---
+
+## 6. THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin
 
 **Author:** Shaurya Malwa  
 **Published:** 9/28/2026, 12:13:09 PM  
@@ -23,7 +83,7 @@ CoinDesk found 27 successful swaps moving about 2,390 ETH into 75.2 BTC, even as
 
 ---
 
-## 2. Traders aren't panicking yet despite cooling crypto sentiment
+## 7. Traders aren't panicking yet despite cooling crypto sentiment
 
 **Author:** Omkar Godbole  
 **Published:** 9/28/2026, 11:32:33 AM  
@@ -35,7 +95,7 @@ Your day-ahead look for Sept. 28, 2026
 
 ---
 
-## 3. Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit
+## 8. Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit
 
 **Author:** Ian Allison  
 **Published:** 9/28/2026, 11:00:00 AM  
@@ -47,7 +107,7 @@ Franklin Templeton’s tokenized money market shares can be used as collateral f
 
 ---
 
-## 4. Bitcoin falls to $83,000 while altcoins unwind Friday's rally
+## 9. Bitcoin falls to $83,000 while altcoins unwind Friday's rally
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 9/28/2026, 10:15:04 AM  
@@ -59,19 +119,19 @@ Bitcoin fell 1.7% to $83,000, though the CoinDesk 100 dropped 2.6% as Friday's b
 
 ---
 
-## 5. Live updates: Bitcoin sinks below $83,000 as Iran talks stall and oil climbs
+## 10. Live updates: Bitcoin remains under pressure as Iran denies report of peace progress
 
-**Author:** Shaurya Malwa  
+**Author:** Shaurya Malwa,Stephen Alpher,James Van Straten,Helene Braun  
 **Published:** 9/28/2026, 10:02:37 AM  
 **Categories:** Finance, Live News, live_news  
 
-ZEC led losses among major tokens as Brent pushed toward $108 and traders added to bets on another Fed rate increase ahead of this week's inflation and jobs data.
+The U.S. 10-year Treasury yield is sharply higher again, rising to a new cycle high above 5.27%.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs)
 
 ---
 
-## 6. Eyes on key U.S. employment data as crypto bulls take a breather: Crypto Week Ahead
+## 11. Eyes on key U.S. employment data as crypto bulls take a breather: Crypto Week Ahead
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 9/28/2026, 9:45:55 AM  
@@ -83,7 +143,7 @@ Your look at what's coming in the week starting Sept. 28.
 
 ---
 
-## 7. Bitcoin bears pay to bet on further declines as futures positions near yearly lows
+## 12. Caution builds in the bitcoin market even as prices stay well above summer lows
 
 **Author:** James Van Straten  
 **Published:** 9/28/2026, 9:29:34 AM  
@@ -95,7 +155,7 @@ Overall demand for leveraged exposure remains weak, marked by sliding futures op
 
 ---
 
-## 8. RedotPay completes financial audit as it presses ahead with U.S. IPO plans
+## 13. RedotPay completes financial audit as it presses ahead with U.S. IPO plans
 
 **Author:** Will Canny  
 **Published:** 9/28/2026, 7:50:00 AM  
@@ -107,7 +167,7 @@ The stablecoin payments company said the audit is part of its preparations to go
 
 ---
 
-## 9. California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'
+## 14. California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'
 
 **Author:** Omkar Godbole  
 **Published:** 9/28/2026, 6:21:52 AM  
@@ -119,7 +179,7 @@ The California Governor signed AB 2409 as part of an anti-corruption package, fr
 
 ---
 
-## 10. Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows
+## 15. Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows
 
 **Author:** Shaurya Malwa  
 **Published:** 9/28/2026, 6:21:06 AM  
@@ -131,7 +191,7 @@ All seven funds attracted money, while Friday’s $87 million intake set a daily
 
 ---
 
-## 11. Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes
+## 16. Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes
 
 **Author:** Omkar Godbole  
 **Published:** 9/28/2026, 3:58:52 AM  
