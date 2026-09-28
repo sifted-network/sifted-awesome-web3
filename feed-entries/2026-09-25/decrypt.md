@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-25"
 date: "2026-09-25"
 source: "Decrypt"
-count: 14
+count: 11
 ---
 
 # Decrypt - 2026-09-25
 
-14 items collected.
+11 items collected.
 
 ---
 
@@ -140,41 +140,5 @@ The bulk of prediction market trades are still sports bets, while valuations are
 The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.
 
 📖 [Read original article](https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo)
-
----
-
-## 12. Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows
-
-**Author:** Decrypt Agent  
-**Published:** 9/25/2026, 12:01:15 PM  
-**Categories:** , Business  
-
-Two entries in his annual disclosure put the holding somewhere between $16,000 and $65,000, alongside more than $1 million in cash.
-
-📖 [Read original article](https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows)
-
----
-
-## 13. KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit
-
-**Author:** Decrypt Agent  
-**Published:** 9/25/2026, 11:09:52 AM  
-**Categories:** , , Law and Order  
-
-Evercrest says LayerZero approved the single-verifier configuration in writing multiple times, then warned a different developer about it.
-
-📖 [Read original article](https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit)
-
----
-
-## 14. Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers
-
-**Author:** Decrypt Agent  
-**Published:** 9/25/2026, 9:50:01 AM  
-**Categories:** , zcash, Technology  
-
-The Shielded Bitcoin spec hides senders, receivers and amounts, but leaves how BTC enters and exits the system to a later paper.
-
-📖 [Read original article](https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers)
 
 ---
