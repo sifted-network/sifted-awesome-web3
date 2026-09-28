@@ -6,7 +6,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 888 | 110 | - | 4 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
+| 1 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 889 | 110 | - | 4 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 2 | [mango](https://github.com/MangoNet-Labs/mango) | 271 | 74 | Rust | 1 | Mango Network is a Layer1 blockchain based on the Dpos consensus mechanism and supported by Move to build a transaction-based omni-chain infrastructure network. | 2025-06-21 |
 | 3 | [Mavryk-Wallet](https://github.com/MeoMunDep/Mavryk-Wallet) | 142 | 5 | Shell | 0 | Auto  connect wallet, send token, stake, create vault, deposit, earn, borrow, faucet token.  | 2025-09-26 |
 | 4 | [aperod-node](https://github.com/aperod-network/aperod-node) | 121 | 0 | Go | 0 | Aperod (APRO) — Institutional-grade privacy Layer-1 built in Go. RingCT & MLSAG engine for confidential P2P payments, Telegram Mini-Apps & Web3 games. | 2026-09-23 |
@@ -71,8 +71,8 @@
 | 63 | [cms-calo-layer1](https://github.com/uwcms/cms-calo-layer1) | 2 | 7 | C | 8 | Xilinx Microblaze Projects for RCT Upgrade  | 2022-05-18 |
 | 64 | [alephium-standalone](https://github.com/touilleio/alephium-standalone) | 2 | 5 | HCL | 0 | Standalone, fast-sync (via snapshot from https://archives.alephium.org) Alephium full node pre-configured for the mainnet | 2026-08-30 |
 | 65 | [swisstronik](https://github.com/sinak1023/swisstronik) | 2 | 0 | JavaScript | 0 | swisstronik is layer1 solution | 2026-07-23 |
-| 66 | [app-localchain](https://github.com/tiki-deprecated/app-localchain) | 2 | 1 | Dart | 0 | TIKI's layer1 single user blockchain | 2022-06-21 |
-| 67 | [pharos-layer1-](https://github.com/19seniman/pharos-layer1-) | 2 | 0 | JavaScript | 0 |  | 2025-11-26 |
+| 66 | [pharos-layer1-](https://github.com/19seniman/pharos-layer1-) | 2 | 0 | JavaScript | 0 |  | 2025-11-26 |
+| 67 | [app-localchain](https://github.com/tiki-deprecated/app-localchain) | 2 | 1 | Dart | 0 | TIKI's layer1 single user blockchain | 2022-06-21 |
 | 68 | [TOMB](https://github.com/phantasma-io-archive/TOMB) | 2 | 11 | C# | 5 | TOMB smart contract compiler for Phantasma platform | 2024-09-03 |
 | 69 | [Layer1-Network-Health-Check](https://github.com/yzmar4real/Layer1-Network-Health-Check) | 2 | 0 | Python | 0 | Python Code that allows Network Engineers to run through their IOS,IOSXE and NXOS infrsatructure for layer 1 issues. | 2020-12-10 |
 | 70 | [kaia-eliza-plugin](https://github.com/kaiachain/kaia-eliza-plugin) | 2 | 2 | TypeScript | 0 | Kaia Plugin for ElizaOS | 2025-04-16 |
@@ -101,8 +101,8 @@
 | 93 | [BlockChain](https://github.com/Samaria-Glen/BlockChain) | 1 | 0 | C# | 0 | Huobi Layer1 Cubechain | 2023-06-12 |
 | 94 | [Layer1](https://github.com/doadmo/Layer1) | 1 | 0 | - | 0 |  | 2024-01-05 |
 | 95 | [muse-integration](https://github.com/AsmiK222/muse-integration) | 1 | 0 | Python | 0 | layer1,2,3 integration | 2026-07-12 |
-| 96 | [upow](https://github.com/upowai/upow) | 1 | 2 | Python | 0 | uPow, which stands for Useful Power of Work, is a Layer1 implementation  closely following the original Nakamoto consensus. | 2026-06-17 |
-| 97 | [layer1](https://github.com/dzmask27/layer1) | 1 | 0 | - | 0 |  | 2023-06-23 |
+| 96 | [layer1](https://github.com/dzmask27/layer1) | 1 | 0 | - | 0 |  | 2023-06-23 |
+| 97 | [upow](https://github.com/upowai/upow) | 1 | 2 | Python | 0 | uPow, which stands for Useful Power of Work, is a Layer1 implementation  closely following the original Nakamoto consensus. | 2026-06-17 |
 | 98 | [layer1](https://github.com/natalymarcela11/layer1) | 1 | 0 | - | 0 |  | 2023-08-23 |
 | 99 | [Validator-List](https://github.com/0xCrazy-crypto/Validator-List) | 1 | 0 | - | 0 | Validator-List of STBL Layer1 | 2025-06-27 |
 | 100 | [APTOS](https://github.com/Sazharr911/APTOS) | 1 | 0 | - | 0 | Aptos is a decentralized Layer1 blockchain  | 2024-02-25 |
