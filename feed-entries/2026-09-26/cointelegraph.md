@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-26"
 date: "2026-09-26"
 source: "Cointelegraph"
-count: 4
+count: 3
 ---
 
 # Cointelegraph - 2026-09-26
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ The 6th US Circuit Court of Appeals ruled against prediction market Kalshi, sidi
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Michael Millard  
-**Published:** 9/26/2026, 12:17:00 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. SEC Commissioner Hester Peirce to leave post on Oct. 2
+## 2. SEC Commissioner Hester Peirce to leave post on Oct. 2
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 9/26/2026, 9:02:22 AM  
@@ -47,7 +35,7 @@ Peirce, known as “Crypto Mom,” served on the SEC for about eight years, incl
 
 ---
 
-## 4. CFTC sues Cash FX, alleges $950M crypto-linked forex scheme
+## 3. CFTC sues Cash FX, alleges $950M crypto-linked forex scheme
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 9/26/2026, 6:59:29 AM  
