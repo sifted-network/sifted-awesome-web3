@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-09-27"
 date: "2026-09-27"
 source: "Cointelegraph"
-count: 3
+count: 4
 ---
 
 # Cointelegraph - 2026-09-27
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report
+## 1. THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 9/27/2026, 11:43:18 PM  
+**Categories:** Magazine  
+
+THORChain refuses to blacklist addresses linked to the Bitget hack. Vitalik Buterin says Ethereum is evolving from being a mere blockchain, into a world cryptographic computer.
+
+📖 [Read original article](https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 9/27/2026, 12:46:28 PM  
@@ -23,7 +35,7 @@ A rogue OpenAI research agent bypassed blocks on the Australian government healt
 
 ---
 
-## 2. Riot Platforms repays $200M credit facility, releases collateral
+## 3. Riot Platforms repays $200M credit facility, releases collateral
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 9/27/2026, 9:57:19 AM  
@@ -35,7 +47,7 @@ The Bitcoin miner has continued to expand its data-center business as well.
 
 ---
 
-## 3. Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy
+## 4. Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 9/27/2026, 7:18:42 AM  
