@@ -35,7 +35,7 @@ The five-year deal could strengthen USDC’s reach in emerging markets, though T
 
 ---
 
-## 3. Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze
+## 3. Bitget hacker moves $83 million in stolen XRP beyond reach of freeze controls
 
 **Author:** Shaurya Malwa  
 **Published:** 9/26/2026, 12:56:41 PM  
