@@ -2,16 +2,40 @@
 title: "The Block - 2026-09-29"
 date: "2026-09-29"
 source: "The Block"
-count: 5
+count: 7
 ---
 
 # The Block - 2026-09-29
 
-5 items collected.
+7 items collected.
 
 ---
 
-## 1. Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2
+## 1. CryptoQuant says bitcoin correction could be near as traders’ unrealized profit hits 21-month high
+
+**Author:** Yogita Khatri  
+**Published:** 9/29/2026, 7:14:47 PM  
+**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Web3, Analyst Reports, Bitcoin, Crypto, News  
+
+Bitcoin could face a near-term correction as short-term traders' onchain unrealized profit margin has reached its highest level in 21 months, according to CryptoQuant.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-09-29-cryptoquant-says-bitcoin-correction-could-near-traders-unrealized-profit-21-month-high-417206)
+
+---
+
+## 2. Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades
+
+**Author:** Kyle Baird  
+**Published:** 9/29/2026, 5:40:37 PM  
+**Categories:** Companies, Markets, Policy, Regulation, News  
+
+Comer’s expanded probe seeks records on government insiders, employee trades and suspicious activity referrals.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192)
+
+---
+
+## 3. Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2
 
 **Author:** Yogita Khatri  
 **Published:** 9/29/2026, 4:00:00 PM  
@@ -23,7 +47,7 @@ Aztec Labs has relaunched zk.money, a self-custodial privacy wallet, on Aztec Ne
 
 ---
 
-## 2. Bitcoin tests long-term holder supply cluster as leverage clears, analysts say
+## 4. Bitcoin tests long-term holder supply cluster as leverage clears, analysts say
 
 **Author:** James Hunt  
 **Published:** 9/29/2026, 3:09:46 PM  
@@ -35,7 +59,7 @@ Bitcoin traded near $84,000 on Tuesday, near Glassnode's largest long-term holde
 
 ---
 
-## 3. Bitwise launches first US spot NEAR ETF with staking rewards
+## 5. Bitwise launches first US spot NEAR ETF with staking rewards
 
 **Author:** Jason Shubnell  
 **Published:** 9/29/2026, 2:27:22 PM  
@@ -47,7 +71,7 @@ Bitwise's NRR is the first U.S. NEAR ETP, charging a 0.75% fee and staking its N
 
 ---
 
-## 4. Ondo Perps CEO sees ‘huge opportunity’ for perps in US market, under different model
+## 6. Ondo Perps CEO sees ‘huge opportunity’ for perps in US market, under different model
 
 **Author:** Danny Park  
 **Published:** 9/29/2026, 10:58:57 AM  
@@ -59,7 +83,7 @@ The CEO's comment comes at a time when U.S. regulators and several firms are tes
 
 ---
 
-## 5. Coinbase receives DCO approval from CFTC, completing full derivatives stack
+## 7. Coinbase receives DCO approval from CFTC, completing full derivatives stack
 
 **Author:** Danny Park  
 **Published:** 9/29/2026, 2:02:36 AM  
