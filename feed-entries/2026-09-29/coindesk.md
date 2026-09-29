@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-09-29"
 date: "2026-09-29"
 source: "CoinDesk"
-count: 9
+count: 12
 ---
 
 # CoinDesk - 2026-09-29
 
-9 items collected.
+12 items collected.
 
 ---
 
-## 1. Bitcoin beats gold, surge to $100,000 in play
+## 1. Ethereum users get another way to pay privately as zk.money returns after three years
+
+**Author:** Shaurya Malwa  
+**Published:** 9/29/2026, 4:00:00 PM  
+**Categories:** Tech, Ethereum News, News  
+
+The relaunched wallet hides payments made on the Aztec Network, while deposits from Ethereum remain visible.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years)
+
+---
+
+## 2. Democrats killed the Clarity Act
+
+**Author:** Tim Scott  
+**Published:** 9/29/2026, 2:08:18 PM  
+**Categories:** Opinion, Opinion  
+
+Democrats should remember the people they represent and do what's best for them, not what's best for their political calculus, consultants, and special interests, writes Sen. Tim Scott (R-S.C.).
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act)
+
+---
+
+## 3. Bitcoin beats gold, surge to $100,000 in play
 
 **Author:** Omkar Godbole  
 **Published:** 9/29/2026, 11:34:55 AM  
@@ -23,7 +47,19 @@ Your day-ahead look for Sept. 29, 2026
 
 ---
 
-## 2. Aave leads DeFi higher as crypto shrugs off surging bond market
+## 4. Zcash developers begin moving Tachyon code into faster private-payment software
+
+**Author:** Shaurya Malwa  
+**Published:** 9/29/2026, 11:15:30 AM  
+**Categories:** Tech, News  
+
+Developers are starting to fold Project Tachyon into Zakura Common as they work toward a long-term target of more than 50,000 private payments a second.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan)
+
+---
+
+## 5. Aave leads DeFi higher as crypto shrugs off surging bond market
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 9/29/2026, 10:28:51 AM  
@@ -35,19 +71,19 @@ Aave jumped 11% on speculation over a token burn, with 72 of 100 CoinDesk 100 co
 
 ---
 
-## 3. Live updates: Bitcoin rebounds above $84,000 as ETFs draw in $30 million
+## 6. Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges
 
-**Author:** Shaurya Malwa,James Van Straten  
+**Author:** Shaurya Malwa,James Van Straten,Stephen Alpher  
 **Published:** 9/29/2026, 10:14:41 AM  
 **Categories:** Markets, Live News, live_news  
 
-Ether led a modest recovery among major tokens, while ZEC extended its slide and its U.S. fund posted the only outflow among crypto ETFs on Monday.
+The Conference Board's Consumer Confidence Index fell to its lowest level in more than a decade in September, with expectations of continued weakening in business and labor market conditions.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady)
 
 ---
 
-## 4. Blockchain.com targets $500 million IPO this year at up to $6 billion valuation
+## 7. Blockchain.com targets $500 million IPO this year at up to $6 billion valuation
 
 **Author:** Jamie Crawley  
 **Published:** 9/29/2026, 10:13:40 AM  
@@ -59,7 +95,7 @@ The London-based crypto services company confidentially filed for an initial pub
 
 ---
 
-## 5. Bitcoin is on track to shatter a major decade-long streak as September gains surge
+## 8. Bitcoin is on track to shatter a major decade-long streak as September gains surge
 
 **Author:** James Van Straten  
 **Published:** 9/29/2026, 9:45:31 AM  
@@ -71,7 +107,7 @@ Bitcoin is on track for a third straight monthly gain, but higher yields, oil pr
 
 ---
 
-## 6. Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic
+## 9. Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic
 
 **Author:** Omkar Godbole  
 **Published:** 9/29/2026, 9:06:11 AM  
@@ -83,7 +119,7 @@ Why yields are rising matters more for bitcoin than how high they go.
 
 ---
 
-## 7. Near Intents blocks $50 million in Bitget hacker swaps, here's what happened
+## 10. Near Intents blocks $50 million in Bitget hacker swaps, here's what happened
 
 **Author:** Shaurya Malwa  
 **Published:** 9/29/2026, 6:23:47 AM  
@@ -95,7 +131,7 @@ The swap service identified more than $50 million in attempted transfers, althou
 
 ---
 
-## 8. Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.
+## 11. Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.
 
 **Author:** Omkar Godbole  
 **Published:** 9/29/2026, 5:31:44 AM  
@@ -107,7 +143,7 @@ Anthropic's prospectus seen by Reuters shows big spending plans despite heavy lo
 
 ---
 
-## 9. Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again
+## 12. Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again
 
 **Author:** Shaurya Malwa  
 **Published:** 9/29/2026, 4:17:20 AM  
