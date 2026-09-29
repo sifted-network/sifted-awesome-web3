@@ -2,16 +2,28 @@
 title: "The Block - 2026-09-29"
 date: "2026-09-29"
 source: "The Block"
-count: 1
+count: 2
 ---
 
 # The Block - 2026-09-29
 
-1 items collected.
+2 items collected.
 
 ---
 
-## 1. Coinbase receives DCO approval from CFTC, completing full derivatives stack
+## 1. Ondo Perps CEO sees ‘huge opportunity’ for perps in US market, under different model
+
+**Author:** Danny Park  
+**Published:** 9/29/2026, 10:58:57 AM  
+**Categories:** Crypto Ecosystems, DeFi, Markets, Policy, Regulation, exclusive, News  
+
+The CEO's comment comes at a time when U.S. regulators and several firms are testing how perpetual futures could enter domestic markets.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-29-ondo-perps-ceo-interview-david-wells-417125)
+
+---
+
+## 2. Coinbase receives DCO approval from CFTC, completing full derivatives stack
 
 **Author:** Danny Park  
 **Published:** 9/29/2026, 2:02:36 AM  
