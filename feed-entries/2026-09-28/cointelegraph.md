@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-28"
 date: "2026-09-28"
 source: "Cointelegraph"
-count: 20
+count: 19
 ---
 
 # Cointelegraph - 2026-09-28
 
-20 items collected.
+19 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ The crypto company is seeking a valuation of up to $6 billion, well below its 20
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/28/2026, 7:02:45 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. US SEC follows CFTC in staff guidance for crypto
+## 3. US SEC follows CFTC in staff guidance for crypto
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/28/2026, 6:39:09 PM  
@@ -59,7 +47,7 @@ With the failed cloture vote on the CLARITY Act, the SEC announced updates on ho
 
 ---
 
-## 5. Bybit accepts Franklin Templeton tokenized funds as trading collateral
+## 4. Bybit accepts Franklin Templeton tokenized funds as trading collateral
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/28/2026, 6:02:54 PM  
@@ -71,7 +59,7 @@ Eligible institutions can pledge Benji-issued fund shares for stablecoin credit 
 
 ---
 
-## 6. Crypto PAC spends $11M to oppose Sherrod Brown in Ohio
+## 5. Crypto PAC spends $11M to oppose Sherrod Brown in Ohio
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/28/2026, 4:48:00 PM  
@@ -83,7 +71,7 @@ Fairshake pledged an initial $30 million on media opposing the Democratic candid
 
 ---
 
-## 7. Bitget CEO says $388M hack exploited third-party security vulnerability
+## 6. Bitget CEO says $388M hack exploited third-party security vulnerability
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 9/28/2026, 2:46:21 PM  
@@ -95,7 +83,7 @@ Some stolen assets have been frozen, but Bitget has yet to disclose how much has
 
 ---
 
-## 8. MiCA focus shifts from rulemaking to supervision, ESMA chair says
+## 7. MiCA focus shifts from rulemaking to supervision, ESMA chair says
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/28/2026, 2:02:45 PM  
@@ -107,7 +95,7 @@ ESMA will focus on CASP resilience, outsourcing and reverse solicitation while p
 
 ---
 
-## 9. Altseason is coming — and traders are more discerning this time
+## 8. Altseason is coming — and traders are more discerning this time
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 9/28/2026, 1:30:00 PM  
@@ -119,7 +107,7 @@ Altseason is almost here and early signs suggest traders are becoming more selec
 
 ---
 
-## 10. Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666
+## 9. Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/28/2026, 12:38:01 PM  
@@ -131,7 +119,7 @@ Strategy sold 1.47 million MSTR shares for $246.2 million, using the proceeds fo
 
 ---
 
-## 11. BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week
+## 10. BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/28/2026, 12:21:50 PM  
@@ -143,7 +131,7 @@ Bitcoin fell below $83,000 to start the week amid US-Iran war developments but r
 
 ---
 
-## 12. Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain
+## 11. Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/28/2026, 11:05:24 AM  
@@ -155,7 +143,7 @@ Ether withdrawals are scheduled to return Tuesday and USDt on Wednesday as Bitge
 
 ---
 
-## 13. Hong Kong regulators expand financial reporting oversight to licensed crypto firms
+## 12. Hong Kong regulators expand financial reporting oversight to licensed crypto firms
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/28/2026, 9:58:31 AM  
@@ -167,7 +155,7 @@ The SFC and AFRC signed a new MoU extending financial reporting, audit and compl
 
 ---
 
-## 14. Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP
+## 13. Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/28/2026, 9:19:50 AM  
@@ -179,7 +167,7 @@ DYORSWAP said it paid more than 200 ETH in compensation, while Upbit operator Du
 
 ---
 
-## 15. Bitcoin drops under $83K as liquidity hunting keeps bulls from targeting yearly open
+## 14. Bitcoin drops under $83K as liquidity hunting keeps bulls from targeting yearly open
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/28/2026, 9:03:20 AM  
@@ -191,7 +179,7 @@ Bitcoin joined US stock futures in dropping on Monday after US president Donald 
 
 ---
 
-## 16. Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025
+## 15. Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/28/2026, 8:24:40 AM  
@@ -203,7 +191,7 @@ Daily inflows slowed as Bitcoin pulled back from above $87,100, while Ether and 
 
 ---
 
-## 17. South Korea weighs crypto market makers after JPYC trades at 4 times peg
+## 16. South Korea weighs crypto market makers after JPYC trades at 4 times peg
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/28/2026, 5:42:45 AM  
@@ -215,7 +203,7 @@ Crypto market making is effectively restricted under South Korea’s manipulatio
 
 ---
 
-## 18. Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork
+## 17. Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/28/2026, 4:44:15 AM  
@@ -227,7 +215,7 @@ Ethereum’s Vitalik Buterin said PeerDAS marked the start of Ethereum’s trans
 
 ---
 
-## 19. Newsom signs California ban on public officials issuing memecoins
+## 18. Newsom signs California ban on public officials issuing memecoins
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/28/2026, 2:23:42 AM  
@@ -239,7 +227,7 @@ The law also restricts crypto companies from offering certain memecoins tied to 
 
 ---
 
-## 20. Zano rolls blockchain back a month after Gateway Address exploit
+## 19. Zano rolls blockchain back a month after Gateway Address exploit
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/28/2026, 1:09:22 AM  
