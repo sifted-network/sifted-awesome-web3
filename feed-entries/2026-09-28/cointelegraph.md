@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-28"
 date: "2026-09-28"
 source: "Cointelegraph"
-count: 14
+count: 11
 ---
 
 # Cointelegraph - 2026-09-28
 
-14 items collected.
+11 items collected.
 
 ---
 
@@ -140,41 +140,5 @@ Bitcoin fell below $83,000 to start the week amid US-Iran war developments but r
 Ether withdrawals are scheduled to return Tuesday and USDt on Wednesday as Bitget restores services following last week’s $388 million hack.
 
 📖 [Read original article](https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Hong Kong regulators expand financial reporting oversight to licensed crypto firms
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/28/2026, 9:58:31 AM  
-**Categories:** Latest News  
-
-The SFC and AFRC signed a new MoU extending financial reporting, audit and compliance cooperation to licensed virtual asset service providers.
-
-📖 [Read original article](https://cointelegraph.com/news/hong-kong-sfc-afrc-crypto-financial-reporting-mou?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/28/2026, 9:19:50 AM  
-**Categories:** Latest News  
-
-DYORSWAP said it paid more than 200 ETH in compensation, while Upbit operator Dunamu’s GIWA warned that its mainnet had not launched.
-
-📖 [Read original article](https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Bitcoin drops under $83K as liquidity hunting keeps bulls from targeting yearly open
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/28/2026, 9:03:20 AM  
-**Categories:** Markets  
-
-Bitcoin joined US stock futures in dropping on Monday after US president Donald Trump did not commit to permanently halting strikes on Iran.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-drops-under-83k-as-liquidity-hunting-keeps-bulls-from-targeting-yearly-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
