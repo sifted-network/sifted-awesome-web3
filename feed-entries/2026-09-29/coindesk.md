@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-09-29"
 date: "2026-09-29"
 source: "CoinDesk"
-count: 12
+count: 13
 ---
 
 # CoinDesk - 2026-09-29
 
-12 items collected.
+13 items collected.
 
 ---
 
-## 1. Ethereum users get another way to pay privately as zk.money returns after three years
+## 1. Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal
+
+**Author:** Krisztian Sandor  
+**Published:** 9/29/2026, 6:21:07 PM  
+**Categories:** Finance, Tokenization, Options, News  
+
+The agreement opens the door to tokenized derivatives as some of Wall Street's biggest institutions, including Nasdaq, NYSE and DTCC, move traditional markets onchain.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal)
+
+---
+
+## 2. Ethereum users get another way to pay privately as zk.money returns after three years
 
 **Author:** Shaurya Malwa  
 **Published:** 9/29/2026, 4:00:00 PM  
@@ -23,7 +35,7 @@ The relaunched wallet hides payments made on the Aztec Network, while deposits f
 
 ---
 
-## 2. Democrats killed the Clarity Act
+## 3. Democrats killed the Clarity Act
 
 **Author:** Tim Scott  
 **Published:** 9/29/2026, 2:08:18 PM  
@@ -35,7 +47,7 @@ Democrats should remember the people they represent and do what's best for them,
 
 ---
 
-## 3. Bitcoin beats gold, surge to $100,000 in play
+## 4. Bitcoin surging to $100,000 may be in play, after outperforming gold
 
 **Author:** Omkar Godbole  
 **Published:** 9/29/2026, 11:34:55 AM  
@@ -47,7 +59,7 @@ Your day-ahead look for Sept. 29, 2026
 
 ---
 
-## 4. Zcash developers begin moving Tachyon code into faster private-payment software
+## 5. Zcash developers begin moving Tachyon code into faster private-payment software
 
 **Author:** Shaurya Malwa  
 **Published:** 9/29/2026, 11:15:30 AM  
@@ -59,7 +71,7 @@ Developers are starting to fold Project Tachyon into Zakura Common as they work 
 
 ---
 
-## 5. Aave leads DeFi higher as crypto shrugs off surging bond market
+## 6. Aave leads DeFi higher as crypto shrugs off surging bond market
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 9/29/2026, 10:28:51 AM  
@@ -71,7 +83,7 @@ Aave jumped 11% on speculation over a token burn, with 72 of 100 CoinDesk 100 co
 
 ---
 
-## 6. Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges
+## 7. Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges
 
 **Author:** Shaurya Malwa,James Van Straten,Stephen Alpher  
 **Published:** 9/29/2026, 10:14:41 AM  
@@ -83,7 +95,7 @@ The Conference Board's Consumer Confidence Index fell to its lowest level in mor
 
 ---
 
-## 7. Blockchain.com targets $500 million IPO this year at up to $6 billion valuation
+## 8. Blockchain.com targets $500 million IPO this year at up to $6 billion valuation
 
 **Author:** Jamie Crawley  
 **Published:** 9/29/2026, 10:13:40 AM  
@@ -95,7 +107,7 @@ The London-based crypto services company confidentially filed for an initial pub
 
 ---
 
-## 8. Bitcoin is on track to shatter a major decade-long streak as September gains surge
+## 9. Bitcoin is on track to shatter a major decade-long streak as September gains surge
 
 **Author:** James Van Straten  
 **Published:** 9/29/2026, 9:45:31 AM  
@@ -107,7 +119,7 @@ Bitcoin is on track for a third straight monthly gain, but higher yields, oil pr
 
 ---
 
-## 9. Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic
+## 10. Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic
 
 **Author:** Omkar Godbole  
 **Published:** 9/29/2026, 9:06:11 AM  
@@ -119,7 +131,7 @@ Why yields are rising matters more for bitcoin than how high they go.
 
 ---
 
-## 10. Near Intents blocks $50 million in Bitget hacker swaps, here's what happened
+## 11. Near Intents blocks $50 million in Bitget hacker swaps, here's what happened
 
 **Author:** Shaurya Malwa  
 **Published:** 9/29/2026, 6:23:47 AM  
@@ -131,7 +143,7 @@ The swap service identified more than $50 million in attempted transfers, althou
 
 ---
 
-## 11. Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.
+## 12. Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.
 
 **Author:** Omkar Godbole  
 **Published:** 9/29/2026, 5:31:44 AM  
@@ -143,7 +155,7 @@ Anthropic's prospectus seen by Reuters shows big spending plans despite heavy lo
 
 ---
 
-## 12. Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again
+## 13. Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again
 
 **Author:** Shaurya Malwa  
 **Published:** 9/29/2026, 4:17:20 AM  
