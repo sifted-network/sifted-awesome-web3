@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-28"
 date: "2026-09-28"
 source: "CoinDesk"
-count: 13
+count: 12
 ---
 
 # CoinDesk - 2026-09-28
 
-13 items collected.
+12 items collected.
 
 ---
 
@@ -152,17 +152,5 @@ Your look at what's coming in the week starting Sept. 28.
 Overall demand for leveraged exposure remains weak, marked by sliding futures open interest. The capital that's still in the market appears skewed toward bearish positions.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows)
-
----
-
-## 13. RedotPay completes financial audit as it presses ahead with U.S. IPO plans
-
-**Author:** Will Canny  
-**Published:** 9/28/2026, 7:50:00 AM  
-**Categories:** Finance, Exclusive, Stablecoins, IPOs, News  
-
-The stablecoin payments company said the audit is part of its preparations to go public, disputing an August report that the listing had been put on hold.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans)
 
 ---
