@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-28"
 date: "2026-09-28"
 source: "CoinDesk"
-count: 16
+count: 13
 ---
 
 # CoinDesk - 2026-09-28
 
-16 items collected.
+13 items collected.
 
 ---
 
@@ -164,41 +164,5 @@ Overall demand for leveraged exposure remains weak, marked by sliding futures op
 The stablecoin payments company said the audit is part of its preparations to go public, disputing an August report that the listing had been put on hold.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans)
-
----
-
-## 14. California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'
-
-**Author:** Omkar Godbole  
-**Published:** 9/28/2026, 6:21:52 AM  
-**Categories:** Markets, Memecoin, News  
-
-The California Governor signed AB 2409 as part of an anti-corruption package, framing it as a response to President Trump's $TRUMP fiasco.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/28/california-s-newsom-signs-memecoin-ban-and-calls-it-the-opposite-of-trump)
-
----
-
-## 15. Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows
-
-**Author:** Shaurya Malwa  
-**Published:** 9/28/2026, 6:21:06 AM  
-**Categories:** Markets, News  
-
-All seven funds attracted money, while Friday’s $87 million intake set a daily record.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows)
-
----
-
-## 16. Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes
-
-**Author:** Omkar Godbole  
-**Published:** 9/28/2026, 3:58:52 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Trump on Sunday didn’t rule out additional strikes on Iran before the midterm elections, even as he said the war could end soon.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes)
 
 ---
