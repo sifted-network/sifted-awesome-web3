@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-09-30"
 date: "2026-09-30"
 source: "Cointelegraph"
-count: 12
+count: 16
 ---
 
 # Cointelegraph - 2026-09-30
 
-12 items collected.
+16 items collected.
 
 ---
 
-## 1. Altcoin exchange deposit count jumps 160% in 2 weeks
+## 1. Bitget ‘gradually back to usual’ as protection fund reaches $309M
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/30/2026, 4:28:30 PM  
+**Categories:** Latest News  
+
+Bitget CEO Gracy Chen said that a protection fund created by the company in 2022 “absorbed the financial impact of the incident“ that resulted in $388 million in user losses.
+
+📖 [Read original article](https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Could THORChain face prosecution over stolen Bitget funds?
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 9/30/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+THORChain will not — or can not — block addresses linked to the $387.5 million Bitget hack. Can the devs be prosecuted for money laundering? It’s complicated, says crypto lawyer Yuriy Brisov.
+
+📖 [Read original article](https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/30/2026, 1:18:35 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Singapore crypto activity grows 55% as broader region contracts
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 9/30/2026, 1:00:00 PM  
+**Categories:** Latest News  
+
+Singapore’s crypto economy grew 55.4% to $284 billion as institutional-platform activity surged 94%, while the Philippines, Thailand and Vietnam stood out for small-value P2P transfers.
+
+📖 [Read original article](https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. FCA opens crypto authorization window ahead of 2027 UK regime
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 9/30/2026, 12:06:04 PM  
+**Categories:** Latest News  
+
+Crypto businesses should apply by Feb. 28, 2027, while existing money laundering registrations will not convert into FCA authorization.
+
+📖 [Read original article](https://cointelegraph.com/news/fca-crypto-authorization-2027-uk-regime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Altcoin exchange deposit count jumps 160% in 2 weeks
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/30/2026, 11:23:56 AM  
@@ -23,7 +83,7 @@ CryptoQuant flagged potential selling pressure as deposit transactions and depos
 
 ---
 
-## 2. A single market worth protecting: Getting the MiCA review right
+## 7. A single market worth protecting: Getting the MiCA review right
 
 **Author:** Cointelegraph by Simon Schneider  
 **Published:** 9/30/2026, 11:00:00 AM  
@@ -35,7 +95,7 @@ As the European Commission’s MiCA review consultation closes, Europe must deci
 
 ---
 
-## 3. Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red
+## 8. Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/30/2026, 10:12:28 AM  
@@ -47,7 +107,7 @@ Ether ETFs shed $3 million Tuesday after seven days of inflows, following an $8 
 
 ---
 
-## 4. Crypto hardware wallets compared for 2026
+## 9. Crypto hardware wallets compared for 2026
 
 **Author:** Cointelegraph  
 **Published:** 9/30/2026, 10:11:12 AM  
@@ -59,7 +119,7 @@ From touchscreen and QR-code devices to NFC cards and Bitcoin-only models, this 
 
 ---
 
-## 5. SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit
+## 10. SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/30/2026, 10:05:39 AM  
@@ -71,7 +131,7 @@ SlowMist identified malicious activity weeks before the Bitget theft, involving 
 
 ---
 
-## 6. European stablecoin issuer AllUnity launches USD stablecoin USDAU
+## 11. European stablecoin issuer AllUnity launches USD stablecoin USDAU
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/30/2026, 7:00:00 AM  
@@ -83,19 +143,7 @@ AllUnity is launching USDAU, its fourth fiat-backed stablecoin, expanding a MiCA
 
 ---
 
-## 7. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/30/2026, 6:00:00 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Kalshi in advanced talks to raise new funding at $40B valuation: Reuters
+## 12. Kalshi in advanced talks to raise new funding at $40B valuation: Reuters
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/30/2026, 5:45:55 AM  
@@ -107,7 +155,7 @@ The prediction market was valued at $22 billion in a $1 billion funding round ju
 
 ---
 
-## 9. Illinois draft crypto tax rules detail DeFi, stablecoin treatment
+## 13. Illinois draft crypto tax rules detail DeFi, stablecoin treatment
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/30/2026, 4:29:28 AM  
@@ -119,7 +167,7 @@ Illinois’ draft rules spell out how its 0.2% digital asset transaction tax wou
 
 ---
 
-## 10. Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut
+## 14. Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/30/2026, 3:40:42 AM  
@@ -131,7 +179,7 @@ In February, ai.com drew enough traffic to crash its website after a $15 million
 
 ---
 
-## 11. Binance Pay lets visitors spend crypto at PayPay merchants in Japan
+## 15. Binance Pay lets visitors spend crypto at PayPay merchants in Japan
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/30/2026, 2:25:00 AM  
@@ -143,7 +191,7 @@ Binance Pay will let overseas users spend more than 100 cryptocurrencies at PayP
 
 ---
 
-## 12. Trump accord calls for tech firms to ‘self police’ their own frontier AI
+## 16. Trump accord calls for tech firms to ‘self police’ their own frontier AI
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/30/2026, 12:28:38 AM  
