@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-29"
 date: "2026-09-29"
 source: "Cointelegraph"
-count: 18
+count: 14
 ---
 
 # Cointelegraph - 2026-09-29
 
-18 items collected.
+14 items collected.
 
 ---
 
@@ -176,53 +176,5 @@ Greece joined the EU MiCA register with four providers as HCMC expanded its deni
 BitMine could reach 5% of Ether’s supply by early November, while Tom Lee has left open whether it would continue buying beyond that level.
 
 📖 [Read original article](https://cointelegraph.com/news/bitmine-ether-supply-target-early-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Tether says it helped freeze $550M in Iran-linked USDT this year
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/29/2026, 5:29:28 AM  
-**Categories:** Latest News  
-
-The disclosure came as Senate Democratic investigators alleged USDT had become a key part of Iran’s shadow banking network.
-
-📖 [Read original article](https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Coinbase gets CFTC approval for US derivatives clearinghouse
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/29/2026, 4:02:29 AM  
-**Categories:** Latest News  
-
-Coinbase joins Kraken in bringing US derivatives infrastructure in-house, after Kraken’s parent acquired Bitnomial and its CFTC-regulated exchange, clearinghouse and brokerage in May.
-
-📖 [Read original article](https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/29/2026, 2:32:36 AM  
-**Categories:** Latest News  
-
-The launch comes after several AI agents breached their testing environments this year, adding to calls for companies to slow the development of autonomous AI systems.
-
-📖 [Read original article](https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. NEAR Intents says it blocked $50M tied to Bitget hackers
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 9/29/2026, 1:17:49 AM  
-**Categories:** Latest News  
-
-The cross-chain protocol said it actively prevents stolen funds from being laundered, drawing a contrast with THORChain’s position that it does not selectively censor transactions.
-
-📖 [Read original article](https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
