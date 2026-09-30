@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-29"
 date: "2026-09-29"
 source: "CoinDesk"
-count: 14
+count: 11
 ---
 
 # CoinDesk - 2026-09-29
 
-14 items collected.
+11 items collected.
 
 ---
 
@@ -140,41 +140,5 @@ Bitcoin is on track for a third straight monthly gain, but higher yields, oil pr
 Why yields are rising matters more for bitcoin than how high they go.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic)
-
----
-
-## 12. Near Intents blocks $50 million in Bitget hacker swaps, here's what happened
-
-**Author:** Shaurya Malwa  
-**Published:** 9/29/2026, 6:23:47 AM  
-**Categories:** Tech, Hack, News  
-
-The swap service identified more than $50 million in attempted transfers, although most rejected funds subsequently moved through other providers.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test)
-
----
-
-## 13. Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.
-
-**Author:** Omkar Godbole  
-**Published:** 9/29/2026, 5:31:44 AM  
-**Categories:** Markets, Markets, News  
-
-Anthropic's prospectus seen by Reuters shows big spending plans despite heavy losses. Still, pre-IPO perps barely moved on cryptocurrency exchanges.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/29/anthropic-plans-to-spend-usd518-billion-on-ai-infrastructure-pre-ipo-perps-barely-blink)
-
----
-
-## 14. Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again
-
-**Author:** Shaurya Malwa  
-**Published:** 9/29/2026, 4:17:20 AM  
-**Categories:** Markets, News  
-
-Global stocks fell to a one-week low as Brent rose for a second day and traders added to bets on more Federal Reserve rate hikes ahead of Wednesday's PCE inflation data.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again)
 
 ---
