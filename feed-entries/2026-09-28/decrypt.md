@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-28"
 date: "2026-09-28"
 source: "Decrypt"
-count: 14
+count: 10
 ---
 
 # Decrypt - 2026-09-28
 
-14 items collected.
+10 items collected.
 
 ---
 
@@ -128,53 +128,5 @@ Hegota will be Ethereum's last 'normal' fork, he argues, with everything after b
 Bitcoin extends last week's pullback as Trump rejects Iran's ceasefire plan, sending oil above $100 and yields higher ahead of Wednesday's PCE report.
 
 📖 [Read original article](https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields)
-
----
-
-## 11. Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply
-
-**Author:** Decrypt Agent  
-**Published:** 9/28/2026, 1:27:40 PM  
-**Categories:** , Business  
-
-Bitmine has staked 84% of its tokens, a position it projects will generate some $358 million a year in staking rewards.
-
-📖 [Read original article](https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply)
-
----
-
-## 12. Strategy Sets New BTC Holdings Record After $143M Bitcoin Purchase
-
-**Author:** Decrypt Agent  
-**Published:** 9/28/2026, 12:45:41 PM  
-**Categories:** , Business  
-
-Michael Saylor's Bitcoin treasury firm bought 1,665 BTC last week, taking its holdings above its previous record to 847,666 BTC.
-
-📖 [Read original article](https://decrypt.co/379415/strategy-sets-new-btc-holdings-record-after-143m-bitcoin-purchase)
-
----
-
-## 13. Morning Minute: SEC Clears Token Buybacks for Crypto Networks
-
-**Author:** Tyler Warner  
-**Published:** 9/28/2026, 12:03:21 PM  
-**Categories:** Opinion  
-
-The Gary Gensler era is long gone and now the SEC is providing clarity on what crypto protocols can and can’t do with their tokens.
-
-📖 [Read original article](https://decrypt.co/379412/morning-minute-sec-clears-token-buybacks-for-crypto-networks)
-
----
-
-## 14. California Bans Public Officials From Issuing Meme Coins Under New Newsom Law
-
-**Author:** Decrypt Agent  
-**Published:** 9/28/2026, 10:16:25 AM  
-**Categories:** , , Law and Order  
-
-Governor Gavin Newsom’s legislation bars public officials from issuing meme coins and exchanges from listing tokens tied to politicians.
-
-📖 [Read original article](https://decrypt.co/379404/california-bans-public-officials-from-issuing-meme-coins-under-new-newsom-law)
 
 ---
