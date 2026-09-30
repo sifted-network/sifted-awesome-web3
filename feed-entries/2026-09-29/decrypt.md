@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-09-29"
 date: "2026-09-29"
 source: "Decrypt"
-count: 12
+count: 13
 ---
 
 # Decrypt - 2026-09-29
 
-12 items collected.
+13 items collected.
 
 ---
 
-## 1. Cboe's New S&amp;P Deal Opens the Door to Tokenized Options
+## 1. Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money
+
+**Author:** Decrypt Agent  
+**Published:** 9/29/2026, 9:46:03 PM  
+**Categories:** , Technology  
+
+Aztec Labs relaunched its self-custodial zk.money wallet on Aztec Network, letting users make private stablecoin payments using readable tags.
+
+📖 [Read original article](https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money)
+
+---
+
+## 2. Cboe's New S&amp;P Deal Opens the Door to Tokenized Options
 
 **Author:** Decrypt Agent  
 **Published:** 9/29/2026, 9:16:04 PM  
@@ -23,7 +35,7 @@ The renewed agreement preserves Cboe's exclusive rights to S&P 500 index options
 
 ---
 
-## 2. Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August
+## 3. Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/29/2026, 8:36:04 PM  
@@ -35,7 +47,7 @@ Bitwise's NRR began trading on NYSE Arca Tuesday, giving brokerage accounts NEAR
 
 ---
 
-## 3. Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion
+## 4. Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/29/2026, 8:06:03 PM  
@@ -47,7 +59,7 @@ The company's IPO prospectus shows revenue up twelvefold, a $518 billion spendin
 
 ---
 
-## 4. Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games
+## 5. Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/29/2026, 7:31:04 PM  
@@ -59,7 +71,7 @@ Linear Fox founder Nathan Fargo released a public jailbreak for the PS5, dubbed 
 
 ---
 
-## 5. OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced
+## 6. OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/29/2026, 6:55:22 PM  
@@ -71,7 +83,7 @@ OpenAI's DevDay launched dots, always-on AI agents with their own computers, plu
 
 ---
 
-## 6. Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days
+## 7. Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/29/2026, 6:18:33 PM  
@@ -83,7 +95,7 @@ Bitcoin ETFs extended their inflow streak to eight straight days on Monday, boun
 
 ---
 
-## 7. BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'
+## 8. BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'
 
 **Author:** Stephen Graves  
 **Published:** 9/29/2026, 5:31:04 PM  
@@ -95,7 +107,7 @@ Matt Brittin, who joined the BBC from Google, argued that "not all creativity is
 
 ---
 
-## 8. Is the Red September Curse Over? Bitcoin Set for Best September on Record
+## 9. Is the Red September Curse Over? Bitcoin Set for Best September on Record
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/29/2026, 4:50:46 PM  
@@ -107,7 +119,7 @@ Bitcoin is up 7.33% in September, edging past 2024 as the best September on reco
 
 ---
 
-## 9. Bitcoin Hovers at $84K as Treasury Yields Hold Near Multi-Year Highs
+## 10. Bitcoin Hovers at $84K as Treasury Yields Hold Near Multi-Year Highs
 
 **Author:** Decrypt Agent  
 **Published:** 9/29/2026, 2:07:44 PM  
@@ -119,7 +131,7 @@ Analysts point to crude prices capping non-yielding assets, while spot ETFs have
 
 ---
 
-## 10. Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible
+## 11. Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible
 
 **Author:** Tyler Warner  
 **Published:** 9/29/2026, 12:05:18 PM  
@@ -131,7 +143,7 @@ Plus, crypto majors rebound as oil and yields fall and Saylor’s Strategy retur
 
 ---
 
-## 11. Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial
+## 12. Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial
 
 **Author:** Decrypt Agent  
 **Published:** 9/29/2026, 10:38:29 AM  
@@ -143,7 +155,7 @@ The judge has told Pleterski he will raise objections on his behalf, to keep ina
 
 ---
 
-## 12. Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval
+## 13. Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval
 
 **Author:** Decrypt Agent  
 **Published:** 9/29/2026, 9:38:57 AM  
