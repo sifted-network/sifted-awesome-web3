@@ -143,13 +143,13 @@ Independent directors cite management’s financial risk and restructuring role,
 
 ---
 
-## 12. Live updates: Bitcoin returns to $84,000, giving up early gains
+## 12. Live updates: Bitcoin closing out best quarter since 2024, ether its best since 2021
 
 **Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Stephen Alpher,Helene Braun  
 **Published:** 9/30/2026, 10:18:34 AM  
 **Categories:** Markets, Live News, live_news  
 
-Core PCE prices rose just 0.2% in August versus the 0.3% forecast, and were higher by 3% year-over-year versus the 3.3% estimate.
+Crypto prices rose early Wednesday after better-than-forecast inflation data, but gave up those gains as interest rates continued to surge.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings)
 
