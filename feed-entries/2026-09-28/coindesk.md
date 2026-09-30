@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-28"
 date: "2026-09-28"
 source: "CoinDesk"
-count: 12
+count: 11
 ---
 
 # CoinDesk - 2026-09-28
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ The U.S. 10-year Treasury yield is sharply higher again, rising to a new cycle h
 Your look at what's coming in the week starting Sept. 28.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/28/bitcoin-rally-takes-a-breather-ahead-of-key-u-s-employment-data-crypto-week-ahead)
-
----
-
-## 12. Caution builds in the bitcoin market even as prices stay well above summer lows
-
-**Author:** James Van Straten  
-**Published:** 9/28/2026, 9:29:34 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Overall demand for leveraged exposure remains weak, marked by sliding futures open interest. The capital that's still in the market appears skewed toward bearish positions.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows)
 
 ---
