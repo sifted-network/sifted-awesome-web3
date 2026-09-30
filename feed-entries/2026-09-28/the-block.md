@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-28"
 date: "2026-09-28"
 source: "The Block"
-count: 9
+count: 5
 ---
 
 # The Block - 2026-09-28
 
-9 items collected.
+5 items collected.
 
 ---
 
@@ -68,53 +68,5 @@ SATA supplied 85% of Strive’s latest capital as its bitcoin holdings climbed t
 Bitget's attacker ran two small test transfers half an hour before draining $388 million, CEO Gracy Chen says.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-28-bitget-attacker-tested-risk-controls-small-transfers-388-million-theft-ceo-says-417045)
-
----
-
-## 6. Tom Lee’s Bitmine tops 6 million ETH after buying another 17,362 ether
-
-**Author:** James Hunt  
-**Published:** 9/28/2026, 1:39:06 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Ethereum, News  
-
-Bitmine's total crypto, cash and other investments currently stand at $17.2B, and the company owns over 4.9% of ether's circulating supply.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-28-tom-lees-bitmine-tops-6-million-eth-after-buying-another-17362-ether-416989)
-
----
-
-## 7. ‘Even more orange’: Strategy buys 1,665 bitcoin for $143 million as total holdings reach 847,666 BTC
-
-**Author:** James Hunt  
-**Published:** 9/28/2026, 12:11:11 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, Token Projects, Bitcoin, Strategy, News  
-
-Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $70 billion.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-28-even-more-orange-michael-saylor-strategy-bitcoin-416976)
-
----
-
-## 8. California Gov. Gavin Newsom bans public officials from launching memecoins, takes aim at Trump
-
-**Author:** Danny Park  
-**Published:** 9/28/2026, 9:32:57 AM  
-**Categories:** Policy, Regulation, News  
-
-Newsom signed several other bills, including one intended to set clearer rules for restitution when investors lose money in crypto scams.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-28-california-gov-gavin-newsom-bans-public-officials-from-launching-memecoins-takes-aim-at-trump-416970)
-
----
-
-## 9. Bitget starts phased withdrawal resumption following $388 million exploit
-
-**Author:** Danny Park and James Hunt  
-**Published:** 9/28/2026, 8:31:18 AM  
-**Categories:** Companies, News  
-
-The exchange said it has patched the vulnerability, and losses from the incident will be fully covered by a user protection fund.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-28-bitget-starts-phased-withdrawal-resumption-416965)
 
 ---
