@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-29"
 date: "2026-09-29"
 source: "CoinDesk"
-count: 11
+count: 5
 ---
 
 # CoinDesk - 2026-09-29
 
-11 items collected.
+5 items collected.
 
 ---
 
@@ -68,77 +68,5 @@ Democrats should remember the people they represent and do what's best for them,
 Your day-ahead look for Sept. 29, 2026
 
 📖 [Read original article](https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play)
-
----
-
-## 6. Zcash developers begin moving Tachyon code into faster private-payment software
-
-**Author:** Shaurya Malwa  
-**Published:** 9/29/2026, 11:15:30 AM  
-**Categories:** Tech, News  
-
-Developers are starting to fold Project Tachyon into Zakura Common as they work toward a long-term target of more than 50,000 private payments a second.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan)
-
----
-
-## 7. Aave leads DeFi higher as crypto shrugs off surging bond market
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 9/29/2026, 10:28:51 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Aave jumped 11% on speculation over a token burn, with 72 of 100 CoinDesk 100 constituents higher even as the 10-year Treasury yield sat at 5.234%.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields)
-
----
-
-## 8. Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges
-
-**Author:** Shaurya Malwa,James Van Straten,Stephen Alpher  
-**Published:** 9/29/2026, 10:14:41 AM  
-**Categories:** Markets, Live News, live_news  
-
-The Conference Board's Consumer Confidence Index fell to its lowest level in more than a decade in September, with expectations of continued weakening in business and labor market conditions.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady)
-
----
-
-## 9. Blockchain.com targets $500 million IPO this year at up to $6 billion valuation
-
-**Author:** Jamie Crawley  
-**Published:** 9/29/2026, 10:13:40 AM  
-**Categories:** Finance, IPOs, Blockchain.com, News  
-
-The London-based crypto services company confidentially filed for an initial public offering with the Securities and Exchange Commission earlier this year.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation)
-
----
-
-## 10. Bitcoin is on track to shatter a major decade-long streak as September gains surge
-
-**Author:** James Van Straten  
-**Published:** 9/29/2026, 9:45:31 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin is on track for a third straight monthly gain, but higher yields, oil prices and two major November events could test its Q4 momentum.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge)
-
----
-
-## 11. Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic
-
-**Author:** Omkar Godbole  
-**Published:** 9/29/2026, 9:06:11 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Why yields are rising matters more for bitcoin than how high they go.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic)
 
 ---
