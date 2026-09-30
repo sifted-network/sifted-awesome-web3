@@ -2,16 +2,64 @@
 title: "The Block - 2026-09-30"
 date: "2026-09-30"
 source: "The Block"
-count: 7
+count: 11
 ---
 
 # The Block - 2026-09-30
 
-7 items collected.
+11 items collected.
 
 ---
 
-## 1. Bitcoin steadies as soft PCE cools October Fed rate hike bets
+## 1. CFTC secures over $30 million judgment against defendants in Fundsz fraud case
+
+**Author:** Sarah Wynn  
+**Published:** 9/30/2026, 8:37:08 PM  
+**Categories:** Policy, Regulation, CFTC, News  
+
+The CFTC secured a win in court after the agency said two defendants participated in a crypto scheme that they then tried to walk back.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365)
+
+---
+
+## 2. Base launches Cobalt upgrade with conditional transactions and new B20 asset functions
+
+**Author:** James Hunt  
+**Published:** 9/30/2026, 7:00:00 PM  
+**Categories:** Companies, Crypto Ecosystems, Exchanges, Layer 2s and Scaling, Markets, Public Equities, Base, Coinbase, News  
+
+Base has launched Cobalt, adding conditional transactions and new functions for assets issued under its B20 standard.
+
+📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-09-30-base-launches-cobalt-upgrade-with-conditional-transactions-and-new-b20-asset-functions-417308)
+
+---
+
+## 3. DogeOS launches testnet to bring EVM smart contracts to Dogecoin
+
+**Author:** Jason Shubnell  
+**Published:** 9/30/2026, 6:23:57 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Governance, Layer 2s and Scaling, Markets, Token Projects, Dogecoin, Rollups, Smart contracts, Tokens, News  
+
+DogeOS launched a public testnet for its zero-knowledge rollup bringing EVM smart contracts to Dogecoin, with DOGE used for gas fees.
+
+📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307)
+
+---
+
+## 4. White House weighs new CFTC event contract rules in growing prediction market power struggle
+
+**Author:** Sarah Wynn  
+**Published:** 9/30/2026, 5:54:45 PM  
+**Categories:** Companies, Markets, Policy, Regulation, CFTC, News  
+
+The White House is weighing two proposed rules from the CFTC tied to prediction markets as the agency seeks to assert its jurisdiction.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345)
+
+---
+
+## 5. Bitcoin steadies as soft PCE cools October Fed rate hike bets
 
 **Author:** Jason Shubnell  
 **Published:** 9/30/2026, 4:10:36 PM  
@@ -23,7 +71,7 @@ Core PCE rose just 0.2% in August, easing pressure for an October Fed hike. Bitc
 
 ---
 
-## 2. Hyperliquid Co-founder Jeff Yan says 24-hour clock is not onchain finance’s true differentiator
+## 6. Hyperliquid Co-founder Jeff Yan says 24-hour clock is not onchain finance’s true differentiator
 
 **Author:** Danny Park  
 **Published:** 9/30/2026, 1:33:30 PM  
@@ -35,7 +83,7 @@ Hyperliquid (HYPE) Co-founder Jeff Yan said at Korea Blockchain Week that around
 
 ---
 
-## 3. FCA starts accepting crypto authorization applications ahead of 2027 regime
+## 7. FCA starts accepting crypto authorization applications ahead of 2027 regime
 
 **Author:** Brian Danga  
 **Published:** 9/30/2026, 1:21:27 PM  
@@ -47,7 +95,7 @@ FCA opens crypto authorization window, setting a Feb. 28, 2027 deadline as UK fi
 
 ---
 
-## 4. Standard Chartered sees over 600% upside for ENA, expects USDe to hit $40 billion by 2028
+## 8. Standard Chartered sees over 600% upside for ENA, expects USDe to hit $40 billion by 2028
 
 **Author:** Brian Danga  
 **Published:** 9/30/2026, 12:00:01 PM  
@@ -59,7 +107,7 @@ Standard Chartered forecasts ENA will reach $2 by the end of 2028 as USDe scales
 
 ---
 
-## 5. Crypto advocacy group Stand With Crypto rolls out its first round of Senate endorsements after failed Clarity vote
+## 9. Crypto advocacy group Stand With Crypto rolls out its first round of Senate endorsements after failed Clarity vote
 
 **Author:** Sarah Wynn  
 **Published:** 9/30/2026, 12:00:00 PM  
@@ -71,7 +119,7 @@ Weeks after the Clarity Act stalled in the Senate, crypto advocacy group Stand W
 
 ---
 
-## 6. Kalshi to end liquidity incentive program amid wash trading allegations
+## 10. Kalshi to end liquidity incentive program amid wash trading allegations
 
 **Author:** Timmy Shen  
 **Published:** 9/30/2026, 7:21:08 AM  
@@ -83,7 +131,7 @@ Its monthly volume reached $52.98 billion in September as of Sept. 29, marking a
 
 ---
 
-## 7. Robinhood to launch perps, weekend stock trading for US users
+## 11. Robinhood to launch perps, weekend stock trading for US users
 
 **Author:** Timmy Shen  
 **Published:** 9/30/2026, 2:58:24 AM  
