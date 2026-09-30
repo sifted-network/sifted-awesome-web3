@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-29"
 date: "2026-09-29"
 source: "Cointelegraph"
-count: 14
+count: 9
 ---
 
 # Cointelegraph - 2026-09-29
 
-14 items collected.
+9 items collected.
 
 ---
 
@@ -116,65 +116,5 @@ CoinShares says IBIT offers clues to institutional buying, but basis trades mean
 The ECB is seeking firms to explore AI agents and machine-to-machine interactions as it prepares a separate digital euro pilot for 2027.
 
 📖 [Read original article](https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/29/2026, 10:46:05 AM  
-**Categories:** Latest News  
-
-Glamsterdam will bring proposer-builder separation, block-level access lists and new gas pricing, while its mainnet date remains unset.
-
-📖 [Read original article](https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. US crypto ETF inflows cool after $3.3B week but streaks hold
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/29/2026, 10:15:19 AM  
-**Categories:** Markets  
-
-US spot crypto ETF inflows fell about 80% from Friday as Bitcoin, Ether, Solana and XRP funds attracted $64.8 million combined on Monday.
-
-📖 [Read original article](https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/29/2026, 10:04:42 AM  
-**Categories:** Markets  
-
-Bitcoin price action consolidated after early-week losses while protecting a “trend-defining” support zone.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/29/2026, 9:50:22 AM  
-**Categories:** Latest News  
-
-Greece joined the EU MiCA register with four providers as HCMC expanded its denial of remarks attributed to officials in a report on Binance.
-
-📖 [Read original article](https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. BitMine could hit its 5% Ether supply target within weeks — then what?
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/29/2026, 8:51:25 AM  
-**Categories:** Latest News  
-
-BitMine could reach 5% of Ether’s supply by early November, while Tom Lee has left open whether it would continue buying beyond that level.
-
-📖 [Read original article](https://cointelegraph.com/news/bitmine-ether-supply-target-early-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
