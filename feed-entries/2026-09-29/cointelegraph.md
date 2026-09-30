@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-29"
 date: "2026-09-29"
 source: "Cointelegraph"
-count: 19
+count: 18
 ---
 
 # Cointelegraph - 2026-09-29
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ Kakaopay Securities is working with Dinari and Ondo Finance to explore tokenizin
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 9/29/2026, 7:42:02 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Bitwise launches first US spot NEAR ETF after token’s recent surge
+## 4. Bitwise launches first US spot NEAR ETF after token’s recent surge
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/29/2026, 5:14:36 PM  
@@ -71,7 +59,7 @@ Bitwise’s NEAR ETF begins trading on NYSE Arca as the token rallies more than 
 
 ---
 
-## 6. Bitcoin gives back gains as long-term holder supply keeps $85K out of reach
+## 5. Bitcoin gives back gains as long-term holder supply keeps $85K out of reach
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/29/2026, 4:26:11 PM  
@@ -83,7 +71,7 @@ Bitcoin failed to make another run at $85,000 as sellers held the line above cur
 
 ---
 
-## 7. Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach
+## 6. Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/29/2026, 4:18:06 PM  
@@ -95,7 +83,7 @@ Gracy Chen said she saw the 2025 Bybit hack as a “good reference point” for 
 
 ---
 
-## 8. Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’
+## 7. Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/29/2026, 1:30:00 PM  
@@ -107,7 +95,7 @@ An October pullback could offer a buying opportunity before Bitcoin’s next cyc
 
 ---
 
-## 9. Bitcoin ETF inflows leave institutional demand unclear: CoinShares
+## 8. Bitcoin ETF inflows leave institutional demand unclear: CoinShares
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/29/2026, 12:40:12 PM  
@@ -119,7 +107,7 @@ CoinShares says IBIT offers clues to institutional buying, but basis trades mean
 
 ---
 
-## 10. ECB puts AI agent payments on the digital euro drawing board
+## 9. ECB puts AI agent payments on the digital euro drawing board
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/29/2026, 12:00:45 PM  
@@ -131,7 +119,7 @@ The ECB is seeking firms to explore AI agents and machine-to-machine interaction
 
 ---
 
-## 11. Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6
+## 10. Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/29/2026, 10:46:05 AM  
@@ -143,7 +131,7 @@ Glamsterdam will bring proposer-builder separation, block-level access lists and
 
 ---
 
-## 12. US crypto ETF inflows cool after $3.3B week but streaks hold
+## 11. US crypto ETF inflows cool after $3.3B week but streaks hold
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/29/2026, 10:15:19 AM  
@@ -155,7 +143,7 @@ US spot crypto ETF inflows fell about 80% from Friday as Bitcoin, Ether, Solana 
 
 ---
 
-## 13. Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high
+## 12. Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/29/2026, 10:04:42 AM  
@@ -167,7 +155,7 @@ Bitcoin price action consolidated after early-week losses while protecting a “
 
 ---
 
-## 14. Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim
+## 13. Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/29/2026, 9:50:22 AM  
@@ -179,7 +167,7 @@ Greece joined the EU MiCA register with four providers as HCMC expanded its deni
 
 ---
 
-## 15. BitMine could hit its 5% Ether supply target within weeks — then what?
+## 14. BitMine could hit its 5% Ether supply target within weeks — then what?
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/29/2026, 8:51:25 AM  
@@ -191,7 +179,7 @@ BitMine could reach 5% of Ether’s supply by early November, while Tom Lee has 
 
 ---
 
-## 16. Tether says it helped freeze $550M in Iran-linked USDT this year
+## 15. Tether says it helped freeze $550M in Iran-linked USDT this year
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/29/2026, 5:29:28 AM  
@@ -203,7 +191,7 @@ The disclosure came as Senate Democratic investigators alleged USDT had become a
 
 ---
 
-## 17. Coinbase gets CFTC approval for US derivatives clearinghouse
+## 16. Coinbase gets CFTC approval for US derivatives clearinghouse
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/29/2026, 4:02:29 AM  
@@ -215,7 +203,7 @@ Coinbase joins Kraken in bringing US derivatives infrastructure in-house, after 
 
 ---
 
-## 18. Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents
+## 17. Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/29/2026, 2:32:36 AM  
@@ -227,7 +215,7 @@ The launch comes after several AI agents breached their testing environments thi
 
 ---
 
-## 19. NEAR Intents says it blocked $50M tied to Bitget hackers
+## 18. NEAR Intents says it blocked $50M tied to Bitget hackers
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/29/2026, 1:17:49 AM  
