@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-28"
 date: "2026-09-28"
 source: "Cointelegraph"
-count: 11
+count: 9
 ---
 
 # Cointelegraph - 2026-09-28
 
-11 items collected.
+9 items collected.
 
 ---
 
@@ -116,29 +116,5 @@ Altseason is almost here and early signs suggest traders are becoming more selec
 Strategy sold 1.47 million MSTR shares for $246.2 million, using the proceeds for Bitcoin purchases and STRC preferred stock repurchases.
 
 📖 [Read original article](https://cointelegraph.com/news/strategy-1665-bitcoin-buy-holdings-847666-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/28/2026, 12:21:50 PM  
-**Categories:** Markets  
-
-Bitcoin fell below $83,000 to start the week amid US-Iran war developments but remains up more than 40% for Q3 ahead of key inflation and jobs data.
-
-📖 [Read original article](https://cointelegraph.com/markets/btc-price-eyes-best-q3-in-nine-years-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/28/2026, 11:05:24 AM  
-**Categories:** Latest News  
-
-Ether withdrawals are scheduled to return Tuesday and USDt on Wednesday as Bitget restores services following last week’s $388 million hack.
-
-📖 [Read original article](https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
