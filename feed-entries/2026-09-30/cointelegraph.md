@@ -2,16 +2,88 @@
 title: "Cointelegraph - 2026-09-30"
 date: "2026-09-30"
 source: "Cointelegraph"
-count: 16
+count: 21
 ---
 
 # Cointelegraph - 2026-09-30
 
-16 items collected.
+21 items collected.
 
 ---
 
-## 1. Bitget ‘gradually back to usual’ as protection fund reaches $309M
+## 1. Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/30/2026, 8:57:32 PM  
+**Categories:** Markets  
+
+The bank also expects Ethena’s ENA token to rise roughly sevenfold to $2 by the end of 2028 as USDe scales and token buybacks increase.
+
+📖 [Read original article](https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 9/30/2026, 7:37:13 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Crypto advocacy group announces picks for US Congress as midterms loom
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 9/30/2026, 7:11:23 PM  
+**Categories:** Latest News  
+
+The organization’s endorsements in the House and Senate came as many polls showed Democrats favored to regain control of both chambers in 2027.
+
+📖 [Read original article](https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Base completes Cobalt upgrade, adds new tools for tokenized assets
+
+**Author:** Cointelegraph by Ezra Reguerra  
+**Published:** 9/30/2026, 7:00:00 PM  
+**Categories:** Latest News  
+
+Base’s Cobalt lets traders set transaction conditions while giving issuers tools for compliance checks, stock splits and forced token transfers.
+
+📖 [Read original article](https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Bloomberg brings onchain stablecoin data to its Terminal
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/30/2026, 6:49:06 PM  
+**Categories:** Latest News  
+
+Bloomberg’s Allium-powered dashboard gives Terminal users hourly data on stablecoin supply, issuance, transfers and activity across blockchain networks.
+
+📖 [Read original article](https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 9/30/2026, 5:17:54 PM  
+**Categories:** Latest News  
+
+Petrobras developed two Cardano-based applications to track sustainability claims tied to aviation fuel and renewable diesel as part of an ongoing research collaboration.
+
+📖 [Read original article](https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Bitget ‘gradually back to usual’ as protection fund reaches $309M
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/30/2026, 4:28:30 PM  
@@ -23,7 +95,7 @@ Bitget CEO Gracy Chen said that a protection fund created by the company in 2022
 
 ---
 
-## 2. Could THORChain face prosecution over stolen Bitget funds?
+## 8. Could THORChain face prosecution over stolen Bitget funds?
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 9/30/2026, 1:30:00 PM  
@@ -35,19 +107,7 @@ THORChain will not — or can not — block addresses linked to the $387.5 milli
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/30/2026, 1:18:35 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Singapore crypto activity grows 55% as broader region contracts
+## 9. Singapore crypto activity grows 55% as broader region contracts
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/30/2026, 1:00:00 PM  
@@ -59,7 +119,7 @@ Singapore’s crypto economy grew 55.4% to $284 billion as institutional-platfor
 
 ---
 
-## 5. FCA opens crypto authorization window ahead of 2027 UK regime
+## 10. FCA opens crypto authorization window ahead of 2027 UK regime
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/30/2026, 12:06:04 PM  
@@ -71,7 +131,7 @@ Crypto businesses should apply by Feb. 28, 2027, while existing money laundering
 
 ---
 
-## 6. Altcoin exchange deposit count jumps 160% in 2 weeks
+## 11. Altcoin exchange deposit count jumps 160% in 2 weeks
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/30/2026, 11:23:56 AM  
@@ -83,7 +143,7 @@ CryptoQuant flagged potential selling pressure as deposit transactions and depos
 
 ---
 
-## 7. A single market worth protecting: Getting the MiCA review right
+## 12. A single market worth protecting: Getting the MiCA review right
 
 **Author:** Cointelegraph by Simon Schneider  
 **Published:** 9/30/2026, 11:00:00 AM  
@@ -95,7 +155,7 @@ As the European Commission’s MiCA review consultation closes, Europe must deci
 
 ---
 
-## 8. Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red
+## 13. Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/30/2026, 10:12:28 AM  
@@ -107,7 +167,7 @@ Ether ETFs shed $3 million Tuesday after seven days of inflows, following an $8 
 
 ---
 
-## 9. Crypto hardware wallets compared for 2026
+## 14. Crypto hardware wallets compared for 2026
 
 **Author:** Cointelegraph  
 **Published:** 9/30/2026, 10:11:12 AM  
@@ -119,7 +179,7 @@ From touchscreen and QR-code devices to NFC cards and Bitcoin-only models, this 
 
 ---
 
-## 10. SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit
+## 15. SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/30/2026, 10:05:39 AM  
@@ -131,7 +191,7 @@ SlowMist identified malicious activity weeks before the Bitget theft, involving 
 
 ---
 
-## 11. European stablecoin issuer AllUnity launches USD stablecoin USDAU
+## 16. European stablecoin issuer AllUnity launches USD stablecoin USDAU
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/30/2026, 7:00:00 AM  
@@ -143,7 +203,7 @@ AllUnity is launching USDAU, its fourth fiat-backed stablecoin, expanding a MiCA
 
 ---
 
-## 12. Kalshi in advanced talks to raise new funding at $40B valuation: Reuters
+## 17. Kalshi in advanced talks to raise new funding at $40B valuation: Reuters
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/30/2026, 5:45:55 AM  
@@ -155,7 +215,7 @@ The prediction market was valued at $22 billion in a $1 billion funding round ju
 
 ---
 
-## 13. Illinois draft crypto tax rules detail DeFi, stablecoin treatment
+## 18. Illinois draft crypto tax rules detail DeFi, stablecoin treatment
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/30/2026, 4:29:28 AM  
@@ -167,7 +227,7 @@ Illinois’ draft rules spell out how its 0.2% digital asset transaction tax wou
 
 ---
 
-## 14. Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut
+## 19. Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/30/2026, 3:40:42 AM  
@@ -179,7 +239,7 @@ In February, ai.com drew enough traffic to crash its website after a $15 million
 
 ---
 
-## 15. Binance Pay lets visitors spend crypto at PayPay merchants in Japan
+## 20. Binance Pay lets visitors spend crypto at PayPay merchants in Japan
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/30/2026, 2:25:00 AM  
@@ -191,7 +251,7 @@ Binance Pay will let overseas users spend more than 100 cryptocurrencies at PayP
 
 ---
 
-## 16. Trump accord calls for tech firms to ‘self police’ their own frontier AI
+## 21. Trump accord calls for tech firms to ‘self police’ their own frontier AI
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/30/2026, 12:28:38 AM  
