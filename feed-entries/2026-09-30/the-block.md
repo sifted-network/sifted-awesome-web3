@@ -2,16 +2,28 @@
 title: "The Block - 2026-09-30"
 date: "2026-09-30"
 source: "The Block"
-count: 11
+count: 12
 ---
 
 # The Block - 2026-09-30
 
-11 items collected.
+12 items collected.
 
 ---
 
-## 1. CFTC secures over $30 million judgment against defendants in Fundsz fraud case
+## 1. Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says
+
+**Author:** Kyle Baird  
+**Published:** 9/30/2026, 9:53:05 PM  
+**Categories:** Crypto Ecosystems, DeFi, Markets, Policy, Regulation, CFTC, SEC, News  
+
+Bitwise’s Matt Hougan says Clarity’s defeat left crypto with fewer restrictions and faster SEC action.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362)
+
+---
+
+## 2. CFTC secures over $30 million judgment against defendants in Fundsz fraud case
 
 **Author:** Sarah Wynn  
 **Published:** 9/30/2026, 8:37:08 PM  
@@ -23,7 +35,7 @@ The CFTC secured a win in court after the agency said two defendants participate
 
 ---
 
-## 2. Base launches Cobalt upgrade with conditional transactions and new B20 asset functions
+## 3. Base launches Cobalt upgrade with conditional transactions and new B20 asset functions
 
 **Author:** James Hunt  
 **Published:** 9/30/2026, 7:00:00 PM  
@@ -35,7 +47,7 @@ Base has launched Cobalt, adding conditional transactions and new functions for 
 
 ---
 
-## 3. DogeOS launches testnet to bring EVM smart contracts to Dogecoin
+## 4. DogeOS launches testnet to bring EVM smart contracts to Dogecoin
 
 **Author:** Jason Shubnell  
 **Published:** 9/30/2026, 6:23:57 PM  
@@ -47,7 +59,7 @@ DogeOS launched a public testnet for its zero-knowledge rollup bringing EVM smar
 
 ---
 
-## 4. White House weighs new CFTC event contract rules in growing prediction market power struggle
+## 5. White House weighs new CFTC event contract rules in growing prediction market power struggle
 
 **Author:** Sarah Wynn  
 **Published:** 9/30/2026, 5:54:45 PM  
@@ -59,7 +71,7 @@ The White House is weighing two proposed rules from the CFTC tied to prediction 
 
 ---
 
-## 5. Bitcoin steadies as soft PCE cools October Fed rate hike bets
+## 6. Bitcoin steadies as soft PCE cools October Fed rate hike bets
 
 **Author:** Jason Shubnell  
 **Published:** 9/30/2026, 4:10:36 PM  
@@ -71,7 +83,7 @@ Core PCE rose just 0.2% in August, easing pressure for an October Fed hike. Bitc
 
 ---
 
-## 6. Hyperliquid Co-founder Jeff Yan says 24-hour clock is not onchain finance’s true differentiator
+## 7. Hyperliquid Co-founder Jeff Yan says 24-hour clock is not onchain finance’s true differentiator
 
 **Author:** Danny Park  
 **Published:** 9/30/2026, 1:33:30 PM  
@@ -83,7 +95,7 @@ Hyperliquid (HYPE) Co-founder Jeff Yan said at Korea Blockchain Week that around
 
 ---
 
-## 7. FCA starts accepting crypto authorization applications ahead of 2027 regime
+## 8. FCA starts accepting crypto authorization applications ahead of 2027 regime
 
 **Author:** Brian Danga  
 **Published:** 9/30/2026, 1:21:27 PM  
@@ -95,7 +107,7 @@ FCA opens crypto authorization window, setting a Feb. 28, 2027 deadline as UK fi
 
 ---
 
-## 8. Standard Chartered sees over 600% upside for ENA, expects USDe to hit $40 billion by 2028
+## 9. Standard Chartered sees over 600% upside for ENA, expects USDe to hit $40 billion by 2028
 
 **Author:** Brian Danga  
 **Published:** 9/30/2026, 12:00:01 PM  
@@ -107,7 +119,7 @@ Standard Chartered forecasts ENA will reach $2 by the end of 2028 as USDe scales
 
 ---
 
-## 9. Crypto advocacy group Stand With Crypto rolls out its first round of Senate endorsements after failed Clarity vote
+## 10. Crypto advocacy group Stand With Crypto rolls out its first round of Senate endorsements after failed Clarity vote
 
 **Author:** Sarah Wynn  
 **Published:** 9/30/2026, 12:00:00 PM  
@@ -119,7 +131,7 @@ Weeks after the Clarity Act stalled in the Senate, crypto advocacy group Stand W
 
 ---
 
-## 10. Kalshi to end liquidity incentive program amid wash trading allegations
+## 11. Kalshi to end liquidity incentive program amid wash trading allegations
 
 **Author:** Timmy Shen  
 **Published:** 9/30/2026, 7:21:08 AM  
@@ -131,7 +143,7 @@ Its monthly volume reached $52.98 billion in September as of Sept. 29, marking a
 
 ---
 
-## 11. Robinhood to launch perps, weekend stock trading for US users
+## 12. Robinhood to launch perps, weekend stock trading for US users
 
 **Author:** Timmy Shen  
 **Published:** 9/30/2026, 2:58:24 AM  
