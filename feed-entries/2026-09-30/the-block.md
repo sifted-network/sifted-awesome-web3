@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-30"
 date: "2026-09-30"
 source: "The Block"
-count: 12
+count: 10
 ---
 
 # The Block - 2026-09-30
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ Standard Chartered forecasts ENA will reach $2 by the end of 2028 as USDe scales
 Weeks after the Clarity Act stalled in the Senate, crypto advocacy group Stand With Crypto rolled out its first round of Senate endorsements.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-30-crypto-advocacy-group-stand-with-crypto-first-senate-endorsements-after-failed-clarity-417223)
-
----
-
-## 11. Kalshi to end liquidity incentive program amid wash trading allegations
-
-**Author:** Timmy Shen  
-**Published:** 9/30/2026, 7:21:08 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, News  
-
-Its monthly volume reached $52.98 billion in September as of Sept. 29, marking an all-time high, even as September data remains incomplete.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-30-kalshi-ends-trader-incentive-program-417247)
-
----
-
-## 12. Robinhood to launch perps, weekend stock trading for US users
-
-**Author:** Timmy Shen  
-**Published:** 9/30/2026, 2:58:24 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, News  
-
-The trading platform also introduced Robinhood Agents, which allows users to build their own AI agents within the app.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-09-29-robinhood-perps-trading-417242)
 
 ---
