@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-28"
 date: "2026-09-28"
 source: "Decrypt"
-count: 9
+count: 7
 ---
 
 # Decrypt - 2026-09-28
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ OpenShell and Sentry give AI agents a hardware-enforced leash, arriving after a 
 Strive bought 1,107 BTC for $94.5 million last week, lifting its holdings to 27,462 BTC, with its SATA preferred stock supplying 85% of the capital.
 
 📖 [Read original article](https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc)
-
----
-
-## 8. Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/28/2026, 5:51:14 PM  
-**Categories:** Technology  
-
-Chainlink's CCIP 2.0 lets banks run their own security checks on cross-chain transfers, five months after a rival's setup lost $292 million to hackers.
-
-📖 [Read original article](https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack)
-
----
-
-## 9. Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum
-
-**Author:** Decrypt Agent  
-**Published:** 9/28/2026, 4:29:42 PM  
-**Categories:** , Technology  
-
-Hegota will be Ethereum's last 'normal' fork, he argues, with everything after built on recursive STARKs and formal verification.
-
-📖 [Read original article](https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum)
 
 ---
