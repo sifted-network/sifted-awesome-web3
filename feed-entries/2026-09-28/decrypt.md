@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-28"
 date: "2026-09-28"
 source: "Decrypt"
-count: 10
+count: 9
 ---
 
 # Decrypt - 2026-09-28
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ Chainlink's CCIP 2.0 lets banks run their own security checks on cross-chain tra
 Hegota will be Ethereum's last 'normal' fork, he argues, with everything after built on recursive STARKs and formal verification.
 
 📖 [Read original article](https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum)
-
----
-
-## 10. Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/28/2026, 3:26:28 PM  
-**Categories:** , Markets  
-
-Bitcoin extends last week's pullback as Trump rejects Iran's ceasefire plan, sending oil above $100 and yields higher ahead of Wednesday's PCE report.
-
-📖 [Read original article](https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields)
 
 ---
