@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-09-30"
 date: "2026-09-30"
 source: "Decrypt"
-count: 14
+count: 16
 ---
 
 # Decrypt - 2026-09-30
 
-14 items collected.
+16 items collected.
 
 ---
 
-## 1. FBI Tells Its Employees to Assume Hackers Have Their Personal Data
+## 1. Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/30/2026, 11:20:59 PM  
+**Categories:** Artificial Intelligence  
+
+Gemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it first, with the guardrails off.
+
+📖 [Read original article](https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity)
+
+---
+
+## 2. Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet
+
+**Author:** Jose Antonio Lanz  
+**Published:** 9/30/2026, 9:46:03 PM  
+**Categories:** dogecoin, Coins  
+
+The team behind the MyDoge wallet opened a public test of DogeOS, a layer that lets developers build lending platforms and games on top of the meme coin network.
+
+📖 [Read original article](https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet)
+
+---
+
+## 3. FBI Tells Its Employees to Assume Hackers Have Their Personal Data
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/30/2026, 9:16:04 PM  
@@ -23,7 +47,7 @@ An internal memo warned FBI staff that ShinyHunters, the group claiming it hacke
 
 ---
 
-## 2. Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse
+## 4. Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse
 
 **Author:** Decrypt Staff  
 **Published:** 9/30/2026, 8:31:04 PM  
@@ -35,7 +59,7 @@ The Coinbase-backed group's first Senate endorsements—Republicans Jon Husted a
 
 ---
 
-## 3. Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps
+## 5. Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/30/2026, 7:46:04 PM  
@@ -47,7 +71,7 @@ The attacker behind the $387.5 million Bitget heist has started hiding about $3.
 
 ---
 
-## 4. US Government's New AI Chatbot Has a Weird Minecraft Secret
+## 6. US Government's New AI Chatbot Has a Weird Minecraft Secret
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/30/2026, 7:16:02 PM  
@@ -59,7 +83,7 @@ Ask the U.S. government's new AI chatbot about Minecraft and it produces a rough
 
 ---
 
-## 5. CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets
+## 7. CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets
 
 **Author:** Decrypt Agent  
 **Published:** 9/30/2026, 6:39:21 PM  
@@ -71,7 +95,7 @@ The two proposals would define event contracts as "swaps" while excluding "casin
 
 ---
 
-## 6. Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally
+## 8. Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/30/2026, 5:27:43 PM  
@@ -83,7 +107,7 @@ Bitcoin ETFs added $66 million Tuesday, matching August's nine-day run and toppi
 
 ---
 
-## 7. Introducing The Information Exchange on Solana, Powered by Decrypt and MYR
+## 9. Introducing The Information Exchange on Solana, Powered by Decrypt and MYR
 
 **Author:** Decrypt Staff  
 **Published:** 9/30/2026, 4:36:10 PM  
@@ -95,7 +119,7 @@ Decrypt is the destination, Myriad is the infrastructure and MYR is the token fo
 
 ---
 
-## 8. Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia
+## 10. Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia
 
 **Author:** Decrypt Staff  
 **Published:** 9/30/2026, 4:06:03 PM  
@@ -107,7 +131,7 @@ The one-page pact, which Trump called "morally binding," asks companies to adopt
 
 ---
 
-## 9. Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs
+## 11. Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs
 
 **Author:** Jose Antonio Lanz  
 **Published:** 9/30/2026, 3:50:25 PM  
@@ -119,7 +143,7 @@ The Fed's favorite inflation gauge came in cooler than expected, rate-hike odds 
 
 ---
 
-## 10. Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K
+## 12. Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K
 
 **Author:** Decrypt Agent  
 **Published:** 9/30/2026, 3:17:45 PM  
@@ -131,7 +155,7 @@ Paul Chowles took 50 BTC from a Silk Road 2.0 seizure in 2017. Prosecutors have 
 
 ---
 
-## 11. Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders
+## 13. Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders
 
 **Author:** Tyler Warner  
 **Published:** 9/30/2026, 11:54:22 AM  
@@ -143,7 +167,7 @@ Robinhood is leaning deeper into crypto as they look to unlock their “everythi
 
 ---
 
-## 12. CFTC Investigating Adam Kinzinger Over Kalshi Bets on His Own Pardon: Report
+## 14. CFTC Investigating Adam Kinzinger Over Kalshi Bets on His Own Pardon: Report
 
 **Author:** Decrypt Agent  
 **Published:** 9/30/2026, 11:46:16 AM  
@@ -155,7 +179,7 @@ The former congressman says he made $823 on the trades, had no inside informatio
 
 ---
 
-## 13. McDonald's AI ‘Pricing Engine’ Gauges What Customers Will Pay for a Big Mac: Report
+## 15. McDonald's AI ‘Pricing Engine’ Gauges What Customers Will Pay for a Big Mac: Report
 
 **Author:** Decrypt Agent  
 **Published:** 9/30/2026, 11:06:59 AM  
@@ -167,7 +191,7 @@ Machine-learning models set an 'optimal price' per item per restaurant, and have
 
 ---
 
-## 14. US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion
+## 16. US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion
 
 **Author:** Decrypt Agent  
 **Published:** 9/30/2026, 10:32:01 AM  
