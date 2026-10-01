@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-30"
 date: "2026-09-30"
 source: "CoinDesk"
-count: 20
+count: 16
 ---
 
 # CoinDesk - 2026-09-30
 
-20 items collected.
+16 items collected.
 
 ---
 
@@ -200,53 +200,5 @@ The new Zakura nodes caught up with the network in just over six hours in Gemini
 Asset management platform HANetf has listed ETCs in London, Frankfurt and Paris providing pound sterling and euro-hedged exposure to bitcoin.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk)
-
----
-
-## 17. Bitcoin bulls have one price level to defend
-
-**Author:** Omkar Godbole  
-**Published:** 9/30/2026, 7:04:41 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Here's the level analysts are watching and what a break below it could mean for the bulls.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/30/bitcoin-bulls-have-one-price-level-to-defend)
-
----
-
-## 18. Robinhood unveils an AI that trades your money 24/7, and you carry all the risk
-
-**Author:** Omkar Godbole  
-**Published:** 9/30/2026, 5:59:31 AM  
-**Categories:** Markets, Robinhood, News  
-
-Robinhood users could soon get an AI agent that trades on their behalf, even at 2 a.m. But if a trade goes wrong, users' bear the risk, not Robinhood.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets)
-
----
-
-## 19. XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion
-
-**Author:** Shaurya Malwa  
-**Published:** 9/30/2026, 5:22:51 AM  
-**Categories:** Tech, News  
-
-The regulated operator is mirroring ownership of selected investment funds on XRPL while keeping its existing database as the official record.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/30/xrp-ledger-starts-carrying-fund-records-from-brazil-operator-overseeing-usd4-trillion)
-
----
-
-## 20. Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score
-
-**Author:** Shaurya Malwa  
-**Published:** 9/30/2026, 4:38:18 AM  
-**Categories:** Markets, News  
-
-A trend guage tracked on onchain analysis firm CryptoQuant is near its ceiling. The buyers who drove BTC to an eight-month high are already pulling back.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score)
 
 ---
