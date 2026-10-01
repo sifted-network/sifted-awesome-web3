@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-29"
 date: "2026-09-29"
 source: "Cointelegraph"
-count: 9
+count: 7
 ---
 
 # Cointelegraph - 2026-09-29
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ Gracy Chen said she saw the 2025 Bybit hack as a “good reference point” for 
 An October pullback could offer a buying opportunity before Bitcoin’s next cycle peak, which Brandt expects between $300,000 and $600,000. He’s not sold on “fool coin” XRP.
 
 📖 [Read original article](https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Bitcoin ETF inflows leave institutional demand unclear: CoinShares
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 9/29/2026, 12:40:12 PM  
-**Categories:** Markets  
-
-CoinShares says IBIT offers clues to institutional buying, but basis trades mean inflows are not necessarily bets on rising Bitcoin prices.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. ECB puts AI agent payments on the digital euro drawing board
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/29/2026, 12:00:45 PM  
-**Categories:** Latest News  
-
-The ECB is seeking firms to explore AI agents and machine-to-machine interactions as it prepares a separate digital euro pilot for 2027.
-
-📖 [Read original article](https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
