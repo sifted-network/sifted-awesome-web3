@@ -95,7 +95,7 @@ Bitget CEO Gracy Chen said that a protection fund created by the company in 2022
 
 ---
 
-## 8. Could THORChain face prosecution over stolen Bitget funds?
+## 8. Could THORChain face prosecution over stolen Bitget funds? Legal opinion
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 9/30/2026, 1:30:00 PM  
