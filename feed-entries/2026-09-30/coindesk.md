@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-30"
 date: "2026-09-30"
 source: "CoinDesk"
-count: 16
+count: 12
 ---
 
 # CoinDesk - 2026-09-30
 
-16 items collected.
+12 items collected.
 
 ---
 
@@ -152,53 +152,5 @@ Independent directors cite management’s financial risk and restructuring role,
 Crypto prices rose early Wednesday after better-than-forecast inflation data, but gave up those gains as interest rates continued to surge.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings)
-
----
-
-## 13. Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 9/30/2026, 10:11:36 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin held near $83,000 as the 30-year Treasury yield topped 5.6%, while DeFi tokens reversed and lighter fell after Robinhood unveiled U.S. perps.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan)
-
----
-
-## 14. OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO
-
-**Author:** James Van Straten,AI Boost  
-**Published:** 9/30/2026, 8:50:22 AM  
-**Categories:** Markets, Artificial Intelligence, News  
-
-The ChatGPT maker is pursuing fresh funding after delaying its public listing, while expanding its AI tools despite mounting safety concerns.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/30/openai-targets-usd1-4-trillion-valuation-and-unveils-dots-ai-agent)
-
----
-
-## 15. Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks
-
-**Author:** Shaurya Malwa  
-**Published:** 9/30/2026, 8:27:00 AM  
-**Categories:** Tech, Gemini, News  
-
-The new Zakura nodes caught up with the network in just over six hours in Gemini’s deployments. The crypto exchange’s previous software took close to a day.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/30/winklevoss-owned-gemini-switches-zcash-software-ahead-of-faster-25-second-blocks)
-
----
-
-## 16. How European investors can now buy bitcoin without taking on U.S. dollar risk
-
-**Author:** Jamie Crawley  
-**Published:** 9/30/2026, 8:25:43 AM  
-**Categories:** Finance, ETFs, Bitcoin News, News  
-
-Asset management platform HANetf has listed ETCs in London, Frankfurt and Paris providing pound sterling and euro-hedged exposure to bitcoin.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk)
 
 ---
