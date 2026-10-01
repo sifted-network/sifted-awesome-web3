@@ -2,16 +2,148 @@
 title: "Cointelegraph - 2026-10-01"
 date: "2026-10-01"
 source: "Cointelegraph"
-count: 10
+count: 20
 ---
 
 # Cointelegraph - 2026-10-01
 
-10 items collected.
+20 items collected.
 
 ---
 
-## 1. Tokenized assets don’t always mirror traditional markets, Dune finds
+## 1. Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/1/2026, 9:07:45 PM  
+**Categories:** Latest News  
+
+Evernorth expects to begin trading on Nasdaq under the ticker XRPN after its SPAC merger closes, with an XRP treasury worth roughly $710 million at current prices.
+
+📖 [Read original article](https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/1/2026, 9:00:11 PM  
+**Categories:** Latest News  
+
+The president is scheduled to appear at his golf club in Washington, DC, at a Nov. 22 dinner for his top 185 memecoin holders, following similar events in May 2025 and April 2026.
+
+📖 [Read original article](https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 10/1/2026, 8:07:25 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. 50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/1/2026, 6:45:09 PM  
+**Categories:** Latest News  
+
+A 50,000-letter campaign is pressing Brussels to rethink stablecoin rewards as EU central banks seek broader changes to MiCA’s stablecoin rules.
+
+📖 [Read original article](https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Illinois will postpone implementation of crypto tax following lawsuit
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/1/2026, 6:01:49 PM  
+**Categories:** Latest News  
+
+State officials agreed to delay the 0.2% crypto tax for six months after lawsuits and industry pushback claimed the bill was rushed through the legislature.
+
+📖 [Read original article](https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. New York, Wyoming regulators sign pact to coordinate crypto oversight
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/1/2026, 4:12:23 PM  
+**Categories:** Latest News  
+
+The agreement will allow the two state regulators to share supervisory information, streamline licensing reviews and coordinate examinations and enforcement actions involving digital asset firms.
+
+📖 [Read original article](https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 10/1/2026, 3:55:19 PM  
+**Categories:** Markets  
+
+US bond yields fell sharply around Thursday’s Wall Street open as Bitcoin price action sought to preserve a local trend of higher lows.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. NEAR Intents suffers $3.8M exploit after assistance with Bitget breach
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/1/2026, 3:43:34 PM  
+**Categories:** Latest News  
+
+The platform said it will compensate users affected by the hack, which stemmed from a bug that affected deposits and withdrawals.
+
+📖 [Read original article](https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Bitget’s $388M hack pushes Q3 crypto security losses past $1B
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 10/1/2026, 1:35:47 PM  
+**Categories:** Latest News  
+
+Crypto security losses reached $1.26 billion in Q3 across 247 incidents, with September alone accounting for roughly $769 million.
+
+📖 [Read original article](https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 10. LATAM stablecoin liquidity may depend on few providers, investor says
+
+**Author:** Cointelegraph by Felix Ng  
+**Published:** 10/1/2026, 1:30:00 PM  
+**Categories:** Latest News  
+
+Researchers in a Latin American stablecoin ecosystem report warned “fragility in the system is concentrated in its thinnest layer,” with just 16 of 494 companies focused primarily on wholesale liquidity, treasury and credit.
+
+📖 [Read original article](https://cointelegraph.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 11. Stablecoins can drain from banks and nations at lightning speed
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 10/1/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+Highly liquid and settling 24/7, stablecoins can leave banks and countries at lightning speed. But whether stablecoins are a risk — or an opportunity — depends on your perspective.
+
+📖 [Read original article](https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 12. Tokenized assets don’t always mirror traditional markets, Dune finds
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/1/2026, 10:50:24 AM  
@@ -23,7 +155,7 @@ Dune found that tokenized markets show different trading patterns from tradition
 
 ---
 
-## 2. Bitcoin trapped below $86K as PCE changes cloud inflation reading
+## 13. Bitcoin trapped below $86K as PCE changes cloud inflation reading
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/1/2026, 10:30:18 AM  
@@ -35,7 +167,7 @@ Bitcoin erased its post-PCE gains as analysts cautioned that methodology changes
 
 ---
 
-## 3. Binance’s EU services face scrutiny over licensing exemption: Report
+## 14. Binance’s EU services face scrutiny over licensing exemption: Report
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/1/2026, 10:07:18 AM  
@@ -47,7 +179,7 @@ EU regulators are reportedly examining Binance’s use of a MiCA exemption to se
 
 ---
 
-## 4. Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives
+## 15. Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/1/2026, 9:09:46 AM  
@@ -59,7 +191,7 @@ Chainalysis still faces an aiding-and-abetting claim over Celsius’ disputed $3
 
 ---
 
-## 5. Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%
+## 16. Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/1/2026, 7:27:00 AM  
@@ -71,7 +203,7 @@ Bitcoin gained 42.71% in Q3, its best third-quarter performance since 2017, as U
 
 ---
 
-## 6. Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule
+## 17. Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/1/2026, 6:05:51 AM  
@@ -83,19 +215,7 @@ A Bitcoin Policy Institute paper says MSCI’s proposed “non-operating company
 
 ---
 
-## 7. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/1/2026, 6:00:00 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Crypto hacks top $768M in September, worst month of 2026
+## 18. Crypto hacks top $768M in September, worst month of 2026
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/1/2026, 4:44:33 AM  
@@ -107,7 +227,7 @@ The $388 million Bitget breach and $320 million Liquid Network exploit accounted
 
 ---
 
-## 9. CFTC seeks to define event contracts as swaps amid prediction market fight
+## 19. CFTC seeks to define event contracts as swaps amid prediction market fight
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/1/2026, 1:07:46 AM  
@@ -119,7 +239,7 @@ The classification could assist the CFTC’s claim that it has exclusive federal
 
 ---
 
-## 10. MetaMask exits Ethereum validators amid undisclosed security incident
+## 20. MetaMask exits Ethereum validators amid undisclosed security incident
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/1/2026, 12:15:55 AM  
