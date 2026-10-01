@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-30"
 date: "2026-09-30"
 source: "Cointelegraph"
-count: 21
+count: 20
 ---
 
 # Cointelegraph - 2026-09-30
 
-21 items collected.
+20 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ The bank also expects Ethena’s ENA token to rise roughly sevenfold to $2 by th
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 9/30/2026, 7:37:13 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Crypto advocacy group announces picks for US Congress as midterms loom
+## 2. Crypto advocacy group announces picks for US Congress as midterms loom
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/30/2026, 7:11:23 PM  
@@ -47,7 +35,7 @@ The organization’s endorsements in the House and Senate came as many polls sho
 
 ---
 
-## 4. Base completes Cobalt upgrade, adds new tools for tokenized assets
+## 3. Base completes Cobalt upgrade, adds new tools for tokenized assets
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/30/2026, 7:00:00 PM  
@@ -59,7 +47,7 @@ Base’s Cobalt lets traders set transaction conditions while giving issuers too
 
 ---
 
-## 5. Bloomberg brings onchain stablecoin data to its Terminal
+## 4. Bloomberg brings onchain stablecoin data to its Terminal
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/30/2026, 6:49:06 PM  
@@ -71,7 +59,7 @@ Bloomberg’s Allium-powered dashboard gives Terminal users hourly data on stabl
 
 ---
 
-## 6. Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel
+## 5. Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 9/30/2026, 5:17:54 PM  
@@ -83,7 +71,7 @@ Petrobras developed two Cardano-based applications to track sustainability claim
 
 ---
 
-## 7. Bitget ‘gradually back to usual’ as protection fund reaches $309M
+## 6. Bitget ‘gradually back to usual’ as protection fund reaches $309M
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 9/30/2026, 4:28:30 PM  
@@ -95,7 +83,7 @@ Bitget CEO Gracy Chen said that a protection fund created by the company in 2022
 
 ---
 
-## 8. Could THORChain face prosecution over stolen Bitget funds? Legal opinion
+## 7. Could THORChain face prosecution over stolen Bitget funds? Legal opinion
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 9/30/2026, 1:30:00 PM  
@@ -107,7 +95,7 @@ THORChain will not — or can not — block addresses linked to the $387.5 milli
 
 ---
 
-## 9. Singapore crypto activity grows 55% as broader region contracts
+## 8. Singapore crypto activity grows 55% as broader region contracts
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/30/2026, 1:00:00 PM  
@@ -119,7 +107,7 @@ Singapore’s crypto economy grew 55.4% to $284 billion as institutional-platfor
 
 ---
 
-## 10. FCA opens crypto authorization window ahead of 2027 UK regime
+## 9. FCA opens crypto authorization window ahead of 2027 UK regime
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/30/2026, 12:06:04 PM  
@@ -131,7 +119,7 @@ Crypto businesses should apply by Feb. 28, 2027, while existing money laundering
 
 ---
 
-## 11. Altcoin exchange deposit count jumps 160% in 2 weeks
+## 10. Altcoin exchange deposit count jumps 160% in 2 weeks
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 9/30/2026, 11:23:56 AM  
@@ -143,7 +131,7 @@ CryptoQuant flagged potential selling pressure as deposit transactions and depos
 
 ---
 
-## 12. A single market worth protecting: Getting the MiCA review right
+## 11. A single market worth protecting: Getting the MiCA review right
 
 **Author:** Cointelegraph by Simon Schneider  
 **Published:** 9/30/2026, 11:00:00 AM  
@@ -155,7 +143,7 @@ As the European Commission’s MiCA review consultation closes, Europe must deci
 
 ---
 
-## 13. Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red
+## 12. Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/30/2026, 10:12:28 AM  
@@ -167,7 +155,7 @@ Ether ETFs shed $3 million Tuesday after seven days of inflows, following an $8 
 
 ---
 
-## 14. Crypto hardware wallets compared for 2026
+## 13. Crypto hardware wallets compared for 2026
 
 **Author:** Cointelegraph  
 **Published:** 9/30/2026, 10:11:12 AM  
@@ -179,7 +167,7 @@ From touchscreen and QR-code devices to NFC cards and Bitcoin-only models, this 
 
 ---
 
-## 15. SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit
+## 14. SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/30/2026, 10:05:39 AM  
@@ -191,7 +179,7 @@ SlowMist identified malicious activity weeks before the Bitget theft, involving 
 
 ---
 
-## 16. European stablecoin issuer AllUnity launches USD stablecoin USDAU
+## 15. European stablecoin issuer AllUnity launches USD stablecoin USDAU
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 9/30/2026, 7:00:00 AM  
@@ -203,7 +191,7 @@ AllUnity is launching USDAU, its fourth fiat-backed stablecoin, expanding a MiCA
 
 ---
 
-## 17. Kalshi in advanced talks to raise new funding at $40B valuation: Reuters
+## 16. Kalshi in advanced talks to raise new funding at $40B valuation: Reuters
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/30/2026, 5:45:55 AM  
@@ -215,7 +203,7 @@ The prediction market was valued at $22 billion in a $1 billion funding round ju
 
 ---
 
-## 18. Illinois draft crypto tax rules detail DeFi, stablecoin treatment
+## 17. Illinois draft crypto tax rules detail DeFi, stablecoin treatment
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 9/30/2026, 4:29:28 AM  
@@ -227,7 +215,7 @@ Illinois’ draft rules spell out how its 0.2% digital asset transaction tax wou
 
 ---
 
-## 19. Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut
+## 18. Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/30/2026, 3:40:42 AM  
@@ -239,7 +227,7 @@ In February, ai.com drew enough traffic to crash its website after a $15 million
 
 ---
 
-## 20. Binance Pay lets visitors spend crypto at PayPay merchants in Japan
+## 19. Binance Pay lets visitors spend crypto at PayPay merchants in Japan
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 9/30/2026, 2:25:00 AM  
@@ -251,7 +239,7 @@ Binance Pay will let overseas users spend more than 100 cryptocurrencies at PayP
 
 ---
 
-## 21. Trump accord calls for tech firms to ‘self police’ their own frontier AI
+## 20. Trump accord calls for tech firms to ‘self police’ their own frontier AI
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 9/30/2026, 12:28:38 AM  
