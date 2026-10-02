@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-30"
 date: "2026-09-30"
 source: "The Block"
-count: 10
+count: 7
 ---
 
 # The Block - 2026-09-30
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ Core PCE rose just 0.2% in August, easing pressure for an October Fed hike. Bitc
 Hyperliquid (HYPE) Co-founder Jeff Yan said at Korea Blockchain Week that around-the-clock trading is not what sets onchain venues apart from traditional exchanges. Speaking in a fireside chat at Korea Blockchain Week 2026, Yan pointed out that crypto never needed conventional market hours because t...
 
 📖 [Read original article](https://www.theblock.co/news/defi/2026-09-30-hyperliquid-co-founder-jeff-yan-24-hour-clock-not-onchain-finances-true-differentiator-417286)
-
----
-
-## 8. FCA starts accepting crypto authorization applications ahead of 2027 regime
-
-**Author:** Brian Danga  
-**Published:** 9/30/2026, 1:21:27 PM  
-**Categories:** Policy, Regulation, FCA, News  
-
-FCA opens crypto authorization window, setting a Feb. 28, 2027 deadline as UK firms face fresh vetting under new regime.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-30-fca-starts-accepting-crypto-authorization-applications-ahead-of-2027-regime-417284)
-
----
-
-## 9. Standard Chartered sees over 600% upside for ENA, expects USDe to hit $40 billion by 2028
-
-**Author:** Brian Danga  
-**Published:** 9/30/2026, 12:00:01 PM  
-**Categories:** Equities, Markets, Analyst Reports, News  
-
-Standard Chartered forecasts ENA will reach $2 by the end of 2028 as USDe scales eightfold and buybacks reshape the token's value.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-30-standard-chartered-sees-over-600-upside-for-ena-expects-usde-to-hit-40-billion-by-2028-417274)
-
----
-
-## 10. Crypto advocacy group Stand With Crypto rolls out its first round of Senate endorsements after failed Clarity vote
-
-**Author:** Sarah Wynn  
-**Published:** 9/30/2026, 12:00:00 PM  
-**Categories:** Policy, Regulation, U.S. Policymaking, 2024 Elections, Elections 2026, News  
-
-Weeks after the Clarity Act stalled in the Senate, crypto advocacy group Stand With Crypto rolled out its first round of Senate endorsements.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-30-crypto-advocacy-group-stand-with-crypto-first-senate-endorsements-after-failed-clarity-417223)
 
 ---
