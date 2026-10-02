@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-01"
 date: "2026-10-01"
 source: "Cointelegraph"
-count: 9
+count: 6
 ---
 
 # Cointelegraph - 2026-10-01
 
-9 items collected.
+6 items collected.
 
 ---
 
@@ -80,41 +80,5 @@ State officials agreed to delay the 0.2% crypto tax for six months after lawsuit
 The agreement will allow the two state regulators to share supervisory information, streamline licensing reviews and coordinate examinations and enforcement actions involving digital asset firms.
 
 📖 [Read original article](https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/1/2026, 3:55:19 PM  
-**Categories:** Markets  
-
-US bond yields fell sharply around Thursday’s Wall Street open as Bitcoin price action sought to preserve a local trend of higher lows.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. NEAR Intents suffers $3.8M exploit after assistance with Bitget breach
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 10/1/2026, 3:43:34 PM  
-**Categories:** Latest News  
-
-The platform said it will compensate users affected by the hack, which stemmed from a bug that affected deposits and withdrawals.
-
-📖 [Read original article](https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bitget’s $388M hack pushes Q3 crypto security losses past $1B
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/1/2026, 1:35:47 PM  
-**Categories:** Latest News  
-
-Crypto security losses reached $1.26 billion in Q3 across 247 incidents, with September alone accounting for roughly $769 million.
-
-📖 [Read original article](https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
