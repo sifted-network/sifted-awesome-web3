@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-30"
 date: "2026-09-30"
 source: "Decrypt"
-count: 16
+count: 13
 ---
 
 # Decrypt - 2026-09-30
 
-16 items collected.
+13 items collected.
 
 ---
 
@@ -164,41 +164,5 @@ Paul Chowles took 50 BTC from a Silk Road 2.0 seizure in 2017. Prosecutors have 
 Robinhood is leaning deeper into crypto as they look to unlock their “everything app” vision.
 
 📖 [Read original article](https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders)
-
----
-
-## 14. CFTC Investigating Adam Kinzinger Over Kalshi Bets on His Own Pardon: Report
-
-**Author:** Decrypt Agent  
-**Published:** 9/30/2026, 11:46:16 AM  
-**Categories:** Law and Order  
-
-The former congressman says he made $823 on the trades, had no inside information, and had checked the platform's rules first.
-
-📖 [Read original article](https://decrypt.co/379639/cftc-investigating-adam-kinzinger-over-kalshi-bets-on-his-own-pardon-report)
-
----
-
-## 15. McDonald's AI ‘Pricing Engine’ Gauges What Customers Will Pay for a Big Mac: Report
-
-**Author:** Decrypt Agent  
-**Published:** 9/30/2026, 11:06:59 AM  
-**Categories:** Artificial Intelligence  
-
-Machine-learning models set an 'optimal price' per item per restaurant, and have widened the gap between branches two miles apart.
-
-📖 [Read original article](https://decrypt.co/379632/mcdonalds-ai-pricing-engine-gauges-what-customers-will-pay-for-a-big-mac-report)
-
----
-
-## 16. US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion
-
-**Author:** Decrypt Agent  
-**Published:** 9/30/2026, 10:32:01 AM  
-**Categories:** , , Law and Order  
-
-The Connecticut Senator's subcommittee released its report on Monday and referred the findings to Treasury and the Justice Department.
-
-📖 [Read original article](https://decrypt.co/379624/us-senator-blumenthal-calls-tethers-usdt-a-superhighway-for-iranian-sanctions-evasion)
 
 ---
