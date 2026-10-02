@@ -53,7 +53,7 @@ The company managing the memecoin calls the November event the "most exclusive d
 **Published:** 10/1/2026, 2:18:14 PM  
 **Categories:** Tech, Hack, News  
 
-The popular cross-chain trading system said it will reimburse losses after a bug affected deposits and withdrawals across several networks.
+The popular cross-chain trading system said Friday the exploiter returned all stolen assets a day later a bug affected deposits and withdrawals across several networks.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues)
 
