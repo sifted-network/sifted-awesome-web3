@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-29"
 date: "2026-09-29"
 source: "Decrypt"
-count: 8
+count: 6
 ---
 
 # Decrypt - 2026-09-29
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ Linear Fox founder Nathan Fargo released a public jailbreak for the PS5, dubbed 
 OpenAI's DevDay launched dots, always-on AI agents with their own computers, plus a cheaper GPT-6.1 Sol and a $500 speed tier. Here's every announcement, explained for people who don't speak AI.
 
 📖 [Read original article](https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced)
-
----
-
-## 7. Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days
-
-**Author:** Jose Antonio Lanz  
-**Published:** 9/29/2026, 6:18:33 PM  
-**Categories:** , Markets  
-
-Bitcoin ETFs extended their inflow streak to eight straight days on Monday, bouncing back from the Clarity Act sell-off in a big way.
-
-📖 [Read original article](https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion)
-
----
-
-## 8. BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'
-
-**Author:** Stephen Graves  
-**Published:** 9/29/2026, 5:31:04 PM  
-**Categories:** Artificial Intelligence  
-
-Matt Brittin, who joined the BBC from Google, argued that "not all creativity is bad," while noting that the technology won't replace humans.
-
-📖 [Read original article](https://decrypt.co/379561/bbc-director-general-ai-generated-doctor-who-pretty-good)
 
 ---
