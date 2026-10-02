@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-30"
 date: "2026-09-30"
 source: "The Block"
-count: 4
+count: 3
 ---
 
 # The Block - 2026-09-30
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ The CFTC secured a win in court after the agency said two defendants participate
 Base has launched Cobalt, adding conditional transactions and new functions for assets issued under its B20 standard.
 
 📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-09-30-base-launches-cobalt-upgrade-with-conditional-transactions-and-new-b20-asset-functions-417308)
-
----
-
-## 4. DogeOS launches testnet to bring EVM smart contracts to Dogecoin
-
-**Author:** Jason Shubnell  
-**Published:** 9/30/2026, 6:23:57 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Governance, Layer 2s and Scaling, Markets, Token Projects, Dogecoin, Rollups, Smart contracts, Tokens, News  
-
-DogeOS launched a public testnet for its zero-knowledge rollup bringing EVM smart contracts to Dogecoin, with DOGE used for gas fees.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307)
 
 ---
