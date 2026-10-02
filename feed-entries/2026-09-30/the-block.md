@@ -2,12 +2,12 @@
 title: "The Block - 2026-09-30"
 date: "2026-09-30"
 source: "The Block"
-count: 7
+count: 4
 ---
 
 # The Block - 2026-09-30
 
-7 items collected.
+4 items collected.
 
 ---
 
@@ -56,41 +56,5 @@ Base has launched Cobalt, adding conditional transactions and new functions for 
 DogeOS launched a public testnet for its zero-knowledge rollup bringing EVM smart contracts to Dogecoin, with DOGE used for gas fees.
 
 📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307)
-
----
-
-## 5. White House weighs new CFTC event contract rules in growing prediction market power struggle
-
-**Author:** Sarah Wynn  
-**Published:** 9/30/2026, 5:54:45 PM  
-**Categories:** Companies, Markets, Policy, Regulation, CFTC, News  
-
-The White House is weighing two proposed rules from the CFTC tied to prediction markets as the agency seeks to assert its jurisdiction.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345)
-
----
-
-## 6. Bitcoin steadies as soft PCE cools October Fed rate hike bets
-
-**Author:** Jason Shubnell  
-**Published:** 9/30/2026, 4:10:36 PM  
-**Categories:** Crypto Ecosystems, Equities, Layer 1s, Macro, Markets, Token Projects, Analyst Reports, Bitcoin, Economic Indicators, News  
-
-Core PCE rose just 0.2% in August, easing pressure for an October Fed hike. Bitcoin trades near $83,700 as rising Treasury yields cap gains.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335)
-
----
-
-## 7. Hyperliquid Co-founder Jeff Yan says 24-hour clock is not onchain finance’s true differentiator
-
-**Author:** Danny Park  
-**Published:** 9/30/2026, 1:33:30 PM  
-**Categories:** Crypto Ecosystems, DeFi, Markets, News  
-
-Hyperliquid (HYPE) Co-founder Jeff Yan said at Korea Blockchain Week that around-the-clock trading is not what sets onchain venues apart from traditional exchanges. Speaking in a fireside chat at Korea Blockchain Week 2026, Yan pointed out that crypto never needed conventional market hours because t...
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-09-30-hyperliquid-co-founder-jeff-yan-24-hour-clock-not-onchain-finances-true-differentiator-417286)
 
 ---
