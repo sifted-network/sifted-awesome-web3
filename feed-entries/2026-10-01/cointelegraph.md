@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-01"
 date: "2026-10-01"
 source: "Cointelegraph"
-count: 16
+count: 9
 ---
 
 # Cointelegraph - 2026-10-01
 
-16 items collected.
+9 items collected.
 
 ---
 
@@ -116,89 +116,5 @@ The platform said it will compensate users affected by the hack, which stemmed f
 Crypto security losses reached $1.26 billion in Q3 across 247 incidents, with September alone accounting for roughly $769 million.
 
 📖 [Read original article](https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. LATAM stablecoin liquidity may depend on few providers, investor says
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/1/2026, 1:30:00 PM  
-**Categories:** Latest News  
-
-Researchers in a Latin American stablecoin ecosystem report warned “fragility in the system is concentrated in its thinnest layer,” with just 16 of 494 companies focused primarily on wholesale liquidity, treasury and credit.
-
-📖 [Read original article](https://cointelegraph.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Stablecoins can drain from banks and nations at lightning speed
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 10/1/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Highly liquid and settling 24/7, stablecoins can leave banks and countries at lightning speed. But whether stablecoins are a risk — or an opportunity — depends on your perspective.
-
-📖 [Read original article](https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Tokenized assets don’t always mirror traditional markets, Dune finds
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/1/2026, 10:50:24 AM  
-**Categories:** Latest News  
-
-Dune found that tokenized markets show different trading patterns from traditional markets, with RWA value reaching $34.5 billion.
-
-📖 [Read original article](https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Bitcoin trapped below $86K as PCE changes cloud inflation reading
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/1/2026, 10:30:18 AM  
-**Categories:** Markets  
-
-Bitcoin erased its post-PCE gains as analysts cautioned that methodology changes complicated the lower-than-expected inflation reading.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Binance’s EU services face scrutiny over licensing exemption: Report
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/1/2026, 10:07:18 AM  
-**Categories:** Latest News  
-
-EU regulators are reportedly examining Binance’s use of a MiCA exemption to serve customers as ESMA seeks stronger enforcement powers.
-
-📖 [Read original article](https://cointelegraph.com/news/europe-binance-questions-esma-tighter-mica-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/1/2026, 9:09:46 AM  
-**Categories:** Latest News  
-
-Chainalysis still faces an aiding-and-abetting claim over Celsius’ disputed $3.3 billion audit after a judge dismissed 15 other claims.
-
-📖 [Read original article](https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/1/2026, 7:27:00 AM  
-**Categories:** Markets  
-
-Bitcoin gained 42.71% in Q3, its best third-quarter performance since 2017, as US spot ETFs attracted $6.34 billion in net inflows.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
