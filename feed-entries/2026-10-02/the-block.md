@@ -2,16 +2,28 @@
 title: "The Block - 2026-10-02"
 date: "2026-10-02"
 source: "The Block"
-count: 7
+count: 8
 ---
 
 # The Block - 2026-10-02
 
-7 items collected.
+8 items collected.
 
 ---
 
-## 1. Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue
+## 1. Drift opens exploit recovery claims with initial payouts of just over 1% of user losses
+
+**Author:** Kyle Baird  
+**Published:** 10/2/2026, 5:10:40 PM  
+**Categories:** Crypto Ecosystems, DeFi, Markets, Security, DEXs, Exploits, News  
+
+DFX holders can cash out now or wait for more funding, with no firm timeline for full repayment.
+
+📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581)
+
+---
+
+## 2. Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue
 
 **Author:** Jason Shubnell  
 **Published:** 10/2/2026, 4:54:29 PM  
@@ -23,7 +35,7 @@ Ethereum L2 Blast is winding down after costs outpaced revenue. Users have until
 
 ---
 
-## 2. Bitcoin nears highest level since January as $85,000 sell wall clears, US jobs data disappoints
+## 3. Bitcoin nears highest level since January as $85,000 sell wall clears, US jobs data disappoints
 
 **Author:** James Hunt  
 **Published:** 10/2/2026, 1:34:40 PM  
@@ -35,7 +47,7 @@ Bitcoin climbed back toward $87,000 on Friday as sellers cleared out around $85,
 
 ---
 
-## 3. BitGo CEO says Clarity’s failure left capital markets exposed to risk potentially worse than Lehman
+## 4. BitGo CEO says Clarity’s failure left capital markets exposed to risk potentially worse than Lehman
 
 **Author:** Danny Park  
 **Published:** 10/2/2026, 12:28:54 PM  
@@ -47,7 +59,7 @@ BitGo CEO Mike Belshe warned that Clarity's failure left systemic risks arising 
 
 ---
 
-## 4. ECB outlines three models for putting central bank money onchain
+## 5. ECB outlines three models for putting central bank money onchain
 
 **Author:** Brian Danga  
 **Published:** 10/2/2026, 10:17:39 AM  
@@ -59,7 +71,7 @@ The ECB outlined three models for bringing central bank money onchain as financi
 
 ---
 
-## 5. Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds
+## 6. Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds
 
 **Author:** Timmy Shen  
 **Published:** 10/2/2026, 5:50:41 AM  
@@ -71,7 +83,7 @@ US spot bitcoin ETFs recorded $2.65 billion in net inflows in September, their s
 
 ---
 
-## 6. SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says
+## 7. SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says
 
 **Author:** Danny Park  
 **Published:** 10/2/2026, 5:04:41 AM  
@@ -83,7 +95,7 @@ Robinhood's Johann Kerbrat told The Block that Robinhood is still working throug
 
 ---
 
-## 7. Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity
+## 8. Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity
 
 **Author:** Zack Abrams  
 **Published:** 10/2/2026, 12:22:58 AM  
