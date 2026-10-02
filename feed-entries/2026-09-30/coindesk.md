@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-30"
 date: "2026-09-30"
 source: "CoinDesk"
-count: 6
+count: 4
 ---
 
 # CoinDesk - 2026-09-30
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ As it battles with states over prediction markets, the CFTC sent two related rul
 
 
 📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on)
-
----
-
-## 5. Clock's ticking: UK's crypto regulatory application window opens with February deadline
-
-**Author:** Jamie Crawley  
-**Published:** 9/30/2026, 2:04:19 PM  
-**Categories:** Policy, UK, News  
-
-The five-month application window precedes the new regulatory framework’s planned introduction in October 2027, after years of legislative development.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline)
-
----
-
-## 6. Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel
-
-**Author:** Shaurya Malwa  
-**Published:** 9/30/2026, 1:00:00 PM  
-**Categories:** Tech, News  
-
-Petrobras is testing the blockchain in two research projects aimed at preventing emissions benefits from being counted twice and tracing fuel data across production and use.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel)
 
 ---
