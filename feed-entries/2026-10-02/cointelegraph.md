@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-10-02"
 date: "2026-10-02"
 source: "Cointelegraph"
-count: 21
+count: 24
 ---
 
 # Cointelegraph - 2026-10-02
 
-21 items collected.
+24 items collected.
 
 ---
 
-## 1. 71% of UK finance leaders expect tokenization to reshape financial services: Lloyds
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 10/2/2026, 8:46:58 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/2/2026, 8:40:47 PM  
+**Categories:** Latest News  
+
+Speaking on Cointelegraph’s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms.
+
+📖 [Read original article](https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. $4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 10/2/2026, 6:41:17 PM  
+**Categories:** Latest News  
+
+The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.
+
+📖 [Read original article](https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Blast to wind down Ethereum L2 after costs outpace revenue
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/2/2026, 6:24:05 PM  
+**Categories:** Latest News  
+
+Once among Ethereum’s largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown.
+
+📖 [Read original article](https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. 71% of UK finance leaders expect tokenization to reshape financial services: Lloyds
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/2/2026, 4:20:24 PM  
@@ -23,7 +71,7 @@ A Lloyds survey found that faster payments and settlement are the most significa
 
 ---
 
-## 2. Crypto’s billions are back, but the premiums aren’t
+## 6. Crypto’s billions are back, but the premiums aren’t
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/2/2026, 3:32:53 PM  
@@ -35,7 +83,7 @@ Kalshi seeks a $40 billion valuation, while Blockchain.com targets an IPO and cr
 
 ---
 
-## 3. Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower
+## 7. Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/2/2026, 3:27:31 PM  
@@ -47,7 +95,7 @@ Bitcoin climbed after weaker-than-expected payrolls pushed Treasury yields lower
 
 ---
 
-## 4. ‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens
+## 8. ‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/2/2026, 2:12:48 PM  
@@ -59,7 +107,7 @@ European issuers say Europe cannot ignore demand for dollar stablecoins as busin
 
 ---
 
-## 5. Furious debate about THORChain vs NEAR shows idealism has limits
+## 9. Furious debate about THORChain vs NEAR shows idealism has limits
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 10/2/2026, 1:30:00 PM  
@@ -71,19 +119,7 @@ The furious debate over Bitget’s $387.7M of hacked funds comes down to whether
 
 ---
 
-## 6. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 10/2/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Circle urges EU to revise stablecoin reserve rules in MiCA review
+## 10. Circle urges EU to revise stablecoin reserve rules in MiCA review
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/2/2026, 12:25:56 PM  
@@ -95,7 +131,7 @@ Circle wants the EU to replace mandatory bank-deposit minimums with more flexibl
 
 ---
 
-## 8. BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B
+## 11. BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/2/2026, 11:40:21 AM  
@@ -107,7 +143,7 @@ Tokenized stocks and ETFs on BNB Chain reached $1.1 billion as the broader marke
 
 ---
 
-## 9. Bitcoin treasuries may struggle to match Strategy, says Ammous
+## 12. Bitcoin treasuries may struggle to match Strategy, says Ammous
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/2/2026, 10:54:33 AM  
@@ -119,7 +155,7 @@ Strategy’s scale and cash reserves give it an edge over treasury rivals, accor
 
 ---
 
-## 10. CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain
+## 13. CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/2/2026, 10:29:35 AM  
@@ -131,7 +167,7 @@ Arthur Hayes said money printing could lift crypto prices, while CONNECT Seoul s
 
 ---
 
-## 11. Bitcoin reaches for $87K as short liquidations top $120M
+## 14. Bitcoin reaches for $87K as short liquidations top $120M
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/2/2026, 9:37:06 AM  
@@ -143,7 +179,7 @@ Bitcoin buyers broke through a wall of ask liquidity to reach new October BTC pr
 
 ---
 
-## 12. Aave founder says V3 unaffected after third-party adapter exploit drains $305K
+## 15. Aave founder says V3 unaffected after third-party adapter exploit drains $305K
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/2/2026, 9:30:49 AM  
@@ -155,7 +191,7 @@ Aave founder Stani Kulechov said Aave v3 was unaffected after an attacker exploi
 
 ---
 
-## 13. Porsche’s ‘long haul’ Web3 project ends in less than four years
+## 16. Porsche’s ‘long haul’ Web3 project ends in less than four years
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/2/2026, 9:18:52 AM  
@@ -167,7 +203,7 @@ Porsche is winding down its Web3 project and Pioneers Circle community as tradin
 
 ---
 
-## 14. Bitcoin ETFs kick off ‘Uptober’ with $103M inflow
+## 17. Bitcoin ETFs kick off ‘Uptober’ with $103M inflow
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/2/2026, 8:20:08 AM  
@@ -179,7 +215,7 @@ Bitcoin ETFs returned to inflows with $103 million, while Ether funds recorded a
 
 ---
 
-## 15. South Korea crypto exchange profits fall 78% in H1 amid trading slump
+## 18. South Korea crypto exchange profits fall 78% in H1 amid trading slump
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/2/2026, 5:53:27 AM  
@@ -191,7 +227,7 @@ South Korean crypto exchange operating profits fell 78% in the first half of 202
 
 ---
 
-## 16. South Korea advances tokenized securities rules ahead of 2027 rollout
+## 19. South Korea advances tokenized securities rules ahead of 2027 rollout
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/2/2026, 5:08:32 AM  
@@ -203,7 +239,7 @@ South Korea’s financial regulator proposed detailed rules for tokenized securi
 
 ---
 
-## 17. Zano exploiter minted more than a quadrillion fUSD before blockchain rollback
+## 20. Zano exploiter minted more than a quadrillion fUSD before blockchain rollback
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/2/2026, 5:02:23 AM  
@@ -215,7 +251,7 @@ The unauthorized coins were indistinguishable from legitimate ZANO, leaving the 
 
 ---
 
-## 18. Core Lightning warns attackers are targeting unpatched nodes
+## 21. Core Lightning warns attackers are targeting unpatched nodes
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/2/2026, 4:18:43 AM  
@@ -227,7 +263,7 @@ Node operators running version 26.06.7 or earlier were told to upgrade immediate
 
 ---
 
-## 19. Ethereum’s zkAPI brings privacy-preserving API payments to mainnet
+## 22. Ethereum’s zkAPI brings privacy-preserving API payments to mainnet
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/2/2026, 3:34:25 AM  
@@ -239,7 +275,7 @@ Ethereum’s zkAPI is now live on mainnet, turning an earlier zero-knowledge API
 
 ---
 
-## 20. NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum
+## 23. NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/2/2026, 2:02:13 AM  
@@ -251,7 +287,7 @@ Ethereum’s zkAPI is now live on mainnet, turning an earlier zero-knowledge API
 
 ---
 
-## 21. SEC moves to clear custody hurdle for advisers offering crypto
+## 24. SEC moves to clear custody hurdle for advisers offering crypto
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/2/2026, 1:07:08 AM  
