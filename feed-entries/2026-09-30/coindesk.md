@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-09-30"
 date: "2026-09-30"
 source: "CoinDesk"
-count: 12
+count: 6
 ---
 
 # CoinDesk - 2026-09-30
 
-12 items collected.
+6 items collected.
 
 ---
 
@@ -80,77 +80,5 @@ The five-month application window precedes the new regulatory framework’s plan
 Petrobras is testing the blockchain in two research projects aimed at preventing emissions benefits from being counted twice and tracing fuel data across production and use.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel)
-
----
-
-## 7. A stronger dollar is a weaker threat to bitcoin than traders think
-
-**Author:** Omkar Godbole  
-**Published:** 9/30/2026, 11:20:09 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Sept. 30, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think)
-
----
-
-## 8. Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace
-
-**Author:** Shaurya Malwa  
-**Published:** 9/30/2026, 11:04:09 AM  
-**Categories:** Markets, News  
-
-Three transfers pushed about 15% of the stolen ZEC into Ironwood, where payments hide their senders, recipients and amounts.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace)
-
----
-
-## 9. The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’
-
-**Author:** Joris Delanoue  
-**Published:** 9/30/2026, 11:00:00 AM  
-**Categories:** Opinion, Opinion  
-
-If ownership data is split across a token wrapper, a special-purpose vehicle (SPV), a broker’s internal ledger and a transfer agent's off-chain database, we are setting the stage for a Paperwork Crisis for the blockchain age, argues Fairmint’s Joris Delanoue.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis)
-
----
-
-## 10. OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal
-
-**Author:** Shaurya Malwa  
-**Published:** 9/30/2026, 10:43:43 AM  
-**Categories:** Tech, Artificial Intelligence, News  
-
-Six companies signed a safety pact covering hacking and biological threats, with no penalties or deadline for putting the checks in place.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal)
-
----
-
-## 11. Metaplanet directors push back against shareholder fury over a controversial executive payout plan
-
-**Author:** James Van Straten  
-**Published:** 9/30/2026, 10:28:24 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Independent directors cite management’s financial risk and restructuring role, but leave questions about Gerovich’s exercised shares and MMXX Ventures unanswered.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/30/metaplanet-directors-push-back-against-shareholder-fury-over-a-controversial-executive-payout-plan)
-
----
-
-## 12. Live updates: Bitcoin closing out best quarter since 2024, ether its best since 2021
-
-**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Stephen Alpher,Helene Braun  
-**Published:** 9/30/2026, 10:18:34 AM  
-**Categories:** Markets, Live News, live_news  
-
-Crypto prices rose early Wednesday after better-than-forecast inflation data, but gave up those gains as interest rates continued to surge.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings)
 
 ---
