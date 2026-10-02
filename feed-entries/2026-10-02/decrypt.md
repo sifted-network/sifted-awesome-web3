@@ -2,16 +2,52 @@
 title: "Decrypt - 2026-10-02"
 date: "2026-10-02"
 source: "Decrypt"
-count: 2
+count: 5
 ---
 
 # Decrypt - 2026-10-02
 
-2 items collected.
+5 items collected.
 
 ---
 
-## 1. US Designates Russia's A7 Network as Transnational Criminal Organization
+## 1. Bitcoin Heads Higher on Macro Moves: Where Does BTC Go Next?
+
+**Author:** Jose Antonio Lanz  
+**Published:** 10/2/2026, 4:45:52 PM  
+**Categories:** , Markets  
+
+A jobs report miss just erased the odds of an October rate hike, and BTC is now knocking on the door of its yearly ceiling.
+
+📖 [Read original article](https://decrypt.co/379936/bitcoin-heads-higher-fed-jobs-where-does-btc-go-next)
+
+---
+
+## 2. 'Uptober' Off With a Bang as Bitcoin Surges to $86K
+
+**Author:** Decrypt Agent  
+**Published:** 10/2/2026, 12:58:25 PM  
+**Categories:** , Markets  
+
+Cooler inflation and two dovish Fed speakers have shifted the odds toward a rate hold, with payrolls due and CPI landing on October 14.
+
+📖 [Read original article](https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k)
+
+---
+
+## 3. Morning Minute: NEAR Intents Hacked for $3.8M - Was It A Bullish Hack?
+
+**Author:** Tyler Warner  
+**Published:** 10/2/2026, 12:19:00 PM  
+**Categories:** Opinion  
+
+Hacks are never good, but a rapid response, user compensation and 1-hour bug fixing seems to top the spectrum of team reactions.
+
+📖 [Read original article](https://decrypt.co/379929/morning-minute-near-intents-hacked-for-3-8m-was-it-a-bullish-hack)
+
+---
+
+## 4. US Designates Russia's A7 Network as Transnational Criminal Organization
 
 **Author:** Decrypt Agent  
 **Published:** 10/2/2026, 11:28:41 AM  
@@ -23,7 +59,7 @@ Treasury's proposed rule aims to cut A7's front companies off from U.S. finance�
 
 ---
 
-## 2. Spanish Police Arrest 16-Year-Old Accused of Running KillSec Ransomware Group
+## 5. Spanish Police Arrest 16-Year-Old Accused of Running KillSec Ransomware Group
 
 **Author:** Decrypt Agent  
 **Published:** 10/2/2026, 9:12:54 AM  
