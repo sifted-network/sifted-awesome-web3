@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-09-30"
 date: "2026-09-30"
 source: "Cointelegraph"
-count: 10
+count: 7
 ---
 
 # Cointelegraph - 2026-09-30
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ Bitget CEO Gracy Chen said that a protection fund created by the company in 2022
 THORChain will not — or can not — block addresses linked to the $387.5 million Bitget hack. Can the devs be prosecuted for money laundering? It’s complicated, says crypto lawyer Yuriy Brisov.
 
 📖 [Read original article](https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Singapore crypto activity grows 55% as broader region contracts
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 9/30/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-Singapore’s crypto economy grew 55.4% to $284 billion as institutional-platform activity surged 94%, while the Philippines, Thailand and Vietnam stood out for small-value P2P transfers.
-
-📖 [Read original article](https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. FCA opens crypto authorization window ahead of 2027 UK regime
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 9/30/2026, 12:06:04 PM  
-**Categories:** Latest News  
-
-Crypto businesses should apply by Feb. 28, 2027, while existing money laundering registrations will not convert into FCA authorization.
-
-📖 [Read original article](https://cointelegraph.com/news/fca-crypto-authorization-2027-uk-regime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Altcoin exchange deposit count jumps 160% in 2 weeks
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 9/30/2026, 11:23:56 AM  
-**Categories:** Markets  
-
-CryptoQuant flagged potential selling pressure as deposit transactions and depositing addresses hit their highest counts since October 2025.
-
-📖 [Read original article](https://cointelegraph.com/markets/altcoin-exchange-deposits-spike-160-in-two-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
