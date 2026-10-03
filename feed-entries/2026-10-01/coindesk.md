@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-01"
 date: "2026-10-01"
 source: "CoinDesk"
-count: 13
+count: 10
 ---
 
 # CoinDesk - 2026-10-01
 
-13 items collected.
+10 items collected.
 
 ---
 
@@ -128,41 +128,5 @@ Prices briefly topped $85,000 on Wednesday after weaker-than-expected U.S. infla
 Citi also raised its 12-month target for ether from from $2,240 to $3,028.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume)
-
----
-
-## 11. MetaMask security incident forces Ethereum staking exits, no funds at risk
-
-**Author:** Shaurya Malwa  
-**Published:** 10/1/2026, 7:06:30 AM  
-**Categories:** Tech, News  
-
-An Ethereum security researcher estimates about 0.36 ETH in rewards was diverted, while precautionary exits cover validators holding roughly 523,000 ETH.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards)
-
----
-
-## 12. Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps
-
-**Author:** Shaurya Malwa  
-**Published:** 10/1/2026, 4:58:52 AM  
-**Categories:** Tech, News  
-
-DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps)
-
----
-
-## 13. Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall
-
-**Author:** Shaurya Malwa  
-**Published:** 10/1/2026, 4:15:20 AM  
-**Categories:** Markets, News  
-
-A cooler-than-expected PCE report sent bitcoin briefly above $85,000 on Wednesday. Treasury yields held near their highest since 2002 and the gains drained away.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall)
 
 ---
