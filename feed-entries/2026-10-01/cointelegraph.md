@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-01"
 date: "2026-10-01"
 source: "Cointelegraph"
-count: 6
+count: 4
 ---
 
 # Cointelegraph - 2026-10-01
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ The president is scheduled to appear at his golf club in Washington, DC, at a No
 A 50,000-letter campaign is pressing Brussels to rethink stablecoin rewards as EU central banks seek broader changes to MiCA’s stablecoin rules.
 
 📖 [Read original article](https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Illinois will postpone implementation of crypto tax following lawsuit
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 10/1/2026, 6:01:49 PM  
-**Categories:** Latest News  
-
-State officials agreed to delay the 0.2% crypto tax for six months after lawsuits and industry pushback claimed the bill was rushed through the legislature.
-
-📖 [Read original article](https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. New York, Wyoming regulators sign pact to coordinate crypto oversight
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 10/1/2026, 4:12:23 PM  
-**Categories:** Latest News  
-
-The agreement will allow the two state regulators to share supervisory information, streamline licensing reviews and coordinate examinations and enforcement actions involving digital asset firms.
-
-📖 [Read original article](https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
