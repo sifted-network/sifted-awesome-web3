@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-01"
 date: "2026-10-01"
 source: "Cointelegraph"
-count: 4
+count: 3
 ---
 
 # Cointelegraph - 2026-10-01
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Evernorth expects to begin trading on Nasdaq under the ticker XRPN after its SPA
 The president is scheduled to appear at his golf club in Washington, DC, at a Nov. 22 dinner for his top 185 memecoin holders, following similar events in May 2025 and April 2026.
 
 📖 [Read original article](https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. 50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 10/1/2026, 6:45:09 PM  
-**Categories:** Latest News  
-
-A 50,000-letter campaign is pressing Brussels to rethink stablecoin rewards as EU central banks seek broader changes to MiCA’s stablecoin rules.
-
-📖 [Read original article](https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
