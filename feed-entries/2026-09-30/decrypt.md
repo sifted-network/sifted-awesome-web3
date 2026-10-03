@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-09-30"
 date: "2026-09-30"
 source: "Decrypt"
-count: 13
+count: 11
 ---
 
 # Decrypt - 2026-09-30
 
-13 items collected.
+11 items collected.
 
 ---
 
@@ -140,29 +140,5 @@ The one-page pact, which Trump called "morally binding," asks companies to adopt
 The Fed's favorite inflation gauge came in cooler than expected, rate-hike odds fell and Bitcoin traders took the hint.
 
 📖 [Read original article](https://decrypt.co/379705/bitcoin-jumps-cool-pce-inflation-data)
-
----
-
-## 12. Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K
-
-**Author:** Decrypt Agent  
-**Published:** 9/30/2026, 3:17:45 PM  
-**Categories:** , Law and Order  
-
-Paul Chowles took 50 BTC from a Silk Road 2.0 seizure in 2017. Prosecutors have now valued the theft at more than 30 times that.
-
-📖 [Read original article](https://decrypt.co/379702/ex-nca-officer-must-repay-2-4m-for-bitcoin-he-stole-when-it-was-worth-77k)
-
----
-
-## 13. Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders
-
-**Author:** Tyler Warner  
-**Published:** 9/30/2026, 11:54:22 AM  
-**Categories:** , , Opinion  
-
-Robinhood is leaning deeper into crypto as they look to unlock their “everything app” vision.
-
-📖 [Read original article](https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders)
 
 ---
