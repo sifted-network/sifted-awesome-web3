@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-10-04"
 date: "2026-10-04"
 source: "CoinDesk"
-count: 2
+count: 3
 ---
 
 # CoinDesk - 2026-10-04
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Crypto poured years into new products. The next challenge is keeping users
+## 1. There's an election next month: State of Crypto
+
+**Author:** Nikhilesh De  
+**Published:** 10/4/2026, 6:30:00 PM  
+**Categories:** Policy, Newsletters, State of Crypto, Election 2026, News  
+
+Congress is gone from Washington for the final pre-election recess, and it's time to take stock of what's going on ahead of November.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto)
+
+---
+
+## 2. Crypto poured years into new products. The next challenge is keeping users
 
 **Author:** Helene Braun,AI Boost  
 **Published:** 10/4/2026, 2:00:00 PM  
@@ -23,7 +35,7 @@ Crypto firms have spent years building financial products on blockchains. Gettin
 
 ---
 
-## 2. The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking
+## 3. The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking
 
 **Author:** Will Canny  
 **Published:** 10/4/2026, 1:00:00 PM  
