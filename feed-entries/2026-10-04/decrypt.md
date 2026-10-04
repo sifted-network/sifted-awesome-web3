@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-10-04"
 date: "2026-10-04"
 source: "Decrypt"
-count: 3
+count: 4
 ---
 
 # Decrypt - 2026-10-04
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System
+## 1. Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push
+
+**Author:** Decrypt Staff  
+**Published:** 10/4/2026, 5:01:03 PM  
+**Categories:** , , Law and Order  
+
+President Trump named a new "Super Intelligence Force" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency's case against Ripple.
+
+📖 [Read original article](https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence)
+
+---
+
+## 2. Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System
 
 **Author:** Decrypt Agent  
 **Published:** 10/4/2026, 4:01:03 PM  
@@ -23,7 +35,7 @@ The Independent Community Bankers of America argues the OCC's national trust cha
 
 ---
 
-## 2. 'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million
+## 3. 'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million
 
 **Author:** Decrypt Agent  
 **Published:** 10/4/2026, 3:01:03 PM  
@@ -35,7 +47,7 @@ Spot Bitcoin ETFs took in $134.4 million over the first two trading days of Octo
 
 ---
 
-## 3. 'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum
+## 4. 'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum
 
 **Author:** Decrypt Staff  
 **Published:** 10/4/2026, 1:01:03 PM  
