@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-01"
 date: "2026-10-01"
 source: "CoinDesk"
-count: 8
+count: 6
 ---
 
 # CoinDesk - 2026-10-01
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ The euro is losing ground versus the greenback as spiking French bond yields rev
 Both sides agreed the 0.2% tax should be put off until July 1, if the court approves the deal, which will let the state and industry focus on the legal dispute.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle)
-
----
-
-## 7. Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter
-
-**Author:** Omkar Godbole  
-**Published:** 10/1/2026, 11:30:38 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Oct. 1, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter)
-
----
-
-## 8. Synthetic tokenized stocks are bad for American investors
-
-**Author:** Aaron Kaplan  
-**Published:** 10/1/2026, 11:00:00 AM  
-**Categories:** Opinion, Opinion  
-
-U.S. markets are the envy of the world because investors trust that whoever owns a share owns it fully, writes Aaron Kaplan, founder of Promethum. The synthetic models cheapens that trust, shortchanges U.S. investors, and undercuts the issuer-led capital markets model.
-
-📖 [Read original article](https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors)
 
 ---
