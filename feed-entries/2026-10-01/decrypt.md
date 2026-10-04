@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-01"
 date: "2026-10-01"
 source: "Decrypt"
-count: 13
+count: 9
 ---
 
 # Decrypt - 2026-10-01
 
-13 items collected.
+9 items collected.
 
 ---
 
@@ -116,53 +116,5 @@ Bitcoin enters its historically strongest month after a record-pace September, b
 Illinois officials and crypto groups jointly asked a state court to delay the 0.2% Digital Asset Tax from Jan. 1 to July 1, 2027, while a legal challenge continues.
 
 📖 [Read original article](https://decrypt.co/379830/illinois-delays-controversial-crypto-tax)
-
----
-
-## 10. Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/1/2026, 3:43:27 PM  
-**Categories:** Coins  
-
-Near Intents froze its cross-chain swaps after a bug let an attacker drain about $3.8 million. The company promised to repay every user.
-
-📖 [Read original article](https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker)
-
----
-
-## 11. Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown
-
-**Author:** Decrypt Agent  
-**Published:** 10/1/2026, 1:22:58 PM  
-**Categories:** Gaming  
-
-The guidelines exclude cryptocurrencies, leaving tokens outside a regime written for currencies bought with real money inside games.
-
-📖 [Read original article](https://decrypt.co/379813/minecraft-candy-crush-among-11-games-in-eu-virtual-currency-crackdown)
-
----
-
-## 12. Morning Minute: Crypto Gives Up on Congress and Goes After Senators
-
-**Author:** Tyler Warner  
-**Published:** 10/1/2026, 12:29:00 PM  
-**Categories:** , , Opinion  
-
-Plus, a major MetaMask security event has crypto natives on edge as details trickle out.
-
-📖 [Read original article](https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators)
-
----
-
-## 13. Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K
-
-**Author:** Decrypt Agent  
-**Published:** 10/1/2026, 12:23:15 PM  
-**Categories:** , , Markets  
-
-The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record.
-
-📖 [Read original article](https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k)
 
 ---
