@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-01"
 date: "2026-10-01"
 source: "CoinDesk"
-count: 6
+count: 2
 ---
 
 # CoinDesk - 2026-10-01
 
-6 items collected.
+2 items collected.
 
 ---
 
@@ -32,53 +32,5 @@ The regulator issued a proposed rule for custody, marking a swan song for its in
 The company managing the memecoin calls the November event the "most exclusive dinner in the world."
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors)
-
----
-
-## 3. Crypto for Advisors: The CLARITY Act failed, but the rules came anyway
-
-**Author:** Alex Tapscott,Leo Mindyuk  
-**Published:** 10/1/2026, 3:00:00 PM  
-**Categories:** CoinDesk Indices, Crypto for Advisors, News  
-
-
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway)
-
----
-
-## 4. NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues
-
-**Author:** Krisztian Sandor  
-**Published:** 10/1/2026, 2:18:14 PM  
-**Categories:** Tech, Hack, News  
-
-The popular cross-chain trading system said Friday the exploiter returned all stolen assets a day later a bug affected deposits and withdrawals across several networks.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues)
-
----
-
-## 5. Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report
-
-**Author:** Stephen Alpher  
-**Published:** 10/1/2026, 11:59:17 AM  
-**Categories:** Tech, Live News, live_news  
-
-The euro is losing ground versus the greenback as spiking French bond yields revive memories of the European sovereign debt crisis.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024)
-
----
-
-## 6. Illinois agrees to six-month delay of crypto tax as industry continues court battle
-
-**Author:** Jesse Hamilton  
-**Published:** 10/1/2026, 11:58:00 AM  
-**Categories:** Policy, Tax, Exclusive, Breaking News, News  
-
-Both sides agreed the 0.2% tax should be put off until July 1, if the court approves the deal, which will let the state and industry focus on the legal dispute.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle)
 
 ---
