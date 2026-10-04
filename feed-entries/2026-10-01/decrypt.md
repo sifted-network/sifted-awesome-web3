@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-01"
 date: "2026-10-01"
 source: "Decrypt"
-count: 15
+count: 13
 ---
 
 # Decrypt - 2026-10-01
 
-15 items collected.
+13 items collected.
 
 ---
 
@@ -164,29 +164,5 @@ Plus, a major MetaMask security event has crypto natives on edge as details tric
 The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record.
 
 📖 [Read original article](https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k)
-
----
-
-## 14. MetaMask Exits Lido Validators Amid Infrastructure ‘Security Incident’
-
-**Author:** Decrypt Agent  
-**Published:** 10/1/2026, 9:38:06 AM  
-**Categories:** , Technology  
-
-The wallet says it has found no immediate threat to user wallets, but the ETH it is pulling out of Lido could take 45 days to return.
-
-📖 [Read original article](https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident)
-
----
-
-## 15. EU Presses Binance Over ‘Reverse Solicitation’ Exemption for Users: Report
-
-**Author:** Decrypt Agent  
-**Published:** 10/1/2026, 8:56:02 AM  
-**Categories:** Business  
-
-Regulators are probing how the exchange keeps serving EU customers from Abu Dhabi, months after it lost its MiCA registrations.
-
-📖 [Read original article](https://decrypt.co/379792/eu-presses-binance-over-reverse-solicitation-exemption-for-users-report)
 
 ---
