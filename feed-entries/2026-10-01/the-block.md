@@ -27,7 +27,7 @@ SEC proposed a crypto framework for investment advisers & funds, allowing self-c
 
 **Author:** Zack Abrams  
 **Published:** 10/1/2026, 7:10:36 PM  
-**Categories:** Crypto Ecosystems, International Policymaking, Markets, Policy, Regulation, Stablecoins, Token Projects, European Commission, USDC, News  
+**Categories:** Crypto Ecosystems, International Policymaking, Markets, Policy, Regulation, Stablecoins, Token Projects, European Commission, Eurozone Regulation, Hyperliquid, Perpetuals, USDC, News  
 
 Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review.
 
@@ -39,7 +39,7 @@ Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA
 
 **Author:** Zack Abrams  
 **Published:** 10/1/2026, 4:17:23 PM  
-**Categories:** Crypto Ecosystems, DeFi, Layer 1s, Markets, Token Projects, Ethereum, News  
+**Categories:** Crypto Ecosystems, DeFi, Layer 1s, Markets, Token Projects, Ethereum, Staking, Validators, News  
 
 Co-author Jérôme de Tychey said industry participants and core contributors convinced him a scoping process was the wrong venue for an issuance change.
 
@@ -51,7 +51,7 @@ Co-author Jérôme de Tychey said industry participants and core contributors co
 
 **Author:** Jason Shubnell  
 **Published:** 10/1/2026, 3:17:11 PM  
-**Categories:** Companies, Deals, Markets, Token Projects, XRP, News  
+**Categories:** Companies, Deals, Markets, Token Projects, Crypto Treasuries, SPACs, XRP, News  
 
 Armada Acquisition Corp. II shareholders approved the Evernorth merger. The XRP treasury company expects to hold ~473M XRP.
 
@@ -75,7 +75,7 @@ NEAR Intents patched the contract flaw, but deposits and withdrawals on 11 netwo
 
 **Author:** Brian Danga  
 **Published:** 10/1/2026, 1:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, News  
+**Categories:** Companies, Crypto Ecosystems, Deals, DEXs, Robinhood, Tokenization, Wallets, News  
 
 Robinhood Wallet adds Arcus as a routing provider for Stock Token swaps, giving eligible users access to more than 190 tokens.
 
@@ -87,7 +87,7 @@ Robinhood Wallet adds Arcus as a routing provider for Stock Token swaps, giving 
 
 **Author:** James Hunt  
 **Published:** 10/1/2026, 12:17:06 PM  
-**Categories:** Crypto Ecosystems, Funds, Layer 1s, Markets, Token Projects, Bitcoin, Bitcoin ETF, News  
+**Categories:** Crypto Ecosystems, Funds, Layer 1s, Markets, Token Projects, Bitcoin, Bitcoin ETF, Ethereum ETF, News  
 
 Meanwhile, U.S. spot Ethereum ETFs saw $59.6 million in net outflows on Wednesday, led by $26.6 million exiting Fidelity's FETH fund.
 
@@ -99,7 +99,7 @@ Meanwhile, U.S. spot Ethereum ETFs saw $59.6 million in net outflows on Wednesda
 
 **Author:** James Hunt  
 **Published:** 10/1/2026, 11:13:46 AM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Markets, Stablecoins, Token Projects, TradFi banks, USDC, News  
+**Categories:** Companies, Crypto Ecosystems, Finance firms, Markets, Stablecoins, Token Projects, Payments, TradFi banks, USDC, News  
 
 Lloyds used USDC to settle $750,000 of payment obligations with Visa during a seven-day live cross-border pilot.
 
