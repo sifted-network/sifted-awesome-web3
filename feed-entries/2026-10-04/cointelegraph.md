@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-10-04"
 date: "2026-10-04"
 source: "Cointelegraph"
-count: 5
+count: 6
 ---
 
 # Cointelegraph - 2026-10-04
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 10/4/2026, 10:31:12 PM  
+**Categories:** Magazine  
+
+Roman Storm and the XRP army aren’t happy former SEC boss Jay Clayton is Trump’s new AI czar, Peter Brandt flips bullish and says Bitcoin may reach as high as $600K by 2029.
+
+📖 [Read original article](https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 10/4/2026, 6:51:50 PM  
@@ -23,7 +35,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Trump taps intel chief Jay Clayton to lead new Super Intelligence Force
+## 3. Trump taps intel chief Jay Clayton to lead new Super Intelligence Force
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 10/4/2026, 1:48:48 PM  
@@ -35,7 +47,7 @@ President Donald Trump said US intel chief Clayton will lead the SIF, reporting 
 
 ---
 
-## 3. Japan adds Garantex to list of Russia sanctions over Ukraine war
+## 4. Japan adds Garantex to list of Russia sanctions over Ukraine war
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/4/2026, 12:42:00 PM  
@@ -47,7 +59,7 @@ Garantex was previously sanctioned by the US, the EU and other jurisdictions for
 
 ---
 
-## 4. El Salvador receives $138 million from IMF after Bitcoin waivers granted
+## 5. El Salvador receives $138 million from IMF after Bitcoin waivers granted
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/4/2026, 9:40:00 AM  
@@ -59,7 +71,7 @@ Efforts will continue to reduce the state’s involvement in Bitcoin-related act
 
 ---
 
-## 5. Russia’s Finance Ministry pays wages in digital rubles for first time
+## 6. Russia’s Finance Ministry pays wages in digital rubles for first time
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/4/2026, 7:18:00 AM  
