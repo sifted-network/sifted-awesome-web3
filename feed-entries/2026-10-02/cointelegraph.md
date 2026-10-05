@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-02"
 date: "2026-10-02"
 source: "Cointelegraph"
-count: 22
+count: 20
 ---
 
 # Cointelegraph - 2026-10-02
 
-22 items collected.
+20 items collected.
 
 ---
 
@@ -248,29 +248,5 @@ The unauthorized coins were indistinguishable from legitimate ZANO, leaving the 
 Node operators running version 26.06.7 or earlier were told to upgrade immediately.
 
 📖 [Read original article](https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Ethereum’s zkAPI brings privacy-preserving API payments to mainnet
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/2/2026, 3:34:25 AM  
-**Categories:** Latest News  
-
-Ethereum’s zkAPI is now live on mainnet, turning an earlier zero-knowledge API payment proposal into a working implementation for private, prepaid access.
-
-📖 [Read original article](https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/2/2026, 2:02:13 AM  
-**Categories:** Latest News  
-
-“We have identified you, sir,” NEAR Intents general manager Alex Shevchenko said on Friday after the protocol was hacked for $3.8 million.
-
-📖 [Read original article](https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
