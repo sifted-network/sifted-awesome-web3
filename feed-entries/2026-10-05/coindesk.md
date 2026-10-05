@@ -2,16 +2,64 @@
 title: "CoinDesk - 2026-10-05"
 date: "2026-10-05"
 source: "CoinDesk"
-count: 15
+count: 19
 ---
 
 # CoinDesk - 2026-10-05
 
-15 items collected.
+19 items collected.
 
 ---
 
-## 1. An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger
+## 1. Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on
+
+**Author:** Jesse Hamilton  
+**Published:** 10/5/2026, 7:21:06 PM  
+**Categories:** Policy, Election 2026, PACs, News  
+
+The super PAC shared a list of more than 30 incumbent candidates it's backing, with about a million dollars going to three names from each party.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on)
+
+---
+
+## 2. More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works
+
+**Author:** Helene Braun,Krisztian Sandor  
+**Published:** 10/5/2026, 5:18:14 PM  
+**Categories:** Markets, Tokenization, NYSE, OKX, News  
+
+The planned 24/7 venue will offer dozens of tokenized U.S. stocks, with trades conducted against stablecoins through blockchain-based liquidity pools rather than a traditional order book.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works)
+
+---
+
+## 3. U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers
+
+**Author:** Jesse Hamilton  
+**Published:** 10/5/2026, 3:54:23 PM  
+**Categories:** Policy, Regulation, Derivatives, News  
+
+The derivatives regulator is proposing two rules meant to cover the waterfront of crypto activity and exchanges, as long as it's not simple, direct trading.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers)
+
+---
+
+## 4. Stripe to expand stablecoin cards to over 100 countries by the end of the year
+
+**Author:** Krisztian Sandor  
+**Published:** 10/5/2026, 1:46:31 PM  
+**Categories:** Finance, Stripe, Stablecoins, Exclusive, News  
+
+The payments giant is planning a major global expansion for its stablecoin cards business, and is exploring tokenized deposits and DeFi use cases, new crypto head Henri Stern said.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year)
+
+---
+
+## 5. An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger
 
 **Author:** Shaurya Malwa  
 **Published:** 10/5/2026, 12:28:35 PM  
@@ -23,7 +71,7 @@ Armada Acquisition Corp. II rose about 270% last week, leaving the thinly traded
 
 ---
 
-## 2. SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings
+## 6. SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings
 
 **Author:** Omkar Godbole  
 **Published:** 10/5/2026, 11:14:35 AM  
@@ -35,7 +83,7 @@ Your day-ahead look for Oct. 5, 2026
 
 ---
 
-## 3. Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network
+## 7. Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network
 
 **Author:** Olivier Acuna  
 **Published:** 10/5/2026, 11:08:03 AM  
@@ -47,7 +95,7 @@ The Treasury Department said the network raised more than $2 million through pur
 
 ---
 
-## 4. Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC
+## 8. Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC
 
 **Author:** James Van Straten  
 **Published:** 10/5/2026, 10:58:03 AM  
@@ -59,7 +107,7 @@ The Japanese firm sold 10,000 BTC before buying 11,000 BTC, demonstrating liquid
 
 ---
 
-## 5. Bitcoin resilience tested as U.S. dollar climbs to 18-month high
+## 9. Bitcoin resilience tested as U.S. dollar climbs to 18-month high
 
 **Author:** James Van Straten  
 **Published:** 10/5/2026, 10:44:55 AM  
@@ -71,19 +119,19 @@ A stronger dollar and rising bond yields could be headwinds as fiscal concerns i
 
 ---
 
-## 6. Live updates: Bitcoin above $86,000 as traders price out an October Fed hike
+## 10. Live updates: Bitcoin under pressure as rates continue to rise
 
-**Author:** Shaurya Malwa,Omkar Godbole  
+**Author:** Shaurya Malwa,Omkar Godbole,Stephen Alpher,James Van Straten  
 **Published:** 10/5/2026, 10:39:57 AM  
 **Categories:** Finance, Live News, live_news  
 
-A weak September jobs report may have taken a rate hike off the table, but bitcoin is still stuck below $87,000, with FOMC minutes due Wednesday.
+Friday's soft employment report alone isn't likely to push the Fed off its rate-hike cycle.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike)
 
 ---
 
-## 7. Cardano's ADA leads gains in narrow range-bound market
+## 11. Cardano's ADA leads gains in narrow range-bound market
 
 **Author:** Omkar Godbole  
 **Published:** 10/5/2026, 10:37:30 AM  
@@ -95,7 +143,7 @@ In traditional markets, the U.S. Dollar Index jumped to 102.53 early today, the 
 
 ---
 
-## 8. Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead
+## 12. Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 10/5/2026, 9:37:13 AM  
@@ -107,7 +155,7 @@ Your look at what's coming in the week starting Oct. 5.
 
 ---
 
-## 9. Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement
+## 13. Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement
 
 **Author:** Olivier Acuna  
 **Published:** 10/5/2026, 9:26:24 AM  
@@ -119,7 +167,7 @@ The two firms will initially roll out the digital assets settlement service to s
 
 ---
 
-## 10. Bitcoin is about to get a major bullish signal it hasn't had in over a year
+## 14. Bitcoin is about to get a major bullish signal it hasn't had in over a year
 
 **Author:** Omkar Godbole  
 **Published:** 10/5/2026, 6:57:40 AM  
@@ -131,7 +179,7 @@ Key price averages are on the verge of confirming a major bullish configuration 
 
 ---
 
-## 11. Ethereum investors are stuck in a two-week staking exit line. Here's why.
+## 15. Ethereum investors are stuck in a two-week staking exit line. Here's why.
 
 **Author:** Shaurya Malwa  
 **Published:** 10/5/2026, 6:40:29 AM  
@@ -143,7 +191,7 @@ Ether waiting to enter staking has fallen by more than a quarter since early Sep
 
 ---
 
-## 12. Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading
+## 16. Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 10/5/2026, 4:45:03 AM  
@@ -155,7 +203,7 @@ OKXICE, the joint venture of OKX and ICE, plans to launch tokenized U.S. stocks 
 
 ---
 
-## 13. Zcash’s 25-second blocks go live on public testnet ahead of schedule
+## 17. Zcash’s 25-second blocks go live on public testnet ahead of schedule
 
 **Author:** Shaurya Malwa  
 **Published:** 10/5/2026, 4:41:35 AM  
@@ -167,7 +215,7 @@ NU7 cuts the target block time from 75 seconds to 25, giving exchanges, wallets 
 
 ---
 
-## 14. Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses
+## 18. Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses
 
 **Author:** Shaurya Malwa  
 **Published:** 10/5/2026, 4:23:25 AM  
@@ -179,7 +227,7 @@ Bitcoin came within about $500 of its late-September peak before sellers pushed 
 
 ---
 
-## 15. Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.
+## 19. Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.
 
 **Author:** Omkar Godbole  
 **Published:** 10/5/2026, 3:50:29 AM  
