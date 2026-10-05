@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-04"
 date: "2026-10-04"
 source: "Cointelegraph"
-count: 6
+count: 5
 ---
 
 # Cointelegraph - 2026-10-04
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ Roman Storm and the XRP army aren’t happy former SEC boss Jay Clayton is Trump
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Robert Lakin  
-**Published:** 10/4/2026, 6:51:50 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Trump taps intel chief Jay Clayton to lead new Super Intelligence Force
+## 2. Trump taps intel chief Jay Clayton to lead new Super Intelligence Force
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 10/4/2026, 1:48:48 PM  
@@ -47,7 +35,7 @@ President Donald Trump said US intel chief Clayton will lead the SIF, reporting 
 
 ---
 
-## 4. Japan adds Garantex to list of Russia sanctions over Ukraine war
+## 3. Japan adds Garantex to list of Russia sanctions over Ukraine war
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/4/2026, 12:42:00 PM  
@@ -59,7 +47,7 @@ Garantex was previously sanctioned by the US, the EU and other jurisdictions for
 
 ---
 
-## 5. El Salvador receives $138 million from IMF after Bitcoin waivers granted
+## 4. El Salvador receives $138 million from IMF after Bitcoin waivers granted
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/4/2026, 9:40:00 AM  
@@ -71,7 +59,7 @@ Efforts will continue to reduce the state’s involvement in Bitcoin-related act
 
 ---
 
-## 6. Russia’s Finance Ministry pays wages in digital rubles for first time
+## 5. Russia’s Finance Ministry pays wages in digital rubles for first time
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/4/2026, 7:18:00 AM  
