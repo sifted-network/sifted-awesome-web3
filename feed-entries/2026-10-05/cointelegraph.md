@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-05"
 date: "2026-10-05"
 source: "Cointelegraph"
-count: 21
+count: 19
 ---
 
 # Cointelegraph - 2026-10-05
 
-21 items collected.
+19 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ The payments infrastructure company is seeking federal approval to offer stablec
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 10/5/2026, 7:25:00 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Advocacy group pushes back on banks’ lawsuit against OCC over charters
+## 4. Advocacy group pushes back on banks’ lawsuit against OCC over charters
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/5/2026, 7:15:22 PM  
@@ -71,7 +59,7 @@ CCI CEO Ji Hun Kim said that the organization “remains confident“ in the OCC
 
 ---
 
-## 6. S&P Global brings risk assessments to growing crypto lending vault sector
+## 5. S&P Global brings risk assessments to growing crypto lending vault sector
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/5/2026, 5:58:58 PM  
@@ -83,7 +71,7 @@ S&P Global’s new framework evaluates digital asset lending vaults across six r
 
 ---
 
-## 7. CFTC joins SEC in proposing crypto framework after failed CLARITY vote
+## 6. CFTC joins SEC in proposing crypto framework after failed CLARITY vote
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/5/2026, 5:40:23 PM  
@@ -95,7 +83,7 @@ CFTC Chair Michael Selig claimed that the agency was using its “existing statu
 
 ---
 
-## 8. Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017
+## 7. Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/5/2026, 4:53:08 PM  
@@ -107,7 +95,7 @@ Weak US jobs data has narrowed expectations for another Fed hike in October, off
 
 ---
 
-## 9. Bitcoin price fails to break higher after best weekly close in eight months
+## 8. Bitcoin price fails to break higher after best weekly close in eight months
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/5/2026, 3:09:57 PM  
@@ -119,7 +107,7 @@ Bitcoin’s highest weekly close in eight months formed low-timeframe resistance
 
 ---
 
-## 10. Metaplanet reveals net income strategy to fuel Bitcoin accumulation
+## 9. Metaplanet reveals net income strategy to fuel Bitcoin accumulation
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/5/2026, 1:47:17 PM  
@@ -131,7 +119,7 @@ Metaplanet revealed a revised capital allocation framework proposing to allocate
 
 ---
 
-## 11. Strategy opts for bigger spending on STRC buybacks over BTC purchases
+## 10. Strategy opts for bigger spending on STRC buybacks over BTC purchases
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/5/2026, 1:22:16 PM  
@@ -143,7 +131,7 @@ Strategy bought 334 Bitcoin for $28.7 million last week while spending $176.3 mi
 
 ---
 
-## 12. China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis
+## 11. China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/5/2026, 1:00:00 PM  
@@ -155,7 +143,7 @@ Unique wallets sending P2P stablecoin transactions in China grew 43-fold between
 
 ---
 
-## 13. Too big to pause: Could an AI slowdown crash the economy?
+## 12. Too big to pause: Could an AI slowdown crash the economy?
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 10/5/2026, 12:30:00 PM  
@@ -167,7 +155,7 @@ Calls to slow down development of the most powerful AI models are colliding with
 
 ---
 
-## 14. Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid
+## 13. Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/5/2026, 10:11:26 AM  
@@ -179,7 +167,7 @@ The Ohio Republican candidate holds a stake in a digital asset manager and recei
 
 ---
 
-## 15. BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week
+## 14. BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/5/2026, 9:08:09 AM  
@@ -191,7 +179,7 @@ Bitcoin bulls renewed pressure on range highs with the 2026 yearly open forming 
 
 ---
 
-## 16. Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank
+## 15. Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/5/2026, 8:56:10 AM  
@@ -203,7 +191,7 @@ The partnership will enable select institutions in Asia and the Gulf region to i
 
 ---
 
-## 17. Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M
+## 16. Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/5/2026, 8:00:49 AM  
@@ -215,7 +203,7 @@ Bitcoin ETF inflows reached a third straight week, while Ether ETFs swung to out
 
 ---
 
-## 18. Zcash activates NU7 on testnet ahead of November mainnet target
+## 17. Zcash activates NU7 on testnet ahead of November mainnet target
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/5/2026, 3:47:19 AM  
@@ -227,7 +215,7 @@ Zcash’s NU7 upgrade is now live on testnet, giving developers several weeks to
 
 ---
 
-## 19. OKX, NYSE parent file to launch tokenized US stock platform
+## 18. OKX, NYSE parent file to launch tokenized US stock platform
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/5/2026, 3:44:09 AM  
@@ -239,7 +227,7 @@ The stock trading platform seeks to offer tokenized shares in more than 60 US-li
 
 ---
 
-## 20. Safe investor asks Swiss watchdog to intervene in governance dispute
+## 19. Safe investor asks Swiss watchdog to intervene in governance dispute
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/5/2026, 3:12:21 AM  
@@ -248,17 +236,5 @@ The stock trading platform seeks to offer tokenized shares in more than 60 US-li
 Greenfield Capital said it sought changes to Safe Ecosystem Foundation’s board for months before turning to the Swiss regulator.
 
 📖 [Read original article](https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Zcash gets a Washington lobbyist to push crypto policy
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/5/2026, 12:35:34 AM  
-**Categories:** Latest News  
-
-The newly registered lobbying operation lists the CLARITY Act and two digital asset tax proposals among the issues it plans to lobby on in Washington.
-
-📖 [Read original article](https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
