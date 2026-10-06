@@ -2,16 +2,220 @@
 title: "Cointelegraph - 2026-10-06"
 date: "2026-10-06"
 source: "Cointelegraph"
-count: 11
+count: 27
 ---
 
 # Cointelegraph - 2026-10-06
 
-11 items collected.
+27 items collected.
 
 ---
 
-## 1. Hong Kong officials double down on end-2026 deadline for crypto licensing bill
+## 1. Conduit sues Tether over allegedly freezing $2.8M without explanation
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/6/2026, 9:00:44 PM  
+**Categories:** Latest News  
+
+The lawsuit alleged that Tether froze USDt funds in a Conduit wallet tied to an investigation launched by Brazilian authorities in 2024.
+
+📖 [Read original article](https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/6/2026, 8:53:19 PM  
+**Categories:** Latest News  
+
+The proposed fund would hold ZEC directly, with Gemini Trust serving as custodian and Winklevoss Capital affiliates eyeing up to a $100 million investment.
+
+📖 [Read original article](https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 10/6/2026, 8:48:12 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. UK names 6 banks to lead first digitally native government bond
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/6/2026, 7:19:00 PM  
+**Categories:** Latest News  
+
+The DIGIT pilot will test distributed ledger technology and onchain settlement for UK sovereign debt, with issuance expected by the first quarter of 2027.
+
+📖 [Read original article](https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 10/6/2026, 6:19:35 PM  
+**Categories:** Latest News  
+
+The digital ruble’s early uptake comes as BRICS nations explore linking their digital currencies for cross-border trade and payments.
+
+📖 [Read original article](https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Bill aims at stopping US lawmaker bets on their own elections ahead of midterms
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/6/2026, 5:59:32 PM  
+**Categories:** Latest News  
+
+The No Betting on Your Own Race Act will not be addressed before the 2026 US midterms as Congress is on recess until after the election.
+
+📖 [Read original article](https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Affluent investors seen boosting crypto exposure: Survey
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/6/2026, 5:30:18 PM  
+**Categories:** Latest News  
+
+Most affluent investors across seven countries own and are increasing their crypto holdings despite financial advisers who remain overly cautious about digital assets.
+
+📖 [Read original article](https://cointelegraph.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Bitcoin grinds toward $87K as US equities hit new record highs
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 10/6/2026, 5:19:58 PM  
+**Categories:** Markets  
+
+Bitcoin price action was kept in check by overhead ask liquidity while US stocks broke out to new all-time highs.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Securitize stock jumps 8% amid South Korea tokenization push
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 10/6/2026, 5:04:41 PM  
+**Categories:** Latest News  
+
+The LG CNS partnership gives Securitize a foothold as the Seoul prepares new rules for tokenized stocks, bonds and funds beginning in February 2027.
+
+📖 [Read original article](https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 10. ECB policymaker warns of fragmentation without digital euro
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/6/2026, 4:32:57 PM  
+**Categories:** Latest News  
+
+A ECB executive board member said the potential introduction of a digital euro would not ”take over the role of banks,” but ensure they have a role in the EU’s monetary system.
+
+📖 [Read original article](https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 11. Ripple expands Brevan Howard deal with prime brokerage services
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/6/2026, 3:24:51 PM  
+**Categories:** Latest News  
+
+Ripple Prime will provide prime brokerage, clearing and financing services to funds managed by the $35 billion alternative investment manager.
+
+📖 [Read original article](https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 12. Ethereum’s Glamsterdam upgrade launches on Sepolia testnet
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 10/6/2026, 2:00:00 PM  
+**Categories:** Latest News  
+
+Sepolia marks one of the final major rehearsals before the final activation of Glamsterdam, aimed at bringing more efficiency and scalability to the Ethereum mainnet.
+
+📖 [Read original article](https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 13. OKX exchange raises fresh capital at $25B valuation
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 10/6/2026, 1:32:32 PM  
+**Categories:** Latest News  
+
+OKX raised an undisclosed amount at a $25 billion valuation as an extension to March’s investment round led by the parent company of the New York Stock Exchange.
+
+📖 [Read original article](https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 14. Capital starting to rotate back to crypto from AI: Raoul Pal
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 10/6/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+Real Vision founder Raoul Pal says a pause in the AI stock rally could help crypto attract capital, while AI agents are likely to boost Ethereum and Solana adoption.
+
+📖 [Read original article](https://cointelegraph.com/magazine/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 15. US crypto rules need to survive the next election
+
+**Author:** Cointelegraph by Andrew M. Cuomo  
+**Published:** 10/6/2026, 1:00:00 PM  
+**Categories:** Opinion  
+
+US crypto rules could be vulnerable to political change after the midterms. Former New York Gov. Andrew Cuomo argues Congress needs to pass durable, bipartisan legislation.
+
+📖 [Read original article](https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 16. Paxos’ $3B USDG stablecoin launches on Arbitrum
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/6/2026, 1:00:00 PM  
+**Categories:** Latest News  
+
+Paxos’ USDG stablecoin is now live on Arbitrum as the network proposes 100 million ARB in incentives to support adoption and liquidity.
+
+📖 [Read original article](https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 17. Polymarket overhauls smart contracts with new Protocol V2 rollout
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 10/6/2026, 12:54:15 PM  
+**Categories:** Latest News  
+
+Polymarket begins its Protocol V2 rollout ahead of a planned November transition for new prediction markets, while existing positions remain on the current system.
+
+📖 [Read original article](https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 18. Hong Kong officials double down on end-2026 deadline for crypto licensing bill
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/6/2026, 10:16:55 AM  
@@ -23,7 +227,7 @@ Hong Kong regulators plan to establish a licensing regime for four categories, i
 
 ---
 
-## 2. Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins
+## 19. Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/6/2026, 9:59:12 AM  
@@ -35,7 +239,7 @@ Binance BTC reserves fell by nearly 40,000 coins since Sept. 20 as whales return
 
 ---
 
-## 3. Ondo opens private markets with tokenized pre-IPO AI exposure
+## 20. Ondo opens private markets with tokenized pre-IPO AI exposure
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/6/2026, 9:21:38 AM  
@@ -47,7 +251,7 @@ Ondo’s tokenized notes will give eligible investors exposure to private compan
 
 ---
 
-## 4. Solana Foundation targets settlement in seconds with DvP launch
+## 21. Solana Foundation targets settlement in seconds with DvP launch
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/6/2026, 9:11:26 AM  
@@ -59,7 +263,7 @@ Solana DvP offers financial institutions an open-source settlement program desig
 
 ---
 
-## 5. Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH
+## 22. Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/6/2026, 8:14:17 AM  
@@ -71,7 +275,7 @@ US spot Bitcoin ETFs reversed two days of inflows as Bitcoin slipped below $86,0
 
 ---
 
-## 6. EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum
+## 23. EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/6/2026, 7:09:33 AM  
@@ -83,19 +287,7 @@ An EEZ contributor shared a 0.001 ETH cross-chain test as the project develops a
 
 ---
 
-## 7. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/6/2026, 6:00:00 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto
+## 24. Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/6/2026, 5:43:50 AM  
@@ -107,7 +299,7 @@ Better Markets said the CFTC’s proposed framework to bring certain cryptocurre
 
 ---
 
-## 9. Rain seeks US trust bank charter days after OCC sued over crypto charters
+## 25. Rain seeks US trust bank charter days after OCC sued over crypto charters
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/6/2026, 3:45:40 AM  
@@ -119,7 +311,7 @@ Rain joins a growing queue of crypto firms seeking federal trust charters, while
 
 ---
 
-## 10. OKX eyes emerging markets with yield-offering stablecoin savings and payments app
+## 26. OKX eyes emerging markets with yield-offering stablecoin savings and payments app
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/6/2026, 3:40:00 AM  
@@ -131,7 +323,7 @@ OKX Money lets users hold, send and spend dollar-backed stablecoins, with qualif
 
 ---
 
-## 11. Chinese crime network laundered over $1B for Lazarus: ZachXBT
+## 27. Chinese crime network laundered over $1B for Lazarus: ZachXBT
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/6/2026, 1:47:24 AM  
