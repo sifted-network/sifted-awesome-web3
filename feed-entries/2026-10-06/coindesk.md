@@ -2,16 +2,76 @@
 title: "CoinDesk - 2026-10-06"
 date: "2026-10-06"
 source: "CoinDesk"
-count: 10
+count: 15
 ---
 
 # CoinDesk - 2026-10-06
 
-10 items collected.
+15 items collected.
 
 ---
 
-## 1. The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet
+## 1. Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil
+
+**Author:** Aoyon Ashraf  
+**Published:** 10/6/2026, 5:00:00 PM  
+**Categories:** Finance, Fundraising, News  
+
+Pantera Capital and Bullish also participated in the ANVL purchase as Anvil rolls out software designed to make its collateral protocol easier for businesses to integrate.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil)
+
+---
+
+## 2. Crypto is expanding the boundaries of what can be priced
+
+**Author:** Annabelle Huang  
+**Published:** 10/6/2026, 4:50:26 PM  
+**Categories:** Opinion, Opinion  
+
+The future of crypto may therefore depend less on creating the next novel asset and more on building the infrastructure required to price a growing universe of existing ones, argues Altius co-founder and CEO Annabelle Huang.
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced)
+
+---
+
+## 3. OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots
+
+**Author:** Krisztian Sandor,Helene Braun  
+**Published:** 10/6/2026, 3:20:30 PM  
+**Categories:** Finance, OKX, Standard chartered, Circle, Ripple, News  
+
+The exchange is increasingly aiming to position itself as a global financial tech platform spanning crypto, payments and tokenized assets, following an investment and joint venture with NYSE parent ICE.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots)
+
+---
+
+## 4. Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth
+
+**Author:** Krisztian Sandor  
+**Published:** 10/6/2026, 1:02:33 PM  
+**Categories:** Finance, Ethereum News, Stablecoins, News  
+
+The Ethereum layer-2 is backing Paxos-issued USDG to earn a share of reserve income as new stablecoin alliances compete for distribution, users and reserve economics.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth)
+
+---
+
+## 5. Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme
+
+**Author:** Olivier Acuna  
+**Published:** 10/6/2026, 12:31:51 PM  
+**Categories:** Policy, Fraud, Crime, News  
+
+Adam Iza’s sentence runs concurrently with a 15-year term imposed last month for his role in an attempted bitcoin robbery.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case)
+
+---
+
+## 6. The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet
 
 **Author:** Omkar Godbole  
 **Published:** 10/6/2026, 11:30:00 AM  
@@ -23,9 +83,9 @@ Your day-ahead look for Oct. 6, 2026
 
 ---
 
-## 2. Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat
+## 7. Live updates: Bitcoin remains locked in range as stocks notch another new record high
 
-**Author:** Shaurya Malwa  
+**Author:** Shaurya Malwa,James Van Straten,Helene Braun,Stephen Alpher  
 **Published:** 10/6/2026, 10:35:49 AM  
 **Categories:** Markets, Live News, live_news  
 
@@ -35,7 +95,7 @@ FxPro says a slide below $84,000 would hand control to sellers and put $80,000 i
 
 ---
 
-## 3. Smaller altcoins shine as bitcoin stills trades around $85,000
+## 8. Smaller altcoins shine as bitcoin stills trades around $85,000
 
 **Author:** Omkar Godbole  
 **Published:** 10/6/2026, 10:30:00 AM  
@@ -47,7 +107,7 @@ Leading the gains is BTW, the native token of Bitway, a bitcoin-compatible layer
 
 ---
 
-## 4. U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs
+## 9. U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 10/6/2026, 9:25:36 AM  
@@ -59,19 +119,19 @@ DeepSeek and Moonshot attract fresh capital ahead of planned listings, while Ope
 
 ---
 
-## 5. OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app
+## 10. OKX looks to abstract blockchain mechanics to bring stablecoin balances to everyday consumers
 
-**Author:** Olivier Acuna  
+**Author:** Olivier Acuna,AI Boost  
 **Published:** 10/6/2026, 9:02:01 AM  
 **Categories:** Finance, OKX, Stablecoins, News  
 
-he product converts more than 50 local currencies into stablecoins, offers rewards of up to 10% on eligible USDG balances and includes virtual and physical payment cards.
+OKX appears to be designing products to keep the blockchain element abstracted or out of sight for users who simply want to hold digital dollars and use a card.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app)
 
 ---
 
-## 6. Why bitcoin is down 'just' 32% a year after its record high of $126,000
+## 11. Why bitcoin is down 'just' 32% a year after its record high of $126,000
 
 **Author:** Omkar Godbole  
 **Published:** 10/6/2026, 8:27:43 AM  
@@ -83,7 +143,7 @@ This shallower decline isn’t limited to the one-year anniversary. The bear mar
 
 ---
 
-## 7. U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets
+## 12. U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets
 
 **Author:** Shaurya Malwa  
 **Published:** 10/6/2026, 4:55:36 AM  
@@ -95,7 +155,7 @@ FinCEN withdrew two proposals that had hung over self-custody and crypto mixers 
 
 ---
 
-## 8. Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump
+## 13. Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump
 
 **Author:** Shaurya Malwa  
 **Published:** 10/6/2026, 4:49:05 AM  
@@ -107,7 +167,7 @@ One of Ethereum’s main validator clients updated its software hours before a S
 
 ---
 
-## 9. Bitcoin keeps getting rejected at $87,000 as stocks hover near records
+## 14. Bitcoin keeps getting rejected at $87,000 as stocks hover near records
 
 **Author:** Shaurya Malwa  
 **Published:** 10/6/2026, 4:41:10 AM  
@@ -119,7 +179,7 @@ BTC fell back to about $85,600 after sellers turned it away from $87,000 for the
 
 ---
 
-## 10. Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input
+## 15. Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 10/6/2026, 4:23:45 AM  
