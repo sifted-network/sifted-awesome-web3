@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-05"
 date: "2026-10-05"
 source: "CoinDesk"
-count: 19
+count: 15
 ---
 
 # CoinDesk - 2026-10-05
 
-19 items collected.
+15 items collected.
 
 ---
 
@@ -188,53 +188,5 @@ Key price averages are on the verge of confirming a major bullish configuration 
 Ether waiting to enter staking has fallen by more than a quarter since early September, while the exit queue hit its longest of 2026.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line)
-
----
-
-## 16. Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 10/5/2026, 4:45:03 AM  
-**Categories:** Markets, OKX, Tokenization, News  
-
-OKXICE, the joint venture of OKX and ICE, plans to launch tokenized U.S. stocks under SEC's new innovation exemption.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks)
-
----
-
-## 17. Zcash’s 25-second blocks go live on public testnet ahead of schedule
-
-**Author:** Shaurya Malwa  
-**Published:** 10/5/2026, 4:41:35 AM  
-**Categories:** Tech, News  
-
-NU7 cuts the target block time from 75 seconds to 25, giving exchanges, wallets and developers a live rehearsal before a planned November mainnet launch.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule)
-
----
-
-## 18. Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses
-
-**Author:** Shaurya Malwa  
-**Published:** 10/5/2026, 4:23:25 AM  
-**Categories:** Markets, News  
-
-Bitcoin came within about $500 of its late-September peak before sellers pushed it back under $86,000. It's the second rally in a week to stall.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses)
-
----
-
-## 19. Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.
-
-**Author:** Omkar Godbole  
-**Published:** 10/5/2026, 3:50:29 AM  
-**Categories:** Markets, Ethereum News, Bitcoin News, XRP News, News  
-
-Ether beat bitcoin in the third quarter, but its market liquidity got thinner, according to Coingecko.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned)
 
 ---
