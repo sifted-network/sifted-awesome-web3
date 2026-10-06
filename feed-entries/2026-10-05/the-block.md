@@ -125,7 +125,7 @@ Visa and CoinShares surveys show rising stablecoin interest in Asia Pacific alon
 **Published:** 10/5/2026, 8:42:20 AM  
 **Categories:** Crypto Ecosystems, DeFi, Markets, Web3, Tokenization, News  
 
-There are currently two ETF applications tied to INJ — the 21Shares Injective ETF and the Canary Staked INJ ETF.
+There are currently three INJ ETF applications: the 21Shares Injective ETF, the Canary Staked INJ ETF, and the REX-Osprey INJ Staking ETF.
 
 📖 [Read original article](https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616)
 
