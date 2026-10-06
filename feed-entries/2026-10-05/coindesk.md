@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-05"
 date: "2026-10-05"
 source: "CoinDesk"
-count: 15
+count: 10
 ---
 
 # CoinDesk - 2026-10-05
 
-15 items collected.
+10 items collected.
 
 ---
 
@@ -128,65 +128,5 @@ A stronger dollar and rising bond yields could be headwinds as fiscal concerns i
 Friday's soft employment report alone isn't likely to push the Fed off its rate-hike cycle.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike)
-
----
-
-## 11. Cardano's ADA leads gains in narrow range-bound market
-
-**Author:** Omkar Godbole  
-**Published:** 10/5/2026, 10:37:30 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-In traditional markets, the U.S. Dollar Index jumped to 102.53 early today, the highest since April 2025, extending its rise from the Sept. 9 low of 98.60.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market)
-
----
-
-## 12. Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead
-
-**Author:** Jamie Crawley,AI Boost  
-**Published:** 10/5/2026, 9:37:13 AM  
-**Categories:** Markets, week ahead, News  
-
-Your look at what's coming in the week starting Oct. 5.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead)
-
----
-
-## 13. Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement
-
-**Author:** Olivier Acuna  
-**Published:** 10/5/2026, 9:26:24 AM  
-**Categories:** Finance, Kraken, banks, News  
-
-The two firms will initially roll out the digital assets settlement service to select institutional clients in Asia and the Gulf region with around-the-clock U.S. dollar settlement.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement)
-
----
-
-## 14. Bitcoin is about to get a major bullish signal it hasn't had in over a year
-
-**Author:** Omkar Godbole  
-**Published:** 10/5/2026, 6:57:40 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Key price averages are on the verge of confirming a major bullish configuration for the first time in over a year.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year)
-
----
-
-## 15. Ethereum investors are stuck in a two-week staking exit line. Here's why.
-
-**Author:** Shaurya Malwa  
-**Published:** 10/5/2026, 6:40:29 AM  
-**Categories:** Tech, News  
-
-Ether waiting to enter staking has fallen by more than a quarter since early September, while the exit queue hit its longest of 2026.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line)
 
 ---
