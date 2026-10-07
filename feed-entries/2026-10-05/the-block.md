@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-05"
 date: "2026-10-05"
 source: "The Block"
-count: 8
+count: 7
 ---
 
 # The Block - 2026-10-05
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -92,17 +92,5 @@ Bitmine added 15,112 ETH as Chairman Tom Lee said Ethereum outperformed the S&P 
 Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $73 billion.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631)
-
----
-
-## 8. Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’
-
-**Author:** James Hunt  
-**Published:** 10/5/2026, 12:04:15 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin, News  
-
-Metaplanet added a net 1,000 BTC during the third quarter as its total bitcoin holdings reached 44,000 BTC.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640)
 
 ---
