@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-06"
 date: "2026-10-06"
 source: "Cointelegraph"
-count: 27
+count: 17
 ---
 
 # Cointelegraph - 2026-10-06
 
-27 items collected.
+17 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ The proposed fund would hold ZEC directly, with Gemini Trust serving as custodia
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 10/6/2026, 8:48:12 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. UK names 6 banks to lead first digitally native government bond
+## 3. UK names 6 banks to lead first digitally native government bond
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/6/2026, 7:19:00 PM  
@@ -59,7 +47,7 @@ The DIGIT pilot will test distributed ledger technology and onchain settlement f
 
 ---
 
-## 5. Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast
+## 4. Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/6/2026, 6:19:35 PM  
@@ -71,7 +59,7 @@ The digital ruble’s early uptake comes as BRICS nations explore linking their 
 
 ---
 
-## 6. Bill aims at stopping US lawmaker bets on their own elections ahead of midterms
+## 5. Bill aims at stopping US lawmaker bets on their own elections ahead of midterms
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/6/2026, 5:59:32 PM  
@@ -83,7 +71,7 @@ The No Betting on Your Own Race Act will not be addressed before the 2026 US mid
 
 ---
 
-## 7. Affluent investors seen boosting crypto exposure: Survey
+## 6. Affluent investors seen boosting crypto exposure: Survey
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/6/2026, 5:30:18 PM  
@@ -95,7 +83,7 @@ Most affluent investors across seven countries own and are increasing their cryp
 
 ---
 
-## 8. Bitcoin grinds toward $87K as US equities hit new record highs
+## 7. Bitcoin grinds toward $87K as US equities hit new record highs
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/6/2026, 5:19:58 PM  
@@ -107,7 +95,7 @@ Bitcoin price action was kept in check by overhead ask liquidity while US stocks
 
 ---
 
-## 9. Securitize stock jumps 8% amid South Korea tokenization push
+## 8. Securitize stock jumps 8% amid South Korea tokenization push
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/6/2026, 5:04:41 PM  
@@ -119,7 +107,7 @@ The LG CNS partnership gives Securitize a foothold as the Seoul prepares new rul
 
 ---
 
-## 10. ECB policymaker warns of fragmentation without digital euro
+## 9. ECB policymaker warns of fragmentation without digital euro
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/6/2026, 4:32:57 PM  
@@ -131,7 +119,7 @@ A ECB executive board member said the potential introduction of a digital euro w
 
 ---
 
-## 11. Ripple expands Brevan Howard deal with prime brokerage services
+## 10. Ripple expands Brevan Howard deal with prime brokerage services
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/6/2026, 3:24:51 PM  
@@ -143,7 +131,7 @@ Ripple Prime will provide prime brokerage, clearing and financing services to fu
 
 ---
 
-## 12. Ethereum’s Glamsterdam upgrade launches on Sepolia testnet
+## 11. Ethereum’s Glamsterdam upgrade launches on Sepolia testnet
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/6/2026, 2:00:00 PM  
@@ -155,7 +143,7 @@ Sepolia marks one of the final major rehearsals before the final activation of G
 
 ---
 
-## 13. OKX exchange raises fresh capital at $25B valuation
+## 12. OKX exchange raises fresh capital at $25B valuation
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/6/2026, 1:32:32 PM  
@@ -167,7 +155,7 @@ OKX raised an undisclosed amount at a $25 billion valuation as an extension to M
 
 ---
 
-## 14. Capital starting to rotate back to crypto from AI: Raoul Pal
+## 13. Capital starting to rotate back to crypto from AI: Raoul Pal
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/6/2026, 1:30:00 PM  
@@ -179,7 +167,7 @@ Real Vision founder Raoul Pal says a pause in the AI stock rally could help cryp
 
 ---
 
-## 15. US crypto rules need to survive the next election
+## 14. US crypto rules need to survive the next election
 
 **Author:** Cointelegraph by Andrew M. Cuomo  
 **Published:** 10/6/2026, 1:00:00 PM  
@@ -191,7 +179,7 @@ US crypto rules could be vulnerable to political change after the midterms. Form
 
 ---
 
-## 16. Paxos’ $3B USDG stablecoin launches on Arbitrum
+## 15. Paxos’ $3B USDG stablecoin launches on Arbitrum
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/6/2026, 1:00:00 PM  
@@ -203,7 +191,7 @@ Paxos’ USDG stablecoin is now live on Arbitrum as the network proposes 100 mil
 
 ---
 
-## 17. Polymarket overhauls smart contracts with new Protocol V2 rollout
+## 16. Polymarket overhauls smart contracts with new Protocol V2 rollout
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/6/2026, 12:54:15 PM  
@@ -215,7 +203,7 @@ Polymarket begins its Protocol V2 rollout ahead of a planned November transition
 
 ---
 
-## 18. Hong Kong officials double down on end-2026 deadline for crypto licensing bill
+## 17. Hong Kong officials double down on end-2026 deadline for crypto licensing bill
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/6/2026, 10:16:55 AM  
@@ -224,113 +212,5 @@ Polymarket begins its Protocol V2 rollout ahead of a planned November transition
 Hong Kong regulators plan to establish a licensing regime for four categories, including digital asset trading, custody, advisory and management services.
 
 📖 [Read original article](https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/6/2026, 9:59:12 AM  
-**Categories:** Markets  
-
-Binance BTC reserves fell by nearly 40,000 coins since Sept. 20 as whales returned stablecoin capital to their exchange wallets.
-
-📖 [Read original article](https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Ondo opens private markets with tokenized pre-IPO AI exposure
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/6/2026, 9:21:38 AM  
-**Categories:** Latest News  
-
-Ondo’s tokenized notes will give eligible investors exposure to private companies, with the first tied to an unnamed pre-IPO AI company.
-
-📖 [Read original article](https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Solana Foundation targets settlement in seconds with DvP launch
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/6/2026, 9:11:26 AM  
-**Categories:** Latest News  
-
-Solana DvP offers financial institutions an open-source settlement program designed to complete asset transfers and payments in seconds.
-
-📖 [Read original article](https://cointelegraph.com/news/solana-foundation-settlement-seconds-dvp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/6/2026, 8:14:17 AM  
-**Categories:** Markets  
-
-US spot Bitcoin ETFs reversed two days of inflows as Bitcoin slipped below $86,000, trading roughly 32% below its October 2025 all-time high.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/6/2026, 7:09:33 AM  
-**Categories:** Latest News  
-
-An EEZ contributor shared a 0.001 ETH cross-chain test as the project develops a framework to connect Ethereum mainnet and its rollups.
-
-📖 [Read original article](https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 24. Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/6/2026, 5:43:50 AM  
-**Categories:** Latest News  
-
-Better Markets said the CFTC’s proposed framework to bring certain cryptocurrency transactions and exchanges under its oversight will leave investors less protected than under the SEC.
-
-📖 [Read original article](https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 25. Rain seeks US trust bank charter days after OCC sued over crypto charters
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/6/2026, 3:45:40 AM  
-**Categories:** Latest News  
-
-Rain joins a growing queue of crypto firms seeking federal trust charters, while community banks have just asked a court to overturn the OCC rules underpinning them.
-
-📖 [Read original article](https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 26. OKX eyes emerging markets with yield-offering stablecoin savings and payments app
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/6/2026, 3:40:00 AM  
-**Categories:** Latest News  
-
-OKX Money lets users hold, send and spend dollar-backed stablecoins, with qualifying USDG balances earning up to 10% APY.
-
-📖 [Read original article](https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 27. Chinese crime network laundered over $1B for Lazarus: ZachXBT
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/6/2026, 1:47:24 AM  
-**Categories:** Latest News  
-
-ZachXBT says he infiltrated the network by posing as a customer, gaining information that helped trace funds from the $1.5 billion Bybit hack.
-
-📖 [Read original article](https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
