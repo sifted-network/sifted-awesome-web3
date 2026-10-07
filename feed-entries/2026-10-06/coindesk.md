@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-06"
 date: "2026-10-06"
 source: "CoinDesk"
-count: 15
+count: 13
 ---
 
 # CoinDesk - 2026-10-06
 
-15 items collected.
+13 items collected.
 
 ---
 
@@ -164,29 +164,5 @@ FinCEN withdrew two proposals that had hung over self-custody and crypto mixers 
 One of Ethereum’s main validator clients updated its software hours before a Sepolia test that will raise the amount of work each block can hold to 200 million gas.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump)
-
----
-
-## 14. Bitcoin keeps getting rejected at $87,000 as stocks hover near records
-
-**Author:** Shaurya Malwa  
-**Published:** 10/6/2026, 4:41:10 AM  
-**Categories:** Markets, News  
-
-BTC fell back to about $85,600 after sellers turned it away from $87,000 for the third time since Sept. 23, while Nasdaq closed at a record and Treasury yields kept climbing.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records)
-
----
-
-## 15. Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 10/6/2026, 4:23:45 AM  
-**Categories:** Markets, Solana News, News  
-
-Solana Foundation launched an open-source program that lets institutions settle trades in seconds, not days. JPMorgan provided key inputs.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs)
 
 ---
