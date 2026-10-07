@@ -2,28 +2,136 @@
 title: "Cointelegraph - 2026-10-07"
 date: "2026-10-07"
 source: "Cointelegraph"
-count: 13
+count: 21
 ---
 
 # Cointelegraph - 2026-10-07
 
-13 items collected.
+21 items collected.
 
 ---
 
-## 1. Crypto card access doesn’t match global demand, Tangem says
+## 1. Circle brings USDC, EURC payments to SAP customers through Tereina
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/7/2026, 8:48:34 PM  
+**Categories:** Latest News  
+
+The partnership with SAP-backed Tereina will let businesses send and receive Circle’s stablecoins from within the financial software they already use.
+
+📖 [Read original article](https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 10/7/2026, 6:55:36 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/7/2026, 6:00:10 PM  
+**Categories:** Latest News  
+
+“Trump’s coin was max extraction, and I wanted to troll every grift like it,“ said Hunter Biden in a breakdown of the memecoin launch and fallout.
+
+📖 [Read original article](https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Sui tunnels hit 40.6M TPS in live AI agent test
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/7/2026, 5:46:59 PM  
+**Categories:** Latest News  
+
+The layer-1 blockchain said its programmable offchain tunnels reached the milestone during a live stress test designed to simulate high-frequency activity between AI agents.
+
+📖 [Read original article](https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/7/2026, 4:25:38 PM  
+**Categories:** Latest News  
+
+The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry.
+
+📖 [Read original article](https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/7/2026, 4:06:03 PM  
+**Categories:** Latest News  
+
+Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren’t sufficient.
+
+📖 [Read original article](https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Coinbase brings global crypto derivatives liquidity to US with Deribit integration
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 10/7/2026, 3:36:11 PM  
+**Categories:** Latest News  
+
+US institutions will gain access to Deribit’s options and perpetual futures through Coinbase, with US retail options expected later this year.
+
+📖 [Read original article](https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 10/7/2026, 3:06:14 PM  
+**Categories:** Markets  
+
+Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 10/7/2026, 12:29:39 PM  
+**Categories:** Latest News  
+
+Some traders are looking for more predictable prediction market opportunities, rather than playing “hot potato” with the next 100x gem, according to Polymarket’s Shayne Coplan.
+
+📖 [Read original article](https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 10. Crypto card access doesn’t match global demand, Tangem says
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/7/2026, 11:37:48 AM  
 **Categories:** Latest News  
 
-Crypto card demand can be stronger where access is harder, Tangem says, as the company expands its self-custodial payment offering through Visa.
+Crypto card demand can be stronger where access is harder, Tangem says, as it expands its Visa payment offering, allowing users to spend from its self-custodial wallet.
 
 📖 [Read original article](https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-## 2. Trump-backed WLFI plans USD1 payments for online businesses
+## 11. Trump-backed WLFI plans USD1 payments for online businesses
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/7/2026, 10:26:55 AM  
@@ -35,7 +143,7 @@ World Liberty Financial outlined plans to bring USD1 to major online platforms a
 
 ---
 
-## 3. Wall Street wealth creation model is unsustainable for most participants: Hyperliquid CEO
+## 12. Wall Street wealth creation model is unsustainable for most participants: Hyperliquid CEO
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/7/2026, 10:19:27 AM  
@@ -47,7 +155,7 @@ Early Wall Street wealth-creation opportunities remain inaccessible to retail pa
 
 ---
 
-## 4. ‘Old money’ has stronger Bitcoin ‘diamond hands,’ says BingX exec
+## 13. ‘Old money’ has stronger Bitcoin ‘diamond hands,’ says BingX exec
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/7/2026, 9:57:19 AM  
@@ -59,7 +167,7 @@ BingX strategy chief Kevin Lee says wealthy investors are taking a longer-term a
 
 ---
 
-## 5. Crypto liquidations hit $550M as Bitcoin price dips below $84K
+## 14. Crypto liquidations hit $550M as Bitcoin price dips below $84K
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/7/2026, 9:45:35 AM  
@@ -71,7 +179,7 @@ Bitcoin fell 2.3% in two hours amid suspicion over the appearance of leveraged B
 
 ---
 
-## 6. Bitcoin ETFs rebound with $119M inflow as Ether extends losses
+## 15. Bitcoin ETFs rebound with $119M inflow as Ether extends losses
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/7/2026, 9:03:38 AM  
@@ -83,19 +191,19 @@ Bitcoin ETFs returned to net inflows with $119 million on Tuesday despite fallin
 
 ---
 
-## 7. BitMine sets 5% Ether supply ‘hard cap’ as accumulation target nears
+## 16. Bitmine sets 5% Ether supply ‘hard cap’ as accumulation target nears
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/7/2026, 8:50:02 AM  
 **Categories:** Latest News  
 
-Tom Lee said BitMine will not accumulate Ether past 5% of the supply, turning the company’s target into a ceiling.
+Tom Lee said Bitmine will not accumulate Ether past 5% of the supply, turning the company’s target into a ceiling.
 
 📖 [Read original article](https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-## 8. Russia clears first crypto exchanges, custodians under new law
+## 17. Russia clears first crypto exchanges, custodians under new law
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/7/2026, 8:06:35 AM  
@@ -107,7 +215,7 @@ Russia registered its first crypto exchanges and custodians, including its large
 
 ---
 
-## 9. DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid
+## 18. DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/7/2026, 7:10:59 AM  
@@ -119,19 +227,7 @@ Prosecutors say a recent Bitcoin Fog appeals court ruling supports their argumen
 
 ---
 
-## 10. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/7/2026, 6:00:00 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Kalshi’s 15-min gold markets overtake Ether just weeks after launch
+## 19. Kalshi’s 15-min gold markets overtake Ether just weeks after launch
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/7/2026, 4:57:54 AM  
@@ -143,7 +239,7 @@ Gold recorded 542 million contracts and an estimated $5 million in fees in Septe
 
 ---
 
-## 12. Bitcoin.de trading remains halted as German regulator rejects MiCA application
+## 20. Bitcoin.de trading remains halted as German regulator rejects MiCA application
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/7/2026, 1:48:53 AM  
@@ -155,7 +251,7 @@ Trading on the platform has largely been suspended since June as its operator aw
 
 ---
 
-## 13. Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses
+## 21. Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/7/2026, 12:01:40 AM  
