@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-06"
 date: "2026-10-06"
 source: "The Block"
-count: 11
+count: 9
 ---
 
 # The Block - 2026-10-06
 
-11 items collected.
+9 items collected.
 
 ---
 
@@ -116,29 +116,5 @@ Don Davis introduced legislation barring federal candidates and their families f
 Spiko raised $90 million in Series B funding to scale its $2.7 billion tokenized cash fund business and expand into new markets.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-10-06-spiko-raises-90-million-to-expand-tokenized-cash-funds-across-markets-417774)
-
----
-
-## 10. ZachXBT says he fronted $349,700 to infiltrate alleged Chinese launderers tied to Lazarus, Bybit hack
-
-**Author:** Timmy Shen  
-**Published:** 10/6/2026, 9:51:47 AM  
-**Categories:** Crypto Ecosystems, DeFi, News  
-
-Posing as a client, ZachXBT said he gathered intelligence that helped freeze funds tied to the $1.5 billion Bybit hack.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-10-06-zachxbt-infiltrated-chinese-launderers-lazarus-hack-417767)
-
----
-
-## 11. Ondo launches onchain private-company exposure, starting with AI
-
-**Author:** Brian Danga  
-**Published:** 10/6/2026, 9:38:28 AM  
-**Categories:** Companies, News  
-
-Ondo Finance launched a private-markets platform with tokenized notes tied initially to a pre-IPO artificial intelligence company.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-06-ondo-launches-onchain-private-company-exposure-starting-with-ai-417762)
 
 ---
