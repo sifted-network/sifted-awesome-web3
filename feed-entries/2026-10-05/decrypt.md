@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-05"
 date: "2026-10-05"
 source: "Decrypt"
-count: 16
+count: 7
 ---
 
 # Decrypt - 2026-10-05
 
-16 items collected.
+7 items collected.
 
 ---
 
@@ -92,113 +92,5 @@ The on-chain sleuth says he posed as a customer of a Chinese crime syndicate, fr
 The agency approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin, Ethereum, gold, silver, oil, and natural gas list on a U.S. exchange.
 
 📖 [Read original article](https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds)
-
----
-
-## 8. CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight
-
-**Author:** Decrypt Staff  
-**Published:** 10/5/2026, 4:46:03 PM  
-**Categories:** , , , Law and Order  
-
-The CFTC is seeking public comment on a framework that would create a new federal license for crypto exchanges, with leverage offers as the trigger for oversight.
-
-📖 [Read original article](https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage)
-
----
-
-## 9. Bitcoin Just Flashed a Second, Stronger Golden Cross: Here's What That Means
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/5/2026, 4:10:00 PM  
-**Categories:** , Markets  
-
-The Bitcoin rally keeps bumping into the same wall, but a classic bullish signal suggests the trend is built to last.
-
-📖 [Read original article](https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate)
-
----
-
-## 10. NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience
-
-**Author:** Decrypt Staff  
-**Published:** 10/5/2026, 4:03:03 PM  
-**Categories:** Business  
-
-Reporters from CNBC and CNN are on the program beside the exchanges, two weeks before the midterms put the sector on air.
-
-📖 [Read original article](https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience)
-
----
-
-## 11. Bitmine Buys $41M More Ethereum, Reaching 99% of Its 'Alchemy of 5%' Target
-
-**Author:** Decrypt Agent  
-**Published:** 10/5/2026, 2:54:17 PM  
-**Categories:** , Business  
-
-The purchase lifts Bitmine's stash past 6 million ETH—4.9% of supply and 99% of the way to its "Alchemy of 5%" goal—as chairman Tom Lee says Ethereum is "dwarfing" other macro assets.
-
-📖 [Read original article](https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target)
-
----
-
-## 12. Strategy Posts $21B Q3 Gain, Buys $29M in BTC, Repurchases $176M in STRC
-
-**Author:** Decrypt Agent  
-**Published:** 10/5/2026, 12:51:42 PM  
-**Categories:** , Business  
-
-The firm's Bitcoin holdings hit a record 848,000 BTC, while the quarterly gain is a fair-value mark carrying $1.88 billion in deferred tax.
-
-📖 [Read original article](https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc)
-
----
-
-## 13. Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point
-
-**Author:** Decrypt Agent  
-**Published:** 10/5/2026, 12:04:01 PM  
-**Categories:** , Business  
-
-Rating agencies ask if a Bitcoin company will actually sell when obligations fall due. "We answered by doing it," said CEO Simon Gerovich.
-
-📖 [Read original article](https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point)
-
----
-
-## 14. Morning Minute: Uptober Off to a Green Start
-
-**Author:** Tyler Warner  
-**Published:** 10/5/2026, 11:39:08 AM  
-**Categories:** , , Opinion  
-
-Crypto majors and alts are rallying to start October. What’s driving the early action and will it continue?
-
-📖 [Read original article](https://decrypt.co/380050/morning-minute-uptober-off-to-a-green-start)
-
----
-
-## 15. Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme
-
-**Author:** Decrypt Agent  
-**Published:** 10/5/2026, 11:18:01 AM  
-**Categories:** , , Law and Order  
-
-An association for AI enthusiasts was allegedly the recruiting vehicle, and two anonymous tips to a government portal started the case.
-
-📖 [Read original article](https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme)
-
----
-
-## 16. OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption
-
-**Author:** Decrypt Agent  
-**Published:** 10/5/2026, 10:22:27 AM  
-**Categories:** Business  
-
-Filed under the SEC's new Innovation Exemption, the notice lists more than 60 stocks, including Nvidia and SpaceX, paired with stablecoins.
-
-📖 [Read original article](https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption)
 
 ---
