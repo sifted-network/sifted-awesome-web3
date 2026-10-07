@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-10-06"
 date: "2026-10-06"
 source: "Decrypt"
-count: 13
+count: 15
 ---
 
 # Decrypt - 2026-10-06
 
-13 items collected.
+15 items collected.
 
 ---
 
-## 1. Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free
+## 1. Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price
+
+**Author:** Jose Antonio Lanz  
+**Published:** 10/6/2026, 10:46:03 PM  
+**Categories:** Artificial Intelligence  
+
+Google's new image model, Nano Banana 2.1, is live. It costs about half as much as its predecessor, but the performance claims come from Google's own tests.
+
+📖 [Read original article](https://decrypt.co/380257/google-launches-nano-banana-2-1)
+
+---
+
+## 2. Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious
+
+**Author:** Jose Antonio Lanz  
+**Published:** 10/6/2026, 10:16:03 PM  
+**Categories:** Business  
+
+Nothing in Circle's posts announces a sponsorship, but replies dug up Khaled's 2018 SEC settlement over a crypto fraud he promoted. The internet never forgets.
+
+📖 [Read original article](https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious)
+
+---
+
+## 3. Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/6/2026, 10:00:19 PM  
@@ -23,7 +47,7 @@ A developer posted metadata for about 5.6 billion public TikTok videos, scraped 
 
 ---
 
-## 2. Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down
+## 4. Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down
 
 **Author:** Decrypt Agent  
 **Published:** 10/6/2026, 8:28:53 PM  
@@ -35,7 +59,7 @@ Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypt
 
 ---
 
-## 3. Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze
+## 5. Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze
 
 **Author:** Decrypt Staff  
 **Published:** 10/6/2026, 7:46:04 PM  
@@ -47,7 +71,7 @@ The payments firm alleges Tether froze its treasury wallet on its own initiative
 
 ---
 
-## 4. Bryan Johnson Spent Millions to Reverse Aging. He Says a Filter Works Better
+## 6. Bryan Johnson Spent Millions to Reverse Aging. He Says a Filter Works Better
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/6/2026, 7:15:04 PM  
@@ -59,7 +83,7 @@ The face of the "Don't Die" movement now says retouching beats therapy for looki
 
 ---
 
-## 5. Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'
+## 7. Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'
 
 **Author:** Decrypt Staff  
 **Published:** 10/6/2026, 6:42:34 PM  
@@ -71,7 +95,7 @@ The proposed fund would hold ZEC directly, trade on Nasdaq under "WINK" with Gem
 
 ---
 
-## 6. Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme
+## 8. Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/6/2026, 5:22:54 PM  
@@ -83,7 +107,7 @@ Paris-based Mistral launched Large 4, a model nicknamed after a June internet jo
 
 ---
 
-## 7. Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up
+## 9. Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/6/2026, 4:38:15 PM  
@@ -95,7 +119,7 @@ Bitcoin and Ethereum barely moved today, but Zcash and Monero are leading the la
 
 ---
 
-## 8. Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study
+## 10. Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study
 
 **Author:** Decrypt Agent  
 **Published:** 10/6/2026, 3:26:41 PM  
@@ -107,7 +131,7 @@ Attacks grew more sophisticated and less predictable over the period, according 
 
 ---
 
-## 9. Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation
+## 11. Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation
 
 **Author:** Decrypt Agent  
 **Published:** 10/6/2026, 12:53:04 PM  
@@ -119,7 +143,7 @@ A London quantitative hedge fund joins the round too, seven months after the NYS
 
 ---
 
-## 10. Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges
+## 12. Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges
 
 **Author:** Tyler Warner  
 **Published:** 10/6/2026, 12:27:11 PM  
@@ -131,7 +155,7 @@ Clear rules of the road are here. So what does it all mean and what is the overa
 
 ---
 
-## 11. Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections
+## 13. Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections
 
 **Author:** Decrypt Agent  
 **Published:** 10/6/2026, 12:11:50 PM  
@@ -143,7 +167,7 @@ The No Betting on Your Own Race Act also gives prediction markets cover to close
 
 ---
 
-## 12. Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud
+## 14. Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud
 
 **Author:** Decrypt Agent  
 **Published:** 10/6/2026, 10:36:57 AM  
@@ -155,7 +179,7 @@ Adam Iza used off-duty LA deputies to pull warrants and personal data on his riv
 
 ---
 
-## 13. Solana Debuts Institutional Settlement Standard With J.P. Morgan Input
+## 15. Solana Debuts Institutional Settlement Standard With J.P. Morgan Input
 
 **Author:** Decrypt Staff  
 **Published:** 10/6/2026, 2:01:03 AM  
