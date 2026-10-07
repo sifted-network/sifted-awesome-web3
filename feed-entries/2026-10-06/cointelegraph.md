@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-06"
 date: "2026-10-06"
 source: "Cointelegraph"
-count: 17
+count: 9
 ---
 
 # Cointelegraph - 2026-10-06
 
-17 items collected.
+9 items collected.
 
 ---
 
@@ -116,101 +116,5 @@ The LG CNS partnership gives Securitize a foothold as the Seoul prepares new rul
 A ECB executive board member said the potential introduction of a digital euro would not ”take over the role of banks,” but ensure they have a role in the EU’s monetary system.
 
 📖 [Read original article](https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Ripple expands Brevan Howard deal with prime brokerage services
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 10/6/2026, 3:24:51 PM  
-**Categories:** Latest News  
-
-Ripple Prime will provide prime brokerage, clearing and financing services to funds managed by the $35 billion alternative investment manager.
-
-📖 [Read original article](https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Ethereum’s Glamsterdam upgrade launches on Sepolia testnet
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/6/2026, 2:00:00 PM  
-**Categories:** Latest News  
-
-Sepolia marks one of the final major rehearsals before the final activation of Glamsterdam, aimed at bringing more efficiency and scalability to the Ethereum mainnet.
-
-📖 [Read original article](https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. OKX exchange raises fresh capital at $25B valuation
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/6/2026, 1:32:32 PM  
-**Categories:** Latest News  
-
-OKX raised an undisclosed amount at a $25 billion valuation as an extension to March’s investment round led by the parent company of the New York Stock Exchange.
-
-📖 [Read original article](https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Capital starting to rotate back to crypto from AI: Raoul Pal
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 10/6/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Real Vision founder Raoul Pal says a pause in the AI stock rally could help crypto attract capital, while AI agents are likely to boost Ethereum and Solana adoption.
-
-📖 [Read original article](https://cointelegraph.com/magazine/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. US crypto rules need to survive the next election
-
-**Author:** Cointelegraph by Andrew M. Cuomo  
-**Published:** 10/6/2026, 1:00:00 PM  
-**Categories:** Opinion  
-
-US crypto rules could be vulnerable to political change after the midterms. Former New York Gov. Andrew Cuomo argues Congress needs to pass durable, bipartisan legislation.
-
-📖 [Read original article](https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Paxos’ $3B USDG stablecoin launches on Arbitrum
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 10/6/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-Paxos’ USDG stablecoin is now live on Arbitrum as the network proposes 100 million ARB in incentives to support adoption and liquidity.
-
-📖 [Read original article](https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Polymarket overhauls smart contracts with new Protocol V2 rollout
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/6/2026, 12:54:15 PM  
-**Categories:** Latest News  
-
-Polymarket begins its Protocol V2 rollout ahead of a planned November transition for new prediction markets, while existing positions remain on the current system.
-
-📖 [Read original article](https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Hong Kong officials double down on end-2026 deadline for crypto licensing bill
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/6/2026, 10:16:55 AM  
-**Categories:** Latest News  
-
-Hong Kong regulators plan to establish a licensing regime for four categories, including digital asset trading, custody, advisory and management services.
-
-📖 [Read original article](https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
