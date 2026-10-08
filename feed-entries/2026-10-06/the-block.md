@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-06"
 date: "2026-10-06"
 source: "The Block"
-count: 8
+count: 5
 ---
 
 # The Block - 2026-10-06
 
-8 items collected.
+5 items collected.
 
 ---
 
@@ -68,41 +68,5 @@ Solana treasury firm DeFi Development approved an open-ended program to repurcha
 Ripple Prime will provide prime brokerage, clearing and financing to Brevan Howard, deepening a tie that began with its Ripple investment.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-10-06-ripple-prime-brevan-howard-prime-brokerage-clearing-financing-417801)
-
----
-
-## 6. Polymarket rolls out V2 upgrade with single ERC-1155 positions contract, pUSD collateral
-
-**Author:** Brian Danga  
-**Published:** 10/6/2026, 2:35:03 PM  
-**Categories:** Companies, News  
-
-Polymarket rolls out Protocol V2, replacing its legacy Gnosis-based setup with a single ERC-1155 positions contract and pUSD collateral.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804)
-
----
-
-## 7. Fortitude expands Zcash mining push with up to $100 million equipment commitment
-
-**Author:** Brian Danga  
-**Published:** 10/6/2026, 1:00:48 PM  
-**Categories:** Companies, Privacy, Zcash, News  
-
-Fortitude secured priority access to BITMAIN’s next-generation Zcash miners as it expands capacity and increases financing from DCG.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-06-fortitude-expands-zcash-mining-push-with-up-to-100-million-equipment-commitment-417790)
-
----
-
-## 8. Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections
-
-**Author:** James Hunt  
-**Published:** 10/6/2026, 11:36:15 AM  
-**Categories:** Crypto Ecosystems, DeFi, Policy, Regulation, Prediction Markets, News  
-
-Don Davis introduced legislation barring federal candidates and their families from trading prediction contracts tied to their own elections.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781)
 
 ---
