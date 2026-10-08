@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-06"
 date: "2026-10-06"
 source: "CoinDesk"
-count: 5
+count: 4
 ---
 
 # CoinDesk - 2026-10-06
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ The exchange is increasingly aiming to position itself as a global financial tec
 The Ethereum layer-2 is backing Paxos-issued USDG to earn a share of reserve income as new stablecoin alliances compete for distribution, users and reserve economics.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth)
-
----
-
-## 5. Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme
-
-**Author:** Olivier Acuna  
-**Published:** 10/6/2026, 12:31:51 PM  
-**Categories:** Policy, Fraud, Crime, News  
-
-Adam Iza’s sentence runs concurrently with a 15-year term imposed last month for his role in an attempted bitcoin robbery.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case)
 
 ---
