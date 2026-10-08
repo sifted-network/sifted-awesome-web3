@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-07"
 date: "2026-10-07"
 source: "Cointelegraph"
-count: 21
+count: 17
 ---
 
 # Cointelegraph - 2026-10-07
 
-21 items collected.
+17 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ The partnership with SAP-backed Tereina will let businesses send and receive Cir
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 10/7/2026, 6:55:36 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps
+## 2. Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/7/2026, 6:00:10 PM  
@@ -47,7 +35,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 4. Sui tunnels hit 40.6M TPS in live AI agent test
+## 3. Sui tunnels hit 40.6M TPS in live AI agent test
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/7/2026, 5:46:59 PM  
@@ -59,7 +47,7 @@ The layer-1 blockchain said its programmable offchain tunnels reached the milest
 
 ---
 
-## 5. Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization
+## 4. Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/7/2026, 4:25:38 PM  
@@ -71,7 +59,7 @@ The agreement will explore a tenge-backed stablecoin pilot and a framework for t
 
 ---
 
-## 6. House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill
+## 5. House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/7/2026, 4:06:03 PM  
@@ -83,7 +71,7 @@ Representative French Hill hopes lawmakers could pass a cryptocurrency market st
 
 ---
 
-## 7. Coinbase brings global crypto derivatives liquidity to US with Deribit integration
+## 6. Coinbase brings global crypto derivatives liquidity to US with Deribit integration
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/7/2026, 3:36:11 PM  
@@ -95,7 +83,7 @@ US institutions will gain access to Deribit’s options and perpetual futures th
 
 ---
 
-## 8. Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves
+## 7. Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/7/2026, 3:06:14 PM  
@@ -107,7 +95,7 @@ Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after 
 
 ---
 
-## 9. Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO
+## 8. Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/7/2026, 12:29:39 PM  
@@ -119,7 +107,7 @@ Some traders are looking for more predictable prediction market opportunities, r
 
 ---
 
-## 10. Crypto card access doesn’t match global demand, Tangem says
+## 9. Crypto card access doesn’t match global demand, Tangem says
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/7/2026, 11:37:48 AM  
@@ -131,7 +119,7 @@ Crypto card demand can be stronger where access is harder, Tangem says, as it ex
 
 ---
 
-## 11. Trump-backed WLFI plans USD1 payments for online businesses
+## 10. Trump-backed WLFI plans USD1 payments for online businesses
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/7/2026, 10:26:55 AM  
@@ -143,7 +131,7 @@ World Liberty Financial outlined plans to bring USD1 to major online platforms a
 
 ---
 
-## 12. Wall Street wealth creation model is unsustainable for most participants: Hyperliquid CEO
+## 11. Wall Street wealth creation model is unsustainable for most participants: Hyperliquid CEO
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/7/2026, 10:19:27 AM  
@@ -155,7 +143,7 @@ Early Wall Street wealth-creation opportunities remain inaccessible to retail pa
 
 ---
 
-## 13. ‘Old money’ has stronger Bitcoin ‘diamond hands,’ says BingX exec
+## 12. ‘Old money’ has stronger Bitcoin ‘diamond hands,’ says BingX exec
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/7/2026, 9:57:19 AM  
@@ -167,7 +155,7 @@ BingX strategy chief Kevin Lee says wealthy investors are taking a longer-term a
 
 ---
 
-## 14. Crypto liquidations hit $550M as Bitcoin price dips below $84K
+## 13. Crypto liquidations hit $550M as Bitcoin price dips below $84K
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/7/2026, 9:45:35 AM  
@@ -179,7 +167,7 @@ Bitcoin fell 2.3% in two hours amid suspicion over the appearance of leveraged B
 
 ---
 
-## 15. Bitcoin ETFs rebound with $119M inflow as Ether extends losses
+## 14. Bitcoin ETFs rebound with $119M inflow as Ether extends losses
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/7/2026, 9:03:38 AM  
@@ -191,7 +179,7 @@ Bitcoin ETFs returned to net inflows with $119 million on Tuesday despite fallin
 
 ---
 
-## 16. Bitmine sets 5% Ether supply ‘hard cap’ as accumulation target nears
+## 15. Bitmine sets 5% Ether supply ‘hard cap’ as accumulation target nears
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/7/2026, 8:50:02 AM  
@@ -203,7 +191,7 @@ Tom Lee said Bitmine will not accumulate Ether past 5% of the supply, turning th
 
 ---
 
-## 17. Russia clears first crypto exchanges, custodians under new law
+## 16. Russia clears first crypto exchanges, custodians under new law
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/7/2026, 8:06:35 AM  
@@ -215,7 +203,7 @@ Russia registered its first crypto exchanges and custodians, including its large
 
 ---
 
-## 18. DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid
+## 17. DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/7/2026, 7:10:59 AM  
@@ -224,41 +212,5 @@ Russia registered its first crypto exchanges and custodians, including its large
 Prosecutors say a recent Bitcoin Fog appeals court ruling supports their argument that Tornado Cash activity in Manhattan was enough to establish venue for parts of Roman Storm’s case in New York.
 
 📖 [Read original article](https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Kalshi’s 15-min gold markets overtake Ether just weeks after launch
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/7/2026, 4:57:54 AM  
-**Categories:** Latest News  
-
-Gold recorded 542 million contracts and an estimated $5 million in fees in September, surpassing Ether’s 318 million contracts and $2.6 million, though Bitcoin remained far ahead.
-
-📖 [Read original article](https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Bitcoin.de trading remains halted as German regulator rejects MiCA application
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/7/2026, 1:48:53 AM  
-**Categories:** Latest News  
-
-Trading on the platform has largely been suspended since June as its operator awaited MiCA authorization, with the company now looking to regulated partners to restart services.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/7/2026, 12:01:40 AM  
-**Categories:** Latest News  
-
-Igloo CEO Luca Netz said the company funded Abstract for 18 months but still failed to find product-market fit despite attracting major brands and a community of millions.
-
-📖 [Read original article](https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
