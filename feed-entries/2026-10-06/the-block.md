@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-06"
 date: "2026-10-06"
 source: "The Block"
-count: 9
+count: 8
 ---
 
 # The Block - 2026-10-06
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ Fortitude secured priority access to BITMAIN’s next-generation Zcash miners as
 Don Davis introduced legislation barring federal candidates and their families from trading prediction contracts tied to their own elections.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781)
-
----
-
-## 9. Spiko raises $90 million to expand tokenized cash funds across markets
-
-**Author:** Brian Danga  
-**Published:** 10/6/2026, 10:58:29 AM  
-**Categories:** Companies, Lobbying, Policy, Fundraising, News  
-
-Spiko raised $90 million in Series B funding to scale its $2.7 billion tokenized cash fund business and expand into new markets.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-06-spiko-raises-90-million-to-expand-tokenized-cash-funds-across-markets-417774)
 
 ---
