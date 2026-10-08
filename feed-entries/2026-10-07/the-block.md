@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-07"
 date: "2026-10-07"
 source: "The Block"
-count: 11
+count: 9
 ---
 
 # The Block - 2026-10-07
 
-11 items collected.
+9 items collected.
 
 ---
 
@@ -116,29 +116,5 @@ Chervinsky says that beyond regulated perps, onchain markets need to enter the U
 Robinhood SVP Johann Kerbrat says the purchase was intended to signal the company's commitment to the crypto sector.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890)
-
----
-
-## 10. Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million
-
-**Author:** Timmy Shen  
-**Published:** 10/7/2026, 3:57:21 AM  
-**Categories:** Markets, News  
-
-Crypto liquidations amounted to $555.6 million over the past 24 hours, including $487.2 million in long positions, according to CoinGlass.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882)
-
----
-
-## 11. Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange
-
-**Author:** Yogita Khatri  
-**Published:** 10/7/2026, 3:00:00 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Markets, Derivatives, News  
-
-Coinbase plans to relaunch Coinbase Pro by year-end and has completed its Deribit integration, creating Coinbase Global Exchange.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867)
 
 ---
