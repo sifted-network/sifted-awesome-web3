@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-06"
 date: "2026-10-06"
 source: "Decrypt"
-count: 15
+count: 14
 ---
 
 # Decrypt - 2026-10-06
 
-15 items collected.
+14 items collected.
 
 ---
 
@@ -176,17 +176,5 @@ The No Betting on Your Own Race Act also gives prediction markets cover to close
 Adam Iza used off-duty LA deputies to pull warrants and personal data on his rivals, then moved the proceeds through crypto custodians.
 
 📖 [Read original article](https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud)
-
----
-
-## 15. Solana Debuts Institutional Settlement Standard With J.P. Morgan Input
-
-**Author:** Decrypt Staff  
-**Published:** 10/6/2026, 2:01:03 AM  
-**Categories:** , Business  
-
-Built with input from J.P. Morgan, the open-source "DvP" program lets institutions settle trades atomically on Solana with finality in seconds instead of days.
-
-📖 [Read original article](https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan)
 
 ---
