@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-06"
 date: "2026-10-06"
 source: "Cointelegraph"
-count: 9
+count: 8
 ---
 
 # Cointelegraph - 2026-10-06
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ Bitcoin price action was kept in check by overhead ask liquidity while US stocks
 The LG CNS partnership gives Securitize a foothold as the Seoul prepares new rules for tokenized stocks, bonds and funds beginning in February 2027.
 
 📖 [Read original article](https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. ECB policymaker warns of fragmentation without digital euro
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 10/6/2026, 4:32:57 PM  
-**Categories:** Latest News  
-
-A ECB executive board member said the potential introduction of a digital euro would not ”take over the role of banks,” but ensure they have a role in the EU’s monetary system.
-
-📖 [Read original article](https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
