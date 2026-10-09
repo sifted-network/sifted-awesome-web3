@@ -2,16 +2,76 @@
 title: "CoinDesk - 2026-10-09"
 date: "2026-10-09"
 source: "CoinDesk"
-count: 14
+count: 19
 ---
 
 # CoinDesk - 2026-10-09
 
-14 items collected.
+19 items collected.
 
 ---
 
-## 1. Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare
+## 1. U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages
+
+**Author:** Jesse Hamilton  
+**Published:** 10/9/2026, 9:21:54 PM  
+**Categories:** Policy, Regulation, Prediction Markets, News  
+
+The derivatives regulator is proposing a formal rule to include certain contracts traded on platforms like Kalshi's as swaps that require the agency's oversight.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages)
+
+---
+
+## 2. Robinhood Chain considers technology that gives paying traders priority
+
+**Author:** Ian Allison  
+**Published:** 10/9/2026, 6:11:00 PM  
+**Categories:** Finance, Robinhood, Exclusive, News  
+
+Arbitrum recently replaced its Timeboost transaction-ordering system with a new model called Priority Gas Auctions.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority)
+
+---
+
+## 3. New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky
+
+**Author:** Olivier Acuna  
+**Published:** 10/9/2026, 2:55:23 PM  
+**Categories:** Policy, News  
+
+Alex Mashinsky, already serving 12 years for fraud, settled New York’s civil case over claims he misled Celsius customers about the failed crypto lender’s safety.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky)
+
+---
+
+## 4. Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen
+
+**Author:** Krisztian Sandor  
+**Published:** 10/9/2026, 2:47:27 PM  
+**Categories:** Finance, Hack, Ledger, News  
+
+The hardware wallet maker said it is investigating devices sold by a Southeast Asian reseller as social posts swirl about crypto assets drained from Bitcoin, Ethereum and Tron addresses.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen)
+
+---
+
+## 5. DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach
+
+**Author:** Jamie Crawley  
+**Published:** 10/9/2026, 12:23:54 PM  
+**Categories:** Policy, World Liberty Financial, News  
+
+DWF is seeking $114 million in damages on the basis BitGo’s token sales resulted in direct losses through the fall in tokens' prices.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach)
+
+---
+
+## 6. Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare
 
 **Author:** Shaurya Malwa  
 **Published:** 10/9/2026, 11:39:05 AM  
@@ -23,7 +83,7 @@ The plan concerns public payments, where about seven in 10 ZEC sit. A separate w
 
 ---
 
-## 2. Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure
+## 7. Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure
 
 **Author:** Shaurya Malwa,Saksham Diwan  
 **Published:** 10/9/2026, 11:09:04 AM  
@@ -35,7 +95,7 @@ Your day-ahead look for Oct. 9, 2026
 
 ---
 
-## 3. Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms
+## 8. Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms
 
 **Author:** Oliver Knight  
 **Published:** 10/9/2026, 10:44:22 AM  
@@ -47,7 +107,7 @@ Bitcoin recovered to around $82,500 after Trump ruled out an Iran strike, but re
 
 ---
 
-## 4. Thailand opens door to locally listed bitcoin and ether ETFs
+## 9. Thailand opens door to locally listed bitcoin and ether ETFs
 
 **Author:** Olivier Acuna  
 **Published:** 10/9/2026, 10:16:55 AM  
@@ -59,7 +119,7 @@ Thailand’s new crypto rules taking effect Oct. 16. They allow Thai asset manag
 
 ---
 
-## 5. UK slaps sanctions on three crypto exchanges over alleged Russia links
+## 10. UK slaps sanctions on three crypto exchanges over alleged Russia links
 
 **Author:** Olivier Acuna  
 **Published:** 10/9/2026, 10:14:59 AM  
@@ -71,7 +131,7 @@ Britain said the crypto platforms and two payment services may have helped Russi
 
 ---
 
-## 6. Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin
+## 11. Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin
 
 **Author:** Olivier Acuna  
 **Published:** 10/9/2026, 9:20:16 AM  
@@ -83,7 +143,7 @@ A man from Virginia, who facilitated millions of drug transactions worth roughly
 
 ---
 
-## 7. MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI
+## 12. MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI
 
 **Author:** James Van Straten  
 **Published:** 10/9/2026, 9:08:09 AM  
@@ -95,7 +155,7 @@ The bitcoin miner’s transfer does not confirm a sale, but comes as its treasur
 
 ---
 
-## 8. Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round
+## 13. Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round
 
 **Author:** Jamie Crawley  
 **Published:** 10/9/2026, 9:06:00 AM  
@@ -107,9 +167,9 @@ Meanwhile has signed 15 brokers serving high-net worth clients across markets iS
 
 ---
 
-## 9. Live updates: Bitcoin climbs back above $83,000; XRP ETFs only crypto funds with inflows Thursday
+## 14. Live updates: Bitcoin slips from day's highs, set to close week with a loss
 
-**Author:** Shaurya Malwa,Omkar Godbole  
+**Author:** Shaurya Malwa,Omkar Godbole,Stephen Alpher  
 **Published:** 10/9/2026, 6:51:32 AM  
 **Categories:** Finance, Live News, live_news  
 
@@ -119,7 +179,7 @@ Bitcoin ETFs lost $244 million on Thursday and the ZEC fund extended a run of Oc
 
 ---
 
-## 10. New tech to power bitcoin lending is set to debut with $500 million in commitments
+## 15. New tech to power bitcoin lending is set to debut with $500 million in commitments
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 10/9/2026, 6:40:54 AM  
@@ -131,7 +191,7 @@ Layer-1 blockchain Sui is launching Hashi, an institutional protocol allowing ho
 
 ---
 
-## 11. Solana is about to halve its block times as final 200-millisecond upgrade nears
+## 16. Solana is about to halve its block times as final 200-millisecond upgrade nears
 
 **Author:** Shaurya Malwa  
 **Published:** 10/9/2026, 5:00:52 AM  
@@ -143,7 +203,7 @@ The network is completing a seven-week push to produce blocks twice as frequentl
 
 ---
 
-## 12. XRP Ledger adds new controls for banks, stablecoins and tokenized funds
+## 17. XRP Ledger adds new controls for banks, stablecoins and tokenized funds
 
 **Author:** Shaurya Malwa  
 **Published:** 10/9/2026, 4:21:36 AM  
@@ -155,7 +215,7 @@ The feature lets businesses give separate accounts limited powers such as approv
 
 ---
 
-## 13. Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush
+## 18. Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush
 
 **Author:** Shaurya Malwa  
 **Published:** 10/9/2026, 4:04:36 AM  
@@ -167,7 +227,7 @@ About $356 million in ETH positions were liquidated over 24 hours, more than bit
 
 ---
 
-## 14. Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops
+## 19. Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops
 
 **Author:** Omkar Godbole  
 **Published:** 10/9/2026, 3:27:38 AM  
