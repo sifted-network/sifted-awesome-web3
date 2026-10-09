@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-07"
 date: "2026-10-07"
 source: "Cointelegraph"
-count: 8
+count: 5
 ---
 
 # Cointelegraph - 2026-10-07
 
-8 items collected.
+5 items collected.
 
 ---
 
@@ -68,41 +68,5 @@ The agreement will explore a tenge-backed stablecoin pilot and a framework for t
 Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren’t sufficient.
 
 📖 [Read original article](https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Coinbase brings global crypto derivatives liquidity to US with Deribit integration
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 10/7/2026, 3:36:11 PM  
-**Categories:** Latest News  
-
-US institutions will gain access to Deribit’s options and perpetual futures through Coinbase, with US retail options expected later this year.
-
-📖 [Read original article](https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/7/2026, 3:06:14 PM  
-**Categories:** Markets  
-
-Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/7/2026, 12:29:39 PM  
-**Categories:** Latest News  
-
-Some traders are looking for more predictable prediction market opportunities, rather than playing “hot potato” with the next 100x gem, according to Polymarket’s Shayne Coplan.
-
-📖 [Read original article](https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
