@@ -87,7 +87,7 @@ Bitcoin traded near $82,000 on Thursday, with analysts at QCP expecting a fourth
 
 **Author:** Jason Shubnell  
 **Published:** 10/8/2026, 2:04:39 PM  
-**Categories:** Companies, Crypto Ecosystems, Markets, Web3, Tokenization, News  
+**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Web3, Solana, Tokenization, News  
 
 Securitize launches tokenized US stocks on Solana, backed 1:1 by real shares with dividends and USDC settlement.
 
