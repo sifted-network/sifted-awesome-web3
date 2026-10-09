@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-10-08"
 date: "2026-10-08"
 source: "Cointelegraph"
-count: 22
+count: 23
 ---
 
 # Cointelegraph - 2026-10-08
 
-22 items collected.
+23 items collected.
 
 ---
 
-## 1. Securitize stock jumps over 10% after launching tokenized US equities on Solana
+## 1. China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 10/8/2026, 10:35:00 PM  
+**Categories:** Magazine  
+
+Despite ongoing bans, China has seen a big surge in peer-to-peer stablecoin use. New figures show South Korea’s $450B crypto economy is the largest in East Asia.
+
+📖 [Read original article](https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Securitize stock jumps over 10% after launching tokenized US equities on Solana
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/8/2026, 7:31:38 PM  
@@ -23,7 +35,7 @@ Securitize’s new offering gives eligible investors access to tokenized shares 
 
 ---
 
-## 2. NFL backs New Jersey authorities in SCOTUS petition over Kalshi
+## 3. NFL backs New Jersey authorities in SCOTUS petition over Kalshi
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/8/2026, 7:17:18 PM  
@@ -35,7 +47,7 @@ According to the league, Kalshi and other prediction markets “threaten game in
 
 ---
 
-## 3. Here’s what happened in crypto today
+## 4. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/8/2026, 6:29:33 PM  
@@ -47,7 +59,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 4. Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison
+## 5. Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/8/2026, 6:17:35 PM  
@@ -59,7 +71,7 @@ Sam Bankman-Fried remains in federal prison following his 2023 conviction, while
 
 ---
 
-## 5. IMF warns tokenized markets could amplify financial risks
+## 6. IMF warns tokenized markets could amplify financial risks
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/8/2026, 4:25:06 PM  
@@ -71,7 +83,7 @@ The global financial institution found tokenized equity markets less liquid and 
 
 ---
 
-## 6. Bitcoin nears 3-week low as oil heads higher on Iran strike woes
+## 7. Bitcoin nears 3-week low as oil heads higher on Iran strike woes
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/8/2026, 3:55:55 PM  
@@ -83,7 +95,7 @@ Bitcoin dipped below $81,000 and oil prices gained after reports that military c
 
 ---
 
-## 7. US government moves $1B in seized Bitcoin after $770M transfers
+## 8. US government moves $1B in seized Bitcoin after $770M transfers
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/8/2026, 3:24:16 PM  
@@ -95,7 +107,7 @@ Blockchain analysts identified the US government wallet tied to the recovery of 
 
 ---
 
-## 8. ‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity
+## 9. ‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/8/2026, 1:42:27 PM  
@@ -107,7 +119,7 @@ Tokenization offers structural advantages to financial institutions and helps as
 
 ---
 
-## 9. Crypto lending rises again… but have they solved the risks?
+## 10. Crypto lending rises again… but have they solved the risks?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 10/8/2026, 1:30:00 PM  
@@ -119,7 +131,7 @@ Crypto lending has risen by 55% since July, but now has to deal with the dangers
 
 ---
 
-## 10. EU lawmakers push crypto onto anti-corruption agenda
+## 11. EU lawmakers push crypto onto anti-corruption agenda
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/8/2026, 12:54:21 PM  
@@ -131,7 +143,7 @@ MEPs also called for stronger asset recovery, while the Commission plans to adop
 
 ---
 
-## 11. Sui’s Hashi to launch with $500M in Bitcoin finance commitments
+## 12. Sui’s Hashi to launch with $500M in Bitcoin finance commitments
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/8/2026, 12:03:28 PM  
@@ -143,7 +155,7 @@ Hashi has more than $500M in commitments ahead of mainnet launch, while Anchorag
 
 ---
 
-## 12. US government moves $770M of seized Bitcoin to Coinbase Prime
+## 13. US government moves $770M of seized Bitcoin to Coinbase Prime
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/8/2026, 11:03:36 AM  
@@ -155,7 +167,7 @@ The US government moved 9,261 Bitcoin to Coinbase Prime, including 2,456 BTC in 
 
 ---
 
-## 13. Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls
+## 14. Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/8/2026, 9:56:07 AM  
@@ -167,7 +179,7 @@ Bitcoin’s realized cap rise in the 30 days to Oct. 5 came mostly from existing
 
 ---
 
-## 14. ESMA gives crypto firms 3 months to exit non-compliant stablecoins
+## 15. ESMA gives crypto firms 3 months to exit non-compliant stablecoins
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/8/2026, 9:42:04 AM  
@@ -179,7 +191,7 @@ ESMA said EU crypto firms should halt services involving non-MiCA-compliant stab
 
 ---
 
-## 15. Samsung Wallet to add USDC transfers for US Galaxy users in October
+## 16. Samsung Wallet to add USDC transfers for US Galaxy users in October
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/8/2026, 8:24:24 AM  
@@ -191,7 +203,7 @@ Eligible US Galaxy will be able to send USDC to crypto wallets and transfer fund
 
 ---
 
-## 16. NEAR enters crypto’s top 20 after 140% surge in 30 days
+## 17. NEAR enters crypto’s top 20 after 140% surge in 30 days
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/8/2026, 8:17:14 AM  
@@ -203,7 +215,7 @@ NEAR climbed into the top 20 cryptocurrencies by market capitalization, as NEAR 
 
 ---
 
-## 17. Standard Chartered plans institutional crypto custody in Singapore
+## 18. Standard Chartered plans institutional crypto custody in Singapore
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/8/2026, 8:08:03 AM  
@@ -215,7 +227,7 @@ Standard Chartered plans custody for cryptocurrencies, stablecoins and tokenized
 
 ---
 
-## 18. Greece plans 10% capital gains tax on cryptocurrencies
+## 19. Greece plans 10% capital gains tax on cryptocurrencies
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/8/2026, 8:03:47 AM  
@@ -227,7 +239,7 @@ Greece’s draft bill proposes a 10% tax on crypto capital gains, with exemption
 
 ---
 
-## 19. US Bitcoin ETFs shed $485M in biggest daily outflow since June
+## 20. US Bitcoin ETFs shed $485M in biggest daily outflow since June
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/8/2026, 7:30:42 AM  
@@ -239,7 +251,7 @@ Bitcoin ETFs erased October’s net inflows with $485 million in withdrawals, wh
 
 ---
 
-## 20. Crypto’s heavy backing of Republicans alienated Democrats: Cuomo
+## 21. Crypto’s heavy backing of Republicans alienated Democrats: Cuomo
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/8/2026, 5:06:51 AM  
@@ -251,7 +263,7 @@ Former New York Governor Andrew Cuomo urged the crypto industry to balance its s
 
 ---
 
-## 21. Crypto must cement adoption to withstand US policy shifts: Canton CEO
+## 22. Crypto must cement adoption to withstand US policy shifts: Canton CEO
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/8/2026, 4:28:27 AM  
@@ -263,7 +275,7 @@ Canton CEO Yuval Rooz compared blockchain adoption to Uber and Airbnb, arguing t
 
 ---
 
-## 22. Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances
+## 23. Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/8/2026, 12:04:32 AM  
