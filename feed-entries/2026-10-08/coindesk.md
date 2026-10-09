@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-08"
 date: "2026-10-08"
 source: "CoinDesk"
-count: 11
+count: 6
 ---
 
 # CoinDesk - 2026-10-08
 
-11 items collected.
+6 items collected.
 
 ---
 
@@ -80,65 +80,5 @@ Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchan
 ESMA said authorized platforms must block new access to stablecoins that fail to meet MiCA rules, while national authorities oversee existing customer holdings.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins)
-
----
-
-## 7. Crypto for Advisors: Digital assets outran stocks and gold in Q3
-
-**Author:** Kevin Tam,Joshua de Vos  
-**Published:** 10/8/2026, 3:11:15 PM  
-**Categories:** CoinDesk Indices, Crypto for Advisors, News  
-
-
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3)
-
----
-
-## 8. ‘Bunker mode’ is a far greater challenge for institutions than individual crypto holders
-
-**Author:** Olivier Acuna  
-**Published:** 10/8/2026, 2:39:48 PM  
-**Categories:** Tech, quantum computing, Bitcoin News, Cryptocurrency, News  
-
-As crypto debates whether holders should move funds before AI or quantum advances expose wallet keys, custody firms face a separate problem: upgrading systems before an emergency migration.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders)
-
----
-
-## 9. Cardano Foundation spins out Veridian, tokenizes its shares on new standard
-
-**Author:** Olivier Acuna  
-**Published:** 10/8/2026, 2:24:24 PM  
-**Categories:** Finance, Cardano, Tokenization, News  
-
-Veridian became the first company to use Cardano’s new programmable-token standard for its equity, though the tokenized shares are not being offered to the public.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard)
-
----
-
-## 10. Over 6 million bitcoin sit behind exposed public keys as AI warnings mount
-
-**Author:** James Van Straten  
-**Published:** 10/8/2026, 2:03:20 PM  
-**Categories:** Markets, Bitcoin News, quantum computing, Artificial Intelligence, News  
-
-Glassnode co-founder's latest figures show growing public-key exposure as Justin Drake urges preparations for potential AI attacks on wallet cryptography.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount)
-
----
-
-## 11. Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works
-
-**Author:** Krisztian Sandor  
-**Published:** 10/8/2026, 1:06:24 PM  
-**Categories:** Finance, Tokenization, Tokenized Equities, News  
-
-Tokenized shares in the mega-caps will first trade on Securitize's Solana-based platform, with further plans to expand them to NYSE and OKXICE digital venues, the firm said.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works)
 
 ---
