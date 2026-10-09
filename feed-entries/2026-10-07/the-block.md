@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-07"
 date: "2026-10-07"
 source: "The Block"
-count: 9
+count: 7
 ---
 
 # The Block - 2026-10-07
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ NEAR co-founder Illia Polosukhin said users no longer need centralized exchanges
 Jito’s JTX plans a mobile app, equities feature, and perpetual futures as it expands beyond spot trading on Solana.
 
 📖 [Read original article](https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905)
-
----
-
-## 8. ‘Every single exchange’ will have to adopt public blockchain infrastructure to compete, Hyperliquid Policy Center CEO says
-
-**Author:** Danny Park  
-**Published:** 10/7/2026, 8:30:01 AM  
-**Categories:** Crypto Ecosystems, DeFi, Policy, Regulation, News  
-
-Chervinsky says that beyond regulated perps, onchain markets need to enter the U.S. regulatory perimeter, a step he expects will happen soon.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896)
-
----
-
-## 9. Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push
-
-**Author:** Timmy Shen  
-**Published:** 10/7/2026, 7:08:36 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, exclusive, News  
-
-Robinhood SVP Johann Kerbrat says the purchase was intended to signal the company's commitment to the crypto sector.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890)
 
 ---
