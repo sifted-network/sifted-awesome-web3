@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-08"
 date: "2026-10-08"
 source: "Cointelegraph"
-count: 23
+count: 20
 ---
 
 # Cointelegraph - 2026-10-08
 
-23 items collected.
+20 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ According to the league, Kalshi and other prediction markets “threaten game in
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 10/8/2026, 6:29:33 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison
+## 4. Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/8/2026, 6:17:35 PM  
@@ -71,7 +59,7 @@ Sam Bankman-Fried remains in federal prison following his 2023 conviction, while
 
 ---
 
-## 6. IMF warns tokenized markets could amplify financial risks
+## 5. IMF warns tokenized markets could amplify financial risks
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/8/2026, 4:25:06 PM  
@@ -83,7 +71,7 @@ The global financial institution found tokenized equity markets less liquid and 
 
 ---
 
-## 7. Bitcoin nears 3-week low as oil heads higher on Iran strike woes
+## 6. Bitcoin nears 3-week low as oil heads higher on Iran strike woes
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/8/2026, 3:55:55 PM  
@@ -95,7 +83,7 @@ Bitcoin dipped below $81,000 and oil prices gained after reports that military c
 
 ---
 
-## 8. US government moves $1B in seized Bitcoin after $770M transfers
+## 7. US government moves $1B in seized Bitcoin after $770M transfers
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/8/2026, 3:24:16 PM  
@@ -107,7 +95,7 @@ Blockchain analysts identified the US government wallet tied to the recovery of 
 
 ---
 
-## 9. ‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity
+## 8. ‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/8/2026, 1:42:27 PM  
@@ -119,7 +107,7 @@ Tokenization offers structural advantages to financial institutions and helps as
 
 ---
 
-## 10. Crypto lending rises again… but have they solved the risks?
+## 9. Crypto lending rises again… but have they solved the risks?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 10/8/2026, 1:30:00 PM  
@@ -131,7 +119,7 @@ Crypto lending has risen by 55% since July, but now has to deal with the dangers
 
 ---
 
-## 11. EU lawmakers push crypto onto anti-corruption agenda
+## 10. EU lawmakers push crypto onto anti-corruption agenda
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/8/2026, 12:54:21 PM  
@@ -143,7 +131,7 @@ MEPs also called for stronger asset recovery, while the Commission plans to adop
 
 ---
 
-## 12. Sui’s Hashi to launch with $500M in Bitcoin finance commitments
+## 11. Sui’s Hashi to launch with $500M in Bitcoin finance commitments
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/8/2026, 12:03:28 PM  
@@ -155,7 +143,7 @@ Hashi has more than $500M in commitments ahead of mainnet launch, while Anchorag
 
 ---
 
-## 13. US government moves $770M of seized Bitcoin to Coinbase Prime
+## 12. US government moves $770M of seized Bitcoin to Coinbase Prime
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/8/2026, 11:03:36 AM  
@@ -167,7 +155,7 @@ The US government moved 9,261 Bitcoin to Coinbase Prime, including 2,456 BTC in 
 
 ---
 
-## 14. Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls
+## 13. Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/8/2026, 9:56:07 AM  
@@ -179,7 +167,7 @@ Bitcoin’s realized cap rise in the 30 days to Oct. 5 came mostly from existing
 
 ---
 
-## 15. ESMA gives crypto firms 3 months to exit non-compliant stablecoins
+## 14. ESMA gives crypto firms 3 months to exit non-compliant stablecoins
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/8/2026, 9:42:04 AM  
@@ -191,7 +179,7 @@ ESMA said EU crypto firms should halt services involving non-MiCA-compliant stab
 
 ---
 
-## 16. Samsung Wallet to add USDC transfers for US Galaxy users in October
+## 15. Samsung Wallet to add USDC transfers for US Galaxy users in October
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/8/2026, 8:24:24 AM  
@@ -203,7 +191,7 @@ Eligible US Galaxy will be able to send USDC to crypto wallets and transfer fund
 
 ---
 
-## 17. NEAR enters crypto’s top 20 after 140% surge in 30 days
+## 16. NEAR enters crypto’s top 20 after 140% surge in 30 days
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/8/2026, 8:17:14 AM  
@@ -215,7 +203,7 @@ NEAR climbed into the top 20 cryptocurrencies by market capitalization, as NEAR 
 
 ---
 
-## 18. Standard Chartered plans institutional crypto custody in Singapore
+## 17. Standard Chartered plans institutional crypto custody in Singapore
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/8/2026, 8:08:03 AM  
@@ -227,7 +215,7 @@ Standard Chartered plans custody for cryptocurrencies, stablecoins and tokenized
 
 ---
 
-## 19. Greece plans 10% capital gains tax on cryptocurrencies
+## 18. Greece plans 10% capital gains tax on cryptocurrencies
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/8/2026, 8:03:47 AM  
@@ -239,7 +227,7 @@ Greece’s draft bill proposes a 10% tax on crypto capital gains, with exemption
 
 ---
 
-## 20. US Bitcoin ETFs shed $485M in biggest daily outflow since June
+## 19. US Bitcoin ETFs shed $485M in biggest daily outflow since June
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/8/2026, 7:30:42 AM  
@@ -251,7 +239,7 @@ Bitcoin ETFs erased October’s net inflows with $485 million in withdrawals, wh
 
 ---
 
-## 21. Crypto’s heavy backing of Republicans alienated Democrats: Cuomo
+## 20. Crypto’s heavy backing of Republicans alienated Democrats: Cuomo
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/8/2026, 5:06:51 AM  
@@ -260,29 +248,5 @@ Bitcoin ETFs erased October’s net inflows with $485 million in withdrawals, wh
 Former New York Governor Andrew Cuomo urged the crypto industry to balance its support for Democrats and Republicans if they want federal crypto legislation passed.
 
 📖 [Read original article](https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Crypto must cement adoption to withstand US policy shifts: Canton CEO
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/8/2026, 4:28:27 AM  
-**Categories:** Latest News  
-
-Canton CEO Yuval Rooz compared blockchain adoption to Uber and Airbnb, arguing that widespread adoption could help insulate it from potential policy reversals.
-
-📖 [Read original article](https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/8/2026, 12:04:32 AM  
-**Categories:** Latest News  
-
-Ethereum researchers say crypto users should consider an orderly migration of funds to fresh addresses, warning AI could threaten private-key security before quantum computers do.
-
-📖 [Read original article](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
