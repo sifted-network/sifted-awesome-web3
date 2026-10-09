@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-08"
 date: "2026-10-08"
 source: "CoinDesk"
-count: 25
+count: 24
 ---
 
 # CoinDesk - 2026-10-08
 
-25 items collected.
+24 items collected.
 
 ---
 
@@ -296,17 +296,5 @@ Bitcoin-backed lending is evolving into a mainstream source of credit, with borr
 The Sepolia rehearsal has raised its processing budget more than threefold, but sampled blocks used less than half that allowance.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade)
-
----
-
-## 25. Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report
-
-**Author:** Shaurya Malwa  
-**Published:** 10/8/2026, 4:00:07 AM  
-**Categories:** Markets, News  
-
-Bitcoin has slipped under a level FxPro says opens a "quick path to $80,000." Brent crude climbed above $102 and pushed Treasury yields back toward their highest since 2002.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report)
 
 ---
