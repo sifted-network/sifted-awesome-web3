@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-09"
 date: "2026-10-09"
 source: "CoinDesk"
-count: 19
+count: 18
 ---
 
 # CoinDesk - 2026-10-09
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -224,17 +224,5 @@ The feature lets businesses give separate accounts limited powers such as approv
 About $356 million in ETH positions were liquidated over 24 hours, more than bitcoin despite ether’s market value being less than a fifth as large.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush)
-
----
-
-## 19. Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops
-
-**Author:** Omkar Godbole  
-**Published:** 10/9/2026, 3:27:38 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin rebounded to $82,000 as Trump ruled out an Iran strike before the midterms, while crypto security experts pushed back on “bunker mode” fears.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes)
 
 ---
