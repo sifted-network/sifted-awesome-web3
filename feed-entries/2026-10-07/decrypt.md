@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-07"
 date: "2026-10-07"
 source: "Decrypt"
-count: 4
+count: 2
 ---
 
 # Decrypt - 2026-10-07
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying m
 Ethereum Foundation researcher Justin Drake urged holders to calmly move funds to unused addresses, warning that AI-driven math could break crypto signatures before quantum computers do.
 
 📖 [Read original article](https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum)
-
----
-
-## 3. Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/7/2026, 8:46:03 PM  
-**Categories:** Artificial Intelligence  
-
-Claude Haiku 5.5 costs about 75% less to run than its predecessor and targets high-volume jobs like summaries and live customer support. It arrives 15 days after Opus 5.5.
-
-📖 [Read original article](https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model)
-
----
-
-## 4. SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill
-
-**Author:** Decrypt Staff  
-**Published:** 10/7/2026, 8:16:04 PM  
-**Categories:** , , , Law and Order  
-
-The House Financial Services chairman credited the SEC and CFTC for stepping in after the Clarity Act's collapse but said only "permanent law change" can secure U.S. leadership.
-
-📖 [Read original article](https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill)
 
 ---
