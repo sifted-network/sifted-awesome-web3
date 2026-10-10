@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-08"
 date: "2026-10-08"
 source: "Cointelegraph"
-count: 10
+count: 8
 ---
 
 # Cointelegraph - 2026-10-08
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Blockchain analysts identified the US government wallet tied to the recovery of 
 Tokenization offers structural advantages to financial institutions and helps asset managers reach new markets, according to Fidelity’s head of digital asset strategists.
 
 📖 [Read original article](https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Crypto lending rises again… but have they solved the risks?
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 10/8/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Crypto lending has risen by 55% since July, but now has to deal with the dangers of AI assisted hacks, and risks cascading through interlinked protocols. Here’s how to stay safe.
-
-📖 [Read original article](https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. EU lawmakers push crypto onto anti-corruption agenda
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 10/8/2026, 12:54:21 PM  
-**Categories:** Latest News  
-
-MEPs also called for stronger asset recovery, while the Commission plans to adopt its first anti-corruption strategy by the end of this year.
-
-📖 [Read original article](https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
