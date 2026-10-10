@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-09"
 date: "2026-10-09"
 source: "Cointelegraph"
-count: 20
+count: 19
 ---
 
 # Cointelegraph - 2026-10-09
 
-20 items collected.
+19 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ Chad Barraford, technical co-founder of the network, said that the funds were fr
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 10/9/2026, 6:30:11 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. HSBC, Ant Digital test AI-agent payments using tokenized deposits
+## 4. HSBC, Ant Digital test AI-agent payments using tokenized deposits
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/9/2026, 5:21:07 PM  
@@ -71,7 +59,7 @@ The technical trial showed how AI agents could discover services and make microp
 
 ---
 
-## 6. Ledger investigates fund losses linked to Southeast Asian reseller, warns users
+## 5. Ledger investigates fund losses linked to Southeast Asian reseller, warns users
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/9/2026, 5:02:47 PM  
@@ -83,7 +71,7 @@ Hardware wallet maker Ledger probes losses tied to reseller CryptoBilis, as rese
 
 ---
 
-## 7. Blockchain.com pursues CFTC approval for prediction markets: CNBC
+## 6. Blockchain.com pursues CFTC approval for prediction markets: CNBC
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/9/2026, 4:22:45 PM  
@@ -95,7 +83,7 @@ The crypto company has reportedly applied for two licenses with the US commoditi
 
 ---
 
-## 8. Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold
+## 7. Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/9/2026, 3:51:53 PM  
@@ -107,7 +95,7 @@ Wealthy investors are embracing crypto faster than their advisers, while OKX att
 
 ---
 
-## 9. Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports
+## 8. Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/9/2026, 3:20:36 PM  
@@ -119,7 +107,7 @@ Bitcoin and crypto markets eyed a recovery from Thursday’s drop despite concer
 
 ---
 
-## 10. Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures
+## 9. Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/9/2026, 1:49:22 PM  
@@ -131,7 +119,7 @@ Dragonfly’s Qureshi argued that asset migration is not a real solution in case
 
 ---
 
-## 11. France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months
+## 10. France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 10/9/2026, 1:30:00 PM  
@@ -143,7 +131,7 @@ French authorities recorded 90 crypto-related cases involving kidnapping, extort
 
 ---
 
-## 12. ESMA seeks evidence tokenized collateral can be cashed out in crisis
+## 11. ESMA seeks evidence tokenized collateral can be cashed out in crisis
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/9/2026, 10:49:24 AM  
@@ -155,7 +143,7 @@ ESMA is seeking industry feedback on the legal, liquidity and operational risks 
 
 ---
 
-## 13. UK sanctions three crypto exchanges tied to Russian illicit funds
+## 12. UK sanctions three crypto exchanges tied to Russian illicit funds
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/9/2026, 10:34:37 AM  
@@ -167,7 +155,7 @@ The UK sanctioned crypto exchanges and payment processors, some of which were ti
 
 ---
 
-## 14. French lawmakers back stablecoin swap tax in 2027 budget bill
+## 13. French lawmakers back stablecoin swap tax in 2027 budget bill
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/9/2026, 10:16:48 AM  
@@ -179,7 +167,7 @@ France’s Finance Committee backed taxes on stablecoin swaps, as well as unreal
 
 ---
 
-## 15. Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations
+## 14. Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/9/2026, 9:50:01 AM  
@@ -191,7 +179,7 @@ Bitcoin dipped below $81,000, sparking mass crypto liquidations as traders sent 
 
 ---
 
-## 16. Bitcoin, Ether ETFs’ October outflows swell toward $1B
+## 15. Bitcoin, Ether ETFs’ October outflows swell toward $1B
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/9/2026, 7:34:44 AM  
@@ -203,7 +191,7 @@ Bitcoin ETFs lost $244 million on Thursday, while Ether funds extended their out
 
 ---
 
-## 17. Crypto projects apply for Anthropic’s new frontier AI security scanner
+## 16. Crypto projects apply for Anthropic’s new frontier AI security scanner
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/9/2026, 5:34:33 AM  
@@ -215,7 +203,7 @@ Anthropic’s new opt-in service promises vulnerability reports from its stronge
 
 ---
 
-## 18. Trump administration outlines quantum, AI initiatives in $6B science push
+## 17. Trump administration outlines quantum, AI initiatives in $6B science push
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/9/2026, 5:25:27 AM  
@@ -227,7 +215,7 @@ The White House outlined a $215 million quantum computing competition and $2.4 b
 
 ---
 
-## 19. Thailand finalizes rules paving way for Bitcoin, Ether ETFs
+## 18. Thailand finalizes rules paving way for Bitcoin, Ether ETFs
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/9/2026, 3:08:51 AM  
@@ -239,7 +227,7 @@ The rules are set to take effect next week, allowing crypto ETFs to trade exclus
 
 ---
 
-## 20. Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties
+## 19. Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/9/2026, 12:46:27 AM  
