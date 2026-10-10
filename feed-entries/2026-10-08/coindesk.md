@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-08"
 date: "2026-10-08"
 source: "CoinDesk"
-count: 6
+count: 5
 ---
 
 # CoinDesk - 2026-10-08
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ In opposition to federal oversight of the prediction markets, the National Footb
 Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated)
-
----
-
-## 6. EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins
-
-**Author:** Olivier Acuna  
-**Published:** 10/8/2026, 3:23:26 PM  
-**Categories:** Policy, Stablecoins, MiCA, Regulation, News  
-
-ESMA said authorized platforms must block new access to stablecoins that fail to meet MiCA rules, while national authorities oversee existing customer holdings.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins)
 
 ---
