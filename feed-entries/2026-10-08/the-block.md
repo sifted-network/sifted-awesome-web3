@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-08"
 date: "2026-10-08"
 source: "The Block"
-count: 11
+count: 10
 ---
 
 # The Block - 2026-10-08
 
-11 items collected.
+10 items collected.
 
 ---
 
@@ -128,17 +128,5 @@ The bank said the service would extend its existing crypto custody footprint in 
 Ethereum co-founder Vitalik Buterin warned that the crypto industry should take risks to cryptography from AI-accelerated math seriously.
 
 📖 [Read original article](https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007)
-
----
-
-## 11. Samsung to launch USDC transfers on Solana for US Galaxy users
-
-**Author:** Timmy Shen  
-**Published:** 10/8/2026, 2:50:01 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, News  
-
-The South Korean tech giant said the feature is built into Samsung Wallet, with fiat on- and off-ramps, rather than a separate crypto app.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004)
 
 ---
