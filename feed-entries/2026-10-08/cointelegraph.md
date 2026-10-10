@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-08"
 date: "2026-10-08"
 source: "Cointelegraph"
-count: 8
+count: 7
 ---
 
 # Cointelegraph - 2026-10-08
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -92,17 +92,5 @@ Bitcoin dipped below $81,000 and oil prices gained after reports that military c
 Blockchain analysts identified the US government wallet tied to the recovery of funds from the Bitfinex hack.
 
 📖 [Read original article](https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. ‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/8/2026, 1:42:27 PM  
-**Categories:** Latest News  
-
-Tokenization offers structural advantages to financial institutions and helps asset managers reach new markets, according to Fidelity’s head of digital asset strategists.
-
-📖 [Read original article](https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
