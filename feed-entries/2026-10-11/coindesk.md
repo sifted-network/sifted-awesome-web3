@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-10-11"
 date: "2026-10-11"
 source: "CoinDesk"
-count: 3
+count: 4
 ---
 
 # CoinDesk - 2026-10-11
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Clarity's failure could speed crypto innovation while shielding incumbents
+## 1. Everyone wants SCOTUS to take up prediction markets: State of Crypto
+
+**Author:** Nikhilesh De  
+**Published:** 10/11/2026, 6:30:00 PM  
+**Categories:** Policy, Newsletters, State of Crypto, Prediction Markets, News  
+
+The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an interim final rule and a rule proposal.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto)
+
+---
+
+## 2. Clarity's failure could speed crypto innovation while shielding incumbents
 
 **Author:** Will Canny,AI Boost  
 **Published:** 10/11/2026, 4:00:00 PM  
@@ -23,7 +35,7 @@ Executives see openings for tokenization, DeFi and dealmaking, while lawyers war
 
 ---
 
-## 2. President Trump declares 'energy ceasefire' between Russia and Ukraine
+## 3. President Trump declares 'energy ceasefire' between Russia and Ukraine
 
 **Author:** Stephen Alpher  
 **Published:** 10/11/2026, 3:40:47 PM  
@@ -35,7 +47,7 @@ Executives see openings for tokenization, DeFi and dealmaking, while lawyers war
 
 ---
 
-## 3. IMF finds demand for tokenized stocks, says the market is still volatile, illiquid
+## 4. IMF finds demand for tokenized stocks, says the market is still volatile, illiquid
 
 **Author:** Olivier Acuna  
 **Published:** 10/11/2026, 1:00:00 PM  
