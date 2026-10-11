@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-08"
 date: "2026-10-08"
 source: "The Block"
-count: 7
+count: 4
 ---
 
 # The Block - 2026-10-08
 
-7 items collected.
+4 items collected.
 
 ---
 
@@ -56,41 +56,5 @@ TD Cowen kept its $260 price target on Strategy (MSTR) as dilution limits the be
 Section 1: The Block’s Global Crypto Competitiveness Index Crypto markets have historically been measured on their trading volume, ownership, or adoption. While these metrics remain important, they speak to demand-side factors rather than the environment in which crypto companies and capital can ope...
 
 📖 [Read original article](https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081)
-
----
-
-## 5. Bitwise CEO says ‘tragic’ Dogecoin ETF failure shows gap between ETF buyers and crypto-app users
-
-**Author:** Danny Park  
-**Published:** 10/8/2026, 4:43:47 PM  
-**Categories:** Companies, Crypto Ecosystems, Funds, Markets, Web3, AI, Dogecoin ETF, News  
-
-Alongside its recent spot NEAR ETF launch, Bitwise is prioritizing AI and intends to do more in that area.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070)
-
----
-
-## 6. Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range
-
-**Author:** James Hunt  
-**Published:** 10/8/2026, 2:52:27 PM  
-**Categories:** Crypto Ecosystems, Equities, Funds, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin, Bitcoin ETF, News  
-
-Bitcoin traded near $82,000 on Thursday, with analysts at QCP expecting a fourth-quarter range of $80,000 to $90,000.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052)
-
----
-
-## 7. Securitize launches 1:1-backed tokenized stocks, starting with Apple, Nvidia, Strategy and more
-
-**Author:** Jason Shubnell  
-**Published:** 10/8/2026, 2:04:39 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Web3, Solana, Tokenization, News  
-
-Securitize launches tokenized US stocks on Solana, backed 1:1 by real shares with dividends and USDC settlement.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043)
 
 ---
