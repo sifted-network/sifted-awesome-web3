@@ -6,16 +6,16 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,551 | 2,285 | Rust | 13 | A based rollup protocol for Ethereum🥁  | 2026-10-10 |
+| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,550 | 2,286 | Rust | 14 | A based rollup protocol for Ethereum🥁  | 2026-10-11 |
 | 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,061 | 765 | Rust | 630 | The Stacks blockchain implementation | 2026-10-09 |
-| 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,551 | 332 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
-| 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,019 | 613 | - | 1895 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
-| 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 891 | 110 | - | 4 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
+| 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,552 | 332 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
+| 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,018 | 613 | - | 1895 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
+| 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 892 | 110 | - | 4 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-03-15 |
 | 6 | [starknetbook](https://github.com/starknet-edu/starknetbook) | 828 | 490 | CSS | 0 | Mastering Starknet. By the Starknet community | 2024-06-20 |
 | 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 614 | 61 | JavaScript | 16 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-09-28 |
 | 8 | [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) | 488 | 142 | C | 7 | Open source MAC Telnet client and server for connecting to Mikrotik RouterOS routers and Posix devices using MAC addresses | 2025-09-21 |
 | 9 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 468 | 52 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2026-09-23 |
-| 10 | [juno](https://github.com/NethermindEth/juno) | 444 | 249 | Go | 30 | Starknet full node designed for peak concurrency and efficiency | 2026-10-09 |
+| 10 | [juno](https://github.com/NethermindEth/juno) | 444 | 249 | Go | 29 | Starknet full node designed for peak concurrency and efficiency | 2026-10-10 |
 | 11 | [db3](https://github.com/dbpunk-labs/db3) | 388 | 43 | Rust | 18 |  a Lightweight, Permanent JSON document database | 2024-07-29 |
 | 12 | [ChainX](https://github.com/chainx-org/ChainX) | 326 | 120 | Rust | 1 | Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM  | 2025-12-18 |
 | 13 | [blockchain-roadmap](https://github.com/itublockchain/blockchain-roadmap) | 279 | 39 | - | 0 | Blockchain öğrenme yolculuğunuz için yol haritası | 2024-10-13 |
@@ -67,19 +67,19 @@
 | 59 | [stellar-turrets](https://github.com/kalepail/stellar-turrets) | 34 | 28 | JavaScript | 9 | Reference implementation of the Stellar Turrets protocol | 2022-01-14 |
 | 60 | [reddio](https://github.com/reddio-com/reddio) | 33 | 11 | Go | 10 | Parallel EVM layer2 | 2025-07-03 |
 | 61 | [ten-documentation](https://github.com/ten-protocol/ten-documentation) | 32 | 29 | JavaScript | 0 | Ten Documentation provides a comprehensive guide to understanding and integrating TEN | 2026-02-27 |
-| 62 | [gtp-backend](https://github.com/growthepie/gtp-backend) | 31 | 12 | Python | 0 | The backend powering growthepie, the open analytics platform for the Ethereum ecosystem. It indexes and aggregates onchain data across Ethereum Mainnet, Layer 2s, and leading applications. | 2026-10-08 |
+| 62 | [gtp-backend](https://github.com/growthepie/gtp-backend) | 31 | 12 | Python | 0 | The backend powering growthepie, the open analytics platform for the Ethereum ecosystem. It indexes and aggregates onchain data across Ethereum Mainnet, Layer 2s, and leading applications. | 2026-10-10 |
 | 63 | [DISEQ](https://github.com/jonas089/DISEQ) | 31 | 4 | Rust | 6 | distributed sequencer with zk consensus | 2025-04-13 |
 | 64 | [XRPLEVM](https://github.com/MeoMunDep/XRPLEVM) | 31 | 0 | JavaScript | 0 | Auto deploy, send, burn, swap, bridge, add liquid pool, mint tokens.  | 2025-09-29 |
 | 65 | [mina-zk-rollup](https://github.com/Trivo25/mina-zk-rollup) | 30 | 2 | TypeScript | 22 | A modular zk-Rollup for zero knowledge smart contracts, zkApps, on the Mina blockchain. | 2023-04-16 |
 | 66 | [zxnext_layer2](https://github.com/stefanbylund/zxnext_layer2) | 29 | 6 | C | 0 | C layer 2 graphics API for Spectrum Next | 2022-07-10 |
 | 67 | [chaoschain-launchpad](https://github.com/ChaosChain/chaoschain-launchpad) | 29 | 2 | Go | 44 | A launch pad to spin chaoschain with a given configuration of AI Agents | 2025-04-21 |
 | 68 | [uniswap-python-swapper](https://github.com/snarflakes/uniswap-python-swapper) | 28 | 10 | Python | 2 | Uniswap v4 Python Token Swapper – Universal Router.  A user-friendly Python script that demonstrates how to execute SWAP_EXACT_IN (Exact Input) swaps on Uniswap v4 Universal Router across various L2 n... | 2025-02-06 |
-| 69 | [gosh](https://github.com/gosh-sh/gosh) | 27 | 7 | Shell | 0 | GOSH — Decentralized Operating System where you build consensus around your idea. GOSH is an advanced scalable multithreaded blockchain, and the first with a Freemium business model, offering powerful... | 2024-08-08 |
+| 69 | [gosh](https://github.com/gosh-sh/gosh) | 27 | 6 | Shell | 0 | GOSH — Decentralized Operating System where you build consensus around your idea. GOSH is an advanced scalable multithreaded blockchain, and the first with a Freemium business model, offering powerful... | 2024-08-08 |
 | 70 | [sso](https://github.com/laincloud/sso) | 25 | 13 | Go | 3 | Single Sign On with OAuth2 and OpenID Connect, independent of LAIN | 2018-09-12 |
 | 71 | [Novaichain](https://github.com/MeoMunDep/Novaichain) | 25 | 0 | Shell | 0 | Auto swap, faucet, connect wallet. | 2025-10-15 |
 | 72 | [sgn](https://github.com/celer-network/sgn) | 23 | 8 | Go | 0 | Official Go implementation of the Celer State Guardian Network (SGN) | 2023-03-07 |
-| 73 | [wireguard](https://github.com/qinghon/wireguard) | 22 | 0 | C | 0 | wireguard layer2 mode | 2026-01-23 |
-| 74 | [ndxstr-nodejs](https://github.com/OpenAgentsInc/ndxstr-nodejs) | 22 | 2 | JavaScript | 2 | Nostr indexing node proof-of-concept in NodeJS | 2023-01-29 |
+| 73 | [ndxstr-nodejs](https://github.com/OpenAgentsInc/ndxstr-nodejs) | 23 | 2 | JavaScript | 2 | Nostr indexing node proof-of-concept in NodeJS | 2023-01-29 |
+| 74 | [wireguard](https://github.com/qinghon/wireguard) | 22 | 0 | C | 0 | wireguard layer2 mode | 2026-01-23 |
 | 75 | [Layer2SpriteSheet](https://github.com/rraallvv/Layer2SpriteSheet) | 21 | 5 | JavaScript | 3 | Simple Photoshop script port of the texpack texture packer by Mariano Cuatrin (https://github.com/urraka/texpack) | 2018-08-15 |
 | 76 | [Layer2_TapTunnel](https://github.com/Azumi67/Layer2_TapTunnel) | 20 | 6 | Python | 0 | A lightweight Layer-2 Tap tunnel based tunnels between two hosts using UDP tunneling. it creates Private IPV4. | 2025-07-31 |
 | 77 | [layer2_20-core](https://github.com/layer220/layer2_20-core) | 20 | 3 | - | 0 |  | 2023-12-23 |
