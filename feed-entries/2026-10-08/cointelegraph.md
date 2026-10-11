@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-08"
 date: "2026-10-08"
 source: "Cointelegraph"
-count: 7
+count: 4
 ---
 
 # Cointelegraph - 2026-10-08
 
-7 items collected.
+4 items collected.
 
 ---
 
@@ -56,41 +56,5 @@ According to the league, Kalshi and other prediction markets “threaten game in
 Sam Bankman-Fried remains in federal prison following his 2023 conviction, while Caroline Ellison was released in January.
 
 📖 [Read original article](https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. IMF warns tokenized markets could amplify financial risks
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 10/8/2026, 4:25:06 PM  
-**Categories:** Latest News  
-
-The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading.
-
-📖 [Read original article](https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Bitcoin nears 3-week low as oil heads higher on Iran strike woes
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/8/2026, 3:55:55 PM  
-**Categories:** Markets  
-
-Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. US government moves $1B in seized Bitcoin after $770M transfers
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 10/8/2026, 3:24:16 PM  
-**Categories:** Latest News  
-
-Blockchain analysts identified the US government wallet tied to the recovery of funds from the Bitfinex hack.
-
-📖 [Read original article](https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
