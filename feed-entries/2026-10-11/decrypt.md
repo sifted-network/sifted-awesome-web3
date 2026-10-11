@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-10-11"
 date: "2026-10-11"
 source: "Decrypt"
-count: 2
+count: 3
 ---
 
 # Decrypt - 2026-10-11
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Bitcoin, Ethereum and Solana ETFs All in the Red for October
+## 1. Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds
+
+**Author:** Decrypt Staff  
+**Published:** 10/11/2026, 5:11:03 PM  
+**Categories:** Coins  
+
+An IMF analysis found that more than half of tokenized stock trading happens outside U.S. market hours, though the roughly $2.3 billion market remains more volatile and less liquid than traditional equities.
+
+📖 [Read original article](https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds)
+
+---
+
+## 2. Bitcoin, Ethereum and Solana ETFs All in the Red for October
 
 **Author:** Decrypt Agent  
 **Published:** 10/11/2026, 4:01:03 PM  
@@ -23,7 +35,7 @@ Bitcoin ETFs have seen $386.3 million in net outflows through the first seven tr
 
 ---
 
-## 2. How Zcash Plans to Hide Your Keys From AI and Quantum Attacks
+## 3. How Zcash Plans to Hide Your Keys From AI and Quantum Attacks
 
 **Author:** Decrypt Staff  
 **Published:** 10/11/2026, 1:00:03 PM  
