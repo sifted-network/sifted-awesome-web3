@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-09"
 date: "2026-10-09"
 source: "CoinDesk"
-count: 18
+count: 15
 ---
 
 # CoinDesk - 2026-10-09
 
-18 items collected.
+15 items collected.
 
 ---
 
@@ -188,41 +188,5 @@ Bitcoin ETFs lost $244 million on Thursday and the ZEC fund extended a run of Oc
 Layer-1 blockchain Sui is launching Hashi, an institutional protocol allowing holders to use bitcoin as collateral without moving it off the Bitcoin network.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments)
-
----
-
-## 16. Solana is about to halve its block times as final 200-millisecond upgrade nears
-
-**Author:** Shaurya Malwa  
-**Published:** 10/9/2026, 5:00:52 AM  
-**Categories:** Tech, News  
-
-The network is completing a seven-week push to produce blocks twice as frequently, though validators face higher costs and tighter operating windows.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears)
-
----
-
-## 17. XRP Ledger adds new controls for banks, stablecoins and tokenized funds
-
-**Author:** Shaurya Malwa  
-**Published:** 10/9/2026, 4:21:36 AM  
-**Categories:** Tech, News  
-
-The feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control their main holdings offline.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds)
-
----
-
-## 18. Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush
-
-**Author:** Shaurya Malwa  
-**Published:** 10/9/2026, 4:04:36 AM  
-**Categories:** Markets, News  
-
-About $356 million in ETH positions were liquidated over 24 hours, more than bitcoin despite ether’s market value being less than a fifth as large.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush)
 
 ---
