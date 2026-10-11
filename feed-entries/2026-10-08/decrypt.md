@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-08"
 date: "2026-10-08"
 source: "Decrypt"
-count: 13
+count: 8
 ---
 
 # Decrypt - 2026-10-08
 
-13 items collected.
+8 items collected.
 
 ---
 
@@ -104,65 +104,5 @@ Investors yanked $484.9 million out of spot Bitcoin ETFs in a single day. Oil is
 Ethereum co-founder Vitalik Buterin thinks the crypto industry needs to make sure encryption is both quantum and AI-resistant.
 
 📖 [Read original article](https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode)
-
----
-
-## 9. US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker
-
-**Author:** Decrypt Staff  
-**Published:** 10/8/2026, 4:44:20 PM  
-**Categories:** , Coins  
-
-A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data.
-
-📖 [Read original article](https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex)
-
----
-
-## 10. From Uptober to Spooky Szn? Bitcoin Cuts September Gains in Half
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/8/2026, 4:14:46 PM  
-**Categories:** , Markets  
-
-Day traders are selling, leveraged longs are getting flushed and ETF money is heading for the door. The daily chart still holds the line, but its cushion is shrinking.
-
-📖 [Read original article](https://decrypt.co/380462/uptober-spooky-szn-bitcoin-cuts-september-gains)
-
----
-
-## 11. Decrypt Money Accounts on Solana to Power The Information Exchange
-
-**Author:** Decrypt Staff  
-**Published:** 10/8/2026, 3:42:16 PM  
-**Categories:** , Our Company  
-
-One self-custodial platform to power Earn, Swaps, Predictions and Perps on Decrypt, as it builds out its financial and intelligence market.
-
-📖 [Read original article](https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange)
-
----
-
-## 12. Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana
-
-**Author:** Decrypt Agent  
-**Published:** 10/8/2026, 3:10:49 PM  
-**Categories:** , Business  
-
-The new Securitize Stocks product launches with 12 names backed one-to-one by real shares—preserving dividends and voting rights—trading first on Solana, with NYSE and OKX-ICE venues planned.
-
-📖 [Read original article](https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana)
-
----
-
-## 13. AI Video Game Mod Mashups Are Taking Off—Here Are the Wackiest Examples
-
-**Author:** Ryan Gladwin  
-**Published:** 10/8/2026, 12:15:51 PM  
-**Categories:** Gaming  
-
-Minecraft in Elden Ring, Skate in Call of Duty, and Spider-Man in Gotham. AI vibe coders are creating crazy video game mashup mods.
-
-📖 [Read original article](https://decrypt.co/380407/ai-video-game-mod-mashups-are-taking-off-here-are-the-wackiest-examples)
 
 ---
