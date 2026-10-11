@@ -2,19 +2,31 @@
 title: "Cointelegraph - 2026-10-11"
 date: "2026-10-11"
 source: "Cointelegraph"
-count: 3
+count: 4
 ---
 
 # Cointelegraph - 2026-10-11
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Coldcard says it’s investigating how phishing link appeared on its X account
+## 1. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Michael Millard  
-**Published:** 10/11/2026, 10:22:44 AM  
+**Published:** 10/11/2026, 12:45:00 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Coldcard says it’s investigating how phishing link appeared on its X account
+
+**Author:** Cointelegraph by Aaron Barefoot  
+**Published:** 10/11/2026, 10:32:00 AM  
 **Categories:** Latest News  
 
 Company advised users not to visit or interact with the link in question and said it will share any further verified updates.
@@ -23,10 +35,10 @@ Company advised users not to visit or interact with the link in question and sai
 
 ---
 
-## 2. Ledger confirms unauthorized hardware implant; losses may exceed $86M
+## 3. Ledger confirms unauthorized hardware implant, says losses may exceed $86M
 
 **Author:** Cointelegraph by Michael Millard  
-**Published:** 10/11/2026, 9:01:51 AM  
+**Published:** 10/11/2026, 9:05:00 AM  
 **Categories:** Latest News  
 
 Ledger said the incident appeared to be isolated to a single reseller and its Southeast Asian market.
@@ -35,10 +47,10 @@ Ledger said the incident appeared to be isolated to a single reseller and its So
 
 ---
 
-## 3. CFTC proposals aimed at separating prediction markets from casino gambling
+## 4. CFTC proposals aimed at separating prediction markets from casino gambling
 
 **Author:** Cointelegraph by Michael Millard  
-**Published:** 10/11/2026, 7:44:51 AM  
+**Published:** 10/11/2026, 7:50:00 AM  
 **Categories:** Latest News  
 
 The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction.
