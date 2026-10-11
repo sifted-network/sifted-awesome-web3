@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-09"
 date: "2026-10-09"
 source: "CoinDesk"
-count: 15
+count: 14
 ---
 
 # CoinDesk - 2026-10-09
 
-15 items collected.
+14 items collected.
 
 ---
 
@@ -176,17 +176,5 @@ Meanwhile has signed 15 brokers serving high-net worth clients across markets iS
 Bitcoin ETFs lost $244 million on Thursday and the ZEC fund extended a run of October outflows. Bitcoin is back near $82,000 after a $1 billion liquidation.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows)
-
----
-
-## 15. New tech to power bitcoin lending is set to debut with $500 million in commitments
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 10/9/2026, 6:40:54 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Layer-1 blockchain Sui is launching Hashi, an institutional protocol allowing holders to use bitcoin as collateral without moving it off the Bitcoin network.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments)
 
 ---
