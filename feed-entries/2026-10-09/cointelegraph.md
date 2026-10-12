@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-09"
 date: "2026-10-09"
 source: "Cointelegraph"
-count: 19
+count: 17
 ---
 
 # Cointelegraph - 2026-10-09
 
-19 items collected.
+17 items collected.
 
 ---
 
@@ -35,7 +35,7 @@ The agreement resolves a 2023 civil fraud lawsuit against the Celsius founder an
 
 ---
 
-## 3. THORChain exec accuses Tether of temporarily freezing USDT vaults
+## 3. THORChain dev accuses Tether of temporarily freezing USDT vaults
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/9/2026, 7:04:03 PM  
@@ -212,29 +212,5 @@ Anthropic’s new opt-in service promises vulnerability reports from its stronge
 The White House outlined a $215 million quantum computing competition and $2.4 billion in AI industry commitments as concerns grow over quantum threats to cryptocurrency security.
 
 📖 [Read original article](https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Thailand finalizes rules paving way for Bitcoin, Ether ETFs
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/9/2026, 3:08:51 AM  
-**Categories:** Latest News  
-
-The rules are set to take effect next week, allowing crypto ETFs to trade exclusively on the Stock Exchange of Thailand.
-
-📖 [Read original article](https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/9/2026, 12:46:27 AM  
-**Categories:** Latest News  
-
-The letter follows a report by the Democratic investigators last month alleging Tether’s USDT has become a key tool for Iran’s shadow banking network.
-
-📖 [Read original article](https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
