@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-11"
 date: "2026-10-11"
 source: "Cointelegraph"
-count: 6
+count: 5
 ---
 
 # Cointelegraph - 2026-10-11
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ Investors will have to wait an extra day to find out if and how much Strategy ad
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Robert Lakin  
-**Published:** 10/11/2026, 12:59:00 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Coldcard says it’s investigating how phishing link appeared on its X account
+## 3. Coldcard says it’s investigating how phishing link appeared on its X account
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/11/2026, 10:40:00 AM  
@@ -59,7 +47,7 @@ Company advised users not to visit or interact with the link in question and sai
 
 ---
 
-## 5. Ledger confirms unauthorized hardware implant, says losses may exceed $86M
+## 4. Ledger confirms unauthorized hardware implant, says losses may exceed $86M
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/11/2026, 9:05:00 AM  
@@ -71,7 +59,7 @@ Ledger said the incident appeared to be isolated to a single reseller and its So
 
 ---
 
-## 6. CFTC proposals aimed at separating prediction markets from casino gambling
+## 5. CFTC proposals aimed at separating prediction markets from casino gambling
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/11/2026, 7:50:00 AM  
