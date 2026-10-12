@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-10-12"
 date: "2026-10-12"
 source: "CoinDesk"
-count: 11
+count: 14
 ---
 
 # CoinDesk - 2026-10-12
 
-11 items collected.
+14 items collected.
 
 ---
 
-## 1. Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link
+## 1. Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet
+
+**Author:** James Van Straten  
+**Published:** 10/12/2026, 4:18:03 PM  
+**Categories:** Policy, Artificial Intelligence, News  
+
+The Palantir UK chief said the U.S. is racing ahead on enterprise AI while Europe hesitates, and explained why he thinks the company faces intense political attacks.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet)
+
+---
+
+## 2. Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether
+
+**Author:** Krisztian Sandor  
+**Published:** 10/12/2026, 3:27:09 PM  
+**Categories:** Finance, Ethereum News, Digital Asset Treasury, News  
+
+The Bitmine chairman said he expects younger investors to drive demand for digital assets as his ether treasury company inches closer to owning 5% of the total supply.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether)
+
+---
+
+## 3. Tokenized catastrophe bonds target the disaster-insurance gap
+
+**Author:** Olivier Acuna  
+**Published:** 10/12/2026, 3:00:00 PM  
+**Categories:** Finance, Tokenization, News  
+
+A planned Bermuda issuance would put legal ownership onchain and seek capital for disaster risks that remain costly to insure.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap)
+
+---
+
+## 4. Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link
 
 **Author:** Olivier Acuna  
 **Published:** 10/12/2026, 12:09:09 PM  
@@ -23,7 +59,7 @@ Ripple previously gave LMAX $150 million in financing to integrate RLUSD into it
 
 ---
 
-## 2. Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen
+## 5. Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen
 
 **Author:** Olivier Acuna  
 **Published:** 10/12/2026, 12:01:53 PM  
@@ -35,9 +71,9 @@ Ledger said every confirmed case involves devices sold by the Southeast Asian re
 
 ---
 
-## 3. Bitcoin falls below $83,000 as dollar strength keeps markets on edge
+## 6. Bitcoin falls below $83,000 as dollar strength keeps markets on edge
 
-**Author:** James Van Straten  
+**Author:** James Van Straten,Krisztian Sandor  
 **Published:** 10/12/2026, 11:21:11 AM  
 **Categories:** Markets, Live News, live_news  
 
@@ -47,7 +83,7 @@ Bitcoin and gold hold steady as a firm dollar and rising bond yields weigh on se
 
 ---
 
-## 4. Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis
+## 7. Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 10/12/2026, 11:02:38 AM  
@@ -59,7 +95,7 @@ Coins jointly issued by multiple companies can trap reserves in one jurisdiction
 
 ---
 
-## 5. South Korea just got its first traditional bank loans backed by bitcoin
+## 8. South Korea just got its first traditional bank loans backed by bitcoin
 
 **Author:** Francisco Rodrigues  
 **Published:** 10/12/2026, 10:57:37 AM  
@@ -71,7 +107,7 @@ Loans use third-party custodians for bitcoin holdings and rely on court-ordered 
 
 ---
 
-## 6. SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI
+## 9. SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI
 
 **Author:** Olivier Acuna  
 **Published:** 10/12/2026, 10:27:00 AM  
@@ -83,7 +119,7 @@ SWI Group said it would use the proceeds from an 800 million-euro ($894 million)
 
 ---
 
-## 7. Altcoins rally on thin trading as bitcoin holds below $83,500
+## 10. Altcoins rally on thin trading as bitcoin holds below $83,500
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 10/12/2026, 10:20:54 AM  
@@ -95,7 +131,7 @@ The CoinDesk 80 has risen around 3% in 24 hours, more than double the CoinDesk 5
 
 ---
 
-## 8. U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead
+## 11. U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead
 
 **Author:** Francisco Rodrigues  
 **Published:** 10/12/2026, 8:58:24 AM  
@@ -107,7 +143,7 @@ Your look at what's coming in the week starting Oct. 12.
 
 ---
 
-## 9. Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years
+## 12. Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years
 
 **Author:** Omkar Godbole  
 **Published:** 10/12/2026, 8:32:17 AM  
@@ -119,7 +155,7 @@ The XRP Ledger Foundation said normal parameters never triggered the bug that co
 
 ---
 
-## 10. Ledger says unauthorized implant found in at least one device sold by CryptoBilis
+## 13. Ledger says unauthorized implant found in at least one device sold by CryptoBilis
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 10/12/2026, 7:49:40 AM  
@@ -131,7 +167,7 @@ Ledger confirmed an unauthorized hardware implant in a device linked to crypto l
 
 ---
 
-## 11. Bitcoin pulls back from $84,000 as oil recovers, ETFs bleed over $600 million
+## 14. Bitcoin pulls back from $84,000 as oil recovers, ETFs bleed over $600 million
 
 **Author:** Omkar Godbole  
 **Published:** 10/12/2026, 4:49:30 AM  
