@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-12"
 date: "2026-10-12"
 source: "CoinDesk"
-count: 12
+count: 9
 ---
 
 # CoinDesk - 2026-10-12
 
-12 items collected.
+9 items collected.
 
 ---
 
@@ -116,41 +116,5 @@ Loans use third-party custodians for bitcoin holdings and rely on court-ordered 
 SWI Group said it would use the proceeds from an 800 million-euro ($894 million) fundraise to transform Genesis Digital Assets, acquired from the FTX bankruptcy, from a bitcoin miner to an AI-focused data center.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai)
-
----
-
-## 10. Altcoins rally on thin trading as bitcoin holds below $83,500
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 10/12/2026, 10:20:54 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-The CoinDesk 80 has risen around 3% in 24 hours, more than double the CoinDesk 5, while spot bitcoin ETFs lost $681 million last week.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000)
-
----
-
-## 11. U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead
-
-**Author:** Francisco Rodrigues  
-**Published:** 10/12/2026, 8:58:24 AM  
-**Categories:** Markets, week ahead, News  
-
-Your look at what's coming in the week starting Oct. 12.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead)
-
----
-
-## 12. Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years
-
-**Author:** Omkar Godbole  
-**Published:** 10/12/2026, 8:32:17 AM  
-**Categories:** Tech, XRP News, News  
-
-The XRP Ledger Foundation said normal parameters never triggered the bug that could have broken XRP's supply cap, which is why it was undetected for years.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years)
 
 ---
