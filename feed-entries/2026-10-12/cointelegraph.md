@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-12"
 date: "2026-10-12"
 source: "Cointelegraph"
-count: 15
+count: 9
 ---
 
 # Cointelegraph - 2026-10-12
 
-15 items collected.
+9 items collected.
 
 ---
 
@@ -116,77 +116,5 @@ Michael Saylor’s Strategy said Bitcoin holdings reached 848,250 BTC after its 
 ASIC’s proposal would extend leverage limits and protections against negative balances to certain derivatives settled in digital assets.
 
 📖 [Read original article](https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/12/2026, 11:14:10 AM  
-**Categories:** Markets  
-
-Bitcoin traders braced for inflation-based volatility after BTC price action preserved key weekly support around $82,500.
-
-📖 [Read original article](https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Kraken parent clears Dubai’s final hurdle for dirham trading rollout
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/12/2026, 9:41:17 AM  
-**Categories:** Latest News  
-
-Payward received full market approval from Dubai’s VARA to expand its digital asset services in the UAE, building on the preliminary approval received in May.
-
-📖 [Read original article](https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/12/2026, 9:30:57 AM  
-**Categories:** Latest News  
-
-Standard Chartered has launched custody for Ripple’s RLUSD stablecoin on the XRP Ledger and plans to let institutions use the tokens as trading collateral.
-
-📖 [Read original article](https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. South Korean bank launches Bitcoin-backed business loans: Report
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/12/2026, 8:45:58 AM  
-**Categories:** Latest News  
-
-Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Global watchdog flags stablecoin risks, AI threats ahead of G20
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/12/2026, 6:30:21 AM  
-**Categories:** Latest News  
-
-The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards.
-
-📖 [Read original article](https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. DATA Network to migrate to Sui, retire own chain
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/12/2026, 5:15:43 AM  
-**Categories:** Latest News  
-
-The migration is backed by a $30 million investment from Sui Foundation.
-
-📖 [Read original article](https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
