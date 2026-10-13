@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-12"
 date: "2026-10-12"
 source: "The Block"
-count: 12
+count: 9
 ---
 
 # The Block - 2026-10-12
 
-12 items collected.
+9 items collected.
 
 ---
 
@@ -116,41 +116,5 @@ Evernorth plans to put its XRP holdings to work through lending, liquidity provi
 Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256)
-
----
-
-## 10. Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger
-
-**Author:** Timmy Shen  
-**Published:** 10/12/2026, 9:35:21 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, News  
-
-The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258)
-
----
-
-## 11. Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’
-
-**Author:** Danny Park  
-**Published:** 10/12/2026, 4:33:57 AM  
-**Categories:** Policy, Regulation, CFTC, News  
-
-Pham said the CFTC's recent proposals are 'absolutely the kind of protection' needed for crypto retail traders in the United States.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246)
-
----
-
-## 12. Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui
-
-**Author:** Timmy Shen  
-**Published:** 10/12/2026, 2:00:00 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, News  
-
-DATA Network is set to be upgraded to run as a protocol natively on Sui, and its independent chain will be retired.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243)
 
 ---
