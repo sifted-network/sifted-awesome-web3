@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-10"
 date: "2026-10-10"
 source: "Cointelegraph"
-count: 3
+count: 2
 ---
 
 # Cointelegraph - 2026-10-10
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ count: 3
 Recent incidents at OpenAI ‌and Anthropic stoke global concerns and fears that rogue AI agents may venture beyond human control.
 
 📖 [Read original article](https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds
-
-**Author:** Cointelegraph by Michael Millard  
-**Published:** 10/10/2026, 7:10:43 AM  
-**Categories:** Latest News  
-
-The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.
-
-📖 [Read original article](https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
