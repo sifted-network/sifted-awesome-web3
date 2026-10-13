@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-12"
 date: "2026-10-12"
 source: "Cointelegraph"
-count: 17
+count: 15
 ---
 
 # Cointelegraph - 2026-10-12
 
-17 items collected.
+15 items collected.
 
 ---
 
@@ -188,29 +188,5 @@ The Financial Stability Board flagged cross-border stablecoin risks and AI-relat
 The migration is backed by a $30 million investment from Sui Foundation.
 
 📖 [Read original article](https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. French lawmakers back reporting rule for crypto wallets over $112K
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/12/2026, 4:45:15 AM  
-**Categories:** Latest News  
-
-Holders could face fines of up to 10,000 euros for failing to declare qualifying assets.
-
-📖 [Read original article](https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. XRP Ledger defends emergency patch for unlimited XRP bug
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/12/2026, 1:21:29 AM  
-**Categories:** Latest News  
-
-The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators.
-
-📖 [Read original article](https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
