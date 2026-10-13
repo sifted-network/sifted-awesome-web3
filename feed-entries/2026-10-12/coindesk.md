@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-12"
 date: "2026-10-12"
 source: "CoinDesk"
-count: 14
+count: 12
 ---
 
 # CoinDesk - 2026-10-12
 
-14 items collected.
+12 items collected.
 
 ---
 
@@ -152,29 +152,5 @@ Your look at what's coming in the week starting Oct. 12.
 The XRP Ledger Foundation said normal parameters never triggered the bug that could have broken XRP's supply cap, which is why it was undetected for years.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years)
-
----
-
-## 13. Ledger says unauthorized implant found in at least one device sold by CryptoBilis
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 10/12/2026, 7:49:40 AM  
-**Categories:** Tech, Ledger, News  
-
-Ledger confirmed an unauthorized hardware implant in a device linked to crypto losses at CryptoBilis, a Southeast Asian reseller. The company says confirmed cases are limited and its internal systems remain unaffected.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis)
-
----
-
-## 14. Bitcoin pulls back from $84,000 as oil recovers, ETFs bleed over $600 million
-
-**Author:** Omkar Godbole  
-**Published:** 10/12/2026, 4:49:30 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin reversed early gains as oil bounced back to over $92. Analysts express concerns over large outflows from spot ETFs last week.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls)
 
 ---
