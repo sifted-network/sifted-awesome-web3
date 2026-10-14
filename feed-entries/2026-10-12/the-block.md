@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-12"
 date: "2026-10-12"
 source: "The Block"
-count: 9
+count: 8
 ---
 
 # The Block - 2026-10-12
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ Strategy's total holdings account for around 4% of the 21 million bitcoin supply
 Evernorth plans to put its XRP holdings to work through lending, liquidity provision and yield strategies.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-10-12-evernorth-former-coinbase-investment-chief-steer-473-million-xrp-treasury-nasdaq-debut-418225)
-
----
-
-## 9. Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says
-
-**Author:** Danny Park  
-**Published:** 10/12/2026, 10:10:13 AM  
-**Categories:** Companies, Markets, exclusive, News  
-
-Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256)
 
 ---
