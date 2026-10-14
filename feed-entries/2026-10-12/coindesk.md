@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-12"
 date: "2026-10-12"
 source: "CoinDesk"
-count: 9
+count: 7
 ---
 
 # CoinDesk - 2026-10-12
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ Bitcoin and gold hold steady as a firm dollar and rising bond yields weigh on se
 Coins jointly issued by multiple companies can trap reserves in one jurisdiction while redemption demands hit another, complicating cross-border crisis response.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis)
-
----
-
-## 8. South Korea just got its first traditional bank loans backed by bitcoin
-
-**Author:** Francisco Rodrigues  
-**Published:** 10/12/2026, 10:57:37 AM  
-**Categories:** Finance, South Korea, News  
-
-Loans use third-party custodians for bitcoin holdings and rely on court-ordered sales if borrowers default.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin)
-
----
-
-## 9. SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI
-
-**Author:** Olivier Acuna  
-**Published:** 10/12/2026, 10:27:00 AM  
-**Categories:** Finance, Artificial Intelligence, Bitcoin Mining, News  
-
-SWI Group said it would use the proceeds from an 800 million-euro ($894 million) fundraise to transform Genesis Digital Assets, acquired from the FTX bankruptcy, from a bitcoin miner to an AI-focused data center.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai)
 
 ---
