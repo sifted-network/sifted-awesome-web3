@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-10-13"
 date: "2026-10-13"
 source: "CoinDesk"
-count: 16
+count: 17
 ---
 
 # CoinDesk - 2026-10-13
 
-16 items collected.
+17 items collected.
 
 ---
 
-## 1. BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing
+## 1. Strive raising $500 million to buy additional bitcoin with new preferred share class
+
+**Author:** Stephen Alpher  
+**Published:** 10/13/2026, 11:23:05 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%).
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury)
+
+---
+
+## 2. BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing
 
 **Author:** Krisztian Sandor  
 **Published:** 10/13/2026, 9:52:00 PM  
@@ -23,7 +35,7 @@ The transaction shows how blockchain-based government bonds could help trading f
 
 ---
 
-## 2. Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants
+## 3. Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants
 
 **Author:** Olivier Acuna  
 **Published:** 10/13/2026, 3:52:09 PM  
@@ -35,7 +47,7 @@ MNX is offering a different way to trade the future valuations of private AI com
 
 ---
 
-## 3. UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate
+## 4. UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 10/13/2026, 3:24:52 PM  
@@ -47,7 +59,7 @@ A crypto trader in the U.K. claimed masked intruders stole nearly $800,000 in cr
 
 ---
 
-## 4. South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin
+## 5. South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin
 
 **Author:** Olivier Acuna  
 **Published:** 10/13/2026, 11:58:04 AM  
@@ -59,7 +71,7 @@ The country’s regulators are stepping up their earlier restrictions on mobile 
 
 ---
 
-## 5. Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares
+## 6. Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares
 
 **Author:** Krisztian Sandor  
 **Published:** 10/13/2026, 11:56:04 AM  
@@ -71,7 +83,7 @@ The $911 billion Pittsburgh-based asset manager is teaming up with Prometheum to
 
 ---
 
-## 6. Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks
+## 7. Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks
 
 **Author:** Omkar Godbole  
 **Published:** 10/13/2026, 11:26:45 AM  
@@ -83,7 +95,7 @@ Your day-ahead look for Oct. 13, 2026
 
 ---
 
-## 7. Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns
+## 8. Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns
 
 **Author:** James Van Straten,Omkar Godbole,Francisco Rodrigues  
 **Published:** 10/13/2026, 11:06:39 AM  
@@ -95,7 +107,7 @@ Investors are positioning ahead of today's bank earnings reports and Wednesday�
 
 ---
 
-## 8. Russia’s largest bank Sberbank secures approval to trade crypto
+## 9. Russia’s largest bank Sberbank secures approval to trade crypto
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 10/13/2026, 11:02:47 AM  
@@ -107,7 +119,7 @@ Sberbank plans to open crypto trading to all clients Dec. 1 and is already testi
 
 ---
 
-## 9. Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data
+## 10. Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data
 
 **Author:** Shaurya Malwa,Stephen Alpher,James Van Straten,Helene Braun  
 **Published:** 10/13/2026, 10:46:57 AM  
@@ -119,7 +131,7 @@ The September CPI report comes out on Wednesday, with economists expecting a siz
 
 ---
 
-## 10. Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff
+## 11. Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff
 
 **Author:** James Van Straten  
 **Published:** 10/13/2026, 10:38:51 AM  
@@ -131,7 +143,7 @@ South Korea’s chipmakers lead another sharp selloff as concerns over AI spendi
 
 ---
 
-## 11. Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network
+## 12. Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network
 
 **Author:** Olivier Acuna  
 **Published:** 10/13/2026, 9:27:47 AM  
@@ -143,7 +155,7 @@ Ledger announced MediaMarket Saturn stopped selling devices after a customer fou
 
 ---
 
-## 12. UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin
+## 13. UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin
 
 **Author:** Omkar Godbole  
 **Published:** 10/13/2026, 9:25:03 AM  
@@ -155,7 +167,7 @@ The decision concerns 61,000 BTC seized by the Metropolitan Police in its invest
 
 ---
 
-## 13. Bitcoin whale that sat through the March 2020 crash moves $378 million
+## 14. Bitcoin whale that sat through the March 2020 crash moves $378 million
 
 **Author:** Omkar Godbole  
 **Published:** 10/13/2026, 5:45:10 AM  
@@ -167,7 +179,7 @@ A bitcoin whale that received coins days before the Covid crash and sat through 
 
 ---
 
-## 14. Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million
+## 15. Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million
 
 **Author:** Shaurya Malwa  
 **Published:** 10/13/2026, 5:27:17 AM  
@@ -179,7 +191,7 @@ About $800 million in leveraged positions were wiped out over 24 hours, 86% of t
 
 ---
 
-## 15. Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%
+## 16. Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%
 
 **Author:** Shaurya Malwa  
 **Published:** 10/13/2026, 4:43:18 AM  
@@ -191,7 +203,7 @@ Blur will close its website on Nov. 12 after monthly trading fell from about $1.
 
 ---
 
-## 16. Bitcoin rebounds above $83,000, decoupling from tumbling Korean stocks
+## 17. Bitcoin rebounds above $83,000, decoupling from tumbling Korean stocks
 
 **Author:** Omkar Godbole  
 **Published:** 10/13/2026, 4:18:20 AM  
