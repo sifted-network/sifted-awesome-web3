@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-12"
 date: "2026-10-12"
 source: "Decrypt"
-count: 13
+count: 9
 ---
 
 # Decrypt - 2026-10-12
 
-13 items collected.
+9 items collected.
 
 ---
 
@@ -116,53 +116,5 @@ The wallet manufacturer said its own systems and direct sales are unaffected, an
 Where event insurance deals with scrapped shows and what happens inside the venue, NEXTPredict is focusing on flight cancellations.
 
 📖 [Read original article](https://decrypt.co/380484/nextpredict-paid-12000-to-hedge-its-conference-on-a-prediction-market)
-
----
-
-## 10. XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015
-
-**Author:** Decrypt Agent  
-**Published:** 10/12/2026, 3:56:35 PM  
-**Categories:** , Coins  
-
-An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token’s total supply.
-
-📖 [Read original article](https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding)
-
----
-
-## 11. Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'
-
-**Author:** Decrypt Agent  
-**Published:** 10/12/2026, 1:33:28 PM  
-**Categories:** , Business  
-
-The Ethereum treasury firm now holds 6.03 million ETH, 4.9% of supply, as Lee predicts the biggest crypto bull market yet.
-
-📖 [Read original article](https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking)
-
----
-
-## 12. Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC
-
-**Author:** Decrypt Agent  
-**Published:** 10/12/2026, 12:39:35 PM  
-**Categories:** , Business  
-
-The purchase lifts Strategy's holdings to 848,250 BTC and follows a $176 million repurchase of STRC preferred stock the week before.
-
-📖 [Read original article](https://decrypt.co/380677/strategy-scoops-up-21-5m-in-bitcoin-buys-back-192m-in-strc)
-
----
-
-## 13. Bitcoin Ranges Near $83K as Traders Look to US Inflation Data
-
-**Author:** Decrypt Agent  
-**Published:** 10/12/2026, 11:41:50 AM  
-**Categories:** , Markets  
-
-October rate-hike odds have slumped, but analysts say Treasury yields at two-decade highs are still keeping a lid on risk appetite.
-
-📖 [Read original article](https://decrypt.co/380669/bitcoin-ranges-near-83k-as-traders-look-to-us-inflation-data)
 
 ---
