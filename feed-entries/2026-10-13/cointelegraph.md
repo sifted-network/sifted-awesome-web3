@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-13"
 date: "2026-10-13"
 source: "Cointelegraph"
-count: 15
+count: 10
 ---
 
 # Cointelegraph - 2026-10-13
 
-15 items collected.
+10 items collected.
 
 ---
 
@@ -128,65 +128,5 @@ BIS said that digital cash can achieve “cash-like privacy,” however, the tec
 Russia’s largest bank, Sberbank, has secured crypto exchange authorization as it prepares to offer Bitcoin, Ether and Tether USDt trading.
 
 📖 [Read original article](https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. ENS seeks DAO approval to activate upgraded Ethereum naming system
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/13/2026, 11:11:27 AM  
-**Categories:** Latest News  
-
-New .eth registrations would pause for hours during the transition, while existing domain holders could renew their names without migrating.
-
-📖 [Read original article](https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/13/2026, 10:23:07 AM  
-**Categories:** Latest News  
-
-Metaplanet plans to issue zero-interest bonds with a five-year maturity to improve its debt structure and cut its reliance on Bitcoin-collateralized loans without selling holdings.
-
-📖 [Read original article](https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. MediaMarktSaturn pulls Ledger products amid tampering reports
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/13/2026, 10:09:01 AM  
-**Categories:** Latest News  
-
-European retailer MediaMarkt pulled Ledger products as the wallet maker probes tampering reports beyond CryptoBilis in Southeast Asia.
-
-📖 [Read original article](https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/13/2026, 9:42:00 AM  
-**Categories:** Markets  
-
-Bitcoin’s liquidity kept BTC price below $84,000 amid a mounting South Korean tech and semiconductor stock sell-off.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Chinese fraud victims lose key court battle over 61,000 Bitcoin
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/13/2026, 9:03:06 AM  
-**Categories:** Latest News  
-
-Chinese fraud victims seeking to recover 61,000 seized Bitcoin face a legal setback after a UK court ruled that Chinese law governs their claims.
-
-📖 [Read original article](https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
