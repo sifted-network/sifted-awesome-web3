@@ -2,16 +2,64 @@
 title: "The Block - 2026-10-14"
 date: "2026-10-14"
 source: "The Block"
-count: 11
+count: 15
 ---
 
 # The Block - 2026-10-14
 
-11 items collected.
+15 items collected.
 
 ---
 
-## 1. Hex and PulseChain founder Richard Heart detained in Istanbul: reports
+## 1. Patrick Witt exits White House crypto role as Clarity Act stalls
+
+**Author:** Sarah Wynn  
+**Published:** 10/14/2026, 8:30:15 PM  
+**Categories:** People, Policy, Regulation, Donald Trump, News  
+
+Leadership at the White House is shifting once again, as Patrick Witt’s tenure as the administration’s top crypto adviser comes to an end.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611)
+
+---
+
+## 2. Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month
+
+**Author:** Kyle Baird  
+**Published:** 10/14/2026, 6:25:54 PM  
+**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, Token Projects, Crypto Treasuries, Solana, News  
+
+SkyAI's SOL treasury fell 70% in under a month, with 400,000 SOL unexplained. Bastion Trading won't tender at $3 a share and wants $3.50.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598)
+
+---
+
+## 3. ‘You’re committing crime in broad daylight’: Kalshi CEO defends prediction markets amid insider trading concerns
+
+**Author:** Sarah Wynn  
+**Published:** 10/14/2026, 5:47:18 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Markets, Policy, Regulation, CFTC, Kalshi, News  
+
+As insider trading concerns are accumulating, one of the biggest platforms said its markets make it easier to suss out bad actors.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601)
+
+---
+
+## 4. Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns
+
+**Author:** Jason Shubnell  
+**Published:** 10/14/2026, 4:51:54 PM  
+**Categories:** Crypto Ecosystems, Equities, Layer 1s, Macro, Markets, Token Projects, Analyst Reports, Bitcoin, Economic Indicators, News  
+
+Bitcoin dropped below $82,000 after September's core CPI beat forecasts as analysts weigh price targets and an October hike.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582)
+
+---
+
+## 5. Hex and PulseChain founder Richard Heart detained in Istanbul: reports
 
 **Author:** Kyle Baird  
 **Published:** 10/14/2026, 3:53:15 PM  
@@ -23,7 +71,7 @@ Turkish reports say $4 million and 64 watches were seized. Police have yet to co
 
 ---
 
-## 2. Standard Chartered pushes $2 trillion stablecoin market forecast to 2030 as supply growth stalls
+## 6. Standard Chartered pushes $2 trillion stablecoin market forecast to 2030 as supply growth stalls
 
 **Author:** Yogita Khatri  
 **Published:** 10/14/2026, 3:47:18 PM  
@@ -35,7 +83,7 @@ Standard Chartered Bank has pushed its $2 trillion stablecoin market forecast to
 
 ---
 
-## 3. StarkWare launches OffMarket to let Polymarket users trade more privately
+## 7. StarkWare launches OffMarket to let Polymarket users trade more privately
 
 **Author:** James Hunt  
 **Published:** 10/14/2026, 3:00:00 PM  
@@ -47,7 +95,7 @@ StarkWare has opened OffMarket to the public, allowing Polymarket users to trade
 
 ---
 
-## 4. Strive buys $235 million in bitcoin as warrant exercises yield $369 million
+## 8. Strive buys $235 million in bitcoin as warrant exercises yield $369 million
 
 **Author:** Brian Danga  
 **Published:** 10/14/2026, 2:32:39 PM  
@@ -59,7 +107,7 @@ Strive acquired 2,822 bitcoin for $235 million following $369.2 million in gross
 
 ---
 
-## 5. BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform
+## 9. BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform
 
 **Author:** Brian Danga  
 **Published:** 10/14/2026, 1:21:37 PM  
@@ -71,7 +119,7 @@ BNY and Citadel Securities completed the first tokenized U.S. Treasury repo work
 
 ---
 
-## 6. Strategy’s preferred stock financing may cost it bitcoin, K33 argues
+## 10. Strategy’s preferred stock financing may cost it bitcoin, K33 argues
 
 **Author:** James Hunt  
 **Published:** 10/14/2026, 1:20:46 PM  
@@ -83,7 +131,7 @@ K33 argues Strategy could accumulate more bitcoin over time by relying on common
 
 ---
 
-## 7. DriveWealth to use Ripple’s RLUSD for stablecoin settlement, cross-border payments
+## 11. DriveWealth to use Ripple’s RLUSD for stablecoin settlement, cross-border payments
 
 **Author:** Jason Shubnell  
 **Published:** 10/14/2026, 1:00:00 PM  
@@ -95,7 +143,7 @@ DriveWealth will use Ripple's RLUSD on the XRP Ledger for stablecoin settlement,
 
 ---
 
-## 8. Polygon Labs completes Coinme acquisition, bringing regulated payments coverage across 48 US states
+## 12. Polygon Labs completes Coinme acquisition, bringing regulated payments coverage across 48 US states
 
 **Author:** Brian Danga  
 **Published:** 10/14/2026, 1:00:00 PM  
@@ -107,7 +155,7 @@ Polygon Labs completed its Coinme acquisition, bringing 37 state money transmitt
 
 ---
 
-## 9. Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work
+## 13. Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work
 
 **Author:** Kyle Baird  
 **Published:** 10/14/2026, 12:00:00 PM  
@@ -119,7 +167,7 @@ Evernorth said it is planning a phased move into XRP lending and yield strategie
 
 ---
 
-## 10. How Bitcoin Works
+## 14. How Bitcoin Works
 
 **Author:** The Block Research  
 **Published:** 10/14/2026, 11:52:16 AM  
@@ -131,7 +179,7 @@ Bitcoin 201 examines Bitcoin as a secure monetary network. It follows the system
 
 ---
 
-## 11. Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration
+## 15. Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration
 
 **Author:** Danny Park  
 **Published:** 10/14/2026, 2:49:34 AM  
