@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-12"
 date: "2026-10-12"
 source: "Decrypt"
-count: 14
+count: 13
 ---
 
 # Decrypt - 2026-10-12
 
-14 items collected.
+13 items collected.
 
 ---
 
@@ -164,17 +164,5 @@ The purchase lifts Strategy's holdings to 848,250 BTC and follows a $176 million
 October rate-hike odds have slumped, but analysts say Treasury yields at two-decade highs are still keeping a lid on risk appetite.
 
 📖 [Read original article](https://decrypt.co/380669/bitcoin-ranges-near-83k-as-traders-look-to-us-inflation-data)
-
----
-
-## 14. UK Freezes $12M London Penthouse of Alleged Prince Group Finance Chief
-
-**Author:** Decrypt Agent  
-**Published:** 10/12/2026, 10:12:48 AM  
-**Categories:** , , Coins  
-
-Thet Li is accused of running the finances of a scam empire tied to $14 billion in Bitcoin the U.S. has moved to seize.
-
-📖 [Read original article](https://decrypt.co/380661/uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief)
 
 ---
