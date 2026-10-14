@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-12"
 date: "2026-10-12"
 source: "Cointelegraph"
-count: 9
+count: 7
 ---
 
 # Cointelegraph - 2026-10-12
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ Evernorth’s share price rose by 5% as investors welcomed the Nasdaq debut of t
 The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs are safer than self-custodying Bitcoin via hardware wallet devices.
 
 📖 [Read original article](https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Strategy adds 250 Bitcoin as holdings reach 848,250 BTC
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/12/2026, 12:31:51 PM  
-**Categories:** Latest News  
-
-Michael Saylor’s Strategy said Bitcoin holdings reached 848,250 BTC after its latest purchase, while maintaining a $4.88 billion cash reserve.
-
-📖 [Read original article](https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Australia proposes leverage caps for crypto-settled derivatives
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/12/2026, 11:41:58 AM  
-**Categories:** Latest News  
-
-ASIC’s proposal would extend leverage limits and protections against negative balances to certain derivatives settled in digital assets.
-
-📖 [Read original article](https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
