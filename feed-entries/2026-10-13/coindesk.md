@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-13"
 date: "2026-10-13"
 source: "CoinDesk"
-count: 17
+count: 15
 ---
 
 # CoinDesk - 2026-10-13
 
-17 items collected.
+15 items collected.
 
 ---
 
@@ -188,29 +188,5 @@ A bitcoin whale that received coins days before the Covid crash and sat through 
 About $800 million in leveraged positions were wiped out over 24 hours, 86% of them bullish. Chip-stock contracts on crypto exchanges took a chunk of the damage.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million)
-
----
-
-## 16. Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%
-
-**Author:** Shaurya Malwa  
-**Published:** 10/13/2026, 4:43:18 AM  
-**Categories:** Tech, News  
-
-Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99)
-
----
-
-## 17. Bitcoin rebounds above $83,000, decoupling from tumbling Korean stocks
-
-**Author:** Omkar Godbole  
-**Published:** 10/13/2026, 4:18:20 AM  
-**Categories:** Markets, Bitcoin News, XRP News, News  
-
-Bitcoin climbed back above $83,000 after an early dip, decoupling from a sharp slide in Korean chip stocks and weakness in Nasdaq futures ahead of Thursday’s US CPI report.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures)
 
 ---
