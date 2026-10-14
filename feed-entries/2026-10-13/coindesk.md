@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-13"
 date: "2026-10-13"
 source: "CoinDesk"
-count: 5
+count: 4
 ---
 
 # CoinDesk - 2026-10-13
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ MNX is offering a different way to trade the future valuations of private AI com
 A crypto trader in the U.K. claimed masked intruders stole nearly $800,000 in cryptocurrency at knifepoint, furthering concerns of "wrench attacks" spreading in the country.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion)
-
----
-
-## 5. South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin
-
-**Author:** Olivier Acuna  
-**Published:** 10/13/2026, 11:58:04 AM  
-**Categories:** Policy, Regulation, South Korea, News  
-
-The country’s regulators are stepping up their earlier restrictions on mobile apps to websites, targeting unregistered exchanges before investors report losses.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin)
 
 ---
