@@ -2,16 +2,76 @@
 title: "Decrypt - 2026-10-14"
 date: "2026-10-14"
 source: "Decrypt"
-count: 7
+count: 12
 ---
 
 # Decrypt - 2026-10-14
 
-7 items collected.
+12 items collected.
 
 ---
 
-## 1. Bitcoin Falls as Hot Inflation Puts a Fed Hike Back on the Table
+## 1. AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny
+
+**Author:** Decrypt Staff  
+**Published:** 10/14/2026, 8:16:05 PM  
+**Categories:** Artificial Intelligence  
+
+A new Chainalysis report found payments through Coinbase’s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.
+
+📖 [Read original article](https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year)
+
+---
+
+## 2. Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin
+
+**Author:** Jose Antonio Lanz  
+**Published:** 10/14/2026, 7:46:03 PM  
+**Categories:** , Coins  
+
+Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.
+
+📖 [Read original article](https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin)
+
+---
+
+## 3. Solana Sets a Date for Its Next Major Upgrade
+
+**Author:** Jose Antonio Lanz  
+**Published:** 10/14/2026, 7:16:04 PM  
+**Categories:** , Technology  
+
+Solana's Alpenglow upgrade replaces the TowerBFT voting system on October 21, cutting finality from 12.8 seconds to a target of 150ms and pulling vote transactions out of blocks entirely.
+
+📖 [Read original article](https://decrypt.co/380974/solana-alpenglow-upgrade-date)
+
+---
+
+## 4. Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients
+
+**Author:** Jose Antonio Lanz  
+**Published:** 10/14/2026, 5:46:05 PM  
+**Categories:** , , Business  
+
+The British bank won Dubai regulatory approval to let affluent clients buy BTC and ETH straight from their bank accounts, with custody and settlement kept in-house.
+
+📖 [Read original article](https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading)
+
+---
+
+## 5. 'It Can Take Years': Coinbase Presses for Bitcoin Quantum Migration to Start Now
+
+**Author:** Decrypt Staff  
+**Published:** 10/14/2026, 4:15:19 PM  
+**Categories:** , Technology  
+
+In a detailed technical post, the exchange argued Bitcoin’s multi-year migration to quantum-resistant cryptography must begin before any “Q-Day,” laying out requirements spanning block space, custody and dormant coins.
+
+📖 [Read original article](https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now)
+
+---
+
+## 6. Bitcoin Falls as Hot Inflation Puts a Fed Hike Back on the Table
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/14/2026, 2:51:44 PM  
@@ -23,7 +83,7 @@ September CPI hit 3.7%, above forecasts, sending Treasury yields higher and drag
 
 ---
 
-## 2. Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report
+## 7. Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report
 
 **Author:** Decrypt Agent  
 **Published:** 10/14/2026, 2:03:20 PM  
@@ -35,7 +95,7 @@ Turkish police and intelligence officers reportedly seized cash, phones, jewelry
 
 ---
 
-## 3. Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain
+## 8. Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain
 
 **Author:** Decrypt Agent  
 **Published:** 10/14/2026, 1:47:44 PM  
@@ -47,7 +107,7 @@ European electronics chain MediaMarkt Saturn has also halted Ledger sales after 
 
 ---
 
-## 4. Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad
+## 9. Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad
 
 **Author:** Ryan Gladwin  
 **Published:** 10/14/2026, 1:41:21 PM  
@@ -59,7 +119,7 @@ Sahil Arora says he's not done with celebrity meme coins, and that Fomo presents
 
 ---
 
-## 5. Morning Minute: Move Over, Saylor, There’s a New Top Buyer in Town
+## 10. Morning Minute: Move Over, Saylor, There’s a New Top Buyer in Town
 
 **Author:** Tyler Warner  
 **Published:** 10/14/2026, 12:11:35 PM  
@@ -71,7 +131,7 @@ With Strategy's preferred stock STRC closing in on $100 par, Saylor might not be
 
 ---
 
-## 6. Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push
+## 11. Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push
 
 **Author:** Decrypt Agent  
 **Published:** 10/14/2026, 10:21:34 AM  
@@ -83,7 +143,7 @@ Co-CEO Arjun Sethi says customers want cash, crypto, tokenized stocks and credit
 
 ---
 
-## 7. BitMEX Sued in UK for Return of $27M in Bitcoin Over Unlicensed Derivatives
+## 12. BitMEX Sued in UK for Return of $27M in Bitcoin Over Unlicensed Derivatives
 
 **Author:** Decrypt Agent  
 **Published:** 10/14/2026, 9:54:52 AM  
