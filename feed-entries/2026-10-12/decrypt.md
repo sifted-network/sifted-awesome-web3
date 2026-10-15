@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-12"
 date: "2026-10-12"
 source: "Decrypt"
-count: 7
+count: 6
 ---
 
 # Decrypt - 2026-10-12
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ The Nasdaq-listed company now holds about 2.59 million SOL, but its weekly purch
 Evernorth's XRPN shares began trading Monday after its SPAC merger closed, but 80% of SPAC investors cashed out first and its XRP stash is worth roughly 40% less than at signing.
 
 📖 [Read original article](https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp)
-
----
-
-## 7. Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/12/2026, 4:41:34 PM  
-**Categories:** , Markets  
-
-The Crypto Fear and Greed Index has dropped to 56 from an August peak of 82, as oil, bond yields, and ETF outflows hit Bitcoin in October.
-
-📖 [Read original article](https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops)
 
 ---
