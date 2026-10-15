@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-14"
 date: "2026-10-14"
 source: "CoinDesk"
-count: 12
+count: 11
 ---
 
 # CoinDesk - 2026-10-14
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ Your day-ahead look for Oct. 14, 2026
 Backed by BBVA, BNP Paribas, and ING, Qivalis secured Dutch regulatory authorization to offer onchain euro settlement infrastructure.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules)
-
----
-
-## 12. Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 10/14/2026, 10:51:39 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin briefly reached $84,000 before easing back, while the CoinDesk 80 fell 0.6% since midnight as traders waited for U.S. inflation data.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag)
 
 ---
