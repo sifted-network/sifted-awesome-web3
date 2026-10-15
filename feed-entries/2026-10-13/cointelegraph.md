@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-13"
 date: "2026-10-13"
 source: "Cointelegraph"
-count: 10
+count: 8
 ---
 
 # Cointelegraph - 2026-10-13
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Anthropic warned that rogue “AI worms” are months away from the ability to s
 Bitcoin developer Paul Sztorc says Bitcoiners are lying to themselves about Lightning. Developers claim usability has improved, but questions remain over everyday adoption.
 
 📖 [Read original article](https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/13/2026, 1:17:17 PM  
-**Categories:** Latest News  
-
-BIS said that digital cash can achieve “cash-like privacy,” however, the technology isn’t yet production-ready due to risks such as bank data breaches.
-
-📖 [Read original article](https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Russia clears Sberbank for crypto trading ahead of December launch
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/13/2026, 12:22:24 PM  
-**Categories:** Latest News  
-
-Russia’s largest bank, Sberbank, has secured crypto exchange authorization as it prepares to offer Bitcoin, Ether and Tether USDt trading.
-
-📖 [Read original article](https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
