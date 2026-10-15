@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-10-14"
 date: "2026-10-14"
 source: "Decrypt"
-count: 12
+count: 14
 ---
 
 # Decrypt - 2026-10-14
 
-12 items collected.
+14 items collected.
 
 ---
 
-## 1. AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny
+## 1. Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet
+
+**Author:** Jose Antonio Lanz  
+**Published:** 10/14/2026, 9:46:04 PM  
+**Categories:** Artificial Intelligence  
+
+After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.
+
+📖 [Read original article](https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet)
+
+---
+
+## 2. Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office
+
+**Author:** Jose Antonio Lanz  
+**Published:** 10/14/2026, 9:16:03 PM  
+**Categories:** Artificial Intelligence  
+
+Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.
+
+📖 [Read original article](https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office)
+
+---
+
+## 3. AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny
 
 **Author:** Decrypt Staff  
 **Published:** 10/14/2026, 8:16:05 PM  
@@ -23,7 +47,7 @@ A new Chainalysis report found payments through Coinbase’s x402 protocol surge
 
 ---
 
-## 2. Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin
+## 4. Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/14/2026, 7:46:03 PM  
@@ -35,7 +59,7 @@ Sberbank now holds both custody and exchange status under Russia's new crypto la
 
 ---
 
-## 3. Solana Sets a Date for Its Next Major Upgrade
+## 5. Solana Sets a Date for Its Next Major Upgrade
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/14/2026, 7:16:04 PM  
@@ -47,7 +71,7 @@ Solana's Alpenglow upgrade replaces the TowerBFT voting system on October 21, cu
 
 ---
 
-## 4. Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients
+## 6. Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/14/2026, 5:46:05 PM  
@@ -59,7 +83,7 @@ The British bank won Dubai regulatory approval to let affluent clients buy BTC a
 
 ---
 
-## 5. 'It Can Take Years': Coinbase Presses for Bitcoin Quantum Migration to Start Now
+## 7. 'It Can Take Years': Coinbase Presses for Bitcoin Quantum Migration to Start Now
 
 **Author:** Decrypt Staff  
 **Published:** 10/14/2026, 4:15:19 PM  
@@ -71,7 +95,7 @@ In a detailed technical post, the exchange argued Bitcoin’s multi-year migrati
 
 ---
 
-## 6. Bitcoin Falls as Hot Inflation Puts a Fed Hike Back on the Table
+## 8. Bitcoin Falls as Hot Inflation Puts a Fed Hike Back on the Table
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/14/2026, 2:51:44 PM  
@@ -83,7 +107,7 @@ September CPI hit 3.7%, above forecasts, sending Treasury yields higher and drag
 
 ---
 
-## 7. Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report
+## 9. Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report
 
 **Author:** Decrypt Agent  
 **Published:** 10/14/2026, 2:03:20 PM  
@@ -95,7 +119,7 @@ Turkish police and intelligence officers reportedly seized cash, phones, jewelry
 
 ---
 
-## 8. Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain
+## 10. Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain
 
 **Author:** Decrypt Agent  
 **Published:** 10/14/2026, 1:47:44 PM  
@@ -107,7 +131,7 @@ European electronics chain MediaMarkt Saturn has also halted Ledger sales after 
 
 ---
 
-## 9. Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad
+## 11. Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad
 
 **Author:** Ryan Gladwin  
 **Published:** 10/14/2026, 1:41:21 PM  
@@ -119,7 +143,7 @@ Sahil Arora says he's not done with celebrity meme coins, and that Fomo presents
 
 ---
 
-## 10. Morning Minute: Move Over, Saylor, There’s a New Top Buyer in Town
+## 12. Morning Minute: Move Over, Saylor, There’s a New Top Buyer in Town
 
 **Author:** Tyler Warner  
 **Published:** 10/14/2026, 12:11:35 PM  
@@ -131,7 +155,7 @@ With Strategy's preferred stock STRC closing in on $100 par, Saylor might not be
 
 ---
 
-## 11. Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push
+## 13. Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push
 
 **Author:** Decrypt Agent  
 **Published:** 10/14/2026, 10:21:34 AM  
@@ -143,7 +167,7 @@ Co-CEO Arjun Sethi says customers want cash, crypto, tokenized stocks and credit
 
 ---
 
-## 12. BitMEX Sued in UK for Return of $27M in Bitcoin Over Unlicensed Derivatives
+## 14. BitMEX Sued in UK for Return of $27M in Bitcoin Over Unlicensed Derivatives
 
 **Author:** Decrypt Agent  
 **Published:** 10/14/2026, 9:54:52 AM  
