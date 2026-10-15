@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-14"
 date: "2026-10-14"
 source: "Cointelegraph"
-count: 20
+count: 18
 ---
 
 # Cointelegraph - 2026-10-14
 
-20 items collected.
+18 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ Illinois officials already agreed to delay implementation of a 0.2% tax on crypt
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 10/14/2026, 7:13:24 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. EU authority classifies Circle’s USDC as ‘significant’ under MiCA
+## 2. EU authority classifies Circle’s USDC as ‘significant’ under MiCA
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/14/2026, 7:03:52 PM  
@@ -47,7 +35,7 @@ The second-largest stablecoin by market cap will be overseen by French and EU au
 
 ---
 
-## 4. US authorities dismantle crypto scam network that stole tens of millions
+## 3. US authorities dismantle crypto scam network that stole tens of millions
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/14/2026, 5:56:45 PM  
@@ -59,7 +47,7 @@ Brooklyn prosecutors and the FBI seized 112 servers and shut down 241 websites l
 
 ---
 
-## 5. OCC report finds debanking efforts tied to crypto activities
+## 4. OCC report finds debanking efforts tied to crypto activities
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/14/2026, 5:03:20 PM  
@@ -71,7 +59,7 @@ The report from the US banking regulator did not include specific examples of de
 
 ---
 
-## 6. Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow
+## 5. Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/14/2026, 4:26:31 PM  
@@ -83,7 +71,7 @@ The bank identified four distinct stablecoin markets, with USDC leading payments
 
 ---
 
-## 7. Bitcoin price dips below $82K as high oil prices spike US CPI inflation
+## 6. Bitcoin price dips below $82K as high oil prices spike US CPI inflation
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/14/2026, 2:21:15 PM  
@@ -95,7 +83,7 @@ Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the b
 
 ---
 
-## 8. ‘Bunker mode’ won’t protect your crypto, critics say
+## 7. ‘Bunker mode’ won’t protect your crypto, critics say
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 10/14/2026, 1:30:00 PM  
@@ -107,7 +95,7 @@ Even if Justin Drake’s prediction that AI could break cryptography proves corr
 
 ---
 
-## 9. Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis
+## 8. Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/14/2026, 1:00:00 PM  
@@ -119,7 +107,7 @@ Remittance-sized crypto transfers from Canada to three Asian countries reached $
 
 ---
 
-## 10. Qivalis wins Dutch e-money license for euro stablecoin
+## 9. Qivalis wins Dutch e-money license for euro stablecoin
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/14/2026, 12:53:41 PM  
@@ -131,7 +119,7 @@ Qivalis said the Electronic Money Institution authorization enables it to launch
 
 ---
 
-## 11. Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion
+## 10. Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/14/2026, 12:26:05 PM  
@@ -143,7 +131,7 @@ Payward expects to close the acquisition in 2027, enabling it to expand its trad
 
 ---
 
-## 12. Can crypto users trust the supply chain behind hardware wallets?
+## 11. Can crypto users trust the supply chain behind hardware wallets?
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/14/2026, 11:59:42 AM  
@@ -155,7 +143,7 @@ Ledger hardware wallet implants have renewed scrutiny of the middlemen handling 
 
 ---
 
-## 13. Coins.ph says Philippine central bank license intact amid revocation claims
+## 12. Coins.ph says Philippine central bank license intact amid revocation claims
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/14/2026, 11:05:00 AM  
@@ -167,7 +155,7 @@ Coins.ph says its Philippine central bank license remains intact amid reports of
 
 ---
 
-## 14. CryptoQuant’s 3 charts keeping Bitcoin’s ‘Uptober’ thesis valid
+## 13. CryptoQuant’s 3 charts keeping Bitcoin’s ‘Uptober’ thesis valid
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/14/2026, 10:38:22 AM  
@@ -179,7 +167,7 @@ Bitcoin onchain analysis eyed a “potential bottom” for BTC price action in e
 
 ---
 
-## 15. Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case
+## 14. Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/14/2026, 10:29:47 AM  
@@ -191,7 +179,7 @@ Should US high court justices grant review of the case, they could release a dec
 
 ---
 
-## 16. Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author
+## 15. Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/14/2026, 10:25:53 AM  
@@ -203,7 +191,7 @@ Saifedean Ammous argues that Bitcoin already functions as money when held as a s
 
 ---
 
-## 17. Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE
+## 16. Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/14/2026, 10:07:03 AM  
@@ -215,7 +203,7 @@ Standard Chartered expanded its spot crypto trading services to professional inv
 
 ---
 
-## 18. Starknet introduces wallet privacy feature for DeFi activity
+## 17. Starknet introduces wallet privacy feature for DeFi activity
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/14/2026, 5:32:14 AM  
@@ -227,7 +215,7 @@ Starknet’s Shadow Accounts allow users to obscure connections between their ma
 
 ---
 
-## 19. Fed’s Williams sees AI supply squeeze lasting beyond 2 years
+## 18. Fed’s Williams sees AI supply squeeze lasting beyond 2 years
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/14/2026, 5:30:10 AM  
@@ -236,17 +224,5 @@ Starknet’s Shadow Accounts allow users to obscure connections between their ma
 New York Fed President John Williams’ comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year.
 
 📖 [Read original article](https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Bitwise’s Hougan says Q3 charts point to ‘crypto spring’
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/14/2026, 2:19:56 AM  
-**Categories:** Markets  
-
-Bitwise’s Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
