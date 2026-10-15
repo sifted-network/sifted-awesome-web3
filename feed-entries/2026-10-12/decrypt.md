@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-12"
 date: "2026-10-12"
 source: "Decrypt"
-count: 9
+count: 7
 ---
 
 # Decrypt - 2026-10-12
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ Evernorth's XRPN shares began trading Monday after its SPAC merger closed, but 8
 The Crypto Fear and Greed Index has dropped to 56 from an August peak of 82, as oil, bond yields, and ETF outflows hit Bitcoin in October.
 
 📖 [Read original article](https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops)
-
----
-
-## 8. Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis
-
-**Author:** Decrypt Agent  
-**Published:** 10/12/2026, 4:32:17 PM  
-**Categories:** , , Technology  
-
-The wallet manufacturer said its own systems and direct sales are unaffected, and that the reseller has stopped selling hardware wallets.
-
-📖 [Read original article](https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis)
-
----
-
-## 9. NEXTPredict Paid $12,000 to Hedge Its Conference on a Prediction Market
-
-**Author:** Decrypt Staff  
-**Published:** 10/12/2026, 4:01:04 PM  
-**Categories:** Business  
-
-Where event insurance deals with scrapped shows and what happens inside the venue, NEXTPredict is focusing on flight cancellations.
-
-📖 [Read original article](https://decrypt.co/380484/nextpredict-paid-12000-to-hedge-its-conference-on-a-prediction-market)
 
 ---
