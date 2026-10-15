@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-14"
 date: "2026-10-14"
 source: "The Block"
-count: 11
+count: 10
 ---
 
 # The Block - 2026-10-14
 
-11 items collected.
+10 items collected.
 
 ---
 
@@ -128,17 +128,5 @@ BNY and Citadel Securities completed the first tokenized U.S. Treasury repo work
 K33 argues Strategy could accumulate more bitcoin over time by relying on common stock issuance rather than preferred shares.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-10-14-strategys-preferred-stock-financing-may-cost-it-bitcoin-k33-argues-418543)
-
----
-
-## 11. DriveWealth to use Ripple’s RLUSD for stablecoin settlement, cross-border payments
-
-**Author:** Jason Shubnell  
-**Published:** 10/14/2026, 1:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Finance firms, Payments, Ripple, News  
-
-DriveWealth will use Ripple's RLUSD on the XRP Ledger for stablecoin settlement, collateral funding and custody, starting in Europe.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479)
 
 ---
