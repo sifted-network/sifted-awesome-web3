@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-14"
 date: "2026-10-14"
 source: "The Block"
-count: 15
+count: 11
 ---
 
 # The Block - 2026-10-14
 
-15 items collected.
+11 items collected.
 
 ---
 
@@ -140,53 +140,5 @@ K33 argues Strategy could accumulate more bitcoin over time by relying on common
 DriveWealth will use Ripple's RLUSD on the XRP Ledger for stablecoin settlement, collateral funding and custody, starting in Europe.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479)
-
----
-
-## 12. Polygon Labs completes Coinme acquisition, bringing regulated payments coverage across 48 US states
-
-**Author:** Brian Danga  
-**Published:** 10/14/2026, 1:00:00 PM  
-**Categories:** Companies, News  
-
-Polygon Labs completed its Coinme acquisition, bringing 37 state money transmitter licenses into its stablecoin payments infrastructure.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518)
-
----
-
-## 13. Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work
-
-**Author:** Kyle Baird  
-**Published:** 10/14/2026, 12:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Markets, Public Equities, Token Projects, Crypto Treasuries, XRP, News  
-
-Evernorth said it is planning a phased move into XRP lending and yield strategies following its Nasdaq debut.
-
-📖 [Read original article](https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503)
-
----
-
-## 14. How Bitcoin Works
-
-**Author:** The Block Research  
-**Published:** 10/14/2026, 11:52:16 AM  
-**Categories:** 201, Bitcoin, blockchain, campus, News  
-
-Bitcoin 201 examines Bitcoin as a secure monetary network. It follows the system from rule enforcement and monetary design through fees, privacy, scaling, security, governance, mining economics, energy use, Lightning, and long-term adoption.
-
-📖 [Read original article](https://www.theblock.co/learn/campus/how-bitcoin-works-417659)
-
----
-
-## 15. Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration
-
-**Author:** Danny Park  
-**Published:** 10/14/2026, 2:49:34 AM  
-**Categories:** Crypto Ecosystems, Web3, News  
-
-Coinbase published priorities for Bitcoin's post-quantum transition, urging early preparation for signature upgrades and fund migration.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509)
 
 ---
