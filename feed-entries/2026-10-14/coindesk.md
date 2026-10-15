@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-14"
 date: "2026-10-14"
 source: "CoinDesk"
-count: 17
+count: 12
 ---
 
 # CoinDesk - 2026-10-14
 
-17 items collected.
+12 items collected.
 
 ---
 
@@ -152,65 +152,5 @@ Backed by BBVA, BNP Paribas, and ING, Qivalis secured Dutch regulatory authoriza
 Bitcoin briefly reached $84,000 before easing back, while the CoinDesk 80 fell 0.6% since midnight as traders waited for U.S. inflation data.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag)
-
----
-
-## 13. S&P 500 options are the hottest bet on this Hyperliquid exchange
-
-**Author:** Omkar Godbole  
-**Published:** 10/14/2026, 10:38:47 AM  
-**Categories:** Markets, Hyperliquid, Exclusive, Options, News  
-
-Hypercall, an exchange built on Hyperliquid, says most of its $640 million in volume since June has come from the index.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange)
-
----
-
-## 14. Live updates: Bitcoin falls back to $82,000 after inflation rises more than forecast
-
-**Author:** Shaurya Malwa,Stephen Alpher,Helene Braun  
-**Published:** 10/14/2026, 9:45:53 AM  
-**Categories:** Finance, Live News, live_news  
-
-An historic turnaround lower in interest rates suggests the possibility that the bond bear market may have run its course.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data)
-
----
-
-## 15. Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore
-
-**Author:** Olivier Acuna  
-**Published:** 10/14/2026, 8:48:11 AM  
-**Categories:** Policy, Stablecoins, Tax, News  
-
-Chainalysis' regional sales director in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore)
-
----
-
-## 16. Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients
-
-**Author:** Francisco Rodrigues  
-**Published:** 10/14/2026, 8:10:07 AM  
-**Categories:** Finance, banks, News  
-
-The bank manages custody and settlement in-house via a closed-loop model, removing the need for separate crypto wallets.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients)
-
----
-
-## 17. Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 10/14/2026, 5:44:51 AM  
-**Categories:** Tech, Bitcoin News, News  
-
-Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now)
 
 ---
