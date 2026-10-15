@@ -2,16 +2,28 @@
 title: "The Block - 2026-10-15"
 date: "2026-10-15"
 source: "The Block"
-count: 9
+count: 10
 ---
 
 # The Block - 2026-10-15
 
-9 items collected.
+10 items collected.
 
 ---
 
-## 1. Multiliquid, a settlement platform for tokenized assets, raises $8 million
+## 1. CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat
+
+**Author:** Kyle Baird  
+**Published:** 10/15/2026, 4:06:00 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Infrastructure, Markets, Mining, News  
+
+CleanSpark is ending monthly mining reports, while BitFuFu faces uncertainty over its Ethiopia deal.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686)
+
+---
+
+## 2. Multiliquid, a settlement platform for tokenized assets, raises $8 million
 
 **Author:** Yogita Khatri  
 **Published:** 10/15/2026, 4:00:02 PM  
@@ -23,7 +35,7 @@ Multiliquid has raised $8 million across its pre-seed and seed rounds, with Poly
 
 ---
 
-## 2. DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings
+## 3. DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings
 
 **Author:** Jason Shubnell  
 **Published:** 10/15/2026, 3:48:32 PM  
@@ -35,7 +47,7 @@ DeFi Development is raising the dividend rate on its CHAD preferred stock to 14%
 
 ---
 
-## 3. Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid
+## 4. Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid
 
 **Author:** Yogita Khatri  
 **Published:** 10/15/2026, 2:43:35 PM  
@@ -47,7 +59,7 @@ Ripple Prime has added RWA perpetual swaps tied to equities, ETFs, metals, energ
 
 ---
 
-## 4. Starknet opens seven-day vote on independent Layer 1 over quantum risks
+## 5. Starknet opens seven-day vote on independent Layer 1 over quantum risks
 
 **Author:** Brian Danga  
 **Published:** 10/15/2026, 2:26:53 PM  
@@ -59,7 +71,7 @@ Starknet opened a seven-day poll on Thursday asking STRK holders whether to rese
 
 ---
 
-## 5. Bitwise CIO argues bitcoin will benefit whether AI booms or busts
+## 6. Bitwise CIO argues bitcoin will benefit whether AI booms or busts
 
 **Author:** James Hunt  
 **Published:** 10/15/2026, 2:01:06 PM  
@@ -71,7 +83,7 @@ Bitwise CIO Matt Hougan predicts an AI bubble collapse would prompt government b
 
 ---
 
-## 6. Helius CEO Mert Mumtaz joins NEAR Foundation Council
+## 7. Helius CEO Mert Mumtaz joins NEAR Foundation Council
 
 **Author:** Brian Danga  
 **Published:** 10/15/2026, 1:00:00 PM  
@@ -83,7 +95,7 @@ Helius CEO Mert Mumtaz joined NEAR Foundation's Council, which oversees the foun
 
 ---
 
-## 7. Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets
+## 8. Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets
 
 **Author:** James Hunt  
 **Published:** 10/15/2026, 12:00:00 PM  
@@ -95,7 +107,7 @@ Ledger unveiled Atom, an Android-based security device with Solana Mobile integr
 
 ---
 
-## 8. EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token
+## 9. EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token
 
 **Author:** Brian Danga  
 **Published:** 10/15/2026, 11:10:07 AM  
@@ -107,7 +119,7 @@ The EBA classified Circle’s USDC as the EU’s first "significant" e-money tok
 
 ---
 
-## 9. Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities
+## 10. Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities
 
 **Author:** Timmy Shen  
 **Published:** 10/15/2026, 4:38:48 AM  
