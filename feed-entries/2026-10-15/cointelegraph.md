@@ -2,19 +2,127 @@
 title: "Cointelegraph - 2026-10-15"
 date: "2026-10-15"
 source: "Cointelegraph"
-count: 12
+count: 20
 ---
 
 # Cointelegraph - 2026-10-15
 
-12 items collected.
+20 items collected.
 
 ---
 
-## 1. Starknet opens vote on potential Ethereum L2 exit over quantum risks
+## 1. Mastercard brings stablecoin balances into traditional banking and card payments
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 10/15/2026, 3:46:05 PM  
+**Categories:** Latest News  
+
+The launch of Global Money Platform marks Mastercard’s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt the platform.
+
+📖 [Read original article](https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Bitcoin slips under $80K after US PPI gains most in four years
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 10/15/2026, 3:10:44 PM  
+**Categories:** Markets  
+
+BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations by 100 basis points for the largest monthly gain since March 2022
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Russia to ban direct peer-to-peer crypto trades starting July 2027
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 10/15/2026, 2:22:43 PM  
+**Categories:** Latest News  
+
+Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets.
+
+📖 [Read original article](https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 10/15/2026, 2:16:55 PM  
+**Categories:** Latest News  
+
+The Nasdaq-listed treasury company holds about $237 million in TRX tokens and plans to raise additional capital to fund its purchases, alongside its daily accumulation.
+
+📖 [Read original article](https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 10/15/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+The SEC and the CFTC have issued a raft of pro-crypto rules recently. But will the rules hold up in court, and can they be easily rolled back by the “anti-crypto army”?
+
+📖 [Read original article](https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 10/15/2026, 1:17:45 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. HEX token sellers erase $160M following reports of founder Richard Schueler arrest
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 10/15/2026, 12:12:57 PM  
+**Categories:** Latest News  
+
+The HEX token’s price declined by 30% following local media reports of the Istanbul arrest of founder Richard Schueler, nearly two years after Interpol issued a “Red Notice.”
+
+📖 [Read original article](https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Ledger’s answer to wallet tampering costs $849 and ships next year
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 10/15/2026, 12:00:00 PM  
+**Categories:** Latest News  
+
+Ledger’s new Atom combines crypto wallet security with everyday apps and is expected to ship in summer 2027 as the company investigates tampered wallets sold in Asia.
+
+📖 [Read original article](https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. White House crypto council chief Patrick Witt steps down
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 10/15/2026, 10:41:09 AM  
+**Categories:** Latest News  
+
+Witt’s departure leaves a leadership gap at the White House Crypto Council and marks the fourth high-profile exit from the advisory group.
+
+📖 [Read original article](https://cointelegraph.com/news/white-house-crypto-council-director-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 10. Starknet opens vote on potential Ethereum L2 exit over quantum risks
 
 **Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/15/2026, 10:20:44 AM  
+**Published:** 10/15/2026, 10:22:00 AM  
 **Categories:** Latest News  
 
 Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.
@@ -23,7 +131,7 @@ Starknet is asking STRK holders whether to explore becoming an independent layer
 
 ---
 
-## 2. Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B
+## 11. Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/15/2026, 10:00:00 AM  
@@ -35,7 +143,7 @@ Compromised suppliers, developer tools and infrastructure components outside sec
 
 ---
 
-## 3. Bitcoin dips to $80.1K as KOSPI closes at its lowest since April
+## 12. Bitcoin dips to $80.1K as KOSPI closes at its lowest since April
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/15/2026, 9:48:07 AM  
@@ -47,7 +155,7 @@ Bitcoin price action continued to see contagion from a Korean tech sell-off afte
 
 ---
 
-## 4. Thailand crypto ETFs may see slow start despite new rules: CoinShares
+## 13. Thailand crypto ETFs may see slow start despite new rules: CoinShares
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/15/2026, 9:36:20 AM  
@@ -59,7 +167,7 @@ Thailand’s new Bitcoin and Ether ETF rules take effect Friday, but CoinShares 
 
 ---
 
-## 5. Babylon advances native Bitcoin lending proposal on Aave V4
+## 14. Babylon advances native Bitcoin lending proposal on Aave V4
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/15/2026, 9:14:28 AM  
@@ -71,7 +179,7 @@ Babylon’s proposal to bring native Bitcoin collateral to Aave V4 has entered a
 
 ---
 
-## 6. Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend
+## 15. Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/15/2026, 7:23:43 AM  
@@ -83,7 +191,7 @@ Bitcoin ETFs have recorded $151 million in net outflows since Monday, after inve
 
 ---
 
-## 7. South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms
+## 16. South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/15/2026, 5:52:21 AM  
@@ -95,19 +203,7 @@ South Korea is proposing tougher cybersecurity assessments after a review identi
 
 ---
 
-## 8. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/15/2026, 5:49:17 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Australia seeks feedback on crypto platform rules ahead of 2027 rollout
+## 17. Australia seeks feedback on crypto platform rules ahead of 2027 rollout
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/15/2026, 5:00:40 AM  
@@ -119,7 +215,7 @@ The consultation follows Parliament’s passage of digital asset legislation in 
 
 ---
 
-## 10. Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July
+## 18. Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/15/2026, 3:29:22 AM  
@@ -131,7 +227,7 @@ TeraWulf, Core Scientific, Cipher Mining and IREN each lost more than 12% as hot
 
 ---
 
-## 11. VanEck seeks to withdraw application for Lido staked Ether ETF
+## 19. VanEck seeks to withdraw application for Lido staked Ether ETF
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/15/2026, 1:21:52 AM  
@@ -143,7 +239,7 @@ VanEck initially filed an S-1 registration statement for the exchange-traded fun
 
 ---
 
-## 12. Polygon gains US payments licenses after closing Coinme deal
+## 20. Polygon gains US payments licenses after closing Coinme deal
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/15/2026, 12:55:21 AM  
