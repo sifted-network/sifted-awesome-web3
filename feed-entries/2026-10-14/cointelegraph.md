@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-14"
 date: "2026-10-14"
 source: "Cointelegraph"
-count: 18
+count: 10
 ---
 
 # Cointelegraph - 2026-10-14
 
-18 items collected.
+10 items collected.
 
 ---
 
@@ -128,101 +128,5 @@ Qivalis said the Electronic Money Institution authorization enables it to launch
 Payward expects to close the acquisition in 2027, enabling it to expand its traditional banking services into four EU operating markets already served by Saldo Bank.
 
 📖 [Read original article](https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Can crypto users trust the supply chain behind hardware wallets?
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/14/2026, 11:59:42 AM  
-**Categories:** Latest News  
-
-Ledger hardware wallet implants have renewed scrutiny of the middlemen handling devices before they reach buyers, even through authorized sellers.
-
-📖 [Read original article](https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Coins.ph says Philippine central bank license intact amid revocation claims
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/14/2026, 11:05:00 AM  
-**Categories:** Latest News  
-
-Coins.ph says its Philippine central bank license remains intact amid reports of possible revocation over alleged offshore gambling transactions.
-
-📖 [Read original article](https://cointelegraph.com/news/coinsph-says-bsp-license-intact-amid-claims-of-potential-revocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. CryptoQuant’s 3 charts keeping Bitcoin’s ‘Uptober’ thesis valid
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/14/2026, 10:38:22 AM  
-**Categories:** Markets  
-
-Bitcoin onchain analysis eyed a “potential bottom” for BTC price action in early October as demand weathered external headwinds.
-
-📖 [Read original article](https://cointelegraph.com/markets/cryptoquant-charts-bitcoin-uptober-thesis-valid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 10/14/2026, 10:29:47 AM  
-**Categories:** Latest News  
-
-Should US high court justices grant review of the case, they could release a decision as early as June 2027.
-
-📖 [Read original article](https://cointelegraph.com/news/ftx-sam-bankman-fried-lawyer-supreme-court-appeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/14/2026, 10:25:53 AM  
-**Categories:** Latest News  
-
-Saifedean Ammous argues that Bitcoin already functions as money when held as a store of value; expects it will become larger and less volatile than gold as it matures.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/14/2026, 10:07:03 AM  
-**Categories:** Latest News  
-
-Standard Chartered expanded its spot crypto trading services to professional investors in the UAE region, with plans to offer access to more market participants.
-
-📖 [Read original article](https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Starknet introduces wallet privacy feature for DeFi activity
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/14/2026, 5:32:14 AM  
-**Categories:** Latest News  
-
-Starknet’s Shadow Accounts allow users to obscure connections between their main wallets and DeFi activity, though transactions remain visible onchain.
-
-📖 [Read original article](https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Fed’s Williams sees AI supply squeeze lasting beyond 2 years
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/14/2026, 5:30:10 AM  
-**Categories:** Markets  
-
-New York Fed President John Williams’ comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year.
-
-📖 [Read original article](https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
