@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-10-15"
 date: "2026-10-15"
 source: "CoinDesk"
-count: 13
+count: 14
 ---
 
 # CoinDesk - 2026-10-15
 
-13 items collected.
+14 items collected.
 
 ---
 
-## 1. Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules
+## 1. At the White House, crypto policy vacancy looms large
+
+**Author:** Jesse Hamilton  
+**Published:** 10/15/2026, 6:48:02 PM  
+**Categories:** News Analysis, White House, Regulation, News  
+
+The departure of President Donald Trump's crypto adviser, Patrick Witt, leaves the digital assets office vacant and its policy aims uncertain.
+
+📖 [Read original article](https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large)
+
+---
+
+## 2. Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules
 
 **Author:** Eric Soufer  
 **Published:** 10/15/2026, 3:00:00 PM  
@@ -23,7 +35,7 @@ count: 13
 
 ---
 
-## 2. How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers
+## 3. How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 10/15/2026, 12:35:24 PM  
@@ -35,7 +47,7 @@ The scheme allegedly stole tens of millions through Russian-language Facebook ad
 
 ---
 
-## 3. Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone
+## 4. Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 10/15/2026, 12:00:00 PM  
@@ -47,7 +59,7 @@ Ledger’s Atom will run apps like WhatsApp and Instragram and let users switch 
 
 ---
 
-## 4. Bitcoin, copper, stocks, yields all fall; gold rises
+## 5. Bitcoin, copper, stocks, yields all fall; gold rises
 
 **Author:** Omkar Godbole  
 **Published:** 10/15/2026, 11:15:00 AM  
@@ -59,7 +71,7 @@ Your day-ahead look for Oct. 15, 2026
 
 ---
 
-## 5. Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight
+## 6. Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 10/15/2026, 10:52:11 AM  
@@ -71,19 +83,19 @@ Bitcoin fell to just above $80,000 as South Korea’s Kospi plunged 8%, while th
 
 ---
 
-## 6. Live updates: Bitcoin bounces after first fall below $80,000 in one month
+## 7. Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month
 
 **Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Stephen Alpher  
 **Published:** 10/15/2026, 10:16:15 AM  
 **Categories:** Finance, Live News, live_news  
 
-Stocks have also turned positive after big early losses, helped by sharply lower bond yields.
+Stocks also turned positive after big early losses, helped by sharply lower bond yields.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens)
 
 ---
 
-## 7. Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain
+## 8. Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain
 
 **Author:** Olivier Acuna  
 **Published:** 10/15/2026, 10:00:56 AM  
@@ -95,7 +107,7 @@ Jeff Yan told Bloomberg that U.S. regulatory oversight should apply to the firms
 
 ---
 
-## 8. Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline
+## 9. Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline
 
 **Author:** Olivier Acuna  
 **Published:** 10/15/2026, 9:53:37 AM  
@@ -107,7 +119,7 @@ The country’s regulator, ASIC, has proposed tougher rules to protect users’ 
 
 ---
 
-## 9. Hex founder Richard Heart arrested in Istanbul, Turkish media report
+## 10. Hex founder Richard Heart arrested in Istanbul, Turkish media report
 
 **Author:** Olivier Acuna  
 **Published:** 10/15/2026, 9:20:57 AM  
@@ -119,7 +131,7 @@ Police reportedly seized $4 million in cash and 64 luxury watches during a raid 
 
 ---
 
-## 10. BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt
+## 11. BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt
 
 **Author:** Omkar Godbole  
 **Published:** 10/15/2026, 6:17:58 AM  
@@ -131,7 +143,7 @@ BlackRock's CEO says "a moratorium of some sort" on data center buildouts would 
 
 ---
 
-## 11. Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide
+## 12. Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide
 
 **Author:** Shaurya Malwa  
 **Published:** 10/15/2026, 4:25:15 AM  
@@ -143,7 +155,7 @@ Ether accounted for nearly 60% of the forced closures across the two largest cry
 
 ---
 
-## 12. Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%
+## 13. Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%
 
 **Author:** Shaurya Malwa  
 **Published:** 10/15/2026, 4:13:56 AM  
@@ -155,7 +167,7 @@ Computing power directed at Binance Pool has fallen from 26 EH/s in December to 
 
 ---
 
-## 13. Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%
+## 14. Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%
 
 **Author:** Omkar Godbole  
 **Published:** 10/15/2026, 3:57:45 AM  
