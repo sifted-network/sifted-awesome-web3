@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-13"
 date: "2026-10-13"
 source: "The Block"
-count: 4
+count: 3
 ---
 
 # The Block - 2026-10-13
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Interactive Brokers now lets eligible clients stake ETH through its Client Porta
 DRW and Marex completed the first OTC swap referencing a fully tokenized index on Derivnex via the Canton Network, with Kaiko data.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440)
-
----
-
-## 4. Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe
-
-**Author:** Brian Danga  
-**Published:** 10/13/2026, 2:45:08 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Infrastructure, Security, Exploits, Wallets, News  
-
-Ledger confirmed a hardware implant in CryptoBilis-sold devices steals recovery phrases, as MediaMarkt suspends sales.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-13-ledger-confirms-hardware-implant-cryptobilis-reseller-units-mediamarkt-suspends-sales-europe-418442)
 
 ---
