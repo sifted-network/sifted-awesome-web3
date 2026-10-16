@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-13"
 date: "2026-10-13"
 source: "Decrypt"
-count: 11
+count: 8
 ---
 
 # Decrypt - 2026-10-13
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ Bitcoin dipped below $81,000 before buyers stepped in, but the Fear and Greed In
 Trezor is ending reseller authorizations on January 1, 2027, after Ledger confirmed that wallets sold by a Southeast Asian retailer carried a hidden implant that sent out users' recovery phrases.
 
 📖 [Read original article](https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets)
-
----
-
-## 9. AI Powered PlayStation Crack Could Let You Play GTA 6 on PC at Launch
-
-**Author:** Ryan Gladwin  
-**Published:** 10/13/2026, 2:51:28 PM  
-**Categories:** Gaming  
-
-AnyPS5 is working to get any PS5 game running natively on PC—and gamers are hoping it'll work for the next instalment of Grand Theft Auto.
-
-📖 [Read original article](https://decrypt.co/380833/ai-powered-playstation-crack-could-let-you-play-gta-6-on-pc-at-launch)
-
----
-
-## 10. Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain
-
-**Author:** Decrypt Agent  
-**Published:** 10/13/2026, 11:53:15 AM  
-**Categories:** , , Technology  
-
-Ledger says the hidden chip reads the 24-word phrase off the screen during setup, leaving the Secure Element and its software untouched.
-
-📖 [Read original article](https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain)
-
----
-
-## 11. Morning Minute: Bitcoin Gets Spooked as ‘Uptober’ Lets Down
-
-**Author:** Tyler Warner  
-**Published:** 10/13/2026, 11:40:51 AM  
-**Categories:** , , Opinion  
-
-Crypto majors are red, alts are down bad and onchain is facing capitulation. This was not the ‘Uptober’ that was promised…
-
-📖 [Read original article](https://decrypt.co/380828/morning-minute-bitcoin-gets-spooked-as-uptober-lets-down)
 
 ---
