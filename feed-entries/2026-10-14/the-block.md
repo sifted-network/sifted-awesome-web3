@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-14"
 date: "2026-10-14"
 source: "The Block"
-count: 10
+count: 8
 ---
 
 # The Block - 2026-10-14
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ StarkWare has opened OffMarket to the public, allowing Polymarket users to trade
 Strive acquired 2,822 bitcoin for $235 million following $369.2 million in gross proceeds from traditional warrant exercises.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556)
-
----
-
-## 9. BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform
-
-**Author:** Brian Danga  
-**Published:** 10/14/2026, 1:21:37 PM  
-**Categories:** Companies, News  
-
-BNY and Citadel Securities completed the first tokenized U.S. Treasury repo workflow on a major triparty platform.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534)
-
----
-
-## 10. Strategy’s preferred stock financing may cost it bitcoin, K33 argues
-
-**Author:** James Hunt  
-**Published:** 10/14/2026, 1:20:46 PM  
-**Categories:** Companies, Crypto Ecosystems, Equities, Layer 1s, Markets, Public Equities, Token Projects, Analyst Reports, Bitcoin, Strategy, News  
-
-K33 argues Strategy could accumulate more bitcoin over time by relying on common stock issuance rather than preferred shares.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-14-strategys-preferred-stock-financing-may-cost-it-bitcoin-k33-argues-418543)
 
 ---
