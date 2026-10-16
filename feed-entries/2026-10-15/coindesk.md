@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-15"
 date: "2026-10-15"
 source: "CoinDesk"
-count: 14
+count: 12
 ---
 
 # CoinDesk - 2026-10-15
 
-14 items collected.
+12 items collected.
 
 ---
 
@@ -152,29 +152,5 @@ BlackRock's CEO says "a moratorium of some sort" on data center buildouts would 
 Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide)
-
----
-
-## 13. Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%
-
-**Author:** Shaurya Malwa  
-**Published:** 10/15/2026, 4:13:56 AM  
-**Categories:** Markets, News  
-
-Computing power directed at Binance Pool has fallen from 26 EH/s in December to about 9 EH/s. Its remaining miners must choose another provider before a Nov. 10 cutoff.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65)
-
----
-
-## 14. Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%
-
-**Author:** Omkar Godbole  
-**Published:** 10/15/2026, 3:57:45 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs)
 
 ---
