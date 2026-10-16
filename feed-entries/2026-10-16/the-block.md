@@ -2,16 +2,28 @@
 title: "The Block - 2026-10-16"
 date: "2026-10-16"
 source: "The Block"
-count: 7
+count: 8
 ---
 
 # The Block - 2026-10-16
 
-7 items collected.
+8 items collected.
 
 ---
 
-## 1. Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026
+## 1. Coinbase to power stablecoin-backed cards for Marqeta customers
+
+**Author:** Kyle Baird  
+**Published:** 10/16/2026, 5:21:29 PM  
+**Categories:** Companies, Crypto Ecosystems, Exchanges, Finance firms, Markets, Metaverse & NFT, NFT Marketplaces, Public Equities, Stablecoins, Coinbase, Payments, News  
+
+The expanded partnership builds on Marqeta’s work powering Coinbase’s U.S. debit card offering in 2020.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833)
+
+---
+
+## 2. Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026
 
 **Author:** Jason Shubnell  
 **Published:** 10/16/2026, 2:58:29 PM  
@@ -23,7 +35,7 @@ Circle breaks down its USDC revenue: about $1.4 billion in H1 2026, $819 million
 
 ---
 
-## 2. How Ethereum Works
+## 3. How Ethereum Works
 
 **Author:** The Block Research  
 **Published:** 10/16/2026, 1:31:07 PM  
@@ -35,7 +47,7 @@ The focus is how Ethereum works under the hood: how it tracks and updates state,
 
 ---
 
-## 3. OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task
+## 4. OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task
 
 **Author:** Brian Danga  
 **Published:** 10/16/2026, 11:34:54 AM  
@@ -47,7 +59,7 @@ OpenAI's research model used another wallet's testnet ETH without permission to 
 
 ---
 
-## 4. Visa Direct moves USDC prefunding into commercial production with Inyo Global
+## 5. Visa Direct moves USDC prefunding into commercial production with Inyo Global
 
 **Author:** James Hunt  
 **Published:** 10/16/2026, 11:25:12 AM  
@@ -59,7 +71,7 @@ Visa Direct has brought USDC prefunding into commercial production with Inyo Glo
 
 ---
 
-## 5. Google demonstrates quantum computing breakthrough as observers weigh Q-day implications
+## 6. Google demonstrates quantum computing breakthrough as observers weigh Q-day implications
 
 **Author:** Danny Park  
 **Published:** 10/16/2026, 10:13:32 AM  
@@ -71,7 +83,7 @@ Google demonstrated "magic state cultivation," potentially helping address one o
 
 ---
 
-## 6. Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge
+## 7. Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge
 
 **Author:** Timmy Shen  
 **Published:** 10/16/2026, 9:30:21 AM  
@@ -83,7 +95,7 @@ The company attributed roughly €67.5 million ($75.9 million) of the loss to an
 
 ---
 
-## 7. US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement
+## 8. US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement
 
 **Author:** Danny Park  
 **Published:** 10/16/2026, 5:44:05 AM  
