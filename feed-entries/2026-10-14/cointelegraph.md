@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-14"
 date: "2026-10-14"
 source: "Cointelegraph"
-count: 7
+count: 4
 ---
 
 # Cointelegraph - 2026-10-14
 
-7 items collected.
+4 items collected.
 
 ---
 
@@ -56,41 +56,5 @@ Brooklyn prosecutors and the FBI seized 112 servers and shut down 241 websites l
 The report from the US banking regulator did not include specific examples of debanking related to crypto, but mentioned it alongside ties to oil, gas and firearms.
 
 📖 [Read original article](https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 10/14/2026, 4:26:31 PM  
-**Categories:** Latest News  
-
-The bank identified four distinct stablecoin markets, with USDC leading payments and AI transactions as competition intensifies over reserve yields.
-
-📖 [Read original article](https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Bitcoin price dips below $82K as high oil prices spike US CPI inflation
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/14/2026, 2:21:15 PM  
-**Categories:** Markets  
-
-Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. ‘Bunker mode’ won’t protect your crypto, critics say
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 10/14/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Even if Justin Drake’s prediction that AI could break cryptography proves correct, critics say “bunker mode” is an impractical suggestion that’s unlikely to protect your crypto.
-
-📖 [Read original article](https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
