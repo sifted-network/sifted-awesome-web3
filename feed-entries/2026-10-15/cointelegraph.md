@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-15"
 date: "2026-10-15"
 source: "Cointelegraph"
-count: 18
+count: 14
 ---
 
 # Cointelegraph - 2026-10-15
 
-18 items collected.
+14 items collected.
 
 ---
 
@@ -176,53 +176,5 @@ Witt’s departure leaves a leadership gap at the White House Crypto Council and
 Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.
 
 📖 [Read original article](https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/15/2026, 10:00:00 AM  
-**Categories:** Latest News  
-
-Compromised suppliers, developer tools and infrastructure components outside security audits drove about 77% of the quarter’s total losses, according to Hacken.
-
-📖 [Read original article](https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Bitcoin dips to $80.1K as KOSPI closes at its lowest since April
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/15/2026, 9:48:07 AM  
-**Categories:** Markets  
-
-Bitcoin price action continued to see contagion from a Korean tech sell-off after the KOSPI Index fell 7.5% on Thursday.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Thailand crypto ETFs may see slow start despite new rules: CoinShares
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/15/2026, 9:36:20 AM  
-**Categories:** Latest News  
-
-Thailand’s new Bitcoin and Ether ETF rules take effect Friday, but CoinShares expects modest initial inflows as existing investment options compete for demand.
-
-📖 [Read original article](https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Babylon advances native Bitcoin lending proposal on Aave V4
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/15/2026, 9:14:28 AM  
-**Categories:** Latest News  
-
-Babylon’s proposal to bring native Bitcoin collateral to Aave V4 has entered a new governance stage, but further votes and security reviews remain before launch.
-
-📖 [Read original article](https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
