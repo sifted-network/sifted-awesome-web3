@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-10-15"
 date: "2026-10-15"
 source: "Cointelegraph"
-count: 23
+count: 25
 ---
 
 # Cointelegraph - 2026-10-15
 
-23 items collected.
+25 items collected.
 
 ---
 
-## 1. Binance.US seeks $1B valuation in potential $100M funding round: Report
+## 1. Australia releases draft bill to adopt OECD crypto tax reporting framework
+
+**Author:** Cointelegraph by Felix Ng  
+**Published:** 10/15/2026, 11:34:19 PM  
+**Categories:** Latest News  
+
+Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028.
+
+📖 [Read original article](https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Scammer loses $4.8M stored on tampered Ledgers: Asia Express
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 10/15/2026, 10:42:58 PM  
+**Categories:** Magazine  
+
+A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.
+
+📖 [Read original article](https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Binance.US seeks $1B valuation in potential $100M funding round: Report
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/15/2026, 8:21:11 PM  
@@ -23,7 +47,7 @@ The crypto exchange was reportedly looking to use the additional funding to rega
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 4. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/15/2026, 7:37:27 PM  
@@ -35,7 +59,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ
+## 5. Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/15/2026, 5:14:45 PM  
@@ -47,7 +71,7 @@ The Wall Street Journal reported that a company co-founded by Bo Hines benefited
 
 ---
 
-## 4. Sweden revisits digital krona as ECB advances digital euro plans
+## 6. Sweden revisits digital krona as ECB advances digital euro plans
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/15/2026, 4:49:59 PM  
@@ -59,7 +83,7 @@ Sweden’s Riksbank has recommended that lawmakers prepare for a possible digita
 
 ---
 
-## 5. Mastercard brings stablecoin balances into traditional banking and card payments
+## 7. Mastercard brings stablecoin balances into traditional banking and card payments
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/15/2026, 3:46:05 PM  
@@ -71,7 +95,7 @@ The launch of Global Money Platform marks Mastercard’s first major integration
 
 ---
 
-## 6. Bitcoin slips under $80K after US PPI gains most in four years
+## 8. Bitcoin slips under $80K after US PPI gains most in four years
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/15/2026, 3:10:44 PM  
@@ -83,7 +107,7 @@ BTC buyers attempted to defend $80,000 support after September US producer infla
 
 ---
 
-## 7. Russia to ban direct peer-to-peer crypto trades starting July 2027
+## 9. Russia to ban direct peer-to-peer crypto trades starting July 2027
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/15/2026, 2:22:43 PM  
@@ -95,7 +119,7 @@ Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate r
 
 ---
 
-## 8. Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions
+## 10. Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/15/2026, 2:16:55 PM  
@@ -107,7 +131,7 @@ The Nasdaq-listed treasury company holds about $237 million in TRX tokens and pl
 
 ---
 
-## 9. Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion
+## 11. Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 10/15/2026, 1:30:00 PM  
@@ -119,7 +143,7 @@ The SEC and the CFTC have issued a raft of pro-crypto rules recently. But will t
 
 ---
 
-## 10. HEX token sellers erase $160M following reports of founder Richard Schueler arrest
+## 12. HEX token sellers erase $160M following reports of founder Richard Schueler arrest
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/15/2026, 12:12:57 PM  
@@ -131,7 +155,7 @@ The HEX token’s price declined by 30% following local media reports of the Ist
 
 ---
 
-## 11. Ledger’s answer to wallet tampering costs $849 and ships next year
+## 13. Ledger’s answer to wallet tampering costs $849 and ships next year
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/15/2026, 12:00:00 PM  
@@ -143,7 +167,7 @@ Ledger’s new Atom combines crypto wallet security with everyday apps and is ex
 
 ---
 
-## 12. White House crypto council chief Patrick Witt steps down
+## 14. White House crypto council chief Patrick Witt steps down
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/15/2026, 10:41:09 AM  
@@ -155,7 +179,7 @@ Witt’s departure leaves a leadership gap at the White House Crypto Council and
 
 ---
 
-## 13. Starknet opens vote on potential Ethereum L2 exit over quantum risks
+## 15. Starknet opens vote on potential Ethereum L2 exit over quantum risks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/15/2026, 10:22:00 AM  
@@ -167,7 +191,7 @@ Starknet is asking STRK holders whether to explore becoming an independent layer
 
 ---
 
-## 14. Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B
+## 16. Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/15/2026, 10:00:00 AM  
@@ -179,7 +203,7 @@ Compromised suppliers, developer tools and infrastructure components outside sec
 
 ---
 
-## 15. Bitcoin dips to $80.1K as KOSPI closes at its lowest since April
+## 17. Bitcoin dips to $80.1K as KOSPI closes at its lowest since April
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/15/2026, 9:48:07 AM  
@@ -191,7 +215,7 @@ Bitcoin price action continued to see contagion from a Korean tech sell-off afte
 
 ---
 
-## 16. Thailand crypto ETFs may see slow start despite new rules: CoinShares
+## 18. Thailand crypto ETFs may see slow start despite new rules: CoinShares
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/15/2026, 9:36:20 AM  
@@ -203,7 +227,7 @@ Thailand’s new Bitcoin and Ether ETF rules take effect Friday, but CoinShares 
 
 ---
 
-## 17. Babylon advances native Bitcoin lending proposal on Aave V4
+## 19. Babylon advances native Bitcoin lending proposal on Aave V4
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/15/2026, 9:14:28 AM  
@@ -215,7 +239,7 @@ Babylon’s proposal to bring native Bitcoin collateral to Aave V4 has entered a
 
 ---
 
-## 18. Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend
+## 20. Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/15/2026, 7:23:43 AM  
@@ -227,7 +251,7 @@ Bitcoin ETFs have recorded $151 million in net outflows since Monday, after inve
 
 ---
 
-## 19. South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms
+## 21. South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/15/2026, 5:52:21 AM  
@@ -239,7 +263,7 @@ South Korea is proposing tougher cybersecurity assessments after a review identi
 
 ---
 
-## 20. Australia seeks feedback on crypto platform rules ahead of 2027 rollout
+## 22. Australia seeks feedback on crypto platform rules ahead of 2027 rollout
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/15/2026, 5:00:40 AM  
@@ -251,7 +275,7 @@ The consultation follows Parliament’s passage of digital asset legislation in 
 
 ---
 
-## 21. Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July
+## 23. Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/15/2026, 3:29:22 AM  
@@ -263,7 +287,7 @@ TeraWulf, Core Scientific, Cipher Mining and IREN each lost more than 12% as hot
 
 ---
 
-## 22. VanEck seeks to withdraw application for Lido staked Ether ETF
+## 24. VanEck seeks to withdraw application for Lido staked Ether ETF
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/15/2026, 1:21:52 AM  
@@ -275,7 +299,7 @@ VanEck initially filed an S-1 registration statement for the exchange-traded fun
 
 ---
 
-## 23. Polygon gains US payments licenses after closing Coinme deal
+## 25. Polygon gains US payments licenses after closing Coinme deal
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/15/2026, 12:55:21 AM  
