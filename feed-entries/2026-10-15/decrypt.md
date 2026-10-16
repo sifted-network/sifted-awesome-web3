@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-10-15"
 date: "2026-10-15"
 source: "Decrypt"
-count: 12
+count: 14
 ---
 
 # Decrypt - 2026-10-15
 
-12 items collected.
+14 items collected.
 
 ---
 
-## 1. Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms
+## 1. Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk
+
+**Author:** Jose Antonio Lanz  
+**Published:** 10/15/2026, 10:16:03 PM  
+**Categories:** Artificial Intelligence  
+
+Researchers added hidden text to contact AI agents probing Alibaba’s map service, getting replies about their tasks as investigators traced activity to Tencent Cloud infrastructure.
+
+📖 [Read original article](https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba)
+
+---
+
+## 2. Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks
+
+**Author:** Jose Antonio Lanz  
+**Published:** 10/15/2026, 9:46:04 PM  
+**Categories:** Technology  
+
+Google's Willow chip cut errors 40x on the scarce “magic states” quantum computers burn through, a step toward smaller, useful machines—and toward ones that could threaten today's encryption.
+
+📖 [Read original article](https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks)
+
+---
+
+## 3. Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/15/2026, 8:31:04 PM  
@@ -23,7 +47,7 @@ Russians have until July 1, 2027 to buy and sell crypto directly with each other
 
 ---
 
-## 2. Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says
+## 4. Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says
 
 **Author:** Decrypt Staff  
 **Published:** 10/15/2026, 7:16:04 PM  
@@ -35,7 +59,7 @@ In a note to investors, Matt Hougan used a “Choose Your Own Adventure” frame
 
 ---
 
-## 3. BlackRock’s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession
+## 5. BlackRock’s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession
 
 **Author:** Decrypt Staff  
 **Published:** 10/15/2026, 6:16:04 PM  
@@ -47,7 +71,7 @@ Speaking after BlackRock’s Q3 earnings, Fink said AI infrastructure spending h
 
 ---
 
-## 4. Google Says AI Isn't Building Itself Yet—Even Though It Writes 75% of the Code
+## 6. Google Says AI Isn't Building Itself Yet—Even Though It Writes 75% of the Code
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/15/2026, 5:36:05 PM  
@@ -59,7 +83,7 @@ Google DeepMind's first internal audit of AI-driven research finds no measurable
 
 ---
 
-## 5. Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins
+## 7. Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins
 
 **Author:** Decrypt Agent  
 **Published:** 10/15/2026, 4:28:50 PM  
@@ -71,7 +95,7 @@ The first major integration since Mastercard’s $1.8 billion BVNK acquisition l
 
 ---
 
-## 6. Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion
+## 8. Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/15/2026, 3:20:41 PM  
@@ -83,7 +107,7 @@ Hot inflation data revived Fed rate-hike bets, and leveraged bulls paid the bill
 
 ---
 
-## 7. Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures
+## 9. Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures
 
 **Author:** Ryan Gladwin  
 **Published:** 10/15/2026, 2:27:18 PM  
@@ -95,7 +119,7 @@ Market analysts say that macro factors are pushing altcoin prices down, after ET
 
 ---
 
-## 8. Ledger Announces Atom Touchscreen Android Device
+## 10. Ledger Announces Atom Touchscreen Android Device
 
 **Author:** Decrypt Agent  
 **Published:** 10/15/2026, 1:32:21 PM  
@@ -107,7 +131,7 @@ Ledger says the Android-based Atom will carry anti-tamper protections and be sol
 
 ---
 
-## 9. Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up
+## 11. Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up
 
 **Author:** Ryan Gladwin  
 **Published:** 10/15/2026, 12:42:30 PM  
@@ -119,7 +143,7 @@ Experts blame a build up in leverage for Zcash's drop in value, as well as growi
 
 ---
 
-## 10. Morning Minute: Solana Is About To Get Faster
+## 12. Morning Minute: Solana Is About To Get Faster
 
 **Author:** Tyler Warner  
 **Published:** 10/15/2026, 12:07:08 PM  
@@ -131,7 +155,7 @@ Alpenglow is coming next week, slashing Solana finality from 12.8 seconds to a t
 
 ---
 
-## 11. Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data
+## 13. Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data
 
 **Author:** Decrypt Agent  
 **Published:** 10/15/2026, 11:48:42 AM  
@@ -143,7 +167,7 @@ Odds of an October Fed hike have climbed to 29% from 18% a week ago, and analyst
 
 ---
 
-## 12. Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers
+## 14. Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers
 
 **Author:** Decrypt Agent  
 **Published:** 10/15/2026, 10:01:21 AM  
