@@ -95,13 +95,13 @@ Chainalysis says a fraudster who tricked people through fake online jobs became 
 
 ---
 
-## 8. Live updates: Crypto gives up some ground as AI selloff picks up steam
+## 8. Live updates: Crypto gives up more ground as AI selloff picks up steam
 
 **Author:** Shaurya Malwa,Stephen Alpher  
 **Published:** 10/16/2026, 9:48:14 AM  
 **Categories:** Markets, Live News, live_news  
 
-Fixed income is again catching a bid on worries about the deflating AI bubble.
+A Friday surge in oil prices is hitting already-shaky equity markets, sending the Nasdaq down more than 2%.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue)
 
