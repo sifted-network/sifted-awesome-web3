@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-13"
 date: "2026-10-13"
 source: "Decrypt"
-count: 8
+count: 6
 ---
 
 # Decrypt - 2026-10-13
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ The Nasdaq-listed asset manager bought the Bitcoin at an average of about $84,50
 Palantir CTO Shyam Sankar says many AI researchers have taken up smoking to signal their faith in AI.
 
 📖 [Read original article](https://decrypt.co/380857/ai-researchers-smoking-cigarettes-prove-ai-cure-cancer)
-
----
-
-## 7. Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/13/2026, 4:46:05 PM  
-**Categories:** , Markets  
-
-Bitcoin dipped below $81,000 before buyers stepped in, but the Fear and Greed Index says traders aren't convinced yet.
-
-📖 [Read original article](https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters)
-
----
-
-## 8. Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/13/2026, 4:14:50 PM  
-**Categories:** , Business  
-
-Trezor is ending reseller authorizations on January 1, 2027, after Ledger confirmed that wallets sold by a Southeast Asian retailer carried a hidden implant that sent out users' recovery phrases.
-
-📖 [Read original article](https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets)
 
 ---
