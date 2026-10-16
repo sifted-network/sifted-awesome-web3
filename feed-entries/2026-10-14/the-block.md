@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-14"
 date: "2026-10-14"
 source: "The Block"
-count: 5
+count: 1
 ---
 
 # The Block - 2026-10-14
 
-5 items collected.
+1 items collected.
 
 ---
 
@@ -20,53 +20,5 @@ count: 5
 Leadership at the White House is shifting once again, as Patrick Witt’s tenure as the administration’s top crypto adviser comes to an end.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611)
-
----
-
-## 2. Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month
-
-**Author:** Kyle Baird  
-**Published:** 10/14/2026, 6:25:54 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, Token Projects, Crypto Treasuries, Solana, News  
-
-SkyAI's SOL treasury fell 70% in under a month, with 400,000 SOL unexplained. Bastion Trading won't tender at $3 a share and wants $3.50.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598)
-
----
-
-## 3. ‘You’re committing crime in broad daylight’: Kalshi CEO defends prediction markets amid insider trading concerns
-
-**Author:** Sarah Wynn  
-**Published:** 10/14/2026, 5:47:18 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Markets, Policy, Regulation, CFTC, Kalshi, News  
-
-As insider trading concerns are accumulating, one of the biggest platforms said its markets make it easier to suss out bad actors.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601)
-
----
-
-## 4. Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns
-
-**Author:** Jason Shubnell  
-**Published:** 10/14/2026, 4:51:54 PM  
-**Categories:** Crypto Ecosystems, Equities, Layer 1s, Macro, Markets, Token Projects, Analyst Reports, Bitcoin, Economic Indicators, News  
-
-Bitcoin dropped below $82,000 after September's core CPI beat forecasts as analysts weigh price targets and an October hike.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582)
-
----
-
-## 5. Hex and PulseChain founder Richard Heart detained in Istanbul: reports
-
-**Author:** Kyle Baird  
-**Published:** 10/14/2026, 3:53:15 PM  
-**Categories:** Crypto Ecosystems, Legal, Markets, Policy, Regulation, Crime, News  
-
-Turkish reports say $4 million and 64 watches were seized. Police have yet to confirm Heart’s detention.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574)
 
 ---
