@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-15"
 date: "2026-10-15"
 source: "Cointelegraph"
-count: 12
+count: 10
 ---
 
 # Cointelegraph - 2026-10-15
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ The Nasdaq-listed treasury company holds about $237 million in TRX tokens and pl
 The SEC and the CFTC have issued a raft of pro-crypto rules recently. But will the rules hold up in court, and can they be easily rolled back by the “anti-crypto army”?
 
 📖 [Read original article](https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. HEX token sellers erase $160M following reports of founder Richard Schueler arrest
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/15/2026, 12:12:57 PM  
-**Categories:** Latest News  
-
-The HEX token’s price declined by 30% following local media reports of the Istanbul arrest of founder Richard Schueler, nearly two years after Interpol issued a “Red Notice.”
-
-📖 [Read original article](https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Ledger’s answer to wallet tampering costs $849 and ships next year
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/15/2026, 12:00:00 PM  
-**Categories:** Latest News  
-
-Ledger’s new Atom combines crypto wallet security with everyday apps and is expected to ship in summer 2027 as the company investigates tampered wallets sold in Asia.
-
-📖 [Read original article](https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
