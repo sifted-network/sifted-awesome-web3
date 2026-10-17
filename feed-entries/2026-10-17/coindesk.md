@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-10-17"
 date: "2026-10-17"
 source: "CoinDesk"
-count: 2
+count: 4
 ---
 
 # CoinDesk - 2026-10-17
 
-2 items collected.
+4 items collected.
 
 ---
 
-## 1. ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
+## 1. Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe
+
+**Author:** Olivier Acuna  
+**Published:** 10/17/2026, 2:00:00 PM  
+**Categories:** Finance, Stablecoins, Cryptocurrency, News  
+
+CEO Marc Boiron said the Coinme acquisition will help Polygon control customer relationships and capture revenue that previously went to payment intermediaries.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe)
+
+---
+
+## 2. Banks could slow stablecoin growth by paying savers more, BIS paper finds
+
+**Author:** Francisco Rodrigues  
+**Published:** 10/17/2026, 12:00:00 PM  
+**Categories:** Finance, banks, Stablecoins, News  
+
+A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds)
+
+---
+
+## 3. ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
 
 **Author:** Shaurya Malwa  
 **Published:** 10/17/2026, 6:39:48 AM  
@@ -23,7 +47,7 @@ Numbers the spy agency handed over in the 1990s, long suspected of hiding a back
 
 ---
 
-## 2. Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough
+## 4. Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough
 
 **Author:** Shaurya Malwa  
 **Published:** 10/17/2026, 2:30:00 AM  
