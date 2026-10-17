@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-15"
 date: "2026-10-15"
 source: "CoinDesk"
-count: 8
+count: 6
 ---
 
 # CoinDesk - 2026-10-15
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ Your day-ahead look for Oct. 15, 2026
 Bitcoin fell to just above $80,000 as South Korea’s Kospi plunged 8%, while the CoinDesk 80 fell 2.2% and all but six CoinDesk 100 members declined.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower)
-
----
-
-## 7. Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month
-
-**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Stephen Alpher  
-**Published:** 10/15/2026, 10:16:15 AM  
-**Categories:** Finance, Live News, live_news  
-
-Stocks also turned positive after big early losses, helped by sharply lower bond yields.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens)
-
----
-
-## 8. Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain
-
-**Author:** Olivier Acuna  
-**Published:** 10/15/2026, 10:00:56 AM  
-**Categories:** Policy, Hyperliquid, CFTC, Regulation, News  
-
-Jeff Yan told Bloomberg that U.S. regulatory oversight should apply to the firms using the blockchain, not to the underlying network itself.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain)
 
 ---
