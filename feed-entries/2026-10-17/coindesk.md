@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-10-17"
 date: "2026-10-17"
 source: "CoinDesk"
-count: 4
+count: 6
 ---
 
 # CoinDesk - 2026-10-17
 
-4 items collected.
+6 items collected.
 
 ---
 
-## 1. Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe
+## 1. Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat
+
+**Author:** Helene Braun  
+**Published:** 10/17/2026, 5:00:00 PM  
+**Categories:** Finance, Tokenization, banks, Morgan Stanley, News  
+
+The largest banks in the world are eyeing new trading opportunities, speeding up payments and a role for advisers as tokenization takes root in Wall Street.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat)
+
+---
+
+## 2. Citrini sees a tokenization boom. The harder question is who profits
+
+**Author:** Krisztian Sandor  
+**Published:** 10/17/2026, 3:00:00 PM  
+**Categories:** Finance, Tokenization Weekly, Tokenization, Exclusive, Grayscale, Coinbase, Robinhood, Ethereum News, Solana News, News  
+
+The influential research firm says real-world assets could finally give blockchains a clear role in finance. For investors, the next challenge is figuring out which companies, networks and protocols capture the revenue.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits)
+
+---
+
+## 3. Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe
 
 **Author:** Olivier Acuna  
 **Published:** 10/17/2026, 2:00:00 PM  
@@ -23,7 +47,7 @@ CEO Marc Boiron said the Coinme acquisition will help Polygon control customer r
 
 ---
 
-## 2. Banks could slow stablecoin growth by paying savers more, BIS paper finds
+## 4. Banks could slow stablecoin growth by paying savers more, BIS paper finds
 
 **Author:** Francisco Rodrigues  
 **Published:** 10/17/2026, 12:00:00 PM  
@@ -35,7 +59,7 @@ A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predic
 
 ---
 
-## 3. ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
+## 5. ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery
 
 **Author:** Shaurya Malwa  
 **Published:** 10/17/2026, 6:39:48 AM  
@@ -47,7 +71,7 @@ Numbers the spy agency handed over in the 1990s, long suspected of hiding a back
 
 ---
 
-## 4. Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough
+## 6. Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough
 
 **Author:** Shaurya Malwa  
 **Published:** 10/17/2026, 2:30:00 AM  
