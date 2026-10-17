@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-15"
 date: "2026-10-15"
 source: "CoinDesk"
-count: 12
+count: 10
 ---
 
 # CoinDesk - 2026-10-15
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ The country’s regulator, ASIC, has proposed tougher rules to protect users’ 
 Police reportedly seized $4 million in cash and 64 luxury watches during a raid on the crypto founder's Istanbul residence.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report)
-
----
-
-## 11. BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt
-
-**Author:** Omkar Godbole  
-**Published:** 10/15/2026, 6:17:58 AM  
-**Categories:** Markets, BlackRock, Artificial Intelligence, News  
-
-BlackRock's CEO says "a moratorium of some sort" on data center buildouts would put the U.S. in a recession.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai)
-
----
-
-## 12. Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide
-
-**Author:** Shaurya Malwa  
-**Published:** 10/15/2026, 4:25:15 AM  
-**Categories:** Markets, News  
-
-Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide)
 
 ---
