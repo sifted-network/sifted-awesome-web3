@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-15"
 date: "2026-10-15"
 source: "The Block"
-count: 12
+count: 11
 ---
 
 # The Block - 2026-10-15
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ Ledger unveiled Atom, an Android-based security device with Solana Mobile integr
 The EBA classified Circle’s USDC as the EU’s first "significant" e-money token, with new supervisory responsibilities beginning Nov. 12.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637)
-
----
-
-## 12. Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities
-
-**Author:** Timmy Shen  
-**Published:** 10/15/2026, 4:38:48 AM  
-**Categories:** Markets, News  
-
-Asian equities tumbled on Thursday, with South Korea's Kospi losing 8% and Japan's Nikkei 225 declining 5% during morning trading.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623)
 
 ---
