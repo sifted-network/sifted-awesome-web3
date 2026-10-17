@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-15"
 date: "2026-10-15"
 source: "CoinDesk"
-count: 10
+count: 8
 ---
 
 # CoinDesk - 2026-10-15
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Stocks also turned positive after big early losses, helped by sharply lower bond
 Jeff Yan told Bloomberg that U.S. regulatory oversight should apply to the firms using the blockchain, not to the underlying network itself.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain)
-
----
-
-## 9. Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline
-
-**Author:** Olivier Acuna  
-**Published:** 10/15/2026, 9:53:37 AM  
-**Categories:** Policy, Regulation, Australia, Cryptocurrency, News  
-
-The country’s regulator, ASIC, has proposed tougher rules to protect users’ digital assets, crypto trading and to safeguard the country’s financial stability.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline)
-
----
-
-## 10. Hex founder Richard Heart arrested in Istanbul, Turkish media report
-
-**Author:** Olivier Acuna  
-**Published:** 10/15/2026, 9:20:57 AM  
-**Categories:** Policy, Cryptocurrency, SEC, Crime, News  
-
-Police reportedly seized $4 million in cash and 64 luxury watches during a raid on the crypto founder's Istanbul residence.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report)
 
 ---
