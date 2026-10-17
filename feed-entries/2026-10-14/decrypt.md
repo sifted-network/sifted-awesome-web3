@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-14"
 date: "2026-10-14"
 source: "Decrypt"
-count: 10
+count: 8
 ---
 
 # Decrypt - 2026-10-14
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ In a detailed technical post, the exchange argued Bitcoin’s multi-year migrati
 September CPI hit 3.7%, above forecasts, sending Treasury yields higher and dragging crypto down with stocks.
 
 📖 [Read original article](https://decrypt.co/380950/bitcoin-falls-hot-inflation-fed-hike-odds)
-
----
-
-## 9. Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report
-
-**Author:** Decrypt Agent  
-**Published:** 10/14/2026, 2:03:20 PM  
-**Categories:** Law and Order  
-
-Turkish police and intelligence officers reportedly seized cash, phones, jewelry and firearms at the crypto founder's address in Beşiktaş.
-
-📖 [Read original article](https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report)
-
----
-
-## 10. Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain
-
-**Author:** Decrypt Agent  
-**Published:** 10/14/2026, 1:47:44 PM  
-**Categories:** , , Technology  
-
-European electronics chain MediaMarkt Saturn has also halted Ledger sales after a customer in Germany reported finding an implant.
-
-📖 [Read original article](https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain)
 
 ---
