@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-15"
 date: "2026-10-15"
 source: "The Block"
-count: 11
+count: 10
 ---
 
 # The Block - 2026-10-15
 
-11 items collected.
+10 items collected.
 
 ---
 
@@ -128,17 +128,5 @@ Helius CEO Mert Mumtaz joined NEAR Foundation's Council, which oversees the foun
 Ledger unveiled Atom, an Android-based security device with Solana Mobile integration, AI-agent controls, and hardware-tampering protections.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644)
-
----
-
-## 11. EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token
-
-**Author:** Brian Danga  
-**Published:** 10/15/2026, 11:10:07 AM  
-**Categories:** Crypto Ecosystems, International Policymaking, Markets, Policy, Regulation, Stablecoins, Token Projects, Eurozone Regulation, USDC, News  
-
-The EBA classified Circle’s USDC as the EU’s first "significant" e-money token, with new supervisory responsibilities beginning Nov. 12.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637)
 
 ---
