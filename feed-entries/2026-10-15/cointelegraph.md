@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-15"
 date: "2026-10-15"
 source: "Cointelegraph"
-count: 14
+count: 12
 ---
 
 # Cointelegraph - 2026-10-15
 
-14 items collected.
+12 items collected.
 
 ---
 
@@ -152,29 +152,5 @@ The HEX token’s price declined by 30% following local media reports of the Ist
 Ledger’s new Atom combines crypto wallet security with everyday apps and is expected to ship in summer 2027 as the company investigates tampered wallets sold in Asia.
 
 📖 [Read original article](https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. White House crypto council chief Patrick Witt steps down
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/15/2026, 10:41:09 AM  
-**Categories:** Latest News  
-
-Witt’s departure leaves a leadership gap at the White House Crypto Council and marks the fourth high-profile exit from the advisory group.
-
-📖 [Read original article](https://cointelegraph.com/news/white-house-crypto-council-director-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Starknet opens vote on potential Ethereum L2 exit over quantum risks
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/15/2026, 10:22:00 AM  
-**Categories:** Latest News  
-
-Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.
-
-📖 [Read original article](https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
