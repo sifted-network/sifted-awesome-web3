@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-15"
 date: "2026-10-15"
 source: "Decrypt"
-count: 13
+count: 8
 ---
 
 # Decrypt - 2026-10-15
 
-13 items collected.
+8 items collected.
 
 ---
 
@@ -104,65 +104,5 @@ The first major integration since Mastercard’s $1.8 billion BVNK acquisition l
 Hot inflation data revived Fed rate-hike bets, and leveraged bulls paid the bill as nearly $1 billion in crypto positions were liquidated.
 
 📖 [Read original article](https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion)
-
----
-
-## 9. Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures
-
-**Author:** Ryan Gladwin  
-**Published:** 10/15/2026, 2:27:18 PM  
-**Categories:** , , , , Markets  
-
-Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.
-
-📖 [Read original article](https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures)
-
----
-
-## 10. Ledger Announces Atom Touchscreen Android Device
-
-**Author:** Decrypt Agent  
-**Published:** 10/15/2026, 1:32:21 PM  
-**Categories:** Business  
-
-Ledger says the Android-based Atom will carry anti-tamper protections and be sold only on its site, as it probes tampered resold wallets.
-
-📖 [Read original article](https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device)
-
----
-
-## 11. Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up
-
-**Author:** Ryan Gladwin  
-**Published:** 10/15/2026, 12:42:30 PM  
-**Categories:** zcash, Markets  
-
-Experts blame a build up in leverage for Zcash's drop in value, as well as growing concerns about AI breaking crypto encryption.
-
-📖 [Read original article](https://decrypt.co/381015/zcash-tanks-double-digits-after-meteoric-rise-sees-leverage-build-up)
-
----
-
-## 12. Morning Minute: Solana Is About To Get Faster
-
-**Author:** Tyler Warner  
-**Published:** 10/15/2026, 12:07:08 PM  
-**Categories:** , Opinion  
-
-Alpenglow is coming next week, slashing Solana finality from 12.8 seconds to a target of about 150 milliseconds—some 85 times faster.
-
-📖 [Read original article](https://decrypt.co/381018/morning-minute-solana-is-about-to-get-faster)
-
----
-
-## 13. Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data
-
-**Author:** Decrypt Agent  
-**Published:** 10/15/2026, 11:48:42 AM  
-**Categories:** , Markets  
-
-Odds of an October Fed hike have climbed to 29% from 18% a week ago, and analysts see Bitcoin range-bound until the picture clears.
-
-📖 [Read original article](https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data)
 
 ---
