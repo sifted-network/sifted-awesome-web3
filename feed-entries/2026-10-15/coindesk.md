@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-15"
 date: "2026-10-15"
 source: "CoinDesk"
-count: 5
+count: 4
 ---
 
 # CoinDesk - 2026-10-15
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ The scheme allegedly stole tens of millions through Russian-language Facebook ad
 Ledger’s Atom will run apps like WhatsApp and Instragram and let users switch between smartphone functions and a protected mode for managing digital assets.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone)
-
----
-
-## 5. Bitcoin, copper, stocks, yields all fall; gold rises
-
-**Author:** Omkar Godbole  
-**Published:** 10/15/2026, 11:15:00 AM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Oct. 15, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises)
 
 ---
