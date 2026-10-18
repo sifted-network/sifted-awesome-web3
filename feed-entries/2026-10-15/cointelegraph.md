@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-15"
 date: "2026-10-15"
 source: "Cointelegraph"
-count: 10
+count: 8
 ---
 
 # Cointelegraph - 2026-10-15
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ BTC buyers attempted to defend $80,000 support after September US producer infla
 Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets.
 
 📖 [Read original article](https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/15/2026, 2:16:55 PM  
-**Categories:** Latest News  
-
-The Nasdaq-listed treasury company holds about $237 million in TRX tokens and plans to raise additional capital to fund its purchases, alongside its daily accumulation.
-
-📖 [Read original article](https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion
-
-**Author:** Cointelegraph by Andrew Fenton  
-**Published:** 10/15/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-The SEC and the CFTC have issued a raft of pro-crypto rules recently. But will the rules hold up in court, and can they be easily rolled back by the “anti-crypto army”?
-
-📖 [Read original article](https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
