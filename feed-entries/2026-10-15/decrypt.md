@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-15"
 date: "2026-10-15"
 source: "Decrypt"
-count: 8
+count: 3
 ---
 
 # Decrypt - 2026-10-15
 
-8 items collected.
+3 items collected.
 
 ---
 
@@ -44,65 +44,5 @@ Google's Willow chip cut errors 40x on the scarce “magic states” quantum com
 Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia.
 
 📖 [Read original article](https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading)
-
----
-
-## 4. Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says
-
-**Author:** Decrypt Staff  
-**Published:** 10/15/2026, 7:16:04 PM  
-**Categories:** , Business  
-
-In a note to investors, Matt Hougan used a “Choose Your Own Adventure” framework to argue that superabundance, an AI bust or a muddle-through economy all ultimately funnel to the same place: Bitcoin higher.
-
-📖 [Read original article](https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust)
-
----
-
-## 5. BlackRock’s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession
-
-**Author:** Decrypt Staff  
-**Published:** 10/15/2026, 6:16:04 PM  
-**Categories:** Artificial Intelligence  
-
-Speaking after BlackRock’s Q3 earnings, Fink said AI infrastructure spending has become so central to growth that a construction halt would be dangerous—calling the backlash “misinformation” as data centers become a midterm flashpoint.
-
-📖 [Read original article](https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession)
-
----
-
-## 6. Google Says AI Isn't Building Itself Yet—Even Though It Writes 75% of the Code
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/15/2026, 5:36:05 PM  
-**Categories:** Artificial Intelligence  
-
-Google DeepMind's first internal audit of AI-driven research finds no measurable speedup in AI progress.
-
-📖 [Read original article](https://decrypt.co/381061/google-deepmind-ai-isnt-building-itself-writes-most-code)
-
----
-
-## 7. Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins
-
-**Author:** Decrypt Agent  
-**Published:** 10/15/2026, 4:28:50 PM  
-**Categories:** , , Business  
-
-The first major integration since Mastercard’s $1.8 billion BVNK acquisition lets banks, fintechs and enterprises hold, convert, and spend fiat and stablecoins through a single API, with agentic commerce support planned.
-
-📖 [Read original article](https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins)
-
----
-
-## 8. Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/15/2026, 3:20:41 PM  
-**Categories:** , Markets  
-
-Hot inflation data revived Fed rate-hike bets, and leveraged bulls paid the bill as nearly $1 billion in crypto positions were liquidated.
-
-📖 [Read original article](https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion)
 
 ---
