@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-16"
 date: "2026-10-16"
 source: "CoinDesk"
-count: 13
+count: 10
 ---
 
 # CoinDesk - 2026-10-16
 
-13 items collected.
+10 items collected.
 
 ---
 
@@ -128,41 +128,5 @@ The crypto exchange already paid up, but a court order and restrictions from its
 The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes)
-
----
-
-## 11. XRP has failed to make holders rich like bitcoin and ether. Here’s why
-
-**Author:** Omkar Godbole  
-**Published:** 10/16/2026, 5:53:58 AM  
-**Categories:** Markets, XRP News, Bitcoin News, News  
-
-XRP remains below its 2017-cycle high while bitcoin, ether and other major tokens have surged, enriching their holders.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why)
-
----
-
-## 12. An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own
-
-**Author:** Shaurya Malwa  
-**Published:** 10/16/2026, 4:29:19 AM  
-**Categories:** Tech, News  
-
-The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own)
-
----
-
-## 13. Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound
-
-**Author:** Shaurya Malwa  
-**Published:** 10/16/2026, 4:14:22 AM  
-**Categories:** Markets, News  
-
-Bitcoin tore back to $82,500 within two hours of dipping under $80,000, and chipmakers in Seoul recovered from their worst close since April.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound)
 
 ---
