@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-15"
 date: "2026-10-15"
 source: "Decrypt"
-count: 14
+count: 13
 ---
 
 # Decrypt - 2026-10-15
 
-14 items collected.
+13 items collected.
 
 ---
 
@@ -164,17 +164,5 @@ Alpenglow is coming next week, slashing Solana finality from 12.8 seconds to a t
 Odds of an October Fed hike have climbed to 29% from 18% a week ago, and analysts see Bitcoin range-bound until the picture clears.
 
 📖 [Read original article](https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data)
-
----
-
-## 14. Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers
-
-**Author:** Decrypt Agent  
-**Published:** 10/15/2026, 10:01:21 AM  
-**Categories:** , , Law and Order  
-
-The scammers also ran a fake recovery service, contacting victims weeks later with promises to get their stolen crypto back.
-
-📖 [Read original article](https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers)
 
 ---
