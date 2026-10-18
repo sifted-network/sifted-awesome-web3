@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-15"
 date: "2026-10-15"
 source: "The Block"
-count: 10
+count: 9
 ---
 
 # The Block - 2026-10-15
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ Bitwise CIO Matt Hougan predicts an AI bubble collapse would prompt government b
 Helius CEO Mert Mumtaz joined NEAR Foundation's Council, which oversees the foundation and its most significant decisions.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656)
-
----
-
-## 10. Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets
-
-**Author:** James Hunt  
-**Published:** 10/15/2026, 12:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Layer 1s, Markets, Token Projects, Web3, Solana, News  
-
-Ledger unveiled Atom, an Android-based security device with Solana Mobile integration, AI-agent controls, and hardware-tampering protections.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644)
 
 ---
