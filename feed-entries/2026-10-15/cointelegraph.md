@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-15"
 date: "2026-10-15"
 source: "Cointelegraph"
-count: 6
+count: 3
 ---
 
 # Cointelegraph - 2026-10-15
 
-6 items collected.
+3 items collected.
 
 ---
 
@@ -44,41 +44,5 @@ A scammer reportedly lost $4.8M of stolen money after storing the funds on tampe
 The crypto exchange was reportedly looking to use the additional funding to regain market share following Binance’s 2023 settlement with US authorities.
 
 📖 [Read original article](https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 10/15/2026, 5:14:45 PM  
-**Categories:** Latest News  
-
-The Wall Street Journal reported that a company co-founded by Bo Hines benefited from the passage of the GENIUS stablecoin bill.
-
-📖 [Read original article](https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Sweden revisits digital krona as ECB advances digital euro plans
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 10/15/2026, 4:49:59 PM  
-**Categories:** Latest News  
-
-Sweden’s Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over foreign-currency stablecoins and the future of domestic payments.
-
-📖 [Read original article](https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Mastercard brings stablecoin balances into traditional banking and card payments
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 10/15/2026, 3:46:05 PM  
-**Categories:** Latest News  
-
-The launch of Global Money Platform marks Mastercard’s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt the platform.
-
-📖 [Read original article](https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
