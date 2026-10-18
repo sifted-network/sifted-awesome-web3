@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-15"
 date: "2026-10-15"
 source: "Cointelegraph"
-count: 8
+count: 6
 ---
 
 # Cointelegraph - 2026-10-15
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ Sweden’s Riksbank has recommended that lawmakers prepare for a possible digita
 The launch of Global Money Platform marks Mastercard’s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt the platform.
 
 📖 [Read original article](https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Bitcoin slips under $80K after US PPI gains most in four years
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/15/2026, 3:10:44 PM  
-**Categories:** Markets  
-
-BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations by 100 basis points for the largest monthly gain since March 2022
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Russia to ban direct peer-to-peer crypto trades starting July 2027
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/15/2026, 2:22:43 PM  
-**Categories:** Latest News  
-
-Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets.
-
-📖 [Read original article](https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
