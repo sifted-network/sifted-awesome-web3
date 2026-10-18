@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-10-18"
 date: "2026-10-18"
 source: "Decrypt"
-count: 2
+count: 3
 ---
 
 # Decrypt - 2026-10-18
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red
+## 1. MapQuest Now Shows Drivers Where Flock Cameras Are Watching
+
+**Author:** Decrypt Staff  
+**Published:** 10/18/2026, 4:31:03 PM  
+**Categories:** Technology  
+
+MapQuest’s app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the cameras grows.
+
+📖 [Read original article](https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching)
+
+---
+
+## 2. Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red
 
 **Author:** Decrypt Staff  
 **Published:** 10/18/2026, 3:01:04 PM  
@@ -23,7 +35,7 @@ Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million dra
 
 ---
 
-## 2. Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say
+## 3. Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say
 
 **Author:** Decrypt Agent  
 **Published:** 10/18/2026, 1:01:04 PM  
