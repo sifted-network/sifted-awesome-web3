@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-15"
 date: "2026-10-15"
 source: "The Block"
-count: 9
+count: 5
 ---
 
 # The Block - 2026-10-15
 
-9 items collected.
+5 items collected.
 
 ---
 
@@ -68,53 +68,5 @@ Multiliquid has raised $8 million across its pre-seed and seed rounds, with Poly
 DeFi Development is raising the dividend rate on its CHAD preferred stock to 14% from 13% as it taps CHAD sales to grow its Solana treasury.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694)
-
----
-
-## 6. Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid
-
-**Author:** Yogita Khatri  
-**Published:** 10/15/2026, 2:43:35 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Markets, Web3, Hyperliquid, Ripple, News  
-
-Ripple Prime has added RWA perpetual swaps tied to equities, ETFs, metals, energy and currencies, with 24/7 trading and settlement.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681)
-
----
-
-## 7. Starknet opens seven-day vote on independent Layer 1 over quantum risks
-
-**Author:** Brian Danga  
-**Published:** 10/15/2026, 2:26:53 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Layer 1s, Layer 2s and Scaling, Markets, Metaverse & NFT, People, People, People, People, People, People, Policy, Token Projects, Ethereum, Starknet, News  
-
-Starknet opened a seven-day poll on Thursday asking STRK holders whether to research an independent post-quantum Layer 1.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673)
-
----
-
-## 8. Bitwise CIO argues bitcoin will benefit whether AI booms or busts
-
-**Author:** James Hunt  
-**Published:** 10/15/2026, 2:01:06 PM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, Token Projects, Web3, AI, Bitcoin, News  
-
-Bitwise CIO Matt Hougan predicts an AI bubble collapse would prompt government bailouts and eventually fuel a bitcoin rally.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668)
-
----
-
-## 9. Helius CEO Mert Mumtaz joins NEAR Foundation Council
-
-**Author:** Brian Danga  
-**Published:** 10/15/2026, 1:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, News  
-
-Helius CEO Mert Mumtaz joined NEAR Foundation's Council, which oversees the foundation and its most significant decisions.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656)
 
 ---
