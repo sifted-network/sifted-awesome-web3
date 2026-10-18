@@ -2,28 +2,16 @@
 title: "Cointelegraph - 2026-10-17"
 date: "2026-10-17"
 source: "Cointelegraph"
-count: 5
+count: 4
 ---
 
 # Cointelegraph - 2026-10-17
 
-5 items collected.
+4 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Michael Millard  
-**Published:** 10/17/2026, 1:29:00 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. Solana shows resilience, but some areas need continued observation, Fidelity says
+## 1. Solana shows resilience, but some areas need continued observation, Fidelity says
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/17/2026, 1:01:00 PM  
@@ -35,7 +23,7 @@ Solana has had no reported mainnet outages in two years, but concentrations in s
 
 ---
 
-## 3. Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report
+## 2. Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/17/2026, 10:03:00 AM  
@@ -47,7 +35,7 @@ Markets in Southeast Asia, Latin America, Africa and the Middle East see increas
 
 ---
 
-## 4. Lagarde says euro-area economy is resilient, digital euro imminent
+## 3. Lagarde says euro-area economy is resilient, digital euro under development
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/17/2026, 8:45:00 AM  
@@ -59,7 +47,7 @@ Markets in Southeast Asia, Latin America, Africa and the Middle East see increas
 
 ---
 
-## 5. Bitget to discontinue services for some users in one-off exercise
+## 4. Bitget to discontinue services for some users in one-off exercise
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/17/2026, 7:28:00 AM  
