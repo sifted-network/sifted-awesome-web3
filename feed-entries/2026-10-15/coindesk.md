@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-15"
 date: "2026-10-15"
 source: "CoinDesk"
-count: 6
+count: 5
 ---
 
 # CoinDesk - 2026-10-15
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ Ledger’s Atom will run apps like WhatsApp and Instragram and let users switch 
 Your day-ahead look for Oct. 15, 2026
 
 📖 [Read original article](https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises)
-
----
-
-## 6. Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 10/15/2026, 10:52:11 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin fell to just above $80,000 as South Korea’s Kospi plunged 8%, while the CoinDesk 80 fell 2.2% and all but six CoinDesk 100 members declined.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower)
 
 ---
