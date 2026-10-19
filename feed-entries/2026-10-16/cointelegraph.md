@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-16"
 date: "2026-10-16"
 source: "Cointelegraph"
-count: 14
+count: 7
 ---
 
 # Cointelegraph - 2026-10-16
 
-14 items collected.
+7 items collected.
 
 ---
 
@@ -92,89 +92,5 @@ Ledger was contacted about tampered hardware wallets risks months before its lat
 Germany’s largest bank reportedly plans to expand its digital asset custody services to Asian financial centers due to the growth of the digital asset economy.
 
 📖 [Read original article](https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Solana’s Liu says Shanghai event postponed over registration surge
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/16/2026, 11:22:47 AM  
-**Categories:** Latest News  
-
-Solana Foundation President Lily Liu said registrations quadrupled overnight, exceeding the attendance limit registered with local authorities.
-
-📖 [Read original article](https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 10/16/2026, 10:27:18 AM  
-**Categories:** Latest News  
-
-Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.
-
-📖 [Read original article](https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/16/2026, 9:22:13 AM  
-**Categories:** Markets  
-
-Bitcoin’s market cycle signals tool showed BTC price action copying history, possibly preparing to reclaim a key moving average before testing new highs.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Capital B reports $78M H1 loss driven by Bitcoin impairment charge
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/16/2026, 7:59:46 AM  
-**Categories:** Latest News  
-
-Europe’s second-largest Bitcoin treasury raised $30 million and increased its Bitcoin holdings by 11% in the first half of 2026, despite reporting a $75 million Bitcoin impairment loss.
-
-📖 [Read original article](https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Judge rejects CFTC, Gemini bid to undo $5M settlement
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/16/2026, 7:43:29 AM  
-**Categories:** Latest News  
-
-Judge ruled changes in CFTC enforcement priorities and allegations of misconduct by its enforcement division were insufficient to overturn Gemini’s January 2025 settlement.
-
-📖 [Read original article](https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. OpenAI model helped itself to testnet crypto, then kept quiet about it
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/16/2026, 6:11:22 AM  
-**Categories:** Latest News  
-
-An OpenAI research model checked 362 wallet addresses, questioned whether using the funds was ethical and proceeded with a transaction it later omitted from its final task summary.
-
-📖 [Read original article](https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Balaji’s ‘Singapore of social media’ begins with a wave of bans
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/16/2026, 5:16:11 AM  
-**Categories:** Latest News  
-
-Network School founder Balaji Srinivasan wants to turn Farcaster into a haven for well-mannered techno-optimists. He had to do a bit of housekeeping first.
-
-📖 [Read original article](https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
