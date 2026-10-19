@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-16"
 date: "2026-10-16"
 source: "Cointelegraph"
-count: 15
+count: 14
 ---
 
 # Cointelegraph - 2026-10-16
 
-15 items collected.
+14 items collected.
 
 ---
 
@@ -176,17 +176,5 @@ An OpenAI research model checked 362 wallet addresses, questioned whether using 
 Network School founder Balaji Srinivasan wants to turn Farcaster into a haven for well-mannered techno-optimists. He had to do a bit of housekeeping first.
 
 📖 [Read original article](https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. MSCI adopts index exclusion rules that could oust Strategy
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/16/2026, 12:48:20 AM  
-**Categories:** Latest News  
-
-Strategy, Metaplanet and Upexi were previously identified for deletion under the methodology, with MSCI set to announce its final list on Nov. 11.
-
-📖 [Read original article](https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
