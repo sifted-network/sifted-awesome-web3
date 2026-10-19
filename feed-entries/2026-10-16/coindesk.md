@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-16"
 date: "2026-10-16"
 source: "CoinDesk"
-count: 10
+count: 8
 ---
 
 # CoinDesk - 2026-10-16
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Chainalysis says a fraudster who tricked people through fake online jobs became 
 A Friday surge in oil prices hit already-shaky equity markets, sending the Nasdaq down more than 2%.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue)
-
----
-
-## 9. U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing
-
-**Author:** Olivier Acuna  
-**Published:** 10/16/2026, 9:36:21 AM  
-**Categories:** Policy, Gemini, CFTC, Regulation, News  
-
-The crypto exchange already paid up, but a court order and restrictions from its 2025 settlement will not be lifted even though the CFTC said the case should have never been presented.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing)
-
----
-
-## 10. MSCI approves rules that could eject Strategy, Metaplanet from equity indexes
-
-**Author:** Omkar Godbole  
-**Published:** 10/16/2026, 8:34:48 AM  
-**Categories:** Markets, MicroStrategy, Digital Asset Treasury, News  
-
-The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes)
 
 ---
