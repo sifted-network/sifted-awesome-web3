@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-10-18"
 date: "2026-10-18"
 source: "Cointelegraph"
-count: 5
+count: 6
 ---
 
 # Cointelegraph - 2026-10-18
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 10/18/2026, 10:58:17 PM  
+**Categories:** Magazine  
+
+HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.
+
+📖 [Read original article](https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/18/2026, 1:54:00 PM  
@@ -23,7 +35,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Most Americans polled oppose betting on elections: Reuters
+## 3. Most Americans polled oppose betting on elections: Reuters
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/18/2026, 1:48:00 PM  
@@ -35,7 +47,7 @@ The prediction market industry enables people to bet on US ‌elections and spor
 
 ---
 
-## 3. Cysic crypto bridge halted after unauthorized mint of 10M CYS
+## 4. Cysic crypto bridge halted after unauthorized mint of 10M CYS
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/18/2026, 10:46:00 AM  
@@ -47,7 +59,7 @@ Cysic said the incident was limited to bridge message processing and minting and
 
 ---
 
-## 4. Chinese suspect in $75M international crime network arrested in Bangkok
+## 5. Chinese suspect in $75M international crime network arrested in Bangkok
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/18/2026, 9:14:26 AM  
@@ -59,7 +71,7 @@ Police alleged the suspect was involved in cryptocurrency and foreign-currency e
 
 ---
 
-## 5. Tether backs AIsa as strategic investor, completing seed extension round
+## 6. Tether backs AIsa as strategic investor, completing seed extension round
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/18/2026, 6:29:00 AM  
