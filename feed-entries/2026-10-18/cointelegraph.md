@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-18"
 date: "2026-10-18"
 source: "Cointelegraph"
-count: 6
+count: 5
 ---
 
 # Cointelegraph - 2026-10-18
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet p
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Michael Millard  
-**Published:** 10/18/2026, 1:54:00 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Most Americans polled oppose betting on elections: Reuters
+## 2. Most Americans polled oppose betting on elections: Reuters
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/18/2026, 1:48:00 PM  
@@ -47,7 +35,7 @@ The prediction market industry enables people to bet on US ‌elections and spor
 
 ---
 
-## 4. Cysic crypto bridge halted after unauthorized mint of 10M CYS
+## 3. Cysic crypto bridge halted after unauthorized mint of 10M CYS
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/18/2026, 10:46:00 AM  
@@ -59,7 +47,7 @@ Cysic said the incident was limited to bridge message processing and minting and
 
 ---
 
-## 5. Chinese suspect in $75M international crime network arrested in Bangkok
+## 4. Chinese suspect in $75M international crime network arrested in Bangkok
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/18/2026, 9:14:26 AM  
@@ -71,7 +59,7 @@ Police alleged the suspect was involved in cryptocurrency and foreign-currency e
 
 ---
 
-## 6. Tether backs AIsa as strategic investor, completing seed extension round
+## 5. Tether backs AIsa as strategic investor, completing seed extension round
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/18/2026, 6:29:00 AM  
