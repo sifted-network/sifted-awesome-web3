@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-19"
 date: "2026-10-19"
 source: "CoinDesk"
-count: 16
+count: 15
 ---
 
 # CoinDesk - 2026-10-19
 
-16 items collected.
+15 items collected.
 
 ---
 
@@ -188,17 +188,5 @@ Validators have a bug-fix patch on course to go live Friday. The lending system 
 Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates)
-
----
-
-## 16. Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears
-
-**Author:** Francisco Rodrigues  
-**Published:** 10/19/2026, 2:00:00 AM  
-**Categories:** Finance, Stablecoins, News  
-
-The service will initially support bitcoin, ether and the stablecoins USDC, EURC and EURAU, with the bank managing clients’ wallets and private keys.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears)
 
 ---
