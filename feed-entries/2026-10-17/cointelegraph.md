@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-17"
 date: "2026-10-17"
 source: "Cointelegraph"
-count: 4
+count: 2
 ---
 
 # Cointelegraph - 2026-10-17
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ Solana has had no reported mainnet outages in two years, but concentrations in s
 Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.
 
 📖 [Read original article](https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Lagarde says euro-area economy is resilient, digital euro under development
-
-**Author:** Cointelegraph by Michael Millard  
-**Published:** 10/17/2026, 8:45:00 AM  
-**Categories:** Latest News  
-
-“The digital euro will further stimulate innovation and competition in retail payments,” according to the ECB president.
-
-📖 [Read original article](https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Bitget to discontinue services for some users in one-off exercise
-
-**Author:** Cointelegraph by Michael Millard  
-**Published:** 10/17/2026, 7:28:00 AM  
-**Categories:** Latest News  
-
-Bitget says user funds are safe and exchange will continue to operate during the change.
-
-📖 [Read original article](https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
