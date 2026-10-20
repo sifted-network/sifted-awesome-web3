@@ -2,16 +2,88 @@
 title: "Cointelegraph - 2026-10-19"
 date: "2026-10-19"
 source: "Cointelegraph"
-count: 17
+count: 22
 ---
 
 # Cointelegraph - 2026-10-19
 
-17 items collected.
+22 items collected.
 
 ---
 
-## 1. Revolut secures Gibraltar crypto license to support global expansion
+## 1. Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/19/2026, 9:04:34 PM  
+**Categories:** Latest News  
+
+The former medical device maker has liquidated its Solana treasury and is offering to repurchase shares and warrants using its $223.8 million cash holdings.
+
+📖 [Read original article](https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Crypto PAC pours $362K into California race voters essentially decided in August
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/19/2026, 8:22:41 PM  
+**Categories:** Latest News  
+
+A Fairshake affiliate is supporting incumbent Aisha Wahab through ads in November, but the congresswoman already won a special election in the district.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 10/19/2026, 8:02:30 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Market participants weigh in on SEC’s proposed crypto regulations
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/19/2026, 7:54:38 PM  
+**Categories:** Latest News  
+
+The financial agency is scheduled to close public comments on its ‘Regulation Crypto Assets’ proposed in August.
+
+📖 [Read original article](https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Visa, Mesh partner to enable crypto spending at 175M merchant locations
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/19/2026, 7:16:19 PM  
+**Categories:** Latest News  
+
+Mesh will connect crypto and stablecoin wallets to Visa’s global payment network, allowing users to spend digital assets without a separate card.
+
+📖 [Read original article](https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Mastercard launches stablecoin risk screening for banks and payment providers
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 10/19/2026, 7:03:23 PM  
+**Categories:** Latest News  
+
+The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.
+
+📖 [Read original article](https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Revolut secures Gibraltar crypto license to support global expansion
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/19/2026, 5:24:49 PM  
@@ -23,7 +95,7 @@ The UK-based fintech will use the authorization to offer crypto services in addi
 
 ---
 
-## 2. Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal
+## 8. Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/19/2026, 4:41:55 PM  
@@ -35,7 +107,7 @@ The transaction would give Metaplanet access to US capital markets, where it pla
 
 ---
 
-## 3. Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC
+## 9. Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/19/2026, 4:30:18 PM  
@@ -47,7 +119,7 @@ The Bitcoin treasury company added another 1,223 BTC after an earlier purchase p
 
 ---
 
-## 4. Bitcoin is rejected at $83K as US bond yields reverse higher with equities
+## 10. Bitcoin is rejected at $83K as US bond yields reverse higher with equities
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/19/2026, 4:05:57 PM  
@@ -59,7 +131,7 @@ Bitcoin price action failed to improve with equities as a sell wall at $83,000 k
 
 ---
 
-## 5. Made an ‘honest’ mistake with crypto taxes? New bill offers way out
+## 11. Made an ‘honest’ mistake with crypto taxes? New bill offers way out
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 10/19/2026, 1:30:00 PM  
@@ -71,19 +143,7 @@ A proposed US bill would let crypto investors correct past tax reporting mistake
 
 ---
 
-## 6. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 10/19/2026, 1:19:50 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Public companies object to OKX-ICE’s tokenized stock plan
+## 12. Public companies object to OKX-ICE’s tokenized stock plan
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/19/2026, 1:13:53 PM  
@@ -95,7 +155,7 @@ Nine public companies objected to having their shares offered in tokenized form 
 
 ---
 
-## 8. Strategy buys $22M in Bitcoin, repurchases $193M in STRC
+## 13. Strategy buys $22M in Bitcoin, repurchases $193M in STRC
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/19/2026, 12:30:00 PM  
@@ -107,7 +167,7 @@ Strategy added 267 Bitcoin to its holdings as it bought back 1.94 million STRC s
 
 ---
 
-## 9. World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks
+## 14. World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/19/2026, 11:57:58 AM  
@@ -119,7 +179,7 @@ World Liberty Financial’s USD1 stablecoin saw its market cap decrease more tha
 
 ---
 
-## 10. BingX, YouHodler added to ESMA MiCA register in latest update
+## 15. BingX, YouHodler added to ESMA MiCA register in latest update
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/19/2026, 11:32:00 AM  
@@ -131,7 +191,7 @@ ESMA’s latest MiCA register update includes BingX, YouHodler and Banco Santand
 
 ---
 
-## 11. France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals
+## 16. France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/19/2026, 10:22:30 AM  
@@ -143,7 +203,7 @@ France’s National Assembly adopted a crypto tax amendment targeting certain st
 
 ---
 
-## 12. Stocks rebound into key tech earnings: Three things to know in Bitcoin this week
+## 17. Stocks rebound into key tech earnings: Three things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/19/2026, 10:20:00 AM  
@@ -155,7 +215,7 @@ Analysts expect Bitcoin to retest $80,000 support again as stock markets attempt
 
 ---
 
-## 13. JPMorgan takes JPM Coin to Ethereum for institutional clients: Report
+## 18. JPMorgan takes JPM Coin to Ethereum for institutional clients: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/19/2026, 8:58:45 AM  
@@ -167,7 +227,7 @@ JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowin
 
 ---
 
-## 14. Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B
+## 19. Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/19/2026, 7:54:13 AM  
@@ -179,7 +239,7 @@ US spot Ether ETFs recorded around $955 million in October net outflows so far, 
 
 ---
 
-## 15. Zoom adds ‘proof of human’ badges to show you’re not a deepfake
+## 20. Zoom adds ‘proof of human’ badges to show you’re not a deepfake
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/19/2026, 5:55:44 AM  
@@ -191,7 +251,7 @@ Sam Altman-backed World has rolled out biometric verification badges for Zoom en
 
 ---
 
-## 16. South Korea to meet crypto exchanges amid calls for tax delay
+## 21. South Korea to meet crypto exchanges amid calls for tax delay
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/19/2026, 5:14:06 AM  
@@ -203,7 +263,7 @@ Finance officials are reportedly set to meet major crypto exchanges on Tuesday, 
 
 ---
 
-## 17. Qubic freezes chain after attacker drains 1.4K wallets with weak seeds
+## 22. Qubic freezes chain after attacker drains 1.4K wallets with weak seeds
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/19/2026, 1:03:27 AM  
