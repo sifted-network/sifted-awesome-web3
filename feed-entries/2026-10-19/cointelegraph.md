@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-19"
 date: "2026-10-19"
 source: "Cointelegraph"
-count: 22
+count: 21
 ---
 
 # Cointelegraph - 2026-10-19
 
-22 items collected.
+21 items collected.
 
 ---
 
@@ -215,13 +215,13 @@ Analysts expect Bitcoin to retest $80,000 support again as stock markets attempt
 
 ---
 
-## 18. JPMorgan takes JPM Coin to Ethereum for institutional clients: Report
+## 18. JPMorgan takes JPM Coin to Ethereum for institutional clients
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/19/2026, 8:58:45 AM  
 **Categories:** Latest News  
 
-JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions.
+JPMorgan is expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions.
 
 📖 [Read original article](https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
@@ -260,17 +260,5 @@ Sam Altman-backed World has rolled out biometric verification badges for Zoom en
 Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax’s start date back two years.
 
 📖 [Read original article](https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Qubic freezes chain after attacker drains 1.4K wallets with weak seeds
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/19/2026, 1:03:27 AM  
-**Categories:** Latest News  
-
-Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan.
-
-📖 [Read original article](https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
