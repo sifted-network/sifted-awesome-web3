@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-19"
 date: "2026-10-19"
 source: "CoinDesk"
-count: 15
+count: 13
 ---
 
 # CoinDesk - 2026-10-19
 
-15 items collected.
+13 items collected.
 
 ---
 
@@ -164,29 +164,5 @@ A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. 
 The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers)
-
----
-
-## 14. XRP Ledger is set to fix its lending code before anyone can use it
-
-**Author:** Shaurya Malwa  
-**Published:** 10/19/2026, 4:54:31 AM  
-**Categories:** Tech, News  
-
-Validators have a bug-fix patch on course to go live Friday. The lending system it partly repairs is still 10 votes short of approval.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it)
-
----
-
-## 15. Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates
-
-**Author:** Omkar Godbole  
-**Published:** 10/19/2026, 3:36:58 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates)
 
 ---
