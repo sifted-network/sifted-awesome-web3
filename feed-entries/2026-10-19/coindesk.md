@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-10-19"
 date: "2026-10-19"
 source: "CoinDesk"
-count: 15
+count: 16
 ---
 
 # CoinDesk - 2026-10-19
 
-15 items collected.
+16 items collected.
 
 ---
 
-## 1. U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures
+## 1. Tether: Senator's investigation misses positive work that's led to lower Iran volumes
+
+**Author:** Jesse Hamilton  
+**Published:** 10/19/2026, 8:21:13 PM  
+**Categories:** Policy, Tether, Iran, Regulation, News  
+
+The stablecoin issuer's CEO, Paolo Ardoino, has been defending against accusations that the firm's stablecoins have fueled financial activity in Iran.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes)
+
+---
+
+## 2. U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures
 
 **Author:** Jesse Hamilton  
 **Published:** 10/19/2026, 4:47:00 PM  
@@ -23,7 +35,7 @@ The future of perps in the U.S. may be at stake as the CFTC argues that CME hasn
 
 ---
 
-## 2. Zerohash rolls out a new tool to move crypto without copying wallet addresses
+## 3. Zerohash rolls out a new tool to move crypto without copying wallet addresses
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 10/19/2026, 2:58:40 PM  
@@ -35,7 +47,7 @@ The launch comes as Zerohash bids for a federal trust charter.
 
 ---
 
-## 3. Cardano founder Charles Hoskinson is building a new programming language for the network
+## 4. Cardano founder Charles Hoskinson is building a new programming language for the network
 
 **Author:** Shaurya Malwa  
 **Published:** 10/19/2026, 12:16:58 PM  
@@ -47,7 +59,7 @@ Hoskinson said on X the language will bundle transaction requests with cryptogra
 
 ---
 
-## 4. Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did
+## 5. Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did
 
 **Author:** Omkar Godbole  
 **Published:** 10/19/2026, 11:15:00 AM  
@@ -59,9 +71,9 @@ Your day-ahead look for Oct. 19, 2026
 
 ---
 
-## 5. Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%
+## 6. Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%
 
-**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Stephen Alpher  
+**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Stephen Alpher,Helene Braun  
 **Published:** 10/19/2026, 11:05:54 AM  
 **Categories:** Markets, Live News, live_news  
 
@@ -71,7 +83,7 @@ Bitcoin treasury company Strive continued to add large numbers of BTC to its bal
 
 ---
 
-## 6. Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains
+## 7. Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 10/19/2026, 10:26:33 AM  
@@ -83,7 +95,7 @@ Bitcoin rose 0.8% to around $82,700 as China’s GDP beat estimates and Nasdaq f
 
 ---
 
-## 7. JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum
+## 8. JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum
 
 **Author:** Omkar Godbole  
 **Published:** 10/19/2026, 10:03:47 AM  
@@ -95,7 +107,7 @@ JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to of
 
 ---
 
-## 8. Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny
+## 9. Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 10/19/2026, 9:32:38 AM  
@@ -107,7 +119,7 @@ Curator-managed lending strategies are attracting institutional capital, while e
 
 ---
 
-## 9. Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s
+## 10. Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s
 
 **Author:** Shaurya Malwa  
 **Published:** 10/19/2026, 9:15:00 AM  
@@ -119,7 +131,7 @@ The Nvidia-backed company planned to deliver 23,000 AI chips in the U.K. next ye
 
 ---
 
-## 10. CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead
+## 11. CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead
 
 **Author:** Francisco Rodrigues  
 **Published:** 10/19/2026, 9:12:39 AM  
@@ -131,7 +143,7 @@ Your look at what's coming in the week starting Oct. 19.
 
 ---
 
-## 11. Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131
+## 12. Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131
 
 **Author:** Omkar Godbole  
 **Published:** 10/19/2026, 6:23:16 AM  
@@ -143,7 +155,7 @@ A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. 
 
 ---
 
-## 12. Zcash developers plan a fix to keep ZEC swaps private from future quantum computers
+## 13. Zcash developers plan a fix to keep ZEC swaps private from future quantum computers
 
 **Author:** Shaurya Malwa  
 **Published:** 10/19/2026, 5:23:02 AM  
@@ -155,7 +167,7 @@ The team behind Zakura wants every swap through NEAR Intents to get its own key,
 
 ---
 
-## 13. XRP Ledger is set to fix its lending code before anyone can use it
+## 14. XRP Ledger is set to fix its lending code before anyone can use it
 
 **Author:** Shaurya Malwa  
 **Published:** 10/19/2026, 4:54:31 AM  
@@ -167,7 +179,7 @@ Validators have a bug-fix patch on course to go live Friday. The lending system 
 
 ---
 
-## 14. Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates
+## 15. Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates
 
 **Author:** Omkar Godbole  
 **Published:** 10/19/2026, 3:36:58 AM  
@@ -179,7 +191,7 @@ Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China G
 
 ---
 
-## 15. Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears
+## 16. Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears
 
 **Author:** Francisco Rodrigues  
 **Published:** 10/19/2026, 2:00:00 AM  
