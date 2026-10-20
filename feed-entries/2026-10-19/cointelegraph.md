@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-19"
 date: "2026-10-19"
 source: "Cointelegraph"
-count: 21
+count: 13
 ---
 
 # Cointelegraph - 2026-10-19
 
-21 items collected.
+13 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ A Fairshake affiliate is supporting incumbent Aisha Wahab through ads in Novembe
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 10/19/2026, 8:02:30 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Market participants weigh in on SEC’s proposed crypto regulations
+## 3. Market participants weigh in on SEC’s proposed crypto regulations
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/19/2026, 7:54:38 PM  
@@ -59,7 +47,7 @@ The financial agency is scheduled to close public comments on its ‘Regulation 
 
 ---
 
-## 5. Visa, Mesh partner to enable crypto spending at 175M merchant locations
+## 4. Visa, Mesh partner to enable crypto spending at 175M merchant locations
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/19/2026, 7:16:19 PM  
@@ -71,7 +59,7 @@ Mesh will connect crypto and stablecoin wallets to Visa’s global payment netwo
 
 ---
 
-## 6. Mastercard launches stablecoin risk screening for banks and payment providers
+## 5. Mastercard launches stablecoin risk screening for banks and payment providers
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/19/2026, 7:03:23 PM  
@@ -83,7 +71,7 @@ The new service combines payment data and blockchain analytics to help banks det
 
 ---
 
-## 7. Revolut secures Gibraltar crypto license to support global expansion
+## 6. Revolut secures Gibraltar crypto license to support global expansion
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/19/2026, 5:24:49 PM  
@@ -95,7 +83,7 @@ The UK-based fintech will use the authorization to offer crypto services in addi
 
 ---
 
-## 8. Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal
+## 7. Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/19/2026, 4:41:55 PM  
@@ -107,7 +95,7 @@ The transaction would give Metaplanet access to US capital markets, where it pla
 
 ---
 
-## 9. Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC
+## 8. Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/19/2026, 4:30:18 PM  
@@ -119,7 +107,7 @@ The Bitcoin treasury company added another 1,223 BTC after an earlier purchase p
 
 ---
 
-## 10. Bitcoin is rejected at $83K as US bond yields reverse higher with equities
+## 9. Bitcoin is rejected at $83K as US bond yields reverse higher with equities
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/19/2026, 4:05:57 PM  
@@ -131,7 +119,7 @@ Bitcoin price action failed to improve with equities as a sell wall at $83,000 k
 
 ---
 
-## 11. Made an ‘honest’ mistake with crypto taxes? New bill offers way out
+## 10. Made an ‘honest’ mistake with crypto taxes? New bill offers way out
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 10/19/2026, 1:30:00 PM  
@@ -143,7 +131,7 @@ A proposed US bill would let crypto investors correct past tax reporting mistake
 
 ---
 
-## 12. Public companies object to OKX-ICE’s tokenized stock plan
+## 11. Public companies object to OKX-ICE’s tokenized stock plan
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/19/2026, 1:13:53 PM  
@@ -155,7 +143,7 @@ Nine public companies objected to having their shares offered in tokenized form 
 
 ---
 
-## 13. Strategy buys $22M in Bitcoin, repurchases $193M in STRC
+## 12. Strategy buys $22M in Bitcoin, repurchases $193M in STRC
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/19/2026, 12:30:00 PM  
@@ -167,7 +155,7 @@ Strategy added 267 Bitcoin to its holdings as it bought back 1.94 million STRC s
 
 ---
 
-## 14. World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks
+## 13. World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/19/2026, 11:57:58 AM  
@@ -176,89 +164,5 @@ Strategy added 267 Bitcoin to its holdings as it bought back 1.94 million STRC s
 World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain.
 
 📖 [Read original article](https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. BingX, YouHodler added to ESMA MiCA register in latest update
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/19/2026, 11:32:00 AM  
-**Categories:** Latest News  
-
-ESMA’s latest MiCA register update includes BingX, YouHodler and Banco Santander’s Openbank, bringing the total to 375 unique CASPs.
-
-📖 [Read original article](https://cointelegraph.com/news/bingx-youhodler-esma-mica-register-friday-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/19/2026, 10:22:30 AM  
-**Categories:** Latest News  
-
-France’s National Assembly adopted a crypto tax amendment targeting certain stablecoin swaps, while separate proposals on exit taxes and self-custodial wallet reporting remain under consideration.
-
-📖 [Read original article](https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Stocks rebound into key tech earnings: Three things to know in Bitcoin this week
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/19/2026, 10:20:00 AM  
-**Categories:** Markets  
-
-Analysts expect Bitcoin to retest $80,000 support again as stock markets attempt to recover last week’s losses.
-
-📖 [Read original article](https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. JPMorgan takes JPM Coin to Ethereum for institutional clients
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/19/2026, 8:58:45 AM  
-**Categories:** Latest News  
-
-JPMorgan is expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions.
-
-📖 [Read original article](https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/19/2026, 7:54:13 AM  
-**Categories:** Markets  
-
-US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Zoom adds ‘proof of human’ badges to show you’re not a deepfake
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/19/2026, 5:55:44 AM  
-**Categories:** Latest News  
-
-Sam Altman-backed World has rolled out biometric verification badges for Zoom enterprise users, aiming to combat AI deepfake impersonation and fraud.
-
-📖 [Read original article](https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. South Korea to meet crypto exchanges amid calls for tax delay
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/19/2026, 5:14:06 AM  
-**Categories:** Latest News  
-
-Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax’s start date back two years.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
