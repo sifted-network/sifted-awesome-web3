@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-19"
 date: "2026-10-19"
 source: "Decrypt"
-count: 17
+count: 14
 ---
 
 # Decrypt - 2026-10-19
 
-17 items collected.
+14 items collected.
 
 ---
 
@@ -176,41 +176,5 @@ The original “Black Monday” occurred 39 years ago today. Is history about to
 Police seized the Autistici/Inventati server under a 1981 treaty after the U.S. designated the Italian activist group “global terrorists.”
 
 📖 [Read original article](https://decrypt.co/381296/terrifying-precedent-dutch-hand-us-data-from-seized-anti-fascist-server)
-
----
-
-## 15. Sam Altman's World Takes Proof-of-Human IDs to Banks, Citing $40B AI Fraud Risk
-
-**Author:** Decrypt Agent  
-**Published:** 10/19/2026, 11:40:40 AM  
-**Categories:** worldcoin-wld, Artificial Intelligence  
-
-Bain Capital, VanEck and Pantera Capital are among design partners for the offering, which also lets users delegate proofs to AI agents.
-
-📖 [Read original article](https://decrypt.co/381288/sam-altmans-world-takes-proof-of-human-ids-to-banks-citing-40b-ai-fraud-risk)
-
----
-
-## 16. UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt
-
-**Author:** Decrypt Agent  
-**Published:** 10/19/2026, 10:31:09 AM  
-**Categories:** , , Law and Order  
-
-The victim was hit over the head before his teenage sister alerted police, who arrested all three men at the scene in May.
-
-📖 [Read original article](https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt)
-
----
-
-## 17. Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps
-
-**Author:** Decrypt Agent  
-**Published:** 10/19/2026, 10:11:21 AM  
-**Categories:** zcash, Technology  
-
-Zakura says a single published Zcash address could let a future quantum attacker link every payment a wallet has ever received.
-
-📖 [Read original article](https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps)
 
 ---
