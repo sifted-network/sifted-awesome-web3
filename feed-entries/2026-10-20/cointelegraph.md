@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-20"
 date: "2026-10-20"
 source: "Cointelegraph"
-count: 12
+count: 7
 ---
 
 # Cointelegraph - 2026-10-20
 
-12 items collected.
+7 items collected.
 
 ---
 
@@ -92,65 +92,5 @@ Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset 
 Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year.
 
 📖 [Read original article](https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 10/20/2026, 4:23:17 PM  
-**Categories:** Latest News  
-
-About 25% of the US-listed companies in OKXICE’s initial tokenized stock platform proposal are asking to opt-out of the venture.
-
-📖 [Read original article](https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/20/2026, 4:14:09 PM  
-**Categories:** Markets  
-
-High US corporate earnings reports boosted stock markets and saw BTC price hit $83,300 before reversing at a 21-day trend line.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Agents can trade 24/7 — but Yat Siu warns you could lose access at any time
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 10/20/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-The Animoca Brands chairman explains that AI agents can make trades while you sleep, but users need to plan for the day they lose access to the bots.
-
-📖 [Read original article](https://cointelegraph.com/magazine/ai-trade-sleep-yat-siu-warns-losing-agent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. FINMA approves Switzerland’s first Bitcoin ETF for retail investors
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/20/2026, 1:10:00 PM  
-**Categories:** Latest News  
-
-The Swiss regulator cited a growing appetite for cryptocurrency investments and said that multiple fund providers have submitted Bitcoin ETF applications.
-
-📖 [Read original article](https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Drift exploiter sends $61M ETH to Tornado Cash, holds $194M
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/20/2026, 12:38:28 PM  
-**Categories:** Latest News  
-
-The April 1 hack caused about $295 million in losses and was later attributed to a North Korean threat group in a Mandiant investigation.
-
-📖 [Read original article](https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
