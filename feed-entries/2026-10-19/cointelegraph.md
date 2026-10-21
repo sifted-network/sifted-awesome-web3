@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-19"
 date: "2026-10-19"
 source: "Cointelegraph"
-count: 6
+count: 3
 ---
 
 # Cointelegraph - 2026-10-19
 
-6 items collected.
+3 items collected.
 
 ---
 
@@ -44,41 +44,5 @@ A Fairshake affiliate is supporting incumbent Aisha Wahab through ads in Novembe
 The financial agency is scheduled to close public comments on its ‘Regulation Crypto Assets’ proposed in August.
 
 📖 [Read original article](https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Visa, Mesh partner to enable crypto spending at 175M merchant locations
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 10/19/2026, 7:16:19 PM  
-**Categories:** Latest News  
-
-Mesh will connect crypto and stablecoin wallets to Visa’s global payment network, allowing users to spend digital assets without a separate card.
-
-📖 [Read original article](https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Mastercard launches stablecoin risk screening for banks and payment providers
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 10/19/2026, 7:03:23 PM  
-**Categories:** Latest News  
-
-The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.
-
-📖 [Read original article](https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Revolut secures Gibraltar crypto license to support global expansion
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 10/19/2026, 5:24:49 PM  
-**Categories:** Latest News  
-
-The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates.
-
-📖 [Read original article](https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
