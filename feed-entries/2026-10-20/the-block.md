@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-20"
 date: "2026-10-20"
 source: "The Block"
-count: 9
+count: 7
 ---
 
 # The Block - 2026-10-20
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ OKX debuted OKX Shield in the U.S. on Tuesday, in what former New York Gov. Andr
 Mastercard opened early access to Agent Pay for Machines after pilots with Coinbase, Base, Cloudflare, and other partners.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406)
-
----
-
-## 8. Blockchain.com rolls out crypto options as it pursues US derivatives licenses
-
-**Author:** Jason Shubnell  
-**Published:** 10/20/2026, 2:31:29 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Markets, Derivatives, Options, News  
-
-Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326)
-
----
-
-## 9. Injective partners with BDACS to bring Korean won stablecoin to RWA ecosystem
-
-**Author:** Danny Park  
-**Published:** 10/20/2026, 2:00:00 PM  
-**Categories:** Crypto Ecosystems, DeFi, Markets, News  
-
-The move comes amid South Korea's regulatory developments to establish a framework for Korean won-denominated stablecoins.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-20-injective-partners-bdacs-418883)
 
 ---
