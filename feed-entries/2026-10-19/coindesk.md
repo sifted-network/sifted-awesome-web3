@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-19"
 date: "2026-10-19"
 source: "CoinDesk"
-count: 13
+count: 12
 ---
 
 # CoinDesk - 2026-10-19
 
-13 items collected.
+12 items collected.
 
 ---
 
@@ -152,17 +152,5 @@ Your look at what's coming in the week starting Oct. 19.
 A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. It is one of several long-dormant wallets to wake up recently.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131)
-
----
-
-## 13. Zcash developers plan a fix to keep ZEC swaps private from future quantum computers
-
-**Author:** Shaurya Malwa  
-**Published:** 10/19/2026, 5:23:02 AM  
-**Categories:** Tech, News  
-
-The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers)
 
 ---
