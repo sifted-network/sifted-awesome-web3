@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-20"
 date: "2026-10-20"
 source: "Cointelegraph"
-count: 20
+count: 12
 ---
 
 # Cointelegraph - 2026-10-20
 
-20 items collected.
+12 items collected.
 
 ---
 
@@ -152,101 +152,5 @@ The Swiss regulator cited a growing appetite for cryptocurrency investments and 
 The April 1 hack caused about $295 million in losses and was later attributed to a North Korean threat group in a Mandiant investigation.
 
 📖 [Read original article](https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Tx launches USTX stablecoin to pull RWA liquidity onto its chain
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 10/20/2026, 12:30:00 PM  
-**Categories:** Latest News  
-
-The Brale-issued token can be minted with USDC from eight networks and is designed to settle tokenized stocks and other assets on tx.
-
-📖 [Read original article](https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Lloyds and Barclays among UK banks named in crypto transfer complaints, advocacy group says
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/20/2026, 12:13:44 PM  
-**Categories:** Latest News  
-
-UK banks are facing scrutiny over crypto transfer limits and bans as Stand With Crypto reports thousands of complaints ahead of the country’s 2027 regulatory regime.
-
-📖 [Read original article](https://cointelegraph.com/news/uk-banks-crypto-transfer-complaints-stand-with-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Netflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/20/2026, 11:23:00 AM  
-**Categories:** Latest News  
-
-Constance Wang criticized the streamer’s portrayal of her former FTX colleagues as not matching her own experience with Sam Bankman-Fried and Caroline Ellison.
-
-📖 [Read original article](https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Kazakhstan court orders curbs on Coinbase, BingX and four others
-
-**Author:** Cointelegraph by Robert Lakin  
-**Published:** 10/20/2026, 11:12:21 AM  
-**Categories:** Latest News  
-
-Nine other crypto platforms voluntarily restricted app access in Kazakhstan, prompting the regulator to withdraw its claims against them.
-
-📖 [Read original article](https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/20/2026, 10:20:58 AM  
-**Categories:** Markets  
-
-More than 6 billion XRP reached exchanges tracked by CryptoQuant in the 30 days to Oct. 19, the most since March.
-
-📖 [Read original article](https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/20/2026, 10:20:13 AM  
-**Categories:** Latest News  
-
-Mt. Gox extended its repayment deadline by another year as some creditors remain unpaid due to incomplete procedures and payment processing issues.
-
-📖 [Read original article](https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Bitget plans Thai crypto exchange acquisition weeks after $388M hack
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/20/2026, 10:00:00 AM  
-**Categories:** Latest News  
-
-The proposed acquisition would give Bitget a route into Thailand’s crypto market through a locally licensed operator.
-
-📖 [Read original article](https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. JPMorgan projects Bitcoin to outperform US stocks and gold over next decade
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/20/2026, 8:54:27 AM  
-**Categories:** Markets  
-
-JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios.
-
-📖 [Read original article](https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
