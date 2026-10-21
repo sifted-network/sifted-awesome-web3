@@ -2,16 +2,52 @@
 title: "The Block - 2026-10-21"
 date: "2026-10-21"
 source: "The Block"
-count: 8
+count: 11
 ---
 
 # The Block - 2026-10-21
 
-8 items collected.
+11 items collected.
 
 ---
 
-## 1. Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts
+## 1. Robinhood single-stock perps could be a ‘strong positive’ for HOOD shares, Mizuho says
+
+**Author:** Jason Shubnell  
+**Published:** 10/21/2026, 6:54:36 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Markets, Public Equities, Perpetuals, Robinhood, News  
+
+A Mizuho survey of 600+ Robinhood users finds 94% would trade single-stock perpetual futures, mostly with new money.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639)
+
+---
+
+## 2. American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule
+
+**Author:** Sarah Wynn  
+**Published:** 10/21/2026, 5:59:36 PM  
+**Categories:** Crypto Ecosystems, Policy, Regulation, Stablecoins, U.S. Policymaking, OCC, Senate Agriculture Committee, Senate Banking Committee, News  
+
+The fight between banks and crypto has reignited after a top banking regulator declined to weigh in on third-party stablecoin rewards.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629)
+
+---
+
+## 3. Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO
+
+**Author:** Yogita Khatri  
+**Published:** 10/21/2026, 4:44:01 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Lobbying, Policy, Web3, AI, exclusive, Fundraising, Uniswap, News  
+
+The startup also plans to hold a public token sale through Uniswap's auction platform, with details expected next week.
+
+📖 [Read original article](https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596)
+
+---
+
+## 4. Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts
 
 **Author:** Jason Shubnell  
 **Published:** 10/21/2026, 3:12:00 PM  
@@ -23,7 +59,7 @@ Grayscale expands in-kind subscriptions to 10 crypto funds, letting eligible inv
 
 ---
 
-## 2. Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds
+## 5. Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds
 
 **Author:** Brian Danga  
 **Published:** 10/21/2026, 2:24:39 PM  
@@ -35,7 +71,7 @@ Solana activated Alpenglow, replacing TowerBFT and cutting transaction finality 
 
 ---
 
-## 3. Standard Chartered signs definitive agreements to acquire Zodia Custody
+## 6. Standard Chartered signs definitive agreements to acquire Zodia Custody
 
 **Author:** James Hunt  
 **Published:** 10/21/2026, 12:44:53 PM  
@@ -47,7 +83,7 @@ Standard Chartered has signed definitive agreements to acquire Zodia Custody, su
 
 ---
 
-## 4. Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand
+## 7. Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand
 
 **Author:** Jason Shubnell  
 **Published:** 10/21/2026, 12:00:00 PM  
@@ -59,7 +95,7 @@ Dogecoin Labs, backed by the Dogecoin Foundation, unites MyDoge, DogeOS and Such
 
 ---
 
-## 5. Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms
+## 8. Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms
 
 **Author:** James Hunt  
 **Published:** 10/21/2026, 11:55:08 AM  
@@ -71,7 +107,7 @@ Bitcoin volatility is approaching its 2026 lows, with K33 pointing to weak tradi
 
 ---
 
-## 6. First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act
+## 9. First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act
 
 **Author:** Sarah Wynn  
 **Published:** 10/21/2026, 11:01:02 AM  
@@ -83,7 +119,7 @@ OCC published its final GENIUS Act stablecoin rule, effective Jan. 18, dropping 
 
 ---
 
-## 7. BitGo launches innovation unit to design crypto’s next breakout application
+## 10. BitGo launches innovation unit to design crypto’s next breakout application
 
 **Author:** Danny Park  
 **Published:** 10/21/2026, 11:00:00 AM  
@@ -95,7 +131,7 @@ BitGo Labs will initially focus on the intersection of AI and crypto, stating th
 
 ---
 
-## 8. MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion
+## 11. MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion
 
 **Author:** Danny Park  
 **Published:** 10/21/2026, 2:30:08 AM  
