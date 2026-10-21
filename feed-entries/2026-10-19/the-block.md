@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-19"
 date: "2026-10-19"
 source: "The Block"
-count: 5
+count: 4
 ---
 
 # The Block - 2026-10-19
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Mastercard unveiled Stablecoin Security, a risk screening service launching in N
 StoneX reiterates Buy and $57 target on GLXY, saying the market undervalues its Helios AI data center despite CoreWeave debt worries.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-10-19-galaxy-digital-glxy-stonex-buy-coreweave-helios-ai-data-center-421045)
-
----
-
-## 5. SkyAI sells off entire Solana treasury as it launches $201 million buyback
-
-**Author:** Kyle Baird  
-**Published:** 10/19/2026, 3:28:43 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Public Equities, Token Projects, Crypto Treasuries, Solana, News  
-
-SkyAI holds $223.8 million in cash after selling all its SOL, with its $3 buyback running through Oct. 29.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037)
 
 ---
