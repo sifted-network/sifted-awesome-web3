@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-20"
 date: "2026-10-20"
 source: "CoinDesk"
-count: 7
+count: 6
 ---
 
 # CoinDesk - 2026-10-20
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ The court injunctions apply strictly to users within the AIFC and do not extend 
 Seven more issuers have opted out of being listed on the planned tokenized stock venue under the SEC's framework, bringing its disclosed objection count to 16.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading)
-
----
-
-## 7. France's parliament approves vote to hit stablecoin trades with 31% capital gains tax
-
-**Author:** Francisco Rodrigues,AI Boost  
-**Published:** 10/20/2026, 11:25:00 AM  
-**Categories:** Policy, Stablecoins, Tax, News  
-
-Amendment I-3898 removes tax deferral for MiCA-compliant stablecoins starting January 2027.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy)
 
 ---
