@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-21"
 date: "2026-10-21"
 source: "CoinDesk"
-count: 19
+count: 16
 ---
 
 # CoinDesk - 2026-10-21
 
-19 items collected.
+16 items collected.
 
 ---
 
@@ -200,41 +200,5 @@ The NU7 upgrade will cut the time between Zcash blocks to 25 seconds from 75 sec
 Institutions can trade through Ripple Prime and post RLUSD as collateral. Finding enough buyers and sellers for large positions could prove harder.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin)
-
----
-
-## 17. Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday
-
-**Author:** Shaurya Malwa,Francisco Rodrigues  
-**Published:** 10/21/2026, 4:35:52 AM  
-**Categories:** Tech, News  
-
-Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday)
-
----
-
-## 18. A company that vouches for websites had secret keys so weak that 8 of them were cracked
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 10/21/2026, 4:11:58 AM  
-**Categories:** Tech, News  
-
-Eight secret keys at eMudhra, an Indian firm that vouches for websites, were compromised. This is a generic, not crypto-specific, risk.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked)
-
----
-
-## 19. Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%
-
-**Author:** Shaurya Malwa  
-**Published:** 10/21/2026, 4:07:07 AM  
-**Categories:** Markets, News  
-
-Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11)
 
 ---
