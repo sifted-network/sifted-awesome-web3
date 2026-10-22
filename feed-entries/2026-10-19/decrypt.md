@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-19"
 date: "2026-10-19"
 source: "Decrypt"
-count: 6
+count: 2
 ---
 
 # Decrypt - 2026-10-19
 
-6 items collected.
+2 items collected.
 
 ---
 
@@ -32,53 +32,5 @@ The Nasdaq-listed bitcoin holder bought as warrant holders exercised, bringing i
 Anthropic committed 5% of its shares to a public benefit fund, and within hours Elon Musk promised a SpaceX share to every American child.
 
 📖 [Read original article](https://decrypt.co/381371/anthropic-gives-public-musk-answers-spacex-shares)
-
----
-
-## 3. XRP Ledger Repairs Its Lending Protocol Before It Goes Live
-
-**Author:** Decrypt Agent  
-**Published:** 10/19/2026, 8:46:05 PM  
-**Categories:** , Coins  
-
-XRP developers published a second amendment to repair the ledger’s new uncollateralized lending feature while the original still awaits validator approval.
-
-📖 [Read original article](https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live)
-
----
-
-## 4. Hackers Are Running Apple's iOS on Android Phones for the First Time
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/19/2026, 7:46:04 PM  
-**Categories:** Technology  
-
-Hobbyists are booting iOS 16 on Xiaomi and Nothing phones and posting the proof. It barely works, but it suggests Apple's software is no longer welded to Apple's hardware.
-
-📖 [Read original article](https://decrypt.co/381351/hackers-running-apple-ios-android-phones)
-
----
-
-## 5. Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments
-
-**Author:** Decrypt Agent  
-**Published:** 10/19/2026, 7:16:04 PM  
-**Categories:** , , Business  
-
-Unveiled at Money20/20, the API-based tool combines payment and blockchain intelligence to flag fraud, scams and sanctions exposure before funds move on-chain.
-
-📖 [Read original article](https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments)
-
----
-
-## 6. Why Some of America’s Biggest Companies Are Objecting to Tokenized Shares
-
-**Author:** Decrypt Staff  
-**Published:** 10/19/2026, 6:46:05 PM  
-**Categories:** , , Markets  
-
-Nine companies, including Verizon, Broadcom and UnitedHealth, have objected to having their shares traded on the planned OKX-ICE tokenized stock venue.
-
-📖 [Read original article](https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares)
 
 ---
