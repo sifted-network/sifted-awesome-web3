@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-10-22"
 date: "2026-10-22"
 source: "CoinDesk"
-count: 15
+count: 16
 ---
 
 # CoinDesk - 2026-10-22
 
-15 items collected.
+16 items collected.
 
 ---
 
-## 1. Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures
+## 1. A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech
+
+**Author:** Krisztian Sandor  
+**Published:** 10/22/2026, 6:30:57 PM  
+**Categories:** Finance, Institutional Investors, News  
+
+The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech)
+
+---
+
+## 2. Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures
 
 **Author:** Jamie Crawley  
 **Published:** 10/22/2026, 3:40:25 PM  
@@ -23,7 +35,7 @@ When Silvergate was on the verge of collapse in 2023, Coinbase instructed 30 cus
 
 ---
 
-## 2. Crypto for Advisors: Stablecoins are ready for prime time
+## 3. Crypto for Advisors: Stablecoins are ready for prime time
 
 **Author:** Prashant Kher  
 **Published:** 10/22/2026, 2:58:31 PM  
@@ -35,7 +47,7 @@ When Silvergate was on the verge of collapse in 2023, Coinbase instructed 30 cus
 
 ---
 
-## 3. Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa
+## 4. Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa
 
 **Author:** Ian Allison  
 **Published:** 10/22/2026, 2:37:12 PM  
@@ -47,7 +59,7 @@ The company is in talks with Visa over a potential $2.5 billion acquisition, Axi
 
 ---
 
-## 4. Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence
+## 5. Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence
 
 **Author:** Jesse Hamilton  
 **Published:** 10/22/2026, 1:00:00 PM  
@@ -59,7 +71,7 @@ Boosters often say crypto voters can swing elections, but Democrats are seeking 
 
 ---
 
-## 5. Ethereum’s four-minute settlement plan could lower the cost of moving crypto
+## 6. Ethereum’s four-minute settlement plan could lower the cost of moving crypto
 
 **Author:** Shaurya Malwa  
 **Published:** 10/22/2026, 12:14:29 PM  
@@ -71,7 +83,7 @@ A new draft targets a fourfold cut in the time it takes Ethereum transactions to
 
 ---
 
-## 6. Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble
+## 7. Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble
 
 **Author:** Omkar Godbole  
 **Published:** 10/22/2026, 11:20:04 AM  
@@ -83,7 +95,7 @@ Your day-ahead look for Oct. 21, 2026
 
 ---
 
-## 7. Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines
+## 8. Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 10/22/2026, 10:50:04 AM  
@@ -95,7 +107,7 @@ Bitcoin as much as 2.9% to around $81,600 as Nasdaq futures dropped, while the C
 
 ---
 
-## 8. Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion
+## 9. Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion
 
 **Author:** Omkar Godbole  
 **Published:** 10/22/2026, 10:18:28 AM  
@@ -107,19 +119,19 @@ The pre-IPO Jio contract on Bitget is trading near $12, a roughly 4% premium on 
 
 ---
 
-## 9. Live updates: Bitcoin slumps below $82,000 as risk off mood returns
+## 10. Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack
 
 **Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Stephen Alpher  
 **Published:** 10/22/2026, 9:54:26 AM  
 **Categories:** Finance, Live News, live_news  
 
-The Nasdaq is down more than 2% as the AI bull market trade continues to unwind. U.S. interest rates are quickly headed lower.
+The Nasdaq is down more than 2% as the AI bull market trade continues to unwind. U.S. interest rates are plunging even as oil surges.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides)
 
 ---
 
-## 10. Asian stocks tumble, bitcoin retreats as China enters bear market
+## 11. Asian stocks tumble, bitcoin retreats as China enters bear market
 
 **Author:** James Van Straten  
 **Published:** 10/22/2026, 8:49:08 AM  
@@ -131,7 +143,7 @@ Technology shares led regional losses as mixed U.S. earnings unsettled investors
 
 ---
 
-## 11. China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme
+## 12. China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 10/22/2026, 6:24:10 AM  
@@ -143,7 +155,7 @@ Chinese prosecutors are seeking to confiscate more than 61,800 Bitcoin tied to a
 
 ---
 
-## 12. Solana’s biggest network change since 2020 is live. Here’s how users benefit
+## 13. Solana’s biggest network change since 2020 is live. Here’s how users benefit
 
 **Author:** Shaurya Malwa  
 **Published:** 10/22/2026, 5:24:58 AM  
@@ -155,7 +167,7 @@ The new voting system targets settlement in about 150 milliseconds, potentially 
 
 ---
 
-## 13. Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally
+## 14. Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally
 
 **Author:** Omkar Godbole  
 **Published:** 10/22/2026, 4:41:59 AM  
@@ -167,7 +179,7 @@ Past steep rallies ran on about $235 million a day of net inflows into ETFs. The
 
 ---
 
-## 14. XRP Ledger bug fix moved to November after validator support dipped for two hours
+## 15. XRP Ledger bug fix moved to November after validator support dipped for two hours
 
 **Author:** Shaurya Malwa  
 **Published:** 10/22/2026, 4:36:20 AM  
@@ -179,7 +191,7 @@ The fix lost its two-week countdown less than two days from the finish after sup
 
 ---
 
-## 15. Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves
+## 16. Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves
 
 **Author:** Shaurya Malwa  
 **Published:** 10/22/2026, 3:51:34 AM  
