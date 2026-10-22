@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-21"
 date: "2026-10-21"
 source: "CoinDesk"
-count: 10
+count: 9
 ---
 
 # CoinDesk - 2026-10-21
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ Your day-ahead look for Oct. 21, 2026
 The U.S. Office of the Comptroller of the Currency is the first of several federal agencies to finish writing regulations under the act.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban)
-
----
-
-## 10. Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 10/21/2026, 10:34:37 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin rose to a one-week high as Asian tech stocks rebounded and SpaceX and Tesla formed committees to explore a merger.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date)
 
 ---
