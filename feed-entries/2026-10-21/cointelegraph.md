@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-21"
 date: "2026-10-21"
 source: "Cointelegraph"
-count: 24
+count: 23
 ---
 
 # Cointelegraph - 2026-10-21
 
-24 items collected.
+23 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ The US President detailed many schemes defrauding Americans, but referred only t
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 10/21/2026, 8:10:47 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking
+## 4. Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/21/2026, 5:57:39 PM  
@@ -71,7 +59,7 @@ The foundation called for regulation based on financial risks rather than techno
 
 ---
 
-## 6. UK financial watchdog opens consultations for DeFi guidance, crypto laws
+## 5. UK financial watchdog opens consultations for DeFi guidance, crypto laws
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/21/2026, 5:25:00 PM  
@@ -83,7 +71,7 @@ The UK Financial Conduct Authority consultations came just weeks after the agenc
 
 ---
 
-## 7. Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform
+## 6. Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/21/2026, 5:10:54 PM  
@@ -95,7 +83,7 @@ The OCC has finalized rules for stablecoin reserves and redemptions, with Bessen
 
 ---
 
-## 8. Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules
+## 7. Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/21/2026, 4:09:26 PM  
@@ -107,7 +95,7 @@ Six major blockchain organizations urged the SEC to formally recognize digital c
 
 ---
 
-## 9. Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat
+## 8. Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/21/2026, 3:13:17 PM  
@@ -119,7 +107,7 @@ Bitcoin extended gains to approach $85,000 after US stock markets reacted to hig
 
 ---
 
-## 10. Solana’s Alpenglow launches on mainnet, targets 99% faster finality
+## 9. Solana’s Alpenglow launches on mainnet, targets 99% faster finality
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/21/2026, 1:57:14 PM  
@@ -131,7 +119,7 @@ Solana’s first major consensus upgrade is targeting 99% finality reduction, se
 
 ---
 
-## 11. Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns
+## 10. Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/21/2026, 1:31:39 PM  
@@ -143,7 +131,7 @@ CertiK says crypto trading bots and exchange applications may remain exposed to 
 
 ---
 
-## 12. 5 alternatives to Ledger to store your Bitcoin
+## 11. 5 alternatives to Ledger to store your Bitcoin
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 10/21/2026, 1:30:00 PM  
@@ -155,7 +143,7 @@ Hardware wallets aren’t the only way to protect your crypto, but from ETFs and
 
 ---
 
-## 13. OCC finalizes GENIUS Act rules for stablecoin issuers and custody
+## 12. OCC finalizes GENIUS Act rules for stablecoin issuers and custody
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 10/21/2026, 12:26:58 PM  
@@ -167,7 +155,7 @@ The Office of the Comptroller of the Currency’s final rule covers payment stab
 
 ---
 
-## 14. Standard Chartered signs definitive deal to acquire Zodia Custody
+## 13. Standard Chartered signs definitive deal to acquire Zodia Custody
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/21/2026, 12:06:23 PM  
@@ -179,7 +167,7 @@ The signing follows shareholders’ acceptance of Standard Chartered’s non-bin
 
 ---
 
-## 15. PancakeSwap TVL tops $380M as major fee overhaul heads to vote
+## 14. PancakeSwap TVL tops $380M as major fee overhaul heads to vote
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/21/2026, 10:50:52 AM  
@@ -191,7 +179,7 @@ PancakeSwap’s proposed fee-sharing overhaul would give liquidity providers 88%
 
 ---
 
-## 16. France proposes liability for crypto exchanges offering DeFi access
+## 15. France proposes liability for crypto exchanges offering DeFi access
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/21/2026, 10:46:00 AM  
@@ -203,7 +191,7 @@ French authorities want crypto exchanges to conduct checks on DeFi protocols and
 
 ---
 
-## 17. Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode
+## 16. Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/21/2026, 10:39:13 AM  
@@ -215,7 +203,7 @@ Bitcoin price current resistance near $87,000 was reinforced by investors who bo
 
 ---
 
-## 18. Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins
+## 17. Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/21/2026, 10:22:44 AM  
@@ -227,7 +215,7 @@ The companies will assess safeguards for travelers and whether stablecoins can s
 
 ---
 
-## 19. Zcash rallies 12% as developers finalize NU7 activation height
+## 18. Zcash rallies 12% as developers finalize NU7 activation height
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/21/2026, 10:15:00 AM  
@@ -239,7 +227,7 @@ Zcash extended triple-digit year-to-date gains as developers agreed on the NU7 m
 
 ---
 
-## 20. Drift exploiter sends $109M in Ether to Tornado Cash in 2 days
+## 19. Drift exploiter sends $109M in Ether to Tornado Cash in 2 days
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/21/2026, 10:13:52 AM  
@@ -251,7 +239,7 @@ Wallets linked to the $295 million April hack still held $138 million in Ether a
 
 ---
 
-## 21. Ether ETF outflows continue, pass $1B in October so far
+## 20. Ether ETF outflows continue, pass $1B in October so far
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/21/2026, 8:11:50 AM  
@@ -263,7 +251,7 @@ US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthl
 
 ---
 
-## 22. Malaysia central bank launches DLT platform for tokenized bonds
+## 21. Malaysia central bank launches DLT platform for tokenized bonds
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/21/2026, 5:56:29 AM  
@@ -275,7 +263,7 @@ The platform tracks tokenized securities ownership and transfers, linking to Mal
 
 ---
 
-## 23. Tech giants rush to block 8 eMudhra certs that could enable fake sites
+## 22. Tech giants rush to block 8 eMudhra certs that could enable fake sites
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/21/2026, 5:15:00 AM  
@@ -287,7 +275,7 @@ A private key generation flaw allowed anyone to guess them and forge HTTPS certi
 
 ---
 
-## 24. Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold
+## 23. Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/21/2026, 1:19:14 AM  
