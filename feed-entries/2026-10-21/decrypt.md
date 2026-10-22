@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-10-21"
 date: "2026-10-21"
 source: "Decrypt"
-count: 14
+count: 15
 ---
 
 # Decrypt - 2026-10-21
 
-14 items collected.
+15 items collected.
 
 ---
 
-## 1. Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents
+## 1. Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats
+
+**Author:** Jose Antonio Lanz  
+**Published:** 10/21/2026, 9:31:02 PM  
+**Categories:** Artificial Intelligence  
+
+Citadel's founder says investors are almost certainly in an AI bubble, warns a chip glut could crash prices like empty airline seats, yet expects the survivors to lead for decades.
+
+📖 [Read original article](https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats)
+
+---
+
+## 2. Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/21/2026, 8:16:02 PM  
@@ -23,7 +35,7 @@ Nvidia's OpenShell Reference Architecture pairs a software sandbox on Vera CPUs 
 
 ---
 
-## 2. Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course
+## 3. Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/21/2026, 6:46:08 PM  
@@ -35,7 +47,7 @@ OpenAI says its models found PHP2Shell and led a two-month coalition to fix it. 
 
 ---
 
-## 3. How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire
+## 4. How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/21/2026, 6:16:03 PM  
@@ -47,7 +59,7 @@ Both boards are now studying a tie-up that would put Grok, X, Starlink, orbital 
 
 ---
 
-## 4. Bitcoin Hits Weekly High as Crypto Market Rebounds
+## 5. Bitcoin Hits Weekly High as Crypto Market Rebounds
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/21/2026, 5:31:03 PM  
@@ -59,7 +71,7 @@ Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from O
 
 ---
 
-## 5. Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem
+## 6. Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem
 
 **Author:** Decrypt Agent  
 **Published:** 10/21/2026, 4:46:04 PM  
@@ -71,7 +83,7 @@ Formed with the Dogecoin Foundation and led by MyDoge founder Jordan Jefferson, 
 
 ---
 
-## 6. Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth
+## 7. Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth
 
 **Author:** Decrypt Staff  
 **Published:** 10/21/2026, 4:16:05 PM  
@@ -83,7 +95,7 @@ Musk said both boards formed committees to weigh a tie-up that would combine Tes
 
 ---
 
-## 7. What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained
+## 8. What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained
 
 **Author:** Decrypt Agent  
 **Published:** 10/21/2026, 3:43:32 PM  
@@ -95,7 +107,7 @@ Bitcoin-backed loans let holders borrow cash or stablecoins without selling BTC.
 
 ---
 
-## 8. PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out
+## 9. PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/21/2026, 3:35:16 PM  
@@ -107,7 +119,7 @@ Two critical bugs in PHP, the language running most of the web, let strangers ta
 
 ---
 
-## 9. Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge
+## 10. Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge
 
 **Author:** Decrypt Agent  
 **Published:** 10/21/2026, 2:24:25 PM  
@@ -119,7 +131,7 @@ The new consensus protocol retires TowerBFT, which had run Solana since its 2020
 
 ---
 
-## 10. GTA 6 Trailer Features 'Dacity' Meme Coin—Here's What Traders Think It'll Do
+## 11. GTA 6 Trailer Features 'Dacity' Meme Coin—Here's What Traders Think It'll Do
 
 **Author:** Ryan Gladwin  
 **Published:** 10/21/2026, 1:16:04 PM  
@@ -131,7 +143,7 @@ Grand Theft Auto 6 is rumoured to feature a meme coin, and crypto traders are sp
 
 ---
 
-## 11. Morning Minute: Bitcoin Tops JPMorgan’s Ten-Year Forecast for All Assets
+## 12. Morning Minute: Bitcoin Tops JPMorgan’s Ten-Year Forecast for All Assets
 
 **Author:** Tyler Warner  
 **Published:** 10/21/2026, 12:16:38 PM  
@@ -143,7 +155,7 @@ The bank has Bitcoin outperforming all asset classes spanning real estate, stock
 
 ---
 
-## 12. OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline
+## 13. OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline
 
 **Author:** Decrypt Agent  
 **Published:** 10/21/2026, 11:52:23 AM  
@@ -155,7 +167,7 @@ The rule sets reserve, redemption and risk standards for issuers, but the OCC ha
 
 ---
 
-## 13. 'Mentality Issue': PlayStation Founder Waves Away Disc Ownership Anger
+## 14. 'Mentality Issue': PlayStation Founder Waves Away Disc Ownership Anger
 
 **Author:** Ryan Gladwin  
 **Published:** 10/21/2026, 11:19:34 AM  
@@ -167,7 +179,7 @@ PlayStation founder Ken Kutaragi pushed back against anger at Sony's decision to
 
 ---
 
-## 14. UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report
+## 15. UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report
 
 **Author:** Decrypt Agent  
 **Published:** 10/21/2026, 10:29:41 AM  
