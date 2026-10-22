@@ -2,16 +2,88 @@
 title: "CoinDesk - 2026-10-22"
 date: "2026-10-22"
 source: "CoinDesk"
-count: 9
+count: 15
 ---
 
 # CoinDesk - 2026-10-22
 
-9 items collected.
+15 items collected.
 
 ---
 
-## 1. Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines
+## 1. Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures
+
+**Author:** Jamie Crawley  
+**Published:** 10/22/2026, 3:40:25 PM  
+**Categories:** Policy, Coinbase, Regulation, News  
+
+When Silvergate was on the verge of collapse in 2023, Coinbase instructed 30 customers to deposit funds into an alternate account held by Coinbase at another U.S. bank.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures)
+
+---
+
+## 2. Crypto for Advisors: Stablecoins are ready for prime time
+
+**Author:** Prashant Kher  
+**Published:** 10/22/2026, 2:58:31 PM  
+**Categories:** CoinDesk Indices, Crypto for Advisors, News  
+
+
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time)
+
+---
+
+## 3. Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa
+
+**Author:** Ian Allison  
+**Published:** 10/22/2026, 2:37:12 PM  
+**Categories:** Finance, mergers and acquisitions, Custody, News  
+
+The company is in talks with Visa over a potential $2.5 billion acquisition, Axios reported.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa)
+
+---
+
+## 4. Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence
+
+**Author:** Jesse Hamilton  
+**Published:** 10/22/2026, 1:00:00 PM  
+**Categories:** News Analysis, Election 2026, Donald Trump, News  
+
+Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy seats in Congress.
+
+📖 [Read original article](https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence)
+
+---
+
+## 5. Ethereum’s four-minute settlement plan could lower the cost of moving crypto
+
+**Author:** Shaurya Malwa  
+**Published:** 10/22/2026, 12:14:29 PM  
+**Categories:** Tech, Ethereum News, News  
+
+A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto)
+
+---
+
+## 6. Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble
+
+**Author:** Omkar Godbole  
+**Published:** 10/22/2026, 11:20:04 AM  
+**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
+
+Your day-ahead look for Oct. 21, 2026
+
+📖 [Read original article](https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble)
+
+---
+
+## 7. Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 10/22/2026, 10:50:04 AM  
@@ -23,7 +95,7 @@ Bitcoin as much as 2.9% to around $81,600 as Nasdaq futures dropped, while the C
 
 ---
 
-## 2. Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion
+## 8. Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion
 
 **Author:** Omkar Godbole  
 **Published:** 10/22/2026, 10:18:28 AM  
@@ -35,19 +107,19 @@ The pre-IPO Jio contract on Bitget is trading near $12, a roughly 4% premium on 
 
 ---
 
-## 3. Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides
+## 9. Live updates: Bitcoin slumps below $82,000 as risk off mood returns
 
-**Author:** Shaurya Malwa  
+**Author:** Shaurya Malwa,James Van Straten,Omkar Godbole,Stephen Alpher  
 **Published:** 10/22/2026, 9:54:26 AM  
 **Categories:** Finance, Live News, live_news  
 
-Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump.
+The Nasdaq is down more than 2% as the AI bull market trade continues to unwind. U.S. interest rates are quickly headed lower.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides)
 
 ---
 
-## 4. Asian stocks tumble, bitcoin retreats as China enters bear market
+## 10. Asian stocks tumble, bitcoin retreats as China enters bear market
 
 **Author:** James Van Straten  
 **Published:** 10/22/2026, 8:49:08 AM  
@@ -59,7 +131,7 @@ Technology shares led regional losses as mixed U.S. earnings unsettled investors
 
 ---
 
-## 5. China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme
+## 11. China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 10/22/2026, 6:24:10 AM  
@@ -71,7 +143,7 @@ Chinese prosecutors are seeking to confiscate more than 61,800 Bitcoin tied to a
 
 ---
 
-## 6. Solana’s biggest network change since 2020 is live. Here’s how users benefit
+## 12. Solana’s biggest network change since 2020 is live. Here’s how users benefit
 
 **Author:** Shaurya Malwa  
 **Published:** 10/22/2026, 5:24:58 AM  
@@ -83,7 +155,7 @@ The new voting system targets settlement in about 150 milliseconds, potentially 
 
 ---
 
-## 7. Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally
+## 13. Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally
 
 **Author:** Omkar Godbole  
 **Published:** 10/22/2026, 4:41:59 AM  
@@ -95,7 +167,7 @@ Past steep rallies ran on about $235 million a day of net inflows into ETFs. The
 
 ---
 
-## 8. XRP Ledger bug fix moved to November after validator support dipped for two hours
+## 14. XRP Ledger bug fix moved to November after validator support dipped for two hours
 
 **Author:** Shaurya Malwa  
 **Published:** 10/22/2026, 4:36:20 AM  
@@ -107,7 +179,7 @@ The fix lost its two-week countdown less than two days from the finish after sup
 
 ---
 
-## 9. Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves
+## 15. Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves
 
 **Author:** Shaurya Malwa  
 **Published:** 10/22/2026, 3:51:34 AM  
