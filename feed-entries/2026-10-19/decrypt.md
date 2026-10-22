@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-19"
 date: "2026-10-19"
 source: "Decrypt"
-count: 8
+count: 6
 ---
 
 # Decrypt - 2026-10-19
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ Unveiled at Money20/20, the API-based tool combines payment and blockchain intel
 Nine companies, including Verizon, Broadcom and UnitedHealth, have objected to having their shares traded on the planned OKX-ICE tokenized stock venue.
 
 📖 [Read original article](https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares)
-
----
-
-## 7. US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/19/2026, 6:16:04 PM  
-**Categories:** Artificial Intelligence  
-
-The Department of Homeland Security told civilian agencies to remove China's DeepSeek and any service built on it, and banned buying more, citing the risk of sensitive data reaching Beijing.
-
-📖 [Read original article](https://decrypt.co/381347/us-orders-civilian-agencies-rip-deepseek-out-government-systems)
-
----
-
-## 8. JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/19/2026, 5:31:04 PM  
-**Categories:** , Coins  
-
-JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of the week.
-
-📖 [Read original article](https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars)
 
 ---
