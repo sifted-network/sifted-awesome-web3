@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-20"
 date: "2026-10-20"
 source: "The Block"
-count: 7
+count: 6
 ---
 
 # The Block - 2026-10-20
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ A record 43.8 million ETH, nearly 36% of supply, was staked in Q3 as yields fell
 OKX debuted OKX Shield in the U.S. on Tuesday, in what former New York Gov. Andrew Cuomo says is a sign of trust.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421)
-
----
-
-## 7. Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare
-
-**Author:** James Hunt  
-**Published:** 10/20/2026, 4:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Web3, AI, Payments, News  
-
-Mastercard opened early access to Agent Pay for Machines after pilots with Coinbase, Base, Cloudflare, and other partners.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406)
 
 ---
