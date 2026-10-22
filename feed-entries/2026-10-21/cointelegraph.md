@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-21"
 date: "2026-10-21"
 source: "Cointelegraph"
-count: 23
+count: 16
 ---
 
 # Cointelegraph - 2026-10-21
 
-23 items collected.
+16 items collected.
 
 ---
 
@@ -200,89 +200,5 @@ French authorities want crypto exchanges to conduct checks on DeFi protocols and
 Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 10/21/2026, 10:22:44 AM  
-**Categories:** Latest News  
-
-The companies will assess safeguards for travelers and whether stablecoins can speed up trade settlement between South Korea and Japan.
-
-📖 [Read original article](https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Zcash rallies 12% as developers finalize NU7 activation height
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/21/2026, 10:15:00 AM  
-**Categories:** Markets  
-
-Zcash extended triple-digit year-to-date gains as developers agreed on the NU7 mainnet activation height, targeting Nov. 5, with node synchronization work still pending.
-
-📖 [Read original article](https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Drift exploiter sends $109M in Ether to Tornado Cash in 2 days
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/21/2026, 10:13:52 AM  
-**Categories:** Latest News  
-
-Wallets linked to the $295 million April hack still held $138 million in Ether after sending another $46 million to the mixer Wednesday.
-
-📖 [Read original article](https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Ether ETF outflows continue, pass $1B in October so far
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/21/2026, 8:11:50 AM  
-**Categories:** Markets  
-
-US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike.
-
-📖 [Read original article](https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Malaysia central bank launches DLT platform for tokenized bonds
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/21/2026, 5:56:29 AM  
-**Categories:** Latest News  
-
-The platform tracks tokenized securities ownership and transfers, linking to Malaysia’s RENTAS+ system to settle corresponding payments in central bank money.
-
-📖 [Read original article](https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Tech giants rush to block 8 eMudhra certs that could enable fake sites
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/21/2026, 5:15:00 AM  
-**Categories:** Latest News  
-
-A private key generation flaw allowed anyone to guess them and forge HTTPS certificates for any website.
-
-📖 [Read original article](https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/21/2026, 1:19:14 AM  
-**Categories:** Markets  
-
-A merger would bring Tesla into the same corporate group as Grok developer SpaceXAI and social media platform X.
-
-📖 [Read original article](https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
