@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-21"
 date: "2026-10-21"
 source: "The Block"
-count: 11
+count: 9
 ---
 
 # The Block - 2026-10-21
 
-11 items collected.
+9 items collected.
 
 ---
 
@@ -116,29 +116,5 @@ Bitcoin volatility is approaching its 2026 lows, with K33 pointing to weak tradi
 OCC published its final GENIUS Act stablecoin rule, effective Jan. 18, dropping a proposed presumption on third-party rewards arrangements.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470)
-
----
-
-## 10. BitGo launches innovation unit to design crypto’s next breakout application
-
-**Author:** Danny Park  
-**Published:** 10/21/2026, 11:00:00 AM  
-**Categories:** Companies, exclusive, News  
-
-BitGo Labs will initially focus on the intersection of AI and crypto, stating that the AI economy needs crypto financial infrastructure.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-21-bitgo-launches-research-unit-421502)
-
----
-
-## 11. MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion
-
-**Author:** Danny Park  
-**Published:** 10/21/2026, 2:30:08 AM  
-**Categories:** Companies, News  
-
-The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476)
 
 ---
