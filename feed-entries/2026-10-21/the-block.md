@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-21"
 date: "2026-10-21"
 source: "The Block"
-count: 9
+count: 7
 ---
 
 # The Block - 2026-10-21
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ Standard Chartered has signed definitive agreements to acquire Zodia Custody, su
 Dogecoin Labs, backed by the Dogecoin Foundation, unites MyDoge, DogeOS and Such App to push DOGE into payments and DeFi.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469)
-
----
-
-## 8. Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms
-
-**Author:** James Hunt  
-**Published:** 10/21/2026, 11:55:08 AM  
-**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin, News  
-
-Bitcoin volatility is approaching its 2026 lows, with K33 pointing to weak trading activity ahead of several potential market catalysts.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524)
-
----
-
-## 9. First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act
-
-**Author:** Sarah Wynn  
-**Published:** 10/21/2026, 11:01:02 AM  
-**Categories:** Congress, Crypto Ecosystems, Policy, Regulation, Stablecoins, GENIUS Act, OCC, News  
-
-OCC published its final GENIUS Act stablecoin rule, effective Jan. 18, dropping a proposed presumption on third-party rewards arrangements.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470)
 
 ---
