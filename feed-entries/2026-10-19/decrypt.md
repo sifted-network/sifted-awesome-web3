@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-19"
 date: "2026-10-19"
 source: "Decrypt"
-count: 9
+count: 8
 ---
 
 # Decrypt - 2026-10-19
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ The Department of Homeland Security told civilian agencies to remove China's Dee
 JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of the week.
 
 📖 [Read original article](https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars)
-
----
-
-## 9. Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million
-
-**Author:** Decrypt Staff  
-**Published:** 10/19/2026, 4:46:05 PM  
-**Categories:** , Coins  
-
-A Bitcoin address dormant since 2013 moved 411.45 BTC worth about $33.4 million, according to Galaxy Research, and it’s among the wallets named in the “Noah Doe” lawsuit.
-
-📖 [Read original article](https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million)
 
 ---
