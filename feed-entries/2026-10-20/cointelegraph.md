@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-20"
 date: "2026-10-20"
 source: "Cointelegraph"
-count: 7
+count: 5
 ---
 
 # Cointelegraph - 2026-10-20
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ Crypto projects are struggling to survive as falling revenues, depleted funding 
 The Bitcoin treasury company could acquire an estimated 7,372 BTC with its net proceeds, potentially surpassing Metaplanet’s holdings if it allocates the full amount.
 
 📖 [Read original article](https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Injective, BDACS plan Korean won stablecoin settlement for tokenized assets
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 10/20/2026, 4:47:48 PM  
-**Categories:** Latest News  
-
-Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local currency stablecoins.
-
-📖 [Read original article](https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Stablecoin transfers quadruple to $891B as US banks expand adoption: Report
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 10/20/2026, 4:38:13 PM  
-**Categories:** Latest News  
-
-Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year.
-
-📖 [Read original article](https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
