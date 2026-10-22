@@ -2,16 +2,76 @@
 title: "The Block - 2026-10-22"
 date: "2026-10-22"
 source: "The Block"
-count: 5
+count: 10
 ---
 
 # The Block - 2026-10-22
 
-5 items collected.
+10 items collected.
 
 ---
 
-## 1. Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak
+## 1. Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures
+
+**Author:** Brian Danga  
+**Published:** 10/22/2026, 2:03:40 PM  
+**Categories:** Companies, Exchanges, International Policymaking, Markets, Metaverse & NFT, NFT Marketplaces, People, Policy, Public Equities, Regulation, Coinbase, Eurozone Regulation, News  
+
+Coinbase Ireland fined $3.6 million for safeguarding breaches that left customer funds underfunded and mixed with group accounts.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943)
+
+---
+
+## 2. Uniswap’s aggregator hooks go live on Ethereum, Base and Robinhood Chain
+
+**Author:** Yogita Khatri  
+**Published:** 10/22/2026, 1:55:03 PM  
+**Categories:** Crypto Ecosystems, DeFi, DEXs, exclusive, Uniswap, News  
+
+Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms.
+
+📖 [Read original article](https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932)
+
+---
+
+## 3. Fireblocks denies report of $2.5 billion acquisition talks with Visa
+
+**Author:** James Hunt  
+**Published:** 10/22/2026, 1:27:54 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Finance firms, Stablecoins, Payments, News  
+
+Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion.
+
+📖 [Read original article](https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926)
+
+---
+
+## 4. Dune launches onchain trading data feeds as tokenized markets expand
+
+**Author:** Timmy Shen  
+**Published:** 10/22/2026, 12:00:00 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, News  
+
+The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889)
+
+---
+
+## 5. SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users
+
+**Author:** James Hunt  
+**Published:** 10/22/2026, 12:00:00 PM  
+**Categories:** Companies, News  
+
+SoFi has launched SOFIE, a tokenized deposit offering 4.4% APY and FDIC insurance, with the option to convert to SoFiUSD.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916)
+
+---
+
+## 6. Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak
 
 **Author:** Brian Danga  
 **Published:** 10/22/2026, 9:56:16 AM  
@@ -23,7 +83,7 @@ Spot bitcoin ETFs attracted $528 million on Wednesday as BlackRock and Fidelity 
 
 ---
 
-## 2. Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1
+## 7. Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1
 
 **Author:** James Hunt  
 **Published:** 10/22/2026, 9:32:00 AM  
@@ -35,7 +95,7 @@ Starknet's community backed research into becoming an independent post-quantum L
 
 ---
 
-## 3. Layer 2 Scaling Solutions
+## 8. Layer 2 Scaling Solutions
 
 **Author:** The Block Research  
 **Published:** 10/22/2026, 9:15:50 AM  
@@ -47,7 +107,7 @@ Layer 2 scaling solutions help blockchains like Ethereum process more activity w
 
 ---
 
-## 4. South Korea’s crypto bill nears completion while tax debate intensifies: reports
+## 9. South Korea’s crypto bill nears completion while tax debate intensifies: reports
 
 **Author:** Timmy Shen  
 **Published:** 10/22/2026, 9:11:57 AM  
@@ -59,7 +119,7 @@ The bill seeks to establish a framework for digital assets, including licensing 
 
 ---
 
-## 5. Aerodrome and Velodrome merge to launch Aero across seven blockchain networks
+## 10. Aerodrome and Velodrome merge to launch Aero across seven blockchain networks
 
 **Author:** Timmy Shen  
 **Published:** 10/22/2026, 12:00:00 AM  
