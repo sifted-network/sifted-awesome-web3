@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-22"
 date: "2026-10-22"
 source: "The Block"
-count: 12
+count: 11
 ---
 
 # The Block - 2026-10-22
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ Layer 2 scaling solutions help blockchains like Ethereum process more activity w
 The bill seeks to establish a framework for digital assets, including licensing regimes for exchanges and rules for stablecoin issuance.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880)
-
----
-
-## 12. Aerodrome and Velodrome merge to launch Aero across seven blockchain networks
-
-**Author:** Timmy Shen  
-**Published:** 10/22/2026, 12:00:00 AM  
-**Categories:** Crypto Ecosystems, DeFi, News  
-
-Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514)
 
 ---
