@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-20"
 date: "2026-10-20"
 source: "Decrypt"
-count: 12
+count: 11
 ---
 
 # Decrypt - 2026-10-20
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ Former NBC News political director Chuck Todd is hosting NEXTPredict two weeks b
 Strategy’s co-founder Michael Saylor pioneered the Bitcoin treasury playbook. Here’s what you need to know.
 
 📖 [Read original article](https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company)
-
----
-
-## 12. Mastercard Opens Up AI Agent Payments With Early Access and Live Demo
-
-**Author:** Decrypt Staff  
-**Published:** 10/20/2026, 4:01:04 PM  
-**Categories:** Business  
-
-At Cloudflare Connect, the company demoed an AI agent running a sample ad campaign across nine payments to two merchants on a single approved budget.
-
-📖 [Read original article](https://decrypt.co/381373/mastercard-opens-up-ai-agent-payments-with-early-access-and-live-demo)
 
 ---
