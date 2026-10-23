@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-20"
 date: "2026-10-20"
 source: "Decrypt"
-count: 11
+count: 10
 ---
 
 # Decrypt - 2026-10-20
 
-11 items collected.
+10 items collected.
 
 ---
 
@@ -128,17 +128,5 @@ Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounde
 Former NBC News political director Chuck Todd is hosting NEXTPredict two weeks before the vote, and has yet to pick a side.
 
 📖 [Read original article](https://decrypt.co/380966/the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters)
-
----
-
-## 11. What Is Strategy (MSTR)? The Bitcoin Treasury Company
-
-**Author:** Logan Hitchcock  
-**Published:** 10/20/2026, 4:17:02 PM  
-**Categories:** , The Landscape  
-
-Strategy’s co-founder Michael Saylor pioneered the Bitcoin treasury playbook. Here’s what you need to know.
-
-📖 [Read original article](https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company)
 
 ---
