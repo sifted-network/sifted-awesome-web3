@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-22"
 date: "2026-10-22"
 source: "Cointelegraph"
-count: 21
+count: 16
 ---
 
 # Cointelegraph - 2026-10-22
 
-21 items collected.
+16 items collected.
 
 ---
 
@@ -200,65 +200,5 @@ The UK’s 2027 crypto rules risk a de facto ban on regulated firms providing ac
 CoinDCX said it covered losses caused by a failed transfer process involving compromised wallets and credited all affected user accounts.
 
 📖 [Read original article](https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/22/2026, 10:38:51 AM  
-**Categories:** Markets  
-
-Bitcoin reversed a run toward $85,000 after Tesla reported lower-than-expected capital expenditure in Q3.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Starknet voters back research into life beyond Ethereum
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/22/2026, 9:37:54 AM  
-**Categories:** Latest News  
-
-StarkWare plans to release a draft whitepaper in November as it explores an independent, quantum-resistant blockchain.
-
-📖 [Read original article](https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. PHP flaw draws millions of exploit attempts, Cloudflare CEO warns
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/22/2026, 9:06:02 AM  
-**Categories:** Latest News  
-
-Cloudflare’s Matthew Prince said the network saw thousands of exploit attempts even before the PHP vulnerability was publicly disclosed.
-
-📖 [Read original article](https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Bitcoin ETFs bag another $528M, taking 3-day haul past $1B
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/22/2026, 7:37:32 AM  
-**Categories:** Markets  
-
-US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Move over memecoins: Crypto ‘meme games’ coming, bagholders and all
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/22/2026, 5:35:38 AM  
-**Categories:** Latest News  
-
-“Plenty will be ponzis. Plenty will get exploited. Plenty will insta die. There will be ridiculous gains, and people will get absolutely f***ing rinsed,” says Illuvium co-founder Kieran Warwick.
-
-📖 [Read original article](https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
