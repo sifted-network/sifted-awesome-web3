@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-20"
 date: "2026-10-20"
 source: "Decrypt"
-count: 10
+count: 5
 ---
 
 # Decrypt - 2026-10-20
 
-10 items collected.
+5 items collected.
 
 ---
 
@@ -68,65 +68,5 @@ The North Korea-linked attacker behind April's $295 million Drift heist pushed 2
 Sixteen companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, up from nine just four days earlier, according to an updated public notice.
 
 📖 [Read original article](https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks)
-
----
-
-## 6. Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/20/2026, 7:31:04 PM  
-**Categories:** , Business  
-
-FINMA waived the diversification rules for the fund but leaned hard on custody and investor-protection safeguards.
-
-📖 [Read original article](https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly)
-
----
-
-## 7. Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/20/2026, 6:31:04 PM  
-**Categories:** , Markets  
-
-U.S. spot Bitcoin ETFs took in $526.7 million on Monday, their biggest day since Sept. 22. BlackRock's IBIT supplied all of it while Fidelity and Grayscale funds bled.
-
-📖 [Read original article](https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying)
-
----
-
-## 8. Bitcoin's Next Move: Here's What to Watch
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/20/2026, 5:45:04 PM  
-**Categories:** , Markets  
-
-Bitcoin trades just below $83,000, above both the short-term and long-term moving averages. Here are the levels traders are watching.
-
-📖 [Read original article](https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch)
-
----
-
-## 9. Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/20/2026, 5:03:26 PM  
-**Categories:** , zcash, Markets  
-
-Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in.
-
-📖 [Read original article](https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims)
-
----
-
-## 10. The Midterms Are the First Real Test of Whether Markets Beat Pollsters
-
-**Author:** Decrypt Staff  
-**Published:** 10/20/2026, 4:26:58 PM  
-**Categories:** polygon, Business  
-
-Former NBC News political director Chuck Todd is hosting NEXTPredict two weeks before the vote, and has yet to pick a side.
-
-📖 [Read original article](https://decrypt.co/380966/the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters)
 
 ---
