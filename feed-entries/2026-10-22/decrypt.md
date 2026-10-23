@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-10-22"
 date: "2026-10-22"
 source: "Decrypt"
-count: 13
+count: 14
 ---
 
 # Decrypt - 2026-10-22
 
-13 items collected.
+14 items collected.
 
 ---
 
-## 1. ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves
+## 1. Is the Internet Safe Again After the PHP Nightmare? What You Need to Know
+
+**Author:** Jose Antonio Lanz  
+**Published:** 10/22/2026, 10:21:46 PM  
+**Categories:** Technology  
+
+PHP shipped its fix, attackers launched millions of attempts, and governments say no one has broken in yet. Here's what that means for your passwords, your crypto, and your browsing.
+
+📖 [Read original article](https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know)
+
+---
+
+## 2. ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/22/2026, 8:39:18 PM  
@@ -23,7 +35,7 @@ Lionel Messi’s ChatGPT ad has the AI teaching him chess on a board with kings 
 
 ---
 
-## 2. a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech
+## 3. a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/22/2026, 7:46:02 PM  
@@ -35,7 +47,7 @@ Andreessen Horowitz is renaming its crypto fund a16z Frontier and widening its s
 
 ---
 
-## 3. Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control
+## 4. Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/22/2026, 7:06:02 PM  
@@ -47,7 +59,7 @@ Meta will hand shareholders a free non-voting share for every share they own in 
 
 ---
 
-## 4. Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding
+## 5. Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding
 
 **Author:** Decrypt Staff  
 **Published:** 10/22/2026, 6:36:03 PM  
@@ -59,7 +71,7 @@ The Central Bank of Ireland penalized Coinbase Ireland €3,252,618 for leaning 
 
 ---
 
-## 5. Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs
+## 6. Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/22/2026, 6:06:02 PM  
@@ -71,7 +83,7 @@ Tesla earned $787 million last quarter, down from $1.37 billion, as spending on 
 
 ---
 
-## 6. Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&#038;P 500 and Global Markets With Them
+## 7. Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&#038;P 500 and Global Markets With Them
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/22/2026, 5:33:38 PM  
@@ -83,7 +95,7 @@ Brent crude hit a five-month high while Nvidia, Meta and chip stocks fell, pulli
 
 ---
 
-## 7. Bitcoin ETFs Erase October Losses With $1 Billion in Three Days
+## 8. Bitcoin ETFs Erase October Losses With $1 Billion in Three Days
 
 **Author:** Decrypt Staff  
 **Published:** 10/22/2026, 4:31:07 PM  
@@ -95,7 +107,7 @@ Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing Oc
 
 ---
 
-## 8. What Is a Neocloud? The GPU Clouds Powering the AI Boom
+## 9. What Is a Neocloud? The GPU Clouds Powering the AI Boom
 
 **Author:** Decrypt Agent  
 **Published:** 10/22/2026, 3:45:07 PM  
@@ -107,7 +119,7 @@ Neoclouds like CoreWeave and Nebius rent Nvidia GPUs to AI labs, and several sta
 
 ---
 
-## 9. Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'
+## 10. Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'
 
 **Author:** Decrypt Staff  
 **Published:** 10/22/2026, 3:24:18 PM  
@@ -119,7 +131,7 @@ Major banks including Morgan Stanley, JPMorgan, Bank of America, and Citi are mo
 
 ---
 
-## 10. Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange
+## 11. Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange
 
 **Author:** Decrypt Staff  
 **Published:** 10/22/2026, 2:04:48 PM  
@@ -131,7 +143,7 @@ Decrypt is building a destination where readers can discover, understand and tra
 
 ---
 
-## 11. SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin
+## 12. SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin
 
 **Author:** Decrypt Staff  
 **Published:** 10/22/2026, 12:01:03 PM  
@@ -143,7 +155,7 @@ Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with F
 
 ---
 
-## 12. Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M
+## 13. Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M
 
 **Author:** Decrypt Agent  
 **Published:** 10/22/2026, 10:45:13 AM  
@@ -155,7 +167,7 @@ Police say a car-rental firm near Milan was an underground bank for 'Ndrangheta 
 
 ---
 
-## 13. Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case
+## 14. Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case
 
 **Author:** Decrypt Agent  
 **Published:** 10/22/2026, 10:09:42 AM  
