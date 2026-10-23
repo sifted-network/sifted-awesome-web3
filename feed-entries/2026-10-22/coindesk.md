@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-22"
 date: "2026-10-22"
 source: "CoinDesk"
-count: 17
+count: 12
 ---
 
 # CoinDesk - 2026-10-22
 
-17 items collected.
+12 items collected.
 
 ---
 
@@ -152,65 +152,5 @@ The Nasdaq is down more than 2% as the AI bull market trade continues to unwind.
 Technology shares led regional losses as mixed U.S. earnings unsettled investors and Brent crude climbed above $112 a barrel.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market)
-
----
-
-## 13. China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 10/22/2026, 6:24:10 AM  
-**Categories:** Markets, News  
-
-Chinese prosecutors are seeking to confiscate more than 61,800 Bitcoin tied to a $5.7 billion fraud scheme, days after a U.K. court ruled Chinese law governs victims’ claims to the coins.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme)
-
----
-
-## 14. Solana’s biggest network change since 2020 is live. Here’s how users benefit
-
-**Author:** Shaurya Malwa  
-**Published:** 10/22/2026, 5:24:58 AM  
-**Categories:** Tech, News  
-
-The new voting system targets settlement in about 150 milliseconds, potentially shortening waits for payments and deposits. Users can keep their existing wallets.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users)
-
----
-
-## 15. Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally
-
-**Author:** Omkar Godbole  
-**Published:** 10/22/2026, 4:41:59 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Past steep rallies ran on about $235 million a day of net inflows into ETFs. The funds are yet to match that pace, according to data analyzed by CoinDesk.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally)
-
----
-
-## 16. XRP Ledger bug fix moved to November after validator support dipped for two hours
-
-**Author:** Shaurya Malwa  
-**Published:** 10/22/2026, 4:36:20 AM  
-**Categories:** Tech, News  
-
-The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It’s now back at 31.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours)
-
----
-
-## 17. Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves
-
-**Author:** Shaurya Malwa  
-**Published:** 10/22/2026, 3:51:34 AM  
-**Categories:** Markets, News  
-
-BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves)
 
 ---
