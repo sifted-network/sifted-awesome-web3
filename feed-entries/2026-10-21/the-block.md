@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-21"
 date: "2026-10-21"
 source: "The Block"
-count: 6
+count: 3
 ---
 
 # The Block - 2026-10-21
 
-6 items collected.
+3 items collected.
 
 ---
 
@@ -44,41 +44,5 @@ The fight between banks and crypto has reignited after a top banking regulator d
 The startup also plans to hold a public token sale through Uniswap's auction platform, with details expected next week.
 
 📖 [Read original article](https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596)
-
----
-
-## 4. Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts
-
-**Author:** Jason Shubnell  
-**Published:** 10/21/2026, 3:12:00 PM  
-**Categories:** Companies, Funds, Markets, Bitcoin ETF, Dogecoin ETF, Solana ETF, XRP ETF, News  
-
-Grayscale expands in-kind subscriptions to 10 crypto funds, letting eligible investors swap tokens for shares without selling for cash.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559)
-
----
-
-## 5. Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds
-
-**Author:** Brian Danga  
-**Published:** 10/21/2026, 2:24:39 PM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, Token Projects, Solana, News  
-
-Solana activated Alpenglow, replacing TowerBFT and cutting transaction finality from 12.8 seconds to about 150 milliseconds.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508)
-
----
-
-## 6. Standard Chartered signs definitive agreements to acquire Zodia Custody
-
-**Author:** James Hunt  
-**Published:** 10/21/2026, 12:44:53 PM  
-**Categories:** Companies, News  
-
-Standard Chartered has signed definitive agreements to acquire Zodia Custody, subject to regulatory approval.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535)
 
 ---
