@@ -2,16 +2,88 @@
 title: "CoinDesk - 2026-10-23"
 date: "2026-10-23"
 source: "CoinDesk"
-count: 7
+count: 13
 ---
 
 # CoinDesk - 2026-10-23
 
-7 items collected.
+13 items collected.
 
 ---
 
-## 1. HSBC rolls out its first stablecoin to over 3 million everyday app users
+## 1. Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports
+
+**Author:** Helene Braun  
+**Published:** 10/23/2026, 1:58:56 PM  
+**Categories:** Markets, Robinhood, Prediction Markets, News  
+
+The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports)
+
+---
+
+## 2. Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy
+
+**Author:** Shaurya Malwa  
+**Published:** 10/23/2026, 12:03:53 PM  
+**Categories:** Tech, News  
+
+Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt)
+
+---
+
+## 3. Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro
+
+**Author:** Omkar Godbole  
+**Published:** 10/23/2026, 11:22:33 AM  
+**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
+
+Your day-ahead look for Oct. 23, 2026
+
+📖 [Read original article](https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s)
+
+---
+
+## 4. Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high
+
+**Author:** Shaurya Malwa,Stephen Alpher,James Van Straten  
+**Published:** 10/23/2026, 11:13:01 AM  
+**Categories:** Markets, Live News, live_news  
+
+Brent crude oil surged above $116 per barrel for the first time since late April.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs)
+
+---
+
+## 5. Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%
+
+**Author:** Oliver Knight,Omkar Godbole  
+**Published:** 10/23/2026, 10:54:41 AM  
+**Categories:** Markets, Crypto Markets Today, News  
+
+Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13)
+
+---
+
+## 6. Bitcoin appears to have decoupled from midterm cycle bottom history
+
+**Author:** James Van Straten  
+**Published:** 10/23/2026, 10:53:09 AM  
+**Categories:** Markets, Bitcoin News, News  
+
+Previous bitcoin bear-market lows followed U.S. midterms, but this year’s recovery raises the possibility that the bottom arrived months earlier.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern)
+
+---
+
+## 7. HSBC rolls out its first stablecoin to over 3 million everyday app users
 
 **Author:** Francisco Rodrigues  
 **Published:** 10/23/2026, 10:22:56 AM  
@@ -23,7 +95,7 @@ HSBC and Standard Chartered-led Anchorpoint received Hong Kong’s first stablec
 
 ---
 
-## 2. Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom
+## 8. Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom
 
 **Author:** Francisco Rodrigues  
 **Published:** 10/23/2026, 8:57:34 AM  
@@ -35,7 +107,7 @@ The Riksbank sees an e-krona as critical to securing national payments and monet
 
 ---
 
-## 3. India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows
+## 9. India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows
 
 **Author:** Omkar Godbole  
 **Published:** 10/23/2026, 8:02:35 AM  
@@ -47,7 +119,7 @@ CoinDCX denies its active wallets were hacked after sleuths flagged $16 million 
 
 ---
 
-## 4. Polymarket has reportedly fired its marketing chief, also a close friend of the CEO
+## 10. Polymarket has reportedly fired its marketing chief, also a close friend of the CEO
 
 **Author:** Omkar Godbole  
 **Published:** 10/23/2026, 5:01:19 AM  
@@ -59,7 +131,7 @@ Matthew Modabber was reportedly ousted after an internal probe of several instan
 
 ---
 
-## 5. Ethereum delays Glamsterdam test after security devs flag risk to existing contracts
+## 11. Ethereum delays Glamsterdam test after security devs flag risk to existing contracts
 
 **Author:** Shaurya Malwa  
 **Published:** 10/23/2026, 4:59:34 AM  
@@ -71,7 +143,7 @@ Developers canceled Monday's Hoodi activation after researchers showed how new g
 
 ---
 
-## 6. Cardano holders are being asked to bet $5 million on copper hitting a new record
+## 12. Cardano holders are being asked to bet $5 million on copper hitting a new record
 
 **Author:** Shaurya Malwa  
 **Published:** 10/23/2026, 4:36:51 AM  
@@ -83,7 +155,7 @@ Toto Finance wants 22 million ADA from Cardano’s treasury to buy tokenized cop
 
 ---
 
-## 7. Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100
+## 13. Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100
 
 **Author:** Omkar Godbole  
 **Published:** 10/23/2026, 3:13:01 AM  
