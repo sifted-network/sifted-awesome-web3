@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-10-23"
 date: "2026-10-23"
 source: "Cointelegraph"
-count: 14
+count: 17
 ---
 
 # Cointelegraph - 2026-10-23
 
-14 items collected.
+17 items collected.
 
 ---
 
-## 1. Bitcoin seeks support above $81K as Brent crude oil hits highest level since March
+## 1. Initia halts blockchain after exploit reportedly drains over $2.6M
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/23/2026, 6:39:02 PM  
+**Categories:** Latest News  
+
+The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.
+
+📖 [Read original article](https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. US senator probes Tether after reported deal with ex-Trump crypto adviser
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/23/2026, 5:42:12 PM  
+**Categories:** Latest News  
+
+The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ardoino for records related to a reported deal between Tether and Nxum.
+
+📖 [Read original article](https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. SEC flags tokenization as high-risk area in 2027 market examinations
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/23/2026, 4:08:40 PM  
+**Categories:** Latest News  
+
+The SEC’s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category.
+
+📖 [Read original article](https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bitcoin seeks support above $81K as Brent crude oil hits highest level since March
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/23/2026, 3:39:17 PM  
@@ -23,7 +59,7 @@ Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest leve
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 5. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/23/2026, 1:38:53 PM  
@@ -35,7 +71,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. China targets 2030 for its national blockchain network buildout
+## 6. China targets 2030 for its national blockchain network buildout
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/23/2026, 1:21:07 PM  
@@ -47,7 +83,7 @@ China’s five-year digital development plan calls for wider blockchain use in t
 
 ---
 
-## 4. New York AG seeks $1.37B from NovaTech founders over Ponzi scheme
+## 7. New York AG seeks $1.37B from NovaTech founders over Ponzi scheme
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/23/2026, 12:33:37 PM  
@@ -59,7 +95,7 @@ The request follows an August 2025 default judgment, with the AG also announcing
 
 ---
 
-## 5. Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness
+## 8. Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/23/2026, 12:23:58 PM  
@@ -71,7 +107,7 @@ Bitcoin price volatility cooled as stock markets battled another day of resurgen
 
 ---
 
-## 6. Was crypto self-custody ever designed for beginners?
+## 9. Was crypto self-custody ever designed for beginners?
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/23/2026, 11:47:47 AM  
@@ -83,7 +119,7 @@ Recent hardware wallet security incidents have renewed debate over whether self-
 
 ---
 
-## 7. Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash
+## 10. Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/23/2026, 10:13:06 AM  
@@ -95,7 +131,7 @@ The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysi
 
 ---
 
-## 8. Bybit secures first full Dubai license for spot trading services
+## 11. Bybit secures first full Dubai license for spot trading services
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/23/2026, 9:50:04 AM  
@@ -107,7 +143,7 @@ Bybit’s new VARA licence authorizes spot trading services in Dubai, but the ex
 
 ---
 
-## 9. HSBC launches Hong Kong dollar stablecoin for retail payments
+## 12. HSBC launches Hong Kong dollar stablecoin for retail payments
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/23/2026, 8:47:34 AM  
@@ -119,7 +155,7 @@ HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokeni
 
 ---
 
-## 10. Malaysia, Thailand join Singapore’s cross-border stablecoin push
+## 13. Malaysia, Thailand join Singapore’s cross-border stablecoin push
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/23/2026, 7:15:53 AM  
@@ -131,7 +167,7 @@ BLOOM seeks to cut costs by helping financial institutions coordinate cross-bord
 
 ---
 
-## 11. Bitcoin ETFs bleed $635M as October slides back into the red
+## 14. Bitcoin ETFs bleed $635M as October slides back into the red
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/23/2026, 7:09:39 AM  
@@ -143,7 +179,7 @@ Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoi
 
 ---
 
-## 12. Ethereum delays Glamsterdam Hoodi testnet launch over security risks
+## 15. Ethereum delays Glamsterdam Hoodi testnet launch over security risks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/23/2026, 5:09:41 AM  
@@ -155,7 +191,7 @@ ChainSecurity said it identified 13 real-world examples of smart contracts poten
 
 ---
 
-## 13. Bitcoin Core changes security policy as AI makes bugs easier to find
+## 16. Bitcoin Core changes security policy as AI makes bugs easier to find
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/23/2026, 4:34:14 AM  
@@ -167,7 +203,7 @@ Bitcoin Core says keeping certain vulnerabilities secret no longer offers much p
 
 ---
 
-## 14. Switzerland’s first retail spot Bitcoin ETF targets November launch
+## 17. Switzerland’s first retail spot Bitcoin ETF targets November launch
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/23/2026, 12:59:35 AM  
