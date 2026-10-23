@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-21"
 date: "2026-10-21"
 source: "The Block"
-count: 7
+count: 6
 ---
 
 # The Block - 2026-10-21
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ Solana activated Alpenglow, replacing TowerBFT and cutting transaction finality 
 Standard Chartered has signed definitive agreements to acquire Zodia Custody, subject to regulatory approval.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535)
-
----
-
-## 7. Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand
-
-**Author:** Jason Shubnell  
-**Published:** 10/21/2026, 12:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Infrastructure, Markets, Token Projects, Dogecoin, Wallets, News  
-
-Dogecoin Labs, backed by the Dogecoin Foundation, unites MyDoge, DogeOS and Such App to push DOGE into payments and DeFi.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469)
 
 ---
