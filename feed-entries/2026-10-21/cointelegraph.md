@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-21"
 date: "2026-10-21"
 source: "Cointelegraph"
-count: 10
+count: 6
 ---
 
 # Cointelegraph - 2026-10-21
 
-10 items collected.
+6 items collected.
 
 ---
 
@@ -80,53 +80,5 @@ The UK Financial Conduct Authority consultations came just weeks after the agenc
 The OCC has finalized rules for stablecoin reserves and redemptions, with Bessent calling the GENIUS Act a “watershed moment for American finance.”
 
 📖 [Read original article](https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 10/21/2026, 4:09:26 PM  
-**Categories:** Latest News  
-
-Six major blockchain organizations urged the SEC to formally recognize digital commodities as non-securities in its proposed regulatory framework.
-
-📖 [Read original article](https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/21/2026, 3:13:17 PM  
-**Categories:** Markets  
-
-Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Solana’s Alpenglow launches on mainnet, targets 99% faster finality
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/21/2026, 1:57:14 PM  
-**Categories:** Latest News  
-
-Solana’s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications.
-
-📖 [Read original article](https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/21/2026, 1:31:39 PM  
-**Categories:** Latest News  
-
-CertiK says crypto trading bots and exchange applications may remain exposed to the eMudhra certificate flaw because browser fixes may not protect all software.
-
-📖 [Read original article](https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
