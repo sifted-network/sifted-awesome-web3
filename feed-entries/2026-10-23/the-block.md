@@ -2,16 +2,52 @@
 title: "The Block - 2026-10-23"
 date: "2026-10-23"
 source: "The Block"
-count: 8
+count: 11
 ---
 
 # The Block - 2026-10-23
 
-8 items collected.
+11 items collected.
 
 ---
 
-## 1. Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits
+## 1. Netanyahu seeking blockchain plan to prepare for possible sanctions
+
+**Author:** Yogita Khatri  
+**Published:** 10/23/2026, 6:15:55 PM  
+**Categories:** Legal, Markets, Policy, Sanctions, News  
+
+Netanyahu says blockchain could help Israel prepare for possible sanctions targeting its banking system.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792)
+
+---
+
+## 2. Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser
+
+**Author:** Sarah Wynn  
+**Published:** 10/23/2026, 5:46:09 PM  
+**Categories:** Congress, Crypto Ecosystems, Markets, Policy, Regulation, Stablecoins, Token Projects, GENIUS Act, Tether, News  
+
+Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785)
+
+---
+
+## 3. Initia halts network after security incident as attacker reportedly mints tokens
+
+**Author:** Kyle Baird  
+**Published:** 10/23/2026, 5:03:56 PM  
+**Categories:** Crypto Ecosystems, DeFi, Markets, Security, Exploits, News  
+
+Onchain data shows a $2.7 million ether transfer as Initia investigates the scope of a security incident.
+
+📖 [Read original article](https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755)
+
+---
+
+## 4. Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits
 
 **Author:** Kyle Baird  
 **Published:** 10/23/2026, 1:00:00 PM  
@@ -23,7 +59,7 @@ Phantom users will fund trades with CASH stablecoins, with market restrictions a
 
 ---
 
-## 2. Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard
+## 5. Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard
 
 **Author:** James Hunt  
 **Published:** 10/23/2026, 12:55:26 PM  
@@ -35,7 +71,7 @@ Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border 
 
 ---
 
-## 3. Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows
+## 6. Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows
 
 **Author:** James Hunt  
 **Published:** 10/23/2026, 11:39:45 AM  
@@ -47,7 +83,7 @@ BlackRock's IBIT led Thursday's net outflows with $254.1 million, while four oth
 
 ---
 
-## 4. New York seeks over $1.3 billion from NovaTech founders after couple fled the US
+## 7. New York seeks over $1.3 billion from NovaTech founders after couple fled the US
 
 **Author:** Brian Danga  
 **Published:** 10/23/2026, 10:12:02 AM  
@@ -59,7 +95,7 @@ New York wants $1.3 billion from NovaTech's founders, whose platform took in $1.
 
 ---
 
-## 5. South Korea to amend forex law to regulate stablecoins as payment instruments: report
+## 8. South Korea to amend forex law to regulate stablecoins as payment instruments: report
 
 **Author:** Danny Park  
 **Published:** 10/23/2026, 9:52:44 AM  
@@ -71,7 +107,7 @@ South Korea is currently developing the Digital Asset Basic Act, which seeks to 
 
 ---
 
-## 6. HSBC rolls out its first HKD stablecoin RedCoin to retail users
+## 9. HSBC rolls out its first HKD stablecoin RedCoin to retail users
 
 **Author:** Timmy Shen  
 **Published:** 10/23/2026, 4:03:09 AM  
@@ -83,7 +119,7 @@ PayMe users will be able to activate a stablecoin wallet in-app in the coming da
 
 ---
 
-## 7. Chainlink partners with LG CNS to drive Korean won stablecoin expansion
+## 10. Chainlink partners with LG CNS to drive Korean won stablecoin expansion
 
 **Author:** Danny Park  
 **Published:** 10/23/2026, 2:48:13 AM  
@@ -95,7 +131,7 @@ LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infr
 
 ---
 
-## 8. Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities
+## 11. Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities
 
 **Author:** Timmy Shen  
 **Published:** 10/23/2026, 2:21:30 AM  
