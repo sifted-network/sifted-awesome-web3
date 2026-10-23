@@ -2,16 +2,52 @@
 title: "The Block - 2026-10-23"
 date: "2026-10-23"
 source: "The Block"
-count: 5
+count: 8
 ---
 
 # The Block - 2026-10-23
 
-5 items collected.
+8 items collected.
 
 ---
 
-## 1. New York seeks over $1.3 billion from NovaTech founders after couple fled the US
+## 1. Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits
+
+**Author:** Kyle Baird  
+**Published:** 10/23/2026, 1:00:00 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Deals, DeFi, Infrastructure, Markets, Policy, Regulation, exclusive, Kalshi, Prediction Markets, Wallets, News  
+
+Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652)
+
+---
+
+## 2. Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard
+
+**Author:** James Hunt  
+**Published:** 10/23/2026, 12:55:26 PM  
+**Categories:** Policy, Regulation, News  
+
+Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492)
+
+---
+
+## 3. Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows
+
+**Author:** James Hunt  
+**Published:** 10/23/2026, 11:39:45 AM  
+**Categories:** Crypto Ecosystems, Funds, Layer 1s, Markets, Token Projects, Bitcoin, Bitcoin ETF, News  
+
+BlackRock's IBIT led Thursday's net outflows with $254.1 million, while four other funds also witnessed withdrawals.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483)
+
+---
+
+## 4. New York seeks over $1.3 billion from NovaTech founders after couple fled the US
 
 **Author:** Brian Danga  
 **Published:** 10/23/2026, 10:12:02 AM  
@@ -23,7 +59,7 @@ New York wants $1.3 billion from NovaTech's founders, whose platform took in $1.
 
 ---
 
-## 2. South Korea to amend forex law to regulate stablecoins as payment instruments: report
+## 5. South Korea to amend forex law to regulate stablecoins as payment instruments: report
 
 **Author:** Danny Park  
 **Published:** 10/23/2026, 9:52:44 AM  
@@ -35,7 +71,7 @@ South Korea is currently developing the Digital Asset Basic Act, which seeks to 
 
 ---
 
-## 3. HSBC rolls out its first HKD stablecoin RedCoin to retail users
+## 6. HSBC rolls out its first HKD stablecoin RedCoin to retail users
 
 **Author:** Timmy Shen  
 **Published:** 10/23/2026, 4:03:09 AM  
@@ -47,7 +83,7 @@ PayMe users will be able to activate a stablecoin wallet in-app in the coming da
 
 ---
 
-## 4. Chainlink partners with LG CNS to drive Korean won stablecoin expansion
+## 7. Chainlink partners with LG CNS to drive Korean won stablecoin expansion
 
 **Author:** Danny Park  
 **Published:** 10/23/2026, 2:48:13 AM  
@@ -59,7 +95,7 @@ LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infr
 
 ---
 
-## 5. Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities
+## 8. Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities
 
 **Author:** Timmy Shen  
 **Published:** 10/23/2026, 2:21:30 AM  
