@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-21"
 date: "2026-10-21"
 source: "CoinDesk"
-count: 9
+count: 8
 ---
 
 # CoinDesk - 2026-10-21
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ Dogecoin Labs will combine MyDoge, DogeOS and merchant payment tools as develope
 Your day-ahead look for Oct. 21, 2026
 
 📖 [Read original article](https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades)
-
----
-
-## 9. OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban
-
-**Author:** Jesse Hamilton  
-**Published:** 10/21/2026, 11:00:00 AM  
-**Categories:** Policy, stablecoin yield, News  
-
-The U.S. Office of the Comptroller of the Currency is the first of several federal agencies to finish writing regulations under the act.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban)
 
 ---
