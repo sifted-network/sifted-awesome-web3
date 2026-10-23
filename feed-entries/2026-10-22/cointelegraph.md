@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-22"
 date: "2026-10-22"
 source: "Cointelegraph"
-count: 16
+count: 13
 ---
 
 # Cointelegraph - 2026-10-22
 
-16 items collected.
+13 items collected.
 
 ---
 
@@ -164,41 +164,5 @@ Thailand’s SEC says several asset managers have sought consultations on spot c
 SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC coverage, allowing users to convert funds to stablecoins 24/7.
 
 📖 [Read original article](https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Bitcoin ETF buyers are trend followers, not setters, DWF Labs says
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 10/22/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. The UK needs a workable route to regulated DeFi access
-
-**Author:** Cointelegraph by Katie Harries  
-**Published:** 10/22/2026, 12:00:00 PM  
-**Categories:** Opinion  
-
-The UK’s 2027 crypto rules risk a de facto ban on regulated firms providing access to DeFi, argues Coinbase’s European policy head Katie Harries.
-
-📖 [Read original article](https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/22/2026, 10:53:10 AM  
-**Categories:** Latest News  
-
-CoinDCX said it covered losses caused by a failed transfer process involving compromised wallets and credited all affected user accounts.
-
-📖 [Read original article](https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
