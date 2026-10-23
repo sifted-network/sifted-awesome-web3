@@ -2,16 +2,52 @@
 title: "Cointelegraph - 2026-10-22"
 date: "2026-10-22"
 source: "Cointelegraph"
-count: 20
+count: 23
 ---
 
 # Cointelegraph - 2026-10-22
 
-20 items collected.
+23 items collected.
 
 ---
 
-## 1. Dune launches real-time data feeds covering 200 onchain trading venues
+## 1. Pentagon bans US forces from using military info to bet in prediction markets
+
+**Author:** Cointelegraph by Felix Ng  
+**Published:** 10/22/2026, 11:50:42 PM  
+**Categories:** Latest News  
+
+Hegseth warned that prediction market wagers could expose military operations to adversaries.
+
+📖 [Read original article](https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 10/22/2026, 10:50:22 PM  
+**Categories:** Magazine  
+
+DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s only spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech.
+
+📖 [Read original article](https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/22/2026, 9:39:18 PM  
+**Categories:** Latest News  
+
+According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC.
+
+📖 [Read original article](https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Dune launches real-time data feeds covering 200 onchain trading venues
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/22/2026, 8:36:00 PM  
@@ -23,7 +59,7 @@ The new service aims to bring onchain trading data into institutional financial 
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 5. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/22/2026, 8:09:59 PM  
@@ -35,7 +71,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. Winklevoss PAC moves into Texas Senate race with $81K ad buy
+## 6. Winklevoss PAC moves into Texas Senate race with $81K ad buy
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/22/2026, 7:29:53 PM  
@@ -47,7 +83,7 @@ While crypto-aligned PACs have stepped up spending in Ohio, a committee launched
 
 ---
 
-## 4. Underdog taps zerohash to bring crypto deposits to prediction markets
+## 7. Underdog taps zerohash to bring crypto deposits to prediction markets
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/22/2026, 5:24:49 PM  
@@ -59,7 +95,7 @@ The new funding option, expected to launch later this year, will allow eligible 
 
 ---
 
-## 5. Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition
+## 8. Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/22/2026, 4:50:51 PM  
@@ -71,7 +107,7 @@ According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the i
 
 ---
 
-## 6. Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures
+## 9. Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/22/2026, 4:48:00 PM  
@@ -83,7 +119,7 @@ According to the Central Bank of Ireland, Coinbase Ireland had agreed with the f
 
 ---
 
-## 7. Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower
+## 10. Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/22/2026, 4:20:35 PM  
@@ -95,7 +131,7 @@ Bitcoin extended daily losses to 3% as US stocks came under pressure from Presid
 
 ---
 
-## 8. Fireblocks disputes report of $2.5B Visa acquisition talks
+## 11. Fireblocks disputes report of $2.5B Visa acquisition talks
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/22/2026, 2:41:00 PM  
@@ -107,7 +143,7 @@ Fireblocks told Cointelegraph that reports of a potential $2.5 billion acquisiti
 
 ---
 
-## 9. CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions
+## 12. CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/22/2026, 1:42:34 PM  
@@ -119,7 +155,7 @@ Public miners backed by major TradFi players are coming back online, boosting Bi
 
 ---
 
-## 10. Thailand SEC says several companies eye crypto ETFs, none has applied
+## 13. Thailand SEC says several companies eye crypto ETFs, none has applied
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/22/2026, 1:20:57 PM  
@@ -131,7 +167,7 @@ Thailand’s SEC says several asset managers have sought consultations on spot c
 
 ---
 
-## 11. SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds
+## 14. SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 10/22/2026, 1:13:45 PM  
@@ -143,7 +179,7 @@ SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC cov
 
 ---
 
-## 12. Bitcoin ETF buyers are trend followers, not setters, DWF Labs says
+## 15. Bitcoin ETF buyers are trend followers, not setters, DWF Labs says
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/22/2026, 1:00:00 PM  
@@ -155,7 +191,7 @@ DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements r
 
 ---
 
-## 13. The UK needs a workable route to regulated DeFi access
+## 16. The UK needs a workable route to regulated DeFi access
 
 **Author:** Cointelegraph by Katie Harries  
 **Published:** 10/22/2026, 12:00:00 PM  
@@ -167,7 +203,7 @@ The UK’s 2027 crypto rules risk a de facto ban on regulated firms providing ac
 
 ---
 
-## 14. CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny
+## 17. CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/22/2026, 10:53:10 AM  
@@ -179,7 +215,7 @@ CoinDCX said it covered losses caused by a failed transfer process involving com
 
 ---
 
-## 15. Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls
+## 18. Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/22/2026, 10:38:51 AM  
@@ -191,7 +227,7 @@ Bitcoin reversed a run toward $85,000 after Tesla reported lower-than-expected c
 
 ---
 
-## 16. Starknet voters back research into life beyond Ethereum
+## 19. Starknet voters back research into life beyond Ethereum
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/22/2026, 9:37:54 AM  
@@ -203,7 +239,7 @@ StarkWare plans to release a draft whitepaper in November as it explores an inde
 
 ---
 
-## 17. PHP flaw draws millions of exploit attempts, Cloudflare CEO warns
+## 20. PHP flaw draws millions of exploit attempts, Cloudflare CEO warns
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/22/2026, 9:06:02 AM  
@@ -215,7 +251,7 @@ Cloudflare’s Matthew Prince said the network saw thousands of exploit attempts
 
 ---
 
-## 18. Bitcoin ETFs bag another $528M, taking 3-day haul past $1B
+## 21. Bitcoin ETFs bag another $528M, taking 3-day haul past $1B
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/22/2026, 7:37:32 AM  
@@ -227,7 +263,7 @@ US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push Octo
 
 ---
 
-## 19. Move over memecoins: Crypto ‘meme games’ coming, bagholders and all
+## 22. Move over memecoins: Crypto ‘meme games’ coming, bagholders and all
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/22/2026, 5:35:38 AM  
@@ -239,7 +275,7 @@ US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push Octo
 
 ---
 
-## 20. PHP Foundation admits ‘structural failure’ delayed critical security fix
+## 23. PHP Foundation admits ‘structural failure’ delayed critical security fix
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/22/2026, 12:44:00 AM  
