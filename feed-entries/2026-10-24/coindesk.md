@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-10-24"
 date: "2026-10-24"
 source: "CoinDesk"
-count: 6
+count: 9
 ---
 
 # CoinDesk - 2026-10-24
 
-6 items collected.
+9 items collected.
 
 ---
 
-## 1. Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker
+## 1. Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends
+
+**Author:** Will Canny,AI Boost  
+**Published:** 10/24/2026, 4:00:00 PM  
+**Categories:** Finance, Bitcoin News, MicroStrategy, Exclusive, News  
+
+The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends)
+
+---
+
+## 2. Block's new voice AI sounds eerily human, sparking awe and scam fears
+
+**Author:** Francisco Rodrigues  
+**Published:** 10/24/2026, 3:21:06 PM  
+**Categories:** Tech, Artificial Intelligence, News  
+
+Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears)
+
+---
+
+## 3. Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations
+
+**Author:** Stephen Alpher  
+**Published:** 10/24/2026, 3:11:24 PM  
+**Categories:** Markets, News  
+
+Bitcoin has sunk to its weakest level in more than one month.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations)
+
+---
+
+## 4. Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker
 
 **Author:** Krisztian Sandor  
 **Published:** 10/24/2026, 3:00:00 PM  
@@ -23,7 +59,7 @@ Some of the world's biggest companies objected to being listed on the first toke
 
 ---
 
-## 2. Argentina drops criminal probe into President Milei over crashed memecoin LIBRA
+## 5. Argentina drops criminal probe into President Milei over crashed memecoin LIBRA
 
 **Author:** Francisco Rodrigues  
 **Published:** 10/24/2026, 2:38:47 PM  
@@ -35,7 +71,7 @@ The judge found that Milei's promotion of LIBRA did not constitute fraud, despit
 
 ---
 
-## 3. Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan
+## 6. Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan
 
 **Author:** Krisztian Sandor  
 **Published:** 10/24/2026, 2:06:24 PM  
@@ -47,7 +83,7 @@ Six more companies have objected to listing tokenized versions of their stock on
 
 ---
 
-## 4. Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO
+## 7. Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO
 
 **Author:** Will Canny,AI Boost  
 **Published:** 10/24/2026, 2:00:00 PM  
@@ -55,11 +91,11 @@ Six more companies have objected to listing tokenized versions of their stock on
 
 Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.
 
-📖 [Read original article](https://www.coindesk.com/)
+📖 [Read original article](https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo)
 
 ---
 
-## 5. U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO
+## 8. U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO
 
 **Author:** Olivier Acuna  
 **Published:** 10/24/2026, 12:00:00 PM  
@@ -71,7 +107,7 @@ Apex Group CEO Peter Hughes warned that the failure of the U.S. Clarity Act will
 
 ---
 
-## 6. Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet
+## 9. Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet
 
 **Author:** Shaurya Malwa  
 **Published:** 10/24/2026, 4:45:43 AM  
