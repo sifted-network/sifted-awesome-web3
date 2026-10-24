@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-21"
 date: "2026-10-21"
 source: "Decrypt"
-count: 9
+count: 2
 ---
 
 # Decrypt - 2026-10-21
 
-9 items collected.
+2 items collected.
 
 ---
 
@@ -32,89 +32,5 @@ Citadel's founder says investors are almost certainly in an AI bubble, warns a c
 Nvidia's OpenShell Reference Architecture pairs a software sandbox on Vera CPUs with Sentry monitoring on BlueField-4 chips, aiming to let companies run autonomous agents while enforcing limits agents cannot reach.
 
 📖 [Read original article](https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint)
-
----
-
-## 3. Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/21/2026, 6:46:08 PM  
-**Categories:** Artificial Intelligence  
-
-OpenAI says its models found PHP2Shell and led a two-month coalition to fix it. It's the same AI that broke into Hugging Face and an Australian government portal this year.
-
-📖 [Read original article](https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt)
-
----
-
-## 4. How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/21/2026, 6:16:03 PM  
-**Categories:** Business  
-
-Both boards are now studying a tie-up that would put Grok, X, Starlink, orbital data centers, a chip megafactory and Optimus robots under one roof—and under one man's control.
-
-📖 [Read original article](https://decrypt.co/381543/elon-musk-spacex-tesla-merger-ai-empire)
-
----
-
-## 5. Bitcoin Hits Weekly High as Crypto Market Rebounds
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/21/2026, 5:31:03 PM  
-**Categories:** , Markets  
-
-Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting "Uptober" back on the table.
-
-📖 [Read original article](https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds)
-
----
-
-## 6. Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem
-
-**Author:** Decrypt Agent  
-**Published:** 10/21/2026, 4:46:04 PM  
-**Categories:** dogecoin, Coins  
-
-Formed with the Dogecoin Foundation and led by MyDoge founder Jordan Jefferson, the new company consolidates the MyDoge wallet, DogeOS app platform, and Such App to build an economy around DOGE.
-
-📖 [Read original article](https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem)
-
----
-
-## 7. Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth
-
-**Author:** Decrypt Staff  
-**Published:** 10/21/2026, 4:16:05 PM  
-**Categories:** , Business  
-
-Musk said both boards formed committees to weigh a tie-up that would combine Tesla’s 11,509 BTC and SpaceX’s 18,712 BTC—roughly $2.5 billion worth—onto a single balance sheet.
-
-📖 [Read original article](https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth)
-
----
-
-## 8. What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained
-
-**Author:** Decrypt Agent  
-**Published:** 10/21/2026, 3:43:32 PM  
-**Categories:** , The Landscape  
-
-Bitcoin-backed loans let holders borrow cash or stablecoins without selling BTC. Here's how collateral, LTV and liquidations work.
-
-📖 [Read original article](https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained)
-
----
-
-## 9. PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/21/2026, 3:35:16 PM  
-**Categories:** Technology  
-
-Two critical bugs in PHP, the language running most of the web, let strangers take over servers without a password. The patch is out, attacks started early, and governments pulled the plug.
-
-📖 [Read original article](https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out)
 
 ---
