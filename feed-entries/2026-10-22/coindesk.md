@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-22"
 date: "2026-10-22"
 source: "CoinDesk"
-count: 6
+count: 3
 ---
 
 # CoinDesk - 2026-10-22
 
-6 items collected.
+3 items collected.
 
 ---
 
@@ -44,41 +44,5 @@ The venture investor behind early bets on Coinbase, Solana and Uniswap said is b
 When Silvergate was on the verge of collapse in 2023, Coinbase instructed 30 customers to deposit funds into an alternate account held by Coinbase at another U.S. bank.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures)
-
----
-
-## 4. Crypto for Advisors: Stablecoins are ready for prime time
-
-**Author:** Prashant Kher  
-**Published:** 10/22/2026, 2:58:31 PM  
-**Categories:** CoinDesk Indices, Crypto for Advisors, News  
-
-
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time)
-
----
-
-## 5. Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa
-
-**Author:** Ian Allison  
-**Published:** 10/22/2026, 2:37:12 PM  
-**Categories:** Finance, mergers and acquisitions, Custody, News  
-
-The company is in talks with Visa over a potential $2.5 billion acquisition, Axios reported.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa)
-
----
-
-## 6. Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence
-
-**Author:** Jesse Hamilton  
-**Published:** 10/22/2026, 1:00:00 PM  
-**Categories:** News Analysis, Election 2026, Donald Trump, News  
-
-Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy seats in Congress.
-
-📖 [Read original article](https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence)
 
 ---
