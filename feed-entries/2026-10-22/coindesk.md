@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-22"
 date: "2026-10-22"
 source: "CoinDesk"
-count: 12
+count: 11
 ---
 
 # CoinDesk - 2026-10-22
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ The pre-IPO Jio contract on Bitget is trading near $12, a roughly 4% premium on 
 The Nasdaq is down more than 2% as the AI bull market trade continues to unwind. U.S. interest rates are plunging even as oil surges.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides)
-
----
-
-## 12. Asian stocks tumble, bitcoin retreats as China enters bear market
-
-**Author:** James Van Straten  
-**Published:** 10/22/2026, 8:49:08 AM  
-**Categories:** Markets, Bitcoin News, Markets, News  
-
-Technology shares led regional losses as mixed U.S. earnings unsettled investors and Brent crude climbed above $112 a barrel.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market)
 
 ---
