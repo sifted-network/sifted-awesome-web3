@@ -6,8 +6,8 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,549 | 2,288 | Rust | 13 | A based rollup protocol for Ethereum🥁  | 2026-10-21 |
-| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,064 | 766 | Rust | 637 | The Stacks blockchain implementation | 2026-10-22 |
+| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,548 | 2,288 | Rust | 13 | A based rollup protocol for Ethereum🥁  | 2026-10-21 |
+| 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,064 | 766 | Rust | 637 | The Stacks blockchain implementation | 2026-10-23 |
 | 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,551 | 332 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
 | 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,018 | 612 | - | 1895 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
 | 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 895 | 111 | - | 4 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-10-12 |
@@ -15,7 +15,7 @@
 | 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 614 | 61 | JavaScript | 16 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-10-19 |
 | 8 | [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) | 488 | 143 | C | 7 | Open source MAC Telnet client and server for connecting to Mikrotik RouterOS routers and Posix devices using MAC addresses | 2025-09-21 |
 | 9 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 467 | 52 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2026-09-23 |
-| 10 | [juno](https://github.com/NethermindEth/juno) | 445 | 252 | Go | 27 | Starknet full node designed for peak concurrency and efficiency | 2026-10-22 |
+| 10 | [juno](https://github.com/NethermindEth/juno) | 445 | 252 | Go | 27 | Starknet full node designed for peak concurrency and efficiency | 2026-10-23 |
 | 11 | [db3](https://github.com/dbpunk-labs/db3) | 385 | 43 | Rust | 18 |  a Lightweight, Permanent JSON document database | 2024-07-29 |
 | 12 | [ChainX](https://github.com/chainx-org/ChainX) | 326 | 119 | Rust | 1 | Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM  | 2025-12-18 |
 | 13 | [blockchain-roadmap](https://github.com/itublockchain/blockchain-roadmap) | 279 | 39 | - | 0 | Blockchain öğrenme yolculuğunuz için yol haritası | 2024-10-13 |
@@ -35,9 +35,9 @@
 | 27 | [solid-grinder](https://github.com/Ratimon/solid-grinder) | 99 | 9 | Solidity | 0 | A 100% opensource CLI that goes along with building blocks of smart contract. This toolbox can reduce L2 gas cost by encoding calldata for dApps development to use as little bytes of calldata as possi... | 2025-02-08 |
 | 28 | [NFT-yield-farming](https://github.com/masaun/NFT-yield-farming) | 96 | 81 | JavaScript | 1 | This is a smart contract that enable a user to farm yield by staking LP tokens into a NFT pool. (on BSC testnet) | 2021-03-02 |
 | 29 | [OB_ReturnCabin](https://github.com/Orbiter-Finance/OB_ReturnCabin) | 91 | 35 | Solidity | 1 | Orbiter Finance smart contracts | 2024-11-05 |
-| 30 | [getmac](https://github.com/GhostofGoes/getmac) | 90 | 28 | Python | 16 | Platform-independent pure-Python module to get a MAC address | 2026-10-22 |
+| 30 | [getmac](https://github.com/GhostofGoes/getmac) | 90 | 28 | Python | 16 | Platform-independent pure-Python module to get a MAC address | 2026-10-24 |
 | 31 | [godwoken](https://github.com/godwokenrises/godwoken) | 84 | 38 | Rust | 1 | Godwoken is an optimistic rollup solution built on Nervos CKB. | 2026-10-20 |
-| 32 | [kleros-v2](https://github.com/kleros/kleros-v2) | 82 | 58 | TypeScript | 117 | Kleros arbitration protocol version 2 | 2026-10-21 |
+| 32 | [kleros-v2](https://github.com/kleros/kleros-v2) | 82 | 59 | TypeScript | 111 | Kleros arbitration protocol version 2 | 2026-10-23 |
 | 33 | [Layer2-Pivoting-Client](https://github.com/rsmudge/Layer2-Pivoting-Client) | 77 | 35 | C | 0 | A simple client to demonstrate Layer-2 pivoting. Compatible with the simpletun.c server written by Davide Brini. | 2014-10-15 |
 | 34 | [layer2](https://github.com/the-web3/layer2) | 75 | 25 | - | 0 | 最全面的 Layer2 资料汇总 | 2024-09-04 |
 | 35 | [Tiramisu](https://github.com/dharma-eng/Tiramisu) | 74 | 2 | TypeScript | 0 | Tiramisu is a "Layer Two" system for scalable token transfers that prioritizes simplicity. | 2023-02-03 |
