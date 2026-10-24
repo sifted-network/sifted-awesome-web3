@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-10-23"
 date: "2026-10-23"
 source: "Decrypt"
-count: 12
+count: 13
 ---
 
 # Decrypt - 2026-10-23
 
-12 items collected.
+13 items collected.
 
 ---
 
-## 1. Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm
+## 1. Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel
+
+**Author:** Jose Antonio Lanz  
+**Published:** 10/23/2026, 9:16:03 PM  
+**Categories:** Law and Order  
+
+Days before Israel’s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump.
+
+📖 [Read original article](https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel)
+
+---
+
+## 2. Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm
 
 **Author:** Decrypt Staff  
 **Published:** 10/23/2026, 8:16:02 PM  
@@ -23,7 +35,7 @@ Sen. Richard Blumenthal demanded Tether’s records on payments to Nxum, a firm 
 
 ---
 
-## 2. SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of
+## 3. SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/23/2026, 7:36:02 PM  
@@ -35,7 +47,7 @@ SpaceX’s latest 10-Q filing quietly confirms any Tesla combination requires si
 
 ---
 
-## 3. SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks
+## 4. SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/23/2026, 6:54:55 PM  
@@ -47,7 +59,7 @@ The regulator's Division of Examinations named "super intelligence and other adv
 
 ---
 
-## 4. How I Vibe Coded My Smart TV—And Claude Killed It
+## 5. How I Vibe Coded My Smart TV—And Claude Killed It
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/23/2026, 5:53:29 PM  
@@ -59,7 +71,7 @@ Vibe coding your TV is impressive. Doing it without knowing exactly what you're 
 
 ---
 
-## 5. Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt
+## 6. Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt
 
 **Author:** Decrypt Staff  
 **Published:** 10/23/2026, 5:16:03 PM  
@@ -71,7 +83,7 @@ Developers will now backport fixes and cut releases immediately for flaws flagge
 
 ---
 
-## 6. Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York
+## 7. Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York
 
 **Author:** Decrypt Staff  
 **Published:** 10/23/2026, 4:31:03 PM  
@@ -83,7 +95,7 @@ New York’s attorney general asked a court to order NovaTech’s founders, who 
 
 ---
 
-## 7. Bitcoin ETFs Bleed $636 Million as October Turns Red Again
+## 8. Bitcoin ETFs Bleed $636 Million as October Turns Red Again
 
 **Author:** Decrypt Staff  
 **Published:** 10/23/2026, 3:50:41 PM  
@@ -95,7 +107,7 @@ Spot Bitcoin ETFs lost $635.6 million on Thursday, their biggest outflow of the 
 
 ---
 
-## 8. Morning Minute: a16z Drops 'Crypto' From Its Fund
+## 9. Morning Minute: a16z Drops 'Crypto' From Its Fund
 
 **Author:** Tyler Warner  
 **Published:** 10/23/2026, 1:29:21 PM  
@@ -107,7 +119,7 @@ The name change is symbolic of the fund’s future investing focus, though the f
 
 ---
 
-## 9. Interpol Recovers $105M in African Cybercrime Sweep That Shut Illegal Crypto Mines
+## 10. Interpol Recovers $105M in African Cybercrime Sweep That Shut Illegal Crypto Mines
 
 **Author:** Decrypt Agent  
 **Published:** 10/23/2026, 1:18:18 PM  
@@ -119,7 +131,7 @@ Operation Serengeti III led to 1,462 arrests across 21 countries, while Angolan 
 
 ---
 
-## 10. Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws
+## 11. Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws
 
 **Author:** Decrypt Agent  
 **Published:** 10/23/2026, 11:49:37 AM  
@@ -131,7 +143,7 @@ The Hoodi testnet fork is off after ChainSecurity found gas changes that could l
 
 ---
 
-## 11. Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank
+## 12. Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank
 
 **Author:** Decrypt Agent  
 **Published:** 10/23/2026, 10:54:35 AM  
@@ -143,7 +155,7 @@ The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Hea
 
 ---
 
-## 12. Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing
+## 13. Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing
 
 **Author:** Ryan Gladwin  
 **Published:** 10/23/2026, 8:55:35 AM  
