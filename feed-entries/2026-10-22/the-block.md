@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-22"
 date: "2026-10-22"
 source: "The Block"
-count: 8
+count: 6
 ---
 
 # The Block - 2026-10-22
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ Fireblocks denied an Axios report that Visa is in talks to acquire the crypto cu
 The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889)
-
----
-
-## 7. SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users
-
-**Author:** James Hunt  
-**Published:** 10/22/2026, 12:00:00 PM  
-**Categories:** Companies, News  
-
-SoFi has launched SOFIE, a tokenized deposit offering 4.4% APY and FDIC insurance, with the option to convert to SoFiUSD.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916)
-
----
-
-## 8. Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak
-
-**Author:** Brian Danga  
-**Published:** 10/22/2026, 9:56:16 AM  
-**Categories:** Crypto Ecosystems, Funds, Layer 1s, Markets, Token Projects, Bitcoin, Bitcoin ETF, News  
-
-Spot bitcoin ETFs attracted $528 million on Wednesday as BlackRock and Fidelity led a recovery in institutional demand.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904)
 
 ---
