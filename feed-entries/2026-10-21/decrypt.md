@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-21"
 date: "2026-10-21"
 source: "Decrypt"
-count: 14
+count: 13
 ---
 
 # Decrypt - 2026-10-21
 
-14 items collected.
+13 items collected.
 
 ---
 
@@ -164,17 +164,5 @@ The bank has Bitcoin outperforming all asset classes spanning real estate, stock
 The rule sets reserve, redemption and risk standards for issuers, but the OCC has yet to say when it will begin accepting applications.
 
 📖 [Read original article](https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline)
-
----
-
-## 14. 'Mentality Issue': PlayStation Founder Waves Away Disc Ownership Anger
-
-**Author:** Ryan Gladwin  
-**Published:** 10/21/2026, 11:19:34 AM  
-**Categories:** Gaming  
-
-PlayStation founder Ken Kutaragi pushed back against anger at Sony's decision to stop producing physical game discs.
-
-📖 [Read original article](https://decrypt.co/381483/mentality-issue-playstation-founder-waves-away-disc-ownership-anger)
 
 ---
