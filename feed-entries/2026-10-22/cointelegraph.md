@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-22"
 date: "2026-10-22"
 source: "Cointelegraph"
-count: 13
+count: 11
 ---
 
 # Cointelegraph - 2026-10-22
 
-13 items collected.
+11 items collected.
 
 ---
 
@@ -140,29 +140,5 @@ Fireblocks told Cointelegraph that reports of a potential $2.5 billion acquisiti
 Public miners backed by major TradFi players are coming back online, boosting Bitcoin’s hashrate, a positive sign for BTC’s fundamentals, according to CryptoQuant’s Ki Young Ju.
 
 📖 [Read original article](https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Thailand SEC says several companies eye crypto ETFs, none has applied
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/22/2026, 1:20:57 PM  
-**Categories:** Latest News  
-
-Thailand’s SEC says several asset managers have sought consultations on spot crypto ETFs, but it cannot confirm whether the first funds will launch in 2026.
-
-📖 [Read original article](https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds
-
-**Author:** Cointelegraph by Robert Lakin  
-**Published:** 10/22/2026, 1:13:45 PM  
-**Categories:** Latest News  
-
-SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC coverage, allowing users to convert funds to stablecoins 24/7.
-
-📖 [Read original article](https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
