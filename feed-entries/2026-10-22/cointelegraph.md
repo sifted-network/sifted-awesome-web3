@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-22"
 date: "2026-10-22"
 source: "Cointelegraph"
-count: 11
+count: 9
 ---
 
 # Cointelegraph - 2026-10-22
 
-11 items collected.
+9 items collected.
 
 ---
 
@@ -116,29 +116,5 @@ According to the Central Bank of Ireland, Coinbase Ireland had agreed with the f
 Bitcoin extended daily losses to 3% as US stocks came under pressure from President Donald Trump’s comments on Iran military action.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Fireblocks disputes report of $2.5B Visa acquisition talks
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 10/22/2026, 2:41:00 PM  
-**Categories:** Latest News  
-
-Fireblocks told Cointelegraph that reports of a potential $2.5 billion acquisition by Visa are “not true at present time,” while Visa declined to comment on the reported talks.
-
-📖 [Read original article](https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/22/2026, 1:42:34 PM  
-**Categories:** Markets  
-
-Public miners backed by major TradFi players are coming back online, boosting Bitcoin’s hashrate, a positive sign for BTC’s fundamentals, according to CryptoQuant’s Ki Young Ju.
-
-📖 [Read original article](https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
