@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-10-25"
 date: "2026-10-25"
 source: "Decrypt"
-count: 1
+count: 2
 ---
 
 # Decrypt - 2026-10-25
 
-1 items collected.
+2 items collected.
 
 ---
 
-## 1. Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide
+## 1. Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks
+
+**Author:** Decrypt Staff  
+**Published:** 10/25/2026, 4:01:03 PM  
+**Categories:** , , Business  
+
+Twenty-two companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, after Wells Fargo, Cisco, Marvell, Arm, Moderna. and Intuit joined the list.
+
+📖 [Read original article](https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks)
+
+---
+
+## 2. Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide
 
 **Author:** Decrypt Staff  
 **Published:** 10/25/2026, 2:01:03 PM  
