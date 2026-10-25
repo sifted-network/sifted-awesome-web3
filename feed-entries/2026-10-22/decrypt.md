@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-22"
 date: "2026-10-22"
 source: "Decrypt"
-count: 14
+count: 13
 ---
 
 # Decrypt - 2026-10-22
 
-14 items collected.
+13 items collected.
 
 ---
 
@@ -164,17 +164,5 @@ Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with F
 Police say a car-rental firm near Milan was an underground bank for 'Ndrangheta and Camorra figures, moving money abroad and into crypto.
 
 📖 [Read original article](https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m)
-
----
-
-## 14. Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case
-
-**Author:** Decrypt Agent  
-**Published:** 10/22/2026, 10:09:42 AM  
-**Categories:** , Law and Order  
-
-A Tianjin court will hear the application after a six-month notice period, while a parallel fight over the same coins continues in London.
-
-📖 [Read original article](https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case)
 
 ---
