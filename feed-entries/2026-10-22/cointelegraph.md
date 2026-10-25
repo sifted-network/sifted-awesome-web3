@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-22"
 date: "2026-10-22"
 source: "Cointelegraph"
-count: 9
+count: 4
 ---
 
 # Cointelegraph - 2026-10-22
 
-9 items collected.
+4 items collected.
 
 ---
 
@@ -56,65 +56,5 @@ According to a Circle shareholder, the US president’s “corruption” through
 The new service aims to bring onchain trading data into institutional financial systems as tokenized stock markets expand and face growing scrutiny.
 
 📖 [Read original article](https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Winklevoss PAC moves into Texas Senate race with $81K ad buy
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 10/22/2026, 7:29:53 PM  
-**Categories:** Latest News  
-
-While crypto-aligned PACs have stepped up spending in Ohio, a committee launched by the co-founders of crypto exchange Gemini made one of its first forays into the Lone Star State.
-
-📖 [Read original article](https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Underdog taps zerohash to bring crypto deposits to prediction markets
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 10/22/2026, 5:24:49 PM  
-**Categories:** Latest News  
-
-The new funding option, expected to launch later this year, will allow eligible Underdog users to deposit digital assets around the clock.
-
-📖 [Read original article](https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 10/22/2026, 4:50:51 PM  
-**Categories:** Latest News  
-
-According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the industry’s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors.
-
-📖 [Read original article](https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures
-
-**Author:** Cointelegraph by Turner Wright  
-**Published:** 10/22/2026, 4:48:00 PM  
-**Categories:** Latest News  
-
-According to the Central Bank of Ireland, Coinbase Ireland had agreed with the facts around the enforcement action and will be subject to fines and sanctions upon approval by a high court.
-
-📖 [Read original article](https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/22/2026, 4:20:35 PM  
-**Categories:** Markets  
-
-Bitcoin extended daily losses to 3% as US stocks came under pressure from President Donald Trump’s comments on Iran military action.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
