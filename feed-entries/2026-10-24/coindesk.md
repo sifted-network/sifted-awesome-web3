@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-24"
 date: "2026-10-24"
 source: "CoinDesk"
-count: 9
+count: 7
 ---
 
 # CoinDesk - 2026-10-24
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ Six more companies have objected to listing tokenized versions of their stock on
 Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo)
-
----
-
-## 8. U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO
-
-**Author:** Olivier Acuna  
-**Published:** 10/24/2026, 12:00:00 PM  
-**Categories:** Policy, Clarity Act, Regulation, Tokenization, News  
-
-Apex Group CEO Peter Hughes warned that the failure of the U.S. Clarity Act will drive digital asset businesses toward faster-moving jurisdictions in Asia and the Middle East.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo)
-
----
-
-## 9. Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet
-
-**Author:** Shaurya Malwa  
-**Published:** 10/24/2026, 4:45:43 AM  
-**Categories:** Markets, News  
-
-Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet)
 
 ---
