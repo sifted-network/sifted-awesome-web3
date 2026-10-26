@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-23"
 date: "2026-10-23"
 source: "The Block"
-count: 11
+count: 10
 ---
 
 # The Block - 2026-10-23
 
-11 items collected.
+10 items collected.
 
 ---
 
@@ -128,17 +128,5 @@ PayMe users will be able to activate a stablecoin wallet in-app in the coming da
 LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infrastructure into its digital asset platform.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993)
-
----
-
-## 11. Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities
-
-**Author:** Timmy Shen  
-**Published:** 10/23/2026, 2:21:30 AM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Layer 1s, Markets, Metaverse & NFT, People, People, People, People, People, People, Policy, Token Projects, Bitcoin, Ethereum, News  
-
-The Wall Street sell-off extended to Asian equities on Friday morning, with South Korea's Kospi down 2.3% and Japan's Nikkei 225 down 1.6%.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990)
 
 ---
