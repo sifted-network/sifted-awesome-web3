@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-10-25"
 date: "2026-10-25"
 source: "Cointelegraph"
-count: 2
+count: 3
 ---
 
 # Cointelegraph - 2026-10-25
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. ECB official sees digital euro as key to protecting EU ‘sovereignty’
+## 1. AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 10/25/2026, 10:48:40 PM  
+**Categories:** Magazine  
+
+Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. ‘Steal My Bitcoin’ site successfully hacked.
+
+📖 [Read original article](https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. ECB official sees digital euro as key to protecting EU ‘sovereignty’
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 10/25/2026, 3:11:00 PM  
@@ -23,7 +35,7 @@ Piero Cipollone said the bloc is on track to test real transactions in 2027 and 
 
 ---
 
-## 2. Netanyahu floats use of blockchain as solution to potential financial sanctions
+## 3. Netanyahu floats use of blockchain as solution to potential financial sanctions
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 10/25/2026, 11:42:00 AM  
