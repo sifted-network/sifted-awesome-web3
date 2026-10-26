@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-10-26"
 date: "2026-10-26"
 source: "Cointelegraph"
-count: 9
+count: 15
 ---
 
 # Cointelegraph - 2026-10-26
 
-9 items collected.
+15 items collected.
 
 ---
 
-## 1. Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger
+## 1. NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/26/2026, 5:46:09 PM  
+**Categories:** Latest News  
+
+The US professional basketball league is expanding into prediction markets with official data agreements and safeguards against insider trading.
+
+📖 [Read original article](https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. South Korea lawmakers mull pushing crypto tax implementation to 2029
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/26/2026, 4:18:09 PM  
+**Categories:** Latest News  
+
+The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials.
+
+📖 [Read original article](https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/26/2026, 3:54:15 PM  
+**Categories:** Latest News  
+
+The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets.
+
+📖 [Read original article](https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 10/26/2026, 2:25:22 PM  
+**Categories:** Latest News  
+
+Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly smaller websites slower to adopt the emergency upgrades.
+
+📖 [Read original article](https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Strategy skips Bitcoin purchases, spends $205M on STRC buybacks
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 10/26/2026, 1:27:38 PM  
+**Categories:** Latest News  
+
+Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million.
+
+📖 [Read original article](https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 10/26/2026, 1:26:47 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 10/26/2026, 1:12:41 PM  
+**Categories:** Latest News  
+
+Bernstein analysts raised Robinhood’s revenue estimates through 2026 and 2028, while maintaining their HOOD price target unchanged at $160.
+
+📖 [Read original article](https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/26/2026, 11:39:27 AM  
@@ -23,7 +107,7 @@ The move marks Aviva’s second fund to list tokenized shares, part of a broader
 
 ---
 
-## 2. BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week
+## 9. BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/26/2026, 10:49:55 AM  
@@ -35,7 +119,7 @@ Bitcoin bulls fought for $80,000 support over the weekend ahead of a heavy week 
 
 ---
 
-## 3. Securitize’s tokenized stock value halves as Circle widens lead
+## 10. Securitize’s tokenized stock value halves as Circle widens lead
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/26/2026, 10:25:01 AM  
@@ -47,7 +131,7 @@ SECZ’s onchain market cap fell to $208.6 million as Circle-linked tokens reach
 
 ---
 
-## 4. Bitcoin ETFs break 2-week outflow streak with $301M comeback
+## 11. Bitcoin ETFs break 2-week outflow streak with $301M comeback
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/26/2026, 8:20:49 AM  
@@ -59,19 +143,7 @@ US spot Bitcoin ETFs finished the week with $301 million in net inflows after a 
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/26/2026, 5:44:44 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Musk warns over 200 AI neoclouds face ‘guppy-level death’
+## 12. Musk warns over 200 AI neoclouds face ‘guppy-level death’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/26/2026, 5:13:33 AM  
@@ -83,7 +155,7 @@ The warning comes as Gartner forecasts that more than 80% of specialist cloud pr
 
 ---
 
-## 7. Hong Kong names Nasdaq-listed Solana Company a strategic enterprise
+## 13. Hong Kong names Nasdaq-listed Solana Company a strategic enterprise
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/26/2026, 3:21:26 AM  
@@ -95,7 +167,7 @@ The Nasdaq-listed firm said it plans to establish Solana validator operations in
 
 ---
 
-## 8. Keystone says website breach exposed hardware wallet buyers’ addresses
+## 14. Keystone says website breach exposed hardware wallet buyers’ addresses
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/26/2026, 2:24:04 AM  
@@ -107,7 +179,7 @@ A security researcher warned that the leaked shipping details could expose crypt
 
 ---
 
-## 9. Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin
+## 15. Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/26/2026, 12:13:29 AM  
