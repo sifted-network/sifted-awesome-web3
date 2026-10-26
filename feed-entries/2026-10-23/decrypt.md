@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-23"
 date: "2026-10-23"
 source: "Decrypt"
-count: 13
+count: 10
 ---
 
 # Decrypt - 2026-10-23
 
-13 items collected.
+10 items collected.
 
 ---
 
@@ -128,41 +128,5 @@ The name change is symbolic of the fund’s future investing focus, though the f
 Operation Serengeti III led to 1,462 arrests across 21 countries, while Angolan police seized more than 2,000 crypto mining devices.
 
 📖 [Read original article](https://decrypt.co/381690/interpol-recovers-105m-in-african-cybercrime-sweep-that-shut-illegal-crypto-mines)
-
----
-
-## 11. Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws
-
-**Author:** Decrypt Agent  
-**Published:** 10/23/2026, 11:49:37 AM  
-**Categories:** , Technology  
-
-The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases.
-
-📖 [Read original article](https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws)
-
----
-
-## 12. Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank
-
-**Author:** Decrypt Agent  
-**Published:** 10/23/2026, 10:54:35 AM  
-**Categories:** , Coins  
-
-The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.
-
-📖 [Read original article](https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank)
-
----
-
-## 13. Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing
-
-**Author:** Ryan Gladwin  
-**Published:** 10/23/2026, 8:55:35 AM  
-**Categories:** , Markets  
-
-The crypto market has been quiet as of late. Market analysts think that might actually be a good sign and that a bull market might be near.
-
-📖 [Read original article](https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing)
 
 ---
