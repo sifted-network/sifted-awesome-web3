@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-10-27"
 date: "2026-10-27"
 source: "Cointelegraph"
-count: 14
+count: 20
 ---
 
 # Cointelegraph - 2026-10-27
 
-14 items collected.
+20 items collected.
 
 ---
 
-## 1. Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar
+## 1. VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/27/2026, 9:28:22 PM  
+**Categories:** Latest News  
+
+VanEck’s new Wealth Builder ETF targets a 2% Bitcoin allocation, with a permitted range of 1% to 5%, gaining exposure through a spot Bitcoin ETP.
+
+📖 [Read original article](https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/27/2026, 9:26:41 PM  
+**Categories:** Latest News  
+
+More than 40% of the companies initially proposed to have their stocks listed in tokenized form have asked to opt-out.
+
+📖 [Read original article](https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Quantum fears already limiting Bitcoin’s growth, Stacks founder says
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/27/2026, 8:33:19 PM  
+**Categories:** Latest News  
+
+Speaking on Cointelegraph’s Chain Reaction podcast, Muneeb Ali warned that uncertainty over Bitcoin’s quantum security could deter institutional investors.
+
+📖 [Read original article](https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/27/2026, 7:54:05 PM  
+**Categories:** Latest News  
+
+Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trade finance settlement onto the XRP Ledger.
+
+📖 [Read original article](https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 10/27/2026, 7:36:13 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. CFTC sues Utah to block action against prediction markets
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/27/2026, 7:21:59 PM  
+**Categories:** Latest News  
+
+The US state filed a lawsuit against Kalshi last week, seeking to recover up to $60 million in profits related to event contracts on prediction markets.
+
+📖 [Read original article](https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Majority of Americans want candidates who support US-based financial technology: Poll
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/27/2026, 6:08:00 PM  
+**Categories:** Latest News  
+
+The September survey offered a possible window into US voters who could consider fintech and digital asset policies on Election Day.
+
+📖 [Read original article](https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/27/2026, 4:37:15 PM  
@@ -23,7 +107,7 @@ The blockchain-based fund offers eligible non-US investors exposure to the Nasda
 
 ---
 
-## 2. USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko
+## 9. USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/27/2026, 3:59:58 PM  
@@ -35,7 +119,7 @@ USDC’s share of euro stablecoin trading has climbed to 56% since January 2024,
 
 ---
 
-## 3. Crypto could outperform AI stocks: Wall Street veteran Jordi Visser
+## 10. Crypto could outperform AI stocks: Wall Street veteran Jordi Visser
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/27/2026, 1:30:00 PM  
@@ -47,19 +131,7 @@ Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosti
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 10/27/2026, 1:17:24 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Hayes details FLOP’s AI compute derivatives vision after selling his altcoins
+## 11. Hayes details FLOP’s AI compute derivatives vision after selling his altcoins
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/27/2026, 1:01:10 PM  
@@ -71,7 +143,7 @@ Arthur Hayes revealed the derivatives market design for Flop Network and how he 
 
 ---
 
-## 6. Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence
+## 12. Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/27/2026, 1:01:00 PM  
@@ -83,7 +155,7 @@ Luxor aims to use the proceeds to scale its existing AI infrastructure business 
 
 ---
 
-## 7. Bitcoin price analysis sees ‘strong rally’ as old coins become dormant
+## 13. Bitcoin price analysis sees ‘strong rally’ as old coins become dormant
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/27/2026, 12:18:24 PM  
@@ -95,7 +167,7 @@ A decline in the share of Bitcoin’s realized cap held by coins unmoved for 18 
 
 ---
 
-## 8. Zcash co-founder calls to stop funding ‘over $125M’ grants program
+## 14. Zcash co-founder calls to stop funding ‘over $125M’ grants program
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/27/2026, 10:00:31 AM  
@@ -107,7 +179,7 @@ Sean Bowe says ZCG has enough money to keep funding projects and wants its share
 
 ---
 
-## 9. Bloom bot hackers loot $953K faster than you can microwave popcorn
+## 15. Bloom bot hackers loot $953K faster than you can microwave popcorn
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/27/2026, 9:07:37 AM  
@@ -119,7 +191,7 @@ Bloom pledged to reimburse nine traders after $953,000 was drained from 48 walle
 
 ---
 
-## 10. Binance files for Brazil crypto license ahead of Friday deadline
+## 16. Binance files for Brazil crypto license ahead of Friday deadline
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/27/2026, 8:04:21 AM  
@@ -131,7 +203,7 @@ The exchange is delisting 22 crypto assets for Brazilian users and hopes talks w
 
 ---
 
-## 11. Bitcoin ETFs claw back $110M after $774M exit
+## 17. Bitcoin ETFs claw back $110M after $774M exit
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/27/2026, 7:35:37 AM  
@@ -143,7 +215,7 @@ US spot Bitcoin ETFs remained in the red for October, with about $202 million in
 
 ---
 
-## 12. RedotPay weighs confidential US IPO filing by year-end: Bloomberg
+## 18. RedotPay weighs confidential US IPO filing by year-end: Bloomberg
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/27/2026, 4:26:51 AM  
@@ -155,7 +227,7 @@ The stablecoin payments company previously disputed reports that its US listing 
 
 ---
 
-## 13. Keystone breach deepens: Hackers stole key used to verify wallets as genuine
+## 19. Keystone breach deepens: Hackers stole key used to verify wallets as genuine
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/27/2026, 1:55:03 AM  
@@ -167,7 +239,7 @@ Keystone initially disclosed a leak of customer information but has since disclo
 
 ---
 
-## 14. Ripple wins final US approval for national trust bank
+## 20. Ripple wins final US approval for national trust bank
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/27/2026, 12:06:41 AM  
