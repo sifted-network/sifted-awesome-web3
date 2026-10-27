@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-26"
 date: "2026-10-26"
 source: "The Block"
-count: 11
+count: 8
 ---
 
 # The Block - 2026-10-26
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ Strategy's bitcoin holdings account for roughly 4% of the total supply cap, with
 Strive's latest bitcoin purchase puts it within 1,000 BTC of second-place Metaplanet as it unveils a new $1 billion preferred stock offering program.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729)
-
----
-
-## 9. Galaxy says bitcoin bear market is over; now is the time to buy and hold
-
-**Author:** Brian Danga  
-**Published:** 10/26/2026, 1:00:00 PM  
-**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin, News  
-
-Galaxy said bitcoin’s bear market ended in June as fading long-term holder selling signals an attractive buying opportunity.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-26-galaxy-says-bitcoin-bear-market-is-over-now-is-the-time-to-buy-and-hold-431720)
-
----
-
-## 10. Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger
-
-**Author:** James Hunt  
-**Published:** 10/26/2026, 11:34:12 AM  
-**Categories:** Companies, Crypto Ecosystems, Ripple, News  
-
-Aviva Investors has launched a tokenized share class of its Sterling Liquidity Fund on the Ripple-backed XRP Ledger.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712)
-
----
-
-## 11. South Korea weighs fourth delay of crypto gains tax, eyes 2029 start: report
-
-**Author:** Danny Park  
-**Published:** 10/26/2026, 10:06:02 AM  
-**Categories:** Policy, Regulation, News  
-
-The delay reportedly aims to align with the U.S. schedule of integrating CARF, the OECD's international tax framework for digital assets.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649)
 
 ---
