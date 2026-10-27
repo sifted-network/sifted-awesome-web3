@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-26"
 date: "2026-10-26"
 source: "Cointelegraph"
-count: 19
+count: 18
 ---
 
 # Cointelegraph - 2026-10-26
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -119,19 +119,7 @@ Strategy made no Bitcoin purchases or sales last week, as its STRC preferred sto
 
 ---
 
-## 10. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 10/26/2026, 1:26:47 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein
+## 10. HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/26/2026, 1:12:41 PM  
@@ -143,7 +131,7 @@ Bernstein analysts raised Robinhood’s revenue estimates through 2026 and 2028,
 
 ---
 
-## 12. Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger
+## 11. Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/26/2026, 11:39:27 AM  
@@ -155,7 +143,7 @@ The move marks Aviva’s second fund to list tokenized shares, part of a broader
 
 ---
 
-## 13. BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week
+## 12. BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/26/2026, 10:49:55 AM  
@@ -167,7 +155,7 @@ Bitcoin bulls fought for $80,000 support over the weekend ahead of a heavy week 
 
 ---
 
-## 14. Securitize’s tokenized stock value halves as Circle widens lead
+## 13. Securitize’s tokenized stock value halves as Circle widens lead
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/26/2026, 10:25:01 AM  
@@ -179,7 +167,7 @@ SECZ’s onchain market cap fell to $208.6 million as Circle-linked tokens reach
 
 ---
 
-## 15. Bitcoin ETFs break 2-week outflow streak with $301M comeback
+## 14. Bitcoin ETFs break 2-week outflow streak with $301M comeback
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/26/2026, 8:20:49 AM  
@@ -191,7 +179,7 @@ US spot Bitcoin ETFs finished the week with $301 million in net inflows after a 
 
 ---
 
-## 16. Musk warns over 200 AI neoclouds face ‘guppy-level death’
+## 15. Musk warns over 200 AI neoclouds face ‘guppy-level death’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/26/2026, 5:13:33 AM  
@@ -203,7 +191,7 @@ The warning comes as Gartner forecasts that more than 80% of specialist cloud pr
 
 ---
 
-## 17. Hong Kong names Nasdaq-listed Solana Company a strategic enterprise
+## 16. Hong Kong names Nasdaq-listed Solana Company a strategic enterprise
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/26/2026, 3:21:26 AM  
@@ -215,7 +203,7 @@ The Nasdaq-listed firm said it plans to establish Solana validator operations in
 
 ---
 
-## 18. Keystone says website breach exposed hardware wallet buyers’ addresses
+## 17. Keystone says website breach exposed hardware wallet buyers’ addresses
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/26/2026, 2:24:04 AM  
@@ -227,7 +215,7 @@ A security researcher warned that the leaked shipping details could expose crypt
 
 ---
 
-## 19. Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin
+## 18. Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/26/2026, 12:13:29 AM  
