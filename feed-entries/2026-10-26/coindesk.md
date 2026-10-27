@@ -107,9 +107,9 @@ Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index 
 
 ---
 
-## 9. Live news: Bitcoin sits near $80,000 as tech rallies following Anthropic IPO filing
+## 9. Live news: Bitcoin dips below $80,000 as stocks rally following Anthropic IPO filing
 
-**Author:** James Van Straten,Stephen Alpher  
+**Author:** James Van Straten,Stephen Alpher,Helene Braun  
 **Published:** 10/26/2026, 11:05:31 AM  
 **Categories:** Tech, Live News, live_news  
 
