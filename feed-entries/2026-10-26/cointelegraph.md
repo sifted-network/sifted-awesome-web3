@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-10-26"
 date: "2026-10-26"
 source: "Cointelegraph"
-count: 15
+count: 19
 ---
 
 # Cointelegraph - 2026-10-26
 
-15 items collected.
+19 items collected.
 
 ---
 
-## 1. NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal
+## 1. US OCC calls on community banks to become payment stablecoin issuers
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/26/2026, 9:38:30 PM  
+**Categories:** Latest News  
+
+The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to be implemented in January
+
+📖 [Read original article](https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Injective launches onchain futures market tracking Nvidia GPU rental costs
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/26/2026, 9:23:32 PM  
+**Categories:** Latest News  
+
+The new index tracks rental prices for five Nvidia GPUs, offering leveraged trading and potential hedging against fluctuations in AI computing costs.
+
+📖 [Read original article](https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Canada opens consultation on stablecoins, citing US GENIUS Act
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/26/2026, 7:47:40 PM  
+**Categories:** Latest News  
+
+As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions.
+
+📖 [Read original article](https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. AI company Anthropic announces IPO, expected as early as November
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/26/2026, 6:42:41 PM  
+**Categories:** Latest News  
+
+The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion net loss for the first half of 2026.
+
+📖 [Read original article](https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/26/2026, 5:46:09 PM  
@@ -23,7 +71,7 @@ The US professional basketball league is expanding into prediction markets with 
 
 ---
 
-## 2. South Korea lawmakers mull pushing crypto tax implementation to 2029
+## 6. South Korea lawmakers mull pushing crypto tax implementation to 2029
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/26/2026, 4:18:09 PM  
@@ -35,7 +83,7 @@ The Seoul government is reportedly weighing another delay for a 2020 income tax 
 
 ---
 
-## 3. Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts
+## 7. Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/26/2026, 3:54:15 PM  
@@ -47,7 +95,7 @@ The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms e
 
 ---
 
-## 4. PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO
+## 8. PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/26/2026, 2:25:22 PM  
@@ -59,7 +107,7 @@ Mitchell Amador warned internet users that websites could remain compromised for
 
 ---
 
-## 5. Strategy skips Bitcoin purchases, spends $205M on STRC buybacks
+## 9. Strategy skips Bitcoin purchases, spends $205M on STRC buybacks
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/26/2026, 1:27:38 PM  
@@ -71,7 +119,7 @@ Strategy made no Bitcoin purchases or sales last week, as its STRC preferred sto
 
 ---
 
-## 6. Here’s what happened in crypto today
+## 10. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/26/2026, 1:26:47 PM  
@@ -83,7 +131,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 7. HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein
+## 11. HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/26/2026, 1:12:41 PM  
@@ -95,7 +143,7 @@ Bernstein analysts raised Robinhood’s revenue estimates through 2026 and 2028,
 
 ---
 
-## 8. Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger
+## 12. Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/26/2026, 11:39:27 AM  
@@ -107,7 +155,7 @@ The move marks Aviva’s second fund to list tokenized shares, part of a broader
 
 ---
 
-## 9. BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week
+## 13. BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/26/2026, 10:49:55 AM  
@@ -119,7 +167,7 @@ Bitcoin bulls fought for $80,000 support over the weekend ahead of a heavy week 
 
 ---
 
-## 10. Securitize’s tokenized stock value halves as Circle widens lead
+## 14. Securitize’s tokenized stock value halves as Circle widens lead
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/26/2026, 10:25:01 AM  
@@ -131,7 +179,7 @@ SECZ’s onchain market cap fell to $208.6 million as Circle-linked tokens reach
 
 ---
 
-## 11. Bitcoin ETFs break 2-week outflow streak with $301M comeback
+## 15. Bitcoin ETFs break 2-week outflow streak with $301M comeback
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/26/2026, 8:20:49 AM  
@@ -143,7 +191,7 @@ US spot Bitcoin ETFs finished the week with $301 million in net inflows after a 
 
 ---
 
-## 12. Musk warns over 200 AI neoclouds face ‘guppy-level death’
+## 16. Musk warns over 200 AI neoclouds face ‘guppy-level death’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/26/2026, 5:13:33 AM  
@@ -155,7 +203,7 @@ The warning comes as Gartner forecasts that more than 80% of specialist cloud pr
 
 ---
 
-## 13. Hong Kong names Nasdaq-listed Solana Company a strategic enterprise
+## 17. Hong Kong names Nasdaq-listed Solana Company a strategic enterprise
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/26/2026, 3:21:26 AM  
@@ -167,7 +215,7 @@ The Nasdaq-listed firm said it plans to establish Solana validator operations in
 
 ---
 
-## 14. Keystone says website breach exposed hardware wallet buyers’ addresses
+## 18. Keystone says website breach exposed hardware wallet buyers’ addresses
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/26/2026, 2:24:04 AM  
@@ -179,7 +227,7 @@ A security researcher warned that the leaked shipping details could expose crypt
 
 ---
 
-## 15. Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin
+## 19. Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/26/2026, 12:13:29 AM  
