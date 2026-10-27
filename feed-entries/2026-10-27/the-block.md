@@ -2,16 +2,52 @@
 title: "The Block - 2026-10-27"
 date: "2026-10-27"
 source: "The Block"
-count: 12
+count: 15
 ---
 
 # The Block - 2026-10-27
 
-12 items collected.
+15 items collected.
 
 ---
 
-## 1. Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation
+## 1. Robinhood Chain brings in $26 million as crypto revenue rises 20% in Q3
+
+**Author:** Kyle Baird  
+**Published:** 10/27/2026, 8:55:35 PM  
+**Categories:** Companies, Crypto Ecosystems, Equities, Exchanges, Markets, Public Equities, Web3, Crypto, Earnings, Robinhood, News  
+
+Robinhood’s blockchain boosted crypto revenue, while prediction markets brought in $173 million in the third quarter.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935)
+
+---
+
+## 2. CFTC sues Utah as battle over prediction market regulation intensifies
+
+**Author:** Sarah Wynn  
+**Published:** 10/27/2026, 6:51:46 PM  
+**Categories:** Crypto Ecosystems, DeFi, Policy, Regulation, Prediction Markets, News  
+
+The CFTC is escalating its legal fight with states, suing Utah after the state filed a lawsuit against prediction market platform Kalshi.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922)
+
+---
+
+## 3. Crypto.com and OG.com launch US crypto perps with up to 5x leverage
+
+**Author:** Kyle Baird  
+**Published:** 10/27/2026, 5:07:10 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Markets, Policy, Regulation, CFTC, Derivatives, Perpetuals, News  
+
+The contracts have no expiration date and allow traders to bet on crypto prices rising or falling.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902)
+
+---
+
+## 4. Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation
 
 **Author:** Yogita Khatri  
 **Published:** 10/27/2026, 4:59:10 PM  
@@ -23,7 +59,7 @@ Cancore, a Canton-based trading platform connecting assets on the network with l
 
 ---
 
-## 2. SoFi discloses 503,000 crypto products as gross crypto revenue hits $162 million
+## 5. SoFi discloses 503,000 crypto products as gross crypto revenue hits $162 million
 
 **Author:** Jason Shubnell  
 **Published:** 10/27/2026, 3:35:32 PM  
@@ -35,7 +71,7 @@ SoFi broke out crypto products for the first time. Gross crypto revenue rose 20%
 
 ---
 
-## 3. Ripple, BNY explore using the XRP Ledger to finance approved invoices
+## 6. Ripple, BNY explore using the XRP Ledger to finance approved invoices
 
 **Author:** Brian Danga  
 **Published:** 10/27/2026, 3:01:12 PM  
@@ -47,7 +83,7 @@ BNY adds XRP and RLUSD to its custody platform, as Ripple and C2FO test settling
 
 ---
 
-## 4. Galaxy Digital swings to $323 million quarterly profit, announces new $200 million share buyback
+## 7. Galaxy Digital swings to $323 million quarterly profit, announces new $200 million share buyback
 
 **Author:** James Hunt  
 **Published:** 10/27/2026, 2:39:22 PM  
@@ -59,7 +95,7 @@ Galaxy returned to profitability in the third quarter as trading volumes and len
 
 ---
 
-## 5. Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business
+## 8. Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business
 
 **Author:** Yogita Khatri  
 **Published:** 10/27/2026, 2:32:08 PM  
@@ -71,7 +107,7 @@ The company plans to expand its AI business and hire about 12 people by year-end
 
 ---
 
-## 6. Crypto Market Structure Explained
+## 9. Crypto Market Structure Explained
 
 **Author:** The Block Research  
 **Published:** 10/27/2026, 2:14:08 PM  
@@ -83,7 +119,7 @@ Crypto market structure is the architecture behind digital asset markets. It exp
 
 ---
 
-## 7. Zcash co-founder proposes ending grants subsidy, citing $125 million treasury
+## 10. Zcash co-founder proposes ending grants subsidy, citing $125 million treasury
 
 **Author:** Brian Danga  
 **Published:** 10/27/2026, 12:05:17 PM  
@@ -95,7 +131,7 @@ Zcash co-founder Sean Bowe proposed ending automatic grants funding, citing a tr
 
 ---
 
-## 8. Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower
+## 11. Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower
 
 **Author:** James Hunt  
 **Published:** 10/27/2026, 10:57:34 AM  
@@ -107,7 +143,7 @@ Ark Invest rebalanced its fund weightings, adding Circle shares and trimming its
 
 ---
 
-## 9. Circle faces up to 20% revenue risk from AI agents, Mizuho says
+## 12. Circle faces up to 20% revenue risk from AI agents, Mizuho says
 
 **Author:** Timmy Shen  
 **Published:** 10/27/2026, 6:28:34 AM  
@@ -119,7 +155,7 @@ Mizuho cited 10-20% medium-term reserve revenue downside risk as AI agents steer
 
 ---
 
-## 10. StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy
+## 13. StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy
 
 **Author:** Timmy Shen  
 **Published:** 10/27/2026, 3:58:07 AM  
@@ -131,7 +167,7 @@ StoneX has raised its price target for bitcoin treasury company Strive to $43 fr
 
 ---
 
-## 11. Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight
+## 14. Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight
 
 **Author:** Danny Park  
 **Published:** 10/27/2026, 2:28:18 AM  
@@ -143,7 +179,7 @@ Ripple's structure places reserve management and custody under federal supervisi
 
 ---
 
-## 12. BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins
+## 15. BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins
 
 **Author:** Danny Park  
 **Published:** 10/27/2026, 1:00:00 AM  
