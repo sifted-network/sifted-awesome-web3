@@ -2,16 +2,40 @@
 title: "The Block - 2026-10-26"
 date: "2026-10-26"
 source: "The Block"
-count: 9
+count: 11
 ---
 
 # The Block - 2026-10-26
 
-9 items collected.
+11 items collected.
 
 ---
 
-## 1. Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders
+## 1. CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell
+
+**Author:** Kyle Baird  
+**Published:** 10/26/2026, 7:43:47 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Exchanges, Layer 1s, Markets, People, People, People, People, People, Policy, Token Projects, Web3, AI, Binance, BNB, CZ, News  
+
+CZ sees AI driving crypto use, while BNB Standard plans to expand beyond holding tokens in its treasury.
+
+📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790)
+
+---
+
+## 2. Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer
+
+**Author:** Jason Shubnell  
+**Published:** 10/26/2026, 6:21:17 PM  
+**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Markets, People, Hyperliquid, Kraken, Perpetuals, News  
+
+Hyperliquid plans to make Kraken parent Payward the first CFTC-regulated HIP-3 deployer, a step toward regulated U.S. perpetual futures.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787)
+
+---
+
+## 3. Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders
 
 **Author:** Yogita Khatri  
 **Published:** 10/26/2026, 5:55:02 PM  
@@ -23,7 +47,7 @@ The platform is in beta and plans to open to the public in the coming weeks, co-
 
 ---
 
-## 2. Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle
+## 4. Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle
 
 **Author:** Kyle Baird  
 **Published:** 10/26/2026, 4:36:43 PM  
@@ -35,7 +59,7 @@ Bernstein cuts Coinbase’s target while raising Circle’s as new products shif
 
 ---
 
-## 3. NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket
+## 5. NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket
 
 **Author:** Sarah Wynn  
 **Published:** 10/26/2026, 4:27:37 PM  
@@ -47,7 +71,7 @@ The CFTC and NBA have agreed to put in place standards to protect the integrity 
 
 ---
 
-## 4. Tom Lee insists ‘crypto bull market is underway’ as Bitmine adds 10,452 ETH
+## 6. Tom Lee insists ‘crypto bull market is underway’ as Bitmine adds 10,452 ETH
 
 **Author:** Brian Danga  
 **Published:** 10/26/2026, 2:12:59 PM  
@@ -59,7 +83,7 @@ The company's combined crypto, cash, marketable securities, and other investment
 
 ---
 
-## 5. Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares
+## 7. Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares
 
 **Author:** James Hunt  
 **Published:** 10/26/2026, 1:23:14 PM  
@@ -71,7 +95,7 @@ Strategy's bitcoin holdings account for roughly 4% of the total supply cap, with
 
 ---
 
-## 6. Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase
+## 8. Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase
 
 **Author:** James Hunt  
 **Published:** 10/26/2026, 1:19:08 PM  
@@ -83,7 +107,7 @@ Strive's latest bitcoin purchase puts it within 1,000 BTC of second-place Metapl
 
 ---
 
-## 7. Galaxy says bitcoin bear market is over; now is the time to buy and hold
+## 9. Galaxy says bitcoin bear market is over; now is the time to buy and hold
 
 **Author:** Brian Danga  
 **Published:** 10/26/2026, 1:00:00 PM  
@@ -95,7 +119,7 @@ Galaxy said bitcoin’s bear market ended in June as fading long-term holder sel
 
 ---
 
-## 8. Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger
+## 10. Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger
 
 **Author:** James Hunt  
 **Published:** 10/26/2026, 11:34:12 AM  
@@ -107,7 +131,7 @@ Aviva Investors has launched a tokenized share class of its Sterling Liquidity F
 
 ---
 
-## 9. South Korea weighs fourth delay of crypto gains tax, eyes 2029 start: report
+## 11. South Korea weighs fourth delay of crypto gains tax, eyes 2029 start: report
 
 **Author:** Danny Park  
 **Published:** 10/26/2026, 10:06:02 AM  
