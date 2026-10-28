@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-27"
 date: "2026-10-27"
 source: "CoinDesk"
-count: 7
+count: 3
 ---
 
 # CoinDesk - 2026-10-27
 
-7 items collected.
+3 items collected.
 
 ---
 
@@ -44,53 +44,5 @@ Crypto trading volume fell 38% from year-ago levels, but the firm's overall bloc
 The U.S. Commodity Futures Trading Commission has pursued more than a dozen legal actions to protect what its chief sees as its sole power over prediction markets.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there)
-
----
-
-## 4. Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans
-
-**Author:** Krisztian Sandor  
-**Published:** 10/27/2026, 6:13:02 PM  
-**Categories:** Finance, Tokenization, Tokenized Equities, OKX, News  
-
-The latest notice added four objections, bringing the total to 26 as the joint venture prepares to test the SEC’s new framework for blockchain-based stock trading.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans)
-
----
-
-## 5. Brazilian companies turned to stablecoins on election day to dodge a currency crash
-
-**Author:** Francisco Rodrigues  
-**Published:** 10/27/2026, 4:59:07 PM  
-**Categories:** Finance, Brazil, Stablecoins, Election 2026, News  
-
-USDT volume on crypto exchange Mercado Bitcoin jumped nearly 800% and bitcoin volume surged 865%. Binance’s USDT/BRL market tripled while the global BTC/USDT pair fell.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash)
-
----
-
-## 6. Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG
-
-**Author:** Olivier Acuna  
-**Published:** 10/27/2026, 4:35:29 PM  
-**Categories:** Finance, Ripple, Stablecoins, Robinhood, News  
-
-Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail customers later this year.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform)
-
----
-
-## 7. Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund
-
-**Author:** Krisztian Sandor  
-**Published:** 10/27/2026, 2:21:10 PM  
-**Categories:** Finance, Tokenization, Nasdaq, News  
-
-The $500 billion asset manager is launching an issuer-sponsored fund on Stellar, taking a different approach from third-party stock tokens.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund)
 
 ---
