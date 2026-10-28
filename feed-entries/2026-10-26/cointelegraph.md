@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-26"
 date: "2026-10-26"
 source: "Cointelegraph"
-count: 10
+count: 8
 ---
 
 # Cointelegraph - 2026-10-26
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms e
 Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly smaller websites slower to adopt the emergency upgrades.
 
 📖 [Read original article](https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Strategy skips Bitcoin purchases, spends $205M on STRC buybacks
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/26/2026, 1:27:38 PM  
-**Categories:** Latest News  
-
-Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million.
-
-📖 [Read original article](https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/26/2026, 1:12:41 PM  
-**Categories:** Latest News  
-
-Bernstein analysts raised Robinhood’s revenue estimates through 2026 and 2028, while maintaining their HOOD price target unchanged at $160.
-
-📖 [Read original article](https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
