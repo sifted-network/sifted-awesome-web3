@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-27"
 date: "2026-10-27"
 source: "Cointelegraph"
-count: 19
+count: 15
 ---
 
 # Cointelegraph - 2026-10-27
 
-19 items collected.
+15 items collected.
 
 ---
 
@@ -188,53 +188,5 @@ Bloom pledged to reimburse nine traders after $953,000 was drained from 48 walle
 The exchange is delisting 22 crypto assets for Brazilian users and hopes talks with the central bank will allow it to restore some services.
 
 📖 [Read original article](https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Bitcoin ETFs claw back $110M after $774M exit
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/27/2026, 7:35:37 AM  
-**Categories:** Markets  
-
-US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. RedotPay weighs confidential US IPO filing by year-end: Bloomberg
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/27/2026, 4:26:51 AM  
-**Categories:** Latest News  
-
-The stablecoin payments company previously disputed reports that its US listing had been delayed.
-
-📖 [Read original article](https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Keystone breach deepens: Hackers stole key used to verify wallets as genuine
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/27/2026, 1:55:03 AM  
-**Categories:** Latest News  
-
-Keystone initially disclosed a leak of customer information but has since disclosed that hackers also stole a key that could allow counterfeit wallets to pass authenticity checks.
-
-📖 [Read original article](https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Ripple wins final US approval for national trust bank
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/27/2026, 12:06:41 AM  
-**Categories:** Latest News  
-
-The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody.
-
-📖 [Read original article](https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
