@@ -2,16 +2,76 @@
 title: "CoinDesk - 2026-10-28"
 date: "2026-10-28"
 source: "CoinDesk"
-count: 13
+count: 18
 ---
 
 # CoinDesk - 2026-10-28
 
-13 items collected.
+18 items collected.
 
 ---
 
-## 1. XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments
+## 1. Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%
+
+**Author:** Helene Braun,AI Boost  
+**Published:** 10/28/2026, 5:02:57 PM  
+**Categories:** Markets, Coinbase, Earnings, News  
+
+Coinbase faces a key earnings test as analysts debate the strength of its trading rebound following a sharp drop in Robinhood's crypto revenue.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55)
+
+---
+
+## 2. Crypto Long & Short: What happens when an AI agent pays for the wrong thing
+
+**Author:** Albert Castellana  
+**Published:** 10/28/2026, 4:01:36 PM  
+**Categories:** CoinDesk Indices, Crypto Long & Short, News  
+
+The largest card networks now sit in the top governance tier of x402, the standard that AI agents use to pay for things online. Albert Castellana of GenLayer Labs explains why that standard has no way to dispute a charge, and what happens when the payment settles but the agent receives something wro...
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing)
+
+---
+
+## 3. Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks
+
+**Author:** Krisztian Sandor  
+**Published:** 10/28/2026, 1:14:37 PM  
+**Categories:** Finance, Tokenization, Tokenized Equities, News  
+
+DTCC's tokenization service went live on Canton Network and private chain Besu, with JPMorgan, Citi and Morgan Stanley among 20 firms signed up.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks)
+
+---
+
+## 4. JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan
+
+**Author:** Krisztian Sandor  
+**Published:** 10/28/2026, 12:59:36 PM  
+**Categories:** Finance, Tokenization, Tokenized Equities, OKX, News  
+
+Nearly half the companies on the venture’s original roster have now objected to their shares trading on the planned blockchain-based venue.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan)
+
+---
+
+## 5. Dissent and more: 3 things to watch for at the Fed meeting
+
+**Author:** Omkar Godbole  
+**Published:** 10/28/2026, 11:57:26 AM  
+**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
+
+Your day-ahead look for Oct. 28, 2026
+
+📖 [Read original article](https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting)
+
+---
+
+## 6. XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments
 
 **Author:** Shaurya Malwa  
 **Published:** 10/28/2026, 11:52:14 AM  
@@ -23,7 +83,7 @@ An experimental change would let companies cover the reserve for customer and AI
 
 ---
 
-## 2. Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%
+## 7. Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 10/28/2026, 11:32:31 AM  
@@ -35,19 +95,19 @@ Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memeco
 
 ---
 
-## 3. Live updates: Bitcoin climbs above $81,000 as majors rally ahead of Fed decision
+## 8. Live updates: Bitcoin sheds early gains; Strategy's STRC moves to daily dividends
 
-**Author:** Shaurya Malwa,Omkar Godbole  
+**Author:** Shaurya Malwa,Omkar Godbole,Stephen Alpher,James Van Straten,Helene Braun  
 **Published:** 10/28/2026, 11:23:34 AM  
 **Categories:** Finance, Live News, live_news  
 
-HYPE and ZEC led a broad bounce, with every top token in the green hours before the Federal Reserve’s rate call.
+The U.S. central bank is expected to leave rates on hold later Wednesday but deliver a hawkish message to prepare markets for a December rate hike.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision)
 
 ---
 
-## 4. Google to preview crypto custody security system as AI threats grow
+## 9. Google to preview crypto custody security system as AI threats grow
 
 **Author:** Aoyon Ashraf  
 **Published:** 10/28/2026, 11:00:00 AM  
@@ -59,7 +119,7 @@ Google Multi-Party Compute is in private preview, with several major financial i
 
 ---
 
-## 5. Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS
+## 10. Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 10/28/2026, 10:41:51 AM  
@@ -71,7 +131,7 @@ Stablecoins lead instruments in use or planned at 63%, ahead of tokenized deposi
 
 ---
 
-## 6. Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules
+## 11. Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules
 
 **Author:** Francisco Rodrigues  
 **Published:** 10/28/2026, 10:07:54 AM  
@@ -83,7 +143,7 @@ Itaú Unibanco notified Brazil’s central bank of its crypto trading and custod
 
 ---
 
-## 7. Kospi surges 7% as SK Hynix earnings fuel AI stock rebound
+## 12. Kospi surges 7% as SK Hynix earnings fuel AI stock rebound
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 10/28/2026, 9:59:25 AM  
@@ -95,7 +155,7 @@ South Korean chipmakers led a broader AI recovery after SK Hynix reported a seve
 
 ---
 
-## 8. Here's how much bitcoin and the S&P 500 could rally after midterms
+## 13. Here's how much bitcoin and the S&P 500 could rally after midterms
 
 **Author:** Omkar Godbole  
 **Published:** 10/28/2026, 9:15:22 AM  
@@ -107,7 +167,7 @@ Both bitcoin and the S&P 500 have historically produced positive returns in a ye
 
 ---
 
-## 9. Securitize adds Stellar blockchain as institutional tokenization gathers steam
+## 14. Securitize adds Stellar blockchain as institutional tokenization gathers steam
 
 **Author:** Ian Allison  
 **Published:** 10/28/2026, 9:00:00 AM  
@@ -119,7 +179,7 @@ The firms announced the agreement at Meridian 2026, the Stellar Development Foun
 
 ---
 
-## 10. Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC
+## 15. Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC
 
 **Author:** Shaurya Malwa  
 **Published:** 10/28/2026, 5:28:13 AM  
@@ -131,7 +191,7 @@ The company said the accounting correction will cut reported assets by $92.2 mil
 
 ---
 
-## 11. Bithumb hacked through employee system as South Korean financial firms face cyberattacks
+## 16. Bithumb hacked through employee system as South Korean financial firms face cyberattacks
 
 **Author:** Shaurya Malwa  
 **Published:** 10/28/2026, 5:10:36 AM  
@@ -143,7 +203,7 @@ The breach hit an internal employee system that Bithumb says is separate from it
 
 ---
 
-## 12. Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%
+## 17. Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%
 
 **Author:** Shaurya Malwa  
 **Published:** 10/28/2026, 4:15:20 AM  
@@ -155,7 +215,7 @@ Majors outpaced bitcoin across the board as tech stocks extended a climb.
 
 ---
 
-## 13. Coinbase says user funds are safe after third-party vendor exposes customer contact info
+## 18. Coinbase says user funds are safe after third-party vendor exposes customer contact info
 
 **Author:** Omkar Godbole  
 **Published:** 10/28/2026, 3:11:14 AM  
