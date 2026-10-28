@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-10-28"
 date: "2026-10-28"
 source: "Cointelegraph"
-count: 2
+count: 9
 ---
 
 # Cointelegraph - 2026-10-28
 
-2 items collected.
+9 items collected.
 
 ---
 
-## 1. Bithumb discloses data leak after internal system breach: Report
+## 1. Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 10/28/2026, 11:24:07 AM  
+**Categories:** Latest News  
+
+A Euronext spokesperson told Cointelegraph the suspension was due to “operational settlement requirements” and remains in effect until settlement operations are supported by the CSD.
+
+📖 [Read original article](https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Mirae Asset Securities issues tokenized notes on Solana
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 10/28/2026, 11:05:33 AM  
+**Categories:** Latest News  
+
+The company’s Hong Kong unit issued six-month notes under its $3 billion program, extending blockchain-based distribution to institutional investors.
+
+📖 [Read original article](https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 10/28/2026, 9:56:00 AM  
+**Categories:** Markets  
+
+Bitcoin sought to rebuild support at $80,000 while Asian and US tech stocks extended a rebound into key corporate earnings releases.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 10/28/2026, 7:57:18 AM  
+**Categories:** Markets  
+
+US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net outflows to $26 million as the Crypto Fear & Greed Index remained neutral.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Coinbase denies systems breach, says vendor exposed customer data
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 10/28/2026, 7:42:55 AM  
+**Categories:** Latest News  
+
+Coinbase said that an incident at analytics vendor Amplitude exposed some customers’ contact data, but it found no evidence of unauthorized access to its own systems.
+
+📖 [Read original article](https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 10/28/2026, 6:00:00 AM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’
+
+**Author:** Cointelegraph by Felix Ng  
+**Published:** 10/28/2026, 3:55:57 AM  
+**Categories:** Latest News  
+
+Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC exemption to flourish in the US.
+
+📖 [Read original article](https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Bithumb discloses data leak after internal system breach: Report
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/28/2026, 2:18:47 AM  
@@ -23,7 +107,7 @@ The breach impacted its in-house mobile system, used by employees for work and i
 
 ---
 
-## 2. Discord is making public chats searchable on Google: How to opt out
+## 9. Discord is making public chats searchable on Google: How to opt out
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/28/2026, 12:47:04 AM  
