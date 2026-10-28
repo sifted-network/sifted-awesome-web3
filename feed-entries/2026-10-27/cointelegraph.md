@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-27"
 date: "2026-10-27"
 source: "Cointelegraph"
-count: 15
+count: 12
 ---
 
 # Cointelegraph - 2026-10-27
 
-15 items collected.
+12 items collected.
 
 ---
 
@@ -152,41 +152,5 @@ Luxor aims to use the proceeds to scale its existing AI infrastructure business 
 A decline in the share of Bitcoin’s realized cap held by coins unmoved for 18 months or longer points to the ‘early stages’ of a bull market, analysis says.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Zcash co-founder calls to stop funding ‘over $125M’ grants program
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/27/2026, 10:00:31 AM  
-**Categories:** Latest News  
-
-Sean Bowe says ZCG has enough money to keep funding projects and wants its share of new ZEC redirected to a reserve for the network.
-
-📖 [Read original article](https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Bloom bot hackers loot $953K faster than you can microwave popcorn
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/27/2026, 9:07:37 AM  
-**Categories:** Latest News  
-
-Bloom pledged to reimburse nine traders after $953,000 was drained from 48 wallets, saying no private keys were accessed or compromised.
-
-📖 [Read original article](https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Binance files for Brazil crypto license ahead of Friday deadline
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/27/2026, 8:04:21 AM  
-**Categories:** Latest News  
-
-The exchange is delisting 22 crypto assets for Brazilian users and hopes talks with the central bank will allow it to restore some services.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
