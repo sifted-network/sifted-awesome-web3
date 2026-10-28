@@ -2,16 +2,64 @@
 title: "Cointelegraph - 2026-10-28"
 date: "2026-10-28"
 source: "Cointelegraph"
-count: 15
+count: 18
 ---
 
 # Cointelegraph - 2026-10-28
 
-15 items collected.
+18 items collected.
 
 ---
 
-## 1. Crypto PAC spending before midterms possibly obscured after reported FEC hack
+## 1. Canadian ‘crypto king’ case to go to jury as criminal trial winds down
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/28/2026, 9:35:52 PM  
+**Categories:** Latest News  
+
+Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digital asset Ponzi scheme, said that he was innocent at closing.
+
+📖 [Read original article](https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 10/28/2026, 7:46:45 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Sam Bankman-Fried wrote to actor portraying him in Netflix series
+
+**Author:** Cointelegraph by Turner Wright  
+**Published:** 10/28/2026, 7:10:40 PM  
+**Categories:** Latest News  
+
+The former FTX CEO remains incarcerated as Irish actor Anthony Boyle portrays him in a series about the downfall of the crypto exchange and his relationship with Caroline Ellison.
+
+📖 [Read original article](https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Strategy shareholders approve daily dividends for four preferred stocks
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/28/2026, 6:00:54 PM  
+**Categories:** Latest News  
+
+The largest Bitcoin treasury company will begin daily dividend payments on STRC in November, with three other preferred securities following in January 2027.
+
+📖 [Read original article](https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Crypto PAC spending before midterms possibly obscured after reported FEC hack
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/28/2026, 5:05:42 PM  
@@ -23,7 +71,7 @@ The FEC reported an “electronic filing system outage” on Tuesday as groups a
 
 ---
 
-## 2. Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings
+## 6. Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/28/2026, 4:53:26 PM  
@@ -35,7 +83,7 @@ Bitcoin failed to move past its 50-day simple moving average as market participa
 
 ---
 
-## 3. Phantom launches Kalshi-powered prediction markets for US users
+## 7. Phantom launches Kalshi-powered prediction markets for US users
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/28/2026, 4:40:02 PM  
@@ -47,7 +95,7 @@ The crypto wallet’s new integration offers CFTC-regulated event contracts thro
 
 ---
 
-## 4. Google Cloud outlines MPC service for institutional Bitcoin custody
+## 8. Google Cloud outlines MPC service for institutional Bitcoin custody
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/28/2026, 1:47:51 PM  
@@ -59,19 +107,7 @@ Google Cloud has detailed its preview MPC service for institutional Bitcoin cust
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 10/28/2026, 1:35:44 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Cybersecurity’s Black October: How to protect yourself
+## 9. Cybersecurity’s Black October: How to protect yourself
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 10/28/2026, 1:30:00 PM  
@@ -83,7 +119,7 @@ Each day brings news of another AI-powered attack, or a newly discovered vulnera
 
 ---
 
-## 7. DTCC unit launches tokenization services
+## 10. DTCC unit launches tokenization services
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/28/2026, 1:19:00 PM  
@@ -95,7 +131,7 @@ The post-trade market infrastructure provider said the tokenization services wil
 
 ---
 
-## 8. Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut
+## 11. Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/28/2026, 11:24:07 AM  
@@ -107,7 +143,7 @@ A Euronext spokesperson told Cointelegraph the suspension was due to “operatio
 
 ---
 
-## 9. Mirae Asset Securities issues tokenized notes on Solana
+## 12. Mirae Asset Securities issues tokenized notes on Solana
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/28/2026, 11:05:33 AM  
@@ -119,7 +155,7 @@ The company’s Hong Kong unit issued six-month notes under its $3 billion progr
 
 ---
 
-## 10. Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over
+## 13. Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/28/2026, 9:56:00 AM  
@@ -131,7 +167,7 @@ Bitcoin sought to rebuild support at $80,000 while Asian and US tech stocks exte
 
 ---
 
-## 11. Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K
+## 14. Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/28/2026, 7:57:18 AM  
@@ -143,7 +179,7 @@ US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net 
 
 ---
 
-## 12. Coinbase denies systems breach, says vendor exposed customer data
+## 15. Coinbase denies systems breach, says vendor exposed customer data
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/28/2026, 7:42:55 AM  
@@ -155,7 +191,7 @@ Coinbase said that an incident at analytics vendor Amplitude exposed some custom
 
 ---
 
-## 13. Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’
+## 16. Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/28/2026, 3:55:57 AM  
@@ -167,7 +203,7 @@ Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC 
 
 ---
 
-## 14. Bithumb discloses data leak after internal system breach: Report
+## 17. Bithumb discloses data leak after internal system breach: Report
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/28/2026, 2:18:47 AM  
@@ -179,7 +215,7 @@ The breach impacted its in-house mobile system, used by employees for work and i
 
 ---
 
-## 15. Discord is making public chats searchable on Google: How to opt out
+## 18. Discord is making public chats searchable on Google: How to opt out
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/28/2026, 12:47:04 AM  
