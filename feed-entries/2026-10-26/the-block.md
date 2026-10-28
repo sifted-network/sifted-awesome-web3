@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-26"
 date: "2026-10-26"
 source: "The Block"
-count: 4
+count: 3
 ---
 
 # The Block - 2026-10-26
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Hyperliquid plans to make Kraken parent Payward the first CFTC-regulated HIP-3 d
 The platform is in beta and plans to open to the public in the coming weeks, co-founder Chetan Manda told The Block.
 
 📖 [Read original article](https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775)
-
----
-
-## 4. Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle
-
-**Author:** Kyle Baird  
-**Published:** 10/26/2026, 4:36:43 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Equities, Exchanges, Markets, Metaverse & NFT, NFT Marketplaces, Public Equities, Stablecoins, Token Projects, Web3, Analyst Reports, Coinbase, Derivatives, Robinhood, Tokenization, USDC, News  
-
-Bernstein cuts Coinbase’s target while raising Circle’s as new products shift their earnings outlook.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750)
 
 ---
