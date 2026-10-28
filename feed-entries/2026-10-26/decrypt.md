@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-26"
 date: "2026-10-26"
 source: "Decrypt"
-count: 19
+count: 17
 ---
 
 # Decrypt - 2026-10-26
 
-19 items collected.
+17 items collected.
 
 ---
 
@@ -212,29 +212,5 @@ Analysts point to a sell-off in AI stocks and ETF outflows, with HashKey's Tim S
 Galaxy Research says Bitcoin’s bear market ended in June, pointing to a reclaimed 50-week moving average, fading selling pressure, and a strengthening debasement case.
 
 📖 [Read original article](https://decrypt.co/381786/bitcoin-bear-market-is-over-galaxy-research-says)
-
----
-
-## 18. Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend
-
-**Author:** Tyler Warner  
-**Published:** 10/26/2026, 12:16:12 PM  
-**Categories:** , Opinion  
-
-Some relief is appearing this morning as oil and rates fall, with a big macro week ahead featuring major earnings, FOMC and key data drops.
-
-📖 [Read original article](https://decrypt.co/381797/morning-minute-bitcoin-breaks-below-80000-as-iran-fears-hit-the-weekend)
-
----
-
-## 19. Israel's Central Bank Rebukes Netanyahu Plan to Use Crypto to Dodge Sanctions
-
-**Author:** Decrypt Agent  
-**Published:** 10/26/2026, 11:34:08 AM  
-**Categories:** , , Law and Order  
-
-Over 100 economists, including former governor Jacob Frenkel, warned of deeper isolation ahead of Israel's October 27 national election.
-
-📖 [Read original article](https://decrypt.co/381789/israels-central-bank-rebukes-netanyahu-plan-to-use-crypto-to-dodge-sanctions)
 
 ---
