@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-27"
 date: "2026-10-27"
 source: "CoinDesk"
-count: 12
+count: 7
 ---
 
 # CoinDesk - 2026-10-27
 
-12 items collected.
+7 items collected.
 
 ---
 
@@ -92,65 +92,5 @@ Robinhood helped launch a rival dollar-backed token, USDG, but will also offer R
 The $500 billion asset manager is launching an issuer-sponsored fund on Stellar, taking a different approach from third-party stock tokens.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund)
-
----
-
-## 8. CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock
-
-**Author:** Helene Braun,AI Boost  
-**Published:** 10/27/2026, 2:00:00 PM  
-**Categories:** Markets, News  
-
-The new service could help developers build blockchain-based index funds, tokenized portfolios and derivatives using established financial benchmarks.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock)
-
----
-
-## 9. Bitcoin miners' move into AI is creating a new market for trading computing power
-
-**Author:** Olivier Acuna  
-**Published:** 10/27/2026, 1:13:50 PM  
-**Categories:** Finance, Bitcoin News, Mining, News  
-
-Luxor raised $16 million to expand into AI hardware and trading, betting that computing power will become a market where companies can hedge costs and prices.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power)
-
----
-
-## 10. Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP
-
-**Author:** Omkar Godbole  
-**Published:** 10/27/2026, 12:00:39 PM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Oct. 27, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp)
-
----
-
-## 11. Live updates: Bitcoin edges higher as Nasdaq surges 1.2%
-
-**Author:** Stephen Alpher,Helene Braun,James Van Straten  
-**Published:** 10/27/2026, 11:40:50 AM  
-**Categories:** Tech, Live News, live_news  
-
-The Fed is expected to hold rates steady on Wednesday, but markets will be looking for clues about future policy moves.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital)
-
----
-
-## 12. Japan's top yen stablecoin falls short of its target in a disappointing first year
-
-**Author:** Francisco Rodrigues  
-**Published:** 10/27/2026, 11:37:52 AM  
-**Categories:** Finance, Stablecoins, Japan, News  
-
-CEO Noritaka Okabe blamed a 1 million yen per-transaction cap for Type II funds transfer providers, which has slowed corporate adoption.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year)
 
 ---
