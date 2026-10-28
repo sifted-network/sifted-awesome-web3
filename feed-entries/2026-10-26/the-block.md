@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-26"
 date: "2026-10-26"
 source: "The Block"
-count: 5
+count: 4
 ---
 
 # The Block - 2026-10-26
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ The platform is in beta and plans to open to the public in the coming weeks, co-
 Bernstein cuts Coinbase’s target while raising Circle’s as new products shift their earnings outlook.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750)
-
----
-
-## 5. NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket
-
-**Author:** Sarah Wynn  
-**Published:** 10/26/2026, 4:27:37 PM  
-**Categories:** Crypto Ecosystems, DeFi, Policy, Regulation, CFTC, Prediction Markets, News  
-
-The CFTC and NBA have agreed to put in place standards to protect the integrity of the game when it comes to prediction markets.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764)
 
 ---
