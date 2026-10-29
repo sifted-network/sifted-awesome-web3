@@ -2,16 +2,208 @@
 title: "CoinDesk - 2026-10-29"
 date: "2026-10-29"
 source: "CoinDesk"
-count: 14
+count: 25
 ---
 
 # CoinDesk - 2026-10-29
 
-14 items collected.
+25 items collected.
 
 ---
 
-## 1. Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump
+## 1. Binance loses $5.7 billion in largest crypto hack to date
+
+**Author:** Stephen Alpher  
+**Published:** 10/29/2026, 9:12:45 PM  
+**Categories:** Finance, Top Stories, Binance, Hack, News  
+
+Crypto prices are sliding on the news, with bitcoin falling back to $79,000.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets)
+
+---
+
+## 2. Polymarket suspends trading after third-party breach leads to user losses
+
+**Author:** Nikhilesh De  
+**Published:** 10/29/2026, 6:55:35 PM  
+**Categories:** Markets, Breaking News, Polymarket, News  
+
+Polymarket said one of its third-party providers was breached after users reported seeing their accounts drained.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses)
+
+---
+
+## 3. Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment
+
+**Author:** Aoyon Ashraf  
+**Published:** 10/29/2026, 5:04:19 PM  
+**Categories:** Finance, News  
+
+The billionaire investor disclosed an investment in Trade[XYZ] as the platform teams up with the NYSE's parent company. His family office previously reported owning shares in a HYPE-focused treasury company.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment)
+
+---
+
+## 4. KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets
+
+**Author:** Olivier Acuna  
+**Published:** 10/29/2026, 4:51:18 PM  
+**Categories:** Policy, Regulation, News  
+
+The exchange is closing accounts in both countries after MEXC and Bitget announced similar moves earlier this month.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets)
+
+---
+
+## 5. From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks
+
+**Author:** Olivier Acuna  
+**Published:** 10/29/2026, 4:35:43 PM  
+**Categories:** Finance, Stablecoins, Solana News, News  
+
+The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's banking, wallet and payment infrastructure.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks)
+
+---
+
+## 6. Crypto exchange HTX exits the UK after settling with the FCA
+
+**Author:** Olivier Acuna  
+**Published:** 10/29/2026, 4:11:18 PM  
+**Categories:** Policy, UK, Regulation, News  
+
+The former Huobi exchange has stopped accepting deposits from British customers and agreed not to target them with crypto promotions.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca)
+
+---
+
+## 7. Polymarket brings ultra-short crypto prediction markets to U.S. platform
+
+**Author:** Olivier Acuna  
+**Published:** 10/29/2026, 2:55:47 PM  
+**Categories:** Markets, Polymarket, Prediction Markets, Bitcoin News, News  
+
+Polymarket’s new Up/Down crypto contracts come as the CFTC renews scrutiny of the prediction market’s compliance with its 2022 U.S. onboarding terms.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform)
+
+---
+
+## 8. Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure
+
+**Author:** Jennifer Rosenthal,DJ Windle  
+**Published:** 10/29/2026, 2:39:01 PM  
+**Categories:** CoinDesk Indices, Crypto for Advisors, News  
+
+
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure)
+
+---
+
+## 9. Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers
+
+**Author:** Olivier Acuna  
+**Published:** 10/29/2026, 2:15:46 PM  
+**Categories:** Finance, Bitcoin News, ETFs, News  
+
+SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers)
+
+---
+
+## 10. Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner
+
+**Author:** Francisco Rodrigues,AI Boost  
+**Published:** 10/29/2026, 2:15:00 PM  
+**Categories:** Tech, Crypto News, Exclusive, News  
+
+The service uses perpetual futures quotes to update reference prices when traditional markets close.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner)
+
+---
+
+## 11. New quantum model slashes hardware needed to break bitcoin keys by 17 times
+
+**Author:** Olivier Acuna  
+**Published:** 10/29/2026, 1:55:42 PM  
+**Categories:** Tech, quantum computing, Bitcoin News, News  
+
+Alice & Bob's new model reduces the hardware required for a potential attack, bringing it closer to reality and increasing pressure to adopt quantum-resistant security sooner.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times)
+
+---
+
+## 12. Walmart, Eli Lilly join growing pushback against OKX–ICE tokenized stock plans
+
+**Author:** Krisztian Sandor  
+**Published:** 10/29/2026, 1:39:18 PM  
+**Categories:** Finance, Tokenization, Tokenized Equities, OKX, News  
+
+Five more companies have objected, bringing the total to 38 as a rival Canton venue prepares to launch with an issuer-sponsored stock under the SEC's innovation exemption.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans)
+
+---
+
+## 13. A new framework for tokenized asset tracking
+
+**Author:** Denelle Dixon  
+**Published:** 10/29/2026, 12:57:51 PM  
+**Categories:** Opinion, Opinion  
+
+None of the numbers most commonly used to assess tokenized assets answer the question a chief investment officer would ask about those assets on her own balance sheet: what is it doing for me?
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking)
+
+---
+
+## 14. Tokenized stock venue on Canton could beat OKX–ICE to first trade under SEC framework
+
+**Author:** Krisztian Sandor  
+**Published:** 10/29/2026, 12:51:48 PM  
+**Categories:** Finance, Tokenization, Tokenized Equities, Canton, News  
+
+The venue, called TSV LLC, plans to start trading shares Canton Strategic Holdings shares as early as Monday, using issuer-sponsored tokenization that avoids the 30-day company objection window.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework)
+
+---
+
+## 15. U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers
+
+**Author:** Francisco Rodrigues  
+**Published:** 10/29/2026, 12:18:20 PM  
+**Categories:** Finance, North Korea, News  
+
+Russian nationals Ilya Boykov and Vitold Obertas allegedly converted about $3.5 million and nearly $2 million in crypto, respectively, for North Korea.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud)
+
+---
+
+## 16. As $10 billion in bitcoin options near expiry, the tell is in the pricing
+
+**Author:** Omkar Godbole  
+**Published:** 10/29/2026, 12:04:50 PM  
+**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
+
+Your day-ahead look for Oct. 29, 2026
+
+📖 [Read original article](https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing)
+
+---
+
+## 17. Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 10/29/2026, 11:11:48 AM  
@@ -23,7 +215,7 @@ Bitcoin fell 1.4% since midnight UTC to around $80,100 as disappointing reports 
 
 ---
 
-## 2. NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.
+## 18. NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 10/29/2026, 11:11:25 AM  
@@ -35,7 +227,7 @@ The planned ICE[XYZ] venue would offer 24/7 perpetual futures on stocks, commodi
 
 ---
 
-## 3. Cathie Wood’s ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump
+## 19. Cathie Wood’s ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump
 
 **Author:** Francisco Rodrigues  
 **Published:** 10/29/2026, 10:51:10 AM  
@@ -47,7 +239,7 @@ HOOD fell 3.3% on Wednesday, broadening its one-month decline to more than 23%.
 
 ---
 
-## 4. Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline
+## 20. Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline
 
 **Author:** Shaurya Malwa  
 **Published:** 10/29/2026, 10:44:48 AM  
@@ -59,19 +251,19 @@ About 1.56 million SOL sat on a validator that stopped earning, and the wallet s
 
 ---
 
-## 5. Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings
+## 21. Live updates: Crypto falls amid report of multi-billion Binance hack
 
-**Author:** Shaurya Malwa  
+**Author:** Shaurya Malwa,Stephen Alpher,Helene Braun,James Van Straten  
 **Published:** 10/29/2026, 10:41:39 AM  
 **Categories:** Finance, Live News, live_news  
 
-Coming shortly is a key government inflation report; coming after the close on Thursday are quarterly earnings from the leading corporate bitcoin holder, Strategy.
+Strategy's STRC has hit its highest price since May, and the company could soon be ready to restart large bitcoin purchases.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings)
 
 ---
 
-## 6. Thai Supreme Court rules bitcoin is property after thief challenges conviction
+## 22. Thai Supreme Court rules bitcoin is property after thief challenges conviction
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 10/29/2026, 10:04:36 AM  
@@ -83,7 +275,7 @@ The court said bitcoin has a market price, can be cashed out and held by the pub
 
 ---
 
-## 7. Bermuda taps WalletConnect to advance its onchain economy plan
+## 23. Bermuda taps WalletConnect to advance its onchain economy plan
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 10/29/2026, 10:00:00 AM  
@@ -95,7 +287,7 @@ Bermuda chose WalletConnect to bring crypto payments to local merchants, startin
 
 ---
 
-## 8. Former Swift CEO joins stablecoin firm OpenTrade as chairman
+## 24. Former Swift CEO joins stablecoin firm OpenTrade as chairman
 
 **Author:** Olivier Acuna  
 **Published:** 10/29/2026, 9:00:00 AM  
@@ -107,7 +299,7 @@ Lazaro Campos takes the board role as the London-based company reports $300 mill
 
 ---
 
-## 9. The chart bitcoin traders should be paying attention to
+## 25. The chart bitcoin traders should be paying attention to
 
 **Author:** Omkar Godbole  
 **Published:** 10/29/2026, 7:44:44 AM  
@@ -116,65 +308,5 @@ Lazaro Campos takes the board role as the London-based company reports $300 mill
 A market at an inflection point could shape inflation trends and the prices of risk assets, from bitcoin to tech stocks.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to)
-
----
-
-## 10. AI found a way to crash bitcoin nodes on Windows and Macs. It's now public
-
-**Author:** Shaurya Malwa  
-**Published:** 10/29/2026, 5:54:39 AM  
-**Categories:** Tech, News  
-
-Three flaws a language-model scan dug up are the first disclosed under Core’s new rules for bugs that are easy to find.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public)
-
----
-
-## 11. Security failure at Indian certificate firm bites Ethereum as developers rush out fixes
-
-**Author:** Shaurya Malwa  
-**Published:** 10/29/2026, 5:30:34 AM  
-**Categories:** Tech, News  
-
-A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren’t exposed.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards)
-
----
-
-## 12. Utah charges predictions platform Kalshi with illegal gambling
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 10/29/2026, 5:02:37 AM  
-**Categories:** Policy, Kalshi, News  
-
-Utah has filed criminal charges against betting platform Kalshi and its co-founders.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling)
-
----
-
-## 13. Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto
-
-**Author:** Omkar Godbole,James Van Straten  
-**Published:** 10/29/2026, 3:32:43 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin fell below $80,000 as Alphabet and Samsung-drove tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto)
-
----
-
-## 14. Mystery Wall Street Journal ad sparks new fight over tokenized stocks
-
-**Author:** Krisztian Sandor  
-**Published:** 10/29/2026, 3:21:24 AM  
-**Categories:** Policy, Tokenization, News  
-
-A full-page warning urging CEOs to opt out of tokenized stock trading drew a response from Securitize and questions over who paid for it.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks)
 
 ---
