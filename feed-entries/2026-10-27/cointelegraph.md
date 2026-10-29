@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-27"
 date: "2026-10-27"
 source: "Cointelegraph"
-count: 12
+count: 10
 ---
 
 # Cointelegraph - 2026-10-27
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosti
 Arthur Hayes revealed the derivatives market design for Flop Network and how he expects its native token could transform AI compute into a tradable commodity.
 
 📖 [Read original article](https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/27/2026, 1:01:00 PM  
-**Categories:** Latest News  
-
-Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained.
-
-📖 [Read original article](https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Bitcoin price analysis sees ‘strong rally’ as old coins become dormant
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/27/2026, 12:18:24 PM  
-**Categories:** Markets  
-
-A decline in the share of Bitcoin’s realized cap held by coins unmoved for 18 months or longer points to the ‘early stages’ of a bull market, analysis says.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
