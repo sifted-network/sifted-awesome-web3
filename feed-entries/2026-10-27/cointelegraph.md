@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-27"
 date: "2026-10-27"
 source: "Cointelegraph"
-count: 10
+count: 6
 ---
 
 # Cointelegraph - 2026-10-27
 
-10 items collected.
+6 items collected.
 
 ---
 
@@ -80,53 +80,5 @@ The US state filed a lawsuit against Kalshi last week, seeking to recover up to 
 The September survey offered a possible window into US voters who could consider fintech and digital asset policies on Election Day.
 
 📖 [Read original article](https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 10/27/2026, 4:37:15 PM  
-**Categories:** Latest News  
-
-The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business.
-
-📖 [Read original article](https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 10/27/2026, 3:59:58 PM  
-**Categories:** Latest News  
-
-USDC’s share of euro stablecoin trading has climbed to 56% since January 2024, with deeper liquidity as exchanges restrict USDT under MiCA.
-
-📖 [Read original article](https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Crypto could outperform AI stocks: Wall Street veteran Jordi Visser
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 10/27/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana.
-
-📖 [Read original article](https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Hayes details FLOP’s AI compute derivatives vision after selling his altcoins
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/27/2026, 1:01:10 PM  
-**Categories:** Latest News  
-
-Arthur Hayes revealed the derivatives market design for Flop Network and how he expects its native token could transform AI compute into a tradable commodity.
-
-📖 [Read original article](https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
