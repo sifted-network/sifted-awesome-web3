@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-28"
 date: "2026-10-28"
 source: "Cointelegraph"
-count: 18
+count: 17
 ---
 
 # Cointelegraph - 2026-10-28
 
-18 items collected.
+17 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digit
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Sam Bourgi  
-**Published:** 10/28/2026, 7:46:45 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Sam Bankman-Fried wrote to actor portraying him in Netflix series
+## 2. Sam Bankman-Fried wrote to actor portraying him in Netflix series
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/28/2026, 7:10:40 PM  
@@ -47,7 +35,7 @@ The former FTX CEO remains incarcerated as Irish actor Anthony Boyle portrays hi
 
 ---
 
-## 4. Strategy shareholders approve daily dividends for four preferred stocks
+## 3. Strategy shareholders approve daily dividends for four preferred stocks
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/28/2026, 6:00:54 PM  
@@ -59,7 +47,7 @@ The largest Bitcoin treasury company will begin daily dividend payments on STRC 
 
 ---
 
-## 5. Crypto PAC spending before midterms possibly obscured after reported FEC hack
+## 4. Crypto PAC spending before midterms possibly obscured after reported FEC hack
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/28/2026, 5:05:42 PM  
@@ -71,7 +59,7 @@ The FEC reported an “electronic filing system outage” on Tuesday as groups a
 
 ---
 
-## 6. Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings
+## 5. Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/28/2026, 4:53:26 PM  
@@ -83,7 +71,7 @@ Bitcoin failed to move past its 50-day simple moving average as market participa
 
 ---
 
-## 7. Phantom launches Kalshi-powered prediction markets for US users
+## 6. Phantom launches Kalshi-powered prediction markets for US users
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/28/2026, 4:40:02 PM  
@@ -95,7 +83,7 @@ The crypto wallet’s new integration offers CFTC-regulated event contracts thro
 
 ---
 
-## 8. Google Cloud outlines MPC service for institutional Bitcoin custody
+## 7. Google Cloud outlines MPC service for institutional Bitcoin custody
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/28/2026, 1:47:51 PM  
@@ -107,7 +95,7 @@ Google Cloud has detailed its preview MPC service for institutional Bitcoin cust
 
 ---
 
-## 9. Cybersecurity’s Black October: How to protect yourself
+## 8. Cybersecurity’s Black October: How to protect yourself
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 10/28/2026, 1:30:00 PM  
@@ -119,7 +107,7 @@ Each day brings news of another AI-powered attack, or a newly discovered vulnera
 
 ---
 
-## 10. DTCC unit launches tokenization services
+## 9. DTCC unit launches tokenization services
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/28/2026, 1:19:00 PM  
@@ -131,7 +119,7 @@ The post-trade market infrastructure provider said the tokenization services wil
 
 ---
 
-## 11. Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut
+## 10. Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/28/2026, 11:24:07 AM  
@@ -143,7 +131,7 @@ A Euronext spokesperson told Cointelegraph the suspension was due to “operatio
 
 ---
 
-## 12. Mirae Asset Securities issues tokenized notes on Solana
+## 11. Mirae Asset Securities issues tokenized notes on Solana
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/28/2026, 11:05:33 AM  
@@ -155,7 +143,7 @@ The company’s Hong Kong unit issued six-month notes under its $3 billion progr
 
 ---
 
-## 13. Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over
+## 12. Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/28/2026, 9:56:00 AM  
@@ -167,7 +155,7 @@ Bitcoin sought to rebuild support at $80,000 while Asian and US tech stocks exte
 
 ---
 
-## 14. Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K
+## 13. Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/28/2026, 7:57:18 AM  
@@ -179,7 +167,7 @@ US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net 
 
 ---
 
-## 15. Coinbase denies systems breach, says vendor exposed customer data
+## 14. Coinbase denies systems breach, says vendor exposed customer data
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/28/2026, 7:42:55 AM  
@@ -191,7 +179,7 @@ Coinbase said that an incident at analytics vendor Amplitude exposed some custom
 
 ---
 
-## 16. Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’
+## 15. Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/28/2026, 3:55:57 AM  
@@ -203,7 +191,7 @@ Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC 
 
 ---
 
-## 17. Bithumb discloses data leak after internal system breach: Report
+## 16. Bithumb discloses data leak after internal system breach: Report
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/28/2026, 2:18:47 AM  
@@ -215,7 +203,7 @@ The breach impacted its in-house mobile system, used by employees for work and i
 
 ---
 
-## 18. Discord is making public chats searchable on Google: How to opt out
+## 17. Discord is making public chats searchable on Google: How to opt out
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/28/2026, 12:47:04 AM  
