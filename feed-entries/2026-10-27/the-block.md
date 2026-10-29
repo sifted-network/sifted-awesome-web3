@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-27"
 date: "2026-10-27"
 source: "The Block"
-count: 12
+count: 10
 ---
 
 # The Block - 2026-10-27
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ Crypto market structure is the architecture behind digital asset markets. It exp
 Zcash co-founder Sean Bowe proposed ending automatic grants funding, citing a treasury valuation of more than $125 million.
 
 📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847)
-
----
-
-## 11. Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower
-
-**Author:** James Hunt  
-**Published:** 10/27/2026, 10:57:34 AM  
-**Categories:** Companies, Crypto Ecosystems, Funds, Layer 1s, Markets, People, Token Projects, Bitcoin, Bitcoin ETF, Cathie Wood, News  
-
-Ark Invest rebalanced its fund weightings, adding Circle shares and trimming its Bitcoin ETF holdings as BTC fell below $80,000.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838)
-
----
-
-## 12. Circle faces up to 20% revenue risk from AI agents, Mizuho says
-
-**Author:** Timmy Shen  
-**Published:** 10/27/2026, 6:28:34 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Markets, News  
-
-Mizuho cited 10-20% medium-term reserve revenue downside risk as AI agents steer USDC holders toward higher-yielding fiat alternatives.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826)
 
 ---
