@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-29"
 date: "2026-10-29"
 source: "CoinDesk"
-count: 8
+count: 7
 ---
 
 # CoinDesk - 2026-10-29
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -92,17 +92,5 @@ The former Huobi exchange has stopped accepting deposits from British customers 
 Polymarket’s new Up/Down crypto contracts come as the CFTC renews scrutiny of the prediction market’s compliance with its 2022 U.S. onboarding terms.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform)
-
----
-
-## 8. Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure
-
-**Author:** Jennifer Rosenthal,DJ Windle  
-**Published:** 10/29/2026, 2:39:01 PM  
-**Categories:** CoinDesk Indices, Crypto for Advisors, News  
-
-
-
-📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure)
 
 ---
