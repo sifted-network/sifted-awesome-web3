@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-10-29"
 date: "2026-10-29"
 source: "Decrypt"
-count: 15
+count: 16
 ---
 
 # Decrypt - 2026-10-29
 
-15 items collected.
+16 items collected.
 
 ---
 
-## 1. Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion
+## 1. Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets
+
+**Author:** Jose Antonio Lanz  
+**Published:** 10/29/2026, 10:57:48 PM  
+**Categories:** , , DeFi  
+
+Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.
+
+📖 [Read original article](https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum)
+
+---
+
+## 2. Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/29/2026, 9:36:24 PM  
@@ -23,7 +35,7 @@ An on-chain tally puts the suspected Binance drain at $5.57 billion across three
 
 ---
 
-## 2. Coinbase Swings to $719 Million Q3 Profit on Crypto Gains
+## 3. Coinbase Swings to $719 Million Q3 Profit on Crypto Gains
 
 **Author:** Decrypt Staff  
 **Published:** 10/29/2026, 8:46:43 PM  
@@ -35,7 +47,7 @@ Coinbase reported third-quarter net income of $719 million, driven largely by ga
 
 ---
 
-## 3. Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms
+## 4. Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/29/2026, 7:46:02 PM  
@@ -47,7 +59,7 @@ Chrome's new autofill uses Google's Gemini AI to search your Gmail for order num
 
 ---
 
-## 4. Polymarket Pauses Trading as Prediction Market Investigates Security Incident
+## 5. Polymarket Pauses Trading as Prediction Market Investigates Security Incident
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/29/2026, 6:53:44 PM  
@@ -59,7 +71,7 @@ Polymarket restricted trading and paused relayer actions as users report funds l
 
 ---
 
-## 5. Hackers Publish Work Details of 41,000 Homeland Security Employees
+## 6. Hackers Publish Work Details of 41,000 Homeland Security Employees
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/29/2026, 6:46:02 PM  
@@ -71,7 +83,7 @@ A hacktivist group says it took names, titles, and phone numbers of 41,000-plus 
 
 ---
 
-## 6. Crypto Spends $176 Million on Midterms, But Only 13% of Voters See It as a Priority
+## 7. Crypto Spends $176 Million on Midterms, But Only 13% of Voters See It as a Priority
 
 **Author:** Decrypt Staff  
 **Published:** 10/29/2026, 5:46:02 PM  
@@ -83,7 +95,7 @@ Only 13% of Americans say a candidate’s support for crypto growth is very impo
 
 ---
 
-## 7. $11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means
+## 8. $11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/29/2026, 5:15:11 PM  
@@ -95,7 +107,7 @@ A third of Deribit's Bitcoin options settle Friday, a day after the Fed held rat
 
 ---
 
-## 8. 4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode
+## 9. 4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode
 
 **Author:** Decrypt Agent  
 **Published:** 10/29/2026, 4:32:47 PM  
@@ -107,7 +119,7 @@ Bitcoin is trading close to the average price paid by U.S. spot ETF holders, a d
 
 ---
 
-## 9. Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US
+## 10. Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US
 
 **Author:** Jose Antonio Lanz  
 **Published:** 10/29/2026, 3:59:48 PM  
@@ -119,7 +131,7 @@ Intercontinental Exchange signed a deal with Trade[XYZ] to launch regulated perp
 
 ---
 
-## 10. Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue
+## 11. Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue
 
 **Author:** Decrypt Staff  
 **Published:** 10/29/2026, 3:07:15 PM  
@@ -131,7 +143,7 @@ Walmart, Eli Lilly, Cigna, Carniva,l and Arcos Dorados objected to trading of th
 
 ---
 
-## 11. Polygon Extends Its Stablecoin Payments Infrastructure to Solana
+## 12. Polygon Extends Its Stablecoin Payments Infrastructure to Solana
 
 **Author:** Decrypt Staff  
 **Published:** 10/29/2026, 1:01:02 PM  
@@ -143,7 +155,7 @@ The expansion gives Solana businesses one integration to connect bank funding, e
 
 ---
 
-## 12. Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog
+## 13. Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog
 
 **Author:** Decrypt Agent  
 **Published:** 10/29/2026, 12:58:28 PM  
@@ -155,7 +167,7 @@ The FCA says the Justin Sun-linked exchange will no longer target UK consumers, 
 
 ---
 
-## 13. Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In
+## 14. Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In
 
 **Author:** Tyler Warner  
 **Published:** 10/29/2026, 12:30:38 PM  
@@ -167,7 +179,7 @@ Now the BTC ETFs have flipped green for the month after $400M+ inflows this week
 
 ---
 
-## 14. Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto
+## 15. Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto
 
 **Author:** Decrypt Agent  
 **Published:** 10/29/2026, 11:32:51 AM  
@@ -179,7 +191,7 @@ Two Russian nationals converted more than $5 million in crypto for North Korean 
 
 ---
 
-## 15. Utah Files Felony Charges Against Kalshi, Co-Founders Over Sports Bets
+## 16. Utah Files Felony Charges Against Kalshi, Co-Founders Over Sports Bets
 
 **Author:** Decrypt Agent  
 **Published:** 10/29/2026, 11:06:40 AM  
