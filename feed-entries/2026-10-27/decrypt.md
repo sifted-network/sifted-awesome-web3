@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-27"
 date: "2026-10-27"
 source: "Decrypt"
-count: 4
+count: 2
 ---
 
 # Decrypt - 2026-10-27
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ Stocks on China's mainland have shed about $2.4 trillion since May as investors 
 Robinhood posted record revenue of $1.42 billion but earned $0.51 per share, short of the $0.55 expected, as bets on sports and elections grew to $173 million and crypto edged up.
 
 📖 [Read original article](https://decrypt.co/382004/robinhood-misses-q3-earnings-crypto-prediction-markets)
-
----
-
-## 3. Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/27/2026, 8:16:02 PM  
-**Categories:** , Business  
-
-Ripple's RLUSD stablecoin is live on Robinhood Chain and Bitstamp, and heads to the Robinhood app later this year as the companies deepen ties in treasury and institutional trading.
-
-📖 [Read original article](https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans)
-
----
-
-## 4. Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor
-
-**Author:** Decrypt Agent  
-**Published:** 10/27/2026, 7:46:02 PM  
-**Categories:** , Business  
-
-An expanded deal with Bitso puts Anchorage Digital Bank’s custody beneath both sides of the US-Mexico remittance route.
-
-📖 [Read original article](https://decrypt.co/381988/anchorage-custody-backbone-us-mexico-stablecoin-corridor)
 
 ---
