@@ -2,28 +2,112 @@
 title: "Cointelegraph - 2026-10-30"
 date: "2026-10-30"
 source: "Cointelegraph"
-count: 12
+count: 18
 ---
 
 # Cointelegraph - 2026-10-30
 
-12 items collected.
+18 items collected.
 
 ---
 
-## 1. Live updates: Binance says $6.34B set aside to cover hack losses
+## 1. Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem
 
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/30/2026, 11:44:20 AM  
+**Author:** Cointelegraph by Sam Bourgi  
+**Published:** 10/30/2026, 5:09:31 PM  
 **Categories:** Latest News  
 
-Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen.
+Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF.
+
+📖 [Read original article](https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Recap: How Binance’s record $6.3B hack unfolded
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 10/30/2026, 4:53:46 PM  
+**Categories:** Latest News  
+
+A recap of Cointelegraph’s live coverage of the Binance hack, including early breach reports and the exchange’s full reimbursement pledge.
+
+📖 [Read original article](https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. As it happened: Binance’s record $6.3B crypto hack
+
+**Author:** Cointelegraph by Felix Ng  
+**Published:** 10/30/2026, 4:49:50 PM  
+**Categories:** Latest News  
+
+How Binance’s $6.3 billion hack unfolded, from the first onchain alerts to $3 billion in frozen funds and a widening security investigation.
 
 📖 [Read original article](https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-## 2. Zcash grants group offers $124M compromise as governance backlash grows
+## 4. Bitcoin risks worst October in 12 years as tech sell-off spreads to gold
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 10/30/2026, 4:06:28 PM  
+**Categories:** Markets  
+
+Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 10/30/2026, 2:07:42 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 10/30/2026, 1:30:00 PM  
+**Categories:** Magazine  
+
+A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin’s claim to be a better form of digital gold?
+
+📖 [Read original article](https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Binance working with FBI to recover assets following $6.3B hack
+
+**Author:** Cointelegraph by Zoltan Vardai  
+**Published:** 10/30/2026, 1:11:10 PM  
+**Categories:** Latest News  
+
+Binance is working with law enforcement to recover $3 billion that is frozen, after setting aside more than $6.3 billion from the company’s funds to cover the shortfall.
+
+📖 [Read original article](https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Binance says it holds $5B in matching tokens to cover hack losses
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 10/30/2026, 12:41:43 PM  
+**Categories:** Latest News  
+
+The exchange said it set aside more than $6.34 billion to cover losses and would include the assets in its next proof-of-reserves report.
+
+📖 [Read original article](https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Zcash grants group offers $124M compromise as governance backlash grows
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/30/2026, 11:36:23 AM  
@@ -35,7 +119,7 @@ Zcash Community Grants proposed redirecting about $124 million in existing and f
 
 ---
 
-## 3. Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack
+## 10. Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/30/2026, 11:29:23 AM  
@@ -47,19 +131,19 @@ Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock se
 
 ---
 
-## 4. EIP-7702 didn’t cause Binance hack, but may have amplified losses
+## 11. EIP-7702 didn’t cause Binance hack, but may have amplified losses
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/30/2026, 11:00:10 AM  
 **Categories:** Latest News  
 
-Security experts say attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards.
+Security experts said attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards.
 
 📖 [Read original article](https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-## 5. Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury
+## 12. Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/30/2026, 10:54:30 AM  
@@ -71,7 +155,7 @@ The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corpor
 
 ---
 
-## 6. THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack
+## 13. THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/30/2026, 9:52:29 AM  
@@ -83,7 +167,7 @@ North Korean hackers previously used THORChain to move funds stolen from Bybit a
 
 ---
 
-## 7. Trezor warns CryptoBilis buyers to move funds over suspected implant
+## 14. Trezor warns CryptoBilis buyers to move funds over suspected implant
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/30/2026, 9:26:45 AM  
@@ -95,19 +179,7 @@ Trezor urged customers who bought devices from CryptoBilis since March to move t
 
 ---
 
-## 8. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/30/2026, 6:00:00 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity
+## 15. Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/30/2026, 5:53:07 AM  
@@ -119,37 +191,37 @@ Michael Saylor says Strategy could create up to $30 billion in digital credit wi
 
 ---
 
-## 10. North Korea’s TraderTraitor linked to $6.3B Binance hack
+## 16. North Korea’s TraderTraitor linked to $6.3B Binance hack
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/30/2026, 5:51:41 AM  
 **Categories:** Latest News  
 
-TRM Labs says it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address.
+TRM Labs said it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address.
 
 📖 [Read original article](https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-## 11. Binance hack could accelerate shift to DEXs: Standard Chartered
+## 17. Binance hack could accelerate shift to DEXs: Standard Chartered
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/30/2026, 3:47:01 AM  
 **Categories:** Latest News  
 
-Standard Chartered’s Geoffrey Kendrick says the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030.
+Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030.
 
 📖 [Read original article](https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-## 12. Binance points to engineer’s hacked laptop in $6.3B breach
+## 18. Binance points to engineer’s hacked laptop in $6.3B breach
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/30/2026, 12:11:26 AM  
 **Categories:** Latest News  
 
-Binance says attackers may have used a compromised DevOps laptop to access internal infrastructure.
+Binance said attackers may have used a compromised DevOps laptop to access internal infrastructure.
 
 📖 [Read original article](https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
