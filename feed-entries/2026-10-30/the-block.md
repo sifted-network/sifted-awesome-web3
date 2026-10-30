@@ -2,16 +2,40 @@
 title: "The Block - 2026-10-30"
 date: "2026-10-30"
 source: "The Block"
-count: 6
+count: 8
 ---
 
 # The Block - 2026-10-30
 
-6 items collected.
+8 items collected.
 
 ---
 
-## 1. Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist
+## 1. Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion
+
+**Author:** Jason Shubnell  
+**Published:** 10/30/2026, 9:20:23 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Exchanges, Infrastructure, Markets, Policy, Regulation, Security, Binance, Exploits, Wallets, News  
+
+Investigators tie the $6B Binance hack to North Korea. Here's how hot-wallet signing infrastructure was compromised and where funds went.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225)
+
+---
+
+## 2. President Trump says they’re looking into Binance hack as calls grow for crypto rules
+
+**Author:** Sarah Wynn  
+**Published:** 10/30/2026, 9:06:03 PM  
+**Categories:** Companies, Congress, Exchanges, People, Policy, Regulation, Binance, CFTC, Clarity Act, Donald Trump, News  
+
+Following the $6.3 billion hack of the world's largest crypto exchange, Binance, calls are growing for legislation.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236)
+
+---
+
+## 3. Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist
 
 **Author:** Sarah Wynn  
 **Published:** 10/30/2026, 4:26:07 PM  
@@ -23,7 +47,7 @@ Two brothers who held a family for nine hours at gunpoint in Minnesota for $8 mi
 
 ---
 
-## 2. Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say
+## 4. Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say
 
 **Author:** Jason Shubnell  
 **Published:** 10/30/2026, 2:30:49 PM  
@@ -35,7 +59,7 @@ Strategy fell after Q3 earnings, but StoneX & TD Cowen kept buy ratings, citing 
 
 ---
 
-## 3. Binance says it has $6.34 billion ready to cover hack losses
+## 5. Binance says it has $6.34 billion ready to cover hack losses
 
 **Author:** Brian Danga  
 **Published:** 10/30/2026, 1:14:56 PM  
@@ -47,7 +71,7 @@ Binance has allocated $6.34 billion to cover hack losses, while industry partner
 
 ---
 
-## 4. Coinbase Q3 net income jumps 66% as prediction markets gain traction
+## 6. Coinbase Q3 net income jumps 66% as prediction markets gain traction
 
 **Author:** Timmy Shen  
 **Published:** 10/30/2026, 8:57:09 AM  
@@ -59,7 +83,7 @@ Bernstein analysts said Coinbase's expanding prediction markets and derivatives 
 
 ---
 
-## 5. Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis
+## 7. Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis
 
 **Author:** Brian Danga  
 **Published:** 10/30/2026, 8:55:39 AM  
@@ -71,7 +95,7 @@ Trezor urged CryptoBilis buyers to migrate funds after receiving a credible repo
 
 ---
 
-## 6. Bitcoin slides below $77,000, BNB drops amid Binance hack
+## 8. Bitcoin slides below $77,000, BNB drops amid Binance hack
 
 **Author:** Timmy Shen  
 **Published:** 10/30/2026, 2:22:31 AM  
