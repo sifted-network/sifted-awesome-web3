@@ -2,22 +2,22 @@
 title: "CoinDesk - 2026-10-29"
 date: "2026-10-29"
 source: "CoinDesk"
-count: 25
+count: 23
 ---
 
 # CoinDesk - 2026-10-29
 
-25 items collected.
+23 items collected.
 
 ---
 
-## 1. Binance loses $5.7 billion in largest crypto hack to date
+## 1. Binance loses over $6 billion in 'biggest crypto hack in history'
 
-**Author:** Stephen Alpher  
+**Author:** Krisztian Sandor,Stephen Alpher  
 **Published:** 10/29/2026, 9:12:45 PM  
 **Categories:** Finance, Top Stories, Binance, Hack, News  
 
-Crypto prices are sliding on the news, with bitcoin falling back to $79,000.
+Crypto prices are sliding on the news, with bitcoin falling back to $77,000, though Binance's co-CEO said it would cover all losses.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets)
 
@@ -251,13 +251,13 @@ About 1.56 million SOL sat on a validator that stopped earning, and the wallet s
 
 ---
 
-## 21. Live updates: Crypto falls amid report of multi-billion Binance hack
+## 21. Live updates: Binance says exploit is likely due to 'compromised DevOps engineer’s laptop'
 
-**Author:** Shaurya Malwa,Stephen Alpher,Helene Braun,James Van Straten  
+**Author:** Shaurya Malwa,Stephen Alpher,Helene Braun,James Van Straten,Krisztian Sandor,Nikhilesh De,Aoyon Ashraf  
 **Published:** 10/29/2026, 10:41:39 AM  
 **Categories:** Finance, Live News, live_news  
 
-Strategy's STRC has hit its highest price since May, and the company could soon be ready to restart large bitcoin purchases.
+North of $5 billion appears to have been stolen from the world's biggest crypto exchange, Binance, of which some $2.5 billion has been frozen.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings)
 
@@ -284,29 +284,5 @@ The court said bitcoin has a market price, can be cashed out and held by the pub
 Bermuda chose WalletConnect to bring crypto payments to local merchants, starting with ticketing platform PTIX in the second quarter of 2027.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan)
-
----
-
-## 24. Former Swift CEO joins stablecoin firm OpenTrade as chairman
-
-**Author:** Olivier Acuna  
-**Published:** 10/29/2026, 9:00:00 AM  
-**Categories:** Finance, Stablecoins, stablecoin yield, UK, News  
-
-Lazaro Campos takes the board role as the London-based company reports $300 million in assets locked and more than $1 billion in annual transaction volume.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise)
-
----
-
-## 25. The chart bitcoin traders should be paying attention to
-
-**Author:** Omkar Godbole  
-**Published:** 10/29/2026, 7:44:44 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-A market at an inflection point could shape inflation trends and the prices of risk assets, from bitcoin to tech stocks.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to)
 
 ---
