@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-29"
 date: "2026-10-29"
 source: "Cointelegraph"
-count: 12
+count: 10
 ---
 
 # Cointelegraph - 2026-10-29
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ The funding round comes as Kalshi expands its partnerships with the NBA and S&P 
 BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet’s Q3 earnings miss.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. French Senate adopts bill for automatic sharing of crypto tax data
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/29/2026, 3:00:02 PM  
-**Categories:** Latest News  
-
-The French Senate adopted a bill authorizing the automatic exchange of crypto-asset tax information between international tax authorities, pending completion of the legislative process.
-
-📖 [Read original article](https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Bank of England opens consultation on tokenized collateral for clearing
-
-**Author:** Cointelegraph by Robert Lakin  
-**Published:** 10/29/2026, 2:27:46 PM  
-**Categories:** Latest News  
-
-Central counterparties would need to show tokenized collateral meets liquidity and risk tests under proposed Bank of England guidance.
-
-📖 [Read original article](https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
