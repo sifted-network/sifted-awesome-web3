@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-29"
 date: "2026-10-29"
 source: "Cointelegraph"
-count: 18
+count: 12
 ---
 
 # Cointelegraph - 2026-10-29
 
-18 items collected.
+12 items collected.
 
 ---
 
@@ -35,13 +35,13 @@ Singapore police say tampered Ledgers started showing up there on September 10. 
 
 ---
 
-## 3. Binance investigates multibillion-dollar security breach
+## 3. Binance hit by $6.3B hack, the largest in cryptocurrency history
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/29/2026, 9:24:36 PM  
 **Categories:** Latest News  
 
-Binance is investigating a potential multibillion-dollar security breach that is estimated to have impacted $6.3 billion in funds.
+Binance pledged to cover all losses after a $6.3 billion hack, with about $3 billion in assets frozen by the exchange and its partners.
 
 📖 [Read original article](https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
@@ -152,77 +152,5 @@ The French Senate adopted a bill authorizing the automatic exchange of crypto-as
 Central counterparties would need to show tokenized collateral meets liquidity and risk tests under proposed Bank of England guidance.
 
 📖 [Read original article](https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 10/29/2026, 2:00:00 PM  
-**Categories:** Latest News  
-
-RedStone’s planned pricing tool will let institutions on Canton use shared market prices without exposing deal terms to data providers.
-
-📖 [Read original article](https://cointelegraph.com/news/canton-foundation-redstone-coin-pricing-standard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Brazil’s Halloween eve crypto deadline brings more tricks than treats
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 10/29/2026, 1:30:00 PM  
-**Categories:** Latest News  
-
-Brazil’s crypto exchanges face an application deadline on Friday, with costly requirements and unanswered regulatory questions complicating compliance.
-
-📖 [Read original article](https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 10/29/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Utexo’s bridged version of USD₮ compete with stablecoins on ETH and TRON?
-
-📖 [Read original article](https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Polygon expands Open Money Stack to Solana, after Tron rollout
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/29/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-The move follows the addition of Tron support and Polygon’s acquisition of Coinme.
-
-📖 [Read original article](https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Chainalysis traces North Korean crypto cash-outs through Garantex
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 10/29/2026, 12:38:03 PM  
-**Categories:** Latest News  
-
-The analysis followed US sanctions against 10 people and one entity accused of helping North Korean IT worker schemes fund weapons programs.
-
-📖 [Read original article](https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Unlimit founder backs Phase blockchain with $45M as mainnet launches
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 10/29/2026, 12:30:00 PM  
-**Categories:** Latest News  
-
-Phase’s new network lets smartphone owners earn tokens for validating transactions and sharing internet connections with AI agents.
-
-📖 [Read original article](https://cointelegraph.com/news/unlimit-founder-phase-blockchain-mainnet-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
