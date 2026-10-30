@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-10-30"
 date: "2026-10-30"
 source: "CoinDesk"
-count: 17
+count: 18
 ---
 
 # CoinDesk - 2026-10-30
 
-17 items collected.
+18 items collected.
 
 ---
 
-## 1. Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart
+## 1. Experts divided over Binance hack asset freezes, warn recovery is another matter
+
+**Author:** Olivier Acuna  
+**Published:** 10/30/2026, 7:55:00 PM  
+**Categories:** Finance, Binance, Hack, Stablecoins, News  
+
+Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same protection.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter)
+
+---
+
+## 2. Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart
 
 **Author:** Olivier Acuna  
 **Published:** 10/30/2026, 4:31:17 PM  
@@ -23,7 +35,7 @@ CEO Richard Teng said hackers erased evidence and bypassed security checks. Bina
 
 ---
 
-## 2. Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack
+## 3. Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack
 
 **Author:** Helene Braun  
 **Published:** 10/30/2026, 2:13:34 PM  
@@ -35,7 +47,7 @@ Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the $6.3 billion B
 
 ---
 
-## 3. Binance arranges $6.34 billion to cover losses from record crypto hack
+## 4. Binance arranges $6.34 billion to cover losses from record crypto hack
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 10/30/2026, 12:13:02 PM  
@@ -47,7 +59,7 @@ Binance said it reserved its own funds to cover the $6.3 billion hack, including
 
 ---
 
-## 4. Here's how big bitcoin traders responded after the Binance hack hit
+## 5. Here's how big bitcoin traders responded after the Binance hack hit
 
 **Author:** Omkar Godbole  
 **Published:** 10/30/2026, 11:51:26 AM  
@@ -59,7 +71,7 @@ Your day-ahead look for Oct. 30, 2026
 
 ---
 
-## 5. Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss
+## 6. Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss
 
 **Author:** Shaurya Malwa  
 **Published:** 10/30/2026, 11:35:16 AM  
@@ -71,7 +83,7 @@ On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets sma
 
 ---
 
-## 6. Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower
+## 7. Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 10/30/2026, 11:09:24 AM  
@@ -83,7 +95,7 @@ Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures
 
 ---
 
-## 7. Strategy CFO Andrew Kang resigns as company posts record operating profit
+## 8. Strategy CFO Andrew Kang resigns as company posts record operating profit
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 10/30/2026, 9:41:07 AM  
@@ -95,7 +107,7 @@ Andrew Kang’s departure comes as Strategy reports $21 billion in quarterly ope
 
 ---
 
-## 8. Live updates: Bitcoin falls to $77,000 as Binance exploit combines with tech woes
+## 9. Live updates: Bitcoin falls below $77,000 as Binance exploit combines with tech woes
 
 **Author:** James Van Straten,Shaurya Malwa,Stephen Alpher,Krisztian Sandor  
 **Published:** 10/30/2026, 8:36:52 AM  
@@ -107,7 +119,7 @@ The $6.3 billion Binance hack added to crypto jitters, while weak earnings outlo
 
 ---
 
-## 9. Binance hacker dumps a little-known 2017 token and it crashes 90%
+## 10. Binance hacker dumps a little-known 2017 token and it crashes 90%
 
 **Author:** Omkar Godbole  
 **Published:** 10/30/2026, 7:54:07 AM  
@@ -119,7 +131,7 @@ The hacker dumped FUN and other smaller tokens into markets too small to absorb 
 
 ---
 
-## 10. Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets
+## 11. Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets
 
 **Author:** Shaurya Malwa  
 **Published:** 10/30/2026, 6:22:00 AM  
@@ -131,7 +143,7 @@ Bets on rising prices accounted for nearly 84% of forced closures, with Binance 
 
 ---
 
-## 11. XRP Ledger developers tighten the rules for who can hold 'restricted' tokens
+## 12. XRP Ledger developers tighten the rules for who can hold 'restricted' tokens
 
 **Author:** Shaurya Malwa  
 **Published:** 10/30/2026, 5:45:27 AM  
@@ -143,7 +155,7 @@ A set of fixes would tighten who can hold permissioned tokens on the network. Th
 
 ---
 
-## 12. Binance hack bites India's largest crypto exchange as it curbs futures trading
+## 13. Binance hack bites India's largest crypto exchange as it curbs futures trading
 
 **Author:** Omkar Godbole  
 **Published:** 10/30/2026, 5:43:07 AM  
@@ -155,7 +167,7 @@ CoinDCX has restricted new futures positions after Binance’s security incident
 
 ---
 
-## 13. Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze
+## 14. Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze
 
 **Author:** Shaurya Malwa  
 **Published:** 10/30/2026, 4:50:42 AM  
@@ -167,7 +179,7 @@ All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, a
 
 ---
 
-## 14. Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower
+## 15. Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower
 
 **Author:** Omkar Godbole  
 **Published:** 10/30/2026, 4:00:43 AM  
@@ -179,7 +191,7 @@ Bitcoin and ether slid after a suspected $6.3 billion Binance security breach an
 
 ---
 
-## 15. Institutional crypto investors rush to pull funds from exchanges after Binance hack
+## 16. Institutional crypto investors rush to pull funds from exchanges after Binance hack
 
 **Author:** Will Canny  
 **Published:** 10/30/2026, 3:56:40 AM  
@@ -191,7 +203,7 @@ The withdrawals suggest the fallout from the multibillion-dollar breach is sprea
 
 ---
 
-## 16. Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths
+## 17. Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths
 
 **Author:** Nikhilesh De,Cheyenne Ligon  
 **Published:** 10/30/2026, 3:36:11 AM  
@@ -203,7 +215,7 @@ Security researchers suggested that the hermit kingdom's Lazarus Group was behin
 
 ---
 
-## 17. Binance hack drained wallets backing customer assets, reserve data shows
+## 18. Binance hack drained wallets backing customer assets, reserve data shows
 
 **Author:** Oliver Knight  
 **Published:** 10/30/2026, 12:17:10 AM  
