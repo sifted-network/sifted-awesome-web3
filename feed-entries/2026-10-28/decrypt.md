@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-28"
 date: "2026-10-28"
 source: "Decrypt"
-count: 18
+count: 14
 ---
 
 # Decrypt - 2026-10-28
 
-18 items collected.
+14 items collected.
 
 ---
 
@@ -176,53 +176,5 @@ James Comer warned the proposed "AIC" could shield AI firms from liability, and 
 Birch Hill, founded by Goldman Sachs and BlackRock alumni, raised $4 million in a seed round led by Multicoin Capital to build a regulated path for bringing U.S. loans onchain.
 
 📖 [Read original article](https://decrypt.co/382007/goldman-blackrock-alumni-raise-4-million-loans-onchain)
-
----
-
-## 15. Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval
-
-**Author:** Decrypt Agent  
-**Published:** 10/28/2026, 12:16:30 PM  
-**Categories:** , Business  
-
-The ratings agency cited RLUSD's Treasury-heavy reserves, but noted that holders have no direct ownership interest in them for now.
-
-📖 [Read original article](https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval)
-
----
-
-## 16. Morning Minute: Robinhood Misses, But Crypto Beats and Robinhood Chain Soars
-
-**Author:** Tyler Warner  
-**Published:** 10/28/2026, 12:04:56 PM  
-**Categories:** , Opinion  
-
-Vlad Tenev delivered the messaging that Robinhood Chain enthusiasts wanted to hear—and the market responded.
-
-📖 [Read original article](https://decrypt.co/382029/morning-minute-robinhood-misses-but-crypto-beats-and-robinhood-chain-soars)
-
----
-
-## 17. Bithumb Says Hackers Accessed Internal System, Leaking Personal Data
-
-**Author:** Decrypt Agent  
-**Published:** 10/28/2026, 10:57:29 AM  
-**Categories:** , , Business  
-
-South Korea's second-largest crypto exchange is checking whether customer data was exposed, as two other financial firms report breaches.
-
-📖 [Read original article](https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data)
-
----
-
-## 18. Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’
-
-**Author:** Decrypt Agent  
-**Published:** 10/28/2026, 10:10:31 AM  
-**Categories:** Business  
-
-The incident at analytics firm Amplitude hit a "small subset" of Coinbase customers, the exchange said, without saying how many.
-
-📖 [Read original article](https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted)
 
 ---
