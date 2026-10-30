@@ -2,28 +2,52 @@
 title: "Cointelegraph - 2026-10-29"
 date: "2026-10-29"
 source: "Cointelegraph"
-count: 27
+count: 29
 ---
 
 # Cointelegraph - 2026-10-29
 
-27 items collected.
+29 items collected.
 
 ---
 
-## 1. Binance investigates potential multibillion-dollar hack
+## 1. Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K
 
 **Author:** Cointelegraph by Nate Kostar  
+**Published:** 10/29/2026, 11:24:21 PM  
+**Categories:** Markets  
+
+Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack.
+
+📖 [Read original article](https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Tampered Ledger reported in Singapore a month before news broke: Asia Express
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 10/29/2026, 10:31:07 PM  
+**Categories:** Magazine  
+
+Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time.
+
+📖 [Read original article](https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Live updates: Binance says $6.3B hack involved compromised engineer’s laptop
+
+**Author:** Cointelegraph by Felix Ng  
 **Published:** 10/29/2026, 9:24:36 PM  
 **Categories:** Latest News  
 
-Binance said it is investigating a potential security breach after suspicious wallet transfers, while co-founder CZ reported nearly $1.8 billion in frozen stablecoins.
+Follow live updates as Binance says $6.3 billion in assets has been stolen in a major hack. Around $3 billion in stolen funds have been frozen.
 
 📖 [Read original article](https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 4. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/29/2026, 7:58:57 PM  
@@ -35,7 +59,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. Public companies double share of blockchain revenue since 2022: Report
+## 5. Public companies double share of blockchain revenue since 2022: Report
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/29/2026, 7:53:14 PM  
@@ -47,7 +71,7 @@ A new 1kx report finds that public companies are capturing a larger share of blo
 
 ---
 
-## 4. Polymarket suspended trading amid reports of user funds being drained
+## 6. Polymarket suspended trading amid reports of user funds being drained
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/29/2026, 7:23:03 PM  
@@ -59,7 +83,7 @@ The prediction markets platform halted trading on Thursday after it reported one
 
 ---
 
-## 5. HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps
+## 7. HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps
 
 **Author:** Cointelegraph by Bryan O'Shea  
 **Published:** 10/29/2026, 5:12:03 PM  
@@ -71,7 +95,7 @@ Hyperliquid’s token pumped following news of ICE and Trade[XYZ] unveiling plan
 
 ---
 
-## 6. KuCoin suspends services in Russia and Belarus
+## 8. KuCoin suspends services in Russia and Belarus
 
 **Author:** Cointelegraph by Turner Wright  
 **Published:** 10/29/2026, 5:08:41 PM  
@@ -83,7 +107,7 @@ The exchange cited legal and regulatory compliance in its reason for cutting off
 
 ---
 
-## 7. Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2
+## 9. Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/29/2026, 4:27:39 PM  
@@ -95,7 +119,7 @@ The tokenized shares would carry the same shareholder rights as traditional stoc
 
 ---
 
-## 8. Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B
+## 10. Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/29/2026, 3:52:43 PM  
@@ -107,7 +131,7 @@ The funding round comes as Kalshi expands its partnerships with the NBA and S&P 
 
 ---
 
-## 9. Bitcoin price jumps to $81.5K as US GDP data beats expectations
+## 11. Bitcoin price jumps to $81.5K as US GDP data beats expectations
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/29/2026, 3:39:54 PM  
@@ -119,7 +143,7 @@ BTC price action returned to a key weekly resistance level as US stock markets d
 
 ---
 
-## 10. French Senate adopts bill for automatic sharing of crypto tax data
+## 12. French Senate adopts bill for automatic sharing of crypto tax data
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/29/2026, 3:00:02 PM  
@@ -131,7 +155,7 @@ The French Senate adopted a bill authorizing the automatic exchange of crypto-as
 
 ---
 
-## 11. Bank of England opens consultation on tokenized collateral for clearing
+## 13. Bank of England opens consultation on tokenized collateral for clearing
 
 **Author:** Cointelegraph by Robert Lakin  
 **Published:** 10/29/2026, 2:27:46 PM  
@@ -143,7 +167,7 @@ Central counterparties would need to show tokenized collateral meets liquidity a
 
 ---
 
-## 12. Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard
+## 14. Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/29/2026, 2:00:00 PM  
@@ -155,7 +179,7 @@ RedStone’s planned pricing tool will let institutions on Canton use shared mar
 
 ---
 
-## 13. Brazil’s Halloween eve crypto deadline brings more tricks than treats
+## 15. Brazil’s Halloween eve crypto deadline brings more tricks than treats
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/29/2026, 1:30:00 PM  
@@ -167,7 +191,7 @@ Brazil’s crypto exchanges face an application deadline on Friday, with costly 
 
 ---
 
-## 14. Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?
+## 16. Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 10/29/2026, 1:30:00 PM  
@@ -179,7 +203,7 @@ USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. Bu
 
 ---
 
-## 15. Polygon expands Open Money Stack to Solana, after Tron rollout
+## 17. Polygon expands Open Money Stack to Solana, after Tron rollout
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/29/2026, 1:00:00 PM  
@@ -191,7 +215,7 @@ The move follows the addition of Tron support and Polygon’s acquisition of Coi
 
 ---
 
-## 16. Chainalysis traces North Korean crypto cash-outs through Garantex
+## 18. Chainalysis traces North Korean crypto cash-outs through Garantex
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/29/2026, 12:38:03 PM  
@@ -203,7 +227,7 @@ The analysis followed US sanctions against 10 people and one entity accused of h
 
 ---
 
-## 17. Unlimit founder backs Phase blockchain with $45M as mainnet launches
+## 19. Unlimit founder backs Phase blockchain with $45M as mainnet launches
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/29/2026, 12:30:00 PM  
@@ -215,7 +239,7 @@ Phase’s new network lets smartphone owners earn tokens for validating transact
 
 ---
 
-## 18. HTX agrees to halt unlawful UK crypto promotions after FCA case
+## 20. HTX agrees to halt unlawful UK crypto promotions after FCA case
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/29/2026, 12:20:27 PM  
@@ -227,7 +251,7 @@ HTX has pledged to stop crypto marketing in the UK until October 2031, with depo
 
 ---
 
-## 19. EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey
+## 21. EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/29/2026, 12:00:00 PM  
@@ -239,7 +263,7 @@ European investors ranked crypto above retirement plans for lasting wealth creat
 
 ---
 
-## 20. Coinbase seeks Brazil crypto license, expects no service disruption
+## 22. Coinbase seeks Brazil crypto license, expects no service disruption
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/29/2026, 12:00:00 PM  
@@ -251,7 +275,7 @@ Coinbase has applied for authorization ahead of Brazil’s Oct. 30 deadline and 
 
 ---
 
-## 21. Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says
+## 23. Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/29/2026, 12:00:00 PM  
@@ -263,7 +287,7 @@ A new report argues that putting institutional Bitcoin holdings to work through 
 
 ---
 
-## 22. Bitcoin long-term resistance in focus as analysis sees selling risk above $85K
+## 24. Bitcoin long-term resistance in focus as analysis sees selling risk above $85K
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/29/2026, 10:46:43 AM  
@@ -275,7 +299,7 @@ BTC price analysis from Glassnode drew attention to $85,000 as the lower boundar
 
 ---
 
-## 23. ECB President Christine Lagarde to step down in February 2027
+## 25. ECB President Christine Lagarde to step down in February 2027
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/29/2026, 10:33:00 AM  
@@ -287,7 +311,7 @@ Lagarde announced plans to step down as European Central Bank President after se
 
 ---
 
-## 24. Bitcoin ETFs add $137M, pushing October back into the green
+## 26. Bitcoin ETFs add $137M, pushing October back into the green
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/29/2026, 7:32:20 AM  
@@ -299,7 +323,7 @@ Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $
 
 ---
 
-## 25. Your fridge could one day stake Ether, launch memecoins: CFTC chair
+## 27. Your fridge could one day stake Ether, launch memecoins: CFTC chair
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/29/2026, 4:39:49 AM  
@@ -311,7 +335,7 @@ CFTC chair Mike Selig says autonomous AI agents could challenge financial rules 
 
 ---
 
-## 26. Tampered Ledger wallets cost Singapore users $2.7M: Police
+## 28. Tampered Ledger wallets cost Singapore users $2.7M: Police
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/29/2026, 3:16:32 AM  
@@ -323,7 +347,7 @@ Police say at least two cases were reported as early as Sept. 10, nearly a month
 
 ---
 
-## 27. Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts
+## 29. Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/29/2026, 1:12:01 AM  
