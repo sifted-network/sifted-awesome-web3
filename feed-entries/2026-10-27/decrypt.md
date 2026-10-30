@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-27"
 date: "2026-10-27"
 source: "Decrypt"
-count: 5
+count: 4
 ---
 
 # Decrypt - 2026-10-27
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Ripple's RLUSD stablecoin is live on Robinhood Chain and Bitstamp, and heads to 
 An expanded deal with Bitso puts Anchorage Digital Bank’s custody beneath both sides of the US-Mexico remittance route.
 
 📖 [Read original article](https://decrypt.co/381988/anchorage-custody-backbone-us-mexico-stablecoin-corridor)
-
----
-
-## 5. AI Agents Are Creating a New Layer of Cybersecurity Spending
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/27/2026, 7:16:03 PM  
-**Categories:** Artificial Intelligence  
-
-Akamai launched a locked box for AI agents on Tuesday. It joins Palo Alto, Cisco, CrowdStrike, Okta and Zscaler in selling protection for software that now acts on its own.
-
-📖 [Read original article](https://decrypt.co/381987/ai-agents-creating-new-layer-cybersecurity-spending)
 
 ---
