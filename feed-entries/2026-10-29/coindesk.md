@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-29"
 date: "2026-10-29"
 source: "CoinDesk"
-count: 11
+count: 8
 ---
 
 # CoinDesk - 2026-10-29
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ Polymarket’s new Up/Down crypto contracts come as the CFTC renews scrutiny of 
 
 
 📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure)
-
----
-
-## 9. Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers
-
-**Author:** Olivier Acuna  
-**Published:** 10/29/2026, 2:15:46 PM  
-**Categories:** Finance, Bitcoin News, ETFs, News  
-
-SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers)
-
----
-
-## 10. Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner
-
-**Author:** Francisco Rodrigues,AI Boost  
-**Published:** 10/29/2026, 2:15:00 PM  
-**Categories:** Tech, Crypto News, Exclusive, News  
-
-The service uses perpetual futures quotes to update reference prices when traditional markets close.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner)
-
----
-
-## 11. New quantum model slashes hardware needed to break bitcoin keys by 17 times
-
-**Author:** Olivier Acuna  
-**Published:** 10/29/2026, 1:55:42 PM  
-**Categories:** Tech, quantum computing, Bitcoin News, News  
-
-Alice & Bob's new model reduces the hardware required for a potential attack, bringing it closer to reality and increasing pressure to adopt quantum-resistant security sooner.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times)
 
 ---
