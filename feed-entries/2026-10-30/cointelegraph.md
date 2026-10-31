@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-10-30"
 date: "2026-10-30"
 source: "Cointelegraph"
-count: 20
+count: 21
 ---
 
 # Cointelegraph - 2026-10-30
 
-20 items collected.
+21 items collected.
 
 ---
 
-## 1. Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B
+## 1. Binance hackers raced to move billions before it could be frozen
+
+**Author:** Cointelegraph by Christina Comben  
+**Published:** 10/30/2026, 10:00:00 PM  
+**Categories:** Magazine  
+
+Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize billions of dollars in assets.
+
+📖 [Read original article](https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/30/2026, 7:01:58 PM  
@@ -23,7 +35,7 @@ The stablecoin issuer’s US Treasury holdings are comparable to those of major 
 
 ---
 
-## 2. Coinbase leads crypto stock selloff following $6.3B Binance hack
+## 3. Coinbase leads crypto stock selloff following $6.3B Binance hack
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 10/30/2026, 5:48:27 PM  
@@ -35,7 +47,7 @@ Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after
 
 ---
 
-## 3. Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem
+## 4. Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem
 
 **Author:** Cointelegraph by Sam Bourgi  
 **Published:** 10/30/2026, 5:09:31 PM  
@@ -47,7 +59,7 @@ Bitcoin faces mounting quantum security concerns as Ripple secures a US banking 
 
 ---
 
-## 4. Recap: How Binance’s record $6.3B hack unfolded
+## 5. Recap: How Binance’s record $6.3B hack unfolded
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/30/2026, 4:53:46 PM  
@@ -59,7 +71,7 @@ A recap of Cointelegraph’s live coverage of the Binance hack, including early 
 
 ---
 
-## 5. As it happened: Binance’s record $6.3B crypto hack
+## 6. As it happened: Binance’s record $6.3B crypto hack
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/30/2026, 4:49:50 PM  
@@ -71,7 +83,7 @@ How Binance’s $6.3 billion hack unfolded, from the first onchain alerts to $3 
 
 ---
 
-## 6. Bitcoin risks worst October in 12 years as tech sell-off spreads to gold
+## 7. Bitcoin risks worst October in 12 years as tech sell-off spreads to gold
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/30/2026, 4:06:28 PM  
@@ -83,7 +95,7 @@ Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, wh
 
 ---
 
-## 7. Here’s what happened in crypto today
+## 8. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 10/30/2026, 2:07:42 PM  
@@ -95,7 +107,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 8. Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?
+## 9. Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 10/30/2026, 1:30:00 PM  
@@ -107,7 +119,7 @@ A US fusion startup says it has turned mercury into gold. Could a potential incr
 
 ---
 
-## 9. FBI and Secret Service join response to Binance’s $6.3B hack
+## 10. FBI and Secret Service join response to Binance’s $6.3B hack
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/30/2026, 1:11:10 PM  
@@ -119,7 +131,7 @@ US agencies are investigating the theft and helping trace stolen assets, while B
 
 ---
 
-## 10. Binance says it holds $5B in matching tokens to cover hack losses
+## 11. Binance says it holds $5B in matching tokens to cover hack losses
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/30/2026, 12:41:43 PM  
@@ -131,7 +143,7 @@ The exchange said it set aside more than $6.34 billion to cover losses and would
 
 ---
 
-## 11. Zcash grants group offers $124M compromise as governance backlash grows
+## 12. Zcash grants group offers $124M compromise as governance backlash grows
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/30/2026, 11:36:23 AM  
@@ -143,7 +155,7 @@ Zcash Community Grants proposed redirecting about $124 million in existing and f
 
 ---
 
-## 12. Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack
+## 13. Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 10/30/2026, 11:29:23 AM  
@@ -155,7 +167,7 @@ Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock se
 
 ---
 
-## 13. EIP-7702 didn’t cause Binance hack, but may have amplified losses
+## 14. EIP-7702 didn’t cause Binance hack, but may have amplified losses
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 10/30/2026, 11:00:10 AM  
@@ -167,7 +179,7 @@ Security experts said attackers could have drained Binance’s wallets without E
 
 ---
 
-## 14. Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury
+## 15. Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/30/2026, 10:54:30 AM  
@@ -179,7 +191,7 @@ The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corpor
 
 ---
 
-## 15. THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack
+## 16. THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 10/30/2026, 9:52:29 AM  
@@ -191,7 +203,7 @@ North Korean hackers previously used THORChain to move funds stolen from Bybit a
 
 ---
 
-## 16. Trezor warns CryptoBilis buyers to move funds over suspected implant
+## 17. Trezor warns CryptoBilis buyers to move funds over suspected implant
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/30/2026, 9:26:45 AM  
@@ -203,7 +215,7 @@ Trezor urged customers who bought devices from CryptoBilis since March to move t
 
 ---
 
-## 17. Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity
+## 18. Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 10/30/2026, 5:53:07 AM  
@@ -215,7 +227,7 @@ Michael Saylor says Strategy could create up to $30 billion in digital credit wi
 
 ---
 
-## 18. North Korea’s TraderTraitor linked to $6.3B Binance hack
+## 19. North Korea’s TraderTraitor linked to $6.3B Binance hack
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/30/2026, 5:51:41 AM  
@@ -227,7 +239,7 @@ TRM Labs said it has high confidence in the attribution, while ZachXBT identifie
 
 ---
 
-## 19. Binance hack could accelerate shift to DEXs: Standard Chartered
+## 20. Binance hack could accelerate shift to DEXs: Standard Chartered
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/30/2026, 3:47:01 AM  
@@ -239,7 +251,7 @@ Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shif
 
 ---
 
-## 20. Binance points to engineer’s hacked laptop in $6.3B breach
+## 21. Binance points to engineer’s hacked laptop in $6.3B breach
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 10/30/2026, 12:11:26 AM  
