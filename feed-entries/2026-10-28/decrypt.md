@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-28"
 date: "2026-10-28"
 source: "Decrypt"
-count: 7
+count: 6
 ---
 
 # Decrypt - 2026-10-28
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ OpenAI, one of Nvidia's biggest customers, reportedly plans to buy Google's TPU 
 The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.
 
 📖 [Read original article](https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike)
-
----
-
-## 7. AI Can Quietly Influence Experts’ Decisions, Anthropic Study Finds
-
-**Author:** Jose Antonio Lanz  
-**Published:** 10/28/2026, 5:36:02 PM  
-**Categories:** Artificial Intelligence  
-
-Professional analysts went along with their AI agent’s hidden opinion 86% of the time, and few credited it.
-
-📖 [Read original article](https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions)
 
 ---
