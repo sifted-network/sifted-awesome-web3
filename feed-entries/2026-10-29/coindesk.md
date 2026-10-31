@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-29"
 date: "2026-10-29"
 source: "CoinDesk"
-count: 7
+count: 6
 ---
 
 # CoinDesk - 2026-10-29
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ The two networks are setting aside their rivalry to connect Solana's stablecoin 
 The former Huobi exchange has stopped accepting deposits from British customers and agreed not to target them with crypto promotions.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca)
-
----
-
-## 7. Polymarket brings ultra-short crypto prediction markets to U.S. platform
-
-**Author:** Olivier Acuna  
-**Published:** 10/29/2026, 2:55:47 PM  
-**Categories:** Markets, Polymarket, Prediction Markets, Bitcoin News, News  
-
-Polymarket’s new Up/Down crypto contracts come as the CFTC renews scrutiny of the prediction market’s compliance with its 2022 U.S. onboarding terms.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform)
 
 ---
