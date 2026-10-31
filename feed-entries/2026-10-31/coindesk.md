@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-10-31"
 date: "2026-10-31"
 source: "CoinDesk"
-count: 11
+count: 12
 ---
 
 # CoinDesk - 2026-10-31
 
-11 items collected.
+12 items collected.
 
 ---
 
-## 1. A stolen iPhone, $14,000 in losses and London's crypto theft problem
+## 1. Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered
+
+**Author:** Michael Tanguma  
+**Published:** 10/31/2026, 6:00:00 PM  
+**Categories:** Opinion, Opinion  
+
+Eighteen years after Satoshi published the Bitcoin white paper, business owners are still covering the cost of a system built on bailouts, and they can protect part of their surplus by keeping it in bitcoin, argues Onramp CEO Michael Tanguma.
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered)
+
+---
+
+## 2. A stolen iPhone, $14,000 in losses and London's crypto theft problem
 
 **Author:** Olivier Acuna  
 **Published:** 10/31/2026, 4:09:30 PM  
@@ -23,7 +35,7 @@ Two strangers befriended Magnus Ahmad outside a London bar. Hours later, thieves
 
 ---
 
-## 2. Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts
+## 3. Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts
 
 **Author:** Oliver Knight  
 **Published:** 10/31/2026, 4:00:00 PM  
@@ -35,7 +47,7 @@ Trade.xyz’s new ANT contract fell about 20% in its first hour on Hyperliquid. 
 
 ---
 
-## 3. Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach
+## 4. Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach
 
 **Author:** Francisco Rodrigues  
 **Published:** 10/31/2026, 3:24:10 PM  
@@ -47,7 +59,7 @@ Binance is absorbing all losses through corporate funds, futures reserves, and S
 
 ---
 
-## 4. Institutions embrace crypto staking despite shrinking yields
+## 5. Institutions embrace crypto staking despite shrinking yields
 
 **Author:** Will Canny,AI Boost  
 **Published:** 10/31/2026, 3:00:00 PM  
@@ -59,7 +71,7 @@ Easier access and growing familiarity are encouraging investors to stake their t
 
 ---
 
-## 5. Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton
+## 6. Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton
 
 **Author:** Krisztian Sandor  
 **Published:** 10/31/2026, 2:40:29 PM  
@@ -71,7 +83,7 @@ The pilot let Uber keep funds invested in money market products while accessing 
 
 ---
 
-## 6. As big bitcoin miners chase AI profits, individuals get another shot at the rewards
+## 7. As big bitcoin miners chase AI profits, individuals get another shot at the rewards
 
 **Author:** Olivier Acuna  
 **Published:** 10/31/2026, 2:00:00 PM  
@@ -83,7 +95,7 @@ Several companies offer access to bitcoin mining without the hassle of running e
 
 ---
 
-## 7. 18 years in, what has Bitcoin truly done?
+## 8. 18 years in, what has Bitcoin truly done?
 
 **Author:** Nikhilesh De  
 **Published:** 10/31/2026, 1:00:00 PM  
@@ -95,7 +107,7 @@ The Bitcoin white paper achieved a lot of what Satoshi Nakamoto set out to accom
 
 ---
 
-## 8. A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears
+## 9. A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears
 
 **Author:** Shaurya Malwa  
 **Published:** 10/31/2026, 12:49:47 PM  
@@ -107,7 +119,7 @@ Next Technology Holding cited exchange security and quantum computing risks in a
 
 ---
 
-## 9. The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion
+## 10. The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion
 
 **Author:** Jamie Crawley,AI Boost  
 **Published:** 10/31/2026, 12:00:00 PM  
@@ -119,7 +131,7 @@ The Binance hack has revived debates about whether decentralization is the digit
 
 ---
 
-## 10. Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve
+## 11. Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve
 
 **Author:** Shaurya Malwa  
 **Published:** 10/31/2026, 5:01:32 AM  
@@ -131,7 +143,7 @@ The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of Sp
 
 ---
 
-## 11. OpenAI reportedly cuts fundraising and valuation targets amid AI jitters
+## 12. OpenAI reportedly cuts fundraising and valuation targets amid AI jitters
 
 **Author:** Stephen Alpher  
 **Published:** 10/31/2026, 12:48:56 AM  
