@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-29"
 date: "2026-10-29"
 source: "Cointelegraph"
-count: 10
+count: 9
 ---
 
 # Cointelegraph - 2026-10-29
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ The tokenized shares would carry the same shareholder rights as traditional stoc
 The funding round comes as Kalshi expands its partnerships with the NBA and S&P Dow Jones Indices while facing legal challenges over its sports contracts.
 
 📖 [Read original article](https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Bitcoin price jumps to $81.5K as US GDP data beats expectations
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 10/29/2026, 3:39:54 PM  
-**Categories:** Markets  
-
-BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet’s Q3 earnings miss.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
