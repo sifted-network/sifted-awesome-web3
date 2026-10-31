@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-30"
 date: "2026-10-30"
 source: "CoinDesk"
-count: 14
+count: 13
 ---
 
 # CoinDesk - 2026-10-30
 
-14 items collected.
+13 items collected.
 
 ---
 
@@ -164,17 +164,5 @@ A set of fixes would tighten who can hold permissioned tokens on the network. Th
 CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity)
-
----
-
-## 14. Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze
-
-**Author:** Shaurya Malwa  
-**Published:** 10/30/2026, 4:50:42 AM  
-**Categories:** Markets, Binance, News  
-
-All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze)
 
 ---
