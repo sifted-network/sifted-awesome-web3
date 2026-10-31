@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-29"
 date: "2026-10-29"
 source: "CoinDesk"
-count: 6
+count: 5
 ---
 
 # CoinDesk - 2026-10-29
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ The exchange is closing accounts in both countries after MEXC and Bitget announc
 The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's banking, wallet and payment infrastructure.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks)
-
----
-
-## 6. Crypto exchange HTX exits the UK after settling with the FCA
-
-**Author:** Olivier Acuna  
-**Published:** 10/29/2026, 4:11:18 PM  
-**Categories:** Policy, UK, Regulation, News  
-
-The former Huobi exchange has stopped accepting deposits from British customers and agreed not to target them with crypto promotions.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca)
 
 ---
