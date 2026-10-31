@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-29"
 date: "2026-10-29"
 source: "Cointelegraph"
-count: 9
+count: 8
 ---
 
 # Cointelegraph - 2026-10-29
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ The exchange cited legal and regulatory compliance in its reason for cutting off
 The tokenized shares would carry the same shareholder rights as traditional stock, with round-the-clock trading and immediate settlement under the SEC’s innovation exemption.
 
 📖 [Read original article](https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 10/29/2026, 3:52:43 PM  
-**Categories:** Latest News  
-
-The funding round comes as Kalshi expands its partnerships with the NBA and S&P Dow Jones Indices while facing legal challenges over its sports contracts.
-
-📖 [Read original article](https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
