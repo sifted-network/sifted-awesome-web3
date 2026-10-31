@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-30"
 date: "2026-10-30"
 source: "CoinDesk"
-count: 18
+count: 14
 ---
 
 # CoinDesk - 2026-10-30
 
-18 items collected.
+14 items collected.
 
 ---
 
@@ -176,53 +176,5 @@ CoinDCX has restricted new futures positions after Binance’s security incident
 All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze)
-
----
-
-## 15. Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower
-
-**Author:** Omkar Godbole  
-**Published:** 10/30/2026, 4:00:43 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead)
-
----
-
-## 16. Institutional crypto investors rush to pull funds from exchanges after Binance hack
-
-**Author:** Will Canny  
-**Published:** 10/30/2026, 3:56:40 AM  
-**Categories:** Markets, Binance, Hack, Exclusive, News  
-
-The withdrawals suggest the fallout from the multibillion-dollar breach is spreading beyond Binance.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack)
-
----
-
-## 17. Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths
-
-**Author:** Nikhilesh De,Cheyenne Ligon  
-**Published:** 10/30/2026, 3:36:11 AM  
-**Categories:** Policy, Binance, North Korea, News  
-
-Security researchers suggested that the hermit kingdom's Lazarus Group was behind Thursday's nearly $6 billion hack of the world's largest crypto exchange.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths)
-
----
-
-## 18. Binance hack drained wallets backing customer assets, reserve data shows
-
-**Author:** Oliver Knight  
-**Published:** 10/30/2026, 12:17:10 AM  
-**Categories:** Finance, Binance, News  
-
-Binance’s own reserve data lists the drained wallets as backing customer balances, leaving its ether backing an estimated 6% short until the exchange replaces what was stolen.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows)
 
 ---
