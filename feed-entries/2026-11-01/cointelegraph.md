@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-11-01"
 date: "2026-11-01"
 source: "Cointelegraph"
-count: 2
+count: 4
 ---
 
 # Cointelegraph - 2026-11-01
 
-2 items collected.
+4 items collected.
 
 ---
 
-## 1. Binance says phase one of withdrawals opens after $6.3B hack
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Michael Millard  
+**Published:** 11/1/2026, 2:17:00 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. DeepSeek developing AI agent requiring less human input: Report
+
+**Author:** Cointelegraph by Michael Millard  
+**Published:** 11/1/2026, 1:40:33 PM  
+**Categories:** Latest News  
+
+The proposal comes amid intense competition among AI developers, including US companies Anthropic and OpenAI, the SCMP said.
+
+📖 [Read original article](https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Binance says phase one of withdrawals opens after $6.3B hack
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 11/1/2026, 9:38:18 AM  
@@ -23,7 +47,7 @@ The crypto exchange said it has begun phased withdrawals after the record hack t
 
 ---
 
-## 2. FBI blames North Korea for record $6.3B Binance hack
+## 4. FBI blames North Korea for record $6.3B Binance hack
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 11/1/2026, 7:44:38 AM  
