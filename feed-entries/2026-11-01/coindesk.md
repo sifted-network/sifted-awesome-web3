@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-11-01"
 date: "2026-11-01"
 source: "CoinDesk"
-count: 1
+count: 2
 ---
 
 # CoinDesk - 2026-11-01
 
-1 items collected.
+2 items collected.
 
 ---
 
-## 1. FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses
+## 1. Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack
+
+**Author:** Omkar Godbole,AI Boost  
+**Published:** 11/1/2026, 10:35:42 AM  
+**Categories:** Markets, News  
+
+Binance reopens customer withdrawals following a record $6.3 billion exploit. Bitcoin leads the first phase.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack)
+
+---
+
+## 2. FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses
 
 **Author:** Nikhilesh De  
 **Published:** 11/1/2026, 1:10:05 AM  
