@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-31"
 date: "2026-10-31"
 source: "Cointelegraph"
-count: 7
+count: 6
 ---
 
 # Cointelegraph - 2026-10-31
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ Strive CEO Matt Cole says the Binance hack has not changed his long-term case fo
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Michael Millard  
-**Published:** 10/31/2026, 3:09:55 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Bitcoin turns 18: Has the original rebel grown up?
+## 3. Bitcoin turns 18: Has the original rebel grown up?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 10/31/2026, 2:27:52 PM  
@@ -59,7 +47,7 @@ In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-
 
 ---
 
-## 5. Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping
+## 4. Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/31/2026, 1:37:49 PM  
@@ -71,7 +59,7 @@ Home invasions became the most common form of crypto wrench attacks worldwide du
 
 ---
 
-## 6. Blockchain investigator Chainalysis hit by cybersecurity incident
+## 5. Blockchain investigator Chainalysis hit by cybersecurity incident
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/31/2026, 11:22:49 AM  
@@ -83,7 +71,7 @@ The company said some non-sensitive customer data was exposed, including user ID
 
 ---
 
-## 7. Binance $6.3B record hack sparks pre-election political clashes
+## 6. Binance $6.3B record hack sparks pre-election political clashes
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 10/31/2026, 9:58:50 AM  
