@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-30"
 date: "2026-10-30"
 source: "CoinDesk"
-count: 13
+count: 12
 ---
 
 # CoinDesk - 2026-10-30
 
-13 items collected.
+12 items collected.
 
 ---
 
@@ -152,17 +152,5 @@ Bets on rising prices accounted for nearly 84% of forced closures, with Binance 
 A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens)
-
----
-
-## 13. Binance hack bites India's largest crypto exchange as it curbs futures trading
-
-**Author:** Omkar Godbole  
-**Published:** 10/30/2026, 5:43:07 AM  
-**Categories:** Markets, Binance, Hack, News  
-
-CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity)
 
 ---
