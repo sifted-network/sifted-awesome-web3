@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-30"
 date: "2026-10-30"
 source: "CoinDesk"
-count: 11
+count: 5
 ---
 
 # CoinDesk - 2026-10-30
 
-11 items collected.
+5 items collected.
 
 ---
 
@@ -68,77 +68,5 @@ Binance said it reserved its own funds to cover the $6.3 billion hack, including
 Your day-ahead look for Oct. 30, 2026
 
 📖 [Read original article](https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit)
-
----
-
-## 6. Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss
-
-**Author:** Shaurya Malwa  
-**Published:** 10/30/2026, 11:35:16 AM  
-**Categories:** Tech, Binance, Hack, News  
-
-On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance)
-
----
-
-## 7. Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 10/30/2026, 11:09:24 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower)
-
----
-
-## 8. Strategy CFO Andrew Kang resigns as company posts record operating profit
-
-**Author:** James Van Straten,AI Boost  
-**Published:** 10/30/2026, 9:41:07 AM  
-**Categories:** Markets, Bitcoin News, MicroStrategy, News  
-
-Andrew Kang’s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6)
-
----
-
-## 9. Live updates: Bitcoin falls below $77,000 as Binance exploit combines with tech woes
-
-**Author:** James Van Straten,Shaurya Malwa,Stephen Alpher,Krisztian Sandor  
-**Published:** 10/30/2026, 8:36:52 AM  
-**Categories:** Markets, Live News, live_news  
-
-The $6.3 billion Binance hack added to crypto jitters, while weak earnings outlooks and mounting concerns over AI spending pushed the Nasdaq down more than 2%.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech)
-
----
-
-## 10. Binance hacker dumps a little-known 2017 token and it crashes 90%
-
-**Author:** Omkar Godbole  
-**Published:** 10/30/2026, 7:54:07 AM  
-**Categories:** Markets, Binance, News  
-
-The hacker dumped FUN and other smaller tokens into markets too small to absorb large selling, leading to price crashes.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90)
-
----
-
-## 11. Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets
-
-**Author:** Shaurya Malwa  
-**Published:** 10/30/2026, 6:22:00 AM  
-**Categories:** Markets, News  
-
-Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching short sellers.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets)
 
 ---
