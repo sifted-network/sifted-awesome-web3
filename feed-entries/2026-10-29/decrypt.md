@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-10-29"
 date: "2026-10-29"
 source: "Decrypt"
-count: 16
+count: 14
 ---
 
 # Decrypt - 2026-10-29
 
-16 items collected.
+14 items collected.
 
 ---
 
@@ -176,29 +176,5 @@ The FCA says the Justin Sun-linked exchange will no longer target UK consumers, 
 Now the BTC ETFs have flipped green for the month after $400M+ inflows this week, setting the stage for a big November.
 
 📖 [Read original article](https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in)
-
----
-
-## 15. Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto
-
-**Author:** Decrypt Agent  
-**Published:** 10/29/2026, 11:32:51 AM  
-**Categories:** , , Law and Order  
-
-Two Russian nationals converted more than $5 million in crypto for North Korean networks, according to OFAC, which listed their wallets.
-
-📖 [Read original article](https://decrypt.co/382132/treasury-sanctions-11-over-north-korean-it-worker-scheme-that-moved-millions-in-crypto)
-
----
-
-## 16. Utah Files Felony Charges Against Kalshi, Co-Founders Over Sports Bets
-
-**Author:** Decrypt Agent  
-**Published:** 10/29/2026, 11:06:40 AM  
-**Categories:** Law and Order  
-
-The state says an undercover agent placed a dozen sports wagers on Kalshi, a day after the CFTC sued Utah to block its enforcement actions.
-
-📖 [Read original article](https://decrypt.co/382124/utah-files-felony-charges-against-kalshi-co-founders-over-sports-bets)
 
 ---
