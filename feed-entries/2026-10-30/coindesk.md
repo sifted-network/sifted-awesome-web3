@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-10-30"
 date: "2026-10-30"
 source: "CoinDesk"
-count: 12
+count: 11
 ---
 
 # CoinDesk - 2026-10-30
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ The hacker dumped FUN and other smaller tokens into markets too small to absorb 
 Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching short sellers.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets)
-
----
-
-## 12. XRP Ledger developers tighten the rules for who can hold 'restricted' tokens
-
-**Author:** Shaurya Malwa  
-**Published:** 10/30/2026, 5:45:27 AM  
-**Categories:** Tech, News  
-
-A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens)
 
 ---
