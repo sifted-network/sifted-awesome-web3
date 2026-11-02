@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-10-30"
 date: "2026-10-30"
 source: "Cointelegraph"
-count: 20
+count: 17
 ---
 
 # Cointelegraph - 2026-10-30
 
-20 items collected.
+17 items collected.
 
 ---
 
@@ -212,41 +212,5 @@ Trezor urged customers who bought devices from CryptoBilis since March to move t
 Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as the company plans more BTC purchases.
 
 📖 [Read original article](https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. North Korea’s TraderTraitor linked to $6.3B Binance hack
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/30/2026, 5:51:41 AM  
-**Categories:** Latest News  
-
-TRM Labs said it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address.
-
-📖 [Read original article](https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Binance hack could accelerate shift to DEXs: Standard Chartered
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/30/2026, 3:47:01 AM  
-**Categories:** Latest News  
-
-Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Binance points to engineer’s hacked laptop in $6.3B breach
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 10/30/2026, 12:11:26 AM  
-**Categories:** Latest News  
-
-Binance said attackers may have used a compromised DevOps laptop to access internal infrastructure.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
