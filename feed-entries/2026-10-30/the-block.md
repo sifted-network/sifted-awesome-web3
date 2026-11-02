@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-30"
 date: "2026-10-30"
 source: "The Block"
-count: 8
+count: 7
 ---
 
 # The Block - 2026-10-30
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -92,17 +92,5 @@ Bernstein analysts said Coinbase's expanding prediction markets and derivatives 
 Trezor urged CryptoBilis buyers to migrate funds after receiving a credible report of a hardware implant inside a Safe 5 device.
 
 📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196)
-
----
-
-## 8. Bitcoin slides below $77,000, BNB drops amid Binance hack
-
-**Author:** Timmy Shen  
-**Published:** 10/30/2026, 2:22:31 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Markets, News  
-
-BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183)
 
 ---
