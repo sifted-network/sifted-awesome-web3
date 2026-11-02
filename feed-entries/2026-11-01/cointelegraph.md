@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-01"
 date: "2026-11-01"
 source: "Cointelegraph"
-count: 6
+count: 5
 ---
 
 # Cointelegraph - 2026-11-01
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -23,7 +23,7 @@ The exchange says withdrawals surged after some services resumed but have since 
 
 ---
 
-## 2. Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest
+## 2. THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 11/1/2026, 11:09:13 PM  
@@ -35,19 +35,7 @@ Binance has reopened withdrawals following the world’s biggest ever hack, and 
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Michael Millard  
-**Published:** 11/1/2026, 2:17:00 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. DeepSeek developing AI agent requiring less human input: Report
+## 3. DeepSeek developing AI agent requiring less human input: Report
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 11/1/2026, 1:40:33 PM  
@@ -59,7 +47,7 @@ The proposal comes amid intense competition among AI developers, including US co
 
 ---
 
-## 5. Binance says phase one of withdrawals opens after $6.3B hack
+## 4. Binance says phase one of withdrawals opens after $6.3B hack
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 11/1/2026, 9:38:18 AM  
@@ -71,7 +59,7 @@ The crypto exchange said it has begun phased withdrawals after the record hack t
 
 ---
 
-## 6. FBI blames North Korea for record $6.3B Binance hack
+## 5. FBI blames North Korea for record $6.3B Binance hack
 
 **Author:** Cointelegraph by Michael Millard  
 **Published:** 11/1/2026, 7:44:38 AM  
