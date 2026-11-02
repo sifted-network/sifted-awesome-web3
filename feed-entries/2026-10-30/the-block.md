@@ -2,12 +2,12 @@
 title: "The Block - 2026-10-30"
 date: "2026-10-30"
 source: "The Block"
-count: 7
+count: 4
 ---
 
 # The Block - 2026-10-30
 
-7 items collected.
+4 items collected.
 
 ---
 
@@ -56,41 +56,5 @@ Two brothers who held a family for nine hours at gunpoint in Minnesota for $8 mi
 Strategy fell after Q3 earnings, but StoneX & TD Cowen kept buy ratings, citing $4.83B cash reserve and more stable STRC preferred structure.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214)
-
----
-
-## 5. Binance says it has $6.34 billion ready to cover hack losses
-
-**Author:** Brian Danga  
-**Published:** 10/30/2026, 1:14:56 PM  
-**Categories:** Companies, Crypto Ecosystems, Exchanges, Markets, Policy, Regulation, Security, Stablecoins, Token Projects, Binance, Exploits, Tether, USDC, News  
-
-Binance has allocated $6.34 billion to cover hack losses, while industry partners have frozen another $3 billion in affected assets.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208)
-
----
-
-## 6. Coinbase Q3 net income jumps 66% as prediction markets gain traction
-
-**Author:** Timmy Shen  
-**Published:** 10/30/2026, 8:57:09 AM  
-**Categories:** Companies, Markets, News  
-
-Bernstein analysts said Coinbase's expanding prediction markets and derivatives businesses helped offset weaker spot trading activity.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189)
-
----
-
-## 7. Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis
-
-**Author:** Brian Danga  
-**Published:** 10/30/2026, 8:55:39 AM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, Infrastructure, Wallets, News  
-
-Trezor urged CryptoBilis buyers to migrate funds after receiving a credible report of a hardware implant inside a Safe 5 device.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196)
 
 ---
