@@ -2,16 +2,124 @@
 title: "Cointelegraph - 2026-11-02"
 date: "2026-11-02"
 source: "Cointelegraph"
-count: 15
+count: 23
 ---
 
 # Cointelegraph - 2026-11-02
 
-15 items collected.
+23 items collected.
 
 ---
 
-## 1. Strategy spends triple its weekly Bitcoin outlay on STRC buybacks
+## 1. North Korea denies role in $6.3B Binance hack, points finger at US
+
+**Author:** Cointelegraph by Felix Ng  
+**Published:** 11/2/2026, 11:07:07 PM  
+**Categories:** Latest News  
+
+Pyongyang has pushed back against the FBI’s attribution of the Binance attack, with Kim Yo Jong calling the US allegations politically motivated.
+
+📖 [Read original article](https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 11/2/2026, 10:36:09 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. New Jersey drops Coinbase staking order ahead of crypto’s midterm test
+
+**Author:** Cointelegraph by Isabelle Castro  
+**Published:** 11/2/2026, 10:22:30 PM  
+**Categories:** Latest News  
+
+New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to restore staking access for users in the US state.
+
+📖 [Read original article](https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. AI poses greater threat to Bitcoin than quantum computing, Swan founder says
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/2/2026, 9:54:41 PM  
+**Categories:** Latest News  
+
+The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts.
+
+📖 [Read original article](https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Crypto investigators flag suspected $106M theft, $786K Solana bot drain
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/2/2026, 9:16:24 PM  
+**Categories:** Latest News  
+
+A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000.
+
+📖 [Read original article](https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Coinbase hit with 50% price target cut as post-earnings rout deepens
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/2/2026, 8:22:23 PM  
+**Categories:** Latest News  
+
+Slowing trading activity and fallout from the Binance hack are clouding Coinbase’s revenue prospects, prompting Morgan Stanley to lower its rating on the stock.
+
+📖 [Read original article](https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 11/2/2026, 7:27:58 PM  
+**Categories:** Markets  
+
+Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Mercado Bitcoin wallets show post-hack transfers after $46M theft
+
+**Author:** Cointelegraph by Isabelle Castro  
+**Published:** 11/2/2026, 7:05:35 PM  
+**Categories:** Latest News  
+
+Brazil’s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe.
+
+📖 [Read original article](https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Animoca Brands clears final hurdle for Abu Dhabi fund management
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/2/2026, 6:00:16 PM  
+**Categories:** Latest News  
+
+The former mobile games company is building out its fund management business in Abu Dhabi as it targets institutional demand for stablecoins and tokenized assets.
+
+📖 [Read original article](https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 10. Strategy spends triple its weekly Bitcoin outlay on STRC buybacks
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/2/2026, 1:48:28 PM  
@@ -23,7 +131,7 @@ Strategy spent $208.2 million buying back STRC preferred shares and $65.5 millio
 
 ---
 
-## 2. AI agent disputes head to ‘Internet Court’ — and a jury of AI agents
+## 11. AI agent disputes head to ‘Internet Court’ — and a jury of AI agents
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 11/2/2026, 1:30:00 PM  
@@ -35,19 +143,7 @@ Who better to judge a dispute between AI agents than a jury of different AI mode
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 11/2/2026, 1:29:29 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Binance taps half its SAFU Bitcoin holdings, releases reserve proof
+## 12. Binance taps half its SAFU Bitcoin holdings, releases reserve proof
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/2/2026, 1:21:47 PM  
@@ -59,7 +155,7 @@ Binance’s SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC tran
 
 ---
 
-## 5. FATF targets crypto hubs in review of money laundering controls
+## 13. FATF targets crypto hubs in review of money laundering controls
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/2/2026, 12:56:07 PM  
@@ -71,7 +167,7 @@ The watchdog has not named the jurisdictions under review. Initial findings on c
 
 ---
 
-## 6. Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis
+## 14. Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/2/2026, 12:40:45 PM  
@@ -83,7 +179,7 @@ Crypto exchange Gate said it froze two linked accounts as US investigators urged
 
 ---
 
-## 7. From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?
+## 15. From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/2/2026, 11:19:18 AM  
@@ -95,7 +191,7 @@ Bitcoin lost 7.3% in October 2026 after another decline the previous year, despi
 
 ---
 
-## 8. Trezor lifts password ceiling after Coldcard’s $100M wallet thefts
+## 16. Trezor lifts password ceiling after Coldcard’s $100M wallet thefts
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/2/2026, 10:46:59 AM  
@@ -107,7 +203,7 @@ Trezor cited July’s Coldcard attacks, in which strong passphrases helped prote
 
 ---
 
-## 9. Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials
+## 17. Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/2/2026, 10:14:55 AM  
@@ -119,7 +215,7 @@ The HKMA plans to bring regulated stablecoins into tokenized government debt tri
 
 ---
 
-## 10. BTC heads into US midterm showdown: Three things to know in Bitcoin this week
+## 18. BTC heads into US midterm showdown: Three things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/2/2026, 9:41:36 AM  
@@ -131,7 +227,7 @@ Bitcoin price action held its 100-day moving average into the monthly close as c
 
 ---
 
-## 11. OKX draws $445M in net inflows as Binance outflows exceed $7B
+## 19. OKX draws $445M in net inflows as Binance outflows exceed $7B
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/2/2026, 8:56:03 AM  
@@ -143,7 +239,7 @@ OKX led cryptocurrency exchanges with $445 million in daily inflows, while Binan
 
 ---
 
-## 12. Bitcoin ETFs sink into October outflows with $643M exit after Binance hack
+## 20. Bitcoin ETFs sink into October outflows with $643M exit after Binance hack
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/2/2026, 7:50:36 AM  
@@ -155,7 +251,7 @@ US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while E
 
 ---
 
-## 13. BTCPay Server warns of hot wallet thefts running on outdated software
+## 21. BTCPay Server warns of hot wallet thefts running on outdated software
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/2/2026, 5:34:02 AM  
@@ -167,7 +263,7 @@ BTCPay Server urged operators to shut down their servers after receiving reports
 
 ---
 
-## 14. Bank of Korea probes financial firms’ exposure to crypto risks
+## 22. Bank of Korea probes financial firms’ exposure to crypto risks
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/2/2026, 3:55:50 AM  
@@ -179,7 +275,7 @@ The central bank is surveying 31 financial institutions on how a major exchange 
 
 ---
 
-## 15. THORChain halts swaps after block reorg bug, slowing Binance hackers
+## 23. THORChain halts swaps after block reorg bug, slowing Binance hackers
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/2/2026, 1:51:48 AM  
