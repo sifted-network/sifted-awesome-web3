@@ -6,7 +6,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 895 | 112 | - | 4 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-10-12 |
+| 1 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 897 | 112 | - | 4 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-10-12 |
 | 2 | [mango](https://github.com/MangoNet-Labs/mango) | 269 | 74 | Rust | 1 | Mango Network is a Layer1 blockchain based on the Dpos consensus mechanism and supported by Move to build a transaction-based omni-chain infrastructure network. | 2025-06-21 |
 | 3 | [Mavryk-Wallet](https://github.com/MeoMunDep/Mavryk-Wallet) | 140 | 5 | Shell | 0 | Auto  connect wallet, send token, stake, create vault, deposit, earn, borrow, faucet token.  | 2025-09-26 |
 | 4 | [layer1](https://github.com/LNP-BP/layer1) | 66 | 12 | - | 2 | Paper on new bitcoin layer 1 design | 2023-10-04 |
@@ -54,7 +54,7 @@
 | 46 | [webrouter](https://github.com/laincloud/webrouter) | 3 | 8 | Python | 0 | A layer 1 application for routing http(s) requests of LAIN's web applications | 2018-02-27 |
 | 47 | [rebellion](https://github.com/laincloud/rebellion) | 3 | 4 | Go | 1 | LAIN's component for collecting logs of LAIN and its applications | 2018-08-22 |
 | 48 | [backupd](https://github.com/laincloud/backupd) | 3 | 0 | Go | 0 | LAIN's component, backup lain app's volume directory | 2018-08-28 |
-| 49 | [mbongo-chain](https://github.com/MbongoChain/mbongo-chain) | 3 | 8 | Rust | 7 | Deterministic Layer-1 for verifiable AI inference. Mbongo verifies off-chain AI execution receipts on-chain, enabling trustless AI-driven finance, risk engines, and decentralized compute coordination. | 2026-10-27 |
+| 49 | [mbongo-chain](https://github.com/MbongoChain/mbongo-chain) | 3 | 8 | Rust | 11 | Deterministic Layer-1 for verifiable AI inference. Mbongo verifies off-chain AI execution receipts on-chain, enabling trustless AI-driven finance, risk engines, and decentralized compute coordination. | 2026-11-03 |
 | 50 | [cman](https://github.com/phantasma-io-archive/cman) | 3 | 3 | C# | 0 | Phantasma - Contract Deployer | 2023-05-04 |
 | 51 | [Phantasma-Hub](https://github.com/phantasma-io-archive/Phantasma-Hub) | 3 | 9 | Svelte | 0 | Phantasma Hub is a power full to for Dapp Developers in the PhantasmaChain, that allows users test, vote and do everything they want. | 2024-03-04 |
 | 52 | [curs3d](https://github.com/Pazificateur69/curs3d) | 3 | 0 | Rust | 0 | Quantum-resistant Layer 1 blockchain written from scratch in Rust. CRYSTALS-Dilithium 5, BFT PoS, WASM smart contracts, EIP-1559 fees. 209 tests, MIT License. | 2026-05-22 |
@@ -79,30 +79,30 @@
 | 71 | [kaia-eliza-plugin](https://github.com/kaiachain/kaia-eliza-plugin) | 2 | 2 | TypeScript | 0 | Kaia Plugin for ElizaOS | 2025-04-16 |
 | 72 | [Mango-Audits](https://github.com/MangoNet-Labs/Mango-Audits) | 2 | 2 | - | 0 | Mango Network is a Layer1 blockchain based on the Dpos consensus mechanism and supported by Move to build a transaction-based omni-chain infrastructure network. | 2025-07-17 |
 | 73 | [NPSharp](https://github.com/icedream/NPSharp) | 2 | 1 | C# | 0 | Library for communication with NTAuthority's Network Platform (Terminal/Layer1) server. | 2015-03-22 |
-| 74 | [Phantasma-UnityPackage](https://github.com/phantasma-io-archive/Phantasma-UnityPackage) | 2 | 4 | C# | 0 | Unity SDK for Phantasma | 2023-04-04 |
-| 75 | [concordium-mcp-server](https://github.com/Developerayo/concordium-mcp-server) | 2 | 1 | TypeScript | 1 | Concordium mcp-sever for interacting with the concordium chain | 2025-07-30 |
+| 74 | [concordium-mcp-server](https://github.com/Developerayo/concordium-mcp-server) | 2 | 1 | TypeScript | 1 | Concordium mcp-sever for interacting with the concordium chain | 2025-07-30 |
+| 75 | [Phantasma-UnityPackage](https://github.com/phantasma-io-archive/Phantasma-UnityPackage) | 2 | 4 | C# | 0 | Unity SDK for Phantasma | 2023-04-04 |
 | 76 | [Phantasma-Py](https://github.com/phantasma-io-archive/Phantasma-Py) | 2 | 3 | Python | 0 | Phantasma Python SDK | 2023-12-13 |
-| 77 | [tp5-layer-admin](https://github.com/z1px/tp5-layer-admin) | 2 | 0 | PHP | 0 | 基于thinkphp5.0.10+layer1.0.9-rls后台权限管理系统 | 2017-11-29 |
-| 78 | [revo](https://github.com/revolutionchain/revo) | 2 | 0 | C++ | 2 | Official Revo Blockchain repository | 2024-01-17 |
-| 79 | [ZionLayerOne](https://github.com/zibtree/ZionLayerOne) | 2 | 0 | Go | 0 | The AI-Native Layer 1 Blockchain | 2026-09-20 |
-| 80 | [NEV369](https://github.com/Paulio88/NEV369) | 2 | 0 | Rust | 0 | NEV369 is a high-performance, Rust-based Layer-1 blockchain featuring a fixed 369M supply, asynchronous Actix-web networking, Sled persistence, and post-quantum Dilithium signatures. Fully open-source... | 2026-08-20 |
-| 81 | [vtt](https://github.com/vettor-chain/vtt) | 2 | 0 | Rust | 0 | Layer 1 blockchain for tokenizing real-world assets. DPoS consensus, WASM smart contracts, built-in DEX, cross-chain bridge. | 2026-04-19 |
-| 82 | [nova-shield-chain](https://github.com/NovaShieldDev/nova-shield-chain) | 2 | 0 | Rust | 0 | Layer 1 blockchain in Rust. BFT + GRANDPA + Snowball consensus, Groth16 ZK proofs, threshold MPC, encrypted mempool, native inheritance protocol. Mainnet live. | 2026-10-12 |
+| 77 | [revo](https://github.com/revolutionchain/revo) | 2 | 0 | C++ | 2 | Official Revo Blockchain repository | 2024-01-17 |
+| 78 | [ZionLayerOne](https://github.com/zibtree/ZionLayerOne) | 2 | 0 | Go | 0 | The AI-Native Layer 1 Blockchain | 2026-09-20 |
+| 79 | [NEV369](https://github.com/Paulio88/NEV369) | 2 | 0 | Rust | 0 | NEV369 is a high-performance, Rust-based Layer-1 blockchain featuring a fixed 369M supply, asynchronous Actix-web networking, Sled persistence, and post-quantum Dilithium signatures. Fully open-source... | 2026-08-20 |
+| 80 | [vtt](https://github.com/vettor-chain/vtt) | 2 | 0 | Rust | 0 | Layer 1 blockchain for tokenizing real-world assets. DPoS consensus, WASM smart contracts, built-in DEX, cross-chain bridge. | 2026-04-19 |
+| 81 | [nova-shield-chain](https://github.com/NovaShieldDev/nova-shield-chain) | 2 | 0 | Rust | 0 | Layer 1 blockchain in Rust. BFT + GRANDPA + Snowball consensus, Groth16 ZK proofs, threshold MPC, encrypted mempool, native inheritance protocol. Mainnet live. | 2026-10-12 |
+| 82 | [Bitmask-Snap](https://github.com/bitmask-stack/Bitmask-Snap) | 2 | 1 | TypeScript | 0 | Built at ETHDENVER2024, The BitMask <> MetaMask Snap will offer seamless and secure access to the Bitcoin ecosystem for 35 million MetaMask users. This encompasses BTC layer1, the Lightning network, B... | 2024-05-17 |
 | 83 | [layer2-course](https://github.com/Web3Arabs/layer2-course) | 2 | 0 | - | 0 | محتوى الدورة التدريبية مقدمة إلى Layer2 و Rollups في Web3Arabs - الأفضل للمبتدئين للحصول على نظرة عامة حول حلول الطبقة الثانية وتقنيات Rollups للتوسع في Ethereum | 2023-09-18 |
-| 84 | [Bitmask-Snap](https://github.com/bitmask-stack/Bitmask-Snap) | 2 | 1 | TypeScript | 0 | Built at ETHDENVER2024, The BitMask <> MetaMask Snap will offer seamless and secure access to the Bitcoin ecosystem for 35 million MetaMask users. This encompasses BTC layer1, the Lightning network, B... | 2024-05-17 |
-| 85 | [eventify](https://github.com/lbkolev/eventify) | 2 | 0 | Rust | 0 | EVM event pipeline | 2024-03-13 |
-| 86 | [alethea-protocol](https://github.com/alethea-protocol/alethea-protocol) | 2 | 0 | - | 0 | Post-Quantum, Bitcoin-Anchored Layer 1 for Global RWA Collateralization \| $11.46T Market | 2025-10-29 |
-| 87 | [doc](https://github.com/Amichain/doc) | 2 | 1 | TypeScript | 0 | Amichain documentation - Layer 1 blockchain ecosystem by AMI (Avax Meme Index) team | 2025-06-26 |
-| 88 | [l1chain_JIHO](https://github.com/ITJHIT/l1chain_JIHO) | 2 | 0 | Go | 0 | A Layer-1 blockchain built from scratch in Go: proof-of-work consensus with difficulty retarget, libp2p gossip and chain sync, a custom stack VM, an embedded EVM running standard ERC-20 contracts, JSO... | 2026-08-08 |
-| 89 | [VRAM](https://github.com/MeoMunDep/VRAM) | 2 | 0 | Shell | 0 | Auto swap tokens, create agent, chat with agent. | 2025-11-12 |
-| 90 | [accessible-tpi-chain](https://github.com/HiImRook/accessible-tpi-chain) | 2 | 1 | Rust | 0 | A merit-based, Zero Footprint Layer 1 blockchain with Three-Party Integrity (TPI) consensus. Accessible, sovereign, and built to be forked. | 2026-08-27 |
-| 91 | [lvault](https://github.com/laincloud/lvault) | 1 | 5 | CSS | 0 | Secret files configuration system for LAIN. (LAIN VAULT) | 2026-10-20 |
-| 92 | [dsp-layer1-gsm-processing-c6678](https://github.com/tvmanus/dsp-layer1-gsm-processing-c6678) | 1 | 2 | C | 0 | Multicore GSM layer1 singal processing  | 2016-01-13 |
-| 93 | [BlockChain](https://github.com/Samaria-Glen/BlockChain) | 1 | 0 | C# | 0 | Huobi Layer1 Cubechain | 2023-06-12 |
-| 94 | [Layer1](https://github.com/doadmo/Layer1) | 1 | 0 | - | 0 |  | 2024-01-05 |
-| 95 | [muse-integration](https://github.com/AsmiK222/muse-integration) | 1 | 0 | Python | 0 | layer1,2,3 integration | 2026-07-12 |
-| 96 | [layer1](https://github.com/dzmask27/layer1) | 1 | 0 | - | 0 |  | 2023-06-23 |
-| 97 | [layer1](https://github.com/natalymarcela11/layer1) | 1 | 0 | - | 0 |  | 2023-08-23 |
-| 98 | [Validator-List](https://github.com/0xCrazy-crypto/Validator-List) | 1 | 0 | - | 0 | Validator-List of STBL Layer1 | 2025-06-27 |
-| 99 | [APTOS](https://github.com/Sazharr911/APTOS) | 1 | 0 | - | 0 | Aptos is a decentralized Layer1 blockchain  | 2024-02-25 |
-| 100 | [Nexus-layer1](https://github.com/wenxpy/Nexus-layer1) | 1 | 0 | - | 0 |  | 2025-07-02 |
+| 84 | [eventify](https://github.com/lbkolev/eventify) | 2 | 0 | Rust | 0 | EVM event pipeline | 2024-03-13 |
+| 85 | [alethea-protocol](https://github.com/alethea-protocol/alethea-protocol) | 2 | 0 | - | 0 | Post-Quantum, Bitcoin-Anchored Layer 1 for Global RWA Collateralization \| $11.46T Market | 2025-10-29 |
+| 86 | [doc](https://github.com/Amichain/doc) | 2 | 1 | TypeScript | 0 | Amichain documentation - Layer 1 blockchain ecosystem by AMI (Avax Meme Index) team | 2025-06-26 |
+| 87 | [l1chain_JIHO](https://github.com/ITJHIT/l1chain_JIHO) | 2 | 0 | Go | 0 | A Layer-1 blockchain built from scratch in Go: proof-of-work consensus with difficulty retarget, libp2p gossip and chain sync, a custom stack VM, an embedded EVM running standard ERC-20 contracts, JSO... | 2026-08-08 |
+| 88 | [VRAM](https://github.com/MeoMunDep/VRAM) | 2 | 0 | Shell | 0 | Auto swap tokens, create agent, chat with agent. | 2025-11-12 |
+| 89 | [lvault](https://github.com/laincloud/lvault) | 1 | 5 | CSS | 0 | Secret files configuration system for LAIN. (LAIN VAULT) | 2026-10-20 |
+| 90 | [dsp-layer1-gsm-processing-c6678](https://github.com/tvmanus/dsp-layer1-gsm-processing-c6678) | 1 | 2 | C | 0 | Multicore GSM layer1 singal processing  | 2016-01-13 |
+| 91 | [BlockChain](https://github.com/Samaria-Glen/BlockChain) | 1 | 0 | C# | 0 | Huobi Layer1 Cubechain | 2023-06-12 |
+| 92 | [Layer1](https://github.com/doadmo/Layer1) | 1 | 0 | - | 0 |  | 2024-01-05 |
+| 93 | [muse-integration](https://github.com/AsmiK222/muse-integration) | 1 | 0 | Python | 0 | layer1,2,3 integration | 2026-07-12 |
+| 94 | [layer1](https://github.com/dzmask27/layer1) | 1 | 0 | - | 0 |  | 2023-06-23 |
+| 95 | [layer1](https://github.com/natalymarcela11/layer1) | 1 | 0 | - | 0 |  | 2023-08-23 |
+| 96 | [Validator-List](https://github.com/0xCrazy-crypto/Validator-List) | 1 | 0 | - | 0 | Validator-List of STBL Layer1 | 2025-06-27 |
+| 97 | [APTOS](https://github.com/Sazharr911/APTOS) | 1 | 0 | - | 0 | Aptos is a decentralized Layer1 blockchain  | 2024-02-25 |
+| 98 | [Nexus-layer1](https://github.com/wenxpy/Nexus-layer1) | 1 | 0 | - | 0 |  | 2025-07-02 |
+| 99 | [layer1.wtf](https://github.com/L1Beat/layer1.wtf) | 1 | 1 | TypeScript | 0 |  | 2026-02-15 |
+| 100 | [layer1.foundation](https://github.com/layer1foundation/layer1.foundation) | 1 | 0 | TypeScript | 0 | NextJS landing page for the Non-Profit Layer 1 Foundation. | 2024-06-25 |
