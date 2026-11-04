@@ -2,16 +2,76 @@
 title: "The Block - 2026-11-04"
 date: "2026-11-04"
 source: "The Block"
-count: 8
+count: 13
 ---
 
 # The Block - 2026-11-04
 
-8 items collected.
+13 items collected.
 
 ---
 
-## 1. Circle reports $865 million in Q3 revenue and reserve income, discloses 5% workforce reduction
+## 1. Democratic sweep of Congress forces crypto industry to rethink Washington strategy
+
+**Author:** Sarah Wynn  
+**Published:** 11/4/2026, 9:54:49 PM  
+**Categories:** Policy, Regulation, U.S. Policymaking, Elections 2026, feature, Senate Agriculture Committee, Senate Banking Committee, News  
+
+After two years of a pro-crypto, pro-innovation climate in Washington, the digital asset industry faces a sharp political jolt.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362)
+
+---
+
+## 2. Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack
+
+**Author:** Jason Shubnell  
+**Published:** 11/4/2026, 8:09:58 PM  
+**Categories:** Companies, Crypto Ecosystems, Equities, Layer 1s, Market Updates, Markets, Policy, Token Projects, U.S. Policymaking, Analyst Reports, Bitcoin, Crypto Movers, Elections 2026, Equity Movers, News  
+
+Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030)
+
+---
+
+## 3. French Hill’s race still too close to call as House flips, changing the direction of crypto legislation
+
+**Author:** Sarah Wynn  
+**Published:** 11/4/2026, 7:02:05 PM  
+**Categories:** People, Policy, Regulation, U.S. Policymaking, Elections 2026, News  
+
+As of Wednesday afternoon, House Financial Services Committee Chair French Hill's race for reelection is too close to call.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572)
+
+---
+
+## 4. Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach
+
+**Author:** Jason Shubnell  
+**Published:** 11/4/2026, 4:58:42 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, Exchanges, Infrastructure, Markets, Metaverse & NFT, NFT Marketplaces, Public Equities, Security, Coinbase, Exploits, Wallets, News  
+
+Coinbase says 99% of customer assets are in cold storage and it wasn't affected by the $6.3 billion Binance hack.
+
+📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880)
+
+---
+
+## 5. Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge
+
+**Author:** Jason Shubnell  
+**Published:** 11/4/2026, 4:27:49 PM  
+**Categories:** Companies, Crypto Ecosystems, Deals, Finance firms, Layer 1s, Markets, Policy, Regulation, Token Projects, Web3, Solana, Tokenization, TradFi banks, News  
+
+The $1 trillion-plus asset manager brings its emerging markets bond strategy to Solana, expanding the range of onchain actively managed funds.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878)
+
+---
+
+## 6. Circle reports $865 million in Q3 revenue and reserve income, discloses 5% workforce reduction
 
 **Author:** James Hunt  
 **Published:** 11/4/2026, 1:17:31 PM  
@@ -23,7 +83,7 @@ Circle reported $865 million in third-quarter revenue and reserve income and dis
 
 ---
 
-## 2. BitGo launches institutional trading and financial solutions business led by former NYDIG executive
+## 7. BitGo launches institutional trading and financial solutions business led by former NYDIG executive
 
 **Author:** James Hunt  
 **Published:** 11/4/2026, 12:00:00 PM  
@@ -35,7 +95,7 @@ BitGo has launched Global Markets, an institutional trading and financial soluti
 
 ---
 
-## 3. DeFi Explained
+## 8. DeFi Explained
 
 **Author:** The Block Research  
 **Published:** 11/4/2026, 11:05:30 AM  
@@ -47,7 +107,7 @@ DeFi 201 explains decentralized finance as a connected protocol system. It follo
 
 ---
 
-## 4. Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service
+## 9. Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service
 
 **Author:** Brian Danga  
 **Published:** 11/4/2026, 9:37:45 AM  
@@ -59,7 +119,7 @@ Morgan Stanley said it converted US equities and Treasurys into tokenized form t
 
 ---
 
-## 5. French bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says
+## 10. French bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says
 
 **Author:** Danny Park  
 **Published:** 11/4/2026, 4:57:41 AM  
@@ -71,7 +131,7 @@ ZachXBT said he has a 'high degree of confidence' that the attacker is not assoc
 
 ---
 
-## 6. Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake
+## 11. Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake
 
 **Author:** Sarah Wynn  
 **Published:** 11/4/2026, 4:35:48 AM  
@@ -83,7 +143,7 @@ Former Democratic Sen. Sherrod Brown is taking back his spot in the Senate, leav
 
 ---
 
-## 7. Block Inc. shares rise 6% after-hours as it raises full-year profit forecast
+## 12. Block Inc. shares rise 6% after-hours as it raises full-year profit forecast
 
 **Author:** Timmy Shen  
 **Published:** 11/4/2026, 4:13:10 AM  
@@ -95,7 +155,7 @@ Block raised its full-year gross profit forecast to $12.63 billion, which would 
 
 ---
 
-## 8. South Korea’s ruling party formally proposes deferral of crypto income tax
+## 13. South Korea’s ruling party formally proposes deferral of crypto income tax
 
 **Author:** Danny Park  
 **Published:** 11/4/2026, 2:51:52 AM  
