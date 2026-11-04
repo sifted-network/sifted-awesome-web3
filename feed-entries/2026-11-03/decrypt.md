@@ -2,16 +2,40 @@
 title: "Decrypt - 2026-11-03"
 date: "2026-11-03"
 source: "Decrypt"
-count: 15
+count: 17
 ---
 
 # Decrypt - 2026-11-03
 
-15 items collected.
+17 items collected.
 
 ---
 
-## 1. Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business
+## 1. OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'
+
+**Author:** Jose Antonio Lanz  
+**Published:** 11/3/2026, 11:48:32 PM  
+**Categories:** Artificial Intelligence  
+
+The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.
+
+📖 [Read original article](https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid)
+
+---
+
+## 2. Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows
+
+**Author:** Decrypt Staff  
+**Published:** 11/3/2026, 10:46:02 PM  
+**Categories:** , , Business  
+
+Paolo Ardoino told the Plan ₿ Forum in Lugano the company owns “give or take 150,000 Bitcoin,” but its Q3 reserve report implies just 100,060.
+
+📖 [Read original article](https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says)
+
+---
+
+## 3. Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/3/2026, 9:50:17 PM  
@@ -23,7 +47,7 @@ Claude's prices are falling, but Anthropic's computing expenses grew faster than
 
 ---
 
-## 2. CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI
+## 4. CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/3/2026, 9:16:03 PM  
@@ -35,7 +59,7 @@ CrowdStrike's new kill switch lets security teams cut off unauthorized AI agents
 
 ---
 
-## 3. Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court
+## 5. Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court
 
 **Author:** Decrypt Staff  
 **Published:** 11/3/2026, 8:36:02 PM  
@@ -47,7 +71,7 @@ Tron founder Justin Sun said he has asked a federal court to sanction World Libe
 
 ---
 
-## 4. Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys
+## 6. Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/3/2026, 7:46:03 PM  
@@ -59,7 +83,7 @@ GitBook says attackers accessed infrastructure credentials in an AI-assisted bre
 
 ---
 
-## 5. CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures
+## 7. CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures
 
 **Author:** Decrypt Staff  
 **Published:** 11/3/2026, 7:16:02 PM  
@@ -71,7 +95,7 @@ Chairman Michael Selig said “equity perpetual futures” can now trade on CFTC
 
 ---
 
-## 6. Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack
+## 8. Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/3/2026, 6:16:03 PM  
@@ -83,7 +107,7 @@ Mercado Bitcoin says customers won't pay for a hack that drained tens of million
 
 ---
 
-## 7. Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue
+## 9. Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue
 
 **Author:** Decrypt Staff  
 **Published:** 11/3/2026, 5:46:15 PM  
@@ -95,7 +119,7 @@ Amazon, Tesla, SpaceX, Netflix, Lam Research, and SoFi objected to trading of th
 
 ---
 
-## 8. Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked
+## 10. Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked
 
 **Author:** Ryan Gladwin  
 **Published:** 11/3/2026, 5:30:54 PM  
@@ -107,7 +131,7 @@ From AI deepfakes to poisoning code libraries: here's how North Korean hackers g
 
 ---
 
-## 9. Epidemic of Hacked Freezers Spreads Across Europe
+## 11. Epidemic of Hacked Freezers Spreads Across Europe
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/3/2026, 5:04:46 PM  
@@ -119,7 +143,7 @@ A suspected hacking wave has pushed supermarket freezers into defrost mode acros
 
 ---
 
-## 10. UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028
+## 12. UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028
 
 **Author:** Decrypt Agent  
 **Published:** 11/3/2026, 4:09:19 PM  
@@ -131,7 +155,7 @@ The National Cyber Security Centre said AI will expose security flaws "tolerated
 
 ---
 
-## 11. Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade
+## 13. Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade
 
 **Author:** Decrypt Staff  
 **Published:** 11/3/2026, 2:01:02 PM  
@@ -143,7 +167,7 @@ The “Tierra” upgrade resolves a critical bug from the prior version, adds fo
 
 ---
 
-## 12. Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum
+## 14. Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum
 
 **Author:** Tyler Warner  
 **Published:** 11/3/2026, 1:11:47 PM  
@@ -155,7 +179,7 @@ Meanwhile, both the BTC ETFs and ETH ETFs bleed outflows in the Binance hack aft
 
 ---
 
-## 13. Binance Misses Monthly Luna Classic Burn for First Time Since 2023
+## 15. Binance Misses Monthly Luna Classic Burn for First Time Since 2023
 
 **Author:** Ryan Gladwin  
 **Published:** 11/3/2026, 12:15:29 PM  
@@ -167,7 +191,7 @@ LUNC holders are waiting for Binance’s November burn, but it hasn’t arrived 
 
 ---
 
-## 14. Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit
+## 16. Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit
 
 **Author:** Decrypt Agent  
 **Published:** 11/3/2026, 11:22:10 AM  
@@ -179,7 +203,7 @@ Blockstream CEO Adam Back said the sidechain's defenses have been hardened, and 
 
 ---
 
-## 15. North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'
+## 17. North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'
 
 **Author:** Decrypt Agent  
 **Published:** 11/3/2026, 10:18:48 AM  
