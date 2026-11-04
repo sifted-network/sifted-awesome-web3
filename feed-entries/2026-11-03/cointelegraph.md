@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-11-03"
 date: "2026-11-03"
 source: "Cointelegraph"
-count: 21
+count: 22
 ---
 
 # Cointelegraph - 2026-11-03
 
-21 items collected.
+22 items collected.
 
 ---
 
-## 1. SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom
+## 1. RUNE rallies 15% as THORChain restarts most swaps after halt
+
+**Author:** Cointelegraph by Felix Ng  
+**Published:** 11/3/2026, 11:56:09 PM  
+**Categories:** Markets  
+
+THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused.
+
+📖 [Read original article](https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 11/3/2026, 10:39:18 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom
 
 **Author:** Cointelegraph by Isabelle Castro  
 **Published:** 11/3/2026, 9:47:20 PM  
@@ -23,7 +47,7 @@ SpaceX joined several other issuers objecting to OKXICE tokenized trading, month
 
 ---
 
-## 2. CFTC clears stock perpetual futures for trading on US exchanges
+## 4. CFTC clears stock perpetual futures for trading on US exchanges
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/3/2026, 8:24:55 PM  
@@ -35,7 +59,7 @@ US regulators are opening the door to stock-based perpetual futures, extending a
 
 ---
 
-## 3. US midterms: Prediction markets favor Democrats in key crypto races
+## 5. US midterms: Prediction markets favor Democrats in key crypto races
 
 **Author:** Cointelegraph by Isabelle Castro  
 **Published:** 11/3/2026, 7:38:19 PM  
@@ -47,7 +71,7 @@ Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after marke
 
 ---
 
-## 4. Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen
+## 6. Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 11/3/2026, 4:47:01 PM  
@@ -59,7 +83,7 @@ Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutiona
 
 ---
 
-## 5. Binance traces $6.3B hack to fake job interviews, compromised AI tool
+## 7. Binance traces $6.3B hack to fake job interviews, compromised AI tool
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/3/2026, 4:44:06 PM  
@@ -71,7 +95,7 @@ Hackers exploited compromised employee computers and stolen credentials to breac
 
 ---
 
-## 6. Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’
+## 8. Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/3/2026, 3:44:42 PM  
@@ -83,7 +107,7 @@ Bitcoin made modest gains at the start of Wall Street trading on Tuesday as mark
 
 ---
 
-## 7. What’s at stake for crypto as the US votes in the 2026 midterms?
+## 9. What’s at stake for crypto as the US votes in the 2026 midterms?
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/3/2026, 1:53:07 PM  
@@ -95,19 +119,7 @@ Crypto groups spent about $176 million ahead of the US midterms, with control of
 
 ---
 
-## 8. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 11/3/2026, 1:50:51 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Moscow Exchange to launch Bitcoin, Ether and USDT trading in December
+## 10. Moscow Exchange to launch Bitcoin, Ether and USDT trading in December
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/3/2026, 1:15:47 PM  
@@ -119,7 +131,7 @@ Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia’s new la
 
 ---
 
-## 10. NEAR token sinks 7% as proposal to cut annual token issuance passes
+## 11. NEAR token sinks 7% as proposal to cut annual token issuance passes
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/3/2026, 12:30:13 PM  
@@ -131,7 +143,7 @@ The proposed issuance cut would prevent 11.8 million NEAR from entering circulat
 
 ---
 
-## 11. Binance’s net inflows turn positive at $2.3B as withdrawals expand
+## 12. Binance’s net inflows turn positive at $2.3B as withdrawals expand
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/3/2026, 11:32:02 AM  
@@ -143,7 +155,7 @@ Binance led exchanges in 24-hour net inflows, reversing Monday’s heavy outflow
 
 ---
 
-## 12. France postpones 2027 budget vote, crypto exit-tax proposals scrapped
+## 13. France postpones 2027 budget vote, crypto exit-tax proposals scrapped
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/3/2026, 10:49:26 AM  
@@ -155,7 +167,7 @@ The National Assembly postponed the vote on the budget’s revenue section for t
 
 ---
 
-## 13. Bitcoin price threatens $77.7K support loss with recent buyers underwater
+## 14. Bitcoin price threatens $77.7K support loss with recent buyers underwater
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/3/2026, 10:04:05 AM  
@@ -167,7 +179,7 @@ Bitcoin fell below the realized price of the one-to-three-month-old buyer cohort
 
 ---
 
-## 14. ARK buys $17M in Coinbase, Circle shares while trimming Bullish
+## 15. ARK buys $17M in Coinbase, Circle shares while trimming Bullish
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/3/2026, 8:35:13 AM  
@@ -179,7 +191,7 @@ ARK Invest added Coinbase and Circle shares across two trading sessions while se
 
 ---
 
-## 15. Kraken restricts accounts linked to suspected $133M EU crypto theft
+## 16. Kraken restricts accounts linked to suspected $133M EU crypto theft
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/3/2026, 8:18:22 AM  
@@ -191,7 +203,7 @@ Crypto.com also took steps to block funds tied to the suspected theft, while Kra
 
 ---
 
-## 16. BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June
+## 17. BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/3/2026, 7:49:51 AM  
@@ -203,7 +215,7 @@ BlackRock’s Bitcoin ETF shed $405.3 million on Monday as US spot Bitcoin funds
 
 ---
 
-## 17. Crypto.com to withdraw Hong Kong consumer app citing regulatory changes
+## 18. Crypto.com to withdraw Hong Kong consumer app citing regulatory changes
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/3/2026, 5:10:19 AM  
@@ -215,7 +227,7 @@ Crypto.com will discontinue its consumer app services in Hong Kong in February n
 
 ---
 
-## 18. Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation
+## 19. Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/3/2026, 4:14:32 AM  
@@ -227,7 +239,7 @@ The Reserve Bank of Australia raised its benchmark rate to 4.85% on rising techn
 
 ---
 
-## 19. UK warns AI ransomware attack on infrastructure ‘highly likely’ by 2028
+## 20. UK warns AI ransomware attack on infrastructure ‘highly likely’ by 2028
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/3/2026, 3:58:45 AM  
@@ -239,7 +251,7 @@ The warning comes as UK cyber officials also flag growing threats from state-bac
 
 ---
 
-## 20. Binance begins second withdrawal phase, exchange outflows slow
+## 21. Binance begins second withdrawal phase, exchange outflows slow
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/3/2026, 3:03:44 AM  
@@ -251,7 +263,7 @@ The exchange says additional assets will become available for withdrawal from 04
 
 ---
 
-## 21. South Korea urges exchanges to boost cold storage after Binance hack
+## 22. South Korea urges exchanges to boost cold storage after Binance hack
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/3/2026, 1:32:39 AM  
