@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-02"
 date: "2026-11-02"
 source: "Cointelegraph"
-count: 9
+count: 5
 ---
 
 # Cointelegraph - 2026-11-02
 
-9 items collected.
+5 items collected.
 
 ---
 
@@ -68,53 +68,5 @@ A European entity may have lost $106 million from exchange accounts, while a wal
 Slowing trading activity and fallout from the Binance hack are clouding Coinbase’s revenue prospects, prompting Morgan Stanley to lower its rating on the stock.
 
 📖 [Read original article](https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 11/2/2026, 7:27:58 PM  
-**Categories:** Markets  
-
-Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Mercado Bitcoin wallets show post-hack transfers after $46M theft
-
-**Author:** Cointelegraph by Isabelle Castro  
-**Published:** 11/2/2026, 7:05:35 PM  
-**Categories:** Latest News  
-
-Brazil’s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe.
-
-📖 [Read original article](https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Animoca Brands clears final hurdle for Abu Dhabi fund management
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 11/2/2026, 6:00:16 PM  
-**Categories:** Latest News  
-
-The former mobile games company is building out its fund management business in Abu Dhabi as it targets institutional demand for stablecoins and tokenized assets.
-
-📖 [Read original article](https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Strategy spends triple its weekly Bitcoin outlay on STRC buybacks
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/2/2026, 1:48:28 PM  
-**Categories:** Latest News  
-
-Strategy spent $208.2 million buying back STRC preferred shares and $65.5 million on Bitcoin, while allocating $98.5 million to its USD Cash balance.
-
-📖 [Read original article](https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
