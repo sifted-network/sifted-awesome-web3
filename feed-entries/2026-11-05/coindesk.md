@@ -2,16 +2,100 @@
 title: "CoinDesk - 2026-11-05"
 date: "2026-11-05"
 source: "CoinDesk"
-count: 17
+count: 24
 ---
 
 # CoinDesk - 2026-11-05
 
-17 items collected.
+24 items collected.
 
 ---
 
-## 1. Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults
+## 1. U.S. Justice Department assembles force to shield against foreign AI threats
+
+**Author:** Jesse Hamilton  
+**Published:** 11/5/2026, 6:59:45 PM  
+**Categories:** Policy, Artificial Intelligence, Regulation, News  
+
+The new DOJ task force will aid the recently designated U.S. "SI Force" by warding off bad actors backed by other nations, criminal groups or corporate fraud.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats)
+
+---
+
+## 2. Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower
+
+**Author:** Krisztian Sandor  
+**Published:** 11/5/2026, 6:48:40 PM  
+**Categories:** Markets, Market Wrap, Bitcoin News, FalconX, Wintermute, News  
+
+The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full)
+
+---
+
+## 3. What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?
+
+**Author:** Francisco Rodrigues  
+**Published:** 11/5/2026, 4:58:21 PM  
+**Categories:** Finance, Binance, North Korea, News  
+
+The hacking group has been behind some of the crypto industry's most recent high-profile thefts.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist)
+
+---
+
+## 4. Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million
+
+**Author:** Olivier Acuna  
+**Published:** 11/5/2026, 4:49:08 PM  
+**Categories:** Finance, Standard chartered, SBI Holdings, Funding Rounds, News  
+
+Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection)
+
+---
+
+## 5. Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep
+
+**Author:** Sarah Morton  
+**Published:** 11/5/2026, 4:13:32 PM  
+**Categories:** CoinDesk Indices, Crypto for Advisors, News  
+
+
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep)
+
+---
+
+## 6. Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s
+
+**Author:** Olivier Acuna  
+**Published:** 11/5/2026, 2:21:50 PM  
+**Categories:** Finance, Binance, hacking, Cryptocurrency, News  
+
+Lin Han says Gate holds enough assets in cold storage to cover customer balances even if its hot wallets are emptied. An independent audit is underway.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s)
+
+---
+
+## 7. Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push
+
+**Author:** Will Canny  
+**Published:** 11/5/2026, 2:00:00 PM  
+**Categories:** Finance, Payward, Kraken, Aave, Exclusive, mergers and acquisitions, News  
+
+The investment follows talks first reported by CoinDesk in June that included a proposed equity stake in Aave Group.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push)
+
+---
+
+## 8. Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults
 
 **Author:** Shaurya Malwa  
 **Published:** 11/5/2026, 1:29:40 PM  
@@ -23,7 +107,7 @@ A $19 billion data-center agreement includes an unusual provision allowing Googl
 
 ---
 
-## 2. Binance cuts SignalPlus access after security warning, urges users to check accounts
+## 9. Binance cuts SignalPlus access after security warning, urges users to check accounts
 
 **Author:** Olivier Acuna  
 **Published:** 11/5/2026, 12:55:03 PM  
@@ -35,7 +119,7 @@ The exchange says its systems are unaffected but has removed trading connections
 
 ---
 
-## 3. Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns
+## 10. Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 11/5/2026, 12:50:57 PM  
@@ -47,7 +131,7 @@ Ukraine’s central bank won’t back a crypto legalization bill in its current 
 
 ---
 
-## 4. Bitcoin is resilient, but leverage is missing and demand still tepid
+## 11. Bitcoin is resilient, but leverage is missing and demand still tepid
 
 **Author:** Omkar Godbole  
 **Published:** 11/5/2026, 12:27:04 PM  
@@ -59,7 +143,7 @@ Your day-ahead look for Nov. 5, 2026
 
 ---
 
-## 5. Bitcoin miners are oversold following 35% October rout, VanEck says
+## 12. Bitcoin miners are oversold following 35% October rout, VanEck says
 
 **Author:** Jamie Crawley  
 **Published:** 11/5/2026, 11:49:23 AM  
@@ -71,7 +155,7 @@ Investors dumped AI infrastructure providers across the board in October, treati
 
 ---
 
-## 6. Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates
+## 13. Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates
 
 **Author:** Olivier Acuna  
 **Published:** 11/5/2026, 11:45:54 AM  
@@ -83,7 +167,7 @@ Revenue fell to $63.4 million in the third quarter and missed analysts’ foreca
 
 ---
 
-## 7. Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing
+## 14. Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 11/5/2026, 11:30:00 AM  
@@ -95,19 +179,19 @@ Bitcoin slipped 0.2% to around $80,250 since midnight UTC, holding above $80,000
 
 ---
 
-## 8. Live updates: Bitcoin edges lower as markets cool following yesterday's rally
+## 15. Live updates: Bitcoin drops more than 5% as stocks close out worst day since April 2025
 
-**Author:** Shaurya Malwa,Stephen Alpher  
+**Author:** Shaurya Malwa,Stephen Alpher,Omkar Godbole  
 **Published:** 11/5/2026, 10:57:11 AM  
 **Categories:** Finance, Live News, live_news  
 
-There's been no letup in selling of the AI chip stocks, sending Nasdaq 100 futures nearly 1% lower.
+The continued blowup of the AI trade led markets lower, with Nvidia losing 9.3% and many other chip names down double-digit percentages.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep)
 
 ---
 
-## 9. Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds
+## 16. Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds
 
 **Author:** Francisco Rodrigues  
 **Published:** 11/5/2026, 10:44:54 AM  
@@ -119,7 +203,7 @@ The same attacker took about $391,000, mostly from wallets Bitquery ties to BitM
 
 ---
 
-## 10. Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal
+## 17. Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal
 
 **Author:** Shaurya Malwa  
 **Published:** 11/5/2026, 9:36:32 AM  
@@ -131,7 +215,7 @@ Riot has sold most of its bitcoin to fund its move into data centers. Its latest
 
 ---
 
-## 11. Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities
+## 18. Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities
 
 **Author:** Olivier Acuna  
 **Published:** 11/5/2026, 8:35:37 AM  
@@ -143,7 +227,7 @@ Crypto firms must collect customer and transaction data from 2027, with Hong Kon
 
 ---
 
-## 12. OpenAI says its AI can break into Linux at scale. Here's what it means for crypto
+## 19. OpenAI says its AI can break into Linux at scale. Here's what it means for crypto
 
 **Author:** Omkar Godbole  
 **Published:** 11/5/2026, 8:26:26 AM  
@@ -155,7 +239,7 @@ OpenAI says its AI found 948 Linux flaws and wrote a working attack for each one
 
 ---
 
-## 13. Zcash is about to freeze $16 million in its oldest privacy pool
+## 20. Zcash is about to freeze $16 million in its oldest privacy pool
 
 **Author:** Shaurya Malwa  
 **Published:** 11/5/2026, 5:47:01 AM  
@@ -167,7 +251,7 @@ About 12,200 ZEC remains in Sprout, the privacy pool Zcash launched in 2016. Rou
 
 ---
 
-## 14. The pile of lawsuits against Kalshi just grew by one
+## 21. The pile of lawsuits against Kalshi just grew by one
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 11/5/2026, 5:28:52 AM  
@@ -179,7 +263,7 @@ Arkansas has accused the prediction market of running illegal gambling, joining 
 
 ---
 
-## 15. XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens
+## 22. XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens
 
 **Author:** Shaurya Malwa  
 **Published:** 11/5/2026, 5:25:06 AM  
@@ -191,7 +275,7 @@ The fix went live Wednesday after validator support reset the activation clock i
 
 ---
 
-## 16. Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound
+## 23. Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound
 
 **Author:** Shaurya Malwa  
 **Published:** 11/5/2026, 5:13:45 AM  
@@ -203,7 +287,7 @@ Ether rose 8% as falling oil prices and a weaker dollar helped markets recover, 
 
 ---
 
-## 17. Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show
+## 24. Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show
 
 **Author:** Omkar Godbole  
 **Published:** 11/5/2026, 4:11:33 AM  
