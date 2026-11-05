@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-04"
 date: "2026-11-04"
 source: "The Block"
-count: 13
+count: 9
 ---
 
 # The Block - 2026-11-04
 
-13 items collected.
+9 items collected.
 
 ---
 
@@ -116,53 +116,5 @@ DeFi 201 explains decentralized finance as a connected protocol system. It follo
 Morgan Stanley said it converted US equities and Treasurys into tokenized form through DTCC's new tokenization service.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633)
-
----
-
-## 10. French bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says
-
-**Author:** Danny Park  
-**Published:** 11/4/2026, 4:57:41 AM  
-**Categories:** Crypto Ecosystems, Web3, News  
-
-ZachXBT said he has a 'high degree of confidence' that the attacker is not associated with North Korea's Lazarus Group.
-
-📖 [Read original article](https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607)
-
----
-
-## 11. Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake
-
-**Author:** Sarah Wynn  
-**Published:** 11/4/2026, 4:35:48 AM  
-**Categories:** Policy, Regulation, U.S. Policymaking, Elections 2026, Senate Agriculture Committee, Senate Banking Committee, News  
-
-Former Democratic Sen. Sherrod Brown is taking back his spot in the Senate, leaving crypto political action committee Fairshake with the bag.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495)
-
----
-
-## 12. Block Inc. shares rise 6% after-hours as it raises full-year profit forecast
-
-**Author:** Timmy Shen  
-**Published:** 11/4/2026, 4:13:10 AM  
-**Categories:** Companies, Markets, News  
-
-Block raised its full-year gross profit forecast to $12.63 billion, which would represent a 22% year-on-year growth.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585)
-
----
-
-## 13. South Korea’s ruling party formally proposes deferral of crypto income tax
-
-**Author:** Danny Park  
-**Published:** 11/4/2026, 2:51:52 AM  
-**Categories:** Policy, Regulation, News  
-
-The party leader stated that the country should first enact the Digital Asset Basic Act, a comprehensive legal framework for crypto.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580)
 
 ---
