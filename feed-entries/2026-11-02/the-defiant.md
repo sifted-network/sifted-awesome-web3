@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-02"
 date: "2026-11-02"
 source: "The Defiant"
-count: 39
+count: 35
 ---
 
 # The Defiant - 2026-11-02
 
-39 items collected.
+35 items collected.
 
 ---
 
@@ -428,53 +428,5 @@ Separate affiliates handle ownership records, distribution, trading, administrat
 Earn lenders hold deposit receipts, while Borrow and Multiply users have collateral-backed debt positions. Available cash and withdrawal rules determine immediate exit access.
 
 📖 [Read original article](https://thedefiant.io/news/defi/jupiter-lend-explained-deposits-borrowing-and-withdrawals)
-
----
-
-## 36. Canton Explained: How Privacy, Access and Settlement Work
-
-**Author:** The Defiant Team  
-**Published:** 11/2/2026, 9:26:51 AM  
-**Categories:** -  
-
-Participant nodes check the transactions involving their users. Shared infrastructure coordinates the outcome, while banks and trading venues set separate product-access rules.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/canton-explained-how-privacy-access-and-settlement-work)
-
----
-
-## 37. What Is Hyperliquid? A Guide to HyperCore, HyperEVM and Builder Markets
-
-**Author:** The Defiant Team  
-**Published:** 11/2/2026, 9:25:31 AM  
-**Categories:** -  
-
-HyperCore handles trading, HyperEVM runs applications, and independent market deployers set product rules. Their collateral and withdrawal dependencies differ.
-
-📖 [Read original article](https://thedefiant.io/news/defi/what-is-hyperliquid-a-guide-to-hypercore-hyperevm-and-builder-markets)
-
----
-
-## 38. What Is Chainlink CCIP? Tokens, Messages and Cross-Chain Completion
-
-**Author:** The Defiant Team  
-**Published:** 11/2/2026, 9:20:38 AM  
-**Categories:** -  
-
-A successful send is only the beginning: destination delivery depends on verification, finality settings and execution. Price data is a separate Chainlink service.
-
-📖 [Read original article](https://thedefiant.io/news/infrastructure/what-is-chainlink-ccip-tokens-messages-and-cross-chain-completion)
-
----
-
-## 39. Curve Explained: Stablecoin Pools, LP Exposure and Lending
-
-**Author:** The Defiant Team  
-**Published:** 11/2/2026, 9:02:13 AM  
-**Categories:** -  
-
-An LP token represents a share of a changing asset mix. Trading fees, token incentives and lending interest come from different sources.
-
-📖 [Read original article](https://thedefiant.io/news/defi/curve-explained-stablecoin-pools-lp-exposure-and-lending)
 
 ---
