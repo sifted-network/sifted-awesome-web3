@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-03"
 date: "2026-11-03"
 source: "Cointelegraph"
-count: 9
+count: 7
 ---
 
 # Cointelegraph - 2026-11-03
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ Hackers exploited compromised employee computers and stolen credentials to breac
 Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. What’s at stake for crypto as the US votes in the 2026 midterms?
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 11/3/2026, 1:53:07 PM  
-**Categories:** Latest News  
-
-Crypto groups spent about $176 million ahead of the US midterms, with control of Congress and the future of crypto legislation at stake.
-
-📖 [Read original article](https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Moscow Exchange to launch Bitcoin, Ether and USDT trading in December
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/3/2026, 1:15:47 PM  
-**Categories:** Latest News  
-
-Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia’s new law, with annual purchase limits for non-qualified investors.
-
-📖 [Read original article](https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
