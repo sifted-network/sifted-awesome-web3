@@ -2,16 +2,28 @@
 title: "The Defiant - 2026-11-04"
 date: "2026-11-04"
 source: "The Defiant"
-count: 35
+count: 36
 ---
 
 # The Defiant - 2026-11-04
 
-35 items collected.
+36 items collected.
 
 ---
 
-## 1. TSV Begins Tokenized CNTN Trades Under SEC Innovation Exemption
+## 1. Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack
+
+**Author:** The Defiant Team  
+**Published:** 11/4/2026, 11:36:50 PM  
+**Categories:** -  
+
+The exchange says it will use company funds to replace affected assets, while withdrawals and trading await security clearance.
+
+📖 [Read original article](https://thedefiant.io/news/hacks/mercado-bitcoin-plans-view-only-reopening-on-nov-9-after-hack)
+
+---
+
+## 2. TSV Begins Tokenized CNTN Trades Under SEC Innovation Exemption
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 9:47:30 PM  
@@ -23,7 +35,7 @@ Tradecraft's public feed recorded $30,296 in purchases, while Fairmint maintains
 
 ---
 
-## 2. Crypto Groups Seek to Strike Down Illinois’ 0.2% Tax
+## 3. Crypto Groups Seek to Strike Down Illinois’ 0.2% Tax
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 9:39:13 PM  
@@ -35,7 +47,7 @@ The levy would tax asset value rather than gains, with covered brokers required 
 
 ---
 
-## 3. Nasdaq Approves Listing of Canary’s Staked Injective ETF
+## 4. Nasdaq Approves Listing of Canary’s Staked Injective ETF
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 8:38:59 PM  
@@ -47,7 +59,7 @@ The proposed INJC fund would stake at least 90% of its INJ holdings and charge a
 
 ---
 
-## 4. Lightning Labs Releases LND Mitigation for Critical Linux Flaw
+## 5. Lightning Labs Releases LND Mitigation for Critical Linux Flaw
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 6:47:43 PM  
@@ -59,7 +71,7 @@ LND v0.20.7-beta and v0.21.6-beta disable Multipath TCP by default, but operator
 
 ---
 
-## 5. What Are Privacy Coins? Bitcoin, Monero and Zcash Compared
+## 6. What Are Privacy Coins? Bitcoin, Monero and Zcash Compared
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 6:15:35 PM  
@@ -71,7 +83,7 @@ Monero requires privacy mechanisms for ordinary transfers, while Zcash supports 
 
 ---
 
-## 6. Strategy’s STRC Hits $100 for First Time Since May
+## 7. Strategy’s STRC Hits $100 for First Time Since May
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 5:52:00 PM  
@@ -83,7 +95,7 @@ The recovery follows roughly $2.25 billion of buybacks and brings the preferred 
 
 ---
 
-## 7. Stripe Lets US Businesses Send Stablecoins to Wallets in 160-Plus Markets
+## 8. Stripe Lets US Businesses Send Stablecoins to Wallets in 160-Plus Markets
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 5:36:36 PM  
@@ -95,7 +107,7 @@ The public preview supports USDC and Open USD, funded from a Treasury balance. B
 
 ---
 
-## 8. Polygon Proposal Seeks Hard Fork to Recover 70.49 Million POL
+## 9. Polygon Proposal Seeks Hard Fork to Recover 70.49 Million POL
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 5:29:49 PM  
@@ -107,7 +119,7 @@ Funds tied to the Polymarket and Binance incidents would go to recovery wallets,
 
 ---
 
-## 9. Osmosis Burns 55.5 Million OSMO From Community Pool
+## 10. Osmosis Burns 55.5 Million OSMO From Community Pool
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 5:27:49 PM  
@@ -119,7 +131,7 @@ The community pool retains about 63.78 million OSMO, but new token issuance no l
 
 ---
 
-## 10. Zcash Climbs 9.5% Ahead of NU7 Network Upgrade
+## 11. Zcash Climbs 9.5% Ahead of NU7 Network Upgrade
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 5:00:22 PM  
@@ -131,7 +143,7 @@ The upgrade is expected around Nov. 5 and will shorten target block times withou
 
 ---
 
-## 11. ApeChain Plans Switch From LayerZero to Chainlink CCIP
+## 12. ApeChain Plans Switch From LayerZero to Chainlink CCIP
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 4:42:48 PM  
@@ -143,7 +155,7 @@ The plan includes upgrading APE and USDC to Chainlink Cross-Chain Tokens, but th
 
 ---
 
-## 12. Privacy Cash Pauses Deposits After Binance Hack
+## 13. Privacy Cash Pauses Deposits After Binance Hack
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 4:39:50 PM  
@@ -155,7 +167,7 @@ Elliptic traced about $1.2 million in theft-linked ETH and SOL into its pools; t
 
 ---
 
-## 13. Coinbase Brings Deribit Options and Perpetuals to US Prime Clients
+## 14. Coinbase Brings Deribit Options and Perpetuals to US Prime Clients
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 4:12:42 PM  
@@ -167,7 +179,7 @@ Institutions can access global derivatives through Coinbase Financial Markets, b
 
 ---
 
-## 14. Blast Shuts Down Layer 2, Directs Users to Recovery Site
+## 15. Blast Shuts Down Layer 2, Directs Users to Recovery Site
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 3:41:18 PM  
@@ -179,7 +191,7 @@ DefiLlama’s latest daily reading puts bridge assets at $6.51 million, about 84
 
 ---
 
-## 15. Binance Expands Proof of Reserves to 44 Tokens After Hack
+## 16. Binance Expands Proof of Reserves to 44 Tokens After Hack
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 3:38:12 PM  
@@ -191,7 +203,7 @@ The exchange says it has replenished about 98% of affected assets, but the new c
 
 ---
 
-## 16. Riot Signs $28 Billion AI Lease for Entire Corsicana Campus
+## 17. Riot Signs $28 Billion AI Lease for Entire Corsicana Campus
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 3:31:44 PM  
@@ -203,7 +215,7 @@ The miner has sold 20,264 BTC this year to help fund data centers, while mining 
 
 ---
 
-## 17. Polkadot Treasury Lost $1.38 Million After XCM Patch Missed Production
+## 18. Polkadot Treasury Lost $1.38 Million After XCM Patch Missed Production
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 3:11:38 PM  
@@ -215,7 +227,7 @@ The flaw distorted DOT/dotUSD pool pricing. A later upgrade repaired the stablec
 
 ---
 
-## 18. Bitcoin Reclaims $79,000 After 5% Rebound From Election-Night Low
+## 19. Bitcoin Reclaims $79,000 After 5% Rebound From Election-Night Low
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 2:57:51 PM  
@@ -227,7 +239,7 @@ Ether and Solana joined the recovery, while S&P 500 and gold futures gained abou
 
 ---
 
-## 19. NEAR Adds 24/7 NIFTY 50 Perpetual With Cross-Chain Funding
+## 20. NEAR Adds 24/7 NIFTY 50 Perpetual With Cross-Chain Funding
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 2:53:46 PM  
@@ -239,7 +251,7 @@ The Hyperliquid-based contract allows up to 20x leverage and settles index-point
 
 ---
 
-## 20. Dialectic Launches SpaceX Yield Vault Using Aave Loans on Base
+## 21. Dialectic Launches SpaceX Yield Vault Using Aave Loans on Base
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 2:13:26 PM  
@@ -251,7 +263,7 @@ Starloop borrows USDC against tokenized shares, adding liquidation risk to a str
 
 ---
 
-## 21. Core Lightning Urges Upgrade to 26.06.10 to Patch Channel Flaws
+## 22. Core Lightning Urges Upgrade to 26.06.10 to Patch Channel Flaws
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 2:11:30 PM  
@@ -263,7 +275,7 @@ The release addresses channel-balance risks and remote crashes; maintainers are 
 
 ---
 
-## 22. Mercado Bitcoin Attacker Swaps Tokens for $10.55 Million in ETH, Arkham Says
+## 23. Mercado Bitcoin Attacker Swaps Tokens for $10.55 Million in ETH, Arkham Says
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 1:57:15 PM  
@@ -275,7 +287,7 @@ Arkham traced $13.26 million leaving labelled wallets, while Mercado Bitcoin has
 
 ---
 
-## 23. Coinbase, Kalshi Denied Shield From State Prediction-Market Enforcement
+## 24. Coinbase, Kalshi Denied Shield From State Prediction-Market Enforcement
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 11:49:47 AM  
@@ -287,7 +299,7 @@ The Second Circuit denied interim protection in Connecticut and New York, but it
 
 ---
 
-## 24. Circle Payments Network Reaches $41.3 Billion Annualized Volume in Q3
+## 25. Circle Payments Network Reaches $41.3 Billion Annualized Volume in Q3
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 11:41:41 AM  
@@ -299,7 +311,7 @@ Circle retained 52.4% of revenue and reserve income after distribution-related c
 
 ---
 
-## 25. Morgan Stanley Tokenizes US Stocks and Treasuries Through DTCC
+## 26. Morgan Stanley Tokenizes US Stocks and Treasuries Through DTCC
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 10:43:28 AM  
@@ -311,7 +323,7 @@ The bank was among 20 participants signed up at launch. The service permits 24/7
 
 ---
 
-## 26. WLFI Slides 11% on Election Night, Lags Bitcoin’s Recovery
+## 27. WLFI Slides 11% on Election Night, Lags Bitcoin’s Recovery
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 10:42:47 AM  
@@ -323,7 +335,7 @@ World Liberty’s token remained 5.1% below its early-evening level by 5 a.m. ET
 
 ---
 
-## 27. Hong Kong Passes Crypto Tax Reporting Bill for 2027 Start
+## 28. Hong Kong Passes Crypto Tax Reporting Bill for 2027 Start
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 10:26:52 AM  
@@ -335,7 +347,7 @@ Annual reports will link customer identities to fiat trades, token swaps and tra
 
 ---
 
-## 28. Apple Joins OKXICE Stock-Token Objectors as Total Reaches 59
+## 29. Apple Joins OKXICE Stock-Token Objectors as Total Reaches 59
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 7:35:36 AM  
@@ -347,7 +359,7 @@ Objections now cover 53 of the venue’s original 63 proposed stock symbols, lea
 
 ---
 
-## 29. Democrats Win House, Gaining New Leverage Over Crypto Legislation
+## 30. Democrats Win House, Gaining New Leverage Over Crypto Legislation
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 7:32:44 AM  
@@ -359,7 +371,7 @@ The incoming majority will control key House committees and oversight, while the
 
 ---
 
-## 30. Block Reaches $964 Million DOJ Deal in Principle Over AML Lapses
+## 31. Block Reaches $964 Million DOJ Deal in Principle Over AML Lapses
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 6:17:48 AM  
@@ -371,7 +383,7 @@ Credits for prior regulatory resolutions would reduce the payment to about $764 
 
 ---
 
-## 31. Democrats Win Senate Control as CLARITY Act Remains Stalled
+## 32. Democrats Win Senate Control as CLARITY Act Remains Stalled
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 5:01:44 AM  
@@ -383,7 +395,7 @@ Elizabeth Warren is positioned to take over Banking, but the crypto market-struc
 
 ---
 
-## 32. BitMart Founder Confirms Hack During Restructuring
+## 33. BitMart Founder Confirms Hack During Restructuring
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 4:56:34 AM  
@@ -395,7 +407,7 @@ Bitquery traced about $391,000 in outflows mostly from BitMart-linked wallets to
 
 ---
 
-## 33. Solana Breaks Below $90 as Bitcoin Slides Under $76,000
+## 34. Solana Breaks Below $90 as Bitcoin Slides Under $76,000
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 3:20:50 AM  
@@ -407,7 +419,7 @@ SOL has lost about 24% in four weeks, more than double bitcoin's decline over th
 
 ---
 
-## 34. THORChain Restarts Most Swaps, With 14 Nodes Yet to Upgrade
+## 35. THORChain Restarts Most Swaps, With 14 Nodes Yet to Upgrade
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 2:18:50 AM  
@@ -419,7 +431,7 @@ Cosmos Hub, BNB Smart Chain and Solana still have trading and outbound-signing r
 
 ---
 
-## 35. South Korea’s Ruling Party Formally Seeks Crypto Tax Delay
+## 36. South Korea’s Ruling Party Formally Seeks Crypto Tax Delay
 
 **Author:** The Defiant Team  
 **Published:** 11/4/2026, 1:53:19 AM  
