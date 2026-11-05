@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-03"
 date: "2026-11-03"
 source: "The Block"
-count: 7
+count: 6
 ---
 
 # The Block - 2026-11-03
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ The CFTC approved the ability for exchanges in the U.S. to offer perpetual futur
 Binance's incident report said hackers used a fake job interview and an internal AI tool to gain access to systems involved in the theft.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406)
-
----
-
-## 7. Ethereum Layer 2 Aztec gets Tierra V6 upgrade to support faster private apps
-
-**Author:** Yogita Khatri  
-**Published:** 11/3/2026, 2:00:00 PM  
-**Categories:** Crypto Ecosystems, DeFi, Web3, News  
-
-Aztec Foundation has rolled out Tierra V6, saying it fixes earlier security issues and doubles the speed of private transaction proof generation.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399)
 
 ---
