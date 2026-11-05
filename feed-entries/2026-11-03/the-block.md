@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-03"
 date: "2026-11-03"
 source: "The Block"
-count: 6
+count: 3
 ---
 
 # The Block - 2026-11-03
 
-6 items collected.
+3 items collected.
 
 ---
 
@@ -44,41 +44,5 @@ In his first interview since the Binance hack, Changpeng Zhao says AI is acceler
 Ahead of polls closing across the U.S., bettors on prediction markes are increasingly pricing in Democrats taking both the House and Senate.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461)
-
----
-
-## 4. Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties
-
-**Author:** Jason Shubnell  
-**Published:** 11/3/2026, 4:08:14 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Legal, People, People, People, Policy, Regulation, Donald Trump, Justin Sun, Lawsuits, World Liberty Financial, News  
-
-Sun says World Liberty Financial hid its UAE citizenship to escape federal court, and plans to refile his $45M lawsuit in California state court.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439)
-
----
-
-## 5. CFTC approves individual stock perpetual futures trading in US for the first time
-
-**Author:** Sarah Wynn  
-**Published:** 11/3/2026, 3:37:50 PM  
-**Categories:** Crypto Ecosystems, DeFi, Markets, Policy, Regulation, CFTC, Perpetuals, News  
-
-The CFTC approved the ability for exchanges in the U.S. to offer perpetual futures contracts tied to individual stocks.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422)
-
----
-
-## 6. Binance says hackers used fake job interview, internal AI tool in $6.3 billion breach
-
-**Author:** Jason Shubnell  
-**Published:** 11/3/2026, 3:34:34 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Exchanges, Security, Web3, AI, Binance, Exploits, News  
-
-Binance's incident report said hackers used a fake job interview and an internal AI tool to gain access to systems involved in the theft.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406)
 
 ---
