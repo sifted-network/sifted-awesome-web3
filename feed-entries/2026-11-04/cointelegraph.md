@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-04"
 date: "2026-11-04"
 source: "Cointelegraph"
-count: 22
+count: 17
 ---
 
 # Cointelegraph - 2026-11-04
 
-22 items collected.
+17 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ Customers will initially be able to view their holdings, while withdrawals and t
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 11/4/2026, 10:54:23 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. BitMart founder says security team ‘severely understaffed’ after new hack
+## 2. BitMart founder says security team ‘severely understaffed’ after new hack
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/4/2026, 10:31:58 PM  
@@ -47,7 +35,7 @@ The crypto exchange’s founder warned of security staffing shortages amid restr
 
 ---
 
-## 4. Crypto PACs eye 2028 ‘new map’ as Democrats take Congress
+## 3. Crypto PACs eye 2028 ‘new map’ as Democrats take Congress
 
 **Author:** Cointelegraph by Isabelle Castro  
 **Published:** 11/4/2026, 10:17:33 PM  
@@ -59,7 +47,7 @@ Crypto super PACs spent more than $176 million on the midterms, but the Democrat
 
 ---
 
-## 5. How Aussie Bitcoiners can avoid 2027’s shock CGT hike
+## 4. How Aussie Bitcoiners can avoid 2027’s shock CGT hike
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 11/4/2026, 9:30:00 PM  
@@ -71,7 +59,7 @@ From setting up an SMSF or a company, to just leaving the country entirely, here
 
 ---
 
-## 6. Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms
+## 5. Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms
 
 **Author:** Cointelegraph by Jona Jaupi  
 **Published:** 11/4/2026, 7:15:39 PM  
@@ -83,7 +71,7 @@ The official Trump and World Liberty Financial tokens were the two biggest loser
 
 ---
 
-## 7. Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss
+## 6. Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/4/2026, 6:47:56 PM  
@@ -95,7 +83,7 @@ Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported fa
 
 ---
 
-## 8. Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income
+## 7. Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income
 
 **Author:** Cointelegraph  
 **Published:** 11/4/2026, 6:02:42 PM  
@@ -107,7 +95,7 @@ Circle is looking to payments fees and future staking rewards to diversify reven
 
 ---
 
-## 9. Bitcoin hits $80.5K as US stocks rally on midterm election results
+## 8. Bitcoin hits $80.5K as US stocks rally on midterm election results
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/4/2026, 3:29:23 PM  
@@ -119,7 +107,7 @@ Bitcoin climbed toward $80,500 as risk assets rallied on Democrats’ midterm el
 
 ---
 
-## 10. France backs reporting for self-custodied crypto worth 100K euros or more
+## 9. France backs reporting for self-custodied crypto worth 100K euros or more
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/4/2026, 1:44:52 PM  
@@ -131,7 +119,7 @@ The amendment would require taxpayers to report holdings worth at least $112,000
 
 ---
 
-## 11. Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’
+## 10. Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/4/2026, 12:12:15 PM  
@@ -143,7 +131,7 @@ SEC staff’s no-action letter covers CC earned by running infrastructure and ap
 
 ---
 
-## 12. Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says
+## 11. Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/4/2026, 11:11:57 AM  
@@ -155,7 +143,7 @@ Zach Pandl highlighted institutional custody safeguards as crypto markets recove
 
 ---
 
-## 13. Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure
+## 12. Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/4/2026, 10:30:42 AM  
@@ -167,7 +155,7 @@ Sun plans to refile his token-freeze lawsuit in California state court after the
 
 ---
 
-## 14. Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’
+## 13. Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/4/2026, 9:38:07 AM  
@@ -179,7 +167,7 @@ Bitwise’s André Dragosch attributed Bitcoin ETF outflows to weaker market sen
 
 ---
 
-## 15. US midterm elections 2026 as it happened: Democrats win control of Congress
+## 14. US midterm elections 2026 as it happened: Democrats win control of Congress
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/4/2026, 9:27:34 AM  
@@ -191,7 +179,7 @@ Democrats won control of Congress in the 2026 US midterms. Catch up on key races
 
 ---
 
-## 16. Binance hackers move 81% of stolen Solana, route funds via THORChain
+## 15. Binance hackers move 81% of stolen Solana, route funds via THORChain
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/4/2026, 9:15:55 AM  
@@ -203,7 +191,7 @@ The Binance attackers moved most of the stolen SOL and continued laundering fund
 
 ---
 
-## 17. Democrats win US House to secure control of Congress in midterms
+## 16. Democrats win US House to secure control of Congress in midterms
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/4/2026, 7:50:27 AM  
@@ -215,7 +203,7 @@ Democrats will take control of House committees in January 2027, giving them pow
 
 ---
 
-## 18. Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress
+## 17. Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/4/2026, 7:25:47 AM  
@@ -224,53 +212,5 @@ Democrats will take control of House committees in January 2027, giving them pow
 Bitcoin price downside reached a seven-week-low of $75,618 as 24-hour crypto long liquidations neared $300 million.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Ethereum dev targets 2028 for quantum resistance, a year early
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/4/2026, 5:46:33 AM  
-**Categories:** Latest News  
-
-Ethereum researcher Justin Drake said it is their “hope” that Ethereum will achieve its post-quantum and post-AI transition by December 2028.
-
-📖 [Read original article](https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Democrats claim control of the US Senate
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/4/2026, 4:40:44 AM  
-**Categories:** Latest News  
-
-The shift in Senate control could change the path for the CLARITY Act, reshape committee leadership and bring closer scrutiny of Trump’s crypto businesses.
-
-📖 [Read original article](https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. ZachXBT identifies French bank as alleged victim of $133M crypto theft
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/4/2026, 3:35:30 AM  
-**Categories:** Latest News  
-
-The French bank has not confirmed its alleged involvement in the crypto theft, which ZachXBT said could have resulted in losses exceeding $133 million.
-
-📖 [Read original article](https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. 1inch lawyer sees agencies driving US crypto regulation as midterms unfold
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/4/2026, 12:45:16 AM  
-**Categories:** Latest News  
-
-Crypto executives expect US regulators to drive crypto policymaking regardless of the midterm election outcome.
-
-📖 [Read original article](https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
