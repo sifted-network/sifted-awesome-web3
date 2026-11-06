@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-11-04"
 date: "2026-11-04"
 source: "Decrypt"
-count: 17
+count: 16
 ---
 
 # Decrypt - 2026-11-04
 
-17 items collected.
+16 items collected.
 
 ---
 
@@ -200,17 +200,5 @@ The USDC issuer disclosed the cuts in its earnings release, booking $9.1 million
 A Polymarket trader topped the prediction market’s leaderboard after Democrats swept the US midterms, but Alaska could still flip it.
 
 📖 [Read original article](https://decrypt.co/382489/midterms-blue-wave-makes-917k-for-one-polymarket-trader-if-alaska-doesnt-flip)
-
----
-
-## 17. Judge Orders Bitcoin Wallet Returned to Family of Convicted Canadian Killer
-
-**Author:** Decrypt Agent  
-**Published:** 11/4/2026, 10:35:01 AM  
-**Categories:** , Law and Order  
-
-A Nova Scotia judge found prosecutors failed to link William Sandeson's Bitcoin to the 2015 murder of fellow student Taylor Samson.
-
-📖 [Read original article](https://decrypt.co/382484/judge-orders-bitcoin-wallet-returned-to-family-of-convicted-canadian-killer)
 
 ---
