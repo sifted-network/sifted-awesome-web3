@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-03"
 date: "2026-11-03"
 source: "The Defiant"
-count: 26
+count: 24
 ---
 
 # The Defiant - 2026-11-03
 
-26 items collected.
+24 items collected.
 
 ---
 
@@ -296,29 +296,5 @@ The exchange says $11 million has been blocked, but its assurance does not speci
 Seven-day net outflows remained at $11.832 billion despite the positive daily reading on DefiLlama's exchange dashboard.
 
 📖 [Read original article](https://thedefiant.io/news/cefi/binance-flips-to-1-82-billion-in-daily-net-inflows-after-withdrawal-restart)
-
----
-
-## 25. Chainalysis Puts Mercado Bitcoin Hack at $49 Million Across 17 Chains
-
-**Author:** The Defiant Team  
-**Published:** 11/3/2026, 12:56:08 AM  
-**Categories:** -  
-
-Mercado Bitcoin separately says $11 million has been blocked and promises no customer losses, while access to services remains suspended.
-
-📖 [Read original article](https://thedefiant.io/news/hacks/chainalysis-puts-mercado-bitcoin-hack-at-49-million-across-17-chains)
-
----
-
-## 26. Liquid Restores Full Bitcoin Backing After Elements Exploit
-
-**Author:** The Defiant Team  
-**Published:** 11/3/2026, 12:12:59 AM  
-**Categories:** -  
-
-Full reserves meet a condition for restarting direct federation withdrawals, which were last reported under enhanced operational controls.
-
-📖 [Read original article](https://thedefiant.io/news/security/liquid-restores-full-bitcoin-backing-after-elements-exploit)
 
 ---
