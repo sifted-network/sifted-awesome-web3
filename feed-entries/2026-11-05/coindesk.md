@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-05"
 date: "2026-11-05"
 source: "CoinDesk"
-count: 24
+count: 23
 ---
 
 # CoinDesk - 2026-11-05
 
-24 items collected.
+23 items collected.
 
 ---
 
@@ -23,7 +23,7 @@ The new DOJ task force will aid the recently designated U.S. "SI Force" by wardi
 
 ---
 
-## 2. Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower
+## 2. Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower
 
 **Author:** Krisztian Sandor  
 **Published:** 11/5/2026, 6:48:40 PM  
@@ -284,17 +284,5 @@ The fix went live Wednesday after validator support reset the activation clock i
 Ether rose 8% as falling oil prices and a weaker dollar helped markets recover, even as traders weighed a tougher path for U.S. crypto legislation.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound)
-
----
-
-## 24. Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show
-
-**Author:** Omkar Godbole  
-**Published:** 11/5/2026, 4:11:33 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-A wallet supposedly linked to Trump Media has made a large BTC transfer to Crypto.com, data tracked by Arkham show.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show)
 
 ---
