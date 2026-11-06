@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-03"
 date: "2026-11-03"
 source: "The Defiant"
-count: 24
+count: 18
 ---
 
 # The Defiant - 2026-11-03
 
-24 items collected.
+18 items collected.
 
 ---
 
@@ -224,77 +224,5 @@ Tracing stolen crypto is different from getting it back. US consumers should ver
 The new rollup requires contract recompilation and new addresses, while V5 gets roughly 30 days of funded migration support.
 
 📖 [Read original article](https://thedefiant.io/news/blockchains/aztec-launches-tierra-upgrade-with-faster-ethereum-messaging)
-
----
-
-## 19. Kraken Restricts Accounts Amid Suspected $133 Million-Plus EU Theft
-
-**Author:** The Defiant Team  
-**Published:** 11/3/2026, 12:24:03 PM  
-**Categories:** -  
-
-The exchange says its own systems and customer accounts were not compromised and that it is working with law enforcement on recovery.
-
-📖 [Read original article](https://thedefiant.io/news/hacks/kraken-restricts-accounts-amid-suspected-133-million-plus-eu-theft)
-
----
-
-## 20. Binance Lacks Cyber Insurance for $6.3 Billion Hack, Bloomberg Law Reports
-
-**Author:** The Defiant Team  
-**Published:** 11/3/2026, 11:59:23 AM  
-**Categories:** -  
-
-The exchange says it reserved more than $6.34 billion in company funds and is drawing on emergency and futures reserves to replace stolen assets.
-
-📖 [Read original article](https://thedefiant.io/news/hacks/binance-lacks-cyber-insurance-for-6-3-billion-hack-bloomberg-law-reports)
-
----
-
-## 21. France Delays Budget Vote Again, Leaving Stablecoin Tax Pending
-
-**Author:** The Defiant Team  
-**Published:** 11/3/2026, 11:13:54 AM  
-**Categories:** -  
-
-Lawmakers defeated a proposal to tax unrealized crypto gains when residents move abroad, but a stablecoin-swap tax remains in the provisional budget text.
-
-📖 [Read original article](https://thedefiant.io/news/regulation/france-delays-budget-vote-again-leaving-stablecoin-tax-pending)
-
----
-
-## 22. Backpack Warns of Fake Tokenized Stock Airdrops
-
-**Author:** The Defiant Team  
-**Published:** 11/3/2026, 11:07:50 AM  
-**Categories:** -  
-
-Scammers may cite genuine token addresses to appear legitimate, the company said, directing users to its official Solana mint directory.
-
-📖 [Read original article](https://thedefiant.io/news/security/backpack-warns-of-fake-tokenized-stock-airdrops)
-
----
-
-## 23. Mercado Bitcoin Promises No Customer Asset Losses After Hack
-
-**Author:** The Defiant Team  
-**Published:** 11/3/2026, 9:08:33 AM  
-**Categories:** -  
-
-The exchange says $11 million has been blocked, but its assurance does not specify a funding source or reimbursement deadline.
-
-📖 [Read original article](https://thedefiant.io/news/hacks/mercado-bitcoin-promises-no-customer-asset-losses-after-hack)
-
----
-
-## 24. Binance Flips to $1.82 Billion in Daily Net Inflows After Withdrawal Restart
-
-**Author:** The Defiant Team  
-**Published:** 11/3/2026, 9:04:59 AM  
-**Categories:** -  
-
-Seven-day net outflows remained at $11.832 billion despite the positive daily reading on DefiLlama's exchange dashboard.
-
-📖 [Read original article](https://thedefiant.io/news/cefi/binance-flips-to-1-82-billion-in-daily-net-inflows-after-withdrawal-restart)
 
 ---
