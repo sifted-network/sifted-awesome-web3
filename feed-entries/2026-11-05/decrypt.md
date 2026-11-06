@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-11-05"
 date: "2026-11-05"
 source: "Decrypt"
-count: 18
+count: 19
 ---
 
 # Decrypt - 2026-11-05
 
-18 items collected.
+19 items collected.
 
 ---
 
-## 1. Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country
+## 1. Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup
+
+**Author:** Jose Antonio Lanz  
+**Published:** 11/5/2026, 11:06:02 PM  
+**Categories:** Artificial Intelligence  
+
+Anthropic's Claude finance assistant analyzes spending from linked accounts in the U.S., and Anthony Pompliano has a big problem with it.
+
+📖 [Read original article](https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic)
+
+---
+
+## 2. Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/5/2026, 10:16:03 PM  
@@ -23,7 +35,7 @@ Ueno’s collapse trapped millions of Paraguayan depositors and triggered a pres
 
 ---
 
-## 2. OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?
+## 3. OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/5/2026, 9:36:03 PM  
@@ -35,7 +47,7 @@ OpenAI wants to ease the backlash against AI campuses with promises on electrici
 
 ---
 
-## 3. DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse
+## 4. DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse
 
 **Author:** Decrypt Staff  
 **Published:** 11/5/2026, 8:46:02 PM  
@@ -47,7 +59,7 @@ Led by two senior DOJ officials, the Super Intelligence Task Force will target m
 
 ---
 
-## 4. Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story
+## 5. Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/5/2026, 8:16:03 PM  
@@ -59,7 +71,7 @@ Fresh forensic analysis traces $48.6 million across 11 blockchains and finds tho
 
 ---
 
-## 5. Zcash Upgrade Could Lock $16 Million in Crypto Forever
+## 6. Zcash Upgrade Could Lock $16 Million in Crypto Forever
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/5/2026, 7:46:03 PM  
@@ -71,7 +83,7 @@ Zcash's latest upgrade promises faster transactions, but thousands of coins rema
 
 ---
 
-## 6. OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them
+## 7. OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/5/2026, 7:16:03 PM  
@@ -83,7 +95,7 @@ An automated OpenAI system produced working exploits and draft fixes at roughly 
 
 ---
 
-## 7. Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books
+## 8. Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books
 
 **Author:** Decrypt Staff  
 **Published:** 11/5/2026, 6:25:31 PM  
@@ -95,7 +107,7 @@ The Hut 8-backed miner reversed a second-quarter loss, driven largely by a $197 
 
 ---
 
-## 8. S&#038;P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs
+## 9. S&#038;P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/5/2026, 6:05:21 PM  
@@ -107,7 +119,7 @@ A day after Trump celebrated stock market records, the S&#038;P 500 sank 3.8%, p
 
 ---
 
-## 9. Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report
+## 10. Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report
 
 **Author:** Decrypt Agent  
 **Published:** 11/5/2026, 5:31:10 PM  
@@ -119,7 +131,7 @@ Employees are being told not to bet on casting news, release dates or earnings, 
 
 ---
 
-## 10. Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto
+## 11. Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto
 
 **Author:** Decrypt Staff  
 **Published:** 11/5/2026, 5:01:03 PM  
@@ -131,7 +143,7 @@ Leap, built by the team behind Dialect, launched a beta iPhone app for trading t
 
 ---
 
-## 11. Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report
+## 12. Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report
 
 **Author:** Ryan Gladwin  
 **Published:** 11/5/2026, 4:37:20 PM  
@@ -143,7 +155,7 @@ Analysts said that the Clarity Act's path has become tougher, while advocacy gro
 
 ---
 
-## 12. Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out
+## 13. Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/5/2026, 4:29:11 PM  
@@ -155,7 +167,7 @@ Bitcoin plunged nearly 5% as AI stocks sank, Democratic midterm wins raised fres
 
 ---
 
-## 13. Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context
+## 14. Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context
 
 **Author:** Decrypt Agent  
 **Published:** 11/5/2026, 1:37:25 PM  
@@ -167,7 +179,7 @@ The OpenAI CEO briefly renamed himself "Ram Altman" on X after Elon Musk mocked 
 
 ---
 
-## 14. Morning Minute: Democrat Sweep Pumps Crypto as Clarity Act Resurfaces
+## 15. Morning Minute: Democrat Sweep Pumps Crypto as Clarity Act Resurfaces
 
 **Author:** Tyler Warner  
 **Published:** 11/5/2026, 1:14:05 PM  
@@ -179,7 +191,7 @@ The Dems are already talking compromise on the Clarity Act and their requests al
 
 ---
 
-## 15. Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana
+## 16. Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana
 
 **Author:** Decrypt Staff  
 **Published:** 11/5/2026, 1:01:02 PM  
@@ -191,7 +203,7 @@ Eligible U.S. Galaxy users can now buy, hold, send and receive USDC on Solana di
 
 ---
 
-## 16. Binance Cuts Off SignalPlus API Keys Over 'Potential Security Issue' at Trading Platform
+## 17. Binance Cuts Off SignalPlus API Keys Over 'Potential Security Issue' at Trading Platform
 
 **Author:** Decrypt Agent  
 **Published:** 11/5/2026, 12:23:24 PM  
@@ -203,7 +215,7 @@ The exchange said its own systems and user funds are unaffected, a week after it
 
 ---
 
-## 17. Canadian Man Extradited to US Over Plot to Hijack University Supercomputers for Crypto
+## 18. Canadian Man Extradited to US Over Plot to Hijack University Supercomputers for Crypto
 
 **Author:** Decrypt Agent  
 **Published:** 11/5/2026, 12:00:01 PM  
@@ -215,7 +227,7 @@ Prosecutors say Ryan Roach and a co-defendant targeted U.S. universities with su
 
 ---
 
-## 18. Arkansas Sues Kalshi, Joining a Growing List of States Targeting Prediction Markets
+## 19. Arkansas Sues Kalshi, Joining a Growing List of States Targeting Prediction Markets
 
 **Author:** Decrypt Agent  
 **Published:** 11/5/2026, 10:28:58 AM  
