@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-05"
 date: "2026-11-05"
 source: "CoinDesk"
-count: 23
+count: 16
 ---
 
 # CoinDesk - 2026-11-05
 
-23 items collected.
+16 items collected.
 
 ---
 
@@ -200,89 +200,5 @@ The continued blowup of the AI trade led markets lower, with Nvidia losing 9.3% 
 The same attacker took about $391,000, mostly from wallets Bitquery ties to BitMart, whose founder confirmed a Nov. 2 hack and suspects a link.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds)
-
----
-
-## 17. Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal
-
-**Author:** Shaurya Malwa  
-**Published:** 11/5/2026, 9:36:32 AM  
-**Categories:** Tech, News  
-
-Riot has sold most of its bitcoin to fund its move into data centers. Its latest agreement gives Anthropic a way to finance part of the build and collect interest through rent deductions.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal)
-
----
-
-## 18. Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities
-
-**Author:** Olivier Acuna  
-**Published:** 11/5/2026, 8:35:37 AM  
-**Categories:** Policy, Regulation, Tax, News  
-
-Crypto firms must collect customer and transaction data from 2027, with Hong Kong sharing the information with overseas tax authorities from 2028.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/11/04/hong-kong-passes-law-requiring-crypto-exchanges-to-report-customer-transactions-to-tax-authorities)
-
----
-
-## 19. OpenAI says its AI can break into Linux at scale. Here's what it means for crypto
-
-**Author:** Omkar Godbole  
-**Published:** 11/5/2026, 8:26:26 AM  
-**Categories:** Tech, Artificial Intelligence, News  
-
-OpenAI says its AI found 948 Linux flaws and wrote a working attack for each one. Crypto security voices say decentralization leaves the industry better placed than most to cope.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto)
-
----
-
-## 20. Zcash is about to freeze $16 million in its oldest privacy pool
-
-**Author:** Shaurya Malwa  
-**Published:** 11/5/2026, 5:47:01 AM  
-**Categories:** Tech, News  
-
-About 12,200 ZEC remains in Sprout, the privacy pool Zcash launched in 2016. Roughly 10,000 coins have left over the past week, but only about 40 moved out Wednesday.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool)
-
----
-
-## 21. The pile of lawsuits against Kalshi just grew by one
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 11/5/2026, 5:28:52 AM  
-**Categories:** Policy, Kalshi, News  
-
-Arkansas has accused the prediction market of running illegal gambling, joining Utah and several other U.S. states that have filed criminal or civil charges.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one)
-
----
-
-## 22. XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens
-
-**Author:** Shaurya Malwa  
-**Published:** 11/5/2026, 5:25:06 AM  
-**Categories:** Markets, News  
-
-The fix went live Wednesday after validator support reset the activation clock in October. XRP itself was unaffected.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens)
-
----
-
-## 23. Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound
-
-**Author:** Shaurya Malwa  
-**Published:** 11/5/2026, 5:13:45 AM  
-**Categories:** Markets, News  
-
-Ether rose 8% as falling oil prices and a weaker dollar helped markets recover, even as traders weighed a tougher path for U.S. crypto legislation.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound)
 
 ---
