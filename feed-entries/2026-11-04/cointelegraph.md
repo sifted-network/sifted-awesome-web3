@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-04"
 date: "2026-11-04"
 source: "Cointelegraph"
-count: 9
+count: 8
 ---
 
 # Cointelegraph - 2026-11-04
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ Circle is looking to payments fees and future staking rewards to diversify reven
 Bitcoin climbed toward $80,500 as risk assets rallied on Democrats’ midterm election gains and oil prices fell.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. France backs reporting for self-custodied crypto worth 100K euros or more
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/4/2026, 1:44:52 PM  
-**Categories:** Latest News  
-
-The amendment would require taxpayers to report holdings worth at least $112,000, but the measure still needs to survive the budget process.
-
-📖 [Read original article](https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
