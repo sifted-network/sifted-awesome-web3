@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-05"
 date: "2026-11-05"
 source: "CoinDesk"
-count: 16
+count: 11
 ---
 
 # CoinDesk - 2026-11-05
 
-16 items collected.
+11 items collected.
 
 ---
 
@@ -140,65 +140,5 @@ Ukraine’s central bank won’t back a crypto legalization bill in its current 
 Your day-ahead look for Nov. 5, 2026
 
 📖 [Read original article](https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid)
-
----
-
-## 12. Bitcoin miners are oversold following 35% October rout, VanEck says
-
-**Author:** Jamie Crawley  
-**Published:** 11/5/2026, 11:49:23 AM  
-**Categories:** Markets, Bitcoin Mining, Artificial Intelligence, News  
-
-Investors dumped AI infrastructure providers across the board in October, treating companies in very different sectors as one monolithic trade.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck)
-
----
-
-## 13. Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates
-
-**Author:** Olivier Acuna  
-**Published:** 11/5/2026, 11:45:54 AM  
-**Categories:** Finance, American Bitcoin, Bitcoin Mining, Eric Trump, News  
-
-Revenue fell to $63.4 million in the third quarter and missed analysts’ forecasts as bitcoin production declined and higher summer electricity prices pushed mining costs up.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026)
-
----
-
-## 14. Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 11/5/2026, 11:30:00 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin slipped 0.2% to around $80,250 since midnight UTC, holding above $80,000 after Wednesday’s jump, as spot ETFs ended a three-day outflow streak.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing)
-
----
-
-## 15. Live updates: Bitcoin drops more than 5% as stocks close out worst day since April 2025
-
-**Author:** Shaurya Malwa,Stephen Alpher,Omkar Godbole  
-**Published:** 11/5/2026, 10:57:11 AM  
-**Categories:** Finance, Live News, live_news  
-
-The continued blowup of the AI trade led markets lower, with Nvidia losing 9.3% and many other chip names down double-digit percentages.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep)
-
----
-
-## 16. Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds
-
-**Author:** Francisco Rodrigues  
-**Published:** 11/5/2026, 10:44:54 AM  
-**Categories:** Finance, Brazil, Hack, News  
-
-The same attacker took about $391,000, mostly from wallets Bitquery ties to BitMart, whose founder confirmed a Nov. 2 hack and suspects a link.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds)
 
 ---
