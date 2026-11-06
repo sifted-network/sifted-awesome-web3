@@ -11,7 +11,19 @@ count: 21
 
 ---
 
-## 1. American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 11/5/2026, 11:03:41 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI
 
 **Author:** Cointelegraph by Jona Jaupi  
 **Published:** 11/5/2026, 10:43:18 PM  
@@ -23,7 +35,7 @@ The Eric Trump-backed miner reported $126 million in quarterly net income, large
 
 ---
 
-## 2. Asian crypto exchanges batten down the hatches as hacks surge: Asia Express
+## 3. Asian crypto exchanges batten down the hatches as hacks surge: Asia Express
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 11/5/2026, 10:18:42 PM  
@@ -35,7 +47,7 @@ Asian crypto exchanges are scrambling to tighten security on fears of a wave of 
 
 ---
 
-## 3. Crypto ally French Hill wins reelection but set to lose House chair
+## 4. Crypto ally French Hill wins reelection but set to lose House chair
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/5/2026, 9:39:19 PM  
@@ -47,7 +59,7 @@ Republican French Hill secured another term in Congress but will lose his leader
 
 ---
 
-## 4. Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack
+## 5. Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/5/2026, 7:02:19 PM  
@@ -59,7 +71,7 @@ SignalPlus said attackers compromised an engineer’s computer in a breach that 
 
 ---
 
-## 5. Fed, OCC check US banks after Binance hack as experts flag security risks
+## 6. Fed, OCC check US banks after Binance hack as experts flag security risks
 
 **Author:** Cointelegraph by Jona Jaupi  
 **Published:** 11/5/2026, 6:32:45 PM  
@@ -71,7 +83,7 @@ US regulators reportedly contacted banks following last week’s $6.3 billion Bi
 
 ---
 
-## 6. Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum
+## 7. Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/5/2026, 6:09:38 PM  
@@ -83,7 +95,7 @@ The new share class offers blockchain-based exposure to an index tracking 600 co
 
 ---
 
-## 7. Paraguay president resigns after collapse of Ueno digital bank
+## 8. Paraguay president resigns after collapse of Ueno digital bank
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/5/2026, 5:40:25 PM  
@@ -95,7 +107,7 @@ Santiago Peña stepped down amid mounting scrutiny over his former ties to Ueno 
 
 ---
 
-## 8. Bitcoin crashes 6% to 7-week low as US stocks erase election gains
+## 9. Bitcoin crashes 6% to 7-week low as US stocks erase election gains
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/5/2026, 4:48:41 PM  
@@ -104,18 +116,6 @@ Santiago Peña stepped down amid mounting scrutiny over his former ties to Ueno 
 Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 11/5/2026, 1:46:01 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
