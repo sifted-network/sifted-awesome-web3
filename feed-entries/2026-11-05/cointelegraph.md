@@ -2,28 +2,16 @@
 title: "Cointelegraph - 2026-11-05"
 date: "2026-11-05"
 source: "Cointelegraph"
-count: 21
+count: 17
 ---
 
 # Cointelegraph - 2026-11-05
 
-21 items collected.
+17 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 11/5/2026, 11:03:41 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI
+## 1. American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI
 
 **Author:** Cointelegraph by Jona Jaupi  
 **Published:** 11/5/2026, 10:43:18 PM  
@@ -35,7 +23,7 @@ The Eric Trump-backed miner reported $126 million in quarterly net income, large
 
 ---
 
-## 3. Asian crypto exchanges batten down the hatches as hacks surge: Asia Express
+## 2. Asian crypto exchanges batten down the hatches as hacks surge: Asia Express
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 11/5/2026, 10:18:42 PM  
@@ -47,7 +35,7 @@ Asian crypto exchanges are scrambling to tighten security on fears of a wave of 
 
 ---
 
-## 4. Crypto ally French Hill wins reelection but set to lose House chair
+## 3. Crypto ally French Hill wins reelection but set to lose House chair
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/5/2026, 9:39:19 PM  
@@ -59,7 +47,7 @@ Republican French Hill secured another term in Congress but will lose his leader
 
 ---
 
-## 5. Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack
+## 4. Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/5/2026, 7:02:19 PM  
@@ -71,7 +59,7 @@ SignalPlus said attackers compromised an engineer’s computer in a breach that 
 
 ---
 
-## 6. Fed, OCC check US banks after Binance hack as experts flag security risks
+## 5. Fed, OCC check US banks after Binance hack as experts flag security risks
 
 **Author:** Cointelegraph by Jona Jaupi  
 **Published:** 11/5/2026, 6:32:45 PM  
@@ -83,7 +71,7 @@ US regulators reportedly contacted banks following last week’s $6.3 billion Bi
 
 ---
 
-## 7. Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum
+## 6. Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/5/2026, 6:09:38 PM  
@@ -95,7 +83,7 @@ The new share class offers blockchain-based exposure to an index tracking 600 co
 
 ---
 
-## 8. Paraguay president resigns after collapse of Ueno digital bank
+## 7. Paraguay president resigns after collapse of Ueno digital bank
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/5/2026, 5:40:25 PM  
@@ -107,7 +95,7 @@ Santiago Peña stepped down amid mounting scrutiny over his former ties to Ueno 
 
 ---
 
-## 9. Bitcoin crashes 6% to 7-week low as US stocks erase election gains
+## 8. Bitcoin crashes 6% to 7-week low as US stocks erase election gains
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/5/2026, 4:48:41 PM  
@@ -119,7 +107,7 @@ Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap s
 
 ---
 
-## 10. Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says
+## 9. Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/5/2026, 1:34:57 PM  
@@ -131,7 +119,7 @@ Sunny Lu said AI agents would need identity and reputation systems, making the c
 
 ---
 
-## 11. Can decentralized phone networks power the AI revolution?
+## 10. Can decentralized phone networks power the AI revolution?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 11/5/2026, 1:30:00 PM  
@@ -143,7 +131,7 @@ Decentralized AI networks want to turn everyday phones into an alternative to ce
 
 ---
 
-## 12. Trump’s memecoin ventures derailed CLARITY Act, Scaramucci says
+## 11. Trump’s memecoin ventures derailed CLARITY Act, Scaramucci says
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/5/2026, 12:39:36 PM  
@@ -155,7 +143,7 @@ The SkyBridge founder said disputes over ethics restrictions also stalled negoti
 
 ---
 
-## 13. Thailand to block Bitget in December over unlicensed crypto trading
+## 12. Thailand to block Bitget in December over unlicensed crypto trading
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/5/2026, 11:33:20 AM  
@@ -167,7 +155,7 @@ Thailand’s SEC filed a criminal complaint against Bitget’s operator, with ac
 
 ---
 
-## 14. Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks
+## 13. Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/5/2026, 10:28:26 AM  
@@ -179,7 +167,7 @@ Bitcoin outperformed the S&P 500 in half of the past 90 US trading sessions, whi
 
 ---
 
-## 15. South Korea seeks 4th crypto tax delay, targets 2029 start
+## 14. South Korea seeks 4th crypto tax delay, targets 2029 start
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/5/2026, 9:35:29 AM  
@@ -191,7 +179,7 @@ South Korea is seeking a fourth delay to its 22% crypto tax, months after reaffi
 
 ---
 
-## 16. France budget rejection sidelines stablecoin tax, wallet reporting
+## 15. France budget rejection sidelines stablecoin tax, wallet reporting
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/5/2026, 9:04:42 AM  
@@ -203,7 +191,7 @@ Three adopted amendments, including stablecoin taxation and self-custody reporti
 
 ---
 
-## 17. Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms
+## 16. Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/5/2026, 8:22:30 AM  
@@ -215,7 +203,7 @@ Fidelity led Bitcoin ETF inflows, while BlackRock’s IBIT shed another $201 mil
 
 ---
 
-## 18. Crédit Mutuel Arkéa resumes operations after attack, assesses losses
+## 17. Crédit Mutuel Arkéa resumes operations after attack, assesses losses
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/5/2026, 7:23:06 AM  
@@ -224,41 +212,5 @@ Fidelity led Bitcoin ETF inflows, while BlackRock’s IBIT shed another $201 mil
 The bank said customer funds were unaffected after attackers accessed its systems through a service provider’s platform.
 
 📖 [Read original article](https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/5/2026, 6:02:29 AM  
-**Categories:** Latest News  
-
-Polygon block producers have already frozen the stolen tokens, but a proposed hard fork would allow the funds to be recovered and returned to their owners.
-
-📖 [Read original article](https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. ‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/5/2026, 4:52:49 AM  
-**Categories:** Latest News  
-
-Democrats wasted little time after their midterm victory, warning tech CEOs to prepare for subpoenas and signaling fresh investigations into Trump’s business dealings.
-
-📖 [Read original article](https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/5/2026, 1:51:21 AM  
-**Categories:** Latest News  
-
-India’s cybersecurity agency says a threat actor is escalating an AI-assisted hacking campaign targeting crypto exchanges and other financial firms.
-
-📖 [Read original article](https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
