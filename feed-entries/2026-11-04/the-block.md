@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-04"
 date: "2026-11-04"
 source: "The Block"
-count: 9
+count: 8
 ---
 
 # The Block - 2026-11-04
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ BitGo has launched Global Markets, an institutional trading and financial soluti
 DeFi 201 explains decentralized finance as a connected protocol system. It follows how DEXs and AMMs, liquidity pools, lending markets, yield aggregators, oracles, derivatives and DAO governance fit together, and where composability creates systemic risk.
 
 📖 [Read original article](https://www.theblock.co/learn/defi/defi-explained-432391)
-
----
-
-## 9. Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service
-
-**Author:** Brian Danga  
-**Published:** 11/4/2026, 9:37:45 AM  
-**Categories:** Companies, Finance firms, Markets, Policy, Regulation, TradFi banks, News  
-
-Morgan Stanley said it converted US equities and Treasurys into tokenized form through DTCC's new tokenization service.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633)
 
 ---
