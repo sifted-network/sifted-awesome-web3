@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-11-04"
 date: "2026-11-04"
 source: "Decrypt"
-count: 6
+count: 3
 ---
 
 # Decrypt - 2026-11-04
 
-6 items collected.
+3 items collected.
 
 ---
 
@@ -44,41 +44,5 @@ OpenAI is rolling out animated GIF creation in ChatGPT, with frame-by-frame edit
 Google is giving schools more control over Gemini, but districts that want Search without AI are out of luck, fueling accusations that the company is pressuring educators into adopting AI.
 
 📖 [Read original article](https://decrypt.co/382572/google-schools-reject-ai-but-lose-search)
-
----
-
-## 4. Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach
-
-**Author:** Decrypt Staff  
-**Published:** 11/4/2026, 8:46:03 PM  
-**Categories:** , Business  
-
-Coinbase told customers it wasn’t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches.
-
-📖 [Read original article](https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack)
-
----
-
-## 5. US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents
-
-**Author:** Jose Antonio Lanz  
-**Published:** 11/4/2026, 7:57:18 PM  
-**Categories:** Artificial Intelligence  
-
-The OCC's first examiner guide weighs autonomy and financial harm, and directly addresses outside AI agents—the same risk that recently prompted major banks to restrict customer-account access.
-
-📖 [Read original article](https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents)
-
----
-
-## 6. US Voters Back AI Data Center Restrictions in At Least 29 Communities
-
-**Author:** Jose Antonio Lanz  
-**Published:** 11/4/2026, 6:46:03 PM  
-**Categories:** Artificial Intelligence  
-
-Voters across the United States backed measures to curb data centers, raising new obstacles for the infrastructure powering AI as electricity bills, water supplies, and public oversight dominate the debate.
-
-📖 [Read original article](https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions)
 
 ---
