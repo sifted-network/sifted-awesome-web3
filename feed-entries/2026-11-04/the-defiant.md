@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-04"
 date: "2026-11-04"
 source: "The Defiant"
-count: 36
+count: 33
 ---
 
 # The Defiant - 2026-11-04
 
-36 items collected.
+33 items collected.
 
 ---
 
@@ -404,41 +404,5 @@ Elizabeth Warren is positioned to take over Banking, but the crypto market-struc
 Bitquery traced about $391,000 in outflows mostly from BitMart-linked wallets to an address used in the Mercado Bitcoin attack.
 
 📖 [Read original article](https://thedefiant.io/news/hacks/bitmart-founder-confirms-hack-during-restructuring)
-
----
-
-## 34. Solana Breaks Below $90 as Bitcoin Slides Under $76,000
-
-**Author:** The Defiant Team  
-**Published:** 11/4/2026, 3:20:50 AM  
-**Categories:** -  
-
-SOL has lost about 24% in four weeks, more than double bitcoin's decline over the same window.
-
-📖 [Read original article](https://thedefiant.io/news/markets/solana-breaks-below-90-as-bitcoin-slides-under-76-000)
-
----
-
-## 35. THORChain Restarts Most Swaps, With 14 Nodes Yet to Upgrade
-
-**Author:** The Defiant Team  
-**Published:** 11/4/2026, 2:18:50 AM  
-**Categories:** -  
-
-Cosmos Hub, BNB Smart Chain and Solana still have trading and outbound-signing restrictions.
-
-📖 [Read original article](https://thedefiant.io/news/defi/thorchain-restarts-most-swaps-with-14-nodes-yet-to-upgrade)
-
----
-
-## 36. South Korea’s Ruling Party Formally Seeks Crypto Tax Delay
-
-**Author:** The Defiant Team  
-**Published:** 11/4/2026, 1:53:19 AM  
-**Categories:** -  
-
-Kim Min-seok wants a digital-asset framework enacted before taxation. A two-year postponement is under discussion, but the legal start date remains Jan. 1, 2027.
-
-📖 [Read original article](https://thedefiant.io/news/regulation/south-korea-s-ruling-party-formally-seeks-crypto-tax-delay)
 
 ---
