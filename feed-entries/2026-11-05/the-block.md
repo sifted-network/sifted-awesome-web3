@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-05"
 date: "2026-11-05"
 source: "The Block"
-count: 5
+count: 3
 ---
 
 # The Block - 2026-11-05
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggeri
 Base activated its fourth network upgrade, Denim, introducing five canonical blocks per second at 200ms intervals.
 
 📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433)
-
----
-
-## 4. Canary’s Injective ETF debuts on Nasdaq with exposure to staking rewards
-
-**Author:** Jason Shubnell  
-**Published:** 11/5/2026, 4:53:56 PM  
-**Categories:** Companies, Funds, Markets, Bitcoin ETF, News  
-
-Canary Capital's Staked INJ ETF debuts on Nasdaq, giving investors exposure to Injective's INJ token plus staking rewards reflected in NAV.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115)
-
----
-
-## 5. Anchorage Digital seeks CFTC swap dealer registration for crypto options business
-
-**Author:** James Hunt  
-**Published:** 11/5/2026, 4:00:02 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, exclusive, Options, News  
-
-Anchorage Digital has applied for CFTC swap dealer registration and plans to offer European-style bitcoin and ether options if approved.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437)
 
 ---
