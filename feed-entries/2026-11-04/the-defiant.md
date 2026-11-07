@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-04"
 date: "2026-11-04"
 source: "The Defiant"
-count: 33
+count: 23
 ---
 
 # The Defiant - 2026-11-04
 
-33 items collected.
+23 items collected.
 
 ---
 
@@ -284,125 +284,5 @@ The release addresses channel-balance risks and remote crashes; maintainers are 
 Arkham traced $13.26 million leaving labelled wallets, while Mercado Bitcoin has raised its blocked-assets estimate to $12.9 million.
 
 📖 [Read original article](https://thedefiant.io/news/hacks/mercado-bitcoin-attacker-swaps-tokens-for-10-55-million-in-eth-arkham-says)
-
----
-
-## 24. Coinbase, Kalshi Denied Shield From State Prediction-Market Enforcement
-
-**Author:** The Defiant Team  
-**Published:** 11/4/2026, 11:49:47 AM  
-**Categories:** -  
-
-The Second Circuit denied interim protection in Connecticut and New York, but its order does not require trading to stop or existing positions to close.
-
-📖 [Read original article](https://thedefiant.io/news/regulation/coinbase-kalshi-denied-shield-from-state-prediction-market-enforcement)
-
----
-
-## 25. Circle Payments Network Reaches $41.3 Billion Annualized Volume in Q3
-
-**Author:** The Defiant Team  
-**Published:** 11/4/2026, 11:41:41 AM  
-**Categories:** -  
-
-Circle retained 52.4% of revenue and reserve income after distribution-related costs, but ARC token sales lifted that share. Its pending Tazapay acquisition would deepen local payout access.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/circle-payments-network-reaches-41-3-billion-annualized-volume-in-q3)
-
----
-
-## 26. Morgan Stanley Tokenizes US Stocks and Treasuries Through DTCC
-
-**Author:** The Defiant Team  
-**Published:** 11/4/2026, 10:43:28 AM  
-**Categories:** -  
-
-The bank was among 20 participants signed up at launch. The service permits 24/7 token transfers only between registered wallets on the same blockchain.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/morgan-stanley-tokenizes-us-stocks-and-treasuries-through-dtcc)
-
----
-
-## 27. WLFI Slides 11% on Election Night, Lags Bitcoin’s Recovery
-
-**Author:** The Defiant Team  
-**Published:** 11/4/2026, 10:42:47 AM  
-**Categories:** -  
-
-World Liberty’s token remained 5.1% below its early-evening level by 5 a.m. ET, while bitcoin had recovered its losses.
-
-📖 [Read original article](https://thedefiant.io/news/markets/wlfi-slides-11-on-election-night-lags-bitcoin-s-recovery)
-
----
-
-## 28. Hong Kong Passes Crypto Tax Reporting Bill for 2027 Start
-
-**Author:** The Defiant Team  
-**Published:** 11/4/2026, 10:26:52 AM  
-**Categories:** -  
-
-Annual reports will link customer identities to fiat trades, token swaps and transfers, including withdrawals to external wallets.
-
-📖 [Read original article](https://thedefiant.io/converge/regulation/hong-kong-passes-crypto-tax-reporting-bill-for-2027-start)
-
----
-
-## 29. Apple Joins OKXICE Stock-Token Objectors as Total Reaches 59
-
-**Author:** The Defiant Team  
-**Published:** 11/4/2026, 7:35:36 AM  
-**Categories:** -  
-
-Objections now cover 53 of the venue’s original 63 proposed stock symbols, leaving ten without a disclosed opt-out.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/apple-joins-okxice-stock-token-objectors-as-total-reaches-59)
-
----
-
-## 30. Democrats Win House, Gaining New Leverage Over Crypto Legislation
-
-**Author:** The Defiant Team  
-**Published:** 11/4/2026, 7:32:44 AM  
-**Categories:** -  
-
-The incoming majority will control key House committees and oversight, while the CLARITY Act remains stalled at the Senate floor.
-
-📖 [Read original article](https://thedefiant.io/news/regulation/democrats-win-house-gaining-new-leverage-over-crypto-legislation)
-
----
-
-## 31. Block Reaches $964 Million DOJ Deal in Principle Over AML Lapses
-
-**Author:** The Defiant Team  
-**Published:** 11/4/2026, 6:17:48 AM  
-**Categories:** -  
-
-Credits for prior regulatory resolutions would reduce the payment to about $764 million. Separately, bitcoin ecosystem gross profit fell 50%, primarily because of Cash App fee cuts.
-
-📖 [Read original article](https://thedefiant.io/converge/regulation/block-reaches-964-million-doj-deal-in-principle-over-aml-lapses)
-
----
-
-## 32. Democrats Win Senate Control as CLARITY Act Remains Stalled
-
-**Author:** The Defiant Team  
-**Published:** 11/4/2026, 5:01:44 AM  
-**Categories:** -  
-
-Elizabeth Warren is positioned to take over Banking, but the crypto market-structure bill is already awaiting floor action after a failed procedural vote.
-
-📖 [Read original article](https://thedefiant.io/news/regulation/democrats-win-senate-control-as-clarity-act-remains-stalled)
-
----
-
-## 33. BitMart Founder Confirms Hack During Restructuring
-
-**Author:** The Defiant Team  
-**Published:** 11/4/2026, 4:56:34 AM  
-**Categories:** -  
-
-Bitquery traced about $391,000 in outflows mostly from BitMart-linked wallets to an address used in the Mercado Bitcoin attack.
-
-📖 [Read original article](https://thedefiant.io/news/hacks/bitmart-founder-confirms-hack-during-restructuring)
 
 ---
