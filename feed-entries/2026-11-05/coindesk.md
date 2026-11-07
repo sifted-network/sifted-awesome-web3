@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-05"
 date: "2026-11-05"
 source: "CoinDesk"
-count: 11
+count: 8
 ---
 
 # CoinDesk - 2026-11-05
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ The investment follows talks first reported by CoinDesk in June that included a 
 A $19 billion data-center agreement includes an unusual provision allowing Google to acquire part of the project if Anthropic fails to pay its rent.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults)
-
----
-
-## 9. Binance cuts SignalPlus access after security warning, urges users to check accounts
-
-**Author:** Olivier Acuna  
-**Published:** 11/5/2026, 12:55:03 PM  
-**Categories:** Tech, Binance, Hack, CZ, News  
-
-The exchange says its systems are unaffected but has removed trading connections to the third-party platform as a precaution.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts)
-
----
-
-## 10. Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns
-
-**Author:** Francisco Rodrigues,AI Boost  
-**Published:** 11/5/2026, 12:50:57 PM  
-**Categories:** Finance, Crypto News, News  
-
-Ukraine’s central bank won’t back a crypto legalization bill in its current form and wants lawmakers to revise it before a final vote.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns)
-
----
-
-## 11. Bitcoin is resilient, but leverage is missing and demand still tepid
-
-**Author:** Omkar Godbole  
-**Published:** 11/5/2026, 12:27:04 PM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Nov. 5, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid)
 
 ---
