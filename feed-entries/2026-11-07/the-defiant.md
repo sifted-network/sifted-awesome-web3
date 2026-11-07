@@ -2,16 +2,40 @@
 title: "The Defiant - 2026-11-07"
 date: "2026-11-07"
 source: "The Defiant"
-count: 2
+count: 4
 ---
 
 # The Defiant - 2026-11-07
 
-2 items collected.
+4 items collected.
 
 ---
 
-## 1. Dinari Promises Anthropic dShares on IPO Day, Including for US Investors
+## 1. US Sanctions Eight Canadian Money Firms Over Alleged Iran Crypto Links
+
+**Author:** The Defiant Team  
+**Published:** 11/7/2026, 11:27:05 AM  
+**Categories:** -  
+
+The designations freeze covered assets and generally bar US dealings with the firms. OFAC also listed six Tron addresses.
+
+📖 [Read original article](https://thedefiant.io/converge/regulation/us-sanctions-eight-canadian-money-firms-over-alleged-iran-crypto-links)
+
+---
+
+## 2. Keplr Pauses Google and Apple Login After Unauthorized Transaction Reports
+
+**Author:** The Defiant Team  
+**Published:** 11/7/2026, 6:12:27 AM  
+**Categories:** -  
+
+The wallet says recovery-phrase and hardware-wallet accounts are unaffected in its initial assessment, while social-login users should stop sending funds to their accounts.
+
+📖 [Read original article](https://thedefiant.io/news/security/keplr-pauses-google-and-apple-login-after-unauthorized-transaction-reports)
+
+---
+
+## 3. Dinari Promises Anthropic dShares on IPO Day, Including for US Investors
 
 **Author:** The Defiant Team  
 **Published:** 11/7/2026, 12:00:13 AM  
@@ -23,7 +47,7 @@ The pledge follows Ondo's non-US launch plan, while Dinari's US tokens remain no
 
 ---
 
-## 2. MEXC Says Withdrawals Continue as FinCEN Orders US Financial Cutoff
+## 4. MEXC Says Withdrawals Continue as FinCEN Orders US Financial Cutoff
 
 **Author:** The Defiant Team  
 **Published:** 11/7/2026, 12:00:11 AM  
