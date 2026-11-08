@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-05"
 date: "2026-11-05"
 source: "The Block"
-count: 3
+count: 2
 ---
 
 # The Block - 2026-11-05
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Hyperliquid Strategies posted $13.3M in revenue and $620.6M net income, and file
 Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggering $1.03 billion in liquidations.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434)
-
----
-
-## 3. Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times
-
-**Author:** Brian Danga  
-**Published:** 11/5/2026, 7:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Exchanges, Layer 2s and Scaling, Markets, Metaverse & NFT, NFT Marketplaces, Public Equities, Base, Coinbase, News  
-
-Base activated its fourth network upgrade, Denim, introducing five canonical blocks per second at 200ms intervals.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433)
 
 ---
