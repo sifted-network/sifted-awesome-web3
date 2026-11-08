@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-05"
 date: "2026-11-05"
 source: "The Defiant"
-count: 35
+count: 29
 ---
 
 # The Defiant - 2026-11-05
 
-35 items collected.
+29 items collected.
 
 ---
 
@@ -356,77 +356,5 @@ Some token venues offer weekend trading, but selling an existing token and redee
 PIP-93 would consolidate upgrade powers under an 8-of-11 Security Council, with a seven-day delay for Polygon Labs proposals.
 
 📖 [Read original article](https://thedefiant.io/news/blockchains/polygon-draft-would-give-labs-a-new-route-to-upgrade-contracts)
-
----
-
-## 30. Thailand Sets Dec. 5 Bitget Block As Local Exchange Deal Awaits Approval
-
-**Author:** The Defiant Team  
-**Published:** 11/5/2026, 11:49:37 AM  
-**Categories:** -  
-
-Seller GMO Internet has pushed the planned share transfer to Nov. 30 while it works through Thai regulatory procedures.
-
-📖 [Read original article](https://thedefiant.io/news/regulation/thailand-sets-dec-5-bitget-block-as-local-exchange-deal-awaits-approval)
-
----
-
-## 31. Paraguay USDT Offers Show 13% Premium After Ueno Closure
-
-**Author:** The Defiant Team  
-**Published:** 11/5/2026, 10:59:52 AM  
-**Categories:** -  
-
-Bybit listings show a sharp gap between buying and selling USDT, while Paraguay’s central bank prepares deposit-guarantee payments for Ueno savers.
-
-📖 [Read original article](https://thedefiant.io/news/markets/paraguay-usdt-offers-show-13-premium-after-ueno-closure)
-
----
-
-## 32. Binance Revokes SignalPlus API Keys After Security Warning
-
-**Author:** The Defiant Team  
-**Published:** 11/5/2026, 10:58:21 AM  
-**Categories:** -  
-
-The exchange told SignalPlus users to review positions and open orders directly on Binance and wait for confirmation of a full resolution before reconnecting.
-
-📖 [Read original article](https://thedefiant.io/news/security/binance-revokes-signalplus-api-keys-after-security-warning)
-
----
-
-## 33. France’s Budget Rejection Shelves Stablecoin Tax and Wallet Reporting
-
-**Author:** The Defiant Team  
-**Published:** 11/5/2026, 9:21:37 AM  
-**Categories:** -  
-
-The Assembly voted 458–0 against the revenue section. The crypto measures could return through amendments in the Senate, whose budget debate is scheduled to begin Nov. 20.
-
-📖 [Read original article](https://thedefiant.io/news/regulation/france-s-budget-rejection-shelves-stablecoin-tax-and-wallet-reporting)
-
----
-
-## 34. ZetaChain Opens Vote to Shut Down Layer 1 Around Dec. 9
-
-**Author:** The Defiant Team  
-**Published:** 11/5/2026, 9:14:09 AM  
-**Categories:** -  
-
-Staked and unbonding ZETA would count toward claims, while exchanges would set their own conversion windows.
-
-📖 [Read original article](https://thedefiant.io/news/blockchains/zetachain-opens-vote-to-shut-down-layer-1-around-dec-9)
-
----
-
-## 35. Arkansas Sues Kalshi to Stop Alleged Illegal Gambling
-
-**Author:** The Defiant Team  
-**Published:** 11/5/2026, 5:39:52 AM  
-**Categories:** -  
-
-The state seeks restitution, unpaid taxes and civil penalties as Kalshi continues its federal appeals against state gambling-law enforcement.
-
-📖 [Read original article](https://thedefiant.io/news/regulation/arkansas-sues-kalshi-to-stop-alleged-illegal-gambling)
 
 ---
