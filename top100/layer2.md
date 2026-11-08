@@ -6,19 +6,19 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,547 | 2,287 | Rust | 13 | A based rollup protocol for Ethereum🥁  | 2026-11-07 |
+| 1 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | 4,547 | 2,288 | Rust | 14 | A based rollup protocol for Ethereum🥁  | 2026-11-08 |
 | 2 | [stacks-core](https://github.com/stacks-network/stacks-core) | 3,065 | 771 | Rust | 640 | The Stacks blockchain implementation | 2026-11-06 |
 | 3 | [awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) | 1,550 | 333 | - | 6 | A curated list of awesome StarkNet resources, libraries, tools and more | 2025-01-06 |
 | 4 | [contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) | 1,018 | 612 | - | 1895 | This repository guides developers wanting to contribute to the Scroll ecosystem. | 2024-03-12 |
-| 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 897 | 112 | - | 4 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-10-12 |
+| 5 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 898 | 112 | - | 4 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-10-12 |
 | 6 | [starknetbook](https://github.com/starknet-edu/starknetbook) | 829 | 490 | CSS | 0 | Mastering Starknet. By the Starknet community | 2024-06-20 |
 | 7 | [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) | 616 | 61 | JavaScript | 16 | Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP | 2026-11-02 |
 | 8 | [MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) | 489 | 144 | C | 7 | Open source MAC Telnet client and server for connecting to Mikrotik RouterOS routers and Posix devices using MAC addresses | 2025-09-21 |
 | 9 | [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) | 467 | 52 | - | 0 | A curated list of awesome zkEVM resources, libraries, tools and more | 2026-09-23 |
-| 10 | [juno](https://github.com/NethermindEth/juno) | 449 | 253 | Go | 28 | Starknet full node designed for peak concurrency and efficiency | 2026-11-06 |
+| 10 | [juno](https://github.com/NethermindEth/juno) | 449 | 253 | Go | 28 | Starknet full node designed for peak concurrency and efficiency | 2026-11-07 |
 | 11 | [db3](https://github.com/dbpunk-labs/db3) | 385 | 43 | Rust | 18 |  a Lightweight, Permanent JSON document database | 2024-07-29 |
-| 12 | [ChainX](https://github.com/chainx-org/ChainX) | 326 | 119 | Rust | 1 | Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM  | 2025-12-18 |
-| 13 | [blockchain-roadmap](https://github.com/itublockchain/blockchain-roadmap) | 279 | 39 | - | 0 | Blockchain öğrenme yolculuğunuz için yol haritası | 2024-10-13 |
+| 12 | [ChainX](https://github.com/chainx-org/ChainX) | 326 | 118 | Rust | 1 | Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM  | 2025-12-18 |
+| 13 | [blockchain-roadmap](https://github.com/itublockchain/blockchain-roadmap) | 280 | 39 | - | 0 | Blockchain öğrenme yolculuğunuz için yol haritası | 2024-10-13 |
 | 14 | [Library-of-Ethereum](https://github.com/arpitingle/Library-of-Ethereum) | 277 | 33 | - | 1 | Curated Collection of Ethereum Ecosystem Resources | 2023-12-26 |
 | 15 | [jmdn](https://github.com/JupiterMetaLabs/jmdn) | 265 | 1 | Go | 0 | JMDT Decentralized Network codebase | 2026-11-06 |
 | 16 | [Blockchain-Developer-roadmap_Chinese](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese) | 257 | 19 | - | 0 | 区块链工程师学习路线 ｜ GitHub Star数第六项目 Develop Roadmap 区块链工程师 部分｜@Web3-Club | 2024-07-04 |
@@ -37,21 +37,21 @@
 | 29 | [solid-grinder](https://github.com/Ratimon/solid-grinder) | 99 | 9 | Solidity | 0 | A 100% opensource CLI that goes along with building blocks of smart contract. This toolbox can reduce L2 gas cost by encoding calldata for dApps development to use as little bytes of calldata as possi... | 2025-02-08 |
 | 30 | [NFT-yield-farming](https://github.com/masaun/NFT-yield-farming) | 96 | 81 | JavaScript | 1 | This is a smart contract that enable a user to farm yield by staking LP tokens into a NFT pool. (on BSC testnet) | 2021-03-02 |
 | 31 | [OB_ReturnCabin](https://github.com/Orbiter-Finance/OB_ReturnCabin) | 91 | 35 | Solidity | 1 | Orbiter Finance smart contracts | 2024-11-05 |
-| 32 | [getmac](https://github.com/GhostofGoes/getmac) | 90 | 28 | Python | 14 | Platform-independent pure-Python module to get a MAC address of local interfaces and remote hosts | 2026-11-04 |
+| 32 | [getmac](https://github.com/GhostofGoes/getmac) | 90 | 28 | Python | 14 | Platform-independent pure-Python module to get a MAC address of local interfaces and remote hosts | 2026-11-08 |
 | 33 | [godwoken](https://github.com/godwokenrises/godwoken) | 84 | 38 | Rust | 1 | Godwoken is an optimistic rollup solution built on Nervos CKB. | 2026-10-20 |
 | 34 | [kleros-v2](https://github.com/kleros/kleros-v2) | 83 | 59 | TypeScript | 111 | Kleros arbitration protocol version 2 | 2026-11-06 |
 | 35 | [Layer2-Pivoting-Client](https://github.com/rsmudge/Layer2-Pivoting-Client) | 77 | 35 | C | 0 | A simple client to demonstrate Layer-2 pivoting. Compatible with the simpletun.c server written by Davide Brini. | 2014-10-15 |
 | 36 | [layer2](https://github.com/the-web3/layer2) | 75 | 25 | - | 0 | 最全面的 Layer2 资料汇总 | 2024-09-04 |
 | 37 | [Tiramisu](https://github.com/dharma-eng/Tiramisu) | 74 | 2 | TypeScript | 0 | Tiramisu is a "Layer Two" system for scalable token transfers that prioritizes simplicity. | 2023-02-03 |
 | 38 | [entry](https://github.com/laincloud/entry) | 73 | 33 | Go | 0 | Attach to LAIN app container via `lain enter` | 2019-04-25 |
-| 39 | [IbisWallet](https://github.com/aeonBTC/IbisWallet) | 73 | 5 | Kotlin | 2 | A self-custody Bitcoin wallet for Android with a focus on customizability, security, and privacy. | 2026-11-05 |
+| 39 | [IbisWallet](https://github.com/aeonBTC/IbisWallet) | 73 | 7 | Kotlin | 2 | A self-custody Bitcoin wallet for Android with a focus on customizability, security, and privacy. | 2026-11-05 |
 | 40 | [orbiter-sdk](https://github.com/Orbiter-Finance/orbiter-sdk) | 68 | 44 | TypeScript | 9 | Orbiter-Sdk is a secure and fast Layer2 cross-platform transfer library | 2023-07-10 |
 | 41 | [docker-layer2-icc](https://github.com/brthor/docker-layer2-icc) | 66 | 6 | Python | 0 | Demonstrating that disabling ICC in docker does not block raw packets between containers. | 2018-02-21 |
 | 42 | [axon](https://github.com/axonweb3/axon) | 65 | 40 | Rust | 22 | Axon is a Layer 2 framework of CKB with native cross-chain and interoperability. | 2024-03-24 |
 | 43 | [go-ten](https://github.com/ten-protocol/go-ten) | 65 | 49 | Go | 18 | Official Golang implementation of the TEN protocol | 2026-06-15 |
 | 44 | [awesome-blockchain-scalability](https://github.com/lucadonnoh/awesome-blockchain-scalability) | 64 | 2 | - | 1 | A curated list of awesome resources about blockchain scalability | 2023-03-28 |
 | 45 | [kinto-core](https://github.com/KintoXYZ/kinto-core) | 62 | 38 | Solidity | 2 | Core Contracts of Kinto | 2025-10-24 |
-| 46 | [Web3](https://github.com/nemo-crypto/Web3) | 61 | 22 | - | 1 | Ethers.js、Web3.js、Connectwallet、量化策略、套利、区块链、币安、网格、跟单、撸羊毛、脚本、跨链桥、MPC钱包、铭文、符文、zk、Layer1 (基础公链)、Layer2 (扩容解决方案)、layer3、AI + Web3、DeFi 、GameFi、防夹、滑点、PumpFun、FourMeme、公链、钱包、流动性池子 | 2026-05-13 |
+| 46 | [Web3](https://github.com/nemo-crypto/Web3) | 61 | 23 | - | 1 | Ethers.js、Web3.js、Connectwallet、量化策略、套利、区块链、币安、网格、跟单、撸羊毛、脚本、跨链桥、MPC钱包、铭文、符文、zk、Layer1 (基础公链)、Layer2 (扩容解决方案)、layer3、AI + Web3、DeFi 、GameFi、防夹、滑点、PumpFun、FourMeme、公链、钱包、流动性池子 | 2026-05-13 |
 | 47 | [cBridge-node](https://github.com/celer-network/cBridge-node) | 59 | 14 | Go | 12 | Celer cBridge relay node implementation in Golang | 2021-11-04 |
 | 48 | [WTF-Starknet](https://github.com/WTFAcademy/WTF-Starknet) | 59 | 35 | Python | 6 | Education Platform to onboard developers to Starknet. | 2024-05-12 |
 | 49 | [10k_swap-contracts](https://github.com/10k-swap/10k_swap-contracts) | 58 | 22 | Cairo | 1 | A decentralized ZK Rollup AMM written in Cairo for StarkNet. | 2024-02-17 |
@@ -68,7 +68,7 @@
 | 60 | [aeternum](https://github.com/0xJonaseb11/aeternum) | 38 | 0 | C++ | 0 | Your Zero knowledge evidence protocol for encrypted decentralized storage and onchain verifiable ownership. | 2026-09-14 |
 | 61 | [stellar-turrets](https://github.com/kalepail/stellar-turrets) | 34 | 28 | JavaScript | 9 | Reference implementation of the Stellar Turrets protocol | 2022-01-14 |
 | 62 | [reddio](https://github.com/reddio-com/reddio) | 33 | 11 | Go | 10 | Parallel EVM layer2 | 2025-07-03 |
-| 63 | [gtp-backend](https://github.com/growthepie/gtp-backend) | 33 | 13 | Python | 0 | The backend powering growthepie, the open analytics platform for the Ethereum ecosystem. It indexes and aggregates onchain data across Ethereum Mainnet, Layer 2s, and leading applications. | 2026-11-06 |
+| 63 | [gtp-backend](https://github.com/growthepie/gtp-backend) | 33 | 13 | Python | 0 | The backend powering growthepie, the open analytics platform for the Ethereum ecosystem. It indexes and aggregates onchain data across Ethereum Mainnet, Layer 2s, and leading applications. | 2026-11-08 |
 | 64 | [ten-documentation](https://github.com/ten-protocol/ten-documentation) | 32 | 29 | JavaScript | 0 | Ten Documentation provides a comprehensive guide to understanding and integrating TEN | 2026-02-27 |
 | 65 | [XRPLEVM](https://github.com/MeoMunDep/XRPLEVM) | 31 | 0 | JavaScript | 0 | Auto deploy, send, burn, swap, bridge, add liquid pool, mint tokens.  | 2025-09-29 |
 | 66 | [mina-zk-rollup](https://github.com/Trivo25/mina-zk-rollup) | 30 | 2 | TypeScript | 22 | A modular zk-Rollup for zero knowledge smart contracts, zkApps, on the Mina blockchain. | 2023-04-16 |
