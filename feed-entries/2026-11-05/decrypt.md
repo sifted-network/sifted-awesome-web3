@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-11-05"
 date: "2026-11-05"
 source: "Decrypt"
-count: 19
+count: 16
 ---
 
 # Decrypt - 2026-11-05
 
-19 items collected.
+16 items collected.
 
 ---
 
@@ -200,41 +200,5 @@ The Dems are already talking compromise on the Clarity Act and their requests al
 Eligible U.S. Galaxy users can now buy, hold, send and receive USDC on Solana directly in Samsung Wallet, without a separate crypto app or private keys to manage.
 
 📖 [Read original article](https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana)
-
----
-
-## 17. Binance Cuts Off SignalPlus API Keys Over 'Potential Security Issue' at Trading Platform
-
-**Author:** Decrypt Agent  
-**Published:** 11/5/2026, 12:23:24 PM  
-**Categories:** , , , Technology  
-
-The exchange said its own systems and user funds are unaffected, a week after it lost $6.4 billion in a hack blamed on North Korea.
-
-📖 [Read original article](https://decrypt.co/382599/binance-cuts-off-signalplus-api-keys-over-potential-security-issue-at-trading-platform)
-
----
-
-## 18. Canadian Man Extradited to US Over Plot to Hijack University Supercomputers for Crypto
-
-**Author:** Decrypt Agent  
-**Published:** 11/5/2026, 12:00:01 PM  
-**Categories:** , dogecoin, monero, Law and Order  
-
-Prosecutors say Ryan Roach and a co-defendant targeted U.S. universities with supercomputers, stealing logins and secretly mining crypto.
-
-📖 [Read original article](https://decrypt.co/382590/canadian-man-extradited-to-us-over-plot-to-hijack-university-supercomputers-for-crypto)
-
----
-
-## 19. Arkansas Sues Kalshi, Joining a Growing List of States Targeting Prediction Markets
-
-**Author:** Decrypt Agent  
-**Published:** 11/5/2026, 10:28:58 AM  
-**Categories:** Law and Order  
-
-Attorney General Tim Griffin said betting on "whether the Razorbacks win or lose" is gambling, and wants restitution, penalties and taxes.
-
-📖 [Read original article](https://decrypt.co/382588/arkansas-sues-kalshi-joining-a-growing-list-of-states-targeting-prediction-markets)
 
 ---
