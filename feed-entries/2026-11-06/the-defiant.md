@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-06"
 date: "2026-11-06"
 source: "The Defiant"
-count: 23
+count: 22
 ---
 
 # The Defiant - 2026-11-06
 
-23 items collected.
+22 items collected.
 
 ---
 
@@ -272,17 +272,5 @@ US ether ETFs recorded $99.9 million in net withdrawals on Nov. 5, reversing the
 IREN aims to substantially complete its mining transition by December, while its $4 billion AI revenue run-rate target moves into early 2027.
 
 📖 [Read original article](https://thedefiant.io/news/tradfi-and-fintech/iren-mining-revenue-falls-58-as-ai-sales-reach-200-million)
-
----
-
-## 23. Loopscale Partly Restores Loan Functions, Keeps Vault Withdrawals Frozen
-
-**Author:** The Defiant Team  
-**Published:** 11/6/2026, 12:42:07 AM  
-**Categories:** -  
-
-Repayments and collateral withdrawals remain disabled for USDC Genesis-funded loans as the Solana lender details two attack paths.
-
-📖 [Read original article](https://thedefiant.io/news/hacks/loopscale-partly-restores-loan-functions-keeps-vault-withdrawals-frozen)
 
 ---
