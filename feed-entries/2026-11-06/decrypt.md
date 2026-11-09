@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-11-06"
 date: "2026-11-06"
 source: "Decrypt"
-count: 14
+count: 9
 ---
 
 # Decrypt - 2026-11-06
 
-14 items collected.
+9 items collected.
 
 ---
 
@@ -116,65 +116,5 @@ Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the 
 Investors told The Wall Street Journal that the $1.5 trillion target now looks too high, as prediction markets bet on a December listing.
 
 📖 [Read original article](https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report)
-
----
-
-## 10. $3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic
-
-**Author:** Decrypt Agent  
-**Published:** 11/6/2026, 2:04:18 PM  
-**Categories:** , , , , , Coins  
-
-The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.
-
-📖 [Read original article](https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic)
-
----
-
-## 11. Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI
-
-**Author:** Decrypt Agent  
-**Published:** 11/6/2026, 1:53:04 PM  
-**Categories:** , Business  
-
-The Tesla CEO said the Texas plant will make room for the Cybercab, as sales of the stainless-steel pickup run far below capacity.
-
-📖 [Read original article](https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai)
-
----
-
-## 12. Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater
-
-**Author:** Tyler Warner  
-**Published:** 11/6/2026, 1:29:20 PM  
-**Categories:** Opinion  
-
-Thursday marked a massive reversal and historic selloff for AI stocks, and crypto was not immune. What held up the strongest?
-
-📖 [Read original article](https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater)
-
----
-
-## 13. Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations
-
-**Author:** Decrypt Agent  
-**Published:** 11/6/2026, 10:57:06 AM  
-**Categories:** , , Law and Order  
-
-Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe.
-
-📖 [Read original article](https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations)
-
----
-
-## 14. Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards
-
-**Author:** Decrypt Agent  
-**Published:** 11/6/2026, 10:13:27 AM  
-**Categories:** zcash, Technology  
-
-The Network Sustainability Mechanism will reissue removed ZEC from 2031 within the 21 million cap, as the community debates its dev fund.
-
-📖 [Read original article](https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards)
 
 ---
