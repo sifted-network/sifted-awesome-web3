@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-06"
 date: "2026-11-06"
 source: "Cointelegraph"
-count: 21
+count: 20
 ---
 
 # Cointelegraph - 2026-11-06
 
-21 items collected.
+20 items collected.
 
 ---
 
@@ -248,17 +248,5 @@ US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin 
 Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed.
 
 📖 [Read original article](https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Crypto exchanges tout cold storage ratios after Binance attack
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/6/2026, 5:07:00 AM  
-**Categories:** Latest News  
-
-Coinbase says it keeps more than 99% of customer assets offline, while Gate reports 88.26% of its total assets are kept in cold storage.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
