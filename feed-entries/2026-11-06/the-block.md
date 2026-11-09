@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-06"
 date: "2026-11-06"
 source: "The Block"
-count: 15
+count: 12
 ---
 
 # The Block - 2026-11-06
 
-15 items collected.
+12 items collected.
 
 ---
 
@@ -152,41 +152,5 @@ Nigeria's central bank issued new virtual asset regulations requiring stablecoin
 A federal judge has granted the preliminary injunction to bar Kalshi from offering sports contracts on the lands of two California tribes.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813)
-
----
-
-## 13. Zcash’s major network upgrade NU7 goes live on mainnet, cutting block time by threefold
-
-**Author:** Danny Park  
-**Published:** 11/6/2026, 7:36:42 AM  
-**Categories:** Crypto Ecosystems, DeFi, News  
-
-NU7 also activates the Network Sustainability Mechanism, which removes 60% of each block's transaction fees from circulation.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807)
-
----
-
-## 14. IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end
-
-**Author:** Danny Park  
-**Published:** 11/6/2026, 4:29:14 AM  
-**Categories:** Companies, News  
-
-IREN has been shifting its focus to the AI infrastructure business, and its AI cloud revenue rose 182% in the past quarter to $200 million.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783)
-
----
-
-## 15. Ark Invest buys more Coinbase as shares plunge 10% in wider market rout
-
-**Author:** Timmy Shen  
-**Published:** 11/6/2026, 3:56:28 AM  
-**Categories:** Companies, Markets, News  
-
-Cathie Wood's Ark Invest bought $2.44 million worth of Coinbase on Thursday as the stock plunged 9.69% amid a broader sell-off.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769)
 
 ---
