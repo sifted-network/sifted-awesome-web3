@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-07"
 date: "2026-11-07"
 source: "The Defiant"
-count: 12
+count: 10
 ---
 
 # The Defiant - 2026-11-07
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ The designations freeze covered assets and generally bar US dealings with the fi
 The wallet says recovery-phrase and hardware-wallet accounts are unaffected in its initial assessment, while social-login users should stop sending funds to their accounts.
 
 📖 [Read original article](https://thedefiant.io/news/security/keplr-pauses-google-and-apple-login-after-unauthorized-transaction-reports)
-
----
-
-## 11. Dinari Promises Anthropic dShares on IPO Day, Including for US Investors
-
-**Author:** The Defiant Team  
-**Published:** 11/7/2026, 12:00:13 AM  
-**Categories:** -  
-
-The pledge follows Ondo's non-US launch plan, while Dinari's US tokens remain non-transferable and barred from DeFi.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/dinari-promises-anthropic-dshares-on-ipo-day-including-for-us-investors)
-
----
-
-## 12. MEXC Says Withdrawals Continue as FinCEN Orders US Financial Cutoff
-
-**Author:** The Defiant Team  
-**Published:** 11/7/2026, 12:00:11 AM  
-**Categories:** -  
-
-The exchange says it has begun an independent review of its AML and sanctions controls. The US transfer ban takes effect 30 days after Federal Register publication.
-
-📖 [Read original article](https://thedefiant.io/news/cefi/mexc-says-withdrawals-continue-as-fincen-orders-us-financial-cutoff)
 
 ---
