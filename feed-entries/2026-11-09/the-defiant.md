@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-09"
 date: "2026-11-09"
 source: "The Defiant"
-count: 32
+count: 45
 ---
 
 # The Defiant - 2026-11-09
 
-32 items collected.
+45 items collected.
 
 ---
 
@@ -35,7 +35,31 @@ The miner announced a new $500 million stock buyback authorization as two planne
 
 ---
 
-## 3. Sigma Prime Releases High-Priority Lighthouse Security Update
+## 3. Anthropic Says Claude Beat Best Listed Solutions on 72 MIPLIB Problems
+
+**Author:** The Defiant Team  
+**Published:** 11/9/2026, 9:20:35 PM  
+**Categories:** -  
+
+The company also reported 45 optimality proofs and says it has submitted its solutions to MIPLIB, whose public records have not yet confirmed the tally.
+
+📖 [Read original article](https://thedefiant.io/frontier/ai/anthropic-says-claude-beat-best-listed-solutions-on-72-miplib-problems)
+
+---
+
+## 4. Markey Demands AI-Free Google Search Option for Schools
+
+**Author:** The Defiant Team  
+**Published:** 11/9/2026, 9:09:51 PM  
+**Categories:** -  
+
+Google says schools will be able to enable Search and Gemini separately, but AI Overviews remain built into Search.
+
+📖 [Read original article](https://thedefiant.io/frontier/ai/markey-demands-ai-free-google-search-option-for-schools)
+
+---
+
+## 5. Sigma Prime Releases High-Priority Lighthouse Security Update
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 8:49:55 PM  
@@ -47,7 +71,7 @@ Vulnerability details will follow once operators have had time to upgrade. The r
 
 ---
 
-## 4. Former Ethereum Foundation Employee Sues Over Mandate-Linked Firing
+## 6. Former Ethereum Foundation Employee Sues Over Mandate-Linked Firing
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 8:39:54 PM  
@@ -59,7 +83,19 @@ Kayleen Fulton alleges disability discrimination and retaliation. Vitalik Buteri
 
 ---
 
-## 5. Anthropic to Launch Nasdaq IPO Tuesday, IFR Reports
+## 7. Fireworks Says Breach Exposed Billing Data, Datasets and Incomplete Model Weights
+
+**Author:** The Defiant Team  
+**Published:** 11/9/2026, 8:36:15 PM  
+**Categories:** -  
+
+The company disabled self-service dataset transfers for batch inference and dataset-based training, while reporting no detected impact to its Inference service or Training SDK.
+
+📖 [Read original article](https://thedefiant.io/frontier/security/fireworks-says-breach-exposed-billing-data-datasets-and-incomplete-model-weights)
+
+---
+
+## 8. Anthropic to Launch Nasdaq IPO Tuesday, IFR Reports
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 8:24:47 PM  
@@ -71,7 +107,7 @@ Public trading would activate Ondo and Dinari tokenization plans, while existing
 
 ---
 
-## 6. Attackers Exploit Alpine SSH Password-Bypass Flaw
+## 9. Attackers Exploit Alpine SSH Password-Bypass Flaw
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 7:52:50 PM  
@@ -83,7 +119,7 @@ GreyNoise reports successful exploitation, while Previdian logged 20 attempts. A
 
 ---
 
-## 7. World Liberty Says WLFI Buybacks Have Begun on Aster
+## 10. World Liberty Says WLFI Buybacks Have Begun on Aster
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 7:28:35 PM  
@@ -95,7 +131,55 @@ The disclosed wallet deposited 10 million USD1 into Aster, while the company lef
 
 ---
 
-## 8. Chainalysis Reopens Compliance Tools With Mandatory Credential Resets
+## 11. Shield AI Says Hivemind Flew Multiple Air Force Drones as a Team
+
+**Author:** The Defiant Team  
+**Published:** 11/9/2026, 7:17:49 PM  
+**Categories:** -  
+
+An earlier test let an F-22 pilot direct a single Fury, while the broader CCA program remains in operational experimentation.
+
+📖 [Read original article](https://thedefiant.io/frontier/ai/shield-ai-says-hivemind-flew-multiple-air-force-drones-as-a-team)
+
+---
+
+## 12. Anthropic Launches Fable 5.2 and Mythos 5.2 at Lower Token Prices
+
+**Author:** The Defiant Team  
+**Published:** 11/9/2026, 7:05:57 PM  
+**Categories:** -  
+
+The models share an underlying system but use different safeguards, with Mythos access restricted to verified organizations.
+
+📖 [Read original article](https://thedefiant.io/frontier/ai/anthropic-launches-fable-5-2-and-mythos-5-2-at-lower-token-prices)
+
+---
+
+## 13. Nvidia Trades 26% Below Record Close Amid Huang Review
+
+**Author:** The Defiant Team  
+**Published:** 11/9/2026, 6:51:21 PM  
+**Categories:** -  
+
+Shares had already lost 22% by Friday, while a semiconductor ETF fell 30.5% over the same month-long window.
+
+📖 [Read original article](https://thedefiant.io/frontier/markets/nvidia-trades-26-below-record-close-amid-huang-review)
+
+---
+
+## 14. NHTSA Probes Waymo’s School-Bus Fix After Reports of Continued Violations
+
+**Author:** The Defiant Team  
+**Published:** 11/9/2026, 6:36:50 PM  
+**Categories:** -  
+
+The probe covers 2,895 vehicles, and regulators say most incidents identified in an earlier investigation occurred after the November 2025 software update.
+
+📖 [Read original article](https://thedefiant.io/frontier/technology/nhtsa-probes-waymo-s-school-bus-fix-after-reports-of-continued-violations)
+
+---
+
+## 15. Chainalysis Reopens Compliance Tools With Mandatory Credential Resets
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 6:21:55 PM  
@@ -107,7 +191,7 @@ Reactor is also back online, while some investigation and account-management ser
 
 ---
 
-## 9. Hard Fork vs. Soft Fork: How Blockchain Upgrades Work
+## 16. Hard Fork vs. Soft Fork: How Blockchain Upgrades Work
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 6:12:31 PM  
@@ -119,7 +203,55 @@ Older nodes can accept soft-fork blocks without understanding every new rule. A 
 
 ---
 
-## 10. Luke Dashjr Publishes Nine Coldcard RNG Concerns
+## 17. Meta Launches Muse Ember With Pricing From $0.10 Per Million Input Tokens
+
+**Author:** The Defiant Team  
+**Published:** 11/9/2026, 6:09:15 PM  
+**Categories:** -  
+
+Available through Meta Model API and Muse Code, the lightweight multimodal model handles repeated agent tasks while larger Muse models plan the work.
+
+📖 [Read original article](https://thedefiant.io/frontier/ai/meta-launches-muse-ember-with-pricing-from-0-10-per-million-input-tokens)
+
+---
+
+## 18. Claude Code Approval Files Expose 1,379 Secrets on GitHub
+
+**Author:** The Defiant Team  
+**Published:** 11/9/2026, 5:40:10 PM  
+**Categories:** -  
+
+Saved command approvals can retain passwords and tokens. Anthropic’s Claude Code team is exploring safeguards, including built-in secret scanning.
+
+📖 [Read original article](https://thedefiant.io/frontier/ai/claude-code-approval-files-expose-1-379-secrets-on-github)
+
+---
+
+## 19. Skild AI Open-Sources Steel Physics Solver for Robot Training
+
+**Author:** The Defiant Team  
+**Published:** 11/9/2026, 5:38:27 PM  
+**Categories:** -  
+
+The Apache-licensed solver runs inside Newton; Skild reports up to 13 times PhysX’s simulation throughput in mixed-task tests.
+
+📖 [Read original article](https://thedefiant.io/frontier/technology/skild-ai-open-sources-steel-physics-solver-for-robot-training)
+
+---
+
+## 20. Google Adds Confidential and Long-Context Systems to TPU Lineup
+
+**Author:** The Defiant Team  
+**Published:** 11/9/2026, 5:13:51 PM  
+**Categories:** -  
+
+TPU 8i Max combines two 8i chips in one package, while Google's product page lists all four eighth-generation systems as 'coming soon.'
+
+📖 [Read original article](https://thedefiant.io/frontier/ai/google-adds-confidential-and-long-context-systems-to-tpu-lineup)
+
+---
+
+## 21. Luke Dashjr Publishes Nine Coldcard RNG Concerns
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 5:12:59 PM  
@@ -131,7 +263,31 @@ His thread cites a July code revision; later firmware adds seed-error checks and
 
 ---
 
-## 11. Buterin Urges Store-of-Value Focus for ETH, Not Fee Burns
+## 22. Nvidia Board Opens Huang Investigation as CEO Admits Infidelity
+
+**Author:** The Defiant Team  
+**Published:** 11/9/2026, 5:07:19 PM  
+**Categories:** -  
+
+Independent directors will oversee the review with outside counsel's help. The board backed Huang and said it had no reason to believe national security or company secrets were compromised.
+
+📖 [Read original article](https://thedefiant.io/frontier/ai/nvidia-board-opens-huang-investigation-as-ceo-admits-infidelity)
+
+---
+
+## 23. Dropbox Plans $350 Million Tigris Deal to Expand Into AI Storage
+
+**Author:** The Defiant Team  
+**Published:** 11/9/2026, 3:43:42 PM  
+**Categories:** -  
+
+DBX Agent Cloud starts with standalone S3-compatible object storage, with filesystem and content-processing capabilities planned next.
+
+📖 [Read original article](https://thedefiant.io/frontier/ai/dropbox-plans-350-million-tigris-deal-to-expand-into-ai-storage)
+
+---
+
+## 24. Buterin Urges Store-of-Value Focus for ETH, Not Fee Burns
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 3:41:35 PM  
@@ -143,7 +299,7 @@ The Ethereum co-founder backs keeping EIP-1559 but argues that maximizing fees c
 
 ---
 
-## 12. Cosmos Contributes IBC to Linux Foundation Decentralized Trust
+## 25. Cosmos Contributes IBC to Linux Foundation Decentralized Trust
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 2:49:59 PM  
@@ -155,7 +311,7 @@ Cosmos Labs holds five places on the initial seven-person technical committee, a
 
 ---
 
-## 13. Kinetiq Launches Elysium Mainnet for Hyperliquid
+## 26. Kinetiq Launches Elysium Mainnet for Hyperliquid
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 2:48:55 PM  
@@ -167,7 +323,7 @@ Pump.fun and Fomo say Elysium trading is live, while native HyperCore data reads
 
 ---
 
-## 14. Base’s Retired Flashblocks Feeds Accept Connections but Send No Data
+## 27. Base’s Retired Flashblocks Feeds Accept Connections but Send No Data
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 2:46:27 PM  
@@ -179,7 +335,7 @@ Denim replaced block previews with complete blocks every 200 milliseconds, requi
 
 ---
 
-## 15. Durov Says 700,000-Plus Wallets Were Created on Telegram in 48 Hours
+## 28. Durov Says 700,000-Plus Wallets Were Created on Telegram in 48 Hours
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 2:26:31 PM  
@@ -191,7 +347,7 @@ The Gram explorer’s creation count includes wallets without onchain transactio
 
 ---
 
-## 16. NYSE Picks Avalanche for Tokenized Stock Settlement
+## 29. NYSE Picks Avalanche for Tokenized Stock Settlement
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 2:25:28 PM  
@@ -203,7 +359,7 @@ The planned venue would retain NYSE’s Pillar matching engine while offering in
 
 ---
 
-## 17. What ‘Instant Settlement’ Means for Tokenized Stocks
+## 30. What ‘Instant Settlement’ Means for Tokenized Stocks
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 2:14:01 PM  
@@ -215,7 +371,7 @@ A stock token and its payment can change hands together, but custody arrangement
 
 ---
 
-## 18. Bullish Names Former NYSE President Stacey Cunningham as President
+## 31. Bullish Names Former NYSE President Stacey Cunningham as President
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 1:59:57 PM  
@@ -227,7 +383,7 @@ The company’s planned $4.2 billion Equiniti acquisition would combine sharehol
 
 ---
 
-## 19. Mercado Bitcoin Begins View-Only Reopening After Hack
+## 32. Mercado Bitcoin Begins View-Only Reopening After Hack
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 1:34:05 PM  
@@ -239,7 +395,7 @@ The exchange says it is replacing stolen assets with company funds, while paymen
 
 ---
 
-## 20. IRIS Sets Nov. 10 Launch for Fixed-Rate Borrowing on SparkLend
+## 33. IRIS Sets Nov. 10 Launch for Fixed-Rate Borrowing on SparkLend
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 1:24:38 PM  
@@ -251,7 +407,7 @@ Borrowers can request custom loan durations, with solvers posting capital to abs
 
 ---
 
-## 21. Formation Notifies SEC of Plan for Solana Tokenized Stock Venue
+## 34. Formation Notifies SEC of Plan for Solana Tokenized Stock Venue
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 12:38:16 PM  
@@ -263,7 +419,7 @@ The venue targets early 2027 trading in Exodus, Forward Industries and Galaxy sh
 
 ---
 
-## 22. Poland’s Lower House Backs Crypto Freezes Under Broader Sanctions Bill
+## 35. Poland’s Lower House Backs Crypto Freezes Under Broader Sanctions Bill
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 12:01:12 PM  
@@ -275,7 +431,7 @@ Listed customers could lose access to exchange-held assets before a court review
 
 ---
 
-## 23. PeckShield Flags $45.3 Million ETH Long With Possible UXLink Exploit Link
+## 36. PeckShield Flags $45.3 Million ETH Long With Possible UXLink Exploit Link
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 10:39:12 AM  
@@ -287,7 +443,7 @@ A later dashboard snapshot showed about $44 million in ETH exposure and an unrea
 
 ---
 
-## 24. Ankr Ethereum Bridge Loses More Than $303,000 in Five-Transaction Exploit
+## 37. Ankr Ethereum Bridge Loses More Than $303,000 in Five-Transaction Exploit
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 8:53:50 AM  
@@ -299,7 +455,7 @@ The contract remained unpaused after withdrawals referencing a small Optimism de
 
 ---
 
-## 25. Binance Says 335.9 Million-Record Breach Claim Is Likely a Scam
+## 38. Binance Says 335.9 Million-Record Breach Claim Is Likely a Scam
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 8:47:03 AM  
@@ -311,7 +467,7 @@ The exchange cites inconsistencies in a listing seeking $900,000 for purported i
 
 ---
 
-## 26. Bitcoin Trades Near $73,900 After Four-Week Low
+## 39. Bitcoin Trades Near $73,900 After Four-Week Low
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 7:36:58 AM  
@@ -323,7 +479,7 @@ Ether has lost 18.8% over roughly 28 days, compared with bitcoin's 12.2%, as maj
 
 ---
 
-## 27. Yat Siu to Become Animoca Brands CEO in AI and Institutional Push
+## 40. Yat Siu to Become Animoca Brands CEO in AI and Institutional Push
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 7:29:33 AM  
@@ -335,7 +491,7 @@ Group president Evan Auyang will become a senior advisor to the board, while Siu
 
 ---
 
-## 28. Solana Draft Would Retire Durable Nonces No Earlier Than May 2027
+## 41. Solana Draft Would Retire Durable Nonces No Earlier Than May 2027
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 7:09:40 AM  
@@ -347,7 +503,7 @@ Custodians would need new offline-signing flows, with replacement programs intro
 
 ---
 
-## 29. OP Mainnet Active Addresses Jump Nearly 20-Fold to a 30-Day High
+## 42. OP Mainnet Active Addresses Jump Nearly 20-Fold to a 30-Day High
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 5:56:42 AM  
@@ -359,7 +515,7 @@ Transactions rose far less than addresses, while user-paid fees stayed close to 
 
 ---
 
-## 30. SlowMist Flags 'Cracked TradingView Premium' as Wallet-Data Malware
+## 43. SlowMist Flags 'Cracked TradingView Premium' as Wallet-Data Malware
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 4:13:40 AM  
@@ -371,7 +527,7 @@ The Windows sample uses Telegram and Steam to rotate command servers. SlowMist's
 
 ---
 
-## 31. Hyperliquid Whale’s 56,667-ETH Long Fully Liquidated
+## 44. Hyperliquid Whale’s 56,667-ETH Long Fully Liquidated
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 2:05:14 AM  
@@ -383,7 +539,7 @@ The two tracked accounts show lifetime losses of about $44.8 million after the t
 
 ---
 
-## 32. Blumenthal Sets Jan. 4 Deadline for Binance, Tether and Trump Crypto Firms
+## 45. Blumenthal Sets Jan. 4 Deadline for Binance, Tether and Trump Crypto Firms
 
 **Author:** The Defiant Team  
 **Published:** 11/9/2026, 1:13:31 AM  
