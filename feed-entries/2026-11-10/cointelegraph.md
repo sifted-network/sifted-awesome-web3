@@ -2,16 +2,124 @@
 title: "Cointelegraph - 2026-11-10"
 date: "2026-11-10"
 source: "Cointelegraph"
-count: 14
+count: 22
 ---
 
 # Cointelegraph - 2026-11-10
 
-14 items collected.
+22 items collected.
 
 ---
 
-## 1. Poland’s lower house backs sanctions bill covering crypto freezes
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Bryan O'Shea  
+**Published:** 11/10/2026, 10:04:47 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Can crypto trust firms compete with banks in US derivatives settlements?
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/10/2026, 9:34:40 PM  
+**Categories:** Latest News  
+
+Crypto custodians are moving into a market handling billions in daily settlements, but regulatory relief and a shift in congressional control leave questions over their long-term role.
+
+📖 [Read original article](https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Across Protocol warns users to avoid app amid reports of drained wallets
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/10/2026, 9:24:36 PM  
+**Categories:** Latest News  
+
+The protocol is investigating a potential security incident affecting its domain, while several users have reported losing funds after interacting with the platform.
+
+📖 [Read original article](https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’
+
+**Author:** Cointelegraph by Isabelle Castro  
+**Published:** 11/10/2026, 9:07:44 PM  
+**Categories:** Interview  
+
+Ava Labs’ John Nahas said the collaboration with the NYSE shows institutions moving past pilots toward purpose-built onchain market infrastructure.
+
+📖 [Read original article](https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Kimber Digital Securities gains broker-dealer status for tokenized assets
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/10/2026, 8:26:02 PM  
+**Categories:** Latest News  
+
+The Plume affiliate plans to offer tokenized US stocks, ETFs and bonds through self-custodial wallets, with traditional shareholder rights preserved.
+
+📖 [Read original article](https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Mercado Bitcoin to resume cash withdrawals after $49M hack
+
+**Author:** Cointelegraph by Isabelle Castro  
+**Published:** 11/10/2026, 6:12:07 PM  
+**Categories:** Latest News  
+
+Starting next week, customers can deposit and withdraw money through Brazil’s instant payment system. Crypto transfers remain suspended.
+
+📖 [Read original article](https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Hot US inflation raises odds of half-point Fed hike in December
+
+**Author:** Cointelegraph by Jona Jaupi  
+**Published:** 11/10/2026, 5:31:09 PM  
+**Categories:** Latest News  
+
+US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in December and raising concerns for crypto investors.
+
+📖 [Read original article](https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Polymarket US trading volume jumps 266% despite regulatory battles
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/10/2026, 5:07:48 PM  
+**Categories:** Latest News  
+
+Trading volume on Polymarket’s US exchange surged from June to October, fueled by sports betting, even as the platform faces mounting regulatory scrutiny.
+
+📖 [Read original article](https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 11/10/2026, 4:25:03 PM  
+**Categories:** Markets  
+
+Bitcoin and US stocks initially fall after October inflation tops forecasts, with traders expecting a quarter-point Fed rate hike in December.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 10. Poland’s lower house backs sanctions bill covering crypto freezes
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/10/2026, 1:40:39 PM  
@@ -23,19 +131,7 @@ The bill is now before the Senate and would broaden the grounds for adding peopl
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Bryan O'Shea  
-**Published:** 11/10/2026, 1:34:37 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss
+## 11. Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 11/10/2026, 1:30:00 PM  
@@ -47,7 +143,7 @@ Bitcoin Opportunity Fund co-founder Mark Moss says that with banks and ETFs wide
 
 ---
 
-## 4. Bitcoin may benefit as global tightening slows, Binance Research says
+## 12. Bitcoin may benefit as global tightening slows, Binance Research says
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/10/2026, 1:15:59 PM  
@@ -59,7 +155,7 @@ Binance Research says Bitcoin could find support as global monetary tightening s
 
 ---
 
-## 5. Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures
+## 13. Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/10/2026, 11:44:55 AM  
@@ -71,7 +167,7 @@ Coinbase, Kalshi and four other companies backed the CFTC in a lawsuit over whet
 
 ---
 
-## 6. Binance warns iOS flaw could expose crypto wallet keys
+## 14. Binance warns iOS flaw could expose crypto wallet keys
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/10/2026, 11:25:57 AM  
@@ -83,7 +179,7 @@ The exchange urged iPhone users to remove apps installed from untrusted sources,
 
 ---
 
-## 7. Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing
+## 15. Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing
 
 **Author:** Cointelegraph by Bryan O'Shea  
 **Published:** 11/10/2026, 10:56:51 AM  
@@ -95,7 +191,7 @@ Kayleen Fulton alleges she was fired less than two weeks after disclosing a canc
 
 ---
 
-## 8. Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech
+## 16. Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/10/2026, 10:08:22 AM  
@@ -107,7 +203,7 @@ Bitcoin price action and stock futures trended lower after Fed governor Christop
 
 ---
 
-## 9. BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%
+## 17. BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/10/2026, 9:05:16 AM  
@@ -119,7 +215,7 @@ BitGo’s $71 million unrealized gain on its crypto holdings helped nearly doubl
 
 ---
 
-## 10. BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions
+## 18. BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/10/2026, 8:02:05 AM  
@@ -131,7 +227,7 @@ US spot Bitcoin ETFs shed $201 million Monday, with seven straight sessions of n
 
 ---
 
-## 11. Securitize agrees to buy River One to expand into asset-backed lending
+## 19. Securitize agrees to buy River One to expand into asset-backed lending
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/10/2026, 7:49:14 AM  
@@ -143,7 +239,7 @@ Securitize agreed to buy River One to bring stablecoin funding to asset-backed l
 
 ---
 
-## 12. Crypto exchanges need hard dollar caps on hot wallets, CertiK says
+## 20. Crypto exchanges need hard dollar caps on hot wallets, CertiK says
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/10/2026, 5:05:58 AM  
@@ -155,7 +251,7 @@ Securitize agreed to buy River One to bring stablecoin funding to asset-backed l
 
 ---
 
-## 13. OpenAI builds kill switch to stop rogue agents within 35 seconds
+## 21. OpenAI builds kill switch to stop rogue agents within 35 seconds
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/10/2026, 3:04:54 AM  
@@ -167,7 +263,7 @@ Control Room cuts off model output for internal research jobs when people or aut
 
 ---
 
-## 14. HIVE, MARA mine more Bitcoin but earn less as crypto prices fall
+## 22. HIVE, MARA mine more Bitcoin but earn less as crypto prices fall
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/10/2026, 12:42:39 AM  
