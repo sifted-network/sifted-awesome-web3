@@ -2,28 +2,16 @@
 title: "Cointelegraph - 2026-11-09"
 date: "2026-11-09"
 source: "Cointelegraph"
-count: 19
+count: 16
 ---
 
 # Cointelegraph - 2026-11-09
 
-19 items collected.
+16 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 11/9/2026, 10:06:26 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. Should you leave Australia to avoid paying 47% tax on crypto gains?
+## 1. Should you leave Australia to avoid paying 47% tax on crypto gains?
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 11/9/2026, 9:00:00 PM  
@@ -35,7 +23,7 @@ Some Australian crypto investors are moving overseas to avoid the huge CGT incre
 
 ---
 
-## 3. North Korean hackers create memecoins to launder funds from Binance hack: Elliptic
+## 2. North Korean hackers create memecoins to launder funds from Binance hack: Elliptic
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/9/2026, 8:26:34 PM  
@@ -47,7 +35,7 @@ The blockchain firm traced stolen funds through six new tokens on NEAR, where ha
 
 ---
 
-## 4. Formation Securities plans Solana stock trading venue under SEC exemption
+## 3. Formation Securities plans Solana stock trading venue under SEC exemption
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/9/2026, 7:52:34 PM  
@@ -59,7 +47,7 @@ The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digi
 
 ---
 
-## 5. Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals
+## 4. Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals
 
 **Author:** Cointelegraph by Isabelle Castro  
 **Published:** 11/9/2026, 6:25:29 PM  
@@ -71,7 +59,7 @@ Customers can view their pre-hack balances as access returns in phases. The exch
 
 ---
 
-## 6. PNC Bank tests turning USDC payments into dollar deposits
+## 5. PNC Bank tests turning USDC payments into dollar deposits
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/9/2026, 5:48:35 PM  
@@ -83,7 +71,7 @@ The pilot lets eligible corporate and institutional clients accept USDC on Ether
 
 ---
 
-## 7. Avalanche’s AVAX leads crypto gains following NYSE tokenization deal
+## 6. Avalanche’s AVAX leads crypto gains following NYSE tokenization deal
 
 **Author:** Cointelegraph by Jona Jaupi  
 **Published:** 11/9/2026, 5:41:02 PM  
@@ -95,7 +83,7 @@ Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockch
 
 ---
 
-## 8. Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target
+## 7. Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/9/2026, 5:13:25 PM  
@@ -107,7 +95,7 @@ Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite ralli
 
 ---
 
-## 9. Analysts see no broader ‘contagion’ from $6.3B Binance hack
+## 8. Analysts see no broader ‘contagion’ from $6.3B Binance hack
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/9/2026, 1:52:46 PM  
@@ -119,7 +107,7 @@ Binance’s pledge to cover all user losses helped contain the fallout from the 
 
 ---
 
-## 10. The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules
+## 9. The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules
 
 **Author:** Cointelegraph by Lissele Pratt  
 **Published:** 11/9/2026, 1:30:00 PM  
@@ -131,7 +119,7 @@ The Binance hack proved stablecoin freezes work. Now the UK should make clear fr
 
 ---
 
-## 11. Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364
+## 10. Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/9/2026, 1:29:47 PM  
@@ -143,7 +131,7 @@ Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million
 
 ---
 
-## 12. EU taps industry to set standards for tokenized securities
+## 11. EU taps industry to set standards for tokenized securities
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/9/2026, 12:27:06 PM  
@@ -155,7 +143,7 @@ Applications close Nov. 27 for an industry group that aims to draft initial stan
 
 ---
 
-## 13. Coinbase’s US national trust bank charter takes effect
+## 12. Coinbase’s US national trust bank charter takes effect
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/9/2026, 11:38:52 AM  
@@ -167,7 +155,7 @@ Coinbase plans to expand its institutional crypto custody business under the fed
 
 ---
 
-## 14. Robinhood opens access to US IPOs for UK retail investors
+## 13. Robinhood opens access to US IPOs for UK retail investors
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/9/2026, 11:14:08 AM  
@@ -179,7 +167,7 @@ Robinhood’s UK customers can request shares in eligible US initial public offe
 
 ---
 
-## 15. BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week
+## 14. BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/9/2026, 10:03:40 AM  
@@ -191,7 +179,7 @@ Bitcoin price action fell to its lowest levels since mid-August as Nvidia report
 
 ---
 
-## 16. Binance, Tether and Trump crypto firms face Senate records deadline
+## 15. Binance, Tether and Trump crypto firms face Senate records deadline
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/9/2026, 9:00:17 AM  
@@ -203,7 +191,7 @@ Sen. Richard Blumenthal asked four crypto firms to start sending records by Nov.
 
 ---
 
-## 17. Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June
+## 16. Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/9/2026, 8:17:35 AM  
@@ -212,29 +200,5 @@ Sen. Richard Blumenthal asked four crypto firms to start sending records by Nov.
 Investors pulled a net $1.21 billion from BlackRock’s IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Zcash devs propose another block time cut days after NU7 upgrade
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/9/2026, 5:36:08 AM  
-**Categories:** Latest News  
-
-The proposed reduction aims to shorten transaction confirmation times and improve the user experience for point-of-sale payments, exchange deposits and cross-chain swaps.
-
-📖 [Read original article](https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. tBTC bridge partially resumes as $120M Aave reserve remains frozen
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/9/2026, 4:03:08 AM  
-**Categories:** Latest News  
-
-Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers.
-
-📖 [Read original article](https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
