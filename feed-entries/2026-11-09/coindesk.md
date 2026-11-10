@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-09"
 date: "2026-11-09"
 source: "CoinDesk"
-count: 19
+count: 13
 ---
 
 # CoinDesk - 2026-11-09
 
-19 items collected.
+13 items collected.
 
 ---
 
@@ -164,77 +164,5 @@ The Nasdaq, S&P 500, and DJIA all closed more than 2% higher despite Nvidia's st
 The Office of the Comptroller of the Currency elevated the biggest U.S. exchange's trust status from conditional to a full-fledged charter, the company said.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator)
-
----
-
-## 14. U.S. inflation, corporate earnings: Crypto Week Ahead
-
-**Author:** Francisco Rodrigues  
-**Published:** 11/9/2026, 9:33:27 AM  
-**Categories:** Markets, week ahead, News  
-
-Your look at what’s coming in the week starting Nov. 9.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead)
-
----
-
-## 15. SpaceX proposes a $24 billion Texas supercomputer and a gas plant
-
-**Author:** Omkar Godbole  
-**Published:** 11/9/2026, 6:54:41 AM  
-**Categories:** Markets, SpaceX, News  
-
-The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile)
-
----
-
-## 16. Solana moves to scrap the transaction feature used in the $270 million Drift hack
-
-**Author:** Shaurya Malwa  
-**Published:** 11/9/2026, 6:36:45 AM  
-**Categories:** Tech, News  
-
-A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack)
-
----
-
-## 17. Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts
-
-**Author:** Shaurya Malwa  
-**Published:** 11/9/2026, 5:16:54 AM  
-**Categories:** Tech, News  
-
-The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts)
-
----
-
-## 18. Binance's bitcoin mining pool finds just one block in a week as shutdown nears
-
-**Author:** Shaurya Malwa  
-**Published:** 11/9/2026, 4:54:39 AM  
-**Categories:** Tech, News  
-
-The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears)
-
----
-
-## 19. Bitcoin drops as Nvidia cheating scandal and failed Iran talks trigger volatility
-
-**Author:** Omkar Godbole  
-**Published:** 11/9/2026, 3:21:49 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Volatile price action has once again liquidated leveraged bullish plays worth millions.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility)
 
 ---
