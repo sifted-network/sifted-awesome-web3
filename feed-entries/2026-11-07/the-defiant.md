@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-07"
 date: "2026-11-07"
 source: "The Defiant"
-count: 10
+count: 8
 ---
 
 # The Defiant - 2026-11-07
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ OFAC’s official tool searches names and exact crypto addresses. A result still
 Losing an app password is different from losing the keys. Social-login wallets and guardian systems also depend on specific credentials or arrangements already in place.
 
 📖 [Read original article](https://thedefiant.io/news/security/how-to-restore-access-to-a-crypto-wallet)
-
----
-
-## 9. US Sanctions Eight Canadian Money Firms Over Alleged Iran Crypto Links
-
-**Author:** The Defiant Team  
-**Published:** 11/7/2026, 11:27:05 AM  
-**Categories:** -  
-
-The designations freeze covered assets and generally bar US dealings with the firms. OFAC also listed six Tron addresses.
-
-📖 [Read original article](https://thedefiant.io/converge/regulation/us-sanctions-eight-canadian-money-firms-over-alleged-iran-crypto-links)
-
----
-
-## 10. Keplr Pauses Google and Apple Login After Unauthorized Transaction Reports
-
-**Author:** The Defiant Team  
-**Published:** 11/7/2026, 6:12:27 AM  
-**Categories:** -  
-
-The wallet says recovery-phrase and hardware-wallet accounts are unaffected in its initial assessment, while social-login users should stop sending funds to their accounts.
-
-📖 [Read original article](https://thedefiant.io/news/security/keplr-pauses-google-and-apple-login-after-unauthorized-transaction-reports)
 
 ---
