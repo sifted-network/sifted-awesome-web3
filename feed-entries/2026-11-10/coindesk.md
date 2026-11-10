@@ -2,16 +2,88 @@
 title: "CoinDesk - 2026-11-10"
 date: "2026-11-10"
 source: "CoinDesk"
-count: 12
+count: 18
 ---
 
 # CoinDesk - 2026-11-10
 
-12 items collected.
+18 items collected.
 
 ---
 
-## 1. U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%
+## 1. Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?
+
+**Author:** Jesse Hamilton  
+**Published:** 11/10/2026, 8:36:33 PM  
+**Categories:** Policy, Prediction Markets, Insider Trading, Donald Trump, Regulation, News  
+
+U.S. Senator Elizabeth Warren argued the administration is not doing enough about staff insider trading, questioning whether CFTC enforcement action was sufficient.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets)
+
+---
+
+## 2. Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform
+
+**Author:** Helene Braun  
+**Published:** 11/10/2026, 8:15:08 PM  
+**Categories:** Finance, Bullish, NYSE, Exclusive, News  
+
+Stacey Cunningham, who recently joined digital asset platform Bullish as President, sees the company’s planned Equiniti acquisition and focus on stock issuers as key to its tokenization ambitions.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform)
+
+---
+
+## 3. Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture
+
+**Author:** Jamie Crawley  
+**Published:** 11/10/2026, 5:32:22 PM  
+**Categories:** Finance, banks, Stablecoins, News  
+
+The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture)
+
+---
+
+## 4. Crypto is now teamed up with U.S. government in two legal battles over perps
+
+**Author:** Jesse Hamilton  
+**Published:** 11/10/2026, 5:07:22 PM  
+**Categories:** News Analysis, Regulation, Coinbase, Kraken, Kalshi, News  
+
+Twice now, crypto firms have found themselves on the side of the U.S. Commodity Futures Trading Commission in holding that perpetual futures aren't swaps.
+
+📖 [Read original article](https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight)
+
+---
+
+## 5. Plume affiliate lands broker-dealer license to bring real U.S. assets onchain
+
+**Author:** Omkar Godbole  
+**Published:** 11/10/2026, 3:51:56 PM  
+**Categories:** Markets, Tokenization, News  
+
+Kimber Digital Securities secured SEC and Finra approvals, a regulatory milestone paving the way for the delivery of legally binding claims, dividends, and yield-bearing products directly to self-custodial wallets and stablecoin applications in the U.S.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain)
+
+---
+
+## 6. Will stablecoins survive once the banks catch up?
+
+**Author:** Alessandro Hatami  
+**Published:** 11/10/2026, 2:00:00 PM  
+**Categories:** Opinion, Opinion  
+
+As crypto firms and banks converge, it is fair to ask what lasting advantage stablecoins have, argues Alessandro Hatami, founder of Pacemakers and former COO of Digital Banking at Lloyds Banking Group.
+
+📖 [Read original article](https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up)
+
+---
+
+## 7. U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%
 
 **Author:** Stephen Alpher  
 **Published:** 11/10/2026, 1:32:09 PM  
@@ -23,7 +95,7 @@ A December rate hike appears completely assured, with Fed Governor Chris Waller 
 
 ---
 
-## 2. Ripple Prime head Marc Asch to step down, Noel Kimmel named successor
+## 8. Ripple Prime head Marc Asch to step down, Noel Kimmel named successor
 
 **Author:** Will Canny  
 **Published:** 11/10/2026, 12:38:20 PM  
@@ -35,7 +107,7 @@ Asch is stepping down as head of the institutional prime brokerage.
 
 ---
 
-## 3. Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings
+## 9. Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings
 
 **Author:** Oliver Knight,Saksham Diwan  
 **Published:** 11/10/2026, 12:15:00 PM  
@@ -47,7 +119,7 @@ Your day-ahead look for Nov. 10, 2026
 
 ---
 
-## 4. Bitcoin lags stock rebound in advance of U.S. inflation report
+## 10. Bitcoin lags stock rebound in advance of U.S. inflation report
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 11/10/2026, 11:24:10 AM  
@@ -59,7 +131,7 @@ Bitcoin slipped despite a Monday rebound in U.S. stocks, with spot ETFs losing $
 
 ---
 
-## 5. Bitcoin slips before U.S. inflation report as traders price in Fed rate increase
+## 11. Bitcoin slips before U.S. inflation report as traders price in Fed rate increase
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 11/10/2026, 10:48:37 AM  
@@ -71,9 +143,9 @@ Fed Governor Waller backs December tightening even if inflation cools, while fal
 
 ---
 
-## 6. Live news: Bitcoin adds to losses after disappointing inflation data
+## 12. Live news: Bitcoin falls to nearly three-month low after disappointing inflation data
 
-**Author:** James Van Straten  
+**Author:** James Van Straten,Stephen Alpher  
 **Published:** 11/10/2026, 10:41:45 AM  
 **Categories:** Markets, Bitcoin News, Live News, live_news  
 
@@ -83,7 +155,7 @@ A rate hike in December appears totally assured now, with Fed Governor Chris Wal
 
 ---
 
-## 7. The crypto wallet that grew up inside Telegram is striking out on its own
+## 13. The crypto wallet that grew up inside Telegram is striking out on its own
 
 **Author:** Francisco Rodrigues  
 **Published:** 11/10/2026, 9:59:17 AM  
@@ -95,7 +167,7 @@ The app will offer crypto trading, tokenized U.S. stocks and ETFs, and perpetual
 
 ---
 
-## 8. Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures
+## 14. Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures
 
 **Author:** Jamie Crawley  
 **Published:** 11/10/2026, 9:14:30 AM  
@@ -107,7 +179,7 @@ The Capital Markets Alliance argues that the products fall under the Securities 
 
 ---
 
-## 9. An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes
+## 15. An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes
 
 **Author:** Shaurya Malwa  
 **Published:** 11/10/2026, 7:01:06 AM  
@@ -119,7 +191,7 @@ Bots spotted a wallet from Ethereum’s 2015 launch the moment it stirred and pl
 
 ---
 
-## 10. Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more
+## 16. Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more
 
 **Author:** Shaurya Malwa  
 **Published:** 11/10/2026, 5:18:31 AM  
@@ -131,7 +203,7 @@ MARA paid off every loan backed by its bitcoin and says the rest of its coins ca
 
 ---
 
-## 11. XRP Ledger maps out quantum-proof accounts, with no extra fees for users
+## 17. XRP Ledger maps out quantum-proof accounts, with no extra fees for users
 
 **Author:** Shaurya Malwa  
 **Published:** 11/10/2026, 4:51:20 AM  
@@ -143,7 +215,7 @@ The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and
 
 ---
 
-## 12. Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough
+## 18. Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough
 
 **Author:** Omkar Godbole  
 **Published:** 11/10/2026, 3:22:26 AM  
