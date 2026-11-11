@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-09"
 date: "2026-11-09"
 source: "Cointelegraph"
-count: 8
+count: 4
 ---
 
 # Cointelegraph - 2026-11-09
 
-8 items collected.
+4 items collected.
 
 ---
 
@@ -56,53 +56,5 @@ The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digi
 Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume.
 
 📖 [Read original article](https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. PNC Bank tests turning USDC payments into dollar deposits
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 11/9/2026, 5:48:35 PM  
-**Categories:** Latest News  
-
-The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit.
-
-📖 [Read original article](https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. Avalanche’s AVAX leads crypto gains following NYSE tokenization deal
-
-**Author:** Cointelegraph by Jona Jaupi  
-**Published:** 11/9/2026, 5:41:02 PM  
-**Categories:** Latest News  
-
-Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.
-
-📖 [Read original article](https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 11/9/2026, 5:13:25 PM  
-**Categories:** Markets  
-
-Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite rallied despite sell-off in Nvidia shares.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Analysts see no broader ‘contagion’ from $6.3B Binance hack
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/9/2026, 1:52:46 PM  
-**Categories:** Markets  
-
-Binance’s pledge to cover all user losses helped contain the fallout from the $6.3 billion hack, analysts said.
-
-📖 [Read original article](https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
