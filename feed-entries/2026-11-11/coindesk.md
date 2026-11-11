@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-11-11"
 date: "2026-11-11"
 source: "CoinDesk"
-count: 7
+count: 8
 ---
 
 # CoinDesk - 2026-11-11
 
-7 items collected.
+8 items collected.
 
 ---
 
-## 1. OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month
+## 1. Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending
+
+**Author:** Francisco Rodrigues  
+**Published:** 11/11/2026, 4:00:45 PM  
+**Categories:** CoinDesk Indices, Crypto Long & Short, News  
+
+Institutions weighing DeFi lending tend to ask which markets are safest. Mike Hathaway and Joseph Quintilian of Ajna argue the better question is who can change a loan’s terms after the money is lent, and why a fully backed stablecoin offers no protection against a token vote or a faulty price feed.
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending)
+
+---
+
+## 2. OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month
 
 **Author:** Krisztian Sandor  
 **Published:** 11/11/2026, 1:00:00 PM  
@@ -23,7 +35,7 @@ After initial issuer pushback, the blockchain venue is set to start trading on N
 
 ---
 
-## 2. Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about
+## 3. Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about
 
 **Author:** Ian Allison  
 **Published:** 11/11/2026, 12:57:36 PM  
@@ -35,7 +47,7 @@ The firm’s flagship Spiko Amundi Overnight Swap Fund (SAFO) held $2.39 billion
 
 ---
 
-## 3. Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound
+## 4. Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound
 
 **Author:** James Van Straten,Francisco Rodrigues  
 **Published:** 11/11/2026, 12:21:24 PM  
@@ -47,7 +59,7 @@ The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin 
 
 ---
 
-## 4. Bitcoin barely flinches at hot CPI as ETF selling slows
+## 5. Bitcoin barely flinches at hot CPI as ETF selling slows
 
 **Author:** Oliver Knight,Saksham Diwan  
 **Published:** 11/11/2026, 12:19:30 PM  
@@ -59,7 +71,7 @@ Your day-ahead look for Nov. 11, 2026
 
 ---
 
-## 5. Bitcoin sits out stock rebound as ETF outflows extend to fourth day
+## 6. Bitcoin sits out stock rebound as ETF outflows extend to fourth day
 
 **Author:** Oliver Knight  
 **Published:** 11/11/2026, 11:37:04 AM  
@@ -71,7 +83,7 @@ Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the od
 
 ---
 
-## 6. Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion
+## 7. Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion
 
 **Author:** Francisco Rodrigues  
 **Published:** 11/11/2026, 10:51:34 AM  
@@ -83,7 +95,7 @@ Payward says xStocks holds over $1.1 billion. Each token is backed by a share bu
 
 ---
 
-## 7. Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation
+## 8. Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation
 
 **Author:** James Van Straten  
 **Published:** 11/11/2026, 10:45:49 AM  
