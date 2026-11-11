@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-09"
 date: "2026-11-09"
 source: "The Defiant"
-count: 45
+count: 44
 ---
 
 # The Defiant - 2026-11-09
 
-45 items collected.
+44 items collected.
 
 ---
 
@@ -536,17 +536,5 @@ The Windows sample uses Telegram and Steam to rotate command servers. SlowMist's
 The two tracked accounts show lifetime losses of about $44.8 million after the trader previously reduced exposure from 93,184 ETH.
 
 📖 [Read original article](https://thedefiant.io/news/markets/hyperliquid-whale-s-56-667-eth-long-fully-liquidated)
-
----
-
-## 45. Blumenthal Sets Jan. 4 Deadline for Binance, Tether and Trump Crypto Firms
-
-**Author:** The Defiant Team  
-**Published:** 11/9/2026, 1:13:31 AM  
-**Categories:** -  
-
-The senator warned of alternative measures to secure records, but his current ranking-member position does not give him unilateral subpoena authority.
-
-📖 [Read original article](https://thedefiant.io/news/regulation/blumenthal-sets-jan-4-deadline-for-binance-tether-and-trump-crypto-firms)
 
 ---
