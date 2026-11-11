@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-10"
 date: "2026-11-10"
 source: "CoinDesk"
-count: 18
+count: 17
 ---
 
 # CoinDesk - 2026-11-10
 
-18 items collected.
+17 items collected.
 
 ---
 
@@ -212,17 +212,5 @@ MARA paid off every loan backed by its bitcoin and says the rest of its coins ca
 The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users)
-
----
-
-## 18. Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough
-
-**Author:** Omkar Godbole  
-**Published:** 11/10/2026, 3:22:26 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin trades below $75,000 ahead of the October inflation data. Analysts warning that sustainable recovery depends on improving liquidity and spot ETF demand rather than temporary macro relief.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough)
 
 ---
