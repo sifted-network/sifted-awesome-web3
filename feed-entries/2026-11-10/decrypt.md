@@ -2,16 +2,28 @@
 title: "Decrypt - 2026-11-10"
 date: "2026-11-10"
 source: "Decrypt"
-count: 16
+count: 17
 ---
 
 # Decrypt - 2026-11-10
 
-16 items collected.
+17 items collected.
 
 ---
 
-## 1. Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting
+## 1. Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal
+
+**Author:** Jose Antonio Lanz  
+**Published:** 11/10/2026, 10:46:02 PM  
+**Categories:** , Business  
+
+The Bitcoin miner says its Boden facility could generate $45 million annually, but a June letter of intent remains nonbinding as executives negotiate financing and customer protections for the project.
+
+📖 [Read original article](https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center)
+
+---
+
+## 2. Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/10/2026, 9:36:03 PM  
@@ -23,7 +35,7 @@ Truth Social’s parent booked $409.7 million in quarterly income largely from c
 
 ---
 
-## 2. Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena
+## 3. Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/10/2026, 8:45:50 PM  
@@ -35,7 +47,7 @@ The chipmaker has erased its 2026 gains as a suspected Chinese espionage case br
 
 ---
 
-## 3. Near AI Breach Exposes User Details and Data From 18 AI Agents
+## 4. Near AI Breach Exposes User Details and Data From 18 AI Agents
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/10/2026, 8:16:03 PM  
@@ -47,7 +59,7 @@ An SGLang flaw let an attacker reach internal systems and potentially view confi
 
 ---
 
-## 4. Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It
+## 5. Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/10/2026, 7:46:02 PM  
@@ -59,7 +71,7 @@ Elon Musk says the incoming Grok 4.8 will trail Anthropic’s Claude Opus 5.5, p
 
 ---
 
-## 5. Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles
+## 6. Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles
 
 **Author:** Decrypt Staff  
 **Published:** 11/10/2026, 7:16:02 PM  
@@ -71,7 +83,7 @@ Grayscale plans to direct $1 million from its Zcash ETF fees to ecosystem nonpro
 
 ---
 
-## 6. Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants
+## 7. Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants
 
 **Author:** Decrypt Staff  
 **Published:** 11/10/2026, 6:33:37 PM  
@@ -83,7 +95,7 @@ The funding, backing a U.S.-incorporated issuer codenamed “Project Faro,” co
 
 ---
 
-## 7. Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike
+## 8. Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/10/2026, 4:27:57 PM  
@@ -95,7 +107,7 @@ Bitcoin fell below $74,000 after October inflation beat forecasts, increasing pr
 
 ---
 
-## 8. Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio
+## 9. Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio
 
 **Author:** Decrypt Agent  
 **Published:** 11/10/2026, 3:01:02 PM  
@@ -107,7 +119,7 @@ The trading platform, which says it has routed more than $1.3 trillion in trades
 
 ---
 
-## 9. Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius
+## 10. Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius
 
 **Author:** Decrypt Staff  
 **Published:** 11/10/2026, 2:32:48 PM  
@@ -119,7 +131,7 @@ Helius' Solana Privacy Rings will let Decrypt users send funds without broadcast
 
 ---
 
-## 10. Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion
+## 11. Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion
 
 **Author:** Decrypt Agent  
 **Published:** 11/10/2026, 2:06:02 PM  
@@ -131,7 +143,7 @@ The Claude developer is also lining up $26 billion from Nvidia, Google and other
 
 ---
 
-## 11. Moody’s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains
+## 12. Moody’s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains
 
 **Author:** Decrypt Staff  
 **Published:** 11/10/2026, 2:01:02 PM  
@@ -143,7 +155,7 @@ The testnet pilot used Chainlink’s CCIP to distribute Moody’s ratings simult
 
 ---
 
-## 12. Morning Minute: Vitalik Recasts ETH as a Store of Value
+## 13. Morning Minute: Vitalik Recasts ETH as a Store of Value
 
 **Author:** Tyler Warner  
 **Published:** 11/10/2026, 1:24:51 PM  
@@ -155,7 +167,7 @@ It’s a big shift for Ethereum from the “ultrasound money” days. But can ET
 
 ---
 
-## 13. Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys
+## 14. Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys
 
 **Author:** Decrypt Agent  
 **Published:** 11/10/2026, 12:45:34 PM  
@@ -167,7 +179,7 @@ Apple has not publicly confirmed the "worse_query" bug, which a researcher publi
 
 ---
 
-## 14. Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System
+## 15. Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System
 
 **Author:** Decrypt Agent  
 **Published:** 11/10/2026, 12:13:27 PM  
@@ -179,7 +191,7 @@ The exchange will reject withdrawals to MEXC and hold deposits from it for revie
 
 ---
 
-## 15. Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy
+## 16. Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy
 
 **Author:** Decrypt Agent  
 **Published:** 11/10/2026, 11:26:56 AM  
@@ -191,7 +203,7 @@ A proposed class action claims the chipmaker misled investors about the CEO's al
 
 ---
 
-## 16. 'Tough Questions' Ahead: Warren Targets Prediction Markets, Trump Crypto as Banking Chair
+## 17. 'Tough Questions' Ahead: Warren Targets Prediction Markets, Trump Crypto as Banking Chair
 
 **Author:** Decrypt Agent  
 **Published:** 11/10/2026, 10:41:06 AM  
