@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-11"
 date: "2026-11-11"
 source: "The Block"
-count: 19
+count: 17
 ---
 
 # The Block - 2026-11-11
 
-19 items collected.
+17 items collected.
 
 ---
 
@@ -212,29 +212,5 @@ Attackers gained control of Across's official domain through a social engineerin
 Kraken parent Payward added more than 200 UK and European equities to xStocks, taking its tokenized offering past 1,500 assets.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-11-11-kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-offering-437837)
-
----
-
-## 18. New York federal judge denies Novig’s injunction bid, rules its sports event contracts are not swaps
-
-**Author:** Danny Park  
-**Published:** 11/11/2026, 9:40:46 AM  
-**Categories:** Policy, Regulation, News  
-
-A federal judge ruled New York can enforce gambling laws against Novig after finding its sports contracts are not swaps.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828)
-
----
-
-## 19. Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline
-
-**Author:** Danny Park  
-**Published:** 11/11/2026, 6:22:32 AM  
-**Categories:** Companies, Equities, Markets, Earnings, News  
-
-According to its SEC filing, nearly $6.23 billion of the net losses came from unrealized fair value losses on digital asset holdings.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812)
 
 ---
