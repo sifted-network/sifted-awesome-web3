@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-09"
 date: "2026-11-09"
 source: "The Defiant"
-count: 22
+count: 13
 ---
 
 # The Defiant - 2026-11-09
 
-22 items collected.
+13 items collected.
 
 ---
 
@@ -164,113 +164,5 @@ The models share an underlying system but use different safeguards, with Mythos 
 Shares had already lost 22% by Friday, while a semiconductor ETF fell 30.5% over the same month-long window.
 
 📖 [Read original article](https://thedefiant.io/frontier/markets/nvidia-trades-26-below-record-close-amid-huang-review)
-
----
-
-## 14. NHTSA Probes Waymo’s School-Bus Fix After Reports of Continued Violations
-
-**Author:** The Defiant Team  
-**Published:** 11/9/2026, 6:36:50 PM  
-**Categories:** -  
-
-The probe covers 2,895 vehicles, and regulators say most incidents identified in an earlier investigation occurred after the November 2025 software update.
-
-📖 [Read original article](https://thedefiant.io/frontier/technology/nhtsa-probes-waymo-s-school-bus-fix-after-reports-of-continued-violations)
-
----
-
-## 15. Chainalysis Reopens Compliance Tools With Mandatory Credential Resets
-
-**Author:** The Defiant Team  
-**Published:** 11/9/2026, 6:21:55 PM  
-**Categories:** -  
-
-Reactor is also back online, while some investigation and account-management services remain unavailable.
-
-📖 [Read original article](https://thedefiant.io/news/security/chainalysis-reopens-compliance-tools-with-mandatory-credential-resets)
-
----
-
-## 16. Hard Fork vs. Soft Fork: How Blockchain Upgrades Work
-
-**Author:** The Defiant Team  
-**Published:** 11/9/2026, 6:12:31 PM  
-**Categories:** -  
-
-Older nodes can accept soft-fork blocks without understanding every new rule. A hard fork requires upgraded software to follow the changed network, but does not automatically create another coin.
-
-📖 [Read original article](https://thedefiant.io/news/blockchains/hard-fork-vs-soft-fork-how-blockchain-upgrades-work)
-
----
-
-## 17. Meta Launches Muse Ember With Pricing From $0.10 Per Million Input Tokens
-
-**Author:** The Defiant Team  
-**Published:** 11/9/2026, 6:09:15 PM  
-**Categories:** -  
-
-Available through Meta Model API and Muse Code, the lightweight multimodal model handles repeated agent tasks while larger Muse models plan the work.
-
-📖 [Read original article](https://thedefiant.io/frontier/ai/meta-launches-muse-ember-with-pricing-from-0-10-per-million-input-tokens)
-
----
-
-## 18. Claude Code Approval Files Expose 1,379 Secrets on GitHub
-
-**Author:** The Defiant Team  
-**Published:** 11/9/2026, 5:40:10 PM  
-**Categories:** -  
-
-Saved command approvals can retain passwords and tokens. Anthropic’s Claude Code team is exploring safeguards, including built-in secret scanning.
-
-📖 [Read original article](https://thedefiant.io/frontier/ai/claude-code-approval-files-expose-1-379-secrets-on-github)
-
----
-
-## 19. Skild AI Open-Sources Steel Physics Solver for Robot Training
-
-**Author:** The Defiant Team  
-**Published:** 11/9/2026, 5:38:27 PM  
-**Categories:** -  
-
-The Apache-licensed solver runs inside Newton; Skild reports up to 13 times PhysX’s simulation throughput in mixed-task tests.
-
-📖 [Read original article](https://thedefiant.io/frontier/technology/skild-ai-open-sources-steel-physics-solver-for-robot-training)
-
----
-
-## 20. Google Adds Confidential and Long-Context Systems to TPU Lineup
-
-**Author:** The Defiant Team  
-**Published:** 11/9/2026, 5:13:51 PM  
-**Categories:** -  
-
-TPU 8i Max combines two 8i chips in one package, while Google's product page lists all four eighth-generation systems as 'coming soon.'
-
-📖 [Read original article](https://thedefiant.io/frontier/ai/google-adds-confidential-and-long-context-systems-to-tpu-lineup)
-
----
-
-## 21. Luke Dashjr Publishes Nine Coldcard RNG Concerns
-
-**Author:** The Defiant Team  
-**Published:** 11/9/2026, 5:12:59 PM  
-**Categories:** -  
-
-His thread cites a July code revision; later firmware adds seed-error checks and a startup test for the hardware random-number generator.
-
-📖 [Read original article](https://thedefiant.io/news/security/luke-dashjr-publishes-nine-coldcard-rng-concerns)
-
----
-
-## 22. Nvidia Board Opens Huang Investigation as CEO Admits Infidelity
-
-**Author:** The Defiant Team  
-**Published:** 11/9/2026, 5:07:19 PM  
-**Categories:** -  
-
-Independent directors will oversee the review with outside counsel's help. The board backed Huang and said it had no reason to believe national security or company secrets were compromised.
-
-📖 [Read original article](https://thedefiant.io/frontier/ai/nvidia-board-opens-huang-investigation-as-ceo-admits-infidelity)
 
 ---
