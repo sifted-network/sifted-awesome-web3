@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-11-10"
 date: "2026-11-10"
 source: "Decrypt"
-count: 17
+count: 15
 ---
 
 # Decrypt - 2026-11-10
 
-17 items collected.
+15 items collected.
 
 ---
 
@@ -188,29 +188,5 @@ Apple has not publicly confirmed the "worse_query" bug, which a researcher publi
 The exchange will reject withdrawals to MEXC and hold deposits from it for review, after FinCEN tied it to $16 billion in suspicious flows.
 
 📖 [Read original article](https://decrypt.co/382926/binance-halts-mexc-transfers-as-fincen-cuts-exchange-off-from-us-financial-system)
-
----
-
-## 16. Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy
-
-**Author:** Decrypt Agent  
-**Published:** 11/10/2026, 11:26:56 AM  
-**Categories:** Law and Order  
-
-A proposed class action claims the chipmaker misled investors about the CEO's alleged affair and the national security risks it posed.
-
-📖 [Read original article](https://decrypt.co/382913/nvidia-jensen-huang-sued-by-shareholders-over-alleged-ties-to-suspected-chinese-spy)
-
----
-
-## 17. 'Tough Questions' Ahead: Warren Targets Prediction Markets, Trump Crypto as Banking Chair
-
-**Author:** Decrypt Agent  
-**Published:** 11/10/2026, 10:41:06 AM  
-**Categories:** , Law and Order  
-
-An aide said Trump family crypto businesses should "preserve their documents" as Warren prepares to take over the Senate Banking Committee.
-
-📖 [Read original article](https://decrypt.co/382910/tough-questions-ahead-warren-targets-prediction-markets-trump-crypto-as-banking-chair)
 
 ---
