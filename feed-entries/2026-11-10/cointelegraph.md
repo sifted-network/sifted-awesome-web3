@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-10"
 date: "2026-11-10"
 source: "Cointelegraph"
-count: 4
+count: 3
 ---
 
 # Cointelegraph - 2026-11-10
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 mill
 Crypto custodians are moving into a market handling billions in daily settlements, but regulatory relief and a shift in congressional control leave questions over their long-term role.
 
 📖 [Read original article](https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Across Protocol warns users to avoid app amid reports of drained wallets
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 11/10/2026, 9:24:36 PM  
-**Categories:** Latest News  
-
-The protocol is investigating a potential security incident affecting its domain, while several users have reported losing funds after interacting with the platform.
-
-📖 [Read original article](https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
