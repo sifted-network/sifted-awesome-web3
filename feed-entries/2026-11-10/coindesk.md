@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-10"
 date: "2026-11-10"
 source: "CoinDesk"
-count: 17
+count: 16
 ---
 
 # CoinDesk - 2026-11-10
 
-17 items collected.
+16 items collected.
 
 ---
 
@@ -200,17 +200,5 @@ Bots spotted a wallet from Ethereum’s 2015 launch the moment it stirred and pl
 MARA paid off every loan backed by its bitcoin and says the rest of its coins can fund AI datacenters.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more)
-
----
-
-## 17. XRP Ledger maps out quantum-proof accounts, with no extra fees for users
-
-**Author:** Shaurya Malwa  
-**Published:** 11/10/2026, 4:51:20 AM  
-**Categories:** Tech, News  
-
-The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users)
 
 ---
