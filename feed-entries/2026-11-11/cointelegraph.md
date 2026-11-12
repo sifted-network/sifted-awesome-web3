@@ -29,7 +29,7 @@ The self-custodial wallet will keep its API services running through Nov. 14. Su
 **Published:** 11/11/2026, 10:44:47 PM  
 **Categories:** Latest News  
 
-Nvidia’s board could meet as soon as today to decide Jensen Huang’s future, WSJ reports.
+The report about Huang’s possible departure came after the New York Times reported that he had a second extramarital affair.
 
 📖 [Read original article](https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
@@ -155,7 +155,7 @@ CoreWeave’s third-quarter revenue rose 168% to $3.66 billion, beating analyst 
 
 ---
 
-## 13. FSB urgest Turkey to tighten crypto oversight, set stablecoin rules
+## 13. FSB urges Turkey to tighten crypto oversight, set stablecoin rules
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/11/2026, 12:44:10 PM  
