@@ -209,7 +209,7 @@ The Enforcement Directorate alleges the exchanges routed Indian users' trades to
 **Published:** 11/12/2026, 11:24:19 AM  
 **Categories:** , Coins  
 
-U.S. spot Bitcoin exchange-traded funds have recorded five consecutive days of net outflows, as investors retreat from risk assets after a turbulent week for markets. The funds lost some $1.44 billion between November 5 and November 11, including $299.9 million on Wednesday, according to SoSoValue d...
+Spot Bitcoin ETFs have lost almost half their peak assets, but analysts say the outflows don't yet show a collapse in demand.
 
 📖 [Read original article](https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk)
 
