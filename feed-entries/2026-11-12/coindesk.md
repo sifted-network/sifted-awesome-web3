@@ -23,7 +23,7 @@ Federal authorities say they've taken infrastructure used in the FaceStealer sch
 
 ---
 
-## 2. U.S. President names CFTC, SEC nominees for first time in a year
+## 2. U.S. President Trump names CFTC, SEC nominees for first time in a year
 
 **Author:** Nikhilesh De  
 **Published:** 11/12/2026, 10:47:41 PM  
