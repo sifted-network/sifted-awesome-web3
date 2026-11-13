@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-12"
 date: "2026-11-12"
 source: "Cointelegraph"
-count: 18
+count: 11
 ---
 
 # Cointelegraph - 2026-11-12
 
-18 items collected.
+11 items collected.
 
 ---
 
@@ -140,89 +140,5 @@ Thailand’s SEC would set separate daily caps for stablecoin deposits and withd
 Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK’s research director.
 
 📖 [Read original article](https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Are Alt-L1s over? Security, costs drive smaller chains to Ethereum
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 11/12/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone grow, and the security and liquidity advantages become too hard to resist.
-
-📖 [Read original article](https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Uber’s UK banking partner Griffin raises $20M for stablecoin services
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/12/2026, 1:21:56 PM  
-**Categories:** Latest News  
-
-The Series B valued Griffin at more than $100 million and will help fund stablecoin reserve services and onchain cross-border payments.
-
-📖 [Read original article](https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. EU DeFi proposals could push users to riskier platforms, says Coinbase exec
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 11/12/2026, 12:21:43 PM  
-**Categories:** Latest News  
-
-Coinbase’s EU policy chief says applying suitability tests beyond crypto lending and borrowing could limit access and fragment liquidity.
-
-📖 [Read original article](https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 11/12/2026, 11:38:50 AM  
-**Categories:** Markets  
-
-Crypto markets were left with “less fuel” to rally after the market cap of major stablecoins saw its biggest 30-day drop in over four years.
-
-📖 [Read original article](https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Tron and Tether bring in Chainalysis after T3 crime unit folds
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/12/2026, 11:00:00 AM  
-**Categories:** Latest News  
-
-The group will focus on illicit USDT activity on Tron and help law enforcement investigate suspicious transfers and freeze funds faster.
-
-📖 [Read original article](https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/12/2026, 10:30:29 AM  
-**Categories:** Latest News  
-
-Ethlabs’ roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027.
-
-📖 [Read original article](https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. BlackRock Bitcoin ETF outflows hit $2B over nine sessions
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/12/2026, 8:06:48 AM  
-**Categories:** Markets  
-
-US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion.
-
-📖 [Read original article](https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
