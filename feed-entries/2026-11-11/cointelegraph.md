@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-11"
 date: "2026-11-11"
 source: "Cointelegraph"
-count: 9
+count: 5
 ---
 
 # Cointelegraph - 2026-11-11
 
-9 items collected.
+5 items collected.
 
 ---
 
@@ -68,53 +68,5 @@ The potential sale of Laser Digital follows a fourth straight quarterly loss for
 As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities.
 
 📖 [Read original article](https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. OKXICE moves ahead with tokenized stocks as blue chips push back
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 11/11/2026, 6:30:43 PM  
-**Categories:** Latest News  
-
-The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity.
-
-📖 [Read original article](https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Bitcoin hovers near $74K as stocks rise despite US bond yield rebound
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 11/11/2026, 4:26:00 PM  
-**Categories:** Markets  
-
-Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Deutsche Bank launches crypto custody for companies and institutions
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/11/2026, 2:02:18 PM  
-**Categories:** Latest News  
-
-Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys.
-
-📖 [Read original article](https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 11/11/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline.
-
-📖 [Read original article](https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
