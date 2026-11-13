@@ -2,16 +2,64 @@
 title: "CoinDesk - 2026-11-13"
 date: "2026-11-13"
 source: "CoinDesk"
-count: 8
+count: 12
 ---
 
 # CoinDesk - 2026-11-13
 
-8 items collected.
+12 items collected.
 
 ---
 
-## 1. Bitcoin's momentum gauge is turning red, could send prices back below $60,000
+## 1. Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters
+
+**Author:** Helene Braun,Krisztian Sandor  
+**Published:** 11/13/2026, 6:39:58 PM  
+**Categories:** Markets, News  
+
+Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk-off move.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off)
+
+---
+
+## 2. U.S. Senate Banking Committee races toward hearing on new SEC nominations
+
+**Author:** Jesse Hamilton  
+**Published:** 11/13/2026, 5:05:43 PM  
+**Categories:** Policy, Regulation, News  
+
+The committee that needs to advance President Donald Trump's nominees responded quickly to set his SEC picks for review next week.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations)
+
+---
+
+## 3. Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms
+
+**Author:** James Van Straten  
+**Published:** 11/13/2026, 4:01:27 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Bitcoin is down 21% this year as investors weigh Anthropic’s anticipated listing, Nvidia’s leadership upheaval and rising Fed rate hike expectations.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms)
+
+---
+
+## 4. Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline
+
+**Author:** Will Canny,AI Boost  
+**Published:** 11/13/2026, 2:02:00 PM  
+**Categories:** Finance, Payward, Kraken, Earnings, News  
+
+While earnings and the company’s newly introduced financial performance measure remained below year-earlier levels, there are signs of improvement from the second quarter.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline)
+
+---
+
+## 5. Bitcoin's momentum gauge is turning red, could send prices back below $60,000
 
 **Author:** Omkar Godbole  
 **Published:** 11/13/2026, 12:14:22 PM  
@@ -23,7 +71,7 @@ Your day-ahead look for Nov. 13, 2026
 
 ---
 
-## 2. Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion
+## 6. Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 11/13/2026, 11:52:25 AM  
@@ -35,19 +83,19 @@ Bitcoin (BTC) fell below $70,000 for the first time since August and is down 3.5
 
 ---
 
-## 3. Live news: Bitcoin plunges back towards bear market lows, wiping out late summer rally
+## 7. Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out
 
-**Author:** James Van Straten,Shaurya Malwa  
+**Author:** James Van Straten,Shaurya Malwa,Stephen Alpher  
 **Published:** 11/13/2026, 9:16:58 AM  
 **Categories:** Tech, Bitcoin News, Live News, live_news  
 
-Bitcoin fell below its 200-week moving average as interest rates and the dollar surged, while equity markets shrugged off Nvidia's troubles.
+Equity markets are falling as well, with interest rates and the dollar surging amid an increasingly hawkish Federal Reserve.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets)
 
 ---
 
-## 4. Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy
+## 8. Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy
 
 **Author:** Shaurya Malwa  
 **Published:** 11/13/2026, 7:05:29 AM  
@@ -59,7 +107,7 @@ The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan co
 
 ---
 
-## 5. Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value
+## 9. Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value
 
 **Author:** Shaurya Malwa  
 **Published:** 11/13/2026, 6:03:41 AM  
@@ -71,7 +119,7 @@ About 70% of the bitcoin treasury firm’s coins are pledged to the exchange, bo
 
 ---
 
-## 6. Bitcoin ETFs are now down over $1.5 billion in net outflows for the year
+## 10. Bitcoin ETFs are now down over $1.5 billion in net outflows for the year
 
 **Author:** Omkar Godbole  
 **Published:** 11/13/2026, 5:45:26 AM  
@@ -83,7 +131,7 @@ Recent rapid redemptions explain the market swoon. Bitcoin's spot price fell bel
 
 ---
 
-## 7. SpaceX-Tesla merger talks put 30,000 bitcoin back in focus
+## 11. SpaceX-Tesla merger talks put 30,000 bitcoin back in focus
 
 **Author:** Shaurya Malwa  
 **Published:** 11/13/2026, 5:08:59 AM  
@@ -95,7 +143,7 @@ A deal could be announced as soon as December, putting $2.1 billion of bitcoin u
 
 ---
 
-## 8. Bitcoin dips below $70,000 as Dollar Index hits 19-month high
+## 12. Bitcoin dips below $70,000 as Dollar Index hits 19-month high
 
 **Author:** Omkar Godbole  
 **Published:** 11/13/2026, 3:37:00 AM  
