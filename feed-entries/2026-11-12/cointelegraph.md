@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-11-12"
 date: "2026-11-12"
 source: "Cointelegraph"
-count: 21
+count: 22
 ---
 
 # Cointelegraph - 2026-11-12
 
-21 items collected.
+22 items collected.
 
 ---
 
-## 1. NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express
+## 1. Maple Finance’s strategy rift sends co-founder, COO to the exits
+
+**Author:** Cointelegraph by Jona Jaupi  
+**Published:** 11/12/2026, 11:12:55 PM  
+**Categories:** Latest News  
+
+Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the firm’s direction as SYRUP falls despite revenue growth.
+
+📖 [Read original article](https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express
 
 **Author:** Cointelegraph by Andrew Fenton  
 **Published:** 11/12/2026, 10:29:58 PM  
@@ -23,7 +35,7 @@ North Korean hackers launch memecoins to launder funds stolen in the Binance hac
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 3. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Ana Paula Pereira  
 **Published:** 11/12/2026, 10:11:41 PM  
@@ -35,7 +47,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters
+## 4. Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/12/2026, 10:05:01 PM  
@@ -47,7 +59,7 @@ The prediction market operator said the decision was mutual and followed 1789 Ca
 
 ---
 
-## 4. Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off
+## 5. Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/12/2026, 9:52:04 PM  
@@ -59,7 +71,7 @@ Strategy shares declined Thursday following MSCI’s decision to remove the comp
 
 ---
 
-## 5. US Justice Department, business groups and DeFi firms challenge Illinois crypto tax
+## 6. US Justice Department, business groups and DeFi firms challenge Illinois crypto tax
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/12/2026, 8:58:06 PM  
@@ -71,7 +83,7 @@ Industry groups argued in court filings that Illinois’ crypto tax, which appli
 
 ---
 
-## 6. DTCC Plans Solana Expansion as Wallet Rules Limit Access
+## 7. DTCC Plans Solana Expansion as Wallet Rules Limit Access
 
 **Author:** Cointelegraph by Jona Jaupi  
 **Published:** 11/12/2026, 8:07:41 PM  
@@ -83,7 +95,7 @@ The US securities clearinghouse plans to bring tokenized stocks to Solana in 202
 
 ---
 
-## 7. Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down
+## 8. Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/12/2026, 3:46:06 PM  
@@ -95,7 +107,7 @@ Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the 
 
 ---
 
-## 8. Jensen Huang resigns as Nvidia CEO, exits board; shares plunge
+## 9. Jensen Huang resigns as Nvidia CEO, exits board; shares plunge
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/12/2026, 1:59:02 PM  
@@ -107,7 +119,7 @@ Colette Kress will remain Nvidia’s chief financial officer while serving as in
 
 ---
 
-## 9. Bit Digital stock falls 5% in pre-market after Q3 revenue miss
+## 10. Bit Digital stock falls 5% in pre-market after Q3 revenue miss
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/12/2026, 1:52:39 PM  
@@ -119,7 +131,7 @@ Bit Digital’s $27 million third-quarter revenue came in 16% below analyst cons
 
 ---
 
-## 10. Thailand proposes $148K daily cap on stablecoin deposits and withdrawals
+## 11. Thailand proposes $148K daily cap on stablecoin deposits and withdrawals
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/12/2026, 1:44:03 PM  
@@ -131,7 +143,7 @@ Thailand’s SEC would set separate daily caps for stablecoin deposits and withd
 
 ---
 
-## 11. Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente
+## 12. Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/12/2026, 1:31:59 PM  
@@ -143,7 +155,7 @@ Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annua
 
 ---
 
-## 12. Are Alt-L1s over? Security, costs drive smaller chains to Ethereum
+## 13. Are Alt-L1s over? Security, costs drive smaller chains to Ethereum
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 11/12/2026, 1:30:00 PM  
@@ -155,7 +167,7 @@ L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the cost
 
 ---
 
-## 13. Uber’s UK banking partner Griffin raises $20M for stablecoin services
+## 14. Uber’s UK banking partner Griffin raises $20M for stablecoin services
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/12/2026, 1:21:56 PM  
@@ -167,7 +179,7 @@ The Series B valued Griffin at more than $100 million and will help fund stablec
 
 ---
 
-## 14. EU DeFi proposals could push users to riskier platforms, says Coinbase exec
+## 15. EU DeFi proposals could push users to riskier platforms, says Coinbase exec
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/12/2026, 12:21:43 PM  
@@ -179,7 +191,7 @@ Coinbase’s EU policy chief says applying suitability tests beyond crypto lendi
 
 ---
 
-## 15. Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022
+## 16. Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/12/2026, 11:38:50 AM  
@@ -191,7 +203,7 @@ Crypto markets were left with “less fuel” to rally after the market cap of m
 
 ---
 
-## 16. Tron and Tether bring in Chainalysis after T3 crime unit folds
+## 17. Tron and Tether bring in Chainalysis after T3 crime unit folds
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/12/2026, 11:00:00 AM  
@@ -203,7 +215,7 @@ The group will focus on illicit USDT activity on Tron and help law enforcement i
 
 ---
 
-## 17. Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness
+## 18. Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/12/2026, 10:30:29 AM  
@@ -215,7 +227,7 @@ Ethlabs’ roadmap aims to help Ethereum withstand quantum attacks and give user
 
 ---
 
-## 18. BlackRock Bitcoin ETF outflows hit $2B over nine sessions
+## 19. BlackRock Bitcoin ETF outflows hit $2B over nine sessions
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/12/2026, 8:06:48 AM  
@@ -227,7 +239,7 @@ US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $
 
 ---
 
-## 19. South Korea to permit crypto withdrawal freezes during hacking threats
+## 20. South Korea to permit crypto withdrawal freezes during hacking threats
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/12/2026, 5:54:48 AM  
@@ -239,7 +251,7 @@ The move follows recent security incidents involving South Korean crypto exchang
 
 ---
 
-## 20. Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack
+## 21. Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/12/2026, 5:07:11 AM  
@@ -251,7 +263,7 @@ In a July interview, Binance chief security officer Jimmy Su explained how fake 
 
 ---
 
-## 21. MSCI confirms Strategy’s removal from indexes at end of November
+## 22. MSCI confirms Strategy’s removal from indexes at end of November
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/12/2026, 12:09:13 AM  
