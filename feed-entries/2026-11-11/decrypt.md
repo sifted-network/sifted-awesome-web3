@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-11-11"
 date: "2026-11-11"
 source: "Decrypt"
-count: 16
+count: 15
 ---
 
 # Decrypt - 2026-11-11
 
-16 items collected.
+15 items collected.
 
 ---
 
@@ -188,17 +188,5 @@ Nvidia's independent directors have hired Wachtell Lipton to investigate its CEO
 The New York Stock Exchange will use Avalanche infrastructure, but experts say that won't necessarily boost AVAX's price.
 
 📖 [Read original article](https://decrypt.co/382988/avalanche-won-over-the-nyse-now-it-has-to-capture-value-for-avax)
-
----
-
-## 16. Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell
-
-**Author:** Decrypt Agent  
-**Published:** 11/11/2026, 10:20:53 AM  
-**Categories:** , , Law and Order  
-
-Robert Barr planned to have accomplices force a crypto investor to install remote-access software so he could drain the wallet from prison.
-
-📖 [Read original article](https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell)
 
 ---
