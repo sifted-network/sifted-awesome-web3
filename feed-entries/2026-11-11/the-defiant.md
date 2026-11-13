@@ -13,7 +13,7 @@ count: 28
 
 ## 1. Zcash Falls Below $965 as Weekly Loss Reaches 26%
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 11:39:06 PM  
 **Categories:** -  
 
@@ -25,7 +25,7 @@ ZEC's seven-day decline was roughly three times bitcoin's. The token traded abou
 
 ## 2. Nvidia Board to Discuss Huang's Future, FT Reports
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 11:31:31 PM  
 **Categories:** -  
 
@@ -37,7 +37,7 @@ The reported leadership talks follow the board's public backing of Huang on Nov.
 
 ## 3. Katana Plans Revenue-Funded Buybacks for KAT Stakers
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 10:56:07 PM  
 **Categories:** -  
 
@@ -49,7 +49,7 @@ The Layer 2 will retire emissions voting and shorten its unstaking cooldown on N
 
 ## 4. Nvidia Falls After Report of Huang Affair With Executive
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 10:45:14 PM  
 **Categories:** -  
 
@@ -61,7 +61,7 @@ The New York Times reported a relationship with health-care VP Kimberly Powell, 
 
 ## 5. Trump Backed Nvidia Diversion Crackdown, Axios Reports
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 9:16:28 PM  
 **Categories:** -  
 
@@ -73,7 +73,7 @@ Commerce denied a reported confrontation between Bessent and Lutnick. An indepen
 
 ## 6. Ethlabs Puts Ethereum Quantum Defense Ahead of Speed
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 9:00:46 PM  
 **Categories:** -  
 
@@ -85,7 +85,7 @@ The lab targets quantum- and AI-resistant Ethereum in 2027, withdrawing Quick Sl
 
 ## 7. Novig Loses Bid to Block New York Gambling Enforcement
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 8:15:54 PM  
 **Categories:** -  
 
@@ -97,7 +97,7 @@ The judge found at the preliminary-injunction stage that Novig's sports contract
 
 ## 8. Arkham Traces $63 Million in Bitget Hack Funds to CoinJoin
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 7:55:04 PM  
 **Categories:** -  
 
@@ -109,7 +109,7 @@ The firm traced 847.26 BTC into mixing transactions and reported another 959.29 
 
 ## 9. Polymarket Cuts Staff and Contractors in Reorganization
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 7:11:24 PM  
 **Categories:** -  
 
@@ -121,7 +121,7 @@ Marketing was a focus of the cuts, Front Office Sports reported, as Polymarket t
 
 ## 10. Nomura Explores Laser Digital Sale, Bloomberg Reports
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 6:50:48 PM  
 **Categories:** -  
 
@@ -133,7 +133,7 @@ Marex is among the potential buyers, according to Bloomberg. The talks concern a
 
 ## 11. LlamaRisk Proposes Borrowing Speed Limits for Aave V3
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 5:07:29 PM  
 **Categories:** -  
 
@@ -145,7 +145,7 @@ The plan pairs timed borrowing buffers with a steward-run route for large client
 
 ## 12. Extended Opens XTEN Checker With Dec. 31 Signing Deadline
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 4:58:56 PM  
 **Categories:** -  
 
@@ -157,7 +157,7 @@ Unaccepted allocations will move to the Ecosystem Fund. Starknet accounts must n
 
 ## 13. Moonwell Cuts Collateral Limits, Drops VELO and wrsETH
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 4:13:50 PM  
 **Categories:** -  
 
@@ -169,7 +169,7 @@ MIP-X75 reduces the backing available for existing loans on Base and Optimism. B
 
 ## 14. Variational Ends Omni Beta, Removes Invite-Code Gate
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 4:12:51 PM  
 **Categories:** -  
 
@@ -181,7 +181,7 @@ The trading API remains unavailable under Variational’s published documentatio
 
 ## 15. Stacks Tests Post-Quantum Signatures With sBTC Transfer
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 4:10:10 PM  
 **Categories:** -  
 
@@ -193,7 +193,7 @@ A mainnet vault withdrawal used a Lamport one-time signature. The test does not 
 
 ## 16. White House Seeks Remote AI Chip Curbs: Report
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 3:42:08 PM  
 **Categories:** -  
 
@@ -205,7 +205,7 @@ The reported request targets overseas computing rentals used by Chinese AI labs,
 
 ## 17. Researchers Say Codex Flaw Put npm Releases at Risk
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 3:37:06 PM  
 **Categories:** -  
 
@@ -217,7 +217,7 @@ Depi says OpenAI fixed a chain linking prompt injection, a sandbox escape and pu
 
 ## 18. Runway Releases Praxis-1 Robot Model With Open Weights
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 3:13:04 PM  
 **Categories:** -  
 
@@ -229,7 +229,7 @@ Apache 2.0 weights and code move the robot controller beyond partner testing, bu
 
 ## 19. Maple Co-Founder Flanagan Exits Over Strategy Split
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 3:10:44 PM  
 **Categories:** -  
 
@@ -241,7 +241,7 @@ Joe Flanagan said he will support a handover through year-end. Maple described a
 
 ## 20. Pyth Adds Real-Time NYSE Data to Its Data Marketplace
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 3:09:59 PM  
 **Categories:** -  
 
@@ -253,7 +253,7 @@ The Level 1 feed covers five NYSE Group exchanges. Clients must license the data
 
 ## 21. Anthropic Perp Exposure Tops $300 Million in Snapshots
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 2:51:01 PM  
 **Categories:** -  
 
@@ -265,7 +265,7 @@ Buildix readings span multiple Hyperliquid markets. The Trade.xyz contract alone
 
 ## 22. Keplr User Reports 1,200 ATOM Move Amid Recovery Effort
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 2:20:25 PM  
 **Categories:** -  
 
@@ -277,7 +277,7 @@ Onchain records confirm the staked assets moved to an address outside the Nov. 8
 
 ## 23. OKXICE Sets Nov. 23 Stock-Token Launch After Objections
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 1:11:34 PM  
 **Categories:** -  
 
@@ -289,7 +289,7 @@ The venture expects more than 70 assets, including 59 Direxion ETFs, but issuer 
 
 ## 24. IBM Targets 520 Qubits With Next Nighthawk Processor
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 12:11:37 PM  
 **Categories:** -  
 
@@ -301,7 +301,7 @@ IBM plans to link two r3 chips in 2027. Developers can use new managed quantum-c
 
 ## 25. iOS 27.2.1 Leaves Sandbox Flaw Open, Researcher Says
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 11:27:15 AM  
 **Categories:** -  
 
@@ -313,7 +313,7 @@ The worse_query escape could expose wallet data stored in plaintext, SlowMist wa
 
 ## 26. Anthropic’s $1.4 Trillion IPO Target May Rise: Report
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 10:38:36 AM  
 **Categories:** -  
 
@@ -325,7 +325,7 @@ The Nov. 10 share-price range implied a valuation of about $1.4 trillion. Bloomb
 
 ## 27. xStocks Adds 200-Plus UK and EU Stock Tokens With GTN
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 8:53:06 AM  
 **Categories:** -  
 
@@ -337,7 +337,7 @@ The rollout includes LVMH, Rolls-Royce and SAP, but does not open xStocks to UK 
 
 ## 28. Evernorth Slides 24% After 73.7 Million-Share Filing
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/11/2026, 8:44:16 AM  
 **Categories:** -  
 
