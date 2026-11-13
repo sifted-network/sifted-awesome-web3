@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-12"
 date: "2026-11-12"
 source: "The Block"
-count: 20
+count: 11
 ---
 
 # The Block - 2026-11-12
 
-20 items collected.
+11 items collected.
 
 ---
 
@@ -140,113 +140,5 @@ KPMG U.S. gave Tether Gold issuer TG Commodities an unqualified, or "clean," opi
 Crypto industry heavyweights are banding together to challenge Illinois over its controversial crypto tax.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-12-andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax-438573)
-
----
-
-## 12. DTCC plans to bring tokenized securities to Solana in second half of 2027
-
-**Author:** James Hunt  
-**Published:** 11/12/2026, 2:23:11 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, Token Projects, Web3, Solana, Tokenization, News  
-
-DTCC plans to add Solana to its tokenization service in the second half of 2027, alongside Canton and Besu.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559)
-
----
-
-## 13. Securitize and Ethena’s $100 million BlackRock BUIDL liquidity facility goes live
-
-**Author:** Jason Shubnell  
-**Published:** 11/12/2026, 2:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Markets, Public Equities, Stablecoins, Token Projects, Web3, BlackRock, Tokenization, USDC, News  
-
-Securitize & Ethena Labs launch a $100M liquidity facility letting eligible BUIDL holders swap into USDC and other stablecoins 24/7.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442)
-
----
-
-## 14. SoFiUSD goes live on Polygon as bank-issued stablecoin expands reach
-
-**Author:** Brian Danga  
-**Published:** 11/12/2026, 2:00:00 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 2s and Scaling, Markets, Stablecoins, Token Projects, Polygon, News  
-
-SoFiUSD went live on Polygon, adding the network alongside Ethereum and Solana for SoFi's more than 17 million members.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542)
-
----
-
-## 15. BNY taps Figment to support staking on its digital asset custody platform
-
-**Author:** James Hunt  
-**Published:** 11/12/2026, 1:05:02 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, DeFi, Finance firms, Policy, Regulation, exclusive, Staking, TradFi banks, News  
-
-Figment will provide validator infrastructure for institutional staking through BNY's existing Digital Asset Custody service.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-12-bny-taps-figment-to-support-staking-on-its-digital-asset-custody-platform-438538)
-
----
-
-## 16. BitGo expands institutional stablecoin minting and redemption platform with USDC
-
-**Author:** James Hunt  
-**Published:** 11/12/2026, 12:35:02 PM  
-**Categories:** Companies, Crypto Ecosystems, Markets, Stablecoins, Token Projects, exclusive, USDC, News  
-
-BitGo's institutional clients can now mint and redeem USDC through Go Accounts, with orders handled through its Circle Mint account.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525)
-
----
-
-## 17. Tron, Tether and Chainalysis form new alliance to tackle AI-powered crypto crime
-
-**Author:** Timmy Shen  
-**Published:** 11/12/2026, 11:00:00 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Markets, Stablecoins, Token Projects, Tether, News  
-
-The trio launched a joint initiative called the "Digital Crime Task Force" to combat illicit crypto activities.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514)
-
----
-
-## 18. Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH
-
-**Author:** Jason Shubnell  
-**Published:** 11/12/2026, 10:30:00 AM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Deals, DeFi, Funds, Layer 1s, Markets, Metaverse & NFT, People, People, People, People, People, People, Policy, Token Projects, Ethereum, Ethereum ETF, Staking, News  
-
-Sygnum's market-neutral fund pairs staking with options, arbitrage and carry strategies, targeting 8%–10% annual returns paid in ETH.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386)
-
----
-
-## 19. Chainstack says AI-powered security breach exposed customer data; threat now contained
-
-**Author:** Timmy Shen  
-**Published:** 11/12/2026, 8:39:57 AM  
-**Categories:** Companies, Crypto Ecosystems, News  
-
-The team is treating node credentials as exposed and asking customers to rotate them and change passwords.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509)
-
----
-
-## 20. Ethlabs proposes advancing Ethereum’s post-quantum to 2027, citing AI acceleration
-
-**Author:** Danny Park  
-**Published:** 11/12/2026, 7:27:24 AM  
-**Categories:** Crypto Ecosystems, DeFi, News  
-
-The group said it aims to make Ethereum post-AI by 2027 as well, resistant to cryptographic risks that AI development is bringing.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494)
 
 ---
