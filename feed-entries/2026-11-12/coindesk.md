@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-12"
 date: "2026-11-12"
 source: "CoinDesk"
-count: 24
+count: 17
 ---
 
 # CoinDesk - 2026-11-12
 
-24 items collected.
+17 items collected.
 
 ---
 
@@ -212,89 +212,5 @@ The Enforcement Directorate alleged illegal cross-border flows that violated Ind
 The Fed continued amping up its hawkishness on Thursday; meanwhile, existing home sales fell to their weakest level in 16 years.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets)
-
----
-
-## 18. Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million
-
-**Author:** Will Canny  
-**Published:** 11/12/2026, 9:07:00 AM  
-**Categories:** Finance, Gemini, mergers and acquisitions, Exclusive, News  
-
-The sale follows the Winklevoss-founded crypto exchange’s retreat from several overseas markets as it restructures its business.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million)
-
----
-
-## 19. Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%
-
-**Author:** Shaurya Malwa  
-**Published:** 11/12/2026, 7:41:18 AM  
-**Categories:** Markets, News  
-
-The Avalon maker has launched a $20 million repurchase program, while most of its bitcoin holdings were pledged or placed in a fixed-term product at September’s end.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96)
-
----
-
-## 20. MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine
-
-**Author:** Omkar Godbole  
-**Published:** 11/12/2026, 7:00:37 AM  
-**Categories:** Markets, MicroStrategy, News  
-
-MSCI’s decision to exclude Strategy from its equity indexes could hamper the company’s ability to buy more bitcoin, according to some analysts.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine)
-
----
-
-## 21. Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury
-
-**Author:** Shaurya Malwa  
-**Published:** 11/12/2026, 5:49:44 AM  
-**Categories:** Tech, News  
-
-The proposal would remove more than half of Zcash Community Grants' ZEC holdings from circulation and redirect its future block rewards into a new development and legal-defense fund.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury)
-
----
-
-## 22. Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor
-
-**Author:** Shaurya Malwa  
-**Published:** 11/12/2026, 5:22:31 AM  
-**Categories:** Tech, News  
-
-The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing blocks until someone restarted it.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor)
-
----
-
-## 23. Ripple’s bank-lending system moves closer to launch on the XRP Ledger
-
-**Author:** Shaurya Malwa  
-**Published:** 11/12/2026, 5:18:43 AM  
-**Categories:** Tech, News  
-
-Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger)
-
----
-
-## 24. Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe
-
-**Author:** Omkar Godbole  
-**Published:** 11/12/2026, 4:03:47 AM  
-**Categories:** Markets, Hyperliquid, News  
-
-Nvidia perps are down 7% on Hyperliquid as traders react to reports that CEO Jensen Huang may be removed. Bitcoin continues to trade in a familiar price range.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe)
 
 ---
