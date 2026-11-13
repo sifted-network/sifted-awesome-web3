@@ -2,28 +2,124 @@
 title: "Cointelegraph - 2026-11-13"
 date: "2026-11-13"
 source: "Cointelegraph"
-count: 12
+count: 19
 ---
 
 # Cointelegraph - 2026-11-13
 
-12 items collected.
+19 items collected.
 
 ---
 
-## 1. Nakamoto shares fall 6% premarket after Q3 revenue turns negative
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 11/13/2026, 10:08:37 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex
+
+**Author:** Cointelegraph  
+**Published:** 11/13/2026, 10:01:03 PM  
+**Categories:** Latest News  
+
+OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.
+
+📖 [Read original article](https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/13/2026, 9:49:27 PM  
+**Categories:** Latest News  
+
+Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.
+
+📖 [Read original article](https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Kraken parent Payward gains market share as slower trading weighs on earnings
+
+**Author:** Cointelegraph  
+**Published:** 11/13/2026, 9:01:39 PM  
+**Categories:** Latest News  
+
+Payward’s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded.
+
+📖 [Read original article](https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. US regulators move ahead on crypto trust charters as Senate scrutiny grows
+
+**Author:** Cointelegraph by Adrian Zmudzinski  
+**Published:** 11/13/2026, 8:53:20 PM  
+**Categories:** Latest News  
+
+Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ compliance and potential conflicts of interest.
+
+📖 [Read original article](https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Metaplanet swings to $170M loss as Bitcoin sale hits earnings
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/13/2026, 6:28:29 PM  
+**Categories:** Latest News  
+
+Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company’s earnings despite higher revenue and operating profit.
+
+📖 [Read original article](https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Bitcoin holds below $70K as stocks slip despite a cooler US PPI print
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 11/13/2026, 4:39:11 PM  
+**Categories:** Markets  
+
+Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Arthur Hayes ‘flattered’ as Coinbase backs US stock perps
+
+**Author:** Cointelegraph by Helen Partz  
+**Published:** 11/13/2026, 1:41:26 PM  
+**Categories:** Latest News  
+
+Arthur Hayes said he was “flattered” by Coinbase’s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps.
+
+📖 [Read original article](https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Nakamoto shares fall 6% premarket after Q3 revenue turns negative
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/13/2026, 1:04:19 PM  
-**Categories:** Latest News  
+**Categories:** Markets  
 
-A $5.8 million loss on Bitcoin options pushed operating revenue below zero, and higher Bitcoin prices lifted net income to $85.5 million.
+A $5.8 million Bitcoin options loss pushed Nakamoto’s quarterly operating revenue below zero, while the company extended repayment of $60 million in Kraken debt to 2027.
 
-📖 [Read original article](https://cointelegraph.com/news/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+📖 [Read original article](https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-## 2. Israeli police arrest five in $5M WhatsApp crypto trading probe
+## 10. Israeli police arrest five in $5M WhatsApp crypto trading probe
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/13/2026, 12:19:01 PM  
@@ -35,7 +131,7 @@ Police suspect the group drew up fictitious loan agreements to disguise crypto t
 
 ---
 
-## 3. Unocoin keeps deposits and withdrawals halted over suspect transfers
+## 11. Unocoin keeps deposits and withdrawals halted over suspect transfers
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/13/2026, 9:58:21 AM  
@@ -47,7 +143,7 @@ Unocoin said the transfers were signed and broadcast outside BitGo’s platform,
 
 ---
 
-## 4. Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next
+## 12. Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/13/2026, 9:39:05 AM  
@@ -59,7 +155,7 @@ Bitcoin price action interacted with its 200-week simple moving average for the 
 
 ---
 
-## 5. DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam
+## 13. DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/13/2026, 9:27:14 AM  
@@ -71,7 +167,7 @@ Authorities froze over $2.7 billion in Binance hack proceeds, while the separate
 
 ---
 
-## 6. Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT
+## 14. Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/13/2026, 9:05:10 AM  
@@ -83,7 +179,7 @@ Jane Street ended Q3 with 19% fewer shares in BlackRock’s Bitcoin ETF, and a h
 
 ---
 
-## 7. Microsoft 365 outage hits Outlook email and Teams calendars worldwide
+## 15. Microsoft 365 outage hits Outlook email and Teams calendars worldwide
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/13/2026, 8:26:01 AM  
@@ -95,19 +191,7 @@ Microsoft began a wider patch rollout Friday as the outage disrupted government 
 
 ---
 
-## 8. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/13/2026, 6:16:46 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bitcoin slides below $70K amid thin liquidity, ETF outflows
+## 16. Bitcoin slides below $70K amid thin liquidity, ETF outflows
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/13/2026, 6:00:15 AM  
@@ -119,7 +203,7 @@ Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than
 
 ---
 
-## 10. Trump nominates Hester Peirce successor among SEC, CFTC picks
+## 17. Trump nominates Hester Peirce successor among SEC, CFTC picks
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/13/2026, 2:29:27 AM  
@@ -131,7 +215,7 @@ The White House also named a former CFTC commissioner and two CLARITY Act vetera
 
 ---
 
-## 11. Former Nvidia CEO Huang had third alleged affair: Reuters
+## 18. Former Nvidia CEO Huang had third alleged affair: Reuters
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/13/2026, 1:26:27 AM  
@@ -143,7 +227,7 @@ Reuters reported that Jensen Huang had a relationship with another Nvidia employ
 
 ---
 
-## 12. Gemini’s quarterly retail trading volume sinks to 3-year low
+## 19. Gemini’s quarterly retail trading volume sinks to 3-year low
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/13/2026, 12:52:42 AM  
