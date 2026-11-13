@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-12"
 date: "2026-11-12"
 source: "CoinDesk"
-count: 17
+count: 13
 ---
 
 # CoinDesk - 2026-11-12
 
-17 items collected.
+13 items collected.
 
 ---
 
@@ -164,53 +164,5 @@ Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet 
 Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five)
-
----
-
-## 14. Polymarket trims workforce under investor pressure as Kalshi surges ahead
-
-**Author:** Francisco Rodrigues  
-**Published:** 11/12/2026, 10:42:06 AM  
-**Categories:** Finance, Prediction Markets, Polymarket, News  
-
-More than half of those affected were contractors, a source told Reuters. The cuts follow investor pressure on founder Shayne Coplan.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead)
-
----
-
-## 15. Nomura weighs Laser Digital sale as European losses hit four straight quarters
-
-**Author:** Francisco Rodrigues  
-**Published:** 11/12/2026, 10:32:35 AM  
-**Categories:** Finance, Japan, News  
-
-The Japanese brokerage has held talks with potential buyers, including Marex, as its European business posts more losses.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg)
-
----
-
-## 16. India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades
-
-**Author:** Omkar Godbole,AI Boost  
-**Published:** 11/12/2026, 10:10:48 AM  
-**Categories:** Policy, India, Regulation, Crime, News  
-
-The Enforcement Directorate alleged illegal cross-border flows that violated India's foreign exchange laws.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades)
-
----
-
-## 17. Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge
-
-**Author:** James Van Straten,Shaurya Malwa,Omkar Godbole,Stephen Alpher,Helene Braun  
-**Published:** 11/12/2026, 9:15:04 AM  
-**Categories:** Tech, Bitcoin News, Live News, live_news  
-
-The Fed continued amping up its hawkishness on Thursday; meanwhile, existing home sales fell to their weakest level in 16 years.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets)
 
 ---
