@@ -13,7 +13,7 @@ count: 17
 
 ## 1. Democrats Probe Trump’s Nvidia China Chip Export Deal
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 10:59:53 PM  
 **Categories:** -  
 
@@ -25,7 +25,7 @@ Wyden and Neal ask Commerce Secretary Howard Lutnick to preserve export and tari
 
 ## 2. DOJ Disrupts North Korean Fake-Call Crypto Theft Scheme
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 10:18:50 PM  
 **Categories:** -  
 
@@ -37,7 +37,7 @@ Officials attribute more than $400 million in losses over 18 months to FaceSteal
 
 ## 3. Foster Says Nvidia Privately Deemed Chip Tracking Feasible
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 8:38:31 PM  
 **Categories:** -  
 
@@ -49,7 +49,7 @@ The lawmaker's account contrasts with a semiconductor trade group's warning abou
 
 ## 4. Binance Says Hack Assets Covered, Reserve Proof Pending
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 6:41:56 PM  
 **Categories:** -  
 
@@ -61,7 +61,7 @@ The exchange says it has closed the remaining gap in customer backing, but users
 
 ## 5. Sky Advisor Proposes Halting New Core Vault Borrowing
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 6:30:26 PM  
 **Categories:** -  
 
@@ -73,7 +73,7 @@ BA Labs reports 771 open vaults and 376.33 million USDS in debt. Borrowers could
 
 ## 6. NYDFS Sets May 2027 Deadline for Crypto Ad Policies
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 6:09:17 PM  
 **Categories:** -  
 
@@ -85,7 +85,7 @@ BitLicense holders and crypto trust companies must prepare annually approved mar
 
 ## 7. Bitcoin Breaks Below $72,000 as Multiweek Slide Deepens
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 2:53:36 PM  
 **Categories:** -  
 
@@ -97,7 +97,7 @@ Coinbase recorded a $71,500 low, while Coinalyze's tracked derivatives markets s
 
 ## 8. Securitize, Ethena Open BUIDL Facility With $100M Capacity
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 2:39:06 PM  
 **Categories:** -  
 
@@ -109,7 +109,7 @@ The facility starts with $25 million each in USDC and BUIDL. Additional funding 
 
 ## 9. Layer 1, Rollups and Sidechains: The Key Differences
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 2:16:32 PM  
 **Categories:** -  
 
@@ -121,7 +121,7 @@ Where transactions run is only part of the difference. Ethereum, OP Mainnet, Lin
 
 ## 10. Jensen Huang Resigns; Nvidia Names Kress Interim CEO
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 2:09:47 PM  
 **Categories:** -  
 
@@ -133,7 +133,7 @@ CFO Colette Kress will hold both roles during a successor search. The filing doe
 
 ## 11. Ether Nears $2,000 as Weekly Loss Outpaces Bitcoin's
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 1:53:42 PM  
 **Categories:** -  
 
@@ -145,7 +145,7 @@ Ether's roughly four-week loss reached 14.7%, versus bitcoin's 9.9%, while US et
 
 ## 12. DTCC Plans Solana Support for Tokenized Assets in 2027
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 1:38:32 PM  
 **Categories:** -  
 
@@ -157,7 +157,7 @@ The second-half integration would add another network to a service already live 
 
 ## 13. USDT Freeze Proposals on Tron Leave Time to Move Funds
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 11:55:03 AM  
 **Categories:** -  
 
@@ -169,7 +169,7 @@ FreezeCheck found 65.4 million USDT left targeted addresses between public propo
 
 ## 14. India's ED Searches CoinDCX, Delta in Forex-Law Probe
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 10:23:36 AM  
 **Categories:** -  
 
@@ -181,7 +181,7 @@ In Nov. 6 statements, both exchanges said trading, deposits and withdrawals rema
 
 ## 15. CFTC Approves tZERO Exchange Ahead of $350M SPAC Deal
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 10:00:09 AM  
 **Categories:** -  
 
@@ -193,7 +193,7 @@ The November 10 designation follows October clearinghouse registration and satis
 
 ## 16. Chainstack Urges Credential Rotation After Data Breach
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 8:50:00 AM  
 **Categories:** -  
 
@@ -205,7 +205,7 @@ The blockchain infrastructure provider says services stayed online, but customer
 
 ## 17. Zcash Plan Would Pull 50,000 ZEC From Grants Treasury
 
-**Author:** The Defiant Team  
+**Author:** The Defiant  
 **Published:** 11/12/2026, 6:03:55 AM  
 **Categories:** -  
 
