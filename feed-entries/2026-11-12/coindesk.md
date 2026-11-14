@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-12"
 date: "2026-11-12"
 source: "CoinDesk"
-count: 12
+count: 11
 ---
 
 # CoinDesk - 2026-11-12
 
-12 items collected.
+11 items collected.
 
 ---
 
@@ -140,17 +140,5 @@ Your day-ahead look for Nov. 12, 2026
 The Series B funding round, led by Octagon Partners valued the London-based company at more than $100 million.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments)
-
----
-
-## 12. Ethereum researchers drop faster blocks to race toward quantum defenses in 2027
-
-**Author:** Shaurya Malwa  
-**Published:** 11/12/2026, 11:43:41 AM  
-**Categories:** Tech, Ethereum News, quantum computing, Artificial Intelligence, News  
-
-Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027)
 
 ---
