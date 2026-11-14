@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-12"
 date: "2026-11-12"
 source: "Cointelegraph"
-count: 11
+count: 8
 ---
 
 # Cointelegraph - 2026-11-12
 
-11 items collected.
+8 items collected.
 
 ---
 
@@ -104,41 +104,5 @@ Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the 
 Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board searches for a permanent successor.
 
 📖 [Read original article](https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. Bit Digital stock falls 5% in pre-market after Q3 revenue miss
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/12/2026, 1:52:39 PM  
-**Categories:** Latest News  
-
-Bit Digital’s $27 million third-quarter revenue came in 16% below analyst consensus estimates, marking an over $5 million shortfall.
-
-📖 [Read original article](https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Thailand proposes $148K daily cap on stablecoin deposits and withdrawals
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 11/12/2026, 1:44:03 PM  
-**Categories:** Latest News  
-
-Thailand’s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own.
-
-📖 [Read original article](https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/12/2026, 1:31:59 PM  
-**Categories:** Latest News  
-
-Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK’s research director.
-
-📖 [Read original article](https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
