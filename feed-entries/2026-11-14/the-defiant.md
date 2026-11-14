@@ -2,16 +2,28 @@
 title: "The Defiant - 2026-11-14"
 date: "2026-11-14"
 source: "The Defiant"
-count: 32
+count: 33
 ---
 
 # The Defiant - 2026-11-14
 
-32 items collected.
+33 items collected.
 
 ---
 
-## 1. Pennysia Users Urged to Revoke Approvals After Exploit
+## 1. Who Sells Shares When a Stock Leaves a Market Index?
+
+**Author:** The Defiant  
+**Published:** 11/14/2026, 6:14:23 PM  
+**Categories:** -  
+
+An index change can prompt tracking funds to sell shares. That is different from exchange delisting—or a bitcoin-holding company selling its coins.
+
+📖 [Read original article](https://thedefiant.io/news/markets/who-sells-shares-when-a-stock-leaves-a-market-index)
+
+---
+
+## 2. Pennysia Users Urged to Revoke Approvals After Exploit
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 9:31:12 AM  
@@ -23,7 +35,7 @@ Onchain records show swaps were disabled before SlowMist's public warning. The c
 
 ---
 
-## 2. Singapore Files 41 Charges in Nvidia-Linked Server Case
+## 3. Singapore Files 41 Charges in Nvidia-Linked Server Case
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 8:40:19 AM  
@@ -35,7 +47,7 @@ Shi Bingzhe and two companies face money-laundering allegations over purchases o
 
 ---
 
-## 3. Cursor Links Extension Attack to Exposed Credentials
+## 4. Cursor Links Extension Attack to Exposed Credentials
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 8:24:00 AM  
@@ -47,7 +59,7 @@ Up to 5,000 users potentially received a tampered Claude Code extension. Cursor 
 
 ---
 
-## 4. 1inch Warns Delegators to Claim Rewards by Nov. 27
+## 5. 1inch Warns Delegators to Claim Rewards by Nov. 27
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 8:23:49 AM  
@@ -59,7 +71,7 @@ New resolver delegations are closed. Existing delegators should claim rewards an
 
 ---
 
-## 5. Musk Backs Petition to Bring Jensen Huang Back to Nvidia
+## 6. Musk Backs Petition to Bring Jensen Huang Back to Nvidia
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 8:20:16 AM  
@@ -71,7 +83,7 @@ An independent open letter seeks Huang's reinstatement, but its signature tally 
 
 ---
 
-## 6. Rubio Recast CIA Report in Huang Memo, Post Reports
+## 7. Rubio Recast CIA Report in Huang Memo, Post Reports
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 8:18:08 AM  
@@ -83,7 +95,7 @@ The report identifies Rubio's role in the warning that preceded Jensen Huang's e
 
 ---
 
-## 7. Ondo Backs Spout Plan for No-Interest Stock-Token Loans
+## 8. Ondo Backs Spout Plan for No-Interest Stock-Token Loans
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 8:15:45 AM  
@@ -95,7 +107,7 @@ The planned Solana integration would fund lender returns with covered calls, lea
 
 ---
 
-## 8. Cosmos Hub Votes on Fix for Broken Governance Queries
+## 9. Cosmos Hub Votes on Fix for Broken Governance Queries
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 8:07:12 AM  
@@ -107,7 +119,7 @@ Proposal 1061 is above quorum with near-unanimous support. Validators would need
 
 ---
 
-## 9. Ethereum Weighs Hegotá Reset for Post-Quantum Security
+## 10. Ethereum Weighs Hegotá Reset for Post-Quantum Security
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 7:57:57 AM  
@@ -119,7 +131,7 @@ Developers dropped quick slots but left FOCIL and a new consensus direction unre
 
 ---
 
-## 10. Deutsche Bank Crypto Custody Goes Live for Paying Clients
+## 11. Deutsche Bank Crypto Custody Goes Live for Paying Clients
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 7:52:49 AM  
@@ -131,7 +143,7 @@ The European service supports bitcoin, ether and three stablecoins. Stablecoin c
 
 ---
 
-## 11. Anthropic IPO Said to Restrict China, Hong Kong Institutions
+## 12. Anthropic IPO Said to Restrict China, Hong Kong Institutions
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 7:46:50 AM  
@@ -143,7 +155,7 @@ Some investors are exploring offshore bids, Bloomberg reports, but receiving sha
 
 ---
 
-## 12. Duffy Denies FAA AI Tool Caused Nationwide Ground Stop
+## 13. Duffy Denies FAA AI Tool Caused Nationwide Ground Stop
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 7:44:32 AM  
@@ -155,7 +167,7 @@ The FAA announced SMART’s expansion to airspace covered by 22 centers on Nov. 
 
 ---
 
-## 13. OpenAI Staff Discuss Military AI in Russian Hoax Call
+## 14. OpenAI Staff Discuss Military AI in Russian Hoax Call
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 7:41:57 AM  
@@ -167,7 +179,7 @@ OpenAI says it investigated and took preventive action, without detailing change
 
 ---
 
-## 14. Strategy’s Bitcoin Cost Gap Widens to $7.7 Billion
+## 15. Strategy’s Bitcoin Cost Gap Widens to $7.7 Billion
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 7:35:30 AM  
@@ -179,7 +191,7 @@ Bitcoin’s fall below $67,000 deepened the shortfall against Strategy’s purch
 
 ---
 
-## 15. Tesla Opens Cybercab Purchases to Select Private Buyers
+## 16. Tesla Opens Cybercab Purchases to Select Private Buyers
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 7:35:29 AM  
@@ -191,7 +203,7 @@ The invitation-only offer lists December deliveries in Austin and a required $29
 
 ---
 
-## 16. Kraken Opens Anthropic IPO Requests With 5% Spread
+## 17. Kraken Opens Anthropic IPO Requests With 5% Spread
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 7:23:07 AM  
@@ -203,7 +215,7 @@ Eligible clients can seek share-backed ANTx tokens, not direct stock ownership. 
 
 ---
 
-## 17. Bitcoin Falls Below $69,000 as Ether Slides Under $2,000
+## 18. Bitcoin Falls Below $69,000 as Ether Slides Under $2,000
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 7:22:11 AM  
@@ -215,7 +227,7 @@ Matched Coinbase closes show ether lost 20.3% over four weeks, compared with bit
 
 ---
 
-## 18. stUSDT Winds Down, Sets May 2027 Redemption Deadline
+## 19. stUSDT Winds Down, Sets May 2027 Redemption Deadline
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 7:18:32 AM  
@@ -227,7 +239,7 @@ Rebase rewards end Nov. 14. Holders must unstake and then claim USDT, with late 
 
 ---
 
-## 19. US PPI Hits 6.5% as Bitcoin and Ether Edge Higher
+## 20. US PPI Hits 6.5% as Bitcoin and Ether Edge Higher
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 7:13:02 AM  
@@ -239,7 +251,7 @@ Both headline inflation readings undershot forecasts, but interest-rate markets 
 
 ---
 
-## 20. Scott Seeks Huang, Lutnick Testimony on Nvidia Exports
+## 21. Scott Seeks Huang, Lutnick Testimony on Nvidia Exports
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 7:10:03 AM  
@@ -251,7 +263,7 @@ Huang is asked to appear Dec. 3 and Lutnick Dec. 10. A Commerce spokesperson say
 
 ---
 
-## 21. Microsoft Blames 365 Outage on Network Upgrade Issue
+## 22. Microsoft Blames 365 Outage on Network Upgrade Issue
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 7:07:15 AM  
@@ -263,7 +275,7 @@ Microsoft apologized and said the incident was unrelated to cyber activity or AI
 
 ---
 
-## 22. Blacklisted Chinese University Bought H200s: Reuters
+## 23. Blacklisted Chinese University Bought H200s: Reuters
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 7:02:53 AM  
@@ -275,7 +287,7 @@ Northwestern Polytechnical reportedly bought two Nvidia accelerators through a C
 
 ---
 
-## 23. MANTRA Announces Seven-Day Pause on New Unstaking
+## 24. MANTRA Announces Seven-Day Pause on New Unstaking
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 7:01:57 AM  
@@ -287,7 +299,7 @@ The pause blocks new withdrawal requests but does not stop the eight-day countdo
 
 ---
 
-## 24. Sacks Says Alice Huang Spy Narrative Is 'Collapsing'
+## 25. Sacks Says Alice Huang Spy Narrative Is 'Collapsing'
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 7:01:49 AM  
@@ -299,7 +311,7 @@ CNN reported that US officials remain divided over the evidence. Sacks called fo
 
 ---
 
-## 25. dYdX Proposes USDC Backing Shift From Noble to Injective
+## 26. dYdX Proposes USDC Backing Shift From Noble to Injective
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 6:52:06 AM  
@@ -311,7 +323,7 @@ The v9.9 plan would reroute deposits and withdrawals while leaving existing USDC
 
 ---
 
-## 26. Maple Reports $1.89 Billion in Syrup Loan Collateral
+## 27. Maple Reports $1.89 Billion in Syrup Loan Collateral
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 6:50:23 AM  
@@ -323,7 +335,7 @@ Maple disclosed the check after a CEO update on executive departures and withdra
 
 ---
 
-## 27. Apache Patches Critical Bug Found by Anthropic Scanner
+## 28. Apache Patches Critical Bug Found by Anthropic Scanner
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 6:47:41 AM  
@@ -335,7 +347,7 @@ The flaw can let unauthenticated attackers run code on HTTP/2-enabled servers. A
 
 ---
 
-## 28. Bitcoin Mining Difficulty Falls 9.1%, Most Since June
+## 29. Bitcoin Mining Difficulty Falls 9.1%, Most Since June
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 6:31:33 AM  
@@ -347,7 +359,7 @@ Slower blocks triggered the year's third-largest difficulty cut, lifting expecte
 
 ---
 
-## 29. Ether Falls Below $1,900 as Losses Outpace Bitcoin
+## 30. Ether Falls Below $1,900 as Losses Outpace Bitcoin
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 3:44:29 AM  
@@ -359,7 +371,7 @@ US spot ether ETFs recorded a sixth session of net withdrawals, while the next d
 
 ---
 
-## 30. Bitcoin Drops Below $67,000 as Crypto Selloff Deepens
+## 31. Bitcoin Drops Below $67,000 as Crypto Selloff Deepens
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 2:51:35 AM  
@@ -371,7 +383,7 @@ Ether's four-week loss reached 21.4%, while 42 of 44 tokens in a curated crypto 
 
 ---
 
-## 31. AAVE Slides 30% in Four Weeks, Trailing Bitcoin and Ether
+## 32. AAVE Slides 30% in Four Weeks, Trailing Bitcoin and Ether
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 2:39:42 AM  
@@ -383,7 +395,7 @@ The governance token's losses exceeded those of bitcoin and ether, while Aave's 
 
 ---
 
-## 32. GHO's 61% Supply Drop Reflects an Accounting Change
+## 33. GHO's 61% Supply Drop Reflects an Accounting Change
 
 **Author:** The Defiant  
 **Published:** 11/14/2026, 12:26:16 AM  
