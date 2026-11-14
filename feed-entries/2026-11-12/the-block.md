@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-12"
 date: "2026-11-12"
 source: "The Block"
-count: 3
+count: 2
 ---
 
 # The Block - 2026-11-12
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ DOJ got court approval to seize $1.2B stolen from Binance by North Korea's Trade
 Gemini shares rose more than 6% after hours, though the stock remains down around 75% since the year began.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050)
-
----
-
-## 3. Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight
-
-**Author:** Sarah Wynn  
-**Published:** 11/12/2026, 9:44:30 PM  
-**Categories:** Crypto Ecosystems, DeFi, Policy, Regulation, CFTC, Kalshi, Polymarket, Prediction Markets, News  
-
-Louisiana is the latest state to take on prediction market platforms, joining a legal battle between states and the federal government.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052)
 
 ---
