@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-12"
 date: "2026-11-12"
 source: "CoinDesk"
-count: 13
+count: 12
 ---
 
 # CoinDesk - 2026-11-12
 
-13 items collected.
+12 items collected.
 
 ---
 
@@ -152,17 +152,5 @@ The Series B funding round, led by Octagon Partners valued the London-based comp
 Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027)
-
----
-
-## 13. Bitcoin dips with Nvidia as ETF outflows reach day five
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 11/12/2026, 11:30:00 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five)
 
 ---
