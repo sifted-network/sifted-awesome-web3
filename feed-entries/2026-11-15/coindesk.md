@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-11-15"
 date: "2026-11-15"
 source: "CoinDesk"
-count: 1
+count: 3
 ---
 
 # CoinDesk - 2026-11-15
 
-1 items collected.
+3 items collected.
 
 ---
 
-## 1. XRP crashes to its lowest since November 2024 as money leaves crypto
+## 1. Did prediction markets call the U.S. midterm election?: State of Crypto
+
+**Author:** Nikhilesh De  
+**Published:** 11/15/2026, 7:30:00 PM  
+**Categories:** Policy, Newsletters, State of Crypto, Prediction Markets, News  
+
+Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto)
+
+---
+
+## 2. Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session
+
+**Author:** Jesse Hamilton  
+**Published:** 11/15/2026, 2:00:00 PM  
+**Categories:** News Analysis, Regulation, Election 2026, News  
+
+With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises.
+
+📖 [Read original article](https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session)
+
+---
+
+## 3. XRP crashes to its lowest since November 2024 as money leaves crypto
 
 **Author:** Omkar Godbole  
 **Published:** 11/15/2026, 2:50:57 AM  
