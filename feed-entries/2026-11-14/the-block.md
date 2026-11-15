@@ -2,16 +2,28 @@
 title: "The Block - 2026-11-14"
 date: "2026-11-14"
 source: "The Block"
-count: 3
+count: 4
 ---
 
 # The Block - 2026-11-14
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit
+## 1. Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%
+
+**Author:** Zack Abrams  
+**Published:** 11/14/2026, 11:07:35 PM  
+**Categories:** Crypto Ecosystems, DeFi, News  
+
+About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.
+
+📖 [Read original article](https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350)
+
+---
+
+## 2. Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit
 
 **Author:** Zack Abrams  
 **Published:** 11/14/2026, 7:06:59 PM  
@@ -23,7 +35,7 @@ The CFTC sued Louisiana Friday to block a state judge's order banning 31 predict
 
 ---
 
-## 2. Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding
+## 3. Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding
 
 **Author:** Zack Abrams  
 **Published:** 11/14/2026, 5:50:41 PM  
@@ -35,7 +47,7 @@ U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $2
 
 ---
 
-## 3. Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more
+## 4. Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more
 
 **Author:** Yogita Khatri  
 **Published:** 11/14/2026, 5:40:00 AM  
