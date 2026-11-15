@@ -2,28 +2,16 @@
 title: "Cointelegraph - 2026-11-14"
 date: "2026-11-14"
 source: "Cointelegraph"
-count: 4
+count: 3
 ---
 
 # Cointelegraph - 2026-11-14
 
-4 items collected.
+3 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/14/2026, 11:28:12 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. Microsoft confirms global outage resolved, rules out cyberattack
+## 1. Microsoft confirms global outage resolved, rules out cyberattack
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/14/2026, 10:34:06 AM  
@@ -35,7 +23,7 @@ Microsoft attributed the outage to a network capacity upgrade issue, confirming 
 
 ---
 
-## 3. MegaETH parent cuts 20% of staff amid restructuring, AI push
+## 2. MegaETH parent cuts 20% of staff amid restructuring, AI push
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/14/2026, 8:12:30 AM  
@@ -47,7 +35,7 @@ MegaETH co-founder Shuyao Kong said the restructuring affected employees who hel
 
 ---
 
-## 4. Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11
+## 3. Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/14/2026, 6:33:13 AM  
