@@ -2,16 +2,28 @@
 title: "Cointelegraph - 2026-11-15"
 date: "2026-11-15"
 source: "Cointelegraph"
-count: 4
+count: 5
 ---
 
 # Cointelegraph - 2026-11-15
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Enterprise blockchain is going to come back from the dead
+
+**Author:** Cointelegraph by Paul Brody  
+**Published:** 11/15/2026, 2:30:00 PM  
+**Categories:** Opinion  
+
+With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.
+
+📖 [Read original article](https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/15/2026, 11:18:48 AM  
@@ -23,7 +35,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Bitcoin falls to four-month low near $62K as crypto selloff deepens
+## 3. Bitcoin falls to four-month low near $62K as crypto selloff deepens
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/15/2026, 10:23:17 AM  
@@ -35,7 +47,7 @@ The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 2
 
 ---
 
-## 3. Coinone warns of phishing, identity theft after customer data breach
+## 4. Coinone warns of phishing, identity theft after customer data breach
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/15/2026, 8:07:58 AM  
@@ -47,7 +59,7 @@ The South Korean crypto exchange said potentially exposed information includes p
 
 ---
 
-## 4. RWA protocol stUSDT winds down three years after $2.3B TVL peak
+## 5. RWA protocol stUSDT winds down three years after $2.3B TVL peak
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/15/2026, 6:27:26 AM  
