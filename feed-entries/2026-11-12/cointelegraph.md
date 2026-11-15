@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-12"
 date: "2026-11-12"
 source: "Cointelegraph"
-count: 8
+count: 5
 ---
 
 # Cointelegraph - 2026-11-12
 
-8 items collected.
+5 items collected.
 
 ---
 
@@ -68,41 +68,5 @@ Strategy shares declined Thursday following MSCI’s decision to remove the comp
 Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law.
 
 📖 [Read original article](https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. DTCC Plans Solana Expansion as Wallet Rules Limit Access
-
-**Author:** Cointelegraph by Jona Jaupi  
-**Published:** 11/12/2026, 8:07:41 PM  
-**Categories:** Latest News  
-
-The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption.
-
-📖 [Read original article](https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 7. Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 11/12/2026, 3:46:06 PM  
-**Categories:** Markets  
-
-Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Jensen Huang resigns as Nvidia CEO, exits board; shares plunge
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 11/12/2026, 1:59:02 PM  
-**Categories:** Latest News  
-
-Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board searches for a permanent successor.
-
-📖 [Read original article](https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
