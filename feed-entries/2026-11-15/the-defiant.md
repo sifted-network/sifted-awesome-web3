@@ -2,16 +2,244 @@
 title: "The Defiant - 2026-11-15"
 date: "2026-11-15"
 source: "The Defiant"
-count: 15
+count: 34
 ---
 
 # The Defiant - 2026-11-15
 
-15 items collected.
+34 items collected.
 
 ---
 
-## 1. US Bitcoin ETFs Shed $1.91 Billion in Seven Sessions
+## 1. Bessent Urges Outside Nvidia CEO Search, Reuters Says
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 9:23:54 PM  
+**Categories:** -  
+
+Reuters reported that the Treasury secretary called for a leadership shakeup while Nvidia’s board was still organizing its search for Jensen Huang’s successor.
+
+📖 [Read original article](https://thedefiant.io/frontier/ai/bessent-urges-outside-nvidia-ceo-search-reuters-says)
+
+---
+
+## 2. Megaspeed Opens Review, Says Alice Huang Left in 2025
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 9:23:01 PM  
+**Categories:** -  
+
+Outside lawyers will examine reports about the Nvidia cloud partner's business and supply chain. Singapore's separate server-shipment inquiry remains open.
+
+📖 [Read original article](https://thedefiant.io/frontier/technology/megaspeed-opens-review-says-alice-huang-left-in-2025)
+
+---
+
+## 3. Solflare Launches Private Mode for Solana Payments
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 9:19:07 PM  
+**Categories:** -  
+
+The Helius-powered feature hides assets and amounts, not wallet addresses. Swaps and staking still require public balances.
+
+📖 [Read original article](https://thedefiant.io/news/defi/solflare-launches-private-mode-for-solana-payments)
+
+---
+
+## 4. Vulcan Fails to Deliver 40 Amazon Satellites to Orbit
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 9:18:56 PM  
+**Categories:** -  
+
+Amazon had planned a second Vulcan mission within weeks of a successful debut. ULA now faces an investigation and has given no return-to-flight date.
+
+📖 [Read original article](https://thedefiant.io/frontier/technology/vulcan-fails-to-deliver-40-amazon-satellites-to-orbit)
+
+---
+
+## 5. Huang Weighs Nvidia Return as Allies Press Board: FT
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 8:17:54 PM  
+**Categories:** -  
+
+The reported comeback discussions have not changed Nvidia’s announced leadership plan: Colette Kress remains interim CEO ahead of Nov. 17 earnings.
+
+📖 [Read original article](https://thedefiant.io/frontier/ai/huang-weighs-nvidia-return-as-allies-press-board-ft)
+
+---
+
+## 6. Luxor Pledges Full Compensation for Commander Hijack
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 8:16:40 PM  
+**Categories:** -  
+
+Luxor said just over a dozen client accounts were affected and promised to pay for redirected mining power as though it had mined normally.
+
+📖 [Read original article](https://thedefiant.io/news/hacks/luxor-pledges-full-compensation-for-commander-hijack)
+
+---
+
+## 7. AERO Falls 27% in a Week, Lagging Bitcoin and Ether
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 5:43:21 PM  
+**Categories:** -  
+
+The token's post-merger retreat has erased October's rally. The exchange's Base pools still hold about $250 million and handled $5.09 billion in weekly swaps.
+
+📖 [Read original article](https://thedefiant.io/news/markets/aero-falls-27-in-a-week-lagging-bitcoin-and-ether)
+
+---
+
+## 8. Duffy Sees No Sign of Foreign Cyberattack in FAA Outage
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 4:14:44 PM  
+**Categories:** -  
+
+L3Harris is testing two routers from Texas and Arkansas, while the hardware-versus-installation question remains unresolved.
+
+📖 [Read original article](https://thedefiant.io/frontier/technology/duffy-sees-no-sign-of-foreign-cyberattack-in-faa-outage)
+
+---
+
+## 9. CFTC Sues Louisiana Over Prediction-Market Shutdown
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 4:04:22 PM  
+**Categories:** -  
+
+The federal complaint seeks to block state investigations and enforcement against regulated markets, their affiliates and partners—not just the platforms named in Louisiana’s case.
+
+📖 [Read original article](https://thedefiant.io/news/regulation/cftc-sues-louisiana-over-prediction-market-shutdown)
+
+---
+
+## 10. AI Tops Financial Stability Risks Cited in Fed Survey
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 3:54:16 PM  
+**Categories:** -  
+
+AI was cited by 87% of market contacts, up from 50% in the spring. The Fed separately traced how leases, guarantees and debt link the infrastructure buildout to lenders.
+
+📖 [Read original article](https://thedefiant.io/frontier/ai/ai-tops-financial-stability-risks-cited-in-fed-survey)
+
+---
+
+## 11. Coinone Warns of Identity Theft After Support Breach
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 3:52:35 PM  
+**Categories:** -  
+
+Passwords, bank details and national ID numbers shared with support may be exposed. Coinone says it has found no evidence of direct intrusion into its account, trading or wallet systems.
+
+📖 [Read original article](https://thedefiant.io/news/hacks/coinone-warns-of-identity-theft-after-support-breach)
+
+---
+
+## 12. WSJ Details China’s Offshore Access to Nvidia Chips
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 3:47:42 PM  
+**Categories:** -  
+
+Data centers in Malaysia serve Chinese tech giants, the report says, while authorities investigate whether hardware was diverted elsewhere.
+
+📖 [Read original article](https://thedefiant.io/frontier/ai/wsj-details-china-s-offshore-access-to-nvidia-chips)
+
+---
+
+## 13. Binance Targets Full Withdrawal Reopening Next Week
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 3:45:58 PM  
+**Categories:** -  
+
+The exchange says 87 networks reopened this week, extending a staged recovery that began with selected assets across 15 network groups.
+
+📖 [Read original article](https://thedefiant.io/news/hacks/binance-targets-full-withdrawal-reopening-next-week)
+
+---
+
+## 14. Spark TVL Falls 15.3% in a Week to a 30-Day Low
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 3:45:11 PM  
+**Categories:** -  
+
+The dollar value of assets tracked by DefiLlama fell to $5.70 billion. The change is not a measure of withdrawals or lost lending capacity.
+
+📖 [Read original article](https://thedefiant.io/news/defi/spark-tvl-falls-15-3-in-a-week-to-a-30-day-low)
+
+---
+
+## 15. Large Wallets Buy ETH as Price Falls Below $1,800
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 3:44:31 PM  
+**Categories:** -  
+
+Onchain swaps show some large holders buying into the slide, but exchange withdrawals in Lookonchain’s tally do not establish new purchases.
+
+📖 [Read original article](https://thedefiant.io/news/markets/large-wallets-buy-eth-as-price-falls-below-1-800)
+
+---
+
+## 16. SOL Hits Lowest Since June Ahead of London Breakpoint
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 3:43:37 PM  
+**Categories:** -  
+
+SOL touched $67.37 on Coinbase and underperformed bitcoin and ether over seven and 28 days. Solana Compass showed 67.3% of total supply staked.
+
+📖 [Read original article](https://thedefiant.io/news/markets/sol-hits-lowest-since-june-ahead-of-london-breakpoint)
+
+---
+
+## 17. CoreX Reports Bitcoin Mining Power Hijacked to OCEAN
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 3:18:39 PM  
+**Categories:** -  
+
+The flagged address showed no payouts, but submitted mining work could still earn rewards. The attack’s entry point remains unconfirmed.
+
+📖 [Read original article](https://thedefiant.io/news/hacks/corex-reports-bitcoin-mining-power-hijacked-to-ocean)
+
+---
+
+## 18. Ethereum Gas Fees: From Wallet Estimate to Final Cost
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 2:12:49 PM  
+**Categories:** -  
+
+Gas measures computational work. A real Ethereum transaction shows why a spending ceiling can exceed the fee finally charged.
+
+📖 [Read original article](https://thedefiant.io/news/blockchains/ethereum-gas-fees-from-wallet-estimate-to-final-cost)
+
+---
+
+## 19. Armed Robot Dogs Appear in El Salvador's Haiti Video
+
+**Author:** The Defiant  
+**Published:** 11/15/2026, 1:18:26 PM  
+**Categories:** -  
+
+The presidency described a stadium search role. A weapons researcher tentatively identified Unitree Go2 robots fitted with Israeli-made rifles; combat use remains unconfirmed.
+
+📖 [Read original article](https://thedefiant.io/frontier/technology/armed-robot-dogs-appear-in-el-salvador-s-haiti-video)
+
+---
+
+## 20. US Bitcoin ETFs Shed $1.91 Billion in Seven Sessions
 
 **Author:** The Defiant  
 **Published:** 11/15/2026, 12:28:10 PM  
@@ -23,7 +251,7 @@ BlackRock’s IBIT accounted for about $1.42 billion of the withdrawals as Binan
 
 ---
 
-## 2. Bitcoin Regains $65,000 After Falling to Four-Month Low
+## 21. Bitcoin Regains $65,000 After Falling to Four-Month Low
 
 **Author:** The Defiant  
 **Published:** 11/15/2026, 12:16:44 PM  
@@ -35,7 +263,7 @@ The Coinbase low was 0.94% below its earlier Saturday trough. US spot bitcoin ET
 
 ---
 
-## 3. Lido Lend Plan Would Block Repayments, Not Interest
+## 22. Lido Lend Plan Would Block Repayments, Not Interest
 
 **Author:** The Defiant  
 **Published:** 11/15/2026, 8:19:55 AM  
@@ -47,7 +275,7 @@ A proposed emergency pause would also stop lender exits and liquidations. A sepa
 
 ---
 
-## 4. Bitcoin Hits Four-Month Low as ETF Outflows Persist
+## 23. Bitcoin Hits Four-Month Low as ETF Outflows Persist
 
 **Author:** The Defiant  
 **Published:** 11/15/2026, 7:21:35 AM  
@@ -59,7 +287,7 @@ US spot bitcoin funds shed $1.91 billion over seven sessions. Coinbase's new low
 
 ---
 
-## 5. Aave Executive Reports $39 Million in Liquidations
+## 24. Aave Executive Reports $39 Million in Liquidations
 
 **Author:** The Defiant  
 **Published:** 11/15/2026, 3:09:50 AM  
@@ -71,7 +299,7 @@ Luigi D'Onorio DeMeo reported about $18 million for one day and $21 million so f
 
 ---
 
-## 6. XRP Falls to 89 Cents on Coinbase, Its Lowest Since November 2024
+## 25. XRP Falls to 89 Cents on Coinbase, Its Lowest Since November 2024
 
 **Author:** The Defiant  
 **Published:** 11/15/2026, 3:03:49 AM  
@@ -83,7 +311,7 @@ Coinbase recorded the low Saturday evening. XRP's seven-day and four-week losses
 
 ---
 
-## 7. Forward Industries Denies $123 Million SOL Transfer
+## 26. Forward Industries Denies $123 Million SOL Transfer
 
 **Author:** The Defiant  
 **Published:** 11/15/2026, 2:45:46 AM  
@@ -95,7 +323,7 @@ Trackers linked 1.78 million SOL in stake withdrawals to the treasury company. T
 
 ---
 
-## 8. Crypto Sheds $571 Billion in Ten Days as Losses Deepen
+## 27. Crypto Sheds $571 Billion in Ten Days as Losses Deepen
 
 **Author:** The Defiant  
 **Published:** 11/15/2026, 2:21:35 AM  
@@ -107,7 +335,7 @@ Bitcoin and ether rebounded after another sharp drop, but matched 24-hour window
 
 ---
 
-## 9. FAA Links Ground Stop to Router During Fiber Upgrade
+## 28. FAA Links Ground Stop to Router During Fiber Upgrade
 
 **Author:** The Defiant  
 **Published:** 11/15/2026, 1:26:31 AM  
@@ -119,7 +347,7 @@ Officials said a router flooded the air-traffic network during maintenance, but 
 
 ---
 
-## 10. Binance Liquidations Near $800 Million as Bitcoin Sinks
+## 29. Binance Liquidations Near $800 Million as Bitcoin Sinks
 
 **Author:** The Defiant  
 **Published:** 11/15/2026, 1:24:59 AM  
@@ -131,7 +359,7 @@ CoinGlass recorded $2.05 billion in liquidations across tracked exchanges, overw
 
 ---
 
-## 11. Bitcoin Sinks Below $63,000 as Multiweek Slide Deepens
+## 30. Bitcoin Sinks Below $63,000 as Multiweek Slide Deepens
 
 **Author:** The Defiant  
 **Published:** 11/15/2026, 1:18:25 AM  
@@ -143,7 +371,7 @@ Coinbase and Bitstamp both recorded the break. Bitcoin's new low was 12.5% below
 
 ---
 
-## 12. Telegram Restricts Bot Widgets Amid Security Dispute
+## 31. Telegram Restricts Bot Widgets Amid Security Dispute
 
 **Author:** The Defiant  
 **Published:** 11/15/2026, 1:03:53 AM  
@@ -155,7 +383,7 @@ A Bot API contributor confirmed that general bots cannot send HTML widgets, incl
 
 ---
 
-## 13. Bitcoin Near $64,000 as Drawdown From October High Tops 24%
+## 32. Bitcoin Near $64,000 as Drawdown From October High Tops 24%
 
 **Author:** The Defiant  
 **Published:** 11/15/2026, 12:22:20 AM  
@@ -167,7 +395,7 @@ The slide has deepened since the Nov. 12 break below $72,000. A SpaceX IPO compa
 
 ---
 
-## 14. Kava Lend Exploit Drains Millions as KAVA Falls 47%
+## 33. Kava Lend Exploit Drains Millions as KAVA Falls 47%
 
 **Author:** The Defiant  
 **Published:** 11/15/2026, 12:21:52 AM  
@@ -179,7 +407,7 @@ Inflated BUSD collateral let attackers borrow 55.2 million KAVA. Bridge withdraw
 
 ---
 
-## 15. SpaceX Catches Starship Returning From Orbit for First Time
+## 34. SpaceX Catches Starship Returning From Orbit for First Time
 
 **Author:** The Defiant  
 **Published:** 11/15/2026, 12:17:25 AM  
