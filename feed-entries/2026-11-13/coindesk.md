@@ -119,13 +119,13 @@ The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan co
 
 ---
 
-## 10. Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value
+## 10. Bitcoin firm Nakamoto pushes $60 million Kraken loan repayment to 2027 to extend its 'runway'
 
 **Author:** Shaurya Malwa  
 **Published:** 11/13/2026, 6:03:41 AM  
 **Categories:** Markets, News  
 
-About 70% of the bitcoin treasury firm’s coins are pledged to the exchange, bought at roughly $118,000 each, and bitcoin now trades under $69,000.
+The company has deferred a $60 million repayment until December 2027, while its bitcoin collateral remains worth more than the outstanding loan.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value)
 
