@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-12"
 date: "2026-11-12"
 source: "CoinDesk"
-count: 4
+count: 2
 ---
 
 # CoinDesk - 2026-11-12
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ Federal authorities say they've taken infrastructure used in the FaceStealer sch
 U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year)
-
----
-
-## 3. Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment
-
-**Author:** Helene Braun  
-**Published:** 11/12/2026, 9:07:49 PM  
-**Categories:** Policy, Kalshi, News  
-
-Trump Jr. joined Kalshi as a strategic adviser in January 2025, helping the prediction market expand its customer base and strengthen its market presence.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment)
-
----
-
-## 4. Illinois crypto tax is impossible to enforce as written, crypto industry tells court
-
-**Author:** Jesse Hamilton  
-**Published:** 11/12/2026, 4:45:52 PM  
-**Categories:** Policy, Tax, Regulation, News  
-
-The legal battle to head off the crypto transaction tax in Illinois has drawn up a hefty roster of industry opposition, and they're saying the tax won't work.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court)
 
 ---
