@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-12"
 date: "2026-11-12"
 source: "The Defiant"
-count: 17
+count: 12
 ---
 
 # The Defiant - 2026-11-12
 
-17 items collected.
+12 items collected.
 
 ---
 
@@ -152,65 +152,5 @@ Ether's roughly four-week loss reached 14.7%, versus bitcoin's 9.9%, while US et
 The second-half integration would add another network to a service already live on Canton and DTCC's private Besu blockchain.
 
 📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/dtcc-plans-solana-support-for-tokenized-assets-in-2027)
-
----
-
-## 13. USDT Freeze Proposals on Tron Leave Time to Move Funds
-
-**Author:** The Defiant  
-**Published:** 11/12/2026, 11:55:03 AM  
-**Categories:** -  
-
-FreezeCheck found 65.4 million USDT left targeted addresses between public proposals and execution. The records show an exposure window, not proof that senders acted on a warning.
-
-📖 [Read original article](https://thedefiant.io/news/security/usdt-freeze-proposals-on-tron-leave-time-to-move-funds)
-
----
-
-## 14. India's ED Searches CoinDCX, Delta in Forex-Law Probe
-
-**Author:** The Defiant  
-**Published:** 11/12/2026, 10:23:36 AM  
-**Categories:** -  
-
-In Nov. 6 statements, both exchanges said trading, deposits and withdrawals remained operational. Delta denied cross-border digital-asset transfers.
-
-📖 [Read original article](https://thedefiant.io/news/regulation/india-s-ed-searches-coindcx-delta-in-forex-law-probe)
-
----
-
-## 15. CFTC Approves tZERO Exchange Ahead of $350M SPAC Deal
-
-**Author:** The Defiant  
-**Published:** 11/12/2026, 10:00:09 AM  
-**Categories:** -  
-
-The November 10 designation follows October clearinghouse registration and satisfies an earn-out target, but merger closing conditions remain.
-
-📖 [Read original article](https://thedefiant.io/converge/regulation/cftc-approves-tzero-exchange-ahead-of-350m-spac-deal)
-
----
-
-## 16. Chainstack Urges Credential Rotation After Data Breach
-
-**Author:** The Defiant  
-**Published:** 11/12/2026, 8:50:00 AM  
-**Categories:** -  
-
-The blockchain infrastructure provider says services stayed online, but customers must replace node credentials and update their applications.
-
-📖 [Read original article](https://thedefiant.io/news/security/chainstack-urges-credential-rotation-after-data-breach)
-
----
-
-## 17. Zcash Plan Would Pull 50,000 ZEC From Grants Treasury
-
-**Author:** The Defiant  
-**Published:** 11/12/2026, 6:03:55 AM  
-**Categories:** -  
-
-Polling starts Nov. 16 on a draft that would end ZCG's 8% funding stream and build a locked development and legal-defense reserve.
-
-📖 [Read original article](https://thedefiant.io/news/blockchains/zcash-plan-would-pull-50-000-zec-from-grants-treasury)
 
 ---
