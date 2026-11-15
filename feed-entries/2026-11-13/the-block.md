@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-13"
 date: "2026-11-13"
 source: "The Block"
-count: 17
+count: 16
 ---
 
 # The Block - 2026-11-13
 
-17 items collected.
+16 items collected.
 
 ---
 
@@ -200,17 +200,5 @@ The new service is built on the Beacon Network, which has more than 200 members 
 Crypto Council for Innovation's Ji Kim said this bipartisan lineup could develop durable rules that safeguard markets and support innovation.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175)
-
----
-
-## 17. Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more
-
-**Author:** Yogita Khatri  
-**Published:** 11/13/2026, 4:20:00 AM  
-**Categories:** News  
-
-In today's newsletter, bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets; Strategy, Metaplanet to lose MSCI index membership on Nov. 30; and more.
-
-📖 [Read original article](https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049)
 
 ---
