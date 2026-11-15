@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-13"
 date: "2026-11-13"
 source: "The Block"
-count: 16
+count: 14
 ---
 
 # The Block - 2026-11-13
 
-16 items collected.
+14 items collected.
 
 ---
 
@@ -176,29 +176,5 @@ Arkansas previously sued Kalshi on Nov. 4, alleging that it operated an illegal 
 A total of $798 million in crypto positions has been liquidated over the past four hours, including $718.5 million in long positions.
 
 📖 [Read original article](https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643)
-
----
-
-## 15. TRM Labs launches new service to help police seize stolen crypto in minutes
-
-**Author:** Danny Park  
-**Published:** 11/13/2026, 5:08:25 AM  
-**Categories:** Crypto Ecosystems, DeFi, News  
-
-The new service is built on the Beacon Network, which has more than 200 members covering 80% of crypto trading volume.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609)
-
----
-
-## 16. White House sends crypto-relevant picks to fill SEC and CFTC seats
-
-**Author:** Danny Park  
-**Published:** 11/13/2026, 4:56:47 AM  
-**Categories:** Policy, Regulation, News  
-
-Crypto Council for Innovation's Ji Kim said this bipartisan lineup could develop durable rules that safeguard markets and support innovation.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175)
 
 ---
