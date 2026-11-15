@@ -11,7 +11,7 @@ count: 7
 
 ---
 
-## 1. Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave
+## 1. Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave
 
 **Author:** Stephen Alpher  
 **Published:** 11/14/2026, 4:33:29 PM  
