@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-11-15"
 date: "2026-11-15"
 source: "Cointelegraph"
-count: 5
+count: 7
 ---
 
 # Cointelegraph - 2026-11-15
 
-5 items collected.
+7 items collected.
 
 ---
 
-## 1. Enterprise blockchain is going to come back from the dead
+## 1. Jensen Huang weighs Nvidia comeback days after shock exit: FT
+
+**Author:** Cointelegraph by Felix Ng  
+**Published:** 11/15/2026, 11:47:45 PM  
+**Categories:** Latest News  
+
+Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support.
+
+📖 [Read original article](https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 11/15/2026, 10:50:59 PM  
+**Categories:** Magazine  
+
+Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.
+
+📖 [Read original article](https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Enterprise blockchain is going to come back from the dead
 
 **Author:** Cointelegraph by Paul Brody  
 **Published:** 11/15/2026, 2:30:00 PM  
@@ -23,7 +47,7 @@ With scalability, privacy tools and onchain liquidity improving, businesses may 
 
 ---
 
-## 2. Here’s what happened in crypto today
+## 4. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/15/2026, 11:18:48 AM  
@@ -35,7 +59,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 3. Bitcoin falls to four-month low near $62K as crypto selloff deepens
+## 5. Bitcoin falls to four-month low near $62K as crypto selloff deepens
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/15/2026, 10:23:17 AM  
@@ -47,7 +71,7 @@ The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 2
 
 ---
 
-## 4. Coinone warns of phishing, identity theft after customer data breach
+## 6. Coinone warns of phishing, identity theft after customer data breach
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/15/2026, 8:07:58 AM  
@@ -59,7 +83,7 @@ The South Korean crypto exchange said potentially exposed information includes p
 
 ---
 
-## 5. RWA protocol stUSDT winds down three years after $2.3B TVL peak
+## 7. RWA protocol stUSDT winds down three years after $2.3B TVL peak
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/15/2026, 6:27:26 AM  
