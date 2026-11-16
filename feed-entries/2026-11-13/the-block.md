@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-13"
 date: "2026-11-13"
 source: "The Block"
-count: 14
+count: 6
 ---
 
 # The Block - 2026-11-13
 
-14 items collected.
+6 items collected.
 
 ---
 
@@ -80,101 +80,5 @@ Hyperliquid’s share of open interest reached 11.7% across the platform and eig
 Kraken parent Payward’s third-quarter adjusted EBITDA fell about two-thirds year over year to $60 million, while funded accounts grew 37%.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721)
-
----
-
-## 7. Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains
-
-**Author:** Brian Danga  
-**Published:** 11/13/2026, 2:50:49 PM  
-**Categories:** Companies, Crypto Ecosystems, Equities, Layer 1s, Markets, Public Equities, Token Projects, Bitcoin, Crypto Treasuries, Earnings, News  
-
-Twenty One Capital reported $1.09 billion in Q3 net income, driven by Bitcoin gains, while posting a $4.8 million operating loss.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711)
-
----
-
-## 8. Ethereum and Layer 1s Explained
-
-**Author:** The Block Research  
-**Published:** 11/13/2026, 2:12:23 PM  
-**Categories:** 101, campus, Ethereum, Layer 1s, Smart contracts, News  
-
-Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability.
-
-📖 [Read original article](https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883)
-
----
-
-## 9. From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years
-
-**Author:** James Hunt  
-**Published:** 11/13/2026, 1:34:46 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Infrastructure, Layer 1s, Markets, Token Projects, Bitcoin, Mining, News  
-
-Two Bitcoin whale addresses moved 100 BTC worth $6.89 million after more than 16 years of dormancy on Friday.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698)
-
----
-
-## 10. UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems
-
-**Author:** Brian Danga  
-**Published:** 11/13/2026, 12:27:41 PM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Policy, Regulation, Web3, Tokenization, TradFi banks, News  
-
-Three central banks published findings from a cross-border FX settlement trial using Partior's synchronization prototype.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692)
-
----
-
-## 11. Thailand seeks $148,000 daily cap on certain stablecoin transfers to curb money laundering
-
-**Author:** Danny Park  
-**Published:** 11/13/2026, 10:16:04 AM  
-**Categories:** Asia, Companies, Crypto Ecosystems, Policy, Regulation, Stablecoins, Asian Regulation, News  
-
-The draft rules also require that stablecoins be transferred only between accounts or wallets belonging to the same person.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676)
-
----
-
-## 12. JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF
-
-**Author:** Brian Danga  
-**Published:** 11/13/2026, 9:59:16 AM  
-**Categories:** Companies, Crypto Ecosystems, Exchanges, Finance firms, Funds, Layer 1s, Markets, Metaverse & NFT, NFT Marketplaces, Public Equities, Token Projects, Bitcoin, Bitcoin ETF, BlackRock, Coinbase, JPMorgan, Strategy, News  
-
-JPMorgan reported 224,545 more Strategy shares in the third quarter as its BlackRock bitcoin ETF holdings climbed to 11.4 million shares.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671)
-
----
-
-## 13. DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi
-
-**Author:** Timmy Shen  
-**Published:** 11/13/2026, 9:32:39 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Legal, Policy, Regulation, Kalshi, Lawsuits, Prediction Markets, News  
-
-Arkansas previously sued Kalshi on Nov. 4, alleging that it operated an illegal gambling platform in the state.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669)
-
----
-
-## 14. Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters
-
-**Author:** Timmy Shen  
-**Published:** 11/13/2026, 6:23:43 AM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Layer 1s, Markets, Metaverse & NFT, People, People, People, People, People, People, Policy, Token Projects, Bitcoin, Ethereum, News  
-
-A total of $798 million in crypto positions has been liquidated over the past four hours, including $718.5 million in long positions.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643)
 
 ---
