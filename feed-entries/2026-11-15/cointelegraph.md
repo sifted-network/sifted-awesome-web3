@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-15"
 date: "2026-11-15"
 source: "Cointelegraph"
-count: 7
+count: 6
 ---
 
 # Cointelegraph - 2026-11-15
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ With scalability, privacy tools and onchain liquidity improving, businesses may 
 
 ---
 
-## 4. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/15/2026, 11:18:48 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 5. Bitcoin falls to four-month low near $62K as crypto selloff deepens
+## 4. Bitcoin falls to 4-month low near $62K as crypto selloff deepens
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/15/2026, 10:23:17 AM  
@@ -71,7 +59,7 @@ The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 2
 
 ---
 
-## 6. Coinone warns of phishing, identity theft after customer data breach
+## 5. Coinone warns of phishing, identity theft after customer data breach
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/15/2026, 8:07:58 AM  
@@ -83,7 +71,7 @@ The South Korean crypto exchange said potentially exposed information includes p
 
 ---
 
-## 7. RWA protocol stUSDT winds down three years after $2.3B TVL peak
+## 6. RWA protocol stUSDT winds down 3 years after $2.3B TVL peak
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/15/2026, 6:27:26 AM  
