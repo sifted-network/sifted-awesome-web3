@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-15"
 date: "2026-11-15"
 source: "CoinDesk"
-count: 3
+count: 4
 ---
 
 # CoinDesk - 2026-11-15
 
-3 items collected.
+4 items collected.
 
 ---
 
@@ -35,7 +35,19 @@ With ascendent Democrats ready to pursue their own crypto and tech agendas next 
 
 ---
 
-## 3. XRP crashes to its lowest since November 2024 as money leaves crypto
+## 3. Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs
+
+**Author:** Jamie Crawley,AI Boost  
+**Published:** 11/15/2026, 7:00:00 AM  
+**Categories:** Policy, ECB, Stablecoins, Tokenization, CBDC, News  
+
+ECB President Christine Lagarde will step down from her post in February 2027, and none of the primary candidates to succeed her are great fans of crypto.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs)
+
+---
+
+## 4. XRP crashes to its lowest since November 2024 as money leaves crypto
 
 **Author:** Omkar Godbole  
 **Published:** 11/15/2026, 2:50:57 AM  
