@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-13"
 date: "2026-11-13"
 source: "CoinDesk"
-count: 13
+count: 12
 ---
 
 # CoinDesk - 2026-11-13
 
-13 items collected.
+12 items collected.
 
 ---
 
@@ -152,17 +152,5 @@ Recent rapid redemptions explain the market swoon. Bitcoin's spot price fell bel
 A deal could be announced as soon as December, putting $2.1 billion of bitcoin under one roof, a sliver of what the combined group would be worth.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus)
-
----
-
-## 13. Bitcoin dips below $70,000 as Dollar Index hits 19-month high
-
-**Author:** Omkar Godbole  
-**Published:** 11/13/2026, 3:37:00 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace)
 
 ---
