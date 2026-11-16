@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-13"
 date: "2026-11-13"
 source: "The Defiant"
-count: 19
+count: 18
 ---
 
 # The Defiant - 2026-11-13
 
-19 items collected.
+18 items collected.
 
 ---
 
@@ -224,17 +224,5 @@ The proposed Nov. 24 upgrade adds asset-transfer and trading infrastructure, whi
 Ether, XRP and SOL also hit four-week lows on Coinbase, while bullish bets accounted for most tracked liquidations.
 
 📖 [Read original article](https://thedefiant.io/news/markets/bitcoin-breaks-below-69-000-as-selloff-sets-new-lows)
-
----
-
-## 19. Bitcoin Sinks to $70,600 as Four-Week Losses Deepen
-
-**Author:** The Defiant  
-**Published:** 11/13/2026, 12:57:09 AM  
-**Categories:** -  
-
-Coinbase recorded a fresh 28-day low Thursday evening, while ether continued to underperform bitcoin over matched one- and four-week windows.
-
-📖 [Read original article](https://thedefiant.io/news/markets/bitcoin-sinks-to-70-600-as-four-week-losses-deepen)
 
 ---
