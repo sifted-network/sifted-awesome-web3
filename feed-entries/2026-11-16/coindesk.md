@@ -2,16 +2,88 @@
 title: "CoinDesk - 2026-11-16"
 date: "2026-11-16"
 source: "CoinDesk"
-count: 13
+count: 19
 ---
 
 # CoinDesk - 2026-11-16
 
-13 items collected.
+19 items collected.
 
 ---
 
-## 1. Solana drops ‘beta’ label after more than six years
+## 1. Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid
+
+**Author:** Helene Braun  
+**Published:** 11/16/2026, 9:51:04 PM  
+**Categories:** Markets, Robinhood, News  
+
+Huaisong Xiang admitted using confidential crypto listing information to make $125,523 trading perpetual futures on Hyperliquid.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid)
+
+---
+
+## 2. Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off
+
+**Author:** Helene Braun  
+**Published:** 11/16/2026, 8:35:21 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+Rising bond yields, ETF outflows and forced selling are weighing on bitcoin as traders brace for more losses.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off)
+
+---
+
+## 3. U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans
+
+**Author:** Jesse Hamilton  
+**Published:** 11/16/2026, 6:54:19 PM  
+**Categories:** Policy, Regulation, Prediction Markets, Kalshi, Polymarket, News  
+
+The Commodity Futures Trading Commission directed platforms such as Kalshi to defy state bans, but the Democrats want it to reverse course, citing court orders.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans)
+
+---
+
+## 4. Lighter suspends all withdrawals after $10.4 million crypto exploit
+
+**Author:** Olivier Acuna  
+**Published:** 11/16/2026, 4:41:42 PM  
+**Categories:** Tech, Hack, Binance, News  
+
+The decentralized exchange blamed a leaked trading API key and said its smart contracts were unaffected, while investigators traced funds to Hyperliquid.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit)
+
+---
+
+## 5. Brazil's central bank faces backlash over stablecoin money laundering remarks
+
+**Author:** Francisco Rodrigues,AI Boost  
+**Published:** 11/16/2026, 3:54:11 PM  
+**Categories:** Finance, Brazil, Stablecoins, News  
+
+A central bank official reportedly said legitimate funds become tainted when moved into stablecoins, comparing the market to the informal "dólar-cabo" system.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks)
+
+---
+
+## 6. German parliament proposes crypto seizures without criminal charges
+
+**Author:** Olivier Acuna  
+**Published:** 11/16/2026, 3:44:59 PM  
+**Categories:** Policy, Germany, Regulation, Cryptocurrency, News  
+
+German lawyers said a proposed law allowing the seizure of assets worth more than 100,000 euros could impose a burden of proof on crypto holders rather than the authorities.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges)
+
+---
+
+## 7. Solana drops ‘beta’ label after more than six years
 
 **Author:** Shaurya Malwa  
 **Published:** 11/16/2026, 1:03:16 PM  
@@ -23,7 +95,7 @@ The blockchain is getting a shared version number. Wallets, transactions and app
 
 ---
 
-## 2. Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes
+## 8. Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes
 
 **Author:** Shaurya Malwa  
 **Published:** 11/16/2026, 12:55:46 PM  
@@ -35,7 +107,7 @@ CZ says Binance isn’t selling crypto and he has been buying. OKX founder Star 
 
 ---
 
-## 3. Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.
+## 9. Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.
 
 **Author:** Omkar Godbole  
 **Published:** 11/16/2026, 12:09:00 PM  
@@ -47,7 +119,7 @@ The price action runs counter to a crypto-market view that a cooling AI trade wo
 
 ---
 
-## 4. Singapore, Germany test cross-border payments to reduce settlement risk
+## 10. Singapore, Germany test cross-border payments to reduce settlement risk
 
 **Author:** Francisco Rodrigues  
 **Published:** 11/16/2026, 11:47:12 AM  
@@ -59,7 +131,7 @@ Zero-knowledge proofs let each ledger verify the other leg was locked, so neithe
 
 ---
 
-## 5. Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations
+## 11. Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 11/16/2026, 11:03:14 AM  
@@ -71,19 +143,19 @@ Bitcoin (BTC) is down 1.6% since midnight UTC at around $64,300, after falling t
 
 ---
 
-## 6. Live updates: Bitcoin holding weekend plunge as November losses deepen to 17%
+## 12. Live updates: Bitcoin trades near $65,000 as Nasdaq closes with 2.5% loss
 
-**Author:** James Van Straten  
+**Author:** James Van Straten,Stephen Alpher  
 **Published:** 11/16/2026, 9:34:18 AM  
 **Categories:** Tech, Bitcoin News, Live News, live_news  
 
-Strategy and Strive might be the only buyers left, and each — constrained by weak stock prices — made only modest purchases last week.
+Strategy and Strive might be the only buyers left in BTC, and each — constrained by weak stock prices — made only modest purchases last week.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide)
 
 ---
 
-## 7. FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead
+## 13. FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead
 
 **Author:** Francisco Rodrigues  
 **Published:** 11/16/2026, 9:23:07 AM  
@@ -95,7 +167,7 @@ Your look at what’s coming in the week starting Nov. 16.
 
 ---
 
-## 8. JPMorgan and DBS let clients move dollars across borders on weekends
+## 14. JPMorgan and DBS let clients move dollars across borders on weekends
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 11/16/2026, 8:46:00 AM  
@@ -107,7 +179,7 @@ DBS and JPMorgan have connected their blockchain-based deposit networks, letting
 
 ---
 
-## 9. Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum
+## 15. Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum
 
 **Author:** Shaurya Malwa  
 **Published:** 11/16/2026, 8:18:03 AM  
@@ -119,7 +191,7 @@ A proposed system would combine bulky digital signatures into a shared proof, he
 
 ---
 
-## 10. Bitcoin miners were hijacked and their BTC rewards redirected to an attacker
+## 16. Bitcoin miners were hijacked and their BTC rewards redirected to an attacker
 
 **Author:** Shaurya Malwa  
 **Published:** 11/16/2026, 7:51:15 AM  
@@ -131,7 +203,7 @@ Luxor said just over a dozen customers were affected and will be reimbursed afte
 
 ---
 
-## 11. Cardano holders vote down $5 million bid to buy warehouse copper
+## 17. Cardano holders vote down $5 million bid to buy warehouse copper
 
 **Author:** Shaurya Malwa  
 **Published:** 11/16/2026, 6:27:42 AM  
@@ -143,7 +215,7 @@ Toto Finance’s 22 million ADA treasury request expired Sunday with about 20 mi
 
 ---
 
-## 12. Trump administration to name Nvidia, OpenAI and several others as AI national champions
+## 18. Trump administration to name Nvidia, OpenAI and several others as AI national champions
 
 **Author:** Omkar Godbole  
 **Published:** 11/16/2026, 6:01:41 AM  
@@ -155,7 +227,7 @@ The Wall Street Journal reported that the move aims to help the firms expand ove
 
 ---
 
-## 13. Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000
+## 19. Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000
 
 **Author:** Omkar Godbole  
 **Published:** 11/16/2026, 5:01:17 AM  
