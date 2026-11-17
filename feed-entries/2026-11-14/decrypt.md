@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-11-14"
 date: "2026-11-14"
 source: "Decrypt"
-count: 4
+count: 3
 ---
 
 # Decrypt - 2026-11-14
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Four nonprofit advocacy groups want a California court to stop major AI develope
 Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.
 
 📖 [Read original article](https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street)
-
----
-
-## 4. OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto
-
-**Author:** Jose Antonio Lanz  
-**Published:** 11/14/2026, 2:01:02 PM  
-**Categories:** Artificial Intelligence  
-
-OpenAI’s new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete to control everyday online shopping by autonomous software.
-
-📖 [Read original article](https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto)
 
 ---
