@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-15"
 date: "2026-11-15"
 source: "Cointelegraph"
-count: 6
+count: 5
 ---
 
 # Cointelegraph - 2026-11-15
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 2
 The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.
 
 📖 [Read original article](https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. RWA protocol stUSDT winds down 3 years after $2.3B TVL peak
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/15/2026, 6:27:26 AM  
-**Categories:** Latest News  
-
-The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.
-
-📖 [Read original article](https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
