@@ -10,25 +10,25 @@
 | 2 | [mango](https://github.com/MangoNet-Labs/mango) | 269 | 74 | Rust | 1 | Mango Network is a Layer1 blockchain based on the Dpos consensus mechanism and supported by Move to build a transaction-based omni-chain infrastructure network. | 2025-06-21 |
 | 3 | [Mavryk-Wallet](https://github.com/MeoMunDep/Mavryk-Wallet) | 140 | 5 | Shell | 0 | Auto  connect wallet, send token, stake, create vault, deposit, earn, borrow, faucet token.  | 2025-09-26 |
 | 4 | [layer1](https://github.com/LNP-BP/layer1) | 66 | 12 | - | 2 | Paper on new bitcoin layer 1 design | 2023-10-04 |
-| 5 | [rpocket-MoneroOceanMinerSetup](https://github.com/Edgefireex/rpocket-MoneroOceanMinerSetup) | 50 | 0 | - | 0 | Fastest And Most Efficient XMR Mining Program (A MUST WATCH!!!) | 2026-11-14 |
-| 6 | [Image-Classifier](https://github.com/mudigosa/Image-Classifier) | 43 | 15 | Jupyter Notebook | 5 | Image Classifier  Going forward, AI algorithms will be incorporated into more and more everyday applications. For example, you might want to include an image classifier in a smartphone app. To do this... | 2019-02-01 |
-| 7 | [Seismic](https://github.com/MeoMunDep/Seismic) | 38 | 1 | Shell | 0 | Auto deploy nft, token, transfer faucet, lend, borrow, rent tokens, connect wallets.  | 2025-11-16 |
-| 8 | [XRPLEVM](https://github.com/MeoMunDep/XRPLEVM) | 31 | 0 | JavaScript | 0 | Auto deploy, send, burn, swap, bridge, add liquid pool, mint tokens.  | 2025-09-29 |
-| 9 | [3DP](https://github.com/3Dpass/3DP) | 30 | 21 | Rust | 8 | The Implementation of The Ledger of Things Node. Layer 1 decentralized blockchain platform for the tokenization of objects. Proof of Scan protocol. Useful smart-contracts and dApps.  | 2026-04-06 |
-| 10 | [OG-Labs](https://github.com/MeoMunDep/OG-Labs) | 25 | 0 | JavaScript | 0 | Auto swap, faucet. [100 STARS TO UNLOCK] | 2025-06-04 |
-| 11 | [k2-release](https://github.com/koii-network/k2-release) | 21 | 12 | Shell | 2 | K2 is the current settlement layer within Koii and provides the functionality of a message hub to other systems in the network. Thanks to the incredible work of the Solana Labs team, K2 is able to use... | 2025-01-05 |
+| 5 | [Image-Classifier](https://github.com/mudigosa/Image-Classifier) | 43 | 15 | Jupyter Notebook | 5 | Image Classifier  Going forward, AI algorithms will be incorporated into more and more everyday applications. For example, you might want to include an image classifier in a smartphone app. To do this... | 2019-02-01 |
+| 6 | [Seismic](https://github.com/MeoMunDep/Seismic) | 38 | 1 | Shell | 0 | Auto deploy nft, token, transfer faucet, lend, borrow, rent tokens, connect wallets.  | 2025-11-16 |
+| 7 | [XRPLEVM](https://github.com/MeoMunDep/XRPLEVM) | 31 | 0 | JavaScript | 0 | Auto deploy, send, burn, swap, bridge, add liquid pool, mint tokens.  | 2025-09-29 |
+| 8 | [3DP](https://github.com/3Dpass/3DP) | 30 | 21 | Rust | 8 | The Implementation of The Ledger of Things Node. Layer 1 decentralized blockchain platform for the tokenization of objects. Proof of Scan protocol. Useful smart-contracts and dApps.  | 2026-04-06 |
+| 9 | [OG-Labs](https://github.com/MeoMunDep/OG-Labs) | 25 | 0 | JavaScript | 0 | Auto swap, faucet. [100 STARS TO UNLOCK] | 2025-06-04 |
+| 10 | [k2-release](https://github.com/koii-network/k2-release) | 21 | 12 | Shell | 2 | K2 is the current settlement layer within Koii and provides the functionality of a message hub to other systems in the network. Thanks to the incredible work of the Solana Labs team, K2 is able to use... | 2025-01-05 |
+| 11 | [rpocket-MoneroOceanMinerSetup](https://github.com/Edgefireex/rpocket-MoneroOceanMinerSetup) | 21 | 0 | - | 0 | Fastest And Most Efficient XMR Mining Program (A MUST WATCH!!!) | 2026-11-14 |
 | 12 | [Layer1](https://github.com/kostasgrlondon/Layer1) | 19 | 0 | - | 0 |  | 2024-05-25 |
 | 13 | [blockdag-scripts](https://github.com/BlockdagNetworkLabs/blockdag-scripts) | 18 | 10 | Shell | 56 | BlockDAG Installer for Linux/Ubunutu and MacOS | 2026-01-09 |
 | 14 | [alphanumeric](https://github.com/OSXBasedAnon/alphanumeric) | 18 | 4 | Rust | 0 | Next generation Rust powered blockchain technology | 2026-11-06 |
 | 15 | [Reputation-Builder](https://github.com/MeoMunDep/Reputation-Builder) | 18 | 0 | Shell | 0 | Auto do tasks, farm, referrals, faucet, deploy token, send token.  | 2025-09-30 |
-| 16 | [aperod-node](https://github.com/aperod-network/aperod-node) | 16 | 2 | Go | 0 | Aperod (APRO) — Institutional-grade privacy Layer-1 built in Go. RingCT & MLSAG engine for confidential P2P payments, Telegram Mini-Apps & Web3 games. | 2026-11-14 |
+| 16 | [aperod-node](https://github.com/aperod-network/aperod-node) | 16 | 2 | Go | 0 | Aperod (APRO) — Institutional-grade privacy Layer-1 built in Go. RingCT & MLSAG engine for confidential P2P payments, Telegram Mini-Apps & Web3 games. | 2026-11-16 |
 | 17 | [shardeum-docs](https://github.com/shardeum/shardeum-docs) | 14 | 9 | MDX | 0 | Official Shardeum Documentation | 2026-11-12 |
 | 18 | [QNet-Blockchain](https://github.com/AIQnetLab/QNet-Blockchain) | 13 | 0 | Rust | 1 | Post-Quantum Decentralized Network | 2026-11-03 |
 | 19 | [Acki-Nacki](https://github.com/MeoMunDep/Acki-Nacki) | 12 | 0 | Shell | 0 | Auto farm, do tasks, update mamaboard, claim frens points, claim boost points. | 2026-06-15 |
 | 20 | [Injective](https://github.com/MeoMunDep/Injective) | 11 | 0 | - | 0 | Auto stake, swap, wrap, supply, withdraw, borrow, repay, add liquidity. [FOR SALE] | 2025-12-23 |
 | 21 | [Layer1](https://github.com/anyashechka/Layer1) | 9 | 0 | - | 0 |  | 2024-06-06 |
-| 22 | [pcoin](https://github.com/pars5555/pcoin) | 9 | 1 | C++ | 7 | PCoin (PCN) - the coin anyone can mine. Independent Layer-1 blockchain: Bitcoin Core fork with RandomX CPU-friendly proof of work. | 2026-11-12 |
-| 23 | [safrochain-node](https://github.com/Safrochain-Org/safrochain-node) | 8 | 8 | Go | 2 | Core node of Safrochain, a live Cosmos SDK Layer 1 (safrochain-1): Go, CometBFT, IBC and CosmWasm. | 2026-07-15 |
+| 22 | [pcoin](https://github.com/pars5555/pcoin) | 9 | 1 | C++ | 7 | PCoin (PCN) - the coin anyone can mine. Independent Layer-1 blockchain: Bitcoin Core fork with RandomX CPU-friendly proof of work. | 2026-11-17 |
+| 23 | [safrochain-node](https://github.com/Safrochain-Org/safrochain-node) | 8 | 8 | Go | 2 | Core node of Safrochain, a live Cosmos SDK Layer 1 (safrochain-1): Go, CometBFT, IBC and CosmWasm. | 2026-11-16 |
 | 24 | [hikmalayer-core](https://github.com/bestowerlabs/hikmalayer-core) | 8 | 2 | Rust | 0 | Hikmalayer Core is a hybrid Layer‑1 blockchain prototype that combines Proof‑of‑Stake (validator selection) with Proof‑of‑Work (block finalization). It is developed by Muhammad Ayan Rao director Besto... | 2026-09-16 |
 | 25 | [MegaETH](https://github.com/MeoMunDep/MegaETH) | 8 | 0 | JavaScript | 0 | Auto all. | 2025-06-03 |
 | 26 | [tinydns](https://github.com/laincloud/tinydns) | 7 | 8 | Go | 0 | Tinydns is a LAIN's layer1 application providing internal DNS resolving service | 2018-02-09 |
@@ -71,8 +71,8 @@
 | 63 | [alephium-standalone](https://github.com/touilleio/alephium-standalone) | 2 | 5 | HCL | 0 | Standalone, fast-sync (via snapshot from https://archives.alephium.org) Alephium full node pre-configured for the mainnet | 2026-10-21 |
 | 64 | [swisstronik](https://github.com/sinak1023/swisstronik) | 2 | 0 | JavaScript | 0 | swisstronik is layer1 solution | 2026-07-23 |
 | 65 | [app-localchain](https://github.com/tiki-deprecated/app-localchain) | 2 | 1 | Dart | 0 | TIKI's layer1 single user blockchain | 2022-06-21 |
-| 66 | [upow](https://github.com/upowai/upow) | 2 | 2 | Python | 0 | uPow, which stands for Useful Power of Work, is a Layer1 implementation  closely following the original Nakamoto consensus. | 2026-06-17 |
-| 67 | [pharos-layer1-](https://github.com/19seniman/pharos-layer1-) | 2 | 0 | JavaScript | 0 |  | 2025-11-26 |
+| 66 | [pharos-layer1-](https://github.com/19seniman/pharos-layer1-) | 2 | 0 | JavaScript | 0 |  | 2025-11-26 |
+| 67 | [upow](https://github.com/upowai/upow) | 2 | 2 | Python | 0 | uPow, which stands for Useful Power of Work, is a Layer1 implementation  closely following the original Nakamoto consensus. | 2026-06-17 |
 | 68 | [TOMB](https://github.com/phantasma-io-archive/TOMB) | 2 | 11 | C# | 5 | TOMB smart contract compiler for Phantasma platform | 2024-09-03 |
 | 69 | [kaia-eliza-plugin](https://github.com/kaiachain/kaia-eliza-plugin) | 2 | 2 | TypeScript | 0 | Kaia Plugin for ElizaOS | 2025-04-16 |
 | 70 | [Layer1-Network-Health-Check](https://github.com/yzmar4real/Layer1-Network-Health-Check) | 2 | 0 | Python | 0 | Python Code that allows Network Engineers to run through their IOS,IOSXE and NXOS infrsatructure for layer 1 issues. | 2020-12-10 |
@@ -86,8 +86,8 @@
 | 78 | [NEV369](https://github.com/Paulio88/NEV369) | 2 | 0 | Rust | 0 | NEV369 is a high-performance, Rust-based Layer-1 blockchain featuring a fixed 369M supply, asynchronous Actix-web networking, Sled persistence, and post-quantum Dilithium signatures. Fully open-source... | 2026-08-20 |
 | 79 | [vtt](https://github.com/vettor-chain/vtt) | 2 | 0 | Rust | 0 | Layer 1 blockchain for tokenizing real-world assets. DPoS consensus, WASM smart contracts, built-in DEX, cross-chain bridge. | 2026-04-19 |
 | 80 | [nova-shield-chain](https://github.com/NovaShieldDev/nova-shield-chain) | 2 | 0 | Rust | 0 | Layer 1 blockchain in Rust. BFT + GRANDPA + Snowball consensus, Groth16 ZK proofs, threshold MPC, encrypted mempool, native inheritance protocol. Mainnet live. | 2026-10-12 |
-| 81 | [Bitmask-Snap](https://github.com/bitmask-stack/Bitmask-Snap) | 2 | 1 | TypeScript | 0 | Built at ETHDENVER2024, The BitMask <> MetaMask Snap will offer seamless and secure access to the Bitcoin ecosystem for 35 million MetaMask users. This encompasses BTC layer1, the Lightning network, B... | 2024-05-17 |
-| 82 | [layer2-course](https://github.com/Web3Arabs/layer2-course) | 2 | 0 | - | 0 | محتوى الدورة التدريبية مقدمة إلى Layer2 و Rollups في Web3Arabs - الأفضل للمبتدئين للحصول على نظرة عامة حول حلول الطبقة الثانية وتقنيات Rollups للتوسع في Ethereum | 2023-09-18 |
+| 81 | [layer2-course](https://github.com/Web3Arabs/layer2-course) | 2 | 0 | - | 0 | محتوى الدورة التدريبية مقدمة إلى Layer2 و Rollups في Web3Arabs - الأفضل للمبتدئين للحصول على نظرة عامة حول حلول الطبقة الثانية وتقنيات Rollups للتوسع في Ethereum | 2023-09-18 |
+| 82 | [Bitmask-Snap](https://github.com/bitmask-stack/Bitmask-Snap) | 2 | 1 | TypeScript | 0 | Built at ETHDENVER2024, The BitMask <> MetaMask Snap will offer seamless and secure access to the Bitcoin ecosystem for 35 million MetaMask users. This encompasses BTC layer1, the Lightning network, B... | 2024-05-17 |
 | 83 | [eventify](https://github.com/lbkolev/eventify) | 2 | 0 | Rust | 0 | EVM event pipeline | 2024-03-13 |
 | 84 | [alethea-protocol](https://github.com/alethea-protocol/alethea-protocol) | 2 | 0 | - | 0 | Post-Quantum, Bitcoin-Anchored Layer 1 for Global RWA Collateralization \| $11.46T Market | 2025-10-29 |
 | 85 | [S0cket](https://github.com/batuafk/S0cket) | 2 | 0 | Python | 0 | Art of network | 2024-09-15 |
@@ -99,7 +99,7 @@
 | 91 | [dsp-layer1-gsm-processing-c6678](https://github.com/tvmanus/dsp-layer1-gsm-processing-c6678) | 1 | 2 | C | 0 | Multicore GSM layer1 singal processing  | 2016-01-13 |
 | 92 | [BlockChain](https://github.com/Samaria-Glen/BlockChain) | 1 | 0 | C# | 0 | Huobi Layer1 Cubechain | 2023-06-12 |
 | 93 | [Layer1](https://github.com/doadmo/Layer1) | 1 | 0 | - | 0 |  | 2024-01-05 |
-| 94 | [univa-network](https://github.com/NIONTOKEN/univa-network) | 1 | 0 | HTML | 1 | yeni nesil layer1 | 2026-11-15 |
+| 94 | [univa-network](https://github.com/NIONTOKEN/univa-network) | 1 | 0 | HTML | 1 | yeni nesil layer1 | 2026-11-16 |
 | 95 | [muse-integration](https://github.com/AsmiK222/muse-integration) | 1 | 0 | Python | 0 | layer1,2,3 integration | 2026-07-12 |
 | 96 | [layer1](https://github.com/pfrazee/layer1) | 1 | 0 | JavaScript | 0 | An RTS-like interface to Web services | 2014-04-11 |
 | 97 | [layer1](https://github.com/natalymarcela11/layer1) | 1 | 0 | - | 0 |  | 2023-08-23 |
