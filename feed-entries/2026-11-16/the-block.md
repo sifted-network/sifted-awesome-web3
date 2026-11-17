@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-16"
 date: "2026-11-16"
 source: "The Block"
-count: 20
+count: 9
 ---
 
 # The Block - 2026-11-16
 
-20 items collected.
+9 items collected.
 
 ---
 
@@ -116,137 +116,5 @@ Standard Chartered said Japan's bond tokenization plans could help the tokenized
 Mert Mumtaz sees privacy becoming standard on blockchains, much like HTTPS did for the modern internet.
 
 📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-11-16-privacy-solana-non-negotiable-institutional-adoption-mert-mumtaz-says-441363)
-
----
-
-## 10. Supreme Court rejects Custodia Bank’s bid for Fed master account
-
-**Author:** Sarah Wynn  
-**Published:** 11/16/2026, 5:15:10 PM  
-**Categories:** Central Banks, Macro, Markets, People, Policy, Regulation, Federal Reserve, News  
-
-The Supreme Court has said it would not take up a Custodia Bank's challenge to secure a Federal Reserve master account.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376)
-
----
-
-## 11. Boris Johnson backs tokenization months after likening bitcoin to a ‘Ponzi scheme’
-
-**Author:** James Hunt  
-**Published:** 11/16/2026, 4:49:23 PM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, Policy, Regulation, Token Projects, Web3, Bitcoin, Solana, Tokenization, News  
-
-Boris Johnson backed blockchain and tokenization at Solana Breakpoint but reiterated his concerns about crypto speculation.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368)
-
----
-
-## 12. DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days
-
-**Author:** Jason Shubnell  
-**Published:** 11/16/2026, 4:16:17 PM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Layer 1s, Markets, Public Equities, Token Projects, Crypto Treasuries, Solana, News  
-
-DeFi Development added 9,482 SOL last week, lifting its Solana treasury to about 2.62 million tokens in its 10th straight week of growth.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361)
-
----
-
-## 13. Tom Lee says Ethereum’s ‘waterfall decline in price’ defies fundamentals as Bitmine adds 7,653 ETH
-
-**Author:** Brian Danga  
-**Published:** 11/16/2026, 3:00:18 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Layer 1s, Markets, Metaverse & NFT, People, People, People, People, People, People, Policy, Public Equities, Token Projects, Crypto Treasuries, Ethereum, Tom Lee, News  
-
-Bitmine acquired 7,653 ETH as Tom Lee questioned the rate of ether's recent decline against improving institutional developments.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904)
-
----
-
-## 14. Layer 2 Scaling Explained
-
-**Author:** The Block Research  
-**Published:** 11/16/2026, 2:56:48 PM  
-**Categories:** 101, campus, Ethereum, layer 2 scaling, Rollups, News  
-
-Layer 2 101 explains why blockchains need to scale and how Layer 2s help. It covers rollups, sidechains and appchains, monolithic vs modular design, Layer 2 tokens and incentives, and the trade-offs between speed, cost and security.
-
-📖 [Read original article](https://www.theblock.co/learn/basics/layer-2-scaling-explained-436103)
-
----
-
-## 15. Bitwise CIO says bitcoin may fall further in the near term but still calls it the best risk-adjusted trade of the next decade
-
-**Author:** James Hunt  
-**Published:** 11/16/2026, 2:52:43 PM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, Token Projects, Bitcoin, News  
-
-Bitwise CIO Matt Hougan said bitcoin could fall further in the near term but stood by his bullish long-term outlook.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-11-16-bitwise-cio-says-bitcoin-may-fall-further-in-the-near-term-but-still-calls-it-the-best-risk-adjusted-trade-of-the-next-decade-440901)
-
----
-
-## 16. ‘This dip could use a little orange’: Michael Saylor’s Strategy buys another 485 BTC for $33 million as bitcoin tumbles
-
-**Author:** James Hunt  
-**Published:** 11/16/2026, 1:13:14 PM  
-**Categories:** Companies, Crypto Ecosystems, Layer 1s, Markets, People, Public Equities, Token Projects, Bitcoin, Michael Saylor, Strategy, News  
-
-Strategy's latest acquisitions came during a week that saw bitcoin drop to its lowest level in four months.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886)
-
----
-
-## 17. Solana drops ‘mainnet beta’ label and adopts protocol version 1.0
-
-**Author:** Brian Danga  
-**Published:** 11/16/2026, 12:30:35 PM  
-**Categories:** Crypto Ecosystems, Layer 1s, Markets, Token Projects, Solana, News  
-
-The Solana Foundation retired the network’s “mainnet beta” label and introduced Solana 1.0 as a shared protocol version.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885)
-
----
-
-## 18. Upbit parent Dunamu posts $14 million Q3 net loss as revenue falls 61%
-
-**Author:** Danny Park  
-**Published:** 11/16/2026, 10:46:39 AM  
-**Categories:** Companies, News  
-
-Upbit operator Dunamu posted a net loss of $13.8 million in Q3, swinging from $177 million in profit the same quarter last year.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-16-upbit-parent-dunamu-q3-net-loss-440876)
-
----
-
-## 19. Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale
-
-**Author:** Brian Danga  
-**Published:** 11/16/2026, 10:29:30 AM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Layer 1s, Markets, Metaverse & NFT, People, People, People, People, People, People, Policy, Token Projects, Ethereum, News  
-
-Buterin defended Ethereum's proposed gas repricing, citing the need to increase transaction capacity without compromising decentralization.
-
-📖 [Read original article](https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870)
-
----
-
-## 20. DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore
-
-**Author:** Timmy Shen  
-**Published:** 11/16/2026, 9:26:39 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, Finance firms, Policy, Regulation, Web3, JPMorgan, Tokenization, TradFi banks, News  
-
-Ant International is their first client, deploying the service for treasury and liquidity management across its entities in both markets.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854)
 
 ---
