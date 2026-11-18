@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-16"
 date: "2026-11-16"
 source: "Cointelegraph"
-count: 16
+count: 10
 ---
 
 # Cointelegraph - 2026-11-16
 
-16 items collected.
+10 items collected.
 
 ---
 
@@ -128,77 +128,5 @@ Zodiac’s co-founder said a likely compromised key and overly permissive wallet
 Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcement.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Zelle picks Solana for ZelleUSD stablecoin and international payments
-
-**Author:** Cointelegraph by Isabelle Castro  
-**Published:** 11/16/2026, 2:55:46 PM  
-**Categories:** Latest News  
-
-Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts.
-
-📖 [Read original article](https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Lighter recovers $5M after $10M exploit linked to compromised API keys
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/16/2026, 2:19:50 PM  
-**Categories:** Latest News  
-
-Lighter restored withdrawals after recovering approximately $5 million in USDC, while blockchain analysts traced $10.4 million in funds moved during the exploit.
-
-📖 [Read original article](https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Banks are banning AI agents over security... and competition concerns
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 11/16/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-AI agents are set to automate everyday banking tasks — but banks aren’t ready to give up control of the customer relationship just yet.
-
-📖 [Read original article](https://cointelegraph.com/magazine/banks-are-banning-ai-agents-over-security-and-competition-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 11/16/2026, 1:29:11 PM  
-**Categories:** Latest News  
-
-Strategy bought 485 Bitcoin for $33.4 million and spent $228.1 million repurchasing STRC preferred shares, largely funded by new common stock sales.
-
-📖 [Read original article](https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/16/2026, 1:00:00 PM  
-**Categories:** Latest News  
-
-Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Binance Card or QR Pay.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. HKMA, Swift explore tokenized deposits for cross-border bank payments
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/16/2026, 12:54:51 PM  
-**Categories:** Latest News  
-
-HKMA and Swift will explore linking Project Ensemble with Swift’s ledger for cross-border payments using tokenized deposits in multiple currencies.
-
-📖 [Read original article](https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
