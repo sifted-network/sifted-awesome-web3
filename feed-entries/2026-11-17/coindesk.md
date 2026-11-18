@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-17"
 date: "2026-11-17"
 source: "CoinDesk"
-count: 11
+count: 6
 ---
 
 # CoinDesk - 2026-11-17
 
-11 items collected.
+6 items collected.
 
 ---
 
@@ -80,65 +80,5 @@ Waller suggested the Federal Reserve could provide trusted rails for emerging in
 Hong Kong and Swift expanded their efforts to connect tokenized bank deposits across currencies, building on earlier work involving digital central bank money.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed)
-
----
-
-## 7. Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps
-
-**Author:** Shaurya Malwa  
-**Published:** 11/17/2026, 1:02:56 PM  
-**Categories:** Tech, Ethereum News, News  
-
-In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts)
-
----
-
-## 8. Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps
-
-**Author:** Omkar Godbole  
-**Published:** 11/17/2026, 1:00:00 PM  
-**Categories:** Markets, Derivatives, Real World Assets, DEX, DeFi, News  
-
-Grvt’s new Stable Funding Perps tie the cost of holding commodities trades to traditional-market financing costs, rather than volatile crypto-style funding.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps)
-
----
-
-## 9. Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows
-
-**Author:** Omkar Godbole  
-**Published:** 11/17/2026, 12:16:53 PM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Nov. 17, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows)
-
----
-
-## 10. Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump
-
-**Author:** Francisco Rodrigues,AI Boost  
-**Published:** 11/17/2026, 12:00:55 PM  
-**Categories:** Finance, Bitcoin Mining, News  
-
-The fund swapped its common stock in Bloom Energy, Nebius and SanDisk for call options, keeping its bet on AI power, computing and memory.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump)
-
----
-
-## 11. Bitcoin remains penned in near $64,000 even as ETF outflow streak ends
-
-**Author:** Oliver Knight,Omkar Godbole  
-**Published:** 11/17/2026, 11:36:07 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with its bounce from the weekend selloff stalled and pressure building on all fronts.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends)
 
 ---
