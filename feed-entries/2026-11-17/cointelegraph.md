@@ -2,19 +2,19 @@
 title: "Cointelegraph - 2026-11-17"
 date: "2026-11-17"
 source: "Cointelegraph"
-count: 14
+count: 20
 ---
 
 # Cointelegraph - 2026-11-17
 
-14 items collected.
+20 items collected.
 
 ---
 
 ## 1. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Bryan O'Shea  
-**Published:** 11/17/2026, 2:54:40 PM  
+**Published:** 11/17/2026, 10:37:51 PM  
 **Categories:** Latest News  
 
 Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
@@ -23,7 +23,79 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Solana Foundation takes majority interest in crypto data firm CoinGecko
+## 2. CFTC halts some Kalshi Trump mention markets over manipulation concerns
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/17/2026, 10:20:04 PM  
+**Categories:** Latest News  
+
+The CFTC stayed Kalshi’s Trump-related mention markets after raising concerns about manipulation risks, giving the platform until Dec. 11 to defend its contracts.
+
+📖 [Read original article](https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Maple Finance CEO targets up to $15B in assets by the end of 2027
+
+**Author:** Cointelegraph by Jona Jaupi  
+**Published:** 11/17/2026, 9:56:35 PM  
+**Categories:** Latest News  
+
+Sidney Powell aims to reach $15 billion in assets under management by the end of 2027 as the firm looks to expand into tokenized lending and traditional finance.
+
+📖 [Read original article](https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/17/2026, 8:05:04 PM  
+**Categories:** Latest News  
+
+Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border stablecoin transfers to Ukraine continued amid the ongoing war.
+
+📖 [Read original article](https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Lighter incident exposes risks beyond withdrawal controls
+
+**Author:** Cointelegraph by Adrian Zmudzinski  
+**Published:** 11/17/2026, 5:51:53 PM  
+**Categories:** Latest News  
+
+Crypto platforms need enforceable limits on every route an API key can use to transfer value, including trades, internal transfers and shared pools.
+
+📖 [Read original article](https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Fed’s Waller cites Binance hack in warning over tokenized finance
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/17/2026, 5:39:41 PM  
+**Categories:** Latest News  
+
+Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions as traditional financial assets move onto blockchains.
+
+📖 [Read original article](https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 11/17/2026, 4:39:43 PM  
+**Categories:** Markets  
+
+Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 as traders brace for volatility over Q3 earnings.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Solana Foundation takes majority interest in crypto data firm CoinGecko
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/17/2026, 2:45:49 PM  
@@ -35,7 +107,7 @@ Solana Foundation now holds a majority interest in CoinGecko, its product chief 
 
 ---
 
-## 3. Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi
+## 9. Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 11/17/2026, 1:30:00 PM  
@@ -47,7 +119,7 @@ Dragonfly’s Haseeb Qureshi says Bitcoin could reach $400,000 by 2030 but doubt
 
 ---
 
-## 4. ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results
+## 10. ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/17/2026, 1:12:10 PM  
@@ -59,7 +131,7 @@ ARK bought shares in Block, Circle and Coinbase worth about $39.9 million at Mon
 
 ---
 
-## 5. Revolut plans four blockchain-based funds for private markets, chair says
+## 11. Revolut plans four blockchain-based funds for private markets, chair says
 
 **Author:** Cointelegraph by Isabelle Castro  
 **Published:** 11/17/2026, 12:24:20 PM  
@@ -71,7 +143,7 @@ Citing a looming liquidity crunch, Martin Gilbert said blockchain could help bri
 
 ---
 
-## 6. US senators seek SEC answers on tokenized stock money laundering risks
+## 12. US senators seek SEC answers on tokenized stock money laundering risks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/17/2026, 11:36:26 AM  
@@ -83,7 +155,7 @@ Four Democratic senators asked who would be responsible for tokenized shares tra
 
 ---
 
-## 7. BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear
+## 13. BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/17/2026, 11:18:18 AM  
@@ -95,7 +167,7 @@ BlackRock’s Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billio
 
 ---
 
-## 8. Bitcoin realized loss metric beats June high as open interest eyes 2-year low
+## 14. Bitcoin realized loss metric beats June high as open interest eyes 2-year low
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/17/2026, 11:14:05 AM  
@@ -107,7 +179,7 @@ Bitcoin short-term holders’ onchain spending notched the largest proportion of
 
 ---
 
-## 9. Google says hackers use AI agents to find and exploit software flaws
+## 15. Google says hackers use AI agents to find and exploit software flaws
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/17/2026, 10:05:59 AM  
@@ -119,7 +191,7 @@ Google says attackers are using AI agents to find and exploit software flaws aut
 
 ---
 
-## 10. US judge clears brothers in $25M Ethereum MEV case after mistrial
+## 16. US judge clears brothers in $25M Ethereum MEV case after mistrial
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/17/2026, 9:30:05 AM  
@@ -131,7 +203,7 @@ Judge Jessica Clarke said the transactions did not involve false promises, but t
 
 ---
 
-## 11. Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps
+## 17. Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/17/2026, 9:08:32 AM  
@@ -143,7 +215,7 @@ Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdin
 
 ---
 
-## 12. Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme
+## 18. Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/17/2026, 6:35:19 AM  
@@ -155,7 +227,7 @@ The former Robinhood engineer used confidential information about upcoming Robin
 
 ---
 
-## 13. Trezor customer data exposed in 3rd partner breach this year
+## 19. Trezor customer data exposed in 3rd partner breach this year
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/17/2026, 3:46:22 AM  
@@ -167,7 +239,7 @@ Trezor warned an attacker has been able to access customer names, phone numbers 
 
 ---
 
-## 14. Hackers inject credit card, crypto-stealing malware into 178 major websites
+## 20. Hackers inject credit card, crypto-stealing malware into 178 major websites
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/17/2026, 1:02:05 AM  
