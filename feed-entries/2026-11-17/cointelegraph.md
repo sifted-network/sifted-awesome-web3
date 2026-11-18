@@ -2,28 +2,16 @@
 title: "Cointelegraph - 2026-11-17"
 date: "2026-11-17"
 source: "Cointelegraph"
-count: 20
+count: 17
 ---
 
 # Cointelegraph - 2026-11-17
 
-20 items collected.
+17 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Bryan O'Shea  
-**Published:** 11/17/2026, 10:37:51 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. CFTC halts some Kalshi Trump mention markets over manipulation concerns
+## 1. CFTC halts some Kalshi Trump mention markets over manipulation concerns
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/17/2026, 10:20:04 PM  
@@ -35,7 +23,7 @@ The CFTC stayed Kalshi’s Trump-related mention markets after raising concerns 
 
 ---
 
-## 3. Maple Finance CEO targets up to $15B in assets by the end of 2027
+## 2. Maple Finance CEO targets up to $15B in assets by the end of 2027
 
 **Author:** Cointelegraph by Jona Jaupi  
 **Published:** 11/17/2026, 9:56:35 PM  
@@ -47,7 +35,7 @@ Sidney Powell aims to reach $15 billion in assets under management by the end of
 
 ---
 
-## 4. Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins
+## 3. Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/17/2026, 8:05:04 PM  
@@ -59,7 +47,7 @@ Chainalysis found that Eastern Europe recorded the steepest decline in crypto ac
 
 ---
 
-## 5. Lighter incident exposes risks beyond withdrawal controls
+## 4. Lighter incident exposes risks beyond withdrawal controls
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 11/17/2026, 5:51:53 PM  
@@ -71,7 +59,7 @@ Crypto platforms need enforceable limits on every route an API key can use to tr
 
 ---
 
-## 6. Fed’s Waller cites Binance hack in warning over tokenized finance
+## 5. Fed’s Waller cites Binance hack in warning over tokenized finance
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/17/2026, 5:39:41 PM  
@@ -83,7 +71,7 @@ Fed Governor Christopher Waller questioned who bears responsibility for fraud, c
 
 ---
 
-## 7. Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings
+## 6. Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/17/2026, 4:39:43 PM  
@@ -95,7 +83,7 @@ Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 a
 
 ---
 
-## 8. Solana Foundation takes majority interest in crypto data firm CoinGecko
+## 7. Solana Foundation takes majority interest in crypto data firm CoinGecko
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/17/2026, 2:45:49 PM  
@@ -107,7 +95,7 @@ Solana Foundation now holds a majority interest in CoinGecko, its product chief 
 
 ---
 
-## 9. Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi
+## 8. Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi
 
 **Author:** Cointelegraph by Yohan Yun  
 **Published:** 11/17/2026, 1:30:00 PM  
@@ -119,7 +107,7 @@ Dragonfly’s Haseeb Qureshi says Bitcoin could reach $400,000 by 2030 but doubt
 
 ---
 
-## 10. ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results
+## 9. ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/17/2026, 1:12:10 PM  
@@ -131,7 +119,7 @@ ARK bought shares in Block, Circle and Coinbase worth about $39.9 million at Mon
 
 ---
 
-## 11. Revolut plans four blockchain-based funds for private markets, chair says
+## 10. Revolut plans four blockchain-based funds for private markets, chair says
 
 **Author:** Cointelegraph by Isabelle Castro  
 **Published:** 11/17/2026, 12:24:20 PM  
@@ -143,7 +131,7 @@ Citing a looming liquidity crunch, Martin Gilbert said blockchain could help bri
 
 ---
 
-## 12. US senators seek SEC answers on tokenized stock money laundering risks
+## 11. US senators seek SEC answers on tokenized stock money laundering risks
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/17/2026, 11:36:26 AM  
@@ -155,7 +143,7 @@ Four Democratic senators asked who would be responsible for tokenized shares tra
 
 ---
 
-## 13. BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear
+## 12. BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/17/2026, 11:18:18 AM  
@@ -167,7 +155,7 @@ BlackRock’s Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billio
 
 ---
 
-## 14. Bitcoin realized loss metric beats June high as open interest eyes 2-year low
+## 13. Bitcoin realized loss metric beats June high as open interest eyes 2-year low
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/17/2026, 11:14:05 AM  
@@ -179,7 +167,7 @@ Bitcoin short-term holders’ onchain spending notched the largest proportion of
 
 ---
 
-## 15. Google says hackers use AI agents to find and exploit software flaws
+## 14. Google says hackers use AI agents to find and exploit software flaws
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/17/2026, 10:05:59 AM  
@@ -191,7 +179,7 @@ Google says attackers are using AI agents to find and exploit software flaws aut
 
 ---
 
-## 16. US judge clears brothers in $25M Ethereum MEV case after mistrial
+## 15. US judge clears brothers in $25M Ethereum MEV case after mistrial
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/17/2026, 9:30:05 AM  
@@ -203,7 +191,7 @@ Judge Jessica Clarke said the transactions did not involve false promises, but t
 
 ---
 
-## 17. Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps
+## 16. Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/17/2026, 9:08:32 AM  
@@ -215,7 +203,7 @@ Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdin
 
 ---
 
-## 18. Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme
+## 17. Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/17/2026, 6:35:19 AM  
@@ -224,29 +212,5 @@ Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdin
 The former Robinhood engineer used confidential information about upcoming Robinhood token listings to trade on Hyperliquid.
 
 📖 [Read original article](https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Trezor customer data exposed in 3rd partner breach this year
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/17/2026, 3:46:22 AM  
-**Categories:** Latest News  
-
-Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers.
-
-📖 [Read original article](https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Hackers inject credit card, crypto-stealing malware into 178 major websites
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/17/2026, 1:02:05 AM  
-**Categories:** Latest News  
-
-Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors’ crypto and credit card details, according to security researchers.
-
-📖 [Read original article](https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
