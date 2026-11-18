@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-11-16"
 date: "2026-11-16"
 source: "Decrypt"
-count: 13
+count: 4
 ---
 
 # Decrypt - 2026-11-16
 
-13 items collected.
+4 items collected.
 
 ---
 
@@ -56,113 +56,5 @@ Bitcoin fell near $62,100 as forced liquidations swept crypto markets. ETF withd
 Luxor said hackers redirected hashrate from just over a dozen client accounts through its Commander tool, and its CEO blamed a “sophisticated AI-enabled vector.”
 
 📖 [Read original article](https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor)
-
----
-
-## 5. Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip
-
-**Author:** Decrypt Staff  
-**Published:** 11/16/2026, 8:36:03 PM  
-**Categories:** , Markets  
-
-The firm’s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a “waterfall” drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO.
-
-📖 [Read original article](https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys)
-
----
-
-## 6. Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief
-
-**Author:** Decrypt Agent  
-**Published:** 11/16/2026, 7:36:03 PM  
-**Categories:** , , Law and Order  
-
-Former White House crypto chief Patrick Witt said the Clarity Act "lost against the clock," and regulators will now set the rules.
-
-📖 [Read original article](https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief)
-
----
-
-## 7. Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'
-
-**Author:** Jose Antonio Lanz  
-**Published:** 11/16/2026, 7:05:02 PM  
-**Categories:** Business  
-
-Trump would welcome Nvidia’s co-founder back. Altman, who survived his own CEO ouster, sympathizes but stops short of endorsing Huang’s comeback.
-
-📖 [Read original article](https://decrypt.co/383351/trump-elon-musk-sam-altman-jensen-huang-nvidia)
-
----
-
-## 8. Fed Is Modeling AI 'Super Intelligence' Scenarios, Including Job Losses and a Stock Market Slump
-
-**Author:** Jose Antonio Lanz  
-**Published:** 11/16/2026, 6:36:44 PM  
-**Categories:** Artificial Intelligence  
-
-Federal Reserve Chair Kevin Warsh says staff are studying three possible economic futures for AI, ranging from widespread productivity gains to higher unemployment and a painful correction in technology stocks.
-
-📖 [Read original article](https://decrypt.co/383354/fed-modeling-ai-super-intelligence-scenarios-job-losses-stock-market)
-
----
-
-## 9. Nvidia Stock Has a 20% Rebound in Sight—If Bulls Can Clear a Hurdle
-
-**Author:** Jose Antonio Lanz  
-**Published:** 11/16/2026, 6:06:03 PM  
-**Categories:** Markets  
-
-Nvidia shares tanked specularly last week amid the Jensen Huang scandal. Is it in for a major rebound? Here’s what the charts suggest.
-
-📖 [Read original article](https://decrypt.co/383334/nvidia-stock-rebound-in-sight-if-bulls-can-clear-hurdle)
-
----
-
-## 10. Saylor’s Strategy Keeps Buying Bitcoin, Adding 'A Little Orange' Through the Dip
-
-**Author:** Decrypt Staff  
-**Published:** 11/16/2026, 5:20:26 PM  
-**Categories:** , Business  
-
-The modest purchase lifted Strategy’s stash to 850,849 BTC as chairman Michael Saylor shrugged off a sharp downturn, posting that “this dip could use a little orange.”
-
-📖 [Read original article](https://decrypt.co/383347/saylor-strategy-buying-bitcoin-adding-little-orange-dip)
-
----
-
-## 11. 'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares
-
-**Author:** Decrypt Agent  
-**Published:** 11/16/2026, 5:09:28 PM  
-**Categories:** , Business  
-
-The Solana trading platform unveiled a permissioned lending market, identity passport and issuer liquidity services at Breakpoint.
-
-📖 [Read original article](https://decrypt.co/383333/tokenization-is-not-the-finish-line-jupiter-to-let-users-borrow-against-bullish-shares)
-
----
-
-## 12. Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About
-
-**Author:** Jose Antonio Lanz  
-**Published:** 11/16/2026, 4:14:22 PM  
-**Categories:** , Coins  
-
-Solana's 1.0 designation gives developers a common way to track network rules. Here's what it means for users and builders.
-
-📖 [Read original article](https://decrypt.co/383322/solana-drops-mainnet-beta-after-six-years)
-
----
-
-## 13. DTCC, Barclays Say Tokenization's Real Prize Is Unlocking Idle Collateral
-
-**Author:** Decrypt Agent  
-**Published:** 11/16/2026, 4:11:31 PM  
-**Categories:** , Coins  
-
-Executives from the U.S. settlement giant and Barclays told Solana's Breakpoint that adoption is early, but accelerating.
-
-📖 [Read original article](https://decrypt.co/383316/dtcc-barclays-say-tokenizations-real-prize-is-unlocking-idle-collateral)
 
 ---
