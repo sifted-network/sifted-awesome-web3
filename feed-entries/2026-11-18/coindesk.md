@@ -2,16 +2,76 @@
 title: "CoinDesk - 2026-11-18"
 date: "2026-11-18"
 source: "CoinDesk"
-count: 14
+count: 19
 ---
 
 # CoinDesk - 2026-11-18
 
-14 items collected.
+19 items collected.
 
 ---
 
-## 1. Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans
+## 1. Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe
+
+**Author:** Ian Allison,Will Canny  
+**Published:** 11/18/2026, 10:30:00 PM  
+**Categories:** Finance, Exclusive, Kraken, Payward, mergers and acquisitions, News  
+
+Sethi, who was appointed co-CEO of Kraken in October 2024, is also the chairman of Tribe Capital.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe)
+
+---
+
+## 2. A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook
+
+**Author:** Olivier Acuna  
+**Published:** 11/18/2026, 5:22:03 PM  
+**Categories:** Finance, Hyperliquid, News  
+
+Variational and its investors are betting that the future of onchain trading will look more like a traditional brokerage than a crypto exchange.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook)
+
+---
+
+## 3. Crypto Long & Short: Crypto exchanges shouldn’t double as the vault
+
+**Author:** Darren Jordan  
+**Published:** 11/18/2026, 4:02:54 PM  
+**Categories:** CoinDesk Indices, Crypto Long & Short, News  
+
+A single breach moved billions out of Binance in minutes, exposing how much client money sits with the venue that trades it. Darren Jordan of Komainu argues institutions should keep trading and custody separate, as traditional markets have for decades, and sets out the questions to ask about where a...
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault)
+
+---
+
+## 4. German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin
+
+**Author:** Francisco Rodrigues,AI Boost  
+**Published:** 11/18/2026, 3:38:38 PM  
+**Categories:** Finance, Germany, News  
+
+Prosecutors estimate the defendant still holds 56,000 BTC, meaning the proposed deal would leave him with roughly $1 billion.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin)
+
+---
+
+## 5. Hong Kong wants banks to use AI to catch crypto crime before money disappears
+
+**Author:** Olivier Acuna  
+**Published:** 11/18/2026, 3:23:18 PM  
+**Categories:** Finance, Artificial Intelligence, banks, Hong Kong, News  
+
+As Hong Kong pushes banks to use AI to combat crypto crime, experts say the technology must detect suspicious transfers without putting customer funds at risk.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears)
+
+---
+
+## 6. Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans
 
 **Author:** Shaurya Malwa  
 **Published:** 11/18/2026, 12:53:34 PM  
@@ -23,19 +83,19 @@ The bitcoin miner is taking on borrowing tied to an Ohio power plant as it shift
 
 ---
 
-## 2. Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes
+## 7. Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes
 
 **Author:** Helene Braun,Jamie Crawley  
 **Published:** 11/18/2026, 12:41:09 PM  
 **Categories:** Markets, Bullish, Earnings, News  
 
-The crypto platform reported net income of $576.3 million for the third quarter thanks to a sharp rise in the price of bitcoin.
+Bullish’s institutional focus may have shielded the company from the decline in activity experienced by rivals catering to retail traders and offers some insight to its revenue beat.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes)
 
 ---
 
-## 3. Circle turns to DBS as banks build rival digital payment systems across Asia
+## 8. Circle turns to DBS as banks build rival digital payment systems across Asia
 
 **Author:** Olivier Acuna  
 **Published:** 11/18/2026, 12:25:14 PM  
@@ -47,7 +107,7 @@ The Singapore bank will let institutional clients buy and redeem USDC directly a
 
 ---
 
-## 4. Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say
+## 9. Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say
 
 **Author:** Omkar Godbole  
 **Published:** 11/18/2026, 12:15:00 PM  
@@ -59,7 +119,7 @@ Your day-ahead look for Nov. 18, 2026
 
 ---
 
-## 5. Bitcoin drops as Nvidia earnings report drives stock index futures higher
+## 10. Bitcoin drops as Nvidia earnings report drives stock index futures higher
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 11/18/2026, 11:42:52 AM  
@@ -71,7 +131,7 @@ Bitcoin (BTC) is down 1.1% since midnight UTC at around $64,100, failing to keep
 
 ---
 
-## 6. Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike
+## 11. Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike
 
 **Author:** James Van Straten  
 **Published:** 11/18/2026, 10:58:36 AM  
@@ -83,7 +143,7 @@ Bitcoin held near $64,000 as gold fell 2%, lifting the ratio between the two abo
 
 ---
 
-## 7. Strategy stock could plunge 76% to $23, chart analyst warns
+## 12. Strategy stock could plunge 76% to $23, chart analyst warns
 
 **Author:** Omkar Godbole  
 **Published:** 11/18/2026, 9:31:41 AM  
@@ -95,7 +155,7 @@ Aksel Kibar, who has tracked Bitcoin’s price action since at least 2018, made 
 
 ---
 
-## 8. Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain
+## 13. Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain
 
 **Author:** Ian Allison  
 **Published:** 11/18/2026, 9:14:15 AM  
@@ -107,7 +167,7 @@ The exploration of AI agents with JPMorgan builds on Hyundai’s recent stableco
 
 ---
 
-## 9. Google finds self-running AI hacking tool with Russian comments in its files
+## 14. Google finds self-running AI hacking tool with Russian comments in its files
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 11/18/2026, 7:37:59 AM  
@@ -119,19 +179,19 @@ Google spots an AI that can find and exploit software flaws on its own, no human
 
 ---
 
-## 10. Live updates: Bitcoin slides towards $63,000 as U.S. stocks fall and Nvidia erases gains
+## 15. Bitcoin falls below $63,000 as Anthropic prices IPO at $83, raising nearly $100 billion
 
 **Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Stephen Alpher  
 **Published:** 11/18/2026, 7:27:48 AM  
 **Categories:** Finance, Live News, live_news  
 
-XRP edged toward $1, and SOL rose 3%, while a Talos report showed crypto’s favorite carry trade now pays about the same as U.S. Treasuries.
+The Fed's Chris Waller, for a second time, called for the central bank to consider raising its benchmark interest rate by 50 basis points at its upcoming meeting in December.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up)
 
 ---
 
-## 11. U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud
+## 16. U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud
 
 **Author:** Shaurya Malwa  
 **Published:** 11/18/2026, 5:30:10 AM  
@@ -143,7 +203,7 @@ A federal judge acquitted Anton and James Peraire-Bueno, ruling that their 2023 
 
 ---
 
-## 12. Bitcoin's 12% slide through key support looks scary, but history says give it 3 months
+## 17. Bitcoin's 12% slide through key support looks scary, but history says give it 3 months
 
 **Author:** Omkar Godbole  
 **Published:** 11/18/2026, 4:34:21 AM  
@@ -155,7 +215,7 @@ Bitcoin broke below its 200-week average with a 12% drop. Only three similar cra
 
 ---
 
-## 13. XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges
+## 18. XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges
 
 **Author:** Shaurya Malwa  
 **Published:** 11/18/2026, 4:28:37 AM  
@@ -167,7 +227,7 @@ A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 mi
 
 ---
 
-## 14. CFTC nominee questions public benefit of prediction markets as legal fight grows
+## 19. CFTC nominee questions public benefit of prediction markets as legal fight grows
 
 **Author:** Jesse Hamilton  
 **Published:** 11/18/2026, 12:46:25 AM  
