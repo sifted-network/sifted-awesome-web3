@@ -2,16 +2,76 @@
 title: "CoinDesk - 2026-11-17"
 date: "2026-11-17"
 source: "CoinDesk"
-count: 17
+count: 22
 ---
 
 # CoinDesk - 2026-11-17
 
-17 items collected.
+22 items collected.
 
 ---
 
-## 1. Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed
+## 1. Nvidia tops estimates, issues strong guidance; shares rise
+
+**Author:** James Van Straten,Stephen Alpher  
+**Published:** 11/17/2026, 9:25:50 PM  
+**Categories:** Markets, Artificial Intelligence, News  
+
+Speaking on the earnings call, Chairman Harvey Jones said the board has no intention of reinstating Jensen Huang as CEO.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization)
+
+---
+
+## 2. Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade
+
+**Author:** Helene Braun,Aoyon Ashraf  
+**Published:** 11/17/2026, 7:45:57 PM  
+**Categories:** Markets, Coinbase, Exclusive, News  
+
+Brian Armstrong says Coinbase is building payment tools for AI agents and believes bitcoin has hit bottom despite the selloff.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade)
+
+---
+
+## 3. Predictions platform Kalshi complies with order to halt Trump mention contracts
+
+**Author:** Jesse Hamilton  
+**Published:** 11/17/2026, 7:16:00 PM  
+**Categories:** Policy, Prediction Markets, Kalshi, Regulation, News  
+
+The company confirmed that the Commodity Futures Trading Commission ordered it to stop "mention" contracts involving the U.S. president.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts)
+
+---
+
+## 4. Druckenmiller says he is short copper, warns of economic weakness in 2027
+
+**Author:** Aoyon Ashraf  
+**Published:** 11/17/2026, 5:42:40 PM  
+**Categories:** Finance, Commodities, Top Stories, News  
+
+The billionaire investor is prioritizing capital preservation and shifting his AI focus from infrastructure to applications.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027)
+
+---
+
+## 5. U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization
+
+**Author:** Jesse Hamilton  
+**Published:** 11/17/2026, 5:00:05 PM  
+**Categories:** Policy, Federal Reserve, Tokenization, News  
+
+Waller suggested the Federal Reserve could provide trusted rails for emerging innovation tied to tokenized assets and agentic AI.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization)
+
+---
+
+## 6. Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed
 
 **Author:** Olivier Acuna  
 **Published:** 11/17/2026, 3:11:00 PM  
@@ -23,7 +83,7 @@ Hong Kong and Swift expanded their efforts to connect tokenized bank deposits ac
 
 ---
 
-## 2. Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps
+## 7. Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps
 
 **Author:** Shaurya Malwa  
 **Published:** 11/17/2026, 1:02:56 PM  
@@ -35,7 +95,7 @@ In addition to that broader estimate, independent audits have uncovered hundreds
 
 ---
 
-## 3. Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps
+## 8. Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps
 
 **Author:** Omkar Godbole  
 **Published:** 11/17/2026, 1:00:00 PM  
@@ -47,7 +107,7 @@ Grvt’s new Stable Funding Perps tie the cost of holding commodities trades to 
 
 ---
 
-## 4. Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows
+## 9. Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows
 
 **Author:** Omkar Godbole  
 **Published:** 11/17/2026, 12:16:53 PM  
@@ -59,7 +119,7 @@ Your day-ahead look for Nov. 17, 2026
 
 ---
 
-## 5. Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump
+## 10. Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 11/17/2026, 12:00:55 PM  
@@ -71,7 +131,7 @@ The fund swapped its common stock in Bloom Energy, Nebius and SanDisk for call o
 
 ---
 
-## 6. Bitcoin remains penned in near $64,000 even as ETF outflow streak ends
+## 11. Bitcoin remains penned in near $64,000 even as ETF outflow streak ends
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 11/17/2026, 11:36:07 AM  
@@ -83,7 +143,7 @@ Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with 
 
 ---
 
-## 7. Solana Foundation takes majority stake in crypto data provider CoinGecko
+## 12. Solana Foundation takes majority stake in crypto data provider CoinGecko
 
 **Author:** Francisco Rodrigues  
 **Published:** 11/17/2026, 11:29:51 AM  
@@ -95,7 +155,7 @@ The foundation plans Solana-powered trading on CoinGecko's website, GeckoTermina
 
 ---
 
-## 8. New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest
+## 13. New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest
 
 **Author:** Ian Allison  
 **Published:** 11/17/2026, 11:25:58 AM  
@@ -107,7 +167,7 @@ Crypto native firms like Animoca Brands are betting AI-based agentic commerce to
 
 ---
 
-## 9. Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes
+## 14. Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes
 
 **Author:** Olivier Acuna  
 **Published:** 11/17/2026, 10:48:12 AM  
@@ -119,19 +179,19 @@ In a speech at an AI event in Italy, Barr said automated financial decisions cou
 
 ---
 
-## 10. Live updates: Bitcoin holds near $65,000 as tech flattens out ahead of Nvidia earnings
+## 15. Live updates: Bitcoin and stocks continue slump as Huang signals interest in returning to Nvidia
 
-**Author:** Shaurya Malwa,James Van Straten,Stephen Alpher  
+**Author:** Shaurya Malwa,James Van Straten,Stephen Alpher,Helene Braun  
 **Published:** 11/17/2026, 10:33:26 AM  
 **Categories:** Finance, Live News, live_news  
 
-The Nasdaq and S&P 500 were little changed in early trading on Tuesday following Monday's rout.
+The Fed's hawkish rhetoric continued on Tuesday, with St. Louis Fed President Musalem arguing for several rate hikes before next spring. Homebuilder confidence fell to a 14-year low.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings)
 
 ---
 
-## 11. Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger
+## 16. Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger
 
 **Author:** Shaurya Malwa  
 **Published:** 11/17/2026, 10:22:18 AM  
@@ -143,7 +203,7 @@ An Optimizely signup flaw let an attacker plant address-swapping code on website
 
 ---
 
-## 12. Nvidia faces first earnings test without Jensen Huang as AI stocks slide
+## 17. Nvidia faces first earnings test without Jensen Huang as AI stocks slide
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 11/17/2026, 10:17:01 AM  
@@ -155,7 +215,7 @@ With shares almost 40% below their October peak, Nvidia’s guidance could carry
 
 ---
 
-## 13. Binance hacker moves $63 million in stolen ether after 2 weeks of silence
+## 18. Binance hacker moves $63 million in stolen ether after 2 weeks of silence
 
 **Author:** Olivier Acuna  
 **Published:** 11/17/2026, 9:21:19 AM  
@@ -167,7 +227,7 @@ North Korea's TraderTraitor group transferred 34,279 ETH to three new wallets. T
 
 ---
 
-## 14. Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says
+## 19. Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says
 
 **Author:** Omkar Godbole  
 **Published:** 11/17/2026, 7:38:07 AM  
@@ -179,7 +239,7 @@ Bitcoin may slide into the $50,000s after losing its 200-week average, with ETF 
 
 ---
 
-## 15. Cardano Foundation seeks $5 million from treasury using ADA price 33% above market
+## 20. Cardano Foundation seeks $5 million from treasury using ADA price 33% above market
 
 **Author:** Shaurya Malwa  
 **Published:** 11/17/2026, 6:54:49 AM  
@@ -191,7 +251,7 @@ The Foundation wants 25 million ADA for 12 global events, even as the token trad
 
 ---
 
-## 16. Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion
+## 21. Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion
 
 **Author:** Shaurya Malwa  
 **Published:** 11/17/2026, 5:37:23 AM  
@@ -203,7 +263,7 @@ The bank's reported BlackRock bitcoin ETF position doubled to $2.35 billion in t
 
 ---
 
-## 17. Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%
+## 22. Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%
 
 **Author:** Shaurya Malwa  
 **Published:** 11/17/2026, 5:02:05 AM  
