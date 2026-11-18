@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-17"
 date: "2026-11-17"
 source: "Cointelegraph"
-count: 17
+count: 9
 ---
 
 # Cointelegraph - 2026-11-17
 
-17 items collected.
+9 items collected.
 
 ---
 
@@ -116,101 +116,5 @@ Dragonfly’s Haseeb Qureshi says Bitcoin could reach $400,000 by 2030 but doubt
 ARK bought shares in Block, Circle and Coinbase worth about $39.9 million at Monday’s close while selling Nvidia and Solana and Ether staking ETFs.
 
 📖 [Read original article](https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Revolut plans four blockchain-based funds for private markets, chair says
-
-**Author:** Cointelegraph by Isabelle Castro  
-**Published:** 11/17/2026, 12:24:20 PM  
-**Categories:** Latest News  
-
-Citing a looming liquidity crunch, Martin Gilbert said blockchain could help bring more liquidity to private markets.
-
-📖 [Read original article](https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. US senators seek SEC answers on tokenized stock money laundering risks
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/17/2026, 11:36:26 AM  
-**Categories:** Latest News  
-
-Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens.
-
-📖 [Read original article](https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 11/17/2026, 11:18:18 AM  
-**Categories:** Markets  
-
-BlackRock’s Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billion, but CryptoQuant says one day of inflows is too early to signal a recovery.
-
-📖 [Read original article](https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Bitcoin realized loss metric beats June high as open interest eyes 2-year low
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 11/17/2026, 11:14:05 AM  
-**Categories:** Markets  
-
-Bitcoin short-term holders’ onchain spending notched the largest proportion of realized losses since February after BTC/USD dropped to $62,000.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Google says hackers use AI agents to find and exploit software flaws
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/17/2026, 10:05:59 AM  
-**Categories:** Latest News  
-
-Google says attackers are using AI agents to find and exploit software flaws automatically, reducing the time organizations have to apply patches.
-
-📖 [Read original article](https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. US judge clears brothers in $25M Ethereum MEV case after mistrial
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/17/2026, 9:30:05 AM  
-**Categories:** Latest News  
-
-Judge Jessica Clarke said the transactions did not involve false promises, but the ruling did not determine whether the brothers’ conduct was ethical or violated other laws.
-
-📖 [Read original article](https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 11/17/2026, 9:08:32 AM  
-**Categories:** Latest News  
-
-Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdings to $1.22 billion, while reshuffling its Bitcoin ETF positions.
-
-📖 [Read original article](https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/17/2026, 6:35:19 AM  
-**Categories:** Latest News  
-
-The former Robinhood engineer used confidential information about upcoming Robinhood token listings to trade on Hyperliquid.
-
-📖 [Read original article](https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
