@@ -2,16 +2,124 @@
 title: "Cointelegraph - 2026-11-18"
 date: "2026-11-18"
 source: "Cointelegraph"
-count: 13
+count: 21
 ---
 
 # Cointelegraph - 2026-11-18
 
-13 items collected.
+21 items collected.
 
 ---
 
-## 1. Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Bryan O'Shea  
+**Published:** 11/18/2026, 10:09:15 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Tether invokes The Big Short in swipe at S&P over USDT reserve risks
+
+**Author:** Cointelegraph by Isabelle Castro  
+**Published:** 11/18/2026, 9:57:35 PM  
+**Categories:** Latest News  
+
+S&P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the lowest available score.
+
+📖 [Read original article](https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Ledger warns Berlin customers as hardware wallet tampering investigation expands
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/18/2026, 9:13:58 PM  
+**Categories:** Latest News  
+
+Ledger advised customers who purchased devices in Berlin since January 2026 to contact support as it investigates suspected hardware implants in Germany and Dubai.
+
+📖 [Read original article](https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Bain Capital Crypto leads $110M Variational round at $1.5B valuation
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/18/2026, 8:32:06 PM  
+**Categories:** Latest News  
+
+Variational raised $110 million at a $1.5 billion valuation to expand Omni’s derivatives markets and increase trading limits.
+
+📖 [Read original article](https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Binance says it obtained $6.5B worldwide freezing order after hack
+
+**Author:** Cointelegraph by Bryan O'Shea  
+**Published:** 11/18/2026, 8:20:37 PM  
+**Categories:** Latest News  
+
+The court orders allow legal notices to be served via blockchain and provide for a continuously updated list of 26,000 wallet addresses linked to stolen assets, Binance’s lawyers said.
+
+📖 [Read original article](https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. MARA prices $185M debt offering after $1.1B Bitcoin sale
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/18/2026, 6:27:52 PM  
+**Categories:** Markets  
+
+The Bitcoin miner is taking on new debt to finance its AI infrastructure expansion, with the Long Ridge acquisition adding nearly $69 million in annual interest costs.
+
+📖 [Read original article](https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. $25M Ethereum MEV acquittal tests criminal enforcement limits
+
+**Author:** Cointelegraph by Adrian Zmudzinski  
+**Published:** 11/18/2026, 5:05:04 PM  
+**Categories:** Latest News  
+
+BlackRock’s staked Ether ETF earns a cut of what traders pay for priority on Ethereum, the acquittal left the legal risk to that income unresolved.
+
+📖 [Read original article](https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Polymarket US takes rapid-fire crypto trading format to oil, natural gas
+
+**Author:** Cointelegraph by Felix Ng  
+**Published:** 11/18/2026, 5:00:00 PM  
+**Categories:** Latest News  
+
+Polymarket US said it attracted more than 300,000 traders to its short-duration crypto markets in six weeks and is now expanding the format to energy commodities.
+
+📖 [Read original article](https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 11/18/2026, 4:34:20 PM  
+**Categories:** Markets  
+
+Bitcoin price action dropped below $63,000 after fresh hawkish comments from the Fed as Nvidia earnings optimism faded.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 10. Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys
 
 **Author:** Cointelegraph by Korbinian Kettnaker  
 **Published:** 11/18/2026, 2:04:50 PM  
@@ -23,7 +131,7 @@ FE covenants encode spending constraints into the signing key, so only transacti
 
 ---
 
-## 2. CoinShares sells all treasury ETH, halves SOL holdings for buybacks
+## 11. CoinShares sells all treasury ETH, halves SOL holdings for buybacks
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/18/2026, 1:42:37 PM  
@@ -35,19 +143,7 @@ The October sales raised $19.3 million, nearly half the $40 million CoinShares c
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 11/18/2026, 1:34:00 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Sanctions fears loom over Russia’s regulated crypto trading launch
+## 12. Sanctions fears loom over Russia’s regulated crypto trading launch
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/18/2026, 1:32:19 PM  
@@ -59,7 +155,7 @@ Russia’s crypto trading rollout faces uncertainty as companies weigh sanctions
 
 ---
 
-## 5. How to preserve wealth and access funds during a national emergency
+## 13. How to preserve wealth and access funds during a national emergency
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 11/18/2026, 1:30:00 PM  
@@ -71,7 +167,7 @@ As geopolitical and technological threats multiply, the big question is whether 
 
 ---
 
-## 6. Tokenized Nvidia market cap surges 159% amid Jensen Huang’s exit
+## 14. Tokenized Nvidia market cap surges 159% amid Jensen Huang’s exit
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/18/2026, 12:53:12 PM  
@@ -83,7 +179,7 @@ Nvidia stock tokens reached $401.9 million in combined value as Jensen Huang ste
 
 ---
 
-## 7. Bitwise seeks Texas Stock Exchange listing for Zcash ETF
+## 15. Bitwise seeks Texas Stock Exchange listing for Zcash ETF
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/18/2026, 10:33:07 AM  
@@ -95,7 +191,7 @@ Coinbase Custody would safeguard the fund’s ZEC holdings, while Bitwise Invest
 
 ---
 
-## 8. Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out
+## 16. Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/18/2026, 10:31:20 AM  
@@ -107,7 +203,7 @@ Bitcoin halted downside as Nvidia confidence returned, with its stock gaining 3%
 
 ---
 
-## 9. World Bank partners with Circle, Citi to explore stablecoins for payments
+## 17. World Bank partners with Circle, Citi to explore stablecoins for payments
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/18/2026, 9:17:18 AM  
@@ -119,7 +215,7 @@ The initiative builds on the World Bank’s existing blockchain platform, which 
 
 ---
 
-## 10. SOL comes out of Breakpoint 7% higher as Solana exits beta
+## 18. SOL comes out of Breakpoint 7% higher as Solana exits beta
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/18/2026, 8:41:16 AM  
@@ -131,7 +227,7 @@ Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after th
 
 ---
 
-## 11. Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase
+## 19. Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/18/2026, 8:09:23 AM  
@@ -143,7 +239,7 @@ Bitcoin ETF outflows returned after a one-day pause as CryptoQuant warned that B
 
 ---
 
-## 12. Ledger hardware implant saga reaches Dubai’s Virgin Megastore
+## 20. Ledger hardware implant saga reaches Dubai’s Virgin Megastore
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/18/2026, 2:39:52 AM  
@@ -155,7 +251,7 @@ Two Ledger owners reported losing a combined $604,000 in crypto from hardware wa
 
 ---
 
-## 13. Nvidia board rejects Huang comeback despite record $116B quarter
+## 21. Nvidia board rejects Huang comeback despite record $116B quarter
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/18/2026, 12:16:43 AM  
