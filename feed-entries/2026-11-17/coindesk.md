@@ -2,16 +2,16 @@
 title: "CoinDesk - 2026-11-17"
 date: "2026-11-17"
 source: "CoinDesk"
-count: 22
+count: 11
 ---
 
 # CoinDesk - 2026-11-17
 
-22 items collected.
+11 items collected.
 
 ---
 
-## 1. Nvidia tops estimates, issues strong guidance; shares rise
+## 1. Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty
 
 **Author:** James Van Straten,Stephen Alpher  
 **Published:** 11/17/2026, 9:25:50 PM  
@@ -41,7 +41,7 @@ Brian Armstrong says Coinbase is building payment tools for AI agents and believ
 **Published:** 11/17/2026, 7:16:00 PM  
 **Categories:** Policy, Prediction Markets, Kalshi, Regulation, News  
 
-The company confirmed that the Commodity Futures Trading Commission ordered it to stop "mention" contracts involving the U.S. president.
+The Commodity Futures Trading Commission ordered it to stop "mention" contracts involving the U.S. president and is reviewing whether Kalshi followed policy.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts)
 
@@ -140,137 +140,5 @@ The fund swapped its common stock in Bloom Energy, Nebius and SanDisk for call o
 Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with its bounce from the weekend selloff stalled and pressure building on all fronts.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends)
-
----
-
-## 12. Solana Foundation takes majority stake in crypto data provider CoinGecko
-
-**Author:** Francisco Rodrigues  
-**Published:** 11/17/2026, 11:29:51 AM  
-**Categories:** Finance, Solana News, Crypto News, News  
-
-The foundation plans Solana-powered trading on CoinGecko's website, GeckoTerminal and app.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko)
-
----
-
-## 13. New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest
-
-**Author:** Ian Allison  
-**Published:** 11/17/2026, 11:25:58 AM  
-**Categories:** Finance, Exclusive, banks, DeFi, Crypto Lending, News  
-
-Crypto native firms like Animoca Brands are betting AI-based agentic commerce to style every area of finance with the so-called “DeFi mullet”
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest)
-
----
-
-## 14. Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes
-
-**Author:** Olivier Acuna  
-**Published:** 11/17/2026, 10:48:12 AM  
-**Categories:** Finance, Artificial Intelligence, Federal Reserve, News  
-
-In a speech at an AI event in Italy, Barr said automated financial decisions could overwhelm banks and raises concerns about AI systems bypassing security controls.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes)
-
----
-
-## 15. Live updates: Bitcoin and stocks continue slump as Huang signals interest in returning to Nvidia
-
-**Author:** Shaurya Malwa,James Van Straten,Stephen Alpher,Helene Braun  
-**Published:** 11/17/2026, 10:33:26 AM  
-**Categories:** Finance, Live News, live_news  
-
-The Fed's hawkish rhetoric continued on Tuesday, with St. Louis Fed President Musalem arguing for several rate hikes before next spring. Homebuilder confidence fell to a 14-year low.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings)
-
----
-
-## 16. Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger
-
-**Author:** Shaurya Malwa  
-**Published:** 11/17/2026, 10:22:18 AM  
-**Categories:** Tech, News  
-
-An Optimizely signup flaw let an attacker plant address-swapping code on websites including HSBC, the BBC and Ledger. The total stolen remains unknown, and investigators have not linked the attack to AI.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger)
-
----
-
-## 17. Nvidia faces first earnings test without Jensen Huang as AI stocks slide
-
-**Author:** James Van Straten,AI Boost  
-**Published:** 11/17/2026, 10:17:01 AM  
-**Categories:** Markets, Artificial Intelligence, News  
-
-With shares almost 40% below their October peak, Nvidia’s guidance could carry more weight than quarterly results as investors assess its direction without Jensen Huang.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide)
-
----
-
-## 18. Binance hacker moves $63 million in stolen ether after 2 weeks of silence
-
-**Author:** Olivier Acuna  
-**Published:** 11/17/2026, 9:21:19 AM  
-**Categories:** Finance, Binance, hacking, News  
-
-North Korea's TraderTraitor group transferred 34,279 ETH to three new wallets. The funds have not moved again, blockchain investigators say.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence)
-
----
-
-## 19. Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says
-
-**Author:** Omkar Godbole  
-**Published:** 11/17/2026, 7:38:07 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin may slide into the $50,000s after losing its 200-week average, with ETF outflows, weak demand and rate-hike risks weighing on BTC, leading market maker warns.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says)
-
----
-
-## 20. Cardano Foundation seeks $5 million from treasury using ADA price 33% above market
-
-**Author:** Shaurya Malwa  
-**Published:** 11/17/2026, 6:54:49 AM  
-**Categories:** Tech, News  
-
-The Foundation wants 25 million ADA for 12 global events, even as the token trades well below the 20 cent price used to size the request.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market)
-
----
-
-## 21. Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion
-
-**Author:** Shaurya Malwa  
-**Published:** 11/17/2026, 5:37:23 AM  
-**Categories:** Markets, News  
-
-The bank's reported BlackRock bitcoin ETF position doubled to $2.35 billion in the third quarter, giving it exposure to roughly 28,000 BTC.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion)
-
----
-
-## 22. Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%
-
-**Author:** Shaurya Malwa  
-**Published:** 11/17/2026, 5:02:05 AM  
-**Categories:** Markets, News  
-
-The company’s accounting policy requires it to record price declines without reversing those write-downs when XRP recovers.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60)
 
 ---
