@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-17"
 date: "2026-11-17"
 source: "The Defiant"
-count: 25
+count: 15
 ---
 
 # The Defiant - 2026-11-17
 
-25 items collected.
+15 items collected.
 
 ---
 
@@ -188,125 +188,5 @@ The reported hiring advances a succession process that was still at the recruite
 Artificial Analysis put Astra second behind Claude Fable 5.2. Lower token prices improve the cost trade-off, while Sol lost three coding-index points.
 
 📖 [Read original article](https://thedefiant.io/frontier/ai/gpt-6-2-models-rise-on-ai-index-but-coding-scores-stall)
-
----
-
-## 16. CFTC Halts Kalshi Trump Word Bets for Manipulation Review
-
-**Author:** The Defiant  
-**Published:** 11/17/2026, 4:34:06 PM  
-**Categories:** -  
-
-A November 13 order requires Kalshi to defend its Trump-word contracts by December 11. Other mention markets remain listed.
-
-📖 [Read original article](https://thedefiant.io/news/regulation/cftc-halts-kalshi-trump-word-bets-for-manipulation-review)
-
----
-
-## 17. Jensen Huang Offers Nvidia Return If Board Wants Him Back
-
-**Author:** The Defiant  
-**Published:** 11/17/2026, 4:13:27 PM  
-**Categories:** -  
-
-Huang made his offer conditional on directors’ approval, after reports that the board was not considering reinstatement. Nvidia reports earnings later Tuesday.
-
-📖 [Read original article](https://thedefiant.io/frontier/ai/jensen-huang-offers-nvidia-return-if-board-wants-him-back)
-
----
-
-## 18. Nvidia Tracks Seventh Weekly Loss Ahead of Earnings
-
-**Author:** The Defiant  
-**Published:** 11/17/2026, 4:04:52 PM  
-**Categories:** -  
-
-The stock is down about 36% from its Oct. 6 closing peak, outpacing declines in chip stocks and US indexes before Tuesday evening's results.
-
-📖 [Read original article](https://thedefiant.io/frontier/markets/nvidia-tracks-seventh-weekly-loss-ahead-of-earnings)
-
----
-
-## 19. Reported China Optics Ban Advances Despite Tech Pushback
-
-**Author:** The Defiant  
-**Published:** 11/17/2026, 3:53:38 PM  
-**Categories:** -  
-
-The FCC plan targets new transceiver models. Coherent and Lumentum pared early gains, while researchers warn replacing Chinese capacity would take years.
-
-📖 [Read original article](https://thedefiant.io/frontier/technology/reported-china-optics-ban-advances-despite-tech-pushback)
-
----
-
-## 20. New York AG Creates ASSET Unit to Enforce AI Safety
-
-**Author:** The Defiant  
-**Published:** 11/17/2026, 3:36:43 PM  
-**Categories:** -  
-
-The new team will lead the attorney general’s RAISE Act enforcement, while developers will register and report safety incidents through a separate state office.
-
-📖 [Read original article](https://thedefiant.io/frontier/ai/new-york-ag-creates-asset-unit-to-enforce-ai-safety)
-
----
-
-## 21. Pantera Leads Codex's $30 Million Stablecoin FX Round
-
-**Author:** The Defiant  
-**Published:** 11/17/2026, 3:34:48 PM  
-**Categories:** -  
-
-The platform handles fiat conversion and stablecoin swaps for payment firms, with Dragonfly citing $25 billion in annualized volume.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/pantera-leads-codex-s-30-million-stablecoin-fx-round)
-
----
-
-## 22. AI Models Mark Civilians as Targets in Vals Safety Tests
-
-**Author:** The Defiant  
-**Published:** 11/17/2026, 3:26:37 PM  
-**Categories:** -  
-
-Calling targeting tasks a game often bypassed models’ refusals, Vals found. The experiments tested safeguards, not battlefield accuracy.
-
-📖 [Read original article](https://thedefiant.io/frontier/ai/ai-models-mark-civilians-as-targets-in-vals-safety-tests)
-
----
-
-## 23. Crossmint Adds Fiat Funding for Private Solana Balances
-
-**Author:** The Defiant  
-**Published:** 11/17/2026, 3:25:03 PM  
-**Categories:** -  
-
-USDC and EURC can go straight into Helius Privacy Rings for eligible buyers outside the US, but deposit details remain public.
-
-📖 [Read original article](https://thedefiant.io/news/defi/crossmint-adds-fiat-funding-for-private-solana-balances)
-
----
-
-## 24. SpaceX AI-Chip Debt Sale May Start This Week: Report
-
-**Author:** The Defiant  
-**Published:** 11/17/2026, 3:21:10 PM  
-**Categories:** -  
-
-Goldman Sachs and Apollo would underwrite part of a $40 billion package for Nvidia chips, Bloomberg reported.
-
-📖 [Read original article](https://thedefiant.io/frontier/technology/spacex-ai-chip-debt-sale-may-start-this-week-report)
-
----
-
-## 25. Tokenized Stocks Gain Uniswap v4 Liquidity on Monad
-
-**Author:** The Defiant  
-**Published:** 11/17/2026, 3:12:34 PM  
-**Categories:** -  
-
-Monad announced 10 xStocks markets on Nov. 12. Trading liquidity is live, but access restrictions and collateral-pricing requirements still matter for DeFi builders.
-
-📖 [Read original article](https://thedefiant.io/news/defi/tokenized-stocks-gain-uniswap-v4-liquidity-on-monad)
 
 ---
