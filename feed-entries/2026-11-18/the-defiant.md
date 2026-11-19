@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-18"
 date: "2026-11-18"
 source: "The Defiant"
-count: 77
+count: 67
 ---
 
 # The Defiant - 2026-11-18
 
-77 items collected.
+67 items collected.
 
 ---
 
@@ -812,125 +812,5 @@ LUKSO says holders must remove an attacker key and a malicious recovery controll
 SYRUP is about 27% below The Defiant’s Nov. 10 reading. Maple’s dashboard now lists an October buyback smaller than September’s.
 
 📖 [Read original article](https://thedefiant.io/news/tokens/maple-s-syrup-loses-half-its-value-lagging-btc-and-eth)
-
----
-
-## 68. Paytaca Warns Users After Two Backend Security Attacks
-
-**Author:** The Defiant  
-**Published:** 11/18/2026, 5:46:21 AM  
-**Categories:** -  
-
-The Bitcoin Cash wallet says attackers created fake orders and payment requests, while private keys remained on users’ devices.
-
-📖 [Read original article](https://thedefiant.io/news/security/paytaca-warns-users-after-two-backend-security-attacks)
-
----
-
-## 69. Polymarket Moves Hourly, Daily Crypto Bets to Chainlink
-
-**Author:** The Defiant  
-**Published:** 11/18/2026, 3:05:01 AM  
-**Categories:** -  
-
-New contracts use 60-second average prices, while the November 18 daily markets retain their Binance-based rules.
-
-📖 [Read original article](https://thedefiant.io/news/defi/polymarket-moves-hourly-daily-crypto-bets-to-chainlink)
-
----
-
-## 70. Ledger Users Report Losses From Dubai-Bought Wallets
-
-**Author:** The Defiant  
-**Published:** 11/18/2026, 3:00:39 AM  
-**Categories:** -  
-
-Two users named Virgin Megastore as their purchase channel. A research registry identified an implant in one device from photos; the second case remains suspected.
-
-📖 [Read original article](https://thedefiant.io/news/hacks/ledger-users-report-losses-from-dubai-bought-wallets)
-
----
-
-## 71. Nvidia Board Has No Plans to Reinstate Jensen Huang
-
-**Author:** The Defiant  
-**Published:** 11/18/2026, 2:41:09 AM  
-**Categories:** -  
-
-Colette Kress remains interim CEO as directors search for a permanent successor, considering internal and external candidates.
-
-📖 [Read original article](https://thedefiant.io/frontier/ai/nvidia-board-has-no-plans-to-reinstate-jensen-huang)
-
----
-
-## 72. DBS, Circle Add 24/7 Institutional USDC Access in Asia
-
-**Author:** The Defiant  
-**Published:** 11/18/2026, 2:30:00 AM  
-**Categories:** -  
-
-Eligible institutions can mint and redeem USDC through DBS, the companies say, adding a bank-based route for dollar-stablecoin liquidity.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/dbs-circle-add-24-7-institutional-usdc-access-in-asia)
-
----
-
-## 73. Ether.fi Token Falls 25%, Doubling Bitcoin's Weekly Loss
-
-**Author:** The Defiant  
-**Published:** 11/18/2026, 2:03:01 AM  
-**Categories:** -  
-
-ETHFI is down about 32% over four weeks, while the protocol's staking TVL has fallen about 11% in the past week.
-
-📖 [Read original article](https://thedefiant.io/news/markets/ether-fi-token-falls-25-doubling-bitcoin-s-weekly-loss)
-
----
-
-## 74. PayPal’s PYUSD Supply Falls 14% as Ethereum Leads Drop
-
-**Author:** The Defiant  
-**Published:** 11/18/2026, 12:36:05 AM  
-**Categories:** -  
-
-Ethereum accounted for about 85% of PYUSD’s net weekly contraction, while the dollar token’s price stayed near its peg.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/paypal-s-pyusd-supply-falls-14-as-ethereum-leads-drop)
-
----
-
-## 75. Nvidia Tops Sales Forecast After Huang's Resignation
-
-**Author:** The Defiant  
-**Published:** 11/18/2026, 12:30:53 AM  
-**Categories:** -  
-
-Data-center revenue reached $107.6 billion. Nvidia's fourth-quarter outlook excludes China data-center compute sales, while shares rose about 4% after hours.
-
-📖 [Read original article](https://thedefiant.io/frontier/ai/nvidia-tops-sales-forecast-after-huang-s-resignation)
-
----
-
-## 76. USD1 Supply Falls 11% in a Week to Below $3 Billion
-
-**Author:** The Defiant  
-**Published:** 11/18/2026, 12:26:17 AM  
-**Categories:** -  
-
-World Liberty Financial's stablecoin reached its lowest daily supply reading in a 30-day window, with declines across Solana, Ethereum and BNB Smart Chain.
-
-📖 [Read original article](https://thedefiant.io/converge/tokens/usd1-supply-falls-11-in-a-week-to-below-3-billion)
-
----
-
-## 77. Java4Shell Fixes Arrive After AI-Assisted Discovery
-
-**Author:** The Defiant  
-**Published:** 11/18/2026, 12:11:53 AM  
-**Categories:** -  
-
-The flaw exposes unpatched Java applications on certain x86-64 processors. Calif and Wiz describe AI-assisted exploit development measured in hours.
-
-📖 [Read original article](https://thedefiant.io/frontier/technology/java4shell-fixes-arrive-after-ai-assisted-discovery)
 
 ---
