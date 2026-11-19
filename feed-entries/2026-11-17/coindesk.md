@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-17"
 date: "2026-11-17"
 source: "CoinDesk"
-count: 6
+count: 3
 ---
 
 # CoinDesk - 2026-11-17
 
-6 items collected.
+3 items collected.
 
 ---
 
@@ -44,41 +44,5 @@ Brian Armstrong says Coinbase is building payment tools for AI agents and believ
 The Commodity Futures Trading Commission ordered it to stop "mention" contracts involving the U.S. president and is reviewing whether Kalshi followed policy.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts)
-
----
-
-## 4. Druckenmiller says he is short copper, warns of economic weakness in 2027
-
-**Author:** Aoyon Ashraf  
-**Published:** 11/17/2026, 5:42:40 PM  
-**Categories:** Finance, Commodities, Top Stories, News  
-
-The billionaire investor is prioritizing capital preservation and shifting his AI focus from infrastructure to applications.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027)
-
----
-
-## 5. U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization
-
-**Author:** Jesse Hamilton  
-**Published:** 11/17/2026, 5:00:05 PM  
-**Categories:** Policy, Federal Reserve, Tokenization, News  
-
-Waller suggested the Federal Reserve could provide trusted rails for emerging innovation tied to tokenized assets and agentic AI.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization)
-
----
-
-## 6. Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed
-
-**Author:** Olivier Acuna  
-**Published:** 11/17/2026, 3:11:00 PM  
-**Categories:** Finance, Hong Kong, Stablecoins, CBDC, tokenized deposits, News  
-
-Hong Kong and Swift expanded their efforts to connect tokenized bank deposits across currencies, building on earlier work involving digital central bank money.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed)
 
 ---
