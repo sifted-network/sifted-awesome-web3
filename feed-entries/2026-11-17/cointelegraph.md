@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-17"
 date: "2026-11-17"
 source: "Cointelegraph"
-count: 9
+count: 7
 ---
 
 # Cointelegraph - 2026-11-17
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 a
 Solana Foundation now holds a majority interest in CoinGecko, its product chief said, as the crypto data platform explores trading features.
 
 📖 [Read original article](https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 11/17/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Dragonfly’s Haseeb Qureshi says Bitcoin could reach $400,000 by 2030 but doubts it will return to $100,000 by year-end with the rout in AI stocks weighing on crypto.
-
-📖 [Read original article](https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/17/2026, 1:12:10 PM  
-**Categories:** Latest News  
-
-ARK bought shares in Block, Circle and Coinbase worth about $39.9 million at Monday’s close while selling Nvidia and Solana and Ether staking ETFs.
-
-📖 [Read original article](https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
