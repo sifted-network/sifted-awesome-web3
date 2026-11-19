@@ -2,16 +2,40 @@
 title: "The Defiant - 2026-11-18"
 date: "2026-11-18"
 source: "The Defiant"
-count: 75
+count: 77
 ---
 
 # The Defiant - 2026-11-18
 
-75 items collected.
+77 items collected.
 
 ---
 
-## 1. Microsoft Plans Intel EMIB Packaging for Azure Chips
+## 1. Texas Resumes Environmental Permit Reviews for Data Centers
+
+**Author:** The Defiant  
+**Published:** 11/18/2026, 11:49:08 PM  
+**Categories:** -  
+
+TCEQ says normal reviews have resumed after a September directive to pause permit issuance. ERCOT targets Dec. 10 for its final community-impact report.
+
+📖 [Read original article](https://thedefiant.io/frontier/technology/texas-resumes-environmental-permit-reviews-for-data-centers)
+
+---
+
+## 2. OpenAI Reports Agent Gains on Multihour Research Tasks
+
+**Author:** The Defiant  
+**Published:** 11/18/2026, 11:48:06 PM  
+**Categories:** -  
+
+Documented workweeks in safety and alignment rose 77% from January to September, OpenAI says. It also renewed a call for mandatory AI-research disclosures.
+
+📖 [Read original article](https://thedefiant.io/frontier/ai/openai-reports-agent-gains-on-multihour-research-tasks)
+
+---
+
+## 3. Microsoft Plans Intel EMIB Packaging for Azure Chips
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 11:35:31 PM  
@@ -23,7 +47,7 @@ The agreement also confirms multi-year Xeon capacity, including Diamond Rapids, 
 
 ---
 
-## 2. Tencent's AI Buildout Deepens Free Cash Flow Deficit
+## 4. Tencent's AI Buildout Deepens Free Cash Flow Deficit
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 11:32:55 PM  
@@ -35,7 +59,7 @@ Capital expenditure payments rose 225% as cloud revenue growth accelerated to 35
 
 ---
 
-## 3. Kraken Parent Payward Agrees to Acquire Tribe Capital
+## 5. Kraken Parent Payward Agrees to Acquire Tribe Capital
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 11:25:15 PM  
@@ -47,7 +71,7 @@ The venture firm, chaired by Payward and Kraken co-CEO Arjun Sethi, manages $2.7
 
 ---
 
-## 4. GAO Says Four AI Chatbots Helped Develop Attack Plans
+## 6. GAO Says Four AI Chatbots Helped Develop Attack Plans
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 11:25:00 PM  
@@ -59,7 +83,7 @@ GAO says investigators obtained usable information in under 12 hours per platfor
 
 ---
 
-## 5. Sunrise Plans Anthropic Stock Token for Solana Debut
+## 7. Sunrise Plans Anthropic Stock Token for Solana Debut
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 11:17:09 PM  
@@ -71,7 +95,7 @@ Sunrise names Backpack Securities for its planned IPO-day token. Published legal
 
 ---
 
-## 6. Babylon Co-Founder Proposes Ending Bitcoin Staking
+## 8. Babylon Co-Founder Proposes Ending Bitcoin Staking
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 11:13:13 PM  
@@ -83,7 +107,7 @@ Fisher Yu's year-end sunset proposal would stop rewards and new stakes while pre
 
 ---
 
-## 7. Coinbase Offers Anthropic Perp Ahead of Nasdaq Debut
+## 9. Coinbase Offers Anthropic Perp Ahead of Nasdaq Debut
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 11:12:23 PM  
@@ -95,7 +119,7 @@ Eligible non-US traders can take USDC-settled positions with up to 5x leverage, 
 
 ---
 
-## 8. Injective's Veyra Upgrade Passes Vote, Targets Nov. 24
+## 10. Injective's Veyra Upgrade Passes Vote, Targets Nov. 24
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 11:05:45 PM  
@@ -107,7 +131,7 @@ Validators must switch to v1.21.0 at block 193,145,000. The approved package add
 
 ---
 
-## 9. NEAR Ratifies Issuance Cut, Pending Validator Upgrade
+## 11. NEAR Ratifies Issuance Cut, Pending Validator Upgrade
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 11:05:37 PM  
@@ -119,7 +143,7 @@ HSP-029 targets a 1.6% issuance cap over 24 months. A quarter-long grace period 
 
 ---
 
-## 10. Report: ByteDance AI Sales Strain Microsoft–OpenAI Ties
+## 12. Report: ByteDance AI Sales Strain Microsoft–OpenAI Ties
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:56:40 PM  
@@ -131,7 +155,7 @@ Microsoft executives told OpenAI they found no evidence of distillation, The Inf
 
 ---
 
-## 11. Stacks Sets 4.1 Vote on Clarity 7, BTC Deposit Changes
+## 13. Stacks Sets 4.1 Vote on Clarity 7, BTC Deposit Changes
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:54:14 PM  
@@ -143,7 +167,7 @@ The proposal needs 80% approval in both the staked- and liquid-STX tallies, with
 
 ---
 
-## 12. MEXC Shuts Visa-Linked Global Card After Payment Pause
+## 14. MEXC Shuts Visa-Linked Global Card After Payment Pause
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:48:38 PM  
@@ -155,7 +179,7 @@ Unused balances will move automatically to spot accounts after a Nov. 21 snapsho
 
 ---
 
-## 13. Blockaid Flags 8,800-Plus GTA-Themed Solana Tokens
+## 15. Blockaid Flags 8,800-Plus GTA-Themed Solana Tokens
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:45:41 PM  
@@ -167,7 +191,7 @@ Fake pre-orders and airdrops lead to wallet drainers, Blockaid says. Its four-mo
 
 ---
 
-## 14. Waller Backs Half-Point December Hike Unless Fed Signals a January Increase
+## 16. Waller Backs Half-Point December Hike Unless Fed Signals a January Increase
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:37:20 PM  
@@ -179,7 +203,7 @@ Morning futures pricing on Nov. 18 put a quarter-point hike at 95%, as the Fed g
 
 ---
 
-## 15. Strategy's STRC Hits Lowest Since August at $95.50
+## 17. Strategy's STRC Hits Lowest Since August at $95.50
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:27:33 PM  
@@ -191,7 +215,7 @@ The preferred closed 3.9% below its $100 stated amount, limiting new issuance ev
 
 ---
 
-## 16. Pre-Release GPT-6.2 Astra Cyber Jailbreak Took Half the Queries
+## 18. Pre-Release GPT-6.2 Astra Cyber Jailbreak Took Half the Queries
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:26:46 PM  
@@ -203,7 +227,7 @@ In single-turn cyber tests, a researcher developed a jailbreak in half the queri
 
 ---
 
-## 17. Gonka Bridge Exploit Drains Stablecoins, Mints WGNK
+## 19. Gonka Bridge Exploit Drains Stablecoins, Mints WGNK
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:24:25 PM  
@@ -215,7 +239,7 @@ Ethereum records show withdrawals of 884,151 USDT and 648 USDC, plus the creatio
 
 ---
 
-## 18. Solana Says Akash Is Building a GPU Forward Market
+## 20. Solana Says Akash Is Building a GPU Forward Market
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:21:53 PM  
@@ -227,7 +251,7 @@ The planned market would extend Akash’s compute business as it prepares to mov
 
 ---
 
-## 19. Net Share of Managers Overweight Tech Falls in BofA Poll
+## 21. Net Share of Managers Overweight Tech Falls in BofA Poll
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:21:29 PM  
@@ -239,7 +263,7 @@ The net share of managers overweight tech fell to 12% from 37% in October, Bloom
 
 ---
 
-## 20. Bessent Points to Commerce in Megaspeed Blacklist Split
+## 22. Bessent Points to Commerce in Megaspeed Blacklist Split
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:21:08 PM  
@@ -251,7 +275,7 @@ The Treasury secretary said four agencies backed listing Megaspeed for months. C
 
 ---
 
-## 21. Ethereum Faces Glamsterdam Gas-Rule Decision Thursday
+## 23. Ethereum Faces Glamsterdam Gas-Rule Decision Thursday
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:20:46 PM  
@@ -263,7 +287,7 @@ Developers will discuss whether to change rules that can alter how existing cont
 
 ---
 
-## 22. Anchorage Adds Custodied Crypto Margin for Kalshi Prime
+## 24. Anchorage Adds Custodied Crypto Margin for Kalshi Prime
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:20:24 PM  
@@ -275,7 +299,7 @@ Institutions can pledge bitcoin and stablecoins without moving the crypto to the
 
 ---
 
-## 23. Science Raises $400 Million for Sight-Restoring Implant
+## 25. Science Raises $400 Million for Sight-Restoring Implant
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:20:05 PM  
@@ -287,7 +311,7 @@ The financing backs PRIMA’s European rollout and a planned US launch that stil
 
 ---
 
-## 24. Bitwise Moves Beyond Crypto With AI Cyber Defense ETF
+## 26. Bitwise Moves Beyond Crypto With AI Cyber Defense ETF
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:19:47 PM  
@@ -299,7 +323,7 @@ ZDAY trades on NYSE Arca with a 0.75% annual expense ratio and 16 holdings, led 
 
 ---
 
-## 25. Coinbase Opens Morpho-Backed Crypto Loans in New York
+## 27. Coinbase Opens Morpho-Backed Crypto Loans in New York
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:19:27 PM  
@@ -311,7 +335,7 @@ New Yorkers can borrow USDC against bitcoin, ether and SOL, but fixed-rate loans
 
 ---
 
-## 26. California Halts Waymo Freeway Rides, KRON4 Reports
+## 28. California Halts Waymo Freeway Rides, KRON4 Reports
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:19:00 PM  
@@ -323,7 +347,7 @@ The restrictions took effect Nov. 11 and require corrective action before freewa
 
 ---
 
-## 27. Google Launches Gemini Robotics Plugin for Antigravity
+## 29. Google Launches Gemini Robotics Plugin for Antigravity
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:18:42 PM  
@@ -335,7 +359,7 @@ The workbench pairs MuJoCo simulation with camera-guided control. Antigravity ac
 
 ---
 
-## 28. PJM Proposes One-Year Grid Studies for Data Centers
+## 30. PJM Proposes One-Year Grid Studies for Data Centers
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:18:21 PM  
@@ -347,7 +371,7 @@ The grid operator wants to combine studies of new power plants and large electri
 
 ---
 
-## 29. Morpho Brings Stock-Token Loans to OKX’s X Layer
+## 31. Morpho Brings Stock-Token Loans to OKX’s X Layer
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:18:04 PM  
@@ -359,7 +383,7 @@ OKX Wallet advertises up to 350,000 USDC in launch incentives, including an xSto
 
 ---
 
-## 30. Blockaid Flags $3.9 Million in K3 and Reental Exploits
+## 32. Blockaid Flags $3.9 Million in K3 and Reental Exploits
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:17:38 PM  
@@ -371,7 +395,7 @@ K3 Capital said it paused contracts as Blockaid reported losses from its sBOLD v
 
 ---
 
-## 31. Curve's CRV Falls 48% in Four Weeks, Lagging BTC and ETH
+## 33. Curve's CRV Falls 48% in Four Weeks, Lagging BTC and ETH
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:17:08 PM  
@@ -383,7 +407,7 @@ The token's slide outpaced bitcoin and ether as Curve reported lower trading fee
 
 ---
 
-## 32. Polymarket US Says It Is Adding Oil and Gas Markets
+## 34. Polymarket US Says It Is Adding Oil and Gas Markets
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:16:48 PM  
@@ -395,7 +419,7 @@ The company reports more than 300,000 short-duration crypto traders in six weeks
 
 ---
 
-## 33. NEAR Says Take-Two–Linked Token Is Live on Near.com
+## 35. NEAR Says Take-Two–Linked Token Is Live on Near.com
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:16:22 PM  
@@ -407,7 +431,7 @@ The TTWO product is an Assetize debt certificate, not ownership of Take-Two shar
 
 ---
 
-## 34. Anthropic Said to Price Enlarged IPO at $83 a Share
+## 36. Anthropic Said to Price Enlarged IPO at $83 a Share
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:15:53 PM  
@@ -419,7 +443,7 @@ CNBC reported pricing above the $70–$78 range, while Bloomberg said the offeri
 
 ---
 
-## 35. CZ Says Anthropic Stock Tokens Will Reach BNB Chain on IPO Day
+## 37. CZ Says Anthropic Stock Tokens Will Reach BNB Chain on IPO Day
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:13:38 PM  
@@ -431,7 +455,7 @@ CZ named bStocks, Ondo and xStocks as routes to IPO-day exposure. Their products
 
 ---
 
-## 36. Coinbase Launches US Spot Margin With Up to 10x Leverage
+## 38. Coinbase Launches US Spot Margin With Up to 10x Leverage
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 9:57:15 PM  
@@ -443,7 +467,7 @@ Access is limited to eligible contract participants—a standard that generally 
 
 ---
 
-## 37. Google Rolls Out Gemini 4 Neon for Complex AI Work
+## 39. Google Rolls Out Gemini 4 Neon for Complex AI Work
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 9:46:15 PM  
@@ -455,7 +479,7 @@ Standard paid API rates are $3 per million uncached input tokens and $15 per mil
 
 ---
 
-## 38. Ledger Confirms Berlin Wallet Tampering, Probes Dubai
+## 40. Ledger Confirms Berlin Wallet Tampering, Probes Dubai
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 9:29:11 PM  
@@ -467,7 +491,7 @@ Ledger's UAE reseller directory lists Virgin Megastores' Ledger sales as tempora
 
 ---
 
-## 39. Bitcoin's Rebound Fades With Price 50% Below Record
+## 41. Bitcoin's Rebound Fades With Price 50% Below Record
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 9:27:24 PM  
@@ -479,7 +503,7 @@ The Nov. 18 quote was 4.3% below the recovery The Defiant documented Sunday, but
 
 ---
 
-## 40. BTCPay Server Urges Emergency Update for Nginx Flaws
+## 42. BTCPay Server Urges Emergency Update for Nginx Flaws
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 8:42:57 PM  
@@ -491,7 +515,7 @@ The fix updates the web-server dependency, not BTCPay's own version number. Dock
 
 ---
 
-## 41. Fed Minutes Point to More Hikes, Flag AI Inflation Risk
+## 43. Fed Minutes Point to More Hikes, Flag AI Inflation Risk
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 7:20:10 PM  
@@ -503,7 +527,7 @@ Bitcoin and ether slipped on Coinbase in the 10 minutes after the release. The O
 
 ---
 
-## 42. Binance Says ADGM Order Supports Recovery of Hack Funds
+## 44. Binance Says ADGM Order Supports Recovery of Hack Funds
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 7:03:48 PM  
@@ -515,7 +539,7 @@ Binance says it is pursuing frozen assets after committing more than $6.34 billi
 
 ---
 
-## 43. Astra vs. Fable: What Document and Knowledge Tests Show
+## 45. Astra vs. Fable: What Document and Knowledge Tests Show
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 6:25:09 PM  
@@ -527,7 +551,7 @@ In Artificial Analysis’ Max-setting tests, Astra leads GDP.pdf and Fable leads
 
 ---
 
-## 44. Bitcoin Nears $62,000 as Citi Cuts Its Forecast
+## 46. Bitcoin Nears $62,000 as Citi Cuts Its Forecast
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 5:46:21 PM  
@@ -539,7 +563,7 @@ Bitcoin’s low was about 0.4% above its weekend trough on Coinbase. Citi strate
 
 ---
 
-## 45. EIGEN Falls 48% in Four Weeks, Lagging Bitcoin, Ether
+## 47. EIGEN Falls 48% in Four Weeks, Lagging Bitcoin, Ether
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 4:56:07 PM  
@@ -551,7 +575,7 @@ EigenCloud's restaking collateral was valued at $4.52 billion, down about 28.5% 
 
 ---
 
-## 46. Variational Raises $110 Million to Expand Omni Trading
+## 48. Variational Raises $110 Million to Expand Omni Trading
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 4:04:35 PM  
@@ -563,7 +587,7 @@ Bain Capital Crypto led the round at a $1.5 billion valuation. Variational plans
 
 ---
 
-## 47. US Capital-Goods Import Prices Post Record Monthly Rise
+## 49. US Capital-Goods Import Prices Post Record Monthly Rise
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 3:09:05 PM  
@@ -575,7 +599,7 @@ Bitcoin slipped 0.2% across the release hour. Futures still pointed to higher ra
 
 ---
 
-## 48. Backpack Secures NFA Approval Ahead of US Perps Launch
+## 50. Backpack Secures NFA Approval Ahead of US Perps Launch
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 3:05:27 PM  
@@ -587,7 +611,7 @@ The futures intermediary approval follows CFTC exchange and clearinghouse orders
 
 ---
 
-## 49. How to Choose AI Coding Benchmarks That Fit Your Work
+## 51. How to Choose AI Coding Benchmarks That Fit Your Work
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 2:18:43 PM  
@@ -599,7 +623,7 @@ Repository answers, code edits and terminal jobs call for different tests. Here�
 
 ---
 
-## 50. USDC’s Direct Bank Cash Fell $1.88 Billion in Q3
+## 52. USDC’s Direct Bank Cash Fell $1.88 Billion in Q3
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 2:18:18 PM  
@@ -611,7 +635,7 @@ Directly held bank cash fell to $9.50 billion at September-end as total backing 
 
 ---
 
-## 51. How Tokenized Nvidia Traded Through Two Weeks of Huang Headlines
+## 53. How Tokenized Nvidia Traded Through Two Weeks of Huang Headlines
 
 **Author:** RedStone  
 **Published:** 11/18/2026, 2:08:01 PM  
@@ -623,7 +647,7 @@ Seven tokens give their holders a claim on the same Nvidia share. On Sunday 8 No
 
 ---
 
-## 52. APT Drops 24% in a Week, Erasing Its Autumn Rally
+## 54. APT Drops 24% in a Week, Erasing Its Autumn Rally
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 1:24:21 PM  
@@ -635,7 +659,7 @@ The token is down roughly 47% over 28 days, a steeper loss than bitcoin, ether, 
 
 ---
 
-## 53. Bullish Beats Adjusted Revenue Forecast as Spot Volume Falls
+## 55. Bullish Beats Adjusted Revenue Forecast as Spot Volume Falls
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 12:57:45 PM  
@@ -647,7 +671,7 @@ Subscription and services led Bullish’s year-over-year adjusted revenue growth
 
 ---
 
-## 54. Bitcoin Sheds Most of Post-Nvidia Bounce in 35 Minutes
+## 56. Bitcoin Sheds Most of Post-Nvidia Bounce in 35 Minutes
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:47:25 AM  
@@ -659,7 +683,7 @@ Bitcoin remained near $64,100 Wednesday morning, about 24% below its Oct. 21 int
 
 ---
 
-## 55. Binance Hack Wallet Moves Another $142 Million in ETH
+## 57. Binance Hack Wallet Moves Another $142 Million in ETH
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:31:54 AM  
@@ -671,7 +695,7 @@ Seven transfers redistributed the ether as records confirmed bitcoin swaps by a 
 
 ---
 
-## 56. Scattered Spider Hacker Gets Six Years for Crypto Theft
+## 58. Scattered Spider Hacker Gets Six Years for Crypto Theft
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:31:11 AM  
@@ -683,7 +707,7 @@ Prosecutors counted 32 crypto theft victims and said seized funds could compensa
 
 ---
 
-## 57. Ledger User Reports $320,000 Loss, Citing Berlin Purchase
+## 59. Ledger User Reports $320,000 Loss, Citing Berlin Purchase
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:27:20 AM  
@@ -695,7 +719,7 @@ Ledger Support asked the claimant to open a ticket. No implant has been confirme
 
 ---
 
-## 58. Binance Wallet's Anthropic xStocks Pool Hits 500M USDC Cap
+## 60. Binance Wallet's Anthropic xStocks Pool Hits 500M USDC Cap
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:18:20 AM  
@@ -707,7 +731,7 @@ Binance Wallet announced the closure nearly four hours before the scheduled dead
 
 ---
 
-## 59. Bitcoin Erases Summer Rally as ETF Outflows Persist
+## 61. Bitcoin Erases Summer Rally as ETF Outflows Persist
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 10:13:43 AM  
@@ -719,7 +743,7 @@ Bitcoin traded below its pre-rally August close on Coinbase, down 26% from its S
 
 ---
 
-## 60. PancakeSwap Becomes Pancake; CAKE Needs No Migration
+## 62. PancakeSwap Becomes Pancake; CAKE Needs No Migration
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 9:59:08 AM  
@@ -731,7 +755,7 @@ The exchange says its shorter name reflects an existing business in perpetual fu
 
 ---
 
-## 61. Etherscan Warns Users After Support Access Attempts
+## 63. Etherscan Warns Users After Support Access Attempts
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 9:54:25 AM  
@@ -743,7 +767,7 @@ Users should not share private keys, recovery phrases or passwords, even with co
 
 ---
 
-## 62. The Graph’s Curation Burn Stays at 1% After 300,000 GRT Deposit
+## 64. The Graph’s Curation Burn Stays at 1% After 300,000 GRT Deposit
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 9:36:23 AM  
@@ -755,7 +779,7 @@ Lodestar estimates the deposit lifted one deployment’s modeled share of indexi
 
 ---
 
-## 63. PyPI Quarantines Two Microsoft AI Framework Releases
+## 65. PyPI Quarantines Two Microsoft AI Framework Releases
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 9:23:32 AM  
@@ -767,7 +791,7 @@ Wiz and OX Security found credential-stealing code in agent-framework 1.26.1 and
 
 ---
 
-## 64. LUKSO Urges Key Removal After Universal Profile Attack
+## 66. LUKSO Urges Key Removal After Universal Profile Attack
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 7:37:16 AM  
@@ -779,7 +803,7 @@ LUKSO says holders must remove an attacker key and a malicious recovery controll
 
 ---
 
-## 65. Maple’s SYRUP Loses Half Its Value, Lagging BTC and ETH
+## 67. Maple’s SYRUP Loses Half Its Value, Lagging BTC and ETH
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 7:07:29 AM  
@@ -791,7 +815,7 @@ SYRUP is about 27% below The Defiant’s Nov. 10 reading. Maple’s dashboard no
 
 ---
 
-## 66. Paytaca Warns Users After Two Backend Security Attacks
+## 68. Paytaca Warns Users After Two Backend Security Attacks
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 5:46:21 AM  
@@ -803,7 +827,7 @@ The Bitcoin Cash wallet says attackers created fake orders and payment requests,
 
 ---
 
-## 67. Polymarket Moves Hourly, Daily Crypto Bets to Chainlink
+## 69. Polymarket Moves Hourly, Daily Crypto Bets to Chainlink
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 3:05:01 AM  
@@ -815,7 +839,7 @@ New contracts use 60-second average prices, while the November 18 daily markets 
 
 ---
 
-## 68. Ledger Users Report Losses From Dubai-Bought Wallets
+## 70. Ledger Users Report Losses From Dubai-Bought Wallets
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 3:00:39 AM  
@@ -827,7 +851,7 @@ Two users named Virgin Megastore as their purchase channel. A research registry 
 
 ---
 
-## 69. Nvidia Board Has No Plans to Reinstate Jensen Huang
+## 71. Nvidia Board Has No Plans to Reinstate Jensen Huang
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 2:41:09 AM  
@@ -839,7 +863,7 @@ Colette Kress remains interim CEO as directors search for a permanent successor,
 
 ---
 
-## 70. DBS, Circle Add 24/7 Institutional USDC Access in Asia
+## 72. DBS, Circle Add 24/7 Institutional USDC Access in Asia
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 2:30:00 AM  
@@ -851,7 +875,7 @@ Eligible institutions can mint and redeem USDC through DBS, the companies say, a
 
 ---
 
-## 71. Ether.fi Token Falls 25%, Doubling Bitcoin's Weekly Loss
+## 73. Ether.fi Token Falls 25%, Doubling Bitcoin's Weekly Loss
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 2:03:01 AM  
@@ -863,7 +887,7 @@ ETHFI is down about 32% over four weeks, while the protocol's staking TVL has fa
 
 ---
 
-## 72. PayPal’s PYUSD Supply Falls 14% as Ethereum Leads Drop
+## 74. PayPal’s PYUSD Supply Falls 14% as Ethereum Leads Drop
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 12:36:05 AM  
@@ -875,7 +899,7 @@ Ethereum accounted for about 85% of PYUSD’s net weekly contraction, while the 
 
 ---
 
-## 73. Nvidia Tops Sales Forecast After Huang's Resignation
+## 75. Nvidia Tops Sales Forecast After Huang's Resignation
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 12:30:53 AM  
@@ -887,7 +911,7 @@ Data-center revenue reached $107.6 billion. Nvidia's fourth-quarter outlook excl
 
 ---
 
-## 74. USD1 Supply Falls 11% in a Week to Below $3 Billion
+## 76. USD1 Supply Falls 11% in a Week to Below $3 Billion
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 12:26:17 AM  
@@ -899,7 +923,7 @@ World Liberty Financial's stablecoin reached its lowest daily supply reading in 
 
 ---
 
-## 75. Java4Shell Fixes Arrive After AI-Assisted Discovery
+## 77. Java4Shell Fixes Arrive After AI-Assisted Discovery
 
 **Author:** The Defiant  
 **Published:** 11/18/2026, 12:11:53 AM  
