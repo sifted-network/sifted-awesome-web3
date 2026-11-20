@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-18"
 date: "2026-11-18"
 source: "The Block"
-count: 10
+count: 5
 ---
 
 # The Block - 2026-11-18
 
-10 items collected.
+5 items collected.
 
 ---
 
@@ -68,65 +68,5 @@ Bitcoin has dipped below its 200-day and 365-day moving averages of $72,900 and 
 Bullish shares rose about 10% after the crypto exchange reported earnings and authorized a buyback.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-11-18-bullishs-q3-adjusted-profit-rises-35-digital-asset-sales-fall-23-443456)
-
----
-
-## 6. Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific
-
-**Author:** James Hunt  
-**Published:** 11/18/2026, 4:30:41 PM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Stablecoins, Payments, News  
-
-Visa plans to let eligible Visa Direct clients in Asia-Pacific fund cross-border payouts with stablecoins.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457)
-
----
-
-## 7. Variational raises $110 million at $1.5 billion valuation to expand onchain derivatives trading
-
-**Author:** Jason Shubnell  
-**Published:** 11/18/2026, 3:51:42 PM  
-**Categories:** Crypto Ecosystems, Deals, DeFi, Organizations, Venture Capital, Derivatives, Dragonfly Capital, Hyperliquid, Series B, News  
-
-The derivatives protocol’s Omni platform has processed over $475 billion in volume as it expands into traditional markets.
-
-📖 [Read original article](https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445)
-
----
-
-## 8. StoneX cuts Bitdeer price target to $15 amid new US chip export controls
-
-**Author:** Brian Danga  
-**Published:** 11/18/2026, 3:16:54 PM  
-**Categories:** Equities, Markets, Analyst Reports, News  
-
-StoneX trimmed its 2027 revenue and EBITDA estimates for Bitdeer to account for Malaysian licensing scenarios, among other factors.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-11-18-stonex-cuts-bitdeer-price-target-to-15-amid-new-us-chip-export-controls-443440)
-
----
-
-## 9. Backpack secures NFA approval, completing licensing stack for US derivatives launch
-
-**Author:** Timmy Shen  
-**Published:** 11/18/2026, 2:49:00 PM  
-**Categories:** Companies, Policy, Regulation, CFTC, News  
-
-The company has also received approval from the CFTC to operate as a designated contract market and derivatives clearing organization.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980)
-
----
-
-## 10. ‘Gift from the market’: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says
-
-**Author:** James Hunt  
-**Published:** 11/18/2026, 2:01:54 PM  
-**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Analyst Reports, Bitcoin, News  
-
-K33 said bitcoin may have found a local bottom after six weekly losses, with options traders still seeking downside protection.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017)
 
 ---
