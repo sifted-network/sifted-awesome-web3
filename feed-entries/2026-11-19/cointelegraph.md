@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-19"
 date: "2026-11-19"
 source: "Cointelegraph"
-count: 24
+count: 21
 ---
 
 # Cointelegraph - 2026-11-19
 
-24 items collected.
+21 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ Binance obtains court orders freezing assets stolen in October’s hack. Hong Ko
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Nate Kostar  
-**Published:** 11/19/2026, 9:42:20 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. MoonPay seeks US bank charter for stablecoin, custody services
+## 3. MoonPay seeks US bank charter for stablecoin, custody services
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/19/2026, 9:01:42 PM  
@@ -59,7 +47,7 @@ MoonPay’s proposed national trust bank would offer stablecoin issuance and red
 
 ---
 
-## 5. Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price
+## 4. Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price
 
 **Author:** Cointelegraph by Jona Jaupi  
 **Published:** 11/19/2026, 8:33:24 PM  
@@ -71,7 +59,7 @@ Hyperliquid traders priced Anthropic futures within 1% of the stock’s Nasdaq o
 
 ---
 
-## 6. Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading
+## 5. Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/19/2026, 8:06:34 PM  
@@ -83,7 +71,7 @@ Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Lev
 
 ---
 
-## 7. Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns
+## 6. Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/19/2026, 6:20:49 PM  
@@ -95,7 +83,7 @@ Ethereum developers are weighing changes to gas pricing proposals that could dis
 
 ---
 
-## 8. Why higher rates could slow Bitcoin buying at treasury firms
+## 7. Why higher rates could slow Bitcoin buying at treasury firms
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 11/19/2026, 6:09:32 PM  
@@ -107,7 +95,7 @@ A treasury company can have years of dividends covered and still struggle to sel
 
 ---
 
-## 9. Bitcoin price ignores Anthropic debut as ANT share price dips below $100
+## 8. Bitcoin price ignores Anthropic debut as ANT share price dips below $100
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/19/2026, 6:06:50 PM  
@@ -119,7 +107,7 @@ Bitcoin dropped toward a third retest of $62,000 as Anthropic debuted on the Nas
 
 ---
 
-## 10. Anthropic shares open at $111.50, 34.3% above $83 IPO price
+## 9. Anthropic shares open at $111.50, 34.3% above $83 IPO price
 
 **Author:** Cointelegraph by Bryan O'Shea  
 **Published:** 11/19/2026, 4:07:51 PM  
@@ -131,7 +119,7 @@ The Claude chatbot maker began trading under the ticker ANT, with the company’
 
 ---
 
-## 11. Ethereum’s new DeFi security tool raises questions over censorship
+## 10. Ethereum’s new DeFi security tool raises questions over censorship
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 11/19/2026, 1:30:00 PM  
@@ -143,7 +131,7 @@ Phylax’s system lets decentralized protocols block potentially harmful transac
 
 ---
 
-## 12. Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms
+## 11. Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/19/2026, 12:44:06 PM  
@@ -155,7 +143,7 @@ Hong Kong’s securities regulator said Hyperliquid has no local license and may
 
 ---
 
-## 13. GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume
+## 12. GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/19/2026, 12:33:46 PM  
@@ -167,7 +155,7 @@ Tokenized Take-Two shares drew $249.5 million in DEX volume Wednesday, nearly th
 
 ---
 
-## 14. Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks
+## 13. Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/19/2026, 11:19:58 AM  
@@ -179,7 +167,7 @@ Shareholders will vote Dec. 7 on whether H100 can buy back up to 10% of its shar
 
 ---
 
-## 15. IOSCO warns quantum upgrades could slow blockchains, leave security gaps
+## 14. IOSCO warns quantum upgrades could slow blockchains, leave security gaps
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/19/2026, 10:32:05 AM  
@@ -191,7 +179,7 @@ A Solana test network ran about 90% slower with quantum-resistant signatures, an
 
 ---
 
-## 16. Singapore settles $77.5M tokenized bill sale with wholesale CBDC
+## 15. Singapore settles $77.5M tokenized bill sale with wholesale CBDC
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/19/2026, 8:54:58 AM  
@@ -203,7 +191,7 @@ MAS issued the bills directly on its test network, which it plans to rename SG D
 
 ---
 
-## 17. Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B
+## 16. Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/19/2026, 8:26:19 AM  
@@ -215,7 +203,7 @@ US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined asset
 
 ---
 
-## 18. BTCPay Server issues emergency update for 5 security flaws
+## 17. BTCPay Server issues emergency update for 5 security flaws
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/19/2026, 8:04:37 AM  
@@ -227,7 +215,7 @@ The EU’s cybersecurity service said the flaws could let attackers to run malic
 
 ---
 
-## 19. Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut
+## 18. Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/19/2026, 7:55:56 AM  
@@ -239,7 +227,7 @@ Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, wh
 
 ---
 
-## 20. Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts
+## 19. Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts
 
 **Author:** Cointelegraph by Jona Jaupi  
 **Published:** 11/19/2026, 6:00:00 AM  
@@ -251,7 +239,7 @@ Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury
 
 ---
 
-## 21. Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight
+## 20. Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/19/2026, 5:27:45 AM  
@@ -263,7 +251,7 @@ The lawmakers urged Treasury to extend safe harbor protections to stablecoin iss
 
 ---
 
-## 22. Binance hackers stole 192 tokens across 11 networks, court docs show
+## 21. Binance hackers stole 192 tokens across 11 networks, court docs show
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/19/2026, 5:09:45 AM  
@@ -272,29 +260,5 @@ The lawmakers urged Treasury to extend safe harbor protections to stablecoin iss
 Stablecoins accounted for at least $3.46 billion of the $6.3 billion stolen, while the hackers also took memecoins, tokenized gold and gaming tokens.
 
 📖 [Read original article](https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. Trump administration unveils new center to choke off scam payments
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/19/2026, 1:45:33 AM  
-**Categories:** Latest News  
-
-Americans reported more than $17.7 billion in online fraud losses in 2025.
-
-📖 [Read original article](https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 24. Fed officials saw October rate hold as a ‘close call,’ minutes show
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/19/2026, 12:35:49 AM  
-**Categories:** Markets  
-
-The latest FOMC minutes suggest greater appetite for higher rates than the Fed’s 10–2 vote indicated, with markets now pricing in a December hike.
-
-📖 [Read original article](https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
