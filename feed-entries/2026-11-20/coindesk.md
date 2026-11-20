@@ -2,16 +2,64 @@
 title: "CoinDesk - 2026-11-20"
 date: "2026-11-20"
 source: "CoinDesk"
-count: 18
+count: 22
 ---
 
 # CoinDesk - 2026-11-20
 
-18 items collected.
+22 items collected.
 
 ---
 
-## 1. Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians
+## 1. Kalshi races to get ahead of New York order that could shut down exchange
+
+**Author:** Jesse Hamilton  
+**Published:** 11/20/2026, 10:51:14 PM  
+**Categories:** Policy, Prediction Markets, Kalshi, Regulation, News  
+
+The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange)
+
+---
+
+## 2. Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment
+
+**Author:** Krisztian Sandor  
+**Published:** 11/20/2026, 10:05:31 PM  
+**Categories:** Finance, Tokenized Equities, Tokenization, Fairmint, SEC, News  
+
+The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year "innovation exemption" for tokenized trading.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment)
+
+---
+
+## 3. Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play
+
+**Author:** Krisztian Sandor  
+**Published:** 11/20/2026, 6:13:52 PM  
+**Categories:** Markets, Markets, Bitcoin News, Artificial Intelligence, Market Wrap, News  
+
+Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play)
+
+---
+
+## 4. Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street
+
+**Author:** Helene Braun,Aoyon Ashraf  
+**Published:** 11/20/2026, 2:54:30 PM  
+**Categories:** Markets, Exclusive, News  
+
+A former Point72 executive says AI could reshape Wall Street's data market, turning once-exclusive information into a source of revenue and financing.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street)
+
+---
+
+## 5. Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians
 
 **Author:** Olivier Acuna  
 **Published:** 11/20/2026, 2:38:30 PM  
@@ -23,7 +71,7 @@ Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians
 
 ---
 
-## 2. U.S. Senate passes bill to ban prediction market bets on war and death
+## 6. U.S. Senate passes bill to ban prediction market bets on war and death
 
 **Author:** Olivier Acuna  
 **Published:** 11/20/2026, 2:25:57 PM  
@@ -35,9 +83,9 @@ The bill would ban bets on war, assassinations and military operations amid conc
 
 ---
 
-## 3. Live news: Bitcoin hovers just above $61,000 as Anthropic slides after Nasdaq debut
+## 7. Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut
 
-**Author:** James Van Straten  
+**Author:** James Van Straten,Krisztian Sandor  
 **Published:** 11/20/2026, 1:35:33 PM  
 **Categories:** Tech, Bitcoin News, Live News, live_news  
 
@@ -47,7 +95,7 @@ BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech s
 
 ---
 
-## 4. Bitcoin bots pounced within seconds when researchers exposed their wallet keys
+## 8. Bitcoin bots pounced within seconds when researchers exposed their wallet keys
 
 **Author:** Shaurya Malwa  
 **Published:** 11/20/2026, 1:30:22 PM  
@@ -59,7 +107,7 @@ University of Liège researchers put a few dollars into deliberately vulnerable 
 
 ---
 
-## 5. ECB’s Lagarde warns Europe could lose control of growing tokenized asset market
+## 9. ECB’s Lagarde warns Europe could lose control of growing tokenized asset market
 
 **Author:** Olivier Acuna  
 **Published:** 11/20/2026, 1:11:49 PM  
@@ -71,7 +119,7 @@ The ECB president called for common rules as the EU's new blockchain settlement 
 
 ---
 
-## 6. Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging
+## 10. Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging
 
 **Author:** Omkar Godbole  
 **Published:** 11/20/2026, 12:15:08 PM  
@@ -83,7 +131,7 @@ Your day-ahead look for Nov. 20, 2026
 
 ---
 
-## 7. Bitcoin drops for third straight day as Asian tech shares slide
+## 11. Bitcoin drops for third straight day as Asian tech shares slide
 
 **Author:** James Van Straten,Francisco Rodrigues,Saksham Diwan,Omkar Godbole  
 **Published:** 11/20/2026, 11:42:02 AM  
@@ -95,7 +143,7 @@ BlackRock’s spot bitcoin ETF recorded the largest single-day outflow since its
 
 ---
 
-## 8. Coinbase targets first-half 2027 for its own prediction market contracts
+## 12. Coinbase targets first-half 2027 for its own prediction market contracts
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 11/20/2026, 10:48:04 AM  
@@ -107,7 +155,7 @@ The move would reduce Coinbase's reliance on a partnership Kalshi, which brought
 
 ---
 
-## 9. No special rules for Hyperliquid or other onchain trading platforms, CFTC says
+## 13. No special rules for Hyperliquid or other onchain trading platforms, CFTC says
 
 **Author:** Olivier Acuna  
 **Published:** 11/20/2026, 10:02:03 AM  
@@ -119,7 +167,7 @@ Hyperliquid and other onchain exchanges can offer derivatives to U.S. traders if
 
 ---
 
-## 10. Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares
+## 14. Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares
 
 **Author:** Omkar Godbole  
 **Published:** 11/20/2026, 9:48:52 AM  
@@ -131,7 +179,7 @@ ARK Invest snapped up $90 million in Anthropic stock across six funds during the
 
 ---
 
-## 11. Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million
+## 15. Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million
 
 **Author:** Shaurya Malwa  
 **Published:** 11/20/2026, 8:04:40 AM  
@@ -143,7 +191,7 @@ The sell-off hit Wagyu’s XMR1 token, separate from Monero and Hyperliquid’s 
 
 ---
 
-## 12. Here's what's crashing gold and likely weighing on bitcoin too
+## 16. Here's what's crashing gold and likely weighing on bitcoin too
 
 **Author:** Omkar Godbole  
 **Published:** 11/20/2026, 6:12:15 AM  
@@ -155,7 +203,7 @@ Gold fell to its lowest level since September 2025 on Friday, and the same catal
 
 ---
 
-## 13. Anthropic shares may fall 5% at Friday’s open, crypto futures suggest
+## 17. Anthropic shares may fall 5% at Friday’s open, crypto futures suggest
 
 **Author:** Shaurya Malwa  
 **Published:** 11/20/2026, 6:08:28 AM  
@@ -167,7 +215,7 @@ About $1.7 billion traded through a Hyperliquid contract on the AI company’s s
 
 ---
 
-## 14. This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive
+## 18. This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive
 
 **Author:** Shaurya Malwa  
 **Published:** 11/20/2026, 5:32:25 AM  
@@ -179,7 +227,7 @@ PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out mo
 
 ---
 
-## 15. Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling
+## 19. Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling
 
 **Author:** Omkar Godbole  
 **Published:** 11/20/2026, 5:20:51 AM  
@@ -191,7 +239,7 @@ Wall Street piled into Bitcoin funds in the third quarter, ending a three-quarte
 
 ---
 
-## 16. Ethereum’s next big upgrade is pushed into 2027 by apps it would break
+## 20. Ethereum’s next big upgrade is pushed into 2027 by apps it would break
 
 **Author:** Shaurya Malwa  
 **Published:** 11/20/2026, 4:58:08 AM  
@@ -203,7 +251,7 @@ Glamsterdam was originally targeted for December, but developers now say January
 
 ---
 
-## 17. VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs
+## 21. VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs
 
 **Author:** Shaurya Malwa  
 **Published:** 11/20/2026, 4:28:52 AM  
@@ -215,7 +263,7 @@ Coinbase Custody will continue serving all three funds after Gemini's contracts 
 
 ---
 
-## 18. Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt
+## 22. Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt
 
 **Author:** Omkar Godbole  
 **Published:** 11/20/2026, 3:32:30 AM  
