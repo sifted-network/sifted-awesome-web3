@@ -2,16 +2,76 @@
 title: "The Block - 2026-11-19"
 date: "2026-11-19"
 source: "The Block"
-count: 10
+count: 15
 ---
 
 # The Block - 2026-11-19
 
-10 items collected.
+15 items collected.
 
 ---
 
-## 1. Bitcoin finance protocol Hashi goes live on Sui mainnet
+## 1. Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks
+
+**Author:** Yogita Khatri  
+**Published:** 11/19/2026, 8:20:59 PM  
+**Categories:** Crypto Ecosystems, DeFi, Markets, Policy, Regulation, Web3, CFTC, Kalshi, Prediction Markets, News  
+
+Quintenz said the possibility of insider trading doesn't make a market illegal and that enforcement should back up exchanges' efforts to prevent it.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133)
+
+---
+
+## 2. Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules
+
+**Author:** Kyle Baird  
+**Published:** 11/19/2026, 6:47:30 PM  
+**Categories:** Congress, People, Policy, Regulation, Clarity Act, News  
+
+Ripple’s Alderoty backs durable agency rules as hopes for crypto market structure legislation fade.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105)
+
+---
+
+## 3. CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US
+
+**Author:** Yogita Khatri  
+**Published:** 11/19/2026, 6:04:15 PM  
+**Categories:** Crypto Ecosystems, DeFi, Markets, People, Policy, Regulation, CFTC, Derivatives, Hyperliquid, Perpetuals, News  
+
+Michael Selig said platforms like Hyperliquid have two ways to enter the U.S. retail market and must follow the same rules as other exchanges
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106)
+
+---
+
+## 4. Tokenized Stocks Shrug Off the Crypto Selloff
+
+**Author:** Ian Devendorf  
+**Published:** 11/19/2026, 5:12:00 PM  
+**Categories:** News  
+
+Tokenized Stocks Shrug Off the Crypto Selloff Bitcoin fell as low as $62k late Saturday, its sixth straight weekly decline. Meanwhile, tokenized stocks crossed $4 billion in onchain value for the first time on Nov 11. Tokenized stocks are now roughly five times their value on January 1. Tokenized st...
+
+📖 [Read original article](https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829)
+
+---
+
+## 5. Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking
+
+**Author:** Kyle Baird  
+**Published:** 11/19/2026, 4:01:16 PM  
+**Categories:** Congress, Crypto Ecosystems, People, Policy, Regulation, Stablecoins, Clarity Act, News  
+
+Hill and Moreno fault Clarity Act delays but disagree on how much crypto regulators can accomplish.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615)
+
+---
+
+## 6. Bitcoin finance protocol Hashi goes live on Sui mainnet
 
 **Author:** James Hunt  
 **Published:** 11/19/2026, 2:00:00 PM  
@@ -23,7 +83,7 @@ Hashi is processing bitcoin deposits on Sui mainnet, with hBTC used for Fluid lo
 
 ---
 
-## 2. US launches cybercrime center with TRM Labs to help trace crypto tied to scams
+## 7. US launches cybercrime center with TRM Labs to help trace crypto tied to scams
 
 **Author:** Brian Danga  
 **Published:** 11/19/2026, 11:55:06 AM  
@@ -35,7 +95,7 @@ The Threat Disruption Center will help investigators trace victims’ funds and 
 
 ---
 
-## 3. 1inch integrates Hyperliquid’s perpetual futures contracts into its dApp and wallet platform
+## 8. 1inch integrates Hyperliquid’s perpetual futures contracts into its dApp and wallet platform
 
 **Author:** Danny Park  
 **Published:** 11/19/2026, 11:00:00 AM  
@@ -47,7 +107,7 @@ Users can fund a position with a token they already hold on 1inch, which will be
 
 ---
 
-## 4. Ant International launches protocol for real-time settlement between tokenized deposits and money market funds
+## 9. Ant International launches protocol for real-time settlement between tokenized deposits and money market funds
 
 **Author:** Timmy Shen  
 **Published:** 11/19/2026, 10:39:29 AM  
@@ -59,7 +119,7 @@ Ant launched the Whale Orchestration Protocol to enable settlement between token
 
 ---
 
-## 5. Singapore’s MAS issues $77 million in tokenized bills settled via CBDC
+## 10. Singapore’s MAS issues $77 million in tokenized bills settled via CBDC
 
 **Author:** Timmy Shen  
 **Published:** 11/19/2026, 8:25:35 AM  
@@ -71,7 +131,7 @@ The central bank said the bills were issued natively on its Singapore Dollar Tes
 
 ---
 
-## 6. Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers
+## 11. Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers
 
 **Author:** Brian Danga  
 **Published:** 11/19/2026, 6:00:00 AM  
@@ -83,7 +143,7 @@ Bitcoin funding stayed negative for 67 consecutive days into May before recoveri
 
 ---
 
-## 7. Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a ‘value zone’, and more
+## 12. Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a ‘value zone’, and more
 
 **Author:** Yogita Khatri  
 **Published:** 11/19/2026, 6:00:00 AM  
@@ -95,7 +155,7 @@ In today's newsletter, Binance obtains $6.5 billion freezing order from Abu Dhab
 
 ---
 
-## 8. Ledger expands hardware hack investigation to Germany, UAE as new cases emerge
+## 13. Ledger expands hardware hack investigation to Germany, UAE as new cases emerge
 
 **Author:** Danny Park  
 **Published:** 11/19/2026, 4:13:18 AM  
@@ -107,7 +167,7 @@ The company confirmed that the new cases share the same kind of physical modific
 
 ---
 
-## 9. Kraken parent Payward to acquire Tribe Capital to expand private-market offerings
+## 14. Kraken parent Payward to acquire Tribe Capital to expand private-market offerings
 
 **Author:** Timmy Shen  
 **Published:** 11/19/2026, 3:18:53 AM  
@@ -119,7 +179,7 @@ The deal will add private-market sourcing, underwriting, and fund management cap
 
 ---
 
-## 10. Standard Chartered, StraitsX, OCBC complete trial of tokenized deposit interoperability
+## 15. Standard Chartered, StraitsX, OCBC complete trial of tokenized deposit interoperability
 
 **Author:** Danny Park  
 **Published:** 11/19/2026, 2:30:00 AM  
