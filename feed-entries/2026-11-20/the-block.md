@@ -2,16 +2,88 @@
 title: "The Block - 2026-11-20"
 date: "2026-11-20"
 source: "The Block"
-count: 8
+count: 14
 ---
 
 # The Block - 2026-11-20
 
-8 items collected.
+14 items collected.
 
 ---
 
-## 1. Wintermute policy chief calls for crypto lobby to ‘clean house’ in D.C.
+## 1. DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high
+
+**Author:** Kyle Baird  
+**Published:** 11/20/2026, 9:40:01 PM  
+**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Infrastructure, Markets, Privacy, Mining, Zcash, News  
+
+Fortitude wins shareholder backing for its planned Nasdaq debut as ZEC trades 55% below its record high.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784)
+
+---
+
+## 2. Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program
+
+**Author:** Sarah Wynn  
+**Published:** 11/20/2026, 7:41:52 PM  
+**Categories:** Crypto Ecosystems, DeFi, Markets, Policy, Regulation, Prediction Markets, News  
+
+Rep. Sean Casten, who could have a top spot in Congress next year, is clamping down on insider trading in prediction markets.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779)
+
+---
+
+## 3. Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic
+
+**Author:** Kyle Baird  
+**Published:** 11/20/2026, 6:22:39 PM  
+**Categories:** Companies, Crypto Ecosystems, Exchanges, Markets, Binance, News  
+
+Elliptic says little has likely been cashed out, despite a sharp rise in bitcoin mixing since Nov. 17.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758)
+
+---
+
+## 4. JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost
+
+**Author:** Yogita Khatri  
+**Published:** 11/20/2026, 6:17:39 PM  
+**Categories:** Companies, Crypto Ecosystems, Equities, Finance firms, Layer 1s, Markets, Policy, Regulation, Token Projects, Analyst Reports, Bitcoin, exclusive, JPMorgan, TradFi banks, News  
+
+Bitcoin's recent price drop has widened the gap between its market price and JPMorgan's estimated production cost of $86,000.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763)
+
+---
+
+## 5. Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds
+
+**Author:** Kyle Baird  
+**Published:** 11/20/2026, 4:11:22 PM  
+**Categories:** Bridges, Crypto Ecosystems, DeFi, Security, Cross-chain Swaps, Exploits, News  
+
+Wagyu’s founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit.
+
+📖 [Read original article](https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747)
+
+---
+
+## 6. Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends
+
+**Author:** James Hunt  
+**Published:** 11/20/2026, 2:51:32 PM  
+**Categories:** Crypto Ecosystems, People, Policy, Regulation, Web3, Crypto, News  
+
+Rep. Steven Horsford said a bipartisan crypto tax bill could pass the House before this current Congress ends.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720)
+
+---
+
+## 7. Wintermute policy chief calls for crypto lobby to ‘clean house’ in D.C.
 
 **Author:** Brian Danga  
 **Published:** 11/20/2026, 2:36:10 PM  
@@ -23,7 +95,7 @@ Wintermute's Ron Hammond says crypto needs a new strategy after repeated lobbyin
 
 ---
 
-## 2. US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion
+## 8. US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion
 
 **Author:** Brian Danga  
 **Published:** 11/20/2026, 12:29:57 PM  
@@ -35,7 +107,7 @@ BlackRock's IBIT made up nearly all of Thursday's outflows, despite Morgan Stanl
 
 ---
 
-## 3. Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings
+## 9. Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings
 
 **Author:** James Hunt  
 **Published:** 11/20/2026, 12:12:29 PM  
@@ -47,7 +119,7 @@ Ark Invest bought nearly 1 million Anthropic shares and trimmed its Ethereum and
 
 ---
 
-## 4. MoonPay applies for national trust bank charter to expand stablecoin services
+## 10. MoonPay applies for national trust bank charter to expand stablecoin services
 
 **Author:** Danny Park  
 **Published:** 11/20/2026, 10:39:09 AM  
@@ -59,7 +131,7 @@ MoonPay has applied for a national trust bank charter to expand its custody and 
 
 ---
 
-## 5. Senate passes ‘Death Bets Act’ to ban prediction market contracts tied to death and war
+## 11. Senate passes ‘Death Bets Act’ to ban prediction market contracts tied to death and war
 
 **Author:** Timmy Shen  
 **Published:** 11/20/2026, 10:09:25 AM  
@@ -71,7 +143,7 @@ The Death Bets Act, which now heads to the House, would ban prediction market co
 
 ---
 
-## 6. Michael Saylor sees up to $7.5 billion in ‘natural demand’ for Strategy’s STRC preferred stock
+## 12. Michael Saylor sees up to $7.5 billion in ‘natural demand’ for Strategy’s STRC preferred stock
 
 **Author:** Danny Park  
 **Published:** 11/20/2026, 8:02:36 AM  
@@ -83,7 +155,7 @@ Saylor said the company is currently responding to the credit-market contraction
 
 ---
 
-## 7. CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more
+## 13. CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more
 
 **Author:** Yogita Khatri  
 **Published:** 11/20/2026, 5:40:00 AM  
@@ -95,7 +167,7 @@ In today's newsletter, CFTC Chair Selig outlines how Hyperliquid and other oncha
 
 ---
 
-## 8. Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling
+## 14. Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling
 
 **Author:** Timmy Shen  
 **Published:** 11/20/2026, 4:24:05 AM  
