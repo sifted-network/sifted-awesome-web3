@@ -2,16 +2,76 @@
 title: "CoinDesk - 2026-11-19"
 date: "2026-11-19"
 source: "CoinDesk"
-count: 15
+count: 20
 ---
 
 # CoinDesk - 2026-11-19
 
-15 items collected.
+20 items collected.
 
 ---
 
-## 1. Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test
+## 1. Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report
+
+**Author:** Krisztian Sandor  
+**Published:** 11/19/2026, 7:53:42 PM  
+**Categories:** Finance, Stablecoins, News  
+
+USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC liquidity backing its stablecoins.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report)
+
+---
+
+## 2. Trump's Democratic SEC pick suggests tokenization policy deserves full rule process
+
+**Author:** Jesse Hamilton  
+**Published:** 11/19/2026, 6:15:56 PM  
+**Categories:** Policy, Regulation, Tokenization, Prediction Markets, News  
+
+The U.S. Senate Banking Committee held a confirmation hearing for the two nominees — one from each party — as the administration rebuilds the markets regulators.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process)
+
+---
+
+## 3. Anthropic gains after IPO, but pulls off highest levels
+
+**Author:** James Van Straten  
+**Published:** 11/19/2026, 5:01:47 PM  
+**Categories:** Markets, Artificial Intelligence, Top Stories, Breaking News, News  
+
+After opening at $111.50, ANT quickly slipped back under $100, still above its $83 offering price.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price)
+
+---
+
+## 4. Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure
+
+**Author:** Joshua de Vos,Jacob Joseph  
+**Published:** 11/19/2026, 4:09:28 PM  
+**Categories:** CoinDesk Indices, Crypto for Advisors, News  
+
+
+
+📖 [Read original article](https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure)
+
+---
+
+## 5. Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft
+
+**Author:** Francisco Rodrigues  
+**Published:** 11/19/2026, 3:20:38 PM  
+**Categories:** Finance, Binance, Crypto News, Crime, News  
+
+The crypto exchange said it has already replaced the stolen assets using its own funds and insurance reserves.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft)
+
+---
+
+## 6. Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test
 
 **Author:** Olivier Acuna  
 **Published:** 11/19/2026, 1:11:31 PM  
@@ -23,7 +83,7 @@ The crypto exchange plans to launch tokenized Anthropic shares as its pre-IPO fu
 
 ---
 
-## 2. Trump Media wants to clear $884 million of debt without selling its bitcoin
+## 7. Trump Media wants to clear $884 million of debt without selling its bitcoin
 
 **Author:** Shaurya Malwa  
 **Published:** 11/19/2026, 12:40:12 PM  
@@ -35,7 +95,7 @@ The Truth Social owner bought back $100 million of convertible notes this week. 
 
 ---
 
-## 3. Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut
+## 8. Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut
 
 **Author:** Francisco Rodrigues  
 **Published:** 11/19/2026, 12:20:39 PM  
@@ -47,7 +107,7 @@ Your day-ahead look for Nov. 19, 2026
 
 ---
 
-## 4. Bitcoin holds above $63,750 but Fed rate-hike threats loom large
+## 9. Bitcoin holds above $63,750 but Fed rate-hike threats loom large
 
 **Author:** Jamie Crawley  
 **Published:** 11/19/2026, 12:08:06 PM  
@@ -59,7 +119,7 @@ Bitcoin ETFs saw more than $300 million in outflows Wednesday, with attention no
 
 ---
 
-## 5. North Korean hackers used Sky's stablecoin system, putting billions at freeze risk
+## 10. North Korean hackers used Sky's stablecoin system, putting billions at freeze risk
 
 **Author:** Krisztian Sandor  
 **Published:** 11/19/2026, 11:30:00 AM  
@@ -71,7 +131,7 @@ Blockchain investigation traced $518 million in illicit-linked activity, includi
 
 ---
 
-## 6. Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction
+## 11. Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction
 
 **Author:** James Van Straten  
 **Published:** 11/19/2026, 11:06:13 AM  
@@ -83,7 +143,7 @@ The maker of Claude priced its Nasdaq debut at $83 a share for a $1.5 trillion f
 
 ---
 
-## 7. Financial firms must act now as quantum computers grow ‘highly advanced,’ IOSCO warns
+## 12. Financial firms must act now as quantum computers grow ‘highly advanced,’ IOSCO warns
 
 **Author:** Olivier Acuna  
 **Published:** 11/19/2026, 10:55:29 AM  
@@ -95,19 +155,19 @@ No quantum computer can yet break widely used cryptography, but the securities w
 
 ---
 
-## 8. Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech
+## 13. Live updates: Bitcoin plunges to lowest since July as Anthropic gains, but broader markets tumble
 
-**Author:** Shaurya Malwa,James Van Straten  
+**Author:** Shaurya Malwa,James Van Straten,Stephen Alpher  
 **Published:** 11/19/2026, 10:48:26 AM  
 **Categories:** Markets, Live News, live_news  
 
-The Nasdaq was higher by about 2% early Thursday. One analyst said IPO money could flow back into crypto.
+The Nasdaq, S&P 500, and DJIA all fell by more than 2% on Thursday as Anthropic rose about 16% from its IPO price.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech)
 
 ---
 
-## 9. Singapore settles $77.5 million tokenized bill sale in local CBDC
+## 14. Singapore settles $77.5 million tokenized bill sale in local CBDC
 
 **Author:** Francisco Rodrigues  
 **Published:** 11/19/2026, 10:39:36 AM  
@@ -119,7 +179,7 @@ The central bank aims to expand this digital settlement network and test wider c
 
 ---
 
-## 10. Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand
+## 15. Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand
 
 **Author:** Shaurya Malwa  
 **Published:** 11/19/2026, 10:22:12 AM  
@@ -131,7 +191,7 @@ Roundhill withdrew plans for two funds designed to generate income from SOL and 
 
 ---
 
-## 11. Fed's rate hike push may be a mistake. Here's why
+## 16. Fed's rate hike push may be a mistake. Here's why
 
 **Author:** Omkar Godbole  
 **Published:** 11/19/2026, 6:23:19 AM  
@@ -143,7 +203,7 @@ Experts argue that the Fed is looking at the wrong data as it pushes for more in
 
 ---
 
-## 12. Ethereum block builders received the most in a $3.4 million vault hack, data shows
+## 17. Ethereum block builders received the most in a $3.4 million vault hack, data shows
 
 **Author:** Shaurya Malwa  
 **Published:** 11/19/2026, 5:39:06 AM  
@@ -155,7 +215,7 @@ An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking m
 
 ---
 
-## 13. Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal
+## 18. Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal
 
 **Author:** Shaurya Malwa  
 **Published:** 11/19/2026, 4:46:10 AM  
@@ -167,7 +227,7 @@ Hyperscale Data needs another $74.8 million to complete its Michigan data center
 
 ---
 
-## 14. CZ says tokenized Anthropic is coming to BNB Chain on IPO day
+## 19. CZ says tokenized Anthropic is coming to BNB Chain on IPO day
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 11/19/2026, 3:40:48 AM  
@@ -179,7 +239,7 @@ Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will 
 
 ---
 
-## 15. Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds
+## 20. Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds
 
 **Author:** Jesse Hamilton  
 **Published:** 11/19/2026, 12:33:46 AM  
