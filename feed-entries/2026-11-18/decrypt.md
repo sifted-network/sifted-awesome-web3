@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-11-18"
 date: "2026-11-18"
 source: "Decrypt"
-count: 15
+count: 9
 ---
 
 # Decrypt - 2026-11-18
 
-15 items collected.
+9 items collected.
 
 ---
 
@@ -116,77 +116,5 @@ Christopher Waller says stubborn inflation may warrant a bigger December rate hi
 The trader turned $300 into over $200,000 as early footage of GTA 6 sent degens flocking between different token tickers.
 
 📖 [Read original article](https://decrypt.co/383536/lucky-trader-banks-66000-profit-on-gta-6-meme-coin-ticker-confusion)
-
----
-
-## 10. 'It Speaks in Tongues That Only 6.2 Astra Understands': Why Early Testers Hate OpenAI’s New Model
-
-**Author:** Jose Antonio Lanz  
-**Published:** 11/18/2026, 4:57:53 PM  
-**Categories:** Artificial Intelligence  
-
-OpenAI's flagship AI model is dazzling developers with 3D creations, but early testers say it stalls during long projects, gives baffling explanations, and hides failures.
-
-📖 [Read original article](https://decrypt.co/383539/speaks-tongues-only-6-2-astra-understands-why-early-testers-hate-openai-new-model)
-
----
-
-## 11. Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire
-
-**Author:** Decrypt Agent  
-**Published:** 11/18/2026, 2:20:52 PM  
-**Categories:** , Law and Order  
-
-A German judge has offered to drop the charges if the alleged operator of the piracy site gives up most of his remaining Bitcoin.
-
-📖 [Read original article](https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire)
-
----
-
-## 12. Morning Minute: Nvidia Beats, Board Says ‘No’ on Jensen
-
-**Author:** Tyler Warner  
-**Published:** 11/18/2026, 1:37:20 PM  
-**Categories:** , , Opinion  
-
-Nvidia delivered its best earnings ever and raised forward guidance. And yet, the market mostly shrugged. What does it mean?
-
-📖 [Read original article](https://decrypt.co/383530/morning-minute-nvidia-beats-board-says-no-on-jensen)
-
----
-
-## 13. 'Doomed From the Start': President Trump's Meme Coin Hits New Lows After Midterms
-
-**Author:** Ryan Gladwin  
-**Published:** 11/18/2026, 12:45:37 PM  
-**Categories:** official-trump, , Markets  
-
-The TRUMP token has fallen almost 40% since election day, with analysts pointing to the Democrats’ subpoena plans, fading interest, and a heavy unlock schedule.
-
-📖 [Read original article](https://decrypt.co/383524/doomed-from-the-start-president-trumps-meme-coin-hits-new-lows-after-midterms)
-
----
-
-## 14. AI Will Make the Next 12 Months 'a Slaughterhouse' for Crypto Security: Anchorage Exec
-
-**Author:** Decrypt Agent  
-**Published:** 11/18/2026, 12:10:27 PM  
-**Categories:** , Artificial Intelligence  
-
-Security chiefs at Solana's Breakpoint said AI is lowering the bar for hackers, as North Korea steps up its attacks on crypto firms.
-
-📖 [Read original article](https://decrypt.co/383526/ai-will-make-the-next-12-months-a-slaughterhouse-for-crypto-security-anchorage-exec)
-
----
-
-## 15. Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto
-
-**Author:** Decrypt Agent  
-**Published:** 11/18/2026, 10:17:17 AM  
-**Categories:** , , Law and Order  
-
-Scotland's Tyler Buchanan is the last of five defendants sentenced in a phishing and SIM-swapping scheme that targeted crypto holders.
-
-📖 [Read original article](https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto)
 
 ---
