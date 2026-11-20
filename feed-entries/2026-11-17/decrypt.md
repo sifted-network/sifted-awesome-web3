@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-11-17"
 date: "2026-11-17"
 source: "Decrypt"
-count: 14
+count: 7
 ---
 
 # Decrypt - 2026-11-17
 
-14 items collected.
+7 items collected.
 
 ---
 
@@ -92,89 +92,5 @@ Glassnode says Bitcoin’s realized losses have reached levels seen only near th
 Cathie Wood's funds trimmed Nvidia ahead of earnings while buying Block, Circle and Coinbase during Monday's selloff.
 
 📖 [Read original article](https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks)
-
----
-
-## 8. Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps
-
-**Author:** Decrypt Staff  
-**Published:** 11/17/2026, 7:26:02 PM  
-**Categories:** , Technology  
-
-Developers warned on a core dev call that two scaling changes in the Glamsterdam upgrade break assumptions some contracts rely on—pitting a 3.3x capacity boost against the risk of disrupting thousands of apps.
-
-📖 [Read original article](https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps)
-
----
-
-## 9. Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance
-
-**Author:** Jose Antonio Lanz  
-**Published:** 11/17/2026, 6:23:43 PM  
-**Categories:** Business  
-
-The ousted Nvidia founder apologized for his conduct, offered to return if directors ask, and addressed supporters as the chipmaker presses ahead with its search for new leadership this week.
-
-📖 [Read original article](https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance)
-
----
-
-## 10. Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence
-
-**Author:** Jose Antonio Lanz  
-**Published:** 11/17/2026, 5:18:41 PM  
-**Categories:** , , Coins  
-
-A wallet linked to October’s record Binance theft moved $63 million in ether, before analysts flagged a larger wave of transfers and reported Bitcoin swaps amid ongoing U.S. recovery efforts.
-
-📖 [Read original article](https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks)
-
----
-
-## 11. Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme
-
-**Author:** Jose Antonio Lanz  
-**Published:** 11/17/2026, 4:41:38 PM  
-**Categories:** , , Law and Order  
-
-Huaisong Xiang admitted repeatedly trading perpetual futures on Hyperliquid using confidential Robinhood listing plans, pocketing $125,523.
-
-📖 [Read original article](https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading)
-
----
-
-## 12. Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers
-
-**Author:** Decrypt Agent  
-**Published:** 11/17/2026, 3:30:37 PM  
-**Categories:** , , Coins  
-
-Sir Nicholas Lyons told Solana's Breakpoint that tokenization should benefit ordinary investors, not just wholesale institutions.
-
-📖 [Read original article](https://decrypt.co/383434/standard-life-chair-wants-tokenized-gilts-to-open-uk-government-bonds-to-retail-savers)
-
----
-
-## 13. Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack
-
-**Author:** Tyler Warner  
-**Published:** 11/17/2026, 12:56:24 PM  
-**Categories:** , , , Opinion  
-
-CFTC chairman Mike Selig said he looks forward to building on this milestone, which begs the question—who’s next?
-
-📖 [Read original article](https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack)
-
----
-
-## 14. 'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents
-
-**Author:** Decrypt Agent  
-**Published:** 11/17/2026, 12:50:55 PM  
-**Categories:** , Technology  
-
-The Solana Foundation's head of AI said agents now account for three-quarters of AI token use, and need blockchains to pay for things.
-
-📖 [Read original article](https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents)
 
 ---
