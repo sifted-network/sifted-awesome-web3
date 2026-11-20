@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-19"
 date: "2026-11-19"
 source: "Cointelegraph"
-count: 21
+count: 15
 ---
 
 # Cointelegraph - 2026-11-19
 
-21 items collected.
+15 items collected.
 
 ---
 
@@ -188,77 +188,5 @@ A Solana test network ran about 90% slower with quantum-resistant signatures, an
 MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.
 
 📖 [Read original article](https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 11/19/2026, 8:26:19 AM  
-**Categories:** Markets  
-
-US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. BTCPay Server issues emergency update for 5 security flaws
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/19/2026, 8:04:37 AM  
-**Categories:** Latest News  
-
-The EU’s cybersecurity service said the flaws could let attackers to run malicious code remotely on vulnerable servers without logging in.
-
-📖 [Read original article](https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 11/19/2026, 7:55:56 AM  
-**Categories:** Markets  
-
-Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts
-
-**Author:** Cointelegraph by Jona Jaupi  
-**Published:** 11/19/2026, 6:00:00 AM  
-**Categories:** Markets  
-
-Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026.
-
-📖 [Read original article](https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/19/2026, 5:27:45 AM  
-**Categories:** Latest News  
-
-The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028.
-
-📖 [Read original article](https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Binance hackers stole 192 tokens across 11 networks, court docs show
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/19/2026, 5:09:45 AM  
-**Categories:** Latest News  
-
-Stablecoins accounted for at least $3.46 billion of the $6.3 billion stolen, while the hackers also took memecoins, tokenized gold and gaming tokens.
-
-📖 [Read original article](https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
