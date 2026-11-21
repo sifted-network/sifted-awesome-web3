@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-19"
 date: "2026-11-19"
 source: "The Defiant"
-count: 41
+count: 30
 ---
 
 # The Defiant - 2026-11-19
 
-41 items collected.
+30 items collected.
 
 ---
 
@@ -368,137 +368,5 @@ Binance Wallet says the campaign's roughly 2,957-token allocation will be given 
 ANTon offers eligible non-US investors round-the-clock minting and redemption, but holders own share-backed notes rather than Anthropic shares.
 
 📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/ondo-launches-24-7-anthropic-token-on-ipo-day)
-
----
-
-## 31. Backpack's Anthropic Token Debuts on Solana on IPO Day
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 5:15:41 PM  
-**Categories:** -  
-
-A Meteora ANT-USDC pool held about $1.06 million in assets shortly after noon ET. The wallet-held token is not a Nasdaq share, and access excludes US persons.
-
-📖 [Read original article](https://thedefiant.io/news/markets/backpack-s-anthropic-token-debuts-on-solana-on-ipo-day)
-
----
-
-## 32. Lido DAO Votes on Framework for Its Lending Protocol
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 5:11:33 PM  
-**Categories:** -  
-
-Vote #207 would approve committees and market-management tools. Individual lending markets would still need separate approval, mainly through motions LDO holders can block.
-
-📖 [Read original article](https://thedefiant.io/news/defi/lido-dao-votes-on-framework-for-its-lending-protocol)
-
----
-
-## 33. MoonPay Seeks US Trust Bank for Custody, Stablecoins
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 4:46:09 PM  
-**Categories:** -  
-
-The proposed Miami Beach bank would issue and redeem stablecoins and manage reserves. Its OCC application remains pending.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/moonpay-seeks-us-trust-bank-for-custody-stablecoins)
-
----
-
-## 34. United Bars Personal AI Agents From Booking Flights
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 4:38:40 PM  
-**Categories:** -  
-
-The November 11 restrictions reach travel agencies and aggregators as well as United’s own platforms, even when passengers authorize an agent.
-
-📖 [Read original article](https://thedefiant.io/frontier/ai/united-bars-personal-ai-agents-from-booking-flights)
-
----
-
-## 35. Who Decides Which Chains Count as Public? | Cosmos, Zenith, Injective
-
-**Author:** Camila Russo  
-**Published:** 11/19/2026, 4:00:00 PM  
-**Categories:** -  
-
-Over the past three weeks, the OCC finalized the first federal rulebook for payment stablecoins, Hong Kong's HKMA switched on 24/7 settlement in tokenized central bank money, and DTCC opened a tokenization platform with 20 banks, with Morgan Stanley among the first to use it. The ECB, the European
-
-📖 [Read original article](https://thedefiant.io/podcasts-and-videos/podcast/who-decides-which-chains-count-as-public-or-cosmos-zenith-injective)
-
----
-
-## 36. Selig Says US Retail Onchain Perps Need Regulated Exchanges
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 3:56:11 PM  
-**Categories:** -  
-
-Asked about Hyperliquid, the CFTC chair cited Backpack and said to 'stay tuned' on other protocols, according to The Block.
-
-📖 [Read original article](https://thedefiant.io/news/regulation/selig-says-us-retail-onchain-perps-need-regulated-exchanges)
-
----
-
-## 37. xStocks Says It Can't Meet All Anthropic IPO Access Demand
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 3:46:05 PM  
-**Categories:** -  
-
-xStocks said unfilled funds will be released without fees. Kraken's terms charge a 5% spread on allocations customers receive.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/xstocks-says-it-can-t-meet-all-anthropic-ipo-access-demand)
-
----
-
-## 38. PHP Patches Critical Code-Execution Flaw Rated 9.2
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 3:44:17 PM  
-**Categories:** -  
-
-The bug affects PHP's default file-based session storage. Code execution requires attacker influence over session data, an interrupted write and suitable application code.
-
-📖 [Read original article](https://thedefiant.io/frontier/security/php-patches-critical-code-execution-flaw-rated-9-2)
-
----
-
-## 39. Bundesbank and MAS Test Proof-Based Euro-SGD Settlement
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 3:25:16 PM  
-**Categories:** -  
-
-Project Simbolon coordinated payments without a direct link between central bank ledgers, but used simulated money rather than a live settlement service.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/bundesbank-and-mas-test-proof-based-euro-sgd-settlement)
-
----
-
-## 40. Marin Opens 57 Mochi AI Checkpoints for Researchers
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 3:24:42 PM  
-**Categories:** -  
-
-The 535-billion-parameter model's training snapshots carry a permissive license, but they are not ready-to-deploy assistants.
-
-📖 [Read original article](https://thedefiant.io/frontier/ai/marin-opens-57-mochi-ai-checkpoints-for-researchers)
-
----
-
-## 41. Most Institutional Bidders Got No Anthropic IPO Shares: Bloomberg
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 2:52:41 PM  
-**Categories:** -  
-
-Allocations favored US-based investors, Bloomberg reported, even as the Claude developer expanded its offering to 980 million shares at $83 each.
-
-📖 [Read original article](https://thedefiant.io/frontier/ai/most-institutional-bidders-got-no-anthropic-ipo-shares-bloomberg)
 
 ---
