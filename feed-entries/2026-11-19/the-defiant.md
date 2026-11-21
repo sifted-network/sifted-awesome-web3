@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-19"
 date: "2026-11-19"
 source: "The Defiant"
-count: 48
+count: 41
 ---
 
 # The Defiant - 2026-11-19
 
-48 items collected.
+41 items collected.
 
 ---
 
@@ -500,89 +500,5 @@ The 535-billion-parameter model's training snapshots carry a permissive license,
 Allocations favored US-based investors, Bloomberg reported, even as the Claude developer expanded its offering to 980 million shares at $83 each.
 
 📖 [Read original article](https://thedefiant.io/frontier/ai/most-institutional-bidders-got-no-anthropic-ipo-shares-bloomberg)
-
----
-
-## 42. Bitcoin Holds Above Weekend Low on Coinbase Amid False Price Alerts
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 2:52:24 PM  
-**Categories:** -  
-
-CoinMarketCap acknowledged incorrect bitcoin-price notifications, sometimes sent more than once, and said it was investigating the cause.
-
-📖 [Read original article](https://thedefiant.io/news/markets/bitcoin-holds-above-weekend-low-on-coinbase-amid-false-price-alerts)
-
----
-
-## 43. AI Agent Security: Why Refusals Are Not Access Controls
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 2:16:43 PM  
-**Categories:** -  
-
-Hostile documents can steer a tool-using AI toward actions its user never requested. Permissions and meaningful approval checks limit the consequences.
-
-📖 [Read original article](https://thedefiant.io/news/ai/ai-agent-security-why-refusals-are-not-access-controls)
-
----
-
-## 44. Securitize Plans IPO-Day Anthropic Tokens on Solana
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 2:16:05 PM  
-**Categories:** -  
-
-The platform's share-backed stock model includes eligible US investors. Live trading in its planned ANT token was not independently confirmed.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/securitize-plans-ipo-day-anthropic-tokens-on-solana)
-
----
-
-## 45. How to Read Prediction-Market Odds in a News Headline
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 2:16:03 PM  
-**Categories:** -  
-
-An odds percentage is a price-based forecast, not a poll or confirmation. The contract’s rules, quote method and timestamp explain what it measures.
-
-📖 [Read original article](https://thedefiant.io/news/markets/how-to-read-prediction-market-odds-in-a-news-headline)
-
----
-
-## 46. Coinbase Opens Crypto Options to Eligible Non-US Users
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 2:15:32 PM  
-**Categories:** -  
-
-The Deribit-powered contracts settle in USDC and are available through Coinbase's standard interface and Advanced. US retail users are excluded.
-
-📖 [Read original article](https://thedefiant.io/news/cefi/coinbase-opens-crypto-options-to-eligible-non-us-users)
-
----
-
-## 47. Hashi Goes Live on Sui With Bitcoin-Backed Lending
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 1:59:47 PM  
-**Categories:** -  
-
-Fluid offers USDC borrowing against hBTC, while Anchorage Digital's Porto provides institutional access. BitGo is expected in 2027.
-
-📖 [Read original article](https://thedefiant.io/news/defi/hashi-goes-live-on-sui-with-bitcoin-backed-lending)
-
----
-
-## 48. Chainlink, UBS Pilot Onchain Structured Note Servicing
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 1:47:26 PM  
-**Categories:** -  
-
-Chainlink says the pilot demonstrated automated note servicing on Ethereum through CRE. Digital-money settlement integration remains future work.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/chainlink-ubs-pilot-onchain-structured-note-servicing)
 
 ---
