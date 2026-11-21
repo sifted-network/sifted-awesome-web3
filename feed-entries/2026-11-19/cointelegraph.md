@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-19"
 date: "2026-11-19"
 source: "Cointelegraph"
-count: 15
+count: 12
 ---
 
 # Cointelegraph - 2026-11-19
 
-15 items collected.
+12 items collected.
 
 ---
 
@@ -152,41 +152,5 @@ Hong Kong’s securities regulator said Hyperliquid has no local license and may
 Tokenized Take-Two shares drew $249.5 million in DEX volume Wednesday, nearly three times the $88.1 million for tokenized Nvidia shares.
 
 📖 [Read original article](https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/19/2026, 11:19:58 AM  
-**Categories:** Latest News  
-
-Shareholders will vote Dec. 7 on whether H100 can buy back up to 10% of its shares, potentially using a Bitcoin pool that lost about 30 BTC in Q3.
-
-📖 [Read original article](https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. IOSCO warns quantum upgrades could slow blockchains, leave security gaps
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/19/2026, 10:32:05 AM  
-**Categories:** Latest News  
-
-A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.
-
-📖 [Read original article](https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Singapore settles $77.5M tokenized bill sale with wholesale CBDC
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/19/2026, 8:54:58 AM  
-**Categories:** Latest News  
-
-MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.
-
-📖 [Read original article](https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
