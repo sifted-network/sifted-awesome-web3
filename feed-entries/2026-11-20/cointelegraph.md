@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-20"
 date: "2026-11-20"
 source: "Cointelegraph"
-count: 15
+count: 14
 ---
 
 # Cointelegraph - 2026-11-20
 
-15 items collected.
+14 items collected.
 
 ---
 
@@ -83,19 +83,7 @@ The Singapore bank earned a record $208 million in transaction services fees in 
 
 ---
 
-## 7. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 11/20/2026, 1:29:58 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Lagarde warns Europe could miss chance to unify tokenized markets
+## 7. Lagarde warns Europe could miss chance to unify tokenized markets
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/20/2026, 1:21:39 PM  
@@ -107,7 +95,7 @@ The ECB president said Europe’s market for tokenized securities could split in
 
 ---
 
-## 9. Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip
+## 8. Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/20/2026, 11:31:41 AM  
@@ -119,7 +107,7 @@ OnChain Lens tracked nearly $600 million in ETH transfers over two days as the B
 
 ---
 
-## 10. VanEck to end Gemini ETF custody deals, keeps Coinbase
+## 9. VanEck to end Gemini ETF custody deals, keeps Coinbase
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/20/2026, 10:54:38 AM  
@@ -131,7 +119,7 @@ VanEck plans to end Gemini’s custody agreements for three crypto ETFs in Febru
 
 ---
 
-## 11. Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest
+## 10. Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/20/2026, 10:29:10 AM  
@@ -143,7 +131,7 @@ Bitcoin’s 21-day moving average fell below its 200-day average, and analyst Ke
 
 ---
 
-## 12. BlackRock’s IBIT loses record $541M amid Anthropic market debut
+## 11. BlackRock’s IBIT loses record $541M amid Anthropic market debut
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/20/2026, 8:18:42 AM  
@@ -155,7 +143,7 @@ BlackRock’s IBIT posted its largest daily outflow on record, taking three-sess
 
 ---
 
-## 13. SEC charges 8 firms over fake crypto platforms tied to $37M fraud
+## 12. SEC charges 8 firms over fake crypto platforms tied to $37M fraud
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/20/2026, 8:03:34 AM  
@@ -167,7 +155,7 @@ The SEC says the operators showed investors fake certificates and pointed them t
 
 ---
 
-## 14. Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s
+## 13. Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/20/2026, 6:24:41 AM  
@@ -179,7 +167,7 @@ Retail investors traded $772 million in Anthropic shares on Thursday, the most V
 
 ---
 
-## 15. Institutions pile back into US Bitcoin ETFs in Q3 after selling streak
+## 14. Institutions pile back into US Bitcoin ETFs in Q3 after selling streak
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/20/2026, 3:33:22 AM  
