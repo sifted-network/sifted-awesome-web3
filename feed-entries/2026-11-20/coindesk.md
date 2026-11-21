@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-20"
 date: "2026-11-20"
 source: "CoinDesk"
-count: 22
+count: 21
 ---
 
 # CoinDesk - 2026-11-20
 
-22 items collected.
+21 items collected.
 
 ---
 
@@ -260,17 +260,5 @@ Glamsterdam was originally targeted for December, but developers now say January
 Coinbase Custody will continue serving all three funds after Gemini's contracts end in February.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs)
-
----
-
-## 22. Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt
-
-**Author:** Omkar Godbole  
-**Published:** 11/20/2026, 3:32:30 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin remains under pressure after Anthropic's IPO as Nasdaq futures dip below their 200-day average.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt)
 
 ---
