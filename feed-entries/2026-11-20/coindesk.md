@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-20"
 date: "2026-11-20"
 source: "CoinDesk"
-count: 21
+count: 19
 ---
 
 # CoinDesk - 2026-11-20
 
-21 items collected.
+19 items collected.
 
 ---
 
@@ -236,29 +236,5 @@ PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out mo
 Wall Street piled into Bitcoin funds in the third quarter, ending a three-quarter selling streak, according to Galaxy Research. But the buying has given way to renewed selling this quarter.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling)
-
----
-
-## 20. Ethereum’s next big upgrade is pushed into 2027 by apps it would break
-
-**Author:** Shaurya Malwa  
-**Published:** 11/20/2026, 4:58:08 AM  
-**Categories:** Tech, News  
-
-Glamsterdam was originally targeted for December, but developers now say January is the earliest possible date as companies work to fix affected smart contracts.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break)
-
----
-
-## 21. VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs
-
-**Author:** Shaurya Malwa  
-**Published:** 11/20/2026, 4:28:52 AM  
-**Categories:** Markets, News  
-
-Coinbase Custody will continue serving all three funds after Gemini's contracts end in February.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs)
 
 ---
