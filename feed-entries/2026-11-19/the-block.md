@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-19"
 date: "2026-11-19"
 source: "The Block"
-count: 6
+count: 5
 ---
 
 # The Block - 2026-11-19
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ Tokenized Stocks Shrug Off the Crypto Selloff Bitcoin fell as low as $62k late S
 Hill and Moreno fault Clarity Act delays but disagree on how much crypto regulators can accomplish.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615)
-
----
-
-## 6. Bitcoin finance protocol Hashi goes live on Sui mainnet
-
-**Author:** James Hunt  
-**Published:** 11/19/2026, 2:00:00 PM  
-**Categories:** Crypto Ecosystems, DeFi, Layer 1s, Markets, Token Projects, Bitcoin, Sui, News  
-
-Hashi is processing bitcoin deposits on Sui mainnet, with hBTC used for Fluid loans and HoneyB vaults on Upshift.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608)
 
 ---
