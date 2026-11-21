@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-19"
 date: "2026-11-19"
 source: "CoinDesk"
-count: 3
+count: 2
 ---
 
 # CoinDesk - 2026-11-19
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decen
 The U.S. Senate Banking Committee held a confirmation hearing for the two nominees — one from each party — as the administration rebuilds the markets regulators.
 
 📖 [Read original article](https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process)
-
----
-
-## 3. Anthropic gains after IPO, but pulls off highest levels
-
-**Author:** James Van Straten  
-**Published:** 11/19/2026, 5:01:47 PM  
-**Categories:** Markets, Artificial Intelligence, Top Stories, Breaking News, News  
-
-After opening at $111.50, ANT quickly slipped back under $100, still above its $83 offering price.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price)
 
 ---
