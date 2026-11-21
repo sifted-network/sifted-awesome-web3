@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-19"
 date: "2026-11-19"
 source: "The Block"
-count: 5
+count: 2
 ---
 
 # The Block - 2026-11-19
 
-5 items collected.
+2 items collected.
 
 ---
 
@@ -32,41 +32,5 @@ Quintenz said the possibility of insider trading doesn't make a market illegal a
 Ripple’s Alderoty backs durable agency rules as hopes for crypto market structure legislation fade.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105)
-
----
-
-## 3. CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US
-
-**Author:** Yogita Khatri  
-**Published:** 11/19/2026, 6:04:15 PM  
-**Categories:** Crypto Ecosystems, DeFi, Markets, People, Policy, Regulation, CFTC, Derivatives, Hyperliquid, Perpetuals, News  
-
-Michael Selig said platforms like Hyperliquid have two ways to enter the U.S. retail market and must follow the same rules as other exchanges
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106)
-
----
-
-## 4. Tokenized Stocks Shrug Off the Crypto Selloff
-
-**Author:** Ian Devendorf  
-**Published:** 11/19/2026, 5:12:00 PM  
-**Categories:** News  
-
-Tokenized Stocks Shrug Off the Crypto Selloff Bitcoin fell as low as $62k late Saturday, its sixth straight weekly decline. Meanwhile, tokenized stocks crossed $4 billion in onchain value for the first time on Nov 11. Tokenized stocks are now roughly five times their value on January 1. Tokenized st...
-
-📖 [Read original article](https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829)
-
----
-
-## 5. Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking
-
-**Author:** Kyle Baird  
-**Published:** 11/19/2026, 4:01:16 PM  
-**Categories:** Congress, Crypto Ecosystems, People, Policy, Regulation, Stablecoins, Clarity Act, News  
-
-Hill and Moreno fault Clarity Act delays but disagree on how much crypto regulators can accomplish.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615)
 
 ---
