@@ -2,28 +2,16 @@
 title: "Cointelegraph - 2026-11-21"
 date: "2026-11-21"
 source: "Cointelegraph"
-count: 4
+count: 3
 ---
 
 # Cointelegraph - 2026-11-21
 
-4 items collected.
+3 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/21/2026, 11:18:52 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 2. ECB seeks industry partners for tokenized deposits, securities experiments
+## 1. ECB seeks industry partners for tokenized deposits, securities experiments
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/21/2026, 9:48:56 AM  
@@ -35,7 +23,7 @@ Industry groups have until Dec. 11 to apply for the ECB’s first experimental e
 
 ---
 
-## 3. US lawmakers propose up to 30% rewards for prediction market whistleblowers
+## 2. US lawmakers propose up to 30% rewards for prediction market whistleblowers
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/21/2026, 7:51:47 AM  
@@ -47,7 +35,7 @@ Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying pred
 
 ---
 
-## 4. Hong Kong pushes to bring crypto custodians, advisers under licensing rules
+## 3. Hong Kong pushes to bring crypto custodians, advisers under licensing rules
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/21/2026, 5:40:35 AM  
