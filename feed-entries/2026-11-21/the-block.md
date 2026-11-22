@@ -35,7 +35,7 @@ South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withd
 
 ---
 
-## 3. Chainflip’s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise
+## 3. Chainflip’s FLIP drops 34% after attacker drains $12 million from vaults with suspected key compromise
 
 **Author:** Zack Abrams  
 **Published:** 11/21/2026, 3:24:14 PM  
