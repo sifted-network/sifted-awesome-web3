@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-20"
 date: "2026-11-20"
 source: "CoinDesk"
-count: 19
+count: 16
 ---
 
 # CoinDesk - 2026-11-20
 
-19 items collected.
+16 items collected.
 
 ---
 
@@ -200,41 +200,5 @@ The sell-off hit Wagyu’s XMR1 token, separate from Monero and Hyperliquid’s 
 Gold fell to its lowest level since September 2025 on Friday, and the same catalyst driving its decline is likely also weighing on bitcoin.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too)
-
----
-
-## 17. Anthropic shares may fall 5% at Friday’s open, crypto futures suggest
-
-**Author:** Shaurya Malwa  
-**Published:** 11/20/2026, 6:08:28 AM  
-**Categories:** Markets, News  
-
-About $1.7 billion traded through a Hyperliquid contract on the AI company’s shares in 24 hours, and the biggest position heading into Friday’s Nasdaq open is a $30 million short.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid)
-
----
-
-## 18. This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive
-
-**Author:** Shaurya Malwa  
-**Published:** 11/20/2026, 5:32:25 AM  
-**Categories:** Markets, News  
-
-PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive)
-
----
-
-## 19. Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling
-
-**Author:** Omkar Godbole  
-**Published:** 11/20/2026, 5:20:51 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Wall Street piled into Bitcoin funds in the third quarter, ending a three-quarter selling streak, according to Galaxy Research. But the buying has given way to renewed selling this quarter.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling)
 
 ---
