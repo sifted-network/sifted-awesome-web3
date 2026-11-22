@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-19"
 date: "2026-11-19"
 source: "The Defiant"
-count: 13
+count: 10
 ---
 
 # The Defiant - 2026-11-19
 
-13 items collected.
+10 items collected.
 
 ---
 
@@ -128,41 +128,5 @@ Chainalysis says the listed address and a Hamas-related wallet used the same int
 Trade.xyz's ANT contract had about $283 million in open interest, with its mark price within 0.2% of Anthropic's Nasdaq-listed share price in a matched-minute comparison.
 
 📖 [Read original article](https://thedefiant.io/news/markets/anthropic-perp-tops-1-4-billion-in-24-hour-volume)
-
----
-
-## 11. ECB Flags Over $4 Trillion in Big Tech Commitments
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 7:14:09 PM  
-**Categories:** -  
-
-The company-wide tally includes leases, purchases and financial backstops; the ECB highlights AI infrastructure contracts as one source of risk.
-
-📖 [Read original article](https://thedefiant.io/frontier/ai/ecb-flags-over-4-trillion-in-big-tech-commitments)
-
----
-
-## 12. Lighter Lists Anthropic-Linked Token on Robinhood Chain
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 7:12:15 PM  
-**Categories:** -  
-
-ANT is a Robinhood-issued debt token, not direct Anthropic equity. US persons and investors in several other markets are excluded.
-
-📖 [Read original article](https://thedefiant.io/news/defi/lighter-lists-anthropic-linked-token-on-robinhood-chain)
-
----
-
-## 13. Ethereum Execution Teams Lean Toward Keeping Glamsterdam Gas Rules
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 6:46:08 PM  
-**Categories:** -  
-
-Hoodi remains unscheduled. Waiting until January to decide, then opting to revise Glamsterdam’s gas rules, could push mainnet to April or May 2027, Ansgar Dietrichs estimated.
-
-📖 [Read original article](https://thedefiant.io/news/blockchains/ethereum-execution-teams-lean-toward-keeping-glamsterdam-gas-rules)
 
 ---
