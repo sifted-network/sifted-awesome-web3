@@ -2,16 +2,28 @@
 title: "The Defiant - 2026-11-21"
 date: "2026-11-21"
 source: "The Defiant"
-count: 32
+count: 33
 ---
 
 # The Defiant - 2026-11-21
 
-32 items collected.
+33 items collected.
 
 ---
 
-## 1. Loudoun Pauses Data Center Votes, Not New Filings
+## 1. Together AI Discloses Prompt Leak After Dragos Study
+
+**Author:** The Defiant  
+**Published:** 11/21/2026, 11:32:49 PM  
+**Categories:** -  
+
+Together says a coding agent exposed a credential for stored prompt samples. Five credentials later tested by the intruder were canaries from a Dragos experiment.
+
+📖 [Read original article](https://thedefiant.io/frontier/ai/together-ai-discloses-prompt-leak-after-dragos-study)
+
+---
+
+## 2. Loudoun Pauses Data Center Votes, Not New Filings
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 8:54:00 PM  
@@ -23,7 +35,7 @@ Many of the Virginia county’s 33 active legislative applications for data cent
 
 ---
 
-## 2. Tesla Begins FSD v15 Rollout to First-Wave Customers
+## 3. Tesla Begins FSD v15 Rollout to First-Wave Customers
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 7:43:54 PM  
@@ -35,7 +47,7 @@ Musk targets December for wider availability. The update changes driving AI and 
 
 ---
 
-## 3. Chainflip Offers 10% Bounty for Return of Stolen Funds
+## 4. Chainflip Offers 10% Bounty for Return of Stolen Funds
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 7:32:58 PM  
@@ -47,7 +59,7 @@ Chainflip says the theft included 122.86 BTC, widening the scope beyond earlier 
 
 ---
 
-## 4. Aave Raises Ethereum USDC Borrow Cap to $4 Billion
+## 5. Aave Raises Ethereum USDC Borrow Cap to $4 Billion
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 7:02:34 PM  
@@ -59,7 +71,7 @@ If supply stayed at Nov. 21 levels, filling the new cap would leave about 170 mi
 
 ---
 
-## 5. Cyber Warns Against Bridge Use After Unexpected Minting
+## 6. Cyber Warns Against Bridge Use After Unexpected Minting
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 6:37:19 PM  
@@ -71,7 +83,7 @@ Cyber urged users to avoid its bridge and exchange deposits. Upbit suspended CYB
 
 ---
 
-## 6. How to Find and Read a Company's Public SEC Records
+## 7. How to Find and Read a Company's Public SEC Records
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 6:18:36 PM  
@@ -83,7 +95,7 @@ Search company disclosures and SEC enforcement records separately. A missing res
 
 ---
 
-## 7. Lean Groups Certify Claude-Assisted Riemann Proof
+## 8. Lean Groups Certify Claude-Assisted Riemann Proof
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 5:13:59 PM  
@@ -95,7 +107,7 @@ The Lean FRO and Mathlib Initiative backed Alpöge’s 17-million-line proof. A 
 
 ---
 
-## 8. Anthropic's IPO Premium Shrinks as Banks Draw Blame
+## 9. Anthropic's IPO Premium Shrinks as Banks Draw Blame
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 3:55:22 PM  
@@ -107,7 +119,7 @@ The WSJ reports criticism of share allocations and the opening price, while Anth
 
 ---
 
-## 9. Bitcoin Rebounds 10% Before Slipping Below $60,000
+## 10. Bitcoin Rebounds 10% Before Slipping Below $60,000
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 3:24:47 PM  
@@ -119,7 +131,7 @@ The overnight trough put bitcoin 35.1% below its Oct. 21 high, while the rebound
 
 ---
 
-## 10. Coins.ph Halts Transfers With Self-Custody Wallets
+## 11. Coins.ph Halts Transfers With Self-Custody Wallets
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 3:20:19 PM  
@@ -131,7 +143,7 @@ The Philippine exchange now limits external crypto transfers to regulated exchan
 
 ---
 
-## 11. Kraken Says Trades Stand After Bitcoin’s CAD Plunge
+## 12. Kraken Says Trades Stand After Bitcoin’s CAD Plunge
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 3:00:22 PM  
@@ -143,7 +155,7 @@ Kraken’s USD/CAD market fell to C$0.30 per US dollar. Adam Back said arbitrage
 
 ---
 
-## 12. Canton Approves Plan to Extend CC Burns Across MainNet
+## 13. Canton Approves Plan to Extend CC Burns Across MainNet
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 2:42:47 PM  
@@ -155,7 +167,7 @@ Legacy license fees would give way to token burns on dedicated synchronizers, wi
 
 ---
 
-## 13. Nasdaq Composite vs. Nasdaq-100: What Each Measures
+## 14. Nasdaq Composite vs. Nasdaq-100: What Each Measures
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 2:21:00 PM  
@@ -167,7 +179,7 @@ The Composite covers a broad set of Nasdaq-listed stocks; the Nasdaq-100 focuses
 
 ---
 
-## 14. How Crypto-Backed Loans Work: Collateral to Repayment
+## 15. How Crypto-Backed Loans Work: Collateral to Repayment
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 2:14:20 PM  
@@ -179,7 +191,7 @@ Aave’s public rules show how pledged crypto backs a separate debt, why that de
 
 ---
 
-## 15. Nvidia Falls 14%, Sealing Seventh Straight Weekly Loss
+## 16. Nvidia Falls 14%, Sealing Seventh Straight Weekly Loss
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 1:37:19 PM  
@@ -191,7 +203,7 @@ The stock lost 22.9% for the week ended Nov. 20, compared with 17.3% for SOXX an
 
 ---
 
-## 16. BTCS Warns of Liquidation Risk on $54M Aave Debt
+## 17. BTCS Warns of Liquidation Risk on $54M Aave Debt
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 12:42:42 PM  
@@ -203,7 +215,7 @@ The Nasdaq-listed company reported about $10 million less debt over ten days, bu
 
 ---
 
-## 17. ECB Seeks Partners for Appia Tokenized Finance Tests
+## 18. ECB Seeks Partners for Appia Tokenized Finance Tests
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 10:10:04 AM  
@@ -215,7 +227,7 @@ Applications for the first exercises are due Dec. 11, with later submissions rev
 
 ---
 
-## 18. Chainflip Halts Swaps Over Potential Vault Exploit
+## 19. Chainflip Halts Swaps Over Potential Vault Exploit
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 9:48:32 AM  
@@ -227,7 +239,7 @@ Deposits, withdrawals and quotes are disabled. A security monitor flagged Ethere
 
 ---
 
-## 19. Aave Voters Back Plan to Narrow V3 Core Collateral
+## 20. Aave Voters Back Plan to Narrow V3 Core Collateral
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 9:17:08 AM  
@@ -239,7 +251,7 @@ Existing loans would stay open as LlamaRisk’s plan steers borrowers toward ret
 
 ---
 
-## 20. Bitcoin Hits $55,106 on Coinbase, Lowest Since September 2024
+## 21. Bitcoin Hits $55,106 on Coinbase, Lowest Since September 2024
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 7:16:02 AM  
@@ -251,7 +263,7 @@ Coinbase's low left bitcoin 35.1% below its Oct. 21 intraday high. Kraken record
 
 ---
 
-## 21. Masullo’s Riemann Claim Draws AI-Assisted Objections
+## 22. Masullo’s Riemann Claim Draws AI-Assisted Objections
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 7:15:38 AM  
@@ -263,7 +275,7 @@ Vakil reported AI-assisted objections to Masullo’s draft. A separate Claude-as
 
 ---
 
-## 22. Bitcoin Core Fixes AI-Found Bug That Could Stall Nodes
+## 23. Bitcoin Core Fixes AI-Found Bug That Could Stall Nodes
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 6:29:11 AM  
@@ -275,7 +287,7 @@ Versions 30.5 and 31.3 patch a medium-severity flaw found through Spiral’s Lou
 
 ---
 
-## 23. XRP Sets New November Low on Coinbase, Down 10% in 24 Hours
+## 24. XRP Sets New November Low on Coinbase, Down 10% in 24 Hours
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 6:15:18 AM  
@@ -287,7 +299,7 @@ XRP fell to $0.8663 late Friday, below its Nov. 14 trough. Its daily loss matche
 
 ---
 
-## 24. Bitcoin Hits $55,500 as Strategy's Paper Loss Deepens
+## 25. Bitcoin Hits $55,500 as Strategy's Paper Loss Deepens
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 6:03:05 AM  
@@ -299,7 +311,7 @@ Strategy's disclosed bitcoin holdings were about $16.8 billion below their purch
 
 ---
 
-## 25. Bitcoin Falls 8% as Liquidations Reach $2.38 Billion
+## 26. Bitcoin Falls 8% as Liquidations Reach $2.38 Billion
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 5:12:26 AM  
@@ -311,7 +323,7 @@ Long positions accounted for 92.6% of CoinGlass's rolling 24-hour liquidation to
 
 ---
 
-## 26. Ether Slides Near $1,550, Down About 35% in Four Weeks
+## 27. Ether Slides Near $1,550, Down About 35% in Four Weeks
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 4:56:15 AM  
@@ -323,7 +335,7 @@ Bitcoin lost about 31% over the same window, while declines in Solana, BNB and H
 
 ---
 
-## 27. Bitcoin Falls Below $57,000 to Two-Year Low on Coinbase
+## 28. Bitcoin Falls Below $57,000 to Two-Year Low on Coinbase
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 3:49:12 AM  
@@ -335,7 +347,7 @@ Coinbase's $56,747 low put bitcoin 33.1% below its Oct. 21 intraday high, taking
 
 ---
 
-## 28. Bitquery Traces at Least $1.58 Million in Fluidkey Hack
+## 29. Bitquery Traces at Least $1.58 Million in Fluidkey Hack
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 2:47:09 AM  
@@ -347,7 +359,7 @@ Fluidkey says a logging-tool flaw let an attacker trigger transfers when users o
 
 ---
 
-## 29. PancakeSwap Volume Rebounds 34% to $991 Million
+## 30. PancakeSwap Volume Rebounds 34% to $991 Million
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 1:53:16 AM  
@@ -359,7 +371,7 @@ BNB Chain accounted for $828 million of daily trading, while PancakeSwap’s wee
 
 ---
 
-## 30. Sky Buybacks and Rewards Exceed Revenue in Llama Data
+## 31. Sky Buybacks and Rewards Exceed Revenue in Llama Data
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 1:34:11 AM  
@@ -371,7 +383,7 @@ DefiLlama measured about $440,000 in revenue after estimated savings costs on No
 
 ---
 
-## 31. Sky TVL Falls 45% in a Week as USDC Reserve Shrinks
+## 32. Sky TVL Falls 45% in a Week as USDC Reserve Shrinks
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 12:42:48 AM  
@@ -383,7 +395,7 @@ Sky's tracked assets fell to $2.24 billion in the Nov. 20 daily snapshot. A larg
 
 ---
 
-## 32. Clayton Links Tech Outages to Maintenance and Upgrades
+## 33. Clayton Links Tech Outages to Maintenance and Upgrades
 
 **Author:** The Defiant  
 **Published:** 11/21/2026, 12:11:07 AM  
