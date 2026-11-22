@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-19"
 date: "2026-11-19"
 source: "The Defiant"
-count: 16
+count: 13
 ---
 
 # The Defiant - 2026-11-19
 
-16 items collected.
+13 items collected.
 
 ---
 
@@ -164,41 +164,5 @@ ANT is a Robinhood-issued debt token, not direct Anthropic equity. US persons an
 Hoodi remains unscheduled. Waiting until January to decide, then opting to revise Glamsterdam’s gas rules, could push mainnet to April or May 2027, Ansgar Dietrichs estimated.
 
 📖 [Read original article](https://thedefiant.io/news/blockchains/ethereum-execution-teams-lean-toward-keeping-glamsterdam-gas-rules)
-
----
-
-## 14. Fluidkey Urges Users to Avoid Website and App After Incident
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 6:40:41 PM  
-**Categories:** -  
-
-The privacy-focused wallet said it was investigating a security incident affecting users. Its notice did not say whether funds had been lost.
-
-📖 [Read original article](https://thedefiant.io/news/security/fluidkey-urges-users-to-avoid-website-and-app-after-incident)
-
----
-
-## 15. US Crypto Perps: Coinbase and Kraken Access Explained
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 6:35:56 PM  
-**Categories:** -  
-
-Both advertise US access through futures brokers. Their public disclosures distinguish domestic accounts from global services, with separate approval checks.
-
-📖 [Read original article](https://thedefiant.io/news/cefi/us-crypto-perps-coinbase-and-kraken-access-explained)
-
----
-
-## 16. Sky Raises stUSDS Yield to 24.74%; App Shows $0 Liquidity
-
-**Author:** The Defiant  
-**Published:** 11/19/2026, 6:10:29 PM  
-**Categories:** -  
-
-A borrower repaid about 414,000 USDS, and a bot contract redeemed stUSDS in the next transaction. Both preceded the rate increase. A later app snapshot showed no withdrawal liquidity.
-
-📖 [Read original article](https://thedefiant.io/news/defi/sky-raises-stusds-yield-to-24-74-app-shows-0-liquidity)
 
 ---
