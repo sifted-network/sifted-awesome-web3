@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-19"
 date: "2026-11-19"
 source: "Cointelegraph"
-count: 12
+count: 9
 ---
 
 # Cointelegraph - 2026-11-19
 
-12 items collected.
+9 items collected.
 
 ---
 
@@ -116,41 +116,5 @@ Bitcoin dropped toward a third retest of $62,000 as Anthropic debuted on the Nas
 The Claude chatbot maker began trading under the ticker ANT, with the company’s valuation at around $2 trillion at the opening price.
 
 📖 [Read original article](https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. Ethereum’s new DeFi security tool raises questions over censorship
-
-**Author:** Cointelegraph by Christina Comben  
-**Published:** 11/19/2026, 1:30:00 PM  
-**Categories:** Magazine  
-
-Phylax’s system lets decentralized protocols block potentially harmful transactions, but raises questions about potential censorship and Ethereum’s concentrated builder market.
-
-📖 [Read original article](https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/19/2026, 12:44:06 PM  
-**Categories:** Latest News  
-
-Hong Kong’s securities regulator said Hyperliquid has no local license and may have promoted its trading services to investors in the city.
-
-📖 [Read original article](https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 11/19/2026, 12:33:46 PM  
-**Categories:** Latest News  
-
-Tokenized Take-Two shares drew $249.5 million in DEX volume Wednesday, nearly three times the $88.1 million for tokenized Nvidia shares.
-
-📖 [Read original article](https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
