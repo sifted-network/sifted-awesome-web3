@@ -6,9 +6,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 900 | 111 | - | 4 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-10-12 |
+| 1 | [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook) | 900 | 110 | - | 4 | A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and... | 2026-10-12 |
 | 2 | [mango](https://github.com/MangoNet-Labs/mango) | 269 | 74 | Rust | 1 | Mango Network is a Layer1 blockchain based on the Dpos consensus mechanism and supported by Move to build a transaction-based omni-chain infrastructure network. | 2025-06-21 |
-| 3 | [Mavryk-Wallet](https://github.com/MeoMunDep/Mavryk-Wallet) | 140 | 5 | Shell | 0 | Auto  connect wallet, send token, stake, create vault, deposit, earn, borrow, faucet token.  | 2025-09-26 |
+| 3 | [Mavryk-Wallet](https://github.com/MeoMunDep/Mavryk-Wallet) | 141 | 5 | Shell | 0 | Auto  connect wallet, send token, stake, create vault, deposit, earn, borrow, faucet token.  | 2025-09-26 |
 | 4 | [layer1](https://github.com/LNP-BP/layer1) | 66 | 12 | - | 2 | Paper on new bitcoin layer 1 design | 2023-10-04 |
 | 5 | [Image-Classifier](https://github.com/mudigosa/Image-Classifier) | 42 | 15 | Jupyter Notebook | 5 | Image Classifier  Going forward, AI algorithms will be incorporated into more and more everyday applications. For example, you might want to include an image classifier in a smartphone app. To do this... | 2019-02-01 |
 | 6 | [Seismic](https://github.com/MeoMunDep/Seismic) | 38 | 1 | Shell | 0 | Auto deploy nft, token, transfer faucet, lend, borrow, rent tokens, connect wallets.  | 2025-11-16 |
@@ -23,8 +23,8 @@
 | 15 | [shardeum-docs](https://github.com/shardeum/shardeum-docs) | 14 | 9 | MDX | 0 | Official Shardeum Documentation | 2026-11-12 |
 | 16 | [QNet-Blockchain](https://github.com/AIQnetLab/QNet-Blockchain) | 13 | 0 | Rust | 1 | Post-Quantum Decentralized Network | 2026-11-03 |
 | 17 | [Acki-Nacki](https://github.com/MeoMunDep/Acki-Nacki) | 12 | 0 | Shell | 0 | Auto farm, do tasks, update mamaboard, claim frens points, claim boost points. | 2026-06-15 |
-| 18 | [Injective](https://github.com/MeoMunDep/Injective) | 11 | 0 | - | 0 | Auto stake, swap, wrap, supply, withdraw, borrow, repay, add liquidity. [FOR SALE] | 2025-12-23 |
-| 19 | [pcoin](https://github.com/pars5555/pcoin) | 10 | 1 | C++ | 7 | PCoin (PCN) - the coin anyone can mine. Independent Layer-1 blockchain: Bitcoin Core fork with RandomX CPU-friendly proof of work. | 2026-11-19 |
+| 18 | [pcoin](https://github.com/pars5555/pcoin) | 11 | 1 | C++ | 7 | PCoin (PCN) - the coin anyone can mine. Independent Layer-1 blockchain: Bitcoin Core fork with RandomX CPU-friendly proof of work. | 2026-11-19 |
+| 19 | [Injective](https://github.com/MeoMunDep/Injective) | 11 | 0 | - | 0 | Auto stake, swap, wrap, supply, withdraw, borrow, repay, add liquidity. [FOR SALE] | 2025-12-23 |
 | 20 | [Layer1](https://github.com/anyashechka/Layer1) | 9 | 0 | - | 0 |  | 2024-06-06 |
 | 21 | [aperod-node](https://github.com/aperod-network/aperod-node) | 9 | 2 | Go | 0 | Aperod (APRO) — Institutional-grade privacy Layer-1 built in Go. RingCT & MLSAG engine for confidential P2P payments, Telegram Mini-Apps & Web3 games. | 2026-11-18 |
 | 22 | [safrochain-node](https://github.com/Safrochain-Org/safrochain-node) | 8 | 8 | Go | 2 | Core node of Safrochain, a live Cosmos SDK Layer 1 (safrochain-1): Go, CometBFT, IBC and CosmWasm. | 2026-11-16 |
@@ -51,7 +51,7 @@
 | 43 | [webrouter](https://github.com/laincloud/webrouter) | 3 | 8 | Python | 0 | A layer 1 application for routing http(s) requests of LAIN's web applications | 2018-02-27 |
 | 44 | [rebellion](https://github.com/laincloud/rebellion) | 3 | 4 | Go | 1 | LAIN's component for collecting logs of LAIN and its applications | 2018-08-22 |
 | 45 | [backupd](https://github.com/laincloud/backupd) | 3 | 0 | Go | 0 | LAIN's component, backup lain app's volume directory | 2018-08-28 |
-| 46 | [mbongo-chain](https://github.com/MbongoChain/mbongo-chain) | 3 | 8 | Rust | 19 | Deterministic Layer-1 for verifiable AI inference. Mbongo verifies off-chain AI execution receipts on-chain, enabling trustless AI-driven finance, risk engines, and decentralized compute coordination. | 2026-11-15 |
+| 46 | [mbongo-chain](https://github.com/MbongoChain/mbongo-chain) | 3 | 8 | Rust | 19 | Deterministic Layer-1 for verifiable AI inference. Mbongo verifies off-chain AI execution receipts on-chain, enabling trustless AI-driven finance, risk engines, and decentralized compute coordination. | 2026-11-22 |
 | 47 | [cman](https://github.com/phantasma-io-archive/cman) | 3 | 3 | C# | 0 | Phantasma - Contract Deployer | 2023-05-04 |
 | 48 | [Phantasma-Hub](https://github.com/phantasma-io-archive/Phantasma-Hub) | 3 | 9 | Svelte | 0 | Phantasma Hub is a power full to for Dapp Developers in the PhantasmaChain, that allows users test, vote and do everything they want. | 2024-03-04 |
 | 49 | [curs3d](https://github.com/Pazificateur69/curs3d) | 3 | 0 | Rust | 0 | Quantum-resistant Layer 1 blockchain written from scratch in Rust. CRYSTALS-Dilithium 5, BFT PoS, WASM smart contracts, EIP-1559 fees. 209 tests, MIT License. | 2026-05-22 |
