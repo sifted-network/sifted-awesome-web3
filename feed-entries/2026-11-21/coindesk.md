@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-21"
 date: "2026-11-21"
 source: "CoinDesk"
-count: 6
+count: 7
 ---
 
 # CoinDesk - 2026-11-21
 
-6 items collected.
+7 items collected.
 
 ---
 
@@ -35,7 +35,19 @@ The withdrawal carried a valid signature, which Onchain Lens said points to a po
 
 ---
 
-## 3. Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated
+## 3. OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos
+
+**Author:** Olivier Acuna  
+**Published:** 11/21/2026, 2:00:00 PM  
+**Categories:** Tech, Artificial Intelligence, News  
+
+OpenAI, Anthropic, and other technology giants are backing standards designed to enable agents to work together without putting any one company in control.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos)
+
+---
+
+## 4. Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated
 
 **Author:** Shaurya Malwa  
 **Published:** 11/21/2026, 12:30:00 PM  
@@ -47,7 +59,7 @@ BTCS cut its reported Aave debt by about $10 million in ten days, but falling et
 
 ---
 
-## 4. Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug
+## 5. Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug
 
 **Author:** Shaurya Malwa  
 **Published:** 11/21/2026, 6:16:42 AM  
@@ -59,7 +71,7 @@ Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source 
 
 ---
 
-## 5. XRP falls 10% as long bets unwind and ETF assets slip below $1 billion
+## 6. XRP falls 10% as long bets unwind and ETF assets slip below $1 billion
 
 **Author:** Shaurya Malwa  
 **Published:** 11/21/2026, 5:59:19 AM  
@@ -71,7 +83,7 @@ The token broke its previous November lows during Saturday's crypto selloff, wit
 
 ---
 
-## 6. Bitcoin tanks below $57,000 for the first time in two years, and its not alone
+## 7. Bitcoin tanks below $57,000 for the first time in two years, and its not alone
 
 **Author:** Omkar Godbole  
 **Published:** 11/21/2026, 4:10:07 AM  
