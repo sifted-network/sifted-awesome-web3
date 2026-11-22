@@ -2,16 +2,40 @@
 title: "Cointelegraph - 2026-11-22"
 date: "2026-11-22"
 source: "Cointelegraph"
-count: 4
+count: 6
 ---
 
 # Cointelegraph - 2026-11-22
 
-4 items collected.
+6 items collected.
 
 ---
 
-## 1. Here’s what happened in crypto today
+## 1. Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest
+
+**Author:** Cointelegraph by Andrew Fenton  
+**Published:** 11/22/2026, 10:47:09 PM  
+**Categories:** Magazine  
+
+Bitcoin rebounded sharply from its new cycle low, but is $55,110 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE.
+
+📖 [Read original article](https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. The future of onchain FX could start with users, not institutional liquidity
+
+**Author:** Cointelegraph by Michael Egorov  
+**Published:** 11/22/2026, 2:30:00 PM  
+**Categories:** Opinion  
+
+Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.
+
+📖 [Read original article](https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Here’s what happened in crypto today
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/22/2026, 11:25:27 AM  
@@ -23,7 +47,7 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 ---
 
-## 2. Bitcoin briefly drops to $17K on Kraken, exchange upholds trades
+## 4. Bitcoin briefly drops to $17K on Kraken, exchange upholds trades
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/22/2026, 9:33:06 AM  
@@ -35,7 +59,7 @@ Kraken said all orders were processed correctly and found no evidence of a secur
 
 ---
 
-## 3. South Korean exchanges halt CYBER transfers amid suspected bridge exploit
+## 5. South Korean exchanges halt CYBER transfers amid suspected bridge exploit
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/22/2026, 7:24:05 AM  
@@ -47,7 +71,7 @@ Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens 
 
 ---
 
-## 4. Chainflip confirms $12M hack, offers attacker 10% bounty
+## 6. Chainflip confirms $12M hack, offers attacker 10% bounty
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/22/2026, 5:28:43 AM  
