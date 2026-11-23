@@ -51,7 +51,7 @@
 | 43 | [webrouter](https://github.com/laincloud/webrouter) | 3 | 8 | Python | 0 | A layer 1 application for routing http(s) requests of LAIN's web applications | 2018-02-27 |
 | 44 | [rebellion](https://github.com/laincloud/rebellion) | 3 | 4 | Go | 1 | LAIN's component for collecting logs of LAIN and its applications | 2018-08-22 |
 | 45 | [backupd](https://github.com/laincloud/backupd) | 3 | 0 | Go | 0 | LAIN's component, backup lain app's volume directory | 2018-08-28 |
-| 46 | [mbongo-chain](https://github.com/MbongoChain/mbongo-chain) | 3 | 8 | Rust | 19 | Deterministic Layer-1 for verifiable AI inference. Mbongo verifies off-chain AI execution receipts on-chain, enabling trustless AI-driven finance, risk engines, and decentralized compute coordination. | 2026-11-22 |
+| 46 | [mbongo-chain](https://github.com/MbongoChain/mbongo-chain) | 3 | 8 | Rust | 19 | Deterministic Layer-1 for verifiable AI inference. Mbongo verifies off-chain AI execution receipts on-chain, enabling trustless AI-driven finance, risk engines, and decentralized compute coordination. | 2026-11-23 |
 | 47 | [cman](https://github.com/phantasma-io-archive/cman) | 3 | 3 | C# | 0 | Phantasma - Contract Deployer | 2023-05-04 |
 | 48 | [Phantasma-Hub](https://github.com/phantasma-io-archive/Phantasma-Hub) | 3 | 9 | Svelte | 0 | Phantasma Hub is a power full to for Dapp Developers in the PhantasmaChain, that allows users test, vote and do everything they want. | 2024-03-04 |
 | 49 | [curs3d](https://github.com/Pazificateur69/curs3d) | 3 | 0 | Rust | 0 | Quantum-resistant Layer 1 blockchain written from scratch in Rust. CRYSTALS-Dilithium 5, BFT PoS, WASM smart contracts, EIP-1559 fees. 209 tests, MIT License. | 2026-05-22 |
@@ -88,8 +88,8 @@
 | 80 | [layer2-course](https://github.com/Web3Arabs/layer2-course) | 2 | 0 | - | 0 | محتوى الدورة التدريبية مقدمة إلى Layer2 و Rollups في Web3Arabs - الأفضل للمبتدئين للحصول على نظرة عامة حول حلول الطبقة الثانية وتقنيات Rollups للتوسع في Ethereum | 2023-09-18 |
 | 81 | [Bitmask-Snap](https://github.com/bitmask-stack/Bitmask-Snap) | 2 | 1 | TypeScript | 0 | Built at ETHDENVER2024, The BitMask <> MetaMask Snap will offer seamless and secure access to the Bitcoin ecosystem for 35 million MetaMask users. This encompasses BTC layer1, the Lightning network, B... | 2024-05-17 |
 | 82 | [eventify](https://github.com/lbkolev/eventify) | 2 | 0 | Rust | 0 | EVM event pipeline | 2024-03-13 |
-| 83 | [S0cket](https://github.com/batuafk/S0cket) | 2 | 0 | Python | 0 | Art of network | 2024-09-15 |
-| 84 | [alethea-protocol](https://github.com/alethea-protocol/alethea-protocol) | 2 | 0 | - | 0 | Post-Quantum, Bitcoin-Anchored Layer 1 for Global RWA Collateralization \| $11.46T Market | 2025-10-29 |
+| 83 | [alethea-protocol](https://github.com/alethea-protocol/alethea-protocol) | 2 | 0 | - | 0 | Post-Quantum, Bitcoin-Anchored Layer 1 for Global RWA Collateralization \| $11.46T Market | 2025-10-29 |
+| 84 | [S0cket](https://github.com/batuafk/S0cket) | 2 | 0 | Python | 0 | Art of network | 2024-09-15 |
 | 85 | [l1chain_JIHO](https://github.com/ITJHIT/l1chain_JIHO) | 2 | 0 | Go | 0 | A Layer-1 blockchain built from scratch in Go: proof-of-work consensus with difficulty retarget, libp2p gossip and chain sync, a custom stack VM, an embedded EVM running standard ERC-20 contracts, JSO... | 2026-08-08 |
 | 86 | [doc](https://github.com/Amichain/doc) | 2 | 1 | TypeScript | 0 | Amichain documentation - Layer 1 blockchain ecosystem by AMI (Avax Meme Index) team | 2025-06-26 |
 | 87 | [COINjecture2.0](https://github.com/COINjecture-Network/COINjecture2.0) | 2 | 0 | Rust | 0 | Mathematics-Backed Peer to Peer Network — Rust node, marketplace, Lean 4 verified math | 2026-08-04 |
@@ -99,7 +99,7 @@
 | 91 | [dsp-layer1-gsm-processing-c6678](https://github.com/tvmanus/dsp-layer1-gsm-processing-c6678) | 1 | 2 | C | 0 | Multicore GSM layer1 singal processing  | 2016-01-13 |
 | 92 | [BlockChain](https://github.com/Samaria-Glen/BlockChain) | 1 | 0 | C# | 0 | Huobi Layer1 Cubechain | 2023-06-12 |
 | 93 | [Layer1](https://github.com/doadmo/Layer1) | 1 | 0 | - | 0 |  | 2024-01-05 |
-| 94 | [univa-network](https://github.com/NIONTOKEN/univa-network) | 1 | 0 | Python | 1 | yeni nesil layer1 | 2026-11-20 |
+| 94 | [univa-network](https://github.com/NIONTOKEN/univa-network) | 1 | 0 | Python | 1 | yeni nesil layer1 | 2026-11-23 |
 | 95 | [muse-integration](https://github.com/AsmiK222/muse-integration) | 1 | 0 | Python | 0 | layer1,2,3 integration | 2026-07-12 |
 | 96 | [layer1](https://github.com/natalymarcela11/layer1) | 1 | 0 | - | 0 |  | 2023-08-23 |
 | 97 | [layer1](https://github.com/pfrazee/layer1) | 1 | 0 | JavaScript | 0 | An RTS-like interface to Web services | 2014-04-11 |
