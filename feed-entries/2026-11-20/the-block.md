@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-20"
 date: "2026-11-20"
 source: "The Block"
-count: 14
+count: 13
 ---
 
 # The Block - 2026-11-20
 
-14 items collected.
+13 items collected.
 
 ---
 
@@ -164,17 +164,5 @@ Saylor said the company is currently responding to the credit-market contraction
 In today's newsletter, CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US; Ripple's Alderoty doubts Elizabeth Warren will set US crypto policy; and more.
 
 📖 [Read original article](https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143)
-
----
-
-## 14. Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling
-
-**Author:** Timmy Shen  
-**Published:** 11/20/2026, 4:24:05 AM  
-**Categories:** Companies, Crypto Ecosystems, DeFi, News  
-
-Coinbase said event contracts already qualify as swaps under the CEA and that explicit inclusion would provide greater regulatory certainty.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152)
 
 ---
