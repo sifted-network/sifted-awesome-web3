@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-22"
 date: "2026-11-22"
 source: "Cointelegraph"
-count: 6
+count: 5
 ---
 
 # Cointelegraph - 2026-11-22
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ Onchain FX does not need to recreate the trillion-dollar institutional market to
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/22/2026, 11:25:27 AM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Bitcoin briefly drops to $17K on Kraken, exchange upholds trades
+## 3. Bitcoin briefly drops to $17K on Kraken, exchange upholds trades
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/22/2026, 9:33:06 AM  
@@ -59,7 +47,7 @@ Kraken said all orders were processed correctly and found no evidence of a secur
 
 ---
 
-## 5. South Korean exchanges halt CYBER transfers amid suspected bridge exploit
+## 4. South Korean exchanges halt CYBER transfers amid suspected bridge exploit
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/22/2026, 7:24:05 AM  
@@ -71,7 +59,7 @@ Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens 
 
 ---
 
-## 6. Chainflip confirms $12M hack, offers attacker 10% bounty
+## 5. Chainflip confirms $12M hack, offers attacker 10% bounty
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/22/2026, 5:28:43 AM  
