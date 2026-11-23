@@ -19,7 +19,7 @@ count: 2
 
 New letters show the widening range of Congressional committees that will be probing the presidential administration — and the crypto collateral that may be swept up.
 
-📖 [Read original article](https://www.coindesk.com/)
+📖 [Read original article](https://www.coindesk.com/policy/2026/11/22/more-on-the-pending-oversight-hearings-state-of-crypto)
 
 ---
 
