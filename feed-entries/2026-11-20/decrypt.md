@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-11-20"
 date: "2026-11-20"
 source: "Decrypt"
-count: 13
+count: 6
 ---
 
 # Decrypt - 2026-11-20
 
-13 items collected.
+6 items collected.
 
 ---
 
@@ -80,89 +80,5 @@ Gemini's new Mac computer-use feature navigates apps, files, and websites in a s
 Wagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.
 
 📖 [Read original article](https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host)
-
----
-
-## 7. Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February
-
-**Author:** Jose Antonio Lanz  
-**Published:** 11/20/2026, 4:35:59 PM  
-**Categories:** , Markets  
-
-Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.
-
-📖 [Read original article](https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest)
-
----
-
-## 8. Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death
-
-**Author:** Decrypt Agent  
-**Published:** 11/20/2026, 3:42:51 PM  
-**Categories:** polygon, Law and Order  
-
-Sen. Adam Schiff's DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths.
-
-📖 [Read original article](https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death)
-
----
-
-## 9. Morning Minute: Anthropic IPO Pops, Sinks Markets
-
-**Author:** Tyler Warner  
-**Published:** 11/20/2026, 1:23:01 PM  
-**Categories:** , , Opinion  
-
-A (brief) win for Anthropic's ANT stock on IPO day meant a loss for just about every other major asset class.
-
-📖 [Read original article](https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets)
-
----
-
-## 10. MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business
-
-**Author:** Decrypt Agent  
-**Published:** 11/20/2026, 12:10:14 PM  
-**Categories:** , , Business  
-
-The crypto payments firm joins a rush of crypto companies seeking federal trust charters, which face growing political scrutiny.
-
-📖 [Read original article](https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business)
-
----
-
-## 11. Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K
-
-**Author:** Decrypt Agent  
-**Published:** 11/20/2026, 11:50:51 AM  
-**Categories:** , Markets  
-
-Thursday's ETF outflow was the funds' biggest in three weeks, as rising Treasury yields and Fed rate hike bets weigh on crypto.
-
-📖 [Read original article](https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k)
-
----
-
-## 12. Coinbase Targets In-House Prediction Markets by First Half of 2027: Report
-
-**Author:** Decrypt Agent  
-**Published:** 11/20/2026, 11:23:00 AM  
-**Categories:** Business  
-
-The exchange offers event contracts through Kalshi, but running its own would give it more control and a bigger share of trading revenue.
-
-📖 [Read original article](https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report)
-
----
-
-## 13. CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default
-
-**Author:** Decrypt Agent  
-**Published:** 11/20/2026, 10:07:46 AM  
-**Categories:** , , Business  
-
-The UK crypto trade group broadly backed the regulator's proposed perimeter guidance, but warned that parts of it go further than the law.
-
-📖 [Read original article](https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default)
 
 ---
