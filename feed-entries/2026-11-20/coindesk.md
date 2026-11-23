@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-20"
 date: "2026-11-20"
 source: "CoinDesk"
-count: 16
+count: 15
 ---
 
 # CoinDesk - 2026-11-20
 
-16 items collected.
+15 items collected.
 
 ---
 
@@ -188,17 +188,5 @@ ARK Invest snapped up $90 million in Anthropic stock across six funds during the
 The sell-off hit Wagyu’s XMR1 token, separate from Monero and Hyperliquid’s XMR futures market.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million)
-
----
-
-## 16. Here's what's crashing gold and likely weighing on bitcoin too
-
-**Author:** Omkar Godbole  
-**Published:** 11/20/2026, 6:12:15 AM  
-**Categories:** Markets, News  
-
-Gold fell to its lowest level since September 2025 on Friday, and the same catalyst driving its decline is likely also weighing on bitcoin.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too)
 
 ---
