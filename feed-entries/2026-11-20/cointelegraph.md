@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-20"
 date: "2026-11-20"
 source: "Cointelegraph"
-count: 14
+count: 13
 ---
 
 # Cointelegraph - 2026-11-20
 
-14 items collected.
+13 items collected.
 
 ---
 
@@ -164,17 +164,5 @@ The SEC says the operators showed investors fake certificates and pointed them t
 Retail investors traded $772 million in Anthropic shares on Thursday, the most Vanda Research has recorded for a market debut since 2012.
 
 📖 [Read original article](https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Institutions pile back into US Bitcoin ETFs in Q3 after selling streak
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/20/2026, 3:33:22 AM  
-**Categories:** Markets  
-
-Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling.
-
-📖 [Read original article](https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
