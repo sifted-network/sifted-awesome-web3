@@ -2,16 +2,28 @@
 title: "The Block - 2026-11-22"
 date: "2026-11-22"
 source: "The Block"
-count: 2
+count: 3
 ---
 
 # The Block - 2026-11-22
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Trump to host second memecoin dinner tonight with TRUMP down 99% from peak
+## 1. A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge
+
+**Author:** Zack Abrams  
+**Published:** 11/22/2026, 11:17:08 PM  
+**Categories:** Crypto Ecosystems, DeFi, News  
+
+One trader managed to turn about $50 into nearly $17,700 in the wake of the exploit, according to The Block's analysis.
+
+📖 [Read original article](https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838)
+
+---
+
+## 2. Trump to host second memecoin dinner tonight with TRUMP down 99% from peak
 
 **Author:** Zack Abrams  
 **Published:** 11/22/2026, 8:58:33 PM  
@@ -23,7 +35,7 @@ Boxer Floyd Mayweather, "Shark Tank" investor Kevin O'Leary and NBA champion Tri
 
 ---
 
-## 2. Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty
+## 3. Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty
 
 **Author:** Zack Abrams  
 **Published:** 11/22/2026, 6:58:57 PM  
