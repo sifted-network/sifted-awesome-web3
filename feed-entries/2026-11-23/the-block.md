@@ -2,16 +2,76 @@
 title: "The Block - 2026-11-23"
 date: "2026-11-23"
 source: "The Block"
-count: 13
+count: 18
 ---
 
 # The Block - 2026-11-23
 
-13 items collected.
+18 items collected.
 
 ---
 
-## 1. DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million
+## 1. Grayscale says bitcoin and major altcoins look ‘oversold’ as AI risks cloud near-term outlook
+
+**Author:** Yogita Khatri  
+**Published:** 11/23/2026, 10:18:02 PM  
+**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, Token Projects, Web3, Analyst Reports, Bitcoin, Crypto, News  
+
+Grayscale said bitcoin's drop to about $55,000 on Saturday made the current bear market its longest on record, at least 411 days.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418)
+
+---
+
+## 2. Grayscale’s new 2x leveraged Zcash ETF takes 13% opening day tumble
+
+**Author:** Kyle Baird  
+**Published:** 11/23/2026, 10:15:12 PM  
+**Categories:** Companies, Markets, Privacy, Zcash, News  
+
+Grayscale’s ZECX debuted less than three months after its spot Zcash ETF began trading on NYSE Arca.
+
+📖 [Read original article](https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407)
+
+---
+
+## 3. DOJ seeks $1.17 billion in USDC tied to Binance hack; Circle could issue replacement tokens
+
+**Author:** Yogita Khatri  
+**Published:** 11/23/2026, 8:00:34 PM  
+**Categories:** Companies, Crypto Ecosystems, Exchanges, Markets, Policy, Regulation, Security, Stablecoins, Token Projects, Binance, Exploits, USDC, News  
+
+The U.S. Justice Department is seeking to recover about $1.17 billion in USDC tied to the Oct. 29 Binance hack.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398)
+
+---
+
+## 4. CFTC prediction market rules advance to White House review amid state-federal jurisdiction fight
+
+**Author:** Sarah Wynn  
+**Published:** 11/23/2026, 6:30:09 PM  
+**Categories:** Crypto Ecosystems, DeFi, Policy, Regulation, CFTC, Prediction Markets, News  
+
+A proposed set of rules by the CFTC to further assert its oversight of prediction markets is now with the White House for review.
+
+📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-23-cftc-prediction-market-rules-advance-white-house-review-amid-state-federal-jurisdiction-fight-445384)
+
+---
+
+## 5. Sky cofounder weighs SKY sale to repay $77 million as stUSDS pool runs dry
+
+**Author:** Kyle Baird  
+**Published:** 11/23/2026, 5:31:50 PM  
+**Categories:** Crypto Ecosystems, DeFi, Markets, Lending, Protocols, News  
+
+USDS held near $1 on Monday even as the separate stUSDS lending pool had no funds available for withdrawals.
+
+📖 [Read original article](https://www.theblock.co/news/defi/2026-11-23-sky-cofounder-weighs-sky-sale-repay-77-million-stusds-pool-runs-dry-445373)
+
+---
+
+## 6. DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million
 
 **Author:** Jason Shubnell  
 **Published:** 11/23/2026, 3:34:51 PM  
@@ -23,7 +83,7 @@ DeFi Development added about 5,180 SOL, lifting its Solana treasury to 2.62 mill
 
 ---
 
-## 2. Bitmine adds 7,819 ETH as Tom Lee makes the ‘hard money’ case
+## 7. Bitmine adds 7,819 ETH as Tom Lee makes the ‘hard money’ case
 
 **Author:** Brian Danga  
 **Published:** 11/23/2026, 3:02:41 PM  
@@ -35,7 +95,7 @@ Bitmine added 7,819 ETH over the past week, lifting its total holdings to 6,085,
 
 ---
 
-## 3. Bitcoin, crypto and tech stocks rally as Nvidia reinstates Jensen Huang as CEO; NVDA jumps 30%
+## 8. Bitcoin, crypto and tech stocks rally as Nvidia reinstates Jensen Huang as CEO; NVDA jumps 30%
 
 **Author:** James Hunt  
 **Published:** 11/23/2026, 3:02:21 PM  
@@ -47,7 +107,7 @@ Ahead of the announcement, Polymarket put the odds of Huang rejoining Nvidia by 
 
 ---
 
-## 4. OKXICE launches tokenized securities venue with 113 assets confirmed for 24/7 trading
+## 9. OKXICE launches tokenized securities venue with 113 assets confirmed for 24/7 trading
 
 **Author:** Danny Park  
 **Published:** 11/23/2026, 2:01:02 PM  
@@ -59,7 +119,7 @@ The current lineup of issuers and asset managers includes eToro, Fidelity, Striv
 
 ---
 
-## 5. Pump.fun draws criticism over private key imports as it retires external wallet sign-in on web
+## 10. Pump.fun draws criticism over private key imports as it retires external wallet sign-in on web
 
 **Author:** Brian Danga  
 **Published:** 11/23/2026, 1:54:54 PM  
@@ -71,7 +131,7 @@ Pump.fun is retiring external web wallet logins and asking users to import priva
 
 ---
 
-## 6. Solo bitcoin miner beats the odds to win $191,000 block reward
+## 11. Solo bitcoin miner beats the odds to win $191,000 block reward
 
 **Author:** James Hunt  
 **Published:** 11/23/2026, 1:37:02 PM  
@@ -83,7 +143,7 @@ A small-scale miner won a Bitcoin block reward despite operating a tiny fraction
 
 ---
 
-## 7. ‘The dots aren’t done,’ Michael Saylor says as Strategy buys another 457 BTC for $30 million
+## 12. ‘The dots aren’t done,’ Michael Saylor says as Strategy buys another 457 BTC for $30 million
 
 **Author:** James Hunt  
 **Published:** 11/23/2026, 1:10:25 PM  
@@ -95,7 +155,7 @@ Strategy's latest acquisitions came during a week that saw bitcoin drop to its l
 
 ---
 
-## 8. Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000
+## 13. Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000
 
 **Author:** Jason Shubnell  
 **Published:** 11/23/2026, 12:05:02 PM  
@@ -107,7 +167,7 @@ LendingUSA and Cross River launch bitcoin-secured loans of $10,000 to $250,000 w
 
 ---
 
-## 9. Visa launches experimental AI agent wallet for eligible US users to earn OUSD from paid tasks
+## 14. Visa launches experimental AI agent wallet for eligible US users to earn OUSD from paid tasks
 
 **Author:** Brian Danga  
 **Published:** 11/23/2026, 11:22:51 AM  
@@ -119,7 +179,7 @@ Visa is extending its agent verification infrastructure into paid work, allowing
 
 ---
 
-## 10. South Korea to publish draft of comprehensive crypto legal framework this week
+## 15. South Korea to publish draft of comprehensive crypto legal framework this week
 
 **Author:** Danny Park  
 **Published:** 11/23/2026, 10:11:58 AM  
@@ -131,7 +191,7 @@ The draft is expected to include a licensing regime for crypto businesses and a 
 
 ---
 
-## 11. Singapore’s OCBC, StraitsX launch pilot for cross-border business stablecoin payments
+## 16. Singapore’s OCBC, StraitsX launch pilot for cross-border business stablecoin payments
 
 **Author:** Timmy Shen  
 **Published:** 11/23/2026, 10:04:03 AM  
@@ -143,7 +203,7 @@ The setup uses StraitsX's infrastructure for onchain collection and compliance, 
 
 ---
 
-## 12. Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings
+## 17. Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings
 
 **Author:** Timmy Shen  
 **Published:** 11/23/2026, 7:12:52 AM  
@@ -155,7 +215,7 @@ Cathie Wood's Ark Invest has bought 1.64 million shares in Anthropic, worth $145
 
 ---
 
-## 13. Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts
+## 18. Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts
 
 **Author:** Danny Park  
 **Published:** 11/23/2026, 5:47:21 AM  
