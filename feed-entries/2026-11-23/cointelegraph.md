@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-23"
 date: "2026-11-23"
 source: "Cointelegraph"
-count: 23
+count: 17
 ---
 
 # Cointelegraph - 2026-11-23
 
-23 items collected.
+17 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ The staff guidance allows Bitcoin, Ether and payment stablecoins to count toward
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Ana Paula Pereira  
-**Published:** 11/23/2026, 9:40:44 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack
+## 2. US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack
 
 **Author:** Cointelegraph by Jona Jaupi  
 **Published:** 11/23/2026, 9:04:03 PM  
@@ -47,7 +35,7 @@ US prosecutors are seeking control of stolen USDC, while Elliptic says hackers h
 
 ---
 
-## 4. Kalshi secures temporary win in New York gambling law dispute
+## 3. Kalshi secures temporary win in New York gambling law dispute
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/23/2026, 8:38:43 PM  
@@ -59,7 +47,7 @@ The ruling allows Kalshi to continue operating as its legal battle with New York
 
 ---
 
-## 5. BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn
+## 4. BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/23/2026, 7:35:06 PM  
@@ -71,7 +59,7 @@ BTCS sold more than half its Ether holdings to reduce leverage following the mar
 
 ---
 
-## 6. Base makes quantum security a 2027 priority as regulators warn of risks
+## 5. Base makes quantum security a 2027 priority as regulators warn of risks
 
 **Author:** Cointelegraph by Jona Jaupi  
 **Published:** 11/23/2026, 7:16:46 PM  
@@ -83,7 +71,7 @@ Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wa
 
 ---
 
-## 7. Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks
+## 6. Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks
 
 **Author:** Cointelegraph by Jona Jaupi  
 **Published:** 11/23/2026, 5:42:18 PM  
@@ -95,7 +83,7 @@ Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt o
 
 ---
 
-## 8. Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations
+## 7. Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/23/2026, 4:51:17 PM  
@@ -107,7 +95,7 @@ Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huan
 
 ---
 
-## 9. Cross River Bank enters Bitcoin-backed lending with $250K loans
+## 8. Cross River Bank enters Bitcoin-backed lending with $250K loans
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/23/2026, 4:23:37 PM  
@@ -119,7 +107,7 @@ The US bank is offering Bitcoin-backed loans ranging from $10,000 to $250,000 th
 
 ---
 
-## 10. How market depth shapes the price of a weekend Bitcoin sale
+## 9. How market depth shapes the price of a weekend Bitcoin sale
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 11/23/2026, 3:57:55 PM  
@@ -131,7 +119,7 @@ Over 14 hours, Bitcoin traded on Kraken’s Canadian dollar market at an average
 
 ---
 
-## 11. Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe
+## 10. Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/23/2026, 2:47:00 PM  
@@ -143,7 +131,7 @@ Nvidia shares surged nearly 29% after the company’s board reinstated Jensen Hu
 
 ---
 
-## 12. OKX, ICE launch 113 tokenized assets despite issuer objections
+## 11. OKX, ICE launch 113 tokenized assets despite issuer objections
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/23/2026, 2:00:00 PM  
@@ -155,7 +143,7 @@ The venture named Coinbase and Fidelity among the issuers and asset managers in 
 
 ---
 
-## 13. Trump-linked American Bitcoin secures $150M credit line from FalconX
+## 12. Trump-linked American Bitcoin secures $150M credit line from FalconX
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/23/2026, 1:44:16 PM  
@@ -167,7 +155,7 @@ The miner can borrow against its Bitcoin to fund operations and expansion after 
 
 ---
 
-## 14. Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks
+## 13. Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/23/2026, 1:31:01 PM  
@@ -179,7 +167,7 @@ Strategy raised its preferred stock buyback limit to $4 billion and authorized t
 
 ---
 
-## 15. AI agents are using credit cards. Where does that leave crypto?
+## 14. AI agents are using credit cards. Where does that leave crypto?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 11/23/2026, 1:30:00 PM  
@@ -191,7 +179,7 @@ AI agents are already using credit cards to transact, raising questions about wh
 
 ---
 
-## 16. Critics of Netflix’s FTX drama point to Obama’s producer credit
+## 15. Critics of Netflix’s FTX drama point to Obama’s producer credit
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/23/2026, 1:15:03 PM  
@@ -203,7 +191,7 @@ Series creator Graham Moore said he invented a scene in which Changpeng Zhao urg
 
 ---
 
-## 17. ECB to let banks pledge more tokenized securities as collateral
+## 16. ECB to let banks pledge more tokenized securities as collateral
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/23/2026, 11:49:38 AM  
@@ -215,7 +203,7 @@ The ECB aims to start accepting securities issued on platforms licensed under th
 
 ---
 
-## 18. BTC price gains 12% from $55K: Three things to know in Bitcoin this week
+## 17. BTC price gains 12% from $55K: Three things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/23/2026, 11:20:57 AM  
@@ -224,65 +212,5 @@ The ECB aims to start accepting securities issued on platforms licensed under th
 Nasdaq-100 futures rose 3.1% before Monday’s open, while Wednesday’s US inflation report could shape expectations for a December rate hike.
 
 📖 [Read original article](https://cointelegraph.com/markets/btc-price-stock-futures-rebound-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. ‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/23/2026, 9:05:44 AM  
-**Categories:** Latest News  
-
-The campaign used at least 480 ad domains to target users in more than 47 countries and could infect a vulnerable iPhone with a single tap.
-
-📖 [Read original article](https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Bitcoin ETFs shed $1.8B in third-largest weekly outflow
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 11/23/2026, 8:08:52 AM  
-**Categories:** Markets  
-
-Bitcoin ETF outflows reached $4.14 billion in November through Friday, nearing June’s $4.51 billion total.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Trump renews call for Nvidia to rehire Jensen Huang as CEO
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/23/2026, 3:37:20 AM  
-**Categories:** Latest News  
-
-In a Truth Social post on Monday, Trump said rehiring Jensen Huang would benefit both Nvidia and the US.
-
-📖 [Read original article](https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 22. Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/23/2026, 2:47:39 AM  
-**Categories:** Markets  
-
-Markets and economists widely expect the US Federal Reserve to raise interest rates by 25 basis points in its December meeting.
-
-📖 [Read original article](https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 23. Half of wallets on Trump’s dinner list got tokens from non-US exchanges
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/23/2026, 12:53:49 AM  
-**Categories:** Latest News  
-
-Public Citizen traced 66 of 130 qualifying wallets to exchanges that restrict US users, raising questions over who is attending Trump’s memecoin dinner on Sunday.
-
-📖 [Read original article](https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
