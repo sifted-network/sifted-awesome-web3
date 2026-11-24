@@ -2,16 +2,100 @@
 title: "Cointelegraph - 2026-11-23"
 date: "2026-11-23"
 source: "Cointelegraph"
-count: 17
+count: 23
 ---
 
 # Cointelegraph - 2026-11-23
 
-17 items collected.
+23 items collected.
 
 ---
 
-## 1. Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations
+## 1. CFTC staff say exchanges can count Bitcoin toward operating reserves
+
+**Author:** Cointelegraph by Felix Ng  
+**Published:** 11/23/2026, 11:43:34 PM  
+**Categories:** Latest News  
+
+The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.
+
+📖 [Read original article](https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Ana Paula Pereira  
+**Published:** 11/23/2026, 9:40:44 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack
+
+**Author:** Cointelegraph by Jona Jaupi  
+**Published:** 11/23/2026, 9:04:03 PM  
+**Categories:** Latest News  
+
+US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers.
+
+📖 [Read original article](https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Kalshi secures temporary win in New York gambling law dispute
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/23/2026, 8:38:43 PM  
+**Categories:** Latest News  
+
+The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing.
+
+📖 [Read original article](https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/23/2026, 7:35:06 PM  
+**Categories:** Latest News  
+
+BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury.
+
+📖 [Read original article](https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. Base makes quantum security a 2027 priority as regulators warn of risks
+
+**Author:** Cointelegraph by Jona Jaupi  
+**Published:** 11/23/2026, 7:16:46 PM  
+**Categories:** Interview  
+
+Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed.
+
+📖 [Read original article](https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks
+
+**Author:** Cointelegraph by Jona Jaupi  
+**Published:** 11/23/2026, 5:42:18 PM  
+**Categories:** Latest News  
+
+Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICE’s rollout, while some issuers simply wanted more time.
+
+📖 [Read original article](https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/23/2026, 4:51:17 PM  
@@ -23,7 +107,7 @@ Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huan
 
 ---
 
-## 2. Cross River Bank enters Bitcoin-backed lending with $250K loans
+## 9. Cross River Bank enters Bitcoin-backed lending with $250K loans
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/23/2026, 4:23:37 PM  
@@ -35,7 +119,7 @@ The US bank is offering Bitcoin-backed loans ranging from $10,000 to $250,000 th
 
 ---
 
-## 3. How market depth shapes the price of a weekend Bitcoin sale
+## 10. How market depth shapes the price of a weekend Bitcoin sale
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 11/23/2026, 3:57:55 PM  
@@ -47,7 +131,7 @@ Over 14 hours, Bitcoin traded on Kraken’s Canadian dollar market at an average
 
 ---
 
-## 4. Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe
+## 11. Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/23/2026, 2:47:00 PM  
@@ -59,19 +143,7 @@ Nvidia shares surged nearly 29% after the company’s board reinstated Jensen Hu
 
 ---
 
-## 5. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 11/23/2026, 2:06:36 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 6. OKX, ICE launch 113 tokenized assets despite issuer objections
+## 12. OKX, ICE launch 113 tokenized assets despite issuer objections
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/23/2026, 2:00:00 PM  
@@ -83,7 +155,7 @@ The venture named Coinbase and Fidelity among the issuers and asset managers in 
 
 ---
 
-## 7. Trump-linked American Bitcoin secures $150M credit line from FalconX
+## 13. Trump-linked American Bitcoin secures $150M credit line from FalconX
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/23/2026, 1:44:16 PM  
@@ -95,7 +167,7 @@ The miner can borrow against its Bitcoin to fund operations and expansion after 
 
 ---
 
-## 8. Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks
+## 14. Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/23/2026, 1:31:01 PM  
@@ -107,7 +179,7 @@ Strategy raised its preferred stock buyback limit to $4 billion and authorized t
 
 ---
 
-## 9. AI agents are using credit cards. Where does that leave crypto?
+## 15. AI agents are using credit cards. Where does that leave crypto?
 
 **Author:** Cointelegraph by Christina Comben  
 **Published:** 11/23/2026, 1:30:00 PM  
@@ -119,7 +191,7 @@ AI agents are already using credit cards to transact, raising questions about wh
 
 ---
 
-## 10. Critics of Netflix’s FTX drama point to Obama’s producer credit
+## 16. Critics of Netflix’s FTX drama point to Obama’s producer credit
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/23/2026, 1:15:03 PM  
@@ -131,7 +203,7 @@ Series creator Graham Moore said he invented a scene in which Changpeng Zhao urg
 
 ---
 
-## 11. ECB to let banks pledge more tokenized securities as collateral
+## 17. ECB to let banks pledge more tokenized securities as collateral
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/23/2026, 11:49:38 AM  
@@ -143,7 +215,7 @@ The ECB aims to start accepting securities issued on platforms licensed under th
 
 ---
 
-## 12. BTC price gains 12% from $55K: Three things to know in Bitcoin this week
+## 18. BTC price gains 12% from $55K: Three things to know in Bitcoin this week
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/23/2026, 11:20:57 AM  
@@ -155,7 +227,7 @@ Nasdaq-100 futures rose 3.1% before Monday’s open, while Wednesday’s US infl
 
 ---
 
-## 13. ‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones
+## 19. ‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/23/2026, 9:05:44 AM  
@@ -167,7 +239,7 @@ The campaign used at least 480 ad domains to target users in more than 47 countr
 
 ---
 
-## 14. Bitcoin ETFs shed $1.8B in third-largest weekly outflow
+## 20. Bitcoin ETFs shed $1.8B in third-largest weekly outflow
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/23/2026, 8:08:52 AM  
@@ -179,7 +251,7 @@ Bitcoin ETF outflows reached $4.14 billion in November through Friday, nearing J
 
 ---
 
-## 15. Trump renews call for Nvidia to rehire Jensen Huang as CEO
+## 21. Trump renews call for Nvidia to rehire Jensen Huang as CEO
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/23/2026, 3:37:20 AM  
@@ -191,7 +263,7 @@ In a Truth Social post on Monday, Trump said rehiring Jensen Huang would benefit
 
 ---
 
-## 16. Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December
+## 22. Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/23/2026, 2:47:39 AM  
@@ -203,7 +275,7 @@ Markets and economists widely expect the US Federal Reserve to raise interest ra
 
 ---
 
-## 17. Half of wallets on Trump’s dinner list got tokens from non-US exchanges
+## 23. Half of wallets on Trump’s dinner list got tokens from non-US exchanges
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/23/2026, 12:53:49 AM  
