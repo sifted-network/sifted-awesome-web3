@@ -2,16 +2,52 @@
 title: "CoinDesk - 2026-11-23"
 date: "2026-11-23"
 source: "CoinDesk"
-count: 20
+count: 23
 ---
 
 # CoinDesk - 2026-11-23
 
-20 items collected.
+23 items collected.
 
 ---
 
-## 1. Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs
+## 1. New York judge declines to block Kalshi from operating in the state for now
+
+**Author:** Nikhilesh De  
+**Published:** 11/23/2026, 6:22:03 PM  
+**Categories:** Policy, Kalshi, Prediction Markets, News  
+
+Judge Melissa Crane did not shut down Kalshi's operations in a hearing Monday, but did say she wanted both parties to present their full arguments in an expedited fashion.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now)
+
+---
+
+## 2. Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO
+
+**Author:** Jesse Hamilton  
+**Published:** 11/23/2026, 6:12:05 PM  
+**Categories:** Finance, News  
+
+Congressional scrutiny will continue even as CEO returns to lead the company after his affair scandal and its national-security implications.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo)
+
+---
+
+## 3. Bitcoin rebound already losing steam as AI trade returns with a bang
+
+**Author:** Krisztian Sandor  
+**Published:** 11/23/2026, 5:31:27 PM  
+**Categories:** Markets, Bitcoin News, Markets, Artificial Intelligence, News  
+
+Nvidia jumped more than 30% and has recovered most of its losses since CEO Jensen Huang stepped down, but bitcoin is lagging as U.S. selling persists, traders said.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank)
+
+---
+
+## 4. Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 11/23/2026, 4:39:03 PM  
@@ -23,7 +59,7 @@ ProShares' rival CoinDesk 20 Crypto ETF (KRYP) holds $1.81 million in assets nea
 
 ---
 
-## 2. Binance hackers push $247 million through transactions designed to cloud the source
+## 5. Binance hackers push $247 million through transactions designed to cloud the source
 
 **Author:** Olivier Acuna  
 **Published:** 11/23/2026, 3:29:01 PM  
@@ -35,7 +71,7 @@ Elliptic found that nearly all the mixing transactions, known as coinjoins, were
 
 ---
 
-## 3. Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin
+## 6. Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin
 
 **Author:** Olivier Acuna  
 **Published:** 11/23/2026, 3:02:32 PM  
@@ -47,7 +83,7 @@ The Nasdaq-listed crypto miner can borrow without selling its reserves or issuin
 
 ---
 
-## 4. Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed
+## 7. Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed
 
 **Author:** Omkar Godbole  
 **Published:** 11/23/2026, 2:43:18 PM  
@@ -59,7 +95,7 @@ The Nasdaq-listed crypto miner can borrow without selling its reserves or issuin
 
 ---
 
-## 5. Nvidia soars as Jensen Huang returns to lead company
+## 8. Nvidia soars as Jensen Huang returns to lead company
 
 **Author:** James Van Straten,AI Boost  
 **Published:** 11/23/2026, 2:13:44 PM  
@@ -71,7 +107,7 @@ The Nasdaq gained more than 6% as Nvidia rose as much as 35%. After a brief surg
 
 ---
 
-## 6. Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue
+## 9. Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue
 
 **Author:** Krisztian Sandor  
 **Published:** 11/23/2026, 1:49:44 PM  
@@ -83,19 +119,19 @@ The Intercontinental Exchange-backed venture said it has confirmed 113 assets fo
 
 ---
 
-## 7. Live updates: Bitcoin climbs to $62,000 as Nasdaq soars 6% on Huang return
+## 10. Live updates: Bitcoin climbs only modestly as Nasdaq soars 6% on Huang return
 
 **Author:** James Van Straten,Stephen Alpher  
 **Published:** 11/23/2026, 1:01:20 PM  
 **Categories:** Tech, Bitcoin News, Live News, live_news  
 
-The Nvidia board announced the reinstatement of Jensen Huang as president, CEO, and director.
+Nvidia is higher by 30% after the company board announced the reinstatement of Jensen Huang as president, CEO, and director.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025)
 
 ---
 
-## 8. Bitcoin's losing streak is second-longest ever, and some observers see more downside
+## 11. Bitcoin's losing streak is second-longest ever, and some observers see more downside
 
 **Author:** Omkar Godbole  
 **Published:** 11/23/2026, 12:30:25 PM  
@@ -107,7 +143,7 @@ Your day-ahead look for Nov. 23, 2026
 
 ---
 
-## 9. Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack
+## 12. Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack
 
 **Author:** Shaurya Malwa  
 **Published:** 11/23/2026, 12:13:35 PM  
@@ -119,7 +155,7 @@ Researchers find that accounts with visible public keys hold nearly 55% of ether
 
 ---
 
-## 10. Bitcoin rebounds from 2-year low as Wall Street futures recover
+## 13. Bitcoin rebounds from 2-year low as Wall Street futures recover
 
 **Author:** Francisco Rodrigues  
 **Published:** 11/23/2026, 11:51:09 AM  
@@ -131,7 +167,7 @@ Monday's market activity will show whether the weekend decline was seen as a dip
 
 ---
 
-## 11. Japan to ramp up crypto tax audits after uncovering $24.5 million in hidden income
+## 14. Japan to ramp up crypto tax audits after uncovering $24.5 million in hidden income
 
 **Author:** Francisco Rodrigues  
 **Published:** 11/23/2026, 11:33:00 AM  
@@ -143,7 +179,7 @@ On-site audits of individual crypto traders averaged 12.58 million yen in extra 
 
 ---
 
-## 12. Live updates: Bitcoin climbs back above $61,000 as stocks rebound from AI rout
+## 15. Live updates: Bitcoin climbs back above $61,000 as stocks rebound from AI rout
 
 **Author:** Shaurya Malwa  
 **Published:** 11/23/2026, 11:29:09 AM  
@@ -155,7 +191,7 @@ Bitcoin is recovering from a weekend plunge to nearly $55,500, its lowest in mor
 
 ---
 
-## 13. South Korea to expand cryptocurrency account freezes and curb illicit transfers abroad
+## 16. South Korea to expand cryptocurrency account freezes and curb illicit transfers abroad
 
 **Author:** Olivier Acuna  
 **Published:** 11/23/2026, 10:53:19 AM  
@@ -167,7 +203,7 @@ The proposed measures would also expand a June phishing-account suspension syste
 
 ---
 
-## 14. Bitcoin breaks a record streak of 'lower highs.' Here's what it means
+## 17. Bitcoin breaks a record streak of 'lower highs.' Here's what it means
 
 **Author:** James Van Straten  
 **Published:** 11/23/2026, 10:31:02 AM  
@@ -179,7 +215,7 @@ Bitcoin rose above the previous day’s peak on Sunday, an early sign that selli
 
 ---
 
-## 15. U.S. inflation, Thanksgiving trading: Crypto Week Ahead
+## 18. U.S. inflation, Thanksgiving trading: Crypto Week Ahead
 
 **Author:** Francisco Rodrigues  
 **Published:** 11/23/2026, 9:40:25 AM  
@@ -191,7 +227,7 @@ Your look at what’s coming in the week starting Nov. 23.
 
 ---
 
-## 16. Crypto thieves are using online ads to infect iPhones with a single tap, research finds
+## 19. Crypto thieves are using online ads to infect iPhones with a single tap, research finds
 
 **Author:** Omkar Godbole,AI Boost  
 **Published:** 11/23/2026, 7:45:30 AM  
@@ -203,7 +239,7 @@ A malicious ad campaign known as MoldyRoost can compromise vulnerable iPhones wi
 
 ---
 
-## 17. This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack
+## 20. This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack
 
 **Author:** Shaurya Malwa  
 **Published:** 11/23/2026, 7:18:45 AM  
@@ -215,7 +251,7 @@ Stockholm-listed H100 moved a slice of its bitcoin into a derivatives book after
 
 ---
 
-## 18. Cardano holders are turning down a $4 million request for running its flagship event
+## 21. Cardano holders are turning down a $4 million request for running its flagship event
 
 **Author:** Shaurya Malwa  
 **Published:** 11/23/2026, 6:15:45 AM  
@@ -227,7 +263,7 @@ Roughly five times as much voting stake has opposed the Foundation's 2027 confer
 
 ---
 
-## 19. Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand
+## 22. Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand
 
 **Author:** Shaurya Malwa  
 **Published:** 11/23/2026, 5:42:22 AM  
@@ -239,7 +275,7 @@ An apparent breakdown in Kraken's CAD order book cut every coin on it by over 70
 
 ---
 
-## 20. Market rout kills 50 basis points December Fed rate hike bets
+## 23. Market rout kills 50 basis points December Fed rate hike bets
 
 **Author:** Omkar Godbole  
 **Published:** 11/23/2026, 4:45:47 AM  
