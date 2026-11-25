@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-24"
 date: "2026-11-24"
 source: "Cointelegraph"
-count: 21
+count: 15
 ---
 
 # Cointelegraph - 2026-11-24
 
-21 items collected.
+15 items collected.
 
 ---
 
@@ -23,19 +23,7 @@ The reported breach follows cyber incidents involving the FBI, Department of Hom
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 11/24/2026, 10:12:10 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Europol follows $28.5M crypto trail in streaming piracy crackdown
+## 2. Europol follows $28.5M crypto trail in streaming piracy crackdown
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/24/2026, 9:50:25 PM  
@@ -47,7 +35,7 @@ Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to t
 
 ---
 
-## 4. Utah moves to dismiss criminal charges against Kalshi after trading halt
+## 3. Utah moves to dismiss criminal charges against Kalshi after trading halt
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/24/2026, 8:48:27 PM  
@@ -59,7 +47,7 @@ Utah’s attorney general warned that the criminal charges could be refiled if K
 
 ---
 
-## 5. Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares
+## 4. Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/24/2026, 7:44:23 PM  
@@ -71,7 +59,7 @@ The crypto asset manager warned that Bitcoin’s downturn could persist amid wea
 
 ---
 
-## 6. Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years
+## 5. Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years
 
 **Author:** Cointelegraph by Jona Jaupi  
 **Published:** 11/24/2026, 7:04:26 PM  
@@ -83,7 +71,7 @@ Coldcard maker Coinkite explained why years of security checks failed to catch t
 
 ---
 
-## 7. CFTC sets new prediction market rules as more firms seek US entry
+## 6. CFTC sets new prediction market rules as more firms seek US entry
 
 **Author:** Cointelegraph by Jona Jaupi  
 **Published:** 11/24/2026, 6:31:42 PM  
@@ -95,7 +83,7 @@ The US regulator has approved permanent reporting rules for certain event contra
 
 ---
 
-## 8. BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong
+## 7. BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong
 
 **Author:** Cointelegraph by Nate Kostar  
 **Published:** 11/24/2026, 6:07:22 PM  
@@ -107,7 +95,7 @@ The tokenized fund launched with approximately $100 million in assets, with Stan
 
 ---
 
-## 9. Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price
+## 8. Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/24/2026, 5:09:11 PM  
@@ -119,7 +107,7 @@ Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and 
 
 ---
 
-## 10. How South Korea’s proposed 20% cap could change who runs Upbit
+## 9. How South Korea’s proposed 20% cap could change who runs Upbit
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 11/24/2026, 4:33:26 PM  
@@ -131,7 +119,7 @@ Naver Financial agreed to buy every share in Upbit’s operator, but a proposed 
 
 ---
 
-## 11. USDT buyers face 22% VAT when Moscow Exchange opens crypto trading
+## 10. USDT buyers face 22% VAT when Moscow Exchange opens crypto trading
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/24/2026, 2:10:23 PM  
@@ -143,7 +131,7 @@ Buyers will pay VAT on top of the trade price in December because Russia’s tax
 
 ---
 
-## 12. Swiss central bank, UBS and SIX study ledger for tokenized settlement
+## 11. Swiss central bank, UBS and SIX study ledger for tokenized settlement
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/24/2026, 1:57:56 PM  
@@ -155,7 +143,7 @@ The study will assess whether a shared ledger can bring central bank money, comm
 
 ---
 
-## 13. Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals
+## 12. Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/24/2026, 1:43:46 PM  
@@ -167,7 +155,7 @@ Borrowers would sell SKY to the protocol and use the proceeds to pay down their 
 
 ---
 
-## 14. Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks
+## 13. Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/24/2026, 1:11:44 PM  
@@ -179,7 +167,7 @@ Grayscale said Bitcoin’s bear market was its longest on record at 411 days and
 
 ---
 
-## 15. South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes
+## 14. South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/24/2026, 12:04:16 PM  
@@ -191,7 +179,7 @@ The draft bill would also reopen domestic initial coin offerings after a ban dat
 
 ---
 
-## 16. Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return
+## 15. Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/24/2026, 11:40:33 AM  
@@ -200,65 +188,5 @@ The draft bill would also reopen domestic initial coin offerings after a ban dat
 Bitcoin rose about 5% on Jensen Huang’s return, more than the 3.5% it lost on news of his exit, but remained 19.2% below its pre-resignation price.
 
 📖 [Read original article](https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 11/24/2026, 9:25:45 AM  
-**Categories:** Markets  
-
-Bitcoin continued to threaten the loss of $60,000 support as gold attempted to bounce from a 60-day losing streak during which it fell nearly 25%.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 18. Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 11/24/2026, 7:41:50 AM  
-**Categories:** Markets  
-
-BlackRock’s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed November’s net outflows to $4.71 billion.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 19. Why 42 Macro says it’s waiting to buy the Bitcoin dip
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/24/2026, 5:07:30 AM  
-**Categories:** Markets  
-
-The independent macro research company warns the Bitcoin sell-off may not have yet run its course.
-
-📖 [Read original article](https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 20. Google wants to make you the star of your own AI slop movies
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/24/2026, 3:13:22 AM  
-**Categories:** Latest News  
-
-Viewers could find their AI-doppelgangers inserted into the crowd during the Cricket World Cup, or take a leading role in their very own romantic comedy.
-
-📖 [Read original article](https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 21. Ethereum Foundation doubles protocol security team ahead of overhaul
-
-**Author:** Cointelegraph by Felix Ng  
-**Published:** 11/24/2026, 12:36:26 AM  
-**Categories:** Latest News  
-
-The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs.
-
-📖 [Read original article](https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
