@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-23"
 date: "2026-11-23"
 source: "CoinDesk"
-count: 11
+count: 10
 ---
 
 # CoinDesk - 2026-11-23
 
-11 items collected.
+10 items collected.
 
 ---
 
@@ -128,17 +128,5 @@ The Intercontinental Exchange-backed venture said it has confirmed 113 assets fo
 Nvidia is higher by 30% after the company board announced the reinstatement of Jensen Huang as president, CEO, and director.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025)
-
----
-
-## 11. Bitcoin's losing streak is second-longest ever, and some observers see more downside
-
-**Author:** Omkar Godbole  
-**Published:** 11/23/2026, 12:30:25 PM  
-**Categories:** Crypto Daybook Americas, Crypto Daybook Americas, News  
-
-Your day-ahead look for Nov. 23, 2026
-
-📖 [Read original article](https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside)
 
 ---
