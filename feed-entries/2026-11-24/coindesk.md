@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-24"
 date: "2026-11-24"
 source: "CoinDesk"
-count: 15
+count: 10
 ---
 
 # CoinDesk - 2026-11-24
 
-15 items collected.
+10 items collected.
 
 ---
 
@@ -128,65 +128,5 @@ Bitcoin (BTC) has dropped 2.2% since midnight UTC to around $59,900, giving back
 Bitcoin’s supply in profit fell below its 2022 FTX collapse low, while entities holding 100 to 10,000 BTC continued to accumulate.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater)
-
----
-
-## 11. U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving
-
-**Author:** Olivier Acuna  
-**Published:** 11/24/2026, 10:58:51 AM  
-**Categories:** Policy, Stablecoins, Binance, hacking, Crime, News  
-
-U.S. seeks to recover $1.1 billion in frozen USDC as billions more from the Binance hack remain unaccounted for.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving)
-
----
-
-## 12. BTCS sells more than half its ether to repay $43.8 million in Aave debt
-
-**Author:** Francisco Rodrigues  
-**Published:** 11/24/2026, 10:55:30 AM  
-**Categories:** Finance, Ethereum News, News  
-
-The firm's DeFi business, Imperium, temporarily pulled out of liquidity pools after generating $3.5 million in Q3 revenue.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt)
-
----
-
-## 13. South Korea regulator backs bank-controlled stablecoins after months of dispute
-
-**Author:** Olivier Acuna  
-**Published:** 11/24/2026, 10:29:14 AM  
-**Categories:** Policy, South Korea, Regulation, Stablecoins, News  
-
-Fintech firms could lead stablecoin ventures, but banks would need to own more than half of any issuer.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute)
-
----
-
-## 14. Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades
-
-**Author:** James Van Straten  
-**Published:** 11/24/2026, 10:08:38 AM  
-**Categories:** Markets, Bitcoin News, Markets, News  
-
-Nasdaq 100 futures fell about 1% after the index surged on Monday, while the Dollar Index held above 104, its highest level since March 2025.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades)
-
----
-
-## 15. U.S. CFTC sets policies on event contract data, using crypto to check financial boxes
-
-**Author:** Jesse Hamilton  
-**Published:** 11/24/2026, 12:25:04 AM  
-**Categories:** Policy, Prediction Markets, CFTC, News  
-
-The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory requirements.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes)
 
 ---
