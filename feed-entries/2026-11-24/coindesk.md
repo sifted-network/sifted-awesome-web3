@@ -2,16 +2,28 @@
 title: "CoinDesk - 2026-11-24"
 date: "2026-11-24"
 source: "CoinDesk"
-count: 14
+count: 15
 ---
 
 # CoinDesk - 2026-11-24
 
-14 items collected.
+15 items collected.
 
 ---
 
-## 1. 'AI trade never died': Traders see room for market recovery, but bitcoin's participation another story
+## 1. Utah moves to drop criminal pursuit of Kalshi after the firm halted services there
+
+**Author:** Jesse Hamilton  
+**Published:** 11/24/2026, 5:50:08 PM  
+**Categories:** Policy, Kalshi, Prediction Markets, Regulation, News  
+
+The state continues to hold the criminal charges in its back pocket with a vow to hit Kalshi and other prediction markets with gambling accusations if they return.
+
+📖 [Read original article](https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there)
+
+---
+
+## 2. 'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story
 
 **Author:** Helene Braun  
 **Published:** 11/24/2026, 4:00:25 PM  
@@ -23,7 +35,7 @@ Monday's tech enthusiasm is quickly fading on Tuesday, while bitcoin remains nea
 
 ---
 
-## 2. Anchorage Digital to unveil new asset-management subsidiary
+## 3. Anchorage Digital to unveil new asset-management subsidiary
 
 **Author:** Ian Allison,Will Canny  
 **Published:** 11/24/2026, 3:06:32 PM  
@@ -35,7 +47,7 @@ The crypto custody technology firm said it will unveil a separate subsidiary cal
 
 ---
 
-## 3. South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment
+## 4. South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment
 
 **Author:** Olivier Acuna  
 **Published:** 11/24/2026, 2:40:53 PM  
@@ -47,7 +59,7 @@ Token issuers would have to disclose how they plan to spend investors' money and
 
 ---
 
-## 4. Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold
+## 5. Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold
 
 **Author:** Oliver Knight  
 **Published:** 11/24/2026, 12:47:49 PM  
@@ -59,7 +71,7 @@ Ansem suspects someone broke into his account on Bullpen, the trading terminal h
 
 ---
 
-## 5. Live updates: Bitcoin pulls back to $60,000, stock rally fades, as tariffs re-enter the picture
+## 6. Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture
 
 **Author:** Stephen Alpher,James Van Straten  
 **Published:** 11/24/2026, 12:47:40 PM  
@@ -71,7 +83,7 @@ The Trump Administration could unveil tariff hikes against China, Japan, South K
 
 ---
 
-## 6. Bitcoin drops as November spot ETF outflows increase to record $4.71 billion
+## 7. Bitcoin drops as November spot ETF outflows increase to record $4.71 billion
 
 **Author:** Francisco Rodrigues,Saksham Diwan  
 **Published:** 11/24/2026, 12:36:28 PM  
@@ -83,7 +95,7 @@ Your day-ahead look for Nov. 24, 2026
 
 ---
 
-## 7. JPMorgan, HSBC and StoneX complete first digital gold trades in London
+## 8. JPMorgan, HSBC and StoneX complete first digital gold trades in London
 
 **Author:** Olivier Acuna  
 **Published:** 11/24/2026, 12:04:39 PM  
@@ -95,7 +107,7 @@ The banks tested a new way to trade fractions of physical gold bars and use the 
 
 ---
 
-## 8. Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple
+## 9. Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple
 
 **Author:** Oliver Knight  
 **Published:** 11/24/2026, 11:31:56 AM  
@@ -107,7 +119,7 @@ Bitcoin (BTC) has dropped 2.2% since midnight UTC to around $59,900, giving back
 
 ---
 
-## 9. Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater
+## 10. Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater
 
 **Author:** James Van Straten  
 **Published:** 11/24/2026, 11:11:38 AM  
@@ -119,7 +131,7 @@ Bitcoin’s supply in profit fell below its 2022 FTX collapse low, while entitie
 
 ---
 
-## 10. U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving
+## 11. U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving
 
 **Author:** Olivier Acuna  
 **Published:** 11/24/2026, 10:58:51 AM  
@@ -131,7 +143,7 @@ U.S. seeks to recover $1.1 billion in frozen USDC as billions more from the Bina
 
 ---
 
-## 11. BTCS sells more than half its ether to repay $43.8 million in Aave debt
+## 12. BTCS sells more than half its ether to repay $43.8 million in Aave debt
 
 **Author:** Francisco Rodrigues  
 **Published:** 11/24/2026, 10:55:30 AM  
@@ -143,7 +155,7 @@ The firm's DeFi business, Imperium, temporarily pulled out of liquidity pools af
 
 ---
 
-## 12. South Korea regulator backs bank-controlled stablecoins after months of dispute
+## 13. South Korea regulator backs bank-controlled stablecoins after months of dispute
 
 **Author:** Olivier Acuna  
 **Published:** 11/24/2026, 10:29:14 AM  
@@ -155,7 +167,7 @@ Fintech firms could lead stablecoin ventures, but banks would need to own more t
 
 ---
 
-## 13. Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades
+## 14. Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades
 
 **Author:** James Van Straten  
 **Published:** 11/24/2026, 10:08:38 AM  
@@ -167,7 +179,7 @@ Nasdaq 100 futures fell about 1% after the index surged on Monday, while the Dol
 
 ---
 
-## 14. U.S. CFTC sets policies on event contract data, using crypto to check financial boxes
+## 15. U.S. CFTC sets policies on event contract data, using crypto to check financial boxes
 
 **Author:** Jesse Hamilton  
 **Published:** 11/24/2026, 12:25:04 AM  
