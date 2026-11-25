@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-11-23"
 date: "2026-11-23"
 source: "Decrypt"
-count: 17
+count: 13
 ---
 
 # Decrypt - 2026-11-23
 
-17 items collected.
+13 items collected.
 
 ---
 
@@ -164,53 +164,5 @@ The board said senior U.S. officials' input left it confident Huang's return pos
 The Nasdaq dropped 10% last week. Bitcoin lost 10% in a single day on Friday amidst cascading selloffs, though a relief rally is underway.
 
 📖 [Read original article](https://decrypt.co/383778/morning-minute-crypto-rebounds-after-nvda-drives-friday-selloff)
-
----
-
-## 14. Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot
-
-**Author:** Decrypt Agent  
-**Published:** 11/23/2026, 1:25:35 PM  
-**Categories:** , Business  
-
-Michael Saylor's firm raised its preferred stock buyback program to $4 billion after repurchasing another $212 million of STRC last week.
-
-📖 [Read original article](https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot)
-
----
-
-## 15. Czech Authorities Charge 15 Over $12M Unlicensed Crypto Casino
-
-**Author:** Decrypt Agent  
-**Published:** 11/23/2026, 1:08:23 PM  
-**Categories:** polygon, Law and Order  
-
-Investigators say "decentralized" casino BETFIN was run centrally, inflated its player numbers with bots and made $12 million illegally.
-
-📖 [Read original article](https://decrypt.co/383775/czech-authorities-charge-15-over-12m-unlicensed-crypto-casino)
-
----
-
-## 16. Solana Meme Coin for Fiona the Hippo Raises $100K for Cincinnati Zoo Charity
-
-**Author:** Ryan Gladwin  
-**Published:** 11/23/2026, 12:43:30 PM  
-**Categories:** , , Coins  
-
-A meme coin honoring the Cincinnati Zoo's late pygmy hippo has sent its creator rewards to the zoo's nonprofit.
-
-📖 [Read original article](https://decrypt.co/383762/solana-meme-coin-for-fiona-the-hippo-sends-100k-to-cincinnati-zoo-charity)
-
----
-
-## 17. Bitcoin Rebounds to $61K After Weekend Plunge to Two-Year Low
-
-**Author:** Decrypt Agent  
-**Published:** 11/23/2026, 11:14:22 AM  
-**Categories:** , Markets  
-
-Bitcoin swung by more than $6,000 over the weekend as tech stocks slid and spot ETFs logged their biggest daily outflow since June.
-
-📖 [Read original article](https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low)
 
 ---
