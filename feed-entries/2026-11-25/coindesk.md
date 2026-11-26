@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-25"
 date: "2026-11-25"
 source: "CoinDesk"
-count: 17
+count: 12
 ---
 
 # CoinDesk - 2026-11-25
 
-17 items collected.
+12 items collected.
 
 ---
 
@@ -152,65 +152,5 @@ Brussels wants tech firms to grow at home. EU scale-ups raise about half the cap
 The Nasdaq narrowed an early 4.5% plunge to just a modest loss, with Michael Burry announcing he's closed all tech shorts and gone long.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower)
-
----
-
-## 13. Solana developers move to stop validators finishing work on blocks that already lost
-
-**Author:** Shaurya Malwa  
-**Published:** 11/25/2026, 6:33:10 AM  
-**Categories:** Tech, News  
-
-The fix would stop the computers that run Solana from wasting effort on transactions the network has already thrown out, freeing up power its recent speed upgrade didn't touch.
-
-📖 [Read original article](https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost)
-
----
-
-## 14. Just 10 accounts drove all of the XRP Ledger's trading growth last quarter
-
-**Author:** Shaurya Malwa  
-**Published:** 11/25/2026, 6:15:08 AM  
-**Categories:** Markets, News  
-
-Data shows that the ten busiest accounts accounted for more than all of the exchange's quarterly growth, while trading by everyone else declined.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter)
-
----
-
-## 15. Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive
-
-**Author:** Omkar Godbole  
-**Published:** 11/25/2026, 4:57:22 AM  
-**Categories:** Markets, News  
-
-Derive’s new options on Nvidia, Anthropic, stock indices and oil bring hedging tools to onchain RWA markets.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive)
-
----
-
-## 16. A year after buying bitcoin, Czech central bank won't say what it's worth
-
-**Author:** Shaurya Malwa  
-**Published:** 11/25/2026, 4:50:08 AM  
-**Categories:** Markets, News  
-
-The Czech National Bank bought bitcoin a year ago as an experiment. The coin has fallen at least 40% since, and the bank's audited accounts carry it at cost rather than market value. The CNB told CoinDesk an outside custodian holds the coins.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth)
-
----
-
-## 17. Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one
-
-**Author:** Jesse Hamilton  
-**Published:** 11/25/2026, 3:35:20 AM  
-**Categories:** Policy, News  
-
-President Donald Trump said in an interview with the New York Post that he's fine clearing Nvidia's CEO from legal trouble in his affair scandal.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one)
 
 ---
