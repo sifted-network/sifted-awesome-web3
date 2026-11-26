@@ -2,12 +2,12 @@
 title: "Decrypt - 2026-11-24"
 date: "2026-11-24"
 source: "Decrypt"
-count: 17
+count: 14
 ---
 
 # Decrypt - 2026-11-24
 
-17 items collected.
+14 items collected.
 
 ---
 
@@ -176,41 +176,5 @@ The blockchain security firm walked officers from across Asia and the South Paci
 It was a very green Monday for most markets, but crypto couldn’t hold the pump as ETF sellers race for the exits.
 
 📖 [Read original article](https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto)
-
----
-
-## 15. GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable
-
-**Author:** Ryan Gladwin  
-**Published:** 11/24/2026, 1:01:30 PM  
-**Categories:** Gaming  
-
-Leonida and GTA6Modding went dark a day after Cyberleek released the executable file that porters had been waiting for.
-
-📖 [Read original article](https://decrypt.co/383860/gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable)
-
----
-
-## 16. $14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report
-
-**Author:** Ryan Gladwin  
-**Published:** 11/24/2026, 12:40:47 PM  
-**Categories:** , Law and Order  
-
-Roughly 245,000 BTC has left almost 10,000 wallets presumed lost, undercutting a lawsuit that argues silence means abandonment.
-
-📖 [Read original article](https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report)
-
----
-
-## 17. Trump Says He 'Made the Deal' to Reinstate Jensen Huang, Sparking Bipartisan Backlash
-
-**Author:** Decrypt Agent  
-**Published:** 11/24/2026, 11:35:13 AM  
-**Categories:** Artificial Intelligence  
-
-Lawmakers from both parties want to know what national security assurances the White House gave Nvidia's board before it brought Huang back.
-
-📖 [Read original article](https://decrypt.co/383853/trump-says-he-made-the-deal-to-reinstate-jensen-huang-sparking-bipartisan-backlash)
 
 ---
