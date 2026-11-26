@@ -2,16 +2,124 @@
 title: "Cointelegraph - 2026-11-25"
 date: "2026-11-25"
 source: "Cointelegraph"
-count: 15
+count: 23
 ---
 
 # Cointelegraph - 2026-11-25
 
-15 items collected.
+23 items collected.
 
 ---
 
-## 1. Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Yohan Yun  
+**Published:** 11/25/2026, 10:33:13 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Switzerland clears 57 jurisdictions for crypto tax data sharing
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/25/2026, 9:53:38 PM  
+**Categories:** Latest News  
+
+The move paves the way for Switzerland to exchange crypto tax data with foreign authorities starting in 2028 as part of a global effort to combat tax evasion.
+
+📖 [Read original article](https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Braiins warns of Bitcoin mining attacks affecting over 1,000 sites
+
+**Author:** Cointelegraph by Jona Jaupi  
+**Published:** 11/25/2026, 9:22:19 PM  
+**Categories:** Latest News  
+
+Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to hijack miners’ computing power and potentially steal rewards.
+
+📖 [Read original article](https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. Why ECB collateral eligibility could boost demand for tokenized bonds
+
+**Author:** Cointelegraph by Adrian Zmudzinski  
+**Published:** 11/25/2026, 9:11:39 PM  
+**Categories:** Latest News  
+
+Past ECB decisions offer clues to the value of using bonds as collateral, while US derivatives exchanges face a different calculation over their Bitcoin holdings.
+
+📖 [Read original article](https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Ethereum Foundation backs Keccak-256 to counter quantum, AI threats
+
+**Author:** Cointelegraph by Isabelle Castro  
+**Published:** 11/25/2026, 6:54:51 PM  
+**Categories:** Latest News  
+
+Ethlabs co-founder Julian Ma told Cointelegraph that AI poses a more immediate threat as Ethereum prepares for one of its biggest security overhauls since the Merge.
+
+📖 [Read original article](https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook
+
+**Author:** Cointelegraph by Jona Jaupi  
+**Published:** 11/25/2026, 5:53:10 PM  
+**Categories:** Latest News  
+
+US core inflation rose more than expected in October as markets anticipate a December interest rate hike, which could slow a crypto market recovery.
+
+📖 [Read original article](https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 7. Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 11/25/2026, 5:33:22 PM  
+**Categories:** Markets  
+
+The prospect of higher US tariffs and hotter-than-expected PCE inflation weighed on Bitcoin, crypto and stocks on Wednesday.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 8. Nvidia agrees to $290M settlement over crypto mining revenue disclosures
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/25/2026, 5:19:33 PM  
+**Categories:** Latest News  
+
+The proposed settlement would resolve a shareholder lawsuit dating back to 2018 that alleged Nvidia misled investors about its exposure to the cryptocurrency industry.
+
+📖 [Read original article](https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 9. FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers
+
+**Author:** Cointelegraph by Nate Kostar  
+**Published:** 11/25/2026, 5:10:53 PM  
+**Categories:** Latest News  
+
+The planned Starmind constellation will process data in orbit for use on Earth, as demand for artificial intelligence computing power continues to grow.
+
+📖 [Read original article](https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 10. Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/25/2026, 2:21:36 PM  
@@ -23,19 +131,7 @@ Constance Waing said Netflix used racist stereotypes in its portrayal of CZ and 
 
 ---
 
-## 2. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 11/25/2026, 1:26:05 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 3. Ukraine passes bill to legalize crypto and tax profits at 23%
+## 11. Ukraine passes bill to legalize crypto and tax profits at 23%
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/25/2026, 1:02:09 PM  
@@ -47,7 +143,7 @@ Ukraine’s parliament passed a crypto regulation bill after three years of legi
 
 ---
 
-## 4. Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization
+## 12. Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/25/2026, 11:49:54 AM  
@@ -59,7 +155,7 @@ SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI
 
 ---
 
-## 5. Hong Kong launches tokenized debt platform with 24-hour settlement
+## 13. Hong Kong launches tokenized debt platform with 24-hour settlement
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/25/2026, 11:31:10 AM  
@@ -71,7 +167,7 @@ The HKMA’s new platform supports settlement in multiple currencies and handles
 
 ---
 
-## 6. Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout
+## 14. Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/25/2026, 11:12:26 AM  
@@ -83,7 +179,7 @@ US spot Bitcoin ETFs have recorded $4.94 billion in November net outflows, excee
 
 ---
 
-## 7. Bitcoin price may fall below $53K if bear-market history repeats
+## 15. Bitcoin price may fall below $53K if bear-market history repeats
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/25/2026, 11:09:38 AM  
@@ -95,7 +191,7 @@ Bitcoin price downside targets focused on the $53,200 realized price as research
 
 ---
 
-## 8. HYPE drops 8% as Trump bump gives way to 40% slide from peak
+## 16. HYPE drops 8% as Trump bump gives way to 40% slide from peak
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/25/2026, 10:57:52 AM  
@@ -107,7 +203,7 @@ HYPE traded below its price before Trump’s August remarks as wallets linked to
 
 ---
 
-## 9. French Senate rejects 100K euro crypto wallet disclosure requirement
+## 17. French Senate rejects 100K euro crypto wallet disclosure requirement
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/25/2026, 9:58:12 AM  
@@ -119,7 +215,7 @@ Senators also rejected stablecoin-swap and crypto exit-tax proposals, while the 
 
 ---
 
-## 10. Stablecoin redemptions hit $12B in 30 days, echoing 2022 bear market
+## 18. Stablecoin redemptions hit $12B in 30 days, echoing 2022 bear market
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/25/2026, 9:52:22 AM  
@@ -131,7 +227,7 @@ Crypto research firm Kaiko said the cash-out was smaller than in 2022 and has sl
 
 ---
 
-## 11. EU seeks up to $55B for AI and quantum computing fund: Report
+## 19. EU seeks up to $55B for AI and quantum computing fund: Report
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/25/2026, 8:40:28 AM  
@@ -143,7 +239,7 @@ Hackers already use AI to target crypto exchanges, while future quantum computer
 
 ---
 
-## 12. South Korea’s crypto bill could move stablecoin race beyond token issuance
+## 20. South Korea’s crypto bill could move stablecoin race beyond token issuance
 
 **Author:** Cointelegraph by Ezra Reguerra  
 **Published:** 11/25/2026, 6:54:59 AM  
@@ -155,7 +251,7 @@ South Korea’s draft bill favors bank-led stablecoin issuance but allows fintec
 
 ---
 
-## 13. Solana DEX Velocity halts trading over bug just months after relaunch
+## 21. Solana DEX Velocity halts trading over bug just months after relaunch
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/25/2026, 5:32:55 AM  
@@ -167,7 +263,7 @@ Velocity relaunched in September as a rebuilt version of Drift Protocol, which w
 
 ---
 
-## 14. Trump willing to pardon Jensen Huang, says it won’t be necessary
+## 22. Trump willing to pardon Jensen Huang, says it won’t be necessary
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/25/2026, 4:14:42 AM  
@@ -179,7 +275,7 @@ The president’s remarks come days before Jensen Huang is due to face congressi
 
 ---
 
-## 15. CleanSpark weighs selling more Bitcoin than it mines to de-risk books
+## 23. CleanSpark weighs selling more Bitcoin than it mines to de-risk books
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/25/2026, 1:40:59 AM  
