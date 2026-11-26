@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-24"
 date: "2026-11-24"
 source: "CoinDesk"
-count: 10
+count: 8
 ---
 
 # CoinDesk - 2026-11-24
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Your day-ahead look for Nov. 24, 2026
 The banks tested a new way to trade fractions of physical gold bars and use the metal as collateral without moving it from vaults for the first time.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london)
-
----
-
-## 9. Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple
-
-**Author:** Oliver Knight  
-**Published:** 11/24/2026, 11:31:56 AM  
-**Categories:** Markets, Crypto Markets Today, News  
-
-Bitcoin (BTC) has dropped 2.2% since midnight UTC to around $59,900, giving back Monday's jump and lagging the stock market's rebound from last week's selloff.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple)
-
----
-
-## 10. Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater
-
-**Author:** James Van Straten  
-**Published:** 11/24/2026, 11:11:38 AM  
-**Categories:** Markets, Bitcoin News, News  
-
-Bitcoin’s supply in profit fell below its 2022 FTX collapse low, while entities holding 100 to 10,000 BTC continued to accumulate.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater)
 
 ---
