@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-11-25"
 date: "2026-11-25"
 source: "CoinDesk"
-count: 15
+count: 17
 ---
 
 # CoinDesk - 2026-11-25
 
-15 items collected.
+17 items collected.
 
 ---
 
-## 1. EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending
+## 1. French Senate blocks new crypto tax and wallet list critics called a kidnapping risk
+
+**Author:** Francisco Rodrigues  
+**Published:** 11/25/2026, 6:24:47 PM  
+**Categories:** Finance, Crypto News, Tax, News  
+
+The government opposed the measures citing existing EU data-sharing rules and non-legal tender status, leaving the 2027 budget open.
+
+📖 [Read original article](https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk)
+
+---
+
+## 2. 'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles
+
+**Author:** Krisztian Sandor,Helene Braun  
+**Published:** 11/25/2026, 5:38:33 PM  
+**Categories:** Markets, Markets, Bitcoin News, News  
+
+Crypto sentiment is near rock bottom, but Galaxy sees room for a deeper slide and even longtime crypto bulls are wary of buying amid fears of AI and quantum computing.
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles)
+
+---
+
+## 3. EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending
 
 **Author:** Francisco Rodrigues  
 **Published:** 11/25/2026, 4:02:31 PM  
@@ -23,7 +47,7 @@ The EBA renewed its call for the commission to propose rules for crypto firms gr
 
 ---
 
-## 2. Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million
+## 4. Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million
 
 **Author:** Francisco Rodrigues  
 **Published:** 11/25/2026, 4:02:07 PM  
@@ -35,7 +59,7 @@ Lawmaker Yaroslav Zhelezniak said he expects roughly $330 million (15 billion hr
 
 ---
 
-## 3. Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan
+## 5. Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan
 
 **Author:** Phillip Lord  
 **Published:** 11/25/2026, 3:59:44 PM  
@@ -47,7 +71,7 @@ Yen-funded carry trades ran an estimated $250 billion before the August 2024 sel
 
 ---
 
-## 4. South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe
+## 6. South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe
 
 **Author:** Olivier Acuna  
 **Published:** 11/25/2026, 2:47:17 PM  
@@ -59,7 +83,7 @@ South Korea's second-largest crypto exchange said its trading systems were not b
 
 ---
 
-## 5. Fed’s preferred inflation gauge lands with a December rate increase already priced in
+## 7. Fed’s preferred inflation gauge lands with a December rate increase already priced in
 
 **Author:** Omkar Godbole  
 **Published:** 11/25/2026, 12:18:46 PM  
@@ -71,7 +95,7 @@ Your day-ahead look for Nov. 25, 2026
 
 ---
 
-## 6. Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes
+## 8. Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 11/25/2026, 11:57:50 AM  
@@ -83,7 +107,7 @@ Bitcoin (BTC) is down 1.2% since midnight UTC as the stock selloff resumes, with
 
 ---
 
-## 7. Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%
+## 9. Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%
 
 **Author:** Olivier Acuna  
 **Published:** 11/25/2026, 11:51:54 AM  
@@ -95,7 +119,7 @@ UniCredit brings bitcoin investing to its roughly 8 million retail customers in 
 
 ---
 
-## 8. Gold's haven status has lost its edge over bitcoin, and the Fed's to blame
+## 10. Gold's haven status has lost its edge over bitcoin, and the Fed's to blame
 
 **Author:** Omkar Godbole  
 **Published:** 11/25/2026, 11:30:32 AM  
@@ -107,7 +131,7 @@ Gold has lost the risk-adjusted advantage that made it this year's haven of choi
 
 ---
 
-## 9. EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push
+## 11. EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push
 
 **Author:** Francisco Rodrigues,AI Boost  
 **Published:** 11/25/2026, 11:00:27 AM  
@@ -119,19 +143,19 @@ Brussels wants tech firms to grow at home. EU scale-ups raise about half the cap
 
 ---
 
-## 10. Live updates: Bitcoin tumbles to $58,000 alongside continuing tech rout
+## 12. Live updates: Bitcoin climbs from lows as markets bounce from big early declines
 
 **Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Stephen Alpher  
 **Published:** 11/25/2026, 8:35:47 AM  
 **Categories:** Finance, Live News, live_news  
 
-Nvidia led a 4% plunge in the Nasdaq in early action Wednesday as inflation data remained troubling and the Trump administration was set to unveil a sweeping new tariff regime.
+The Nasdaq narrowed an early 4.5% plunge to just a modest loss, with Michael Burry announcing he's closed all tech shorts and gone long.
 
 📖 [Read original article](https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower)
 
 ---
 
-## 11. Solana developers move to stop validators finishing work on blocks that already lost
+## 13. Solana developers move to stop validators finishing work on blocks that already lost
 
 **Author:** Shaurya Malwa  
 **Published:** 11/25/2026, 6:33:10 AM  
@@ -143,7 +167,7 @@ The fix would stop the computers that run Solana from wasting effort on transact
 
 ---
 
-## 12. Just 10 accounts drove all of the XRP Ledger's trading growth last quarter
+## 14. Just 10 accounts drove all of the XRP Ledger's trading growth last quarter
 
 **Author:** Shaurya Malwa  
 **Published:** 11/25/2026, 6:15:08 AM  
@@ -155,7 +179,7 @@ Data shows that the ten busiest accounts accounted for more than all of the exch
 
 ---
 
-## 13. Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive
+## 15. Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive
 
 **Author:** Omkar Godbole  
 **Published:** 11/25/2026, 4:57:22 AM  
@@ -167,7 +191,7 @@ Derive’s new options on Nvidia, Anthropic, stock indices and oil bring hedging
 
 ---
 
-## 14. A year after buying bitcoin, Czech central bank won't say what it's worth
+## 16. A year after buying bitcoin, Czech central bank won't say what it's worth
 
 **Author:** Shaurya Malwa  
 **Published:** 11/25/2026, 4:50:08 AM  
@@ -179,7 +203,7 @@ The Czech National Bank bought bitcoin a year ago as an experiment. The coin has
 
 ---
 
-## 15. Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one
+## 17. Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one
 
 **Author:** Jesse Hamilton  
 **Published:** 11/25/2026, 3:35:20 AM  
