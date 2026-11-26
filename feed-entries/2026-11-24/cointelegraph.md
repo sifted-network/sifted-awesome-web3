@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-24"
 date: "2026-11-24"
 source: "Cointelegraph"
-count: 15
+count: 7
 ---
 
 # Cointelegraph - 2026-11-24
 
-15 items collected.
+7 items collected.
 
 ---
 
@@ -92,101 +92,5 @@ The US regulator has approved permanent reporting rules for certain event contra
 The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors.
 
 📖 [Read original article](https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 8. Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 11/24/2026, 5:09:11 PM  
-**Categories:** Markets  
-
-Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit new lows below $76.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 9. How South Korea’s proposed 20% cap could change who runs Upbit
-
-**Author:** Cointelegraph by Adrian Zmudzinski  
-**Published:** 11/24/2026, 4:33:26 PM  
-**Categories:** Latest News  
-
-Naver Financial agreed to buy every share in Upbit’s operator, but a proposed ownership cap could strip away its voting rights on four-fifths of them.
-
-📖 [Read original article](https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 10. USDT buyers face 22% VAT when Moscow Exchange opens crypto trading
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 11/24/2026, 2:10:23 PM  
-**Categories:** Latest News  
-
-Buyers will pay VAT on top of the trade price in December because Russia’s tax code has no explicit exemption for foreign digital instruments.
-
-📖 [Read original article](https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 11. Swiss central bank, UBS and SIX study ledger for tokenized settlement
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/24/2026, 1:57:56 PM  
-**Categories:** Latest News  
-
-The study will assess whether a shared ledger can bring central bank money, commercial bank money and securities onto the same platform.
-
-📖 [Read original article](https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 12. Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/24/2026, 1:43:46 PM  
-**Categories:** Latest News  
-
-Borrowers would sell SKY to the protocol and use the proceeds to pay down their loans, freeing up funds for depositors in the stUSDS pool.
-
-📖 [Read original article](https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 13. Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks
-
-**Author:** Cointelegraph by Helen Partz  
-**Published:** 11/24/2026, 1:11:44 PM  
-**Categories:** Markets  
-
-Grayscale said Bitcoin’s bear market was its longest on record at 411 days and counting, though the 56% drop was the smallest percentage decline.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/24/2026, 12:04:16 PM  
-**Categories:** Latest News  
-
-The draft bill would also reopen domestic initial coin offerings after a ban dating to 2017 and require issuers to disclose risks before soliciting buyers.
-
-📖 [Read original article](https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/24/2026, 11:40:33 AM  
-**Categories:** Markets  
-
-Bitcoin rose about 5% on Jensen Huang’s return, more than the 3.5% it lost on news of his exit, but remained 19.2% below its pre-resignation price.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
