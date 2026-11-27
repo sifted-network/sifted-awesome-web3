@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-25"
 date: "2026-11-25"
 source: "CoinDesk"
-count: 12
+count: 10
 ---
 
 # CoinDesk - 2026-11-25
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ UniCredit brings bitcoin investing to its roughly 8 million retail customers in 
 Gold has lost the risk-adjusted advantage that made it this year's haven of choice over bitcoin. Both now offer negative one-year Sharpe ratios, leaving cash yields hard to beat.
 
 📖 [Read original article](https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same)
-
----
-
-## 11. EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push
-
-**Author:** Francisco Rodrigues,AI Boost  
-**Published:** 11/25/2026, 11:00:27 AM  
-**Categories:** Finance, Artificial Intelligence, News  
-
-Brussels wants tech firms to grow at home. EU scale-ups raise about half the capital of San Francisco peers by year 10, an EIB study found.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push)
-
----
-
-## 12. Live updates: Bitcoin climbs from lows as markets bounce from big early declines
-
-**Author:** Shaurya Malwa,Omkar Godbole,James Van Straten,Stephen Alpher  
-**Published:** 11/25/2026, 8:35:47 AM  
-**Categories:** Finance, Live News, live_news  
-
-The Nasdaq narrowed an early 4.5% plunge to just a modest loss, with Michael Burry announcing he's closed all tech shorts and gone long.
-
-📖 [Read original article](https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower)
 
 ---
