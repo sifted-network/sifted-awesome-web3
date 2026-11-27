@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-25"
 date: "2026-11-25"
 source: "The Block"
-count: 12
+count: 10
 ---
 
 # The Block - 2026-11-25
 
-12 items collected.
+10 items collected.
 
 ---
 
@@ -128,29 +128,5 @@ NovaTech founders Cynthia and Eddy Petion have been ordered to pay over $1.3 bil
 Ukraine’s parliament passed a bill establishing a regulatory and tax framework projected to generate $332 million in state budget revenue.
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182)
-
----
-
-## 11. Bit Digital repays $50 million to Galaxy after selling 29,825 ETH
-
-**Author:** James Hunt  
-**Published:** 11/25/2026, 2:15:44 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, Equities, Layer 1s, Market Updates, Markets, Metaverse & NFT, People, People, People, People, People, People, Policy, Token Projects, Equity Movers, Ethereum, News  
-
-Bit Digital sold 29,825 ETH and used the proceeds to reduce its secured borrowing with Galaxy to $50 million.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164)
-
----
-
-## 12. UniCredit offers bitcoin exposure to Italian retail clients with capital protection at maturity
-
-**Author:** Brian Danga  
-**Published:** 11/25/2026, 12:24:32 PM  
-**Categories:** Companies, Crypto Ecosystems, Finance firms, Layer 1s, Markets, Policy, Public Equities, Regulation, Token Projects, Bitcoin, BlackRock, TradFi banks, News  
-
-UniCredit is giving retail clients access to bitcoin performance through a six-year investment with protected principal and capped gains.
-
-📖 [Read original article](https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-446150)
 
 ---
