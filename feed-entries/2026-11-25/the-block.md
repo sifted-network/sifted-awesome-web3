@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-25"
 date: "2026-11-25"
 source: "The Block"
-count: 10
+count: 4
 ---
 
 # The Block - 2026-11-25
 
-10 items collected.
+4 items collected.
 
 ---
 
@@ -56,77 +56,5 @@ Fidelity has filed with the U.S. Securities and Exchange Commission to launch a 
 Following President Trump’s directive to crack down on fraud, the Justice Department announced what it called its “largest-ever crackdown."
 
 📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711)
-
----
-
-## 5. Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil
-
-**Author:** Jason Shubnell  
-**Published:** 11/25/2026, 6:00:13 PM  
-**Categories:** Companies, Crypto Ecosystems, Crypto Infrastructure, Infrastructure, Legal, Markets, Policy, Regulation, Court Hearings, Mining, News  
-
-Nvidia agreed to a $290M settlement over claims it misled investors about crypto mining demand driving 2017–18 gaming GPU sales.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709)
-
----
-
-## 6. Bitcoin falls below $58,000 as CoinShares’ Butterfill sees ‘tail end of the bear market’
-
-**Author:** Kyle Baird  
-**Published:** 11/25/2026, 5:26:55 PM  
-**Categories:** Central Banks, Crypto Ecosystems, Layer 1s, Macro, Market Updates, Markets, People, Policy, Regulation, Token Projects, Bitcoin, Crypto Movers, Federal Reserve, News  
-
-The crypto market cap fell to its lowest since September 2024 as stocks slid and U.S. inflation picked up.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678)
-
----
-
-## 7. Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF
-
-**Author:** Jason Shubnell  
-**Published:** 11/25/2026, 4:54:15 PM  
-**Categories:** Companies, Crypto Ecosystems, Deals, DeFi, Finance firms, Funds, Institutional Investors, Markets, Organizations, Policy, Private equity, Regulation, Bitcoin ETF, Hyperliquid, Investment Firms, News  
-
-Franklin Templeton's Crypto Index ETF (EZPZ) will add Hyperliquid's HYPE token effective Dec. 1, according to an SEC prospectus supplement.
-
-📖 [Read original article](https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686)
-
----
-
-## 8. Aave Labs publicly launches savings app as balances top $63 million
-
-**Author:** James Hunt  
-**Published:** 11/25/2026, 4:00:00 PM  
-**Categories:** Crypto Ecosystems, DeFi, Aave, News  
-
-Aave App supports bank transfers in the U.S., UK, and EEA, plus stablecoin deposits across eight networks.
-
-📖 [Read original article](https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674)
-
----
-
-## 9. NovaTech founders ordered to pay $1.3 billion over crypto Ponzi scheme targeting Haitian investors
-
-**Author:** Sarah Wynn  
-**Published:** 11/25/2026, 3:02:10 PM  
-**Categories:** Legal, Policy, Regulation, Crime, News  
-
-NovaTech founders Cynthia and Eddy Petion have been ordered to pay over $1.3 billion for their role in defrauding thousands.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-25-novatech-founders-ordered-pay-1-3-million-crypto-ponzi-scheme-haitian-investors-446643)
-
----
-
-## 10. Ukraine passes crypto market law, with $332 million revenue target
-
-**Author:** Brian Danga  
-**Published:** 11/25/2026, 2:35:20 PM  
-**Categories:** People, Policy, Regulation, News  
-
-Ukraine’s parliament passed a bill establishing a regulatory and tax framework projected to generate $332 million in state budget revenue.
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182)
 
 ---
