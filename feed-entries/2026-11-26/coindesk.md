@@ -2,16 +2,40 @@
 title: "CoinDesk - 2026-11-26"
 date: "2026-11-26"
 source: "CoinDesk"
-count: 13
+count: 15
 ---
 
 # CoinDesk - 2026-11-26
 
-13 items collected.
+15 items collected.
 
 ---
 
-## 1. Crypto for Advisors: Four questions to ask before trusting a crypto exchange
+## 1. A tiny payment can expose the IP address behind a bitcoin wallet, developer finds
+
+**Author:** Shaurya Malwa  
+**Published:** 11/26/2026, 5:30:00 PM  
+**Categories:** Tech, News  
+
+A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.
+
+📖 [Read original article](https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds)
+
+---
+
+## 2. Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases
+
+**Author:** James Van Straten  
+**Published:** 11/26/2026, 4:50:23 PM  
+**Categories:** Markets, Bitcoin News, News  
+
+More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,
+
+📖 [Read original article](https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases)
+
+---
+
+## 3. Crypto for Advisors: Four questions to ask before trusting a crypto exchange
 
 **Author:** Sarah Morton  
 **Published:** 11/26/2026, 3:42:43 PM  
@@ -23,7 +47,7 @@ count: 13
 
 ---
 
-## 2. Spain gives anti-laundering unit power to freeze crypto accounts without a judge
+## 4. Spain gives anti-laundering unit power to freeze crypto accounts without a judge
 
 **Author:** Francisco Rodrigues  
 **Published:** 11/26/2026, 2:05:58 PM  
@@ -35,7 +59,7 @@ Under existing rules, Sepblac could only suspend accounts when requested by a fo
 
 ---
 
-## 3. Standard Chartered's Zodia Custody suffers data breach, exposing client information
+## 5. Standard Chartered's Zodia Custody suffers data breach, exposing client information
 
 **Author:** Olivier Acuna  
 **Published:** 11/26/2026, 12:38:51 PM  
@@ -47,7 +71,7 @@ The breach exposed client and employee contact information at Standard Chartered
 
 ---
 
-## 4. Bitcoin ETFs are bleeding cash and the Fed is unlikely to help
+## 6. Bitcoin ETFs are bleeding cash and the Fed is unlikely to help
 
 **Author:** Omkar Godbole  
 **Published:** 11/26/2026, 12:14:46 PM  
@@ -59,7 +83,7 @@ Your day-ahead look for Nov. 26, 2026
 
 ---
 
-## 5. Hong Kong-based crypto trading firm Auros is winding down operations
+## 7. Hong Kong-based crypto trading firm Auros is winding down operations
 
 **Author:** Ian Allison,Omkar Godbole,Shaurya Malwa  
 **Published:** 11/26/2026, 11:27:50 AM  
@@ -71,7 +95,7 @@ The firm previously estimated it handled 4% of global crypto exchange trading vo
 
 ---
 
-## 6. Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving
+## 8. Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving
 
 **Author:** Oliver Knight,Omkar Godbole  
 **Published:** 11/26/2026, 11:17:22 AM  
@@ -83,7 +107,7 @@ Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, w
 
 ---
 
-## 7. Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure
+## 9. Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure
 
 **Author:** James Van Straten  
 **Published:** 11/26/2026, 10:56:08 AM  
@@ -95,7 +119,7 @@ U.S. export controls have halted Nvidia server shipments to four Southeast Asian
 
 ---
 
-## 8. New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech
+## 10. New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech
 
 **Author:** Olivier Acuna  
 **Published:** 11/26/2026, 10:40:33 AM  
@@ -107,7 +131,7 @@ AWS Mining and NovaTech founders Cynthia and Eddie Petion were ordered to pay $1
 
 ---
 
-## 9. $7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October
+## 11. $7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October
 
 **Author:** Omkar Godbole  
 **Published:** 11/26/2026, 8:01:33 AM  
@@ -119,7 +143,7 @@ Bitcoin options positioning has flipped bearish ahead of Friday’s $7 billion e
 
 ---
 
-## 10. Zcash developers want to phase out older privacy system as a precaution against future attacks
+## 12. Zcash developers want to phase out older privacy system as a precaution against future attacks
 
 **Author:** Shaurya Malwa  
 **Published:** 11/26/2026, 7:09:25 AM  
@@ -131,7 +155,7 @@ Zakura is pushing to stop new payments into Sapling sooner, citing the possibili
 
 ---
 
-## 11. Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route
+## 13. Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route
 
 **Author:** Shaurya Malwa  
 **Published:** 11/26/2026, 6:19:09 AM  
@@ -143,7 +167,7 @@ An attacker steered up to 1.9 EH/s of mining power to an impostor pool earlier i
 
 ---
 
-## 12. Ripple is worth $90 a share to one fund and $300 to another, SEC filings show
+## 14. Ripple is worth $90 a share to one fund and $300 to another, SEC filings show
 
 **Author:** Shaurya Malwa  
 **Published:** 11/26/2026, 5:30:38 AM  
@@ -155,7 +179,7 @@ Two SEC-registered funds open to ordinary investors marked Ripple stock 70% apar
 
 ---
 
-## 13. Bill to lock up U.S. government bitcoin for 20 years advances to full House
+## 15. Bill to lock up U.S. government bitcoin for 20 years advances to full House
 
 **Author:** Omkar Godbole  
 **Published:** 11/26/2026, 4:46:01 AM  
