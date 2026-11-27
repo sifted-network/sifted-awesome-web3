@@ -2,12 +2,12 @@
 title: "CoinDesk - 2026-11-26"
 date: "2026-11-26"
 source: "CoinDesk"
-count: 15
+count: 12
 ---
 
 # CoinDesk - 2026-11-26
 
-15 items collected.
+12 items collected.
 
 ---
 
@@ -152,41 +152,5 @@ Bitcoin options positioning has flipped bearish ahead of Friday’s $7 billion e
 Zakura is pushing to stop new payments into Sapling sooner, citing the possibility that AI-assisted discoveries could weaken the math protecting it.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system)
-
----
-
-## 13. Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route
-
-**Author:** Shaurya Malwa  
-**Published:** 11/26/2026, 6:19:09 AM  
-**Categories:** Markets, News  
-
-An attacker steered up to 1.9 EH/s of mining power to an impostor pool earlier in November using a weakness most of the industry's largest pools still carry.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes)
-
----
-
-## 14. Ripple is worth $90 a share to one fund and $300 to another, SEC filings show
-
-**Author:** Shaurya Malwa  
-**Published:** 11/26/2026, 5:30:38 AM  
-**Categories:** Markets, News  
-
-Two SEC-registered funds open to ordinary investors marked Ripple stock 70% apart on Sept. 30, and the lower mark sits barely above what the other fund paid in 2018.
-
-📖 [Read original article](https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show)
-
----
-
-## 15. Bill to lock up U.S. government bitcoin for 20 years advances to full House
-
-**Author:** Omkar Godbole  
-**Published:** 11/26/2026, 4:46:01 AM  
-**Categories:** Policy, Bitcoin News, News  
-
-A bill to codify Trump’s Strategic Bitcoin Reserve has cleared committee and is eligible for a House vote, but it faces a tight deadline.
-
-📖 [Read original article](https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house)
 
 ---
