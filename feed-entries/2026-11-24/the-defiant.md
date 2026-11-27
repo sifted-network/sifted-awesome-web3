@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-24"
 date: "2026-11-24"
 source: "The Defiant"
-count: 31
+count: 20
 ---
 
 # The Defiant - 2026-11-24
 
-31 items collected.
+20 items collected.
 
 ---
 
@@ -248,137 +248,5 @@ The streaming service expects to delete 29 million songs by the start of 2027, w
 The campaign spans more than 400 cases. DOJ's claim of over $8 billion in 'intended loss' does not establish how much was seized or returned to victims.
 
 📖 [Read original article](https://thedefiant.io/news/regulation/doj-details-crypto-cases-in-broad-anti-scam-crackdown)
-
----
-
-## 21. Nvidia Falls 8% After Rally on Huang's Return as CEO
-
-**Author:** The Defiant  
-**Published:** 11/24/2026, 4:21:35 PM  
-**Categories:** -  
-
-The stock retained much of Monday's 31.5% gain, while a steeper decline in a chip-stock ETF showed the retreat extended beyond Nvidia.
-
-📖 [Read original article](https://thedefiant.io/frontier/ai/nvidia-falls-8-after-rally-on-huang-s-return-as-ceo)
-
----
-
-## 22. US Blacklists Megaspeed, Tightening Access to AI Chips
-
-**Author:** The Defiant  
-**Published:** 11/24/2026, 3:42:04 PM  
-**Categories:** -  
-
-Commerce's licensing restrictions reach suppliers beyond Nvidia. The action came the same day Jensen Huang returned as CEO.
-
-📖 [Read original article](https://thedefiant.io/frontier/regulation/us-blacklists-megaspeed-tightening-access-to-ai-chips)
-
----
-
-## 23. Euler Technologies Replaces Labs in Commercial Push
-
-**Author:** The Defiant  
-**Published:** 11/24/2026, 3:36:48 PM  
-**Categories:** -  
-
-Christopher Cameron joins as head of strategy as the new provider takes over development and the app. Administrative permissions are due to transfer by November’s end.
-
-📖 [Read original article](https://thedefiant.io/news/defi/euler-technologies-replaces-labs-in-commercial-push)
-
----
-
-## 24. Fidelity Crypto Adds AAVE, LINK and UNI to Its Lineup
-
-**Author:** The Defiant  
-**Published:** 11/24/2026, 3:31:45 PM  
-**Categories:** -  
-
-Eligible customers can trade the tokens in individual, joint and crypto IRA accounts, with Oregon excluded and a 1% fee on buys and sells.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/fidelity-crypto-adds-aave-link-and-uni-to-its-lineup)
-
----
-
-## 25. Coinkite Explains Why Coldcard Flaw Escaped Checks
-
-**Author:** The Defiant  
-**Published:** 11/24/2026, 2:47:49 PM  
-**Categories:** -  
-
-The wallet maker’s postmortem describes a missed firmware-routing error. Fixed firmware cannot repair old seeds, and customer compensation remains undecided.
-
-📖 [Read original article](https://thedefiant.io/news/security/coinkite-explains-why-coldcard-flaw-escaped-checks)
-
----
-
-## 26. Bisq 2 Urges Security Update Ahead of Network Cutoff
-
-**Author:** The Defiant  
-**Published:** 11/24/2026, 2:23:18 PM  
-**Categories:** -  
-
-New signature rules take effect at 7 p.m. ET on Nov. 24. The latest desktop release also patches a Java flaw that could allow attackers to run code.
-
-📖 [Read original article](https://thedefiant.io/news/security/bisq-2-urges-security-update-ahead-of-network-cutoff)
-
----
-
-## 27. Deel Launches Stablecoin Spending Card in 26 Markets
-
-**Author:** The Defiant  
-**Published:** 11/24/2026, 2:21:26 PM  
-**Categories:** -  
-
-The Stripe-powered Visa card lets eligible contractors spend DLUSD balances without first moving funds to a bank. Employee access is coming soon.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/deel-launches-stablecoin-spending-card-in-26-markets)
-
----
-
-## 28. UniCredit Offers Bitcoin Note With Maturity Protection
-
-**Author:** The Defiant  
-**Published:** 11/24/2026, 2:20:48 PM  
-**Categories:** -  
-
-Eligible UniCredit retail clients in Italy can subscribe through the bank’s advisory service from €1,000. Standard maturity terms cap gains at 65% over six years; repayment depends on UniCredit’s ability to pay.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/unicredit-offers-bitcoin-note-with-maturity-protection)
-
----
-
-## 29. Aave Horizon Adds HINC High-Yield Fund as Collateral
-
-**Author:** The Defiant  
-**Published:** 11/24/2026, 2:19:11 PM  
-**Categories:** -  
-
-Eligible holders can borrow USDC, GHO and RLUSD without redeeming the fund, with standard initial borrowing capped at 55% of collateral value.
-
-📖 [Read original article](https://thedefiant.io/news/defi/aave-horizon-adds-hinc-high-yield-fund-as-collateral)
-
----
-
-## 30. Uber, Nuro and Lucid Start Driverless Tests in Bay Area
-
-**Author:** The Defiant  
-**Published:** 11/24/2026, 1:39:33 PM  
-**Categories:** -  
-
-Driverless employee rides are next as the partners target a first-quarter 2027 public launch, later than the 2026 debut previously planned.
-
-📖 [Read original article](https://thedefiant.io/frontier/technology/uber-nuro-and-lucid-start-driverless-tests-in-bay-area)
-
----
-
-## 31. New York Judge Declines to Halt Kalshi Trading for Now
-
-**Author:** The Defiant  
-**Published:** 11/24/2026, 1:38:54 PM  
-**Categories:** -  
-
-Justice Melissa Crane sought fuller arguments on a preliminary injunction, without settling whether New York can apply gambling laws to Kalshi’s contracts.
-
-📖 [Read original article](https://thedefiant.io/news/regulation/new-york-judge-declines-to-halt-kalshi-trading-for-now)
 
 ---
