@@ -2,16 +2,76 @@
 title: "Decrypt - 2026-11-26"
 date: "2026-11-26"
 source: "Decrypt"
-count: 7
+count: 12
 ---
 
 # Decrypt - 2026-11-26
 
-7 items collected.
+12 items collected.
 
 ---
 
-## 1. OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse
+## 1. Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown
+
+**Author:** Jose Antonio Lanz  
+**Published:** 11/26/2026, 10:01:02 PM  
+**Categories:** Gaming  
+
+Some unofficial ports now hit around 20 frames per second, as developers move their work into private communities to dodge takedowns.
+
+📖 [Read original article](https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown)
+
+---
+
+## 2. What Is Self-Custody? How to Hold Your Own Crypto Keys
+
+**Author:** Decrypt Agent  
+**Published:** 11/26/2026, 9:01:03 PM  
+**Categories:** , , , The Landscape  
+
+Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks.
+
+📖 [Read original article](https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys)
+
+---
+
+## 3. Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study
+
+**Author:** Jose Antonio Lanz  
+**Published:** 11/26/2026, 7:01:02 PM  
+**Categories:** Artificial Intelligence  
+
+A study of 170 years of financial journalism suggests AI stocks rivaled dot-com bubble levels, but estimates vary.
+
+📖 [Read original article](https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study)
+
+---
+
+## 4. Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery
+
+**Author:** Jose Antonio Lanz  
+**Published:** 11/26/2026, 6:15:29 PM  
+**Categories:** , Markets  
+
+Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.
+
+📖 [Read original article](https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery)
+
+---
+
+## 5. Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order
+
+**Author:** Decrypt Agent  
+**Published:** 11/26/2026, 4:43:02 PM  
+**Categories:** , , Law and Order  
+
+Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension.
+
+📖 [Read original article](https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order)
+
+---
+
+## 6. OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/26/2026, 3:11:14 PM  
@@ -23,7 +83,7 @@ OpenAI says a billing mistake made its new AI models cheaper to use than intende
 
 ---
 
-## 2. Elon Musk Says ‘Multiplanetary’ SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion
+## 7. Elon Musk Says ‘Multiplanetary’ SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion
 
 **Author:** Jose Antonio Lanz  
 **Published:** 11/26/2026, 2:38:55 PM  
@@ -35,7 +95,7 @@ The SpaceX founder claims the firm could one day be worth a million times the gl
 
 ---
 
-## 3. Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence
+## 8. Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence
 
 **Author:** Decrypt Staff  
 **Published:** 11/26/2026, 2:26:22 PM  
@@ -47,7 +107,7 @@ The startup uses AI to interpret real-world events for onchain apps and agents, 
 
 ---
 
-## 4. Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details
+## 9. Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details
 
 **Author:** Decrypt Agent  
 **Published:** 11/26/2026, 1:13:19 PM  
@@ -59,7 +119,7 @@ The crypto custodian said an unauthorized party accessed some client and staff n
 
 ---
 
-## 5. Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over
+## 10. Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over
 
 **Author:** Decrypt Agent  
 **Published:** 11/26/2026, 12:26:08 PM  
@@ -71,7 +131,7 @@ A month after saying Bitcoin had bottomed in June, Galaxy now says a daily close
 
 ---
 
-## 6. UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report
+## 11. UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report
 
 **Author:** Decrypt Agent  
 **Published:** 11/26/2026, 11:50:23 AM  
@@ -83,7 +143,7 @@ The FCA plans to require DeFi platforms to be authorized and to keep regulated e
 
 ---
 
-## 7. New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US
+## 12. New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US
 
 **Author:** Decrypt Agent  
 **Published:** 11/26/2026, 11:25:58 AM  
