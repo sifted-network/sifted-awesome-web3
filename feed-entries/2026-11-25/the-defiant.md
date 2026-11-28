@@ -2,12 +2,12 @@
 title: "The Defiant - 2026-11-25"
 date: "2026-11-25"
 source: "The Defiant"
-count: 46
+count: 36
 ---
 
 # The Defiant - 2026-11-25
 
-46 items collected.
+36 items collected.
 
 ---
 
@@ -440,125 +440,5 @@ W and AXL fell less over the same week, while BTC and ETH lost about 8%. Newly o
 The company retains about 134,532 ETH and equivalents, including liquid-staking tokens pledged against its remaining $50 million Galaxy loan.
 
 📖 [Read original article](https://thedefiant.io/news/cefi/bit-digital-sells-29-825-eth-to-halve-galaxy-debt)
-
----
-
-## 37. Ukraine Passes Bill to Regulate and Tax Crypto Assets
-
-**Author:** The Defiant  
-**Published:** 11/25/2026, 11:06:57 AM  
-**Categories:** -  
-
-The measure won 271 votes and would put crypto platforms under shared regulatory oversight, with a July 2027 start planned. The signature process remains incomplete.
-
-📖 [Read original article](https://thedefiant.io/news/regulation/ukraine-passes-bill-to-regulate-and-tax-crypto-assets)
-
----
-
-## 38. EU Proposes Quantum Act to Turn Research Into Products
-
-**Author:** The Defiant  
-**Published:** 11/25/2026, 9:33:31 AM  
-**Categories:** -  
-
-The draft would coordinate national programmes and enable a tech equity fund, but allocates no fixed budget and still needs lawmakers’ approval.
-
-📖 [Read original article](https://thedefiant.io/frontier/regulation/eu-proposes-quantum-act-to-turn-research-into-products)
-
----
-
-## 39. SBI, SMFG Launch Solana Venture for Onchain Finance
-
-**Author:** The Defiant  
-**Published:** 11/25/2026, 9:18:12 AM  
-**Categories:** -  
-
-The former SBI R3 Japan will target stablecoin payments and tokenized assets, establishing Japanese use cases before expanding overseas.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/sbi-smfg-launch-solana-venture-for-onchain-finance)
-
----
-
-## 40. HKMA Launches CMU Platform for Tokenized Bond Settlement
-
-**Author:** The Defiant  
-**Published:** 11/25/2026, 8:51:19 AM  
-**Categories:** -  
-
-Ten banks have joined the permissioned system, while connections to tokenized deposits and regulated stablecoins remain on its expansion roadmap.
-
-📖 [Read original article](https://thedefiant.io/converge/tradfi-and-fintech/hkma-launches-cmu-platform-for-tokenized-bond-settlement)
-
----
-
-## 41. French Senate Rejects €100,000 Crypto Wallet Rule
-
-**Author:** The Defiant  
-**Published:** 11/25/2026, 5:44:38 AM  
-**Categories:** -  
-
-Senators also rejected proposals to tax gains on swaps into certain stablecoins and extend the exit tax to crypto. The 2027 budget remains under debate.
-
-📖 [Read original article](https://thedefiant.io/news/regulation/french-senate-rejects-100-000-crypto-wallet-rule)
-
----
-
-## 42. MON Hits Record Low After First Insider Lockup Ends
-
-**Author:** The Defiant  
-**Published:** 11/25/2026, 4:38:54 AM  
-**Categories:** -  
-
-About 16.6 billion MON became eligible for release under Monad's vesting schedule—roughly 1.4 times its pre-unlock circulating supply.
-
-📖 [Read original article](https://thedefiant.io/news/tokens/mon-hits-record-low-after-first-insider-lockup-ends)
-
----
-
-## 43. Taiwan Stocks Sink as Much as 8.6% After 9% Rally
-
-**Author:** The Defiant  
-**Published:** 11/25/2026, 3:14:56 AM  
-**Categories:** -  
-
-TAIEX pared its loss to 7.1% in late-morning trading, while TSMC and Foxconn also sank following a US chip-stock selloff.
-
-📖 [Read original article](https://thedefiant.io/frontier/markets/taiwan-stocks-sink-as-much-as-8-6-after-9-rally)
-
----
-
-## 44. FinCEN Confirms Intrusion, Keeps BSA Filing Website Open
-
-**Author:** The Defiant  
-**Published:** 11/25/2026, 2:35:03 AM  
-**Categories:** -  
-
-The Treasury bureau says some systems are offline. A Nov. 24 order gives qualifying automated filers more time, but suspicious-activity monitoring must continue.
-
-📖 [Read original article](https://thedefiant.io/converge/security/fincen-confirms-intrusion-keeps-bsa-filing-website-open)
-
----
-
-## 45. Liquity Says V2 ETH Branch Is in Safety Mode Near 149%
-
-**Author:** The Defiant  
-**Published:** 11/25/2026, 1:54:38 AM  
-**Categories:** -  
-
-The protocol reported about 149% collateralization, below the 150% Safety Mode threshold that restricts withdrawals and new debt.
-
-📖 [Read original article](https://thedefiant.io/news/defi/liquity-says-v2-eth-branch-is-in-safety-mode-near-149)
-
----
-
-## 46. Trump Says He Lobbied Nvidia Board for Huang’s Return
-
-**Author:** The Defiant  
-**Published:** 11/25/2026, 12:20:09 AM  
-**Categories:** -  
-
-The president told the WSJ that Nvidia’s falling stock helped his push. Directors reinstated Huang while their independent inquiry remained open.
-
-📖 [Read original article](https://thedefiant.io/frontier/ai/trump-says-he-lobbied-nvidia-board-for-huang-s-return)
 
 ---
