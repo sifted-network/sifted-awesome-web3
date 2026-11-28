@@ -2,16 +2,28 @@
 title: "The Block - 2026-11-27"
 date: "2026-11-27"
 source: "The Block"
-count: 6
+count: 7
 ---
 
 # The Block - 2026-11-27
 
-6 items collected.
+7 items collected.
 
 ---
 
-## 1. Tether buys $10 million of Bitdeer shares as stock hovers near all-time low
+## 1. CryptoQuant says bitcoin price recovery needs USDT supply growth
+
+**Author:** Yogita Khatri  
+**Published:** 11/27/2026, 6:13:45 PM  
+**Categories:** Crypto Ecosystems, Equities, Layer 1s, Markets, Stablecoins, Token Projects, Web3, Analyst Reports, Bitcoin, Crypto, Tether, News  
+
+Bitcoin needs USDT supply to start growing again for a sustained price recovery, according to CryptoQuant.
+
+📖 [Read original article](https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560)
+
+---
+
+## 2. Tether buys $10 million of Bitdeer shares as stock hovers near all-time low
 
 **Author:** Brian Danga  
 **Published:** 11/27/2026, 3:00:21 PM  
@@ -23,7 +35,7 @@ USDT issuer Tether spent about $10 million earlier this week to acquire 3.72 mil
 
 ---
 
-## 2. AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33
+## 3. AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33
 
 **Author:** James Hunt  
 **Published:** 11/27/2026, 2:24:21 PM  
@@ -35,7 +47,7 @@ K33 said recent mathematical advances had not demonstrated a compromise of Bitco
 
 ---
 
-## 3. Bank of Japan official says stablecoins need reserve rules to preserve ‘singleness of money’
+## 4. Bank of Japan official says stablecoins need reserve rules to preserve ‘singleness of money’
 
 **Author:** Brian Danga  
 **Published:** 11/27/2026, 10:45:02 AM  
@@ -47,7 +59,7 @@ Japan’s central bank warned that stablecoins and tokenized deposits need safeg
 
 ---
 
-## 4. Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15
+## 5. Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15
 
 **Author:** Danny Park  
 **Published:** 11/27/2026, 7:51:14 AM  
@@ -59,7 +71,7 @@ Developers also discussed whether post-quantum readiness should trump other prop
 
 ---
 
-## 5. China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation
+## 6. China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation
 
 **Author:** Timmy Shen  
 **Published:** 11/27/2026, 4:18:40 AM  
@@ -71,7 +83,7 @@ The decision comes after the group met in May in Uzbekistan and identified cross
 
 ---
 
-## 6. JPMorgan flags bitcoin ‘capitulation,’ Democrats push back on SEC’s crypto plans, and more
+## 7. JPMorgan flags bitcoin ‘capitulation,’ Democrats push back on SEC’s crypto plans, and more
 
 **Author:** Yogita Khatri  
 **Published:** 11/27/2026, 2:20:00 AM  
