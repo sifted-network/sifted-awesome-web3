@@ -47,13 +47,13 @@ Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600 and is on cour
 
 ---
 
-## 4. Live updates: Bitcoin drops below $60,000 as Nasdaq 100 gives up most of its early gains
+## 4. Live updates: Bitcoin's Thanksgiving gains prove fleeting
 
 **Author:** James Van Straten,Stephen Alpher  
 **Published:** 11/27/2026, 11:34:37 AM  
 **Categories:** Tech, Bitcoin News, Live News, live_news  
 
-The Nasdaq 100 rose just 0.8% after futures gained about 3% before the open, while Nvidia fell more than 2% and bitcoin briefly slipped below $60,000.
+Stocks are broadly higher, but bitcoin has slipped back near $60,000, reversing a turkey day advance.
 
 📖 [Read original article](https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains)
 
