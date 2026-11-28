@@ -2,12 +2,12 @@
 title: "The Block - 2026-11-25"
 date: "2026-11-25"
 source: "The Block"
-count: 4
+count: 3
 ---
 
 # The Block - 2026-11-25
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Braiins warns that an attacker is redirecting miners' compute power to steal bit
 Fidelity has filed with the U.S. Securities and Exchange Commission to launch a spot Chainlink exchange-traded fund.
 
 📖 [Read original article](https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735)
-
----
-
-## 4. Justice Department takes aim at billions in crypto fraud proceeds in historic ‘largest ever crackdown’
-
-**Author:** Sarah Wynn  
-**Published:** 11/25/2026, 6:05:18 PM  
-**Categories:** Legal, People, Policy, Regulation, Crime, Donald Trump, News  
-
-Following President Trump’s directive to crack down on fraud, the Justice Department announced what it called its “largest-ever crackdown."
-
-📖 [Read original article](https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711)
 
 ---
