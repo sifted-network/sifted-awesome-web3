@@ -2,16 +2,76 @@
 title: "Cointelegraph - 2026-11-27"
 date: "2026-11-27"
 source: "Cointelegraph"
-count: 13
+count: 17
 ---
 
 # Cointelegraph - 2026-11-27
 
-13 items collected.
+17 items collected.
 
 ---
 
-## 1. What was Coinbase worth while Nasdaq was closed?
+## 1. Here’s what happened in crypto today
+
+**Author:** Cointelegraph by Ana Paula Pereira  
+**Published:** 11/27/2026, 10:12:51 PM  
+**Categories:** Latest News  
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 2. Franklin Templeton makes room for HYPE in crypto index ETF
+
+**Author:** Cointelegraph by Isabelle Castro  
+**Published:** 11/27/2026, 9:15:29 PM  
+**Categories:** Latest News  
+
+The addition comes as US spot investment products tracking Hyperliquid’s native token reach $266.5 million in assets under management.
+
+📖 [Read original article](https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 3. Bitcoin whales pile into BTC despite shrinking profit cushion
+
+**Author:** Cointelegraph by Isabelle Castro  
+**Published:** 11/27/2026, 7:23:00 PM  
+**Categories:** Markets  
+
+CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 4. China sets March 2027 rollout for blockchain identity regulations
+
+**Author:** Cointelegraph by Isabelle Castro  
+**Published:** 11/27/2026, 5:37:23 PM  
+**Categories:** Latest News  
+
+China has issued new regulations governing blockchain-based digital identities, setting rules for cross-platform verification and data privacy.
+
+📖 [Read original article](https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 5. Bitcoin price drops below $59K as Anthropic joins tech stock rebound
+
+**Author:** Cointelegraph by William Suberg  
+**Published:** 11/27/2026, 4:48:51 PM  
+**Categories:** Markets  
+
+Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,700 while stocks and gold headed higher.
+
+📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+
+---
+
+## 6. What was Coinbase worth while Nasdaq was closed?
 
 **Author:** Cointelegraph by Adrian Zmudzinski  
 **Published:** 11/27/2026, 2:40:54 PM  
@@ -23,7 +83,7 @@ A Thanksgiving buyer paid 106.24 USDC per Coinbase share. Whether that looked li
 
 ---
 
-## 2. Binance to launch tokenized IPO program after regulatory approval: Yi He
+## 7. Binance to launch tokenized IPO program after regulatory approval: Yi He
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/27/2026, 1:44:00 PM  
@@ -35,19 +95,7 @@ Binance is hiring for equity capital markets roles, including an analyst to deve
 
 ---
 
-## 3. Here’s what happened in crypto today
-
-**Author:** Cointelegraph by Yohan Yun  
-**Published:** 11/27/2026, 1:28:26 PM  
-**Categories:** Latest News  
-
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-
-📖 [Read original article](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 4. Brazil’s stock exchange pushes stablecoin launch back to 2027
+## 8. Brazil’s stock exchange pushes stablecoin launch back to 2027
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/27/2026, 12:39:54 PM  
@@ -59,7 +107,7 @@ Brazil’s stock exchange is working with six major financial institutions on a 
 
 ---
 
-## 5. Austria-supervised crypto firms report 20.4B euros in H1 trading volume
+## 9. Austria-supervised crypto firms report 20.4B euros in H1 trading volume
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/27/2026, 12:20:00 PM  
@@ -71,7 +119,7 @@ About 74% of accounts were based in other EEA countries, highlighting the market
 
 ---
 
-## 6. Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives
+## 10. Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives
 
 **Author:** Cointelegraph by William Suberg  
 **Published:** 11/27/2026, 11:14:28 AM  
@@ -83,7 +131,7 @@ The seven-day moving average of Bitcoin’s supply profit/loss ratio hit an 11-y
 
 ---
 
-## 7. Bluefin to shut down perps, refocus on spot trading and tokenized RWAs
+## 11. Bluefin to shut down perps, refocus on spot trading and tokenized RWAs
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/27/2026, 10:26:06 AM  
@@ -95,7 +143,7 @@ Bluefin will close its perps platform on Dec. 4, exiting a shrinking Sui market 
 
 ---
 
-## 8. ESMA to overhaul EU’s MiCA crypto register in 2027
+## 12. ESMA to overhaul EU’s MiCA crypto register in 2027
 
 **Author:** Cointelegraph by Helen Partz  
 **Published:** 11/27/2026, 8:04:39 AM  
@@ -107,7 +155,7 @@ ESMA’s new MiCA register will replace manual reporting and introduce automated
 
 ---
 
-## 9. New York AG secures $1.37B court judgment against NovaTech founders
+## 13. New York AG secures $1.37B court judgment against NovaTech founders
 
 **Author:** Cointelegraph by Zoltan Vardai  
 **Published:** 11/27/2026, 7:19:44 AM  
@@ -119,7 +167,7 @@ The judgment follows an August 2025 default ruling against the founders over a P
 
 ---
 
-## 10. Japan’s crypto security group taps SEAL to speed up hack response
+## 14. Japan’s crypto security group taps SEAL to speed up hack response
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/27/2026, 5:22:36 AM  
@@ -131,7 +179,7 @@ The partnership comes weeks after a third-party data breach exposed hundreds of 
 
 ---
 
-## 11. Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays
+## 15. Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/27/2026, 4:47:36 AM  
@@ -143,7 +191,7 @@ Glamsterdam’s Hoodi upgrade was delayed in October after concerns that changes
 
 ---
 
-## 12. AI is driving a flood of crypto bug reports. Now it’s helping sort them
+## 16. AI is driving a flood of crypto bug reports. Now it’s helping sort them
 
 **Author:** Cointelegraph by Felix Ng  
 **Published:** 11/27/2026, 1:47:38 AM  
@@ -155,7 +203,7 @@ Bug bounty platform HackerOne said it’s increasing its triage throughput with 
 
 ---
 
-## 13. Privacy coins face diverging fortunes as KuCoin moves to drop Monero
+## 17. Privacy coins face diverging fortunes as KuCoin moves to drop Monero
 
 **Author:** Cointelegraph by Isabelle Castro  
 **Published:** 11/27/2026, 12:35:39 AM  
