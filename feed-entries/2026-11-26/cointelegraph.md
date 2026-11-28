@@ -2,12 +2,12 @@
 title: "Cointelegraph - 2026-11-26"
 date: "2026-11-26"
 source: "Cointelegraph"
-count: 17
+count: 13
 ---
 
 # Cointelegraph - 2026-11-26
 
-17 items collected.
+13 items collected.
 
 ---
 
@@ -164,53 +164,5 @@ Buterin warned that future attacks could use lookalike chips with hidden malicio
 Zodia Custody’s CEO said the breach exposed names and email addresses of some clients and employees and was detected by the company Monday.
 
 📖 [Read original article](https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 14. Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity
-
-**Author:** Cointelegraph by William Suberg  
-**Published:** 11/26/2026, 11:22:59 AM  
-**Categories:** Markets  
-
-Bitcoin joined US stock futures in a modest relief rally as Talos questioned crypto demand and the broader outlook for the AI trade.
-
-📖 [Read original article](https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 15. Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/26/2026, 10:15:28 AM  
-**Categories:** Latest News  
-
-Zcash developers urged users to move funds out of an older shielded transaction pool over concerns that AI advances could compromise its cryptography.
-
-📖 [Read original article](https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 16. Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend
-
-**Author:** Cointelegraph by Ezra Reguerra  
-**Published:** 11/26/2026, 9:42:34 AM  
-**Categories:** Markets  
-
-The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billion.
-
-📖 [Read original article](https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-
----
-
-## 17. Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour
-
-**Author:** Cointelegraph by Zoltan Vardai  
-**Published:** 11/26/2026, 9:18:15 AM  
-**Categories:** Markets  
-
-The spot Bitcoin ETF will be backed by Bitcoin held in cold storage at a Swiss bank, unlike prior Bitcoin ETPs structured as debt securities.
-
-📖 [Read original article](https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
